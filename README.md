@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So I adopted two dogs to protect my house...](http://9gag.com/gag/a2KM8XO)
- - 🚯 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
- - 🚯 [An infinite Lego domino ring!](http://9gag.com/gag/a7q8eWq)<!-- MEMES:END -->
+ - 🚖 [Chinese lawmakers rise and clap for Xi Jinping as he wins the vote in the National People\u2019s Congress 2,952-0 for a third five-year term](http://9gag.com/gag/amAWWYX)
+ - 🚯 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)
+ - 🚯 [Beautiful](http://9gag.com/gag/aOx2DDv)<!-- MEMES:END -->
 
 --- 
 
