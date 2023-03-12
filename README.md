@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)
+ - 🚖 [Know your rights when it comes to cops](http://9gag.com/gag/a8qA75d)
  - 🚯 [Perfectly said. When in Rome, do as the romans do](http://9gag.com/gag/avQWE85)
- - 🚯 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)<!-- MEMES:END -->
+ - 🚯 [No need to buy natural gas anymore](http://9gag.com/gag/aoKWKdm)<!-- MEMES:END -->
 
 --- 
 
