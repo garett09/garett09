@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big boom time coming ?](http://9gag.com/gag/avQWe0M)
- - 🚯 [No need to buy natural gas anymore](http://9gag.com/gag/aoKWKdm)
- - 🚯 [Italian boyfriend challenged not to gesture while speaking](http://9gag.com/gag/aDY78bO)<!-- MEMES:END -->
+ - 🚖 [It&#39;s a terrible day for rain](http://9gag.com/gag/aPgxoyG)
+ - 🚯 [Big boom time coming ?](http://9gag.com/gag/avQWe0M)
+ - 🚯 [Perfectly said. When in Rome, do as the romans do](http://9gag.com/gag/avQWE85)<!-- MEMES:END -->
 
 --- 
 
