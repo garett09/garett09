@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japanese coast guard patrol boat encountering a giant tsunami off the coast of Fukushima prefecture after a massive earthquake on 11th March 2011](http://9gag.com/gag/aEqMVWo)
- - 🚯 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)
- - 🚯 [9Gag in a nutshell](http://9gag.com/gag/ay2q48r)<!-- MEMES:END -->
+ - 🚖 [Sad, true &amp; funny](http://9gag.com/gag/aYVGMY7)
+ - 🚯 [Doume iteurneul](http://9gag.com/gag/a7q822m)
+ - 🚯 [For the boys](http://9gag.com/gag/aZDnjoQ)<!-- MEMES:END -->
 
 --- 
 
