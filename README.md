@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More than a bailout, SVB needs a white knight, someone who can come in and take over the bank that has been at the heart of the US innovation economy &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/230312/p2#a230312p2)
- - [2023 MacBook Pro sale is in effect at B&amp;H, save up to $200 instantly](https://appleinsider.com/articles/23/03/12/2023-macbook-pro-sale-is-in-effect-at-bh-save-up-to-200-instantly?utm_medium=rss)
- - [Sources: Tim Cook is pressing ahead with the MR headset debut this year, overruling designers&#39; objections, and Apple expects to sell ~1M units in the first year &lpar;Financial Times&rpar;](http://www.techmeme.com/230312/p1#a230312p1)<!-- TECH:END -->
+ - [Crime blotter: Charlotte businessmen plead guilty in iPhone thefts](https://appleinsider.com/articles/23/03/12/crime-blotter-charlotte-businessmen-plead-guilty-in-iphone-thefts?utm_medium=rss)
+ - [A look at Bring a Trailer, a classic car blog from 2007 that became a marketplace, facilitated $1.37B in 2022 sales, and held its 100,000th auction on March 7 &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230312/p3#a230312p3)
+ - [Make ChatGPT Work for You With These Browser Extensions](https://www.wired.com/story/chatgpt-browser-extensions/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
