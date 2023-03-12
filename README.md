@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oi you cheeky wanker](http://9gag.com/gag/a8qAegV)
- - 🚯 [Priorities](http://9gag.com/gag/a04on2q)
- - 🚯 [Pomegranate juice in Baghdad](http://9gag.com/gag/az25Ojp)<!-- MEMES:END -->
+ - 🚖 [Japanese coast guard patrol boat encountering a giant tsunami off the coast of Fukushima prefecture after a massive earthquake on 11th March 2011](http://9gag.com/gag/aEqMVWo)
+ - 🚯 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)
+ - 🚯 [9Gag in a nutshell](http://9gag.com/gag/ay2q48r)<!-- MEMES:END -->
 
 --- 
 
