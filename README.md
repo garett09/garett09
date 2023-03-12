@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)
- - 🚯 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)
- - 🚯 [Oh how the tables turned...](http://9gag.com/gag/a1P75EG)<!-- MEMES:END -->
+ - 🚯 [Perfectly said. When in Rome, do as the romans do](http://9gag.com/gag/avQWE85)
+ - 🚯 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)<!-- MEMES:END -->
 
 --- 
 
