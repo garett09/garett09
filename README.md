@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sad, true &amp; funny](http://9gag.com/gag/aYVGMY7)
- - 🚯 [Doume iteurneul](http://9gag.com/gag/a7q822m)
- - 🚯 [For the boys](http://9gag.com/gag/aZDnjoQ)<!-- MEMES:END -->
+ - 🚖 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)
+ - 🚯 [Hehe](http://9gag.com/gag/aDY7V0N)
+ - 🚯 [Gary Becker, Silicon Valley Bank CEO sold $3.6 million of company stock Thursday, bank failed Friday](http://9gag.com/gag/aBdZE0N)<!-- MEMES:END -->
 
 --- 
 
