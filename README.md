@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am done hope you enjoy it.](http://9gag.com/gag/aRELMLM)
- - 🚯 [Know your rights when it comes to cops](http://9gag.com/gag/a8qA75d)
- - 🚯 [Chinese lawmakers rise and clap for Xi Jinping as he wins the vote in the National People\u2019s Congress 2,952-0 for a third five-year term](http://9gag.com/gag/amAWWYX)<!-- MEMES:END -->
+ - 🚖 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)
+ - 🚯 [I am done hope you enjoy it.](http://9gag.com/gag/aRELMLM)
+ - 🚯 [They done it .](http://9gag.com/gag/abveW9b)<!-- MEMES:END -->
 
 --- 
 
