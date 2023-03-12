@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)
+ - 🚖 [People falling in to the water because they think this is a gravel road.](http://9gag.com/gag/aEqMWWp)
  - 🚯 [I am done hope you enjoy it.](http://9gag.com/gag/aRELMLM)
  - 🚯 [They done it .](http://9gag.com/gag/abveW9b)<!-- MEMES:END -->
 
