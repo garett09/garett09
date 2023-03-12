@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People falling in to the water because they think this is a gravel road.](http://9gag.com/gag/aEqMWWp)
- - 🚯 [I am done hope you enjoy it.](http://9gag.com/gag/aRELMLM)
+ - 🚖 [Like something out of a Nolan Batman movie](http://9gag.com/gag/aqeRQx7)
+ - 🚯 [Cat at the vets office](http://9gag.com/gag/aqeRx8L)
  - 🚯 [They done it .](http://9gag.com/gag/abveW9b)<!-- MEMES:END -->
 
 --- 
