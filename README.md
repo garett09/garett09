@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s smartphone &#39;space zoom&#39; may lean heavily on AI for moon shots](https://appleinsider.com/articles/23/03/11/samsungs-smartphone-space-zoom-may-lean-heavily-on-ai-for-moon-shots?utm_medium=rss)
- - [Meta says it plans to block Canadians&#39; ability to view or share news content on Facebook and Instagram if the country&#39;s proposed Online News Act becomes law &lpar;Marie Woolf/Globe and Mail&rpar;](http://www.techmeme.com/230311/p16#a230311p16)
- - [An interview with Gowalla co-founder and CEO Josh Williams as he re-launches his location-based social networking app at SXSW, 14 years after its debut &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230311/p15#a230311p15)<!-- TECH:END -->
+ - [It looks like Samsung is cheating on its &#39;space zoom&#39; photos](https://appleinsider.com/articles/23/03/11/samsungs-smartphone-space-zoom-may-lean-heavily-on-ai-for-moon-shots?utm_medium=rss)
+ - [Sources: the FDIC is racing to sell SVB&#39;s assets and make 30% to 50% or more of clients&#39; uninsured deposits available as soon as Monday &lpar;Bloomberg&rpar;](http://www.techmeme.com/230311/p18#a230311p18)
+ - [Cerebral admits to sharing patient data with Meta, TikTok, and Google](https://www.theverge.com/2023/3/11/23635518/cerebral-patient-data-meta-tiktok-google-pixel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
