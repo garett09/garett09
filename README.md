@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Like a Dragon: Ishin!’ Is a True Yakuza Game](https://www.wired.com/story/like-a-dragon-ishin-true-yakuza-game/)
- - [Tim Cook may be launching Apple VR headset earlier than engineers want](https://appleinsider.com/articles/23/03/12/apples-vr-headset-launch-in-2023-goes-against-design-teams-advice?utm_medium=rss)
- - [How to build an Alexa-based smart home](https://www.androidauthority.com/how-to-build-alexa-smart-home-3285345/)<!-- TECH:END -->
+ - [Creative Sensemore Air review: Great, when they connect properly](https://appleinsider.com/articles/23/03/12/creative-sensemore-air-review-great-when-they-connect-properly?utm_medium=rss)
+ - [An average router ruined my smart home, especially my Nest speakers](https://www.androidauthority.com/bad-router-ruin-smart-home-3294785/)
+ - [10 Best Apple 3-in-1 Wireless Chargers &lpar;2023&rpar;: For iPhone, AirPods, Apple Watch](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
