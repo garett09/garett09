@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Italian boyfriend challenged not to gesture while speaking](http://9gag.com/gag/aDY78bO)
- - 🚯 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)
- - 🚯 [It&#39;s a terrible day for rain](http://9gag.com/gag/aPgxoyG)<!-- MEMES:END -->
+ - 🚖 [So I adopted two dogs to protect my house...](http://9gag.com/gag/a2KM8XO)
+ - 🚯 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
+ - 🚯 [An infinite Lego domino ring!](http://9gag.com/gag/a7q8eWq)<!-- MEMES:END -->
 
 --- 
 
