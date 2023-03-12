@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Soulslike dev accused of reusing FromSoftware animations](https://www.pcgamer.com/soulslike-dev-accused-of-reusing-fromsoftware-animations)
  - [How to watch the 2023 Oscars, and when they start](https://www.polygon.com/23621110/oscars-2023-when-how-to-watch-stream-what-time)
- - [Atomic Heart patch adds FOV slider, removes mouse acceleration](https://www.pcgamer.com/atomic-heart-patch-adds-fov-slider-removes-mouse-acceleration)
- - [Put another notch on Google&#39;s axe, Stadia&#39;s switch to a licenced streaming platform is dead too](https://www.pcgamer.com/put-another-notch-on-googles-axe-stadias-switch-to-a-licenced-streaming-platform-is-dead-too)<!-- GAME:END -->
+ - [Atomic Heart patch adds FOV slider, removes mouse acceleration](https://www.pcgamer.com/atomic-heart-patch-adds-fov-slider-removes-mouse-acceleration)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
