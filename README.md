@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to build an Alexa-based smart home](https://www.androidauthority.com/how-to-build-alexa-smart-home-3285345/)
- - [How Quantum Physicists ‘Flipped Time’ &lpar;and Didn’t&rpar;](https://www.wired.com/story/how-quantum-physicists-flipped-time-and-didnt/)
- - [Apple&#39;s VR headset launch in 2023 goes against design team&#39;s advice](https://appleinsider.com/articles/23/03/12/apples-vr-headset-launch-in-2023-goes-against-design-teams-advice?utm_medium=rss)<!-- TECH:END -->
+ - [‘Like a Dragon: Ishin!’ Is a True Yakuza Game](https://www.wired.com/story/like-a-dragon-ishin-true-yakuza-game/)
+ - [Tim Cook may be launching Apple VR headset earlier than engineers want](https://appleinsider.com/articles/23/03/12/apples-vr-headset-launch-in-2023-goes-against-design-teams-advice?utm_medium=rss)
+ - [How to build an Alexa-based smart home](https://www.androidauthority.com/how-to-build-alexa-smart-home-3285345/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
