@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Smart Annotations on iPad](https://appleinsider.com/inside/ipad/tips/how-to-use-smart-annotations-on-ipad?utm_medium=rss)
- - [This MagSafe grip made my Pixel 7 Pro feel like a DSLR camera](https://www.androidauthority.com/shiftcam-snapgrip-magsafe-grip-review-3285696/)
- - [Best Gifts Under $250 for 2023     - CNET](https://www.cnet.com/tech/best-gifts-under-250/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [11 Best Coffee Grinders &lpar;2023&rpar;: Conical-Burr, Flat-Burr, Manual, Blade](https://www.wired.com/gallery/best-coffee-grinders/)
+ - [Sources: US officials are considering the extraordinary step of protecting all uninsured SVB deposits, if the FDIC is unable to find a buyer for the failed bank &lpar;Washington Post&rpar;](http://www.techmeme.com/230312/p9#a230312p9)
+ - [Sources: regional banks are the likeliest bidders to prevail in the sale process for Silicon Valley Bank, not &quot;too big to fail&quot; banks like JPM or BoA &lpar;Lauren Tara LaCapra/The Information&rpar;](http://www.techmeme.com/230312/p8#a230312p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
