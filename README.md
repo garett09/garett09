@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Like something out of a Nolan Batman movie](http://9gag.com/gag/aqeRQx7)
- - 🚯 [Cat at the vets office](http://9gag.com/gag/aqeRx8L)
- - 🚯 [They done it .](http://9gag.com/gag/abveW9b)<!-- MEMES:END -->
+ - 🚯 [The explanation didn\u2019t make it any better](http://9gag.com/gag/agoQ1dn)
+ - 🚯 [Chinese lawmakers rise and clap for Xi Jinping as he wins the vote in the National People\u2019s Congress 2,952-0 for a third five-year term](http://9gag.com/gag/amAWWYX)<!-- MEMES:END -->
 
 --- 
 
