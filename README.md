@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #631: Sunday, March 12](https://www.pcgamer.com/wordle-hint-answer-today-631-march-12)
  - [Soulslike dev accused of reusing FromSoftware animations](https://www.pcgamer.com/soulslike-dev-accused-of-reusing-fromsoftware-animations)
- - [How to watch the 2023 Oscars, and when they start](https://www.polygon.com/23621110/oscars-2023-when-how-to-watch-stream-what-time)
- - [Atomic Heart patch adds FOV slider, removes mouse acceleration](https://www.pcgamer.com/atomic-heart-patch-adds-fov-slider-removes-mouse-acceleration)<!-- GAME:END -->
+ - [How to watch the 2023 Oscars, and when they start](https://www.polygon.com/23621110/oscars-2023-when-how-to-watch-stream-what-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
