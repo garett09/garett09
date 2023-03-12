@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chinese lawmakers rise and clap for Xi Jinping as he wins the vote in the National People\u2019s Congress 2,952-0 for a third five-year term](http://9gag.com/gag/amAWWYX)
- - 🚯 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)
- - 🚯 [Beautiful](http://9gag.com/gag/aOx2DDv)<!-- MEMES:END -->
+ - 🚖 [Julius Caesar has returned](http://9gag.com/gag/aNwLV16)
+ - 🚯 [An infinite Lego domino ring!](http://9gag.com/gag/a7q8eWq)
+ - 🚯 [This Chimp mom thought her baby had died when the vets took it away from her for medical treatment right after she gave birth. This is her reaction 2 days later.](http://9gag.com/gag/aGEL810)<!-- MEMES:END -->
 
 --- 
 
