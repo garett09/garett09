@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [STALKER 2 developer suffers Russia-linked security breach: &#39;We have been enduring constant cyberattacks for more than a year now&#39;](https://www.pcgamer.com/stalker-2-developer-suffers-russia-linked-security-breach-we-have-been-enduring-constant-cyberattacks-for-more-than-a-year-now)
  - [EO, the Oscars’ oddest nominee, proves we need more movies from animal perspectives](https://www.polygon.com/23632808/eo-movie-oscars-2023-best-movies-about-animals)
- - [SNL casts Jenna Ortega as exactly the X-Men member you’d expect](https://www.polygon.com/23636108/snl-jenna-ortega-x-men-sketch-saturday-night-live)
- - [Wordle hint and answer #631: Sunday, March 12](https://www.pcgamer.com/wordle-hint-answer-today-631-march-12)<!-- GAME:END -->
+ - [SNL casts Jenna Ortega as exactly the X-Men member you’d expect](https://www.polygon.com/23636108/snl-jenna-ortega-x-men-sketch-saturday-night-live)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
