@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tim Cook is pressing ahead with the MR headset debut this year, overruling designers&#39; objections, and Apple expects to sell ~1M units in the first year &lpar;Financial Times&rpar;](http://www.techmeme.com/230312/p1#a230312p1)
  - [SVB draws support from 300+ VC firms, including General Catalyst, while 1,200+ founders and CEOs sign a Y Combinator petition asking the US Congress to act &lpar;Bloomberg&rpar;](http://www.techmeme.com/230311/p20#a230311p20)
- - [Worried that cloud giants offer concentrated targets, the US plans to regulate the security practices of cloud providers like Amazon, Microsoft, and Google &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/230311/p19#a230311p19)
- - [HBO Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-shows-to-watch-march-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Worried that cloud giants offer concentrated targets, the US plans to regulate the security practices of cloud providers like Amazon, Microsoft, and Google &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/230311/p19#a230311p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
