@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Charlotte businessmen plead guilty in iPhone thefts](https://appleinsider.com/articles/23/03/12/crime-blotter-charlotte-businessmen-plead-guilty-in-iphone-thefts?utm_medium=rss)
- - [A look at Bring a Trailer, a classic car blog from 2007 that became a marketplace, facilitated $1.37B in 2022 sales, and held its 100,000th auction on March 7 &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230312/p3#a230312p3)
- - [Make ChatGPT Work for You With These Browser Extensions](https://www.wired.com/story/chatgpt-browser-extensions/)<!-- TECH:END -->
+ - [How to build an Alexa-based smart home](https://www.androidauthority.com/how-to-build-alexa-smart-home-3285345/)
+ - [How Quantum Physicists ‘Flipped Time’ &lpar;and Didn’t&rpar;](https://www.wired.com/story/how-quantum-physicists-flipped-time-and-didnt/)
+ - [Apple&#39;s VR headset launch in 2023 goes against design team&#39;s advice](https://appleinsider.com/articles/23/03/12/apples-vr-headset-launch-in-2023-goes-against-design-teams-advice?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
