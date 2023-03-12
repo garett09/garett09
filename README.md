@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [American woman](http://9gag.com/gag/anzOxxL)
+ - 🚖 [Oi you cheeky wanker](http://9gag.com/gag/a8qAegV)
  - 🚯 [Priorities](http://9gag.com/gag/a04on2q)
- - 🚯 [Oi you cheeky wanker](http://9gag.com/gag/a8qAegV)<!-- MEMES:END -->
+ - 🚯 [Pomegranate juice in Baghdad](http://9gag.com/gag/az25Ojp)<!-- MEMES:END -->
 
 --- 
 
