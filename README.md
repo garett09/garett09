@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [iPhone 15 models show size differences compared to iPhone 14 cases](https://appleinsider.com/articles/23/03/12/iphone-15-models-show-size-differences-compared-to-iphone-14-cases?utm_medium=rss)
- - [The Best Fantasy Movies on Prime Video You Can Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-movies-on-prime-video-you-can-watch-right-now/#ftag=CAD590a51e)
- - [March Madness 2023: Selection Sunday, Tournament Schedule, Bracket, How to Watch and More     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2023-selection-sunday-tournament-schedule-bracket-how-to-watch-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Etsy is delaying seller payouts following Silicon Valley Bank’s collapse](https://www.theverge.com/2023/3/12/23636379/etsy-delaying-seller-payouts-silicon-valley-bank-collapse)
+ - [The Best Fantasy Movies on Prime Video You Can Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-movies-on-prime-video-you-can-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
