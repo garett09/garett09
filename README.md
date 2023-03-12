@@ -140,7 +140,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It looks like Samsung is cheating on its &#39;space zoom&#39; photos](https://appleinsider.com/articles/23/03/11/samsungs-smartphone-space-zoom-may-lean-heavily-on-ai-for-moon-shots?utm_medium=rss)
+ - [It looks like Samsung is cheating on &#39;space zoom&#39; moon photos](https://appleinsider.com/articles/23/03/11/samsungs-smartphone-space-zoom-may-lean-heavily-on-ai-for-moon-shots?utm_medium=rss)
  - [Sources: the FDIC is racing to sell SVB&#39;s assets and make 30% to 50% or more of clients&#39; uninsured deposits available as soon as Monday &lpar;Bloomberg&rpar;](http://www.techmeme.com/230311/p18#a230311p18)
  - [Cerebral admits to sharing patient data with Meta, TikTok, and Google](https://www.theverge.com/2023/3/11/23635518/cerebral-patient-data-meta-tiktok-google-pixel)<!-- TECH:END -->
 
