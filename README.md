@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Put another notch on Google&#39;s axe, Stadia&#39;s switch to a licenced streaming platform is dead too](https://www.pcgamer.com/put-another-notch-on-googles-axe-stadias-switch-to-a-licenced-streaming-platform-is-dead-too)
  - [What happens when you repurpose H. R. Giger art to make a game? You get Dark Seed](https://www.pcgamer.com/saturday-crapshoot-darkseed)
- - [I downloaded &#39;The Elder Scrolls 6&#39; but I&#39;m starting to think it might not really be The Elder Scrolls 6](https://www.pcgamer.com/i-downloaded-the-elder-scrolls-6-but-im-starting-to-think-it-might-not-really-be-the-elder-scrolls-6)
- - [Dungeons &amp; Dragons: Honor Among Thieves is everything a D&amp;D fan could want](https://www.polygon.com/23635507/dungeons-dragons-honor-among-thieves-sxsw-review-spoiler-free)<!-- GAME:END -->
+ - [I downloaded &#39;The Elder Scrolls 6&#39; but I&#39;m starting to think it might not really be The Elder Scrolls 6](https://www.pcgamer.com/i-downloaded-the-elder-scrolls-6-but-im-starting-to-think-it-might-not-really-be-the-elder-scrolls-6)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
