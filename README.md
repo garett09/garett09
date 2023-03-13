@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s just my Tuesday](http://9gag.com/gag/adPvxVM)
- - 🚯 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)
+ - 🚖 [Hehe](http://9gag.com/gag/aDY7V0N)
+ - 🚯 [This is spar... south africa!](http://9gag.com/gag/aqeRze7)
  - 🚯 [Rest in peace, Julia](http://9gag.com/gag/armWqyK)<!-- MEMES:END -->
 
 --- 
