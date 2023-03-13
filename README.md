@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The FED officially announced that two days after the collapse of SVB &lpar;$200 billion assets&rpar;, another bank collapsed: Signature Bank &lpar;$110 billion assets&rpar;.](http://9gag.com/gag/aPgx1mV)
- - 🚯 [What happened ?](http://9gag.com/gag/a2KMDXw)
- - 🚯 [Nice going Hollywood.](http://9gag.com/gag/awZgO11)<!-- MEMES:END -->
+ - 🚖 [Poll to fix at least one crap thing about 9GAG.](http://9gag.com/gag/ay2qQor)
+ - 🚯 [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
+ - 🚯 [The safest ducks in town](http://9gag.com/gag/a5XV5NE)<!-- MEMES:END -->
 
 --- 
 
