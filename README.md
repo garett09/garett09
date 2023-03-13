@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoverScreen OS turns the Oppo Find N2 Flip’s cover display into a mini phone](https://www.androidauthority.com/coverscreen-os-oppo-find-n2-3297786/)
- - [Best Smart Fitness Mirrors For Your Home Gym     - CNET](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)
- - [For These Personal Finance Influencers, Infertility Wasn&#39;t Part of the Plan     - CNET](https://www.cnet.com/personal-finance/fi-couple-infertility/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to pick the best Thunderbolt cable for Mac](https://appleinsider.com/inside/mac/best/how-to-pick-the-best-thunderbolt-cable-for-mac?utm_medium=rss)
+ - [Google Brings Night Sight, Magic Eraser to More Pixel Phones     - CNET](https://www.cnet.com/tech/mobile/google-brings-night-sight-magic-eraser-to-more-pixel-phones/#ftag=CAD590a51e)
+ - [How to use ChatGPT on Mac](https://appleinsider.com/inside/macos/tips/how-to-use-chatgpt-on-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
