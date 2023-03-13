@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Bungie Created Strand, Destiny 2’s First New Subclass in 3 Years](https://news.xbox.com/en-us/2023/03/13/destiny-2-lightfall-strand-subclass/)
- - [Give Ben Barnes his rom-com already!](https://www.polygon.com/23632936/ben-barnes-shadow-bone-kirigan-darkling-rom-com)
- - [STALKER 2 team says it was hacked by pro-Russian group, is being blackmailed](https://www.polygon.com/23637543/stalker-2-hack-russian-war-in-ukraine-threats)<!-- GAME:END -->
+ - [The non-Godzilla kaiju that could absolutely kick Godzilla’s scaly tail](https://www.polygon.com/23631006/godzilla-versus-belyudra-orochi-mother-legion-frankenstein)
+ - [The 3DS/Wii U eShops have two weeks to live. Here’s how to buy some last-minute games](https://www.polygon.com/guides/23637492/wii-u-3ds-eshop-closing-date-how-to-buy-digital-games)
+ - [This new Cyberpunk 2077 texture mod makes Night City more eye-popping than ever](https://www.pcgamer.com/this-new-cyberpunk-2077-texture-mod-makes-night-city-more-eye-popping-than-ever)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
