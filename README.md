@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to pick the best Thunderbolt cable for Mac](https://appleinsider.com/inside/mac/best/how-to-pick-the-best-thunderbolt-cable-for-mac?utm_medium=rss)
- - [Google Brings Night Sight, Magic Eraser to More Pixel Phones     - CNET](https://www.cnet.com/tech/mobile/google-brings-night-sight-magic-eraser-to-more-pixel-phones/#ftag=CAD590a51e)
- - [How to use ChatGPT on Mac](https://appleinsider.com/inside/macos/tips/how-to-use-chatgpt-on-mac?utm_medium=rss)<!-- TECH:END -->
+ - [A Pixel 7a developer unit allegedly leaks to a Vietnamese blog, with a 90Hz 6.1&quot; display, 8GB RAM, and a dual 12MP camera setup with wide and ultra-wide lenses &lpar;Kellen/Droid Life&rpar;](http://www.techmeme.com/230313/p24#a230313p24)
+ - [SVB’s Collapse Is Causing Chaos in India’s Tech Sector](https://www.wired.com/story/svbs-collapse-is-causing-chaos-in-indias-tech-sector/)
+ - [A Utah jury finds that Dish Network must pay $469M for infringing two patents held by parental-control technology maker ClearPlay &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230313/p23#a230313p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
