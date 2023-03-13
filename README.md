@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need buckets of this](http://9gag.com/gag/ap91xzb)
- - 🚯 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
- - 🚯 [Oh how the tables turned...](http://9gag.com/gag/a1P75EG)<!-- MEMES:END -->
+ - 🚖 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
+ - 🚯 [9Gag in a nutshell](http://9gag.com/gag/ay2q48r)
+ - 🚯 [You get what you vote](http://9gag.com/gag/aoKW86m)<!-- MEMES:END -->
 
 --- 
 
