@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Quiet on the Western Front is actually the Oscars’ horror contender](https://www.polygon.com/23627947/all-quiet-on-the-western-front-oscars-2023-best-picture-nominee)
- - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
- - [The Last of Us factions: Who they are and what they want](https://www.polygon.com/23585034/last-us-group-fireflies-fedra-hunters)<!-- GAME:END -->
+ - [Lady Gaga got real up close and personal at the Oscars 2023](https://www.polygon.com/entertainment/23637111/oscars-2023-lady-gaga-rihanna-performance)
+ - [The Last Of Us Episode 9 Recap: A Powerful, Haunting Finale](https://kotaku.com/tlou-last-of-us-recap-s1e9-finale-joel-ellie-giraffe-1850217781)
+ - [Kill monstrous hordes until you can delete magic forever in tactics RPG The Last Spell](https://www.pcgamer.com/kill-monstrous-hordes-until-you-can-delete-magic-forever-in-tactics-rpg-the-last-spell)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
