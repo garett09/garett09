@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is why coins today have ridges on their sides, to preven coin-clipping](http://9gag.com/gag/a6qDjNm)
- - 🚯 [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
- - 🚯 [You get what you vote](http://9gag.com/gag/aoKW86m)<!-- MEMES:END -->
+ - 🚖 [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
+ - 🚯 [Did German food prices really increase by 22% since Feb 2022?](http://9gag.com/gag/a7q8NYx)
+ - 🚯 [Brendan Fraser Wins Oscar for best actor :&rpar;](http://9gag.com/gag/amAWpoo)<!-- MEMES:END -->
 
 --- 
 
