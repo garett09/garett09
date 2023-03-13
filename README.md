@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Putin has been portrayed as a cranky, dying old fart &lpar;he looks pretty thin in that video !&rpar;, but that&#39;s nothing compared to Kadyrov. He is shaking so much that Putin has to hold the table with both hands, the Chechen goat fan reads the text in font size 48.](http://9gag.com/gag/a9qzBX0)
- - 🚯 [Man uses a bit of hand sanitizer to stop a snake from devouring itself](http://9gag.com/gag/a9qzO5o)
- - 🚯 [Culturaly enriched](http://9gag.com/gag/agoQEW1)<!-- MEMES:END -->
+ - 🚖 [Men are simple](http://9gag.com/gag/aDY7bWw)
+ - 🚯 [Oh how the tables turned...](http://9gag.com/gag/a1P75EG)
+ - 🚯 [The FED officially announced that two days after the collapse of SVB &lpar;$200 billion assets&rpar;, another bank collapsed: Signature Bank &lpar;$110 billion assets&rpar;.](http://9gag.com/gag/aPgx1mV)<!-- MEMES:END -->
 
 --- 
 
