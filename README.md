@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s finest deals: $199 AirPods Pro 2, $799 MacBook Air, Apple Watch $219, 34% off Beats](https://appleinsider.com/articles/23/03/13/amazons-finest-deals-199-airpods-pro-2-799-macbook-air-apple-watch-219-34-off-beats?utm_medium=rss)
- - [Solar Panels Floating in Reservoirs? We’ll Drink to That](https://www.wired.com/story/solar-panels-floating-in-reservoirs-well-drink-to-that/)
- - [First Republic Bank&#39;s stock drops 60%+, after declining 33% last week, despite the Fed&#39;s new lending facility and saying Sunday it had $70B+ in unused liquidity &lpar;CNBC&rpar;](http://www.techmeme.com/230313/p16#a230313p16)<!-- TECH:END -->
+ - [Pixel March feature drop brings Health Connect, faster Night Sight and more](https://www.androidauthority.com/pixel-feature-drop-march-2023-3295518/)
+ - [Apple iPhone 15: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)
+ - [WordPress.com owner Automattic acquires the ActivityPub for WordPress plugin and hires its dev, so blogs can integrate with the Fediverse, including Mastodon &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230313/p18#a230313p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
