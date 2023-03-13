@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Having perfected the art of using hype to move markets, VCs managed to hype their own rumors to collapse SVB, accidentally slaying a much loved accomplice &lpar;Sinead O&#39;Sullivan/Financial Times&rpar;](http://www.techmeme.com/230313/p8#a230313p8)
- - [The closure of SVB, Silvergate, Silvergate Exchange Network, and Signature adds stress to a troubled crypto industry; fiat conversion costs may rise by 20%-40% &lpar;Bloomberg&rpar;](http://www.techmeme.com/230313/p7#a230313p7)
- - [Samsung’s mid-range heroes are landing on March 16](https://www.androidauthority.com/samsung-galaxy-a54-galaxy-a34-launch-date-3295542/)<!-- TECH:END -->
+ - [A Face Recognition Site Crawled the Web for Dead People’s Photos](https://www.wired.com/story/a-face-recognition-site-crawled-the-web-for-dead-peoples-photos/)
+ - [15 Best Sleep Week Deals &lpar;2023&rpar;: Mattresses, Sheets, and Sound Machines](https://www.wired.com/story/sleep-week-deals-march-2023/)
+ - [After &#39;The Last of Us,&#39; Everything Will Be Transmedia](https://www.wired.com/story/the-last-of-us-transmedia-video-games-tv-movies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
