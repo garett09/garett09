@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why video game protagonists have become so chatty](https://www.polygon.com/23631177/chatty-video-game-characters-god-of-war-horizon-forbidden-west-high-on-life-forspoken)
- - [Of course the first thing modders did for the Resident Evil 4 demo was put Leon in a thong](https://www.pcgamer.com/of-course-the-first-thing-modders-did-for-the-resident-evil-4-demo-was-put-leon-in-a-thong)
- - [We&#39;re Losing More Than We Realize When These Classic Pokémon Games Get Pulled](https://kotaku.com/pokemon-3ds-eshop-shutdown-red-blue-yellow-gold-silver-1850213102)<!-- GAME:END -->
+ - [Dead Island 2&#39;s zombie fights quickly wear out their welcome—and its short, linear story has little else to offer](https://www.pcgamer.com/dead-island-2s-zombie-fights-quickly-wear-out-their-welcomeand-its-short-linear-story-has-little-else-to-offer)
+ - [Vote in our second annual Who Would Win Week tournament](https://www.polygon.com/2023/3/13/23632405/who-would-win-week-bracket-2023)
+ - [Roblox Is Being Handed $150 Million By Government After Bank Collapse, Money Isn&#39;t Real](https://kotaku.com/roblox-silicon-valley-bail-out-metaverse-crypto-svb-1850218806)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
