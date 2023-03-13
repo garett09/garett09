@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are the 2023 Oscar nominations — and the winners are incoming](https://www.polygon.com/23568882/oscars-2023-winners-list-academy-awards-nominations)
- - [Oscars 2023: Winners, surprises, and all the biggest moments](https://www.polygon.com/entertainment/23636440/oscars-2023-winners-speeches-opening-best-picture-movies)
- - [I won&#39;t say no to an out-of-the-blue update to this three-year-old, free, Mario-themed FPS demo](https://www.pcgamer.com/i-wont-say-no-to-an-out-of-the-blue-update-to-this-three-year-old-free-mario-themed-fps-demo)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 13, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-13-2023)
+ - [Everything Everywhere All At Once’s Ke Huy Quan gives an emotional Oscar speech](https://www.polygon.com/23636834/oscars-2023-ke-huy-quan-best-supporting-actor-speech-everything-everywhere-all-at-once)
+ - [Jimmy Kimmel starts the Oscars with... a slap joke, of course](https://www.polygon.com/23636809/oscars-2023-slap-joke-jimmy-kimmel-monologue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
