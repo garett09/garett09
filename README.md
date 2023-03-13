@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals: $200 off 2023 16-inch MacBook Pro, $50 off Xbox Series X, Apple Watch Series 8 $329 &amp; more](https://appleinsider.com/articles/23/03/13/daily-deals-200-off-2023-16-inch-macbook-pro-50-off-xbox-series-x-apple-watch-series-8-329-more?utm_medium=rss)
+ - [Get a Rosetta Stone lifetime subscription for just $169 with the Travel Hacker Bundle](https://appleinsider.com/articles/23/02/02/take-an-extra-15-off-a-rosetta-stone-lifetime-subscription-with-the-travel-hacker-bundle?utm_medium=rss)
  - [How to use Smart Annotation on iPad](https://appleinsider.com/inside/ipad/tips/how-to-use-smart-annotations-on-ipad?utm_medium=rss)
- - [After Microsoft invested $1B in OpenAI in 2019, the company scrambled to string together tens of thousands of Nvidia A100 GPUs, costing several hundred million &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/230313/p14#a230313p14)<!-- TECH:END -->
+ - [Daily Deals: $200 off 2023 16-inch MacBook Pro, $50 off Xbox Series X, Apple Watch Series 8 $329 &amp; more](https://appleinsider.com/articles/23/03/13/daily-deals-200-off-2023-16-inch-macbook-pro-50-off-xbox-series-x-apple-watch-series-8-329-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
