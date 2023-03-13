@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A developer runs Meta&#39;s 13B LLaMA model, considered to be competitive with GPT-3, on his laptop, showing local language models are feasible on consumer hardware &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/230312/p12#a230312p12)
  - [Oscars 2023: all the latest from film’s biggest awards show](https://www.theverge.com/2023/3/12/23633820/oscars-2023-news-winners)
- - [Signature Bank is closed by regulators, the third US bank failure in a week](https://www.theverge.com/2023/3/12/23636780/crypto-collapse-fdic-treasury-shut-down-signature-bank)
- - [New York shuts down Signature Bank as US regulators cite a &quot;systemic risk exception&quot; like for SVB, announcing all of Signature&#39;s depositors will be &quot;made whole&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/230312/p11#a230312p11)<!-- TECH:END -->
+ - [Signature Bank is closed by regulators, the third US bank failure in a week](https://www.theverge.com/2023/3/12/23636780/crypto-collapse-fdic-treasury-shut-down-signature-bank)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
