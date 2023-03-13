@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poll to fix at least one crap thing about 9GAG.](http://9gag.com/gag/ay2qQor)
- - 🚯 [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
- - 🚯 [The safest ducks in town](http://9gag.com/gag/a5XV5NE)<!-- MEMES:END -->
+ - 🚖 [Putin has been portrayed as a cranky, dying old fart &lpar;he looks pretty thin in that video !&rpar;, but that&#39;s nothing compared to Kadyrov. He is shaking so much that Putin has to hold the table with both hands, the Chechen goat fan reads the text in font size 48.](http://9gag.com/gag/a9qzBX0)
+ - 🚯 [Man uses a bit of hand sanitizer to stop a snake from devouring itself](http://9gag.com/gag/a9qzO5o)
+ - 🚯 [Culturaly enriched](http://9gag.com/gag/agoQEW1)<!-- MEMES:END -->
 
 --- 
 
