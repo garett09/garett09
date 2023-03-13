@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Face Recognition Site Crawled the Web for Dead People’s Photos](https://www.wired.com/story/a-face-recognition-site-crawled-the-web-for-dead-peoples-photos/)
- - [15 Best Sleep Week Deals &lpar;2023&rpar;: Mattresses, Sheets, and Sound Machines](https://www.wired.com/story/sleep-week-deals-march-2023/)
- - [After &#39;The Last of Us,&#39; Everything Will Be Transmedia](https://www.wired.com/story/the-last-of-us-transmedia-video-games-tv-movies/)<!-- TECH:END -->
+ - [Owala FreeSip Review: Sip or Chug](https://www.wired.com/review/owala-freesip/)
+ - [Silicon Valley Will Still Need A Bank](https://www.wired.com/story/silicon-valley-will-still-need-a-bank/)
+ - [The Electron Is Having a &lpar;Magnetic&rpar; Moment. It’s a Big Deal](https://www.wired.com/story/the-electron-is-having-a-magnetic-moment-its-a-big-deal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
