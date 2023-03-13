@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
- - 🚯 [Did German food prices really increase by 22% since Feb 2022?](http://9gag.com/gag/a7q8NYx)
- - 🚯 [Brendan Fraser Wins Oscar for best actor :&rpar;](http://9gag.com/gag/amAWpoo)<!-- MEMES:END -->
+ - 🚖 [Pro war people, before and during the war](http://9gag.com/gag/ap91VG9)
+ - 🚯 [This customizable light beam](http://9gag.com/gag/aGELOVZ)
+ - 🚯 [I got u bro](http://9gag.com/gag/aQEgyM2)<!-- MEMES:END -->
 
 --- 
 
