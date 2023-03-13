@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lady Gaga got real up close and personal at the Oscars 2023](https://www.polygon.com/entertainment/23637111/oscars-2023-lady-gaga-rihanna-performance)
- - [The Last Of Us Episode 9 Recap: A Powerful, Haunting Finale](https://kotaku.com/tlou-last-of-us-recap-s1e9-finale-joel-ellie-giraffe-1850217781)
- - [Kill monstrous hordes until you can delete magic forever in tactics RPG The Last Spell](https://www.pcgamer.com/kill-monstrous-hordes-until-you-can-delete-magic-forever-in-tactics-rpg-the-last-spell)<!-- GAME:END -->
+ - [Here are all the 2023 Oscar winners](https://www.polygon.com/23568882/oscars-2023-winners-list-academy-awards-nominations)
+ - [Hear Michelle Yeoh’s speech for her historic Everything Everywhere All at Once Best Actress win](https://www.polygon.com/23636975/oscars-2023-michelle-yeoh-best-actress-speech)
+ - [Everything Everywhere All At Once’s Best Picture win is a triumph for weird cinema](https://www.polygon.com/23636755/oscars-2023-best-picture-everything-everywhere-all-at-once-awards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
