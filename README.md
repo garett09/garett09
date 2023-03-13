@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silicon Valley Bank’s Failure Deals a Blow to Europe’s Startups](https://www.wired.com/story/silicon-valley-bank-europe-tech-startup/)
- - [Sources: the US DOJ is investigating the May 2022 collapse of the TerraUSD stablecoin; the SEC filed a suit against Terraform Labs and Do Kwon last month &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230313/p26#a230313p26)
- - [Meta says it is winding down its work on NFTs &quot;for now&quot; to focus on other ways of supporting creators, people, and businesses &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230313/p27#a230313p27)<!-- TECH:END -->
+ - [Sources: Chinese autonomous driving startup WeRide has filed confidentially for a US IPO and aims to raise $500M; WeRide was valued at ~$4.4B in March 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230313/p28#a230313p28)
+ - [Pixel 7a leaker beats Google to the punch, delivers high-quality photos](https://www.androidauthority.com/pixel-7a-leak-2-3297878/)
+ - [Silicon Valley Bank’s Failure Deals a Blow to Europe’s Startups](https://www.wired.com/story/silicon-valley-bank-europe-tech-startup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
