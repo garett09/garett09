@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🔮 The future of small phones](https://www.androidauthority.com/daily-authority-march-13-2023-3295510/)
- - [Apple and BBC win Oscar for &#39;The Boy, the Mole, the Fox, and the Horse&#39;](https://appleinsider.com/articles/23/03/13/apple-and-bbc-win-oscar-for-the-boy-the-mole-the-fox-and-the-horse?utm_medium=rss)
- - [Poco F5 Pro specs leak: Will it have wireless charging, though?](https://www.androidauthority.com/poco-f5-pro-specs-leak-will-it-have-wireless-charging-though-3295527/)<!-- TECH:END -->
+ - [US private equity firm Silver Lake and Canada&#39;s largest pension fund plan to acquire Qualtrics for $12.5B, or $18.15 per share, as SAP divests its 71% stake &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/230313/p4#a230313p4)
+ - [A YouTuber who went viral as a toddler says she resents her family for monetizing her childhood, as some influencer parents take their children off social media &lpar;Fortesa Latifi/Teen Vogue&rpar;](http://www.techmeme.com/230313/p3#a230313p3)
+ - [Daily Authority: 🔮 The future of small phones](https://www.androidauthority.com/daily-authority-march-13-2023-3295510/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
