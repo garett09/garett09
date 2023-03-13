@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For the boys](http://9gag.com/gag/aZDnjoQ)
- - 🚯 [Your ladder has arrived](http://9gag.com/gag/aeQ4m2B)
- - 🚯 [Pretty Accurate](http://9gag.com/gag/a1P72XY)<!-- MEMES:END -->
+ - 🚖 [I need buckets of this](http://9gag.com/gag/ap91xzb)
+ - 🚯 [Oh how the tables turned...](http://9gag.com/gag/a1P75EG)
+ - 🚯 [Rest in peace, Julia](http://9gag.com/gag/armWqyK)<!-- MEMES:END -->
 
 --- 
 
