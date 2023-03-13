@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zens 4-in-1 iPad + MagSafe wireless charger review: Great design, slow Apple Watch charging](https://appleinsider.com/articles/23/03/13/zens-4-in-1-ipad-magsafe-wireless-charger-review-great-design-slow-apple-watch-charging?utm_medium=rss)
- - [Best Multivitamins for Women in 2023     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-women-for-2023/#ftag=CAD590a51e)
- - [Best 5G Phones to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones-to-buy-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CoverScreen OS turns the Oppo Find N2 Flip’s cover display into a mini phone](https://www.androidauthority.com/coverscreen-os-oppo-find-n2-3297786/)
+ - [Best Smart Fitness Mirrors For Your Home Gym     - CNET](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)
+ - [For These Personal Finance Influencers, Infertility Wasn&#39;t Part of the Plan     - CNET](https://www.cnet.com/personal-finance/fi-couple-infertility/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
