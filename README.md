@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
- - 🚯 [The safest ducks in town](http://9gag.com/gag/a5XV5NE)
- - 🚯 [Oh how the tables turned...](http://9gag.com/gag/a1P75EG)<!-- MEMES:END -->
+ - 🚖 [Pro war people, before and during the war](http://9gag.com/gag/ap91VG9)
+ - 🚯 [What an incredible night for Ke Huy Quan! He looks so genuinely happy! Cool that Harrison Ford was there.](http://9gag.com/gag/aPgxrzR)
+ - 🚯 [Say hello to Noob Tube](http://9gag.com/gag/aeQ47qj)<!-- MEMES:END -->
 
 --- 
 
