@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Konami offers the tiniest sop to Castlevania: &#39;Fans always want more, and we do too&#39;](https://www.pcgamer.com/konami-offers-the-tiniest-sop-to-castlevania-fans-always-want-more-and-we-do-too)
- - [Wordle hint and answer #632: Monday, March 13](https://www.pcgamer.com/wordle-hint-answer-today-632-march-13)
- - [Oscars 2023: Winners, surprises, and all the biggest moments](https://www.polygon.com/entertainment/23636440/oscars-2023-winners-speeches-opening-best-picture-movies)<!-- GAME:END -->
+ - [Rough Justice &#39;84 is a detective agency management game dripping in &#39;80s nostalgia, and it’s out now](https://www.pcgamer.com/rough-justice-84-is-a-detective-agency-management-game-dripping-in-80s-nostalgia-and-its-out-now)
+ - [Pivot your D&amp;D group to a different system built with role-play — not combat — in mind](https://www.polygon.com/what-to-play/23632869/dnd-dungeons-dragons-alternatives-role-play-storytelling)
+ - [PSU manufacturers warned against using 600W GPU power plug design due to temperature rise risk](https://www.pcgamer.com/psu-manufacturers-warned-against-using-600w-gpu-power-plug-design-due-to-temperature-rise-risk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
