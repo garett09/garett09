@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pro war people, before and during the war](http://9gag.com/gag/ap91VG9)
- - 🚯 [This customizable light beam](http://9gag.com/gag/aGELOVZ)
- - 🚯 [I got u bro](http://9gag.com/gag/aQEgyM2)<!-- MEMES:END -->
+ - 🚖 [Like something out of a Nolan Batman movie](http://9gag.com/gag/aqeRQx7)
+ - 🚯 [The safest ducks in town](http://9gag.com/gag/a5XV5NE)
+ - 🚯 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)<!-- MEMES:END -->
 
 --- 
 
