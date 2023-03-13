@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel March feature drop brings Health Connect, faster Night Sight and more](https://www.androidauthority.com/pixel-feature-drop-march-2023-3295518/)
- - [Apple iPhone 15: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)
- - [WordPress.com owner Automattic acquires the ActivityPub for WordPress plugin and hires its dev, so blogs can integrate with the Fediverse, including Mastodon &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230313/p18#a230313p18)<!-- TECH:END -->
+ - [Zens 4-in-1 iPad + MagSafe wireless charger review: Great design, slow Apple Watch charging](https://appleinsider.com/articles/23/03/13/zens-4-in-1-ipad-magsafe-wireless-charger-review-great-design-slow-apple-watch-charging?utm_medium=rss)
+ - [Best Multivitamins for Women in 2023     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-women-for-2023/#ftag=CAD590a51e)
+ - [Best 5G Phones to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-5g-phones-to-buy-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
