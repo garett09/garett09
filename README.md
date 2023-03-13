@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Island 2 Devs Think &#39;Development Hell&#39; Wasn&#39;t So Bad Actually](https://kotaku.com/dead-island-2-development-hell-release-date-dambuster-1850220494)
- - [I can&#39;t get over this dungeon crawler&#39;s incredible melee combat and gorgeous graphic novel looks](https://www.pcgamer.com/mortal-sin-early-access-impressions)
- - [The Glory part 2’s brutal ending takes no prisoners](https://www.polygon.com/23638017/glory-ending-explained-season-finale)<!-- GAME:END -->
+ - [New Zombie RPG Combines A Ton Of Great Games Into One I Can’t Stop Playing](https://kotaku.com/final-fantasy-tactics-zombie-roguelite-strategy-rpg-ps5-1850220974)
+ - [Sons of the Forest patch fixes NPC&#39;s chaotic behavior, but it turns out a lot of players liked him that way: &#39;I hate Kelvin now&#39;](https://www.pcgamer.com/sons-of-the-forest-patch-fixes-npcs-chaotic-behavior-but-it-turns-out-a-lot-of-players-liked-him-that-way-i-hate-kelvin-now)
+ - [Battlefield 2042 is free-to-play on Steam this week](https://www.pcgamer.com/battlefield-2042-is-free-to-play-on-steam-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
