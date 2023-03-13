@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a Rosetta Stone lifetime subscription for just $169 with the Travel Hacker Bundle](https://appleinsider.com/articles/23/02/02/take-an-extra-15-off-a-rosetta-stone-lifetime-subscription-with-the-travel-hacker-bundle?utm_medium=rss)
- - [How to use Smart Annotation on iPad](https://appleinsider.com/inside/ipad/tips/how-to-use-smart-annotations-on-ipad?utm_medium=rss)
- - [Daily Deals: $200 off 2023 16-inch MacBook Pro, $50 off Xbox Series X, Apple Watch Series 8 $329 &amp; more](https://appleinsider.com/articles/23/03/13/daily-deals-200-off-2023-16-inch-macbook-pro-50-off-xbox-series-x-apple-watch-series-8-329-more?utm_medium=rss)<!-- TECH:END -->
+ - [A Reddit user shows how Samsung&#39;s &quot;Space Zoom&quot; feature produces fake, generated images of the moon, highlighting how photography and &quot;real photos&quot; are changing &lpar;The Verge&rpar;](http://www.techmeme.com/230313/p15#a230313p15)
+ - [Fresh out of the box: 11 ways to make your Galaxy S23 experience better](https://www.androidauthority.com/samsung-galaxy-s23-tips-3292014/)
+ - [Get a Rosetta Stone lifetime subscription for just $169 with the Travel Hacker Bundle](https://appleinsider.com/articles/23/02/02/take-an-extra-15-off-a-rosetta-stone-lifetime-subscription-with-the-travel-hacker-bundle?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
