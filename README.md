@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hehe](http://9gag.com/gag/aDY7V0N)
- - 🚯 [This is spar... south africa!](http://9gag.com/gag/aqeRze7)
+ - 🚖 [Poor woman](http://9gag.com/gag/a4onqPp)
+ - 🚯 [Gary Becker, Silicon Valley Bank CEO sold $3.6 million of company stock Thursday, bank failed Friday](http://9gag.com/gag/aBdZE0N)
  - 🚯 [Rest in peace, Julia](http://9gag.com/gag/armWqyK)<!-- MEMES:END -->
 
 --- 
