@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cat at the vets office](http://9gag.com/gag/aqeRx8L)
- - 🚯 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)
- - 🚯 [The explanation didn\u2019t make it any better](http://9gag.com/gag/agoQ1dn)<!-- MEMES:END -->
+ - 🚖 [That&#39;s just my Tuesday](http://9gag.com/gag/adPvxVM)
+ - 🚯 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)
+ - 🚯 [Rest in peace, Julia](http://9gag.com/gag/armWqyK)<!-- MEMES:END -->
 
 --- 
 
