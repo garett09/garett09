@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Zombie RPG Combines A Ton Of Great Games Into One I Can’t Stop Playing](https://kotaku.com/final-fantasy-tactics-zombie-roguelite-strategy-rpg-ps5-1850220974)
- - [Sons of the Forest patch fixes NPC&#39;s chaotic behavior, but it turns out a lot of players liked him that way: &#39;I hate Kelvin now&#39;](https://www.pcgamer.com/sons-of-the-forest-patch-fixes-npcs-chaotic-behavior-but-it-turns-out-a-lot-of-players-liked-him-that-way-i-hate-kelvin-now)
- - [Battlefield 2042 is free-to-play on Steam this week](https://www.pcgamer.com/battlefield-2042-is-free-to-play-on-steam-this-week)<!-- GAME:END -->
+ - [New York Times Joins Last Of Us Ending Discourse 10 Years Later](https://kotaku.com/the-last-of-us-finale-episode-9-season-2-joel-ellie-1850220882)
+ - [Pokémon Go Spotlight Hour: Can Rowlet be shiny?](https://www.polygon.com/pokemon-go-guide/23637931/can-rowlet-be-shiny-spotlight-hour-march)
+ - [New Zombie RPG Combines A Ton Of Great Games Into One I Can’t Stop Playing](https://kotaku.com/final-fantasy-tactics-zombie-roguelite-strategy-rpg-ps5-1850220974)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
