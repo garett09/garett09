@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s just my Tuesday](http://9gag.com/gag/adPvxVM)
- - 🚯 [Gary Becker, Silicon Valley Bank CEO sold $3.6 million of company stock Thursday, bank failed Friday](http://9gag.com/gag/aBdZE0N)
- - 🚯 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)<!-- MEMES:END -->
+ - 🚖 [For the boys](http://9gag.com/gag/aZDnjoQ)
+ - 🚯 [Your ladder has arrived](http://9gag.com/gag/aeQ4m2B)
+ - 🚯 [Pretty Accurate](http://9gag.com/gag/a1P72XY)<!-- MEMES:END -->
 
 --- 
 
