@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go fishing with a record player using Jackery’s flagship solar generator](https://www.theverge.com/2023/3/13/23633572/jackery-explorer-3000-pro-solar-generator-price-specs)
- - [Q&amp;A with Meredith Broussard, a leading researcher of algorithmic bias, on her book More than a Glitch, which looks at the harms of applying AI to social issues &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/230313/p1#a230313p1)
- - [Samsung wrapped in controversy over ‘fake’ Space Zoom moon shots](https://www.androidauthority.com/samsung-fake-space-zoom-moon-images-3295501/)<!-- TECH:END -->
+ - [Daily Authority: 🔮 The future of small phones](https://www.androidauthority.com/daily-authority-march-13-2023-3295510/)
+ - [Apple and BBC win Oscar for &#39;The Boy, the Mole, the Fox, and the Horse&#39;](https://appleinsider.com/articles/23/03/13/apple-and-bbc-win-oscar-for-the-boy-the-mole-the-fox-and-the-horse?utm_medium=rss)
+ - [Poco F5 Pro specs leak: Will it have wireless charging, though?](https://www.androidauthority.com/poco-f5-pro-specs-leak-will-it-have-wireless-charging-though-3295527/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
