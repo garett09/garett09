@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Pixel 7a developer unit allegedly leaks to a Vietnamese blog, with a 90Hz 6.1&quot; display, 8GB RAM, and a dual 12MP camera setup with wide and ultra-wide lenses &lpar;Kellen/Droid Life&rpar;](http://www.techmeme.com/230313/p24#a230313p24)
- - [SVB’s Collapse Is Causing Chaos in India’s Tech Sector](https://www.wired.com/story/svbs-collapse-is-causing-chaos-in-indias-tech-sector/)
- - [A Utah jury finds that Dish Network must pay $469M for infringing two patents held by parental-control technology maker ClearPlay &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230313/p23#a230313p23)<!-- TECH:END -->
+ - [Silicon Valley Bank’s Failure Deals a Blow to Europe’s Startups](https://www.wired.com/story/silicon-valley-bank-europe-tech-startup/)
+ - [Sources: the US DOJ is investigating the May 2022 collapse of the TerraUSD stablecoin; the SEC filed a suit against Terraform Labs and Do Kwon last month &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230313/p26#a230313p26)
+ - [Meta says it is winding down its work on NFTs &quot;for now&quot; to focus on other ways of supporting creators, people, and businesses &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230313/p27#a230313p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
