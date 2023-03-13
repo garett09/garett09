@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do it](http://9gag.com/gag/a04oO2q)
- - 🚯 [Say hello to Noob Tube](http://9gag.com/gag/aeQ47qj)
- - 🚯 [What an incredible night for Ke Huy Quan! He looks so genuinely happy! Cool that Harrison Ford was there.](http://9gag.com/gag/aPgxrzR)<!-- MEMES:END -->
+ - 🚖 [The FED officially announced that two days after the collapse of SVB &lpar;$200 billion assets&rpar;, another bank collapsed: Signature Bank &lpar;$110 billion assets&rpar;.](http://9gag.com/gag/aPgx1mV)
+ - 🚯 [What happened ?](http://9gag.com/gag/a2KMDXw)
+ - 🚯 [Nice going Hollywood.](http://9gag.com/gag/awZgO11)<!-- MEMES:END -->
 
 --- 
 
