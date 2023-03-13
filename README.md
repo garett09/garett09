@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Reddit user shows how Samsung&#39;s &quot;Space Zoom&quot; feature produces fake, generated images of the moon, highlighting how photography and &quot;real photos&quot; are changing &lpar;The Verge&rpar;](http://www.techmeme.com/230313/p15#a230313p15)
- - [Fresh out of the box: 11 ways to make your Galaxy S23 experience better](https://www.androidauthority.com/samsung-galaxy-s23-tips-3292014/)
- - [Get a Rosetta Stone lifetime subscription for just $169 with the Travel Hacker Bundle](https://appleinsider.com/articles/23/02/02/take-an-extra-15-off-a-rosetta-stone-lifetime-subscription-with-the-travel-hacker-bundle?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon&#39;s finest deals: $199 AirPods Pro 2, $799 MacBook Air, Apple Watch $219, 34% off Beats](https://appleinsider.com/articles/23/03/13/amazons-finest-deals-199-airpods-pro-2-799-macbook-air-apple-watch-219-34-off-beats?utm_medium=rss)
+ - [Solar Panels Floating in Reservoirs? We’ll Drink to That](https://www.wired.com/story/solar-panels-floating-in-reservoirs-well-drink-to-that/)
+ - [First Republic Bank&#39;s stock drops 60%+, after declining 33% last week, despite the Fed&#39;s new lending facility and saying Sunday it had $70B+ in unused liquidity &lpar;CNBC&rpar;](http://www.techmeme.com/230313/p16#a230313p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
