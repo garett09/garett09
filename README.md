@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
- - 🚯 [9Gag in a nutshell](http://9gag.com/gag/ay2q48r)
- - 🚯 [You get what you vote](http://9gag.com/gag/aoKW86m)<!-- MEMES:END -->
+ - 🚖 [Oscar winners](http://9gag.com/gag/a7q8pEL)
+ - 🚯 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
+ - 🚯 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)<!-- MEMES:END -->
 
 --- 
 
