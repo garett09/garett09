@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
- - 🚯 [Nice going Hollywood.](http://9gag.com/gag/awZgO11)
- - 🚯 [Like something out of a Nolan Batman movie](http://9gag.com/gag/aqeRQx7)<!-- MEMES:END -->
+ - 🚖 [This is why coins today have ridges on their sides, to preven coin-clipping](http://9gag.com/gag/a6qDjNm)
+ - 🚯 [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
+ - 🚯 [You get what you vote](http://9gag.com/gag/aoKW86m)<!-- MEMES:END -->
 
 --- 
 
