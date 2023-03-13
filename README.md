@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The non-Godzilla kaiju that could absolutely kick Godzilla’s scaly tail](https://www.polygon.com/23631006/godzilla-versus-belyudra-orochi-mother-legion-frankenstein)
- - [The 3DS/Wii U eShops have two weeks to live. Here’s how to buy some last-minute games](https://www.polygon.com/guides/23637492/wii-u-3ds-eshop-closing-date-how-to-buy-digital-games)
- - [This new Cyberpunk 2077 texture mod makes Night City more eye-popping than ever](https://www.pcgamer.com/this-new-cyberpunk-2077-texture-mod-makes-night-city-more-eye-popping-than-ever)<!-- GAME:END -->
+ - [Dead Island 2 Devs Think &#39;Development Hell&#39; Wasn&#39;t So Bad Actually](https://kotaku.com/dead-island-2-development-hell-release-date-dambuster-1850220494)
+ - [I can&#39;t get over this dungeon crawler&#39;s incredible melee combat and gorgeous graphic novel looks](https://www.pcgamer.com/mortal-sin-early-access-impressions)
+ - [The Glory part 2’s brutal ending takes no prisoners](https://www.polygon.com/23638017/glory-ending-explained-season-finale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
