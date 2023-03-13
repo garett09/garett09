@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need buckets of this](http://9gag.com/gag/ap91xzb)
- - 🚯 [Oh how the tables turned...](http://9gag.com/gag/a1P75EG)
- - 🚯 [Rest in peace, Julia](http://9gag.com/gag/armWqyK)<!-- MEMES:END -->
+ - 🚖 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)
+ - 🚯 [Hehe](http://9gag.com/gag/aDY7V0N)
+ - 🚯 [Jeremiah Denton was taken prisoner in Vietnam and he blinked in Morse code `TORTURE` to alert the world, 1966](http://9gag.com/gag/aGELBMZ)<!-- MEMES:END -->
 
 --- 
 
