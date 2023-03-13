@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oscar winners](http://9gag.com/gag/a7q8pEL)
- - 🚯 [13-year-old Magnus Carlsen is bored playing with chess legend Garry Kasparov. &lpar;2004&rpar;](http://9gag.com/gag/ap91P28)
- - 🚯 [The way this 3 year old saved his baby brother](http://9gag.com/gag/aDY7nqx)<!-- MEMES:END -->
+ - 🚖 [Calmness Level 99](http://9gag.com/gag/aWGpDvq)
+ - 🚯 [Nice going Hollywood.](http://9gag.com/gag/awZgO11)
+ - 🚯 [Like something out of a Nolan Batman movie](http://9gag.com/gag/aqeRQx7)<!-- MEMES:END -->
 
 --- 
 
