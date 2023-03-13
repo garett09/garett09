@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New York Times Joins Last Of Us Ending Discourse 10 Years Later](https://kotaku.com/the-last-of-us-finale-episode-9-season-2-joel-ellie-1850220882)
- - [Pokémon Go Spotlight Hour: Can Rowlet be shiny?](https://www.polygon.com/pokemon-go-guide/23637931/can-rowlet-be-shiny-spotlight-hour-march)
- - [New Zombie RPG Combines A Ton Of Great Games Into One I Can’t Stop Playing](https://kotaku.com/final-fantasy-tactics-zombie-roguelite-strategy-rpg-ps5-1850220974)<!-- GAME:END -->
+ - [I can finally enjoy The Witcher 3 again now that they&#39;ve fixed the grass shadows](https://www.pcgamer.com/i-can-finally-enjoy-the-witcher-3-again-now-that-theyve-fixed-the-grass-shadows)
+ - [WoW &#39;hardcore&#39; players currently use an addon to prove their runs are legit, but may be getting official servers soon](https://www.pcgamer.com/wow-hardcore-players-currently-use-an-addon-to-prove-their-runs-are-legit-but-may-be-getting-official-servers-soon)
+ - [This game fixes Myst by adding guns, demons, and a sick metal soundtrack](https://www.polygon.com/23638533/myst-fps-mod-woe-industries-point-and-kill-adventure)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
