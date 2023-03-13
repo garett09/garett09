@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;March 13, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-13-2023)
- - [Everything Everywhere All At Once’s Ke Huy Quan gives an emotional Oscar speech](https://www.polygon.com/23636834/oscars-2023-ke-huy-quan-best-supporting-actor-speech-everything-everywhere-all-at-once)
- - [Jimmy Kimmel starts the Oscars with... a slap joke, of course](https://www.polygon.com/23636809/oscars-2023-slap-joke-jimmy-kimmel-monologue)<!-- GAME:END -->
+ - [All Quiet on the Western Front is actually the Oscars’ horror contender](https://www.polygon.com/23627947/all-quiet-on-the-western-front-oscars-2023-best-picture-nominee)
+ - [All the ways HBO’s The Last of Us TV show nods to the game](https://www.polygon.com/23550840/last-of-us-easter-eggs-game-tv-hbo-season-1)
+ - [The Last of Us factions: Who they are and what they want](https://www.polygon.com/23585034/last-us-group-fireflies-fedra-hunters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
