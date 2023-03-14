@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
- - 🚯 [Do it](http://9gag.com/gag/a04oO2q)
- - 🚯 [Have a nice day](http://9gag.com/gag/axoWnXn)<!-- MEMES:END -->
+ - 🚖 [Me paul](http://9gag.com/gag/avQW4nE)
+ - 🚯 [Brendan Fraser Wins Oscar for best actor :&rpar;](http://9gag.com/gag/amAWpoo)
+ - 🚯 [I&#39;ve seen a few of you calling for the false accusers to be jailed so....](http://9gag.com/gag/aZDnom6)<!-- MEMES:END -->
 
 --- 
 
