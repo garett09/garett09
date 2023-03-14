@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces &quot;Shop With a Specialist Over Video&quot;, a live shopping experience on apple.com for US customers looking to buy an iPhone &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230314/p21#a230314p21)
- - [You can buy your next iPhone from Apple over a video call](https://appleinsider.com/articles/23/03/14/you-can-buy-your-next-iphone-from-apple-over-a-video-call?utm_medium=rss)
- - [Meta cuts another 10,000 jobs in &#39;year of efficiency&#39;](https://appleinsider.com/articles/23/03/14/meta-cuts-another-10000-jobs-in-year-of-efficiency?utm_medium=rss)<!-- TECH:END -->
+ - [Apple pushes tech careers for women in developer interview feature](https://appleinsider.com/articles/23/03/14/apple-pushes-tech-careers-for-women-in-developer-interview-feature?utm_medium=rss)
+ - [Bring AI to photo editing with award-winning Luminar Neo Lifetime Bundle, now 82% off](https://appleinsider.com/articles/23/03/07/bring-ai-to-photo-editing-with-award-winning-luminar-neo-lifetime-bundle-now-80-off?utm_medium=rss)
+ - [Apple shows off new yellow iPhone 14 color in &#39;Hello Yellow&#39; ad](https://appleinsider.com/articles/23/03/14/apple-shows-off-new-yellow-iphone-14-color-in-hello-yellow-ad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
