@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at tech&#39;s terrible 2022 in numbers: VC investment and IPOs falling globally, an 85% drop in new unicorns, layoffs impacting 280,000+, and more &lpar;Rest of World&rpar;](http://www.techmeme.com/230314/p8#a230314p8)
- - [Jenny Odell Can Stretch Time and So Can You](https://www.wired.com/story/jenny-odell-can-stretch-time-and-so-can-you/)
- - [Filing and sources: TuSimple co-founder Xiaodi Hou left the company&#39;s board last week after a &quot;whistleblower&quot; reported him asking staff to join his new venture &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230314/p7#a230314p7)<!-- TECH:END -->
+ - [Microsoft plans to make 3D avatars available to all Teams users in May 2023, after announcing the feature in 2021 and testing them privately in recent months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230314/p10#a230314p10)
+ - [Candela’s C-8 Is a Boat That Flies](https://www.wired.com/story/candela-c-8-polestar-hydrofoil/)
+ - [Ukrainians’ Google Searches Reveal a Year of Fear—and Hope](https://www.wired.com/story/ukrainians-google-searches-reveal-a-year-of-fear-and-hope/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
