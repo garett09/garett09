@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple introduces fourth developer beta of tvOS 16.4](https://appleinsider.com/articles/23/03/14/apple-introduces-fourth-developer-beta-of-tvos-164?utm_medium=rss)
- - [Two new companies want a piece of Apple&#39;s 5G modem business](https://appleinsider.com/articles/23/03/14/two-new-companies-want-a-piece-of-apples-5g-modem-business?utm_medium=rss)
- - [Q&amp;A with Spotify co-president and CTO Gustav S&amp;ouml;derstr&amp;ouml;m on the app&#39;s redesign and improved discovery, layoffs, monetization, rivals, podcasting, HiFi, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230314/p24#a230314p24)<!-- TECH:END -->
+ - [Microsoft says the new Bing is &quot;running on GPT-4, which we&#39;ve customized for search&quot; &lpar;Yusuf Mehdi/Bing Blogs&rpar;](http://www.techmeme.com/230314/p30#a230314p30)
+ - [ESR Geo Wallet review: The only Find My-enabled MagSafe wallet holds its own](https://appleinsider.com/articles/23/03/14/esr-geo-wallet-review-the-only-find-my-enabled-magsafe-wallet-holds-its-own?utm_medium=rss)
+ - [Fitbit is giving non-Premium users some Premium features](https://www.androidauthority.com/fitbit-health-metrics-3298265/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
