@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
- - 🚯 [Have a nice day](http://9gag.com/gag/axoWnXn)
- - 🚯 [German walls VS American walls](http://9gag.com/gag/aBdZ4mD)<!-- MEMES:END -->
+ - 🚖 [I guess he wasn&#39;t interested any more. Carlos is greatly relieved.](http://9gag.com/gag/aZDndxV)
+ - 🚯 [Theory vs practice](http://9gag.com/gag/a4onmdp)
+ - 🚯 [Have a nice day](http://9gag.com/gag/axoWnXn)<!-- MEMES:END -->
 
 --- 
 
