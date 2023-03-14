@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [System Shock has had a last-minute delay until May: &#39;We are after all merely human&#39;](https://www.pcgamer.com/system-shock-has-had-a-last-minute-delay-until-may-we-are-after-all-merely-human)
- - [Sons of the Forest: How to reinforce your fire](https://www.pcgamer.com/sons-of-the-forest-how-to-reinforce-fire)
- - [PS5 Creators: How Horizon Forbidden West: Burning Shores will harness the power of PS5](https://blog.playstation.com/2023/03/14/ps5-creators-how-horizon-forbidden-west-burning-shores-will-harness-the-power-of-ps5/)<!-- GAME:END -->
+ - [Shazam! Fury of the Gods deals with Justice League questions in a clever way](https://www.polygon.com/23638287/shazam-fury-of-the-gods-justice-league-daughters-atlas-preview)
+ - [Get Meet Your Maker Day 1 as a PlayStation Plus Monthly Game, out April 4](https://blog.playstation.com/2023/03/14/get-meet-your-maker-day-1-as-a-playstation-plus-monthly-game-out-april-4/)
+ - [Get Meet Your Maker Day 1 as a PlayStation Plus Monthly Game, out April 4](https://blog.playstation.com/2023/03/14/get-meet-your-maker-day-1-as-a-playstation-plus-monthly-game-out-april-4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
