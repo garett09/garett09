@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Culturaly enriched](http://9gag.com/gag/agoQEW1)
- - 🚯 [Must be winter](http://9gag.com/gag/a3ZGnQN)
- - 🚯 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
+ - 🚖 [TV turned itself on at 3am to \u2018update\u2019. This was the loading screen.](http://9gag.com/gag/awZgOKB)
+ - 🚯 [It&#39;s leviosa not leviosa](http://9gag.com/gag/a9qzB8m)
+ - 🚯 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)<!-- MEMES:END -->
 
 --- 
 
