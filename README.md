@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do it](http://9gag.com/gag/a04oO2q)
- - 🚯 [Pretty sure that&#39;s Johnny Sins](http://9gag.com/gag/aQEgB0r)
- - 🚯 [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)<!-- MEMES:END -->
+ - 🚖 [Theory vs practice](http://9gag.com/gag/a4onmdp)
+ - 🚯 [Musical IQ](http://9gag.com/gag/az25DZj)
+ - 🚯 [You scrolled so deep you found Dwarf Metal](http://9gag.com/gag/aREL937)<!-- MEMES:END -->
 
 --- 
 
