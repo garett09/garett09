@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based cloud security SaaS startup Mitiga raised a $45M Series A led by ClearSky Security at a $100M valuation, taking its total funding to $77M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230314/p14#a230314p14)
- - [Binance suspends UK deposit and withdrawal services via bank transfers and card payments after its local banking partner Paysafe stopped providing support &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230314/p13#a230314p13)
- - [Can’t remove your pre-installed apps? One country is taking action](https://www.androidauthority.com/country-uninstall-bloatware-india-3298083/)<!-- TECH:END -->
+ - [Mark Zuckerberg says Meta plans to cut another 10,000 jobs and withdraw around 5,000 open roles, just four months after cutting 11,000 jobs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230314/p17#a230314p17)
+ - [India thinks it knows more than Apple or Google about smartphone security](https://appleinsider.com/articles/23/03/14/india-thinks-it-knows-more-than-apple-or-google-about-smartphone-security?utm_medium=rss)
+ - [Google announces AI-powered features for Docs, Gmail, Sheets, Slides, and other Workspace apps, helping users generate text, summarize topics, and create images &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230314/p16#a230314p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
