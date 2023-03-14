@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me paul](http://9gag.com/gag/avQW4nE)
- - 🚯 [Brendan Fraser Wins Oscar for best actor :&rpar;](http://9gag.com/gag/amAWpoo)
- - 🚯 [I&#39;ve seen a few of you calling for the false accusers to be jailed so....](http://9gag.com/gag/aZDnom6)<!-- MEMES:END -->
+ - 🚖 [Do it](http://9gag.com/gag/a04oO2q)
+ - 🚯 [Pretty sure that&#39;s Johnny Sins](http://9gag.com/gag/aQEgB0r)
+ - 🚯 [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)<!-- MEMES:END -->
 
 --- 
 
