@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
- - 🚯 [Culturaly enriched](http://9gag.com/gag/agoQEW1)
- - 🚯 [How to look and sound more confident](http://9gag.com/gag/armWdvy)<!-- MEMES:END -->
+ - 🚖 [Culturaly enriched](http://9gag.com/gag/agoQEW1)
+ - 🚯 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
+ - 🚯 [Nice going Hollywood.](http://9gag.com/gag/awZgO11)<!-- MEMES:END -->
 
 --- 
 
