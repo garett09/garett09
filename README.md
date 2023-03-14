@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Culturaly enriched](http://9gag.com/gag/agoQEW1)
  - 🚯 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
- - 🚯 [Nice going Hollywood.](http://9gag.com/gag/awZgO11)<!-- MEMES:END -->
+ - 🚯 [It&#39;s leviosa not leviosa](http://9gag.com/gag/a9qzB8m)<!-- MEMES:END -->
 
 --- 
 
