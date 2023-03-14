@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Chaos Dwarfs, one of Total War: Warhammer 3&#39;s most anticipated factions, finally come to the game next month](https://www.pcgamer.com/the-chaos-dwarfs-one-of-total-war-warhammer-3s-most-anticipated-factions-finally-come-to-the-game-next-month)
- - [I still get cold sweats thinking about the time I broke a priceless Asus graphics card](https://www.pcgamer.com/i-still-get-cold-sweats-thinking-about-the-time-i-broke-a-priceless-asus-graphics-card)
- - [13 Things I Wish I Knew Before Starting Destiny 2: Lightfall](https://kotaku.com/destiny-2-lightfall-tips-neomuna-root-nightmares-exotic-1850224570)<!-- GAME:END -->
+ - [The Last of Us Show Changed Ellie In Ways That Make Season Two Worrying](https://kotaku.com/last-of-us-hbo-show-ellie-bella-ramsey-violent-heart-1850224988)
+ - [Uncover an Insidious Plot in Environmental Thriller The Forest Cathedral, Out Now on Xbox](https://news.xbox.com/en-us/2023/03/14/the-forest-cathedral-out-now-on-xbox/)
+ - [Was the giraffe CGI in The Last of Us? Yes and no...](https://www.polygon.com/23639876/last-of-us-giraffe-real-cgi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
