@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says Meta plans to cut another 10,000 jobs and withdraw around 5,000 open roles, just four months after cutting 11,000 jobs &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230314/p17#a230314p17)
- - [India thinks it knows more than Apple or Google about smartphone security](https://appleinsider.com/articles/23/03/14/india-thinks-it-knows-more-than-apple-or-google-about-smartphone-security?utm_medium=rss)
- - [Google announces AI-powered features for Docs, Gmail, Sheets, Slides, and other Workspace apps, helping users generate text, summarize topics, and create images &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230314/p16#a230314p16)<!-- TECH:END -->
+ - [You still really don’t need that Google Pixel 7 30W fast charger](https://www.androidauthority.com/google-pixel-7-charging-30w-3226058/)
+ - [13 Best Office Chairs &lpar;2023&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
+ - [UK bank NatWest places a &amp;pound;1,000 daily and &amp;pound;5,000 monthly limit on transfers to crypto exchanges, citing scams, after similar moves by Lloyds and HSBC &lpar;William Shaw/Bloomberg&rpar;](http://www.techmeme.com/230314/p20#a230314p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
