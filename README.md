@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ASRock cuts prices of its Intel Arc graphics cards so low you may actually want one](https://www.pcgamer.com/asrock-cuts-prices-of-its-intel-arc-graphics-cards-so-low-you-may-actually-want-one)
- - [5 reasons why strategy fans should play SpellForce: Conquest of Eo](https://www.pcgamer.com/5-reasons-why-strategy-fans-should-play-spellforce-conquest-of-eo)
- - [Wordle hint and answer #633: Tuesday, March 14](https://www.pcgamer.com/wordle-hint-answer-today-633-march-14)<!-- GAME:END -->
+ - [The next season of The Walking Dead will take place in your neighborhood, if you want it to](https://www.polygon.com/tabletop-games/23632384/walking-dead-universe-preview-interview-ttrpg-kickstarter-launch-date-price-free-league)
+ - [Microsoft finally adding missing taskbar functionality to Windows 11](https://www.pcgamer.com/microsoft-finally-adding-missing-taskbar-functionality-to-windows-11)
+ - [Cities: Skylines YouTuber managed to 3D print their incredible city square](https://www.pcgamer.com/cities-skylines-youtuber-managed-to-3d-print-their-incredible-city-square)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
