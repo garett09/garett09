@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says the new Bing is &quot;running on GPT-4, which we&#39;ve customized for search&quot; &lpar;Yusuf Mehdi/Bing Blogs&rpar;](http://www.techmeme.com/230314/p30#a230314p30)
- - [ESR Geo Wallet review: The only Find My-enabled MagSafe wallet holds its own](https://appleinsider.com/articles/23/03/14/esr-geo-wallet-review-the-only-find-my-enabled-magsafe-wallet-holds-its-own?utm_medium=rss)
- - [Fitbit is giving non-Premium users some Premium features](https://www.androidauthority.com/fitbit-health-metrics-3298265/)<!-- TECH:END -->
+ - [OpenAI just upgraded ChatGPT with the new GPT-4 model](https://appleinsider.com/articles/23/03/14/openai-just-upgraded-chatgpt-with-the-new-gpt-4-model?utm_medium=rss)
+ - [A look at the rapid surge of investor interest in AI startups, like Mobius, Dust, and Perplexity AI, drawing in VC firms like Sequoia, a16z, and Index Ventures &lpar;New York Times&rpar;](http://www.techmeme.com/230314/p32#a230314p32)
+ - [Apple cutting costs with bonus payment changes, hiring freeze](https://appleinsider.com/articles/23/03/14/apple-cutting-costs-with-bonus-payment-changes-hiring-freeze?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
