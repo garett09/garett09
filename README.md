@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pushes tech careers for women in developer interview feature](https://appleinsider.com/articles/23/03/14/apple-pushes-tech-careers-for-women-in-developer-interview-feature?utm_medium=rss)
- - [Bring AI to photo editing with award-winning Luminar Neo Lifetime Bundle, now 82% off](https://appleinsider.com/articles/23/03/07/bring-ai-to-photo-editing-with-award-winning-luminar-neo-lifetime-bundle-now-80-off?utm_medium=rss)
- - [Apple shows off new yellow iPhone 14 color in &#39;Hello Yellow&#39; ad](https://appleinsider.com/articles/23/03/14/apple-shows-off-new-yellow-iphone-14-color-in-hello-yellow-ad?utm_medium=rss)<!-- TECH:END -->
+ - [Apple introduces fourth developer beta of tvOS 16.4](https://appleinsider.com/articles/23/03/14/apple-introduces-fourth-developer-beta-of-tvos-164?utm_medium=rss)
+ - [Two new companies want a piece of Apple&#39;s 5G modem business](https://appleinsider.com/articles/23/03/14/two-new-companies-want-a-piece-of-apples-5g-modem-business?utm_medium=rss)
+ - [Q&amp;A with Spotify co-president and CTO Gustav S&amp;ouml;derstr&amp;ouml;m on the app&#39;s redesign and improved discovery, layoffs, monetization, rivals, podcasting, HiFi, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230314/p24#a230314p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
