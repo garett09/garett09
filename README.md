@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
- - 🚯 [I need buckets of this](http://9gag.com/gag/ap91xzb)
- - 🚯 [Hans?!](http://9gag.com/gag/aRELD8j)<!-- MEMES:END -->
+ - 🚖 [Culturaly enriched](http://9gag.com/gag/agoQEW1)
+ - 🚯 [Must be winter](http://9gag.com/gag/a3ZGnQN)
+ - 🚯 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
 
 --- 
 
