@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft laid off one of its responsible AI teams that was tasked with assessing the risks associated with integrating OpenAI&#39;s tech into its products &lpar;Platformer&rpar;](http://www.techmeme.com/230313/p30#a230313p30)
- - [A California appeals court reverses a lower court ruling that found Prop 22 illegal, preserving the independent contractor model of companies like Uber and Lyft &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230313/p29#a230313p29)
- - [Apple offering refurbished iPhone 13 models in U.S. store](https://appleinsider.com/articles/23/03/13/apple-offering-refurbished-iphone-13-models-in-us-store?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: China has begun to impede subsea internet cable projects in South China Sea over spying fears, imposing strict permit requirements and approval delays &lpar;Financial Times&rpar;](http://www.techmeme.com/230313/p31#a230313p31)
+ - [New South Korean Apple Store opening March 31](https://appleinsider.com/articles/23/03/14/new-south-korean-apple-store-opening-march-31?utm_medium=rss)
+ - [Sources: Microsoft laid off one of its responsible AI teams that was tasked with assessing the risks associated with integrating OpenAI&#39;s tech into its products &lpar;Platformer&rpar;](http://www.techmeme.com/230313/p30#a230313p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
