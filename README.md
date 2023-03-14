@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alleged renders of the Pixel 8 Pro appear to show a flat ~6.52&quot; display and the addition of a new sensor on the camera bar &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230314/p37#a230314p37)
- - [YouTube launches early multiview access for YouTube TV, letting US viewers watch up to four, pre-selected streams simultaneously, initially for sports content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230314/p36#a230314p36)
- - [Adept, which is building an AI model that can turn text commands into computer actions, raised $350M as part of a Series B, sources say at a $1B+ valuation &lpar;Forbes&rpar;](http://www.techmeme.com/230314/p35#a230314p35)<!-- TECH:END -->
+ - [Duolingo debuts a Max subscription for $30 per month or $168 per year, offering GPT-4 features for English speakers taking Spanish and French courses on iOS &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230314/p40#a230314p40)
+ - [CISA launches a pilot program to warn critical infrastructure owners with &quot;internet-accessible vulnerabilities commonly associated with known ransomware actors&quot; &lpar;Edward Graham/Nextgov&rpar;](http://www.techmeme.com/230314/p39#a230314p39)
+ - [Reddit experiencing a widespread outage](https://appleinsider.com/articles/23/03/14/reddit-experiencing-a-widespread-outage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
