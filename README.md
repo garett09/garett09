@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
  - 🚯 [I need buckets of this](http://9gag.com/gag/ap91xzb)
- - 🚯 [American woman](http://9gag.com/gag/anzOxxL)<!-- MEMES:END -->
+ - 🚯 [Hans?!](http://9gag.com/gag/aRELD8j)<!-- MEMES:END -->
 
 --- 
 
