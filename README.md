@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men are simple](http://9gag.com/gag/aDY7bWw)
- - 🚯 [Oh how the tables turned...](http://9gag.com/gag/a1P75EG)
- - 🚯 [The FED officially announced that two days after the collapse of SVB &lpar;$200 billion assets&rpar;, another bank collapsed: Signature Bank &lpar;$110 billion assets&rpar;.](http://9gag.com/gag/aPgx1mV)<!-- MEMES:END -->
+ - 🚖 [TV turned itself on at 3am to \u2018update\u2019. This was the loading screen.](http://9gag.com/gag/awZgOKB)
+ - 🚯 [Guy films the delivery of his new Audi.](http://9gag.com/gag/aqeRWZL)
+ - 🚯 [Man uses a bit of hand sanitizer to stop a snake from devouring itself](http://9gag.com/gag/a9qzO5o)<!-- MEMES:END -->
 
 --- 
 
