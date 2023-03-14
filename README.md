@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s leviosa not leviosa](http://9gag.com/gag/a9qzB8m)
- - 🚯 [Do it](http://9gag.com/gag/a04oO2q)
- - 🚯 [Chicken is life](http://9gag.com/gag/a6qD82m)<!-- MEMES:END -->
+ - 🚖 [Chicken is life](http://9gag.com/gag/a6qD82m)
+ - 🚯 [Lewis Hamilton, PhD - showing the Mercedes engineers how to make a faster car](http://9gag.com/gag/armWB05)
+ - 🚯 [I guess he wasn&#39;t interested any more. Carlos is greatly relieved.](http://9gag.com/gag/aZDndxV)<!-- MEMES:END -->
 
 --- 
 
