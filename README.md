@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TCGplayer joins the game studios changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)
- - [The Last Of Us Show Used A Real Giraffe To Recreate Its Iconic Game Scene](https://kotaku.com/last-of-us-hbo-show-finale-giraffe-scene-nabo-cgi-1850223785)
- - [Hyper Light Breaker Looks Like A Haunting Mashup Of Some Of The Best Games Around](https://kotaku.com/hyper-light-breaker-borderlands-botw-early-access-steam-1850223718)<!-- GAME:END -->
+ - [Can you create a fighting game character so strong it destroys computers?](https://www.polygon.com/23632518/mugen-strongest-fighting-game-characters)
+ - [Narrative-driven sci-fi RPG Citizen Sleeper rolls onto PlayStation March 31](https://blog.playstation.com/2023/03/14/narrative-driven-sci-fi-rpg-citizen-sleeper-rolls-onto-playstation-march-31/)
+ - [Valheim &lpar;Game Preview&rpar; Journeys to Console for the First Time Today with Xbox Game Pass](https://news.xbox.com/en-us/2023/03/14/valheim-journeys-to-console-with-xbox-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
