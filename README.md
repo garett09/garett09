@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You still really don’t need that Google Pixel 7 30W fast charger](https://www.androidauthority.com/google-pixel-7-charging-30w-3226058/)
- - [13 Best Office Chairs &lpar;2023&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
- - [UK bank NatWest places a &amp;pound;1,000 daily and &amp;pound;5,000 monthly limit on transfers to crypto exchanges, citing scams, after similar moves by Lloyds and HSBC &lpar;William Shaw/Bloomberg&rpar;](http://www.techmeme.com/230314/p20#a230314p20)<!-- TECH:END -->
+ - [Apple announces &quot;Shop With a Specialist Over Video&quot;, a live shopping experience on apple.com for US customers looking to buy an iPhone &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230314/p21#a230314p21)
+ - [You can buy your next iPhone from Apple over a video call](https://appleinsider.com/articles/23/03/14/you-can-buy-your-next-iphone-from-apple-over-a-video-call?utm_medium=rss)
+ - [Meta cuts another 10,000 jobs in &#39;year of efficiency&#39;](https://appleinsider.com/articles/23/03/14/meta-cuts-another-10000-jobs-in-year-of-efficiency?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
