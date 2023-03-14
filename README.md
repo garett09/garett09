@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can you create a fighting game character so strong it destroys computers?](https://www.polygon.com/23632518/mugen-strongest-fighting-game-characters)
- - [Narrative-driven sci-fi RPG Citizen Sleeper rolls onto PlayStation March 31](https://blog.playstation.com/2023/03/14/narrative-driven-sci-fi-rpg-citizen-sleeper-rolls-onto-playstation-march-31/)
- - [Valheim &lpar;Game Preview&rpar; Journeys to Console for the First Time Today with Xbox Game Pass](https://news.xbox.com/en-us/2023/03/14/valheim-journeys-to-console-with-xbox-game-pass/)<!-- GAME:END -->
+ - [The Chaos Dwarfs, one of Total War: Warhammer 3&#39;s most anticipated factions, finally come to the game next month](https://www.pcgamer.com/the-chaos-dwarfs-one-of-total-war-warhammer-3s-most-anticipated-factions-finally-come-to-the-game-next-month)
+ - [I still get cold sweats thinking about the time I broke a priceless Asus graphics card](https://www.pcgamer.com/i-still-get-cold-sweats-thinking-about-the-time-i-broke-a-priceless-asus-graphics-card)
+ - [13 Things I Wish I Knew Before Starting Destiny 2: Lightfall](https://kotaku.com/destiny-2-lightfall-tips-neomuna-root-nightmares-exotic-1850224570)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
