@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bulgarian football &lpar;soccer&rpar;](http://9gag.com/gag/amAWbLy)
- - 🚯 [Live action, what a b*tch](http://9gag.com/gag/aeQ4dZO)
- - 🚯 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)<!-- MEMES:END -->
+ - 🚖 [Live action, what a b*tch](http://9gag.com/gag/aeQ4dZO)
+ - 🚯 [Just Joe being Joe](http://9gag.com/gag/aDY7NvN)
+ - 🚯 [How to look and sound more confident](http://9gag.com/gag/armWdvy)<!-- MEMES:END -->
 
 --- 
 
