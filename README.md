@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
- - 🚯 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
- - 🚯 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
+ - 🚯 [Have a nice day](http://9gag.com/gag/axoWnXn)
+ - 🚯 [German walls VS American walls](http://9gag.com/gag/aBdZ4mD)<!-- MEMES:END -->
 
 --- 
 
