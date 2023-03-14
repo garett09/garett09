@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Live action, what a b*tch](http://9gag.com/gag/aeQ4dZO)
- - 🚯 [Just Joe being Joe](http://9gag.com/gag/aDY7NvN)
- - 🚯 [How to look and sound more confident](http://9gag.com/gag/armWdvy)<!-- MEMES:END -->
+ - 🚖 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
+ - 🚯 [Do it](http://9gag.com/gag/a04oO2q)
+ - 🚯 [Have a nice day](http://9gag.com/gag/axoWnXn)<!-- MEMES:END -->
 
 --- 
 
