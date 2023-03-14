@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
- - 🚯 [Guy films the delivery of his new Audi.](http://9gag.com/gag/aqeRWZL)
- - 🚯 [American woman](http://9gag.com/gag/anzOxxL)<!-- MEMES:END -->
+ - 🚯 [Culturaly enriched](http://9gag.com/gag/agoQEW1)
+ - 🚯 [How to look and sound more confident](http://9gag.com/gag/armWdvy)<!-- MEMES:END -->
 
 --- 
 
