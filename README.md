@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Theory vs practice](http://9gag.com/gag/a4onmdp)
- - 🚯 [Musical IQ](http://9gag.com/gag/az25DZj)
- - 🚯 [You scrolled so deep you found Dwarf Metal](http://9gag.com/gag/aREL937)<!-- MEMES:END -->
+ - 🚖 [Do it](http://9gag.com/gag/a04oO2q)
+ - 🚯 [Just a sand with a bit of tit.](http://9gag.com/gag/a5XVv3V)
+ - 🚯 [Have a nice day](http://9gag.com/gag/axoWnXn)<!-- MEMES:END -->
 
 --- 
 
