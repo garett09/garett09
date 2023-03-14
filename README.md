@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to make 3D avatars available to all Teams users in May 2023, after announcing the feature in 2021 and testing them privately in recent months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230314/p10#a230314p10)
- - [Candela’s C-8 Is a Boat That Flies](https://www.wired.com/story/candela-c-8-polestar-hydrofoil/)
- - [Ukrainians’ Google Searches Reveal a Year of Fear—and Hope](https://www.wired.com/story/ukrainians-google-searches-reveal-a-year-of-fear-and-hope/)<!-- TECH:END -->
+ - [Tel Aviv-based cloud security SaaS startup Mitiga raised a $45M Series A led by ClearSky Security at a $100M valuation, taking its total funding to $77M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230314/p14#a230314p14)
+ - [Binance suspends UK deposit and withdrawal services via bank transfers and card payments after its local banking partner Paysafe stopped providing support &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/230314/p13#a230314p13)
+ - [Can’t remove your pre-installed apps? One country is taking action](https://www.androidauthority.com/country-uninstall-bloatware-india-3298083/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
