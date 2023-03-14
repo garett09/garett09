@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chicken is life](http://9gag.com/gag/a6qD82m)
- - 🚯 [Lewis Hamilton, PhD - showing the Mercedes engineers how to make a faster car](http://9gag.com/gag/armWB05)
- - 🚯 [I guess he wasn&#39;t interested any more. Carlos is greatly relieved.](http://9gag.com/gag/aZDndxV)<!-- MEMES:END -->
+ - 🚖 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
+ - 🚯 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
+ - 🚯 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
 
 --- 
 
