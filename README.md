@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The next season of The Walking Dead will take place in your neighborhood, if you want it to](https://www.polygon.com/tabletop-games/23632384/walking-dead-universe-preview-interview-ttrpg-kickstarter-launch-date-price-free-league)
- - [Microsoft finally adding missing taskbar functionality to Windows 11](https://www.pcgamer.com/microsoft-finally-adding-missing-taskbar-functionality-to-windows-11)
- - [Cities: Skylines YouTuber managed to 3D print their incredible city square](https://www.pcgamer.com/cities-skylines-youtuber-managed-to-3d-print-their-incredible-city-square)<!-- GAME:END -->
+ - [System Shock has had a last-minute delay until May: &#39;We are after all merely human&#39;](https://www.pcgamer.com/system-shock-has-had-a-last-minute-delay-until-may-we-are-after-all-merely-human)
+ - [Sons of the Forest: How to reinforce your fire](https://www.pcgamer.com/sons-of-the-forest-how-to-reinforce-fire)
+ - [PS5 Creators: How Horizon Forbidden West: Burning Shores will harness the power of PS5](https://blog.playstation.com/2023/03/14/ps5-creators-how-horizon-forbidden-west-burning-shores-will-harness-the-power-of-ps5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
