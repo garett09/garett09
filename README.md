@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Culturaly enriched](http://9gag.com/gag/agoQEW1)
- - 🚯 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
- - 🚯 [It&#39;s leviosa not leviosa](http://9gag.com/gag/a9qzB8m)<!-- MEMES:END -->
+ - 🚖 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
+ - 🚯 [It&#39;s leviosa not leviosa](http://9gag.com/gag/a9qzB8m)
+ - 🚯 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
 
 --- 
 
