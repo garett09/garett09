@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shazam! Fury of the Gods deals with Justice League questions in a clever way](https://www.polygon.com/23638287/shazam-fury-of-the-gods-justice-league-daughters-atlas-preview)
- - [Get Meet Your Maker Day 1 as a PlayStation Plus Monthly Game, out April 4](https://blog.playstation.com/2023/03/14/get-meet-your-maker-day-1-as-a-playstation-plus-monthly-game-out-april-4/)
- - [Get Meet Your Maker Day 1 as a PlayStation Plus Monthly Game, out April 4](https://blog.playstation.com/2023/03/14/get-meet-your-maker-day-1-as-a-playstation-plus-monthly-game-out-april-4/)<!-- GAME:END -->
+ - [TCGplayer joins the game studios changing the industry by unionizing](https://www.polygon.com/gaming/23538801/video-game-studio-union-microsoft-activision-blizzard)
+ - [The Last Of Us Show Used A Real Giraffe To Recreate Its Iconic Game Scene](https://kotaku.com/last-of-us-hbo-show-finale-giraffe-scene-nabo-cgi-1850223785)
+ - [Hyper Light Breaker Looks Like A Haunting Mashup Of Some Of The Best Games Around](https://kotaku.com/hyper-light-breaker-borderlands-botw-early-access-steam-1850223718)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
