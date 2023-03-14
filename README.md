@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Duolingo debuts a Max subscription for $30 per month or $168 per year, offering GPT-4 features for English speakers taking Spanish and French courses on iOS &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230314/p40#a230314p40)
- - [CISA launches a pilot program to warn critical infrastructure owners with &quot;internet-accessible vulnerabilities commonly associated with known ransomware actors&quot; &lpar;Edward Graham/Nextgov&rpar;](http://www.techmeme.com/230314/p39#a230314p39)
- - [Reddit experiencing a widespread outage](https://appleinsider.com/articles/23/03/14/reddit-experiencing-a-widespread-outage?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: get Apple&#39;s M2 Mac mini for just $549](https://appleinsider.com/articles/23/03/14/deals-get-apples-m2-mac-mini-for-just-549?utm_medium=rss)
+ - [Sources: TikTok&#39;s leadership is considering the option of divesting itself from ByteDance as a last resort if its existing proposal with CFIUS is rejected &lpar;Bloomberg&rpar;](http://www.techmeme.com/230314/p41#a230314p41)
+ - [Duolingo debuts a Max subscription for $30 per month or $168 per year, offering GPT-4 features for English speakers taking Spanish and French courses on iOS &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230314/p40#a230314p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
