@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I guess he wasn&#39;t interested any more. Carlos is greatly relieved.](http://9gag.com/gag/aZDndxV)
- - 🚯 [Theory vs practice](http://9gag.com/gag/a4onmdp)
- - 🚯 [Have a nice day](http://9gag.com/gag/axoWnXn)<!-- MEMES:END -->
+ - 🚖 [Bulgarian football &lpar;soccer&rpar;](http://9gag.com/gag/amAWbLy)
+ - 🚯 [Live action, what a b*tch](http://9gag.com/gag/aeQ4dZO)
+ - 🚯 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)<!-- MEMES:END -->
 
 --- 
 
