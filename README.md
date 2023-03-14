@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: multiple women accuse London-based TikTok executive Steve Ware of sexual harassment and say TikTok mishandled the allegations, a pattern at the company &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230314/p5#a230314p5)
- - [Daily Authority: 👀 Pixel 7a hands-on photos leak](https://www.androidauthority.com/daily-authority-march-14-2023-3297644/)
- - [A look at Eightfold AI, which uses AI to help companies find, recruit, and retain workers, and the challenges it faces, like a slowing economy and new rules &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/230314/p4#a230314p4)<!-- TECH:END -->
+ - [An in-depth look at tech&#39;s terrible 2022 in numbers: VC investment and IPOs falling globally, an 85% drop in new unicorns, layoffs impacting 280,000+, and more &lpar;Rest of World&rpar;](http://www.techmeme.com/230314/p8#a230314p8)
+ - [Jenny Odell Can Stretch Time and So Can You](https://www.wired.com/story/jenny-odell-can-stretch-time-and-so-can-you/)
+ - [Filing and sources: TuSimple co-founder Xiaodi Hou left the company&#39;s board last week after a &quot;whistleblower&quot; reported him asking staff to join his new venture &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230314/p7#a230314p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
