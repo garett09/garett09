@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [TV turned itself on at 3am to \u2018update\u2019. This was the loading screen.](http://9gag.com/gag/awZgOKB)
- - 🚯 [Guy films the delivery of his new Audi.](http://9gag.com/gag/aqeRWZL)
- - 🚯 [Man uses a bit of hand sanitizer to stop a snake from devouring itself](http://9gag.com/gag/a9qzO5o)<!-- MEMES:END -->
+ - 🚖 [What happened ?](http://9gag.com/gag/a2KMDXw)
+ - 🚯 [Nice going Hollywood.](http://9gag.com/gag/awZgO11)
+ - 🚯 [American politician rediscovers capitalism --- No bailouts. If an investor takes a risk and it doesn&#39;t pan out, investor loses his money. Welcome to capitalism.](http://9gag.com/gag/aMEdWw1)<!-- MEMES:END -->
 
 --- 
 
