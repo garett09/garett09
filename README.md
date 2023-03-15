@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And everyone at the IRS clapped.](http://9gag.com/gag/a1P7gQ2)
- - 🚯 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
- - 🚯 [Andrew Tate remains in prison after the Bucharest tribunal rejected his appeal](http://9gag.com/gag/amAWQdX)<!-- MEMES:END -->
+ - 🚖 [Down with the goog](http://9gag.com/gag/aoKWwmw)
+ - 🚯 [Oh lawd he sittin](http://9gag.com/gag/ay2qwnY)
+ - 🚯 [Americans can answer ?](http://9gag.com/gag/aA0Q5xo)<!-- MEMES:END -->
 
 --- 
 
