@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ted Lasso&#39;s Biscuits with the Boss ice cream review: Tastes as good as we imagined](https://appleinsider.com/articles/23/03/15/ted-lassos-biscuits-with-the-boss-ice-cream-review-tastes-as-good-as-we-imagined?utm_medium=rss)
- - [Inside the world of trade-in iPhones and huge profits](https://appleinsider.com/articles/23/03/15/inside-the-world-of-trade-in-iphones-and-huge-profits?utm_medium=rss)
- - [Hands on: Camo 2 turns your DSLR into a webcam](https://appleinsider.com/articles/23/03/15/hands-on-camo-2-turns-your-dslr-into-a-webcam?utm_medium=rss)<!-- TECH:END -->
+ - [An investigation finds illegal miners in Brazil are using SpaceX&#39;s Starlink, helping coordinate logistics, make payments, and warn of law enforcement raids &lpar;Fabiano Maisonnave/Associated Press&rpar;](http://www.techmeme.com/230315/p22#a230315p22)
+ - [Samsung debuts the Galaxy A54 5G and A34 5G](https://www.androidauthority.com/samsung-galaxy-a54-a34-3297772/)
+ - [Carrot Weather update introduces snarky chatbot based on ChatGPT](https://www.theverge.com/2023/3/15/23641118/carrot-weather-app-update-chatgpt-chatbot-radar-notifications)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
