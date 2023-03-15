@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me paul](http://9gag.com/gag/avQW4nE)
- - 🚯 [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
- - 🚯 [View](http://9gag.com/gag/az25DYx)<!-- MEMES:END -->
+ - 🚖 [Am I what?](http://9gag.com/gag/a5XV9rE)
+ - 🚯 [Me paul](http://9gag.com/gag/avQW4nE)
+ - 🚯 [Once upon a time a fish ...](http://9gag.com/gag/aeQ4qGQ)<!-- MEMES:END -->
 
 --- 
 
