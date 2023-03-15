@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Spotify HiFi as a premium tier was ready to launch over a year ago, but Apple&#39;s decision to offer lossless audio at no extra charge spoiled its plans &lpar;The Verge&rpar;](http://www.techmeme.com/230314/p44#a230314p44)
- - [Reddit experienced a widespread outage [u]](https://appleinsider.com/articles/23/03/14/reddit-experiencing-a-widespread-outage?utm_medium=rss)
- - [CIA Deputy Director David Cohen calls for the private sector to &quot;supercharge&quot; the agency&#39;s work in quantum computing, biotech, wireless, chips, and battery tech &lpar;Tiffany Kary/Bloomberg&rpar;](http://www.techmeme.com/230314/p43#a230314p43)<!-- TECH:END -->
+ - [Google raises Workspace monthly pricing by 20% to $7.20 for Starter, $14.40 for Standard, and $21.60 for Plus business plans for new users &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230314/p47#a230314p47)
+ - [Spotify&#39;s HiFi tier is coming -- but not soon](https://appleinsider.com/articles/23/03/15/spotifys-hifi-tier-is-coming----but-not-soon?utm_medium=rss)
+ - [Tilia, a payment platform for game publishers and metaverse projects, has raised $22M since spinning off from Linden Lab, the creator of Second Life, in 2022 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/230314/p46#a230314p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
