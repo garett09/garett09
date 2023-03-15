@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NO JOKE, THE SOCIAL NETWORKS WERE FILLED WITH COMPLAINTS FOR `THE TERRIBLE CGI OF THE GIRAFFE`. there will always be morons who complain for free](http://9gag.com/gag/aoKWGvn)
- - 🚯 [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)
- - 🚯 [Just in case: Chinese state TV channel CCTV showed a map explaining which countries will receive the territories of the Russian Federation after its collapse.](http://9gag.com/gag/a5XVy7y)<!-- MEMES:END -->
+ - 🚖 [Trust the process guys](http://9gag.com/gag/a1P7nWP)
+ - 🚯 [Where do you think we are?](http://9gag.com/gag/aeQ4zKO)
+ - 🚯 [No big bang?](http://9gag.com/gag/avQWVpZ)<!-- MEMES:END -->
 
 --- 
 
