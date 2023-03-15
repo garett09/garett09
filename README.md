@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do it](http://9gag.com/gag/a04oO2q)
- - 🚯 [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
- - 🚯 [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)<!-- MEMES:END -->
+ - 🚖 [May be I\u2019m just lazy](http://9gag.com/gag/amAWbny)
+ - 🚯 [Easy way to remove the core of Iceberg lettuce](http://9gag.com/gag/aZDnVG3)
+ - 🚯 [This may be the most funniest thing that came out of an AI so far.](http://9gag.com/gag/a9qz4ZD)<!-- MEMES:END -->
 
 --- 
 
