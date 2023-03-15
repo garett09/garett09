@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FBI report: US citizens lost $10.3B to online scammers in 2022, up from $6.9B in 2021, with losses from crypto investment fraud reaching $2.57B, up from $907M &lpar;Gareth Vipers/Wall Street Journal&rpar;](http://www.techmeme.com/230315/p18#a230315p18)
- - [Welcome to the Comfy Office of the Future](https://www.wired.com/story/welcome-to-the-comfy-office-of-the-future/)
- - [How a Beam of Pellets Could Blast a Probe Into Deep Space](https://www.wired.com/story/how-a-beam-of-pellets-could-blast-a-probe-into-deep-space/)<!-- TECH:END -->
+ - [Ted Lasso&#39;s Biscuits with the Boss ice cream review: Tastes as good as we imagined](https://appleinsider.com/articles/23/03/15/ted-lassos-biscuits-with-the-boss-ice-cream-review-tastes-as-good-as-we-imagined?utm_medium=rss)
+ - [Inside the world of trade-in iPhones and huge profits](https://appleinsider.com/articles/23/03/15/inside-the-world-of-trade-in-iphones-and-huge-profits?utm_medium=rss)
+ - [Hands on: Camo 2 turns your DSLR into a webcam](https://appleinsider.com/articles/23/03/15/hands-on-camo-2-turns-your-dslr-into-a-webcam?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
