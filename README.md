@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite chapter 4 season 2: the Mega season details](https://www.pcgamer.com/fortnite-chapter-4-season-2-map-changes-new-weapons)
- - [Was anyone else obsessed with Terminal Velocity in the &#39;90s? It just got an update](https://www.pcgamer.com/was-anyone-else-obsessed-with-terminal-velocity-in-the-90s-it-just-got-an-update)
- - [Indie dev accused of using stolen FromSoftware animations removes them, warns others against trusting marketplace assets](https://www.pcgamer.com/indie-dev-accused-of-using-stolen-fromsoftware-animations-removes-them-warns-others-against-trusting-marketplace-assets)<!-- GAME:END -->
+ - [Square Enix Is Still Making That NFT Game, In 2023](https://kotaku.com/symbiogenesis-square-enix-nft-game-rpg-crypto-sucks-1850226742)
+ - [Yes, the giraffe in HBO&#39;s The Last of Us finale was real, his name is Nabo and he lives in Calgary](https://www.pcgamer.com/yes-the-giraffe-in-hbos-the-last-of-us-finale-was-real-his-name-is-nabo-and-he-lives-in-calgary)
+ - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2023/03/14/essential-picks-promotion-comes-to-playstation-store-4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
