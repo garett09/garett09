@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung responds to Moon photo controversy](https://www.androidauthority.com/samsung-response-moon-photo-controversy-3298513/)
- - [Foxconn reports 10% drop in profits, says demand is declining](https://appleinsider.com/articles/23/03/15/foxconn-reports-10-drop-in-profits-says-demand-is-declining?utm_medium=rss)
- - [Pixel 8 leak reveals Google is shrinking the display](https://www.androidauthority.com/google-pixel-8-design-3298524/)<!-- TECH:END -->
+ - [Samsung debuts the Galaxy A54 5G and A34 5G](https://www.androidauthority.com/samsung-galaxy-a54-a34-3297772/)
+ - [A look at the history of Signature Bank, a lender once tied to Jared Kushner and founded in 2001 that leaped into crypto, ultimately leading to its downfall &lpar;Max Abelson/Bloomberg&rpar;](http://www.techmeme.com/230315/p7#a230315p7)
+ - [The Be My Eyes app for the visually impaired integrates GPT-4, which can inspect and describe images, through a Virtual Volunteer feature in closed beta &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230315/p6#a230315p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
