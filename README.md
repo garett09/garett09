@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn reports Q4 revenue down 10% YoY to ~$64.5B and $1.3B net income, slightly below estimates, and forecasts slumping consumer electronics demand in 2023 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230315/p11#a230315p11)
- - [Arkham: net redemptions of Circle&#39;s USDC reached $4.5B since March 10, including a single $723M redemption that was later burnt, after Signature and SVB fell &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230315/p10#a230315p10)
- - [Sources: US prosecutors were investigating Signature&#39;s work with crypto clients before regulators seized the bank, including over detecting money laundering &lpar;Bloomberg&rpar;](http://www.techmeme.com/230315/p9#a230315p9)<!-- TECH:END -->
+ - [Photoshop Web beta hands on: Nifty, but no match for the competition](https://appleinsider.com/articles/23/03/15/photoshop-web-beta-hands-on-nifty-but-no-match-for-the-competition?utm_medium=rss)
+ - [Save the Planet by Eating This Big Ugly Fish](https://www.wired.com/story/copi-invasive-species-rebranding-campaign/)
+ - [The Future Smartphone: More Folds, Less Phone, a Whole Lot of AI](https://www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
