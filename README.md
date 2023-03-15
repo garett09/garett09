@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: get Apple&#39;s M2 Mac mini for just $549](https://appleinsider.com/articles/23/03/14/deals-get-apples-m2-mac-mini-for-just-549?utm_medium=rss)
- - [Sources: TikTok&#39;s leadership is considering the option of divesting itself from ByteDance as a last resort if its existing proposal with CFIUS is rejected &lpar;Bloomberg&rpar;](http://www.techmeme.com/230314/p41#a230314p41)
- - [Duolingo debuts a Max subscription for $30 per month or $168 per year, offering GPT-4 features for English speakers taking Spanish and French courses on iOS &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230314/p40#a230314p40)<!-- TECH:END -->
+ - [Sources: Spotify HiFi as a premium tier was ready to launch over a year ago, but Apple&#39;s decision to offer lossless audio at no extra charge spoiled its plans &lpar;The Verge&rpar;](http://www.techmeme.com/230314/p44#a230314p44)
+ - [Reddit experienced a widespread outage [u]](https://appleinsider.com/articles/23/03/14/reddit-experiencing-a-widespread-outage?utm_medium=rss)
+ - [CIA Deputy Director David Cohen calls for the private sector to &quot;supercharge&quot; the agency&#39;s work in quantum computing, biotech, wireless, chips, and battery tech &lpar;Tiffany Kary/Bloomberg&rpar;](http://www.techmeme.com/230314/p43#a230314p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
