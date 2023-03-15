@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Am I what?](http://9gag.com/gag/a5XV9rE)
- - 🚯 [Me paul](http://9gag.com/gag/avQW4nE)
- - 🚯 [Once upon a time a fish ...](http://9gag.com/gag/aeQ4qGQ)<!-- MEMES:END -->
+ - 🚖 [One of this is not like the others](http://9gag.com/gag/aOx2O1E)
+ - 🚯 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)
+ - 🚯 [View](http://9gag.com/gag/az25DYx)<!-- MEMES:END -->
 
 --- 
 
