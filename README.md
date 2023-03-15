@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 preloading for the early access beta has started](https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started)
- - [Critical Role’s Till the Last Gasp straddles the line between board game and RPG](https://www.polygon.com/reviews/23641281/critical-role-board-game-till-the-last-gasp-review)
- - [Major Super Smash Bros. Tournament Leaves Attendees Ill](https://kotaku.com/super-smash-bros-melee-ultimate-tournament-sick-virus-1850228945)<!-- GAME:END -->
+ - [Atlas Fallen: Brand New Details Emerge After the Action-RPG’s Gameplay Reveal](https://news.xbox.com/en-us/2023/03/15/atlas-fallen-gameplay-reveal/)
+ - [March’s PS Plus Update Is Big, Adding Games Like Ghostwire, Uncharted, and Street Fighter V](https://kotaku.com/ps-plus-free-games-catalog-march-2023-classics-ps5-ps4-1850229268)
+ - [OpenAI co-founder to angry Game of Thrones fans: Let ChatGPT write your self-insert fanfic](https://www.polygon.com/23641552/chatgpt-fix-game-of-thrones-ending)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
