@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Down with the goog](http://9gag.com/gag/aoKWwmw)
- - 🚯 [Oh lawd he sittin](http://9gag.com/gag/ay2qwnY)
- - 🚯 [Americans can answer ?](http://9gag.com/gag/aA0Q5xo)<!-- MEMES:END -->
+ - 🚖 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)
+ - 🚯 [And everyone at the IRS clapped.](http://9gag.com/gag/a1P7gQ2)
+ - 🚯 [Trust the process guys](http://9gag.com/gag/a1P7nWP)<!-- MEMES:END -->
 
 --- 
 
