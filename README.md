@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New ChatGPT 4 comes with a warning about potential &#39;hallucinations&#39;](https://www.pcgamer.com/new-chatgpt-4-comes-with-a-warning-about-potential-hallucinations)
- - [The 11 best Zelda-likes to play while you wait for Tears of the Kingdom](https://www.polygon.com/zelda/23634048/best-games-like-zelda-on-nintendo-switch-pc-ps5-xbox)
- - [Modders use AI to give Skyrim&#39;s Dragonborn the voice of Master Chief, and I am once again asking if this is actually legal](https://www.pcgamer.com/modders-use-ai-to-give-skyrims-dragonborn-the-voice-of-master-chief-and-i-am-once-again-asking-if-this-is-actually-legal)<!-- GAME:END -->
+ - [Company of Heroes 3&#39;s multiplayer lets you fight with or against your friends in dramatic, emergent battles](https://www.pcgamer.com/company-of-heroes-3s-multiplayer-lets-you-fight-with-or-against-your-friends-in-dramatic-emergent-battles)
+ - [‘Silly’ The Last of Us Tribute Snuck Its Way Into The HBO Show](https://kotaku.com/tlou-last-of-us-bethany-clare-field-salt-lake-city-hbo-1850225202)
+ - [What you need to remember from Shadow and Bone season 1](https://www.polygon.com/23638754/shadow-bone-season-1-ending-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
