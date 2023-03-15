@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Photoshop Web beta hands on: Nifty, but no match for the competition](https://appleinsider.com/articles/23/03/15/photoshop-web-beta-hands-on-nifty-but-no-match-for-the-competition?utm_medium=rss)
- - [Save the Planet by Eating This Big Ugly Fish](https://www.wired.com/story/copi-invasive-species-rebranding-campaign/)
- - [The Future Smartphone: More Folds, Less Phone, a Whole Lot of AI](https://www.wired.com/story/phones-of-the-future-more-folds-less-phone-lots-of-ai/)<!-- TECH:END -->
+ - [FBI report: US citizens lost $10.3B to online scammers in 2022, up from $6.9B in 2021, with losses from crypto investment fraud reaching $2.57B, up from $907M &lpar;Gareth Vipers/Wall Street Journal&rpar;](http://www.techmeme.com/230315/p18#a230315p18)
+ - [Welcome to the Comfy Office of the Future](https://www.wired.com/story/welcome-to-the-comfy-office-of-the-future/)
+ - [How a Beam of Pellets Could Blast a Probe Into Deep Space](https://www.wired.com/story/how-a-beam-of-pellets-could-blast-a-probe-into-deep-space/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
