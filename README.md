@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)
- - 🚯 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
- - 🚯 [Just in case: Chinese state TV channel CCTV showed a map explaining which countries will receive the territories of the Russian Federation after its collapse.](http://9gag.com/gag/a5XVy7y)<!-- MEMES:END -->
+ - 🚖 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
+ - 🚯 [Wondering why Pok\u00e9mon will continue without Ash?](http://9gag.com/gag/aVbgdzy)
+ - 🚯 [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)<!-- MEMES:END -->
 
 --- 
 
