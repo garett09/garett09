@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Company of Heroes 3&#39;s multiplayer lets you fight with or against your friends in dramatic, emergent battles](https://www.pcgamer.com/company-of-heroes-3s-multiplayer-lets-you-fight-with-or-against-your-friends-in-dramatic-emergent-battles)
- - [‘Silly’ The Last of Us Tribute Snuck Its Way Into The HBO Show](https://kotaku.com/tlou-last-of-us-bethany-clare-field-salt-lake-city-hbo-1850225202)
- - [What you need to remember from Shadow and Bone season 1](https://www.polygon.com/23638754/shadow-bone-season-1-ending-explained)<!-- GAME:END -->
+ - [Where to find the food bunker in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-food-bunker-location)
+ - [Ghostwire: Tokyo is finally coming to Xbox and Game Pass](https://www.polygon.com/23640152/ghostwire-tokyo-xbox-game-pass-release-date)
+ - [The Mandalorian Mythosaur is going to be a big part of season 3 and Mandalore](https://www.polygon.com/star-wars/23640202/mandalorian-mythosaur-season-3-monster-episode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
