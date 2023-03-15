@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [May be I\u2019m just lazy](http://9gag.com/gag/amAWbny)
- - 🚯 [Czechoslovakia](http://9gag.com/gag/ay2qVmV)
- - 🚯 [Easy way to remove the core of Iceberg lettuce](http://9gag.com/gag/aZDnVG3)<!-- MEMES:END -->
+ - 🚖 [Do it](http://9gag.com/gag/a04oO2q)
+ - 🚯 [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
+ - 🚯 [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)<!-- MEMES:END -->
 
 --- 
 
