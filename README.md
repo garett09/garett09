@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)
- - 🚯 [And everyone at the IRS clapped.](http://9gag.com/gag/a1P7gQ2)
- - 🚯 [Trust the process guys](http://9gag.com/gag/a1P7nWP)<!-- MEMES:END -->
+ - 🚖 [&#39;Pretends to be shocked&#39;](http://9gag.com/gag/aqeRwoY)
+ - 🚯 [Really tho, why did she stop...?](http://9gag.com/gag/abveo5B)
+ - 🚯 [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)<!-- MEMES:END -->
 
 --- 
 
