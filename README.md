@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Black Stories](http://9gag.com/gag/adPvr9Q)
- - 🚯 [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)
- - 🚯 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
+ - 🚖 [May be I\u2019m just lazy](http://9gag.com/gag/amAWbny)
+ - 🚯 [Czechoslovakia](http://9gag.com/gag/ay2qVmV)
+ - 🚯 [Easy way to remove the core of Iceberg lettuce](http://9gag.com/gag/aZDnVG3)<!-- MEMES:END -->
 
 --- 
 
