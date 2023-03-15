@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US charges exiled Chinese businessman Guo Wengui with a conspiracy to defraud his online followers out of over $1B and arrests him; the DOJ seizes $634M &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230315/p26#a230315p26)
- - [T-Mobile acquires Mint Mobile, keeps Ryan Reynolds in creative role](https://www.androidauthority.com/tmobile-acquires-mint-mobile-3298628/)
- - [Sony WF-1000XM5 leak reveals new design and what’s under the hood](https://www.androidauthority.com/sony-wf-1000xm5-leak-3298635/)<!-- TECH:END -->
+ - [Inside the iPhone refurbishment process at New Jersey-based US Mobile Phones, from the trade-in to refurbish to resale; iPhones dominate consumer trade-ins &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/230315/p29#a230315p29)
+ - [Tragedy plus time equals a BlackBerry comedy](https://appleinsider.com/articles/23/03/15/tragedy-plus-time-equals-a-blackberry-comedy?utm_medium=rss)
+ - [First ‘BlackBerry’ film trailer looks like ‘The Big Short’ but for smartphones](https://www.androidauthority.com/blackberry-film-3298664/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
