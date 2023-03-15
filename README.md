@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lunark: Getting retro with rotoscoping](https://blog.playstation.com/2023/03/15/lunark-getting-retro-with-rotoscoping/)
- - [Destiny 2: Root of Nightmares raid walkthrough](https://www.polygon.com/destiny-2-guide-walkthrough/23640695/root-nightmares-raid-walkthrough-nezarec-boss-fight)
- - [Puzzle, performance, or prank? TV’s best game show isn’t a game show at all](https://www.polygon.com/23639574/dropout-tv-college-humor-game-changer-sam-reich)<!-- GAME:END -->
+ - [Elden Ring streamer vanquishes Malenia using only her voice](https://www.polygon.com/23641516/elden-ring-malenia-voice-command-mod-throat-lord)
+ - [How Blizzard crafts Diablo IV’s menacing World Bosses, Beta details](https://blog.playstation.com/2023/03/15/how-blizzard-crafts-diablo-ivs-menacing-world-bosses-beta-details/)
+ - [Ghostwire: Tokyo Is Coming to Xbox – Play the All-New Spider’s Thread Update April 12](https://news.xbox.com/en-us/2023/03/15/ghostwire-tokyo-xbox-release-date-spiders-thread-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
