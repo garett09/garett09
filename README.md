@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix Is Still Making That NFT Game, In 2023](https://kotaku.com/symbiogenesis-square-enix-nft-game-rpg-crypto-sucks-1850226742)
- - [Yes, the giraffe in HBO&#39;s The Last of Us finale was real, his name is Nabo and he lives in Calgary](https://www.pcgamer.com/yes-the-giraffe-in-hbos-the-last-of-us-finale-was-real-his-name-is-nabo-and-he-lives-in-calgary)
- - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2023/03/14/essential-picks-promotion-comes-to-playstation-store-4/)<!-- GAME:END -->
+ - [Get the worst value gaming PC ever with this F1 sim rig](https://www.pcgamer.com/get-the-worst-value-gaming-pc-ever-with-this-f1-sim-rig)
+ - [Let Us All Enjoy This 1999 Pokémon Card Commercial](https://kotaku.com/pokemon-tcg-commercial-1999-90s-nintendo-card-ad-game-1850226812)
+ - [Square Enix Is Still Making That NFT Game, In 2023](https://kotaku.com/symbiogenesis-square-enix-nft-game-rpg-crypto-sucks-1850226742)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
