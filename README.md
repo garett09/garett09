@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Snag almost any AMD graphics card plus The Last of Us for hella cheap](https://www.pcgamer.com/snag-almost-any-amd-graphics-card-plus-the-last-of-us-for-hella-cheap)
- - [Wordle hint and answer #634: Wednesday, March 15](https://www.pcgamer.com/wordle-hint-answer-today-634-march-15)
- - [Bring back wireless mouse charging mats](https://www.pcgamer.com/bring-back-wireless-mouse-charging-mats)<!-- GAME:END -->
+ - [How Atlas Fallen elevates sand play with superpowered combat and exploration](https://blog.playstation.com/2023/03/15/how-atlas-fallen-elevates-sand-play-with-superpowered-combat-and-exploration/)
+ - [Cities: Skylines puts out its final DLC roadmap before it goes away for good](https://www.pcgamer.com/cities-skylines-puts-out-its-final-dlc-roadmap-before-it-goes-away-for-good)
+ - [Snag almost any AMD graphics card plus The Last of Us for hella cheap](https://www.pcgamer.com/snag-almost-any-amd-graphics-card-plus-the-last-of-us-for-hella-cheap)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
