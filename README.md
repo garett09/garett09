@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the food bunker in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-food-bunker-location)
- - [Ghostwire: Tokyo is finally coming to Xbox and Game Pass](https://www.polygon.com/23640152/ghostwire-tokyo-xbox-game-pass-release-date)
- - [The Mandalorian Mythosaur is going to be a big part of season 3 and Mandalore](https://www.polygon.com/star-wars/23640202/mandalorian-mythosaur-season-3-monster-episode)<!-- GAME:END -->
+ - [Lunark: Getting retro with rotoscoping](https://blog.playstation.com/2023/03/15/lunark-getting-retro-with-rotoscoping/)
+ - [Destiny 2: Root of Nightmares raid walkthrough](https://www.polygon.com/destiny-2-guide-walkthrough/23640695/root-nightmares-raid-walkthrough-nezarec-boss-fight)
+ - [Puzzle, performance, or prank? TV’s best game show isn’t a game show at all](https://www.polygon.com/23639574/dropout-tv-college-humor-game-changer-sam-reich)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
