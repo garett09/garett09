@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of this is not like the others](http://9gag.com/gag/aOx2O1E)
- - 🚯 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)
- - 🚯 [View](http://9gag.com/gag/az25DYx)<!-- MEMES:END -->
+ - 🚖 [NO JOKE, THE SOCIAL NETWORKS WERE FILLED WITH COMPLAINTS FOR `THE TERRIBLE CGI OF THE GIRAFFE`. there will always be morons who complain for free](http://9gag.com/gag/aoKWGvn)
+ - 🚯 [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)
+ - 🚯 [Just in case: Chinese state TV channel CCTV showed a map explaining which countries will receive the territories of the Russian Federation after its collapse.](http://9gag.com/gag/a5XVy7y)<!-- MEMES:END -->
 
 --- 
 
