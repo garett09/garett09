@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation finds illegal miners in Brazil are using SpaceX&#39;s Starlink, helping coordinate logistics, make payments, and warn of law enforcement raids &lpar;Fabiano Maisonnave/Associated Press&rpar;](http://www.techmeme.com/230315/p22#a230315p22)
- - [Samsung debuts the Galaxy A54 5G and A34 5G](https://www.androidauthority.com/samsung-galaxy-a54-a34-3297772/)
- - [Carrot Weather update introduces snarky chatbot based on ChatGPT](https://www.theverge.com/2023/3/15/23641118/carrot-weather-app-update-chatgpt-chatbot-radar-notifications)<!-- TECH:END -->
+ - [The US charges exiled Chinese businessman Guo Wengui with a conspiracy to defraud his online followers out of over $1B and arrests him; the DOJ seizes $634M &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230315/p26#a230315p26)
+ - [T-Mobile acquires Mint Mobile, keeps Ryan Reynolds in creative role](https://www.androidauthority.com/tmobile-acquires-mint-mobile-3298628/)
+ - [Sony WF-1000XM5 leak reveals new design and what’s under the hood](https://www.androidauthority.com/sony-wf-1000xm5-leak-3298635/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
