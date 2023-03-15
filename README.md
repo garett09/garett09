@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring streamer vanquishes Malenia using only her voice](https://www.polygon.com/23641516/elden-ring-malenia-voice-command-mod-throat-lord)
- - [How Blizzard crafts Diablo IV’s menacing World Bosses, Beta details](https://blog.playstation.com/2023/03/15/how-blizzard-crafts-diablo-ivs-menacing-world-bosses-beta-details/)
- - [Ghostwire: Tokyo Is Coming to Xbox – Play the All-New Spider’s Thread Update April 12](https://news.xbox.com/en-us/2023/03/15/ghostwire-tokyo-xbox-release-date-spiders-thread-update/)<!-- GAME:END -->
+ - [Diablo 4 preloading for the early access beta has started](https://www.pcgamer.com/diablo-4-preloading-for-the-early-access-beta-has-started)
+ - [Critical Role’s Till the Last Gasp straddles the line between board game and RPG](https://www.polygon.com/reviews/23641281/critical-role-board-game-till-the-last-gasp-review)
+ - [Major Super Smash Bros. Tournament Leaves Attendees Ill](https://kotaku.com/super-smash-bros-melee-ultimate-tournament-sick-virus-1850228945)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
