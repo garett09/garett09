@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung debuts the Galaxy A54 5G and A34 5G](https://www.androidauthority.com/samsung-galaxy-a54-a34-3297772/)
- - [A look at the history of Signature Bank, a lender once tied to Jared Kushner and founded in 2001 that leaped into crypto, ultimately leading to its downfall &lpar;Max Abelson/Bloomberg&rpar;](http://www.techmeme.com/230315/p7#a230315p7)
- - [The Be My Eyes app for the visually impaired integrates GPT-4, which can inspect and describe images, through a Virtual Volunteer feature in closed beta &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230315/p6#a230315p6)<!-- TECH:END -->
+ - [Foxconn reports Q4 revenue down 10% YoY to ~$64.5B and $1.3B net income, slightly below estimates, and forecasts slumping consumer electronics demand in 2023 &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230315/p11#a230315p11)
+ - [Arkham: net redemptions of Circle&#39;s USDC reached $4.5B since March 10, including a single $723M redemption that was later burnt, after Signature and SVB fell &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230315/p10#a230315p10)
+ - [Sources: US prosecutors were investigating Signature&#39;s work with crypto clients before regulators seized the bank, including over detecting money laundering &lpar;Bloomberg&rpar;](http://www.techmeme.com/230315/p9#a230315p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
