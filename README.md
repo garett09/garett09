@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Once upon a time a fish ...](http://9gag.com/gag/aeQ4qGQ)
- - 🚯 [Easy way to remove the core of Iceberg lettuce](http://9gag.com/gag/aZDnVG3)
- - 🚯 [Sugar mummy](http://9gag.com/gag/aeQ4qMb)<!-- MEMES:END -->
+ - 🚖 [This picture of London that looks like it should be a video](http://9gag.com/gag/aoKWd6e)
+ - 🚯 [Pretty sure that&#39;s Johnny Sins](http://9gag.com/gag/aQEgB0r)
+ - 🚯 [Black Stories](http://9gag.com/gag/adPvr9Q)<!-- MEMES:END -->
 
 --- 
 
