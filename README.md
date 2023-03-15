@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do it](http://9gag.com/gag/a04oO2q)
- - 🚯 [Just a sand with a bit of tit.](http://9gag.com/gag/a5XVv3V)
- - 🚯 [Have a nice day](http://9gag.com/gag/axoWnXn)<!-- MEMES:END -->
+ - 🚖 [Once upon a time a fish ...](http://9gag.com/gag/aeQ4qGQ)
+ - 🚯 [Easy way to remove the core of Iceberg lettuce](http://9gag.com/gag/aZDnVG3)
+ - 🚯 [Sugar mummy](http://9gag.com/gag/aeQ4qMb)<!-- MEMES:END -->
 
 --- 
 
