@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No big bang?](http://9gag.com/gag/avQWVpZ)
- - 🚯 [Where do you think we are?](http://9gag.com/gag/aeQ4zKO)
- - 🚯 [In China, if you cross the street in the wrong place, the facial recognition system will immediately display your image on a public shame board and automatically deduct a fine from your bank account without your knowledge or participation.](http://9gag.com/gag/a5XVA3N)<!-- MEMES:END -->
+ - 🚖 [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)
+ - 🚯 [How to look and sound more confident](http://9gag.com/gag/armWdvy)
+ - 🚯 [Just in case: Chinese state TV channel CCTV showed a map explaining which countries will receive the territories of the Russian Federation after its collapse.](http://9gag.com/gag/a5XVy7y)<!-- MEMES:END -->
 
 --- 
 
