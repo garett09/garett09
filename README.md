@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trust the process guys](http://9gag.com/gag/a1P7nWP)
+ - 🚖 [No big bang?](http://9gag.com/gag/avQWVpZ)
  - 🚯 [Where do you think we are?](http://9gag.com/gag/aeQ4zKO)
- - 🚯 [No big bang?](http://9gag.com/gag/avQWVpZ)<!-- MEMES:END -->
+ - 🚯 [In China, if you cross the street in the wrong place, the facial recognition system will immediately display your image on a public shame board and automatically deduct a fine from your bank account without your knowledge or participation.](http://9gag.com/gag/a5XVA3N)<!-- MEMES:END -->
 
 --- 
 
