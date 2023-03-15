@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Once upon a time a fish ...](http://9gag.com/gag/aeQ4qGQ)
- - 🚯 [Black Stories](http://9gag.com/gag/adPvr9Q)
- - 🚯 [View](http://9gag.com/gag/az25DYx)<!-- MEMES:END -->
+ - 🚖 [Black Stories](http://9gag.com/gag/adPvr9Q)
+ - 🚯 [Looks like suburban mom. Not necessarily a bad thing.](http://9gag.com/gag/amAWKG9)
+ - 🚯 [Do it](http://9gag.com/gag/a04oO2q)<!-- MEMES:END -->
 
 --- 
 
