@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me paul](http://9gag.com/gag/avQW4nE)
- - 🚯 [Do it](http://9gag.com/gag/a04oO2q)
- - 🚯 [I think I found my type](http://9gag.com/gag/a9qzeno)<!-- MEMES:END -->
+ - 🚖 [Sugar mummy](http://9gag.com/gag/aeQ4qMb)
+ - 🚯 [I think I found my type](http://9gag.com/gag/a9qzeno)
+ - 🚯 [Bus driver is accused of racism, his response tho](http://9gag.com/gag/aDY7qoZ)<!-- MEMES:END -->
 
 --- 
 
