@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany and US authorities seize up to &amp;euro;44M from ChipMixer and shut down its crypto mixer, alleging the service enabled the laundering of 152K BTC since 2017 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230315/p34#a230315p34)
- - [Google discontinues its Glass Enterprise Edition 2 and plans to support the headset until September 15, 2023; existing devices and apps will continue to work &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230315/p33#a230315p33)
- - [It’s on sight between Ali Wong and Steven Yeun in Beef’s first trailer](https://www.theverge.com/2023/3/15/23641644/ali-wong-steven-yeun-in-beefs-first-trailer)<!-- TECH:END -->
+ - [Stripe says it raised a $6.5B+ Series I at a $50B valuation to help its employees cover tax obligations related to RSUs and to fund a new stock tender offer &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230315/p36#a230315p36)
+ - [Adobe reports Q1 revenue up 9% YoY to $4.66B, vs. $4.62B est., Digital Media revenue up 9% YoY to $3.4B, and Digital Experience revenue up 11% YoY to $1.18B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230315/p35#a230315p35)
+ - [This Is the New Leader of Russia&#39;s Infamous Sandworm Hacking Unit](https://www.wired.com/story/russia-gru-sandworm-serebriakov/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
