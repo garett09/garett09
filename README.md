@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&#39;Pretends to be shocked&#39;](http://9gag.com/gag/aqeRwoY)
- - 🚯 [Really tho, why did she stop...?](http://9gag.com/gag/abveo5B)
- - 🚯 [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)<!-- MEMES:END -->
+ - 🚖 [This picture of London that looks like it should be a video](http://9gag.com/gag/aoKWd6e)
+ - 🚯 [Andrew Tate remains in prison after the Bucharest tribunal rejected his appeal](http://9gag.com/gag/amAWQdX)
+ - 🚯 [Really tho, why did she stop...?](http://9gag.com/gag/abveo5B)<!-- MEMES:END -->
 
 --- 
 
