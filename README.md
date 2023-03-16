@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us is not a love story](https://www.polygon.com/23638404/last-us-finale-review-love-season)
- - [Heinz brings baffling tomato and soil corporate synergy to Fortnite](https://www.pcgamer.com/heinz-brings-baffling-tomato-and-soil-corporate-synergy-to-fortnite)
- - [Nintendo expands Switch Online library with more Game Boy classics and Kirby](https://www.polygon.com/2023/3/16/23642900/nintendo-switch-online-march-2023-games)<!-- GAME:END -->
+ - [The Riddick trilogy has one thing no other sci-fi franchise can match](https://www.polygon.com/23641849/pitch-black-chronicles-of-riddick-trilogy-netflix-sci-fi)
+ - [The Sims 4 Glitch Turns Infants Into Horrifying, Long-Legged Monsters](https://kotaku.com/the-sims-4-infant-glitch-bug-long-legs-growing-together-1850232465)
+ - [Steam sale dates: When is the next Steam sale?](https://www.pcgamer.com/steam-sale-dates)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
