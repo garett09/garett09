@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Save 10% On A Steam Deck &lpar;Plus Other Great Spring Sale Deals&rpar;](https://kotaku.com/steam-deck-spring-sale-best-games-deals-valve-1850235007)
- - [Streamer who got busted with deepfake porn of other streamers is now crusading against deepfake porn](https://www.pcgamer.com/streamer-who-got-busted-with-deepfake-porn-of-other-streamers-is-now-crusading-against-deepfake-porn)
- - [Razer would very much like you to not set fires or bash anyone over the head with its &#39;first-ever glass gaming mouse mat&#39;](https://www.pcgamer.com/razer-would-very-much-like-you-to-not-set-fires-or-bash-anyone-over-the-head-with-its-first-ever-glass-gaming-mouse-mat)<!-- GAME:END -->
+ - [GPT-4 turns Pokémon Emerald into a text adventure](https://www.polygon.com/23643321/chatgpt-4-ai-pokemon-emerald)
+ - [Hyper Light Breaker trailer shows off first gameplay in &#39;infinite open worlds&#39;](https://www.pcgamer.com/hyper-light-breaker-trailer-shows-off-first-gameplay-in-infinite-open-worlds)
+ - [Film Critic Who Loves Tetris Movie Had Never Heard Of Tetris](https://kotaku.com/never-heard-tetris-game-film-critic-review-pete-hammond-1850235190)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
