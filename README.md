@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Riddick trilogy has one thing no other sci-fi franchise can match](https://www.polygon.com/23641849/pitch-black-chronicles-of-riddick-trilogy-netflix-sci-fi)
- - [The Sims 4 Glitch Turns Infants Into Horrifying, Long-Legged Monsters](https://kotaku.com/the-sims-4-infant-glitch-bug-long-legs-growing-together-1850232465)
- - [Steam sale dates: When is the next Steam sale?](https://www.pcgamer.com/steam-sale-dates)<!-- GAME:END -->
+ - [The best anime to watch on Netflix right now](https://www.polygon.com/22783137/best-anime-on-netflix)
+ - [Inside details from Bungie on Destiny 2: Lightfall’s Root of Nightmares raid](https://blog.playstation.com/2023/03/16/inside-details-from-bungie-on-destiny-2-lightfalls-root-of-nightmares-raid/)
+ - [Meet the GTA Online role-players who built their own fighting circuit](https://www.polygon.com/23641844/gta-online-role-play-new-day-blood-night-bouts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
