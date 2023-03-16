@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US demands Chinese owners sell TikTok, or face ban](https://appleinsider.com/articles/23/03/16/us-demands-chinese-owners-sell-tiktok-or-face-ban?utm_medium=rss)
- - [TikTok adds a Refresh button to the For You feed, resetting recommendations to those shown to new signups, after testing the feature in February 2023 &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230316/p17#a230316p17)
- - [AI Will Make Human Art More Valuable](https://www.wired.com/story/art-artificial-intelligence-history/)<!-- TECH:END -->
+ - [UK bans TikTok from ministers&#39; and civil servants&#39; work phones after a National Cyber Security Centre review, in a U-turn from the country&#39;s previous position &lpar;Dan Sabbagh/The Guardian&rpar;](http://www.techmeme.com/230316/p20#a230316p20)
+ - [Apple TV+ baseball fans will get live looks into bad call appeals](https://appleinsider.com/articles/23/03/16/apple-tv-baseball-fans-will-get-live-looks-into-bad-call-appeals?utm_medium=rss)
+ - [NYC-based Via plans to acquire London-based Citymapper, which has ~50M users and raised ~$60M; sources say investors are mostly not making their money back &lpar;TechCrunch&rpar;](http://www.techmeme.com/230316/p19#a230316p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
