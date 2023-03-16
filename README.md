@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairmatic, which helps companies manage vehicle insurance by monitoring their fleets, raised $46M led by Battery Ventures, bringing its total funding to $88M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230316/p26#a230316p26)
- - [Inside a Misfiring Government Data Machine](https://www.wired.com/story/algorithmic-bias-government/)
- - [The best floodlight cameras](https://www.theverge.com/22811985/best-smart-floodlight-security-camera)<!-- TECH:END -->
+ - [Senator Warner on the Restrict Act and a US TikTok Ban](https://www.wired.com/story/mark-warner-us-tiktok-ban-restrict-act/)
+ - [Clippy evolved: New &#39;Microsoft 365 Copilot&#39; uses AI for text creation](https://appleinsider.com/articles/23/03/16/clippy-evolved-new-microsoft-365-copilot-uses-ai-for-text-creation?utm_medium=rss)
+ - [Microsoft details Business Chat, part of 365 Copilot, which can summarize meetings, recent customer contacts, calendar entries, and more, similar to Bing&#39;s AI &lpar;The Verge&rpar;](http://www.techmeme.com/230316/p27#a230316p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
