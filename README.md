@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Farmer drives 2 trucks loaded with dirt into levee breach to prevent orchard from being flooded](http://9gag.com/gag/amAW4pV)
- - 🚯 [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)
+ - 🚖 [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)
+ - 🚯 [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
  - 🚯 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)<!-- MEMES:END -->
 
 --- 
