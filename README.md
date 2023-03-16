@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Russia&#39;s hacking unit Sandworm is led by Evgenii Serebriakov, who was convicted for a close-range cyberespionage operation in the Netherlands in 2018 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230315/p41#a230315p41)
- - [The US Copyright Office says protections for AI-assisted artistic works depend on whether AI&#39;s contributions reflect the author&#39;s &quot;own mental conception&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230315/p40#a230315p40)
- - [Biden Administration Reportedly Threatens to Ban TikTok if It&#39;s Not Sold     - CNET](https://www.cnet.com/news/social-media/biden-administration-reportedly-threatens-to-ban-tiktok-if-its-not-sold/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI allowed the Alignment Research Center, a nonprofit founded by its ex-employee, to assess the potential risks of GPT-4 including power-seeking behavior &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230315/p43#a230315p43)
+ - [Experts criticize OpenAI for not disclosing GPT-4&#39;s training data or methods used; OpenAI co-founder says its past approach to openly sharing research was wrong &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230315/p42#a230315p42)
+ - [Sources: Russia&#39;s hacking unit Sandworm is led by Evgenii Serebriakov, who was convicted for a close-range cyberespionage operation in the Netherlands in 2018 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230315/p41#a230315p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
