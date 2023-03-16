@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Season Nine Arrives as Sea of Thieves Celebrates Five Years at Sea](https://news.xbox.com/en-us/2023/03/16/sea-of-thieves-season-9/)
- - [Shadow and Bone season 2 makes some wild changes to the books](https://www.polygon.com/23641787/shadow-bone-season-2-alina-mal-shipping-darkling-ending-book-changes)
- - [John Cena’s Action Figure Skin In WWE 2K23 Is Some Truly Cursed Stuff](https://kotaku.com/john-cena-wwe-2k23-action-figure-card-toy-skin-cursed-1850233520)<!-- GAME:END -->
+ - [Where to buy Legend of Zelda amiibo in time for Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
+ - [Free Play Days – Anno 1800, Session: Skate Sim, and Autonauts](https://news.xbox.com/en-us/2023/03/16/free-play-days-anno-1800-session-skate-sim-and-autonauts/)
+ - [In The Wreck, All Your Choices Prepare you for the Very Last One](https://news.xbox.com/en-us/2023/03/16/how-life-choices-work-in-the-wreck/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
