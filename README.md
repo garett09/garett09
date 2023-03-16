@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #635: Thursday, March 16](https://www.pcgamer.com/wordle-hint-answer-today-635-march-16)
- - [Asus&#39;s new motherboard hides ports on the back for cable management](https://www.pcgamer.com/asuss-new-motherboard-hides-ports-on-the-back-for-cable-management)
- - [32 years later, Toxic Crusaders is getting a new beat &#39;em up](https://www.pcgamer.com/32-years-later-toxic-crusaders-is-getting-a-new-beat-em-up)<!-- GAME:END -->
+ - [Understanding amplifiers is key to Shadow and Bone season 2](https://www.polygon.com/23641219/shadow-bone-amplifiers-firebird-explained)
+ - [Dwarf Fortress just announced its &#39;cutest update ever&#39; and baby, it&#39;s babies](https://www.pcgamer.com/dwarf-fortress-just-announced-its-cutest-update-ever-and-baby-its-babies)
+ - [Starfield subreddit surfaces Pedro Pascal movie that is like The Last of Us but with a “very Starfield-y vibe”](https://www.pcgamer.com/starfield-subreddit-surfaces-pedro-pascal-movie-that-is-like-the-last-of-us-but-with-a-very-starfield-y-vibe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
