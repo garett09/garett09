@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Understanding amplifiers is key to Shadow and Bone season 2](https://www.polygon.com/23641219/shadow-bone-amplifiers-firebird-explained)
- - [Dwarf Fortress just announced its &#39;cutest update ever&#39; and baby, it&#39;s babies](https://www.pcgamer.com/dwarf-fortress-just-announced-its-cutest-update-ever-and-baby-its-babies)
- - [Starfield subreddit surfaces Pedro Pascal movie that is like The Last of Us but with a “very Starfield-y vibe”](https://www.pcgamer.com/starfield-subreddit-surfaces-pedro-pascal-movie-that-is-like-the-last-of-us-but-with-a-very-starfield-y-vibe)<!-- GAME:END -->
+ - [How to build stairs in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-stairs)
+ - [Get a freebie copy of Redfall with your Nvidia RTX 40-series GPU or laptop buy](https://www.pcgamer.com/redfall-free-copy-nvidia-rtx-40-series-gpu)
+ - [Diablo 4 supports DLSS 3 at launch, devs &#39;excited by the high frame rate&#39;](https://www.pcgamer.com/diablo-4-dlss-3-support)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
