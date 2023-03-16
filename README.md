@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghostwire: Tokyo is getting an expanded campaign, a roguelite mode, and a dodge button](https://www.pcgamer.com/ghostwire-tokyo-is-getting-an-expanded-campaign-a-roguelite-mode-and-a-dodge-button)
- - [8 D&amp;D classics including Spelljammer and a Silver Box bundle are headed to Steam and GOG](https://www.pcgamer.com/8-dandd-classics-including-spelljammer-and-a-silver-box-bundle-are-headed-to-steam-and-gog)
- - [Veteran Games, Anime Composer Arrested For Sexually Assaulting Teenage Girl](https://kotaku.com/hidekazu-tanaka-anime-composer-assault-charge-pokemon-1850230490)<!-- GAME:END -->
+ - [Board Games Aren&#39;t Great For The Environment](https://kotaku.com/board-games-environment-climate-change-ethical-sourcing-1850227150)
+ - [Halo Infinite&#39;s new update is good &lpar;now do it again&rpar;](https://www.pcgamer.com/halo-infinites-new-update-is-good-now-do-it-again)
+ - [Star Citizen Has Had A Week To Forget](https://kotaku.com/star-citizen-update-crash-error-down-bugs-3-18-rsi-pc-1850230452)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
