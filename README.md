@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Making sure the skill matches the resume](http://9gag.com/gag/a4ong8w)
- - 🚯 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
- - 🚯 [Me paul](http://9gag.com/gag/avQW4nE)<!-- MEMES:END -->
+ - 🚖 [Badass cop gives a warning at 90mph then leaves biker in the dust](http://9gag.com/gag/a9qzGzK)
+ - 🚯 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)
+ - 🚯 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)<!-- MEMES:END -->
 
 --- 
 
