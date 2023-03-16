@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s GPT-4 is an outrageous, if imperfect, step forward, offering a glimpse of a future internet where generative AI creates one big personalized web portal &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/230316/p12#a230316p12)
- - [The US Federal Reserve plans to activate its real-time FedNow Service payments system in July, seeking to improve clearing transactions between institutions &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230316/p11#a230316p11)
- - [TSMC founder Morris Chang says chip industry globalization &quot;is dead&quot; and he &quot;agrees&quot; with US embargoes on China&#39;s chip sector, which is five years behind Taiwan &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230316/p10#a230316p10)<!-- TECH:END -->
+ - [Foxconn wins first AirPods order &amp; will make them in India](https://appleinsider.com/articles/23/03/16/foxconn-wins-first-airpods-order-plans-new-factory?utm_medium=rss)
+ - [How San Francisco&#39;s Hayes Valley, or &quot;Cerebral Valley&quot;, became a hotbed for &quot;hacker houses&quot; and AI events, as the AI gold rush revives the Bay Area&#39;s tech scene &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/230316/p14#a230316p14)
+ - [I Love You. I Hate You. Don’t Call Me](https://www.wired.com/story/gadget-lab-podcast-590/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
