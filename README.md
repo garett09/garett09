@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sid Meier’s Civilization VI: What to Do on Your First 50 Turns](https://news.xbox.com/en-us/2023/03/16/sid-meiers-civilization-6-first-50-turns/)
- - [Magic: The Gathering officially recognizes a new multiplayer format, Oathbreaker](https://www.polygon.com/23643684/magic-gathering-oathbreaker-format-announced)
- - [Shroud and Sacriel are making a new survival game with Splash Damage](https://www.pcgamer.com/shroud-and-sacriel-are-making-a-new-survival-game-with-splash-damage)<!-- GAME:END -->
+ - [The best deals in the 2023 Steam Spring Sale](https://www.pcgamer.com/the-best-deals-in-the-2023-steam-spring-sale)
+ - [Steam Decks are on sale for 10% off right now](https://www.pcgamer.com/steam-decks-are-on-sale-for-10-off-right-now)
+ - [The Future Games Show Spring Showcase airs next week with over 45 games](https://www.pcgamer.com/the-future-games-show-spring-showcase-airs-next-week-with-over-45-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
