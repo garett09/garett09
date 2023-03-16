@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 7 Best Mirrorless Cameras &lpar;2023&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)
- - [Ugreen’s Nexode 140W charger is for 16-inch MacBook Pro trekkers](https://www.theverge.com/23634223/ugreen-nexode-140w-charger-pd-3-1-usb-c-macbook-pro-16-inch-m1-m2-review)
- - [In its presentation of the new Copilot features, Microsoft acknowledges their tendency to produce inaccurate responses but says the tech can be &quot;usefully wrong&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230316/p32#a230316p32)<!-- TECH:END -->
+ - [Google might give the Pixel 8 a Video Unblur tool](https://www.androidauthority.com/pixel-video-unblur-3299191/)
+ - [Pornhub owner MindGeek is acquired by PE firm Ethical Capital Partners; MindGeek had $460M in 2018 revenue, and sources say it had ~50% profit margins at times &lpar;Patricia Nilsson/Financial Times&rpar;](http://www.techmeme.com/230316/p33#a230316p33)
+ - [The next Motorola Razr might have a laughably small battery](https://www.androidauthority.com/motorola-razr-plus-3299200/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
