@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2023/#ftag=CAD590a51e)
- - [Samsung Galaxy A14 5G vs Galaxy A12: Which is the better buy?](https://www.androidauthority.com/samsung-galaxy-a14-5g-vs-galaxy-a12-3297840/)
- - [7 Products to Help You Stop Snoring     - CNET](https://www.cnet.com/health/sleep/products-to-help-you-stop-snoring/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Russia&#39;s hacking unit Sandworm is led by Evgenii Serebriakov, who was convicted for a close-range cyberespionage operation in the Netherlands in 2018 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230315/p41#a230315p41)
+ - [The US Copyright Office says protections for AI-assisted artistic works depend on whether AI&#39;s contributions reflect the author&#39;s &quot;own mental conception&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230315/p40#a230315p40)
+ - [Biden Administration Reportedly Threatens to Ban TikTok if It&#39;s Not Sold     - CNET](https://www.cnet.com/news/social-media/biden-administration-reportedly-threatens-to-ban-tiktok-if-its-not-sold/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
