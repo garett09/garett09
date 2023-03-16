@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)
- - 🚯 [A lighter would have fixed this](http://9gag.com/gag/aDY7q3x)
- - 🚯 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)<!-- MEMES:END -->
+ - 🚖 [Napoli: football warzone. Animals destroyed infrastructure](http://9gag.com/gag/aQEgjmw)
+ - 🚯 [Andrew Tate remains in prison after the Bucharest tribunal rejected his appeal](http://9gag.com/gag/amAWQdX)
+ - 🚯 [Rock-climbing - Do a flip](http://9gag.com/gag/aqeREWL)<!-- MEMES:END -->
 
 --- 
 
