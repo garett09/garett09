@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senator Warner on the Restrict Act and a US TikTok Ban](https://www.wired.com/story/mark-warner-us-tiktok-ban-restrict-act/)
- - [Clippy evolved: New &#39;Microsoft 365 Copilot&#39; uses AI for text creation](https://appleinsider.com/articles/23/03/16/clippy-evolved-new-microsoft-365-copilot-uses-ai-for-text-creation?utm_medium=rss)
- - [Microsoft details Business Chat, part of 365 Copilot, which can summarize meetings, recent customer contacts, calendar entries, and more, similar to Bing&#39;s AI &lpar;The Verge&rpar;](http://www.techmeme.com/230316/p27#a230316p27)<!-- TECH:END -->
+ - [YouTube TV raises subscription to $72.99, inching closer to cable pricing](https://www.theverge.com/2023/3/16/23643448/youtube-tv-price-increase-8-cable-pricing)
+ - [VW beats Tesla to the punch and unveils an affordable electric vehicle](https://www.theverge.com/2023/3/16/23643047/vw-id-2-all-ev-price-photo-specs)
+ - [iPhone vs Android: Two different photography and machine learning approaches](https://appleinsider.com/articles/23/03/16/iphone-vs-android-two-different-photography-and-machine-learning-approaches?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
