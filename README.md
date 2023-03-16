@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Really tho, why did she stop...?](http://9gag.com/gag/abveo5B)
- - 🚯 [Trust the process guys](http://9gag.com/gag/a1P7nWP)
- - 🚯 [Rock-climbing - Do a flip](http://9gag.com/gag/aqeREWL)<!-- MEMES:END -->
+ - 🚖 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
+ - 🚯 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)
+ - 🚯 [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)<!-- MEMES:END -->
 
 --- 
 
