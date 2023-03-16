@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to bring OpenAI&#39;s GPT-4 to Excel, PowerPoint, Outlook, Word, and its other apps in the coming months, calling the feature Microsoft 365 Copilot &lpar;Bloomberg&rpar;](http://www.techmeme.com/230316/p23#a230316p23)
- - [Google Pixel 8: Everything we know and what we want to see &lpar;Update: March 16&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
- - [A live stream of Microsoft&#39;s The Future of Work with AI event, where the company is expected to demo adding OpenAI&#39;s tech to its 365 and Office apps &lpar;Microsoft&rpar;](http://www.techmeme.com/230316/p22#a230316p22)<!-- TECH:END -->
+ - [Fairmatic, which helps companies manage vehicle insurance by monitoring their fleets, raised $46M led by Battery Ventures, bringing its total funding to $88M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230316/p26#a230316p26)
+ - [Inside a Misfiring Government Data Machine](https://www.wired.com/story/algorithmic-bias-government/)
+ - [The best floodlight cameras](https://www.theverge.com/22811985/best-smart-floodlight-security-camera)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
