@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A more valid ID](http://9gag.com/gag/aeQ4wzq)
- - 🚯 [Psychology](http://9gag.com/gag/aPgx26V)
- - 🚯 [If you want loyalty get a dog](http://9gag.com/gag/aVbgyA8)<!-- MEMES:END -->
+ - 🚖 [Farmer drives 2 trucks loaded with dirt into levee breach to prevent orchard from being flooded](http://9gag.com/gag/amAW4pV)
+ - 🚯 [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)
+ - 🚯 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)<!-- MEMES:END -->
 
 --- 
 
