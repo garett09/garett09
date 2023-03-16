@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to build stairs in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-stairs)
- - [Get a freebie copy of Redfall with your Nvidia RTX 40-series GPU or laptop buy](https://www.pcgamer.com/redfall-free-copy-nvidia-rtx-40-series-gpu)
- - [Diablo 4 supports DLSS 3 at launch, devs &#39;excited by the high frame rate&#39;](https://www.pcgamer.com/diablo-4-dlss-3-support)<!-- GAME:END -->
+ - [The Last of Us is not a love story](https://www.polygon.com/23638404/last-us-finale-review-love-season)
+ - [Heinz brings baffling tomato and soil corporate synergy to Fortnite](https://www.pcgamer.com/heinz-brings-baffling-tomato-and-soil-corporate-synergy-to-fortnite)
+ - [Nintendo expands Switch Online library with more Game Boy classics and Kirby](https://www.polygon.com/2023/3/16/23642900/nintendo-switch-online-march-2023-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
