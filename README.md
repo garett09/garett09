@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🌕 Samsung’s response to moon shenanigans](https://www.androidauthority.com/daily-authority-march-16-2023-3294661/)
- - [Foxconn wins first AirPods order, plans new factory](https://appleinsider.com/articles/23/03/16/foxconn-wins-first-airpods-order-plans-new-factory?utm_medium=rss)
- - [The 7 Best Fitness Apps for 2023     - CNET](https://www.cnet.com/health/fitness/best-fitness-workout-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Baidu announces its Ernie Bot in a pre-recorded video, with founder Robin Li talking over a scripted video of interactions with the AI; BIDU drops 5%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230316/p6#a230316p6)
+ - [Counterpoint: Xiaomi&#39;s focus on sub-$120 phones in India helped Samsung take the top spot; market share for sub-$120 phones fell to 26% in 2022 from 41% in 2020 &lpar;Reuters&rpar;](http://www.techmeme.com/230316/p5#a230316p5)
+ - [Daily Authority: 🌕 Samsung’s response to moon shenanigans](https://www.androidauthority.com/daily-authority-march-16-2023-3294661/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
