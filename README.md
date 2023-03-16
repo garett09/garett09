@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AR headset operating system referenced in code](https://appleinsider.com/articles/23/03/15/apple-open-source-code-on-github-references-realityos?utm_medium=rss)
- - [Investor presentation: SVB Capital, which manages $9.5B, invested $234M in Sequoia Capital as of May 2022, $173M in a16z funds in 2018 and 2021, and more &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230316/p9#a230316p9)
- - [Sources: five days after seizing SVB, the FDIC has conducted a stop-and-start auction process, failing so far to find a willing buyer for all of SVB&#39;s assets &lpar;New York Times&rpar;](http://www.techmeme.com/230316/p8#a230316p8)<!-- TECH:END -->
+ - [OpenAI&#39;s GPT-4 is an outrageous, if imperfect, step forward, offering a glimpse of a future internet where generative AI creates one big personalized web portal &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/230316/p12#a230316p12)
+ - [The US Federal Reserve plans to activate its real-time FedNow Service payments system in July, seeking to improve clearing transactions between institutions &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230316/p11#a230316p11)
+ - [TSMC founder Morris Chang says chip industry globalization &quot;is dead&quot; and he &quot;agrees&quot; with US embargoes on China&#39;s chip sector, which is five years behind Taiwan &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230316/p10#a230316p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
