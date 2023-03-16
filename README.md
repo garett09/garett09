@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trust the process guys](http://9gag.com/gag/a1P7nWP)
- - 🚯 [Video of russian plane ramming and destroying American drone over neutral sea territories. Yesterday Russia stated that they had nothing to do with the incident.](http://9gag.com/gag/aA0QzNL)
+ - 🚖 [Can someone explain please](http://9gag.com/gag/aDY7KRd)
+ - 🚯 [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)
  - 🚯 [Rare women w](http://9gag.com/gag/aZDnO9z)<!-- MEMES:END -->
 
 --- 
