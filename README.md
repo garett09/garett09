@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 2023 Steam Spring Sale is live](https://www.pcgamer.com/steam-spring-sale-2023)
- - [Build an Empire in Anno 1800, Available Now on Xbox Series X|S](https://news.xbox.com/en-us/2023/03/16/anno-1800-console-edition-xbox/)
- - [Despite Scandals, Vince McMahon Will Be Playable In WWE 2K23](https://kotaku.com/wwe-2k23-vince-mcmahon-playable-scandal-allegations-1850233314)<!-- GAME:END -->
+ - [Season Nine Arrives as Sea of Thieves Celebrates Five Years at Sea](https://news.xbox.com/en-us/2023/03/16/sea-of-thieves-season-9/)
+ - [Shadow and Bone season 2 makes some wild changes to the books](https://www.polygon.com/23641787/shadow-bone-season-2-alina-mal-shipping-darkling-ending-book-changes)
+ - [John Cena’s Action Figure Skin In WWE 2K23 Is Some Truly Cursed Stuff](https://kotaku.com/john-cena-wwe-2k23-action-figure-card-toy-skin-cursed-1850233520)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
