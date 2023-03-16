@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rare women w](http://9gag.com/gag/aZDnO9z)
- - 🚯 [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
- - 🚯 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)<!-- MEMES:END -->
+ - 🚖 [A more valid ID](http://9gag.com/gag/aeQ4wzq)
+ - 🚯 [Psychology](http://9gag.com/gag/aPgx26V)
+ - 🚯 [If you want loyalty get a dog](http://9gag.com/gag/aVbgyA8)<!-- MEMES:END -->
 
 --- 
 
