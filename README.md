@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn wins first AirPods order &amp; will make them in India](https://appleinsider.com/articles/23/03/16/foxconn-wins-first-airpods-order-plans-new-factory?utm_medium=rss)
- - [How San Francisco&#39;s Hayes Valley, or &quot;Cerebral Valley&quot;, became a hotbed for &quot;hacker houses&quot; and AI events, as the AI gold rush revives the Bay Area&#39;s tech scene &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/230316/p14#a230316p14)
- - [I Love You. I Hate You. Don’t Call Me](https://www.wired.com/story/gadget-lab-podcast-590/)<!-- TECH:END -->
+ - [US demands Chinese owners sell TikTok, or face ban](https://appleinsider.com/articles/23/03/16/us-demands-chinese-owners-sell-tiktok-or-face-ban?utm_medium=rss)
+ - [TikTok adds a Refresh button to the For You feed, resetting recommendations to those shown to new signups, after testing the feature in February 2023 &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230316/p17#a230316p17)
+ - [AI Will Make Human Art More Valuable](https://www.wired.com/story/art-artificial-intelligence-history/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
