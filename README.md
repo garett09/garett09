@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can someone explain please](http://9gag.com/gag/aDY7KRd)
- - 🚯 [I Dunno Why I Kinda Feel Bad For Them , Because Of Some They All Have To Suffer.](http://9gag.com/gag/adPvrM9)
- - 🚯 [Rare women w](http://9gag.com/gag/aZDnO9z)<!-- MEMES:END -->
+ - 🚖 [Rare women w](http://9gag.com/gag/aZDnO9z)
+ - 🚯 [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
+ - 🚯 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)<!-- MEMES:END -->
 
 --- 
 
