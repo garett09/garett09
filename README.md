@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Badass cop gives a warning at 90mph then leaves biker in the dust](http://9gag.com/gag/a9qzGzK)
- - 🚯 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)
+ - 🚖 [Nice Dad joke at the end](http://9gag.com/gag/ap91XO5)
+ - 🚯 [This is real masculinity yall.](http://9gag.com/gag/aEqM5MG)
  - 🚯 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)<!-- MEMES:END -->
 
 --- 
