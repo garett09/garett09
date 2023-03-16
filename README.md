@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to buy Legend of Zelda amiibo in time for Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
- - [Free Play Days – Anno 1800, Session: Skate Sim, and Autonauts](https://news.xbox.com/en-us/2023/03/16/free-play-days-anno-1800-session-skate-sim-and-autonauts/)
- - [In The Wreck, All Your Choices Prepare you for the Very Last One](https://news.xbox.com/en-us/2023/03/16/how-life-choices-work-in-the-wreck/)<!-- GAME:END -->
+ - [Sid Meier’s Civilization VI: What to Do on Your First 50 Turns](https://news.xbox.com/en-us/2023/03/16/sid-meiers-civilization-6-first-50-turns/)
+ - [Magic: The Gathering officially recognizes a new multiplayer format, Oathbreaker](https://www.polygon.com/23643684/magic-gathering-oathbreaker-format-announced)
+ - [Shroud and Sacriel are making a new survival game with Splash Damage](https://www.pcgamer.com/shroud-and-sacriel-are-making-a-new-survival-game-with-splash-damage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
