@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice Dad joke at the end](http://9gag.com/gag/ap91XO5)
- - 🚯 [This is real masculinity yall.](http://9gag.com/gag/aEqM5MG)
- - 🚯 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)<!-- MEMES:END -->
+ - 🚖 [Really tho, why did she stop...?](http://9gag.com/gag/abveo5B)
+ - 🚯 [Andrew Tate remains in prison after the Bucharest tribunal rejected his appeal](http://9gag.com/gag/amAWQdX)
+ - 🚯 [And then they kissed\u2026](http://9gag.com/gag/aPgxLKP)<!-- MEMES:END -->
 
 --- 
 
