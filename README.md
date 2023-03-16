@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best deals in the 2023 Steam Spring Sale](https://www.pcgamer.com/the-best-deals-in-the-2023-steam-spring-sale)
- - [Steam Decks are on sale for 10% off right now](https://www.pcgamer.com/steam-decks-are-on-sale-for-10-off-right-now)
- - [The Future Games Show Spring Showcase airs next week with over 45 games](https://www.pcgamer.com/the-future-games-show-spring-showcase-airs-next-week-with-over-45-games)<!-- GAME:END -->
+ - [Save 10% On A Steam Deck &lpar;Plus Other Great Spring Sale Deals&rpar;](https://kotaku.com/steam-deck-spring-sale-best-games-deals-valve-1850235007)
+ - [Streamer who got busted with deepfake porn of other streamers is now crusading against deepfake porn](https://www.pcgamer.com/streamer-who-got-busted-with-deepfake-porn-of-other-streamers-is-now-crusading-against-deepfake-porn)
+ - [Razer would very much like you to not set fires or bash anyone over the head with its &#39;first-ever glass gaming mouse mat&#39;](https://www.pcgamer.com/razer-would-very-much-like-you-to-not-set-fires-or-bash-anyone-over-the-head-with-its-first-ever-glass-gaming-mouse-mat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
