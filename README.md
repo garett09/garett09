@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best anime to watch on Netflix right now](https://www.polygon.com/22783137/best-anime-on-netflix)
- - [Inside details from Bungie on Destiny 2: Lightfall’s Root of Nightmares raid](https://blog.playstation.com/2023/03/16/inside-details-from-bungie-on-destiny-2-lightfalls-root-of-nightmares-raid/)
- - [Meet the GTA Online role-players who built their own fighting circuit](https://www.polygon.com/23641844/gta-online-role-play-new-day-blood-night-bouts)<!-- GAME:END -->
+ - [The 2023 Steam Spring Sale is live](https://www.pcgamer.com/steam-spring-sale-2023)
+ - [Build an Empire in Anno 1800, Available Now on Xbox Series X|S](https://news.xbox.com/en-us/2023/03/16/anno-1800-console-edition-xbox/)
+ - [Despite Scandals, Vince McMahon Will Be Playable In WWE 2K23](https://kotaku.com/wwe-2k23-vince-mcmahon-playable-scandal-allegations-1850233314)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
