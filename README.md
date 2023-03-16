@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tiger Global marked down its investments in private companies by ~33% across VC funds in 2022, erasing $23B in value from its portfolio of startups &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230316/p30#a230316p30)
- - [YouTube TV will cost a lot more per month in April](https://appleinsider.com/articles/23/03/16/youtube-tv-will-cost-a-lot-more-per-month-in-april?utm_medium=rss)
- - [Peter Thiel says he had $50M in a personal account at SVB when it went under, even after Founders Fund warned portfolio companies that the bank was at risk &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230316/p29#a230316p29)<!-- TECH:END -->
+ - [The 7 Best Mirrorless Cameras &lpar;2023&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)
+ - [Ugreen’s Nexode 140W charger is for 16-inch MacBook Pro trekkers](https://www.theverge.com/23634223/ugreen-nexode-140w-charger-pd-3-1-usb-c-macbook-pro-16-inch-m1-m2-review)
+ - [In its presentation of the new Copilot features, Microsoft acknowledges their tendency to produce inaccurate responses but says the tech can be &quot;usefully wrong&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230316/p32#a230316p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
