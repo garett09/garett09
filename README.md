@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
- - 🚯 [Rock-climbing - Do a flip](http://9gag.com/gag/aqeREWL)
- - 🚯 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)<!-- MEMES:END -->
+ - 🚖 [Trust the process guys](http://9gag.com/gag/a1P7nWP)
+ - 🚯 [Video of russian plane ramming and destroying American drone over neutral sea territories. Yesterday Russia stated that they had nothing to do with the incident.](http://9gag.com/gag/aA0QzNL)
+ - 🚯 [Rare women w](http://9gag.com/gag/aZDnO9z)<!-- MEMES:END -->
 
 --- 
 
