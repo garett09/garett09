@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Napoli: football warzone. Animals destroyed infrastructure](http://9gag.com/gag/aQEgjmw)
- - 🚯 [Andrew Tate remains in prison after the Bucharest tribunal rejected his appeal](http://9gag.com/gag/amAWQdX)
- - 🚯 [Rock-climbing - Do a flip](http://9gag.com/gag/aqeREWL)<!-- MEMES:END -->
+ - 🚖 [When I watched I thought `Ellie&#39;s Mom` actually looked like an older, and prettier version of Bella Ramsey and that was good casting.. Come to find it&#39;s Ashley Johnson, the voice actress of Ellie from the games.](http://9gag.com/gag/aQEgWPz)
+ - 🚯 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)
+ - 🚯 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)<!-- MEMES:END -->
 
 --- 
 
