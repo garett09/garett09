@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK bans TikTok from ministers&#39; and civil servants&#39; work phones after a National Cyber Security Centre review, in a U-turn from the country&#39;s previous position &lpar;Dan Sabbagh/The Guardian&rpar;](http://www.techmeme.com/230316/p20#a230316p20)
- - [Apple TV+ baseball fans will get live looks into bad call appeals](https://appleinsider.com/articles/23/03/16/apple-tv-baseball-fans-will-get-live-looks-into-bad-call-appeals?utm_medium=rss)
- - [NYC-based Via plans to acquire London-based Citymapper, which has ~50M users and raised ~$60M; sources say investors are mostly not making their money back &lpar;TechCrunch&rpar;](http://www.techmeme.com/230316/p19#a230316p19)<!-- TECH:END -->
+ - [Microsoft plans to bring OpenAI&#39;s GPT-4 to Excel, PowerPoint, Outlook, Word, and its other apps in the coming months, calling the feature Microsoft 365 Copilot &lpar;Bloomberg&rpar;](http://www.techmeme.com/230316/p23#a230316p23)
+ - [Google Pixel 8: Everything we know and what we want to see &lpar;Update: March 16&rpar;](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
+ - [A live stream of Microsoft&#39;s The Future of Work with AI event, where the company is expected to demo adding OpenAI&#39;s tech to its 365 and Office apps &lpar;Microsoft&rpar;](http://www.techmeme.com/230316/p22#a230316p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
