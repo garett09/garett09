@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Making sure the skill matches the resume](http://9gag.com/gag/a4ong8w)
- - 🚯 [Series ratings through time](http://9gag.com/gag/aoKWwAn)
- - 🚯 [Andrew Tate remains in prison after the Bucharest tribunal rejected his appeal](http://9gag.com/gag/amAWQdX)<!-- MEMES:END -->
+ - 🚯 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
+ - 🚯 [Me paul](http://9gag.com/gag/avQW4nE)<!-- MEMES:END -->
 
 --- 
 
