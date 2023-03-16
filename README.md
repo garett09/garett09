@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cyberpunk 2077 Mod Gives Night City An Even More HD Makeover](https://kotaku.com/cyberpunk-2077-pc-mod-hd-halkhogan-cdpr-texture-1850230975)
  - [Board Games Aren&#39;t Great For The Environment](https://kotaku.com/board-games-environment-climate-change-ethical-sourcing-1850227150)
- - [Halo Infinite&#39;s new update is good &lpar;now do it again&rpar;](https://www.pcgamer.com/halo-infinites-new-update-is-good-now-do-it-again)
- - [Star Citizen Has Had A Week To Forget](https://kotaku.com/star-citizen-update-crash-error-down-bugs-3-18-rsi-pc-1850230452)<!-- GAME:END -->
+ - [Halo Infinite&#39;s new update is good &lpar;now do it again&rpar;](https://www.pcgamer.com/halo-infinites-new-update-is-good-now-do-it-again)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
