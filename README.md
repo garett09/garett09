@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV raises subscription to $72.99, inching closer to cable pricing](https://www.theverge.com/2023/3/16/23643448/youtube-tv-price-increase-8-cable-pricing)
- - [VW beats Tesla to the punch and unveils an affordable electric vehicle](https://www.theverge.com/2023/3/16/23643047/vw-id-2-all-ev-price-photo-specs)
- - [iPhone vs Android: Two different photography and machine learning approaches](https://appleinsider.com/articles/23/03/16/iphone-vs-android-two-different-photography-and-machine-learning-approaches?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Tiger Global marked down its investments in private companies by ~33% across VC funds in 2022, erasing $23B in value from its portfolio of startups &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230316/p30#a230316p30)
+ - [YouTube TV will cost a lot more per month in April](https://appleinsider.com/articles/23/03/16/youtube-tv-will-cost-a-lot-more-per-month-in-april?utm_medium=rss)
+ - [Peter Thiel says he had $50M in a personal account at SVB when it went under, even after Founders Fund warned portfolio companies that the bank was at risk &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/230316/p29#a230316p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
