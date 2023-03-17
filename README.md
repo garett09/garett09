@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In The Wreck, All Your Choices Prepare you for the Very Last One](https://news.xbox.com/en-us/2023/03/17/how-life-choices-work-in-the-wreck/)
- - [Resident Evil 4 Remake Has Devs Explaining Why Games Make Things Extremely Obvious](https://kotaku.com/resident-evil-4-remake-design-crate-signposting-obvious-1850238136)
- - [Destiny 2: Lightfall review](https://www.pcgamer.com/destiny-2-lightfall-review)<!-- GAME:END -->
+ - [This Week on Xbox: Diablo IV Beta, Valheim, and 100 New Games this Spring](https://news.xbox.com/en-us/2023/03/17/this-week-on-xbox-diablo-iv-beta-valheim-and-100-new-games-this-spring/)
+ - [Take a tour of the Diablo 4 beta character creation options](https://www.pcgamer.com/diablo-4-character-creation)
+ - [Blizzard Bans 120,000 World Of Warcraft Classic Death Knights](https://kotaku.com/wow-classic-world-of-warcraft-death-knight-botting-ban-1850238211)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
