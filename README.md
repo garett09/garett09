@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 classes: Each unique class mechanic explained](https://www.pcgamer.com/diablo-4-class-mechanics)
- - [Stray Souls: The Psychological Horror Game You Didn’t See Coming](https://news.xbox.com/en-us/2023/03/17/stray-souls-the-psychological-horror-game-you-didnt-see-coming/)
- - [Breath of the Wild’s Hottest New Speedrun Is Getting All The Hoes](https://kotaku.com/botw-twitch-streamer-limcube-all-hoes-speedrun-totk-1850234869)<!-- GAME:END -->
+ - [This mindbending horror adventure masterfully blurs the line between reality and fiction](https://www.pcgamer.com/this-mindbending-horror-adventure-masterfully-blurs-the-line-between-reality-and-fiction)
+ - [Share of the Week – Wo Long: Fallen Dynasty](https://blog.playstation.com/2023/03/17/share-of-the-week-wo-long-fallen-dynasty/)
+ - [Share of the Week – Wo Long: Fallen Dynasty](https://blog.playstation.com/2023/03/17/share-of-the-week-wo-long-fallen-dynasty/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
