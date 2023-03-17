@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
- - 🚯 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)
- - 🚯 [Wtf happened in Argentina ?](http://9gag.com/gag/armW7nB)<!-- MEMES:END -->
+ - 🚖 [Farmer drives 2 trucks loaded with dirt into levee breach to prevent orchard from being flooded](http://9gag.com/gag/amAW4pV)
+ - 🚯 [Where Sauce](http://9gag.com/gag/az25WyK)
+ - 🚯 [Nice technique](http://9gag.com/gag/a9qz3w0)<!-- MEMES:END -->
 
 --- 
 
