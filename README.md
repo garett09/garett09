@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Resident Evil 4 remake pulls off the same great trick](https://www.polygon.com/reviews/23643823/resident-evil-4-remake-review-capcom-ps5)
- - [Wordle hint and answer #636: Friday, March 17](https://www.pcgamer.com/wordle-hint-answer-today-636-march-17)
- - [New Persona 5 Spinoff Game Announced](https://kotaku.com/persona-5-new-announced-phantom-of-night-p5-p5x-mobile-1850235928)<!-- GAME:END -->
+ - [Magic: The Gathering Black Lotus card sells for a record $540,000](https://www.polygon.com/23644519/magic-the-gathering-black-lotus-auction-price-2023)
+ - [Polygon’s favorite 3DS games to grab before the eShop closes](https://www.polygon.com/deals/23641643/best-3ds-games-eshop-closing)
+ - [ASRock B760M PG Sonic WiFi](https://www.pcgamer.com/asrock-b760m-pg-sonic-wifi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
