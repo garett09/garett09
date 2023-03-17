@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)
- - 🚯 [A sawstop in action](http://9gag.com/gag/a7q8xK2)
- - 🚯 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)<!-- MEMES:END -->
+ - 🚖 [Wish it weren&#39;t the truth](http://9gag.com/gag/armWEdy)
+ - 🚯 [Just let your past go](http://9gag.com/gag/aXnLBjz)
+ - 🚯 [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)<!-- MEMES:END -->
 
 --- 
 
