@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even Foxconn says it&#39;s looking to move away from China](https://appleinsider.com/articles/23/03/15/even-foxconn-says-its-looking-to-move-away-from-china?utm_medium=rss)
- - [Q&amp;A with two of Meta&#39;s leading security experts about its Online Operations Kill Chain, a framework for responding to threat activity like influence operations &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/230317/p4#a230317p4)
- - [We asked, you told us: Here’s what you think of AI-generated moon photos](https://www.androidauthority.com/ai-details-moon-photos-poll-results-3299387/)<!-- TECH:END -->
+ - [A shortage of skilled workers is impeding Micron&#39;s goal of a chip manufacturing campus in Syracuse, NY, where it plans to invest $100B and hire 9K employees &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230317/p5#a230317p5)
+ - [Daily Authority: 💪 A new mid-range champ](https://www.androidauthority.com/daily-authority-march-17-2023-3299413/)
+ - [It’s Official: No More Crispr Babies—for Now](https://www.wired.com/story/crispr-babies-human-genome-editing/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
