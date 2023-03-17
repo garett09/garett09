@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals: $150 off 14&quot; MacBook Pro M2 Pro, $200 off MacBook Air, $499 iPad Air 5 &amp; more](https://appleinsider.com/articles/23/03/17/daily-deals-150-off-14-macbook-pro-m2-pro-200-off-macbook-air-499-ipad-air-5-more?utm_medium=rss)
- - [16 Best Wired Headphones &lpar;2023&rpar;: In-Ear, Over-Ear, Studio](https://www.wired.com/gallery/best-wired-headphones/)
- - [The Ugly Lessons of Silicon Valley Bank’s Collapse](https://www.wired.com/story/the-ugly-lessons-of-silicon-valley-banks-collapse/)<!-- TECH:END -->
+ - [10 Best Wireless Earbuds for Working Out &lpar;2023&rpar;](https://www.wired.com/gallery/best-wireless-workout-headphones/)
+ - [Apple&#39;s AI future, Spotify vs. Apple Music, Samsung&#39;s moon controversy](https://appleinsider.com/articles/23/03/17/apples-ai-future-spotify-vs-apple-music-samsungs-moon-controversy?utm_medium=rss)
+ - [Apple Watch capable of pain prediction in sickle cell patients, says study](https://appleinsider.com/articles/23/03/17/apple-watch-capable-of-pain-prediction-in-sickle-cell-patients-says-study?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
