@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf happened in Argentina ?](http://9gag.com/gag/armW7nB)
- - 🚯 [The Little Girl and The Tiny Devil](http://9gag.com/gag/abvePrp)
- - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
+ - 🚖 [There are three dogs!!!](http://9gag.com/gag/a7q8xbx)
+ - 🚯 [It took me 7 minutes to understand](http://9gag.com/gag/aGELQz5)
+ - 🚯 [The new type of SQL injection](http://9gag.com/gag/amAWZLo)<!-- MEMES:END -->
 
 --- 
 
