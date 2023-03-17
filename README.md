@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Twitter downranked rivals&#39; corporate accounts including Instagram, Snap, and TikTok since December, as well as non-rivals like the US @HHSGov account &lpar;@zoeschiffer&rpar;](http://www.techmeme.com/230317/p1#a230317p1)
- - [Apple Maps Detailed City Experience now in Boston](https://appleinsider.com/articles/23/03/17/apple-maps-detailed-city-experience-now-in-boston?utm_medium=rss)
- - [The FCC is requiring carriers to block SMS messages from &quot;invalid, unallocated, or unused numbers&quot;, targeting the increase in scam robotexts sent to consumers &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230316/p39#a230316p39)<!-- TECH:END -->
+ - [How the vague and varied US legal definitions of &quot;cybercrime&quot; causes issues, as the UN negotiates an international cybersecurity treaty with similar broad terms &lpar;Wired&rpar;](http://www.techmeme.com/230317/p3#a230317p3)
+ - [Google says Galaxy S22, Pixel 6, and more at risk due to unsafe Exynos chips](https://www.androidauthority.com/google-project-zero-samsung-exynos-vulnerabilities-3299355/)
+ - [Karat, which helps companies conduct technical interviews, plans to acquire its competitor Triplebyte for an undisclosed amount; Triplebyte raised ~$50M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230317/p2#a230317p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
