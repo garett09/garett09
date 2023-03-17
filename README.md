@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 451: Final&lpar;e&rpar; Thoughts](https://blog.playstation.com/2023/03/17/official-playstation-podcast-episode-451-finale-thoughts/)
- - [Pokémon Scarlet and Violet Decidueye 7-star Tera Raid guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23644925/pokemon-scarlet-and-violet-decidueye-7-star-tera-raid-guide)
- - [How the Shadow and Bone trilogy actually ended](https://www.polygon.com/23641229/shadow-bone-grishaverse-books-ruin-rising-ending)<!-- GAME:END -->
+ - [Shadow and Bone’s Sturmhond is a fan favorite — so why did Netflix change his story?](https://www.polygon.com/23643231/shadow-bone-sturmhond-nikolai-mal)
+ - [Fortnite Is About To Blow Wide Open Thanks To The Unreal Editor](https://kotaku.com/fortnite-unreal-editor-release-date-creator-mode-verse-1850237743)
+ - [The Legend of Zelda: Tears of the Kingdom pre-order guide](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
