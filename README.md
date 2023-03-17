@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC is requiring carriers to block SMS messages from &quot;invalid, unallocated, or unused numbers&quot;, targeting the increase in scam robotexts sent to consumers &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230316/p39#a230316p39)
- - [New Zealand plans to ban TikTok on all devices with access to the parliamentary network by the end of March 2023 because of cybersecurity concerns &lpar;Reuters&rpar;](http://www.techmeme.com/230316/p38#a230316p38)
- - [SpectrumAi, which offers tools like EHR for applied behavior analysis therapy for autism patients, raised up to a $20M Series A led by CVS Health Ventures &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/230316/p37#a230316p37)<!-- TECH:END -->
+ - [Sources: Twitter downranked rivals&#39; corporate accounts including Instagram, Snap, and TikTok since December, as well as non-rivals like the US @HHSGov account &lpar;@zoeschiffer&rpar;](http://www.techmeme.com/230317/p1#a230317p1)
+ - [Apple Maps Detailed City Experience now in Boston](https://appleinsider.com/articles/23/03/17/apple-maps-detailed-city-experience-now-in-boston?utm_medium=rss)
+ - [The FCC is requiring carriers to block SMS messages from &quot;invalid, unallocated, or unused numbers&quot;, targeting the increase in scam robotexts sent to consumers &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230316/p39#a230316p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
