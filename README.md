@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Maybe stop with the uncomfortable Pedro Pascal thirst edits](https://www.polygon.com/23645448/pedro-pascal-thirst-daddy-explained-tiktok)
- - [Yu Suzuki wants to sell you Virtua Fighter JPEGs because NFTs refuse to die](https://www.pcgamer.com/yu-suzuki-wants-to-sell-you-virtua-fighter-jpegs-because-nfts-refuse-to-die)
- - [If you’re planning on reading the Grishaverse books, don’t start with Shadow and Bone](https://www.polygon.com/22406182/shadow-and-bone-grishaverse-book-order)<!-- GAME:END -->
+ - [Destiny players are gathering in the Tower to pay last respects to Lance Reddick](https://www.pcgamer.com/destiny-players-are-gathering-in-the-tower-to-pay-last-respects-to-lance-reddick)
+ - [Cocaine Bear, Netflix’s Pornhub doc, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/3/17/23636245/new-movies-watch-cocaine-bear-netflix-pornhub-documentary-the-whale)
+ - [Maybe stop with the uncomfortable Pedro Pascal thirst edits](https://www.polygon.com/23645448/pedro-pascal-thirst-daddy-explained-tiktok)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
