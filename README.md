@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)
- - 🚯 [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
- - 🚯 [Farmer drives 2 trucks loaded with dirt into levee breach to prevent orchard from being flooded](http://9gag.com/gag/amAW4pV)<!-- MEMES:END -->
+ - 🚖 [It will be nice they said](http://9gag.com/gag/aWGp34A)
+ - 🚯 [A cat can heal a person &lpar;Sorry for the annoying narration&rpar;](http://9gag.com/gag/a6qD0Vm)
+ - 🚯 [You can&#39;t run from fate](http://9gag.com/gag/aL1L7jx)<!-- MEMES:END -->
 
 --- 
 
