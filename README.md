@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There are three dogs!!!](http://9gag.com/gag/a7q8xbx)
- - 🚯 [It took me 7 minutes to understand](http://9gag.com/gag/aGELQz5)
- - 🚯 [The new type of SQL injection](http://9gag.com/gag/amAWZLo)<!-- MEMES:END -->
+ - 🚖 [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
+ - 🚯 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)
+ - 🚯 [Wtf happened in Argentina ?](http://9gag.com/gag/armW7nB)<!-- MEMES:END -->
 
 --- 
 
