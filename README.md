@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Diablo IV Beta, Valheim, and 100 New Games this Spring](https://news.xbox.com/en-us/2023/03/17/this-week-on-xbox-diablo-iv-beta-valheim-and-100-new-games-this-spring/)
- - [Take a tour of the Diablo 4 beta character creation options](https://www.pcgamer.com/diablo-4-character-creation)
- - [Blizzard Bans 120,000 World Of Warcraft Classic Death Knights](https://kotaku.com/wow-classic-world-of-warcraft-death-knight-botting-ban-1850238211)<!-- GAME:END -->
+ - [You could always count on Lance Reddick](https://www.polygon.com/entertainment/23645337/goodbye-lance-reddick)
+ - [Diablo 4 beta rewards and how to earn them all](https://www.pcgamer.com/diablo-4-beta-rewards-unlock)
+ - [Pedro Pascal&#39;s Most Unhinged Role Might Be For This Game Ad](https://kotaku.com/slug-pedro-pascal-merge-mansion-mobile-game-tiktok-ad-1850238577)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
