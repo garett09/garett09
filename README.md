@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A sawstop in action](http://9gag.com/gag/a7q8xK2)
- - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)
+ - 🚖 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)
+ - 🚯 [And then they kissed\u2026](http://9gag.com/gag/aPgxLKP)
  - 🚯 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)<!-- MEMES:END -->
 
 --- 
