@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi has a serious problem on its hands, according to this data](https://www.androidauthority.com/xiaomi-market-share-india-2023-3299591/)
- - [YouTube lifts restrictions, imposed after the January 6 insurrection, on Trump&#39;s channel after evaluating the &quot;continued risk of real-world violence&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230317/p8#a230317p8)
- - [10 Best Wireless Earbuds for Working Out &lpar;2023&rpar;](https://www.wired.com/gallery/best-wireless-workout-headphones/)<!-- TECH:END -->
+ - [Leaked Samsung Galaxy A24 promo reveals almost everything about the phone](https://www.androidauthority.com/samsung-galaxy-a24-3299607/)
+ - [Apple Confluence store in Lyon reopens after refit](https://appleinsider.com/articles/23/03/17/apple-confluence-store-in-lyon-reopens-after-refit?utm_medium=rss)
+ - [You Don’t Have to Be a Jerk to Resist the Bots](https://www.wired.com/story/chatgpt-bots-empathy-psychology/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
