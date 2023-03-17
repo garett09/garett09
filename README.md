@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You could always count on Lance Reddick](https://www.polygon.com/entertainment/23645337/goodbye-lance-reddick)
- - [Diablo 4 beta rewards and how to earn them all](https://www.pcgamer.com/diablo-4-beta-rewards-unlock)
- - [Pedro Pascal&#39;s Most Unhinged Role Might Be For This Game Ad](https://kotaku.com/slug-pedro-pascal-merge-mansion-mobile-game-tiktok-ad-1850238577)<!-- GAME:END -->
+ - [Maybe stop with the uncomfortable Pedro Pascal thirst edits](https://www.polygon.com/23645448/pedro-pascal-thirst-daddy-explained-tiktok)
+ - [Yu Suzuki wants to sell you Virtua Fighter JPEGs because NFTs refuse to die](https://www.pcgamer.com/yu-suzuki-wants-to-sell-you-virtua-fighter-jpegs-because-nfts-refuse-to-die)
+ - [If you’re planning on reading the Grishaverse books, don’t start with Shadow and Bone](https://www.polygon.com/22406182/shadow-and-bone-grishaverse-book-order)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
