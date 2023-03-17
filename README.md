@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android and iPhone satellite connectivity: Here’s what you need to know](https://www.androidauthority.com/smartphone-satellite-connectivity-3295162/)
- - [Hands on with Jony Ive&#39;s Red Nose: Unexpectedly well designed](https://appleinsider.com/articles/23/02/09/jony-ives-red-nose-unexpectedly-well-designed?utm_medium=rss)
- - [Should You Wait for Wi-Fi 7 Before Upgrading Your Router? &lpar;2023&rpar;](https://www.wired.com/story/should-you-wait-for-wi-fi-7/)<!-- TECH:END -->
+ - [Daily Deals: $150 off 14&quot; MacBook Pro M2 Pro, $200 off MacBook Air, $499 iPad Air 5 &amp; more](https://appleinsider.com/articles/23/03/17/daily-deals-150-off-14-macbook-pro-m2-pro-200-off-macbook-air-499-ipad-air-5-more?utm_medium=rss)
+ - [16 Best Wired Headphones &lpar;2023&rpar;: In-Ear, Over-Ear, Studio](https://www.wired.com/gallery/best-wired-headphones/)
+ - [The Ugly Lessons of Silicon Valley Bank’s Collapse](https://www.wired.com/story/the-ugly-lessons-of-silicon-valley-banks-collapse/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
