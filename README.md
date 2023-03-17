@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Getting rid of rapists sounds like a step in the right direction.](http://9gag.com/gag/a8qAZDe)
- - 🚯 [A cat can heal a person &lpar;Sorry for the annoying narration&rpar;](http://9gag.com/gag/a6qD0Vm)
- - 🚯 [Video of russian plane ramming and destroying American drone over neutral sea territories. Yesterday Russia stated that they had nothing to do with the incident.](http://9gag.com/gag/aA0QzNL)<!-- MEMES:END -->
+ - 🚖 [A sawstop in action](http://9gag.com/gag/a7q8xK2)
+ - 🚯 [13-year-old&#39;s father confronts teacher who sexually abused his son](http://9gag.com/gag/armW0PB)
+ - 🚯 [Where Sauce](http://9gag.com/gag/az25WyK)<!-- MEMES:END -->
 
 --- 
 
