@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering Black Lotus card sells for a record $540,000](https://www.polygon.com/23644519/magic-the-gathering-black-lotus-auction-price-2023)
- - [Polygon’s favorite 3DS games to grab before the eShop closes](https://www.polygon.com/deals/23641643/best-3ds-games-eshop-closing)
- - [ASRock B760M PG Sonic WiFi](https://www.pcgamer.com/asrock-b760m-pg-sonic-wifi)<!-- GAME:END -->
+ - [Pokémon TCG Scarlet &amp; Violet&#39;s New ex Cards Are Ridiculously Powerful](https://kotaku.com/pokemon-tcg-scarlet-violet-cards-rarity-value-ex-1850232529)
+ - [How to get a smelter in Valheim](https://www.pcgamer.com/valheim-how-to-get-a-smelter)
+ - [The team behind the great Half-Life 2 VR mod releases an Episode 1 version today](https://www.pcgamer.com/the-team-behind-the-great-half-life-2-vr-mod-releases-an-episode-1-version-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
