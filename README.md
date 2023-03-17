@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)
- - 🚯 [20 years ago, a Florida supermarket closed so that Michael Jackson could fulfill his dream of going grocery shopping like everybody else](http://9gag.com/gag/aGELXyX)
- - 🚯 [Wish it weren&#39;t the truth](http://9gag.com/gag/armWEdy)<!-- MEMES:END -->
+ - 🚖 [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)
+ - 🚯 [A sawstop in action](http://9gag.com/gag/a7q8xK2)
+ - 🚯 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)<!-- MEMES:END -->
 
 --- 
 
