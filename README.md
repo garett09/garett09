@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today’s Darth Vader would absolutely mulch 1977 Darth Vader in a fight](https://www.polygon.com/star-wars/23643731/darth-vader-a-new-hope-vs-obi-wan-kenobi-who-would-win)
- - [Next Week on Xbox: New Games for March 20 to 24](https://news.xbox.com/en-us/2023/03/17/next-week-on-xbox-new-games-for-march-20-to-24/)
- - [What We Loved And Hated About Destiny 2: Lightfall](https://kotaku.com/destiny-2-lightfall-review-raid-exotics-annual-pass-1850236682)<!-- GAME:END -->
+ - [Diablo 4 classes: Each unique class mechanic explained](https://www.pcgamer.com/diablo-4-class-mechanics)
+ - [Stray Souls: The Psychological Horror Game You Didn’t See Coming](https://news.xbox.com/en-us/2023/03/17/stray-souls-the-psychological-horror-game-you-didnt-see-coming/)
+ - [Breath of the Wild’s Hottest New Speedrun Is Getting All The Hoes](https://kotaku.com/botw-twitch-streamer-limcube-all-hoes-speedrun-totk-1850234869)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
