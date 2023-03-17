@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GPT-4 turns Pokémon Emerald into a text adventure](https://www.polygon.com/23643321/chatgpt-4-ai-pokemon-emerald)
- - [Hyper Light Breaker trailer shows off first gameplay in &#39;infinite open worlds&#39;](https://www.pcgamer.com/hyper-light-breaker-trailer-shows-off-first-gameplay-in-infinite-open-worlds)
- - [Film Critic Who Loves Tetris Movie Had Never Heard Of Tetris](https://kotaku.com/never-heard-tetris-game-film-critic-review-pete-hammond-1850235190)<!-- GAME:END -->
+ - [Two Classic 90s Adventure Games Are Getting Unexpected Remakes](https://kotaku.com/twinsen-little-big-adventure-remake-reboot-pc-1850235393)
+ - [Artists Finally Have A Tool To Help Fight Back Against &#39;AI&#39; Platforms](https://kotaku.com/ai-art-images-theft-midjourney-stable-diffusion-glaze-1850235184)
+ - [Rust developer cancels community event due to death threats](https://www.pcgamer.com/rust-event-cancelled)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
