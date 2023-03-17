@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A sawstop in action](http://9gag.com/gag/a7q8xK2)
- - 🚯 [Distress](http://9gag.com/gag/a7q8Qnq)
- - 🚯 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)<!-- MEMES:END -->
+ - 🚖 [It took me 7 minutes to understand](http://9gag.com/gag/aGELQz5)
+ - 🚯 [The Little Girl and The Tiny Devil](http://9gag.com/gag/abvePrp)
+ - 🚯 [Just cops busting a man](http://9gag.com/gag/aPgxb3w)<!-- MEMES:END -->
 
 --- 
 
