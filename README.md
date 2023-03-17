@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now instantly try Google Fi with this eSIM trial](https://www.androidauthority.com/google-fi-esim-trial-3299381/)
  - [Snapdragon 7 Plus Gen 2 announced: Flagship power for the mid-range](https://www.androidauthority.com/snapdragon-7-plus-gen-2-launch-3293022/)
- - [YouTube TV cost doubles since launch after latest price hike](https://www.androidauthority.com/youtube-tv-price-hike-3299375/)
- - [How the vague and varied US legal definitions of &quot;cybercrime&quot; causes issues, as the UN negotiates an international cybersecurity treaty with similar broad terms &lpar;Wired&rpar;](http://www.techmeme.com/230317/p3#a230317p3)<!-- TECH:END -->
+ - [YouTube TV cost doubles since launch after latest price hike](https://www.androidauthority.com/youtube-tv-price-hike-3299375/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
