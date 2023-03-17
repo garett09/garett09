@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use ChatGPT on Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-use-chatgpt-on-apple-watch?utm_medium=rss)
- - [Someone please buy me this glass mouse pad](https://www.theverge.com/2023/3/17/23645097/razer-atlas-glass-mouse-pad-2023-release)
- - [Original iPhone sells for over $50,000 in recent auction](https://appleinsider.com/articles/23/03/17/original-iphone-sells-for-over-50000-in-recent-auction?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy A14 5G vs Galaxy A53 5G](https://www.androidauthority.com/samsung-galaxy-a14-5g-vs-galaxy-a53-5g-3298326/)
+ - [How to Join the Diablo 4 Beta     - CNET](https://www.cnet.com/tech/gaming/how-to-join-the-diablo-4-beta/#ftag=CAD590a51e)
+ - [How to use ChatGPT on Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-use-chatgpt-on-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
