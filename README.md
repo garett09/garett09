@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)
- - 🚯 [Farmer drives 2 trucks loaded with dirt into levee breach to prevent orchard from being flooded](http://9gag.com/gag/amAW4pV)
- - 🚯 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)<!-- MEMES:END -->
+ - 🚖 [Where Sauce](http://9gag.com/gag/az25WyK)
+ - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)
+ - 🚯 [Distress](http://9gag.com/gag/a7q8Qnq)<!-- MEMES:END -->
 
 --- 
 
