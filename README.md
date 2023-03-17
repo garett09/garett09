@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)
- - 🚯 [And then they kissed\u2026](http://9gag.com/gag/aPgxLKP)
+ - 🚖 [Farmer drives 2 trucks loaded with dirt into levee breach to prevent orchard from being flooded](http://9gag.com/gag/amAW4pV)
+ - 🚯 [Patient or foolish?](http://9gag.com/gag/aKE1r1g)
  - 🚯 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)<!-- MEMES:END -->
 
 --- 
