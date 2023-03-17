@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just cops busting a man](http://9gag.com/gag/aPgxb3w)
+ - 🚖 [A sawstop in action](http://9gag.com/gag/a7q8xK2)
  - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)
  - 🚯 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)<!-- MEMES:END -->
 
