@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tribal people reacting to goa trance music](http://9gag.com/gag/aeQ4vGW)
- - 🚯 [This dude has ultrasonic dog repellent on his bike..](http://9gag.com/gag/aQEgLde)
- - 🚯 [Starving?](http://9gag.com/gag/axoWXyL)<!-- MEMES:END -->
+ - 🚖 [Where Sauce](http://9gag.com/gag/az25WyK)
+ - 🚯 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)
+ - 🚯 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)<!-- MEMES:END -->
 
 --- 
 
