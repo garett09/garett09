@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)
- - 🚯 [4 years later I still ask myself.. Why does this scene exist?](http://9gag.com/gag/ay2qw4W)
- - 🚯 [Well, his right, you know?...](http://9gag.com/gag/abvePLE)<!-- MEMES:END -->
+ - 🚖 [A sawstop in action](http://9gag.com/gag/a7q8xK2)
+ - 🚯 [Distress](http://9gag.com/gag/a7q8Qnq)
+ - 🚯 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)<!-- MEMES:END -->
 
 --- 
 
