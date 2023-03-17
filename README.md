@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Scarlet &amp; Violet&#39;s New ex Cards Are Ridiculously Powerful](https://kotaku.com/pokemon-tcg-scarlet-violet-cards-rarity-value-ex-1850232529)
- - [How to get a smelter in Valheim](https://www.pcgamer.com/valheim-how-to-get-a-smelter)
- - [The team behind the great Half-Life 2 VR mod releases an Episode 1 version today](https://www.pcgamer.com/the-team-behind-the-great-half-life-2-vr-mod-releases-an-episode-1-version-today)<!-- GAME:END -->
+ - [Today’s Darth Vader would absolutely mulch 1977 Darth Vader in a fight](https://www.polygon.com/star-wars/23643731/darth-vader-a-new-hope-vs-obi-wan-kenobi-who-would-win)
+ - [Next Week on Xbox: New Games for March 20 to 24](https://news.xbox.com/en-us/2023/03/17/next-week-on-xbox-new-games-for-march-20-to-24/)
+ - [What We Loved And Hated About Destiny 2: Lightfall](https://kotaku.com/destiny-2-lightfall-review-raid-exotics-annual-pass-1850236682)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
