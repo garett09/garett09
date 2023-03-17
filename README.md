@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just let your past go](http://9gag.com/gag/aXnLBjz)
- - 🚯 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)
- - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
+ - 🚖 [Tribal people reacting to goa trance music](http://9gag.com/gag/aeQ4vGW)
+ - 🚯 [This dude has ultrasonic dog repellent on his bike..](http://9gag.com/gag/aQEgLde)
+ - 🚯 [Starving?](http://9gag.com/gag/axoWXyL)<!-- MEMES:END -->
 
 --- 
 
