@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 43 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Source: TikTok is paying for influencers to visit DC next week, where dozens are expected to lobby lawmakers, ahead of its CEO&#39;s March 23 House testimony &lpar;Hailey Fuchs/Politico&rpar;](http://www.techmeme.com/230317/p15#a230317p15)
- - [Sources: some lawmakers and tech execs, including Peter Thiel, are mobilizing against China&#39;s involvement in US tech, ahead of TikTok CEO&#39;s House testimony &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/230317/p14#a230317p14)<!-- TECH:END -->
+ - [How to use ChatGPT on Apple Watch](https://appleinsider.com/inside/apple-watch/tips/how-to-use-chatgpt-on-apple-watch?utm_medium=rss)
+ - [Someone please buy me this glass mouse pad](https://www.theverge.com/2023/3/17/23645097/razer-atlas-glass-mouse-pad-2023-release)
+ - [Original iPhone sells for over $50,000 in recent auction](https://appleinsider.com/articles/23/03/17/original-iphone-sells-for-over-50000-in-recent-auction?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
