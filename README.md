@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wish it weren&#39;t the truth](http://9gag.com/gag/armWEdy)
- - 🚯 [Just let your past go](http://9gag.com/gag/aXnLBjz)
- - 🚯 [Arsonist in a gas station, insane...](http://9gag.com/gag/aNwLE2v)<!-- MEMES:END -->
+ - 🚖 [Getting rid of rapists sounds like a step in the right direction.](http://9gag.com/gag/a8qAZDe)
+ - 🚯 [A cat can heal a person &lpar;Sorry for the annoying narration&rpar;](http://9gag.com/gag/a6qD0Vm)
+ - 🚯 [Video of russian plane ramming and destroying American drone over neutral sea territories. Yesterday Russia stated that they had nothing to do with the incident.](http://9gag.com/gag/aA0QzNL)<!-- MEMES:END -->
 
 --- 
 
