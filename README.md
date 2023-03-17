@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This mindbending horror adventure masterfully blurs the line between reality and fiction](https://www.pcgamer.com/this-mindbending-horror-adventure-masterfully-blurs-the-line-between-reality-and-fiction)
- - [Share of the Week – Wo Long: Fallen Dynasty](https://blog.playstation.com/2023/03/17/share-of-the-week-wo-long-fallen-dynasty/)
- - [Share of the Week – Wo Long: Fallen Dynasty](https://blog.playstation.com/2023/03/17/share-of-the-week-wo-long-fallen-dynasty/)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 451: Final&lpar;e&rpar; Thoughts](https://blog.playstation.com/2023/03/17/official-playstation-podcast-episode-451-finale-thoughts/)
+ - [Pokémon Scarlet and Violet Decidueye 7-star Tera Raid guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23644925/pokemon-scarlet-and-violet-decidueye-7-star-tera-raid-guide)
+ - [How the Shadow and Bone trilogy actually ended](https://www.polygon.com/23641229/shadow-bone-grishaverse-books-ruin-rising-ending)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
