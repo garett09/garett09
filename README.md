@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon stops selling newspaper and magazine subscriptions for Kindle and print, and plans to shut down Kindle Newsstand in September 2023 &lpar;Michael Kozlowski/Good e-Reader&rpar;](http://www.techmeme.com/230316/p35#a230316p35)
- - [What is GPT-4 and how does it work? ChatGPT’s new model explained](https://www.androidauthority.com/what-is-gpt-4-chatgpt-3299254/)
- - [Get the Pixel 7 with 12-month plan for $289, and more Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)<!-- TECH:END -->
+ - [Google Warns Samsung and Pixel Phone Owners About 18 Dire Exploits     - CNET](https://www.cnet.com/tech/mobile/google-warns-samsung-and-pixel-phone-owners-about-18-dire-exploits/#ftag=CAD590a51e)
+ - [Google&#39;s Project Zero finds 18 zero-day vulnerabilities, including four top-severity flaws, affecting some Samsung phones and other devices with Exynos chipsets &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230316/p36#a230316p36)
+ - [Drone Deliveries Are Coming to a New Texas Suburb With Manna Expansion     - CNET](https://www.cnet.com/tech/computing/drone-deliveries-are-coming-to-a-new-texas-suburb-with-manna-expansion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
