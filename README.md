@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shadow and Bone’s Sturmhond is a fan favorite — so why did Netflix change his story?](https://www.polygon.com/23643231/shadow-bone-sturmhond-nikolai-mal)
- - [Fortnite Is About To Blow Wide Open Thanks To The Unreal Editor](https://kotaku.com/fortnite-unreal-editor-release-date-creator-mode-verse-1850237743)
- - [The Legend of Zelda: Tears of the Kingdom pre-order guide](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)<!-- GAME:END -->
+ - [In The Wreck, All Your Choices Prepare you for the Very Last One](https://news.xbox.com/en-us/2023/03/17/how-life-choices-work-in-the-wreck/)
+ - [Resident Evil 4 Remake Has Devs Explaining Why Games Make Things Extremely Obvious](https://kotaku.com/resident-evil-4-remake-design-crate-signposting-obvious-1850238136)
+ - [Destiny 2: Lightfall review](https://www.pcgamer.com/destiny-2-lightfall-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
