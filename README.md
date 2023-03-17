@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It will be nice they said](http://9gag.com/gag/aWGp34A)
- - 🚯 [A cat can heal a person &lpar;Sorry for the annoying narration&rpar;](http://9gag.com/gag/a6qD0Vm)
- - 🚯 [You can&#39;t run from fate](http://9gag.com/gag/aL1L7jx)<!-- MEMES:END -->
+ - 🚖 [He&#39;s got a point](http://9gag.com/gag/aKE1y71)
+ - 🚯 [20 years ago, a Florida supermarket closed so that Michael Jackson could fulfill his dream of going grocery shopping like everybody else](http://9gag.com/gag/aGELXyX)
+ - 🚯 [Wish it weren&#39;t the truth](http://9gag.com/gag/armWEdy)<!-- MEMES:END -->
 
 --- 
 
