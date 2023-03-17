@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
- - 🚯 [Just cops busting a man](http://9gag.com/gag/aPgxb3w)
+ - 🚖 [Just let your past go](http://9gag.com/gag/aXnLBjz)
+ - 🚯 [What the f**k type of sport is this?](http://9gag.com/gag/aKE1r4Q)
  - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
 
 --- 
