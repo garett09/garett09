@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It took me 7 minutes to understand](http://9gag.com/gag/aGELQz5)
+ - 🚖 [Wtf happened in Argentina ?](http://9gag.com/gag/armW7nB)
  - 🚯 [The Little Girl and The Tiny Devil](http://9gag.com/gag/abvePrp)
- - 🚯 [Just cops busting a man](http://9gag.com/gag/aPgxb3w)<!-- MEMES:END -->
+ - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
 
 --- 
 
