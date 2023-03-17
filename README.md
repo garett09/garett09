@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where Sauce](http://9gag.com/gag/az25WyK)
- - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)
- - 🚯 [Distress](http://9gag.com/gag/a7q8Qnq)<!-- MEMES:END -->
+ - 🚖 [Idk, looks like that was built from a really good wood](http://9gag.com/gag/aQEgbr8)
+ - 🚯 [Just cops busting a man](http://9gag.com/gag/aPgxb3w)
+ - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
 
 --- 
 
