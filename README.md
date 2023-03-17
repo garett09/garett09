@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A shortage of skilled workers is impeding Micron&#39;s goal of a chip manufacturing campus in Syracuse, NY, where it plans to invest $100B and hire 9K employees &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230317/p5#a230317p5)
- - [Daily Authority: 💪 A new mid-range champ](https://www.androidauthority.com/daily-authority-march-17-2023-3299413/)
- - [It’s Official: No More Crispr Babies—for Now](https://www.wired.com/story/crispr-babies-human-genome-editing/)<!-- TECH:END -->
+ - [Android and iPhone satellite connectivity: Here’s what you need to know](https://www.androidauthority.com/smartphone-satellite-connectivity-3295162/)
+ - [Hands on with Jony Ive&#39;s Red Nose: Unexpectedly well designed](https://appleinsider.com/articles/23/02/09/jony-ives-red-nose-unexpectedly-well-designed?utm_medium=rss)
+ - [Should You Wait for Wi-Fi 7 Before Upgrading Your Router? &lpar;2023&rpar;](https://www.wired.com/story/should-you-wait-for-wi-fi-7/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
