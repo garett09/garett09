@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Samsung Galaxy A24 promo reveals almost everything about the phone](https://www.androidauthority.com/samsung-galaxy-a24-3299607/)
- - [Apple Confluence store in Lyon reopens after refit](https://appleinsider.com/articles/23/03/17/apple-confluence-store-in-lyon-reopens-after-refit?utm_medium=rss)
- - [You Don’t Have to Be a Jerk to Resist the Bots](https://www.wired.com/story/chatgpt-bots-empathy-psychology/)<!-- TECH:END -->
+ - [Sources: Coinbase is exploring setting up a new crypto-trading platform overseas for global clients, amid increased US scrutiny &lpar;Bloomberg&rpar;](http://www.techmeme.com/230317/p11#a230317p11)
+ - [Up to $800 off the Galaxy S23, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Facebook also launches blue-check Verified program](https://appleinsider.com/articles/23/03/17/facebook-also-launches-blue-check-verified-program?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
