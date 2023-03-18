@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why pay extra for expensive earbuds when cheap earbuds sound good enough??](https://www.androidauthority.com/cheap-earbuds-vs-expensive-earbuds-3299108/)
- - [Acefast Crystal &lpar;2&rpar; T8 review: Flashy and loud wireless earbuds](https://appleinsider.com/articles/23/03/18/acefast-crystal-2-t8-review-flashy-and-loud-wireless-earbuds?utm_medium=rss)
- - [Epic must pay $245M after luring customers into &#39;Fortnite&#39; purchases](https://appleinsider.com/articles/23/03/18/ftc-finalizes-epics-245m-fine-over-fortnite-dark-pattern-usage?utm_medium=rss)<!-- TECH:END -->
+ - [Meta Quest 3: Everything we know, what we want to see](https://www.androidauthority.com/meta-quest-3-release-date-rumors-specs-price-3270613/)
+ - [Interview with Microsoft VP of design and research Jon Friedman about the company&#39;s vision for 365 Copilot, lessons learned from Bing AI, ethical concerns, more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230318/p7#a230318p7)
+ - [OWC&#39;s 14-port Thunderbolt 3 dock is on sale for $199.99 today](https://appleinsider.com/articles/23/03/18/owcs-14-port-thunderbolt-3-dock-is-on-sale-for-19999-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
