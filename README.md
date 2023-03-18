@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The methane digestion system](http://9gag.com/gag/abv150v)
- - 🚯 [Olivia would know](http://9gag.com/gag/arm3vbB)
- - 🚯 [Where Sauce](http://9gag.com/gag/az25WyK)<!-- MEMES:END -->
+ - 🚖 [Where Sauce](http://9gag.com/gag/az25WyK)
+ - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)
+ - 🚯 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)<!-- MEMES:END -->
 
 --- 
 
