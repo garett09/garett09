@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: effective altruism leaders were warned of Sam Bankman-Fried&#39;s issues in 2018 and 2019, but they dismissed claims and threatened those raising concerns &lpar;Charlotte Alter/TIME&rpar;](http://www.techmeme.com/230318/p2#a230318p2)
- - [Some investors are concerned SVB&#39;s collapse and its rescue by the US government, after Silicon Valley investors&#39; lobbying, could lead to tougher tech regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/230318/p1#a230318p1)
- - [The FBI arrested a New York man who allegedly ran BreachForums, a dark web site that hosted stolen databases of ~1K companies, under the alias &quot;pompompurin&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230317/p19#a230317p19)<!-- TECH:END -->
+ - [How Venture Capital Can Avoid the Next Silicon Valley Bank Fiasco](https://www.wired.com/story/to-save-the-innovation-economy-break-big-venture-capital/)
+ - [The Weekend Silicon Valley Stared Into the Abyss](https://www.wired.com/story/silicon-valley-bank-svb-the-weekend-silicon-valley-stared-into-the-abyss/)
+ - [20 Best Deals: MacBooks, Camera Bags, and Home Office Gear](https://www.wired.com/story/weekend-deals-march-18-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
