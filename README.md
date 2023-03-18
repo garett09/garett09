@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This upcoming FPS had me at &#39;fully simulated centrifugal gravity space station level&#39;](https://www.pcgamer.com/this-upcoming-fps-had-me-at-fully-simulated-centrifugal-gravity-space-station-level)
  - [First Kerbal Space Program 2 patch fixes a mountain of bugs](https://www.pcgamer.com/first-kerbal-space-program-2-patch-fixes-a-mountain-of-bugs)
- - [Oops, all Malenia: fan-favorite Elden Ring player replaces every enemy with secret megaboss and tries to beat the game](https://www.pcgamer.com/oops-all-malenia-fan-favorite-elden-ring-player-replaces-every-enemy-with-secret-megaboss-and-tries-to-beat-the-game)
- - [The Last of Us is the latest video game adaptation plagued by the same problem](https://www.polygon.com/23645114/last-us-tv-show-game-comparison)<!-- GAME:END -->
+ - [Oops, all Malenia: fan-favorite Elden Ring player replaces every enemy with secret megaboss and tries to beat the game](https://www.pcgamer.com/oops-all-malenia-fan-favorite-elden-ring-player-replaces-every-enemy-with-secret-megaboss-and-tries-to-beat-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
