@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unifying the Galaxy A and S series sets a new bar for mid-range design](https://www.androidauthority.com/galaxy-a-galaxy-s-unified-design-3299014/)
- - [India’s Sacred Groves Are Resurrecting a Vanishing Forest](https://www.wired.com/story/indias-sacred-groves-are-resurrecting-a-vanishing-forest/)
- - [The Weekly Authority: 📱 Pixel 8 leaks aplenty](https://www.androidauthority.com/the-weekly-authority-march-18-2023-236-3298599/)<!-- TECH:END -->
+ - [Security News This Week: Ring Is in a Standoff With Hackers](https://www.wired.com/story/amazon-ring-hacked-ransomware/)
+ - [Daily deals March 18: $100 off M2 Mac mini, $250 off Apple Studio Display, up to 48% off Cricut, more](https://appleinsider.com/articles/23/03/18/daily-deals-march-18-100-off-m2-mac-mini-250-off-apple-studio-display-up-to-48-off-cricut-more?utm_medium=rss)
+ - [Unifying the Galaxy A and S series sets a new bar for mid-range design](https://www.androidauthority.com/galaxy-a-galaxy-s-unified-design-3299014/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
