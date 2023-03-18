@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice try FBI](http://9gag.com/gag/aeQ1jEb)
- - 🚯 [\u2018The smell is next level\u2019: millions of dead fish spanning kilometres of Darling-Baaka river begin to rot near the Australian town of Menindee.](http://9gag.com/gag/aRE4w9M)
- - 🚯 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)<!-- MEMES:END -->
+ - 🚖 [\u2018The smell is next level\u2019: millions of dead fish spanning kilometres of Darling-Baaka river begin to rot near the Australian town of Menindee.](http://9gag.com/gag/aRE4w9M)
+ - 🚯 [Justice ! Doing banks the way it should be!](http://9gag.com/gag/aXnLBDg)
+ - 🚯 [Patient or foolish?](http://9gag.com/gag/aKE1r1g)<!-- MEMES:END -->
 
 --- 
 
