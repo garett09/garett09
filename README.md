@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Quest 3: Everything we know, what we want to see](https://www.androidauthority.com/meta-quest-3-release-date-rumors-specs-price-3270613/)
- - [An interview with Microsoft CVP of Design and Research Jon Friedman about the company&#39;s vision for Microsoft 365 Copilot, Bing AI lessons, AI ethics, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230318/p7#a230318p7)
- - [OWC&#39;s 14-port Thunderbolt 3 dock is on sale for $199.99 today](https://appleinsider.com/articles/23/03/18/owcs-14-port-thunderbolt-3-dock-is-on-sale-for-19999-today?utm_medium=rss)<!-- TECH:END -->
+ - [The best antivirus for Mac is none at all](https://appleinsider.com/inside/macos/tips/the-best-antivirus-for-mac-is-none-at-all?utm_medium=rss)
+ - [A group of librarians argue the Internet Archive is a library, saying that the four major publishers&#39; lawsuit threatens the development of digital collections &lpar;Inside Higher Ed&rpar;](http://www.techmeme.com/230318/p8#a230318p8)
+ - [Meta Quest 3: Everything we know, what we want to see](https://www.androidauthority.com/meta-quest-3-release-date-rumors-specs-price-3270613/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
