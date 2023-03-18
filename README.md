@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take my money, now](http://9gag.com/gag/abv13LX)
- - 🚯 [This is a barbecue park](http://9gag.com/gag/aDY7ppw)
- - 🚯 [There are several `war cries` that complicate our lives...](http://9gag.com/gag/awZgERr)<!-- MEMES:END -->
+ - 🚖 [There are several `war cries` that complicate our lives...](http://9gag.com/gag/awZgERr)
+ - 🚯 [Support](http://9gag.com/gag/a1P7zAR)
+ - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
 
 --- 
 
