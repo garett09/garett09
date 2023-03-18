@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC finalizes Epic&#39;s $245M fine over Fortnite &#39;dark pattern&#39; usage](https://appleinsider.com/articles/23/03/18/ftc-finalizes-epics-245m-fine-over-fortnite-dark-pattern-usage?utm_medium=rss)
- - [11 New iPhone Features You Should Be Using if You&#39;re Not Already     - CNET](https://www.cnet.com/tech/mobile/11-new-iphone-feature-you-should-be-using-if-youre-not-already/#ftag=CAD590a51e)
- - [Best Monitors We&#39;ve Tested in 2023     - CNET](https://www.cnet.com/tech/computing/best-monitors-weve-tested-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why pay extra for expensive earbuds when cheap earbuds sound good enough??](https://www.androidauthority.com/cheap-earbuds-vs-expensive-earbuds-3299108/)
+ - [Acefast Crystal &lpar;2&rpar; T8 review: Flashy and loud wireless earbuds](https://appleinsider.com/articles/23/03/18/acefast-crystal-2-t8-review-flashy-and-loud-wireless-earbuds?utm_medium=rss)
+ - [Epic must pay $245M after luring customers into &#39;Fortnite&#39; purchases](https://appleinsider.com/articles/23/03/18/ftc-finalizes-epics-245m-fine-over-fortnite-dark-pattern-usage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
