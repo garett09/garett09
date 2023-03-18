@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ackermans in Bloemfontein advertised 5 jobs. This is the response in a country with 32% unemployment](http://9gag.com/gag/anzOpBL)
- - 🚯 [Wtf happened in Argentina ?](http://9gag.com/gag/armW7nB)
- - 🚯 [Just cops busting a man](http://9gag.com/gag/aPgxb3w)<!-- MEMES:END -->
+ - 🚖 [Patient or foolish?](http://9gag.com/gag/aKE1r1g)
+ - 🚯 [The Little Girl and The Tiny Devil](http://9gag.com/gag/abvePrp)
+ - 🚯 [Do you want something to eat? No honey, I&#39;m fine. Her later:](http://9gag.com/gag/aqeR3g7)<!-- MEMES:END -->
 
 --- 
 
