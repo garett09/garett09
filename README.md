@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [9 and a half questions we have for Shadow and Bone season 3](https://www.polygon.com/23643174/shadow-bone-netflix-ending-season-2-six-crows-darkling-alive)
  - [The Mass Effect modding scene did what BioWare couldn’t](https://www.polygon.com/23612797/mass-effect-legendary-edition-mods)
- - [Persona 5, Does Goro Akechi Mean Nothing To You?](https://kotaku.com/persona-5-royal-p5x-atlus-goro-akechi-p5x-royal-1850238910)
- - [Shazam! Fury of the Gods’ big DC cameo started as a goof](https://www.polygon.com/23643514/shazam-fury-gods-wonder-woman-cameo)<!-- GAME:END -->
+ - [Persona 5, Does Goro Akechi Mean Nothing To You?](https://kotaku.com/persona-5-royal-p5x-atlus-goro-akechi-p5x-royal-1850238910)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
