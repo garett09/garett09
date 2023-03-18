@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a barbecue park](http://9gag.com/gag/aDY7ppw)
- - 🚯 [RIP](http://9gag.com/gag/aGELP5X)
- - 🚯 [Where Sauce](http://9gag.com/gag/az25WyK)<!-- MEMES:END -->
+ - 🚖 [RIP](http://9gag.com/gag/aGELP5X)
+ - 🚯 [Support](http://9gag.com/gag/a1P7zAR)
+ - 🚯 [Dreamworks makes fun of Disney](http://9gag.com/gag/aWG7Q42)<!-- MEMES:END -->
 
 --- 
 
