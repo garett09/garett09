@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enlargio](http://9gag.com/gag/anzReB5)
- - 🚯 [Rare women w](http://9gag.com/gag/aZDnO9z)
- - 🚯 [Hurt, daddy&#39;s princess! you be dead!](http://9gag.com/gag/aeQ4X9v)<!-- MEMES:END -->
+ - 🚖 [Patient or foolish?](http://9gag.com/gag/aKE1r1g)
+ - 🚯 [Honeybee Venom Can Kill Cancer Cells](http://9gag.com/gag/axoWxAW)
+ - 🚯 [Distress](http://9gag.com/gag/a7q8Qnq)<!-- MEMES:END -->
 
 --- 
 
