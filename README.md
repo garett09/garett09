@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: effective altruism leaders were warned of Sam Bankman-Fried&#39;s issues in 2018 and 2019, but they dismissed claims and threatened those raising concerns &lpar;Charlotte Alter/TIME&rpar;](http://www.techmeme.com/230318/p2#a230318p2)
  - [Some investors are concerned SVB&#39;s collapse and its rescue by the US government, after Silicon Valley investors&#39; lobbying, could lead to tougher tech regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/230318/p1#a230318p1)
- - [The FBI arrested a New York man who allegedly ran BreachForums, a dark web site that hosted stolen databases of ~1K companies, under the alias &quot;pompompurin&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230317/p19#a230317p19)
- - [Best Self-Cleaning Water Bottle     - CNET](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FBI arrested a New York man who allegedly ran BreachForums, a dark web site that hosted stolen databases of ~1K companies, under the alias &quot;pompompurin&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230317/p19#a230317p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
