@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where Sauce](http://9gag.com/gag/az25WyK)
- - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)
- - 🚯 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)<!-- MEMES:END -->
+ - 🚖 [This is a barbecue park](http://9gag.com/gag/aDY7ppw)
+ - 🚯 [RIP](http://9gag.com/gag/aGELP5X)
+ - 🚯 [Where Sauce](http://9gag.com/gag/az25WyK)<!-- MEMES:END -->
 
 --- 
 
