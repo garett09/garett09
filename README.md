@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There are several `war cries` that complicate our lives...](http://9gag.com/gag/awZgERr)
- - 🚯 [Support](http://9gag.com/gag/a1P7zAR)
- - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
+ - 🚖 [The methane digestion system](http://9gag.com/gag/abv150v)
+ - 🚯 [Olivia would know](http://9gag.com/gag/arm3vbB)
+ - 🚯 [Where Sauce](http://9gag.com/gag/az25WyK)<!-- MEMES:END -->
 
 --- 
 
