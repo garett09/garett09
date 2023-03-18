@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feds arrest alleged BreachForums owner linked to FBI hacks](https://www.theverge.com/2023/3/18/23646476/feds-arrest-alleged-hacking-forum-owner-breachforums-pompompurin)
- - [23 Best Gifts for Tweens in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-gifts-for-tweens/#ftag=CAD590a51e)
- - [The best antivirus for Mac is none at all](https://appleinsider.com/inside/macos/tips/the-best-antivirus-for-mac-is-none-at-all?utm_medium=rss)<!-- TECH:END -->
+ - [Logitech MK270 Keyboard and Mouse review: Good for budget buyers](https://appleinsider.com/articles/23/03/18/logitech-mk270-keyboard-and-mouse-review-good-for-budget-buyers?utm_medium=rss)
+ - [Apple Watch helps diagnose something it wasn&#39;t designed to find](https://appleinsider.com/articles/23/03/18/apple-watch-helps-diagnose-blood-clots-it-wasnt-designed-to-find?utm_medium=rss)
+ - [Google Doodle Celebrates Mario Molina, Scientist Who Revealed Ozone Threat     - CNET](https://www.cnet.com/culture/internet/google-doodle-celebrates-mario-molina-scientist-who-revealed-ozone-threat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
