@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life advice, my c*nts](http://9gag.com/gag/a4onvWp)
- - 🚯 [Support](http://9gag.com/gag/a1P7zAR)
- - 🚯 [Take my money, now](http://9gag.com/gag/abv13LX)<!-- MEMES:END -->
+ - 🚖 [Take my money, now](http://9gag.com/gag/abv13LX)
+ - 🚯 [This is a barbecue park](http://9gag.com/gag/aDY7ppw)
+ - 🚯 [There are several `war cries` that complicate our lives...](http://9gag.com/gag/awZgERr)<!-- MEMES:END -->
 
 --- 
 
