@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Slowpoke and Galarian Slowpoke Community Day guide](https://www.polygon.com/pokemon-go-guide/23644815/slowpoke-galarian-community-day-slowbro-slowking-mega-shiny-candy)
  - [Destiny players are gathering in the Tower to pay last respects to Lance Reddick](https://www.pcgamer.com/destiny-players-are-gathering-in-the-tower-to-pay-last-respects-to-lance-reddick)
- - [Cocaine Bear, Netflix’s Pornhub doc, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/3/17/23636245/new-movies-watch-cocaine-bear-netflix-pornhub-documentary-the-whale)
- - [Maybe stop with the uncomfortable Pedro Pascal thirst edits](https://www.polygon.com/23645448/pedro-pascal-thirst-daddy-explained-tiktok)<!-- GAME:END -->
+ - [Cocaine Bear, Netflix’s Pornhub doc, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/3/17/23636245/new-movies-watch-cocaine-bear-netflix-pornhub-documentary-the-whale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
