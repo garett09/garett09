@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Oops, all Malenia: fan-favorite Elden Ring player replaces every enemy with secret megaboss and tries to beat the game](https://www.pcgamer.com/oops-all-malenia-fan-favorite-elden-ring-player-replaces-every-enemy-with-secret-megaboss-and-tries-to-beat-the-game)
  - [The Last of Us is the latest video game adaptation plagued by the same problem](https://www.polygon.com/23645114/last-us-tv-show-game-comparison)
- - [9 and a half questions we have for Shadow and Bone season 3](https://www.polygon.com/23643174/shadow-bone-netflix-ending-season-2-six-crows-darkling-alive)
- - [The Mass Effect modding scene did what BioWare couldn’t](https://www.polygon.com/23612797/mass-effect-legendary-edition-mods)<!-- GAME:END -->
+ - [9 and a half questions we have for Shadow and Bone season 3](https://www.polygon.com/23643174/shadow-bone-netflix-ending-season-2-six-crows-darkling-alive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
