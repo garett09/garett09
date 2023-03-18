@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Patient or foolish?](http://9gag.com/gag/aKE1r1g)
- - 🚯 [The Little Girl and The Tiny Devil](http://9gag.com/gag/abvePrp)
- - 🚯 [Do you want something to eat? No honey, I&#39;m fine. Her later:](http://9gag.com/gag/aqeR3g7)<!-- MEMES:END -->
+ - 🚖 [Do you want something to eat? No honey, I&#39;m fine. Her later:](http://9gag.com/gag/aqeR3g7)
+ - 🚯 [Makes perfect sense.](http://9gag.com/gag/aRE46vj)
+ - 🚯 [This is a barbecue park](http://9gag.com/gag/aDY7ppw)<!-- MEMES:END -->
 
 --- 
 
