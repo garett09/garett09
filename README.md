@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you want something to eat? No honey, I&#39;m fine. Her later:](http://9gag.com/gag/aqeR3g7)
+ - 🚖 [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
  - 🚯 [Makes perfect sense.](http://9gag.com/gag/aRE46vj)
- - 🚯 [This is a barbecue park](http://9gag.com/gag/aDY7ppw)<!-- MEMES:END -->
+ - 🚯 [Take my money, now](http://9gag.com/gag/abv13LX)<!-- MEMES:END -->
 
 --- 
 
