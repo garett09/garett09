@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I knew I&#39;d seen this somewhere before](http://9gag.com/gag/aNw9egb)
- - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)
- - 🚯 [Uber driver lady](http://9gag.com/gag/a6qXm6A)<!-- MEMES:END -->
+ - 🚖 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)
+ - 🚯 [Just let your past go](http://9gag.com/gag/aXnLBjz)
+ - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)<!-- MEMES:END -->
 
 --- 
 
