@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some investors are concerned SVB&#39;s collapse and its rescue by the US government, after Silicon Valley investors&#39; lobbying, could lead to tougher tech regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/230318/p1#a230318p1)
  - [The FBI arrested a New York man who allegedly ran BreachForums, a dark web site that hosted stolen databases of ~1K companies, under the alias &quot;pompompurin&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230317/p19#a230317p19)
- - [Best Self-Cleaning Water Bottle     - CNET](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)
- - [A look at YouTube and TikTok &quot;hustle gurus&quot; claiming to teach followers how to earn passive income through dropshipping, crypto schemes, AI companies, and more &lpar;Rebecca Jennings/Vox&rpar;](http://www.techmeme.com/230317/p18#a230317p18)<!-- TECH:END -->
+ - [Best Self-Cleaning Water Bottle     - CNET](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
