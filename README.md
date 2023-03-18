@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP](http://9gag.com/gag/aGELP5X)
- - 🚯 [Support](http://9gag.com/gag/a1P7zAR)
- - 🚯 [Dreamworks makes fun of Disney](http://9gag.com/gag/aWG7Q42)<!-- MEMES:END -->
+ - 🚖 [I knew I&#39;d seen this somewhere before](http://9gag.com/gag/aNw9egb)
+ - 🚯 [Mom play stupid game, daughter win stupid prize](http://9gag.com/gag/az250bm)
+ - 🚯 [Uber driver lady](http://9gag.com/gag/a6qXm6A)<!-- MEMES:END -->
 
 --- 
 
