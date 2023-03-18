@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Farmer drives 2 trucks loaded with dirt into levee breach to prevent orchard from being flooded](http://9gag.com/gag/amAW4pV)
- - 🚯 [Where Sauce](http://9gag.com/gag/az25WyK)
- - 🚯 [Nice technique](http://9gag.com/gag/a9qz3w0)<!-- MEMES:END -->
+ - 🚖 [Enlargio](http://9gag.com/gag/anzReB5)
+ - 🚯 [Rare women w](http://9gag.com/gag/aZDnO9z)
+ - 🚯 [Hurt, daddy&#39;s princess! you be dead!](http://9gag.com/gag/aeQ4X9v)<!-- MEMES:END -->
 
 --- 
 
