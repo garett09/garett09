@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 5 best sci-fi movies to watch on Netflix in March](https://www.polygon.com/what-to-watch/2023/3/18/23637693/best-sci-fi-movies-netflix-march-2023)
  - [Wordle hint and answer #637: Saturday, March 18](https://www.pcgamer.com/wordle-hint-answer-today-637-march-18)
- - [Pokémon Go Slowpoke and Galarian Slowpoke Community Day guide](https://www.polygon.com/pokemon-go-guide/23644815/slowpoke-galarian-community-day-slowbro-slowking-mega-shiny-candy)
- - [Destiny players are gathering in the Tower to pay last respects to Lance Reddick](https://www.pcgamer.com/destiny-players-are-gathering-in-the-tower-to-pay-last-respects-to-lance-reddick)<!-- GAME:END -->
+ - [Pokémon Go Slowpoke and Galarian Slowpoke Community Day guide](https://www.polygon.com/pokemon-go-guide/23644815/slowpoke-galarian-community-day-slowbro-slowking-mega-shiny-candy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
