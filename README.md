@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Dina Srinivasan, author of The Antitrust Case Against Facebook, on Meta and Google&#39;s ad duopoly, the US antitrust cases, concerns about Apple, and more &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230318/p4#a230318p4)
- - [Qualcomm Is Poised to Dominate EVs Before Apple Gets a Chance](https://www.wired.com/story/electric-cars-qualcomm-apple/)
- - [10 Best Sound Machines and White-Noise Machines &lpar;2023&rpar;: Cheap, Night Lights, Lullabies](https://www.wired.com/gallery/best-sound-machines/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-476-3299255/)
+ - [Microsoft is testing a built-in, non-custodial Ethereum crypto wallet for Microsoft Edge to let users send and receive cryptocurrency and NFTs &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230318/p5#a230318p5)
+ - [This Apple Pencil clone provides 80 percent of the experience for a quarter of the price](https://www.theverge.com/23636586/apple-pencil-2nd-generation-knockoff-clone-budget-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
