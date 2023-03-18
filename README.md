@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lovely friendly man decided to paint his neighbours house during the night to surprise him. So cute](http://9gag.com/gag/a4onO0m)
- - 🚯 [Makes perfect sense.](http://9gag.com/gag/aRE46vj)
- - 🚯 [Take my money, now](http://9gag.com/gag/abv13LX)<!-- MEMES:END -->
+ - 🚖 [Take my money, now](http://9gag.com/gag/abv13LX)
+ - 🚯 [Farmer drives 2 trucks loaded with dirt into levee breach to prevent orchard from being flooded](http://9gag.com/gag/amAW4pV)
+ - 🚯 [This is a barbecue park](http://9gag.com/gag/aDY7ppw)<!-- MEMES:END -->
 
 --- 
 
