@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-476-3299255/)
- - [Microsoft is testing a built-in, non-custodial Ethereum crypto wallet for Microsoft Edge to let users send and receive cryptocurrency and NFTs &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230318/p5#a230318p5)
- - [This Apple Pencil clone provides 80 percent of the experience for a quarter of the price](https://www.theverge.com/23636586/apple-pencil-2nd-generation-knockoff-clone-budget-review)<!-- TECH:END -->
+ - [FTC finalizes Epic&#39;s $245M fine over Fortnite &#39;dark pattern&#39; usage](https://appleinsider.com/articles/23/03/18/ftc-finalizes-epics-245m-fine-over-fortnite-dark-pattern-usage?utm_medium=rss)
+ - [11 New iPhone Features You Should Be Using if You&#39;re Not Already     - CNET](https://www.cnet.com/tech/mobile/11-new-iphone-feature-you-should-be-using-if-youre-not-already/#ftag=CAD590a51e)
+ - [Best Monitors We&#39;ve Tested in 2023     - CNET](https://www.cnet.com/tech/computing/best-monitors-weve-tested-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
