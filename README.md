@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security News This Week: Ring Is in a Standoff With Hackers](https://www.wired.com/story/amazon-ring-hacked-ransomware/)
- - [Daily deals March 18: $100 off M2 Mac mini, $250 off Apple Studio Display, up to 48% off Cricut, more](https://appleinsider.com/articles/23/03/18/daily-deals-march-18-100-off-m2-mac-mini-250-off-apple-studio-display-up-to-48-off-cricut-more?utm_medium=rss)
- - [Unifying the Galaxy A and S series sets a new bar for mid-range design](https://www.androidauthority.com/galaxy-a-galaxy-s-unified-design-3299014/)<!-- TECH:END -->
+ - [Q&amp;A with Dina Srinivasan, author of The Antitrust Case Against Facebook, on Meta and Google&#39;s ad duopoly, the US antitrust cases, concerns about Apple, and more &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230318/p4#a230318p4)
+ - [I used an incredible X-ray machine to look inside my gadgets — let me show you](https://www.theverge.com/2023/3/18/23640484/lumafield-neptune-ct-scanner-3d-x-ray-hands-on-interview)
+ - [Security News This Week: Ring Is in a Standoff With Hackers](https://www.wired.com/story/amazon-ring-hacked-ransomware/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
