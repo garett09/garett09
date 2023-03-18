@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best antivirus for Mac is none at all](https://appleinsider.com/inside/macos/tips/the-best-antivirus-for-mac-is-none-at-all?utm_medium=rss)
- - [A group of librarians argue the Internet Archive is a library, saying that the four major publishers&#39; lawsuit threatens the development of digital collections &lpar;Inside Higher Ed&rpar;](http://www.techmeme.com/230318/p8#a230318p8)
- - [Meta Quest 3: Everything we know, what we want to see](https://www.androidauthority.com/meta-quest-3-release-date-rumors-specs-price-3270613/)<!-- TECH:END -->
+ - [Feds arrest alleged BreachForums owner linked to FBI hacks](https://www.theverge.com/2023/3/18/23646476/feds-arrest-alleged-hacking-forum-owner-breachforums-pompompurin)
+ - [23 Best Gifts for Tweens in 2023     - CNET](https://www.cnet.com/culture/entertainment/best-gifts-for-tweens/#ftag=CAD590a51e)
+ - [The best antivirus for Mac is none at all](https://appleinsider.com/inside/macos/tips/the-best-antivirus-for-mac-is-none-at-all?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
