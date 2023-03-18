@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Venture Capital Can Avoid the Next Silicon Valley Bank Fiasco](https://www.wired.com/story/to-save-the-innovation-economy-break-big-venture-capital/)
- - [The Weekend Silicon Valley Stared Into the Abyss](https://www.wired.com/story/silicon-valley-bank-svb-the-weekend-silicon-valley-stared-into-the-abyss/)
- - [20 Best Deals: MacBooks, Camera Bags, and Home Office Gear](https://www.wired.com/story/weekend-deals-march-18-2023/)<!-- TECH:END -->
+ - [Unifying the Galaxy A and S series sets a new bar for mid-range design](https://www.androidauthority.com/galaxy-a-galaxy-s-unified-design-3299014/)
+ - [India’s Sacred Groves Are Resurrecting a Vanishing Forest](https://www.wired.com/story/indias-sacred-groves-are-resurrecting-a-vanishing-forest/)
+ - [The Weekly Authority: 📱 Pixel 8 leaks aplenty](https://www.androidauthority.com/the-weekly-authority-march-18-2023-236-3298599/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
