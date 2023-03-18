@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Ton Of Lowkey Features Just Made The PS5 Way More Convenient](https://kotaku.com/ps5-discord-sony-save-data-transfer-ps4-firmware-update-1850238845)
  - [The 5 best sci-fi movies to watch on Netflix in March](https://www.polygon.com/what-to-watch/2023/3/18/23637693/best-sci-fi-movies-netflix-march-2023)
- - [Wordle hint and answer #637: Saturday, March 18](https://www.pcgamer.com/wordle-hint-answer-today-637-march-18)
- - [Pokémon Go Slowpoke and Galarian Slowpoke Community Day guide](https://www.polygon.com/pokemon-go-guide/23644815/slowpoke-galarian-community-day-slowbro-slowking-mega-shiny-candy)<!-- GAME:END -->
+ - [Wordle hint and answer #637: Saturday, March 18](https://www.pcgamer.com/wordle-hint-answer-today-637-march-18)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
