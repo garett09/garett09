@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 on the 2022 iPad Air, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
- - [Best Home Office Essentials for 2023     - CNET](https://www.cnet.com/tech/computing/home-office-essentials/#ftag=CAD590a51e)
- - [Diablo 4 Takes Bleakness to a New Level, Which Is Just Fine With Me     - CNET](https://www.cnet.com/tech/gaming/diablo-4-takes-bleakness-to-a-new-level-which-is-just-fine-with-me/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at YouTube and TikTok &quot;hustle gurus&quot; claiming to teach followers how to earn passive income through dropshipping, crypto schemes, AI companies, and more &lpar;Rebecca Jennings/Vox&rpar;](http://www.techmeme.com/230317/p18#a230317p18)
+ - [Everything We Know About the Bird Flu     - CNET](https://www.cnet.com/health/medical/everything-we-know-about-the-bird-flu/#ftag=CAD590a51e)
+ - [Save $100 on the 2022 iPad Air, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
