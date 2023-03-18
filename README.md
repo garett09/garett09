@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2018The smell is next level\u2019: millions of dead fish spanning kilometres of Darling-Baaka river begin to rot near the Australian town of Menindee.](http://9gag.com/gag/aRE4w9M)
- - 🚯 [Justice ! Doing banks the way it should be!](http://9gag.com/gag/aXnLBDg)
- - 🚯 [Patient or foolish?](http://9gag.com/gag/aKE1r1g)<!-- MEMES:END -->
+ - 🚖 [When a cat gets spooked](http://9gag.com/gag/arm3pYB)
+ - 🚯 [I knew I&#39;d seen this somewhere before](http://9gag.com/gag/aNw9egb)
+ - 🚯 [Outstanding Move](http://9gag.com/gag/ago13bw)<!-- MEMES:END -->
 
 --- 
 
