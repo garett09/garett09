@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI arrested a New York man who allegedly ran BreachForums, a dark web site that hosted stolen databases of ~1K companies, under the alias &quot;pompompurin&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230317/p19#a230317p19)
  - [Best Self-Cleaning Water Bottle     - CNET](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)
- - [A look at YouTube and TikTok &quot;hustle gurus&quot; claiming to teach followers how to earn passive income through dropshipping, crypto schemes, AI companies, and more &lpar;Rebecca Jennings/Vox&rpar;](http://www.techmeme.com/230317/p18#a230317p18)
- - [Best Shave Club for 2023: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at YouTube and TikTok &quot;hustle gurus&quot; claiming to teach followers how to earn passive income through dropshipping, crypto schemes, AI companies, and more &lpar;Rebecca Jennings/Vox&rpar;](http://www.techmeme.com/230317/p18#a230317p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
