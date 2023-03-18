@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Self-Cleaning Water Bottle     - CNET](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)
  - [A look at YouTube and TikTok &quot;hustle gurus&quot; claiming to teach followers how to earn passive income through dropshipping, crypto schemes, AI companies, and more &lpar;Rebecca Jennings/Vox&rpar;](http://www.techmeme.com/230317/p18#a230317p18)
- - [Everything We Know About the Bird Flu     - CNET](https://www.cnet.com/health/medical/everything-we-know-about-the-bird-flu/#ftag=CAD590a51e)
- - [Save $100 on the 2022 iPad Air, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)<!-- TECH:END -->
+ - [Best Shave Club for 2023: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
