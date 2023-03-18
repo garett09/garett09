@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There are several `war cries` that complicate our lives...](http://9gag.com/gag/awZgERr)
- - 🚯 [Makes perfect sense.](http://9gag.com/gag/aRE46vj)
- - 🚯 [This is a barbecue park](http://9gag.com/gag/aDY7ppw)<!-- MEMES:END -->
+ - 🚖 [Life advice, my c*nts](http://9gag.com/gag/a4onvWp)
+ - 🚯 [Support](http://9gag.com/gag/a1P7zAR)
+ - 🚯 [Take my money, now](http://9gag.com/gag/abv13LX)<!-- MEMES:END -->
 
 --- 
 
