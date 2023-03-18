@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Savage madlad](http://9gag.com/gag/aGEnKxG)
- - 🚯 [Happy Kirby](http://9gag.com/gag/a7q8xxA)
- - 🚯 [This dude has ultrasonic dog repellent on his bike..](http://9gag.com/gag/aQEgLde)<!-- MEMES:END -->
+ - 🚖 [Ackermans in Bloemfontein advertised 5 jobs. This is the response in a country with 32% unemployment](http://9gag.com/gag/anzOpBL)
+ - 🚯 [Wtf happened in Argentina ?](http://9gag.com/gag/armW7nB)
+ - 🚯 [Just cops busting a man](http://9gag.com/gag/aPgxb3w)<!-- MEMES:END -->
 
 --- 
 
