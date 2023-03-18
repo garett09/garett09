@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Ton Of Lowkey Features Just Made The PS5 Way More Convenient](https://kotaku.com/ps5-discord-sony-save-data-transfer-ps4-firmware-update-1850238845)
- - [The 5 best sci-fi movies to watch on Netflix in March](https://www.polygon.com/what-to-watch/2023/3/18/23637693/best-sci-fi-movies-netflix-march-2023)
- - [Wordle hint and answer #637: Saturday, March 18](https://www.pcgamer.com/wordle-hint-answer-today-637-march-18)<!-- GAME:END -->
+ - [The Mass Effect modding scene did what BioWare couldn’t](https://www.polygon.com/23612797/mass-effect-legendary-edition-mods)
+ - [Persona 5, Does Goro Akechi Mean Nothing To You?](https://kotaku.com/persona-5-royal-p5x-atlus-goro-akechi-p5x-royal-1850238910)
+ - [Shazam! Fury of the Gods’ big DC cameo started as a goof](https://www.polygon.com/23643514/shazam-fury-gods-wonder-woman-cameo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
