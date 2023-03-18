@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [First Kerbal Space Program 2 patch fixes a mountain of bugs](https://www.pcgamer.com/first-kerbal-space-program-2-patch-fixes-a-mountain-of-bugs)
  - [Oops, all Malenia: fan-favorite Elden Ring player replaces every enemy with secret megaboss and tries to beat the game](https://www.pcgamer.com/oops-all-malenia-fan-favorite-elden-ring-player-replaces-every-enemy-with-secret-megaboss-and-tries-to-beat-the-game)
- - [The Last of Us is the latest video game adaptation plagued by the same problem](https://www.polygon.com/23645114/last-us-tv-show-game-comparison)
- - [9 and a half questions we have for Shadow and Bone season 3](https://www.polygon.com/23643174/shadow-bone-netflix-ending-season-2-six-crows-darkling-alive)<!-- GAME:END -->
+ - [The Last of Us is the latest video game adaptation plagued by the same problem](https://www.polygon.com/23645114/last-us-tv-show-game-comparison)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
