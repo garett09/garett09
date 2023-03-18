@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take my money, now](http://9gag.com/gag/abv13LX)
- - 🚯 [Farmer drives 2 trucks loaded with dirt into levee breach to prevent orchard from being flooded](http://9gag.com/gag/amAW4pV)
- - 🚯 [This is a barbecue park](http://9gag.com/gag/aDY7ppw)<!-- MEMES:END -->
+ - 🚖 [Makes perfect sense.](http://9gag.com/gag/aRE46vj)
+ - 🚯 [Where Sauce](http://9gag.com/gag/az25WyK)
+ - 🚯 [Just let your past go](http://9gag.com/gag/aXnLBjz)<!-- MEMES:END -->
 
 --- 
 
