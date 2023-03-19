@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looks important...](http://9gag.com/gag/aVboWEK)
- - 🚯 [Barely Made It](http://9gag.com/gag/adP1Yd9)
- - 🚯 [When they will stop?](http://9gag.com/gag/aVboXod)<!-- MEMES:END -->
+ - 🚖 [Something says he might be adopted:&rpar;](http://9gag.com/gag/axo3ZLD)
+ - 🚯 [This is a day she will never forget](http://9gag.com/gag/a8q6j7p)
+ - 🚯 [And now, more realistic than ever!](http://9gag.com/gag/amA18Av)<!-- MEMES:END -->
 
 --- 
 
