@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The man was overcome by the presence of the chad walk &lpar;Loud sound warning&rpar;](http://9gag.com/gag/aNw9obG)
- - 🚯 [Tonight&#39;s gonna be great](http://9gag.com/gag/a3Z5dv7)
- - 🚯 [This is a barbecue park](http://9gag.com/gag/aDY7ppw)<!-- MEMES:END -->
+ - 🚖 [Learning Chinese](http://9gag.com/gag/a5X6PoL)
+ - 🚯 [Meow](http://9gag.com/gag/ago1yMv)
+ - 🚯 [Been a long road to recovery, in more ways than one. But! 4 years clean from meth.](http://9gag.com/gag/adP16KD)<!-- MEMES:END -->
 
 --- 
 
