@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do not the Taco Bell employee](http://9gag.com/gag/a3Z53PN)
- - 🚯 [Support](http://9gag.com/gag/a1P7zAR)
- - 🚯 [Favorite anime scenes weekly post #1](http://9gag.com/gag/a2KwPWY)<!-- MEMES:END -->
+ - 🚖 [Dreamworks makes fun of Disney](http://9gag.com/gag/aWG7Q42)
+ - 🚯 [Meow](http://9gag.com/gag/ago1yMv)
+ - 🚯 [Bad Luck Brian](http://9gag.com/gag/aQEv6Lr)<!-- MEMES:END -->
 
 --- 
 
