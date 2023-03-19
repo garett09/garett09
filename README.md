@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
- - 🚯 [Look at me: I am the Captain now](http://9gag.com/gag/adP1p4d)
- - 🚯 [I love her sense of humour](http://9gag.com/gag/a7qOymr)<!-- MEMES:END -->
+ - 🚖 [Damn you St. Patricks!!!](http://9gag.com/gag/ago1Njn)
+ - 🚯 [And now, more realistic than ever!](http://9gag.com/gag/amA18Av)
+ - 🚯 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)<!-- MEMES:END -->
 
 --- 
 
