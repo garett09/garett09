@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [Logitech MK270 Keyboard and Mouse review: Good for budget buyers](https://appleinsider.com/articles/23/03/18/logitech-mk270-keyboard-and-mouse-review-good-for-budget-buyers?utm_medium=rss)
  - [Apple Watch helps diagnose something it wasn&#39;t designed to find](https://appleinsider.com/articles/23/03/18/apple-watch-helps-diagnose-blood-clots-it-wasnt-designed-to-find?utm_medium=rss)
- - [Google Doodle Celebrates Mario Molina, Scientist Who Revealed Ozone Threat     - CNET](https://www.cnet.com/culture/internet/google-doodle-celebrates-mario-molina-scientist-who-revealed-ozone-threat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Frozen Strawberries Recalled Due to Hepatitis A Risk     - CNET](https://www.cnet.com/health/frozen-strawberries-recalled-due-to-hepatitis-a-risk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
