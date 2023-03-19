@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Replika and Character.AI, who offer AI companions, are no longer allowing adult content, angering some users who have become deeply involved with their chatbots &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230319/p1#a230319p1)
- - [A look back at PLATO, an educational computer system released in 1960 that some consider a precursor to graphics, touchscreens, messaging apps, games, and more &lpar;Cameron Kaiser/Ars Technica&rpar;](http://www.techmeme.com/230318/p9#a230318p9)
- - [Logitech MK270 Keyboard and Mouse review: Good for budget buyers](https://appleinsider.com/articles/23/03/18/logitech-mk270-keyboard-and-mouse-review-good-for-budget-buyers?utm_medium=rss)<!-- TECH:END -->
+ - [I Got Investigated by the Secret Service. Here&#39;s How to Not Be Me](https://www.wired.com/story/secret-service-investigated-me-twitter/)
+ - [Here Are the Skills You Need to Succeed in Tech in 2023](https://www.wired.com/story/skills-to-succeed-in-tech-2023/)
+ - [The Best SMS Text Messaging Apps for Android](https://www.wired.com/story/best-sms-text-messaging-apps-android/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
