@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looks important...](http://9gag.com/gag/aVboWEK)
- - 🚯 [Hello there](http://9gag.com/gag/ap91yvD)
- - 🚯 [Unclear team tasks](http://9gag.com/gag/aBd63X1)<!-- MEMES:END -->
+ - 🚖 [The man was overcome by the presence of the chad walk &lpar;Loud sound warning&rpar;](http://9gag.com/gag/aNw9obG)
+ - 🚯 [Tonight&#39;s gonna be great](http://9gag.com/gag/a3Z5dv7)
+ - 🚯 [This is a barbecue park](http://9gag.com/gag/aDY7ppw)<!-- MEMES:END -->
 
 --- 
 
