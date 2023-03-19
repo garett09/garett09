@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [After a decade of hanging on, Google officially discontinues the last of its Glass headsets](https://www.pcgamer.com/after-a-decade-of-hanging-on-google-officially-discontinues-the-last-of-its-glass-headsets)
  - [Best horror movies of 2023, ranked by scariness](https://www.polygon.com/23640102/best-horror-movies-2023-how-scary)
- - [Check the demo for towering city builder Bulwark: Falconeer Chronicles](https://www.pcgamer.com/check-the-demo-for-towering-city-builder-bulwark-falconeer-chronicles)
- - [Shameless sincerity is breaking down barriers for blockbuster movies](https://www.polygon.com/23645071/oscars-2023-avatar-the-way-of-water-top-gun-maverick-new-sincerity)<!-- GAME:END -->
+ - [Check the demo for towering city builder Bulwark: Falconeer Chronicles](https://www.pcgamer.com/check-the-demo-for-towering-city-builder-bulwark-falconeer-chronicles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
