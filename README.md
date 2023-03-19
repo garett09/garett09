@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dreamworks makes fun of Disney](http://9gag.com/gag/aWG7Q42)
- - 🚯 [Meow](http://9gag.com/gag/ago1yMv)
- - 🚯 [Bad Luck Brian](http://9gag.com/gag/aQEv6Lr)<!-- MEMES:END -->
+ - 🚖 [Is this true guys](http://9gag.com/gag/aRE4g8A)
+ - 🚯 [\u2018The smell is next level\u2019: millions of dead fish spanning kilometres of Darling-Baaka river begin to rot near the Australian town of Menindee.](http://9gag.com/gag/aRE4w9M)
+ - 🚯 [We do a bit of pranking here](http://9gag.com/gag/aBdZDQD)<!-- MEMES:END -->
 
 --- 
 
