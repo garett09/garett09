@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 14 Pro revisited: The good and bad six months later](https://www.androidauthority.com/apple-iphone-14-pro-review-revisited-3294221/)
- - [Gravastar Supernova Bluetooth Speaker Review: It&#39;s almost perfect](https://appleinsider.com/articles/23/03/19/gravastar-supernova-bluetooth-speaker-review-its-almost-perfect?utm_medium=rss)
- - [Best Smart Home Gyms of 2023: Lululemon, Tempo, Peloton and more     - CNET](https://www.cnet.com/health/fitness/best-smart-home-gym-workouts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
+ - [Watch March Madness 2023: Livestream Sunday&#39;s Games on CBS, TNT, TruTV and TBS     - CNET](https://www.cnet.com/tech/services-and-software/watch-march-madness-2023-livestream-sundays-games-on-cbs-tnt-trutv-and-tbs/#ftag=CAD590a51e)
+ - [Apple Watch Series 9 Rumors: Will It Get a Blood Glucose Monitor?     - CNET](https://www.cnet.com/tech/mobile/apple-watch-series-9-rumors-will-it-get-a-blood-glucose-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
