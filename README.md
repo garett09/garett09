@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #638: Sunday, March 19](https://www.pcgamer.com/wordle-hint-answer-today-638-march-19)
  - [Disco Elysium studio declares &#39;resolution&#39; of legal battle while two of its ousted founders insist the fight continues: &#39;they will not silence us&#39;](https://www.pcgamer.com/disco-elysium-studio-declares-resolution-of-legal-battle-while-two-of-its-ousted-founders-insist-the-fight-continues-they-will-not-silence-us)
- - [Here&#39;s a narrative sci-fi adventure about exploring a &lpar;literally&rpar; broken world](https://www.pcgamer.com/heres-a-narrative-sci-fi-adventure-about-exploring-a-literally-broken-world)
- - [Vermintide 2 is getting another free level](https://www.pcgamer.com/vermintide-2-is-getting-another-free-level)<!-- GAME:END -->
+ - [Here&#39;s a narrative sci-fi adventure about exploring a &lpar;literally&rpar; broken world](https://www.pcgamer.com/heres-a-narrative-sci-fi-adventure-about-exploring-a-literally-broken-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
