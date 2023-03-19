@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look at me: I am the Captain now](http://9gag.com/gag/adP1p4d)
- - 🚯 [My gf is my left Hand](http://9gag.com/gag/aL1zB9z)
- - 🚯 [Barely Made It](http://9gag.com/gag/adP1Yd9)<!-- MEMES:END -->
+ - 🚖 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)
+ - 🚯 [I love her sense of humour](http://9gag.com/gag/a7qOymr)
+ - 🚯 [Look at me: I am the Captain now](http://9gag.com/gag/adP1p4d)<!-- MEMES:END -->
 
 --- 
 
