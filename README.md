@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UChicago researchers launch a free app to help artists prevent AI models from stealing their &quot;artistic IP&quot;, by adding imperceptible &quot;perturbations&quot; to their art &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230319/p3#a230319p3)
- - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
- - [Save Up to 68% on DeWalt Power Tools to Tackle All Your Spring Home Improvement Jobs     - CNET](https://www.cnet.com/deals/save-up-to-68-on-dewalt-power-tools-to-tackle-all-your-spring-home-improvement-jobs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The most iconic mobile games that helped shape the industry](https://www.androidauthority.com/most-iconic-mobile-games-3289713/)
+ - [Amid mounting safety concerns about Tesla&#39;s FSD, ex-staffers blame Elon Musk&#39;s erratic leadership, cost-cutting measures like removing radar, and more &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/230319/p4#a230319p4)
+ - [UChicago researchers launch a free app to help artists prevent AI models from stealing their &quot;artistic IP&quot;, by adding imperceptible &quot;perturbations&quot; to their art &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230319/p3#a230319p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
