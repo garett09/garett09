@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)
- - 🚯 [I love her sense of humour](http://9gag.com/gag/a7qOymr)
- - 🚯 [Look at me: I am the Captain now](http://9gag.com/gag/adP1p4d)<!-- MEMES:END -->
+ - 🚖 [When the cosmic horrors beyond human comprehension](http://9gag.com/gag/ay23d8r)
+ - 🚯 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)
+ - 🚯 [I wish it wasn&#39;t true...](http://9gag.com/gag/a7qO7Mb)<!-- MEMES:END -->
 
 --- 
 
