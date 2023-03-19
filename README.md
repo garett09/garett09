@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Got Investigated by the Secret Service. Here&#39;s How to Not Be Me](https://www.wired.com/story/secret-service-investigated-me-twitter/)
- - [Here Are the Skills You Need to Succeed in Tech in 2023](https://www.wired.com/story/skills-to-succeed-in-tech-2023/)
- - [The Best SMS Text Messaging Apps for Android](https://www.wired.com/story/best-sms-text-messaging-apps-android/)<!-- TECH:END -->
+ - [Daily deals March 19: $200 off M2 16-inch MacBook Pro, 43% off Samsung Odyssey Ark 55-inch curved monitor, $99 AirPods, more](https://appleinsider.com/articles/23/03/19/daily-deals-march-19-200-off-m2-16-inch-macbook-pro-43-off-samsung-odyssey-ark-55-inch-curved-monitor-99-airpods-more?utm_medium=rss)
+ - [Researchers detail a recently fixed aCropalypse vulnerability in Google Pixel&#39;s Markup tool that lets some screenshots be retroactively unredacted or uncropped &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230319/p2#a230319p2)
+ - [Bing Chat could be the Surface Duo 3’s killer app](https://www.androidauthority.com/bing-chat-surface-duo-3-3299037/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
