@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice try FBI](http://9gag.com/gag/aeQ1jEb)
- - 🚯 [RIP](http://9gag.com/gag/aGELP5X)
- - 🚯 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)<!-- MEMES:END -->
+ - 🚖 [Dazzled](http://9gag.com/gag/aRE4Qzq)
+ - 🚯 [We do a bit of pranking here](http://9gag.com/gag/aBdZDQD)
+ - 🚯 [Olivia would know](http://9gag.com/gag/arm3vbB)<!-- MEMES:END -->
 
 --- 
 
