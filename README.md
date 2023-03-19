@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Looks important...](http://9gag.com/gag/aVboWEK)
- - 🚯 [On the highway but not in the good direction](http://9gag.com/gag/aOxeo7y)
- - 🚯 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)<!-- MEMES:END -->
+ - 🚯 [Barely Made It](http://9gag.com/gag/adP1Yd9)
+ - 🚯 [When they will stop?](http://9gag.com/gag/aVboXod)<!-- MEMES:END -->
 
 --- 
 
