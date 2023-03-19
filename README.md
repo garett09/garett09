@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shameless sincerity is breaking down barriers for blockbuster movies](https://www.polygon.com/23645071/oscars-2023-avatar-the-way-of-water-top-gun-maverick-new-sincerity)
- - [We asked the Olympics why their official esports are so weird](https://www.polygon.com/23630221/olympic-esports-series-2023-sports-are-weird-heres-why)
- - [The Shadow and Bone showrunner had a reason for changing the books’ ending](https://www.polygon.com/23644889/shadow-bone-showrunner-interview-books-changes-ending-season)<!-- GAME:END -->
+ - [Best horror movies of 2023, ranked by scariness](https://www.polygon.com/23640102/best-horror-movies-2023-how-scary)
+ - [Check the demo for towering city builder Bulwark: Falconeer Chronicles](https://www.pcgamer.com/check-the-demo-for-towering-city-builder-bulwark-falconeer-chronicles)
+ - [Shameless sincerity is breaking down barriers for blockbuster movies](https://www.polygon.com/23645071/oscars-2023-avatar-the-way-of-water-top-gun-maverick-new-sincerity)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
