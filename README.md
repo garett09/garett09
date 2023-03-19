@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [POV : you are a side character in an anime](http://9gag.com/gag/aBd63vZ)
+ - 🚖 [Olivia would know](http://9gag.com/gag/arm3vbB)
  - 🚯 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)
  - 🚯 [Barely Made It](http://9gag.com/gag/adP1Yd9)<!-- MEMES:END -->
 
