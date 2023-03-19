@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Vegan Meat Healthy? It Depends     - CNET](https://www.cnet.com/health/nutrition/is-vegan-meat-healthy-it-depends/#ftag=CAD590a51e)
- - [Twitter&#39;s deadline to move away from text-based 2FA is today](https://appleinsider.com/articles/23/03/19/twitters-deadline-to-move-away-from-text-based-2fa-is-today?utm_medium=rss)
- - [The most iconic mobile games that helped shape the industry](https://www.androidauthority.com/most-iconic-mobile-games-3289713/)<!-- TECH:END -->
+ - [Oura Ring review: love the features changes, hate the new subscription](https://appleinsider.com/articles/23/03/19/oura-ring-review-love-the-features-changes-hate-the-new-subscription?utm_medium=rss)
+ - [Duolingo Transformed Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/duolingo-transformed-me-into-a-monster/#ftag=CAD590a51e)
+ - [What Happened When ChatGPT Got Hold of My Online Dating Profile     - CNET](https://www.cnet.com/culture/internet/what-happened-when-chatgpt-got-hold-of-my-online-dating-profile/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
