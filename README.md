@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dazzled](http://9gag.com/gag/aRE4Qzq)
- - 🚯 [We do a bit of pranking here](http://9gag.com/gag/aBdZDQD)
- - 🚯 [Olivia would know](http://9gag.com/gag/arm3vbB)<!-- MEMES:END -->
+ - 🚖 [Looks important...](http://9gag.com/gag/aVboWEK)
+ - 🚯 [Hello there](http://9gag.com/gag/ap91yvD)
+ - 🚯 [Unclear team tasks](http://9gag.com/gag/aBd63X1)<!-- MEMES:END -->
 
 --- 
 
