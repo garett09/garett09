@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Olivia would know](http://9gag.com/gag/arm3vbB)
- - 🚯 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)
- - 🚯 [Barely Made It](http://9gag.com/gag/adP1Yd9)<!-- MEMES:END -->
+ - 🚖 [Looks important...](http://9gag.com/gag/aVboWEK)
+ - 🚯 [On the highway but not in the good direction](http://9gag.com/gag/aOxeo7y)
+ - 🚯 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)<!-- MEMES:END -->
 
 --- 
 
