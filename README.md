@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UChicago researchers launch a free app to help artists prevent AI models from stealing their &quot;artistic IP&quot;, by adding imperceptible &quot;perturbations&quot; to their art &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230319/p3#a230319p3)
  - [Samsung Galaxy S23 FE: Everything we know so far and what we want to see](https://www.androidauthority.com/samsung-galaxy-s23-fe-release-date-rumors-specs-features-price-3298904/)
- - [Watch March Madness 2023: Livestream Sunday&#39;s Games on CBS, TNT, TruTV and TBS     - CNET](https://www.cnet.com/tech/services-and-software/watch-march-madness-2023-livestream-sundays-games-on-cbs-tnt-trutv-and-tbs/#ftag=CAD590a51e)
- - [Apple Watch Series 9 Rumors: Will It Get a Blood Glucose Monitor?     - CNET](https://www.cnet.com/tech/mobile/apple-watch-series-9-rumors-will-it-get-a-blood-glucose-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Up to 68% on DeWalt Power Tools to Tackle All Your Spring Home Improvement Jobs     - CNET](https://www.cnet.com/deals/save-up-to-68-on-dewalt-power-tools-to-tackle-all-your-spring-home-improvement-jobs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
