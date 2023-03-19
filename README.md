@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura Ring review: love the features changes, hate the new subscription](https://appleinsider.com/articles/23/03/19/oura-ring-review-love-the-features-changes-hate-the-new-subscription?utm_medium=rss)
- - [Duolingo Transformed Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/duolingo-transformed-me-into-a-monster/#ftag=CAD590a51e)
- - [What Happened When ChatGPT Got Hold of My Online Dating Profile     - CNET](https://www.cnet.com/culture/internet/what-happened-when-chatgpt-got-hold-of-my-online-dating-profile/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oura Ring review: love the feature changes, hate the new subscription](https://appleinsider.com/articles/23/03/19/oura-ring-review-love-the-features-changes-hate-the-new-subscription?utm_medium=rss)
+ - [Sources: Netflix&#39;s ad-supported tier reached about 1M MAUs in the US after its second month, and the company has hit its forecasted deliveries to advertisers &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230319/p5#a230319p5)
+ - [Duolingo Transformed Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/duolingo-transformed-me-into-a-monster/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
