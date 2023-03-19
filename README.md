@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This upcoming FPS had me at &#39;fully simulated centrifugal gravity space station level&#39;](https://www.pcgamer.com/this-upcoming-fps-had-me-at-fully-simulated-centrifugal-gravity-space-station-level)
- - [First Kerbal Space Program 2 patch fixes a mountain of bugs](https://www.pcgamer.com/first-kerbal-space-program-2-patch-fixes-a-mountain-of-bugs)
- - [Oops, all Malenia: fan-favorite Elden Ring player replaces every enemy with secret megaboss and tries to beat the game](https://www.pcgamer.com/oops-all-malenia-fan-favorite-elden-ring-player-replaces-every-enemy-with-secret-megaboss-and-tries-to-beat-the-game)<!-- GAME:END -->
+ - [Disco Elysium studio declares &#39;resolution&#39; of legal battle while two of its ousted founders insist the fight continues: &#39;they will not silence us&#39;](https://www.pcgamer.com/disco-elysium-studio-declares-resolution-of-legal-battle-while-two-of-its-ousted-founders-insist-the-fight-continues-they-will-not-silence-us)
+ - [Here&#39;s a narrative sci-fi adventure about exploring a &lpar;literally&rpar; broken world](https://www.pcgamer.com/heres-a-narrative-sci-fi-adventure-about-exploring-a-literally-broken-world)
+ - [Vermintide 2 is getting another free level](https://www.pcgamer.com/vermintide-2-is-getting-another-free-level)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
