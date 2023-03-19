@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Learning Chinese](http://9gag.com/gag/a5X6PoL)
- - 🚯 [Meow](http://9gag.com/gag/ago1yMv)
- - 🚯 [Been a long road to recovery, in more ways than one. But! 4 years clean from meth.](http://9gag.com/gag/adP16KD)<!-- MEMES:END -->
+ - 🚖 [RIP](http://9gag.com/gag/aGELP5X)
+ - 🚯 [Looks important...](http://9gag.com/gag/aVboWEK)
+ - 🚯 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)<!-- MEMES:END -->
 
 --- 
 
