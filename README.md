@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn you St. Patricks!!!](http://9gag.com/gag/ago1Njn)
- - 🚯 [And now, more realistic than ever!](http://9gag.com/gag/amA18Av)
- - 🚯 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)<!-- MEMES:END -->
+ - 🚖 [Look at me: I am the Captain now](http://9gag.com/gag/adP1p4d)
+ - 🚯 [My gf is my left Hand](http://9gag.com/gag/aL1zB9z)
+ - 🚯 [Barely Made It](http://9gag.com/gag/adP1Yd9)<!-- MEMES:END -->
 
 --- 
 
