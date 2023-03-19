@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today’s the last day to switch away from Twitter’s SMS 2FA method](https://www.theverge.com/2023/3/19/23647399/switch-away-twitter-sms-2fa-reminder)
  - [Twitter&#39;s deadline to move away from text-based 2FA is today](https://appleinsider.com/articles/23/03/19/twitters-deadline-to-move-away-from-text-based-2fa-is-today?utm_medium=rss)
- - [The most iconic mobile games that helped shape the industry](https://www.androidauthority.com/most-iconic-mobile-games-3289713/)
- - [Amid mounting safety concerns about Tesla&#39;s FSD, ex-staffers blame Elon Musk&#39;s erratic leadership, cost-cutting measures like removing radar, and more &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/230319/p4#a230319p4)<!-- TECH:END -->
+ - [The most iconic mobile games that helped shape the industry](https://www.androidauthority.com/most-iconic-mobile-games-3289713/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
