@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Shadow and Bone showrunner had a reason for changing the books’ ending](https://www.polygon.com/23644889/shadow-bone-showrunner-interview-books-changes-ending-season)
  - [The best PS5 accessories](https://www.polygon.com/what-to-buy/23644587/best-ps5-accessories)
- - [Wordle hint and answer #638: Sunday, March 19](https://www.pcgamer.com/wordle-hint-answer-today-638-march-19)
- - [Disco Elysium studio declares &#39;resolution&#39; of legal battle while two of its ousted founders insist the fight continues: &#39;they will not silence us&#39;](https://www.pcgamer.com/disco-elysium-studio-declares-resolution-of-legal-battle-while-two-of-its-ousted-founders-insist-the-fight-continues-they-will-not-silence-us)<!-- GAME:END -->
+ - [Wordle hint and answer #638: Sunday, March 19](https://www.pcgamer.com/wordle-hint-answer-today-638-march-19)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
