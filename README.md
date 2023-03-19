@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2018The smell is next level\u2019: millions of dead fish spanning kilometres of Darling-Baaka river begin to rot near the Australian town of Menindee.](http://9gag.com/gag/aRE4w9M)
- - 🚯 [Dreamworks makes fun of Disney](http://9gag.com/gag/aWG7Q42)
- - 🚯 [Uber driver lady](http://9gag.com/gag/a6qXm6A)<!-- MEMES:END -->
+ - 🚖 [Dazzled](http://9gag.com/gag/aRE4Qzq)
+ - 🚯 [RIP](http://9gag.com/gag/aGELP5X)
+ - 🚯 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)<!-- MEMES:END -->
 
 --- 
 
