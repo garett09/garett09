@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dazzled](http://9gag.com/gag/aRE4Qzq)
+ - 🚖 [Nice try FBI](http://9gag.com/gag/aeQ1jEb)
  - 🚯 [RIP](http://9gag.com/gag/aGELP5X)
- - 🚯 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)<!-- MEMES:END -->
+ - 🚯 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)<!-- MEMES:END -->
 
 --- 
 
