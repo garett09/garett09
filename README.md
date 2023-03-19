@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why buy an iPhone 14 when the Samsung Galaxy S23 does it all better?](https://www.androidauthority.com/galaxy-s23-better-iphone-14-3295179/)
- - [8 Best Phones With a 3.5-mm Headphone Jack &lpar;2023&rpar;: Rugged, Cheap, Luxe](https://www.wired.com/gallery/best-headphone-jack-phones/)
- - [Samsung’s Moon Shots Force Us to Ask How Much AI Is Too Much](https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/)<!-- TECH:END -->
+ - [Apple iPhone 14 Pro revisited: The good and bad six months later](https://www.androidauthority.com/apple-iphone-14-pro-review-revisited-3294221/)
+ - [Gravastar Supernova Bluetooth Speaker Review: It&#39;s almost perfect](https://appleinsider.com/articles/23/03/19/gravastar-supernova-bluetooth-speaker-review-its-almost-perfect?utm_medium=rss)
+ - [Best Smart Home Gyms of 2023: Lululemon, Tempo, Peloton and more     - CNET](https://www.cnet.com/health/fitness/best-smart-home-gym-workouts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
