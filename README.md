@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something says he might be adopted:&rpar;](http://9gag.com/gag/axo3ZLD)
- - 🚯 [This is a day she will never forget](http://9gag.com/gag/a8q6j7p)
- - 🚯 [And now, more realistic than ever!](http://9gag.com/gag/amA18Av)<!-- MEMES:END -->
+ - 🚖 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
+ - 🚯 [Look at me: I am the Captain now](http://9gag.com/gag/adP1p4d)
+ - 🚯 [I love her sense of humour](http://9gag.com/gag/a7qOymr)<!-- MEMES:END -->
 
 --- 
 
