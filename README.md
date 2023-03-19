@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2018The smell is next level\u2019: millions of dead fish spanning kilometres of Darling-Baaka river begin to rot near the Australian town of Menindee.](http://9gag.com/gag/aRE4w9M)
+ - 🚖 [Do not the Taco Bell employee](http://9gag.com/gag/a3Z53PN)
  - 🚯 [Support](http://9gag.com/gag/a1P7zAR)
- - 🚯 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)<!-- MEMES:END -->
+ - 🚯 [Favorite anime scenes weekly post #1](http://9gag.com/gag/a2KwPWY)<!-- MEMES:END -->
 
 --- 
 
