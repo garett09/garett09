@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After a decade of hanging on, Google officially discontinues the last of its Glass headsets](https://www.pcgamer.com/after-a-decade-of-hanging-on-google-officially-discontinues-the-last-of-its-glass-headsets)
- - [Best horror movies of 2023, ranked by scariness](https://www.polygon.com/23640102/best-horror-movies-2023-how-scary)
- - [Check the demo for towering city builder Bulwark: Falconeer Chronicles](https://www.pcgamer.com/check-the-demo-for-towering-city-builder-bulwark-falconeer-chronicles)<!-- GAME:END -->
+ - [Steam may get a system to let players take &#39;game notes&#39;](https://www.pcgamer.com/steam-may-get-a-system-to-let-players-take-game-notes)
+ - [Man Arrested After Making &#39;Minecraft&#39; Death Threat To Sheriff](https://kotaku.com/minecraft-death-threat-4chan-pol-shooter-arrested-cops-1850241929)
+ - [After a decade of hanging on, Google officially discontinues the last of its Glass headsets](https://www.pcgamer.com/after-a-decade-of-hanging-on-google-officially-discontinues-the-last-of-its-glass-headsets)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
