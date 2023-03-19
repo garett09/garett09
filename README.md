@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter&#39;s deadline to move away from text-based 2FA is today](https://appleinsider.com/articles/23/03/19/twitters-deadline-to-move-away-from-text-based-2fa-is-today?utm_medium=rss)
  - [The most iconic mobile games that helped shape the industry](https://www.androidauthority.com/most-iconic-mobile-games-3289713/)
- - [Amid mounting safety concerns about Tesla&#39;s FSD, ex-staffers blame Elon Musk&#39;s erratic leadership, cost-cutting measures like removing radar, and more &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/230319/p4#a230319p4)
- - [UChicago researchers launch a free app to help artists prevent AI models from stealing their &quot;artistic IP&quot;, by adding imperceptible &quot;perturbations&quot; to their art &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230319/p3#a230319p3)<!-- TECH:END -->
+ - [Amid mounting safety concerns about Tesla&#39;s FSD, ex-staffers blame Elon Musk&#39;s erratic leadership, cost-cutting measures like removing radar, and more &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/230319/p4#a230319p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
