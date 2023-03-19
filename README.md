@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP](http://9gag.com/gag/aGELP5X)
- - 🚯 [Looks important...](http://9gag.com/gag/aVboWEK)
- - 🚯 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)<!-- MEMES:END -->
+ - 🚖 [POV : you are a side character in an anime](http://9gag.com/gag/aBd63vZ)
+ - 🚯 [When you are having a good time with your girlfriend and your wife arrives with her boyfriend](http://9gag.com/gag/arm349K)
+ - 🚯 [Nice try FBI](http://9gag.com/gag/aeQ1jEb)<!-- MEMES:END -->
 
 --- 
 
