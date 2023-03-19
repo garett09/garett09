@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [POV : you are a side character in an anime](http://9gag.com/gag/aBd63vZ)
- - 🚯 [When you are having a good time with your girlfriend and your wife arrives with her boyfriend](http://9gag.com/gag/arm349K)
- - 🚯 [Nice try FBI](http://9gag.com/gag/aeQ1jEb)<!-- MEMES:END -->
+ - 🚯 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)
+ - 🚯 [Barely Made It](http://9gag.com/gag/adP1Yd9)<!-- MEMES:END -->
 
 --- 
 
