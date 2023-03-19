@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Replika and Character.AI, who offer AI companions, are no longer allowing adult content, angering some users who have become deeply involved with their chatbots &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230319/p1#a230319p1)
  - [A look back at PLATO, an educational computer system released in 1960 that some consider a precursor to graphics, touchscreens, messaging apps, games, and more &lpar;Cameron Kaiser/Ars Technica&rpar;](http://www.techmeme.com/230318/p9#a230318p9)
- - [Logitech MK270 Keyboard and Mouse review: Good for budget buyers](https://appleinsider.com/articles/23/03/18/logitech-mk270-keyboard-and-mouse-review-good-for-budget-buyers?utm_medium=rss)
- - [Apple Watch helps diagnose something it wasn&#39;t designed to find](https://appleinsider.com/articles/23/03/18/apple-watch-helps-diagnose-blood-clots-it-wasnt-designed-to-find?utm_medium=rss)<!-- TECH:END -->
+ - [Logitech MK270 Keyboard and Mouse review: Good for budget buyers](https://appleinsider.com/articles/23/03/18/logitech-mk270-keyboard-and-mouse-review-good-for-budget-buyers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
