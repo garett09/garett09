@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals March 19: $200 off M2 16-inch MacBook Pro, 43% off Samsung Odyssey Ark 55-inch curved monitor, $99 AirPods, more](https://appleinsider.com/articles/23/03/19/daily-deals-march-19-200-off-m2-16-inch-macbook-pro-43-off-samsung-odyssey-ark-55-inch-curved-monitor-99-airpods-more?utm_medium=rss)
- - [Researchers detail a recently fixed aCropalypse vulnerability in Google Pixel&#39;s Markup tool that lets some screenshots be retroactively unredacted or uncropped &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230319/p2#a230319p2)
- - [Bing Chat could be the Surface Duo 3’s killer app](https://www.androidauthority.com/bing-chat-surface-duo-3-3299037/)<!-- TECH:END -->
+ - [Why buy an iPhone 14 when the Samsung Galaxy S23 does it all better?](https://www.androidauthority.com/galaxy-s23-better-iphone-14-3295179/)
+ - [8 Best Phones With a 3.5-mm Headphone Jack &lpar;2023&rpar;: Rugged, Cheap, Luxe](https://www.wired.com/gallery/best-headphone-jack-phones/)
+ - [Samsung’s Moon Shots Force Us to Ask How Much AI Is Too Much](https://www.wired.com/story/samsungs-moon-shots-force-us-to-ask-how-much-ai-is-too-much/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
