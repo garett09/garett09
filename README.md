@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 5 and Flip 5 leak may reveal some welcomed specs](https://www.androidauthority.com/galaxy-z-fold-5-flip-5-3300239/)
- - [Report from the Institute for Strategic Dialogue and CASM Technology: the average weekly number of antisemitic tweets more than doubled after Musk took over &lpar;Washington Post&rpar;](http://www.techmeme.com/230320/p16#a230320p16)
- - [Update adds 8BitDo controller support for Apple devices](https://appleinsider.com/articles/23/03/20/update-adds-8bitdo-controller-support-for-apple-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Inside Apple Fifth Avenue: Iconic retail design above and below the surface](https://appleinsider.com/articles/23/03/20/inside-apple-fifth-avenue-iconic-retail-design-above-and-below-the-surface?utm_medium=rss)
+ - [YouTube TV Prices Are Going Up. Here&#39;s What You&#39;ll Pay Now     - CNET](https://www.cnet.com/tech/services-and-software/youtube-tv-prices-are-going-up-heres-what-youll-pay-now/#ftag=CAD590a51e)
+ - [One of the best podcasting apps you know is built by a single person](https://www.theverge.com/2023/3/20/23648650/marco-arment-overcast-solo-acts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
