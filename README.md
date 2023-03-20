@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uber driver lady](http://9gag.com/gag/a6qXm6A)
- - 🚯 [Emotional damage](http://9gag.com/gag/aZD1PjV)
- - 🚯 [This is a day she will never forget](http://9gag.com/gag/a8q6j7p)<!-- MEMES:END -->
+ - 🚖 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)
+ - 🚯 [When they will stop?](http://9gag.com/gag/aVboXod)
+ - 🚯 [When was the real Putin, at speeches from the bunker or on yesterday&#39;s visit to Mariupol?](http://9gag.com/gag/a9q67W1)<!-- MEMES:END -->
 
 --- 
 
