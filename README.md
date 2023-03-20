@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
- - 🚯 [Tonight&#39;s gonna be great](http://9gag.com/gag/a3Z5dv7)
+ - 🚖 [Choose your fighter](http://9gag.com/gag/aMEBrZ6)
+ - 🚯 [Who is the last one](http://9gag.com/gag/arm3R8p)
  - 🚯 [Diversity](http://9gag.com/gag/abv1y88)<!-- MEMES:END -->
 
 --- 
