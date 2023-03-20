@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple Fifth Avenue: Iconic retail design above and below the surface](https://appleinsider.com/articles/23/03/20/inside-apple-fifth-avenue-iconic-retail-design-above-and-below-the-surface?utm_medium=rss)
- - [YouTube TV Prices Are Going Up. Here&#39;s What You&#39;ll Pay Now     - CNET](https://www.cnet.com/tech/services-and-software/youtube-tv-prices-are-going-up-heres-what-youll-pay-now/#ftag=CAD590a51e)
- - [One of the best podcasting apps you know is built by a single person](https://www.theverge.com/2023/3/20/23648650/marco-arment-overcast-solo-acts)<!-- TECH:END -->
+ - [Is Apple about to announce a &#39;Broadcast&#39; App?](https://appleinsider.com/articles/23/03/20/is-apple-about-to-announce-a-broadcast-app?utm_medium=rss)
+ - [Microsoft speech recognition subsidiary Nuance debuts DAX Express, which can generate drafts of clinical notes after patient visits and is partly built on GPT-4 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230320/p18#a230320p18)
+ - [Character.AI, recently valued at $1B, will likely face legal battles for brazenly letting users make and share chatbots of famous people or fictional characters &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230320/p17#a230320p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
