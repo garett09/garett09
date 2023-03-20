@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Edge vs Google Chrome: Is it finally time to switch browsers?](https://www.androidauthority.com/chrome-vs-edge-3298624/)
- - [Runway, which helped create Stable Diffusion, announces its Gen 2 system to generate three second snippets of video from prompt words, available via a waitlist &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230320/p8#a230320p8)
- - [I really want a ChatGPT-like voice assistant in my Google Nest speakers](https://www.androidauthority.com/chatgpt-voice-assistant-nest-smart-speakers-3298982/)<!-- TECH:END -->
+ - [Microsoft plans to launch a mobile app store for games as soon as 2024 if the Activision bid is cleared and the EU&#39;s DMA rules for app stores come into effect &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230320/p9#a230320p9)
+ - [Netflix Games Is Still Happening. Just Don’t Hold Your Breath](https://www.wired.com/story/netflix-gaming-monument-valley/)
+ - [The Untold Tale of Why &#39;Cart Life&#39; Disappeared—and Its Resurrection](https://www.wired.com/story/mystery-of-cart-life-death-rebirth/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
