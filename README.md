@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a day she will never forget](http://9gag.com/gag/a8q6j7p)
- - 🚯 [People who know vs People who doesn&#39;t know](http://9gag.com/gag/aDY6Ggx)
- - 🚯 [Diversity](http://9gag.com/gag/abv1y88)<!-- MEMES:END -->
+ - 🚖 [People who know vs People who doesn&#39;t know](http://9gag.com/gag/aDY6Ggx)
+ - 🚯 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
+ - 🚯 [Its London Boys](http://9gag.com/gag/aKEA35Q)<!-- MEMES:END -->
 
 --- 
 
