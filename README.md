@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Some 8BitDo controllers now work with iPhone, iPad, Mac, and Apple TV](https://www.polygon.com/23648539/8bitdo-controller-apple-ios-ipad-support-update)
- - [Modder creates tribute to their Elder Scrolls-loving mum so &#39;she can live on in every adventure I take in Tamriel&#39;](https://www.pcgamer.com/modder-creates-tribute-to-their-elder-scrolls-loving-mum-so-she-can-live-on-in-every-adventure-i-take-in-tamriel)
- - [Sonic Frontiers’ free DLC is coming to tickle your Sonic Adventure nostalgia](https://www.polygon.com/23648491/sonic-frontiers-free-dlc-adventure-jukebox-photo-mode)<!-- GAME:END -->
+ - [ID@Xbox GDC 2023 Online Demos Now Live on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2023/03/20/idxboxgdc-2023-online-demos-now-live-on-xbox-one-and-xbox-series-xs/)
+ - [New Lego Racing Game Appears In Leaked Screenshots](https://kotaku.com/lego-2k-drive-leaked-screenshots-racers-closed-beta-1850244609)
+ - [Life By You asks: What if The Sims spoke real words?](https://www.polygon.com/23648790/life-by-you-the-sims-competitor-paradox-gameplay-reveal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
