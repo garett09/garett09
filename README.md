@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Severe security flaw found in the Markup tool on Pixel phones](https://www.androidauthority.com/pixel-markup-screenshots-vulnerability-3299986/)
- - [Snapdragon 7 Plus Gen 2 benchmarked: Taking the fight to the flagships](https://www.androidauthority.com/snapdragon-7-plus-gen-2-benchmarked-3298030/)
- - [Source: in his upcoming March 23 testimony to Congress, TikTok CEO Shou Zi Chew plans to unveil that TikTok has 150M MAUs in the US, up from 100M in August 2020 &lpar;Carol E. Lee/NBC News&rpar;](http://www.techmeme.com/230319/p7#a230319p7)<!-- TECH:END -->
+ - [Online Sleuths Untangle the Mystery of the Nord Stream Sabotage](https://www.wired.com/story/nord-steam-explosions-mystery-osint/)
+ - [Russia’s Space Program Is in Big Trouble](https://www.wired.com/story/russias-space-program-is-in-big-trouble/)
+ - [India cuts mobile internet access for a second day across Punjab, a state of ~27M people, as it tries to catch a Sikh separatist and curb &quot;fake news&quot; and unrest &lpar;Washington Post&rpar;](http://www.techmeme.com/230320/p1#a230320p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
