@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uber driver lady](http://9gag.com/gag/a6qXm6A)
- - 🚯 [This is a day she will never forget](http://9gag.com/gag/a8q6j7p)
+ - 🚖 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)
+ - 🚯 [Emotional damage](http://9gag.com/gag/aZD1PjV)
  - 🚯 [I love her sense of humour](http://9gag.com/gag/a7qOymr)<!-- MEMES:END -->
 
 --- 
