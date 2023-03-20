@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to launch a mobile app store for games as soon as 2024 if the Activision bid is cleared and the EU&#39;s DMA rules for app stores come into effect &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230320/p9#a230320p9)
- - [Netflix Games Is Still Happening. Just Don’t Hold Your Breath](https://www.wired.com/story/netflix-gaming-monument-valley/)
- - [The Untold Tale of Why &#39;Cart Life&#39; Disappeared—and Its Resurrection](https://www.wired.com/story/mystery-of-cart-life-death-rebirth/)<!-- TECH:END -->
+ - [AirPods Pro 2 vs AirPods 2 vs AirPods 3: Which earbuds are the best for you?](https://www.androidauthority.com/apple-airpods-comparison-3297820/)
+ - [Sources give an overview of the FTC&#39;s Amazon pursuit: considering challenging the $1.7B iRobot deal, retail antitrust case, dark pattern investigation, and more &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/230320/p12#a230320p12)
+ - [The BBC is advising staff to remove TikTok from work phones](https://appleinsider.com/articles/23/03/20/the-bbc-is-advising-staff-to-remove-tiktok-from-work-phones?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
