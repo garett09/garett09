@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel Studios VFX head Victoria Alonso is out](https://www.theverge.com/2023/3/20/23649154/marvel-studios-victoria-alonso-vfx-mcu)
- - [TikTok announces its video app has 150M MAUs in the US, up from 100M MAUs in August 2020; in September 2021, TikTok reported 1B+ MAUs globally &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230320/p19#a230320p19)
- - [Apple Pay now available in South Korea](https://appleinsider.com/articles/23/03/20/apple-pay-now-available-in-south-korea?utm_medium=rss)<!-- TECH:END -->
+ - [Maryland-based identity management startup Aembit launches its service on Monday and announces a $16.6M seed from Ballistic Ventures and Ten Eleven Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230320/p20#a230320p20)
+ - [Is Apple about to announce a &#39;Broadcast&#39; App?](https://appleinsider.com/articles/23/03/20/is-apple-about-to-announce-a-broadcast-app?utm_medium=rss)
+ - [TikTok announces its video app has 150M MAUs in the US, up from 100M MAUs in August 2020; in September 2021, TikTok reported 1B+ MAUs globally &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230320/p19#a230320p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
