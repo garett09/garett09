@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Father reflex or the year](http://9gag.com/gag/aVboDK8)
- - 🚯 [Looks important...](http://9gag.com/gag/aVboWEK)
- - 🚯 [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)<!-- MEMES:END -->
+ - 🚖 [Hidden away in the highlands of Papua New Guinea....](http://9gag.com/gag/aDY6jMd)
+ - 🚯 [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)
+ - 🚯 [No more](http://9gag.com/gag/aL1zDKx)<!-- MEMES:END -->
 
 --- 
 
