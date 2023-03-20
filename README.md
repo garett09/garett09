@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Actor Lance Reddick Played The Night Before He Died](https://kotaku.com/lance-reddick-destiny-2-zavala-voice-bungie-tribute-1850243218)
- - [Sonic Frontiers update brings new Challenge mode, Photo Mode, and Jukebox tracks March 22](https://blog.playstation.com/2023/03/20/sonic-frontiers-update-brings-new-challenge-mode-photo-mode-and-jukebox-tracks-march-22/)
- - [Miracle on the Sea of Thieves: How a Single Idea Powered a 10-Year Journey](https://news.xbox.com/en-us/2023/03/20/miracle-on-the-sea-of-thieves/)<!-- GAME:END -->
+ - [The Doom mod of the year just dropped in a mysterious forum post, and goes so hard we don&#39;t even want to spoil what comes next](https://www.pcgamer.com/the-doom-mod-of-the-year-just-dropped-in-a-mysterious-forum-post-and-goes-so-hard-we-dont-even-want-to-spoil-what-comes-next)
+ - [Where to find all Diablo 4 dungeons](https://www.pcgamer.com/diablo-4-dungeon-locations)
+ - [Outer Wilds’ excellent soundtrack is getting a vinyl repress](https://www.polygon.com/deals/23648298/outer-wilds-soundtrack-vinyl-repress-double-lp)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
