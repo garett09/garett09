@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When was the real Putin, at speeches from the bunker or on yesterday&#39;s visit to Mariupol?](http://9gag.com/gag/a9q67W1)
- - 🚯 [Diversity](http://9gag.com/gag/abv1y88)
- - 🚯 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)<!-- MEMES:END -->
+ - 🚖 [This is a day she will never forget](http://9gag.com/gag/a8q6j7p)
+ - 🚯 [People who know vs People who doesn&#39;t know](http://9gag.com/gag/aDY6Ggx)
+ - 🚯 [Diversity](http://9gag.com/gag/abv1y88)<!-- MEMES:END -->
 
 --- 
 
