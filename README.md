@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FDIC says it will break up SVB and hold two auctions for its traditional deposits unit and its private bank, after failing to find a buyer last week &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230320/p14#a230320p14)
- - [Samsung expands OLED 4K TV lineup with two new series](https://appleinsider.com/articles/23/03/20/samsung-expands-oled-4k-tv-lineup-with-two-new-series?utm_medium=rss)
- - [Sources: in 2021 the phone of a US and Greek national who worked on Meta&#39;s security and trust team was infected with Predator spyware, from an Athens-based firm &lpar;Matina Stevis-Gridneff/New York Times&rpar;](http://www.techmeme.com/230320/p13#a230320p13)<!-- TECH:END -->
+ - [Apple increased grip on premium smartphone market in 2022](https://appleinsider.com/articles/23/03/20/apple-increased-grip-on-premium-smartphone-market-in-2022?utm_medium=rss)
+ - [Microsoft wants to launch a game app store on Android and iOS](https://www.androidauthority.com/microsoft-app-store-3300161/)
+ - [Clean junk files from your Mac with Intego Washing Machine X9](https://appleinsider.com/articles/23/03/20/clean-junk-files-from-your-mac-with-intego-washing-machine-x9?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
