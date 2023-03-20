@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [High fiving an incoming train with your face](http://9gag.com/gag/aKEAwVb)
- - 🚯 [Emotional damage](http://9gag.com/gag/aZD1PjV)
- - 🚯 [I love her sense of humour](http://9gag.com/gag/a7qOymr)<!-- MEMES:END -->
+ - 🚖 [Choose your fighter](http://9gag.com/gag/aMEBrZ6)
+ - 🚯 [Should we? Yes!](http://9gag.com/gag/a8q6jy1)
+ - 🚯 [This is my guy](http://9gag.com/gag/awZ3VVQ)<!-- MEMES:END -->
 
 --- 
 
