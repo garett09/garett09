@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Sam Altman on OpenAI&#39;s GPT-4, how &quot;people should be happy&quot; that OpenAI is a &quot;little bit scared of&quot; its tools, misinformation, rivals, and more &lpar;ABC News&rpar;](http://www.techmeme.com/230320/p5#a230320p5)
- - [Apple TV+ &#39;Ted Lasso&#39; cast to visit White House to promote mental health](https://appleinsider.com/articles/23/03/20/apple-tv-ted-lasso-cast-to-visit-white-house-to-promote-mental-health?utm_medium=rss)
- - [How open source intelligence, or OSINT, researchers are using public data to untangle the mystery of the Nord Stream pipeline sabotage, helping debunk claims &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230320/p4#a230320p4)<!-- TECH:END -->
+ - [Taiwan&#39;s Ministry of Finance data: chip exports to China and Hong Kong fell 31.3% YoY in February, the worst decline since 2009 and above January&#39;s 27.1% fall &lpar;Yoshihiro Sato/Bloomberg&rpar;](http://www.techmeme.com/230320/p7#a230320p7)
+ - [How to get Apple&#39;s 30-inch Cinema Display to work on a modern Mac](https://appleinsider.com/inside/mac/tips/how-to-get-apples-30-inch-cinema-display-to-work-on-a-modern-mac?utm_medium=rss)
+ - [Kremlin says nyet to iPhone ahead of presidential election](https://appleinsider.com/articles/23/03/20/kremlin-says-nyet-to-iphone-ahead-of-presidential-election?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
