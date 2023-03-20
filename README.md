@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the cosmic horrors beyond human comprehension](http://9gag.com/gag/ay23d8r)
- - 🚯 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)
- - 🚯 [I wish it wasn&#39;t true...](http://9gag.com/gag/a7qO7Mb)<!-- MEMES:END -->
+ - 🚖 [Uber driver lady](http://9gag.com/gag/a6qXm6A)
+ - 🚯 [Emotional damage](http://9gag.com/gag/aZD1PjV)
+ - 🚯 [This is a day she will never forget](http://9gag.com/gag/a8q6j7p)<!-- MEMES:END -->
 
 --- 
 
