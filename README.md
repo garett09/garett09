@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the cosmic horrors beyond human comprehension](http://9gag.com/gag/ay23d8r)
- - 🚯 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)
- - 🚯 [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)<!-- MEMES:END -->
+ - 🚖 [Its cool and legal](http://9gag.com/gag/aDY6jMO)
+ - 🚯 [Hidden away in the highlands of Papua New Guinea....](http://9gag.com/gag/aDY6jMd)
+ - 🚯 [This is my guy](http://9gag.com/gag/awZ3VVQ)<!-- MEMES:END -->
 
 --- 
 
