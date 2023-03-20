@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tchia review](https://www.pcgamer.com/tchia-review)
- - [Five Tchia features to become the ultimate adventurer](https://blog.playstation.com/2023/03/20/five-tchia-features-to-become-the-ultimate-adventurer/)
- - [Tchia stands on the shoulders of Zelda — then leaps off](https://www.polygon.com/reviews/23645683/tchia-review-action-adventure-zelda-open-world)<!-- GAME:END -->
+ - [Some 8BitDo controllers now work with iPhone, iPad, Mac, and Apple TV](https://www.polygon.com/23648539/8bitdo-controller-apple-ios-ipad-support-update)
+ - [Modder creates tribute to their Elder Scrolls-loving mum so &#39;she can live on in every adventure I take in Tamriel&#39;](https://www.pcgamer.com/modder-creates-tribute-to-their-elder-scrolls-loving-mum-so-she-can-live-on-in-every-adventure-i-take-in-tamriel)
+ - [Sonic Frontiers’ free DLC is coming to tickle your Sonic Adventure nostalgia](https://www.polygon.com/23648491/sonic-frontiers-free-dlc-adventure-jukebox-photo-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
