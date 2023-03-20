@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hidden away in the highlands of Papua New Guinea....](http://9gag.com/gag/aDY6jMd)
+ - 🚖 [Who is the last one](http://9gag.com/gag/arm3R8p)
  - 🚯 [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)
- - 🚯 [No more](http://9gag.com/gag/aL1zDKx)<!-- MEMES:END -->
+ - 🚯 [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)<!-- MEMES:END -->
 
 --- 
 
