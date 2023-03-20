@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People who know vs People who doesn&#39;t know](http://9gag.com/gag/aDY6Ggx)
- - 🚯 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
- - 🚯 [Its London Boys](http://9gag.com/gag/aKEA35Q)<!-- MEMES:END -->
+ - 🚖 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
+ - 🚯 [Tonight&#39;s gonna be great](http://9gag.com/gag/a3Z5dv7)
+ - 🚯 [Diversity](http://9gag.com/gag/abv1y88)<!-- MEMES:END -->
 
 --- 
 
