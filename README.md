@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan&#39;s Ministry of Finance data: chip exports to China and Hong Kong fell 31.3% YoY in February, the worst decline since 2009 and above January&#39;s 27.1% fall &lpar;Yoshihiro Sato/Bloomberg&rpar;](http://www.techmeme.com/230320/p7#a230320p7)
- - [How to get Apple&#39;s 30-inch Cinema Display to work on a modern Mac](https://appleinsider.com/inside/mac/tips/how-to-get-apples-30-inch-cinema-display-to-work-on-a-modern-mac?utm_medium=rss)
- - [Kremlin says nyet to iPhone ahead of presidential election](https://appleinsider.com/articles/23/03/20/kremlin-says-nyet-to-iphone-ahead-of-presidential-election?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Edge vs Google Chrome: Is it finally time to switch browsers?](https://www.androidauthority.com/chrome-vs-edge-3298624/)
+ - [Runway, which helped create Stable Diffusion, announces its Gen 2 system to generate three second snippets of video from prompt words, available via a waitlist &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230320/p8#a230320p8)
+ - [I really want a ChatGPT-like voice assistant in my Google Nest speakers](https://www.androidauthority.com/chatgpt-voice-assistant-nest-smart-speakers-3298982/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
