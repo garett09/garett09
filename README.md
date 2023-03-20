@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Doom mod of the year just dropped in a mysterious forum post, and goes so hard we don&#39;t even want to spoil what comes next](https://www.pcgamer.com/the-doom-mod-of-the-year-just-dropped-in-a-mysterious-forum-post-and-goes-so-hard-we-dont-even-want-to-spoil-what-comes-next)
- - [Where to find all Diablo 4 dungeons](https://www.pcgamer.com/diablo-4-dungeon-locations)
- - [Outer Wilds’ excellent soundtrack is getting a vinyl repress](https://www.polygon.com/deals/23648298/outer-wilds-soundtrack-vinyl-repress-double-lp)<!-- GAME:END -->
+ - [Tchia review](https://www.pcgamer.com/tchia-review)
+ - [Five Tchia features to become the ultimate adventurer](https://blog.playstation.com/2023/03/20/five-tchia-features-to-become-the-ultimate-adventurer/)
+ - [Tchia stands on the shoulders of Zelda — then leaps off](https://www.polygon.com/reviews/23645683/tchia-review-action-adventure-zelda-open-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
