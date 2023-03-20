@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My gf is my left Hand](http://9gag.com/gag/aL1zB9z)
+ - 🚖 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)
  - 🚯 [Wait... What?](http://9gag.com/gag/amA1r5V)
- - 🚯 [Who is the last one](http://9gag.com/gag/arm3R8p)<!-- MEMES:END -->
+ - 🚯 [Choose your fighter](http://9gag.com/gag/aMEBrZ6)<!-- MEMES:END -->
 
 --- 
 
