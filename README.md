@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When Colleges Offer Coding Boot Camp, Students Can Get a Raw Deal](https://www.wired.com/story/when-colleges-offer-coding-boot-camp-students-can-get-a-raw-deal/)
- - [Daily Authority: 🔐 Pixel’s ‘Acropalypse’ security flaw](https://www.androidauthority.com/daily-authority-march-20-2023-3300003/)
- - [China&#39;s anti-graft watchdog begins to investigate ex-Tsinghua Unigroup Chairman Zhao Weiguo, the latest executive to be ensnared in its chip corruption dragnet &lpar;Bloomberg&rpar;](http://www.techmeme.com/230320/p3#a230320p3)<!-- TECH:END -->
+ - [An interview with Sam Altman on OpenAI&#39;s GPT-4, how &quot;people should be happy&quot; that OpenAI is a &quot;little bit scared of&quot; its tools, misinformation, rivals, and more &lpar;ABC News&rpar;](http://www.techmeme.com/230320/p5#a230320p5)
+ - [Apple TV+ &#39;Ted Lasso&#39; cast to visit White House to promote mental health](https://appleinsider.com/articles/23/03/20/apple-tv-ted-lasso-cast-to-visit-white-house-to-promote-mental-health?utm_medium=rss)
+ - [How open source intelligence, or OSINT, researchers are using public data to untangle the mystery of the Nord Stream pipeline sabotage, helping debunk claims &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230320/p4#a230320p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
