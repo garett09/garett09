@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)
- - 🚯 [Wait... What?](http://9gag.com/gag/amA1r5V)
- - 🚯 [Choose your fighter](http://9gag.com/gag/aMEBrZ6)<!-- MEMES:END -->
+ - 🚖 [Father reflex or the year](http://9gag.com/gag/aVboDK8)
+ - 🚯 [Looks important...](http://9gag.com/gag/aVboWEK)
+ - 🚯 [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)<!-- MEMES:END -->
 
 --- 
 
