@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Windows 11 apps may soon annoy us with more notifications](https://www.pcgamer.com/windows-11-apps-may-soon-annoy-us-with-more-notifications)
  - [Wordle hint and answer #639: Monday, March 20](https://www.pcgamer.com/wordle-hint-answer-today-639-march-20)
- - [Return to Silent Hill movie casts its stars, promises &#39;iconic monsters&#39; and &#39;new designs&#39;](https://www.pcgamer.com/return-to-silent-hill-movie-casts-its-stars-promises-iconic-monsters-and-new-designs)
- - [256GB Quest 2 VR headsets are $70 off](https://www.pcgamer.com/256gb-quest-2-vr-headsets-are-dollar70-off)<!-- GAME:END -->
+ - [Return to Silent Hill movie casts its stars, promises &#39;iconic monsters&#39; and &#39;new designs&#39;](https://www.pcgamer.com/return-to-silent-hill-movie-casts-its-stars-promises-iconic-monsters-and-new-designs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
