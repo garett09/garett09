@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not my f*cking job!](http://9gag.com/gag/aKEA2wb)
- - 🚯 [I love her sense of humour](http://9gag.com/gag/a7qOymr)
- - 🚯 [This is my guy](http://9gag.com/gag/awZ3VVQ)<!-- MEMES:END -->
+ - 🚖 [When the cosmic horrors beyond human comprehension](http://9gag.com/gag/ay23d8r)
+ - 🚯 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)
+ - 🚯 [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)<!-- MEMES:END -->
 
 --- 
 
