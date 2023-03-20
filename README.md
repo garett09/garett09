@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Choose your fighter](http://9gag.com/gag/aMEBrZ6)
- - 🚯 [Who is the last one](http://9gag.com/gag/arm3R8p)
+ - 🚖 [Excited group digging up a crystal](http://9gag.com/gag/az2djZz)
+ - 🚯 [Not my f*cking job!](http://9gag.com/gag/aKEA2wb)
  - 🚯 [Diversity](http://9gag.com/gag/abv1y88)<!-- MEMES:END -->
 
 --- 
