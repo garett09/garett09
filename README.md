@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 2 vs AirPods 2 vs AirPods 3: Which earbuds are the best for you?](https://www.androidauthority.com/apple-airpods-comparison-3297820/)
- - [Sources give an overview of the FTC&#39;s Amazon pursuit: considering challenging the $1.7B iRobot deal, retail antitrust case, dark pattern investigation, and more &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/230320/p12#a230320p12)
- - [The BBC is advising staff to remove TikTok from work phones](https://appleinsider.com/articles/23/03/20/the-bbc-is-advising-staff-to-remove-tiktok-from-work-phones?utm_medium=rss)<!-- TECH:END -->
+ - [The FDIC says it will break up SVB and hold two auctions for its traditional deposits unit and its private bank, after failing to find a buyer last week &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230320/p14#a230320p14)
+ - [Samsung expands OLED 4K TV lineup with two new series](https://appleinsider.com/articles/23/03/20/samsung-expands-oled-4k-tv-lineup-with-two-new-series?utm_medium=rss)
+ - [Sources: in 2021 the phone of a US and Greek national who worked on Meta&#39;s security and trust team was infected with Predator spyware, from an Athens-based firm &lpar;Matina Stevis-Gridneff/New York Times&rpar;](http://www.techmeme.com/230320/p13#a230320p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
