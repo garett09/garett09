@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I love her sense of humour](http://9gag.com/gag/a7qOymr)
- - 🚯 [Biodiversity in the garden](http://9gag.com/gag/anzRN6q)
- - 🚯 [Digimon &gt; Pokemon](http://9gag.com/gag/aeQ13DQ)<!-- MEMES:END -->
+ - 🚖 [Uber driver lady](http://9gag.com/gag/a6qXm6A)
+ - 🚯 [This is a day she will never forget](http://9gag.com/gag/a8q6j7p)
+ - 🚯 [I love her sense of humour](http://9gag.com/gag/a7qOymr)<!-- MEMES:END -->
 
 --- 
 
