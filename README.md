@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [JPMorgan CEO Vs Katie Porter - Please 9gag stop with the race and gender war bullshit, we need more posts about this stuff.](http://9gag.com/gag/a6qXL48)
- - 🚯 [Biodiversity in the garden](http://9gag.com/gag/anzRN6q)
- - 🚯 [I love her sense of humour](http://9gag.com/gag/a7qOymr)<!-- MEMES:END -->
+ - 🚖 [When was the real Putin, at speeches from the bunker or on yesterday&#39;s visit to Mariupol?](http://9gag.com/gag/a9q67W1)
+ - 🚯 [Uber driver lady](http://9gag.com/gag/a6qXm6A)
+ - 🚯 [Diversity](http://9gag.com/gag/abv1y88)<!-- MEMES:END -->
 
 --- 
 
