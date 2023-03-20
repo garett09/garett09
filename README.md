@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [When was the real Putin, at speeches from the bunker or on yesterday&#39;s visit to Mariupol?](http://9gag.com/gag/a9q67W1)
- - 🚯 [Uber driver lady](http://9gag.com/gag/a6qXm6A)
- - 🚯 [Diversity](http://9gag.com/gag/abv1y88)<!-- MEMES:END -->
+ - 🚯 [Diversity](http://9gag.com/gag/abv1y88)
+ - 🚯 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)<!-- MEMES:END -->
 
 --- 
 
