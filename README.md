@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 Fans Keep Making Uncanny Supermodel Babies After New Update](https://kotaku.com/sims-4-baby-cc-ea-mods-growing-together-1850247366)
- - [MLB The Show 23, Civ 6, and Guilty Gear Strive join Game Pass in March](https://www.polygon.com/23628780/xbox-game-pass-pc-march-2023-guilty-gear-strive-valheim)
- - [Every weekly quest in Fortnite Chapter 4 Season 2 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23639632/chapter-4-season-2-weekly-quests)<!-- GAME:END -->
+ - [Exoprimal hands-on: Fight swarms of dinosaurs with your friends](https://blog.playstation.com/2023/03/21/exoprimal-hands-on-fight-swarms-of-dinosaurs-with-your-friends/)
+ - [David Lynch knew how to make moments go viral before ‘going viral’ was a thing](https://www.polygon.com/23649229/inland-empire-criterion-david-lynch-blu-ray-release)
+ - [How to upgrade your healing potion in Diablo 4](https://www.pcgamer.com/diablo-4-healing-potion-upgrade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
