@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 Max MacBook Pro 16-inch with 96GB RAM is $250 off, in stock](https://appleinsider.com/articles/23/03/21/apples-m2-max-macbook-pro-16-inch-with-96gb-ram-is-250-off-in-stock?utm_medium=rss)
- - [An internal Microsoft document tells Azure salespeople to say that OpenAI&#39;s licenses offer &quot;limited enterprise-grade capabilities&quot; and weaker privacy features &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230321/p24#a230321p24)
- - [Jabra’s $99 Elite 4 earbuds come with active noise cancellation](https://www.theverge.com/2023/3/21/23650072/jabra-elite-4-earbuds-active-noise-cancellation-multipoint)<!-- TECH:END -->
+ - [Intel says Raja Koduri, who joined as Chief Architect in 2017, is leaving to found a startup focused on generative AI for gaming, media, and entertainment &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230321/p28#a230321p28)
+ - [Amazon is shutting down DPReview, the go-to camera reviews website](https://www.theverge.com/2023/3/21/23650286/amazon-dpreview-camera-site-shutdown-layoffs)
+ - [Apple seeds developer release candidate for iOS and iPadOS 16.4](https://appleinsider.com/articles/23/03/21/apple-seeds-fifth-developer-beta-for-ios-and-ipados-164?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
