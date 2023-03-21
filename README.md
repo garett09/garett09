@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)
- - 🚯 [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)
- - 🚯 [Relatable](http://9gag.com/gag/aMEBABA)<!-- MEMES:END -->
+ - 🚖 [Should we? Yes!](http://9gag.com/gag/a8q6jy1)
+ - 🚯 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)
+ - 🚯 [Oh ok](http://9gag.com/gag/aMEBwzG)<!-- MEMES:END -->
 
 --- 
 
