@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Father reflex or the year](http://9gag.com/gag/aVboDK8)
- - 🚯 [Imagine getting suspended for starting work early just to let the fire marshal into the building to make an inspection](http://9gag.com/gag/aRE43d5)
- - 🚯 [What if ... ?](http://9gag.com/gag/aeQ1eNB)<!-- MEMES:END -->
+ - 🚖 [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)
+ - 🚯 [How mercator projection deceives you.](http://9gag.com/gag/aeQ1bzO)
+ - 🚯 [Go sports!](http://9gag.com/gag/aRE4jL2)<!-- MEMES:END -->
 
 --- 
 
