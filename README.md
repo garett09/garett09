@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Rolls Out its Bard Chatbot to Battle ChatGPT](https://www.wired.com/story/google-bard-chatbot-rolls-out-to-battle-chatgpt/)
- - [8 Best Tents &lpar;2023&rpar;: Backpacking, Family, and Ultralight](https://www.wired.com/gallery/best-camping-tents/)
- - [Google says its Bard chatbot isn’t a search engine — so what is it?](https://www.theverge.com/23649897/google-bard-chatbot-search-engine)<!-- TECH:END -->
+ - [Instead of myopically fixating on TikTok, the US should pass a real privacy law to regulate data brokers, who offer anyone info on US citizens, including China &lpar;Karl Bode/Techdirt&rpar;](http://www.techmeme.com/230321/p19#a230321p19)
+ - [Sony Xperia 5 IV review: Pocket photography powerhouse](https://www.androidauthority.com/sony-xperia-5-iv-review-3213535/)
+ - [eToro secures $250M at a $3.5B valuation via an Advanced Investment Agreement signed in 2021, after scrapping its SPAC plans in 2022 amid slowing growth &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230321/p18#a230321p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
