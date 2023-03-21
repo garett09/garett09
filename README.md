@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Should we? Yes!](http://9gag.com/gag/a8q6jy1)
- - 🚯 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)
- - 🚯 [Oh ok](http://9gag.com/gag/aMEBwzG)<!-- MEMES:END -->
+ - 🚖 [Its London Boys](http://9gag.com/gag/aKEA35Q)
+ - 🚯 [What if ... ?](http://9gag.com/gag/aeQ1eNB)
+ - 🚯 [This is my guy](http://9gag.com/gag/awZ3VVQ)<!-- MEMES:END -->
 
 --- 
 
