@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The big March 2023 update is finally here for the Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
- - [Google is finally fixing the pesky Pixel Watch alarm problem](https://www.androidauthority.com/pixel-watch-alarm-issue-fixed-3293027/)
- - [Filing: Google denies intentionally destroying evidence in the US antitrust lawsuit over its search business, in a response to the DOJ&#39;s bid for court sanctions &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/230321/p1#a230321p1)<!-- TECH:END -->
+ - [The Scorched-Earth Tactics of Iran’s Cyber Army](https://www.wired.com/story/iran-cyber-army-protests-disinformation/)
+ - [Sources: China is giving its most successful chipmakers, including SMIC, Huawei, and Hua Hong, easier subsidy access and more control over state-backed research &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/230321/p2#a230321p2)
+ - [Pixel 8 Pro could borrow a Pixel 7 Pro camera trick to improve low-light shots](https://www.androidauthority.com/pixel-8-pro-night-sight-camera-feature-3300468/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
