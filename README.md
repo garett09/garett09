@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases the Highly Versatile Antonov An-2 Aircraft](https://news.xbox.com/en-us/2023/03/21/microsoft-flight-simulator-antonov-an-2-aircraft/)
- - [Mirror&#39;s Edge and Bad Company 2 are being removed from sale forever](https://www.pcgamer.com/mirrors-edge-and-bad-company-2-are-being-removed-from-sale-forever)
- - [Diablo IV Classes Won&#39;t Always Feel Balanced, Blizzard Says](https://kotaku.com/diablo-4-beta-rogue-barbarian-sorcerer-class-balance-1850248865)<!-- GAME:END -->
+ - [How Microsoft Flight Simulator is Keeping a Ukrainian Dream Alive](https://news.xbox.com/en-us/2023/03/21/microsoft-flight-simulator-keeping-ukrainian-dream-alive/)
+ - [X-Men’s best throwaway character returns to destroy mutant government](https://www.polygon.com/23648345/marvel-x-men-sins-of-sinister-rasputin)
+ - [Criterion is having a 50% off sale on DVDs, 4K Blu-rays, and collections](https://www.polygon.com/deals/2023/3/21/23650524/criterion-collection-sale-dvd-blu-ray-4k-films)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
