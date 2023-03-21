@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its London Boys](http://9gag.com/gag/aKEA35Q)
- - 🚯 [What if ... ?](http://9gag.com/gag/aeQ1eNB)
- - 🚯 [This is my guy](http://9gag.com/gag/awZ3VVQ)<!-- MEMES:END -->
+ - 🚖 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
+ - 🚯 [Craving for lollipop](http://9gag.com/gag/aYVEwdO)
+ - 🚯 [What if ... ?](http://9gag.com/gag/aeQ1eNB)<!-- MEMES:END -->
 
 --- 
 
