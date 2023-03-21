@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Microsoft Flight Simulator is Keeping a Ukrainian Dream Alive](https://news.xbox.com/en-us/2023/03/21/microsoft-flight-simulator-keeping-ukrainian-dream-alive/)
- - [X-Men’s best throwaway character returns to destroy mutant government](https://www.polygon.com/23648345/marvel-x-men-sins-of-sinister-rasputin)
- - [Criterion is having a 50% off sale on DVDs, 4K Blu-rays, and collections](https://www.polygon.com/deals/2023/3/21/23650524/criterion-collection-sale-dvd-blu-ray-4k-films)<!-- GAME:END -->
+ - [Start Your Kingdom Today in Ni no Kuni II: Revenant Kingdom – The Prince’s Edition on Xbox Game Pass](https://news.xbox.com/en-us/2023/03/21/ni-no-kuni-ii-revenant-kingdom-xbox-game-pass/)
+ - [Blizzard addresses Diablo 4 beta test complaints: This was not a &#39;marketing beta&#39;](https://www.pcgamer.com/blizzard-addresses-diablo-4-beta-test-complaints-this-was-not-a-marketing-beta)
+ - [Butters from South Park is getting the hero edit on TikTok](https://www.polygon.com/23650283/south-park-butters-tiktok-edits-trend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
