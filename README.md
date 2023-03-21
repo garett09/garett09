@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IFPI report: subscription audio streaming revenue grew 10.3% to $12.7B in 2022, which ended with 589M paid subscribers; total streaming grew 11.5% YoY to $17.5B &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/230321/p33#a230321p33)
- - [Best Portable Mini Bluetooth Speakers for 2023: Top Compact Waterproof Wireless Speakers     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)
- - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [Instagram is testing ads in search results, with plans for a global rollout in the coming months, and launches Reminder Ads, for opt-in reminders about events &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230321/p36#a230321p36)
+ - [OpenAI may have tested GPT-4 on its training data, violating the cardinal rule of ML, and GPT-4&#39;s exam performance says little about its real-world usefulness &lpar;AI Snake Oil&rpar;](http://www.techmeme.com/230321/p35#a230321p35)
+ - [China’s Answer to ChatGPT Flubs Its First Lines](https://www.wired.com/story/chinas-answer-to-chatgpt-flubs-its-first-lines/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
