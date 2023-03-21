@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How deep was Deus Ex&#39;s simulation? A literal piece of paper could set off a laser trap](https://www.pcgamer.com/how-deep-was-deus-exs-simulation-a-literal-piece-of-paper-could-set-off-a-laser-trap)
- - [It turns out sorting boxes in the sterilized corporate afterscape is actually really fun](https://www.pcgamer.com/it-turns-out-sorting-boxes-in-the-sterilized-corporate-afterscape-is-actually-really-fun)
- - [Diablo 4 convinced me that skill trees rule, actually](https://www.pcgamer.com/diablo-4-convinced-me-that-skill-trees-rule-actually)<!-- GAME:END -->
+ - [The Sims Is Getting Some Competition From Paradox](https://kotaku.com/the-sims-life-by-you-paradox-life-pc-steam-epic-reveal-1850246298)
+ - [Pokémon Go Spotlight Hour: Can Litten be shiny?](https://www.polygon.com/pokemon-go-guide/23648403/can-litten-be-shiny-spotlight-hour-march)
+ - [How deep was Deus Ex&#39;s simulation? A literal piece of paper could set off a laser trap](https://www.pcgamer.com/how-deep-was-deus-exs-simulation-a-literal-piece-of-paper-could-set-off-a-laser-trap)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
