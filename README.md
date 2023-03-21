@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn paying more &amp; getting less than expected with new India plant](https://appleinsider.com/articles/23/03/21/foxconn-paying-more-getting-less-than-expected-with-new-india-plant?utm_medium=rss)
- - [Lucyd Bluetooth Sunglasses Review: Bluetooth Shades](https://www.wired.com/review/lucyd-2-bluetooth-sunglasses/)
- - [A year after its Staten Island win, the Amazon Labor Union has endured setbacks and conflicts, including between president Chris Smalls and longtime organizers &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/230321/p10#a230321p10)<!-- TECH:END -->
+ - [Jabra&#39;s new Elite 4 earbuds offer clarity in noisy environments](https://appleinsider.com/articles/23/03/21/jabras-new-elite-4-earbuds-offer-clarity-in-noisy-environments?utm_medium=rss)
+ - [Jabra Elite 4 review: Budget buds that are best for Android users](https://www.androidauthority.com/jabra-elite-4-review-3299602/)
+ - [You’re Thinking About ‘Life’ All Wrong](https://www.wired.com/story/life-philosophy-bioethics/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
