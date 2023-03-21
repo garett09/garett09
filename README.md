@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple lobbied for changes to India&#39;s labor law in the Tamil Nadu state, where Foxconn has its largest iPhone plant, to help expand local production &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230321/p8#a230321p8)
- - [Should you buy the Google Pixel 6a right now, or wait for the Pixel 7a?](https://www.androidauthority.com/google-pixel-6a-vs-google-pixel-7a-3299999/)
- - [Orico 2.5-inch hard drive enclosure review: affordable and cool storage](https://appleinsider.com/articles/23/03/21/orico-25-inch-hard-drive-enclosure-review-affordable-and-cool-storage?utm_medium=rss)<!-- TECH:END -->
+ - [Foxconn paying more &amp; getting less than expected with new India plant](https://appleinsider.com/articles/23/03/21/foxconn-paying-more-getting-less-than-expected-with-new-india-plant?utm_medium=rss)
+ - [Lucyd Bluetooth Sunglasses Review: Bluetooth Shades](https://www.wired.com/review/lucyd-2-bluetooth-sunglasses/)
+ - [A year after its Staten Island win, the Amazon Labor Union has endured setbacks and conflicts, including between president Chris Smalls and longtime organizers &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/230321/p10#a230321p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
