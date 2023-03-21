@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who is the last one](http://9gag.com/gag/arm3R8p)
- - 🚯 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
- - 🚯 [On this day 20 years ago, U.S. and Coalition Forces launched an all out bombing on Baghdad, Iraq in the middle of the night.](http://9gag.com/gag/aeQ1p7W)<!-- MEMES:END -->
+ - 🚖 [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)
+ - 🚯 [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)
+ - 🚯 [Looks important...](http://9gag.com/gag/aVboWEK)<!-- MEMES:END -->
 
 --- 
 
