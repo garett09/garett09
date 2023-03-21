@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Learn your Crash Team Rumble character role, beta launches April 20](https://blog.playstation.com/2023/03/21/learn-your-crash-team-rumble-character-role-beta-launches-april-20/)
- - [Gain Outstanding Rewards in Hit Games this March Through EA Play](https://news.xbox.com/en-us/2023/03/21/gain-outstanding-rewards-in-hit-games-this-march-through-ea-play/)
- - [EA pulling Battlefield: Bad Company games, Mirror’s Edge from stores](https://www.polygon.com/23650306/battlefield-bad-company-1943-servers-mirrors-edge-offline)<!-- GAME:END -->
+ - [Twitch Star Hasan Gives $25k So Shelter Dogs Find Forever Families](https://kotaku.com/twitch-hasan-piker-hasanabi-dog-animal-shelter-donation-1850248636)
+ - [Crash Bandicoot Heads in a New and Unexpected Direction with Crash Team Rumble, Available for Pre-Order Today](https://news.xbox.com/en-us/2023/03/21/crash-team-rumble-available-for-pre-order-today/)
+ - [The best accessories for your Xbox Series X](https://www.polygon.com/what-to-buy/23604803/best-xbox-series-x-s-accessories)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
