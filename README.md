@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is testing ads in search results, with plans for a global rollout in the coming months, and launches Reminder Ads, for opt-in reminders about events &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230321/p36#a230321p36)
- - [OpenAI may have tested GPT-4 on its training data, violating the cardinal rule of ML, and GPT-4&#39;s exam performance says little about its real-world usefulness &lpar;AI Snake Oil&rpar;](http://www.techmeme.com/230321/p35#a230321p35)
- - [China’s Answer to ChatGPT Flubs Its First Lines](https://www.wired.com/story/chinas-answer-to-chatgpt-flubs-its-first-lines/)<!-- TECH:END -->
+ - [GP Bullhound: European tech startups raised &amp;euro;30.5B in debt in 2022, up from &amp;euro;15.9B in 2021, as the global tech slump made raising new equity more difficult &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230321/p37#a230321p37)
+ - [Future Apple Watches could automatically accessorize with their bands](https://www.theverge.com/2023/3/21/23650501/apple-watch-nfc-band-color-matching-patent)
+ - [Instagram has started putting ads in search results](https://www.theverge.com/2023/3/21/23650766/instagram-ads-search-results-feeds)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
