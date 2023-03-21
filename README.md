@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How coworkers do their job](http://9gag.com/gag/aKEAVmg)
- - 🚯 [Relatable](http://9gag.com/gag/aMEBABA)
- - 🚯 [Save the killer whale](http://9gag.com/gag/aRE4K0A)<!-- MEMES:END -->
+ - 🚖 [Wow, just wow](http://9gag.com/gag/a8q6oGe)
+ - 🚯 [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)
+ - 🚯 [No more](http://9gag.com/gag/aL1zDKx)<!-- MEMES:END -->
 
 --- 
 
