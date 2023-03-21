@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who is the last one](http://9gag.com/gag/arm3R8p)
- - 🚯 [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)
- - 🚯 [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)<!-- MEMES:END -->
+ - 🚖 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
+ - 🚯 [How mercator projection deceives you.](http://9gag.com/gag/aeQ1bzO)
+ - 🚯 [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)<!-- MEMES:END -->
 
 --- 
 
