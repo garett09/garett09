@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Love Technology Again](https://www.wired.com/story/hardware-issue-how-to-love-technology-again/)
- - [I Saw the Face of God in a TSMC Semiconductor Factory](https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/)
- - [Google rolls out a Pixel Watch update, two weeks later than expected, including fixing a Clock app bug that delayed alarms and adding Fall Detection &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230321/p6#a230321p6)<!-- TECH:END -->
+ - [Sources: Apple lobbied for changes to India&#39;s labor law in the Tamil Nadu state, where Foxconn has its largest iPhone plant, to help expand local production &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230321/p8#a230321p8)
+ - [Should you buy the Google Pixel 6a right now, or wait for the Pixel 7a?](https://www.androidauthority.com/google-pixel-6a-vs-google-pixel-7a-3299999/)
+ - [Orico 2.5-inch hard drive enclosure review: affordable and cool storage](https://appleinsider.com/articles/23/03/21/orico-25-inch-hard-drive-enclosure-review-affordable-and-cool-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
