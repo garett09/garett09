@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy 68th birthday to Bruce fuc*ing Willis](http://9gag.com/gag/aA06D80)
- - 🚯 [What if ... ?](http://9gag.com/gag/aeQ1eNB)
- - 🚯 [Just kept getting better](http://9gag.com/gag/aBd6WyP)<!-- MEMES:END -->
+ - 🚖 [....so I became a crossword puzzle](http://9gag.com/gag/az2d91z)
+ - 🚯 [Hidden away in the highlands of Papua New Guinea....](http://9gag.com/gag/aDY6jMd)
+ - 🚯 [What if ... ?](http://9gag.com/gag/aeQ1eNB)<!-- MEMES:END -->
 
 --- 
 
