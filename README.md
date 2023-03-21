@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maryland-based identity management startup Aembit launches its service on Monday and announces a $16.6M seed from Ballistic Ventures and Ten Eleven Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230320/p20#a230320p20)
- - [Is Apple about to announce a &#39;Broadcast&#39; App?](https://appleinsider.com/articles/23/03/20/is-apple-about-to-announce-a-broadcast-app?utm_medium=rss)
- - [TikTok announces its video app has 150M MAUs in the US, up from 100M MAUs in August 2020; in September 2021, TikTok reported 1B+ MAUs globally &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230320/p19#a230320p19)<!-- TECH:END -->
+ - [Study: GPT models and related technologies could seriously affect ~19% of workers in the US, with higher-income jobs potentially facing greater exposure &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230320/p21#a230320p21)
+ - [PlayStation Plus Deals: Save Cash on Sony&#39;s Gaming Subscription     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [Zack Snyder teases ‘ridiculous scale’ RPG set in the universe of his new Netflix film](https://www.theverge.com/2023/3/20/23649237/zack-snyder-rebel-moon-rpg-ridiculous-scale-netflix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
