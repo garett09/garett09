@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
- - 🚯 [Craving for lollipop](http://9gag.com/gag/aYVEwdO)
- - 🚯 [What if ... ?](http://9gag.com/gag/aeQ1eNB)<!-- MEMES:END -->
+ - 🚖 [How coworkers do their job](http://9gag.com/gag/aKEAVmg)
+ - 🚯 [Relatable](http://9gag.com/gag/aMEBABA)
+ - 🚯 [Save the killer whale](http://9gag.com/gag/aRE4K0A)<!-- MEMES:END -->
 
 --- 
 
