@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wow, just wow](http://9gag.com/gag/a8q6oGe)
- - 🚯 [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)
- - 🚯 [No more](http://9gag.com/gag/aL1zDKx)<!-- MEMES:END -->
+ - 🚖 [Why not](http://9gag.com/gag/adP1j7B)
+ - 🚯 [Wow, just wow](http://9gag.com/gag/a8q6oGe)
+ - 🚯 [Happy 68th birthday to Bruce fuc*ing Willis](http://9gag.com/gag/aA06D80)<!-- MEMES:END -->
 
 --- 
 
