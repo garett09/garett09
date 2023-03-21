@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 MFi requirements to drive USB-C charger demand](https://appleinsider.com/articles/23/03/21/iphone-15-mfi-requirements-to-drive-usb-c-charger-demand?utm_medium=rss)
- - [Singapore-based Reebelo, a marketplace for pre-owned smartphones, tablets, and more, raised a $29M Series A extension, bringing its Series A total to ~$50M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230320/p23#a230320p23)
- - [iPhone display orders decline 39% year-over-year](https://appleinsider.com/articles/23/03/21/iphone-display-orders-decline-39-year-over-year?utm_medium=rss)<!-- TECH:END -->
+ - [Google suspends Pinduoduo&#39;s app on the Play Store &quot;for security concerns&quot; and flags several Pinduoduo apps as malware, alerting users who had them installed &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230320/p25#a230320p25)
+ - [Global premium smartphone sales rose 1% YoY in 2022, taking 50%+ of the smartphone market&#39;s revenue for the first time; Apple took 75% of the premium market &lpar;Varun Mishra/Counterpoint Research&rpar;](http://www.techmeme.com/230320/p24#a230320p24)
+ - [Best 15-Inch Gaming and Work Laptop for 2023     - CNET](https://www.cnet.com/tech/computing/best-15-inch-laptop-gaming-and-work-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
