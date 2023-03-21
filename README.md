@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instead of myopically fixating on TikTok, the US should pass a real privacy law to regulate data brokers, who offer anyone info on US citizens, including China &lpar;Karl Bode/Techdirt&rpar;](http://www.techmeme.com/230321/p19#a230321p19)
- - [Sony Xperia 5 IV review: Pocket photography powerhouse](https://www.androidauthority.com/sony-xperia-5-iv-review-3213535/)
- - [eToro secures $250M at a $3.5B valuation via an Advanced Investment Agreement signed in 2021, after scrapping its SPAC plans in 2022 amid slowing growth &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230321/p18#a230321p18)<!-- TECH:END -->
+ - [NVIDIA unveils a cuLitho software library for computational lithography, or creating patterns for silicon wafers, and says TSMC, ASML, and others signed on &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230321/p22#a230321p22)
+ - [Future Apple Watch bands could automatically launch apps or change face](https://appleinsider.com/articles/23/03/21/future-apple-watch-bands-could-automatically-launch-apps-or-change-face?utm_medium=rss)
+ - [ChatGPT watch out: You can now chat to Google Bard](https://appleinsider.com/articles/23/03/21/chatgpt-watch-out-you-can-now-chat-to-google-bard?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
