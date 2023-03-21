@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
- - [Windows 11 Snipping Tool appears to have a vulnerability similar to Pixel phones&#39; &quot;aCropalypse&quot;, which can reveal sensitive info in some edited screenshots &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/230321/p32#a230321p32)
- - [SpaceX’s Starlink and other satellite internet providers are making light pollution worse for astronomers](https://www.theverge.com/2023/3/21/23649937/starlink-spacex-satellite-light-pollution-nature-astronomy)<!-- TECH:END -->
+ - [IFPI report: subscription audio streaming revenue grew 10.3% to $12.7B in 2022, which ended with 589M paid subscribers; total streaming grew 11.5% YoY to $17.5B &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/230321/p33#a230321p33)
+ - [Best Portable Mini Bluetooth Speakers for 2023: Top Compact Waterproof Wireless Speakers     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)
+ - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
