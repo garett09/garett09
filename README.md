@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI temporarily shut down ChatGPT after a bug let some users see the titles of other users&#39; chat histories; some chat histories are still missing &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230321/p4#a230321p4)
- - [Meta Is Being Sued in Kenya, Again](https://www.wired.com/story/meta-is-being-sued-in-kenya-again/)
- - [A case for slowing down AI due to existential and bias risks, despite objections like its alleged inevitability and the AI arms race with China &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/230321/p3#a230321p3)<!-- TECH:END -->
+ - [How to Love Technology Again](https://www.wired.com/story/hardware-issue-how-to-love-technology-again/)
+ - [I Saw the Face of God in a TSMC Semiconductor Factory](https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/)
+ - [Google rolls out a Pixel Watch update, two weeks later than expected, including fixing a Clock app bug that delayed alarms and adding Fall Detection &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230321/p6#a230321p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
