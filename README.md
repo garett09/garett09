@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NVIDIA unveils a cuLitho software library for computational lithography, or creating patterns for silicon wafers, and says TSMC, ASML, and others signed on &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230321/p22#a230321p22)
- - [Future Apple Watch bands could automatically launch apps or change face](https://appleinsider.com/articles/23/03/21/future-apple-watch-bands-could-automatically-launch-apps-or-change-face?utm_medium=rss)
- - [ChatGPT watch out: You can now chat to Google Bard](https://appleinsider.com/articles/23/03/21/chatgpt-watch-out-you-can-now-chat-to-google-bard?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s M2 Max MacBook Pro 16-inch with 96GB RAM is $250 off, in stock](https://appleinsider.com/articles/23/03/21/apples-m2-max-macbook-pro-16-inch-with-96gb-ram-is-250-off-in-stock?utm_medium=rss)
+ - [An internal Microsoft document tells Azure salespeople to say that OpenAI&#39;s licenses offer &quot;limited enterprise-grade capabilities&quot; and weaker privacy features &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230321/p24#a230321p24)
+ - [Jabra’s $99 Elite 4 earbuds come with active noise cancellation](https://www.theverge.com/2023/3/21/23650072/jabra-elite-4-earbuds-active-noise-cancellation-multipoint)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
