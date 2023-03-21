@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ferrari held to ransom as client database hacked](https://www.pcgamer.com/ferrari-held-to-ransom-as-client-database-hacked)
- - [Over a million Diablo 4 players picked up a puppy last weekend, and you&#39;ve still got one more shot](https://www.pcgamer.com/over-a-million-diablo-4-players-picked-up-a-puppy-last-weekend-and-youve-still-got-one-more-shot)
- - [Pokémon Go Ditto disguises list for March 2023](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)<!-- GAME:END -->
+ - [15 hidden gems to grab before the end of the Steam Spring Sale](https://www.pcgamer.com/steam-spring-sale-2023-hidden-gems)
+ - [Coming to Xbox Game Pass: MLB The Show 23 and Infinite Guitars](https://news.xbox.com/en-us/2023/03/21/game-pass-march-2023-wave-2-announce/)
+ - [How Grand Theft Auto, Zelda, and a Southwest Pacific nation inspired Tchia](https://www.polygon.com/zelda/23649250/tchia-zelda-grand-theft-auto-gta-inspiration)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
