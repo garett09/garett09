@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s called jugging guys, it&#39;s just a quirky little game. All the kids are playing it.](http://9gag.com/gag/aA06Do0)
- - 🚯 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
- - 🚯 [John wick 4 behind the scene](http://9gag.com/gag/a8q6pZQ)<!-- MEMES:END -->
+ - 🚖 [Look who&#39;s back &lpar;2015&rpar;](http://9gag.com/gag/a9q6Wx0)
+ - 🚯 [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)
+ - 🚯 [Relatable](http://9gag.com/gag/aMEBABA)<!-- MEMES:END -->
 
 --- 
 
