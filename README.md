@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel says Raja Koduri, who joined as Chief Architect in 2017, is leaving to found a startup focused on generative AI for gaming, media, and entertainment &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230321/p28#a230321p28)
- - [Amazon is shutting down DPReview, the go-to camera reviews website](https://www.theverge.com/2023/3/21/23650286/amazon-dpreview-camera-site-shutdown-layoffs)
- - [Apple seeds developer release candidate for iOS and iPadOS 16.4](https://appleinsider.com/articles/23/03/21/apple-seeds-fifth-developer-beta-for-ios-and-ipados-164?utm_medium=rss)<!-- TECH:END -->
+ - [The 12 Best Games on PlayStation Plus](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
+ - [The development of AI is as fundamental as the creation of the PC, the Internet, and the mobile phone and can reduce global inequities if risks are mitigated &lpar;Bill Gates/GatesNotes&rpar;](http://www.techmeme.com/230321/p30#a230321p30)
+ - [Ahead of Congressional Hearing, TikTok CEO Says 150M Americans Use the App     - CNET](https://www.cnet.com/tech/services-and-software/ahead-of-congressional-hearing-tiktok-ceo-says-150m-americans-use-the-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
