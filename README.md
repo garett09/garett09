@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why not](http://9gag.com/gag/adP1j7B)
- - 🚯 [Wow, just wow](http://9gag.com/gag/a8q6oGe)
- - 🚯 [Happy 68th birthday to Bruce fuc*ing Willis](http://9gag.com/gag/aA06D80)<!-- MEMES:END -->
+ - 🚖 [\ud83d\udd25 The result of a mother seal who gave birth when she saw that her baby, which she thought was dead, is alive](http://9gag.com/gag/aNw9YOK)
+ - 🚯 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
+ - 🚯 [Are you winning son? - You could not possibly understand](http://9gag.com/gag/aMEBjr6)<!-- MEMES:END -->
 
 --- 
 
