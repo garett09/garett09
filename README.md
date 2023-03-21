@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\ud83d\udd25 The result of a mother seal who gave birth when she saw that her baby, which she thought was dead, is alive](http://9gag.com/gag/aNw9YOK)
- - 🚯 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
- - 🚯 [Are you winning son? - You could not possibly understand](http://9gag.com/gag/aMEBjr6)<!-- MEMES:END -->
+ - 🚖 [Father reflex or the year](http://9gag.com/gag/aVboDK8)
+ - 🚯 [This is my guy](http://9gag.com/gag/awZ3VVQ)
+ - 🚯 [Emotional damage](http://9gag.com/gag/aEq62wN)<!-- MEMES:END -->
 
 --- 
 
