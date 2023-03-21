@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jabra&#39;s new Elite 4 earbuds offer clarity in noisy environments](https://appleinsider.com/articles/23/03/21/jabras-new-elite-4-earbuds-offer-clarity-in-noisy-environments?utm_medium=rss)
- - [Jabra Elite 4 review: Budget buds that are best for Android users](https://www.androidauthority.com/jabra-elite-4-review-3299602/)
- - [You’re Thinking About ‘Life’ All Wrong](https://www.wired.com/story/life-philosophy-bioethics/)<!-- TECH:END -->
+ - [Google Rolls Out its Bard Chatbot to Battle ChatGPT](https://www.wired.com/story/google-bard-chatbot-rolls-out-to-battle-chatgpt/)
+ - [8 Best Tents &lpar;2023&rpar;: Backpacking, Family, and Ultralight](https://www.wired.com/gallery/best-camping-tents/)
+ - [Google says its Bard chatbot isn’t a search engine — so what is it?](https://www.theverge.com/23649897/google-bard-chatbot-search-engine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
