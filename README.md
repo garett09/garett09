@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Had to learn it the hard way](http://9gag.com/gag/arm3RKV)
- - 🚯 [How mercator projection deceives you.](http://9gag.com/gag/aeQ1bzO)
- - 🚯 [Customer dies inside when Methany enters the hot dog shop](http://9gag.com/gag/aMEB8m1)<!-- MEMES:END -->
+ - 🚖 [Who is the last one](http://9gag.com/gag/arm3R8p)
+ - 🚯 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
+ - 🚯 [On this day 20 years ago, U.S. and Coalition Forces launched an all out bombing on Baghdad, Iraq in the middle of the night.](http://9gag.com/gag/aeQ1p7W)<!-- MEMES:END -->
 
 --- 
 
