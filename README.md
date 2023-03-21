@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)
- - 🚯 [How mercator projection deceives you.](http://9gag.com/gag/aeQ1bzO)
- - 🚯 [Go sports!](http://9gag.com/gag/aRE4jL2)<!-- MEMES:END -->
+ - 🚖 [Save it to never use it](http://9gag.com/gag/a4o6Gey)
+ - 🚯 [She Has No Sense Of Humour](http://9gag.com/gag/arm3oMd)
+ - 🚯 [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)<!-- MEMES:END -->
 
 --- 
 
