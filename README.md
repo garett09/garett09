@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: GPT models and related technologies could seriously affect ~19% of workers in the US, with higher-income jobs potentially facing greater exposure &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230320/p21#a230320p21)
- - [PlayStation Plus Deals: Save Cash on Sony&#39;s Gaming Subscription     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
- - [Zack Snyder teases ‘ridiculous scale’ RPG set in the universe of his new Netflix film](https://www.theverge.com/2023/3/20/23649237/zack-snyder-rebel-moon-rpg-ridiculous-scale-netflix)<!-- TECH:END -->
+ - [Singapore-based Reebelo, a marketplace for pre-owned smartphones, tablets, and more, raised a $29M Series A extension, bringing its Series A total to ~$50M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230320/p23#a230320p23)
+ - [iPhone display orders decline 39% year-over-year](https://appleinsider.com/articles/23/03/21/iphone-display-orders-decline-39-year-over-year?utm_medium=rss)
+ - [Stuck on Your Taxes? Here&#39;s How to Get Free Help     - CNET](https://www.cnet.com/personal-finance/taxes/stuck-on-your-taxes-heres-how-to-get-free-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
