@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Start Your Kingdom Today in Ni no Kuni II: Revenant Kingdom – The Prince’s Edition on Xbox Game Pass](https://news.xbox.com/en-us/2023/03/21/ni-no-kuni-ii-revenant-kingdom-xbox-game-pass/)
- - [Blizzard addresses Diablo 4 beta test complaints: This was not a &#39;marketing beta&#39;](https://www.pcgamer.com/blizzard-addresses-diablo-4-beta-test-complaints-this-was-not-a-marketing-beta)
- - [Butters from South Park is getting the hero edit on TikTok](https://www.polygon.com/23650283/south-park-butters-tiktok-edits-trend)<!-- GAME:END -->
+ - [Deceive Inc. – A Guide to All Four Sprawling Maps](https://news.xbox.com/en-us/2023/03/21/deceive-inc-a-guide/)
+ - [Shazam Star Begs To Be In The Last Of Us After Shazam 2 Bombs](https://kotaku.com/shazam-2-dc-star-zachary-levi-last-of-us-hbo-tweet-flop-1850249863)
+ - [Trump Hasn&#39;t Been Arrested But AI Images Keep Fooling People](https://kotaku.com/did-donald-trump-arrested-today-yet-news-ai-midjourney-1850249881)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
