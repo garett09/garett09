@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Exoprimal hands-on: Fight swarms of dinosaurs with your friends](https://blog.playstation.com/2023/03/21/exoprimal-hands-on-fight-swarms-of-dinosaurs-with-your-friends/)
- - [David Lynch knew how to make moments go viral before ‘going viral’ was a thing](https://www.polygon.com/23649229/inland-empire-criterion-david-lynch-blu-ray-release)
- - [How to upgrade your healing potion in Diablo 4](https://www.pcgamer.com/diablo-4-healing-potion-upgrade)<!-- GAME:END -->
+ - [The best action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)
+ - [Tactical RPG Miasma Chronicles launches on PS5 May 23](https://blog.playstation.com/2023/03/21/tactical-rpg-miasma-chronicles-launches-on-ps5-may-23/)
+ - [GDC 2023: Looking Back at 10 Years of ID@Xbox](https://news.xbox.com/en-us/2023/03/21/id-xbox-10-year-anniversary/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
