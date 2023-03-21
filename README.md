@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 12 Best Games on PlayStation Plus](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
- - [The development of AI is as fundamental as the creation of the PC, the Internet, and the mobile phone and can reduce global inequities if risks are mitigated &lpar;Bill Gates/GatesNotes&rpar;](http://www.techmeme.com/230321/p30#a230321p30)
- - [Ahead of Congressional Hearing, TikTok CEO Says 150M Americans Use the App     - CNET](https://www.cnet.com/tech/services-and-software/ahead-of-congressional-hearing-tiktok-ceo-says-150m-americans-use-the-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best laptop you can buy in 2023](https://www.theverge.com/21250695/best-laptops)
+ - [Windows 11 Snipping Tool appears to have a vulnerability similar to Pixel phones&#39; &quot;aCropalypse&quot;, which can reveal sensitive info in some edited screenshots &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/230321/p32#a230321p32)
+ - [SpaceX’s Starlink and other satellite internet providers are making light pollution worse for astronomers](https://www.theverge.com/2023/3/21/23649937/starlink-spacex-satellite-light-pollution-nature-astronomy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
