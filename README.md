@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Six Cool Details In The New Star Wars Jedi: Survivor Trailer](https://kotaku.com/star-wars-jedi-survivor-release-date-trailer-breakdown-1850245937)
- - [Star Wars Jedi: Survivor brings back the best thing about Rise of Skywalker](https://www.polygon.com/23648813/star-wars-jedi-survivor-klaud-rise-of-skywalker)
- - [Diablo 4 players react to the beta test: &#39;Seems to be Blizzard back in their old form&#39;](https://www.pcgamer.com/diablo-4-players-react-to-the-beta-test-seems-to-be-blizzard-back-in-their-old-form)<!-- GAME:END -->
+ - [How deep was Deus Ex&#39;s simulation? A literal piece of paper could set off a laser trap](https://www.pcgamer.com/how-deep-was-deus-exs-simulation-a-literal-piece-of-paper-could-set-off-a-laser-trap)
+ - [It turns out sorting boxes in the sterilized corporate afterscape is actually really fun](https://www.pcgamer.com/it-turns-out-sorting-boxes-in-the-sterilized-corporate-afterscape-is-actually-really-fun)
+ - [Diablo 4 convinced me that skill trees rule, actually](https://www.pcgamer.com/diablo-4-convinced-me-that-skill-trees-rule-actually)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
