@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [....so I became a crossword puzzle](http://9gag.com/gag/az2d91z)
- - 🚯 [Hidden away in the highlands of Papua New Guinea....](http://9gag.com/gag/aDY6jMd)
+ - 🚖 [Father reflex or the year](http://9gag.com/gag/aVboDK8)
+ - 🚯 [Imagine getting suspended for starting work early just to let the fire marshal into the building to make an inspection](http://9gag.com/gag/aRE43d5)
  - 🚯 [What if ... ?](http://9gag.com/gag/aeQ1eNB)<!-- MEMES:END -->
 
 --- 
