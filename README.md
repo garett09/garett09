@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo’s Find X6 Pro is the latest smartphone to get a massive 1-inch camera sensor](https://www.theverge.com/2023/3/21/23648689/oppo-find-x6-pro-1-inch-type-camera-sensor-price-release-date-specs-features)
- - [OPPO Find X6 Pro hands-on impressions: The best 2023 phone you can’t buy?](https://www.androidauthority.com/oppo-find-x6-pro-review-hands-on-impressions-3298577/)
- - [Oppo Find X6 Pro announced: A phone that bets everything on its main cameras](https://www.androidauthority.com/oppo-find-x6-pro-3300311/)<!-- TECH:END -->
+ - [OpenAI temporarily shut down ChatGPT after a bug let some users see the titles of other users&#39; chat histories; some chat histories are still missing &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230321/p4#a230321p4)
+ - [Meta Is Being Sued in Kenya, Again](https://www.wired.com/story/meta-is-being-sued-in-kenya-again/)
+ - [A case for slowing down AI due to existential and bias risks, despite objections like its alleged inevitability and the AI arms race with China &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/230321/p3#a230321p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
