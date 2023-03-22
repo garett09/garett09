@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don\u2019t let others tell you what to do.](http://9gag.com/gag/adP15oB)
- - 🚯 [She opened the door, now what?](http://9gag.com/gag/aXnMYr2)
- - 🚯 [Reality](http://9gag.com/gag/a7qO3Az)<!-- MEMES:END -->
+ - 🚖 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)
+ - 🚯 [MVP](http://9gag.com/gag/abv1rKL)
+ - 🚯 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)<!-- MEMES:END -->
 
 --- 
 
