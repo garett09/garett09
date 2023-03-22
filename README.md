@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia is selling its GPUs to help speed up the process of... making GPUs](https://www.pcgamer.com/nvidia-is-selling-its-gpus-to-help-speed-up-the-process-of-making-gpus)
- - [Looking for a modern update on the classic gaming chair design? GT Omega’s Zephyr would like a word](https://www.pcgamer.com/looking-for-a-modern-update-on-the-classic-gaming-chair-design-gt-omegas-zephyr-would-like-a-word)
- - [GT Omega’s Xayo office chair is a huge leap forward for ergonomics, and you can tailor it to your measurements](https://www.pcgamer.com/gt-omegas-xayo-office-chair-is-a-huge-leap-forward-for-ergonomics-and-you-can-tailor-it-to-your-measurements)<!-- GAME:END -->
+ - [Shazam! 2 blame game heats up as star tags The Rock, Zack Snyder fans](https://www.polygon.com/23651473/shazam-2-zachary-levi-rock-black-adam-zack-snyder-dcu)
+ - [Scream VI directors say the series can’t just focus on horror anymore](https://www.polygon.com/23648804/scream-vi-6-directors-horror-movies-slashers-blockbusters)
+ - [Autonomous SmartDesk Core](https://www.pcgamer.com/autonomous-smartdesk-core-standing-desk-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
