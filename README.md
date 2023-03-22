@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire FPS Redfall feels like a sad stumble from iconic studio Arkane](https://www.pcgamer.com/vampire-fps-redfall-feels-like-a-sad-stumble-from-iconic-studio-arkane)
- - [Character-Full: Why Your Choice of Redfall Hero Will Make All the Difference](https://news.xbox.com/en-us/2023/03/22/redfall-characters-abilities-layla-jacob-remi-devinder/)
- - [Here are all the ways you can pre-order Redfall](https://www.polygon.com/deals/23650355/redfall-pre-order-bite-back-edition)<!-- GAME:END -->
+ - [Mighty Morphin Power Rangers: Once and Always might make me cry](https://www.polygon.com/23651655/mighty-morphin-power-rangers-once-always-netflix-trailer)
+ - [Bill Gates says the AI revolution is as fundamental as &#39;the creation of the microprocessor, the personal computer, the Internet, and the mobile phone&#39;](https://www.pcgamer.com/bill-gates-says-the-ai-revolution-is-as-fundamental-as-the-creation-of-the-microprocessor-the-personal-computer-the-internet-and-the-mobile-phone)
+ - [Pleased To Eat You! Discover All You Need To Know About Dead Island 2’s Zombies](https://news.xbox.com/en-us/2023/03/22/dead-island-2-zombies-types/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
