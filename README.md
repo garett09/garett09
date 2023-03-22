@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Future of Black Queer Characters in Comics Is Joyful](https://www.wired.com/story/black-queer-representation-comics/)
- - [How to Move Your Slack Archive to Discord](https://www.wired.com/story/how-to-move-slack-archive-to-discord/)
- - [Meta &amp; Google shouldn&#39;t be allowed to bully their way out of paying for news](https://appleinsider.com/articles/23/03/22/meta-google-shouldnt-be-allowed-to-bully-their-way-out-of-paying-for-news?utm_medium=rss)<!-- TECH:END -->
+ - [A look at San Francisco&#39;s Misalignment Museum, which displays art about AGI, including an apology to humans after a &quot;misaligned&quot; future AI wiped out humanity &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230322/p16#a230322p16)
+ - [AI Loves—and Loathes—Language](https://www.wired.com/story/language-is-one-of-ais-main-sources-of-data-and-greatest-foils/)
+ - [Travelrest Nest Ultimate Travel Pillow: Neck Support for Great Sleep](https://www.wired.com/review/travelrest-nest-ultimate-travel-pillow/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
