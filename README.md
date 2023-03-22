@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best horror movies to watch on Netflix this March](https://www.polygon.com/what-to-watch/2023/3/22/23650148/best-horror-movies-netflix-watch-march-2023)
- - [Twitch streamer blows through Breath of the Wild with ocarina controller](https://www.polygon.com/zelda/23652156/breath-of-the-wild-ocarina-controller-botw-legend-of-zelda)
- - [Fortnite’s Unreal Engine editor lets it compete with Roblox](https://www.polygon.com/fortnite/23652011/fortnite-unreal-editor-creative-2-0-modding-tools-release-date)<!-- GAME:END -->
+ - [This Dating Sim Will Help You File Your Taxes](https://kotaku.com/tax-season-deadline-dating-sim-video-game-1850253777)
+ - [The Best And Worst Parts Of Every Far Cry Game](https://kotaku.com/far-cry-best-ranking-open-world-ubisoft-fps-shooter-1850253655)
+ - [How to find the Nitro Drifter in Fortnite and use its drift ability](https://www.pcgamer.com/fortnite-nitro-drifter-how-to-drift)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
