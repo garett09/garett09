@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps vs Apple Maps: Which navigation app is right for you?](https://www.androidauthority.com/google-maps-vs-apple-maps-which-navigation-app-is-right-for-you-3300337/)
- - [Switching between Xiaomi, Vivo, and Oppo phones just got easier &lpar;Updated&rpar;](https://www.androidauthority.com/switching-between-xiaomi-vivo-and-oppo-phones-just-got-easier-3300917/)
- - [First Pixels, now the Windows snipping tool has a major privacy flaw](https://www.androidauthority.com/windows-snipping-tool-acropalypse-3298891/)<!-- TECH:END -->
+ - [Ubisoft unveils Ghostwriter and says the internal AI tool will help scriptwriters save time and create more realistic non-player character interactions &lpar;Luke Plunkett/Kotaku&rpar;](http://www.techmeme.com/230322/p7#a230322p7)
+ - [Researchers: Iran&#39;s cyber army, or Cyberi, ramped up spear-phishing and adopted new tactics aiming to sow distrust among citizens as political unrest continues &lpar;Arian Khameneh/Wired&rpar;](http://www.techmeme.com/230322/p6#a230322p6)
+ - [Digital photography site DPReview, owned by Amazon, is closing April 10; people can request downloads of photos or texts they uploaded to the site until April 6 &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/230322/p5#a230322p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
