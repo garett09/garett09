@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at ByteDance and TikTok&#39;s lobbying before Shou Zi Chew&#39;s hearing, including Axios ads and private lawmaker meetings, mirroring Meta&#39;s well-worn tactics &lpar;Washington Post&rpar;](http://www.techmeme.com/230322/p23#a230322p23)
- - [Microsoft&#39;s iPhone App Store plan is limited threat to Apple, for now](https://appleinsider.com/articles/23/03/22/microsofts-iphone-app-store-plan-is-limited-threat-to-apple-for-now?utm_medium=rss)
- - [Sources: Meta rehires veteran manager Nick Grudin, who left to join NFT startup Dapper Labs in August 2022, to oversee media and creator relationships &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230322/p22#a230322p22)<!-- TECH:END -->
+ - [Panera Bread will let you pay using Amazon’s palm-scanning tech](https://www.theverge.com/2023/3/22/23651843/amazon-one-panera-bread-palm-scanning-biometrics-payment-loyalty)
+ - [Sources: Google, Meta, and Apple want Congress to limit Section 702 of the Foreign Intelligence Surveillance Act, which expires in 2023 if not reauthorized &lpar;Bloomberg&rpar;](http://www.techmeme.com/230322/p25#a230322p25)
+ - [Hipstamatic’s new social network looks like an Instagram throwback](https://www.theverge.com/2023/3/22/23651556/hipstamatic-relaunch-photography-app-social-network-instagram-throwback)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
