@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine getting suspended for starting work early just to let the fire marshal into the building to make an inspection](http://9gag.com/gag/aRE43d5)
- - 🚯 [Well done guys, keep posting, this battle has to be legendary](http://9gag.com/gag/aXnMj46)
- - 🚯 [Even if you place a 1000\u00b0C iron ball on a bamboo hollow stem, this will hardly burn.](http://9gag.com/gag/a9q6nYD)<!-- MEMES:END -->
+ - 🚖 [Son surprising mom in Rome](http://9gag.com/gag/anzR52L)
+ - 🚯 [Bro got to step 1 and didn&#39;t know what to do after](http://9gag.com/gag/aRE473G)
+ - 🚯 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
 
 --- 
 
