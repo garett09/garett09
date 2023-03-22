@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go sports!](http://9gag.com/gag/aRE4jL2)
- - 🚯 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
- - 🚯 [Another classic.](http://9gag.com/gag/aEq6p5O)<!-- MEMES:END -->
+ - 🚖 [Asian plus-size clothing store names](http://9gag.com/gag/a9q61vo)
+ - 🚯 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)
+ - 🚯 [Frame TV installation](http://9gag.com/gag/aNw9P0v)<!-- MEMES:END -->
 
 --- 
 
