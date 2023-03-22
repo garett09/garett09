@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft unveils Ghostwriter and says the internal AI tool will help scriptwriters save time and create more realistic non-player character interactions &lpar;Luke Plunkett/Kotaku&rpar;](http://www.techmeme.com/230322/p7#a230322p7)
- - [Researchers: Iran&#39;s cyber army, or Cyberi, ramped up spear-phishing and adopted new tactics aiming to sow distrust among citizens as political unrest continues &lpar;Arian Khameneh/Wired&rpar;](http://www.techmeme.com/230322/p6#a230322p6)
- - [Digital photography site DPReview, owned by Amazon, is closing April 10; people can request downloads of photos or texts they uploaded to the site until April 6 &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/230322/p5#a230322p5)<!-- TECH:END -->
+ - [Sources: facing a US ban, TikTok recently sought to reassure its advertisers and play down the threat of an outright ban, hoping brands would continue to spend &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230322/p11#a230322p11)
+ - [Apple TV+ gains 15 nominations at UK&#39;s Bafta Television Awards](https://appleinsider.com/articles/23/03/22/apple-tv-gains-15-nominations-at-uks-bafta-television-awards?utm_medium=rss)
+ - [Magic Eden launches a Bitcoin NFT marketplace, supporting Hiro and Xverse wallets to let users trade Ordinal NFTs, expanding on SOL, ETH, and MATIC marketplaces &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230322/p10#a230322p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
