@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well done guys, keep posting, this battle has to be legendary](http://9gag.com/gag/aXnMj46)
- - 🚯 [How mercator projection deceives you.](http://9gag.com/gag/aeQ1bzO)
- - 🚯 [Save it to never use it](http://9gag.com/gag/a4o6Gey)<!-- MEMES:END -->
+ - 🚖 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)
+ - 🚯 [Imagine getting suspended for starting work early just to let the fire marshal into the building to make an inspection](http://9gag.com/gag/aRE43d5)
+ - 🚯 [She Has No Sense Of Humour](http://9gag.com/gag/arm3oMd)<!-- MEMES:END -->
 
 --- 
 
