@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baseus Bowie M2 Plus review: Small wireless earbuds, mighty sounds](https://appleinsider.com/articles/23/03/22/baseus-bowie-m2-plus-review-small-wireless-earbuds-mighty-sounds?utm_medium=rss)
- - [tomi, a DAO aiming to build an &quot;alternative internet&quot; to promote free speech and access to uncensored information, raised $40M led by DWF Labs &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230321/p39#a230321p39)
- - [4K TV Deals: Save Big on Samsung, LG, Vizio and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US proposes barring CHIPS Act beneficiaries from expanding manufacturing output, 5% for advanced chips and 10% for legacy chips, in &quot;countries of concern&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230321/p40#a230321p40)
+ - [Everything I Learned Taking Ice Baths With the King of Ice     - CNET](https://www.cnet.com/health/features/everything-i-learned-taking-ice-baths-with-the-king-of-ice/#ftag=CAD590a51e)
+ - [Baseus Bowie M2 Plus review: Small wireless earbuds, mighty sounds](https://appleinsider.com/articles/23/03/22/baseus-bowie-m2-plus-review-small-wireless-earbuds-mighty-sounds?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
