@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mandalorian gives a classic Star Wars actor a new cameo role](https://www.polygon.com/star-wars/23651657/mandalorian-jar-jar-ahmed-best-kelleran-beq-star-wars-cameo)
- - [Storyteller review](https://www.pcgamer.com/storyteller-review)
- - [Find Your Elite: How There’s an Xbox Elite Controller for Everyone](https://news.xbox.com/en-us/2023/03/22/xbox-elite-cereal-controller/)<!-- GAME:END -->
+ - [The best new movie on every streaming service](https://www.polygon.com/what-to-watch/23550241/best-new-movies-netflix-prime-hbo-max-hulu-streaming)
+ - [The Steam Deck’s 10% off deal is almost over](https://www.polygon.com/deals/2023/3/22/23648395/steam-deck-valve-last-chance-spring-deal-sale)
+ - [NZXT H9 Elite](https://www.pcgamer.com/nzxt-h9-elite-pc-case-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
