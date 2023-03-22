@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro got to step 1 and didn&#39;t know what to do after](http://9gag.com/gag/aRE473G)
- - 🚯 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
- - 🚯 [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)<!-- MEMES:END -->
+ - 🚖 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
+ - 🚯 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)
+ - 🚯 [Go sports!](http://9gag.com/gag/aRE4jL2)<!-- MEMES:END -->
 
 --- 
 
