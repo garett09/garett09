@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)
+ - 🚖 [Longer version?](http://9gag.com/gag/a2Kw7ve)
  - 🚯 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
  - 🚯 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)<!-- MEMES:END -->
 
