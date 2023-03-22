@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at San Francisco&#39;s Misalignment Museum, which displays art about AGI, including an apology to humans after a &quot;misaligned&quot; future AI wiped out humanity &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230322/p16#a230322p16)
- - [AI Loves—and Loathes—Language](https://www.wired.com/story/language-is-one-of-ais-main-sources-of-data-and-greatest-foils/)
- - [Travelrest Nest Ultimate Travel Pillow: Neck Support for Great Sleep](https://www.wired.com/review/travelrest-nest-ultimate-travel-pillow/)<!-- TECH:END -->
+ - [Mozilla announces Mozilla.ai, an AI-focused startup with $30M in seed funding from the Mozilla Foundation to work on open source and &quot;trustworthy&quot; AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230322/p18#a230322p18)
+ - [Amazon is flooding the zone with new TVs as it crosses 200 million Fire TV devices sold](https://www.theverge.com/2023/3/22/23651562/amazon-fire-tv-omni-qled-new-sizes-2-series-price)
+ - [GitHub Copilot X is a new ChatGPT-like assistant to help developers write and fix code](https://www.theverge.com/2023/3/22/23651456/github-copilot-x-gpt-4-code-chat-voice-support)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
