@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GP Bullhound: European tech startups raised &amp;euro;30.5B in debt in 2022, up from &amp;euro;15.9B in 2021, as the global tech slump made raising new equity more difficult &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230321/p37#a230321p37)
- - [Future Apple Watches could automatically accessorize with their bands](https://www.theverge.com/2023/3/21/23650501/apple-watch-nfc-band-color-matching-patent)
- - [Instagram has started putting ads in search results](https://www.theverge.com/2023/3/21/23650766/instagram-ads-search-results-feeds)<!-- TECH:END -->
+ - [Data leak site BreachForums says it plans to shut down following the arrest of alleged operator &quot;Pompompurin&quot; due to fear law enforcement has backdoor access &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230321/p38#a230321p38)
+ - [Meta’s new quests could give you something to do in its VR social network](https://www.theverge.com/2023/3/21/23650916/meta-horizon-worlds-in-game-quests-rewards)
+ - [How You Can Tell the AI Images of Trump’s Arrest Are Deepfakes](https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
