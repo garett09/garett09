@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shazam! 2 blame game heats up as star tags The Rock, Zack Snyder fans](https://www.polygon.com/23651473/shazam-2-zachary-levi-rock-black-adam-zack-snyder-dcu)
- - [Scream VI directors say the series can’t just focus on horror anymore](https://www.polygon.com/23648804/scream-vi-6-directors-horror-movies-slashers-blockbusters)
- - [Autonomous SmartDesk Core](https://www.pcgamer.com/autonomous-smartdesk-core-standing-desk-review)<!-- GAME:END -->
+ - [Vampire FPS Redfall feels like a sad stumble from iconic studio Arkane](https://www.pcgamer.com/vampire-fps-redfall-feels-like-a-sad-stumble-from-iconic-studio-arkane)
+ - [Character-Full: Why Your Choice of Redfall Hero Will Make All the Difference](https://news.xbox.com/en-us/2023/03/22/redfall-characters-abilities-layla-jacob-remi-devinder/)
+ - [Here are all the ways you can pre-order Redfall](https://www.polygon.com/deals/23650355/redfall-pre-order-bite-back-edition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
