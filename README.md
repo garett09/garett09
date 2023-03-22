@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Son surprising mom in Rome](http://9gag.com/gag/anzR52L)
+ - 🚖 [Imagine getting suspended for starting work early just to let the fire marshal into the building to make an inspection](http://9gag.com/gag/aRE43d5)
  - 🚯 [Bro got to step 1 and didn&#39;t know what to do after](http://9gag.com/gag/aRE473G)
  - 🚯 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
 
