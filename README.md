@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia has developed the H800 chip, a version of the H100, for export to China; Alibaba, Baidu, Tencent, and other Chinese companies are already using the chip &lpar;Reuters&rpar;](http://www.techmeme.com/230322/p3#a230322p3)
- - [4 People Tweeting’ Changed the Face of Nigerian Politics](https://www.wired.com/story/four-people-tweeting-nigeria-politics-peter-obi/)
- - [Microsoft debuts Bing Image Creator: Now convert your words into pictures](https://www.androidauthority.com/bing-image-creator-3300886/)<!-- TECH:END -->
+ - [First Pixels, now the Windows snipping tool has a major privacy flaw](https://www.androidauthority.com/windows-snipping-tool-acropalypse-3298891/)
+ - [Just Eat Takeaway lays off 1,700 UK couriers and returns to a gig economy model, which CEO Jitse Groen had said &quot;comes at the expense of society and workers&quot; &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230322/p4#a230322p4)
+ - [Nvidia has developed the H800 chip, a version of the H100, for export to China; Alibaba, Baidu, Tencent, and other Chinese companies are already using the chip &lpar;Reuters&rpar;](http://www.techmeme.com/230322/p3#a230322p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
