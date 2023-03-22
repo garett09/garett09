@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Longer version?](http://9gag.com/gag/a2Kw7ve)
- - 🚯 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
- - 🚯 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)<!-- MEMES:END -->
+ - 🚖 [She Has No Sense Of Humour](http://9gag.com/gag/arm3oMd)
+ - 🚯 [What if ... ?](http://9gag.com/gag/aeQ1eNB)
+ - 🚯 [Go sports!](http://9gag.com/gag/aRE4jL2)<!-- MEMES:END -->
 
 --- 
 
