@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Social experiment](http://9gag.com/gag/a1PNQYD)
- - 🚯 [Are you winning son? - You could not possibly understand](http://9gag.com/gag/aMEBjr6)
- - 🚯 [Hard day at work](http://9gag.com/gag/a1PNrn6)<!-- MEMES:END -->
+ - 🚖 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
+ - 🚯 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
+ - 🚯 [Longer version?](http://9gag.com/gag/a2Kw7ve)<!-- MEMES:END -->
 
 --- 
 
