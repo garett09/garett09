@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
- - 🚯 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)
+ - 🚖 [MVP](http://9gag.com/gag/abv1rKL)
+ - 🚯 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)
  - 🚯 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
 
 --- 
