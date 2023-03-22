@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She Has No Sense Of Humour](http://9gag.com/gag/arm3oMd)
- - 🚯 [What if ... ?](http://9gag.com/gag/aeQ1eNB)
- - 🚯 [Go sports!](http://9gag.com/gag/aRE4jL2)<!-- MEMES:END -->
+ - 🚖 [All the race baiting posters here are no different to the BLM advocates you all just like to divide and spread hate because you have miserable and pathetic lives](http://9gag.com/gag/aDY6d8O)
+ - 🚯 [Hard day at work](http://9gag.com/gag/a1PNrn6)
+ - 🚯 [She Has No Sense Of Humour](http://9gag.com/gag/arm3oMd)<!-- MEMES:END -->
 
 --- 
 
