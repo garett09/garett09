@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing launches Ear &lpar;2&rpar; with Hi-Res Audio certification](https://appleinsider.com/articles/23/03/22/nothing-launches-ear-2-with-hi-res-audio-certification?utm_medium=rss)
- - [Google Messages may soon let you use AI to respond to text messages](https://www.androidauthority.com/google-messages-ai-3301044/)
- - [Source: job listings site Indeed is laying off 2,200 people, or 15% of its headcount; Indeed was acquired in 2012 by Japan&#39;s Recruit, which also owns Glassdoor &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/230322/p28#a230322p28)<!-- TECH:END -->
+ - [The biggest announcements from Epic Games’ State of Unreal 2023 keynote](https://www.theverge.com/2023/3/22/23645702/epic-games-state-of-unreal-2023-keynote-biggest-announcements-fortnite-engine)
+ - [Microsoft launches Loop, its Notion and Asana competitor, in preview, allowing users to collaborate in shared workspaces on the web, Android, and iOS &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/230322/p29#a230322p29)
+ - [Epic is merging its digital asset stores into one huge marketplace](https://www.theverge.com/2023/3/22/23645601/epic-games-fab-asset-marketplace-state-of-unreal-2023-gdc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
