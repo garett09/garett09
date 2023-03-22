@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best new movie on every streaming service](https://www.polygon.com/what-to-watch/23550241/best-new-movies-netflix-prime-hbo-max-hulu-streaming)
- - [The Steam Deck’s 10% off deal is almost over](https://www.polygon.com/deals/2023/3/22/23648395/steam-deck-valve-last-chance-spring-deal-sale)
- - [NZXT H9 Elite](https://www.pcgamer.com/nzxt-h9-elite-pc-case-review)<!-- GAME:END -->
+ - [The Owl House ending is nigh and I am not ready](https://www.polygon.com/23651986/the-owl-house-finale-episode-release-date-trailer-youtube)
+ - [10 questions about The Star Wars Holiday Special answered in a new documentary](https://www.polygon.com/23640045/star-wars-holiday-special-documentary-disturbance-in-the-force)
+ - [Your Spring 2023 Anime Guide: What To Watch And Where It&#39;s Streaming](https://kotaku.com/spring-anime-guide-2023-crunchyroll-netflix-hidive-1849909274)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
