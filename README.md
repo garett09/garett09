@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Owl House ending is nigh and I am not ready](https://www.polygon.com/23651986/the-owl-house-finale-episode-release-date-trailer-youtube)
- - [10 questions about The Star Wars Holiday Special answered in a new documentary](https://www.polygon.com/23640045/star-wars-holiday-special-documentary-disturbance-in-the-force)
- - [Your Spring 2023 Anime Guide: What To Watch And Where It&#39;s Streaming](https://kotaku.com/spring-anime-guide-2023-crunchyroll-netflix-hidive-1849909274)<!-- GAME:END -->
+ - [The 5 best horror movies to watch on Netflix this March](https://www.polygon.com/what-to-watch/2023/3/22/23650148/best-horror-movies-netflix-watch-march-2023)
+ - [Twitch streamer blows through Breath of the Wild with ocarina controller](https://www.polygon.com/zelda/23652156/breath-of-the-wild-ocarina-controller-botw-legend-of-zelda)
+ - [Fortnite’s Unreal Engine editor lets it compete with Roblox](https://www.polygon.com/fortnite/23652011/fortnite-unreal-editor-creative-2-0-modding-tools-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
