@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Longer version?](http://9gag.com/gag/a2Kw7ve)
- - 🚯 [Are you winning son? - You could not possibly understand](http://9gag.com/gag/aMEBjr6)
- - 🚯 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)<!-- MEMES:END -->
+ - 🚖 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)
+ - 🚯 [Hard day at work](http://9gag.com/gag/a1PNrn6)
+ - 🚯 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
 
 --- 
 
