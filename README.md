@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Creators: How Resident Evil 4 harnesses PS5’s power](https://blog.playstation.com/2023/03/22/ps5-creators-how-resident-evil-4-harnesses-ps5s-power/)
- - [Call of Duty police killing settled for $5 million](https://www.polygon.com/23652429/call-of-duty-wwii-swatting-police-killing-settled)
- - [Xbox Cans PS5 Version Of Big Game Despite All The Talk About Player Choice](https://kotaku.com/redfall-xbox-ps5-port-canceled-arkane-bethesda-1850254271)<!-- GAME:END -->
+ - [“When Everyone Reduces Emissions, Everyone on the Planet Wins” – Explaining Xbox’s New Game Development Sustainability Tools](https://news.xbox.com/en-us/2023/03/22/xbox-developer-sustainability-toolkit/)
+ - [Jake Paul, Lindsay Lohan &amp; More Charged With &#39;Illegally&#39; Shilling Crypto](https://kotaku.com/jake-paul-crypto-scam-sec-charged-lohan-yachty-akon-1850254606)
+ - [Lawsuit over police killing in 2017 Call of Duty swatting is finally settled for $5 million](https://www.pcgamer.com/lawsuit-over-police-killing-in-2017-call-of-duty-swatting-is-finally-settled-for-dollar5-million)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
