@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mighty Morphin Power Rangers: Once and Always might make me cry](https://www.polygon.com/23651655/mighty-morphin-power-rangers-once-always-netflix-trailer)
- - [Bill Gates says the AI revolution is as fundamental as &#39;the creation of the microprocessor, the personal computer, the Internet, and the mobile phone&#39;](https://www.pcgamer.com/bill-gates-says-the-ai-revolution-is-as-fundamental-as-the-creation-of-the-microprocessor-the-personal-computer-the-internet-and-the-mobile-phone)
- - [Pleased To Eat You! Discover All You Need To Know About Dead Island 2’s Zombies](https://news.xbox.com/en-us/2023/03/22/dead-island-2-zombies-types/)<!-- GAME:END -->
+ - [The Mandalorian gives a classic Star Wars actor a new cameo role](https://www.polygon.com/star-wars/23651657/mandalorian-jar-jar-ahmed-best-kelleran-beq-star-wars-cameo)
+ - [Storyteller review](https://www.pcgamer.com/storyteller-review)
+ - [Find Your Elite: How There’s an Xbox Elite Controller for Everyone](https://news.xbox.com/en-us/2023/03/22/xbox-elite-cereal-controller/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
