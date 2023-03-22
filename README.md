@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Panera Bread will let you pay using Amazon’s palm-scanning tech](https://www.theverge.com/2023/3/22/23651843/amazon-one-panera-bread-palm-scanning-biometrics-payment-loyalty)
- - [Sources: Google, Meta, and Apple want Congress to limit Section 702 of the Foreign Intelligence Surveillance Act, which expires in 2023 if not reauthorized &lpar;Bloomberg&rpar;](http://www.techmeme.com/230322/p25#a230322p25)
- - [Hipstamatic’s new social network looks like an Instagram throwback](https://www.theverge.com/2023/3/22/23651556/hipstamatic-relaunch-photography-app-social-network-instagram-throwback)<!-- TECH:END -->
+ - [Ugreen&#39;s new docking station can extend M1 Mac displays](https://appleinsider.com/articles/23/03/22/ugreens-new-docking-station-can-extend-m1-mac-displays?utm_medium=rss)
+ - [Valve announces Counter-Strike 2, a free replacement for CS:GO](https://www.theverge.com/2023/3/22/23651939/counterstrike-cs2-valve-smoke-grenades-limited-test)
+ - [Nothing Ear &lpar;2&rpar; Review: Vibrant Sound, Control Issues](https://www.wired.com/review/review-nothing-ear-2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
