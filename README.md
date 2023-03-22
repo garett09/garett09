@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Is the Lightest Paint in the World](https://www.wired.com/story/lightest-paint-in-the-world/)
- - [The TikTok CEO’s Face-Off With Congress Is Doomed](https://www.wired.com/story/tiktok-ceo-shou-zi-chew-congress-testimony/)
- - [A US Agency Rejected Face Recognition—and Landed in Big Trouble](https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/)<!-- TECH:END -->
+ - [The Future of Black Queer Characters in Comics Is Joyful](https://www.wired.com/story/black-queer-representation-comics/)
+ - [How to Move Your Slack Archive to Discord](https://www.wired.com/story/how-to-move-slack-archive-to-discord/)
+ - [Meta &amp; Google shouldn&#39;t be allowed to bully their way out of paying for news](https://appleinsider.com/articles/23/03/22/meta-google-shouldnt-be-allowed-to-bully-their-way-out-of-paying-for-news?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
