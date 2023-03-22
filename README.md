@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)
- - 🚯 [Hard day at work](http://9gag.com/gag/a1PNrn6)
- - 🚯 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
+ - 🚖 [Go sports!](http://9gag.com/gag/aRE4jL2)
+ - 🚯 [Note to self, need more interviewers with Tourette&#39;s syndrome\u2026](http://9gag.com/gag/a5X6nZE)
+ - 🚯 [Another classic.](http://9gag.com/gag/aEq6p5O)<!-- MEMES:END -->
 
 --- 
 
