@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: facing a US ban, TikTok recently sought to reassure its advertisers and play down the threat of an outright ban, hoping brands would continue to spend &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230322/p11#a230322p11)
- - [Apple TV+ gains 15 nominations at UK&#39;s Bafta Television Awards](https://appleinsider.com/articles/23/03/22/apple-tv-gains-15-nominations-at-uks-bafta-television-awards?utm_medium=rss)
- - [Magic Eden launches a Bitcoin NFT marketplace, supporting Hiro and Xverse wallets to let users trade Ordinal NFTs, expanding on SOL, ETH, and MATIC marketplaces &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230322/p10#a230322p10)<!-- TECH:END -->
+ - [This Is the Lightest Paint in the World](https://www.wired.com/story/lightest-paint-in-the-world/)
+ - [The TikTok CEO’s Face-Off With Congress Is Doomed](https://www.wired.com/story/tiktok-ceo-shou-zi-chew-congress-testimony/)
+ - [A US Agency Rejected Face Recognition—and Landed in Big Trouble](https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
