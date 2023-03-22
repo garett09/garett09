@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest announcements from Epic Games’ State of Unreal 2023 keynote](https://www.theverge.com/2023/3/22/23645702/epic-games-state-of-unreal-2023-keynote-biggest-announcements-fortnite-engine)
- - [Microsoft launches Loop, its Notion and Asana competitor, in preview, allowing users to collaborate in shared workspaces on the web, Android, and iOS &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/230322/p29#a230322p29)
- - [Epic is merging its digital asset stores into one huge marketplace](https://www.theverge.com/2023/3/22/23645601/epic-games-fab-asset-marketplace-state-of-unreal-2023-gdc)<!-- TECH:END -->
+ - [Pebble may be reborn as a small Android phone](https://www.androidauthority.com/pebble-android-phone-3301092/)
+ - [The US SEC sues Tron founder Justin Sun for the alleged &quot;unregistered offer and sale of crypto asset securities&quot; TRX and BTT, market manipulation, and more &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230322/p30#a230322p30)
+ - [FlexiSpot E7 Pro Plus Standing Desk review: Simple design with smooth height transitions](https://appleinsider.com/articles/23/03/22/flexispot-e7-pro-plus-standing-desk-review-simple-design-with-smooth-height-transitions?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
