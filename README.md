@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla announces Mozilla.ai, an AI-focused startup with $30M in seed funding from the Mozilla Foundation to work on open source and &quot;trustworthy&quot; AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230322/p18#a230322p18)
- - [Amazon is flooding the zone with new TVs as it crosses 200 million Fire TV devices sold](https://www.theverge.com/2023/3/22/23651562/amazon-fire-tv-omni-qled-new-sizes-2-series-price)
- - [GitHub Copilot X is a new ChatGPT-like assistant to help developers write and fix code](https://www.theverge.com/2023/3/22/23651456/github-copilot-x-gpt-4-code-chat-voice-support)<!-- TECH:END -->
+ - [A look at ByteDance and TikTok&#39;s lobbying before Shou Zi Chew&#39;s hearing, including Axios ads and private lawmaker meetings, mirroring Meta&#39;s well-worn tactics &lpar;Washington Post&rpar;](http://www.techmeme.com/230322/p23#a230322p23)
+ - [Microsoft&#39;s iPhone App Store plan is limited threat to Apple, for now](https://appleinsider.com/articles/23/03/22/microsofts-iphone-app-store-plan-is-limited-threat-to-apple-for-now?utm_medium=rss)
+ - [Sources: Meta rehires veteran manager Nick Grudin, who left to join NFT startup Dapper Labs in August 2022, to oversee media and creator relationships &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/230322/p22#a230322p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
