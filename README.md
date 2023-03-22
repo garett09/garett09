@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine getting suspended for starting work early just to let the fire marshal into the building to make an inspection](http://9gag.com/gag/aRE43d5)
- - 🚯 [Bro got to step 1 and didn&#39;t know what to do after](http://9gag.com/gag/aRE473G)
- - 🚯 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
+ - 🚖 [Don\u2019t let others tell you what to do.](http://9gag.com/gag/adP15oB)
+ - 🚯 [She opened the door, now what?](http://9gag.com/gag/aXnMYr2)
+ - 🚯 [Reality](http://9gag.com/gag/a7qO3Az)<!-- MEMES:END -->
 
 --- 
 
