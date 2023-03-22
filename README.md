@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MVP](http://9gag.com/gag/abv1rKL)
- - 🚯 [Why did he make that \ud83e\udd28](http://9gag.com/gag/aL1zDOV)
- - 🚯 [Social experiment](http://9gag.com/gag/a1PNQYD)<!-- MEMES:END -->
+ - 🚖 [What if ... ?](http://9gag.com/gag/aeQ1eNB)
+ - 🚯 [Do you guys also hate this feeling, that when you wake up your chin looks different then yesterday?](http://9gag.com/gag/aMEB8oA)
+ - 🚯 [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)<!-- MEMES:END -->
 
 --- 
 
