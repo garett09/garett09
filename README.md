@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Withings Body Comp Scale and Health+ Review: Not Enough for Too Much](https://www.wired.com/review/withings-body-comp-health-plus/)
- - [Block drops 20%+ after Hindenburg Research discloses a short position and alleges the company overstated user counts and understated customer acquisition costs &lpar;Reuters&rpar;](http://www.techmeme.com/230323/p17#a230323p17)
- - [Apple TV+ to spend $1 billion annually on movie theatrical releases](https://appleinsider.com/articles/23/03/23/apple-tv-to-spend-1-billion-annually-on-movie-theatrical-releases?utm_medium=rss)<!-- TECH:END -->
+ - [Montenegro&#39;s Interior Minister Filip Adzic says Terraform Labs co-founder Do Kwon has been arrested at the Podgorica airport with falsified documents &lpar;CoinDesk&rpar;](http://www.techmeme.com/230323/p20#a230323p20)
+ - [FTC proposes &#39;Click to Cancel&#39; rule to simplify subscription cancellation process](https://appleinsider.com/articles/23/03/23/ftc-proposes-click-to-cancel-rule-to-simplify-subscription-cancellation-process?utm_medium=rss)
+ - [The FTC proposes a &quot;click to cancel&quot; ban on difficult-to-cancel subscriptions, including making canceling as simple as subscribing by using the same method &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230323/p19#a230323p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
