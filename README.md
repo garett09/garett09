@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But did it work?](http://9gag.com/gag/a04XZqL)
- - 🚯 [Title](http://9gag.com/gag/aMEBKLM)
- - 🚯 [Longer version?](http://9gag.com/gag/a2Kw7ve)<!-- MEMES:END -->
+ - 🚖 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
+ - 🚯 [Say what now?](http://9gag.com/gag/aZD1ZX0)
+ - 🚯 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)<!-- MEMES:END -->
 
 --- 
 
