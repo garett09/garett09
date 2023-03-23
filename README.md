@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Say what now?](http://9gag.com/gag/aZD1ZX0)
- - 🚯 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
- - 🚯 [Traffic laws don&#39;t apply to me](http://9gag.com/gag/a9q6REK)<!-- MEMES:END -->
+ - 🚖 [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)
+ - 🚯 [But did it work?](http://9gag.com/gag/a04XZqL)
+ - 🚯 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)<!-- MEMES:END -->
 
 --- 
 
