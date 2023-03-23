@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [“Click-to-Cancel” rule aims to make unsubscribing less of a pain](https://www.androidauthority.com/click-to-cancel-3301634/)
- - [TikTok Paid for Influencers to Attend the Pro-TikTok Rally in DC](https://www.wired.com/story/tiktok-rally-washington-chew-testimony/)
- - [US prosecutors in New York charge Terraform Labs co-founder Do Kwon with eight counts, including securities fraud, commodities fraud, and wire fraud &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/230323/p31#a230323p31)<!-- TECH:END -->
+ - [Wireless Apple CarPlay now available in Lucid Air](https://appleinsider.com/articles/23/03/23/wireless-apple-carplay-now-available-in-lucid-air?utm_medium=rss)
+ - [Utah Gov. Spencer Cox signs two bills regulating social media apps, including requiring age verification for all users and permission from parents for minors &lpar;Bryan Schott/Salt Lake Tribune&rpar;](http://www.techmeme.com/230323/p32#a230323p32)
+ - [Congress seems more determined to ban TikTok than ever](https://www.theverge.com/2023/3/23/23653950/congress-tiktok-ban-hearing-aftermath-china-influence-privacy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
