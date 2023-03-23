@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
- - 🚯 [Say what now?](http://9gag.com/gag/aZD1ZX0)
- - 🚯 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)<!-- MEMES:END -->
+ - 🚖 [Another classic.](http://9gag.com/gag/aEq6p5O)
+ - 🚯 [29-year-old scientist enrolled in high school and pretended to be a teenager because she was lonely and \u201cwanted to return to a place of safety\u201d](http://9gag.com/gag/amA1o6V)
+ - 🚯 [How silk is made](http://9gag.com/gag/az2d5Ez)<!-- MEMES:END -->
 
 --- 
 
