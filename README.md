@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
- - 🚯 [Another classic.](http://9gag.com/gag/aEq6p5O)
- - 🚯 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)<!-- MEMES:END -->
+ - 🚖 [Shoeshiner working on a pair of boots](http://9gag.com/gag/a8q61YZ)
+ - 🚯 [This is getting fun.](http://9gag.com/gag/a04XeZQ)
+ - 🚯 [Childhood memories](http://9gag.com/gag/a3Z5Em1)<!-- MEMES:END -->
 
 --- 
 
