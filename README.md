@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blockbuster might be staging a comeback — and it should](https://www.polygon.com/23654120/blockbuster-video-comeback-news-website-update)
- - [Thirsty Apex Legends Players Pissed Swimsuit Skins Aren’t Hot Enough](https://kotaku.com/apex-legends-sun-squad-loba-swimsuit-skin-bathing-suit-1850259307)
- - [Chainsaw Man Creator Asks Fans To Read Gay Porn, Fans Go Hell Yeah](https://kotaku.com/chainsaw-man-gay-porn-fujimoto-boys-love-1850259238)<!-- GAME:END -->
+ - [The Room director Tommy Wiseau made a new shark movie, or maybe… underwear ad?](https://www.polygon.com/23654119/tommy-wiseau-big-shark-trailer-underwear-ad)
+ - [All the John Wick: Chapter 5 news so far](https://www.polygon.com/23652236/john-wick-5-release-date-cast-news)
+ - [“Impossify” Your Park Beyond with Xbox Series X|S on June 16](https://news.xbox.com/en-us/2023/03/23/park-beyond-pre-order-available-now-on-xbox-series-xs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
