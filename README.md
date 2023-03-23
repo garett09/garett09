@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get a Crystal Tuning Fork in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-crystal-fork)
- - [Lego 2K Drive builds on the tracks laid by Mario Kart and Forza Horizon](https://www.polygon.com/23652179/lego-2k-drive-release-date-trailer-preview)
- - [Diablo 4 is reportedly killing some RTX 3080 Ti graphics cards](https://www.pcgamer.com/diablo-4-rtx-3080-ti-issue)<!-- GAME:END -->
+ - [Video game Everywhere crams the ambition of GTA inside a Roblox competitor](https://www.polygon.com/23653091/everywhere-mindseye-gta-leslie-benzies-build-a-rocket-boy-preview)
+ - [Get $743 worth of Warhammer 40K rulebooks at Humble Bundle for just $25](https://www.polygon.com/deals/23651981/warhammer-40k-ttrpg-rulebooks-humble-bundle-deal-sale)
+ - [Counter-Strike 2 comes with Half-Life: Alyx&#39;s most needlessly impressive graphics quirk](https://www.pcgamer.com/counter-strike-2-comes-with-half-life-alyxs-most-needlessly-impressive-graphics-quirk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
