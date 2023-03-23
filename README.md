@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oof](http://9gag.com/gag/a4o6oPv)
- - 🚯 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
- - 🚯 [Asian plus-size clothing store names](http://9gag.com/gag/a9q61vo)<!-- MEMES:END -->
+ - 🚖 [Longer version?](http://9gag.com/gag/a2Kw7ve)
+ - 🚯 [Imagine getting suspended for starting work early just to let the fire marshal into the building to make an inspection](http://9gag.com/gag/aRE43d5)
+ - 🚯 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)<!-- MEMES:END -->
 
 --- 
 
