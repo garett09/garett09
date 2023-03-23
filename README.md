@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shoeshiner working on a pair of boots](http://9gag.com/gag/a8q61YZ)
+ - 🚖 [Childhood memories](http://9gag.com/gag/a3Z5Em1)
  - 🚯 [This is getting fun.](http://9gag.com/gag/a04XeZQ)
- - 🚯 [Childhood memories](http://9gag.com/gag/a3Z5Em1)<!-- MEMES:END -->
+ - 🚯 [A photographer took a picture just as this couple threw ashes into a river. He asked them who it was. They answered their beloved dog of 15 years. The photographer asked for permission to edit their photo and this was what he sent them.](http://9gag.com/gag/aNw9w53)<!-- MEMES:END -->
 
 --- 
 
