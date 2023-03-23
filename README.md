@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No Ragrets](http://9gag.com/gag/az2d1Kb)
+ - 🚖 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
  - 🚯 [So, what happens now?](http://9gag.com/gag/aA06yEE)
- - 🚯 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)<!-- MEMES:END -->
+ - 🚯 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
 
 --- 
 
