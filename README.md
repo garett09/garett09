@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube channel Linus Tech Tips was hacked on Thursday and started posting videos for crypto scams, the latest in a series of crypto scam breaches on YouTube &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230323/p21#a230323p21)
- - [Cyberpunk 2077 is getting film-like path tracing with new Overdrive Mode in April](https://www.theverge.com/2023/3/23/23653237/cyberpunk-2077-overdrive-mode-full-ray-tracing-path-tracing)
- - [Apple’s Tetris movie has no idea what it wants to be](https://www.theverge.com/23650577/apple-tetris-movie-taron-egerton-review)<!-- TECH:END -->
+ - [Tesla Wireless Charging Platform review: A premium, Tesla-branded AirPower clone](https://appleinsider.com/articles/23/03/23/tesla-wireless-charging-platform-review-a-premium-tesla-branded-airpower-clone?utm_medium=rss)
+ - [For Smarter Robots, Just Add Humans](https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/)
+ - [China &quot;firmly opposes&quot; a forced sale of TikTok, warning the move would involve &quot;technology export&quot; and would &quot;seriously damage&quot; investor confidence in the US &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230323/p22#a230323p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
