@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Lord of the Rings: Gollum has moral choices that feel true to the story](https://www.theverge.com/23643694/lord-of-the-rings-gollum-demo-hands-on-impression)
- - [TikTok CEO Shou Zi Chew tells Congress that &quot;after Project Texas is done&quot; no China-based ByteDance employee will have access to US TikTok data &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230323/p24#a230323p24)
- - [Snap unveils AR Enterprise Services, offering its AR Lenses and Filters to businesses, and says over 250M people engage with AR on Snapchat every day &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230323/p23#a230323p23)<!-- TECH:END -->
+ - [Apple Watch Series 8 &amp; Ultra propelled growth in China](https://appleinsider.com/articles/23/03/23/apple-watch-series-8-ultra-propelled-growth-in-china?utm_medium=rss)
+ - [OpenAI rolls out ChatGPT plugins, starting with a web browser and a code interpreter, and open sources the code for a knowledgebase retrieval plugin &lpar;OpenAI&rpar;](http://www.techmeme.com/230323/p25#a230323p25)
+ - [Garmin&#39;s Feature-Packed Enduro Fitness Watch Drops to Historic Low at Amazon     - CNET](https://www.cnet.com/deals/garmins-feature-packed-enduro-fitness-watch-drops-to-historic-low-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
