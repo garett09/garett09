@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Montenegro&#39;s Interior Minister Filip Adzic says Terraform Labs co-founder Do Kwon has been arrested at the Podgorica airport with falsified documents &lpar;CoinDesk&rpar;](http://www.techmeme.com/230323/p20#a230323p20)
- - [FTC proposes &#39;Click to Cancel&#39; rule to simplify subscription cancellation process](https://appleinsider.com/articles/23/03/23/ftc-proposes-click-to-cancel-rule-to-simplify-subscription-cancellation-process?utm_medium=rss)
- - [The FTC proposes a &quot;click to cancel&quot; ban on difficult-to-cancel subscriptions, including making canceling as simple as subscribing by using the same method &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230323/p19#a230323p19)<!-- TECH:END -->
+ - [YouTube channel Linus Tech Tips was hacked on Thursday and started posting videos for crypto scams, the latest in a series of crypto scam breaches on YouTube &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230323/p21#a230323p21)
+ - [Cyberpunk 2077 is getting film-like path tracing with new Overdrive Mode in April](https://www.theverge.com/2023/3/23/23653237/cyberpunk-2077-overdrive-mode-full-ray-tracing-path-tracing)
+ - [Apple’s Tetris movie has no idea what it wants to be](https://www.theverge.com/23650577/apple-tetris-movie-taron-egerton-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
