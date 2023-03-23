@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara Video Doorbell G4 is battery powered with HomeKit Secure Video](https://appleinsider.com/articles/23/03/23/aqara-video-doorbell-g4-is-battery-powered-with-homekit-secure-video?utm_medium=rss)
- - [Sources: Apple plans to spend $1B/year to produce movies for large-scale theatrical release, a big increase from years past, seeking to grow awareness of TV+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230323/p15#a230323p15)
- - [Researchers warn of &quot;industrial capture&quot; in AI as companies dominate the sector; 96% of the biggest AI models belonged to companies in 2021, up from 11% in 2010 &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230323/p14#a230323p14)<!-- TECH:END -->
+ - [Withings Body Comp Scale and Health+ Review: Not Enough for Too Much](https://www.wired.com/review/withings-body-comp-health-plus/)
+ - [Block drops 20%+ after Hindenburg Research discloses a short position and alleges the company overstated user counts and understated customer acquisition costs &lpar;Reuters&rpar;](http://www.techmeme.com/230323/p17#a230323p17)
+ - [Apple TV+ to spend $1 billion annually on movie theatrical releases](https://appleinsider.com/articles/23/03/23/apple-tv-to-spend-1-billion-annually-on-movie-theatrical-releases?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
