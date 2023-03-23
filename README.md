@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [But did it work?](http://9gag.com/gag/a04XZqL)
- - 🚯 [VALVE COUNTER STRIKE 2 IS COMING!!!](http://9gag.com/gag/abv1gPE)
- - 🚯 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)<!-- MEMES:END -->
+ - 🚯 [Happy Ramadhan](http://9gag.com/gag/amA1oPy)
+ - 🚯 [Emotional damage](http://9gag.com/gag/aQEvRz7)<!-- MEMES:END -->
 
 --- 
 
