@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Favorite Podcast Is Probably an ‘Experience’ Now](https://www.wired.com/story/future-of-podcasts/)
- - [5 Best Sex Toy Deals: Vibrators, Harnesses, and More](https://www.wired.com/story/sex-toy-deals-march-2023/)
- - [If the US Bans TikTok, WeChat Might Be Next](https://www.wired.com/story/if-the-us-bans-tiktok-wechat-might-be-next/)<!-- TECH:END -->
+ - [Aqara Video Doorbell G4 is battery powered with HomeKit Secure Video](https://appleinsider.com/articles/23/03/23/aqara-video-doorbell-g4-is-battery-powered-with-homekit-secure-video?utm_medium=rss)
+ - [Sources: Apple plans to spend $1B/year to produce movies for large-scale theatrical release, a big increase from years past, seeking to grow awareness of TV+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230323/p15#a230323p15)
+ - [Researchers warn of &quot;industrial capture&quot; in AI as companies dominate the sector; 96% of the biggest AI models belonged to companies in 2021, up from 11% in 2010 &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230323/p14#a230323p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
