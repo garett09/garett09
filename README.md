@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another classic.](http://9gag.com/gag/aEq6p5O)
- - 🚯 [29-year-old scientist enrolled in high school and pretended to be a teenager because she was lonely and \u201cwanted to return to a place of safety\u201d](http://9gag.com/gag/amA1o6V)
- - 🚯 [How silk is made](http://9gag.com/gag/az2d5Ez)<!-- MEMES:END -->
+ - 🚖 [Bum goes brrrrr](http://9gag.com/gag/aDY67Wx)
+ - 🚯 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
+ - 🚯 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
 
 --- 
 
