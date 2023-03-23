@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
- - 🚯 [So, what happens now?](http://9gag.com/gag/aA06yEE)
- - 🚯 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
+ - 🚖 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
+ - 🚯 [Another classic.](http://9gag.com/gag/aEq6p5O)
+ - 🚯 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)<!-- MEMES:END -->
 
 --- 
 
