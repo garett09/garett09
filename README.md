@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Space cup which can hold coffee without gravity](http://9gag.com/gag/aeQ19mB)
- - 🚯 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
- - 🚯 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)<!-- MEMES:END -->
+ - 🚖 [Another classic.](http://9gag.com/gag/aEq6p5O)
+ - 🚯 [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)
+ - 🚯 [Hard day at work](http://9gag.com/gag/a1PNrn6)<!-- MEMES:END -->
 
 --- 
 
