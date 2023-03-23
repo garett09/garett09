@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Terraform Labs co-founder Do Kwon was detained in Montenegro while trying to fly to Dubai using falsified Costa Rican travel documents &lpar;Bloomberg&rpar;](http://www.techmeme.com/230323/p28#a230323p28)
- - [An AirTag helped the DEA in a narcotics investigation](https://appleinsider.com/articles/23/03/23/an-airtag-helped-the-dea-in-a-narcotics-investigation?utm_medium=rss)
- - [57% off the Google Nest Wi-Fi, plus more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)<!-- TECH:END -->
+ - [Framework’s next move is a 16-inch modular gaming laptop](https://www.androidauthority.com/framework-gaming-laptop-3301578/)
+ - [Where can you stream the best Jenna Ortega movies and TV shows?](https://www.androidauthority.com/jenna-ortega-movies-and-tv-shows-3300716/)
+ - [Shou Chew&#39;s answers to often-hostile questions did little to calm bipartisan fury aimed at TikTok, instead giving critics more fuel to insist the US ban the app &lpar;Bloomberg&rpar;](http://www.techmeme.com/230323/p30#a230323p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
