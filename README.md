@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Wireless Charging Platform review: A premium, Tesla-branded AirPower clone](https://appleinsider.com/articles/23/03/23/tesla-wireless-charging-platform-review-a-premium-tesla-branded-airpower-clone?utm_medium=rss)
- - [For Smarter Robots, Just Add Humans](https://www.wired.com/story/fast-forward-for-smarter-robots-just-add-humans/)
- - [China &quot;firmly opposes&quot; a forced sale of TikTok, warning the move would involve &quot;technology export&quot; and would &quot;seriously damage&quot; investor confidence in the US &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/230323/p22#a230323p22)<!-- TECH:END -->
+ - [The Lord of the Rings: Gollum has moral choices that feel true to the story](https://www.theverge.com/23643694/lord-of-the-rings-gollum-demo-hands-on-impression)
+ - [TikTok CEO Shou Zi Chew tells Congress that &quot;after Project Texas is done&quot; no China-based ByteDance employee will have access to US TikTok data &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230323/p24#a230323p24)
+ - [Snap unveils AR Enterprise Services, offering its AR Lenses and Filters to businesses, and says over 250M people engage with AR on Snapchat every day &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230323/p23#a230323p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
