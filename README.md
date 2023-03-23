@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Video game Everywhere crams the ambition of GTA inside a Roblox competitor](https://www.polygon.com/23653091/everywhere-mindseye-gta-leslie-benzies-build-a-rocket-boy-preview)
- - [Get $743 worth of Warhammer 40K rulebooks at Humble Bundle for just $25](https://www.polygon.com/deals/23651981/warhammer-40k-ttrpg-rulebooks-humble-bundle-deal-sale)
- - [Counter-Strike 2 comes with Half-Life: Alyx&#39;s most needlessly impressive graphics quirk](https://www.pcgamer.com/counter-strike-2-comes-with-half-life-alyxs-most-needlessly-impressive-graphics-quirk)<!-- GAME:END -->
+ - [These are the 34 jobs OpenAI suggests will secure you against the AI revolution](https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution)
+ - [Free Play Days – Far Cry 5, Bassmaster Fishing 2022: Classic Edition, and Marvel’s Midnight Suns Enhanced Edition](https://news.xbox.com/en-us/2023/03/23/free-play-days-far-cry-5-bassmaster-fishing-2022-and-marvels-midnight-suns/)
+ - [Descent Act 2 arrives this fall with a foot-tall miniature and more vertical terrain](https://www.polygon.com/tabletop-games/23641851/descent-act-2-betrayers-war-preview-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
