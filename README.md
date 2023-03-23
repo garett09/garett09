@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bum goes brrrrr](http://9gag.com/gag/aDY67Wx)
- - 🚯 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
- - 🚯 [MVP](http://9gag.com/gag/abv1rKL)<!-- MEMES:END -->
+ - 🚖 [Say what now?](http://9gag.com/gag/aZD1ZX0)
+ - 🚯 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
+ - 🚯 [Traffic laws don&#39;t apply to me](http://9gag.com/gag/a9q6REK)<!-- MEMES:END -->
 
 --- 
 
