@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Munich-based IntegrityNext, a service that helps companies audit supply chains for ESG compliance, raised &amp;euro;100M from EQT Growth, its first outside investment &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230323/p8#a230323p8)
- - [Daily Authority: 📱 Pebble Phone to make a splash?](https://www.androidauthority.com/daily-authority-march-23-2023-3301314/)
- - [A look at Replika&#39;s decision to block adult content in its AI companion chatbot; 60% of paying customers had a romantic element in their Replika relationship &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/230323/p7#a230323p7)<!-- TECH:END -->
+ - [Intel, IBM, Nvidia, and other chip companies have joined industrial materials businesses to fight proposed clampdowns on &quot;forever chemicals&quot; across the US &lpar;Patrick Temple-West/Financial Times&rpar;](http://www.techmeme.com/230323/p10#a230323p10)
+ - [Brandon Sanderson Is Your God](https://www.wired.com/story/brandon-sanderson-is-your-god/)
+ - [HUAWEI Mate X3 announced: Everything but the kitchen sink &lpar;and Google support&rpar;](https://www.androidauthority.com/huawei-mate-x3-2-3301339/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
