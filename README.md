@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nailed it](http://9gag.com/gag/awZ33PR)
- - 🚯 [Using FPVRC in Petco to get fish food.](http://9gag.com/gag/ay23MRq)
- - 🚯 [Bro showed no mercy](http://9gag.com/gag/aoK33rw)<!-- MEMES:END -->
+ - 🚖 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
+ - 🚯 [Hard day at work](http://9gag.com/gag/a1PNrn6)
+ - 🚯 [Pretty accurate](http://9gag.com/gag/a1PNDdD)<!-- MEMES:END -->
 
 --- 
 
