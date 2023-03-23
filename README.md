@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000&#39;s new edition looks accessible, nostalgic, and perhaps a bit less appealing to Nazis](https://www.pcgamer.com/warhammer-40000s-new-edition-looks-accessible-nostalgic-and-perhaps-a-bit-less-appealing-to-nazis)
- - [PC Gamer Chat Log Episode 4: Did we dig Diablo 4?](https://www.pcgamer.com/pc-gamer-chat-log-episode-4-did-we-dig-diablo-4)
- - [The best video games of 2023 so far](https://www.polygon.com/23648669/best-video-games-2023)<!-- GAME:END -->
+ - [What to watch after The Last of Us to keep the good-bad vibes going](https://www.polygon.com/what-to-watch/23648432/movies-tv-like-last-of-us-show-series-watch)
+ - [Fraud Alert: Goku Has Never Actually Beaten Vegeta](https://kotaku.com/dragon-ball-super-dbz-vegeta-goku-battle-anime-1850257752)
+ - [The Mandalorian Finally Honors Star Wars&#39; Most Unfairly Abused Actor](https://kotaku.com/mandalorian-star-wars-jedi-beq-jarjar-actor-ahmed-best-1850257681)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
