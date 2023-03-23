@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
- - 🚯 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)
- - 🚯 [Longer version?](http://9gag.com/gag/a2Kw7ve)<!-- MEMES:END -->
+ - 🚖 [Oof](http://9gag.com/gag/a4o6oPv)
+ - 🚯 [Japan just defeated US to win World Baseball Classic 2023](http://9gag.com/gag/a04XN2Q)
+ - 🚯 [Asian plus-size clothing store names](http://9gag.com/gag/a9q61vo)<!-- MEMES:END -->
 
 --- 
 
