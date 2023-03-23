@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stabilised footage of the Bigfoot film from 1967.](http://9gag.com/gag/ago1ABv)
- - 🚯 [But did it work?](http://9gag.com/gag/a04XZqL)
- - 🚯 [I need to be as patient as this trucker](http://9gag.com/gag/a6qXNqm)<!-- MEMES:END -->
+ - 🚖 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
+ - 🚯 [Father with Down syndrome who worked in a factory for 25 years and raised his son to become a doctor](http://9gag.com/gag/anzRgKo)
+ - 🚯 [Ok is he... Is he also... Never mind.](http://9gag.com/gag/a2KwMAp)<!-- MEMES:END -->
 
 --- 
 
