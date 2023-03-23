@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another classic.](http://9gag.com/gag/aEq6p5O)
- - 🚯 [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)
- - 🚯 [Hard day at work](http://9gag.com/gag/a1PNrn6)<!-- MEMES:END -->
+ - 🚖 [Father with Down syndrome who worked in a factory for 25 years and raised his son to become a doctor](http://9gag.com/gag/anzRgKo)
+ - 🚯 [Are you missing a forearm muscle? This is How to test for it.](http://9gag.com/gag/a5X6WEr)
+ - 🚯 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)<!-- MEMES:END -->
 
 --- 
 
