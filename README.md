@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 is reportedly killing some RTX 3080 Ti graphics cards](https://www.pcgamer.com/diablo-4-rtx-3080-ti-issue)
- - [Does The Mandalorian just want us to forget Bo-Katan has the Darksaber now?](https://www.polygon.com/23652162/mandalorian-season-3-bo-katan-darksaber)
- - [Elden Ring just got ray tracing, but you might not want to use it](https://www.pcgamer.com/elden-ring-just-got-ray-tracing-but-you-might-not-want-to-use-it)<!-- GAME:END -->
+ - [How to get a Crystal Tuning Fork in WoW Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-crystal-fork)
+ - [Lego 2K Drive builds on the tracks laid by Mario Kart and Forza Horizon](https://www.polygon.com/23652179/lego-2k-drive-release-date-trailer-preview)
+ - [Diablo 4 is reportedly killing some RTX 3080 Ti graphics cards](https://www.pcgamer.com/diablo-4-rtx-3080-ti-issue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
