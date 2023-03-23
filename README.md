@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel, IBM, Nvidia, and other chip companies have joined industrial materials businesses to fight proposed clampdowns on &quot;forever chemicals&quot; across the US &lpar;Patrick Temple-West/Financial Times&rpar;](http://www.techmeme.com/230323/p10#a230323p10)
- - [Brandon Sanderson Is Your God](https://www.wired.com/story/brandon-sanderson-is-your-god/)
- - [HUAWEI Mate X3 announced: Everything but the kitchen sink &lpar;and Google support&rpar;](https://www.androidauthority.com/huawei-mate-x3-2-3301339/)<!-- TECH:END -->
+ - [Your Favorite Podcast Is Probably an ‘Experience’ Now](https://www.wired.com/story/future-of-podcasts/)
+ - [5 Best Sex Toy Deals: Vibrators, Harnesses, and More](https://www.wired.com/story/sex-toy-deals-march-2023/)
+ - [If the US Bans TikTok, WeChat Might Be Next](https://www.wired.com/story/if-the-us-bans-tiktok-wechat-might-be-next/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
