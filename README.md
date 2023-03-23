@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Lego Racing Game Looks Like A Chaotic Open-World Mario Kart](https://kotaku.com/lego-car-racing-open-world-mario-kart-2k-drive-1850256922)
- - [C-Smash VRS: demo out today, PS VR2 features detailed](https://blog.playstation.com/2023/03/23/c-smash-vrs-demo-out-today-ps-vr2-features-detailed/)
- - [The best comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)<!-- GAME:END -->
+ - [Warhammer 40,000&#39;s new edition looks accessible, nostalgic, and perhaps a bit less appealing to Nazis](https://www.pcgamer.com/warhammer-40000s-new-edition-looks-accessible-nostalgic-and-perhaps-a-bit-less-appealing-to-nazis)
+ - [PC Gamer Chat Log Episode 4: Did we dig Diablo 4?](https://www.pcgamer.com/pc-gamer-chat-log-episode-4-did-we-dig-diablo-4)
+ - [The best video games of 2023 so far](https://www.polygon.com/23648669/best-video-games-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
