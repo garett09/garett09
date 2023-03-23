@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But did it work?](http://9gag.com/gag/a04XZqL)
+ - 🚖 [C is for `coming out`.](http://9gag.com/gag/a4o63x6)
  - 🚯 [Happy Ramadhan](http://9gag.com/gag/amA1oPy)
- - 🚯 [Emotional damage](http://9gag.com/gag/aQEvRz7)<!-- MEMES:END -->
+ - 🚯 [Asian plus-size clothing store names](http://9gag.com/gag/a9q61vo)<!-- MEMES:END -->
 
 --- 
 
