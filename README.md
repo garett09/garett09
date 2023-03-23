@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These are the 34 jobs OpenAI suggests will secure you against the AI revolution](https://www.pcgamer.com/these-are-the-34-jobs-openai-suggests-will-secure-you-against-the-ai-revolution)
- - [Free Play Days – Far Cry 5, Bassmaster Fishing 2022: Classic Edition, and Marvel’s Midnight Suns Enhanced Edition](https://news.xbox.com/en-us/2023/03/23/free-play-days-far-cry-5-bassmaster-fishing-2022-and-marvels-midnight-suns/)
- - [Descent Act 2 arrives this fall with a foot-tall miniature and more vertical terrain](https://www.polygon.com/tabletop-games/23641851/descent-act-2-betrayers-war-preview-release-date-price)<!-- GAME:END -->
+ - [The Lego Racing Game Looks Like A Chaotic Open-World Mario Kart](https://kotaku.com/lego-car-racing-open-world-mario-kart-2k-drive-1850256922)
+ - [C-Smash VRS: demo out today, PS VR2 features detailed](https://blog.playstation.com/2023/03/23/c-smash-vrs-demo-out-today-ps-vr2-features-detailed/)
+ - [The best comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
