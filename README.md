@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework’s next move is a 16-inch modular gaming laptop](https://www.androidauthority.com/framework-gaming-laptop-3301578/)
- - [Where can you stream the best Jenna Ortega movies and TV shows?](https://www.androidauthority.com/jenna-ortega-movies-and-tv-shows-3300716/)
- - [Shou Chew&#39;s answers to often-hostile questions did little to calm bipartisan fury aimed at TikTok, instead giving critics more fuel to insist the US ban the app &lpar;Bloomberg&rpar;](http://www.techmeme.com/230323/p30#a230323p30)<!-- TECH:END -->
+ - [“Click-to-Cancel” rule aims to make unsubscribing less of a pain](https://www.androidauthority.com/click-to-cancel-3301634/)
+ - [TikTok Paid for Influencers to Attend the Pro-TikTok Rally in DC](https://www.wired.com/story/tiktok-rally-washington-chew-testimony/)
+ - [US prosecutors in New York charge Terraform Labs co-founder Do Kwon with eight counts, including securities fraud, commodities fraud, and wire fraud &lpar;Ava Benny-Morrison/Bloomberg&rpar;](http://www.techmeme.com/230323/p31#a230323p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
