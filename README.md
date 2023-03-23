@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
- - 🚯 [Father with Down syndrome who worked in a factory for 25 years and raised his son to become a doctor](http://9gag.com/gag/anzRgKo)
- - 🚯 [Ok is he... Is he also... Never mind.](http://9gag.com/gag/a2KwMAp)<!-- MEMES:END -->
+ - 🚖 [Space cup which can hold coffee without gravity](http://9gag.com/gag/aeQ19mB)
+ - 🚯 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
+ - 🚯 [\u201cWe are currently experiencing changes that have not been seen in 100 years\u201d - Xi Jinping speaks to Putin at the end of the meeting.](http://9gag.com/gag/a1PNRjD)<!-- MEMES:END -->
 
 --- 
 
