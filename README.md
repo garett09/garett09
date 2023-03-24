@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How silk is made](http://9gag.com/gag/az2d5Ez)
- - 🚯 [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
- - 🚯 [Post the best you got](http://9gag.com/gag/aRE4MMA)<!-- MEMES:END -->
+ - 🚖 [Block traffic](http://9gag.com/gag/adP1nVd)
+ - 🚯 [Taking pick up lines to the next level](http://9gag.com/gag/aqeX68P)
+ - 🚯 [No other Social media like this](http://9gag.com/gag/aeQ1xAQ)<!-- MEMES:END -->
 
 --- 
 
