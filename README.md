@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lies of P is so blatantly Bloodborne that I feel bad for liking it](https://www.pcgamer.com/lies-of-p-is-so-blatantly-bloodborne-that-i-feel-bad-for-liking-it)
- - [Lance Reddick will live on in more ‘performances to come’ in Destiny 2](https://www.polygon.com/23655585/lance-reddick-death-destiny-2-voice-actor-message-tribute)
- - [Sludge Life is free on Steam because Sludge Life 2 is coming later this year](https://www.pcgamer.com/sludge-life-is-free-on-steam-because-sludge-life-2-is-coming-later-this-year)<!-- GAME:END -->
+ - [Wordle&#39;s hardest word caused 60% of players to break their streaks](https://www.pcgamer.com/wordles-hardest-word-caused-60-of-players-to-break-their-streaks)
+ - [Who is Jack Krauser, and what is Operation Javier, in Resident Evil 4?](https://www.polygon.com/23654795/resident-evil-4-remake-operation-javier-jack-krauser)
+ - [Knock at the Cabin, Nope, Netflix’s Furies, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/3/24/23644814/new-movies-watch-pathaan-netflix-furies-knock-at-the-cabin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
