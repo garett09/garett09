@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s official: The ASUS ROG Phone 7 is coming soon](https://www.androidauthority.com/asus-rog-phone-7-launch-3301811/)
- - [Pegatron plans second iPhone plant in India](https://appleinsider.com/articles/23/03/24/pegatron-plans-second-iphone-plant-in-india?utm_medium=rss)
- - [March Madness 2023: How to Watch the Women&#39;s Sweet 16 Games Today     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2023-how-to-watch-the-womens-sweet-16-games-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily Authority: 🔥 New foldable in town plus some Friday fun!](https://www.androidauthority.com/daily-authority-march-24-2023-3301718/)
+ - [Is GPT-4 Worth the Subscription? Here’s What You Should Know](https://www.wired.com/story/what-is-chatgpt-plus-gpt4-openai/)
+ - [The Fight to Expose Corporations’ Real Impact on the Climate](https://www.wired.com/story/the-fight-to-expose-corporations-real-impact-on-the-climate/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
