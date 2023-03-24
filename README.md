@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But did it work?](http://9gag.com/gag/a04XZqL)
- - 🚯 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
- - 🚯 [Subordinate to the Moskovian Patriarch Kirill kicks a believer because she does not have money to give when he is collecting alms.](http://9gag.com/gag/a1PN0nG)<!-- MEMES:END -->
+ - 🚖 [Never hit a bull.](http://9gag.com/gag/a8q60g1)
+ - 🚯 [Cat companion](http://9gag.com/gag/a4o6zN6)
+ - 🚯 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)<!-- MEMES:END -->
 
 --- 
 
