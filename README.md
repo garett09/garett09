@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quantum computing startup Strangeworks raised a $24M Series A led by Hitachi Ventures with participation from IBM and Raytheon Technologies &lpar;SiliconHills&rpar;](http://www.techmeme.com/230323/p36#a230323p36)
- - [An unprecedented look into TSMC gives insight into iPhone chip production](https://appleinsider.com/articles/23/03/24/an-unprecedented-look-into-tsmc-gives-insight-into-iphone-chip-production?utm_medium=rss)
- - [Messages in Binance&#39;s public chatrooms show some employees and support volunteers helping customers bypass China&#39;s crypto ban, including evading its KYC checks &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230323/p35#a230323p35)<!-- TECH:END -->
+ - [CISA releases an open-source Python-based utility to detect signs of malicious activity in Microsoft cloud environments &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230323/p37#a230323p37)
+ - [Child spends over $800 on &#39;Roblox&#39; using password reset bypass](https://appleinsider.com/articles/23/03/24/child-spends-over-800-on-roblox-using-password-reset-bypass?utm_medium=rss)
+ - [Best Cheap Meal Delivery Services of 2023     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
