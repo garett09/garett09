@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best doormat ever](http://9gag.com/gag/a5X666q)
- - 🚯 [600 IQ individual](http://9gag.com/gag/aZD1w8Q)
- - 🚯 [New rusian propaganda video is out](http://9gag.com/gag/aeQ1Z1m)<!-- MEMES:END -->
+ - 🚖 [Police join force with their people](http://9gag.com/gag/aMEBnGx)
+ - 🚯 [TikTok CEO&#39;s lies exposed](http://9gag.com/gag/aZD18j3)
+ - 🚯 [This guide shows which car and year to avoid](http://9gag.com/gag/aeQ1O55)<!-- MEMES:END -->
 
 --- 
 
