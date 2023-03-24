@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nasdaq says it expects its custody services for digital assets to launch by end of Q2, starting with Bitcoin and Ether &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230324/p9#a230324p9)
- - [Nomad Stand One review: A luxe MagSafe charging stand](https://appleinsider.com/articles/23/03/24/nomad-stand-one-review-a-luxe-magsafe-charging-stand?utm_medium=rss)
- - [AliExpress’ new CHOICE offering makes shopping easier than ever](https://www.androidauthority.com/aliexpress-new-choice-offering-makes-shopping-easier-than-ever-3301737/)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; Is a Zombie Story with Heart](https://www.wired.com/2023/03/geeks-guide-the-last-of-us/)
+ - [Sources: China released top chip investor Chen Datong, detained in 2022 as part of a chip industry crackdown, as it seeks experts to navigate western sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/230324/p10#a230324p10)
+ - [New Nothing earbuds spotted in listing and they look a little nutty](https://www.androidauthority.com/nothing-earbuds-image-3301868/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
