@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 pre-order guide](https://www.polygon.com/deals/23641318/diablo-4-pre-order-standard-deluxe-ultimate-editions)
- - [How Dredge Corrupts ‘Cozy Fishing’ Into ‘Cosmic Horror’](https://news.xbox.com/en-us/2023/03/24/dredge-cozy-fishing-cosmic-horror/)
- - [The best Diablo 4 Barbarian builds](https://www.polygon.com/23654868/barbarian-best-build-skills)<!-- GAME:END -->
+ - [Manage your own alchemical business in Potion Tycoon](https://www.pcgamer.com/manage-your-own-alchemical-business-in-potion-tycoon)
+ - [Can’t wait for the new Mission: Impossible movie? Just watch the Bollywood spy blockbuster Pathaan](https://www.polygon.com/23653492/pathaan-bollywood-best-spy-movie-like-mission-impossible-bond)
+ - [PS5 Bundle Finally Goes On Sale For The First Time Ever, But It Won&#39;t Last](https://kotaku.com/ps5-god-war-ragnarok-bundle-cheap-sale-discount-1850262049)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
