@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never hit a bull.](http://9gag.com/gag/a8q60g1)
- - 🚯 [Cat companion](http://9gag.com/gag/a4o6zN6)
- - 🚯 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)<!-- MEMES:END -->
+ - 🚖 [How silk is made](http://9gag.com/gag/az2d5Ez)
+ - 🚯 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)
+ - 🚯 [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)<!-- MEMES:END -->
 
 --- 
 
