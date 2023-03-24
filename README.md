@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A &#39;psychological deck builder&#39; about facing your fears is free on GOG](https://www.pcgamer.com/a-psychological-deck-builder-about-facing-your-fears-is-free-on-gog)
- - [Season 4 is the wildest Love Is Blind season since the first. Let’s discuss](https://www.polygon.com/23653734/love-blind-season-4-new-episodes)
- - [We haven&#39;t heard the last of Lance Reddick in Destiny 2: Bungie says there are &#39;performances yet to come in the game&#39;](https://www.pcgamer.com/we-havent-heard-the-last-of-lance-reddick-in-destiny-2-bungie-says-there-are-performances-yet-to-come-in-the-game)<!-- GAME:END -->
+ - [This Week on Xbox: Lego Racing Game Revealed, Crash Team Rumble, and More Coming Soon](https://news.xbox.com/en-us/2023/03/24/this-week-on-xbox-lego-racing-game-revealed-crash-team-rumble-and-more-coming-soon/)
+ - [‘What happens if Kirby swallows a hot man?’ His directors give answers](https://www.polygon.com/23652624/kirby-questions-answered-directors-nintendo-interview)
+ - [How Diablo 4 multiplayer works in the open beta](https://www.pcgamer.com/how-diablo-4-multiplayer-works-in-the-open-beta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
