@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Strategy Board Games for 2023     - CNET](https://www.cnet.com/culture/entertainment/best-strategy-board-games/#ftag=CAD590a51e)
  - [That TikTok hearing was pretty messed up, right?](https://www.theverge.com/2023/3/24/23654831/tiktok-congressional-hearing-xenophobia-china)
- - [Some questions for the employees behind Google Docs](https://www.theverge.com/2023/3/24/23655476/google-docs-update-redesign-ugly)
- - [Trying to recreate Mario Kart in the Fortnite editor could get you banned](https://www.theverge.com/2023/3/24/23655462/epic-games-unreal-editor-fortnite-permaban-dmca)<!-- TECH:END -->
+ - [Some questions for the employees behind Google Docs](https://www.theverge.com/2023/3/24/23655476/google-docs-update-redesign-ugly)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
