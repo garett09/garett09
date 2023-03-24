@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guide shows which car and year to avoid](http://9gag.com/gag/aeQ1O55)
- - 🚯 [The cheapest woman is the one you pay for](http://9gag.com/gag/aRE4z6q)
- - 🚯 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)<!-- MEMES:END -->
+ - 🚖 [How silk is made](http://9gag.com/gag/az2d5Ez)
+ - 🚯 [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
+ - 🚯 [Post the best you got](http://9gag.com/gag/aRE4MMA)<!-- MEMES:END -->
 
 --- 
 
