@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Block traffic](http://9gag.com/gag/adP1nVd)
- - 🚯 [Taking pick up lines to the next level](http://9gag.com/gag/aqeX68P)
- - 🚯 [No other Social media like this](http://9gag.com/gag/aeQ1xAQ)<!-- MEMES:END -->
+ - 🚖 [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
+ - 🚯 [Saving a stuck dog](http://9gag.com/gag/ago1xgr)
+ - 🚯 [Keep your damn dog on a leash !](http://9gag.com/gag/a4o65Kw)<!-- MEMES:END -->
 
 --- 
 
