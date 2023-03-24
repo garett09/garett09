@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On April 1, all a Twitter blue checkmark will mean is the user is paid](https://appleinsider.com/articles/23/03/24/on-april-1-all-a-twitter-blue-checkmark-will-mean-is-the-user-is-paid?utm_medium=rss)
- - [Bob Metcalfe, The Man Who Discovered Network Effects, Isn&#39;t Sorry](https://www.wired.com/story/plaintext-the-man-who-discovered-network-effects-isnt-sorry/)
- - [5 Robot Vacuum Tips to Help You Keep a Tidy Home &lpar;2023&rpar;](https://www.wired.com/story/surprising-tips-for-your-robot-vacuum/)<!-- TECH:END -->
+ - [16 Best Wireless Earbuds &lpar;2023&rpar;: Truly Wireless, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [AirPods Pro 2 rumored to get Apple&#39;s first USB-C charging case](https://appleinsider.com/articles/23/03/24/airpods-pro-2-rumored-to-get-apples-first-usb-c-charging-case?utm_medium=rss)
+ - [CMA narrows probe of Microsoft&#39;s $69B Activision Blizzard acquisition, saying new evidence &quot;provisionally alleviates&quot; concerns about UK game console supply &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230324/p7#a230324p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
