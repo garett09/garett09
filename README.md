@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
- - 🚯 [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)
- - 🚯 [Mobile game ads are evolving](http://9gag.com/gag/aMEBB9P)<!-- MEMES:END -->
+ - 🚖 [Mobile game ads are evolving](http://9gag.com/gag/aMEBB9P)
+ - 🚯 [How silk is made](http://9gag.com/gag/az2d5Ez)
+ - 🚯 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)<!-- MEMES:END -->
 
 --- 
 
