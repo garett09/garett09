@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Last of Us&#39; Is a Zombie Story with Heart](https://www.wired.com/2023/03/geeks-guide-the-last-of-us/)
- - [Sources: China released top chip investor Chen Datong, detained in 2022 as part of a chip industry crackdown, as it seeks experts to navigate western sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/230324/p10#a230324p10)
- - [New Nothing earbuds spotted in listing and they look a little nutty](https://www.androidauthority.com/nothing-earbuds-image-3301868/)<!-- TECH:END -->
+ - [Everything you need to know for the Diablo IV open beta](https://www.theverge.com/23639562/diablo-4-open-beta-access-pc-console)
+ - [Yellowjackets season 2 is more of an appetizer than a feast](https://www.theverge.com/23654990/yellowjackets-season-2-review-showtime)
+ - [ChatGPT set off a VC rush to invest in generative AI startups; PitchBook says AI startup investments grew from $1.5B in 2020 to $5.9B+ since the start of 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/230324/p11#a230324p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
