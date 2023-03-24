@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Company of Heroes 3&#39;s environmental gameplay lets you literally reshape the battlefield](https://www.pcgamer.com/company-of-heroes-3s-environmental-gameplay-lets-you-literally-reshape-the-battlefield)
- - [Next Week on Xbox: New Games for March 27 to 31](https://news.xbox.com/en-us/2023/03/24/next-week-on-xbox-new-games-for-march-27-to-31/)
- - [Microsoft Just Overcame A Major Hurdle Blocking The Activision Deal](https://kotaku.com/activision-microsoft-xbox-call-duty-sony-ps5-exclusive-1850261251)<!-- GAME:END -->
+ - [Intel NUC 13 Extreme](https://www.pcgamer.com/intel-nuc-13-extreme-review-performance)
+ - [Where to get and how to use Whispering Keys in Diablo 4](https://www.pcgamer.com/diablo-4-whispering-key-silent-chest)
+ - [Ash and Pikachu’s last episode in the Pokémon series brings up all the feels](https://www.polygon.com/pokemon/23654829/pokemon-anime-ending-ash-pikachu-last-episode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
