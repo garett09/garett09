@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Fold, then Flip, now Samsung could launch a Tri-Fold in 2023](https://www.androidauthority.com/samsung-tri-fold-foldable-2023-leak-3301762/)
- - [ASUS ROG Phone 7: Everything we know so far and what we want to see](https://www.androidauthority.com/asus-rog-phone-7-release-date-specs-price-rumors-3298310/)
- - [Snapdragon 8 Gen 3 processor leaks: A 64-bit-only powerhouse?](https://www.androidauthority.com/snapdragon-8-gen-3-leak-3300907/)<!-- TECH:END -->
+ - [It’s official: The ASUS ROG Phone 7 is coming soon](https://www.androidauthority.com/asus-rog-phone-7-launch-3301811/)
+ - [Pegatron plans second iPhone plant in India](https://appleinsider.com/articles/23/03/24/pegatron-plans-second-iphone-plant-in-india?utm_medium=rss)
+ - [March Madness 2023: How to Watch the Women&#39;s Sweet 16 Games Today     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2023-how-to-watch-the-womens-sweet-16-games-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
