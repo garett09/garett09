@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your girl let you do that](http://9gag.com/gag/ajV1gBx)
- - 🚯 [Cat companion](http://9gag.com/gag/a4o6zN6)
- - 🚯 [How silk is made](http://9gag.com/gag/az2d5Ez)<!-- MEMES:END -->
+ - 🚖 [Nailed it](http://9gag.com/gag/awZ33PR)
+ - 🚯 [600 IQ individual](http://9gag.com/gag/aZD1w8Q)
+ - 🚯 [Happy Ramadhan](http://9gag.com/gag/amA1oPy)<!-- MEMES:END -->
 
 --- 
 
