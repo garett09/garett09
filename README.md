@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Lego Racing Game Revealed, Crash Team Rumble, and More Coming Soon](https://news.xbox.com/en-us/2023/03/24/this-week-on-xbox-lego-racing-game-revealed-crash-team-rumble-and-more-coming-soon/)
- - [‘What happens if Kirby swallows a hot man?’ His directors give answers](https://www.polygon.com/23652624/kirby-questions-answered-directors-nintendo-interview)
- - [How Diablo 4 multiplayer works in the open beta](https://www.pcgamer.com/how-diablo-4-multiplayer-works-in-the-open-beta)<!-- GAME:END -->
+ - [Genshin Impact developer&#39;s turn-based RPG will launch next month](https://www.pcgamer.com/genshin-impact-developers-turn-based-rpg-will-launch-next-month)
+ - [Bringing Authenticity And Humor To Like A Dragon&#39;s &#39;Western Renaissance&#39;](https://kotaku.com/yakuza-like-a-dragon-ishin-majima-kiryu-localization-1850263200)
+ - [This Week on Xbox: Lego Racing Game Revealed, Crash Team Rumble, and More Coming Soon](https://news.xbox.com/en-us/2023/03/24/this-week-on-xbox-lego-racing-game-revealed-crash-team-rumble-and-more-coming-soon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
