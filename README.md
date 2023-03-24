@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How silk is made](http://9gag.com/gag/az2d5Ez)
- - 🚯 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)
- - 🚯 [New rusian propaganda video is out](http://9gag.com/gag/aeQ1Z1m)<!-- MEMES:END -->
+ - 🚖 [But did it work?](http://9gag.com/gag/a04XZqL)
+ - 🚯 [Hard day at work](http://9gag.com/gag/a1PNrn6)
+ - 🚯 [VALVE COUNTER STRIKE 2 IS COMING!!!](http://9gag.com/gag/abv1gPE)<!-- MEMES:END -->
 
 --- 
 
