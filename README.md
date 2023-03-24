@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police join force with their people](http://9gag.com/gag/aMEBnGx)
- - 🚯 [TikTok CEO&#39;s lies exposed](http://9gag.com/gag/aZD18j3)
- - 🚯 [This guide shows which car and year to avoid](http://9gag.com/gag/aeQ1O55)<!-- MEMES:END -->
+ - 🚖 [This guide shows which car and year to avoid](http://9gag.com/gag/aeQ1O55)
+ - 🚯 [The cheapest woman is the one you pay for](http://9gag.com/gag/aRE4z6q)
+ - 🚯 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)<!-- MEMES:END -->
 
 --- 
 
