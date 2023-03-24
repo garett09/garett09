@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Wireless Earbuds &lpar;2023&rpar;: Truly Wireless, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [AirPods Pro 2 rumored to get Apple&#39;s first USB-C charging case](https://appleinsider.com/articles/23/03/24/airpods-pro-2-rumored-to-get-apples-first-usb-c-charging-case?utm_medium=rss)
- - [CMA narrows probe of Microsoft&#39;s $69B Activision Blizzard acquisition, saying new evidence &quot;provisionally alleviates&quot; concerns about UK game console supply &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230324/p7#a230324p7)<!-- TECH:END -->
+ - [Nasdaq says it expects its custody services for digital assets to launch by end of Q2, starting with Bitcoin and Ether &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230324/p9#a230324p9)
+ - [Nomad Stand One review: A luxe MagSafe charging stand](https://appleinsider.com/articles/23/03/24/nomad-stand-one-review-a-luxe-magsafe-charging-stand?utm_medium=rss)
+ - [AliExpress’ new CHOICE offering makes shopping easier than ever](https://www.androidauthority.com/aliexpress-new-choice-offering-makes-shopping-easier-than-ever-3301737/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
