@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mobile game ads are evolving](http://9gag.com/gag/aMEBB9P)
- - 🚯 [How silk is made](http://9gag.com/gag/az2d5Ez)
- - 🚯 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)<!-- MEMES:END -->
+ - 🚖 [When your girl let you do that](http://9gag.com/gag/ajV1gBx)
+ - 🚯 [Cat companion](http://9gag.com/gag/a4o6zN6)
+ - 🚯 [How silk is made](http://9gag.com/gag/az2d5Ez)<!-- MEMES:END -->
 
 --- 
 
