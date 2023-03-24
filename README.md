@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
- - 🚯 [Hard day at work](http://9gag.com/gag/a1PNrn6)
- - 🚯 [Pretty accurate](http://9gag.com/gag/a1PNDdD)<!-- MEMES:END -->
+ - 🚖 [Torii gate in an abandoned tunnel in Japan.](http://9gag.com/gag/aA066wd)
+ - 🚯 [When your girl let you do that](http://9gag.com/gag/ajV1gBx)
+ - 🚯 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)<!-- MEMES:END -->
 
 --- 
 
