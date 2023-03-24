@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Resident Evil 4 remake walkthrough and guides](https://www.polygon.com/resident-evil-4-remake-guides/23650401/walkthrough-collectibles-tips)
  - [When does the Diablo 4 open beta start and end?](https://www.polygon.com/diablo-4-guides/23613404/open-beta-dates-times-end-access)
- - [Wordle hint and answer #643: Friday, March 24](https://www.pcgamer.com/wordle-hint-answer-today-643-march-24)
- - [Resident Evil 4’s best attache case, and where to unlock them all](https://www.polygon.com/resident-evil-4-remake-guides/23653242/best-attache-case-how-to-unlock)<!-- GAME:END -->
+ - [Wordle hint and answer #643: Friday, March 24](https://www.pcgamer.com/wordle-hint-answer-today-643-march-24)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
