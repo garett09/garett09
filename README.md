@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Post the best you got](http://9gag.com/gag/aRE4MMA)
- - 🚯 [Cat companion](http://9gag.com/gag/a4o6zN6)
- - 🚯 [Quick Thinking...](http://9gag.com/gag/ap93D3D)<!-- MEMES:END -->
+ - 🚖 [But did it work?](http://9gag.com/gag/a04XZqL)
+ - 🚯 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
+ - 🚯 [Subordinate to the Moskovian Patriarch Kirill kicks a believer because she does not have money to give when he is collecting alms.](http://9gag.com/gag/a1PN0nG)<!-- MEMES:END -->
 
 --- 
 
