@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel NUC 13 Extreme](https://www.pcgamer.com/intel-nuc-13-extreme-review-performance)
- - [Where to get and how to use Whispering Keys in Diablo 4](https://www.pcgamer.com/diablo-4-whispering-key-silent-chest)
- - [Ash and Pikachu’s last episode in the Pokémon series brings up all the feels](https://www.polygon.com/pokemon/23654829/pokemon-anime-ending-ash-pikachu-last-episode)<!-- GAME:END -->
+ - [Diablo 4 pre-order guide](https://www.polygon.com/deals/23641318/diablo-4-pre-order-standard-deluxe-ultimate-editions)
+ - [How Dredge Corrupts ‘Cozy Fishing’ Into ‘Cosmic Horror’](https://news.xbox.com/en-us/2023/03/24/dredge-cozy-fishing-cosmic-horror/)
+ - [The best Diablo 4 Barbarian builds](https://www.polygon.com/23654868/barbarian-best-build-skills)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
