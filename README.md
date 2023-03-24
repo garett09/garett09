@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
- - 🚯 [Not enough space for groceries.](http://9gag.com/gag/aA064YE)
- - 🚯 [Police join force with their people](http://9gag.com/gag/aMEBnGx)<!-- MEMES:END -->
+ - 🚖 [Best doormat ever](http://9gag.com/gag/a5X666q)
+ - 🚯 [600 IQ individual](http://9gag.com/gag/aZD1w8Q)
+ - 🚯 [New rusian propaganda video is out](http://9gag.com/gag/aeQ1Z1m)<!-- MEMES:END -->
 
 --- 
 
