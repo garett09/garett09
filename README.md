@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple&#39;s worst value in a product will be a bestseller in 2023](https://appleinsider.com/articles/23/03/24/how-apples-worst-value-in-a-product-will-be-a-bestseller-in-2023?utm_medium=rss)
- - [Tether estimates it will make $700M profit in Q1 and will have ~$1.6B in excess reserves to back its USDT stablecoin, the first time it crosses the $1B mark &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230324/p12#a230324p12)
- - [18 Best Spring Sales: Google Pixel Phones, Samsung Galaxy S23, and More](https://www.wired.com/story/spring-sales-2023/)<!-- TECH:END -->
+ - [The 38 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 44 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [You might want to get your Mondo posters while you still can](https://www.theverge.com/23655258/funko-mondo-posters-layoffs-toys-vinyl)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
