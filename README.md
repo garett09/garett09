@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
- - 🚯 [School bus driver suffers heart attack and 13-year-old gets behind the wheel and saves all children&#39;s lives](http://9gag.com/gag/a9q6ynZ)
- - 🚯 [Based](http://9gag.com/gag/a3Z5AZQ)<!-- MEMES:END -->
+ - 🚖 [How silk is made](http://9gag.com/gag/az2d5Ez)
+ - 🚯 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)
+ - 🚯 [New rusian propaganda video is out](http://9gag.com/gag/aeQ1Z1m)<!-- MEMES:END -->
 
 --- 
 
