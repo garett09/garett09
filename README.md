@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The John Wick movies’ real message: Wealth is violence](https://www.polygon.com/23653939/john-wick-chapter-4-eat-the-rich)
- - [Team Fortress 2 players forlornly gaze at Counter-Strike 2 reveal: &#39;Maybe our day will come in another decade&#39;](https://www.pcgamer.com/team-fortress-2-players-forlornly-gaze-at-counter-strike-2-reveal-maybe-our-day-will-come-in-another-decade)
- - [Space-fantasy RPG Honkai: Star Rail comes to PlayStation soon](https://blog.playstation.com/2023/03/24/space-fantasy-rpg-honkai-star-rail-comes-to-playstation-soon/)<!-- GAME:END -->
+ - [Company of Heroes 3&#39;s environmental gameplay lets you literally reshape the battlefield](https://www.pcgamer.com/company-of-heroes-3s-environmental-gameplay-lets-you-literally-reshape-the-battlefield)
+ - [Next Week on Xbox: New Games for March 27 to 31](https://news.xbox.com/en-us/2023/03/24/next-week-on-xbox-new-games-for-march-27-to-31/)
+ - [Microsoft Just Overcame A Major Hurdle Blocking The Activision Deal](https://kotaku.com/activision-microsoft-xbox-call-duty-sony-ps5-exclusive-1850261251)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
