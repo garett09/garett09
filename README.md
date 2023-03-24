@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 38 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 44 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [You might want to get your Mondo posters while you still can](https://www.theverge.com/23655258/funko-mondo-posters-layoffs-toys-vinyl)<!-- TECH:END -->
+ - [OpenAI blames a Redis client open-source library bug for the March 20 ChatGPT outage and leak that exposed personal info of ~1.2% of ChatGPT Plus subscribers &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230324/p15#a230324p15)
+ - [Mission to find missing AirPods leads to airport worker](https://appleinsider.com/articles/23/03/24/mission-to-find-missing-airpods-leads-to-airport-worker?utm_medium=rss)
+ - [Sensor Tower: Twitter Blue had 385K+ subscribers on iOS and Android and made $11M on mobile in its first three months, including ~$8M from 246K US subscribers &lpar;TechCrunch&rpar;](http://www.techmeme.com/230324/p14#a230324p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
