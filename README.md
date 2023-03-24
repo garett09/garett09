@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Manage your own alchemical business in Potion Tycoon](https://www.pcgamer.com/manage-your-own-alchemical-business-in-potion-tycoon)
- - [Can’t wait for the new Mission: Impossible movie? Just watch the Bollywood spy blockbuster Pathaan](https://www.polygon.com/23653492/pathaan-bollywood-best-spy-movie-like-mission-impossible-bond)
- - [PS5 Bundle Finally Goes On Sale For The First Time Ever, But It Won&#39;t Last](https://kotaku.com/ps5-god-war-ragnarok-bundle-cheap-sale-discount-1850262049)<!-- GAME:END -->
+ - [A &#39;psychological deck builder&#39; about facing your fears is free on GOG](https://www.pcgamer.com/a-psychological-deck-builder-about-facing-your-fears-is-free-on-gog)
+ - [Season 4 is the wildest Love Is Blind season since the first. Let’s discuss](https://www.polygon.com/23653734/love-blind-season-4-new-episodes)
+ - [We haven&#39;t heard the last of Lance Reddick in Destiny 2: Bungie says there are &#39;performances yet to come in the game&#39;](https://www.pcgamer.com/we-havent-heard-the-last-of-lance-reddick-in-destiny-2-bungie-says-there-are-performances-yet-to-come-in-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
