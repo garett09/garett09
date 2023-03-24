@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horrific Mario Manga Shows 1-UP Mushroom Growing Out Of Dead Plumber](https://kotaku.com/super-mario-last-of-us-nintendo-manga-comic-mushroom-1850259726)
- - [U.S. Senator Blasts Sony&#39;s Monopoly On Cool Japanese Games](https://kotaku.com/sony-microsoft-playstation-xbox-japan-exclusive-deal-1850259923)
- - [Where to find the Gold Egg in Resident Evil 4 Remake](https://www.pcgamer.com/resident-evil-4-remake-gold-egg-location)<!-- GAME:END -->
+ - [Resident Evil 4’s best attache case, and where to unlock them all](https://www.polygon.com/resident-evil-4-remake-guides/23653242/best-attache-case-how-to-unlock)
+ - [Does the dog die in Resident Evil 4?](https://www.polygon.com/23650850/does-the-dog-die)
+ - [Where to find all Small Keys in Resident Evil 4 remake](https://www.polygon.com/resident-evil-4-remake-guides/23650269/small-keys-locations-locked-drawers-rewards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
