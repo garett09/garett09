@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Torii gate in an abandoned tunnel in Japan.](http://9gag.com/gag/aA066wd)
- - 🚯 [When your girl let you do that](http://9gag.com/gag/ajV1gBx)
- - 🚯 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)<!-- MEMES:END -->
+ - 🚖 [TFW u meet Mike Tyson but he doesn\u2019t realize u a 20 yr old man with dwarfism](http://9gag.com/gag/aL1zppM)
+ - 🚯 [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)
+ - 🚯 [Mobile game ads are evolving](http://9gag.com/gag/aMEBB9P)<!-- MEMES:END -->
 
 --- 
 
