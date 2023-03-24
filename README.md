@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Messages in Binance&#39;s public chatrooms show some employees and support volunteers helping customers bypass China&#39;s crypto ban, including evading its KYC checks &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230323/p35#a230323p35)
- - [The TikTok Hearing Revealed That Congress Is the Problem](https://www.wired.com/story/tiktok-hearing-congress-us-privacy-law/)
- - [Warsaw-based Vue Storefront, which lets front-end developers build composable e-commerce sites, raised a $20M Series A extension led by Felix Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230323/p34#a230323p34)<!-- TECH:END -->
+ - [Quantum computing startup Strangeworks raised a $24M Series A led by Hitachi Ventures with participation from IBM and Raytheon Technologies &lpar;SiliconHills&rpar;](http://www.techmeme.com/230323/p36#a230323p36)
+ - [An unprecedented look into TSMC gives insight into iPhone chip production](https://appleinsider.com/articles/23/03/24/an-unprecedented-look-into-tsmc-gives-insight-into-iphone-chip-production?utm_medium=rss)
+ - [Messages in Binance&#39;s public chatrooms show some employees and support volunteers helping customers bypass China&#39;s crypto ban, including evading its KYC checks &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230323/p35#a230323p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
