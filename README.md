@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How silk is made](http://9gag.com/gag/az2d5Ez)
- - 🚯 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)
- - 🚯 [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)<!-- MEMES:END -->
+ - 🚖 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
+ - 🚯 [Not enough space for groceries.](http://9gag.com/gag/aA064YE)
+ - 🚯 [Police join force with their people](http://9gag.com/gag/aMEBnGx)<!-- MEMES:END -->
 
 --- 
 
