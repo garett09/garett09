@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact developer&#39;s turn-based RPG will launch next month](https://www.pcgamer.com/genshin-impact-developers-turn-based-rpg-will-launch-next-month)
- - [Bringing Authenticity And Humor To Like A Dragon&#39;s &#39;Western Renaissance&#39;](https://kotaku.com/yakuza-like-a-dragon-ishin-majima-kiryu-localization-1850263200)
- - [This Week on Xbox: Lego Racing Game Revealed, Crash Team Rumble, and More Coming Soon](https://news.xbox.com/en-us/2023/03/24/this-week-on-xbox-lego-racing-game-revealed-crash-team-rumble-and-more-coming-soon/)<!-- GAME:END -->
+ - [Lies of P is so blatantly Bloodborne that I feel bad for liking it](https://www.pcgamer.com/lies-of-p-is-so-blatantly-bloodborne-that-i-feel-bad-for-liking-it)
+ - [Lance Reddick will live on in more ‘performances to come’ in Destiny 2](https://www.polygon.com/23655585/lance-reddick-death-destiny-2-voice-actor-message-tribute)
+ - [Sludge Life is free on Steam because Sludge Life 2 is coming later this year](https://www.pcgamer.com/sludge-life-is-free-on-steam-because-sludge-life-2-is-coming-later-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
