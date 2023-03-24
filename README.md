@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wireless Apple CarPlay now available in Lucid Air](https://appleinsider.com/articles/23/03/23/wireless-apple-carplay-now-available-in-lucid-air?utm_medium=rss)
- - [Utah Gov. Spencer Cox signs two bills regulating social media apps, including requiring age verification for all users and permission from parents for minors &lpar;Bryan Schott/Salt Lake Tribune&rpar;](http://www.techmeme.com/230323/p32#a230323p32)
- - [Congress seems more determined to ban TikTok than ever](https://www.theverge.com/2023/3/23/23653950/congress-tiktok-ban-hearing-aftermath-china-influence-privacy)<!-- TECH:END -->
+ - [Messages in Binance&#39;s public chatrooms show some employees and support volunteers helping customers bypass China&#39;s crypto ban, including evading its KYC checks &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230323/p35#a230323p35)
+ - [The TikTok Hearing Revealed That Congress Is the Problem](https://www.wired.com/story/tiktok-hearing-congress-us-privacy-law/)
+ - [Warsaw-based Vue Storefront, which lets front-end developers build composable e-commerce sites, raised a $20M Series A extension led by Felix Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230323/p34#a230323p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
