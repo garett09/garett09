@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dropbox 318.2 review: Decent service, but be aware of macOS issues](https://appleinsider.com/articles/23/03/24/dropbox-3182-review-decent-service-but-be-aware-of-macos-issues?utm_medium=rss)
- - [Meituan reports Q4 revenue up 21.4% YoY to ~$8.67B, above ~$8.4B estimates, and a ~$157M loss; core local commerce revenue grew 17.4% YoY to ~$6.3B &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/230324/p3#a230324p3)
- - [Binance suspends spot trading on its exchange due to an &quot;issue&quot; and says it is working &quot;to resolve this as soon as possible&quot; &lpar;CoinDesk&rpar;](http://www.techmeme.com/230324/p2#a230324p2)<!-- TECH:END -->
+ - [On April 1, all a Twitter blue checkmark will mean is the user is paid](https://appleinsider.com/articles/23/03/24/on-april-1-all-a-twitter-blue-checkmark-will-mean-is-the-user-is-paid?utm_medium=rss)
+ - [Bob Metcalfe, The Man Who Discovered Network Effects, Isn&#39;t Sorry](https://www.wired.com/story/plaintext-the-man-who-discovered-network-effects-isnt-sorry/)
+ - [5 Robot Vacuum Tips to Help You Keep a Tidy Home &lpar;2023&rpar;](https://www.wired.com/story/surprising-tips-for-your-robot-vacuum/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
