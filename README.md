@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But did it work?](http://9gag.com/gag/a04XZqL)
- - 🚯 [Hard day at work](http://9gag.com/gag/a1PNrn6)
- - 🚯 [VALVE COUNTER STRIKE 2 IS COMING!!!](http://9gag.com/gag/abv1gPE)<!-- MEMES:END -->
+ - 🚖 [Post the best you got](http://9gag.com/gag/aRE4MMA)
+ - 🚯 [Cat companion](http://9gag.com/gag/a4o6zN6)
+ - 🚯 [Quick Thinking...](http://9gag.com/gag/ap93D3D)<!-- MEMES:END -->
 
 --- 
 
