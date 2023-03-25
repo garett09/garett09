@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Email: Twitter offers new equity grants to staff, in addition to legacy equity, that will start to vest after six months and plans a liquidity event in a year &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/230325/p11#a230325p11)
  - [Change my mind: Apple has the best smart home platform &lpar;at least for now&rpar;](https://www.androidauthority.com/apple-best-smart-home-platform-3299689/)
- - [Microsoft researchers claim GPT-4 showed early signs of AGI, with performance close to human levels in tasks spanning coding, medicine, law, psychology, more &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230325/p10#a230325p10)
- - [Best USB-C Hub 2023     - CNET](https://www.cnet.com/tech/computing/best-usb-c-hub-docking-station/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Nintendo Switch Multiplayer Family Games for 2023     - CNET](https://www.cnet.com/tech/gaming/best-nintendo-switch-multiplayer-games-for-families/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
