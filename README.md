@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Lady Gaga steps out as Harley Quinn in Joker 2 set photos](https://www.polygon.com/23656205/joker-2-lady-gaga-harley-quinn-set-photos)
  - [Teen girls don’t need to be protected from TikTok — they are TikTok](https://www.polygon.com/23654968/tiktok-ban-congress-hearing-shou-zi-chew-teen-girls)
- - [23 great movies leaving Netflix, Hulu, Prime, and HBO Max at the end of March 2023](https://www.polygon.com/what-to-watch/2023/3/25/23648365/best-movies-netflix-amazon-hulu-hbo-leaving-march-2023)
- - [Wordle hint and answer #644: Saturday, March 25](https://www.pcgamer.com/wordle-hint-answer-today-644-march-25)<!-- GAME:END -->
+ - [23 great movies leaving Netflix, Hulu, Prime, and HBO Max at the end of March 2023](https://www.polygon.com/what-to-watch/2023/3/25/23648365/best-movies-netflix-amazon-hulu-hbo-leaving-march-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
