@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)
- - 🚯 [Post the best you got](http://9gag.com/gag/aRE4MMA)
- - 🚯 [How silk is made](http://9gag.com/gag/az2d5Ez)<!-- MEMES:END -->
+ - 🚖 [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
+ - 🚯 [TikTok CEO&#39;s lies exposed](http://9gag.com/gag/aZD18j3)
+ - 🚯 [This guide shows which car and year to avoid](http://9gag.com/gag/aeQ1O55)<!-- MEMES:END -->
 
 --- 
 
