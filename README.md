@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: Twitter offers new equity grants to staff, in addition to legacy equity, that will start to vest after six months and plans a liquidity event in a year &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/230325/p11#a230325p11)
- - [Change my mind: Apple has the best smart home platform &lpar;at least for now&rpar;](https://www.androidauthority.com/apple-best-smart-home-platform-3299689/)
- - [Best Nintendo Switch Multiplayer Family Games for 2023     - CNET](https://www.cnet.com/tech/gaming/best-nintendo-switch-multiplayer-games-for-families/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
+ - [Best Gaming Chair for 2023     - CNET](https://www.cnet.com/tech/gaming/best-gaming-chair/#ftag=CAD590a51e)
+ - [9 Signs You Need Glasses and Why You Shouldn&#39;t Ignore Them     - CNET](https://www.cnet.com/health/personal-care/9-signs-you-need-glasses-and-why-you-shouldnt-ignore-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
