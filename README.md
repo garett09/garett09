@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation finds US homeowners associations teaming up with police to install Flock Safety&#39;s license plate surveillance cameras, without telling residents &lpar;Georgia Gee/The Intercept&rpar;](http://www.techmeme.com/230325/p2#a230325p2)
- - [A TikTok ban would have to satisfy the most stringent form of First Amendment review as the ban would operate as a prior restraint on speech of would-be users &lpar;Jameel Jaffer/New York Times&rpar;](http://www.techmeme.com/230325/p1#a230325p1)
- - [Best Home Internet Providers for Streaming in 2023     - CNET](https://www.cnet.com/news/best-internet-providers-for-streaming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI chatbots comparison test: ChatGPT is the most verbally dextrous, Bing is best for getting information from the web, and Bard is surprisingly limited &lpar;The Verge&rpar;](http://www.techmeme.com/230325/p5#a230325p5)
+ - [An affidavit shows how the FBI arrested Conor Fitzpatrick, aka Pompompurin, the alleged admin of BreachForums; the DOJ says it caused the forum to go offline &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230325/p4#a230325p4)
+ - [Sources: Microsoft threatens to cut rivals&#39; Bing search index access if they use it for their AI chat tools and warns at least two customers of violating terms &lpar;Bloomberg&rpar;](http://www.techmeme.com/230325/p3#a230325p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
