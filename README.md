@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
- - 🚯 [One of the best scenes from John Wick movie](http://9gag.com/gag/aeQ1xgQ)
- - 🚯 [No other Social media like this](http://9gag.com/gag/aeQ1xAQ)<!-- MEMES:END -->
+ - 🚖 [Mother leaves school board silent after reading indecent material from school library and classroom books that target children as young as 10 years old](http://9gag.com/gag/aNw9VZv)
+ - 🚯 [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
+ - 🚯 [I will not disappoint... have a great day my dudes](http://9gag.com/gag/ago1QAx)<!-- MEMES:END -->
 
 --- 
 
