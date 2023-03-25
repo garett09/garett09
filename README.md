@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Amazon&#39;s efforts to offset its shipping costs by raising Prime subscription prices, increasing the minimum purchase free shipping threshold, and more &lpar;Lisa Baertlein/Reuters&rpar;](http://www.techmeme.com/230325/p6#a230325p6)
- - [I used MyFitnessPal for three weeks. Here’s my review.](https://www.androidauthority.com/myfitnesspal-review-3299975/)
- - [Intel Co-Founder Gordon Moore, of Moore&#39;s Law Fame, Dies at 94     - CNET](https://www.cnet.com/tech/intel-co-founder-gordon-moore-of-moores-law-fame-dies-at-94/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Imploring TikTok to “Think of the Children” Misses the Point](https://www.wired.com/story/congress-tiktok-think-of-the-children-misses-the-point/)
+ - [13 Best Deals: TVs, Headphones, and Office Gear](https://www.wired.com/story/weekend-deals-march-25-2023/)
+ - [A look at Amazon&#39;s efforts to offset its shipping costs by raising Prime subscription prices, increasing the minimum purchase free shipping threshold, and more &lpar;Lisa Baertlein/Reuters&rpar;](http://www.techmeme.com/230325/p6#a230325p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
