@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Post the best you got](http://9gag.com/gag/aRE4MMA)
- - 🚯 [Mother leaves school board silent after reading indecent material from school library and classroom books that target children as young as 10 years old](http://9gag.com/gag/aNw9VZv)
- - 🚯 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)<!-- MEMES:END -->
+ - 🚖 [Keep your damn dog on a leash !](http://9gag.com/gag/a4o65Kw)
+ - 🚯 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)
+ - 🚯 [What\u2019s the dealo](http://9gag.com/gag/aDY6VrO)<!-- MEMES:END -->
 
 --- 
 
