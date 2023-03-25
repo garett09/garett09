@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LLMs will demolish barriers for software creation and unleash the next great technology cycle, marking a kind of Gutenberg moment for the software industry &lpar;Irregular Ideas&rpar;](http://www.techmeme.com/230325/p7#a230325p7)
- - [Daily deals March 25: $699 M2 Mac mini, $99 Kindle Paperwhite, $1,000 off LG 77-inch OLED 4K Smart TV, more](https://appleinsider.com/articles/23/03/25/daily-deals-march-25-699-m2-mac-mini-99-kindle-paperwhite-1000-off-lg-77-inch-oled-4k-smart-tv-more?utm_medium=rss)
- - [Samsung Galaxy S23 Ultra vs S22 Ultra: Night mode and zoom shootout](https://www.androidauthority.com/samsung-galaxy-s23-ultra-s22-ultra-camera-night-zoom-3298121/)<!-- TECH:END -->
+ - [Hate How Hard It Is to Cancel Subscriptions? The FTC Feels You](https://www.wired.com/story/ftc-click-to-cancel-subscriptions/)
+ - [India Shut Down Mobile Internet in Punjab Amid Manhunt for Amritpal Singh](https://www.wired.com/story/india-activist-manhunt-sikh-activist/)
+ - [Amazfit Band 7 review: where did all the budget trackers go?](https://www.theverge.com/23652417/amazfit-band-7-review-budget-fitness-tracker)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
