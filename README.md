@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
- - 🚯 [TikTok CEO&#39;s lies exposed](http://9gag.com/gag/aZD18j3)
- - 🚯 [This guide shows which car and year to avoid](http://9gag.com/gag/aeQ1O55)<!-- MEMES:END -->
+ - 🚯 [One of the best scenes from John Wick movie](http://9gag.com/gag/aeQ1xgQ)
+ - 🚯 [No other Social media like this](http://9gag.com/gag/aeQ1xAQ)<!-- MEMES:END -->
 
 --- 
 
