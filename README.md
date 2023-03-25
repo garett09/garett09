@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep your damn dog on a leash !](http://9gag.com/gag/a4o65Kw)
+ - 🚖 [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
  - 🚯 [Saving a stuck dog](http://9gag.com/gag/ago1xgr)
- - 🚯 [Family assaulted on NYC train because of their race - Source in the comments](http://9gag.com/gag/a7qOVm2)<!-- MEMES:END -->
+ - 🚯 [Keep your damn dog on a leash !](http://9gag.com/gag/a4o65Kw)<!-- MEMES:END -->
 
 --- 
 
