@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Amazon&#39;s efforts to offset its shipping costs by raising Prime subscription prices, increasing the minimum purchase free shipping threshold, and more &lpar;Lisa Baertlein/Reuters&rpar;](http://www.techmeme.com/230325/p6#a230325p6)
  - [I used MyFitnessPal for three weeks. Here’s my review.](https://www.androidauthority.com/myfitnesspal-review-3299975/)
- - [Intel Co-Founder Gordon Moore, of Moore&#39;s Law Fame, Dies at 94     - CNET](https://www.cnet.com/tech/intel-co-founder-gordon-moore-of-moores-law-fame-dies-at-94/#ftag=CAD590a51e)
- - [AI chatbots comparison test: ChatGPT is the most verbally dextrous, Bing is best for getting information from the web, and Bard is surprisingly limited &lpar;The Verge&rpar;](http://www.techmeme.com/230325/p5#a230325p5)<!-- TECH:END -->
+ - [Intel Co-Founder Gordon Moore, of Moore&#39;s Law Fame, Dies at 94     - CNET](https://www.cnet.com/tech/intel-co-founder-gordon-moore-of-moores-law-fame-dies-at-94/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
