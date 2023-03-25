@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 cool new games from GDC 2023](https://www.theverge.com/23654583/gdc-2023-best-indie-games-venba-cart-life)
- - [Cook praises &#39;symbiotic&#39; 30-year relationship with China](https://appleinsider.com/articles/23/03/25/cook-praises-symbiotic-30-year-relationship-with-china?utm_medium=rss)
- - [Dungeons &amp; Dragons: Honor Among Thieves is great — you just have to roll with it](https://www.theverge.com/23655396/dungeons-and-dragons-honor-among-thieves-review)<!-- TECH:END -->
+ - [Some national security concerns about TikTok are valid, but forcing it to divest its US operations could undermine TikTok&#39;s ability to fight adversarial threats &lpar;Yoel Roth/Techdirt&rpar;](http://www.techmeme.com/230325/p9#a230325p9)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-477-3301597/)
+ - [Take $100 off the First 5 Months of Your ButcherBox Subscription     - CNET](https://www.cnet.com/deals/take-100-off-the-first-5-months-of-your-butcherbox-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
