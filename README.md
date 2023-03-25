@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)
- - 🚯 [Mother leaves school board silent after reading indecent material from school library and classroom books that target children as young as 10 years old](http://9gag.com/gag/aNw9VZv)
- - 🚯 [TikTok CEO&#39;s lies exposed](http://9gag.com/gag/aZD18j3)<!-- MEMES:END -->
+ - 🚖 [Good news for a lot of you](http://9gag.com/gag/a6qXp5N)
+ - 🚯 [Family assaulted on NYC train because of their race - Source in the comments](http://9gag.com/gag/a7qOVm2)
+ - 🚯 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)<!-- MEMES:END -->
 
 --- 
 
