@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Where to find all Clockwork Castellans in Resident Evil 4 remake](https://www.polygon.com/resident-evil-4-remake-guides/23652598/clockwork-castellan-locations-bobblehead-rewards)
  - [The Blue Lock anime is so much more than soccer Squid Game](https://www.polygon.com/23651791/blue-lock-soccer-anime)
- - [The best Diablo 4 Druid builds](https://www.polygon.com/diablo-4-guides/23656236/druid-best-build-skills)
- - [The best Diablo 4 Necromancer builds](https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills)<!-- GAME:END -->
+ - [The best Diablo 4 Druid builds](https://www.polygon.com/diablo-4-guides/23656236/druid-best-build-skills)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
