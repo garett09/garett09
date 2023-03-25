@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft researchers say GPT-4 showed early signs of AGI, with performance close to human levels in tasks spanning coding, medicine, law, psychology, and more &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230325/p10#a230325p10)
- - [It&#39;s Never Been Easier to Make an Adventure Game](https://www.wired.com/2021/03/geeks-guide-adventure-games/)
- - [Ellie Rose AirPods Pro Case: Nearly impossible to get off](https://appleinsider.com/articles/23/03/25/ellie-rose-airpods-pro-case-nearly-impossible-to-get-off?utm_medium=rss)<!-- TECH:END -->
+ - [Change my mind: Apple has the best smart home platform &lpar;at least for now&rpar;](https://www.androidauthority.com/apple-best-smart-home-platform-3299689/)
+ - [Microsoft researchers claim GPT-4 showed early signs of AGI, with performance close to human levels in tasks spanning coding, medicine, law, psychology, more &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230325/p10#a230325p10)
+ - [Best USB-C Hub 2023     - CNET](https://www.cnet.com/tech/computing/best-usb-c-hub-docking-station/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
