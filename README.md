@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep your damn dog on a leash !](http://9gag.com/gag/a4o65Kw)
- - 🚯 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)
- - 🚯 [What\u2019s the dealo](http://9gag.com/gag/aDY6VrO)<!-- MEMES:END -->
+ - 🚖 [What\u2019s the dealo](http://9gag.com/gag/aDY6VrO)
+ - 🚯 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)
+ - 🚯 [Mother leaves school board silent after reading indecent material from school library and classroom books that target children as young as 10 years old](http://9gag.com/gag/aNw9VZv)<!-- MEMES:END -->
 
 --- 
 
