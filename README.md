@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guide shows which car and year to avoid](http://9gag.com/gag/aeQ1O55)
- - 🚯 [Keep your damn dog on a leash !](http://9gag.com/gag/a4o65Kw)
- - 🚯 [Police join force with their people](http://9gag.com/gag/aMEBnGx)<!-- MEMES:END -->
+ - 🚖 [The second reason to attend school plays](http://9gag.com/gag/aoK3yYe)
+ - 🚯 [Post the best you got](http://9gag.com/gag/aRE4MMA)
+ - 🚯 [How silk is made](http://9gag.com/gag/az2d5Ez)<!-- MEMES:END -->
 
 --- 
 
