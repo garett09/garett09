@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Databricks open sources Dolly, an LLM which the company says can be trained in less than three hours on one machine and is a clone of Stanford&#39;s Alpaca model &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230324/p20#a230324p20)
- - [Gordon Moore, Intel&#39;s co-founder and former CEO and author of Moore&#39;s Law, dies at the age of 94 &lpar;Intel&rpar;](http://www.techmeme.com/230324/p19#a230324p19)
- - [A federal judge decides in favor of four publishers in their copyright infringement case against the Internet Archive and its Controlled Digital Lending program &lpar;Gary Price/LJ Infodocket&rpar;](http://www.techmeme.com/230324/p18#a230324p18)<!-- TECH:END -->
+ - [Gordon Moore, Intel co-founder and creator of Moore’s Law, has died](https://www.theverge.com/2023/3/24/23655844/gordon-moore-intel-co-founder-creator-moores-law-died)
+ - [Best Steam Deck Accessories in 2023     - CNET](https://www.cnet.com/tech/gaming/best-steam-deck-accessories-for-expanding-your-system/#ftag=CAD590a51e)
+ - [7 Stargazing Apps for Spotting Constellations and More     - CNET](https://www.cnet.com/tech/services-and-software/best-stargazing-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
