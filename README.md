@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Help, Google: Why do blocked numbers on my Android phones come back to haunt me?](https://www.androidauthority.com/sync-blocked-numbers-android-3300135/)
- - [The Best MacBook Accessories &lpar;2023&rpar;: Keyboards, External Monitors, and Sleeves](https://www.wired.com/story/best-macbook-accessories/)
- - [Nothing Ear 2 Buds Have Great Sound and Noise Canceling for $149     - CNET](https://www.cnet.com/tech/mobile/nothing-ear-2-buds-have-better-sound-and-noise-canceling-for-149/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 cool new games from GDC 2023](https://www.theverge.com/23654583/gdc-2023-best-indie-games-venba-cart-life)
+ - [Cook praises &#39;symbiotic&#39; 30-year relationship with China](https://appleinsider.com/articles/23/03/25/cook-praises-symbiotic-30-year-relationship-with-china?utm_medium=rss)
+ - [Dungeons &amp; Dragons: Honor Among Thieves is great — you just have to roll with it](https://www.theverge.com/23655396/dungeons-and-dragons-honor-among-thieves-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
