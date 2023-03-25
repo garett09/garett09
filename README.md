@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hate How Hard It Is to Cancel Subscriptions? The FTC Feels You](https://www.wired.com/story/ftc-click-to-cancel-subscriptions/)
- - [India Shut Down Mobile Internet in Punjab Amid Manhunt for Amritpal Singh](https://www.wired.com/story/india-activist-manhunt-sikh-activist/)
- - [Amazfit Band 7 review: where did all the budget trackers go?](https://www.theverge.com/23652417/amazfit-band-7-review-budget-fitness-tracker)<!-- TECH:END -->
+ - [Help, Google: Why do blocked numbers on my Android phones come back to haunt me?](https://www.androidauthority.com/sync-blocked-numbers-android-3300135/)
+ - [The Best MacBook Accessories &lpar;2023&rpar;: Keyboards, External Monitors, and Sleeves](https://www.wired.com/story/best-macbook-accessories/)
+ - [Nothing Ear 2 Buds Have Great Sound and Noise Canceling for $149     - CNET](https://www.cnet.com/tech/mobile/nothing-ear-2-buds-have-better-sound-and-noise-canceling-for-149/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
