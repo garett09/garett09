@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
- - 🚯 [This guide shows which car and year to avoid](http://9gag.com/gag/aeQ1O55)
- - 🚯 [That psychopath](http://9gag.com/gag/aA06MwE)<!-- MEMES:END -->
+ - 🚖 [Post the best you got](http://9gag.com/gag/aRE4MMA)
+ - 🚯 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)
+ - 🚯 [Family assaulted on NYC train because of their race - Source in the comments](http://9gag.com/gag/a7qOVm2)<!-- MEMES:END -->
 
 --- 
 
