@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Fortra told GoAnywhere customers that their data was safe after a ransomware attack by the Clop gang, but two said they later received ransom demands &lpar;TechCrunch&rpar;](http://www.techmeme.com/230324/p17#a230324p17)
- - [Get Apple&#39;s 2023 MacBook Pro 14-inch for $1,849, plus $60 off AppleCare](https://appleinsider.com/articles/23/03/24/get-apples-2023-macbook-pro-14-inch-for-1849-plus-60-off-applecare?utm_medium=rss)
- - [11 New Features That Will Change the Way You Use Your iPhone     - CNET](https://www.cnet.com/tech/mobile/11-new-features-that-will-change-the-way-you-use-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Databricks open sources Dolly, an LLM which the company says can be trained in less than three hours on one machine and is a clone of Stanford&#39;s Alpaca model &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230324/p20#a230324p20)
+ - [Gordon Moore, Intel&#39;s co-founder and former CEO and author of Moore&#39;s Law, dies at the age of 94 &lpar;Intel&rpar;](http://www.techmeme.com/230324/p19#a230324p19)
+ - [A federal judge decides in favor of four publishers in their copyright infringement case against the Internet Archive and its Controlled Digital Lending program &lpar;Gary Price/LJ Infodocket&rpar;](http://www.techmeme.com/230324/p18#a230324p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
