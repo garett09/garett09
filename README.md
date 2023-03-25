@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The cheapest woman is the one you pay for](http://9gag.com/gag/aRE4z6q)
- - 🚯 [Cat companion](http://9gag.com/gag/a4o6zN6)
- - 🚯 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)<!-- MEMES:END -->
+ - 🚖 [One of the best scenes from John Wick movie](http://9gag.com/gag/aeQ1xgQ)
+ - 🚯 [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
+ - 🚯 [No other Social media like this](http://9gag.com/gag/aeQ1xAQ)<!-- MEMES:END -->
 
 --- 
 
