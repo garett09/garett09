@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dark and Darker delisted on Steam following legal action from Nexon](https://www.pcgamer.com/dark-and-darker-delisted-on-steam-following-legal-action-from-nexon)
  - [Pokémon Go Giovanni counters, team line-up in late March 2023](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
- - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in late March 2023](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
- - [Pokémon Go ‘From the Shadows’ Special Research quest steps, rewards](https://www.polygon.com/pokemon-go-guide/23656139/from-the-shadows-special-research)<!-- GAME:END -->
+ - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in late March 2023](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
