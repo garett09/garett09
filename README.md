@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some national security concerns about TikTok are valid, but forcing it to divest its US operations could undermine TikTok&#39;s ability to fight adversarial threats &lpar;Yoel Roth/Techdirt&rpar;](http://www.techmeme.com/230325/p9#a230325p9)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-477-3301597/)
- - [Take $100 off the First 5 Months of Your ButcherBox Subscription     - CNET](https://www.cnet.com/deals/take-100-off-the-first-5-months-of-your-butcherbox-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft researchers say GPT-4 showed early signs of AGI, with performance close to human levels in tasks spanning coding, medicine, law, psychology, and more &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230325/p10#a230325p10)
+ - [It&#39;s Never Been Easier to Make an Adventure Game](https://www.wired.com/2021/03/geeks-guide-adventure-games/)
+ - [Ellie Rose AirPods Pro Case: Nearly impossible to get off](https://appleinsider.com/articles/23/03/25/ellie-rose-airpods-pro-case-nearly-impossible-to-get-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
