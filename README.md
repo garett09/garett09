@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep your damn dog on a leash !](http://9gag.com/gag/a4o65Kw)
- - 🚯 [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
- - 🚯 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)<!-- MEMES:END -->
+ - 🚖 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)
+ - 🚯 [Look out below](http://9gag.com/gag/az2dYYz)
+ - 🚯 [Mother leaves school board silent after reading indecent material from school library and classroom books that target children as young as 10 years old](http://9gag.com/gag/aNw9VZv)<!-- MEMES:END -->
 
 --- 
 
