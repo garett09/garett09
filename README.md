@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Replika restores erotic roleplay for users who signed up before February 1, after complaints from some who considered themselves &quot;married&quot; to chatbot companions &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230325/p13#a230325p13)
  - [Intel co-founder Gordon Moore dies at 94](https://appleinsider.com/articles/23/03/25/intel-co-founder-gordon-moore-dies-at-94?utm_medium=rss)
- - [An interview with Nvidia CEO Jensen Huang about AI&#39;s iPhone moment, DGX Cloud service, export controls, Nvidia&#39;s position in the stack in an LLM world, and more &lpar;Stratechery&rpar;](http://www.techmeme.com/230325/p12#a230325p12)
- - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)<!-- TECH:END -->
+ - [Microsoft reportedly orders AI chatbot rivals to stop using Bing’s search data](https://www.theverge.com/2023/3/25/23656336/microsoft-chatbot-rivals-stop-using-bing-search-index)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
