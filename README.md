@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find all Clockwork Castellans in Resident Evil 4 remake](https://www.polygon.com/resident-evil-4-remake-guides/23652598/clockwork-castellan-locations-bobblehead-rewards)
- - [The Blue Lock anime is so much more than soccer Squid Game](https://www.polygon.com/23651791/blue-lock-soccer-anime)
- - [The best Diablo 4 Druid builds](https://www.polygon.com/diablo-4-guides/23656236/druid-best-build-skills)<!-- GAME:END -->
+ - [Knock at the Cabin makes Cabin in the Woods an even better movie](https://www.polygon.com/23652009/knock-cabin-in-the-woods-endings)
+ - [Intel co-founder Gordon Moore, author of &#39;Moore&#39;s Law,&#39; dies at 94](https://www.pcgamer.com/intel-co-founder-gordon-moore-author-of-moores-law-dies-at-94)
+ - [John Wick 4 director remembers the ‘magic’ of Lance Reddick on set: ‘literally infectious’](https://www.polygon.com/23653326/lance-reddick-memorial-john-wick-4-director)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
