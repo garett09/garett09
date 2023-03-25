@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What\u2019s the dealo](http://9gag.com/gag/aDY6VrO)
- - 🚯 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)
- - 🚯 [Mother leaves school board silent after reading indecent material from school library and classroom books that target children as young as 10 years old](http://9gag.com/gag/aNw9VZv)<!-- MEMES:END -->
+ - 🚖 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
+ - 🚯 [This guide shows which car and year to avoid](http://9gag.com/gag/aeQ1O55)
+ - 🚯 [That psychopath](http://9gag.com/gag/aA06MwE)<!-- MEMES:END -->
 
 --- 
 
