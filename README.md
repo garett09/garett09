@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Imploring TikTok to “Think of the Children” Misses the Point](https://www.wired.com/story/congress-tiktok-think-of-the-children-misses-the-point/)
- - [13 Best Deals: TVs, Headphones, and Office Gear](https://www.wired.com/story/weekend-deals-march-25-2023/)
- - [A look at Amazon&#39;s efforts to offset its shipping costs by raising Prime subscription prices, increasing the minimum purchase free shipping threshold, and more &lpar;Lisa Baertlein/Reuters&rpar;](http://www.techmeme.com/230325/p6#a230325p6)<!-- TECH:END -->
+ - [LLMs will demolish barriers for software creation and unleash the next great technology cycle, marking a kind of Gutenberg moment for the software industry &lpar;Irregular Ideas&rpar;](http://www.techmeme.com/230325/p7#a230325p7)
+ - [Daily deals March 25: $699 M2 Mac mini, $99 Kindle Paperwhite, $1,000 off LG 77-inch OLED 4K Smart TV, more](https://appleinsider.com/articles/23/03/25/daily-deals-march-25-699-m2-mac-mini-99-kindle-paperwhite-1000-off-lg-77-inch-oled-4k-smart-tv-more?utm_medium=rss)
+ - [Samsung Galaxy S23 Ultra vs S22 Ultra: Night mode and zoom shootout](https://www.androidauthority.com/samsung-galaxy-s23-ultra-s22-ultra-camera-night-zoom-3298121/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
