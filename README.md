@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI chatbots comparison test: ChatGPT is the most verbally dextrous, Bing is best for getting information from the web, and Bard is surprisingly limited &lpar;The Verge&rpar;](http://www.techmeme.com/230325/p5#a230325p5)
- - [An affidavit shows how the FBI arrested Conor Fitzpatrick, aka Pompompurin, the alleged admin of BreachForums; the DOJ says it caused the forum to go offline &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/230325/p4#a230325p4)
- - [Sources: Microsoft threatens to cut rivals&#39; Bing search index access if they use it for their AI chat tools and warns at least two customers of violating terms &lpar;Bloomberg&rpar;](http://www.techmeme.com/230325/p3#a230325p3)<!-- TECH:END -->
+ - [I used MyFitnessPal for three weeks. Here’s my review.](https://www.androidauthority.com/myfitnesspal-review-3299975/)
+ - [Intel Co-Founder Gordon Moore, of Moore&#39;s Law Fame, Dies at 94     - CNET](https://www.cnet.com/tech/intel-co-founder-gordon-moore-of-moores-law-fame-dies-at-94/#ftag=CAD590a51e)
+ - [AI chatbots comparison test: ChatGPT is the most verbally dextrous, Bing is best for getting information from the web, and Bard is surprisingly limited &lpar;The Verge&rpar;](http://www.techmeme.com/230325/p5#a230325p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
