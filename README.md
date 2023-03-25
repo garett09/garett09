@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Teen girls don’t need to be protected from TikTok — they are TikTok](https://www.polygon.com/23654968/tiktok-ban-congress-hearing-shou-zi-chew-teen-girls)
  - [23 great movies leaving Netflix, Hulu, Prime, and HBO Max at the end of March 2023](https://www.polygon.com/what-to-watch/2023/3/25/23648365/best-movies-netflix-amazon-hulu-hbo-leaving-march-2023)
- - [Wordle hint and answer #644: Saturday, March 25](https://www.pcgamer.com/wordle-hint-answer-today-644-march-25)
- - [CS:GO&#39;s next Paris Major will be its last](https://www.pcgamer.com/csgos-next-paris-major-will-be-its-last)<!-- GAME:END -->
+ - [Wordle hint and answer #644: Saturday, March 25](https://www.pcgamer.com/wordle-hint-answer-today-644-march-25)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
