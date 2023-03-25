@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #644: Saturday, March 25](https://www.pcgamer.com/wordle-hint-answer-today-644-march-25)
  - [CS:GO&#39;s next Paris Major will be its last](https://www.pcgamer.com/csgos-next-paris-major-will-be-its-last)
- - [Wordle&#39;s hardest word caused 60% of players to break their streaks](https://www.pcgamer.com/wordles-hardest-word-caused-60-of-players-to-break-their-streaks)
- - [Who is Jack Krauser, and what is Operation Javier, in Resident Evil 4?](https://www.polygon.com/23654795/resident-evil-4-remake-operation-javier-jack-krauser)<!-- GAME:END -->
+ - [Wordle&#39;s hardest word caused 60% of players to break their streaks](https://www.pcgamer.com/wordles-hardest-word-caused-60-of-players-to-break-their-streaks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
