@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh dear](http://9gag.com/gag/a9q62om)
- - 🚯 [Keep your damn dog on a leash !](http://9gag.com/gag/a4o65Kw)
- - 🚯 [Post the best you got](http://9gag.com/gag/aRE4MMA)<!-- MEMES:END -->
+ - 🚖 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
+ - 🚯 [Oh dear](http://9gag.com/gag/a9q62om)
+ - 🚯 [What\u2019s the dealo](http://9gag.com/gag/aDY6VrO)<!-- MEMES:END -->
 
 --- 
 
