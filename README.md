@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BenQ e-Reading lamp review: screen-friendly desk lighting](https://appleinsider.com/articles/23/03/25/benq-e-reading-lamp-review-screen-friendly-desk-lighting?utm_medium=rss)
  - [Replika restores erotic roleplay for users who signed up before February 1, after complaints from some who considered themselves &quot;married&quot; to chatbot companions &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230325/p13#a230325p13)
- - [Intel co-founder Gordon Moore dies at 94](https://appleinsider.com/articles/23/03/25/intel-co-founder-gordon-moore-dies-at-94?utm_medium=rss)
- - [Microsoft reportedly orders AI chatbot rivals to stop using Bing’s search data](https://www.theverge.com/2023/3/25/23656336/microsoft-chatbot-rivals-stop-using-bing-search-index)<!-- TECH:END -->
+ - [Intel co-founder Gordon Moore dies at 94](https://appleinsider.com/articles/23/03/25/intel-co-founder-gordon-moore-dies-at-94?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
