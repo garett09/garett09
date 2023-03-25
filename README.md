@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
- - [Best Gaming Chair for 2023     - CNET](https://www.cnet.com/tech/gaming/best-gaming-chair/#ftag=CAD590a51e)
- - [9 Signs You Need Glasses and Why You Shouldn&#39;t Ignore Them     - CNET](https://www.cnet.com/health/personal-care/9-signs-you-need-glasses-and-why-you-shouldnt-ignore-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel co-founder Gordon Moore dies at 94](https://appleinsider.com/articles/23/03/25/intel-co-founder-gordon-moore-dies-at-94?utm_medium=rss)
+ - [An interview with Nvidia CEO Jensen Huang about AI&#39;s iPhone moment, DGX Cloud service, export controls, Nvidia&#39;s position in the stack in an LLM world, and more &lpar;Stratechery&rpar;](http://www.techmeme.com/230325/p12#a230325p12)
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
