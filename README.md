@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the best scenes from John Wick movie](http://9gag.com/gag/aeQ1xgQ)
- - 🚯 [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
- - 🚯 [No other Social media like this](http://9gag.com/gag/aeQ1xAQ)<!-- MEMES:END -->
+ - 🚖 [Keep your damn dog on a leash !](http://9gag.com/gag/a4o65Kw)
+ - 🚯 [Saving a stuck dog](http://9gag.com/gag/ago1xgr)
+ - 🚯 [Family assaulted on NYC train because of their race - Source in the comments](http://9gag.com/gag/a7qOVm2)<!-- MEMES:END -->
 
 --- 
 
