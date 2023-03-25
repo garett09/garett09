@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [TikTok CEO&#39;s lies exposed](http://9gag.com/gag/aZD18j3)
- - 🚯 [Saving a stuck dog](http://9gag.com/gag/ago1xgr)
- - 🚯 [Mother leaves school board silent after reading indecent material from school library and classroom books that target children as young as 10 years old](http://9gag.com/gag/aNw9VZv)<!-- MEMES:END -->
+ - 🚖 [Post the best you got](http://9gag.com/gag/aRE4MMA)
+ - 🚯 [Quick Thinking...](http://9gag.com/gag/ap93D3D)
+ - 🚯 [What\u2019s the dealo](http://9gag.com/gag/aDY6VrO)<!-- MEMES:END -->
 
 --- 
 
