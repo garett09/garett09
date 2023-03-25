@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lady Gaga steps out as Harley Quinn in Joker 2 set photos](https://www.polygon.com/23656205/joker-2-lady-gaga-harley-quinn-set-photos)
- - [Teen girls don’t need to be protected from TikTok — they are TikTok](https://www.polygon.com/23654968/tiktok-ban-congress-hearing-shou-zi-chew-teen-girls)
- - [23 great movies leaving Netflix, Hulu, Prime, and HBO Max at the end of March 2023](https://www.polygon.com/what-to-watch/2023/3/25/23648365/best-movies-netflix-amazon-hulu-hbo-leaving-march-2023)<!-- GAME:END -->
+ - [The Blue Lock anime is so much more than soccer Squid Game](https://www.polygon.com/23651791/blue-lock-soccer-anime)
+ - [The best Diablo 4 Druid builds](https://www.polygon.com/diablo-4-guides/23656236/druid-best-build-skills)
+ - [The best Diablo 4 Necromancer builds](https://www.polygon.com/diablo-4-guides/23656235/necromancer-best-build-skills)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
