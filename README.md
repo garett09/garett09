@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A memory for life](http://9gag.com/gag/a9q6Bo0)
- - 🚯 [How to vaporise crack and angeldust with only one little Gadget](http://9gag.com/gag/aDY6P3Z)
- - 🚯 [That&#39;s quite impressive, not gonna lie.](http://9gag.com/gag/aYVEm3w)<!-- MEMES:END -->
+ - 🚖 [Females should stop making those creepy videos of men where they portray them as creeps or predators... We are actually here to do something about ourselves, we are not in the gym for females...](http://9gag.com/gag/awZ3884)
+ - 🚯 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)
+ - 🚯 [Good times](http://9gag.com/gag/amA1RAd)<!-- MEMES:END -->
 
 --- 
 
