@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft releases Windows 10 Snip &amp; Sketch and Windows 11 Snipping Tool updates to fix the &quot;aCropalypse&quot; bug used to reveal info edited out in some screenshots &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230325/p14#a230325p14)
  - [BenQ e-Reading lamp review: screen-friendly desk lighting](https://appleinsider.com/articles/23/03/25/benq-e-reading-lamp-review-screen-friendly-desk-lighting?utm_medium=rss)
- - [Replika restores erotic roleplay for users who signed up before February 1, after complaints from some who considered themselves &quot;married&quot; to chatbot companions &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/230325/p13#a230325p13)
- - [Intel co-founder Gordon Moore dies at 94](https://appleinsider.com/articles/23/03/25/intel-co-founder-gordon-moore-dies-at-94?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft fixes reversible screenshot vulnerability on Windows](https://www.theverge.com/2023/3/25/23656627/microsoft-fixes-screenshot-vulnerability-windows)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
