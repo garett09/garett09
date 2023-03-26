@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases Windows 10 Snip &amp; Sketch and Windows 11 Snipping Tool updates to fix the &quot;aCropalypse&quot; bug used to reveal info edited out in some screenshots &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230325/p14#a230325p14)
- - [BenQ e-Reading lamp review: screen-friendly desk lighting](https://appleinsider.com/articles/23/03/25/benq-e-reading-lamp-review-screen-friendly-desk-lighting?utm_medium=rss)
- - [Microsoft fixes reversible screenshot vulnerability on Windows](https://www.theverge.com/2023/3/25/23656627/microsoft-fixes-screenshot-vulnerability-windows)<!-- TECH:END -->
+ - [How Meta could sidestep ATT&#39;s impairments by launching a mobile games store, as Apple reportedly prepares multiple app store support on iOS due to the EU&#39;s DMA &lpar;Eric Benjamin Seufert/Mobile Dev Memo&rpar;](http://www.techmeme.com/230325/p15#a230325p15)
+ - [Best 4K TVs for 2023, Tested and Reviewed     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
+ - [Microsoft releases Windows 10 Snip &amp; Sketch and Windows 11 Snipping Tool updates to fix the &quot;aCropalypse&quot; bug used to reveal info edited out in some screenshots &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230325/p14#a230325p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
