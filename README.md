@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)
- - 🚯 [Look out below](http://9gag.com/gag/az2dYYz)
- - 🚯 [Mother leaves school board silent after reading indecent material from school library and classroom books that target children as young as 10 years old](http://9gag.com/gag/aNw9VZv)<!-- MEMES:END -->
+ - 🚖 [Just think about the guy who set it up...](http://9gag.com/gag/avQ1Ejb)
+ - 🚯 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)
+ - 🚯 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)<!-- MEMES:END -->
 
 --- 
 
