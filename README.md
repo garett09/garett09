@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say some US suppliers plan to sidestep export controls by selling tech to the unlisted subsidiaries of Inspur and other Chinese firms on the Entity List &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230326/p6#a230326p6)
- - [The best Apple Watch faces](https://www.androidauthority.com/apple-watch-faces-3301281/)
- - [A look at the community of users who &quot;jailbreak&quot; GPT models to generate unfiltered content and see themselves as fighting back against OpenAI&#39;s closed policies &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230326/p5#a230326p5)<!-- TECH:END -->
+ - [11 Tips to Take Your ChatGPT Prompts to the Next Level](https://www.wired.com/story/11-tips-better-chatgpt-prompts/)
+ - [The Uniquely American Future of US Authoritarianism](https://www.wired.com/story/us-authoritarian-movement-future/)
+ - [Crypto Was Afraid to Show Its Face at SXSW 2023](https://www.wired.com/story/crypto-obfuscation-sxsw-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
