@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta Quest Pro teardown: US parts account for 34% of the headset&#39;s estimated component costs, China 18%, South Korea 10%, Japan 3%, and 35% remain unidentified &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230326/p2#a230326p2)
  - [Norway-based 1X, which is developing humanoid robots, raised a $23.5M Series A2 led by the OpenAI Startup Fund with participation from Tiger Global and others &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230326/p1#a230326p1)
- - [Source: Elon Musk offers Twitter staff stock grants at a ~$20B valuation which, with a $13B debt, implies a $33B enterprise value, ~11x 2023&#39;s projected revenue &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230325/p17#a230325p17)
- - [The hacker of DeFi lending protocol Euler Finance has returned 58,737 ETH, worth ~$102M, from the 96K ETH stolen in a flash-loan attack on March 13; EUL up 27%+ &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230325/p16#a230325p16)<!-- TECH:END -->
+ - [Source: Elon Musk offers Twitter staff stock grants at a ~$20B valuation which, with a $13B debt, implies a $33B enterprise value, ~11x 2023&#39;s projected revenue &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230325/p17#a230325p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
