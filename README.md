@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Long hair, don’t care: Squeeze controls are awesome on wireless earbuds](https://www.androidauthority.com/squeeze-controls-earbuds-long-hair-3301000/)
+ - [iOS 17 may be much more than a maintenance update](https://appleinsider.com/articles/23/03/26/highly-requested-features-may-be-included-in-ios-17?utm_medium=rss)
  - [Apple shows MR headset to executives ahead of rumored June unveiling](https://appleinsider.com/articles/23/03/26/apple-shows-mr-headset-to-executives-ahead-of-probable-june-unveiling?utm_medium=rss)
- - [Intel founder &amp; Moore&#39;s Law creator Gordon Moore dies at 94](https://appleinsider.com/articles/23/03/25/intel-co-founder-gordon-moore-dies-at-94?utm_medium=rss)<!-- TECH:END -->
+ - [Crime blotter: Two New York City assaults and Pencil pinching](https://appleinsider.com/articles/23/03/26/crime-blotter-two-new-york-city-assaults-and-pencil-pinching?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
