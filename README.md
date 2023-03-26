@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)
- - 🚯 [It\u2019s the little gestures that matter](http://9gag.com/gag/aGEn2bn)
- - 🚯 [Behind every subtitles you read, there is a guy like me, working late to translate everything. Often not payed but still bringing joy to all the people!](http://9gag.com/gag/arm3q5y)<!-- MEMES:END -->
+ - 🚖 [Family assaulted on NYC train because of their race - Source in the comments](http://9gag.com/gag/a7qOVm2)
+ - 🚯 [Trying skincare for the first time..](http://9gag.com/gag/aYVEqK7)
+ - 🚯 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)<!-- MEMES:END -->
 
 --- 
 
