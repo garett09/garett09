@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Tips to Take Your ChatGPT Prompts to the Next Level](https://www.wired.com/story/11-tips-better-chatgpt-prompts/)
- - [The Uniquely American Future of US Authoritarianism](https://www.wired.com/story/us-authoritarian-movement-future/)
- - [Crypto Was Afraid to Show Its Face at SXSW 2023](https://www.wired.com/story/crypto-obfuscation-sxsw-2023/)<!-- TECH:END -->
+ - [A look at the Chinese social e-commerce app and women-friendly &quot;lifestyle bible&quot; Xiaohongshu, which has 200M MAUs and critics describe as a consumerist trap &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/230326/p7#a230326p7)
+ - [Lectric XP 3.0 Review: Clunky but Comfy](https://www.wired.com/review/lectric-xp-3/)
+ - [Gene Expression in Neurons Solves a Brain Evolution Puzzle](https://www.wired.com/story/gene-expression-in-neurons-solves-a-brain-evolution-puzzle/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
