@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good times](http://9gag.com/gag/amA1RAd)
- - 🚯 [Behind every subtitles you read, there is a guy like me, working late to translate everything. Often not payed but still bringing joy to all the people!](http://9gag.com/gag/arm3q5y)
- - 🚯 [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)<!-- MEMES:END -->
+ - 🚖 [February???](http://9gag.com/gag/aRE4oAQ)
+ - 🚯 [...](http://9gag.com/gag/aRE4RvQ)
+ - 🚯 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)<!-- MEMES:END -->
 
 --- 
 
