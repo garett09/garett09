@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)
- - 🚯 [It\u2019s the little gestures that matter](http://9gag.com/gag/aGEn2bn)
- - 🚯 [Behind every subtitles you read, there is a guy like me, working late to translate everything. Often not payed but still bringing joy to all the people!](http://9gag.com/gag/arm3q5y)<!-- MEMES:END -->
+ - 🚖 [Post the best you got](http://9gag.com/gag/aRE4MMA)
+ - 🚯 [A friendly guide to YT ad blocking](http://9gag.com/gag/aQEvA5K)
+ - 🚯 [Look out below](http://9gag.com/gag/az2dYYz)<!-- MEMES:END -->
 
 --- 
 
