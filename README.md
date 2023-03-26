@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [16 stories beneath midtown Manhattan, NYC](http://9gag.com/gag/aKEAenW)
- - 🚯 [Balenciaga](http://9gag.com/gag/a04Xwbn)
- - 🚯 [February???](http://9gag.com/gag/aRE4oAQ)<!-- MEMES:END -->
+ - 🚖 [A memory for life](http://9gag.com/gag/a9q6Bo0)
+ - 🚯 [How to vaporise crack and angeldust with only one little Gadget](http://9gag.com/gag/aDY6P3Z)
+ - 🚯 [That&#39;s quite impressive, not gonna lie.](http://9gag.com/gag/aYVEm3w)<!-- MEMES:END -->
 
 --- 
 
