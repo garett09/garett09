@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This electric scooter broke me](https://www.androidauthority.com/xiaomi-electric-scooter-4-ultra-review-3300720/)
- - [To Hold Tech Accountable, Look to Public Health](https://www.wired.com/story/tech-governance-public-health/)
- - [Daily deals March 26: 31% off 24-inch iMac, 28% off M1 Pro 14-inch MacBook Pro, $50 off Kindle Scribe, more](https://appleinsider.com/articles/23/03/26/daily-deals-march-26-31-off-24-inch-imac-28-off-m1-pro-14-inch-macbook-pro-50-off-kindle-scribe-more?utm_medium=rss)<!-- TECH:END -->
+ - [Long hair, don’t care: Squeeze controls are awesome on wireless earbuds](https://www.androidauthority.com/squeeze-controls-earbuds-long-hair-3301000/)
+ - [Apple shows MR headset to executives ahead of rumored June unveiling](https://appleinsider.com/articles/23/03/26/apple-shows-mr-headset-to-executives-ahead-of-probable-june-unveiling?utm_medium=rss)
+ - [Intel founder &amp; Moore&#39;s Law creator Gordon Moore dies at 94](https://appleinsider.com/articles/23/03/25/intel-co-founder-gordon-moore-dies-at-94?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
