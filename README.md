@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Duolingo stats](http://9gag.com/gag/aL1zWvx)
- - 🚯 [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)
- - 🚯 [Not Something You Find On The Beach Everyday](http://9gag.com/gag/aqeXWBZ)<!-- MEMES:END -->
+ - 🚖 [A memory for life](http://9gag.com/gag/a9q6Bo0)
+ - 🚯 [How to vaporise crack and angeldust with only one little Gadget](http://9gag.com/gag/aDY6P3Z)
+ - 🚯 [That&#39;s quite impressive, not gonna lie.](http://9gag.com/gag/aYVEm3w)<!-- MEMES:END -->
 
 --- 
 
