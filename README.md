@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look out below](http://9gag.com/gag/az2dYYz)
- - 🚯 [Saving a stuck dog](http://9gag.com/gag/ago1xgr)
- - 🚯 [Sorry, no potato.](http://9gag.com/gag/a6qX2g9)<!-- MEMES:END -->
+ - 🚖 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)
+ - 🚯 [Mother leaves school board silent after reading indecent material from school library and classroom books that target children as young as 10 years old](http://9gag.com/gag/aNw9VZv)
+ - 🚯 [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)<!-- MEMES:END -->
 
 --- 
 
