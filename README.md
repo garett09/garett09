@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just think about the guy who set it up...](http://9gag.com/gag/avQ1Ejb)
- - 🚯 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)
- - 🚯 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)<!-- MEMES:END -->
+ - 🚖 [Look out below](http://9gag.com/gag/az2dYYz)
+ - 🚯 [Saving a stuck dog](http://9gag.com/gag/ago1xgr)
+ - 🚯 [Sorry, no potato.](http://9gag.com/gag/a6qX2g9)<!-- MEMES:END -->
 
 --- 
 
