@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Females should stop making those creepy videos of men where they portray them as creeps or predators... We are actually here to do something about ourselves, we are not in the gym for females...](http://9gag.com/gag/awZ3884)
- - 🚯 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)
- - 🚯 [Good times](http://9gag.com/gag/amA1RAd)<!-- MEMES:END -->
+ - 🚖 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)
+ - 🚯 [Good news for a lot of you](http://9gag.com/gag/a6qXp5N)
+ - 🚯 [February???](http://9gag.com/gag/aRE4oAQ)<!-- MEMES:END -->
 
 --- 
 
