@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hilary Duff](http://9gag.com/gag/aOxepZ6)
- - 🚯 [...](http://9gag.com/gag/aRE4RvQ)
- - 🚯 [Balenciaga](http://9gag.com/gag/a04Xwbn)<!-- MEMES:END -->
+ - 🚖 [16 stories beneath midtown Manhattan, NYC](http://9gag.com/gag/aKEAenW)
+ - 🚯 [Balenciaga](http://9gag.com/gag/a04Xwbn)
+ - 🚯 [February???](http://9gag.com/gag/aRE4oAQ)<!-- MEMES:END -->
 
 --- 
 
