@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Chinese social e-commerce app and women-friendly &quot;lifestyle bible&quot; Xiaohongshu, which has 200M MAUs and critics describe as a consumerist trap &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/230326/p7#a230326p7)
- - [Lectric XP 3.0 Review: Clunky but Comfy](https://www.wired.com/review/lectric-xp-3/)
- - [Gene Expression in Neurons Solves a Brain Evolution Puzzle](https://www.wired.com/story/gene-expression-in-neurons-solves-a-brain-evolution-puzzle/)<!-- TECH:END -->
+ - [This electric scooter broke me](https://www.androidauthority.com/xiaomi-electric-scooter-4-ultra-review-3300720/)
+ - [To Hold Tech Accountable, Look to Public Health](https://www.wired.com/story/tech-governance-public-health/)
+ - [Daily deals March 26: 31% off 24-inch iMac, 28% off M1 Pro 14-inch MacBook Pro, $50 off Kindle Scribe, more](https://appleinsider.com/articles/23/03/26/daily-deals-march-26-31-off-24-inch-imac-28-off-m1-pro-14-inch-macbook-pro-50-off-kindle-scribe-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
