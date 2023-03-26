@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17 may be much more than a maintenance update](https://appleinsider.com/articles/23/03/26/highly-requested-features-may-be-included-in-ios-17?utm_medium=rss)
- - [Apple shows MR headset to executives ahead of rumored June unveiling](https://appleinsider.com/articles/23/03/26/apple-shows-mr-headset-to-executives-ahead-of-probable-june-unveiling?utm_medium=rss)
- - [Crime blotter: Two New York City assaults and Pencil pinching](https://appleinsider.com/articles/23/03/26/crime-blotter-two-new-york-city-assaults-and-pencil-pinching?utm_medium=rss)<!-- TECH:END -->
+ - [I ditched Google and installed the privacy-focused GrapheneOS on my Pixel](https://www.androidauthority.com/grapheneos-3287030/)
+ - [Apple Watch glucose sensing up to seven years away from launch](https://appleinsider.com/articles/23/03/26/apple-watch-glucose-sensing-three-to-seven-years-away-from-reality?utm_medium=rss)
+ - [Apple employees fear MR headset could be an expensive flop](https://appleinsider.com/articles/23/03/26/apple-employees-fear-mr-headset-could-be-an-expensive-flop?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
