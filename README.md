@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)
- - 🚯 [Balenciaga](http://9gag.com/gag/a04Xwbn)
+ - 🚖 [...](http://9gag.com/gag/aRE4RvQ)
+ - 🚯 [Being a dad mean sometimes making a fool of yourself for their enjoyment.](http://9gag.com/gag/a3Z5ny3)
  - 🚯 [Good news for a lot of you](http://9gag.com/gag/a6qXp5N)<!-- MEMES:END -->
 
 --- 
