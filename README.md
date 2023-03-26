@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Apple Watch faces](https://www.androidauthority.com/apple-watch-faces-3301281/)
  - [A look at the community of users who &quot;jailbreak&quot; GPT models to generate unfiltered content and see themselves as fighting back against OpenAI&#39;s closed policies &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230326/p5#a230326p5)
- - [Sources: concerned about Chinese spying, the US helped SubCom win its $600M bid for an Asia-Europe subsea cable project through incentives and investor pressure &lpar;Joe Brock/Reuters&rpar;](http://www.techmeme.com/230326/p4#a230326p4)
- - [Hollywood and music industry insiders, actors, and others say a TikTok ban could seriously hurt their businesses and are scrambling to create contingency plans &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230326/p3#a230326p3)<!-- TECH:END -->
+ - [Sources: concerned about Chinese spying, the US helped SubCom win its $600M bid for an Asia-Europe subsea cable project through incentives and investor pressure &lpar;Joe Brock/Reuters&rpar;](http://www.techmeme.com/230326/p4#a230326p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
