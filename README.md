@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Atlanta-based Yellow Card, Africa&#39;s largest centralized crypto exchange, which has done ~$1.75B in transactions since 2019 and raised $57M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230326/p10#a230326p10)
  - [Audio-Technica AT-LP7 review: A very nice turntable for under $1,000](https://appleinsider.com/articles/23/03/26/audio-technica-at-lp7-review-a-very-nice-turntable-for-under-1000?utm_medium=rss)
- - [I ditched Google and installed the privacy-focused GrapheneOS on my Pixel](https://www.androidauthority.com/grapheneos-3287030/)
- - [Not Sleeping Enough? It Could Affect How Long You Live     - CNET](https://www.cnet.com/health/sleep/not-sleeping-enough-it-could-affect-how-long-you-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I ditched Google and installed the privacy-focused GrapheneOS on my Pixel](https://www.androidauthority.com/grapheneos-3287030/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
