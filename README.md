@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say some US suppliers plan to sidestep export controls by selling tech to the unlisted subsidiaries of Inspur and other Chinese firms on the Entity List &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230326/p6#a230326p6)
  - [The best Apple Watch faces](https://www.androidauthority.com/apple-watch-faces-3301281/)
- - [A look at the community of users who &quot;jailbreak&quot; GPT models to generate unfiltered content and see themselves as fighting back against OpenAI&#39;s closed policies &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230326/p5#a230326p5)
- - [Sources: concerned about Chinese spying, the US helped SubCom win its $600M bid for an Asia-Europe subsea cable project through incentives and investor pressure &lpar;Joe Brock/Reuters&rpar;](http://www.techmeme.com/230326/p4#a230326p4)<!-- TECH:END -->
+ - [A look at the community of users who &quot;jailbreak&quot; GPT models to generate unfiltered content and see themselves as fighting back against OpenAI&#39;s closed policies &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230326/p5#a230326p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
