@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: some Twitter source code was leaked by a user called &quot;FreeSpeechEnthusiast&quot; on GitHub, which took it down to comply with a DMCA notice sent on Friday &lpar;New York Times&rpar;](http://www.techmeme.com/230326/p11#a230326p11)
  - [Uze 100W GaN Charger review: A lot of power in a small body](https://appleinsider.com/articles/23/03/26/uze-100w-gan-charger-review-a-lot-of-power-in-a-small-body?utm_medium=rss)
- - [How to set up iCloud Family Sharing](https://appleinsider.com/inside/icloud/tips/how-to-set-up-icloud-family-sharing?utm_medium=rss)
- - [ASUS Chromebook Vibe CX34 Flip review: Come for the gaming, stay for the rest](https://www.androidauthority.com/asus-chromebook-vibe-cx34-flip-review-3293588/)<!-- TECH:END -->
+ - [How to set up iCloud Family Sharing](https://appleinsider.com/inside/icloud/tips/how-to-set-up-icloud-family-sharing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
