@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not Something You Find On The Beach Everyday](http://9gag.com/gag/aqeXWBZ)
- - 🚯 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)
- - 🚯 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)<!-- MEMES:END -->
+ - 🚖 [Duolingo stats](http://9gag.com/gag/aL1zWvx)
+ - 🚯 [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)
+ - 🚯 [Not Something You Find On The Beach Everyday](http://9gag.com/gag/aqeXWBZ)<!-- MEMES:END -->
 
 --- 
 
