@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Apex Legends’ Sun Squad Collection Event start?](https://www.polygon.com/guides/23655254/apex-legends-sun-squad-collection-event-swimsuit-skins)
- - [CS:GO smashes player records as Counter-Strike 2 hype mounts](https://www.pcgamer.com/csgo-smashes-player-records-as-counter-strike-2-hype-mounts)
- - [The history of the blind action hero, from Zatoichi to John Wick 4](https://www.polygon.com/entertainment/23644691/blind-warrior-action-history-john-wick-zatoichi-donnie-yen)<!-- GAME:END -->
+ - [Fight rat hordes with steam guns in this tactical, squad-based survival game](https://www.pcgamer.com/fight-rat-hordes-with-steam-guns-in-this-tactical-squad-based-survival-game)
+ - [PC Game Accused Of &#39;Asset Theft&#39; Removed From Steam](https://kotaku.com/dark-and-darker-nexon-ironmace-pc-korea-police-legal-1850267232)
+ - [When does Apex Legends’ Sun Squad Collection Event start?](https://www.polygon.com/guides/23655254/apex-legends-sun-squad-collection-event-swimsuit-skins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
