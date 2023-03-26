@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The history of the blind action hero, from Zatoichi to John Wick 4](https://www.polygon.com/entertainment/23644691/blind-warrior-action-history-john-wick-zatoichi-donnie-yen)
  - [Wordle hint and answer #645: Sunday, March 26](https://www.pcgamer.com/wordle-hint-answer-today-645-march-26)
- - [Here&#39;s a game about being the spirit of nature after we&#39;ve killed all the animals](https://www.pcgamer.com/heres-a-game-about-being-the-spirit-of-nature-after-weve-killed-all-the-animals)
- - [Tractor makers are scrambling to get their gear into Farming Simulator](https://www.pcgamer.com/tractor-makers-are-scrambling-to-get-their-gear-into-farming-simulator)<!-- GAME:END -->
+ - [Here&#39;s a game about being the spirit of nature after we&#39;ve killed all the animals](https://www.pcgamer.com/heres-a-game-about-being-the-spirit-of-nature-after-weve-killed-all-the-animals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
