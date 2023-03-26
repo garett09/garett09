@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The history of the blind action hero, from Zatoichi to John Wick 4](https://www.polygon.com/entertainment/23644691/blind-warrior-action-history-john-wick-zatoichi-donnie-yen)
- - [Wordle hint and answer #645: Sunday, March 26](https://www.pcgamer.com/wordle-hint-answer-today-645-march-26)
- - [Here&#39;s a game about being the spirit of nature after we&#39;ve killed all the animals](https://www.pcgamer.com/heres-a-game-about-being-the-spirit-of-nature-after-weve-killed-all-the-animals)<!-- GAME:END -->
+ - [When does Apex Legends’ Sun Squad Collection Event start?](https://www.polygon.com/guides/23655254/apex-legends-sun-squad-collection-event-swimsuit-skins)
+ - [CS:GO smashes player records as Counter-Strike 2 hype mounts](https://www.pcgamer.com/csgo-smashes-player-records-as-counter-strike-2-hype-mounts)
+ - [The history of the blind action hero, from Zatoichi to John Wick 4](https://www.polygon.com/entertainment/23644691/blind-warrior-action-history-john-wick-zatoichi-donnie-yen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
