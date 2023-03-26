@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Meta could sidestep ATT&#39;s impairments by launching a mobile games store, as Apple reportedly prepares multiple app store support on iOS due to the EU&#39;s DMA &lpar;Eric Benjamin Seufert/Mobile Dev Memo&rpar;](http://www.techmeme.com/230325/p15#a230325p15)
- - [Best 4K TVs for 2023, Tested and Reviewed     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
- - [Microsoft releases Windows 10 Snip &amp; Sketch and Windows 11 Snipping Tool updates to fix the &quot;aCropalypse&quot; bug used to reveal info edited out in some screenshots &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230325/p14#a230325p14)<!-- TECH:END -->
+ - [Norway-based 1X, which is developing humanoid robots, raised a $23.5M Series A2 led by the OpenAI Startup Fund with participation from Tiger Global and others &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230326/p1#a230326p1)
+ - [Source: Elon Musk offers Twitter staff stock grants at a ~$20B valuation which, with a $13B debt, implies a $33B enterprise value, ~11x 2023&#39;s projected revenue &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230325/p17#a230325p17)
+ - [The hacker of DeFi lending protocol Euler Finance has returned 58,737 ETH, worth ~$102M, from the 96K ETH stolen in a flash-loan attack on March 13; EUL up 27%+ &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230325/p16#a230325p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
