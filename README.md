@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Family assaulted on NYC train because of their race - Source in the comments](http://9gag.com/gag/a7qOVm2)
- - 🚯 [Trying skincare for the first time..](http://9gag.com/gag/aYVEqK7)
- - 🚯 [Swedish Journalists attacked by immigrants](http://9gag.com/gag/aOxe922)<!-- MEMES:END -->
+ - 🚖 [Not Something You Find On The Beach Everyday](http://9gag.com/gag/aqeXWBZ)
+ - 🚯 [Saving a stuck dog](http://9gag.com/gag/ago1xgr)
+ - 🚯 [Family assaulted on NYC train because of their race - Source in the comments](http://9gag.com/gag/a7qOVm2)<!-- MEMES:END -->
 
 --- 
 
