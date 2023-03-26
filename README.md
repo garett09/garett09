@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uze 100W GaN Charger review: A lot of power in a small body](https://appleinsider.com/articles/23/03/26/uze-100w-gan-charger-review-a-lot-of-power-in-a-small-body?utm_medium=rss)
  - [How to set up iCloud Family Sharing](https://appleinsider.com/inside/icloud/tips/how-to-set-up-icloud-family-sharing?utm_medium=rss)
- - [ASUS Chromebook Vibe CX34 Flip review: Come for the gaming, stay for the rest](https://www.androidauthority.com/asus-chromebook-vibe-cx34-flip-review-3293588/)
- - [A profile of Atlanta-based Yellow Card, Africa&#39;s largest centralized crypto exchange, which has done ~$1.75B in transactions since 2019 and raised $57M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230326/p10#a230326p10)<!-- TECH:END -->
+ - [ASUS Chromebook Vibe CX34 Flip review: Come for the gaming, stay for the rest](https://www.androidauthority.com/asus-chromebook-vibe-cx34-flip-review-3293588/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
