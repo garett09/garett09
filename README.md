@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Audio-Technica AT-LP7 review: A very nice turntable for under $1,000](https://appleinsider.com/articles/23/03/26/audio-technica-at-lp7-review-a-very-nice-turntable-for-under-1000?utm_medium=rss)
  - [I ditched Google and installed the privacy-focused GrapheneOS on my Pixel](https://www.androidauthority.com/grapheneos-3287030/)
- - [Apple Watch glucose sensing up to seven years away from launch](https://appleinsider.com/articles/23/03/26/apple-watch-glucose-sensing-three-to-seven-years-away-from-reality?utm_medium=rss)
- - [Apple employees fear MR headset could be an expensive flop](https://appleinsider.com/articles/23/03/26/apple-employees-fear-mr-headset-could-be-an-expensive-flop?utm_medium=rss)<!-- TECH:END -->
+ - [Not Sleeping Enough? It Could Affect How Long You Live     - CNET](https://www.cnet.com/health/sleep/not-sleeping-enough-it-could-affect-how-long-you-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
