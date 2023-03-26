@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [...](http://9gag.com/gag/aRE4RvQ)
- - 🚯 [Being a dad mean sometimes making a fool of yourself for their enjoyment.](http://9gag.com/gag/a3Z5ny3)
- - 🚯 [Good news for a lot of you](http://9gag.com/gag/a6qXp5N)<!-- MEMES:END -->
+ - 🚖 [He helped one of them and now he&#39;s part of the herd](http://9gag.com/gag/aeQ17WB)
+ - 🚯 [Oh yeah, the fire is rising](http://9gag.com/gag/ay23PQY)
+ - 🚯 [Balenciaga](http://9gag.com/gag/a04Xwbn)<!-- MEMES:END -->
 
 --- 
 
