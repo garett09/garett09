@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)
- - 🚯 [Sauce in the comment.](http://9gag.com/gag/aMEBWZR)
- - 🚯 [Good times](http://9gag.com/gag/amA1RAd)<!-- MEMES:END -->
+ - 🚖 [That&#39;s quite impressive, not gonna lie.](http://9gag.com/gag/aYVEm3w)
+ - 🚯 [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)
+ - 🚯 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)<!-- MEMES:END -->
 
 --- 
 
