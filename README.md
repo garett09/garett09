@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG V60 users get surprise Android 13 update in the US](https://www.androidauthority.com/lg-v60-android-13-update-3302273/)
- - [HUAWEI’s bringing its latest Google-free waterproof foldable flagship to Europe](https://www.androidauthority.com/huawei-mate-x3-p60-europe-launch-3302266/)
- - [A look at Modulate&#39;s ToxMod and other AI-based tools that help gaming companies moderate voice chats in online games, amid concerns of accuracy and user privacy &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/230326/p16#a230326p16)<!-- TECH:END -->
+ - [They Posted Porn on Twitter. German Authorities Called the Cops](https://www.wired.com/story/germany-twitter-porn-police/)
+ - [First Citizens agrees to buy the commercial banking business of Silicon Valley Bank from the FDIC including all deposits and loans &lpar;Daniel Taub/Bloomberg&rpar;](http://www.techmeme.com/230327/p1#a230327p1)
+ - [Now the Windows snipping tool has a major privacy flaw &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/windows-snipping-tool-acropalypse-3298891/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
