@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A man was ordered to pay $400k to Kim Kardashian over a trademark lawsuit. He&#39;s living out of his car.](http://9gag.com/gag/aPgmnBG)
- - 🚯 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)
- - 🚯 [Poor guy](http://9gag.com/gag/aOxejN2)<!-- MEMES:END -->
+ - 🚖 [Brasilian Reality TV, da best one!Grab some popcorn and enjoy.No need for Netflix and Co.](http://9gag.com/gag/aBd6b1D)
+ - 🚯 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)
+ - 🚯 [Put on your glasses you f**king zebra](http://9gag.com/gag/a6qX8Nm)<!-- MEMES:END -->
 
 --- 
 
