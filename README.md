@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome To Kotaku Royale, Exploring The Genre That&#39;s Defining Modern Gaming](https://kotaku.com/battle-royale-games-pubg-fortnite-apex-legends-warzone-1850268953)
- - [Tetris creator on turning his life into a spy movie: ‘exaggeration is kind of natural’](https://www.polygon.com/23654998/tetris-movie-alexey-pajitnov-henk-rogers-reality-vs-fiction)
- - [After Three Months Of Struggles, Ashika Island Saved Warzone 2.0](https://kotaku.com/cod-warzone-2-ashika-dead-drops-resurgence-loadout-1850268948)<!-- GAME:END -->
+ - [FFXIV Hatching-tide 2023 event guide](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2023/3/27/23658390/hatching-tide-fate-tonberry-suit-rewards-quest-location-npc)
+ - [MLB The Show’s celebration of Black baseball is the best thing in sports video games this year](https://www.polygon.com/23658610/mlb-the-show-23-negro-leagues-storylines-satchel-paige)
+ - [Fortnite’s New Unreal Editor Has Limits On What Fans Can Make, Monetize](https://kotaku.com/fortnite-epic-games-uefn-creator-economy-maps-1850269891)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
