@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can get $40 off a Nintendo Switch OLED today only](https://www.polygon.com/deals/2023/3/27/23653645/nintendo-switch-oled-woot-deal-sale)
- - [Zelda Fans Can Finally Chill: Tears Of The Kingdom Deep Dive Is On The Way](https://kotaku.com/legend-zelda-tears-kingdom-gameplay-nintendo-direct-1850268681)
- - [Terra Nil review](https://www.pcgamer.com/terra-nil-review)<!-- GAME:END -->
+ - [MultiVersus is going offline, relaunch planned for 2024](https://www.polygon.com/23658469/multiversus-offline-update-relaunch-date)
+ - [Audio-Technica ATH-M50xSTS StreamSet](https://www.pcgamer.com/audio-technica-ath-m50-sts-streamset-review)
+ - [Uh-Oh, The Super Mario Bros. x Lush Bath Bombs Look Like Pee](https://kotaku.com/super-mario-bros-lush-bath-bombs-coin-block-1850268812)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
