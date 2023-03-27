@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big fish](http://9gag.com/gag/avQ1XvM)
- - 🚯 [Good news for a lot of you](http://9gag.com/gag/a6qXp5N)
- - 🚯 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)<!-- MEMES:END -->
+ - 🚖 [You shouldn&#39;t get turned on by beautiful women](http://9gag.com/gag/aVbo1nw)
+ - 🚯 [This cold open scene should have not been deleted](http://9gag.com/gag/aPgmpzR)
+ - 🚯 [What was the first post you ever upvoted? This was my first upvote after creating my account.](http://9gag.com/gag/axo3Qb2)<!-- MEMES:END -->
 
 --- 
 
