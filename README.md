@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You shouldn&#39;t get turned on by beautiful women](http://9gag.com/gag/aVbo1nw)
- - 🚯 [This cold open scene should have not been deleted](http://9gag.com/gag/aPgmpzR)
- - 🚯 [What was the first post you ever upvoted? This was my first upvote after creating my account.](http://9gag.com/gag/axo3Qb2)<!-- MEMES:END -->
+ - 🚖 [Duolingo stats](http://9gag.com/gag/aL1zWvx)
+ - 🚯 [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)
+ - 🚯 [Put on your glasses you f**king zebra](http://9gag.com/gag/a6qX8Nm)<!-- MEMES:END -->
 
 --- 
 
