@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #646: Monday, March 27](https://www.pcgamer.com/wordle-hint-answer-today-646-march-27)
  - [Microsoft Ends $1 Xbox Game Pass Offer](https://kotaku.com/xbox-game-pass-1-one-dollar-subscription-offer-deal-1850267438)
- - [Give it up for Jeff, the true doofus warrior on Yellowjackets](https://www.polygon.com/23651630/yellowjackets-jeff-actor-shauna-husband-papa-roach)
- - [Five new Steam games you probably missed &lpar;March 27, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-27-2023)<!-- GAME:END -->
+ - [Give it up for Jeff, the true doofus warrior on Yellowjackets](https://www.polygon.com/23651630/yellowjackets-jeff-actor-shauna-husband-papa-roach)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
