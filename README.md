@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)
- - 🚯 [Look at me !!](http://9gag.com/gag/aPgmdpB)
- - 🚯 [...](http://9gag.com/gag/aRE4RvQ)<!-- MEMES:END -->
+ - 🚖 [...](http://9gag.com/gag/aRE4RvQ)
+ - 🚯 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)
+ - 🚯 [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)<!-- MEMES:END -->
 
 --- 
 
