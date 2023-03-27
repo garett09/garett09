@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dress-Up RPG Has Loophole That Lets Disney Princesses Wield Guns](https://kotaku.com/disney-princess-guns-shining-nikki-dress-up-game-mobile-1850270286)
- - [Fallout Writer Chris Avellone’s Accusers Settle Libel Case For Seven Figures](https://kotaku.com/fallout-new-vegas-avellone-sexual-misconduct-libel-1850270184)
- - [Resident Evil 4 remake hints that Separate Ways DLC may be next](https://www.polygon.com/23654190/resident-evil-4-remake-separate-ways-dlc-ada-wong)<!-- GAME:END -->
+ - [John Wick 4’s director has 11 projects lined up — and isn’t sure which one’s next](https://www.polygon.com/23658455/john-wick-5-director-chad-stahelski-ghost-of-tsushima)
+ - [Magic: The Gathering’s coveted Black Lotus breaks another record](https://www.polygon.com/23658890/mtg-black-lotus-auction-record-magic-the-gathering)
+ - [Surprising Fans, WB&#39;s Smash Bros.-Like Shutters Until 2024 With No Refunds](https://kotaku.com/multiversus-shut-down-refund-season-crash-team-warner-1850270501)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
