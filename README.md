@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sauce in the comment.](http://9gag.com/gag/aMEBWZR)
- - 🚯 [Good times](http://9gag.com/gag/amA1RAd)
- - 🚯 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)<!-- MEMES:END -->
+ - 🚖 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)
+ - 🚯 [Sauce in the comment.](http://9gag.com/gag/aMEBWZR)
+ - 🚯 [Good times](http://9gag.com/gag/amA1RAd)<!-- MEMES:END -->
 
 --- 
 
