@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetti AC300: The ultimate portable power station for home, work, and play](https://appleinsider.com/articles/23/03/24/bluetti-ac300-the-ultimate-portable-power-station-for-home-work-and-play?utm_medium=rss)
- - [CFTC&#39;s case vs. Binance is mainly about US clients, like high-frequency trading firms in NYC and Chicago, trading crypto derivatives on an unregistered exchange &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230327/p23#a230327p23)
- - [Apple releases security notes for iOS 16.4, watchOS 9.4, macOS Ventura 13.3](https://appleinsider.com/articles/23/03/27/apple-releases-security-notes-for-ios-164-watchos-94-macos-ventura-133?utm_medium=rss)<!-- TECH:END -->
+ - [Google is shutting down Fitbit Challenges and Adventures today](https://www.androidauthority.com/fitbit-challenges-adventures-3302535/)
+ - [Lyft cofounders Logan Green and John Zimmer will step down from day-to-day roles as CEO and president in April; former Amazon exec David Risher will become CEO &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230327/p24#a230327p24)
+ - [iOS 16.4 Brings These New Emoji to Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-4-brings-these-new-emoji-to-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
