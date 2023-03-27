@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A man was ordered to pay $400k to Kim Kardashian over a trademark lawsuit. He&#39;s living out of his car.](http://9gag.com/gag/aPgmnBG)
- - 🚯 [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)
+ - 🚖 [Bro butt dialed the cops while playing a video game](http://9gag.com/gag/anzR8mb)
+ - 🚯 [Duolingo stats](http://9gag.com/gag/aL1zWvx)
  - 🚯 [One ticket, please!](http://9gag.com/gag/arm39D5)<!-- MEMES:END -->
 
 --- 
