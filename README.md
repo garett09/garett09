@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [...](http://9gag.com/gag/aRE4RvQ)
+ - 🚖 [Balenciaga](http://9gag.com/gag/a04Xwbn)
  - 🚯 [23 year old woman who was caught in the Mount Vesuvius eruption in Pompeii in 79 AD](http://9gag.com/gag/awZ3dLB)
- - 🚯 [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)<!-- MEMES:END -->
+ - 🚯 [Truely a national.. nay, global hero.](http://9gag.com/gag/amA1VjX)<!-- MEMES:END -->
 
 --- 
 
