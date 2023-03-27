@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPadOS 16.4 is now available to download](https://appleinsider.com/articles/23/03/27/ipados-164-is-now-available-to-download?utm_medium=rss)
- - [Apple releases macOS Ventura 13.3 with new HomeKit architecture](https://appleinsider.com/articles/23/03/27/apple-releases-macos-ventura-133-with-new-homekit-architecture?utm_medium=rss)
- - [iOS 16.4 is now out, with a lot of user-facing updates](https://appleinsider.com/articles/23/03/27/ios-164-is-now-out-with-a-lot-of-user-facing-updates?utm_medium=rss)<!-- TECH:END -->
+ - [Apple expands Emergency SOS via satellite to six more countries](https://appleinsider.com/articles/23/03/27/apple-expands-emergency-sos-via-satellite-to-six-more-countries?utm_medium=rss)
+ - [Apple releases Studio Display 16.4 firmware update](https://appleinsider.com/articles/23/03/27/apple-releases-studio-display-164-firmware-update?utm_medium=rss)
+ - [iOS 16.4 is now available, with a lot of user-facing updates](https://appleinsider.com/articles/23/03/27/ios-164-is-now-out-with-a-lot-of-user-facing-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
