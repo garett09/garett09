@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Half naked girls can get thousands of likes, but how many for our cute boy with long nose.](http://9gag.com/gag/a8q6K11)
- - 🚯 [And that\u2019s more than Frodo ever said to Legolas](http://9gag.com/gag/aNw92Y4)
- - 🚯 [My mom every Sunday morning](http://9gag.com/gag/aZD1dL6)<!-- MEMES:END -->
+ - 🚖 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)
+ - 🚯 [Look at me !!](http://9gag.com/gag/aPgmdpB)
+ - 🚯 [...](http://9gag.com/gag/aRE4RvQ)<!-- MEMES:END -->
 
 --- 
 
