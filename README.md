@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Duolingo stats](http://9gag.com/gag/aL1zWvx)
- - 🚯 [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)
- - 🚯 [Put on your glasses you f**king zebra](http://9gag.com/gag/a6qX8Nm)<!-- MEMES:END -->
+ - 🚖 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)
+ - 🚯 [Look at me !!](http://9gag.com/gag/aPgmdpB)
+ - 🚯 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)<!-- MEMES:END -->
 
 --- 
 
