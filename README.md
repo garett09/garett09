@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [CAT putting on an indoor demo for potential buyers. What do you think the average net worth is in that room?](http://9gag.com/gag/aRE42NM)
- - 🚯 [Truely a national.. nay, global hero.](http://9gag.com/gag/amA1VjX)
- - 🚯 [Good news for a lot of you](http://9gag.com/gag/a6qXp5N)<!-- MEMES:END -->
+ - 🚖 [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)
+ - 🚯 [Duolingo stats](http://9gag.com/gag/aL1zWvx)
+ - 🚯 [...](http://9gag.com/gag/aRE4RvQ)<!-- MEMES:END -->
 
 --- 
 
