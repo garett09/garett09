@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung making iPhone 15 OLED screen earlier than normal](https://appleinsider.com/articles/23/03/27/samsung-making-iphone-15-oled-screen-earlier-than-normal?utm_medium=rss)
- - [Unboxing Is So 2012. The Internet Wants Packing Videos](https://www.wired.com/story/packing-videos-tiktok-unboxing/)
- - [ChatGPT Opened a New Era in Search. Microsoft Could Ruin It](https://www.wired.com/story/chatgpt-opened-a-new-era-in-search-microsoft-could-ruin-it/)<!-- TECH:END -->
+ - [Apple Car may get parts made by iPhone 3D sensor supplier](https://appleinsider.com/articles/23/03/27/apple-car-may-get-parts-made-by-iphone-3d-sensor-supplier?utm_medium=rss)
+ - [Sonos Era 100 Review: The New Smart Speaker Standard](https://www.wired.com/review/sonos-era-100/)
+ - [I Could Play &#39;Disney Dreamlight Valley&#39; Until the End of Time](https://www.wired.com/story/disney-dreamlight-valley-binge-play/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
