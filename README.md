@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom partners with OpenAI to expand its Zoom IQ assistant, adding the ability to generate whiteboards using text prompts, provide recaps of meetings, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230327/p16#a230327p16)
- - [Lifetime Babbel language learning subscription plummets to $149.97 &lpar;$450 off&rpar;](https://appleinsider.com/articles/23/03/27/lifetime-babbel-language-learning-subscription-plummets-to-14997-450-off?utm_medium=rss)
- - [The CFTC sues Binance, CEO CZ, and an ex-chief compliance officer, calling Binance&#39;s compliance efforts &quot;a sham&quot; and corporate structure &quot;intentionally opaque&quot; &lpar;CFTC&rpar;](http://www.techmeme.com/230327/p15#a230327p15)<!-- TECH:END -->
+ - [iPadOS 16.4 is now available to download](https://appleinsider.com/articles/23/03/27/ipados-164-is-now-available-to-download?utm_medium=rss)
+ - [Apple releases macOS Ventura 13.3 with new HomeKit architecture](https://appleinsider.com/articles/23/03/27/apple-releases-macos-ventura-133-with-new-homekit-architecture?utm_medium=rss)
+ - [iOS 16.4 is now out, with a lot of user-facing updates](https://appleinsider.com/articles/23/03/27/ios-164-is-now-out-with-a-lot-of-user-facing-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
