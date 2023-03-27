@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of John Wick 4&#39;s most exhilarating moments was inspired by a top-down indie shooter](https://www.pcgamer.com/one-of-john-wick-4s-most-exhilarating-moments-was-inspired-by-a-top-down-indie-shooter)
- - [Behold, all the Tears of the Kingdom pre-order gifts from around the world](https://www.polygon.com/deals/23658964/legend-of-zelda-tears-of-the-kingdom-global-pre-order-gift-bonus-guide)
- - [Diablo IV’s Beta Has Us Kinda Obsessed With Hell](https://kotaku.com/diablo-4-open-beta-impressions-rogue-necromancer-barb-1850270634)<!-- GAME:END -->
+ - [Sadly, Kirby Will Not Turn Into A Hot Man If He Swallows A Hot Man](https://kotaku.com/kirby-interview-hal-nintendo-hot-man-handsome-gdc-1850271154)
+ - [Diablo 4 quest designer explains how they put the RP in RPG with one simple choice](https://www.pcgamer.com/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice)
+ - [One of John Wick 4&#39;s most exhilarating moments was inspired by a top-down indie shooter](https://www.pcgamer.com/one-of-john-wick-4s-most-exhilarating-moments-was-inspired-by-a-top-down-indie-shooter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
