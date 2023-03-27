@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After India&#39;s legal requests this week, Twitter blocked tweets from 122 users, including reporters and politicians, from Indian users; it used to push back more &lpar;Samriddhi Sakunia/Rest of World&rpar;](http://www.techmeme.com/230326/p13#a230326p13)
- - [Microsoft says it has stopped its Xbox Game Pass $1 trial offer](https://www.theverge.com/2023/3/26/23657627/microsoft-xbox-game-pass-trial-offer-stopped)
- - [A look at OBNBrandon, a prolific scammer in a booming community focused on banning influencers&#39; accounts, mainly on Instagram, and extorting for &quot;reactivation&quot; &lpar;ProPublica&rpar;](http://www.techmeme.com/230326/p12#a230326p12)<!-- TECH:END -->
+ - [Sources: the Hong Kong arms of three Chinese state banks have reached out to offer services to crypto businesses in recent months, despite a mainland crypto ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/230326/p15#a230326p15)
+ - [A mid-March Midjourney update seemingly fixed one of the AI image generator&#39;s major failings: its inability to depict lifelike human hands with five fingers &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/230326/p14#a230326p14)
+ - [After India&#39;s legal orders this week, Twitter blocked the tweets of 122 users, including reporters and politicians, from Indian users; it used to push back more &lpar;Samriddhi Sakunia/Rest of World&rpar;](http://www.techmeme.com/230326/p13#a230326p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
