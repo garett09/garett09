@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chris Avellone accepts &#39;seven-figure payment&#39; to settle libel suit with those who accused him of sexual misconduct](https://www.pcgamer.com/chris-avellone-accepts-seven-figure-payment-to-settle-libel-suit-with-those-who-accused-him-of-sexual-misconduct)
- - [Vince McMahon controls wrestling history in order to control all of wrestling](https://www.polygon.com/23654827/vince-mcmahon-wwe-control-wrestlemania)
- - [Gear up for MLB The Show 23 with an overview of new features](https://blog.playstation.com/2023/03/27/gear-up-for-mlb-the-show-23-with-an-overview-of-new-features/)<!-- GAME:END -->
+ - [Nintendo to show off new Zelda: Tears of the Kingdom gameplay on March 28](https://www.polygon.com/23658171/zelda-tears-of-the-kingdom-gameplay-nintendo-direct)
+ - [Dreams: Announcing the winners of the 4th Annual Impy Awards](https://blog.playstation.com/2023/03/27/dreams-announcing-the-winners-of-the-4th-annual-impy-awards/)
+ - [Dreams: Announcing the winners of the 4th Annual Impy Awards](https://blog.playstation.com/2023/03/27/dreams-announcing-the-winners-of-the-4th-annual-impy-awards/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
