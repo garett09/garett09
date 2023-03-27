@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo to show off new Zelda: Tears of the Kingdom gameplay on March 28](https://www.polygon.com/23658171/zelda-tears-of-the-kingdom-gameplay-nintendo-direct)
- - [Dreams: Announcing the winners of the 4th Annual Impy Awards](https://blog.playstation.com/2023/03/27/dreams-announcing-the-winners-of-the-4th-annual-impy-awards/)
- - [Dreams: Announcing the winners of the 4th Annual Impy Awards](https://blog.playstation.com/2023/03/27/dreams-announcing-the-winners-of-the-4th-annual-impy-awards/)<!-- GAME:END -->
+ - [FaZe Clan Stock Price Too Embarrassing For Wall Street](https://kotaku.com/faze-clan-stock-rain-apex-banks-rug-swagg-esports-1850268478)
+ - [Sim game Terra Nil accepts the apocalypse — then moves past it](https://www.polygon.com/reviews/23652587/terra-nil-review-sim-game-city-builder-climate-change)
+ - [Terra Nil: The Kotaku Review](https://kotaku.com/terra-nil-review-city-builder-devolver-digital-pc-ios-1850267414)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
