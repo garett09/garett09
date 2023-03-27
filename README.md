@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Say goodbye to absurdly cheap Game Pass: Microsoft is killing the $1 trial](https://www.pcgamer.com/say-goodbye-to-absurdly-cheap-game-pass-microsoft-is-killing-the-dollar1-trial)
  - [Where to find waypoints and how to fast travel in Diablo 4](https://www.pcgamer.com/diablo-4-waypoints-fast-travel)
- - [How to upgrade your healing potion in Diablo 4](https://www.pcgamer.com/diablo-4-healing-potion-upgrade)
- - [You can get $30 off a Nintendo Switch OLED today only](https://www.polygon.com/deals/2023/3/27/23653645/nintendo-switch-oled-woot-deal-sale)<!-- GAME:END -->
+ - [How to upgrade your healing potion in Diablo 4](https://www.pcgamer.com/diablo-4-healing-potion-upgrade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
