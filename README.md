@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alex Szapiro, co-head of SoftBank&#39;s nearly $8B Latin America fund, says he is confident about securing extra capital from its parent despite a ~$900M paper loss &lpar;Michael Pooler/Financial Times&rpar;](http://www.techmeme.com/230327/p2#a230327p2)
- - [OnePlus 11 Jupiter Rock Limited Edition incoming: So what’s it made of?](https://www.androidauthority.com/oneplus-11-jupiter-rock-limited-edition-3302286/)
- - [‘Reality-dial,’ ‘Copresence’ app — Apple execs spill the beans on new headset](https://www.androidauthority.com/apple-mixed-reality-headset-features-3302279/)<!-- TECH:END -->
+ - [Daily Authority: 🤔 Google or GrapheneOS?](https://www.androidauthority.com/daily-authority-march-27-2023-3302282/)
+ - [Nvidia CTO Michael Kagan says crypto does not &quot;bring anything useful for society&quot; and other processing power uses like AI are more worthwhile than crypto mining &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/230327/p4#a230327p4)
+ - [You told us: Most of you have bought cheap wireless earbuds before](https://www.androidauthority.com/cheap-wireless-earbuds-poll-results-3302300/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
