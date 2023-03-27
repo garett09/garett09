@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #646: Monday, March 27](https://www.pcgamer.com/wordle-hint-answer-today-646-march-27)
- - [Microsoft Ends $1 Xbox Game Pass Offer](https://kotaku.com/xbox-game-pass-1-one-dollar-subscription-offer-deal-1850267438)
- - [Give it up for Jeff, the true doofus warrior on Yellowjackets](https://www.polygon.com/23651630/yellowjackets-jeff-actor-shauna-husband-papa-roach)<!-- GAME:END -->
+ - [You can get $30 off a Nintendo Switch OLED today only](https://www.polygon.com/deals/2023/3/27/23653645/nintendo-switch-oled-woot-deal-sale)
+ - [Watch this person recycle a bottle by 3D printing a Raspberry Pi case](https://www.pcgamer.com/watch-this-person-recycle-a-bottle-by-3d-printing-a-raspberry-pi-case)
+ - [Wordle hint and answer #646: Monday, March 27](https://www.pcgamer.com/wordle-hint-answer-today-646-march-27)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
