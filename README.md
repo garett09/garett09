@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;March 27, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-27-2023)
- - [Be a swamp devil, cause chaos, steal stuff, in this lo-fi immersive sim](https://www.pcgamer.com/be-a-swamp-devil-cause-chaos-steal-stuff-in-this-lo-fi-immersive-sim)
- - [Fight rat hordes with steam guns in this tactical, squad-based survival RPG](https://www.pcgamer.com/fight-rat-hordes-with-steam-guns-in-this-tactical-squad-based-survival-game)<!-- GAME:END -->
+ - [Microsoft Ends $1 Xbox Game Pass Offer](https://kotaku.com/xbox-game-pass-1-one-dollar-subscription-offer-deal-1850267438)
+ - [Give it up for Jeff, the true doofus warrior on Yellowjackets](https://www.polygon.com/23651630/yellowjackets-jeff-actor-shauna-husband-papa-roach)
+ - [Five new Steam games you probably missed &lpar;March 27, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-march-27-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
