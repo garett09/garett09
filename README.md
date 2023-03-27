@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [John Wick 4’s director has 11 projects lined up — and isn’t sure which one’s next](https://www.polygon.com/23658455/john-wick-5-director-chad-stahelski-ghost-of-tsushima)
- - [Magic: The Gathering’s coveted Black Lotus breaks another record](https://www.polygon.com/23658890/mtg-black-lotus-auction-record-magic-the-gathering)
- - [Surprising Fans, WB&#39;s Smash Bros.-Like Shutters Until 2024 With No Refunds](https://kotaku.com/multiversus-shut-down-refund-season-crash-team-warner-1850270501)<!-- GAME:END -->
+ - [One of John Wick 4&#39;s most exhilarating moments was inspired by a top-down indie shooter](https://www.pcgamer.com/one-of-john-wick-4s-most-exhilarating-moments-was-inspired-by-a-top-down-indie-shooter)
+ - [Behold, all the Tears of the Kingdom pre-order gifts from around the world](https://www.polygon.com/deals/23658964/legend-of-zelda-tears-of-the-kingdom-global-pre-order-gift-bonus-guide)
+ - [Diablo IV’s Beta Has Us Kinda Obsessed With Hell](https://kotaku.com/diablo-4-open-beta-impressions-rogue-necromancer-barb-1850270634)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
