@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Say goodbye to absurdly cheap Game Pass: Microsoft is killing the $1 trial](https://www.pcgamer.com/say-goodbye-to-absurdly-cheap-game-pass-microsoft-is-killing-the-dollar1-trial)
- - [Where to find waypoints and how to fast travel in Diablo 4](https://www.pcgamer.com/diablo-4-waypoints-fast-travel)
- - [How to upgrade your healing potion in Diablo 4](https://www.pcgamer.com/diablo-4-healing-potion-upgrade)<!-- GAME:END -->
+ - [Chris Avellone accepts &#39;seven-figure payment&#39; to settle libel suit with those who accused him of sexual misconduct](https://www.pcgamer.com/chris-avellone-accepts-seven-figure-payment-to-settle-libel-suit-with-those-who-accused-him-of-sexual-misconduct)
+ - [Vince McMahon controls wrestling history in order to control all of wrestling](https://www.polygon.com/23654827/vince-mcmahon-wwe-control-wrestlemania)
+ - [Gear up for MLB The Show 23 with an overview of new features](https://blog.playstation.com/2023/03/27/gear-up-for-mlb-the-show-23-with-an-overview-of-new-features/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
