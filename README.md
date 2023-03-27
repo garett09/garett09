@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus is going offline, relaunch planned for 2024](https://www.polygon.com/23658469/multiversus-offline-update-relaunch-date)
- - [Audio-Technica ATH-M50xSTS StreamSet](https://www.pcgamer.com/audio-technica-ath-m50-sts-streamset-review)
- - [Uh-Oh, The Super Mario Bros. x Lush Bath Bombs Look Like Pee](https://kotaku.com/super-mario-bros-lush-bath-bombs-coin-block-1850268812)<!-- GAME:END -->
+ - [Welcome To Kotaku Royale, Exploring The Genre That&#39;s Defining Modern Gaming](https://kotaku.com/battle-royale-games-pubg-fortnite-apex-legends-warzone-1850268953)
+ - [Tetris creator on turning his life into a spy movie: ‘exaggeration is kind of natural’](https://www.polygon.com/23654998/tetris-movie-alexey-pajitnov-henk-rogers-reality-vs-fiction)
+ - [After Three Months Of Struggles, Ashika Island Saved Warzone 2.0](https://kotaku.com/cod-warzone-2-ashika-dead-drops-resurgence-loadout-1850268948)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
