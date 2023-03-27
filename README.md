@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Electric Toothbrushes &lpar;2023&rpar;: Cheap, Smart, Kids, and Alternatives](https://www.wired.com/gallery/best-electric-toothbrushes/)
- - [The best Samsung tablets of 2023](https://www.androidauthority.com/best-samsung-tablets-3302307/)
- - [SIM card trays may disappear from iPhone 15 in Europe](https://appleinsider.com/articles/23/03/27/sim-card-trays-may-disappear-from-iphone-15-in-europe?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Music Classical begins rolling out to international users](https://appleinsider.com/articles/23/03/27/apple-music-classical-begins-rolling-out-to-international-users?utm_medium=rss)
+ - [The US Commodity Futures Trading Commission sues Binance and its CEO CZ for allegedly breaking trading and derivatives rules &lpar;Bloomberg&rpar;](http://www.techmeme.com/230327/p13#a230327p13)
+ - [Apple acquires AI-powered video compression startup WaveOne](https://appleinsider.com/articles/23/03/27/apple-acquires-ai-powered-video-compression-startup-waveone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
