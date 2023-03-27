@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kaspersky: some versions of Pinduoduo, suspended by Google from its app store, exploited Android vulnerabilities to install backdoors and gain user data access &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/230327/p5#a230327p5)
- - [Twitter says source code was leaked on GitHub, now it’s trying to find the culprit](https://www.theverge.com/2023/3/27/23657928/twitter-source-code-leak-github)
- - [Daily Authority: 🤔 Google or GrapheneOS?](https://www.androidauthority.com/daily-authority-march-27-2023-3302282/)<!-- TECH:END -->
+ - [Samsung making iPhone 15 OLED screen earlier than normal](https://appleinsider.com/articles/23/03/27/samsung-making-iphone-15-oled-screen-earlier-than-normal?utm_medium=rss)
+ - [Unboxing Is So 2012. The Internet Wants Packing Videos](https://www.wired.com/story/packing-videos-tiktok-unboxing/)
+ - [ChatGPT Opened a New Era in Search. Microsoft Could Ruin It](https://www.wired.com/story/chatgpt-opened-a-new-era-in-search-microsoft-could-ruin-it/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
