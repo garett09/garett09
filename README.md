@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FaZe Clan Stock Price Too Embarrassing For Wall Street](https://kotaku.com/faze-clan-stock-rain-apex-banks-rug-swagg-esports-1850268478)
- - [Sim game Terra Nil accepts the apocalypse — then moves past it](https://www.polygon.com/reviews/23652587/terra-nil-review-sim-game-city-builder-climate-change)
- - [Terra Nil: The Kotaku Review](https://kotaku.com/terra-nil-review-city-builder-devolver-digital-pc-ios-1850267414)<!-- GAME:END -->
+ - [You can get $40 off a Nintendo Switch OLED today only](https://www.polygon.com/deals/2023/3/27/23653645/nintendo-switch-oled-woot-deal-sale)
+ - [Zelda Fans Can Finally Chill: Tears Of The Kingdom Deep Dive Is On The Way](https://kotaku.com/legend-zelda-tears-kingdom-gameplay-nintendo-direct-1850268681)
+ - [Terra Nil review](https://www.pcgamer.com/terra-nil-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
