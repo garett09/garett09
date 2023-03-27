@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)
- - 🚯 [Look at me !!](http://9gag.com/gag/aPgmdpB)
+ - 🚖 [...](http://9gag.com/gag/aRE4RvQ)
+ - 🚯 [`The asylums are empty, for all the crazies are here` - William Shakespeare](http://9gag.com/gag/a8q6nd3)
  - 🚯 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)<!-- MEMES:END -->
 
 --- 
