@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Reality-dial,’ ‘Copresence’ app — Apple execs spill the beans on new headset](https://www.androidauthority.com/apple-mixed-reality-headset-features-3302279/)
- - [They Posted Porn on Twitter. German Authorities Called the Cops](https://www.wired.com/story/germany-twitter-porn-police/)
- - [First Citizens agrees to buy the commercial banking business of Silicon Valley Bank from the FDIC including all deposits and loans &lpar;Daniel Taub/Bloomberg&rpar;](http://www.techmeme.com/230327/p1#a230327p1)<!-- TECH:END -->
+ - [Alex Szapiro, co-head of SoftBank&#39;s nearly $8B Latin America fund, says he is confident about securing extra capital from its parent despite a ~$900M paper loss &lpar;Michael Pooler/Financial Times&rpar;](http://www.techmeme.com/230327/p2#a230327p2)
+ - [OnePlus 11 Jupiter Rock Limited Edition incoming: So what’s it made of?](https://www.androidauthority.com/oneplus-11-jupiter-rock-limited-edition-3302286/)
+ - [‘Reality-dial,’ ‘Copresence’ app — Apple execs spill the beans on new headset](https://www.androidauthority.com/apple-mixed-reality-headset-features-3302279/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
