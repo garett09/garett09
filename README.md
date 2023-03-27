@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look at me !!](http://9gag.com/gag/aPgmdpB)
- - 🚯 [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)
- - 🚯 [You shouldn&#39;t get turned on by beautiful women](http://9gag.com/gag/aVbo1nw)<!-- MEMES:END -->
+ - 🚖 [Big fish](http://9gag.com/gag/avQ1XvM)
+ - 🚯 [Good news for a lot of you](http://9gag.com/gag/a6qXp5N)
+ - 🚯 [Trying To Prank Tom Cruise](http://9gag.com/gag/axo3YDp)<!-- MEMES:END -->
 
 --- 
 
