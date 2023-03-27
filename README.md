@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FFXIV Hatching-tide 2023 event guide](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2023/3/27/23658390/hatching-tide-fate-tonberry-suit-rewards-quest-location-npc)
- - [MLB The Show’s celebration of Black baseball is the best thing in sports video games this year](https://www.polygon.com/23658610/mlb-the-show-23-negro-leagues-storylines-satchel-paige)
- - [Fortnite’s New Unreal Editor Has Limits On What Fans Can Make, Monetize](https://kotaku.com/fortnite-epic-games-uefn-creator-economy-maps-1850269891)<!-- GAME:END -->
+ - [Dress-Up RPG Has Loophole That Lets Disney Princesses Wield Guns](https://kotaku.com/disney-princess-guns-shining-nikki-dress-up-game-mobile-1850270286)
+ - [Fallout Writer Chris Avellone’s Accusers Settle Libel Case For Seven Figures](https://kotaku.com/fallout-new-vegas-avellone-sexual-misconduct-libel-1850270184)
+ - [Resident Evil 4 remake hints that Separate Ways DLC may be next](https://www.polygon.com/23654190/resident-evil-4-remake-separate-ways-dlc-ada-wong)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
