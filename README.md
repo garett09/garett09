@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [...](http://9gag.com/gag/aRE4RvQ)
- - 🚯 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)
- - 🚯 [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)<!-- MEMES:END -->
+ - 🚖 [A man was ordered to pay $400k to Kim Kardashian over a trademark lawsuit. He&#39;s living out of his car.](http://9gag.com/gag/aPgmnBG)
+ - 🚯 [The unsafe conditions in which miners have to work in Africa](http://9gag.com/gag/aOxep0M)
+ - 🚯 [The way this was handled](http://9gag.com/gag/aXnMdvD)<!-- MEMES:END -->
 
 --- 
 
