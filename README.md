@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Original &#39;Killers of the Flower Moon&#39; to get theater release](https://appleinsider.com/articles/23/03/27/apple-original-killers-of-the-flower-moon-to-get-theater-release?utm_medium=rss)
- - [iOS 15.7.4, macOS Monterey 12.6.4, macOS Big Sur 11.7.5 all get security updates](https://appleinsider.com/articles/23/03/27/ios-1574-macos-monterey-1264-macos-big-sur-1175-all-get-security-updates?utm_medium=rss)
- - [Similarweb: Chinese-owned OPay and PalmPay became the Play Store&#39;s top finance apps in Nigeria on March 24, after a central bank edict caused a cash shortage &lpar;Alexander Onukwue/Semafor&rpar;](http://www.techmeme.com/230327/p20#a230327p20)<!-- TECH:END -->
+ - [Bluetti AC300: The ultimate portable power station for home, work, and play](https://appleinsider.com/articles/23/03/24/bluetti-ac300-the-ultimate-portable-power-station-for-home-work-and-play?utm_medium=rss)
+ - [CFTC&#39;s case vs. Binance is mainly about US clients, like high-frequency trading firms in NYC and Chicago, trading crypto derivatives on an unregistered exchange &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230327/p23#a230327p23)
+ - [Apple releases security notes for iOS 16.4, watchOS 9.4, macOS Ventura 13.3](https://appleinsider.com/articles/23/03/27/apple-releases-security-notes-for-ios-164-watchos-94-macos-ventura-133?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
