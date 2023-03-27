@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Classical begins rolling out to international users](https://appleinsider.com/articles/23/03/27/apple-music-classical-begins-rolling-out-to-international-users?utm_medium=rss)
- - [The US Commodity Futures Trading Commission sues Binance and its CEO CZ for allegedly breaking trading and derivatives rules &lpar;Bloomberg&rpar;](http://www.techmeme.com/230327/p13#a230327p13)
- - [Apple acquires AI-powered video compression startup WaveOne](https://appleinsider.com/articles/23/03/27/apple-acquires-ai-powered-video-compression-startup-waveone?utm_medium=rss)<!-- TECH:END -->
+ - [Zoom partners with OpenAI to expand its Zoom IQ assistant, adding the ability to generate whiteboards using text prompts, provide recaps of meetings, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230327/p16#a230327p16)
+ - [Lifetime Babbel language learning subscription plummets to $149.97 &lpar;$450 off&rpar;](https://appleinsider.com/articles/23/03/27/lifetime-babbel-language-learning-subscription-plummets-to-14997-450-off?utm_medium=rss)
+ - [The CFTC sues Binance, CEO CZ, and an ex-chief compliance officer, calling Binance&#39;s compliance efforts &quot;a sham&quot; and corporate structure &quot;intentionally opaque&quot; &lpar;CFTC&rpar;](http://www.techmeme.com/230327/p15#a230327p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
