@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🤔 Google or GrapheneOS?](https://www.androidauthority.com/daily-authority-march-27-2023-3302282/)
- - [Nvidia CTO Michael Kagan says crypto does not &quot;bring anything useful for society&quot; and other processing power uses like AI are more worthwhile than crypto mining &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/230327/p4#a230327p4)
- - [You told us: Most of you have bought cheap wireless earbuds before](https://www.androidauthority.com/cheap-wireless-earbuds-poll-results-3302300/)<!-- TECH:END -->
+ - [Kaspersky: some versions of Pinduoduo, suspended by Google from its app store, exploited Android vulnerabilities to install backdoors and gain user data access &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/230327/p5#a230327p5)
+ - [Twitter says source code was leaked on GitHub, now it’s trying to find the culprit](https://www.theverge.com/2023/3/27/23657928/twitter-source-code-leak-github)
+ - [Daily Authority: 🤔 Google or GrapheneOS?](https://www.androidauthority.com/daily-authority-march-27-2023-3302282/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
