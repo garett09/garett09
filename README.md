@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: some Twitter source code was leaked by a user called &quot;FreeSpeechEnthusiast&quot; on GitHub, which took it down to comply with a DMCA notice sent on Friday &lpar;New York Times&rpar;](http://www.techmeme.com/230326/p11#a230326p11)
- - [Uze 100W GaN Charger review: A lot of power in a small body](https://appleinsider.com/articles/23/03/26/uze-100w-gan-charger-review-a-lot-of-power-in-a-small-body?utm_medium=rss)
- - [How to set up iCloud Family Sharing](https://appleinsider.com/inside/icloud/tips/how-to-set-up-icloud-family-sharing?utm_medium=rss)<!-- TECH:END -->
+ - [After India&#39;s legal requests this week, Twitter blocked tweets from 122 users, including reporters and politicians, from Indian users; it used to push back more &lpar;Samriddhi Sakunia/Rest of World&rpar;](http://www.techmeme.com/230326/p13#a230326p13)
+ - [A look at OBNbrandon, a prolific scammer in a booming community focused on banning influencers&#39; Instagram accounts and demanding payment for reactivation &lpar;ProPublica&rpar;](http://www.techmeme.com/230326/p12#a230326p12)
+ - [How Taking an Ice Bath Brought Me Closer to My Son     - CNET](https://www.cnet.com/health/features/how-taking-an-ice-bath-brought-me-closer-to-my-son/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
