@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s quite impressive, not gonna lie.](http://9gag.com/gag/aYVEm3w)
- - 🚯 [A short and whitty dose the trick](http://9gag.com/gag/ap938b5)
- - 🚯 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)<!-- MEMES:END -->
+ - 🚖 [Good news for a lot of you](http://9gag.com/gag/a6qXp5N)
+ - 🚯 [...](http://9gag.com/gag/aRE4RvQ)
+ - 🚯 [This is how luggage is handled in different countries at the airport\u2026](http://9gag.com/gag/abv1E2O)<!-- MEMES:END -->
 
 --- 
 
