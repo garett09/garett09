@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon opens Sidewalk to developers, providing SDKs and hardware development kits, and claims over 90% of the US population can now access the public network &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230328/p16#a230328p16)
- - [Apple Music Classical waltzes onto iPhone](https://appleinsider.com/articles/23/03/28/apple-music-classical-waltzes-onto-iphone?utm_medium=rss)
- - [Graphiant, which provides a networking service to let companies link together their cloud environments, data centers, and other assets, raised a $62M Series B &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230328/p15#a230328p15)<!-- TECH:END -->
+ - [US prosecutors file a new indictment against SBF, accusing him of directing the transfer of $40M+ of cryptocurrency in bribes to Chinese government officials &lpar;Reuters&rpar;](http://www.techmeme.com/230328/p17#a230328p17)
+ - [25 Best Cat Toys and Supplies &lpar;2023&rpar;: Scratchers, Window Perches, Modern Furniture, and More](https://www.wired.com/gallery/best-cat-toys-and-supplies/)
+ - [Eve starts shipping Matter-enabled smart home devices](https://appleinsider.com/articles/23/03/28/eve-starts-shipping-matter-enabled-smart-home-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
