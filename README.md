@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)
- - 🚯 [One ticket, please!](http://9gag.com/gag/arm39D5)
- - 🚯 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)<!-- MEMES:END -->
+ - 🚖 [Dentist in Brazil acused of sexual harassment. `She would pull down her pants, show it to you, rub herself and make you smell it` Larissa Bressan is her name.](http://9gag.com/gag/ajV141Q)
+ - 🚯 [Im about to slap Chris Rock](http://9gag.com/gag/aZD156X)
+ - 🚯 [The cogs are turning.](http://9gag.com/gag/anzRwOq)<!-- MEMES:END -->
 
 --- 
 
