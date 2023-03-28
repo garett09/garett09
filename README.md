@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan&#39;s FTC says it does not expect the Microsoft-Activision Blizzard deal to stifle competition and closes its review without issuing a cease and desist order &lpar;Kiyoshi Takenaka/Reuters&rpar;](http://www.techmeme.com/230328/p9#a230328p9)
- - [When a Vintage RV Is Your Home, Repair Is a Way of Life](https://www.wired.com/story/vintage-van-home-repair-way-of-life/)
- - [Daily Authority: 👀 Could Nothing Phone 2 launch soon?](https://www.androidauthority.com/daily-authority-march-28-2023-3302372/)<!-- TECH:END -->
+ - [AirTag hidden in luggage forces tourists to change vacation plans](https://appleinsider.com/articles/23/03/28/airtag-hidden-in-luggage-forces-tourists-to-change-vacation-plans?utm_medium=rss)
+ - [The Trans-American Race to Build Chargers for Electric Trucks](https://www.wired.com/story/the-trans-american-race-to-build-chargers-for-electric-trucks/)
+ - [Your Speech May Reveal Early Signs of Alzheimer’s](https://www.wired.com/story/wired-health-accexible-speech-biomarkers-alzheimers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
