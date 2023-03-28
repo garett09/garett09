@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zero f**ks given](http://9gag.com/gag/arm3066)
- - 🚯 [Take your time.](http://9gag.com/gag/a8q6QR3)
- - 🚯 [Quick get rid of it before they catch up on us](http://9gag.com/gag/amA1yx9)<!-- MEMES:END -->
+ - 🚖 [One ticket, please!](http://9gag.com/gag/arm39D5)
+ - 🚯 [Ok my loyal and f**ked up 9gag family. You guys helped me a few years ago when my son was filmed being bullied at Victoria Point State High School in QLD Australia. You guys went rogue sending emails and hacking their website. Same school. Help me bring justice to these b*tches](http://9gag.com/gag/az2dw9m)
+ - 🚯 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)<!-- MEMES:END -->
 
 --- 
 
