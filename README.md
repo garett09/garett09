@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sadly, Kirby Will Not Turn Into A Hot Man If He Swallows A Hot Man](https://kotaku.com/kirby-interview-hal-nintendo-hot-man-handsome-gdc-1850271154)
- - [Diablo 4 quest designer explains how they put the RP in RPG with one simple choice](https://www.pcgamer.com/diablo-4-quest-designer-explains-how-they-put-the-rp-in-rpg-with-one-simple-choice)
- - [One of John Wick 4&#39;s most exhilarating moments was inspired by a top-down indie shooter](https://www.pcgamer.com/one-of-john-wick-4s-most-exhilarating-moments-was-inspired-by-a-top-down-indie-shooter)<!-- GAME:END -->
+ - [Lewd Ghibli Posters Now Very Sorry For Causing &#39;Distress&#39;](https://kotaku.com/studio-ghibli-lewd-nsfw-photos-theme-park-apology-japan-1850271240)
+ - [Don&#39;t bother playings loads of CS:GO now if you want in on the Counter-Strike 2 test, Valve doesn&#39;t care](https://www.pcgamer.com/dont-bother-playings-loads-of-csgo-now-if-you-want-in-on-the-counter-strike-2-test-valve-doesnt-care)
+ - [Former Dragon Age boss Mark Darrah returns to work on Dreadwolf](https://www.pcgamer.com/former-dragon-age-boss-mark-darrah-returns-to-work-on-dreadwolf)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
