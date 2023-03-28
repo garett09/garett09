@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Meta plans to reduce the bonus multiplier from 85% to 65% and restricted stock awards for staff who &quot;met most expectations&quot; in the 2023 year-end review &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/230328/p4#a230328p4)
  - [Sources: Huobi prompts new Chinese users to apply for a Dominican digital citizenship, under a partnership with Dominica, to evade China&#39;s crypto restrictions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230328/p3#a230328p3)
- - [The April 2023 security patch might be coming early to some Pixel users](https://www.androidauthority.com/google-pixel-5-april-2023-security-patch-3302652/)
- - [To Fight Coastal Erosion, Design a Bespoke Artificial Reef](https://www.wired.com/story/reefy-modular-reef-costal-erosion/)<!-- TECH:END -->
+ - [The April 2023 security patch might be coming early to some Pixel users](https://www.androidauthority.com/google-pixel-5-april-2023-security-patch-3302652/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
