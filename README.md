@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything new shown in Tuesday’s Legend of Zelda: Tears of the Kingdom trailer](https://www.polygon.com/zelda/23659874/zelda-tears-of-the-kingdom-totk-new-trailer-analysis-new-abilities)
- - [Resident Evil 4 Library clock puzzle solution](https://www.polygon.com/resident-evil-4-remake-guides/23659867/library-clock-puzzle-solution)
- - [Resident Evil 4 Chapter 9: Courtyard to Mausoleum](https://www.polygon.com/resident-evil-4-remake-guides/23655305/chapter-9-courtyard-mausoleum)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons: Honor Among Thieves is coming to Magic: The Gathering](https://www.polygon.com/23659146/magic-the-gathering-new-secret-lair-honor-among-thieves)
+ - [Ex-Sims Dev Says Men Lie About How They Play Game Out Of Embarrassment](https://kotaku.com/the-sims-life-by-you-gdc-rod-humble-lie-male-gamer-1850273721)
+ - [Tiny Troopers: Global Ops publisher is campaigning to help Ukraine](https://www.pcgamer.com/tiny-troopers-global-ops-publisher-is-campaigning-to-help-ukraine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
