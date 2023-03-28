@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance CEO CZ says CFTC&#39;s complaint contains &quot;incomplete recitation of facts&quot; and Binance does not agree with &quot;characterization of many of the issues alleged&quot; &lpar;Binance Blog&rpar;](http://www.techmeme.com/230327/p30#a230327p30)
- - [Germany-based OQmented, which is developing laser beam scanning tech for displays in AR/MR glasses, raised a $20M Series A from Sharp Devices Europe and others &lpar;Fiona Alston/Tech.eu&rpar;](http://www.techmeme.com/230327/p29#a230327p29)
- - [Apple executives detail Apple Pencil hover update](https://appleinsider.com/articles/23/03/27/apple-executives-detail-apple-pencil-hover-update?utm_medium=rss)<!-- TECH:END -->
+ - [M2 Macs keep Apple near-flat as PC market declines in 2022](https://appleinsider.com/articles/23/03/28/m2-macs-keep-apple-near-flat-as-pc-market-declines-in-2022?utm_medium=rss)
+ - [Elon Musk says only verified accounts will appear in Twitter&#39;s For You tab and be able to vote in polls as a way to address &quot;AI bot swarms&quot;, starting April 15 &lpar;The Verge&rpar;](http://www.techmeme.com/230327/p33#a230327p33)
+ - [Documents: Twitter maintains a list of ~35 accounts which it monitors and offers increased visibility including AOC, Joe Biden, Marc Andreessen, and Elon Musk &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/230327/p32#a230327p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
