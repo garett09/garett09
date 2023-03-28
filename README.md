@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers say North Korean hackers are likely laundering stolen crypto by renting cloud compute to mine fresh coins, avoiding more scrutinized crypto mixers &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230328/p35#a230328p35)
- - [Lenovo confirms it has shutdown its Legion gaming phone business](https://www.androidauthority.com/lenovo-gaming-phone-3306942/)
- - [Filing: a California court grants Twitter&#39;s request to subpoena GitHub for information on FreeSpeechEnthusiast, the alleged leaker of some Twitter source code &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230328/p34#a230328p34)<!-- TECH:END -->
+ - [Cerebras open sources seven GPT-based LLMs, ranging from 111M to 13B parameters and trained using its Andromeda supercomputer for AI, on GitHub and Hugging Face &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230328/p37#a230328p37)
+ - [iOS 16.5 beta adds Sports tab in Apple News, little else](https://appleinsider.com/articles/23/03/28/ios-165-beta-adds-sports-tab-in-apple-news-little-else?utm_medium=rss)
+ - [Google plans to add a &quot;Perspectives&quot; carousel, showcasing experts and others under Top Stories, and an &quot;About this author&quot; feature for US English searches &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230328/p36#a230328p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
