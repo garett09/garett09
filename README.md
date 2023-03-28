@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kerbal&#39;s creator is back with a new model vehicle sim, says &#39;early access is not what it used to be&#39;](https://www.pcgamer.com/kerbals-creator-is-back-with-a-new-model-vehicle-sim-says-early-access-is-not-what-it-used-to-be)
- - [Remember the time when Link turned into Ganon in The Legend of Zelda?](https://www.polygon.com/zelda/23645381/legend-of-zelda-comic-book-valiant-ridiculous-moments)
- - [This tactics game is going all-in on pulp classics, mashing up Indiana Jones, The Mummy, and XCOM to make something surprisingly original](https://www.pcgamer.com/this-tactics-game-is-going-all-in-on-pulps-mashing-up-indiana-jones-the-mummy-and-xcom)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom Switch OLED console coming in April](https://www.polygon.com/23590865/zelda-tears-of-the-kingdom-switch-oled-totk)
+ - [Watch 10 minutes of new Zelda: Tears of the Kingdom gameplay](https://www.polygon.com/23658171/zelda-tears-of-the-kingdom-gameplay-nintendo-direct)
+ - [Lords of the Fallen&#39;s creative director showed me its &#39;horrible pains&#39; and &#39;fingers of God&#39; and I must see more](https://www.pcgamer.com/lords-of-the-fallen-interview-GDC)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
