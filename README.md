@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons: Honor Among Thieves is coming to Magic: The Gathering](https://www.polygon.com/23659146/magic-the-gathering-new-secret-lair-honor-among-thieves)
- - [Ex-Sims Dev Says Men Lie About How They Play Game Out Of Embarrassment](https://kotaku.com/the-sims-life-by-you-gdc-rod-humble-lie-male-gamer-1850273721)
- - [Tiny Troopers: Global Ops publisher is campaigning to help Ukraine](https://www.pcgamer.com/tiny-troopers-global-ops-publisher-is-campaigning-to-help-ukraine)<!-- GAME:END -->
+ - [GDC 2023: Four Incredible New ID@Xbox Games You’ll Be Playing This Year](https://news.xbox.com/en-us/2023/03/28/id-xbox-gdc-venba-lamplighters-league-botany-manor-planet-of-lana/)
+ - [Link’s new abilities in Legend of Zelda: Tears of the Kingdom, explained](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23660112/abilities-fuse-ascend-recall-ultrahand)
+ - [5 lessons from John Wick’s mega success I assume Hollywood won’t take](https://www.polygon.com/23658403/john-wick-box-office-success-future-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
