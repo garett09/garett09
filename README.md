@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Benner cycle. Incredibly accurate](http://9gag.com/gag/aA06qVd)
- - 🚯 [Carnivorous undercover caterpillar.](http://9gag.com/gag/ago16jW)
- - 🚯 [Legit question](http://9gag.com/gag/aXnMzpP)<!-- MEMES:END -->
+ - 🚖 [He didn&#39;t even make a hole at the bottom of the popcorn. Artist is maplestar.](http://9gag.com/gag/a6qXzwL)
+ - 🚯 [Lefty school board BTFO by city mayor](http://9gag.com/gag/a5X6v9G)
+ - 🚯 [One ticket, please!](http://9gag.com/gag/arm39D5)<!-- MEMES:END -->
 
 --- 
 
