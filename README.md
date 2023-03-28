@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo’s classic Ultra Hand toy lives on in Tears of the Kingdom](https://www.polygon.com/23660508/zelda-tears-of-the-kingdom-ultrahand-nintendo-toy)
- - [Zelda: Tears of the Kingdom Switch OLED pre-orders are live](https://www.polygon.com/23590865/zelda-tears-of-the-kingdom-switch-oled-totk)
- - [Fans Are Hungry For Link’s &#39;Meat Arrows&#39; In Tears Of The Kingdom](https://kotaku.com/legend-zelda-botw-tears-kingdom-crafting-meat-arrows-1850275329)<!-- GAME:END -->
+ - [In 10 Minutes, Nintendo Rekindled Zelda: Tears of the Kingdom&#39;s Lost Hype](https://kotaku.com/zelda-tears-kingdom-totk-gameplay-fuse-weapon-car-meat-1850274230)
+ - [Diablo IV Quest Designer Shows How The Narrative Sausage Gets Made](https://kotaku.com/diablo-iv-4-beta-story-lore-lorath-lilith-1850275804)
+ - [As A Resident Evil 4 Newcomer, Remake&#39;s Village Fight Is Shockingly Brutal](https://kotaku.com/resident-evil-4-remake-village-chainsaw-steam-tips-1850275707)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
