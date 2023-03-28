@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
- - 🚯 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)
- - 🚯 [Brasilian Reality TV, da best one!Grab some popcorn and enjoy.No need for Netflix and Co.](http://9gag.com/gag/aBd6b1D)<!-- MEMES:END -->
+ - 🚖 [Poor guy](http://9gag.com/gag/aOxejN2)
+ - 🚯 [Quick get rid of it before they catch up on us](http://9gag.com/gag/amA1yx9)
+ - 🚯 [Morena Baccarin](http://9gag.com/gag/aRE4dQq)<!-- MEMES:END -->
 
 --- 
 
