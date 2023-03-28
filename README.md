@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smartphone brands could get their Arm twisted: Pricier phones coming?](https://www.androidauthority.com/arm-licensing-model-royalties-3302664/)
- - [Source: Microsoft-owned GitHub lays off its entire engineering team in India, eliminating 100+ jobs, as part of a ~10% cut announced in February &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230328/p6#a230328p6)
- - [This Anker Portable Power Station Is Back Down to Its Best Price of 2023     - CNET](https://www.cnet.com/deals/this-anker-portable-power-station-back-down-best-price-187/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Japan&#39;s FTC says it does not expect the Microsoft-Activision Blizzard deal to stifle competition and closes its review without issuing a cease and desist order &lpar;Kiyoshi Takenaka/Reuters&rpar;](http://www.techmeme.com/230328/p9#a230328p9)
+ - [When a Vintage RV Is Your Home, Repair Is a Way of Life](https://www.wired.com/story/vintage-van-home-repair-way-of-life/)
+ - [Daily Authority: 👀 Could Nothing Phone 2 launch soon?](https://www.androidauthority.com/daily-authority-march-28-2023-3302372/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
