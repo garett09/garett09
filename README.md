@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brasilian Reality TV, da best one!Grab some popcorn and enjoy.No need for Netflix and Co.](http://9gag.com/gag/aBd6b1D)
- - 🚯 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)
- - 🚯 [Put on your glasses you f**king zebra](http://9gag.com/gag/a6qX8Nm)<!-- MEMES:END -->
+ - 🚖 [Real man doesn&#39;t care for check engine-nonsenses](http://9gag.com/gag/aVbo4pM)
+ - 🚯 [Females should stop making those creepy videos of men where they portray them as creeps or predators... We are actually here to do something about ourselves, we are not in the gym for females...](http://9gag.com/gag/awZ3884)
+ - 🚯 [The Benner cycle. Incredibly accurate](http://9gag.com/gag/aA06qVd)<!-- MEMES:END -->
 
 --- 
 
