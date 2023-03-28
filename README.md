@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On TikTok, the hashtag #TikTokBan had 1.7B views on March 27 compared with 983M views on March 18, as users post hundreds of videos objecting to a potential ban &lpar;New York Times&rpar;](http://www.techmeme.com/230328/p32#a230328p32)
- - [How to add and transfer eSIMs to iPhone](https://appleinsider.com/inside/iphone/tips/how-to-add-and-transfer-esims-to-iphone?utm_medium=rss)
- - [Review of 2K+ court cases: Russia uses facial recognition and surveillance systems to find and arrest scores of protesters and even prevent them from protesting &lpar;Lena Masri/Reuters&rpar;](http://www.techmeme.com/230328/p31#a230328p31)<!-- TECH:END -->
+ - [Microsoft announces a second-generation Surface Hub 2S is coming later this year and will be the first &quot;touch-enabled board&quot; to run Teams Rooms on Windows &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230328/p33#a230328p33)
+ - [Xcode 14.1 required for App Store submissions from April 25](https://appleinsider.com/articles/23/03/28/xcode-141-required-for-app-store-submissions-from-april-25?utm_medium=rss)
+ - [On TikTok, the hashtag #TikTokBan had 1.7B views on March 27 compared with 983M views on March 18, as users post hundreds of videos objecting to a potential ban &lpar;New York Times&rpar;](http://www.techmeme.com/230328/p32#a230328p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
