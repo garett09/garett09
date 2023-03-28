@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag hidden in luggage forces tourists to change vacation plans](https://appleinsider.com/articles/23/03/28/airtag-hidden-in-luggage-forces-tourists-to-change-vacation-plans?utm_medium=rss)
- - [The Trans-American Race to Build Chargers for Electric Trucks](https://www.wired.com/story/the-trans-american-race-to-build-chargers-for-electric-trucks/)
- - [Your Speech May Reveal Early Signs of Alzheimer’s](https://www.wired.com/story/wired-health-accexible-speech-biomarkers-alzheimers/)<!-- TECH:END -->
+ - [Venti Technologies, which develops autonomous vehicle tech for industrial and logistical hubs, raised a $28.8M Series A led by LG Technology Ventures &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230328/p13#a230328p13)
+ - [24 Best Wireless Chargers &lpar;2023&rpar;: Pads, Stands, iPhone Docks, and More](https://www.wired.com/gallery/best-wireless-chargers/)
+ - [Be Your Own Tab Manager](https://www.wired.com/story/be-your-own-tab-manager/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
