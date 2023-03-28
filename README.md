@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor guy](http://9gag.com/gag/aOxejN2)
- - 🚯 [Quick get rid of it before they catch up on us](http://9gag.com/gag/amA1yx9)
- - 🚯 [Morena Baccarin](http://9gag.com/gag/aRE4dQq)<!-- MEMES:END -->
+ - 🚖 [One ticket, please!](http://9gag.com/gag/arm39D5)
+ - 🚯 [Zero f**ks given](http://9gag.com/gag/arm3066)
+ - 🚯 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)<!-- MEMES:END -->
 
 --- 
 
