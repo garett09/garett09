@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He didn&#39;t even make a hole at the bottom of the popcorn. Artist is maplestar.](http://9gag.com/gag/a6qXzwL)
- - 🚯 [Lefty school board BTFO by city mayor](http://9gag.com/gag/a5X6v9G)
- - 🚯 [One ticket, please!](http://9gag.com/gag/arm39D5)<!-- MEMES:END -->
+ - 🚖 [The Benner cycle. Incredibly accurate](http://9gag.com/gag/aA06qVd)
+ - 🚯 [Females should stop making those creepy videos of men where they portray them as creeps or predators... We are actually here to do something about ourselves, we are not in the gym for females...](http://9gag.com/gag/awZ3884)
+ - 🚯 [Legit question](http://9gag.com/gag/aXnMzpP)<!-- MEMES:END -->
 
 --- 
 
