@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clearview AI&#39;s founder says the company has run nearly 1M searches for US police and now uses 30B images scraped without users consent from sites like Facebook &lpar;BBC&rpar;](http://www.techmeme.com/230328/p30#a230328p30)
- - [Apple seeds the first developer beta of iOS 16.5 &amp; iPadOS 16.5](https://appleinsider.com/articles/23/03/28/apple-seeds-the-first-developer-beta-of-ios-165-ipados-165?utm_medium=rss)
- - [Best Sonos Deals: Save on Speaker Bundles, Refurbished Roam and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [On TikTok, the hashtag #TikTokBan had 1.7B views on March 27 compared with 983M views on March 18, as users post hundreds of videos objecting to a potential ban &lpar;New York Times&rpar;](http://www.techmeme.com/230328/p32#a230328p32)
+ - [How to add and transfer eSIMs to iPhone](https://appleinsider.com/inside/iphone/tips/how-to-add-and-transfer-esims-to-iphone?utm_medium=rss)
+ - [Review of 2K+ court cases: Russia uses facial recognition and surveillance systems to find and arrest scores of protesters and even prevent them from protesting &lpar;Lena Masri/Reuters&rpar;](http://www.techmeme.com/230328/p31#a230328p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
