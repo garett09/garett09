@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cerebras open sources seven GPT-based LLMs, ranging from 111M to 13B parameters and trained using its Andromeda supercomputer for AI, on GitHub and Hugging Face &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230328/p37#a230328p37)
- - [iOS 16.5 beta adds Sports tab in Apple News, little else](https://appleinsider.com/articles/23/03/28/ios-165-beta-adds-sports-tab-in-apple-news-little-else?utm_medium=rss)
- - [Google plans to add a &quot;Perspectives&quot; carousel, showcasing experts and others under Top Stories, and an &quot;About this author&quot; feature for US English searches &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230328/p36#a230328p36)<!-- TECH:END -->
+ - [Play &#39;Tetris&#39; and win one month Apple TV+ free trial](https://appleinsider.com/articles/23/03/28/play-tetris-and-win-one-month-apple-tv-free-trial?utm_medium=rss)
+ - [A US federal judge finds Google flouted a court order requiring it to save records of employee chats in antitrust litigation over its Play Store policies &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230328/p38#a230328p38)
+ - [Deal: Save 88% on Microsoft Office Professional 2021](https://www.androidauthority.com/microsoft-office-deal-3270908/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
