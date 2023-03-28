@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons movie summons a mini Freaks and Geeks reunion](https://www.polygon.com/23660329/dungeons-dragons-movie-freaks-geeks)
- - [11 ‘Bad’ Games We’ll Die Defending](https://kotaku.com/11-bad-games-well-defend-mass-effect-andromeda-ps4-1850274471)
- - [10 Meh Games That Became Killer With Updates](https://kotaku.com/cyberpunk-destiny-no-mans-sky-patch-updates-1850274212)<!-- GAME:END -->
+ - [How to play the original Fortnite map with Fortnite Creative 2.0](https://www.pcgamer.com/how-to-play-the-original-fortnite-map-with-fortnite-creative-20)
+ - [You can still get $40 off a Nintendo Switch OLED](https://www.polygon.com/deals/2023/3/27/23653645/nintendo-switch-oled-woot-deal-sale)
+ - [Zelda: Tears of the Kingdom Switch OLED pre-orders are live](https://www.polygon.com/23590865/zelda-tears-of-the-kingdom-switch-oled-totk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
