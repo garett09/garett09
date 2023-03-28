@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Venti Technologies, which develops autonomous vehicle tech for industrial and logistical hubs, raised a $28.8M Series A led by LG Technology Ventures &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230328/p13#a230328p13)
- - [24 Best Wireless Chargers &lpar;2023&rpar;: Pads, Stands, iPhone Docks, and More](https://www.wired.com/gallery/best-wireless-chargers/)
- - [Be Your Own Tab Manager](https://www.wired.com/story/be-your-own-tab-manager/)<!-- TECH:END -->
+ - [Amazon opens Sidewalk to developers, providing SDKs and hardware development kits, and claims over 90% of the US population can now access the public network &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230328/p16#a230328p16)
+ - [Apple Music Classical waltzes onto iPhone](https://appleinsider.com/articles/23/03/28/apple-music-classical-waltzes-onto-iphone?utm_medium=rss)
+ - [Graphiant, which provides a networking service to let companies link together their cloud environments, data centers, and other assets, raised a $62M Series B &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230328/p15#a230328p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
