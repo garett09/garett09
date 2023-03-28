@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US prosecutors file a new indictment against SBF, accusing him of directing the transfer of $40M+ of cryptocurrency in bribes to Chinese government officials &lpar;Reuters&rpar;](http://www.techmeme.com/230328/p17#a230328p17)
- - [25 Best Cat Toys and Supplies &lpar;2023&rpar;: Scratchers, Window Perches, Modern Furniture, and More](https://www.wired.com/gallery/best-cat-toys-and-supplies/)
- - [Eve starts shipping Matter-enabled smart home devices](https://appleinsider.com/articles/23/03/28/eve-starts-shipping-matter-enabled-smart-home-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Citizen Lab: Russia&#39;s PROTEI is selling internet censorship software to an Iranian telco, allowing monitoring and interception of all Iranians&#39; communications &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230328/p20#a230328p20)
+ - [Apple researching how to make an iPad enclosure out of glass](https://appleinsider.com/articles/23/03/28/apple-researching-how-to-make-an-ipad-enclosure-out-of-glass?utm_medium=rss)
+ - [Google and ADT debut ADT Self Setup, a SimpliSafe-like security system that ties in with nearly all Nest products and also offers its own sensors, keypad, more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230328/p19#a230328p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
