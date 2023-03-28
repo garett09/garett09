@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brasilian Reality TV, da best one!Grab some popcorn and enjoy.No need for Netflix and Co.](http://9gag.com/gag/aBd6b1D)
- - 🚯 [A man was ordered to pay $400k to Kim Kardashian over a trademark lawsuit. He&#39;s living out of his car.](http://9gag.com/gag/aPgmnBG)
- - 🚯 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)<!-- MEMES:END -->
+ - 🚖 [The Benner cycle. Incredibly accurate](http://9gag.com/gag/aA06qVd)
+ - 🚯 [Carnivorous undercover caterpillar.](http://9gag.com/gag/ago16jW)
+ - 🚯 [Legit question](http://9gag.com/gag/aXnMzpP)<!-- MEMES:END -->
 
 --- 
 
