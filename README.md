@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Citizen Lab: Russia&#39;s PROTEI is selling internet censorship software to an Iranian telco, allowing monitoring and interception of all Iranians&#39; communications &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230328/p20#a230328p20)
- - [Apple researching how to make an iPad enclosure out of glass](https://appleinsider.com/articles/23/03/28/apple-researching-how-to-make-an-ipad-enclosure-out-of-glass?utm_medium=rss)
- - [Google and ADT debut ADT Self Setup, a SimpliSafe-like security system that ties in with nearly all Nest products and also offers its own sensors, keypad, more &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230328/p19#a230328p19)<!-- TECH:END -->
+ - [Discounting the short-term risks of AI, from phishing to propaganda, simply because artificial superintelligence is not here yet will leave society ill-prepared &lpar;Gary Marcus/The Road to AI We Can Trust&rpar;](http://www.techmeme.com/230328/p27#a230328p27)
+ - [Apple launches Apple Pay Later, but only for selected users](https://appleinsider.com/articles/23/03/28/apple-launches-apple-pay-later-but-only-for-selected-users?utm_medium=rss)
+ - [Apple begins a multi-month roll out of its Apple Pay Later service in the US, for online and in-app purchases on iOS 16.4 and iPadOS 16.4 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230328/p26#a230328p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
