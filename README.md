@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces a second-generation Surface Hub 2S is coming later this year and will be the first &quot;touch-enabled board&quot; to run Teams Rooms on Windows &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230328/p33#a230328p33)
- - [Xcode 14.1 required for App Store submissions from April 25](https://appleinsider.com/articles/23/03/28/xcode-141-required-for-app-store-submissions-from-april-25?utm_medium=rss)
- - [On TikTok, the hashtag #TikTokBan had 1.7B views on March 27 compared with 983M views on March 18, as users post hundreds of videos objecting to a potential ban &lpar;New York Times&rpar;](http://www.techmeme.com/230328/p32#a230328p32)<!-- TECH:END -->
+ - [Researchers say North Korean hackers are likely laundering stolen crypto by renting cloud compute to mine fresh coins, avoiding more scrutinized crypto mixers &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230328/p35#a230328p35)
+ - [Lenovo confirms it has shutdown its Legion gaming phone business](https://www.androidauthority.com/lenovo-gaming-phone-3306942/)
+ - [Filing: a California court grants Twitter&#39;s request to subpoena GitHub for information on FreeSpeechEnthusiast, the alleged leaker of some Twitter source code &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230328/p34#a230328p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
