@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s ‘Niche Mixes’ feature lets you create playlists with just a few words](https://www.androidauthority.com/spotify-niche-mixes-3306855/)
- - [EigenLabs, working on an ETH &quot;restaking&quot; protocol, raised a $50M Series A led by Blockchain Capital, with Coinbase Ventures, Polychain Capital among investors &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/230328/p28#a230328p28)
- - [Save $430 on the Pixel 6 Pro, and more great Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)<!-- TECH:END -->
+ - [Clearview AI&#39;s founder says the company has run nearly 1M searches for US police and now uses 30B images scraped without users consent from sites like Facebook &lpar;BBC&rpar;](http://www.techmeme.com/230328/p30#a230328p30)
+ - [Apple seeds the first developer beta of iOS 16.5 &amp; iPadOS 16.5](https://appleinsider.com/articles/23/03/28/apple-seeds-the-first-developer-beta-of-ios-165-ipados-165?utm_medium=rss)
+ - [Best Sonos Deals: Save on Speaker Bundles, Refurbished Roam and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
