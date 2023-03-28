@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro butt dialed the cops while playing a video game](http://9gag.com/gag/anzR8mb)
- - 🚯 [He didn&#39;t even make a hole at the bottom of the popcorn. Artist is maplestar.](http://9gag.com/gag/a6qXzwL)
- - 🚯 [The Benner cycle. Incredibly accurate](http://9gag.com/gag/aA06qVd)<!-- MEMES:END -->
+ - 🚖 [One ticket, please!](http://9gag.com/gag/arm39D5)
+ - 🚯 [Zero f**ks given](http://9gag.com/gag/arm3066)
+ - 🚯 [Take your time.](http://9gag.com/gag/a8q6QR3)<!-- MEMES:END -->
 
 --- 
 
