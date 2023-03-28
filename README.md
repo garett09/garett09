@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dentist in Brazil acused of sexual harassment. `She would pull down her pants, show it to you, rub herself and make you smell it` Larissa Bressan is her name.](http://9gag.com/gag/ajV141Q)
- - 🚯 [Im about to slap Chris Rock](http://9gag.com/gag/aZD156X)
- - 🚯 [The cogs are turning.](http://9gag.com/gag/anzRwOq)<!-- MEMES:END -->
+ - 🚖 [Zero f**ks given](http://9gag.com/gag/arm3066)
+ - 🚯 [Take your time.](http://9gag.com/gag/a8q6QR3)
+ - 🚯 [Quick get rid of it before they catch up on us](http://9gag.com/gag/amA1yx9)<!-- MEMES:END -->
 
 --- 
 
