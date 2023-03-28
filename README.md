@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)
- - 🚯 [When you can actually use a camera](http://9gag.com/gag/aMEB6OM)
- - 🚯 [Ok my loyal and f**ked up 9gag family. You guys helped me a few years ago when my son was filmed being bullied at Victoria Point State High School in QLD Australia. You guys went rogue sending emails and hacking their website. Same school. Help me bring justice to these b*tches](http://9gag.com/gag/az2dw9m)<!-- MEMES:END -->
+ - 🚖 [Thalassophobia / Megalophobia](http://9gag.com/gag/adP145Z)
+ - 🚯 [One ticket, please!](http://9gag.com/gag/arm39D5)
+ - 🚯 [Airp\u00f6rt](http://9gag.com/gag/aYVEnn2)<!-- MEMES:END -->
 
 --- 
 
