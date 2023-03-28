@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Benner cycle. Incredibly accurate](http://9gag.com/gag/aA06qVd)
- - 🚯 [Females should stop making those creepy videos of men where they portray them as creeps or predators... We are actually here to do something about ourselves, we are not in the gym for females...](http://9gag.com/gag/awZ3884)
- - 🚯 [Legit question](http://9gag.com/gag/aXnMzpP)<!-- MEMES:END -->
+ - 🚖 [`The asylums are empty, for all the crazies are here` - William Shakespeare](http://9gag.com/gag/a8q6nd3)
+ - 🚯 [The way this was handled](http://9gag.com/gag/aXnMdvD)
+ - 🚯 [One ticket, please!](http://9gag.com/gag/arm39D5)<!-- MEMES:END -->
 
 --- 
 
