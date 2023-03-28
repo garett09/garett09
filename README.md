@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans Are Hungry For Link’s &#39;Meat Arrows&#39; In Tears Of The Kingdom](https://kotaku.com/legend-zelda-botw-tears-kingdom-crafting-meat-arrows-1850275329)
- - [Unreal: Diablo IV Streamer Beats World Boss Almost Entirely Solo](https://kotaku.com/diablo-4-twitch-youtube-streamer-wudijo-ashava-rogue-1850274905)
- - [Star Trek: Legacy deserves a chance to exist](https://www.polygon.com/23658535/star-trek-legacy-paramount-plus-picard-season-4-plan)<!-- GAME:END -->
+ - [Nintendo’s classic Ultra Hand toy lives on in Tears of the Kingdom](https://www.polygon.com/23660508/zelda-tears-of-the-kingdom-ultrahand-nintendo-toy)
+ - [Zelda: Tears of the Kingdom Switch OLED pre-orders are live](https://www.polygon.com/23590865/zelda-tears-of-the-kingdom-switch-oled-totk)
+ - [Fans Are Hungry For Link’s &#39;Meat Arrows&#39; In Tears Of The Kingdom](https://kotaku.com/legend-zelda-botw-tears-kingdom-crafting-meat-arrows-1850275329)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
