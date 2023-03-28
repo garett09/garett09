@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discounting the short-term risks of AI, from phishing to propaganda, simply because artificial superintelligence is not here yet will leave society ill-prepared &lpar;Gary Marcus/The Road to AI We Can Trust&rpar;](http://www.techmeme.com/230328/p27#a230328p27)
- - [Apple launches Apple Pay Later, but only for selected users](https://appleinsider.com/articles/23/03/28/apple-launches-apple-pay-later-but-only-for-selected-users?utm_medium=rss)
- - [Apple begins a multi-month roll out of its Apple Pay Later service in the US, for online and in-app purchases on iOS 16.4 and iPadOS 16.4 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230328/p26#a230328p26)<!-- TECH:END -->
+ - [Spotify’s ‘Niche Mixes’ feature lets you create playlists with just a few words](https://www.androidauthority.com/spotify-niche-mixes-3306855/)
+ - [EigenLabs, working on an ETH &quot;restaking&quot; protocol, raised a $50M Series A led by Blockchain Capital, with Coinbase Ventures, Polychain Capital among investors &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/230328/p28#a230328p28)
+ - [Save $430 on the Pixel 6 Pro, and more great Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
