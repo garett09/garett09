@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears of the Kingdom Switch OLED console coming in April](https://www.polygon.com/23590865/zelda-tears-of-the-kingdom-switch-oled-totk)
- - [Watch 10 minutes of new Zelda: Tears of the Kingdom gameplay](https://www.polygon.com/23658171/zelda-tears-of-the-kingdom-gameplay-nintendo-direct)
- - [Lords of the Fallen&#39;s creative director showed me its &#39;horrible pains&#39; and &#39;fingers of God&#39; and I must see more](https://www.pcgamer.com/lords-of-the-fallen-interview-GDC)<!-- GAME:END -->
+ - [Everything new shown in Tuesday’s Legend of Zelda: Tears of the Kingdom trailer](https://www.polygon.com/zelda/23659874/zelda-tears-of-the-kingdom-totk-new-trailer-analysis-new-abilities)
+ - [Resident Evil 4 Library clock puzzle solution](https://www.polygon.com/resident-evil-4-remake-guides/23659867/library-clock-puzzle-solution)
+ - [Resident Evil 4 Chapter 9: Courtyard to Mausoleum](https://www.polygon.com/resident-evil-4-remake-guides/23655305/chapter-9-courtyard-mausoleum)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
