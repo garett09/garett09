@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google asks a US judge to dismiss a DOJ suit alleging it illegally abused its ad dominance, arguing the government had excluded rivals while defining the market &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/230328/p2#a230328p2)
- - [A look at Meta&#39;s &quot;spirit of the policy&quot; exception that lets the company break its moderation rules in conflict zones and crises; critics want more transparency &lpar;Rest of World&rpar;](http://www.techmeme.com/230328/p1#a230328p1)
- - [Apple Music Classical waltzes onto iPhone](https://appleinsider.com/articles/23/03/28/apple-music-classical-waltzes-onto-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Huobi prompts new Chinese users to apply for a Dominican digital citizenship, under a partnership with Dominica, to evade China&#39;s crypto restrictions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230328/p3#a230328p3)
+ - [The April 2023 security patch might be coming early to some Pixel users](https://www.androidauthority.com/google-pixel-5-april-2023-security-patch-3302652/)
+ - [To Fight Coastal Erosion, Design a Bespoke Artificial Reef](https://www.wired.com/story/reefy-modular-reef-costal-erosion/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
