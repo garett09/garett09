@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GDC 2023: Four Incredible New ID@Xbox Games You’ll Be Playing This Year](https://news.xbox.com/en-us/2023/03/28/id-xbox-gdc-venba-lamplighters-league-botany-manor-planet-of-lana/)
- - [Link’s new abilities in Legend of Zelda: Tears of the Kingdom, explained](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23660112/abilities-fuse-ascend-recall-ultrahand)
- - [5 lessons from John Wick’s mega success I assume Hollywood won’t take](https://www.polygon.com/23658403/john-wick-box-office-success-future-movies)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons movie summons a mini Freaks and Geeks reunion](https://www.polygon.com/23660329/dungeons-dragons-movie-freaks-geeks)
+ - [11 ‘Bad’ Games We’ll Die Defending](https://kotaku.com/11-bad-games-well-defend-mass-effect-andromeda-ps4-1850274471)
+ - [10 Meh Games That Became Killer With Updates](https://kotaku.com/cyberpunk-destiny-no-mans-sky-patch-updates-1850274212)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
