@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`The asylums are empty, for all the crazies are here` - William Shakespeare](http://9gag.com/gag/a8q6nd3)
- - 🚯 [The way this was handled](http://9gag.com/gag/aXnMdvD)
- - 🚯 [One ticket, please!](http://9gag.com/gag/arm39D5)<!-- MEMES:END -->
+ - 🚖 [The way this was handled](http://9gag.com/gag/aXnMdvD)
+ - 🚯 [Bro butt dialed the cops while playing a video game](http://9gag.com/gag/anzR8mb)
+ - 🚯 [I&#39;d love to see a movie based on this](http://9gag.com/gag/aXnMQpz)<!-- MEMES:END -->
 
 --- 
 
