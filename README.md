@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In 10 Minutes, Nintendo Rekindled Zelda: Tears of the Kingdom&#39;s Lost Hype](https://kotaku.com/zelda-tears-kingdom-totk-gameplay-fuse-weapon-car-meat-1850274230)
- - [Diablo IV Quest Designer Shows How The Narrative Sausage Gets Made](https://kotaku.com/diablo-iv-4-beta-story-lore-lorath-lilith-1850275804)
- - [As A Resident Evil 4 Newcomer, Remake&#39;s Village Fight Is Shockingly Brutal](https://kotaku.com/resident-evil-4-remake-village-chainsaw-steam-tips-1850275707)<!-- GAME:END -->
+ - [Add The Last of Us Part 1 to the list of bad PC ports](https://www.pcgamer.com/add-the-last-of-us-part-1-to-the-list-of-bad-pc-ports)
+ - [Black Panther director Ryan Coogler may be rebooting The X-Files](https://www.polygon.com/23660796/x-files-ryan-coogler-reboot-chris-carter)
+ - [Bobby Kotick Calls Out PlayStation In Email To Whole World](https://kotaku.com/playstation-microsoft-activision-sony-kotick-deal-buy-1850276115)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
