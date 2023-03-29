@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hah!!! Geh](http://9gag.com/gag/aKEAM91)
- - 🚯 [No regret](http://9gag.com/gag/ago1W5n)
- - 🚯 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)<!-- MEMES:END -->
+ - 🚖 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
+ - 🚯 [Zero f**ks given](http://9gag.com/gag/arm3066)
+ - 🚯 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)<!-- MEMES:END -->
 
 --- 
 
