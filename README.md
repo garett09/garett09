@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Glopal, which helps e-commerce merchants sell to global customers through localization, logistics, and payments services, raised a &amp;euro;20M Series A &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230329/p21#a230329p21)
- - [Danganronpa’s creator wants to make detective games more approachable](https://www.theverge.com/2023/3/29/23661684/master-detective-archives-rain-code-nintendo-switch-kazutaka-kodaka-interview)
- - [Fresh price drop drives AirPods Pro 2 down to $194.99](https://appleinsider.com/articles/23/03/29/fresh-price-drop-drives-airpods-pro-2-down-to-19499?utm_medium=rss)<!-- TECH:END -->
+ - [Docs: investments in 4chan include $5.6M from owner Hiroyuki Nishimura and his company plus $2.4M from Japanese company Good Smile, which makes toys for Disney &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/230329/p22#a230329p22)
+ - [The 21 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [T-Mobile customers can now use Alexa to make hands-free calls](https://www.androidauthority.com/alexa-hands-free-calling-3307338/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
