@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fresh price drop drives AirPods Pro 2 down to $194.99](https://appleinsider.com/articles/23/03/29/fresh-price-drop-drives-airpods-pro-2-down-to-19499?utm_medium=rss)
- - [Apple announces Swift Student Challenge for WWDC 2023](https://appleinsider.com/articles/23/03/29/apple-announces-swift-student-challenge-for-wwdc-2023?utm_medium=rss)
- - [Unicorn: Warriors Eternal looks like Genndy Tartakovsky’s most epic series yet](https://www.theverge.com/23661842/adult-swim-unicorn-warriors-eternal)<!-- TECH:END -->
+ - [Paris-based Glopal, which helps e-commerce merchants sell to global customers through localization, logistics, and payments services, raised a &amp;euro;20M Series A &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230329/p21#a230329p21)
+ - [Danganronpa’s creator wants to make detective games more approachable](https://www.theverge.com/2023/3/29/23661684/master-detective-archives-rain-code-nintendo-switch-kazutaka-kodaka-interview)
+ - [Fresh price drop drives AirPods Pro 2 down to $194.99](https://appleinsider.com/articles/23/03/29/fresh-price-drop-drives-airpods-pro-2-down-to-19499?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
