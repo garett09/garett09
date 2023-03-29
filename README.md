@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightdive reassures fans about the Atari deal: &#39;Not only will we be doing as much as we ever did, but we&#39;ll be doing more of it&#39;](https://www.pcgamer.com/nightdive-reassures-fans-about-the-atari-deal-not-only-will-we-be-doing-as-much-as-we-ever-did-but-well-be-doing-more-of-it)
- - [Congress Finds Time To Yell At Sony On Microsoft&#39;s Behalf](https://kotaku.com/congress-sony-playstation-microsoft-xbox-acquisition-1850280353)
- - [A Letter To The Fortnite Weirdos Who Play Past Midnight](https://kotaku.com/fortnite-dance-emotes-rare-battle-royale-friends-1850280172)<!-- GAME:END -->
+ - [Tekken 8 Has Special Character Intros For Lore Nerds](https://kotaku.com/tekken-8-special-character-intros-jin-kazama-kazuya-1850280673)
+ - [Electronic Arts lays off hundreds of workers despite strong profits](https://www.polygon.com/23662246/electronic-arts-layoffs-800-workers-quarterly-earnings)
+ - [Electronic Arts is laying off 6% of its workforce](https://www.pcgamer.com/electronic-arts-is-laying-off-6-of-its-workforce)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
