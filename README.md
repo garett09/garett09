@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lamborghini’s Revuelto Is Its First Hybrid](https://www.wired.com/story/lamborghini-revuelto-hybrid/)
- - [Q&amp;A with Mastodon CEO Eugen Rochko on open-source governance, business models, rejecting VC firms, running an instance, ActivityPub, content moderation, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230329/p15#a230329p15)
- - [Beats by Dre is launching a &#39;Girls Don&#39;t Cry&#39; edition of Beats Flex](https://appleinsider.com/articles/23/03/29/beats-by-dre-is-launching-a-girls-dont-cry-edition-of-beats-flex?utm_medium=rss)<!-- TECH:END -->
+ - [Fresh price drop drives AirPods Pro 2 down to $194.99](https://appleinsider.com/articles/23/03/29/fresh-price-drop-drives-airpods-pro-2-down-to-19499?utm_medium=rss)
+ - [Apple announces Swift Student Challenge for WWDC 2023](https://appleinsider.com/articles/23/03/29/apple-announces-swift-student-challenge-for-wwdc-2023?utm_medium=rss)
+ - [Unicorn: Warriors Eternal looks like Genndy Tartakovsky’s most epic series yet](https://www.theverge.com/23661842/adult-swim-unicorn-warriors-eternal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
