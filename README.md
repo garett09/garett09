@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
- - 🚯 [When you can actually use a camera](http://9gag.com/gag/aMEB6OM)
- - 🚯 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)<!-- MEMES:END -->
+ - 🚖 [And 9gag was fun too...](http://9gag.com/gag/arm3Lbd)
+ - 🚯 [The point of COLLEGE](http://9gag.com/gag/a9q6xDL)
+ - 🚯 [No hair, no drink.](http://9gag.com/gag/aL1zEAz)<!-- MEMES:END -->
 
 --- 
 
