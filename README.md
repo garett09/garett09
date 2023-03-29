@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)
- - 🚯 [Forget you Morgan](http://9gag.com/gag/aDY6L9d)
- - 🚯 [Quick get rid of it before they catch up on us](http://9gag.com/gag/amA1yx9)<!-- MEMES:END -->
+ - 🚯 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
+ - 🚯 [Zero f**ks given](http://9gag.com/gag/arm3066)<!-- MEMES:END -->
 
 --- 
 
