@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sign me up](http://9gag.com/gag/aMEBLOW)
- - 🚯 [Keep trying please !](http://9gag.com/gag/aGEn4Q5)
- - 🚯 [Dentist in Brazil acused of sexual harassment. `She would pull down her pants, show it to you, rub herself and make you smell it` Larissa Bressan is her name.](http://9gag.com/gag/ajV141Q)<!-- MEMES:END -->
+ - 🚖 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
+ - 🚯 [When you can actually use a camera](http://9gag.com/gag/aMEB6OM)
+ - 🚯 [Chatgpt got something you wanna say?](http://9gag.com/gag/aDY6enB)<!-- MEMES:END -->
 
 --- 
 
