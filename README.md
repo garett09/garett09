@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wrestling turned me cis, then it turned me trans](https://www.polygon.com/23654947/wrestling-masculinity-turned-cis-trans)
- - [Expanding Metal: Hellsinger’s Legendary Lineup in the Dream of the Beast DLC!](https://news.xbox.com/en-us/2023/03/29/metal-hellsingers-dream-of-the-beast-dlc/)
- - [The writer that revolutionized the X-Men is tackling Marvel’s gods next](https://www.polygon.com/23661676/marvel-comics-gods-hickman-x-men)<!-- GAME:END -->
+ - [Disney Company lays off infamous Marvel exec Ike Perlmutter](https://www.polygon.com/23661825/marvel-disney-ike-perlmutter-layoff-fired-kevin-feige)
+ - [Resident Evil 4 Remake: The Kotaku Review](https://kotaku.com/resident-evil-4-re4-remaster-remake-review-capcom-ps5-1850278891)
+ - [These TikTok creators are keeping The Legend of Zelda: Breath of the Wild alive](https://www.polygon.com/zelda/23658817/legend-of-zelda-breath-wild-tiktok-botw-memes-tricks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
