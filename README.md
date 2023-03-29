@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best iPad &lpar;2023&rpar;: Which Apple Tablets to Buy or Avoid](https://www.wired.com/gallery/the-best-ipad/)
- - [The Insta360 Flow is a phone gimbal with all the trimmings](https://www.theverge.com/2023/3/29/23661377/insta360-flow-smartphone-gimbal-selfie-stick-tripod-stabilization-tracking)
- - [Oura study shows covid-19 can impact your biometrics for weeks after infection](https://www.theverge.com/23660400/oura-ring-covid-19-illness-detection-biometrics-heart-rate-sleep)<!-- TECH:END -->
+ - [Nansen: Binance saw net outflows of $2.1B over seven days as of 27 March, as it raised fees, suffered software issues, and faced a CFTC lawsuit &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230329/p13#a230329p13)
+ - [Deals: iPads from $125, $900 off MacBook Pro, $400 off Studio Display, AirTag sale &amp; more](https://appleinsider.com/articles/23/03/29/deals-ipads-from-125-900-off-macbook-pro-400-off-studio-display-airtag-sale-more?utm_medium=rss)
+ - [High durability lets iPhones &amp; Androids maintain their value](https://appleinsider.com/articles/23/03/29/high-durability-lets-iphones-androids-maintain-their-value?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
