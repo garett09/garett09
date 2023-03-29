@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wes Anderson’s Asteroid City trailer has Tom Hanks investigating aliens](https://www.polygon.com/23660115/asteroid-city-trailer-wes-anderson-new-movie)
- - [Disney CEO axes metaverse unit and almost everyone in it, with another 6,950 cuts to go](https://www.pcgamer.com/disney-ceo-axes-metaverse-unit-and-almost-everyone-in-it-with-another-6950-cuts-to-go)
- - [Pushing the envelope: Achieving next-level clouds in Horizon Forbidden West: Burning Shores](https://blog.playstation.com/2023/03/29/pushing-the-envelope-achieving-next-level-clouds-in-horizon-forbidden-west-burning-shores/)<!-- GAME:END -->
+ - [Tech luminaries including Musk and Wozniak beg AI pioneers to hit the brakes](https://www.pcgamer.com/tech-luminaries-including-musk-and-wozniak-beg-ai-pioneers-to-hit-the-brakes)
+ - [Gran Turismo 7 Update 1.31 going live today with 5 new cars, 2 new layouts for Nurburgring, and a new Scapes location](https://blog.playstation.com/2023/03/29/gran-turismo-7-update-1-31-going-live-today-with-5-new-cars-2-new-layouts-for-nurburgring-and-a-new-scapes-location/)
+ - [Gran Turismo 7 Update 1.31 going live today with 5 new cars, 2 new layouts for Nurburgring, and a new Scapes location](https://blog.playstation.com/2023/03/29/gran-turismo-7-update-1-31-going-live-today-with-5-new-cars-2-new-layouts-for-nurburgring-and-a-new-scapes-location/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
