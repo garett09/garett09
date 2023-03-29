@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nansen: Binance saw net outflows of $2.1B over seven days as of 27 March, as it raised fees, suffered software issues, and faced a CFTC lawsuit &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230329/p13#a230329p13)
- - [Deals: iPads from $125, $900 off MacBook Pro, $400 off Studio Display, AirTag sale &amp; more](https://appleinsider.com/articles/23/03/29/deals-ipads-from-125-900-off-macbook-pro-400-off-studio-display-airtag-sale-more?utm_medium=rss)
- - [High durability lets iPhones &amp; Androids maintain their value](https://appleinsider.com/articles/23/03/29/high-durability-lets-iphones-androids-maintain-their-value?utm_medium=rss)<!-- TECH:END -->
+ - [Lamborghini’s Revuelto Is Its First Hybrid](https://www.wired.com/story/lamborghini-revuelto-hybrid/)
+ - [Q&amp;A with Mastodon CEO Eugen Rochko on open-source governance, business models, rejecting VC firms, running an instance, ActivityPub, content moderation, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230329/p15#a230329p15)
+ - [Beats by Dre is launching a &#39;Girls Don&#39;t Cry&#39; edition of Beats Flex](https://appleinsider.com/articles/23/03/29/beats-by-dre-is-launching-a-girls-dont-cry-edition-of-beats-flex?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
