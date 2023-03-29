@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zero f**ks given](http://9gag.com/gag/arm3066)
- - 🚯 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
- - 🚯 [Chad Canadian](http://9gag.com/gag/a8q6Z3e)<!-- MEMES:END -->
+ - 🚖 [Keep trying please !](http://9gag.com/gag/aGEn4Q5)
+ - 🚯 [Hehe](http://9gag.com/gag/a6qXR28)
+ - 🚯 [What](http://9gag.com/gag/aYVE502)<!-- MEMES:END -->
 
 --- 
 
