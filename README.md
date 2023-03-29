@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asking mafia boss about his body count](http://9gag.com/gag/a6qXggq)
- - 🚯 [Zero f**ks given](http://9gag.com/gag/arm3066)
- - 🚯 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)<!-- MEMES:END -->
+ - 🚖 [Zero f**ks given](http://9gag.com/gag/arm3066)
+ - 🚯 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
+ - 🚯 [Chad Canadian](http://9gag.com/gag/a8q6Z3e)<!-- MEMES:END -->
 
 --- 
 
