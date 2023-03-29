@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New report details Wyrmwood’s ‘dangerous’ culture](https://www.polygon.com/tabletop-games/23662012/wyrmwood-gaming-gizmodo-sexual-harassment-report)
- - [Blizzard Just Fixed A 15-Year-Old Bug In World Of Warcraft Classic](https://kotaku.com/world-warcraft-wow-classic-lich-king-val-anyr-bug-1850279728)
- - [You can try Nexon&#39;s new tactical shooter for free this week](https://www.pcgamer.com/you-can-try-nexons-new-tactical-shooter-for-free-this-week)<!-- GAME:END -->
+ - [PlayStation Plus Has A Couple Of Hidden Gems For April](https://kotaku.com/playstation-ps-plus-april-sackboy-ps5-free-games-1850279806)
+ - [10 movies that prove WWE stars can be movie stars too](https://www.polygon.com/what-to-watch/23270454/best-wwe-actors-wrestlers-movies-dwayne-the-rock-johnson-dave-bautista-hulk-hogan)
+ - [11 Battle Royale Players You&#39;ll Always Match With &lpar;Or Die To&rpar;](https://kotaku.com/battle-royale-fortnite-player-stereotype-loot-goblin-1850279382)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
