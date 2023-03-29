@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep trying please !](http://9gag.com/gag/aGEn4Q5)
- - 🚯 [Hehe](http://9gag.com/gag/a6qXR28)
- - 🚯 [What](http://9gag.com/gag/aYVE502)<!-- MEMES:END -->
+ - 🚖 [Kids in Germany are getting this while kids in America are getting drag show](http://9gag.com/gag/arm3YbX)
+ - 🚯 [No regret](http://9gag.com/gag/ago1W5n)
+ - 🚯 [I was there 3000 years ago](http://9gag.com/gag/a3Z5V2m)<!-- MEMES:END -->
 
 --- 
 
