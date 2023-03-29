@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches an Ads Transparency Center, showing all the ads from verified advertisers on its platforms, in the formats, the regions, and the dates they ran &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230329/p28#a230329p28)
- - [Apple Pay network experiencing intermittent outage](https://appleinsider.com/articles/23/03/29/apple-pay-network-experiencing-intermittent-outage?utm_medium=rss)
- - [How NetEase and Activision&#39;s 14-year partnership fell apart, in part due to China&#39;s tech crackdown, as filings show the deal was worth ~$750M in annual revenue &lpar;New York Times&rpar;](http://www.techmeme.com/230329/p27#a230329p27)<!-- TECH:END -->
+ - [A Manhunt in India Left 27 Million People Without Mobile Internet](https://www.wired.com/story/sandhu-manhunt-india-twitter-internet-blackout/)
+ - [WeMeta: the median price per square meter of land in Decentraland has dropped from ~$45 in 2022 to $5 in 2023, as the hype around the metaverse has receded &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/230329/p29#a230329p29)
+ - [Apple Pay network experienced intermittent outage](https://appleinsider.com/articles/23/03/29/apple-pay-network-experiencing-intermittent-outage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
