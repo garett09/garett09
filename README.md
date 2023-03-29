@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tech luminaries including Musk and Wozniak beg AI pioneers to hit the brakes](https://www.pcgamer.com/tech-luminaries-including-musk-and-wozniak-beg-ai-pioneers-to-hit-the-brakes)
- - [Gran Turismo 7 Update 1.31 going live today with 5 new cars, 2 new layouts for Nurburgring, and a new Scapes location](https://blog.playstation.com/2023/03/29/gran-turismo-7-update-1-31-going-live-today-with-5-new-cars-2-new-layouts-for-nurburgring-and-a-new-scapes-location/)
- - [Gran Turismo 7 Update 1.31 going live today with 5 new cars, 2 new layouts for Nurburgring, and a new Scapes location](https://blog.playstation.com/2023/03/29/gran-turismo-7-update-1-31-going-live-today-with-5-new-cars-2-new-layouts-for-nurburgring-and-a-new-scapes-location/)<!-- GAME:END -->
+ - [Wrestling turned me cis, then it turned me trans](https://www.polygon.com/23654947/wrestling-masculinity-turned-cis-trans)
+ - [Expanding Metal: Hellsinger’s Legendary Lineup in the Dream of the Beast DLC!](https://news.xbox.com/en-us/2023/03/29/metal-hellsingers-dream-of-the-beast-dlc/)
+ - [The writer that revolutionized the X-Men is tackling Marvel’s gods next](https://www.polygon.com/23661676/marvel-comics-gods-hickman-x-men)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
