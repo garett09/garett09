@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, a game that lets us fight the human menace as goblins](https://www.pcgamer.com/finally-a-game-that-lets-us-fight-the-human-menace-as-goblins)
- - [Forza Horizon 5 Rally Adventure is Now Available](https://news.xbox.com/en-us/2023/03/29/forza-horizon-5-rally-adventure-out-now/)
- - [The 9 best Blu-rays of April 2023](https://www.polygon.com/entertainment/23658683/best-bluray-4k-uhd-disc-review-april-2023)<!-- GAME:END -->
+ - [New report details Wyrmwood’s ‘dangerous’ culture](https://www.polygon.com/tabletop-games/23662012/wyrmwood-gaming-gizmodo-sexual-harassment-report)
+ - [Blizzard Just Fixed A 15-Year-Old Bug In World Of Warcraft Classic](https://kotaku.com/world-warcraft-wow-classic-lich-king-val-anyr-bug-1850279728)
+ - [You can try Nexon&#39;s new tactical shooter for free this week](https://www.pcgamer.com/you-can-try-nexons-new-tactical-shooter-for-free-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
