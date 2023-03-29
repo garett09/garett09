@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Read it carefully](http://9gag.com/gag/aqeXO4p)
- - 🚯 [Does Utopia Exist?!](http://9gag.com/gag/a9q6G31)
- - 🚯 [Ok my loyal and f**ked up 9gag family. You guys helped me a few years ago when my son was filmed being bullied at Victoria Point State High School in QLD Australia. You guys went rogue sending emails and hacking their website. Same school. Help me bring justice to these b*tches](http://9gag.com/gag/az2dw9m)<!-- MEMES:END -->
+ - 🚖 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)
+ - 🚯 [Quick get rid of it before they catch up on us](http://9gag.com/gag/amA1yx9)
+ - 🚯 [When you can actually use a camera](http://9gag.com/gag/aMEB6OM)<!-- MEMES:END -->
 
 --- 
 
