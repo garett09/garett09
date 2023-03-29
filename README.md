@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: investments in 4chan include $5.6M from owner Hiroyuki Nishimura and his company plus $2.4M from Japanese company Good Smile, which makes toys for Disney &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/230329/p22#a230329p22)
- - [The 21 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [T-Mobile customers can now use Alexa to make hands-free calls](https://www.androidauthority.com/alexa-hands-free-calling-3307338/)<!-- TECH:END -->
+ - [Sources: Gemini is preparing to launch an international crypto derivatives exchange to offer perpetual futures, which have been off-limits to US retail traders &lpar;The Information&rpar;](http://www.techmeme.com/230329/p24#a230329p24)
+ - [As Microsoft, Meta, Google, Amazon, Twitter, and others cut their responsible AI teams, experts worry about issues like potential abuses and hallucination &lpar;Financial Times&rpar;](http://www.techmeme.com/230329/p23#a230329p23)
+ - [YES Network’s new subscription will let you watch Yankees games without cable](https://www.theverge.com/2023/3/29/23662011/yes-network-direct-subscription-yankees-games-cable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
