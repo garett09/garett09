@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Read it carefully](http://9gag.com/gag/aqeXO4p)
- - 🚯 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
- - 🚯 [Forget you Morgan](http://9gag.com/gag/aDY6L9d)<!-- MEMES:END -->
+ - 🚖 [Zero f**ks given](http://9gag.com/gag/arm3066)
+ - 🚯 [She&#39;s A 10 It Seems](http://9gag.com/gag/aA06LRp)
+ - 🚯 [Ok my loyal and f**ked up 9gag family. You guys helped me a few years ago when my son was filmed being bullied at Victoria Point State High School in QLD Australia. You guys went rogue sending emails and hacking their website. Same school. Help me bring justice to these b*tches](http://9gag.com/gag/az2dw9m)<!-- MEMES:END -->
 
 --- 
 
