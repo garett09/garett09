@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Gemini is preparing to launch an international crypto derivatives exchange to offer perpetual futures, which have been off-limits to US retail traders &lpar;The Information&rpar;](http://www.techmeme.com/230329/p24#a230329p24)
- - [As Microsoft, Meta, Google, Amazon, Twitter, and others cut their responsible AI teams, experts worry about issues like potential abuses and hallucination &lpar;Financial Times&rpar;](http://www.techmeme.com/230329/p23#a230329p23)
- - [YES Network’s new subscription will let you watch Yankees games without cable](https://www.theverge.com/2023/3/29/23662011/yes-network-direct-subscription-yankees-games-cable)<!-- TECH:END -->
+ - [New Babbel deal: The #1 language-learning app just got a lot cheaper](https://www.androidauthority.com/babbel-deal-3307395/)
+ - [NYC-based LeapXpert, which monitors staff business chats via apps like WhatsApp, WeChat, and iMessage for compliance, raised a $22M Series A+ led by Rockefeller &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230329/p26#a230329p26)
+ - [EA plans to lay off ~6% of its workforce and cut its office space, incurring $170M to $200M in restructuring charges; EA had nearly 13,000 employees in mid-2022 &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/230329/p25#a230329p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
