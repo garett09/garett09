@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lemon8, ByteDance&#39;s Instagram rival launched in March 2020, hits the US App Store&#39;s top 10; data.ai: the app never ranked in the top 200 overall charts before &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230329/p3#a230329p3)
- - [Perplexity AI, which is building an AI-based conversational search engine, raised a $25.6M Series A led by NEA with participation from Jeff Dean and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/230329/p2#a230329p2)
- - [ASUS ROG Phone 7 specs leak: More like ROG Phone 6 2023 Edition?](https://www.androidauthority.com/asus-rog-phone-7-specs-3307117/)<!-- TECH:END -->
+ - [The UK government publishes recommendations for AI and urges regulators to issue practical guidance to organizations on implementing them in their sectors &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230329/p4#a230329p4)
+ - [OnePlus 11 Jupiter Rock version launched: This model is out of this world](https://www.androidauthority.com/oneplus-11-jupiter-rock-version-launched-this-model-is-out-of-this-world-3307129/)
+ - [Elon Musk Urges Top AI Labs To Pause Training of AI Beyond GPT-4     - CNET](https://www.cnet.com/tech/elon-musk-urges-top-ai-labs-to-pause-training-of-ai-beyond-gpt-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
