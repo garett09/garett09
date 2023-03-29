@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
- - 🚯 [Zero f**ks given](http://9gag.com/gag/arm3066)
- - 🚯 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)<!-- MEMES:END -->
+ - 🚖 [Keanu Reeves gave each member of his stunt team customized Rolexes to celebrate the completion of &#39;John Wick 4&#39;](http://9gag.com/gag/ago1DE6)
+ - 🚯 [No regret](http://9gag.com/gag/ago1W5n)
+ - 🚯 [Kids in Germany are getting this while kids in America are getting drag show](http://9gag.com/gag/arm3YbX)<!-- MEMES:END -->
 
 --- 
 
