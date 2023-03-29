@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Company lays off infamous Marvel exec Ike Perlmutter](https://www.polygon.com/23661825/marvel-disney-ike-perlmutter-layoff-fired-kevin-feige)
- - [Resident Evil 4 Remake: The Kotaku Review](https://kotaku.com/resident-evil-4-re4-remaster-remake-review-capcom-ps5-1850278891)
- - [These TikTok creators are keeping The Legend of Zelda: Breath of the Wild alive](https://www.polygon.com/zelda/23658817/legend-of-zelda-breath-wild-tiktok-botw-memes-tricks)<!-- GAME:END -->
+ - [Finally, a game that lets us fight the human menace as goblins](https://www.pcgamer.com/finally-a-game-that-lets-us-fight-the-human-menace-as-goblins)
+ - [Forza Horizon 5 Rally Adventure is Now Available](https://news.xbox.com/en-us/2023/03/29/forza-horizon-5-rally-adventure-out-now/)
+ - [The 9 best Blu-rays of April 2023](https://www.polygon.com/entertainment/23658683/best-bluray-4k-uhd-disc-review-april-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
