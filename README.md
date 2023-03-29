@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s giving Android users a new reason to switch with Apple Pay Later](https://www.androidauthority.com/apple-pay-later-3307094/)
- - [A profile of Swedish gaming company Embracer, whose growth via frantic dealmaking has raised questions of financial performance, accounting practices, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230329/p1#a230329p1)
- - [Pennsylvania-based NCB Management Services, which purchases debt, says sensitive financial info of 494,969 people was leaked during a cyberattack on the company &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230328/p44#a230328p44)<!-- TECH:END -->
+ - [Perplexity AI, which is building an AI-based conversational search engine, raised a $25.6M Series A led by NEA with participation from Jeff Dean and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/230329/p2#a230329p2)
+ - [ASUS ROG Phone 7 specs leak: More like ROG Phone 6 2023 Edition?](https://www.androidauthority.com/asus-rog-phone-7-specs-3307117/)
+ - [Apple’s giving Android users a new reason to switch with Apple Pay Later](https://www.androidauthority.com/apple-pay-later-3307094/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
