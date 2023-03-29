@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)
- - 🚯 [Quick get rid of it before they catch up on us](http://9gag.com/gag/amA1yx9)
- - 🚯 [When you can actually use a camera](http://9gag.com/gag/aMEB6OM)<!-- MEMES:END -->
+ - 🚖 [Hah!!! Geh](http://9gag.com/gag/aKEAM91)
+ - 🚯 [No regret](http://9gag.com/gag/ago1W5n)
+ - 🚯 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)<!-- MEMES:END -->
 
 --- 
 
