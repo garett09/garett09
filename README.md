@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And 9gag was fun too...](http://9gag.com/gag/arm3Lbd)
- - 🚯 [The point of COLLEGE](http://9gag.com/gag/a9q6xDL)
- - 🚯 [No hair, no drink.](http://9gag.com/gag/aL1zEAz)<!-- MEMES:END -->
+ - 🚖 [Read it carefully](http://9gag.com/gag/aqeXO4p)
+ - 🚯 [Does Utopia Exist?!](http://9gag.com/gag/a9q6G31)
+ - 🚯 [Ok my loyal and f**ked up 9gag family. You guys helped me a few years ago when my son was filmed being bullied at Victoria Point State High School in QLD Australia. You guys went rogue sending emails and hacking their website. Same school. Help me bring justice to these b*tches](http://9gag.com/gag/az2dw9m)<!-- MEMES:END -->
 
 --- 
 
