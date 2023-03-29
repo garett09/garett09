@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Last Of Us Part 1&#39;s PC Port Isn&#39;t In Great Shape](https://kotaku.com/the-last-of-us-pc-port-steam-performance-reviews-ps5-1850276276)
  - [Add The Last of Us Part 1 to the list of bad PC ports](https://www.pcgamer.com/add-the-last-of-us-part-1-to-the-list-of-bad-pc-ports)
- - [Black Panther director Ryan Coogler may be rebooting The X-Files](https://www.polygon.com/23660796/x-files-ryan-coogler-reboot-chris-carter)
- - [Bobby Kotick Calls Out PlayStation In Email To Whole World](https://kotaku.com/playstation-microsoft-activision-sony-kotick-deal-buy-1850276115)<!-- GAME:END -->
+ - [Black Panther director Ryan Coogler may be rebooting The X-Files](https://www.polygon.com/23660796/x-files-ryan-coogler-reboot-chris-carter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
