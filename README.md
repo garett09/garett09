@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AutoCAD gets native Apple Silicon support, boasts 2x speed jump](https://appleinsider.com/articles/23/03/29/autocad-gets-native-apple-silicon-support-boasts-2x-speed-jump?utm_medium=rss)
- - [Micron reports Q2 revenue of $3.69B, vs. $3.71B est., down from $7.79B YoY, and a record net loss of $2.31B due to an inventory write-down of $1.43B &lpar;Jeremy C. Owens/MarketWatch&rpar;](http://www.techmeme.com/230328/p39#a230328p39)
- - [Apple Gangnam launching with K-pop Pop-Up Studio experience](https://appleinsider.com/articles/23/03/28/apple-gangnam-launching-with-k-pop-pop-up-studio-experience?utm_medium=rss)<!-- TECH:END -->
+ - [The FDIC tells Signature&#39;s crypto clients that they have until April 5 to close their accounts, as Flagstar&#39;s bid excluded ~$4B in Signature&#39;s crypto deposits &lpar;Bloomberg&rpar;](http://www.techmeme.com/230328/p41#a230328p41)
+ - [How two former hosts on Russian state TV became key advisers to the Salvadoran government&#39;s adoption of bitcoin while having crypto investments in the country &lpar;Santiago P&amp;eacute;rez/Wall Street Journal&rpar;](http://www.techmeme.com/230328/p40#a230328p40)
+ - [Union accuses Apple of firing workers in retaliation for organizing](https://www.theverge.com/2023/3/28/23660480/apple-cwa-fired-workers-allegations-unionization)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
