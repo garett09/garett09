@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One ticket, please!](http://9gag.com/gag/arm39D5)
- - 🚯 [She&#39;s A 10 It Seems](http://9gag.com/gag/aA06LRp)
- - 🚯 [When you can actually use a camera](http://9gag.com/gag/aMEB6OM)<!-- MEMES:END -->
+ - 🚖 [Sign me up](http://9gag.com/gag/aMEBLOW)
+ - 🚯 [Keep trying please !](http://9gag.com/gag/aGEn4Q5)
+ - 🚯 [Dentist in Brazil acused of sexual harassment. `She would pull down her pants, show it to you, rub herself and make you smell it` Larissa Bressan is her name.](http://9gag.com/gag/ajV141Q)<!-- MEMES:END -->
 
 --- 
 
