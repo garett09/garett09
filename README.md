@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find Blue Medallions in Resident Evil 4 Remake](https://www.pcgamer.com/resident-evil-4-remake-blue-medallions)
- - [Nvidia&#39;s RTX 4060 and 4060 Ti rumoured to launch in May and could struggle even at 1080p](https://www.pcgamer.com/nvidias-rtx-4060-and-4060-ti-rumoured-to-launch-in-may-and-could-struggle-even-at-1080p)
- - [The Last of Us&#39; PC port is bad, but the bugs are great](https://www.pcgamer.com/the-last-of-us-pc-port-is-bad-but-the-bugs-are-great)<!-- GAME:END -->
+ - [Wes Anderson’s Asteroid City trailer has Tom Hanks investigating aliens](https://www.polygon.com/23660115/asteroid-city-trailer-wes-anderson-new-movie)
+ - [Disney CEO axes metaverse unit and almost everyone in it, with another 6,950 cuts to go](https://www.pcgamer.com/disney-ceo-axes-metaverse-unit-and-almost-everyone-in-it-with-another-6950-cuts-to-go)
+ - [Pushing the envelope: Achieving next-level clouds in Horizon Forbidden West: Burning Shores](https://blog.playstation.com/2023/03/29/pushing-the-envelope-achieving-next-level-clouds-in-horizon-forbidden-west-burning-shores/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
