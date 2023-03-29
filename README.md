@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)
- - 🚯 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
- - 🚯 [Zero f**ks given](http://9gag.com/gag/arm3066)<!-- MEMES:END -->
+ - 🚖 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
+ - 🚯 [When you can actually use a camera](http://9gag.com/gag/aMEB6OM)
+ - 🚯 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)<!-- MEMES:END -->
 
 --- 
 
