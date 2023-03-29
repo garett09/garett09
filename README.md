@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Play &#39;Tetris&#39; and win one month Apple TV+ free trial](https://appleinsider.com/articles/23/03/28/play-tetris-and-win-one-month-apple-tv-free-trial?utm_medium=rss)
- - [A US federal judge finds Google flouted a court order requiring it to save records of employee chats in antitrust litigation over its Play Store policies &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230328/p38#a230328p38)
- - [Deal: Save 88% on Microsoft Office Professional 2021](https://www.androidauthority.com/microsoft-office-deal-3270908/)<!-- TECH:END -->
+ - [AutoCAD gets native Apple Silicon support, boasts 2x speed jump](https://appleinsider.com/articles/23/03/29/autocad-gets-native-apple-silicon-support-boasts-2x-speed-jump?utm_medium=rss)
+ - [Micron reports Q2 revenue of $3.69B, vs. $3.71B est., down from $7.79B YoY, and a record net loss of $2.31B due to an inventory write-down of $1.43B &lpar;Jeremy C. Owens/MarketWatch&rpar;](http://www.techmeme.com/230328/p39#a230328p39)
+ - [Apple Gangnam launching with K-pop Pop-Up Studio experience](https://appleinsider.com/articles/23/03/28/apple-gangnam-launching-with-k-pop-pop-up-studio-experience?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
