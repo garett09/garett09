@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to roll out extreme heat alerts in Search, including informing users about when to expect a heat wave, being safe, and tips to stay cool &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230329/p11#a230329p11)
- - [All-Clad Cordless Rechargeable Hand Blender Review: Cordlessness Isn&#39;t a Necessity](https://www.wired.com/review/all-clad-cordless-rechargeable-stainless-steel-hand-blender/)
- - [16-inch MacBook Pro vs LG Gram 17 - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-macbook-pro-vs-lg-gram-17---compared?utm_medium=rss)<!-- TECH:END -->
+ - [The Best iPad &lpar;2023&rpar;: Which Apple Tablets to Buy or Avoid](https://www.wired.com/gallery/the-best-ipad/)
+ - [The Insta360 Flow is a phone gimbal with all the trimmings](https://www.theverge.com/2023/3/29/23661377/insta360-flow-smartphone-gimbal-selfie-stick-tripod-stabilization-tracking)
+ - [Oura study shows covid-19 can impact your biometrics for weeks after infection](https://www.theverge.com/23660400/oura-ring-covid-19-illness-detection-biometrics-heart-rate-sleep)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
