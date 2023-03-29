@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
- - 🚯 [When you can actually use a camera](http://9gag.com/gag/aMEB6OM)
- - 🚯 [Chatgpt got something you wanna say?](http://9gag.com/gag/aDY6enB)<!-- MEMES:END -->
+ - 🚖 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)
+ - 🚯 [Forget you Morgan](http://9gag.com/gag/aDY6L9d)
+ - 🚯 [Quick get rid of it before they catch up on us](http://9gag.com/gag/amA1yx9)<!-- MEMES:END -->
 
 --- 
 
