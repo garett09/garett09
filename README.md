@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA launches an in-depth probe, which can take up to six months, of Broadcom&#39;s $69B VMware acquisition, after Broadcom failed to address concerns &lpar;Reuters&rpar;](http://www.techmeme.com/230329/p9#a230329p9)
- - [Red Teaming GPT-4 Was Valuable. Violet Teaming Will Make It Better](https://www.wired.com/story/red-teaming-gpt-4-was-valuable-violet-teaming-will-make-it-better/)
- - [The Chemical Menace Inside Glaciers and Icebergs](https://www.wired.com/story/pollutant-degradation-ice-cores-antarctica/)<!-- TECH:END -->
+ - [Google plans to roll out extreme heat alerts in Search, including informing users about when to expect a heat wave, being safe, and tips to stay cool &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230329/p11#a230329p11)
+ - [All-Clad Cordless Rechargeable Hand Blender Review: Cordlessness Isn&#39;t a Necessity](https://www.wired.com/review/all-clad-cordless-rechargeable-stainless-steel-hand-blender/)
+ - [16-inch MacBook Pro vs LG Gram 17 - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-macbook-pro-vs-lg-gram-17---compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
