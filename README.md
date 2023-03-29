@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro&#39;s solid-state buttons may still work when battery is depleted](https://appleinsider.com/articles/23/03/29/iphone-15-pros-solid-state-buttons-may-still-work-when-battery-is-depleted?utm_medium=rss)
- - [Berlin-based Hygraph, which offers a federated digital content management service, raised a $30M Series B led by One Peak, bringing its total funding to $43.7M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230329/p7#a230329p7)
- - [Poll: Do you care about uniform bezels around the display?](https://www.androidauthority.com/smartphone-display-uniform-bezels-poll-3307159/)<!-- TECH:END -->
+ - [The UK CMA launches an in-depth probe, which can take up to six months, of Broadcom&#39;s $69B VMware acquisition, after Broadcom failed to address concerns &lpar;Reuters&rpar;](http://www.techmeme.com/230329/p9#a230329p9)
+ - [Red Teaming GPT-4 Was Valuable. Violet Teaming Will Make It Better](https://www.wired.com/story/red-teaming-gpt-4-was-valuable-violet-teaming-will-make-it-better/)
+ - [The Chemical Menace Inside Glaciers and Icebergs](https://www.wired.com/story/pollutant-degradation-ice-cores-antarctica/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
