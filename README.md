@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man raped young girl every day for 6 years. He was sentenced to 3,000 years in prison. His wife, who helped him, got 3-7 years](http://9gag.com/gag/amA14D4)
- - 🚯 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
- - 🚯 [Why?](http://9gag.com/gag/aL1zx9P)<!-- MEMES:END -->
+ - 🚖 [Just leave me one !!!](http://9gag.com/gag/ajV1obG)
+ - 🚯 [Whoah why is me?](http://9gag.com/gag/amA1ee6)
+ - 🚯 [Didn&#39;t knew that she voiced th\u0435 droids](http://9gag.com/gag/aXnMDXd)<!-- MEMES:END -->
 
 --- 
 
