@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Racing Journey is About to Start with MotoGP 23, Available June 8](https://news.xbox.com/en-us/2023/03/30/your-racing-journey-is-about-to-start-with-motogp-23-available-june-8/)
- - [D&amp;D: Honor Among Thieves has delivered a wave of new toys and game deals](https://www.polygon.com/deals/23660084/dungeons-dragons-honor-among-thieves-hasbro-funko-pop-toys-games)
- - [How to find flint in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-flint)<!-- GAME:END -->
+ - [Indian megastar Shah Rukh Khan’s giant blockbuster Pathaan gets a ‘vs.’ sequel](https://www.polygon.com/23662994/shah-rukh-khan-pathaan-tiger-sequel-yrf-spy-universe)
+ - [New Games with Gold for April 2023](https://news.xbox.com/en-us/2023/03/30/new-games-with-gold-for-april-2023/)
+ - [Blade is back in new Marvel Comics series from Killmonger, Black Widow vets](https://www.polygon.com/23660504/marvel-blade-1-2023-comic-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
