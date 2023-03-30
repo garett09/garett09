@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Very underrated film](http://9gag.com/gag/aKEA07g)
- - 🚯 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
- - 🚯 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)<!-- MEMES:END -->
+ - 🚯 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
+ - 🚯 [Chatgpt got something you wanna say?](http://9gag.com/gag/aDY6enB)<!-- MEMES:END -->
 
 --- 
 
