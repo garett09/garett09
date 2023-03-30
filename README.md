@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AR headset debut at WWDC in doubt](https://appleinsider.com/articles/23/03/30/apple-ar-headset-debut-at-wwdc-in-doubt?utm_medium=rss)
- - [Helped by his Twitter acquisition, Elon Musk surpasses President Obama as the most followed person on the service with 133,068,709 followers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230330/p13#a230330p13)
- - [Kuo: Apple&#39;s mixed reality headset may not appear at WWDC as mass production is pushed back to Q3, amid doubts about the device creating an &quot;iPhone moment&quot; &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/230330/p12#a230330p12)<!-- TECH:END -->
+ - [An AI-focused tech ethics group asks the FTC to investigate OpenAI, saying the rollout of its AI tools has been &quot;biased, deceptive, and a risk to public safety&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230330/p15#a230330p15)
+ - [Specialized Turbo Tero X Review: Do Everything](https://www.wired.com/review/specialized-turbo-tero-x/)
+ - [The Effort to Harness Animal ‘Supersenses’—and Avert Disaster](https://www.wired.com/story/animals-senses/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
