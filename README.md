@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This kid is going places](http://9gag.com/gag/a9q6QRj)
- - 🚯 [Man raped young girl every day for 6 years. He was sentenced to 3,000 years in prison. His wife, who helped him, got 3-7 years](http://9gag.com/gag/amA14D4)
- - 🚯 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)<!-- MEMES:END -->
+ - 🚖 [Does Utopia Exist?!](http://9gag.com/gag/a9q6G31)
+ - 🚯 [Sometimes...](http://9gag.com/gag/amA1Zyv)
+ - 🚯 [Very underrated film](http://9gag.com/gag/aKEA07g)<!-- MEMES:END -->
 
 --- 
 
