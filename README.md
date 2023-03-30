@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jurassic World Evolution 2: Feathered Species Pack Available Today](https://news.xbox.com/en-us/2023/03/30/jurassic-world-evolution-2-feathered-species-pack-available-today/)
- - [Tsurune’s anime spin on archery will send the mind racing through time](https://www.polygon.com/23660479/tsurune-anime-archery-kyoto-animation-nostalgia)
- - [New Doom Game Is Cute And Fun Until You Run Out Of Energy](https://kotaku.com/mighty-doom-come-out-ios-android-redeem-code-archero-1850283779)<!-- GAME:END -->
+ - [Start Exploring The Long Dark: Tales from the Far Territory on Xbox Today](https://news.xbox.com/en-us/2023/03/30/the-long-dark-tales-from-the-far-territory-on-xbox/)
+ - [The book industry&#39;s got a lot to learn from Elden Ring, says one of the world&#39;s top fantasy authors &lpar;no, not George R.R. Martin&rpar;](https://www.pcgamer.com/the-book-industrys-got-a-lot-to-learn-from-elden-ring-says-one-of-the-worlds-top-fantasy-authors-no-not-george-rr-martin)
+ - [Apple&#39;s mixed-reality headset should appear at WWDC in June, and you know it&#39;s gonna cost a lot](https://www.pcgamer.com/apples-mixed-reality-headset-should-appear-at-wwdc-in-june-and-you-know-its-gonna-cost-a-lot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
