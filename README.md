@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The New York Times says it isn&#39;t planning to pay for Twitter verification and, as a rule, won&#39;t reimburse reporters for verification of personal accounts &lpar;Oliver Darcy/@oliverdarcy&rpar;](http://www.techmeme.com/230330/p22#a230330p22)
- - [Let the AI Coding Wars Begin!](https://www.wired.com/story/ai-coding-wars-openai-google-microsoft/)
- - [The English dub trailer for Makoto Shinkai’s Suzume is for closers](https://www.theverge.com/2023/3/30/23662996/suzume-english-dub-trailer-makoto-shinkai)<!-- TECH:END -->
+ - [Facebook is finally letting users opt out of tracking, but there’s a catch](https://www.androidauthority.com/facebook-tracking-opt-out-3307739/)
+ - [Apple unveils &#39;Big Beasts&#39; nature series for Earth Day](https://appleinsider.com/articles/23/03/30/apple-unveils-big-beasts-nature-series-for-earth-day?utm_medium=rss)
+ - [BuzzFeed has quietly started publishing AI-generated travel posts produced by non-editorial staff this month; a spokesperson calls the posts an experiment &lpar;Futurism&rpar;](http://www.techmeme.com/230330/p25#a230330p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
