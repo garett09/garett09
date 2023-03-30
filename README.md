@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the AI era, Microsoft is the new Google, and vice-versa](https://www.androidauthority.com/microsoft-new-google-ai-opinion-3302336/)
- - [Netflix&#39;s cheapest plan is now available on Apple TV](https://appleinsider.com/articles/23/03/30/netflixs-cheapest-plan-is-now-available-on-apple-tv?utm_medium=rss)
- - [Deals: AirPods Max $479, iMacs from $899, $150 off M2 MacBook Pro &amp; more](https://appleinsider.com/articles/23/03/30/deals-airpods-max-479-imacs-from-899-150-off-m2-macbook-pro-more?utm_medium=rss)<!-- TECH:END -->
+ - [P97, which works with fuel brands, car OS makers, and others to let users pay for gas or electric charge through app or connected car, raised a $40M Series C &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230330/p19#a230330p19)
+ - [Apple AR headset debut at WWDC in doubt](https://appleinsider.com/articles/23/03/30/apple-ar-headset-debut-at-wwdc-in-doubt?utm_medium=rss)
+ - [iPad is a beacon of light in India&#39;s contracting PC market](https://appleinsider.com/articles/23/03/30/ipad-is-a-beacon-of-light-in-indias-contracting-pc-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
