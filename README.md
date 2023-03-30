@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Japanese grand strategy titan celebrates its 40-year anniversary with a western release in July](https://www.pcgamer.com/this-japanese-grand-strategy-titan-celebrates-its-40-year-anniversary-with-a-western-release-in-july)
- - [Free Play Days – Embr, Journey to the Savage Planet, Indivisible, and Age of Empires II: Definitive Edition](https://news.xbox.com/en-us/2023/03/30/free-play-days-embr-journey-to-the-savage-planet-indivisible-and-age-of-empires-ii-definitive-edition/)
- - [The Sickest Battle Royale You Probably Aren’t Playing Is All About Martial Arts](https://kotaku.com/naraka-bladepoint-battle-royale-xbox-pc-martial-arts-1850283128)<!-- GAME:END -->
+ - [Infinite Guitars Fuses Rock, Role-Playing, Rhythm, and Robots](https://news.xbox.com/en-us/2023/03/30/infinite-guitars-fuses-rock-role-playing-rhythm-and-robots/)
+ - [Star Trek: Starfleet Academy officially a go at Paramount Plus](https://www.polygon.com/23663131/star-trek-starfleet-academy-show-paramount-plus-release)
+ - [Horizon Forbidden West’s DLC Is A PS5 Exclusive Because...Clouds, Apparently](https://kotaku.com/horizon-forbidden-west-playstation-5-burning-shores-ps5-1850283566)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
