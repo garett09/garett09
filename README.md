@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [P97, which works with fuel brands, car OS makers, and others to let users pay for gas or electric charge through app or connected car, raised a $40M Series C &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230330/p19#a230330p19)
- - [Apple AR headset debut at WWDC in doubt](https://appleinsider.com/articles/23/03/30/apple-ar-headset-debut-at-wwdc-in-doubt?utm_medium=rss)
- - [iPad is a beacon of light in India&#39;s contracting PC market](https://appleinsider.com/articles/23/03/30/ipad-is-a-beacon-of-light-in-indias-contracting-pc-market?utm_medium=rss)<!-- TECH:END -->
+ - [The New York Times says it isn&#39;t planning to pay for Twitter verification and, as a rule, won&#39;t reimburse reporters for verification of personal accounts &lpar;Oliver Darcy/@oliverdarcy&rpar;](http://www.techmeme.com/230330/p22#a230330p22)
+ - [Let the AI Coding Wars Begin!](https://www.wired.com/story/ai-coding-wars-openai-google-microsoft/)
+ - [The English dub trailer for Makoto Shinkai’s Suzume is for closers](https://www.theverge.com/2023/3/30/23662996/suzume-english-dub-trailer-makoto-shinkai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
