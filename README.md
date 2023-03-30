@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)
- - 🚯 [Chicks with dicks](http://9gag.com/gag/ay23Ozq)
- - 🚯 [Ke$ha tries for a hug from Jerry Seinfeld](http://9gag.com/gag/aeQ18qO)<!-- MEMES:END -->
+ - 🚖 [Man raped young girl every day for 6 years. He was sentenced to 3,000 years in prison. His wife, who helped him, got 3-7 years](http://9gag.com/gag/amA14D4)
+ - 🚯 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
+ - 🚯 [Why?](http://9gag.com/gag/aL1zx9P)<!-- MEMES:END -->
 
 --- 
 
