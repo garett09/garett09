@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids in Germany are getting this while kids in America are getting drag show](http://9gag.com/gag/arm3YbX)
- - 🚯 [No regret](http://9gag.com/gag/ago1W5n)
- - 🚯 [I was there 3000 years ago](http://9gag.com/gag/a3Z5V2m)<!-- MEMES:END -->
+ - 🚖 [Keep trying please !](http://9gag.com/gag/aGEn4Q5)
+ - 🚯 [Ok my loyal and f**ked up 9gag family. You guys helped me a few years ago when my son was filmed being bullied at Victoria Point State High School in QLD Australia. You guys went rogue sending emails and hacking their website. Same school. Help me bring justice to these b*tches](http://9gag.com/gag/az2dw9m)
+ - 🚯 [Chad Canadian](http://9gag.com/gag/a8q6Z3e)<!-- MEMES:END -->
 
 --- 
 
