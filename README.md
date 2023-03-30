@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook is finally letting users opt out of tracking, but there’s a catch](https://www.androidauthority.com/facebook-tracking-opt-out-3307739/)
- - [Apple unveils &#39;Big Beasts&#39; nature series for Earth Day](https://appleinsider.com/articles/23/03/30/apple-unveils-big-beasts-nature-series-for-earth-day?utm_medium=rss)
- - [BuzzFeed has quietly started publishing AI-generated travel posts produced by non-editorial staff this month; a spokesperson calls the posts an experiment &lpar;Futurism&rpar;](http://www.techmeme.com/230330/p25#a230330p25)<!-- TECH:END -->
+ - [Emotn N1 review: A projector built for Netflix](https://appleinsider.com/articles/23/03/30/emotn-n1-review-a-projector-built-for-netflix?utm_medium=rss)
+ - [Synopsys says it is launching the first full-stack AI-powered EDA suite covering all stages of chip design, including architecture, design, and manufacturing &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230330/p27#a230330p27)
+ - [Apple unveils &#39;Big Beasts&#39; nature series for Earth Day](https://appleinsider.com/articles/23/03/30/apple-unveils-big-beasts-nature-series-for-earth-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
