@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Creators: How Final Fantasy XVI harnesses PS5’s power](https://blog.playstation.com/2023/03/30/ps5-creators-how-final-fantasy-xvi-harnesses-ps5s-power/)
- - [E3 2023 Canceled](https://kotaku.com/when-is-e3-canceled-electronic-expo-summer-games-fest-1850285081)
- - [Cyberpunk 2077 devs announce that they&#39;ll announce something about Phantom Liberty in June](https://www.pcgamer.com/cyberpunk-2077-devs-announce-that-theyll-announce-something-about-phantom-liberty-in-june)<!-- GAME:END -->
+ - [E3 Wasn&#39;t Canceled, It Was Killed](https://kotaku.com/e3-2023-canceled-why-nintendo-sony-microsoft-la-rip-1850285780)
+ - [The official D&amp;D Virtual Tabletop is looking pretty slick](https://www.pcgamer.com/the-official-dandd-virtual-tabletop-is-looking-pretty-slick)
+ - [E3 2023 Canceled](https://kotaku.com/when-is-e3-canceled-electronic-expo-summer-games-fest-1850285081)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
