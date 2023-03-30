@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenovo Introduces New Windows 11 Laptops for Creators and Gamers with Yoga and Legion Lineups](https://news.xbox.com/en-us/2023/03/30/lenovo-yoga-legion-gaming-laptop/)
- - [Gigabyte B760 Aorus Elite AX](https://www.pcgamer.com/gigabyte-b760-aorus-elite-ax-motherboard-review)
- - [Forspoken will get its DLC 25 days after Square Enix eats its developer](https://www.pcgamer.com/forspoken-will-get-its-dlc-25-days-after-square-enix-eats-its-developer)<!-- GAME:END -->
+ - [MMO gets its first new skill in 17 years, or it will when players stop fighting over which one should be added](https://www.pcgamer.com/mmo-gets-its-first-new-skill-in-17-years-or-it-will-when-players-stop-fighting-over-which-one-should-be-added)
+ - [Cult Square Enix RPG Live A Live comes to Steam and PlayStation very soon](https://www.polygon.com/23662895/live-a-live-steam-pc-playstation-release-date-demo)
+ - [Ravenbound review](https://www.pcgamer.com/ravenbound-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
