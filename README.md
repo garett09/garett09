@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Blood Test Targets 50 Types of Cancer](https://www.wired.com/story/wired-health-grail-galleri-harpal-kumar-cancer-blood-test/)
- - [Review: We Put ChatGPT-4, Bing Chat, and Bard to the Test](https://www.wired.com/story/review-ai-chatbots-bing-bard-chat-gpt/)
- - [Crypto Bankruptcy Markets Are Thriving After FTX&#39;s Collapse](https://www.wired.com/story/crypto-bankruptcy-markets-thriving-ftx-collapse/)<!-- TECH:END -->
+ - [Apple AR headset debut at WWDC in doubt](https://appleinsider.com/articles/23/03/30/apple-ar-headset-debut-at-wwdc-in-doubt?utm_medium=rss)
+ - [Helped by his Twitter acquisition, Elon Musk surpasses President Obama as the most followed person on the service with 133,068,709 followers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230330/p13#a230330p13)
+ - [Kuo: Apple&#39;s mixed reality headset may not appear at WWDC as mass production is pushed back to Q3, amid doubts about the device creating an &quot;iPhone moment&quot; &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/230330/p12#a230330p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
