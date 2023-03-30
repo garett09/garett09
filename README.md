@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very underrated film](http://9gag.com/gag/aKEA07g)
- - 🚯 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
- - 🚯 [Chatgpt got something you wanna say?](http://9gag.com/gag/aDY6enB)<!-- MEMES:END -->
+ - 🚖 [Hehe](http://9gag.com/gag/axo3xYb)
+ - 🚯 [Very underrated film](http://9gag.com/gag/aKEA07g)
+ - 🚯 [Me: *gualquackquackgulrrrraaaww Doc: Oh that&#39;s nice..](http://9gag.com/gag/aqe846Z)<!-- MEMES:END -->
 
 --- 
 
