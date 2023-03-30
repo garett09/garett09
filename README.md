@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m going to change my name to `No`](http://9gag.com/gag/aOxeX7R)
- - 🚯 [Chad Canadian](http://9gag.com/gag/a8q6Z3e)
- - 🚯 [Chad Shark huehuehue](http://9gag.com/gag/aA06W5o)<!-- MEMES:END -->
+ - 🚖 [Every parent knows this feeling](http://9gag.com/gag/a9q6goK)
+ - 🚯 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
+ - 🚯 [Does Utopia Exist?!](http://9gag.com/gag/a9q6G31)<!-- MEMES:END -->
 
 --- 
 
