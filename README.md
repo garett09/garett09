@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hehe](http://9gag.com/gag/axo3xYb)
- - 🚯 [Very underrated film](http://9gag.com/gag/aKEA07g)
- - 🚯 [Me: *gualquackquackgulrrrraaaww Doc: Oh that&#39;s nice..](http://9gag.com/gag/aqe846Z)<!-- MEMES:END -->
+ - 🚖 [Cop didn&#39;t say no](http://9gag.com/gag/armAvNd)
+ - 🚯 [In 1986 Ohio, 1.5 million balloons were released during a festival but ended up being a disaster.](http://9gag.com/gag/a9q6xro)
+ - 🚯 [Very underrated film](http://9gag.com/gag/aKEA07g)<!-- MEMES:END -->
 
 --- 
 
