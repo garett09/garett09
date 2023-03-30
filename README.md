@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 13 Best Movies on HBO Max Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Apple wins a US appeal to uphold a patent tribunal&#39;s ruling over two of VirnetX&#39;s VPN patents, invalidating a $502.8M patent infringement verdict from 2020 &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230330/p29#a230330p29)
- - [Some signatories of the open letter to pause AI training walk back their positions, others turned out to be fake, and many experts disagree with its proposal &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230330/p28#a230330p28)<!-- TECH:END -->
+ - [Document: Twitter plans to exempt its top 500 advertisers and 10K most-followed orgs that have been previously verified from paying $1K/month for a checkmark &lpar;New York Times&rpar;](http://www.techmeme.com/230330/p30#a230330p30)
+ - [Amazon sues sellers for issuing bogus takedown requests on competitors](https://www.theverge.com/2023/3/30/23663339/amazon-sues-sellers-copyright-takedown-competitors)
+ - [Star Trek: Starfleet Academy will follow the most ambitious students in the galaxy](https://www.theverge.com/2023/3/30/23663457/star-trek-starfleet-academy-paramount-plus-streaming-tv-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
