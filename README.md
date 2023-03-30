@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indian megastar Shah Rukh Khan’s giant blockbuster Pathaan gets a ‘vs.’ sequel](https://www.polygon.com/23662994/shah-rukh-khan-pathaan-tiger-sequel-yrf-spy-universe)
- - [New Games with Gold for April 2023](https://news.xbox.com/en-us/2023/03/30/new-games-with-gold-for-april-2023/)
- - [Blade is back in new Marvel Comics series from Killmonger, Black Widow vets](https://www.polygon.com/23660504/marvel-blade-1-2023-comic-release)<!-- GAME:END -->
+ - [Why are movies so dark these days?](https://www.polygon.com/23661749/why-movies-look-dark-cinematography)
+ - [12 takeaways after an hour with the next Amnesia game, which contains exactly one gun](https://www.pcgamer.com/12-takeaways-after-an-hour-with-the-next-amnesia-game-which-contains-exactly-one-gun)
+ - [Join the Battle for Sanctuary with the Xbox Series X – Diablo IV Bundle](https://news.xbox.com/en-us/2023/03/30/xbox-series-x-diablo-iv-bundle/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
