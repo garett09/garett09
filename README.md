@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Porn ID Laws: Your State or Country May Soon Require Age Verification](https://www.wired.com/story/porn-age-checks-id-laws/)
- - [Russia Is Waging War on Ukraine’s Hospitals](https://www.wired.com/story/wired-health-ukraine-health-care-russian-invasion/)
- - [These Angry Dutch Farmers Really Hate Microsoft](https://www.wired.com/story/microsoft-netherlands-hyperscale-data-centers/)<!-- TECH:END -->
+ - [Samsung Galaxy S23 series gets massive camera update](https://www.androidauthority.com/samsung-galaxy-s23-march-2023-camera-update-3307571/)
+ - [Crypto exchange OKX says its has identified $157M in digital assets belonging to FTX and Alameda Research, and is turning them over to the bankruptcy estate &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/230330/p5#a230330p5)
+ - [Alibaba says it may cede control of some businesses if they opt to list after its overhaul and plans to monetize non-core assets to improve capital structure &lpar;Reuters&rpar;](http://www.techmeme.com/230330/p4#a230330p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
