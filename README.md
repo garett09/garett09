@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google accused of ripping off OpenAI’s ChatGPT](https://www.androidauthority.com/google-bard-chatgpt-sharegpt-training-3307537/)
- - [Sources: Meta is considering a company-wide political ads ban in Europe, concerned its platforms will be unable to comply with forthcoming online campaign laws &lpar;Financial Times&rpar;](http://www.techmeme.com/230330/p2#a230330p2)
- - [Researchers say hackers have compromised the 3CX VoIP IPBX desktop app, used by 600K+ companies and 12M+ daily users, in an ongoing supply chain attack &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230330/p1#a230330p1)<!-- TECH:END -->
+ - [Porn ID Laws: Your State or Country May Soon Require Age Verification](https://www.wired.com/story/porn-age-checks-id-laws/)
+ - [Russia Is Waging War on Ukraine’s Hospitals](https://www.wired.com/story/wired-health-ukraine-health-care-russian-invasion/)
+ - [These Angry Dutch Farmers Really Hate Microsoft](https://www.wired.com/story/microsoft-netherlands-hyperscale-data-centers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
