@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any Irish here can explain how do you live there?](http://9gag.com/gag/aQEv5Vr)
- - 🚯 [No regret](http://9gag.com/gag/ago1W5n)
- - 🚯 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)<!-- MEMES:END -->
+ - 🚖 [This kid is going places](http://9gag.com/gag/a9q6QRj)
+ - 🚯 [Man raped young girl every day for 6 years. He was sentenced to 3,000 years in prison. His wife, who helped him, got 3-7 years](http://9gag.com/gag/amA14D4)
+ - 🚯 [She is never getting that child..](http://9gag.com/gag/avQ1Mgn)<!-- MEMES:END -->
 
 --- 
 
