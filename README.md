@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US sends $25M to Costa Rica for Conti ransomware recovery and gave $25M last month to help Albania recover from a ransomware attack allegedly caused by Iran &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230329/p36#a230329p36)
- - [Reddit says, in 2022, it removed 473% more subreddits and permanently suspended 244% more users accounts violating its policy on non-consensual intimate imagery &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230329/p35#a230329p35)
- - [Paris-based Inato, which offers a marketplace to connect pharmaceutical companies with clinical trial sites, raised a $20M Series A2 led by Cathay Innovation &lpar;Emily Olsen/MobiHealthNews&rpar;](http://www.techmeme.com/230329/p34#a230329p34)<!-- TECH:END -->
+ - [The inevitable is happening — Microsoft’s AI-powered Bing Chat is getting ads.](https://www.androidauthority.com/microsoft-bing-chat-ads-3307531/)
+ - [Microsoft says it is exploring placing ads in Bing Chat and share the ad revenue with partners whose content contributed to the chat response &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230329/p37#a230329p37)
+ - [The US sends $25M to Costa Rica for Conti ransomware recovery and gave $25M last month to help Albania recover from a ransomware attack allegedly caused by Iran &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230329/p36#a230329p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
