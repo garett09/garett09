@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Infinite Guitars Fuses Rock, Role-Playing, Rhythm, and Robots](https://news.xbox.com/en-us/2023/03/30/infinite-guitars-fuses-rock-role-playing-rhythm-and-robots/)
- - [Star Trek: Starfleet Academy officially a go at Paramount Plus](https://www.polygon.com/23663131/star-trek-starfleet-academy-show-paramount-plus-release)
- - [Horizon Forbidden West’s DLC Is A PS5 Exclusive Because...Clouds, Apparently](https://kotaku.com/horizon-forbidden-west-playstation-5-burning-shores-ps5-1850283566)<!-- GAME:END -->
+ - [Jurassic World Evolution 2: Feathered Species Pack Available Today](https://news.xbox.com/en-us/2023/03/30/jurassic-world-evolution-2-feathered-species-pack-available-today/)
+ - [Tsurune’s anime spin on archery will send the mind racing through time](https://www.polygon.com/23660479/tsurune-anime-archery-kyoto-animation-nostalgia)
+ - [New Doom Game Is Cute And Fun Until You Run Out Of Energy](https://kotaku.com/mighty-doom-come-out-ios-android-redeem-code-archero-1850283779)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
