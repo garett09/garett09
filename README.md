@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #649: Thursday, March 30](https://www.pcgamer.com/wordle-hint-answer-today-649-march-30)
- - [Naughty Dog investigating TLOU&#39;s poor PC performance](https://www.pcgamer.com/naughty-dog-investigating-tlous-poor-pc-performance)
- - [Magic&#39;s big event set includes unlikely team-ups and the return of planechase](https://www.pcgamer.com/magics-big-event-set-includes-unlikely-team-ups-and-the-return-of-planechase)<!-- GAME:END -->
+ - [Latest Windows 11 test build crams ads into your start menu](https://www.pcgamer.com/latest-windows-11-test-build-crams-ads-into-your-start-menu)
+ - [God Of War&#39;s Sounds Were Made By Squishing Melons, Slapping Wood &amp; Toilet Plungers](https://kotaku.com/god-of-war-ragnarok-sound-effects-making-of-foley-1850281671)
+ - [Wordle hint and answer #649: Thursday, March 30](https://www.pcgamer.com/wordle-hint-answer-today-649-march-30)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
