@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why are movies so dark these days?](https://www.polygon.com/23661749/why-movies-look-dark-cinematography)
- - [12 takeaways after an hour with the next Amnesia game, which contains exactly one gun](https://www.pcgamer.com/12-takeaways-after-an-hour-with-the-next-amnesia-game-which-contains-exactly-one-gun)
- - [Join the Battle for Sanctuary with the Xbox Series X – Diablo IV Bundle](https://news.xbox.com/en-us/2023/03/30/xbox-series-x-diablo-iv-bundle/)<!-- GAME:END -->
+ - [This Japanese grand strategy titan celebrates its 40-year anniversary with a western release in July](https://www.pcgamer.com/this-japanese-grand-strategy-titan-celebrates-its-40-year-anniversary-with-a-western-release-in-july)
+ - [Free Play Days – Embr, Journey to the Savage Planet, Indivisible, and Age of Empires II: Definitive Edition](https://news.xbox.com/en-us/2023/03/30/free-play-days-embr-journey-to-the-savage-planet-indivisible-and-age-of-empires-ii-definitive-edition/)
+ - [The Sickest Battle Royale You Probably Aren’t Playing Is All About Martial Arts](https://kotaku.com/naraka-bladepoint-battle-royale-xbox-pc-martial-arts-1850283128)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
