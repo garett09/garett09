@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just leave me one !!!](http://9gag.com/gag/ajV1obG)
- - 🚯 [Whoah why is me?](http://9gag.com/gag/amA1ee6)
- - 🚯 [Didn&#39;t knew that she voiced th\u0435 droids](http://9gag.com/gag/aXnMDXd)<!-- MEMES:END -->
+ - 🚖 [We need a filter to exclude this AI generated shxt](http://9gag.com/gag/adP1w0M)
+ - 🚯 [This kid is going places](http://9gag.com/gag/a9q6QRj)
+ - 🚯 [Very underrated film](http://9gag.com/gag/aKEA07g)<!-- MEMES:END -->
 
 --- 
 
