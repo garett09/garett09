@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go is changing how Remote Raid Passes work — and raising prices](https://www.polygon.com/23663732/pokemon-go-remote-raid-pass-price-increase-daily-limit)
- - [Welcome To Kotaku Royale, Exploring The Genre That&#39;s Defining Modern Gaming](https://kotaku.com/battle-royale-games-pubg-fortnite-apex-legends-warzone-1850268953)
- - [Fortnite Is The Future Of Music Streaming](https://kotaku.com/fortnite-radio-stations-ariana-grande-skin-travis-scott-1850284448)<!-- GAME:END -->
+ - [The Super Mario Bros. Movie Is Flooding Everything ATM](https://kotaku.com/super-mario-bros-movie-theaters-near-me-amazon-disney-1850285196)
+ - [E3 2023 is cancelled](https://www.pcgamer.com/e3-2023-is-cancelled)
+ - [E3 2023 has been canceled](https://www.polygon.com/23661641/e3-2023-canceled)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
