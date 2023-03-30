@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Manhunt in India Left 27 Million People Without Mobile Internet](https://www.wired.com/story/sandhu-manhunt-india-twitter-internet-blackout/)
- - [WeMeta: the median price per square meter of land in Decentraland has dropped from ~$45 in 2022 to $5 in 2023, as the hype around the metaverse has receded &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/230329/p29#a230329p29)
- - [Apple Pay network experienced intermittent outage](https://appleinsider.com/articles/23/03/29/apple-pay-network-experiencing-intermittent-outage?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix might let you use an iPhone to control games on your TV](https://www.theverge.com/2023/3/29/23662548/netflix-iphone-controller-games-code-test)
+ - [Netflix&#39;s iOS app code suggests the company may expand its video game service to TV sets for the first time, using phones as controllers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230329/p31#a230329p31)
+ - [The US Is Sending Money to Countries Devastated by Cyberattacks](https://www.wired.com/story/white-house-costa-rica-albania-ransomware-aid/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
