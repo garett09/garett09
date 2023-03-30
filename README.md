@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [AI-Generated video of Will Smith eating spaghetti](http://9gag.com/gag/aOxeMXr)
- - 🚯 [Ke$ha tries for a hug from Jerry Seinfeld](http://9gag.com/gag/aeQ18qO)
- - 🚯 [Soda cans sold in supermarkets in Saudi Arabia come wrapped with aluminum foil on top to keep the sipping area clean.](http://9gag.com/gag/amA1jpj)<!-- MEMES:END -->
+ - 🚖 [I&#39;m going to change my name to `No`](http://9gag.com/gag/aOxeX7R)
+ - 🚯 [Chad Canadian](http://9gag.com/gag/a8q6Z3e)
+ - 🚯 [Chad Shark huehuehue](http://9gag.com/gag/aA06W5o)<!-- MEMES:END -->
 
 --- 
 
