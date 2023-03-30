@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emotn N1 review: A projector built for Netflix](https://appleinsider.com/articles/23/03/30/emotn-n1-review-a-projector-built-for-netflix?utm_medium=rss)
- - [Synopsys says it is launching the first full-stack AI-powered EDA suite covering all stages of chip design, including architecture, design, and manufacturing &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230330/p27#a230330p27)
- - [Apple unveils &#39;Big Beasts&#39; nature series for Earth Day](https://appleinsider.com/articles/23/03/30/apple-unveils-big-beasts-nature-series-for-earth-day?utm_medium=rss)<!-- TECH:END -->
+ - [The 13 Best Movies on HBO Max Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+ - [Apple wins a US appeal to uphold a patent tribunal&#39;s ruling over two of VirnetX&#39;s VPN patents, invalidating a $502.8M patent infringement verdict from 2020 &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230330/p29#a230330p29)
+ - [Some signatories of the open letter to pause AI training walk back their positions, others turned out to be fake, and many experts disagree with its proposal &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230330/p28#a230330p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
