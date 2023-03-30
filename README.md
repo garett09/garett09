@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Does Utopia Exist?!](http://9gag.com/gag/a9q6G31)
- - 🚯 [Sometimes...](http://9gag.com/gag/amA1Zyv)
- - 🚯 [Very underrated film](http://9gag.com/gag/aKEA07g)<!-- MEMES:END -->
+ - 🚖 [AI-Generated video of Will Smith eating spaghetti](http://9gag.com/gag/aOxeMXr)
+ - 🚯 [Ke$ha tries for a hug from Jerry Seinfeld](http://9gag.com/gag/aeQ18qO)
+ - 🚯 [Soda cans sold in supermarkets in Saudi Arabia come wrapped with aluminum foil on top to keep the sipping area clean.](http://9gag.com/gag/amA1jpj)<!-- MEMES:END -->
 
 --- 
 
