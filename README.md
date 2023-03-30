@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An AI-focused tech ethics group asks the FTC to investigate OpenAI, saying the rollout of its AI tools has been &quot;biased, deceptive, and a risk to public safety&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230330/p15#a230330p15)
- - [Specialized Turbo Tero X Review: Do Everything](https://www.wired.com/review/specialized-turbo-tero-x/)
- - [The Effort to Harness Animal ‘Supersenses’—and Avert Disaster](https://www.wired.com/story/animals-senses/)<!-- TECH:END -->
+ - [In the AI era, Microsoft is the new Google, and vice-versa](https://www.androidauthority.com/microsoft-new-google-ai-opinion-3302336/)
+ - [Netflix&#39;s cheapest plan is now available on Apple TV](https://appleinsider.com/articles/23/03/30/netflixs-cheapest-plan-is-now-available-on-apple-tv?utm_medium=rss)
+ - [Deals: AirPods Max $479, iMacs from $899, $150 off M2 MacBook Pro &amp; more](https://appleinsider.com/articles/23/03/30/deals-airpods-max-479-imacs-from-899-150-off-m2-macbook-pro-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
