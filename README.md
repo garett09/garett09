@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s going to get worse](http://9gag.com/gag/aYVOjj0)
- - 🚯 [Hehe](http://9gag.com/gag/axo3xYb)
- - 🚯 [Ah Paris](http://9gag.com/gag/aGEnWg7)<!-- MEMES:END -->
+ - 🚖 [Very underrated film](http://9gag.com/gag/aKEA07g)
+ - 🚯 [Keep trying please !](http://9gag.com/gag/aGEn4Q5)
+ - 🚯 [Ke$ha tries for a hug from Jerry Seinfeld](http://9gag.com/gag/aeQ18qO)<!-- MEMES:END -->
 
 --- 
 
