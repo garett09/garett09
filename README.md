@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Start Exploring The Long Dark: Tales from the Far Territory on Xbox Today](https://news.xbox.com/en-us/2023/03/30/the-long-dark-tales-from-the-far-territory-on-xbox/)
- - [The book industry&#39;s got a lot to learn from Elden Ring, says one of the world&#39;s top fantasy authors &lpar;no, not George R.R. Martin&rpar;](https://www.pcgamer.com/the-book-industrys-got-a-lot-to-learn-from-elden-ring-says-one-of-the-worlds-top-fantasy-authors-no-not-george-rr-martin)
- - [Apple&#39;s mixed-reality headset should appear at WWDC in June, and you know it&#39;s gonna cost a lot](https://www.pcgamer.com/apples-mixed-reality-headset-should-appear-at-wwdc-in-june-and-you-know-its-gonna-cost-a-lot)<!-- GAME:END -->
+ - [Pokémon Go is changing how Remote Raid Passes work — and raising prices](https://www.polygon.com/23663732/pokemon-go-remote-raid-pass-price-increase-daily-limit)
+ - [Welcome To Kotaku Royale, Exploring The Genre That&#39;s Defining Modern Gaming](https://kotaku.com/battle-royale-games-pubg-fortnite-apex-legends-warzone-1850268953)
+ - [Fortnite Is The Future Of Music Streaming](https://kotaku.com/fortnite-radio-stations-ariana-grande-skin-travis-scott-1850284448)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
