@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer UK May issue on sale now: Star Trek: Resurgence](https://www.pcgamer.com/pc-gamer-uk-may-issue-on-sale-now-star-trek-resurgence)
- - [Latest Windows 11 test build crams ads into your start menu](https://www.pcgamer.com/latest-windows-11-test-build-crams-ads-into-your-start-menu)
- - [God Of War&#39;s Sounds Were Made By Squishing Melons, Slapping Wood &amp; Toilet Plungers](https://kotaku.com/god-of-war-ragnarok-sound-effects-making-of-foley-1850281671)<!-- GAME:END -->
+ - [Gigabyte B760 Aorus Elite AX](https://www.pcgamer.com/gigabyte-b760-aorus-elite-ax-motherboard-review)
+ - [Forspoken will get its DLC 25 days after Square Enix eats its developer](https://www.pcgamer.com/forspoken-will-get-its-dlc-25-days-after-square-enix-eats-its-developer)
+ - [PC Gamer UK May issue on sale now: Star Trek: Resurgence](https://www.pcgamer.com/pc-gamer-uk-may-issue-on-sale-now-star-trek-resurgence)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
