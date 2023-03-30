@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very underrated film](http://9gag.com/gag/aKEA07g)
- - 🚯 [Chatgpt got something you wanna say?](http://9gag.com/gag/aDY6enB)
- - 🚯 [No regret](http://9gag.com/gag/ago1W5n)<!-- MEMES:END -->
+ - 🚖 [It&#39;s going to get worse](http://9gag.com/gag/aYVOjj0)
+ - 🚯 [Hehe](http://9gag.com/gag/axo3xYb)
+ - 🚯 [Ah Paris](http://9gag.com/gag/aGEnWg7)<!-- MEMES:END -->
 
 --- 
 
