@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MMO gets its first new skill in 17 years, or it will when players stop fighting over which one should be added](https://www.pcgamer.com/mmo-gets-its-first-new-skill-in-17-years-or-it-will-when-players-stop-fighting-over-which-one-should-be-added)
- - [Cult Square Enix RPG Live A Live comes to Steam and PlayStation very soon](https://www.polygon.com/23662895/live-a-live-steam-pc-playstation-release-date-demo)
- - [Ravenbound review](https://www.pcgamer.com/ravenbound-review)<!-- GAME:END -->
+ - [Your Racing Journey is About to Start with MotoGP 23, Available June 8](https://news.xbox.com/en-us/2023/03/30/your-racing-journey-is-about-to-start-with-motogp-23-available-june-8/)
+ - [D&amp;D: Honor Among Thieves has delivered a wave of new toys and game deals](https://www.polygon.com/deals/23660084/dungeons-dragons-honor-among-thieves-hasbro-funko-pop-toys-games)
+ - [How to find flint in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-flint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
