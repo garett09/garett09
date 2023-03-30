@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Unbelievable Zombie Comeback of Analog Computing](https://www.wired.com/story/unbelievable-zombie-comeback-analog-computing/)
- - [Berlin-based Parloa, which uses AI and low-code tools to automate call center operations, raised a &amp;euro;20M Series A led by EQT Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230330/p7#a230330p7)
- - [Daily Authority: 💻 Microsoft’s modular Windows](https://www.androidauthority.com/daily-authority-march-30-2023-3307545/)<!-- TECH:END -->
+ - [This Blood Test Targets 50 Types of Cancer](https://www.wired.com/story/wired-health-grail-galleri-harpal-kumar-cancer-blood-test/)
+ - [Review: We Put ChatGPT-4, Bing Chat, and Bard to the Test](https://www.wired.com/story/review-ai-chatbots-bing-bard-chat-gpt/)
+ - [Crypto Bankruptcy Markets Are Thriving After FTX&#39;s Collapse](https://www.wired.com/story/crypto-bankruptcy-markets-thriving-ftx-collapse/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
