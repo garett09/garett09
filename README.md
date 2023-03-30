@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every parent knows this feeling](http://9gag.com/gag/a9q6goK)
- - 🚯 [This man spent his life savings on a $26,000 Hellcat and then found it was a renta](http://9gag.com/gag/aNw9bZw)
- - 🚯 [Does Utopia Exist?!](http://9gag.com/gag/a9q6G31)<!-- MEMES:END -->
+ - 🚖 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
+ - 🚯 [Very underrated film](http://9gag.com/gag/aKEA07g)
+ - 🚯 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)<!-- MEMES:END -->
 
 --- 
 
