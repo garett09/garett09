@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Very underrated film](http://9gag.com/gag/aKEA07g)
- - 🚯 [Keep trying please !](http://9gag.com/gag/aGEn4Q5)
- - 🚯 [Ke$ha tries for a hug from Jerry Seinfeld](http://9gag.com/gag/aeQ18qO)<!-- MEMES:END -->
+ - 🚯 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
+ - 🚯 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)<!-- MEMES:END -->
 
 --- 
 
