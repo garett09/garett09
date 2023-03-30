@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic&#39;s big event set includes unlikely team-ups and the return of planechase](https://www.pcgamer.com/magics-big-event-set-includes-unlikely-team-ups-and-the-return-of-planechase)
- - [Park Beyond, the gravity-defying park sim, gets beta ahead of June release](https://www.pcgamer.com/park-beyond-the-gravity-defying-park-sim-gets-beta-ahead-of-june-release)
- - [Resident Evil 4 Makes EXCELLENT Use Of The PS5&#39;s Adaptive Triggers](https://kotaku.com/resident-evil-4-remake-adaptive-triggers-ps5-dualsense-1850281414)<!-- GAME:END -->
+ - [Wordle hint and answer #649: Thursday, March 30](https://www.pcgamer.com/wordle-hint-answer-today-649-march-30)
+ - [Naughty Dog investigating TLOU&#39;s poor PC performance](https://www.pcgamer.com/naughty-dog-investigating-tlous-poor-pc-performance)
+ - [Magic&#39;s big event set includes unlikely team-ups and the return of planechase](https://www.pcgamer.com/magics-big-event-set-includes-unlikely-team-ups-and-the-return-of-planechase)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
