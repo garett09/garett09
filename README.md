@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happened to me too](http://9gag.com/gag/aBdLKEO)
- - 🚯 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
- - 🚯 [My Honda is also a mercedes](http://9gag.com/gag/a5XBdLG)<!-- MEMES:END -->
+ - 🚖 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
+ - 🚯 [Happened to me too](http://9gag.com/gag/aBdLKEO)
+ - 🚯 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)<!-- MEMES:END -->
 
 --- 
 
