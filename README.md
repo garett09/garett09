@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple&#39;s standalone classical music app fixes the genre&#39;s biggest problem of search and discovery with better metadata created by Dutch company Primephonic &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230331/p1#a230331p1)
- - [Japan plans to restrict exports of 23 types of chip manufacturing equipment starting July 2023, amid the US push to curb China&#39;s ability to make advanced chips &lpar;Reuters&rpar;](http://www.techmeme.com/230330/p39#a230330p39)
- - [Twitter launches its Verified Organizations program, which allows companies to get a verified checkmark for $1,000/month and their affiliates for $50/month each &lpar;Twitter&rpar;](http://www.techmeme.com/230330/p38#a230330p38)<!-- TECH:END -->
+ - [Apple&#39;s iOS 16.4: Security Updates Are Better Than a Goose Emoji](https://www.wired.com/story/ios-16-4-outlook-android-critical-update-march-2023/)
+ - [Paris Fell in Love With Escooters. Now It Might Ban Them](https://www.wired.com/story/paris-escooter-ban/)
+ - [How Do People Live in Orbit? Ask the Space Archeologists](https://www.wired.com/story/space-archeology-international-space-station/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
