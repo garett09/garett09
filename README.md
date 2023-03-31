@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes.](http://9gag.com/gag/anznYY0)
- - 🚯 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)
- - 🚯 [Glascow scotland](http://9gag.com/gag/ago1R8q)<!-- MEMES:END -->
+ - 🚖 [Happened to me too](http://9gag.com/gag/aBdLKEO)
+ - 🚯 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
+ - 🚯 [My Honda is also a mercedes](http://9gag.com/gag/a5XBdLG)<!-- MEMES:END -->
 
 --- 
 
