@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)
- - 🚯 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
- - 🚯 [Wait\u2026](http://9gag.com/gag/a6qXv2L)<!-- MEMES:END -->
+ - 🚖 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
+ - 🚯 [Exposed](http://9gag.com/gag/aEq6Lzx)
+ - 🚯 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)<!-- MEMES:END -->
 
 --- 
 
