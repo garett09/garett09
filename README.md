@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM ditching CarPlay &amp; Android Auto for Google-built infotainment system](https://appleinsider.com/articles/23/03/31/gm-ditching-carplay-android-auto-for-google-built-infotainment-system?utm_medium=rss)
- - [7 Best Portable External Storage Drives &lpar;2023&rpar;: SSDs, Hard Drives, Rugged](https://www.wired.com/story/best-portable-external-storage-drives/)
- - [China launches a cybersecurity review of products sold in the country by US memory chip manufacturer Micron, citing national security risks &lpar;Reuters&rpar;](http://www.techmeme.com/230331/p9#a230331p9)<!-- TECH:END -->
+ - [Google restructures virtual assistant team to focus more on Bard](https://www.androidauthority.com/google-virtual-assistant-3308250/)
+ - [Amazon to adapt Aaron Foley’s Boys Come First as a new series](https://www.theverge.com/2023/3/31/23664595/amazon-boys-come-first-aaron-foley-chuck-hayward)
+ - [Agreena, which uses AI-based monitoring by satellite imagery to let farmers earn carbon credits, raised a &amp;euro;46M Series B, after a &amp;euro;20M Series A in 2022 &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/230331/p10#a230331p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
