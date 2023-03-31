@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Block says 44M of its 51M+ Cash App MAUs were verified via its IDV program as of December 2022, after Hindenburg claimed Block overstated user numbers &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/230330/p34#a230330p34)
- - [Best Air Purifier Deals: Save on Coway, Blueair, Shark and More     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)
- - [Google Photos update brings new movie editor feature to Chromebooks](https://www.androidauthority.com/google-photos-chromebook-3307860/)<!-- TECH:END -->
+ - [Y’all, this laptop is too much](https://www.theverge.com/2023/3/30/23660652/asus-rog-flow-z13-acronym-gaming-laptop-tablet-review)
+ - [Block knows you have questions, and it doesn’t have good answers](https://www.theverge.com/2023/3/30/23663997/block-hindenburg-fraud-statement)
+ - [South Korea passes the K-Chips Act to boost the country&#39;s semiconductor industry by increasing tax credits for companies investing in manufacturing facilities &lpar;Bloomberg&rpar;](http://www.techmeme.com/230330/p35#a230330p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
