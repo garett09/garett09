@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeon &amp; Dragons&#39; Justice Smith Dishes On Movie Cast&#39;s Playful Chaos](https://kotaku.com/dungeons-dragons-honor-among-thieves-justice-smith-1850285504)
- - [Creed: Rise to Glory – Championship Edition packs a punch of new content on PS VR2, out April 4](https://blog.playstation.com/2023/03/31/creed-rise-to-glory-championship-edition-packs-a-punch-of-new-content-on-ps-vr2-out-april-4/)
- - [Genshin Impact’s 3.6 patch might answer long-lost questions about its world](https://www.polygon.com/23664591/genshin-impact-3-6-patch-kaveh-baizhu-hoyoverse)<!-- GAME:END -->
+ - [Keanu Reeves Celebrates John Wick Stunt Actor&#39;s Impressive Death Counts](https://kotaku.com/keanu-reeves-john-wick-chapter-4-stunt-actors-1850287990)
+ - [Pokémon Scarlet and Violet Samurott 7-star Tera Raid guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23663456/samurott-7-star-tera-raid-annihilape-koraidon-corviknight-build)
+ - [Share of the Week: Tchia](https://blog.playstation.com/2023/03/31/share-of-the-week-tchia/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
