@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When Demon Slayer season 3 comes out, based on everything we know](https://www.polygon.com/23032963/demon-slayer-season-3-everything-we-know)
- - [Every new movie and show coming to Disney Plus in April](https://www.polygon.com/23653356/disney-plus-new-movies-tv-watch-april-2023)
- - [Windy Meadow will take players back to the world of one of 2022&#39;s best narrative adventures](https://www.pcgamer.com/windy-meadow-will-take-players-back-to-the-world-of-one-of-2022s-best-narrative-adventures)<!-- GAME:END -->
+ - [Farewell to E3 as we knew it, the Super Bowl of our video game fandom](https://www.polygon.com/23664991/e3-2023-canceled-tribute)
+ - [Overwatch 2&#39;s Unhinged April Fools Patch Notes Will Activate Your Fight Or Flight Response](https://kotaku.com/overwatch-2-april-fools-patch-notes-season-4-update-1850288970)
+ - [Resident Evil 4 Ramon Salazar boss fight](https://www.polygon.com/resident-evil-4-remake-guides/23664580/ramon-salazar-boss-fight-ancient-chantry-chapter-12)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
