@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Forza Horizon 5 Rally Racing, MLB The Show 23, and More New Releases](https://news.xbox.com/en-us/2023/03/31/this-week-on-xbox-forza-horizon-5-rally-racing-mlb-the-show-23-and-more/)
- - [New Official Sonic Game Straight Up Kills The Bastard](https://kotaku.com/sonic-death-dies-april-fools-sega-steam-pc-gaming-valve-1850289287)
- - [Every FromSoftware Soulslike Ranked From Worst To Best](https://kotaku.com/fromsoftware-soulslike-ranked-elden-ring-dark-souls-ps5-1850289282)<!-- GAME:END -->
+ - [These developers want you to steal The Great Gatsby](https://www.polygon.com/videos/23665239/the-great-gatsby-copyright-games)
+ - [These Great Fortnite Creative Maps Show Us What&#39;s Possible](https://kotaku.com/unreal-editor-fortnite-creative-epic-uefn-space-inside-1850289176)
+ - [Dying Marvel&#39;s Avengers Game Unlocks Nearly Everything For Free](https://kotaku.com/marvels-avengers-final-update-free-cosmetics-dead-game-1850289415)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
