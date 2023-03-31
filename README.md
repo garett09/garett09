@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jack Ma remains active in deciding Alibaba&#39;s strategy and engineered the split from overseas by telling executives it would make the company nimble &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230331/p5#a230331p5)
- - [You told us: You’re definitely interested in a tri-folding foldable phone](https://www.androidauthority.com/buy-tri-folding-foldable-phone-poll-results-3308163/)
- - [&#39;Tetris&#39; Is a Fun Ride, but It&#39;s Got a Few Missing Pieces](https://www.wired.com/story/tetris-movie-review/)<!-- TECH:END -->
+ - [AirPods Pro 2 vs Nothing Ear &lpar;2&rpar; - compared](https://appleinsider.com/inside/airpods-pro-2/vs/airpods-pro-2-vs-nothing-ear-2---compared?utm_medium=rss)
+ - [The NYT, LAT, and WaPo won&#39;t buy Twitter Blue; NYT, LAT, BuzzFeed, and Politico won&#39;t reimburse reporters for it, but Semafor and some other small outlets will &lpar;BuzzFeed News&rpar;](http://www.techmeme.com/230331/p7#a230331p7)
+ - [The Internet Archive’s Literary Civil War](https://www.wired.com/story/internet-archive-copyright-library/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
