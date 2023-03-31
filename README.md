@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t Judge a Book by it&#39;s Cover ... Even Your Own](http://9gag.com/gag/anzRp05)
- - 🚯 [Happened to me too](http://9gag.com/gag/aBdLKEO)
- - 🚯 [At least I got something, I guess](http://9gag.com/gag/aPgPyAg)<!-- MEMES:END -->
+ - 🚖 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
+ - 🚯 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
+ - 🚯 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)<!-- MEMES:END -->
 
 --- 
 
