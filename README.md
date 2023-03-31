@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Keanu Reeves Celebrates John Wick Stunt Actor&#39;s Impressive Death Counts](https://kotaku.com/keanu-reeves-john-wick-chapter-4-stunt-actors-1850287990)
- - [Pokémon Scarlet and Violet Samurott 7-star Tera Raid guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23663456/samurott-7-star-tera-raid-annihilape-koraidon-corviknight-build)
- - [Share of the Week: Tchia](https://blog.playstation.com/2023/03/31/share-of-the-week-tchia/)<!-- GAME:END -->
+ - [Adam Sandler’s Netflix comedies are slowly getting better](https://www.polygon.com/23663739/adam-sandler-murder-mystery-2-netflix-original-comedies)
+ - [CD Projekt boss confirms it&#39;s starting over with multiplayer Witcher game: &#39;We don&#39;t want to carry on with projects that we are not aligned with&#39;](https://www.pcgamer.com/cd-projekt-boss-confirms-its-starting-over-with-multiplayer-witcher-game-we-dont-want-to-carry-on-with-projects-that-we-are-not-aligned-with)
+ - [Honor Among Thieves’ directors explain where and why they broke the D&amp;D rules](https://www.polygon.com/23664760/honor-among-thieves-directors-interview-dungeons-and-dragons-dnd-rules)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
