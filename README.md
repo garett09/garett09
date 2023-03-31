@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 2 vs Nothing Ear &lpar;2&rpar; - compared](https://appleinsider.com/inside/airpods-pro-2/vs/airpods-pro-2-vs-nothing-ear-2---compared?utm_medium=rss)
- - [The NYT, LAT, and WaPo won&#39;t buy Twitter Blue; NYT, LAT, BuzzFeed, and Politico won&#39;t reimburse reporters for it, but Semafor and some other small outlets will &lpar;BuzzFeed News&rpar;](http://www.techmeme.com/230331/p7#a230331p7)
- - [The Internet Archive’s Literary Civil War](https://www.wired.com/story/internet-archive-copyright-library/)<!-- TECH:END -->
+ - [How to Back Up Your Digital Life &lpar;2023&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)
+ - [Deals: Chromebooks as low as $50, Dell USB-C monitor for $299, Apple Watch Ultra $659, more](https://appleinsider.com/articles/23/03/31/deals-chromebooks-as-low-as-50-dell-usb-c-monitor-for-299-apple-watch-ultra-659-more?utm_medium=rss)
+ - [Apple Fifth Avenue celebrates Apple Music Classical with special Today at Apple performance](https://appleinsider.com/articles/23/03/31/apple-fifth-avenue-celebrates-apple-music-classical-with-special-today-at-apple-performance?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
