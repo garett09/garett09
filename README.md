@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
- - 🚯 [Emotional damage](http://9gag.com/gag/aBdLQ6P)
- - 🚯 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)<!-- MEMES:END -->
+ - 🚖 [Now she can practice riding all she wants](http://9gag.com/gag/a7qeKoe)
+ - 🚯 [I\u2019m not coming back with both of my kidneys am i](http://9gag.com/gag/aeQO06p)
+ - 🚯 [Manager helps his employee get a raise](http://9gag.com/gag/a7qeKXA)<!-- MEMES:END -->
 
 --- 
 
