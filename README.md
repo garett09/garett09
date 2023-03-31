@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC and car modding scenes have a lot in common and I&#39;ve found just the PCs to prove it](https://www.pcgamer.com/the-pc-and-car-modding-scenes-have-a-lot-in-common-and-ive-found-just-the-pcs-to-prove-it)
- - [Get up to $150 off in Vertagear&#39;s gaming chair sale](https://www.pcgamer.com/get-up-to-dollar150-off-in-vertagears-gaming-chair-sale)
- - [Wordle hint and answer #650: Friday, March 31](https://www.pcgamer.com/wordle-hint-answer-today-650-march-31)<!-- GAME:END -->
+ - [How to get refined wood in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-refined-wood)
+ - [Players collectively spent over 7000 years in Diablo 4 in its two beta weekends](https://www.pcgamer.com/players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends)
+ - [All Genshin Impact codes from the version 3.6 livestream](https://www.pcgamer.com/genshin-impact-codes-3-6-livestream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
