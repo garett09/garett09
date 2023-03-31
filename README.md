@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Will Smith has lost it. Now he&#39;s just Will smh](http://9gag.com/gag/aBd67P1)
- - 🚯 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
- - 🚯 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)<!-- MEMES:END -->
+ - 🚖 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
+ - 🚯 [Emotional damage](http://9gag.com/gag/aBdLQ6P)
+ - 🚯 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)<!-- MEMES:END -->
 
 --- 
 
