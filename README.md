@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now she can practice riding all she wants](http://9gag.com/gag/a7qeKoe)
- - 🚯 [I\u2019m not coming back with both of my kidneys am i](http://9gag.com/gag/aeQO06p)
- - 🚯 [Manager helps his employee get a raise](http://9gag.com/gag/a7qeKXA)<!-- MEMES:END -->
+ - 🚖 [Yes.](http://9gag.com/gag/anznYY0)
+ - 🚯 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)
+ - 🚯 [Glascow scotland](http://9gag.com/gag/ago1R8q)<!-- MEMES:END -->
 
 --- 
 
