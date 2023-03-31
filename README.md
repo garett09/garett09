@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get refined wood in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-refined-wood)
- - [Players collectively spent over 7000 years in Diablo 4 in its two beta weekends](https://www.pcgamer.com/players-collectively-spent-over-7000-years-in-diablo-4-in-its-two-beta-weekends)
- - [All Genshin Impact codes from the version 3.6 livestream](https://www.pcgamer.com/genshin-impact-codes-3-6-livestream)<!-- GAME:END -->
+ - [Vampire Survivors’ Second DLC Weaves an Enchanted Fairy Tale On April 13](https://news.xbox.com/en-us/2023/03/31/vampire-survivors-second-dlc-april-13/)
+ - [A PS VR2 price cut &#39;will be needed to avoid a complete disaster&#39; after reportedly slow launch](https://www.pcgamer.com/a-ps-vr2-price-cut-will-be-needed-to-avoid-a-complete-disaster-after-reportedly-slow-launch)
+ - [How to get refined wood in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-refined-wood)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
