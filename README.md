@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors’ Second DLC Weaves an Enchanted Fairy Tale On April 13](https://news.xbox.com/en-us/2023/03/31/vampire-survivors-second-dlc-april-13/)
- - [A PS VR2 price cut &#39;will be needed to avoid a complete disaster&#39; after reportedly slow launch](https://www.pcgamer.com/a-ps-vr2-price-cut-will-be-needed-to-avoid-a-complete-disaster-after-reportedly-slow-launch)
- - [How to get refined wood in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-refined-wood)<!-- GAME:END -->
+ - [Vampire: The Masquerade – Bloodlines 2 can successfully come back from the dead and turn me if it delivers 3 key things](https://www.pcgamer.com/vampire-the-masquerade-bloodlines-2-can-successfully-come-back-from-the-dead-and-turn-me-if-it-delivers-3-key-things)
+ - [Next Week on Xbox: New Games for April 3 to 7](https://news.xbox.com/en-us/2023/03/31/next-week-on-xbox-new-games-for-april-3-to-7/)
+ - [Genshin Impact patch 3.6 livestream codes](https://www.polygon.com/genshin-impact-guides/23663280/patch-3-6-livestream-primogem-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
