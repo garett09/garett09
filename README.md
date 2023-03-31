@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wonder what kind of punishment he would get.](http://9gag.com/gag/ay247Eb)
- - 🚯 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
- - 🚯 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)<!-- MEMES:END -->
+ - 🚖 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
+ - 🚯 [Too soon for season 2](http://9gag.com/gag/ago1R1W)
+ - 🚯 [Cop didn&#39;t say no](http://9gag.com/gag/armAvNd)<!-- MEMES:END -->
 
 --- 
 
