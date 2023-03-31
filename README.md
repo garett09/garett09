@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anybody remember this game?](http://9gag.com/gag/a2K8EWO)
- - 🚯 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
- - 🚯 [Exposed](http://9gag.com/gag/aEq6Lzx)<!-- MEMES:END -->
+ - 🚖 [Doggo got scammed](http://9gag.com/gag/aGEnPQK)
+ - 🚯 [Happened to me too](http://9gag.com/gag/aBdLKEO)
+ - 🚯 [Witty title goes here](http://9gag.com/gag/aKE9zdg)<!-- MEMES:END -->
 
 --- 
 
