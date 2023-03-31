@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox will now hide advertisements from users 13 and younger, nearly a year after nonprofit Truth in Advertising filed an FTC complaint against it &lpar;Jeffrey Rousseau/GamesIndustry.biz&rpar;](http://www.techmeme.com/230331/p12#a230331p12)
- - [GM is cutting off access to Apple CarPlay and Android Auto for its future EVs](https://www.theverge.com/2023/3/31/23664814/gm-ev-restrict-apple-carplay-android-auto-google)
- - [TikTok Troubles Continue as Half of Americans Support a Ban of the App     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-troubles-continue-as-half-of-americans-support-a-ban-of-the-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter open sources a portion of its code on GitHub, including its algorithm for recommending tweets in For You but excluding its ad recommendation algorithm &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230331/p15#a230331p15)
+ - [The 39 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
