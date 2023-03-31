@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Adam Sandler’s Netflix comedies are slowly getting better](https://www.polygon.com/23663739/adam-sandler-murder-mystery-2-netflix-original-comedies)
- - [CD Projekt boss confirms it&#39;s starting over with multiplayer Witcher game: &#39;We don&#39;t want to carry on with projects that we are not aligned with&#39;](https://www.pcgamer.com/cd-projekt-boss-confirms-its-starting-over-with-multiplayer-witcher-game-we-dont-want-to-carry-on-with-projects-that-we-are-not-aligned-with)
- - [Honor Among Thieves’ directors explain where and why they broke the D&amp;D rules](https://www.polygon.com/23664760/honor-among-thieves-directors-interview-dungeons-and-dragons-dnd-rules)<!-- GAME:END -->
+ - [When Demon Slayer season 3 comes out, based on everything we know](https://www.polygon.com/23032963/demon-slayer-season-3-everything-we-know)
+ - [Every new movie and show coming to Disney Plus in April](https://www.polygon.com/23653356/disney-plus-new-movies-tv-watch-april-2023)
+ - [Windy Meadow will take players back to the world of one of 2022&#39;s best narrative adventures](https://www.pcgamer.com/windy-meadow-will-take-players-back-to-the-world-of-one-of-2022s-best-narrative-adventures)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
