@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anybody remember this game?](http://9gag.com/gag/a2K8EWO)
- - 🚯 [This kid is going places](http://9gag.com/gag/a9q6QRj)
- - 🚯 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)<!-- MEMES:END -->
+ - 🚖 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
+ - 🚯 [\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/a8q6PAQ)
+ - 🚯 [Iraq war veteran confronts George W. Bush](http://9gag.com/gag/aBd6q31)<!-- MEMES:END -->
 
 --- 
 
