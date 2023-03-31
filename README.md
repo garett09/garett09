@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Solid-state iPhone 15 Pro buttons will work with gloves and cases](https://appleinsider.com/articles/23/03/31/solid-state-iphone-15-pro-buttons-will-work-with-gloves-and-cases?utm_medium=rss)
  - [Daily Authority: 🕶️ Microsoft’s stealing Google’s cool](https://www.androidauthority.com/daily-authority-march-31-2023-3308037/)
- - [You can now try the Galaxy S23 on your iPhone &lpar;kind of&rpar;](https://www.androidauthority.com/samsung-try-galaxy-s23-iphone-3308086/)
- - [Vivo X Fold 2 looks slim in unboxing video: But will it get a global launch?](https://www.androidauthority.com/vivo-x-fold-2-unboxing-video-3308036/)<!-- TECH:END -->
+ - [You can now try the Galaxy S23 on your iPhone &lpar;kind of&rpar;](https://www.androidauthority.com/samsung-try-galaxy-s23-iphone-3308086/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
