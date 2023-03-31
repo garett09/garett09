@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oscars considering rule change to lock out Apple &amp; Netflix](https://appleinsider.com/articles/23/03/31/oscars-considering-rule-change-to-lock-out-apple-netflix?utm_medium=rss)
- - [Google says it has updated Bard by incorporating some of its PaLm models to better answer math and logic questions, with coding capabilities coming soon &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230331/p11#a230331p11)
- - [Apple Gangnam store opens in South Korea with K-pop band](https://appleinsider.com/articles/23/03/31/apple-gangnam-store-opens-in-south-korea-with-k-pop-band?utm_medium=rss)<!-- TECH:END -->
+ - [Roblox will now hide advertisements from users 13 and younger, nearly a year after nonprofit Truth in Advertising filed an FTC complaint against it &lpar;Jeffrey Rousseau/GamesIndustry.biz&rpar;](http://www.techmeme.com/230331/p12#a230331p12)
+ - [GM is cutting off access to Apple CarPlay and Android Auto for its future EVs](https://www.theverge.com/2023/3/31/23664814/gm-ev-restrict-apple-carplay-android-auto-google)
+ - [TikTok Troubles Continue as Half of Americans Support a Ban of the App     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-troubles-continue-as-half-of-americans-support-a-ban-of-the-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
