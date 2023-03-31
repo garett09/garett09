@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LeBron James, William Shatner, Seinfeld actor Jason Alexander, and some other celebrities with millions of followers say they won&#39;t pay for Twitter Blue &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230331/p20#a230331p20)
- - [Marvel’s Secret Invasion series actually sounds kind of fascinating](https://www.theverge.com/2023/3/31/23665128/marvel-secret-invasion-disney-plus-skrulls)
- - [The best Boost Mobile deals: Get a free Galaxy A23 5G when you switch](https://www.androidauthority.com/best-boost-mobile-deals-839972/)<!-- TECH:END -->
+ - [Google Drive implements new file limit that’s locking some users out](https://www.androidauthority.com/google-drive-file-limit-3308402/)
+ - [This hoverboard is being recalled after a fire that killed two children](https://www.theverge.com/2023/3/31/23665249/hoverboard-recall-jetson-rogue-cspc-recall-fire-risk)
+ - [LeBron James, William Shatner, Seinfeld actor Jason Alexander, and some other celebrities with millions of followers say they won&#39;t pay for Twitter Blue &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230331/p20#a230331p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
