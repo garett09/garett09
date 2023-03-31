@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Married Life](http://9gag.com/gag/aeQ1vNq)
- - 🚯 [............Post...........](http://9gag.com/gag/aQEQ6A8)
- - 🚯 [And you know that is exactly what would happen. It is very easy to recognize faults in others, much harder to recognize them in yourself.](http://9gag.com/gag/a6q9m4e)<!-- MEMES:END -->
+ - 🚖 [Wonder what kind of punishment he would get.](http://9gag.com/gag/ay247Eb)
+ - 🚯 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
+ - 🚯 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)<!-- MEMES:END -->
 
 --- 
 
