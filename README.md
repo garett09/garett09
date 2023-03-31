@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google restructures virtual assistant team to focus more on Bard](https://www.androidauthority.com/google-virtual-assistant-3308250/)
- - [Amazon to adapt Aaron Foley’s Boys Come First as a new series](https://www.theverge.com/2023/3/31/23664595/amazon-boys-come-first-aaron-foley-chuck-hayward)
- - [Agreena, which uses AI-based monitoring by satellite imagery to let farmers earn carbon credits, raised a &amp;euro;46M Series B, after a &amp;euro;20M Series A in 2022 &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/230331/p10#a230331p10)<!-- TECH:END -->
+ - [Oscars considering rule change to lock out Apple &amp; Netflix](https://appleinsider.com/articles/23/03/31/oscars-considering-rule-change-to-lock-out-apple-netflix?utm_medium=rss)
+ - [Google says it has updated Bard by incorporating some of its PaLm models to better answer math and logic questions, with coding capabilities coming soon &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230331/p11#a230331p11)
+ - [Apple Gangnam store opens in South Korea with K-pop band](https://appleinsider.com/articles/23/03/31/apple-gangnam-store-opens-in-south-korea-with-k-pop-band?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
