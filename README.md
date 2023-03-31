@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Sam Altman, whose social-minded capitalism may make him the ideal CEO for OpenAI as some say he&#39;s too commercially minded to lead a tech revolution &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230331/p17#a230331p17)
- - [This is what a plant sounds like when it’s stressed](https://www.theverge.com/2023/3/31/23664767/plant-sounds-stress-tomato-tobacco-research)
- - [The ‘Truckla’ DIY Tesla pickup truck is still trucking](https://www.theverge.com/2023/3/31/23664748/truckla-tesla-model-3-pickup-truck-update-simone-giertz-video)<!-- TECH:END -->
+ - [UK&#39;s CMA drops a probe into Apple&#39;s dominance in mobile browsers and cloud gaming after Apple successfully argued the CMA waited too long to launch the probe &lpar;Reuters&rpar;](http://www.techmeme.com/230331/p19#a230331p19)
+ - [Seattle-based crypto exchange Bittrex shuts down its US operations, saying funds should be withdrawn by April 30, but will continue to operate Bittrex Global &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/230331/p18#a230331p18)
+ - [A profile of Sam Altman, whose social-minded capitalism may make him the ideal CEO for OpenAI as some say he&#39;s too commercially minded to lead a tech revolution &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230331/p17#a230331p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
