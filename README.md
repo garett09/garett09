@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Undergoing A Big Shake-Up Right Now](https://kotaku.com/marvel-victoria-alonso-ike-perlmutter-jonathan-majors-1850289779)
- - [A reality show contestant tried to sneakily suggest Elden Ring baby names to his bride to be, but he can&#39;t fool us](https://www.pcgamer.com/a-reality-show-contestant-tried-to-sneakily-suggest-elden-ring-baby-names-to-his-bride-to-be-but-he-cant-fool-us)
- - [Resident Evil 4 Chapter 13: Wharf to Incubation Lab](https://www.polygon.com/resident-evil-4-remake-guides/23663896/resident-evil-4-chapter-13-wharf-to-incubation-lab)<!-- GAME:END -->
+ - [The Kaguya-sama: Love Is War movie turns a happy ending into a frantic beginning](https://www.polygon.com/23599780/kaguya-sama-love-is-war-first-kiss-that-never-ends-review-anime)
+ - [The Power really reminds us how much society sucks for women](https://www.polygon.com/23665085/the-power-prime-video-review-episode)
+ - [Can you tell Hag&#39;s End from Hag Rock? Prove it with this Skyrim Geoguessr-style game](https://www.pcgamer.com/can-you-tell-hags-end-from-hag-rock-prove-it-with-this-skyrim-geoguessr-style-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
