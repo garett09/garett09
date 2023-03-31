@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cop didn&#39;t say no](http://9gag.com/gag/armAvNd)
- - 🚯 [In 1986 Ohio, 1.5 million balloons were released during a festival but ended up being a disaster.](http://9gag.com/gag/a9q6xro)
- - 🚯 [Very underrated film](http://9gag.com/gag/aKEA07g)<!-- MEMES:END -->
+ - 🚖 [Anybody remember this game?](http://9gag.com/gag/a2K8EWO)
+ - 🚯 [This kid is going places](http://9gag.com/gag/a9q6QRj)
+ - 🚯 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)<!-- MEMES:END -->
 
 --- 
 
