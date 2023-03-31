@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cop didn&#39;t say no](http://9gag.com/gag/armAvNd)
- - 🚯 [Used in the most disgusting and mean way possible](http://9gag.com/gag/aOx4qrD)
- - 🚯 [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)<!-- MEMES:END -->
+ - 🚖 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)
+ - 🚯 [Cop didn&#39;t say no](http://9gag.com/gag/armAvNd)
+ - 🚯 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)<!-- MEMES:END -->
 
 --- 
 
