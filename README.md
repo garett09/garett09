@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
- - 🚯 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
- - 🚯 [Glascow scotland](http://9gag.com/gag/ago1R8q)<!-- MEMES:END -->
+ - 🚖 [Cop didn&#39;t say no](http://9gag.com/gag/armAvNd)
+ - 🚯 [Used in the most disgusting and mean way possible](http://9gag.com/gag/aOx4qrD)
+ - 🚯 [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)<!-- MEMES:END -->
 
 --- 
 
