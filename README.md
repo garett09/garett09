@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solid-state iPhone 15 Pro buttons will work with gloves and cases](https://appleinsider.com/articles/23/03/31/solid-state-iphone-15-pro-buttons-will-work-with-gloves-and-cases?utm_medium=rss)
- - [Daily Authority: 🕶️ Microsoft’s stealing Google’s cool](https://www.androidauthority.com/daily-authority-march-31-2023-3308037/)
- - [You can now try the Galaxy S23 on your iPhone &lpar;kind of&rpar;](https://www.androidauthority.com/samsung-try-galaxy-s23-iphone-3308086/)<!-- TECH:END -->
+ - [‘Dungeons &amp; Dragons: Honor Among Thieves’ Plays Like Your Best D&amp;D Game](https://www.wired.com/story/dungeons-and-dragons-honor-amongst-thieves-review/)
+ - [Virgin Orbit to cease all operations and lay off 85 percent of its workforce](https://www.theverge.com/2023/3/31/23664437/virgin-orbit-layoffs-cease-operations-satellite-launch)
+ - [Smart AirTags lead cops to dumb thief wearing victim&#39;s socks](https://appleinsider.com/articles/23/03/31/smart-airtags-lead-cops-to-dumb-thief-wearing-victims-socks?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
