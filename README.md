@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter open sources a portion of its code on GitHub, including its algorithm for recommending tweets in For You but excluding its ad recommendation algorithm &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230331/p15#a230331p15)
- - [The 39 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [A profile of Sam Altman, whose social-minded capitalism may make him the ideal CEO for OpenAI as some say he&#39;s too commercially minded to lead a tech revolution &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230331/p17#a230331p17)
+ - [This is what a plant sounds like when it’s stressed](https://www.theverge.com/2023/3/31/23664767/plant-sounds-stress-tomato-tobacco-research)
+ - [The ‘Truckla’ DIY Tesla pickup truck is still trucking](https://www.theverge.com/2023/3/31/23664748/truckla-tesla-model-3-pickup-truck-update-simone-giertz-video)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
