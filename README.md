@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
- - 🚯 [\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/a8q6PAQ)
- - 🚯 [Iraq war veteran confronts George W. Bush](http://9gag.com/gag/aBd6q31)<!-- MEMES:END -->
+ - 🚖 [Married Life](http://9gag.com/gag/aeQ1vNq)
+ - 🚯 [............Post...........](http://9gag.com/gag/aQEQ6A8)
+ - 🚯 [And you know that is exactly what would happen. It is very easy to recognize faults in others, much harder to recognize them in yourself.](http://9gag.com/gag/a6q9m4e)<!-- MEMES:END -->
 
 --- 
 
