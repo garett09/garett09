@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)
- - 🚯 [Exposed](http://9gag.com/gag/aEq6Lzx)
- - 🚯 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)<!-- MEMES:END -->
+ - 🚖 [Exposed](http://9gag.com/gag/aEq6Lzx)
+ - 🚯 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
+ - 🚯 [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)<!-- MEMES:END -->
 
 --- 
 
