@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Back Up Your Digital Life &lpar;2023&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)
- - [Deals: Chromebooks as low as $50, Dell USB-C monitor for $299, Apple Watch Ultra $659, more](https://appleinsider.com/articles/23/03/31/deals-chromebooks-as-low-as-50-dell-usb-c-monitor-for-299-apple-watch-ultra-659-more?utm_medium=rss)
- - [Apple Fifth Avenue celebrates Apple Music Classical with special Today at Apple performance](https://appleinsider.com/articles/23/03/31/apple-fifth-avenue-celebrates-apple-music-classical-with-special-today-at-apple-performance?utm_medium=rss)<!-- TECH:END -->
+ - [GM ditching CarPlay &amp; Android Auto for Google-built infotainment system](https://appleinsider.com/articles/23/03/31/gm-ditching-carplay-android-auto-for-google-built-infotainment-system?utm_medium=rss)
+ - [7 Best Portable External Storage Drives &lpar;2023&rpar;: SSDs, Hard Drives, Rugged](https://www.wired.com/story/best-portable-external-storage-drives/)
+ - [China launches a cybersecurity review of products sold in the country by US memory chip manufacturer Micron, citing national security risks &lpar;Reuters&rpar;](http://www.techmeme.com/230331/p9#a230331p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
