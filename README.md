@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire: The Masquerade – Bloodlines 2 can successfully come back from the dead and turn me if it delivers 3 key things](https://www.pcgamer.com/vampire-the-masquerade-bloodlines-2-can-successfully-come-back-from-the-dead-and-turn-me-if-it-delivers-3-key-things)
- - [Next Week on Xbox: New Games for April 3 to 7](https://news.xbox.com/en-us/2023/03/31/next-week-on-xbox-new-games-for-april-3-to-7/)
- - [Genshin Impact patch 3.6 livestream codes](https://www.polygon.com/genshin-impact-guides/23663280/patch-3-6-livestream-primogem-codes)<!-- GAME:END -->
+ - [Dungeon &amp; Dragons&#39; Justice Smith Dishes On Movie Cast&#39;s Playful Chaos](https://kotaku.com/dungeons-dragons-honor-among-thieves-justice-smith-1850285504)
+ - [Creed: Rise to Glory – Championship Edition packs a punch of new content on PS VR2, out April 4](https://blog.playstation.com/2023/03/31/creed-rise-to-glory-championship-edition-packs-a-punch-of-new-content-on-ps-vr2-out-april-4/)
+ - [Genshin Impact’s 3.6 patch might answer long-lost questions about its world](https://www.polygon.com/23664591/genshin-impact-3-6-patch-kaveh-baizhu-hoyoverse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
