@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Dungeons &amp; Dragons: Honor Among Thieves’ Plays Like Your Best D&amp;D Game](https://www.wired.com/story/dungeons-and-dragons-honor-amongst-thieves-review/)
- - [Virgin Orbit to cease all operations and lay off 85 percent of its workforce](https://www.theverge.com/2023/3/31/23664437/virgin-orbit-layoffs-cease-operations-satellite-launch)
- - [Smart AirTags lead cops to dumb thief wearing victim&#39;s socks](https://appleinsider.com/articles/23/03/31/smart-airtags-lead-cops-to-dumb-thief-wearing-victims-socks?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Jack Ma remains active in deciding Alibaba&#39;s strategy and engineered the split from overseas by telling executives it would make the company nimble &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230331/p5#a230331p5)
+ - [You told us: You’re definitely interested in a tri-folding foldable phone](https://www.androidauthority.com/buy-tri-folding-foldable-phone-poll-results-3308163/)
+ - [&#39;Tetris&#39; Is a Fun Ride, but It&#39;s Got a Few Missing Pieces](https://www.wired.com/story/tetris-movie-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
