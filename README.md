@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doggo got scammed](http://9gag.com/gag/aGEnPQK)
- - 🚯 [Happened to me too](http://9gag.com/gag/aBdLKEO)
- - 🚯 [Witty title goes here](http://9gag.com/gag/aKE9zdg)<!-- MEMES:END -->
+ - 🚖 [There\u2019s still faith in humanity](http://9gag.com/gag/avQ1N95)
+ - 🚯 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
+ - 🚯 [Anybody remember this game?](http://9gag.com/gag/a2K8EWO)<!-- MEMES:END -->
 
 --- 
 
