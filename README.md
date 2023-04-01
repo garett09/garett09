@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rose-tinted glasses need to come off as soon as possible to avoid heartbreak](http://9gag.com/gag/a4o6MyQ)
- - 🚯 [Traffic controller&rpar;](http://9gag.com/gag/aEqVwqG)
- - 🚯 [Always true](http://9gag.com/gag/a8qmd9d)<!-- MEMES:END -->
+ - 🚖 [Happened to me too](http://9gag.com/gag/aBdLKEO)
+ - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/ay24n58)
+ - 🚯 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)<!-- MEMES:END -->
 
 --- 
 
