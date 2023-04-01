@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation details how a Georgia man was wrongfully arrested based on a bad facial recognition match and other tech intended to make policing easier &lpar;New York Times&rpar;](http://www.techmeme.com/230401/p8#a230401p8)
  - [April Fools’ Day 2023: the best and cringiest pranks](https://www.theverge.com/2023/4/1/23665955/april-fools-day-2023-pranks-jokes-best-worst)
- - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)
- - [Sources: Lyft founders&#39; departures followed months of staff concerns as the company&#39;s market value fell 85% to under $3.5B in two years, while Uber fared better &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230401/p7#a230401p7)<!-- TECH:END -->
+ - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
