@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Emotional damage](http://9gag.com/gag/aBdLQ6P)
- - 🚯 [Car radar near a cemetery](http://9gag.com/gag/avQeL2q)
- - 🚯 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)<!-- MEMES:END -->
+ - 🚖 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)
+ - 🚯 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)
+ - 🚯 [First proper AI generated movie is tormenting, accurate and f**king scary!](http://9gag.com/gag/aQEQpPe)<!-- MEMES:END -->
 
 --- 
 
