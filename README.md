@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: FTC to file a complaint against Amazon alleging that Alexa-powered speakers collect data about kids under 13 without parental consent, violating COPPA &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/230331/p22#a230331p22)
- - [Q&amp;A with Epic Games CEO Tim Sweeney and EVP Sax Persson on an open metaverse, walled gardens, user-generated content, a metaverse programming language, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230331/p21#a230331p21)
- - [Best Mattress for Back Pain, According to Our Sleep Experts     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-back-pain/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter code behind For You tracks authors as either &quot;republican&quot;, &quot;democrat&quot;, &quot;power user&quot;, or &quot;elon&quot;, says it&#39;s to keep algo tweaks from harming any one group &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230331/p24#a230331p24)
+ - [Google confirms putting a limit of 5M files per Drive account, even for paid Google One plans, in February without telling users, who thought the cap was a bug &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230331/p23#a230331p23)
+ - [5 True Wireless Earbuds Worth Buying for Under $40     - CNET](https://www.cnet.com/tech/mobile/5-true-wireless-earbuds-under-40-worth-buying/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
