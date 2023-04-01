@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Kaguya-sama: Love Is War movie turns a happy ending into a frantic beginning](https://www.polygon.com/23599780/kaguya-sama-love-is-war-first-kiss-that-never-ends-review-anime)
- - [The Power really reminds us how much society sucks for women](https://www.polygon.com/23665085/the-power-prime-video-review-episode)
- - [Can you tell Hag&#39;s End from Hag Rock? Prove it with this Skyrim Geoguessr-style game](https://www.pcgamer.com/can-you-tell-hags-end-from-hag-rock-prove-it-with-this-skyrim-geoguessr-style-game)<!-- GAME:END -->
+ - [The men who created Tetris reflect on their bromance](https://www.polygon.com/23663656/tetris-creators-alexey-pajitnov-henk-rogers-history)
+ - [E3 2023 organizer says the big game companies were &#39;enthusiastic&#39; at first, but then the &#39;mood changed&#39;](https://www.pcgamer.com/e3-2023-organizer-says-the-big-game-companies-were-enthusiastic-at-first-but-then-the-mood-changed)
+ - [Ark 2 delayed until &#39;end of 2024&#39;](https://www.pcgamer.com/ark-2-delayed-until-end-of-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
