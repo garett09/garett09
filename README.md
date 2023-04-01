@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance had revenues of $80B+ in 2022, up 30% YoY, after growing 70% between 2020 and 2021; TikTok represented ~12% of total ByteDance revenue &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/230401/p5#a230401p5)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-478-3307346/)
- - [My Currency Converter and Rates 7.5 review: calculate money exchange when offline](https://appleinsider.com/articles/23/04/01/my-currency-converter-and-rates-75-review-calculate-money-exchange-when-offline?utm_medium=rss)<!-- TECH:END -->
+ - [NLRB says Activision Blizzard broke US labor law by illegally surveilling staff during a walkout and threatening to close some Slack channels amid a union drive &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/230401/p6#a230401p6)
+ - [Classical music, ChatGPT, and a yellow iPhone -- March 2023 in review](https://appleinsider.com/articles/23/04/01/classical-music-chatgpt-and-a-yellow-iphone----march-2023-in-review?utm_medium=rss)
+ - [Take 50% Off the Cost of an Annual Skillshare Membership     - CNET](https://www.cnet.com/deals/take-50-off-the-cost-of-an-annual-skillshare-membership/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
