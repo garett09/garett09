@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Goat Simulator 3 and Catan are swapping their signature livestock](https://www.polygon.com/2023/4/1/23665135/goat-simulator-3-settlers-of-catan-april-fools-day-sheep-swap-livestock)
- - [Here’s where you can watch WrestleMania 39](https://www.polygon.com/23662983/wrestlemania-39-watch-stream-subscriptions-how-to)
- - [Wordle hint and answer #651: Saturday, April 1](https://www.pcgamer.com/wordle-hint-answer-today-651-april-1)<!-- GAME:END -->
+ - [What went wrong with E3? And can it come back?](https://www.polygon.com/23664887/e3-2023-cancellation-analysis)
+ - [RIP: All The Battle Royales That Failed, Flopped, And Died](https://kotaku.com/battle-royale-failed-died-flops-fortnite-pubg-culling-2-1850289773)
+ - [The best movies new to streaming on Netflix, HBO Max, Prime Video, and Hulu &lpar;April 2023&rpar;](https://www.polygon.com/what-to-watch/2023/4/1/23654921/best-new-movies-netflix-amazon-prime-hbo-hulu-april-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
