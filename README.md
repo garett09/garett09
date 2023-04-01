@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Internet Is Ruined. The Metaverse Can Still Be Saved](https://www.wired.com/story/metaverse-ethics/)
- - [12 Top New Android 14 Features &lpar;2023&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-14-and-features/)
- - [18 Best Deals: Electric Bikes, Outdoor Gear, and Camera Bags](https://www.wired.com/story/weekend-deals-april-1-2023/)<!-- TECH:END -->
+ - [The coolest smartphone brand partnerships, ranked](https://www.androidauthority.com/smartphone-brand-partnerships-ranked-3289615/)
+ - [Washington, DC’s Cherry Blooms Draw Crowds—and Climate Questions](https://www.wired.com/story/washington-cherry-blossom-early-spring-climate-change/)
+ - [What&#39;s Going On With TikTok? Ask a Victorian Prince](https://www.wired.com/story/whats-going-on-with-tiktok-ask-a-victorian-prince/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
