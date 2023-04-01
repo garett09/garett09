@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation details how a Georgia man was wrongfully arrested based on a bad facial recognition match and other tech intended to make policing easier &lpar;New York Times&rpar;](http://www.techmeme.com/230401/p8#a230401p8)
+ - [Get Apple&#39;s MacBook Pro 14-inch 1TB for $1,649, plus $70 off AppleCare](https://appleinsider.com/articles/23/04/01/get-apples-macbook-pro-14-inch-1tb-for-1649-plus-70-off-applecare?utm_medium=rss)
  - [April Fools’ Day 2023: the best and cringiest pranks](https://www.theverge.com/2023/4/1/23665955/april-fools-day-2023-pranks-jokes-best-worst)
- - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An investigation details how a Georgia man was wrongfully arrested based on a bad facial recognition match and other tech meant to make policing more effective &lpar;New York Times&rpar;](http://www.techmeme.com/230401/p8#a230401p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
