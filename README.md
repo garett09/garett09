@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Disposable camera came with a picture already on it](http://9gag.com/gag/aA06W8d)
- - 🚯 [Conquer cave located in france](http://9gag.com/gag/aVboGEv)
- - 🚯 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)<!-- MEMES:END -->
+ - 🚖 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
+ - 🚯 [She had 16:9 eyes](http://9gag.com/gag/a7qeL4x)
+ - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/ay24n58)<!-- MEMES:END -->
 
 --- 
 
