@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Her name isn\u2019t Lisa! Her name is Katheryn Winnick.](http://9gag.com/gag/aDYnmAO)
- - 🚯 [Wonder what kind of punishment he would get.](http://9gag.com/gag/ay247Eb)
- - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/ay24n58)<!-- MEMES:END -->
+ - 🚖 [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)
+ - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/ay24n58)
+ - 🚯 [Car radar near a cemetery](http://9gag.com/gag/avQeL2q)<!-- MEMES:END -->
 
 --- 
 
