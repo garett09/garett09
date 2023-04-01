@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals April 1: $60 off 9th-gen 10.2 iPad, 20% off 2021 iPad mini, $90 AirTag 4-pack, more](https://appleinsider.com/articles/23/04/01/daily-deals-april-1-60-off-9th-gen-102-ipad-20-off-2021-ipad-mini-90-airtag-4-pack-more?utm_medium=rss)
- - [VOCOlinc Smart Plug review: Powerful HomeKit control at a fair price](https://appleinsider.com/articles/23/04/01/vocolinc-smart-plug-review-powerful-control-at-a-fair-price?utm_medium=rss)
- - [‘Vulkan’ Leak Offers a Peek at Russia’s Cyberwar Playbook](https://www.wired.com/story/vulkan-files-russia-security-roundup/)<!-- TECH:END -->
+ - [Steve Jobs Archive prepares to &#39;Make Something Wonderful&#39; on April 11](https://appleinsider.com/articles/23/04/01/steve-jobs-archive-prepares-to-make-something-wonderful-on-april-11?utm_medium=rss)
+ - [Samsung Galaxy S23 Ultra camera shootout: Which phone claims #1?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-camera-shootout-which-phone-claims-1-3301413/)
+ - [The 11 Best Barefoot Shoes &lpar;2023&rpar;: For Running or Walking](https://www.wired.com/gallery/best-barefoot-shoes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
