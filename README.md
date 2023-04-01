@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arsenal vs. Leeds United Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-leeds-united-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [A Belgian widow claims her husband died by suicide after using an AI chatbot, which presented itself as an emotional being, for six weeks on an app called Chai &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230401/p2#a230401p2)
- - [Filing: the US government sold ~$216M of seized Silk Road BTC in March, part of the 50K BTC stolen by James Zhong, and plans to sell 41,490 BTC in four tranches &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/230401/p1#a230401p1)
- - [The 8 Best On-Ear Headphones for 2023: Beats, Jabra, Sennheiser and More     - CNET](https://www.cnet.com/tech/mobile/best-on-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: the US government sold ~$216M of seized Silk Road BTC in March, part of the 50K BTC stolen by James Zhong, and plans to sell 41,490 BTC in four tranches &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/230401/p1#a230401p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
