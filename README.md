@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least I got something, I guess](http://9gag.com/gag/aPgPyAg)
- - 🚯 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
- - 🚯 [America is so free that a cop will get 30 day vacation for breaking someone&#39;s arms](http://9gag.com/gag/aA0ErQ0)<!-- MEMES:END -->
+ - 🚖 [Imagine you move out for house remodel and then squatters &lpar;right&rpar; move in.](http://9gag.com/gag/a8qmYr1)
+ - 🚯 [First proper AI generated movie is tormenting, accurate and f**king scary!](http://9gag.com/gag/aQEQpPe)
+ - 🚯 [And I have no idea what that means](http://9gag.com/gag/a9qvbE1)<!-- MEMES:END -->
 
 --- 
 
