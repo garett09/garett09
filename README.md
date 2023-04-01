@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon slashes M2 MacBook Air to $999, M1 model drops to $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/23/04/01/amazon-slashes-m2-macbook-air-to-999-m1-model-drops-to-799-200-off?utm_medium=rss)
  - [Get Apple&#39;s MacBook Pro 14-inch 1TB for $1,649, plus $70 off AppleCare](https://appleinsider.com/articles/23/04/01/get-apples-macbook-pro-14-inch-1tb-for-1649-plus-70-off-applecare?utm_medium=rss)
- - [April Fools’ Day 2023: the best and cringiest pranks](https://www.theverge.com/2023/4/1/23665955/april-fools-day-2023-pranks-jokes-best-worst)
- - [An investigation details how a Georgia man was wrongfully arrested based on a bad facial recognition match and other tech meant to make policing more effective &lpar;New York Times&rpar;](http://www.techmeme.com/230401/p8#a230401p8)<!-- TECH:END -->
+ - [Best Cheap Video Doorbells for 2023     - CNET](https://www.cnet.com/news/best-cheap-video-doorbells/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
