@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arsenal vs. Leeds United Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-leeds-united-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [A Belgian widow claims her husband died by suicide after using an AI chatbot, which presented itself as an emotional being, for six weeks on an app called Chai &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/230401/p2#a230401p2)
- - [Filing: the US government sold ~$216M of seized Silk Road BTC in March, part of the 50K BTC stolen by James Zhong, and plans to sell 41,490 BTC in four tranches &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/230401/p1#a230401p1)<!-- TECH:END -->
+ - [Binance plans to keep the $985M+ BUSD it moved from its industry recovery fund, launched in November 2022 amid FTX&#39;s collapse, in its corporate wallets &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230401/p3#a230401p3)
+ - [Man City vs. Liverpool Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-liverpool-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Arsenal vs. Leeds United Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-leeds-united-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
