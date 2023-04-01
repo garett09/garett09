@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance plans to keep the $985M+ BUSD it moved from its industry recovery fund, launched in November 2022 amid FTX&#39;s collapse, in its corporate wallets &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230401/p3#a230401p3)
- - [Man City vs. Liverpool Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-liverpool-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Arsenal vs. Leeds United Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-leeds-united-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Internet Is Ruined. The Metaverse Can Still Be Saved](https://www.wired.com/story/metaverse-ethics/)
+ - [12 Top New Android 14 Features &lpar;2023&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-14-and-features/)
+ - [18 Best Deals: Electric Bikes, Outdoor Gear, and Camera Bags](https://www.wired.com/story/weekend-deals-april-1-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
