@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Thank goodness Corsair&#39;s &#39;Elite Tactile Distractors&#39; aren&#39;t a real product, or else I&#39;d never get anything done](https://www.pcgamer.com/thank-goodness-corsairs-elite-tactile-distractors-arent-a-real-product-or-else-id-never-get-anything-done)
- - [3 games to play while waiting for Diablo 4](https://www.polygon.com/what-to-play/2023/4/1/23663694/games-like-diablo-4-to-play-ps5-pc-xbox-path-of-exile)
- - [What went wrong with E3? And can it come back?](https://www.polygon.com/23664887/e3-2023-cancellation-analysis)<!-- GAME:END -->
+ - [Do the kids from the ’80s D&amp;D cartoon die in Honor Among Thieves?](https://www.polygon.com/23664885/1980s-dungeons-and-dragons-dnd-cartoon-honor-among-thieves-cameo-death)
+ - [The Best &lpar;And Worst&rpar; April Fools’ Jokes In Gaming For 2023](https://kotaku.com/best-april-fools-pranks-day-games-minecraft-2023-rocket-1850290791)
+ - [Thank goodness Corsair&#39;s &#39;Elite Tactile Distractors&#39; aren&#39;t a real product, or else I&#39;d never get anything done](https://www.pcgamer.com/thank-goodness-corsairs-elite-tactile-distractors-arent-a-real-product-or-else-id-never-get-anything-done)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
