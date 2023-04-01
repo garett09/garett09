@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine you move out for house remodel and then squatters &lpar;right&rpar; move in.](http://9gag.com/gag/a8qmYr1)
- - 🚯 [First proper AI generated movie is tormenting, accurate and f**king scary!](http://9gag.com/gag/aQEQpPe)
- - 🚯 [And I have no idea what that means](http://9gag.com/gag/a9qvbE1)<!-- MEMES:END -->
+ - 🚖 [Emotional damage](http://9gag.com/gag/aBdLQ6P)
+ - 🚯 [Car radar near a cemetery](http://9gag.com/gag/avQeL2q)
+ - 🚯 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)<!-- MEMES:END -->
 
 --- 
 
