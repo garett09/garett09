@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What went wrong with E3? And can it come back?](https://www.polygon.com/23664887/e3-2023-cancellation-analysis)
- - [RIP: All The Battle Royales That Failed, Flopped, And Died](https://kotaku.com/battle-royale-failed-died-flops-fortnite-pubg-culling-2-1850289773)
- - [The best movies new to streaming on Netflix, HBO Max, Prime Video, and Hulu &lpar;April 2023&rpar;](https://www.polygon.com/what-to-watch/2023/4/1/23654921/best-new-movies-netflix-amazon-prime-hbo-hulu-april-2023)<!-- GAME:END -->
+ - [Thank goodness Corsair&#39;s &#39;Elite Tactile Distractors&#39; aren&#39;t a real product, or else I&#39;d never get anything done](https://www.pcgamer.com/thank-goodness-corsairs-elite-tactile-distractors-arent-a-real-product-or-else-id-never-get-anything-done)
+ - [3 games to play while waiting for Diablo 4](https://www.polygon.com/what-to-play/2023/4/1/23663694/games-like-diablo-4-to-play-ps5-pc-xbox-path-of-exile)
+ - [What went wrong with E3? And can it come back?](https://www.polygon.com/23664887/e3-2023-cancellation-analysis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
