@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mother Father day ;d](http://9gag.com/gag/a4ozKPm)
+ - 🚖 [Dirk and his wife are so awesome](http://9gag.com/gag/anzne8L)
  - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/ay24n58)
- - 🚯 [Car radar near a cemetery](http://9gag.com/gag/avQeL2q)<!-- MEMES:END -->
+ - 🚯 [That was intentional](http://9gag.com/gag/aZDwNX9)<!-- MEMES:END -->
 
 --- 
 
