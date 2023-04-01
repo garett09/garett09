@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dirk and his wife are so awesome](http://9gag.com/gag/anzne8L)
- - 🚯 [At least I got something, I guess](http://9gag.com/gag/aPgPyAg)
- - 🚯 [Glascow scotland](http://9gag.com/gag/ago1R8q)<!-- MEMES:END -->
+ - 🚖 [Happened to me too](http://9gag.com/gag/aBdLKEO)
+ - 🚯 [Emotional damage](http://9gag.com/gag/aBdLQ6P)
+ - 🚯 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)<!-- MEMES:END -->
 
 --- 
 
