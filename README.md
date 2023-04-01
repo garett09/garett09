@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [That Musk-signed open letter calling for a pause on AI development is getting blasted by the very researchers it cites](https://www.pcgamer.com/that-musk-signed-open-letter-calling-for-a-pause-on-ai-development-is-getting-blasted-by-the-very-researchers-it-cites)
  - [Smoking Causes Coughing gives superhero movies the most unpredictable twist](https://www.polygon.com/23665276/smoking-causes-coughing-movie-review-streaming)
- - [Do the kids from the ’80s D&amp;D cartoon die in Honor Among Thieves?](https://www.polygon.com/23664885/1980s-dungeons-and-dragons-dnd-cartoon-honor-among-thieves-cameo-death)
- - [The Best &lpar;And Worst&rpar; April Fools’ Jokes In Gaming For 2023](https://kotaku.com/best-april-fools-pranks-day-games-minecraft-2023-rocket-1850290791)<!-- GAME:END -->
+ - [Do the kids from the ’80s D&amp;D cartoon die in Honor Among Thieves?](https://www.polygon.com/23664885/1980s-dungeons-and-dragons-dnd-cartoon-honor-among-thieves-cameo-death)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
