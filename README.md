@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
- - 🚯 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)
- - 🚯 [How the turntables](http://9gag.com/gag/ay2485r)<!-- MEMES:END -->
+ - 🚖 [America is so free that a cop will get 30 day vacation for breaking someone&#39;s arms](http://9gag.com/gag/aA0ErQ0)
+ - 🚯 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
+ - 🚯 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)<!-- MEMES:END -->
 
 --- 
 
