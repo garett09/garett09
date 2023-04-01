@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
- - 🚯 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)
- - 🚯 [Video shows a guy sitting at a table, sipping his coffee, as the dy1ng man is collapsed next to him](http://9gag.com/gag/a6qXW8R)<!-- MEMES:END -->
+ - 🚖 [Dirk and his wife are so awesome](http://9gag.com/gag/anzne8L)
+ - 🚯 [At least I got something, I guess](http://9gag.com/gag/aPgPyAg)
+ - 🚯 [Glascow scotland](http://9gag.com/gag/ago1R8q)<!-- MEMES:END -->
 
 --- 
 
