@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Lyft founders&#39; departures followed months of staff concerns as the company&#39;s market value fell 85% to under $3.5B in two years, while Uber fared better &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230401/p7#a230401p7)
- - [Apple TV+ marks April Fools&#39; Day with show quote tweetstorm](https://appleinsider.com/articles/23/04/01/apple-tv-marks-april-fools-day-with-show-quote-tweetstorm?utm_medium=rss)
- - [The Pixel Buds Pro’s head-tracked spatial audio is a wonderful, useless tech](https://www.androidauthority.com/pixel-buds-pro-spatial-audio-head-track-3307288/)<!-- TECH:END -->
+ - [April Fools’ Day 2023: the best and cringiest pranks](https://www.theverge.com/2023/4/1/23665955/april-fools-day-2023-pranks-jokes-best-worst)
+ - [Best Samsung Galaxy Z Flip 3 Cases     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-3-cases/#ftag=CAD590a51e)
+ - [Sources: Lyft founders&#39; departures followed months of staff concerns as the company&#39;s market value fell 85% to under $3.5B in two years, while Uber fared better &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230401/p7#a230401p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
