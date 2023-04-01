@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happened to me too](http://9gag.com/gag/aBdLKEO)
- - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/ay24n58)
- - 🚯 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)<!-- MEMES:END -->
+ - 🚖 [Her name isn\u2019t Lisa! Her name is Katheryn Winnick.](http://9gag.com/gag/aDYnmAO)
+ - 🚯 [Happened to me too](http://9gag.com/gag/aBdLKEO)
+ - 🚯 [What... are you?](http://9gag.com/gag/aZDwxPV)<!-- MEMES:END -->
 
 --- 
 
