@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter code behind For You tracks authors as either &quot;republican&quot;, &quot;democrat&quot;, &quot;power user&quot;, or &quot;elon&quot;, says it&#39;s to keep algo tweaks from harming any one group &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230331/p24#a230331p24)
- - [Google confirms putting a limit of 5M files per Drive account, even for paid Google One plans, in February without telling users, who thought the cap was a bug &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230331/p23#a230331p23)
- - [5 True Wireless Earbuds Worth Buying for Under $40     - CNET](https://www.cnet.com/tech/mobile/5-true-wireless-earbuds-under-40-worth-buying/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: the US government sold ~$216M of seized Silk Road BTC in March, part of the 50K BTC stolen by James Zhong, and plans to sell 41,490 BTC in four tranches &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/230401/p1#a230401p1)
+ - [The 8 Best On-Ear Headphones for 2023: Beats, Jabra, Sennheiser and More     - CNET](https://www.cnet.com/tech/mobile/best-on-ear-headphones/#ftag=CAD590a51e)
+ - [Twitter code behind For You tracked authors as either &quot;republican&quot;, &quot;democrat&quot;, &quot;power user&quot;, or &quot;elon&quot; to keep algo tweaks from harming any one group &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230331/p24#a230331p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
