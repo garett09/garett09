@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Her name isn\u2019t Lisa! Her name is Katheryn Winnick.](http://9gag.com/gag/aDYnmAO)
- - 🚯 [Happened to me too](http://9gag.com/gag/aBdLKEO)
+ - 🚖 [Emotional damage](http://9gag.com/gag/aBdLQ6P)
+ - 🚯 [Dirk and his wife are so awesome](http://9gag.com/gag/anzne8L)
  - 🚯 [What... are you?](http://9gag.com/gag/aZDwxPV)<!-- MEMES:END -->
 
 --- 
