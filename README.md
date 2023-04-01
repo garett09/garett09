@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better luck next time ? haha](http://9gag.com/gag/aGE89yX)
- - 🚯 [Car radar near a cemetery](http://9gag.com/gag/avQeL2q)
- - 🚯 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)<!-- MEMES:END -->
+ - 🚖 [Happened to me too](http://9gag.com/gag/aBdLKEO)
+ - 🚯 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)
+ - 🚯 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)<!-- MEMES:END -->
 
 --- 
 
