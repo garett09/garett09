@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Smoking Causes Coughing gives superhero movies the most unpredictable twist](https://www.polygon.com/23665276/smoking-causes-coughing-movie-review-streaming)
  - [Do the kids from the ’80s D&amp;D cartoon die in Honor Among Thieves?](https://www.polygon.com/23664885/1980s-dungeons-and-dragons-dnd-cartoon-honor-among-thieves-cameo-death)
- - [The Best &lpar;And Worst&rpar; April Fools’ Jokes In Gaming For 2023](https://kotaku.com/best-april-fools-pranks-day-games-minecraft-2023-rocket-1850290791)
- - [Thank goodness Corsair&#39;s &#39;Elite Tactile Distractors&#39; aren&#39;t a real product, or else I&#39;d never get anything done](https://www.pcgamer.com/thank-goodness-corsairs-elite-tactile-distractors-arent-a-real-product-or-else-id-never-get-anything-done)<!-- GAME:END -->
+ - [The Best &lpar;And Worst&rpar; April Fools’ Jokes In Gaming For 2023](https://kotaku.com/best-april-fools-pranks-day-games-minecraft-2023-rocket-1850290791)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
