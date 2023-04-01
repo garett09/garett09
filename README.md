@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NLRB says Activision Blizzard broke US labor law by illegally surveilling staff during a walkout and threatening to close some Slack channels amid a union drive &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/230401/p6#a230401p6)
- - [Classical music, ChatGPT, and a yellow iPhone -- March 2023 in review](https://appleinsider.com/articles/23/04/01/classical-music-chatgpt-and-a-yellow-iphone----march-2023-in-review?utm_medium=rss)
- - [Take 50% Off the Cost of an Annual Skillshare Membership     - CNET](https://www.cnet.com/deals/take-50-off-the-cost-of-an-annual-skillshare-membership/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ marks April Fools&#39; Day with show quote tweetstorm](https://appleinsider.com/articles/23/04/01/apple-tv-marks-april-fools-day-with-show-quote-tweetstorm?utm_medium=rss)
+ - [The Pixel Buds Pro’s head-tracked spatial audio is a wonderful, useless tech](https://www.androidauthority.com/pixel-buds-pro-spatial-audio-head-track-3307288/)
+ - [April Fools’ Day 2023: the best and cringiest pranks](https://www.theverge.com/2023/4/1/23665955/april-fools-day-2023-pranks-jokes-best-worst)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
