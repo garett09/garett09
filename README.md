@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dirk and his wife are so awesome](http://9gag.com/gag/anzne8L)
- - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/ay24n58)
- - 🚯 [That was intentional](http://9gag.com/gag/aZDwNX9)<!-- MEMES:END -->
+ - 🚖 [First proper AI generated movie is tormenting, accurate and f**king scary!](http://9gag.com/gag/aQEQpPe)
+ - 🚯 [Happened to me too](http://9gag.com/gag/aBdLKEO)
+ - 🚯 [Dirk and his wife are so awesome](http://9gag.com/gag/anzne8L)<!-- MEMES:END -->
 
 --- 
 
