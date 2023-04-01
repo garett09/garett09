@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #651: Saturday, April 1](https://www.pcgamer.com/wordle-hint-answer-today-651-april-1)
  - [Pokémon Go Spotlight Hour schedule for April 2023](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
- - [Dark and Darker dev starts and then pauses GoFundMe for Nexon legal battle: &#39;The reality of the situation is that their end goal is to bleed us dry in court fees&#39;](https://www.pcgamer.com/dark-and-darker-dev-starts-and-then-pauses-gofundme-for-nexon-legal-battle-the-reality-of-the-situation-is-that-their-end-goal-is-to-bleed-us-dry-in-court-fees)
- - [The D&amp;D movie’s smallest cameo raises a big question](https://www.polygon.com/23663677/dungeons-dragons-movie-bradley-cooper-dnd-cameo)<!-- GAME:END -->
+ - [Dark and Darker dev starts and then pauses GoFundMe for Nexon legal battle: &#39;The reality of the situation is that their end goal is to bleed us dry in court fees&#39;](https://www.pcgamer.com/dark-and-darker-dev-starts-and-then-pauses-gofundme-for-nexon-legal-battle-the-reality-of-the-situation-is-that-their-end-goal-is-to-bleed-us-dry-in-court-fees)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
