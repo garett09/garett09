@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The coolest smartphone brand partnerships, ranked](https://www.androidauthority.com/smartphone-brand-partnerships-ranked-3289615/)
- - [Washington, DC’s Cherry Blooms Draw Crowds—and Climate Questions](https://www.wired.com/story/washington-cherry-blossom-early-spring-climate-change/)
- - [What&#39;s Going On With TikTok? Ask a Victorian Prince](https://www.wired.com/story/whats-going-on-with-tiktok-ask-a-victorian-prince/)<!-- TECH:END -->
+ - [Daily deals April 1: $60 off 9th-gen 10.2 iPad, 20% off 2021 iPad mini, $90 AirTag 4-pack, more](https://appleinsider.com/articles/23/04/01/daily-deals-april-1-60-off-9th-gen-102-ipad-20-off-2021-ipad-mini-90-airtag-4-pack-more?utm_medium=rss)
+ - [VOCOlinc Smart Plug review: Powerful HomeKit control at a fair price](https://appleinsider.com/articles/23/04/01/vocolinc-smart-plug-review-powerful-control-at-a-fair-price?utm_medium=rss)
+ - [‘Vulkan’ Leak Offers a Peek at Russia’s Cyberwar Playbook](https://www.wired.com/story/vulkan-files-russia-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
