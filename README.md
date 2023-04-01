@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs Archive prepares to &#39;Make Something Wonderful&#39; on April 11](https://appleinsider.com/articles/23/04/01/steve-jobs-archive-prepares-to-make-something-wonderful-on-april-11?utm_medium=rss)
- - [Samsung Galaxy S23 Ultra camera shootout: Which phone claims #1?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-camera-shootout-which-phone-claims-1-3301413/)
- - [The 11 Best Barefoot Shoes &lpar;2023&rpar;: For Running or Walking](https://www.wired.com/gallery/best-barefoot-shoes/)<!-- TECH:END -->
+ - [Sources: ByteDance had revenues of $80B+ in 2022, up 30% YoY, after growing 70% between 2020 and 2021; TikTok represented ~12% of total ByteDance revenue &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/230401/p5#a230401p5)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-478-3307346/)
+ - [My Currency Converter and Rates 7.5 review: calculate money exchange when offline](https://appleinsider.com/articles/23/04/01/my-currency-converter-and-rates-75-review-calculate-money-exchange-when-offline?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
