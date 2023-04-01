@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t Judge a Book by it&#39;s Cover ... Even Your Own](http://9gag.com/gag/anzRp05)
- - 🚯 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)
- - 🚯 [First proper AI generated movie is tormenting, accurate and f**king scary!](http://9gag.com/gag/aQEQpPe)<!-- MEMES:END -->
+ - 🚖 [Rose-tinted glasses need to come off as soon as possible to avoid heartbreak](http://9gag.com/gag/a4o6MyQ)
+ - 🚯 [Traffic controller&rpar;](http://9gag.com/gag/aEqVwqG)
+ - 🚯 [Always true](http://9gag.com/gag/a8qmd9d)<!-- MEMES:END -->
 
 --- 
 
