@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
- - 🚯 [She had 16:9 eyes](http://9gag.com/gag/a7qeL4x)
- - 🚯 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/ay24n58)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t Judge a Book by it&#39;s Cover ... Even Your Own](http://9gag.com/gag/anzRp05)
+ - 🚯 [I hope he went and got his lottery ticket after that](http://9gag.com/gag/aYVOjvm)
+ - 🚯 [First proper AI generated movie is tormenting, accurate and f**king scary!](http://9gag.com/gag/aQEQpPe)<!-- MEMES:END -->
 
 --- 
 
