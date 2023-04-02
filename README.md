@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Bard vs Bing Chat: What’s the difference and which one to use?](https://www.androidauthority.com/google-bard-vs-bing-chat-3308547/)
- - [Best Wireless Earbuds Under $50     - CNET](https://www.cnet.com/tech/mobile/best-bargain-true-wireless-earbuds-under-50/#ftag=CAD590a51e)
- - [BodyGuardz iPhone Camera Protector review: Strong &amp; stylish](https://appleinsider.com/articles/23/04/02/bodyguardz-iphone-camera-protector-review-strong-stylish?utm_medium=rss)<!-- TECH:END -->
+ - [How to make archive copies of your iCloud content](https://appleinsider.com/inside/icloud/tips/how-to-make-archive-copies-of-your-icloud-content?utm_medium=rss)
+ - [Huawei’s latest watch is a jab at the Apple Watch Ultra](https://www.theverge.com/2023/4/2/23664629/huawei-watch-ultimate-price-apple-ultra-smartwatches)
+ - [Google Bard vs Bing Chat: What’s the difference and which one to use?](https://www.androidauthority.com/google-bard-vs-bing-chat-3308547/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
