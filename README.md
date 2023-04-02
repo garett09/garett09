@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tesla being shitty and snitching on owners](http://9gag.com/gag/a8qmyPe)
- - 🚯 [Car radar near a cemetery](http://9gag.com/gag/avQeL2q)
- - 🚯 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)<!-- MEMES:END -->
+ - 🚖 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
+ - 🚯 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
+ - 🚯 [Tesla being shitty and snitching on owners](http://9gag.com/gag/a8qmyPe)<!-- MEMES:END -->
 
 --- 
 
