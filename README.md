@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Emotional damage](http://9gag.com/gag/aBdLQ6P)
- - 🚯 [To chase](http://9gag.com/gag/aMEmwEW)
+ - 🚖 [To chase](http://9gag.com/gag/aMEmwEW)
+ - 🚯 [The Bath Mouthpiece that allows you to breath during a house/hotel fire if you can\u2019t leave the room](http://9gag.com/gag/aEqVGKM)
  - 🚯 [At least I got something, I guess](http://9gag.com/gag/aPgPyAg)<!-- MEMES:END -->
 
 --- 
