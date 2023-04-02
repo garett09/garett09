@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The D&amp;D movie directors are up for a sequel, maybe featuring Drizzt](https://www.polygon.com/23665427/dungeons-and-dragons-honor-among-thieves-sequel-drizzt-dourden)
  - [Who’s on the rise to becoming Yellowjackets’ Antler Queen?](https://www.polygon.com/23664864/yellowjackets-season-2-ranking)
- - [Netflix’s Alchemy of Souls is a must-watch for fans of Merlin](https://www.polygon.com/23649168/alchemy-of-souls-best-netflix-fantasy-tv-show-series)
- - [The D&amp;D movie’s big-boi dragon has a massive backstory](https://www.polygon.com/23665260/dnd-dungeons-dragons-movie-fat-dragon-honor-among-thieves-themberchaud)<!-- GAME:END -->
+ - [Netflix’s Alchemy of Souls is a must-watch for fans of Merlin](https://www.polygon.com/23649168/alchemy-of-souls-best-netflix-fantasy-tv-show-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
