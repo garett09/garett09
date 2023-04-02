@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Super73 launches Adventure Series and first e-bike for danger babies](https://www.theverge.com/2023/4/2/23662863/super73-adventure-e-bikes-k1d-kids-price-specs)
  - [How researchers, including at Meta&#39;s AI lab, use AI to study EEG readings, decoding how neurons in the brain communicate and exploring the nature of cognition &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230402/p1#a230402p1)
- - [West Ham vs. Southampton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/west-ham-vs-southampton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Amazon slashes M2 MacBook Air to $999, M1 model drops to $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/23/04/01/amazon-slashes-m2-macbook-air-to-999-m1-model-drops-to-799-200-off?utm_medium=rss)<!-- TECH:END -->
+ - [West Ham vs. Southampton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/west-ham-vs-southampton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
