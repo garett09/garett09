@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They should have just pronounced him deceased and send him to the crematorium.](http://9gag.com/gag/aOx4dMN)
+ - 🚖 [This separates a boy from a man](http://9gag.com/gag/agoOL6q)
  - 🚯 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)
- - 🚯 [Tesla being shitty and snitching on owners](http://9gag.com/gag/a8qmyPe)<!-- MEMES:END -->
+ - 🚯 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)<!-- MEMES:END -->
 
 --- 
 
