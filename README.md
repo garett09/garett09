@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix’s Alchemy of Souls is a must-watch for fans of Merlin](https://www.polygon.com/23649168/alchemy-of-souls-best-netflix-fantasy-tv-show-series)
  - [The D&amp;D movie’s big boi dragon Themberchaud has an equally large role in the game](https://www.polygon.com/23665260/dnd-dungeons-dragons-movie-fat-dragon-honor-among-thieves-themberchaud)
- - [Every Tekken 8 character confirmed so far](https://www.pcgamer.com/tekken-8-character-list)
- - [Resident Evil fans vote for their favorite character, pick Leon](https://www.pcgamer.com/resident-evil-fans-vote-for-their-favorite-character-leon)<!-- GAME:END -->
+ - [Every Tekken 8 character confirmed so far](https://www.pcgamer.com/tekken-8-character-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
