@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A16Z appears to openly court Saudi capital; Horowitz compared the US unfavorably to the Saudis after the US government appeared unmoved by an Andreessen essay &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/230402/p3#a230402p3)
- - [Wedbush raises Apple stock target to $205 over strong iPhone demand](https://appleinsider.com/articles/23/04/02/wedbush-raises-apple-stock-target-to-205-over-strong-iphone-demand?utm_medium=rss)
- - [Fake Parmesan Cheese Has Become a Real Problem     - CNET](https://www.cnet.com/news/fake-parmesan-cheese-has-become-a-real-problem/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter removed the verified badge from the New York Times&#39; main account after Elon Musk responded to a meme outlining the outlet&#39;s decision not to pay for Blue &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230402/p5#a230402p5)
+ - [In a now deleted tweet, Elon Musk said verified accounts would get a &quot;few weeks grace&quot; but would lose their badges if &quot;they tell they won&#39;t pay now&quot; &lpar;Aaron McDade/Yahoo Finance&rpar;](http://www.techmeme.com/230402/p4#a230402p4)
+ - [Tim Cook will talk to US Lawmakers about China challenges](https://appleinsider.com/articles/23/04/02/tim-cook-to-talk-about-china-to-visiting-us-lawmakers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
