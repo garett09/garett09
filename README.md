@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter removed the verified badge from the New York Times&#39; main account after Elon Musk responded to a meme outlining the outlet&#39;s decision not to pay for Blue &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230402/p5#a230402p5)
- - [In a now deleted tweet, Elon Musk said verified accounts would get a &quot;few weeks grace&quot; but would lose their badges if &quot;they tell they won&#39;t pay now&quot; &lpar;Aaron McDade/Yahoo Finance&rpar;](http://www.techmeme.com/230402/p4#a230402p4)
- - [Tim Cook will talk to US Lawmakers about China challenges](https://appleinsider.com/articles/23/04/02/tim-cook-to-talk-about-china-to-visiting-us-lawmakers?utm_medium=rss)<!-- TECH:END -->
+ - [BodyGuardz iPhone Camera Protector review: Strong &amp; stylish](https://appleinsider.com/articles/23/04/02/bodyguardz-iphone-camera-protector-review-strong-stylish?utm_medium=rss)
+ - [Need Glasses? Here Are 9 Signs You Shouldn&#39;t Ignore     - CNET](https://www.cnet.com/health/personal-care/need-glasses-here-are-9-signs-you-shouldnt-ignore/#ftag=CAD590a51e)
+ - [Best Samsung Galaxy S21, S21 Plus and S21 Ultra Cases of 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s21-s21-plus-s21-ultra-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
