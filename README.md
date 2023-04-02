@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [April Fools’ Day 2023: the best and cringiest pranks](https://www.theverge.com/2023/4/1/23665955/april-fools-day-2023-pranks-jokes-best-worst)
  - [Best iPad Deals: Save $99 on Latest iPad Air or iPad Mini and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [Ocado wins AutoStore&#39;s lawsuit after the UK High Court invalidated two of AutoStore&#39;s warehouse automation patents for being publicly disclosed before filing &lpar;Brianna Wessling/The Robot Report&rpar;](http://www.techmeme.com/230401/p9#a230401p9)
- - [Amazon slashes M2 MacBook Air to $999, M1 model drops to $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/23/04/01/amazon-slashes-m2-macbook-air-to-999-m1-model-drops-to-799-200-off?utm_medium=rss)<!-- TECH:END -->
+ - [Ocado wins AutoStore&#39;s lawsuit after the UK High Court invalidated two of AutoStore&#39;s warehouse automation patents for being publicly disclosed before filing &lpar;Brianna Wessling/The Robot Report&rpar;](http://www.techmeme.com/230401/p9#a230401p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
