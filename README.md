@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This separates a boy from a man](http://9gag.com/gag/agoOL6q)
- - 🚯 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)
- - 🚯 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)<!-- MEMES:END -->
+ - 🚖 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
+ - 🚯 [India testing it\u2019s new high-speed trains](http://9gag.com/gag/aqe82ER)
+ - 🚯 [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)<!-- MEMES:END -->
 
 --- 
 
