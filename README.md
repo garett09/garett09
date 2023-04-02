@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Gaming Laptops &lpar;2023&rpar;: From Cheap to Premium](https://www.wired.com/gallery/best-gaming-laptops/)
- - [Tim Cook to talk about China to visiting U.S. lawmakers](https://appleinsider.com/articles/23/04/02/tim-cook-to-talk-about-china-to-visiting-us-lawmakers?utm_medium=rss)
- - [OnePlus won me back with the 11R; too bad most of you can’t buy it](https://www.androidauthority.com/oneplus-11r-winner-3298966/)<!-- TECH:END -->
+ - [Apple will make big interface changes in watchOS 10](https://appleinsider.com/articles/23/04/02/apple-will-make-big-interface-changes-in-watchos-10?utm_medium=rss)
+ - [AI is taking over the world, but I’m not ready for it](https://www.androidauthority.com/not-ready-for-ai-3303341/)
+ - [9 Best Earplugs &lpar;2023&rpar;: For Concerts, Sleep, and Listening](https://www.wired.com/gallery/best-earplugs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
