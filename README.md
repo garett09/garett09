@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes M2 MacBook Air to $999, M1 model drops to $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/23/04/01/amazon-slashes-m2-macbook-air-to-999-m1-model-drops-to-799-200-off?utm_medium=rss)
- - [Get Apple&#39;s MacBook Pro 14-inch 1TB for $1,649, plus $70 off AppleCare](https://appleinsider.com/articles/23/04/01/get-apples-macbook-pro-14-inch-1tb-for-1649-plus-70-off-applecare?utm_medium=rss)
- - [Best Cheap Video Doorbells for 2023     - CNET](https://www.cnet.com/news/best-cheap-video-doorbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPad Deals: Save $99 on Latest iPad Air or iPad Mini and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
+ - [Ocado wins AutoStore&#39;s lawsuit after the UK High Court invalidated two of AutoStore&#39;s warehouse automation patents for being publicly disclosed before filing &lpar;Brianna Wessling/The Robot Report&rpar;](http://www.techmeme.com/230401/p9#a230401p9)
+ - [Amazon slashes M2 MacBook Air to $999, M1 model drops to $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/23/04/01/amazon-slashes-m2-macbook-air-to-999-m1-model-drops-to-799-200-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
