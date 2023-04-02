@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)
- - 🚯 [The Only brother unmarried](http://9gag.com/gag/a04VbVz)
- - 🚯 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)<!-- MEMES:END -->
+ - 🚖 [Car radar near a cemetery](http://9gag.com/gag/avQeL2q)
+ - 🚯 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)
+ - 🚯 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)<!-- MEMES:END -->
 
 --- 
 
