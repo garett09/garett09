@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Bath Mouthpiece that allows you to breath during a house/hotel fire if you can\u2019t leave the room](http://9gag.com/gag/aEqVGKM)
- - 🚯 [How the turntables](http://9gag.com/gag/ay2485r)
- - 🚯 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)<!-- MEMES:END -->
+ - 🚖 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)
+ - 🚯 [To chase](http://9gag.com/gag/aMEmwEW)
+ - 🚯 [I have never seen anyone load a gun the way Steven Segal does.](http://9gag.com/gag/aeQOY1q)<!-- MEMES:END -->
 
 --- 
 
