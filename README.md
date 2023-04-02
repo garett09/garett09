@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m Healing From the Tech Layoffs by Playing &#39;Going Under&#39;](https://www.wired.com/story/healing-tech-layoffs-going-under-game/)
- - [No, You Can&#39;t ‘Have This’](https://www.wired.com/story/the-terrible-cost-of-little-viral-lies/)
- - [How to Stop Programs From Loading When Windows Starts Up](https://www.wired.com/story/how-to-stop-programs-loading-windows-startup/)<!-- TECH:END -->
+ - [OnePlus won me back with the 11R; too bad most of you can’t buy it](https://www.androidauthority.com/oneplus-11r-winner-3298966/)
+ - [Mathematicians Find an Infinity of Possible Black Hole Shapes](https://www.wired.com/story/black-hole-shapes/)
+ - [Zendure Superbase V6400 Review: Ultimate Modular Home Power Station](https://www.wired.com/review/zendure-superbase-v6400/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
