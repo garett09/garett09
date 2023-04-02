@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus won me back with the 11R; too bad most of you can’t buy it](https://www.androidauthority.com/oneplus-11r-winner-3298966/)
- - [Mathematicians Find an Infinity of Possible Black Hole Shapes](https://www.wired.com/story/black-hole-shapes/)
- - [Zendure Superbase V6400 Review: Ultimate Modular Home Power Station](https://www.wired.com/review/zendure-superbase-v6400/)<!-- TECH:END -->
+ - [7 Best Gaming Laptops &lpar;2023&rpar;: From Cheap to Premium](https://www.wired.com/gallery/best-gaming-laptops/)
+ - [Tim Cook to talk about China to visiting U.S. lawmakers](https://appleinsider.com/articles/23/04/02/tim-cook-to-talk-about-china-to-visiting-us-lawmakers?utm_medium=rss)
+ - [OnePlus won me back with the 11R; too bad most of you can’t buy it](https://www.androidauthority.com/oneplus-11r-winner-3298966/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
