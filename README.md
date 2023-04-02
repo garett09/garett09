@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the turntables](http://9gag.com/gag/ay2485r)
- - 🚯 [I have never seen anyone load a gun the way Steven Segal does.](http://9gag.com/gag/aeQOY1q)
- - 🚯 [India testing it\u2019s new high-speed trains](http://9gag.com/gag/aqe82ER)<!-- MEMES:END -->
+ - 🚖 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)
+ - 🚯 [The Only brother unmarried](http://9gag.com/gag/a04VbVz)
+ - 🚯 [How the turntables](http://9gag.com/gag/ay2485r)<!-- MEMES:END -->
 
 --- 
 
