@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will make big interface changes in watchOS 10](https://appleinsider.com/articles/23/04/02/apple-will-make-big-interface-changes-in-watchos-10?utm_medium=rss)
- - [AI is taking over the world, but I’m not ready for it](https://www.androidauthority.com/not-ready-for-ai-3303341/)
- - [9 Best Earplugs &lpar;2023&rpar;: For Concerts, Sleep, and Listening](https://www.wired.com/gallery/best-earplugs/)<!-- TECH:END -->
+ - [Should you still buy a phone with a headphone jack in 2023?](https://www.androidauthority.com/phone-headphone-jack-status-3286605/)
+ - [Get $15 in Amazon Credit When You Stock Up on P&amp;G Household and Health Items     - CNET](https://www.cnet.com/deals/get-15-in-amazon-credit-when-you-stock-up-on-p-g-household-and-health-items/#ftag=CAD590a51e)
+ - [You Might Be Wearing the Wrong Shoes. Here&#39;s How to Tell     - CNET](https://www.cnet.com/health/you-might-be-wearing-the-wrong-shoes-heres-how-to-tell/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
