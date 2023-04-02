@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Kratos calls for ceasefire in console wars](https://www.pcgamer.com/kratos-calls-for-ceasefire-in-console-wars)
  - [I hope Elden Ring: Shadow of the Erdtree&#39;s new weapons take a page from this modder&#39;s sick custom movesets](https://www.pcgamer.com/i-hope-elden-ring-shadow-of-the-erdtrees-new-weapons-take-a-page-from-this-modders-sick-custom-movesets)
- - [Rounding up the games industry&#39;s best jokes, japery, and doggone tomfoolery from April Fools 2023](https://www.pcgamer.com/rounding-up-the-games-industrys-best-jokes-japery-and-doggone-tomfoolery-from-april-fools-2023)
- - [That Musk-signed open letter calling for a pause on AI development is getting blasted by the very researchers it cites](https://www.pcgamer.com/that-musk-signed-open-letter-calling-for-a-pause-on-ai-development-is-getting-blasted-by-the-very-researchers-it-cites)<!-- GAME:END -->
+ - [Rounding up the games industry&#39;s best jokes, japery, and doggone tomfoolery from April Fools 2023](https://www.pcgamer.com/rounding-up-the-games-industrys-best-jokes-japery-and-doggone-tomfoolery-from-april-fools-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
