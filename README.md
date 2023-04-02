@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Resident Evil fans vote for their favorite character, pick Leon](https://www.pcgamer.com/resident-evil-fans-vote-for-their-favorite-character-leon)
  - [Naughty Dog apologizes to Last of Us players on PC](https://www.pcgamer.com/naughty-dog-apologizes-to-last-of-us-players-on-pc)
- - [Wordle hint and answer #652: Sunday, April 2](https://www.pcgamer.com/wordle-hint-answer-today-652-april-2)
- - [Go back to a time when a 56k modem made you a god among geeks with Neuromancer](https://www.pcgamer.com/saturday-crapshoot-neuromancer)<!-- GAME:END -->
+ - [Wordle hint and answer #652: Sunday, April 2](https://www.pcgamer.com/wordle-hint-answer-today-652-april-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
