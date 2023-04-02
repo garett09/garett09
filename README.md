@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Omg ...omg](http://9gag.com/gag/aYVOKZ2)
- - 🚯 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
- - 🚯 [The Bath Mouthpiece that allows you to breath during a house/hotel fire if you can\u2019t leave the room](http://9gag.com/gag/aEqVGKM)<!-- MEMES:END -->
+ - 🚖 [The Bath Mouthpiece that allows you to breath during a house/hotel fire if you can\u2019t leave the room](http://9gag.com/gag/aEqVGKM)
+ - 🚯 [How the turntables](http://9gag.com/gag/ay2485r)
+ - 🚯 [I have never seen anyone load a gun the way Steven Segal does.](http://9gag.com/gag/aeQOY1q)<!-- MEMES:END -->
 
 --- 
 
