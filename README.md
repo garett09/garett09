@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)
- - 🚯 [To chase](http://9gag.com/gag/aMEmwEW)
- - 🚯 [I have never seen anyone load a gun the way Steven Segal does.](http://9gag.com/gag/aeQOY1q)<!-- MEMES:END -->
+ - 🚖 [How the turntables](http://9gag.com/gag/ay2485r)
+ - 🚯 [This separates a boy from a man](http://9gag.com/gag/agoOL6q)
+ - 🚯 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)<!-- MEMES:END -->
 
 --- 
 
