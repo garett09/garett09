@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Car radar near a cemetery](http://9gag.com/gag/avQeL2q)
- - 🚯 [India testing it\u2019s new high-speed trains](http://9gag.com/gag/aqe82ER)
- - 🚯 [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)<!-- MEMES:END -->
+ - 🚖 [They should have just pronounced him deceased and send him to the crematorium.](http://9gag.com/gag/aOx4dMN)
+ - 🚯 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)
+ - 🚯 [Tesla being shitty and snitching on owners](http://9gag.com/gag/a8qmyPe)<!-- MEMES:END -->
 
 --- 
 
