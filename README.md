@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should you still buy a phone with a headphone jack in 2023?](https://www.androidauthority.com/phone-headphone-jack-status-3286605/)
- - [Get $15 in Amazon Credit When You Stock Up on P&amp;G Household and Health Items     - CNET](https://www.cnet.com/deals/get-15-in-amazon-credit-when-you-stock-up-on-p-g-household-and-health-items/#ftag=CAD590a51e)
- - [You Might Be Wearing the Wrong Shoes. Here&#39;s How to Tell     - CNET](https://www.cnet.com/health/you-might-be-wearing-the-wrong-shoes-heres-how-to-tell/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: SVB execs bought long-term assets that paid more interest based on a misplaced profit-driven strategy, falling out of compliance with its risk model &lpar;Washington Post&rpar;](http://www.techmeme.com/230402/p2#a230402p2)
+ - [8 New Google Pixel Products We Expect to See This Year     - CNET](https://www.cnet.com/tech/mobile/8-new-google-pixel-products-we-expect-to-see-this-year/#ftag=CAD590a51e)
+ - [Open and Shut Your Garage Door From Anywhere With This $23 MyQ Smart Controller     - CNET](https://www.cnet.com/deals/grab-this-smart-garage-accessory-for-just-17-during-amazons-cyber-monday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
