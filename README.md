@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [How the turntables](http://9gag.com/gag/ay2485r)
- - 🚯 [This separates a boy from a man](http://9gag.com/gag/agoOL6q)
- - 🚯 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)<!-- MEMES:END -->
+ - 🚯 [I have never seen anyone load a gun the way Steven Segal does.](http://9gag.com/gag/aeQOY1q)
+ - 🚯 [India testing it\u2019s new high-speed trains](http://9gag.com/gag/aqe82ER)<!-- MEMES:END -->
 
 --- 
 
