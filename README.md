@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [How researchers, including at Meta&#39;s AI lab, use AI to study EEG readings, decoding how neurons in the brain communicate and exploring the nature of cognition &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230402/p1#a230402p1)
- - [Amazon slashes M2 MacBook Air to $999, M1 model drops to $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/23/04/01/amazon-slashes-m2-macbook-air-to-999-m1-model-drops-to-799-200-off?utm_medium=rss)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Australian GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-australian-gp-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [West Ham vs. Southampton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/west-ham-vs-southampton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Amazon slashes M2 MacBook Air to $999, M1 model drops to $799 &lpar;$200 off&rpar;](https://appleinsider.com/articles/23/04/01/amazon-slashes-m2-macbook-air-to-999-m1-model-drops-to-799-200-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
