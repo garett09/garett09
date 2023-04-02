@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)
- - 🚯 [They should have just pronounced him deceased and send him to the crematorium.](http://9gag.com/gag/aOx4dMN)
- - 🚯 [So progressive...](http://9gag.com/gag/aA0EpYZ)<!-- MEMES:END -->
+ - 🚖 [The Bath Mouthpiece that allows you to breath during a house/hotel fire if you can\u2019t leave the room](http://9gag.com/gag/aEqVGKM)
+ - 🚯 [How the turntables](http://9gag.com/gag/ay2485r)
+ - 🚯 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)<!-- MEMES:END -->
 
 --- 
 
