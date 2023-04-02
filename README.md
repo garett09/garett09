@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [76 of the top 100 most-played games on Steam are playable on a Steam Deck](https://www.pcgamer.com/76-of-the-top-100-most-played-games-on-steam-are-playable-on-a-steam-deck)
  - [The D&amp;D movie directors are up for a sequel, maybe featuring Drizzt](https://www.polygon.com/23665427/dungeons-and-dragons-honor-among-thieves-sequel-drizzt-dourden)
- - [Who’s on the rise to becoming Yellowjackets’ Antler Queen?](https://www.polygon.com/23664864/yellowjackets-season-2-ranking)
- - [Netflix’s Alchemy of Souls is a must-watch for fans of Merlin](https://www.polygon.com/23649168/alchemy-of-souls-best-netflix-fantasy-tv-show-series)<!-- GAME:END -->
+ - [Who’s on the rise to becoming Yellowjackets’ Antler Queen?](https://www.polygon.com/23664864/yellowjackets-season-2-ranking)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
