@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [America is so free that a cop will get 30 day vacation for breaking someone&#39;s arms](http://9gag.com/gag/aA0ErQ0)
- - 🚯 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
- - 🚯 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)<!-- MEMES:END -->
+ - 🚖 [Emotional damage](http://9gag.com/gag/aBdLQ6P)
+ - 🚯 [To chase](http://9gag.com/gag/aMEmwEW)
+ - 🚯 [At least I got something, I guess](http://9gag.com/gag/aPgPyAg)<!-- MEMES:END -->
 
 --- 
 
