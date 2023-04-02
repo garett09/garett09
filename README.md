@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SVB execs bought long-term assets that paid more interest based on a misplaced profit-driven strategy, falling out of compliance with its risk model &lpar;Washington Post&rpar;](http://www.techmeme.com/230402/p2#a230402p2)
- - [8 New Google Pixel Products We Expect to See This Year     - CNET](https://www.cnet.com/tech/mobile/8-new-google-pixel-products-we-expect-to-see-this-year/#ftag=CAD590a51e)
- - [Open and Shut Your Garage Door From Anywhere With This $23 MyQ Smart Controller     - CNET](https://www.cnet.com/deals/grab-this-smart-garage-accessory-for-just-17-during-amazons-cyber-monday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A16Z appears to openly court Saudi capital; Horowitz compared the US unfavorably to the Saudis after the US government appeared unmoved by an Andreessen essay &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/230402/p3#a230402p3)
+ - [Wedbush raises Apple stock target to $205 over strong iPhone demand](https://appleinsider.com/articles/23/04/02/wedbush-raises-apple-stock-target-to-205-over-strong-iphone-demand?utm_medium=rss)
+ - [Fake Parmesan Cheese Has Become a Real Problem     - CNET](https://www.cnet.com/news/fake-parmesan-cheese-has-become-a-real-problem/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
