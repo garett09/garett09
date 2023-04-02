@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They should have just pronounced him deceased and send him to the crematorium.](http://9gag.com/gag/aOx4dMN)
- - 🚯 [Car radar near a cemetery](http://9gag.com/gag/avQeL2q)
- - 🚯 [I have never seen anyone load a gun the way Steven Segal does.](http://9gag.com/gag/aeQOY1q)<!-- MEMES:END -->
+ - 🚖 [Omg ...omg](http://9gag.com/gag/aYVOKZ2)
+ - 🚯 [This is a pic from a women powerlifting competition. The guy is a legend, identified as a woman just to show them how retarded this woke shit is](http://9gag.com/gag/a6q9wG8)
+ - 🚯 [The Bath Mouthpiece that allows you to breath during a house/hotel fire if you can\u2019t leave the room](http://9gag.com/gag/aEqVGKM)<!-- MEMES:END -->
 
 --- 
 
