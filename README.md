@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)
+ - 🚖 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)
  - 🚯 [The Only brother unmarried](http://9gag.com/gag/a04VbVz)
- - 🚯 [How the turntables](http://9gag.com/gag/ay2485r)<!-- MEMES:END -->
+ - 🚯 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)<!-- MEMES:END -->
 
 --- 
 
