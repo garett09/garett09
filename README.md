@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Go back to a time when a 56k modem made you a god among geeks with Neuromancer](https://www.pcgamer.com/saturday-crapshoot-neuromancer)
  - [Learn D&amp;D or enjoy a solo session with this official browser game](https://www.pcgamer.com/learn-dandd-or-enjoy-a-solo-session-with-this-official-browser-game)
- - [Kratos calls for ceasefire in console wars](https://www.pcgamer.com/kratos-calls-for-ceasefire-in-console-wars)
- - [I hope Elden Ring: Shadow of the Erdtree&#39;s new weapons take a page from this modder&#39;s sick custom movesets](https://www.pcgamer.com/i-hope-elden-ring-shadow-of-the-erdtrees-new-weapons-take-a-page-from-this-modders-sick-custom-movesets)<!-- GAME:END -->
+ - [Kratos calls for ceasefire in console wars](https://www.pcgamer.com/kratos-calls-for-ceasefire-in-console-wars)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
