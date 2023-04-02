@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #652: Sunday, April 2](https://www.pcgamer.com/wordle-hint-answer-today-652-april-2)
  - [Go back to a time when a 56k modem made you a god among geeks with Neuromancer](https://www.pcgamer.com/saturday-crapshoot-neuromancer)
- - [Learn D&amp;D or enjoy a solo session with this official browser game](https://www.pcgamer.com/learn-dandd-or-enjoy-a-solo-session-with-this-official-browser-game)
- - [Kratos calls for ceasefire in console wars](https://www.pcgamer.com/kratos-calls-for-ceasefire-in-console-wars)<!-- GAME:END -->
+ - [Learn D&amp;D or enjoy a solo session with this official browser game](https://www.pcgamer.com/learn-dandd-or-enjoy-a-solo-session-with-this-official-browser-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
