@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASUS Zenfone 10: Everything we know so far](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)
  - [Newcastle vs. Man United Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/newcastle-vs-man-united-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Super73 launches Adventure Series and first e-bike for danger babies](https://www.theverge.com/2023/4/2/23662863/super73-adventure-e-bikes-k1d-kids-price-specs)
- - [How researchers, including at Meta&#39;s AI lab, use AI to study EEG readings, decoding how neurons in the brain communicate and exploring the nature of cognition &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230402/p1#a230402p1)<!-- TECH:END -->
+ - [Super73 launches Adventure Series and first e-bike for danger babies](https://www.theverge.com/2023/4/2/23662863/super73-adventure-e-bikes-k1d-kids-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
