@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I had my weekend turned on its head by this stop motion-animated pagan fever dream of a game](https://www.pcgamer.com/i-had-my-weekend-turned-on-its-head-by-this-stop-motion-animated-pagan-fever-dream-of-a-game)
  - [76 of the top 100 most-played games on Steam are playable on a Steam Deck](https://www.pcgamer.com/76-of-the-top-100-most-played-games-on-steam-are-playable-on-a-steam-deck)
- - [The D&amp;D movie directors are up for a sequel, maybe featuring Drizzt](https://www.polygon.com/23665427/dungeons-and-dragons-honor-among-thieves-sequel-drizzt-dourden)
- - [Who’s on the rise to becoming Yellowjackets’ Antler Queen?](https://www.polygon.com/23664864/yellowjackets-season-2-ranking)<!-- GAME:END -->
+ - [The D&amp;D movie directors are up for a sequel, maybe featuring Drizzt](https://www.polygon.com/23665427/dungeons-and-dragons-honor-among-thieves-sequel-drizzt-dourden)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
