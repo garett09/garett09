@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They should have just pronounced him deceased and send him to the crematorium.](http://9gag.com/gag/aOx4dMN)
- - 🚯 [How the turntables](http://9gag.com/gag/ay2485r)
- - 🚯 [At least I got something, I guess](http://9gag.com/gag/aPgPyAg)<!-- MEMES:END -->
+ - 🚖 [Emotional damage](http://9gag.com/gag/aBdLQ6P)
+ - 🚯 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)
+ - 🚯 [First proper AI generated movie is tormenting, accurate and f**king scary!](http://9gag.com/gag/aQEQpPe)<!-- MEMES:END -->
 
 --- 
 
