@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Emotional damage](http://9gag.com/gag/aBdLQ6P)
- - 🚯 [Chess mommy.](http://9gag.com/gag/aeQO0Qb)
- - 🚯 [First proper AI generated movie is tormenting, accurate and f**king scary!](http://9gag.com/gag/aQEQpPe)<!-- MEMES:END -->
+ - 🚖 [They should have just pronounced him deceased and send him to the crematorium.](http://9gag.com/gag/aOx4dMN)
+ - 🚯 [How the turntables](http://9gag.com/gag/ay2485r)
+ - 🚯 [I have never seen anyone load a gun the way Steven Segal does.](http://9gag.com/gag/aeQOY1q)<!-- MEMES:END -->
 
 --- 
 
