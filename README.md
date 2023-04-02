@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Wireless Earbuds Under $50     - CNET](https://www.cnet.com/tech/mobile/best-bargain-true-wireless-earbuds-under-50/#ftag=CAD590a51e)
  - [BodyGuardz iPhone Camera Protector review: Strong &amp; stylish](https://appleinsider.com/articles/23/04/02/bodyguardz-iphone-camera-protector-review-strong-stylish?utm_medium=rss)
- - [Need Glasses? Here Are 9 Signs You Shouldn&#39;t Ignore     - CNET](https://www.cnet.com/health/personal-care/need-glasses-here-are-9-signs-you-shouldnt-ignore/#ftag=CAD590a51e)
- - [Best Samsung Galaxy S21, S21 Plus and S21 Ultra Cases of 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s21-s21-plus-s21-ultra-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Need Glasses? Here Are 9 Signs You Shouldn&#39;t Ignore     - CNET](https://www.cnet.com/health/personal-care/need-glasses-here-are-9-signs-you-shouldnt-ignore/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
