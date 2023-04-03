@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I found a Skyrim mod that adds skooma hallucinations, now I&#39;m a drug addict with an imaginary goat](https://www.pcgamer.com/i-found-a-skyrim-mod-that-adds-skooma-hallucinations-now-im-a-drug-addict-with-an-imaginary-goat)
- - [Wordle hint and answer #653: Monday, April 3](https://www.pcgamer.com/wordle-hint-answer-today-653-april-3)
- - [Voice actor who played Ada Wong in the Resident Evil 4 remake wipes her Instagram after harassment](https://www.pcgamer.com/resident-evil-4-remake-ada-wong-voice-actor-wipes-instagram-after-harassment)<!-- GAME:END -->
+ - [The RTX 4070 just leaked, looks like a match for an RTX 3080 without frame gen](https://www.pcgamer.com/the-rtx-4070-just-leaked-looks-like-a-match-for-an-rtx-3080-without-frame-gen)
+ - [New DirectX 12 preview could pave the way for PCs to become more like an Xbox or PS5](https://www.pcgamer.com/new-directx-12-preview-could-pave-the-way-for-pcs-to-become-more-like-an-xbox-or-ps5)
+ - [Where to get refined metal in Dredge](https://www.pcgamer.com/dredge-refined-metal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
