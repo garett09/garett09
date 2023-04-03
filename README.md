@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#39;s so into it](http://9gag.com/gag/az2P91j)
- - 🚯 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
- - 🚯 [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)<!-- MEMES:END -->
+ - 🚖 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
+ - 🚯 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
+ - 🚯 [Filip Maciejuk causes a huge crash &lpar;Disqualified from Tour of Flanders&rpar;](http://9gag.com/gag/aXnNx72)<!-- MEMES:END -->
 
 --- 
 
