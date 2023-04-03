@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
- - 🚯 [Lol](http://9gag.com/gag/axov1QK)
- - 🚯 [Professional Athletes they run really fast](http://9gag.com/gag/ay24Xqy)<!-- MEMES:END -->
+ - 🚖 [Probably one of the most &#39;alien-like&#39; species, the ribbon worm spits a living, tree-like proboscis to hunt prey](http://9gag.com/gag/aNwvdov)
+ - 🚯 [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)
+ - 🚯 [Lol](http://9gag.com/gag/axov1QK)<!-- MEMES:END -->
 
 --- 
 
