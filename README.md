@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
- - 🚯 [Just when you think it\u2019s done](http://9gag.com/gag/a6q9OzL)
- - 🚯 [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)<!-- MEMES:END -->
+ - 🚖 [They should have just pronounced him deceased and send him to the crematorium.](http://9gag.com/gag/aOx4dMN)
+ - 🚯 [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)
+ - 🚯 [Lol](http://9gag.com/gag/axov1QK)<!-- MEMES:END -->
 
 --- 
 
