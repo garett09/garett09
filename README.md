@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
- - 🚯 [Start the rapture](http://9gag.com/gag/a2K8REw)
- - 🚯 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)<!-- MEMES:END -->
+ - 🚖 [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)
+ - 🚯 [I&#39;m so furious he was a great, popular dude and very competent programmer. The company ethics comite acknowledged that what the girl said was wrong too but what he said was sexist and therefore somehow worse and against company policy. This happened at a large company in Poland.](http://9gag.com/gag/aWGL1rx)
+ - 🚯 [How to fix a curved rug](http://9gag.com/gag/aDYnz6x)<!-- MEMES:END -->
 
 --- 
 
