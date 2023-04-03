@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xiaomi 13 Ultra could be the next camera king with this camera setup](https://www.androidauthority.com/xiaomi-13-ultra-leaked-specifications-3308605/)
- - [UK study: kids online gravitate to dramatic, short videos, watch split-screen videos, and post fewer videos of their own; people aged 16 to 24 take more breaks &lpar;Ofcom&rpar;](http://www.techmeme.com/230403/p2#a230403p2)
- - [ChatGPT is already banned in one country](https://www.androidauthority.com/chatgpt-ban-italy-3308581/)<!-- TECH:END -->
+ - [After an uproar, the Arbitrum Foundation plans to break up a controversial governance package into separate votes, including a 750M ARB token allocation &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230403/p3#a230403p3)
+ - [Daily Authority: 🌟 The old OnePlus returns &lpar;but not for all&rpar;](https://www.androidauthority.com/daily-authority-april-3-2023-3308574/)
+ - [Vivo X Flip real-world image appears online: A Galaxy-beating cover display?](https://www.androidauthority.com/vivo-x-flip-real-world-image-3308598/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
