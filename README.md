@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Probably one of the most &#39;alien-like&#39; species, the ribbon worm spits a living, tree-like proboscis to hunt prey](http://9gag.com/gag/aNwvdov)
- - 🚯 [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)
- - 🚯 [Lol](http://9gag.com/gag/axov1QK)<!-- MEMES:END -->
+ - 🚖 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
+ - 🚯 [I have never seen anyone load a gun the way Steven Segal does.](http://9gag.com/gag/aeQOY1q)
+ - 🚯 [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)<!-- MEMES:END -->
 
 --- 
 
