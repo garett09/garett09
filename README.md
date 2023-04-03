@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at problems at Digital World Acquisition Corp, which plans to take Truth Social public by September 8, after CEO Patrick Orlando was ousted &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/230403/p5#a230403p5)
- - [Mullvad VPN and Tor Project Create New Privacy-Focused Mullvad Browser](https://www.wired.com/story/mullvad-browser-vpn-tor-project/)
- - [The Galaxy Z Flip 5 is getting a huge cover screen, and here’s what it looks like](https://www.androidauthority.com/samsung-galaxy-z-flip-5-cover-screen-upgrade-3308630/)<!-- TECH:END -->
+ - [M2 chip production allegedly paused over Mac demand slump](https://appleinsider.com/articles/23/04/03/m2-chip-production-allegedly-paused-over-mac-demand-slump?utm_medium=rss)
+ - [ICE Is Grabbing Data From Schools and Abortion Clinics](https://www.wired.com/story/ice-1509-custom-summons/)
+ - [‘Winnie the Pooh: Blood and Honey’ Turned a Children’s Icon Into a Murderer. Good](https://www.wired.com/story/winnie-the-pooh-blood-and-honey-copyright-fair-use/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
