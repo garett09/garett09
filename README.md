@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Professional Athletes they run really fast](http://9gag.com/gag/ay24Xqy)
- - 🚯 [Tesla being shitty and snitching on owners](http://9gag.com/gag/a8qmyPe)
- - 🚯 [India testing it\u2019s new high-speed trains](http://9gag.com/gag/aqe82ER)<!-- MEMES:END -->
+ - 🚖 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
+ - 🚯 [Lol](http://9gag.com/gag/axov1QK)
+ - 🚯 [Professional Athletes they run really fast](http://9gag.com/gag/ay24Xqy)<!-- MEMES:END -->
 
 --- 
 
