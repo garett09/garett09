@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [WrestleMania 39 review: McMahon looms on wrestling’s star-studded biggest night](https://www.polygon.com/reviews/23668073/wrestlemania-39-review-recap-roman-reigns-vince-mcmahon)
- - [Pokémon Go Jirachi ‘Wish Granted’ Masterwork Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23608501/jirachi-wish-granted-masterwork-research-tasks-steps-rewards)
- - [How to tame creatures in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-how-to-tame)<!-- GAME:END -->
+ - [Ethernet co-inventor finally bags a Turing Award, half a century later](https://www.pcgamer.com/ethernet-co-inventor-finally-bags-a-turing-award-half-a-century-later)
+ - [HyperX Pulsefire Haste 2](https://www.pcgamer.com/hyperx-pulsefire-haste-2)
+ - [Super Mario Bros. Movie Cast Wear Their Characters To Opening Night](https://kotaku.com/super-mario-bros-movie-chris-pratt-jack-black-seth-roge-1850294257)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
