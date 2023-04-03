@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter updates the description of all blue checkmarks to say &quot;This account is verified because it&#39;s subscribed to Twitter Blue or is a legacy verified account&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230402/p7#a230402p7)
  - [I Took Cold Showers for a Year and It Was a Waste of Time     - CNET](https://www.cnet.com/culture/internet/features/i-took-cold-showers-for-a-year-and-it-was-a-waste-of-time/#ftag=CAD590a51e)
- - [How Duolingo Turned Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/how-duolingo-turned-me-into-a-monster/#ftag=CAD590a51e)
- - [Sources: in November 2021, five days after Biden put NSO on a Commerce Department blocklist, a front company for the US government bought NSO&#39;s geolocation tool &lpar;New York Times&rpar;](http://www.techmeme.com/230402/p6#a230402p6)<!-- TECH:END -->
+ - [How Duolingo Turned Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/how-duolingo-turned-me-into-a-monster/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
