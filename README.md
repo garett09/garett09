@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to make archive copies of your iCloud content](https://appleinsider.com/inside/icloud/tips/how-to-make-archive-copies-of-your-icloud-content?utm_medium=rss)
- - [Huawei’s latest watch is a jab at the Apple Watch Ultra](https://www.theverge.com/2023/4/2/23664629/huawei-watch-ultimate-price-apple-ultra-smartwatches)
- - [Google Bard vs Bing Chat: What’s the difference and which one to use?](https://www.androidauthority.com/google-bard-vs-bing-chat-3308547/)<!-- TECH:END -->
+ - [I Took Cold Showers for a Year and It Was a Waste of Time     - CNET](https://www.cnet.com/culture/internet/features/i-took-cold-showers-for-a-year-and-it-was-a-waste-of-time/#ftag=CAD590a51e)
+ - [How Duolingo Turned Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/how-duolingo-turned-me-into-a-monster/#ftag=CAD590a51e)
+ - [Sources: in November 2021, five days after Biden put NSO on a Commerce Department blocklist, a front company for the US government bought NSO&#39;s geolocation tool &lpar;New York Times&rpar;](http://www.techmeme.com/230402/p6#a230402p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
