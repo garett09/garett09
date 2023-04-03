@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [Artificial Wombs Will Change Abortion Rights Forever](https://www.wired.com/story/ectogenesis-reproductive-health-abortion/)
- - [An interview and profile of Tim Cook on running Apple, succeeding Steve Jobs, being an outsider, creativity, avoiding smartphone addiction, rivals, and more &lpar;Zach Baron/GQ&rpar;](http://www.techmeme.com/230403/p11#a230403p11)<!-- TECH:END -->
+ - [The Tor Project partners with VPN maker Mullvad to launch the Mullvad browser, available on Windows, macOS, and Linux, seeking to reduce a user&#39;s &quot;fingerprint&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230403/p12#a230403p12)
+ - [Tim Cook enthuses on AR and VR in GQ profile](https://appleinsider.com/articles/23/04/03/tim-cook-an-approachable-but-not-normal-ceo-says-profile?utm_medium=rss)
+ - [WWDC HomeKit predictions, Hue Matter update delays &amp; more smart home news](https://appleinsider.com/articles/23/04/03/wwdc-homekit-predictions-hue-matter-update-delays-more-smart-home-news?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
