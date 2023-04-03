@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If this ROG handheld PC is real then Asus announced it in the worst way](https://www.pcgamer.com/asus-rog-ally-gaming-handheld-real-or-stunt)
- - [The RTX 4070 just leaked, looks like a match for an RTX 3080 without frame gen](https://www.pcgamer.com/the-rtx-4070-just-leaked-looks-like-a-match-for-an-rtx-3080-without-frame-gen)
- - [New DirectX 12 preview could pave the way for PCs to become more like an Xbox or PS5](https://www.pcgamer.com/new-directx-12-preview-could-pave-the-way-for-pcs-to-become-more-like-an-xbox-or-ps5)<!-- GAME:END -->
+ - [Chris Hemsworth’s flaming fist fight is already the best part of Extraction 2](https://www.polygon.com/23667950/extraction-2-trailer-netflix-chris-hemsworth-release-date)
+ - [Fist of the Condor: part Bruce Lee, part Rambo, part Sergio Leone, all Marko Zaror](https://www.polygon.com/reviews/23664737/fist-of-the-condor-movie-review-marko-zaror-martial-arts)
+ - [Let’s Rank The Pokémon Starters, Worst To Best](https://kotaku.com/let-s-rank-the-pokemon-starters-worst-to-best-1850287696)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
