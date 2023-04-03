@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [8+ Games To Play After Resident Evil 4](https://kotaku.com/8-games-to-play-after-resident-evil-4-1850295961)
- - [Game of Thrones’ next spinoff really shouldn’t be an Aegon the Conqueror series](https://www.polygon.com/23668840/game-thrones-hbo-spinoff-house-dragon-aegon-conqueror)
- - [Ben Affleck’s new heist movie looks like an even trippier Tenet](https://www.polygon.com/23668671/robert-rodriguez-ben-affleck-hypnotic-trailer-release-date)<!-- GAME:END -->
+ - [Naughty Dog Say The Last Of Us&#39; PC Port Not &#39;The Quality Level You Expect And Deserve&#39;](https://kotaku.com/last-of-us-pc-port-broken-busted-refund-patch-update-1850296305)
+ - [I knew Capcom was doing pretty well, but its stock is skyrocketing](https://www.pcgamer.com/i-knew-capcom-was-doing-pretty-well-but-its-stock-is-skyrocketing)
+ - [Activision settles esports salary cap lawsuit with Department of Justice](https://www.pcgamer.com/activision-settles-esports-salary-cap-lawsuit-with-department-of-justice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
