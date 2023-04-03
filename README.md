@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Comparing OpenAI&#39;s ChatGPT, for in-depth replies, and Google&#39;s Bard, for natural dialog, on summarizing an article, telling a joke, picking stocks, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230403/p10#a230403p10)
- - [Crazy rumor points to Galaxy S24 series regaining Exynos power](https://www.androidauthority.com/samsung-galaxy-s24-exynos-rumor-3308718/)
- - [In the War on Bacteria, It’s Time to Call in the Phages](https://www.wired.com/story/phages-fight-antibiotic-resistant-bacteria/)<!-- TECH:END -->
+ - [Best Google Pixel Phone &lpar;2023&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
+ - [Artificial Wombs Will Change Abortion Rights Forever](https://www.wired.com/story/ectogenesis-reproductive-health-abortion/)
+ - [An interview and profile of Tim Cook on running Apple, succeeding Steve Jobs, being an outsider, creativity, avoiding smartphone addiction, rivals, and more &lpar;Zach Baron/GQ&rpar;](http://www.techmeme.com/230403/p11#a230403p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
