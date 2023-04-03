@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to identity male and female skeleton](http://9gag.com/gag/a6q9V7b)
- - 🚯 [Probably had the worst trip of his life.](http://9gag.com/gag/adPO91j)
- - 🚯 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)<!-- MEMES:END -->
+ - 🚖 [She&#39;s so into it](http://9gag.com/gag/az2P91j)
+ - 🚯 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
+ - 🚯 [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)<!-- MEMES:END -->
 
 --- 
 
