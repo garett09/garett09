@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M2 chip production allegedly paused over Mac demand slump](https://appleinsider.com/articles/23/04/03/m2-chip-production-allegedly-paused-over-mac-demand-slump?utm_medium=rss)
- - [ICE Is Grabbing Data From Schools and Abortion Clinics](https://www.wired.com/story/ice-1509-custom-summons/)
- - [‘Winnie the Pooh: Blood and Honey’ Turned a Children’s Icon Into a Murderer. Good](https://www.wired.com/story/winnie-the-pooh-blood-and-honey-copyright-fair-use/)<!-- TECH:END -->
+ - [Comparing OpenAI&#39;s ChatGPT, for in-depth replies, and Google&#39;s Bard, for natural dialog, on summarizing an article, telling a joke, picking stocks, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230403/p10#a230403p10)
+ - [Crazy rumor points to Galaxy S24 series regaining Exynos power](https://www.androidauthority.com/samsung-galaxy-s24-exynos-rumor-3308718/)
+ - [In the War on Bacteria, It’s Time to Call in the Phages](https://www.wired.com/story/phages-fight-antibiotic-resistant-bacteria/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
