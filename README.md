@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
- - 🚯 [Equality](http://9gag.com/gag/aYVOg20)
- - 🚯 [Why though?](http://9gag.com/gag/aVbEY58)<!-- MEMES:END -->
+ - 🚖 [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)
+ - 🚯 [She&#39;s so into it](http://9gag.com/gag/az2P91j)
+ - 🚯 [I have never seen anyone load a gun the way Steven Segal does.](http://9gag.com/gag/aeQOY1q)<!-- MEMES:END -->
 
 --- 
 
