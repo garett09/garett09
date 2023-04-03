@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Massive 3CX Supply Chain Hack Targeted Cryptocurrency Firms](https://www.wired.com/story/3cx-supply-chain-attack-north-korea-cryptocurrency-targets/)
- - [Today in Twitter: where are the retweet labels, and why did Doge replace the bird?](https://www.theverge.com/2023/4/3/23668356/twitter-doge-bird-logo-retweet-labels-following-timeline)
- - [One in three moms track their partner&#39;s every move with Apple tech](https://appleinsider.com/articles/23/04/03/one-in-three-moms-track-their-partners-every-move-with-apple-tech?utm_medium=rss)<!-- TECH:END -->
+ - [Yik Yak, recently acquired by the campus chat app Sidechat, gets revamped to make it more like Sidechat, and both apps now appear to run on the same servers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230403/p19#a230403p19)
+ - [Mac &amp; iPad had a tough quarter in Europe, but better than everybody else&#39;s](https://appleinsider.com/articles/23/04/03/mac-ipad-had-a-tough-quarter-in-europe-but-better-than-everybody-elses?utm_medium=rss)
+ - [There is a big interest in an iPhone Fold, well ahead of any launch](https://appleinsider.com/articles/23/04/03/there-is-a-big-interest-in-an-iphone-fold-well-ahead-of-any-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
