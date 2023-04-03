@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Live-action Street Fighter projects are coming, and they better learn from John Wick](https://www.polygon.com/23668304/street-fighter-new-movie-tv-series-adaptation-legendary)
- - [The Dungeons &amp; Dragons Movie Is Better Than It Has Any Right To Be](https://kotaku.com/dungeons-and-dragons-movie-review-budget-easter-eggs-1850294824)
- - [Accessibility Tags roll out this week on PlayStation Store on the PS5 console](https://blog.playstation.com/2023/04/03/accessibility-tags-roll-out-this-week-on-playstation-store-on-the-ps5-console/)<!-- GAME:END -->
+ - [Overwatch 2’s next hero, Lifeweaver, revealed](https://www.polygon.com/23668534/overwatch-2-new-hero-lifeweaver-support)
+ - [Elden Ring First-Person Mod Offers A New Way To Get Your Ass Kicked](https://kotaku.com/elden-ring-first-person-pc-mod-fromsoftware-skyrim-rpg-1850294963)
+ - [The new League of Legends comic Katarina is packed with lore revelations](https://www.polygon.com/23668479/league-of-legends-katarina-comic-webtoon-riot-forge-mageseeker)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
