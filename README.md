@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A wonderful inspiring story](http://9gag.com/gag/a8qmyOd)
- - 🚯 [Yellow jackets are one of the most aggressive types of wasps, nesting underground and viciously attacking anything that disagrees with the propaganda posted in latest news.](http://9gag.com/gag/avQezWW)
- - 🚯 [He\u2019s in need of victim support](http://9gag.com/gag/aPgP7qn)<!-- MEMES:END -->
+ - 🚖 [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)
+ - 🚯 [It was close](http://9gag.com/gag/aZDwyv6)
+ - 🚯 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)<!-- MEMES:END -->
 
 --- 
 
