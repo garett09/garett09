@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I had my weekend turned on its head by this stop motion-animated pagan fever dream of a game](https://www.pcgamer.com/i-had-my-weekend-turned-on-its-head-by-this-stop-motion-animated-pagan-fever-dream-of-a-game)
- - [76 of the top 100 most-played games on Steam are playable on a Steam Deck](https://www.pcgamer.com/76-of-the-top-100-most-played-games-on-steam-are-playable-on-a-steam-deck)
- - [The D&amp;D movie directors are up for a sequel, maybe featuring Drizzt](https://www.polygon.com/23665427/dungeons-and-dragons-honor-among-thieves-sequel-drizzt-dourden)<!-- GAME:END -->
+ - [Final Fantasy XIV Expansion Now Free To Download](https://kotaku.com/ffxiv-final-fantasy-xiv-stormblood-free-download-pc-1850292776)
+ - [Cyberpunk life-sim RPG Citizen Sleeper&#39;s third, final free DLC is live](https://www.pcgamer.com/cyberpunk-life-sim-rpg-citizen-sleepers-third-final-free-dlc-is-live)
+ - [This upcoming FPS is a love letter to soul patches, JNCOs, nu metal, and everything else 1999](https://www.pcgamer.com/this-upcoming-boomer-shooter-is-a-love-letter-to-soul-patches-jncos-nu-metal-and-everything-else-1999)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
