@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ethernet co-inventor finally bags a Turing Award, half a century later](https://www.pcgamer.com/ethernet-co-inventor-finally-bags-a-turing-award-half-a-century-later)
- - [HyperX Pulsefire Haste 2](https://www.pcgamer.com/hyperx-pulsefire-haste-2)
- - [Super Mario Bros. Movie Cast Wear Their Characters To Opening Night](https://kotaku.com/super-mario-bros-movie-chris-pratt-jack-black-seth-roge-1850294257)<!-- GAME:END -->
+ - [Live-action Street Fighter projects are coming, and they better learn from John Wick](https://www.polygon.com/23668304/street-fighter-new-movie-tv-series-adaptation-legendary)
+ - [The Dungeons &amp; Dragons Movie Is Better Than It Has Any Right To Be](https://kotaku.com/dungeons-and-dragons-movie-review-budget-easter-eggs-1850294824)
+ - [Accessibility Tags roll out this week on PlayStation Store on the PS5 console](https://blog.playstation.com/2023/04/03/accessibility-tags-roll-out-this-week-on-playstation-store-on-the-ps5-console/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
