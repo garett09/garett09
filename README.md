@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yik Yak, recently acquired by the campus chat app Sidechat, gets revamped to make it more like Sidechat, and both apps now appear to run on the same servers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230403/p19#a230403p19)
- - [Mac &amp; iPad had a tough quarter in Europe, but better than everybody else&#39;s](https://appleinsider.com/articles/23/04/03/mac-ipad-had-a-tough-quarter-in-europe-but-better-than-everybody-elses?utm_medium=rss)
- - [There is a big interest in an iPhone Fold, well ahead of any launch](https://appleinsider.com/articles/23/04/03/there-is-a-big-interest-in-an-iphone-fold-well-ahead-of-any-launch?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone Flip: When will Apple get into the foldable iPhone game?](https://www.androidauthority.com/iphone-flip-ipad-foldable-3307783/)
+ - [Sony is adding more accessibility information to games on the PlayStation Store](https://www.theverge.com/2023/4/3/23668538/sony-playstation-store-accessibility-tags-ps5)
+ - [Apple Original &#39;Napoleon&#39; will see theatrical release in November](https://appleinsider.com/articles/23/04/03/apple-original-napoleon-will-see-theatrical-release-in-november?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
