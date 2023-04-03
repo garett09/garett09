@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Starring Anakin Skywalker](http://9gag.com/gag/aQEQ3RW)
- - 🚯 [How to identity male and female skeleton](http://9gag.com/gag/a6q9V7b)
- - 🚯 [This separates a boy from a man](http://9gag.com/gag/agoOL6q)<!-- MEMES:END -->
+ - 🚖 [Professional Athletes they run really fast](http://9gag.com/gag/ay24Xqy)
+ - 🚯 [Tesla being shitty and snitching on owners](http://9gag.com/gag/a8qmyPe)
+ - 🚯 [India testing it\u2019s new high-speed trains](http://9gag.com/gag/aqe82ER)<!-- MEMES:END -->
 
 --- 
 
