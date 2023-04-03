@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s just the inconsiderate world we live in](http://9gag.com/gag/aBdLgrP)
- - 🚯 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
- - 🚯 [Fast as f**k boy](http://9gag.com/gag/amAGv2v)<!-- MEMES:END -->
+ - 🚖 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
+ - 🚯 [Start the rapture](http://9gag.com/gag/a2K8REw)
+ - 🚯 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)<!-- MEMES:END -->
 
 --- 
 
