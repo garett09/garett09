@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 was the best-selling smartphone in 2022](https://appleinsider.com/articles/23/04/03/iphone-13-was-the-best-selling-smartphone-in-2022?utm_medium=rss)
- - [Every iPhone 17 model expected to get always-on display tech](https://appleinsider.com/articles/23/04/03/every-iphone-17-model-expected-to-get-always-on-display-tech?utm_medium=rss)
- - [The &#39;Lucky You&#39; iPhone sold for more than a college tuition](https://appleinsider.com/articles/23/04/03/the-lucky-you-iphone-sold-for-more-than-a-college-tuition?utm_medium=rss)<!-- TECH:END -->
+ - [Google Search adds new travel features, including a &quot;price guarantee&quot; tool for flights and a way to browse hotels in a swipeable story format &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230403/p14#a230403p14)
+ - [FIFA’s post-EA future starts with this AI-powered mobile game](https://www.theverge.com/2023/4/3/23667887/fifa-ai-league-mobile-game)
+ - [The Blue Beetle busts out a Buster Sword in first trailer](https://www.theverge.com/23668090/blue-beetle-trailer-dc-first-look)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
