@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tom Holland&#39;s thriller &#39;The Crowded Room&#39; premieres June 9 on Apple TV+](https://appleinsider.com/articles/23/04/03/tom-hollands-thriller-the-crowded-room-premieres-june-9-on-apple-tv?utm_medium=rss)
- - [How iPhone 14 sales compare to iPhone 12 &amp; iPhone 13](https://appleinsider.com/articles/23/04/03/how-iphone-14-sales-compare-to-iphone-12-iphone-13?utm_medium=rss)
- - [Google Search adds new travel features, including a &quot;price guarantee&quot; tool for flights and a way to browse hotels in a swipeable story format &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230403/p14#a230403p14)<!-- TECH:END -->
+ - [Massive 3CX Supply Chain Hack Targeted Cryptocurrency Firms](https://www.wired.com/story/3cx-supply-chain-attack-north-korea-cryptocurrency-targets/)
+ - [Today in Twitter: where are the retweet labels, and why did Doge replace the bird?](https://www.theverge.com/2023/4/3/23668356/twitter-doge-bird-logo-retweet-labels-following-timeline)
+ - [One in three moms track their partner&#39;s every move with Apple tech](https://appleinsider.com/articles/23/04/03/one-in-three-moms-track-their-partners-every-move-with-apple-tech?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
