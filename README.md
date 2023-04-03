@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
- - 🚯 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
+ - 🚖 [I have never seen anyone load a gun the way Steven Segal does.](http://9gag.com/gag/aeQOY1q)
+ - 🚯 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
  - 🚯 [Lol](http://9gag.com/gag/axov1QK)<!-- MEMES:END -->
 
 --- 
