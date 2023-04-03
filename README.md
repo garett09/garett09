@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)
- - 🚯 [India testing it\u2019s new high-speed trains](http://9gag.com/gag/aqe82ER)
- - 🚯 [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)<!-- MEMES:END -->
+ - 🚖 [Starring Anakin Skywalker](http://9gag.com/gag/aQEQ3RW)
+ - 🚯 [How to identity male and female skeleton](http://9gag.com/gag/a6q9V7b)
+ - 🚯 [This separates a boy from a man](http://9gag.com/gag/agoOL6q)<!-- MEMES:END -->
 
 --- 
 
