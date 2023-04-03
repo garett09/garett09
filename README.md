@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They should have just pronounced him deceased and send him to the crematorium.](http://9gag.com/gag/aOx4dMN)
- - 🚯 [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)
- - 🚯 [Lol](http://9gag.com/gag/axov1QK)<!-- MEMES:END -->
+ - 🚖 [That is crazy](http://9gag.com/gag/abvOYEv)
+ - 🚯 [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)
+ - 🚯 [Tesla being shitty and snitching on owners](http://9gag.com/gag/a8qmyPe)<!-- MEMES:END -->
 
 --- 
 
