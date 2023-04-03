@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s a great week for city builders: 3 new ones are coming to Steam on Wednesday alone](https://www.pcgamer.com/its-a-great-week-for-city-builders-3-new-ones-are-coming-to-steam-on-wednesday-alone)
- - [Overwatch 2&#39;s new support heals with flowers and can yank you out of danger](https://www.pcgamer.com/overwatch-2s-new-support-heals-with-flowers-and-can-yank-you-out-of-danger)
- - [Overwatch 2&#39;s Hot New Support Hero Lifeweaver Leaks, Fans Already Obsessed](https://kotaku.com/overwatch-2-lifeweaver-pansexual-support-hero-patch-1850295449)<!-- GAME:END -->
+ - [Ben Affleck’s new heist movie looks like an even trippier Tenet](https://www.polygon.com/23668671/robert-rodriguez-ben-affleck-hypnotic-trailer-release-date)
+ - [Twitch Star Hasan Thinks One Piece Is Socialist &lpar;And He’s Right&rpar;](https://kotaku.com/hasan-piker-one-piece-socialist-twitch-youtube-politics-1850295738)
+ - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
