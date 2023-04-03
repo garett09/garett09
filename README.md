@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The moment when Vladlen Tatarsky is presented with a figurine, an explosion will thunder in a few minutes...The bomb was in the statue, per early sources.](http://9gag.com/gag/a5XBo1L)
- - 🚯 [She&#39;s so into it](http://9gag.com/gag/az2P91j)
- - 🚯 [I have never seen anyone load a gun the way Steven Segal does.](http://9gag.com/gag/aeQOY1q)<!-- MEMES:END -->
+ - 🚖 [That oil\u2019s going to spi\u2026.. awh\u2026.. ok!](http://9gag.com/gag/awZmQRD)
+ - 🚯 [Lol](http://9gag.com/gag/axov1QK)
+ - 🚯 [She&#39;s so into it](http://9gag.com/gag/az2P91j)<!-- MEMES:END -->
 
 --- 
 
