@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chris Hemsworth’s flaming fist fight is already the best part of Extraction 2](https://www.polygon.com/23667950/extraction-2-trailer-netflix-chris-hemsworth-release-date)
- - [Fist of the Condor: part Bruce Lee, part Rambo, part Sergio Leone, all Marko Zaror](https://www.polygon.com/reviews/23664737/fist-of-the-condor-movie-review-marko-zaror-martial-arts)
- - [Let’s Rank The Pokémon Starters, Worst To Best](https://kotaku.com/let-s-rank-the-pokemon-starters-worst-to-best-1850287696)<!-- GAME:END -->
+ - [All the big new games coming out in April](https://www.polygon.com/23665371/new-video-games-april-2023-release-dates)
+ - [Best Buy is offering an art print with Zelda: Tears of the Kingdom pre-orders](https://www.polygon.com/deals/23667957/best-buy-zelda-tears-of-the-kingdom-pre-order-art-print)
+ - [Popular Survival Game Is Shutting Down And Forcing Fans To Buy A &#39;Next-Gen&#39; Upgrade](https://kotaku.com/ark-2-survival-evolved-2-delay-ps5-upgrade-servers-1850293672)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
