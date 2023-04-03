@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Tor Project partners with VPN maker Mullvad to launch the Mullvad browser, available on Windows, macOS, and Linux, seeking to reduce a user&#39;s &quot;fingerprint&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230403/p12#a230403p12)
- - [Tim Cook enthuses on AR and VR in GQ profile](https://appleinsider.com/articles/23/04/03/tim-cook-an-approachable-but-not-normal-ceo-says-profile?utm_medium=rss)
- - [WWDC HomeKit predictions, Hue Matter update delays &amp; more smart home news](https://appleinsider.com/articles/23/04/03/wwdc-homekit-predictions-hue-matter-update-delays-more-smart-home-news?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 13 was the best-selling smartphone in 2022](https://appleinsider.com/articles/23/04/03/iphone-13-was-the-best-selling-smartphone-in-2022?utm_medium=rss)
+ - [Every iPhone 17 model expected to get always-on display tech](https://appleinsider.com/articles/23/04/03/every-iphone-17-model-expected-to-get-always-on-display-tech?utm_medium=rss)
+ - [The &#39;Lucky You&#39; iPhone sold for more than a college tuition](https://appleinsider.com/articles/23/04/03/the-lucky-you-iphone-sold-for-more-than-a-college-tuition?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
