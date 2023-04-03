@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Sources and leaked images: the next Microsoft Surface Dock will debut in coming weeks with Thunderbolt 4 support, a slimmer design, and no proprietary connector &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230403/p21#a230403p21)
- - [Hulu’s redesigning its unintuitive interface](https://www.theverge.com/2023/4/3/23668643/hulu-interface-side-bar-redesign)<!-- TECH:END -->
+ - [The Best Horror Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-hbo-max-april-2023/#ftag=CAD590a51e)
+ - [Best Wireless Headphones for 2023: Bluetooth and More     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)
+ - [Apple cuts select corporate retail jobs in streamlining effort](https://appleinsider.com/articles/23/04/03/apple-cuts-select-retail-jobs-in-streamlining-effort?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
