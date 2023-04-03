@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
- - 🚯 [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)
- - 🚯 [That oil\u2019s going to spi\u2026.. awh\u2026.. ok!](http://9gag.com/gag/awZmQRD)<!-- MEMES:END -->
+ - 🚖 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
+ - 🚯 [Equality](http://9gag.com/gag/aYVOg20)
+ - 🚯 [Why though?](http://9gag.com/gag/aVbEY58)<!-- MEMES:END -->
 
 --- 
 
