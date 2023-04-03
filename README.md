@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Latest Samsung Galaxy S23 FE leak reads like a cruel April Fools’ Day joke](https://www.androidauthority.com/samsung-galaxy-s23-fe-exynos-2200-3308573/)
  - [Source: soon after Pinduoduo&#39;s app updated to remove backdoor exploits, most of the team working on them was moved to work on Temu, which is a top app in the US &lpar;CNN&rpar;](http://www.techmeme.com/230402/p9#a230402p9)
- - [In a referendum 89% of Parisians voted against keeping shared e-scooters in the city; Lime, Dott, and Tier will have to pull their fleets out by September 1 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230402/p8#a230402p8)
- - [The Absolute Best Nintendo Switch Games to Play in 2023     - CNET](https://www.cnet.com/pictures/the-absolute-best-nintendo-switch-games-to-play-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a referendum 89% of Parisians voted against keeping shared e-scooters in the city; Lime, Dott, and Tier will have to pull their fleets out by September 1 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230402/p8#a230402p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
