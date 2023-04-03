@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That is crazy](http://9gag.com/gag/abvOYEv)
+ - 🚖 [We don&#39;t need a 40k total war, we need this](http://9gag.com/gag/aQEQd9z)
  - 🚯 [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)
- - 🚯 [Tesla being shitty and snitching on owners](http://9gag.com/gag/a8qmyPe)<!-- MEMES:END -->
+ - 🚯 [She&#39;s so into it](http://9gag.com/gag/az2P91j)<!-- MEMES:END -->
 
 --- 
 
