@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s next hero, Lifeweaver, revealed](https://www.polygon.com/23668534/overwatch-2-new-hero-lifeweaver-support)
- - [Elden Ring First-Person Mod Offers A New Way To Get Your Ass Kicked](https://kotaku.com/elden-ring-first-person-pc-mod-fromsoftware-skyrim-rpg-1850294963)
- - [The new League of Legends comic Katarina is packed with lore revelations](https://www.polygon.com/23668479/league-of-legends-katarina-comic-webtoon-riot-forge-mageseeker)<!-- GAME:END -->
+ - [It&#39;s a great week for city builders: 3 new ones are coming to Steam on Wednesday alone](https://www.pcgamer.com/its-a-great-week-for-city-builders-3-new-ones-are-coming-to-steam-on-wednesday-alone)
+ - [Overwatch 2&#39;s new support heals with flowers and can yank you out of danger](https://www.pcgamer.com/overwatch-2s-new-support-heals-with-flowers-and-can-yank-you-out-of-danger)
+ - [Overwatch 2&#39;s Hot New Support Hero Lifeweaver Leaks, Fans Already Obsessed](https://kotaku.com/overwatch-2-lifeweaver-pansexual-support-hero-patch-1850295449)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
