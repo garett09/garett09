@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That oil\u2019s going to spi\u2026.. awh\u2026.. ok!](http://9gag.com/gag/awZmQRD)
- - 🚯 [Lol](http://9gag.com/gag/axov1QK)
- - 🚯 [She&#39;s so into it](http://9gag.com/gag/az2P91j)<!-- MEMES:END -->
+ - 🚖 [The girl thought she could just push him and he\u2019d watch. What is up with people](http://9gag.com/gag/amAGzLd)
+ - 🚯 [Just when you think it\u2019s done](http://9gag.com/gag/a6q9OzL)
+ - 🚯 [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)<!-- MEMES:END -->
 
 --- 
 
