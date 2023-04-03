@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nearby Share is now available for sharing files between Android and Windows](https://www.androidauthority.com/nearby-share-for-windows-pc-android-3308575/)
- - [New York-based grocery e-commerce company Boxed files for Chapter 11 bankruptcy protection; Boxed had said it held most of its cash and liquid assets at SVB &lpar;Bloomberg&rpar;](http://www.techmeme.com/230403/p1#a230403p1)
- - [Samsung Galaxy S23 series is getting the April security patch](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)<!-- TECH:END -->
+ - [The Xiaomi 13 Ultra could be the next camera king with this camera setup](https://www.androidauthority.com/xiaomi-13-ultra-leaked-specifications-3308605/)
+ - [UK study: kids online gravitate to dramatic, short videos, watch split-screen videos, and post fewer videos of their own; people aged 16 to 24 take more breaks &lpar;Ofcom&rpar;](http://www.techmeme.com/230403/p2#a230403p2)
+ - [ChatGPT is already banned in one country](https://www.androidauthority.com/chatgpt-ban-italy-3308581/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
