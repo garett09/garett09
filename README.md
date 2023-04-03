@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search adds new travel features, including a &quot;price guarantee&quot; tool for flights and a way to browse hotels in a swipeable story format &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230403/p14#a230403p14)
- - [FIFA’s post-EA future starts with this AI-powered mobile game](https://www.theverge.com/2023/4/3/23667887/fifa-ai-league-mobile-game)
- - [The Blue Beetle busts out a Buster Sword in first trailer](https://www.theverge.com/23668090/blue-beetle-trailer-dc-first-look)<!-- TECH:END -->
+ - [Tom Holland&#39;s thriller &#39;The Crowded Room&#39; premieres June 9 on Apple TV+](https://appleinsider.com/articles/23/04/03/tom-hollands-thriller-the-crowded-room-premieres-june-9-on-apple-tv?utm_medium=rss)
+ - [How iPhone 14 sales compare to iPhone 12 &amp; iPhone 13](https://appleinsider.com/articles/23/04/03/how-iphone-14-sales-compare-to-iphone-12-iphone-13?utm_medium=rss)
+ - [Google Search adds new travel features, including a &quot;price guarantee&quot; tool for flights and a way to browse hotels in a swipeable story format &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230403/p14#a230403p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
