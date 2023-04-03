@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We don&#39;t need a 40k total war, we need this](http://9gag.com/gag/aQEQd9z)
- - 🚯 [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)
- - 🚯 [She&#39;s so into it](http://9gag.com/gag/az2P91j)<!-- MEMES:END -->
+ - 🚖 [It&#39;s just the inconsiderate world we live in](http://9gag.com/gag/aBdLgrP)
+ - 🚯 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
+ - 🚯 [Fast as f**k boy](http://9gag.com/gag/amAGv2v)<!-- MEMES:END -->
 
 --- 
 
