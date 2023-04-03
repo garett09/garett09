@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
- - 🚯 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
- - 🚯 [Filip Maciejuk causes a huge crash &lpar;Disqualified from Tour of Flanders&rpar;](http://9gag.com/gag/aXnNx72)<!-- MEMES:END -->
+ - 🚯 [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)
+ - 🚯 [That oil\u2019s going to spi\u2026.. awh\u2026.. ok!](http://9gag.com/gag/awZmQRD)<!-- MEMES:END -->
 
 --- 
 
