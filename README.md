@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)
- - 🚯 [I have never seen anyone load a gun the way Steven Segal does.](http://9gag.com/gag/aeQOY1q)
- - 🚯 [`It&#39;s only after we&#39;ve lost everything that we&#39;re free to do anything.`](http://9gag.com/gag/amAGrz9)<!-- MEMES:END -->
+ - 🚖 [How to identity male and female skeleton](http://9gag.com/gag/a6q9V7b)
+ - 🚯 [Probably had the worst trip of his life.](http://9gag.com/gag/adPO91j)
+ - 🚯 [Videos like these make your night](http://9gag.com/gag/a4ozGbd)<!-- MEMES:END -->
 
 --- 
 
