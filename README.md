@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the big new games coming out in April](https://www.polygon.com/23665371/new-video-games-april-2023-release-dates)
- - [Best Buy is offering an art print with Zelda: Tears of the Kingdom pre-orders](https://www.polygon.com/deals/23667957/best-buy-zelda-tears-of-the-kingdom-pre-order-art-print)
- - [Popular Survival Game Is Shutting Down And Forcing Fans To Buy A &#39;Next-Gen&#39; Upgrade](https://kotaku.com/ark-2-survival-evolved-2-delay-ps5-upgrade-servers-1850293672)<!-- GAME:END -->
+ - [WrestleMania 39 review: McMahon looms on wrestling’s star-studded biggest night](https://www.polygon.com/reviews/23668073/wrestlemania-39-review-recap-roman-reigns-vince-mcmahon)
+ - [Pokémon Go Jirachi ‘Wish Granted’ Masterwork Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23608501/jirachi-wish-granted-masterwork-research-tasks-steps-rewards)
+ - [How to tame creatures in Smalland: Survive the Wilds](https://www.pcgamer.com/smalland-survive-the-wilds-how-to-tame)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
