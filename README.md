@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [If this ROG handheld PC is real then Asus announced it in the worst way](https://www.pcgamer.com/asus-rog-ally-gaming-handheld-real-or-stunt)
  - [The RTX 4070 just leaked, looks like a match for an RTX 3080 without frame gen](https://www.pcgamer.com/the-rtx-4070-just-leaked-looks-like-a-match-for-an-rtx-3080-without-frame-gen)
- - [New DirectX 12 preview could pave the way for PCs to become more like an Xbox or PS5](https://www.pcgamer.com/new-directx-12-preview-could-pave-the-way-for-pcs-to-become-more-like-an-xbox-or-ps5)
- - [Where to get refined metal in Dredge](https://www.pcgamer.com/dredge-refined-metal)<!-- GAME:END -->
+ - [New DirectX 12 preview could pave the way for PCs to become more like an Xbox or PS5](https://www.pcgamer.com/new-directx-12-preview-could-pave-the-way-for-pcs-to-become-more-like-an-xbox-or-ps5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
