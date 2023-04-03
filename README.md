@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Secret Invasion’s latest trailer is a prelude to Marvel’s next big war](https://www.theverge.com/2023/4/2/23667453/secret-invasion-mcu-disney-plus-trailer-premiere-date)
  - [Twitter updates the description of all blue checkmarks to say &quot;This account is verified because it&#39;s subscribed to Twitter Blue or is a legacy verified account&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230402/p7#a230402p7)
- - [I Took Cold Showers for a Year and It Was a Waste of Time     - CNET](https://www.cnet.com/culture/internet/features/i-took-cold-showers-for-a-year-and-it-was-a-waste-of-time/#ftag=CAD590a51e)
- - [How Duolingo Turned Me Into a Monster     - CNET](https://www.cnet.com/culture/internet/how-duolingo-turned-me-into-a-monster/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Took Cold Showers for a Year and It Was a Waste of Time     - CNET](https://www.cnet.com/culture/internet/features/i-took-cold-showers-for-a-year-and-it-was-a-waste-of-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
