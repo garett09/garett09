@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Avatar: The Way of Water &lpar;2022&rpar; reused close-up shots from Avatar &lpar;2009&rpar;](http://9gag.com/gag/aqe8bR7)
- - 🚯 [It was close](http://9gag.com/gag/aZDwyv6)
- - 🚯 [Chaotic laundry](http://9gag.com/gag/aoKVO5A)<!-- MEMES:END -->
+ - 🚖 [I wonder how people bite on tall burgers](http://9gag.com/gag/aoKVP63)
+ - 🚯 [A wonderful inspiring story](http://9gag.com/gag/a8qmyOd)
+ - 🚯 [The vegetables in your fridge watching you order another pizza](http://9gag.com/gag/aqe8gy7)<!-- MEMES:END -->
 
 --- 
 
