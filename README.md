@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
- - 🚯 [I&#39;m so furious he was a great, popular dude and very competent programmer. The company ethics comite acknowledged that what the girl said was wrong too but what he said was sexist and therefore somehow worse and against company policy. This happened at a large company in Poland.](http://9gag.com/gag/aWGL1rx)
- - 🚯 [Interesting insights](http://9gag.com/gag/a04V7Md)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/axov1QK)
+ - 🚯 [True villain of the show](http://9gag.com/gag/a4oz70y)
+ - 🚯 [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)<!-- MEMES:END -->
 
 --- 
 
