@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Average Balkan drivers](http://9gag.com/gag/anznzz0)
- - 🚯 [Pretty shocking moves](http://9gag.com/gag/adPOLdD)
- - 🚯 [Just when you think it\u2019s done](http://9gag.com/gag/a6q9OzL)<!-- MEMES:END -->
+ - 🚖 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
+ - 🚯 [Good bye girl](http://9gag.com/gag/abvOgvX)
+ - 🚯 [Start the rapture](http://9gag.com/gag/a2K8REw)<!-- MEMES:END -->
 
 --- 
 
