@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT Has a Big Privacy Problem](https://www.wired.com/story/italy-ban-chatgpt-privacy-gdpr/)
- - [Microsoft announces the $300 Surface Thunderbolt 4 Dock, offering a USB-C port over the proprietary Surface Connect port and supporting non-Surface devices &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230404/p18#a230404p18)
- - [Researchers: eFile.com, an IRS-authorized e-file service, was serving JavaScript malware on its website, weeks after some users suspected the site was hijacked &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230404/p17#a230404p17)<!-- TECH:END -->
+ - [Google backtracks on its decision to cap all Google Drive users to 5 million files, saying it will &quot;explore alternate approaches&quot; &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230404/p19#a230404p19)
+ - [Amazon launches deep discounts on AirTag, Apple Watch, MacBooks &amp; iPads, save up to 38%](https://appleinsider.com/articles/23/04/04/amazon-launches-deep-discounts-on-airtag-apple-watch-macbooks-ipads-save-up-to-38?utm_medium=rss)
+ - [Say hi to Barbie in the new Barbie movie trailer](https://www.theverge.com/2023/4/4/23669743/barbie-movie-trailer-teaser-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
