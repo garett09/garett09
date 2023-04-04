@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wonder how people bite on tall burgers](http://9gag.com/gag/aoKVP63)
- - 🚯 [A wonderful inspiring story](http://9gag.com/gag/a8qmyOd)
- - 🚯 [The vegetables in your fridge watching you order another pizza](http://9gag.com/gag/aqe8gy7)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/axov1QK)
+ - 🚯 [It was close](http://9gag.com/gag/aZDwyv6)
+ - 🚯 [I&#39;m so furious he was a great, popular dude and very competent programmer. The company ethics comite acknowledged that what the girl said was wrong too but what he said was sexist and therefore somehow worse and against company policy. This happened at a large company in Poland.](http://9gag.com/gag/aWGL1rx)<!-- MEMES:END -->
 
 --- 
 
