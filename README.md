@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal adds Apple Pay support for small business payments](https://appleinsider.com/articles/23/04/04/paypal-adds-apple-pay-support-for-small-business-payments?utm_medium=rss)
- - [Harry Styles AirPods ad nominated for 2023 Webby Awards](https://appleinsider.com/articles/23/04/04/harry-styles-airpods-ad-nominated-for-2023-webby-awards?utm_medium=rss)
- - [Samsung invests $3.1B into OLED production for iPad and MacBook Pro](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [ChatGPT Has a Big Privacy Problem](https://www.wired.com/story/italy-ban-chatgpt-privacy-gdpr/)
+ - [Microsoft announces the $300 Surface Thunderbolt 4 Dock, offering a USB-C port over the proprietary Surface Connect port and supporting non-Surface devices &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230404/p18#a230404p18)
+ - [Researchers: eFile.com, an IRS-authorized e-file service, was serving JavaScript malware on its website, weeks after some users suspected the site was hijacked &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230404/p17#a230404p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
