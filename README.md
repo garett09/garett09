@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Indonesia&#39;s QR payment system, used by 22M+ merchants and set to double to 45M in 2023, helps the country bring its small businesses into the formal economy &lpar;Bloomberg&rpar;](http://www.techmeme.com/230404/p6#a230404p6)
- - [Anti-plagiarism software maker Turnitin launches a service to detect AI-generated text in academia, claiming 98% confidence compared to OpenAI&#39;s 26% &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/230404/p5#a230404p5)
- - [Everybody wants a piece of Miles in Spider-Man: Across the Spider-Verse’s latest trailer](https://www.theverge.com/2023/4/4/23668235/spider-man-across-the-spider-verse-trailer-2-new-suit)<!-- TECH:END -->
+ - [A Tiny Blog Took on Big Surveillance in China—and Won](https://www.wired.com/story/surveillance-china-security-camera-giant-ipvm/)
+ - [Poll: Would you buy a phone without a high refresh rate screen?](https://www.androidauthority.com/buy-phone-no-high-refresh-rate-poll-3309137/)
+ - [China&#39;s Micron investigation marks the most significant retaliation against US chip sanctions so far, contradicting Beijing&#39;s recent business-friendly messaging &lpar;New York Times&rpar;](http://www.techmeme.com/230404/p8#a230404p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
