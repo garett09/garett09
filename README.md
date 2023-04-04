@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/axov1QK)
- - 🚯 [Interesting insights](http://9gag.com/gag/a04V7Md)
- - 🚯 [Good bye girl](http://9gag.com/gag/abvOgvX)<!-- MEMES:END -->
+ - 🚖 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
+ - 🚯 [That is silently haunting, eerie and spooky](http://9gag.com/gag/aPgPjNg)
+ - 🚯 [F.R.I.E.N.D.S](http://9gag.com/gag/aQEQXL2)<!-- MEMES:END -->
 
 --- 
 
