@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please](http://9gag.com/gag/adPO572)
- - 🚯 [How to drill square hole](http://9gag.com/gag/aeQODrm)
- - 🚯 [Skier rescues trapped snowboarder](http://9gag.com/gag/a3ZAEd3)<!-- MEMES:END -->
+ - 🚖 [+15 social credit](http://9gag.com/gag/axovBWY)
+ - 🚯 [Skier rescues trapped snowboarder](http://9gag.com/gag/a3ZAEd3)
+ - 🚯 [Keegan and Cranston bloopers](http://9gag.com/gag/aZDw7wz)<!-- MEMES:END -->
 
 --- 
 
