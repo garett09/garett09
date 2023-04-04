@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Streaming Killed E3](https://www.wired.com/story/e3-2023-canceled-streaming-e3-dead/)
- - [Germany says Twitter has repeatedly failed to remove reported illegal content and starts a proceeding under its Network Enforcement Act that may lead to fines &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230404/p20#a230404p20)
- - [Samsung ends update support for the Galaxy S10 series and more](https://www.androidauthority.com/galaxy-s10-series-3309260/)<!-- TECH:END -->
+ - [Instead of halting AI research, an unfeasible task, the industry must improve transparency and accountability by being open to external audits and to regulation &lpar;Sasha Luccioni/Wired&rpar;](http://www.techmeme.com/230404/p21#a230404p21)
+ - [The 35 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
+ - [Apple Music trademark blocked over branding conflict with musician](https://appleinsider.com/articles/23/04/04/apple-music-trademark-blocked-over-branding-conflict-with-musician?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
