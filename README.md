@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aren\u2019t you forgetting something?](http://9gag.com/gag/aMEmjqM)
- - 🚯 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
- - 🚯 [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)<!-- MEMES:END -->
+ - 🚖 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
+ - 🚯 [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
+ - 🚯 [Lol](http://9gag.com/gag/axov1QK)<!-- MEMES:END -->
 
 --- 
 
