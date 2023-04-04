@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PC shipments in Western Europe fell 20.5% YoY in 2022 and 38.5% YoY in Q4 2022, while tablet shipments fell 18.4% YoY in 2022 and 16.5% YoY in Q4 2022 &lpar;Canalys&rpar;](http://www.techmeme.com/230403/p27#a230403p27)
  - [Save up to $1,300 on loaded MacBook Pro models with 64GB RAM, up to 4TB storage](https://appleinsider.com/articles/23/04/04/save-up-to-1300-on-loaded-macbook-pro-models-with-64gb-ram-up-to-4tb-storage?utm_medium=rss)
- - [Post, a Twitter alternative that pays publishers via microtransactions, launches in public beta and says outlets get an average $25 CPM for a paywalled article &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230403/p26#a230403p26)
- - [Best Keto Meal Delivery for 2023     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Post, a Twitter alternative that pays publishers via microtransactions, launches in public beta and says outlets get an average $25 CPM for a paywalled article &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230403/p26#a230403p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
