@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everspace 2 review](https://www.pcgamer.com/everspace-2-review)
- - [Naughty Dog says Steam Deck support is at the bottom of the list while it tries to get The Last of Us working on PC](https://www.pcgamer.com/naughty-dog-says-steam-deck-support-is-at-the-bottom-of-the-list-while-it-tries-to-get-the-last-of-us-working-on-pc)
- - [Can Exeggcute be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23668000/can-exeggcute-be-shiny-exeggutor-alolan)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; The Raya Deals comes to PlayStation Store](https://blog.playstation.com/2023/04/04/20230404-psstore_raya/)
+ - [Samsung&#39;s chip boffins couldn&#39;t help but tell ChatGPT their secrets](https://www.pcgamer.com/samsungs-chip-boffins-couldnt-help-but-tell-chatgpt-their-secrets)
+ - [Acer Predator X32 FP](https://www.pcgamer.com/acer-predator-x32-fp-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
