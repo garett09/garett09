@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada&#39;s privacy commissioner launches an investigation into OpenAI in response to a complaint alleging non-consensual collection and use of personal data &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230404/p23#a230404p23)
- - [Apple Weather forecasts suffer rare outage](https://appleinsider.com/articles/23/04/04/apple-weather-forecasts-suffer-rare-outage?utm_medium=rss)
- - [Apple’s Weather app on iPhone was down this morning](https://www.theverge.com/2023/4/4/23669405/apple-weather-app-down-iphone-issues-problems)<!-- TECH:END -->
+ - [Apple sales executive exits Apple for Department of Defense position](https://appleinsider.com/articles/23/04/04/apple-sales-executive-exits-apple-for-department-of-defense-position?utm_medium=rss)
+ - [Piper Sandler survey of 5,690 US teens in February 2023: 29% owned a VR device, but of those, 14% used it weekly, flat vs. fall 2022, and only 4% used it daily &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230404/p25#a230404p25)
+ - [What to expect from Apple&#39;s second quarter earnings on May 4](https://appleinsider.com/articles/23/04/04/what-to-expect-from-apples-second-quarter-earnings-on-may-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
