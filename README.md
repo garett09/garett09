@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Web3 messaging protocol developer LayerZero Labs raised a $120M Series B at a $3B valuation, up from $1B in March 2022 when the startup raised $135M &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230404/p13#a230404p13)
- - [Why Halt AI Research When We Already Know How To Make It Safer](https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/)
- - [System76 Pangolin Review: A 15-Inch Linux Laptop for the Masses](https://www.wired.com/review/system76-pangolin-linux-laptop/)<!-- TECH:END -->
+ - [13 Best Fitness Trackers &lpar;2023&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [Samsung invests $3.1B into OLED production for iPad and MacBook Pro](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)
+ - [Check out these shows like The Night Agent on Netflix](https://www.androidauthority.com/shows-like-the-night-agent-netflix-3308767/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
