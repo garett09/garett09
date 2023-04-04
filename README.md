@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Fitness Trackers &lpar;2023&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)
- - [Samsung invests $3.1B into OLED production for iPad and MacBook Pro](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)
- - [Check out these shows like The Night Agent on Netflix](https://www.androidauthority.com/shows-like-the-night-agent-netflix-3308767/)<!-- TECH:END -->
+ - [PayPal adds Apple Pay support for small business payments](https://appleinsider.com/articles/23/04/04/paypal-adds-apple-pay-support-for-small-business-payments?utm_medium=rss)
+ - [Harry Styles AirPods ad nominated for 2023 Webby Awards](https://appleinsider.com/articles/23/04/04/harry-styles-airpods-ad-nominated-for-2023-webby-awards?utm_medium=rss)
+ - [Samsung invests $3.1B into OLED production for iPad and MacBook Pro](https://appleinsider.com/articles/23/04/04/samsung-invests-31b-into-oled-production-for-ipad-and-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
