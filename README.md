@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
- - 🚯 [That is silently haunting, eerie and spooky](http://9gag.com/gag/aPgPjNg)
- - 🚯 [F.R.I.E.N.D.S](http://9gag.com/gag/aQEQXL2)<!-- MEMES:END -->
+ - 🚖 [Average Balkan drivers](http://9gag.com/gag/anznzz0)
+ - 🚯 [Pretty shocking moves](http://9gag.com/gag/adPOLdD)
+ - 🚯 [Just when you think it\u2019s done](http://9gag.com/gag/a6q9OzL)<!-- MEMES:END -->
 
 --- 
 
