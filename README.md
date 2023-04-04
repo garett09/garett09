@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside the surprising worldwide success of Netflix’s new hijacking thriller](https://www.polygon.com/23668205/netflix-highest-rated-movies-chor-nikal-ke-bhaga-indian-thriller)
- - [Overwatch 2: Introducing the Origins of Lifeweaver, a New Support Hero](https://news.xbox.com/en-us/2023/04/04/overwatch-2-lifeweaver-origin-trailer/)
- - [Every weekly quest in Fortnite Chapter 4 Season 2 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23639632/chapter-4-season-2-weekly-quests)<!-- GAME:END -->
+ - [Overwatch 2&#39;s new support hero can sabotage his own team, but Blizzard hopes players will behave](https://www.pcgamer.com/overwatch-2s-new-support-hero-can-sabotage-his-own-team-but-blizzard-hopes-players-will-behave)
+ - [Score a Hole-In-One in EA Sports PGA Tour Early with EA Play, Plus Even More Rewards](https://news.xbox.com/en-us/2023/04/04/score-a-hole-in-one-in-ea-sports-pga-tour-early-with-ea-play-plus-even-more-rewards/)
+ - [Overwatch 2’s new hero has the potential to upend the game](https://www.polygon.com/23668698/overwatch-2-hero-lifeweaver-abilities-support)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
