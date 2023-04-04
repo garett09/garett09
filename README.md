@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/axov1QK)
- - 🚯 [True villain of the show](http://9gag.com/gag/a4oz70y)
- - 🚯 [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)<!-- MEMES:END -->
+ - 🚖 [Please](http://9gag.com/gag/adPO572)
+ - 🚯 [How to drill square hole](http://9gag.com/gag/aeQODrm)
+ - 🚯 [Skier rescues trapped snowboarder](http://9gag.com/gag/a3ZAEd3)<!-- MEMES:END -->
 
 --- 
 
