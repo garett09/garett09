@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Everspace 2 review](https://www.pcgamer.com/everspace-2-review)
  - [Naughty Dog says Steam Deck support is at the bottom of the list while it tries to get The Last of Us working on PC](https://www.pcgamer.com/naughty-dog-says-steam-deck-support-is-at-the-bottom-of-the-list-while-it-tries-to-get-the-last-of-us-working-on-pc)
- - [Can Exeggcute be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23668000/can-exeggcute-be-shiny-exeggutor-alolan)
- - [Get up to 60% off SteelSeries peripherals in this Easter sale](https://www.pcgamer.com/get-up-to-60-steelseries-peripherals-in-this-easter-sale)<!-- GAME:END -->
+ - [Can Exeggcute be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23668000/can-exeggcute-be-shiny-exeggutor-alolan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
