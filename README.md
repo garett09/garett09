@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reports an issue with its Weather app on iOS, iPadOS, watchOS, and macOS, ongoing for over five hours; some users have had issues for over a week &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/230404/p10#a230404p10)
- - [Mighty Motorola Edge 40 Pro is here, and Motorola hints it might come to the US](https://www.androidauthority.com/motorola-edge-40-pro-3308956/)
- - [Palantir’s Plan to Decipher the Mysteries of Long Covid](https://www.wired.com/story/wired-health-palantir-big-data-long-covid/)<!-- TECH:END -->
+ - [SEMI report: Japan is expected to spend $7B on chipmaking equipment in 2024, up 82% on 2023, the largest in the world; China&#39;s spending is forecast to rise 2% &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/230404/p12#a230404p12)
+ - [Apple Car&#39;s dashboard may look different to driver &amp; passenger](https://appleinsider.com/articles/23/04/04/apple-cars-dashboard-may-look-different-to-driver-passenger?utm_medium=rss)
+ - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://www.wired.com/story/large-language-model-phishing-scams/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
