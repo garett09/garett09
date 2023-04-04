@@ -134,7 +134,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [Can Exeggcute be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23668000/can-exeggcute-be-shiny-exeggutor-alolan)
- - [Get up to 60% SteelSeries peripherals in this Easter sale](https://www.pcgamer.com/get-up-to-60-steelseries-peripherals-in-this-easter-sale)
+ - [Get up to 60% off SteelSeries peripherals in this Easter sale](https://www.pcgamer.com/get-up-to-60-steelseries-peripherals-in-this-easter-sale)
  - [Wordle hint and answer #654: Tuesday, April 4](https://www.pcgamer.com/wordle-hint-answer-today-654-april-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
