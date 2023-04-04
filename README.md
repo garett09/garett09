@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEMI report: Japan is expected to spend $7B on chipmaking equipment in 2024, up 82% on 2023, the largest in the world; China&#39;s spending is forecast to rise 2% &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/230404/p12#a230404p12)
- - [Apple Car&#39;s dashboard may look different to driver &amp; passenger](https://appleinsider.com/articles/23/04/04/apple-cars-dashboard-may-look-different-to-driver-passenger?utm_medium=rss)
- - [Brace Yourself for a Tidal Wave of ChatGPT Email Scams](https://www.wired.com/story/large-language-model-phishing-scams/)<!-- TECH:END -->
+ - [Web3 messaging protocol developer LayerZero Labs raised a $120M Series B at a $3B valuation, up from $1B in March 2022 when the startup raised $135M &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230404/p13#a230404p13)
+ - [Why Halt AI Research When We Already Know How To Make It Safer](https://www.wired.com/story/the-call-to-halt-dangerous-ai-research-ignores-a-simple-truth/)
+ - [System76 Pangolin Review: A 15-Inch Linux Laptop for the Masses](https://www.wired.com/review/system76-pangolin-linux-laptop/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
