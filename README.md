@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone is Barbie in the Barbie movie trailer](https://www.polygon.com/23669508/barbie-trailer-cast-release-date-allan-midge)
- - [Get Meet Your Maker with PlayStation Plus, available today](https://blog.playstation.com/2023/04/04/get-meet-your-maker-with-playstation-plus-available-today/)
- - [Prepare to Meet Your Maker on Xbox One and Xbox Series X|S Today](https://news.xbox.com/en-us/2023/04/04/meet-your-maker-xbox-launch/)<!-- GAME:END -->
+ - [Inside the surprising worldwide success of Netflix’s new hijacking thriller](https://www.polygon.com/23668205/netflix-highest-rated-movies-chor-nikal-ke-bhaga-indian-thriller)
+ - [Overwatch 2: Introducing the Origins of Lifeweaver, a New Support Hero](https://news.xbox.com/en-us/2023/04/04/overwatch-2-lifeweaver-origin-trailer/)
+ - [Every weekly quest in Fortnite Chapter 4 Season 2 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23639632/chapter-4-season-2-weekly-quests)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
