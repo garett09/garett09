@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Filip Maciejuk causes a huge crash &lpar;Disqualified from Tour of Flanders&rpar;](http://9gag.com/gag/aXnNx72)
- - 🚯 [Title](http://9gag.com/gag/a3ZAEzm)
- - 🚯 [She&#39;s so into it](http://9gag.com/gag/az2P91j)<!-- MEMES:END -->
+ - 🚖 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
+ - 🚯 [I&#39;m so furious he was a great, popular dude and very competent programmer. The company ethics comite acknowledged that what the girl said was wrong too but what he said was sexist and therefore somehow worse and against company policy. This happened at a large company in Poland.](http://9gag.com/gag/aWGL1rx)
+ - 🚯 [Interesting insights](http://9gag.com/gag/a04V7Md)<!-- MEMES:END -->
 
 --- 
 
