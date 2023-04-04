@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [+15 social credit](http://9gag.com/gag/axovBWY)
- - 🚯 [Skier rescues trapped snowboarder](http://9gag.com/gag/a3ZAEd3)
- - 🚯 [Keegan and Cranston bloopers](http://9gag.com/gag/aZDw7wz)<!-- MEMES:END -->
+ - 🚖 [Aren\u2019t you forgetting something?](http://9gag.com/gag/aMEmjqM)
+ - 🚯 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
+ - 🚯 [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)<!-- MEMES:END -->
 
 --- 
 
