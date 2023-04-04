@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sales executive exits Apple for Department of Defense position](https://appleinsider.com/articles/23/04/04/apple-sales-executive-exits-apple-for-department-of-defense-position?utm_medium=rss)
- - [Piper Sandler survey of 5,690 US teens in February 2023: 29% owned a VR device, but of those, 14% used it weekly, flat vs. fall 2022, and only 4% used it daily &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230404/p25#a230404p25)
- - [What to expect from Apple&#39;s second quarter earnings on May 4](https://appleinsider.com/articles/23/04/04/what-to-expect-from-apples-second-quarter-earnings-on-may-4?utm_medium=rss)<!-- TECH:END -->
+ - [Everstream Analytics, a provider of predictive insights for supply chain management, raised a $50M Series B co-led by Morgan Stanley&#39;s 1GT Fund and StepStone &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230404/p27#a230404p27)
+ - [Biden says tech companies have a responsibility to ensure AI products are safe before making them public and that it remains to be seen whether AI is dangerous &lpar;Jeff Mason/Reuters&rpar;](http://www.techmeme.com/230404/p26#a230404p26)
+ - [Apple sales executive exits Apple for Department of Defense position](https://appleinsider.com/articles/23/04/04/apple-sales-executive-exits-apple-for-department-of-defense-position?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
