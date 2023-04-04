@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Trap-Filled Towers And Teenage Dreamers](https://kotaku.com/april-game-releases-out-this-week-meet-your-maker-1850298006)
- - [We&#39;re teaming up with SpecialEffect and EPOS for an all-year gaming giveaway!](https://www.pcgamer.com/were-teaming-up-with-specialeffect-and-epos-for-an-all-year-gaming-giveaway)
- - [The Best-Looking Video Game Consoles Of All Time](https://kotaku.com/best-design-game-consoles-nintendo-sony-sega-ps4-snes-1701411760)<!-- GAME:END -->
+ - [Everyone is Barbie in the Barbie movie trailer](https://www.polygon.com/23669508/barbie-trailer-cast-release-date-allan-midge)
+ - [Get Meet Your Maker with PlayStation Plus, available today](https://blog.playstation.com/2023/04/04/get-meet-your-maker-with-playstation-plus-available-today/)
+ - [Prepare to Meet Your Maker on Xbox One and Xbox Series X|S Today](https://news.xbox.com/en-us/2023/04/04/meet-your-maker-xbox-launch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
