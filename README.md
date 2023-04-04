@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $1,300 on loaded MacBook Pro models with 64GB RAM, up to 4TB storage](https://appleinsider.com/articles/23/04/04/save-up-to-1300-on-loaded-macbook-pro-models-with-64gb-ram-up-to-4tb-storage?utm_medium=rss)
  - [Post, a Twitter alternative that pays publishers via microtransactions, launches in public beta and says outlets get an average $25 CPM for a paywalled article &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230403/p26#a230403p26)
- - [Cybersecurity company Cybereason has raised $100M led by SoftBank and says Eric Gan, EVP of SoftBank, will be its new CEO, replacing co-founder Lior Div &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230403/p25#a230403p25)
- - [UK-based Quantexa, which uses AI to help businesses prevent online fraud and manage customer data, raised a $129M Series E led by GIC at a $1.8B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230403/p24#a230403p24)<!-- TECH:END -->
+ - [Best Keto Meal Delivery for 2023     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
