@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We need more men like him \ud83e\udd79](http://9gag.com/gag/aGE8ZzZ)
- - 🚯 [Good bye girl](http://9gag.com/gag/abvOgvX)
- - 🚯 [Start the rapture](http://9gag.com/gag/a2K8REw)<!-- MEMES:END -->
+ - 🚖 [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
+ - 🚯 [Why washing your dried chilies is important](http://9gag.com/gag/aGE8po6)
+ - 🚯 [Not harder, not faster, not different. Exactly. The. Same.](http://9gag.com/gag/a7qeEdq)<!-- MEMES:END -->
 
 --- 
 
