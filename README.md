@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Tiny Blog Took on Big Surveillance in China—and Won](https://www.wired.com/story/surveillance-china-security-camera-giant-ipvm/)
- - [Poll: Would you buy a phone without a high refresh rate screen?](https://www.androidauthority.com/buy-phone-no-high-refresh-rate-poll-3309137/)
- - [China&#39;s Micron investigation marks the most significant retaliation against US chip sanctions so far, contradicting Beijing&#39;s recent business-friendly messaging &lpar;New York Times&rpar;](http://www.techmeme.com/230404/p8#a230404p8)<!-- TECH:END -->
+ - [Apple reports an issue with its Weather app on iOS, iPadOS, watchOS, and macOS, ongoing for over five hours; some users have had issues for over a week &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/230404/p10#a230404p10)
+ - [Mighty Motorola Edge 40 Pro is here, and Motorola hints it might come to the US](https://www.androidauthority.com/motorola-edge-40-pro-3308956/)
+ - [Palantir’s Plan to Decipher the Mysteries of Long Covid](https://www.wired.com/story/wired-health-palantir-big-data-long-covid/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
