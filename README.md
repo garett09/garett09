@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/axov1QK)
- - 🚯 [They caught you](http://9gag.com/gag/aDYnzmd)
- - 🚯 [Just when you think it\u2019s done](http://9gag.com/gag/a6q9OzL)<!-- MEMES:END -->
+ - 🚖 [Filip Maciejuk causes a huge crash &lpar;Disqualified from Tour of Flanders&rpar;](http://9gag.com/gag/aXnNx72)
+ - 🚯 [Title](http://9gag.com/gag/a3ZAEzm)
+ - 🚯 [She&#39;s so into it](http://9gag.com/gag/az2P91j)<!-- MEMES:END -->
 
 --- 
 
