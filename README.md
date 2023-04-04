@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; The Raya Deals comes to PlayStation Store](https://blog.playstation.com/2023/04/04/20230404-psstore_raya/)
- - [Samsung&#39;s chip boffins couldn&#39;t help but tell ChatGPT their secrets](https://www.pcgamer.com/samsungs-chip-boffins-couldnt-help-but-tell-chatgpt-their-secrets)
- - [Acer Predator X32 FP](https://www.pcgamer.com/acer-predator-x32-fp-review)<!-- GAME:END -->
+ - [Pixar’s Elemental draws an interracial love story from a personal place](https://www.polygon.com/23668778/elemental-pixar-director-interview-interracial-relationship-allegory)
+ - [Coming to Xbox Game Pass: Minecraft Legends, Loop Hero, Ghostwire: Tokyo, and More](https://news.xbox.com/en-us/2023/04/04/game-pass-april-2023-wave-1-announce/)
+ - [What Diablo 4 classes did we love the most during the beta?](https://www.pcgamer.com/what-diablo-4-classes-did-we-love-the-most-during-the-beta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
