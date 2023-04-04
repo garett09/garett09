@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Heal](http://9gag.com/gag/anznQ7z)
- - 🚯 [Start the rapture](http://9gag.com/gag/a2K8REw)
- - 🚯 [Good bye girl](http://9gag.com/gag/abvOgvX)<!-- MEMES:END -->
+ - 🚖 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)
+ - 🚯 [Pamcasso! Father figure.](http://9gag.com/gag/ay242W8)
+ - 🚯 [I&#39;m so furious he was a great, popular dude and very competent programmer. The company ethics comite acknowledged that what the girl said was wrong too but what he said was sexist and therefore somehow worse and against company policy. This happened at a large company in Poland.](http://9gag.com/gag/aWGL1rx)<!-- MEMES:END -->
 
 --- 
 
