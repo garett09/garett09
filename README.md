@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Naughty Dog Say The Last Of Us&#39; PC Port Not &#39;The Quality Level You Expect And Deserve&#39;](https://kotaku.com/last-of-us-pc-port-broken-busted-refund-patch-update-1850296305)
- - [I knew Capcom was doing pretty well, but its stock is skyrocketing](https://www.pcgamer.com/i-knew-capcom-was-doing-pretty-well-but-its-stock-is-skyrocketing)
- - [Activision settles esports salary cap lawsuit with Department of Justice](https://www.pcgamer.com/activision-settles-esports-salary-cap-lawsuit-with-department-of-justice)<!-- GAME:END -->
+ - [US Government Went After Activision Over Stingy Esports Salaries](https://kotaku.com/activision-blizzard-case-legal-esports-overwatch-league-1850296586)
+ - [Steam Deck Competitor Promises Better Visuals, Windows 11](https://kotaku.com/steam-deck-competitor-asus-ally-rog-reveal-announce-pc-1850296463)
+ - [Harry Potter reboot reportedly coming to HBO as a TV series](https://www.polygon.com/23668971/harry-potter-reboot-hbo-series-tv)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
