@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Xbox Wireless Controller – Remix Special Edition Is Made Partly from Reclaimed CDs, Water Jugs… and Other Controllers’ Parts](https://news.xbox.com/en-us/2023/04/04/new-xbox-wireless-controller-remix-special-edition/)
- - [Player mutiny forces 19-year-old MMO to retract new &#39;pay-to-raid&#39; feature two weeks after announcing it](https://www.pcgamer.com/player-mutiny-forces-19-year-old-mmo-to-retract-new-pay-to-raid-feature-two-weeks-after-announcing-it)
- - [Here’s every Barbie and Ken in the Barbie movie](https://www.polygon.com/23669471/barbie-movie-cast-characters-ken-posters)<!-- GAME:END -->
+ - [The Week In Games: Trap-Filled Towers And Teenage Dreamers](https://kotaku.com/april-game-releases-out-this-week-meet-your-maker-1850298006)
+ - [We&#39;re teaming up with SpecialEffect and EPOS for an all-year gaming giveaway!](https://www.pcgamer.com/were-teaming-up-with-specialeffect-and-epos-for-an-all-year-gaming-giveaway)
+ - [The Best-Looking Video Game Consoles Of All Time](https://kotaku.com/best-design-game-consoles-nintendo-sony-sega-ps4-snes-1701411760)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
