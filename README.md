@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clone High is coming back to wipe Velma’s bad taste from our mouths](https://www.polygon.com/23671512/clone-high-trailer-release)
- - [ICYMI: April’s ID@Xbox Showcase on Twitch](https://news.xbox.com/en-us/2023/04/05/aprils-idxbox-showcase-on-twitch/)
- - [The Hardest Resident Evil 4 Remake Puzzles Have Easy Solutions](https://kotaku.com/resident-evil-4-remake-puzzle-solutions-treasury-church-1850304425)<!-- GAME:END -->
+ - [The Art of Boredom](https://news.xbox.com/en-us/2023/04/05/the-art-of-boredom/)
+ - [The Mandalorian finally made good on this season’s dangling plot thread](https://www.polygon.com/23671251/mandalorian-bo-katan-darksaber-explainer)
+ - [OK, These Elden Ring Mods Are Getting Outta Control](https://kotaku.com/elden-ring-broken-af-mod-jet-tank-garden-eyes-malenia-1850304700)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
