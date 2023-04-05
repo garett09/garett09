@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pamcasso! Father figure.](http://9gag.com/gag/ay242W8)
- - 🚯 [How to embarrass your girl](http://9gag.com/gag/aqe8erL)
- - 🚯 [His pride and that wiggling arm...](http://9gag.com/gag/anznzxo)<!-- MEMES:END -->
+ - 🚖 [What would you do?](http://9gag.com/gag/a3ZAGR5)
+ - 🚯 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)
+ - 🚯 [Average Balkan drivers](http://9gag.com/gag/anznzz0)<!-- MEMES:END -->
 
 --- 
 
