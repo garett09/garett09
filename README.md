@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh snap](http://9gag.com/gag/a7qeqDw)
- - 🚯 [Pamcasso! Father figure.](http://9gag.com/gag/ay242W8)
- - 🚯 [Had an \u201cinternal meltdown\u201d. After all this assessment tests and 45 min. talking about each detail of my CV I had enough. I\u2019m qualified, my CV has no empty spots and all backed by documents from former companies with contact infos for further questions.](http://9gag.com/gag/aKE9EwZ)<!-- MEMES:END -->
+ - 🚖 [So this girl asks if men would rather have a beautiful girl who doesn&#39;t love you, or have a girl that loves you with all her heart but isn&#39;t pretty. The answer, by Rey Misterio, says it all. What a wholesome moment. Summary: don&#39;t go *just* for looks fellas](http://9gag.com/gag/a5XBVjE)
+ - 🚯 [F.R.I.E.N.D.S](http://9gag.com/gag/aQEQXL2)
+ - 🚯 [If this scene was from a parody movie, I would watch it](http://9gag.com/gag/aoKVWVe)<!-- MEMES:END -->
 
 --- 
 
