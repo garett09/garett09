@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bookbinders are turning fanfiction into hardcover masterpieces](https://www.polygon.com/23669602/tiktok-fanfic-ao3-book-binders-harry-potter)
- - [No Man&#39;s Sky&#39;s next major update adds new ships and spooky corrupted planets](https://www.pcgamer.com/no-mans-skys-next-major-update-adds-new-ships-and-spooky-corrupted-planets)
- - [How to get Abyssal and Hadal fishing rods in Dredge](https://www.pcgamer.com/dredge-abyssal-hadal-fishing-rods)<!-- GAME:END -->
+ - [God of War Ragnarök New Game Plus is available now](https://blog.playstation.com/2023/04/05/god-of-war-ragnarok-new-game-plus-is-available-now/)
+ - [Start Your New Adventure With Black Desert’s New Class, Maegu](https://news.xbox.com/en-us/2023/04/05/black-desert-new-class-maegu/)
+ - [Twitter’s web logo is still the decade-old Doge meme](https://www.polygon.com/23669461/twitter-doge-logo-elon-musk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
