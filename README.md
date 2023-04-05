@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)
- - 🚯 [Atleast the kid was honest.](http://9gag.com/gag/aOx44xN)
- - 🚯 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)<!-- MEMES:END -->
+ - 🚖 [Not part of your ped0 cult](http://9gag.com/gag/anznneo)
+ - 🚯 [Taylor](http://9gag.com/gag/armAybd)
+ - 🚯 [Amazing footwork](http://9gag.com/gag/abvO1MO)<!-- MEMES:END -->
 
 --- 
 
