@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #655: Wednesday, April 5](https://www.pcgamer.com/wordle-hint-answer-today-655-april-5)
- - [Agony spin-off Succubus VR has been banned from Steam](https://www.pcgamer.com/agony-spin-off-succubus-vr-has-been-banned-from-steam)
- - [Xbox&#39;s new controller is made of one-third reclaimed materials](https://www.pcgamer.com/xboxs-new-controller-is-one-third-reclaimed-materials)<!-- GAME:END -->
+ - [The 2023 movie preview](https://www.polygon.com/23529280/biggest-new-movies-2023-coming-out-most-anticipated-preview)
+ - [How to get explosives in Dredge](https://www.pcgamer.com/dredge-explosives)
+ - [Cyberpunk 2077&#39;s New &#39;Overdrive&#39; Mode&#39;s Visuals Look Incredible](https://kotaku.com/cyberpunk-2077-nvidia-ray-tracing-dlss-visuals-graphics-1850300970)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
