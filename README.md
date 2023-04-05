@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Mario Bros. Movie’s post-credits sequence teases a sequel](https://www.polygon.com/23670297/mario-movie-after-credits-scene-end)
- - [YouTuber bypasses ChatGPT&#39;s ethical constraints to make it generate working Windows 95 keys](https://www.pcgamer.com/youtuber-bypasses-chatgpts-ethical-constraints-to-make-it-generate-working-windows-95-keys)
- - [&#39;There will be a Chirper, for sure&#39; in Cities: Skylines 2, says Colossal Order CEO](https://www.pcgamer.com/there-will-be-a-chirper-for-sure-in-cities-skylines-2-says-colossal-order-ceo)<!-- GAME:END -->
+ - [My favorite multiplayer game of 2023 so far is basically competitive Hitman](https://www.pcgamer.com/my-favorite-multiplayer-game-of-2023-so-far-is-basically-competitive-hitman)
+ - [When will the Mario movie come to Netflix and streaming?](https://www.polygon.com/23671689/mario-movie-streaming-netflix-peacock-date)
+ - [The Barbie movie is teaching us about all her discontinued friends](https://www.polygon.com/23671465/barbie-movie-allan-doll-midge-discontinued-friends)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
