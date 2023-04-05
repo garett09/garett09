@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 43 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
- - [ASUS ROG Phone 7 leak reveals a very familiar design](https://www.androidauthority.com/rog-phone-7-leak-3309827/)
- - [Saudi Arabia&#39;s Savvy Games Group agrees to acquire mobile game maker Scopely for $4.9B; founded in 2011, Scopely was reportedly valued at $5.4B in October 2021 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230405/p28#a230405p28)<!-- TECH:END -->
+ - [iOS 17 could introduce updated Control Center, says leaker](https://appleinsider.com/articles/23/04/05/ios-17-could-introduce-updated-control-center-says-leaker?utm_medium=rss)
+ - [Report: Phil Harrison, the head of defunct cloud gaming service Google Stadia, left the company in January 2023; Harrison joined Google as a VP in January 2018 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230405/p30#a230405p30)
+ - [Donald Trump was arrested, please like and subscribe](https://www.theverge.com/2023/4/5/23671490/donald-trump-protest-arrest-content-creators-influencers-truth-social)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
