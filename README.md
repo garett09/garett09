@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: A ton of you really like the Redmi Note 12 Turbo](https://www.androidauthority.com/redmi-note-12-turbo-poll-results-3309611/)
- - [8 Best Photo Printing Services &lpar;2023&rpar;: Tips, Print Quality, and More](https://www.wired.com/story/best-photo-printing-services/)
- - [There’s No Such Thing as a One-Size-Fits-All Web](https://www.wired.com/story/platforms-design-ux-affordances/)<!-- TECH:END -->
+ - [MobileCoin Chief Product Officer Bob Lee, an ex-Square CTO who worked on CashApp and before that Android, dies after reportedly being stabbed in San Francisco &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/230405/p17#a230405p17)
+ - [Apple&#39;s manufacturing efforts in India are slowly reducing reliance on China](https://appleinsider.com/articles/23/04/05/apples-manufacturing-efforts-in-india-are-slowly-reducing-reliance-on-china?utm_medium=rss)
+ - [The Latest ‘Overwatch 2’ Hero Is Going to Start a Class War](https://www.wired.com/story/overwatch-2-support-hero-lifeweaver/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
