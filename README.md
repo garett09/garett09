@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Art of Boredom](https://news.xbox.com/en-us/2023/04/05/the-art-of-boredom/)
- - [The Mandalorian finally made good on this season’s dangling plot thread](https://www.polygon.com/23671251/mandalorian-bo-katan-darksaber-explainer)
- - [OK, These Elden Ring Mods Are Getting Outta Control](https://kotaku.com/elden-ring-broken-af-mod-jet-tank-garden-eyes-malenia-1850304700)<!-- GAME:END -->
+ - [I Tried The Super Mario Bros. Movie Hot Sauce And Lived](https://kotaku.com/super-mario-bros-movie-hot-sauce-truffle-review-1850305141)
+ - [A Fun Hobby Turned into a Full-Fledged Game: the Journey of Shukuchi Ninja’s Solo Developer](https://news.xbox.com/en-us/2023/04/05/from-hobby-to-game-the-journey-of-shukuchi-ninja/)
+ - [Diablo IV Devs On How They Plan On Keeping You Hooked For Hundreds of Hours](https://kotaku.com/diablo-iv-world-boss-epic-loot-nightmare-dungeons-1850304925)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
