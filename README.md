@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kobo’s all-you-can-read subscription coming to the US could challenge Amazon](https://www.theverge.com/2023/4/5/23669736/kobo-plus-unlimited-ebook-audiobook-us-launch-kindle-unlimited)
- - [Kobo launches the Kobo Elipsa 2E, a huge e-reader you can also write on](https://www.theverge.com/2023/4/5/23669572/kobo-elipsa-2e-e-reader-tablet-kindle-scribe-onyx-remarkable)
- - [Apple service support to end for iOS 11 era software in May](https://appleinsider.com/articles/23/04/05/apple-service-support-to-end-for-ios-11-era-software-in-may?utm_medium=rss)<!-- TECH:END -->
+ - [It’s Way Too Easy to Get Google’s Bard Chatbot to Lie](https://www.wired.com/story/its-way-too-easy-to-get-googles-bard-chatbot-to-lie/)
+ - [A look at Amazon&#39;s struggle to clear technical and regulatory hurdles for US drone deliveries, like not being certified to fly over active roadways and people &lpar;Wired&rpar;](http://www.techmeme.com/230405/p1#a230405p1)
+ - [Kobo’s all-you-can-read subscription coming to the US could challenge Amazon](https://www.theverge.com/2023/4/5/23669736/kobo-plus-unlimited-ebook-audiobook-us-launch-kindle-unlimited)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
