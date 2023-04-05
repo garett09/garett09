@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MobileCoin Chief Product Officer Bob Lee, an ex-Square CTO who worked on CashApp and before that Android, dies after reportedly being stabbed in San Francisco &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/230405/p17#a230405p17)
- - [Apple&#39;s manufacturing efforts in India are slowly reducing reliance on China](https://appleinsider.com/articles/23/04/05/apples-manufacturing-efforts-in-india-are-slowly-reducing-reliance-on-china?utm_medium=rss)
- - [The Latest ‘Overwatch 2’ Hero Is Going to Start a Class War](https://www.wired.com/story/overwatch-2-support-hero-lifeweaver/)<!-- TECH:END -->
+ - [Deals: $150 off M2 MacBook Pro, Apple Watch Milanese Loop $429, 39% off Philips Hue, more](https://appleinsider.com/articles/23/04/05/deals-150-off-m2-macbook-pro-apple-watch-milanese-loop-429-39-off-philips-hue-more?utm_medium=rss)
+ - [What Would Strategic Relocation from Charleston Look Like?](https://www.wired.com/story/one-citys-escape-plan-from-rising-seas/)
+ - [A more sane iOS 17 compatibility list has been leaked](https://appleinsider.com/articles/23/04/05/a-more-sane-ios-17-compatibility-list-has-been-leaked?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
