@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Deadly Cousin of Ebola Has Flared Up in Africa](https://www.wired.com/story/marburg-virus-tanzania-equatorial-guinea-vaccines/)
- - [This Student Is Taking On ‘Biased’ Exam Software](https://www.wired.com/story/student-exam-software-bias-proctorio/)
- - [Galaxy Tab S9 Ultra specs leak: A more durable and powerful Samsung tablet](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-specs-3308577/)<!-- TECH:END -->
+ - [Sources: Chinese regulators have slowed merger approvals of deals by US firms, asking some to make products that they sell in other countries available in China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230405/p3#a230405p3)
+ - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
+ - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
