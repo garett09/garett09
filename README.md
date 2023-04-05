@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I Tried The Super Mario Bros. Movie Hot Sauce And Lived](https://kotaku.com/super-mario-bros-movie-hot-sauce-truffle-review-1850305141)
- - [A Fun Hobby Turned into a Full-Fledged Game: the Journey of Shukuchi Ninja’s Solo Developer](https://news.xbox.com/en-us/2023/04/05/from-hobby-to-game-the-journey-of-shukuchi-ninja/)
- - [Diablo IV Devs On How They Plan On Keeping You Hooked For Hundreds of Hours](https://kotaku.com/diablo-iv-world-boss-epic-loot-nightmare-dungeons-1850304925)<!-- GAME:END -->
+ - [The Super Mario Bros. Movie’s post-credits sequence teases a sequel](https://www.polygon.com/23670297/mario-movie-after-credits-scene-end)
+ - [YouTuber bypasses ChatGPT&#39;s ethical constraints to make it generate working Windows 95 keys](https://www.pcgamer.com/youtuber-bypasses-chatgpts-ethical-constraints-to-make-it-generate-working-windows-95-keys)
+ - [&#39;There will be a Chirper, for sure&#39; in Cities: Skylines 2, says Colossal Order CEO](https://www.pcgamer.com/there-will-be-a-chirper-for-sure-in-cities-skylines-2-says-colossal-order-ceo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
