@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A week ahead of Ethereum&#39;s Shanghai and Capella upgrades, ETH is up 6% over the past three days, surpassing $1,900 to a nine-month high and outperforming BTC &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230405/p33#a230405p33)
- - [eFile tax website served malware to visitors for weeks](https://appleinsider.com/articles/23/04/05/efile-tax-website-served-malware-to-visitors-for-weeks?utm_medium=rss)
- - [Kyoto-based Kyocera plans to spend ~$470M over six years on a new chip materials plant in Nagasaki prefecture, its first domestic production facility since 2005 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230405/p32#a230405p32)<!-- TECH:END -->
+ - [Bitcoin whitepaper found hidden in macOS with unknown &#39;Virtual Scanner II&#39; app](https://appleinsider.com/articles/23/04/05/bitcoin-whitepaper-found-hidden-in-macos-with-unknown-virtual-scanner-ii-app?utm_medium=rss)
+ - [Tests show that Twitter&#39;s &quot;stay informed&quot; labels, implemented in February 2022 to flag tweets with links to Russia or China-controlled sites, no longer appear &lpar;Semafor&rpar;](http://www.techmeme.com/230405/p34#a230405p34)
+ - [A week ahead of Ethereum&#39;s Shanghai and Capella upgrades, ETH is up 6% over the past three days, surpassing $1,900 to a nine-month high and outperforming BTC &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230405/p33#a230405p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
