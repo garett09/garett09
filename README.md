@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision is tormenting Call of Duty cheaters in order to study them, stealing their weapons and turning their enemies invisible](https://www.pcgamer.com/activision-is-tormenting-call-of-duty-cheaters-in-order-to-study-them-stealing-their-weapons-and-turning-their-enemies-invisible)
- - [Here&#39;s something to do while you wait for Diablo 4: Plot out Diablo 4 characters with this incredibly handy build planner tool](https://www.pcgamer.com/heres-something-to-do-while-you-wait-for-diablo-4-plot-out-diablo-4-characters-with-this-incredibly-handy-build-planner-tool)
- - [Overwatch 2&#39;s Lifeweaver Seems To Confirm Baptiste Is Queer, Too](https://kotaku.com/overwatch-2-ptr-lifeweaver-season-4-baptiste-new-hero-1850300708)<!-- GAME:END -->
+ - [Snoop Dogg Bails As Faze Clan Circles The Drain](https://kotaku.com/snoop-dogg-faze-clan-bail-leave-quit-ipo-public-shares-1850301217)
+ - [Free Total War: Warhammer 3 DLC releasing alongside Chaos Dwarfs detailed](https://www.pcgamer.com/free-total-war-warhammer-3-dlc-releasing-alongside-chaos-dwarfs-detailed)
+ - [Super Mario Bros movie review round-up: &#39;Chris Pratt doesn&#39;t ruin the movie&#39; but it&#39;s still not that great](https://www.pcgamer.com/super-mario-bros-movie-chris-pratt-doesnt-ruin-the-movie-but-its-still-not-that-great)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
