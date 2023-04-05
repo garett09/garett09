@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
- - 🚯 [Why washing your dried chilies is important](http://9gag.com/gag/aGE8po6)
- - 🚯 [Not harder, not faster, not different. Exactly. The. Same.](http://9gag.com/gag/a7qeEdq)<!-- MEMES:END -->
+ - 🚖 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)
+ - 🚯 [Good bye girl](http://9gag.com/gag/abvOgvX)
+ - 🚯 [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)<!-- MEMES:END -->
 
 --- 
 
