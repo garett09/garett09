@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)
- - 🚯 [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
- - 🚯 [F.R.I.E.N.D.S](http://9gag.com/gag/aQEQXL2)<!-- MEMES:END -->
+ - 🚖 [Interesting insights](http://9gag.com/gag/a04V7Md)
+ - 🚯 [Pickaxe of power](http://9gag.com/gag/aL1ep2z)
+ - 🚯 [His pride and that wiggling arm...](http://9gag.com/gag/anznzxo)<!-- MEMES:END -->
 
 --- 
 
