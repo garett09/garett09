@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Brex co-CEO Henrique Dubugras on the collapse of Silicon Valley Bank, launching Brex travel to compete with SAP Concur and Navan, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230405/p9#a230405p9)
- - [Google Pixel Buds Pro vs Pixel Buds A-Series: Which buds are best?](https://www.androidauthority.com/google-pixel-buds-comparison-3301019/)
- - [As AI chatbots explode, Helsinki-based Silo AI and other European startups race to improve responses in languages other than English, like German and Arabic &lpar;Financial Times&rpar;](http://www.techmeme.com/230405/p8#a230405p8)<!-- TECH:END -->
+ - [Meta CTO Andrew Bosworth says the company plans to begin commercializing its generative AI in 2023 and remains at the &quot;very forefront&quot; of the LLM field &lpar;Kazuyuki Okudaira/Nikkei Asia&rpar;](http://www.techmeme.com/230405/p12#a230405p12)
+ - [WIRED’s New Podcast Invites You to ‘Have a Nice Future’](https://www.wired.com/story/have-a-nice-future-podcast-trailer/)
+ - [AI Videos Are Freaky and Weird Now. But Where Are They Headed?](https://www.wired.com/story/text-to-video-ai-generators-filmmaking-hollywood/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
