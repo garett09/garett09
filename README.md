@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 2023 movie preview](https://www.polygon.com/23529280/biggest-new-movies-2023-coming-out-most-anticipated-preview)
- - [How to get explosives in Dredge](https://www.pcgamer.com/dredge-explosives)
- - [Cyberpunk 2077&#39;s New &#39;Overdrive&#39; Mode&#39;s Visuals Look Incredible](https://kotaku.com/cyberpunk-2077-nvidia-ray-tracing-dlss-visuals-graphics-1850300970)<!-- GAME:END -->
+ - [Bookbinders are turning fanfiction into hardcover masterpieces](https://www.polygon.com/23669602/tiktok-fanfic-ao3-book-binders-harry-potter)
+ - [No Man&#39;s Sky&#39;s next major update adds new ships and spooky corrupted planets](https://www.pcgamer.com/no-mans-skys-next-major-update-adds-new-ships-and-spooky-corrupted-planets)
+ - [How to get Abyssal and Hadal fishing rods in Dredge](https://www.pcgamer.com/dredge-abyssal-hadal-fishing-rods)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
