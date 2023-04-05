@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: $150 off M2 MacBook Pro, Apple Watch Milanese Loop $429, 39% off Philips Hue, more](https://appleinsider.com/articles/23/04/05/deals-150-off-m2-macbook-pro-apple-watch-milanese-loop-429-39-off-philips-hue-more?utm_medium=rss)
- - [What Would Strategic Relocation from Charleston Look Like?](https://www.wired.com/story/one-citys-escape-plan-from-rising-seas/)
- - [A more sane iOS 17 compatibility list has been leaked](https://appleinsider.com/articles/23/04/05/a-more-sane-ios-17-compatibility-list-has-been-leaked?utm_medium=rss)<!-- TECH:END -->
+ - [Substack announces Notes, letting users share short-form posts, quotes, links, and more, and says the feature &quot;may look like familiar social media feeds&quot; &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230405/p23#a230405p23)
+ - [A Mug Shot Could Play Right Into Trump’s Hands](https://www.wired.com/story/trump-mug-shot-privacy/)
+ - [Bing Newcomb, who co-founded E*Trade in the 1980s, bringing stock trading to personal computers, and took the company public in 1996, died at 79 &lpar;Sam Roberts/New York Times&rpar;](http://www.techmeme.com/230405/p22#a230405p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
