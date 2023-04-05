@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s 16 minutes of gameplay from a new Pokemon-inspired &#39;monster collecting RPG&#39; coming to Steam later this month](https://www.pcgamer.com/heres-16-minutes-of-gameplay-from-a-new-pokemon-inspired-monster-collecting-rpg-coming-to-steam-later-this-month)
- - [The best controllers for PC gaming](https://www.polygon.com/what-to-buy/23658092/best-controllers-pc-gaming)
- - [Blizzard breaks down Diablo 4’s endgame activities](https://www.polygon.com/23671429/diablo-4-endgame-activities-paragon-nightmare-dungeons-pvp)<!-- GAME:END -->
+ - [Clone High is coming back to wipe Velma’s bad taste from our mouths](https://www.polygon.com/23671512/clone-high-trailer-release)
+ - [ICYMI: April’s ID@Xbox Showcase on Twitch](https://news.xbox.com/en-us/2023/04/05/aprils-idxbox-showcase-on-twitch/)
+ - [The Hardest Resident Evil 4 Remake Puzzles Have Easy Solutions](https://kotaku.com/resident-evil-4-remake-puzzle-solutions-treasury-church-1850304425)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
