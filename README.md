@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)
- - 🚯 [Good bye girl](http://9gag.com/gag/abvOgvX)
- - 🚯 [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)<!-- MEMES:END -->
+ - 🚖 [Not harder, not faster, not different. Exactly. The. Same.](http://9gag.com/gag/a7qeEdq)
+ - 🚯 [Interesting insights](http://9gag.com/gag/a04V7Md)
+ - 🚯 [Average Balkan drivers](http://9gag.com/gag/anznzz0)<!-- MEMES:END -->
 
 --- 
 
