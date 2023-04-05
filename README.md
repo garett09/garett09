@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta CTO Andrew Bosworth says the company plans to begin commercializing its generative AI in 2023 and remains at the &quot;very forefront&quot; of the LLM field &lpar;Kazuyuki Okudaira/Nikkei Asia&rpar;](http://www.techmeme.com/230405/p12#a230405p12)
- - [WIRED’s New Podcast Invites You to ‘Have a Nice Future’](https://www.wired.com/story/have-a-nice-future-podcast-trailer/)
- - [AI Videos Are Freaky and Weird Now. But Where Are They Headed?](https://www.wired.com/story/text-to-video-ai-generators-filmmaking-hollywood/)<!-- TECH:END -->
+ - [We asked, you told us: A ton of you really like the Redmi Note 12 Turbo](https://www.androidauthority.com/redmi-note-12-turbo-poll-results-3309611/)
+ - [8 Best Photo Printing Services &lpar;2023&rpar;: Tips, Print Quality, and More](https://www.wired.com/story/best-photo-printing-services/)
+ - [There’s No Such Thing as a One-Size-Fits-All Web](https://www.wired.com/story/platforms-design-ux-affordances/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
