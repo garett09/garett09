@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon drops Apple&#39;s Mac mini M2 to $499, cheapest price on record](https://appleinsider.com/articles/23/04/05/amazon-drops-apples-mac-mini-m2-to-499-cheapest-price-on-record?utm_medium=rss)
- - [HaloLock Power Bank Wallet for iPhone combines a battery, a wallet, and a stand in one accessory](https://appleinsider.com/articles/23/04/05/halolock-power-bank-wallet-for-iphone-combines-a-battery-a-wallet-and-a-stand-in-one-accessory?utm_medium=rss)
- - [You should recycle your old electronics, and now Best Buy is making it easy](https://www.androidauthority.com/recycle-electronics-best-buy-3309743/)<!-- TECH:END -->
+ - [Stripe processed $817B of transactions in 2022, up 26% YoY, vs. a 60% growth from 2020 to 2021; new customers grew 19% YoY, of which 55% were outside the US &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230405/p25#a230405p25)
+ - [How to get free McNuggets from McDonald&#39;s with Apple Pay purchase inside app](https://appleinsider.com/articles/23/04/05/how-to-get-free-mcnuggets-from-mcdonalds-with-apple-pay-purchase-inside-app?utm_medium=rss)
+ - [Selena Gomez Apple TV+ film nominated for MTV&#39;s Best Music Documentary](https://appleinsider.com/articles/23/04/05/selena-gomez-apple-tv-film-nominated-for-mtvs-best-music-documentary?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
