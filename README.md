@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play improves data safety by requiring apps to let users delete data](https://www.androidauthority.com/google-play-data-safety-3309792/)
- - [Keanu Reeves &amp; Jonah Hill coming to Apple TV+ in &#39;Outcome&#39;](https://appleinsider.com/articles/23/04/05/keanu-reeves-jonah-hill-coming-to-apple-tv-in-outcome?utm_medium=rss)
- - [Deutsche Telekom announces that it now holds a majority stake in T-Mobile US &lpar;Reuters&rpar;](http://www.techmeme.com/230405/p26#a230405p26)<!-- TECH:END -->
+ - [The 43 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
+ - [ASUS ROG Phone 7 leak reveals a very familiar design](https://www.androidauthority.com/rog-phone-7-leak-3309827/)
+ - [Saudi Arabia&#39;s Savvy Games Group agrees to acquire mobile game maker Scopely for $4.9B; founded in 2011, Scopely was reportedly valued at $5.4B in October 2021 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230405/p28#a230405p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
