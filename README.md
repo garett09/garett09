@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI details its approach to AI safety, including conducting safety evaluations, improving safeguards after launch, protecting kids, and respecting privacy &lpar;OpenAI&rpar;](http://www.techmeme.com/230405/p31#a230405p31)
  - [iOS 17 could introduce updated Control Center, says leaker](https://appleinsider.com/articles/23/04/05/ios-17-could-introduce-updated-control-center-says-leaker?utm_medium=rss)
- - [Report: Phil Harrison, the head of defunct cloud gaming service Google Stadia, left the company in January 2023; Harrison joined Google as a VP in January 2018 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230405/p30#a230405p30)
- - [Donald Trump was arrested, please like and subscribe](https://www.theverge.com/2023/4/5/23671490/donald-trump-protest-arrest-content-creators-influencers-truth-social)<!-- TECH:END -->
+ - [Report: Phil Harrison, the head of defunct cloud gaming service Google Stadia, left the company in January 2023; Harrison joined Google as a VP in January 2018 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230405/p30#a230405p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
