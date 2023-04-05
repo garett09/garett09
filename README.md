@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman&#39;s story summed up: She couldn&#39;t fit into Ralph Lauren and Torrid clothes she tried at the mall, so she made a podcast talking about how it&#39;s `unfair` and that she spent whole night in bed crying while eating entire block of cheddar...you cant make this shit up...](http://9gag.com/gag/axov38b)
- - 🚯 [Daily dose of good energy](http://9gag.com/gag/aKE9GDg)
- - 🚯 [Kids are pain](http://9gag.com/gag/adPOBQd)<!-- MEMES:END -->
+ - 🚖 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)
+ - 🚯 [A glimmer of hope for me](http://9gag.com/gag/aNwvg7v)
+ - 🚯 [F.R.I.E.N.D.S](http://9gag.com/gag/aQEQXL2)<!-- MEMES:END -->
 
 --- 
 
