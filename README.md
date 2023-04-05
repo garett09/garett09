@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not part of your ped0 cult](http://9gag.com/gag/anznneo)
- - 🚯 [Taylor](http://9gag.com/gag/armAybd)
- - 🚯 [Amazing footwork](http://9gag.com/gag/abvO1MO)<!-- MEMES:END -->
+ - 🚖 [Fast money](http://9gag.com/gag/a9qvv2j)
+ - 🚯 [A Russian crew of a T-72B3 tank in Kreminna area handed over to the Ukrainian army a fully functioning tank with ammunition in exchange for a reward and the opportunity to live in a normal country.](http://9gag.com/gag/abvOOmb)
+ - 🚯 [Eevee mimicking its evolutions](http://9gag.com/gag/armA3mK)<!-- MEMES:END -->
 
 --- 
 
