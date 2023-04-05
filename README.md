@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [God of War Ragnarök New Game Plus is available now](https://blog.playstation.com/2023/04/05/god-of-war-ragnarok-new-game-plus-is-available-now/)
- - [Start Your New Adventure With Black Desert’s New Class, Maegu](https://news.xbox.com/en-us/2023/04/05/black-desert-new-class-maegu/)
- - [Twitter’s web logo is still the decade-old Doge meme](https://www.polygon.com/23669461/twitter-doge-logo-elon-musk)<!-- GAME:END -->
+ - [Overwatch 2’s new pansexual hero may have revealed another queer character](https://www.polygon.com/23671271/overwatch-2-hero-panesexual-lifeweaver-baptiste-voice-lines)
+ - [No Man’s Sky’s antagonist robots are now smarter, madder, and corrupted](https://www.polygon.com/23668475/no-mans-sky-nms-interceptor-update-patch-corrupted-worlds-sentinels-ships)
+ - [It&#39;s the final end of an era: Former Stadia boss Phil Harrison has left Google](https://www.pcgamer.com/its-the-final-end-of-an-era-former-stadia-boss-phil-harrison-has-left-google)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
