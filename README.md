@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo designer Shigeru Miyamoto says &quot;mobile apps will not be the primary path of future Mario games&quot; after two moderately successful but dwindling iOS games &lpar;Ethan Shanfeld/Variety&rpar;](http://www.techmeme.com/230404/p29#a230404p29)
- - [Nintendo won&#39;t be making any more &#39;Super Mario&#39; games for iPhone](https://appleinsider.com/articles/23/04/05/nintendo-wont-be-making-any-more-super-mario-games-for-iphone?utm_medium=rss)
- - [Twitter&#39;s new API tiers are useless for researchers; the $100/month plan is much worse than the old free plan, and the $42K-$210K/month plans are too expensive &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/230404/p28#a230404p28)<!-- TECH:END -->
+ - [Kobo’s all-you-can-read subscription coming to the US could challenge Amazon](https://www.theverge.com/2023/4/5/23669736/kobo-plus-unlimited-ebook-audiobook-us-launch-kindle-unlimited)
+ - [Kobo launches the Kobo Elipsa 2E, a huge e-reader you can also write on](https://www.theverge.com/2023/4/5/23669572/kobo-elipsa-2e-e-reader-tablet-kindle-scribe-onyx-remarkable)
+ - [Apple service support to end for iOS 11 era software in May](https://appleinsider.com/articles/23/04/05/apple-service-support-to-end-for-ios-11-era-software-in-may?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
