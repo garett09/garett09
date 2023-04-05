@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So this girl asks if men would rather have a beautiful girl who doesn&#39;t love you, or have a girl that loves you with all her heart but isn&#39;t pretty. The answer, by Rey Misterio, says it all. What a wholesome moment. Summary: don&#39;t go *just* for looks fellas](http://9gag.com/gag/a5XBVjE)
- - 🚯 [F.R.I.E.N.D.S](http://9gag.com/gag/aQEQXL2)
- - 🚯 [If this scene was from a parody movie, I would watch it](http://9gag.com/gag/aoKVWVe)<!-- MEMES:END -->
+ - 🚖 [Woman&#39;s story summed up: She couldn&#39;t fit into Ralph Lauren and Torrid clothes she tried at the mall, so she made a podcast talking about how it&#39;s `unfair` and that she spent whole night in bed crying while eating entire block of cheddar...you cant make this shit up...](http://9gag.com/gag/axov38b)
+ - 🚯 [Daily dose of good energy](http://9gag.com/gag/aKE9GDg)
+ - 🚯 [Kids are pain](http://9gag.com/gag/adPOBQd)<!-- MEMES:END -->
 
 --- 
 
