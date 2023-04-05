@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting insights](http://9gag.com/gag/a04V7Md)
- - 🚯 [Pickaxe of power](http://9gag.com/gag/aL1ep2z)
- - 🚯 [His pride and that wiggling arm...](http://9gag.com/gag/anznzxo)<!-- MEMES:END -->
+ - 🚖 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)
+ - 🚯 [Atleast the kid was honest.](http://9gag.com/gag/aOx44xN)
+ - 🚯 [Are ya winning, son?](http://9gag.com/gag/aZDwrb9)<!-- MEMES:END -->
 
 --- 
 
