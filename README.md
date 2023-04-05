@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Where to find lily pads, air vents, and tires in Fortnite](https://www.pcgamer.com/fortnite-lily-pad-air-vent-tire-location)
  - [Snoop Dogg Bails As Faze Clan Circles The Drain](https://kotaku.com/snoop-dogg-faze-clan-bail-leave-quit-ipo-public-shares-1850301217)
- - [Free Total War: Warhammer 3 DLC releasing alongside Chaos Dwarfs detailed](https://www.pcgamer.com/free-total-war-warhammer-3-dlc-releasing-alongside-chaos-dwarfs-detailed)
- - [Super Mario Bros movie review round-up: &#39;Chris Pratt doesn&#39;t ruin the movie&#39; but it&#39;s still not that great](https://www.pcgamer.com/super-mario-bros-movie-chris-pratt-doesnt-ruin-the-movie-but-its-still-not-that-great)<!-- GAME:END -->
+ - [Free Total War: Warhammer 3 DLC releasing alongside Chaos Dwarfs detailed](https://www.pcgamer.com/free-total-war-warhammer-3-dlc-releasing-alongside-chaos-dwarfs-detailed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
