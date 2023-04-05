@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not harder, not faster, not different. Exactly. The. Same.](http://9gag.com/gag/a7qeEdq)
- - 🚯 [Interesting insights](http://9gag.com/gag/a04V7Md)
- - 🚯 [Average Balkan drivers](http://9gag.com/gag/anznzz0)<!-- MEMES:END -->
+ - 🚖 [Pamcasso! Father figure.](http://9gag.com/gag/ay242W8)
+ - 🚯 [Oh snap](http://9gag.com/gag/a7qeqDw)
+ - 🚯 [Had an \u201cinternal meltdown\u201d. After all this assessment tests and 45 min. talking about each detail of my CV I had enough. I\u2019m qualified, my CV has no empty spots and all backed by documents from former companies with contact infos for further questions.](http://9gag.com/gag/aKE9EwZ)<!-- MEMES:END -->
 
 --- 
 
