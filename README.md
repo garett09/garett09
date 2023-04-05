@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stripe processed $817B of transactions in 2022, up 26% YoY, vs. a 60% growth from 2020 to 2021; new customers grew 19% YoY, of which 55% were outside the US &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230405/p25#a230405p25)
- - [How to get free McNuggets from McDonald&#39;s with Apple Pay purchase inside app](https://appleinsider.com/articles/23/04/05/how-to-get-free-mcnuggets-from-mcdonalds-with-apple-pay-purchase-inside-app?utm_medium=rss)
- - [Selena Gomez Apple TV+ film nominated for MTV&#39;s Best Music Documentary](https://appleinsider.com/articles/23/04/05/selena-gomez-apple-tv-film-nominated-for-mtvs-best-music-documentary?utm_medium=rss)<!-- TECH:END -->
+ - [Google Play improves data safety by requiring apps to let users delete data](https://www.androidauthority.com/google-play-data-safety-3309792/)
+ - [Keanu Reeves &amp; Jonah Hill coming to Apple TV+ in &#39;Outcome&#39;](https://appleinsider.com/articles/23/04/05/keanu-reeves-jonah-hill-coming-to-apple-tv-in-outcome?utm_medium=rss)
+ - [Deutsche Telekom announces that it now holds a majority stake in T-Mobile US &lpar;Reuters&rpar;](http://www.techmeme.com/230405/p26#a230405p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
