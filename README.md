@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bohemia has a new &#39;RTS/FPS crossover&#39; coming, and it&#39;s giving me Battlezone vibes](https://www.pcgamer.com/bohemia-has-a-new-rtsfps-hybrid-coming-and-its-giving-me-battlezone-vibes)
- - [Say hello to Utopia No. 8—the adorable new social MMORPG from Happy Tomato](https://www.pcgamer.com/say-hello-to-utopia-no-8the-adorable-new-social-mmorpg-from-happy-tomato)
- - [Arma dev announces new FPS/RTS hybrid that looks like a StarCraft shooter](https://www.polygon.com/23671940/silica-fps-rts-bohemia-interactive-steam-early-access)<!-- GAME:END -->
+ - [Would Dungeons &amp; Dragons: Honor Among Thieves actually make a good D&amp;D game?](https://www.polygon.com/23671737/honor-among-thieves-dungeons-and-dragons-play-module)
+ - [New Call Of Duty: Warzone 2.0 Update Takes Cheaters&#39; Guns Away](https://kotaku.com/call-of-duty-warzone-2-modern-warfare-cheating-gun-cod-1850306965)
+ - [OK, These Elden Ring Mods Are Getting Outta Control](https://kotaku.com/elden-ring-broken-af-mod-jet-tank-garden-eyes-malenia-1850304700)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
