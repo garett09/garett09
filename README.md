@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cisco trashes $23M worth of tech to avoid it being sold in Russia](https://www.pcgamer.com/cisco-trashes-dollar23m-worth-of-tech-to-avoid-it-being-sold-in-russia)
- - [Forget the Pokédex, our brains contain a ‘rich cognitive map’ of Pokémon](https://www.polygon.com/pokemon/23671390/pokemon-fans-brain-neuroscience-study)
- - [The Most Powerful Water Gun In The World Looks Unreal](https://kotaku.com/spyra-water-gun-three-electric-battery-powered-1850307975)<!-- GAME:END -->
+ - [How to watch Star Wars Celebration 2023](https://www.polygon.com/star-wars/23672535/star-wars-celebration-2023-how-to-watch-stream-schedule)
+ - [One of the most influential FPS games inspired the new map in Overwatch 2 season 4](https://www.pcgamer.com/overwatch-2-season-4-new-map-roadmap)
+ - [Concept reboots the whole concept of a guessing game](https://www.polygon.com/videos/23671123/overboard-concept-charades-pictionary-guessing-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
