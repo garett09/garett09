@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
- - 🚯 [They think the world revolves around them](http://9gag.com/gag/aA0E4q0)
- - 🚯 [Too much beer is bad](http://9gag.com/gag/a1PDVeY)<!-- MEMES:END -->
+ - 🚖 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)
+ - 🚯 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - 🚯 [Oiu](http://9gag.com/gag/aEqVMWO)<!-- MEMES:END -->
 
 --- 
 
