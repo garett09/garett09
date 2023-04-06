@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ms. Officer, Holup.](http://9gag.com/gag/agoO7W6)
- - 🚯 [I need one](http://9gag.com/gag/a8qmAzO)
- - 🚯 [Spots are bigger](http://9gag.com/gag/az2PGgZ)<!-- MEMES:END -->
+ - 🚖 [I need one](http://9gag.com/gag/a8qmAzO)
+ - 🚯 [It&#39;s Wednesday my dudes](http://9gag.com/gag/amAG1bd)
+ - 🚯 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)<!-- MEMES:END -->
 
 --- 
 
