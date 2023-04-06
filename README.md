@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter cuts off Substack embeds and starts suspending bots](https://www.theverge.com/2023/4/6/23673043/twitter-substack-embeds-bots-tools-api)
  - [YouTube adds a Podcasts tab to channel pages globally on its website and mobile apps, showing playlists that creators have marked as podcasts &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230406/p23#a230406p23)
- - [Motorola Edge 40 leak reveals four different colorways](https://www.androidauthority.com/motorola-edge-40-leak-3310413/)
- - [12 Healthy Recipes to Try Using Your Fresh Spring Produce     - CNET](https://www.cnet.com/health/nutrition/12-healthy-spring-recipes-to-try-using-your-fresh-spring-produce/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walmart’s preparing to build its own coast-to-coast EV charging network](https://www.theverge.com/2023/4/6/23672763/walmart-electric-vehicle-stations-nationwide-ev-charging-network)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
