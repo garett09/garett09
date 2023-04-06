@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
- - [God Of War Ragnarök Finally Gets New Game+ Mode With Nice New Features](https://kotaku.com/god-of-war-ragnarok-new-game-plus-ps5-zeus-armor-ares-1850308557)
- - [EA unveils FIFA&#39;s new look and warns of marketing blitz for the ages](https://www.pcgamer.com/ea-unveils-fifas-new-look-and-warns-of-marketing-blitz-for-the-ages)<!-- GAME:END -->
+ - [Quantum Break has been removed from Steam and Game Pass, but it&#39;s alright](https://www.pcgamer.com/quantum-break-has-been-removed-from-steam-and-game-pass-but-its-alright)
+ - [Free Play Days – PGA Tour 2K23, Black Desert, Bravery and Greed, and The Elder Scrolls Online](https://news.xbox.com/en-us/2023/04/06/free-play-days-pga-tour-2k23-black-desert-bravery-and-greed-and-the-elder-scrolls-online/)
+ - [High-Tempo Tax-Paying Tower Defense Marfusha is Out Now on Xbox](https://news.xbox.com/en-us/2023/04/06/marfusha-is-out-now-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
