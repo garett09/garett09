@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why this new plant is capturing carbon dioxide just to let it back out again](https://www.theverge.com/2023/4/6/23669582/american-climate-tech-company-colorado-global-thermostat-direct-air-capture)
- - [Android’s ‘Find My Device’ could soon work even if your phone is off](https://www.androidauthority.com/find-my-device-powered-off-3310421/)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [YouTube adds a Podcasts tab to channel pages globally on its website and mobile apps, showing playlists that creators have marked as podcasts &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230406/p23#a230406p23)
+ - [Motorola Edge 40 leak reveals four different colorways](https://www.androidauthority.com/motorola-edge-40-leak-3310413/)
+ - [12 Healthy Recipes to Try Using Your Fresh Spring Produce     - CNET](https://www.cnet.com/health/nutrition/12-healthy-spring-recipes-to-try-using-your-fresh-spring-produce/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
