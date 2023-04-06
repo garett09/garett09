@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Play this MOBA-like PvP game&#39;s public alpha this weekend so I can stop trying to describe it](https://www.pcgamer.com/play-this-moba-like-pvp-games-public-alpha-this-weekend-so-i-can-stop-trying-to-describe-it)
- - [Feds Have Spent Years Trying To Evict A Billionaire&#39;s Massive Transformers](https://kotaku.com/transformers-statues-optimus-prime-bumblebee-1850309838)
- - [Microsoft Escalates War Against PlayStation, Nintendo Emulation On Xbox Series X/S](https://kotaku.com/xbox-series-x-s-emulation-ps2-wii-gamecube-piracy-1850309874)<!-- GAME:END -->
+ - [Sony patented a &#39;deformable elastic&#39; controller that heats up in your hands, and I can&#39;t say I&#39;m in love with the idea](https://www.pcgamer.com/sony-patented-a-deformable-elastic-controller-that-heats-up-in-your-hands-and-i-cant-say-im-in-love-with-the-idea)
+ - [Sega’s Sonic-Murder Game Now One Of Best-Reviewed In Series](https://kotaku.com/murder-of-sonic-the-hedgehog-april-fools-metacritic-1850309984)
+ - [How to find Refined Metal in Dredge](https://www.polygon.com/guides/23672983/dredge-refined-metal-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
