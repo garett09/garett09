@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Final Fantasy Remasters Restore Intro Credits, Fonts Still Bad](https://kotaku.com/final-fantasy-remaster-switch-ps4-font-music-square-fix-1850305849)
- - [Bungie responds to Lightfall complaints and details improvements to come: &#39;The initial experience we delivered didn&#39;t provide the clarity we planned for&#39;](https://www.pcgamer.com/bungie-responds-to-lightfall-complaints-and-details-improvements-to-come-the-initial-experience-we-delivered-didnt-provide-the-clarity-we-planned-for)
- - [Miyamoto’s Best Stories And Takes From The Super Mario Bros. Movie Media Blitz](https://kotaku.com/shigeru-miyamoto-super-mario-bros-movie-peach-game-1850305655)<!-- GAME:END -->
+ - [What You Should Know About The Super Mario Bros. Movie&#39;s End Credits Scenes](https://kotaku.com/super-mario-movie-end-credits-post-scene-yoshi-how-many-1850304951)
+ - [Please, MTV, Do Not Honor The Last Of Us&#39; Gross Zombie Kiss](https://kotaku.com/the-last-of-us-mtv-movie-awards-best-kiss-get-fucked-1850305766)
+ - [New Final Fantasy Remasters Restore Intro Credits, Fonts Still Bad](https://kotaku.com/final-fantasy-remaster-switch-ps4-font-music-square-fix-1850305849)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
