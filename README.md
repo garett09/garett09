@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)
+ - 🚖 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)
  - 🚯 [Alexa, Holup.](http://9gag.com/gag/a04VVez)
- - 🚯 [Average Balkan drivers](http://9gag.com/gag/anznzz0)<!-- MEMES:END -->
+ - 🚯 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)<!-- MEMES:END -->
 
 --- 
 
