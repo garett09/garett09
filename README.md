@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Revolut and other &quot;e-money&quot; companies grow in the EU and the UK, customers complain of inadequate customer support, leading to a UK FCA warning in March 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/230406/p16#a230406p16)
- - [The best external SSD to use with your Mac in 2023](https://appleinsider.com/inside/mac/best/best-external-ssd-for-mac?utm_medium=rss)
- - [Your Used Car May Soon Come With Subscription Fees](https://www.wired.com/story/automakers-subscription-revenue-used-car-owners/)<!-- TECH:END -->
+ - [AI Desperately Needs Global Oversight](https://www.wired.com/story/ai-desperately-needs-global-oversight/)
+ - [Apple&#39;s dominance means it needs stricter controls, says Germany&#39;s antitrust regulator](https://appleinsider.com/articles/23/04/06/apples-dominance-means-it-needs-stricter-controls-says-germanys-antitrust-regulator?utm_medium=rss)
+ - [US Census data: US chip imports rose 17% YoY to $4.86B in February 2023; Asia accounted for 82%, led by Malaysia at 20%, Taiwan at 15.1%, and Vietnam at 11.6% &lpar;Kevin Varley/Bloomberg&rpar;](http://www.techmeme.com/230406/p17#a230406p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
