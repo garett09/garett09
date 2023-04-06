@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Quantum Break has been removed from Steam and Game Pass, but it&#39;s alright](https://www.pcgamer.com/quantum-break-has-been-removed-from-steam-and-game-pass-but-its-alright)
- - [Free Play Days – PGA Tour 2K23, Black Desert, Bravery and Greed, and The Elder Scrolls Online](https://news.xbox.com/en-us/2023/04/06/free-play-days-pga-tour-2k23-black-desert-bravery-and-greed-and-the-elder-scrolls-online/)
- - [High-Tempo Tax-Paying Tower Defense Marfusha is Out Now on Xbox](https://news.xbox.com/en-us/2023/04/06/marfusha-is-out-now-on-xbox/)<!-- GAME:END -->
+ - [Pour one out for Diablo 3 as Blizzard prepares its final new season](https://www.pcgamer.com/pour-one-out-for-diablo-3-as-blizzard-prepares-its-final-new-season)
+ - [Overwatch 2’s Season 4 Seems The Most Packed Yet](https://kotaku.com/overwatch-2-season-4-patch-notes-lifeweaver-brigitte-1850309513)
+ - [Resident Evil 4 Chapter 16: Luis’s Laboratory to Underground Passage](https://www.polygon.com/resident-evil-4-remake-guides/23670578/chapter-16-luis-laboratory-underground-passage-final-boss-fight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
