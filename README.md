@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin whitepaper found hidden in macOS with unknown &#39;Virtual Scanner II&#39; app](https://appleinsider.com/articles/23/04/05/bitcoin-whitepaper-found-hidden-in-macos-with-unknown-virtual-scanner-ii-app?utm_medium=rss)
- - [Tests show that Twitter&#39;s &quot;stay informed&quot; labels, implemented in February 2022 to flag tweets with links to Russia or China-controlled sites, no longer appear &lpar;Semafor&rpar;](http://www.techmeme.com/230405/p34#a230405p34)
- - [A week ahead of Ethereum&#39;s Shanghai and Capella upgrades, ETH is up 6% over the past three days, surpassing $1,900 to a nine-month high and outperforming BTC &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230405/p33#a230405p33)<!-- TECH:END -->
+ - [Google: Android Apps Must Let People Delete Their Accounts, Data     - CNET](https://www.cnet.com/tech/services-and-software/google-android-apps-must-let-people-delete-their-accounts-data/#ftag=CAD590a51e)
+ - [China-based SJ Semiconductor, which offers a 12-inch wafer bumping and testing service, raised a $340M Series C extension at a $1.8B valuation &lpar;Stephanie Li/DealStreetAsia&rpar;](http://www.techmeme.com/230405/p36#a230405p36)
+ - [Study: ChatGPT cited nonexistent Washington Post, Miami Herald, and Los Angeles Times articles and fabricated a sexual harassment story about a law professor &lpar;Washington Post&rpar;](http://www.techmeme.com/230405/p35#a230405p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
