@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Would Dungeons &amp; Dragons: Honor Among Thieves actually make a good D&amp;D game?](https://www.polygon.com/23671737/honor-among-thieves-dungeons-and-dragons-play-module)
- - [New Call Of Duty: Warzone 2.0 Update Takes Cheaters&#39; Guns Away](https://kotaku.com/call-of-duty-warzone-2-modern-warfare-cheating-gun-cod-1850306965)
- - [OK, These Elden Ring Mods Are Getting Outta Control](https://kotaku.com/elden-ring-broken-af-mod-jet-tank-garden-eyes-malenia-1850304700)<!-- GAME:END -->
+ - [How to deal with the Stellar Basin creature in Dredge](https://www.pcgamer.com/dredge-stellar-basin-creature)
+ - [Road 96: Mile 0 – How the New Psychedelic Rides Work](https://news.xbox.com/en-us/2023/04/06/road-96-mile-0-launch/)
+ - [The Last of Us Part 1 review](https://www.pcgamer.com/the-last-of-us-part-1-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
