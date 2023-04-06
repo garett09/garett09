@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPNX, an exchange for trading bankruptcy claims run by 3AC founders Su Zhu and Kyle Davie, had $13.64 in volume in its first 24 hours; OPNX&#39;s FLEX drops 27%+ &lpar;The Block&rpar;](http://www.techmeme.com/230406/p6#a230406p6)
- - [Personal loan apps will get less predatory with this Google Play policy change](https://www.androidauthority.com/personal-loan-apps-google-play-policy-change-3309987/)
- - [The Galaxy S23 series is a sales hit, and the S23 Ultra is leading the charge](https://www.androidauthority.com/samsung-galaxy-s23-sales-performance-3309990/)<!-- TECH:END -->
+ - [The Xiaomi 13 Ultra is launching soon, will come to global markets](https://www.androidauthority.com/xiaomi-13-ultra-launch-3310000/)
+ - [A look at Anthony Scaramucci&#39;s SkyBridge, which went from $9.2B assets in 2015 to $1.8B in 2022, and the FTX deal for a 30% stake in SkyBridge in September 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230406/p10#a230406p10)
+ - [The Arctic’s Permafrost-Obsessed Methane Detectives](https://www.wired.com/story/arctic-permafrost-obsessed-methane-detectives/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
