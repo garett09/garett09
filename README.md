@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overwatch 2 season 4 trailer got me right in the feels](https://www.theverge.com/2023/4/6/23672782/overwatch-2-season-four-trailer-liveweaver-pride-event)
- - [Global VC funding fell 53% YoY to $76B in Q1 2023, down from $162B in Q1 2022, including OpenAI&#39;s $10B and Stripe&#39;s $6.5B; $39.2B went to late-stage startups &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/230406/p21#a230406p21)
- - [A classic keyboard returns as the hot-swappable, wireless WhiteFox Eclipse](https://www.theverge.com/2023/4/6/23672354/whitefox-eclipse-wireless-mechanical-keyboard-kickstarter)<!-- TECH:END -->
+ - [Microsoft adds Bing AI features to the beta version of its SwiftKey keyboard for Android, including web search, a chatbot, and a tone mode to rewrite text &lpar;Lance Whitney/ZDNet&rpar;](http://www.techmeme.com/230406/p22#a230406p22)
+ - [The 43 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
+ - [Google Pixel Fold: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
