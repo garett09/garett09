@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)
- - 🚯 [Alexa, Holup.](http://9gag.com/gag/a04VVez)
- - 🚯 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)<!-- MEMES:END -->
+ - 🚖 [Ms. Officer, Holup.](http://9gag.com/gag/agoO7W6)
+ - 🚯 [I need one](http://9gag.com/gag/a8qmAzO)
+ - 🚯 [Spots are bigger](http://9gag.com/gag/az2PGgZ)<!-- MEMES:END -->
 
 --- 
 
