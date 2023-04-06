@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch Star Wars Celebration 2023](https://www.polygon.com/star-wars/23672535/star-wars-celebration-2023-how-to-watch-stream-schedule)
- - [One of the most influential FPS games inspired the new map in Overwatch 2 season 4](https://www.pcgamer.com/overwatch-2-season-4-new-map-roadmap)
- - [Concept reboots the whole concept of a guessing game](https://www.polygon.com/videos/23671123/overboard-concept-charades-pictionary-guessing-game)<!-- GAME:END -->
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
+ - [God Of War Ragnarök Finally Gets New Game+ Mode With Nice New Features](https://kotaku.com/god-of-war-ragnarok-new-game-plus-ps5-zeus-armor-ares-1850308557)
+ - [EA unveils FIFA&#39;s new look and warns of marketing blitz for the ages](https://www.pcgamer.com/ea-unveils-fifas-new-look-and-warns-of-marketing-blitz-for-the-ages)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
