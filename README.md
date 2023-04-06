@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft adds Bing AI features to the beta version of its SwiftKey keyboard for Android, including web search, a chatbot, and a tone mode to rewrite text &lpar;Lance Whitney/ZDNet&rpar;](http://www.techmeme.com/230406/p22#a230406p22)
- - [The 43 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
- - [Google Pixel Fold: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)<!-- TECH:END -->
+ - [Why this new plant is capturing carbon dioxide just to let it back out again](https://www.theverge.com/2023/4/6/23669582/american-climate-tech-company-colorado-global-thermostat-direct-air-capture)
+ - [Android’s ‘Find My Device’ could soon work even if your phone is off](https://www.androidauthority.com/find-my-device-powered-off-3310421/)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
