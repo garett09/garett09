@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to deal with the Stellar Basin creature in Dredge](https://www.pcgamer.com/dredge-stellar-basin-creature)
- - [Road 96: Mile 0 – How the New Psychedelic Rides Work](https://news.xbox.com/en-us/2023/04/06/road-96-mile-0-launch/)
- - [The Last of Us Part 1 review](https://www.pcgamer.com/the-last-of-us-part-1-review)<!-- GAME:END -->
+ - [Warhammer and 40K fans unite for America’s most prestigious mini-painting competition](https://www.polygon.com/23664838/warhammer-40k-golden-demon-america-adepticon-2023)
+ - [Final Fantasy 14 is giving its second expansion away for free](https://www.pcgamer.com/final-fantasy-14-is-giving-its-second-expansion-away-for-free)
+ - [Wit Studio is what made Attack on Titan’s first season so special](https://www.polygon.com/23668388/attack-titan-wit-studio-season-anniversary-aot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
