@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xiaomi 13 Ultra is launching soon, will come to global markets](https://www.androidauthority.com/xiaomi-13-ultra-launch-3310000/)
- - [A look at Anthony Scaramucci&#39;s SkyBridge, which went from $9.2B assets in 2015 to $1.8B in 2022, and the FTX deal for a 30% stake in SkyBridge in September 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230406/p10#a230406p10)
- - [The Arctic’s Permafrost-Obsessed Methane Detectives](https://www.wired.com/story/arctic-permafrost-obsessed-methane-detectives/)<!-- TECH:END -->
+ - [Patricia Arquette comedy &#39;High Desert&#39; gets streaming date](https://appleinsider.com/articles/23/04/06/patricia-arquette-comedy-high-desert-gets-streaming-date?utm_medium=rss)
+ - [Research: Chinese officials and state media pushed back on a US TikTok ban on Twitter, echoing the Huawei defense, showing Beijing&#39;s investment in TikTok&#39;s fate &lpar;New York Times&rpar;](http://www.techmeme.com/230406/p12#a230406p12)
+ - [The ‘Manhattan Project’ Theory of Generative AI](https://www.wired.com/story/how-to-make-sense-of-the-generative-ai-explosion/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
