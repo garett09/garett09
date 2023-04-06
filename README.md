@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)
- - 🚯 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)<!-- MEMES:END -->
+ - 🚖 [After I cancel the date](http://9gag.com/gag/a5XBzPN)
+ - 🚯 [Bros not names](http://9gag.com/gag/aEqVWex)
+ - 🚯 [Keep the traditions alive](http://9gag.com/gag/aXnNWgP)<!-- MEMES:END -->
 
 --- 
 
