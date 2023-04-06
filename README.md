@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Serving a hot customer in retail. 100% accurate](http://9gag.com/gag/aGE88mn)
- - 🚯 [Too much beer is bad](http://9gag.com/gag/a1PDVeY)
- - 🚯 [This is my new favourite 2023 photo. Even South Park couldn&#39;t make something so perfect.](http://9gag.com/gag/aREZz9Q)<!-- MEMES:END -->
+ - 🚖 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - 🚯 [Oiu](http://9gag.com/gag/aEqVMWO)
+ - 🚯 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)<!-- MEMES:END -->
 
 --- 
 
