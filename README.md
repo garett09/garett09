@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s Wednesday my dudes](http://9gag.com/gag/amAG1bd)
- - 🚯 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)
- - 🚯 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)<!-- MEMES:END -->
+ - 🚖 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)
+ - 🚯 [Ms. Officer, Holup.](http://9gag.com/gag/agoO7W6)
+ - 🚯 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)<!-- MEMES:END -->
 
 --- 
 
