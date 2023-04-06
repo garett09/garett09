@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
+ - 🚖 [Dick Fosbury: thinking outside the box and casually setting up a new Olympic record with his technique](http://9gag.com/gag/a1PDDoY)
  - 🚯 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)
- - 🚯 [Oiu](http://9gag.com/gag/aEqVMWO)<!-- MEMES:END -->
+ - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)<!-- MEMES:END -->
 
 --- 
 
