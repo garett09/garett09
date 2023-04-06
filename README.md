@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dick Fosbury: thinking outside the box and casually setting up a new Olympic record with his technique](http://9gag.com/gag/a1PDDoY)
- - 🚯 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)
- - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)<!-- MEMES:END -->
+ - 🚖 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)
+ - 🚯 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)<!-- MEMES:END -->
 
 --- 
 
