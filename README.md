@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - 🚯 [Oiu](http://9gag.com/gag/aEqVMWO)
- - 🚯 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)<!-- MEMES:END -->
+ - 🚖 [Alexa, Holup.](http://9gag.com/gag/a04VVez)
+ - 🚯 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)
+ - 🚯 [Ah shit here we go again](http://9gag.com/gag/a8qm68O)<!-- MEMES:END -->
 
 --- 
 
