@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They are trying to find a way in with their combined IQ](http://9gag.com/gag/aOx4QpR)
- - 🚯 [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)
- - 🚯 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)<!-- MEMES:END -->
+ - 🚖 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - 🚯 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)
+ - 🚯 [I need one](http://9gag.com/gag/a8qmAzO)<!-- MEMES:END -->
 
 --- 
 
