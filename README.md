@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pour one out for Diablo 3 as Blizzard prepares its final new season](https://www.pcgamer.com/pour-one-out-for-diablo-3-as-blizzard-prepares-its-final-new-season)
- - [Overwatch 2’s Season 4 Seems The Most Packed Yet](https://kotaku.com/overwatch-2-season-4-patch-notes-lifeweaver-brigitte-1850309513)
- - [Resident Evil 4 Chapter 16: Luis’s Laboratory to Underground Passage](https://www.polygon.com/resident-evil-4-remake-guides/23670578/chapter-16-luis-laboratory-underground-passage-final-boss-fight)<!-- GAME:END -->
+ - [Play this MOBA-like PvP game&#39;s public alpha this weekend so I can stop trying to describe it](https://www.pcgamer.com/play-this-moba-like-pvp-games-public-alpha-this-weekend-so-i-can-stop-trying-to-describe-it)
+ - [Feds Have Spent Years Trying To Evict A Billionaire&#39;s Massive Transformers](https://kotaku.com/transformers-statues-optimus-prime-bumblebee-1850309838)
+ - [Microsoft Escalates War Against PlayStation, Nintendo Emulation On Xbox Series X/S](https://kotaku.com/xbox-series-x-s-emulation-ps2-wii-gamecube-piracy-1850309874)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
