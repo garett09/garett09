@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google finally confirms that an AI chatbot is coming to Search. But when?](https://www.androidauthority.com/google-search-ai-chatbot-3310304/)
- - [Free AI Video Generators Are Nearing a Crucial Tipping Point](https://www.wired.com/story/ai-video-generators-are-nearing-a-crucial-tipping-point/)
- - [Sony files patent for a controller that can change temperature and deform](https://www.androidauthority.com/sony-controller-patent-3310270/)<!-- TECH:END -->
+ - [Samsung execs find employees intentionally giving company secrets to ChatGPT](https://www.androidauthority.com/samsung-chatgpt-leak-3310307/)
+ - [Influencers, small businesses, and others say Meta gutting its customer service teams during layoffs has left them grappling with scammers and technical issues &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/230406/p20#a230406p20)
+ - [Google finally confirms that an AI chatbot is coming to Search. But when?](https://www.androidauthority.com/google-search-ai-chatbot-3310304/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
