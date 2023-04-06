@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If this scene was from a parody movie, I would watch it](http://9gag.com/gag/aoKVWVe)
- - 🚯 [Spots are bigger](http://9gag.com/gag/az2PGgZ)
- - 🚯 [Ms. Officer, Holup.](http://9gag.com/gag/agoO7W6)<!-- MEMES:END -->
+ - 🚖 [Serving a hot customer in retail. 100% accurate](http://9gag.com/gag/aGE88mn)
+ - 🚯 [Too much beer is bad](http://9gag.com/gag/a1PDVeY)
+ - 🚯 [This is my new favourite 2023 photo. Even South Park couldn&#39;t make something so perfect.](http://9gag.com/gag/aREZz9Q)<!-- MEMES:END -->
 
 --- 
 
