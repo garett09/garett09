@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Emotionaaal Daaamange](http://9gag.com/gag/az2P22p)
- - 🚯 [How couple up?](http://9gag.com/gag/az2PP3Z)
- - 🚯 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)<!-- MEMES:END -->
+ - 🚖 [That\u2019s one watery car](http://9gag.com/gag/a1PDm6R)
+ - 🚯 [Alexa, Holup.](http://9gag.com/gag/a04VVez)
+ - 🚯 [Average Balkan drivers](http://9gag.com/gag/anznzz0)<!-- MEMES:END -->
 
 --- 
 
