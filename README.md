@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patricia Arquette comedy &#39;High Desert&#39; gets streaming date](https://appleinsider.com/articles/23/04/06/patricia-arquette-comedy-high-desert-gets-streaming-date?utm_medium=rss)
- - [Research: Chinese officials and state media pushed back on a US TikTok ban on Twitter, echoing the Huawei defense, showing Beijing&#39;s investment in TikTok&#39;s fate &lpar;New York Times&rpar;](http://www.techmeme.com/230406/p12#a230406p12)
- - [The ‘Manhattan Project’ Theory of Generative AI](https://www.wired.com/story/how-to-make-sense-of-the-generative-ai-explosion/)<!-- TECH:END -->
+ - [As Revolut and other &quot;e-money&quot; companies grow in the EU and the UK, customers complain of inadequate customer support, leading to a UK FCA warning in March 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/230406/p16#a230406p16)
+ - [The best external SSD to use with your Mac in 2023](https://appleinsider.com/inside/mac/best/best-external-ssd-for-mac?utm_medium=rss)
+ - [Your Used Car May Soon Come With Subscription Fees](https://www.wired.com/story/automakers-subscription-revenue-used-car-owners/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
