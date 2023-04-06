@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer and 40K fans unite for America’s most prestigious mini-painting competition](https://www.polygon.com/23664838/warhammer-40k-golden-demon-america-adepticon-2023)
- - [Final Fantasy 14 is giving its second expansion away for free](https://www.pcgamer.com/final-fantasy-14-is-giving-its-second-expansion-away-for-free)
- - [Wit Studio is what made Attack on Titan’s first season so special](https://www.polygon.com/23668388/attack-titan-wit-studio-season-anniversary-aot)<!-- GAME:END -->
+ - [Cisco trashes $23M worth of tech to avoid it being sold in Russia](https://www.pcgamer.com/cisco-trashes-dollar23m-worth-of-tech-to-avoid-it-being-sold-in-russia)
+ - [Forget the Pokédex, our brains contain a ‘rich cognitive map’ of Pokémon](https://www.polygon.com/pokemon/23671390/pokemon-fans-brain-neuroscience-study)
+ - [The Most Powerful Water Gun In The World Looks Unreal](https://kotaku.com/spyra-water-gun-three-electric-battery-powered-1850307975)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
