@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)
- - 🚯 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - 🚯 [Oiu](http://9gag.com/gag/aEqVMWO)<!-- MEMES:END -->
+ - 🚖 [Try it once and watch the reaction. It is priceless.](http://9gag.com/gag/aeQOx2p)
+ - 🚯 [Let&#39;s see how long before this gets taken down...](http://9gag.com/gag/az2PONN)
+ - 🚯 [Getting old is sucks](http://9gag.com/gag/aBdLPP2)<!-- MEMES:END -->
 
 --- 
 
