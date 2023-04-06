@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oiu](http://9gag.com/gag/aEqVMWO)
- - 🚯 [How couple up?](http://9gag.com/gag/az2PP3Z)
- - 🚯 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/aA0EEqL)
+ - 🚯 [Top 20 least safe cities](http://9gag.com/gag/aKE9m21)
+ - 🚯 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)<!-- MEMES:END -->
 
 --- 
 
