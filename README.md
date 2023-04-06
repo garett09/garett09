@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists Turned Monkey Stem Cells Into ‘Synthetic Embryos’](https://www.wired.com/story/stem-cells-monkey-synthetic-embryos/)
- - [Samsung &amp; Google struggle to match iPhone 14 value for used handsets](https://appleinsider.com/articles/23/04/06/samsung-google-struggle-to-match-iphone-14-value-for-used-handsets?utm_medium=rss)
- - [Before You Buy: What You Need to Know About Over-the-Counter Hearing Aids     - CNET](https://www.cnet.com/health/medical/before-you-buy-what-you-need-to-know-about-over-the-counter-hearing-aids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google finally confirms that an AI chatbot is coming to Search. But when?](https://www.androidauthority.com/google-search-ai-chatbot-3310304/)
+ - [Free AI Video Generators Are Nearing a Crucial Tipping Point](https://www.wired.com/story/ai-video-generators-are-nearing-a-crucial-tipping-point/)
+ - [Sony files patent for a controller that can change temperature and deform](https://www.androidauthority.com/sony-controller-patent-3310270/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
