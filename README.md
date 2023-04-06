@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When will Attack on Titan skin Eren Yeager be released in Fortnite?](https://www.polygon.com/fortnite-guide/23633803/eren-jaeger-yeager-attack-on-titan-skin-release-date)
- - [Get to know the Quen of Horizon Forbidden West: Burning Shores](https://blog.playstation.com/2023/04/06/get-to-know-the-quen-of-horizon-forbidden-west-burning-shores/)
- - [All Recording Rarities fish locations in Dredge](https://www.pcgamer.com/dredge-recording-rarities-fish-locations)<!-- GAME:END -->
+ - [Bohemia has a new &#39;RTS/FPS crossover&#39; coming, and it&#39;s giving me Battlezone vibes](https://www.pcgamer.com/bohemia-has-a-new-rtsfps-hybrid-coming-and-its-giving-me-battlezone-vibes)
+ - [Say hello to Utopia No. 8—the adorable new social MMORPG from Happy Tomato](https://www.pcgamer.com/say-hello-to-utopia-no-8the-adorable-new-social-mmorpg-from-happy-tomato)
+ - [Arma dev announces new FPS/RTS hybrid that looks like a StarCraft shooter](https://www.polygon.com/23671940/silica-fps-rts-bohemia-interactive-steam-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
