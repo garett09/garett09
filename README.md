@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - 🚯 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)
- - 🚯 [I need one](http://9gag.com/gag/a8qmAzO)<!-- MEMES:END -->
+ - 🚖 [Emotionaaal Daaamange](http://9gag.com/gag/az2P22p)
+ - 🚯 [How couple up?](http://9gag.com/gag/az2PP3Z)
+ - 🚯 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)<!-- MEMES:END -->
 
 --- 
 
