@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Desperately Needs Global Oversight](https://www.wired.com/story/ai-desperately-needs-global-oversight/)
- - [Apple&#39;s dominance means it needs stricter controls, says Germany&#39;s antitrust regulator](https://appleinsider.com/articles/23/04/06/apples-dominance-means-it-needs-stricter-controls-says-germanys-antitrust-regulator?utm_medium=rss)
- - [US Census data: US chip imports rose 17% YoY to $4.86B in February 2023; Asia accounted for 82%, led by Malaysia at 20%, Taiwan at 15.1%, and Vietnam at 11.6% &lpar;Kevin Varley/Bloomberg&rpar;](http://www.techmeme.com/230406/p17#a230406p17)<!-- TECH:END -->
+ - [Deals: $200 off M2 MacBook Air, $499 Mac mini, Apple Watch SE $219, 20% off AirPods Pro, more](https://appleinsider.com/articles/23/04/06/deals-200-off-m2-macbook-air-499-mac-mini-apple-watch-se-219-20-off-airpods-pro-more?utm_medium=rss)
+ - [Customers still can&#39;t access My Cloud data after Western Digital hack fallout](https://appleinsider.com/articles/23/04/06/customers-still-cant-access-my-cloud-data-after-western-digital-hack-fallout?utm_medium=rss)
+ - [The 6 Best Travel Adapters &lpar;2023&rpar;: Plug and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
