@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need one](http://9gag.com/gag/a8qmAzO)
- - 🚯 [It&#39;s Wednesday my dudes](http://9gag.com/gag/amAG1bd)
- - 🚯 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)<!-- MEMES:END -->
+ - 🚖 [It&#39;s Wednesday my dudes](http://9gag.com/gag/amAG1bd)
+ - 🚯 [Dumbest death ever recorded in the history](http://9gag.com/gag/aKE9E8W)
+ - 🚯 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)<!-- MEMES:END -->
 
 --- 
 
