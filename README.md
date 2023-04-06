@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: $200 off M2 MacBook Air, $499 Mac mini, Apple Watch SE $219, 20% off AirPods Pro, more](https://appleinsider.com/articles/23/04/06/deals-200-off-m2-macbook-air-499-mac-mini-apple-watch-se-219-20-off-airpods-pro-more?utm_medium=rss)
- - [Customers still can&#39;t access My Cloud data after Western Digital hack fallout](https://appleinsider.com/articles/23/04/06/customers-still-cant-access-my-cloud-data-after-western-digital-hack-fallout?utm_medium=rss)
- - [The 6 Best Travel Adapters &lpar;2023&rpar;: Plug and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
+ - [Scientists Turned Monkey Stem Cells Into ‘Synthetic Embryos’](https://www.wired.com/story/stem-cells-monkey-synthetic-embryos/)
+ - [Samsung &amp; Google struggle to match iPhone 14 value for used handsets](https://appleinsider.com/articles/23/04/06/samsung-google-struggle-to-match-iphone-14-value-for-used-handsets?utm_medium=rss)
+ - [Before You Buy: What You Need to Know About Over-the-Counter Hearing Aids     - CNET](https://www.cnet.com/health/medical/before-you-buy-what-you-need-to-know-about-over-the-counter-hearing-aids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
