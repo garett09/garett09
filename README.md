@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Try it once and watch the reaction. It is priceless.](http://9gag.com/gag/aeQOx2p)
- - 🚯 [Let&#39;s see how long before this gets taken down...](http://9gag.com/gag/az2PONN)
- - 🚯 [Getting old is sucks](http://9gag.com/gag/aBdLPP2)<!-- MEMES:END -->
+ - 🚖 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
+ - 🚯 [Maybe it was a coincidence](http://9gag.com/gag/aA0EQxo)
+ - 🚯 [Oiu](http://9gag.com/gag/aEqVMWO)<!-- MEMES:END -->
 
 --- 
 
