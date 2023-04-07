@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MSI confirms in a filing that it was breached, without giving many details, after a ransomware gang claims to have breached MSI and stolen its source code &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230407/p5#a230407p5)
- - [Apple Arcade: All the New Games and Updates Coming in April     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)
- - [Doctor Who Hidden Object Game Now on Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/doctor-who-hidden-object-game-now-on-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
+ - [The Dungeons &amp; Dragons Movie Is a First-Rate Comedy](https://www.wired.com/2023/04/geeks-guide-dungeons-dragons-movie/)
+ - [Substack discloses financials as required by crowdfunding rules: 2021 gross revenue of $11.9M vs $2.3M in 2020, 2021 net loss of $22M vs $2.3M in 2020 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230407/p7#a230407p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
