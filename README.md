@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Colorado-based True Anomaly, which develops software and &quot;autonomous orbital pursuit vehicles&quot; to collect space data, raised $30M including a $17M Series A &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/230407/p1#a230407p1)
  - [You told us: You’re split over buying a phone without a high refresh rate](https://www.androidauthority.com/buy-high-refresh-rate-phone-poll-results-3310596/)
- - [IEM vs earbuds: What’s the difference?](https://www.androidauthority.com/iem-vs-headphones-3292547/)
- - [Vivo X Flip real-world image appears online &lpar;Updated: Plenty of specs&rpar;](https://www.androidauthority.com/vivo-x-flip-real-world-image-3308598/)<!-- TECH:END -->
+ - [Samsung’s having a terrible financial year](https://www.theverge.com/2023/4/7/23673851/samsung)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
