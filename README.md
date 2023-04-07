@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is bringing a few more Galaxy S23 camera features to older phones](https://www.androidauthority.com/samsung-galaxy-s23-image-clipper-older-phones-3310603/)
- - [Colorado-based True Anomaly, which develops software and &quot;autonomous orbital pursuit vehicles&quot; to collect space data, raised $30M including a $17M Series A &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/230407/p1#a230407p1)
- - [You told us: You’re split over buying a phone without a high refresh rate](https://www.androidauthority.com/buy-high-refresh-rate-phone-poll-results-3310596/)<!-- TECH:END -->
+ - [America’s Tornadoes Are Evolving, Fast](https://www.wired.com/story/americas-tornados-are-evolving-fast/)
+ - [Twitter’s Open Source Algorithm Is a Red Herring](https://www.wired.com/story/twitters-open-source-algorithm-is-a-red-herring/)
+ - [Apple Maps brings Look Around to six Central Europe countries](https://appleinsider.com/articles/23/04/07/apple-maps-brings-look-around-to-six-central-europe-countries?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
