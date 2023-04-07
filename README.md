@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Genius! This kid is going places](http://9gag.com/gag/amAGxDX)
- - 🚯 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)
- - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)<!-- MEMES:END -->
+ - 🚖 [Not shaking hands](http://9gag.com/gag/a2K8yMD)
+ - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)
+ - 🚯 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)<!-- MEMES:END -->
 
 --- 
 
