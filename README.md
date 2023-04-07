@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Free VPN Amnezia Helps Users Avoid Censorship in Russia](https://www.wired.com/story/amnezia-vpn-russia-censorship/)
- - [Galaxy Z Flip 5, Galaxy Z Fold 5 camera specs leak: What should you expect?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-z-fold-5-camera-specs-3310578/)
- - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)<!-- TECH:END -->
+ - [Vivo X Flip real-world image appears online &lpar;Updated: Plenty of specs&rpar;](https://www.androidauthority.com/vivo-x-flip-real-world-image-3308598/)
+ - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [Free VPN Amnezia Helps Users Avoid Censorship in Russia](https://www.wired.com/story/amnezia-vpn-russia-censorship/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
