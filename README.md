@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung warns its profits this quarter will be bad — no, like, really bad](https://www.androidauthority.com/samsung-profits-q1-2023-3310785/)
- - [Google Pay users are discovering Google accidentally gave them free money](https://www.androidauthority.com/google-pay-bug-3310780/)
- - [These Sustainable Products Make Going Green Easier Than Ever in 2023     - CNET](https://www.cnet.com/news/sustainable-product-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A novice just used ChatGPT to create terrifyingly sophisticated malware](https://www.androidauthority.com/chatgpt-malware-3310791/)
+ - [iOS 16.4.1: Download This Security Update Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-4-1-download-this-security-update-now/#ftag=CAD590a51e)
+ - [Google Offers Upgrades as it Drops Support for Dropcam and Nest Secure     - CNET](https://www.cnet.com/news/google-offers-upgrades-as-it-drops-support-for-dropcam-and-nest-secure/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
