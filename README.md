@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - 🚯 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
- - 🚯 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)<!-- MEMES:END -->
+ - 🚖 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
+ - 🚯 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - 🚯 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)<!-- MEMES:END -->
 
 --- 
 
