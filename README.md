@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
- - 🚯 [Never Again](http://9gag.com/gag/a8qmKAd)
- - 🚯 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)<!-- MEMES:END -->
+ - 🚖 [Traitor](http://9gag.com/gag/a1PDEwG)
+ - 🚯 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
+ - 🚯 [How couple up?](http://9gag.com/gag/az2PP3Z)<!-- MEMES:END -->
 
 --- 
 
