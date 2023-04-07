@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After I cancel the date](http://9gag.com/gag/a5XBzPN)
- - 🚯 [Bros not names](http://9gag.com/gag/aEqVWex)
- - 🚯 [Keep the traditions alive](http://9gag.com/gag/aXnNWgP)<!-- MEMES:END -->
+ - 🚖 [Genius! This kid is going places](http://9gag.com/gag/amAGxDX)
+ - 🚯 [No translation needed.. shes a good story teller](http://9gag.com/gag/a04VXXq)
+ - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)<!-- MEMES:END -->
 
 --- 
 
