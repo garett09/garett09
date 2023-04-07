@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Traitor](http://9gag.com/gag/a1PDEwG)
- - 🚯 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
- - 🚯 [How couple up?](http://9gag.com/gag/az2PP3Z)<!-- MEMES:END -->
+ - 🚯 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - 🚯 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)<!-- MEMES:END -->
 
 --- 
 
