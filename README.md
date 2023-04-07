@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Mario Kart Players Land Groundbreaking Trick After 27 Years](https://kotaku.com/mario-kart-64-bowsers-castle-speedrun-skip-world-record-1850313563)
- - [8 Things From The Ahsoka Trailer That Got Us Hyped TF Up](https://kotaku.com/star-wars-ahsoka-trailer-series-who-is-admiral-thrawn-1850313162)<!-- GAME:END -->
+ - [Call of Duty&#39;s next season might actually make everyone happy](https://www.pcgamer.com/call-of-dutys-next-season-might-actually-make-everyone-happy)
+ - [This Week on Xbox: Overwatch 2’s New Hero, Indie Game News, and BIG Updates](https://news.xbox.com/en-us/2023/04/07/this-week-on-xbox-overwatch-2s-new-hero-indie-game-news-and-big-updates/)
+ - [Dark Pokémon Fan Comic Explores What The Game Boy Classics Don&#39;t](https://kotaku.com/pokemon-comic-surge-giovanni-team-rocket-war-crimes-gay-1850313897)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
