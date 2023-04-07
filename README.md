@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Half-Life 2: Episode Two gets modded VR support, making Valve&#39;s sequel completely playable in virtual reality](https://www.pcgamer.com/half-life-2-episode-two-gets-modded-vr-support-making-valves-sequel-completely-playable-in-virtual-reality)
- - [Resident Evil 4 Remake&#39;s Mercenaries mode is available to play now](https://www.pcgamer.com/resident-evil-4-remakes-mercenaries-mode-is-available-to-play-now)
- - [Wordle hint and answer #657: Friday, April 7](https://www.pcgamer.com/wordle-hint-answer-today-657-april-7)<!-- GAME:END -->
+ - [Daisy Ridley to return as Rey in new Star Wars movie](https://www.polygon.com/star-wars/23673918/star-wars-rey-daisy-ridley-new-jedi-order-star-wars-celebration)
+ - [Indiana Jones and the Dial of Destiny trailer whips up some time-bending action](https://www.polygon.com/23671930/indiana-jones-5-trailer-dial-of-destiny-star-wars-celebration)
+ - [The best gifts for Star Wars fans](https://www.polygon.com/what-to-buy/23668378/star-wars-best-gifts-ideas)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
