@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After I cancel the date](http://9gag.com/gag/a5XBzPN)
- - 🚯 [Getting old is sucks](http://9gag.com/gag/aBdLPP2)
- - 🚯 [Let&#39;s see how long before this gets taken down...](http://9gag.com/gag/az2PONN)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s see how long before this gets taken down...](http://9gag.com/gag/az2PONN)
+ - 🚯 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)<!-- MEMES:END -->
 
 --- 
 
