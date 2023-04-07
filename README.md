@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vivo X Flip real-world image appears online &lpar;Updated: Plenty of specs&rpar;](https://www.androidauthority.com/vivo-x-flip-real-world-image-3308598/)
- - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
- - [Free VPN Amnezia Helps Users Avoid Censorship in Russia](https://www.wired.com/story/amnezia-vpn-russia-censorship/)<!-- TECH:END -->
+ - [You told us: You’re split over buying a phone without a high refresh rate](https://www.androidauthority.com/buy-high-refresh-rate-phone-poll-results-3310596/)
+ - [IEM vs earbuds: What’s the difference?](https://www.androidauthority.com/iem-vs-headphones-3292547/)
+ - [Vivo X Flip real-world image appears online &lpar;Updated: Plenty of specs&rpar;](https://www.androidauthority.com/vivo-x-flip-real-world-image-3308598/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
