@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Traitor](http://9gag.com/gag/a1PDEwG)
- - 🚯 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - 🚯 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)<!-- MEMES:END -->
+ - 🚖 [Women](http://9gag.com/gag/aZDwR76)
+ - 🚯 [Intruder wants to mate with her, but she calls for her man and he comes home](http://9gag.com/gag/aA0E289)
+ - 🚯 [Never Again](http://9gag.com/gag/a8qmKAd)<!-- MEMES:END -->
 
 --- 
 
