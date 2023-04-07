@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s Series C pitch deck shows the AI startup aims to raise ~$5B over the next two years to take on OpenAI and enter over a dozen major industries &lpar;TechCrunch&rpar;](http://www.techmeme.com/230407/p10#a230407p10)
- - [How one Twitter account disappeared for a week — and why nobody knew how to fix it](https://www.theverge.com/2023/4/7/23674332/twitter-locked-account-age-screening-sbnation)
- - [Someone keeps accusing fanfiction authors of writing their fic with AI, and nobody knows why](https://www.theverge.com/2023/4/7/23674123/ao3-fanfic-spam-comments-ai-writing)<!-- TECH:END -->
+ - [Update your iPhones, iPads, and Macs today, because there are fixes for active exploits inside](https://appleinsider.com/articles/23/04/07/update-your-iphones-macs-today-because-there-are-fixes-for-active-exploits-inside?utm_medium=rss)
+ - [The 39 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
