@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
- - 🚯 [How couple up?](http://9gag.com/gag/az2PP3Z)
- - 🚯 [Alexa, Holup.](http://9gag.com/gag/a04VVez)<!-- MEMES:END -->
+ - 🚖 [Old Pok\u00e9mon was peak](http://9gag.com/gag/ay24Q4M)
+ - 🚯 [Escalated super quickly](http://9gag.com/gag/a5XBjQE)
+ - 🚯 [AI Catergory Guides](http://9gag.com/gag/aVbE2Qy)<!-- MEMES:END -->
 
 --- 
 
