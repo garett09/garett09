@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Half-Life 2: Episode Two gets modded VR support, making Valve&#39;s sequel completely playable in virtual reality](https://www.pcgamer.com/half-life-2-episode-two-gets-modded-vr-support-making-valves-sequel-completely-playable-in-virtual-reality)
  - [Resident Evil 4 Remake&#39;s Mercenaries mode is available to play now](https://www.pcgamer.com/resident-evil-4-remakes-mercenaries-mode-is-available-to-play-now)
- - [Wordle hint and answer #657: Friday, April 7](https://www.pcgamer.com/wordle-hint-answer-today-657-april-7)
- - [The Mercenaries for Resident Evil 4 is available today](https://blog.playstation.com/2023/04/06/the-mercenaries-for-resident-evil-4-is-available-today/)<!-- GAME:END -->
+ - [Wordle hint and answer #657: Friday, April 7](https://www.pcgamer.com/wordle-hint-answer-today-657-april-7)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
