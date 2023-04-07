@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Update your iPhones, iPads, and Macs today, because there are fixes for active exploits inside](https://appleinsider.com/articles/23/04/07/update-your-iphones-macs-today-because-there-are-fixes-for-active-exploits-inside?utm_medium=rss)
- - [The 39 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Samsung warns its profits this quarter will be bad — no, like, really bad](https://www.androidauthority.com/samsung-profits-q1-2023-3310785/)
+ - [Google Pay users are discovering Google accidentally gave them free money](https://www.androidauthority.com/google-pay-bug-3310780/)
+ - [These Sustainable Products Make Going Green Easier Than Ever in 2023     - CNET](https://www.cnet.com/news/sustainable-product-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
