@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [America’s Tornadoes Are Evolving, Fast](https://www.wired.com/story/americas-tornados-are-evolving-fast/)
- - [Twitter’s Open Source Algorithm Is a Red Herring](https://www.wired.com/story/twitters-open-source-algorithm-is-a-red-herring/)
- - [Apple Maps brings Look Around to six Central Europe countries](https://appleinsider.com/articles/23/04/07/apple-maps-brings-look-around-to-six-central-europe-countries?utm_medium=rss)<!-- TECH:END -->
+ - [iOS 17 Control Center, ChatGPT in Shortcuts, Apple&#39;s Weather outage](https://appleinsider.com/articles/23/04/07/ios-17-control-center-chatgpt-in-shortcuts-apples-weather-outage?utm_medium=rss)
+ - [11 Best USB-C Cables &lpar;2023&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
+ - [Star Wars Celebration 2023: all the trailers and news](https://www.theverge.com/23672874/star-wars-celebration-2023-trailers-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
