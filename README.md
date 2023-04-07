@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)
- - 🚯 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
- - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)<!-- MEMES:END -->
+ - 🚖 [Epic... &lpar;Futurama&rpar;](http://9gag.com/gag/aPgP1mB)
+ - 🚯 [Never Again](http://9gag.com/gag/a8qmKAd)
+ - 🚯 [Harry Pjotr and the Chamber of Adidas](http://9gag.com/gag/a04VOzX)<!-- MEMES:END -->
 
 --- 
 
