@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Who Are The Mysterious Zonai Zelda: Tears Of The Kingdom Fans Can&#39;t Stop Talking About?](https://kotaku.com/legend-of-zelda-tears-of-the-kingdom-theory-zonai-ruins-1850314256)
- - [The Last of Us on Steam finally gets its first big patch, but it still has the jitters](https://www.pcgamer.com/the-last-of-us-on-steam-finally-gets-its-first-big-patch-but-it-still-has-the-jitters)
- - [Resident Evil 4 remake gets a bunch of microtransactions and Mercenaries DLC](https://www.polygon.com/23674468/resident-evil-4-remake-microtransactions-mercenaries-mode)<!-- GAME:END -->
+ - [Air gives us one of 2023’s finest movie assholes](https://www.polygon.com/23674734/air-movie-chris-messina-michael-jordan-agent)
+ - [Supplice is a new retro-FPS made by Doom modders, and it really feels like old-school Doom](https://www.pcgamer.com/supplice-is-a-new-retro-fps-made-by-doom-modders-and-it-really-feels-like-old-school-doom)
+ - [Blizzard fixes Overwatch 2 &#39;bug&#39; that it purposefully added in 2019](https://www.pcgamer.com/blizzard-fixes-overwatch-2-bug-that-it-purposefully-added-in-2019)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
