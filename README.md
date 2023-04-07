@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything you need to know about Star Wars: The High Republic](https://www.polygon.com/star-wars/23673259/star-wars-high-republic-explained)
- - [Daisy Ridley Returns As Rey In Star Wars Movie Where She Rebuilds Jedi Order](https://kotaku.com/star-wars-celebration-daisy-ridley-jedi-order-sequel-1850311858)
- - [Resident Evil 4 Remake gets microtransaction DLC that lets you pay to upgrade your guns](https://www.pcgamer.com/resident-evil-4-remake-gets-microtransaction-dlc-that-lets-you-pay-to-upgrade-your-guns)<!-- GAME:END -->
+ - [One of The Super Mario Bros. Movie’s best parts is already available to stream](https://www.polygon.com/23674096/the-super-mario-bros-movie-album-soundtrack-orchestra-music-free)
+ - [How to Blow Up a Pipeline is the perfect blend of radical politics and heist-movie thrills](https://www.polygon.com/reviews/23672727/how-to-blow-up-a-pipeline-movie-review)
+ - [Share of the Week: Resident Evil 4](https://blog.playstation.com/2023/04/07/share-of-the-week-resident-evil-4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
