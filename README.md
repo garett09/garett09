@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony patented a &#39;deformable elastic&#39; controller that heats up in your hands, and I can&#39;t say I&#39;m in love with the idea](https://www.pcgamer.com/sony-patented-a-deformable-elastic-controller-that-heats-up-in-your-hands-and-i-cant-say-im-in-love-with-the-idea)
- - [Sega’s Sonic-Murder Game Now One Of Best-Reviewed In Series](https://kotaku.com/murder-of-sonic-the-hedgehog-april-fools-metacritic-1850309984)
- - [How to find Refined Metal in Dredge](https://www.polygon.com/guides/23672983/dredge-refined-metal-location)<!-- GAME:END -->
+ - [The Super Mario Bros. Movie’s post-credits sequence includes a strong sequel hint](https://www.polygon.com/23670297/mario-movie-after-credits-scene-end)
+ - [Growing my village is a chill challenge in this beautiful new strategy city builder](https://www.pcgamer.com/growing-my-village-is-a-chill-challenge-in-this-beautiful-new-strategy-city-builder)
+ - [Chess Champ&#39;s Mouse Slip Costs Him Final Match And $30K Top Prize](https://kotaku.com/world-chess-champion-anal-magnus-carlsen-misclick-slip-1850310299)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
