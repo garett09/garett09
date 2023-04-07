@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This meme template is godsend](http://9gag.com/gag/aDYnbn7)
- - 🚯 [What are the odds she&#39;s the one cheating ?](http://9gag.com/gag/aBdLE81)
- - 🚯 [This is what humanity should be](http://9gag.com/gag/az2POop)<!-- MEMES:END -->
+ - 🚖 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - 🚯 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)
+ - 🚯 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)<!-- MEMES:END -->
 
 --- 
 
