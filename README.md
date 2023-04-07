@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A novice just used ChatGPT to create terrifyingly sophisticated malware](https://www.androidauthority.com/chatgpt-malware-3310791/)
- - [iOS 16.4.1: Download This Security Update Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-4-1-download-this-security-update-now/#ftag=CAD590a51e)
- - [Google Offers Upgrades as it Drops Support for Dropcam and Nest Secure     - CNET](https://www.cnet.com/news/google-offers-upgrades-as-it-drops-support-for-dropcam-and-nest-secure/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [24 Mother&#39;s Day Gifts for Your Food-Lovin&#39; Mama     - CNET](https://www.cnet.com/news/best-mothers-day-food-gifts-2023/#ftag=CAD590a51e)
+ - [Get 30% Off Any One of Master &amp; Dynamic&#39;s Excellent Headphones     - CNET](https://www.cnet.com/deals/get-30-percent-off-any-one-of-master-and-dynamics-excellent-headphones/#ftag=CAD590a51e)
+ - [Twitter seemingly removed a journalist&#39;s tweet about India&#39;s Home Minister globally, not just in the country, an apparent first, in response to a &quot;legal demand&quot; &lpar;The Hindu&rpar;](http://www.techmeme.com/230407/p13#a230407p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
