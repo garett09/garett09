@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what humanity should be](http://9gag.com/gag/az2POop)
- - 🚯 [I see nothing wrong here](http://9gag.com/gag/a04VE6z)
- - 🚯 [Fact](http://9gag.com/gag/a8qme8Y)<!-- MEMES:END -->
+ - 🚖 [Alexa, Holup.](http://9gag.com/gag/a04VVez)
+ - 🚯 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
+ - 🚯 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)<!-- MEMES:END -->
 
 --- 
 
