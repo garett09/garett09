@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is rolling out WebGPU tech for next-gen gaming in your browser](https://www.theverge.com/2023/4/6/23673462/google-webgpu-chrome-113-api-machine-learning)
  - [Substack writers are getting a pop-up saying Twitter &quot;unexpectedly restricted access to embedding tweets&quot;, a day after Substack unveiled its Twitter-like Notes &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230406/p24#a230406p24)
- - [Twitter cuts off Substack embeds and starts suspending bots](https://www.theverge.com/2023/4/6/23673043/twitter-substack-embeds-bots-tools-api)
- - [YouTube adds a Podcasts tab to channel pages globally on its website and mobile apps, showing playlists that creators have marked as podcasts &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230406/p23#a230406p23)<!-- TECH:END -->
+ - [Apple’s first retail store in India is opening soon](https://www.theverge.com/2023/4/6/23673372/apple-india-retail-store-mumbai-bkc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
