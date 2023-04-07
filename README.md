@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty&#39;s next season might actually make everyone happy](https://www.pcgamer.com/call-of-dutys-next-season-might-actually-make-everyone-happy)
- - [This Week on Xbox: Overwatch 2’s New Hero, Indie Game News, and BIG Updates](https://news.xbox.com/en-us/2023/04/07/this-week-on-xbox-overwatch-2s-new-hero-indie-game-news-and-big-updates/)
- - [Dark Pokémon Fan Comic Explores What The Game Boy Classics Don&#39;t](https://kotaku.com/pokemon-comic-surge-giovanni-team-rocket-war-crimes-gay-1850313897)<!-- GAME:END -->
+ - [Resident Evil 4 remake gets a bunch of microtransactions and Mercenaries DLC](https://www.polygon.com/23674468/resident-evil-4-remake-microtransactions-mercenaries-mode)
+ - [The hottest gaming trend is spooky inventory management](https://www.polygon.com/gaming/23674674/resident-evil-4-dredge-spooky-inventory-management)
+ - [15+ Games We Simply Must Install On Every New PC](https://kotaku.com/best-games-for-pc-steam-new-download-valve-free-1850313999)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
