@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s see how long before this gets taken down...](http://9gag.com/gag/az2PONN)
- - 🚯 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)<!-- MEMES:END -->
+ - 🚖 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
+ - 🚯 [How couple up?](http://9gag.com/gag/az2PP3Z)
+ - 🚯 [Alexa, Holup.](http://9gag.com/gag/a04VVez)<!-- MEMES:END -->
 
 --- 
 
