@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 10 to 14](https://news.xbox.com/en-us/2023/04/07/next-week-on-xbox-new-games-for-april-10-to-14/)
- - [Why does the cutest character in The Super Mario Bros. Movie want to die?](https://www.polygon.com/23673058/super-mario-bros-luma-wants-to-die)
- - [The 20 Greatest Simpsons Episodes Of All Time](https://kotaku.com/the-simpsons-best-episodes-characters-top-to-watch-list-1850309544)<!-- GAME:END -->
+ - [Everything you need to know about Star Wars: The High Republic](https://www.polygon.com/star-wars/23673259/star-wars-high-republic-explained)
+ - [Daisy Ridley Returns As Rey In Star Wars Movie Where She Rebuilds Jedi Order](https://kotaku.com/star-wars-celebration-daisy-ridley-jedi-order-sequel-1850311858)
+ - [Resident Evil 4 Remake gets microtransaction DLC that lets you pay to upgrade your guns](https://www.pcgamer.com/resident-evil-4-remake-gets-microtransaction-dlc-that-lets-you-pay-to-upgrade-your-guns)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
