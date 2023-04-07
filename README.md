@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of The Super Mario Bros. Movie’s best parts is already available to stream](https://www.polygon.com/23674096/the-super-mario-bros-movie-album-soundtrack-orchestra-music-free)
- - [How to Blow Up a Pipeline is the perfect blend of radical politics and heist-movie thrills](https://www.polygon.com/reviews/23672727/how-to-blow-up-a-pipeline-movie-review)
- - [Share of the Week: Resident Evil 4](https://blog.playstation.com/2023/04/07/share-of-the-week-resident-evil-4/)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 454: What Are Ya Spoilin’?](https://blog.playstation.com/2023/04/07/official-playstation-podcast-episode-454-what-are-ya-spoilin/)
+ - [Overwatch 2’s next balance patch will make some supports scarier](https://www.polygon.com/23674177/overwatch-2-season-4-balance-update-patch-notes)
+ - [One of The Super Mario Bros. Movie’s best parts is already available to stream](https://www.polygon.com/23674096/the-super-mario-bros-movie-album-soundtrack-orchestra-music-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
