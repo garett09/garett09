@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17 Control Center, ChatGPT in Shortcuts, Apple&#39;s Weather outage](https://appleinsider.com/articles/23/04/07/ios-17-control-center-chatgpt-in-shortcuts-apples-weather-outage?utm_medium=rss)
- - [11 Best USB-C Cables &lpar;2023&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
- - [Star Wars Celebration 2023: all the trailers and news](https://www.theverge.com/23672874/star-wars-celebration-2023-trailers-news)<!-- TECH:END -->
+ - [Best Changing Robes &lpar;2023&rpar;: Swim, Surf, Water Sports](https://www.wired.com/gallery/best-changing-robes/)
+ - [Lyft’s Vibe Shift Signals the End of the Gig Economy Dream](https://www.wired.com/story/plaintext-lyft-vibe-shift-signals-the-end-of-the-gig-economy-dream/)
+ - [This &#39;Super Mario Bros.&#39; Movie Is Destined to Sell Tons of Games](https://www.wired.com/story/super-mario-bros-movie-new-generation-video-games/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
