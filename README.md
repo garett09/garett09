@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old Pok\u00e9mon was peak](http://9gag.com/gag/ay24Q4M)
- - 🚯 [Escalated super quickly](http://9gag.com/gag/a5XBjQE)
- - 🚯 [AI Catergory Guides](http://9gag.com/gag/aVbE2Qy)<!-- MEMES:END -->
+ - 🚖 [This meme template is godsend](http://9gag.com/gag/aDYnbn7)
+ - 🚯 [What are the odds she&#39;s the one cheating ?](http://9gag.com/gag/aBdLE81)
+ - 🚯 [This is what humanity should be](http://9gag.com/gag/az2POop)<!-- MEMES:END -->
 
 --- 
 
