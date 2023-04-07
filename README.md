@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Epic... &lpar;Futurama&rpar;](http://9gag.com/gag/aPgP1mB)
- - 🚯 [Never Again](http://9gag.com/gag/a8qmKAd)
- - 🚯 [Harry Pjotr and the Chamber of Adidas](http://9gag.com/gag/a04VOzX)<!-- MEMES:END -->
+ - 🚖 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
+ - 🚯 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
+ - 🚯 [These youtube pranks are getting out of hand](http://9gag.com/gag/aMEmPM1)<!-- MEMES:END -->
 
 --- 
 
