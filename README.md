@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Changing Robes &lpar;2023&rpar;: Swim, Surf, Water Sports](https://www.wired.com/gallery/best-changing-robes/)
- - [Lyft’s Vibe Shift Signals the End of the Gig Economy Dream](https://www.wired.com/story/plaintext-lyft-vibe-shift-signals-the-end-of-the-gig-economy-dream/)
- - [This &#39;Super Mario Bros.&#39; Movie Is Destined to Sell Tons of Games](https://www.wired.com/story/super-mario-bros-movie-new-generation-video-games/)<!-- TECH:END -->
+ - [Daily Deals: AirPods 3 $149, $250 off iPad Pro, 64% off AirTag Leather Loop, more](https://appleinsider.com/articles/23/04/07/daily-deals-airpods-3-149-250-off-ipad-pro-64-off-airtag-leather-loop-more?utm_medium=rss)
+ - [NASA Is Getting Really Serious About Tracking Air Pollution](https://www.wired.com/story/nasa-tracking-air-pollution/)
+ - [Sources and internal documents: the success of ChatGPT has made Microsoft and Google willing to take greater risks despite their AI ethics guidelines &lpar;New York Times&rpar;](http://www.techmeme.com/230407/p4#a230407p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
