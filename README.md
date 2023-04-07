@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 Mother&#39;s Day Gifts for Your Food-Lovin&#39; Mama     - CNET](https://www.cnet.com/news/best-mothers-day-food-gifts-2023/#ftag=CAD590a51e)
- - [Get 30% Off Any One of Master &amp; Dynamic&#39;s Excellent Headphones     - CNET](https://www.cnet.com/deals/get-30-percent-off-any-one-of-master-and-dynamics-excellent-headphones/#ftag=CAD590a51e)
- - [Twitter seemingly removed a journalist&#39;s tweet about India&#39;s Home Minister globally, not just in the country, an apparent first, in response to a &quot;legal demand&quot; &lpar;The Hindu&rpar;](http://www.techmeme.com/230407/p13#a230407p13)<!-- TECH:END -->
+ - [Sources: Meta is giving some VR developers compensation packages of $600K to $1M, significantly more than most gaming companies, despite a push to rein in costs &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/230407/p14#a230407p14)
+ - [Rivian’s new ‘Performance’ powertrain lets R1T reservation holders keep their big battery](https://www.theverge.com/2023/4/7/23673961/rivian-performance-dual-motor-availability-max-pack-battery)
+ - [24 Mother&#39;s Day Gifts for Your Food-Lovin&#39; Mama     - CNET](https://www.cnet.com/news/best-mothers-day-food-gifts-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
