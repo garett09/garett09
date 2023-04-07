@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)
- - 🚯 [The Burj Khalifa in Dubai has no sewage system, trucks have to pump out poop every day.](http://9gag.com/gag/a1PDDM2)
- - 🚯 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)<!-- MEMES:END -->
+ - 🚖 [After I cancel the date](http://9gag.com/gag/a5XBzPN)
+ - 🚯 [Getting old is sucks](http://9gag.com/gag/aBdLPP2)
+ - 🚯 [Let&#39;s see how long before this gets taken down...](http://9gag.com/gag/az2PONN)<!-- MEMES:END -->
 
 --- 
 
