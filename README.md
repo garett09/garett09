@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 remake gets a bunch of microtransactions and Mercenaries DLC](https://www.polygon.com/23674468/resident-evil-4-remake-microtransactions-mercenaries-mode)
- - [The hottest gaming trend is spooky inventory management](https://www.polygon.com/gaming/23674674/resident-evil-4-dredge-spooky-inventory-management)
- - [15+ Games We Simply Must Install On Every New PC](https://kotaku.com/best-games-for-pc-steam-new-download-valve-free-1850313999)<!-- GAME:END -->
+ - [Who Are The Mysterious Zonai Zelda: Tears Of The Kingdom Fans Can&#39;t Stop Talking About?](https://kotaku.com/legend-of-zelda-tears-of-the-kingdom-theory-zonai-ruins-1850314256)
+ - [The Last of Us on Steam finally gets its first big patch, but it still has the jitters](https://www.pcgamer.com/the-last-of-us-on-steam-finally-gets-its-first-big-patch-but-it-still-has-the-jitters)
+ - [Resident Evil 4 remake gets a bunch of microtransactions and Mercenaries DLC](https://www.polygon.com/23674468/resident-evil-4-remake-microtransactions-mercenaries-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
