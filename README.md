@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Alexa, Holup.](http://9gag.com/gag/a04VVez)
- - 🚯 [This Fly Trap makes you feel bad for them](http://9gag.com/gag/agoOOer)
- - 🚯 [That one time when Gordon Ramsey was humbled](http://9gag.com/gag/aEqVoLK)<!-- MEMES:END -->
+ - 🚖 [Ms. Officer, Holup.](http://9gag.com/gag/agoO7W6)
+ - 🚯 [This is how one passenger on AirFrance &lpar;Paris to DR&rpar; left his area..unbelievable](http://9gag.com/gag/ajVOL3R)
+ - 🚯 [Alexa, Holup.](http://9gag.com/gag/a04VVez)<!-- MEMES:END -->
 
 --- 
 
