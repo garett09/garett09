@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)
- - [The Dungeons &amp; Dragons Movie Is a First-Rate Comedy](https://www.wired.com/2023/04/geeks-guide-dungeons-dragons-movie/)
- - [Substack discloses financials as required by crowdfunding rules: 2021 gross revenue of $11.9M vs $2.3M in 2020, 2021 net loss of $22M vs $2.3M in 2020 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230407/p7#a230407p7)<!-- TECH:END -->
+ - [Substack founders criticize Twitter over restrictions, saying this is a reminder of why writers need a platform &quot;that protects the free press and free speech&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/230407/p8#a230407p8)
+ - [iOS 16.4: New Emoji, More Just Landed on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-4-new-emoji-more-just-landed-on-your-iphone/#ftag=CAD590a51e)
+ - [Lord of the Rings Mobile Game Is a Free RPG With Your Favorite Hobbits     - CNET](https://www.cnet.com/tech/gaming/lord-of-the-rings-mobile-game-is-a-free-rpg-with-your-favorite-hobbits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
