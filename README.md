@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals: AirPods 3 $149, $250 off iPad Pro, 64% off AirTag Leather Loop, more](https://appleinsider.com/articles/23/04/07/daily-deals-airpods-3-149-250-off-ipad-pro-64-off-airtag-leather-loop-more?utm_medium=rss)
- - [NASA Is Getting Really Serious About Tracking Air Pollution](https://www.wired.com/story/nasa-tracking-air-pollution/)
- - [Sources and internal documents: the success of ChatGPT has made Microsoft and Google willing to take greater risks despite their AI ethics guidelines &lpar;New York Times&rpar;](http://www.techmeme.com/230407/p4#a230407p4)<!-- TECH:END -->
+ - [MSI confirms in a filing that it was breached, without giving many details, after a ransomware gang claims to have breached MSI and stolen its source code &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230407/p5#a230407p5)
+ - [Apple Arcade: All the New Games and Updates Coming in April     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)
+ - [Doctor Who Hidden Object Game Now on Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/doctor-who-hidden-object-game-now-on-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
