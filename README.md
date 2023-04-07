@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Shatterpoint lowers the FOMO, amps up the RNG](https://www.polygon.com/tabletop-games/23671326/star-wars-shatterpoint-miniatures-skirmish-game-preview-adepticon)
- - [F.E.A.R. inspired shooter Trepang2 blasts onto Steam this June](https://www.pcgamer.com/fear-inspired-shooter-trepang2-blasts-onto-steam-this-june)
- - [Directors for 3 very different Star Wars movies announced](https://www.polygon.com/23673145/star-wars-new-movies-directors-announcement-celebration)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for April 10 to 14](https://news.xbox.com/en-us/2023/04/07/next-week-on-xbox-new-games-for-april-10-to-14/)
+ - [Why does the cutest character in The Super Mario Bros. Movie want to die?](https://www.polygon.com/23673058/super-mario-bros-luma-wants-to-die)
+ - [The 20 Greatest Simpsons Episodes Of All Time](https://kotaku.com/the-simpsons-best-episodes-characters-top-to-watch-list-1850309544)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
