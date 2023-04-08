@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [How to unlock Link in The Super Mario Bros. Movie](https://www.polygon.com/nintendo/23674561/the-super-mario-bros-movie-characters-silly-prank-satire-this-is-a-joke)
- - [The D&amp;D movie captures one of the best parts of gaming](https://www.polygon.com/23674416/dungeons-and-dragons-movie-honor-among-thieves-role-play)
- - [The Super Mario Bros. Movie drew on unused Nintendo designs to build out Mario’s family](https://www.polygon.com/23673074/mario-movie-family-members-dad-mom-uncles-aunt)<!-- GAME:END -->
+ - [14 Of The Best And Most Obscure Secrets We Spotted In The Super Mario Bros. Movie](https://kotaku.com/the-super-mario-bros-movie-2023-easter-eggs-credits-1850307140)
+ - [The D&amp;D movie captures one of the best parts of gaming](https://www.polygon.com/23674416/dungeons-and-dragons-movie-honor-among-thieves-role-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
