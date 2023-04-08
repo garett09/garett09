@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If the shoe fits...](http://9gag.com/gag/aOx41bD)
- - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)
- - 🚯 [That\u2019s a W for the salesman](http://9gag.com/gag/aBdLXdO)<!-- MEMES:END -->
+ - 🚖 [Never Again](http://9gag.com/gag/a8qmKAd)
+ - 🚯 [Guess the country](http://9gag.com/gag/ap9DY3D)
+ - 🚯 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)<!-- MEMES:END -->
 
 --- 
 
