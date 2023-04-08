@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know, you know.](http://9gag.com/gag/aqe8AQj)
- - 🚯 [Interesting experiment...](http://9gag.com/gag/aeQOdpj)
- - 🚯 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)<!-- MEMES:END -->
+ - 🚖 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)
+ - 🚯 [What kind of Animal is it?](http://9gag.com/gag/aKE9N81)
+ - 🚯 [Never Again](http://9gag.com/gag/a8qmKAd)<!-- MEMES:END -->
 
 --- 
 
