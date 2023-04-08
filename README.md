@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the increasing complexity of the operating environment for crypto companies in the US, as a regulatory turf war between the SEC and the CFTC escalates &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/230408/p4#a230408p4)
- - [Man United vs. Everton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-everton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Save Money and Let These Streaming Services Go This Month     - CNET](https://www.cnet.com/tech/services-and-software/save-money-and-let-these-streaming-services-go-this-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How &#39;Tetris&#39; Pieced Together a Real-Life Political Thriller](https://www.wired.com/story/tetris-movie-history-political-thriller/)
+ - [12 Best Deals: Kindles, Tablets, and Coffee Makers](https://www.wired.com/story/weekend-deals-april-8-2023/)
+ - [A look at the increasing complexity of the operating environment for crypto companies in the US, as a regulatory turf war between the SEC and the CFTC escalates &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/230408/p4#a230408p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
