@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is giving some VR developers compensation packages of $600K to $1M, significantly more than most gaming companies, despite a push to rein in costs &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/230407/p14#a230407p14)
- - [Rivian’s new ‘Performance’ powertrain lets R1T reservation holders keep their big battery](https://www.theverge.com/2023/4/7/23673961/rivian-performance-dual-motor-availability-max-pack-battery)
- - [24 Mother&#39;s Day Gifts for Your Food-Lovin&#39; Mama     - CNET](https://www.cnet.com/news/best-mothers-day-food-gifts-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter starts marking Substack links with a warning that the link &quot;has been identified by Twitter or our partners as being potentially spammy or unsafe&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/230407/p15#a230407p15)
+ - [Microsoft locks down game emulation on the Xbox Series X and Series S](https://www.theverge.com/2023/4/7/23674707/microsoft-xbox-emulators-ban-nintendo)
+ - [The best Sega emulators for PC and Mac](https://www.androidauthority.com/best-sega-emulators-pc-and-mac-3309409/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
