@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [How Uber revamped its app, attracting more drivers and extending its lead on Lyft; YipitData: Uber&#39;s US market share grew from 62% in early 2020 to 74% now &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230407/p16#a230407p16)
- - [Halo veteran Joseph Staten is leaving Microsoft](https://www.theverge.com/2023/4/7/23674958/joe-staten-halo-infinite-destiny-microsoft-bungie)
- - [Twitter starts marking Substack links with a warning that the link &quot;has been identified by Twitter or our partners as being potentially spammy or unsafe&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/230407/p15#a230407p15)<!-- TECH:END -->
+ - [Best TV for 2023, Tested and Reviewed     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
+ - [Halo veteran Joseph Staten is leaving Microsoft](https://www.theverge.com/2023/4/7/23674958/joe-staten-halo-infinite-destiny-microsoft-bungie)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
