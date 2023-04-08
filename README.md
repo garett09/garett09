@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How-my-girlfriend-watches-me-interact-with-my-best-friend](http://9gag.com/gag/aBdLvm2)
- - 🚯 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)
- - 🚯 [Why are there plane trails in Last of Us Part 1? Who&#39;s up there flying about in their 747s?](http://9gag.com/gag/aQEQVXd)<!-- MEMES:END -->
+ - 🚖 [Why are there plane trails in Last of Us Part 1? Who&#39;s up there flying about in their 747s?](http://9gag.com/gag/aQEQVXd)
+ - 🚯 [If the shoe fits...](http://9gag.com/gag/aOx41bD)
+ - 🚯 [That\u2019s a W for the salesman](http://9gag.com/gag/aBdLXdO)<!-- MEMES:END -->
 
 --- 
 
