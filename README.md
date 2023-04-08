@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Traitor](http://9gag.com/gag/a1PDEwG)
- - 🚯 [Legend says the witch is still alive. She has taken over a tree and curses everyone who gets too close to the tree](http://9gag.com/gag/avQed5d)
- - 🚯 [Cardio at the gym](http://9gag.com/gag/aKE98L3)<!-- MEMES:END -->
+ - 🚖 [To be fair, that&#39;s pretty unforgivable](http://9gag.com/gag/aDYnM8K)
+ - 🚯 [What happens when you bark at your dog](http://9gag.com/gag/avQevPZ)
+ - 🚯 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)<!-- MEMES:END -->
 
 --- 
 
