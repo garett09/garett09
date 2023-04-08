@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why are there plane trails in Last of Us Part 1? Who&#39;s up there flying about in their 747s?](http://9gag.com/gag/aQEQVXd)
- - 🚯 [If the shoe fits...](http://9gag.com/gag/aOx41bD)
- - 🚯 [That\u2019s a W for the salesman](http://9gag.com/gag/aBdLXdO)<!-- MEMES:END -->
+ - 🚖 [If you know, you know.](http://9gag.com/gag/aqe8AQj)
+ - 🚯 [Interesting experiment...](http://9gag.com/gag/aeQOdpj)
+ - 🚯 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)<!-- MEMES:END -->
 
 --- 
 
