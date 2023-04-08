@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [AI Catergory Guides](http://9gag.com/gag/aVbE2Qy)
- - 🚯 [Give this strong independent woman her rights](http://9gag.com/gag/a7qeNAr)
- - 🚯 [That\u2019s what we call a miscalculation](http://9gag.com/gag/aXnN4OV)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s see how long before this gets taken down...](http://9gag.com/gag/az2PONN)
+ - 🚯 [Cardio at the gym](http://9gag.com/gag/aKE98L3)
+ - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)<!-- MEMES:END -->
 
 --- 
 
