@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its just one of those days - part 2](http://9gag.com/gag/aYVOdMN)
- - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)
- - 🚯 [How-my-girlfriend-watches-me-interact-with-my-best-friend](http://9gag.com/gag/aBdLvm2)<!-- MEMES:END -->
+ - 🚖 [What a forward young man](http://9gag.com/gag/avQemDM)
+ - 🚯 [Never Again](http://9gag.com/gag/a8qmKAd)
+ - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)<!-- MEMES:END -->
 
 --- 
 
