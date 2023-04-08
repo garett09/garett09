@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bob Lee&#39;s death in San Francisco has stirred outrage among tech leaders and could motivate the tech community to become more involved in city politics &lpar;New York Times&rpar;](http://www.techmeme.com/230408/p6#a230408p6)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-479-3310489/)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [Best PSVR 2 Games in 2023     - CNET](https://www.cnet.com/tech/gaming/the-best-games-for-psvr-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
