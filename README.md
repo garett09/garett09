@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Traitor](http://9gag.com/gag/a1PDEwG)
- - 🚯 [The absolute audacity...do people actually fall for this?](http://9gag.com/gag/aEqVO9K)
- - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)<!-- MEMES:END -->
+ - 🚯 [Genius! This kid is going places](http://9gag.com/gag/amAGxDX)
+ - 🚯 [If the shoe fits...](http://9gag.com/gag/aOx41bD)<!-- MEMES:END -->
 
 --- 
 
