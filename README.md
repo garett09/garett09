@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)
- - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)
+ - 🚖 [That\u2019s what we call a miscalculation](http://9gag.com/gag/aXnN4OV)
+ - 🚯 [Girls act like dead fishes and expect the man to do all the work and still they complain](http://9gag.com/gag/aBdLE6x)
  - 🚯 [If the shoe fits...](http://9gag.com/gag/aOx41bD)<!-- MEMES:END -->
 
 --- 
