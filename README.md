@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s see how long before this gets taken down...](http://9gag.com/gag/az2PONN)
- - 🚯 [Cardio at the gym](http://9gag.com/gag/aKE98L3)
+ - 🚖 [Traitor](http://9gag.com/gag/a1PDEwG)
+ - 🚯 [The absolute audacity...do people actually fall for this?](http://9gag.com/gag/aEqVO9K)
  - 🚯 [Cancel Student Debt](http://9gag.com/gag/adPOn6d)<!-- MEMES:END -->
 
 --- 
