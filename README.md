@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Traitor](http://9gag.com/gag/a1PDEwG)
- - 🚯 [Bro is losing and winning at the same time](http://9gag.com/gag/armAxyy)
+ - 🚖 [Never Again](http://9gag.com/gag/a8qmKAd)
+ - 🚯 [Intruder wants to mate with her, but she calls for her man and he comes home](http://9gag.com/gag/aA0E289)
  - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)<!-- MEMES:END -->
 
 --- 
