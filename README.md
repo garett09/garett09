@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To be fair, that&#39;s pretty unforgivable](http://9gag.com/gag/aDYnM8K)
- - 🚯 [What happens when you bark at your dog](http://9gag.com/gag/avQevPZ)
- - 🚯 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)<!-- MEMES:END -->
+ - 🚖 [Traitor](http://9gag.com/gag/a1PDEwG)
+ - 🚯 [Bro is losing and winning at the same time](http://9gag.com/gag/armAxyy)
+ - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)<!-- MEMES:END -->
 
 --- 
 
