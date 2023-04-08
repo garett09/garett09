@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Binance.US has struggled to find a bank for its customers&#39; cash after the failure of Signature Bank and is using at least one middleman to store funds &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230408/p5#a230408p5)
- - [Daily deals April 8: $50 off 2022 iPad, $110 off M2 Mac mini, 50% off Dell Gaming Monitor](https://appleinsider.com/articles/23/04/08/daily-deals-april-8-50-off-2022-ipad-110-off-m2-mac-mini-50-off-dell-gaming-monitor?utm_medium=rss)
- - [What Bluetooth earbuds and headphones does Android Authority use every day?](https://www.androidauthority.com/bluetooth-audio-daily-team-aa-3265793/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-479-3310489/)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [Best PSVR 2 Games in 2023     - CNET](https://www.cnet.com/tech/gaming/the-best-games-for-psvr-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
