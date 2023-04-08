@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Traitor](http://9gag.com/gag/a1PDEwG)
- - 🚯 [Genius! This kid is going places](http://9gag.com/gag/amAGxDX)
- - 🚯 [If the shoe fits...](http://9gag.com/gag/aOx41bD)<!-- MEMES:END -->
+ - 🚯 [Legend says the witch is still alive. She has taken over a tree and curses everyone who gets too close to the tree](http://9gag.com/gag/avQed5d)
+ - 🚯 [Cardio at the gym](http://9gag.com/gag/aKE98L3)<!-- MEMES:END -->
 
 --- 
 
