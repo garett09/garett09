@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)
- - 🚯 [What kind of Animal is it?](http://9gag.com/gag/aKE9N81)
- - 🚯 [Never Again](http://9gag.com/gag/a8qmKAd)<!-- MEMES:END -->
+ - 🚖 [If the shoe fits...](http://9gag.com/gag/aOx41bD)
+ - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)
+ - 🚯 [That\u2019s a W for the salesman](http://9gag.com/gag/aBdLXdO)<!-- MEMES:END -->
 
 --- 
 
