@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #658: Saturday, April 8](https://www.pcgamer.com/wordle-hint-answer-today-658-april-8)
  - [Halo creative lead Joseph Staten leaves Microsoft 3 months after heavy layoffs at 343 Industries](https://www.pcgamer.com/halo-creative-lead-joseph-staten-leaves-microsoft-3-months-after-heavy-layoffs-at-343-industries)
- - [Jack Black’s ‘Peaches’ video seals his win as the best part of the Mario movie](https://www.polygon.com/23674781/jack-black-peaches-video-mario-movie)
- - [Air gives us one of 2023’s finest movie assholes](https://www.polygon.com/23674734/air-movie-chris-messina-michael-jordan-agent)<!-- GAME:END -->
+ - [Jack Black’s ‘Peaches’ video seals his win as the best part of the Mario movie](https://www.polygon.com/23674781/jack-black-peaches-video-mario-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
