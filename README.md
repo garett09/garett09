@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never Again](http://9gag.com/gag/a8qmKAd)
- - 🚯 [Intruder wants to mate with her, but she calls for her man and he comes home](http://9gag.com/gag/aA0E289)
- - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)<!-- MEMES:END -->
+ - 🚖 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)
+ - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)
+ - 🚯 [If the shoe fits...](http://9gag.com/gag/aOx41bD)<!-- MEMES:END -->
 
 --- 
 
