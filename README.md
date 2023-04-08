@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Never Again](http://9gag.com/gag/a8qmKAd)
- - 🚯 [Guess the country](http://9gag.com/gag/ap9DY3D)
- - 🚯 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)<!-- MEMES:END -->
+ - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)
+ - 🚯 [9gaggers still can get any but doggo did](http://9gag.com/gag/a4ozr66)<!-- MEMES:END -->
 
 --- 
 
