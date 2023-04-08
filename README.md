@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [What a forward young man](http://9gag.com/gag/avQemDM)
- - 🚯 [Never Again](http://9gag.com/gag/a8qmKAd)
- - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)<!-- MEMES:END -->
+ - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)
+ - 🚯 [Never Again](http://9gag.com/gag/a8qmKAd)<!-- MEMES:END -->
 
 --- 
 
