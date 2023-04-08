@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent and ByteDance&#39;s Douyin sign a deal authorizing Douyin to distribute Tencent&#39;s video content, after years of copyright disputes between the two companies &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/230408/p1#a230408p1)
- - [How Uber revamped its app, attracting more drivers and extending its lead on Lyft; YipitData: Uber&#39;s US market share grew from 62% in early 2020 to 74% now &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230407/p16#a230407p16)
- - [Best TV for 2023, Tested and Reviewed     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts say when ChatGPT confabulates, it is reaching for information that is absent from its training data and filling in blanks with plausible-sounding words &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230408/p3#a230408p3)
+ - [Customs data: London-based Mykines shipped ~$1.2B of chips, servers, and other electronics into Russia, at least $982M of which are subject to export controls &lpar;Financial Times&rpar;](http://www.techmeme.com/230408/p2#a230408p2)
+ - [Tencent and ByteDance&#39;s Douyin sign a deal authorizing Douyin to distribute Tencent&#39;s video content, after years of copyright disputes between the two companies &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/230408/p1#a230408p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
