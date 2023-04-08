@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say when ChatGPT confabulates, it is reaching for information that is absent from its training data and filling in blanks with plausible-sounding words &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230408/p3#a230408p3)
- - [Customs data: London-based Mykines shipped ~$1.2B of chips, servers, and other electronics into Russia, at least $982M of which are subject to export controls &lpar;Financial Times&rpar;](http://www.techmeme.com/230408/p2#a230408p2)
- - [Tencent and ByteDance&#39;s Douyin sign a deal authorizing Douyin to distribute Tencent&#39;s video content, after years of copyright disputes between the two companies &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/230408/p1#a230408p1)<!-- TECH:END -->
+ - [A look at the increasing complexity of the operating environment for crypto companies in the US, as a regulatory turf war between the SEC and the CFTC escalates &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/230408/p4#a230408p4)
+ - [Man United vs. Everton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-everton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Save Money and Let These Streaming Services Go This Month     - CNET](https://www.cnet.com/tech/services-and-software/save-money-and-let-these-streaming-services-go-this-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
