@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Ultimate Methods to Fix iPad Stuck on Apple Logo](https://appleinsider.com/articles/23/04/08/5-ultimate-methods-to-fix-ipad-stuck-on-apple-logo?utm_medium=rss)
- - [Pinduoduo, a Top Chinese Shopping App, Is Laced With Malware](https://www.wired.com/story/pinduoduo-malware-security-roundup/)
- - [Microsoft Adds Bing Chat to SwiftKey Beta for Android](https://www.wired.com/story/bing-chat-swiftkey-beta-android/)<!-- TECH:END -->
+ - [Daily deals April 8: $50 off 2022 iPad, $110 off M2 Mac mini, 50% off Dell Gaming Monitor](https://appleinsider.com/articles/23/04/08/daily-deals-april-8-50-off-2022-ipad-110-off-m2-mac-mini-50-off-dell-gaming-monitor?utm_medium=rss)
+ - [What Bluetooth earbuds and headphones does Android Authority use every day?](https://www.androidauthority.com/bluetooth-audio-daily-team-aa-3265793/)
+ - [8 Best TV Streaming Devices for 4K, HD &lpar;2023&rpar;: Roku vs. Fire TV vs. Apple TV vs. Google](https://www.wired.com/gallery/best-4k-streaming-devices/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
