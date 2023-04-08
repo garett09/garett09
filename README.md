@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baidu sues &quot;relevant&quot; app developers and Apple over fake apps for its Ernie bot on the App Store; Ernie, launched in March 2023, doesn&#39;t have an official app &lpar;Reuters&rpar;](http://www.techmeme.com/230408/p10#a230408p10)
  - [Twitter replaces the &quot;state-affiliated media&quot; label on NPR&#39;s account with a new label describing the nonprofit media company as &quot;government funded&quot; &lpar;Aidan McLaughlin/Mediaite&rpar;](http://www.techmeme.com/230408/p9#a230408p9)
- - [NEW: Label on NPR&#39;s main account changed to &quot;government funded,&quot; and Elon tells me Twitter is &quot;applying it to a larger number of institutions.&quot; &lpar;Bobby Allyn/@BobbyAllyn&rpar;](http://www.techmeme.com/230408/p8#a230408p8)
- - [Hogwarts Legacy: The Best PS5 and Xbox Graphics Options     - CNET](https://www.cnet.com/tech/gaming/hogwarts-legacy-the-best-ps5-and-xbox-graphics-options/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NEW: Label on NPR&#39;s main account changed to &quot;government funded,&quot; and Elon tells me Twitter is &quot;applying it to a larger number of institutions.&quot; &lpar;Bobby Allyn/@BobbyAllyn&rpar;](http://www.techmeme.com/230408/p8#a230408p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
