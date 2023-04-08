@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How &#39;Tetris&#39; Pieced Together a Real-Life Political Thriller](https://www.wired.com/story/tetris-movie-history-political-thriller/)
- - [12 Best Deals: Kindles, Tablets, and Coffee Makers](https://www.wired.com/story/weekend-deals-april-8-2023/)
- - [A look at the increasing complexity of the operating environment for crypto companies in the US, as a regulatory turf war between the SEC and the CFTC escalates &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/230408/p4#a230408p4)<!-- TECH:END -->
+ - [Coverscreen OS makes me excited for the Galaxy Z Flip 5](https://www.androidauthority.com/coverscreen-os-galaxy-z-flip-3309687/)
+ - [A Parasite Is Killing Sea Otters. Is Cat Poop to Blame?](https://www.wired.com/story/a-parasite-is-killing-sea-otters-is-cat-poop-to-blame/)
+ - [Best Satellite Internet Providers for 2023     - CNET](https://www.cnet.com/news/best-satellite-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
