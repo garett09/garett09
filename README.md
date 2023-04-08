@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coverscreen OS makes me excited for the Galaxy Z Flip 5](https://www.androidauthority.com/coverscreen-os-galaxy-z-flip-3309687/)
- - [A Parasite Is Killing Sea Otters. Is Cat Poop to Blame?](https://www.wired.com/story/a-parasite-is-killing-sea-otters-is-cat-poop-to-blame/)
- - [Best Satellite Internet Providers for 2023     - CNET](https://www.cnet.com/news/best-satellite-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Ultimate Methods to Fix iPad Stuck on Apple Logo](https://appleinsider.com/articles/23/04/08/5-ultimate-methods-to-fix-ipad-stuck-on-apple-logo?utm_medium=rss)
+ - [Pinduoduo, a Top Chinese Shopping App, Is Laced With Malware](https://www.wired.com/story/pinduoduo-malware-security-roundup/)
+ - [Microsoft Adds Bing Chat to SwiftKey Beta for Android](https://www.wired.com/story/bing-chat-swiftkey-beta-android/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
