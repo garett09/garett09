@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The D&amp;D movie captures one of the best parts of gaming](https://www.polygon.com/23674416/dungeons-and-dragons-movie-honor-among-thieves-role-play)
  - [The Super Mario Bros. Movie drew on unused Nintendo designs to build out Mario’s family](https://www.polygon.com/23673074/mario-movie-family-members-dad-mom-uncles-aunt)
- - [The best thrillers to watch on Netflix in April](https://www.polygon.com/what-to-watch/2023/4/8/23665311/best-thriller-movies-netflix-watch-april-2023)
- - [Thrawn will be played by original voice actor Lars Mikkelsen in Ahsoka](https://www.polygon.com/star-wars/23143275/ahsoka-thrawn-casting-actor-announced)<!-- GAME:END -->
+ - [The best thrillers to watch on Netflix in April](https://www.polygon.com/what-to-watch/2023/4/8/23665311/best-thriller-movies-netflix-watch-april-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
