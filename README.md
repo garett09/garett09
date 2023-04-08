@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girls act like dead fishes and expect the man to do all the work and still they complain](http://9gag.com/gag/aBdLE6x)
- - 🚯 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)
- - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)<!-- MEMES:END -->
+ - 🚖 [Its just one of those days - part 2](http://9gag.com/gag/aYVOdMN)
+ - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)
+ - 🚯 [How-my-girlfriend-watches-me-interact-with-my-best-friend](http://9gag.com/gag/aBdLvm2)<!-- MEMES:END -->
 
 --- 
 
