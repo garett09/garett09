@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s what we call a miscalculation](http://9gag.com/gag/aXnN4OV)
- - 🚯 [Girls act like dead fishes and expect the man to do all the work and still they complain](http://9gag.com/gag/aBdLE6x)
- - 🚯 [If the shoe fits...](http://9gag.com/gag/aOx41bD)<!-- MEMES:END -->
+ - 🚖 [Do you have any CHATGPT tricks/hacks/cheats to share?](http://9gag.com/gag/a9qvBZL)
+ - 🚯 [Spilled yogurt](http://9gag.com/gag/anznV6q)
+ - 🚯 [This movie is pure gold](http://9gag.com/gag/ap9DVED)<!-- MEMES:END -->
 
 --- 
 
