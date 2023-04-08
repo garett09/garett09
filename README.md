@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you have any CHATGPT tricks/hacks/cheats to share?](http://9gag.com/gag/a9qvBZL)
- - 🚯 [Spilled yogurt](http://9gag.com/gag/anznV6q)
- - 🚯 [This movie is pure gold](http://9gag.com/gag/ap9DVED)<!-- MEMES:END -->
+ - 🚖 [Girls act like dead fishes and expect the man to do all the work and still they complain](http://9gag.com/gag/aBdLE6x)
+ - 🚯 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)
+ - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)<!-- MEMES:END -->
 
 --- 
 
