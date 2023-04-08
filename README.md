@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bob Lee&#39;s death in San Francisco has stirred outrage among tech leaders and could motivate the tech community to become more involved in city politics &lpar;New York Times&rpar;](http://www.techmeme.com/230408/p6#a230408p6)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-479-3310489/)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
+ - [I let Bixby answer my calls and everyone hung up on me](https://www.androidauthority.com/bixby-text-call-3302264/)
+ - [Musk says Twitter never blocked Substack links and Substack was &quot;trying to download a massive portion of the Twitter database to bootstrap their Twitter clone&quot; &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230408/p7#a230408p7)
+ - [Reminder: using Chrome on a Mac defeats Apple&#39;s privacy features](https://appleinsider.com/articles/23/04/08/reminder-using-chrome-on-a-mac-defeats-apples-privacy-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
