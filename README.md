@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter starts marking Substack links with a warning that the link &quot;has been identified by Twitter or our partners as being potentially spammy or unsafe&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/230407/p15#a230407p15)
- - [Microsoft locks down game emulation on the Xbox Series X and Series S](https://www.theverge.com/2023/4/7/23674707/microsoft-xbox-emulators-ban-nintendo)
- - [The best Sega emulators for PC and Mac](https://www.androidauthority.com/best-sega-emulators-pc-and-mac-3309409/)<!-- TECH:END -->
+ - [How Uber revamped its app, attracting more drivers and extending its lead on Lyft; YipitData: Uber&#39;s US market share grew from 62% in early 2020 to 74% now &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230407/p16#a230407p16)
+ - [Halo veteran Joseph Staten is leaving Microsoft](https://www.theverge.com/2023/4/7/23674958/joe-staten-halo-infinite-destiny-microsoft-bungie)
+ - [Twitter starts marking Substack links with a warning that the link &quot;has been identified by Twitter or our partners as being potentially spammy or unsafe&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/230407/p15#a230407p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
