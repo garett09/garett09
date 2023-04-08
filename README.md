@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent and ByteDance&#39;s Douyin sign a deal authorizing Douyin to distribute Tencent&#39;s video content, after years of copyright disputes between the two companies &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/230408/p1#a230408p1)
  - [How Uber revamped its app, attracting more drivers and extending its lead on Lyft; YipitData: Uber&#39;s US market share grew from 62% in early 2020 to 74% now &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/230407/p16#a230407p16)
- - [Best TV for 2023, Tested and Reviewed     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
- - [Halo veteran Joseph Staten is leaving Microsoft](https://www.theverge.com/2023/4/7/23674958/joe-staten-halo-infinite-destiny-microsoft-bungie)<!-- TECH:END -->
+ - [Best TV for 2023, Tested and Reviewed     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
