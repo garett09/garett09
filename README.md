@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Air gives us one of 2023’s finest movie assholes](https://www.polygon.com/23674734/air-movie-chris-messina-michael-jordan-agent)
- - [Supplice is a new retro-FPS made by Doom modders, and it really feels like old-school Doom](https://www.pcgamer.com/supplice-is-a-new-retro-fps-made-by-doom-modders-and-it-really-feels-like-old-school-doom)
- - [Blizzard fixes Overwatch 2 &#39;bug&#39; that it purposefully added in 2019](https://www.pcgamer.com/blizzard-fixes-overwatch-2-bug-that-it-purposefully-added-in-2019)<!-- GAME:END -->
+ - [Halo creative lead Joseph Staten leaves Microsoft 3 months after heavy layoffs at 343 Industries](https://www.pcgamer.com/halo-creative-lead-joseph-staten-leaves-microsoft-3-months-after-heavy-layoffs-at-343-industries)
+ - [Jack Black’s ‘Peaches’ video seals his win as the best part of the Mario movie](https://www.polygon.com/23674781/jack-black-peaches-video-mario-movie)
+ - [Air gives us one of 2023’s finest movie assholes](https://www.polygon.com/23674734/air-movie-chris-messina-michael-jordan-agent)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
