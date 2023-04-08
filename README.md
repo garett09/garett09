@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I plunged into the depths of Elder Scrolls metal bands and found the ones worth listening to](https://www.pcgamer.com/the-metal-bands-that-elder-scrolls-inspired)
  - [How to unlock Link in The Super Mario Bros. Movie](https://www.polygon.com/nintendo/23674561/the-super-mario-bros-movie-characters-silly-prank-satire-this-is-a-joke)
- - [14 Of The Best And Most Obscure Secrets We Spotted In The Super Mario Bros. Movie](https://kotaku.com/the-super-mario-bros-movie-2023-easter-eggs-credits-1850307140)
- - [The D&amp;D movie captures one of the best parts of gaming](https://www.polygon.com/23674416/dungeons-and-dragons-movie-honor-among-thieves-role-play)<!-- GAME:END -->
+ - [14 Of The Best And Most Obscure Secrets We Spotted In The Super Mario Bros. Movie](https://kotaku.com/the-super-mario-bros-movie-2023-easter-eggs-credits-1850307140)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
