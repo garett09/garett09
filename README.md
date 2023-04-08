@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPhone 15 Pro Max renders show larger camera bump](https://appleinsider.com/articles/23/04/08/new-iphone-15-pro-max-renders-show-larger-camera-bump?utm_medium=rss)
- - [I let Bixby answer my calls and everyone hung up on me](https://www.androidauthority.com/bixby-text-call-3302264/)
- - [Elon Musk claims Twitter never blocked Substack links and it was &quot;trying to download a massive portion of the Twitter database to bootstrap their Twitter clone&quot; &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230408/p7#a230408p7)<!-- TECH:END -->
+ - [Twitter replaces the &quot;state-affiliated media&quot; label on NPR&#39;s account with a new label describing the nonprofit media company as &quot;government funded&quot; &lpar;Aidan McLaughlin/Mediaite&rpar;](http://www.techmeme.com/230408/p9#a230408p9)
+ - [NEW: Label on NPR&#39;s main account changed to &quot;government funded,&quot; and Elon tells me Twitter is &quot;applying it to a larger number of institutions.&quot; &lpar;Bobby Allyn/@BobbyAllyn&rpar;](http://www.techmeme.com/230408/p8#a230408p8)
+ - [Hogwarts Legacy: The Best PS5 and Xbox Graphics Options     - CNET](https://www.cnet.com/tech/gaming/hogwarts-legacy-the-best-ps5-and-xbox-graphics-options/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
