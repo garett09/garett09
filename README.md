@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)
- - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)
- - 🚯 [Never Again](http://9gag.com/gag/a8qmKAd)<!-- MEMES:END -->
+ - 🚯 [Give this strong independent woman her rights](http://9gag.com/gag/a7qeNAr)
+ - 🚯 [Why are there plane trails in Last of Us Part 1? Who&#39;s up there flying about in their 747s?](http://9gag.com/gag/aQEQVXd)<!-- MEMES:END -->
 
 --- 
 
