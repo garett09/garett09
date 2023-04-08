@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sued to stop App Store clones of Baidu&#39;s Ernie AI chatbot](https://appleinsider.com/articles/23/04/08/apple-sued-to-stop-app-store-clones-of-baidus-ernie-ai-chatbot?utm_medium=rss)
- - [Baidu sues &quot;relevant&quot; app developers and Apple over fake apps for its Ernie bot on the App Store; Ernie, launched in March 2023, doesn&#39;t have an official app &lpar;Reuters&rpar;](http://www.techmeme.com/230408/p10#a230408p10)
- - [Twitter replaces the week-old &quot;US state-affiliated media&quot; label on NPR&#39;s account with a new label describing the nonprofit media company as &quot;Government Funded&quot; &lpar;Aidan McLaughlin/Mediaite&rpar;](http://www.techmeme.com/230408/p9#a230408p9)<!-- TECH:END -->
+ - [New iPhone 15 Pro Max renders show larger camera bump](https://appleinsider.com/articles/23/04/08/new-iphone-15-pro-max-renders-show-larger-camera-bump?utm_medium=rss)
+ - [An interview with Victor Wong, Google&#39;s senior director of product management for Privacy Sandbox, about replacing third-party cookies, Apple&#39;s ATT, and more &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230408/p12#a230408p12)
+ - [Apple sued to stop App Store clones of Baidu&#39;s Ernie AI chatbot](https://appleinsider.com/articles/23/04/08/apple-sued-to-stop-app-store-clones-of-baidus-ernie-ai-chatbot?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
