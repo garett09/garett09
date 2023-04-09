@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
+ - 🚖 [Why are there plane trails in Last of Us Part 1? Who&#39;s up there flying about in their 747s?](http://9gag.com/gag/aQEQVXd)
  - 🚯 [Adidas quality. Left are new cotton sweatpants after few washes and few uses, and right are 13 year old ones. Used and abused. Wtf?! Poliester pockets, stripes. All went to shit.](http://9gag.com/gag/az2PBGx)
- - 🚯 [Professionals have standards..](http://9gag.com/gag/aL1eVpg)<!-- MEMES:END -->
+ - 🚯 [Birb make it better or worse?](http://9gag.com/gag/anzn0Zn)<!-- MEMES:END -->
 
 --- 
 
