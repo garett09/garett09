@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a forward young man](http://9gag.com/gag/avQemDM)
+ - 🚖 [Why are there plane trails in Last of Us Part 1? Who&#39;s up there flying about in their 747s?](http://9gag.com/gag/aQEQVXd)
  - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
- - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)<!-- MEMES:END -->
+ - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)<!-- MEMES:END -->
 
 --- 
 
