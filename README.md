@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take home the ultimate 14-inch MacBook Pro workstation at a massive $1,000 discount](https://appleinsider.com/articles/23/04/09/take-home-the-ultimate-14-inch-macbook-pro-workstation-at-a-massive-1000-discount?utm_medium=rss)
- - [Best Plant-Based Meal Delivery Services for 2023     - CNET](https://www.cnet.com/health/nutrition/best-vegetarian-and-vegan-meal-delivery/#ftag=CAD590a51e)
- - [A Pink Heart Isn&#39;t the Only New Emoji on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/a-pink-heart-isnt-the-only-new-emoji-on-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What is Snapdragon Satellite? Everything you need to know](https://www.androidauthority.com/what-is-snapdragon-satellite-3310908/)
+ - [Best 3D Printer for 2023     - CNET](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)
+ - [Best Collagen Powders for 2023     - CNET](https://www.cnet.com/health/nutrition/best-collagen-powder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
