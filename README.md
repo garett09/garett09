@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the gambling industry has kept up with decades of computer-assisted tech developed to beat roulette, like wearable devices, timers, and predictive software &lpar;Kit Chellel/Bloomberg&rpar;](http://www.techmeme.com/230409/p2#a230409p2)
  - [The leaked Pentagon Ukraine documents seem to have first appeared on Discord, followed by 4chan, before appearing on Telegram, Twitter, and major media outlets &lpar;Aric Toler/bellingcat&rpar;](http://www.techmeme.com/230409/p1#a230409p1)
- - [Best 3D Printer Resin     - CNET](https://www.cnet.com/tech/computing/best-3d-printer-resin/#ftag=CAD590a51e)
- - [South Korean prosecutors identify ~$314M in illicit assets associated with Do Kwon and associates, and say Kwon converted most of the ~$69M linked to him to BTC &lpar;Prashant Jha/Cointelegraph&rpar;](http://www.techmeme.com/230408/p14#a230408p14)<!-- TECH:END -->
+ - [Best 3D Printer Resin     - CNET](https://www.cnet.com/tech/computing/best-3d-printer-resin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
