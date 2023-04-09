@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle hint and answer #659: Sunday, April 9](https://www.pcgamer.com/wordle-hint-answer-today-659-april-9)
- - [This immersive sim will be set in a gas station that might also be Hell](https://www.pcgamer.com/this-immersive-sim-will-be-set-in-a-gas-station-that-might-also-be-hell)
- - [One of the best spaceship strategy games is free for a limited time on Steam](https://www.pcgamer.com/one-of-the-best-spaceship-strategy-games-is-free-for-a-limited-time-on-steam)<!-- GAME:END -->
+ - [How old is Mario, anyway?](https://www.polygon.com/23672468/super-mario-bros-movie-how-old-age)
+ - [The Owl House delivers one final, perfect emotional gut punch](https://www.polygon.com/23675938/the-owl-house-finale-ending-luz)
+ - [Wordle hint and answer #659: Sunday, April 9](https://www.pcgamer.com/wordle-hint-answer-today-659-april-9)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
