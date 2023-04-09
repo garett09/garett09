@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Biggest bullet a single franchise has ever dodged](http://9gag.com/gag/a2K8xnY)
- - 🚯 [At least one of them is proud of him](http://9gag.com/gag/a8qmvGY)
- - 🚯 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)<!-- MEMES:END -->
+ - 🚖 [Adidas quality. Left are new cotton sweatpants after few washes and few uses, and right are 13 year old ones. Used and abused. Wtf?! Poliester pockets, stripes. All went to shit.](http://9gag.com/gag/az2PBGx)
+ - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)
+ - 🚯 [At least one of them is proud of him](http://9gag.com/gag/a8qmvGY)<!-- MEMES:END -->
 
 --- 
 
