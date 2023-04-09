@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why are there plane trails in Last of Us Part 1? Who&#39;s up there flying about in their 747s?](http://9gag.com/gag/aQEQVXd)
- - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
- - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)<!-- MEMES:END -->
+ - 🚖 [Revenge time \ud83d\ude08](http://9gag.com/gag/a3ZAnmN)
+ - 🚯 [Despite it being a bit stressful at times, the money took away quite literally the other stresses in my life](http://9gag.com/gag/aA0ENKg)
+ - 🚯 [True](http://9gag.com/gag/a1PDx2b)<!-- MEMES:END -->
 
 --- 
 
