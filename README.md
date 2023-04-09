@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)
- - 🚯 [Why are there plane trails in Last of Us Part 1? Who&#39;s up there flying about in their 747s?](http://9gag.com/gag/aQEQVXd)
- - 🚯 [Adidas quality. Left are new cotton sweatpants after few washes and few uses, and right are 13 year old ones. Used and abused. Wtf?! Poliester pockets, stripes. All went to shit.](http://9gag.com/gag/az2PBGx)<!-- MEMES:END -->
+ - 🚖 [I&#39;m the dude](http://9gag.com/gag/aREZy8A)
+ - 🚯 [Revenge time \ud83d\ude08](http://9gag.com/gag/a3ZAnmN)
+ - 🚯 [Despite it being a bit stressful at times, the money took away quite literally the other stresses in my life](http://9gag.com/gag/aA0ENKg)<!-- MEMES:END -->
 
 --- 
 
