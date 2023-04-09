@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RUST](http://9gag.com/gag/armArqV)
- - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)
- - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)<!-- MEMES:END -->
+ - 🚖 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)
+ - 🚯 [What a forward young man](http://9gag.com/gag/avQemDM)
+ - 🚯 [Adidas quality. Left are new cotton sweatpants after few washes and few uses, and right are 13 year old ones. Used and abused. Wtf?! Poliester pockets, stripes. All went to shit.](http://9gag.com/gag/az2PBGx)<!-- MEMES:END -->
 
 --- 
 
