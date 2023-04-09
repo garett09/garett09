@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least one of them is proud of him](http://9gag.com/gag/a8qmvGY)
- - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
- - 🚯 [9gaggers still can get any but doggo did](http://9gag.com/gag/a4ozr66)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
+ - 🚯 [At least one of them is proud of him](http://9gag.com/gag/a8qmvGY)
+ - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)<!-- MEMES:END -->
 
 --- 
 
