@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sihoo M18 Ergonomic Office Chair review: fantastic back support for those who need it](https://appleinsider.com/articles/23/04/09/sihoo-m18-ergonomic-office-chair-review-fantastic-back-support-for-those-who-need-it?utm_medium=rss)
- - [This Hidden iPhone Setting Makes Your FaceTimes Sound Clearer     - CNET](https://www.cnet.com/tech/services-and-software/this-hidden-iphone-setting-makes-your-facetimes-sound-clearer/#ftag=CAD590a51e)
- - [A study based on the patent-filing history of 760K+ US inventors finds they produce fewer innovations after joining big firms vs. inventors hired by young firms &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230409/p5#a230409p5)<!-- TECH:END -->
+ - [Take home the ultimate 14-inch MacBook Pro workstation at a massive $1,000 discount](https://appleinsider.com/articles/23/04/09/take-home-the-ultimate-14-inch-macbook-pro-workstation-at-a-massive-1000-discount?utm_medium=rss)
+ - [A Pink Heart Isn&#39;t the Only New Emoji on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/a-pink-heart-isnt-the-only-new-emoji-on-your-iphone/#ftag=CAD590a51e)
+ - [Best AT&amp;T Phones in 2023     - CNET](https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
