@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything You Should Know About the New MoviePass](https://www.wired.com/story/new-moviepass-features/)
  - [An ML scientist writes about the extreme strain of working in an AI industry collectively shaken up by ChatGPT, as he oscillates between motivation and burnout &lpar;Nathan Lambert/Democratizing Automation&rpar;](http://www.techmeme.com/230409/p3#a230409p3)
- - [How the gambling industry has kept up with decades of computer-assisted tech developed to beat roulette, like wearable devices, timers, and predictive software &lpar;Kit Chellel/Bloomberg&rpar;](http://www.techmeme.com/230409/p2#a230409p2)
- - [The leaked Pentagon Ukraine documents seem to have first appeared on Discord, followed by 4chan, before appearing on Telegram, Twitter, and major media outlets &lpar;Aric Toler/bellingcat&rpar;](http://www.techmeme.com/230409/p1#a230409p1)<!-- TECH:END -->
+ - [How the gambling industry has kept up with decades of computer-assisted tech developed to beat roulette, like wearable devices, timers, and predictive software &lpar;Kit Chellel/Bloomberg&rpar;](http://www.techmeme.com/230409/p2#a230409p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
