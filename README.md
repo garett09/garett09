@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean prosecutors identify ~$314M in illicit assets with Do Kwon and his associates, with most of the ~$69M linked to Kwon reportedly converted to BTC &lpar;Prashant Jha/Cointelegraph&rpar;](http://www.techmeme.com/230408/p14#a230408p14)
- - [Tests show Twitter has lifted restrictions on Kremlin-linked accounts, including Putin&#39;s, with some appearing in For You feeds, reversing an April 2022 policy &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/230408/p13#a230408p13)
- - [Does ChatGPT save your data? Here’s what you need to know](https://www.androidauthority.com/does-chatgpt-save-data-conversations-3310883/)<!-- TECH:END -->
+ - [The leaked Pentagon Ukraine documents seem to have first appeared on Discord, followed by 4chan, before appearing on Telegram, Twitter, and major media outlets &lpar;Aric Toler/bellingcat&rpar;](http://www.techmeme.com/230409/p1#a230409p1)
+ - [Best 3D Printer Resin     - CNET](https://www.cnet.com/tech/computing/best-3d-printer-resin/#ftag=CAD590a51e)
+ - [South Korean prosecutors identify ~$314M in illicit assets associated with Do Kwon and associates, and say Kwon converted most of the ~$69M linked to him to BTC &lpar;Prashant Jha/Cointelegraph&rpar;](http://www.techmeme.com/230408/p14#a230408p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
