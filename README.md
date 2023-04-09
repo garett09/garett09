@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Revenge time \ud83d\ude08](http://9gag.com/gag/a3ZAnmN)
- - 🚯 [Despite it being a bit stressful at times, the money took away quite literally the other stresses in my life](http://9gag.com/gag/aA0ENKg)
- - 🚯 [True](http://9gag.com/gag/a1PDx2b)<!-- MEMES:END -->
+ - 🚖 [At least one of them is proud of him](http://9gag.com/gag/a8qmvGY)
+ - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
+ - 🚯 [9gaggers still can get any but doggo did](http://9gag.com/gag/a4ozr66)<!-- MEMES:END -->
 
 --- 
 
