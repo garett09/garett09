@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Star Wars Jedi: Survivor’s final trailer teases Cal’s trip to Coruscant](https://www.polygon.com/23676114/star-wars-jedi-survivor-final-trailer-gameplay)
  - [How old is Mario, anyway?](https://www.polygon.com/23672468/super-mario-bros-movie-how-old-age)
- - [The Owl House delivers one final, perfect emotional gut punch](https://www.polygon.com/23675938/the-owl-house-finale-ending-luz)
- - [Wordle hint and answer #659: Sunday, April 9](https://www.pcgamer.com/wordle-hint-answer-today-659-april-9)<!-- GAME:END -->
+ - [The Owl House delivers one final, perfect emotional gut punch](https://www.polygon.com/23675938/the-owl-house-finale-ending-luz)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
