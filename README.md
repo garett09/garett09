@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019s a W for the salesman](http://9gag.com/gag/aBdLXdO)
- - 🚯 [Guess the country](http://9gag.com/gag/ap9DY3D)
- - 🚯 [Well... he was more honest than most are about their income](http://9gag.com/gag/ap9DjK5)<!-- MEMES:END -->
+ - 🚖 [RUST](http://9gag.com/gag/armArqV)
+ - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)
+ - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)<!-- MEMES:END -->
 
 --- 
 
