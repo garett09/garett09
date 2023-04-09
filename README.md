@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Jedi: Survivor’s final trailer teases Cal’s trip to Coruscant](https://www.polygon.com/23676114/star-wars-jedi-survivor-final-trailer-gameplay)
- - [How old is Mario, anyway?](https://www.polygon.com/23672468/super-mario-bros-movie-how-old-age)
- - [The Owl House delivers one final, perfect emotional gut punch](https://www.polygon.com/23675938/the-owl-house-finale-ending-luz)<!-- GAME:END -->
+ - [Dear Bowser, your princess is in THIS castle](https://www.polygon.com/23674499/bowser-love-letter-jack-black-thirst-mario-movie)
+ - [Tekken 8 will have cross-play, a series first](https://www.pcgamer.com/tekken-8-will-have-cross-play-a-series-first)
+ - [Star Wars Jedi: Survivor’s final trailer teases Cal’s trip to Coruscant](https://www.polygon.com/23676114/star-wars-jedi-survivor-final-trailer-gameplay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
