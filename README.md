@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals April 9: $1,300 off M1 Max 16-inch MacBook Pro, $89 1TB Samsung SSD, more!](https://appleinsider.com/articles/23/04/09/daily-deals-april-9-1300-off-m1-max-16-inch-macbook-pro-89-1tb-samsung-ssd-more?utm_medium=rss)
  - [I really miss phones with pop-up selfie cameras](https://www.androidauthority.com/miss-pop-up-selfie-cameras-opinion-3308151/)
- - [The Big Bang&#39;s Afterglow Reveals Invisible Cosmic Structures](https://www.wired.com/story/big-bang-cosmic-microwave-background/)
- - [How to Use Karaoke Mode &lpar;2023&rpar;: Apple Music, Spotify, and More](https://www.wired.com/story/how-to-sing-along-apple-music-spotify/)<!-- TECH:END -->
+ - [The Big Bang&#39;s Afterglow Reveals Invisible Cosmic Structures](https://www.wired.com/story/big-bang-cosmic-microwave-background/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
