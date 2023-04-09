@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Creality Launches K1 3D Printer, Its Answer to Bambu and Prusa, Plus a Slew of New Products     - CNET](https://www.cnet.com/tech/computing/creality-launches-k1-3d-printer-its-answer-to-bambu-and-prusa-plus-a-slew-of-new-products/#ftag=CAD590a51e)
- - [I use my Galaxy Watch in all the dumb ways](https://www.androidauthority.com/galaxy-watch-smart-dumb-use-3309283/)
- - [Best Steam Deck Accessories in 2023     - CNET](https://www.cnet.com/tech/gaming/best-steam-deck-accessories-for-expanding-your-system/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sihoo M18 Ergonomic Office Chair review: fantastic back support for those who need it](https://appleinsider.com/articles/23/04/09/sihoo-m18-ergonomic-office-chair-review-fantastic-back-support-for-those-who-need-it?utm_medium=rss)
+ - [This Hidden iPhone Setting Makes Your FaceTimes Sound Clearer     - CNET](https://www.cnet.com/tech/services-and-software/this-hidden-iphone-setting-makes-your-facetimes-sound-clearer/#ftag=CAD590a51e)
+ - [A study based on the patent-filing history of 760K+ US inventors finds they produce fewer innovations after joining big firms vs. inventors hired by young firms &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230409/p5#a230409p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
