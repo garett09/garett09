@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adidas quality. Left are new cotton sweatpants after few washes and few uses, and right are 13 year old ones. Used and abused. Wtf?! Poliester pockets, stripes. All went to shit.](http://9gag.com/gag/az2PBGx)
- - 🚯 [Well... he was more honest than most are about their income](http://9gag.com/gag/ap9DjK5)
- - 🚯 [Yikes](http://9gag.com/gag/aREZNwM)<!-- MEMES:END -->
+ - 🚖 [Well... he was more honest than most are about their income](http://9gag.com/gag/ap9DjK5)
+ - 🚯 [Adidas quality. Left are new cotton sweatpants after few washes and few uses, and right are 13 year old ones. Used and abused. Wtf?! Poliester pockets, stripes. All went to shit.](http://9gag.com/gag/az2PBGx)
+ - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)<!-- MEMES:END -->
 
 --- 
 
