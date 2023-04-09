@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Take home the ultimate 14-inch MacBook Pro workstation at a massive $1,000 discount](https://appleinsider.com/articles/23/04/09/take-home-the-ultimate-14-inch-macbook-pro-workstation-at-a-massive-1000-discount?utm_medium=rss)
- - [A Pink Heart Isn&#39;t the Only New Emoji on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/a-pink-heart-isnt-the-only-new-emoji-on-your-iphone/#ftag=CAD590a51e)
- - [Best AT&amp;T Phones in 2023     - CNET](https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Plant-Based Meal Delivery Services for 2023     - CNET](https://www.cnet.com/health/nutrition/best-vegetarian-and-vegan-meal-delivery/#ftag=CAD590a51e)
+ - [A Pink Heart Isn&#39;t the Only New Emoji on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/a-pink-heart-isnt-the-only-new-emoji-on-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
