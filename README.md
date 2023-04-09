@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything You Should Know About the New MoviePass](https://www.wired.com/story/new-moviepass-features/)
- - [An ML scientist writes about the extreme strain of working in an AI industry collectively shaken up by ChatGPT, as he oscillates between motivation and burnout &lpar;Nathan Lambert/Democratizing Automation&rpar;](http://www.techmeme.com/230409/p3#a230409p3)
- - [How the gambling industry has kept up with decades of computer-assisted tech developed to beat roulette, like wearable devices, timers, and predictive software &lpar;Kit Chellel/Bloomberg&rpar;](http://www.techmeme.com/230409/p2#a230409p2)<!-- TECH:END -->
+ - [I really miss phones with pop-up selfie cameras](https://www.androidauthority.com/miss-pop-up-selfie-cameras-opinion-3308151/)
+ - [The Big Bang&#39;s Afterglow Reveals Invisible Cosmic Structures](https://www.wired.com/story/big-bang-cosmic-microwave-background/)
+ - [How to Use Karaoke Mode &lpar;2023&rpar;: Apple Music, Spotify, and More](https://www.wired.com/story/how-to-sing-along-apple-music-spotify/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
