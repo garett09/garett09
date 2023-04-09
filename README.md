@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)
- - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)
- - 🚯 [Adidas quality. Left are new cotton sweatpants after few washes and few uses, and right are 13 year old ones. Used and abused. Wtf?! Poliester pockets, stripes. All went to shit.](http://9gag.com/gag/az2PBGx)<!-- MEMES:END -->
+ - 🚖 [That\u2019s a W for the salesman](http://9gag.com/gag/aBdLXdO)
+ - 🚯 [Guess the country](http://9gag.com/gag/ap9DY3D)
+ - 🚯 [Well... he was more honest than most are about their income](http://9gag.com/gag/ap9DjK5)<!-- MEMES:END -->
 
 --- 
 
