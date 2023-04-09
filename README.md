@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tests show Twitter has lifted restrictions on Kremlin-linked accounts, including Putin&#39;s, with some appearing in For You feeds, reversing an April 2022 policy &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/230408/p13#a230408p13)
  - [Does ChatGPT save your data? Here’s what you need to know](https://www.androidauthority.com/does-chatgpt-save-data-conversations-3310883/)
- - [Substack CEO pushes back at Elon, says Twitter situation is “very frustrating”](https://www.theverge.com/2023/4/8/23675801/substack-ceo-pushes-back-at-elon-says-twitter-situation-is-very-frustrating)
- - [New iPhone 15 Pro Max renders show larger camera bump](https://appleinsider.com/articles/23/04/08/new-iphone-15-pro-max-renders-show-larger-camera-bump?utm_medium=rss)<!-- TECH:END -->
+ - [Substack CEO pushes back at Elon, says Twitter situation is “very frustrating”](https://www.theverge.com/2023/4/8/23675801/substack-ceo-pushes-back-at-elon-says-twitter-situation-is-very-frustrating)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
