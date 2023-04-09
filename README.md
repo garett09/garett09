@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Alice sequel, says EA](https://www.pcgamer.com/no-alice-sequel-says-ea)
- - [I plunged into the depths of Elder Scrolls metal bands and found the ones worth listening to](https://www.pcgamer.com/the-metal-bands-that-elder-scrolls-inspired)
- - [How to unlock Link in The Super Mario Bros. Movie](https://www.polygon.com/nintendo/23674561/the-super-mario-bros-movie-characters-silly-prank-satire-this-is-a-joke)<!-- GAME:END -->
+ - [This immersive sim will be set in a gas station that might also be Hell](https://www.pcgamer.com/this-immersive-sim-will-be-set-in-a-gas-station-that-might-also-be-hell)
+ - [One of the best spaceship strategy games is free for a limited time on Steam](https://www.pcgamer.com/one-of-the-best-spaceship-strategy-games-is-free-for-a-limited-time-on-steam)
+ - [No Alice sequel, says EA](https://www.pcgamer.com/no-alice-sequel-says-ea)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
