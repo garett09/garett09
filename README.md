@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPhone 15 Pro Max renders show larger camera bump](https://appleinsider.com/articles/23/04/08/new-iphone-15-pro-max-renders-show-larger-camera-bump?utm_medium=rss)
- - [An interview with Victor Wong, Google&#39;s senior director of product management for Privacy Sandbox, about replacing third-party cookies, Apple&#39;s ATT, and more &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230408/p12#a230408p12)
- - [Apple sued to stop App Store clones of Baidu&#39;s Ernie AI chatbot](https://appleinsider.com/articles/23/04/08/apple-sued-to-stop-app-store-clones-of-baidus-ernie-ai-chatbot?utm_medium=rss)<!-- TECH:END -->
+ - [Does ChatGPT save your data? Here’s what you need to know](https://www.androidauthority.com/does-chatgpt-save-data-conversations-3310883/)
+ - [Substack CEO pushes back at Elon, says Twitter situation is “very frustrating”](https://www.theverge.com/2023/4/8/23675801/substack-ceo-pushes-back-at-elon-says-twitter-situation-is-very-frustrating)
+ - [New iPhone 15 Pro Max renders show larger camera bump](https://appleinsider.com/articles/23/04/08/new-iphone-15-pro-max-renders-show-larger-camera-bump?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
