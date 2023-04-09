@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dear Bowser, your princess is in THIS castle](https://www.polygon.com/23674499/bowser-love-letter-jack-black-thirst-mario-movie)
- - [Tekken 8 will have cross-play, a series first](https://www.pcgamer.com/tekken-8-will-have-cross-play-a-series-first)
- - [Star Wars Jedi: Survivor’s final trailer teases Cal’s trip to Coruscant](https://www.polygon.com/23676114/star-wars-jedi-survivor-final-trailer-gameplay)<!-- GAME:END -->
+ - [Here&#39;s the final gameplay trailer for Star Wars Jedi: Survivor](https://www.pcgamer.com/heres-the-final-gameplay-trailer-for-star-wars-jedi-survivor)
+ - [Why Takashi Miike’s Ace Attorney remains the perfect video game movie adaptation](https://www.polygon.com/23665083/ace-attorney-movie-best-video-game-adaptation-takashi-miike)
+ - [Dear Bowser, your princess is in THIS castle](https://www.polygon.com/23674499/bowser-love-letter-jack-black-thirst-mario-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
