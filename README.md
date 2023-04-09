@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in the past two weeks ~270 US Apple Stores held staff meetings on the risks of unionization, using the state of the Towson store as a cautionary tale &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230409/p4#a230409p4)
- - [The Samsung Galaxy S23 Ultra is king of the hill, but the small S23 has my heart](https://www.androidauthority.com/samsung-galaxy-s23-vs-galaxy-s23-ultra-3307282/)
- - [Liverpool vs. Arsenal Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-arsenal-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I use my Galaxy Watch in all the dumb ways](https://www.androidauthority.com/galaxy-watch-smart-dumb-use-3309283/)
+ - [CNET-Exclusive Coupon Saves You $75 on a Sleek All-in-One Solis Espresso Machine     - CNET](https://www.cnet.com/deals/cnet-exclusive-coupon-saves-you-75-on-a-sleek-all-in-one-solis-espresso-machine/#ftag=CAD590a51e)
+ - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
