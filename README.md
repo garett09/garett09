@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Creality Launches K1 3D Printer, Its Answer to Bambu and Prusa, Plus a Slew of New Products     - CNET](https://www.cnet.com/tech/computing/creality-launches-k1-3d-printer-its-answer-to-bambu-and-prusa-plus-a-slew-of-new-products/#ftag=CAD590a51e)
  - [I use my Galaxy Watch in all the dumb ways](https://www.androidauthority.com/galaxy-watch-smart-dumb-use-3309283/)
- - [CNET-Exclusive Coupon Saves You $75 on a Sleek All-in-One Solis Espresso Machine     - CNET](https://www.cnet.com/deals/cnet-exclusive-coupon-saves-you-75-on-a-sleek-all-in-one-solis-espresso-machine/#ftag=CAD590a51e)
- - [Best Live TV Streaming Service for Cord Cutters in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Steam Deck Accessories in 2023     - CNET](https://www.cnet.com/tech/gaming/best-steam-deck-accessories-for-expanding-your-system/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
