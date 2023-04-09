@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Get ready for a culinary throwdown when Cook Serve Forever launches in May](https://www.pcgamer.com/get-ready-for-a-culinary-throwdown-when-cook-serve-forever-launches-in-may)
  - [Here&#39;s the final gameplay trailer for Star Wars Jedi: Survivor](https://www.pcgamer.com/heres-the-final-gameplay-trailer-for-star-wars-jedi-survivor)
- - [Why Takashi Miike’s Ace Attorney remains the perfect video game movie adaptation](https://www.polygon.com/23665083/ace-attorney-movie-best-video-game-adaptation-takashi-miike)
- - [Dear Bowser, your princess is in THIS castle](https://www.polygon.com/23674499/bowser-love-letter-jack-black-thirst-mario-movie)<!-- GAME:END -->
+ - [Why Takashi Miike’s Ace Attorney remains the perfect video game movie adaptation](https://www.polygon.com/23665083/ace-attorney-movie-best-video-game-adaptation-takashi-miike)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
