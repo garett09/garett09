@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Professionals have standards..](http://9gag.com/gag/aL1eVpg)
- - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
- - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)<!-- MEMES:END -->
+ - 🚖 [Adidas quality. Left are new cotton sweatpants after few washes and few uses, and right are 13 year old ones. Used and abused. Wtf?! Poliester pockets, stripes. All went to shit.](http://9gag.com/gag/az2PBGx)
+ - 🚯 [Well... he was more honest than most are about their income](http://9gag.com/gag/ap9DjK5)
+ - 🚯 [Yikes](http://9gag.com/gag/aREZNwM)<!-- MEMES:END -->
 
 --- 
 
