@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This cute little fennec brings luck when you upvote, or tough luck if not. Don&#39;t risk....](http://9gag.com/gag/aOx4N5E)
- - 🚯 [Used to work in a store, can confirm](http://9gag.com/gag/a3ZAD3e)
- - 🚯 [Comment section](http://9gag.com/gag/awZm9W4)<!-- MEMES:END -->
+ - 🚖 [10 years later](http://9gag.com/gag/a7qem6w)
+ - 🚯 [Adidas quality. Left are new cotton sweatpants after few washes and few uses, and right are 13 year old ones. Used and abused. Wtf?! Poliester pockets, stripes. All went to shit.](http://9gag.com/gag/az2PBGx)
+ - 🚯 [Astigmatism vs normal vision](http://9gag.com/gag/aEqVEB9)<!-- MEMES:END -->
 
 --- 
 
