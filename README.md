@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: in the past two weeks ~270 US Apple Stores held staff meetings on the risks of unionization, using the state of the Towson store as a cautionary tale &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230409/p4#a230409p4)
  - [The Samsung Galaxy S23 Ultra is king of the hill, but the small S23 has my heart](https://www.androidauthority.com/samsung-galaxy-s23-vs-galaxy-s23-ultra-3307282/)
- - [Liverpool vs. Arsenal Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-arsenal-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Daily deals April 9: $1,300 off M1 Max 16-inch MacBook Pro, $89 1TB Samsung SSD, more!](https://appleinsider.com/articles/23/04/09/daily-deals-april-9-1300-off-m1-max-16-inch-macbook-pro-89-1tb-samsung-ssd-more?utm_medium=rss)<!-- TECH:END -->
+ - [Liverpool vs. Arsenal Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-arsenal-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
