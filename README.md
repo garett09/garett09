@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m the dude](http://9gag.com/gag/aREZy8A)
- - 🚯 [Revenge time \ud83d\ude08](http://9gag.com/gag/a3ZAnmN)
- - 🚯 [Despite it being a bit stressful at times, the money took away quite literally the other stresses in my life](http://9gag.com/gag/aA0ENKg)<!-- MEMES:END -->
+ - 🚖 [What a forward young man](http://9gag.com/gag/avQemDM)
+ - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
+ - 🚯 [If you know, you know.](http://9gag.com/gag/aqe8AQj)<!-- MEMES:END -->
 
 --- 
 
