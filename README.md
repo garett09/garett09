@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good](http://9gag.com/gag/armAwB0)
- - 🚯 [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)
- - 🚯 [It&#39;s giving monster house](http://9gag.com/gag/ajVO46q)<!-- MEMES:END -->
+ - 🚖 [Title](http://9gag.com/gag/amAGOKo)
+ - 🚯 [Based police..](http://9gag.com/gag/aYVOBzO)
+ - 🚯 [Damn son!](http://9gag.com/gag/aqe8EAR)<!-- MEMES:END -->
 
 --- 
 
