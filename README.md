@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I flown a lot with Air Somalia and I approve this message!](http://9gag.com/gag/adPOANZ)
- - 🚯 [Fascinating](http://9gag.com/gag/a6q9grq)
- - 🚯 [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)<!-- MEMES:END -->
+ - 🚖 [Good](http://9gag.com/gag/armAwB0)
+ - 🚯 [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)
+ - 🚯 [It&#39;s giving monster house](http://9gag.com/gag/ajVO46q)<!-- MEMES:END -->
 
 --- 
 
