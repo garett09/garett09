@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Florida Mayhem won the first Overwatch League pro-am tournament, but the amateurs were the bigger winners](https://www.theverge.com/2023/4/10/23677293/overwatch-league-pro-am-tournament-2023)
- - [Tests show Twitter, which resumed political ads this year, offers incomplete data on the ads through its &quot;disclosure&quot; tool, missing some promoted tweets &lpar;Jessica Piper/Politico&rpar;](http://www.techmeme.com/230410/p14#a230410p14)
- - [Samsung Galaxy Z Flip 5: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
+ - [Google hints at solving unwanted calls by injecting more AI into Call Screen](https://www.androidauthority.com/google-call-screen-3311171/)
+ - [How to order a pizza with CarPlay using the new app from Domino&#39;s](https://appleinsider.com/articles/23/04/10/how-to-order-a-pizza-with-carplay-using-the-new-app-from-dominos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
