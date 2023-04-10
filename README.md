@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hope on the Front Lines of the Drug Overdose Crisis](https://www.wired.com/story/onpoint-harm-reduction-center-drug-use/)
  - [7 Best USB Microphones &lpar;2023&rpar;: USB-C, USB-A, Wireless, and Mic Accessories](https://www.wired.com/gallery/best-usb-microphones/)
- - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_medium=rss)
- - [Apple is best positioned to benefit as China&#39;s premium smartphone market swells](https://appleinsider.com/articles/23/04/10/apple-is-best-positioned-to-benefit-as-chinas-premium-smartphone-market-swells?utm_medium=rss)<!-- TECH:END -->
+ - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
