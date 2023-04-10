@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Half-Life: Alyx without a VR headset? It’s now possible](https://www.polygon.com/23677197/half-life-alyx-no-vr-headset-mod)
- - [When does Overwatch 2 season 4 start?](https://www.polygon.com/overwatch-2-guide/23677082/season-4-release-time)
- - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)<!-- GAME:END -->
+ - [Report: U.S. Military Documents Leaked To Minecraft Discord Server](https://kotaku.com/minecraft-discord-ukraine-invasion-military-documents-1850319726)
+ - [Super Bomberman R 2’s Arsenal of Game Modes Biggest in Franchise History](https://news.xbox.com/en-us/2023/04/10/super-bomberman-r-2-game-modes/)
+ - [QuakeCon will return in-person for 2023, but with some big changes](https://www.pcgamer.com/quakecon-will-return-in-person-for-2023-but-with-some-big-changes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
