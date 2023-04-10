@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
- - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
- - 🚯 [NPC](http://9gag.com/gag/aPgPL2g)<!-- MEMES:END -->
+ - 🚖 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)
+ - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)
+ - 🚯 [Yikes](http://9gag.com/gag/aREZNwM)<!-- MEMES:END -->
 
 --- 
 
