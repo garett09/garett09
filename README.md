@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Birb make it better or worse?](http://9gag.com/gag/anzn0Zn)
- - 🚯 [Mission Accomplished](http://9gag.com/gag/aMEm04W)
- - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)<!-- MEMES:END -->
+ - 🚖 [10 years later](http://9gag.com/gag/a7qem6w)
+ - 🚯 [Based police..](http://9gag.com/gag/aYVOBzO)
+ - 🚯 [Mission Accomplished](http://9gag.com/gag/aMEm04W)<!-- MEMES:END -->
 
 --- 
 
