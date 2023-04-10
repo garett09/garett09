@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Recap: Girls Make Games PlayStation Studios workshop](https://blog.playstation.com/2023/04/10/recap-girls-make-games-playstation-studios-workshop/)
- - [Recap: Girls Make Games PlayStation Studios workshop](https://blog.playstation.com/2023/04/10/recap-girls-make-games-playstation-studios-workshop/)
- - [A WWI strategy game turned me into Benedict Cumberbatch](https://www.polygon.com/23670056/the-great-war-western-front-ww1-rts-benedict-cumberbatch)<!-- GAME:END -->
+ - [In 2021 a Youtuber offered $10K to whoever could make a Breath of the Wild multiplayer mod, and now you can play it](https://www.pcgamer.com/in-2021-a-youtuber-offered-dollar10k-to-whoever-could-make-a-breath-of-the-wild-multiplayer-mod-and-now-you-can-play-it)
+ - [Preview: Molly Shannon 2K23 defies all video game genres](https://www.polygon.com/23677202/molly-shannon-2k23-video-skit-spoof-snl-saturday-night-live)
+ - [Peter Pan &amp; Wendy trailer gives Wendy Darling a sword](https://www.polygon.com/23677201/peter-pan-wendy-trailer-disney-plus-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
