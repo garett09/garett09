@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to avoid spoilers online in 2023](https://www.polygon.com/entertainment/23677461/how-to-avoid-tv-spoilers-online)
- - [Where did the Lofi Girl go?](https://www.polygon.com/23677569/lofi-girl-missing-where-go)
- - [The Mainline Legend Of Zelda Games, Ranked From Worst To Best](https://kotaku.com/best-legend-of-zelda-games-breath-wild-botw-nintendo-1850320051)<!-- GAME:END -->
+ - [Partial Disney Lorcana rules leak, new details on how the Magic competitor works](https://www.polygon.com/23677664/disney-lorcana-rules-leak)
+ - [That’s a Suspicious Stew! Check Out Over 40 Minecraft-Inspired Recipes in “Minecraft Gather, Cook, Eat! Official Cookbook”](https://news.xbox.com/en-us/2023/04/10/minecraft-inspired-recipes-minecraft-cookbook/)
+ - [Venom’s latest transformation is everything good about superhero comics](https://www.polygon.com/2023/4/10/23677057/venom-king-in-black-al-ewing-eddie-brock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
