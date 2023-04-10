@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10 years later](http://9gag.com/gag/a7qem6w)
+ - 🚖 [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
  - 🚯 [Based police..](http://9gag.com/gag/aYVOBzO)
- - 🚯 [Mission Accomplished](http://9gag.com/gag/aMEm04W)<!-- MEMES:END -->
+ - 🚯 [It&#39;s like they don&#39;t even try...](http://9gag.com/gag/aWGL5V3)<!-- MEMES:END -->
 
 --- 
 
