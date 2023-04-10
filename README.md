@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)
- - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)
- - 🚯 [Yikes](http://9gag.com/gag/aREZNwM)<!-- MEMES:END -->
+ - 🚯 [9gaggers still can get any but doggo did](http://9gag.com/gag/a4ozr66)
+ - 🚯 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
 
 --- 
 
