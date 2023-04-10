@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot will let you pay to turn your Valorant guns into Counter-Strike guns](https://www.pcgamer.com/riot-will-let-you-pay-to-turn-your-valorant-guns-into-counter-strike-guns)
- - [Indiana Jones 5’s Mads Mikkelsen On Why He’s Always The Evil Dude](https://kotaku.com/mads-mikkelsen-indiana-jones-5-doctor-star-wars-villain-1850320643)
- - [Star Wars Jedi: Survivor’s PC install size is like Order 66 to your SSD](https://www.polygon.com/23674447/star-wars-jedi-survivor-install-size-pc-hardware-requirements)<!-- GAME:END -->
+ - [This game about &#39;confronting relationship trauma&#39; perfectly illustrates why it&#39;s a bad idea to date Draculae, lord of the vampires](https://www.pcgamer.com/el-paso-elsewhere-preview)
+ - [Succession season 4 sets the board for life after Logan](https://www.polygon.com/23677767/succession-logan-death-episode)
+ - [Speedrunners are already making a mockery of Resident Evil 4&#39;s hardest difficulty](https://www.pcgamer.com/speedrunners-are-already-making-a-mockery-of-resident-evil-4s-hardest-difficulty)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
