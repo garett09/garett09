@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: March 2023’s top downloads](https://blog.playstation.com/2023/04/10/playstation-store-march-2023s-top-downloads/)
- - [The Real Impact Of Pokémon Go&#39;s Changes That Niantic Won&#39;t Face](https://kotaku.com/pokemon-go-remote-raid-price-changes-limits-boycott-1850314338)
- - [This gleefully silly FPS takes inspiration from one of Titanfall 2&#39;s best levels](https://www.pcgamer.com/this-gleefully-silly-fps-takes-inspiration-from-one-of-titanfall-2s-best-levels)<!-- GAME:END -->
+ - [Recap: Girls Make Games PlayStation Studios workshop](https://blog.playstation.com/2023/04/10/recap-girls-make-games-playstation-studios-workshop/)
+ - [Recap: Girls Make Games PlayStation Studios workshop](https://blog.playstation.com/2023/04/10/recap-girls-make-games-playstation-studios-workshop/)
+ - [A WWI strategy game turned me into Benedict Cumberbatch](https://www.polygon.com/23670056/the-great-war-western-front-ww1-rts-benedict-cumberbatch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
