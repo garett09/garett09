@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least one of them is proud of him](http://9gag.com/gag/a8qmvGY)
- - 🚯 [Professionals have standards..](http://9gag.com/gag/aL1eVpg)
- - 🚯 [Yikes](http://9gag.com/gag/aREZNwM)<!-- MEMES:END -->
+ - 🚖 [Birb make it better or worse?](http://9gag.com/gag/anzn0Zn)
+ - 🚯 [Mission Accomplished](http://9gag.com/gag/aMEm04W)
+ - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)<!-- MEMES:END -->
 
 --- 
 
