@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Plot](http://9gag.com/gag/aL1eo05)
- - 🚯 [The main thing is that your soul is young.](http://9gag.com/gag/armAE1V)
- - 🚯 [Frightening](http://9gag.com/gag/az2PvdB)<!-- MEMES:END -->
+ - 🚖 [Birb make it better or worse?](http://9gag.com/gag/anzn0Zn)
+ - 🚯 [Professionals have standards..](http://9gag.com/gag/aL1eVpg)
+ - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)<!-- MEMES:END -->
 
 --- 
 
