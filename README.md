@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: U.S. Military Documents Leaked To Minecraft Discord Server](https://kotaku.com/minecraft-discord-ukraine-invasion-military-documents-1850319726)
- - [Super Bomberman R 2’s Arsenal of Game Modes Biggest in Franchise History](https://news.xbox.com/en-us/2023/04/10/super-bomberman-r-2-game-modes/)
- - [QuakeCon will return in-person for 2023, but with some big changes](https://www.pcgamer.com/quakecon-will-return-in-person-for-2023-but-with-some-big-changes)<!-- GAME:END -->
+ - [How to avoid spoilers online in 2023](https://www.polygon.com/entertainment/23677461/how-to-avoid-tv-spoilers-online)
+ - [Where did the Lofi Girl go?](https://www.polygon.com/23677569/lofi-girl-missing-where-go)
+ - [The Mainline Legend Of Zelda Games, Ranked From Worst To Best](https://kotaku.com/best-legend-of-zelda-games-breath-wild-botw-nintendo-1850320051)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
