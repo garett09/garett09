@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s long-rumored 27-inch mini LED display probably isn&#39;t happening](https://appleinsider.com/articles/23/04/10/apples-long-rumored-27-inch-mini-led-display-probably-isnt-happening?utm_medium=rss)
- - [Some Twitter users have been reporting for days that their Circle tweets, which are meant to only reach a select group, are showing up in others&#39; For You feeds &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230410/p11#a230410p11)
- - [Mario games on Nintendo Switch are $20 off to keep the movie hype going](https://www.theverge.com/2023/4/10/23676933/nintendo-switch-mario-games-bose-soundlink-flex-hori-split-pad-apple-deal-sale)<!-- TECH:END -->
+ - [Sex workers and others criticize Meta&#39;s Verified program for requiring creators to use their legal name as profile display name without the option to change it &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/230410/p12#a230410p12)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [The end is nigh for gas-powered cars](https://www.theverge.com/2023/4/10/23677157/ev-rules-epa-emission-standards-biden-ice-gas-car-end)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
