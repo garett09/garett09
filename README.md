@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell XPS 13 &lpar;2023&rpar; review: thin, light, nice screen, and improved battery life, but only two ports, quiet speakers, and worse performance than similar models &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230410/p1#a230410p1)
- - [Leaked iPhone 15 Pro renders show Apple’s all-new colorway](https://www.androidauthority.com/iphone-15-pro-renders-dark-red-color-3310932/)
- - [Succession’s last season is finally getting interesting by taking some risks](https://www.theverge.com/2023/4/9/23674872/succession-season-four-logan-roy-connors-wedding-spoilers)<!-- TECH:END -->
+ - [This year, Samsung could finally give us a foldable device that’s not a phone.](https://www.androidauthority.com/samsung-foldable-tablet-z-tab-3310947/)
+ - [Check out all the Pixel 7a color options in this latest leak](https://www.androidauthority.com/google-pixel-7a-colors-3310949/)
+ - [Dell XPS 13 &lpar;2023&rpar; review: thin, light, nice screen, and improved battery life, but only two ports, quiet speakers, and worse performance than similar models &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230410/p1#a230410p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
