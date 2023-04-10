@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Birb make it better or worse?](http://9gag.com/gag/anzn0Zn)
- - 🚯 [Professionals have standards..](http://9gag.com/gag/aL1eVpg)
- - 🚯 [Instead of war, you should have started therapy with a good psychologist](http://9gag.com/gag/aEqVQve)<!-- MEMES:END -->
+ - 🚖 [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
+ - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
+ - 🚯 [NPC](http://9gag.com/gag/aPgPL2g)<!-- MEMES:END -->
 
 --- 
 
