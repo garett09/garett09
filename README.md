@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [[Thread] A look at a report from FTX debtors on the company&#39;s control failures, like awful recordkeeping, lying about using cold wallets, and sloppy key storage &lpar;Molly White/@molly0xfff&rpar;](http://www.techmeme.com/230409/p8#a230409p8)
  - [What is Bluetooth Low Energy &lpar;LE&rpar;?](https://www.androidauthority.com/what-is-bluetooth-low-energy-ble-3310925/)
- - [As Congress weighs regulating AI, consumer advocates and the tech industry converge on Washington, DC to influence US lawmakers, most of whom lack AI expertise &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230409/p7#a230409p7)
- - [The best VPN extension for Chrome: Keep your browsing private and secure!](https://www.androidauthority.com/best-vpn-extension-chrome-3310822/)<!-- TECH:END -->
+ - [As Congress weighs regulating AI, consumer advocates and the tech industry converge on Washington, DC to influence US lawmakers, most of whom lack AI expertise &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230409/p7#a230409p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
