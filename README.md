@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [At least 1993’s Super Mario Bros. took a risk](https://www.polygon.com/23674765/live-action-super-mario-bros-movie-1993-bob-hoskins-john-leguizamo)
  - [Capcom removes Denuvo from Resident Evil Village](https://www.pcgamer.com/capcom-removes-denuvo-from-resident-evil-village)
- - [Play all of Half-Life: Alyx without VR thanks to this mod](https://www.pcgamer.com/play-all-of-half-life-alyx-without-vr-thanks-to-this-mod)
- - [Wordle hint and answer #660: Monday, April 10](https://www.pcgamer.com/wordle-hint-answer-today-660-april-10)<!-- GAME:END -->
+ - [Play all of Half-Life: Alyx without VR thanks to this mod](https://www.pcgamer.com/play-all-of-half-life-alyx-without-vr-thanks-to-this-mod)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
