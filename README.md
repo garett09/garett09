@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Premium adds SharePlay support, increases video quality for iOS](https://appleinsider.com/articles/23/04/10/youtube-premium-adds-shareplay-support-increases-video-quality-for-ios?utm_medium=rss)
- - [FBI comes right out and says it: Don’t plug your phone in at airports](https://www.androidauthority.com/juice-jacking-3311056/)
- - [iPhone 16 will get new OLED screen, iPhone 15 to reuse iPhone 14 display tech](https://appleinsider.com/articles/23/04/10/iphone-16-will-get-new-oled-screen-iphone-15-to-reuse-iphone-14-display-tech?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s long-rumored 27-inch mini LED display probably isn&#39;t happening](https://appleinsider.com/articles/23/04/10/apples-long-rumored-27-inch-mini-led-display-probably-isnt-happening?utm_medium=rss)
+ - [Some Twitter users have been reporting for days that their Circle tweets, which are meant to only reach a select group, are showing up in others&#39; For You feeds &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230410/p11#a230410p11)
+ - [Mario games on Nintendo Switch are $20 off to keep the movie hype going](https://www.theverge.com/2023/4/10/23676933/nintendo-switch-mario-games-bose-soundlink-flex-hori-split-pad-apple-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
