@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Professionals have standards..](http://9gag.com/gag/aL1eVpg)
- - 🚯 [Based police..](http://9gag.com/gag/aYVOBzO)
- - 🚯 [Happy Easter from Google](http://9gag.com/gag/a8qmNb1)<!-- MEMES:END -->
+ - 🚖 [I flown a lot with Air Somalia and I approve this message!](http://9gag.com/gag/adPOANZ)
+ - 🚯 [Fascinating](http://9gag.com/gag/a6q9grq)
+ - 🚯 [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)<!-- MEMES:END -->
 
 --- 
 
