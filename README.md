@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This year, Samsung could finally give us a foldable device that’s not a phone.](https://www.androidauthority.com/samsung-foldable-tablet-z-tab-3310947/)
- - [Check out all the Pixel 7a color options in this latest leak](https://www.androidauthority.com/google-pixel-7a-colors-3310949/)
- - [Dell XPS 13 &lpar;2023&rpar; review: thin, light, nice screen, and improved battery life, but only two ports, quiet speakers, and worse performance than similar models &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230410/p1#a230410p1)<!-- TECH:END -->
+ - [Shanghai-based SenseTime announces AI model SenseNova and chatbot SenseChat, available in Chinese and English, following Baidu&#39;s Ernie Bot &lpar;Bloomberg&rpar;](http://www.techmeme.com/230410/p2#a230410p2)
+ - [Google offers Dropcam and Nest Secure owners an upgrade as support ends soon](https://www.androidauthority.com/google-dropcam-nest-secure-end-of-life-3310957/)
+ - [This year, Samsung could finally give us a foldable device that’s not a phone.](https://www.androidauthority.com/samsung-foldable-tablet-z-tab-3310947/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
