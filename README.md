@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shanghai-based SenseTime announces AI model SenseNova and chatbot SenseChat, available in Chinese and English, following Baidu&#39;s Ernie Bot &lpar;Bloomberg&rpar;](http://www.techmeme.com/230410/p2#a230410p2)
- - [Google offers Dropcam and Nest Secure owners an upgrade as support ends soon](https://www.androidauthority.com/google-dropcam-nest-secure-end-of-life-3310957/)
- - [This year, Samsung could finally give us a foldable device that’s not a phone.](https://www.androidauthority.com/samsung-foldable-tablet-z-tab-3310947/)<!-- TECH:END -->
+ - [Google ceases software support for third-party Assistant smart displays](https://www.androidauthority.com/google-software-support-third-party-smart-displays-3310975/)
+ - [TSMC reports Q1 revenue up 3.6% YoY to ~$16.7B, below analysts forecasts, and March revenue down 15% YoY to ~$4.8B as electronics demand continues to fall &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230410/p4#a230410p4)
+ - [Apple&#39;s Mac shipments fell 40.5% YoY globally in Q1 2023, the largest drop among PC makers, as combined PC shipments fell 29% YoY to 56.9M units &lpar;IDC&rpar;](http://www.techmeme.com/230410/p3#a230410p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
