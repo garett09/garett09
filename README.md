@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hope on the Front Lines of the Drug Overdose Crisis](https://www.wired.com/story/onpoint-harm-reduction-center-drug-use/)
- - [7 Best USB Microphones &lpar;2023&rpar;: USB-C, USB-A, Wireless, and Mic Accessories](https://www.wired.com/gallery/best-usb-microphones/)
- - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: 2023 MacBook Pro $1,849, iMac 24-inch $1,099, iPhone &amp; Apple Watch from $180, more](https://appleinsider.com/articles/23/04/10/deals-2023-macbook-pro-1849-imac-24-inch-1099-iphone-apple-watch-from-180-more?utm_medium=rss)
+ - [The Best Hiking Gear &lpar;2023&rpar;: Backpacks, Tents, and More](https://www.wired.com/story/best-hiking-gear/)
+ - [Google Pixel 7A leak reveals new blue color](https://www.theverge.com/2023/4/10/23676986/google-pixel-7a-leak-blue-color-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
