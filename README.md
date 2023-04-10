@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google ceases software support for third-party Assistant smart displays](https://www.androidauthority.com/google-software-support-third-party-smart-displays-3310975/)
- - [TSMC reports Q1 revenue up 3.6% YoY to ~$16.7B, below analysts forecasts, and March revenue down 15% YoY to ~$4.8B as electronics demand continues to fall &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230410/p4#a230410p4)
- - [Apple&#39;s Mac shipments fell 40.5% YoY globally in Q1 2023, the largest drop among PC makers, as combined PC shipments fell 29% YoY to 56.9M units &lpar;IDC&rpar;](http://www.techmeme.com/230410/p3#a230410p3)<!-- TECH:END -->
+ - [Raspberry Pi launches the browser-based Raspberry Pi Code Editor in beta, initially supporting Python, aiming to help young people learn to code &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230410/p7#a230410p7)
+ - [Apple expands in India with new 10-year office lease in Bengaluru, India](https://appleinsider.com/articles/23/04/10/apple-expands-in-india-with-new-10-year-office-lease-in-bengaluru-india?utm_medium=rss)
+ - [AirTag leads to confrontation &amp; stolen e-bike return in California](https://appleinsider.com/articles/23/04/10/airtag-leads-to-confrontation-stolen-e-bike-return-in-california?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
