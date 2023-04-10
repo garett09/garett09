@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube adds Premium features, including enhanced bitrate 1080p videos on iOS and the web for &quot;extra crisp and clear&quot; content and support for Apple&#39;s SharePlay &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230410/p10#a230410p10)
- - [How to order a pizza with CarPlay using the new app from Domino&#39;s](https://appleinsider.com/articles/23/04/10/how-to-order-a-pizza-with-carplay-using-the-new-app-from-dominos?utm_medium=rss)
- - [Deals: 2023 MacBook Pro $1,849, iMac 24-inch $1,099, iPhone &amp; Apple Watch from $180, more](https://appleinsider.com/articles/23/04/10/deals-2023-macbook-pro-1849-imac-24-inch-1099-iphone-apple-watch-from-180-more?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube Premium adds SharePlay support, increases video quality for iOS](https://appleinsider.com/articles/23/04/10/youtube-premium-adds-shareplay-support-increases-video-quality-for-ios?utm_medium=rss)
+ - [FBI comes right out and says it: Don’t plug your phone in at airports](https://www.androidauthority.com/juice-jacking-3311056/)
+ - [iPhone 16 will get new OLED screen, iPhone 15 to reuse iPhone 14 display tech](https://appleinsider.com/articles/23/04/10/iphone-16-will-get-new-oled-screen-iphone-15-to-reuse-iphone-14-display-tech?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
