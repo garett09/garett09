@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
- - 🚯 [Mission Accomplished](http://9gag.com/gag/aMEm04W)
- - 🚯 [Professionals have standards..](http://9gag.com/gag/aL1eVpg)<!-- MEMES:END -->
+ - 🚖 [Wholesome Bouncer](http://9gag.com/gag/a7qeXdq)
+ - 🚯 [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
+ - 🚯 [This is what 11,000 HP looks like](http://9gag.com/gag/aMEmDEP)<!-- MEMES:END -->
 
 --- 
 
