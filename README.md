@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a reversal, Twitter lets users like and retweet Substack links, but searches including &quot;Substack&quot; still return results for just &quot;newsletter&quot; instead &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230409/p6#a230409p6)
- - [What is Snapdragon Satellite? Everything you need to know](https://www.androidauthority.com/what-is-snapdragon-satellite-3310908/)
- - [Best 3D Printer for 2023     - CNET](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best VPN extension for Chrome: Keep your browsing private and secure!](https://www.androidauthority.com/best-vpn-extension-chrome-3310822/)
+ - [In a reversal, Twitter lets users like and retweet tweets with Substack links, but searches including &quot;Substack&quot; still return results for just &quot;newsletter&quot; &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230409/p6#a230409p6)
+ - [8 Common Signs You Have a Vitamin Deficiency     - CNET](https://www.cnet.com/health/nutrition/8-common-signs-you-have-a-vitamin-deficiency/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
