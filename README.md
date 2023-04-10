@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always wondered how safe those glass bridges were](http://9gag.com/gag/ajVOwzg)
- - 🚯 [It&#39;s like they don&#39;t even try...](http://9gag.com/gag/aWGL5V3)
- - 🚯 [One of those](http://9gag.com/gag/aDYnv3B)<!-- MEMES:END -->
+ - 🚖 [Wholesomememes](http://9gag.com/gag/aNwvM6v)
+ - 🚯 [10 years later](http://9gag.com/gag/a7qem6w)
+ - 🚯 [It&#39;s giving monster house](http://9gag.com/gag/ajVO46q)<!-- MEMES:END -->
 
 --- 
 
