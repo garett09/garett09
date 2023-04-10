@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wholesomememes](http://9gag.com/gag/aNwvM6v)
- - 🚯 [10 years later](http://9gag.com/gag/a7qem6w)
- - 🚯 [It&#39;s giving monster house](http://9gag.com/gag/ajVO46q)<!-- MEMES:END -->
+ - 🚖 [Professionals have standards..](http://9gag.com/gag/aL1eVpg)
+ - 🚯 [Based police..](http://9gag.com/gag/aYVOBzO)
+ - 🚯 [Happy Easter from Google](http://9gag.com/gag/a8qmNb1)<!-- MEMES:END -->
 
 --- 
 
