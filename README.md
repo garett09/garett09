@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In 2021 a Youtuber offered $10K to whoever could make a Breath of the Wild multiplayer mod, and now you can play it](https://www.pcgamer.com/in-2021-a-youtuber-offered-dollar10k-to-whoever-could-make-a-breath-of-the-wild-multiplayer-mod-and-now-you-can-play-it)
- - [Preview: Molly Shannon 2K23 defies all video game genres](https://www.polygon.com/23677202/molly-shannon-2k23-video-skit-spoof-snl-saturday-night-live)
- - [Peter Pan &amp; Wendy trailer gives Wendy Darling a sword](https://www.polygon.com/23677201/peter-pan-wendy-trailer-disney-plus-release-date)<!-- GAME:END -->
+ - [Half-Life: Alyx without a VR headset? It’s now possible](https://www.polygon.com/23677197/half-life-alyx-no-vr-headset-mod)
+ - [When does Overwatch 2 season 4 start?](https://www.polygon.com/overwatch-2-guide/23677082/season-4-release-time)
+ - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
