@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wholesome Bouncer](http://9gag.com/gag/a7qeXdq)
- - 🚯 [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
- - 🚯 [This is what 11,000 HP looks like](http://9gag.com/gag/aMEmDEP)<!-- MEMES:END -->
+ - 🚖 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)
+ - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
+ - 🚯 [Robocop](http://9gag.com/gag/aGE8vD5)<!-- MEMES:END -->
 
 --- 
 
