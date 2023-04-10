@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10 years later](http://9gag.com/gag/a7qem6w)
+ - 🚖 [Those eyes\u2026.](http://9gag.com/gag/adPO4GV)
  - 🚯 [Mission Accomplished](http://9gag.com/gag/aMEm04W)
- - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)<!-- MEMES:END -->
+ - 🚯 [Professionals have standards..](http://9gag.com/gag/aL1eVpg)<!-- MEMES:END -->
 
 --- 
 
