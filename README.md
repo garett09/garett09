@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn son!](http://9gag.com/gag/aqe8EAR)
- - 🚯 [Fascinating](http://9gag.com/gag/a6q9grq)
- - 🚯 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
+ - 🚖 [It&#39;s giving monster house](http://9gag.com/gag/ajVO46q)
+ - 🚯 [Happy Easter from Google](http://9gag.com/gag/a8qmNb1)
+ - 🚯 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)<!-- MEMES:END -->
 
 --- 
 
