@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)
- - 🚯 [9gaggers still can get any but doggo did](http://9gag.com/gag/a4ozr66)
- - 🚯 [Based police..](http://9gag.com/gag/aYVOBzO)<!-- MEMES:END -->
+ - 🚖 [Interesting experiment...](http://9gag.com/gag/aeQOdpj)
+ - 🚯 [Based police..](http://9gag.com/gag/aYVOBzO)
+ - 🚯 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)<!-- MEMES:END -->
 
 --- 
 
