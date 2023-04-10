@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sex workers and others criticize Meta&#39;s Verified program for requiring creators to use their legal name as profile display name without the option to change it &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/230410/p12#a230410p12)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [The end is nigh for gas-powered cars](https://www.theverge.com/2023/4/10/23677157/ev-rules-epa-emission-standards-biden-ice-gas-car-end)<!-- TECH:END -->
+ - [Google debuts auto-archive feature that reduces the need to uninstall apps](https://www.androidauthority.com/android-auto-archive-3311120/)
+ - [Rumored 15-inch MacBook Air release could be in April or May](https://appleinsider.com/articles/23/04/10/rumored-15-inch-macbook-air-release-could-be-in-april-or-may?utm_medium=rss)
+ - [In a lawsuit, former Twitter executives say they spent $1M+ on legal expenses related to shareholder lawsuits and government probes, including one by the US DOJ &lpar;New York Times&rpar;](http://www.techmeme.com/230410/p13#a230410p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
