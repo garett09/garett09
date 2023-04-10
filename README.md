@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know, you know.](http://9gag.com/gag/aqe8AQj)
- - 🚯 [Yikes](http://9gag.com/gag/aREZNwM)
- - 🚯 [Birb make it better or worse?](http://9gag.com/gag/anzn0Zn)<!-- MEMES:END -->
+ - 🚖 [Plot](http://9gag.com/gag/aL1eo05)
+ - 🚯 [The main thing is that your soul is young.](http://9gag.com/gag/armAE1V)
+ - 🚯 [Frightening](http://9gag.com/gag/az2PvdB)<!-- MEMES:END -->
 
 --- 
 
