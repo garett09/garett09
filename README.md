@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Partial Disney Lorcana rules leak, new details on how the Magic competitor works](https://www.polygon.com/23677664/disney-lorcana-rules-leak)
- - [That’s a Suspicious Stew! Check Out Over 40 Minecraft-Inspired Recipes in “Minecraft Gather, Cook, Eat! Official Cookbook”](https://news.xbox.com/en-us/2023/04/10/minecraft-inspired-recipes-minecraft-cookbook/)
- - [Venom’s latest transformation is everything good about superhero comics](https://www.polygon.com/2023/4/10/23677057/venom-king-in-black-al-ewing-eddie-brock)<!-- GAME:END -->
+ - [Riot will let you pay to turn your Valorant guns into Counter-Strike guns](https://www.pcgamer.com/riot-will-let-you-pay-to-turn-your-valorant-guns-into-counter-strike-guns)
+ - [Indiana Jones 5’s Mads Mikkelsen On Why He’s Always The Evil Dude](https://kotaku.com/mads-mikkelsen-indiana-jones-5-doctor-star-wars-villain-1850320643)
+ - [Star Wars Jedi: Survivor’s PC install size is like Order 66 to your SSD](https://www.polygon.com/23674447/star-wars-jedi-survivor-install-size-pc-hardware-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
