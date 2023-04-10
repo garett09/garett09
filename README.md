@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)
- - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)
- - 🚯 [Robocop](http://9gag.com/gag/aGE8vD5)<!-- MEMES:END -->
+ - 🚖 [At least one of them is proud of him](http://9gag.com/gag/a8qmvGY)
+ - 🚯 [Professionals have standards..](http://9gag.com/gag/aL1eVpg)
+ - 🚯 [Yikes](http://9gag.com/gag/aREZNwM)<!-- MEMES:END -->
 
 --- 
 
