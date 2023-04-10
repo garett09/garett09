@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [At least 1993’s Super Mario Bros. took a risk](https://www.polygon.com/23674765/live-action-super-mario-bros-movie-1993-bob-hoskins-john-leguizamo)
- - [Capcom removes Denuvo from Resident Evil Village](https://www.pcgamer.com/capcom-removes-denuvo-from-resident-evil-village)
- - [Play all of Half-Life: Alyx without VR thanks to this mod](https://www.pcgamer.com/play-all-of-half-life-alyx-without-vr-thanks-to-this-mod)<!-- GAME:END -->
+ - [PlayStation Store: March 2023’s top downloads](https://blog.playstation.com/2023/04/10/playstation-store-march-2023s-top-downloads/)
+ - [The Real Impact Of Pokémon Go&#39;s Changes That Niantic Won&#39;t Face](https://kotaku.com/pokemon-go-remote-raid-price-changes-limits-boycott-1850314338)
+ - [This gleefully silly FPS takes inspiration from one of Titanfall 2&#39;s best levels](https://www.pcgamer.com/this-gleefully-silly-fps-takes-inspiration-from-one-of-titanfall-2s-best-levels)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
