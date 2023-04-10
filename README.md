@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title](http://9gag.com/gag/amAGOKo)
- - 🚯 [Based police..](http://9gag.com/gag/aYVOBzO)
- - 🚯 [Damn son!](http://9gag.com/gag/aqe8EAR)<!-- MEMES:END -->
+ - 🚖 [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)
+ - 🚯 [He&#39;s certified.](http://9gag.com/gag/aBdLe5A)
+ - 🚯 [NPC](http://9gag.com/gag/aPgPL2g)<!-- MEMES:END -->
 
 --- 
 
