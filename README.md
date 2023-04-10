@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting experiment...](http://9gag.com/gag/aeQOdpj)
- - 🚯 [Based police..](http://9gag.com/gag/aYVOBzO)
- - 🚯 [Can someone explain why this happened?](http://9gag.com/gag/adPOdzD)<!-- MEMES:END -->
+ - 🚖 [10 years later](http://9gag.com/gag/a7qem6w)
+ - 🚯 [Mission Accomplished](http://9gag.com/gag/aMEm04W)
+ - 🚯 [Don&#39;t ask disabled person that](http://9gag.com/gag/aA0Eqx0)<!-- MEMES:END -->
 
 --- 
 
