@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 13 Ultra leaked renders show it’s more camera than phone](https://www.androidauthority.com/xiaomi-13-ultra-renders-design-3311400/)
- - [Cyber crooks can charge up to $20k to hack Android phones via Google Play Store](https://www.androidauthority.com/google-play-store-threats-3311385/)
- - [In draft guidelines, the Cyberspace Administration of China details plans to require a security review of generative AI tools before their release &lpar;Bloomberg&rpar;](http://www.techmeme.com/230411/p7#a230411p7)<!-- TECH:END -->
+ - [The Commerce Department&#39;s NTIA begins exploring possible rules for ChatGPT and other generative AI tools, requesting comment from the public over accountability &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/230411/p10#a230411p10)
+ - [Apple hasn&#39;t scrapped 27-inch mini LED display, says Kuo](https://appleinsider.com/articles/23/04/11/apple-hasnt-scrapped-27-inch-mini-led-display-says-kuo?utm_medium=rss)
+ - [How Bookshop.org Survives—and Thrives—in Amazon’s World](https://www.wired.com/story/books-bookshop-org-thrives-amazon-world/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
