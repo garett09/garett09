@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Shellder be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23677312/can-shellder-be-shiny-cloyster)
- - [Counter-Strike Player Kills Five Guys With One Bullet](https://kotaku.com/csgo-counter-strike-ace-five-kills-one-shot-valve-pc-1850322020)
- - [Wordle hint and answer #661: Tuesday, April 11](https://www.pcgamer.com/wordle-hint-answer-today-661-april-11)<!-- GAME:END -->
+ - [Attack on Titan’s ODM comes to Fortnite, along with new skins](https://www.polygon.com/23677755/attack-on-titan-fortnite-odm-eren-jaeger-mikasa-levi)
+ - [Nvidia&#39;s RTX 4070 matches RTX 3080 in leaked benchmarks](https://www.pcgamer.com/nvidias-rtx-4070-matches-rtx-3080-in-leaked-benchmarks)
+ - [Unbrick your Wii U with a $4 Raspberry Pi Pico](https://www.pcgamer.com/unbrick-your-wii-u-with-a-dollar4-raspberry-pi-pico)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
