@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best GameCube emulators for most platforms](https://www.androidauthority.com/best-gamecube-emulators-3311673/)
- - [Google creates ‘experiment updates’ page to disclose changes to Bard](https://www.androidauthority.com/google-bard-updates-3311669/)
- - [Artifact, the personalized news sharing app started by Instagram&#39;s co-founders, adds article comments and plans to give new profiles a public &quot;reputation score&quot; &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/230411/p27#a230411p27)<!-- TECH:END -->
+ - [Best Android Phones to Buy in 2023     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)
+ - [Best iPhone in 2023: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [I Took Cold Showers for a Year. It Was a Waste of Time     - CNET](https://www.cnet.com/culture/internet/features/i-took-cold-showers-for-a-year-it-was-a-waste-of-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
