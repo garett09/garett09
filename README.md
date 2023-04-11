@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
- - 🚯 [Comment section](http://9gag.com/gag/awZm9W4)
- - 🚯 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)<!-- MEMES:END -->
+ - 🚖 [Liberals still find a way to defend him](http://9gag.com/gag/aqe8wQR)
+ - 🚯 [NPC](http://9gag.com/gag/aPgPL2g)
+ - 🚯 [This is how the heliosphere shield our solar system from galactic cosmic radiation. This is how our solar system really looks like.](http://9gag.com/gag/aZDwYYW)<!-- MEMES:END -->
 
 --- 
 
