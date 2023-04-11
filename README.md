@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo goes after Discord to find out who leaked the Legend of Zelda: Tears of the Kingdom art book](https://www.pcgamer.com/nintendo-goes-after-discord-to-find-out-who-leaked-the-legend-of-zelda-tears-of-the-kingdom-art-book)
  - [The Next Resident Evil Movie Goes All Out And Fans Are Into The Absurdity](https://kotaku.com/resident-evil-death-island-new-trailer-leon-jill-re4-1850325305)
- - [PC Game Pass comes to 40 more countries](https://www.pcgamer.com/pc-game-pass-comes-to-40-more-countries)
- - [Ahsoka’s First Trailer Has Star Wars Fans Arguing Over Lightsaber Colors](https://kotaku.com/star-wars-orange-lightsaber-meaning-ahsoka-dave-filoni-1850321208)<!-- GAME:END -->
+ - [PC Game Pass comes to 40 more countries](https://www.pcgamer.com/pc-game-pass-comes-to-40-more-countries)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
