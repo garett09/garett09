@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Marvels trailer brings Kamala, Carol, and Monica together](https://www.polygon.com/23677935/the-marvels-trailer-release-date-cast-mr-marvel-carol)
- - [Warhammer 40 000: Boltgun releases May 23, new gameplay details revealed](https://blog.playstation.com/2023/04/11/warhammer-40-000-boltgun-releases-may-23-new-gameplay-details-revealed/)
- - [EA Sports PGA Tour’s best mode pulled me back into my golfing game obsession](https://www.polygon.com/23677407/ea-sports-pga-tour-the-masters-augusta-national-modes-challenges-moments)<!-- GAME:END -->
+ - [God of War Ragnarök New Game Plus Build guide](https://blog.playstation.com/2023/04/11/god-of-war-ragnarok-new-game-plus-build-guide/)
+ - [God of War Ragnarök New Game Plus Build guide](https://blog.playstation.com/2023/04/11/god-of-war-ragnarok-new-game-plus-build-guide/)
+ - [PC Game Pass is Now Available in 40 New Countries](https://news.xbox.com/en-us/2023/04/11/pc-game-pass-now-available-40-countries/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
