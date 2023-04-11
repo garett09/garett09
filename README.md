@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AirPods maker has been cut out of AR headset assembly](https://appleinsider.com/articles/23/04/11/apples-airpods-maker-has-been-cut-out-of-ar-headset-assembly?utm_medium=rss)
- - [Apple&#39;s Smart Ring may be able to spot when snap your fingers](https://appleinsider.com/articles/23/04/11/apples-smart-ring-may-be-able-to-spot-when-snap-your-fingers?utm_medium=rss)
- - [18 Best Samsung Galaxy S23 Cases and Accessories &lpar;2023&rpar;: Chargers, Cables, and Screen Protectors](https://www.wired.com/gallery/best-samsung-galaxy-s23-cases-and-accessories/)<!-- TECH:END -->
+ - [Inside Apple Upper East Side: An Apple Store mixed with classic architecture](https://appleinsider.com/articles/23/04/11/inside-apple-upper-east-side-an-apple-store-mixed-with-timely-architecture?utm_medium=rss)
+ - [YouTube says NFL Sunday Ticket passes will cost between $249 to $489 depending on subscription and package; the company reportedly paid $2B for the NFL package &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230411/p11#a230411p11)
+ - [Plugable&#39;s new hub takes both MacBook USB-C ports in exchange for USB-A and HDMI](https://appleinsider.com/articles/23/04/11/plugables-new-hub-takes-both-macbook-usb-c-ports-in-exchange-for-usb-a-and-hdmi?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
