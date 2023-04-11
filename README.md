@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [The entire perspective...](http://9gag.com/gag/aREZnjQ)
- - 🚯 [Cooked for ten people. Everyone cancelled.](http://9gag.com/gag/ay24rZ8)
- - 🚯 [Actual video footage of President J.F.K assassination on November 22 ,1963](http://9gag.com/gag/a1PD6x6)<!-- MEMES:END -->
+ - 🚯 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)
+ - 🚯 [Superhero dress](http://9gag.com/gag/a7qexjz)<!-- MEMES:END -->
 
 --- 
 
