@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New firmware is available for AirPods, AirPods Pro, &amp; AirPods Max](https://appleinsider.com/articles/23/04/11/new-firmware-is-available-for-airpods-airpods-pro-airpods-max?utm_medium=rss)
- - [The 10 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Sources: Elon Musk is working on a new generative AI project at Twitter, recently buying ~10K GPUs, after poaching researchers from DeepMind in recent months &lpar;Kali Hays/Insider&rpar;](http://www.techmeme.com/230411/p24#a230411p24)<!-- TECH:END -->
+ - [The combined HBO Max &amp; Discovery streaming service will be announced on April 12](https://appleinsider.com/articles/23/04/11/the-combined-hbo-max-discovery-streaming-service-will-be-announced-on-april-12?utm_medium=rss)
+ - [Hulu error code p-dev320: What is it and how to fix it?](https://www.androidauthority.com/hulu-error-code-p-dev320-3310364/)
+ - [Another Pegasus-like spyware tool called &#39;Reign&#39; was used to spy on iPhones](https://appleinsider.com/articles/23/04/11/another-pegasus-like-spyware-tool-called-reign-was-used-to-spy-on-iphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
