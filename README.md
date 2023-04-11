@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This drunk girl using a slice of pizza as a pillow is still one of the greatest drunk photos of all time.](http://9gag.com/gag/a1PD3wv)
- - 🚯 [NPC](http://9gag.com/gag/aPgPL2g)
- - 🚯 [This is how the heliosphere shield our solar system from galactic cosmic radiation. This is how our solar system really looks like.](http://9gag.com/gag/aZDwYYW)<!-- MEMES:END -->
+ - 🚖 [Actual video footage of President J.F.K assassination on November 22 ,1963](http://9gag.com/gag/a1PD6x6)
+ - 🚯 [2 falling ladders, one of them is faster](http://9gag.com/gag/amAGy0v)
+ - 🚯 [Comment section](http://9gag.com/gag/awZm9W4)<!-- MEMES:END -->
 
 --- 
 
