@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Twitch streamer blows through Breath of the Wild with ocarina controller](https://www.polygon.com/zelda/23652156/breath-of-the-wild-ocarina-controller-botw-legend-of-zelda)
  - [Fortnite Stops The &#39;One Pump&#39; Shotgun, Unvaults Dirt Bikes](https://kotaku.com/fortnite-chapter-4-season-2-update-mythic-havoc-shotgun-1850324480)
- - [Download the Dead Space Demake while you can](https://www.polygon.com/23678881/dead-space-demake-release-windows-pc)
- - [Elden Ring Modder Crammed Demon’s Souls’ Most Iconic Level Into Game](https://kotaku.com/elden-ring-demons-souls-pc-boletarian-palace-mod-patch-1850324453)<!-- GAME:END -->
+ - [Download the Dead Space Demake while you can](https://www.polygon.com/23678881/dead-space-demake-release-windows-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
