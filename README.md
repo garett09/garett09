@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter Inc. no longer exists, now X Corp.](https://appleinsider.com/articles/23/04/11/twitter-inc-no-longer-exists-now-x-corp?utm_medium=rss)
  - [Bitcoin rises above $30K for the first time since June 2022, rallying 80%+ since the start of 2023, but is still down 50%+ from its November 2021 all-time high &lpar;Bloomberg&rpar;](http://www.techmeme.com/230410/p19#a230410p19)
- - [Apple Music, iTunes, and News are experiencing outages](https://appleinsider.com/articles/23/04/11/apple-music-itunes-and-news-are-experiencing-outages?utm_medium=rss)
- - [Court filing: Twitter Inc. was merged into X Corp. and no longer exists, and is part of parent firm X Holdings Corp.; both entities are registered in Nevada &lpar;Slate&rpar;](http://www.techmeme.com/230410/p18#a230410p18)<!-- TECH:END -->
+ - [Apple Music, iTunes, and News are experiencing outages](https://appleinsider.com/articles/23/04/11/apple-music-itunes-and-news-are-experiencing-outages?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
