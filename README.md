@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [War memeZ.](http://9gag.com/gag/anzn69o)
- - 🚯 [It might rain tomorrow](http://9gag.com/gag/a5XB4BG)
- - 🚯 [An Idiot](http://9gag.com/gag/a6q90v2)<!-- MEMES:END -->
+ - 🚖 [Taiwan Air Force has new badges and they are hilarious. I definitely want one.](http://9gag.com/gag/az2PnZZ)
+ - 🚯 [Just saying...](http://9gag.com/gag/aXnNBqD)
+ - 🚯 [Title](http://9gag.com/gag/a2K83eD)<!-- MEMES:END -->
 
 --- 
 
