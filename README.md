@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taiwan Air Force has new badges and they are hilarious. I definitely want one.](http://9gag.com/gag/az2PnZZ)
- - 🚯 [Just saying...](http://9gag.com/gag/aXnNBqD)
- - 🚯 [Title](http://9gag.com/gag/a2K83eD)<!-- MEMES:END -->
+ - 🚖 [The entire perspective...](http://9gag.com/gag/aREZnjQ)
+ - 🚯 [Cooked for ten people. Everyone cancelled.](http://9gag.com/gag/ay24rZ8)
+ - 🚯 [Actual video footage of President J.F.K assassination on November 22 ,1963](http://9gag.com/gag/a1PD6x6)<!-- MEMES:END -->
 
 --- 
 
