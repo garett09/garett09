@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Loewe’s low-poly clothes are here to steal your entire net worth](https://www.polygon.com/deals/23679364/loewe-low-poly-pixelated-clothes-purchase)
- - [State of Play presents a special look at Final Fantasy XVI](https://blog.playstation.com/2023/04/11/state-of-play-presents-a-special-look-at-final-fantasy-xvi/)
- - [Evangelion Creator Can Finally Take A Damn Vacation](https://kotaku.com/evangelion-nge-hideaki-anno-shin-kamen-rider-ultraman-1850324928)<!-- GAME:END -->
+ - [The Next Resident Evil Movie Goes All Out And Fans Are Into The Absurdity](https://kotaku.com/resident-evil-death-island-new-trailer-leon-jill-re4-1850325305)
+ - [PC Game Pass comes to 40 more countries](https://www.pcgamer.com/pc-game-pass-comes-to-40-more-countries)
+ - [Ahsoka’s First Trailer Has Star Wars Fans Arguing Over Lightsaber Colors](https://kotaku.com/star-wars-orange-lightsaber-meaning-ahsoka-dave-filoni-1850321208)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
