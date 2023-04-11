@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [God of War Ragnarök New Game Plus Build guide](https://blog.playstation.com/2023/04/11/god-of-war-ragnarok-new-game-plus-build-guide/)
- - [God of War Ragnarök New Game Plus Build guide](https://blog.playstation.com/2023/04/11/god-of-war-ragnarok-new-game-plus-build-guide/)
- - [PC Game Pass is Now Available in 40 New Countries](https://news.xbox.com/en-us/2023/04/11/pc-game-pass-now-available-40-countries/)<!-- GAME:END -->
+ - [Nintendo’s bringing its big fan event to the US for the first time](https://www.polygon.com/23678715/nintendo-live-2023-seattle)
+ - [Al Jaffee, artist behind 50 years of Mad magazine Fold-Ins, dies at 102](https://www.polygon.com/23678674/al-jaffee-mad-magazine-obituary-fold-in)
+ - [The Super Mario Bros. Movie’s opening rap is a big retro gag for ’80s kids](https://www.polygon.com/23677091/super-mario-bros-movie-80s-rap-commercial-easter-egg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
