@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of 10,701 US adults: ~66% are not confident current ways to invest, trade, and use crypto are reliable and safe; 17% have used crypto, similar to 2022 &lpar;Pew Research Center&rpar;](http://www.techmeme.com/230411/p16#a230411p16)
- - [14 Best Laptop Stands &lpar;2023&rpar;: Adjustable, Portable, and More](https://www.wired.com/gallery/best-laptop-stands/)
- - [8 Best Apple AirPods Cases &lpar;2023&rpar;: Retro, Quirky, and Spam](https://www.wired.com/gallery/best-apple-airpods-cases/)<!-- TECH:END -->
+ - [Apple demands that it have no big tech competitors near its Mumbai store](https://appleinsider.com/articles/23/04/11/apple-demands-that-it-have-no-big-tech-competitors-near-its-mumbai-store?utm_medium=rss)
+ - [French antitrust agency set to investigate Apple&#39;s app tracking privacy policies](https://appleinsider.com/articles/23/04/11/french-antitrust-agency-set-to-investigate-apples-app-tracking-privacy-policies?utm_medium=rss)
+ - [Today Is National Pet Day: Spoil Your Furry Friends With These Deals     - CNET](https://www.cnet.com/deals/national-pet-day-deals-spoil-your-furry-friends-for-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
