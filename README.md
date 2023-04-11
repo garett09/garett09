@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)
- - 🚯 [It&#39;s like they don&#39;t even try...](http://9gag.com/gag/aWGL5V3)
- - 🚯 [Comment section](http://9gag.com/gag/awZm9W4)<!-- MEMES:END -->
+ - 🚖 [The Adventures of Velma. if you know you know](http://9gag.com/gag/adPOD9D)
+ - 🚯 [It is a WEBinar](http://9gag.com/gag/a3ZADxe)
+ - 🚯 [2 falling ladders, one of them is faster](http://9gag.com/gag/amAGy0v)<!-- MEMES:END -->
 
 --- 
 
