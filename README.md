@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford’s Oakville plant in Canada will start making EVs in 2024](https://www.theverge.com/2023/4/11/23678871/fords-oakville-factory-canada-ev-transform)
- - [MacBook Pro 14-inch review: M2 Pro model has just gotten more powerful](https://appleinsider.com/articles/23/04/11/macbook-pro-14-inch-review-m2-pro-model-has-just-gotten-more-powerful?utm_medium=rss)
- - [This pixelated outfit could be yours for $4,350](https://www.theverge.com/2023/4/11/23678711/loewe-pixelated-fashion-minecraft-paris-fashion-week-for-sale)<!-- TECH:END -->
+ - [New app lets you use the Pixel Launcher on any Android phone](https://www.androidauthority.com/pixel-launcher-app-3311553/)
+ - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
+ - [Hollywood insiders like Apple TV+ design, but have issues with content curation](https://appleinsider.com/articles/23/04/11/hollywood-insiders-like-apple-tv-design-but-have-issues-with-content-curation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
