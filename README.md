@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former Apple PR head Katie Cotton passed away](https://appleinsider.com/articles/23/04/11/controversial-former-apple-pr-head-katie-cotton-passed-away?utm_medium=rss)
  - [Katie Cotton, Apple&#39;s former VP of worldwide communications for 18 years, who mostly worked directly for Steve Jobs before retiring in 2014, died on April 6 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230410/p17#a230410p17)
- - [60% off the Google Nest Wi-Fi, plus more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)
- - [Elon Musk says SpaceX’s Starship spacecraft is ready to launch soon](https://www.theverge.com/2023/4/10/23677525/spacex-starship-super-heavy-starbase-launch-ready)<!-- TECH:END -->
+ - [Best Open Wireless Earbuds for 2023     - CNET](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
