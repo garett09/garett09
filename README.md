@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Actual video footage of President J.F.K assassination on November 22 ,1963](http://9gag.com/gag/a1PD6x6)
- - 🚯 [2 falling ladders, one of them is faster](http://9gag.com/gag/amAGy0v)
- - 🚯 [Comment section](http://9gag.com/gag/awZm9W4)<!-- MEMES:END -->
+ - 🚖 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
+ - 🚯 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
+ - 🚯 [Happy Easter from Google](http://9gag.com/gag/a8qmNb1)<!-- MEMES:END -->
 
 --- 
 
