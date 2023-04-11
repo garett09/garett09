@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Run away from your problems and win an Xbox in Redfall&#39;s free choose-your-own browser game](https://www.pcgamer.com/run-away-from-your-problems-and-win-an-xbox-in-redfalls-free-choose-your-own-browser-game)
- - [Attack on Titan’s ODM comes to Fortnite, along with new skins](https://www.polygon.com/23677755/attack-on-titan-fortnite-odm-eren-jaeger-mikasa-levi)
- - [Nvidia&#39;s RTX 4070 matches RTX 3080 in leaked benchmarks](https://www.pcgamer.com/nvidias-rtx-4070-matches-rtx-3080-in-leaked-benchmarks)<!-- GAME:END -->
+ - [Sony ending support for Dreams in September](https://www.polygon.com/23678503/dreams-end-of-live-service-server-changes)
+ - [Crounus cheaters are getting sniped across the biggest FPS games](https://www.pcgamer.com/crounus-cheaters-are-getting-sniped-across-the-biggest-fps-games)
+ - [PC sales are down but can everyone please chill out](https://www.pcgamer.com/pc-sales-are-down-but-can-everyone-please-chill-out)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
