@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find the Jaeger’s Family Basement in Anvil Square in Fortnite](https://www.polygon.com/fortnite-guide/2023/4/11/23679008/find-jaegers-family-basement-anvil-square)
- - [Fortnite Chapter 4 Season 2 character locations](https://www.polygon.com/fortnite-guide/23644790/chapter-4-season-2-character-npc-locations-map)
- - [The Best VR Game Doesn&#39;t Require VR Anymore](https://kotaku.com/half-life-alyx-no-vr-mod-oculus-quest-steam-1850324201)<!-- GAME:END -->
+ - [Fortnite Stops The &#39;One Pump&#39; Shotgun, Unvaults Dirt Bikes](https://kotaku.com/fortnite-chapter-4-season-2-update-mythic-havoc-shotgun-1850324480)
+ - [Download the Dead Space Demake while you can](https://www.polygon.com/23678881/dead-space-demake-release-windows-pc)
+ - [Elden Ring Modder Crammed Demon’s Souls’ Most Iconic Level Into Game](https://kotaku.com/elden-ring-demons-souls-pc-boletarian-palace-mod-patch-1850324453)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
