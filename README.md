@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple Upper East Side: An Apple Store mixed with classic architecture](https://appleinsider.com/articles/23/04/11/inside-apple-upper-east-side-an-apple-store-mixed-with-timely-architecture?utm_medium=rss)
- - [YouTube says NFL Sunday Ticket passes will cost between $249 to $489 depending on subscription and package; the company reportedly paid $2B for the NFL package &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230411/p11#a230411p11)
- - [Plugable&#39;s new hub takes both MacBook USB-C ports in exchange for USB-A and HDMI](https://appleinsider.com/articles/23/04/11/plugables-new-hub-takes-both-macbook-usb-c-ports-in-exchange-for-usb-a-and-hdmi?utm_medium=rss)<!-- TECH:END -->
+ - [A survey of 10,701 US adults: ~66% are not confident current ways to invest, trade, and use crypto are reliable and safe; 17% have used crypto, similar to 2022 &lpar;Pew Research Center&rpar;](http://www.techmeme.com/230411/p16#a230411p16)
+ - [14 Best Laptop Stands &lpar;2023&rpar;: Adjustable, Portable, and More](https://www.wired.com/gallery/best-laptop-stands/)
+ - [8 Best Apple AirPods Cases &lpar;2023&rpar;: Retro, Quirky, and Spam](https://www.wired.com/gallery/best-apple-airpods-cases/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
