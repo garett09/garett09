@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Commerce Department&#39;s NTIA begins exploring possible rules for ChatGPT and other generative AI tools, requesting comment from the public over accountability &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/230411/p10#a230411p10)
- - [Apple hasn&#39;t scrapped 27-inch mini LED display, says Kuo](https://appleinsider.com/articles/23/04/11/apple-hasnt-scrapped-27-inch-mini-led-display-says-kuo?utm_medium=rss)
- - [How Bookshop.org Survives—and Thrives—in Amazon’s World](https://www.wired.com/story/books-bookshop-org-thrives-amazon-world/)<!-- TECH:END -->
+ - [Genetically Modified Houseplants Are Coming to Clean Your Air](https://www.wired.com/story/neoplants-air-purification-pothos-devils-ivy/)
+ - [The Race to Decarbonize America Needs More Workers](https://www.wired.com/story/the-race-to-decarbonize-america-needs-more-workers/)
+ - [Twitter Inc. no longer exists, now X Corp.](https://appleinsider.com/articles/23/04/11/twitter-inc-no-longer-exists-now-x-corp?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
