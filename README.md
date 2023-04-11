@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2 falling ladders, one of them is faster](http://9gag.com/gag/amAGy0v)
- - 🚯 [Stabilizing UFO footagem Denver, 2022](http://9gag.com/gag/aMEm681)
+ - 🚖 [The entire perspective...](http://9gag.com/gag/aREZnjQ)
+ - 🚯 [Wholesomememes](http://9gag.com/gag/aNwvM6v)
  - 🚯 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)<!-- MEMES:END -->
 
 --- 
