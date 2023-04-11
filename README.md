@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She just knows](http://9gag.com/gag/aZDw6A3)
- - 🚯 [Stopp ! Arr\u00eat ! Detener !](http://9gag.com/gag/aA0Ej2g)
- - 🚯 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)<!-- MEMES:END -->
+ - 🚖 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
+ - 🚯 [Maybe an austrian painter could help the germans somehow](http://9gag.com/gag/aEqVLoK)
+ - 🚯 [It might rain tomorrow](http://9gag.com/gag/a5XB4BG)<!-- MEMES:END -->
 
 --- 
 
