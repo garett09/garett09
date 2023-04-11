@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elder Scrolls Game Caught Using Fan Art Without Permission](https://kotaku.com/elder-scrolls-fan-art-artist-credit-dlc-tumblr-twitter-1850321339)
- - [One-shot sniper rifles are returning to Warzone this week](https://www.pcgamer.com/one-shot-sniper-rifles-are-returning-to-warzone-this-week)
- - [Ahsoka’s First Trailer Has Star Wars Fans Arguing Over Lightsaber Colors](https://kotaku.com/star-wars-orange-lightsaber-meaning-ahsoka-dave-filoni-1850321208)<!-- GAME:END -->
+ - [You Can Play A Dead Space Demake For Free](https://kotaku.com/dead-space-remake-demake-ps1-fan-pc-download-itch-1850321467)
+ - [The Original Take Of The &#39;Wilhelm Scream&#39; Has Been Found](https://kotaku.com/wilhelm-scream-star-wars-video-games-movies-sound-1850321598)
+ - [Elder Scrolls Game Caught Using Fan Art Without Permission](https://kotaku.com/elder-scrolls-fan-art-artist-credit-dlc-tumblr-twitter-1850321339)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
