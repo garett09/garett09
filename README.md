@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Genetically Modified Houseplants Are Coming to Clean Your Air](https://www.wired.com/story/neoplants-air-purification-pothos-devils-ivy/)
- - [The Race to Decarbonize America Needs More Workers](https://www.wired.com/story/the-race-to-decarbonize-america-needs-more-workers/)
- - [Twitter Inc. no longer exists, now X Corp.](https://appleinsider.com/articles/23/04/11/twitter-inc-no-longer-exists-now-x-corp?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s AirPods maker has been cut out of AR headset assembly](https://appleinsider.com/articles/23/04/11/apples-airpods-maker-has-been-cut-out-of-ar-headset-assembly?utm_medium=rss)
+ - [Apple&#39;s Smart Ring may be able to spot when snap your fingers](https://appleinsider.com/articles/23/04/11/apples-smart-ring-may-be-able-to-spot-when-snap-your-fingers?utm_medium=rss)
+ - [18 Best Samsung Galaxy S23 Cases and Accessories &lpar;2023&rpar;: Chargers, Cables, and Screen Protectors](https://www.wired.com/gallery/best-samsung-galaxy-s23-cases-and-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
