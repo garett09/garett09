@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tonal, which makes smart, at-home strength training equipment, raised $130M; sources: the company&#39;s valuation fell to $550M-$600M, down from $1.6B in 2021 &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/230411/p4#a230411p4)
- - [HONOR Magic 5 Pro review: Muscling in on the competition](https://www.androidauthority.com/honor-magic-5-pro-review-3298044/)
- - [The World’s Longest Suspension Bridge Is History in the Making](https://www.wired.com/story/the-worlds-longest-suspension-bridge-sicily-italy/)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9: Everything we know so far &lpar;Updated: Display surprise!&rpar;](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
+ - [Matt Taibbi&#39;s account, including the Twitter Files, appears to have been shadowbanned after a spat with Elon Musk, preventing users from searching his tweets &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230411/p5#a230411p5)
+ - [April 2023 security patch lands on the Pixel Watch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
