@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
+ - 🚖 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)
  - 🚯 [The entire perspective...](http://9gag.com/gag/aREZnjQ)
- - 🚯 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)<!-- MEMES:END -->
+ - 🚯 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)<!-- MEMES:END -->
 
 --- 
 
