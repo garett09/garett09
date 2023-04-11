@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s Sleeping Beauty takes a lot of flak — but its critics are reading it all wrong](https://www.polygon.com/century-of-disney/23671820/sleeping-beauty-1959-best-disney-princess-story)
- - [The Stanley Parable&#39;s narrator is somehow gaming&#39;s latest hunk](https://www.pcgamer.com/the-stanley-parables-narrator-is-somehow-gamings-latest-hunk)
- - [Everything You Need to Know About Call of Duty: Warzone 2.0’s New Recruit A Friend Program](https://news.xbox.com/en-us/2023/04/11/everything-you-need-to-know-warzone-recruit-a-friend-program/)<!-- GAME:END -->
+ - [The Great British Baking Show: The Professionals is better than just a spinoff](https://www.polygon.com/23672630/great-british-baking-show-gbbo-professionals-2023-season)
+ - [Genshin Impact Character Gets New Voice Actor After Sexual Harassment Allegations](https://kotaku.com/genshin-impact-elliot-gindi-tighnari-zachary-gordon-1850323804)
+ - [How to get the Attack on Titan Eren Jaeger skin in Fortnite](https://www.polygon.com/fortnite-guide/23678904/eren-jaeger-skin-outfit-quests-attack-titan-battle-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
