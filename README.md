@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)
- - 🚯 [Fascinating](http://9gag.com/gag/a6q9grq)
- - 🚯 [It&#39;s giving monster house](http://9gag.com/gag/ajVO46q)<!-- MEMES:END -->
+ - 🚖 [The Adventures of Velma. if you know you know](http://9gag.com/gag/adPOD9D)
+ - 🚯 [`Video of a robot collapsing in a scene that seemed to fall from tiredness after a long day&#39;s work` - Don&#39;t let robots watch it](http://9gag.com/gag/aMEmo2V)
+ - 🚯 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)<!-- MEMES:END -->
 
 --- 
 
