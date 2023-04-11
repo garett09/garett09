@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #661: Tuesday, April 11](https://www.pcgamer.com/wordle-hint-answer-today-661-april-11)
  - [Beau Is Afraid’s strange rollout makes sense for such a strange movie](https://www.polygon.com/23678001/beau-is-afraid-release-date-ari-aster-hereditary-midsommar)
- - [Five new Steam games you probably missed &lpar;April 10, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-10-2023)
- - [You Can Play A Dead Space Demake For Free](https://kotaku.com/dead-space-remake-demake-ps1-fan-pc-download-itch-1850321467)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;April 10, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-april-10-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
