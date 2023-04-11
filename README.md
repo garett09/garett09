@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The entire perspective...](http://9gag.com/gag/aREZnjQ)
- - 🚯 [Wholesomememes](http://9gag.com/gag/aNwvM6v)
- - 🚯 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)<!-- MEMES:END -->
+ - 🚖 [War memeZ.](http://9gag.com/gag/anzn69o)
+ - 🚯 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)
+ - 🚯 [An Idiot](http://9gag.com/gag/a6q90v2)<!-- MEMES:END -->
 
 --- 
 
