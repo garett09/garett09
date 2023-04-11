@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
- - 🚯 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)
- - 🚯 [Stopp ! Arr\u00eat ! Detener !](http://9gag.com/gag/aA0Ej2g)<!-- MEMES:END -->
+ - 🚖 [She just knows](http://9gag.com/gag/aZDw6A3)
+ - 🚯 [Stopp ! Arr\u00eat ! Detener !](http://9gag.com/gag/aA0Ej2g)
+ - 🚯 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)<!-- MEMES:END -->
 
 --- 
 
