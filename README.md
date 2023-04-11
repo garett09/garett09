@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New app lets you use the Pixel Launcher on any Android phone](https://www.androidauthority.com/pixel-launcher-app-3311553/)
- - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
- - [Hollywood insiders like Apple TV+ design, but have issues with content curation](https://appleinsider.com/articles/23/04/11/hollywood-insiders-like-apple-tv-design-but-have-issues-with-content-curation?utm_medium=rss)<!-- TECH:END -->
+ - [Google launches an app auto-archiving feature on Android, removing over 60% of an app&#39;s local data when the device is low on storage, catching up to iOS &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230411/p23#a230411p23)
+ - [Microsoft fixes a Windows Defender bug, first reported in 2018, that caused CPU usage spikes in some apps, especially Firefox, in Windows 10 and Windows 11 &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230411/p22#a230411p22)
+ - [The best Samsung Galaxy deals: Get the Galaxy A54 for just $199.99](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
