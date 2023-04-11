@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
- - 🚯 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
- - 🚯 [Happy Easter from Google](http://9gag.com/gag/a8qmNb1)<!-- MEMES:END -->
+ - 🚯 [2 falling ladders, one of them is faster](http://9gag.com/gag/amAGy0v)
+ - 🚯 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)<!-- MEMES:END -->
 
 --- 
 
