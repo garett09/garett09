@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple demands that it have no big tech competitors near its Mumbai store](https://appleinsider.com/articles/23/04/11/apple-demands-that-it-have-no-big-tech-competitors-near-its-mumbai-store?utm_medium=rss)
- - [French antitrust agency set to investigate Apple&#39;s app tracking privacy policies](https://appleinsider.com/articles/23/04/11/french-antitrust-agency-set-to-investigate-apples-app-tracking-privacy-policies?utm_medium=rss)
- - [Today Is National Pet Day: Spoil Your Furry Friends With These Deals     - CNET](https://www.cnet.com/deals/national-pet-day-deals-spoil-your-furry-friends-for-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ford’s Oakville plant in Canada will start making EVs in 2024](https://www.theverge.com/2023/4/11/23678871/fords-oakville-factory-canada-ev-transform)
+ - [MacBook Pro 14-inch review: M2 Pro model has just gotten more powerful](https://appleinsider.com/articles/23/04/11/macbook-pro-14-inch-review-m2-pro-model-has-just-gotten-more-powerful?utm_medium=rss)
+ - [This pixelated outfit could be yours for $4,350](https://www.theverge.com/2023/4/11/23678711/loewe-pixelated-fashion-minecraft-paris-fashion-week-for-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
