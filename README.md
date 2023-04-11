@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)
- - 🚯 [The entire perspective...](http://9gag.com/gag/aREZnjQ)
- - 🚯 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)<!-- MEMES:END -->
+ - 🚖 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
+ - 🚯 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.](http://9gag.com/gag/aA0EzPL)
+ - 🚯 [Stopp ! Arr\u00eat ! Detener !](http://9gag.com/gag/aA0Ej2g)<!-- MEMES:END -->
 
 --- 
 
