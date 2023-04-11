@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch streamer blows through Breath of the Wild with ocarina controller](https://www.polygon.com/zelda/23652156/breath-of-the-wild-ocarina-controller-botw-legend-of-zelda)
- - [Fortnite Stops The &#39;One Pump&#39; Shotgun, Unvaults Dirt Bikes](https://kotaku.com/fortnite-chapter-4-season-2-update-mythic-havoc-shotgun-1850324480)
- - [Download the Dead Space Demake while you can](https://www.polygon.com/23678881/dead-space-demake-release-windows-pc)<!-- GAME:END -->
+ - [Loewe’s low-poly clothes are here to steal your entire net worth](https://www.polygon.com/deals/23679364/loewe-low-poly-pixelated-clothes-purchase)
+ - [State of Play presents a special look at Final Fantasy XVI](https://blog.playstation.com/2023/04/11/state-of-play-presents-a-special-look-at-final-fantasy-xvi/)
+ - [Evangelion Creator Can Finally Take A Damn Vacation](https://kotaku.com/evangelion-nge-hideaki-anno-shin-kamen-rider-ultraman-1850324928)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
