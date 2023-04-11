@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Great British Baking Show: The Professionals is better than just a spinoff](https://www.polygon.com/23672630/great-british-baking-show-gbbo-professionals-2023-season)
- - [Genshin Impact Character Gets New Voice Actor After Sexual Harassment Allegations](https://kotaku.com/genshin-impact-elliot-gindi-tighnari-zachary-gordon-1850323804)
- - [How to get the Attack on Titan Eren Jaeger skin in Fortnite](https://www.polygon.com/fortnite-guide/23678904/eren-jaeger-skin-outfit-quests-attack-titan-battle-pass)<!-- GAME:END -->
+ - [How to find the Jaeger’s Family Basement in Anvil Square in Fortnite](https://www.polygon.com/fortnite-guide/2023/4/11/23679008/find-jaegers-family-basement-anvil-square)
+ - [Fortnite Chapter 4 Season 2 character locations](https://www.polygon.com/fortnite-guide/23644790/chapter-4-season-2-character-npc-locations-map)
+ - [The Best VR Game Doesn&#39;t Require VR Anymore](https://kotaku.com/half-life-alyx-no-vr-mod-oculus-quest-steam-1850324201)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
