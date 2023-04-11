@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
- - 🚯 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)
- - 🚯 [Superhero dress](http://9gag.com/gag/a7qexjz)<!-- MEMES:END -->
+ - 🚖 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
+ - 🚯 [The entire perspective...](http://9gag.com/gag/aREZnjQ)
+ - 🚯 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)<!-- MEMES:END -->
 
 --- 
 
