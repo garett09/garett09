@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Adventures of Velma. if you know you know](http://9gag.com/gag/adPOD9D)
- - 🚯 [It is a WEBinar](http://9gag.com/gag/a3ZADxe)
- - 🚯 [2 falling ladders, one of them is faster](http://9gag.com/gag/amAGy0v)<!-- MEMES:END -->
+ - 🚖 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
+ - 🚯 [Comment section](http://9gag.com/gag/awZm9W4)
+ - 🚯 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)<!-- MEMES:END -->
 
 --- 
 
