@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [War memeZ.](http://9gag.com/gag/anzn69o)
- - 🚯 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)
+ - 🚯 [It might rain tomorrow](http://9gag.com/gag/a5XB4BG)
  - 🚯 [An Idiot](http://9gag.com/gag/a6q90v2)<!-- MEMES:END -->
 
 --- 
