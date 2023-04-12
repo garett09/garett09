@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)
- - 🚯 [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)
- - 🚯 [Actual video footage of President J.F.K assassination on November 22 ,1963](http://9gag.com/gag/a1PD6x6)<!-- MEMES:END -->
+ - 🚖 [Gotta be fun to live in Brazil](http://9gag.com/gag/aBdL712)
+ - 🚯 [We need a Karen for a Helen.](http://9gag.com/gag/amAGEGv)
+ - 🚯 [So bad, so tragic, my condolences](http://9gag.com/gag/avQeYEq)<!-- MEMES:END -->
 
 --- 
 
