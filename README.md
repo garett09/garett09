@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)
- - 🚯 [That&#39;s hell of a look](http://9gag.com/gag/abvOPXr)
- - 🚯 [Guy spends 2 years destroying disabled neighbours ring doorbells](http://9gag.com/gag/aEqVeGe)<!-- MEMES:END -->
+ - 🚖 [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)
+ - 🚯 [WTF](http://9gag.com/gag/abvOjw8)
+ - 🚯 [Disney Cinderella after loosing a shoe last night.](http://9gag.com/gag/aWGLVx6)<!-- MEMES:END -->
 
 --- 
 
