@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A person with tourette is doing an interview job](http://9gag.com/gag/aoKVv40)
- - 🚯 [This Indian add selling skin whitening cream in 9 seconds.](http://9gag.com/gag/aXnN5Dv)
- - 🚯 [I had to check it for myself, and it&#39;s true](http://9gag.com/gag/aQEQwQ2)<!-- MEMES:END -->
+ - 🚖 [Stopp ! Arr\u00eat ! Detener !](http://9gag.com/gag/aA0Ej2g)
+ - 🚯 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)
+ - 🚯 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)<!-- MEMES:END -->
 
 --- 
 
