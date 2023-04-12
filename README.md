@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Labor consultants say US companies, responding to labor shortages and rising wages, are outsourcing jobs overseas, expanding on pandemic remote work policies &lpar;Konrad Putzier/Wall Street Journal&rpar;](http://www.techmeme.com/230412/p11#a230412p11)
- - [You told us: Most of you thought it was time to kill Google Now Launcher](https://www.androidauthority.com/kill-google-now-launcher-poll-results-3311894/)
- - [Emails: UMG asked Spotify, Apple, and other services to block developers training AI services from scraping melodies and lyrics from their copyrighted songs &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230412/p10#a230412p10)<!-- TECH:END -->
+ - [Garmin’s Instinct 2X Solar series lights up the lineup &lpar;in more ways than one&rpar;](https://www.androidauthority.com/garmin-instinct-2x-solar-series-announcement-3311751/)
+ - [San Francisco Mayor London Breed on the City’s Troubles—and Hopes](https://www.wired.com/story/have-a-nice-future-podcast-1/)
+ - [The &#39;Space Invaders&#39; Creator Reveals the Game’s Origin Story](https://www.wired.com/story/space-invaders-45-years-tomohiro-nishikado/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
