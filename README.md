@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New AirPods Firmware update returns after Apple error [u]](https://appleinsider.com/articles/23/04/11/new-firmware-is-available-for-airpods-airpods-pro-airpods-max?utm_medium=rss)
  - [Australia-based Fivecast, whose AI-powered software can help companies and governments monitor potential threats, raised a ~$20M Series A led by Ten Eleven &lpar;Joseph Brookes/InnovationAus.com&rpar;](http://www.techmeme.com/230411/p31#a230411p31)
- - [Microsoft releases 97 security fixes, patching one actively exploited zero-day flaw in the Windows Common Log File System and seven critical RCE vulnerabilities &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230411/p30#a230411p30)
- - [Customs data: Russia imported $570M worth of US chips from Hong Kong and mainland China from February 24, 2022 to December 31, 2022, despite US sanctions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230411/p29#a230411p29)<!-- TECH:END -->
+ - [Microsoft releases 97 security fixes, patching one actively exploited zero-day flaw in the Windows Common Log File System and seven critical RCE vulnerabilities &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230411/p30#a230411p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
