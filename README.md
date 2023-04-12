@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Users won&#39;t give up their iPhones for $10K, and that makes Apple &#39;wonderful&#39; says Warren Buffett](https://appleinsider.com/articles/23/04/12/users-wont-give-up-their-iphones-for-10k-and-that-makes-apple-wonderful-says-warren-buffett?utm_medium=rss)
- - [Documents: the House Judiciary Committee subpoenaed the FTC over its Twitter privacy investigation, saying the agency failed to comply with an earlier request &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230412/p23#a230412p23)
- - [10 places where you can donate your old phone to charity](https://www.androidauthority.com/where-to-donate-old-cell-phones-3311699/)<!-- TECH:END -->
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [The European Commission finds Broadcom&#39;s proposed $61B VMware acquisition may restrict competition in the market for some hardware parts, like storage adapters &lpar;Bart Meijer/Reuters&rpar;](http://www.techmeme.com/230412/p25#a230412p25)
+ - [The first Android 14 beta is now available for anyone with a Pixel to try](https://www.androidauthority.com/android-14-beta-1-3312020/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
