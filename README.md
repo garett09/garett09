@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Max&#39; streaming service combines HBO Max &amp; Discovery+, launches May 23](https://appleinsider.com/articles/23/04/12/max-streaming-service-combines-hbo-max-discovery-launches-may-23?utm_medium=rss)
- - [The Withings Sleep is the sleep tracker you’ll forget you’re in bed with](https://www.androidauthority.com/withings-sleep-tracking-mat-review-3309461/)
- - [Xfinity vs. Verizon Fios: Which Should You Choose?     - CNET](https://www.cnet.com/news/comcast-xfinity-vs-verizon-fios/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Max is charging more money for 4K, and that means it can’t suck this time](https://www.theverge.com/2023/4/12/23680672/max-hbo-4k-hdr-price-increase)
+ - [It’s now just Max: all of the news from Warner Bros. Discovery’s reveal event](https://www.theverge.com/2023/4/12/23680612/max-warner-bros-discovery-streaming-service-reveal-event-hbo)
+ - [Game of Thrones is getting another prequel, and its plot sounds very familiar](https://www.theverge.com/2023/4/12/23680681/knight-of-seven-kingdoms-game-of-thrones-prequel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
