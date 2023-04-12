@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Superhero dress](http://9gag.com/gag/a7qexjz)
- - 🚯 [Oh boy](http://9gag.com/gag/a5XB8MO)
- - 🚯 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)<!-- MEMES:END -->
+ - 🚖 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)
+ - 🚯 [That&#39;s hell of a look](http://9gag.com/gag/abvOPXr)
+ - 🚯 [Guy spends 2 years destroying disabled neighbours ring doorbells](http://9gag.com/gag/aEqVeGe)<!-- MEMES:END -->
 
 --- 
 
