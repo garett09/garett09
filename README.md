@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget the Dead Space Remake, this free PS1 demake is the true retelling of Isaac Clarke&#39;s story](https://www.pcgamer.com/forget-the-dead-space-remake-this-free-ps1-demake-is-the-true-retelling-of-isaac-clarkes-story)
- - [Sherlock Holmes: The Awakened review](https://www.pcgamer.com/sherlock-holmes-the-awakened-review)
- - [&lpar;For Southeast Asia&rpar;  The Songkran Sale comes to PlayStation Store](https://blog.playstation.com/2023/04/12/20230412-psstore_th/)<!-- GAME:END -->
+ - [Renfield sucks all the fun out of What We Do in the Shadows’ formula](https://www.polygon.com/reviews/23679108/renfield-review-nic-cage-nicholas-hoult)
+ - [Fight for PS VR2 glory in upcoming Zenith: The Last City PvP mode](https://blog.playstation.com/2023/04/12/fight-for-ps-vr2-glory-in-upcoming-zenith-the-last-city-pvp-mode/)
+ - [AMD trash talks Nvidia for not giving gamers enough VRAM](https://www.pcgamer.com/amd-trash-talks-nvidia-for-not-giving-gamers-enough-vram)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
