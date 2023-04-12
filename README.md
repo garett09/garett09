@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mandalorian revealed a huge clue about Palpatine’s return](https://www.polygon.com/star-wars/23679242/mandalorian-thrawn-moff-gideon-mandalore-palpatine-cloning-hux)
- - [Where We’re Going, We Don’t Need Coins: King of the Arcade is Available Now on Xbox](https://news.xbox.com/en-us/2023/04/12/king-of-the-arcade-is-available-now-on-xbox/)
- - [The Penguin trailer heralds the new king of Gotham](https://www.polygon.com/23680583/penguin-trailer-teaser-colin-farrell-dc-studios-batman)<!-- GAME:END -->
+ - [Max replaces HBO Max on May 23, and here’s what you need to know](https://www.polygon.com/2023/4/12/23680622/hbo-max-streaming-service-price-warner-bros-discovery-plus)
+ - [Gift ideas for the Zelda fan in your life](https://www.polygon.com/what-to-buy/23620429/zelda-best-gifts-ideas)
+ - [Genshin Impact ‘Awakening’s Real Sound’ Kory Drum locations](https://www.polygon.com/genshin-impact-guides/23680229/kory-drum-locations-awakenings-real-sound)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
