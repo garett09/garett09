@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You May Get More EV Options Thanks to Tougher Emissions Rules](https://www.wired.com/story/you-may-get-more-ev-options-thanks-to-tougher-epa-emissions-rules/)
- - [Raspberry Pi raised an undisclosed amount from Sony Semiconductor Solutions at a $500M valuation, the same valuation as its $45M raise in 2021, to work on AI &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230412/p8#a230412p8)
- - [OpenAI offers bug bounty for ChatGPT — but no rewards for jailbreaking its chatbot](https://www.theverge.com/2023/4/12/23679964/openai-bug-bounty-chatgpt-no-jailbreak)<!-- TECH:END -->
+ - [Labor consultants say US companies, responding to labor shortages and rising wages, are outsourcing jobs overseas, expanding on pandemic remote work policies &lpar;Konrad Putzier/Wall Street Journal&rpar;](http://www.techmeme.com/230412/p11#a230412p11)
+ - [You told us: Most of you thought it was time to kill Google Now Launcher](https://www.androidauthority.com/kill-google-now-launcher-poll-results-3311894/)
+ - [Emails: UMG asked Spotify, Apple, and other services to block developers training AI services from scraping melodies and lyrics from their copyrighted songs &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230412/p10#a230412p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
