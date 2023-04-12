@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox April Update is Rolling Out Soon](https://news.xbox.com/en-us/2023/04/12/xbox-april-2023-update-available-today/)
- - [Why teens are suddenly obsessed with chess](https://www.polygon.com/tabletop-games/23679440/teens-love-chess-memes-boom-2023)
- - [Last of Us Part 1 patches add HBO shirts on PS5, hotfix on PC](https://www.polygon.com/23680226/the-last-of-us-t-shirt-ellie-the-wire-hbo-mortal-kombat)<!-- GAME:END -->
+ - [Doom Eternal and Wolfenstein lead PS Plus Extra games coming in April](https://www.polygon.com/23680391/playstation-plus-games-april-2023-extra-premium)
+ - [Diablo 4 borrows from MMOs but is still about &#39;overpowered builds&#39; and &#39;blowing up screens of monsters&#39;](https://www.pcgamer.com/diablo-4-borrows-from-mmos-but-is-still-about-overpowered-builds-and-blowing-up-screens-of-monsters)
+ - [Take a Peek at Slayer, the New Class in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2023/04/12/slayer-new-class-phantasy-star-online-2-new-genesis/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
