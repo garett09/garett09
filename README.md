@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Gods: Yang Jian spins an intense god-tier fantasy out of a Cowboy Bebop riff](https://www.polygon.com/reviews/23562907/new-gods-yang-jian-review-chinese-animation)
- - [6 Tips That Will Help You Master Lifeweaver In Overwatch 2](https://kotaku.com/lifeweaver-overwatch-2-tips-best-hero-combos-life-grip-1850329178)
- - [Where to buy the Nvidia RTX 4070](https://www.polygon.com/deals/23680684/rtx-4070-nvidia-where-to-buy-best-buy-newegg)<!-- GAME:END -->
+ - [Modders rejoice! Adding ray tracing classic PC games is going to get a whole easier](https://www.pcgamer.com/modders-rejoice-adding-ray-tracing-classic-pc-games-is-going-to-get-a-whole-easier)
+ - [The Elder Scrolls Online – Necrom chapter gameplay revealed](https://blog.playstation.com/2023/04/12/the-elder-scrolls-online-necrom-chapter-gameplay-revealed/)
+ - [Here’s What’s Going On With Your Overwatch 2 Rank](https://kotaku.com/overwatch-2-rank-lookup-bug-patch-notes-tracker-1850329833)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
