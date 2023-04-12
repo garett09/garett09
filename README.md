@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo goes after Discord to find out who leaked the Legend of Zelda: Tears of the Kingdom art book](https://www.pcgamer.com/nintendo-goes-after-discord-to-find-out-who-leaked-the-legend-of-zelda-tears-of-the-kingdom-art-book)
- - [The Next Resident Evil Movie Goes All Out And Fans Are Into The Absurdity](https://kotaku.com/resident-evil-death-island-new-trailer-leon-jill-re4-1850325305)
- - [PC Game Pass comes to 40 more countries](https://www.pcgamer.com/pc-game-pass-comes-to-40-more-countries)<!-- GAME:END -->
+ - [Game Of Thrones Is Coming To Crusader Kings III](https://kotaku.com/game-of-thrones-crusader-kings-iii-3-agot-mod-pc-ck3-1850325908)
+ - [Uncover new ghostly tales in Ghostwire: Tokyo Spider’s Thread update – out now](https://blog.playstation.com/2023/04/11/uncover-new-ghostly-tales-in-ghostwire-tokyo-spiders-thread-update-out-now/)
+ - [Play the Ghostwire: Tokyo Spider’s Thread Update Today!](https://news.xbox.com/en-us/2023/04/11/ghostwire-tokyo-spiders-thread-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
