@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab a MacBook Pro 16-inch for just $869 while supplies last](https://appleinsider.com/articles/23/04/12/grab-a-macbook-pro-16-inch-for-just-869-while-supplies-last?utm_medium=rss)
- - [Intel and Arm join forces with the intent of toppling Samsung](https://www.androidauthority.com/intel-arm-chips-3312272/)
- - [Best Over-Ear Headphones for 2023: Wired and Wireless Picks     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arkansas Governor Sarah Huckabee Sanders signs a bill requiring that social media companies verify new users&#39; ages and get a parent&#39;s consent for users under 18 &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230412/p30#a230412p30)
+ - [&#39;The Super Mario Bros. Movie&#39; Will Be Impossible to Beat](https://www.wired.com/story/super-mario-bros-movie-future-video-games-movies/)
+ - [NYC-based Cybersyn, a data-as-a-service startup that aims to make economic data more accessible, emerges from stealth with a $62.9M Series A led by Snowflake &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/230412/p29#a230412p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
