@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing Farworld Pioneers: an Open World, Sci-fi Sandbox](https://news.xbox.com/en-us/2023/04/12/farworld-pioneers-open-world-sci-fi-sandbox/)
- - [The Tetris Movie Fumbles What&#39;s Actually An Incredible Story](https://kotaku.com/tetris-movie-apple-tv-plus-nintendo-game-boy-1850330135)
- - [Watch As Dark Souls Players Break The Game’s AI In Stunning Ways](https://kotaku.com/dark-souls-ai-break-speedrun-exploit-equipment-menu-1850330088)<!-- GAME:END -->
+ - [Wrestling President Says Video Game Is Finished, But Its Devs Disagree](https://kotaku.com/aew-wrestling-game-kenny-omega-cm-punk-preorder-elite-1850328740)
+ - [Video Games Are Dominating TV And Film Right Now](https://kotaku.com/super-mario-bros-movie-the-last-of-us-hbo-max-1850330236)
+ - [HBO’s The Sympathizer brings infinite Robert Downeys Jr. to the Vietnam War](https://www.polygon.com/23680931/the-sympathizer-hbo-trailer-robert-downey-jr)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
