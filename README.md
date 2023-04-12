@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Video game illustrators in China say AI image generators are causing them to lose their jobs, as some employers encourage use of AI tools to boost productivity &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/230412/p1#a230412p1)
- - [Recent autonomous vehicle snafus in San Francisco include five Waymo cars jamming an intersection and Cruise recalling software last week after an AV hit a bus &lpar;Rachel Swan/San Francisco Chronicle&rpar;](http://www.techmeme.com/230411/p33#a230411p33)
- - [iPhone 15 Pro won&#39;t be getting solid-state buttons due to technical issues](https://appleinsider.com/articles/23/04/12/iphone-15-pro-wont-be-getting-solid-state-buttons-due-to-technical-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Binance.US plans to delist the TRX token linked to Justin Sun&#39;s Tron from April 18 for failing to meet the expected standard of excellence; TRX drops ~4% &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/230412/p3#a230412p3)
+ - [The Massive ‘Batteries’ Hidden Beneath Your Feet](https://www.wired.com/story/the-massive-batteries-hidden-beneath-your-feet/)
+ - [A European Space Probe Sets Its Sights on the Jupiter System](https://www.wired.com/story/jupiter-ganymede-moon-probe-juice/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
