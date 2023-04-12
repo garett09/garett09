@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Mario Bros. Movie made me appreciate Wreck-It Ralph more than ever](https://www.polygon.com/23678966/wreck-it-ralph-appreciation-super-mario-bros-movie)
- - [Crafting a Replayable Murder Mystery in Murderous Muses](https://news.xbox.com/en-us/2023/04/12/crafting-murderous-muses-on-xbox/)
- - [You&#39;re a cyberpunk T. Rex using your tiny arms to fix electronics in this &#39;ironic&#39; retro adventure about customer service, time travel, and true love](https://www.pcgamer.com/youre-a-cyberpunk-t-rex-using-your-tiny-arms-to-fix-electronics-in-this-ironic-retro-adventure-about-customer-service-time-travel-and-true-love)<!-- GAME:END -->
+ - [The Mandalorian revealed a huge clue about Palpatine’s return](https://www.polygon.com/star-wars/23679242/mandalorian-thrawn-moff-gideon-mandalore-palpatine-cloning-hux)
+ - [Where We’re Going, We Don’t Need Coins: King of the Arcade is Available Now on Xbox](https://news.xbox.com/en-us/2023/04/12/king-of-the-arcade-is-available-now-on-xbox/)
+ - [The Penguin trailer heralds the new king of Gotham](https://www.polygon.com/23680583/penguin-trailer-teaser-colin-farrell-dc-studios-batman)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
