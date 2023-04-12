@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin’s Instinct 2X Solar series lights up the lineup &lpar;in more ways than one&rpar;](https://www.androidauthority.com/garmin-instinct-2x-solar-series-announcement-3311751/)
- - [San Francisco Mayor London Breed on the City’s Troubles—and Hopes](https://www.wired.com/story/have-a-nice-future-podcast-1/)
- - [The &#39;Space Invaders&#39; Creator Reveals the Game’s Origin Story](https://www.wired.com/story/space-invaders-45-years-tomohiro-nishikado/)<!-- TECH:END -->
+ - [IAC and PwC: 2022 US digital ad revenue rose 10.8% YoY to $209.7B, down from 35% growth in 2021; social media ad revenue rose 3.6% YoY, down from ~39% in 2021 &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/230412/p14#a230412p14)
+ - [How To Choose the Right Soundbar &lpar;2023&rpar;: Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
+ - [PitchBook: global VC funding for crypto startups fell to $2.4B in Q1 2023, down 80% from an all-time high of $12.3B in Q1 2022 and the lowest level since 2020 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/230412/p13#a230412p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
