@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She just knows](http://9gag.com/gag/aZDw6A3)
- - 🚯 [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)
- - 🚯 [This Indian add selling skin whitening cream in 9 seconds.](http://9gag.com/gag/aXnN5Dv)<!-- MEMES:END -->
+ - 🚖 [Superhero dress](http://9gag.com/gag/a7qexjz)
+ - 🚯 [Oh boy](http://9gag.com/gag/a5XB8MO)
+ - 🚯 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)<!-- MEMES:END -->
 
 --- 
 
