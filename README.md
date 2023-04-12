@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 3’s evil dwarfs turned me into Succession’s Roy family](https://www.polygon.com/reviews/23679230/forge-of-the-chaos-dwarfs-review-total-war-warhammer-3-release-date)
- - [Total War: Warhammer 3 Forge of the Chaos Dwarfs is the fantasy gun-running simulator I never knew I needed](https://www.pcgamer.com/total-war-warhammer-3-forge-of-the-chaos-dwarfs-is-the-fantasy-gun-running-simulator-i-never-knew-i-needed)
- - [9 tips to forge a Chaos Dwarf empire in Total War: Warhammer 3](https://www.pcgamer.com/total-war-warhammer-3-chaos-dwarfs-tips)<!-- GAME:END -->
+ - [The Xbox April Update is Rolling Out Soon](https://news.xbox.com/en-us/2023/04/12/xbox-april-2023-update-available-today/)
+ - [Why teens are suddenly obsessed with chess](https://www.polygon.com/tabletop-games/23679440/teens-love-chess-memes-boom-2023)
+ - [Last of Us Part 1 patches add HBO shirts on PS5, hotfix on PC](https://www.polygon.com/23680226/the-last-of-us-t-shirt-ellie-the-wire-hbo-mortal-kombat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
