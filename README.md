@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This photo is &lpar;another&rpar; example of how optical illusions mess with your mind. First you see a picture of the Earth from space and then\u2026](http://9gag.com/gag/aZDwe4z)
- - 🚯 [Disney Cinderella after loosing a shoe last night.](http://9gag.com/gag/aWGLVx6)
- - 🚯 [She kind of looks like a hot alien](http://9gag.com/gag/aNwv7ZK)<!-- MEMES:END -->
+ - 🚖 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
+ - 🚯 [That&#39;s hell of a look](http://9gag.com/gag/abvOPXr)
+ - 🚯 [Disney Cinderella after loosing a shoe last night.](http://9gag.com/gag/aWGLVx6)<!-- MEMES:END -->
 
 --- 
 
