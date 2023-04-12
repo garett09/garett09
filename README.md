@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Max replaces HBO Max on May 23, and here’s what you need to know](https://www.polygon.com/2023/4/12/23680622/hbo-max-streaming-service-price-warner-bros-discovery-plus)
- - [Gift ideas for the Zelda fan in your life](https://www.polygon.com/what-to-buy/23620429/zelda-best-gifts-ideas)
- - [Genshin Impact ‘Awakening’s Real Sound’ Kory Drum locations](https://www.polygon.com/genshin-impact-guides/23680229/kory-drum-locations-awakenings-real-sound)<!-- GAME:END -->
+ - [New Gods: Yang Jian spins an intense god-tier fantasy out of a Cowboy Bebop riff](https://www.polygon.com/reviews/23562907/new-gods-yang-jian-review-chinese-animation)
+ - [6 Tips That Will Help You Master Lifeweaver In Overwatch 2](https://kotaku.com/lifeweaver-overwatch-2-tips-best-hero-combos-life-grip-1850329178)
+ - [Where to buy the Nvidia RTX 4070](https://www.polygon.com/deals/23680684/rtx-4070-nvidia-where-to-buy-best-buy-newegg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
