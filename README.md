@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar;  The Songkran Sale comes to PlayStation Store](https://blog.playstation.com/2023/04/12/20230412-psstore_th/)
- - [&lpar;For Southeast Asia&rpar;  The Songkran Sale comes to PlayStation Store](https://blog.playstation.com/2023/04/12/20230412-psstore_th/)
- - [Wordle hint and answer #662: Wednesday, April 12](https://www.pcgamer.com/wordle-hint-answer-today-662-april-12)<!-- GAME:END -->
+ - [Forget the Dead Space Remake, this free PS1 demake is the true retelling of Isaac Clarke&#39;s story](https://www.pcgamer.com/forget-the-dead-space-remake-this-free-ps1-demake-is-the-true-retelling-of-isaac-clarkes-story)
+ - [Sherlock Holmes: The Awakened review](https://www.pcgamer.com/sherlock-holmes-the-awakened-review)
+ - [&lpar;For Southeast Asia&rpar;  The Songkran Sale comes to PlayStation Store](https://blog.playstation.com/2023/04/12/20230412-psstore_th/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
