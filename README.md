@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Frostpunk: The Board Game: The Kotaku Review](https://kotaku.com/frostpunk-board-game-review-impressions-kickstarter-1850306356)
  - [Game Of Thrones Is Coming To Crusader Kings III](https://kotaku.com/game-of-thrones-crusader-kings-iii-3-agot-mod-pc-ck3-1850325908)
- - [Uncover new ghostly tales in Ghostwire: Tokyo Spider’s Thread update – out now](https://blog.playstation.com/2023/04/11/uncover-new-ghostly-tales-in-ghostwire-tokyo-spiders-thread-update-out-now/)
- - [Play the Ghostwire: Tokyo Spider’s Thread Update Today!](https://news.xbox.com/en-us/2023/04/11/ghostwire-tokyo-spiders-thread-update/)<!-- GAME:END -->
+ - [Uncover new ghostly tales in Ghostwire: Tokyo Spider’s Thread update – out now](https://blog.playstation.com/2023/04/11/uncover-new-ghostly-tales-in-ghostwire-tokyo-spiders-thread-update-out-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
