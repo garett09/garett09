@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Test shows Galaxy S23 series has much slower wireless charging than S22](https://www.androidauthority.com/samsung-galaxy-s23-slower-wireless-charging-test-3311824/)
- - [Sources: a16z, Tiger Global, IVP, and other VCs are touring Saudi Arabia, the UAE, and Qatar to build ties with sovereign wealth funds during the funding crunch &lpar;Financial Times&rpar;](http://www.techmeme.com/230412/p6#a230412p6)
- - [Found a bug in ChatGPT? OpenAI will now pay you for it.](https://www.androidauthority.com/chatgpt-bug-bounty-program-3311821/)<!-- TECH:END -->
+ - [You May Get More EV Options Thanks to Tougher Emissions Rules](https://www.wired.com/story/you-may-get-more-ev-options-thanks-to-tougher-epa-emissions-rules/)
+ - [Raspberry Pi raised an undisclosed amount from Sony Semiconductor Solutions at a $500M valuation, the same valuation as its $45M raise in 2021, to work on AI &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230412/p8#a230412p8)
+ - [OpenAI offers bug bounty for ChatGPT — but no rewards for jailbreaking its chatbot](https://www.theverge.com/2023/4/12/23679964/openai-bug-bounty-chatgpt-no-jailbreak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
