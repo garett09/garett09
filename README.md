@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: IBM explores selling its weather unit in a deal that could be valued at $1B+; IBM reportedly paid $2B+ for The Weather Company&#39;s digital assets in 2015 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230412/p32#a230412p32)
- - [Leaked Pentagon Documents May Herald a New Era of Revelations](https://www.wired.com/story/leaked-pentagon-documents-ukraine-discord/)
- - [Filings: SoftBank has sold ~$7.2B worth of Alibaba shares in 2023, reducing its stake in the Chinese company to just 3.8%, after a record $29B selldown in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/230412/p31#a230412p31)<!-- TECH:END -->
+ - [Gig Workers Are Being Stabbed, Stoned, and Abused in India](https://www.wired.com/story/india-gig-workers-violence-deadly-attacks/)
+ - [FTX&#39;s attorneys say the company recovered $7.3B in liquid assets and is considering using creditors&#39; holdings to reopen the exchange; FTX&#39;s FTT token jumps 70%+ &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/230412/p34#a230412p34)
+ - [Google releases Android 14 Beta 1 for Pixel devices, with sharesheet custom actions, a more prominent back arrow, per-app language preferences, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230412/p33#a230412p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
