@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
- - 🚯 [That&#39;s hell of a look](http://9gag.com/gag/abvOPXr)
- - 🚯 [Disney Cinderella after loosing a shoe last night.](http://9gag.com/gag/aWGLVx6)<!-- MEMES:END -->
+ - 🚖 [Ultrasound of a pregnant woman laughing](http://9gag.com/gag/abvONY8)
+ - 🚯 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)
+ - 🚯 [WTF](http://9gag.com/gag/abvOjw8)<!-- MEMES:END -->
 
 --- 
 
