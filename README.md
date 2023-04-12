@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Max is charging more money for 4K, and that means it can’t suck this time](https://www.theverge.com/2023/4/12/23680672/max-hbo-4k-hdr-price-increase)
- - [It’s now just Max: all of the news from Warner Bros. Discovery’s reveal event](https://www.theverge.com/2023/4/12/23680612/max-warner-bros-discovery-streaming-service-reveal-event-hbo)
- - [Game of Thrones is getting another prequel, and its plot sounds very familiar](https://www.theverge.com/2023/4/12/23680681/knight-of-seven-kingdoms-game-of-thrones-prequel)<!-- TECH:END -->
+ - [Grab a MacBook Pro 16-inch for just $869 while supplies last](https://appleinsider.com/articles/23/04/12/grab-a-macbook-pro-16-inch-for-just-869-while-supplies-last?utm_medium=rss)
+ - [Intel and Arm join forces with the intent of toppling Samsung](https://www.androidauthority.com/intel-arm-chips-3312272/)
+ - [Best Over-Ear Headphones for 2023: Wired and Wireless Picks     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
