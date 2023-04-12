@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Renfield sucks all the fun out of What We Do in the Shadows’ formula](https://www.polygon.com/reviews/23679108/renfield-review-nic-cage-nicholas-hoult)
- - [Fight for PS VR2 glory in upcoming Zenith: The Last City PvP mode](https://blog.playstation.com/2023/04/12/fight-for-ps-vr2-glory-in-upcoming-zenith-the-last-city-pvp-mode/)
- - [AMD trash talks Nvidia for not giving gamers enough VRAM](https://www.pcgamer.com/amd-trash-talks-nvidia-for-not-giving-gamers-enough-vram)<!-- GAME:END -->
+ - [Nvidia RTX 4070 Founders Edition](https://www.pcgamer.com/nvidia-rtx-4070-review-benchmarks-performance)
+ - [You can relax, yes there will be a fifth Trine game](https://www.polygon.com/23680038/trine-5-release-date-trailer)
+ - [Some of the first non-bugfix mods for The Last of Us give Joel and Ellie a wardrobe worthy of Hot Topic](https://www.pcgamer.com/some-of-the-first-non-bugfix-mods-for-the-last-of-us-give-joel-and-ellie-a-wardrobe-worthy-of-hot-topic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
