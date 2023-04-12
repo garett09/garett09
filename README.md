@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanos with gauntlet defeated just like that? Really?](http://9gag.com/gag/az2P6Wz)
- - 🚯 [A person with tourette is doing an interview job](http://9gag.com/gag/aoKVv40)
+ - 🚖 [Walgreen&#39;s employee attempts to stop kids from stealing](http://9gag.com/gag/a8qmRrd)
+ - 🚯 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)
  - 🚯 [Disney Cinderella after loosing a shoe last night.](http://9gag.com/gag/aWGLVx6)<!-- MEMES:END -->
 
 --- 
