@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [The European Commission finds Broadcom&#39;s proposed $61B VMware acquisition may restrict competition in the market for some hardware parts, like storage adapters &lpar;Bart Meijer/Reuters&rpar;](http://www.techmeme.com/230412/p25#a230412p25)
- - [The first Android 14 beta is now available for anyone with a Pixel to try](https://www.androidauthority.com/android-14-beta-1-3312020/)<!-- TECH:END -->
+ - [&#39;Max&#39; streaming service combines HBO Max &amp; Discovery+, launches May 23](https://appleinsider.com/articles/23/04/12/max-streaming-service-combines-hbo-max-discovery-launches-may-23?utm_medium=rss)
+ - [The Withings Sleep is the sleep tracker you’ll forget you’re in bed with](https://www.androidauthority.com/withings-sleep-tracking-mat-review-3309461/)
+ - [Xfinity vs. Verizon Fios: Which Should You Choose?     - CNET](https://www.cnet.com/news/comcast-xfinity-vs-verizon-fios/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
