@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IAC and PwC: 2022 US digital ad revenue rose 10.8% YoY to $209.7B, down from 35% growth in 2021; social media ad revenue rose 3.6% YoY, down from ~39% in 2021 &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/230412/p14#a230412p14)
- - [How To Choose the Right Soundbar &lpar;2023&rpar;: Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
- - [PitchBook: global VC funding for crypto startups fell to $2.4B in Q1 2023, down 80% from an all-time high of $12.3B in Q1 2022 and the lowest level since 2020 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/230412/p13#a230412p13)<!-- TECH:END -->
+ - [Filings: FTX lawyers are exploring tax issues around rebooting FTX, billing $13.5M in February for recovering assets, exploring &quot;long-term options&quot;, and more &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230412/p15#a230412p15)
+ - [Pixelmator Photo gets renamed Photomator, adds AI features](https://appleinsider.com/articles/23/04/12/pixelmator-photo-gets-renamed-photomator-adds-ai-features?utm_medium=rss)
+ - [Body Horror in the Age of Instagram Face](https://www.wired.com/story/goopcore-body-horror-age-of-instagram-face/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
