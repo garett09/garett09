@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Walgreen&#39;s employee attempts to stop kids from stealing](http://9gag.com/gag/a8qmRrd)
- - 🚯 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)
- - 🚯 [Disney Cinderella after loosing a shoe last night.](http://9gag.com/gag/aWGLVx6)<!-- MEMES:END -->
+ - 🚖 [A person with tourette is doing an interview job](http://9gag.com/gag/aoKVv40)
+ - 🚯 [This Indian add selling skin whitening cream in 9 seconds.](http://9gag.com/gag/aXnN5Dv)
+ - 🚯 [I had to check it for myself, and it&#39;s true](http://9gag.com/gag/aQEQwQ2)<!-- MEMES:END -->
 
 --- 
 
