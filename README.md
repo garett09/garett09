@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)
- - 🚯 [WTF](http://9gag.com/gag/abvOjw8)
+ - 🚖 [Thanos with gauntlet defeated just like that? Really?](http://9gag.com/gag/az2P6Wz)
+ - 🚯 [A person with tourette is doing an interview job](http://9gag.com/gag/aoKVv40)
  - 🚯 [Disney Cinderella after loosing a shoe last night.](http://9gag.com/gag/aWGLVx6)<!-- MEMES:END -->
 
 --- 
