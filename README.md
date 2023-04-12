@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stopp ! Arr\u00eat ! Detener !](http://9gag.com/gag/aA0Ej2g)
- - 🚯 [For protection](http://9gag.com/gag/a9qvoQK)
+ - 🚖 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)
+ - 🚯 [Jus Cavill things](http://9gag.com/gag/aXnN6Md)
  - 🚯 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)<!-- MEMES:END -->
 
 --- 
