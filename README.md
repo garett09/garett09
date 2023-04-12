@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arkansas Governor Sarah Huckabee Sanders signs a bill requiring that social media companies verify new users&#39; ages and get a parent&#39;s consent for users under 18 &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230412/p30#a230412p30)
- - [&#39;The Super Mario Bros. Movie&#39; Will Be Impossible to Beat](https://www.wired.com/story/super-mario-bros-movie-future-video-games-movies/)
- - [NYC-based Cybersyn, a data-as-a-service startup that aims to make economic data more accessible, emerges from stealth with a $62.9M Series A led by Snowflake &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/230412/p29#a230412p29)<!-- TECH:END -->
+ - [Sources: IBM explores selling its weather unit in a deal that could be valued at $1B+; IBM reportedly paid $2B+ for The Weather Company&#39;s digital assets in 2015 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230412/p32#a230412p32)
+ - [Leaked Pentagon Documents May Herald a New Era of Revelations](https://www.wired.com/story/leaked-pentagon-documents-ukraine-discord/)
+ - [Filings: SoftBank has sold ~$7.2B worth of Alibaba shares in 2023, reducing its stake in the Chinese company to just 3.8%, after a record $29B selldown in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/230412/p31#a230412p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
