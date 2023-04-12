@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modders rejoice! Adding ray tracing classic PC games is going to get a whole easier](https://www.pcgamer.com/modders-rejoice-adding-ray-tracing-classic-pc-games-is-going-to-get-a-whole-easier)
- - [The Elder Scrolls Online – Necrom chapter gameplay revealed](https://blog.playstation.com/2023/04/12/the-elder-scrolls-online-necrom-chapter-gameplay-revealed/)
- - [Here’s What’s Going On With Your Overwatch 2 Rank](https://kotaku.com/overwatch-2-rank-lookup-bug-patch-notes-tracker-1850329833)<!-- GAME:END -->
+ - [Introducing Farworld Pioneers: an Open World, Sci-fi Sandbox](https://news.xbox.com/en-us/2023/04/12/farworld-pioneers-open-world-sci-fi-sandbox/)
+ - [The Tetris Movie Fumbles What&#39;s Actually An Incredible Story](https://kotaku.com/tetris-movie-apple-tv-plus-nintendo-game-boy-1850330135)
+ - [Watch As Dark Souls Players Break The Game’s AI In Stunning Ways](https://kotaku.com/dark-souls-ai-break-speedrun-exploit-equipment-menu-1850330088)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
