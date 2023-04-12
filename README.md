@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Doom Eternal and Wolfenstein lead PS Plus Extra games coming in April](https://www.polygon.com/23680391/playstation-plus-games-april-2023-extra-premium)
- - [Diablo 4 borrows from MMOs but is still about &#39;overpowered builds&#39; and &#39;blowing up screens of monsters&#39;](https://www.pcgamer.com/diablo-4-borrows-from-mmos-but-is-still-about-overpowered-builds-and-blowing-up-screens-of-monsters)
- - [Take a Peek at Slayer, the New Class in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2023/04/12/slayer-new-class-phantasy-star-online-2-new-genesis/)<!-- GAME:END -->
+ - [The Super Mario Bros. Movie made me appreciate Wreck-It Ralph more than ever](https://www.polygon.com/23678966/wreck-it-ralph-appreciation-super-mario-bros-movie)
+ - [Crafting a Replayable Murder Mystery in Murderous Muses](https://news.xbox.com/en-us/2023/04/12/crafting-murderous-muses-on-xbox/)
+ - [You&#39;re a cyberpunk T. Rex using your tiny arms to fix electronics in this &#39;ironic&#39; retro adventure about customer service, time travel, and true love](https://www.pcgamer.com/youre-a-cyberpunk-t-rex-using-your-tiny-arms-to-fix-electronics-in-this-ironic-retro-adventure-about-customer-service-time-travel-and-true-love)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
