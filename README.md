@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance.US plans to delist the TRX token linked to Justin Sun&#39;s Tron from April 18 for failing to meet the expected standard of excellence; TRX drops ~4% &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/230412/p3#a230412p3)
- - [The Massive ‘Batteries’ Hidden Beneath Your Feet](https://www.wired.com/story/the-massive-batteries-hidden-beneath-your-feet/)
- - [A European Space Probe Sets Its Sights on the Jupiter System](https://www.wired.com/story/jupiter-ganymede-moon-probe-juice/)<!-- TECH:END -->
+ - [Sources: a16z, Tiger Global, IVP, and other VCs are touring Saudi Arabia, the UAE, and Qatar to build ties with sovereign wealth funds during the funding crunch &lpar;Financial Times&rpar;](http://www.techmeme.com/230412/p6#a230412p6)
+ - [Found a bug in ChatGPT? OpenAI will now pay you for it.](https://www.androidauthority.com/chatgpt-bug-bounty-program-3311821/)
+ - [In a Twitter Space, Elon Musk said Twitter is roughly breaking even, the company will tweak the state-affiliated media tag, most advertisers are back, and more &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/230412/p5#a230412p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
