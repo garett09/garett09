@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a regular dad with his 6 daughters, at least he tried multiple times.](http://9gag.com/gag/a1PDzB2)
- - 🚯 [So bad, so tragic, my condolences](http://9gag.com/gag/avQeYEq)
- - 🚯 [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)<!-- MEMES:END -->
+ - 🚖 [This guy just hit a once in a lifetime shot in CSGO An AWP ace with 1 bullet\u2026 5 kills with 1 shot. Literally can\u2019t believe this is real](http://9gag.com/gag/az2PWwq)
+ - 🚯 [She just knows](http://9gag.com/gag/aZDw6A3)
+ - 🚯 [Just imagine our ancestors seeing this.](http://9gag.com/gag/a4ozO6Q)<!-- MEMES:END -->
 
 --- 
 
