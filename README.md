@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia RTX 4070 Founders Edition](https://www.pcgamer.com/nvidia-rtx-4070-review-benchmarks-performance)
- - [You can relax, yes there will be a fifth Trine game](https://www.polygon.com/23680038/trine-5-release-date-trailer)
- - [Some of the first non-bugfix mods for The Last of Us give Joel and Ellie a wardrobe worthy of Hot Topic](https://www.pcgamer.com/some-of-the-first-non-bugfix-mods-for-the-last-of-us-give-joel-and-ellie-a-wardrobe-worthy-of-hot-topic)<!-- GAME:END -->
+ - [Total War: Warhammer 3’s evil dwarfs turned me into Succession’s Roy family](https://www.polygon.com/reviews/23679230/forge-of-the-chaos-dwarfs-review-total-war-warhammer-3-release-date)
+ - [Total War: Warhammer 3 Forge of the Chaos Dwarfs is the fantasy gun-running simulator I never knew I needed](https://www.pcgamer.com/total-war-warhammer-3-forge-of-the-chaos-dwarfs-is-the-fantasy-gun-running-simulator-i-never-knew-i-needed)
+ - [9 tips to forge a Chaos Dwarf empire in Total War: Warhammer 3](https://www.pcgamer.com/total-war-warhammer-3-chaos-dwarfs-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
