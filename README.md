@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring’s Hidetaka Miyazaki makes Time 100 most influential list](https://www.polygon.com/23681963/elden-ring-hidetaka-miyazaki-time-100-list-2023)
- - [Genshin Impact ‘Somalata Inland Sea’ domain guide](https://www.polygon.com/genshin-impact-guides/23681701/somalata-inland-sea-domain-location-unlock-patch-3-6)
- - [How Immortals of Aveum Melds Modern With Magic to Forge a Unique New FPS](https://news.xbox.com/en-us/2023/04/13/immortals-of-aveum-preview/)<!-- GAME:END -->
+ - [Suzume works so well as a romance because Makoto Shinkai tried not to make it a romance](https://www.polygon.com/23681072/makoto-shinkai-suzume-your-name-anime-romance)
+ - [Free Play Days – Them’s Fightin’ Herds and Payday 2: Crimewave Edition](https://news.xbox.com/en-us/2023/04/13/free-play-days-thems-fightin-herds-and-payday-2-crimewave-edition/)
+ - [Idea for your next build? Someone stuffed a gaming PC inside an old Sony Trinitron CRT monitor](https://www.pcgamer.com/idea-for-your-next-build-someone-stuffed-a-gaming-pc-inside-an-old-sony-trinitron-crt-monitor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
