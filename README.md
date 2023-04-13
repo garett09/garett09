@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She just knows](http://9gag.com/gag/aZDw6A3)
- - 🚯 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
- - 🚯 [Drunk stepfather picks a fight while stepson is streaming](http://9gag.com/gag/a04VApL)<!-- MEMES:END -->
+ - 🚖 [Guy spends 2 years destroying disabled neighbours ring doorbells](http://9gag.com/gag/aEqVeGe)
+ - 🚯 [Sometimes they do](http://9gag.com/gag/aWGnQgZ)
+ - 🚯 [That&#39;s hell of a look](http://9gag.com/gag/abvOPXr)<!-- MEMES:END -->
 
 --- 
 
