@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Indian add selling skin whitening cream in 9 seconds.](http://9gag.com/gag/aXnN5Dv)
+ - 🚖 [Ahh the hypocrisy](http://9gag.com/gag/awZmRnD)
  - 🚯 [One of the worst ways to get caught cheating](http://9gag.com/gag/aoKRzL2)
  - 🚯 [That&#39;s hell of a look](http://9gag.com/gag/abvOPXr)<!-- MEMES:END -->
 
