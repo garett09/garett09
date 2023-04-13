@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paywalling dark mode? In this economy? Allegedly, Snapchat is working on it.](https://www.androidauthority.com/snapchat-dark-mode-3312618/)
- - [Sources: SFPD arrested tech executive Nima Momeni for Bob Lee&#39;s killing; Momeni and Lee purportedly knew each other and were driving together before the killing &lpar;Joe Eskenazi/Mission Local&rpar;](http://www.techmeme.com/230413/p20#a230413p20)
- - [Apple Savings is expected to finally launch on April 17](https://appleinsider.com/articles/23/04/13/apple-savings-is-expected-to-finally-launch-on-april-17?utm_medium=rss)<!-- TECH:END -->
+ - [Ukraine’s Quest for Homegrown AI Drones to Take On Russia](https://www.wired.com/story/fast-forward-ukraines-quest-for-homegrown-ai-drones-to-take-on-russia/)
+ - [Tears of the Kingdom is still shrouded in mystery, and that’s just the way I like it](https://www.theverge.com/23681825/the-legend-of-zelda-tears-of-the-kingdom-mystery)
+ - [Why classic gaming names like Atari and MapleStory are still going in on the blockchain](https://www.theverge.com/23680785/retro-gaming-atari-maplestory-blockchain)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
