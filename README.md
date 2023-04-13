@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a regular dad with his 6 daughters, at least he tried multiple times.](http://9gag.com/gag/a1PDzB2)
- - 🚯 [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)
- - 🚯 [The Turnaround...](http://9gag.com/gag/aqe6mKv)<!-- MEMES:END -->
+ - 🚖 [WTF](http://9gag.com/gag/abvOjw8)
+ - 🚯 [Service dog rushes to help owner during medical episode](http://9gag.com/gag/aNwQZDv)
+ - 🚯 [I need you](http://9gag.com/gag/a3Z0dm8)<!-- MEMES:END -->
 
 --- 
 
