@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whoever written script for the demolition man should get a honorary degree in futurology](http://9gag.com/gag/aVbKzyO)
- - 🚯 [Hold this, I&#39;ll bring him back](http://9gag.com/gag/amA6qvv)
- - 🚯 [Nothing to see here](http://9gag.com/gag/a9q5j30)<!-- MEMES:END -->
+ - 🚖 [Great now he\u2019s going to mansplaining firing a gun.](http://9gag.com/gag/a8qmPZO)
+ - 🚯 [Guy spends 2 years destroying disabled neighbours ring doorbells](http://9gag.com/gag/aEqVeGe)
+ - 🚯 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)<!-- MEMES:END -->
 
 --- 
 
