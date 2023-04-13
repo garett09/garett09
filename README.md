@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A teenage member of the Discord server where classified Pentagon documents were shared claims the leaker, who went by the name &quot;OG&quot;, worked on a military base &lpar;Washington Post&rpar;](http://www.techmeme.com/230412/p37#a230412p37)
- - [Italy outlines compliance demands for lifting ChatGPT suspension order, requiring OpenAI to publish info about its data processing, adopt age gating, and more &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230412/p36#a230412p36)
- - [Deal: Save 70% on the award-winning Luminar Neo bundle](https://www.androidauthority.com/luminar-neo-bundle-deal-3293991/)<!-- TECH:END -->
+ - [The fight for a Montana bill to ban TikTok, which passed in the Senate and will likely pass in the House, previews the legally perilous road for a federal push &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/230413/p1#a230413p1)
+ - [A study finds that assigning ChatGPT a persona, like &quot;a bad person&quot; or a certain historical figure, using the API, increases the chatbot&#39;s toxicity sixfold &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230412/p39#a230412p39)
+ - [&#39;Apple Glasses&#39; reportedly launching in 2026 or 2027 at the earliest](https://appleinsider.com/articles/23/04/13/apple-glasses-reportedly-launching-in-2026-or-2027-at-the-earliest?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
