@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Flashbulb Games Takes Trailmakers to the Skies with Airborne DLC](https://news.xbox.com/en-us/2023/04/13/trailmakers-takes-to-the-skies-with-airborne-dlc/)
- - [8 &#39;Oh Snap&#39; Details In Zelda: Tears of The Kingdom&#39;s Final Gameplay Trailer](https://kotaku.com/zelda-tears-kingdom-ganondorf-release-date-trailer-1850332891)
- - [Space FPS Boundary puts Sir Isaac Newton in the gunnery chair](https://www.polygon.com/23681671/boundary-space-fps-early-access-steam)<!-- GAME:END -->
+ - [How to reach sky islands in The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23660050/how-to-reach-sky-islands)
+ - [Suicide Squad: Kill the Justice League is delayed to 2024](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-is-delayed-to-2024)
+ - [Suicide Squad: Kill the Justice League delayed into 2024](https://www.polygon.com/23682378/suicide-squad-kill-justice-league-delayed-new-release-date-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
