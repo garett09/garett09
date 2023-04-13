@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 22 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [How to keep Otter from automatically recording your meetings](https://www.theverge.com/23660324/otter-record-transcribe-how-to-stop)
- - [Sony Xperia 1 V: Everything we know so far and what we want to see](https://www.androidauthority.com/sony-xperia-1-v-release-date-rumors-specs-price-leaks-3277153/)<!-- TECH:END -->
+ - [Q&amp;A with Substack CEO Chris Best about Notes, asking for investment without sharing financial details, and more, as he evades some content moderation questions &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230413/p26#a230413p26)
+ - [Chrome update makes browser 30% faster on high-end devices, but with a catch](https://www.androidauthority.com/chrome-browser-update-3312764/)
+ - [Google Chat is getting a new look to match Docs, Sheets, and Gmail](https://www.theverge.com/2023/4/13/23682345/google-chat-new-look-material-3-design)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
