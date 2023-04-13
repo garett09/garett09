@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanos with gauntlet defeated just like that? Really?](http://9gag.com/gag/az2P6Wz)
- - 🚯 [Guy spends 2 years destroying disabled neighbours ring doorbells](http://9gag.com/gag/aEqVeGe)
- - 🚯 [This Indian add selling skin whitening cream in 9 seconds.](http://9gag.com/gag/aXnN5Dv)<!-- MEMES:END -->
+ - 🚖 [I9-12900 with liquid cooling and OC, quad RTX 4090, 64 GB of RAM, direct plug NVMe SSD, 4k monitor and 300$ mechanical keyboard... I am impressed that guy only took a week](http://9gag.com/gag/aqe649v)
+ - 🚯 [Hold this, I&#39;ll bring him back](http://9gag.com/gag/amA6qvv)
+ - 🚯 [Me too me too son](http://9gag.com/gag/a6q5mxR)<!-- MEMES:END -->
 
 --- 
 
