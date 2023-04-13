@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I9-12900 with liquid cooling and OC, quad RTX 4090, 64 GB of RAM, direct plug NVMe SSD, 4k monitor and 300$ mechanical keyboard... I am impressed that guy only took a week](http://9gag.com/gag/aqe649v)
+ - 🚖 [Whoever written script for the demolition man should get a honorary degree in futurology](http://9gag.com/gag/aVbKzyO)
  - 🚯 [Hold this, I&#39;ll bring him back](http://9gag.com/gag/amA6qvv)
- - 🚯 [Me too me too son](http://9gag.com/gag/a6q5mxR)<!-- MEMES:END -->
+ - 🚯 [Nothing to see here](http://9gag.com/gag/a9q5j30)<!-- MEMES:END -->
 
 --- 
 
