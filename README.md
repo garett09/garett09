@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Substack CEO Chris Best about Notes, asking for investment without sharing financial details, and more, as he evades some content moderation questions &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230413/p26#a230413p26)
- - [Chrome update makes browser 30% faster on high-end devices, but with a catch](https://www.androidauthority.com/chrome-browser-update-3312764/)
- - [Google Chat is getting a new look to match Docs, Sheets, and Gmail](https://www.theverge.com/2023/4/13/23682345/google-chat-new-look-material-3-design)<!-- TECH:END -->
+ - [National Guard member arrested for leaking classified documents on Discord](https://www.theverge.com/2023/4/13/23682097/discord-leak-national-guard-classified-documents)
+ - [The best Cricket Wireless deals: Get a free Moto G Stylus 5G &lpar;2022&rpar;](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
+ - [EA shares new trailer for its single-player shooter with magic spells](https://www.theverge.com/2023/4/13/23682477/ea-immortals-of-aveum-single-player-shooter-magic-spells-originals-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
