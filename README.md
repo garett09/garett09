@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance is offering to pay developers who made VR apps for Meta to bring them to its Pico headsets, paying between $15K and $25K per title &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230413/p12#a230413p12)
- - [The Xiaomi 13 Ultra could solve a big issue with one-inch cameras](https://www.androidauthority.com/xiaomi-13-ultra-variable-aperture-3312463/)
- - [Taiwan Ministry of Finance data: chipmaking machine exports to the US rose 42.6% YoY to $71.3M in March 2023, while exports to China dropped 33.7% YoY &lpar;Yoshihiro Sato/Bloomberg&rpar;](http://www.techmeme.com/230413/p11#a230413p11)<!-- TECH:END -->
+ - [How the US is making arrests and seizing crypto funds, like James Zhong&#39;s 50K+ bitcoin, using Chainalysis and other tools to identify criminals via transactions &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/230413/p14#a230413p14)
+ - [Apple Savings launch is imminent after signs of life spotted in code](https://appleinsider.com/articles/23/04/13/apple-savings-launch-is-imminent-after-becoming-active-on-the-backend?utm_medium=rss)
+ - [Apple has moved 7% of all iPhone production to India, well ahead of schedule](https://appleinsider.com/articles/23/04/13/apple-has-moved-7-of-all-iphone-production-to-india-well-ahead-of-schedule?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
