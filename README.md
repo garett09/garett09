@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This... now this is infuriating](http://9gag.com/gag/armXeo5)
- - 🚯 [Blind date was a great show, just like cheaters.](http://9gag.com/gag/a0409wL)
- - 🚯 [This Indian add selling skin whitening cream in 9 seconds.](http://9gag.com/gag/aXnN5Dv)<!-- MEMES:END -->
+ - 🚖 [WTF](http://9gag.com/gag/abvOjw8)
+ - 🚯 [She&#39;s gotta be joking](http://9gag.com/gag/a8q0WBO)
+ - 🚯 [Great now he\u2019s going to mansplaining firing a gun.](http://9gag.com/gag/a8qmPZO)<!-- MEMES:END -->
 
 --- 
 
