@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Updated SwiftKey keyboard update gives access to Microsoft&#39;s new Bing AI inside any app](https://appleinsider.com/articles/23/04/13/updated-swiftkey-keyboard-update-gives-access-to-microsofts-new-bing-ai-inside-any-app?utm_medium=rss)
- - [Twitter is rebranding Super Follows to Subscriptions](https://www.theverge.com/2023/4/13/23682184/twitter-super-follows-subscriptions-rebranding)
- - [Valve’s Steam Deck: all the news about the new gaming handheld](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)<!-- TECH:END -->
+ - [The 22 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [How to keep Otter from automatically recording your meetings](https://www.theverge.com/23660324/otter-record-transcribe-how-to-stop)
+ - [Sony Xperia 1 V: Everything we know so far and what we want to see](https://www.androidauthority.com/sony-xperia-1-v-release-date-rumors-specs-price-leaks-3277153/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
