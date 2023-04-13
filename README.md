@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bandai Namco games are coming to GeForce Now. But no, not Elden Ring](https://www.pcgamer.com/bandai-namco-games-are-coming-to-geforce-now-but-no-not-elden-ring)
- - [The Nvidia RTX 4070 is now available. Here’s where you can buy one](https://www.polygon.com/deals/23680684/rtx-4070-nvidia-where-to-buy-best-buy-newegg)
- - [Where to find the Knight V EUC in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-knight-v-euc-locations)<!-- GAME:END -->
+ - [Here&#39;s Zelda: Tears of the Kingdom&#39;s Final Epic Gameplay Trailer Before Release](https://kotaku.com/zelda-tears-of-the-kingdom-final-trailer-switch-release-1850331967)
+ - [Gundam Evolution Season 4 is Dropping a New Game Mode, Character, and Map – Here Are Some Tips to Get You Started](https://news.xbox.com/en-us/2023/04/13/gundam-evolution-season-4-new-game-mode-character-and-map-plus-tips/)
+ - [Watch the final Zelda: Tears of the Kingdom trailer](https://www.polygon.com/23680230/zelda-tears-of-the-kingdom-final-trailer-nintendo-direct)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
