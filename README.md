@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great now he\u2019s going to mansplaining firing a gun.](http://9gag.com/gag/a8qmPZO)
- - 🚯 [Guy spends 2 years destroying disabled neighbours ring doorbells](http://9gag.com/gag/aEqVeGe)
- - 🚯 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)<!-- MEMES:END -->
+ - 🚖 [This Indian add selling skin whitening cream in 9 seconds.](http://9gag.com/gag/aXnN5Dv)
+ - 🚯 [One of the worst ways to get caught cheating](http://9gag.com/gag/aoKRzL2)
+ - 🚯 [That&#39;s hell of a look](http://9gag.com/gag/abvOPXr)<!-- MEMES:END -->
 
 --- 
 
