@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Socially awkward Miyamoto](http://9gag.com/gag/ago7rqv)
- - 🚯 [Any muricans or brits here?](http://9gag.com/gag/ajVLrrR)
- - 🚯 [Today marks exactly 38 years since the day when during a parade of Swedish neo-Nazis in V\u00e4xj\u00f6, Danuta Danielsson, a Polish immigrant whose mother survived Majdanek, hit that stupid Nazi head with her handbag.](http://9gag.com/gag/aZD8WrQ)<!-- MEMES:END -->
+ - 🚖 [Any muricans or brits here?](http://9gag.com/gag/ajVLrrR)
+ - 🚯 [Best decision ever](http://9gag.com/gag/aVbKOpK)
+ - 🚯 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)<!-- MEMES:END -->
 
 --- 
 
