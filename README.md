@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Podcast Is Not Hosted By AI Voice Clones. We Swear](https://www.wired.com/story/gadget-lab-podcast-594/)
- - [Eero Pro 6E Review: Smart Home and Family Friendly](https://www.wired.com/review/eero-pro-6e/)
- - [Discord says it is cooperating with US law enforcement&#39;s investigation into the classified material breach &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/230413/p15#a230413p15)<!-- TECH:END -->
+ - [Filing: Amazon paid Andy Jassy $1.3M in 2022, after awarding him a $200M+ stock grant in 2021; Jassy talks efficiency, ads, LLMs, and more in his annual letter &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/230413/p18#a230413p18)
+ - [Mac survey says 80% of developers have or will integrate ChatGPT](https://appleinsider.com/articles/23/04/13/mac-survey-says-80-of-developers-have-or-will-integrate-chatgpt?utm_medium=rss)
+ - [Twitch CEO Dan Clancy defends cutting 400 employees, saying the move was vital to keep the service viable, and plans to meet with creators to allay their fears &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230413/p17#a230413p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
