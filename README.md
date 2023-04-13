@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Live: Where to buy the Nvidia RTX 4070 today](https://www.pcgamer.com/news/live/rtx-4070-where-to-buy)
- - [Nvidia&#39;s RTX 4070 is out but what about AMD&#39;s response?](https://www.pcgamer.com/nvidias-rtx-4070-is-out-but-what-about-amds-response)
- - [The hot seat: AutoFull gaming chairs offer esports-grade quality](https://www.pcgamer.com/the-hot-seat-autofull-gaming-chairs-offer-esports-grade-quality)<!-- GAME:END -->
+ - [Bandai Namco games are coming to GeForce Now. But no, not Elden Ring](https://www.pcgamer.com/bandai-namco-games-are-coming-to-geforce-now-but-no-not-elden-ring)
+ - [The Nvidia RTX 4070 is now available. Here’s where you can buy one](https://www.polygon.com/deals/23680684/rtx-4070-nvidia-where-to-buy-best-buy-newegg)
+ - [Where to find the Knight V EUC in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-knight-v-euc-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
