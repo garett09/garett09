@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Meta open sources Animated Drawings, an AI project that turns doodles into animations, with a dataset of nearly 180K drawings &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230413/p28#a230413p28)
- - [12 Top New Android 14 Features &lpar;2023&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-14-and-features/)<!-- TECH:END -->
+ - [Here’s a collection of gifts you can give mom no matter the occasion](https://www.theverge.com/22899871/best-gifts-mom-tech-gadgets-ideas-christmas-birthday-mothers-valentines-day)
+ - [Abortion Pill-by-Mail Providers Aren&#39;t Going Anywhere](https://www.wired.com/story/telehealth-abortion-pill-access-court-decision/)
+ - [In Final Fantasy XVI, you can command the dog &lpar;and a whole lot more&rpar;](https://www.theverge.com/23680770/final-fantasy-16-gameplay-april-sony-state-of-play)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
