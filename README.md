@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Expectation vs Reality](http://9gag.com/gag/aXnND0V)
- - 🚯 [Understanding women 101](http://9gag.com/gag/aA0KBER)
- - 🚯 [Hold this, I&#39;ll bring him back](http://9gag.com/gag/amA6qvv)<!-- MEMES:END -->
+ - 🚖 [She just knows](http://9gag.com/gag/aZDw6A3)
+ - 🚯 [The Reason We Don&#39;t Cover The Sahara In Solar Panels](http://9gag.com/gag/a6q90e9)
+ - 🚯 [Drunk stepfather picks a fight while stepson is streaming](http://9gag.com/gag/a04VApL)<!-- MEMES:END -->
 
 --- 
 
