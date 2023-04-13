@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to reach sky islands in The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23660050/how-to-reach-sky-islands)
- - [Suicide Squad: Kill the Justice League is delayed to 2024](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-is-delayed-to-2024)
- - [Suicide Squad: Kill the Justice League delayed into 2024](https://www.polygon.com/23682378/suicide-squad-kill-justice-league-delayed-new-release-date-2024)<!-- GAME:END -->
+ - [Watch Sony’s new State of Play all about Final Fantasy 16](https://www.polygon.com/23679446/sony-state-of-play-april-date-time-final-fantasy-16-ps5)
+ - [This modder is making the coolest keyboard ever by putting little OLED screens in the keycaps](https://www.pcgamer.com/this-modder-is-making-the-coolest-keyboard-ever-by-putting-little-oled-screens-in-the-keycaps)
+ - [The Oregon Trail horror movie actually looks pretty good, or at least pretty fun](https://www.polygon.com/23682478/organ-trail-horror-movie-oregon-silly)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
