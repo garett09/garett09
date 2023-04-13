@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF](http://9gag.com/gag/abvOjw8)
- - 🚯 [One of the worst ways to get caught cheating](http://9gag.com/gag/aoKRzL2)
- - 🚯 [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)<!-- MEMES:END -->
+ - 🚖 [She&#39;s gotta be joking](http://9gag.com/gag/a8q0WBO)
+ - 🚯 [Drunk stepfather picks a fight while stepson is streaming](http://9gag.com/gag/a04VApL)
+ - 🚯 [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)<!-- MEMES:END -->
 
 --- 
 
