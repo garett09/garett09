@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ahh the hypocrisy](http://9gag.com/gag/awZmRnD)
- - 🚯 [One of the worst ways to get caught cheating](http://9gag.com/gag/aoKRzL2)
- - 🚯 [That&#39;s hell of a look](http://9gag.com/gag/abvOPXr)<!-- MEMES:END -->
+ - 🚖 [She&#39;s gotta be joking](http://9gag.com/gag/a8q0WBO)
+ - 🚯 [Guy spends 2 years destroying disabled neighbours ring doorbells](http://9gag.com/gag/aEqVeGe)
+ - 🚯 [Disney Cinderella after loosing a shoe last night.](http://9gag.com/gag/aWGLVx6)<!-- MEMES:END -->
 
 --- 
 
