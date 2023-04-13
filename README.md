@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [National Guard member arrested for leaking classified documents on Discord](https://www.theverge.com/2023/4/13/23682097/discord-leak-national-guard-classified-documents)
- - [The best Cricket Wireless deals: Get a free Moto G Stylus 5G &lpar;2022&rpar;](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
- - [EA shares new trailer for its single-player shooter with magic spells](https://www.theverge.com/2023/4/13/23682477/ea-immortals-of-aveum-single-player-shooter-magic-spells-originals-release-date)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [Meta open sources Animated Drawings, an AI project that turns doodles into animations, with a dataset of nearly 180K drawings &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230413/p28#a230413p28)
+ - [12 Top New Android 14 Features &lpar;2023&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-14-and-features/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
