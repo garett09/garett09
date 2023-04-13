@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#39;s gotta be joking](http://9gag.com/gag/a8q0WBO)
- - 🚯 [Guy spends 2 years destroying disabled neighbours ring doorbells](http://9gag.com/gag/aEqVeGe)
- - 🚯 [Disney Cinderella after loosing a shoe last night.](http://9gag.com/gag/aWGLVx6)<!-- MEMES:END -->
+ - 🚖 [Socially awkward Miyamoto](http://9gag.com/gag/ago7rqv)
+ - 🚯 [Any muricans or brits here?](http://9gag.com/gag/ajVLrrR)
+ - 🚯 [Today marks exactly 38 years since the day when during a parade of Swedish neo-Nazis in V\u00e4xj\u00f6, Danuta Danielsson, a Polish immigrant whose mother survived Majdanek, hit that stupid Nazi head with her handbag.](http://9gag.com/gag/aZD8WrQ)<!-- MEMES:END -->
 
 --- 
 
