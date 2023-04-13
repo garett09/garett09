@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to shut Currents, its Google+ replacement for G Suite launched in 2019, on August 8 so users don&#39;t have to work in a &quot;separate, siloed destination&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230413/p9#a230413p9)
- - [Ethereum successfully completes its Shanghai, or Shapella update, letting users withdraw staked ether tokens; ~1.2M ETH are expected to be withdrawn in a week &lpar;Bloomberg&rpar;](http://www.techmeme.com/230413/p8#a230413p8)
- - [A look at researchers&#39; use of deep neural networks to examine historical documents and the risks, such as models slipping bias or falsifications into records &lpar;Moira Donovan/MIT Technology Review&rpar;](http://www.techmeme.com/230413/p7#a230413p7)<!-- TECH:END -->
+ - [Sources: ByteDance is offering to pay developers who made VR apps for Meta to bring them to its Pico headsets, paying between $15K and $25K per title &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230413/p12#a230413p12)
+ - [The Xiaomi 13 Ultra could solve a big issue with one-inch cameras](https://www.androidauthority.com/xiaomi-13-ultra-variable-aperture-3312463/)
+ - [Taiwan Ministry of Finance data: chipmaking machine exports to the US rose 42.6% YoY to $71.3M in March 2023, while exports to China dropped 33.7% YoY &lpar;Yoshihiro Sato/Bloomberg&rpar;](http://www.techmeme.com/230413/p11#a230413p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
