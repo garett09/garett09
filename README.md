@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The fight for a Montana bill to ban TikTok, which passed in the Senate and will likely pass in the House, previews the legally perilous road for a federal push &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/230413/p1#a230413p1)
- - [A study finds that assigning ChatGPT a persona, like &quot;a bad person&quot; or a certain historical figure, using the API, increases the chatbot&#39;s toxicity sixfold &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230412/p39#a230412p39)
- - [&#39;Apple Glasses&#39; reportedly launching in 2026 or 2027 at the earliest](https://appleinsider.com/articles/23/04/13/apple-glasses-reportedly-launching-in-2026-or-2027-at-the-earliest?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel 7 warranty and returns: Your complete guide](https://www.androidauthority.com/google-pixel-7-warranty-return-policy-3312412/)
+ - [A look at Argentinian crypto company Generaci&amp;oacute;n Zoe and its pastor founder Leonardo Cositorto, who is accused of a $120M+ Zoe Cash investment scam &lpar;Facundo Iglesia/Rest of World&rpar;](http://www.techmeme.com/230413/p2#a230413p2)
+ - [The fight for a Montana bill to ban TikTok, which passed in the Senate and will likely pass in the House, previews the legally perilous road for a federal push &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/230413/p1#a230413p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
