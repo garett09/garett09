@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey says 80% of Mac developers will integrate ChatGPT soon](https://appleinsider.com/articles/23/04/13/mac-survey-says-80-of-developers-have-or-will-integrate-chatgpt?utm_medium=rss)
- - [Adventure game &#39;Lego Bricktales&#39; is coming to iPhone &amp; iPad on April 27](https://appleinsider.com/articles/23/04/13/adventure-game-lego-bricktales-is-coming-to-iphone-ipad-on-april-27?utm_medium=rss)
- - [8 Best Electric Scooters &lpar;2023&rpar;: Affordable, Lightweight, Long-Range, Fast](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
+ - [Paywalling dark mode? In this economy? Allegedly, Snapchat is working on it.](https://www.androidauthority.com/snapchat-dark-mode-3312618/)
+ - [Sources: SFPD arrested tech executive Nima Momeni for Bob Lee&#39;s killing; Momeni and Lee purportedly knew each other and were driving together before the killing &lpar;Joe Eskenazi/Mission Local&rpar;](http://www.techmeme.com/230413/p20#a230413p20)
+ - [Apple Savings is expected to finally launch on April 17](https://appleinsider.com/articles/23/04/13/apple-savings-is-expected-to-finally-launch-on-april-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
