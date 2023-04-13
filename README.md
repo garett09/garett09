@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suzume works so well as a romance because Makoto Shinkai tried not to make it a romance](https://www.polygon.com/23681072/makoto-shinkai-suzume-your-name-anime-romance)
- - [Free Play Days – Them’s Fightin’ Herds and Payday 2: Crimewave Edition](https://news.xbox.com/en-us/2023/04/13/free-play-days-thems-fightin-herds-and-payday-2-crimewave-edition/)
- - [Idea for your next build? Someone stuffed a gaming PC inside an old Sony Trinitron CRT monitor](https://www.pcgamer.com/idea-for-your-next-build-someone-stuffed-a-gaming-pc-inside-an-old-sony-trinitron-crt-monitor)<!-- GAME:END -->
+ - [Flashbulb Games Takes Trailmakers to the Skies with Airborne DLC](https://news.xbox.com/en-us/2023/04/13/trailmakers-takes-to-the-skies-with-airborne-dlc/)
+ - [8 &#39;Oh Snap&#39; Details In Zelda: Tears of The Kingdom&#39;s Final Gameplay Trailer](https://kotaku.com/zelda-tears-kingdom-ganondorf-release-date-trailer-1850332891)
+ - [Space FPS Boundary puts Sir Isaac Newton in the gunnery chair](https://www.polygon.com/23681671/boundary-space-fps-early-access-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
