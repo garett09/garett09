@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA&#39;s new battlemage FPS had me at &#39;25-hour singleplayer campaign&#39;](https://www.pcgamer.com/eas-new-battlemage-fps-had-me-at-25-hour-singleplayer-campaign)
- - [How Vampire Survivors Was Rebuilt for Xbox Without Players Even Noticing](https://news.xbox.com/en-us/2023/04/13/vampire-survivors-dlc-2-launch/)
- - [Here’s what ‘Call of Duty, but with magic’ looks like in action](https://www.polygon.com/23679472/immortals-of-aveum-release-date-preview-fps-magic)<!-- GAME:END -->
+ - [Elden Ring’s Hidetaka Miyazaki makes Time 100 most influential list](https://www.polygon.com/23681963/elden-ring-hidetaka-miyazaki-time-100-list-2023)
+ - [Genshin Impact ‘Somalata Inland Sea’ domain guide](https://www.polygon.com/genshin-impact-guides/23681701/somalata-inland-sea-domain-location-unlock-patch-3-6)
+ - [How Immortals of Aveum Melds Modern With Magic to Forge a Unique New FPS](https://news.xbox.com/en-us/2023/04/13/immortals-of-aveum-preview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
