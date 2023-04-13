@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Amazon paid Andy Jassy $1.3M in 2022, after awarding him a $200M+ stock grant in 2021; Jassy talks efficiency, ads, LLMs, and more in his annual letter &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/230413/p18#a230413p18)
- - [Mac survey says 80% of developers have or will integrate ChatGPT](https://appleinsider.com/articles/23/04/13/mac-survey-says-80-of-developers-have-or-will-integrate-chatgpt?utm_medium=rss)
- - [Twitch CEO Dan Clancy defends cutting 400 employees, saying the move was vital to keep the service viable, and plans to meet with creators to allay their fears &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230413/p17#a230413p17)<!-- TECH:END -->
+ - [Survey says 80% of Mac developers will integrate ChatGPT soon](https://appleinsider.com/articles/23/04/13/mac-survey-says-80-of-developers-have-or-will-integrate-chatgpt?utm_medium=rss)
+ - [Adventure game &#39;Lego Bricktales&#39; is coming to iPhone &amp; iPad on April 27](https://appleinsider.com/articles/23/04/13/adventure-game-lego-bricktales-is-coming-to-iphone-ipad-on-april-27?utm_medium=rss)
+ - [8 Best Electric Scooters &lpar;2023&rpar;: Affordable, Lightweight, Long-Range, Fast](https://www.wired.com/gallery/best-electric-scooters/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
