@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ultrasound of a pregnant woman laughing](http://9gag.com/gag/abvONY8)
- - 🚯 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)
- - 🚯 [WTF](http://9gag.com/gag/abvOjw8)<!-- MEMES:END -->
+ - 🚖 [Pretty much](http://9gag.com/gag/aXnVZmD)
+ - 🚯 [Understanding women 101](http://9gag.com/gag/aA0KBER)
+ - 🚯 [Hold this, I&#39;ll bring him back](http://9gag.com/gag/amA6qvv)<!-- MEMES:END -->
 
 --- 
 
