@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
- - [Firewall Ultra hands-on report: first gameplay details on the PS VR2 shooter](https://blog.playstation.com/2023/04/13/firewall-ultra-hands-on-report-first-gameplay-details-on-the-ps-vr2-shooter/)
- - [Ubisoft+ Multi Access Available Now on Xbox](https://news.xbox.com/en-us/2023/04/13/ubisoft-plus-multi-access-xbox/)<!-- GAME:END -->
+ - [EA&#39;s new battlemage FPS had me at &#39;25-hour singleplayer campaign&#39;](https://www.pcgamer.com/eas-new-battlemage-fps-had-me-at-25-hour-singleplayer-campaign)
+ - [How Vampire Survivors Was Rebuilt for Xbox Without Players Even Noticing](https://news.xbox.com/en-us/2023/04/13/vampire-survivors-dlc-2-launch/)
+ - [Here’s what ‘Call of Duty, but with magic’ looks like in action](https://www.polygon.com/23679472/immortals-of-aveum-release-date-preview-fps-magic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
