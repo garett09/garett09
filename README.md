@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the US is making arrests and seizing crypto funds, like James Zhong&#39;s 50K+ bitcoin, using Chainalysis and other tools to identify criminals via transactions &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/230413/p14#a230413p14)
- - [Apple Savings launch is imminent after signs of life spotted in code](https://appleinsider.com/articles/23/04/13/apple-savings-launch-is-imminent-after-becoming-active-on-the-backend?utm_medium=rss)
- - [Apple has moved 7% of all iPhone production to India, well ahead of schedule](https://appleinsider.com/articles/23/04/13/apple-has-moved-7-of-all-iphone-production-to-india-well-ahead-of-schedule?utm_medium=rss)<!-- TECH:END -->
+ - [This Podcast Is Not Hosted By AI Voice Clones. We Swear](https://www.wired.com/story/gadget-lab-podcast-594/)
+ - [Eero Pro 6E Review: Smart Home and Family Friendly](https://www.wired.com/review/eero-pro-6e/)
+ - [Discord says it is cooperating with US law enforcement&#39;s investigation into the classified material breach &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/230413/p15#a230413p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
