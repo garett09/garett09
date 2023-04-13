@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [WTF](http://9gag.com/gag/abvOjw8)
- - 🚯 [She&#39;s gotta be joking](http://9gag.com/gag/a8q0WBO)
- - 🚯 [Great now he\u2019s going to mansplaining firing a gun.](http://9gag.com/gag/a8qmPZO)<!-- MEMES:END -->
+ - 🚯 [One of the worst ways to get caught cheating](http://9gag.com/gag/aoKRzL2)
+ - 🚯 [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)<!-- MEMES:END -->
 
 --- 
 
