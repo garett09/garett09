@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to roll out Windows 11 to HoloLens 2 for free, improving app performance and letting developers integrate web technologies into native apps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230413/p23#a230413p23)
- - [Is Substack Notes a ‘Twitter clone’? We asked CEO Chris Best.](https://www.theverge.com/23681875/substack-notes-twitter-elon-musk-content-moderation-free-speech)
- - [Don&#39;t buy the &#39;Make Something Wonderful&#39; Steve Jobs book on eBay, because the book is free [u]](https://appleinsider.com/articles/23/04/13/dont-buy-make-something-wonderful-on-ebay-because-the-book-is-free?utm_medium=rss)<!-- TECH:END -->
+ - [Updated SwiftKey keyboard update gives access to Microsoft&#39;s new Bing AI inside any app](https://appleinsider.com/articles/23/04/13/updated-swiftkey-keyboard-update-gives-access-to-microsofts-new-bing-ai-inside-any-app?utm_medium=rss)
+ - [Twitter is rebranding Super Follows to Subscriptions](https://www.theverge.com/2023/4/13/23682184/twitter-super-follows-subscriptions-rebranding)
+ - [Valve’s Steam Deck: all the news about the new gaming handheld](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
