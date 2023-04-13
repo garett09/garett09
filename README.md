@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any muricans or brits here?](http://9gag.com/gag/ajVLrrR)
- - 🚯 [Best decision ever](http://9gag.com/gag/aVbKOpK)
- - 🚯 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)<!-- MEMES:END -->
+ - 🚖 [This... now this is infuriating](http://9gag.com/gag/armXeo5)
+ - 🚯 [Blind date was a great show, just like cheaters.](http://9gag.com/gag/a0409wL)
+ - 🚯 [This Indian add selling skin whitening cream in 9 seconds.](http://9gag.com/gag/aXnN5Dv)<!-- MEMES:END -->
 
 --- 
 
