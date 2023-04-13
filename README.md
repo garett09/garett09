@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wrestling President Says Video Game Is Finished, But Its Devs Disagree](https://kotaku.com/aew-wrestling-game-kenny-omega-cm-punk-preorder-elite-1850328740)
- - [Video Games Are Dominating TV And Film Right Now](https://kotaku.com/super-mario-bros-movie-the-last-of-us-hbo-max-1850330236)
- - [HBO’s The Sympathizer brings infinite Robert Downeys Jr. to the Vietnam War](https://www.polygon.com/23680931/the-sympathizer-hbo-trailer-robert-downey-jr)<!-- GAME:END -->
+ - [Magic&#39;s head designer explains why it&#39;s getting its first new card type in years](https://www.pcgamer.com/magics-head-designer-explains-why-its-getting-its-first-new-card-type-in-years)
+ - [MMO Players Take Over Company, Steal $20,000 Worth Of Stuff](https://kotaku.com/eve-online-heist-steal-theft-crime-ccp-corporation-mmo-1850330636)
+ - [The PC game releases we&#39;re most excited about in April](https://www.pcgamer.com/the-pc-game-releases-were-most-excited-about-in-april)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
