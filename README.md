@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine’s Quest for Homegrown AI Drones to Take On Russia](https://www.wired.com/story/fast-forward-ukraines-quest-for-homegrown-ai-drones-to-take-on-russia/)
- - [Tears of the Kingdom is still shrouded in mystery, and that’s just the way I like it](https://www.theverge.com/23681825/the-legend-of-zelda-tears-of-the-kingdom-mystery)
- - [Why classic gaming names like Atari and MapleStory are still going in on the blockchain](https://www.theverge.com/23680785/retro-gaming-atari-maplestory-blockchain)<!-- TECH:END -->
+ - [Microsoft plans to roll out Windows 11 to HoloLens 2 for free, improving app performance and letting developers integrate web technologies into native apps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230413/p23#a230413p23)
+ - [Is Substack Notes a ‘Twitter clone’? We asked CEO Chris Best.](https://www.theverge.com/23681875/substack-notes-twitter-elon-musk-content-moderation-free-speech)
+ - [Don&#39;t buy the &#39;Make Something Wonderful&#39; Steve Jobs book on eBay, because the book is free [u]](https://appleinsider.com/articles/23/04/13/dont-buy-make-something-wonderful-on-ebay-because-the-book-is-free?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
