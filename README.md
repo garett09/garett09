@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals: iPhone 12 &amp; 13 from $280, $250 off iPhone 14 Pro Max, 14&quot; MacBooks from $1,390, more](https://appleinsider.com/articles/23/04/14/daily-deals-iphone-12-13-from-280-250-off-iphone-14-pro-max-14-macbooks-from-1390-more?utm_medium=rss)
- - [Best Sonos Setup &lpar;2023&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
- - [Inside the US government’s fight to ban TikTok](https://www.theverge.com/2023/4/14/23682385/tiktok-ban-restrict-act-bytedance-china-free-speech)<!-- TECH:END -->
+ - [Spotify will shut down Heardle on May 5, after acquiring the Wordle-inspired music guessing game in July 2022 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230414/p9#a230414p9)
+ - [14 Best PlayStation 5 Accessories &lpar;2023&rpar;: SSD Storage, Headsets, Controllers, 120-Hz TVs](https://www.wired.com/gallery/best-ps5-accessories/)
+ - [Spotify abandons Heardle less than a year after buying it](https://www.theverge.com/2023/4/14/23683240/spotify-shuts-down-heardle-music-guessing-game)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
