@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is adding TikTok-like Reels updates for editing and discovery](https://www.theverge.com/2023/4/14/23683489/instagram-reels-updates-editing-trending-audio-hashtags-analytics-gifts)
- - [Samsung could make a big change to the cameras on the Galaxy S24 Ultra](https://www.androidauthority.com/galaxy-s24-rumor-3313227/)
- - [Microsoft’s new Xbox Home UI is getting reworked after complaints over ‘crowded’ backgrounds](https://www.theverge.com/2023/4/14/23683586/microsoft-xbox-home-ui-backgrounds-feedback)<!-- TECH:END -->
+ - [Sources: Musk plans a new startup to rival OpenAI, is talking to Tesla and SpaceX investors, may use Twitter for training data and Tesla for computing resources &lpar;Financial Times&rpar;](http://www.techmeme.com/230414/p12#a230414p12)
+ - [The 39 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
