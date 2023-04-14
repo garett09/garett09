@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the..... Oh ok understandable](http://9gag.com/gag/aqe62Dp)
- - 🚯 [I now reached 520k pop with 87% traffic effiency. Proudest city so far.](http://9gag.com/gag/aBdV1gQ)
- - 🚯 [That means we&#39;ll have a great summer](http://9gag.com/gag/a3Z0j35)<!-- MEMES:END -->
+ - 🚖 [The story of the Brazilian priest who tied himself to 1000 helium balloons and disappeared for months until his body was found in the atlantic ocean.](http://9gag.com/gag/avQ6LBb)
+ - 🚯 [Floor flavour](http://9gag.com/gag/aMEPbWA)
+ - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)<!-- MEMES:END -->
 
 --- 
 
