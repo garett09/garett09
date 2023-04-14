@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The story of the Brazilian priest who tied himself to 1000 helium balloons and disappeared for months until his body was found in the atlantic ocean.](http://9gag.com/gag/avQ6LBb)
- - 🚯 [Floor flavour](http://9gag.com/gag/aMEPbWA)
- - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)<!-- MEMES:END -->
+ - 🚖 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
+ - 🚯 [The reaction of the four legged creature is proof we started from a similar code](http://9gag.com/gag/a040d8X)
+ - 🚯 [2 gray whales attacked by 30 killer whales. the fight lasted 6 hours, but the 2 Gray whales managed to escape](http://9gag.com/gag/a8q0bXZ)<!-- MEMES:END -->
 
 --- 
 
