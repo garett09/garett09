@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
- - 🚯 [I need you](http://9gag.com/gag/a3Z0dm8)
- - 🚯 [Floor flavour](http://9gag.com/gag/aMEPbWA)<!-- MEMES:END -->
+ - 🚖 [Rachel gets owned](http://9gag.com/gag/avQ6LWZ)
+ - 🚯 [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
+ - 🚯 [Dog be like: Chill dude, let me](http://9gag.com/gag/avQ6Zdq)<!-- MEMES:END -->
 
 --- 
 
