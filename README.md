@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mobile Passport Control 1.6 review: Your international trip just got easier](https://appleinsider.com/articles/23/04/14/mobile-passport-control-16-review-your-international-trip-just-got-easier?utm_medium=rss)
- - [Galaxy S21 series starts getting hefty April update with S23 camera features](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
- - [Walmart’s new Google TV box is an absolute steal](https://www.androidauthority.com/walmart-onn-google-tv-4k-box-3312981/)<!-- TECH:END -->
+ - [Texas Could Push Tech Platforms to Censor Posts About Abortion](https://www.wired.com/story/texas-could-push-tech-platforms-to-censor-posts-about-abortion/)
+ - [Games Are More Visually Accessible Than Ever. It’s Just the Beginning](https://www.wired.com/story/future-video-games-visual-accessibility/)
+ - [The Fox News defamation case might be almost as entertaining as Succession](https://www.theverge.com/2023/4/14/23682366/fox-news-defamation-dominion-trial-rupert-murdoch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
