@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s a collection of gifts you can give mom no matter the occasion](https://www.theverge.com/22899871/best-gifts-mom-tech-gadgets-ideas-christmas-birthday-mothers-valentines-day)
- - [Abortion Pill-by-Mail Providers Aren&#39;t Going Anywhere](https://www.wired.com/story/telehealth-abortion-pill-access-court-decision/)
- - [In Final Fantasy XVI, you can command the dog &lpar;and a whole lot more&rpar;](https://www.theverge.com/23680770/final-fantasy-16-gameplay-april-sony-state-of-play)<!-- TECH:END -->
+ - [NYC-based NetBox Labs, whose open-source software helps manage and automate networks, raised a $20M Series A after spinning out of NS1, which IBM agreed to buy &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230413/p30#a230413p30)
+ - [The perfect Lego Nintendo Game Boy doesn’t exist...](https://www.theverge.com/21578775/lego-nintendo-game-boy-fan-model-nick-lever-masters)
+ - [WhatsApp rolls out a handful of new verification and protection features, including defenses against SIM jacking and social engineering attacks &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230413/p29#a230413p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
