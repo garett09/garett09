@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role’s Matt Mercer Is Zelda: Tears Of The Kingdom&#39;s Rehydrated Ganon After All](https://kotaku.com/zelda-tears-kingdom-mercer-ganon-voice-critical-role-1850336736)
- - [14 Tight Samurai Games You Should Play Right Now](https://kotaku.com/best-samurai-games-elden-ring-ghost-tsushima-ps5-xbox-1850332923)
- - [Next Week on Xbox: New Games for April 17 to 21](https://news.xbox.com/en-us/2023/04/14/next-week-on-xbox-new-games-for-april-17-to-21/)<!-- GAME:END -->
+ - [Critical Role cookbook gives us a taste of Vox Machina’s Tal’Dorei](https://www.polygon.com/23681853/critical-role-cookbook-exquisite-exandria-relase-date-price)
+ - [Share of the Week: Leon S. Kennedy](https://blog.playstation.com/2023/04/14/share-of-the-week-leon-s-kennedy/)
+ - [In 2023, there’s still nothing else like Path of Exile](https://www.polygon.com/reviews/23681871/path-of-exile-2023-review-diablo-4-leagues-arpg-lootfest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
