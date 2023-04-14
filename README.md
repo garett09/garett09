@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cliff Bleszinski teases news about LawBreakers, the excellent arena shooter that died 5 years ago](https://www.pcgamer.com/cliff-bleszinski-teases-news-about-lawbreakers-the-excellent-arena-shooter-that-died-5-years-ago)
- - [Critical Role’s Matt Mercer voices Ganondorf in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda/23683108/zelda-tears-of-the-kingdom-botw2-ganondorf-actor-matthew-mercer-critical-role)
- - [Destiny 2 fashionistas will finally be rewarded for their sense of style earlier than planned](https://www.pcgamer.com/destiny-2-fashionistas-will-finally-be-rewarded-for-their-sense-of-style-earlier-than-planned)<!-- GAME:END -->
+ - [MLB The Show 23 Jackie Robinson Day Celebration](https://blog.playstation.com/2023/04/14/mlb-the-show-23-jackie-robinson-day-celebration/)
+ - [World of Warcraft’s most notorious bug inspired this cursed piece of modern art](https://www.polygon.com/23681479/world-of-warcraft-cursed-chest-corrupted-blood-plague-harris-rosenblum)
+ - [Cliff Bleszinski teases news about LawBreakers, the excellent arena shooter that died 5 years ago](https://www.pcgamer.com/cliff-bleszinski-teases-news-about-lawbreakers-the-excellent-arena-shooter-that-died-5-years-ago)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
