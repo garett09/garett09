@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2 gray whales attacked by 30 killer whales. the fight lasted 6 hours, but the 2 Gray whales managed to escape](http://9gag.com/gag/a8q0bXZ)
- - 🚯 [Puddle. Just For Laughs. Don&#39;t try this at home](http://9gag.com/gag/aGEBR8z)
- - 🚯 [N....](http://9gag.com/gag/aPgo46V)<!-- MEMES:END -->
+ - 🚖 [The story of the Brazilian priest who tied himself to 1000 helium balloons and disappeared for months until his body was found in the atlantic ocean.](http://9gag.com/gag/avQ6LBb)
+ - 🚯 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)
+ - 🚯 [That means we&#39;ll have a great summer](http://9gag.com/gag/a3Z0j35)<!-- MEMES:END -->
 
 --- 
 
