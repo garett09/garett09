@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This... now this is infuriating](http://9gag.com/gag/armXeo5)
- - 🚯 [So many life lessons in just a one minute video.](http://9gag.com/gag/aNwQZdK)
- - 🚯 [Boys vs girls](http://9gag.com/gag/ay265bp)<!-- MEMES:END -->
+ - 🚖 [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
+ - 🚯 [I need you](http://9gag.com/gag/a3Z0dm8)
+ - 🚯 [Interdimensional Exam](http://9gag.com/gag/az2KEMK)<!-- MEMES:END -->
 
 --- 
 
