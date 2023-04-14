@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart’s new Google TV box is an absolute steal](https://www.androidauthority.com/walmart-onn-google-tv-4k-box-3312981/)
- - [First look at Cybertruck’s comically large windshield wiper in action](https://www.theverge.com/2023/4/14/23683065/cybertruck-windshield-wiper-tesla-video)
- - [This Xiaomi 13 Ultra accessory could almost make it a point-and-shoot camera](https://www.androidauthority.com/xiaomi-13-ultra-camera-grip-teaser-3312956/)<!-- TECH:END -->
+ - [Mobile Passport Control 1.6 review: Your international trip just got easier](https://appleinsider.com/articles/23/04/14/mobile-passport-control-16-review-your-international-trip-just-got-easier?utm_medium=rss)
+ - [Galaxy S21 series starts getting hefty April update with S23 camera features](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
+ - [Walmart’s new Google TV box is an absolute steal](https://www.androidauthority.com/walmart-onn-google-tv-4k-box-3312981/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
