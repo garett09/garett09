@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Floor flavour](http://9gag.com/gag/aMEPbWA)
- - 🚯 [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
- - 🚯 [She had over $1000 of items in her shopping cart, demanded the cashier give it to her for free due to slavery. Manager came over, same thing. Security came over, she got louder and approached him aggressively all the way onto his office. Well deserved.](http://9gag.com/gag/avQ6L6d)<!-- MEMES:END -->
+ - 🚖 [This... now this is infuriating](http://9gag.com/gag/armXeo5)
+ - 🚯 [So many life lessons in just a one minute video.](http://9gag.com/gag/aNwQZdK)
+ - 🚯 [Boys vs girls](http://9gag.com/gag/ay265bp)<!-- MEMES:END -->
 
 --- 
 
