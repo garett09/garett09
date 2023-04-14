@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drop ALT mechanical keyboard review: good key travel at a cost](https://appleinsider.com/articles/23/04/14/drop-alt-mechanical-keyboard-review-good-key-travel-at-a-cost?utm_medium=rss)
- - [Intel faces huge challenges in revitalizing its business, meaning a central piece of US industrial policy rests on one of the most complex tech turnarounds ever &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230414/p4#a230414p4)
- - [The US Wants to Close an &#39;SUV Loophole&#39; That Supersized Cars](https://www.wired.com/story/the-us-wants-to-close-the-suv-loophole-that-supersized-cars/)<!-- TECH:END -->
+ - [Who Needs the New Harry Potter Series?](https://www.wired.com/story/hbo-max-new-harry-potter-series-j-k-rowling/)
+ - [13 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)
+ - [Tech Layoffs Reveal America’s Unhealthy Obsession With Work](https://www.wired.com/story/plaintext-tech-layoffs-reveal-americas-unhealthy-obsession-with-work/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
