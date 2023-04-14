@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need you](http://9gag.com/gag/a3Z0dm8)
- - 🚯 [The Turnaround...](http://9gag.com/gag/aqe6mKv)
- - 🚯 [Remembering school days](http://9gag.com/gag/ay26nDM)<!-- MEMES:END -->
+ - 🚖 [2 gray whales attacked by 30 killer whales. the fight lasted 6 hours, but the 2 Gray whales managed to escape](http://9gag.com/gag/a8q0bXZ)
+ - 🚯 [Puddle. Just For Laughs. Don&#39;t try this at home](http://9gag.com/gag/aGEBR8z)
+ - 🚯 [N....](http://9gag.com/gag/aPgo46V)<!-- MEMES:END -->
 
 --- 
 
