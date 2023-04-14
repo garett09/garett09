@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hyper Light Breaker creator on reimagining the series as a 3D roguelike: &#39;I don&#39;t think that you could really release Drifter today and get the same sort of success&#39;](https://www.pcgamer.com/hyper-light-breaker-creator-on-reimagining-the-series-as-a-3d-roguelike-i-dont-think-that-you-could-really-release-drifter-today-and-get-the-same-sort-of-success)
- - [Bungie announces major crackdown on third-party peripheral cheaters, bans incoming](https://www.pcgamer.com/bungie-announces-major-crackdown-on-third-party-peripheral-cheaters-bans-incoming)
- - [The new True Detective season sure seems like it’s connected to the first](https://www.polygon.com/23681971/true-detective-night-country-trailer-season-1-connections)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; State of Play debuts 25 minutes of all-new Final Fantasy XVI gameplay](https://blog.playstation.com/2023/04/13/20230413-ff16/)
+ - [Mario&#39;s Theme Song Is Being Preserved Alongside Led Zeppelin, Madonna Albums](https://kotaku.com/super-mario-bros-theme-music-intro-nes-nintendo-kondo-1850335308)
+ - [Ubisoft Dumps Influencer Over Racist Rainbow Six Siege &#39;Jokes&#39;](https://kotaku.com/rainbow-six-siege-ubisoft-racism-streamer-thaqil-tiktok-1850335126)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
