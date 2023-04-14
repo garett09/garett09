@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple commits to using more recycled cobalt in its devices](https://www.theverge.com/2023/4/14/23682820/apple-recycled-metals-cobalt-batteries)
- - [Save $180 on the Tab S7 Plus, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
- - [Samsung confirms its Keyboard app caused One UI 5.1’s battery drain issues](https://www.androidauthority.com/samsung-battery-drain-3313182/)<!-- TECH:END -->
+ - [Instagram is adding TikTok-like Reels updates for editing and discovery](https://www.theverge.com/2023/4/14/23683489/instagram-reels-updates-editing-trending-audio-hashtags-analytics-gifts)
+ - [Samsung could make a big change to the cameras on the Galaxy S24 Ultra](https://www.androidauthority.com/galaxy-s24-rumor-3313227/)
+ - [Microsoft’s new Xbox Home UI is getting reworked after complaints over ‘crowded’ backgrounds](https://www.theverge.com/2023/4/14/23683586/microsoft-xbox-home-ui-backgrounds-feedback)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
