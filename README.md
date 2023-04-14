@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF](http://9gag.com/gag/abvOjw8)
- - 🚯 [Service dog rushes to help owner during medical episode](http://9gag.com/gag/aNwQZDv)
- - 🚯 [I need you](http://9gag.com/gag/a3Z0dm8)<!-- MEMES:END -->
+ - 🚖 [Thanos with gauntlet defeated just like that? Really?](http://9gag.com/gag/az2P6Wz)
+ - 🚯 [Jim Carrey with a vag.](http://9gag.com/gag/a8q0b13)
+ - 🚯 [But why though?](http://9gag.com/gag/aYVDWAO)<!-- MEMES:END -->
 
 --- 
 
