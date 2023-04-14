@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley Eggstravaganza: all the egg locations and recipes](https://www.pcgamer.com/disney-dreamlight-valley-egg-locations-recipes)
- - [Ghostwire: Tokyo inexplicably adds Denuvo over a year after its release](https://www.pcgamer.com/ghostwire-tokyo-inexplicably-adds-denuvo-over-a-year-after-its-release)
- - [It&#39;s surprisingly easy to trick an AI chatbot into telling you how to be a very bad boy](https://www.pcgamer.com/its-surprisingly-easy-to-trick-an-ai-chatbot-into-telling-you-how-to-be-a-very-bad-boy)<!-- GAME:END -->
+ - [Cliff Bleszinski teases news about LawBreakers, the excellent arena shooter that died 5 years ago](https://www.pcgamer.com/cliff-bleszinski-teases-news-about-lawbreakers-the-excellent-arena-shooter-that-died-5-years-ago)
+ - [Critical Role’s Matt Mercer voices Ganondorf in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda/23683108/zelda-tears-of-the-kingdom-botw2-ganondorf-actor-matthew-mercer-critical-role)
+ - [Destiny 2 fashionistas will finally be rewarded for their sense of style earlier than planned](https://www.pcgamer.com/destiny-2-fashionistas-will-finally-be-rewarded-for-their-sense-of-style-earlier-than-planned)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
