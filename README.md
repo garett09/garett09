@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes they do](http://9gag.com/gag/aWGnQgZ)
- - 🚯 [21 year old Jack Teixeira got arrested for leaking secret documents from the pentagon](http://9gag.com/gag/a3Z0BE1)
- - 🚯 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)<!-- MEMES:END -->
+ - 🚖 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
+ - 🚯 [I member..](http://9gag.com/gag/aBdVrnN)
+ - 🚯 [5 stars](http://9gag.com/gag/a2K0qv9)<!-- MEMES:END -->
 
 --- 
 
