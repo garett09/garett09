@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anytime bro](http://9gag.com/gag/a1P0AmG)
- - 🚯 [She&#39;s gotta be joking](http://9gag.com/gag/a8q0WBO)
- - 🚯 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)<!-- MEMES:END -->
+ - 🚖 [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
+ - 🚯 [I need you](http://9gag.com/gag/a3Z0dm8)
+ - 🚯 [Floor flavour](http://9gag.com/gag/aMEPbWA)<!-- MEMES:END -->
 
 --- 
 
