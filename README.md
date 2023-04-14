@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woof??](http://9gag.com/gag/aeQZNzQ)
- - 🚯 [Bloated cow being drained of methane](http://9gag.com/gag/a3Z0L2Q)
- - 🚯 [This is a travesty from Netflix. Queen Cleopatra was a descendant of Ptolemy, a Greek general of Alexander the Great. Twisting historical facts backed by actual evidence is unacceptable.](http://9gag.com/gag/aoKRZWw)<!-- MEMES:END -->
+ - 🚖 [Anytime bro](http://9gag.com/gag/a1P0AmG)
+ - 🚯 [She&#39;s gotta be joking](http://9gag.com/gag/a8q0WBO)
+ - 🚯 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)<!-- MEMES:END -->
 
 --- 
 
