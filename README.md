@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Legends review](https://www.pcgamer.com/minecraft-legends-review)
- - [Minecraft Legends is more exciting proof that Minecraft can be anything](https://www.polygon.com/reviews/23681749/minecraft-legends-review-action-strategy-army-overworld-piglins)
- - [Minecraft Legends: The Kotaku Review](https://kotaku.com/minecraft-legends-review-xbox-game-pass-mojang-1850334390)<!-- GAME:END -->
+ - [Disney Dreamlight Valley Eggstravaganza: all the egg locations and recipes](https://www.pcgamer.com/disney-dreamlight-valley-egg-locations-recipes)
+ - [Ghostwire: Tokyo inexplicably adds Denuvo over a year after its release](https://www.pcgamer.com/ghostwire-tokyo-inexplicably-adds-denuvo-over-a-year-after-its-release)
+ - [It&#39;s surprisingly easy to trick an AI chatbot into telling you how to be a very bad boy](https://www.pcgamer.com/its-surprisingly-easy-to-trick-an-ai-chatbot-into-telling-you-how-to-be-a-very-bad-boy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
