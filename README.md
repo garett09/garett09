@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas Could Push Tech Platforms to Censor Posts About Abortion](https://www.wired.com/story/texas-could-push-tech-platforms-to-censor-posts-about-abortion/)
- - [Games Are More Visually Accessible Than Ever. It’s Just the Beginning](https://www.wired.com/story/future-video-games-visual-accessibility/)
- - [The Fox News defamation case might be almost as entertaining as Succession](https://www.theverge.com/2023/4/14/23682366/fox-news-defamation-dominion-trial-rupert-murdoch)<!-- TECH:END -->
+ - [Drop ALT mechanical keyboard review: good key travel at a cost](https://appleinsider.com/articles/23/04/14/drop-alt-mechanical-keyboard-review-good-key-travel-at-a-cost?utm_medium=rss)
+ - [Intel faces huge challenges in revitalizing its business, meaning a central piece of US industrial policy rests on one of the most complex tech turnarounds ever &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/230414/p4#a230414p4)
+ - [The US Wants to Close an &#39;SUV Loophole&#39; That Supersized Cars](https://www.wired.com/story/the-us-wants-to-close-the-suv-loophole-that-supersized-cars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
