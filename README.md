@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show 23 Jackie Robinson Day Celebration](https://blog.playstation.com/2023/04/14/mlb-the-show-23-jackie-robinson-day-celebration/)
- - [World of Warcraft’s most notorious bug inspired this cursed piece of modern art](https://www.polygon.com/23681479/world-of-warcraft-cursed-chest-corrupted-blood-plague-harris-rosenblum)
- - [Cliff Bleszinski teases news about LawBreakers, the excellent arena shooter that died 5 years ago](https://www.pcgamer.com/cliff-bleszinski-teases-news-about-lawbreakers-the-excellent-arena-shooter-that-died-5-years-ago)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for April 17 to 21](https://news.xbox.com/en-us/2023/04/14/next-week-on-xbox-new-games-for-april-17-to-21/)
+ - [Our wildest dreams for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda/23680936/legend-of-zelda-tears-of-the-kingdom-new-features)
+ - [13 Video Game Boss Fights That Should Be Crimes Against Humanity](https://kotaku.com/13-bad-boss-fights-zelda-mass-effect-kingdom-hearts-1850334686)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
