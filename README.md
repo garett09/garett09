@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Turnaround...](http://9gag.com/gag/aqe6mKv)
- - 🚯 [Testing a screen protector](http://9gag.com/gag/aKEvq6N)
- - 🚯 [I now reached 520k pop with 87% traffic effiency. Proudest city so far.](http://9gag.com/gag/aBdV1gQ)<!-- MEMES:END -->
+ - 🚖 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)
+ - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)
+ - 🚯 [Couch](http://9gag.com/gag/a7q05jq)<!-- MEMES:END -->
 
 --- 
 
