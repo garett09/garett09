@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Minecraft Legends review](https://www.pcgamer.com/minecraft-legends-review)
  - [Minecraft Legends is more exciting proof that Minecraft can be anything](https://www.polygon.com/reviews/23681749/minecraft-legends-review-action-strategy-army-overworld-piglins)
- - [Minecraft Legends: The Kotaku Review](https://kotaku.com/minecraft-legends-review-xbox-game-pass-mojang-1850334390)
- - [Get the Peaky Blinders stealth puzzle game that was delisted on Steam free for a limited time](https://www.pcgamer.com/get-the-peaky-blinders-stealth-puzzle-game-that-was-delisted-on-steam-free-for-a-limited-time)<!-- GAME:END -->
+ - [Minecraft Legends: The Kotaku Review](https://kotaku.com/minecraft-legends-review-xbox-game-pass-mojang-1850334390)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
