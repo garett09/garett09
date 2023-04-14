@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;re dead and stalked by Death Stranding monsters in this indie game about grief](https://www.pcgamer.com/youre-dead-and-stalked-by-death-stranding-monsters-in-this-indie-game-about-grief)
- - [Sorry Necromancers, Diablo IV Is Nerfing One Of Its Most Popular Classes](https://kotaku.com/diablo-4-patch-notes-necromancer-nerf-butcher-sorcerer-1850339039)
- - [Sega might buy Angry Birds maker Rovio for $1B](https://www.polygon.com/23683936/sega-rovio-angry-birds-deal-acquisition)<!-- GAME:END -->
+ - [Vampire Survivors&#39; latest DLC is a perfect $2 jolt of the game I fell in love with last year](https://www.pcgamer.com/vampire-survivors-latest-dlc-is-a-perfect-dollar2-jolt-of-the-game-i-fell-in-love-with-last-year)
+ - [Cocaine Bear, Netflix’s Last Kingdom movie, and every other movie you can stream from home this weekend](https://www.polygon.com/entertainment/2023/4/14/23677033/new-movies-watch-cocaine-bear-netflix-last-kingdom-movie-streaming)
+ - [You&#39;re dead and stalked by Death Stranding monsters in this indie game about grief](https://www.pcgamer.com/youre-dead-and-stalked-by-death-stranding-monsters-in-this-indie-game-about-grief)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
