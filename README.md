@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rachel gets owned](http://9gag.com/gag/avQ6LWZ)
- - 🚯 [Wel there is a silverlining, atleast she wil still like you in 30years.](http://9gag.com/gag/aPgoyyq)
- - 🚯 [Dog be like: Chill dude, let me](http://9gag.com/gag/avQ6Zdq)<!-- MEMES:END -->
+ - 🚖 [Remembering school days](http://9gag.com/gag/ay26nDM)
+ - 🚯 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)
+ - 🚯 [You are A Door A Bowl](http://9gag.com/gag/aKEvwxb)<!-- MEMES:END -->
 
 --- 
 
