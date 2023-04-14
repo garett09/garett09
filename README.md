@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best TV streaming devices](https://www.polygon.com/what-to-buy/23667894/best-tv-streaming-devices-sticks-boxes)
- - [RPG Pulled From Steam Over Theft Allegations Asks Fans To Torrent It Instead](https://kotaku.com/steam-pc-rpg-dark-and-darker-ironmace-torrent-playtest-1850338181)
- - [Aggressive Nintendo copyright claims on YouTube push Breath of the Wild multiplayer modders into taking down mod](https://www.pcgamer.com/aggressive-nintendo-copyright-claims-on-youtube-push-breath-of-the-wild-multiplayer-modders-into-taking-down-mod)<!-- GAME:END -->
+ - [This Week on Xbox: Ghostwire: Tokyo &amp;and Ubisoft+, Come and Get It!](https://news.xbox.com/en-us/2023/04/14/this-week-on-xbox-ghostwire-tokyo-and-ubisoft-come-and-get-it/)
+ - [This PC Gamer Built Their Rig After Dumpster Diving For Months](https://kotaku.com/custom-pc-build-reddit-refurbish-dumpster-diving-legal-1850338372)
+ - [Pokémon Scarlet and Violet Typhlosion 7-star Tera Raid guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23677339/typhlosion-7-star-tera-raid-best-counters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
