@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tears of the Kingdom leaked ad, website reveal cool new details](https://www.polygon.com/23683793/zelda-tears-of-the-kingdom-leaked-ad-website)
- - [Hackers want a &#39;minimum 8 figures&#39; in ransom payment for data they stole from Western Digital last month](https://www.pcgamer.com/hackers-want-a-minimum-8-figures-in-ransom-payment-for-data-they-stole-from-western-digital-last-month)
- - [Why Discord is at the heart of a major US intelligence leak](https://www.polygon.com/23683683/discord-classified-documents-leak-thug-shaker-central-jack-teixeira)<!-- GAME:END -->
+ - [You&#39;re dead and stalked by Death Stranding monsters in this indie game about grief](https://www.pcgamer.com/youre-dead-and-stalked-by-death-stranding-monsters-in-this-indie-game-about-grief)
+ - [Sorry Necromancers, Diablo IV Is Nerfing One Of Its Most Popular Classes](https://kotaku.com/diablo-4-patch-notes-necromancer-nerf-butcher-sorcerer-1850339039)
+ - [Sega might buy Angry Birds maker Rovio for $1B](https://www.polygon.com/23683936/sega-rovio-angry-birds-deal-acquisition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
