@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who Needs the New Harry Potter Series?](https://www.wired.com/story/hbo-max-new-harry-potter-series-j-k-rowling/)
- - [13 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)
- - [Tech Layoffs Reveal America’s Unhealthy Obsession With Work](https://www.wired.com/story/plaintext-tech-layoffs-reveal-americas-unhealthy-obsession-with-work/)<!-- TECH:END -->
+ - [Daily Deals: iPhone 12 &amp; 13 from $280, $250 off iPhone 14 Pro Max, 14&quot; MacBooks from $1,390, more](https://appleinsider.com/articles/23/04/14/daily-deals-iphone-12-13-from-280-250-off-iphone-14-pro-max-14-macbooks-from-1390-more?utm_medium=rss)
+ - [Best Sonos Setup &lpar;2023&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
+ - [Inside the US government’s fight to ban TikTok](https://www.theverge.com/2023/4/14/23682385/tiktok-ban-restrict-act-bytedance-china-free-speech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
