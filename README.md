@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can wear Xiaomi’s next fitness tracker like a pendant](https://www.androidauthority.com/xiaomi-mi-band-8-necklace-3312929/)
- - [In 2023, My Favourite Video Games Are Old     - CNET](https://www.cnet.com/tech/gaming/in-2023-my-favourite-video-games-are-old/#ftag=CAD590a51e)
- - [Hacker advocacy group Hacking Policy Council launches to support security researchers&#39; work; founding members include HackerOne, Bugcrowd, Google, and Intel &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/230413/p33#a230413p33)<!-- TECH:END -->
+ - [There’s now an app that makes Nearby Share work between Android and macOS](https://www.androidauthority.com/nearby-share-for-macos-android-3312940/)
+ - [Android 14 will let you disable those pesky full-screen notifications](https://www.androidauthority.com/android-14-full-screen-notifications-3311809/)
+ - [You can wear Xiaomi’s next fitness tracker like a pendant](https://www.androidauthority.com/xiaomi-mi-band-8-necklace-3312929/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
