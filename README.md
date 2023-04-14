@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Standing up for your team mate!](http://9gag.com/gag/a9q5Mem)
- - 🚯 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)
- - 🚯 [WTF](http://9gag.com/gag/abvOjw8)<!-- MEMES:END -->
+ - 🚖 [Woof??](http://9gag.com/gag/aeQZNzQ)
+ - 🚯 [Bloated cow being drained of methane](http://9gag.com/gag/a3Z0L2Q)
+ - 🚯 [This is a travesty from Netflix. Queen Cleopatra was a descendant of Ptolemy, a Greek general of Alexander the Great. Twisting historical facts backed by actual evidence is unacceptable.](http://9gag.com/gag/aoKRZWw)<!-- MEMES:END -->
 
 --- 
 
