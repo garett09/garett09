@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify will shut down Heardle on May 5, after acquiring the Wordle-inspired music guessing game in July 2022 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230414/p9#a230414p9)
- - [14 Best PlayStation 5 Accessories &lpar;2023&rpar;: SSD Storage, Headsets, Controllers, 120-Hz TVs](https://www.wired.com/gallery/best-ps5-accessories/)
- - [Spotify abandons Heardle less than a year after buying it](https://www.theverge.com/2023/4/14/23683240/spotify-shuts-down-heardle-music-guessing-game)<!-- TECH:END -->
+ - [Our favorite video doorbell for most people is $50 off right now](https://www.theverge.com/2023/4/14/23683153/google-nest-wired-video-doorbell-adata-ps5-ssd-nanoleaf-elements-deal-sale)
+ - [Meet RedBalloon, the ‘Anti-Woke’ Job Board for Christian Nationalists](https://www.wired.com/story/redballoon-job-board-christian-right/)
+ - [Spotify plans to shut down Heardle on May 5, after acquiring the Wordle-inspired music guessing game in July 2022, to focus on other music discovery objectives &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230414/p9#a230414p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
