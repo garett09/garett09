@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You are A Door A Bowl](http://9gag.com/gag/aKEvwxb)
- - 🚯 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)
- - 🚯 [Drive by with your pet falcon](http://9gag.com/gag/a5Xwp5q)<!-- MEMES:END -->
+ - 🚖 [I need you](http://9gag.com/gag/a3Z0dm8)
+ - 🚯 [The Turnaround...](http://9gag.com/gag/aqe6mKv)
+ - 🚯 [Remembering school days](http://9gag.com/gag/ay26nDM)<!-- MEMES:END -->
 
 --- 
 
