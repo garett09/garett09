@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Musk plans a new startup to rival OpenAI, is talking to Tesla and SpaceX investors, may use Twitter for training data and Tesla for computing resources &lpar;Financial Times&rpar;](http://www.techmeme.com/230414/p12#a230414p12)
- - [The 39 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Note Air2 Plus review: Costly but very desirable e-ink tablet](https://appleinsider.com/articles/23/04/14/note-air2-plus-review-costly-but-very-desirable-e-ink-tablet?utm_medium=rss)
+ - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
