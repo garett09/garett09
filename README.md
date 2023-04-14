@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Note Air2 Plus review: Costly but very desirable e-ink tablet](https://appleinsider.com/articles/23/04/14/note-air2-plus-review-costly-but-very-desirable-e-ink-tablet?utm_medium=rss)
- - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
+ - [Save $200 on this M2 MacBook Air with 24GB RAM, 1TB SSD, plus 3 years of AppleCare $189](https://appleinsider.com/articles/23/04/14/save-200-on-this-m2-macbook-air-with-24gb-ram-1tb-ssd-plus-3-years-of-applecare-189?utm_medium=rss)
+ - [The US Supreme Court Restores Access to Abortion Pills—for Now](https://www.wired.com/story/the-us-supreme-court-restores-access-to-abortion-pills-for-now/)
+ - [Note Air2 Plus review: Costly but very desirable e-ink tablet](https://appleinsider.com/articles/23/04/14/note-air2-plus-review-costly-but-very-desirable-e-ink-tablet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
