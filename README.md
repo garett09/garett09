@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanos with gauntlet defeated just like that? Really?](http://9gag.com/gag/az2P6Wz)
- - 🚯 [Jim Carrey with a vag.](http://9gag.com/gag/a8q0b13)
- - 🚯 [But why though?](http://9gag.com/gag/aYVDWAO)<!-- MEMES:END -->
+ - 🚖 [One of the worst ways to get caught cheating](http://9gag.com/gag/aoKRzL2)
+ - 🚯 [But why though?](http://9gag.com/gag/aYVDWAO)
+ - 🚯 [Floor flavour](http://9gag.com/gag/aMEPbWA)<!-- MEMES:END -->
 
 --- 
 
