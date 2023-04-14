@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role cookbook gives us a taste of Vox Machina’s Tal’Dorei](https://www.polygon.com/23681853/critical-role-cookbook-exquisite-exandria-relase-date-price)
- - [Share of the Week: Leon S. Kennedy](https://blog.playstation.com/2023/04/14/share-of-the-week-leon-s-kennedy/)
- - [In 2023, there’s still nothing else like Path of Exile](https://www.polygon.com/reviews/23681871/path-of-exile-2023-review-diablo-4-leagues-arpg-lootfest)<!-- GAME:END -->
+ - [The video game movie and TV adaptations that actually work](https://www.polygon.com/what-to-watch/23196727/best-video-game-movies-adaptations-tv-watch-streaming)
+ - [&#39;We have to move fast&#39;: US regulators start work on a probably-futile attempt to avoid an AI apocalypse](https://www.pcgamer.com/we-have-to-move-fast-us-regulators-start-work-on-a-probably-futile-attempt-to-avoid-an-ai-apocalypse)
+ - [PSA: This weekend’s Love Is Blind reunion is appointment television](https://www.polygon.com/23683426/love-is-blind-reunion-special-what-time-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
