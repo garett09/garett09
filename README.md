@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify brings its &quot;broadcast-to-podcast&quot; tech, which it acquired from Whooshkaa in 2021, to Megaphone, letting publishers convert radio shows into podcasts &lpar;J. Clara Chan/The Hollywood Reporter&rpar;](http://www.techmeme.com/230413/p31#a230413p31)
  - [NYC-based NetBox Labs, whose open-source software helps manage and automate networks, raised a $20M Series A after spinning out of NS1, which IBM agreed to buy &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230413/p30#a230413p30)
- - [The perfect Lego Nintendo Game Boy doesn’t exist...](https://www.theverge.com/21578775/lego-nintendo-game-boy-fan-model-nick-lever-masters)
- - [WhatsApp rolls out a handful of new verification and protection features, including defenses against SIM jacking and social engineering attacks &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230413/p29#a230413p29)<!-- TECH:END -->
+ - [The perfect Lego Nintendo Game Boy doesn’t exist...](https://www.theverge.com/21578775/lego-nintendo-game-boy-fan-model-nick-lever-masters)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
