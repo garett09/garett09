@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A closer look at the Apple Watch Series 8 colors: Midnight, Starlight, and more](https://www.androidauthority.com/apple-watch-series-8-colors-3313414/)
  - [A look at OpenAI&#39;s &quot;red team&quot; of 50 academics and experts, hired in 2022 to look for issues such as toxicity, prejudice, and biases in GPT-4 before its release &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230415/p4#a230415p4)
- - [Asus unveils ROG Phone 7 with a 6.78-inch AMOLED screen, 16GB RAM, 512GB storage, and clip-on cooling fan, starting at &amp;euro;999 and available for preorder in Europe &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230415/p3#a230415p3)
- - [Court filings in California&#39;s suit against Amazon say the company blocked sellers from offering lower prices on rival sites despite claiming to end the policy &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230415/p2#a230415p2)<!-- TECH:END -->
+ - [Asus unveils ROG Phone 7 with a 6.78-inch AMOLED screen, 16GB RAM, 512GB storage, and clip-on cooling fan, starting at &amp;euro;999 and available for preorder in Europe &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230415/p3#a230415p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
