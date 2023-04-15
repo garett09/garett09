@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [AirTag tracks down carjacked car used in a shootout](https://appleinsider.com/articles/23/04/15/airtag-tracks-down-carjacked-car-used-in-a-shootout?utm_medium=rss)
  - [Samsung Galaxy A14 5G review: Galaxy S23 style meets rock-bottom price](https://www.androidauthority.com/samsung-galaxy-a14-5g-review-3311521/)
- - [Twitter faces a backlash in Brazil after it initially refused government requests to take down posts and profiles suspected of inspiring violence in schools &lpar;Bloomberg&rpar;](http://www.techmeme.com/230415/p8#a230415p8)<!-- TECH:END -->
+ - [Best Soundbars and Audio for Sports in 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbars-and-audio-for-sports-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
