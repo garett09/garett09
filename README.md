@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The only good PlayStation 3 emulator for PC and Mac](https://www.androidauthority.com/best-playstation-3-emulators-pc-mac-3313439/)
- - [A practical guide for why spatial audio music is great](https://appleinsider.com/articles/23/04/15/a-practical-guide-for-why-spatial-audio-music-is-great?utm_medium=rss)
- - [The US military, which uses Twitch and Discord for recruitment, struggles with the risks posed by Gen Z service members who live much of their lives online &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230415/p9#a230415p9)<!-- TECH:END -->
+ - [Google rolls out a Chrome security update to patch a zero-day exploited in the wild, a high-severity type confusion weakness in the V8 JavaScript engine &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230415/p10#a230415p10)
+ - [Bob Iger says his return to Disney was inspired by Steve Jobs&#39; Apple recovery](https://appleinsider.com/articles/23/04/14/bob-igers-says-his-return-to-disney-was-inspired-by-steve-jobs-apple-recovery?utm_medium=rss)
+ - [Best Home Internet Providers in San Diego     - CNET](https://www.cnet.com/news/best-internet-providers-in-san-diego-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
