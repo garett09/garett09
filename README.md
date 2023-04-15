@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security Roundup: Leak of Top-Secret US Intel Risks a New Wave of Mass Surveillance](https://www.wired.com/story/discord-leak-us-intel-security-roundup/)
- - [The NYPD Brings Robot Dogs Back](https://www.wired.com/story/nypd-spot-boston-dynamics-robot-dog/)
- - [12 Best Hair Straighteners We&#39;ve Tested &lpar;2023&rpar;: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
+ - [Govee Smart LED H6005 review: creative smart lighting for less](https://appleinsider.com/articles/23/04/15/govee-smart-led-h6005-review-creative-smart-lighting-for-less?utm_medium=rss)
+ - [Google Pixel 7 Pro revisited: The good and bad six months later](https://www.androidauthority.com/google-pixel-7-pro-revisited-3308749/)
+ - [16 Best Online Mattresses &lpar;2023&rpar;: Memory Foam, Hybrid, Organic, Latex](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
