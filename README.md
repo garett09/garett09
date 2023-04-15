@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mom knew what will happen and saved the situation](http://9gag.com/gag/aVbKerv)
- - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)
- - 🚯 [Bloated cow being drained of methane](http://9gag.com/gag/a3Z0L2Q)<!-- MEMES:END -->
+ - 🚖 [I now reached 520k pop with 87% traffic effiency. Proudest city so far.](http://9gag.com/gag/aBdV1gQ)
+ - 🚯 [Table Tennis Player&#39;s God-Like Reactions to Save the Point](http://9gag.com/gag/amA69W6)
+ - 🚯 [Mom knew what will happen and saved the situation](http://9gag.com/gag/aVbKerv)<!-- MEMES:END -->
 
 --- 
 
