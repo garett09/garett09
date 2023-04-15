@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ascent of an unassisted freedive](http://9gag.com/gag/a1P0d3v)
- - 🚯 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
- - 🚯 [Mom knew what will happen and saved the situation](http://9gag.com/gag/aVbKerv)<!-- MEMES:END -->
+ - 🚖 [That looks Expensive](http://9gag.com/gag/aGEBxd6)
+ - 🚯 [Bear wins the Darwin award](http://9gag.com/gag/aGEB0Wz)
+ - 🚯 [Ascent of an unassisted freedive](http://9gag.com/gag/a1P0d3v)<!-- MEMES:END -->
 
 --- 
 
