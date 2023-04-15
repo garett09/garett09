@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Montana’s Looming TikTok Ban Is a Dangerous Tipping Point](https://www.wired.com/story/montana-tiktok-ban-first-amendment/)
- - [Best Wireless Headphones for 2023: Bluetooth and More     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)
- - [How much can you save when you trade-in for a Pixel 7?](https://www.androidauthority.com/google-pixel-7-trade-in-3313247/)<!-- TECH:END -->
+ - [Q&amp;A with Reddit CEO Steve Huffman on Digg&#39;s collapse, Reddit going public after 17 years, TikTok and regulation as its biggest threats, its longevity, and more &lpar;Robert Leedham/British GQ&rpar;](http://www.techmeme.com/230414/p19#a230414p19)
+ - [OpenAI Isn&#39;t Working on GPT-5 Yet, CEO Sam Altman Says     - CNET](https://www.cnet.com/tech/openai-isnt-working-on-gpt-5-yet-ceo-sam-altman-says/#ftag=CAD590a51e)
+ - [Montana’s Looming TikTok Ban Is a Dangerous Tipping Point](https://www.wired.com/story/montana-tiktok-ban-first-amendment/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
