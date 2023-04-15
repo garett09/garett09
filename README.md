@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That looks Expensive](http://9gag.com/gag/aGEBxd6)
+ - 🚖 [This needs your support](http://9gag.com/gag/a7q0dOb)
  - 🚯 [Bear wins the Darwin award](http://9gag.com/gag/aGEB0Wz)
- - 🚯 [Ascent of an unassisted freedive](http://9gag.com/gag/a1P0d3v)<!-- MEMES:END -->
+ - 🚯 [If `Friends` were filmed in 2023](http://9gag.com/gag/aoKR1r2)<!-- MEMES:END -->
 
 --- 
 
