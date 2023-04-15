@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I now reached 520k pop with 87% traffic effiency. Proudest city so far.](http://9gag.com/gag/aBdV1gQ)
+ - 🚖 [Heavy metal cat](http://9gag.com/gag/aNwQZb3)
  - 🚯 [Table Tennis Player&#39;s God-Like Reactions to Save the Point](http://9gag.com/gag/amA69W6)
- - 🚯 [Mom knew what will happen and saved the situation](http://9gag.com/gag/aVbKerv)<!-- MEMES:END -->
+ - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)<!-- MEMES:END -->
 
 --- 
 
