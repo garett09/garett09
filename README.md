@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Alien hand syndrome](http://9gag.com/gag/ay2689r)
- - 🚯 [`Affordable options`](http://9gag.com/gag/aNwQAd4)
- - 🚯 [Japan is based](http://9gag.com/gag/aoKR1vX)<!-- MEMES:END -->
+ - 🚖 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
+ - 🚯 [Interview Oops](http://9gag.com/gag/aNwQAgw)
+ - 🚯 [`Affordable options`](http://9gag.com/gag/aNwQAd4)<!-- MEMES:END -->
 
 --- 
 
