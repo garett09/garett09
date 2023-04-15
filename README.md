@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Govee Smart LED H6005 review: creative smart lighting for less](https://appleinsider.com/articles/23/04/15/govee-smart-led-h6005-review-creative-smart-lighting-for-less?utm_medium=rss)
- - [Google Pixel 7 Pro revisited: The good and bad six months later](https://www.androidauthority.com/google-pixel-7-pro-revisited-3308749/)
- - [16 Best Online Mattresses &lpar;2023&rpar;: Memory Foam, Hybrid, Organic, Latex](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
+ - [Anker’s bassy Sport X10 earbuds are on sale for less than $60 right now](https://www.theverge.com/2023/4/15/23683483/anker-soundcore-sport-x10-earbuds-xbox-wireless-controller-mario-switch-games-deal-sale)
+ - [Makoto Shinkai wants Suzume to build a bridge of memory between generations](https://www.theverge.com/2023/4/15/23678724/makoto-shinkai-suzume-interview)
+ - [How Apple&#39;s commitment to supporting old iPhones allowed it to capture a part of the US market once cornered by the inexpensive Android phones &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230415/p6#a230415p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
