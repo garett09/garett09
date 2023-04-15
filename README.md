@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [SpaceX’s Starship rocket receives clearance for launch](https://www.theverge.com/2023/4/14/23684043/spacex-starship-faa-launch-license)
- - [Elon Musk founds new AI company called X.AI](https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x)<!-- TECH:END -->
+ - [Montana’s Looming TikTok Ban Is a Dangerous Tipping Point](https://www.wired.com/story/montana-tiktok-ban-first-amendment/)
+ - [Best Wireless Headphones for 2023: Bluetooth and More     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)
+ - [How much can you save when you trade-in for a Pixel 7?](https://www.androidauthority.com/google-pixel-7-trade-in-3313247/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
