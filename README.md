@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
- - 🚯 [This is a travesty from Netflix. Queen Cleopatra was a descendant of Ptolemy, a Greek general of Alexander the Great. Twisting historical facts backed by actual evidence is unacceptable.](http://9gag.com/gag/aoKRZWw)
- - 🚯 [Ascent of an unassisted freedive](http://9gag.com/gag/a1P0d3v)<!-- MEMES:END -->
+ - 🚖 [Mr. Fastfingers](http://9gag.com/gag/ap96rep)
+ - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)
+ - 🚯 [Dude, How&#39;s the Anxiety?!?!?](http://9gag.com/gag/aGEB1gG)<!-- MEMES:END -->
 
 --- 
 
