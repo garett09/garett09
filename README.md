@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mr. Fastfingers](http://9gag.com/gag/ap96rep)
- - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)
- - 🚯 [Is it possible to learn this power???...not from a jedi.](http://9gag.com/gag/aNwQddw)<!-- MEMES:END -->
+ - 🚖 [Remembering school days](http://9gag.com/gag/ay26nDM)
+ - 🚯 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
+ - 🚯 [I now reached 520k pop with 87% traffic effiency. Proudest city so far.](http://9gag.com/gag/aBdV1gQ)<!-- MEMES:END -->
 
 --- 
 
