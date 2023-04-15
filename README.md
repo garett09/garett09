@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chad](http://9gag.com/gag/a4oNG4w)
+ - 🚖 [Ascent of an unassisted freedive](http://9gag.com/gag/a1P0d3v)
  - 🚯 [If `Friends` were filmed in 2023](http://9gag.com/gag/aoKR1r2)
- - 🚯 [Bear wins the Darwin award](http://9gag.com/gag/aGEB0Wz)<!-- MEMES:END -->
+ - 🚯 [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)<!-- MEMES:END -->
 
 --- 
 
