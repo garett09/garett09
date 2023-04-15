@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle hint and answer #665: Saturday, April 15](https://www.pcgamer.com/wordle-hint-answer-today-665-april-15)
  - [Remember when top secret military documents leaking in a gaming community wasn&#39;t a normal Tuesday?](https://www.pcgamer.com/remember-when-top-secret-military-documents-leaking-in-a-gaming-community-wasnt-a-normal-tuesday)
- - [Diablo 4 dungeons won&#39;t waste your time with boring objectives and dead ends when it launches this June](https://www.pcgamer.com/diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june)
- - [I&#39;ve played over 2,500 hours of Path of Exile, and these are my biggest concerns about Diablo 4](https://www.pcgamer.com/ive-played-over-2500-hours-of-path-of-exile-and-these-are-my-biggest-concerns-about-diablo-4)<!-- GAME:END -->
+ - [Diablo 4 dungeons won&#39;t waste your time with boring objectives and dead ends when it launches this June](https://www.pcgamer.com/diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
