@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The story of the Brazilian priest who tied himself to 1000 helium balloons and disappeared for months until his body was found in the atlantic ocean.](http://9gag.com/gag/avQ6LBb)
- - 🚯 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
- - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)<!-- MEMES:END -->
+ - 🚖 [Table Tennis Player&#39;s God-Like Reactions to Save the Point](http://9gag.com/gag/amA69W6)
+ - 🚯 [Reliability results were very close indeed. &lpar;full picture in comments&rpar;](http://9gag.com/gag/aPgoyDG)
+ - 🚯 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)<!-- MEMES:END -->
 
 --- 
 
