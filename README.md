@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn those asians...](http://9gag.com/gag/ay26Dwb)
- - 🚯 [Dude, How&#39;s the Anxiety?!?!?](http://9gag.com/gag/aGEB1gG)
- - 🚯 [A tired mother&#39;s reaction to her baby&#39;s first steps](http://9gag.com/gag/ay26D1X)<!-- MEMES:END -->
+ - 🚖 [Alien hand syndrome](http://9gag.com/gag/ay2689r)
+ - 🚯 [`Affordable options`](http://9gag.com/gag/aNwQAd4)
+ - 🚯 [Japan is based](http://9gag.com/gag/aoKR1vX)<!-- MEMES:END -->
 
 --- 
 
