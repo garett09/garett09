@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Remember when top secret military documents leaking in a gaming community wasn&#39;t a normal Tuesday?](https://www.pcgamer.com/remember-when-top-secret-military-documents-leaking-in-a-gaming-community-wasnt-a-normal-tuesday)
  - [Diablo 4 dungeons won&#39;t waste your time with boring objectives and dead ends when it launches this June](https://www.pcgamer.com/diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june)
- - [I&#39;ve played over 2,500 hours of Path of Exile, and these are my biggest concerns about Diablo 4](https://www.pcgamer.com/ive-played-over-2500-hours-of-path-of-exile-and-these-are-my-biggest-concerns-about-diablo-4)
- - [One of Darkest Dungeon 2&#39;s cleverest enemies started with a Make-a-Wish kid](https://www.pcgamer.com/one-of-darkest-dungeon-2s-cleverest-enemies-started-with-a-make-a-wish-kid)<!-- GAME:END -->
+ - [I&#39;ve played over 2,500 hours of Path of Exile, and these are my biggest concerns about Diablo 4](https://www.pcgamer.com/ive-played-over-2500-hours-of-path-of-exile-and-these-are-my-biggest-concerns-about-diablo-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
