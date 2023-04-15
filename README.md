@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank God, the spotter was there!](http://9gag.com/gag/aYVDwex)
+ - 🚖 [Mom knew what will happen and saved the situation](http://9gag.com/gag/aVbKerv)
  - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)
- - 🚯 [Among other things](http://9gag.com/gag/abv4b9X)<!-- MEMES:END -->
+ - 🚯 [Bloated cow being drained of methane](http://9gag.com/gag/a3Z0L2Q)<!-- MEMES:END -->
 
 --- 
 
