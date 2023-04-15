@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remembering school days](http://9gag.com/gag/ay26nDM)
- - 🚯 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
- - 🚯 [I now reached 520k pop with 87% traffic effiency. Proudest city so far.](http://9gag.com/gag/aBdV1gQ)<!-- MEMES:END -->
+ - 🚖 [Damn those asians...](http://9gag.com/gag/ay26Dwb)
+ - 🚯 [Dude, How&#39;s the Anxiety?!?!?](http://9gag.com/gag/aGEB1gG)
+ - 🚯 [A tired mother&#39;s reaction to her baby&#39;s first steps](http://9gag.com/gag/ay26D1X)<!-- MEMES:END -->
 
 --- 
 
