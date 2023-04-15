@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-480-3312846/)
- - [Best Smart Fitness Mirrors for Your Home Gym     - CNET](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)
- - [SEC reopens a draft rule, that expands its regulatory powers over crypto, for public comment, adding explicit language to cover digital asset and DeFi exchanges &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/230415/p7#a230415p7)<!-- TECH:END -->
+ - [AirTag tracks down carjacked car used in a shootout](https://appleinsider.com/articles/23/04/15/airtag-tracks-down-carjacked-car-used-in-a-shootout?utm_medium=rss)
+ - [Samsung Galaxy A14 5G review: Galaxy S23 style meets rock-bottom price](https://www.androidauthority.com/samsung-galaxy-a14-5g-review-3311521/)
+ - [Twitter faces a backlash in Brazil after it initially refused government requests to take down posts and profiles suspected of inspiring violence in schools &lpar;Bloomberg&rpar;](http://www.techmeme.com/230415/p8#a230415p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
