@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I now reached 520k pop with 87% traffic effiency. Proudest city so far.](http://9gag.com/gag/aBdV1gQ)
- - 🚯 [If `Friends` were filmed in 2023](http://9gag.com/gag/aoKR1r2)
- - 🚯 [Table Tennis Player&#39;s God-Like Reactions to Save the Point](http://9gag.com/gag/amA69W6)<!-- MEMES:END -->
+ - 🚖 [Chad](http://9gag.com/gag/a4oNG4w)
+ - 🚯 [Bear wins the Darwin award](http://9gag.com/gag/aGEB0Wz)
+ - 🚯 [Congratulations you played yourself](http://9gag.com/gag/az2KjPB)<!-- MEMES:END -->
 
 --- 
 
