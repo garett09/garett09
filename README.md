@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A San Francisco federal judge rules Google must face trial, set for May 8, over Sonos&#39; patents, but invalidates two of four patents and narrows Sonos&#39; claims &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230415/p1#a230415p1)
  - [Apple Watch Series 8 battery life: Here’s what you need to know](https://www.androidauthority.com/apple-watch-series-8-battery-life-3313312/)
- - [SpaceX Launch Begins Startup&#39;s Plan for &#39;Cell Towers in Space&#39;     - CNET](https://www.cnet.com/news/spacex-launch-begins-startups-plan-for-cell-towers-in-space/#ftag=CAD590a51e)
- - [Q&amp;A with Reddit CEO Steve Huffman on Digg&#39;s collapse, Reddit going public after 17 years, TikTok and regulation as its biggest threats, its longevity, and more &lpar;Robert Leedham/British GQ&rpar;](http://www.techmeme.com/230414/p19#a230414p19)<!-- TECH:END -->
+ - [SpaceX Launch Begins Startup&#39;s Plan for &#39;Cell Towers in Space&#39;     - CNET](https://www.cnet.com/news/spacex-launch-begins-startups-plan-for-cell-towers-in-space/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
