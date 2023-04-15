@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s bassy Sport X10 earbuds are on sale for less than $60 right now](https://www.theverge.com/2023/4/15/23683483/anker-soundcore-sport-x10-earbuds-xbox-wireless-controller-mario-switch-games-deal-sale)
- - [Makoto Shinkai wants Suzume to build a bridge of memory between generations](https://www.theverge.com/2023/4/15/23678724/makoto-shinkai-suzume-interview)
- - [How Apple&#39;s commitment to supporting old iPhones allowed it to capture a part of the US market once cornered by the inexpensive Android phones &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230415/p6#a230415p6)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-480-3312846/)
+ - [SEC reopens a draft rule, that expands its regulatory powers over crypto, for public comment, adding explicit language to cover digital asset and DeFi exchanges &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/230415/p7#a230415p7)
+ - [Daily deals April 15: $600 off Sennheiser HD 800S, 15% off M2 13-inch MacBook Pro, $99 Apple TV 4K, more](https://appleinsider.com/articles/23/04/15/daily-deals-april-15-600-off-sennheiser-hd-800s-15-off-m2-134-inch-macbook-pro-99-apple-tv-4k-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
