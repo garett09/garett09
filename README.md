@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Reddit CEO Steve Huffman on Digg&#39;s collapse, Reddit going public after 17 years, TikTok and regulation as its biggest threats, its longevity, and more &lpar;Robert Leedham/British GQ&rpar;](http://www.techmeme.com/230414/p19#a230414p19)
- - [OpenAI Isn&#39;t Working on GPT-5 Yet, CEO Sam Altman Says     - CNET](https://www.cnet.com/tech/openai-isnt-working-on-gpt-5-yet-ceo-sam-altman-says/#ftag=CAD590a51e)
- - [Montana’s Looming TikTok Ban Is a Dangerous Tipping Point](https://www.wired.com/story/montana-tiktok-ban-first-amendment/)<!-- TECH:END -->
+ - [Apple Watch Series 8 battery life: Here’s what you need to know](https://www.androidauthority.com/apple-watch-series-8-battery-life-3313312/)
+ - [SpaceX Launch Begins Startup&#39;s Plan for &#39;Cell Towers in Space&#39;     - CNET](https://www.cnet.com/news/spacex-launch-begins-startups-plan-for-cell-towers-in-space/#ftag=CAD590a51e)
+ - [Q&amp;A with Reddit CEO Steve Huffman on Digg&#39;s collapse, Reddit going public after 17 years, TikTok and regulation as its biggest threats, its longevity, and more &lpar;Robert Leedham/British GQ&rpar;](http://www.techmeme.com/230414/p19#a230414p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
