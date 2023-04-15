@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Resident Evil 2 and 3 have quietly had their ray tracing options removed](https://www.pcgamer.com/resident-evil-2-and-3-have-quietly-had-their-ray-tracing-options-removed)
  - [9 very long games that are actually worth it](https://www.pcgamer.com/9-very-long-games-that-are-actually-worth-it)
- - [Upcoming The Last of Us first person mod zooms in on Naughty Dog&#39;s broken world](https://www.pcgamer.com/upcoming-the-last-of-us-first-person-mod-zooms-in-on-naughty-dogs-broken-world)
- - [Netflix’s Beef doesn’t let anyone be just a stereotype](https://www.polygon.com/23683681/beef-netflix-season-1-review)<!-- GAME:END -->
+ - [Upcoming The Last of Us first person mod zooms in on Naughty Dog&#39;s broken world](https://www.pcgamer.com/upcoming-the-last-of-us-first-person-mod-zooms-in-on-naughty-dogs-broken-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
