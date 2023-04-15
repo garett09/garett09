@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The only good PlayStation 3 emulator for PC and Mac](https://www.androidauthority.com/best-playstation-3-emulators-pc-mac-3313439/)
  - [A practical guide for why spatial audio music is great](https://appleinsider.com/articles/23/04/15/a-practical-guide-for-why-spatial-audio-music-is-great?utm_medium=rss)
- - [The US military, which uses Twitch and Discord for recruitment, struggles with the risks posed by Gen Z service members who live much of their lives online &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230415/p9#a230415p9)
- - [Microsoft Adds AI Chatbot to Its SwiftKey Keyboard App     - CNET](https://www.cnet.com/tech/mobile/microsoft-adds-ai-chatbot-to-its-swiftkey-keyboard-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US military, which uses Twitch and Discord for recruitment, struggles with the risks posed by Gen Z service members who live much of their lives online &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230415/p9#a230415p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
