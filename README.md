@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
- - 🚯 [Interview Oops](http://9gag.com/gag/aNwQAgw)
- - 🚯 [`Affordable options`](http://9gag.com/gag/aNwQAd4)<!-- MEMES:END -->
+ - 🚖 [Ascent of an unassisted freedive](http://9gag.com/gag/a1P0d3v)
+ - 🚯 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
+ - 🚯 [Mom knew what will happen and saved the situation](http://9gag.com/gag/aVbKerv)<!-- MEMES:END -->
 
 --- 
 
