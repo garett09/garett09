@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Deals: MagSafe Accessories, Switch Games, and Phones](https://www.wired.com/story/weekend-deals-april-15-2023/)
- - [Are You Being Tracked by an AirTag? Here’s How to Check](https://www.wired.com/story/how-to-find-airtags/)
- - [Home Pregnancy Tests Could Put Women in Danger](https://www.wired.com/story/home-pregnancy-tests-could-now-put-women-in-danger/)<!-- TECH:END -->
+ - [Indian streaming service JioCinema plans to add 100+ films and TV series and charge for content; JioCinema had 22M viewers for an IPL cricket match on April 12 &lpar;P R Sanjai/Bloomberg&rpar;](http://www.techmeme.com/230415/p5#a230415p5)
+ - [Tested: Can a gaming phone outperform the Samsung Galaxy S23 Ultra?](https://www.androidauthority.com/gaming-phone-test-3311502/)
+ - [Time Is Running Out for Uganda’s Vanishing Glaciers](https://www.wired.com/story/time-is-running-out-for-ugandas-vanishing-glaciers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
