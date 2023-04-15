@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The story of the Brazilian priest who tied himself to 1000 helium balloons and disappeared for months until his body was found in the atlantic ocean.](http://9gag.com/gag/avQ6LBb)
- - 🚯 [This is a travesty from Netflix. Queen Cleopatra was a descendant of Ptolemy, a Greek general of Alexander the Great. Twisting historical facts backed by actual evidence is unacceptable.](http://9gag.com/gag/aoKRZWw)
- - 🚯 [That means we&#39;ll have a great summer](http://9gag.com/gag/a3Z0j35)<!-- MEMES:END -->
+ - 🚖 [Thank God, the spotter was there!](http://9gag.com/gag/aYVDwex)
+ - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)
+ - 🚯 [Among other things](http://9gag.com/gag/abv4b9X)<!-- MEMES:END -->
 
 --- 
 
