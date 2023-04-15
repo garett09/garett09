@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Get these essential PS4 games before Sony’s PlayStation Plus Collection goes away](https://www.polygon.com/what-to-play/23683607/playstation-plus-collection-ps4-ps5-best-games)
  - [The Mageseeker lets you beat up League of Legends’ oppressive elite](https://www.polygon.com/reviews/23683550/the-mageseeker-review-league-of-legends-action-rpg)
- - [The 7 best sci-fi movies to watch on Netflix and other streaming services this April](https://www.polygon.com/what-to-watch/2023/4/15/23676998/best-sci-fi-movies-netflix-hulu-hbo-max-april-2023)
- - [Wordle hint and answer #665: Saturday, April 15](https://www.pcgamer.com/wordle-hint-answer-today-665-april-15)<!-- GAME:END -->
+ - [The 7 best sci-fi movies to watch on Netflix and other streaming services this April](https://www.polygon.com/what-to-watch/2023/4/15/23676998/best-sci-fi-movies-netflix-hulu-hbo-max-april-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
