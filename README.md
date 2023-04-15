@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix’s Beef doesn’t let anyone be just a stereotype](https://www.polygon.com/23683681/beef-netflix-season-1-review)
  - [Get these essential PS4 games before Sony’s PlayStation Plus Collection goes away](https://www.polygon.com/what-to-play/23683607/playstation-plus-collection-ps4-ps5-best-games)
- - [The Mageseeker lets you beat up League of Legends’ oppressive elite](https://www.polygon.com/reviews/23683550/the-mageseeker-review-league-of-legends-action-rpg)
- - [The 7 best sci-fi movies to watch on Netflix and other streaming services this April](https://www.polygon.com/what-to-watch/2023/4/15/23676998/best-sci-fi-movies-netflix-hulu-hbo-max-april-2023)<!-- GAME:END -->
+ - [The Mageseeker lets you beat up League of Legends’ oppressive elite](https://www.polygon.com/reviews/23683550/the-mageseeker-review-league-of-legends-action-rpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
