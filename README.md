@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian streaming service JioCinema plans to add 100+ films and TV series and charge for content; JioCinema had 22M viewers for an IPL cricket match on April 12 &lpar;P R Sanjai/Bloomberg&rpar;](http://www.techmeme.com/230415/p5#a230415p5)
- - [Tested: Can a gaming phone outperform the Samsung Galaxy S23 Ultra?](https://www.androidauthority.com/gaming-phone-test-3311502/)
- - [Time Is Running Out for Uganda’s Vanishing Glaciers](https://www.wired.com/story/time-is-running-out-for-ugandas-vanishing-glaciers/)<!-- TECH:END -->
+ - [Security Roundup: Leak of Top-Secret US Intel Risks a New Wave of Mass Surveillance](https://www.wired.com/story/discord-leak-us-intel-security-roundup/)
+ - [The NYPD Brings Robot Dogs Back](https://www.wired.com/story/nypd-spot-boston-dynamics-robot-dog/)
+ - [12 Best Hair Straighteners We&#39;ve Tested &lpar;2023&rpar;: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
