@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Mr. Fastfingers](http://9gag.com/gag/ap96rep)
  - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)
- - 🚯 [Dude, How&#39;s the Anxiety?!?!?](http://9gag.com/gag/aGEB1gG)<!-- MEMES:END -->
+ - 🚯 [Is it possible to learn this power???...not from a jedi.](http://9gag.com/gag/aNwQddw)<!-- MEMES:END -->
 
 --- 
 
