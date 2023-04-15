@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Table Tennis Player&#39;s God-Like Reactions to Save the Point](http://9gag.com/gag/amA69W6)
- - 🚯 [Reliability results were very close indeed. &lpar;full picture in comments&rpar;](http://9gag.com/gag/aPgoyDG)
- - 🚯 [BREAKING: Warren Buffett just exited a Multibillion-Dollar position this afternoon in Taiwan Semiconductors Manufacturing Company and gave a sketchy reason when asked about it. At the same time, Senator Tomy Tuberville bought PUT contracts and betted against the company. Smths up](http://9gag.com/gag/aREMgQQ)<!-- MEMES:END -->
+ - 🚖 [We have run out of WTFs](http://9gag.com/gag/a8q0YGp)
+ - 🚯 [This is a travesty from Netflix. Queen Cleopatra was a descendant of Ptolemy, a Greek general of Alexander the Great. Twisting historical facts backed by actual evidence is unacceptable.](http://9gag.com/gag/aoKRZWw)
+ - 🚯 [Ascent of an unassisted freedive](http://9gag.com/gag/a1P0d3v)<!-- MEMES:END -->
 
 --- 
 
