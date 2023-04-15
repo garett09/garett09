@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 7 best sci-fi movies to watch on Netflix and other streaming services this April](https://www.polygon.com/what-to-watch/2023/4/15/23676998/best-sci-fi-movies-netflix-hulu-hbo-max-april-2023)
  - [Wordle hint and answer #665: Saturday, April 15](https://www.pcgamer.com/wordle-hint-answer-today-665-april-15)
- - [Remember when top secret military documents leaking in a gaming community wasn&#39;t a normal Tuesday?](https://www.pcgamer.com/remember-when-top-secret-military-documents-leaking-in-a-gaming-community-wasnt-a-normal-tuesday)
- - [Diablo 4 dungeons won&#39;t waste your time with boring objectives and dead ends when it launches this June](https://www.pcgamer.com/diablo-4-dungeons-wont-waste-your-time-with-boring-objectives-and-dead-ends-when-it-launches-this-june)<!-- GAME:END -->
+ - [Remember when top secret military documents leaking in a gaming community wasn&#39;t a normal Tuesday?](https://www.pcgamer.com/remember-when-top-secret-military-documents-leaking-in-a-gaming-community-wasnt-a-normal-tuesday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
