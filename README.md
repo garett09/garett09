@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Upcoming The Last of Us first person mod zooms in on Naughty Dog&#39;s broken world](https://www.pcgamer.com/upcoming-the-last-of-us-first-person-mod-zooms-in-on-naughty-dogs-broken-world)
  - [Netflix’s Beef doesn’t let anyone be just a stereotype](https://www.polygon.com/23683681/beef-netflix-season-1-review)
- - [Get these essential PS4 games before Sony’s PlayStation Plus Collection goes away](https://www.polygon.com/what-to-play/23683607/playstation-plus-collection-ps4-ps5-best-games)
- - [The Mageseeker lets you beat up League of Legends’ oppressive elite](https://www.polygon.com/reviews/23683550/the-mageseeker-review-league-of-legends-action-rpg)<!-- GAME:END -->
+ - [Get these essential PS4 games before Sony’s PlayStation Plus Collection goes away](https://www.polygon.com/what-to-play/23683607/playstation-plus-collection-ps4-ps5-best-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
