@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ascent of an unassisted freedive](http://9gag.com/gag/a1P0d3v)
+ - 🚖 [I now reached 520k pop with 87% traffic effiency. Proudest city so far.](http://9gag.com/gag/aBdV1gQ)
  - 🚯 [If `Friends` were filmed in 2023](http://9gag.com/gag/aoKR1r2)
- - 🚯 [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)<!-- MEMES:END -->
+ - 🚯 [Table Tennis Player&#39;s God-Like Reactions to Save the Point](http://9gag.com/gag/amA69W6)<!-- MEMES:END -->
 
 --- 
 
