@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filings in California&#39;s suit against Amazon say the company blocked sellers from offering lower prices on rival sites despite claiming to end the policy &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230415/p2#a230415p2)
  - [A San Francisco federal judge rules Google must face trial, set for May 8, over Sonos&#39; patents, but invalidates two of four patents and narrows Sonos&#39; claims &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230415/p1#a230415p1)
- - [Apple Watch Series 8 battery life: Here’s what you need to know](https://www.androidauthority.com/apple-watch-series-8-battery-life-3313312/)
- - [SpaceX Launch Begins Startup&#39;s Plan for &#39;Cell Towers in Space&#39;     - CNET](https://www.cnet.com/news/spacex-launch-begins-startups-plan-for-cell-towers-in-space/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Series 8 battery life: Here’s what you need to know](https://www.androidauthority.com/apple-watch-series-8-battery-life-3313312/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
