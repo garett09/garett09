@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-480-3312846/)
- - [SEC reopens a draft rule, that expands its regulatory powers over crypto, for public comment, adding explicit language to cover digital asset and DeFi exchanges &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/230415/p7#a230415p7)
- - [Daily deals April 15: $600 off Sennheiser HD 800S, 15% off M2 13-inch MacBook Pro, $99 Apple TV 4K, more](https://appleinsider.com/articles/23/04/15/daily-deals-april-15-600-off-sennheiser-hd-800s-15-off-m2-134-inch-macbook-pro-99-apple-tv-4k-more?utm_medium=rss)<!-- TECH:END -->
+ - [Best Smart Fitness Mirrors for Your Home Gym     - CNET](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)
+ - [SEC reopens a draft rule, that expands its regulatory powers over crypto, for public comment, adding explicit language to cover digital asset and DeFi exchanges &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/230415/p7#a230415p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
