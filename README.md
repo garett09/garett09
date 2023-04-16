@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The story of Rockstar&#39;s logo is a glimpse at the chaos of its early days](https://www.pcgamer.com/the-story-of-rockstars-logo-is-a-glimpse-at-the-chaos-of-its-early-days)
- - [The Gollum collector&#39;s edition really is called the &#39;Precious Edition&#39;](https://www.pcgamer.com/lord-of-the-rings-gollum-system-requirements)
- - [Discord has finally added voice messages](https://www.pcgamer.com/discord-has-finally-added-voice-messages)<!-- GAME:END -->
+ - [Organ Trail the movie has nothing to do with the zombie game, was inspired by a typo](https://www.pcgamer.com/organ-trail-the-movie-has-nothing-to-do-with-the-zombie-game-was-inspired-by-a-typo)
+ - [Wordle hint and answer #666: Sunday, April 16](https://www.pcgamer.com/wordle-hint-answer-today-666-april-16)
+ - [The story of Rockstar&#39;s logo is a glimpse at the chaos of its early days](https://www.pcgamer.com/the-story-of-rockstars-logo-is-a-glimpse-at-the-chaos-of-its-early-days)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
