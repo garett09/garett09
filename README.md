@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Alien hand syndrome](http://9gag.com/gag/ay2689r)
- - 🚯 [Bro thought he was gonna be a hero](http://9gag.com/gag/aoKR5me)
- - 🚯 [I wish I had these debate skills](http://9gag.com/gag/a3Z0QQe)<!-- MEMES:END -->
+ - 🚖 [Sister Andrea a strong female character.](http://9gag.com/gag/abv4MNE)
+ - 🚯 [6 inches is more than enough](http://9gag.com/gag/aoKROgg)
+ - 🚯 [Chad](http://9gag.com/gag/a4oNG4w)<!-- MEMES:END -->
 
 --- 
 
