@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A literal Bored Ape](http://9gag.com/gag/aDY8WmZ)
- - 🚯 [Chad](http://9gag.com/gag/a4oNG4w)
- - 🚯 [If `Friends` were filmed in 2023](http://9gag.com/gag/aoKR1r2)<!-- MEMES:END -->
+ - 🚖 [Everything went according to plan.](http://9gag.com/gag/ago7Xw1)
+ - 🚯 [Russian State TV shows advertisiting for Russian Women to marry Chinese Men. What are your theories about that?](http://9gag.com/gag/a040QWv)
+ - 🚯 [Sister Andrea a strong female character.](http://9gag.com/gag/abv4MNE)<!-- MEMES:END -->
 
 --- 
 
