@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everything went according to plan.](http://9gag.com/gag/ago7Xw1)
- - 🚯 [Russian State TV shows advertisiting for Russian Women to marry Chinese Men. What are your theories about that?](http://9gag.com/gag/a040QWv)
- - 🚯 [Sister Andrea a strong female character.](http://9gag.com/gag/abv4MNE)<!-- MEMES:END -->
+ - 🚖 [Why? Just why?](http://9gag.com/gag/aMEP9Z1)
+ - 🚯 [Chad](http://9gag.com/gag/a4oNG4w)
+ - 🚯 [Japan is based](http://9gag.com/gag/aoKR1vX)<!-- MEMES:END -->
 
 --- 
 
