@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Gollum collector&#39;s edition really is called the &#39;Precious Edition&#39;](https://www.pcgamer.com/lord-of-the-rings-gollum-system-requirements)
  - [Discord has finally added voice messages](https://www.pcgamer.com/discord-has-finally-added-voice-messages)
- - [Resident Evil 2 and 3 have quietly had their ray tracing options removed](https://www.pcgamer.com/resident-evil-2-and-3-have-quietly-had-their-ray-tracing-options-removed)
- - [9 very long games that are actually worth it](https://www.pcgamer.com/9-very-long-games-that-are-actually-worth-it)<!-- GAME:END -->
+ - [Resident Evil 2 and 3 have quietly had their ray tracing options removed](https://www.pcgamer.com/resident-evil-2-and-3-have-quietly-had-their-ray-tracing-options-removed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
