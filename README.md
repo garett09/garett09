@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)
- - 🚯 [Nani!?!?!? Disney casting Hawaiian to play a Hawaiian!?](http://9gag.com/gag/amA67dX)
- - 🚯 [Everything went according to plan.](http://9gag.com/gag/ago7Xw1)<!-- MEMES:END -->
+ - 🚖 [Can confirm](http://9gag.com/gag/az2KXAq)
+ - 🚯 [A literal Bored Ape](http://9gag.com/gag/aDY8WmZ)
+ - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)<!-- MEMES:END -->
 
 --- 
 
