@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out a Chrome security update to patch a zero-day exploited in the wild, a high-severity type confusion weakness in the V8 JavaScript engine &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230415/p10#a230415p10)
- - [Bob Iger says his return to Disney was inspired by Steve Jobs&#39; Apple recovery](https://appleinsider.com/articles/23/04/14/bob-igers-says-his-return-to-disney-was-inspired-by-steve-jobs-apple-recovery?utm_medium=rss)
- - [Best Home Internet Providers in San Diego     - CNET](https://www.cnet.com/news/best-internet-providers-in-san-diego-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Silicon development led by &quot;incredible capabilities&quot; of iPhone chips](https://appleinsider.com/articles/23/04/15/apple-silicon-development-led-by-incredible-capabilities-of-iphone-chips?utm_medium=rss)
+ - [Best Roku Device Deals: Grab the Roku Streambar for $117     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
+ - [Google rolls out a Chrome security update to patch a zero-day, exploited in the wild, due to a high-severity type confusion weakness in the V8 JavaScript engine &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230415/p10#a230415p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
