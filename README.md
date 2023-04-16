@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ascent of an unassisted freedive](http://9gag.com/gag/a1P0d3v)
- - 🚯 [Chad](http://9gag.com/gag/a4oNG4w)
- - 🚯 [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)<!-- MEMES:END -->
+ - 🚖 [Bro thought he was gonna be a hero](http://9gag.com/gag/aoKR5me)
+ - 🚯 [Life hack, no need to thank me](http://9gag.com/gag/adPQ90N)
+ - 🚯 [Finally!! someone holds the camera on the incident](http://9gag.com/gag/aXnVjzd)<!-- MEMES:END -->
 
 --- 
 
