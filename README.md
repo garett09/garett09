@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Q&amp;A with Microsoft&#39;s CVP of ads on keeping Bing Chat results from being too promotional, AI-powered search threatening publishers&#39; ad revenue, and more &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/230416/p6#a230416p6)
- - [Apple will lay sideloading groundwork in iOS 17](https://appleinsider.com/articles/23/04/16/apple-will-lay-sideloading-groundwork-in-ios-17?utm_medium=rss)
- - [Alogic Rapid Power 100W Car Charger review: Two ports, plenty of power](https://appleinsider.com/articles/23/04/16/alogic-rapid-power-100w-car-charger-review-two-ports-plenty-of-power?utm_medium=rss)<!-- TECH:END -->
+ - [Best Eco-Friendly iPhone 12 and 12 Pro Cases     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-12-and-12-pro-cases/#ftag=CAD590a51e)
+ - [Apple will lay sideloading groundwork in iOS 17](https://appleinsider.com/articles/23/04/16/apple-will-lay-sideloading-groundwork-in-ios-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
