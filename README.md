@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ultra-long YouTube highlight videos are ruining sports — and I’m fine with that](https://www.theverge.com/2023/4/16/23683820/youtube-extended-highlights-sports-soccer-nba-nfl)
- - [New MacBooks set for launch during June&#39;s WWDC](https://appleinsider.com/articles/23/04/16/new-macbooks-set-for-launch-during-junes-wwdc?utm_medium=rss)
- - [Apple Music Classical is everything I’ve wanted Spotify to be](https://www.androidauthority.com/apple-music-classical-3309395/)<!-- TECH:END -->
+ - [LockBit gang targets Apple Silicon for ransomware attacks](https://appleinsider.com/articles/23/04/16/lockbit-gang-targets-apple-silicon-for-ransomware-attacks?utm_medium=rss)
+ - [After testing a Sonos, I realized I’m better off with a dumb soundbar](https://www.androidauthority.com/smart-vs-dumb-soundbar-3311680/)
+ - [An early look at the Jack Dorsey-backed federated social network Bluesky, which emulates Twitter&#39;s looks and feels like a simpler, positive time on the internet &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230416/p4#a230416p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
