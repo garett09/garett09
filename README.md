@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)
- - 🚯 [Day dreaming](http://9gag.com/gag/a8q04OQ)
- - 🚯 [Bear wins the Darwin award](http://9gag.com/gag/aGEB0Wz)<!-- MEMES:END -->
+ - 🚖 [Table Tennis Player&#39;s God-Like Reactions to Save the Point](http://9gag.com/gag/amA69W6)
+ - 🚯 [A literal Bored Ape](http://9gag.com/gag/aDY8WmZ)
+ - 🚯 [Bro just asks the question](http://9gag.com/gag/ap962eE)<!-- MEMES:END -->
 
 --- 
 
