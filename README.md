@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Portable Battery Chargers &lpar;2023&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [The Best Dyson Vacuums &lpar;2023&rpar;: V15, V12, and More](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [What’s it like to use a $300 Windows laptop for a day?](https://www.theverge.com/23677127/hp-14-budget-laptop-review-specs-features-price)<!-- TECH:END -->
+ - [Apple Music Classical is everything I’ve wanted Spotify to be](https://www.androidauthority.com/apple-music-classical-3309395/)
+ - [7 Best Baby Monitors &lpar;2023&rpar;: Wi-Fi, Radio &lpar;No Internet&rpar;, and More](https://www.wired.com/gallery/best-baby-monitors/)
+ - [Mixed-reality headset will be main focus of WWDC 2023](https://appleinsider.com/articles/23/04/16/mixed-reality-headset-will-be-main-focus-of-wwdc-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
