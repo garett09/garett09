@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Similarweb: Twitter&#39;s traffic fell 7.7% YoY in March, the third straight month of decline, unique web visitors fell 3.3% YoY, and Android app DAUs fell 9.8% YoY &lpar;Shirin Ghaffary/Vox&rpar;](http://www.techmeme.com/230416/p2#a230416p2)
  - [Amid an AI stocks frenzy, enterprise AI company CXApp&#39;s stock closed at $13.85 on April 14, up from a $1.33 closing on April 11, taking its market cap to ~$164M &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/230416/p1#a230416p1)
- - [Numerous public service Twitter accounts, including for US National Weather Service offices, say they can&#39;t automatically post all alerts due to new API rules &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230415/p11#a230415p11)
- - [Apple&#39;s latest MacBook Pro 14-inch just dipped to $1,799, matching lowest price on record](https://appleinsider.com/articles/23/04/16/apples-latest-macbook-pro-14-inch-just-dipped-to-1799-matching-lowest-price-on-record?utm_medium=rss)<!-- TECH:END -->
+ - [Numerous public service Twitter accounts, including for US National Weather Service offices, say they can&#39;t automatically post all alerts due to new API rules &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230415/p11#a230415p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
