@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What is Google LaMDA? Here’s what you need to know](https://www.androidauthority.com/what-is-google-lamda-3313487/)
  - [The Galaxy S23 Ultra + Samsung Dex = The ultimate gaming machine](https://www.androidauthority.com/galaxy-s23-ultra-dex-gaming-3309316/)
- - [How to understand macOS Finder crash report alerts](https://appleinsider.com/inside/macos/tips/how-to-understand-macos-finder-crash-report-alerts?utm_medium=rss)
- - [Apple Silicon development led by &#39;incredible capabilities&#39; of iPhone chips](https://appleinsider.com/articles/23/04/15/apple-silicon-development-led-by-incredible-capabilities-of-iphone-chips?utm_medium=rss)<!-- TECH:END -->
+ - [How to understand macOS Finder crash report alerts](https://appleinsider.com/inside/macos/tips/how-to-understand-macos-finder-crash-report-alerts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
