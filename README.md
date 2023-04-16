@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Table Tennis Player&#39;s God-Like Reactions to Save the Point](http://9gag.com/gag/amA69W6)
+ - 🚖 [A literal Bored Ape](http://9gag.com/gag/aDY8WmZ)
  - 🚯 [If `Friends` were filmed in 2023](http://9gag.com/gag/aoKR1r2)
- - 🚯 [Chad](http://9gag.com/gag/a4oNG4w)<!-- MEMES:END -->
+ - 🚯 [A quick internet search will take you on a quest!](http://9gag.com/gag/aXnVxo6)<!-- MEMES:END -->
 
 --- 
 
