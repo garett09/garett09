@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail Google&#39;s project Magi, with 160+ people working full time on it, to enhance search with AI, as Samsung considers making Bing search the default &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230416/p5#a230416p5)
  - [LockBit gang targets Apple Silicon for ransomware attacks](https://appleinsider.com/articles/23/04/16/lockbit-gang-targets-apple-silicon-for-ransomware-attacks?utm_medium=rss)
- - [After testing a Sonos, I realized I’m better off with a dumb soundbar](https://www.androidauthority.com/smart-vs-dumb-soundbar-3311680/)
- - [An early look at the Jack Dorsey-backed federated social network Bluesky, which emulates Twitter&#39;s looks and feels like a simpler, positive time on the internet &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230416/p4#a230416p4)<!-- TECH:END -->
+ - [After testing a Sonos, I realized I’m better off with a dumb soundbar](https://www.androidauthority.com/smart-vs-dumb-soundbar-3311680/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
