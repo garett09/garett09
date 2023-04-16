@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Classical is everything I’ve wanted Spotify to be](https://www.androidauthority.com/apple-music-classical-3309395/)
- - [7 Best Baby Monitors &lpar;2023&rpar;: Wi-Fi, Radio &lpar;No Internet&rpar;, and More](https://www.wired.com/gallery/best-baby-monitors/)
- - [Mixed-reality headset will be main focus of WWDC 2023](https://appleinsider.com/articles/23/04/16/mixed-reality-headset-will-be-main-focus-of-wwdc-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Ultra-long YouTube highlight videos are ruining sports — and I’m fine with that](https://www.theverge.com/2023/4/16/23683820/youtube-extended-highlights-sports-soccer-nba-nfl)
+ - [New MacBooks set for launch during June&#39;s WWDC](https://appleinsider.com/articles/23/04/16/new-macbooks-set-for-launch-during-junes-wwdc?utm_medium=rss)
+ - [Apple Music Classical is everything I’ve wanted Spotify to be](https://www.androidauthority.com/apple-music-classical-3309395/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
