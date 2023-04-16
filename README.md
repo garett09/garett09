@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Lil Gator Game is the Zelda-like I didn’t know I needed](https://www.polygon.com/reviews/23682092/legend-zelda-likes-breath-of-wild-wind-waker-lil-gator-game-review)
  - [Anime home video is thriving, even in the streaming era](https://www.polygon.com/23681111/anime-home-video-blu-ray-dvd-thriving-dragon-ball-evangelion)
- - [The Rise of the Triad: Ludicrous Edition remaster has an optional HUD with a Doom-style ouch face](https://www.pcgamer.com/the-rise-of-the-triad-ludicrous-edition-remaster-has-an-optional-hud-with-a-doom-style-ouch-face)
- - [CA clarifies how to unlock Ulrika in Total War: Warhammer 3](https://www.pcgamer.com/how-to-unlock-ulrika-in-total-war-warhammer-3)<!-- GAME:END -->
+ - [The Rise of the Triad: Ludicrous Edition remaster has an optional HUD with a Doom-style ouch face](https://www.pcgamer.com/the-rise-of-the-triad-ludicrous-edition-remaster-has-an-optional-hud-with-a-doom-style-ouch-face)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
