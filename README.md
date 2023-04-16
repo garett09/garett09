@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice app.](http://9gag.com/gag/a4oNGZ6)
+ - 🚖 [Name one successful person with a nose ring\u2026](http://9gag.com/gag/aVbK3mw)
  - 🚯 [The pronunciation is spot on.](http://9gag.com/gag/aXnVvw2)
  - 🚯 [Congratulations you played yourself](http://9gag.com/gag/az2KjPB)<!-- MEMES:END -->
 
