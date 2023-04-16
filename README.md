@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [CA clarifies how to unlock Ulrika in Total War: Warhammer 3](https://www.pcgamer.com/how-to-unlock-ulrika-in-total-war-warhammer-3)
  - [Organ Trail the movie has nothing to do with the zombie game, was inspired by a typo](https://www.pcgamer.com/organ-trail-the-movie-has-nothing-to-do-with-the-zombie-game-was-inspired-by-a-typo)
- - [Wordle hint and answer #666: Sunday, April 16](https://www.pcgamer.com/wordle-hint-answer-today-666-april-16)
- - [The story of Rockstar&#39;s logo is a glimpse at the chaos of its early days](https://www.pcgamer.com/the-story-of-rockstars-logo-is-a-glimpse-at-the-chaos-of-its-early-days)<!-- GAME:END -->
+ - [Wordle hint and answer #666: Sunday, April 16](https://www.pcgamer.com/wordle-hint-answer-today-666-april-16)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
