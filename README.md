@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals April 16: $199 off M1 MacBook Air, $50 off Canon EOS Rebel T100, 46% off Samsung T7 1TB SSD, more](https://appleinsider.com/articles/23/04/16/daily-deals-april-16-199-off-m1-macbook-air-50-off-canon-eos-rebel-t100-46-off-samsung-t7-1tb-ssd-more?utm_medium=rss)
- - [After 6 months with the Google Pixel Watch, all I want is a Pixel Watch 2](https://www.androidauthority.com/google-pixel-watch-revisited-pixel-watch-2-3312249/)
- - [The Elusive Dream of Fully Autonomous Construction Vehicles](https://www.wired.com/story/the-elusive-dream-of-fully-autonomous-construction-vehicles/)<!-- TECH:END -->
+ - [16 Best Portable Battery Chargers &lpar;2023&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [The Best Dyson Vacuums &lpar;2023&rpar;: V15, V12, and More](https://www.wired.com/gallery/best-dyson-vacuums/)
+ - [What’s it like to use a $300 Windows laptop for a day?](https://www.theverge.com/23677127/hp-14-budget-laptop-review-specs-features-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
