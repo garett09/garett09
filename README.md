@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sister Andrea a strong female character.](http://9gag.com/gag/abv4MNE)
- - 🚯 [6 inches is more than enough](http://9gag.com/gag/aoKROgg)
- - 🚯 [Chad](http://9gag.com/gag/a4oNG4w)<!-- MEMES:END -->
+ - 🚖 [Thirld world country with third world problem due to third world mentality, yeah my country](http://9gag.com/gag/a8q032O)
+ - 🚯 [I wish I had these debate skills](http://9gag.com/gag/a3Z0QQe)
+ - 🚯 [The best type of father figure anyone could ask for](http://9gag.com/gag/a5XwMzE)<!-- MEMES:END -->
 
 --- 
 
