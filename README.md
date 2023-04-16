@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This grappling hook horde survival shooter&#39;s free demo already has me hooked](https://www.pcgamer.com/this-grappling-hook-horde-survival-shooters-free-demo-already-has-me-hooked)
  - [Suzume’s best Studio Ghibli reference is its final, subtlest one](https://www.polygon.com/23682454/suzume-ending-explained-hayao-miyazaki-howls-moving-castle)
- - [Lil Gator Game is the Zelda-like I didn’t know I needed](https://www.polygon.com/reviews/23682092/legend-zelda-likes-breath-of-wild-wind-waker-lil-gator-game-review)
- - [Anime home video is thriving, even in the streaming era](https://www.polygon.com/23681111/anime-home-video-blu-ray-dvd-thriving-dragon-ball-evangelion)<!-- GAME:END -->
+ - [Lil Gator Game is the Zelda-like I didn’t know I needed](https://www.polygon.com/reviews/23682092/legend-zelda-likes-breath-of-wild-wind-waker-lil-gator-game-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
