@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Eco-Friendly and Recycled iPhone 13 Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-13-cases/#ftag=CAD590a51e)
  - [Q&amp;A with Microsoft&#39;s CVP of ads on keeping Bing Chat results from being too promotional, AI-powered search threatening publishers&#39; ad revenue, and more &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/230416/p6#a230416p6)
- - [Best Eco-Friendly iPhone 12 and 12 Pro Cases     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-12-and-12-pro-cases/#ftag=CAD590a51e)
- - [Apple will lay sideloading groundwork in iOS 17](https://appleinsider.com/articles/23/04/16/apple-will-lay-sideloading-groundwork-in-ios-17?utm_medium=rss)<!-- TECH:END -->
+ - [Best Eco-Friendly iPhone 12 and 12 Pro Cases     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-12-and-12-pro-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
