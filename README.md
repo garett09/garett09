@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NuPhy Air96 Wireless Mechanical Keyboard review: A light keyboard with heavy customization](https://appleinsider.com/articles/23/04/16/nuphy-air96-wireless-mechanical-keyboard-review-a-light-keyboard-with-heavy-customization?utm_medium=rss)
  - [Best Eco-Friendly and Recycled iPhone 13 Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-13-cases/#ftag=CAD590a51e)
- - [Q&amp;A with Microsoft&#39;s CVP of ads on keeping Bing Chat results from being too promotional, AI-powered search threatening publishers&#39; ad revenue, and more &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/230416/p6#a230416p6)
- - [Best Eco-Friendly iPhone 12 and 12 Pro Cases     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-12-and-12-pro-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Microsoft&#39;s CVP of ads on keeping Bing Chat results from being too promotional, AI-powered search threatening publishers&#39; ad revenue, and more &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/230416/p6#a230416p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
