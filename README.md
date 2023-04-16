@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Notice how he blocked the tube with his suitcase and quickly open it to shield the PM. It&#39;s also very thin and empty.](http://9gag.com/gag/armXGo6)
- - 🚯 [Stretching exercises](http://9gag.com/gag/aZD87oW)
- - 🚯 [It&#39;s red, Papa](http://9gag.com/gag/amA65ov)<!-- MEMES:END -->
+ - 🚖 [Man completely underestimates the speed and power of an avalanche.](http://9gag.com/gag/a7q0DNm)
+ - 🚯 [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)
+ - 🚯 [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)<!-- MEMES:END -->
 
 --- 
 
