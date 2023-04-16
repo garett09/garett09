@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man completely underestimates the speed and power of an avalanche.](http://9gag.com/gag/a7q0DNm)
- - 🚯 [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)
- - 🚯 [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)<!-- MEMES:END -->
+ - 🚖 [Ascent of an unassisted freedive](http://9gag.com/gag/a1P0d3v)
+ - 🚯 [Chad](http://9gag.com/gag/a4oNG4w)
+ - 🚯 [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)<!-- MEMES:END -->
 
 --- 
 
