@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A literal Bored Ape](http://9gag.com/gag/aDY8WmZ)
- - 🚯 [If `Friends` were filmed in 2023](http://9gag.com/gag/aoKR1r2)
- - 🚯 [A quick internet search will take you on a quest!](http://9gag.com/gag/aXnVxo6)<!-- MEMES:END -->
+ - 🚖 [Nice app.](http://9gag.com/gag/a4oNGZ6)
+ - 🚯 [The pronunciation is spot on.](http://9gag.com/gag/aXnVvw2)
+ - 🚯 [Congratulations you played yourself](http://9gag.com/gag/az2KjPB)<!-- MEMES:END -->
 
 --- 
 
