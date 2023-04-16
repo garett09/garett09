@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thirld world country with third world problem due to third world mentality, yeah my country](http://9gag.com/gag/a8q032O)
- - 🚯 [I wish I had these debate skills](http://9gag.com/gag/a3Z0QQe)
- - 🚯 [The best type of father figure anyone could ask for](http://9gag.com/gag/a5XwMzE)<!-- MEMES:END -->
+ - 🚖 [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)
+ - 🚯 [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)
+ - 🚯 [Makes sense.](http://9gag.com/gag/aXnVwOg)<!-- MEMES:END -->
 
 --- 
 
