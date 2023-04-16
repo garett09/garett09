@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Name one successful person with a nose ring\u2026](http://9gag.com/gag/aVbK3mw)
- - 🚯 [The pronunciation is spot on.](http://9gag.com/gag/aXnVvw2)
- - 🚯 [Congratulations you played yourself](http://9gag.com/gag/az2KjPB)<!-- MEMES:END -->
+ - 🚖 [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)
+ - 🚯 [Day dreaming](http://9gag.com/gag/a8q04OQ)
+ - 🚯 [Bear wins the Darwin award](http://9gag.com/gag/aGEB0Wz)<!-- MEMES:END -->
 
 --- 
 
