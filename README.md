@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail Google&#39;s project Magi, with 160+ people working full time on it, to enhance search with AI, as Samsung considers making Bing search the default &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230416/p5#a230416p5)
- - [LockBit gang targets Apple Silicon for ransomware attacks](https://appleinsider.com/articles/23/04/16/lockbit-gang-targets-apple-silicon-for-ransomware-attacks?utm_medium=rss)
- - [After testing a Sonos, I realized I’m better off with a dumb soundbar](https://www.androidauthority.com/smart-vs-dumb-soundbar-3311680/)<!-- TECH:END -->
+ - [The Galaxy S23 Ultra + Samsung Dex = The ultimate gaming machine](https://www.androidauthority.com/galaxy-s23-ultra-dex-gaming-3309316/)
+ - [How to understand macOS Finder crash report alerts](https://appleinsider.com/inside/macos/tips/how-to-understand-macos-finder-crash-report-alerts?utm_medium=rss)
+ - [Apple Silicon development led by &#39;incredible capabilities&#39; of iPhone chips](https://appleinsider.com/articles/23/04/15/apple-silicon-development-led-by-incredible-capabilities-of-iphone-chips?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
