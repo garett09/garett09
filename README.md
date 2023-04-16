@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Numerous public service Twitter accounts, including for US National Weather Service offices, say they can&#39;t automatically post all alerts due to new API rules &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230415/p11#a230415p11)
  - [Apple&#39;s latest MacBook Pro 14-inch just dipped to $1,799, matching lowest price on record](https://appleinsider.com/articles/23/04/16/apples-latest-macbook-pro-14-inch-just-dipped-to-1799-matching-lowest-price-on-record?utm_medium=rss)
- - [Apple Silicon development led by &quot;incredible capabilities&quot; of iPhone chips](https://appleinsider.com/articles/23/04/15/apple-silicon-development-led-by-incredible-capabilities-of-iphone-chips?utm_medium=rss)
- - [Best Roku Device Deals: Grab the Roku Streambar for $117     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Silicon development led by &quot;incredible capabilities&quot; of iPhone chips](https://appleinsider.com/articles/23/04/15/apple-silicon-development-led-by-incredible-capabilities-of-iphone-chips?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
