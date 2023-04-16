@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life hack, no need to thank me](http://9gag.com/gag/adPQ90N)
- - 🚯 [Everything went according to plan.](http://9gag.com/gag/ago7Xw1)
- - 🚯 [6 inches is more than enough](http://9gag.com/gag/aoKROgg)<!-- MEMES:END -->
+ - 🚖 [A literal Bored Ape](http://9gag.com/gag/aDY8WmZ)
+ - 🚯 [Chad](http://9gag.com/gag/a4oNG4w)
+ - 🚯 [If `Friends` were filmed in 2023](http://9gag.com/gag/aoKR1r2)<!-- MEMES:END -->
 
 --- 
 
