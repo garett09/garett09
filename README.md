@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can confirm](http://9gag.com/gag/az2KXAq)
- - 🚯 [A literal Bored Ape](http://9gag.com/gag/aDY8WmZ)
- - 🚯 [This needs your support](http://9gag.com/gag/a7q0dOb)<!-- MEMES:END -->
+ - 🚖 [Life hack, no need to thank me](http://9gag.com/gag/adPQ90N)
+ - 🚯 [Everything went according to plan.](http://9gag.com/gag/ago7Xw1)
+ - 🚯 [6 inches is more than enough](http://9gag.com/gag/aoKROgg)<!-- MEMES:END -->
 
 --- 
 
