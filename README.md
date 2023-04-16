@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Rise of the Triad: Ludicrous Edition remaster has an optional HUD with a Doom-style ouch face](https://www.pcgamer.com/the-rise-of-the-triad-ludicrous-edition-remaster-has-an-optional-hud-with-a-doom-style-ouch-face)
  - [CA clarifies how to unlock Ulrika in Total War: Warhammer 3](https://www.pcgamer.com/how-to-unlock-ulrika-in-total-war-warhammer-3)
- - [Organ Trail the movie has nothing to do with the zombie game, was inspired by a typo](https://www.pcgamer.com/organ-trail-the-movie-has-nothing-to-do-with-the-zombie-game-was-inspired-by-a-typo)
- - [Wordle hint and answer #666: Sunday, April 16](https://www.pcgamer.com/wordle-hint-answer-today-666-april-16)<!-- GAME:END -->
+ - [Organ Trail the movie has nothing to do with the zombie game, was inspired by a typo](https://www.pcgamer.com/organ-trail-the-movie-has-nothing-to-do-with-the-zombie-game-was-inspired-by-a-typo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
