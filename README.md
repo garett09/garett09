@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most popular harvesting products of different countries.....according to AI!](http://9gag.com/gag/avQ6OmZ)
- - 🚯 [Ascent of an unassisted freedive](http://9gag.com/gag/a1P0d3v)
- - 🚯 [Man completely underestimates the speed and power of an avalanche.](http://9gag.com/gag/a7q0DNm)<!-- MEMES:END -->
+ - 🚖 [It&#39;s red, Papa](http://9gag.com/gag/amA65ov)
+ - 🚯 [Notice how he blocked the tube with his suitcase and quickly open it to shield the PM. It&#39;s also very thin and empty.](http://9gag.com/gag/armXGo6)
+ - 🚯 [The most efficient roof chase scene of all time](http://9gag.com/gag/a4oNRK6)<!-- MEMES:END -->
 
 --- 
 
