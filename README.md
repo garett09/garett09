@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Stardew Valley is getting a surprise update with new content](https://www.pcgamer.com/stardew-valley-is-getting-a-surprise-update-with-new-content)
  - [This grappling hook horde survival shooter&#39;s free demo already has me hooked](https://www.pcgamer.com/this-grappling-hook-horde-survival-shooters-free-demo-already-has-me-hooked)
- - [Suzume’s best Studio Ghibli reference is its final, subtlest one](https://www.polygon.com/23682454/suzume-ending-explained-hayao-miyazaki-howls-moving-castle)
- - [Lil Gator Game is the Zelda-like I didn’t know I needed](https://www.polygon.com/reviews/23682092/legend-zelda-likes-breath-of-wild-wind-waker-lil-gator-game-review)<!-- GAME:END -->
+ - [Suzume’s best Studio Ghibli reference is its final, subtlest one](https://www.polygon.com/23682454/suzume-ending-explained-hayao-miyazaki-howls-moving-castle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
