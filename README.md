@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best portable chargers and power banks for your iPhone](https://www.androidauthority.com/best-portable-chargers-power-banks-iphone-3313177/)
- - [Sennheiser HD 660S2 Review: Heavenly low end, premium price](https://www.wired.com/review/sennheiser-hd-660s2/)
- - [The Asus ROG Zephyrus G14, one of our favorite gaming laptops, is nearly half off](https://www.theverge.com/2023/4/17/23686455/asus-rog-zephyrus-g14-gaming-laptop-deal-sale)<!-- TECH:END -->
+ - [iPhone 15 could get the same textured glass panel as the Pro models](https://appleinsider.com/articles/23/04/17/iphone-15-could-get-the-same-textured-glass-panel-as-the-pro-models?utm_medium=rss)
+ - [Only six EVs still qualify for the $7,500 federal tax credit after new rules go into effect](https://www.theverge.com/2023/4/17/23686516/ev-tax-credit-list-qualify-eligible-tesla-chevy-ford)
+ - [Get the Galaxy S23 free with a trade-in, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
