@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX Starship countdown: all of the news on its first test flight](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)
- - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)
- - [Covid Exposure Apps Are Headed for a Mass Extinction Event](https://www.wired.com/story/covid-exposure-apps-are-headed-for-a-mass-extinction-event/)<!-- TECH:END -->
+ - [Apple finally launches high-yield Apple Savings account](https://appleinsider.com/articles/23/04/17/apple-finally-launches-high-yield-apple-savings-account?utm_medium=rss)
+ - [Apple has been racketeering to protect its stolen services technology, inventor accuses](https://appleinsider.com/articles/23/04/17/apple-has-been-racketeering-to-protect-its-stolen-services-technology-inventor-accuses?utm_medium=rss)
+ - [Sources: Tel Aviv-based QuaDream is shutting down, after Microsoft and Citizen Lab said its mercenary spyware is being used to hack journalists and others &lpar;CTech&rpar;](http://www.techmeme.com/230417/p8#a230417p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
