@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US charges 30+ staff at China&#39;s domestic security agency, who allegedly posed as US citizens by making thousands of fake profiles on Twitter and elsewhere &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230417/p14#a230417p14)
- - [RIP beans? Leaker says Galaxy Buds Live might not get a follow-up.](https://www.androidauthority.com/samsung-galaxy-buds-live-2-3313839/)
- - [LockBit Ransomware Samples for Apple Macs Hint at New Risks for macOS Users](https://www.wired.com/story/apple-mac-lockbit-ransomware-samples/)<!-- TECH:END -->
+ - [Unlock 25GB Ethernet with Sonnet&#39;s Thunderbolt adapter &amp; PCIe card](https://appleinsider.com/articles/23/04/17/unlock-25gb-ethernet-with-sonnets-thunderbolt-adapter-pcie-card?utm_medium=rss)
+ - [Winner fools Sony photography contest judges with AI-generated art](https://www.androidauthority.com/sony-ai-generated-art-3313746/)
+ - [Polestar 4 2023 Reveal: No Rear Window](https://www.wired.com/story/polestar-4-2023-reveal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
