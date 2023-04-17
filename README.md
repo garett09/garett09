@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not creepy at all](http://9gag.com/gag/amA65PX)
- - 🚯 [Stretching exercises](http://9gag.com/gag/aZD87oW)
- - 🚯 [Any advice?](http://9gag.com/gag/aVbKw08)<!-- MEMES:END -->
+ - 🚖 [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)
+ - 🚯 [An absolute unit.](http://9gag.com/gag/aOxZ3qD)
+ - 🚯 [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)<!-- MEMES:END -->
 
 --- 
 
