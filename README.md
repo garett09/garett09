@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not creepy at all](http://9gag.com/gag/amA65PX)
- - 🚯 [The way this ping pong player tricked his opponent by faking a shot](http://9gag.com/gag/ay26M0V)
- - 🚯 [The comments are the poll](http://9gag.com/gag/avQ685M)<!-- MEMES:END -->
+ - 🚖 [Most popular harvesting products of different countries.....according to AI!](http://9gag.com/gag/avQ6OmZ)
+ - 🚯 [Any advice?](http://9gag.com/gag/aVbKw08)
+ - 🚯 [The excitement died real quick](http://9gag.com/gag/a8q0ojp)<!-- MEMES:END -->
 
 --- 
 
