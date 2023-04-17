@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A hornet trying to reattach its head.](http://9gag.com/gag/a7q0DoA)
- - 🚯 [An absolute unit.](http://9gag.com/gag/aOxZ3qD)
- - 🚯 [Very inconvenient place to be stuck at](http://9gag.com/gag/amA65Vo)<!-- MEMES:END -->
+ - 🚖 [Men will be men](http://9gag.com/gag/avQ6zE5)
+ - 🚯 [You get what you f...g deserve!](http://9gag.com/gag/a4oNEvm)
+ - 🚯 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)<!-- MEMES:END -->
 
 --- 
 
