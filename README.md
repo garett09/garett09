@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NuPhy Air96 Wireless Mechanical Keyboard review: A light keyboard with heavy customization](https://appleinsider.com/articles/23/04/16/nuphy-air96-wireless-mechanical-keyboard-review-a-light-keyboard-with-heavy-customization?utm_medium=rss)
- - [Best Eco-Friendly and Recycled iPhone 13 Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-13-cases/#ftag=CAD590a51e)
- - [Q&amp;A with Microsoft&#39;s CVP of ads on keeping Bing Chat results from being too promotional, AI-powered search threatening publishers&#39; ad revenue, and more &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/230416/p6#a230416p6)<!-- TECH:END -->
+ - [In 2023, All the Best Video Games Are Old     - CNET](https://www.cnet.com/tech/gaming/in-2023-all-the-best-video-games-are-old/#ftag=CAD590a51e)
+ - [Dabbsson Home Backup Power Station review: portable power at a price](https://appleinsider.com/articles/23/04/16/dabbsson-home-backup-power-station-review-portable-power-at-a-price?utm_medium=rss)
+ - [A US House Committee publishes a draft stablecoin bill, which proposes a moratorium on stablecoins backed by other cryptocurrencies, a CBDC study, and more &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230416/p7#a230416p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
