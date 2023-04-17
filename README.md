@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new multiplayer Harry Potter game promises all the online Quidditch you can&#39;t play in Hogwarts Legacy](https://www.pcgamer.com/a-new-multiplayer-harry-potter-game-promises-all-the-online-quidditch-you-cant-play-in-hogwarts-legacy)
- - [Here’s where you can pre-order Star Wars Jedi: Survivor](https://www.polygon.com/deals/23629409/star-wars-jedi-survivor-pre-order-buy-guide-ea-play)
- - [Thanks to the last 5 years of Nintendo emulation, Zelda: Breath of the Wild has one of the best mod scenes in gaming](https://www.pcgamer.com/thanks-to-the-last-5-years-of-nintendo-emulation-zelda-breath-of-the-wild-has-one-of-the-best-mod-scenes-in-gaming)<!-- GAME:END -->
+ - [HBO’s The Idol dives into a pop-music cult led by The Weeknd](https://www.polygon.com/23687180/idol-hbo-weeknd-trailer-release-date-cast-euphoria)
+ - [Netflix’s Love Is Blind Live Failure Had Big &#39;Game Servers Are Down&#39; Energy](https://kotaku.com/netflix-love-is-blind-not-working-reunion-twitter-error-1850345833)
+ - [Halo franchise executive leaves 343 Industries in latest shakeup](https://www.polygon.com/23687130/halo-343-industries-leadership-frank-oconnor-joseph-staten)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
