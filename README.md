@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deep Cover](https://www.polygon.com/23677546/deep-cover-special-issue-spies-spy-espionage-package)
- - [New Pokémon revealed for Scarlet and Violet DLC](https://www.polygon.com/23686415/pokemon-scarlet-violet-dlc-legendary-terapagos)
- - [Failing internet and Game of Thrones fandom turned Cuban kids into fake spies](https://www.polygon.com/23682653/cuba-snet-gaming-tv-internet-access)<!-- GAME:END -->
+ - [Netflix bungled the Love Is Blind live reunion, which will no longer be live](https://www.polygon.com/23686551/netflix-love-blind-live-reunion-screwup)
+ - [Mega Man re-releases add warning about &#39;insensitive cultural depictions&#39; but leave the games unchanged](https://www.pcgamer.com/mega-man-re-releases-add-warning-about-insensitive-cultural-depictions-but-leave-the-games-unchanged)
+ - [Xbox Celebrates Earth Day with a Sustainability Update, Special Edition Products, and Events](https://news.xbox.com/en-us/2023/04/17/earth-day-xbox-2023/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
