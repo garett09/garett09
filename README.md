@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cops in Jordan](http://9gag.com/gag/a8q0G3O)
- - 🚯 [The comments are the poll](http://9gag.com/gag/avQ685M)
- - 🚯 [Not creepy at all](http://9gag.com/gag/amA65PX)<!-- MEMES:END -->
+ - 🚖 [Me gaining consciousness at 5](http://9gag.com/gag/aREM025)
+ - 🚯 [Good parenting](http://9gag.com/gag/adPQ58M)
+ - 🚯 [Sites to cure your boredom](http://9gag.com/gag/aBdVgQ2)<!-- MEMES:END -->
 
 --- 
 
