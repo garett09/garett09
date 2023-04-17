@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tron: Identity transforms the cyberpunk world into a noir detective game](https://www.polygon.com/reviews/23683381/tron-identity-review-switch-pc-noir-visual-novel)
- - [Fans Think Jack Black&#39;s Bowser May Have Rickrolled Us All With &#39;Peaches&#39; Song](https://kotaku.com/super-mario-bros-movie-bowser-jack-black-peaches-song-1850344353)
- - [Stardew Valley gets new dialogue in next patch](https://www.polygon.com/23686673/stardew-valley-patch-1-6-release-date)<!-- GAME:END -->
+ - [GameStop Has Some Wild Deals Right Now On New Games And Zelda Amiibo](https://kotaku.com/gamestop-switch-zelda-tears-kingdom-free-sale-discount-1850344701)
+ - [Artist wins prestigious photography prize with AI, refuses the award, gets scrubbed from the competition, and says we need to talk about banning AI from this stuff](https://www.pcgamer.com/artist-wins-prestigious-photography-prize-with-ai-refuses-the-award-gets-scrubbed-from-the-competition-and-says-we-need-to-talk-about-banning-ai-from-this-stuff)
+ - [Here&#39;s when Minecraft Legends unlocks for launch](https://www.pcgamer.com/minecraft-legends-launch-time-unlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
