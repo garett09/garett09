@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro just asks the question](http://9gag.com/gag/ap962eE)
- - 🚯 [Finally!! someone holds the camera on the incident](http://9gag.com/gag/aXnVjzd)
- - 🚯 [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)<!-- MEMES:END -->
+ - 🚖 [Cops in Jordan](http://9gag.com/gag/a8q0G3O)
+ - 🚯 [The comments are the poll](http://9gag.com/gag/avQ685M)
+ - 🚯 [Not creepy at all](http://9gag.com/gag/amA65PX)<!-- MEMES:END -->
 
 --- 
 
