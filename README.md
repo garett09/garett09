@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Zombies In Paradise](https://kotaku.com/april-games-this-week-dead-island-2-minecraft-legends-1850344925)
- - [Dark and Darker legal dispute continues as Nexon files lawsuit](https://www.polygon.com/23681805/nexon-dark-and-darker-lawsuit-steam-copyright-infringement-ironmace)
- - [BotW’s Greatest Stuntmaster Is Back, And Better Than Ever](https://kotaku.com/breath-wild-tears-kingdom-botw-totk-ambi-stunt-trick-1850344829)<!-- GAME:END -->
+ - [There’s something terribly, terribly wrong with Groot](https://www.polygon.com/2023/4/17/23678996/guardians-of-the-galaxy-groot-gamora-rocket-raccoon-star-lord)
+ - [Huge Avengers: Infinity War Deleted Scene Would Have Shown Thanos Getting The First Gem](https://kotaku.com/avengers-infinity-war-thanos-power-stone-deleted-scene-1850345353)
+ - [Former Halo Infinite creative lead Joseph Staten joins Netflix to head up an all-new &#39;AAA multiplatform game&#39;](https://www.pcgamer.com/former-halo-infinite-creative-lead-joseph-staten-joins-netflix-to-head-up-an-all-new-multiplatform-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
