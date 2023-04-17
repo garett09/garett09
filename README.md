@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stretching exercises](http://9gag.com/gag/aZD87oW)
- - 🚯 [It&#39;s ma&#39;am](http://9gag.com/gag/armXG2B)
- - 🚯 [It\u2019s a matter of national security, isn\u2019t it? Germany\u2019s allies are in trouble too if they become even more dependent on Russia for their electricity.](http://9gag.com/gag/az2KMXb)<!-- MEMES:END -->
+ - 🚖 [Not creepy at all](http://9gag.com/gag/amA65PX)
+ - 🚯 [The way this ping pong player tricked his opponent by faking a shot](http://9gag.com/gag/ay26M0V)
+ - 🚯 [The comments are the poll](http://9gag.com/gag/avQ685M)<!-- MEMES:END -->
 
 --- 
 
