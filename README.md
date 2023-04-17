@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple finally launches high-yield Apple Savings account](https://appleinsider.com/articles/23/04/17/apple-finally-launches-high-yield-apple-savings-account?utm_medium=rss)
- - [Apple has been racketeering to protect its stolen services technology, inventor accuses](https://appleinsider.com/articles/23/04/17/apple-has-been-racketeering-to-protect-its-stolen-services-technology-inventor-accuses?utm_medium=rss)
- - [Sources: Tel Aviv-based QuaDream is shutting down, after Microsoft and Citizen Lab said its mercenary spyware is being used to hack journalists and others &lpar;CTech&rpar;](http://www.techmeme.com/230417/p8#a230417p8)<!-- TECH:END -->
+ - [Spotify plans to drop its paywall on some of Gimlet&#39;s podcasts and change its exclusivity rules in the coming months; Spotify acquired Gimlet for $230M in 2019 &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/230417/p12#a230417p12)
+ - [Apple’s new savings account lets Card users grow their Daily Cash](https://www.theverge.com/2023/4/17/23686409/apple-savings-account-daily-cash-grow-goldman-sachs)
+ - [Apple&#39;s Mac had a tough first quarter of 2023, in a bad overall PC market](https://appleinsider.com/articles/23/04/17/apples-mac-had-a-tough-first-quarter-of-2023-in-a-bad-overall-pc-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
