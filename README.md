@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [HBO’s The Idol dives into a pop-music cult led by The Weeknd](https://www.polygon.com/23687180/idol-hbo-weeknd-trailer-release-date-cast-euphoria)
- - [Netflix’s Love Is Blind Live Failure Had Big &#39;Game Servers Are Down&#39; Energy](https://kotaku.com/netflix-love-is-blind-not-working-reunion-twitter-error-1850345833)
- - [Halo franchise executive leaves 343 Industries in latest shakeup](https://www.polygon.com/23687130/halo-343-industries-leadership-frank-oconnor-joseph-staten)<!-- GAME:END -->
+ - [Destiny 2 Streamer Accused Of Major Leak: &#39;Only God Can Judge Me&#39;](https://kotaku.com/destiny-2-bungie-leak-ban-twitch-streamer-season-21-1850345998)
+ - [With yet another senior departure, it seems like just about all of Halo&#39;s leadership has changed over in the last 2 years](https://www.pcgamer.com/with-yet-another-senior-departure-it-seems-like-just-about-all-of-halos-leadership-has-changed-over-in-the-last-2-years)
+ - [Spotify is killing Wordle-like music puzzle game Heardle next month](https://www.pcgamer.com/spotify-is-killing-wordle-like-music-puzzle-game-heardle-next-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
