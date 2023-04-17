@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most popular harvesting products of different countries.....according to AI!](http://9gag.com/gag/avQ6OmZ)
- - 🚯 [Any advice?](http://9gag.com/gag/aVbKw08)
- - 🚯 [The excitement died real quick](http://9gag.com/gag/a8q0ojp)<!-- MEMES:END -->
+ - 🚖 [Not creepy at all](http://9gag.com/gag/amA65PX)
+ - 🚯 [Stretching exercises](http://9gag.com/gag/aZD87oW)
+ - 🚯 [Any advice?](http://9gag.com/gag/aVbKw08)<!-- MEMES:END -->
 
 --- 
 
