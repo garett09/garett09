@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not creepy at all](http://9gag.com/gag/amA65PX)
- - 🚯 [Her hand is swollen](http://9gag.com/gag/axo6zwL)
- - 🚯 [The comments are the poll](http://9gag.com/gag/avQ685M)<!-- MEMES:END -->
+ - 🚖 [The comments are the poll](http://9gag.com/gag/avQ685M)
+ - 🚯 [Brilliant](http://9gag.com/gag/aEqA86O)
+ - 🚯 [Her hand is swollen](http://9gag.com/gag/axo6zwL)<!-- MEMES:END -->
 
 --- 
 
