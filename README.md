@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men will be men](http://9gag.com/gag/avQ6zE5)
- - 🚯 [You get what you f...g deserve!](http://9gag.com/gag/a4oNEvm)
- - 🚯 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)<!-- MEMES:END -->
+ - 🚖 [A great house to live](http://9gag.com/gag/amA6PO4)
+ - 🚯 [Any advice?](http://9gag.com/gag/aVbKw08)
+ - 🚯 [Stretching exercises](http://9gag.com/gag/aZD87oW)<!-- MEMES:END -->
 
 --- 
 
