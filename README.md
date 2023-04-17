@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo 4 is bafflingly refusing to implement map overlay at launch](https://www.pcgamer.com/diablo-4-is-bafflingly-refusing-to-implement-map-overlay-at-launch)
  - [Sega confirms it’s buying Angry Birds and pushing into mobile](https://www.polygon.com/23686123/sega-rovio-acquisition-angry-birds)
- - [Wordle hint and answer #667: Monday, April 17](https://www.pcgamer.com/wordle-hint-answer-today-667-april-17)
- - [Over 2,400 Steam users had their accounts restricted for marking a negative review as helpful](https://www.pcgamer.com/over-2400-steam-users-had-their-accounts-restricted-for-marking-a-negative-review-as-helpful)<!-- GAME:END -->
+ - [Wordle hint and answer #667: Monday, April 17](https://www.pcgamer.com/wordle-hint-answer-today-667-april-17)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
