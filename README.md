@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)
- - 🚯 [Bro just asks the question](http://9gag.com/gag/ap962eE)
- - 🚯 [Notice how he blocked the tube with his suitcase and quickly open it to shield the PM. It&#39;s also very thin and empty.](http://9gag.com/gag/armXGo6)<!-- MEMES:END -->
+ - 🚖 [Brilliant](http://9gag.com/gag/aEqA86O)
+ - 🚯 [Stretching exercises](http://9gag.com/gag/aZD87oW)
+ - 🚯 [Men will be men](http://9gag.com/gag/avQ6zE5)<!-- MEMES:END -->
 
 --- 
 
