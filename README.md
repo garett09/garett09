@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blowout deal: MacBook Pro 16-inch with 32GB memory drops to $2,199](https://appleinsider.com/articles/23/04/17/blowout-deal-macbook-pro-16-inch-with-32gb-memory-drops-to-2199?utm_medium=rss)
- - [Ransomware gang Vice Society leaks data stolen from US network infrastructure company CommScope, including thousands of employees&#39; SSNs and bank account details &lpar;TechCrunch&rpar;](http://www.techmeme.com/230417/p17#a230417p17)
- - [The Pixel Fold launch could be scheduled for June](https://www.androidauthority.com/pixel-fold-launch-date-3313872/)<!-- TECH:END -->
+ - [I just discovered my Roomba can be a security camera](https://www.theverge.com/2023/4/17/23686553/irobot-roomba-j7-security-camera-beta-feature)
+ - [Mercedes-Benz’s EQS electric SUV gets the Maybach treatment](https://www.theverge.com/2023/4/17/23686484/mercedes-benz-maybach-eqs-680-suv-announce)
+ - [Chinese Cops Ran Troll Farm and Secret NY Police Station, US Says](https://www.wired.com/story/china-secret-police-station-nyc-mps-trolls/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
