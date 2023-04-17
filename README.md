@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega splurges $776 million on Angry Bird creators Rovio](https://www.pcgamer.com/sega-splurges-dollar776-million-on-angry-bird-creators-rovio)
- - [This Pokémon Has Billions Of Variations And It’s Breaking New Games](https://kotaku.com/spinda-pokemon-go-brilliant-diamond-shining-pearl-trade-1850337054)
- - [American McGee wants to move on from Alice and asks fans to do the same](https://www.pcgamer.com/american-mcgee-wants-to-move-on-from-alice-and-asks-fans-to-do-the-same)<!-- GAME:END -->
+ - [Deep Cover](https://www.polygon.com/23677546/deep-cover-special-issue-spies-spy-espionage-package)
+ - [New Pokémon revealed for Scarlet and Violet DLC](https://www.polygon.com/23686415/pokemon-scarlet-violet-dlc-legendary-terapagos)
+ - [Failing internet and Game of Thrones fandom turned Cuban kids into fake spies](https://www.polygon.com/23682653/cuba-snet-gaming-tv-internet-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
