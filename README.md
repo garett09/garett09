@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How is that even possible!!!!](http://9gag.com/gag/a1P01DY)
- - 🚯 [The comments are the poll](http://9gag.com/gag/avQ685M)
- - 🚯 [Most popular harvesting products of different countries.....according to AI!](http://9gag.com/gag/avQ6OmZ)<!-- MEMES:END -->
+ - 🚖 [Cops in Jordan](http://9gag.com/gag/a8q0G3O)
+ - 🚯 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
+ - 🚯 [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)<!-- MEMES:END -->
 
 --- 
 
