@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cops in Jordan](http://9gag.com/gag/a8q0G3O)
- - 🚯 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
- - 🚯 [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)<!-- MEMES:END -->
+ - 🚖 [An absolute unit.](http://9gag.com/gag/aOxZ3qD)
+ - 🚯 [I don&#39;t really follow US affairs that much any more, but I&#39;m curious: has there been any consequences on this or were all the BLM supporters just like `this is fine`?](http://9gag.com/gag/a8q0qXO)
+ - 🚯 [How is that even possible!!!!](http://9gag.com/gag/a1P01DY)<!-- MEMES:END -->
 
 --- 
 
