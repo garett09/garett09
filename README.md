@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix bungled the Love Is Blind live reunion, which will no longer be live](https://www.polygon.com/23686551/netflix-love-blind-live-reunion-screwup)
- - [Mega Man re-releases add warning about &#39;insensitive cultural depictions&#39; but leave the games unchanged](https://www.pcgamer.com/mega-man-re-releases-add-warning-about-insensitive-cultural-depictions-but-leave-the-games-unchanged)
- - [Xbox Celebrates Earth Day with a Sustainability Update, Special Edition Products, and Events](https://news.xbox.com/en-us/2023/04/17/earth-day-xbox-2023/)<!-- GAME:END -->
+ - [Tron: Identity transforms the cyberpunk world into a noir detective game](https://www.polygon.com/reviews/23683381/tron-identity-review-switch-pc-noir-visual-novel)
+ - [Fans Think Jack Black&#39;s Bowser May Have Rickrolled Us All With &#39;Peaches&#39; Song](https://kotaku.com/super-mario-bros-movie-bowser-jack-black-peaches-song-1850344353)
+ - [Stardew Valley gets new dialogue in next patch](https://www.polygon.com/23686673/stardew-valley-patch-1-6-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
