@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life hack, no need to thank me](http://9gag.com/gag/adPQ90N)
- - 🚯 [Bear wins the Darwin award](http://9gag.com/gag/aGEB0Wz)
- - 🚯 [Finding out in class](http://9gag.com/gag/a7q030x)<!-- MEMES:END -->
+ - 🚖 [Bro just asks the question](http://9gag.com/gag/ap962eE)
+ - 🚯 [Finally!! someone holds the camera on the incident](http://9gag.com/gag/aXnVjzd)
+ - 🚯 [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)<!-- MEMES:END -->
 
 --- 
 
