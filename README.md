@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unlock 25GB Ethernet with Sonnet&#39;s Thunderbolt adapter &amp; PCIe card](https://appleinsider.com/articles/23/04/17/unlock-25gb-ethernet-with-sonnets-thunderbolt-adapter-pcie-card?utm_medium=rss)
- - [Winner fools Sony photography contest judges with AI-generated art](https://www.androidauthority.com/sony-ai-generated-art-3313746/)
- - [Polestar 4 2023 Reveal: No Rear Window](https://www.wired.com/story/polestar-4-2023-reveal/)<!-- TECH:END -->
+ - [Blowout deal: MacBook Pro 16-inch with 32GB memory drops to $2,199](https://appleinsider.com/articles/23/04/17/blowout-deal-macbook-pro-16-inch-with-32gb-memory-drops-to-2199?utm_medium=rss)
+ - [Ransomware gang Vice Society leaks data stolen from US network infrastructure company CommScope, including thousands of employees&#39; SSNs and bank account details &lpar;TechCrunch&rpar;](http://www.techmeme.com/230417/p17#a230417p17)
+ - [The Pixel Fold launch could be scheduled for June](https://www.androidauthority.com/pixel-fold-launch-date-3313872/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
