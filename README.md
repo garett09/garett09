@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro thought he was gonna be a hero](http://9gag.com/gag/aoKR5me)
- - 🚯 [How is that even possible!!!!](http://9gag.com/gag/a1P01DY)
- - 🚯 [Men will be men](http://9gag.com/gag/avQ6zE5)<!-- MEMES:END -->
+ - 🚖 [How is that even possible!!!!](http://9gag.com/gag/a1P01DY)
+ - 🚯 [The comments are the poll](http://9gag.com/gag/avQ685M)
+ - 🚯 [Most popular harvesting products of different countries.....according to AI!](http://9gag.com/gag/avQ6OmZ)<!-- MEMES:END -->
 
 --- 
 
