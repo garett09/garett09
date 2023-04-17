@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Finding out in class](http://9gag.com/gag/a7q030x)
- - 🚯 [The comments are the poll](http://9gag.com/gag/avQ685M)
- - 🚯 [If `Friends` were filmed in 2023](http://9gag.com/gag/aoKR1r2)<!-- MEMES:END -->
+ - 🚯 [They paused the game for this](http://9gag.com/gag/az2Kmbz)
+ - 🚯 [Finally!! someone holds the camera on the incident](http://9gag.com/gag/aXnVjzd)<!-- MEMES:END -->
 
 --- 
 
