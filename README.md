@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VW aims to dethrone the Tesla Model 3 with its long-ranging ID.7 electric sedan](https://www.theverge.com/2023/4/17/23685327/vw-id-7-ev-sedan-photos-specs-range)
- - [When Social Media Presents Only an ‘Unlivable Life’](https://www.wired.com/story/twitter-trans-rights/)
- - [Contentious iPhone 15 Pro rumor season continues with details about &#39;Action button&#39;](https://appleinsider.com/articles/23/04/17/contentious-iphone-15-pro-rumor-season-continues-with-details-about-action-button?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX Starship countdown: all of the news on its first test flight](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)
+ - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)
+ - [Covid Exposure Apps Are Headed for a Mass Extinction Event](https://www.wired.com/story/covid-exposure-apps-are-headed-for-a-mass-extinction-event/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
