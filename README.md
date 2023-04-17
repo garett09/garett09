@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From hardware to software, here’s what Apple will reveal at WWDC 2023](https://www.androidauthority.com/apple-wwdc-2023-leak-3313518/)
  - [Motorola Razr Lite leaks: What makes this foldable Lite?](https://www.androidauthority.com/motorola-razr-lite-design-3313505/)
- - [Panic at the AI disco: Google plans flurry of features after a Samsung threat](https://www.androidauthority.com/google-search-ai-samsung-3313500/)
- - [SpaceX Starship countdown: all of the news on its first flight to orbit](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)<!-- TECH:END -->
+ - [Panic at the AI disco: Google plans flurry of features after a Samsung threat](https://www.androidauthority.com/google-search-ai-samsung-3313500/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
