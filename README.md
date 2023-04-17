@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog lineup for April: Kena: Bridge of Spirits, Doom Eternal, Riders Republic and more](https://blog.playstation.com/2023/04/17/20230417-psplus/)
- - [Barry’s final season turns into the worst version of itself](https://www.polygon.com/reviews/23683742/barry-season-4-review)
- - [Where to find diamonds in Minecraft Legends](https://www.pcgamer.com/minecraft-legends-diamonds-where-to-get)<!-- GAME:END -->
+ - [Sega splurges $776 million on Angry Bird creators Rovio](https://www.pcgamer.com/sega-splurges-dollar776-million-on-angry-bird-creators-rovio)
+ - [This Pokémon Has Billions Of Variations And It’s Breaking New Games](https://kotaku.com/spinda-pokemon-go-brilliant-diamond-shining-pearl-trade-1850337054)
+ - [American McGee wants to move on from Alice and asks fans to do the same](https://www.pcgamer.com/american-mcgee-wants-to-move-on-from-alice-and-asks-fans-to-do-the-same)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
