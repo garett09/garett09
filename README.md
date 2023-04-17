@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Capturing the Mosaic of Minerals in Meteorites](https://www.wired.com/story/capturing-meteorites-mineral-mosaics/)
- - [I’m Reddit’s CEO and Think Regulating Social Media Is Tyranny. AITA?](https://www.wired.com/story/reddit-ceo-steve-huffman-social-media-regulation/)
- - [Here’s our best look yet at what Apple’s announcing in June](https://www.theverge.com/2023/4/17/23686115/apple-wwdc-2023-rumored-announcements-macbooks-macs-watchos-10-mixed-reality-headset)<!-- TECH:END -->
+ - [India&#39;s first Apple Store teased before Tuesday&#39;s grand opening](https://appleinsider.com/articles/23/04/17/indias-first-apple-store-teased-before-tuesdays-grand-opening?utm_medium=rss)
+ - [Fairphone’s next product could be a pair of repairable headphones](https://www.androidauthority.com/fairphone-fairbuds-xl-headphones-3313580/)
+ - [A ‘Morning-After Pill’ for Sexually Transmitted Infections Is Almost Here](https://www.wired.com/story/morning-after-pill-for-sexually-transmitted-infections-doxypep/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
