@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brilliant](http://9gag.com/gag/aEqA86O)
- - 🚯 [Stretching exercises](http://9gag.com/gag/aZD87oW)
- - 🚯 [Men will be men](http://9gag.com/gag/avQ6zE5)<!-- MEMES:END -->
+ - 🚖 [Not creepy at all](http://9gag.com/gag/amA65PX)
+ - 🚯 [Her hand is swollen](http://9gag.com/gag/axo6zwL)
+ - 🚯 [The comments are the poll](http://9gag.com/gag/avQ685M)<!-- MEMES:END -->
 
 --- 
 
