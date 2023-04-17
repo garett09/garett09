@@ -133,8 +133,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog lineup for April: Kena: Bridge of Spirits, Doom Eternal, Riders Republic and more](https://blog.playstation.com/2023/04/17/20230417-psplus/)
  - [Barry’s final season turns into the worst version of itself](https://www.polygon.com/reviews/23683742/barry-season-4-review)
- - [How to get gold in Minecraft Legends](https://www.pcgamer.com/minecraft-legends-gold-where-to-get)
  - [Where to find diamonds in Minecraft Legends](https://www.pcgamer.com/minecraft-legends-diamonds-where-to-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
