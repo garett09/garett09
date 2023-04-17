@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finding out in class](http://9gag.com/gag/a7q030x)
- - 🚯 [They paused the game for this](http://9gag.com/gag/az2Kmbz)
- - 🚯 [Finally!! someone holds the camera on the incident](http://9gag.com/gag/aXnVjzd)<!-- MEMES:END -->
+ - 🚖 [Not creepy at all](http://9gag.com/gag/amA65PX)
+ - 🚯 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)
+ - 🚯 [Notice how he blocked the tube with his suitcase and quickly open it to shield the PM. It&#39;s also very thin and empty.](http://9gag.com/gag/armXGo6)<!-- MEMES:END -->
 
 --- 
 
