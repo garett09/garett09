@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley is getting a surprise update with new content](https://www.pcgamer.com/stardew-valley-is-getting-a-surprise-update-with-new-content)
- - [This grappling hook horde survival shooter&#39;s free demo already has me hooked](https://www.pcgamer.com/this-grappling-hook-horde-survival-shooters-free-demo-already-has-me-hooked)
- - [Suzume’s best Studio Ghibli reference is its final, subtlest one](https://www.polygon.com/23682454/suzume-ending-explained-hayao-miyazaki-howls-moving-castle)<!-- GAME:END -->
+ - [Ukrainian-Made Adventure Game Released As An &#39;Act Of Resilience Against The Chaos And Horror&#39;](https://kotaku.com/ukraine-invasion-russia-video-game-frogwares-sherlock-1850342582)
+ - [That Renfield movie with Nic Cage has a Vampire Survivors-style tie-in game, and it has no right to be this good](https://www.pcgamer.com/that-renfield-movie-with-nic-cage-has-a-vampire-survivors-style-tie-in-game-and-it-has-no-right-to-be-this-good)
+ - [Great moments in PC gaming: Stealing and wearing your enemies&#39; clothes](https://www.pcgamer.com/great-moments-in-pc-gaming-stealing-and-wearing-your-enemies-clothes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
