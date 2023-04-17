@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me gaining consciousness at 5](http://9gag.com/gag/aREM025)
- - 🚯 [Good parenting](http://9gag.com/gag/adPQ58M)
- - 🚯 [Sites to cure your boredom](http://9gag.com/gag/aBdVgQ2)<!-- MEMES:END -->
+ - 🚖 [Finding out in class](http://9gag.com/gag/a7q030x)
+ - 🚯 [The comments are the poll](http://9gag.com/gag/avQ685M)
+ - 🚯 [If `Friends` were filmed in 2023](http://9gag.com/gag/aoKR1r2)<!-- MEMES:END -->
 
 --- 
 
