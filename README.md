@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s first Apple Store teased before Tuesday&#39;s grand opening](https://appleinsider.com/articles/23/04/17/indias-first-apple-store-teased-before-tuesdays-grand-opening?utm_medium=rss)
- - [Fairphone’s next product could be a pair of repairable headphones](https://www.androidauthority.com/fairphone-fairbuds-xl-headphones-3313580/)
- - [A ‘Morning-After Pill’ for Sexually Transmitted Infections Is Almost Here](https://www.wired.com/story/morning-after-pill-for-sexually-transmitted-infections-doxypep/)<!-- TECH:END -->
+ - [VW aims to dethrone the Tesla Model 3 with its long-ranging ID.7 electric sedan](https://www.theverge.com/2023/4/17/23685327/vw-id-7-ev-sedan-photos-specs-range)
+ - [When Social Media Presents Only an ‘Unlivable Life’](https://www.wired.com/story/twitter-trans-rights/)
+ - [Contentious iPhone 15 Pro rumor season continues with details about &#39;Action button&#39;](https://appleinsider.com/articles/23/04/17/contentious-iphone-15-pro-rumor-season-continues-with-details-about-action-button?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
