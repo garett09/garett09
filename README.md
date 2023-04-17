@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 could get the same textured glass panel as the Pro models](https://appleinsider.com/articles/23/04/17/iphone-15-could-get-the-same-textured-glass-panel-as-the-pro-models?utm_medium=rss)
- - [Only six EVs still qualify for the $7,500 federal tax credit after new rules go into effect](https://www.theverge.com/2023/4/17/23686516/ev-tax-credit-list-qualify-eligible-tesla-chevy-ford)
- - [Get the Galaxy S23 free with a trade-in, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
+ - [US charges 30+ staff at China&#39;s domestic security agency, who allegedly posed as US citizens by making thousands of fake profiles on Twitter and elsewhere &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230417/p14#a230417p14)
+ - [RIP beans? Leaker says Galaxy Buds Live might not get a follow-up.](https://www.androidauthority.com/samsung-galaxy-buds-live-2-3313839/)
+ - [LockBit Ransomware Samples for Apple Macs Hint at New Risks for macOS Users](https://www.wired.com/story/apple-mac-lockbit-ransomware-samples/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
