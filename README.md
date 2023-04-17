@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bowser has been freed from prison](https://www.theverge.com/2023/4/17/23687163/gary-bowser-freed-prison-nintendo-switch-hacking)
- - [Best MagSafe accessories for iPhone 14](https://appleinsider.com/inside/iphone-14/best/best-magsafe-accessories-for-iphone-14?utm_medium=rss)
- - [The hunt for the next Twitter: all the news about alternative social media platforms](https://www.theverge.com/23686584/twitter-alternative-social-media-platforms-mastodon-bluesky-activitypub-protocol)<!-- TECH:END -->
+ - [The &#39;Love Is Blind&#39; Fiasco Proves Netflix Has a Lot to Learn](https://www.wired.com/story/netflix-love-is-blind-live-streaming-problems/)
+ - [Illinois, Michigan, and seven other US states join the DOJ lawsuit against Google, jointly filed with eight states in January 2023, for alleged ad tech monopoly &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/230417/p19#a230417p19)
+ - [Drop CTRL mechanical keyboard review: premium typing but difficult customization](https://appleinsider.com/articles/23/04/17/drop-ctrl-mechanical-keyboard-review-premium-typing-but-difficult-customization?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
