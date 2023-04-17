@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not creepy at all](http://9gag.com/gag/amA65PX)
- - 🚯 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)
- - 🚯 [Notice how he blocked the tube with his suitcase and quickly open it to shield the PM. It&#39;s also very thin and empty.](http://9gag.com/gag/armXGo6)<!-- MEMES:END -->
+ - 🚖 [Stretching exercises](http://9gag.com/gag/aZD87oW)
+ - 🚯 [It&#39;s ma&#39;am](http://9gag.com/gag/armXG2B)
+ - 🚯 [It\u2019s a matter of national security, isn\u2019t it? Germany\u2019s allies are in trouble too if they become even more dependent on Russia for their electricity.](http://9gag.com/gag/az2KMXb)<!-- MEMES:END -->
 
 --- 
 
