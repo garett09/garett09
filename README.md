@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify plans to drop its paywall on some of Gimlet&#39;s podcasts and change its exclusivity rules in the coming months; Spotify acquired Gimlet for $230M in 2019 &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/230417/p12#a230417p12)
- - [Apple’s new savings account lets Card users grow their Daily Cash](https://www.theverge.com/2023/4/17/23686409/apple-savings-account-daily-cash-grow-goldman-sachs)
- - [Apple&#39;s Mac had a tough first quarter of 2023, in a bad overall PC market](https://appleinsider.com/articles/23/04/17/apples-mac-had-a-tough-first-quarter-of-2023-in-a-bad-overall-pc-market?utm_medium=rss)<!-- TECH:END -->
+ - [The best portable chargers and power banks for your iPhone](https://www.androidauthority.com/best-portable-chargers-power-banks-iphone-3313177/)
+ - [Sennheiser HD 660S2 Review: Heavenly low end, premium price](https://www.wired.com/review/sennheiser-hd-660s2/)
+ - [The Asus ROG Zephyrus G14, one of our favorite gaming laptops, is nearly half off](https://www.theverge.com/2023/4/17/23686455/asus-rog-zephyrus-g14-gaming-laptop-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
