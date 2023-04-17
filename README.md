@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop Has Some Wild Deals Right Now On New Games And Zelda Amiibo](https://kotaku.com/gamestop-switch-zelda-tears-kingdom-free-sale-discount-1850344701)
- - [Artist wins prestigious photography prize with AI, refuses the award, gets scrubbed from the competition, and says we need to talk about banning AI from this stuff](https://www.pcgamer.com/artist-wins-prestigious-photography-prize-with-ai-refuses-the-award-gets-scrubbed-from-the-competition-and-says-we-need-to-talk-about-banning-ai-from-this-stuff)
- - [Here&#39;s when Minecraft Legends unlocks for launch](https://www.pcgamer.com/minecraft-legends-launch-time-unlock)<!-- GAME:END -->
+ - [The Week In Games: Zombies In Paradise](https://kotaku.com/april-games-this-week-dead-island-2-minecraft-legends-1850344925)
+ - [Dark and Darker legal dispute continues as Nexon files lawsuit](https://www.polygon.com/23681805/nexon-dark-and-darker-lawsuit-steam-copyright-infringement-ironmace)
+ - [BotW’s Greatest Stuntmaster Is Back, And Better Than Ever](https://kotaku.com/breath-wild-tears-kingdom-botw-totk-ambi-stunt-trick-1850344829)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
