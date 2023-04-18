@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)
- - 🚯 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
- - 🚯 [Shakira taking her tree out of Pique house with a crane was the most latin attitude i&#39;ve ever seen](http://9gag.com/gag/aBdV6Wx)<!-- MEMES:END -->
+ - 🚖 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)
+ - 🚯 [Butt ...](http://9gag.com/gag/aGEBd60)
+ - 🚯 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)<!-- MEMES:END -->
 
 --- 
 
