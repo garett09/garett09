@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [During a hearing, House Republicans grilled SEC Chairman Gary Gensler over refusing to state whether ether is a security, despite saying bitcoin was a commodity &lpar;Chris Matthews/MarketWatch&rpar;](http://www.techmeme.com/230418/p21#a230418p21)
- - [Sources: Apple is developing a range of VR apps for its upcoming headset, across gaming, fitness, live sports, and collaboration tools, like Freeform &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230418/p20#a230418p20)
- - [HUAWEI FreeBuds 5i review: Superior ANC without breaking the bank](https://www.androidauthority.com/huawei-freebuds-5i-review-3308756/)<!-- TECH:END -->
+ - [16-inch MacBook Pro vs LG Gram 17 - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-macbook-pro-vs-lg-gram-17---compared?utm_medium=rss)
+ - [The best magnetic chargers to buy for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [The 13 Best Shows on HBO Max Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
