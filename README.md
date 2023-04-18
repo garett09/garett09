@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shame, Crayola](http://9gag.com/gag/aDY874x)
- - 🚯 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
- - 🚯 [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)<!-- MEMES:END -->
+ - 🚖 [Ya&#39;ll live here](http://9gag.com/gag/aREMBN5)
+ - 🚯 [This is a what men really want a girl to wear...this is fashion i can get behind with no problem, apparently is pretty trending is high fashion.](http://9gag.com/gag/aXnVPxP)
+ - 🚯 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)<!-- MEMES:END -->
 
 --- 
 
