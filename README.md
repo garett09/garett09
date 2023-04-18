@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may not discontinue the Pixel 6a after launching the Pixel 7a](https://www.androidauthority.com/google-pixel-6a-discontinue-3314078/)
- - [MacStadium offers self-service purchase option with Orka Small Teams Edition](https://appleinsider.com/articles/23/04/18/macstadium-offers-self-service-purchase-option-with-orka-small-teams-edition?utm_medium=rss)
- - [Pokémon Go developer Niantic is making a real-world Monster Hunter game](https://www.theverge.com/2023/4/18/23687404/monster-hunter-now-niantic-pokemon-go-ar-real-world)<!-- TECH:END -->
+ - [A Peter Thiel-Backed Startup City Wants to Be Africa’s Delaware](https://www.wired.com/story/itana-binance-charter-cities-institute-africa-tech-startup/)
+ - [An in-depth look at how police agencies across Europe infiltrated encrypted phone networks like EncroChat and Sky ECC that were popular with organized criminals &lpar;Ed Caesar/New Yorker&rpar;](http://www.techmeme.com/230418/p2#a230418p2)
+ - [Google may not discontinue the Pixel 6a after launching the Pixel 7a](https://www.androidauthority.com/google-pixel-6a-discontinue-3314078/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
