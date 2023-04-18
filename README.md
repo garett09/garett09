@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happens to me all the time, too](http://9gag.com/gag/az2Kmpp)
+ - 🚖 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)
  - 🚯 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
- - 🚯 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)<!-- MEMES:END -->
+ - 🚯 [Shakira taking her tree out of Pique house with a crane was the most latin attitude i&#39;ve ever seen](http://9gag.com/gag/aBdV6Wx)<!-- MEMES:END -->
 
 --- 
 
