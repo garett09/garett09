@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Turn-based strategy meets tower defence as you fight to destroy magic forever in this brutal roguelike](https://www.pcgamer.com/turn-based-strategy-meets-tower-defence-as-you-fight-to-destroy-magic-forever-in-this-brutal-roguelike)
- - [Where to find piglin keys in Minecraft Legends](https://www.pcgamer.com/minecraft-legends-piglin-key)
- - [9 things to know before starting Minecraft Legends](https://www.polygon.com/23686613/minecraft-legends-beginners-tips-tricks)<!-- GAME:END -->
+ - [Disney Speedstorm Hits Early Access on Xbox Today with Fully Featured Local Multiplayer Mode](https://news.xbox.com/en-us/2023/04/18/disney-speedstorm-early-access-on-xbox-today/)
+ - [Marvel Snap Card Was So Broken, It’s Getting Fixed And Gifted To Everyone](https://kotaku.com/kitty-pryde-marvel-snap-update-patch-notes-discord-1850348535)
+ - [The Mageseeker: A League of Legends Story review](https://www.pcgamer.com/the-mageseeker-a-league-of-legends-story-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
