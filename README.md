@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)
- - 🚯 [I think someones trying to frame me!](http://9gag.com/gag/aXnVLY6)
- - 🚯 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)<!-- MEMES:END -->
+ - 🚖 [Shame, Crayola](http://9gag.com/gag/aDY874x)
+ - 🚯 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)
+ - 🚯 [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)<!-- MEMES:END -->
 
 --- 
 
