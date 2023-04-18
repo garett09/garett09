@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix says it will ship its last red DVD envelopes in September, after 25 years of mailing shows and movies to subscribers and paving the way for streaming &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/230418/p23#a230418p23)
- - [Netflix is shutting down its original DVD business after 25 years](https://www.theverge.com/2023/4/18/23688543/netflix-dvd-com-business-25-years)
- - [How to set up two-factor authentication on your online services](https://www.theverge.com/23612381/two-factor-authentication-2fa-amazon-twitter-how-to)<!-- TECH:END -->
+ - [Netflix delays its password-sharing crackdown to sometime before July](https://www.theverge.com/2023/4/18/23687853/netflix-earnings-password-sharing-delay-q1-2023)
+ - [The Beats Studio Buds Plus are on the way, time to get discounted original buds](https://www.androidauthority.com/beats-studio-buds-plus-3314466/)
+ - [Netflix plans a &quot;broad rollout&quot; of its paid sharing plan in Q2 2023, including to the US, after its Canada, New Zealand, Portugal, and Spain launch in February &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230418/p26#a230418p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
