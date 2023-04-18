@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)
- - 🚯 [Butt ...](http://9gag.com/gag/aGEBd60)
- - 🚯 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)<!-- MEMES:END -->
+ - 🚖 [Brilliant](http://9gag.com/gag/aEqA86O)
+ - 🚯 [It&#39;s worth a repost](http://9gag.com/gag/avQ6zVX)
+ - 🚯 [The name of the video is Bicycle Race](http://9gag.com/gag/amA612v)<!-- MEMES:END -->
 
 --- 
 
