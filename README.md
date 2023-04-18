@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I think someones trying to frame me!](http://9gag.com/gag/aXnVLY6)
- - 🚯 [Collecting magnetite on the beach](http://9gag.com/gag/a2K0KZw)
- - 🚯 [The name of the video is Bicycle Race](http://9gag.com/gag/amA612v)<!-- MEMES:END -->
+ - 🚯 [The name of the video is Bicycle Race](http://9gag.com/gag/amA612v)
+ - 🚯 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)<!-- MEMES:END -->
 
 --- 
 
