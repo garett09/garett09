@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon card heist goes terribly wrong... for the thief](https://www.polygon.com/tabletop-games/23687028/stolen-pokemon-card-rumors-true-story-fusion-strike)
- - [You Want To Score Resident Evil 4 Remake&#39;s Infinite Rocket Launcher, Which Destroys Everything](https://kotaku.com/resident-evil-4-remake-how-to-infinite-rocket-launcher-1850348950)
- - [Everything about the Love Is Blind season 4 reunion special was messy](https://www.polygon.com/23688320/love-is-blind-reunion-special-season-4)<!-- GAME:END -->
+ - [Live service keeps killing modestly successful multiplayer games, and it doesn&#39;t have to be this way](https://www.pcgamer.com/live-service-keeps-killing-modestly-successful-multiplayer-games-and-it-doesnt-have-to-be-this-way)
+ - [Looting Just Got A Lot Easier In Horizon Forbidden West, But Only On PS5](https://kotaku.com/horizon-forbidden-west-burning-shores-dlc-looting-1850349842)
+ - [The Witch From Mercury has become the ultimate Gundam show](https://www.polygon.com/23688189/witch-from-mercury-gundam-show-best)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
