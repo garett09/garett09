@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16-inch MacBook Pro vs LG Gram 17 - compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/16-inch-macbook-pro-vs-lg-gram-17---compared?utm_medium=rss)
- - [The best magnetic chargers to buy for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [The 13 Best Shows on HBO Max Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [Netflix says it will ship its last red DVD envelopes in September, after 25 years of mailing shows and movies to subscribers and paving the way for streaming &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/230418/p23#a230418p23)
+ - [Netflix is shutting down its original DVD business after 25 years](https://www.theverge.com/2023/4/18/23688543/netflix-dvd-com-business-25-years)
+ - [How to set up two-factor authentication on your online services](https://www.theverge.com/23612381/two-factor-authentication-2fa-amazon-twitter-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
