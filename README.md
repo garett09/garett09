@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)
- - 🚯 [Netflix&#39;s Queen Cleopatra Official Trailer with over 200k dislikes and just 20k likes.](http://9gag.com/gag/axo67XY)
- - 🚯 [It&#39;s worth a repost](http://9gag.com/gag/avQ6zVX)<!-- MEMES:END -->
+ - 🚖 [A great house to live](http://9gag.com/gag/amA6PO4)
+ - 🚯 [Happens to me all the time, too](http://9gag.com/gag/az2Kmpp)
+ - 🚯 [Why do mantises win all the time?](http://9gag.com/gag/abv4rAB)<!-- MEMES:END -->
 
 --- 
 
