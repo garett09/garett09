@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Bluesky CEO Jay Graber about its AT Protocol, content moderation, and more; he says the federated social network has let in about 20,000 users so far &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230418/p10#a230418p10)
- - [The Latest TikTok Trend? Shoplifters and Vigilantes](https://www.wired.com/story/tiktok-vigilantes-neighborhood-surveillance/)
- - [The ‘Bad Astronomer’ Takes You on a Tour of the Cosmos](https://www.wired.com/story/the-bad-astronomer-takes-you-on-a-tour-of-the-cosmos/)<!-- TECH:END -->
+ - [Used Routers Often Come Loaded With Corporate Secrets](https://www.wired.com/story/used-enterprise-router-company-secrets/)
+ - [Nomad Portable Grill Review: Pricey but Almost Perfect](https://www.wired.com/review/nomad-portable-grill/)
+ - [Xiaomi 13 Ultra announced: The best Android camera phone?](https://www.androidauthority.com/xiaomi-13-ultra-3314096/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
