@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix delays its password-sharing crackdown to sometime before July](https://www.theverge.com/2023/4/18/23687853/netflix-earnings-password-sharing-delay-q1-2023)
- - [The Beats Studio Buds Plus are on the way, time to get discounted original buds](https://www.androidauthority.com/beats-studio-buds-plus-3314466/)
- - [Netflix plans a &quot;broad rollout&quot; of its paid sharing plan in Q2 2023, including to the US, after its Canada, New Zealand, Portugal, and Spain launch in February &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230418/p26#a230418p26)<!-- TECH:END -->
+ - [Apple TV+ &#39;Mythic Quest&#39; actor F. Murray Abraham exited series after sexual misconduct claims](https://appleinsider.com/articles/23/04/18/apple-tv-mythic-quest-actor-f-murray-abraham-exited-series-after-sexual-misconduct-claims?utm_medium=rss)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Sources: Meta is expected to conduct another mass round of layoffs on April 19, a source says possibly in the range of 4,000 jobs, out of the planned 10,000 &lpar;Shirin Ghaffary/Vox&rpar;](http://www.techmeme.com/230418/p28#a230418p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
