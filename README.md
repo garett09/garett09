@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A great house to live](http://9gag.com/gag/amA6PO4)
- - 🚯 [Happens to me all the time, too](http://9gag.com/gag/az2Kmpp)
- - 🚯 [Why do mantises win all the time?](http://9gag.com/gag/abv4rAB)<!-- MEMES:END -->
+ - 🚖 [I love this](http://9gag.com/gag/aZD8DdW)
+ - 🚯 [Fairytales from the Barbershop](http://9gag.com/gag/anz2zKn)
+ - 🚯 [Looking for darwin](http://9gag.com/gag/aXnVn3D)<!-- MEMES:END -->
 
 --- 
 
