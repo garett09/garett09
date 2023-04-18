@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo’s next Indie World livestream drops April 19](https://www.polygon.com/23687861/nintendo-direct-indie-world-april-2023-date-time)
- - [Coming to Xbox Game Pass: Redfall, The Last Case of Benedict Fox, BlazBlue: Cross Tag Battle, and More](https://news.xbox.com/en-us/2023/04/18/game-pass-april-2023-wave-2-announce/)
- - [The best portable chargers for your gear](https://www.polygon.com/what-to-buy/23672627/best-power-bank-portable-chargers)<!-- GAME:END -->
+ - [Coffee Talk: Blending fantasy with reality](https://blog.playstation.com/2023/04/18/coffee-talk-blending-fantasy-with-reality/)
+ - [Dead Island 2 is as mindless as its zombies](https://www.polygon.com/reviews/23687793/dead-island-2-review-release-date-zombie-rpg)
+ - [Dead Island 2: The Kotaku Review](https://kotaku.com/dead-island-2-review-release-date-dambuster-ps5-rpg-1850345905)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
