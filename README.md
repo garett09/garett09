@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s invincible till someone punchs his knee caps and suddenly being 260kg isnt so fun anymore.](http://9gag.com/gag/a4oNEZv)
- - 🚯 [I don&#39;t really follow US affairs that much any more, but I&#39;m curious: has there been any consequences on this or were all the BLM supporters just like `this is fine`?](http://9gag.com/gag/a8q0qXO)
- - 🚯 [They paused the game for this](http://9gag.com/gag/az2Kmbz)<!-- MEMES:END -->
+ - 🚖 [The way this ping pong player tricked his opponent by faking a shot](http://9gag.com/gag/ay26M0V)
+ - 🚯 [`You&#39;re taking up resources from the city whenever you call for someone to ensure that a bomb is inactive`](http://9gag.com/gag/aBdVgPz)
+ - 🚯 [Brilliant](http://9gag.com/gag/aEqA86O)<!-- MEMES:END -->
 
 --- 
 
