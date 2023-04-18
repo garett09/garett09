@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the rumors about Google’s upcoming Pixel hardware so far](https://www.theverge.com/23687731/pixel-hardware-rumors-7a-foldable-fold-tablet)
- - [Sources: Chinese regulators are expected to lower the fine on Ant Group to about $728M, down from the $1B+ initially planned, and soften the wording of charges &lpar;Reuters&rpar;](http://www.techmeme.com/230418/p7#a230418p7)
- - [Ransomware attacks in Japan, which exported chip components worth $42.3B last year, reportedly grew 58% YoY in 2022, and can cause global supply chain issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/230418/p6#a230418p6)<!-- TECH:END -->
+ - [Outlook for Mac’s new profiles separate work and personal emails with colorful themes](https://www.theverge.com/2023/4/18/23687747/microsoft-outlook-for-mac-profiles-focus-feature)
+ - [Tim Cook opens first Apple Store in India](https://appleinsider.com/articles/23/04/18/tim-cook-opens-first-apple-store-in-india?utm_medium=rss)
+ - [Coinbase CEO Brian Armstrong says &quot;anything is on the table, including relocating&quot; from the US if regulatory clarity for the industry does not emerge &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230418/p8#a230418p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
