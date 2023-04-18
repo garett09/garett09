@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Counterman v. Colorado, a cyberstalking case the SCOTUS will hear on April 19 and that could have sweeping consequences for online speech writ large &lpar;Issie Lapowsky/Fast Company&rpar;](http://www.techmeme.com/230417/p22#a230417p22)
- - [In an interview with Tucker Carlson, Elon Musk says he&#39;s working on &quot;TruthGPT or a maximum truth-seeking AI that tries to understand the nature of the universe&quot; &lpar;Bailee Hill/Fox News&rpar;](http://www.techmeme.com/230417/p21#a230417p21)
- - [WhatsApp and other encrypted messaging apps sign a letter urging the UK government to rethink the Online Safety Bill, which would weaken privacy on the internet &lpar;BBC&rpar;](http://www.techmeme.com/230417/p20#a230417p20)<!-- TECH:END -->
+ - [Google may not discontinue the Pixel 6a after launching the Pixel 7a](https://www.androidauthority.com/google-pixel-6a-discontinue-3314078/)
+ - [MacStadium offers self-service purchase option with Orka Small Teams Edition](https://appleinsider.com/articles/23/04/18/macstadium-offers-self-service-purchase-option-with-orka-small-teams-edition?utm_medium=rss)
+ - [Pokémon Go developer Niantic is making a real-world Monster Hunter game](https://www.theverge.com/2023/4/18/23687404/monster-hunter-now-niantic-pokemon-go-ar-real-world)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
