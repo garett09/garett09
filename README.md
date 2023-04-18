@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is developing an AI chip, internally codenamed Athena, since as early as 2019 and is testing it with some Microsoft and OpenAI employees &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/230418/p13#a230418p13)
- - [Best Apple Watch &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
- - [9 Resources to Make the Most of Generative AI](https://www.wired.com/story/9-resources-learn-generative-ai/)<!-- TECH:END -->
+ - [Microsoft reportedly working on its own AI chips that may rival Nvidia’s](https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia)
+ - [Best Kindle &lpar;2023&rpar;: Which Amazon Ebook Reader Should You Buy?](https://www.wired.com/gallery/best-kindle/)
+ - [Apple&#39;s new India BKC store opening was met by massive crowds](https://appleinsider.com/articles/23/04/18/apples-new-india-bkc-store-opening-was-met-by-massive-crowds?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
