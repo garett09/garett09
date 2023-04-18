@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happens to me all the time, too](http://9gag.com/gag/az2Kmpp)
- - 🚯 [\u200e\u200e\u200e\u200e\u200e](http://9gag.com/gag/a8q07wQ)
- - 🚯 [It&#39;s worth a repost](http://9gag.com/gag/avQ6zVX)<!-- MEMES:END -->
+ - 🚖 [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)
+ - 🚯 [I think someones trying to frame me!](http://9gag.com/gag/aXnVLY6)
+ - 🚯 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)<!-- MEMES:END -->
 
 --- 
 
