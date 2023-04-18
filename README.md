@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best order to watch all the Transformers movies](https://www.polygon.com/entertainment/23686534/transformers-watch-order-movies-chronological-streaming)
- - [Can Trapinch be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23686640/can-trapinch-be-shiny-vibrava-flygon)
- - [Niantic is giving Monster Hunter the Pokémon Go treatment](https://www.polygon.com/23686321/monster-hunter-now-capcom-niantic-pokemon-go)<!-- GAME:END -->
+ - [How to solve the Tiltren tomb puzzle in Wartales](https://www.pcgamer.com/wartales-tiltren-tomb-puzzle)
+ - [If there&#39;s one thing AI has done for us, it&#39;s killed Zuck&#39;s metaverse](https://www.pcgamer.com/if-theres-one-thing-ai-has-done-for-us-its-killed-zucks-metaverse)
+ - [Counter-Strike skin sells for $400K, probably the most expensive gun in videogame history](https://www.pcgamer.com/counter-strike-skin-sells-for-dollar400k-probably-the-most-expensive-gun-in-videogame-history)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
