@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Know About The Legend of Zelda: Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-switch-price-date-ganondorf-1850348965)
- - [The Mageseeker: A League of Legends Story is available on Xbox today](https://news.xbox.com/en-us/2023/04/18/the-mageseeker-a-league-of-legends-story-launch/)
- - [11 great spy shows to watch right now](https://www.polygon.com/what-to-watch/23665142/best-spy-tv-shows-series-to-watch-netflix-amazon-prime)<!-- GAME:END -->
+ - [Pokémon card heist goes terribly wrong... for the thief](https://www.polygon.com/tabletop-games/23687028/stolen-pokemon-card-rumors-true-story-fusion-strike)
+ - [You Want To Score Resident Evil 4 Remake&#39;s Infinite Rocket Launcher, Which Destroys Everything](https://kotaku.com/resident-evil-4-remake-how-to-infinite-rocket-launcher-1850348950)
+ - [Everything about the Love Is Blind season 4 reunion special was messy](https://www.polygon.com/23688320/love-is-blind-reunion-special-season-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
