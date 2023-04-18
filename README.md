@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Allez omi, opi is on the road](http://9gag.com/gag/aMEPEzx)
- - 🚯 [Butt ...](http://9gag.com/gag/aGEBd60)
+ - 🚖 [My dad did the same except without the cushion](http://9gag.com/gag/aoKRMQx)
+ - 🚯 [The way this ping pong player tricked his opponent by faking a shot](http://9gag.com/gag/ay26M0V)
  - 🚯 [Not creepy at all](http://9gag.com/gag/amA65PX)<!-- MEMES:END -->
 
 --- 
