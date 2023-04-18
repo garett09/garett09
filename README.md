@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Speedstorm Hits Early Access on Xbox Today with Fully Featured Local Multiplayer Mode](https://news.xbox.com/en-us/2023/04/18/disney-speedstorm-early-access-on-xbox-today/)
- - [Marvel Snap Card Was So Broken, It’s Getting Fixed And Gifted To Everyone](https://kotaku.com/kitty-pryde-marvel-snap-update-patch-notes-discord-1850348535)
- - [The Mageseeker: A League of Legends Story review](https://www.pcgamer.com/the-mageseeker-a-league-of-legends-story-review)<!-- GAME:END -->
+ - [Everything We Know About The Legend of Zelda: Tears Of The Kingdom](https://kotaku.com/zelda-tears-of-the-kingdom-switch-price-date-ganondorf-1850348965)
+ - [The Mageseeker: A League of Legends Story is available on Xbox today](https://news.xbox.com/en-us/2023/04/18/the-mageseeker-a-league-of-legends-story-launch/)
+ - [11 great spy shows to watch right now](https://www.polygon.com/what-to-watch/23665142/best-spy-tv-shows-series-to-watch-netflix-amazon-prime)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
