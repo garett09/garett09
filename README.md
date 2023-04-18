@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the Tiltren tomb puzzle in Wartales](https://www.pcgamer.com/wartales-tiltren-tomb-puzzle)
- - [If there&#39;s one thing AI has done for us, it&#39;s killed Zuck&#39;s metaverse](https://www.pcgamer.com/if-theres-one-thing-ai-has-done-for-us-its-killed-zucks-metaverse)
- - [Counter-Strike skin sells for $400K, probably the most expensive gun in videogame history](https://www.pcgamer.com/counter-strike-skin-sells-for-dollar400k-probably-the-most-expensive-gun-in-videogame-history)<!-- GAME:END -->
+ - [Nintendo’s next Indie World livestream drops April 19](https://www.polygon.com/23687861/nintendo-direct-indie-world-april-2023-date-time)
+ - [Coming to Xbox Game Pass: Redfall, The Last Case of Benedict Fox, BlazBlue: Cross Tag Battle, and More](https://news.xbox.com/en-us/2023/04/18/game-pass-april-2023-wave-2-announce/)
+ - [The best portable chargers for your gear](https://www.polygon.com/what-to-buy/23672627/best-power-bank-portable-chargers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
