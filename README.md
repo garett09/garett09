@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpecterOps, which analyzes potential attack paths hackers could exploit on platforms like Active Directory and Azure AD, raised a $25M Series A led by Decibel &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/230418/p18#a230418p18)
- - [Galaxy A24 leak reveals an unusual color option along with specs](https://www.androidauthority.com/galaxy-a24-leak-3314304/)
- - [BMW’s ‘most powerful’ EV is this new 7 Series](https://www.theverge.com/2023/4/18/23687834/bmw-i7-m70-xdrive-7-series-performance-reveal)<!-- TECH:END -->
+ - [During a hearing, House Republicans grilled SEC Chairman Gary Gensler over refusing to state whether ether is a security, despite saying bitcoin was a commodity &lpar;Chris Matthews/MarketWatch&rpar;](http://www.techmeme.com/230418/p21#a230418p21)
+ - [Sources: Apple is developing a range of VR apps for its upcoming headset, across gaming, fitness, live sports, and collaboration tools, like Freeform &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230418/p20#a230418p20)
+ - [HUAWEI FreeBuds 5i review: Superior ANC without breaking the bank](https://www.androidauthority.com/huawei-freebuds-5i-review-3308756/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
