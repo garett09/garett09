@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A true legend](http://9gag.com/gag/aVbKx7d)
- - 🚯 [Looking for darwin](http://9gag.com/gag/aXnVn3D)
- - 🚯 [Germans...](http://9gag.com/gag/a0404oL)<!-- MEMES:END -->
+ - 🚖 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)
+ - 🚯 [Netflix&#39;s Queen Cleopatra Official Trailer with over 200k dislikes and just 20k likes.](http://9gag.com/gag/axo67XY)
+ - 🚯 [It&#39;s worth a repost](http://9gag.com/gag/avQ6zVX)<!-- MEMES:END -->
 
 --- 
 
