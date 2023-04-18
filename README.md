@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [15 years ago, the NSA spied on World of Warcraft — but did a leak change anything?](https://www.polygon.com/23681144/nsa-spied-on-world-of-warcraft-second-life)
- - [Michelle Yeoh officially returns to Star Trek for Section 31 movie](https://www.polygon.com/23637514/star-trek-michelle-yeoh-section-31-show-release)
- - [Jagged Alliance 3 is a chaotic action movie homage where all of your plans will go up in flames](https://www.pcgamer.com/jagged-alliance-3-is-a-chaotic-action-movie-homage-where-all-of-your-plans-will-go-up-in-flames)<!-- GAME:END -->
+ - [Turn-based strategy meets tower defence as you fight to destroy magic forever in this brutal roguelike](https://www.pcgamer.com/turn-based-strategy-meets-tower-defence-as-you-fight-to-destroy-magic-forever-in-this-brutal-roguelike)
+ - [Where to find piglin keys in Minecraft Legends](https://www.pcgamer.com/minecraft-legends-piglin-key)
+ - [9 things to know before starting Minecraft Legends](https://www.polygon.com/23686613/minecraft-legends-beginners-tips-tricks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
