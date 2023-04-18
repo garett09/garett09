@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg announces Instagram will now allow up to five links in account bios, challenging Linktree, Beacons, and numerous other &quot;link in bio&quot; services &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230418/p16#a230418p16)
- - [Galaxy Quest, the best Star Trek movie, could be getting a TV series](https://www.theverge.com/2023/4/18/23688140/galaxy-quest-tv-series-paramount-plus-development)
- - [Southwest delayed hundreds of departures Tuesday due to a networking glitch](https://www.theverge.com/2023/4/18/23688042/southwest-flight-delays-faa-firewall-issue)<!-- TECH:END -->
+ - [SpecterOps, which analyzes potential attack paths hackers could exploit on platforms like Active Directory and Azure AD, raised a $25M Series A led by Decibel &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/230418/p18#a230418p18)
+ - [Galaxy A24 leak reveals an unusual color option along with specs](https://www.androidauthority.com/galaxy-a24-leak-3314304/)
+ - [BMW’s ‘most powerful’ EV is this new 7 Series](https://www.theverge.com/2023/4/18/23687834/bmw-i7-m70-xdrive-7-series-performance-reveal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
