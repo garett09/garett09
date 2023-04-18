@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft reportedly working on its own AI chips that may rival Nvidia’s](https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia)
- - [Best Kindle &lpar;2023&rpar;: Which Amazon Ebook Reader Should You Buy?](https://www.wired.com/gallery/best-kindle/)
- - [Apple&#39;s new India BKC store opening was met by massive crowds](https://appleinsider.com/articles/23/04/18/apples-new-india-bkc-store-opening-was-met-by-massive-crowds?utm_medium=rss)<!-- TECH:END -->
+ - [New Apple Health-compatible Withings scale offers weight &amp; body composition analysis](https://appleinsider.com/articles/23/04/18/new-apple-health-compatible-withings-scale-offers-weight-body-composition-analysis?utm_medium=rss)
+ - [Apple’s first store in India is now open](https://www.theverge.com/2023/4/18/23687955/apple-india-first-store-mumbai)
+ - [YouTube is cracking down on videos describing eating disorders](https://www.theverge.com/2023/4/18/23687938/youtube-eating-disorder-imitable-behavior-ban-age-restrictions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
