@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)
- - 🚯 [I love this so much, he did the right thing and she is free do go as she wanted... Both sides won :&rpar;](http://9gag.com/gag/aeQZ4d5)
- - 🚯 [Men will be men](http://9gag.com/gag/avQ6zE5)<!-- MEMES:END -->
+ - 🚖 [They paused the game for this](http://9gag.com/gag/az2Kmbz)
+ - 🚯 [Bought a haunted house for cheap &lpar;first house&rpar;. Had to deal with the municipal tax officer cause it\u2019s way below the market price but it all ended well](http://9gag.com/gag/a1P0mY6)
+ - 🚯 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)<!-- MEMES:END -->
 
 --- 
 
