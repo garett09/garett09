@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Diversity Hire.](http://9gag.com/gag/anz24Dz)
- - 🚯 [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)
- - 🚯 [Happens to me all the time, too](http://9gag.com/gag/az2Kmpp)<!-- MEMES:END -->
+ - 🚖 [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)
+ - 🚯 [I love this so much, he did the right thing and she is free do go as she wanted... Both sides won :&rpar;](http://9gag.com/gag/aeQZ4d5)
+ - 🚯 [Men will be men](http://9gag.com/gag/avQ6zE5)<!-- MEMES:END -->
 
 --- 
 
