@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I love this](http://9gag.com/gag/aZD8DdW)
- - 🚯 [Fairytales from the Barbershop](http://9gag.com/gag/anz2zKn)
- - 🚯 [Looking for darwin](http://9gag.com/gag/aXnVn3D)<!-- MEMES:END -->
+ - 🚖 [Fear of death](http://9gag.com/gag/aKEv6Bg)
+ - 🚯 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)
+ - 🚯 [Her hand is swollen](http://9gag.com/gag/axo6zwL)<!-- MEMES:END -->
 
 --- 
 
