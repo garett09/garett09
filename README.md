@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The way this ping pong player tricked his opponent by faking a shot](http://9gag.com/gag/ay26M0V)
- - 🚯 [`You&#39;re taking up resources from the city whenever you call for someone to ensure that a bomb is inactive`](http://9gag.com/gag/aBdVgPz)
- - 🚯 [Brilliant](http://9gag.com/gag/aEqA86O)<!-- MEMES:END -->
+ - 🚖 [A true legend](http://9gag.com/gag/aVbKx7d)
+ - 🚯 [Looking for darwin](http://9gag.com/gag/aXnVn3D)
+ - 🚯 [Germans...](http://9gag.com/gag/a0404oL)<!-- MEMES:END -->
 
 --- 
 
