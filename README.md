@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He deserves an extra tip for that.](http://9gag.com/gag/aZD80ZW)
- - 🚯 [How is that even possible!!!!](http://9gag.com/gag/a1P01DY)
- - 🚯 [Poker guide in a recently bought deck](http://9gag.com/gag/a3Z0QAr)<!-- MEMES:END -->
+ - 🚖 [He&#39;s invincible till someone punchs his knee caps and suddenly being 260kg isnt so fun anymore.](http://9gag.com/gag/a4oNEZv)
+ - 🚯 [I don&#39;t really follow US affairs that much any more, but I&#39;m curious: has there been any consequences on this or were all the BLM supporters just like `this is fine`?](http://9gag.com/gag/a8q0qXO)
+ - 🚯 [They paused the game for this](http://9gag.com/gag/az2Kmbz)<!-- MEMES:END -->
 
 --- 
 
