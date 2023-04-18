@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Health-compatible Withings scale offers weight &amp; body composition analysis](https://appleinsider.com/articles/23/04/18/new-apple-health-compatible-withings-scale-offers-weight-body-composition-analysis?utm_medium=rss)
- - [Apple’s first store in India is now open](https://www.theverge.com/2023/4/18/23687955/apple-india-first-store-mumbai)
- - [YouTube is cracking down on videos describing eating disorders](https://www.theverge.com/2023/4/18/23687938/youtube-eating-disorder-imitable-behavior-ban-age-restrictions)<!-- TECH:END -->
+ - [Mark Zuckerberg announces Instagram will now allow up to five links in account bios, challenging Linktree, Beacons, and numerous other &quot;link in bio&quot; services &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230418/p16#a230418p16)
+ - [Galaxy Quest, the best Star Trek movie, could be getting a TV series](https://www.theverge.com/2023/4/18/23688140/galaxy-quest-tv-series-paramount-plus-development)
+ - [Southwest delayed hundreds of departures Tuesday due to a networking glitch](https://www.theverge.com/2023/4/18/23688042/southwest-flight-delays-faa-firewall-issue)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
