@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They paused the game for this](http://9gag.com/gag/az2Kmbz)
- - 🚯 [Bought a haunted house for cheap &lpar;first house&rpar;. Had to deal with the municipal tax officer cause it\u2019s way below the market price but it all ended well](http://9gag.com/gag/a1P0mY6)
- - 🚯 [Something tells me her career ain&#39;t taking off](http://9gag.com/gag/avQ655X)<!-- MEMES:END -->
+ - 🚖 [I think someones trying to frame me!](http://9gag.com/gag/aXnVLY6)
+ - 🚯 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)
+ - 🚯 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)<!-- MEMES:END -->
 
 --- 
 
