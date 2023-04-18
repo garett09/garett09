@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fabledom Wants To Be The Settlers Successor You&#39;ve Been Waiting For](https://kotaku.com/fabledom-city-builder-pc-strategy-steam-romance-town-1850342935)
  - [The world&#39;s most disgusting grenade is now available in Overwatch 2](https://www.pcgamer.com/the-worlds-most-disgusting-grenade-is-now-available-in-overwatch-2)
- - [Nintendo &#39;Hacker&#39; Will Be Punished For The Rest Of His Life](https://kotaku.com/nintendo-gary-bowser-hacking-case-legal-jail-xecuter-1850346297)
- - [Fans of a sweatier Call of Duty are championing Ubisoft&#39;s free-to-play XDefiant](https://www.pcgamer.com/fans-of-a-sweatier-call-of-duty-are-championing-ubisofts-free-to-play-xdefiant)<!-- GAME:END -->
+ - [Nintendo &#39;Hacker&#39; Will Be Punished For The Rest Of His Life](https://kotaku.com/nintendo-gary-bowser-hacking-case-legal-jail-xecuter-1850346297)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
