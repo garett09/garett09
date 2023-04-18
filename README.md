@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coffee Talk: Blending fantasy with reality](https://blog.playstation.com/2023/04/18/coffee-talk-blending-fantasy-with-reality/)
- - [Dead Island 2 is as mindless as its zombies](https://www.polygon.com/reviews/23687793/dead-island-2-review-release-date-zombie-rpg)
- - [Dead Island 2: The Kotaku Review](https://kotaku.com/dead-island-2-review-release-date-dambuster-ps5-rpg-1850345905)<!-- GAME:END -->
+ - [15 years ago, the NSA spied on World of Warcraft — but did a leak change anything?](https://www.polygon.com/23681144/nsa-spied-on-world-of-warcraft-second-life)
+ - [Michelle Yeoh officially returns to Star Trek for Section 31 movie](https://www.polygon.com/23637514/star-trek-michelle-yeoh-section-31-show-release)
+ - [Jagged Alliance 3 is a chaotic action movie homage where all of your plans will go up in flames](https://www.pcgamer.com/jagged-alliance-3-is-a-chaotic-action-movie-homage-where-all-of-your-plans-will-go-up-in-flames)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
