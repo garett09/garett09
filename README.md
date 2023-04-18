@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ya&#39;ll live here](http://9gag.com/gag/aREMBN5)
- - 🚯 [This is a what men really want a girl to wear...this is fashion i can get behind with no problem, apparently is pretty trending is high fashion.](http://9gag.com/gag/aXnVPxP)
- - 🚯 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)<!-- MEMES:END -->
+ - 🚖 [Diversity Hire.](http://9gag.com/gag/anz24Dz)
+ - 🚯 [Imagine losing to this guy](http://9gag.com/gag/aVbKgv8)
+ - 🚯 [Happens to me all the time, too](http://9gag.com/gag/az2Kmpp)<!-- MEMES:END -->
 
 --- 
 
