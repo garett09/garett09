@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 7A might cost $50 more than the Pixel 6A](https://www.theverge.com/2023/4/17/23687340/pixel-7a-cost-camera-wireless-charging-tablet)
- - [Bluesky’s CEO wants to build a Musk-proof, decentralized version of Twitter](https://www.theverge.com/23686778/bluesky-ceo-jay-graber-interview-decentralized-social-media-twitter-mastodon)
- - [Everrati delivers its first electric Porsche 911 restomod built in the US](https://www.theverge.com/2023/4/17/23687169/everrati-us-first-delivery-porsche-911-964-restomod)<!-- TECH:END -->
+ - [Polestar 4 2023 Reveal: No Rear Window](https://www.wired.com/story/polestar-4-2023-reveal/)
+ - [The Polestar 4 electric SUV packs a lot of punch in a small package](https://www.theverge.com/2023/4/17/23685255/polestar-4-electric-suv-specs-photos-price-date)
+ - [Elon Musk claims to be working on ‘TruthGPT’ — a ‘maximum truth-seeking AI’](https://www.theverge.com/2023/4/17/23687440/elon-musk-truthgpt-ai-chatgpt)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
