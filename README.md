@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ &#39;Mythic Quest&#39; actor F. Murray Abraham exited series after sexual misconduct claims](https://appleinsider.com/articles/23/04/18/apple-tv-mythic-quest-actor-f-murray-abraham-exited-series-after-sexual-misconduct-claims?utm_medium=rss)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Sources: Meta is expected to conduct another mass round of layoffs on April 19, a source says possibly in the range of 4,000 jobs, out of the planned 10,000 &lpar;Shirin Ghaffary/Vox&rpar;](http://www.techmeme.com/230418/p28#a230418p28)<!-- TECH:END -->
+ - [Reddit’s upcoming API changes will make AI companies pony up](https://www.theverge.com/2023/4/18/23688463/reddit-developer-api-terms-change-monetization-ai)
+ - [Netflix delays its password-sharing crackdown to sometime before July](https://www.theverge.com/2023/4/18/23687853/netflix-earnings-password-sharing-delay-q1-2023)
+ - [Leak: Google will announce the Pixel Fold at I/O and beat Samsung on battery](https://www.theverge.com/2023/4/18/23688798/google-pixel-fold-report-weight-battery-io-announcement-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
