@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Outlook for Mac’s new profiles separate work and personal emails with colorful themes](https://www.theverge.com/2023/4/18/23687747/microsoft-outlook-for-mac-profiles-focus-feature)
- - [Tim Cook opens first Apple Store in India](https://appleinsider.com/articles/23/04/18/tim-cook-opens-first-apple-store-in-india?utm_medium=rss)
- - [Coinbase CEO Brian Armstrong says &quot;anything is on the table, including relocating&quot; from the US if regulatory clarity for the industry does not emerge &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/230418/p8#a230418p8)<!-- TECH:END -->
+ - [Q&amp;A with Bluesky CEO Jay Graber about its AT Protocol, content moderation, and more; he says the federated social network has let in about 20,000 users so far &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230418/p10#a230418p10)
+ - [The Latest TikTok Trend? Shoplifters and Vigilantes](https://www.wired.com/story/tiktok-vigilantes-neighborhood-surveillance/)
+ - [The ‘Bad Astronomer’ Takes You on a Tour of the Cosmos](https://www.wired.com/story/the-bad-astronomer-takes-you-on-a-tour-of-the-cosmos/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
