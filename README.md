@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fear of death](http://9gag.com/gag/aKEv6Bg)
- - 🚯 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)
- - 🚯 [Her hand is swollen](http://9gag.com/gag/axo6zwL)<!-- MEMES:END -->
+ - 🚖 [Allez omi, opi is on the road](http://9gag.com/gag/aMEPEzx)
+ - 🚯 [Butt ...](http://9gag.com/gag/aGEBd60)
+ - 🚯 [Not creepy at all](http://9gag.com/gag/amA65PX)<!-- MEMES:END -->
 
 --- 
 
