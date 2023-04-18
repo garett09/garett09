@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Peter Thiel-Backed Startup City Wants to Be Africa’s Delaware](https://www.wired.com/story/itana-binance-charter-cities-institute-africa-tech-startup/)
- - [An in-depth look at how police agencies across Europe infiltrated encrypted phone networks like EncroChat and Sky ECC that were popular with organized criminals &lpar;Ed Caesar/New Yorker&rpar;](http://www.techmeme.com/230418/p2#a230418p2)
- - [Google may not discontinue the Pixel 6a after launching the Pixel 7a](https://www.androidauthority.com/google-pixel-6a-discontinue-3314078/)<!-- TECH:END -->
+ - [Withings’ latest smart scale features an ‘eyes closed’ mode](https://www.theverge.com/2023/4/18/23686670/withings-body-smart-smart-scale-eyes-closed)
+ - [Samsung can’t dump Google for Bing as the default search engine on its phones](https://www.androidauthority.com/samsung-google-search-vs-bing-3314088/)
+ - [Indian customers are yet to fully benefit from Apple&#39;s India initiatives due to prohibitively expensive products and services like Apple Pay being unavailable &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230418/p5#a230418p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
