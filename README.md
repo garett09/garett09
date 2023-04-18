@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The &#39;Love Is Blind&#39; Fiasco Proves Netflix Has a Lot to Learn](https://www.wired.com/story/netflix-love-is-blind-live-streaming-problems/)
- - [Illinois, Michigan, and seven other US states join the DOJ lawsuit against Google, jointly filed with eight states in January 2023, for alleged ad tech monopoly &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/230417/p19#a230417p19)
- - [Drop CTRL mechanical keyboard review: premium typing but difficult customization](https://appleinsider.com/articles/23/04/17/drop-ctrl-mechanical-keyboard-review-premium-typing-but-difficult-customization?utm_medium=rss)<!-- TECH:END -->
+ - [The Pixel 7A might cost $50 more than the Pixel 6A](https://www.theverge.com/2023/4/17/23687340/pixel-7a-cost-camera-wireless-charging-tablet)
+ - [Bluesky’s CEO wants to build a Musk-proof, decentralized version of Twitter](https://www.theverge.com/23686778/bluesky-ceo-jay-graber-interview-decentralized-social-media-twitter-mastodon)
+ - [Everrati delivers its first electric Porsche 911 restomod built in the US](https://www.theverge.com/2023/4/17/23687169/everrati-us-first-delivery-porsche-911-964-restomod)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
