@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My dad did the same except without the cushion](http://9gag.com/gag/aoKRMQx)
+ - 🚖 [Why do mantises win all the time?](http://9gag.com/gag/abv4rAB)
  - 🚯 [The way this ping pong player tricked his opponent by faking a shot](http://9gag.com/gag/ay26M0V)
- - 🚯 [Not creepy at all](http://9gag.com/gag/amA65PX)<!-- MEMES:END -->
+ - 🚯 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)<!-- MEMES:END -->
 
 --- 
 
