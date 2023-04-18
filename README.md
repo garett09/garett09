@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brilliant](http://9gag.com/gag/aEqA86O)
- - 🚯 [It&#39;s worth a repost](http://9gag.com/gag/avQ6zVX)
+ - 🚖 [I think someones trying to frame me!](http://9gag.com/gag/aXnVLY6)
+ - 🚯 [Collecting magnetite on the beach](http://9gag.com/gag/a2K0KZw)
  - 🚯 [The name of the video is Bicycle Race](http://9gag.com/gag/amA612v)<!-- MEMES:END -->
 
 --- 
