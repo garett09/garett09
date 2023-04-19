@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Drake just set an impossible legal trap for Google](https://www.theverge.com/2023/4/19/23689879/ai-drake-song-google-youtube-fair-use)
- - [Snap expands its revenue share program to add creators with 50K+ followers and 25M+ monthly views, and says its TikTok rival Spotlight has 350M monthly users &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230419/p21#a230419p21)
- - [Snapchat is releasing its AI chatbot to everyone for free](https://www.theverge.com/2023/4/19/23688913/snapchat-my-ai-chatbot-release-open-ai)<!-- TECH:END -->
+ - [Microsoft partners with decentralized data service Space and Time to make real-time blockchain data available to developers directly from the Azure Marketplace &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230419/p24#a230419p24)
+ - [The Hacker Who Hijacked Matt Walsh&#39;s Twitter Was Just ‘Bored’](https://www.wired.com/story/matt-walsh-twitter-hack-doomed/)
+ - [Sonic The Hedgehog can actually spin in Lego’s new sets](https://www.theverge.com/23689860/lego-sonic-the-hedgehog-2023-price-release-date-speed-sphere)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
