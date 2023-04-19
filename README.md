@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
- - 🚯 [How I ride my Kawasaki according to my parents](http://9gag.com/gag/aL14edx)
+ - 🚖 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
+ - 🚯 [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)
  - 🚯 [3 Rd world countries like India is worse for solo women travellers](http://9gag.com/gag/aZD81v6)<!-- MEMES:END -->
 
 --- 
