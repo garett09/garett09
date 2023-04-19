@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The name of the video is Bicycle Race](http://9gag.com/gag/amA612v)
- - 🚯 [Did you say ice cream](http://9gag.com/gag/a1P0112)
- - 🚯 [Crying over meat emojis](http://9gag.com/gag/aOxZ4z6)<!-- MEMES:END -->
+ - 🚖 [Did you say ice cream](http://9gag.com/gag/a1P0112)
+ - 🚯 [Maybe I should following these steps](http://9gag.com/gag/a7q0OBe)
+ - 🚯 [What a lovely charming lady.](http://9gag.com/gag/aMEPm2M)<!-- MEMES:END -->
 
 --- 
 
