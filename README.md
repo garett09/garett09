@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A fan favorite is returning as Darkest Dungeon 2&#39;s final launch character, and he&#39;s looking worse than ever](https://www.pcgamer.com/a-fan-favorite-is-returning-as-darkest-dungeon-2s-final-launch-character-and-hes-looking-worse-than-ever)
- - [God of Rock and The Magic Of Game Music, As Told By Its Composers](https://news.xbox.com/en-us/2023/04/19/god-of-rock-music/)
- - [Star Trek: Strange New Worlds season 2 trailer teases a bit of time travel, Carol Kane](https://www.polygon.com/23689497/star-trek-strange-new-worlds-season-2-trailer-release-date)<!-- GAME:END -->
+ - [Pokémon&#39;s Team Rocket, Professor Oak Voice Actor Retires Due To Cancer](https://kotaku.com/pokemon-anime-oak-james-carter-cathcart-retire-cancer-1850353327)
+ - [OK things are getting silly now: This streamer beat Elden Ring with her brain](https://www.pcgamer.com/ok-things-are-getting-silly-now-this-streamer-beat-elden-ring-with-her-brain)
+ - [How to make Minecraft Legends feel actually good to play](https://www.polygon.com/guides/23685767/minecraft-legends-controller-setup-mouse-keyboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
