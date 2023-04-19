@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GlobalFoundries sues IBM for allegedly sharing confidential IP and trade secrets with Rapidus, a Japanese chip company that IBM is working with on 2nm chips &lpar;Jane Lee/Reuters&rpar;](http://www.techmeme.com/230419/p13#a230419p13)
- - [Everything spy movies get right &lpar;and wrong&rpar; about smart glasses](https://www.theverge.com/23678696/smart-glasses-spy-films-gadgets-privacy)
- - [Tim Cook meets with India&#39;s Prime Minister, as tour continues](https://appleinsider.com/articles/23/04/19/tim-cook-meets-with-indias-prime-minister-as-tour-continues?utm_medium=rss)<!-- TECH:END -->
+ - [Meta’s latest layoffs cut employees in technical roles](https://www.theverge.com/2023/4/19/23689575/meta-layoffs-employees-technical-roles)
+ - [Sources: Microsoft plans to release its first ARM-powered Surface Go 4 in 2023, and is working on a smaller Surface Pro with an 11-inch display &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230419/p16#a230419p16)
+ - [The Search for Long Covid Treatments Takes a Promising Turn](https://www.wired.com/story/long-covid-treatments/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
