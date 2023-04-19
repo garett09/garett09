@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)
- - 🚯 [Baby Mute](http://9gag.com/gag/axo6v6n)
- - 🚯 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
+ - 🚖 [Based Egyptians](http://9gag.com/gag/aA0KKME)
+ - 🚯 [Design vs programming](http://9gag.com/gag/abv44Dp)
+ - 🚯 [Real Growth Takes Time](http://9gag.com/gag/aDY8bGK)<!-- MEMES:END -->
 
 --- 
 
