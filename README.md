@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
- - 🚯 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)
+ - 🚖 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)
+ - 🚯 [Design vs programming](http://9gag.com/gag/abv44Dp)
  - 🚯 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)<!-- MEMES:END -->
 
 --- 
