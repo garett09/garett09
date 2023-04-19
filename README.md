@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Did you say ice cream](http://9gag.com/gag/a1P0112)
- - 🚯 [Maybe I should following these steps](http://9gag.com/gag/a7q0OBe)
- - 🚯 [What a lovely charming lady.](http://9gag.com/gag/aMEPm2M)<!-- MEMES:END -->
+ - 🚯 [A cloud 7 kilometers thick passed over Istanbul. In the meantime, the sun disappeared in 5 minutes, and the day turned into night. Some people commented on the apocalypse. Here are those moments... \ud83d\udc40](http://9gag.com/gag/a9q5vnj)
+ - 🚯 [Show me all your Mario movie easter eggs](http://9gag.com/gag/aVbKg2y)<!-- MEMES:END -->
 
 --- 
 
