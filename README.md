@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [The name of the video is Bicycle Race](http://9gag.com/gag/amA612v)
- - 🚯 [Zoom call from a ceo who cancelled all employee bonuses but took a $6.4 million bonus herself, for you kindness and be nice](http://9gag.com/gag/aA0Ky72)
- - 🚯 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)<!-- MEMES:END -->
+ - 🚯 [Shooting an expensive shot](http://9gag.com/gag/aeQZ9jB)
+ - 🚯 [Lol](http://9gag.com/gag/amA6oZj)<!-- MEMES:END -->
 
 --- 
 
