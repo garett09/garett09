@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
- - 🚯 [Imagine being triggered over some 11 year old kid calling you \u201cNPC\u201d to the point you resort to stabbing him](http://9gag.com/gag/aL14erM)
- - 🚯 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)<!-- MEMES:END -->
+ - 🚖 [\u201cSo you have chosen... death\u201d.](http://9gag.com/gag/aVbKoVw)
+ - 🚯 [When you don\u2019t need a medical degree to speak facts](http://9gag.com/gag/a7q0Ozw)
+ - 🚯 [Sexy door, dirty girl](http://9gag.com/gag/aREMZRj)<!-- MEMES:END -->
 
 --- 
 
