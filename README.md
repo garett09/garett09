@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Techland wants to know who you&#39;d like to play as in Dying Light 3](https://www.pcgamer.com/techland-wants-to-know-who-youd-like-to-play-as-in-dying-light-3)
- - [Asus ROG Strix Scar 16](https://www.pcgamer.com/asus-rog-strix-scar-16-2023-review-benchmarks)
- - [VR Skater debuts the Mega Ramp when it kickflips onto PS VR2 this summer](https://blog.playstation.com/2023/04/19/vr-skater-debuts-the-mega-ramp-when-it-kickflips-onto-ps-vr2-this-summer/)<!-- GAME:END -->
+ - [How Star Trek Icon Gates McFadden Joined Star Trek Online](https://news.xbox.com/en-us/2023/04/19/star-trek-online-gates-mcfadden-beverly-crusher-refractions/)
+ - [Insidious’ next chapter checks in with its original characters 10 years later](https://www.polygon.com/23688453/insidious-red-door-trailer-movie-sequel)
+ - [You&#39;ve got one week to try Modern Warfare 2&#39;s multiplayer for free](https://www.pcgamer.com/youve-got-one-week-to-try-modern-warfare-2s-multiplayer-for-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
