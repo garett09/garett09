@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Real-time 3D watch faces for Wear OS are here](https://www.androidauthority.com/3d-watch-faces-3314790/)
- - [Nintendo’s Indie World showcase features Cult of the Lamb DLC, Oxenfree II, and more](https://www.theverge.com/2023/4/19/23689484/nintendo-indie-world-oxenfree-2-cult-of-the-lamb)
- - [The best Samsung Galaxy deals: Get the Galaxy A54 5G for just $199.99](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
+ - [AI Drake just set an impossible legal trap for Google](https://www.theverge.com/2023/4/19/23689879/ai-drake-song-google-youtube-fair-use)
+ - [Snap expands its revenue share program to add creators with 50K+ followers and 25M+ monthly views, and says its TikTok rival Spotlight has 350M monthly users &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230419/p21#a230419p21)
+ - [Snapchat is releasing its AI chatbot to everyone for free](https://www.theverge.com/2023/4/19/23688913/snapchat-my-ai-chatbot-release-open-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
