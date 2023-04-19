@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet now lets you turn off distracting video feeds](https://www.theverge.com/2023/4/19/23689326/google-meet-turn-off-distracting-video-feeds)
- - [Deals: $300 off M2 Max MacBook Pro, $100 off iPad Air 5, portable monitors from $160, more](https://appleinsider.com/articles/23/04/19/deals-300-off-m2-max-macbook-pro-100-off-ipad-air-5-portable-monitors-from-160-more?utm_medium=rss)
- - [I just discovered my Roomba can be a security camera](https://www.theverge.com/2023/4/17/23686553/irobot-roomba-j7-security-camera-beta-feature)<!-- TECH:END -->
+ - [GlobalFoundries sues IBM for allegedly sharing confidential IP and trade secrets with Rapidus, a Japanese chip company that IBM is working with on 2nm chips &lpar;Jane Lee/Reuters&rpar;](http://www.techmeme.com/230419/p13#a230419p13)
+ - [Everything spy movies get right &lpar;and wrong&rpar; about smart glasses](https://www.theverge.com/23678696/smart-glasses-spy-films-gadgets-privacy)
+ - [Tim Cook meets with India&#39;s Prime Minister, as tour continues](https://appleinsider.com/articles/23/04/19/tim-cook-meets-with-indias-prime-minister-as-tour-continues?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
