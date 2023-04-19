@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Satan, calm down!](http://9gag.com/gag/aREML05)
- - 🚯 [Clown World](http://9gag.com/gag/aDY8YOZ)
- - 🚯 [Build the wall](http://9gag.com/gag/aKEvAjg)<!-- MEMES:END -->
+ - 🚖 [Fallen 9gagger](http://9gag.com/gag/ajVLP88)
+ - 🚯 [Outstanding reverse uno card](http://9gag.com/gag/aDY82BO)
+ - 🚯 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)<!-- MEMES:END -->
 
 --- 
 
