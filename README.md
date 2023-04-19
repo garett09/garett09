@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ticketing service SeatGeek filed confidentially in April for a US IPO; a source says the company expects more than $500M in revenue in 2023 &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230419/p26#a230419p26)
- - [The Supreme Court Has Delayed Its Abortion Pill Decision](https://www.wired.com/story/supreme-court-delays-abortion-pill-decision/)
- - [Purdue adds support for digital student IDs on iPhone &amp; Apple Watch](https://appleinsider.com/articles/23/04/19/purdue-adds-support-for-digital-student-ids-on-iphone-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk threatens to sue Microsoft](https://www.theverge.com/2023/4/19/23690216/elon-musk-microsoft-ai-lawsuit-threat)
+ - [IBM reports Q1 revenue up 0.4% YoY to $14.25B, vs. $14.35B est., net income up 26% YoY to $927M, and software revenue up 2.6% YoY to $5.92B, vs. $5.83B est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230419/p29#a230419p29)
+ - [SpaceX Starship launch countdown: all of the news on its first test flight](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
