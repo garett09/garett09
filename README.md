@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Google Pixel 7 and Pixel 7 Pro wireless chargers](https://www.androidauthority.com/best-wireless-charger-pixel-7-pro-3314172/)
- - [TSMC is continuing to complain about &#39;unacceptable&#39; US chip plant terms](https://appleinsider.com/articles/23/04/19/tsmc-is-continuing-to-complain-about-unacceptable-us-chip-plant-terms?utm_medium=rss)
- - [Some iPhone users say Apple&#39;s policies made it hard for them to regain access to their accounts after thieves used the optional Recovery Key to lock them out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230419/p11#a230419p11)<!-- TECH:END -->
+ - [Google Meet now lets you turn off distracting video feeds](https://www.theverge.com/2023/4/19/23689326/google-meet-turn-off-distracting-video-feeds)
+ - [Deals: $300 off M2 Max MacBook Pro, $100 off iPad Air 5, portable monitors from $160, more](https://appleinsider.com/articles/23/04/19/deals-300-off-m2-max-macbook-pro-100-off-ipad-air-5-portable-monitors-from-160-more?utm_medium=rss)
+ - [I just discovered my Roomba can be a security camera](https://www.theverge.com/2023/4/17/23686553/irobot-roomba-j7-security-camera-beta-feature)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
