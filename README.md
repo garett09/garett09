@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The name of the video is Bicycle Race](http://9gag.com/gag/amA612v)
- - 🚯 [Shooting an expensive shot](http://9gag.com/gag/aeQZ9jB)
- - 🚯 [Lol](http://9gag.com/gag/amA6oZj)<!-- MEMES:END -->
+ - 🚖 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
+ - 🚯 [This photo is actually one single exposure. No photoshop tricks. Check comments for explanation.](http://9gag.com/gag/amA6WpX)
+ - 🚯 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
 
 --- 
 
