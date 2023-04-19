@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [Age of Empires 2 gets some all-timer patch notes as it finally stops monks hiding in relics and dying when they drop them](https://www.pcgamer.com/age-of-empires-2-gets-some-all-timer-patch-notes-as-it-finally-stops-monks-hiding-in-relics-and-dying-when-they-drop-them)
- - [Jack Black’s ‘Peaches’ from the Mario movie has entered the Billboard Hot 100](https://www.polygon.com/23689495/jack-black-peaches-super-mario-bros-movie-billboard-hot-100)<!-- GAME:END -->
+ - [A fan favorite is returning as Darkest Dungeon 2&#39;s final launch character, and he&#39;s looking worse than ever](https://www.pcgamer.com/a-fan-favorite-is-returning-as-darkest-dungeon-2s-final-launch-character-and-hes-looking-worse-than-ever)
+ - [God of Rock and The Magic Of Game Music, As Told By Its Composers](https://news.xbox.com/en-us/2023/04/19/god-of-rock-music/)
+ - [Star Trek: Strange New Worlds season 2 trailer teases a bit of time travel, Carol Kane](https://www.polygon.com/23689497/star-trek-strange-new-worlds-season-2-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
