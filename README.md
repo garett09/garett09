@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit’s upcoming API changes will make AI companies pony up](https://www.theverge.com/2023/4/18/23688463/reddit-developer-api-terms-change-monetization-ai)
- - [Netflix delays its password-sharing crackdown to sometime before July](https://www.theverge.com/2023/4/18/23687853/netflix-earnings-password-sharing-delay-q1-2023)
- - [Leak: Google will announce the Pixel Fold at I/O and beat Samsung on battery](https://www.theverge.com/2023/4/18/23688798/google-pixel-fold-report-weight-battery-io-announcement-release-date)<!-- TECH:END -->
+ - [Semgrep, formally r2c, which offers tools to help devs scan for vulnerable code, raised a $53M Series C led by Lightspeed, bringing its total funding to $93M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/230418/p31#a230418p31)
+ - [The Biggest Toys From 2022 That You&#39;ll Want in 2023     - CNET](https://www.cnet.com/culture/entertainment/holiday-toys/#ftag=CAD590a51e)
+ - [Reddit’s upcoming API changes will make AI companies pony up](https://www.theverge.com/2023/4/18/23688463/reddit-developer-api-terms-change-monetization-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
