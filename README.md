@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
- - 🚯 [Outstanding reverse uno card](http://9gag.com/gag/aDY82BO)
- - 🚯 [Baby Mute](http://9gag.com/gag/axo6v6n)<!-- MEMES:END -->
+ - 🚯 [Currently at the World Championship Snooker](http://9gag.com/gag/adPQPRB)
+ - 🚯 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)<!-- MEMES:END -->
 
 --- 
 
