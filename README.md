@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon&#39;s Team Rocket, Professor Oak Voice Actor Retires Due To Cancer](https://kotaku.com/pokemon-anime-oak-james-carter-cathcart-retire-cancer-1850353327)
- - [OK things are getting silly now: This streamer beat Elden Ring with her brain](https://www.pcgamer.com/ok-things-are-getting-silly-now-this-streamer-beat-elden-ring-with-her-brain)
- - [How to make Minecraft Legends feel actually good to play](https://www.polygon.com/guides/23685767/minecraft-legends-controller-setup-mouse-keyboard)<!-- GAME:END -->
+ - [See Euphoria’s Sydney Sweeney play a famed data leaker in Reality](https://www.polygon.com/23689819/sydney-sweeney-reality-winner-movie-hbo-release-date)
+ - [The Mandalorian is buckling under the weight of all this continuity](https://www.polygon.com/23688759/mandalorian-season-3-finale-review-too-much)
+ - [The best-named game of the year finally has a release date, and it&#39;s just 4 months away](https://www.pcgamer.com/the-best-named-game-of-the-year-finally-has-a-release-date-and-its-just-4-months-away)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
