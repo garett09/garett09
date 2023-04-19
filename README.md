@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Star Trek Icon Gates McFadden Joined Star Trek Online](https://news.xbox.com/en-us/2023/04/19/star-trek-online-gates-mcfadden-beverly-crusher-refractions/)
- - [Insidious’ next chapter checks in with its original characters 10 years later](https://www.polygon.com/23688453/insidious-red-door-trailer-movie-sequel)
- - [You&#39;ve got one week to try Modern Warfare 2&#39;s multiplayer for free](https://www.pcgamer.com/youve-got-one-week-to-try-modern-warfare-2s-multiplayer-for-free)<!-- GAME:END -->
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
+ - [Age of Empires 2 gets some all-timer patch notes as it finally stops monks hiding in relics and dying when they drop them](https://www.pcgamer.com/age-of-empires-2-gets-some-all-timer-patch-notes-as-it-finally-stops-monks-hiding-in-relics-and-dying-when-they-drop-them)
+ - [Jack Black’s ‘Peaches’ from the Mario movie has entered the Billboard Hot 100](https://www.polygon.com/23689495/jack-black-peaches-super-mario-bros-movie-billboard-hot-100)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
