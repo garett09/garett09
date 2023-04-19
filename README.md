@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft partners with decentralized data service Space and Time to make real-time blockchain data available to developers directly from the Azure Marketplace &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/230419/p24#a230419p24)
- - [The Hacker Who Hijacked Matt Walsh&#39;s Twitter Was Just ‘Bored’](https://www.wired.com/story/matt-walsh-twitter-hack-doomed/)
- - [Sonic The Hedgehog can actually spin in Lego’s new sets](https://www.theverge.com/23689860/lego-sonic-the-hedgehog-2023-price-release-date-speed-sphere)<!-- TECH:END -->
+ - [Sources: ticketing service SeatGeek filed confidentially in April for a US IPO; a source says the company expects more than $500M in revenue in 2023 &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230419/p26#a230419p26)
+ - [The Supreme Court Has Delayed Its Abortion Pill Decision](https://www.wired.com/story/supreme-court-delays-abortion-pill-decision/)
+ - [Purdue adds support for digital student IDs on iPhone &amp; Apple Watch](https://appleinsider.com/articles/23/04/19/purdue-adds-support-for-digital-student-ids-on-iphone-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
