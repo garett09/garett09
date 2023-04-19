@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anime convention problems](http://9gag.com/gag/aZD8QyX)
- - 🚯 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)
- - 🚯 [Design vs programming](http://9gag.com/gag/abv44Dp)<!-- MEMES:END -->
+ - 🚖 [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)
+ - 🚯 [Baby Mute](http://9gag.com/gag/axo6v6n)
+ - 🚯 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
 
 --- 
 
