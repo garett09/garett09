@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are Screens Stealing My Childhood?](https://www.wired.com/story/are-screens-stealing-my-childhood/)
- - [How ChatGPT—and Bots Like It—Can Spread Malware](https://www.wired.com/story/chatgpt-ai-bots-spread-malware/)
- - [&#39;Mrs. Davis&#39; Gets AI Right—Because It&#39;s a Comedy](https://www.wired.com/story/mrs-davis-peacock-ai-nun/)<!-- TECH:END -->
+ - [How to protect yourself when your iPhone and passcode are stolen](https://appleinsider.com/inside/iphone/tips/how-to-protect-yourself-when-your-iphone-and-passcode-are-stolen?utm_medium=rss)
+ - [The Castaways Who Built a Town From Their Wrecked Ship](https://www.wired.com/story/david-grann-the-wager-book-excerpt/)
+ - [BMW i7 xDrive60 review: the one with the 31-inch movie screen in the back](https://www.theverge.com/23686915/bmw-i7-xdrive60-review-photos-specs-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
