@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to protect yourself when your iPhone and passcode are stolen](https://appleinsider.com/inside/iphone/tips/how-to-protect-yourself-when-your-iphone-and-passcode-are-stolen?utm_medium=rss)
- - [The Castaways Who Built a Town From Their Wrecked Ship](https://www.wired.com/story/david-grann-the-wager-book-excerpt/)
- - [BMW i7 xDrive60 review: the one with the 31-inch movie screen in the back](https://www.theverge.com/23686915/bmw-i7-xdrive60-review-photos-specs-price)<!-- TECH:END -->
+ - [The best Google Pixel 7 and Pixel 7 Pro wireless chargers](https://www.androidauthority.com/best-wireless-charger-pixel-7-pro-3314172/)
+ - [TSMC is continuing to complain about &#39;unacceptable&#39; US chip plant terms](https://appleinsider.com/articles/23/04/19/tsmc-is-continuing-to-complain-about-unacceptable-us-chip-plant-terms?utm_medium=rss)
+ - [Some iPhone users say Apple&#39;s policies made it hard for them to regain access to their accounts after thieves used the optional Recovery Key to lock them out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230419/p11#a230419p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
