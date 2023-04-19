@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shooting an expensive shot](http://9gag.com/gag/aeQZ9jB)
- - 🚯 [Disappointment](http://9gag.com/gag/anz22bn)
- - 🚯 [Outstanding reverse uno card](http://9gag.com/gag/aDY82BO)<!-- MEMES:END -->
+ - 🚖 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
+ - 🚯 [Imagine being triggered over some 11 year old kid calling you \u201cNPC\u201d to the point you resort to stabbing him](http://9gag.com/gag/aL14erM)
+ - 🚯 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)<!-- MEMES:END -->
 
 --- 
 
