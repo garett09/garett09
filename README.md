@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s latest layoffs cut employees in technical roles](https://www.theverge.com/2023/4/19/23689575/meta-layoffs-employees-technical-roles)
- - [Sources: Microsoft plans to release its first ARM-powered Surface Go 4 in 2023, and is working on a smaller Surface Pro with an 11-inch display &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230419/p16#a230419p16)
- - [The Search for Long Covid Treatments Takes a Promising Turn](https://www.wired.com/story/long-covid-treatments/)<!-- TECH:END -->
+ - [Real-time 3D watch faces for Wear OS are here](https://www.androidauthority.com/3d-watch-faces-3314790/)
+ - [Nintendo’s Indie World showcase features Cult of the Lamb DLC, Oxenfree II, and more](https://www.theverge.com/2023/4/19/23689484/nintendo-indie-world-oxenfree-2-cult-of-the-lamb)
+ - [The best Samsung Galaxy deals: Get the Galaxy A54 5G for just $199.99](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
