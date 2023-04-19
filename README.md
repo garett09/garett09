@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch 5 and Galaxy Watch 5 Pro now feature skin temperature measurement](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-skin-temperature-cycle-tracking-3314631/)
- - [Have the cheapest Netflix plan? Here’s some good news for you](https://www.androidauthority.com/netflix-basic-with-ads-plan-video-quality-upgrade-3314702/)
- - [ASUS ROG Ally specs leak: More impressive than Steam Deck?](https://www.androidauthority.com/asus-rog-ally-specs-3314684/)<!-- TECH:END -->
+ - [Are Screens Stealing My Childhood?](https://www.wired.com/story/are-screens-stealing-my-childhood/)
+ - [How ChatGPT—and Bots Like It—Can Spread Malware](https://www.wired.com/story/chatgpt-ai-bots-spread-malware/)
+ - [&#39;Mrs. Davis&#39; Gets AI Right—Because It&#39;s a Comedy](https://www.wired.com/story/mrs-davis-peacock-ai-nun/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
