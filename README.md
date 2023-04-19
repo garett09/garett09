@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML reports Q1 revenue up 91% YoY to &amp;euro;6.74B and net profit up nearly 3x YoY to &amp;euro;1.96B, beating estimates of &amp;euro;6.31B and &amp;euro;1.62B, respectively &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/230419/p5#a230419p5)
  - [A look at Itana, a controversial startup city set to be built near Lagos in partnership with Binance and investors like Peter Thiel-backed Pronomos Capital &lpar;Wired&rpar;](http://www.techmeme.com/230419/p4#a230419p4)
- - [Google could offer a free Pixel Watch to Pixel Fold buyers](https://www.androidauthority.com/google-pixel-fold-free-pixel-watch-3314655/)
- - [Xiaomi 13 Ultra hands-on: More than just some great cameras?](https://www.androidauthority.com/xiaomi-13-ultra-hands-on-3314199/)<!-- TECH:END -->
+ - [Google could offer a free Pixel Watch to Pixel Fold buyers](https://www.androidauthority.com/google-pixel-fold-free-pixel-watch-3314655/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
