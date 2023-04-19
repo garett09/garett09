@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men needs little things for being happy](http://9gag.com/gag/avQ6QGO)
- - 🚯 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)
- - 🚯 [Sexy door, dirty girl](http://9gag.com/gag/aREMZRj)<!-- MEMES:END -->
+ - 🚖 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
+ - 🚯 [Your body\u2019s got reserves](http://9gag.com/gag/aYVDD7v)
+ - 🚯 [Outstanding reverse uno card](http://9gag.com/gag/aDY82BO)<!-- MEMES:END -->
 
 --- 
 
