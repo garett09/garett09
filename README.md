@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Forbidden West: Burning Shores is out now on PS5](https://blog.playstation.com/2023/04/19/horizon-forbidden-west-burning-shores-is-out-now-on-ps5/)
- - [Gollum dev says it&#39;s charging for the precious Elvish-language DLC because it had to train voice actors in how to speak it](https://www.pcgamer.com/gollum-dev-says-its-charging-for-the-precious-elvish-language-dlc-because-it-had-to-train-voice-actors-in-how-to-speak-it)
- - [Capcom promises the return of Resident Evil 2 and 3&#39;s vanished graphics and audio options](https://www.pcgamer.com/capcom-promises-the-return-of-resident-evil-2-and-3s-vanished-graphics-and-audio-options)<!-- GAME:END -->
+ - [Techland wants to know who you&#39;d like to play as in Dying Light 3](https://www.pcgamer.com/techland-wants-to-know-who-youd-like-to-play-as-in-dying-light-3)
+ - [Asus ROG Strix Scar 16](https://www.pcgamer.com/asus-rog-strix-scar-16-2023-review-benchmarks)
+ - [VR Skater debuts the Mega Ramp when it kickflips onto PS VR2 this summer](https://blog.playstation.com/2023/04/19/vr-skater-debuts-the-mega-ramp-when-it-kickflips-onto-ps-vr2-this-summer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
