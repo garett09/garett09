@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get your walkie-talkie ready for Oxenfree II: Lost Signals, launching July 12](https://blog.playstation.com/2023/04/19/get-your-walkie-talkie-ready-for-oxenfree-ii-lost-signals-launching-july-12/)
- - [Thank the dark ones: Cult of the Lamb is getting a big free DLC update this month](https://www.pcgamer.com/thank-the-dark-ones-cult-of-the-lamb-is-getting-a-big-free-dlc-update-this-month)
- - [Netflix will finally stop mailing people DVDs this year](https://www.pcgamer.com/netflix-will-finally-stop-mailing-people-dvds-this-year)<!-- GAME:END -->
+ - [Pokémon card heist goes terribly wrong… for the thief](https://www.polygon.com/tabletop-games/23687028/stolen-pokemon-card-rumors-true-story-fusion-strike)
+ - [Here&#39;s another e-waste crisis for the e-waste crisis pile: &#39;Chromebook churn&#39;](https://www.pcgamer.com/heres-another-e-waste-crisis-for-the-e-waste-crisis-pile-chromebook-churn)
+ - [Sonic The Hedgehog Is Getting Four Cool As Hell New Lego Sets](https://kotaku.com/lego-sonic-set-amy-tails-release-date-price-1850354307)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
