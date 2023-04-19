@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u201cSo you have chosen... death\u201d.](http://9gag.com/gag/aVbKoVw)
- - 🚯 [When you don\u2019t need a medical degree to speak facts](http://9gag.com/gag/a7q0Ozw)
- - 🚯 [Sexy door, dirty girl](http://9gag.com/gag/aREMZRj)<!-- MEMES:END -->
+ - 🚖 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
+ - 🚯 [Outstanding reverse uno card](http://9gag.com/gag/aDY82BO)
+ - 🚯 [Baby Mute](http://9gag.com/gag/axo6v6n)<!-- MEMES:END -->
 
 --- 
 
