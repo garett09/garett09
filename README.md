@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [See Euphoria’s Sydney Sweeney play a famed data leaker in Reality](https://www.polygon.com/23689819/sydney-sweeney-reality-winner-movie-hbo-release-date)
- - [The Mandalorian is buckling under the weight of all this continuity](https://www.polygon.com/23688759/mandalorian-season-3-finale-review-too-much)
- - [The best-named game of the year finally has a release date, and it&#39;s just 4 months away](https://www.pcgamer.com/the-best-named-game-of-the-year-finally-has-a-release-date-and-its-just-4-months-away)<!-- GAME:END -->
+ - [Get your walkie-talkie ready for Oxenfree II: Lost Signals, launching July 12](https://blog.playstation.com/2023/04/19/get-your-walkie-talkie-ready-for-oxenfree-ii-lost-signals-launching-july-12/)
+ - [Thank the dark ones: Cult of the Lamb is getting a big free DLC update this month](https://www.pcgamer.com/thank-the-dark-ones-cult-of-the-lamb-is-getting-a-big-free-dlc-update-this-month)
+ - [Netflix will finally stop mailing people DVDs this year](https://www.pcgamer.com/netflix-will-finally-stop-mailing-people-dvds-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
