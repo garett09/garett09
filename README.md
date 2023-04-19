@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based Egyptians](http://9gag.com/gag/aA0KKME)
- - 🚯 [Design vs programming](http://9gag.com/gag/abv44Dp)
- - 🚯 [Real Growth Takes Time](http://9gag.com/gag/aDY8bGK)<!-- MEMES:END -->
+ - 🚖 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
+ - 🚯 [How I ride my Kawasaki according to my parents](http://9gag.com/gag/aL14edx)
+ - 🚯 [3 Rd world countries like India is worse for solo women travellers](http://9gag.com/gag/aZD81v6)<!-- MEMES:END -->
 
 --- 
 
