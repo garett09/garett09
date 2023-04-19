@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
- - 🚯 [Your body\u2019s got reserves](http://9gag.com/gag/aYVDD7v)
- - 🚯 [Outstanding reverse uno card](http://9gag.com/gag/aDY82BO)<!-- MEMES:END -->
+ - 🚖 [Disappointment](http://9gag.com/gag/anz22bn)
+ - 🚯 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
+ - 🚯 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)<!-- MEMES:END -->
 
 --- 
 
