@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did you say ice cream](http://9gag.com/gag/a1P0112)
- - 🚯 [A cloud 7 kilometers thick passed over Istanbul. In the meantime, the sun disappeared in 5 minutes, and the day turned into night. Some people commented on the apocalypse. Here are those moments... \ud83d\udc40](http://9gag.com/gag/a9q5vnj)
- - 🚯 [Show me all your Mario movie easter eggs](http://9gag.com/gag/aVbKg2y)<!-- MEMES:END -->
+ - 🚖 [I think someones trying to frame me!](http://9gag.com/gag/aXnVLY6)
+ - 🚯 [Lol](http://9gag.com/gag/amA6oZj)
+ - 🚯 [Outstanding reverse uno card](http://9gag.com/gag/aDY82BO)<!-- MEMES:END -->
 
 --- 
 
