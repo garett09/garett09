@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Baby Mute](http://9gag.com/gag/axo6v6n)
- - 🚯 [Guess who&#39;s](http://9gag.com/gag/ajVLKYq)
- - 🚯 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)<!-- MEMES:END -->
+ - 🚖 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)
+ - 🚯 [Yikes....](http://9gag.com/gag/aVbK2BM)
+ - 🚯 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)<!-- MEMES:END -->
 
 --- 
 
