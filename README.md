@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s AGI, and Why Are AI Experts Skeptical?](https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/)
- - [Reliable leaker claims Apple VR tester &#39;blown away&#39; by headset](https://appleinsider.com/articles/23/04/20/reliable-leaker-claims-apple-vr-tester-blown-away-by-headset?utm_medium=rss)
- - [Kebohub EE01 review: A great idea, poorly executed](https://appleinsider.com/articles/23/04/20/kebohub-ee01-review-a-great-idea-poorly-executed?utm_medium=rss)<!-- TECH:END -->
+ - [The Huge 3CX Breach Was Actually 2 Linked Supply Chain Attacks](https://www.wired.com/story/3cx-supply-chain-attack-times-two/)
+ - [The Radical, Expansive Future of Period Technology](https://www.wired.com/story/period-health-future-kate-clancy/)
+ - [What is Ethernet? Everything You Need to Know About Wired Networks](https://www.wired.com/story/what-is-ethernet/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
