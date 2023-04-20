@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
- - 🚯 [Guess who&#39;s](http://9gag.com/gag/ajVLKYq)
- - 🚯 [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)<!-- MEMES:END -->
+ - 🚯 [How it is possible](http://9gag.com/gag/a9q5mzD)
+ - 🚯 [Guess who&#39;s](http://9gag.com/gag/ajVLKYq)<!-- MEMES:END -->
 
 --- 
 
