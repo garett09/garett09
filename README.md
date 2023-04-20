@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
- - 🚯 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)
- - 🚯 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)<!-- MEMES:END -->
+ - 🚖 [Pinnacle of The Office](http://9gag.com/gag/a0400Dd)
+ - 🚯 [Evolution mouse](http://9gag.com/gag/aGEBMbz)
+ - 🚯 [Could not find the clip without the stupid Music ...sorry](http://9gag.com/gag/amA6xGj)<!-- MEMES:END -->
 
 --- 
 
