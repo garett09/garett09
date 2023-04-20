@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He just wanted to save him...](http://9gag.com/gag/az2Kd1K)
- - 🚯 [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)
- - 🚯 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
+ - 🚖 [Squeeze them](http://9gag.com/gag/aGEBMXn)
+ - 🚯 [Baby Mute](http://9gag.com/gag/axo6v6n)
+ - 🚯 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)<!-- MEMES:END -->
 
 --- 
 
