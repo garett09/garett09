@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Humanity available Day 1 as a PlayStation Plus Game Catalog title, out May 16](https://blog.playstation.com/2023/04/20/humanity-available-day-1-as-a-playstation-plus-game-catalog-title-out-may-16/)
- - [Fallout fans can return to the Commonwealth in the Winter of Atom campaign book](https://www.polygon.com/tabletop-games/23688240/fallout-roleplaying-game-winter-of-atom-campaign-book)
- - [This Mom Didn&#39;t Know She Was In A $250K Candy Crush Tournament, But She&#39;s Killing It](https://kotaku.com/candy-crush-competition-all-stars-2023-prizes-finals-1850353139)<!-- GAME:END -->
+ - [Spielberg confronted the Israel-Palestine conflict to make his Bond movie](https://www.polygon.com/23683660/munich-spielberg-israel-palestine-spy-movie)
+ - [Free Play Days – Ghostbusters: Spirits Unleashed and Roguebook](https://news.xbox.com/en-us/2023/04/20/free-play-days-ghostbusters-spirits-unleashed-and-roguebook/)
+ - [A Government Twitter Account Apologizes For Post About Super Mario Bros. Gay Luigi](https://kotaku.com/the-super-mario-bros-movie-gay-luigi-government-1850357117)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
