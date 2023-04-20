@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spielberg confronted the Israel-Palestine conflict to make his Bond movie](https://www.polygon.com/23683660/munich-spielberg-israel-palestine-spy-movie)
- - [Free Play Days – Ghostbusters: Spirits Unleashed and Roguebook](https://news.xbox.com/en-us/2023/04/20/free-play-days-ghostbusters-spirits-unleashed-and-roguebook/)
- - [A Government Twitter Account Apologizes For Post About Super Mario Bros. Gay Luigi](https://kotaku.com/the-super-mario-bros-movie-gay-luigi-government-1850357117)<!-- GAME:END -->
+ - [Dominate the Crash Team Rumble closed beta with tips from devs, live today](https://blog.playstation.com/2023/04/20/dominate-the-crash-team-rumble-closed-beta-with-tips-from-devs-live-today/)
+ - [Critical Role is branching out from D&amp;D by publishing two new RPG systems](https://www.polygon.com/tabletop-games/23691117/critical-role-new-rpg-system-illuminated-worlds-daggerheart-queen-by-midnight)
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
