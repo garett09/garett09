@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the India Stack, a set of government-backed APIs on which third parties can build apps integrated with state services for payments, loans, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230420/p5#a230420p5)
- - [My Balls-Out Quest to Achieve the Perfect Scrotum](https://www.wired.com/story/my-balls-out-quest-to-achieve-the-perfect-scrotum/)
- - [Voicemod now available on Mac with real-time AI voice changing and soundboards](https://www.theverge.com/2023/4/20/23690834/voicemod-macos-mac-support-download)<!-- TECH:END -->
+ - [What’s AGI, and Why Are AI Experts Skeptical?](https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/)
+ - [Reliable leaker claims Apple VR tester &#39;blown away&#39; by headset](https://appleinsider.com/articles/23/04/20/reliable-leaker-claims-apple-vr-tester-blown-away-by-headset?utm_medium=rss)
+ - [Kebohub EE01 review: A great idea, poorly executed](https://appleinsider.com/articles/23/04/20/kebohub-ee01-review-a-great-idea-poorly-executed?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
