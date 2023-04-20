@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How it is possible](http://9gag.com/gag/a9q5mzD)
- - 🚯 [Lasguns are here](http://9gag.com/gag/ay2643X)
- - 🚯 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
+ - 🚖 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
+ - 🚯 [Guess who&#39;s](http://9gag.com/gag/ajVLKYq)
+ - 🚯 [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)<!-- MEMES:END -->
 
 --- 
 
