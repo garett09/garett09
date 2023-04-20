@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
- - 🚯 [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)
- - 🚯 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
+ - 🚖 [How it is possible](http://9gag.com/gag/a9q5mzD)
+ - 🚯 [Lasguns are here](http://9gag.com/gag/ay2643X)
+ - 🚯 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
 
 --- 
 
