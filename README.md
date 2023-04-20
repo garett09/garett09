@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Australia vs Cambodia](http://9gag.com/gag/a9q52pZ)
- - 🚯 [Women](http://9gag.com/gag/a8q02e3)
- - 🚯 [I think someones trying to frame me!](http://9gag.com/gag/aXnVLY6)<!-- MEMES:END -->
+ - 🚖 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
+ - 🚯 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)
+ - 🚯 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)<!-- MEMES:END -->
 
 --- 
 
