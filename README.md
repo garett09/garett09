@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s new Razr foldables get a US launch date in latest leak &lpar;Updated&rpar;](https://www.androidauthority.com/motorola-razr-pro-razr-lite-2023-us-launch-date-3314101/)
- - [Evan Spiegel says Snap&#39;s Indian MAUs, ~100M in October 2021, doubled and time spent on Spotlight and Shows grew 175% and 55% YoY, respectively, in 2022 &lpar;The Economic Times&rpar;](http://www.techmeme.com/230420/p4#a230420p4)
- - [Internal presentation: Google plans to deploy generative AI in ads, allowing advertisers to supply creative material which will be &quot;remixed&quot; to create campaigns &lpar;Financial Times&rpar;](http://www.techmeme.com/230420/p3#a230420p3)<!-- TECH:END -->
+ - [A look at the India Stack, a set of government-backed APIs on which third parties can build apps integrated with state services for payments, loans, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/230420/p5#a230420p5)
+ - [My Balls-Out Quest to Achieve the Perfect Scrotum](https://www.wired.com/story/my-balls-out-quest-to-achieve-the-perfect-scrotum/)
+ - [Voicemod now available on Mac with real-time AI voice changing and soundboards](https://www.theverge.com/2023/4/20/23690834/voicemod-macos-mac-support-download)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
