@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music removes Drake and The Weeknd AI clone song after copyright complaint](https://appleinsider.com/articles/23/04/20/apple-music-removes-drake-and-the-weeknd-ai-clone-song-after-copyright-complaint?utm_medium=rss)
- - [Roblox is transcending its kid-oriented roots by reaching older players and welcoming brands; the 17-to-24 age group, up 33% YoY, is Roblox&#39;s fastest growing &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230420/p24#a230420p24)
- - [PlayStation acquires Firewalk Studios, which is building an ‘original AAA multiplayer game’](https://www.theverge.com/2023/4/20/23691580/sony-playstation-firewalk-studios-acquisition-bungie)<!-- TECH:END -->
+ - [Seagate fined $300 million after getting caught selling hard drives to Huawei](https://www.androidauthority.com/seagate-fined-huawei-3315406/)
+ - [Surprise! There’s a third Diablo IV beta coming](https://www.theverge.com/2023/4/20/23691679/diablo-iv-beta-server-slam-blizzard)
+ - [Sony agrees to acquire Firewalk Studios, an AAA multiplayer developer working on a live service game for PS5 and PC; Firewalk will join PlayStation Studios &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/230420/p25#a230420p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
