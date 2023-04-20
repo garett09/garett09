@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Turtle Beach Stealth Pro](https://www.pcgamer.com/turtle-beach-stealth-pro)
- - [God of Rock review](https://www.pcgamer.com/god-of-rock-review)
- - [Wordle hint and answer #670: Thursday, April 20](https://www.pcgamer.com/wordle-hint-answer-today-670-april-20)<!-- GAME:END -->
+ - [Shaping God of War &lpar;2018&rpar;’s climactic boss encounter with Baldur](https://blog.playstation.com/2023/04/20/shaping-god-of-war-2018s-climactic-boss-encounter-with-baldur/)
+ - [Picard says goodbye with a mysterious hint at Star Trek’s future](https://www.polygon.com/23688602/star-trek-picard-credits-scene-q-legacy-jack-crusher)
+ - [If these benchmarks are true, the ROG Ally&#39;s graphics are gonna slap](https://www.pcgamer.com/if-these-benchmarks-are-true-the-rog-allys-graphics-are-gonna-slap)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
