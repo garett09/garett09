@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Squeeze them](http://9gag.com/gag/aGEBMXn)
- - 🚯 [Baby Mute](http://9gag.com/gag/axo6v6n)
- - 🚯 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)<!-- MEMES:END -->
+ - 🚖 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)
+ - 🚯 [What a wholesome helper](http://9gag.com/gag/aoKRLQ2)
+ - 🚯 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
 
 --- 
 
