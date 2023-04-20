@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Design vs programming](http://9gag.com/gag/abv44Dp)
- - 🚯 [Squeeze them](http://9gag.com/gag/aGEBMXn)
- - 🚯 [Welcome to Japan](http://9gag.com/gag/aOxZ46y)<!-- MEMES:END -->
+ - 🚖 [It will probably be for the best if Harry Potter never gets remade](http://9gag.com/gag/aOxZ916)
+ - 🚯 [Foreigners after spending two weeks in India](http://9gag.com/gag/amA6Mo4)
+ - 🚯 [Ooo la lar](http://9gag.com/gag/a2K080p)<!-- MEMES:END -->
 
 --- 
 
