@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU is taking a pragmatic approach to TikTok, treating it the same as its American rivals, in contrast to the &quot;theatrical&quot; approach being taken by the US &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230420/p18#a230420p18)
- - [T-Mobile’s pricey new plan gets you a new phone every two years](https://www.theverge.com/2023/4/20/23690128/t-mobile-go-5g-plus-plan-price-features)
- - [Sherlocking continues: Apple&#39;s interest is a &#39;kiss of death&#39; to small technology firms](https://appleinsider.com/articles/23/04/20/sherlocking-continues-apples-interest-is-a-kiss-of-death-to-small-technology-firms?utm_medium=rss)<!-- TECH:END -->
+ - [How to make your HomePod alert you when your smoke alarms go off](https://www.theverge.com/23691037/apple-homepod-sound-recognition-smoke-alarm-how-to-set-up)
+ - [How to upgrade to the new Apple Home architecture](https://www.theverge.com/23512574/apple-home-architecture-new-upgrade-how-to)
+ - [T-Mobile Phone Freedom means a new Magenta name change, more big promises](https://www.androidauthority.com/t-mobile-phone-freedom-3315327/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
