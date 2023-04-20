@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s big AI push will combine Brain and DeepMind into one team](https://www.theverge.com/2023/4/20/23691468/google-ai-deepmind-brain-merger)
- - [Lucid is now delivering its blacked-out ‘stealth’ Air sedans to customers](https://www.theverge.com/2023/4/20/23689821/lucid-air-grand-touring-stealth-look-package-delivery-price)
- - [Google announces Google DeepMind, a new unit combining the DeepMind team and the Brain team from Google Research, with DeepMind co-founder Demis Hassabis as CEO &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230420/p21#a230420p21)<!-- TECH:END -->
+ - [The best Sonos speakers to buy right now](https://www.theverge.com/23507492/sonos-best-speaker-one-roam-move-five-arc-beam-ray-sub)
+ - [Your annual subscription guide to YouTube Premium and Music](https://www.androidauthority.com/youtube-premium-annual-guide-3315320/)
+ - [The 14 Best Movies on HBO Max Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
