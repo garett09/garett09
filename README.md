@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
- - 🚯 [Foreigners after spending two weeks in India](http://9gag.com/gag/amA6Mo4)
- - 🚯 [3 Rd world countries like India is worse for solo women travellers](http://9gag.com/gag/aZD81v6)<!-- MEMES:END -->
+ - 🚖 [Australia vs Cambodia](http://9gag.com/gag/a9q52pZ)
+ - 🚯 [Women](http://9gag.com/gag/a8q02e3)
+ - 🚯 [I think someones trying to frame me!](http://9gag.com/gag/aXnVLY6)<!-- MEMES:END -->
 
 --- 
 
