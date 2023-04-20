@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Oversight Board supports Meta&#39;s content moderation actions during the pandemic but asks Meta to assess its impact on public health and human rights &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230420/p10#a230420p10)
- - [The People Who Still Love Renting DVDs from Netflix](https://www.wired.com/story/netflix-dvd-rental-problems/)
- - [Does the leaked Pixel 7a price presage a more expensive Pixel 8 series?](https://www.androidauthority.com/pixel-8-price-hike-3314801/)<!-- TECH:END -->
+ - [SpaceX’s Starship Explodes During First Orbital Test Flight](https://www.wired.com/story/spacex-starship-launch-explodes/)
+ - [SpaceX Starship launch: all of the news on its first test flight, and that explosive ending](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)
+ - [Coffee Talk is just as warm and cozy in its sequel](https://www.theverge.com/2023/4/20/23689348/coffee-talk-episode-2-review-ps5-xbox-switch-steam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
