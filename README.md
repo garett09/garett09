@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How it is possible](http://9gag.com/gag/a9q5mzD)
- - 🚯 [How I ride my Kawasaki according to my parents](http://9gag.com/gag/aL14edx)
- - 🚯 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)<!-- MEMES:END -->
+ - 🚖 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)
+ - 🚯 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
+ - 🚯 [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)<!-- MEMES:END -->
 
 --- 
 
