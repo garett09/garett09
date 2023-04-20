@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Real Growth Takes Time](http://9gag.com/gag/aDY8bGK)
- - 🚯 [The EU wants to mobilize a total of \u20ac43 billion in public and private funds to make microships on own soil and become less reliant on Asian countries in the comming few years EU wants to produce 20% of worldwide microship production](http://9gag.com/gag/aXnV4q2)
- - 🚯 [Design vs programming](http://9gag.com/gag/abv44Dp)<!-- MEMES:END -->
+ - 🚖 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)
+ - 🚯 [Foreigners after spending two weeks in India](http://9gag.com/gag/amA6Mo4)
+ - 🚯 [3 Rd world countries like India is worse for solo women travellers](http://9gag.com/gag/aZD81v6)<!-- MEMES:END -->
 
 --- 
 
