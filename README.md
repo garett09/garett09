@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)
- - 🚯 [Yikes....](http://9gag.com/gag/aVbK2BM)
- - 🚯 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)<!-- MEMES:END -->
+ - 🚖 [How it is possible](http://9gag.com/gag/a9q5mzD)
+ - 🚯 [Squeeze them](http://9gag.com/gag/aGEBMXn)
+ - 🚯 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
 
 --- 
 
