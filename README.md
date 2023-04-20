@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pinnacle of The Office](http://9gag.com/gag/a0400Dd)
- - 🚯 [Evolution mouse](http://9gag.com/gag/aGEBMbz)
- - 🚯 [Could not find the clip without the stupid Music ...sorry](http://9gag.com/gag/amA6xGj)<!-- MEMES:END -->
+ - 🚖 [He just wanted to save him...](http://9gag.com/gag/az2Kd1K)
+ - 🚯 [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)
+ - 🚯 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
 
 --- 
 
