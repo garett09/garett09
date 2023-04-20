@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/amA6oZj)
- - 🚯 [Squeeze them](http://9gag.com/gag/aGEBMXn)
+ - 🚖 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
+ - 🚯 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
  - 🚯 [Zoom call from a ceo who cancelled all employee bonuses but took a $6.4 million bonus herself, for you kindness and be nice](http://9gag.com/gag/aA0Ky72)<!-- MEMES:END -->
 
 --- 
