@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)
- - 🚯 [What a wholesome helper](http://9gag.com/gag/aoKRLQ2)
+ - 🚖 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
+ - 🚯 [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)
  - 🚯 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
 
 --- 
