@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shaping God of War &lpar;2018&rpar;’s climactic boss encounter with Baldur](https://blog.playstation.com/2023/04/20/shaping-god-of-war-2018s-climactic-boss-encounter-with-baldur/)
- - [Picard says goodbye with a mysterious hint at Star Trek’s future](https://www.polygon.com/23688602/star-trek-picard-credits-scene-q-legacy-jack-crusher)
- - [If these benchmarks are true, the ROG Ally&#39;s graphics are gonna slap](https://www.pcgamer.com/if-these-benchmarks-are-true-the-rog-allys-graphics-are-gonna-slap)<!-- GAME:END -->
+ - [Spirited Away’s stage director says Hayao Miyazaki is a sweetheart — and a songwriter](https://www.polygon.com/23689921/spirited-away-live-on-stage-director-interview-john-caird)
+ - [Paper Mario PC ports beckon as coder completes full decompilation of the N64 classic](https://www.pcgamer.com/paper-mario-pc-ports-beckon-as-coder-completes-full-decompilation-of-the-n64-classic)
+ - [Where to get iron ore in Wartales](https://www.pcgamer.com/wartales-iron-ore-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
