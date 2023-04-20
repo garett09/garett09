@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seagate fined $300 million after getting caught selling hard drives to Huawei](https://www.androidauthority.com/seagate-fined-huawei-3315406/)
- - [Surprise! There’s a third Diablo IV beta coming](https://www.theverge.com/2023/4/20/23691679/diablo-iv-beta-server-slam-blizzard)
- - [Sony agrees to acquire Firewalk Studios, an AAA multiplayer developer working on a live service game for PS5 and PC; Firewalk will join PlayStation Studios &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/230420/p25#a230420p25)<!-- TECH:END -->
+ - [Stack Overflow Will Charge AI Giants for Training Data](https://www.wired.com/story/stack-overflow-will-charge-ai-giants-for-training-data/)
+ - [Twitter says LeBron James and other celebs are paying for verification even though they aren’t](https://www.theverge.com/2023/4/20/23691831/twitter-blue-verified-celebrity-lebron-james-stephen-king)
+ - [You Can Play Diablo 4 Next Month. Here&#39;s How     - CNET](https://www.cnet.com/tech/gaming/you-can-play-diablo-4-next-month-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
