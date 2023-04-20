@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to make your HomePod alert you when your smoke alarms go off](https://www.theverge.com/23691037/apple-homepod-sound-recognition-smoke-alarm-how-to-set-up)
- - [How to upgrade to the new Apple Home architecture](https://www.theverge.com/23512574/apple-home-architecture-new-upgrade-how-to)
- - [T-Mobile Phone Freedom means a new Magenta name change, more big promises](https://www.androidauthority.com/t-mobile-phone-freedom-3315327/)<!-- TECH:END -->
+ - [Google’s big AI push will combine Brain and DeepMind into one team](https://www.theverge.com/2023/4/20/23691468/google-ai-deepmind-brain-merger)
+ - [Lucid is now delivering its blacked-out ‘stealth’ Air sedans to customers](https://www.theverge.com/2023/4/20/23689821/lucid-air-grand-touring-stealth-look-package-delivery-price)
+ - [Google announces Google DeepMind, a new unit combining the DeepMind team and the Brain team from Google Research, with DeepMind co-founder Demis Hassabis as CEO &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230420/p21#a230420p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
