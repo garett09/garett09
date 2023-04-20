@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jump into Crash Team Rumble’s Closed Beta Today](https://news.xbox.com/en-us/2023/04/20/jump-into-crash-team-rumbles-closed-beta-today/)
- - [Your Average Bear combines Metal Gear Solid and Untitled Goose Game](https://www.polygon.com/gaming/23688882/your-average-bear-metal-gear-solid-stealth-untitled-goose-game)
- - [Tom Clancy’s The Division livestream shows what’s coming next](https://www.polygon.com/23690197/ubisoft-the-division-day-heartland-mobile-resurgence-tom-clancy)<!-- GAME:END -->
+ - [Pokémon Go ‘Sustainability Week’ 2023 event guide](https://www.polygon.com/pokemon-go-guide/23691346/sustainability-week-timed-research-event-shiny-drilbur-bounsweet)
+ - [Pokémon Go Shaymin ‘Grass and Gratitude’ Special Research and rewards](https://www.polygon.com/pokemon-go-guide/23691254/shaymin-research-grass-gratitude-special-tasks-steps-rewards)
+ - [Dark and Darker may be the punk hero of PC gaming this year](https://www.pcgamer.com/dark-and-darker-may-be-the-punk-hero-of-pc-gaming-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
