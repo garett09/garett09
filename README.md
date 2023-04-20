@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ravenlok Comes to Those Who Wait](https://news.xbox.com/en-us/2023/04/20/ravenlok-comes-to-those-who-wait/)
- - [Diablo IV&#39;s Super-Popular Beta Returns For One More Weekend](https://kotaku.com/diablo-4-open-beta-release-date-server-slam-necromancer-1850359427)
- - [Every Pokémon Card I&#39;ve Gotten From My Local Weed Shop, Ranked](https://kotaku.com/pokemon-cards-weed-pot-420-charmander-swablu-shinx-1850358605)<!-- GAME:END -->
+ - [Creating the Perfect Blend of Storytelling in Coffee Talk Episode 2](https://news.xbox.com/en-us/2023/04/20/blending-storytelling-in-coffee-talk-episode-2/)
+ - [If Diablo 4&#39;s not your thing, Men of War 2 is having an open beta on the same weekend](https://www.pcgamer.com/if-diablo-4s-not-your-thing-men-of-war-2-is-having-an-open-beta-on-the-same-weekend)
+ - [Twitter finally purges blue checks from formerly &#39;verified&#39; accounts, including many game studios and developers](https://www.pcgamer.com/twitter-blue-check-purge)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
