@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Baby Mute](http://9gag.com/gag/axo6v6n)
- - 🚯 [Whatever this thing is?](http://9gag.com/gag/aBdVL0D)
- - 🚯 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
+ - 🚖 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
+ - 🚯 [Name that anime ?](http://9gag.com/gag/aPgoeKB)
+ - 🚯 [Squeeze them](http://9gag.com/gag/aGEBMXn)<!-- MEMES:END -->
 
 --- 
 
