@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches the Anti-Counterfeiting Exchange that lets retailers label and track counterfeits, to make it difficult for counterfeiters to move among stores &lpar;Arriana McLymore/Reuters&rpar;](http://www.techmeme.com/230420/p16#a230420p16)
- - [Earth Day 2023: green or greenwashed?](https://www.theverge.com/23688450/earth-day-2023-green-greenwashed-brands-climate-plastic-pollution)
- - [Poll: Do you consider spatial audio when buying earbuds?](https://www.androidauthority.com/consider-spatial-audio-buy-earbuds-poll-3315222/)<!-- TECH:END -->
+ - [The EU is taking a pragmatic approach to TikTok, treating it the same as its American rivals, in contrast to the &quot;theatrical&quot; approach being taken by the US &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230420/p18#a230420p18)
+ - [T-Mobile’s pricey new plan gets you a new phone every two years](https://www.theverge.com/2023/4/20/23690128/t-mobile-go-5g-plus-plan-price-features)
+ - [Sherlocking continues: Apple&#39;s interest is a &#39;kiss of death&#39; to small technology firms](https://appleinsider.com/articles/23/04/20/sherlocking-continues-apples-interest-is-a-kiss-of-death-to-small-technology-firms?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
