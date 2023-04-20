@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How it is possible](http://9gag.com/gag/a9q5mzD)
+ - 🚖 [Design vs programming](http://9gag.com/gag/abv44Dp)
  - 🚯 [Squeeze them](http://9gag.com/gag/aGEBMXn)
- - 🚯 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
+ - 🚯 [Welcome to Japan](http://9gag.com/gag/aOxZ46y)<!-- MEMES:END -->
 
 --- 
 
