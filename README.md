@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Microsoft Advertising said it was dropping Twitter support, Elon Musk tweeted that it&#39;s &quot;lawsuit time&quot; over training &quot;illegally using Twitter data&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230419/p32#a230419p32)
- - [Customer billing issues will soon be solved in-app with no need for developer intervention](https://appleinsider.com/articles/23/04/19/customer-billing-issues-will-soon-be-solved-in-app-with-no-need-for-developer-intervention?utm_medium=rss)
- - [Seagate agrees to pay $300M to settle with the US Department of Commerce for shipping $1.1B+ worth of hard drives to Huawei, violating US export control laws &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/230419/p31#a230419p31)<!-- TECH:END -->
+ - [How to create a new Slack channel](https://www.androidauthority.com/how-to-create-a-slack-channel-3314938/)
+ - [Bluesky, a decentralized Twitter alternative, is now on Android](https://www.theverge.com/2023/4/19/23690314/bluesky-decentralized-twitter-alternative-android)
+ - [Jason Momoa obliterates the Vatican in the second trailer for Fast X](https://www.theverge.com/2023/4/19/23690325/fast-x-trailer-jason-momoa-vatican)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
