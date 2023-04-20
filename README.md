@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX’s Starship Explodes During First Orbital Test Flight](https://www.wired.com/story/spacex-starship-launch-explodes/)
- - [SpaceX Starship launch: all of the news on its first test flight, and that explosive ending](https://www.theverge.com/2023/4/16/23685902/spacex-starship-test-flight-launch-news-updates)
- - [Coffee Talk is just as warm and cozy in its sequel](https://www.theverge.com/2023/4/20/23689348/coffee-talk-episode-2-review-ps5-xbox-switch-steam)<!-- TECH:END -->
+ - [Amazon launches the Anti-Counterfeiting Exchange that lets retailers label and track counterfeits, to make it difficult for counterfeiters to move among stores &lpar;Arriana McLymore/Reuters&rpar;](http://www.techmeme.com/230420/p16#a230420p16)
+ - [Earth Day 2023: green or greenwashed?](https://www.theverge.com/23688450/earth-day-2023-green-greenwashed-brands-climate-plastic-pollution)
+ - [Poll: Do you consider spatial audio when buying earbuds?](https://www.androidauthority.com/consider-spatial-audio-buy-earbuds-poll-3315222/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
