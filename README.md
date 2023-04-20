@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Sonos speakers to buy right now](https://www.theverge.com/23507492/sonos-best-speaker-one-roam-move-five-arc-beam-ray-sub)
- - [Your annual subscription guide to YouTube Premium and Music](https://www.androidauthority.com/youtube-premium-annual-guide-3315320/)
- - [The 14 Best Movies on HBO Max Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
+ - [Apple Music removes Drake and The Weeknd AI clone song after copyright complaint](https://appleinsider.com/articles/23/04/20/apple-music-removes-drake-and-the-weeknd-ai-clone-song-after-copyright-complaint?utm_medium=rss)
+ - [Roblox is transcending its kid-oriented roots by reaching older players and welcoming brands; the 17-to-24 age group, up 33% YoY, is Roblox&#39;s fastest growing &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230420/p24#a230420p24)
+ - [PlayStation acquires Firewalk Studios, which is building an ‘original AAA multiplayer game’](https://www.theverge.com/2023/4/20/23691580/sony-playstation-firewalk-studios-acquisition-bungie)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
