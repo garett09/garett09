@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Huge 3CX Breach Was Actually 2 Linked Supply Chain Attacks](https://www.wired.com/story/3cx-supply-chain-attack-times-two/)
- - [The Radical, Expansive Future of Period Technology](https://www.wired.com/story/period-health-future-kate-clancy/)
- - [What is Ethernet? Everything You Need to Know About Wired Networks](https://www.wired.com/story/what-is-ethernet/)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board supports Meta&#39;s content moderation actions during the pandemic but asks Meta to assess its impact on public health and human rights &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230420/p10#a230420p10)
+ - [The People Who Still Love Renting DVDs from Netflix](https://www.wired.com/story/netflix-dvd-rental-problems/)
+ - [Does the leaked Pixel 7a price presage a more expensive Pixel 8 series?](https://www.androidauthority.com/pixel-8-price-hike-3314801/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
