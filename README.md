@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Sustainability Week’ 2023 event guide](https://www.polygon.com/pokemon-go-guide/23691346/sustainability-week-timed-research-event-shiny-drilbur-bounsweet)
- - [Pokémon Go Shaymin ‘Grass and Gratitude’ Special Research and rewards](https://www.polygon.com/pokemon-go-guide/23691254/shaymin-research-grass-gratitude-special-tasks-steps-rewards)
- - [Dark and Darker may be the punk hero of PC gaming this year](https://www.pcgamer.com/dark-and-darker-may-be-the-punk-hero-of-pc-gaming-this-year)<!-- GAME:END -->
+ - [Realistic Space Survival Tin Can Lands on Xbox Series X|S and Xbox One April 27 and Preorder Starts Today](https://news.xbox.com/en-us/2023/04/20/tin-can-lands-on-xbox-april-27/)
+ - [Getting the battlefield magic of Immortals of Aveum right took ‘almost two years’](https://www.polygon.com/23691517/immortals-of-aveum-preview-gameplay-trailer)
+ - [Unrecord dev posts noclip video to prove the realistic bodycam FPS isn&#39;t &#39;fake&#39;](https://www.pcgamer.com/unrecord-dev-posts-noclip-video-to-prove-the-realistic-bodycam-fps-isnt-fake)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
