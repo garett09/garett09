@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [White men can j\u00fcmp](http://9gag.com/gag/az2KxDm)
- - 🚯 [Eminem thanking Dr.Dre](http://9gag.com/gag/armXWpy)
- - 🚯 [3 Rd world countries like India is worse for solo women travellers](http://9gag.com/gag/aZD81v6)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/amA6oZj)
+ - 🚯 [Squeeze them](http://9gag.com/gag/aGEBMXn)
+ - 🚯 [Zoom call from a ceo who cancelled all employee bonuses but took a $6.4 million bonus herself, for you kindness and be nice](http://9gag.com/gag/aA0Ky72)<!-- MEMES:END -->
 
 --- 
 
