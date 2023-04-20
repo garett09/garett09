@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It will probably be for the best if Harry Potter never gets remade](http://9gag.com/gag/aOxZ916)
- - 🚯 [Foreigners after spending two weeks in India](http://9gag.com/gag/amA6Mo4)
- - 🚯 [Ooo la lar](http://9gag.com/gag/a2K080p)<!-- MEMES:END -->
+ - 🚖 [How it is possible](http://9gag.com/gag/a9q5mzD)
+ - 🚯 [How I ride my Kawasaki according to my parents](http://9gag.com/gag/aL14edx)
+ - 🚯 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)<!-- MEMES:END -->
 
 --- 
 
