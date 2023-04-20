@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spirited Away’s stage director says Hayao Miyazaki is a sweetheart — and a songwriter](https://www.polygon.com/23689921/spirited-away-live-on-stage-director-interview-john-caird)
- - [Paper Mario PC ports beckon as coder completes full decompilation of the N64 classic](https://www.pcgamer.com/paper-mario-pc-ports-beckon-as-coder-completes-full-decompilation-of-the-n64-classic)
- - [Where to get iron ore in Wartales](https://www.pcgamer.com/wartales-iron-ore-locations)<!-- GAME:END -->
+ - [Humanity available Day 1 as a PlayStation Plus Game Catalog title, out May 16](https://blog.playstation.com/2023/04/20/humanity-available-day-1-as-a-playstation-plus-game-catalog-title-out-may-16/)
+ - [Fallout fans can return to the Commonwealth in the Winter of Atom campaign book](https://www.polygon.com/tabletop-games/23688240/fallout-roleplaying-game-winter-of-atom-campaign-book)
+ - [This Mom Didn&#39;t Know She Was In A $250K Candy Crush Tournament, But She&#39;s Killing It](https://kotaku.com/candy-crush-competition-all-stars-2023-prizes-finals-1850353139)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
