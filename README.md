@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pilot was lucky that the traffic was quite.](http://9gag.com/gag/aBdVLb1)
- - 🚯 [How it is possible](http://9gag.com/gag/a9q5mzD)
- - 🚯 [Guess who&#39;s](http://9gag.com/gag/ajVLKYq)<!-- MEMES:END -->
+ - 🚖 [Baby Mute](http://9gag.com/gag/axo6v6n)
+ - 🚯 [Guess who&#39;s](http://9gag.com/gag/ajVLKYq)
+ - 🚯 [French tourist who punched a local 20 yo woman is facing up to 10 years of jail time in Japan](http://9gag.com/gag/aPgooMV)<!-- MEMES:END -->
 
 --- 
 
