@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Victoria 3&#39;s first gameplay DLC lets you invite Marx and Lenin to your place for tea and revolution](https://www.pcgamer.com/victoria-3s-first-gameplay-dlc-lets-you-invite-marx-and-lenin-to-your-place-for-tea-and-revolution)
- - [Share of the Week: Sports](https://blog.playstation.com/2023/04/21/share-of-the-week-sports/)
- - [Pivot your D&amp;D group to a different system — something built with combat in mind](https://www.polygon.com/what-to-play/23683271/dnd-dungeons-dragons-alternatives-combat-focused)<!-- GAME:END -->
+ - [Dead Island 2: The Kotaku Review](https://kotaku.com/dead-island-2-review-release-date-dambuster-ps5-rpg-1850345905)
+ - [For Mother’s Day, here are 19 great gift ideas](https://www.polygon.com/deals/23674067/mothers-day-gift-ideas)
+ - [Intel Arc GPU performance bumped by over 70% in Cyberpunk 2077 thanks to XeSS](https://www.pcgamer.com/intel-arc-gpu-performance-bumped-by-over-70-in-cyberpunk-2077-thanks-to-xess)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
