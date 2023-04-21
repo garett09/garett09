@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)
- - 🚯 [Come here](http://9gag.com/gag/aREM2mM)
- - 🚯 [Any bets on the cast?](http://9gag.com/gag/aZD8EY9)<!-- MEMES:END -->
+ - 🚖 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
+ - 🚯 [Driving simulator doesn&#39;t go according to plan](http://9gag.com/gag/adPQn8B)
+ - 🚯 [Women](http://9gag.com/gag/a8q02e3)<!-- MEMES:END -->
 
 --- 
 
