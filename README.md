@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter offered LeBron James a complimentary Blue subscription after he said he wouldn&#39;t pay for one; Musk says he&#39;s paying for &quot;a few&quot; subscriptions personally &lpar;The Verge&rpar;](http://www.techmeme.com/230420/p27#a230420p27)
- - [This is the F-150 Lightning fire that made Ford pause production](https://www.theverge.com/2023/4/20/23691743/ford-f-150-lightning-fire-video-watch)
- - [How the Biden Administration Is Making Solar More Accessible for Renters     - CNET](https://www.cnet.com/news/how-the-biden-harris-administration-is-making-solar-more-accessible-for-renters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Austin-based cybersecurity company Halcyon, which provides protection against ransomware, raised a $50M Series A, including $6M in debt, led by SYN Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230420/p29#a230420p29)
+ - [Dota 2’s ‘meta-defining’ New Frontiers update makes the map 40 percent bigger](https://www.theverge.com/2023/4/20/23692060/dota-2-7-33-new-frontiers-larger-map-meta-tormentors-watchers-lotus)
+ - [Get 45% off Adobe Creative Cloud All Apps subscription, now $44.99](https://appleinsider.com/articles/23/04/21/get-45-off-adobe-creative-cloud-all-apps-subscription-now-4499?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
