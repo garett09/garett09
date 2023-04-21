@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sinister version of hare and tortoise &lpar;Not Mine&rpar;](http://9gag.com/gag/a2K0Gz1)
- - 🚯 [This person met the actor of Bjorn Ironside but did not realize it was actually him](http://9gag.com/gag/amA6nj4)
- - 🚯 [A caring husband](http://9gag.com/gag/abv42gX)<!-- MEMES:END -->
+ - 🚖 [A caring husband](http://9gag.com/gag/abv42gX)
+ - 🚯 [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)
+ - 🚯 [Damn..](http://9gag.com/gag/aqe6Y3Q)<!-- MEMES:END -->
 
 --- 
 
