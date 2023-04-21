@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How it is possible](http://9gag.com/gag/a9q5mzD)
- - 🚯 [A caring husband](http://9gag.com/gag/abv42gX)
- - 🚯 [So long my friend](http://9gag.com/gag/aQE72Kq)<!-- MEMES:END -->
+ - 🚖 [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)
+ - 🚯 [Modern society in 2023](http://9gag.com/gag/anz2Vr0)
+ - 🚯 [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)<!-- MEMES:END -->
 
 --- 
 
