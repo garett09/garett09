@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m enjoying the surface level absurdity of Microsoft updating DirectStorage 1.2 for the benefit of ye olde hard drives](https://www.pcgamer.com/im-enjoying-the-surface-level-absurdity-of-microsoft-updating-directstorage-12-for-the-benefit-of-ye-olde-hard-drives)
- - [iFixit Repair Business Toolkit](https://www.pcgamer.com/ifixit-repair-business-toolkit-2023-review)
- - [This new football game may well give EA a run for its money &lpar;sorry PES&rpar;](https://www.pcgamer.com/this-new-football-game-may-well-give-ea-a-run-for-its-money-sorry-pes)<!-- GAME:END -->
+ - [Evil Dead Rise director Lee Cronin says families are a horror movie](https://www.polygon.com/23691469/evil-dead-rise-director-interview-lee-cronin)
+ - [Deathloop exists because Dishonored 3 ain&#39;t happening](https://www.pcgamer.com/deathloop-exists-because-dishonored-3-aint-happening)
+ - [After playing Half-Life with this new ray tracing mod, I need a cold shower in a dimly lit room](https://www.pcgamer.com/after-playing-half-life-with-this-new-ray-tracing-mod-i-need-a-cold-shower-in-a-dimly-lit-room)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
