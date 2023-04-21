@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Four more Ubisoft games are headed to Steam this summer](https://www.pcgamer.com/four-more-ubisoft-games-are-headed-to-steam-this-summer)
- - [Markiplier is making a feature film adaptation of a $6 horror indie game where you pilot a windowless submarine under an ocean of blood](https://www.pcgamer.com/markiplier-is-making-a-feature-film-adaptation-of-a-dollar6-horror-indie-game-where-you-pilot-a-windowless-submarine-under-an-ocean-of-blood)
- - [Dota 2’s New Frontiers update completely shakes up the game](https://www.polygon.com/23693251/dota-2-new-frontiers-patch-notes-map-features)<!-- GAME:END -->
+ - [Twitter’s de-verification debacle, explained](https://www.polygon.com/23693433/twitter-blue-check-stephen-king-lebron-james-elon-musk)
+ - [Ant-Man and the Wasp: Quantumania, Netflix’s Power Rangers movie, and every other movie you can stream from home this weekend](https://www.polygon.com/entertainment/2023/4/21/23686305/new-movies-watch-ant-man-wasp-quantumania-netflix-power-rangers-streaming)
+ - [Four more Ubisoft games are headed to Steam this summer](https://www.pcgamer.com/four-more-ubisoft-games-are-headed-to-steam-this-summer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
