@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A California jury clears Tesla of any blame for a 2019 crash involving Autopilot as the company&#39;s user manual warned against using the system on city streets &lpar;Reuters&rpar;](http://www.techmeme.com/230421/p18#a230421p18)
- - [10 more fun, niche, weird apps for Android &lpar;volume 2&rpar;](https://www.androidauthority.com/fun-niche-weird-apps-android-2-3314477/)
- - [How to follow live sports scores on your iPhone lock screen](https://www.theverge.com/23693319/iphone-live-activities-sports-lock-screen-apple-tv-mlb)<!-- TECH:END -->
+ - [The Supreme Court Preserves Abortion Pill Access—Temporarily](https://www.wired.com/story/supreme-court-preserves-abortion-pill-access-temporarily/)
+ - [The US Department of Homeland Security announces a task force to explore potential uses of AI to protect the country, including better cargo screening systems &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230421/p19#a230421p19)
+ - [Steam Deck, ROG Ally and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
