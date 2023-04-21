@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now use Bard for coding or help with Google Sheets functions](https://www.androidauthority.com/bard-coding-google-sheets-3315876/)
- - [The 38 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Sources: Google has halted construction of its proposed 80-acre mega-campus in San Jose, California, after the first demolition phase, amid cost-cutting efforts &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230421/p16#a230421p16)
+ - [Mandiant says the North Korea-linked hack of VoIP company 3CX&#39;s customers is the first confirmed incident of one software-supply-chain attack enabling another &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230421/p15#a230421p15)
+ - [Apple might not allow sideloading on iPhones in the US, because why would it?](https://www.androidauthority.com/iphone-sideloading-us-3315906/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
