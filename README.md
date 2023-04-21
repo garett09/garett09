@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Squeeze them](http://9gag.com/gag/aGEBMXn)
- - 🚯 [Welcome to Japan](http://9gag.com/gag/aOxZ46y)
- - 🚯 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
+ - 🚖 [Yikes....](http://9gag.com/gag/aVbK2BM)
+ - 🚯 [Madlad schemes](http://9gag.com/gag/armX8MX)
+ - 🚯 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)<!-- MEMES:END -->
 
 --- 
 
