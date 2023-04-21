@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A caring husband](http://9gag.com/gag/abv42gX)
- - 🚯 [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)
- - 🚯 [Damn..](http://9gag.com/gag/aqe6Y3Q)<!-- MEMES:END -->
+ - 🚖 [Now they have to build a exhaust-tunnel](http://9gag.com/gag/aVbKB4w)
+ - 🚯 [A caring husband](http://9gag.com/gag/abv42gX)
+ - 🚯 [Foreigners after spending two weeks in India](http://9gag.com/gag/amA6Mo4)<!-- MEMES:END -->
 
 --- 
 
