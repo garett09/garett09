@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia reportedly cutting supply on slow selling RTX 4070 GPU](https://www.pcgamer.com/nvidia-reportedly-cutting-supply-on-slow-selling-rtx-4070-gpu)
- - [Street Fighter 6 isn&#39;t out yet but it&#39;s already announced its first 4 DLC characters](https://www.pcgamer.com/street-fighter-6-year-1-dlc)
- - [These tabletop city builders with all the chaotic freedom of D&amp;D are my new obsession](https://www.pcgamer.com/tabletop-city-builders)<!-- GAME:END -->
+ - [I&#39;m enjoying the surface level absurdity of Microsoft updating DirectStorage 1.2 for the benefit of ye olde hard drives](https://www.pcgamer.com/im-enjoying-the-surface-level-absurdity-of-microsoft-updating-directstorage-12-for-the-benefit-of-ye-olde-hard-drives)
+ - [iFixit Repair Business Toolkit](https://www.pcgamer.com/ifixit-repair-business-toolkit-2023-review)
+ - [This new football game may well give EA a run for its money &lpar;sorry PES&rpar;](https://www.pcgamer.com/this-new-football-game-may-well-give-ea-a-run-for-its-money-sorry-pes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
