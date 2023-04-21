@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Classical Review: A Great App That Ignores Much of the World](https://www.wired.com/story/apple-music-classical-name/)
- - [The War on Passwords Enters a Chaotic New Phase](https://www.wired.com/story/passwords-passkey-transition-time/)
- - [iPhone 15 Pro: All the rumors, and what it will look like](https://appleinsider.com/articles/23/04/21/iphone-15-pro-all-the-rumors-and-what-it-will-look-like?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s latest DirectStorage 1.2 works on HDDs to boost PC game load times](https://www.theverge.com/2023/4/21/23692423/microsoft-directstorage-2-1-hdd-support-game-load-speed-times)
+ - [11 Smart Prompts to Do More With Google Bard](https://www.wired.com/story/11-better-prompts-google-bard/)
+ - [Sleep Number Climate360 Smart Bed Review: Hot and Cold](https://www.wired.com/review/sleep-number-climate360-smart-bed/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
