@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals: $250 off new MacBook Pro, $100 off iPad Pro, 47% off Hisense Soundbar, more](https://appleinsider.com/articles/23/04/21/daily-deals-250-off-new-macbook-pro-100-off-ipad-pro-47-off-hisense-soundbar-more?utm_medium=rss)
- - [Disney has reached a multimillion-dollar settlement with fired VFX head Victoria Alonso](https://www.theverge.com/entertainment/2023/4/21/23692443/disney-victoria-alonso-settlement)
- - [5 Best VR Headsets &lpar;2022&rpar;: Virtual Reality Accessories, Apps, and Games](https://www.wired.com/gallery/best-vr-headsets-in-this-reality/)<!-- TECH:END -->
+ - [Can Snap snap back?](https://www.theverge.com/23692664/snapchat-partner-summit-ai-chatbot)
+ - [Apple TV YouTube app gets big update to fix bugs &amp; offer NFL Sunday Ticket](https://appleinsider.com/articles/23/04/21/apple-tv-youtube-app-gets-big-update-to-fix-bugs-offer-nfl-sunday-ticket?utm_medium=rss)
+ - [iOttie Velox Mini review: A compact magnetic car charger with smart cooling](https://appleinsider.com/articles/23/04/21/iottie-velox-mini-review-a-compact-magnetic-car-charger-with-active-cooling?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
