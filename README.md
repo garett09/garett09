@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)
- - 🚯 [I don&#39;t want this column.](http://9gag.com/gag/aZD8w56)
- - 🚯 [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)<!-- MEMES:END -->
+ - 🚖 [Squeeze them](http://9gag.com/gag/aGEBMXn)
+ - 🚯 [Welcome to Japan](http://9gag.com/gag/aOxZ46y)
+ - 🚯 [RIP true savior. Youtube vanced is no more](http://9gag.com/gag/a4oNN3A)<!-- MEMES:END -->
 
 --- 
 
