@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The cute cozy cat game we&#39;ve been watching for 6 years is finally coming out](https://www.pcgamer.com/the-cute-cozy-cat-game-weve-been-watching-for-6-years-is-finally-coming-out)
- - [Sims 4 ‘face bug’ makes everyone look… off](https://www.polygon.com/23693261/sims-4-face-weird-bug-update-coming)
- - [These Limited Edition Eeveelution Pokémon Cards Are Beautiful](https://kotaku.com/pokemon-trading-cards-tgc-eevee-eeveelution-yu-nagaba-a-1850363705)<!-- GAME:END -->
+ - [Four more Ubisoft games are headed to Steam this summer](https://www.pcgamer.com/four-more-ubisoft-games-are-headed-to-steam-this-summer)
+ - [Markiplier is making a feature film adaptation of a $6 horror indie game where you pilot a windowless submarine under an ocean of blood](https://www.pcgamer.com/markiplier-is-making-a-feature-film-adaptation-of-a-dollar6-horror-indie-game-where-you-pilot-a-windowless-submarine-under-an-ocean-of-blood)
+ - [Dota 2’s New Frontiers update completely shakes up the game](https://www.polygon.com/23693251/dota-2-new-frontiers-patch-notes-map-features)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
