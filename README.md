@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google has halted construction of its proposed 80-acre mega-campus in San Jose, California, after the first demolition phase, amid cost-cutting efforts &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230421/p16#a230421p16)
- - [Mandiant says the North Korea-linked hack of VoIP company 3CX&#39;s customers is the first confirmed incident of one software-supply-chain attack enabling another &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230421/p15#a230421p15)
- - [Apple might not allow sideloading on iPhones in the US, because why would it?](https://www.androidauthority.com/iphone-sideloading-us-3315906/)<!-- TECH:END -->
+ - [The Pixel Tablet has been captured on video at a special Google event](https://www.theverge.com/2023/4/21/23693169/google-pixel-tablet-real-life-wild-photos-shaped-by-water-milan)
+ - [Google in retreat, halts construction of 80 acre mega campus](https://appleinsider.com/articles/23/04/21/google-in-retreat-halts-construction-of-80-acre-mega-campus?utm_medium=rss)
+ - [The Mandalorian’s season 3 finale didn’t need to answer every question](https://www.theverge.com/23691602/the-mandalorian-season-3-finale-disney-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
