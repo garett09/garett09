@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now they have to build a exhaust-tunnel](http://9gag.com/gag/aVbKB4w)
- - 🚯 [Damn..](http://9gag.com/gag/aqe6Y3Q)
- - 🚯 [WTF? Do you sit on the Backwards or something?](http://9gag.com/gag/aNwQB6G)<!-- MEMES:END -->
+ - 🚖 [Kevin.](http://9gag.com/gag/aVbKdNy)
+ - 🚯 [Now they have to build a exhaust-tunnel](http://9gag.com/gag/aVbKB4w)
+ - 🚯 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)<!-- MEMES:END -->
 
 --- 
 
