@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pre-order Street Fighter 6](https://www.polygon.com/deals/23674243/street-fighter-6-pre-order-guide-collectors-edition-where-to-buy)
- - [A TMNT x Stranger Things comic will explore the dynamic between Eleven and Raphael](https://www.polygon.com/23690176/stranger-things-ninja-turtles-crossover-art-comic)
- - [Where to find the Action Cam in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-action-cam-location)<!-- GAME:END -->
+ - [Dead Island 2: How Dambuster Studios Gave an Undead Series New Life](https://news.xbox.com/en-us/2023/04/21/dead-island-2-out-now/)
+ - [Magic: The Gathering goes to battle with its first new card type in 15 years](https://www.polygon.com/23690025/mtg-battles-how-do-they-work-new-card-type-march-of-machine)
+ - [Acer&#39;s new RTX 4090-powered PC is puny but hella powerful](https://www.pcgamer.com/acers-new-rtx-4090-powered-pc-is-puny-but-hella-powerful)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
