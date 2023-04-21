@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So long my friend](http://9gag.com/gag/aQE72Kq)
- - 🚯 [I&#39;ll F**kin&#39; Do It Again](http://9gag.com/gag/aBdVo1Z)
- - 🚯 [Too far?](http://9gag.com/gag/adPQRKV)<!-- MEMES:END -->
+ - 🚖 [Yikes....](http://9gag.com/gag/aVbK2BM)
+ - 🚯 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
+ - 🚯 [Now they have to build a exhaust-tunnel](http://9gag.com/gag/aVbKB4w)<!-- MEMES:END -->
 
 --- 
 
