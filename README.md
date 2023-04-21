@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)
- - 🚯 [So long my friend](http://9gag.com/gag/aQE72Kq)
- - 🚯 [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)<!-- MEMES:END -->
+ - 🚖 [So long my friend](http://9gag.com/gag/aQE72Kq)
+ - 🚯 [I&#39;ll F**kin&#39; Do It Again](http://9gag.com/gag/aBdVo1Z)
+ - 🚯 [Too far?](http://9gag.com/gag/adPQRKV)<!-- MEMES:END -->
 
 --- 
 
