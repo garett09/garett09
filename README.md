@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change color saturation on Apple Watch faces for customization](https://appleinsider.com/inside/apple-watch/tips/how-to-change-color-saturation-on-apple-watch-faces-for-customization?utm_medium=rss)
- - [Galaxy Watch 6 might have a new processor, unlike the Galaxy Watch 5](https://www.androidauthority.com/samsung-exynos-w980-3315792/)
- - [&#39;Under Alien Skies&#39; Will Fuel the Next Generation of Sci-Fi](https://www.wired.com/2023/04/geeks-guide-under-alien-skies/)<!-- TECH:END -->
+ - [Redbox wants to save Netflix’s DVD business](https://www.theverge.com/2023/4/21/23692665/redbox-netflix-dvd-business-save)
+ - [Google Assistant will stop narrating every little detail about its actions soon](https://www.androidauthority.com/google-assistant-quiet-3315822/)
+ - [Sources: Lyft to cut 1,200+ jobs, or 30% of its 4,000+ staff, days after its new CEO took control, as it aims to reduce 50% of costs; Lyft cut 700 jobs in 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230421/p11#a230421p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
