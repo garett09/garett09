@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo is changing Mario ‘bad guy’ Foreman Spike’s name in Japan](https://www.polygon.com/23693162/super-mario-bros-movie-spike-name-change-nintendo-announcement)
- - [This Week on Xbox: Dead Island 2, Earth Day, and Minecraft Legends](https://news.xbox.com/en-us/2023/04/21/this-week-on-xbox-dead-island-2-earth-day-and-minecraft-legends/)
- - [AI Image Generator Is Making Wild And Horrifying Game Controllers](https://kotaku.com/midjourney-ai-art-ps5-nintendo-xbox-controller-1850363530)<!-- GAME:END -->
+ - [The cute cozy cat game we&#39;ve been watching for 6 years is finally coming out](https://www.pcgamer.com/the-cute-cozy-cat-game-weve-been-watching-for-6-years-is-finally-coming-out)
+ - [Sims 4 ‘face bug’ makes everyone look… off](https://www.polygon.com/23693261/sims-4-face-weird-bug-update-coming)
+ - [These Limited Edition Eeveelution Pokémon Cards Are Beautiful](https://kotaku.com/pokemon-trading-cards-tgc-eevee-eeveelution-yu-nagaba-a-1850363705)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
