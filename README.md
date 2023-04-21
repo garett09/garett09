@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)
- - 🚯 [How it is possible](http://9gag.com/gag/a9q5mzD)
- - 🚯 [A caring husband](http://9gag.com/gag/abv42gX)<!-- MEMES:END -->
+ - 🚖 [How it is possible](http://9gag.com/gag/a9q5mzD)
+ - 🚯 [A caring husband](http://9gag.com/gag/abv42gX)
+ - 🚯 [So long my friend](http://9gag.com/gag/aQE72Kq)<!-- MEMES:END -->
 
 --- 
 
