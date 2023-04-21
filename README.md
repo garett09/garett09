@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Snap snap back?](https://www.theverge.com/23692664/snapchat-partner-summit-ai-chatbot)
- - [Apple TV YouTube app gets big update to fix bugs &amp; offer NFL Sunday Ticket](https://appleinsider.com/articles/23/04/21/apple-tv-youtube-app-gets-big-update-to-fix-bugs-offer-nfl-sunday-ticket?utm_medium=rss)
- - [iOttie Velox Mini review: A compact magnetic car charger with smart cooling](https://appleinsider.com/articles/23/04/21/iottie-velox-mini-review-a-compact-magnetic-car-charger-with-active-cooling?utm_medium=rss)<!-- TECH:END -->
+ - [How to change color saturation on Apple Watch faces for customization](https://appleinsider.com/inside/apple-watch/tips/how-to-change-color-saturation-on-apple-watch-faces-for-customization?utm_medium=rss)
+ - [Galaxy Watch 6 might have a new processor, unlike the Galaxy Watch 5](https://www.androidauthority.com/samsung-exynos-w980-3315792/)
+ - [&#39;Under Alien Skies&#39; Will Fuel the Next Generation of Sci-Fi](https://www.wired.com/2023/04/geeks-guide-under-alien-skies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
