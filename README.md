@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Critical Arctic Organism Is Now Infested With Microplastics](https://www.wired.com/story/a-critical-arctic-organism-is-now-infested-with-microplastics/)
- - [Watch the first demo of buzzy startup Humane’s wearable AI assistant in leaked clips](https://www.theverge.com/2023/4/21/23692368/humane-ted-talk-imran-chaudhri-wearable-screenless-device-voice-commands-projected-screen)
- - [&#39;Ted Lasso&#39; star Hannah Waddingham lands Christmas special](https://appleinsider.com/articles/23/04/21/ted-lasso-star-hannah-waddingham-lands-christmas-special?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Music Classical Review: A Great App That Ignores Much of the World](https://www.wired.com/story/apple-music-classical-name/)
+ - [The War on Passwords Enters a Chaotic New Phase](https://www.wired.com/story/passwords-passkey-transition-time/)
+ - [iPhone 15 Pro: All the rumors, and what it will look like](https://appleinsider.com/articles/23/04/21/iphone-15-pro-all-the-rumors-and-what-it-will-look-like?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
