@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lord of the Rings Fanfic Writer Sues Amazon, Tolkien Estate For $250M](https://kotaku.com/lord-of-the-rings-power-fanfic-amazon-tolkien-bezos-1850363244)
- - [God Of War Devs Break Down Epic Final Boss Fight For Fifth Anniversary](https://kotaku.com/god-of-war-ps5-anniversary-kratos-atreus-behind-the-sce-1850363117)
- - [Garry’s Mod Creator Ponders Banning The Nazis](https://kotaku.com/garrys-mod-newman-nazi-world-war-ww2-roleplay-pc-gaming-1850363103)<!-- GAME:END -->
+ - [Nintendo is changing Mario ‘bad guy’ Foreman Spike’s name in Japan](https://www.polygon.com/23693162/super-mario-bros-movie-spike-name-change-nintendo-announcement)
+ - [This Week on Xbox: Dead Island 2, Earth Day, and Minecraft Legends](https://news.xbox.com/en-us/2023/04/21/this-week-on-xbox-dead-island-2-earth-day-and-minecraft-legends/)
+ - [AI Image Generator Is Making Wild And Horrifying Game Controllers](https://kotaku.com/midjourney-ai-art-ps5-nintendo-xbox-controller-1850363530)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
