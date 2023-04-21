@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to get fuses in Dead Island 2](https://www.pcgamer.com/dead-island-2-fuse-location)
  - [Street Fighter 6 Will Let You Fight A Refrigerator](https://kotaku.com/street-fighter-6-rpg-world-tour-mode-trailer-fridge-sf6-1850360625)
- - [Sid Meier&#39;s Civilization VI: The Kotaku Re-Review](https://kotaku.com/civilization-civ-vi-6-review-2023-retrospective-pc-sid-1850242218)
- - [Hooray, a Street Fighter 6 demo just dropped! Oh wait, PC gamers can&#39;t play it until next week](https://www.pcgamer.com/street-fighter-6-demo)<!-- GAME:END -->
+ - [Sid Meier&#39;s Civilization VI: The Kotaku Re-Review](https://kotaku.com/civilization-civ-vi-6-review-2023-retrospective-pc-sid-1850242218)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
