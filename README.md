@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Evil Dead Rise director Lee Cronin says families are a horror movie](https://www.polygon.com/23691469/evil-dead-rise-director-interview-lee-cronin)
- - [Deathloop exists because Dishonored 3 ain&#39;t happening](https://www.pcgamer.com/deathloop-exists-because-dishonored-3-aint-happening)
- - [After playing Half-Life with this new ray tracing mod, I need a cold shower in a dimly lit room](https://www.pcgamer.com/after-playing-half-life-with-this-new-ray-tracing-mod-i-need-a-cold-shower-in-a-dimly-lit-room)<!-- GAME:END -->
+ - [Where to pre-order Street Fighter 6](https://www.polygon.com/deals/23674243/street-fighter-6-pre-order-guide-collectors-edition-where-to-buy)
+ - [A TMNT x Stranger Things comic will explore the dynamic between Eleven and Raphael](https://www.polygon.com/23690176/stranger-things-ninja-turtles-crossover-art-comic)
+ - [Where to find the Action Cam in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-action-cam-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
