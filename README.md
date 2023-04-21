@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After YouTube pulls Heart On My Sleeve due to a UMG copyright notice, a look at the legal dilemma for Google, which claims scraping data to train AI is fair use &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230421/p1#a230421p1)
- - [The Google Pixel 7a could offer face unlock support](https://www.androidauthority.com/google-pixel-7a-face-unlock-3315603/)
- - [Now WhatsApp can save ‘disappearing’ messages if the sender consents](https://www.theverge.com/2023/4/21/23692254/whatsapp-keep-in-chat-disappearing-messages)<!-- TECH:END -->
+ - [A Critical Arctic Organism Is Now Infested With Microplastics](https://www.wired.com/story/a-critical-arctic-organism-is-now-infested-with-microplastics/)
+ - [Watch the first demo of buzzy startup Humane’s wearable AI assistant in leaked clips](https://www.theverge.com/2023/4/21/23692368/humane-ted-talk-imran-chaudhri-wearable-screenless-device-voice-commands-projected-screen)
+ - [&#39;Ted Lasso&#39; star Hannah Waddingham lands Christmas special](https://appleinsider.com/articles/23/04/21/ted-lasso-star-hannah-waddingham-lands-christmas-special?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
