@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kevin.](http://9gag.com/gag/aVbKdNy)
- - 🚯 [Now they have to build a exhaust-tunnel](http://9gag.com/gag/aVbKB4w)
- - 🚯 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)<!-- MEMES:END -->
+ - 🚖 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)
+ - 🚯 [So long my friend](http://9gag.com/gag/aQE72Kq)
+ - 🚯 [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)<!-- MEMES:END -->
 
 --- 
 
