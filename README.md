@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Become a Farming Witch in Homestead Arcana, Out Today](https://news.xbox.com/en-us/2023/04/21/homestead-arcana-out-today/)
- - [BS your way through interviews and first dates with this ChapGPT-powered AR monocle](https://www.pcgamer.com/bs-your-way-through-interviews-and-first-dates-with-this-chapgpt-powered-ar-monocle)
- - [Official PlayStation Podcast Episode 455: Asad Qizilbash Talks PlayStation Productions](https://blog.playstation.com/2023/04/21/official-playstation-podcast-episode-455-asad-qizilbash-talks-playstation-productions/)<!-- GAME:END -->
+ - [Lord of the Rings Fanfic Writer Sues Amazon, Tolkien Estate For $250M](https://kotaku.com/lord-of-the-rings-power-fanfic-amazon-tolkien-bezos-1850363244)
+ - [God Of War Devs Break Down Epic Final Boss Fight For Fifth Anniversary](https://kotaku.com/god-of-war-ps5-anniversary-kratos-atreus-behind-the-sce-1850363117)
+ - [Garry’s Mod Creator Ponders Banning The Nazis](https://kotaku.com/garrys-mod-newman-nazi-world-war-ww2-roleplay-pc-gaming-1850363103)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
