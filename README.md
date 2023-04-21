@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can someone tell me why there are so many people fighting over one seat?](http://9gag.com/gag/aA0KZX9)
- - 🚯 [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)
- - 🚯 [Sinister version of hare and tortoise &lpar;Not Mine&rpar;](http://9gag.com/gag/a2K0Gz1)<!-- MEMES:END -->
+ - 🚖 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)
+ - 🚯 [How it is possible](http://9gag.com/gag/a9q5mzD)
+ - 🚯 [A caring husband](http://9gag.com/gag/abv42gX)<!-- MEMES:END -->
 
 --- 
 
