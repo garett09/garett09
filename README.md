@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Barsys Smart Coaster Review: Not a Reliable Drinking Buddy](https://www.wired.com/review/barsys-smart-coaster-and-mixer/)
  - [The Motorola Razr 2023 is officially coming, and here’s the first teaser video](https://www.androidauthority.com/motorola-razr-2023-video-3312943/)
- - [Humane co-founder Imran Chaudhri demoed an AI-powered wearable with a projected display that does not need a nearby phone and uses voice and gestures for input &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230420/p30#a230420p30)
- - [Austin-based cybersecurity company Halcyon, which provides protection against ransomware, raised a $50M Series A, including $6M in debt, led by SYN Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230420/p29#a230420p29)<!-- TECH:END -->
+ - [Humane co-founder Imran Chaudhri demoed an AI-powered wearable with a projected display that does not need a nearby phone and uses voice and gestures for input &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230420/p30#a230420p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
