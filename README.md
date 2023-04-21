@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Tablet has been captured on video at a special Google event](https://www.theverge.com/2023/4/21/23693169/google-pixel-tablet-real-life-wild-photos-shaped-by-water-milan)
- - [Google in retreat, halts construction of 80 acre mega campus](https://appleinsider.com/articles/23/04/21/google-in-retreat-halts-construction-of-80-acre-mega-campus?utm_medium=rss)
- - [The Mandalorian’s season 3 finale didn’t need to answer every question](https://www.theverge.com/23691602/the-mandalorian-season-3-finale-disney-plus)<!-- TECH:END -->
+ - [A California jury clears Tesla of any blame for a 2019 crash involving Autopilot as the company&#39;s user manual warned against using the system on city streets &lpar;Reuters&rpar;](http://www.techmeme.com/230421/p18#a230421p18)
+ - [10 more fun, niche, weird apps for Android &lpar;volume 2&rpar;](https://www.androidauthority.com/fun-niche-weird-apps-android-2-3314477/)
+ - [How to follow live sports scores on your iPhone lock screen](https://www.theverge.com/23693319/iphone-live-activities-sports-lock-screen-apple-tv-mlb)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
