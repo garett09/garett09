@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redbox wants to save Netflix’s DVD business](https://www.theverge.com/2023/4/21/23692665/redbox-netflix-dvd-business-save)
- - [Google Assistant will stop narrating every little detail about its actions soon](https://www.androidauthority.com/google-assistant-quiet-3315822/)
- - [Sources: Lyft to cut 1,200+ jobs, or 30% of its 4,000+ staff, days after its new CEO took control, as it aims to reduce 50% of costs; Lyft cut 700 jobs in 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230421/p11#a230421p11)<!-- TECH:END -->
+ - [Mullvad VPN says Swedish police visited its office with a search warrant but left without any customer data after being informed of company&#39;s no-logging policy &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230421/p14#a230421p14)
+ - [Mullvad VPN maker says police tried to raid its offices but couldn’t find any user data](https://www.theverge.com/2023/4/21/23692580/mullvad-vpn-raid-sweden-police)
+ - [Humane co-founder Imran Chaudhri demoed an AI-powered screenless wearable with a projector to display info, voice and gestures for input, and no phone required &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230421/p13#a230421p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
