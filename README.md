@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mullvad VPN says Swedish police visited its office with a search warrant but left without any customer data after being informed of company&#39;s no-logging policy &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/230421/p14#a230421p14)
- - [Mullvad VPN maker says police tried to raid its offices but couldn’t find any user data](https://www.theverge.com/2023/4/21/23692580/mullvad-vpn-raid-sweden-police)
- - [Humane co-founder Imran Chaudhri demoed an AI-powered screenless wearable with a projector to display info, voice and gestures for input, and no phone required &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230421/p13#a230421p13)<!-- TECH:END -->
+ - [You can now use Bard for coding or help with Google Sheets functions](https://www.androidauthority.com/bard-coding-google-sheets-3315876/)
+ - [The 38 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
