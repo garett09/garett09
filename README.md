@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a wholesome helper](http://9gag.com/gag/aoKRLQ2)
- - 🚯 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)
- - 🚯 [Foreigners after spending two weeks in India](http://9gag.com/gag/amA6Mo4)<!-- MEMES:END -->
+ - 🚖 [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)
+ - 🚯 [Come here](http://9gag.com/gag/aREM2mM)
+ - 🚯 [Any bets on the cast?](http://9gag.com/gag/aZD8EY9)<!-- MEMES:END -->
 
 --- 
 
