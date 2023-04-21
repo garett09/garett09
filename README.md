@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hole is hole](http://9gag.com/gag/aQE72jd)
- - 🚯 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)
- - 🚯 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)<!-- MEMES:END -->
+ - 🚖 [Damn..](http://9gag.com/gag/aqe6Y3Q)
+ - 🚯 [Unpopular Opinion: no matter how bad the majority found the movie, not only did i like it back as a teen, to this day ive never come across a better depiction of a Lycanthrope, the design is badass from top to bottom.](http://9gag.com/gag/a8q0Kwp)
+ - 🚯 [Seasoning a new pan](http://9gag.com/gag/aVbKVp8)<!-- MEMES:END -->
 
 --- 
 
