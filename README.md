@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Island 2: The Kotaku Review](https://kotaku.com/dead-island-2-review-release-date-dambuster-ps5-rpg-1850345905)
- - [For Mother’s Day, here are 19 great gift ideas](https://www.polygon.com/deals/23674067/mothers-day-gift-ideas)
- - [Intel Arc GPU performance bumped by over 70% in Cyberpunk 2077 thanks to XeSS](https://www.pcgamer.com/intel-arc-gpu-performance-bumped-by-over-70-in-cyberpunk-2077-thanks-to-xess)<!-- GAME:END -->
+ - [Become a Farming Witch in Homestead Arcana, Out Today](https://news.xbox.com/en-us/2023/04/21/homestead-arcana-out-today/)
+ - [BS your way through interviews and first dates with this ChapGPT-powered AR monocle](https://www.pcgamer.com/bs-your-way-through-interviews-and-first-dates-with-this-chapgpt-powered-ar-monocle)
+ - [Official PlayStation Podcast Episode 455: Asad Qizilbash Talks PlayStation Productions](https://blog.playstation.com/2023/04/21/official-playstation-podcast-episode-455-asad-qizilbash-talks-playstation-productions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
