@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s latest DirectStorage 1.2 works on HDDs to boost PC game load times](https://www.theverge.com/2023/4/21/23692423/microsoft-directstorage-2-1-hdd-support-game-load-speed-times)
- - [11 Smart Prompts to Do More With Google Bard](https://www.wired.com/story/11-better-prompts-google-bard/)
- - [Sleep Number Climate360 Smart Bed Review: Hot and Cold](https://www.wired.com/review/sleep-number-climate360-smart-bed/)<!-- TECH:END -->
+ - [Google gives Bard the ability to generate, debug, and explain code in 20+ languages, including C++, JavaScript, and Python, and export code to Google&#39;s Colab &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/230421/p7#a230421p7)
+ - [Who Will You Be After ChatGPT Takes Your Job?](https://www.wired.com/story/status-work-generative-artificial-intelligence/)
+ - [The Bud Light Boycott and the Sad Future of Online Protest](https://www.wired.com/story/bud-light-boycott-tiktok/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
