@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Barsys Smart Coaster Review: Not a Reliable Drinking Buddy](https://www.wired.com/review/barsys-smart-coaster-and-mixer/)
- - [The Motorola Razr 2023 is officially coming, and here’s the first teaser video](https://www.androidauthority.com/motorola-razr-2023-video-3312943/)
- - [Humane co-founder Imran Chaudhri demoed an AI-powered wearable with a projected display that does not need a nearby phone and uses voice and gestures for input &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230420/p30#a230420p30)<!-- TECH:END -->
+ - [After YouTube pulls Heart On My Sleeve due to a UMG copyright notice, a look at the legal dilemma for Google, which claims scraping data to train AI is fair use &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230421/p1#a230421p1)
+ - [The Google Pixel 7a could offer face unlock support](https://www.androidauthority.com/google-pixel-7a-face-unlock-3315603/)
+ - [Now WhatsApp can save ‘disappearing’ messages if the sender consents](https://www.theverge.com/2023/4/21/23692254/whatsapp-keep-in-chat-disappearing-messages)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
