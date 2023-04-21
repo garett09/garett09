@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google gives Bard the ability to generate, debug, and explain code in 20+ languages, including C++, JavaScript, and Python, and export code to Google&#39;s Colab &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/230421/p7#a230421p7)
- - [Who Will You Be After ChatGPT Takes Your Job?](https://www.wired.com/story/status-work-generative-artificial-intelligence/)
- - [The Bud Light Boycott and the Sad Future of Online Protest](https://www.wired.com/story/bud-light-boycott-tiktok/)<!-- TECH:END -->
+ - [Daily Deals: $250 off new MacBook Pro, $100 off iPad Pro, 47% off Hisense Soundbar, more](https://appleinsider.com/articles/23/04/21/daily-deals-250-off-new-macbook-pro-100-off-ipad-pro-47-off-hisense-soundbar-more?utm_medium=rss)
+ - [Disney has reached a multimillion-dollar settlement with fired VFX head Victoria Alonso](https://www.theverge.com/entertainment/2023/4/21/23692443/disney-victoria-alonso-settlement)
+ - [5 Best VR Headsets &lpar;2022&rpar;: Virtual Reality Accessories, Apps, and Games](https://www.wired.com/gallery/best-vr-headsets-in-this-reality/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
