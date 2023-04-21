@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yikes....](http://9gag.com/gag/aVbK2BM)
- - 🚯 [Madlad schemes](http://9gag.com/gag/armX8MX)
- - 🚯 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)<!-- MEMES:END -->
+ - 🚖 [Hole is hole](http://9gag.com/gag/aQE72jd)
+ - 🚯 [How to pay your rent during inflation](http://9gag.com/gag/a2K0bKw)
+ - 🚯 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)<!-- MEMES:END -->
 
 --- 
 
