@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Island 2: How Dambuster Studios Gave an Undead Series New Life](https://news.xbox.com/en-us/2023/04/21/dead-island-2-out-now/)
- - [Magic: The Gathering goes to battle with its first new card type in 15 years](https://www.polygon.com/23690025/mtg-battles-how-do-they-work-new-card-type-march-of-machine)
- - [Acer&#39;s new RTX 4090-powered PC is puny but hella powerful](https://www.pcgamer.com/acers-new-rtx-4090-powered-pc-is-puny-but-hella-powerful)<!-- GAME:END -->
+ - [Microsoft isn’t paying Twitter’s new API fees, so Xbox to Twitter sharing is gone](https://www.polygon.com/23692583/microsoft-twitter-api-elon-musk-pricing-xbox)
+ - [Tips and Tricks for Season Six of Naruto to Boruto: Shinobi Striker](https://news.xbox.com/en-us/2023/04/21/tips-and-tricks-for-season-six-of-naruto-to-boruto-shinobi-striker/)
+ - [Next Week on Xbox: New Games for April 24 to 28](https://news.xbox.com/en-us/2023/04/21/next-week-on-xbox-new-games-for-april-24-to-28/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
