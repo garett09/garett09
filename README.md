@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
- - 🚯 [Driving simulator doesn&#39;t go according to plan](http://9gag.com/gag/adPQn8B)
- - 🚯 [Women](http://9gag.com/gag/a8q02e3)<!-- MEMES:END -->
+ - 🚯 [Damn..](http://9gag.com/gag/aqe6Y3Q)
+ - 🚯 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)<!-- MEMES:END -->
 
 --- 
 
