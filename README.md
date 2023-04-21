@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A caring husband](http://9gag.com/gag/abv42gX)
- - 🚯 [How it is possible](http://9gag.com/gag/a9q5mzD)
- - 🚯 [Cpt, I summon you!](http://9gag.com/gag/aGEBG2K)<!-- MEMES:END -->
+ - 🚖 [Sinister version of hare and tortoise &lpar;Not Mine&rpar;](http://9gag.com/gag/a2K0Gz1)
+ - 🚯 [This person met the actor of Bjorn Ironside but did not realize it was actually him](http://9gag.com/gag/amA6nj4)
+ - 🚯 [A caring husband](http://9gag.com/gag/abv42gX)<!-- MEMES:END -->
 
 --- 
 
