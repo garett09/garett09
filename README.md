@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Massive Dota 2 patch makes the map 40% bigger, changes the UI, matchmaking, so much other stuff it&#39;s basically Dota 3 now](https://www.pcgamer.com/massive-dota-2-patch-makes-the-map-40-bigger-changes-the-ui-matchmaking-so-much-other-stuff-its-basically-dota-3-now)
- - [Today&#39;s Wordle hint and answer #671: Friday, April 21](https://www.pcgamer.com/wordle-hint-answer-today-671-april-21)
- - [How to get fuses in Dead Island 2](https://www.pcgamer.com/dead-island-2-fuse-location)<!-- GAME:END -->
+ - [Nvidia reportedly cutting supply on slow selling RTX 4070 GPU](https://www.pcgamer.com/nvidia-reportedly-cutting-supply-on-slow-selling-rtx-4070-gpu)
+ - [Street Fighter 6 isn&#39;t out yet but it&#39;s already announced its first 4 DLC characters](https://www.pcgamer.com/street-fighter-6-year-1-dlc)
+ - [These tabletop city builders with all the chaotic freedom of D&amp;D are my new obsession](https://www.pcgamer.com/tabletop-city-builders)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
