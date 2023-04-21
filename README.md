@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
- - 🚯 [Damn..](http://9gag.com/gag/aqe6Y3Q)
- - 🚯 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)<!-- MEMES:END -->
+ - 🚖 [Can someone tell me why there are so many people fighting over one seat?](http://9gag.com/gag/aA0KZX9)
+ - 🚯 [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)
+ - 🚯 [Sinister version of hare and tortoise &lpar;Not Mine&rpar;](http://9gag.com/gag/a2K0Gz1)<!-- MEMES:END -->
 
 --- 
 
