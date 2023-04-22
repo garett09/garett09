@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
- - 🚯 [Indian holy river Ganges at the source](http://9gag.com/gag/axo6AbD)
- - 🚯 [How dense are these people?](http://9gag.com/gag/aYVDnKm)<!-- MEMES:END -->
+ - 🚖 [Sinister version of hare and tortoise &lpar;Not Mine&rpar;](http://9gag.com/gag/a2K0Gz1)
+ - 🚯 [Imagine just being there.](http://9gag.com/gag/aWGn9Zq)
+ - 🚯 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)<!-- MEMES:END -->
 
 --- 
 
