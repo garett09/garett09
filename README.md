@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need a scientist](http://9gag.com/gag/ap96nY5)
- - 🚯 [No no holding the bow wrong yes](http://9gag.com/gag/abv4LQp)
- - 🚯 [So much for not knowing the location drama](http://9gag.com/gag/aeQZyxb)<!-- MEMES:END -->
+ - 🚖 [It&#39;s Getting Really Bad In San Francisco.. Footage Of What A Typical Target Store In San Francisco Looks Like Now!](http://9gag.com/gag/ay26ZAy)
+ - 🚯 [Indian holy river Ganges at the source](http://9gag.com/gag/axo6AbD)
+ - 🚯 [`Soyjack` Torture Mask 200 year old torture tool made of bronze from Germany. Wonder what is the mouth hole for...](http://9gag.com/gag/anz20En)<!-- MEMES:END -->
 
 --- 
 
