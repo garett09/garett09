@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple supplier Quanta invest $120M into Vietnam factory](https://appleinsider.com/articles/23/04/22/apple-supplier-quanta-invest-120m-into-vietnam-factory?utm_medium=rss)
- - [After years of searching, I have the answer to the flat vs curved display debate](https://www.androidauthority.com/flat-vs-curved-phone-displays-3313078/)
- - [Apple&#39;s 2023 MacBook Pro drops to record low $1,749 at Amazon](https://appleinsider.com/articles/23/04/22/apples-2023-macbook-pro-drops-to-record-low-1749-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [Earth Day 2023: green or greenwashed?](https://www.theverge.com/23688450/earth-day-2023-green-greenwashed-brands-climate-plastic-pollution)
+ - [Report: cheap Chromebooks, due to their short lifespans and lack of repairability, are less sustainable and more expensive for schools than pricier devices &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230422/p9#a230422p9)
+ - [PSVR 2 Accessories Available to Buy Right Now     - CNET](https://www.cnet.com/tech/gaming/psvr-2-accessories-available-to-buy-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
