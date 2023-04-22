@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yikes....](http://9gag.com/gag/aVbK2BM)
- - 🚯 [How dense are these people?](http://9gag.com/gag/aYVDnKm)
- - 🚯 [Corvette body work](http://9gag.com/gag/a7q06Xx)<!-- MEMES:END -->
+ - 🚖 [Women, in a nutshell](http://9gag.com/gag/avQ6mQM)
+ - 🚯 [Akon says Africa could be the strongest nation in the world if blacks moved back there.](http://9gag.com/gag/aA0KZ4g)
+ - 🚯 [Too far?](http://9gag.com/gag/adPQRKV)<!-- MEMES:END -->
 
 --- 
 
