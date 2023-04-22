@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Deals: Eco-Friendly and Spring Cleaning Gear](https://www.wired.com/story/weekend-deals-april-22-2023/)
- - [How to Responsibly Dispose of Your Electronics &lpar;2023&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)
- - [A profile of Runa Sandvik, who started Granitt in June 2022 to help journalists, lawyers, activists, and other at-risk people keep their data safe from hackers &lpar;Maddy Crowell/Columbia Journalism Review&rpar;](http://www.techmeme.com/230422/p4#a230422p4)<!-- TECH:END -->
+ - [I went on a quest to make the Find X6 Pro usable because I want to love it](https://www.androidauthority.com/oppo-find-x6-pro-import-3314423/)
+ - [How to Buy Ethical and Eco-Friendly Electronics &lpar;2023&rpar;](https://www.wired.com/story/how-to-buy-ethical-and-eco-friendly-electronics/)
+ - [How New Zealand’s Pesky Pigs Turned Into a Cash Cow](https://www.wired.com/story/new-zealand-pig-organ-transplant/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
