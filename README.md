@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [It&#39;s hard not to feel sorry for the overshadowed 1992 Dune game](https://www.pcgamer.com/saturday-crapshoot-dune)
  - [Dual-wielding god solos Elden Ring&#39;s hardest boss in 15 seconds... on New Game +7](https://www.pcgamer.com/dual-wielding-god-solos-elden-rings-hardest-boss-in-15-seconds-on-new-game-7)
- - [Which of The Legend of Zelda’s Links would be the best hangs?](https://www.polygon.com/zelda/23692483/legend-of-zelda-link-wind-waker-ocarina-of-time-majoras-mask)
- - [For those about to game on a 23.8-inch 1440p monitor, I salute you](https://www.pcgamer.com/for-those-about-to-game-on-a-238-inch-1440p-monitor-i-salute-you)<!-- GAME:END -->
+ - [Which of The Legend of Zelda’s Links would be the best hangs?](https://www.polygon.com/zelda/23692483/legend-of-zelda-link-wind-waker-ocarina-of-time-majoras-mask)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
