@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yikes....](http://9gag.com/gag/aVbK2BM)
- - 🚯 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
- - 🚯 [Now they have to build a exhaust-tunnel](http://9gag.com/gag/aVbKB4w)<!-- MEMES:END -->
+ - 🚖 [Sinister version of hare and tortoise &lpar;Not Mine&rpar;](http://9gag.com/gag/a2K0Gz1)
+ - 🚯 [Indian holy river Ganges at the source](http://9gag.com/gag/axo6AbD)
+ - 🚯 [So long my friend](http://9gag.com/gag/aQE72Kq)<!-- MEMES:END -->
 
 --- 
 
