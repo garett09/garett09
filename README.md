@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [On April 7, Google patched the GhostToken GCP vulnerability that could have allowed attackers to backdoor Google accounts using malicious OAuth applications &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230422/p2#a230422p2)
  - [A federal jury in Texas orders Samsung to pay $303M to computer memory company Netlist for infringing five patents related to improvements in data processing &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230422/p1#a230422p1)
- - [Silver Lake agrees to buy Germany&#39;s Software AG, a developer of business and application integration software, for &amp;euro;30 a share, valuing the company at ~&amp;euro;2.2B &lpar;Andrew Pollack/Bloomberg&rpar;](http://www.techmeme.com/230421/p23#a230421p23)
- - [A real-life Pixel Fold has seemingly leaked for the very first time](https://www.theverge.com/2023/4/21/23693598/pixel-fold-irl-video-leak)<!-- TECH:END -->
+ - [Silver Lake agrees to buy Germany&#39;s Software AG, a developer of business and application integration software, for &amp;euro;30 a share, valuing the company at ~&amp;euro;2.2B &lpar;Andrew Pollack/Bloomberg&rpar;](http://www.techmeme.com/230421/p23#a230421p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
