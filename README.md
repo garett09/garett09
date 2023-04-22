@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He is a man of focus, commitment and sheer f**king will](http://9gag.com/gag/ay26zPr)
- - 🚯 [I&#39;ll F**kin&#39; Do It Again](http://9gag.com/gag/aBdVo1Z)
- - 🚯 [Woke](http://9gag.com/gag/aBdVNAA)<!-- MEMES:END -->
+ - 🚖 [Yikes....](http://9gag.com/gag/aVbK2BM)
+ - 🚯 [How dense are these people?](http://9gag.com/gag/aYVDnKm)
+ - 🚯 [Corvette body work](http://9gag.com/gag/a7q06Xx)<!-- MEMES:END -->
 
 --- 
 
