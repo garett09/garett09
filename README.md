@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
- - 🚯 [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)
- - 🚯 [Corvette body work](http://9gag.com/gag/a7q06Xx)<!-- MEMES:END -->
+ - 🚖 [The synonymous realization](http://9gag.com/gag/aVbKVmy)
+ - 🚯 [Akon says Africa could be the strongest nation in the world if blacks moved back there.](http://9gag.com/gag/aA0KZ4g)
+ - 🚯 [Imagine just being there.](http://9gag.com/gag/aWGn9Zq)<!-- MEMES:END -->
 
 --- 
 
