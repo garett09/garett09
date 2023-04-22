@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yikes....](http://9gag.com/gag/aVbK2BM)
- - 🚯 [Guess who&#39;s](http://9gag.com/gag/ajVLKYq)
- - 🚯 [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)<!-- MEMES:END -->
+ - 🚖 [My dad worked his entire life repairing cars and now I will make an internship at BMW... I wish he was here, he&#39;d be so happy, he knew sooo much about cars](http://9gag.com/gag/az2KQWq)
+ - 🚯 [He is a man of focus, commitment and sheer f**king will](http://9gag.com/gag/ay26zPr)
+ - 🚯 [I&#39;ll F**kin&#39; Do It Again](http://9gag.com/gag/aBdVo1Z)<!-- MEMES:END -->
 
 --- 
 
