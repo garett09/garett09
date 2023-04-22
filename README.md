@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Supreme Court Preserves Abortion Pill Access—Temporarily](https://www.wired.com/story/supreme-court-preserves-abortion-pill-access-temporarily/)
- - [The US Department of Homeland Security announces a task force to explore potential uses of AI to protect the country, including better cargo screening systems &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230421/p19#a230421p19)
- - [Steam Deck, ROG Ally and more: all the news about the handheld PC gaming revolution](https://www.theverge.com/22579493/valve-steam-deck-gaming-handheld-pc)<!-- TECH:END -->
+ - [WhatsApp introduces Keep in Chat, an option that allows recipients of disappearing messages to save them if the sender consents &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230421/p21#a230421p21)
+ - [PlayStation Plus Deals: Get Sony&#39;s Gaming Subscription for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [Google’s gigantic San Jose campus is on hold](https://www.theverge.com/2023/4/21/23693474/google-san-jose-downtown-west-camps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
