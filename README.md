@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I went on a quest to make the Find X6 Pro usable because I want to love it](https://www.androidauthority.com/oppo-find-x6-pro-import-3314423/)
- - [How to Buy Ethical and Eco-Friendly Electronics &lpar;2023&rpar;](https://www.wired.com/story/how-to-buy-ethical-and-eco-friendly-electronics/)
- - [How New Zealand’s Pesky Pigs Turned Into a Cash Cow](https://www.wired.com/story/new-zealand-pig-organ-transplant/)<!-- TECH:END -->
+ - [Gear News This Week: Get Ready for a Folding Pixel Phone](https://www.wired.com/story/folding-google-pixel-phone/)
+ - [20 Reusable Products We Love &lpar;2023&rpar;: Bags, Water Bottles, Straws, and More](https://www.wired.com/gallery/our-favorite-reusable-products/)
+ - [Criminals Are Using Tiny Devices to Hack and Steal Cars](https://www.wired.com/story/car-hacker-theft-can-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
