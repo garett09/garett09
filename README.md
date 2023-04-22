@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)
- - 🚯 [I&#39;ll F**kin&#39; Do It Again](http://9gag.com/gag/aBdVo1Z)
- - 🚯 [The lower dungeon of Warwick Castle. It&#39;s an &#39;oubliette&#39;, where prisoners were dropped and forgotten about.](http://9gag.com/gag/aA0KX12)<!-- MEMES:END -->
+ - 🚖 [Yikes....](http://9gag.com/gag/aVbK2BM)
+ - 🚯 [Guess who&#39;s](http://9gag.com/gag/ajVLKYq)
+ - 🚯 [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)<!-- MEMES:END -->
 
 --- 
 
