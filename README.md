@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Corvette body work](http://9gag.com/gag/a7q06Xx)
- - 🚯 [Akon says Africa could be the strongest nation in the world if blacks moved back there.](http://9gag.com/gag/aA0KZ4g)
- - 🚯 [How dense are these people?](http://9gag.com/gag/aYVDnKm)<!-- MEMES:END -->
+ - 🚖 [My grandmother told me Heidi was black](http://9gag.com/gag/aYVDveN)
+ - 🚯 [Damn..](http://9gag.com/gag/aqe6Y3Q)
+ - 🚯 [So much for not knowing the location drama](http://9gag.com/gag/aeQZyxb)<!-- MEMES:END -->
 
 --- 
 
