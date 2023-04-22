@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sinister version of hare and tortoise &lpar;Not Mine&rpar;](http://9gag.com/gag/a2K0Gz1)
- - 🚯 [Indian holy river Ganges at the source](http://9gag.com/gag/axo6AbD)
- - 🚯 [So long my friend](http://9gag.com/gag/aQE72Kq)<!-- MEMES:END -->
+ - 🚖 [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)
+ - 🚯 [So long my friend](http://9gag.com/gag/aQE72Kq)
+ - 🚯 [How dense are these people?](http://9gag.com/gag/aYVDnKm)<!-- MEMES:END -->
 
 --- 
 
