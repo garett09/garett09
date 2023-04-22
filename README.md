@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sinister version of hare and tortoise &lpar;Not Mine&rpar;](http://9gag.com/gag/a2K0Gz1)
- - 🚯 [Imagine just being there.](http://9gag.com/gag/aWGn9Zq)
- - 🚯 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)<!-- MEMES:END -->
+ - 🚖 [Too far?](http://9gag.com/gag/adPQRKV)
+ - 🚯 [It&#39;s Getting Really Bad In San Francisco.. Footage Of What A Typical Target Store In San Francisco Looks Like Now!](http://9gag.com/gag/ay26ZAy)
+ - 🚯 [Akon says Africa could be the strongest nation in the world if blacks moved back there.](http://9gag.com/gag/aA0KZ4g)<!-- MEMES:END -->
 
 --- 
 
