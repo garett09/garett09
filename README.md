@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to stop and disable Quick Look cache in macOS](https://appleinsider.com/inside/macos/tips/how-to-stop-and-disable-quick-look-cache-in-macos?utm_medium=rss)
  - [Dubious report forecasts 42-inch OLED iMacs by 2027](https://appleinsider.com/articles/23/04/22/dubious-report-forecasts-42-inch-oled-imacs-by-2027?utm_medium=rss)
- - [Avenue 5 Is Funny But Needs More Variety](https://www.wired.com/2021/04/geeks-guide-avenue-5/)
- - [Gatorade Smart Gx Bottle review: Better hydration with a squeeze and an iPhone](https://appleinsider.com/articles/23/04/22/gatorade-smart-gx-bottle-review-better-hydration-with-a-squeeze?utm_medium=rss)<!-- TECH:END -->
+ - [Avenue 5 Is Funny But Needs More Variety](https://www.wired.com/2021/04/geeks-guide-avenue-5/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
