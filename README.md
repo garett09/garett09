@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gear News This Week: Get Ready for a Folding Pixel Phone](https://www.wired.com/story/folding-google-pixel-phone/)
- - [20 Reusable Products We Love &lpar;2023&rpar;: Bags, Water Bottles, Straws, and More](https://www.wired.com/gallery/our-favorite-reusable-products/)
- - [Criminals Are Using Tiny Devices to Hack and Steal Cars](https://www.wired.com/story/car-hacker-theft-can-security-roundup/)<!-- TECH:END -->
+ - [Apple’s luxe AirPods Max have dropped to their best price of the year](https://www.theverge.com/2023/4/22/23692938/apple-airpods-max-belkin-wireless-charger-asus-g14-gaming-laptop-deal-sale)
+ - [Google’s Gallery app is the offline Google Photos alternative you’re not using](https://www.androidauthority.com/google-gallery-app-google-photos-opinion-3310624/)
+ - [20 Everyday Products Made of Recycled Materials &lpar;2023&rpar;: Chargers, Watches, Toys](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
