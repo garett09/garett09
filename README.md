@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My grandmother told me Heidi was black](http://9gag.com/gag/aYVDveN)
- - 🚯 [Damn..](http://9gag.com/gag/aqe6Y3Q)
+ - 🚖 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
+ - 🚯 [He literally went all the way](http://9gag.com/gag/ap96jRM)
  - 🚯 [So much for not knowing the location drama](http://9gag.com/gag/aeQZyxb)<!-- MEMES:END -->
 
 --- 
