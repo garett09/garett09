@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u201dpop\u201d](http://9gag.com/gag/awZ1vOr)
- - 🚯 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)
- - 🚯 [How dense are these people?](http://9gag.com/gag/aYVDnKm)<!-- MEMES:END -->
+ - 🚖 [She sounds familiar.](http://9gag.com/gag/aEqAOrM)
+ - 🚯 [I&#39;ll F**kin&#39; Do It Again](http://9gag.com/gag/aBdVo1Z)
+ - 🚯 [The lower dungeon of Warwick Castle. It&#39;s an &#39;oubliette&#39;, where prisoners were dropped and forgotten about.](http://9gag.com/gag/aA0KX12)<!-- MEMES:END -->
 
 --- 
 
