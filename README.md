@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)
- - 🚯 [He literally went all the way](http://9gag.com/gag/ap96jRM)
- - 🚯 [So much for not knowing the location drama](http://9gag.com/gag/aeQZyxb)<!-- MEMES:END -->
+ - 🚯 [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)
+ - 🚯 [Corvette body work](http://9gag.com/gag/a7q06Xx)<!-- MEMES:END -->
 
 --- 
 
