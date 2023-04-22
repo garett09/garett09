@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don’t miss GameStop’s buy one, get one free sale, and other great deals](https://www.polygon.com/deals/23619013/best-gaming-deals-gamestop-buy-one-get-free-octopath-traveler-2-elden-ring)
- - [9 great movies to watch on Tubi for free right now](https://www.polygon.com/what-to-watch/23686506/best-tubi-movies-free-watch)
- - [Today&#39;s Wordle hint and answer #672: Saturday, April 22](https://www.pcgamer.com/wordle-hint-answer-today-672-april-22)<!-- GAME:END -->
+ - [Which of The Legend of Zelda’s Links would be the best hangs?](https://www.polygon.com/zelda/23692483/legend-of-zelda-link-wind-waker-ocarina-of-time-majoras-mask)
+ - [For those about to game on a 23.8-inch 1440p monitor, I salute you](https://www.pcgamer.com/for-those-about-to-game-on-a-238-inch-1440p-monitor-i-salute-you)
+ - [High-speed OLED monitors are pouring in with AOC announcing €999 contender](https://www.pcgamer.com/high-speed-oled-monitors-are-pouring-in-with-aoc-announcing-euro999-contender)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
