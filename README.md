@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-481-3315425/)
- - [Best TV Antenna for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-antenna/#ftag=CAD590a51e)
- - [Spend $50 at PetSmart and Save $10 on Your Same-Delivery Order     - CNET](https://www.cnet.com/deals/spend-50-at-petsmart-and-save-10-on-your-same-delivery-order/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple supplier Quanta invest $120M into Vietnam factory](https://appleinsider.com/articles/23/04/22/apple-supplier-quanta-invest-120m-into-vietnam-factory?utm_medium=rss)
+ - [After years of searching, I have the answer to the flat vs curved display debate](https://www.androidauthority.com/flat-vs-curved-phone-displays-3313078/)
+ - [Apple&#39;s 2023 MacBook Pro drops to record low $1,749 at Amazon](https://appleinsider.com/articles/23/04/22/apples-2023-macbook-pro-drops-to-record-low-1749-at-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
