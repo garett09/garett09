@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stop and disable Quick Look cache in macOS](https://appleinsider.com/inside/macos/tips/how-to-stop-and-disable-quick-look-cache-in-macos?utm_medium=rss)
- - [Dubious report forecasts 42-inch OLED iMacs by 2027](https://appleinsider.com/articles/23/04/22/dubious-report-forecasts-42-inch-oled-imacs-by-2027?utm_medium=rss)
- - [Avenue 5 Is Funny But Needs More Variety](https://www.wired.com/2021/04/geeks-guide-avenue-5/)<!-- TECH:END -->
+ - [UK prepares to send test emergency alert test to iPhones](https://appleinsider.com/articles/23/04/22/uk-prepares-to-send-test-emergency-alert-test-to-iphones?utm_medium=rss)
+ - [A look at GeoComply, which says it checks 10B online sports bets per year on 400M+ devices to verify if the bets are happening in a US state where they&#39;re legal &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/230422/p10#a230422p10)
+ - [Frontier Home Internet Review: Fiber Service Is Tough to Beat     - CNET](https://www.cnet.com/news/frontier-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
