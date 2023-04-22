@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too far?](http://9gag.com/gag/adPQRKV)
- - 🚯 [It&#39;s Getting Really Bad In San Francisco.. Footage Of What A Typical Target Store In San Francisco Looks Like Now!](http://9gag.com/gag/ay26ZAy)
- - 🚯 [Akon says Africa could be the strongest nation in the world if blacks moved back there.](http://9gag.com/gag/aA0KZ4g)<!-- MEMES:END -->
+ - 🚖 [Corvette body work](http://9gag.com/gag/a7q06Xx)
+ - 🚯 [Akon says Africa could be the strongest nation in the world if blacks moved back there.](http://9gag.com/gag/aA0KZ4g)
+ - 🚯 [I need a scientist](http://9gag.com/gag/ap96nY5)<!-- MEMES:END -->
 
 --- 
 
