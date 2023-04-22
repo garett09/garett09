@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitter’s de-verification debacle, explained](https://www.polygon.com/23693433/twitter-blue-check-stephen-king-lebron-james-elon-musk)
- - [Ant-Man and the Wasp: Quantumania, Netflix’s Power Rangers movie, and every other movie you can stream from home this weekend](https://www.polygon.com/entertainment/2023/4/21/23686305/new-movies-watch-ant-man-wasp-quantumania-netflix-power-rangers-streaming)
- - [Four more Ubisoft games are headed to Steam this summer](https://www.pcgamer.com/four-more-ubisoft-games-are-headed-to-steam-this-summer)<!-- GAME:END -->
+ - [Zero-gravity FPS Boundary is quietly one of April&#39;s coolest new releases](https://www.pcgamer.com/boundary-early-access-release)
+ - [&#39;We&#39;re running at a f**king wall, and we&#39;re gonna crash&#39;—CD Projekt&#39;s lead quest designer on big budget RPGs](https://www.pcgamer.com/were-running-at-a-f-ing-wall-and-were-gonna-crashcd-projekts-lead-quest-designer-on-big-budget-rpgs)
+ - [RPG roundtable podcast: Josh Sawyer, Mike Laidlaw, Strix Beltran, Paweł Sasko, and Lis Moberly go deep on writing and playing RPGs](https://www.pcgamer.com/rpg-roundtable-josh-sawyer-mike-laidlaw-strix-beltran-pawel-sasko-and-lis-moberly-go-deep-on-writing-and-playing-rpgs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
