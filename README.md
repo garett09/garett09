@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The synonymous realization](http://9gag.com/gag/aVbKVmy)
- - 🚯 [Akon says Africa could be the strongest nation in the world if blacks moved back there.](http://9gag.com/gag/aA0KZ4g)
- - 🚯 [Imagine just being there.](http://9gag.com/gag/aWGn9Zq)<!-- MEMES:END -->
+ - 🚖 [Sinister version of hare and tortoise &lpar;Not Mine&rpar;](http://9gag.com/gag/a2K0Gz1)
+ - 🚯 [Damn..](http://9gag.com/gag/aqe6Y3Q)
+ - 🚯 [Falling down a crevasse..](http://9gag.com/gag/aA0KOe9)<!-- MEMES:END -->
 
 --- 
 
