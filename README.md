@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #672: Saturday, April 22](https://www.pcgamer.com/wordle-hint-answer-today-672-april-22)
  - [Zero-gravity FPS Boundary is quietly one of April&#39;s coolest new releases](https://www.pcgamer.com/boundary-early-access-release)
- - [&#39;We&#39;re running at a f**king wall, and we&#39;re gonna crash&#39;—CD Projekt&#39;s lead quest designer on big budget RPGs](https://www.pcgamer.com/were-running-at-a-f-ing-wall-and-were-gonna-crashcd-projekts-lead-quest-designer-on-big-budget-rpgs)
- - [RPG roundtable podcast: Josh Sawyer, Mike Laidlaw, Strix Beltran, Paweł Sasko, and Lis Moberly go deep on writing and playing RPGs](https://www.pcgamer.com/rpg-roundtable-josh-sawyer-mike-laidlaw-strix-beltran-pawel-sasko-and-lis-moberly-go-deep-on-writing-and-playing-rpgs)<!-- GAME:END -->
+ - [&#39;We&#39;re running at a f**king wall, and we&#39;re gonna crash&#39;—CD Projekt&#39;s lead quest designer on big budget RPGs](https://www.pcgamer.com/were-running-at-a-f-ing-wall-and-were-gonna-crashcd-projekts-lead-quest-designer-on-big-budget-rpgs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
