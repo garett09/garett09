@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Don’t miss GameStop’s buy one, get one free sale, and other great deals](https://www.polygon.com/deals/23619013/best-gaming-deals-gamestop-buy-one-get-free-octopath-traveler-2-elden-ring)
  - [9 great movies to watch on Tubi for free right now](https://www.polygon.com/what-to-watch/23686506/best-tubi-movies-free-watch)
- - [Today&#39;s Wordle hint and answer #672: Saturday, April 22](https://www.pcgamer.com/wordle-hint-answer-today-672-april-22)
- - [Zero-gravity FPS Boundary is quietly one of April&#39;s coolest new releases](https://www.pcgamer.com/boundary-early-access-release)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #672: Saturday, April 22](https://www.pcgamer.com/wordle-hint-answer-today-672-april-22)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
