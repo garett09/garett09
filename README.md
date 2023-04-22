@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel Fold: The Big Rumors We&#39;ve Heard About Google&#39;s Foldable Phone     - CNET](https://www.cnet.com/tech/mobile/pixel-fold-the-big-rumors-weve-heard-about-googles-foldable-phone/#ftag=CAD590a51e)
  - [The proliferation of AI-generated content on marketplaces like Upwork is causing transactional disputes and increasing mistrust between clients and freelancers &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/230422/p3#a230422p3)
- - [On April 7, Google patched the GhostToken GCP vulnerability that could have allowed attackers to backdoor Google accounts using malicious OAuth applications &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230422/p2#a230422p2)
- - [A federal jury in Texas orders Samsung to pay $303M to computer memory company Netlist for infringing five patents related to improvements in data processing &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230422/p1#a230422p1)<!-- TECH:END -->
+ - [On April 7, Google patched the GhostToken GCP vulnerability that could have allowed attackers to backdoor Google accounts using malicious OAuth applications &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230422/p2#a230422p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
