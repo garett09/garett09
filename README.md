@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [African Maasai Plyometrics](http://9gag.com/gag/a5Xwq6r)
- - 🚯 [So long my friend](http://9gag.com/gag/aQE72Kq)
+ - 🚖 [\u201dpop\u201d](http://9gag.com/gag/awZ1vOr)
+ - 🚯 [Waiter brought back the still eaten meal](http://9gag.com/gag/anz2ERV)
  - 🚯 [How dense are these people?](http://9gag.com/gag/aYVDnKm)<!-- MEMES:END -->
 
 --- 
