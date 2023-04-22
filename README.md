@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A caring husband](http://9gag.com/gag/abv42gX)
- - 🚯 [Corvette body work](http://9gag.com/gag/a7q06Xx)
- - 🚯 [Too far?](http://9gag.com/gag/adPQRKV)<!-- MEMES:END -->
+ - 🚖 [He is a man of focus, commitment and sheer f**king will](http://9gag.com/gag/ay26zPr)
+ - 🚯 [I&#39;ll F**kin&#39; Do It Again](http://9gag.com/gag/aBdVo1Z)
+ - 🚯 [Woke](http://9gag.com/gag/aBdVNAA)<!-- MEMES:END -->
 
 --- 
 
