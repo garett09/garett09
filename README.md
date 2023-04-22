@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp introduces Keep in Chat, an option that allows recipients of disappearing messages to save them if the sender consents &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/230421/p21#a230421p21)
- - [PlayStation Plus Deals: Get Sony&#39;s Gaming Subscription for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
- - [Google’s gigantic San Jose campus is on hold](https://www.theverge.com/2023/4/21/23693474/google-san-jose-downtown-west-camps)<!-- TECH:END -->
+ - [Silver Lake agrees to buy Germany&#39;s Software AG, a developer of business and application integration software, for &amp;euro;30 a share, valuing the company at ~&amp;euro;2.2B &lpar;Andrew Pollack/Bloomberg&rpar;](http://www.techmeme.com/230421/p23#a230421p23)
+ - [A real-life Pixel Fold has seemingly leaked for the very first time](https://www.theverge.com/2023/4/21/23693598/pixel-fold-irl-video-leak)
+ - [Sources and analysts share insights on Apple&#39;s plans in financial services, as the company lays the technical groundwork for taking a bigger share of the market &lpar;Financial Times&rpar;](http://www.techmeme.com/230421/p22#a230421p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
