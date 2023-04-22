@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Fold: The Big Rumors We&#39;ve Heard About Google&#39;s Foldable Phone     - CNET](https://www.cnet.com/tech/mobile/pixel-fold-the-big-rumors-weve-heard-about-googles-foldable-phone/#ftag=CAD590a51e)
- - [The proliferation of AI-generated content on marketplaces like Upwork is causing transactional disputes and increasing mistrust between clients and freelancers &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/230422/p3#a230422p3)
- - [On April 7, Google patched the GhostToken GCP vulnerability that could have allowed attackers to backdoor Google accounts using malicious OAuth applications &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230422/p2#a230422p2)<!-- TECH:END -->
+ - [13 Best Deals: Eco-Friendly and Spring Cleaning Gear](https://www.wired.com/story/weekend-deals-april-22-2023/)
+ - [How to Responsibly Dispose of Your Electronics &lpar;2023&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)
+ - [A profile of Runa Sandvik, who started Granitt in June 2022 to help journalists, lawyers, activists, and other at-risk people keep their data safe from hackers &lpar;Maddy Crowell/Columbia Journalism Review&rpar;](http://www.techmeme.com/230422/p4#a230422p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
