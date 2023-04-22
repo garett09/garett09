@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-481-3315425/)
- - [Sources: Joe Biden plans to sign an EO in the coming weeks limiting new investments by US businesses in China, focusing on chips, AI, and quantum computing &lpar;Jenny Leonard/Bloomberg&rpar;](http://www.techmeme.com/230422/p7#a230422p7)
- - [Samsung Galaxy Buds 3: Release date, rumors, and features we’d love to see](https://www.androidauthority.com/samsung-galaxy-buds-3-3311476/)<!-- TECH:END -->
+ - [Best TV Antenna for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-antenna/#ftag=CAD590a51e)
+ - [Spend $50 at PetSmart and Save $10 on Your Same-Delivery Order     - CNET](https://www.cnet.com/deals/spend-50-at-petsmart-and-save-10-on-your-same-delivery-order/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
