@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s luxe AirPods Max have dropped to their best price of the year](https://www.theverge.com/2023/4/22/23692938/apple-airpods-max-belkin-wireless-charger-asus-g14-gaming-laptop-deal-sale)
- - [Google’s Gallery app is the offline Google Photos alternative you’re not using](https://www.androidauthority.com/google-gallery-app-google-photos-opinion-3310624/)
- - [20 Everyday Products Made of Recycled Materials &lpar;2023&rpar;: Chargers, Watches, Toys](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products/)<!-- TECH:END -->
+ - [15 Best Recycled Backpacks and Bags &lpar;2023&rpar;: Totes, Purses, Shopping Bags](https://www.wired.com/gallery/best-recycled-bags/)
+ - [Yes, I actually pay for Discovery Plus](https://www.theverge.com/23693293/discovery-plus-subscription-streaming-hbo-max)
+ - [Sources: UK plans to propose a bill next week enabling CMA&#39;s digital markets unit to target Big Tech companies with revenues of &amp;pound;25B+ globally or &amp;pound;1B in the UK &lpar;Financial Times&rpar;](http://www.techmeme.com/230422/p6#a230422p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
