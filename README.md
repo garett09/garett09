@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s Getting Really Bad In San Francisco.. Footage Of What A Typical Target Store In San Francisco Looks Like Now!](http://9gag.com/gag/ay26ZAy)
- - 🚯 [Indian holy river Ganges at the source](http://9gag.com/gag/axo6AbD)
- - 🚯 [`Soyjack` Torture Mask 200 year old torture tool made of bronze from Germany. Wonder what is the mouth hole for...](http://9gag.com/gag/anz20En)<!-- MEMES:END -->
+ - 🚖 [If you get this reference, then you should probably consider getting a prostate exam, old timer.](http://9gag.com/gag/aPgoVnR)
+ - 🚯 [Sweet baby cheeses, that is the spot.](http://9gag.com/gag/axo6eqL)
+ - 🚯 [My grandmother told me Heidi was black](http://9gag.com/gag/aYVDveN)<!-- MEMES:END -->
 
 --- 
 
