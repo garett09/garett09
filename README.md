@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Recycled Backpacks and Bags &lpar;2023&rpar;: Totes, Purses, Shopping Bags](https://www.wired.com/gallery/best-recycled-bags/)
- - [Yes, I actually pay for Discovery Plus](https://www.theverge.com/23693293/discovery-plus-subscription-streaming-hbo-max)
- - [Sources: UK plans to propose a bill next week enabling CMA&#39;s digital markets unit to target Big Tech companies with revenues of &amp;pound;25B+ globally or &amp;pound;1B in the UK &lpar;Financial Times&rpar;](http://www.techmeme.com/230422/p6#a230422p6)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-481-3315425/)
+ - [Sources: Joe Biden plans to sign an EO in the coming weeks limiting new investments by US businesses in China, focusing on chips, AI, and quantum computing &lpar;Jenny Leonard/Bloomberg&rpar;](http://www.techmeme.com/230422/p7#a230422p7)
+ - [Samsung Galaxy Buds 3: Release date, rumors, and features we’d love to see](https://www.androidauthority.com/samsung-galaxy-buds-3-3311476/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
