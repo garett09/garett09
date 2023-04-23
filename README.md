@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flexispot BS11Pro office chair review: stylish and comfortable](https://appleinsider.com/articles/23/04/23/flexispot-bs11pro-office-chair-review-stylish-and-comfortable?utm_medium=rss)
- - [7 Exciting New Phones Coming Soon: iPhone 15, Pixel Fold and More     - CNET](https://www.cnet.com/tech/mobile/7-exciting-new-phones-coming-soon-iphone-15-pixel-fold-and-more/#ftag=CAD590a51e)
- - [When Apple&#39;s headset launches, it will do more than Oculus does](https://appleinsider.com/articles/23/04/23/when-apples-headset-launches-it-will-do-more-than-oculus-does?utm_medium=rss)<!-- TECH:END -->
+ - [First-gen iPad Pro models won&#39;t be supported by iPadOS 17](https://appleinsider.com/articles/23/04/23/first-gen-ipad-pro-models-wont-be-supported-by-ipados-17?utm_medium=rss)
+ - [Proliferation of hacker group naming schemes complicates tracking of threat actors, but the fog of war in cybersecurity research makes this issue hard to fix &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230423/p7#a230423p7)
+ - [When Apple&#39;s headset launches, it will do more than Oculus](https://appleinsider.com/articles/23/04/23/when-apples-headset-launches-it-will-do-more-than-oculus-does?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
