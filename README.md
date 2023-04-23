@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right???](http://9gag.com/gag/a8q09wd)
- - 🚯 [With that skill you can do a lot my man, god bless.](http://9gag.com/gag/armXDbK)
- - 🚯 [Okay, that was funny](http://9gag.com/gag/anz20OL)<!-- MEMES:END -->
+ - 🚖 [So much for not knowing the location drama](http://9gag.com/gag/aeQZyxb)
+ - 🚯 [Bring on the memes](http://9gag.com/gag/aoKR6QX)
+ - 🚯 [He literally went all the way](http://9gag.com/gag/ap96jRM)<!-- MEMES:END -->
 
 --- 
 
