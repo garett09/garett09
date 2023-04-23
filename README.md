@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [More of the internet could disappear as load-bearing image host Imgur announces deletion of old content and NSFW images](https://www.pcgamer.com/more-of-the-internet-could-disappear-as-load-bearing-image-host-imgur-announces-deletion-of-old-content-and-nsfw-images)
  - [Toasterball is kind of like pong but with toast instead of paddles](https://www.pcgamer.com/toasterball-is-kind-of-like-pong-but-with-toast-instead-of-paddles)
- - [A new wave of basketball movies is aimed at expert-level fandom](https://www.polygon.com/23686486/new-basketball-movies-air-hustle-high-flying-bird)
- - [The 5 best horror movies to watch on Netflix and other streamers this April](https://www.polygon.com/what-to-watch/2023/4/23/23692770/best-horror-movies-netflix-streaming-watch-april-2023)<!-- GAME:END -->
+ - [A new wave of basketball movies is aimed at expert-level fandom](https://www.polygon.com/23686486/new-basketball-movies-air-hustle-high-flying-bird)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
