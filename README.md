@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Corvette body work](http://9gag.com/gag/a7q06Xx)
- - 🚯 [Protesters in France have gone next level and blocked the A69 highway with concrete blocks.](http://9gag.com/gag/aPgoLQg)
- - 🚯 [The day Dani Olmo &lpar;rat bastard&rpar; \u2018tricked\u2019 Bayern Munich\u2019s Lucas Hernandez &lpar;poor fool&rpar;.](http://9gag.com/gag/aKEvX81)<!-- MEMES:END -->
+ - 🚖 [Hide the Pain Harold](http://9gag.com/gag/a4oN8Ry)
+ - 🚯 [The old switcheroo](http://9gag.com/gag/a8q0XnQ)
+ - 🚯 [When you put it that way...](http://9gag.com/gag/aYVD6Pq)<!-- MEMES:END -->
 
 --- 
 
