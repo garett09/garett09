@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter Blue checkmarks were restored on Saturday for some of the platform&#39;s biggest names, including those who had not criticized the verification system &lpar;Victor Swezey/The Daily Beast&rpar;](http://www.techmeme.com/230423/p1#a230423p1)
  - [Cloud infrastructure company Volumez, which develops controller orchestration software, raised a $20M Series A led by Koch Disruptive Technologies &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230422/p12#a230422p12)
- - [Get 63% off Adobe Creative Cloud All Apps subscription, now $29.99](https://appleinsider.com/articles/23/04/21/get-45-off-adobe-creative-cloud-all-apps-subscription-now-4499?utm_medium=rss)
- - [Some critics of Twitter Blue, such as @dril, Kara Swisher, and Twitch streamer Hasan Piker, say they have been given unwanted Blue checkmarks &lpar;Mike Pearl/Mashable&rpar;](http://www.techmeme.com/230422/p11#a230422p11)<!-- TECH:END -->
+ - [Get 63% off Adobe Creative Cloud All Apps subscription, now $29.99](https://appleinsider.com/articles/23/04/21/get-45-off-adobe-creative-cloud-all-apps-subscription-now-4499?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
