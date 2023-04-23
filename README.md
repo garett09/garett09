@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girl asked why photoshop works slow\u2026](http://9gag.com/gag/aPgoVoP)
- - 🚯 [Hazard lights](http://9gag.com/gag/aGEBqgZ)
- - 🚯 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)<!-- MEMES:END -->
+ - 🚖 [I need a scientist](http://9gag.com/gag/ap96nY5)
+ - 🚯 [Two Chicago teens steal a car, hit a family, kill a 6-month-old baby, and get charged with a misdemeanor and released](http://9gag.com/gag/ago76yg)
+ - 🚯 [Whelp](http://9gag.com/gag/ay26wjW)<!-- MEMES:END -->
 
 --- 
 
