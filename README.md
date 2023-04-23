@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #673: Sunday, April 23](https://www.pcgamer.com/wordle-hint-answer-today-673-april-23)
- - [Josh Sawyer: &#39;The most compromised games I worked on were Pillars of Eternity 1 and 2&#39;](https://www.pcgamer.com/josh-sawyer-the-most-compromised-games-i-worked-on-were-pillars-of-eternity-1-and-2)
- - [Explore an anime version of Tokyo in this free Unreal Engine 5 demo](https://www.pcgamer.com/explore-an-anime-version-of-tokyo-in-this-free-unreal-engine-5-demo)<!-- GAME:END -->
+ - [Great moments in PC gaming: Mowing down hordes of enemies in Diablo 3](https://www.pcgamer.com/great-moments-in-pc-gaming-mowing-down-hordes-of-demons-in-diablo-3)
+ - [Immersive sim Consortium delisted to make way for a remaster, free to owners of the original](https://www.pcgamer.com/immersive-sim-consortium-delisted-to-make-way-for-a-remaster-free-to-owners-of-the-original)
+ - [Today&#39;s Wordle hint and answer #673: Sunday, April 23](https://www.pcgamer.com/wordle-hint-answer-today-673-april-23)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
