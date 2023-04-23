@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloud infrastructure company Volumez, which develops controller orchestration software, raised a $20M Series A led by Koch Disruptive Technologies &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230422/p12#a230422p12)
  - [Get 63% off Adobe Creative Cloud All Apps subscription, now $29.99](https://appleinsider.com/articles/23/04/21/get-45-off-adobe-creative-cloud-all-apps-subscription-now-4499?utm_medium=rss)
- - [Some critics of Twitter Blue, such as @dril, Kara Swisher, and Twitch streamer Hasan Piker, say they have been given unwanted Blue checkmarks &lpar;Mike Pearl/Mashable&rpar;](http://www.techmeme.com/230422/p11#a230422p11)
- - [UK prepares to send test emergency alert test to iPhones](https://appleinsider.com/articles/23/04/22/uk-prepares-to-send-test-emergency-alert-test-to-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [Some critics of Twitter Blue, such as @dril, Kara Swisher, and Twitch streamer Hasan Piker, say they have been given unwanted Blue checkmarks &lpar;Mike Pearl/Mashable&rpar;](http://www.techmeme.com/230422/p11#a230422p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
