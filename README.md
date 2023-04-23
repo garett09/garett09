@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hide the Pain Harold](http://9gag.com/gag/a4oN8Ry)
- - 🚯 [The old switcheroo](http://9gag.com/gag/a8q0XnQ)
- - 🚯 [When you put it that way...](http://9gag.com/gag/aYVD6Pq)<!-- MEMES:END -->
+ - 🚖 [He literally went all the way](http://9gag.com/gag/ap96jRM)
+ - 🚯 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
+ - 🚯 [It&#39;s Getting Really Bad In San Francisco.. Footage Of What A Typical Target Store In San Francisco Looks Like Now!](http://9gag.com/gag/ay26ZAy)<!-- MEMES:END -->
 
 --- 
 
