@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 5 best horror movies to watch on Netflix and other streamers this April](https://www.polygon.com/what-to-watch/2023/4/23/23692770/best-horror-movies-netflix-streaming-watch-april-2023)
  - [Great moments in PC gaming: Mowing down hordes of enemies in Diablo 3](https://www.pcgamer.com/great-moments-in-pc-gaming-mowing-down-hordes-of-demons-in-diablo-3)
- - [Immersive sim Consortium delisted to make way for a remaster, free to owners of the original](https://www.pcgamer.com/immersive-sim-consortium-delisted-to-make-way-for-a-remaster-free-to-owners-of-the-original)
- - [Today&#39;s Wordle hint and answer #673: Sunday, April 23](https://www.pcgamer.com/wordle-hint-answer-today-673-april-23)<!-- GAME:END -->
+ - [Immersive sim Consortium delisted to make way for a remaster, free to owners of the original](https://www.pcgamer.com/immersive-sim-consortium-delisted-to-make-way-for-a-remaster-free-to-owners-of-the-original)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
