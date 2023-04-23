@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Corvette body work](http://9gag.com/gag/a7q06Xx)
- - 🚯 [Two Chicago teens steal a car, hit a family, kill a 6-month-old baby, and get charged with a misdemeanor and released](http://9gag.com/gag/ago76yg)
- - 🚯 [Indian holy river Ganges at the source](http://9gag.com/gag/axo6AbD)<!-- MEMES:END -->
+ - 🚖 [Oriane Bertone at the IFSC Climbing World Cup](http://9gag.com/gag/aDY8Lzw)
+ - 🚯 [90s](http://9gag.com/gag/aGEBqLw)
+ - 🚯 [Right???](http://9gag.com/gag/a8q09wd)<!-- MEMES:END -->
 
 --- 
 
