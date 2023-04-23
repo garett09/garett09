@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How dense are these people?](http://9gag.com/gag/aYVDnKm)
- - 🚯 [I need a scientist](http://9gag.com/gag/ap96nY5)
- - 🚯 [No no holding the bow wrong yes](http://9gag.com/gag/abv4LQp)<!-- MEMES:END -->
+ - 🚖 [Right???](http://9gag.com/gag/a8q09wd)
+ - 🚯 [With that skill you can do a lot my man, god bless.](http://9gag.com/gag/armXDbK)
+ - 🚯 [Okay, that was funny](http://9gag.com/gag/anz20OL)<!-- MEMES:END -->
 
 --- 
 
