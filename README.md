@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [Twitter restores gold badges to some news organizations, including the BBC, The New York Times, and Bellingcat; the BBC and Bellingcat say they did not pay &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/230423/p8#a230423p8)
  - [Gimmicks are dead — just make a good phone](https://www.androidauthority.com/smartphone-gimmicks-opinion-3309797/)
- - [iOttie Velox Pro review: Active cooling sets this magnetic charger apart](https://appleinsider.com/articles/23/04/23/iottie-velox-pro-review-active-cooling-sets-this-magnetic-charger-apart?utm_medium=rss)<!-- TECH:END -->
+ - [Xfinity Isn&#39;t the Fastest Internet Provider in the US Anymore     - CNET](https://www.cnet.com/news/xfinity-isnt-the-fastest-internet-provider-in-the-us-anymore/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
