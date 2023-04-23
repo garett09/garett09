@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s Digital Markets Unit may soon gain Big Tech regulation powers](https://appleinsider.com/articles/23/04/23/uks-digital-markets-unit-may-soon-gain-big-tech-regulation-powers?utm_medium=rss)
- - [iPadOS 17 won&#39;t support a few iPad &amp; iPad Pro models](https://appleinsider.com/articles/23/04/23/first-gen-ipad-pro-models-wont-be-supported-by-ipados-17?utm_medium=rss)
- - [Twitter restores gold badges to some news organizations, including the BBC, The New York Times, and Bellingcat; the BBC and Bellingcat say they did not pay &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/230423/p8#a230423p8)<!-- TECH:END -->
+ - [Tozo Golden X1 review: wireless ANC earbuds with customizable audio](https://appleinsider.com/articles/23/04/23/tozo-golden-x1-review-wireless-anc-earbuds-with-customizable-audio?utm_medium=rss)
+ - [Q&amp;A with Katherine Forrest, a former federal judge for the SDNY, on copyright and generative AI, the Copyright Office&#39;s guidance on AI-generated work, and more &lpar;Nabiha Syed/The Markup&rpar;](http://www.techmeme.com/230423/p9#a230423p9)
+ - [UK&#39;s Digital Markets Unit may soon gain Big Tech regulation powers](https://appleinsider.com/articles/23/04/23/uks-digital-markets-unit-may-soon-gain-big-tech-regulation-powers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
