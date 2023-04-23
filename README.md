@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine just being there.](http://9gag.com/gag/aWGn9Zq)
- - 🚯 [I need a scientist](http://9gag.com/gag/ap96nY5)
- - 🚯 [Title](http://9gag.com/gag/anz20Mo)<!-- MEMES:END -->
+ - 🚖 [Oriane Bertone at the IFSC Climbing World Cup](http://9gag.com/gag/aDY8Lzw)
+ - 🚯 [My grandmother told me Heidi was black](http://9gag.com/gag/aYVDveN)
+ - 🚯 [Right???](http://9gag.com/gag/a8q09wd)<!-- MEMES:END -->
 
 --- 
 
