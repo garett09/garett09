@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
- - 🚯 [`Soyjack` Torture Mask 200 year old torture tool made of bronze from Germany. Wonder what is the mouth hole for...](http://9gag.com/gag/anz20En)
- - 🚯 [What the...](http://9gag.com/gag/amA6KyV)<!-- MEMES:END -->
+ - 🚖 [Girl asked why photoshop works slow\u2026](http://9gag.com/gag/aPgoVoP)
+ - 🚯 [Hazard lights](http://9gag.com/gag/aGEBqgZ)
+ - 🚯 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)<!-- MEMES:END -->
 
 --- 
 
