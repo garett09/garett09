@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony likes this studio&#39;s unannounced service game so much it bought it](https://www.pcgamer.com/sony-likes-this-studios-unannounced-service-game-so-much-it-bought-it)
- - [It&#39;s hard not to feel sorry for the overshadowed 1992 Dune game](https://www.pcgamer.com/saturday-crapshoot-dune)
- - [Dual-wielding god solos Elden Ring&#39;s hardest boss in 15 seconds... on New Game +7](https://www.pcgamer.com/dual-wielding-god-solos-elden-rings-hardest-boss-in-15-seconds-on-new-game-7)<!-- GAME:END -->
+ - [Josh Sawyer: &#39;The most compromised games I worked on were Pillars of Eternity 1 and 2&#39;](https://www.pcgamer.com/josh-sawyer-the-most-compromised-games-i-worked-on-were-pillars-of-eternity-1-and-2)
+ - [Explore an anime version of Tokyo in this free Unreal Engine 5 demo](https://www.pcgamer.com/explore-an-anime-version-of-tokyo-in-this-free-unreal-engine-5-demo)
+ - [Sony likes this studio&#39;s unannounced service game so much it bought it](https://www.pcgamer.com/sony-likes-this-studios-unannounced-service-game-so-much-it-bought-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
