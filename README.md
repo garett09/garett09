@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you put it that way...](http://9gag.com/gag/aYVD6Pq)
- - 🚯 [Or was I before and just didn&#39;t realize it?](http://9gag.com/gag/avQ6qxZ)
- - 🚯 [See ya in the comments](http://9gag.com/gag/aDY89MN)<!-- MEMES:END -->
+ - 🚖 [The old switcheroo](http://9gag.com/gag/a8q0XnQ)
+ - 🚯 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
+ - 🚯 [Chaotic and messy](http://9gag.com/gag/a9q54DW)<!-- MEMES:END -->
 
 --- 
 
