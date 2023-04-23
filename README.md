@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [16-year-old LOTRO invites you to go loot the Witch-king&#39;s house for its anniversary](https://www.pcgamer.com/16-year-old-lotro-invites-you-to-go-loot-the-witch-kings-house-for-its-anniversary)
  - [More of the internet could disappear as load-bearing image host Imgur announces deletion of old content and NSFW images](https://www.pcgamer.com/more-of-the-internet-could-disappear-as-load-bearing-image-host-imgur-announces-deletion-of-old-content-and-nsfw-images)
- - [Toasterball is kind of like pong but with toast instead of paddles](https://www.pcgamer.com/toasterball-is-kind-of-like-pong-but-with-toast-instead-of-paddles)
- - [A new wave of basketball movies is aimed at expert-level fandom](https://www.polygon.com/23686486/new-basketball-movies-air-hustle-high-flying-bird)<!-- GAME:END -->
+ - [Toasterball is kind of like pong but with toast instead of paddles](https://www.pcgamer.com/toasterball-is-kind-of-like-pong-but-with-toast-instead-of-paddles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
