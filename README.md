@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter restores gold badges to some news organizations, including the BBC, The New York Times, and Bellingcat; the BBC and Bellingcat say they did not pay &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/230423/p8#a230423p8)
- - [Gimmicks are dead — just make a good phone](https://www.androidauthority.com/smartphone-gimmicks-opinion-3309797/)
- - [Xfinity Isn&#39;t the Fastest Internet Provider in the US Anymore     - CNET](https://www.cnet.com/news/xfinity-isnt-the-fastest-internet-provider-in-the-us-anymore/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK&#39;s Digital Markets Unit may soon gain Big Tech regulation powers](https://appleinsider.com/articles/23/04/23/uks-digital-markets-unit-may-soon-gain-big-tech-regulation-powers?utm_medium=rss)
+ - [iPadOS 17 won&#39;t support a few iPad &amp; iPad Pro models](https://appleinsider.com/articles/23/04/23/first-gen-ipad-pro-models-wont-be-supported-by-ipados-17?utm_medium=rss)
+ - [Twitter restores gold badges to some news organizations, including the BBC, The New York Times, and Bellingcat; the BBC and Bellingcat say they did not pay &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/230423/p8#a230423p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
