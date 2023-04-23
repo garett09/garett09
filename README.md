@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get 63% off Adobe Creative Cloud All Apps subscription, now $29.99](https://appleinsider.com/articles/23/04/21/get-45-off-adobe-creative-cloud-all-apps-subscription-now-4499?utm_medium=rss)
  - [Some critics of Twitter Blue, such as @dril, Kara Swisher, and Twitch streamer Hasan Piker, say they have been given unwanted Blue checkmarks &lpar;Mike Pearl/Mashable&rpar;](http://www.techmeme.com/230422/p11#a230422p11)
- - [UK prepares to send test emergency alert test to iPhones](https://appleinsider.com/articles/23/04/22/uk-prepares-to-send-test-emergency-alert-test-to-iphones?utm_medium=rss)
- - [A look at GeoComply, which says it checks 10B online sports bets per year on 400M+ devices to verify if the bets are happening in a US state where they&#39;re legal &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/230422/p10#a230422p10)<!-- TECH:END -->
+ - [UK prepares to send test emergency alert test to iPhones](https://appleinsider.com/articles/23/04/22/uk-prepares-to-send-test-emergency-alert-test-to-iphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
