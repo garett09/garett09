@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 and Other Apple Products to Expect in 2023     - CNET](https://www.cnet.com/tech/mobile/iphone-15-and-other-apple-products-to-expect-in-2023/#ftag=CAD590a51e)
  - [AI&#39;s mythology as a technology for creating intelligent beings instills fear; &quot;data dignity&quot; and seeing AI as a social collaboration could address worries &lpar;Jaron Lanier/New Yorker&rpar;](http://www.techmeme.com/230423/p4#a230423p4)
- - [Sources: in its most advanced chipmaking effort, Arm plans to work with manufacturing partners and build a test chip to showcase the capabilities of its designs &lpar;Financial Times&rpar;](http://www.techmeme.com/230423/p3#a230423p3)
- - [GitHub&#39;s private vulnerability reporting, which lets researchers privately disclose security flaws to open-source project maintainers, hits general availability &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230423/p2#a230423p2)<!-- TECH:END -->
+ - [Sources: in its most advanced chipmaking effort, Arm plans to work with manufacturing partners and build a test chip to showcase the capabilities of its designs &lpar;Financial Times&rpar;](http://www.techmeme.com/230423/p3#a230423p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
