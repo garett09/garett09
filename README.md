@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Corvette body work](http://9gag.com/gag/a7q06Xx)
+ - 🚖 [How dense are these people?](http://9gag.com/gag/aYVDnKm)
  - 🚯 [I need a scientist](http://9gag.com/gag/ap96nY5)
- - 🚯 [`Soyjack` Torture Mask 200 year old torture tool made of bronze from Germany. Wonder what is the mouth hole for...](http://9gag.com/gag/anz20En)<!-- MEMES:END -->
+ - 🚯 [No no holding the bow wrong yes](http://9gag.com/gag/abv4LQp)<!-- MEMES:END -->
 
 --- 
 
