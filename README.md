@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sony likes this studio&#39;s unannounced service game so much it bought it](https://www.pcgamer.com/sony-likes-this-studios-unannounced-service-game-so-much-it-bought-it)
  - [It&#39;s hard not to feel sorry for the overshadowed 1992 Dune game](https://www.pcgamer.com/saturday-crapshoot-dune)
- - [Dual-wielding god solos Elden Ring&#39;s hardest boss in 15 seconds... on New Game +7](https://www.pcgamer.com/dual-wielding-god-solos-elden-rings-hardest-boss-in-15-seconds-on-new-game-7)
- - [Which of The Legend of Zelda’s Links would be the best hangs?](https://www.polygon.com/zelda/23692483/legend-of-zelda-link-wind-waker-ocarina-of-time-majoras-mask)<!-- GAME:END -->
+ - [Dual-wielding god solos Elden Ring&#39;s hardest boss in 15 seconds... on New Game +7](https://www.pcgamer.com/dual-wielding-god-solos-elden-rings-hardest-boss-in-15-seconds-on-new-game-7)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
