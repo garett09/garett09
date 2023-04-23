@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Toasterball is kind of like pong but with toast instead of paddles](https://www.pcgamer.com/toasterball-is-kind-of-like-pong-but-with-toast-instead-of-paddles)
  - [A new wave of basketball movies is aimed at expert-level fandom](https://www.polygon.com/23686486/new-basketball-movies-air-hustle-high-flying-bird)
- - [The 5 best horror movies to watch on Netflix and other streamers this April](https://www.polygon.com/what-to-watch/2023/4/23/23692770/best-horror-movies-netflix-streaming-watch-april-2023)
- - [Great moments in PC gaming: Mowing down hordes of enemies in Diablo 3](https://www.pcgamer.com/great-moments-in-pc-gaming-mowing-down-hordes-of-demons-in-diablo-3)<!-- GAME:END -->
+ - [The 5 best horror movies to watch on Netflix and other streamers this April](https://www.polygon.com/what-to-watch/2023/4/23/23692770/best-horror-movies-netflix-streaming-watch-april-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
