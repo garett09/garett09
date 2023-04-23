@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No no holding the bow wrong yes](http://9gag.com/gag/abv4LQp)
- - 🚯 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
- - 🚯 [It&#39;s Getting Really Bad In San Francisco.. Footage Of What A Typical Target Store In San Francisco Looks Like Now!](http://9gag.com/gag/ay26ZAy)<!-- MEMES:END -->
+ - 🚖 [Corvette body work](http://9gag.com/gag/a7q06Xx)
+ - 🚯 [I need a scientist](http://9gag.com/gag/ap96nY5)
+ - 🚯 [`Soyjack` Torture Mask 200 year old torture tool made of bronze from Germany. Wonder what is the mouth hole for...](http://9gag.com/gag/anz20En)<!-- MEMES:END -->
 
 --- 
 
