@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So much for not knowing the location drama](http://9gag.com/gag/aeQZyxb)
- - 🚯 [It&#39;s Getting Really Bad In San Francisco.. Footage Of What A Typical Target Store In San Francisco Looks Like Now!](http://9gag.com/gag/ay26ZAy)
- - 🚯 [The day Dani Olmo &lpar;rat bastard&rpar; \u2018tricked\u2019 Bayern Munich\u2019s Lucas Hernandez &lpar;poor fool&rpar;.](http://9gag.com/gag/aKEvX81)<!-- MEMES:END -->
+ - 🚖 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
+ - 🚯 [`Soyjack` Torture Mask 200 year old torture tool made of bronze from Germany. Wonder what is the mouth hole for...](http://9gag.com/gag/anz20En)
+ - 🚯 [What the...](http://9gag.com/gag/amA6KyV)<!-- MEMES:END -->
 
 --- 
 
