@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When Apple&#39;s headset launches, it will do more than Oculus does](https://appleinsider.com/articles/23/04/23/when-apples-headset-launches-it-will-do-more-than-oculus-does?utm_medium=rss)
- - [Sources: details on Apple XR headset&#39;s external battery pack and charging cable, and a look at its app strategy - throw everything but the kitchen sink at users &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230423/p6#a230423p6)
- - [Apple&#39;s MR headset to use magnetically-attached tethered battery](https://appleinsider.com/articles/23/04/23/apples-mr-headset-to-use-magnetically-attached-tethered-battery?utm_medium=rss)<!-- TECH:END -->
+ - [Flexispot BS11Pro office chair review: stylish and comfortable](https://appleinsider.com/articles/23/04/23/flexispot-bs11pro-office-chair-review-stylish-and-comfortable?utm_medium=rss)
+ - [7 Exciting New Phones Coming Soon: iPhone 15, Pixel Fold and More     - CNET](https://www.cnet.com/tech/mobile/7-exciting-new-phones-coming-soon-iphone-15-pixel-fold-and-more/#ftag=CAD590a51e)
+ - [When Apple&#39;s headset launches, it will do more than Oculus does](https://appleinsider.com/articles/23/04/23/when-apples-headset-launches-it-will-do-more-than-oculus-does?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
