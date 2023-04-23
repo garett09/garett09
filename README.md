@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The old switcheroo](http://9gag.com/gag/a8q0XnQ)
- - 🚯 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
- - 🚯 [Chaotic and messy](http://9gag.com/gag/a9q54DW)<!-- MEMES:END -->
+ - 🚖 [Frying pan](http://9gag.com/gag/aGEBNOz)
+ - 🚯 [It&#39;s Getting Really Bad In San Francisco.. Footage Of What A Typical Target Store In San Francisco Looks Like Now!](http://9gag.com/gag/ay26ZAy)
+ - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
 
 --- 
 
