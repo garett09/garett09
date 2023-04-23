@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So much for not knowing the location drama](http://9gag.com/gag/aeQZyxb)
- - 🚯 [Bring on the memes](http://9gag.com/gag/aoKR6QX)
- - 🚯 [He literally went all the way](http://9gag.com/gag/ap96jRM)<!-- MEMES:END -->
+ - 🚖 [Corvette body work](http://9gag.com/gag/a7q06Xx)
+ - 🚯 [Protesters in France have gone next level and blocked the A69 highway with concrete blocks.](http://9gag.com/gag/aPgoLQg)
+ - 🚯 [The day Dani Olmo &lpar;rat bastard&rpar; \u2018tricked\u2019 Bayern Munich\u2019s Lucas Hernandez &lpar;poor fool&rpar;.](http://9gag.com/gag/aKEvX81)<!-- MEMES:END -->
 
 --- 
 
