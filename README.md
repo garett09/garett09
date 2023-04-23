@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
- - 🚯 [Pedos are being made.](http://9gag.com/gag/ajVLvwQ)
- - 🚯 [It&#39;s Getting Really Bad In San Francisco.. Footage Of What A Typical Target Store In San Francisco Looks Like Now!](http://9gag.com/gag/ay26ZAy)<!-- MEMES:END -->
+ - 🚖 [Hazard lights](http://9gag.com/gag/aGEBqgZ)
+ - 🚯 [Never understood](http://9gag.com/gag/aEqAK1G)
+ - 🚯 [Chaotic and messy](http://9gag.com/gag/a9q54DW)<!-- MEMES:END -->
 
 --- 
 
