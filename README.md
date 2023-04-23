@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you get this reference, then you should probably consider getting a prostate exam, old timer.](http://9gag.com/gag/aPgoVnR)
- - 🚯 [Sweet baby cheeses, that is the spot.](http://9gag.com/gag/axo6eqL)
- - 🚯 [My grandmother told me Heidi was black](http://9gag.com/gag/aYVDveN)<!-- MEMES:END -->
+ - 🚖 [Imagine just being there.](http://9gag.com/gag/aWGn9Zq)
+ - 🚯 [The day Dani Olmo &lpar;rat bastard&rpar; \u2018tricked\u2019 Bayern Munich\u2019s Lucas Hernandez &lpar;poor fool&rpar;.](http://9gag.com/gag/aKEvX81)
+ - 🚯 [Two Chicago teens steal a car, hit a family, kill a 6-month-old baby, and get charged with a misdemeanor and released](http://9gag.com/gag/ago76yg)<!-- MEMES:END -->
 
 --- 
 
