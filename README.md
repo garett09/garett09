@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He literally went all the way](http://9gag.com/gag/ap96jRM)
- - 🚯 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
+ - 🚖 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
+ - 🚯 [Pedos are being made.](http://9gag.com/gag/ajVLvwQ)
  - 🚯 [It&#39;s Getting Really Bad In San Francisco.. Footage Of What A Typical Target Store In San Francisco Looks Like Now!](http://9gag.com/gag/ay26ZAy)<!-- MEMES:END -->
 
 --- 
