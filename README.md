@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 and Other Apple Products to Expect in 2023     - CNET](https://www.cnet.com/tech/mobile/iphone-15-and-other-apple-products-to-expect-in-2023/#ftag=CAD590a51e)
- - [AI&#39;s mythology as a technology for creating intelligent beings instills fear; &quot;data dignity&quot; and seeing AI as a social collaboration could address worries &lpar;Jaron Lanier/New Yorker&rpar;](http://www.techmeme.com/230423/p4#a230423p4)
- - [Sources: in its most advanced chipmaking effort, Arm plans to work with manufacturing partners and build a test chip to showcase the capabilities of its designs &lpar;Financial Times&rpar;](http://www.techmeme.com/230423/p3#a230423p3)<!-- TECH:END -->
+ - [Daily deals: $100 off AirPods Max, 10% off M2 Pro 16-inch MacBook Pro, 27% off Dyson Cyclone V10, more](https://appleinsider.com/articles/23/04/23/daily-deals-100-off-airpods-max-10-off-m2-pro-16-inch-macbook-pro-27-off-dyson-cyclone-v10-more?utm_medium=rss)
+ - [Bose and Razer smart glasses are silly, but I still believe they have potential](https://www.androidauthority.com/smart-glasses-potential-3306991/)
+ - [Researchers Argue Black Holes Will Destroy All Quantum States](https://www.wired.com/story/black-holes-will-destroy-all-quantum-states/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
