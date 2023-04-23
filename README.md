@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oriane Bertone at the IFSC Climbing World Cup](http://9gag.com/gag/aDY8Lzw)
- - 🚯 [90s](http://9gag.com/gag/aGEBqLw)
- - 🚯 [Right???](http://9gag.com/gag/a8q09wd)<!-- MEMES:END -->
+ - 🚖 [No no holding the bow wrong yes](http://9gag.com/gag/abv4LQp)
+ - 🚯 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
+ - 🚯 [It&#39;s Getting Really Bad In San Francisco.. Footage Of What A Typical Target Store In San Francisco Looks Like Now!](http://9gag.com/gag/ay26ZAy)<!-- MEMES:END -->
 
 --- 
 
