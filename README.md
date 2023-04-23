@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [17 Best Recycled and Upcycled Clothes &lpar;2023&rpar;: Leggings, Sneakers, T-shirts](https://www.wired.com/gallery/our-favorite-recycled-clothes-and-accessories/)
  - [Daily deals: $100 off AirPods Max, 10% off M2 Pro 16-inch MacBook Pro, 27% off Dyson Cyclone V10, more](https://appleinsider.com/articles/23/04/23/daily-deals-100-off-airpods-max-10-off-m2-pro-16-inch-macbook-pro-27-off-dyson-cyclone-v10-more?utm_medium=rss)
- - [Bose and Razer smart glasses are silly, but I still believe they have potential](https://www.androidauthority.com/smart-glasses-potential-3306991/)
- - [Researchers Argue Black Holes Will Destroy All Quantum States](https://www.wired.com/story/black-holes-will-destroy-all-quantum-states/)<!-- TECH:END -->
+ - [Bose and Razer smart glasses are silly, but I still believe they have potential](https://www.androidauthority.com/smart-glasses-potential-3306991/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
