@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tozo Golden X1 review: wireless ANC earbuds with customizable audio](https://appleinsider.com/articles/23/04/23/tozo-golden-x1-review-wireless-anc-earbuds-with-customizable-audio?utm_medium=rss)
- - [Q&amp;A with Katherine Forrest, a former federal judge for the SDNY, on copyright and generative AI, the Copyright Office&#39;s guidance on AI-generated work, and more &lpar;Nabiha Syed/The Markup&rpar;](http://www.techmeme.com/230423/p9#a230423p9)
- - [UK&#39;s Digital Markets Unit may soon gain Big Tech regulation powers](https://appleinsider.com/articles/23/04/23/uks-digital-markets-unit-may-soon-gain-big-tech-regulation-powers?utm_medium=rss)<!-- TECH:END -->
+ - [Elecom Pantograph Wired Mini USB Keyboard review: Multilingual value](https://appleinsider.com/articles/23/04/23/elecom-pantograph-wired-mini-usb-keyboard-review-multilingual-value?utm_medium=rss)
+ - [Daemons and Agents could be slowing down your Mac](https://appleinsider.com/inside/macos/tips/daemons-and-agents-could-be-slowing-down-your-mac?utm_medium=rss)
+ - [Sources: the Biden administration has asked South Korea to encourage Samsung and SK Hynix to hold back from boosting sales to China if Beijing bans Micron chips &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/230423/p10#a230423p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
