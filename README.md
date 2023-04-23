@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First-gen iPad Pro models won&#39;t be supported by iPadOS 17](https://appleinsider.com/articles/23/04/23/first-gen-ipad-pro-models-wont-be-supported-by-ipados-17?utm_medium=rss)
- - [Proliferation of hacker group naming schemes complicates tracking of threat actors, but the fog of war in cybersecurity research makes this issue hard to fix &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230423/p7#a230423p7)
- - [When Apple&#39;s headset launches, it will do more than Oculus](https://appleinsider.com/articles/23/04/23/when-apples-headset-launches-it-will-do-more-than-oculus-does?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter restores gold badges to some news organizations, including the BBC, The New York Times, and Bellingcat; the BBC and Bellingcat say they did not pay &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/230423/p8#a230423p8)
+ - [Gimmicks are dead — just make a good phone](https://www.androidauthority.com/smartphone-gimmicks-opinion-3309797/)
+ - [iOttie Velox Pro review: Active cooling sets this magnetic charger apart](https://appleinsider.com/articles/23/04/23/iottie-velox-pro-review-active-cooling-sets-this-magnetic-charger-apart?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
