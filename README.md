@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pop star Grimes tells fans to create AI-generated music with her voice, saying she will split 50% royalties, the same as &quot;with any artist I collab with&quot; &lpar;Martine Paris/Forbes&rpar;](http://www.techmeme.com/230424/p7#a230424p7)
- - [How HomePods recognize smoke alarms, MagSafe car chargers, and more smart home news](https://appleinsider.com/articles/23/04/24/how-homepods-recognize-smoke-alarms-magsafe-car-chargers-and-more-smart-home-news?utm_medium=rss)
- - [Daily deals: $700 off M1 Max MacBook Pro, 36% off iPad Pencil, Apple Watch SE $179, more](https://appleinsider.com/articles/23/04/24/daily-deals-700-off-m1-max-macbook-pro-36-off-ipad-pencil-apple-watch-se-179-more?utm_medium=rss)<!-- TECH:END -->
+ - [AMD’s new Ryzen 7000 X3D CPUs have burnt out for some, and a BIOS update could prevent it](https://www.theverge.com/2023/4/24/23695829/amd-7000x3d-cpu-burning-out-reports-bios-update-fixes)
+ - [Grimes says anyone can use her voice for AI-generated songs](https://www.theverge.com/2023/4/24/23695746/grimes-ai-music-profit-sharing-copyright-ip)
+ - [The next game from Genshin Impact’s developer is out on April 26th](https://www.theverge.com/2023/4/24/23695826/honkai-star-rail-release-date-trailer-pre-install)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
