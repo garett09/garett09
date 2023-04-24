@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you die in PvP while playing Diablo 4 hardcore, you&#39;re dead bucko](https://www.pcgamer.com/if-you-die-in-pvp-while-playing-diablo-4-hardcore-youre-dead-bucko)
- - [Town sim meets action adventure in My Time at Sandrock, out this summer](https://blog.playstation.com/2023/04/24/town-sim-meets-action-adventure-in-my-time-at-sandrock-out-this-summer/)
- - [Vampire survival game says screw it, let&#39;s add Frankenstein&#39;s monster](https://www.pcgamer.com/vampire-survival-game-says-screw-it-lets-add-frankensteins-monster)<!-- GAME:END -->
+ - [Where to find Curtis&#39; safe key in Dead Island 2](https://www.pcgamer.com/dead-island-2-curtis-safe-key-location)
+ - [17 Years Later, Pokémon&#39;s Wii Animations Look Better Than Those In Modern Games](https://kotaku.com/pokemon-battle-revolution-animations-wii-scarlet-violet-1850362666)
+ - [Here’s your last call to pre-order the Zelda: Tears of the Kingdom Switch OLED](https://www.polygon.com/23590865/zelda-tears-of-the-kingdom-switch-oled-totk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
