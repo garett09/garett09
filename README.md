@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s Bafta honors &#39;Bad Sisters&#39; and &#39;The Essex Serpent&#39;](https://appleinsider.com/articles/23/04/24/uks-bafta-honors-bad-sisters-and-the-essex-serpent?utm_medium=rss)
- - [Twitter claims dead celebs are subscribing to Blue from beyond the grave](https://www.theverge.com/2023/4/24/23695534/twitter-blue-tick-verification-dead-celebrities)
- - [A look at LAION, a free AI training data set with 5B+ images used in Google&#39;s Imagen and Stable Diffusion, created by high school teacher Christoph Schuhmann &lpar;Bloomberg&rpar;](http://www.techmeme.com/230424/p2#a230424p2)<!-- TECH:END -->
+ - [Inside the Trickiest, Techiest Scene in &#39;Beau Is Afraid&#39;](https://www.wired.com/story/inside-beau-is-afraids-trickiest-techiest-scene/)
+ - [Facebook Made BuzzFeed, Then Killed It](https://www.wired.com/story/buzzfeed-news-facebook-future/)
+ - [The Filthy Truth About Subway Air](https://www.wired.com/story/subway-air-health/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
