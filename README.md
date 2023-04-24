@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pedro is a treasure.](http://9gag.com/gag/a7q0R8m)
- - 🚯 [That\u2019s the rule](http://9gag.com/gag/a8q0OOQ)
- - 🚯 [Sims raijt](http://9gag.com/gag/aDY8v1G)<!-- MEMES:END -->
+ - 🚖 [Girl asked why photoshop works slow\u2026](http://9gag.com/gag/aPgoVoP)
+ - 🚯 [The day Dani Olmo &lpar;rat bastard&rpar; \u2018tricked\u2019 Bayern Munich\u2019s Lucas Hernandez &lpar;poor fool&rpar;.](http://9gag.com/gag/aKEvX81)
+ - 🚯 [Nintendo just ruined someones life](http://9gag.com/gag/aMEP0OG)<!-- MEMES:END -->
 
 --- 
 
