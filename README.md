@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Debt](http://9gag.com/gag/aVbKyXK)
- - 🚯 [Where I can buy this](http://9gag.com/gag/a8q0x9Y)
- - 🚯 [A tense game of water balloon.](http://9gag.com/gag/aeQZwrp)<!-- MEMES:END -->
+ - 🚖 [Whelp](http://9gag.com/gag/ay26wjW)
+ - 🚯 [Social help at work.](http://9gag.com/gag/aVbK65P)
+ - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
 
 --- 
 
