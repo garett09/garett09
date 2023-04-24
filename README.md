@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the Trickiest, Techiest Scene in &#39;Beau Is Afraid&#39;](https://www.wired.com/story/inside-beau-is-afraids-trickiest-techiest-scene/)
- - [Facebook Made BuzzFeed, Then Killed It](https://www.wired.com/story/buzzfeed-news-facebook-future/)
- - [The Filthy Truth About Subway Air](https://www.wired.com/story/subway-air-health/)<!-- TECH:END -->
+ - [Analysts, investors, and founders expect a hard year for tech startups, including more down rounds; PitchBook says 400+ unicorns haven&#39;t raised funds since 2021 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230424/p4#a230424p4)
+ - [AI Isn&#39;t Going to Reinvent the Alphabet Anytime Soon](https://www.wired.com/story/ai-isnt-going-to-reinvent-the-alphabet-anytime-soon/)
+ - [Augmented Reality Art Takes Over the Roofs of Sheffield, UK](https://www.wired.com/story/sheffield-uk-augmented-reality-art-look-up/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
