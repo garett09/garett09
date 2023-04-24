@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The day Dani Olmo &lpar;rat bastard&rpar; \u2018tricked\u2019 Bayern Munich\u2019s Lucas Hernandez &lpar;poor fool&rpar;.](http://9gag.com/gag/aKEvX81)
- - 🚯 [See ya in the comments](http://9gag.com/gag/aDY89MN)
+ - 🚖 [My parents should know, I started speaking at age of 3](http://9gag.com/gag/aKEvZNQ)
+ - 🚯 [`Soyjack` Torture Mask 200 year old torture tool made of bronze from Germany. Wonder what is the mouth hole for...](http://9gag.com/gag/anz20En)
  - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
 
 --- 
