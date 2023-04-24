@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mophie 3-in-1 Travel Charger with MagSafe review: Places to go, tech to pack](https://www.androidauthority.com/mophie-3-in-1-travel-charger-magsafe-review-3315049/)
- - [BeReal says it has 20M+ DAUs and is testing allowing more than one post a day; Apptopia said BeReal had less than 6M DAUs in March 2023 and ~15M in October 2022 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230424/p18#a230424p18)
- - [Disney’s latest and biggest round of layoffs has begun](https://www.theverge.com/2023/4/24/23690188/disney-layoffs-bloodbath-round-2)<!-- TECH:END -->
+ - [Substack co-founder says ‘we don’t like or condone bigotry,’ doesn’t explain how Notes will moderate it](https://www.theverge.com/2023/4/24/23696530/substack-notes-moderation-bigotry-chris-best)
+ - [Turn your Mac into a desktop powerhouse with an OWC dock, now 20% off](https://appleinsider.com/articles/23/04/24/turn-your-mac-into-a-desktop-powerhouse-with-an-owc-dock-now-20-off?utm_medium=rss)
+ - [Mophie 3-in-1 Travel Charger with MagSafe review: Places to go, tech to pack](https://www.androidauthority.com/mophie-3-in-1-travel-charger-magsafe-review-3315049/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
