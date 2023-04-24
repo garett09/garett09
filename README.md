@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget Cars, Green Hydrogen Will Supercharge Crops](https://www.wired.com/story/green-hydrogen-scaling-up/)
- - [Is AI dangerous? Here’s what Musk, Pichai, and AI experts think](https://www.androidauthority.com/is-ai-dangerous-threat-3316199/)
- - [A big update brings the Kindle Scribe closer to being good](https://www.theverge.com/2023/4/24/23682206/amazon-kindle-scribe-e-reader-kobo-elipsa-2e)<!-- TECH:END -->
+ - [Flexispot BS11Pro office chair review: stylish and comfortable](https://appleinsider.com/articles/23/04/23/flexispot-bs11pro-office-chair-review-stylish-and-comfortable?utm_medium=rss)
+ - [Sega of America is the latest video game studio to organize](https://www.theverge.com/2023/4/24/23683648/sega-of-america-unionize-cwa)
+ - [Google Authenticator users can now sync passcodes between devices](https://appleinsider.com/articles/23/04/24/google-authenticator-users-can-now-sync-passcodes-between-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
