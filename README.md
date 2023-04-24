@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now print me a Mila Jovovich with a multipass](http://9gag.com/gag/a9q5xEW)
- - 🚯 [TOO TIRED](http://9gag.com/gag/aVbKpjP)
- - 🚯 [Dentists hate this parrot.](http://9gag.com/gag/aXnV6qd)<!-- MEMES:END -->
+ - 🚖 [Whelp](http://9gag.com/gag/ay26wjW)
+ - 🚯 [Bring on the memes](http://9gag.com/gag/aoKR6QX)
+ - 🚯 [Quaker chic](http://9gag.com/gag/ajVLeEw)<!-- MEMES:END -->
 
 --- 
 
