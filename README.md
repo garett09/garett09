@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man was gone for one day and Mary Jane went and had two kids](https://www.polygon.com/2023/4/24/23695814/amazing-spider-man-mary-jane-mystery)
- - [Steam’s Puzzle Fest discounts brainy games like Dorfromantik and Baba is You](https://www.polygon.com/2023/4/24/23594207/steam-puzzle-fest-games-deal-sale)
- - [Twitch Streamer&#39;s Struggle To Become A Top Breath of the Wild Speedrunner Is Today&#39;s Must-Watch](https://kotaku.com/twitch-youtube-streamer-simply-zelda-breath-wild-botw-1850369925)<!-- GAME:END -->
+ - [Homophobes Are Review Bombing Horizon Forbidden West’s DLC](https://kotaku.com/horizon-forbidden-west-dlc-review-bomb-aloy-ps5-1850370480)
+ - [Apex Legends’ new hero is Ballistic, an old gunfighter with a long history](https://www.polygon.com/23695954/apex-legends-new-hero-ballistic-trailer-season-17)
+ - [12 Of The Most Expensive PS4 Games With Eye-Popping Prices](https://kotaku.com/ps4-games-rare-most-expensive-price-collector-s-edition-1850370457)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
