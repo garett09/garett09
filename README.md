@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [See ya in the comments](http://9gag.com/gag/aDY89MN)
- - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)
- - 🚯 [Quaker chic](http://9gag.com/gag/ajVLeEw)<!-- MEMES:END -->
+ - 🚖 [Pedro is a treasure.](http://9gag.com/gag/a7q0R8m)
+ - 🚯 [Debt](http://9gag.com/gag/aVbKyXK)
+ - 🚯 [Where I can buy this](http://9gag.com/gag/a8q0x9Y)<!-- MEMES:END -->
 
 --- 
 
