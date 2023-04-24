@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girl asked why photoshop works slow\u2026](http://9gag.com/gag/aPgoVoP)
- - 🚯 [The day Dani Olmo &lpar;rat bastard&rpar; \u2018tricked\u2019 Bayern Munich\u2019s Lucas Hernandez &lpar;poor fool&rpar;.](http://9gag.com/gag/aKEvX81)
- - 🚯 [Nintendo just ruined someones life](http://9gag.com/gag/aMEP0OG)<!-- MEMES:END -->
+ - 🚖 [See ya in the comments](http://9gag.com/gag/aDY89MN)
+ - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)
+ - 🚯 [Quaker chic](http://9gag.com/gag/ajVLeEw)<!-- MEMES:END -->
 
 --- 
 
