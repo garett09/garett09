@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elecom Pantograph Wired Mini USB Keyboard review: Multilingual value](https://appleinsider.com/articles/23/04/23/elecom-pantograph-wired-mini-usb-keyboard-review-multilingual-value?utm_medium=rss)
- - [Daemons and Agents could be slowing down your Mac](https://appleinsider.com/inside/macos/tips/daemons-and-agents-could-be-slowing-down-your-mac?utm_medium=rss)
- - [Sources: the Biden administration has asked South Korea to encourage Samsung and SK Hynix to hold back from boosting sales to China if Beijing bans Micron chips &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/230423/p10#a230423p10)<!-- TECH:END -->
+ - [In 2023 the Best Video Games Are Old     - CNET](https://www.cnet.com/tech/gaming/in-2023-all-the-best-video-games-are-old/#ftag=CAD590a51e)
+ - [Analysis: people spend more time watching Netflix than Hulu, Disney+, and HBO Max combined, and Netflix makes up ~75% of the top 10 shows in the US each week &lpar;Bloomberg&rpar;](http://www.techmeme.com/230423/p11#a230423p11)
+ - [Elecom Pantograph Wired Mini USB Keyboard review: Multilingual value](https://appleinsider.com/articles/23/04/23/elecom-pantograph-wired-mini-usb-keyboard-review-multilingual-value?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
