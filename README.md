@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A sandwich so perfect, it&#39;s out of this world](http://9gag.com/gag/aqe6EeL)
- - 🚯 [I\u2019m fine](http://9gag.com/gag/a3Z0rLe)
- - 🚯 [Wanna go camping](http://9gag.com/gag/aWGnyD3)<!-- MEMES:END -->
+ - 🚖 [The day Dani Olmo &lpar;rat bastard&rpar; \u2018tricked\u2019 Bayern Munich\u2019s Lucas Hernandez &lpar;poor fool&rpar;.](http://9gag.com/gag/aKEvX81)
+ - 🚯 [See ya in the comments](http://9gag.com/gag/aDY89MN)
+ - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
 
 --- 
 
