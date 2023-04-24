@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Try with cheese sauce](http://9gag.com/gag/aEqA5Qo)
- - 🚯 [I\u2019m fine](http://9gag.com/gag/a3Z0rLe)
- - 🚯 [Wanna go camping](http://9gag.com/gag/aWGnyD3)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t f**k with a country who&#39;s buddies with all the global superpower nations with nukes.](http://9gag.com/gag/a2K0XeZ)
+ - 🚯 [Calling the anon hotline](http://9gag.com/gag/aA0K5G2)
+ - 🚯 [So heartwarming](http://9gag.com/gag/awZ1jB4)<!-- MEMES:END -->
 
 --- 
 
