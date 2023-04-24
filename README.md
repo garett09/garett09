@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cozy games are getting darker](https://www.polygon.com/23692974/dark-cozy-games-genre-dredge-strange-horticulture)
- - [Wizards Of The Coast Raids YouTuber’s House To Take Back Magic: The Gathering Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
- - [The Week In Games: Galactic Refugees And Stone-Age Life Sims](https://kotaku.com/april-game-releases-this-week-star-wars-jedi-survivor-1850364056)<!-- GAME:END -->
+ - [A disguise hides even more than identity in Asian American spy stories](https://www.polygon.com/23691584/asian-american-spy-books)
+ - [Sega of America workers want to unionize](https://www.polygon.com/23696149/sega-of-america-workers-unionize-cwa)
+ - [Titans flushes Beast Boy down the Multiverse, reminds us every DC cartoon, movie, and show is connected, man](https://www.polygon.com/23695963/titans-dc-multiverse-beast-boy-cameos-references)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
