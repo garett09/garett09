@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS declines to hear a case regarding AI-generated inventions, after a lower court ruled patents can be issued only to human inventors, not AI systems &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230424/p14#a230424p14)
- - [A US appeals court affirms a lower court&#39;s 2021 ruling largely rejecting claims by Epic that Apple&#39;s App Store policy banning third-party app stores was illegal &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230424/p13#a230424p13)
- - [Twitter users are now wondering if mandatory blue checks are illegal](https://www.theverge.com/2023/4/24/23695772/twitter-blue-check-paid-verification-false-endorsement-dril)<!-- TECH:END -->
+ - [Google announces Google Cloud Security AI Workbench, powered by the Sec-PaLM LLM, to rival tools like Microsoft&#39;s GPT-4-based Security Copilot &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/230424/p16#a230424p16)
+ - [Apple triumphant in Epic Games &#39;Fortnite&#39; antitrust appeal](https://appleinsider.com/articles/23/04/24/apple-triumphant-in-epic-games-fortnite-antitrust-appeal?utm_medium=rss)
+ - [Google updates Google Authenticator for Android and iOS with a new icon and Google Account synchronization, letting users back up their 2FA codes to the cloud &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230424/p15#a230424p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
