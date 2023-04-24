@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research in 2021: around 60% of undersea internet cable faults were caused by fishing equipment or anchors; repairs can often cost $250K to $3M per incident &lpar;Bloomberg&rpar;](http://www.techmeme.com/230424/p6#a230424p6)
- - [Which old Samsung Galaxy phones are still worth buying? Here are your options.](https://www.androidauthority.com/old-samsung-phones-3315064/)
- - [Renault 5 EV 2024 Prototype Drive: Gripping Stuff](https://www.wired.com/story/prototype-renault-5-ev-test-drive/)<!-- TECH:END -->
+ - [Pop star Grimes tells fans to create AI-generated music with her voice, saying she will split 50% royalties, the same as &quot;with any artist I collab with&quot; &lpar;Martine Paris/Forbes&rpar;](http://www.techmeme.com/230424/p7#a230424p7)
+ - [How HomePods recognize smoke alarms, MagSafe car chargers, and more smart home news](https://appleinsider.com/articles/23/04/24/how-homepods-recognize-smoke-alarms-magsafe-car-chargers-and-more-smart-home-news?utm_medium=rss)
+ - [Daily deals: $700 off M1 Max MacBook Pro, 36% off iPad Pencil, Apple Watch SE $179, more](https://appleinsider.com/articles/23/04/24/daily-deals-700-off-m1-max-macbook-pro-36-off-ipad-pencil-apple-watch-se-179-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
