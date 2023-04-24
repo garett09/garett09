@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whelp](http://9gag.com/gag/ay26wjW)
- - 🚯 [Quaker chic](http://9gag.com/gag/ajVLeEw)
- - 🚯 [See ya in the comments](http://9gag.com/gag/aDY89MN)<!-- MEMES:END -->
+ - 🚖 [My parents should know, I started speaking at age of 3](http://9gag.com/gag/aKEvZNQ)
+ - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)
+ - 🚯 [Whelp](http://9gag.com/gag/ay26wjW)<!-- MEMES:END -->
 
 --- 
 
