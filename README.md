@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Twitter committed ~$20M to Black, Latinx, and female VC fund managers after George Floyd&#39;s murder; now it&#39;s trying to sell those stakes and back out &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230424/p17#a230424p17)
- - [How Apple Savings compares vs other high-yield savings accounts](https://appleinsider.com/inside/apple-card/vs/how-apple-savings-compares-vs-other-high-yield-savings-accounts?utm_medium=rss)
- - [Google Authenticator finally, mercifully adds account syncing for two-factor codes](https://www.theverge.com/2023/4/24/23696058/google-authenticator-app-account-syncing-multiple-devices)<!-- TECH:END -->
+ - [Mophie 3-in-1 Travel Charger with MagSafe review: Places to go, tech to pack](https://www.androidauthority.com/mophie-3-in-1-travel-charger-magsafe-review-3315049/)
+ - [BeReal says it has 20M+ DAUs and is testing allowing more than one post a day; Apptopia said BeReal had less than 6M DAUs in March 2023 and ~15M in October 2022 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/230424/p18#a230424p18)
+ - [Disney’s latest and biggest round of layoffs has begun](https://www.theverge.com/2023/4/24/23690188/disney-layoffs-bloodbath-round-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
