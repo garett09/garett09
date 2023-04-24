@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pedro is a treasure.](http://9gag.com/gag/a7q0R8m)
- - 🚯 [Debt](http://9gag.com/gag/aVbKyXK)
- - 🚯 [Where I can buy this](http://9gag.com/gag/a8q0x9Y)<!-- MEMES:END -->
+ - 🚖 [Debt](http://9gag.com/gag/aVbKyXK)
+ - 🚯 [Where I can buy this](http://9gag.com/gag/a8q0x9Y)
+ - 🚯 [A tense game of water balloon.](http://9gag.com/gag/aeQZwrp)<!-- MEMES:END -->
 
 --- 
 
