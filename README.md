@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nintendo just ruined someones life](http://9gag.com/gag/aMEP0OG)
- - 🚯 [Severe unexpected turbulence](http://9gag.com/gag/aBdVjON)
- - 🚯 [So much for not knowing the location drama](http://9gag.com/gag/aeQZyxb)<!-- MEMES:END -->
+ - 🚖 [A sandwich so perfect, it&#39;s out of this world](http://9gag.com/gag/aqe6EeL)
+ - 🚯 [I\u2019m fine](http://9gag.com/gag/a3Z0rLe)
+ - 🚯 [Wanna go camping](http://9gag.com/gag/aWGnyD3)<!-- MEMES:END -->
 
 --- 
 
