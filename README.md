@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces Google Cloud Security AI Workbench, powered by the Sec-PaLM LLM, to rival tools like Microsoft&#39;s GPT-4-based Security Copilot &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/230424/p16#a230424p16)
- - [Apple triumphant in Epic Games &#39;Fortnite&#39; antitrust appeal](https://appleinsider.com/articles/23/04/24/apple-triumphant-in-epic-games-fortnite-antitrust-appeal?utm_medium=rss)
- - [Google updates Google Authenticator for Android and iOS with a new icon and Google Account synchronization, letting users back up their 2FA codes to the cloud &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230424/p15#a230424p15)<!-- TECH:END -->
+ - [Sources: Twitter committed ~$20M to Black, Latinx, and female VC fund managers after George Floyd&#39;s murder; now it&#39;s trying to sell those stakes and back out &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230424/p17#a230424p17)
+ - [How Apple Savings compares vs other high-yield savings accounts](https://appleinsider.com/inside/apple-card/vs/how-apple-savings-compares-vs-other-high-yield-savings-accounts?utm_medium=rss)
+ - [Google Authenticator finally, mercifully adds account syncing for two-factor codes](https://www.theverge.com/2023/4/24/23696058/google-authenticator-app-account-syncing-multiple-devices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
