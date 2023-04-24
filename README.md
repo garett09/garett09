@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD’s new Ryzen 7000 X3D CPUs have burnt out for some, and a BIOS update could prevent it](https://www.theverge.com/2023/4/24/23695829/amd-7000x3d-cpu-burning-out-reports-bios-update-fixes)
- - [Grimes says anyone can use her voice for AI-generated songs](https://www.theverge.com/2023/4/24/23695746/grimes-ai-music-profit-sharing-copyright-ip)
- - [The next game from Genshin Impact’s developer is out on April 26th](https://www.theverge.com/2023/4/24/23695826/honkai-star-rail-release-date-trailer-pre-install)<!-- TECH:END -->
+ - [Forget Cars, Green Hydrogen Will Supercharge Crops](https://www.wired.com/story/green-hydrogen-scaling-up/)
+ - [Is AI dangerous? Here’s what Musk, Pichai, and AI experts think](https://www.androidauthority.com/is-ai-dangerous-threat-3316199/)
+ - [A big update brings the Kindle Scribe closer to being good](https://www.theverge.com/2023/4/24/23682206/amazon-kindle-scribe-e-reader-kobo-elipsa-2e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
