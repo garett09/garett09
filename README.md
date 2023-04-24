@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flexispot BS11Pro office chair review: stylish and comfortable](https://appleinsider.com/articles/23/04/23/flexispot-bs11pro-office-chair-review-stylish-and-comfortable?utm_medium=rss)
- - [Sega of America is the latest video game studio to organize](https://www.theverge.com/2023/4/24/23683648/sega-of-america-unionize-cwa)
- - [Google Authenticator users can now sync passcodes between devices](https://appleinsider.com/articles/23/04/24/google-authenticator-users-can-now-sync-passcodes-between-devices?utm_medium=rss)<!-- TECH:END -->
+ - [SCOTUS declines to hear a case regarding AI-generated inventions, after a lower court ruled patents can be issued only to human inventors, not AI systems &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230424/p14#a230424p14)
+ - [A US appeals court affirms a lower court&#39;s 2021 ruling largely rejecting claims by Epic that Apple&#39;s App Store policy banning third-party app stores was illegal &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/230424/p13#a230424p13)
+ - [Twitter users are now wondering if mandatory blue checks are illegal](https://www.theverge.com/2023/4/24/23695772/twitter-blue-check-paid-verification-false-endorsement-dril)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
