@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
- - 🚯 [Science](http://9gag.com/gag/a5Xw9mG)
- - 🚯 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)<!-- MEMES:END -->
+ - 🚖 [Now print me a Mila Jovovich with a multipass](http://9gag.com/gag/a9q5xEW)
+ - 🚯 [TOO TIRED](http://9gag.com/gag/aVbKpjP)
+ - 🚯 [Dentists hate this parrot.](http://9gag.com/gag/aXnV6qd)<!-- MEMES:END -->
 
 --- 
 
