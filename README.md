@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s when you can preload Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-preload-times)
- - [Amazon’s James Bond game show casts Logan Roy — sorry, Brian Cox — as its M](https://www.polygon.com/23695565/james-bond-007-road-to-a-million-brian-cox)
- - [AMD&#39;s RX 7600 and Nvidia&#39;s RTX 4060 Ti release dates rumoured around Computex next month](https://www.pcgamer.com/amds-rx-7600-and-nvidias-rtx-4060-ti-release-dates-rumoured-around-computex-next-month)<!-- GAME:END -->
+ - [If you die in PvP while playing Diablo 4 hardcore, you&#39;re dead bucko](https://www.pcgamer.com/if-you-die-in-pvp-while-playing-diablo-4-hardcore-youre-dead-bucko)
+ - [Town sim meets action adventure in My Time at Sandrock, out this summer](https://blog.playstation.com/2023/04/24/town-sim-meets-action-adventure-in-my-time-at-sandrock-out-this-summer/)
+ - [Vampire survival game says screw it, let&#39;s add Frankenstein&#39;s monster](https://www.pcgamer.com/vampire-survival-game-says-screw-it-lets-add-frankensteins-monster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
