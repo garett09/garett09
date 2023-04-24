@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bring on the memes](http://9gag.com/gag/aoKR6QX)
- - 🚯 [Say No To Steroids](http://9gag.com/gag/anz2onb)
+ - 🚖 [Kicked in the face by a guy who were able to kick a ball at 75-132mph must be sucks.](http://9gag.com/gag/ago7wmn)
+ - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)
  - 🚯 [See ya in the comments](http://9gag.com/gag/aDY89MN)<!-- MEMES:END -->
 
 --- 
