@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Curtis&#39; safe key in Dead Island 2](https://www.pcgamer.com/dead-island-2-curtis-safe-key-location)
- - [17 Years Later, Pokémon&#39;s Wii Animations Look Better Than Those In Modern Games](https://kotaku.com/pokemon-battle-revolution-animations-wii-scarlet-violet-1850362666)
- - [Here’s your last call to pre-order the Zelda: Tears of the Kingdom Switch OLED](https://www.polygon.com/23590865/zelda-tears-of-the-kingdom-switch-oled-totk)<!-- GAME:END -->
+ - [Horizon studio says ‘Aloy’s next adventure’ is in the works](https://www.polygon.com/23695756/horizon-forbidden-west-sequel-guerrilla-game)
+ - [Intel Meteor Lake&#39;s Adamantine spine could boost GPU and boot performance](https://www.pcgamer.com/intel-meteor-lakes-adamantine-spine-could-boost-gpu-and-boot-performance)
+ - [The Mission: Impossible masks are almost a reality](https://www.polygon.com/23688879/mission-impossible-masks-real-life)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
