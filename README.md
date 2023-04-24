@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s RX 7600 and Nvidia&#39;s RTX 4060 Ti release dates rumoured around Computex next month](https://www.pcgamer.com/amds-rx-7600-and-nvidias-rtx-4060-ti-release-dates-rumoured-around-computex-next-month)
- - [The gloves come off as NetEase sues Blizzard for $44 million](https://www.pcgamer.com/the-gloves-come-off-as-netease-sues-blizzard-for-dollar44-million)
- - [Mike Laidlaw explains how the Dragon Age writers&#39; room tackled companions](https://www.pcgamer.com/mike-laidlaw-explains-how-the-dragon-age-writers-room-tackled-companions)<!-- GAME:END -->
+ - [Here&#39;s when you can preload Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-preload-times)
+ - [Amazon’s James Bond game show casts Logan Roy — sorry, Brian Cox — as its M](https://www.polygon.com/23695565/james-bond-007-road-to-a-million-brian-cox)
+ - [AMD&#39;s RX 7600 and Nvidia&#39;s RTX 4060 Ti release dates rumoured around Computex next month](https://www.pcgamer.com/amds-rx-7600-and-nvidias-rtx-4060-ti-release-dates-rumoured-around-computex-next-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
