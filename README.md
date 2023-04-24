@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wanna go camping](http://9gag.com/gag/aWGnyD3)
- - 🚯 [That\u2019s the rule](http://9gag.com/gag/a8q0OOQ)
- - 🚯 [Sims raijt](http://9gag.com/gag/aDY8v1G)<!-- MEMES:END -->
+ - 🚖 [Well, they got a point](http://9gag.com/gag/awZ1WKB)
+ - 🚯 [The day Dani Olmo &lpar;rat bastard&rpar; \u2018tricked\u2019 Bayern Munich\u2019s Lucas Hernandez &lpar;poor fool&rpar;.](http://9gag.com/gag/aKEvX81)
+ - 🚯 [My parents should know, I started speaking at age of 3](http://9gag.com/gag/aKEvZNQ)<!-- MEMES:END -->
 
 --- 
 
