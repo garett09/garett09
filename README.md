@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kicked in the face by a guy who were able to kick a ball at 75-132mph must be sucks.](http://9gag.com/gag/ago7wmn)
- - 🚯 [Whelp](http://9gag.com/gag/ay26wjW)
- - 🚯 [Hazard lights](http://9gag.com/gag/aGEBqgZ)<!-- MEMES:END -->
+ - 🚖 [Whelp](http://9gag.com/gag/ay26wjW)
+ - 🚯 [Quaker chic](http://9gag.com/gag/ajVLeEw)
+ - 🚯 [See ya in the comments](http://9gag.com/gag/aDY89MN)<!-- MEMES:END -->
 
 --- 
 
