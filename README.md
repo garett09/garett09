@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts, investors, and founders expect a hard year for tech startups, including more down rounds; PitchBook says 400+ unicorns haven&#39;t raised funds since 2021 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230424/p4#a230424p4)
- - [AI Isn&#39;t Going to Reinvent the Alphabet Anytime Soon](https://www.wired.com/story/ai-isnt-going-to-reinvent-the-alphabet-anytime-soon/)
- - [Augmented Reality Art Takes Over the Roofs of Sheffield, UK](https://www.wired.com/story/sheffield-uk-augmented-reality-art-look-up/)<!-- TECH:END -->
+ - [Research in 2021: around 60% of undersea internet cable faults were caused by fishing equipment or anchors; repairs can often cost $250K to $3M per incident &lpar;Bloomberg&rpar;](http://www.techmeme.com/230424/p6#a230424p6)
+ - [Which old Samsung Galaxy phones are still worth buying? Here are your options.](https://www.androidauthority.com/old-samsung-phones-3315064/)
+ - [Renault 5 EV 2024 Prototype Drive: Gripping Stuff](https://www.wired.com/story/prototype-renault-5-ev-test-drive/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
