@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whelp](http://9gag.com/gag/ay26wjW)
- - 🚯 [Social help at work.](http://9gag.com/gag/aVbK65P)
- - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
+ - 🚖 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
+ - 🚯 [Science](http://9gag.com/gag/a5Xw9mG)
+ - 🚯 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)<!-- MEMES:END -->
 
 --- 
 
