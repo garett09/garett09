@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need a scientist](http://9gag.com/gag/ap96nY5)
- - 🚯 [Two Chicago teens steal a car, hit a family, kill a 6-month-old baby, and get charged with a misdemeanor and released](http://9gag.com/gag/ago76yg)
- - 🚯 [Whelp](http://9gag.com/gag/ay26wjW)<!-- MEMES:END -->
+ - 🚖 [Teenage girl crashes car and runs](http://9gag.com/gag/aGEB54X)
+ - 🚯 [Girl asked why photoshop works slow\u2026](http://9gag.com/gag/aPgoVoP)
+ - 🚯 [My parents should know, I started speaking at age of 3](http://9gag.com/gag/aKEvZNQ)<!-- MEMES:END -->
 
 --- 
 
