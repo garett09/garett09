@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Teenage girl crashes car and runs](http://9gag.com/gag/aGEB54X)
- - 🚯 [Girl asked why photoshop works slow\u2026](http://9gag.com/gag/aPgoVoP)
- - 🚯 [My parents should know, I started speaking at age of 3](http://9gag.com/gag/aKEvZNQ)<!-- MEMES:END -->
+ - 🚖 [Try with cheese sauce](http://9gag.com/gag/aEqA5Qo)
+ - 🚯 [I\u2019m fine](http://9gag.com/gag/a3Z0rLe)
+ - 🚯 [Wanna go camping](http://9gag.com/gag/aWGnyD3)<!-- MEMES:END -->
 
 --- 
 
