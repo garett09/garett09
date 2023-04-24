@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Substack co-founder says ‘we don’t like or condone bigotry,’ doesn’t explain how Notes will moderate it](https://www.theverge.com/2023/4/24/23696530/substack-notes-moderation-bigotry-chris-best)
- - [Turn your Mac into a desktop powerhouse with an OWC dock, now 20% off](https://appleinsider.com/articles/23/04/24/turn-your-mac-into-a-desktop-powerhouse-with-an-owc-dock-now-20-off?utm_medium=rss)
- - [Mophie 3-in-1 Travel Charger with MagSafe review: Places to go, tech to pack](https://www.androidauthority.com/mophie-3-in-1-travel-charger-magsafe-review-3315049/)<!-- TECH:END -->
+ - [Common ChatGPT phrases like &quot;as an AI language model&quot; and &quot;I cannot generate inappropriate content&quot; are appearing in and exposing fake Amazon reviews and tweets &lpar;Matthew Gault/VICE&rpar;](http://www.techmeme.com/230424/p19#a230424p19)
+ - [Get the Galaxy S23 free with a trade-in, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Substack co-founder says ‘we don’t like or condone bigotry,’ doesn’t explain how Notes will moderate it](https://www.theverge.com/2023/4/24/23696530/substack-notes-moderation-bigotry-chris-best)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
