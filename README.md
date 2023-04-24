@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon studio says ‘Aloy’s next adventure’ is in the works](https://www.polygon.com/23695756/horizon-forbidden-west-sequel-guerrilla-game)
- - [Intel Meteor Lake&#39;s Adamantine spine could boost GPU and boot performance](https://www.pcgamer.com/intel-meteor-lakes-adamantine-spine-could-boost-gpu-and-boot-performance)
- - [The Mission: Impossible masks are almost a reality](https://www.polygon.com/23688879/mission-impossible-masks-real-life)<!-- GAME:END -->
+ - [Prime Video’s Dead Ringers tries to substitute bad feminism for good storytelling](https://www.polygon.com/reviews/23692870/dead-ringers-tv-show-review-weisz-rachel)
+ - [Pokémon Go Dev Says Everyone Loves Going Outside When Fans Are Mad About It](https://kotaku.com/pokemon-go-niantic-remote-raid-passes-comment-twitter-1850368559)
+ - [This wonderfully &#39;90s RTS looks like a lost Command &amp; Conquer game](https://www.pcgamer.com/this-wonderfully-90s-rts-looks-like-a-lost-command-and-conquer-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
