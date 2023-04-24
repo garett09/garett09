@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My parents should know, I started speaking at age of 3](http://9gag.com/gag/aKEvZNQ)
- - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)
- - 🚯 [Whelp](http://9gag.com/gag/ay26wjW)<!-- MEMES:END -->
+ - 🚖 [Bring on the memes](http://9gag.com/gag/aoKR6QX)
+ - 🚯 [Say No To Steroids](http://9gag.com/gag/anz2onb)
+ - 🚯 [See ya in the comments](http://9gag.com/gag/aDY89MN)<!-- MEMES:END -->
 
 --- 
 
