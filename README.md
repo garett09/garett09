@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the latest macOS Ventura beta, Apple removed the Virtual Scanner II app that contained a copy of Satoshi Nakamoto&#39;s Bitcoin whitepaper &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230425/p38#a230425p38)
- - [Inside Meta&#39;s scramble to catch up on AI: slow to adopt pricey AI-optimized systems, scrapping a custom AI chip for a more ambitious model in 2025, and more &lpar;Reuters&rpar;](http://www.techmeme.com/230425/p37#a230425p37)
- - [The best SNES emulators for PC and Mac](https://www.androidauthority.com/best-snes-emulators-pc-mac-3317170/)<!-- TECH:END -->
+ - [Nick Clegg says TikTok&#39;s presence in the US, while China bars Meta, isn&#39;t a level playing field, and new tech like AI shouldn&#39;t be based on autocratic values &lpar;Bloomberg&rpar;](http://www.techmeme.com/230425/p40#a230425p40)
+ - [Artifact can now summarize and explain articles to you like you’re five](https://www.theverge.com/2023/4/25/23697890/artifact-ai-news-app-summarize-articles-explain-like-im-five)
+ - [China’s Metaverse Is All About Work](https://www.wired.com/story/china-metaverse-work-health-care/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
