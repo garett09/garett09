@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kicked in the face by a guy who were able to kick a ball at 75-132mph must be sucks.](http://9gag.com/gag/ago7wmn)
- - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)
- - 🚯 [See ya in the comments](http://9gag.com/gag/aDY89MN)<!-- MEMES:END -->
+ - 🚖 [Whelp](http://9gag.com/gag/ay26wjW)
+ - 🚯 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
+ - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
 
 --- 
 
