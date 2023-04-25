@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who’s making money in Big Tech?](https://www.theverge.com/2023/4/25/23691284/tech-earnings-financial-results-apple-google-tesla)
- - [OnePlus’ first tablet will cost $479](https://www.theverge.com/2023/4/25/23696448/oneplus-pad-pricing-preorder-shipping-news-accessories)
- - [Bitcoin is still the future of payments, says Lightspark CEO David Marcus](https://www.theverge.com/23696466/bitcoin-crypto-lightning-network-lightspark-ceo-david-marcus)<!-- TECH:END -->
+ - [DJI&#39;s new drone has a triple-camera system for photography &amp; video work](https://appleinsider.com/articles/23/04/25/dji-releases-a-triple-camera-system-on-a-new-drone-for-photographers?utm_medium=rss)
+ - [Adobe Creative Cloud saw major issues worldwide on April 25](https://appleinsider.com/articles/23/04/25/adobe-creative-cloud-is-seeing-major-issues-worldwide?utm_medium=rss)
+ - [Jamf updates add secure logins &amp; safe internet access for enterprise customers](https://appleinsider.com/articles/23/04/25/jamf-updates-add-secure-logins-safe-internet-access-for-enterprise-customers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
