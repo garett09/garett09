@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A little trick.](http://9gag.com/gag/az2KpKz)
- - 🚯 [Dentists hate this parrot.](http://9gag.com/gag/aXnV6qd)
- - 🚯 [This is pure GOLD!!!](http://9gag.com/gag/aKEvRMQ)<!-- MEMES:END -->
+ - 🚖 [This is pure GOLD!!!](http://9gag.com/gag/aKEvRMQ)
+ - 🚯 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
+ - 🚯 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)<!-- MEMES:END -->
 
 --- 
 
