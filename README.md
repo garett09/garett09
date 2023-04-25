@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Type 2 for me](http://9gag.com/gag/a5XwOOO)
+ - 🚖 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
  - 🚯 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)
  - 🚯 [Looked like shithousery](http://9gag.com/gag/awZ12g4)<!-- MEMES:END -->
 
