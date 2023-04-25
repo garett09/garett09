@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looked like shithousery](http://9gag.com/gag/awZ12g4)
- - 🚯 [Kicked in the face by a guy who were able to kick a ball at 75-132mph must be sucks.](http://9gag.com/gag/ago7wmn)
- - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)<!-- MEMES:END -->
+ - 🚖 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
+ - 🚯 [This is pure GOLD!!!](http://9gag.com/gag/aKEvRMQ)
+ - 🚯 [Quaker chic](http://9gag.com/gag/ajVLeEw)<!-- MEMES:END -->
 
 --- 
 
