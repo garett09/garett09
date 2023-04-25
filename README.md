@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VogDUO&#39;s magnetic wireless car charger for iPhone adds class with leather](https://appleinsider.com/articles/23/04/25/vogduos-magnetic-wireless-car-charger-for-iphone-adds-class-with-leather?utm_medium=rss)
- - [Chrome OS to improve privacy with dedicated toggle for the mic and camera](https://www.androidauthority.com/chrome-os-privacy-toggle-3316603/)
- - [Burning Shores’ focus makes it the best part of Horizon Forbidden West](https://www.theverge.com/23696078/horizon-forbidden-west-burning-shores-review-dlc)<!-- TECH:END -->
+ - [OnePlus plans to launch the OnePlus Pad, its first tablet, on May 8 for $479, offering a 7:5 144Hz LCD display, MediaTek Dimensity 9000 CPU, 128GB SSD, and more &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230425/p14#a230425p14)
+ - [Adobe Creative Cloud is seeing major issues worldwide](https://appleinsider.com/articles/23/04/25/adobe-creative-cloud-is-seeing-major-issues-worldwide?utm_medium=rss)
+ - [OnePlus Pad pricing revealed: Should Samsung watch out?](https://www.androidauthority.com/oneplus-pad-pricing-3311970/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
