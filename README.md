@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Press the button](http://9gag.com/gag/aWGnKw2)
- - 🚯 [In 2020 a photo album was discovered in a Belgian thrift shop, contained therein were over 60 photographs of some of the most well-known Hollywood stars, all happily smiling having their photo taken with the same woman.](http://9gag.com/gag/aeQZnqQ)
- - 🚯 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)<!-- MEMES:END -->
+ - 🚯 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)
+ - 🚯 [In 2020 a photo album was discovered in a Belgian thrift shop, contained therein were over 60 photographs of some of the most well-known Hollywood stars, all happily smiling having their photo taken with the same woman.](http://9gag.com/gag/aeQZnqQ)<!-- MEMES:END -->
 
 --- 
 
