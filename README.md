@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Funko Pop video game’s first trailer is a descent into pop culture madness](https://www.polygon.com/23696598/funko-pop-video-game-fusion-release-date-trailer)
- - [Netflix reveals every original animated movie set for release in the next two years](https://www.polygon.com/23696595/netflix-new-animated-kids-movies-release-dates-2023-2024)
- - [Epic&#39;s antitrust case against Apple looks dead in the water](https://www.pcgamer.com/epics-antitrust-case-against-apple-looks-dead-in-the-water)<!-- GAME:END -->
+ - [The Witcher season 3 trailer teases the Wild Hunt and a split release date](https://www.polygon.com/23695894/witcher-season-3-trailer-release-date-photos-henry-cavill-last-season-parts)
+ - [Sega nabs Ariana Grande, Rina Sawayama, and Miley Cyrus for new Samba de Amigo](https://www.polygon.com/23696366/samba-de-amigo-party-central-song-list-nintendo-switch)
+ - [Asus ROG Ally launches May 11 with pricing &#39;for sure... below $1,000&#39;](https://www.pcgamer.com/asus-rog-ally-launch-may-11)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
