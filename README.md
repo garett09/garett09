@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Memory overclocking being blamed for AMD Ryzen chips burning themselves to death](https://www.pcgamer.com/memory-overclocking-being-blamed-for-amd-ryzen-chips-burning-themselves-to-death)
- - [Diablo 4&#39;s full version wants twice as much storage as the beta](https://www.pcgamer.com/diablo-4s-full-version-wants-twice-as-much-storage-as-the-beta)
- - [Today&#39;s Wordle hint and answer #675: Tuesday, April 25](https://www.pcgamer.com/wordle-today-hint-answer-675-april-25)<!-- GAME:END -->
+ - [The Funko Pop video game’s first trailer is a descent into pop culture madness](https://www.polygon.com/23696598/funko-pop-video-game-fusion-release-date-trailer)
+ - [Netflix reveals every original animated movie set for release in the next two years](https://www.polygon.com/23696595/netflix-new-animated-kids-movies-release-dates-2023-2024)
+ - [Epic&#39;s antitrust case against Apple looks dead in the water](https://www.pcgamer.com/epics-antitrust-case-against-apple-looks-dead-in-the-water)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
