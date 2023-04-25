@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [Coinbase asks a US federal court to force the SEC to respond to a petition Coinbase filed in July 2022, demanding clearer crypto regulations &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/230424/p22#a230424p22)
  - [On April 23, a Meta ad system glitch caused some campaigns to overspend beyond their daily cost cap; agencies say they have had &quot;next to no feedback&quot; from Meta &lpar;James Hercher/AdExchanger&rpar;](http://www.techmeme.com/230424/p21#a230424p21)
- - [A group of operational technology cybersecurity vendors launches ETHOS, an open-source portal to share early warnings about threats to critical infrastructure &lpar;Christian Vasquez/CyberScoop&rpar;](http://www.techmeme.com/230424/p20#a230424p20)<!-- TECH:END -->
+ - [Best Meta Quest 2 Accessories for 2023     - CNET](https://www.cnet.com/tech/gaming/best-oculus-quest-2-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
