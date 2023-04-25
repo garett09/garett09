@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Unpacked part 2: Here are the latest rumors](https://www.androidauthority.com/samsung-galaxy-unpacked-2023-part-2-3316864/)
- - [This Private Moon Lander Is Kicking Off a Commercial Lunar Race](https://www.wired.com/story/ispace-moon-lander/)
- - [Crazy rumor points to base Galaxy S24 gaining Exynos power &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s24-exynos-rumor-3308718/)<!-- TECH:END -->
+ - [Best iPhone &lpar;2023&rpar;: Which Model Should You Actually Buy?](https://www.wired.com/gallery/iphone-buying-guide/)
+ - [South Korea indicts Terraform Labs co-founder Daniel Shin and nine others on multiple charges and freezes ~$184.7M in assets from them so far &lpar;Bloomberg&rpar;](http://www.techmeme.com/230425/p3#a230425p3)
+ - [Samsung Galaxy Unpacked part 2: Here are the latest rumors](https://www.androidauthority.com/samsung-galaxy-unpacked-2023-part-2-3316864/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
