@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus plans to launch the OnePlus Pad, its first tablet, on May 8 for $479, offering a 7:5 144Hz LCD display, MediaTek Dimensity 9000 CPU, 128GB SSD, and more &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230425/p14#a230425p14)
- - [Adobe Creative Cloud is seeing major issues worldwide](https://appleinsider.com/articles/23/04/25/adobe-creative-cloud-is-seeing-major-issues-worldwide?utm_medium=rss)
- - [OnePlus Pad pricing revealed: Should Samsung watch out?](https://www.androidauthority.com/oneplus-pad-pricing-3311970/)<!-- TECH:END -->
+ - [Who’s making money in Big Tech?](https://www.theverge.com/2023/4/25/23691284/tech-earnings-financial-results-apple-google-tesla)
+ - [OnePlus’ first tablet will cost $479](https://www.theverge.com/2023/4/25/23696448/oneplus-pad-pricing-preorder-shipping-news-accessories)
+ - [Bitcoin is still the future of payments, says Lightspark CEO David Marcus](https://www.theverge.com/23696466/bitcoin-crypto-lightning-network-lightspark-ceo-david-marcus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
