@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher season 3 trailer teases the Wild Hunt and a split release date](https://www.polygon.com/23695894/witcher-season-3-trailer-release-date-photos-henry-cavill-last-season-parts)
- - [Sega nabs Ariana Grande, Rina Sawayama, and Miley Cyrus for new Samba de Amigo](https://www.polygon.com/23696366/samba-de-amigo-party-central-song-list-nintendo-switch)
- - [Asus ROG Ally launches May 11 with pricing &#39;for sure... below $1,000&#39;](https://www.pcgamer.com/asus-rog-ally-launch-may-11)<!-- GAME:END -->
+ - [Experience the Vast Regions of Oceania and the Magnificence of Antarctica in Microsoft Flight Simulator’s Latest World Update](https://news.xbox.com/en-us/2023/04/25/experience-antarctica-in-microsoft-flight-simulators-latest-world-update/)
+ - [Metal Gear Solid meets Tom Clancy in this dark and stylish spy anime](https://www.polygon.com/23696297/genocidal-organ-anime-spy-tv-metal-gear-tom-clancy)
+ - [The Witcher season 3 teaser video reveals June debut date and two-part release schedule](https://www.pcgamer.com/the-witcher-season-3-teaser-video-reveals-june-debut-date-and-two-part-release-schedule)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
