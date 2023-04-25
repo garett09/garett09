@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing is new..](http://9gag.com/gag/aQE701r)
- - 🚯 [Looked like shithousery](http://9gag.com/gag/awZ12g4)
- - 🚯 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)<!-- MEMES:END -->
+ - 🚖 [Noooo](http://9gag.com/gag/a3Z0VbN)
+ - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)
+ - 🚯 [Trump being best president.](http://9gag.com/gag/a4oNDry)<!-- MEMES:END -->
 
 --- 
 
