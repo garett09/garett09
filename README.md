@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title just a](http://9gag.com/gag/aeQZwd5)
- - 🚯 [Nothing is new..](http://9gag.com/gag/aQE701r)
- - 🚯 [Looked like shithousery](http://9gag.com/gag/awZ12g4)<!-- MEMES:END -->
+ - 🚖 [A little trick.](http://9gag.com/gag/az2KpKz)
+ - 🚯 [Dentists hate this parrot.](http://9gag.com/gag/aXnV6qd)
+ - 🚯 [This is pure GOLD!!!](http://9gag.com/gag/aKEvRMQ)<!-- MEMES:END -->
 
 --- 
 
