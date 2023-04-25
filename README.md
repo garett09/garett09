@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy Watch 5 has dropped to a new all-time low](https://www.theverge.com/2023/4/25/23695838/samsung-galaxy-watch-5-m2-macbook-pro-14-google-nest-hub-max-sale)
- - [Google’s Authenticator App Now Lets You Sync 2FA Codes Across Devices](https://www.wired.com/story/google-authenticator-app-sync-phones/)
- - [GM&#39;s Cruise says it is now operating its &quot;small&quot; fleet of driverless robotaxis in San Francisco 24/7, expanding to daylight hours; the unit lost $561M in the Q1 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230425/p21#a230425p21)<!-- TECH:END -->
+ - [Apple seeds third developer beta for macOS Ventura 13.4](https://appleinsider.com/articles/23/04/25/apple-seeds-third-developer-beta-for-macos-ventura-134?utm_medium=rss)
+ - [Lock screen, Apple Music changes now expected for iOS 17](https://appleinsider.com/articles/23/04/25/lock-screen-apple-music-changes-now-expected-for-ios-17?utm_medium=rss)
+ - [Use WhatsApp on up to five smartphones at once, if that’s what you want](https://www.androidauthority.com/whatsapp-two-phones-official-3317100/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
