@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Q3 2023: Windows, devices, and Xbox down again](https://www.theverge.com/2023/4/25/23697649/microsoft-q3-2023-earnings-revenue-profits-windows-xbox-gaming-surface)
- - [Alphabet Announces First Quarter 2023 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/230425/p30#a230425p30)
- - [Microsoft Cloud Strength Drives Third Quarter Results &lpar;Microsoft&rpar;](http://www.techmeme.com/230425/p29#a230425p29)<!-- TECH:END -->
+ - [Alphabet reports Q1 Google ad revenue of $54.55B, vs. $54.66B YoY, the second straight drop following a 3.6% drop in Q4, and the third drop since it went public &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230425/p35#a230425p35)
+ - [You can play all of Jedi: Survivor in bullet time](https://www.theverge.com/2023/4/25/23698101/star-wars-jedi-survivor-accessibility-bullet-time)
+ - [This Microsoft Edge feature is leaking the sites you visit to Bing](https://www.androidauthority.com/microsoft-edge-bing-3317187/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
