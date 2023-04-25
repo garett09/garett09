@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Noooo](http://9gag.com/gag/a3Z0VbN)
- - 🚯 [Title just a](http://9gag.com/gag/aeQZwd5)
- - 🚯 [Trump being best president.](http://9gag.com/gag/a4oNDry)<!-- MEMES:END -->
+ - 🚖 [Should have sung stayin&#39; alive](http://9gag.com/gag/aQE7wQw)
+ - 🚯 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)
+ - 🚯 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)<!-- MEMES:END -->
 
 --- 
 
