@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upcoming Motorola Razr boasts largest cover display amongst its peers](https://www.androidauthority.com/motorola-razr-2023-cover-display-3316858/)
- - [As a cottage industry of Chinese scammers target TikTok, three employees say cleaning up fraudulent content has fallen by the wayside amid a push for growth &lpar;Financial Times&rpar;](http://www.techmeme.com/230425/p1#a230425p1)
- - [With Facebook&#39;s pivot away from news and Twitter&#39;s decay, media outlets return to digital media&#39;s foundational concepts of the early 2000s like homepage traffic &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/230424/p24#a230424p24)<!-- TECH:END -->
+ - [Samsung Galaxy Unpacked part 2: Here are the latest rumors](https://www.androidauthority.com/samsung-galaxy-unpacked-2023-part-2-3316864/)
+ - [This Private Moon Lander Is Kicking Off a Commercial Lunar Race](https://www.wired.com/story/ispace-moon-lander/)
+ - [Crazy rumor points to base Galaxy S24 gaining Exynos power &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s24-exynos-rumor-3308718/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
