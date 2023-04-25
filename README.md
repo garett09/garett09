@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
- - 🚯 [This is pure GOLD!!!](http://9gag.com/gag/aKEvRMQ)
- - 🚯 [Quaker chic](http://9gag.com/gag/ajVLeEw)<!-- MEMES:END -->
+ - 🚖 [Looked like shithousery](http://9gag.com/gag/awZ12g4)
+ - 🚯 [Type 2 for me](http://9gag.com/gag/a5XwOOO)
+ - 🚯 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)<!-- MEMES:END -->
 
 --- 
 
