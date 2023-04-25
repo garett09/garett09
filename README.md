@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
- - 🚯 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)
- - 🚯 [Looked like shithousery](http://9gag.com/gag/awZ12g4)<!-- MEMES:END -->
+ - 🚖 [Double standards](http://9gag.com/gag/aREMYe7)
+ - 🚯 [Craws are wise](http://9gag.com/gag/aWGnrv2)
+ - 🚯 [Noooo](http://9gag.com/gag/a3Z0VbN)<!-- MEMES:END -->
 
 --- 
 
