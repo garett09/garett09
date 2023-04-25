@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is pure GOLD!!!](http://9gag.com/gag/aKEvRMQ)
- - 🚯 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)
- - 🚯 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)<!-- MEMES:END -->
+ - 🚖 [Social help at work.](http://9gag.com/gag/aVbK65P)
+ - 🚯 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)
+ - 🚯 [Whelp](http://9gag.com/gag/ay26wjW)<!-- MEMES:END -->
 
 --- 
 
