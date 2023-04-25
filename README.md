@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI will have a significant impact on the economy, but as with the internet, this impact will be concentrated in information-focused industries and occupations &lpar;Timothy B Lee/Understanding AI&rpar;](http://www.techmeme.com/230425/p4#a230425p4)
- - [We asked, you told us: You use these web browsers on your phone and PC](https://www.androidauthority.com/web-browser-use-phone-pc-poll-results-3316875/)
- - [Best iPhone &lpar;2023&rpar;: Which Model Should You Actually Buy?](https://www.wired.com/gallery/iphone-buying-guide/)<!-- TECH:END -->
+ - [Spotify reports Q1 revenue up 14% YoY to &amp;euro;3B, ad revenue up 17% YoY to &amp;euro;329M, MAUs up 22% YoY to 515M, Premium Subscribers up 15% YoY to 210M, and a &amp;euro;225M loss &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/230425/p6#a230425p6)
+ - [Ford Jump Starts Its Attempt to Revive Detroit](https://www.wired.com/story/ford-jump-starts-its-attempt-to-revive-detroit/)
+ - [BMW adds Digital Key Plus support for Pixel and Samsung devices](https://www.theverge.com/2023/4/25/23697212/bmw-digital-key-plus-support-google-pixel-samsung-galaxy-devices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
