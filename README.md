@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hollywood turned spy fiction’s most hard-boiled killer into Austin Powers](https://www.polygon.com/23695784/matt-helm-books-movies-dean-martin)
- - [Kraven the Hunter has nose-biting, blood-spitting, first hard R-rating for a Sony superhero flick](https://www.polygon.com/23697631/kraven-hunter-movie-rating-rhino-calypso)
- - [The Minecraft x SpongeBob DLC Has Got a Fresh New Update!](https://news.xbox.com/en-us/2023/04/25/minecraft-spongebob-dlc/)<!-- GAME:END -->
+ - [Bonkers Halo Mario Kart Mod Deserves To Be Its Own Game](https://kotaku.com/halo-mcc-mod-mario-kart-warthog-racing-kart-1850374197)
+ - [Rooster Teeth&#39;s RWBY x Justice League Collab Puts Batman&#39;s New Anime Abilities To Good Use](https://kotaku.com/rooster-teeth-warner-bros-batman-justice-league-rwby-1850374030)
+ - [Deep Cover: Polygon’s Spy Issue](https://www.polygon.com/23677546/deep-cover-special-issue-spies-spy-espionage-package)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
