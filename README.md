@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus has been building the ROG Ally for 5 years and here are the hideous prototypes to prove it](https://www.pcgamer.com/asus-has-been-building-the-rog-ally-for-5-years-and-here-are-the-hideous-prototypes-to-prove-it)
- - [Microsoft Flight Simulator Releases the First Aircraft in the New Expert Series – the ATR 42-600 and the ATR 72-600](https://news.xbox.com/en-us/2023/04/25/microsoft-flight-simulator-atr-dlc-expert-series/)
- - [101 things that must be said about 101 Dalmatians](https://www.polygon.com/century-of-disney/23693307/101-dalmatians)<!-- GAME:END -->
+ - [Hollywood turned spy fiction’s most hard-boiled killer into Austin Powers](https://www.polygon.com/23695784/matt-helm-books-movies-dean-martin)
+ - [Kraven the Hunter has nose-biting, blood-spitting, first hard R-rating for a Sony superhero flick](https://www.polygon.com/23697631/kraven-hunter-movie-rating-rhino-calypso)
+ - [The Minecraft x SpongeBob DLC Has Got a Fresh New Update!](https://news.xbox.com/en-us/2023/04/25/minecraft-spongebob-dlc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
