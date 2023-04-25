@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
- - 🚯 [In 2020 a photo album was discovered in a Belgian thrift shop, contained therein were over 60 photographs of some of the most well-known Hollywood stars, all happily smiling having their photo taken with the same woman.](http://9gag.com/gag/aeQZnqQ)
- - 🚯 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)<!-- MEMES:END -->
+ - 🚖 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)
+ - 🚯 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
+ - 🚯 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)<!-- MEMES:END -->
 
 --- 
 
