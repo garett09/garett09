@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Star Wars Jedi: Survivor was built for accessibility](https://www.polygon.com/23697931/star-wars-jedi-survivor-accessibility-controls-difficulty-customization-options)
- - [Rare &#39;90s Pikachu Pokémon Card Sells For A Wild $300K](https://kotaku.com/pokemon-pikachu-trading-card-game-tcg-rare-ebay-price-1850374451)
- - [FTX collapse has done lethal damage to an up-and-coming card game](https://www.pcgamer.com/ftx-collapse-has-done-lethal-damage-to-an-up-and-coming-card-game)<!-- GAME:END -->
+ - [The Flash looks like a great Batman movie](https://www.polygon.com/23698012/flash-trailer-batman-keaton-affleck-whoa)
+ - [Honkai: Star Rail unlock times and release date](https://www.pcgamer.com/honkai-star-rail-launch-time-unlock)
+ - [These new Zelda-themed Switch accessories can glow in the dark](https://www.polygon.com/deals/2023/4/25/23695688/zelda-tears-of-the-kingdom-pdp-rematch-switch-controller-case-sheikah-shoot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
