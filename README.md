@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
- - 🚯 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)
- - 🚯 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)<!-- MEMES:END -->
+ - 🚖 [Press the button](http://9gag.com/gag/aWGnKw2)
+ - 🚯 [In 2020 a photo album was discovered in a Belgian thrift shop, contained therein were over 60 photographs of some of the most well-known Hollywood stars, all happily smiling having their photo taken with the same woman.](http://9gag.com/gag/aeQZnqQ)
+ - 🚯 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)<!-- MEMES:END -->
 
 --- 
 
