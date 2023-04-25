@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Fatal Bear Attack Fuels a Fight Over Rewilding](https://www.wired.com/story/rewilding-italy-bear-attack/)
- - [The Andy Warhol Copyright Case That Could Transform Generative AI](https://www.wired.com/story/andy-warhol-fair-use-prince-generative-ai/)
- - [So Your Kid Wants to Be a Twitch Streamer](https://www.wired.com/story/so-your-kid-wants-to-be-a-twitch-streamer-three-questions/)<!-- TECH:END -->
+ - [VogDUO&#39;s magnetic wireless car charger for iPhone adds class with leather](https://appleinsider.com/articles/23/04/25/vogduos-magnetic-wireless-car-charger-for-iphone-adds-class-with-leather?utm_medium=rss)
+ - [Chrome OS to improve privacy with dedicated toggle for the mic and camera](https://www.androidauthority.com/chrome-os-privacy-toggle-3316603/)
+ - [Burning Shores’ focus makes it the best part of Horizon Forbidden West](https://www.theverge.com/23696078/horizon-forbidden-west-burning-shores-review-dlc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
