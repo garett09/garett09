@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Officials from US agencies including the FTC&#39;s Lina Kahn and the EEOC&#39;s Charlotte Burrows commit to using civil rights laws to fight discrimination in AI &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230425/p27#a230425p27)
- - [The latest viral Drake AI hit is just a repurposed SoundCloud rap](https://www.theverge.com/2023/4/25/23696155/viral-drake-ai-repurposed-soundcloud-rap)
- - [Voyager Digital says Binance.US terminated an agreement to acquire the bankrupt crypto broker for $1B &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230425/p26#a230425p26)<!-- TECH:END -->
+ - [Microsoft Q3 2023: Windows, devices, and Xbox down again](https://www.theverge.com/2023/4/25/23697649/microsoft-q3-2023-earnings-revenue-profits-windows-xbox-gaming-surface)
+ - [Alphabet Announces First Quarter 2023 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/230425/p30#a230425p30)
+ - [Microsoft Cloud Strength Drives Third Quarter Results &lpar;Microsoft&rpar;](http://www.techmeme.com/230425/p29#a230425p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
