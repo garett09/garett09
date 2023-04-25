@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best PSP emulators for Mac](https://www.androidauthority.com/best-psp-emulators-mac-3317067/)
- - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
- - [Update: We won! — The Verge is nominated for three Webby Awards, and you can help us win!](https://www.theverge.com/2023/4/18/23687373/webby-awards-2023-nominations-voting-peoples-voice-vergecast-full-frame)<!-- TECH:END -->
+ - [Officials from US agencies including the FTC&#39;s Lina Kahn and the EEOC&#39;s Charlotte Burrows commit to using civil rights laws to fight discrimination in AI &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/230425/p27#a230425p27)
+ - [The latest viral Drake AI hit is just a repurposed SoundCloud rap](https://www.theverge.com/2023/4/25/23696155/viral-drake-ai-repurposed-soundcloud-rap)
+ - [Voyager Digital says Binance.US terminated an agreement to acquire the bankrupt crypto broker for $1B &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/230425/p26#a230425p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
