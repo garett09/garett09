@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looked like shithousery](http://9gag.com/gag/awZ12g4)
- - 🚯 [Type 2 for me](http://9gag.com/gag/a5XwOOO)
- - 🚯 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)<!-- MEMES:END -->
+ - 🚖 [Title just a](http://9gag.com/gag/aeQZwd5)
+ - 🚯 [Nothing is new..](http://9gag.com/gag/aQE701r)
+ - 🚯 [Looked like shithousery](http://9gag.com/gag/awZ12g4)<!-- MEMES:END -->
 
 --- 
 
