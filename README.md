@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)
- - 🚯 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
- - 🚯 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)<!-- MEMES:END -->
+ - 🚖 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
+ - 🚯 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)
+ - 🚯 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)<!-- MEMES:END -->
 
 --- 
 
