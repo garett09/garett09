@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Social help at work.](http://9gag.com/gag/aVbK65P)
- - 🚯 [Can anybody explain this for me?](http://9gag.com/gag/amA6Zxj)
- - 🚯 [Whelp](http://9gag.com/gag/ay26wjW)<!-- MEMES:END -->
+ - 🚯 [Whelp](http://9gag.com/gag/ay26wjW)
+ - 🚯 [Type 2 for me](http://9gag.com/gag/a5XwOOO)<!-- MEMES:END -->
 
 --- 
 
