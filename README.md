@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Experience the Vast Regions of Oceania and the Magnificence of Antarctica in Microsoft Flight Simulator’s Latest World Update](https://news.xbox.com/en-us/2023/04/25/experience-antarctica-in-microsoft-flight-simulators-latest-world-update/)
- - [Metal Gear Solid meets Tom Clancy in this dark and stylish spy anime](https://www.polygon.com/23696297/genocidal-organ-anime-spy-tv-metal-gear-tom-clancy)
- - [The Witcher season 3 teaser video reveals June debut date and two-part release schedule](https://www.pcgamer.com/the-witcher-season-3-teaser-video-reveals-june-debut-date-and-two-part-release-schedule)<!-- GAME:END -->
+ - [Asus has been building the ROG Ally for 5 years and here are the hideous prototypes to prove it](https://www.pcgamer.com/asus-has-been-building-the-rog-ally-for-5-years-and-here-are-the-hideous-prototypes-to-prove-it)
+ - [Microsoft Flight Simulator Releases the First Aircraft in the New Expert Series – the ATR 42-600 and the ATR 72-600](https://news.xbox.com/en-us/2023/04/25/microsoft-flight-simulator-atr-dlc-expert-series/)
+ - [101 things that must be said about 101 Dalmatians](https://www.polygon.com/century-of-disney/23693307/101-dalmatians)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
