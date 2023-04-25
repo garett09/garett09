@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify reports Q1 revenue up 14% YoY to &amp;euro;3B, ad revenue up 17% YoY to &amp;euro;329M, MAUs up 22% YoY to 515M, Premium Subscribers up 15% YoY to 210M, and a &amp;euro;225M loss &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/230425/p6#a230425p6)
- - [Ford Jump Starts Its Attempt to Revive Detroit](https://www.wired.com/story/ford-jump-starts-its-attempt-to-revive-detroit/)
- - [BMW adds Digital Key Plus support for Pixel and Samsung devices](https://www.theverge.com/2023/4/25/23697212/bmw-digital-key-plus-support-google-pixel-samsung-galaxy-devices)<!-- TECH:END -->
+ - [A Fatal Bear Attack Fuels a Fight Over Rewilding](https://www.wired.com/story/rewilding-italy-bear-attack/)
+ - [The Andy Warhol Copyright Case That Could Transform Generative AI](https://www.wired.com/story/andy-warhol-fair-use-prince-generative-ai/)
+ - [So Your Kid Wants to Be a Twitch Streamer](https://www.wired.com/story/so-your-kid-wants-to-be-a-twitch-streamer-three-questions/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
