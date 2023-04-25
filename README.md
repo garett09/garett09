@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI&#39;s new drone has a triple-camera system for photography &amp; video work](https://appleinsider.com/articles/23/04/25/dji-releases-a-triple-camera-system-on-a-new-drone-for-photographers?utm_medium=rss)
- - [Adobe Creative Cloud saw major issues worldwide on April 25](https://appleinsider.com/articles/23/04/25/adobe-creative-cloud-is-seeing-major-issues-worldwide?utm_medium=rss)
- - [Jamf updates add secure logins &amp; safe internet access for enterprise customers](https://appleinsider.com/articles/23/04/25/jamf-updates-add-secure-logins-safe-internet-access-for-enterprise-customers?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s Galaxy Watch 5 has dropped to a new all-time low](https://www.theverge.com/2023/4/25/23695838/samsung-galaxy-watch-5-m2-macbook-pro-14-google-nest-hub-max-sale)
+ - [Google’s Authenticator App Now Lets You Sync 2FA Codes Across Devices](https://www.wired.com/story/google-authenticator-app-sync-phones/)
+ - [GM&#39;s Cruise says it is now operating its &quot;small&quot; fleet of driverless robotaxis in San Francisco 24/7, expanding to daylight hours; the unit lost $561M in the Q1 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230425/p21#a230425p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
