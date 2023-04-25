@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet reports Q1 Google ad revenue of $54.55B, vs. $54.66B YoY, the second straight drop following a 3.6% drop in Q4, and the third drop since it went public &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230425/p35#a230425p35)
- - [You can play all of Jedi: Survivor in bullet time](https://www.theverge.com/2023/4/25/23698101/star-wars-jedi-survivor-accessibility-bullet-time)
- - [This Microsoft Edge feature is leaking the sites you visit to Bing](https://www.androidauthority.com/microsoft-edge-bing-3317187/)<!-- TECH:END -->
+ - [In the latest macOS Ventura beta, Apple removed the Virtual Scanner II app that contained a copy of Satoshi Nakamoto&#39;s Bitcoin whitepaper &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230425/p38#a230425p38)
+ - [Inside Meta&#39;s scramble to catch up on AI: slow to adopt pricey AI-optimized systems, scrapping a custom AI chip for a more ambitious model in 2025, and more &lpar;Reuters&rpar;](http://www.techmeme.com/230425/p37#a230425p37)
+ - [The best SNES emulators for PC and Mac](https://www.androidauthority.com/best-snes-emulators-pc-mac-3317170/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
