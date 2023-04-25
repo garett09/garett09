@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Double standards](http://9gag.com/gag/aREMYe7)
- - 🚯 [Craws are wise](http://9gag.com/gag/aWGnrv2)
- - 🚯 [Noooo](http://9gag.com/gag/a3Z0VbN)<!-- MEMES:END -->
+ - 🚖 [Nothing is new..](http://9gag.com/gag/aQE701r)
+ - 🚯 [Looked like shithousery](http://9gag.com/gag/awZ12g4)
+ - 🚯 [Wanted to surprise dad by cleaning snow](http://9gag.com/gag/aYVD5Qx)<!-- MEMES:END -->
 
 --- 
 
