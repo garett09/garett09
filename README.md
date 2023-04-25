@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds third developer beta for macOS Ventura 13.4](https://appleinsider.com/articles/23/04/25/apple-seeds-third-developer-beta-for-macos-ventura-134?utm_medium=rss)
- - [Lock screen, Apple Music changes now expected for iOS 17](https://appleinsider.com/articles/23/04/25/lock-screen-apple-music-changes-now-expected-for-ios-17?utm_medium=rss)
- - [Use WhatsApp on up to five smartphones at once, if that’s what you want](https://www.androidauthority.com/whatsapp-two-phones-official-3317100/)<!-- TECH:END -->
+ - [The best PSP emulators for Mac](https://www.androidauthority.com/best-psp-emulators-mac-3317067/)
+ - [Twitter alternatives for the Musk-averse](https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost)
+ - [Update: We won! — The Verge is nominated for three Webby Awards, and you can help us win!](https://www.theverge.com/2023/4/18/23687373/webby-awards-2023-nominations-voting-peoples-voice-vergecast-full-frame)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
