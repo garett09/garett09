@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Press the button](http://9gag.com/gag/aWGnKw2)
- - 🚯 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
- - 🚯 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)<!-- MEMES:END -->
+ - 🚖 [She just wanted to return the shoes](http://9gag.com/gag/a9q53mm)
+ - 🚯 [Type 2 for me](http://9gag.com/gag/a5XwOOO)
+ - 🚯 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)<!-- MEMES:END -->
 
 --- 
 
