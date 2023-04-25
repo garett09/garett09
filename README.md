@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bonkers Halo Mario Kart Mod Deserves To Be Its Own Game](https://kotaku.com/halo-mcc-mod-mario-kart-warthog-racing-kart-1850374197)
- - [Rooster Teeth&#39;s RWBY x Justice League Collab Puts Batman&#39;s New Anime Abilities To Good Use](https://kotaku.com/rooster-teeth-warner-bros-batman-justice-league-rwby-1850374030)
- - [Deep Cover: Polygon’s Spy Issue](https://www.polygon.com/23677546/deep-cover-special-issue-spies-spy-espionage-package)<!-- GAME:END -->
+ - [How Star Wars Jedi: Survivor was built for accessibility](https://www.polygon.com/23697931/star-wars-jedi-survivor-accessibility-controls-difficulty-customization-options)
+ - [Rare &#39;90s Pikachu Pokémon Card Sells For A Wild $300K](https://kotaku.com/pokemon-pikachu-trading-card-game-tcg-rare-ebay-price-1850374451)
+ - [FTX collapse has done lethal damage to an up-and-coming card game](https://www.pcgamer.com/ftx-collapse-has-done-lethal-damage-to-an-up-and-coming-card-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
