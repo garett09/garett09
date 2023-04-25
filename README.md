@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She just wanted to return the shoes](http://9gag.com/gag/a9q53mm)
- - 🚯 [Type 2 for me](http://9gag.com/gag/a5XwOOO)
- - 🚯 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)<!-- MEMES:END -->
+ - 🚖 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
+ - 🚯 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
+ - 🚯 [In 2020 a photo album was discovered in a Belgian thrift shop, contained therein were over 60 photographs of some of the most well-known Hollywood stars, all happily smiling having their photo taken with the same woman.](http://9gag.com/gag/aeQZnqQ)<!-- MEMES:END -->
 
 --- 
 
