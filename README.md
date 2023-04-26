@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
- - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
- - 🚯 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)<!-- MEMES:END -->
+ - 🚖 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)
+ - 🚯 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
+ - 🚯 [Skydiving baby](http://9gag.com/gag/a1P095b)<!-- MEMES:END -->
 
 --- 
 
