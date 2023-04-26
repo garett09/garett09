@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
- - 🚯 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
- - 🚯 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)<!-- MEMES:END -->
+ - 🚖 [Man charges into giant dust devil](http://9gag.com/gag/awZLNMB)
+ - 🚯 [Press the button](http://9gag.com/gag/aWGnKw2)
+ - 🚯 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)<!-- MEMES:END -->
 
 --- 
 
