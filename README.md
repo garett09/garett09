@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA blocks Microsoft from completing its $68.7B Activision Blizzard acquisition, citing concerns about competition and innovation in the UK gaming market &lpar;GOV.UK&rpar;](http://www.techmeme.com/230426/p10#a230426p10)
- - [Our favorite bands for Apple Watch Ultra in spring 2023](https://appleinsider.com/inside/apple-watch-ultra/best/our-favorite-bands-for-apple-watch-ultra-in-spring-2023?utm_medium=rss)
- - [How Microsoft&#39;s Bing Chatbot Came to Be—and Where It&#39;s Going Next](https://www.wired.com/story/how-microsofts-bing-chatbot-came-to-be-and-where-its-going-next/)<!-- TECH:END -->
+ - [Apple headset factories rumored to be in &#39;final sprint&#39; with WWDC announcement expected](https://appleinsider.com/articles/23/04/26/apple-headset-factories-rumored-to-be-in-final-sprint-with-wwdc-announcement-expected?utm_medium=rss)
+ - [Where have all the spy gadgets gone?](https://www.theverge.com/23679275/spy-gadgets-bond-kingsman-hacker)
+ - [Extend Your Smartwatch’s Battery Life With These Tips &lpar;2023&rpar;](https://www.wired.com/story/smartwatch-battery-life-tips/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
