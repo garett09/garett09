@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Zelda: Tears of the Kingdom pre-order guide](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
- - [Paleo Pines Will Make Your Dino-Dreams Come True on Xbox](https://news.xbox.com/en-us/2023/04/26/paleo-pines-coming-to-xbox/)
- - [Zelda: Tears of the Kingdom is a playground for goblins](https://www.polygon.com/23697960/zelda-tears-kingdom-preview-release-date)<!-- GAME:END -->
+ - [Decoding the Rosetta Stone of spy movies](https://www.polygon.com/23689643/fritz-lang-spione-great-spy-movies)
+ - [Gran Turismo 7 Update 1.32 going live today with 4 new cars, two Extra Menus for GT Café, and Scapes locations](https://blog.playstation.com/2023/04/26/gran-turismo-7-update-1-32-going-live-today-with-4-new-cars-two-extra-menus-for-gt-cafe-and-scapes-locations/)
+ - [Bite Back! Introducing Redfall Limited Edition Controllers with Xbox Design Lab](https://news.xbox.com/en-us/2023/04/26/redfall-limited-edition-controllers-xbox-design-lab/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
