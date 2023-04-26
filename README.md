@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is making it much easier to search for tools in Docs, Sheets, and Slides](https://www.theverge.com/2023/4/26/23698756/google-workspace-docs-sheets-slides-search-bar-tool-finder)
- - [Samsung’s Galaxy Z Fold 5 could be far thinner while folded](https://www.theverge.com/2023/4/26/23698748/samsung-galaxy-z-fold-5-weight-dimensions-leak)
- - [TikTok Shop is thriving in Indonesia, TikTok&#39;s second-biggest market with an estimated 110M users; Data.ai: the Shop seller app has ~5.5M Indonesian downloads &lpar;Aisyah Llewellyn/Rest of World&rpar;](http://www.techmeme.com/230426/p5#a230426p5)<!-- TECH:END -->
+ - [A look at Warhol Foundation v. Goldsmith, a fair use case before SCOTUS that could impact how copyright law is applied to AI tools&#39; use of human-made works &lpar;Madeline Ashby/Wired&rpar;](http://www.techmeme.com/230426/p8#a230426p8)
+ - [The new Onyx Boox Tab Ultra C is a color E Ink tablet with a 16-megapixel rear camera](https://www.theverge.com/2023/4/26/23693301/onyx-boox-tab-ultra-c-e-ink-tablet-e-reader-kindle-kobo)
+ - [Samsung Galaxy S24 cameras tipped to bring major photography boost](https://www.androidauthority.com/samsung-galaxy-s24-series-cameras-3317349/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
