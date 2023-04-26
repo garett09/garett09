@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
- - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
- - 🚯 [Imagine getting horny and looking like that.](http://9gag.com/gag/adPnyxQ)<!-- MEMES:END -->
+ - 🚖 [Ai Generated Pizza Commercial](http://9gag.com/gag/aYVD8Wx)
+ - 🚯 [How to drink whiskey like a sir](http://9gag.com/gag/abv49vv)
+ - 🚯 [A baby rhino playfully charging a wildebeest before retreating to its mom](http://9gag.com/gag/a5XGeeO)<!-- MEMES:END -->
 
 --- 
 
