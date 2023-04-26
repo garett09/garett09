@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Jedi: Survivor Basically Has A Matrix-Style Slow-Mo Mode](https://kotaku.com/star-wars-jedi-survivor-knight-2-accessibility-difficul-1850378582)
- - [My Time at Sandrock Launches Summer 2023 on Xbox](https://news.xbox.com/en-us/2023/04/26/my-time-at-sandrock-launches-summer-2023/)
- - [Gotham Knights Six Months Later: Better, But Still Mid](https://kotaku.com/gotham-knights-batman-batgirl-nightwing-dlc-wb-games-1850378621)<!-- GAME:END -->
+ - [Enter The Duviri Paradox Today on Xbox with Warframe’s Newest Free Expansion](https://news.xbox.com/en-us/2023/04/26/enter-the-duviri-paradox-today-with-warframe-free-expansion/)
+ - [There is a world of movies continuing Evil Dead’s splattery legacy](https://www.polygon.com/what-to-watch/23696457/horror-movies-like-evil-dead-around-world)
+ - [For Mother’s Day, here are 19 great gift ideas](https://www.polygon.com/deals/23674067/mothers-day-gift-ideas)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
