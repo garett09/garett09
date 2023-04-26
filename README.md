@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ai Generated Pizza Commercial](http://9gag.com/gag/aYVD8Wx)
- - 🚯 [How to drink whiskey like a sir](http://9gag.com/gag/abv49vv)
- - 🚯 [A baby rhino playfully charging a wildebeest before retreating to its mom](http://9gag.com/gag/a5XGeeO)<!-- MEMES:END -->
+ - 🚖 [How to drink whiskey like a sir](http://9gag.com/gag/abv49vv)
+ - 🚯 [A baby rhino playfully charging a wildebeest before retreating to its mom](http://9gag.com/gag/a5XGeeO)
+ - 🚯 [France VS Italy](http://9gag.com/gag/avQ6bMO)<!-- MEMES:END -->
 
 --- 
 
