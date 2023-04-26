@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Green Hell – Animal Husbandry Free Update is Available Now on Xbox](https://news.xbox.com/en-us/2023/04/26/green-hell-animal-husbandry-update-available-on-xbox/)
- - [Zelda: Tears of the Kingdom Has Gacha Now, Which Is Deeply Funny](https://kotaku.com/zelda-tears-of-the-kingdom-switch-gacha-gameplay-zonai-1850378276)
- - [3 decades after the first game, Flashback 2 has a release window](https://www.pcgamer.com/3-decades-after-the-first-game-flashback-2-has-a-release-window)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor Basically Has A Matrix-Style Slow-Mo Mode](https://kotaku.com/star-wars-jedi-survivor-knight-2-accessibility-difficul-1850378582)
+ - [My Time at Sandrock Launches Summer 2023 on Xbox](https://news.xbox.com/en-us/2023/04/26/my-time-at-sandrock-launches-summer-2023/)
+ - [Gotham Knights Six Months Later: Better, But Still Mid](https://kotaku.com/gotham-knights-batman-batgirl-nightwing-dlc-wb-games-1850378621)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
