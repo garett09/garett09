@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Press the button](http://9gag.com/gag/aWGnKw2)
- - 🚯 [You get what you fckin&#39; deserve.](http://9gag.com/gag/axobNK2)
- - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)<!-- MEMES:END -->
+ - 🚖 [Abdul Himullah speech](http://9gag.com/gag/aWGvZEx)
+ - 🚯 [Dutch opera singer Henk Poort - The Sound of Silence](http://9gag.com/gag/a7qV5om)
+ - 🚯 [How to argue with a hollow head feminist](http://9gag.com/gag/aOxDqb2)<!-- MEMES:END -->
 
 --- 
 
