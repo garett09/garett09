@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jedi: Survivor is still the best Star Wars wish fulfillment](https://www.theverge.com/23697355/star-wars-jedi-survivor-review-ps5-xbox-pc)
- - [Netflix is getting a beautiful new wingsuit game on May 2nd](https://www.theverge.com/2023/4/26/23697635/layas-horizon-game-release-date-trailer-netflix)
- - [PricewaterhouseCoopers plans to invest $1B in generative AI in its US operations over the next three years, working with Microsoft and OpenAI &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/230426/p15#a230426p15)<!-- TECH:END -->
+ - [Astropad Studio is improving video performance for iPad artists](https://appleinsider.com/articles/23/04/26/astropad-studio-is-improving-video-performance-for-ipad-artists?utm_medium=rss)
+ - [Humanity is a throwback to the weird, wild world of early PlayStation games](https://www.theverge.com/2023/4/26/23698909/humanity-preview-ps5-pc-vr)
+ - [Netflix’s sixth season of Black Mirror will be out in June, and here’s the first teaser](https://www.theverge.com/23699097/netflix-black-mirror-sixth-season-teaser-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
