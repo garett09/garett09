@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Enter The Duviri Paradox Today on Xbox with Warframe’s Newest Free Expansion](https://news.xbox.com/en-us/2023/04/26/enter-the-duviri-paradox-today-with-warframe-free-expansion/)
- - [There is a world of movies continuing Evil Dead’s splattery legacy](https://www.polygon.com/what-to-watch/23696457/horror-movies-like-evil-dead-around-world)
- - [For Mother’s Day, here are 19 great gift ideas](https://www.polygon.com/deals/23674067/mothers-day-gift-ideas)<!-- GAME:END -->
+ - [Brutal John Wick descendant Sisu promises more than it can deliver](https://www.polygon.com/reviews/23698246/sisu-review-movie-finland-action-john-wick)
+ - [Diablo IV&#39;s Mounts Are Off Limits Until You Beat The Campaign](https://kotaku.com/diablo-4-mounts-stress-test-may-12-server-slam-blizzard-1850379488)
+ - [These Are The Best Dead Island 2 Weapons](https://kotaku.com/dead-island-2-best-weapons-tips-ps5-side-quest-1850379382)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
