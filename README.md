@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s commerce minister urges e-commerce companies to use their marquee apps to join the Open Network for Digital Commerce or face exclusion from the network &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230426/p1#a230426p1)
- - [Tinder is implementing video verification to further curb creepy scammers](https://www.theverge.com/2023/4/26/23698503/tinder-video-selfie-verification-security)
- - [Hands-on with Asus&#39; ROG Ally, a handheld Windows gaming machine launching May 11 that can be a strong Steam Deck competitor depending on the price and software &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230425/p46#a230425p46)<!-- TECH:END -->
+ - [It looks like Apple copied a feature from Nothing for upcoming earbuds](https://www.androidauthority.com/beats-studio-buds-plus-transparent-design-nothing-3317322/)
+ - [Sources: Tencent is boosting investment in gaming studios abroad, primarily in Europe, to diversify away from China despite the improving regulatory conditions &lpar;Financial Times&rpar;](http://www.techmeme.com/230426/p3#a230426p3)
+ - [A look at the waning crypto hype in Africa, as consumer trust fades, startups shut down, and Web3 workers reconsider their careers after FTX&#39;s fallout &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/230426/p2#a230426p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
