@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
- - 🚯 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
- - 🚯 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)<!-- MEMES:END -->
+ - 🚖 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
+ - 🚯 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
+ - 🚯 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)<!-- MEMES:END -->
 
 --- 
 
