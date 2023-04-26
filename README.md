@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to drink whiskey like a sir](http://9gag.com/gag/abv49vv)
- - 🚯 [A baby rhino playfully charging a wildebeest before retreating to its mom](http://9gag.com/gag/a5XGeeO)
- - 🚯 [France VS Italy](http://9gag.com/gag/avQ6bMO)<!-- MEMES:END -->
+ - 🚖 [Nothing is new..](http://9gag.com/gag/aQE701r)
+ - 🚯 [Type 2 for me](http://9gag.com/gag/a5XwOOO)
+ - 🚯 [Press the button](http://9gag.com/gag/aWGnKw2)<!-- MEMES:END -->
 
 --- 
 
