@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Astropad Studio is improving video performance for iPad artists](https://appleinsider.com/articles/23/04/26/astropad-studio-is-improving-video-performance-for-ipad-artists?utm_medium=rss)
- - [Humanity is a throwback to the weird, wild world of early PlayStation games](https://www.theverge.com/2023/4/26/23698909/humanity-preview-ps5-pc-vr)
- - [Netflix’s sixth season of Black Mirror will be out in June, and here’s the first teaser](https://www.theverge.com/23699097/netflix-black-mirror-sixth-season-teaser-trailer)<!-- TECH:END -->
+ - [Japanese-language Super Mario Bros. Movie screenings are a-coming to the US](https://www.theverge.com/2023/4/26/23699024/super-mario-bros-movie-japanese-dub-screening)
+ - [Using iMessage with Windows 11 is coming in mid-May thanks to Phone Link](https://www.androidauthority.com/phone-link-iphone-3317453/)
+ - [Security researchers warn against using Google Authenticator’s new feature](https://www.androidauthority.com/google-authenticator-feature-3317441/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
