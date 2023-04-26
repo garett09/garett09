@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Decoding the Rosetta Stone of spy movies](https://www.polygon.com/23689643/fritz-lang-spione-great-spy-movies)
- - [Gran Turismo 7 Update 1.32 going live today with 4 new cars, two Extra Menus for GT Café, and Scapes locations](https://blog.playstation.com/2023/04/26/gran-turismo-7-update-1-32-going-live-today-with-4-new-cars-two-extra-menus-for-gt-cafe-and-scapes-locations/)
- - [Bite Back! Introducing Redfall Limited Edition Controllers with Xbox Design Lab](https://news.xbox.com/en-us/2023/04/26/redfall-limited-edition-controllers-xbox-design-lab/)<!-- GAME:END -->
+ - [Stances, Force, and custom lightsabers: All you need to know about Star Wars Jedi: Survivor’s improved combat](https://blog.playstation.com/2023/04/26/stances-force-and-custom-lightsabers-all-you-need-to-know-about-star-wars-jedi-survivors-improved-combat/)
+ - [Star Wars Jedi: Survivor review](https://www.pcgamer.com/star-wars-jedi-survivor-review)
+ - [How Star Wars Jedi: Survivor Breaks the Metroidvania Mold](https://news.xbox.com/en-us/2023/04/26/star-wars-jedi-survivor-breaks-the-metroidvania-mold/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
