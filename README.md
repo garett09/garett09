@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 9 months, Warzone 2&#39;s chillest mode returns to the game today](https://www.pcgamer.com/after-9-months-warzone-2s-chillest-mode-returns-to-the-game-today)
- - [UK regulators block Microsoft&#39;s Activision acquisition in potentially fatal surprise blow](https://www.pcgamer.com/uk-regulators-block-microsofts-activision-acquisition-in-potentially-fatal-surprise-blow)
- - [UK regulator blocks $68.7B Microsoft-Activision deal](https://www.polygon.com/23698816/microsoft-activision-blizzard-deal-uk-cma-block)<!-- GAME:END -->
+ - [The Legend of Zelda: Tears of the Kingdom pre-order guide](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
+ - [Paleo Pines Will Make Your Dino-Dreams Come True on Xbox](https://news.xbox.com/en-us/2023/04/26/paleo-pines-coming-to-xbox/)
+ - [Zelda: Tears of the Kingdom is a playground for goblins](https://www.polygon.com/23697960/zelda-tears-kingdom-preview-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
