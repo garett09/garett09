@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Press the button](http://9gag.com/gag/aWGnKw2)
- - 🚯 [In 2020 a photo album was discovered in a Belgian thrift shop, contained therein were over 60 photographs of some of the most well-known Hollywood stars, all happily smiling having their photo taken with the same woman.](http://9gag.com/gag/aeQZnqQ)
- - 🚯 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)<!-- MEMES:END -->
+ - 🚖 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
+ - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
+ - 🚯 [Imagine getting horny and looking like that.](http://9gag.com/gag/adPnyxQ)<!-- MEMES:END -->
 
 --- 
 
