@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon plans to speed up rural 5G service later this year](https://www.theverge.com/2023/4/26/23698891/verizon-cband-ultra-wideband-5g-network-expansion-rural-suburban)
- - [The Best Eco-Friendly Cleaning Products &lpar;2023&rpar;: For Kitchens, Bathrooms, and Laundry](https://www.wired.com/story/eco-friendly-natural-cleaning-products/)
- - [Daily Deals April 26: $250 off new MacBook Pro, $99 iPhone SE, $39 Beats Flex Earbuds, more](https://appleinsider.com/articles/23/04/26/daily-deals-april-26-250-off-new-macbook-pro-99-iphone-se-39-beats-flex-earbuds-more?utm_medium=rss)<!-- TECH:END -->
+ - [Jedi: Survivor is still the best Star Wars wish fulfillment](https://www.theverge.com/23697355/star-wars-jedi-survivor-review-ps5-xbox-pc)
+ - [Netflix is getting a beautiful new wingsuit game on May 2nd](https://www.theverge.com/2023/4/26/23697635/layas-horizon-game-release-date-trailer-netflix)
+ - [PricewaterhouseCoopers plans to invest $1B in generative AI in its US operations over the next three years, working with Microsoft and OpenAI &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/230426/p15#a230426p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
