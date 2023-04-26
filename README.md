@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok Shop is thriving in Indonesia, TikTok&#39;s second-biggest market with an estimated 110M users; Data.ai: the Shop seller app has ~5.5M Indonesian downloads &lpar;Aisyah Llewellyn/Rest of World&rpar;](http://www.techmeme.com/230426/p5#a230426p5)
  - [Alibaba Cloud plans to cut its core product costs by up to 50% from May 7; it has received 200K+ requests to join the beta trial of its Tongyi Qianwen AI model &lpar;Bloomberg&rpar;](http://www.techmeme.com/230426/p4#a230426p4)
- - [Latest Pixel 7a press renders leave little to the imagination](https://www.androidauthority.com/google-pixel-7a-press-renders-3317320/)
- - [It looks like Apple copied a feature from Nothing for upcoming earbuds](https://www.androidauthority.com/beats-studio-buds-plus-transparent-design-nothing-3317322/)<!-- TECH:END -->
+ - [Latest Pixel 7a press renders leave little to the imagination](https://www.androidauthority.com/google-pixel-7a-press-renders-3317320/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
