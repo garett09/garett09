@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
- - 🚯 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)
- - 🚯 [Skydiving baby](http://9gag.com/gag/a1P095b)<!-- MEMES:END -->
+ - 🚖 [Press the button](http://9gag.com/gag/aWGnKw2)
+ - 🚯 [You get what you fckin&#39; deserve.](http://9gag.com/gag/axobNK2)
+ - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)<!-- MEMES:END -->
 
 --- 
 
