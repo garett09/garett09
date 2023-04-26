@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing is new..](http://9gag.com/gag/aQE701r)
- - 🚯 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
- - 🚯 [Press the button](http://9gag.com/gag/aWGnKw2)<!-- MEMES:END -->
+ - 🚖 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
+ - 🚯 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
+ - 🚯 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)<!-- MEMES:END -->
 
 --- 
 
