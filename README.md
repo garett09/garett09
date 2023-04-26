@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple headset factories rumored to be in &#39;final sprint&#39; with WWDC announcement expected](https://appleinsider.com/articles/23/04/26/apple-headset-factories-rumored-to-be-in-final-sprint-with-wwdc-announcement-expected?utm_medium=rss)
- - [Where have all the spy gadgets gone?](https://www.theverge.com/23679275/spy-gadgets-bond-kingsman-hacker)
- - [Extend Your Smartwatch’s Battery Life With These Tips &lpar;2023&rpar;](https://www.wired.com/story/smartwatch-battery-life-tips/)<!-- TECH:END -->
+ - [TSMC struggling with early yields of A17 and M3 processors](https://appleinsider.com/articles/23/04/26/tsmc-struggling-with-early-yields-of-a17-and-m3-processors?utm_medium=rss)
+ - [Lenovo announces the Lenovo ThinkPhone by Motorola, available for $699 with ThinkPad-compatible productivity features, coming first to enterprise on April 28 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230426/p13#a230426p13)
+ - [The BLUETTI AC60 portable power station is the ideal outdoor companion](https://www.androidauthority.com/the-bluetti-ac60-portable-power-station-is-the-ideal-outdoor-companion-3315537/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
