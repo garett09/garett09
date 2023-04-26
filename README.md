@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail redemption codes for April 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [Honkai: Star Rail Herta Space Station treasure locations and map](https://www.polygon.com/honkai-star-rail-guides/23627457/herta-space-station-treasure-locations-map-warp-trotter-puzzles-challenges)
- - [Humanity takes the idea &#39;Lemmings but with people&#39; and turns it into something profound](https://www.pcgamer.com/humanity-takes-the-idea-lemmings-but-with-people-and-turns-it-into-something-profound)<!-- GAME:END -->
+ - [Green Hell – Animal Husbandry Free Update is Available Now on Xbox](https://news.xbox.com/en-us/2023/04/26/green-hell-animal-husbandry-update-available-on-xbox/)
+ - [Zelda: Tears of the Kingdom Has Gacha Now, Which Is Deeply Funny](https://kotaku.com/zelda-tears-of-the-kingdom-switch-gacha-gameplay-zonai-1850378276)
+ - [3 decades after the first game, Flashback 2 has a release window](https://www.pcgamer.com/3-decades-after-the-first-game-flashback-2-has-a-release-window)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
