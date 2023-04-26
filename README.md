@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
- - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
+ - 🚖 [Skydiving baby](http://9gag.com/gag/a1P095b)
+ - 🚯 [Imagine getting horny and looking like that.](http://9gag.com/gag/adPnyxQ)
  - 🚯 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)<!-- MEMES:END -->
 
 --- 
