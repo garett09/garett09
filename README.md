@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stances, Force, and custom lightsabers: All you need to know about Star Wars Jedi: Survivor’s improved combat](https://blog.playstation.com/2023/04/26/stances-force-and-custom-lightsabers-all-you-need-to-know-about-star-wars-jedi-survivors-improved-combat/)
- - [Star Wars Jedi: Survivor review](https://www.pcgamer.com/star-wars-jedi-survivor-review)
- - [How Star Wars Jedi: Survivor Breaks the Metroidvania Mold](https://news.xbox.com/en-us/2023/04/26/star-wars-jedi-survivor-breaks-the-metroidvania-mold/)<!-- GAME:END -->
+ - [Honkai: Star Rail redemption codes for April 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [Honkai: Star Rail Herta Space Station treasure locations and map](https://www.polygon.com/honkai-star-rail-guides/23627457/herta-space-station-treasure-locations-map-warp-trotter-puzzles-challenges)
+ - [Humanity takes the idea &#39;Lemmings but with people&#39; and turns it into something profound](https://www.pcgamer.com/humanity-takes-the-idea-lemmings-but-with-people-and-turns-it-into-something-profound)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
