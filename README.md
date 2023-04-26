@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome To Hell! Here’s A Trailer For A Funko Pop Game](https://kotaku.com/funko-fusion-pop-new-game-chucky-jurassic-park-landfill-1850375748)
- - [Microsoft Is Struggling To Sell Xboxes, Again](https://kotaku.com/xbox-series-x-s-sales-microsoft-next-gen-exclusives-1850375665)
- - [Trombone Champ gets truly nasty, adds the hellish Flight of the Bumblebee](https://www.pcgamer.com/trombone-champ-gets-truly-nasty-adds-the-hellish-flight-of-the-bumblebee)<!-- GAME:END -->
+ - [Wartales Is A Game For Anyone Who Wants To Go On A Big Adventure](https://kotaku.com/wartales-impressions-pc-rpg-turn-based-mercenary-sim-1850360876)
+ - [Square Enix Releases &#39;AI&#39; Game, Reviews Throw It In The Trash](https://kotaku.com/square-enix-ai-machine-learning-steam-pc-reviews-bad-1850375824)
+ - [Welcome To Hell! Here’s A Trailer For A Funko Pop Game](https://kotaku.com/funko-fusion-pop-new-game-chucky-jurassic-park-landfill-1850375748)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
