@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Motorola Razr’s massive cover screen is on full display in new leak](https://www.androidauthority.com/motorola-razr-cover-3317489/)
- - [Here’s how you can preorder the new Zelda for $49.99](https://www.theverge.com/2023/2/9/23592523/zelda-tears-kingdom-preorder-nintendo-voucher-advance-wars-deal-sale)
- - [Aqara FP2 presence sensor review: The only HomeKit occupancy sensor](https://appleinsider.com/articles/23/04/26/aqara-fp2-presence-sensor-review-the-only-homekit-occupancy-sensor?utm_medium=rss)<!-- TECH:END -->
+ - [Android 14 beta 1.1 is here to fix some bugs seen with the original beta](https://www.androidauthority.com/android-14-beta-1-1-3317599/)
+ - [Microsoft’s Cloud Gaming Dreams Are Falling Apart](https://www.wired.com/story/microsoft-activision-blizzard-deal-blocked/)
+ - [SpaceX’s Starship blew up after launch — it also caused ‘catastrophic’ damage on the ground](https://www.theverge.com/2023/4/26/23699365/spacex-starship-damage-launch-pad-debris)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
