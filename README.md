@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nick Clegg says TikTok&#39;s presence in the US, while China bars Meta, isn&#39;t a level playing field, and new tech like AI shouldn&#39;t be based on autocratic values &lpar;Bloomberg&rpar;](http://www.techmeme.com/230425/p40#a230425p40)
- - [Artifact can now summarize and explain articles to you like you’re five](https://www.theverge.com/2023/4/25/23697890/artifact-ai-news-app-summarize-articles-explain-like-im-five)
- - [China’s Metaverse Is All About Work](https://www.wired.com/story/china-metaverse-work-health-care/)<!-- TECH:END -->
+ - [TikTok is working on a feature that will let users create AI-generated profile pictures similar to Prisma Labs&#39; Lensa app &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230425/p43#a230425p43)
+ - [Apple took 49% of the global refurbished smartphone market in 2022, as refurbished iPhone sales grew 16% YoY; Samsung had 26%, Oppo 3%, Vivo 3%, and Huawei 2% &lpar;Glen Cardoza/Counterpoint Research&rpar;](http://www.techmeme.com/230425/p42#a230425p42)
+ - [Amazon&#39;s $999 iMac 24-inch deal is back, save $500 on the 8-core GPU spec](https://appleinsider.com/articles/23/04/26/amazons-999-imac-24-inch-deal-is-back-save-500-on-the-8-core-gpu-spec?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
