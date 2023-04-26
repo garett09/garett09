@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 beta 1.1 is here to fix some bugs seen with the original beta](https://www.androidauthority.com/android-14-beta-1-1-3317599/)
- - [Microsoft’s Cloud Gaming Dreams Are Falling Apart](https://www.wired.com/story/microsoft-activision-blizzard-deal-blocked/)
- - [SpaceX’s Starship blew up after launch — it also caused ‘catastrophic’ damage on the ground](https://www.theverge.com/2023/4/26/23699365/spacex-starship-damage-launch-pad-debris)<!-- TECH:END -->
+ - [Qualcomm’s new upscaling tech will boost Android games to 4K 60FPS](https://www.androidauthority.com/android-games-upscaling-3317570/)
+ - [Some users say Microsoft Edge sends URLs of visited pages to Bing API&#39;s site; a developer says Edge&#39;s creator follow option, on by default, may be the culprit &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230426/p20#a230426p20)
+ - [Will the Fed Rate Hikes End in May? Here&#39;s What 5 Experts Say     - CNET](https://www.cnet.com/personal-finance/banking/will-the-fed-rate-hikes-end-in-may-heres-what-5-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
