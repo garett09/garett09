@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lindsay Lohan](http://9gag.com/gag/amA6Ed6)
- - 🚯 [Tucker Carlson\u2019s final segment before being fired from Fox News](http://9gag.com/gag/aeQZLEB)
- - 🚯 [Skydiving baby](http://9gag.com/gag/a1P095b)<!-- MEMES:END -->
+ - 🚖 [Planky is a giver not a \ud83e\udd21](http://9gag.com/gag/a1P03NR)
+ - 🚯 [Nothing is new..](http://9gag.com/gag/aQE701r)
+ - 🚯 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)<!-- MEMES:END -->
 
 --- 
 
