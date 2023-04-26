@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC struggling with early yields of A17 and M3 processors](https://appleinsider.com/articles/23/04/26/tsmc-struggling-with-early-yields-of-a17-and-m3-processors?utm_medium=rss)
- - [Lenovo announces the Lenovo ThinkPhone by Motorola, available for $699 with ThinkPad-compatible productivity features, coming first to enterprise on April 28 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230426/p13#a230426p13)
- - [The BLUETTI AC60 portable power station is the ideal outdoor companion](https://www.androidauthority.com/the-bluetti-ac60-portable-power-station-is-the-ideal-outdoor-companion-3315537/)<!-- TECH:END -->
+ - [Verizon plans to speed up rural 5G service later this year](https://www.theverge.com/2023/4/26/23698891/verizon-cband-ultra-wideband-5g-network-expansion-rural-suburban)
+ - [The Best Eco-Friendly Cleaning Products &lpar;2023&rpar;: For Kitchens, Bathrooms, and Laundry](https://www.wired.com/story/eco-friendly-natural-cleaning-products/)
+ - [Daily Deals April 26: $250 off new MacBook Pro, $99 iPhone SE, $39 Beats Flex Earbuds, more](https://appleinsider.com/articles/23/04/26/daily-deals-april-26-250-off-new-macbook-pro-99-iphone-se-39-beats-flex-earbuds-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
