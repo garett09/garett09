@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Warhol Foundation v. Goldsmith, a fair use case before SCOTUS that could impact how copyright law is applied to AI tools&#39; use of human-made works &lpar;Madeline Ashby/Wired&rpar;](http://www.techmeme.com/230426/p8#a230426p8)
- - [The new Onyx Boox Tab Ultra C is a color E Ink tablet with a 16-megapixel rear camera](https://www.theverge.com/2023/4/26/23693301/onyx-boox-tab-ultra-c-e-ink-tablet-e-reader-kindle-kobo)
- - [Samsung Galaxy S24 cameras tipped to bring major photography boost](https://www.androidauthority.com/samsung-galaxy-s24-series-cameras-3317349/)<!-- TECH:END -->
+ - [The UK CMA blocks Microsoft from completing its $68.7B Activision Blizzard acquisition, citing concerns about competition and innovation in the UK gaming market &lpar;GOV.UK&rpar;](http://www.techmeme.com/230426/p10#a230426p10)
+ - [Our favorite bands for Apple Watch Ultra in spring 2023](https://appleinsider.com/inside/apple-watch-ultra/best/our-favorite-bands-for-apple-watch-ultra-in-spring-2023?utm_medium=rss)
+ - [How Microsoft&#39;s Bing Chatbot Came to Be—and Where It&#39;s Going Next](https://www.wired.com/story/how-microsofts-bing-chatbot-came-to-be-and-where-its-going-next/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
