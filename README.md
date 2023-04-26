@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing is new..](http://9gag.com/gag/aQE701r)
- - 🚯 [Type 2 for me](http://9gag.com/gag/a5XwOOO)
- - 🚯 [Press the button](http://9gag.com/gag/aWGnKw2)<!-- MEMES:END -->
+ - 🚖 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)
+ - 🚯 [Imagine getting horny and looking like that.](http://9gag.com/gag/adPnyxQ)
+ - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)<!-- MEMES:END -->
 
 --- 
 
