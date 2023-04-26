@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brutal John Wick descendant Sisu promises more than it can deliver](https://www.polygon.com/reviews/23698246/sisu-review-movie-finland-action-john-wick)
- - [Diablo IV&#39;s Mounts Are Off Limits Until You Beat The Campaign](https://kotaku.com/diablo-4-mounts-stress-test-may-12-server-slam-blizzard-1850379488)
- - [These Are The Best Dead Island 2 Weapons](https://kotaku.com/dead-island-2-best-weapons-tips-ps5-side-quest-1850379382)<!-- GAME:END -->
+ - [One D&amp;D playtest offers more rules changes for fighters, wizards, and other core classes](https://www.polygon.com/23699666/one-dnd-dungeons-dragons-playtest-players-handbook-fighter-wizard-barbarian-sorcerer)
+ - [The Little Mermaid remake is nearly an hour longer than the original — so what did they add?](https://www.polygon.com/23699372/little-mermaid-2023-runtime-release-bonus-scenes-songs)
+ - [MSI just had to unlaunch its RTX 3060 Ti Super 3X because it&#39;s not actually &#39;Super&#39;](https://www.pcgamer.com/msi-just-had-to-unlaunch-its-rtx-3060-ti-super-3x-because-its-not-actually-super)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
