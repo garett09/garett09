@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Upgrade to Windows 11 Pro for just $39.99](https://www.androidauthority.com/windows-11-pro-deal-3317639/)
- - [Ayaneo 2S will officially be one of the first Steam Deck rivals with Ryzen 7000](https://www.theverge.com/2023/4/26/23699548/ayaneo-2s-ryzen-7000-geek-kun-free-speakers-cooling)
- - [YouTube Music contractors from Cognizant vote to unionize with Alphabet Workers Union; Alphabet is appealing a ruling that Google is their joint employer &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230426/p25#a230426p25)<!-- TECH:END -->
+ - [Google Meet finally supports 1080p video calls](https://www.theverge.com/2023/4/26/23699733/google-meet-1080p-video-calls-hd)
+ - [A Brazilian court orders a temporary ban on Telegram in the country after the company refused to share information about neo-Nazi groups with the federal police &lpar;Bloomberg&rpar;](http://www.techmeme.com/230426/p26#a230426p26)
+ - [The best Xiaomi Mi Band 8 alternatives](https://www.androidauthority.com/best-xiaomi-mi-band-8-alternatives-3317197/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
