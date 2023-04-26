@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese-language Super Mario Bros. Movie screenings are a-coming to the US](https://www.theverge.com/2023/4/26/23699024/super-mario-bros-movie-japanese-dub-screening)
- - [Using iMessage with Windows 11 is coming in mid-May thanks to Phone Link](https://www.androidauthority.com/phone-link-iphone-3317453/)
- - [Security researchers warn against using Google Authenticator’s new feature](https://www.androidauthority.com/google-authenticator-feature-3317441/)<!-- TECH:END -->
+ - [The Motorola Razr’s massive cover screen is on full display in new leak](https://www.androidauthority.com/motorola-razr-cover-3317489/)
+ - [Here’s how you can preorder the new Zelda for $49.99](https://www.theverge.com/2023/2/9/23592523/zelda-tears-kingdom-preorder-nintendo-voucher-advance-wars-deal-sale)
+ - [Aqara FP2 presence sensor review: The only HomeKit occupancy sensor](https://appleinsider.com/articles/23/04/26/aqara-fp2-presence-sensor-review-the-only-homekit-occupancy-sensor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
