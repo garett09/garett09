@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Abdul Himullah speech](http://9gag.com/gag/aWGvZEx)
- - 🚯 [Dutch opera singer Henk Poort - The Sound of Silence](http://9gag.com/gag/a7qV5om)
- - 🚯 [How to argue with a hollow head feminist](http://9gag.com/gag/aOxDqb2)<!-- MEMES:END -->
+ - 🚖 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
+ - 🚯 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
+ - 🚯 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)<!-- MEMES:END -->
 
 --- 
 
