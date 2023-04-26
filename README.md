@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Planky is a giver not a \ud83e\udd21](http://9gag.com/gag/a1P03NR)
- - 🚯 [Nothing is new..](http://9gag.com/gag/aQE701r)
- - 🚯 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)<!-- MEMES:END -->
+ - 🚖 [Nothing is new..](http://9gag.com/gag/aQE701r)
+ - 🚯 [When the CEO of Mercedes retired, BMW did this.](http://9gag.com/gag/aNwQ7wK)
+ - 🚯 [Press the button](http://9gag.com/gag/aWGnKw2)<!-- MEMES:END -->
 
 --- 
 
