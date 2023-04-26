@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
- - 🚯 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
- - 🚯 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)<!-- MEMES:END -->
+ - 🚯 [This sparks joy](http://9gag.com/gag/aMEnbAG)
+ - 🚯 [Being blind in public.](http://9gag.com/gag/aBdPQr2)<!-- MEMES:END -->
 
 --- 
 
