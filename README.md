@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Honkai: Star Rail shows the value of walking the same path twice](https://www.polygon.com/reviews/23696522/honkai-star-rail-review-release-hoyoverse)
  - [May Savings promotion comes to PlayStation Store](https://blog.playstation.com/2023/04/26/may-savings-promotion-comes-to-playstation-store/)
- - [One of 2022&#39;s best turn-based strategy games is finally coming to PC](https://www.pcgamer.com/one-of-2022s-best-turn-based-strategy-games-is-finally-coming-to-pc)
- - [How Redfall and Starfield’s Style Ended Up at a Real-Life Fashion Gala](https://news.xbox.com/en-us/2023/04/26/redfall-and-starfield-fashion-elle/)<!-- GAME:END -->
+ - [May Savings promotion comes to PlayStation Store](https://blog.playstation.com/2023/04/26/may-savings-promotion-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
