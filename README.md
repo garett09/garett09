@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s diversity efforts are &#39;selfish &amp; practical&#39; says head of developer relations](https://appleinsider.com/articles/23/04/27/apples-diversity-efforts-are-selfish-practical-says-head-of-developer-relations?utm_medium=rss)
- - [Tesla indeed violated labor laws in Florida, US labor board rules](https://www.theverge.com/2023/4/27/23700463/tesla-nlrb-labor-violation-ruling-orlando-florida)
- - [The best Metro by T-Mobile deals: Get a free Samsung Galaxy A14 5G](https://www.androidauthority.com/best-metropcs-deals-843748/)<!-- TECH:END -->
+ - [YouTube Music adds podcasts in the US on Android, iOS, and the web, available to all users regardless of whether they have a YouTube Premium subscription &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230427/p25#a230427p25)
+ - [The 10 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [Dril is now on Bluesky](https://www.theverge.com/2023/4/27/23701021/dril-bluesky-twitter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
