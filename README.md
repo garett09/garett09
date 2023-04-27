@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brace Yourself for the 2024 Deepfake Election](https://www.wired.com/story/chatgpt-generative-ai-deepfake-2024-us-presidential-election/)
- - [Special iPadOS 17 version for bigger screens rumor makes no sense](https://appleinsider.com/articles/23/04/27/special-ipados-17-version-for-bigger-screens-rumor-makes-no-sense?utm_medium=rss)
- - [A profile of ASML, the most valuable tech company in Europe, as the US-China chip war escalates; ASML&#39;s next apartment-sized machine ships in 2025 for $380M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230427/p8#a230427p8)<!-- TECH:END -->
+ - [Interviews with 70+ sources describe how Facebook and Instagram have become major sales platforms for child trafficking and can often be slow to remove content &lpar;The Guardian&rpar;](http://www.techmeme.com/230427/p12#a230427p12)
+ - [6 Tips for Using ChatGPT to Brainstorm Better](https://www.wired.com/story/how-to-use-chatgpt-brainstorm-ai/)
+ - [Soothe Your Damaged Masculinity With This Moisturizing Balm](https://www.wired.com/story/gadget-lab-podcast-595/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
