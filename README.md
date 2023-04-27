@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)
- - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
- - 🚯 [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)<!-- MEMES:END -->
+ - 🚖 [This is some realy Black Mirror dystopian stuff](http://9gag.com/gag/ago80Vr)
+ - 🚯 [This sparks joy](http://9gag.com/gag/aMEnbAG)
+ - 🚯 [Bully the guard on duty, get the shotty.](http://9gag.com/gag/a6qnmze)<!-- MEMES:END -->
 
 --- 
 
