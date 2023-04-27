@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lovecraftian Action Adventure The Last Case of Benedict Fox is Available on Xbox Today](https://news.xbox.com/en-us/2023/04/27/ast-case-of-benedict-fox-is-available-on-xbox-today/)
- - [The latest and greatest AI ranks your hotness, for science!](https://www.polygon.com/23698146/mschf-hot-chat-3000-hc3k-attractiveness-rating-ai)
- - [Corsair makes a $110 SSD that’s a great fit for your Steam Deck](https://www.polygon.com/deals/23700852/corsair-mp600-mini-steam-deck-ssd-ifixit-deal-sale)<!-- GAME:END -->
+ - [Aang and the Avatar gang will be your age when the new animated movie finally comes out in 2025](https://www.polygon.com/23701044/avatar-the-last-airbender-movie-release-date)
+ - [Accolades Trailer: People Said Some Very Nice Things About High On Life](https://news.xbox.com/en-us/2023/04/27/very-nice-things-about-high-on-life/)
+ - [Sweet Tooth’s villain is willing to kill babies to ‘turn the clock back to 2019’](https://www.polygon.com/23699437/sweet-tooth-season-2-general-abbot-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
