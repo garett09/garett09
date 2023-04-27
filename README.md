@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music adds podcasts in the US on Android, iOS, and the web, available to all users regardless of whether they have a YouTube Premium subscription &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230427/p25#a230427p25)
- - [The 10 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Dril is now on Bluesky](https://www.theverge.com/2023/4/27/23701021/dril-bluesky-twitter)<!-- TECH:END -->
+ - [Clubhouse is laying off more than half of its workforce](https://www.theverge.com/2023/4/27/23701144/clubhouse-layoffs-half-employees)
+ - [Amazon Q1: revenue up 9% YoY to $127.4B, net income of $3.2B, up from $3.8B net loss YoY, AWS revenue up 16% YoY to $21.4B, staff down 10% to 1.4M; AMZN up 10%+ &lpar;Amazon&rpar;](http://www.techmeme.com/230427/p28#a230427p28)
+ - [Microsoft discontinues Microsoft-branded mice, keyboards, and webcams, to focus on its Surface brand for PC accessories; Microsoft&#39;s first mouse debuted in 1983 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230427/p27#a230427p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
