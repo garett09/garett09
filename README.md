@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Hands up](http://9gag.com/gag/aVbmQzd)
- - 🚯 [After seeing this video, I&#39;m a little bit dissatisfied with the locks.](http://9gag.com/gag/aVbmWgO)
- - 🚯 [I saw few men grab breast if a German woman in Frankfurt Hauptbahnhof and no one did shet she just stood there cried and went away, Mayor has balls](http://9gag.com/gag/anzvqwz)<!-- MEMES:END -->
+ - 🚯 [I saw few men grab breast if a German woman in Frankfurt Hauptbahnhof and no one did shet she just stood there cried and went away, Mayor has balls](http://9gag.com/gag/anzvqwz)
+ - 🚯 [After seeing this video, I&#39;m a little bit dissatisfied with the locks.](http://9gag.com/gag/aVbmWgO)<!-- MEMES:END -->
 
 --- 
 
