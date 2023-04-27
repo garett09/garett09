@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This could be the end for Microsoft&#39;s bid to buy Activision Blizzard, but some analysts think it still has a chance](https://www.pcgamer.com/microsoft-activision-deal-appeal-analysis)
- - [Deceive Inc. review](https://www.pcgamer.com/deceive-inc-review)
- - [Crime Boss: Rockay City Is So Bad The Culture Has Rejected It Entirely](https://kotaku.com/crime-boss-rockay-city-impressions-bad-terrible-shit-pc-1850297022)<!-- GAME:END -->
+ - [March of the Machine, Magic&#39;s latest set, is great for some formats but not others](https://www.pcgamer.com/march-of-the-machine-magics-latest-set-is-great-for-some-formats-but-not-others)
+ - [This AI-made pizza ad is truly messed-up](https://www.pcgamer.com/this-ai-made-pizza-ad-is-truly-messed-up)
+ - [Get Humankind&#39;s new DLC free for a limited time](https://www.pcgamer.com/get-humankinds-new-dlc-free-for-a-limited-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
