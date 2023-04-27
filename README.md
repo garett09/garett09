@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal appeals court upholds the dismissal of state AGs&#39; suit against Meta, ruling that they waited too long to sue over Instagram and WhatsApp acquisitions &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230427/p18#a230427p18)
- - [Dropbox is laying off 500 people and pivoting to AI](https://www.theverge.com/2023/4/27/23700629/dropbox-laying-off-500-people-pivoting-ai)
- - [Sources detail how organizational dysfunction and a lack of ambition bogged down Apple&#39;s AI and ML efforts, including the work of the group responsible for Siri &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230427/p17#a230427p17)<!-- TECH:END -->
+ - [Meet ChatGPT’s Right-Wing Alter Ego](https://www.wired.com/story/fast-forward-meet-chatgpts-right-wing-alter-ego/)
+ - [Microsoft Designer is being integrated into Edge for AI-generated social content](https://www.theverge.com/2023/4/27/23700364/microsoft-designer-update-ai-edge-browser-social-media-tools)
+ - [The next Forza will help blind players race by listening to ‘beeps and boops’](https://www.theverge.com/2023/4/27/23699143/forza-motorsport-blind-driving-assists-audio-cues-accessibility)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
