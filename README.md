@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No, you won&#39;t have to wait until the endgame for Diablo 4&#39;s mounts](https://www.pcgamer.com/no-you-wont-have-to-wait-until-the-endgame-for-diablo-4s-mounts)
- - [This Supernatural Drama Is An Early Anime Of The Year Contender](https://kotaku.com/kotatsu-anime-corner-hidive-oshi-no-ko-kaguya-sama-1850384126)
- - [Chris Hemsworth plays young, presumably hot Optimus Prime in new Transformers movie](https://www.polygon.com/23701143/transformers-one-animated-movie-cast-chris-hemsworth-optimus-prime)<!-- GAME:END -->
+ - [The Hunger Games prequel gets a first dark trailer](https://www.polygon.com/23700562/hunger-games-prequel-ballad-songbirds-snakes-trailer)
+ - [Star Wars Jedi: Survivor&#39;s first performance patch helped, but it still needs serious work on PC](https://www.pcgamer.com/star-wars-jedi-survivors-first-performance-patch-helped-but-it-still-needs-serious-work-on-pc)
+ - [There&#39;s no other mecha game quite like Armored Core](https://www.pcgamer.com/theres-no-other-mecha-game-quite-like-armored-core)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
