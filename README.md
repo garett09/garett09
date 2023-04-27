@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of Baidu, Bilibili, Bing, Douyin, Weibo, and other Chinese search platforms finds 60K censorship rules, implemented differently by each service &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/230427/p7#a230427p7)
- - [The UK CMA&#39;s objection to Microsoft&#39;s Activision deal focuses on the nascent cloud gaming market, a departure from regulators focusing on mature markets &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230427/p6#a230427p6)
- - [Tesla lawyers claim Elon Musk’s past statements about self-driving safety could just be deepfakes](https://www.theverge.com/2023/4/27/23700339/tesla-autopilot-lawsuit-2018-elon-musk-claims-deepfakes)<!-- TECH:END -->
+ - [Brace Yourself for the 2024 Deepfake Election](https://www.wired.com/story/chatgpt-generative-ai-deepfake-2024-us-presidential-election/)
+ - [Special iPadOS 17 version for bigger screens rumor makes no sense](https://appleinsider.com/articles/23/04/27/special-ipados-17-version-for-bigger-screens-rumor-makes-no-sense?utm_medium=rss)
+ - [A profile of ASML, the most valuable tech company in Europe, as the US-China chip war escalates; ASML&#39;s next apartment-sized machine ships in 2025 for $380M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230427/p8#a230427p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
