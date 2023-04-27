@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Producer Takashi Tokita reveals the secrets of Live A Live](https://blog.playstation.com/2023/04/27/producer-takashi-tokita-reveals-the-secrets-of-live-a-live/)
- - [From Blind Driving Assists to One Touch Driving, Meet The Most Accessible Forza Motorsport Ever](https://news.xbox.com/en-us/2023/04/27/forza-motorsport-accessibility-features-blind-driving/)
- - [Rusted Moss is Hollow Knight with a bungee cord](https://www.polygon.com/reviews/23699200/rusted-moss-review-impressions-metroidvania-hollow-knight)<!-- GAME:END -->
+ - [Pokémon Go Spotlight Hour schedule for May 2023](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
+ - [My favorite detective game of 2022 has more cases to solve this May](https://www.pcgamer.com/my-favorite-detective-game-of-2022-has-more-cases-to-solve-this-may)
+ - [Inside Look: Warhammer 40,000 x World of Tanks](https://blog.playstation.com/2023/04/27/inside-look-warhammer-40000-x-world-of-tanks/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
