@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation®5 FINAL FANTASY XVI Bundle Available from 22nd June 2023](https://blog.playstation.com/2023/04/26/20230426-ff16/)
  - [Today&#39;s Wordle hint and answer #677: Thursday, April 27](https://www.pcgamer.com/wordle-today-hint-answer-677-april-27)
- - [Popeye is coming to World of Warships, so you can stop asking for it](https://www.pcgamer.com/popeye-is-coming-to-world-of-warships-so-you-can-stop-asking-for-it)
- - [March of the Machine, Magic&#39;s latest set, is great for some formats but not others](https://www.pcgamer.com/march-of-the-machine-magics-latest-set-is-great-for-some-formats-but-not-others)<!-- GAME:END -->
+ - [Popeye is coming to World of Warships, so you can stop asking for it](https://www.pcgamer.com/popeye-is-coming-to-world-of-warships-so-you-can-stop-asking-for-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
