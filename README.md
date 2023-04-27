@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with 70+ sources describe how Facebook and Instagram have become major sales platforms for child trafficking and can often be slow to remove content &lpar;The Guardian&rpar;](http://www.techmeme.com/230427/p12#a230427p12)
- - [6 Tips for Using ChatGPT to Brainstorm Better](https://www.wired.com/story/how-to-use-chatgpt-brainstorm-ai/)
- - [Soothe Your Damaged Masculinity With This Moisturizing Balm](https://www.wired.com/story/gadget-lab-podcast-595/)<!-- TECH:END -->
+ - [Sony could have really set a better launch date for the Xperia 1 V](https://www.androidauthority.com/sony-xperia-1-v-launch-date-3317892/)
+ - [Samsung Galaxy A54 5G review: Who needs a Galaxy S23 FE?](https://www.androidauthority.com/samsung-galaxy-a54-5g-review-3312781/)
+ - [The 10 Best Turntables for Your Vinyl Collection &lpar;2023&rpar;](https://www.wired.com/gallery/best-turntables/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
