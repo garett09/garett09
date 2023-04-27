@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Massage Guns and Theraguns &lpar;2023&rpar;: Top Alternatives and Tips](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)
- - [The best Mother’s Day gifts on a budget](https://www.theverge.com/23682529/best-cheap-mothers-day-gifts-for-mom-budget-tech-ideas-presents)
- - [Amazon&#39;s $999 iMac 24-inch deal is back, save $500 on the 8-core GPU spec](https://appleinsider.com/articles/23/04/26/amazons-999-imac-24-inch-deal-is-back-save-500-on-the-8-core-gpu-spec?utm_medium=rss)<!-- TECH:END -->
+ - [A federal appeals court upholds the dismissal of state AGs&#39; suit against Meta, ruling that they waited too long to sue over Instagram and WhatsApp acquisitions &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230427/p18#a230427p18)
+ - [Dropbox is laying off 500 people and pivoting to AI](https://www.theverge.com/2023/4/27/23700629/dropbox-laying-off-500-people-pivoting-ai)
+ - [Sources detail how organizational dysfunction and a lack of ambition bogged down Apple&#39;s AI and ML efforts, including the work of the group responsible for Siri &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/230427/p17#a230427p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
