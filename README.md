@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Statistically the worst thing that can happen to a child is to be raised by a single mom](http://9gag.com/gag/aKEWPbb)
- - 🚯 [Survival of the fittest, rent is expensive](http://9gag.com/gag/a9q8P9L)
- - 🚯 [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)<!-- MEMES:END -->
+ - 🚖 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
+ - 🚯 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
+ - 🚯 [Not for the weak soul](http://9gag.com/gag/aPg8GXQ)<!-- MEMES:END -->
 
 --- 
 
