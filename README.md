@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
- - 🚯 [Cow milk](http://9gag.com/gag/aqeQZxP)
- - 🚯 [Bro got bullied in highschool](http://9gag.com/gag/ay2WEgM)<!-- MEMES:END -->
+ - 🚖 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)
+ - 🚯 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
+ - 🚯 [Being blind in public.](http://9gag.com/gag/aBdPQr2)<!-- MEMES:END -->
 
 --- 
 
