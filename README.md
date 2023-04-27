@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [March of the Machine, Magic&#39;s latest set, is great for some formats but not others](https://www.pcgamer.com/march-of-the-machine-magics-latest-set-is-great-for-some-formats-but-not-others)
- - [This AI-made pizza ad is truly messed-up](https://www.pcgamer.com/this-ai-made-pizza-ad-is-truly-messed-up)
- - [Get Humankind&#39;s new DLC free for a limited time](https://www.pcgamer.com/get-humankinds-new-dlc-free-for-a-limited-time)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #677: Thursday, April 27](https://www.pcgamer.com/wordle-today-hint-answer-677-april-27)
+ - [Popeye is coming to World of Warships, so you can stop asking for it](https://www.pcgamer.com/popeye-is-coming-to-world-of-warships-so-you-can-stop-asking-for-it)
+ - [March of the Machine, Magic&#39;s latest set, is great for some formats but not others](https://www.pcgamer.com/march-of-the-machine-magics-latest-set-is-great-for-some-formats-but-not-others)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
