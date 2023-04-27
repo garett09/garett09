@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Press the button](http://9gag.com/gag/aWGnKw2)
- - 🚯 [This sparks joy](http://9gag.com/gag/aMEnbAG)
- - 🚯 [Trying to figure out why??](http://9gag.com/gag/ay2W51r)<!-- MEMES:END -->
+ - 🚖 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)
+ - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
+ - 🚯 [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)<!-- MEMES:END -->
 
 --- 
 
