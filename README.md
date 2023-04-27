@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to add end-to-end encryption to Authenticator](https://www.theverge.com/2023/4/27/23700612/google-authenticator-end-to-end-encryption-e2ee)
- - [MicroLED Apple Watch launch will launch in fall 2025, claims new rumor](https://appleinsider.com/articles/23/04/27/microled-apple-watch-launch-will-launch-in-fall-2025-claims-new-rumor?utm_medium=rss)
- - [Nintendo’s Copyright Strikes Push Away Its Biggest Fans](https://www.wired.com/story/nintendo-copyright-zelda-mod/)<!-- TECH:END -->
+ - [Apple&#39;s diversity efforts are &#39;selfish &amp; practical&#39; says head of developer relations](https://appleinsider.com/articles/23/04/27/apples-diversity-efforts-are-selfish-practical-says-head-of-developer-relations?utm_medium=rss)
+ - [Tesla indeed violated labor laws in Florida, US labor board rules](https://www.theverge.com/2023/4/27/23700463/tesla-nlrb-labor-violation-ruling-orlando-florida)
+ - [The best Metro by T-Mobile deals: Get a free Samsung Galaxy A14 5G](https://www.androidauthority.com/best-metropcs-deals-843748/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
