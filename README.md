@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Should have been me](http://9gag.com/gag/aDY8Box)
- - 🚯 [Imagine getting horny and looking like that.](http://9gag.com/gag/adPnyxQ)
- - 🚯 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)<!-- MEMES:END -->
+ - 🚖 [Hands up](http://9gag.com/gag/aVbmQzd)
+ - 🚯 [After seeing this video, I&#39;m a little bit dissatisfied with the locks.](http://9gag.com/gag/aVbmWgO)
+ - 🚯 [I saw few men grab breast if a German woman in Frankfurt Hauptbahnhof and no one did shet she just stood there cried and went away, Mayor has balls](http://9gag.com/gag/anzvqwz)<!-- MEMES:END -->
 
 --- 
 
