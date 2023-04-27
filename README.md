@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here we go again: Counter-Strike 2 has a Half-Life reference](https://www.pcgamer.com/here-we-go-again-counter-strike-2-has-a-half-life-reference)
- - [Microsoft says Activision deal block is “darkest day” of doing business in the UK](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [&#39;Super duper&#39; Grounded update really does look super until you realise they added fricking wasps](https://www.pcgamer.com/super-duper-grounded-update-really-does-look-super-until-you-realise-they-added-fricking-wasps)<!-- GAME:END -->
+ - [New Games with Gold for May 2023](https://news.xbox.com/en-us/2023/04/27/new-games-with-gold-for-may-2023/)
+ - [Age of Wonders 4 lets you build high-fantasy civilizations — at a cost](https://www.polygon.com/reviews/23699360/age-of-wonders-4-review-races-rpg-paradox-interactive)
+ - [Here we go again: Counter-Strike 2 has a Half-Life reference](https://www.pcgamer.com/here-we-go-again-counter-strike-2-has-a-half-life-reference)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
