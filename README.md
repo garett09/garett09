@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s new ‘SuperSlim’ Gram laptop has a 15.6-inch OLED display](https://www.theverge.com/2023/4/26/23699528/lg-gram-superslim-ultraslim-oled-15-inch-laptop)
- - [Harvey, which builds generative AI tools for law firms, raised a $21M Series A led by Sequoia with participation from the OpenAI Startup Fund and others &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/230426/p31#a230426p31)
- - [Google says it plans to add E2EE to Google Authenticator &quot;down the line&quot;, after researchers warned that its new feature to sync 2FA codes is not E2E encrypted &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230426/p30#a230426p30)<!-- TECH:END -->
+ - [Samsung reports Q1 operating profit down 95% YoY to ~$478.6M, its lowest since 2009, and revenue down 18% YoY to ~$47.6B; its chip division reported ~$3.4B loss &lpar;Reuters&rpar;](http://www.techmeme.com/230426/p33#a230426p33)
+ - [Mina Lefevre, Meta&#39;s head of development and programming, is leaving the company, as Red Table Talk, the last remaining Facebook Watch original, is canceled &lpar;Deadline&rpar;](http://www.techmeme.com/230426/p32#a230426p32)
+ - [Anonymous developers claim fraud, scams &amp; clones breeze by App Store review](https://appleinsider.com/articles/23/04/27/anonymous-developers-claim-fraud-scams-clones-breeze-by-app-store-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
