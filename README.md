@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says time spent on Instagram grew 24%+ since Reels launched thanks to AI recommendations, and expects Reels to be revenue-neutral by year end or early 2024 &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230426/p29#a230426p29)
- - [Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’](https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp)
- - [Lookout agrees to sell its consumer mobile security business to F-Secure in a deal valued at around $223M, transitioning into a &quot;pure-play enterprise company&quot; &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230426/p28#a230426p28)<!-- TECH:END -->
+ - [LG’s new ‘SuperSlim’ Gram laptop has a 15.6-inch OLED display](https://www.theverge.com/2023/4/26/23699528/lg-gram-superslim-ultraslim-oled-15-inch-laptop)
+ - [Harvey, which builds generative AI tools for law firms, raised a $21M Series A led by Sequoia with participation from the OpenAI Startup Fund and others &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/230426/p31#a230426p31)
+ - [Google says it plans to add E2EE to Google Authenticator &quot;down the line&quot;, after researchers warned that its new feature to sync 2FA codes is not E2E encrypted &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230426/p30#a230426p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
