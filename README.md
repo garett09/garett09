@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
- - 🚯 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
- - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)<!-- MEMES:END -->
+ - 🚖 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
+ - 🚯 [Cow milk](http://9gag.com/gag/aqeQZxP)
+ - 🚯 [Bro got bullied in highschool](http://9gag.com/gag/ay2WEgM)<!-- MEMES:END -->
 
 --- 
 
