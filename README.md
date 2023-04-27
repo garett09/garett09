@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reports Q1 operating profit down 95% YoY to ~$478.6M, its lowest since 2009, and revenue down 18% YoY to ~$47.6B; its chip division reported ~$3.4B loss &lpar;Reuters&rpar;](http://www.techmeme.com/230426/p33#a230426p33)
- - [Mina Lefevre, Meta&#39;s head of development and programming, is leaving the company, as Red Table Talk, the last remaining Facebook Watch original, is canceled &lpar;Deadline&rpar;](http://www.techmeme.com/230426/p32#a230426p32)
- - [Anonymous developers claim fraud, scams &amp; clones breeze by App Store review](https://appleinsider.com/articles/23/04/27/anonymous-developers-claim-fraud-scams-clones-breeze-by-app-store-review?utm_medium=rss)<!-- TECH:END -->
+ - [Japan plans to provide an additional $1.94B in assistance to Rapidus, a government-backed chip consortium that is working with IBM to mass produce 2nm chips &lpar;Riho Nagao/Nikkei Asia&rpar;](http://www.techmeme.com/230426/p35#a230426p35)
+ - [Apple Hearing Study 2023 update: 1 in 3 adult Americans exposed to excess noise](https://appleinsider.com/articles/23/04/27/apple-hearing-study-2023-update-1-in-3-adult-americans-exposed-to-excess-noise?utm_medium=rss)
+ - [Katmai, which is developing browser-based 3D video conferencing tech for virtual office spaces, raised a $22M Series A led by Starr Insurance Companies &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/230426/p34#a230426p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
