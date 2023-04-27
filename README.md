@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hands up](http://9gag.com/gag/aVbmQzd)
- - 🚯 [I saw few men grab breast if a German woman in Frankfurt Hauptbahnhof and no one did shet she just stood there cried and went away, Mayor has balls](http://9gag.com/gag/anzvqwz)
- - 🚯 [After seeing this video, I&#39;m a little bit dissatisfied with the locks.](http://9gag.com/gag/aVbmWgO)<!-- MEMES:END -->
+ - 🚖 [Feeling old yet?](http://9gag.com/gag/awZLbRy)
+ - 🚯 [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)
+ - 🚯 [Cow milk](http://9gag.com/gag/aqeQZxP)<!-- MEMES:END -->
 
 --- 
 
