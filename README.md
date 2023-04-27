@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When Tintin entered the Cold War](https://www.polygon.com/23697440/tintin-calculus-affair-cold-war)
- - [The Steam Deck Is About To Have Some Major Competition](https://kotaku.com/steam-deck-asus-rog-ally-price-windows-switch-gaming-pc-1850382546)
- - [Feel The Force with PS5’s haptics and adaptive triggers in Star Wars Jedi: Survivor](https://blog.playstation.com/2023/04/27/feel-the-force-with-ps5s-haptics-and-adaptive-triggers-in-star-wars-jedi-survivor/)<!-- GAME:END -->
+ - [Producer Takashi Tokita reveals the secrets of Live A Live](https://blog.playstation.com/2023/04/27/producer-takashi-tokita-reveals-the-secrets-of-live-a-live/)
+ - [From Blind Driving Assists to One Touch Driving, Meet The Most Accessible Forza Motorsport Ever](https://news.xbox.com/en-us/2023/04/27/forza-motorsport-accessibility-features-blind-driving/)
+ - [Rusted Moss is Hollow Knight with a bungee cord](https://www.polygon.com/reviews/23699200/rusted-moss-review-impressions-metroidvania-hollow-knight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
