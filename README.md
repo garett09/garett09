@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dril and AOC are now on Bluesky](https://www.theverge.com/2023/4/27/23701021/dril-bluesky-twitter)
- - [Apple is producing USB-C EarPods for the iPhone 15](https://appleinsider.com/articles/23/04/27/apple-is-working-on-usb-c-earpods-for-the-iphone-15?utm_medium=rss)
- - [Pinterest announces a multi-year strategic ad partnership with Amazon aimed at bringing more brands and relevant products to Pinterest &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230427/p35#a230427p35)<!-- TECH:END -->
+ - [Microsoft’s Activision deal is on life support because cloud gaming still sucks](https://www.theverge.com/2023/4/27/23699879/microsoft-activision-blizzard-merger-cma-cloud-gaming-loss-editorial)
+ - [Now you can pay a monthly fee to un-nerf your electric Mercedes](https://www.theverge.com/2023/4/27/23701009/mercedes-benz-eqs-eqe-monthly-subcription-acceleration-increase-unlock-paywall-pricing)
+ - [New Pixel 7a leak shows the phone in Coral for the first time](https://www.androidauthority.com/pixel-7a-color-3318119/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
