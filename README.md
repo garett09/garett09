@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)
- - 🚯 [Giant sinkhole at the middle of a farm in Konya, Turkiye.](http://9gag.com/gag/a1P5eVD)
+ - 🚖 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
+ - 🚯 [This sparks joy](http://9gag.com/gag/aMEnbAG)
  - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)<!-- MEMES:END -->
 
 --- 
