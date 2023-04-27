@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for May 2023](https://news.xbox.com/en-us/2023/04/27/new-games-with-gold-for-may-2023/)
- - [Age of Wonders 4 lets you build high-fantasy civilizations — at a cost](https://www.polygon.com/reviews/23699360/age-of-wonders-4-review-races-rpg-paradox-interactive)
- - [Here we go again: Counter-Strike 2 has a Half-Life reference](https://www.pcgamer.com/here-we-go-again-counter-strike-2-has-a-half-life-reference)<!-- GAME:END -->
+ - [Armored Core VI Fires of Rubicon launches August 25 – New gameplay details](https://blog.playstation.com/2023/04/27/armored-core-vi-fires-of-rubicon-launches-august-25-new-gameplay-details/)
+ - [Armored Core VI Fires of Rubicon Combines FromSoftware’s Souls Experience with the Franchise’s Mech History](https://news.xbox.com/en-us/2023/04/27/armored-core-6-gameplay-preview/)
+ - [Special Snorlax, Togepi Squishmallows are available on the Pokémon Center website](https://www.polygon.com/23699202/snorlax-togepi-squishmallow-pokemon-center-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
