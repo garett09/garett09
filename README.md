@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)
- - 🚯 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
- - 🚯 [Being blind in public.](http://9gag.com/gag/aBdPQr2)<!-- MEMES:END -->
+ - 🚖 [This is some realy Black Mirror dystopian stuff](http://9gag.com/gag/ago80Vr)
+ - 🚯 [This sparks joy](http://9gag.com/gag/aMEnbAG)
+ - 🚯 [Hands up](http://9gag.com/gag/aVbmQzd)<!-- MEMES:END -->
 
 --- 
 
