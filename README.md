@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Armored Core VI Fires of Rubicon launches August 25 – New gameplay details](https://blog.playstation.com/2023/04/27/armored-core-vi-fires-of-rubicon-launches-august-25-new-gameplay-details/)
- - [Armored Core VI Fires of Rubicon Combines FromSoftware’s Souls Experience with the Franchise’s Mech History](https://news.xbox.com/en-us/2023/04/27/armored-core-6-gameplay-preview/)
- - [Special Snorlax, Togepi Squishmallows are available on the Pokémon Center website](https://www.polygon.com/23699202/snorlax-togepi-squishmallow-pokemon-center-release-date)<!-- GAME:END -->
+ - [When Tintin entered the Cold War](https://www.polygon.com/23697440/tintin-calculus-affair-cold-war)
+ - [The Steam Deck Is About To Have Some Major Competition](https://kotaku.com/steam-deck-asus-rog-ally-price-windows-switch-gaming-pc-1850382546)
+ - [Feel The Force with PS5’s haptics and adaptive triggers in Star Wars Jedi: Survivor](https://blog.playstation.com/2023/04/27/feel-the-force-with-ps5s-haptics-and-adaptive-triggers-in-star-wars-jedi-survivor/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
