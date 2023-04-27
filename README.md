@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)
- - 🚯 [Press the button](http://9gag.com/gag/aWGnKw2)
- - 🚯 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)<!-- MEMES:END -->
+ - 🚖 [Japanese circular restroom concept](http://9gag.com/gag/aKEvrrO)
+ - 🚯 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)
+ - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)<!-- MEMES:END -->
 
 --- 
 
