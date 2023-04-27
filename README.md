@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Hunger Games prequel gets a first dark trailer](https://www.polygon.com/23700562/hunger-games-prequel-ballad-songbirds-snakes-trailer)
- - [Star Wars Jedi: Survivor&#39;s first performance patch helped, but it still needs serious work on PC](https://www.pcgamer.com/star-wars-jedi-survivors-first-performance-patch-helped-but-it-still-needs-serious-work-on-pc)
- - [There&#39;s no other mecha game quite like Armored Core](https://www.pcgamer.com/theres-no-other-mecha-game-quite-like-armored-core)<!-- GAME:END -->
+ - [Cassette? Vinyl? Nah, this noise rock group surprise-launched its new single in an FPS](https://www.pcgamer.com/cassette-vinyl-nah-this-noise-rock-group-surprise-launched-its-new-single-in-an-fps)
+ - [April the twenty-seventh be with you, I guess: Star Wars Day sales just started a week early](https://www.pcgamer.com/april-the-twenty-seventh-be-with-you-i-guess-star-wars-day-sales-just-started-a-week-early)
+ - [19 Exciting, Cozy Games Coming Out In 2023](https://kotaku.com/cozy-games-indie-switch-steam-pc-playstation-xbox-1850384602)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
