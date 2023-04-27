@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feeling old yet?](http://9gag.com/gag/awZLbRy)
- - 🚯 [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)
- - 🚯 [Cow milk](http://9gag.com/gag/aqeQZxP)<!-- MEMES:END -->
+ - 🚖 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)
+ - 🚯 [Being blind in public.](http://9gag.com/gag/aBdPQr2)
+ - 🚯 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)<!-- MEMES:END -->
 
 --- 
 
