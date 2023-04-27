@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is some realy Black Mirror dystopian stuff](http://9gag.com/gag/ago80Vr)
- - 🚯 [This sparks joy](http://9gag.com/gag/aMEnbAG)
- - 🚯 [Bully the guard on duty, get the shotty.](http://9gag.com/gag/a6qnmze)<!-- MEMES:END -->
+ - 🚖 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)
+ - 🚯 [Press the button](http://9gag.com/gag/aWGnKw2)
+ - 🚯 [Cave, basin, current](http://9gag.com/gag/a4o5pxw)<!-- MEMES:END -->
 
 --- 
 
