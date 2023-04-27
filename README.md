@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine getting horny and looking like that.](http://9gag.com/gag/adPnyxQ)
- - 🚯 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
- - 🚯 [Cow milk](http://9gag.com/gag/aqeQZxP)<!-- MEMES:END -->
+ - 🚖 [Giant sinkhole at the middle of a farm in Konya, Turkiye.](http://9gag.com/gag/a1P5eVD)
+ - 🚯 [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)
+ - 🚯 [Johnny Depp with Christina Ricci at the Sleepy Hollow movie premiere &lpar;Hollywood, 1999&rpar;](http://9gag.com/gag/aoK4EEg)<!-- MEMES:END -->
 
 --- 
 
