@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony could have really set a better launch date for the Xperia 1 V](https://www.androidauthority.com/sony-xperia-1-v-launch-date-3317892/)
- - [Samsung Galaxy A54 5G review: Who needs a Galaxy S23 FE?](https://www.androidauthority.com/samsung-galaxy-a54-5g-review-3312781/)
- - [The 10 Best Turntables for Your Vinyl Collection &lpar;2023&rpar;](https://www.wired.com/gallery/best-turntables/)<!-- TECH:END -->
+ - [8 Best Massage Guns and Theraguns &lpar;2023&rpar;: Top Alternatives and Tips](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)
+ - [The best Mother’s Day gifts on a budget](https://www.theverge.com/23682529/best-cheap-mothers-day-gifts-for-mom-budget-tech-ideas-presents)
+ - [Amazon&#39;s $999 iMac 24-inch deal is back, save $500 on the 8-core GPU spec](https://appleinsider.com/articles/23/04/26/amazons-999-imac-24-inch-deal-is-back-save-500-on-the-8-core-gpu-spec?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
