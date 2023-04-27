@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Spotlight Hour schedule for May 2023](https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule)
- - [My favorite detective game of 2022 has more cases to solve this May](https://www.pcgamer.com/my-favorite-detective-game-of-2022-has-more-cases-to-solve-this-may)
- - [Inside Look: Warhammer 40,000 x World of Tanks](https://blog.playstation.com/2023/04/27/inside-look-warhammer-40000-x-world-of-tanks/)<!-- GAME:END -->
+ - [Lovecraftian Action Adventure The Last Case of Benedict Fox is Available on Xbox Today](https://news.xbox.com/en-us/2023/04/27/ast-case-of-benedict-fox-is-available-on-xbox-today/)
+ - [The latest and greatest AI ranks your hotness, for science!](https://www.polygon.com/23698146/mschf-hot-chat-3000-hc3k-attractiveness-rating-ai)
+ - [Corsair makes a $110 SSD that’s a great fit for your Steam Deck](https://www.polygon.com/deals/23700852/corsair-mp600-mini-steam-deck-ssd-ifixit-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
