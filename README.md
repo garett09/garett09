@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone&#39;s screaming `STOP THE PLANE!` like it&#39;s a bus or something](http://9gag.com/gag/ajVL2NQ)
- - 🚯 [Restaurant owner prevents kidnapping attempt with a rear naked choke.](http://9gag.com/gag/a4oNe6v)
- - 🚯 [Looking for trouble with celebrity on live tv shows.](http://9gag.com/gag/a4oNDXv)<!-- MEMES:END -->
+ - 🚖 [Press the button](http://9gag.com/gag/aWGnKw2)
+ - 🚯 [This sparks joy](http://9gag.com/gag/aMEnbAG)
+ - 🚯 [Trying to figure out why??](http://9gag.com/gag/ay2W51r)<!-- MEMES:END -->
 
 --- 
 
