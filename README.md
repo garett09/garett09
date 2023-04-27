@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is some realy Black Mirror dystopian stuff](http://9gag.com/gag/ago80Vr)
- - 🚯 [This sparks joy](http://9gag.com/gag/aMEnbAG)
- - 🚯 [Hands up](http://9gag.com/gag/aVbmQzd)<!-- MEMES:END -->
+ - 🚖 [Should have been me](http://9gag.com/gag/aDY8Box)
+ - 🚯 [Imagine getting horny and looking like that.](http://9gag.com/gag/adPnyxQ)
+ - 🚯 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)<!-- MEMES:END -->
 
 --- 
 
