@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Aang and the Avatar gang will be your age when the new animated movie finally comes out in 2025](https://www.polygon.com/23701044/avatar-the-last-airbender-movie-release-date)
- - [Accolades Trailer: People Said Some Very Nice Things About High On Life](https://news.xbox.com/en-us/2023/04/27/very-nice-things-about-high-on-life/)
- - [Sweet Tooth’s villain is willing to kill babies to ‘turn the clock back to 2019’](https://www.polygon.com/23699437/sweet-tooth-season-2-general-abbot-interview)<!-- GAME:END -->
+ - [No Two Pikachu Are Alike In This Awesome New Pokémon Plushie Line](https://kotaku.com/pokemon-center-my-pikachu-plush-prices-japan-earth-day-1850383485)
+ - [Brigitte Shows Overwatch 2 Still Doesn’t Fully Get Body Diversity](https://kotaku.com/overwatch-2-hero-tier-brigitte-support-representation-1850384056)
+ - [Redfall&#39;s PC system requirements revealed, but they&#39;re lacking a pretty big detail](https://www.pcgamer.com/redfall-pc-system-requirements-unlock-times)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
