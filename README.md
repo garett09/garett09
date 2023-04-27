@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet ChatGPT’s Right-Wing Alter Ego](https://www.wired.com/story/fast-forward-meet-chatgpts-right-wing-alter-ego/)
- - [Microsoft Designer is being integrated into Edge for AI-generated social content](https://www.theverge.com/2023/4/27/23700364/microsoft-designer-update-ai-edge-browser-social-media-tools)
- - [The next Forza will help blind players race by listening to ‘beeps and boops’](https://www.theverge.com/2023/4/27/23699143/forza-motorsport-blind-driving-assists-audio-cues-accessibility)<!-- TECH:END -->
+ - [Google plans to add end-to-end encryption to Authenticator](https://www.theverge.com/2023/4/27/23700612/google-authenticator-end-to-end-encryption-e2ee)
+ - [MicroLED Apple Watch launch will launch in fall 2025, claims new rumor](https://appleinsider.com/articles/23/04/27/microled-apple-watch-launch-will-launch-in-fall-2025-claims-new-rumor?utm_medium=rss)
+ - [Nintendo’s Copyright Strikes Push Away Its Biggest Fans](https://www.wired.com/story/nintendo-copyright-zelda-mod/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
