@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit is trying chat rooms again](https://www.theverge.com/2023/4/28/23702527/reddit-chat-room-channels-discord)
- - [Sources: Elon Musk shut off OpenAI&#39;s access to Twitter&#39;s data in December, believing that $2M a year licensing fee that OpenAI was paying wasn&#39;t enough &lpar;New York Times&rpar;](http://www.techmeme.com/230428/p10#a230428p10)
- - [HBO Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-series-to-stream-may-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 14 could liven up Material You with significantly bolder colors](https://www.androidauthority.com/material-you-colors-3318470/)
+ - [DOJ Detected SolarWinds Breach Months Before Public Disclosure](https://www.wired.com/story/solarwinds-hack-public-disclosure/)
+ - [Guardians of the Galaxy Vol. 3 is a gorgeous spectacle that confuses schmaltz for sentimentality](https://www.theverge.com/23702288/guardians-of-the-galaxy-vol-3-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
