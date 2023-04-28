@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)
- - 🚯 [Comming soon](http://9gag.com/gag/aBdPwx2)
- - 🚯 [What a boss move](http://9gag.com/gag/aVbmDqn)<!-- MEMES:END -->
+ - 🚖 [What a boss move](http://9gag.com/gag/aVbmDqn)
+ - 🚯 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
+ - 🚯 [Conjoined twins got married](http://9gag.com/gag/aOxDvK3)<!-- MEMES:END -->
 
 --- 
 
