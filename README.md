@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vampire Survivors is being turned into a TV show](https://www.theverge.com/2023/4/28/23702522/vampire-survivors-animated-tv-show)
- - [How to transfer your Google Authenticator 2FA to a new phone](https://www.theverge.com/21410260/google-authenticator-2fa-how-to-phone-security-iphone-android)
- - [Today is Star Wars Jedi: Survivor launch day, and you can get it with a $10 gift card](https://www.theverge.com/2023/4/28/23700498/star-wars-jedi-survivor-amazfit-gtr-smartwatch-hisense-u8h-tv-deal-sale)<!-- TECH:END -->
+ - [Reddit is trying chat rooms again](https://www.theverge.com/2023/4/28/23702527/reddit-chat-room-channels-discord)
+ - [Sources: Elon Musk shut off OpenAI&#39;s access to Twitter&#39;s data in December, believing that $2M a year licensing fee that OpenAI was paying wasn&#39;t enough &lpar;New York Times&rpar;](http://www.techmeme.com/230428/p10#a230428p10)
+ - [HBO Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-series-to-stream-may-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
