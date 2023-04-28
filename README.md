@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Abdul Himullah speech](http://9gag.com/gag/aWGvZEx)
- - 🚯 [Emotional damage](http://9gag.com/gag/aDYZ32w)
- - 🚯 [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)<!-- MEMES:END -->
+ - 🚖 [Feeling old yet?](http://9gag.com/gag/awZLbRy)
+ - 🚯 [This has to be most awesome way anyone has asked a lady out for prom!](http://9gag.com/gag/aBdPQMA)
+ - 🚯 [After seeing this video, I&#39;m a little bit dissatisfied with the locks.](http://9gag.com/gag/aVbmWgO)<!-- MEMES:END -->
 
 --- 
 
