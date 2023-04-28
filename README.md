@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feeling old yet?](http://9gag.com/gag/awZLbRy)
- - 🚯 [This has to be most awesome way anyone has asked a lady out for prom!](http://9gag.com/gag/aBdPQMA)
- - 🚯 [After seeing this video, I&#39;m a little bit dissatisfied with the locks.](http://9gag.com/gag/aVbmWgO)<!-- MEMES:END -->
+ - 🚖 [What is missing?](http://9gag.com/gag/aPg8DbG)
+ - 🚯 [It felt wrong from the start but the end is just wronger](http://9gag.com/gag/aL1G256)
+ - 🚯 [Statistically the worst thing that can happen to a child is to be raised by a single mom](http://9gag.com/gag/aKEWPbb)<!-- MEMES:END -->
 
 --- 
 
