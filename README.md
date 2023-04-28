@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s AI will now help you design your Instagram posts in seconds](https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/)
- - [Who created ChatGPT and who owns it today?](https://www.androidauthority.com/who-created-chatgpt-3318212/)
- - [Filing: Triller agrees to pay Sony Music $4.5M+ to settle claims that Triller breached a contract covering its use of musicians&#39; songs on the platform &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/230427/p44#a230427p44)<!-- TECH:END -->
+ - [Master and Dynamic MH40 Review: Beautiful Austerity](https://www.wired.com/review/master-and-dynamic-mh40/)
+ - [YouTube Music gets podcast support, but what about the Podcasts app?](https://www.androidauthority.com/youtube-music-podcast-support-3318258/)
+ - [Microsoft’s AI will now help you design your Instagram posts in seconds](https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
