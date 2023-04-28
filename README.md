@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
- - 🚯 [Man Calmly Confesses To Police That He Accidentally Shot His Female Friend](http://9gag.com/gag/aEqod4O)
- - 🚯 [Not for the weak soul](http://9gag.com/gag/aPg8GXQ)<!-- MEMES:END -->
+ - 🚖 [The Depressing Story of Sam Ballard \u2014 Be careful out there, guys](http://9gag.com/gag/axobNLY)
+ - 🚯 [Feeling old yet?](http://9gag.com/gag/awZLbRy)
+ - 🚯 [It felt wrong from the start but the end is just wronger](http://9gag.com/gag/aL1G256)<!-- MEMES:END -->
 
 --- 
 
