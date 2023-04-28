@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quick, upvote so that Americans see it before going to sleep](http://9gag.com/gag/aQEA4AW)
- - 🚯 [She beat it!](http://9gag.com/gag/aDYZAPO)
- - 🚯 [How to make her wet](http://9gag.com/gag/aDYZ0QZ)<!-- MEMES:END -->
+ - 🚖 [She beat it!](http://9gag.com/gag/aDYZAPO)
+ - 🚯 [How to make her wet](http://9gag.com/gag/aDYZ0QZ)
+ - 🚯 [I don\u2019t know what to do in my life](http://9gag.com/gag/aEqozZe)<!-- MEMES:END -->
 
 --- 
 
