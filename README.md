@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel promises an avalanche of new CPUs and chip tech despite record losses](https://www.pcgamer.com/intel-promises-an-avalanche-of-new-cpus-and-chip-tech-despite-record-losses)
- - [Street Fighter movie is likely getting a surprising but great pair of directors](https://www.polygon.com/23701441/street-fighter-movie-directors-talk-to-me-horror-philippou-rackaracka)
- - [Today&#39;s Wordle hint and answer #678: Friday, April 28](https://www.pcgamer.com/wordle-today-hint-answer-678-april-28)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor Steam reviews hit &#39;mostly negative&#39; as players slam performance issues—&#39;F*** us PC gamers right?&#39;](https://www.pcgamer.com/star-wars-jedi-survivor-steam-reviews-hit-mostly-negative-as-players-slam-performance-issuesf-us-pc-gamers-right)
+ - [How to unlock Stagnant Shadows in Honkai: Star Rail](https://www.pcgamer.com/honkai-star-rail-stagnant-shadows-unlock)
+ - [Intel promises an avalanche of new CPUs and chip tech despite record losses](https://www.pcgamer.com/intel-promises-an-avalanche-of-new-cpus-and-chip-tech-despite-record-losses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
