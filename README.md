@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Washington passes law requiring consent before companies collect health data](https://www.theverge.com/2023/4/28/23702246/washington-health-data-law-consent-collect-sell)
- - [12 Best Tablets &lpar;2023&rpar;: For Work, Play, Kids, Seniors, and More](https://www.wired.com/gallery/the-best-tablets/)
- - [Here are the first Lego Donkey Kong sets](https://www.theverge.com/23699494/lego-donkey-kong-price-release-date)<!-- TECH:END -->
+ - [Apple&#39;s 2023 MacBook Pro is back on sale for $1,749, but the deal ends soon](https://appleinsider.com/articles/23/04/28/apples-2023-macbook-pro-is-back-on-sale-for-1749-but-the-deal-ends-soon?utm_medium=rss)
+ - [Apple Arcade: All the New Games and Updates Coming in April     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)
+ - [A look at Google&#39;s DeepMind-Brain merger; sources say Demis Hassabis ceded DeepMind&#39;s cherished independence in return for greater power over the future of AI &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230428/p7#a230428p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
