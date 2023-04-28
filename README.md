@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [7 great spy-themed board games for the budding secret agent](https://www.polygon.com/23678391/best-spy-themed-board-games)
- - [Sci-fi action-adventure Hubris launches hits PS VR2 this May](https://blog.playstation.com/2023/04/28/sci-fi-action-adventure-hubris-launches-hits-ps-vr2-this-may/)
- - [This weekend is your first chance to buy a handheld PC with AMD&#39;s powerful new chip](https://www.pcgamer.com/this-weekend-is-your-first-chance-to-buy-a-handheld-pc-with-amds-powerful-new-chip)<!-- GAME:END -->
+ - [I was going to rant about film grain in games but then I remembered chromatic aberration exists](https://www.pcgamer.com/chromatic-aberration-is-the-actual-worst)
+ - [Star Wars Jedi: Survivor Inundated With Bad Steam Reviews, Giant Day One Patch](https://kotaku.com/star-wars-jedi-survivor-pc-steam-reviews-patch-size-fix-1850386357)
+ - [Share of the Week – Ghostwire: Tokyo](https://blog.playstation.com/2023/04/28/share-of-the-week-ghostwire-tokyo-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
