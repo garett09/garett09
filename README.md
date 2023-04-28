@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She beat it!](http://9gag.com/gag/aDYZAPO)
- - 🚯 [How to make her wet](http://9gag.com/gag/aDYZ0QZ)
- - 🚯 [I don\u2019t know what to do in my life](http://9gag.com/gag/aEqozZe)<!-- MEMES:END -->
+ - 🚖 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
+ - 🚯 [Wtf is going on](http://9gag.com/gag/ap9PLrE)
+ - 🚯 [What is missing?](http://9gag.com/gag/aPg8DbG)<!-- MEMES:END -->
 
 --- 
 
