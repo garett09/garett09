@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prime Video’s Citadel is a multilevel marketing scheme disguised as a show](https://www.polygon.com/reviews/23700740/citadel-prime-video-review)
- - [Age of Empires 2&#39;s next DLC makes a fan-favourite game mode official and brings over all the first game&#39;s civs](https://www.pcgamer.com/age-of-empires-2s-next-dlc-makes-a-fan-favourite-game-mode-official-and-brings-over-all-the-first-games-civs)
- - [Star Wars Jedi: Survivor Steam reviews hit &#39;mostly negative&#39; as players slam performance issues—&#39;F*** us PC gamers right?&#39;](https://www.pcgamer.com/star-wars-jedi-survivor-steam-reviews-hit-mostly-negative-as-players-slam-performance-issuesf-us-pc-gamers-right)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for May 1 to 5](https://news.xbox.com/en-us/2023/04/28/next-week-on-xbox-new-games-for-may-1-to-5/)
+ - [Mario can ride Donkey Kong in the new Lego Super Mario sets](https://www.polygon.com/deals/23700996/donkey-kong-lego-super-mario-release-date-pre-order-expansion-set)
+ - [Blooming Business: Casino is a colourful twist on Las Vegas in the &#39;50s](https://www.pcgamer.com/blooming-business-casino-is-a-colourful-twist-on-las-vegas-in-the-50s)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
