@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 could liven up Material You with significantly bolder colors](https://www.androidauthority.com/material-you-colors-3318470/)
- - [DOJ Detected SolarWinds Breach Months Before Public Disclosure](https://www.wired.com/story/solarwinds-hack-public-disclosure/)
- - [Guardians of the Galaxy Vol. 3 is a gorgeous spectacle that confuses schmaltz for sentimentality](https://www.theverge.com/23702288/guardians-of-the-galaxy-vol-3-review)<!-- TECH:END -->
+ - [The 39 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 45 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [The 27 Best Amazon Prime Shows Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
