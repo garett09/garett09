@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Star Wars Jedi: Survivor, Redfall Controllers, and Armored Core VI News](https://news.xbox.com/en-us/2023/04/28/this-week-on-xbox-star-wars-jedi-survivor-redfall-controllers-and-armored-core-vi-news/)
- - [The Reason Regulators Blocked Microsoft&#39;s Activision Deal Makes No Sense](https://kotaku.com/activision-blizzard-xbox-merger-call-duty-game-pass-1850387323)
- - [Look, gaming monitors are just doing aspect ratio wrong](https://www.pcgamer.com/look-gaming-monitors-are-just-doing-aspect-ratio-wrong)<!-- GAME:END -->
+ - [Elden Ring Player Murks Malenia In 15 Seconds On Hardest Difficulty](https://kotaku.com/elden-ring-youtube-lionheart-malenia-buff-bleed-reddit-1850387548)
+ - [EA kinda sorta apologizes for poor Star Wars Jedi: Survivor performance, cites high-end hardware as a problem](https://www.pcgamer.com/ea-kinda-sorta-apologizes-for-poor-star-wars-jedi-survivor-performance-cites-high-end-hardware-as-a-problem)
+ - [Here&#39;s why you have to deal with so many annoying webPs now](https://www.pcgamer.com/heres-why-you-have-to-deal-with-so-many-annoying-webps-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
