@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is missing?](http://9gag.com/gag/aPg8DbG)
- - 🚯 [People in Pakistan are now putting padlocks on the graves of their daughters to prevent them from necrophilia.](http://9gag.com/gag/a1P5APv)
- - 🚯 [Emotional damage](http://9gag.com/gag/aDYZ32w)<!-- MEMES:END -->
+ - 🚖 [It felt wrong from the start but the end is just wronger](http://9gag.com/gag/aL1G256)
+ - 🚯 [If you know, you know...](http://9gag.com/gag/a5XGdYV)
+ - 🚯 [People in Pakistan are now putting padlocks on the graves of their daughters to prevent them from necrophilia.](http://9gag.com/gag/a1P5APv)<!-- MEMES:END -->
 
 --- 
 
