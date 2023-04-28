@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I was going to rant about film grain in games but then I remembered chromatic aberration exists](https://www.pcgamer.com/chromatic-aberration-is-the-actual-worst)
- - [Star Wars Jedi: Survivor Inundated With Bad Steam Reviews, Giant Day One Patch](https://kotaku.com/star-wars-jedi-survivor-pc-steam-reviews-patch-size-fix-1850386357)
- - [Share of the Week – Ghostwire: Tokyo](https://blog.playstation.com/2023/04/28/share-of-the-week-ghostwire-tokyo-2/)<!-- GAME:END -->
+ - [People Aren’t Buying McDonald&#39;s Fries Because The Economy Sucks](https://kotaku.com/mcdonalds-french-fry-orders-sales-delivery-recession-1850386590)
+ - [Modders are turning Spelunky 2 into a sprawling Metroidvania, and you can try it right now](https://www.pcgamer.com/modders-are-turning-spelunky-2-into-a-sprawling-metroidvania-and-you-can-try-it-right-now)
+ - [Pedro Pascal are Ethan Hawke are queer cowboys in Strange Way of Life](https://www.polygon.com/23702536/pedro-pascal-ethan-hawke-pedro-almodovar-strange-way-of-life-western-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
