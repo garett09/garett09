@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know, you know...](http://9gag.com/gag/a5XGdYV)
- - 🚯 [Emotional damage](http://9gag.com/gag/aDYZ32w)
- - 🚯 [Conjoined twins got married](http://9gag.com/gag/aOxDvK3)<!-- MEMES:END -->
+ - 🚖 [The birth of the purple lightsaber](http://9gag.com/gag/armZOXK)
+ - 🚯 [Feeling old yet?](http://9gag.com/gag/awZLbRy)
+ - 🚯 [Emotional damage](http://9gag.com/gag/aDYZ32w)<!-- MEMES:END -->
 
 --- 
 
