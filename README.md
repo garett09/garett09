@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Peter Pan &amp; Wendy’s controversial dark visuals are the whole point of the movie](https://www.polygon.com/23701232/peter-pan-wendy-review-disney-plus)
- - [Newest Steam Update Is Pretty Good, Actually](https://kotaku.com/steam-pc-gaming-beta-update-overlay-toolbar-notes-1850387146)
- - [Roots of Pacha just became my favorite Stardew Valley-alike](https://www.pcgamer.com/roots-of-pacha-just-became-my-favorite-stardew-valley-alike)<!-- GAME:END -->
+ - [This Week on Xbox: Star Wars Jedi: Survivor, Redfall Controllers, and Armored Core VI News](https://news.xbox.com/en-us/2023/04/28/this-week-on-xbox-star-wars-jedi-survivor-redfall-controllers-and-armored-core-vi-news/)
+ - [The Reason Regulators Blocked Microsoft&#39;s Activision Deal Makes No Sense](https://kotaku.com/activision-blizzard-xbox-merger-call-duty-game-pass-1850387323)
+ - [Look, gaming monitors are just doing aspect ratio wrong](https://www.pcgamer.com/look-gaming-monitors-are-just-doing-aspect-ratio-wrong)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
