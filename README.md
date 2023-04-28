@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a boss move](http://9gag.com/gag/aVbmDqn)
- - 🚯 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
- - 🚯 [Conjoined twins got married](http://9gag.com/gag/aOxDvK3)<!-- MEMES:END -->
+ - 🚖 [Emotional damage](http://9gag.com/gag/aDYZ32w)
+ - 🚯 [Conjoined twins got married](http://9gag.com/gag/aOxDvK3)
+ - 🚯 [Feeling old yet?](http://9gag.com/gag/awZLbRy)<!-- MEMES:END -->
 
 --- 
 
