@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Being blind in public.](http://9gag.com/gag/aBdPQr2)
- - 🚯 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
- - 🚯 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)<!-- MEMES:END -->
+ - 🚖 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
+ - 🚯 [Not for the weak soul](http://9gag.com/gag/aPg8GXQ)
+ - 🚯 [Being blind in public.](http://9gag.com/gag/aBdPQr2)<!-- MEMES:END -->
 
 --- 
 
