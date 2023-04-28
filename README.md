@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [People Aren’t Buying McDonald&#39;s Fries Because The Economy Sucks](https://kotaku.com/mcdonalds-french-fry-orders-sales-delivery-recession-1850386590)
- - [Modders are turning Spelunky 2 into a sprawling Metroidvania, and you can try it right now](https://www.pcgamer.com/modders-are-turning-spelunky-2-into-a-sprawling-metroidvania-and-you-can-try-it-right-now)
- - [Pedro Pascal are Ethan Hawke are queer cowboys in Strange Way of Life](https://www.polygon.com/23702536/pedro-pascal-ethan-hawke-pedro-almodovar-strange-way-of-life-western-trailer)<!-- GAME:END -->
+ - [Atmospheric Strayed Lights is Available Now on Xbox](https://news.xbox.com/en-us/2023/04/28/atmospheric-strayed-lights-is-available-now-on-xbox/)
+ - [D&amp;D 5th edition will live on in Project Black Flag, and The Vineyard leads the way](https://www.polygon.com/23700664/dnd-dungeons-dragons-project-black-flag-5e-kobold-press-vineyard)
+ - [Vampire Survivors is being made into an animated series](https://www.pcgamer.com/vampire-survivors-is-being-made-into-an-animated-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
