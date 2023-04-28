@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)
- - 🚯 [Not for the weak soul](http://9gag.com/gag/aPg8GXQ)
- - 🚯 [Being blind in public.](http://9gag.com/gag/aBdPQr2)<!-- MEMES:END -->
+ - 🚖 [Abdul Himullah speech](http://9gag.com/gag/aWGvZEx)
+ - 🚯 [Emotional damage](http://9gag.com/gag/aDYZ32w)
+ - 🚯 [Elon bans `Youth Attracted People` flag... leftists outraged.](http://9gag.com/gag/ajVB63Q)<!-- MEMES:END -->
 
 --- 
 
