@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for May 1 to 5](https://news.xbox.com/en-us/2023/04/28/next-week-on-xbox-new-games-for-may-1-to-5/)
- - [Mario can ride Donkey Kong in the new Lego Super Mario sets](https://www.polygon.com/deals/23700996/donkey-kong-lego-super-mario-release-date-pre-order-expansion-set)
- - [Blooming Business: Casino is a colourful twist on Las Vegas in the &#39;50s](https://www.pcgamer.com/blooming-business-casino-is-a-colourful-twist-on-las-vegas-in-the-50s)<!-- GAME:END -->
+ - [7 great spy-themed board games for the budding secret agent](https://www.polygon.com/23678391/best-spy-themed-board-games)
+ - [Sci-fi action-adventure Hubris launches hits PS VR2 this May](https://blog.playstation.com/2023/04/28/sci-fi-action-adventure-hubris-launches-hits-ps-vr2-this-may/)
+ - [This weekend is your first chance to buy a handheld PC with AMD&#39;s powerful new chip](https://www.pcgamer.com/this-weekend-is-your-first-chance-to-buy-a-handheld-pc-with-amds-powerful-new-chip)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
