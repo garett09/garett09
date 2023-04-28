@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This might be stupid question but can someone tell me why it doesn&#39;t explode](http://9gag.com/gag/a8qDYPO)
- - 🚯 [What is missing?](http://9gag.com/gag/aPg8DbG)
- - 🚯 [Statistically the worst thing that can happen to a child is to be raised by a single mom](http://9gag.com/gag/aKEWPbb)<!-- MEMES:END -->
+ - 🚖 [If you know, you know...](http://9gag.com/gag/a5XGdYV)
+ - 🚯 [Emotional damage](http://9gag.com/gag/aDYZ32w)
+ - 🚯 [Conjoined twins got married](http://9gag.com/gag/aOxDvK3)<!-- MEMES:END -->
 
 --- 
 
