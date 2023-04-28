@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel promises an avalanche of new CPUs and chip tech despite record losses](https://www.pcgamer.com/intel-promises-an-avalanche-of-new-cpus-and-chip-tech-despite-record-losses)
  - [Street Fighter movie is likely getting a surprising but great pair of directors](https://www.polygon.com/23701441/street-fighter-movie-directors-talk-to-me-horror-philippou-rackaracka)
- - [Today&#39;s Wordle hint and answer #678: Friday, April 28](https://www.pcgamer.com/wordle-today-hint-answer-678-april-28)
- - [Star Wars Jedi: Survivor guides, collectible locations, and puzzle solutions](https://www.polygon.com/star-wars-jedi-survivor-guides/23692435/items-collectible-walkthroughs-puzzle-solutions)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #678: Friday, April 28](https://www.pcgamer.com/wordle-today-hint-answer-678-april-28)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
