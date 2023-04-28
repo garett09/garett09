@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Steam feature lets you pin windows over games, including guides, notes, and web pages](https://www.pcgamer.com/new-steam-feature-lets-you-pin-windows-over-games-including-guides-notes-and-web-pages)
- - [RIP To Waypoint, A Good Website About Video Games](https://kotaku.com/rip-to-waypoint-a-good-website-about-video-games-1850385017)
- - [I just learned what modem means. My whole life has been a lie](https://www.pcgamer.com/i-just-learned-what-modem-means-my-whole-life-has-been-a-lie)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor guides, collectible locations, and puzzle solutions](https://www.polygon.com/star-wars-jedi-survivor-guides/23692435/items-collectible-walkthroughs-puzzle-solutions)
+ - [Every Star Wars Jedi: Survivor achievement and trophy](https://www.polygon.com/star-wars-jedi-survivor-guides/23701178/achievement-trophy-list)
+ - [Star Wars Jedi: Survivor Shattered Moon collectibles: All chests, Force tears, and essences](https://www.polygon.com/star-wars-jedi-survivor-guides/23699005/shattered-moon-collectibles-chests-force-tears-essences-perks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
