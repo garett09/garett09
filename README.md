@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [LAPD Cop attempts a pedestrian stop and Shoots at `Suspect Holding a Gun-Shaped Lighter`](http://9gag.com/gag/az2GVVN)
- - 🚯 [Brazilian Araucaria&#39;s mayor marries 16yo girl and give her mother a high payed salary as culture secretary](http://9gag.com/gag/aEqowpo)
- - 🚯 [What is missing?](http://9gag.com/gag/aPg8DbG)<!-- MEMES:END -->
+ - 🚖 [Being blind in public.](http://9gag.com/gag/aBdPQr2)
+ - 🚯 [This broken ceramic piece caused a car window to shatter.](http://9gag.com/gag/adPn0G2)
+ - 🚯 [This man shows us how the shoeshine scam takes place](http://9gag.com/gag/aDYZwBO)<!-- MEMES:END -->
 
 --- 
 
