@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawmakers propose banning AI from singlehandedly launching nuclear weapons](https://www.theverge.com/2023/4/28/23702992/ai-nuclear-weapon-launch-ban-bill-markey-lieu-beyer-buck)
- - [Google Pixel 7a vs Samsung Galaxy A54 5G](https://www.androidauthority.com/google-pixel-7a-vs-samsung-galaxy-a54-5g-3315778/)
- - [ChatGPT returns to Italy after ban](https://www.theverge.com/2023/4/28/23702883/chatgpt-italy-ban-lifted-gpdp-data-protection-age-verification)<!-- TECH:END -->
+ - [Honkai: Star Rail – How do Support and Starfaring Companions work?](https://www.androidauthority.com/honkai-star-rail-support-companions-starfaring-companions-3318586/)
+ - [Instagram is testing songs in photo carousels](https://www.theverge.com/2023/4/28/23702912/instagram-testing-songs-photo-carousels)
+ - [Medtronic gets FDA approval for new iPhone &amp; Apple Watch connected diabetic therapy system](https://appleinsider.com/articles/23/04/28/medtronic-gets-fda-approval-for-new-iphone-apple-watch-connected-diabetic-therapy-system?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
