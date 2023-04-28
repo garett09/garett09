@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s long-rumored all-glass tactile keyboard may be real sooner rather than later](https://appleinsider.com/articles/23/04/28/apples-long-rumored-all-glass-tactile-keyboard-may-be-real-sooner-rather-than-later?utm_medium=rss)
- - [Notion vs Evernote: Which is the better note-taking service?](https://www.androidauthority.com/notion-vs-evernote-3317388/)
- - [OnePlus Pad review: Can the flagship killer beat the iPad?](https://www.androidauthority.com/oneplus-pad-review-3309359/)<!-- TECH:END -->
+ - [Washington passes law requiring consent before companies collect health data](https://www.theverge.com/2023/4/28/23702246/washington-health-data-law-consent-collect-sell)
+ - [12 Best Tablets &lpar;2023&rpar;: For Work, Play, Kids, Seniors, and More](https://www.wired.com/gallery/the-best-tablets/)
+ - [Here are the first Lego Donkey Kong sets](https://www.theverge.com/23699494/lego-donkey-kong-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
