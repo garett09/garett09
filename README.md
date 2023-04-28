@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 2023 MacBook Pro is back on sale for $1,749, but the deal ends soon](https://appleinsider.com/articles/23/04/28/apples-2023-macbook-pro-is-back-on-sale-for-1749-but-the-deal-ends-soon?utm_medium=rss)
- - [Apple Arcade: All the New Games and Updates Coming in April     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)
- - [A look at Google&#39;s DeepMind-Brain merger; sources say Demis Hassabis ceded DeepMind&#39;s cherished independence in return for greater power over the future of AI &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/230428/p7#a230428p7)<!-- TECH:END -->
+ - [Vampire Survivors is being turned into a TV show](https://www.theverge.com/2023/4/28/23702522/vampire-survivors-animated-tv-show)
+ - [How to transfer your Google Authenticator 2FA to a new phone](https://www.theverge.com/21410260/google-authenticator-2fa-how-to-phone-security-iphone-android)
+ - [Today is Star Wars Jedi: Survivor launch day, and you can get it with a $10 gift card](https://www.theverge.com/2023/4/28/23700498/star-wars-jedi-survivor-amazfit-gtr-smartwatch-hisense-u8h-tv-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
