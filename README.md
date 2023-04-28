@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The birth of the purple lightsaber](http://9gag.com/gag/armZOXK)
- - 🚯 [Feeling old yet?](http://9gag.com/gag/awZLbRy)
- - 🚯 [Emotional damage](http://9gag.com/gag/aDYZ32w)<!-- MEMES:END -->
+ - 🚖 [This might be stupid question but can someone tell me why it doesn&#39;t explode](http://9gag.com/gag/a8qDYPO)
+ - 🚯 [When you come home from office early](http://9gag.com/gag/aQEA8j8)
+ - 🚯 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)<!-- MEMES:END -->
 
 --- 
 
