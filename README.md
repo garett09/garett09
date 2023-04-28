@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Emotional damage](http://9gag.com/gag/aDYZ32w)
- - 🚯 [Conjoined twins got married](http://9gag.com/gag/aOxDvK3)
- - 🚯 [Feeling old yet?](http://9gag.com/gag/awZLbRy)<!-- MEMES:END -->
+ - 🚯 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)
+ - 🚯 [Wow lady. Really??](http://9gag.com/gag/aWGvMD4)<!-- MEMES:END -->
 
 --- 
 
