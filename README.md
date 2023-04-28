@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Emotional damage](http://9gag.com/gag/aDYZ32w)
- - 🚯 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)
- - 🚯 [Wow lady. Really??](http://9gag.com/gag/aWGvMD4)<!-- MEMES:END -->
+ - 🚖 [What is missing?](http://9gag.com/gag/aPg8DbG)
+ - 🚯 [Woman gets out of the car to argue with her husband while inside a Tiger Safari](http://9gag.com/gag/aVbmW6M)
+ - 🚯 [Feeling old yet?](http://9gag.com/gag/awZLbRy)<!-- MEMES:END -->
 
 --- 
 
