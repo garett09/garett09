@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It felt wrong from the start but the end is just wronger](http://9gag.com/gag/aL1G256)
- - 🚯 [If you know, you know...](http://9gag.com/gag/a5XGdYV)
- - 🚯 [People in Pakistan are now putting padlocks on the graves of their daughters to prevent them from necrophilia.](http://9gag.com/gag/a1P5APv)<!-- MEMES:END -->
+ - 🚖 [Quick, upvote so that Americans see it before going to sleep](http://9gag.com/gag/aQEA4AW)
+ - 🚯 [She beat it!](http://9gag.com/gag/aDYZAPO)
+ - 🚯 [How to make her wet](http://9gag.com/gag/aDYZ0QZ)<!-- MEMES:END -->
 
 --- 
 
