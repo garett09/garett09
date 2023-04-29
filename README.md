@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is missing?](http://9gag.com/gag/aPg8DbG)
- - 🚯 [3 step love story](http://9gag.com/gag/adPnq8d)
- - 🚯 [The birth of the purple lightsaber](http://9gag.com/gag/armZOXK)<!-- MEMES:END -->
+ - 🚖 [I miss her](http://9gag.com/gag/aXn4q56)
+ - 🚯 [Smartest guy in the room](http://9gag.com/gag/amAm2o4)
+ - 🚯 [He might be guilty..](http://9gag.com/gag/az2GrEK)<!-- MEMES:END -->
 
 --- 
 
