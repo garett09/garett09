@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Miami Tech Week, where more attention was devoted to AI than crypto this year and the tech downturn was hardly noticeable despite a plunge in VC funding &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/230429/p2#a230429p2)
- - [Didi, in its first annual report since its US delisting, reports 2022 net revenue down 19% YoY to ~$20.37B and a net loss of ~$3.44B, down from ~$7.13B in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/230429/p1#a230429p1)
- - [Quebec-based E2ip, which develops tech for smart displays and surfaces, raised a $120M Series B co-led by Export Development Canada and McRock Capital &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230428/p20#a230428p20)<!-- TECH:END -->
+ - [A WSJ columnist used Synthesia, ElevenLabs, and ChatGPT to create an AI clone that could trick her bank&#39;s voice biometric system, make a TikTok, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/230429/p4#a230429p4)
+ - [The Google Pixel Fold looks nearly gapless in first leaked marketing images](https://www.theverge.com/2023/4/29/23703925/google-pixel-fold-leak-evan-blass-marketing-renders)
+ - [Jack Dorsey criticized Elon Musk&#39;s leadership of Twitter on Bluesky and refused to take responsibility for the acquisition, claiming &quot;it all went south&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/230429/p3#a230429p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
