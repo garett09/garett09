@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #679: Saturday, April 29](https://www.pcgamer.com/wordle-today-hint-answer-679-april-29)
  - [How to get through green laser walls in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-green-laser-wall)
- - [Sony confirms more PC ports are coming, because it&#39;s making a ton of money](https://www.pcgamer.com/sony-confirms-more-pc-ports-are-coming-because-its-making-a-ton-of-money)
- - [Modder wires ChatGPT into Skyrim VR so NPCs can roleplay and remember past conversations](https://www.pcgamer.com/modder-wires-chatgpt-into-skyrim-vr-so-npcs-can-roleplay-and-remember-past-conversations)<!-- GAME:END -->
+ - [Sony confirms more PC ports are coming, because it&#39;s making a ton of money](https://www.pcgamer.com/sony-confirms-more-pc-ports-are-coming-because-its-making-a-ton-of-money)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
