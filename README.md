@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [What is missing?](http://9gag.com/gag/aPg8DbG)
- - 🚯 [Seventh grader from Michigan saves bus load of children when the driver passes out](http://9gag.com/gag/armZ5N7)
- - 🚯 [When you come home from office early](http://9gag.com/gag/aQEA8j8)<!-- MEMES:END -->
+ - 🚯 [3 step love story](http://9gag.com/gag/adPnq8d)
+ - 🚯 [The birth of the purple lightsaber](http://9gag.com/gag/armZOXK)<!-- MEMES:END -->
 
 --- 
 
