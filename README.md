@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I miss her](http://9gag.com/gag/aXn4q56)
- - 🚯 [Smartest guy in the room](http://9gag.com/gag/amAm2o4)
- - 🚯 [He might be guilty..](http://9gag.com/gag/az2GrEK)<!-- MEMES:END -->
+ - 🚖 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)
+ - 🚯 [Yeah that will teach us](http://9gag.com/gag/aeQVYXb)
+ - 🚯 [Those who refuse are sent to the Sarlacc](http://9gag.com/gag/aBdPwVN)<!-- MEMES:END -->
 
 --- 
 
