@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wikimedia won&#39;t comply with the Online Safety Bill&#39;s age checks of its UK readers or contributors, citing the foundation&#39;s &quot;commitment to collect minimal data&quot; &lpar;BBC&rpar;](http://www.techmeme.com/230429/p11#a230429p11)
- - [BenQ ideaCam S1 Pro review: Versatile video modes](https://appleinsider.com/articles/23/04/29/benq-ideacam-s1-pro-review-versatile-video-modes?utm_medium=rss)
- - [By building an open ecosystem, Google has locked me in forever](https://www.androidauthority.com/google-open-ecosystem-lock-3315205/)<!-- TECH:END -->
+ - [Microsoft&#39;s Canva-like web app Designer, which leverages user-created content and OpenAI&#39;s text-to-image DALL-E 2 to ideate designs, launches in public preview &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230429/p12#a230429p12)
+ - [Best Budget Laptop 2023: Our Top 6 Picks Starting at $300     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)
+ - [Wikimedia won&#39;t comply with the Online Safety Bill&#39;s age checks of its UK readers or contributors, citing the foundation&#39;s &quot;commitment to collect minimal data&quot; &lpar;BBC&rpar;](http://www.techmeme.com/230429/p11#a230429p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
