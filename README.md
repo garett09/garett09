@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smartest guy in the room](http://9gag.com/gag/amAm2o4)
- - 🚯 [Gag between friends](http://9gag.com/gag/a046bzq)
+ - 🚖 [Wow lady. Really??](http://9gag.com/gag/aWGvMD4)
+ - 🚯 [The birth of the purple lightsaber](http://9gag.com/gag/armZOXK)
  - 🚯 [I miss her](http://9gag.com/gag/aXn4q56)<!-- MEMES:END -->
 
 --- 
