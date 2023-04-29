@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a boss move](http://9gag.com/gag/aVbmDqn)
- - 🚯 [Hyundai\u2019s new steering systems](http://9gag.com/gag/a3Zy7R3)
- - 🚯 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)<!-- MEMES:END -->
+ - 🚖 [And pens are not only for writing the label](http://9gag.com/gag/aGEMD9X)
+ - 🚯 [Meow](http://9gag.com/gag/az2G9Dz)
+ - 🚯 [Come to hawaii, it&#39;s a paradise they said](http://9gag.com/gag/a9q8r2W)<!-- MEMES:END -->
 
 --- 
 
