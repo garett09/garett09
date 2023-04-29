@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Come closer](http://9gag.com/gag/a3ZyKnr)
- - 🚯 [Meow](http://9gag.com/gag/az2G9Dz)
- - 🚯 [For what the Internet was &lpar;really&rpar; made for](http://9gag.com/gag/aoK4OZ0)<!-- MEMES:END -->
+ - 🚖 [What a boss move](http://9gag.com/gag/aVbmDqn)
+ - 🚯 [Hyundai\u2019s new steering systems](http://9gag.com/gag/a3Zy7R3)
+ - 🚯 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)<!-- MEMES:END -->
 
 --- 
 
