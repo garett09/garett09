@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another leak: The Asus ROG Ally will start at $600 with AMD Z1 and 256GB SSD](https://www.theverge.com/2023/4/28/23703461/asus-rog-ally-z1-256gb-leak)
- - [Source: IRL CEO Abraham Shafi has stepped down, following allegations the messaging startup used bots to inflate the users it reported publicly and to investors &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/230428/p17#a230428p17)
- - [Docs and sources: OpenAI closed a $300M+ share sale at a $27B-$29B valuation; backers include Tiger Global, Sequoia, a16z, Thrive, K2 Global, and Founders Fund &lpar;TechCrunch&rpar;](http://www.techmeme.com/230428/p16#a230428p16)<!-- TECH:END -->
+ - [Can you schedule an email in Gmail? Yes, here’s how](https://www.androidauthority.com/how-to-schedule-an-email-in-gmail-3318571/)
+ - [Interviews with lawmakers and sources reveal how, over just 11 days, MEPs created a draft bill on generative AI, a rare example of quick consensus in the EU &lpar;Reuters&rpar;](http://www.techmeme.com/230428/p19#a230428p19)
+ - [Apple drops its lawsuit against Gerard Williams III, a former Apple chip executive who allegedly poached its employees and used company resources to start Nuvia &lpar;Joel Rosenblatt/Bloomberg&rpar;](http://www.techmeme.com/230428/p18#a230428p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
