@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is missing?](http://9gag.com/gag/aPg8DbG)
- - 🚯 [3 step love story](http://9gag.com/gag/adPnq8d)
- - 🚯 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)<!-- MEMES:END -->
+ - 🚖 [Hyundai\u2019s new steering systems](http://9gag.com/gag/a3Zy7R3)
+ - 🚯 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)
+ - 🚯 [3 step love story](http://9gag.com/gag/adPnq8d)<!-- MEMES:END -->
 
 --- 
 
