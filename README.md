@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why is Gamora &lpar;in Guardians of the Galaxy Vol. 3&rpar;?](https://www.polygon.com/23702435/how-is-gamora-alive-in-guardians-of-the-galaxy-vol-3)
- - [This huge Tiny Tina&#39;s Wonderlands mod sounds like almost a completely different game](https://www.pcgamer.com/this-huge-tiny-tinas-wonderlands-mod-sounds-like-almost-a-completely-different-game)
- - [Scream VI, Peter Pan and Wendy, Netflix’s AKA, and every other movie you can stream from home this weekend](https://www.polygon.com/2023/4/28/23695761/new-movies-watch-scream-vi-netflix-aka-peter-pan-wendy-streaming)<!-- GAME:END -->
+ - [How to get through green laser walls in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-green-laser-wall)
+ - [Sony confirms more PC ports are coming, because it&#39;s making a ton of money](https://www.pcgamer.com/sony-confirms-more-pc-ports-are-coming-because-its-making-a-ton-of-money)
+ - [Modder wires ChatGPT into Skyrim VR so NPCs can roleplay and remember past conversations](https://www.pcgamer.com/modder-wires-chatgpt-into-skyrim-vr-so-npcs-can-roleplay-and-remember-past-conversations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
