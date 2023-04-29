@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-482-3318111/)
- - [Apple drops employment lawsuit against ex-chip architect](https://appleinsider.com/articles/23/04/29/apple-drops-employment-lawsuit-against-ex-chip-architect?utm_medium=rss)
- - [India&#39;s Enforcement Directorate searched three premises of edtech giant Byju&#39;s and its founder Byju Raveendran as part of an anti-money laundering probe &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230429/p8#a230429p8)<!-- TECH:END -->
+ - [Elon Musk says Twitter plans to let media publishers charge users on a per article basis with one click, starting next month &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230429/p10#a230429p10)
+ - [Take Up to $250 off E-Bikes at Rad Power Bikes     - CNET](https://www.cnet.com/roadshow/news/take-up-to-250-off-e-bikes-at-rad-power-bikes/#ftag=CAD590a51e)
+ - [Showrunner &#39;hate&#39; causing delays in making &#39;Severance&#39; season 2](https://appleinsider.com/articles/23/04/29/showrunner-hate-causing-delays-in-making-severance-season-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
