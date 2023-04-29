@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Polite Society’s big sister-on-sister fight was inspired by an ‘insanely violent’ horror film](https://www.polygon.com/23699375/polite-society-the-matrix-kill-bill-raw-influences)
  - [Honkai: Star Rail has convinced me every character deserves a cell phone](https://www.polygon.com/gaming/23701348/honkai-star-rail-cell-phone-march-7th-dan-heng-trailblazer)
- - [This windswept platformer is going to have entirely embroidered character art](https://www.pcgamer.com/this-windswept-platformer-is-going-to-have-entirely-embroidered-character-art)
- - [Warhammer 40K, explained](https://www.polygon.com/23692856/warhammer-40k-explained-timeline-factions-lore-setting)<!-- GAME:END -->
+ - [This windswept platformer is going to have entirely embroidered character art](https://www.pcgamer.com/this-windswept-platformer-is-going-to-have-entirely-embroidered-character-art)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
