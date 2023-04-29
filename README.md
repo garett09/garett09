@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you come home from office early](http://9gag.com/gag/aQEA8j8)
- - 🚯 [3 step love story](http://9gag.com/gag/adPnq8d)
- - 🚯 [What is missing?](http://9gag.com/gag/aPg8DbG)<!-- MEMES:END -->
+ - 🚖 [Come closer](http://9gag.com/gag/a3ZyKnr)
+ - 🚯 [Meow](http://9gag.com/gag/az2G9Dz)
+ - 🚯 [For what the Internet was &lpar;really&rpar; made for](http://9gag.com/gag/aoK4OZ0)<!-- MEMES:END -->
 
 --- 
 
