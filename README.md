@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Damon Lindelof was ‘asked to leave’ the Star Wars project he was working on](https://www.theverge.com/2023/4/28/23703300/damon-lindelof-star-wars-project-film-leave)
- - [Best iPhone 12 Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)
- - [Quick fixes: use Google Chrome to link text inside any webpage](https://www.theverge.com/23703037/google-chrome-link-to-highlight-how-to)<!-- TECH:END -->
+ - [Another leak: The Asus ROG Ally will start at $600 with AMD Z1 and 256GB SSD](https://www.theverge.com/2023/4/28/23703461/asus-rog-ally-z1-256gb-leak)
+ - [Source: IRL CEO Abraham Shafi has stepped down, following allegations the messaging startup used bots to inflate the users it reported publicly and to investors &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/230428/p17#a230428p17)
+ - [Docs and sources: OpenAI closed a $300M+ share sale at a $27B-$29B valuation; backers include Tiger Global, Sequoia, a16z, Thrive, K2 Global, and Founders Fund &lpar;TechCrunch&rpar;](http://www.techmeme.com/230428/p16#a230428p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
