@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at livestream shopping in China, where an estimated $500B in goods were sold on apps like Douyin in 2022, an 8x jump since 2019, amid regulatory scrutiny &lpar;Vivian Wang/New York Times&rpar;](http://www.techmeme.com/230429/p5#a230429p5)
- - [A WSJ columnist used Synthesia, ElevenLabs, and ChatGPT to create an AI clone that could trick her bank&#39;s voice biometric system, make a TikTok, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/230429/p4#a230429p4)
- - [The Google Pixel Fold looks nearly gapless in first leaked marketing images](https://www.theverge.com/2023/4/29/23703925/google-pixel-fold-leak-evan-blass-marketing-renders)<!-- TECH:END -->
+ - [11 Best Deals: Coffee Gear, Games, and Sex Toys](https://www.wired.com/story/weekend-deals-april-29-2023/)
+ - [Here’s your first look at the Samsung Galaxy Z Fold 5](https://www.androidauthority.com/samsung-galaxy-z-fold-5-renders-design-images-3318776/)
+ - [Google&#39;s Pixel Fold Could Be on the Way, So Where&#39;s Apple&#39;s Foldable iPhone?     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-fold-could-be-on-the-way-so-wheres-apples-foldable-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
