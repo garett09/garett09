@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hyundai\u2019s new steering systems](http://9gag.com/gag/a3Zy7R3)
- - 🚯 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)
- - 🚯 [3 step love story](http://9gag.com/gag/adPnq8d)<!-- MEMES:END -->
+ - 🚖 [The smile at the end](http://9gag.com/gag/aeQVbgp)
+ - 🚯 [Welcome to the future old men](http://9gag.com/gag/axobgpK)
+ - 🚯 [I miss her](http://9gag.com/gag/aXn4q56)<!-- MEMES:END -->
 
 --- 
 
