@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Quebec-based E2ip, which develops tech for smart displays and surfaces, raised a $120M Series B co-led by Export Development Canada and McRock Capital &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230428/p20#a230428p20)
  - [Can you schedule an email in Gmail? Yes, here’s how](https://www.androidauthority.com/how-to-schedule-an-email-in-gmail-3318571/)
- - [Interviews with lawmakers and sources reveal how, over just 11 days, MEPs created a draft bill on generative AI, a rare example of quick consensus in the EU &lpar;Reuters&rpar;](http://www.techmeme.com/230428/p19#a230428p19)
- - [Apple drops its lawsuit against Gerard Williams III, a former Apple chip executive who allegedly poached its employees and used company resources to start Nuvia &lpar;Joel Rosenblatt/Bloomberg&rpar;](http://www.techmeme.com/230428/p18#a230428p18)<!-- TECH:END -->
+ - [Interviews with lawmakers and sources reveal how, over just 11 days, MEPs created a draft bill on generative AI, a rare example of quick consensus in the EU &lpar;Reuters&rpar;](http://www.techmeme.com/230428/p19#a230428p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
