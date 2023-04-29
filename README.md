@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Deals: Coffee Gear, Games, and Sex Toys](https://www.wired.com/story/weekend-deals-april-29-2023/)
- - [Here’s your first look at the Samsung Galaxy Z Fold 5](https://www.androidauthority.com/samsung-galaxy-z-fold-5-renders-design-images-3318776/)
- - [Google&#39;s Pixel Fold Could Be on the Way, So Where&#39;s Apple&#39;s Foldable iPhone?     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-fold-could-be-on-the-way-so-wheres-apples-foldable-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Six months since Elon Musk&#39;s Twitter takeover, a brief overview of Twitter alternatives, including Mastodon, Bluesky, and Nostr, and how they might evolve &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230429/p6#a230429p6)
+ - [Deadly Heat Threatens the Well-Being of 1 Billion People in India](https://www.wired.com/story/extreme-heat-india/)
+ - [How to Remove Your Personal Info From Google&#39;s Search Results](https://www.wired.com/story/remove-personal-info-from-google-search-results/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
