@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Pixel Fold looks nearly gapless in first leaked marketing images](https://www.theverge.com/2023/4/29/23703925/google-pixel-fold-leak-evan-blass-marketing-renders)
- - [Microsoft&#39;s Canva-like web app Designer, which leverages user-created content and OpenAI&#39;s text-to-image DALL-E 2 to ideate designs, launches in public preview &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230429/p12#a230429p12)
- - [Best Budget Laptop 2023: Our Top 6 Picks Starting at $300     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grid MacBook Air review: an original Mac framed for your wall](https://appleinsider.com/articles/23/04/29/grid-macbook-air-review-an-original-mac-framed-for-your-wall?utm_medium=rss)
+ - [New iOS 17 wallpaper grid view may make picking backgrounds easier](https://appleinsider.com/articles/23/04/29/new-ios-17-wallpaper-grid-view-may-make-picking-backgrounds-easier?utm_medium=rss)
+ - [The Google Pixel Fold looks nearly gapless in first leaked marketing images](https://www.theverge.com/2023/4/29/23703925/google-pixel-fold-leak-evan-blass-marketing-renders)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
