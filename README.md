@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smartphone Sales Take a Tumble](https://www.wired.com/story/smartphone-sales-slump-q1-2023/)
- - [How to Use the Apple Shortcuts App on iPhone, iPad, or Mac &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-apple-shortcuts-app/)
- - [The Tragic Fallout From a School District’s Ransomware Breach](https://www.wired.com/story/minneapolis-public-schools-ransomware-attack/)<!-- TECH:END -->
+ - [These are the FAST services you need to know about](https://www.theverge.com/23680217/fast-services-tubi-roku-pluto-tv)
+ - [Google Pixel 7 Pro vs Samsung Galaxy S23 Ultra: Battle of the camera zooms](https://www.androidauthority.com/galaxy-s23-ultra-vs-pixel-7-pro-camera-zoom-3315867/)
+ - [11 Best Retro Game Consoles &lpar;2023&rpar;: Evercade, Polymega, Analogue Pocket, and Controllers](https://www.wired.com/gallery/best-retro-gaming-consoles/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
