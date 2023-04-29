@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at livestream shopping in China, where an estimated $500B in goods were sold on apps like Douyin in 2022, an 8x jump since 2019, amid regulatory scrutiny &lpar;Vivian Wang/New York Times&rpar;](http://www.techmeme.com/230429/p5#a230429p5)
  - [A WSJ columnist used Synthesia, ElevenLabs, and ChatGPT to create an AI clone that could trick her bank&#39;s voice biometric system, make a TikTok, and more &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/230429/p4#a230429p4)
- - [The Google Pixel Fold looks nearly gapless in first leaked marketing images](https://www.theverge.com/2023/4/29/23703925/google-pixel-fold-leak-evan-blass-marketing-renders)
- - [Jack Dorsey criticized Elon Musk&#39;s leadership of Twitter on Bluesky and refused to take responsibility for the acquisition, claiming &quot;it all went south&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/230429/p3#a230429p3)<!-- TECH:END -->
+ - [The Google Pixel Fold looks nearly gapless in first leaked marketing images](https://www.theverge.com/2023/4/29/23703925/google-pixel-fold-leak-evan-blass-marketing-renders)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
