@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)
- - 🚯 [Yeah that will teach us](http://9gag.com/gag/aeQVYXb)
- - 🚯 [Those who refuse are sent to the Sarlacc](http://9gag.com/gag/aBdPwVN)<!-- MEMES:END -->
+ - 🚖 [My jam](http://9gag.com/gag/avQEOe5)
+ - 🚯 [And some stock images.. strong human effect](http://9gag.com/gag/aOxDrwr)
+ - 🚯 [Yeah that will teach us](http://9gag.com/gag/aeQVYXb)<!-- MEMES:END -->
 
 --- 
 
