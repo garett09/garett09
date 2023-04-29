@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This magic trick](http://9gag.com/gag/aDYZmyB)
- - 🚯 [Not for the weak soul](http://9gag.com/gag/aPg8GXQ)
- - 🚯 [What a boss move](http://9gag.com/gag/aVbmDqn)<!-- MEMES:END -->
+ - 🚖 [What is missing?](http://9gag.com/gag/aPg8DbG)
+ - 🚯 [Seventh grader from Michigan saves bus load of children when the driver passes out](http://9gag.com/gag/armZ5N7)
+ - 🚯 [When you come home from office early](http://9gag.com/gag/aQEA8j8)<!-- MEMES:END -->
 
 --- 
 
