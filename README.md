@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And pens are not only for writing the label](http://9gag.com/gag/aGEMD9X)
- - 🚯 [Meow](http://9gag.com/gag/az2G9Dz)
- - 🚯 [Come to hawaii, it&#39;s a paradise they said](http://9gag.com/gag/a9q8r2W)<!-- MEMES:END -->
+ - 🚖 [W\u00f6t is thet](http://9gag.com/gag/anzvM95)
+ - 🚯 [Gotta catch em all](http://9gag.com/gag/ap9P2LE)
+ - 🚯 [3 step love story](http://9gag.com/gag/adPnq8d)<!-- MEMES:END -->
 
 --- 
 
