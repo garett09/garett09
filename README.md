@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best movies leaving Netflix, Hulu, Prime, and HBO Max at the end of April 2023](https://www.polygon.com/what-to-watch/2023/4/29/23697543/best-movies-netflix-amazon-hulu-hbo-leaving-april-2023)
  - [Today&#39;s Wordle hint and answer #679: Saturday, April 29](https://www.pcgamer.com/wordle-today-hint-answer-679-april-29)
- - [How to get through green laser walls in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-green-laser-wall)
- - [Sony confirms more PC ports are coming, because it&#39;s making a ton of money](https://www.pcgamer.com/sony-confirms-more-pc-ports-are-coming-because-its-making-a-ton-of-money)<!-- GAME:END -->
+ - [How to get through green laser walls in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-green-laser-wall)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
