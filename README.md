@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the FAST services you need to know about](https://www.theverge.com/23680217/fast-services-tubi-roku-pluto-tv)
- - [Google Pixel 7 Pro vs Samsung Galaxy S23 Ultra: Battle of the camera zooms](https://www.androidauthority.com/galaxy-s23-ultra-vs-pixel-7-pro-camera-zoom-3315867/)
- - [11 Best Retro Game Consoles &lpar;2023&rpar;: Evercade, Polymega, Analogue Pocket, and Controllers](https://www.wired.com/gallery/best-retro-gaming-consoles/)<!-- TECH:END -->
+ - [The best part of FAST TV is the choice it takes away](https://www.theverge.com/2023/4/29/23669982/fast-tv-pluto-tubi-choice-channels)
+ - [The Nest Locator Tag could be Google’s AirTag competitor](https://www.androidauthority.com/google-nest-locator-tag-airtag-competitor-3318794/)
+ - [Deals: $549 M2 Mac mini, $99 Ninja Smart Oven, save $1,350 on KEF R11 Series floor speakers, more](https://appleinsider.com/articles/23/04/29/deals-549-m2-mac-mini-99-ninja-smart-oven-save-1350-on-kef-r11-series-floor-speakers-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
