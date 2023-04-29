@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Didi, in its first annual report since its US delisting, reports 2022 net revenue down 19% YoY to ~$20.37B and a net loss of ~$3.44B, down from ~$7.13B in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/230429/p1#a230429p1)
  - [Quebec-based E2ip, which develops tech for smart displays and surfaces, raised a $120M Series B co-led by Export Development Canada and McRock Capital &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230428/p20#a230428p20)
- - [Can you schedule an email in Gmail? Yes, here’s how](https://www.androidauthority.com/how-to-schedule-an-email-in-gmail-3318571/)
- - [Interviews with lawmakers and sources reveal how, over just 11 days, MEPs created a draft bill on generative AI, a rare example of quick consensus in the EU &lpar;Reuters&rpar;](http://www.techmeme.com/230428/p19#a230428p19)<!-- TECH:END -->
+ - [Can you schedule an email in Gmail? Yes, here’s how](https://www.androidauthority.com/how-to-schedule-an-email-in-gmail-3318571/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
