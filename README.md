@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving Netflix, Hulu, Prime, and HBO Max at the end of April 2023](https://www.polygon.com/what-to-watch/2023/4/29/23697543/best-movies-netflix-amazon-hulu-hbo-leaving-april-2023)
- - [Today&#39;s Wordle hint and answer #679: Saturday, April 29](https://www.pcgamer.com/wordle-today-hint-answer-679-april-29)
- - [How to get through green laser walls in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-green-laser-wall)<!-- GAME:END -->
+ - [John Mulaney’s Baby J takes parasocial relationships to rehab](https://www.polygon.com/23703088/john-mulaney-baby-j-netflix)
+ - [Star Wars Jedi: Survivor is free when you buy an Xbox Series S at Newegg](https://www.polygon.com/deals/2023/4/29/23702362/best-gaming-deals-star-wars-jedi-survivor-xbox-series-s-pokemon-squishmallow-deal-sale)
+ - [These Expensive Headphones Come With Controversial Waifus](https://kotaku.com/audiophile-headphones-reddit-chi-fi-iems-moondrop-1850387678)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
