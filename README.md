@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [BenQ ideaCam S1 Pro review: Versatile video modes](https://appleinsider.com/articles/23/04/29/benq-ideacam-s1-pro-review-versatile-video-modes?utm_medium=rss)
  - [By building an open ecosystem, Google has locked me in forever](https://www.androidauthority.com/google-open-ecosystem-lock-3315205/)
- - [Elon Musk says Twitter plans to let media publishers charge users on a per article basis with one click, starting next month &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230429/p10#a230429p10)<!-- TECH:END -->
+ - [Elon Musk claims that Twitter plans to let media publishers charge users on a per-article basis, with one click, starting in May 2023 &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230429/p10#a230429p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
