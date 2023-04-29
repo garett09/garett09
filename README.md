@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The smile at the end](http://9gag.com/gag/aeQVbgp)
- - 🚯 [Welcome to the future old men](http://9gag.com/gag/axobgpK)
- - 🚯 [I miss her](http://9gag.com/gag/aXn4q56)<!-- MEMES:END -->
+ - 🚖 [What a boss move](http://9gag.com/gag/aVbmDqn)
+ - 🚯 [Yeah that will teach us](http://9gag.com/gag/aeQVYXb)
+ - 🚯 [Hyundai\u2019s new steering systems](http://9gag.com/gag/a3Zy7R3)<!-- MEMES:END -->
 
 --- 
 
