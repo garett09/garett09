@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a boss move](http://9gag.com/gag/aVbmDqn)
- - 🚯 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)
- - 🚯 [What is missing?](http://9gag.com/gag/aPg8DbG)<!-- MEMES:END -->
+ - 🚖 [Smartest guy in the room](http://9gag.com/gag/amAm2o4)
+ - 🚯 [Gag between friends](http://9gag.com/gag/a046bzq)
+ - 🚯 [I miss her](http://9gag.com/gag/aXn4q56)<!-- MEMES:END -->
 
 --- 
 
