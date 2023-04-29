@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best part of FAST TV is the choice it takes away](https://www.theverge.com/2023/4/29/23669982/fast-tv-pluto-tubi-choice-channels)
- - [The Nest Locator Tag could be Google’s AirTag competitor](https://www.androidauthority.com/google-nest-locator-tag-airtag-competitor-3318794/)
- - [Deals: $549 M2 Mac mini, $99 Ninja Smart Oven, save $1,350 on KEF R11 Series floor speakers, more](https://appleinsider.com/articles/23/04/29/deals-549-m2-mac-mini-99-ninja-smart-oven-save-1350-on-kef-r11-series-floor-speakers-more?utm_medium=rss)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-482-3318111/)
+ - [Apple drops employment lawsuit against ex-chip architect](https://appleinsider.com/articles/23/04/29/apple-drops-employment-lawsuit-against-ex-chip-architect?utm_medium=rss)
+ - [India&#39;s Enforcement Directorate searched three premises of edtech giant Byju&#39;s and its founder Byju Raveendran as part of an anti-money laundering probe &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230429/p8#a230429p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
