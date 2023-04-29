@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wow lady. Really??](http://9gag.com/gag/aWGvMD4)
- - 🚯 [3 step love story](http://9gag.com/gag/adPnq8d)
- - 🚯 [What a boss move](http://9gag.com/gag/aVbmDqn)<!-- MEMES:END -->
+ - 🚖 [Those who refuse are sent to the Sarlacc](http://9gag.com/gag/aBdPwVN)
+ - 🚯 [Wow lady. Really??](http://9gag.com/gag/aWGvMD4)
+ - 🚯 [Seventh grader from Michigan saves bus load of children when the driver passes out](http://9gag.com/gag/armZ5N7)<!-- MEMES:END -->
 
 --- 
 
