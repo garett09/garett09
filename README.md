@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says Twitter plans to let media publishers charge users on a per article basis with one click, starting next month &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230429/p10#a230429p10)
- - [Take Up to $250 off E-Bikes at Rad Power Bikes     - CNET](https://www.cnet.com/roadshow/news/take-up-to-250-off-e-bikes-at-rad-power-bikes/#ftag=CAD590a51e)
- - [Showrunner &#39;hate&#39; causing delays in making &#39;Severance&#39; season 2](https://appleinsider.com/articles/23/04/29/showrunner-hate-causing-delays-in-making-severance-season-2?utm_medium=rss)<!-- TECH:END -->
+ - [BenQ ideaCam S1 Pro review: Versatile video modes](https://appleinsider.com/articles/23/04/29/benq-ideacam-s1-pro-review-versatile-video-modes?utm_medium=rss)
+ - [By building an open ecosystem, Google has locked me in forever](https://www.androidauthority.com/google-open-ecosystem-lock-3315205/)
+ - [Elon Musk says Twitter plans to let media publishers charge users on a per article basis with one click, starting next month &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230429/p10#a230429p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
