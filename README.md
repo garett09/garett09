@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a boss move](http://9gag.com/gag/aVbmDqn)
- - 🚯 [Yeah that will teach us](http://9gag.com/gag/aeQVYXb)
- - 🚯 [Hyundai\u2019s new steering systems](http://9gag.com/gag/a3Zy7R3)<!-- MEMES:END -->
+ - 🚖 [Yeah that will teach us](http://9gag.com/gag/aeQVYXb)
+ - 🚯 [Not for the weak soul](http://9gag.com/gag/aPg8GXQ)
+ - 🚯 [When she&#39;s been single for too long](http://9gag.com/gag/aPg8MGK)<!-- MEMES:END -->
 
 --- 
 
