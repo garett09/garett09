@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six months since Elon Musk&#39;s Twitter takeover, a brief overview of Twitter alternatives, including Mastodon, Bluesky, and Nostr, and how they might evolve &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230429/p6#a230429p6)
- - [Deadly Heat Threatens the Well-Being of 1 Billion People in India](https://www.wired.com/story/extreme-heat-india/)
- - [How to Remove Your Personal Info From Google&#39;s Search Results](https://www.wired.com/story/remove-personal-info-from-google-search-results/)<!-- TECH:END -->
+ - [Smartphone Sales Take a Tumble](https://www.wired.com/story/smartphone-sales-slump-q1-2023/)
+ - [How to Use the Apple Shortcuts App on iPhone, iPad, or Mac &lpar;2023&rpar;](https://www.wired.com/story/how-to-use-apple-shortcuts-app/)
+ - [The Tragic Fallout From a School District’s Ransomware Breach](https://www.wired.com/story/minneapolis-public-schools-ransomware-attack/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
