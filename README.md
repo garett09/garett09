@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My jam](http://9gag.com/gag/avQEOe5)
- - 🚯 [And some stock images.. strong human effect](http://9gag.com/gag/aOxDrwr)
- - 🚯 [Yeah that will teach us](http://9gag.com/gag/aeQVYXb)<!-- MEMES:END -->
+ - 🚖 [Wow lady. Really??](http://9gag.com/gag/aWGvMD4)
+ - 🚯 [3 step love story](http://9gag.com/gag/adPnq8d)
+ - 🚯 [What a boss move](http://9gag.com/gag/aVbmDqn)<!-- MEMES:END -->
 
 --- 
 
