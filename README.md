@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Warhammer 40K, explained](https://www.polygon.com/23692856/warhammer-40k-explained-timeline-factions-lore-setting)
  - [John Mulaney’s Baby J takes parasocial relationships to rehab](https://www.polygon.com/23703088/john-mulaney-baby-j-netflix)
- - [Star Wars Jedi: Survivor is free when you buy an Xbox Series S at Newegg](https://www.polygon.com/deals/2023/4/29/23702362/best-gaming-deals-star-wars-jedi-survivor-xbox-series-s-pokemon-squishmallow-deal-sale)
- - [These Expensive Headphones Come With Controversial Waifus](https://kotaku.com/audiophile-headphones-reddit-chi-fi-iems-moondrop-1850387678)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor is free when you buy an Xbox Series S at Newegg](https://www.polygon.com/deals/2023/4/29/23702362/best-gaming-deals-star-wars-jedi-survivor-xbox-series-s-pokemon-squishmallow-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
