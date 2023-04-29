@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those who refuse are sent to the Sarlacc](http://9gag.com/gag/aBdPwVN)
- - 🚯 [Wow lady. Really??](http://9gag.com/gag/aWGvMD4)
- - 🚯 [Seventh grader from Michigan saves bus load of children when the driver passes out](http://9gag.com/gag/armZ5N7)<!-- MEMES:END -->
+ - 🚖 [And some stock images.. strong human effect](http://9gag.com/gag/aOxDrwr)
+ - 🚯 [Come closer](http://9gag.com/gag/a3ZyKnr)
+ - 🚯 [For what the Internet was &lpar;really&rpar; made for](http://9gag.com/gag/aoK4OZ0)<!-- MEMES:END -->
 
 --- 
 
