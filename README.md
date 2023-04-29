@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40K, explained](https://www.polygon.com/23692856/warhammer-40k-explained-timeline-factions-lore-setting)
- - [John Mulaney’s Baby J takes parasocial relationships to rehab](https://www.polygon.com/23703088/john-mulaney-baby-j-netflix)
- - [Star Wars Jedi: Survivor is free when you buy an Xbox Series S at Newegg](https://www.polygon.com/deals/2023/4/29/23702362/best-gaming-deals-star-wars-jedi-survivor-xbox-series-s-pokemon-squishmallow-deal-sale)<!-- GAME:END -->
+ - [Honkai: Star Rail has convinced me every character deserves a cell phone](https://www.polygon.com/gaming/23701348/honkai-star-rail-cell-phone-march-7th-dan-heng-trailblazer)
+ - [This windswept platformer is going to have entirely embroidered character art](https://www.pcgamer.com/this-windswept-platformer-is-going-to-have-entirely-embroidered-character-art)
+ - [Warhammer 40K, explained](https://www.polygon.com/23692856/warhammer-40k-explained-timeline-factions-lore-setting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
