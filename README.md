@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta catch em all](http://9gag.com/gag/ap9P2LE)
- - 🚯 [100% African cast](http://9gag.com/gag/a5XGopG)
- - 🚯 [The downfall of 21st century.](http://9gag.com/gag/aeQVr5W)<!-- MEMES:END -->
+ - 🚖 [Ancient water](http://9gag.com/gag/axob7DL)
+ - 🚯 [Just why ?](http://9gag.com/gag/armZGvd)
+ - 🚯 [Seventh grader from Michigan saves bus load of children when the driver passes out](http://9gag.com/gag/armZ5N7)<!-- MEMES:END -->
 
 --- 
 
