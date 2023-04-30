@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Journeying into The Cradle in Thief: Deadly Shadows](https://www.pcgamer.com/journeying-into-the-cradle-in-thief-deadly-shadows)
- - [League of Legends&#39; AI bots are getting a major reboot](https://www.pcgamer.com/league-of-legends-ai-bots-are-getting-a-major-reboot)
- - [Don&#39;t Starve Together goes on sale for the cheapest it&#39;s ever been, breaks concurrent player record](https://www.pcgamer.com/dont-starve-together-goes-on-sale-for-the-cheapest-its-ever-been-breaks-concurrent-player-record)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #680: Sunday, April 30](https://www.pcgamer.com/wordle-today-hint-answer-680-april-30)
+ - [CoD&#39;s Season 3 update broke the game for a bunch of players, and they&#39;re so upset one sent the devs a pizza](https://www.pcgamer.com/cods-season-3-update-broke-the-game-for-a-bunch-of-players-and-theyre-so-upset-one-sent-the-devs-a-pizza)
+ - [Journeying into The Cradle in Thief: Deadly Shadows](https://www.pcgamer.com/journeying-into-the-cradle-in-thief-deadly-shadows)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
