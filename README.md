@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested dozens of smart home devices; this is the feature I loathe the most](https://www.androidauthority.com/smart-home-device-2-4ghz-wifi-3317938/)
- - [How to Choose a Router &lpar;2023&rpar;: Tips, Technical Terms, and Advice](https://www.wired.com/story/how-to-buy-a-router/)
- - [Sources: Apple will reintroduce widgets in watchOS 10 as a central part of Watch UI, a combination of old Glances and the style of widgets launched in iOS 14 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230430/p4#a230430p4)<!-- TECH:END -->
+ - [The Stream Deck mastered the LCD key by making it peripheral](https://www.theverge.com/23703402/stream-deck-button-of-the-month)
+ - [Stage Manager in iPadOS 17 may support webcams in external monitors](https://appleinsider.com/articles/23/04/30/stage-manager-in-ipados-17-may-support-webcams-in-external-monitors?utm_medium=rss)
+ - [HBO Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-series-to-stream-may/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
