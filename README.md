@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Stream Deck mastered the LCD key by making it peripheral](https://www.theverge.com/23703402/stream-deck-button-of-the-month)
- - [Stage Manager in iPadOS 17 may support webcams in external monitors](https://appleinsider.com/articles/23/04/30/stage-manager-in-ipados-17-may-support-webcams-in-external-monitors?utm_medium=rss)
- - [HBO Max: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-series-to-stream-may/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Edifier QD35 review: A bright speaker with dim spots](https://appleinsider.com/articles/23/04/30/edifier-qd35-review-a-bright-speaker-with-dim-spots?utm_medium=rss)
+ - [Save Up to 40% on Phone Stands, Grips and More at Clckr&#39;s 1-Day Flash Sale     - CNET](https://www.cnet.com/deals/save-up-to-40-on-phone-stands-grips-and-more-at-clckrs-1-day-flash-sale/#ftag=CAD590a51e)
+ - [Living With Back Pain? Make Sure Your Next Mattress Has These 3 Things     - CNET](https://www.cnet.com/health/sleep/living-with-back-pain-make-sure-your-next-mattress-has-these-3-things/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
