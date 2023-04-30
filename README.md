@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [W\u00f6t is thet](http://9gag.com/gag/anzvM95)
- - 🚯 [Gotta catch em all](http://9gag.com/gag/ap9P2LE)
- - 🚯 [3 step love story](http://9gag.com/gag/adPnq8d)<!-- MEMES:END -->
+ - 🚖 [What a boss move](http://9gag.com/gag/aVbmDqn)
+ - 🚯 [Hyundai\u2019s new steering systems](http://9gag.com/gag/a3Zy7R3)
+ - 🚯 [Those who refuse are sent to the Sarlacc](http://9gag.com/gag/aBdPwVN)<!-- MEMES:END -->
 
 --- 
 
