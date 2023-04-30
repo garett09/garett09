@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t Starve Together goes on sale for the cheapest it&#39;s ever been, breaks concurrent player record](https://www.pcgamer.com/dont-starve-together-goes-on-sale-for-the-cheapest-its-ever-been-breaks-concurrent-player-record)
- - [Be a robo-judge hunting down dystopian criminals in the demo of Mega City Police](https://www.pcgamer.com/be-a-robo-judge-hunting-down-dystopian-criminals-in-the-demo-of-mega-city-police)
- - [Taking on &#39;a master race from outer space&#39; in 1988&#39;s Rocket Ranger](https://www.pcgamer.com/saturday-crapshoot-rocket-ranger)<!-- GAME:END -->
+ - [Journeying into The Cradle in Thief: Deadly Shadows](https://www.pcgamer.com/journeying-into-the-cradle-in-thief-deadly-shadows)
+ - [League of Legends&#39; AI bots are getting a major reboot](https://www.pcgamer.com/league-of-legends-ai-bots-are-getting-a-major-reboot)
+ - [Don&#39;t Starve Together goes on sale for the cheapest it&#39;s ever been, breaks concurrent player record](https://www.pcgamer.com/dont-starve-together-goes-on-sale-for-the-cheapest-its-ever-been-breaks-concurrent-player-record)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
