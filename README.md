@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Google, and Microsoft Just Fixed Zero-Day Security Flaws](https://www.wired.com/story/apple-google-microsoft-zero-day-critical-update-april/)
- - [How ChatGPT and Other LLMs Work—and Where They Could Go Next](https://www.wired.com/story/how-chatgpt-works-large-language-model/)
- - [26 Mother&#39;s Day Gifts We&#39;ve Tried and Love &lpar;2023&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2023/)<!-- TECH:END -->
+ - [Showrunners of &#39;Severance&#39; hate for each other is causing problems for season 2](https://appleinsider.com/articles/23/04/29/showrunner-hate-causing-delays-in-making-severance-season-2?utm_medium=rss)
+ - [Some US hospitals test if GPT-3 can cut the time staff spend replying to online queries; a study claims the first ChatGPT version replied better than doctors &lpar;Nidhi Subbaraman/Wall Street Journal&rpar;](http://www.techmeme.com/230430/p3#a230430p3)
+ - [My earbuds kept falling out, until they grew wings](https://www.androidauthority.com/how-earbuds-fit-3315385/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
