@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ancient water](http://9gag.com/gag/axob7DL)
- - 🚯 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
- - 🚯 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)<!-- MEMES:END -->
+ - 🚖 [Seventh grader from Michigan saves bus load of children when the driver passes out](http://9gag.com/gag/armZ5N7)
+ - 🚯 [A man of honor.](http://9gag.com/gag/a4o57KZ)
+ - 🚯 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)<!-- MEMES:END -->
 
 --- 
 
