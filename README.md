@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My forehead hurts from the slap I just gave myself](http://9gag.com/gag/aL1Gjdv)
- - 🚯 [Yeah that will teach us](http://9gag.com/gag/aeQVYXb)
- - 🚯 [A man of honor.](http://9gag.com/gag/a4o57KZ)<!-- MEMES:END -->
+ - 🚖 [Seventh grader from Michigan saves bus load of children when the driver passes out](http://9gag.com/gag/armZ5N7)
+ - 🚯 [A man of honor.](http://9gag.com/gag/a4o57KZ)
+ - 🚯 [Just why ?](http://9gag.com/gag/armZGvd)<!-- MEMES:END -->
 
 --- 
 
