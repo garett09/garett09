@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [James Gunn has the momentum to make a great Superman movie](https://www.polygon.com/23699119/james-gunn-superman-legacy-guardians-of-the-galaxy)
  - [Metal Gear Solid 5 mashes up with Spelunky for one of 2023’s most rewarding roguelikes](https://www.polygon.com/reviews/23702866/mr-suns-hatbox-review-roguelike)
- - [Meet Madmonq, the food supplement designed to keep you at the top of your game](https://www.pcgamer.com/meet-madmonq-the-food-supplement-designed-to-keep-you-at-the-top-of-your-game)
- - [Today&#39;s Wordle hint and answer #680: Sunday, April 30](https://www.pcgamer.com/wordle-today-hint-answer-680-april-30)<!-- GAME:END -->
+ - [Meet Madmonq, the food supplement designed to keep you at the top of your game](https://www.pcgamer.com/meet-madmonq-the-food-supplement-designed-to-keep-you-at-the-top-of-your-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
