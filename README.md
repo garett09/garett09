@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [Excitrus 100W Power Bank review: solid, useful extra power](https://appleinsider.com/articles/23/04/30/excitrus-100w-power-bank-review-solid-useful-extra-power?utm_medium=rss)
  - [I still don’t want a foldable phone](https://www.androidauthority.com/foldable-phones-opinion-3314275/)
- - [Gear up for May the Fourth with Star Wars accessories for iPhone, Apple Watch, iPad &amp; Mac](https://appleinsider.com/inside/iphone/best/best-stars-wars-accessories?utm_medium=rss)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Up to $800 Off Pixel 7 Pro, Free Pixel 6A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
