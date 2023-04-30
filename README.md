@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A man of honor.](http://9gag.com/gag/a4o57KZ)
- - 🚯 [Meow](http://9gag.com/gag/az2G9Dz)
- - 🚯 [Seventh grader from Michigan saves bus load of children when the driver passes out](http://9gag.com/gag/armZ5N7)<!-- MEMES:END -->
+ - 🚖 [*terminator theme starts](http://9gag.com/gag/aXn4YY9)
+ - 🚯 [Is this real???!](http://9gag.com/gag/anzv9RE)
+ - 🚯 [Road Raging Lunatic brake checks a Dump Truck](http://9gag.com/gag/ago8Y2n)<!-- MEMES:END -->
 
 --- 
 
