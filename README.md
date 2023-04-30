@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seventh grader from Michigan saves bus load of children when the driver passes out](http://9gag.com/gag/armZ5N7)
- - 🚯 [A man of honor.](http://9gag.com/gag/a4o57KZ)
- - 🚯 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)<!-- MEMES:END -->
+ - 🚖 [The downfall of 21st century.](http://9gag.com/gag/aeQVr5W)
+ - 🚯 [How tf is this even legal](http://9gag.com/gag/az2G1xZ)
+ - 🚯 [Being homeless doesn&#39;t mean that you can&#39;t stay classy](http://9gag.com/gag/a3ZyQ1N)<!-- MEMES:END -->
 
 --- 
 
