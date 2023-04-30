@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How The Mageseeker solves a League of Legends lore problem](https://www.polygon.com/gaming/23701301/the-mageseeker-league-of-legends-story-riot-forge-digital-sun-lore)
- - [James Gunn has the momentum to make a great Superman movie](https://www.polygon.com/23699119/james-gunn-superman-legacy-guardians-of-the-galaxy)
- - [Metal Gear Solid 5 mashes up with Spelunky for one of 2023’s most rewarding roguelikes](https://www.polygon.com/reviews/23702866/mr-suns-hatbox-review-roguelike)<!-- GAME:END -->
+ - [The 11 best Blu-rays and 4K UHD releases of May 2023](https://www.polygon.com/entertainment/2023/4/30/23699047/best-bluray-4k-uhd-disc-review-may-2023)
+ - [You can finally be a woman in Persona 5 Royal, thanks to a massive mod project](https://www.pcgamer.com/you-can-finally-be-a-woman-in-persona-5-royal-thanks-to-a-massive-mod-project)
+ - [How The Mageseeker solves a League of Legends lore problem](https://www.polygon.com/gaming/23701301/the-mageseeker-league-of-legends-story-riot-forge-digital-sun-lore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
