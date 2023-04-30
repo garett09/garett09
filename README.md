@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a boss move](http://9gag.com/gag/aVbmDqn)
- - 🚯 [Hyundai\u2019s new steering systems](http://9gag.com/gag/a3Zy7R3)
- - 🚯 [Those who refuse are sent to the Sarlacc](http://9gag.com/gag/aBdPwVN)<!-- MEMES:END -->
+ - 🚖 [A man of honor.](http://9gag.com/gag/a4o57KZ)
+ - 🚯 [Meow](http://9gag.com/gag/az2G9Dz)
+ - 🚯 [Seventh grader from Michigan saves bus load of children when the driver passes out](http://9gag.com/gag/armZ5N7)<!-- MEMES:END -->
 
 --- 
 
