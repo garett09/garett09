@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The downfall of 21st century.](http://9gag.com/gag/aeQVr5W)
- - 🚯 [How tf is this even legal](http://9gag.com/gag/az2G1xZ)
- - 🚯 [Being homeless doesn&#39;t mean that you can&#39;t stay classy](http://9gag.com/gag/a3ZyQ1N)<!-- MEMES:END -->
+ - 🚖 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)
+ - 🚯 [This is why we can&#39;t have nice things](http://9gag.com/gag/aQEAoq7)
+ - 🚯 [He is right](http://9gag.com/gag/aGEMZyK)<!-- MEMES:END -->
 
 --- 
 
