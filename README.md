@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Excitrus 100W Power Bank review: solid, useful extra power](https://appleinsider.com/articles/23/04/30/excitrus-100w-power-bank-review-solid-useful-extra-power?utm_medium=rss)
- - [I still don’t want a foldable phone](https://www.androidauthority.com/foldable-phones-opinion-3314275/)
- - [Best Google Pixel Deals: Up to $800 Off Pixel 7 Pro, Free Pixel 6A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5: Here are the first reliable, high-quality renders](https://www.androidauthority.com/samsung-galaxy-z-flip-5-design-3318887/)
+ - [An interview with Google Cloud CEO Thomas Kurian about the unit finally turning a profit in Q1 2023, in part by making its data center operations more efficient &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230430/p6#a230430p6)
+ - [How to change Siri&#39;s voice on iPhone, Mac, or Apple Watch](https://appleinsider.com/inside/siri/tips/how-to-change-siris-voice-on-iphone-mac-or-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
