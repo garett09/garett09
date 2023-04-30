@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I still don&#39;t understand how someone can be that way! &lpar;Second try for this post...&rpar;](http://9gag.com/gag/aeQVA2p)
- - 🚯 [That voice, though](http://9gag.com/gag/a1P5WWv)
- - 🚯 [If you&#39;re dating over 40, this girl is a perfect 10](http://9gag.com/gag/aNwVpVv)<!-- MEMES:END -->
+ - 🚖 [Just why ?](http://9gag.com/gag/armZGvd)
+ - 🚯 [Majority of 9gaggers are actually Germans](http://9gag.com/gag/aBdP2AN)
+ - 🚯 [Maybe one day](http://9gag.com/gag/aKEWddQ)<!-- MEMES:END -->
 
 --- 
 
