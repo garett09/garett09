@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Absolute madlad mods layers into MS Paint](https://www.pcgamer.com/absolute-madlad-mods-layers-into-ms-paint)
- - [Starfield&#39;s gonna live or die by its side quests](https://www.pcgamer.com/starfields-gonna-live-or-die-by-its-side-quests)
- - [What&#39;s been your worst PC building catastrophe?](https://www.pcgamer.com/whats-been-your-worst-pc-building-catastrophe)<!-- GAME:END -->
+ - [Don&#39;t Starve Together goes on sale for the cheapest it&#39;s ever been, breaks concurrent player record](https://www.pcgamer.com/dont-starve-together-goes-on-sale-for-the-cheapest-its-ever-been-breaks-concurrent-player-record)
+ - [Be a robo-judge hunting down dystopian criminals in the demo of Mega City Police](https://www.pcgamer.com/be-a-robo-judge-hunting-down-dystopian-criminals-in-the-demo-of-mega-city-police)
+ - [Taking on &#39;a master race from outer space&#39; in 1988&#39;s Rocket Ranger](https://www.pcgamer.com/saturday-crapshoot-rocket-ranger)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
