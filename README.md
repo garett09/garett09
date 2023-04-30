@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 11 best Blu-rays and 4K UHD releases of May 2023](https://www.polygon.com/entertainment/2023/4/30/23699047/best-bluray-4k-uhd-disc-review-may-2023)
- - [You can finally be a woman in Persona 5 Royal, thanks to a massive mod project](https://www.pcgamer.com/you-can-finally-be-a-woman-in-persona-5-royal-thanks-to-a-massive-mod-project)
- - [How The Mageseeker solves a League of Legends lore problem](https://www.polygon.com/gaming/23701301/the-mageseeker-league-of-legends-story-riot-forge-digital-sun-lore)<!-- GAME:END -->
+ - [Collecting Korok seeds turned Breath of the Wild into a gorgeous hike](https://www.polygon.com/23700617/legend-of-zelda-breath-of-the-wild-korok-seeds)
+ - [Be a mushroom postal worker delivering to woodland animals in this cozy platformer](https://www.pcgamer.com/be-a-mushroom-postal-worker-delivering-to-woodland-animals-in-this-cozy-platformer)
+ - [The 11 best Blu-rays and 4K UHD releases of May 2023](https://www.polygon.com/entertainment/2023/4/30/23699047/best-bluray-4k-uhd-disc-review-may-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
