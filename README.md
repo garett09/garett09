@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)
- - 🚯 [This is why we can&#39;t have nice things](http://9gag.com/gag/aQEAoq7)
- - 🚯 [He is right](http://9gag.com/gag/aGEMZyK)<!-- MEMES:END -->
+ - 🚖 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
+ - 🚯 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)
+ - 🚯 [My forehead hurts from the slap I just gave myself](http://9gag.com/gag/aL1Gjdv)<!-- MEMES:END -->
 
 --- 
 
