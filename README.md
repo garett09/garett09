@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grid MacBook Air review: an original Mac framed for your wall](https://appleinsider.com/articles/23/04/29/grid-macbook-air-review-an-original-mac-framed-for-your-wall?utm_medium=rss)
- - [New iOS 17 wallpaper grid view may make picking backgrounds easier](https://appleinsider.com/articles/23/04/29/new-ios-17-wallpaper-grid-view-may-make-picking-backgrounds-easier?utm_medium=rss)
- - [The Google Pixel Fold looks nearly gapless in first leaked marketing images](https://www.theverge.com/2023/4/29/23703925/google-pixel-fold-leak-evan-blass-marketing-renders)<!-- TECH:END -->
+ - [A Brazilian federal judge lifts Telegram&#39;s ban in the country for refusing to hand over neo-Nazi data, saying a complete ban of the service &quot;is not reasonable&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230429/p13#a230429p13)
+ - [Best Monitor Deals: 27-Inch QHD Displays From $180, 32-Inch UHD Displays From $272     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
+ - [Grid MacBook Air review: an original Mac framed for your wall](https://appleinsider.com/articles/23/04/29/grid-macbook-air-review-an-original-mac-framed-for-your-wall?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
