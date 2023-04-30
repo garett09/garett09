@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5: Here are the first reliable, high-quality renders](https://www.androidauthority.com/samsung-galaxy-z-flip-5-design-3318887/)
- - [An interview with Google Cloud CEO Thomas Kurian about the unit finally turning a profit in Q1 2023, in part by making its data center operations more efficient &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230430/p6#a230430p6)
- - [How to change Siri&#39;s voice on iPhone, Mac, or Apple Watch](https://appleinsider.com/inside/siri/tips/how-to-change-siris-voice-on-iphone-mac-or-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Alogic Matrix system review: MagSafe-compatible modular charging](https://appleinsider.com/articles/23/04/30/alogics-magsafe-compatible-matrix-system-helps-you-always-remain-charged?utm_medium=rss)
+ - [BenQ ideaCam S1 Pro review: Versatile video modes](https://appleinsider.com/articles/23/04/29/benq-ideacam-s1-pro-review-versatile-video-modes?utm_medium=rss)
+ - [Edifier QD35 review: A bright speaker with dim spots](https://appleinsider.com/articles/23/04/30/edifier-qd35-review-a-bright-speaker-with-dim-spots?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
