@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Mattress for Side Sleepers for 2023     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)
  - [An interview with Skype co-founder Jaan Tallinn on investing $100M+ in 100+ AI startups and why he thinks he failed to steer AI development toward human safety &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/230430/p2#a230430p2)
- - [The creator of the GPT4Free GitHub project, which allows free access to GPT-4 and GPT-3.5, says OpenAI is demanding he take the repo down or face a lawsuit &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230430/p1#a230430p1)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Azerbaijan GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-australian-gp-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The creator of the GPT4Free GitHub project, which allows free access to GPT-4 and GPT-3.5, says OpenAI is demanding he take the repo down or face a lawsuit &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230430/p1#a230430p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
