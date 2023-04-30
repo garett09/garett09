@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)
- - 🚯 [Just why ?](http://9gag.com/gag/armZGvd)
- - 🚯 [A man of honor.](http://9gag.com/gag/a4o57KZ)<!-- MEMES:END -->
+ - 🚖 [So prove it](http://9gag.com/gag/aA04D0E)
+ - 🚯 [My forehead hurts from the slap I just gave myself](http://9gag.com/gag/aL1Gjdv)
+ - 🚯 [He is right](http://9gag.com/gag/aGEMZyK)<!-- MEMES:END -->
 
 --- 
 
