@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The creator of the GPT4Free GitHub project, which allows free access to GPT-4 and GPT-3.5, says OpenAI is demanding he take the repo down or face a lawsuit &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230430/p1#a230430p1)
  - [A Brazilian federal judge lifts Telegram&#39;s ban in the country for refusing to hand over neo-Nazi data, saying a complete ban of the service &quot;is not reasonable&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230429/p13#a230429p13)
- - [Best Monitor Deals: 27-Inch QHD Displays From $180, 32-Inch UHD Displays From $272     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
- - [Grid MacBook Air review: an original Mac framed for your wall](https://appleinsider.com/articles/23/04/29/grid-macbook-air-review-an-original-mac-framed-for-your-wall?utm_medium=rss)<!-- TECH:END -->
+ - [Best Monitor Deals: 27-Inch QHD Displays From $180, 32-Inch UHD Displays From $272     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
