@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Edifier QD35 review: A bright speaker with dim spots](https://appleinsider.com/articles/23/04/30/edifier-qd35-review-a-bright-speaker-with-dim-spots?utm_medium=rss)
- - [Save Up to 40% on Phone Stands, Grips and More at Clckr&#39;s 1-Day Flash Sale     - CNET](https://www.cnet.com/deals/save-up-to-40-on-phone-stands-grips-and-more-at-clckrs-1-day-flash-sale/#ftag=CAD590a51e)
- - [Living With Back Pain? Make Sure Your Next Mattress Has These 3 Things     - CNET](https://www.cnet.com/health/sleep/living-with-back-pain-make-sure-your-next-mattress-has-these-3-things/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your Old Mattress Can Cause Back Pain. Here&#39;s How to Pick a New One     - CNET](https://www.cnet.com/health/sleep/your-old-mattress-can-cause-back-pain-heres-how-to-pick-a-new-one/#ftag=CAD590a51e)
+ - [Sources describe how Meta&#39;s managers built &quot;legions of kingdoms&quot; as headcount doubled and declining morale, confidence in Zuckerberg&#39;s leadership after layoffs &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/230430/p5#a230430p5)
+ - [NHS sends alerts COVID-19 app has shut down in England and Wales](https://appleinsider.com/articles/23/04/30/nhs-sends-alerts-covid-19-app-has-shut-down-in-england-and-wales?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
