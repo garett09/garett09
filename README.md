@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alogic Matrix system review: MagSafe-compatible modular charging](https://appleinsider.com/articles/23/04/30/alogics-magsafe-compatible-matrix-system-helps-you-always-remain-charged?utm_medium=rss)
- - [BenQ ideaCam S1 Pro review: Versatile video modes](https://appleinsider.com/articles/23/04/29/benq-ideacam-s1-pro-review-versatile-video-modes?utm_medium=rss)
- - [Edifier QD35 review: A bright speaker with dim spots](https://appleinsider.com/articles/23/04/30/edifier-qd35-review-a-bright-speaker-with-dim-spots?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on: iMessage on Windows 11 with Phone Link](https://appleinsider.com/articles/23/04/30/hands-on-imessage-on-windows-11-with-phone-link?utm_medium=rss)
+ - [Carmakers and IP experts raise concerns over the rising dominance of Chinese companies like Huawei when it comes to 4G, 5G, and Wi-Fi standard essential patents &lpar;Financial Times&rpar;](http://www.techmeme.com/230430/p7#a230430p7)
+ - [How to type faster on Mac and boost your productivity](https://appleinsider.com/articles/23/04/30/how-to-type-faster-on-mac-and-boost-your-productivity?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
