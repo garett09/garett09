@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*terminator theme starts](http://9gag.com/gag/aXn4YY9)
- - 🚯 [Is this real???!](http://9gag.com/gag/anzv9RE)
- - 🚯 [Road Raging Lunatic brake checks a Dump Truck](http://9gag.com/gag/ago8Y2n)<!-- MEMES:END -->
+ - 🚖 [What a boss move](http://9gag.com/gag/aVbmDqn)
+ - 🚯 [*terminator theme starts](http://9gag.com/gag/aXn4YY9)
+ - 🚯 [Is this real???!](http://9gag.com/gag/anzv9RE)<!-- MEMES:END -->
 
 --- 
 
