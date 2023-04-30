@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just why ?](http://9gag.com/gag/armZGvd)
- - 🚯 [Majority of 9gaggers are actually Germans](http://9gag.com/gag/aBdP2AN)
- - 🚯 [Maybe one day](http://9gag.com/gag/aKEWddQ)<!-- MEMES:END -->
+ - 🚖 [My forehead hurts from the slap I just gave myself](http://9gag.com/gag/aL1Gjdv)
+ - 🚯 [Just why ?](http://9gag.com/gag/armZGvd)
+ - 🚯 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)<!-- MEMES:END -->
 
 --- 
 
