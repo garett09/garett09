@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My forehead hurts from the slap I just gave myself](http://9gag.com/gag/aL1Gjdv)
- - 🚯 [Just why ?](http://9gag.com/gag/armZGvd)
- - 🚯 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)<!-- MEMES:END -->
+ - 🚖 [Technology Built with Pride](http://9gag.com/gag/adPn8vN)
+ - 🚯 [That voice, though](http://9gag.com/gag/a1P5WWv)
+ - 🚯 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)<!-- MEMES:END -->
 
 --- 
 
