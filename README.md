@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Old Mattress Can Cause Back Pain. Here&#39;s How to Pick a New One     - CNET](https://www.cnet.com/health/sleep/your-old-mattress-can-cause-back-pain-heres-how-to-pick-a-new-one/#ftag=CAD590a51e)
- - [Sources describe how Meta&#39;s managers built &quot;legions of kingdoms&quot; as headcount doubled and declining morale, confidence in Zuckerberg&#39;s leadership after layoffs &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/230430/p5#a230430p5)
- - [NHS sends alerts COVID-19 app has shut down in England and Wales](https://appleinsider.com/articles/23/04/30/nhs-sends-alerts-covid-19-app-has-shut-down-in-england-and-wales?utm_medium=rss)<!-- TECH:END -->
+ - [Excitrus 100W Power Bank review: solid, useful extra power](https://appleinsider.com/articles/23/04/30/excitrus-100w-power-bank-review-solid-useful-extra-power?utm_medium=rss)
+ - [I still don’t want a foldable phone](https://www.androidauthority.com/foldable-phones-opinion-3314275/)
+ - [Gear up for May the Fourth with Star Wars accessories for iPhone, Apple Watch, iPad &amp; Mac](https://appleinsider.com/inside/iphone/best/best-stars-wars-accessories?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
