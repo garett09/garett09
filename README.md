@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Organic Mattresses and Toppers &lpar;2023&rpar;: Nontoxic, Natural](https://www.wired.com/story/best-organic-mattresses/)
- - [Deals: $450 off an M1 MacBook Air, 21% off an LG 43-inch 4K monitor, $299 Oura Ring, more](https://appleinsider.com/articles/23/04/30/deals-450-off-an-m1-macbook-air-21-off-an-lg-43-inch-4k-monitor-299-oura-ring-more?utm_medium=rss)
- - [Showrunners of &#39;Severance&#39; hate for each other is causing problems for season 2](https://appleinsider.com/articles/23/04/29/showrunner-hate-causing-delays-in-making-severance-season-2?utm_medium=rss)<!-- TECH:END -->
+ - [I tested dozens of smart home devices; this is the feature I loathe the most](https://www.androidauthority.com/smart-home-device-2-4ghz-wifi-3317938/)
+ - [How to Choose a Router &lpar;2023&rpar;: Tips, Technical Terms, and Advice](https://www.wired.com/story/how-to-buy-a-router/)
+ - [Sources: Apple will reintroduce widgets in watchOS 10 as a central part of Watch UI, a combination of old Glances and the style of widgets launched in iOS 14 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230430/p4#a230430p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
