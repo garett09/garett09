@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a boss move](http://9gag.com/gag/aVbmDqn)
- - 🚯 [3 step love story](http://9gag.com/gag/adPnq8d)
- - 🚯 [A man of honor.](http://9gag.com/gag/a4o57KZ)<!-- MEMES:END -->
+ - 🚖 [Please tell me this works.](http://9gag.com/gag/aeQVrMW)
+ - 🚯 [In Germany, by implanting an electronic chip in the brain and sending a signal to the brain, they solved the Parkinson&#39;s problem. Watch and enjoy all the greatness of science.](http://9gag.com/gag/a046Q4z)
+ - 🚯 [How tf is this even legal](http://9gag.com/gag/az2G1xZ)<!-- MEMES:END -->
 
 --- 
 
