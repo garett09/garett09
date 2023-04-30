@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a boss move](http://9gag.com/gag/aVbmDqn)
- - 🚯 [*terminator theme starts](http://9gag.com/gag/aXn4YY9)
- - 🚯 [Is this real???!](http://9gag.com/gag/anzv9RE)<!-- MEMES:END -->
+ - 🚖 [Seventh grader from Michigan saves bus load of children when the driver passes out](http://9gag.com/gag/armZ5N7)
+ - 🚯 [Meow](http://9gag.com/gag/az2G9Dz)
+ - 🚯 [Hyundai\u2019s new steering systems](http://9gag.com/gag/a3Zy7R3)<!-- MEMES:END -->
 
 --- 
 
