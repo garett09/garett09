@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How The Mageseeker solves a League of Legends lore problem](https://www.polygon.com/gaming/23701301/the-mageseeker-league-of-legends-story-riot-forge-digital-sun-lore)
  - [James Gunn has the momentum to make a great Superman movie](https://www.polygon.com/23699119/james-gunn-superman-legacy-guardians-of-the-galaxy)
- - [Metal Gear Solid 5 mashes up with Spelunky for one of 2023’s most rewarding roguelikes](https://www.polygon.com/reviews/23702866/mr-suns-hatbox-review-roguelike)
- - [Meet Madmonq, the food supplement designed to keep you at the top of your game](https://www.pcgamer.com/meet-madmonq-the-food-supplement-designed-to-keep-you-at-the-top-of-your-game)<!-- GAME:END -->
+ - [Metal Gear Solid 5 mashes up with Spelunky for one of 2023’s most rewarding roguelikes](https://www.polygon.com/reviews/23702866/mr-suns-hatbox-review-roguelike)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
