@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Doom-powered, nautical shooter boldly asks &#39;what if Spongebob was on Adult Swim in 2006&#39;](https://www.pcgamer.com/this-doom-powered-nautical-shooter-boldly-asks-what-if-spongebob-was-on-adult-swim-in-2006)
  - [Collecting Korok seeds turned Breath of the Wild into a gorgeous hike](https://www.polygon.com/23700617/legend-of-zelda-breath-of-the-wild-korok-seeds)
- - [Be a mushroom postal worker delivering to woodland animals in this cozy platformer](https://www.pcgamer.com/be-a-mushroom-postal-worker-delivering-to-woodland-animals-in-this-cozy-platformer)
- - [The 11 best Blu-rays and 4K UHD releases of May 2023](https://www.polygon.com/entertainment/2023/4/30/23699047/best-bluray-4k-uhd-disc-review-may-2023)<!-- GAME:END -->
+ - [Be a mushroom postal worker delivering to woodland animals in this cozy platformer](https://www.pcgamer.com/be-a-mushroom-postal-worker-delivering-to-woodland-animals-in-this-cozy-platformer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
