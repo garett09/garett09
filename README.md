@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)
- - 🚯 [Maybe one day](http://9gag.com/gag/aKEWddQ)
+ - 🚖 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
+ - 🚯 [And after you solve it, you become president your self.](http://9gag.com/gag/ajVB930)
  - 🚯 [Ancient water](http://9gag.com/gag/axob7DL)<!-- MEMES:END -->
 
 --- 
