@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Richard Madden on why Stanley Tucci is the secret to Citadel](https://www.polygon.com/23700896/citadel-episode-stanley-tucci-richard-madden)
- - [Star Wars Jedi: Survivor Might Include The First Canonical Toilet In A Star Wars Game](https://kotaku.com/star-wars-jedi-survivor-toilet-canon-where-find-koboh-1850391475)
- - [The Mario movie has crossed $1 billion at the box office](https://www.polygon.com/23677014/super-mario-bros-movie-gross-box-office-opening-weekend)<!-- GAME:END -->
+ - [Another Big Star Wars Jedi: Survivor Patch Is On The Way](https://kotaku.com/star-wars-jedi-survivor-pc-ps5-xbox-performance-bugs-1850391889)
+ - [Not Even The Official Account For Xbox’s Big New Shooter Was Safe From Microsoft’s Leak Takedown](https://kotaku.com/redfall-arkane-twitter-copyright-dmca-xbox-game-pass-pc-1850391730)
+ - [Netflix just renewed one of its best new shows for a second season](https://www.polygon.com/23706819/diplomat-netflix-season-2-news-cast-release-date-renewal-keri-russell)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
