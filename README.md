@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)
- - 🚯 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
- - 🚯 [Just why ?](http://9gag.com/gag/armZGvd)<!-- MEMES:END -->
+ - 🚖 [He is right](http://9gag.com/gag/aGEMZyK)
+ - 🚯 [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)
+ - 🚯 [She&#39;s not loved in Colombia](http://9gag.com/gag/aVbm71K)<!-- MEMES:END -->
 
 --- 
 
