@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He is right](http://9gag.com/gag/aGEMZyK)
- - 🚯 [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)
- - 🚯 [She&#39;s not loved in Colombia](http://9gag.com/gag/aVbm71K)<!-- MEMES:END -->
+ - 🚖 [Internet do your thing. Cancel](http://9gag.com/gag/aQEA1zK)
+ - 🚯 [A man of honor.](http://9gag.com/gag/a4o57KZ)
+ - 🚯 [He is right](http://9gag.com/gag/aGEMZyK)<!-- MEMES:END -->
 
 --- 
 
