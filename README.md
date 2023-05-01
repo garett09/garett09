@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Donald Trump amplified QAnon-promoting accounts nearly 500 times during his first year of posting on Truth Social, vs. 300+ times from 2017 to 2021 on Twitter &lpar;Alex Kaplan/Media Matters for America&rpar;](http://www.techmeme.com/230501/p11#a230501p11)
- - [Schools bought millions of Chromebooks in 2020 — and three years later, they’re starting to break](https://www.theverge.com/2023/4/21/23691840/us-pirg-education-fund-report-investigation-chromebook-churn)<!-- TECH:END -->
+ - [BubbleDeck: The Verge’s first free Stream Deck app is virtual bubble wrap](https://www.theverge.com/23706779/stream-deck-pop-bubbles-bubbledeck)
+ - [What is Slack and how does it work?](https://www.androidauthority.com/what-is-slack-3317965/)
+ - [Amazon is adding Prime Video originals to its free streaming service](https://www.theverge.com/2023/5/1/23706706/amazon-prime-video-free-streaming-service-freevee)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
