@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Board gamers have campaign fatigue, and publishers need to adapt quickly](https://www.polygon.com/tabletop-games/23701294/campaign-fatigue-board-games-oathsworn-legacy-of-yu-arcs)
- - [Sony’s PSVR 2 is coming to more stores on May 12](https://www.polygon.com/23700495/playstation-vr-2-headset-buy-best-amazon-gamestop-walmart)
- - [Gate crash a festival in the Chivalry 2: Raiding Party update](https://blog.playstation.com/2023/05/01/gate-crash-a-festival-in-the-chivalry-2-raiding-party-update/)<!-- GAME:END -->
+ - [The summer movie season has returned — here’s what to expect](https://www.polygon.com/23688075/new-movies-2023-summer-schedule-calendar)
+ - [The best controllers for PC gaming](https://www.polygon.com/what-to-buy/23658092/best-controllers-pc-gaming)
+ - [Xbox and OPI Channel the Hottest Summertime Hues to Create an Exclusive New Controller](https://news.xbox.com/en-us/2023/05/01/xbox-opi-wireless-controller-special-edition/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
