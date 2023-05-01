@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
- - 🚯 [Speak now or forever hold your peace!](http://9gag.com/gag/anzvzMV)
- - 🚯 [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)<!-- MEMES:END -->
+ - 🚖 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)
+ - 🚯 [Maybe one day](http://9gag.com/gag/aKEWddQ)
+ - 🚯 [Ancient water](http://9gag.com/gag/axob7DL)<!-- MEMES:END -->
 
 --- 
 
