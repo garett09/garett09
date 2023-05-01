@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Technology Built with Pride](http://9gag.com/gag/adPn8vN)
- - 🚯 [That voice, though](http://9gag.com/gag/a1P5WWv)
+ - 🚖 [Ancient water](http://9gag.com/gag/axob7DL)
+ - 🚯 [A man of honor.](http://9gag.com/gag/a4o57KZ)
  - 🚯 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)<!-- MEMES:END -->
 
 --- 
