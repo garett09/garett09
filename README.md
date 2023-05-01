@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Another Big Star Wars Jedi: Survivor Patch Is On The Way](https://kotaku.com/star-wars-jedi-survivor-pc-ps5-xbox-performance-bugs-1850391889)
- - [Not Even The Official Account For Xbox’s Big New Shooter Was Safe From Microsoft’s Leak Takedown](https://kotaku.com/redfall-arkane-twitter-copyright-dmca-xbox-game-pass-pc-1850391730)
- - [Netflix just renewed one of its best new shows for a second season](https://www.polygon.com/23706819/diplomat-netflix-season-2-news-cast-release-date-renewal-keri-russell)<!-- GAME:END -->
+ - [Humanity Used A PS5 Controller To Inject Sperm With A Robot, Create Real Babies](https://kotaku.com/sony-ps5-dualsense-ivf-fertility-robot-sperm-pregnancy-1850392155)
+ - [&#39;Godfather of Deep Learning&#39; quits Google and warns of AI dangers: &#39;I don’t think they should scale this up more until they have understood whether they can control it&#39;](https://www.pcgamer.com/godfather-of-deep-learning-quits-google-and-warns-of-ai-dangers-i-dont-think-they-should-scale-this-up-more-until-they-have-understood-whether-they-can-control-it)
+ - [NASA extends Voyager 2&#39;s space mission by basically putting it into power-saver mode](https://www.pcgamer.com/nasa-extends-voyager-2s-space-mission-by-basically-putting-it-into-power-saver-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
