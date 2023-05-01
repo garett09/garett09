@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s Magnet Mystery Shows Elon Musk Is Willing to Compromise](https://www.wired.com/story/tesla-elon-musk-magnet-mystery/)
- - [The High-Stakes Scramble to Stop Classified Leaks](https://www.wired.com/story/teixeira-classified-documents-leak-congress-tech-solutions/)
- - [‘Everybody’s So Creative!’ and the Rise of the Recipe Reactions](https://www.wired.com/story/tiktok-recipe-reactions/)<!-- TECH:END -->
+ - [The Verge’s favorite Stream Deck hacks](https://www.theverge.com/23700541/stream-deck-hacks-uses)
+ - [NewsGuard finds 49 websites populated by generative AI posing as news outlets with generic names like News Live 79; some feature falsehoods and programmatic ads &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/230501/p6#a230501p6)
+ - [iPhone Q2 revenue will hit what Wall Streets wants to see, says Wedbush](https://appleinsider.com/articles/23/05/01/iphone-q2-revenue-will-hit-what-wall-streets-wants-to-see-says-wedbush?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
