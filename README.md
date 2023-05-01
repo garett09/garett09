@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The ‘Wes Anderson directs Star Wars’ AI art fad has its first full movie trailer](https://www.polygon.com/23706522/star-wars-by-wes-anderson-galactic-menagerie-ai-art)
- - [Xbox Celebrates Asian and Pacific Islander Heritage Month](https://news.xbox.com/en-us/2023/05/01/xbox-celebrates-asian-and-pacific-islander-heritage-month/)
- - [Every new movie and show coming to Disney Plus in May](https://www.polygon.com/entertainment/2023/5/1/23691391/disney-plus-new-movies-tv-watch-may-2023)<!-- GAME:END -->
+ - [Richard Madden on why Stanley Tucci is the secret to Citadel](https://www.polygon.com/23700896/citadel-episode-stanley-tucci-richard-madden)
+ - [Star Wars Jedi: Survivor Might Include The First Canonical Toilet In A Star Wars Game](https://kotaku.com/star-wars-jedi-survivor-toilet-canon-where-find-koboh-1850391475)
+ - [The Mario movie has crossed $1 billion at the box office](https://www.polygon.com/23677014/super-mario-bros-movie-gross-box-office-opening-weekend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
