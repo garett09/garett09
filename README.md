@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bhutan has quietly been mining bitcoin since 2019, becoming the second country after El Salvador known to have a state-run mine, and is planning a 100 MW mine &lpar;Forbes&rpar;](http://www.techmeme.com/230501/p1#a230501p1)
  - [Google Pixel Fold: Everything we know so far](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)
- - [Apple Watch all set to get ‘one of the biggest software updates’ ever](https://www.androidauthority.com/apple-watch-watchos-10-3318990/)
- - [Google confirms fix for annoying Android volume control problem](https://www.androidauthority.com/android-notification-ringtone-volume-control-3318978/)<!-- TECH:END -->
+ - [Apple Watch all set to get ‘one of the biggest software updates’ ever](https://www.androidauthority.com/apple-watch-watchos-10-3318990/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
