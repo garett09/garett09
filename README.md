@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
- - 🚯 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)
- - 🚯 [Adam Ondra in action at Yosemite, which is world&#39;s hardest wall to climb as per him.](http://9gag.com/gag/aREz33G)<!-- MEMES:END -->
+ - 🚖 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)
+ - 🚯 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
+ - 🚯 [Deep down she knows she f**ked up big time](http://9gag.com/gag/axobBp2)<!-- MEMES:END -->
 
 --- 
 
