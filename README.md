@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Humanity Used A PS5 Controller To Inject Sperm With A Robot, Create Real Babies](https://kotaku.com/sony-ps5-dualsense-ivf-fertility-robot-sperm-pregnancy-1850392155)
- - [&#39;Godfather of Deep Learning&#39; quits Google and warns of AI dangers: &#39;I don’t think they should scale this up more until they have understood whether they can control it&#39;](https://www.pcgamer.com/godfather-of-deep-learning-quits-google-and-warns-of-ai-dangers-i-dont-think-they-should-scale-this-up-more-until-they-have-understood-whether-they-can-control-it)
- - [NASA extends Voyager 2&#39;s space mission by basically putting it into power-saver mode](https://www.pcgamer.com/nasa-extends-voyager-2s-space-mission-by-basically-putting-it-into-power-saver-mode)<!-- GAME:END -->
+ - [DC Comics just hit the reset button on Shazam, courtesy of Wonder Woman’s mom](https://www.polygon.com/2023/5/1/23706465/dc-wonder-woman-shazam-mary-marvel-powers)
+ - [Lego’s largest and most detailed X-Wing has landed for $239.99](https://www.polygon.com/deals/2023/5/1/23706839/lego-star-wars-x-wing-new-pre-order-may-4th-deals)
+ - [When A Beloved Pet Dies, Sometimes Pokémon Lets Us Immortalize Them](https://kotaku.com/pokemon-nickname-pet-name-go-black-white-legends-arceus-1850392164)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
