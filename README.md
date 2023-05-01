@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That voice, though](http://9gag.com/gag/a1P5WWv)
- - 🚯 [If you&#39;re dating over 40, this girl is a perfect 10](http://9gag.com/gag/aNwVpVv)
- - 🚯 [The simplest way to achieve peace. Yet, there still exist many people that are incapable of fully grasping such simple concept.](http://9gag.com/gag/a0467Rv)<!-- MEMES:END -->
+ - 🚖 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
+ - 🚯 [Speak now or forever hold your peace!](http://9gag.com/gag/anzvzMV)
+ - 🚯 [Don&#39;t help just film](http://9gag.com/gag/aVbm0KO)<!-- MEMES:END -->
 
 --- 
 
