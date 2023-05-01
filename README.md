@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro\u2019s forever](http://9gag.com/gag/a2KyWdw)
- - 🚯 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
- - 🚯 [Caught redhanded](http://9gag.com/gag/aXn4Yq6)<!-- MEMES:END -->
+ - 🚖 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
+ - 🚯 [Monday blues :&lpar;](http://9gag.com/gag/aGEME6w)
+ - 🚯 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)<!-- MEMES:END -->
 
 --- 
 
