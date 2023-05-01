@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wait, Kurt Busiek &amp; Mike Mignola Made A Final Fantasy Comic??!!](https://kotaku.com/kurt-busiek-mike-mignola-hellboy-final-fantasy-comic-1850390157)
- - [ChatGPT Skyrim Mod Is A Robotic Horror Movie](https://kotaku.com/chatgpt-ai-skyrim-pc-rpg-mod-dnd-vr-video-games-1850390097)
- - [PlayStation VR 2 games releasing in March, all upcoming titles for 2023](https://www.polygon.com/23562760/psvr-2-release-date-launch-games-ps5)<!-- GAME:END -->
+ - [Modder doubles FPS in Star Wars Jedi: Survivor using DLSS](https://www.pcgamer.com/modder-doubles-fps-in-star-wars-jedi-survivor-using-dlss)
+ - [Today&#39;s Wordle hint and answer #681: Monday, May 1](https://www.pcgamer.com/wordle-today-hint-answer-681-may-1)
+ - [Five new Steam games you probably missed &lpar;May 1, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-1-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
