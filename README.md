@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just why ?](http://9gag.com/gag/armZGvd)
- - 🚯 [My forehead hurts from the slap I just gave myself](http://9gag.com/gag/aL1Gjdv)
- - 🚯 [Meow](http://9gag.com/gag/az2G9Dz)<!-- MEMES:END -->
+ - 🚖 [Ancient water](http://9gag.com/gag/axob7DL)
+ - 🚯 [Just why ?](http://9gag.com/gag/armZGvd)
+ - 🚯 [Caught redhanded](http://9gag.com/gag/aXn4Yq6)<!-- MEMES:END -->
 
 --- 
 
