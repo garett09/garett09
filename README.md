@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bhutan has quietly been mining bitcoin since 2019, becoming the second country after El Salvador known to have a state-run mine, and is planning a 100 MW mine &lpar;Forbes&rpar;](http://www.techmeme.com/230501/p1#a230501p1)
- - [Google Pixel Fold: Everything we know so far](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)
- - [Apple Watch all set to get ‘one of the biggest software updates’ ever](https://www.androidauthority.com/apple-watch-watchos-10-3318990/)<!-- TECH:END -->
+ - [Sources: Istanbul-based grocery delivery startup Getir is in talks to acquire German rival Flink, which also is seeking to raise ~$100M at a $1B+ valuation &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/230501/p2#a230501p2)
+ - [Fresh leak gets up close and personal with the Google Pixel Fold](https://www.androidauthority.com/google-pixel-fold-images-design-leak-3318997/)
+ - [Samsung Galaxy S21 series finally gets astrophotography skills](https://www.androidauthority.com/samsung-galaxy-s21-astrophotography-3318994/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
