@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ancient water](http://9gag.com/gag/axob7DL)
- - 🚯 [Just why ?](http://9gag.com/gag/armZGvd)
- - 🚯 [Caught redhanded](http://9gag.com/gag/aXn4Yq6)<!-- MEMES:END -->
+ - 🚖 [And after you solve it, you become president your self.](http://9gag.com/gag/ajVB930)
+ - 🚯 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
+ - 🚯 [Just why ?](http://9gag.com/gag/armZGvd)<!-- MEMES:END -->
 
 --- 
 
