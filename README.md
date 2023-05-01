@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Will Wilkerson, a former Truth Social VP who blew the whistle, turned over 150K documents to the SEC and investigators, and now works at Starbucks &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230501/p3#a230501p3)
- - [Sources: Istanbul-based grocery delivery startup Getir is in talks to acquire German rival Flink, which also is seeking to raise ~$100M at a $1B+ valuation &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/230501/p2#a230501p2)
- - [Fresh leak gets up close and personal with the Google Pixel Fold](https://www.androidauthority.com/google-pixel-fold-images-design-leak-3318997/)<!-- TECH:END -->
+ - [Tesla’s Magnet Mystery Shows Elon Musk Is Willing to Compromise](https://www.wired.com/story/tesla-elon-musk-magnet-mystery/)
+ - [The High-Stakes Scramble to Stop Classified Leaks](https://www.wired.com/story/teixeira-classified-documents-leak-congress-tech-solutions/)
+ - [‘Everybody’s So Creative!’ and the Rise of the Recipe Reactions](https://www.wired.com/story/tiktok-recipe-reactions/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
