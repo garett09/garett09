@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As labor contract negotiations heat up in Hollywood, unions representing screenwriters and actors seek limits on the use of AI-produced material &lpar;New York Times&rpar;](http://www.techmeme.com/230430/p8#a230430p8)
- - [The Green Revolution is Being Held Back by Red Tape     - CNET](https://www.cnet.com/science/the-green-revolution-is-being-held-back-by-red-tape/#ftag=CAD590a51e)
- - [Hands on: iMessage on Windows 11 with Phone Link](https://appleinsider.com/articles/23/04/30/hands-on-imessage-on-windows-11-with-phone-link?utm_medium=rss)<!-- TECH:END -->
+ - [The best Apple Watch Series 8 cases you can buy](https://www.androidauthority.com/best-apple-watch-series-8-cases-3318916/)
+ - [As labor contract negotiations heat up in Hollywood, unions representing screenwriters and actors seek to regulate the use of AI-produced material &lpar;New York Times&rpar;](http://www.techmeme.com/230430/p8#a230430p8)
+ - [The Green Revolution is Being Held Back by Red Tape     - CNET](https://www.cnet.com/science/the-green-revolution-is-being-held-back-by-red-tape/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
