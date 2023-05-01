@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
- - 🚯 [Monday blues :&lpar;](http://9gag.com/gag/aGEME6w)
- - 🚯 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)<!-- MEMES:END -->
+ - 🚖 [Japanese chef cooking fried rice](http://9gag.com/gag/aOxDQwN)
+ - 🚯 [Fun](http://9gag.com/gag/amAmveV)
+ - 🚯 [He\u2019s still figuring out the controls](http://9gag.com/gag/aVbm7BM)<!-- MEMES:END -->
 
 --- 
 
