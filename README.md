@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation VR 2 games releasing in March, all upcoming titles for 2023](https://www.polygon.com/23562760/psvr-2-release-date-launch-games-ps5)
- - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
- - [This Doom-powered, nautical shooter boldly asks &#39;what if Spongebob was on Adult Swim in 2006&#39;](https://www.pcgamer.com/this-doom-powered-nautical-shooter-boldly-asks-what-if-spongebob-was-on-adult-swim-in-2006)<!-- GAME:END -->
+ - [ChatGPT Skyrim Mod Is A Robotic Horror Movie](https://kotaku.com/chatgpt-ai-skyrim-pc-rpg-mod-dnd-vr-video-games-1850390097)
+ - [Here comes that city builder set on the back of a giant space turtle](https://www.pcgamer.com/here-comes-that-city-builder-set-on-the-back-of-a-giant-space-turtle)
+ - [Water is life and death is permanent in this tense, laconic, $3 sci-fi adventure](https://www.pcgamer.com/water-is-life-and-death-is-permanent-in-this-tense-laconic-dollar3-sci-fi-adventure)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
