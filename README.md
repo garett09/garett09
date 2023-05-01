@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hold on](http://9gag.com/gag/anzv43o)
- - 🚯 [A boy cries during a memorial service for his 11-year-old sister Sofia and 17-year-old brother Kirill. Children were killed by a Russian rocket that hit a nine-story building in Uman on April 28....](http://9gag.com/gag/aBdPyAP)
- - 🚯 [How to deal karen](http://9gag.com/gag/aXn4Pbd)<!-- MEMES:END -->
+ - 🚖 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
+ - 🚯 [Don&#39;t help just film](http://9gag.com/gag/aVbm0KO)
+ - 🚯 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
 
 --- 
 
