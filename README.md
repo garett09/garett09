@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)
- - 🚯 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
- - 🚯 [Deep down she knows she f**ked up big time](http://9gag.com/gag/axobBp2)<!-- MEMES:END -->
+ - 🚖 [Just why ?](http://9gag.com/gag/armZGvd)
+ - 🚯 [My forehead hurts from the slap I just gave myself](http://9gag.com/gag/aL1Gjdv)
+ - 🚯 [Meow](http://9gag.com/gag/az2G9Dz)<!-- MEMES:END -->
 
 --- 
 
