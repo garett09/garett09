@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He is right](http://9gag.com/gag/aGEMZyK)
- - 🚯 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
+ - 🚖 [Bro\u2019s forever](http://9gag.com/gag/a2KyWdw)
+ - 🚯 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
  - 🚯 [Caught redhanded](http://9gag.com/gag/aXn4Yq6)<!-- MEMES:END -->
 
 --- 
