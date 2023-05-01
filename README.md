@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gate crash a festival in the Chivalry 2: Raiding Party update](https://blog.playstation.com/2023/05/01/gate-crash-a-festival-in-the-chivalry-2-raiding-party-update/)
- - [Every movie and show coming to Netflix in May](https://www.polygon.com/2023/5/1/23699006/new-netflix-movies-tv-shows-watch-may-2023)
- - [Rogue Legacy 2&#39;s final content update lets you batter enemies with a surfboard](https://www.pcgamer.com/rogue-legacy-2s-final-content-update-lets-you-batter-enemies-with-a-surfboard)<!-- GAME:END -->
+ - [Board gamers have campaign fatigue, and publishers need to adapt quickly](https://www.polygon.com/tabletop-games/23701294/campaign-fatigue-board-games-oathsworn-legacy-of-yu-arcs)
+ - [Sony’s PSVR 2 is coming to more stores on May 12](https://www.polygon.com/23700495/playstation-vr-2-headset-buy-best-amazon-gamestop-walmart)
+ - [Gate crash a festival in the Chivalry 2: Raiding Party update](https://blog.playstation.com/2023/05/01/gate-crash-a-festival-in-the-chivalry-2-raiding-party-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
