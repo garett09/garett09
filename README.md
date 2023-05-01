@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get ready to Dredge more eldritch aberrations from the deep](https://blog.playstation.com/2023/05/01/get-ready-to-dredge-more-eldritch-aberrations-from-the-deep/)
- - [What’s new in Apex Legends season 17?](https://www.polygon.com/23706098/apex-legends-season-17-arsenal-patch-notes-s17-battle-pass-rewards)
- - [Zelda: Tears of the Kingdom owes its design to one of the most overlooked developers](https://www.polygon.com/23702871/zonai-ultrahand-abilities-switch-immersive-sims-legend-of-zelda-tears-of-the-kingdom)<!-- GAME:END -->
+ - [The ‘Wes Anderson directs Star Wars’ AI art fad has its first full movie trailer](https://www.polygon.com/23706522/star-wars-by-wes-anderson-galactic-menagerie-ai-art)
+ - [Xbox Celebrates Asian and Pacific Islander Heritage Month](https://news.xbox.com/en-us/2023/05/01/xbox-celebrates-asian-and-pacific-islander-heritage-month/)
+ - [Every new movie and show coming to Disney Plus in May](https://www.polygon.com/entertainment/2023/5/1/23691391/disney-plus-new-movies-tv-watch-may-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
