@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers used a GPT AI model and fMRI readings to non-invasively decode continuous language from a subject, essentially reading a person&#39;s thoughts &lpar;Becky Ferreira/VICE&rpar;](http://www.techmeme.com/230501/p10#a230501p10)
- - [Microsoft Teams now lets small businesses charge for appointments, webinars, and more](https://www.theverge.com/2023/5/1/23706288/microsoft-teams-payments-small-businesses-feature)
- - [Meta is hosting its next VR gaming show in June](https://www.theverge.com/2023/5/1/23703363/meta-quest-gaming-showcase-2023-date-vr)<!-- TECH:END -->
+ - [Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Donald Trump amplified QAnon-promoting accounts nearly 500 times during his first year of posting on Truth Social, vs. 300+ times from 2017 to 2021 on Twitter &lpar;Alex Kaplan/Media Matters for America&rpar;](http://www.techmeme.com/230501/p11#a230501p11)
+ - [Schools bought millions of Chromebooks in 2020 — and three years later, they’re starting to break](https://www.theverge.com/2023/4/21/23691840/us-pirg-education-fund-report-investigation-chromebook-churn)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
