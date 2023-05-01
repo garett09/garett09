@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Savings saw nearly $1 billion of deposits in first four days](https://appleinsider.com/articles/23/05/01/apple-savings-saw-nearly-1-billion-of-deposits-in-first-four-days?utm_medium=rss)
- - [Here’s the retail box of the Google Pixel 7a and the secrets it shares](https://www.androidauthority.com/google-pixel-7a-box-3319219/)
- - [Twitter’s latest outage is logging out desktop users](https://www.theverge.com/2023/5/1/23707141/twitter-website-down-logged-out-error-outage)<!-- TECH:END -->
+ - [BeReal is making a feed of just famous people](https://www.theverge.com/2023/5/1/23707181/bereal-feed-famous-people-realpeople)
+ - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [DC says that ‘if’ Ta-Nehisi Coates’ Superman movie is made, it’s going to be an Elseworlds](https://www.theverge.com/2023/5/1/23707115/james-gunn-superman-ta-nehisi-coates-jj-abrams)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
