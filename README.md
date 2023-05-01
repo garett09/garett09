@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BeReal is making a feed of just famous people](https://www.theverge.com/2023/5/1/23707181/bereal-feed-famous-people-realpeople)
- - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
- - [DC says that ‘if’ Ta-Nehisi Coates’ Superman movie is made, it’s going to be an Elseworlds](https://www.theverge.com/2023/5/1/23707115/james-gunn-superman-ta-nehisi-coates-jj-abrams)<!-- TECH:END -->
+ - [Sotheby&#39;s launches a curated, peer-to-peer secondary NFT marketplace on its Metaverse platform, fully on-chain via the Ethereum and Polygon networks &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230501/p18#a230501p18)
+ - [Mastodon announces a new onboarding experience that makes mastodon.social the default server choice, instead of requiring users pick from thousands of instances &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230501/p17#a230501p17)
+ - [BeReal is making a feed of just famous people](https://www.theverge.com/2023/5/1/23707181/bereal-feed-famous-people-realpeople)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
