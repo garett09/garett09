@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Starting over again after 10 years of marriage... It ain&#39;t much but... Wish ne luck](http://9gag.com/gag/aPg8A1R)
- - 🚯 [Engrish\u2026..](http://9gag.com/gag/a3Zy4g5)
- - 🚯 [A boy cries during a memorial service for his 11-year-old sister Sofia and 17-year-old brother Kirill. Children were killed by a Russian rocket that hit a nine-story building in Uman on April 28....](http://9gag.com/gag/aBdPyAP)<!-- MEMES:END -->
+ - 🚖 [Hold on](http://9gag.com/gag/anzv43o)
+ - 🚯 [A boy cries during a memorial service for his 11-year-old sister Sofia and 17-year-old brother Kirill. Children were killed by a Russian rocket that hit a nine-story building in Uman on April 28....](http://9gag.com/gag/aBdPyAP)
+ - 🚯 [How to deal karen](http://9gag.com/gag/aXn4Pbd)<!-- MEMES:END -->
 
 --- 
 
