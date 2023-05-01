@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The summer movie season has returned — here’s what to expect](https://www.polygon.com/23688075/new-movies-2023-summer-schedule-calendar)
- - [The best controllers for PC gaming](https://www.polygon.com/what-to-buy/23658092/best-controllers-pc-gaming)
- - [Xbox and OPI Channel the Hottest Summertime Hues to Create an Exclusive New Controller](https://news.xbox.com/en-us/2023/05/01/xbox-opi-wireless-controller-special-edition/)<!-- GAME:END -->
+ - [Get ready to Dredge more eldritch aberrations from the deep](https://blog.playstation.com/2023/05/01/get-ready-to-dredge-more-eldritch-aberrations-from-the-deep/)
+ - [What’s new in Apex Legends season 17?](https://www.polygon.com/23706098/apex-legends-season-17-arsenal-patch-notes-s17-battle-pass-rewards)
+ - [Zelda: Tears of the Kingdom owes its design to one of the most overlooked developers](https://www.polygon.com/23702871/zonai-ultrahand-abilities-switch-immersive-sims-legend-of-zelda-tears-of-the-kingdom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
