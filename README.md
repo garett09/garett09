@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ancient water](http://9gag.com/gag/axob7DL)
- - 🚯 [A man of honor.](http://9gag.com/gag/a4o57KZ)
- - 🚯 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)<!-- MEMES:END -->
+ - 🚖 [He dealt with a swarm of bees pretty good until bees start stinging](http://9gag.com/gag/aA04eeE)
+ - 🚯 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
+ - 🚯 [Just why ?](http://9gag.com/gag/armZGvd)<!-- MEMES:END -->
 
 --- 
 
