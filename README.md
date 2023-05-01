@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
- - 🚯 [Speak now or forever hold your peace!](http://9gag.com/gag/anzvzMV)
- - 🚯 [Don&#39;t help just film](http://9gag.com/gag/aVbm0KO)<!-- MEMES:END -->
+ - 🚖 [He is right](http://9gag.com/gag/aGEMZyK)
+ - 🚯 [If it had been cut by a sword, wouldn&#39;t it be sliding the other way?](http://9gag.com/gag/aYVP7dq)
+ - 🚯 [Caught redhanded](http://9gag.com/gag/aXn4Yq6)<!-- MEMES:END -->
 
 --- 
 
