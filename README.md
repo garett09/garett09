@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ChatGPT Skyrim Mod Is A Robotic Horror Movie](https://kotaku.com/chatgpt-ai-skyrim-pc-rpg-mod-dnd-vr-video-games-1850390097)
- - [Here comes that city builder set on the back of a giant space turtle](https://www.pcgamer.com/here-comes-that-city-builder-set-on-the-back-of-a-giant-space-turtle)
- - [Water is life and death is permanent in this tense, laconic, $3 sci-fi adventure](https://www.pcgamer.com/water-is-life-and-death-is-permanent-in-this-tense-laconic-dollar3-sci-fi-adventure)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;May 1, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-1-2023)
+ - [Mercenary RPG Wartales has sold over 600,000 copies](https://www.pcgamer.com/mercenary-rpg-wartales-has-sold-over-600000-copies)
+ - [Wait, Kurt Busiek &amp; Mike Mignola Made A Final Fantasy Comic??!!](https://kotaku.com/kurt-busiek-mike-mignola-hellboy-final-fantasy-comic-1850390157)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
