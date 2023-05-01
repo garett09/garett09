@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
- - [Here Comes the Bride, With AI-Generated Wedding Vows](https://www.wired.com/story/chatgpt-here-comes-the-bride-with-ai-generated-wedding-vows/)
- - [Inside Amazon’s canceled plan to make Halo a fitness success](https://www.theverge.com/2023/5/1/23704825/amazon-halo-canceled-features-ai-training-apple-watch)<!-- TECH:END -->
+ - [Researchers used a GPT AI model and fMRI readings to non-invasively decode continuous language from a subject, essentially reading a person&#39;s thoughts &lpar;Becky Ferreira/VICE&rpar;](http://www.techmeme.com/230501/p10#a230501p10)
+ - [Microsoft Teams now lets small businesses charge for appointments, webinars, and more](https://www.theverge.com/2023/5/1/23706288/microsoft-teams-payments-small-businesses-feature)
+ - [Meta is hosting its next VR gaming show in June](https://www.theverge.com/2023/5/1/23703363/meta-quest-gaming-showcase-2023-date-vr)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
