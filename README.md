@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And those are just the ones the tape caught...](http://9gag.com/gag/aDYZ4mw)
- - 🚯 [And after you solve it, you become president your self.](http://9gag.com/gag/ajVB930)
- - 🚯 [Ancient water](http://9gag.com/gag/axob7DL)<!-- MEMES:END -->
+ - 🚖 [80-year-old store owner in California shoots armed robber](http://9gag.com/gag/aMEnVOV)
+ - 🚯 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
+ - 🚯 [Maybe one day](http://9gag.com/gag/aKEWddQ)<!-- MEMES:END -->
 
 --- 
 
