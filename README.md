@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Behold: GTA’s Worst Mission, Now With Thomas The Tank Engine](https://kotaku.com/gta-san-andreas-rockstar-thomas-friends-train-mission-1850392713)
- - [Netflix’s true crime anthology Monster returns with two killers this time](https://www.polygon.com/23707119/netflix-monster-new-season-2-menendez-brothers)
- - [Star Wars Jedi: Survivor is already $10 off](https://www.polygon.com/deals/2023/5/1/23707145/star-wars-jedi-survivor-amazon-discount-deal-10-off)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in May](https://www.pcgamer.com/pc-releases-games-upcoming-may-2023)
+ - [Ukraine&#39;s army is experimenting with using Steam Decks to remote-control gun turrets](https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets)
+ - [Behold: GTA’s Worst Mission, Now With Thomas The Tank Engine](https://kotaku.com/gta-san-andreas-rockstar-thomas-friends-train-mission-1850392713)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
