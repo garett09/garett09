@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
- - 🚯 [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)
- - 🚯 [Bruh , They Should Seriously Revoke Her License](http://9gag.com/gag/aEqo0wM)<!-- MEMES:END -->
+ - 🚖 [How to deal karen](http://9gag.com/gag/aXn4Pbd)
+ - 🚯 [Engrish\u2026..](http://9gag.com/gag/a3Zy4g5)
+ - 🚯 [Hold on](http://9gag.com/gag/anzv43o)<!-- MEMES:END -->
 
 --- 
 
