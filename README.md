@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung tells employees not to use AI tools like ChatGPT, citing security concerns](https://www.theverge.com/2023/5/2/23707796/samsung-ban-chatgpt-generative-ai-bing-bard-employees-security-concerns)
- - [Music labels are taking down AI voice clone songs from streaming services by citing copyright infringement, an approach experts say is not so straightforward &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230502/p9#a230502p9)
- - [SolarWinds: The Untold Story of the Boldest Supply-Chain Hack](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)<!-- TECH:END -->
+ - [Pixel 7a official materials outed: Pixel 6a comparison, freebies, and more leak](https://www.androidauthority.com/pixel-7a-official-marketing-materials-3319457/)
+ - [AI is being used to generate whole spam sites](https://www.theverge.com/2023/5/2/23707788/ai-spam-content-farm-misinformation-reports-newsguard)
+ - [The Writers Guild of America calls for a strike after negotiations with Netflix, Apple, Amazon, and others over pay and AI issues failed; around 12K may strike &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/230502/p11#a230502p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
