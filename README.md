@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s latest Matter update brings support for Thread](https://www.theverge.com/2023/5/2/23707900/amazon-matter-smart-home-thread-support)
- - [Daily deals: $800 off MacBook Pro, Apple Watch from $113, extra 20% off open box Apple devices](https://appleinsider.com/articles/23/05/02/daily-deals-800-off-macbook-pro-apple-watch-from-113-extra-20-off-open-box-apple-devices?utm_medium=rss)
- - [Lenovo ThinkPhone by Motorola review: great build quality with IP68 rating and useful PC integration options, but lackluster camera and finicky PC app streaming &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230502/p23#a230502p23)<!-- TECH:END -->
+ - [Google&#39;s &#39;Godfather of AI&#39; is afraid of the dangers that AI poses to humanity](https://appleinsider.com/articles/23/05/02/the-godfather-of-ai-quit-google-to-call-for-global-regulations?utm_medium=rss)
+ - [Microsoft has seemingly stopped work on bug fixes or features for the Surface Duo after the Android 12L update in October 2022, possibly due to recent layoffs &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230502/p26#a230502p26)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
