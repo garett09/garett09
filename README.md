@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [9 of the weirdest, most persistent Disney conspiracy theories](https://www.polygon.com/century-of-disney/23707002/10-weirdest-walt-disney-conspiracy-theories)
- - [Everything We’re Learning About Zelda: Tears Of The Kingdom From The Leaks](https://kotaku.com/zelda-tears-of-the-kingdom-leak-dungeons-companions-1850395668)
- - [Destiny 2: Guardian Games 2023 is here](https://news.xbox.com/en-us/2023/05/02/destiny-2-guardian-games-2023/)<!-- GAME:END -->
+ - [Yazeba’s Online, an unconventional tabletop RPG and the digital playground of your dreams](https://www.polygon.com/tabletop-games/23701170/yazebas-online-possum-creek-wanderhome-sequel-ttrpg-omm)
+ - [Star Wars Jedi: Fallen Order’s Most Annoying Boss Returns In The New Sequel](https://kotaku.com/star-wars-jedi-survivor-where-is-spawn-of-oggdo-bogdo-1850395873)
+ - [Sony’s PSVR 2 is coming to more stores on May 12](https://www.polygon.com/23700495/playstation-vr-2-headset-buy-best-amazon-gamestop-walmart)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
