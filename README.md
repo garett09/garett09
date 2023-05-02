@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase launches International Exchange, planning to let international users trade perpetual futures out of Bermuda, as the company tussles with US regulators &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230502/p17#a230502p17)
- - [Motorola launches the Moto G 5G, Moto G Stylus, and Edge Plus](https://www.androidauthority.com/motorola-moto-g-5g-2023-3319143/)
- - [FTX-ed Crypto Investors Are Moving Back to Hardware Wallets](https://www.wired.com/story/ftx-crypto-investors-hardware-wallets/)<!-- TECH:END -->
+ - [Sources: Microsoft plans to sell a ChatGPT version on a dedicated server in Q2, separating data from that of other customers and costing up to 10x more &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230502/p20#a230502p20)
+ - [Despite Q1 &amp; Q2 releases, Apple predicted to report bad hardware sales figures](https://appleinsider.com/articles/23/05/02/despite-q1-releases-apple-predicted-to-report-bad-hardware-sales-figures?utm_medium=rss)
+ - [9 Best USB Hubs and Docks &lpar;2023&rpar;: USB-C, USB-A, Portable](https://www.wired.com/gallery/best-usb-hubs-and-docks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
