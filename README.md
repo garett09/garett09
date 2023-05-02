@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rock and stone](http://9gag.com/gag/axobvZL)
- - 🚯 [Cake:](http://9gag.com/gag/armZABK)
- - 🚯 [Syl is the man!](http://9gag.com/gag/avQEWY5)<!-- MEMES:END -->
+ - 🚖 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)
+ - 🚯 [AI is taking over](http://9gag.com/gag/a7qVe0A)
+ - 🚯 [This dude!](http://9gag.com/gag/a8qD0pZ)<!-- MEMES:END -->
 
 --- 
 
