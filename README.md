@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The World Wide Web was released to the public 30 years ago. Feel old yet?](https://www.pcgamer.com/the-world-wide-web-was-released-to-the-public-30-years-ago-feel-old-yet)
- - [How to solve the Star Wars Jedi: Survivor Alignment Control Center puzzle](https://www.pcgamer.com/star-wars-alignment-control-center-puzzle-solution)
- - [Looks like Intel is dropping the &#39;i&#39; from &#39;Core i7&#39; starting with Meteor Lake](https://www.pcgamer.com/looks-like-intel-is-dropping-the-i-from-core-i7-starting-with-meteor-lake)<!-- GAME:END -->
+ - [Gran Turismo movie’s new trailer takes us further into its real-life story](https://www.polygon.com/23706716/gran-turismo-movie-trailer-release-date-true-story-real)
+ - [Neill Blomkamp Q&amp;A: Gran Turismo director talks inspiration and more](https://blog.playstation.com/2023/05/02/neill-blomkamp-qa-gran-turismo-director-talks-inspiration-and-more/)
+ - [Coming Soon to Xbox Game Pass: Ravenlok, Fuga: Melodies of Steel 2, and More](https://news.xbox.com/en-us/2023/05/02/game-pass-may-2023-wave-1-announce/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
