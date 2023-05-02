@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mega Baseball 4 brings MLB stars to a fan-favorite series](https://www.polygon.com/23707211/super-mega-baseball-4-release-date-preview-roster-real-players)
- - [EVE Online celebrates 20th anniversary with a fireworks show and a free expansion](https://www.pcgamer.com/eve-online-celebrates-20th-anniversary-with-a-fireworks-show-and-a-free-expansion)
- - [Star Wars Jedi: Survivor Spawn of Oggdo location and how to beat it](https://www.pcgamer.com/star-wars-jedi-survivor-spawn-of-oggdo-location-how-to-beat)<!-- GAME:END -->
+ - [9 of the weirdest, most persistent Disney conspiracy theories](https://www.polygon.com/century-of-disney/23707002/10-weirdest-walt-disney-conspiracy-theories)
+ - [Everything We’re Learning About Zelda: Tears Of The Kingdom From The Leaks](https://kotaku.com/zelda-tears-of-the-kingdom-leak-dungeons-companions-1850395668)
+ - [Destiny 2: Guardian Games 2023 is here](https://news.xbox.com/en-us/2023/05/02/destiny-2-guardian-games-2023/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
