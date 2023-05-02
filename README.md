@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`I need you to step outta the car.`](http://9gag.com/gag/aoK4Wnw)
- - 🚯 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)
- - 🚯 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)<!-- MEMES:END -->
+ - 🚖 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
+ - 🚯 [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)
+ - 🚯 [Bruh , They Should Seriously Revoke Her License](http://9gag.com/gag/aEqo0wM)<!-- MEMES:END -->
 
 --- 
 
