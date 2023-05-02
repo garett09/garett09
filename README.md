@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)
- - 🚯 [Ferguso](http://9gag.com/gag/a8qD7Z6)
- - 🚯 [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)<!-- MEMES:END -->
+ - 🚯 [Taliban Bans women from the restaurant.](http://9gag.com/gag/az2GdVb)
+ - 🚯 [Red Fall = Real Next Gen Gaming!](http://9gag.com/gag/axob3ZW)<!-- MEMES:END -->
 
 --- 
 
