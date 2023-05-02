@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 series is getting the May security patch right on time](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)
- - [Is Cosmology Broken? This Map May Be a Crucial Puzzle Piece](https://www.wired.com/story/is-cosmology-broken-atacama-telescope/)
- - [12 Best Subscription Boxes for Kids &lpar;2023&rpar;: All Ages, STEM, Books, and Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)<!-- TECH:END -->
+ - [Coinbase launches International Exchange, planning to let international users trade perpetual futures out of Bermuda, as the company tussles with US regulators &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230502/p17#a230502p17)
+ - [Motorola launches the Moto G 5G, Moto G Stylus, and Edge Plus](https://www.androidauthority.com/motorola-moto-g-5g-2023-3319143/)
+ - [FTX-ed Crypto Investors Are Moving Back to Hardware Wallets](https://www.wired.com/story/ftx-crypto-investors-hardware-wallets/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
