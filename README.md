@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest Pixel Buds A-Series leak provides best look yet at the new colorway](https://www.androidauthority.com/pixel-buds-a-series-3319627/)
- - [Simpplr, an internal social network for companies, raised a $70M Series D led by Sapphire Ventures and says it has 700+ customers, including Moderna and AAA &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230502/p35#a230502p35)
- - [AMD reports Q1 revenue down 9% YoY to $5.35B, vs. $5.3B est., a $139M net loss, Client revenue down 65% YoY to $739M, and Q2 revenue guidance below expectations &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/230502/p34#a230502p34)<!-- TECH:END -->
+ - [Google TV is reducing app sizes and speeding up performance](https://www.androidauthority.com/google-tv-improvements-3319674/)
+ - [Oura Ring vs Apple Watch: A battle of form factors](https://www.androidauthority.com/oura-ring-vs-apple-watch-3319216/)
+ - [&#39;Sid Meier&#39;s Railroads!&#39; iOS review: railway history with challenges](https://appleinsider.com/articles/23/05/02/sid-meiers-railroads-ios-review-railway-history-with-challenges?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
