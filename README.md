@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That Info isn&#39;t useful](http://9gag.com/gag/az2G5PK)
+ - 🚖 [Ferguso](http://9gag.com/gag/a8qD7Z6)
  - 🚯 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)
- - 🚯 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
+ - 🚯 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)<!-- MEMES:END -->
 
 --- 
 
