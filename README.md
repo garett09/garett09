@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s &#39;Godfather of AI&#39; is afraid of the dangers that AI poses to humanity](https://appleinsider.com/articles/23/05/02/the-godfather-of-ai-quit-google-to-call-for-global-regulations?utm_medium=rss)
- - [Microsoft has seemingly stopped work on bug fixes or features for the Surface Duo after the Android 12L update in October 2022, possibly due to recent layoffs &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230502/p26#a230502p26)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [An in-depth look inside the US investigation into the SolarWinds hack, one of the most sophisticated cyberespionage campaigns of the decade &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/230502/p30#a230502p30)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Snap says it has begun testing sponsored links in My AI conversations, reveals Spotlight grew 170% YoY to 350 MAUs, launches &quot;First Story&quot; ad product, more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230502/p29#a230502p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
