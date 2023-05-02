@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Looks like Intel is dropping the &#39;i&#39; from &#39;Core i7&#39; starting with Meteor Lake](https://www.pcgamer.com/looks-like-intel-is-dropping-the-i-from-core-i7-starting-with-meteor-lake)
- - [MSI GeForce RTX 4070 Gaming X Trio](https://www.pcgamer.com/msi-geforce-rtx-4070-gaming-x-trio)
- - [The Last Case of Benedict Fox review](https://www.pcgamer.com/the-last-case-of-benedict-fox-review)<!-- GAME:END -->
+ - [The World Wide Web was released to the public 30 years ago. Feel old yet?](https://www.pcgamer.com/the-world-wide-web-was-released-to-the-public-30-years-ago-feel-old-yet)
+ - [How to solve the Star Wars Jedi: Survivor Alignment Control Center puzzle](https://www.pcgamer.com/star-wars-alignment-control-center-puzzle-solution)
+ - [Looks like Intel is dropping the &#39;i&#39; from &#39;Core i7&#39; starting with Meteor Lake](https://www.pcgamer.com/looks-like-intel-is-dropping-the-i-from-core-i7-starting-with-meteor-lake)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
