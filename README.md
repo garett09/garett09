@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [RTX 4060 Ti uses same board as 3060, due out end of May](https://www.pcgamer.com/rtx-4060-ti-uses-same-board-as-3060-due-out-end-of-may)
  - [Today&#39;s Wordle hint and answer #682: Tuesday, May 2](https://www.pcgamer.com/wordle-today-hint-answer-682-may-2)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/05/01/this-weeks-deals-with-gold-and-spotlight-sale-272/)
- - [World&#39;s first wooden transistor bark is stronger than its byte](https://www.pcgamer.com/worlds-first-wooden-transistor-bark-is-stronger-than-its-byte)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/05/01/this-weeks-deals-with-gold-and-spotlight-sale-272/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
