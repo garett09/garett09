@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)
- - 🚯 [The age of victim status is over](http://9gag.com/gag/avQE1GX)
- - 🚯 [Her phase never ended](http://9gag.com/gag/aQEAzv7)<!-- MEMES:END -->
+ - 🚖 [Rock and stone](http://9gag.com/gag/axobvZL)
+ - 🚯 [Cake:](http://9gag.com/gag/armZABK)
+ - 🚯 [Syl is the man!](http://9gag.com/gag/avQEWY5)<!-- MEMES:END -->
 
 --- 
 
