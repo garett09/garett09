@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hold on](http://9gag.com/gag/anzv43o)
- - 🚯 [And after you solve it, you become president your self.](http://9gag.com/gag/ajVB930)
- - 🚯 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)<!-- MEMES:END -->
+ - 🚖 [`I need you to step outta the car.`](http://9gag.com/gag/aoK4Wnw)
+ - 🚯 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)
+ - 🚯 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)<!-- MEMES:END -->
 
 --- 
 
