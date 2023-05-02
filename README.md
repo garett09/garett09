@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to deal karen](http://9gag.com/gag/aXn4Pbd)
+ - 🚖 [Yes sir](http://9gag.com/gag/ay2Wq9q)
  - 🚯 [Engrish\u2026..](http://9gag.com/gag/a3Zy4g5)
  - 🚯 [Hold on](http://9gag.com/gag/anzv43o)<!-- MEMES:END -->
 
