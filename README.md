@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s Q2 2023 earnings report on Thursday, May 4](https://appleinsider.com/articles/23/05/01/what-to-expect-from-apples-q2-2023-earnings-report-on-thursday-may-4?utm_medium=rss)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Pornhub goes dark in Utah to protest age verification law](https://www.theverge.com/2023/5/2/23707861/pornhub-utah-age-verification-law-protest)<!-- TECH:END -->
+ - [Amazon’s latest Matter update brings support for Thread](https://www.theverge.com/2023/5/2/23707900/amazon-matter-smart-home-thread-support)
+ - [Daily deals: $800 off MacBook Pro, Apple Watch from $113, extra 20% off open box Apple devices](https://appleinsider.com/articles/23/05/02/daily-deals-800-off-macbook-pro-apple-watch-from-113-extra-20-off-open-box-apple-devices?utm_medium=rss)
+ - [Lenovo ThinkPhone by Motorola review: great build quality with IP68 rating and useful PC integration options, but lackluster camera and finicky PC app streaming &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230502/p23#a230502p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
