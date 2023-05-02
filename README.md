@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Amnesty report details Israel&#39;s Red Wolf facial recognition system at checkpoints in Hebron and East Jerusalem, helping restrict Palestinians&#39; movements &lpar;New York Times&rpar;](http://www.techmeme.com/230502/p5#a230502p5)
- - [IBM CEO Arvind Krishna says the company plans to slow or stop back-office hiring, impacting ~26K staff, and ~30% could &quot;easily&quot; be replaced by AI in five years &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230502/p4#a230502p4)
- - [The Google Pixel 7a is launching in India on May 11](https://www.androidauthority.com/google-pixel-7a-india-launch-date-3319369/)<!-- TECH:END -->
+ - [Samsung tells employees not to use AI tools like ChatGPT, citing security concerns](https://www.theverge.com/2023/5/2/23707796/samsung-ban-chatgpt-generative-ai-bing-bard-employees-security-concerns)
+ - [Music labels are taking down AI voice clone songs from streaming services by citing copyright infringement, an approach experts say is not so straightforward &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230502/p9#a230502p9)
+ - [SolarWinds: The Untold Story of the Boldest Supply-Chain Hack](https://www.wired.com/story/the-untold-story-of-solarwinds-the-boldest-supply-chain-hack-ever/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
