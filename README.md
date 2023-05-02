@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Guardians of the Galaxy 3 deserves a content warning for violence against animals](https://www.polygon.com/23706835/guardians-galaxy-3-animal-abuse-scenes-content-warning-trigger-list)
- - [Convergence: A League of Legends Story reimagining Zaun](https://blog.playstation.com/2023/05/02/convergence-a-league-of-legends-story-reimagining-zaun/)
- - [Invite Your Friends and Play Together – Announcing Game Pass’ New Friend Referral Program](https://news.xbox.com/en-us/2023/05/02/game-pass-friend-referral-program-announce/)<!-- GAME:END -->
+ - [Cassette Beasts remixes Pokémon but falls short of revolutionizing it](https://www.polygon.com/reviews/23706936/cassette-beasts-review-pokemon-switch)
+ - [Redfall Available Now on Xbox Series X|S and Game Pass](https://news.xbox.com/en-us/2023/05/02/redfall-out-now-launch/)
+ - [This delightful mod brings Elden Ring&#39;s community spirit into Final Fantasy 14](https://www.pcgamer.com/this-delightful-mod-brings-elden-rings-community-spirit-into-final-fantasy-14)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
