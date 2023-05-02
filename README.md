@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ferguso](http://9gag.com/gag/a8qD7Z6)
- - 🚯 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)
- - 🚯 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)<!-- MEMES:END -->
+ - 🚖 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)
+ - 🚯 [The age of victim status is over](http://9gag.com/gag/avQE1GX)
+ - 🚯 [Her phase never ended](http://9gag.com/gag/aQEAzv7)<!-- MEMES:END -->
 
 --- 
 
