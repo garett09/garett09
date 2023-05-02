@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bruh , They Should Seriously Revoke Her License](http://9gag.com/gag/aEqo0wM)
- - 🚯 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
- - 🚯 [Begin discussions on the Polish model](http://9gag.com/gag/ago8oPr)<!-- MEMES:END -->
+ - 🚖 [Maybe they had their first date at KFC.](http://9gag.com/gag/a9q860D)
+ - 🚯 [Taliban Bans women from the restaurant.](http://9gag.com/gag/az2GdVb)
+ - 🚯 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
 
 --- 
 
