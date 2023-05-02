@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)
- - 🚯 [Taliban Bans women from the restaurant.](http://9gag.com/gag/az2GdVb)
+ - 🚖 [Maybe they had their first date at KFC.](http://9gag.com/gag/a9q860D)
+ - 🚯 [That Info isn&#39;t useful](http://9gag.com/gag/az2G5PK)
  - 🚯 [Red Fall = Real Next Gen Gaming!](http://9gag.com/gag/axob3ZW)<!-- MEMES:END -->
 
 --- 
