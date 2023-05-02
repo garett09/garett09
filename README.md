@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft plans to sell a ChatGPT version on a dedicated server in Q2, separating data from that of other customers and costing up to 10x more &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230502/p20#a230502p20)
- - [Despite Q1 &amp; Q2 releases, Apple predicted to report bad hardware sales figures](https://appleinsider.com/articles/23/05/02/despite-q1-releases-apple-predicted-to-report-bad-hardware-sales-figures?utm_medium=rss)
- - [9 Best USB Hubs and Docks &lpar;2023&rpar;: USB-C, USB-A, Portable](https://www.wired.com/gallery/best-usb-hubs-and-docks/)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s Q2 2023 earnings report on Thursday, May 4](https://appleinsider.com/articles/23/05/01/what-to-expect-from-apples-q2-2023-earnings-report-on-thursday-may-4?utm_medium=rss)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [Pornhub goes dark in Utah to protest age verification law](https://www.theverge.com/2023/5/2/23707861/pornhub-utah-age-verification-law-protest)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
