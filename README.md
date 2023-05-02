@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)
+ - 🚖 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)
  - 🚯 [AI is taking over](http://9gag.com/gag/a7qVe0A)
- - 🚯 [This dude!](http://9gag.com/gag/a8qD0pZ)<!-- MEMES:END -->
+ - 🚯 [Whatever this is on the buffet.](http://9gag.com/gag/aBdP6Kz)<!-- MEMES:END -->
 
 --- 
 
