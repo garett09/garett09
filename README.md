@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe they had their first date at KFC.](http://9gag.com/gag/a9q860D)
- - 🚯 [Taliban Bans women from the restaurant.](http://9gag.com/gag/az2GdVb)
- - 🚯 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
+ - 🚖 [Crazy neighbors.](http://9gag.com/gag/amAmg4j)
+ - 🚯 [80-year-old store owner in California shoots armed robber](http://9gag.com/gag/aMEnVOV)
+ - 🚯 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)<!-- MEMES:END -->
 
 --- 
 
