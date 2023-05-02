@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)
- - 🚯 [Taliban Bans women from the restaurant.](http://9gag.com/gag/az2GdVb)
- - 🚯 [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)<!-- MEMES:END -->
+ - 🚖 [Bruh , They Should Seriously Revoke Her License](http://9gag.com/gag/aEqo0wM)
+ - 🚯 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
+ - 🚯 [Begin discussions on the Polish model](http://9gag.com/gag/ago8oPr)<!-- MEMES:END -->
 
 --- 
 
