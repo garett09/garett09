@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yazeba’s Online, an unconventional tabletop RPG and the digital playground of your dreams](https://www.polygon.com/tabletop-games/23701170/yazebas-online-possum-creek-wanderhome-sequel-ttrpg-omm)
- - [Star Wars Jedi: Fallen Order’s Most Annoying Boss Returns In The New Sequel](https://kotaku.com/star-wars-jedi-survivor-where-is-spawn-of-oggdo-bogdo-1850395873)
- - [Sony’s PSVR 2 is coming to more stores on May 12](https://www.polygon.com/23700495/playstation-vr-2-headset-buy-best-amazon-gamestop-walmart)<!-- GAME:END -->
+ - [You can now give five of your friends a free PC Game Pass trial](https://www.pcgamer.com/you-can-now-give-five-of-your-friends-a-free-pc-game-pass-trial)
+ - [The best accessories for your Xbox Series X](https://www.polygon.com/what-to-buy/23604803/best-xbox-series-x-s-accessories)
+ - [Street Fighter 6 gets a crucial component of fighting games right: personality](https://www.polygon.com/23707906/street-fighter-6-sf6-roster-hands-on-pc-xbox-ps5-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
