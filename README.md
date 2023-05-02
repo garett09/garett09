@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More reasons to love Brendan](http://9gag.com/gag/aEqoV2p)
- - 🚯 [Maybe they had their first date at KFC.](http://9gag.com/gag/a9q860D)
- - 🚯 [Well.. it&#39;s not lying](http://9gag.com/gag/aBdPVQ1)<!-- MEMES:END -->
+ - 🚖 [Kind of close to where you\u2019d put your mouth](http://9gag.com/gag/az2G21b)
+ - 🚯 [Wash your hands!!!](http://9gag.com/gag/anzvzKo)
+ - 🚯 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)<!-- MEMES:END -->
 
 --- 
 
