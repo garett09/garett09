@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 7a official materials outed: Pixel 6a comparison, freebies, and more leak](https://www.androidauthority.com/pixel-7a-official-marketing-materials-3319457/)
- - [AI is being used to generate whole spam sites](https://www.theverge.com/2023/5/2/23707788/ai-spam-content-farm-misinformation-reports-newsguard)
- - [The Writers Guild of America calls for a strike after negotiations with Netflix, Apple, Amazon, and others over pay and AI issues failed; around 12K may strike &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/230502/p11#a230502p11)<!-- TECH:END -->
+ - [Samsung Galaxy S23 series is getting the May security patch right on time](https://www.androidauthority.com/samsung-galaxy-s23-update-3287150/)
+ - [Is Cosmology Broken? This Map May Be a Crucial Puzzle Piece](https://www.wired.com/story/is-cosmology-broken-atacama-telescope/)
+ - [12 Best Subscription Boxes for Kids &lpar;2023&rpar;: All Ages, STEM, Books, and Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
