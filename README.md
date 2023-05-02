@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo movie’s new trailer takes us further into its real-life story](https://www.polygon.com/23706716/gran-turismo-movie-trailer-release-date-true-story-real)
- - [Neill Blomkamp Q&amp;A: Gran Turismo director talks inspiration and more](https://blog.playstation.com/2023/05/02/neill-blomkamp-qa-gran-turismo-director-talks-inspiration-and-more/)
- - [Coming Soon to Xbox Game Pass: Ravenlok, Fuga: Melodies of Steel 2, and More](https://news.xbox.com/en-us/2023/05/02/game-pass-may-2023-wave-1-announce/)<!-- GAME:END -->
+ - [Guardians of the Galaxy 3 deserves a content warning for violence against animals](https://www.polygon.com/23706835/guardians-galaxy-3-animal-abuse-scenes-content-warning-trigger-list)
+ - [Convergence: A League of Legends Story reimagining Zaun](https://blog.playstation.com/2023/05/02/convergence-a-league-of-legends-story-reimagining-zaun/)
+ - [Invite Your Friends and Play Together – Announcing Game Pass’ New Friend Referral Program](https://news.xbox.com/en-us/2023/05/02/game-pass-friend-referral-program-announce/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
