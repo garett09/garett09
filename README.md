@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV is reducing app sizes and speeding up performance](https://www.androidauthority.com/google-tv-improvements-3319674/)
- - [Oura Ring vs Apple Watch: A battle of form factors](https://www.androidauthority.com/oura-ring-vs-apple-watch-3319216/)
- - [&#39;Sid Meier&#39;s Railroads!&#39; iOS review: railway history with challenges](https://appleinsider.com/articles/23/05/02/sid-meiers-railroads-ios-review-railway-history-with-challenges?utm_medium=rss)<!-- TECH:END -->
+ - [The Comedian Taking on India’s New Censorship Law](https://www.wired.com/story/comedian-kunal-kamra-india-censorship-law/)
+ - [A Siri bug in the iOS 16.4.1 Calendar app is causing problems for vision impaired](https://appleinsider.com/articles/23/05/02/a-siri-bug-in-the-ios-1641-calendar-app-is-causing-problems-for-vision-impaired?utm_medium=rss)
+ - [The EU&#39;s Digital Markets Act becomes applicable today, after entering into force in November 2022; enforcement on gatekeepers is not expected until spring 2024 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230502/p40#a230502p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
