@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cassette Beasts remixes Pokémon but falls short of revolutionizing it](https://www.polygon.com/reviews/23706936/cassette-beasts-review-pokemon-switch)
- - [Redfall Available Now on Xbox Series X|S and Game Pass](https://news.xbox.com/en-us/2023/05/02/redfall-out-now-launch/)
- - [This delightful mod brings Elden Ring&#39;s community spirit into Final Fantasy 14](https://www.pcgamer.com/this-delightful-mod-brings-elden-rings-community-spirit-into-final-fantasy-14)<!-- GAME:END -->
+ - [Super Mega Baseball 4 brings MLB stars to a fan-favorite series](https://www.polygon.com/23707211/super-mega-baseball-4-release-date-preview-roster-real-players)
+ - [EVE Online celebrates 20th anniversary with a fireworks show and a free expansion](https://www.pcgamer.com/eve-online-celebrates-20th-anniversary-with-a-fireworks-show-and-a-free-expansion)
+ - [Star Wars Jedi: Survivor Spawn of Oggdo location and how to beat it](https://www.pcgamer.com/star-wars-jedi-survivor-spawn-of-oggdo-location-how-to-beat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
