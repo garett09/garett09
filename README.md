@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC game releases we&#39;re most excited about in May](https://www.pcgamer.com/pc-releases-games-upcoming-may-2023)
- - [Ukraine&#39;s army is experimenting with using Steam Decks to remote-control gun turrets](https://www.pcgamer.com/ukraines-army-is-experimenting-with-using-steam-decks-to-remote-control-gun-turrets)
- - [Behold: GTA’s Worst Mission, Now With Thomas The Tank Engine](https://kotaku.com/gta-san-andreas-rockstar-thomas-friends-train-mission-1850392713)<!-- GAME:END -->
+ - [I was almost ready to declare Redfall another PC performance disaster, but a last-minute patch might&#39;ve saved it](https://www.pcgamer.com/redfall-pc-performance-launch)
+ - [Redfall review-in-progress: It&#39;s not great, folks](https://www.pcgamer.com/redfall-review-in-progress)
+ - [Redfall is Arkane defanged](https://www.polygon.com/reviews/23706685/redfall-review-xbox-series-x-pc-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
