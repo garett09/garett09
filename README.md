@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe they had their first date at KFC.](http://9gag.com/gag/a9q860D)
- - 🚯 [That Info isn&#39;t useful](http://9gag.com/gag/az2G5PK)
- - 🚯 [Red Fall = Real Next Gen Gaming!](http://9gag.com/gag/axob3ZW)<!-- MEMES:END -->
+ - 🚖 [Play stupid games, Win stupid prizes](http://9gag.com/gag/a8qDEOY)
+ - 🚯 [Taliban Bans women from the restaurant.](http://9gag.com/gag/az2GdVb)
+ - 🚯 [One of the last People to live in an Iron Lung. At 6 years old, Alexander was diagnosed with Polio which lead to paralysis from his neck down.The machine is made to compress and depress the chest. Today, he is 74 years old and he still relies on the Iron Lung to keep him alive.](http://9gag.com/gag/aWGvxr3)<!-- MEMES:END -->
 
 --- 
 
