@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Double Dragon Gaiden: How Roguelite Elements Add to the Beat ‘Em Up Classic](https://news.xbox.com/en-us/2023/05/03/double-dragon-gaiden-announce/)
- - [Contraband Police asks: What if Papers, Please gave you a gun?](https://www.polygon.com/reviews/23708583/contraband-police-review-border-simulator-papers-please)
- - [Xbox Games Showcase and Starfield Direct dated for June 11](https://www.polygon.com/23709469/xbox-games-showcase-2023-date-time-starfield-direct-e3)<!-- GAME:END -->
+ - [Chrono Odyssey: new gameplay details on the upcoming PS5 MMORPG](https://blog.playstation.com/2023/05/03/chrono-odyssey-new-gameplay-details-on-the-upcoming-ps5-mmorpg/)
+ - [Breaking Down the Gameplay Reveal of Chrono Odyssey, a Next-Generation Open-World MMORPG](https://news.xbox.com/en-us/2023/05/03/chrono-odyssey-gameplay-reveal/)
+ - [F1 23 hits the track in June, with a nod to gamepad drivers](https://www.polygon.com/23709519/f1-23-game-release-date-braking-point-2-course-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
