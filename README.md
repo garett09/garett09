@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
- - [Sources: TSMC is in talks to spend between &amp;euro;7B and &amp;euro;10B to build a chip plant in Saxony, Germany, working with NXP, Bosch, Infineon, and the German government &lpar;Bloomberg&rpar;](http://www.techmeme.com/230503/p12#a230503p12)
- - [AMD makes Ryzen 7840U official, claims it can beat Apple M2](https://www.theverge.com/2023/5/3/23709251/amd-ryzen-7040-u-apple-m2-intel-laptop-cpu-apu)<!-- TECH:END -->
+ - [Double Dragon is coming back this summer with a new co-op brawl](https://www.theverge.com/23709463/double-dragon-gaiden-rise-of-the-dragons-trailer-release-date)
+ - [Apple&#39;s deep ties to China should worry investors given Beijing controls the factories, workforces, and market access, all of which could be quickly taken away &lpar;Jay Newman/Financial Times&rpar;](http://www.techmeme.com/230503/p15#a230503p15)
+ - [Twitter Rival Bluesky Has a Nudes Problem](https://www.wired.com/story/twitter-rival-bluesky-has-a-nudes-problem/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
