@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Comedian Taking on India’s New Censorship Law](https://www.wired.com/story/comedian-kunal-kamra-india-censorship-law/)
- - [A Siri bug in the iOS 16.4.1 Calendar app is causing problems for vision impaired](https://appleinsider.com/articles/23/05/02/a-siri-bug-in-the-ios-1641-calendar-app-is-causing-problems-for-vision-impaired?utm_medium=rss)
- - [The EU&#39;s Digital Markets Act becomes applicable today, after entering into force in November 2022; enforcement on gatekeepers is not expected until spring 2024 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230502/p40#a230502p40)<!-- TECH:END -->
+ - [Match Group reports Q1 revenue down 1% YoY to $787M, vs. $794M est., paying users down 3% YoY to 15.9M, revenue per paying user up 2% YoY; announces $1B buyback &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/230502/p41#a230502p41)
+ - [The Verge’s 2023 Mother’s Day Gift Guide](https://www.theverge.com/23684534/best-mothers-day-gifts-mom-unique-presents-tech-gadgets-ideas)
+ - [ChatGPT can now find you a house](https://www.theverge.com/2023/5/2/23708792/zillow-chat-gpt-plugin-alpha-release)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
