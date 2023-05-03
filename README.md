@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC pushes to ban Meta from profiting off children’s data](https://www.theverge.com/2023/5/3/23709892/ftc-meta-ban-monetizing-child-data-privacy-order)
- - [Android’s Finder Network will also help you find third-party tracker tags](https://www.androidauthority.com/android-finder-network-3319996/)
- - [Google Is Letting You Claim a .Dad Dedicated Domain. Cue the Dad Jokes](https://www.wired.com/story/google-new-domains-dad-jokes/)<!-- TECH:END -->
+ - [Gmail adds blue checkmarks for brands, indicating verified senders that adopted Google&#39;s Brand Indicators for Message Identification standard &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230503/p23#a230503p23)
+ - [TikTok announces Pulse Premiere, which lets select publishers such as Cond&amp;eacute; Nast, BuzzFeed, and NBC sell ads alongside their posts and keep 50% of the revenue &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/230503/p22#a230503p22)
+ - [The FTC proposes barring Meta from monetizing kids&#39; data, accusing the company of violating a 2020 order with its privacy program and COPPA with Messenger Kids &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230503/p21#a230503p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
