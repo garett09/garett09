@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When woman older than 25 touches Leo](http://9gag.com/gag/aOxDZ6R)
- - 🚯 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
- - 🚯 [Goodbye](http://9gag.com/gag/aGEM8YG)<!-- MEMES:END -->
+ - 🚖 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
+ - 🚯 [True](http://9gag.com/gag/ay2W62W)
+ - 🚯 [Not even tiny ripples..](http://9gag.com/gag/aL1GenM)<!-- MEMES:END -->
 
 --- 
 
