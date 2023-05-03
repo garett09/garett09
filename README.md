@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Discord is about to make you pick a new, unique username](https://www.polygon.com/23710244/discord-new-unique-username-announcement-display-names)
- - [Activision will let you pay to make your Call of Duty guns sound like 2009](https://www.pcgamer.com/activision-will-let-you-pay-to-make-your-call-of-duty-guns-sound-like-2009)
- - [Life Is Strange ‘Missing’ Poster Seems Awfully Close To Real Murder Victim’s](https://kotaku.com/life-is-strange-rachel-missing-posters-sunday-blombergh-1850401594)<!-- GAME:END -->
+ - [Brace yourself: Discord is going to make everyone pick a new username](https://www.pcgamer.com/brace-yourself-discord-is-going-to-make-everyone-pick-a-new-username)
+ - [Marvel’s Spider-Man 2 Prequel Comic Pulls New Villain Into The ‘Gamerverse’](https://kotaku.com/marvel-spider-man-2-prequel-free-comic-book-day-ps5-1850401784)
+ - [Ex-Nintendo Of America President Memes On Zelda Leaks](https://kotaku.com/zelda-tears-kingdom-leak-reggie-nintendo-liam-neeson-1850401749)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
