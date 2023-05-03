@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at So-Vits-SVC, a free and open-source software that launched in March and was used to create the AI-generated vocals for viral song Heart On My Sleeve &lpar;Lane Brown/Vulture&rpar;](http://www.techmeme.com/230503/p2#a230503p2)
- - [The best T-Mobile deals: Get a free Samsung Galaxy S23 without trade](https://www.androidauthority.com/best-t-mobile-deals-836582/)
- - [Foretellix, an Israeli startup that offers companies tools to verify autonomous vehicle tech at any level, raised a $43M Series C led by 83North &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230503/p1#a230503p1)<!-- TECH:END -->
+ - [Sources: Unity is slashing ~600 jobs, or ~8% of staff, its largest round of cuts in the past year, after laying off 500+ workers in January and last June &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/230503/p3#a230503p3)
+ - [Chinese VCs Lived the Silicon Valley High Life. Now the Party’s Over](https://www.wired.com/story/chinese-venture-capital-silicon-valley-party-over/)
+ - [Your Pixel phone could soon protect your hearing with this new feature](https://www.androidauthority.com/pixel-phone-loud-sound-alert-3319785/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
