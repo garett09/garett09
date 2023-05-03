@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chrono Odyssey: new gameplay details on the upcoming PS5 MMORPG](https://blog.playstation.com/2023/05/03/chrono-odyssey-new-gameplay-details-on-the-upcoming-ps5-mmorpg/)
- - [Breaking Down the Gameplay Reveal of Chrono Odyssey, a Next-Generation Open-World MMORPG](https://news.xbox.com/en-us/2023/05/03/chrono-odyssey-gameplay-reveal/)
- - [F1 23 hits the track in June, with a nod to gamepad drivers](https://www.polygon.com/23709519/f1-23-game-release-date-braking-point-2-course-list)<!-- GAME:END -->
+ - [The Dune 2 trailer is full Timothée Chalamet, sandworms, Zendaya, and desert power](https://www.polygon.com/23708558/dune-2-trailer-cast-release-date-austin-butler)
+ - [Microsoft promises &#39;tons of gameplay&#39; in June 11 Starfield deep-dive](https://www.pcgamer.com/microsoft-promises-tons-of-gameplay-in-june-11-starfield-deep-dive)
+ - [After Us hands-on details—A free-flowing, tear-jerking platformer](https://blog.playstation.com/2023/05/03/after-us-hands-on-details-a-free-flowing-tear-jerking-platformer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
