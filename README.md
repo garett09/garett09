@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Runescape Bet Results In Redditor Pouring Hot Coffee On His Butthole](https://kotaku.com/old-school-runescape-mmo-reddit-hot-coffee-butt-hole-1850400850)
- - [People Are Grinding Netflix Shows To Prevent Them From Getting Canceled](https://kotaku.com/netflix-shadow-and-bone-canceled-season-3-fandom-binge-1850400917)
- - [Sweet Tooth is coming back to Netflix for a third and final season](https://www.polygon.com/23709511/sweet-tooth-season-3-news-release-date-cast)<!-- GAME:END -->
+ - [Blanka’s Street Fighter 6 Intro Is Extra AF](https://kotaku.com/street-fighter-6-blanka-intro-entrance-flip-cartwheel-1850401308)
+ - [Nvidia is best known for building GPUs but says it actually spends &#39;80% of our time on the software&#39;](https://www.pcgamer.com/nvidia-is-best-known-for-building-gpus-but-says-it-actually-spends-80-of-our-time-on-the-software)
+ - [PSA: The trailer for Dune: Part Two looks dope, whatever the rest of the PC Gamer team think](https://www.pcgamer.com/psa-the-trailer-for-dune-part-two-looks-dope-whatever-the-rest-of-the-pc-gamer-team-think)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
