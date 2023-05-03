@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dune: Part Two’s first trailer is a tense sandworm ride](https://www.theverge.com/23698109/dune-part-2-trailer-sandworm-ride)
- - [Jack Dorsey has posted 59 times per day on average on Nostr since January 2023, often talking about crypto and open source while criticizing Elon Musk &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/230503/p19#a230503p19)
- - [10 Best Xbox Game Pass Games &lpar;May 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)<!-- TECH:END -->
+ - [FTC pushes to ban Meta from profiting off children’s data](https://www.theverge.com/2023/5/3/23709892/ftc-meta-ban-monetizing-child-data-privacy-order)
+ - [Android’s Finder Network will also help you find third-party tracker tags](https://www.androidauthority.com/android-finder-network-3319996/)
+ - [Google Is Letting You Claim a .Dad Dedicated Domain. Cue the Dad Jokes](https://www.wired.com/story/google-new-domains-dad-jokes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
