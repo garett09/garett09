@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nokia XR21 is official: And you thought an IP68 rating was great?](https://www.androidauthority.com/nokia-xr21-3319845/)
- - [Microsoft is forcing Outlook and Teams to open links in Edge and IT admins are angry](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
- - [How on-demand home services startup Urban Company became the biggest employer of women in India&#39;s gig economy, creating a rare opportunity for social mobility &lpar;Sonia Faleiro/Rest of World&rpar;](http://www.techmeme.com/230503/p5#a230503p5)<!-- TECH:END -->
+ - [Geoffrey Hinton should have spoken up years ago when others like Timnit Gebru were criticizing Google over LLMs; hopefully Hinton spurs others to speak up now &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230503/p7#a230503p7)
+ - [Slack CEO Lidiane Jones Wants You to Stop Slacking So Much](https://www.wired.com/story/have-a-nice-future-podcast-4/)
+ - [The Modern World Is Aging Your Brain](https://www.wired.com/story/aging-brain-volume/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
