@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eggsplosion](http://9gag.com/gag/a046nAv)
- - 🚯 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
- - 🚯 [Goodbye](http://9gag.com/gag/aGEM8YG)<!-- MEMES:END -->
+ - 🚖 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)
+ - 🚯 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
+ - 🚯 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)<!-- MEMES:END -->
 
 --- 
 
