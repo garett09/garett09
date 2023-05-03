@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Double Dragon is coming back this summer with a new co-op brawl](https://www.theverge.com/23709463/double-dragon-gaiden-rise-of-the-dragons-trailer-release-date)
- - [Apple&#39;s deep ties to China should worry investors given Beijing controls the factories, workforces, and market access, all of which could be quickly taken away &lpar;Jay Newman/Financial Times&rpar;](http://www.techmeme.com/230503/p15#a230503p15)
- - [Twitter Rival Bluesky Has a Nudes Problem](https://www.wired.com/story/twitter-rival-bluesky-has-a-nudes-problem/)<!-- TECH:END -->
+ - [Save $450 on Apple&#39;s upgraded M1 MacBook Air with an 8-core GPU, 16GB memory, 1TB SSD](https://appleinsider.com/articles/23/05/03/save-450-on-apples-upgraded-m1-macbook-air-with-an-8-core-gpu-16gb-memory-1tb-ssd?utm_medium=rss)
+ - [Andreessen Horowitz saw the future — but did the future leave it behind?](https://www.theverge.com/23697708/andreessen-horowitz-a16z-investing-tech)
+ - [TikTok opens up its revamped Creativity Program creator fund to all US-based creators with over 10K followers and over 100K views in the past 30 days &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230503/p16#a230503p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
