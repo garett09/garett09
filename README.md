@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Launch your new Steam obsession with Oddyssey: Your Space, Your Way](https://www.pcgamer.com/launch-your-new-steam-obsession-with-oddyssey-your-space-your-way)
- - [Razer makes sunglasses now, and no, they don&#39;t have RGB lighting](https://www.pcgamer.com/razer-makes-sunglasses-now-and-no-they-dont-have-rgb-lighting)
- - [Today&#39;s Wordle hint and answer #683: Wednesday, May 3](https://www.pcgamer.com/wordle-today-hint-answer-683-may-3)<!-- GAME:END -->
+ - [AMD will launch a new &#39;mainstream&#39; GPU by the end of June and it&#39;s almost certainly the 7600 XT](https://www.pcgamer.com/amd-will-launch-a-new-mainstream-gpu-by-the-end-of-june-and-its-almost-certainly-the-7600-xt)
+ - [Pathfinder is getting its own Diablo-like action-RPG](https://www.pcgamer.com/pathfinder-is-getting-its-own-diablo-like-action-rpg)
+ - [How to open the Dreamer&#39;s Bounty chest in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-dreamers-bounty)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
