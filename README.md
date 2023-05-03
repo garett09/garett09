@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foretellix, an Israeli startup that offers companies tools to verify autonomous vehicle tech at any level, raised a $43M Series C led by 83North &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230503/p1#a230503p1)
- - [Kamala Harris is meeting CEOs of Alphabet, Microsoft, OpenAI, and Anthropic on May 4 at the White House to discuss risks in current and near-term AI development &lpar;Justin Sink/Bloomberg&rpar;](http://www.techmeme.com/230502/p44#a230502p44)
- - [Apple Maps redesign expected to go live in Taiwan in June](https://appleinsider.com/articles/23/05/03/apple-maps-redesign-expected-to-go-live-in-taiwan-in-june?utm_medium=rss)<!-- TECH:END -->
+ - [A look at So-Vits-SVC, a free and open-source software that launched in March and was used to create the AI-generated vocals for viral song Heart On My Sleeve &lpar;Lane Brown/Vulture&rpar;](http://www.techmeme.com/230503/p2#a230503p2)
+ - [The best T-Mobile deals: Get a free Samsung Galaxy S23 without trade](https://www.androidauthority.com/best-t-mobile-deals-836582/)
+ - [Foretellix, an Israeli startup that offers companies tools to verify autonomous vehicle tech at any level, raised a $43M Series C led by 83North &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230503/p1#a230503p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
