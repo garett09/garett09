@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Goodbye](http://9gag.com/gag/aGEM8YG)
- - 🚯 [Too much freedom](http://9gag.com/gag/a3ZyAo1)
- - 🚯 [Her phase never ended](http://9gag.com/gag/aQEAzv7)<!-- MEMES:END -->
+ - 🚖 [Her phase never ended](http://9gag.com/gag/aQEAzv7)
+ - 🚯 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)
+ - 🚯 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)<!-- MEMES:END -->
 
 --- 
 
