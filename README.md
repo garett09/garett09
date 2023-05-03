@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
- - 🚯 [True](http://9gag.com/gag/ay2W62W)
- - 🚯 [Not even tiny ripples..](http://9gag.com/gag/aL1GenM)<!-- MEMES:END -->
+ - 🚖 [AI is taking over](http://9gag.com/gag/a7qVe0A)
+ - 🚯 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)
+ - 🚯 [Her phase never ended](http://9gag.com/gag/aQEAzv7)<!-- MEMES:END -->
 
 --- 
 
