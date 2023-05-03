@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Her phase never ended](http://9gag.com/gag/aQEAzv7)
- - 🚯 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)
- - 🚯 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)<!-- MEMES:END -->
+ - 🚖 [Taliban Bans women from the restaurant.](http://9gag.com/gag/az2GdVb)
+ - 🚯 [Whatever this is on the buffet.](http://9gag.com/gag/aBdP6Kz)
+ - 🚯 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
 
 --- 
 
