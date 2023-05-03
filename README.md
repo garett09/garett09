@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Schmigadoon season 2’s many musical theater references missed one crucial thing](https://www.polygon.com/23708158/schmigadoon-season-2-references-opinion-musicals)
- - [Grindstone is out on Xbox Series X|S: Top Five Survival Tips for Stonegrinders](https://news.xbox.com/en-us/2023/05/03/grindstone-top-five-survival-tips-for-stonegrinders/)
- - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
+ - [Fans Are Embracing Cal’s Mullet In Star Wars Jedi: Survivor](https://kotaku.com/star-wars-jedi-survivor-cal-mullet-cameron-monaghan-1850400641)
+ - [Xbox App April 2023 Update](https://news.xbox.com/en-us/2023/05/03/xbox-app-april-2023-update/)
+ - [Honey, Call of Duty shrunk Kevin Durant? Or else he’s got a hell of a hitbox](https://www.polygon.com/call-of-duty/23710046/call-of-duty-kevin-durant-mw2-skin-release-date-season-3-reloaded)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
