@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You don’t need a password any longer to sign in to your Google account](https://www.theverge.com/2023/5/3/23709318/google-accounts-passkey-support-password-2fa-fido-security-phishing)
- - [Microsoft Chief Economist Michael Schwarz says AI will be used by &quot;bad actors&quot;, such as spammers, to cause &quot;real damage&quot; and &quot;clearly&quot; must be regulated &lpar;Bryce Baschuk/Bloomberg&rpar;](http://www.techmeme.com/230503/p9#a230503p9)
- - [Meta Moves to Counter New Malware and Repeat Account Takeovers](https://www.wired.com/story/meta-attacker-tactics-business-tool/)<!-- TECH:END -->
+ - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
+ - [Sources: TSMC is in talks to spend between &amp;euro;7B and &amp;euro;10B to build a chip plant in Saxony, Germany, working with NXP, Bosch, Infineon, and the German government &lpar;Bloomberg&rpar;](http://www.techmeme.com/230503/p12#a230503p12)
+ - [AMD makes Ryzen 7840U official, claims it can beat Apple M2](https://www.theverge.com/2023/5/3/23709251/amd-ryzen-7040-u-apple-m2-intel-laptop-cpu-apu)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
