@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Unity is slashing ~600 jobs, or ~8% of staff, its largest round of cuts in the past year, after laying off 500+ workers in January and last June &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/230503/p3#a230503p3)
- - [Chinese VCs Lived the Silicon Valley High Life. Now the Party’s Over](https://www.wired.com/story/chinese-venture-capital-silicon-valley-party-over/)
- - [Your Pixel phone could soon protect your hearing with this new feature](https://www.androidauthority.com/pixel-phone-loud-sound-alert-3319785/)<!-- TECH:END -->
+ - [Cocinaré Krush Portable Ice Cream Maker Review: Too Frustrating and Expensive](https://www.wired.com/review/cocinare-krush-portable-ice-cream-maker/)
+ - [Poll: Are you more excited for the Z Flip 5 or Razr 40 Ultra?](https://www.androidauthority.com/galaxy-z-flip-5-razr-40-ultra-poll-3319796/)
+ - [Balaji Srinivasan &quot;settles&quot; his $1M bet from mid-March, predicting one BTC would be worth $1M+ within 90 days, ahead of time, by giving $500K to three entities &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/230503/p4#a230503p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
