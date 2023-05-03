@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)
- - 🚯 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
- - 🚯 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)<!-- MEMES:END -->
+ - 🚖 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
+ - 🚯 [Run](http://9gag.com/gag/amAmMgd)
+ - 🚯 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)<!-- MEMES:END -->
 
 --- 
 
