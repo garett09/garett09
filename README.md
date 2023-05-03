@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
- - 🚯 [Too much freedom](http://9gag.com/gag/a3ZyAo1)
+ - 🚯 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
  - 🚯 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)<!-- MEMES:END -->
 
 --- 
