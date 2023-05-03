@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taliban Bans women from the restaurant.](http://9gag.com/gag/az2GdVb)
- - 🚯 [Whatever this is on the buffet.](http://9gag.com/gag/aBdP6Kz)
- - 🚯 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
+ - 🚖 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
+ - 🚯 [Too much freedom](http://9gag.com/gag/a3ZyAo1)
+ - 🚯 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)<!-- MEMES:END -->
 
 --- 
 
