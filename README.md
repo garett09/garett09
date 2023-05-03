@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta security analysts warn of malicious ChatGPT imposters](https://www.theverge.com/2023/5/3/23709591/meta-chatgpt-malware-business-account-hacking)
- - [Former OpenSea product manager Nathaniel Chastain is convicted of insider trading, making $50K+ after buying and selling NFTs he featured on OpenSea&#39;s homepage &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/230503/p28#a230503p28)
- - [Discord is growing up, so everyone needs to pick a new username](https://www.theverge.com/2023/5/3/23710259/discord-new-username-discriminators-number-tag)<!-- TECH:END -->
+ - [Meta Wants You to Be on the Lookout for Malware Posing as AI Chatbots     - CNET](https://www.cnet.com/tech/services-and-software/meta-wants-you-to-be-on-the-lookout-for-malware-posing-as-ai-chatbots/#ftag=CAD590a51e)
+ - [The Best Horror Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-hbo-max-may-2023/#ftag=CAD590a51e)
+ - [With iPhone divorce in full swing, Qualcomm bets future on other product segments](https://appleinsider.com/articles/23/05/03/with-iphone-divorce-in-full-swing-qualcomm-bets-future-on-other-product-segments?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
