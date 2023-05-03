@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb announces Airbnb Rooms, a new category for individual rooms, and 50+ features and upgrades to improve price transparency, checkout procedures, and more &lpar;Diana Li/Bloomberg&rpar;](http://www.techmeme.com/230503/p26#a230503p26)
- - [The best magnetic chargers for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Mozilla acquires NYC-based Fakespot, which helps users identify fake or unreliable reviews, and plans to introduce Fakespot functionality to Firefox over time &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230503/p25#a230503p25)<!-- TECH:END -->
+ - [Meta security analysts warn of malicious ChatGPT imposters](https://www.theverge.com/2023/5/3/23709591/meta-chatgpt-malware-business-account-hacking)
+ - [Former OpenSea product manager Nathaniel Chastain is convicted of insider trading, making $50K+ after buying and selling NFTs he featured on OpenSea&#39;s homepage &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/230503/p28#a230503p28)
+ - [Discord is growing up, so everyone needs to pick a new username](https://www.theverge.com/2023/5/3/23710259/discord-new-username-discriminators-number-tag)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
