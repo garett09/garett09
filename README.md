@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blanka’s Street Fighter 6 Intro Is Extra AF](https://kotaku.com/street-fighter-6-blanka-intro-entrance-flip-cartwheel-1850401308)
- - [Nvidia is best known for building GPUs but says it actually spends &#39;80% of our time on the software&#39;](https://www.pcgamer.com/nvidia-is-best-known-for-building-gpus-but-says-it-actually-spends-80-of-our-time-on-the-software)
- - [PSA: The trailer for Dune: Part Two looks dope, whatever the rest of the PC Gamer team think](https://www.pcgamer.com/psa-the-trailer-for-dune-part-two-looks-dope-whatever-the-rest-of-the-pc-gamer-team-think)<!-- GAME:END -->
+ - [Discord is about to make you pick a new, unique username](https://www.polygon.com/23710244/discord-new-unique-username-announcement-display-names)
+ - [Activision will let you pay to make your Call of Duty guns sound like 2009](https://www.pcgamer.com/activision-will-let-you-pay-to-make-your-call-of-duty-guns-sound-like-2009)
+ - [Life Is Strange ‘Missing’ Poster Seems Awfully Close To Real Murder Victim’s](https://kotaku.com/life-is-strange-rachel-missing-posters-sunday-blombergh-1850401594)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
