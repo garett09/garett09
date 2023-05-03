@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Geoffrey Hinton should have spoken up years ago when others like Timnit Gebru were criticizing Google over LLMs; hopefully Hinton spurs others to speak up now &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230503/p7#a230503p7)
- - [Slack CEO Lidiane Jones Wants You to Stop Slacking So Much](https://www.wired.com/story/have-a-nice-future-podcast-4/)
- - [The Modern World Is Aging Your Brain](https://www.wired.com/story/aging-brain-volume/)<!-- TECH:END -->
+ - [You don’t need a password any longer to sign in to your Google account](https://www.theverge.com/2023/5/3/23709318/google-accounts-passkey-support-password-2fa-fido-security-phishing)
+ - [Microsoft Chief Economist Michael Schwarz says AI will be used by &quot;bad actors&quot;, such as spammers, to cause &quot;real damage&quot; and &quot;clearly&quot; must be regulated &lpar;Bryce Baschuk/Bloomberg&rpar;](http://www.techmeme.com/230503/p9#a230503p9)
+ - [Meta Moves to Counter New Malware and Repeat Account Takeovers](https://www.wired.com/story/meta-attacker-tactics-business-tool/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
