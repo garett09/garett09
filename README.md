@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True](http://9gag.com/gag/ay2W62W)
- - 🚯 [Not even tiny ripples..](http://9gag.com/gag/aL1GenM)
+ - 🚖 [Goodbye](http://9gag.com/gag/aGEM8YG)
+ - 🚯 [Too much freedom](http://9gag.com/gag/a3ZyAo1)
  - 🚯 [Her phase never ended](http://9gag.com/gag/aQEAzv7)<!-- MEMES:END -->
 
 --- 
