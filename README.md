@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Trails &amp; Tales: The Sound of Cherry Groves](https://news.xbox.com/en-us/2023/05/03/minecraft-trails-tales-composer/)
- - [What to watch and remember before Guardians of the Galaxy 3](https://www.polygon.com/23706962/movies-to-watch-before-guardians-of-the-galaxy-3-story-recap)
- - [ChatGPT&#39;s Italy ban reversed after privacy concerns addressed, banned at Samsung due to privacy concerns](https://www.pcgamer.com/chatgpts-italy-ban-reversed-after-privacy-concerns-addressed-banned-at-samsung-due-to-privacy-concerns)<!-- GAME:END -->
+ - [Schmigadoon season 2’s many musical theater references missed one crucial thing](https://www.polygon.com/23708158/schmigadoon-season-2-references-opinion-musicals)
+ - [Grindstone is out on Xbox Series X|S: Top Five Survival Tips for Stonegrinders](https://news.xbox.com/en-us/2023/05/03/grindstone-top-five-survival-tips-for-stonegrinders/)
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
