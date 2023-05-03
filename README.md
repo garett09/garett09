@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What Happens When You Pour Salt Water In To These Sand Holes!](http://9gag.com/gag/aNwV9yK)
- - 🚯 [Goodbye](http://9gag.com/gag/aGEM8YG)
- - 🚯 [Too much freedom](http://9gag.com/gag/a3ZyAo1)<!-- MEMES:END -->
+ - 🚖 [Eggsplosion](http://9gag.com/gag/a046nAv)
+ - 🚯 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
+ - 🚯 [Goodbye](http://9gag.com/gag/aGEM8YG)<!-- MEMES:END -->
 
 --- 
 
