@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
- - 🚯 [Whatever this is on the buffet.](http://9gag.com/gag/aBdP6Kz)
- - 🚯 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)<!-- MEMES:END -->
+ - 🚖 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)
+ - 🚯 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)
+ - 🚯 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)<!-- MEMES:END -->
 
 --- 
 
