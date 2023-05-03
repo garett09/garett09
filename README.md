@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford will stick with CarPlay as GM exits for Google tech](https://appleinsider.com/articles/23/05/03/ford-will-stick-with-carplay-as-gm-exits-for-google-tech?utm_medium=rss)
- - [5 Best Air Purifier Deals: For Big and Small Spaces](https://www.wired.com/story/air-purifier-deals-may-3-2023/)
- - [The best Chromebook for 2023](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
+ - [Airbnb announces Airbnb Rooms, a new category for individual rooms, and 50+ features and upgrades to improve price transparency, checkout procedures, and more &lpar;Diana Li/Bloomberg&rpar;](http://www.techmeme.com/230503/p26#a230503p26)
+ - [The best magnetic chargers for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [Mozilla acquires NYC-based Fakespot, which helps users identify fake or unreliable reviews, and plans to introduce Fakespot functionality to Firefox over time &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230503/p25#a230503p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
