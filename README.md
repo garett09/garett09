@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
- - 🚯 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)
- - 🚯 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)<!-- MEMES:END -->
+ - 🚖 [That Info isn&#39;t useful](http://9gag.com/gag/az2G5PK)
+ - 🚯 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
+ - 🚯 [Ferguso](http://9gag.com/gag/a8qD7Z6)<!-- MEMES:END -->
 
 --- 
 
