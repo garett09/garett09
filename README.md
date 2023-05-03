@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans Are Embracing Cal’s Mullet In Star Wars Jedi: Survivor](https://kotaku.com/star-wars-jedi-survivor-cal-mullet-cameron-monaghan-1850400641)
- - [Xbox App April 2023 Update](https://news.xbox.com/en-us/2023/05/03/xbox-app-april-2023-update/)
- - [Honey, Call of Duty shrunk Kevin Durant? Or else he’s got a hell of a hitbox](https://www.polygon.com/call-of-duty/23710046/call-of-duty-kevin-durant-mw2-skin-release-date-season-3-reloaded)<!-- GAME:END -->
+ - [Runescape Bet Results In Redditor Pouring Hot Coffee On His Butthole](https://kotaku.com/old-school-runescape-mmo-reddit-hot-coffee-butt-hole-1850400850)
+ - [People Are Grinding Netflix Shows To Prevent Them From Getting Canceled](https://kotaku.com/netflix-shadow-and-bone-canceled-season-3-fandom-binge-1850400917)
+ - [Sweet Tooth is coming back to Netflix for a third and final season](https://www.polygon.com/23709511/sweet-tooth-season-3-news-release-date-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
