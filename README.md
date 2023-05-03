@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [AI is taking over](http://9gag.com/gag/a7qVe0A)
+ - 🚖 [That Info isn&#39;t useful](http://9gag.com/gag/az2G5PK)
  - 🚯 [What a nice gentleman with a big heart](http://9gag.com/gag/a8qDAW3)
- - 🚯 [Her phase never ended](http://9gag.com/gag/aQEAzv7)<!-- MEMES:END -->
+ - 🚯 [Bed bugs inside a chair reacting to human body heat](http://9gag.com/gag/aeQV4nq)<!-- MEMES:END -->
 
 --- 
 
