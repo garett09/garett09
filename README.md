@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dune 2 trailer is full Timothée Chalamet, sandworms, Zendaya, and desert power](https://www.polygon.com/23708558/dune-2-trailer-cast-release-date-austin-butler)
- - [Microsoft promises &#39;tons of gameplay&#39; in June 11 Starfield deep-dive](https://www.pcgamer.com/microsoft-promises-tons-of-gameplay-in-june-11-starfield-deep-dive)
- - [After Us hands-on details—A free-flowing, tear-jerking platformer](https://blog.playstation.com/2023/05/03/after-us-hands-on-details-a-free-flowing-tear-jerking-platformer/)<!-- GAME:END -->
+ - [Minecraft Trails &amp; Tales: The Sound of Cherry Groves](https://news.xbox.com/en-us/2023/05/03/minecraft-trails-tales-composer/)
+ - [What to watch and remember before Guardians of the Galaxy 3](https://www.polygon.com/23706962/movies-to-watch-before-guardians-of-the-galaxy-3-story-recap)
+ - [ChatGPT&#39;s Italy ban reversed after privacy concerns addressed, banned at Samsung due to privacy concerns](https://www.pcgamer.com/chatgpts-italy-ban-reversed-after-privacy-concerns-addressed-banned-at-samsung-due-to-privacy-concerns)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
