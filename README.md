@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail adds blue checkmarks for brands, indicating verified senders that adopted Google&#39;s Brand Indicators for Message Identification standard &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230503/p23#a230503p23)
- - [TikTok announces Pulse Premiere, which lets select publishers such as Cond&amp;eacute; Nast, BuzzFeed, and NBC sell ads alongside their posts and keep 50% of the revenue &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/230503/p22#a230503p22)
- - [The FTC proposes barring Meta from monetizing kids&#39; data, accusing the company of violating a 2020 order with its privacy program and COPPA with Messenger Kids &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230503/p21#a230503p21)<!-- TECH:END -->
+ - [Ford will stick with CarPlay as GM exits for Google tech](https://appleinsider.com/articles/23/05/03/ford-will-stick-with-carplay-as-gm-exits-for-google-tech?utm_medium=rss)
+ - [5 Best Air Purifier Deals: For Big and Small Spaces](https://www.wired.com/story/air-purifier-deals-may-3-2023/)
+ - [The best Chromebook for 2023](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
