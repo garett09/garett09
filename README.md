@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More reasons to love Brendan](http://9gag.com/gag/aEqoV2p)
- - 🚯 [Maybe they had their first date at KFC.](http://9gag.com/gag/a9q860D)
- - 🚯 [Well.. it&#39;s not lying](http://9gag.com/gag/aBdPVQ1)<!-- MEMES:END -->
+ - 🚖 [This dude!](http://9gag.com/gag/a8qD0pZ)
+ - 🚯 [Speak now or forever hold your peace!](http://9gag.com/gag/anzvzMV)
+ - 🚯 [AI is taking over](http://9gag.com/gag/a7qVe0A)<!-- MEMES:END -->
 
 --- 
 
