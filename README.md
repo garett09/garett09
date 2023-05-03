@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $450 on Apple&#39;s upgraded M1 MacBook Air with an 8-core GPU, 16GB memory, 1TB SSD](https://appleinsider.com/articles/23/05/03/save-450-on-apples-upgraded-m1-macbook-air-with-an-8-core-gpu-16gb-memory-1tb-ssd?utm_medium=rss)
- - [Andreessen Horowitz saw the future — but did the future leave it behind?](https://www.theverge.com/23697708/andreessen-horowitz-a16z-investing-tech)
- - [TikTok opens up its revamped Creativity Program creator fund to all US-based creators with over 10K followers and over 100K views in the past 30 days &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230503/p16#a230503p16)<!-- TECH:END -->
+ - [Dune: Part Two’s first trailer is a tense sandworm ride](https://www.theverge.com/23698109/dune-part-2-trailer-sandworm-ride)
+ - [Jack Dorsey has posted 59 times per day on average on Nostr since January 2023, often talking about crypto and open source while criticizing Elon Musk &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/230503/p19#a230503p19)
+ - [10 Best Xbox Game Pass Games &lpar;May 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
