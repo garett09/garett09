@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp’s latest feature additions include better polls and picture caption forwarding](https://www.theverge.com/2023/5/4/23711182/whatsapp-single-vote-polls-picture-caption-forwarding-documents)
- - [The CJEU clarifies GDPR compensation and data access rights, including saying that there is no threshold of harm to confer a right to compensation &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230504/p18#a230504p18)
- - [These ChatGPT Rivals Are Designed to Play With Your Emotions](https://www.wired.com/story/fast-forward-chatgpt-rivals-emotions/)<!-- TECH:END -->
+ - [The 27 Best Family Board Games &lpar;2023&rpar;: Cascadia, Labyrinth, and More](https://www.wired.com/gallery/best-family-board-games/)
+ - [OnePlus might launch its first foldable in a dangerous month](https://www.androidauthority.com/oneplus-foldable-launch-2-3320486/)
+ - [There’s a new Zephyrus G14 in town, with Mini LED and Zen 4](https://www.theverge.com/2023/5/4/23710268/asus-rog-zephyrus-g14-gaming-laptop-release)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
