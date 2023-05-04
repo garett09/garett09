@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids need to appreciate themselves. Stop Grooming!](http://9gag.com/gag/ago8Kog)
- - 🚯 [I sense .. a disturbance](http://9gag.com/gag/amAmpb2)
- - 🚯 [Love Death + Robots](http://9gag.com/gag/aEqoX3G)<!-- MEMES:END -->
+ - 🚖 [Baby it&#39;s cold outside](http://9gag.com/gag/a3Zyyp1)
+ - 🚯 [That\u2019s why he\u2019s so good. He cares about the characters he\u2019s playing](http://9gag.com/gag/ap9PbY9)
+ - 🚯 [Kids need to appreciate themselves. Stop Grooming!](http://9gag.com/gag/ago8Kog)<!-- MEMES:END -->
 
 --- 
 
