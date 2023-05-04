@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
- - 🚯 [Run](http://9gag.com/gag/amAmMgd)
- - 🚯 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)<!-- MEMES:END -->
+ - 🚖 [Well whats this?..](http://9gag.com/gag/aL1GGL5)
+ - 🚯 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
+ - 🚯 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
 
 --- 
 
