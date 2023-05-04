@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Xbox chief thinks losing the Xbox One generation was ‘the worst generation to lose’](https://www.theverge.com/2023/5/4/23711047/microsoft-xbox-phil-spencer-xbox-one-generation-redfall-launch)
- - [Peloton would like to remind everyone it’s more than a bike company](https://www.theverge.com/2023/5/4/23710900/peloton-q3-2023-earnings-rebrand-fitness-barry-mccarthy)
- - [The best new streaming shows this week on Netflix, Disney Plus, Apple, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)<!-- TECH:END -->
+ - [WhatsApp’s latest feature additions include better polls and picture caption forwarding](https://www.theverge.com/2023/5/4/23711182/whatsapp-single-vote-polls-picture-caption-forwarding-documents)
+ - [The CJEU clarifies GDPR compensation and data access rights, including saying that there is no threshold of harm to confer a right to compensation &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230504/p18#a230504p18)
+ - [These ChatGPT Rivals Are Designed to Play With Your Emotions](https://www.wired.com/story/fast-forward-chatgpt-rivals-emotions/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
