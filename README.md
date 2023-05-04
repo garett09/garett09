@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bravo](http://9gag.com/gag/aBdP4yN)
- - 🚯 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)
- - 🚯 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)<!-- MEMES:END -->
+ - 🚖 [Made me chuckle hard.](http://9gag.com/gag/aPg81Lq)
+ - 🚯 [Can relate?](http://9gag.com/gag/aBdP4qN)
+ - 🚯 [Kids need to appreciate themselves. Stop Grooming!](http://9gag.com/gag/ago8Kog)<!-- MEMES:END -->
 
 --- 
 
