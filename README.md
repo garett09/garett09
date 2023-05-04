@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA launches a &quot;fact-finding&quot; review of the AI market, including LLMs, to assess opportunities, guardrails, and principles to protect competition &lpar;Financial Times&rpar;](http://www.techmeme.com/230504/p5#a230504p5)
- - [Coinbase will stop issuing loans in the US via its Borrow program from May 10 due to low demand; source: the move had nothing to do with Coinbase&#39;s SEC troubles &lpar;CoinDesk&rpar;](http://www.techmeme.com/230504/p4#a230504p4)
- - [Microsoft Opens Up Bing AI Chat Preview to All, Adds Support for Third-Party Services     - CNET](https://www.cnet.com/tech/computing/microsoft-opens-up-bing-ai-chat-preview-to-all-adds-support-for-third-party-services/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Joe Biden Wants Hackers’ Help to Keep AI Chatbots In Check](https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/)
+ - [White House rolls out plan to promote ethical AI](https://www.theverge.com/2023/5/4/23710533/google-microsoft-openai-white-house-ethical-ai-artificial-intelligence)
+ - [Microsoft opens its Bing chatbot to all, removing the waitlist, and announces new features, including image and video results, chat history, and plug-in support &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230504/p6#a230504p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
