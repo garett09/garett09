@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best gaming headsets in 2023](https://www.pcgamer.com/best-gaming-headset)
- - [Today&#39;s Wordle hint and answer #684: Thursday, May 4](https://www.pcgamer.com/wordle-today-hint-answer-684-may-4)
- - [Rainbow Six Kickstarter Asks For More Money From People Who Already Backed](https://kotaku.com/rainbow-six-kickstarter-asks-for-more-money-from-people-1850402347)<!-- GAME:END -->
+ - [Disney Villainous adds Boba Fett in a new stand-alone expansion game](https://www.polygon.com/tabletop-games/23710188/disney-villainous-adds-boba-fett-star-wars-scum-and-villainy-release-date-price)
+ - [Queen Charlotte: A Bridgerton Story is actually the best Bridgerton](https://www.polygon.com/23709730/queen-charlotte-bridgerton-review)
+ - [Best gaming monitors in 2023](https://www.pcgamer.com/best-gaming-monitor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
