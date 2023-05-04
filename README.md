@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Guy](http://9gag.com/gag/abvW26r)
- - 🚯 [Sad but true WoW](http://9gag.com/gag/az2GRBq)
- - 🚯 [A wild red fox regularly visits a woman&#39;s apartment for food and affection. Here, the fox allows the woman to give scritches](http://9gag.com/gag/aKEWe5Q)<!-- MEMES:END -->
+ - 🚖 [If you add this code to any Excel file, it will delete itself on the date that you specify. In case you&#39;re planning on leaving a job you hate. Like I am.](http://9gag.com/gag/aoK4xxA)
+ - 🚯 [Run](http://9gag.com/gag/amAmMgd)
+ - 🚯 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)<!-- MEMES:END -->
 
 --- 
 
