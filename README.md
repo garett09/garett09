@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Whole New Way to Play in Kao The Kangaroo – Bend the Roo’les](https://news.xbox.com/en-us/2023/05/04/kao-the-kangaroo-bending-the-rooles/)
- - [As Hunt: Showdown players catch &#39;granny fever,&#39; I&#39;m wondering if we need more elderly characters in FPSes](https://www.pcgamer.com/as-hunt-showdown-players-catch-granny-fever-im-wondering-if-we-need-more-elderly-characters-in-fpses)
- - [There might be more Star Wars games in development than you realize](https://www.pcgamer.com/upcoming-star-wars-games)<!-- GAME:END -->
+ - [The Destiny 2 Season Pass Price Is Going Up](https://kotaku.com/destiny-2-lightfall-witch-queen-season-pass-price-deep-1850405781)
+ - [Everything We’re Learning About Zelda: Tears Of The Kingdom From The Leaks](https://kotaku.com/zelda-tears-of-the-kingdom-leak-dungeons-companions-1850395668)
+ - [Star Wars Jedi: Survivor includes a $10 credit at Amazon and Target](https://www.polygon.com/deals/2023/5/1/23707145/star-wars-jedi-survivor-amazon-discount-deal-10-off)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
