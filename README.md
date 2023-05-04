@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
- - 🚯 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)
- - 🚯 [Run](http://9gag.com/gag/amAmMgd)<!-- MEMES:END -->
+ - 🚖 [Legend has it that, they are still looking](http://9gag.com/gag/aNwV4y4)
+ - 🚯 [Run](http://9gag.com/gag/amAmMgd)
+ - 🚯 [The thicc and the trained](http://9gag.com/gag/a4o52O6)<!-- MEMES:END -->
 
 --- 
 
