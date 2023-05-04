@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unfortunately, he refuses to admit that he can no longer drive a car.](http://9gag.com/gag/a0461pL)
- - 🚯 [Oi mate!](http://9gag.com/gag/aNwVRYA)
- - 🚯 [This dude!](http://9gag.com/gag/a8qD0pZ)<!-- MEMES:END -->
+ - 🚖 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)
+ - 🚯 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)
+ - 🚯 [Goodbye](http://9gag.com/gag/aGEM8YG)<!-- MEMES:END -->
 
 --- 
 
