@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Arcade launches 20 new games, including a new TMNT roguelike](https://www.theverge.com/2023/5/4/23710913/apple-arcade-new-games-tmnt)
- - [17 Best Camera Bags, Straps, Inserts, and Backpacks &lpar;2022&rpar;](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
- - [Rise of the Beasts might have found a way to fix the Transformers movies’ human problem](https://www.theverge.com/23706459/transformers-rise-of-the-beasts-exosuit-trailer)<!-- TECH:END -->
+ - [Microsoft’s Xbox chief thinks losing the Xbox One generation was ‘the worst generation to lose’](https://www.theverge.com/2023/5/4/23711047/microsoft-xbox-phil-spencer-xbox-one-generation-redfall-launch)
+ - [Peloton would like to remind everyone it’s more than a bike company](https://www.theverge.com/2023/5/4/23710900/peloton-q3-2023-earnings-rebrand-fitness-barry-mccarthy)
+ - [The best new streaming shows this week on Netflix, Disney Plus, Apple, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
