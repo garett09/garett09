@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Dragon Age Writer Says BioWare Eventually ‘Resented’ Writers](https://kotaku.com/dragon-age-bioware-writer-s-strike-wga-1850404460)
- - [There are more magnificent, messy murders to solve in the DLC for last year&#39;s most devious detective game](https://www.pcgamer.com/there-are-more-magnificent-messy-murders-to-solve-in-the-dlc-for-last-years-most-devious-detective-game)
- - [Star Wars: Visions season 2, broken down by Stars, Wars, and Visions](https://www.polygon.com/star-wars/23707998/star-wars-visions-season-2-review)<!-- GAME:END -->
+ - [This Wacky Magical Girl Anime Is Studio Trigger-Coded To Perfection](https://kotaku.com/kotatsu-anime-corner-crunchyroll-magical-destroyers-1850401445)
+ - [11 Escape Room Tips &lpar;For When You Absolutely Must Find The Damn Exit&rpar;](https://kotaku.com/escape-room-game-tips-puzzles-how-to-beat-locks-codes-1850402720)
+ - [Legendary Horror Manga Creator Is A Little Worried About AI Artwork](https://kotaku.com/junji-ito-ai-art-hideo-kojima-magic-gathering-uzumaki-1850404505)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
