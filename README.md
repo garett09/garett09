@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Motorola Edge 40 brings premium extras at a cheaper price](https://www.androidauthority.com/motorola-edge-40-3320286/)
- - [The New Star Wars Movies Will Change Everything](https://www.wired.com/story/the-future-of-star-wars/)
- - [The Physics of Mandalorian Jetpacks &lpar;Hint: They Aren’t Jetpacks&rpar;](https://www.wired.com/story/star-wars-day-mandalorian-jetpacks/)<!-- TECH:END -->
+ - [13 Best Festival Accessories and Gear &lpar;2023&rpar;: Fanny Packs, Inflatable Couches, and More](https://www.wired.com/gallery/best-festival-accessories-and-gear/)
+ - [Bluesky Scratches That Twitter Itch](https://www.wired.com/story/gadget-lab-podcast-596/)
+ - [A New Cloned Horse Offers Hope for Endangered Species](https://www.wired.com/story/cloning-endangered-species-przewalskis-horse/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
