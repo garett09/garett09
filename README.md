@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unionized Apple Store seeks pay raises, customer tips](https://appleinsider.com/articles/23/05/03/unionized-apple-store-seeks-pay-raises-customer-tips?utm_medium=rss)
- - [Hollywood&#39;s writers on strike have two worries on AI: they don&#39;t want their work used as training data and don&#39;t want to fix AI-generated &quot;sloppy first drafts&quot; &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230503/p29#a230503p29)
- - [Meta Wants You to Be on the Lookout for Malware Posing as AI Chatbots     - CNET](https://www.cnet.com/tech/services-and-software/meta-wants-you-to-be-on-the-lookout-for-malware-posing-as-ai-chatbots/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Record price drop the Pixel 7 Pro, and more great Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
+ - [FTC&#39;s Lina Khan calls for regulating AI, saying the tech could fuel market dominance and collusion by large firms, increase fraud and discrimination, and more &lpar;Lina M. Khan/New York Times&rpar;](http://www.techmeme.com/230503/p30#a230503p30)
+ - [Best Portable Air Conditioner Deals: Prices Start at $21     - CNET](https://www.cnet.com/deals/best-portable-air-conditioner-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
