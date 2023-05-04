@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Festival Accessories and Gear &lpar;2023&rpar;: Fanny Packs, Inflatable Couches, and More](https://www.wired.com/gallery/best-festival-accessories-and-gear/)
- - [Bluesky Scratches That Twitter Itch](https://www.wired.com/story/gadget-lab-podcast-596/)
- - [A New Cloned Horse Offers Hope for Endangered Species](https://www.wired.com/story/cloning-endangered-species-przewalskis-horse/)<!-- TECH:END -->
+ - [FTC wants Facebook to stop rolling out new services until it can guarantee user privacy](https://appleinsider.com/articles/23/05/04/ftc-wants-facebook-to-stop-rolling-out-new-services-until-it-can-guarantee-user-privacy?utm_medium=rss)
+ - [Samsung chases Fitbit with new sleep tracking features in One UI 5 Watch](https://www.androidauthority.com/galaxy-watch-sleep-tracking-updates-3320060/)
+ - [The best new streaming movies this week on Paramount, HBO Max, Mubi and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
