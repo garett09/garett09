@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Legend has it that, they are still looking](http://9gag.com/gag/aNwV4y4)
- - 🚯 [The thicc and the trained](http://9gag.com/gag/a4o52O6)
- - 🚯 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
+ - 🚖 [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)
+ - 🚯 [This dude!!](http://9gag.com/gag/awZL1O4)
+ - 🚯 [The thicc and the trained](http://9gag.com/gag/a4o52O6)<!-- MEMES:END -->
 
 --- 
 
