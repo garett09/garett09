@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Made me chuckle hard.](http://9gag.com/gag/aPg81Lq)
- - 🚯 [Can relate?](http://9gag.com/gag/aBdP4qN)
- - 🚯 [Kids need to appreciate themselves. Stop Grooming!](http://9gag.com/gag/ago8Kog)<!-- MEMES:END -->
+ - 🚖 [If you add this code to any Excel file, it will delete itself on the date that you specify. In case you&#39;re planning on leaving a job you hate. Like I am.](http://9gag.com/gag/aoK4xxA)
+ - 🚯 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)
+ - 🚯 [Bravo](http://9gag.com/gag/aBdP4yN)<!-- MEMES:END -->
 
 --- 
 
