@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joe Biden Wants Hackers’ Help to Keep AI Chatbots In Check](https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/)
- - [White House rolls out plan to promote ethical AI](https://www.theverge.com/2023/5/4/23710533/google-microsoft-openai-white-house-ethical-ai-artificial-intelligence)
- - [Microsoft opens its Bing chatbot to all, removing the waitlist, and announces new features, including image and video results, chat history, and plug-in support &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230504/p6#a230504p6)<!-- TECH:END -->
+ - [Khan Academy pilots Khanmigo, a GPT-based chatbot to help students with math problems, debugging code, debating, and other topics without enabling cheating &lpar;Steven Melendez/Fast Company&rpar;](http://www.techmeme.com/230504/p9#a230504p9)
+ - [Geothermal Everywhere: Finding the Energy to Save the World](https://www.wired.com/story/where-to-find-the-energy-to-save-the-world-geothermal-texas/)
+ - [Windows 11’s photos app is getting slideshows and a blemish removal tool](https://www.theverge.com/2023/5/4/23710807/microsoft-windows-11-photos-app-slideshow-spot-fix-tool)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
