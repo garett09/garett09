@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Baby it&#39;s cold outside](http://9gag.com/gag/a3Zyyp1)
- - 🚯 [That\u2019s why he\u2019s so good. He cares about the characters he\u2019s playing](http://9gag.com/gag/ap9PbY9)
- - 🚯 [Kids need to appreciate themselves. Stop Grooming!](http://9gag.com/gag/ago8Kog)<!-- MEMES:END -->
+ - 🚖 [Bravo](http://9gag.com/gag/aBdP4yN)
+ - 🚯 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)
+ - 🚯 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)<!-- MEMES:END -->
 
 --- 
 
