@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Holy cow, they&#39;re making a new Shadowman game](https://www.pcgamer.com/holy-cow-theyre-making-a-new-shadowman-game)
- - [Xbox boss says Redfall ‘let a lot of people down,’ commits to fixing it](https://www.polygon.com/23710947/redfall-arkane-studios-xbox-phil-spencer)
- - [My Only Goal In Star Wars Jedi: Survivor Is To Serve Lewks](https://kotaku.com/star-wars-jedi-survivor-cal-customization-hermit-outfit-1850406023)<!-- GAME:END -->
+ - [Former SimCity developers launched a new city builder today—but sadly it&#39;s not on PC](https://www.pcgamer.com/former-simcity-developers-launched-a-new-city-builder-todaybut-sadly-its-not-on-pc)
+ - [Game engine maker Unity lays off 600 employees and plans to close half its offices worldwide](https://www.pcgamer.com/game-engine-maker-unity-lays-off-600-employees-and-plans-to-close-half-its-offices-worldwide)
+ - [Holy cow, they&#39;re making a new Shadowman game](https://www.pcgamer.com/holy-cow-theyre-making-a-new-shadowman-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
