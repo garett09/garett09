@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
- - [How Neverwinter Blazed a Trail for Console MMORPGs a Decade Ago](https://news.xbox.com/en-us/2023/05/04/how-neverwinter-blazed-a-trail-for-console-mmos/)
- - [Call Of Duty Adding Very Tall NBA Player Kevin Durant Is Hilarious](https://kotaku.com/call-of-duty-modern-warfare-2-warzone-kevin-durant-nba-1850404008)<!-- GAME:END -->
+ - [Former Dragon Age Writer Says BioWare Eventually ‘Resented’ Writers](https://kotaku.com/dragon-age-bioware-writer-s-strike-wga-1850404460)
+ - [There are more magnificent, messy murders to solve in the DLC for last year&#39;s most devious detective game](https://www.pcgamer.com/there-are-more-magnificent-messy-murders-to-solve-in-the-dlc-for-last-years-most-devious-detective-game)
+ - [Star Wars: Visions season 2, broken down by Stars, Wars, and Visions](https://www.polygon.com/star-wars/23707998/star-wars-visions-season-2-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
