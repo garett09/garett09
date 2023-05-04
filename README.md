@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you add this code to any Excel file, it will delete itself on the date that you specify. In case you&#39;re planning on leaving a job you hate. Like I am.](http://9gag.com/gag/aoK4xxA)
- - 🚯 [Run](http://9gag.com/gag/amAmMgd)
- - 🚯 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)<!-- MEMES:END -->
+ - 🚖 [Goodbye](http://9gag.com/gag/aGEM8YG)
+ - 🚯 [This Guy](http://9gag.com/gag/abvW26r)
+ - 🚯 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)<!-- MEMES:END -->
 
 --- 
 
