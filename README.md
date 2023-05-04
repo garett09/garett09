@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [AI is taking over](http://9gag.com/gag/a7qVe0A)
- - 🚯 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)
- - 🚯 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
+ - 🚖 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
+ - 🚯 [This Guy](http://9gag.com/gag/abvW26r)
+ - 🚯 [Run](http://9gag.com/gag/amAmMgd)<!-- MEMES:END -->
 
 --- 
 
