@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for April’s best new game](https://blog.playstation.com/2023/05/04/players-choice-vote-for-aprils-best-new-game-3/)
- - [Mrs. Davis’ holy love triangle opens up about romancing Jesus](https://www.polygon.com/23710306/mrs-davis-jesus-love-interview-betty-gilpin)
- - [Our Favorite Freaky Little Guys From Star Wars](https://kotaku.com/star-wars-creatures-turgle-babu-frik-glup-shitto-1850401401)<!-- GAME:END -->
+ - [One Piece creator Eiichiro Oda says Netflix show is a ‘last chance’ to bring his story to the world](https://www.polygon.com/23711069/one-piece-eiichiro-oda-netflix-release)
+ - [Free Play Days – Golf With Your Friends, Turbo Golf Racing, Naruto to Boruto: Shinobi Striker, and For the King](https://news.xbox.com/en-us/2023/05/04/free-play-days-golf-with-your-friends-turbo-golf-racing-naruto-to-boruto-shinobi-striker-and-for-the-king/)
+ - [Xbox Boss &#39;Upset With Myself&#39; Over Redfall&#39;s Terrible Launch](https://kotaku.com/xbox-boss-upset-with-myself-over-redfalls-terrible-laun-1850403674)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
