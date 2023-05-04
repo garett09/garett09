@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)
- - 🚯 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
- - 🚯 [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)<!-- MEMES:END -->
+ - 🚖 [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)
+ - 🚯 [Too much freedom](http://9gag.com/gag/a3ZyAo1)
+ - 🚯 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
 
 --- 
 
