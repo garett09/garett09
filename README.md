@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC wants Facebook to stop rolling out new services until it can guarantee user privacy](https://appleinsider.com/articles/23/05/04/ftc-wants-facebook-to-stop-rolling-out-new-services-until-it-can-guarantee-user-privacy?utm_medium=rss)
- - [Samsung chases Fitbit with new sleep tracking features in One UI 5 Watch](https://www.androidauthority.com/galaxy-watch-sleep-tracking-updates-3320060/)
- - [The best new streaming movies this week on Paramount, HBO Max, Mubi and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [Apple Arcade launches 20 new games, including a new TMNT roguelike](https://www.theverge.com/2023/5/4/23710913/apple-arcade-new-games-tmnt)
+ - [17 Best Camera Bags, Straps, Inserts, and Backpacks &lpar;2022&rpar;](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
+ - [Rise of the Beasts might have found a way to fix the Transformers movies’ human problem](https://www.theverge.com/23706459/transformers-rise-of-the-beasts-exosuit-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
