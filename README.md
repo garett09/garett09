@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)
- - 🚯 [This dude!!](http://9gag.com/gag/awZL1O4)
- - 🚯 [The thicc and the trained](http://9gag.com/gag/a4o52O6)<!-- MEMES:END -->
+ - 🚖 [Kids need to appreciate themselves. Stop Grooming!](http://9gag.com/gag/ago8Kog)
+ - 🚯 [I sense .. a disturbance](http://9gag.com/gag/amAmpb2)
+ - 🚯 [Love Death + Robots](http://9gag.com/gag/aEqoX3G)<!-- MEMES:END -->
 
 --- 
 
