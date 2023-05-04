@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple still didn&#39;t give specific financial guidance, but hinted at what to expect for Q3](https://appleinsider.com/articles/23/05/04/apple-still-didnt-give-specific-financial-guidance-but-hinted-at-what-to-expect-for-q3?utm_medium=rss)
- - [Apple inching closer to one billion paid subscriptions](https://appleinsider.com/articles/23/05/04/apple-inching-closer-to-one-billion-paid-subscriptions?utm_medium=rss)
- - [Meet the fossil fuel-funded startup trying to take CO2 out of the ocean](https://www.theverge.com/2023/5/4/23711098/ocean-carbon-removal-california-captura-climate-change)<!-- TECH:END -->
+ - [Apple&#39;s Q2 revenue rose 15.3% YoY in Asia-Pacific, business in India grew by &quot;very strong double digits&quot;, but sales fell 2.9% in Greater China and 7.1% in Japan &lpar;Yifan Yu/Nikkei Asia&rpar;](http://www.techmeme.com/230504/p32#a230504p32)
+ - [Tim Cook says Apple views AI as &quot;huge&quot; but there are &quot;a number of issues that need to be sorted&quot;, and doesn&#39;t expand on how it plans to use AI in its products &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230504/p31#a230504p31)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
