@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Villainous adds Boba Fett in a new stand-alone expansion game](https://www.polygon.com/tabletop-games/23710188/disney-villainous-adds-boba-fett-star-wars-scum-and-villainy-release-date-price)
- - [Queen Charlotte: A Bridgerton Story is actually the best Bridgerton](https://www.polygon.com/23709730/queen-charlotte-bridgerton-review)
- - [Best gaming monitors in 2023](https://www.pcgamer.com/best-gaming-monitor)<!-- GAME:END -->
+ - [How to Find the Gorge&#39;s Secret in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-find-the-gorges-secret-winding-ravine)
+ - [The latest PS5 bundle includes Final Fantasy 16, available for pre-order now](https://www.polygon.com/deals/23709464/ps5-bundle-final-fantasy-16-ffxvi-pre-order-buy)
+ - [How to unlock Holo Tactics and beat opponents in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-holo-tactics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
