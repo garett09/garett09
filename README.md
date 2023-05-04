@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)
- - 🚯 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)
- - 🚯 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)<!-- MEMES:END -->
+ - 🚖 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)
+ - 🚯 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
+ - 🚯 [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)<!-- MEMES:END -->
 
 --- 
 
