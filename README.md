@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Wacky Magical Girl Anime Is Studio Trigger-Coded To Perfection](https://kotaku.com/kotatsu-anime-corner-crunchyroll-magical-destroyers-1850401445)
- - [11 Escape Room Tips &lpar;For When You Absolutely Must Find The Damn Exit&rpar;](https://kotaku.com/escape-room-game-tips-puzzles-how-to-beat-locks-codes-1850402720)
- - [Legendary Horror Manga Creator Is A Little Worried About AI Artwork](https://kotaku.com/junji-ito-ai-art-hideo-kojima-magic-gathering-uzumaki-1850404505)<!-- GAME:END -->
+ - [A Whole New Way to Play in Kao The Kangaroo – Bend the Roo’les](https://news.xbox.com/en-us/2023/05/04/kao-the-kangaroo-bending-the-rooles/)
+ - [As Hunt: Showdown players catch &#39;granny fever,&#39; I&#39;m wondering if we need more elderly characters in FPSes](https://www.pcgamer.com/as-hunt-showdown-players-catch-granny-fever-im-wondering-if-we-need-more-elderly-characters-in-fpses)
+ - [There might be more Star Wars games in development than you realize](https://www.pcgamer.com/upcoming-star-wars-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
