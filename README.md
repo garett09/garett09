@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece creator Eiichiro Oda says Netflix show is a ‘last chance’ to bring his story to the world](https://www.polygon.com/23711069/one-piece-eiichiro-oda-netflix-release)
- - [Free Play Days – Golf With Your Friends, Turbo Golf Racing, Naruto to Boruto: Shinobi Striker, and For the King](https://news.xbox.com/en-us/2023/05/04/free-play-days-golf-with-your-friends-turbo-golf-racing-naruto-to-boruto-shinobi-striker-and-for-the-king/)
- - [Xbox Boss &#39;Upset With Myself&#39; Over Redfall&#39;s Terrible Launch](https://kotaku.com/xbox-boss-upset-with-myself-over-redfalls-terrible-laun-1850403674)<!-- GAME:END -->
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
+ - [How Neverwinter Blazed a Trail for Console MMORPGs a Decade Ago](https://news.xbox.com/en-us/2023/05/04/how-neverwinter-blazed-a-trail-for-console-mmos/)
+ - [Call Of Duty Adding Very Tall NBA Player Kevin Durant Is Hilarious](https://kotaku.com/call-of-duty-modern-warfare-2-warzone-kevin-durant-nba-1850404008)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
