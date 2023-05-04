@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is helping finance AMD&#39;s expansion into AI chips and working with the chipmaker on Athena, Microsoft&#39;s homegrown processor for AI workloads &lpar;Bloomberg&rpar;](http://www.techmeme.com/230504/p20#a230504p20)
- - [The Harmful Side Effect of Cleaning Up the Ocean](https://www.wired.com/story/ocean-cleanup-habitat-destruction/)
- - [Roborock S8 Pro Ultra review: The ultimate hands-free robot vacuum cleaner](https://www.androidauthority.com/roborock-s8-pro-ultra-review-3316433/)<!-- TECH:END -->
+ - [The 49 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
+ - [Here are the best noise-canceling headphone deals we could find](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-sennheiser-deal-sale)
+ - [Transform the look of your Android phone with a new launcher](https://www.theverge.com/23711100/android-launcher-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
