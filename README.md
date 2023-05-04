@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eggsplosion](http://9gag.com/gag/a046nAv)
- - 🚯 [Run](http://9gag.com/gag/amAmMgd)
- - 🚯 [Well whats this?..](http://9gag.com/gag/aL1GGL5)<!-- MEMES:END -->
+ - 🚖 [This Guy](http://9gag.com/gag/abvW26r)
+ - 🚯 [Sad but true WoW](http://9gag.com/gag/az2GRBq)
+ - 🚯 [A wild red fox regularly visits a woman&#39;s apartment for food and affection. Here, the fox allows the woman to give scritches](http://9gag.com/gag/aKEWe5Q)<!-- MEMES:END -->
 
 --- 
 
