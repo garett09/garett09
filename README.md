@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Landlord offered to pressure-wash the deck for free](http://9gag.com/gag/aXn424P)
- - 🚯 [Too much freedom](http://9gag.com/gag/a3ZyAo1)
- - 🚯 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
+ - 🚖 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
+ - 🚯 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)
+ - 🚯 [Run](http://9gag.com/gag/amAmMgd)<!-- MEMES:END -->
 
 --- 
 
