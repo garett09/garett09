@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Khan Academy pilots Khanmigo, a GPT-based chatbot to help students with math problems, debugging code, debating, and other topics without enabling cheating &lpar;Steven Melendez/Fast Company&rpar;](http://www.techmeme.com/230504/p9#a230504p9)
- - [Geothermal Everywhere: Finding the Energy to Save the World](https://www.wired.com/story/where-to-find-the-energy-to-save-the-world-geothermal-texas/)
- - [Windows 11’s photos app is getting slideshows and a blemish removal tool](https://www.theverge.com/2023/5/4/23710807/microsoft-windows-11-photos-app-slideshow-spot-fix-tool)<!-- TECH:END -->
+ - [The Motorola Edge 40 brings premium extras at a cheaper price](https://www.androidauthority.com/motorola-edge-40-3320286/)
+ - [The New Star Wars Movies Will Change Everything](https://www.wired.com/story/the-future-of-star-wars/)
+ - [The Physics of Mandalorian Jetpacks &lpar;Hint: They Aren’t Jetpacks&rpar;](https://www.wired.com/story/star-wars-day-mandalorian-jetpacks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
