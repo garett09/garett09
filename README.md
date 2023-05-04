@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)
- - 🚯 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)
- - 🚯 [Goodbye](http://9gag.com/gag/aGEM8YG)<!-- MEMES:END -->
+ - 🚖 [AI is taking over](http://9gag.com/gag/a7qVe0A)
+ - 🚯 [A French TV show&#39;s guest receiving a horny message](http://9gag.com/gag/aA04E40)
+ - 🚯 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
 
 --- 
 
