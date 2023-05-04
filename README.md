@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well whats this?..](http://9gag.com/gag/aL1GGL5)
- - 🚯 [Laser breaks phone camera at concert in Italy](http://9gag.com/gag/avQE6Lq)
- - 🚯 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
+ - 🚖 [Eggsplosion](http://9gag.com/gag/a046nAv)
+ - 🚯 [Run](http://9gag.com/gag/amAmMgd)
+ - 🚯 [Well whats this?..](http://9gag.com/gag/aL1GGL5)<!-- MEMES:END -->
 
 --- 
 
