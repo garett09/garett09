@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supply chain issue fixes, plus India expansion led to Apple&#39;s excellent quarter, says Tim Cook](https://appleinsider.com/articles/23/05/04/supply-chain-issue-fixes-plus-india-expansion-led-to-apples-excellent-quarter-says-tim-cook?utm_medium=rss)
- - [Apple’s latest earnings show the Mac slumping and services soaring](https://www.theverge.com/2023/5/4/23711640/apple-q2-2023-earnings-iphone-services-mac)
- - [Coinbase reports Q1 revenue of $772.5M, down from $1.17B in Q1 2022, vs. $655M est., net loss of $78.9M, trading volume of $145B, vs. $147.7B est.; COIN up 6%+ &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/230504/p29#a230504p29)<!-- TECH:END -->
+ - [Apple still didn&#39;t give specific financial guidance, but hinted at what to expect for Q3](https://appleinsider.com/articles/23/05/04/apple-still-didnt-give-specific-financial-guidance-but-hinted-at-what-to-expect-for-q3?utm_medium=rss)
+ - [Apple inching closer to one billion paid subscriptions](https://appleinsider.com/articles/23/05/04/apple-inching-closer-to-one-billion-paid-subscriptions?utm_medium=rss)
+ - [Meet the fossil fuel-funded startup trying to take CO2 out of the ocean](https://www.theverge.com/2023/5/4/23711098/ocean-carbon-removal-california-captura-climate-change)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
