@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Helping your wife out](http://9gag.com/gag/aBdPOWZ)
- - 🚯 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)
- - 🚯 [Eggsplosion](http://9gag.com/gag/a046nAv)<!-- MEMES:END -->
+ - 🚖 [Legend has it that, they are still looking](http://9gag.com/gag/aNwV4y4)
+ - 🚯 [The thicc and the trained](http://9gag.com/gag/a4o52O6)
+ - 🚯 [This Guy](http://9gag.com/gag/abvW26r)<!-- MEMES:END -->
 
 --- 
 
