@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Surge Protector of 2023     - CNET](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)
- - [Mozilla expands its Mastodon instance to a private beta with strict moderation, saying the company is &quot;not building another self-declared &#39;neutral&#39; platform&quot; &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230504/p22#a230504p22)
- - [Slack GPT could soon attend Huddles so you don’t have to](https://www.theverge.com/2023/5/4/23711468/slack-salesforce-slackgpt-generative-ai-llm-chatgpt-openai)<!-- TECH:END -->
+ - [Supply chain issue fixes, plus India expansion led to Apple&#39;s excellent quarter, says Tim Cook](https://appleinsider.com/articles/23/05/04/supply-chain-issue-fixes-plus-india-expansion-led-to-apples-excellent-quarter-says-tim-cook?utm_medium=rss)
+ - [Apple’s latest earnings show the Mac slumping and services soaring](https://www.theverge.com/2023/5/4/23711640/apple-q2-2023-earnings-iphone-services-mac)
+ - [Coinbase reports Q1 revenue of $772.5M, down from $1.17B in Q1 2022, vs. $655M est., net loss of $78.9M, trading volume of $145B, vs. $147.7B est.; COIN up 6%+ &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/230504/p29#a230504p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
