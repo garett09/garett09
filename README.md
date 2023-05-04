@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Destiny 2 Season Pass Price Is Going Up](https://kotaku.com/destiny-2-lightfall-witch-queen-season-pass-price-deep-1850405781)
- - [Everything We’re Learning About Zelda: Tears Of The Kingdom From The Leaks](https://kotaku.com/zelda-tears-of-the-kingdom-leak-dungeons-companions-1850395668)
- - [Star Wars Jedi: Survivor includes a $10 credit at Amazon and Target](https://www.polygon.com/deals/2023/5/1/23707145/star-wars-jedi-survivor-amazon-discount-deal-10-off)<!-- GAME:END -->
+ - [Holy cow, they&#39;re making a new Shadowman game](https://www.pcgamer.com/holy-cow-theyre-making-a-new-shadowman-game)
+ - [Xbox boss says Redfall ‘let a lot of people down,’ commits to fixing it](https://www.polygon.com/23710947/redfall-arkane-studios-xbox-phil-spencer)
+ - [My Only Goal In Star Wars Jedi: Survivor Is To Serve Lewks](https://kotaku.com/star-wars-jedi-survivor-cal-customization-hermit-outfit-1850406023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
