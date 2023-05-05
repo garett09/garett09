@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;It is really, really OP&#39;: Europa Universalis 4 DLC feature lets you conquer the world at record pace](https://www.pcgamer.com/it-is-really-really-op-europa-universalis-4-dlc-feature-lets-you-conquer-the-world-at-record-pace)
  - [The best movies on Netflix UK](https://www.polygon.com/what-to-watch/23711157/best-movies-on-netflix-uk)
- - [Today&#39;s Wordle hint and answer #685: Friday, May 5](https://www.pcgamer.com/wordle-today-hint-answer-685-may-5)
- - [The day is coming where we&#39;ll longer need passwords on the internet](https://www.pcgamer.com/the-day-is-coming-where-well-longer-need-passwords-on-the-internet)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #685: Friday, May 5](https://www.pcgamer.com/wordle-today-hint-answer-685-may-5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
