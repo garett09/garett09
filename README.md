@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best AT&amp;T deals: Save $800 on the Galaxy S23 with any trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
- - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
- - [Apple Music Live&#39;s new season kicks off with Ed Sheeran](https://appleinsider.com/articles/23/05/05/apple-music-lives-second-season-kicks-off-with-ed-sheeran?utm_medium=rss)<!-- TECH:END -->
+ - [Garmin Forerunner 965 review: AMOLED excellence](https://www.androidauthority.com/garmin-forerunner-965-review-3319135/)
+ - [Amazon expands Inspire, its in-app TikTok-like video and photo feed that lets users shop from content created by influencers and brands, to all US customers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230505/p9#a230505p9)
+ - [Doctors Behind Mifepristone Ban Called ‘Christians’ a Top Threat](https://www.wired.com/story/american-college-pediatrics-christian-threat/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
