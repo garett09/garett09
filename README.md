@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Streamer whose esports team just ate 7 losses in a row: &#39;I have been having a lot of doubts about my decision making&#39;](https://www.pcgamer.com/streamer-whose-esports-team-just-ate-7-losses-in-a-row-i-have-been-having-a-lot-of-doubts-about-my-decision-making)
- - [Karl Urban is Johnny Cage in the next Mortal Kombat movie](https://www.polygon.com/23712476/mortal-kombat-2-movie-cast-johnny-cage-karl-urban)
- - [How to clean the fish tank in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-clean-fish-tank)<!-- GAME:END -->
+ - [Rocket Raccoon was never supposed to be a superhero](https://www.polygon.com/23711140/guardians-of-the-galaxy-rocket-racoon-origin-story-comics)
+ - [Share of the Week: Horizon Forbidden West – Burning Shores](https://blog.playstation.com/2023/05/05/share-of-the-week-horizon-forbidden-west-burning-shores/)
+ - [Street Fighter 6 Comic Confirms Ken Is A Crypto Bro, Bad Father](https://kotaku.com/street-fighter-6-ken-udon-comics-ps5-crypto-meme-xbox-1850409082)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
