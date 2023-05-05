@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eggsplosion](http://9gag.com/gag/a046nAv)
- - 🚯 [Bravo](http://9gag.com/gag/aBdP4yN)
- - 🚯 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)<!-- MEMES:END -->
+ - 🚖 [That\u2019s why he\u2019s so good. He cares about the characters he\u2019s playing](http://9gag.com/gag/ap9PbY9)
+ - 🚯 [Kids need to appreciate themselves. Stop Grooming!](http://9gag.com/gag/ago8Kog)
+ - 🚯 [Vestige](http://9gag.com/gag/aDYZQNx)<!-- MEMES:END -->
 
 --- 
 
