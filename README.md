@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York&#39;s MTA resumes posting automated transit alerts to Twitter after Twitter backtracked on a plan to charge public service accounts for API access &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230504/p34#a230504p34)
  - [How to delete all promotions in Gmail](https://www.androidauthority.com/how-to-delete-all-promotions-in-gmail-3320610/)
- - [AirTag foils $1.1 million armed robbery of an armored truck](https://appleinsider.com/articles/23/05/05/airtag-foils-11-million-armed-robbery-of-an-armored-truck?utm_medium=rss)
- - [Apple adds 20 new games to its Apple Arcade catalog](https://appleinsider.com/articles/23/05/04/apple-adds-20-new-games-to-its-apple-arcade-catalog?utm_medium=rss)<!-- TECH:END -->
+ - [AirTag foils $1.1 million armed robbery of an armored truck](https://appleinsider.com/articles/23/05/05/airtag-foils-11-million-armed-robbery-of-an-armored-truck?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
