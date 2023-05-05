@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dune: Ethereum&#39;s median average transaction fee jumped to ~87 gwei on May 2, the highest level since May 2022, mostly due to memecoin trading exploding again &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/230505/p1#a230505p1)
- - [These Xiaomi and Poco phones will get MIUI 14 in Q2 2023](https://www.androidauthority.com/xiaomi-poco-miui-14-roadmap-q2-2023-3320807/)
- - [The Bionic Eye That Could Restore Vision &lpar;and Put Humans in the Matrix&rpar;     - CNET](https://www.cnet.com/science/biology/features/the-bionic-eye-that-could-restore-vision-and-put-humans-in-the-matrix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Yet Another Problem With Recycling: It Spews Microplastics](https://www.wired.com/story/yet-another-problem-with-recycling-it-spews-microplastics/)
+ - [Motorola Moto G Power 5G &lpar;2023&rpar; Review: Close but No Cigar](https://www.wired.com/review/motorola-moto-g-power-5g-2023/)
+ - [Airbus, Eutelsat, SES, Thales, and other European satellite companies plan to bid for the IRIS&amp;sup2; satellite constellation, hoping to rival SpaceX&#39;s Starlink &lpar;Eric Berger/Ars Technica&rpar;](http://www.techmeme.com/230505/p2#a230505p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
