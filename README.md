@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
- - 🚯 [Oi mate!](http://9gag.com/gag/aNwVRYA)
- - 🚯 [The thicc and the trained](http://9gag.com/gag/a4o52O6)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
+ - 🚯 [Yes, this is faster](http://9gag.com/gag/ay2WY5p)
+ - 🚯 [Eggsplosion](http://9gag.com/gag/a046nAv)<!-- MEMES:END -->
 
 --- 
 
