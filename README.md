@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Kleavor weakness, counters, and best moveset](https://www.polygon.com/pokemon-go-guide/23712224/kleavor-weakness-counters-solo-best-moveset)
- - [Please Watch This Amazing Overwatch X Dallas Mavericks Video](https://kotaku.com/overwatch-luka-doncic-dallas-mavericks-tiktok-video-1850410600)
- - [This game might have the worst name ever, but it&#39;s actually pretty fun](https://www.pcgamer.com/this-game-might-have-the-worst-name-ever-but-its-actually-pretty-fun)<!-- GAME:END -->
+ - [This fantasy author can&#39;t stop making mods for the 21-year-old D&amp;D videogame that first disappointed him, and then &#39;helped shape&#39; his life](https://www.pcgamer.com/this-fantasy-author-cant-stop-making-mods-for-the-21-year-old-dandd-videogame-that-first-disappointed-him-and-then-helped-shape-his-life)
+ - [Blizzard locked a new World of Warcraft behind an old World of Warcraft item, and now players are price-gouging each other to get it](https://www.pcgamer.com/blizzard-locked-a-new-world-of-warcraft-behind-an-old-world-of-warcraft-item-and-now-players-are-price-gouging-each-other-to-get-it)
+ - [The Dungeons &amp; Dragons movie, A Man Called Otto on Netflix, and every other new movie to watch at home this week](https://www.polygon.com/2023/5/5/23706721/new-movies-watch-dungeons-and-dragons-d-and-d-movie-netflix-man-called-otto-how-to-blow-up-pipeline)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
