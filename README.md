@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple impresses analysts with &#39;Rock of Gibraltar-like&#39; resilience that should inspire confidence](https://appleinsider.com/articles/23/05/05/apple-impresses-analysts-with-rock-of-gibraltar-like-resilience-that-should-inspire-confidence?utm_medium=rss)
- - [Daily Deals: iMacs from $290, Apple Watch Series 5 $170, $57 off Kindle Scribe, more](https://appleinsider.com/articles/23/05/05/daily-deals-imacs-from-290-apple-watch-series-5-170-57-off-kindle-scribe-more?utm_medium=rss)
- - [Gary Marcus Used to Call AI Stupid—Now He Calls It Dangerous](https://www.wired.com/story/plaintext-gary-marcus-ai-stupid-dangerous/)<!-- TECH:END -->
+ - [The Long Covid Mystery Has a New Suspect](https://www.wired.com/story/long-covid-breathlessness-monocytes-symptoms/)
+ - [Review of $250 JBL Tour Pro 2 wireless earbuds with a touchscreen on the case, offering access to earbud settings along with extras like timers and a flashlight &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230505/p5#a230505p5)
+ - [Six months later, the iPhone 14 Pro is everything I love and hate about phones](https://www.theverge.com/2023/5/5/23711698/iphone-14-pro-dynamic-island-live-activities-always-on-display)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
