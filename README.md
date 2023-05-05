@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store tipping, watchOS 10 at WWDC, Google Passkey support](https://appleinsider.com/articles/23/05/05/apple-store-tipping-watchos-10-at-wwdc-google-passkey-support?utm_medium=rss)
- - [The Thorny Art of Deepfake Labeling](https://www.wired.com/story/the-thorny-art-of-deepfake-labeling/)
- - [AV fever has cooled off, but driverless cars aren’t going away](https://www.theverge.com/2023/5/5/23711586/autonomous-vehicle-investment-toyota-nvidia)<!-- TECH:END -->
+ - [Apple impresses analysts with &#39;Rock of Gibraltar-like&#39; resilience that should inspire confidence](https://appleinsider.com/articles/23/05/05/apple-impresses-analysts-with-rock-of-gibraltar-like-resilience-that-should-inspire-confidence?utm_medium=rss)
+ - [Daily Deals: iMacs from $290, Apple Watch Series 5 $170, $57 off Kindle Scribe, more](https://appleinsider.com/articles/23/05/05/daily-deals-imacs-from-290-apple-watch-series-5-170-57-off-kindle-scribe-more?utm_medium=rss)
+ - [Gary Marcus Used to Call AI Stupid—Now He Calls It Dangerous](https://www.wired.com/story/plaintext-gary-marcus-ai-stupid-dangerous/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
