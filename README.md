@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple adds 20 new games to its Apple Arcade catalog](https://appleinsider.com/articles/23/05/04/apple-adds-20-new-games-to-its-apple-arcade-catalog?utm_medium=rss)
- - [Brydge brand &amp; IP sold in foreclosure after financial struggles](https://appleinsider.com/articles/23/05/04/brydge-brand-ip-sold-in-foreclosure-after-financial-struggles?utm_medium=rss)
- - [A judge sentences ex-Uber CSO Joe Sullivan to three years of probation; he was convicted in October 2022 for not disclosing a 2016 data breach to regulators &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230504/p33#a230504p33)<!-- TECH:END -->
+ - [How to delete all promotions in Gmail](https://www.androidauthority.com/how-to-delete-all-promotions-in-gmail-3320610/)
+ - [AirTag foils $1.1 million armed robbery of an armored truck](https://appleinsider.com/articles/23/05/05/airtag-foils-11-million-armed-robbery-of-an-armored-truck?utm_medium=rss)
+ - [Apple adds 20 new games to its Apple Arcade catalog](https://appleinsider.com/articles/23/05/04/apple-adds-20-new-games-to-its-apple-arcade-catalog?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
