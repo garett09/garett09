@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you add this code to any Excel file, it will delete itself on the date that you specify. In case you&#39;re planning on leaving a job you hate. Like I am.](http://9gag.com/gag/aoK4xxA)
- - 🚯 [Chinese knockoff of Tesla&#39;s autopilot system. The car belongs to I3 series of XPeng Motors. It has been reported a former Chinese employee of Tesla stole the autopilot technology and gave it to this company.](http://9gag.com/gag/aeQVxev)
- - 🚯 [Bravo](http://9gag.com/gag/aBdP4yN)<!-- MEMES:END -->
+ - 🚖 [Just because the monitor shows one security camera at a time...doesn\u2019t mean they aren\u2019t all recording.](http://9gag.com/gag/aZDQz56)
+ - 🚯 [Run](http://9gag.com/gag/amAmMgd)
+ - 🚯 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)<!-- MEMES:END -->
 
 --- 
 
