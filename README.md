@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [American Healthcare.](http://9gag.com/gag/avQEDzM)
- - 🚯 [This is art](http://9gag.com/gag/aEqoOX9)
- - 🚯 [Poor guy sitting next to her... Can see he ia dying inside.](http://9gag.com/gag/aA04mZZ)<!-- MEMES:END -->
+ - 🚖 [American Polyglot surprises African Warrior Tribe with their language](http://9gag.com/gag/aGEM7wX)
+ - 🚯 [Spring views in Ukrainian trench, its somewhat surreal](http://9gag.com/gag/aDYZPEB)
+ - 🚯 [1v2 clutch](http://9gag.com/gag/aXn4RZb)<!-- MEMES:END -->
 
 --- 
 
