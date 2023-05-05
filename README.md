@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Q2 revenue rose 15.3% YoY in Asia-Pacific, business in India grew by &quot;very strong double digits&quot;, but sales fell 2.9% in Greater China and 7.1% in Japan &lpar;Yifan Yu/Nikkei Asia&rpar;](http://www.techmeme.com/230504/p32#a230504p32)
- - [Tim Cook says Apple views AI as &quot;huge&quot; but there are &quot;a number of issues that need to be sorted&quot;, and doesn&#39;t expand on how it plans to use AI in its products &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230504/p31#a230504p31)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
+ - [Apple adds 20 new games to its Apple Arcade catalog](https://appleinsider.com/articles/23/05/04/apple-adds-20-new-games-to-its-apple-arcade-catalog?utm_medium=rss)
+ - [Brydge brand &amp; IP sold in foreclosure after financial struggles](https://appleinsider.com/articles/23/05/04/brydge-brand-ip-sold-in-foreclosure-after-financial-struggles?utm_medium=rss)
+ - [A judge sentences ex-Uber CSO Joe Sullivan to three years of probation; he was convicted in October 2022 for not disclosing a 2016 data breach to regulators &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230504/p33#a230504p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
