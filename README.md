@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How they see us.](http://9gag.com/gag/a7qVAeA)
- - 🚯 [The thicc and the trained](http://9gag.com/gag/a4o52O6)
- - 🚯 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)<!-- MEMES:END -->
+ - 🚖 [Vestige](http://9gag.com/gag/aDYZQNx)
+ - 🚯 [Go woke go broke, Red Sox fans snub Bud Light at Fenway Park](http://9gag.com/gag/adPnb3Z)
+ - 🚯 [This is art](http://9gag.com/gag/aEqoOX9)<!-- MEMES:END -->
 
 --- 
 
