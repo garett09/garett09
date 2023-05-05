@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Rising Esports Tournament Showcases the Power of Gaming to Fight AIDS and Save Lives](https://news.xbox.com/en-us/2023/05/05/apex-rising-esports-tournament-showcases-the-power-of-gaming-to-fight-aids-and-save-lives/)
- - [Theater&#39;s Accidental Little Mermaid + Transformers Trailer Mashup Rules, Actually](https://kotaku.com/the-little-mermaid-transformers-beasts-trailers-mash-up-1850410244)
- - [Activision isn&#39;t sure how long the Overwatch League and CoD League will last, says efforts to address challenges &#39;may prove unsuccessful&#39;](https://www.pcgamer.com/activision-isnt-sure-how-long-the-overwatch-league-and-cod-league-will-last-says-efforts-to-address-challenges-may-prove-unsuccessful)<!-- GAME:END -->
+ - [Pokémon Go Kleavor weakness, counters, and best moveset](https://www.polygon.com/pokemon-go-guide/23712224/kleavor-weakness-counters-solo-best-moveset)
+ - [Please Watch This Amazing Overwatch X Dallas Mavericks Video](https://kotaku.com/overwatch-luka-doncic-dallas-mavericks-tiktok-video-1850410600)
+ - [This game might have the worst name ever, but it&#39;s actually pretty fun](https://www.pcgamer.com/this-game-might-have-the-worst-name-ever-but-its-actually-pretty-fun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
