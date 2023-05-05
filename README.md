@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: Brands not called Apple or Samsung are fighting for scraps](https://www.androidauthority.com/apple-samsung-q1-2023-profit-3320798/)
  - [The Seabed Empire Funding Britain’s New King](https://www.wired.com/story/britain-crown-estate-ocean-empire/)
- - [Best Garden and Seed Delivery Services for 2023     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)
- - [Xiaomi Mi Band 8 vs Mi Band 7: What’s new on the latest budget tracker?](https://www.androidauthority.com/xiaomi-mi-band-8-vs-7-3320625/)<!-- TECH:END -->
+ - [Best Garden and Seed Delivery Services for 2023     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
