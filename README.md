@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honkai: Star Rail – What are Traces and how do they work?](https://www.androidauthority.com/honkai-star-rail-traces-3319680/)
- - [Sources: the US DOJ is investigating if Binance was used to let Russians skirt US sanctions, alongside a probe into its alleged use to evade sanctions on Iran &lpar;Chris Strohm/Bloomberg&rpar;](http://www.techmeme.com/230505/p12#a230505p12)
- - [Out of the ~150K early Twitter Blue subscribers in November 2022, just ~68,157 were still subscribed on April 30, meaning Blue has an abnormally high churn rate &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230505/p11#a230505p11)<!-- TECH:END -->
+ - [Marissa Mayer figures Yahoo could’ve done better buying Netflix instead of Tumblr](https://www.theverge.com/2023/5/5/23712973/yahoo-tumblr-netflix-hulu-ceo-marissa-mayer)
+ - [Honkai: Star Rail – What are Eidolons and how do they work?](https://www.androidauthority.com/honkai-star-rail-eidolons-3319681/)
+ - [Amazon is working on AI tools to generate photos and videos for merchants&#39; ad campaigns on its platform, as the company seeks to build a broader ad business &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/230505/p13#a230505p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
