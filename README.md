@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Breath of the Wild’s official story recap video is a good Tears of the Kingdom primer](https://www.polygon.com/23709923/zelda-breath-wild-story-recap-tears-kingdom)
- - [How to Kill in a Demon’s Skin](https://news.xbox.com/en-us/2023/05/05/how-to-kill-in-a-demons-skin/)
- - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)<!-- GAME:END -->
+ - [Twitch Streamer Hasan Piker Trolled By Game Awards Show Crasher [Update: Troll Comments]](https://kotaku.com/hasanabi-twitch-streamer-matan-even-wga-writers-strike-1850409024)
+ - [Mortal Kombat Movie Sequel May Have Found Its Johnny Cage](https://kotaku.com/mortal-kombat-2-movie-johnny-cage-actor-karl-urban-1850409639)
+ - [Rigged? Bungie just announced the winners of a Destiny 2 event that isn&#39;t due to end for weeks](https://www.pcgamer.com/rigged-bungie-just-announced-the-winners-of-a-destiny-2-event-that-isnt-due-to-end-for-weeks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
