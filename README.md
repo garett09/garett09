@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rocket Raccoon was never supposed to be a superhero](https://www.polygon.com/23711140/guardians-of-the-galaxy-rocket-racoon-origin-story-comics)
- - [Share of the Week: Horizon Forbidden West – Burning Shores](https://blog.playstation.com/2023/05/05/share-of-the-week-horizon-forbidden-west-burning-shores/)
- - [Street Fighter 6 Comic Confirms Ken Is A Crypto Bro, Bad Father](https://kotaku.com/street-fighter-6-ken-udon-comics-ps5-crypto-meme-xbox-1850409082)<!-- GAME:END -->
+ - [Breath of the Wild’s official story recap video is a good Tears of the Kingdom primer](https://www.polygon.com/23709923/zelda-breath-wild-story-recap-tears-kingdom)
+ - [How to Kill in a Demon’s Skin](https://news.xbox.com/en-us/2023/05/05/how-to-kill-in-a-demons-skin/)
+ - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
