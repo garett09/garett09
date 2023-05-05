@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple TV Plus’ Silo needed to build the world’s most perfect set of stairs](https://www.polygon.com/23710614/silo-apple-tv-staircase-design-show)
- - [Will Brad Pitt really race an F1 car for his new movie? Not quite](https://www.polygon.com/23712244/brad-pitt-f1-movie-driving-race-weekends)
- - [Russian hackers are using WinRAR as a &#39;cyberweapon&#39; against Ukraine](https://www.pcgamer.com/russian-hackers-are-using-winrar-as-a-cyberweapon-against-ukraine)<!-- GAME:END -->
+ - [Kevin Costner reportedly quits Yellowstone, capping months of feuds](https://www.polygon.com/23711044/kevin-costner-yellowstone-leaving-season-5-delay)
+ - [Report Says Pokémon Go Hit Its Lowest Revenue In 5 Years, But Niantic Denies It](https://kotaku.com/pokemon-go-revenue-niantic-remote-covid-disability-tax-1850407202)
+ - [Next Week on Xbox: New Games for May 8 to 12](https://news.xbox.com/en-us/2023/05/05/next-week-on-xbox-new-games-for-may-8-to-12/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
