@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yet Another Problem With Recycling: It Spews Microplastics](https://www.wired.com/story/yet-another-problem-with-recycling-it-spews-microplastics/)
- - [Motorola Moto G Power 5G &lpar;2023&rpar; Review: Close but No Cigar](https://www.wired.com/review/motorola-moto-g-power-5g-2023/)
- - [Airbus, Eutelsat, SES, Thales, and other European satellite companies plan to bid for the IRIS&amp;sup2; satellite constellation, hoping to rival SpaceX&#39;s Starlink &lpar;Eric Berger/Ars Technica&rpar;](http://www.techmeme.com/230505/p2#a230505p2)<!-- TECH:END -->
+ - [Apple Store tipping, watchOS 10 at WWDC, Google Passkey support](https://appleinsider.com/articles/23/05/05/apple-store-tipping-watchos-10-at-wwdc-google-passkey-support?utm_medium=rss)
+ - [The Thorny Art of Deepfake Labeling](https://www.wired.com/story/the-thorny-art-of-deepfake-labeling/)
+ - [AV fever has cooled off, but driverless cars aren’t going away](https://www.theverge.com/2023/5/5/23711586/autonomous-vehicle-investment-toyota-nvidia)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
