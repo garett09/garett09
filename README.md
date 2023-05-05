@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s dropped a video of an incredible AI-powered hairdressing sim and now I want a digital barbershop](https://www.pcgamer.com/nvidias-dropped-a-video-of-an-incredible-ai-powered-hairdressing-sim-and-now-i-want-a-digital-barbershop)
- - [Honkai: Star Rail tier list for the best characters](https://www.pcgamer.com/honkai-star-rail-tier-list)
- - [How to complete the Chamber of Reason in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-chamber-of-reason)<!-- GAME:END -->
+ - [Apple TV Plus’ Silo needed to build the world’s most perfect set of stairs](https://www.polygon.com/23710614/silo-apple-tv-staircase-design-show)
+ - [Will Brad Pitt really race an F1 car for his new movie? Not quite](https://www.polygon.com/23712244/brad-pitt-f1-movie-driving-race-weekends)
+ - [Russian hackers are using WinRAR as a &#39;cyberweapon&#39; against Ukraine](https://www.pcgamer.com/russian-hackers-are-using-winrar-as-a-cyberweapon-against-ukraine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
