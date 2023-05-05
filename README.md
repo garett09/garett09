@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kevin Costner reportedly quits Yellowstone, capping months of feuds](https://www.polygon.com/23711044/kevin-costner-yellowstone-leaving-season-5-delay)
- - [Report Says Pokémon Go Hit Its Lowest Revenue In 5 Years, But Niantic Denies It](https://kotaku.com/pokemon-go-revenue-niantic-remote-covid-disability-tax-1850407202)
- - [Next Week on Xbox: New Games for May 8 to 12](https://news.xbox.com/en-us/2023/05/05/next-week-on-xbox-new-games-for-may-8-to-12/)<!-- GAME:END -->
+ - [Unicorn: Warriors Eternal creators on the animated marvel 20 years in the making](https://www.polygon.com/23711448/genndy-tartakovsky-unicorn-warriors-eternal-making-of-interview-feature)
+ - [Here&#39;s 13 More Exciting, Cozy Games Coming Out In 2023](https://kotaku.com/cozy-games-upcoming-2023-releases-like-stardew-valley-1850398426)
+ - [PSA: Animal Lovers, Brace Yourselves For Guardians Of The Galaxy, Vol. 3](https://kotaku.com/guardians-of-the-galaxy-vol-3-rocket-raccoon-animal-vio-1850408326)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
