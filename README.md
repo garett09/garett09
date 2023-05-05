@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Removing enormous blockage.](http://9gag.com/gag/armZ2GK)
- - 🚯 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)
- - 🚯 [1000 ways to die](http://9gag.com/gag/aBdPjgZ)<!-- MEMES:END -->
+ - 🚖 [How they see us.](http://9gag.com/gag/a7qVAeA)
+ - 🚯 [Is it possible to learn this power](http://9gag.com/gag/a8qDX91)
+ - 🚯 [Proud dad moment](http://9gag.com/gag/aVbmBwK)<!-- MEMES:END -->
 
 --- 
 
