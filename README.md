@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams is getting animated backgrounds for your meetings](https://www.theverge.com/2023/5/5/23711207/microsoft-teams-dynamic-animated-backgrounds-feature)
- - [Congress is flooded with bills for childproofing the internet](https://www.theverge.com/2023/5/5/23712443/kosa-earn-it-coppa-child-privacy-data-tiktok-blackburn-blumenthal)
- - [Smartphone shipments declined by 14% YoY and 7% QoQ globally to reach 280.2M units in Q1 2023; Apple&#39;s YoY decline was the smallest of the top five brands &lpar;Harmeet Singh Walia/Counterpoint Research&rpar;](http://www.techmeme.com/230505/p6#a230505p6)<!-- TECH:END -->
+ - [Microsoft Office for Mac Home &amp; Business 2021 dips to $29.99, a discount of 88% off retail](https://appleinsider.com/articles/23/05/05/microsoft-office-for-mac-home-business-2021-dips-to-2999-a-discount-of-88-off-retail?utm_medium=rss)
+ - [WHO declares an end to covid global health emergency](https://www.theverge.com/2023/5/5/23712423/who-covid-end-public-health-emergency-pandemic)
+ - [Jakarta-based Praktis, which provides end-to-end supply chain software for D2C brands, raised a $20M Series A led by East Ventures &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/230505/p7#a230505p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
