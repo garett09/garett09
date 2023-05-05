@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1v2 clutch](http://9gag.com/gag/aXn4RZb)
- - 🚯 [Oi mate!](http://9gag.com/gag/aNwVRYA)
- - 🚯 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)<!-- MEMES:END -->
+ - 🚖 [Bravo](http://9gag.com/gag/aBdP4yN)
+ - 🚯 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)
+ - 🚯 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)<!-- MEMES:END -->
 
 --- 
 
