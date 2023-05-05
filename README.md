@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Streamer Hasan Piker Trolled By Game Awards Show Crasher [Update: Troll Comments]](https://kotaku.com/hasanabi-twitch-streamer-matan-even-wga-writers-strike-1850409024)
- - [Mortal Kombat Movie Sequel May Have Found Its Johnny Cage](https://kotaku.com/mortal-kombat-2-movie-johnny-cage-actor-karl-urban-1850409639)
- - [Rigged? Bungie just announced the winners of a Destiny 2 event that isn&#39;t due to end for weeks](https://www.pcgamer.com/rigged-bungie-just-announced-the-winners-of-a-destiny-2-event-that-isnt-due-to-end-for-weeks)<!-- GAME:END -->
+ - [The Silo that premieres today is not the one you will be watching in two weeks](https://www.polygon.com/23712712/silo-premiere-apple-tv-plus-episodes)
+ - [This Week on Xbox: Star Wars Events, Upcoming Games, and More](https://news.xbox.com/en-us/2023/05/05/this-week-on-xbox-star-wars-events-upcoming-games-and-more/)
+ - [For Mother’s Day, here are 26 great gift ideas](https://www.polygon.com/deals/23674067/mothers-day-gift-ideas)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
