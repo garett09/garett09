@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [American Healthcare.](http://9gag.com/gag/avQEDzM)
- - 🚯 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)
- - 🚯 [The dog&#39;s safe, all that matters.](http://9gag.com/gag/amAmMy4)<!-- MEMES:END -->
+ - 🚖 [How they see us.](http://9gag.com/gag/a7qVAeA)
+ - 🚯 [Nigerian pastor ascending to heaven and leaving his followers behind.](http://9gag.com/gag/a046OqX)
+ - 🚯 [Definition of dumb](http://9gag.com/gag/a8qDnQZ)<!-- MEMES:END -->
 
 --- 
 
