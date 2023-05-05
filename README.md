@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nigerian pastor ascending to heaven and leaving his followers behind.](http://9gag.com/gag/a046OqX)
- - 🚯 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
- - 🚯 [How they see us.](http://9gag.com/gag/a7qVAeA)<!-- MEMES:END -->
+ - 🚖 [How to make bycicle legaly annoy people on the road](http://9gag.com/gag/a1P5VbP)
+ - 🚯 [Oi mate!](http://9gag.com/gag/aNwVRYA)
+ - 🚯 [The thicc and the trained](http://9gag.com/gag/a4o52O6)<!-- MEMES:END -->
 
 --- 
 
