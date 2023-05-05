@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Vestige](http://9gag.com/gag/aDYZQNx)
- - 🚯 [Go woke go broke, Red Sox fans snub Bud Light at Fenway Park](http://9gag.com/gag/adPnb3Z)
- - 🚯 [This is art](http://9gag.com/gag/aEqoOX9)<!-- MEMES:END -->
+ - 🚖 [American Healthcare.](http://9gag.com/gag/avQEDzM)
+ - 🚯 [This is art](http://9gag.com/gag/aEqoOX9)
+ - 🚯 [Poor guy sitting next to her... Can see he ia dying inside.](http://9gag.com/gag/aA04mZZ)<!-- MEMES:END -->
 
 --- 
 
