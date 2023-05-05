@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [American Polyglot surprises African Warrior Tribe with their language](http://9gag.com/gag/aGEM7wX)
- - 🚯 [Spring views in Ukrainian trench, its somewhat surreal](http://9gag.com/gag/aDYZPEB)
- - 🚯 [1v2 clutch](http://9gag.com/gag/aXn4RZb)<!-- MEMES:END -->
+ - 🚖 [The thicc and the trained](http://9gag.com/gag/a4o52O6)
+ - 🚯 [How they see us.](http://9gag.com/gag/a7qVAeA)
+ - 🚯 [Bravo](http://9gag.com/gag/aBdP4yN)<!-- MEMES:END -->
 
 --- 
 
