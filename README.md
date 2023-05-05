@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes, this is faster](http://9gag.com/gag/ay2WY5p)
+ - 🚖 [Nigerian pastor ascending to heaven and leaving his followers behind.](http://9gag.com/gag/a046OqX)
  - 🚯 [Bravo](http://9gag.com/gag/aBdP4yN)
  - 🚯 [1v2 clutch](http://9gag.com/gag/aXn4RZb)<!-- MEMES:END -->
 
