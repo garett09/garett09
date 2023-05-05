@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Forerunner 965 review: AMOLED excellence](https://www.androidauthority.com/garmin-forerunner-965-review-3319135/)
- - [Amazon expands Inspire, its in-app TikTok-like video and photo feed that lets users shop from content created by influencers and brands, to all US customers &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/230505/p9#a230505p9)
- - [Doctors Behind Mifepristone Ban Called ‘Christians’ a Top Threat](https://www.wired.com/story/american-college-pediatrics-christian-threat/)<!-- TECH:END -->
+ - [The 40 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The Marvel Movies From Worst to Best—and Where to Stream Them](https://www.wired.com/story/best-marvel-movies-ranked/)
+ - [The 46 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
