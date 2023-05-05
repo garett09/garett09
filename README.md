@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bravo](http://9gag.com/gag/aBdP4yN)
- - 🚯 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)
- - 🚯 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)<!-- MEMES:END -->
+ - 🚖 [American Healthcare.](http://9gag.com/gag/avQEDzM)
+ - 🚯 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)
+ - 🚯 [The dog&#39;s safe, all that matters.](http://9gag.com/gag/amAmMy4)<!-- MEMES:END -->
 
 --- 
 
