@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)
- - 🚯 [Truly hurtful](http://9gag.com/gag/aVbm4D8)
- - 🚯 [1000 ways to die](http://9gag.com/gag/aBdPjgZ)<!-- MEMES:END -->
+ - 🚖 [Bravo](http://9gag.com/gag/aBdP4yN)
+ - 🚯 [This Guy](http://9gag.com/gag/abvW26r)
+ - 🚯 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)<!-- MEMES:END -->
 
 --- 
 
