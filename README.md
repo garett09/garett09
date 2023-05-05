@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Office for Mac Home &amp; Business 2021 dips to $29.99, a discount of 88% off retail](https://appleinsider.com/articles/23/05/05/microsoft-office-for-mac-home-business-2021-dips-to-2999-a-discount-of-88-off-retail?utm_medium=rss)
- - [WHO declares an end to covid global health emergency](https://www.theverge.com/2023/5/5/23712423/who-covid-end-public-health-emergency-pandemic)
- - [Jakarta-based Praktis, which provides end-to-end supply chain software for D2C brands, raised a $20M Series A led by East Ventures &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/230505/p7#a230505p7)<!-- TECH:END -->
+ - [The best AT&amp;T deals: Save $800 on the Galaxy S23 with any trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
+ - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [Apple Music Live&#39;s new season kicks off with Ed Sheeran](https://appleinsider.com/articles/23/05/05/apple-music-lives-second-season-kicks-off-with-ed-sheeran?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
