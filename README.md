@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unicorn: Warriors Eternal creators on the animated marvel 20 years in the making](https://www.polygon.com/23711448/genndy-tartakovsky-unicorn-warriors-eternal-making-of-interview-feature)
- - [Here&#39;s 13 More Exciting, Cozy Games Coming Out In 2023](https://kotaku.com/cozy-games-upcoming-2023-releases-like-stardew-valley-1850398426)
- - [PSA: Animal Lovers, Brace Yourselves For Guardians Of The Galaxy, Vol. 3](https://kotaku.com/guardians-of-the-galaxy-vol-3-rocket-raccoon-animal-vio-1850408326)<!-- GAME:END -->
+ - [Streamer whose esports team just ate 7 losses in a row: &#39;I have been having a lot of doubts about my decision making&#39;](https://www.pcgamer.com/streamer-whose-esports-team-just-ate-7-losses-in-a-row-i-have-been-having-a-lot-of-doubts-about-my-decision-making)
+ - [Karl Urban is Johnny Cage in the next Mortal Kombat movie](https://www.polygon.com/23712476/mortal-kombat-2-movie-cast-johnny-cage-karl-urban)
+ - [How to clean the fish tank in Star Wars Jedi: Survivor](https://www.pcgamer.com/star-wars-jedi-survivor-clean-fish-tank)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
