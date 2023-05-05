@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Silo that premieres today is not the one you will be watching in two weeks](https://www.polygon.com/23712712/silo-premiere-apple-tv-plus-episodes)
- - [This Week on Xbox: Star Wars Events, Upcoming Games, and More](https://news.xbox.com/en-us/2023/05/05/this-week-on-xbox-star-wars-events-upcoming-games-and-more/)
- - [For Mother’s Day, here are 26 great gift ideas](https://www.polygon.com/deals/23674067/mothers-day-gift-ideas)<!-- GAME:END -->
+ - [Apex Rising Esports Tournament Showcases the Power of Gaming to Fight AIDS and Save Lives](https://news.xbox.com/en-us/2023/05/05/apex-rising-esports-tournament-showcases-the-power-of-gaming-to-fight-aids-and-save-lives/)
+ - [Theater&#39;s Accidental Little Mermaid + Transformers Trailer Mashup Rules, Actually](https://kotaku.com/the-little-mermaid-transformers-beasts-trailers-mash-up-1850410244)
+ - [Activision isn&#39;t sure how long the Overwatch League and CoD League will last, says efforts to address challenges &#39;may prove unsuccessful&#39;](https://www.pcgamer.com/activision-isnt-sure-how-long-the-overwatch-league-and-cod-league-will-last-says-efforts-to-address-challenges-may-prove-unsuccessful)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
