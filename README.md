@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honkai: Star Rail – What are Light Cones and how do they work?](https://www.androidauthority.com/honkai-star-rail-light-cones-3319666/)
- - [How to Watch the Coronation of King Charles III Live](https://www.wired.com/story/how-to-watch-coronation-king-charles-iii/)
- - [The Pixel Watch 2 could launch along with the Pixel 8 series](https://www.androidauthority.com/pixel-watch-2-3321073/)<!-- TECH:END -->
+ - [Honkai: Star Rail – What are Traces and how do they work?](https://www.androidauthority.com/honkai-star-rail-traces-3319680/)
+ - [Sources: the US DOJ is investigating if Binance was used to let Russians skirt US sanctions, alongside a probe into its alleged use to evade sanctions on Iran &lpar;Chris Strohm/Bloomberg&rpar;](http://www.techmeme.com/230505/p12#a230505p12)
+ - [Out of the ~150K early Twitter Blue subscribers in November 2022, just ~68,157 were still subscribed on April 30, meaning Blue has an abnormally high churn rate &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/230505/p11#a230505p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
