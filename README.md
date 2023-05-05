@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Long Covid Mystery Has a New Suspect](https://www.wired.com/story/long-covid-breathlessness-monocytes-symptoms/)
- - [Review of $250 JBL Tour Pro 2 wireless earbuds with a touchscreen on the case, offering access to earbud settings along with extras like timers and a flashlight &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230505/p5#a230505p5)
- - [Six months later, the iPhone 14 Pro is everything I love and hate about phones](https://www.theverge.com/2023/5/5/23711698/iphone-14-pro-dynamic-island-live-activities-always-on-display)<!-- TECH:END -->
+ - [Microsoft Teams is getting animated backgrounds for your meetings](https://www.theverge.com/2023/5/5/23711207/microsoft-teams-dynamic-animated-backgrounds-feature)
+ - [Congress is flooded with bills for childproofing the internet](https://www.theverge.com/2023/5/5/23712443/kosa-earn-it-coppa-child-privacy-data-tiktok-blackburn-blumenthal)
+ - [Smartphone shipments declined by 14% YoY and 7% QoQ globally to reach 280.2M units in Q1 2023; Apple&#39;s YoY decline was the smallest of the top five brands &lpar;Harmeet Singh Walia/Counterpoint Research&rpar;](http://www.techmeme.com/230505/p6#a230505p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
