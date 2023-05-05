@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The thicc and the trained](http://9gag.com/gag/a4o52O6)
- - 🚯 [How they see us.](http://9gag.com/gag/a7qVAeA)
- - 🚯 [Bravo](http://9gag.com/gag/aBdP4yN)<!-- MEMES:END -->
+ - 🚖 [The dog&#39;s safe, all that matters.](http://9gag.com/gag/amAmMy4)
+ - 🚯 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
+ - 🚯 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)<!-- MEMES:END -->
 
 --- 
 
