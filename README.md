@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oi mate!](http://9gag.com/gag/aNwVRYA)
- - 🚯 [Run](http://9gag.com/gag/amAmMgd)
- - 🚯 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)<!-- MEMES:END -->
+ - 🚖 [1v2 clutch](http://9gag.com/gag/aXn4RZb)
+ - 🚯 [Oi mate!](http://9gag.com/gag/aNwVRYA)
+ - 🚯 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)<!-- MEMES:END -->
 
 --- 
 
