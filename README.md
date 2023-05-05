@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The dog&#39;s safe, all that matters.](http://9gag.com/gag/amAmMy4)
- - 🚯 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
- - 🚯 [To go after the baby&#39;s buggy](http://9gag.com/gag/a04617d)<!-- MEMES:END -->
+ - 🚖 [Oi mate!](http://9gag.com/gag/aNwVRYA)
+ - 🚯 [Run](http://9gag.com/gag/amAmMgd)
+ - 🚯 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)<!-- MEMES:END -->
 
 --- 
 
