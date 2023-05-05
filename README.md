@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marissa Mayer figures Yahoo could’ve done better buying Netflix instead of Tumblr](https://www.theverge.com/2023/5/5/23712973/yahoo-tumblr-netflix-hulu-ceo-marissa-mayer)
- - [Honkai: Star Rail – What are Eidolons and how do they work?](https://www.androidauthority.com/honkai-star-rail-eidolons-3319681/)
- - [Amazon is working on AI tools to generate photos and videos for merchants&#39; ad campaigns on its platform, as the company seeks to build a broader ad business &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/230505/p13#a230505p13)<!-- TECH:END -->
+ - [Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Brydge, an iPad, Mac, and Surface accessory maker, is shutting down; sources: Brydge has neither paid its staff salaries nor fulfilled orders since January 2023 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230505/p14#a230505p14)
+ - [How to use a passkey to sign into your Google account](https://www.theverge.com/23712758/google-passkey-password-2fa-security-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
