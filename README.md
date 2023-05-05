@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just because the monitor shows one security camera at a time...doesn\u2019t mean they aren\u2019t all recording.](http://9gag.com/gag/aZDQz56)
- - 🚯 [Run](http://9gag.com/gag/amAmMgd)
- - 🚯 [Even though I say that a core i3 is much faster these days, many customers choose the old core i7](http://9gag.com/gag/ago8xpr)<!-- MEMES:END -->
+ - 🚖 [Yes, this is faster](http://9gag.com/gag/ay2WY5p)
+ - 🚯 [Bravo](http://9gag.com/gag/aBdP4yN)
+ - 🚯 [1v2 clutch](http://9gag.com/gag/aXn4RZb)<!-- MEMES:END -->
 
 --- 
 
