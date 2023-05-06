@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How they see us.](http://9gag.com/gag/a7qVAeA)
- - 🚯 [You don&#39;t wanna know](http://9gag.com/gag/axobn7Y)
- - 🚯 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)<!-- MEMES:END -->
+ - 🚖 [The real ilpt](http://9gag.com/gag/a4o5rA6)
+ - 🚯 [Lol](http://9gag.com/gag/aL1GOjW)
+ - 🚯 [Wokeness will be the reason Skynet will happen!](http://9gag.com/gag/aA04Nod)<!-- MEMES:END -->
 
 --- 
 
