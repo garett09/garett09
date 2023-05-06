@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord says it will let &quot;high-visibility users&quot; secure usernames to minimize the risk of impersonation, as some users criticize its plans to change usernames &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230506/p9#a230506p9)
- - [Apple TV+&#39;s &#39;Loot&#39; second season production stalls over writer&#39;s strike](https://appleinsider.com/articles/23/05/06/apple-tvs-loot-second-season-production-stalls-over-writers-strike?utm_medium=rss)
- - [Watch Premier League Soccer: Livestream Liverpool vs. Brentford From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-premier-league-soccer-livestream-liverpool-vs-brentford-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s third-gen AirPods have fallen to their best of the year](https://www.theverge.com/2023/5/6/23711876/apple-airpods-third-gen-playstation-plus-google-pixel-buds-pro-earbuds-deal-sale)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-483-3320611/)
+ - [Apple Watch calls 911 for woman suffering from widowmaker heart attack](https://appleinsider.com/articles/23/05/06/apple-watch-calls-911-for-woman-suffering-from-widowmaker-heart-attack?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
