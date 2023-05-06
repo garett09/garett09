@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best movies new to streaming on Netflix, HBO Max, Prime Video, and Hulu &lpar;May 2023&rpar;](https://www.polygon.com/what-to-watch/2023/5/6/23706747/best-new-movies-netflix-amazon-prime-hbo-hulu-may-2023)
  - [The affordable BattleTech Essentials starter set is coming to Target](https://www.polygon.com/deals/23711233/battletech-essentials-tabletop-starter-set-target-pre-order)
- - [Today&#39;s Wordle hint and answer #686: Saturday, May 6](https://www.pcgamer.com/wordle-today-hint-answer-686-may-6)
- - [A Fallout co-creator has been revealing heater after heater of never-before-seen RPG history on YouTube, including an early Lord of the Rings RPG demo](https://www.pcgamer.com/a-fallout-co-creator-has-been-revealing-heater-after-heater-of-never-before-seen-rpg-history-on-youtube-including-an-early-lord-of-the-rings-rpg-demo)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #686: Saturday, May 6](https://www.pcgamer.com/wordle-today-hint-answer-686-may-6)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
