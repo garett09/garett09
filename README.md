@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This madcap five buck microshooter just got a surprise free content update](https://www.pcgamer.com/this-madcap-five-buck-microshooter-just-got-a-surprise-free-content-update)
  - [What do you use those extra buttons on the side of your mouse for?](https://www.pcgamer.com/what-do-you-use-those-extra-buttons-on-the-side-of-your-mouse-for)
- - [Kabuto Sumo brings wrestling thrills to tabletop gaming](https://www.polygon.com/videos/23712367/kabuto-sumo-wrestling-boardgame-jenga-overboard)
- - [Everything the robot is saying in Unicorn: Warriors Eternal can be translated](https://www.polygon.com/23712677/copernicus-unicorn-warriors-eternal-robot-explainer)<!-- GAME:END -->
+ - [Kabuto Sumo brings wrestling thrills to tabletop gaming](https://www.polygon.com/videos/23712367/kabuto-sumo-wrestling-boardgame-jenga-overboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
