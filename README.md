@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Power of a Prince Rupert&#39;s Drop](http://9gag.com/gag/aVbmBzy)
- - 🚯 [Is it possible to learn this power](http://9gag.com/gag/a8qDX91)
- - 🚯 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)<!-- MEMES:END -->
+ - 🚖 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)
+ - 🚯 [How they see us.](http://9gag.com/gag/a7qVAeA)
+ - 🚯 [1000 ways to die](http://9gag.com/gag/aBdPjgZ)<!-- MEMES:END -->
 
 --- 
 
