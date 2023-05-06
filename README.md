@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I love the Pixel 7 Pro, but I left it for Samsung’s Galaxy S23 Ultra](https://www.androidauthority.com/left-pixel-7-pro-for-galaxy-s23-ultra-3318454/)
- - [AI text generators are quietly authoring more of the internet; more AI-generated books and personalized articles mean fewer clients buying human-written content &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/230506/p8#a230506p8)
- - [32 Best Mother&#39;s Day Gifts to Spoil Mom in 2023     - CNET](https://www.cnet.com/news/best-mothers-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Discord says it will let &quot;high-visibility users&quot; secure usernames to minimize the risk of impersonation, as some users criticize its plans to change usernames &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/230506/p9#a230506p9)
+ - [Apple TV+&#39;s &#39;Loot&#39; second season production stalls over writer&#39;s strike](https://appleinsider.com/articles/23/05/06/apple-tvs-loot-second-season-production-stalls-over-writers-strike?utm_medium=rss)
+ - [Watch Premier League Soccer: Livestream Liverpool vs. Brentford From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-premier-league-soccer-livestream-liverpool-vs-brentford-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
