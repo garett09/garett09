@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Last call: Pre-order Zelda: Tears of the Kingdom before it debuts next Friday](https://www.polygon.com/deals/23712387/best-gaming-deals-pre-order-legend-zelda-tears-kingdom-botw-2)
  - [The best movies new to streaming on Netflix, HBO Max, Prime Video, and Hulu &lpar;May 2023&rpar;](https://www.polygon.com/what-to-watch/2023/5/6/23706747/best-new-movies-netflix-amazon-prime-hbo-hulu-may-2023)
- - [The affordable BattleTech Essentials starter set is coming to Target](https://www.polygon.com/deals/23711233/battletech-essentials-tabletop-starter-set-target-pre-order)
- - [Today&#39;s Wordle hint and answer #686: Saturday, May 6](https://www.pcgamer.com/wordle-today-hint-answer-686-may-6)<!-- GAME:END -->
+ - [The affordable BattleTech Essentials starter set is coming to Target](https://www.polygon.com/deals/23711233/battletech-essentials-tabletop-starter-set-target-pre-order)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
