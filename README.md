@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This fantasy author can&#39;t stop making mods for the 21-year-old D&amp;D videogame that first disappointed him, and then &#39;helped shape&#39; his life](https://www.pcgamer.com/this-fantasy-author-cant-stop-making-mods-for-the-21-year-old-dandd-videogame-that-first-disappointed-him-and-then-helped-shape-his-life)
- - [Blizzard locked a new World of Warcraft behind an old World of Warcraft item, and now players are price-gouging each other to get it](https://www.pcgamer.com/blizzard-locked-a-new-world-of-warcraft-behind-an-old-world-of-warcraft-item-and-now-players-are-price-gouging-each-other-to-get-it)
- - [The Dungeons &amp; Dragons movie, A Man Called Otto on Netflix, and every other new movie to watch at home this week](https://www.polygon.com/2023/5/5/23706721/new-movies-watch-dungeons-and-dragons-d-and-d-movie-netflix-man-called-otto-how-to-blow-up-pipeline)<!-- GAME:END -->
+ - [A Fallout co-creator has been revealing heater after heater of never-before-seen RPG history on YouTube, including an early Lord of the Rings RPG demo](https://www.pcgamer.com/a-fallout-co-creator-has-been-revealing-heater-after-heater-of-never-before-seen-rpg-history-on-youtube-including-an-early-lord-of-the-rings-rpg-demo)
+ - [Olympic esports tournament adds Fortnite, but not any Fortnite mode you&#39;ve seen before](https://www.pcgamer.com/olympic-esports-tournament-adds-fortnite-but-not-any-fortnite-mode-youve-seen-before)
+ - [This fantasy author can&#39;t stop making mods for the 21-year-old D&amp;D videogame that first disappointed him, and then &#39;helped shape&#39; his life](https://www.pcgamer.com/this-fantasy-author-cant-stop-making-mods-for-the-21-year-old-dandd-videogame-that-first-disappointed-him-and-then-helped-shape-his-life)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
