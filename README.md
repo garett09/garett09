@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian ‘Ghost Ships’ Identified Near the Nord Stream Blasts](https://www.wired.com/story/russian-ghost-ships-nord-stream-blast/)
- - [Discord’s username change is causing discord](https://www.theverge.com/2023/5/6/23711332/discord-username-changes-community-backlash-handles)
- - [No More Passwords: How to Sign In to Your Google Account Using a Passkey     - CNET](https://www.cnet.com/tech/services-and-software/no-more-passwords-how-to-sign-in-to-your-google-account-using-a-passkey/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I love the Pixel 7 Pro, but I left it for Samsung’s Galaxy S23 Ultra](https://www.androidauthority.com/left-pixel-7-pro-for-galaxy-s23-ultra-3318454/)
+ - [AI text generators are quietly authoring more of the internet; more AI-generated books and personalized articles mean fewer clients buying human-written content &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/230506/p8#a230506p8)
+ - [32 Best Mother&#39;s Day Gifts to Spoil Mom in 2023     - CNET](https://www.cnet.com/news/best-mothers-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
