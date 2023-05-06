@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1v2 clutch](http://9gag.com/gag/aXn4RZb)
- - 🚯 [How they see us.](http://9gag.com/gag/a7qVAeA)
- - 🚯 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)<!-- MEMES:END -->
+ - 🚖 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)
+ - 🚯 [Bravo](http://9gag.com/gag/aBdP4yN)
+ - 🚯 [You don&#39;t wanna know](http://9gag.com/gag/axobn7Y)<!-- MEMES:END -->
 
 --- 
 
