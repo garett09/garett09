@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Brydge, an iPad, Mac, and Surface accessory maker, is shutting down; sources: Brydge has neither paid its staff salaries nor fulfilled orders since January 2023 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230505/p14#a230505p14)
- - [How to use a passkey to sign into your Google account](https://www.theverge.com/23712758/google-passkey-password-2fa-security-how-to)<!-- TECH:END -->
+ - [Slash, a Gen Z-focused neobank, raised $19M in seed and Series A funding from investors including NEA, Menlo Ventures, Connect Ventures, and Y Combinator &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230505/p16#a230505p16)
+ - [Please stop inviting heads of state to Bluesky](https://www.theverge.com/2023/5/5/23713232/bluesky-no-presidents-no-kings-policy)
+ - [Amazon&#39;s Latest AI Acquisition Is for Podcasts on Amazon Music     - CNET](https://www.cnet.com/tech/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
