@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky says it can&#39;t &quot;accommodate heads of state&quot; as it seeks to control growth during its beta; Bluesky currently has ~60K users and a waitlist of 1.2M people &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230506/p10#a230506p10)
- - [Ecovacs Deebot T9+ Review: Smells Sweet](https://www.wired.com/review/ecovacs-deebot-t9/)
- - [The Legend of Zelda: Tears of the Kingdom preorder guide](https://www.theverge.com/23700602/zelda-tears-of-the-kingdom-preorder-guide-how-to-free-merch-deal)<!-- TECH:END -->
+ - [I’m never investing in Google’s smart home ecosystem again](https://www.androidauthority.com/google-smart-home-3319869/)
+ - [Clckr&#39;s Stand &amp; Grip review: promising, but requires more fortifications](https://appleinsider.com/articles/23/05/06/clckrs-stand-grip-review-promising-but-requires-more-fortifications?utm_medium=rss)
+ - [Bluesky says it can&#39;t &quot;accommodate heads of state&quot; as it seeks to control growth during its beta; Bluesky currently has ~60K users and a waitlist of 1.2M people &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230506/p10#a230506p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
