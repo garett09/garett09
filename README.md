@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s third-gen AirPods have fallen to their best of the year](https://www.theverge.com/2023/5/6/23711876/apple-airpods-third-gen-playstation-plus-google-pixel-buds-pro-earbuds-deal-sale)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-483-3320611/)
- - [Apple Watch calls 911 for woman suffering from widowmaker heart attack](https://appleinsider.com/articles/23/05/06/apple-watch-calls-911-for-woman-suffering-from-widowmaker-heart-attack?utm_medium=rss)<!-- TECH:END -->
+ - [Bluesky says it can&#39;t &quot;accommodate heads of state&quot; as it seeks to control growth during its beta; Bluesky currently has ~60K users and a waitlist of 1.2M people &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230506/p10#a230506p10)
+ - [Ecovacs Deebot T9+ Review: Smells Sweet](https://www.wired.com/review/ecovacs-deebot-t9/)
+ - [The Legend of Zelda: Tears of the Kingdom preorder guide](https://www.theverge.com/23700602/zelda-tears-of-the-kingdom-preorder-guide-how-to-free-merch-deal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
