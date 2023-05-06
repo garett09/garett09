@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your country has way to many people](http://9gag.com/gag/armZ0m0)
- - 🚯 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
- - 🚯 [Cute couple activities](http://9gag.com/gag/a046x2O)<!-- MEMES:END -->
+ - 🚖 [1000 ways to die](http://9gag.com/gag/aBdPjgZ)
+ - 🚯 [Good to see the Grim Reaper was invited to the coronation](http://9gag.com/gag/a9q8eOZ)
+ - 🚯 [Not as expected..](http://9gag.com/gag/a5XGAqr)<!-- MEMES:END -->
 
 --- 
 
