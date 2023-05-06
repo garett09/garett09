@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1000 ways to die](http://9gag.com/gag/aBdPjgZ)
- - 🚯 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
+ - 🚖 [Is it possible to learn this power](http://9gag.com/gag/a8qDX91)
+ - 🚯 [Proud dad moment](http://9gag.com/gag/aVbmBwK)
  - 🚯 [Truly hurtful](http://9gag.com/gag/aVbm4D8)<!-- MEMES:END -->
 
 --- 
