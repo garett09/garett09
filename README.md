@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An in-depth look at the regulatory risks for OpenAI under GDPR, including questions around future data scraping and handling &quot;right to be forgotten&quot; requests &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230506/p11#a230506p11)
  - [I’m never investing in Google’s smart home ecosystem again](https://www.androidauthority.com/google-smart-home-3319869/)
- - [Clckr&#39;s Stand &amp; Grip review: promising, but requires more fortifications](https://appleinsider.com/articles/23/05/06/clckrs-stand-grip-review-promising-but-requires-more-fortifications?utm_medium=rss)
- - [Bluesky says it can&#39;t &quot;accommodate heads of state&quot; as it seeks to control growth during its beta; Bluesky currently has ~60K users and a waitlist of 1.2M people &lpar;Kylie Robison/Fortune&rpar;](http://www.techmeme.com/230506/p10#a230506p10)<!-- TECH:END -->
+ - [Clckr&#39;s Stand &amp; Grip review: promising, but requires more fortifications](https://appleinsider.com/articles/23/05/06/clckrs-stand-grip-review-promising-but-requires-more-fortifications?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
