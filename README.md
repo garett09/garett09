@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best MagSafe wallets for your iPhone in 2023](https://appleinsider.com/inside/iphone/best/best-magsafe-wallet?utm_medium=rss)
- - [Scammers appear to be hacking verified Meta accounts to impersonate the company and run Facebook ads asking users to download shady tools likely with malware &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230506/p12#a230506p12)
- - [An in-depth look at the regulatory risks for OpenAI under GDPR, including questions around future data scraping and handling &quot;right to be forgotten&quot; requests &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230506/p11#a230506p11)<!-- TECH:END -->
+ - [Acefast Fast Charge Power Bank M2 review: Bigger design with a heftier price tag](https://appleinsider.com/articles/23/05/06/acefast-fast-charge-power-bank-m2-review-bigger-design-with-a-heftier-price-tag?utm_medium=rss)
+ - [The International Olympic Committee adds Fortnite to its Olympic Esports Series competition, which will also feature Just Dance and Gran Turismo &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/230506/p13#a230506p13)
+ - [Best MagSafe wallets for your iPhone in 2023](https://appleinsider.com/inside/iphone/best/best-magsafe-wallet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
