@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Paralyzed neck down and doctors said `you&#39;ll never walk again`](http://9gag.com/gag/a1P586Y)
- - 🚯 [Leeeeroyyyy jenkinssss](http://9gag.com/gag/aXn43xV)
- - 🚯 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)<!-- MEMES:END -->
+ - 🚖 [You&#39;re Fac-!](http://9gag.com/gag/ago8dwq)
+ - 🚯 [You don&#39;t wanna know](http://9gag.com/gag/axobn7Y)
+ - 🚯 [Cute couple activities](http://9gag.com/gag/a046x2O)<!-- MEMES:END -->
 
 --- 
 
