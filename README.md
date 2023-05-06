@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Power of a Prince Rupert&#39;s Drop](http://9gag.com/gag/aVbmBzy)
+ - 🚖 [How they see us.](http://9gag.com/gag/a7qVAeA)
  - 🚯 [You don&#39;t wanna know](http://9gag.com/gag/axobn7Y)
- - 🚯 [1v2 clutch](http://9gag.com/gag/aXn4RZb)<!-- MEMES:END -->
+ - 🚯 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)<!-- MEMES:END -->
 
 --- 
 
