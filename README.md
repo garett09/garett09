@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #686: Saturday, May 6](https://www.pcgamer.com/wordle-today-hint-answer-686-may-6)
  - [A Fallout co-creator has been revealing heater after heater of never-before-seen RPG history on YouTube, including an early Lord of the Rings RPG demo](https://www.pcgamer.com/a-fallout-co-creator-has-been-revealing-heater-after-heater-of-never-before-seen-rpg-history-on-youtube-including-an-early-lord-of-the-rings-rpg-demo)
- - [Olympic esports tournament adds Fortnite, but not any Fortnite mode you&#39;ve seen before](https://www.pcgamer.com/olympic-esports-tournament-adds-fortnite-but-not-any-fortnite-mode-youve-seen-before)
- - [This fantasy author can&#39;t stop making mods for the 21-year-old D&amp;D videogame that first disappointed him, and then &#39;helped shape&#39; his life](https://www.pcgamer.com/this-fantasy-author-cant-stop-making-mods-for-the-21-year-old-dandd-videogame-that-first-disappointed-him-and-then-helped-shape-his-life)<!-- GAME:END -->
+ - [Olympic esports tournament adds Fortnite, but not any Fortnite mode you&#39;ve seen before](https://www.pcgamer.com/olympic-esports-tournament-adds-fortnite-but-not-any-fortnite-mode-youve-seen-before)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
