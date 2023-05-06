@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you add an extra scoop of pigeon on a pigeon](http://9gag.com/gag/avQEDWW)
- - 🚯 [Nigerian pastor ascending to heaven and leaving his followers behind.](http://9gag.com/gag/a046OqX)
- - 🚯 [The 90s were similar times I guess, where you can do whatever the f*CK you wanted.](http://9gag.com/gag/aWGvP3A)<!-- MEMES:END -->
+ - 🚖 [The Power of a Prince Rupert&#39;s Drop](http://9gag.com/gag/aVbmBzy)
+ - 🚯 [Is it possible to learn this power](http://9gag.com/gag/a8qDX91)
+ - 🚯 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)<!-- MEMES:END -->
 
 --- 
 
