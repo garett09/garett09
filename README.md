@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A journalist recounts discovering that ByteDance surveilled her in 2022 after reporting on TikTok&#39;s staff troubles in London and wonders why she was targeted &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230506/p7#a230506p7)
- - [VanMoof S5 e-bike review: nice but twice the price](https://www.theverge.com/2023/5/6/23713457/vanmoof-s5-electric-bike-review-price-specs-date)
- - [Q&amp;A with Vint Cerf, chief internet evangelist at Google and recipient of IEEE&#39;s Medal of Honor, on how Google has changed since 2005, the hazards of LLMs, more &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230506/p6#a230506p6)<!-- TECH:END -->
+ - [13 Best Vacuums: Carpets, Hardwood and More](https://www.wired.com/story/weekend-deals-may-6-2023/)
+ - [All Hail Charles, the Unmemeable King](https://www.wired.com/story/coronation-king-charles-iii-memes/)
+ - [Japanese Game Studios Are Taking Accessibility to the Next Level](https://www.wired.com/story/japan-game-studios-accessibility/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
