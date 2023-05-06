@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Vacuums: Carpets, Hardwood and More](https://www.wired.com/story/weekend-deals-may-6-2023/)
- - [All Hail Charles, the Unmemeable King](https://www.wired.com/story/coronation-king-charles-iii-memes/)
- - [Japanese Game Studios Are Taking Accessibility to the Next Level](https://www.wired.com/story/japan-game-studios-accessibility/)<!-- TECH:END -->
+ - [Idris Elba&#39;s &#39;Hijack&#39; airplane thriller premieres June 28 on Apple TV+](https://appleinsider.com/articles/23/05/05/idris-elbas-hijack-airplane-thriller-premieres-june-28-on-apple-tv?utm_medium=rss)
+ - [At Last, ‘Ugly’ Sea Lampreys Are Getting Some Respect](https://www.wired.com/story/at-last-ugly-sea-lampreys-are-getting-some-respect/)
+ - [How Steve Jobs saved Apple with the iMac 25 years ago](https://appleinsider.com/articles/23/05/06/how-steve-jobs-saved-apple-with-the-imac-25-years-ago?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
