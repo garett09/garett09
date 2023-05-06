@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not as expected..](http://9gag.com/gag/a5XGAqr)
- - 🚯 [They have a f**king cave troll](http://9gag.com/gag/aeQVq9b)
- - 🚯 [When your country has way to many people](http://9gag.com/gag/armZ0m0)<!-- MEMES:END -->
+ - 🚖 [The Power of a Prince Rupert&#39;s Drop](http://9gag.com/gag/aVbmBzy)
+ - 🚯 [When your country has way to many people](http://9gag.com/gag/armZ0m0)
+ - 🚯 [Cute couple activities](http://9gag.com/gag/a046x2O)<!-- MEMES:END -->
 
 --- 
 
