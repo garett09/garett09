@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)
- - 🚯 [Bravo](http://9gag.com/gag/aBdP4yN)
- - 🚯 [You don&#39;t wanna know](http://9gag.com/gag/axobn7Y)<!-- MEMES:END -->
+ - 🚖 [Nigerian pastor ascending to heaven and leaving his followers behind.](http://9gag.com/gag/a046OqX)
+ - 🚯 [You don&#39;t wanna know](http://9gag.com/gag/axobn7Y)
+ - 🚯 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)<!-- MEMES:END -->
 
 --- 
 
