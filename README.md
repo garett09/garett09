@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you add an extra scoop of pigeon on a pigeon](http://9gag.com/gag/avQEDWW)
- - 🚯 [1000 ways to die](http://9gag.com/gag/aBdPjgZ)
- - 🚯 [Cute couple activities](http://9gag.com/gag/a046x2O)<!-- MEMES:END -->
+ - 🚖 [Paralyzed neck down and doctors said `you&#39;ll never walk again`](http://9gag.com/gag/a1P586Y)
+ - 🚯 [Leeeeroyyyy jenkinssss](http://9gag.com/gag/aXn43xV)
+ - 🚯 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)<!-- MEMES:END -->
 
 --- 
 
