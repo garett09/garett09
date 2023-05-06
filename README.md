@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The real ilpt](http://9gag.com/gag/a4o5rA6)
- - 🚯 [Lol](http://9gag.com/gag/aL1GOjW)
- - 🚯 [Wokeness will be the reason Skynet will happen!](http://9gag.com/gag/aA04Nod)<!-- MEMES:END -->
+ - 🚖 [When your country has way to many people](http://9gag.com/gag/armZ0m0)
+ - 🚯 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
+ - 🚯 [Make the way for the king peasants](http://9gag.com/gag/aGEM6Bw)<!-- MEMES:END -->
 
 --- 
 
