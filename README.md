@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your country has way to many people](http://9gag.com/gag/armZ0m0)
- - 🚯 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
- - 🚯 [Make the way for the king peasants](http://9gag.com/gag/aGEM6Bw)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s drop 675lbs and hope for the best](http://9gag.com/gag/aoK4D4X)
+ - 🚯 [The Power of a Prince Rupert&#39;s Drop](http://9gag.com/gag/aVbmBzy)
+ - 🚯 [Truly hurtful](http://9gag.com/gag/aVbm4D8)<!-- MEMES:END -->
 
 --- 
 
