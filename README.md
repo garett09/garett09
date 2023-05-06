@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best MagSafe wallets for your iPhone in 2023](https://appleinsider.com/inside/iphone/best/best-magsafe-wallet?utm_medium=rss)
  - [Scammers appear to be hacking verified Meta accounts to impersonate the company and run Facebook ads asking users to download shady tools likely with malware &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230506/p12#a230506p12)
- - [An in-depth look at the regulatory risks for OpenAI under GDPR, including questions around future data scraping and handling &quot;right to be forgotten&quot; requests &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230506/p11#a230506p11)
- - [I’m never investing in Google’s smart home ecosystem again](https://www.androidauthority.com/google-smart-home-3319869/)<!-- TECH:END -->
+ - [An in-depth look at the regulatory risks for OpenAI under GDPR, including questions around future data scraping and handling &quot;right to be forgotten&quot; requests &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230506/p11#a230506p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
