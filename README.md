@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Idris Elba&#39;s &#39;Hijack&#39; airplane thriller premieres June 28 on Apple TV+](https://appleinsider.com/articles/23/05/05/idris-elbas-hijack-airplane-thriller-premieres-june-28-on-apple-tv?utm_medium=rss)
- - [At Last, ‘Ugly’ Sea Lampreys Are Getting Some Respect](https://www.wired.com/story/at-last-ugly-sea-lampreys-are-getting-some-respect/)
- - [How Steve Jobs saved Apple with the iMac 25 years ago](https://appleinsider.com/articles/23/05/06/how-steve-jobs-saved-apple-with-the-imac-25-years-ago?utm_medium=rss)<!-- TECH:END -->
+ - [Russian ‘Ghost Ships’ Identified Near the Nord Stream Blasts](https://www.wired.com/story/russian-ghost-ships-nord-stream-blast/)
+ - [Discord’s username change is causing discord](https://www.theverge.com/2023/5/6/23711332/discord-username-changes-community-backlash-handles)
+ - [No More Passwords: How to Sign In to Your Google Account Using a Passkey     - CNET](https://www.cnet.com/tech/services-and-software/no-more-passwords-how-to-sign-in-to-your-google-account-using-a-passkey/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
