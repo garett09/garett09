@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
- - 🚯 [The 90s were similar times I guess, where you can do whatever the f*CK you wanted.](http://9gag.com/gag/aWGvP3A)
+ - 🚖 [When your country has way to many people](http://9gag.com/gag/armZ0m0)
+ - 🚯 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
  - 🚯 [Cute couple activities](http://9gag.com/gag/a046x2O)<!-- MEMES:END -->
 
 --- 
