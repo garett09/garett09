@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is it possible to learn this power](http://9gag.com/gag/a8qDX91)
- - 🚯 [Proud dad moment](http://9gag.com/gag/aVbmBwK)
- - 🚯 [Truly hurtful](http://9gag.com/gag/aVbm4D8)<!-- MEMES:END -->
+ - 🚖 [To compare a documentary to a fictional movie](http://9gag.com/gag/aWGvPmq)
+ - 🚯 [The 90s were similar times I guess, where you can do whatever the f*CK you wanted.](http://9gag.com/gag/aWGvP3A)
+ - 🚯 [Yes, this is faster](http://9gag.com/gag/ay2WY5p)<!-- MEMES:END -->
 
 --- 
 
