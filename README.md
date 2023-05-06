@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To compare a documentary to a fictional movie](http://9gag.com/gag/aWGvPmq)
- - 🚯 [The 90s were similar times I guess, where you can do whatever the f*CK you wanted.](http://9gag.com/gag/aWGvP3A)
- - 🚯 [Yes, this is faster](http://9gag.com/gag/ay2WY5p)<!-- MEMES:END -->
+ - 🚖 [The 90s were similar times I guess, where you can do whatever the f*CK you wanted.](http://9gag.com/gag/aWGvP3A)
+ - 🚯 [To compare a documentary to a fictional movie](http://9gag.com/gag/aWGvPmq)
+ - 🚯 [Make the way for the king peasants](http://9gag.com/gag/aGEM6Bw)<!-- MEMES:END -->
 
 --- 
 
