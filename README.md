@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything the robot is saying in Unicorn: Warriors Eternal can be translated](https://www.polygon.com/23712677/copernicus-unicorn-warriors-eternal-robot-explainer)
- - [Marvel has been smart and careful with Adam Warlock, Guardians 3’s sleeper superhero](https://www.polygon.com/23713018/adam-warlock-future-mcu-movies-guardians-of-the-galaxy-vol-3)
- - [Last call: Pre-order Zelda: Tears of the Kingdom before it debuts next Friday](https://www.polygon.com/deals/23712387/best-gaming-deals-pre-order-legend-zelda-tears-kingdom-botw-2)<!-- GAME:END -->
+ - [What do you use those extra buttons on the side of your mouse for?](https://www.pcgamer.com/what-do-you-use-those-extra-buttons-on-the-side-of-your-mouse-for)
+ - [Kabuto Sumo brings wrestling thrills to tabletop gaming](https://www.polygon.com/videos/23712367/kabuto-sumo-wrestling-boardgame-jenga-overboard)
+ - [Everything the robot is saying in Unicorn: Warriors Eternal can be translated](https://www.polygon.com/23712677/copernicus-unicorn-warriors-eternal-robot-explainer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
