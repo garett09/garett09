@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slash, a Gen Z-focused neobank, raised $19M in seed and Series A funding from investors including NEA, Menlo Ventures, Connect Ventures, and Y Combinator &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230505/p16#a230505p16)
- - [Please stop inviting heads of state to Bluesky](https://www.theverge.com/2023/5/5/23713232/bluesky-no-presidents-no-kings-policy)
- - [Amazon&#39;s Latest AI Acquisition Is for Podcasts on Amazon Music     - CNET](https://www.cnet.com/tech/amazons-latest-ai-acquisition-is-for-podcasts-on-amazon-music/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Documents: Google plans to make search more &quot;visual, snackable, personal, and human&quot;, incorporating short videos, social media posts, and conversations with AI &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230506/p3#a230506p3)
+ - [Ex-staff say TikTok had a list, accessible internally via a dashboard, of users watching LGBTQ content; TikTok says it deleted the dashboard in the US in 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230506/p2#a230506p2)
+ - [An Idaho federal judge dismissed an FTC lawsuit against location data broker Kochava, saying the agency had not provided adequate evidence to show consumer harm &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230506/p1#a230506p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
