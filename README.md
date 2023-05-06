@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam&#39;s search bar just got a lot better](https://www.pcgamer.com/steams-search-bar-just-got-a-lot-better)
  - [This madcap five buck microshooter just got a surprise free content update](https://www.pcgamer.com/this-madcap-five-buck-microshooter-just-got-a-surprise-free-content-update)
- - [What do you use those extra buttons on the side of your mouse for?](https://www.pcgamer.com/what-do-you-use-those-extra-buttons-on-the-side-of-your-mouse-for)
- - [Kabuto Sumo brings wrestling thrills to tabletop gaming](https://www.polygon.com/videos/23712367/kabuto-sumo-wrestling-boardgame-jenga-overboard)<!-- GAME:END -->
+ - [What do you use those extra buttons on the side of your mouse for?](https://www.pcgamer.com/what-do-you-use-those-extra-buttons-on-the-side-of-your-mouse-for)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
