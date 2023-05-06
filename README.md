@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s search bar just got a lot better](https://www.pcgamer.com/steams-search-bar-just-got-a-lot-better)
- - [This madcap five buck microshooter just got a surprise free content update](https://www.pcgamer.com/this-madcap-five-buck-microshooter-just-got-a-surprise-free-content-update)
- - [What do you use those extra buttons on the side of your mouse for?](https://www.pcgamer.com/what-do-you-use-those-extra-buttons-on-the-side-of-your-mouse-for)<!-- GAME:END -->
+ - [An Englishman plays American Revolution sim Liberty or Death](https://www.pcgamer.com/saturday-crapshoot-liberty-or-death)
+ - [Magic: The Gathering Arena is finally coming to Steam this month](https://www.pcgamer.com/magic-the-gathering-arena-is-finally-coming-to-steam-this-month)
+ - [You get one guess as to what this FPS called KILLBUG is about](https://www.pcgamer.com/you-get-one-guess-as-to-what-this-fps-called-killbug-is-about)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
