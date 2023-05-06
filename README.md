@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)
- - 🚯 [Mario is comming!](http://9gag.com/gag/a4o5B6A)
- - 🚯 [Nigerian pastor ascending to heaven and leaving his followers behind.](http://9gag.com/gag/a046OqX)<!-- MEMES:END -->
+ - 🚖 [1v2 clutch](http://9gag.com/gag/aXn4RZb)
+ - 🚯 [How they see us.](http://9gag.com/gag/a7qVAeA)
+ - 🚯 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)<!-- MEMES:END -->
 
 --- 
 
