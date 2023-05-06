@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&#39;re Fac-!](http://9gag.com/gag/ago8dwq)
- - 🚯 [You don&#39;t wanna know](http://9gag.com/gag/axobn7Y)
+ - 🚖 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
+ - 🚯 [The 90s were similar times I guess, where you can do whatever the f*CK you wanted.](http://9gag.com/gag/aWGvP3A)
  - 🚯 [Cute couple activities](http://9gag.com/gag/a046x2O)<!-- MEMES:END -->
 
 --- 
