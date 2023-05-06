@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The 90s were similar times I guess, where you can do whatever the f*CK you wanted.](http://9gag.com/gag/aWGvP3A)
- - 🚯 [To compare a documentary to a fictional movie](http://9gag.com/gag/aWGvPmq)
- - 🚯 [Make the way for the king peasants](http://9gag.com/gag/aGEM6Bw)<!-- MEMES:END -->
+ - 🚖 [When you add an extra scoop of pigeon on a pigeon](http://9gag.com/gag/avQEDWW)
+ - 🚯 [Nigerian pastor ascending to heaven and leaving his followers behind.](http://9gag.com/gag/a046OqX)
+ - 🚯 [The 90s were similar times I guess, where you can do whatever the f*CK you wanted.](http://9gag.com/gag/aWGvP3A)<!-- MEMES:END -->
 
 --- 
 
