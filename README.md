@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Marvel has been smart and careful with Adam Warlock, Guardians 3’s sleeper superhero](https://www.polygon.com/23713018/adam-warlock-future-mcu-movies-guardians-of-the-galaxy-vol-3)
  - [Last call: Pre-order Zelda: Tears of the Kingdom before it debuts next Friday](https://www.polygon.com/deals/23712387/best-gaming-deals-pre-order-legend-zelda-tears-kingdom-botw-2)
- - [The best movies new to streaming on Netflix, HBO Max, Prime Video, and Hulu &lpar;May 2023&rpar;](https://www.polygon.com/what-to-watch/2023/5/6/23706747/best-new-movies-netflix-amazon-prime-hbo-hulu-may-2023)
- - [The affordable BattleTech Essentials starter set is coming to Target](https://www.polygon.com/deals/23711233/battletech-essentials-tabletop-starter-set-target-pre-order)<!-- GAME:END -->
+ - [The best movies new to streaming on Netflix, HBO Max, Prime Video, and Hulu &lpar;May 2023&rpar;](https://www.polygon.com/what-to-watch/2023/5/6/23706747/best-new-movies-netflix-amazon-prime-hbo-hulu-may-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
