@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ankara, Black Sea Economy Forum, russian deputy f* around and found out](http://9gag.com/gag/aOxDGVy)
- - 🚯 [Failure of exposed cars batteries to high seas salty water over time, 2023 &lpar;specific date is unknown&rpar;.](http://9gag.com/gag/aA04NDZ)
- - 🚯 [1997 to 2022. Didn\u2019t even know he was married!](http://9gag.com/gag/aL1Gr3v)<!-- MEMES:END -->
+ - 🚖 [The Power of a Prince Rupert&#39;s Drop](http://9gag.com/gag/aVbmBzy)
+ - 🚯 [You don&#39;t wanna know](http://9gag.com/gag/axobn7Y)
+ - 🚯 [1v2 clutch](http://9gag.com/gag/aXn4RZb)<!-- MEMES:END -->
 
 --- 
 
