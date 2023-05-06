@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: Google plans to make search more &quot;visual, snackable, personal, and human&quot;, incorporating short videos, social media posts, and conversations with AI &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230506/p3#a230506p3)
- - [Ex-staff say TikTok had a list, accessible internally via a dashboard, of users watching LGBTQ content; TikTok says it deleted the dashboard in the US in 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230506/p2#a230506p2)
- - [An Idaho federal judge dismissed an FTC lawsuit against location data broker Kochava, saying the agency had not provided adequate evidence to show consumer harm &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230506/p1#a230506p1)<!-- TECH:END -->
+ - [Q&amp;A with Vint Cerf, chief internet evangelist at Google and recipient of IEEE&#39;s Medal of Honor, on how Google has changed since 2005, the hazards of LLMs, more &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230506/p6#a230506p6)
+ - [A profile of Roger Lee, who runs Layoffs.fyi that has catalogued ~450,000 tech job cuts and Comprehensive.io that tracks compensation in tech job postings &lpar;Lora Kelley/New York Times&rpar;](http://www.techmeme.com/230506/p5#a230506p5)
+ - [Source: Rapid, which runs an API marketplace, laid off 82% of staff in under two weeks, reducing headcount from 230 to 42; the startup was valued at $1B in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/230506/p4#a230506p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
