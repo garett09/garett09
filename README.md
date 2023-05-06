@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Power of a Prince Rupert&#39;s Drop](http://9gag.com/gag/aVbmBzy)
- - 🚯 [When your country has way to many people](http://9gag.com/gag/armZ0m0)
+ - 🚖 [When you add an extra scoop of pigeon on a pigeon](http://9gag.com/gag/avQEDWW)
+ - 🚯 [1000 ways to die](http://9gag.com/gag/aBdPjgZ)
  - 🚯 [Cute couple activities](http://9gag.com/gag/a046x2O)<!-- MEMES:END -->
 
 --- 
