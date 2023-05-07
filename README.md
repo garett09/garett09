@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The organizers of DEF CON AI Village, set to run from August 10 to 13 this year, say they will host &quot;thousands&quot; of people to find bugs and biases in LLMs &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/230507/p4#a230507p4)
  - [Oura Ring vs Whoop: A faceless fitness tracker face off](https://www.androidauthority.com/oura-ring-vs-whoop-3321209/)
- - [Q&amp;A with Marissa Mayer on her startup Sunshine that makes an AI-based contacts organizer, what she could have done differently at Yahoo, AI&#39;s future, and more &lpar;Patrick Kulp/Emerging Tech Brew&rpar;](http://www.techmeme.com/230507/p3#a230507p3)
- - [Pepecoin, a meme coin launched in April, has a $1B+ market cap despite concerns about concentrated ownership; Arkham: a trader turned $263 into $3.8M in profits &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230507/p2#a230507p2)<!-- TECH:END -->
+ - [Q&amp;A with Marissa Mayer on her startup Sunshine that makes an AI-based contacts organizer, what she could have done differently at Yahoo, AI&#39;s future, and more &lpar;Patrick Kulp/Emerging Tech Brew&rpar;](http://www.techmeme.com/230507/p3#a230507p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
