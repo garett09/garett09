@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Fold Confirmed: See Google&#39;s First Foldable Phone Before I/O     - CNET](https://www.cnet.com/tech/mobile/pixel-fold-confirmed-see-googles-first-foldable-phone-before-io/#ftag=CAD590a51e)
- - [Best USB-C Hub 2023     - CNET](https://www.cnet.com/tech/computing/best-usb-c-hub-docking-station/#ftag=CAD590a51e)
- - [Research papers and staff interviews detail the workarounds of Chinese companies like Huawei, Baidu, and Alibaba to develop AI systems without the latest chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230507/p7#a230507p7)<!-- TECH:END -->
+ - [Best Father&#39;s Day Gifts You Can Get on Amazon     - CNET](https://www.cnet.com/tech/home-entertainment/best-fathers-day-gifts-you-can-find-on-amazon/#ftag=CAD590a51e)
+ - [Understanding macOS lock screen options](https://appleinsider.com/inside/macos/tips/understanding-macos-lock-screen-options?utm_medium=rss)
+ - [The Legend of Zelda Tears of the Kingdom: What to Know Before Playing     - CNET](https://www.cnet.com/tech/gaming/the-legend-of-zelda-tears-of-the-kingdom-what-to-know-before-playing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
