@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emerging markets like India, where iPhone has a low market share, are starting to take off for Apple, attracting a lot of switchers to its ecosystem &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230507/p6#a230507p6)
- - [Google I/O Is This Week: What to Expect and How to Watch Live     - CNET](https://www.cnet.com/tech/google-io-is-this-week-what-to-expect-and-how-to-watch-live/#ftag=CAD590a51e)
- - [Become a Cybersecurity Expert for Just $80 With This 26-Course Bundle     - CNET](https://www.cnet.com/deals/save-hundreds-on-this-26-course-bundle-and-become-a-cybersecurity-expert/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Final day: save an extra 20% on open box Apple products](https://appleinsider.com/articles/23/05/01/open-box-blowout-save-up-to-1631-on-current-macs-ipads-apple-watch-more?utm_medium=rss)
+ - [RadRunner 3 Plus Electric Utility Bike review: An expensive e-bike made for the rugged terrains](https://appleinsider.com/articles/23/05/07/radrunner-3-plus-electric-utility-bike-review-an-expensive-e-bike-made-for-the-rugged-terrains?utm_medium=rss)
+ - [iOS 16.4.1 &lpar;a&rpar;: How to Download Apple&#39;s Rapid Security Response     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-4-1-a-how-to-download-apples-rapid-security-response/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
