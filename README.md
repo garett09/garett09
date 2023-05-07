@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Intoxicated murderer visits crime scene and talks to police in UK](http://9gag.com/gag/aA047y2)
- - 🚯 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)
- - 🚯 [Truly hurtful](http://9gag.com/gag/aVbm4D8)<!-- MEMES:END -->
+ - 🚖 [Leeeeroyyyy jenkinssss](http://9gag.com/gag/aXn43xV)
+ - 🚯 [Paralyzed neck down and doctors said `you&#39;ll never walk again`](http://9gag.com/gag/a1P586Y)
+ - 🚯 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)<!-- MEMES:END -->
 
 --- 
 
