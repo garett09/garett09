@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Heart is not on both sides](http://9gag.com/gag/aYVP6KN)
- - 🚯 [I hate when amnesia kicks in](http://9gag.com/gag/aA047ZZ)
- - 🚯 [Title text](http://9gag.com/gag/a9q8ewm)<!-- MEMES:END -->
+ - 🚖 [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)
+ - 🚯 [Good news from Brazil. This is the first giant armadillo mating video in the wild in decades. They were hunted to near extinction. We are very happy with that.](http://9gag.com/gag/a4o5yPd)
+ - 🚯 [Notice why?](http://9gag.com/gag/axobrEL)<!-- MEMES:END -->
 
 --- 
 
