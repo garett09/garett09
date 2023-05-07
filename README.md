@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good news from Brazil. This is the first giant armadillo mating video in the wild in decades. They were hunted to near extinction. We are very happy with that.](http://9gag.com/gag/a4o5yPd)
- - 🚯 [Psycho Girl](http://9gag.com/gag/abvW8db)
- - 🚯 [Intoxicated murderer visits crime scene and talks to police in UK](http://9gag.com/gag/aA047y2)<!-- MEMES:END -->
+ - 🚖 [I hate when amnesia kicks in](http://9gag.com/gag/aA047ZZ)
+ - 🚯 [You are no longer licensed to use software you bought.](http://9gag.com/gag/a8qDgvd)
+ - 🚯 [Need no Fact check](http://9gag.com/gag/a5XGYXO)<!-- MEMES:END -->
 
 --- 
 
