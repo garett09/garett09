@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research papers and staff interviews detail the workarounds of Chinese companies like Huawei, Baidu, and Alibaba to develop AI systems without the latest chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230507/p7#a230507p7)
- - [Earbuds are a recurring cost that you’re not prepared for](https://www.androidauthority.com/earbuds-recurring-cost-3318424/)
- - [Best PSVR 2 Games in 2023     - CNET](https://www.cnet.com/tech/gaming/the-best-games-for-psvr-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixel Fold Confirmed: See Google&#39;s First Foldable Phone Before I/O     - CNET](https://www.cnet.com/tech/mobile/pixel-fold-confirmed-see-googles-first-foldable-phone-before-io/#ftag=CAD590a51e)
+ - [Best USB-C Hub 2023     - CNET](https://www.cnet.com/tech/computing/best-usb-c-hub-docking-station/#ftag=CAD590a51e)
+ - [Research papers and staff interviews detail the workarounds of Chinese companies like Huawei, Baidu, and Alibaba to develop AI systems without the latest chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230507/p7#a230507p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
