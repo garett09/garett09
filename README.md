@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research papers and staff interviews detail the workarounds of Chinese companies like Huawei, Baidu, and Alibaba to develop AI systems without the latest chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230507/p7#a230507p7)
  - [Earbuds are a recurring cost that you’re not prepared for](https://www.androidauthority.com/earbuds-recurring-cost-3318424/)
- - [Best PSVR 2 Games in 2023     - CNET](https://www.cnet.com/tech/gaming/the-best-games-for-psvr-2/#ftag=CAD590a51e)
- - [A Psychologist Reveals 5 Types of &#39;Sleep Languages&#39;: What&#39;s Yours?     - CNET](https://www.cnet.com/health/sleep/a-psychologist-reveals-5-types-of-sleep-languages-whats-yours/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best PSVR 2 Games in 2023     - CNET](https://www.cnet.com/tech/gaming/the-best-games-for-psvr-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
