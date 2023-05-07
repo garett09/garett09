@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Flying in a blue dream...](http://9gag.com/gag/axobeOY)
- - 🚯 [Meanwhile in London](http://9gag.com/gag/aoK4oe2)
- - 🚯 [Notice why?](http://9gag.com/gag/axobrEL)<!-- MEMES:END -->
+ - 🚖 [Heart is not on both sides](http://9gag.com/gag/aYVP6KN)
+ - 🚯 [Monke vs hive](http://9gag.com/gag/aPg8LYG)
+ - 🚯 [Massive invasion of illegal immigrants in El Paso, Texas, causing a state of emergency to be declared.](http://9gag.com/gag/anzvoqB)<!-- MEMES:END -->
 
 --- 
 
