@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Apple Store theft suspect hurt in mall fall](https://appleinsider.com/articles/23/05/07/crime-blotter-apple-store-theft-suspect-hurt-in-mall-fall?utm_medium=rss)
- - [Google Is Using AI to Make Hearing Aids More Personalized](https://www.wired.com/story/cochlear-and-google-hearing-technology-coalition/)
- - [Samsung Galaxy A54 5G Review: Cruise Control](https://www.wired.com/review/samsung-galaxy-a54-5g/)<!-- TECH:END -->
+ - [Your Twitter Feed Sucks Now. These Free Add-Ons Can Help](https://www.wired.com/story/twitter-feed-add-blue-block/)
+ - [How to Choose the Right TV &lpar;2023&rpar;: Terms, Sizes, Ports, and Gaming, Explained](https://www.wired.com/story/how-to-buy-the-right-tv/)
+ - [A ‘Monumental’ Math Proof Solves the Triple Bubble Problem](https://www.wired.com/story/triple-bubble-problem-math-proof/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
