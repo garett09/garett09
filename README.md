@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo seems to have fired back over the Tears of the Kingdom leak by DMCAing popular Switch emulation tools](https://www.pcgamer.com/nintendo-seems-to-have-fired-back-over-the-tears-of-the-kingdom-leak-by-dmcaing-popular-switch-emulation-tools)
  - [Star Wars: Visions season 2 makes the franchise feel like it’s capable of anything](https://www.polygon.com/star-wars/23713171/star-wars-visions-season-2-show-interview)
- - [Video game hall of fame inducts Computer Space, Barbie Fashion Designer](https://www.pcgamer.com/video-game-hall-of-fame-inducts-computer-space-barbie-fashion-designer)
- - [GOG looks like it&#39;s in a much healthier spot after a hairy 2021](https://www.pcgamer.com/gog-looks-like-its-in-a-much-healthier-spot-after-a-hairy-2021)<!-- GAME:END -->
+ - [Video game hall of fame inducts Computer Space, Barbie Fashion Designer](https://www.pcgamer.com/video-game-hall-of-fame-inducts-computer-space-barbie-fashion-designer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
