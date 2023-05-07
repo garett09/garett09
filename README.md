@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Great moments in PC gaming: Making your own Doom levels](https://www.pcgamer.com/great-moments-in-pc-gaming-making-your-own-doom-levels)
  - [Jedi: Survivor preorder and deluxe edition bonuses are going missing](https://www.pcgamer.com/jedi-survivor-preorder-and-deluxe-edition-items-are-going-missing)
- - [Pathologic&#39;s ambition and atmosphere made it easy to praise, but hard to enjoy](https://www.pcgamer.com/pathologics-ambition-and-atmosphere-made-it-easy-to-praise-but-hard-to-enjoy)
- - [Today&#39;s Wordle hint and answer #687: Sunday, May 7](https://www.pcgamer.com/wordle-today-hint-answer-687-may-7)<!-- GAME:END -->
+ - [Pathologic&#39;s ambition and atmosphere made it easy to praise, but hard to enjoy](https://www.pcgamer.com/pathologics-ambition-and-atmosphere-made-it-easy-to-praise-but-hard-to-enjoy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
