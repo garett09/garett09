@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Leeeeroyyyy jenkinssss](http://9gag.com/gag/aXn43xV)
- - 🚯 [Paralyzed neck down and doctors said `you&#39;ll never walk again`](http://9gag.com/gag/a1P586Y)
- - 🚯 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)<!-- MEMES:END -->
+ - 🚖 [When your country has way to many people](http://9gag.com/gag/armZ0m0)
+ - 🚯 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)
+ - 🚯 [Cute couple activities](http://9gag.com/gag/a046x2O)<!-- MEMES:END -->
 
 --- 
 
