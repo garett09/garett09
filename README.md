@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The first act of this impenetrable RPG was so good, I didn&#39;t mind playing through it three times](https://www.pcgamer.com/the-first-act-of-this-impenetrable-rpg-was-so-good-i-didnt-mind-playing-through-it-three-times)
  - [An Englishman plays American Revolution sim Liberty or Death](https://www.pcgamer.com/saturday-crapshoot-liberty-or-death)
- - [Magic: The Gathering Arena is finally coming to Steam this month](https://www.pcgamer.com/magic-the-gathering-arena-is-finally-coming-to-steam-this-month)
- - [You get one guess as to what this FPS called KILLBUG is about](https://www.pcgamer.com/you-get-one-guess-as-to-what-this-fps-called-killbug-is-about)<!-- GAME:END -->
+ - [Magic: The Gathering Arena is finally coming to Steam this month](https://www.pcgamer.com/magic-the-gathering-arena-is-finally-coming-to-steam-this-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
