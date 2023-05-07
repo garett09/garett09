@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Heart is not on both sides](http://9gag.com/gag/aYVP6KN)
- - 🚯 [Good news from Brazil. This is the first giant armadillo mating video in the wild in decades. They were hunted to near extinction. We are very happy with that.](http://9gag.com/gag/a4o5yPd)
- - 🚯 [Make the way for the king peasants](http://9gag.com/gag/aGEM6Bw)<!-- MEMES:END -->
+ - 🚖 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
+ - 🚯 [Intoxicated murderer visits crime scene and talks to police in UK](http://9gag.com/gag/aA047y2)
+ - 🚯 [Notice why?](http://9gag.com/gag/axobrEL)<!-- MEMES:END -->
 
 --- 
 
