@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Monke vs hive](http://9gag.com/gag/aPg8LYG)
- - 🚯 [I hate when amnesia kicks in](http://9gag.com/gag/aA047ZZ)
- - 🚯 [Cute couple activities](http://9gag.com/gag/a046x2O)<!-- MEMES:END -->
+ - 🚖 [Good to see the Grim Reaper was invited to the coronation](http://9gag.com/gag/a9q8eOZ)
+ - 🚯 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
+ - 🚯 [1000 ways to die](http://9gag.com/gag/aBdPjgZ)<!-- MEMES:END -->
 
 --- 
 
