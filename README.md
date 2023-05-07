@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [CS:GO broke its peak player count record yet again with 1.8M players](https://www.pcgamer.com/csgo-broke-its-peak-player-count-record-yet-again-with-18m-players)
  - [Creative director of Midnight Suns says it was originally even more talky: &#39;we cut 30 conversations&#39;](https://www.pcgamer.com/creative-director-of-midnight-suns-says-it-was-originally-even-more-talky-we-cut-30-conversations)
- - [The first act of this impenetrable RPG was so good, I didn&#39;t mind playing through it three times](https://www.pcgamer.com/the-first-act-of-this-impenetrable-rpg-was-so-good-i-didnt-mind-playing-through-it-three-times)
- - [An Englishman plays American Revolution sim Liberty or Death](https://www.pcgamer.com/saturday-crapshoot-liberty-or-death)<!-- GAME:END -->
+ - [The first act of this impenetrable RPG was so good, I didn&#39;t mind playing through it three times](https://www.pcgamer.com/the-first-act-of-this-impenetrable-rpg-was-so-good-i-didnt-mind-playing-through-it-three-times)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
