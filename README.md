@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [GOG looks like it&#39;s in a much healthier spot after a hairy 2021](https://www.pcgamer.com/gog-looks-like-its-in-a-much-healthier-spot-after-a-hairy-2021)
  - [Star Wars Jedi: Survivor goes all in on Star Wars’ newest era](https://www.polygon.com/star-wars/23712668/star-wars-jedi-survivor-high-republic-era-dagan-gera)
- - [Great moments in PC gaming: Making your own Doom levels](https://www.pcgamer.com/great-moments-in-pc-gaming-making-your-own-doom-levels)
- - [Jedi: Survivor preorder and deluxe edition bonuses are going missing](https://www.pcgamer.com/jedi-survivor-preorder-and-deluxe-edition-items-are-going-missing)<!-- GAME:END -->
+ - [Great moments in PC gaming: Making your own Doom levels](https://www.pcgamer.com/great-moments-in-pc-gaming-making-your-own-doom-levels)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
