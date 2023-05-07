@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The organizers of DEF CON AI Village, set to run from August 10 to 13 this year, say they will host &quot;thousands&quot; of people to find bugs and biases in LLMs &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/230507/p4#a230507p4)
- - [Oura Ring vs Whoop: A faceless fitness tracker face off](https://www.androidauthority.com/oura-ring-vs-whoop-3321209/)
- - [Q&amp;A with Marissa Mayer on her startup Sunshine that makes an AI-based contacts organizer, what she could have done differently at Yahoo, AI&#39;s future, and more &lpar;Patrick Kulp/Emerging Tech Brew&rpar;](http://www.techmeme.com/230507/p3#a230507p3)<!-- TECH:END -->
+ - [Crime blotter: Apple Store theft suspect hurt in mall fall](https://appleinsider.com/articles/23/05/07/crime-blotter-apple-store-theft-suspect-hurt-in-mall-fall?utm_medium=rss)
+ - [Google Is Using AI to Make Hearing Aids More Personalized](https://www.wired.com/story/cochlear-and-google-hearing-technology-coalition/)
+ - [Samsung Galaxy A54 5G Review: Cruise Control](https://www.wired.com/review/samsung-galaxy-a54-5g/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
