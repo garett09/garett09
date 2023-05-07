@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your country has way to many people](http://9gag.com/gag/armZ0m0)
- - 🚯 [You don&#39;t wanna know](http://9gag.com/gag/axobn7Y)
- - 🚯 [Being a dad mean sometimes making a fool of yourself for their enjoyment.](http://9gag.com/gag/a9q8ZKW)<!-- MEMES:END -->
+ - 🚖 [Intoxicated murderer visits crime scene and talks to police in UK](http://9gag.com/gag/aA047y2)
+ - 🚯 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)
+ - 🚯 [Truly hurtful](http://9gag.com/gag/aVbm4D8)<!-- MEMES:END -->
 
 --- 
 
