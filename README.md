@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Emerging markets like India, where iPhone has a low market share, are starting to take off for Apple, attracting a lot of switchers to its ecosystem &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230507/p6#a230507p6)
- - [Someone tell Motorola NFC is an essential feature](https://www.androidauthority.com/motorola-nfc-essential-feature-opinion-3319414/)
- - [Two OpenAI contractors, one of them earning $15 per hour, speak about their work labeling the training data used for the company&#39;s products, like ChatGPT &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/230507/p5#a230507p5)<!-- TECH:END -->
+ - [Google I/O Is This Week: What to Expect and How to Watch Live     - CNET](https://www.cnet.com/tech/google-io-is-this-week-what-to-expect-and-how-to-watch-live/#ftag=CAD590a51e)
+ - [Become a Cybersecurity Expert for Just $80 With This 26-Course Bundle     - CNET](https://www.cnet.com/deals/save-hundreds-on-this-26-course-bundle-and-become-a-cybersecurity-expert/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
