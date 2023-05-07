@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Emerging markets like India, where iPhone has a low market share, are starting to take off for Apple, attracting a lot of switchers to its ecosystem &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230507/p6#a230507p6)
  - [Someone tell Motorola NFC is an essential feature](https://www.androidauthority.com/motorola-nfc-essential-feature-opinion-3319414/)
- - [Two OpenAI contractors, one of them earning $15 per hour, speak about their work labeling the training data used for the company&#39;s products, like ChatGPT &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/230507/p5#a230507p5)
- - [Daily deals: 20% off M1 MacBook Air, 31% off Apple Pencil Gen 2, $200 off LG 27-inch UltraFine monitor, more](https://appleinsider.com/articles/23/05/07/daily-deals-20-off-m1-macbook-air-31-off-apple-pencil-gen-2-200-off-lg-27-inch-ultrafine-monitor-more?utm_medium=rss)<!-- TECH:END -->
+ - [Two OpenAI contractors, one of them earning $15 per hour, speak about their work labeling the training data used for the company&#39;s products, like ChatGPT &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/230507/p5#a230507p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
