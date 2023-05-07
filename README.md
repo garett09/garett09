@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Good to see the Grim Reaper was invited to the coronation](http://9gag.com/gag/a9q8eOZ)
  - 🚯 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
- - 🚯 [1000 ways to die](http://9gag.com/gag/aBdPjgZ)<!-- MEMES:END -->
+ - 🚯 [Leeeeroyyyy jenkinssss](http://9gag.com/gag/aXn43xV)<!-- MEMES:END -->
 
 --- 
 
