@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Star Wars Jedi: Survivor goes all in on Star Wars’ newest era](https://www.polygon.com/star-wars/23712668/star-wars-jedi-survivor-high-republic-era-dagan-gera)
  - [Great moments in PC gaming: Making your own Doom levels](https://www.pcgamer.com/great-moments-in-pc-gaming-making-your-own-doom-levels)
- - [Jedi: Survivor preorder and deluxe edition bonuses are going missing](https://www.pcgamer.com/jedi-survivor-preorder-and-deluxe-edition-items-are-going-missing)
- - [Pathologic&#39;s ambition and atmosphere made it easy to praise, but hard to enjoy](https://www.pcgamer.com/pathologics-ambition-and-atmosphere-made-it-easy-to-praise-but-hard-to-enjoy)<!-- GAME:END -->
+ - [Jedi: Survivor preorder and deluxe edition bonuses are going missing](https://www.pcgamer.com/jedi-survivor-preorder-and-deluxe-edition-items-are-going-missing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
