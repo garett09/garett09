@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Twitter Feed Sucks Now. These Free Add-Ons Can Help](https://www.wired.com/story/twitter-feed-add-blue-block/)
- - [How to Choose the Right TV &lpar;2023&rpar;: Terms, Sizes, Ports, and Gaming, Explained](https://www.wired.com/story/how-to-buy-the-right-tv/)
- - [A ‘Monumental’ Math Proof Solves the Triple Bubble Problem](https://www.wired.com/story/triple-bubble-problem-math-proof/)<!-- TECH:END -->
+ - [21 Best Sex Toys &lpar;2023&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
+ - [A day on the Gateway 14](https://www.theverge.com/23712623/gateway-14-budget-laptop-review-specs-features-price)
+ - [Your Twitter Feed Sucks Now. These Free Add-Ons Can Help](https://www.wired.com/story/twitter-feed-add-blue-block/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
