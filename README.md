@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I hate when amnesia kicks in](http://9gag.com/gag/aA047ZZ)
- - 🚯 [You are no longer licensed to use software you bought.](http://9gag.com/gag/a8qDgvd)
- - 🚯 [Need no Fact check](http://9gag.com/gag/a5XGYXO)<!-- MEMES:END -->
+ - 🚖 [Flying in a blue dream...](http://9gag.com/gag/axobeOY)
+ - 🚯 [Meanwhile in London](http://9gag.com/gag/aoK4oe2)
+ - 🚯 [Notice why?](http://9gag.com/gag/axobrEL)<!-- MEMES:END -->
 
 --- 
 
