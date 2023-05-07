@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I hate when amnesia kicks in](http://9gag.com/gag/aA047ZZ)
- - 🚯 [Truly hurtful](http://9gag.com/gag/aVbm4D8)
- - 🚯 [Massive invasion of illegal immigrants in El Paso, Texas, causing a state of emergency to be declared.](http://9gag.com/gag/anzvoqB)<!-- MEMES:END -->
+ - 🚖 [The 90s were similar times I guess, where you can do whatever the f*CK you wanted.](http://9gag.com/gag/aWGvP3A)
+ - 🚯 [Notice why?](http://9gag.com/gag/axobrEL)
+ - 🚯 [Community noted](http://9gag.com/gag/az2Gwdq)<!-- MEMES:END -->
 
 --- 
 
