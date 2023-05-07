@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The 90s were similar times I guess, where you can do whatever the f*CK you wanted.](http://9gag.com/gag/aWGvP3A)
- - 🚯 [Notice why?](http://9gag.com/gag/axobrEL)
- - 🚯 [Community noted](http://9gag.com/gag/az2Gwdq)<!-- MEMES:END -->
+ - 🚖 [Heart is not on both sides](http://9gag.com/gag/aYVP6KN)
+ - 🚯 [Good news from Brazil. This is the first giant armadillo mating video in the wild in decades. They were hunted to near extinction. We are very happy with that.](http://9gag.com/gag/a4o5yPd)
+ - 🚯 [Make the way for the king peasants](http://9gag.com/gag/aGEM6Bw)<!-- MEMES:END -->
 
 --- 
 
