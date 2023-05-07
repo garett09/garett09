@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Heart is not on both sides](http://9gag.com/gag/aYVP6KN)
- - 🚯 [Monke vs hive](http://9gag.com/gag/aPg8LYG)
+ - 🚖 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)
+ - 🚯 [Are they hiring?](http://9gag.com/gag/aqeQV3Q)
  - 🚯 [Massive invasion of illegal immigrants in El Paso, Texas, causing a state of emergency to be declared.](http://9gag.com/gag/anzvoqB)<!-- MEMES:END -->
 
 --- 
