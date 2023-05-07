@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
- - 🚯 [Intoxicated murderer visits crime scene and talks to police in UK](http://9gag.com/gag/aA047y2)
- - 🚯 [Notice why?](http://9gag.com/gag/axobrEL)<!-- MEMES:END -->
+ - 🚖 [Heart is not on both sides](http://9gag.com/gag/aYVP6KN)
+ - 🚯 [I hate when amnesia kicks in](http://9gag.com/gag/aA047ZZ)
+ - 🚯 [Title text](http://9gag.com/gag/a9q8ewm)<!-- MEMES:END -->
 
 --- 
 
