@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pathologic&#39;s ambition and atmosphere made it easy to praise, but hard to enjoy](https://www.pcgamer.com/pathologics-ambition-and-atmosphere-made-it-easy-to-praise-but-hard-to-enjoy)
  - [Today&#39;s Wordle hint and answer #687: Sunday, May 7](https://www.pcgamer.com/wordle-today-hint-answer-687-may-7)
- - [CS:GO broke its peak player count record yet again with 1.8M players](https://www.pcgamer.com/csgo-broke-its-peak-player-count-record-yet-again-with-18m-players)
- - [Creative director of Midnight Suns says it was originally even more talky: &#39;we cut 30 conversations&#39;](https://www.pcgamer.com/creative-director-of-midnight-suns-says-it-was-originally-even-more-talky-we-cut-30-conversations)<!-- GAME:END -->
+ - [CS:GO broke its peak player count record yet again with 1.8M players](https://www.pcgamer.com/csgo-broke-its-peak-player-count-record-yet-again-with-18m-players)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
