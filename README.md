@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)
- - 🚯 [Are they hiring?](http://9gag.com/gag/aqeQV3Q)
- - 🚯 [Massive invasion of illegal immigrants in El Paso, Texas, causing a state of emergency to be declared.](http://9gag.com/gag/anzvoqB)<!-- MEMES:END -->
+ - 🚖 [Stobnica Castle, Poland. Built illegaly on Nature 2000 forest with money no one knows where the owner had from. Total cost around 33 mln Euro.](http://9gag.com/gag/a9q8GOK)
+ - 🚯 [Y&#39;all missed it! Wait... Wha?](http://9gag.com/gag/a9q8ep0)
+ - 🚯 [Are they hiring?](http://9gag.com/gag/aqeQV3Q)<!-- MEMES:END -->
 
 --- 
 
