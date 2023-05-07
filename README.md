@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Flying in a blue dream...](http://9gag.com/gag/axobeOY)
- - 🚯 [Good news from Brazil. This is the first giant armadillo mating video in the wild in decades. They were hunted to near extinction. We are very happy with that.](http://9gag.com/gag/a4o5yPd)
- - 🚯 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)<!-- MEMES:END -->
+ - 🚖 [I hate when amnesia kicks in](http://9gag.com/gag/aA047ZZ)
+ - 🚯 [Truly hurtful](http://9gag.com/gag/aVbm4D8)
+ - 🚯 [Massive invasion of illegal immigrants in El Paso, Texas, causing a state of emergency to be declared.](http://9gag.com/gag/anzvoqB)<!-- MEMES:END -->
 
 --- 
 
