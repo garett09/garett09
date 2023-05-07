@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your country has way to many people](http://9gag.com/gag/armZ0m0)
- - 🚯 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)
- - 🚯 [Cute couple activities](http://9gag.com/gag/a046x2O)<!-- MEMES:END -->
+ - 🚖 [Flying in a blue dream...](http://9gag.com/gag/axobeOY)
+ - 🚯 [Good news from Brazil. This is the first giant armadillo mating video in the wild in decades. They were hunted to near extinction. We are very happy with that.](http://9gag.com/gag/a4o5yPd)
+ - 🚯 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)<!-- MEMES:END -->
 
 --- 
 
