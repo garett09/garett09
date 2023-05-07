@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 Best Sex Toys &lpar;2023&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [A day on the Gateway 14](https://www.theverge.com/23712623/gateway-14-budget-laptop-review-specs-features-price)
- - [Your Twitter Feed Sucks Now. These Free Add-Ons Can Help](https://www.wired.com/story/twitter-feed-add-blue-block/)<!-- TECH:END -->
+ - [Someone tell Motorola NFC is an essential feature](https://www.androidauthority.com/motorola-nfc-essential-feature-opinion-3319414/)
+ - [Two OpenAI contractors, one of them earning $15 per hour, speak about their work labeling the training data used for the company&#39;s products, like ChatGPT &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/230507/p5#a230507p5)
+ - [Daily deals: 20% off M1 MacBook Air, 31% off Apple Pencil Gen 2, $200 off LG 27-inch UltraFine monitor, more](https://appleinsider.com/articles/23/05/07/daily-deals-20-off-m1-macbook-air-31-off-apple-pencil-gen-2-200-off-lg-27-inch-ultrafine-monitor-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
