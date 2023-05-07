@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Art Blocks, an NFT marketplace for generative art whose sales reportedly dropped to $6.5M in April 2023 from $587M in August 2021 &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230506/p14#a230506p14)
- - [Acefast Fast Charge Power Bank M2 review: Bigger design with a heftier price tag](https://appleinsider.com/articles/23/05/06/acefast-fast-charge-power-bank-m2-review-bigger-design-with-a-heftier-price-tag?utm_medium=rss)
- - [The International Olympic Committee adds Fortnite to its Olympic Esports Series competition, which will also feature Just Dance and Gran Turismo &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/230506/p13#a230506p13)<!-- TECH:END -->
+ - [Pepecoin, a meme coin launched in April, has a $1B+ market cap despite concerns about concentrated ownership; Arkham: a trader turned $263 into $3.8M in profits &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230507/p2#a230507p2)
+ - [Elon Musk has latched onto &quot;unregretted user-minutes&quot;, an undefined metric for measuring Twitter&#39;s success, after taking issue with mDAUs during the takeover &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/230507/p1#a230507p1)
+ - [A look at Art Blocks, an NFT marketplace for generative art whose sales reportedly dropped to $6.5M in April 2023 from $587M in August 2021 &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230506/p14#a230506p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
