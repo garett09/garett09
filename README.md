@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stobnica Castle, Poland. Built illegaly on Nature 2000 forest with money no one knows where the owner had from. Total cost around 33 mln Euro.](http://9gag.com/gag/a9q8GOK)
- - 🚯 [Y&#39;all missed it! Wait... Wha?](http://9gag.com/gag/a9q8ep0)
- - 🚯 [Are they hiring?](http://9gag.com/gag/aqeQV3Q)<!-- MEMES:END -->
+ - 🚖 [Sudoku](http://9gag.com/gag/amAmwOj)
+ - 🚯 [...to lip sync on the kitchen counter](http://9gag.com/gag/a2Ky6KY)
+ - 🚯 [Title text](http://9gag.com/gag/a9q8ewm)<!-- MEMES:END -->
 
 --- 
 
