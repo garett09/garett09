@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GOG looks like it&#39;s in a much healthier spot after a hairy 2021](https://www.pcgamer.com/gog-looks-like-its-in-a-much-healthier-spot-after-a-hairy-2021)
- - [Star Wars Jedi: Survivor goes all in on Star Wars’ newest era](https://www.polygon.com/star-wars/23712668/star-wars-jedi-survivor-high-republic-era-dagan-gera)
- - [Great moments in PC gaming: Making your own Doom levels](https://www.pcgamer.com/great-moments-in-pc-gaming-making-your-own-doom-levels)<!-- GAME:END -->
+ - [Star Wars: Visions season 2 makes the franchise feel like it’s capable of anything](https://www.polygon.com/star-wars/23713171/star-wars-visions-season-2-show-interview)
+ - [Video game hall of fame inducts Computer Space, Barbie Fashion Designer](https://www.pcgamer.com/video-game-hall-of-fame-inducts-computer-space-barbie-fashion-designer)
+ - [GOG looks like it&#39;s in a much healthier spot after a hairy 2021](https://www.pcgamer.com/gog-looks-like-its-in-a-much-healthier-spot-after-a-hairy-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
