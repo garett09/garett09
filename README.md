@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good to see the Grim Reaper was invited to the coronation](http://9gag.com/gag/a9q8eOZ)
- - 🚯 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
- - 🚯 [Leeeeroyyyy jenkinssss](http://9gag.com/gag/aXn43xV)<!-- MEMES:END -->
+ - 🚖 [Monke vs hive](http://9gag.com/gag/aPg8LYG)
+ - 🚯 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)
+ - 🚯 [Community noted](http://9gag.com/gag/az2Gwdq)<!-- MEMES:END -->
 
 --- 
 
