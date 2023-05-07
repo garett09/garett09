@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Father&#39;s Day Gifts You Can Get on Amazon     - CNET](https://www.cnet.com/tech/home-entertainment/best-fathers-day-gifts-you-can-find-on-amazon/#ftag=CAD590a51e)
  - [Understanding macOS lock screen options](https://appleinsider.com/inside/macos/tips/understanding-macos-lock-screen-options?utm_medium=rss)
- - [The Legend of Zelda Tears of the Kingdom: What to Know Before Playing     - CNET](https://www.cnet.com/tech/gaming/the-legend-of-zelda-tears-of-the-kingdom-what-to-know-before-playing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Soundbars of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)
+ - [Best Father&#39;s Day Gifts You Can Get on Amazon     - CNET](https://www.cnet.com/tech/home-entertainment/best-fathers-day-gifts-you-can-find-on-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
