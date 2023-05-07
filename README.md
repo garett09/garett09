@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final day: save an extra 20% on open box Apple products](https://appleinsider.com/articles/23/05/01/open-box-blowout-save-up-to-1631-on-current-macs-ipads-apple-watch-more?utm_medium=rss)
- - [RadRunner 3 Plus Electric Utility Bike review: An expensive e-bike made for the rugged terrains](https://appleinsider.com/articles/23/05/07/radrunner-3-plus-electric-utility-bike-review-an-expensive-e-bike-made-for-the-rugged-terrains?utm_medium=rss)
- - [iOS 16.4.1 &lpar;a&rpar;: How to Download Apple&#39;s Rapid Security Response     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-4-1-a-how-to-download-apples-rapid-security-response/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Earbuds are a recurring cost that you’re not prepared for](https://www.androidauthority.com/earbuds-recurring-cost-3318424/)
+ - [Best PSVR 2 Games in 2023     - CNET](https://www.cnet.com/tech/gaming/the-best-games-for-psvr-2/#ftag=CAD590a51e)
+ - [A Psychologist Reveals 5 Types of &#39;Sleep Languages&#39;: What&#39;s Yours?     - CNET](https://www.cnet.com/health/sleep/a-psychologist-reveals-5-types-of-sleep-languages-whats-yours/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
