@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Voyager 2 Gets a Life-Extending Power Boost in Deep Space](https://www.wired.com/story/voyager-2-gets-a-life-extending-power-boost-in-deep-space/)
- - [Hollywood’s Screenwriters Are Right to Fear AI](https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/)
- - [After Arm shunned a London listing in favor of New York, some VCs in the UK blame Brexit and institutional investors, who lack a good understanding of tech &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230508/p4#a230508p4)<!-- TECH:END -->
+ - [Apple&#39;s AR headset, new MacBook Air -- what to expect from WWDC 2023](https://appleinsider.com/articles/23/05/08/apples-ar-headset-new-macbook-air----what-to-expect-from-wwdc-2023?utm_medium=rss)
+ - [Everyone Was Wrong About Reverse Osmosis—Until Now](https://www.wired.com/story/everyone-was-wrong-about-reverse-osmosis-until-now/)
+ - [What happens when Google Search doesn’t have the answers?](https://www.theverge.com/23712602/google-search-25-years-anniversary-ai-artificial-intelligence)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
