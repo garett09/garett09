@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They found a rat, they went out and got a cat](http://9gag.com/gag/aL1G5QW)
- - 🚯 [Good news from Brazil. This is the first giant armadillo mating video in the wild in decades. They were hunted to near extinction. We are very happy with that.](http://9gag.com/gag/a4o5yPd)
- - 🚯 [Notice why?](http://9gag.com/gag/axobrEL)<!-- MEMES:END -->
+ - 🚖 [Bro didn\u2019t hesitate](http://9gag.com/gag/abvWnxL)
+ - 🚯 [Monke vs hive](http://9gag.com/gag/aPg8LYG)
+ - 🚯 [Intoxicated murderer visits crime scene and talks to police in UK](http://9gag.com/gag/aA047y2)<!-- MEMES:END -->
 
 --- 
 
