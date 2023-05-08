@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel Boot Guard private keys have reportedly leaked, compromising the security of many computers](https://www.pcgamer.com/intel-boot-guard-private-keys-have-reportedly-leaked-compromising-the-security-of-many-computers)
- - [I Could Watch These Rotoscoped Graphics All Day Long](https://kotaku.com/lunark-rotoscoped-graphics-visuals-video-game-switch-pc-1850413622)
- - [Stranger Things, Marvel Movie Halted Because Hollywood Won&#39;t Pay Its Writers](https://kotaku.com/stranger-things-season-5-s5-netflix-strike-writers-wga-1850413575)<!-- GAME:END -->
+ - [While you wait for Skywind and Skyblivion, you could be playing Skygerfall right now](https://www.pcgamer.com/while-you-wait-for-skywind-and-skyblivion-you-could-be-playing-skygerfall-right-now)
+ - [Five new Steam games you probably missed &lpar;May 8, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-8-2023)
+ - [Intel Boot Guard private keys have reportedly leaked, compromising the security of many computers](https://www.pcgamer.com/intel-boot-guard-private-keys-have-reportedly-leaked-compromising-the-security-of-many-computers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
