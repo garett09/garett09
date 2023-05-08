@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
- - 🚯 [I hate when amnesia kicks in](http://9gag.com/gag/aA047ZZ)
- - 🚯 [Massive invasion of illegal immigrants in El Paso, Texas, causing a state of emergency to be declared.](http://9gag.com/gag/anzvoqB)<!-- MEMES:END -->
+ - 🚖 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)
+ - 🚯 [Notice why?](http://9gag.com/gag/axobrEL)
+ - 🚯 [Title text](http://9gag.com/gag/a9q8ewm)<!-- MEMES:END -->
 
 --- 
 
