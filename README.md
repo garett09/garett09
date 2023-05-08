@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Batman just met the infinite Batmans of DC movies, TV, and games and bested every multiverse montage](https://www.polygon.com/2023/5/8/23715238/batman)
+ - [Guardians of the Galaxy 3’s opening weekend box office can’t fully reverse Marvel’s slide](https://www.polygon.com/23715485/guardians-galaxy-3-opening-weekend-box-office-total)
  - [Guardians Of The Galaxy Vol. 3&#39;s Final Needle Drop Had Its Songwriter In Tears, Too](https://kotaku.com/guardians-galaxy-3-ending-florence-machine-dog-days-1850416302)
- - [It took 13 years but Doom 2 RPG has finally come to PC](https://www.pcgamer.com/it-took-13-years-but-doom-2-rpg-has-finally-come-to-pc)<!-- GAME:END -->
+ - [The Week In Games: Return To Hyrule](https://kotaku.com/may-game-releases-out-this-week-zelda-tears-kingdom-1850416527)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
