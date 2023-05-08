@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [...to lip sync on the kitchen counter](http://9gag.com/gag/a2Ky6KY)
- - 🚯 [Which one&#39;s your favourite? Sorry, no potato](http://9gag.com/gag/aEqo3vp)
- - 🚯 [Good news from Brazil. This is the first giant armadillo mating video in the wild in decades. They were hunted to near extinction. We are very happy with that.](http://9gag.com/gag/a4o5yPd)<!-- MEMES:END -->
+ - 🚖 [Kyiv air defense](http://9gag.com/gag/az2G0vb)
+ - 🚯 [Today&#39;s march in Germany by supporters of Putin&#39;s aggression proved:](http://9gag.com/gag/adPnmGd)
+ - 🚯 [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)<!-- MEMES:END -->
 
 --- 
 
