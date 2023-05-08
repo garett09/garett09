@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Understanding macOS lock screen options](https://appleinsider.com/inside/macos/tips/understanding-macos-lock-screen-options?utm_medium=rss)
- - [Best Soundbars of 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)
- - [Best Father&#39;s Day Gifts You Can Get on Amazon     - CNET](https://www.cnet.com/tech/home-entertainment/best-fathers-day-gifts-you-can-find-on-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Images of a Texas mall mass shooting go viral on Twitter, fueling criticism of its reduced moderation; Twitter allows some graphic posts like Ukraine war images &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/230507/p9#a230507p9)
+ - [Source: Volkswagen plans to fire most of the management team at Cariad next week, after the software unit missed its development goals and exceeded its budget &lpar;Jan Schwartz/Reuters&rpar;](http://www.techmeme.com/230507/p8#a230507p8)
+ - [Understanding macOS lock screen options](https://appleinsider.com/inside/macos/tips/understanding-macos-lock-screen-options?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
