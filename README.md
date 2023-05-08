@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
- - 🚯 [I wonder what was the clown\u2019s answer.](http://9gag.com/gag/aKEWQ2W)
- - 🚯 [Notice why?](http://9gag.com/gag/axobrEL)<!-- MEMES:END -->
+ - 🚖 [Sad bald noises](http://9gag.com/gag/aXn4BW2)
+ - 🚯 [Big Brain Time](http://9gag.com/gag/az2GW8N)
+ - 🚯 [What about the president](http://9gag.com/gag/armZYOV)<!-- MEMES:END -->
 
 --- 
 
