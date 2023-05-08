@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taking a shit on a gas station be like...](http://9gag.com/gag/abvWn0B)
- - 🚯 [Grandma outside the family home in the 60s](http://9gag.com/gag/aoK472e)
- - 🚯 [Monke vs hive](http://9gag.com/gag/aPg8LYG)<!-- MEMES:END -->
+ - 🚖 [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)
+ - 🚯 [Can you see it?](http://9gag.com/gag/ago8eYr)
+ - 🚯 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)<!-- MEMES:END -->
 
 --- 
 
