@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #688: Monday, May 8](https://www.pcgamer.com/wordle-today-hint-answer-688-may-8)
  - [While you wait for Skywind and Skyblivion, you could be playing Skygerfall right now](https://www.pcgamer.com/while-you-wait-for-skywind-and-skyblivion-you-could-be-playing-skygerfall-right-now)
- - [Five new Steam games you probably missed &lpar;May 8, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-8-2023)
- - [Intel Boot Guard private keys have reportedly leaked, compromising the security of many computers](https://www.pcgamer.com/intel-boot-guard-private-keys-have-reportedly-leaked-compromising-the-security-of-many-computers)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;May 8, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-8-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
