@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro didn\u2019t hesitate](http://9gag.com/gag/abvWnxL)
- - 🚯 [Monke vs hive](http://9gag.com/gag/aPg8LYG)
- - 🚯 [Intoxicated murderer visits crime scene and talks to police in UK](http://9gag.com/gag/aA047y2)<!-- MEMES:END -->
+ - 🚖 [It did what it supposed to do](http://9gag.com/gag/az2Gzdp)
+ - 🚯 [I hate when amnesia kicks in](http://9gag.com/gag/aA047ZZ)
+ - 🚯 [Massive invasion of illegal immigrants in El Paso, Texas, causing a state of emergency to be declared.](http://9gag.com/gag/anzvoqB)<!-- MEMES:END -->
 
 --- 
 
