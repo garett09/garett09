@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
- - 🚯 [Can you see it?](http://9gag.com/gag/ago8eYr)
- - 🚯 [I am not 100% sure about the pig-unicorns](http://9gag.com/gag/a2Ky6VZ)<!-- MEMES:END -->
+ - 🚖 [Taking a shit on a gas station be like...](http://9gag.com/gag/abvWn0B)
+ - 🚯 [Grandma outside the family home in the 60s](http://9gag.com/gag/aoK472e)
+ - 🚯 [Monke vs hive](http://9gag.com/gag/aPg8LYG)<!-- MEMES:END -->
 
 --- 
 
