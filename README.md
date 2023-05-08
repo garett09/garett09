@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Live 2023 starts September 1st in Seattle, and the tickets are free](https://www.theverge.com/2023/5/8/23715191/nintendo-live-2023-date-free-tickets-information)
- - [Google Pixel Tablet specs leak just days ahead of I/O](https://www.theverge.com/2023/5/8/23715130/google-pixel-tablet-specs-leak-release-date-io)
- - [Amazon&#39;s Matter upgrades, smart blinds, and new cooking tech](https://appleinsider.com/articles/23/05/08/amazons-matter-upgrades-smart-blinds-and-new-cooking-tech?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Learning Coach program improves education &amp; expands to more countries](https://appleinsider.com/articles/23/05/08/apple-learning-coach-program-improves-education-expands-to-more-countries?utm_medium=rss)
+ - [Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
+ - [Pixel Fold, Pixel Tablet &amp; more -- What to expect from Google I/O 2023 on May 10](https://appleinsider.com/articles/23/05/08/pixel-fold-pixel-tablet-more----what-to-expect-from-google-io-2023-on-may-10?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
