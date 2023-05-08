@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Still works](http://9gag.com/gag/adPnwEQ)
- - 🚯 [Regular friend : I&#39;m afraid of bugs creeping in my house. An Australian friend : Hold my snek](http://9gag.com/gag/ap9PZ5D)
- - 🚯 [Follow the keys](http://9gag.com/gag/a8qDgr1)<!-- MEMES:END -->
+ - 🚖 [That is seriously impressive](http://9gag.com/gag/a046y2B)
+ - 🚯 [Friction this](http://9gag.com/gag/aREzd4q)
+ - 🚯 [Sudoku](http://9gag.com/gag/amAmwOj)<!-- MEMES:END -->
 
 --- 
 
