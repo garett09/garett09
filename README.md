@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
- - 🚯 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
- - 🚯 [...to lip sync on the kitchen counter](http://9gag.com/gag/a2Ky6KY)<!-- MEMES:END -->
+ - 🚖 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
+ - 🚯 [What is wrong with it though](http://9gag.com/gag/aoK4QMx)
+ - 🚯 [Grandma outside the family home in the 60s](http://9gag.com/gag/aoK472e)<!-- MEMES:END -->
 
 --- 
 
