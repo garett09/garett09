@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That is seriously impressive](http://9gag.com/gag/a046y2B)
- - 🚯 [Friction this](http://9gag.com/gag/aREzd4q)
- - 🚯 [Sudoku](http://9gag.com/gag/amAmwOj)<!-- MEMES:END -->
+ - 🚖 [Taking a shit on a gas station be like...](http://9gag.com/gag/abvWn0B)
+ - 🚯 [Title text](http://9gag.com/gag/a9q8ewm)
+ - 🚯 [Massive invasion of illegal immigrants in El Paso, Texas, causing a state of emergency to be declared.](http://9gag.com/gag/anzvoqB)<!-- MEMES:END -->
 
 --- 
 
