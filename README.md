@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Jedi: Survivor’s Got Your Back If You Purposefully Break Its Story](https://kotaku.com/star-wars-jedi-survivor-save-sequence-break-fix-koboh-1850415944)
- - [The Legend of Zelda: Tears of the Kingdom pre-order guide](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
- - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)<!-- GAME:END -->
+ - [Batman just met the infinite Batmans of DC movies, TV, and games and bested every multiverse montage](https://www.polygon.com/2023/5/8/23715238/batman)
+ - [Guardians Of The Galaxy Vol. 3&#39;s Final Needle Drop Had Its Songwriter In Tears, Too](https://kotaku.com/guardians-galaxy-3-ending-florence-machine-dog-days-1850416302)
+ - [It took 13 years but Doom 2 RPG has finally come to PC](https://www.pcgamer.com/it-took-13-years-but-doom-2-rpg-has-finally-come-to-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
