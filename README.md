@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance shut down bitcoin withdrawals for an hour late on Sunday and for about three hours on Monday, blaming an unanticipated rise in transaction fees &lpar;Akanksha Khushi/Reuters&rpar;](http://www.techmeme.com/230508/p8#a230508p8)
- - [Save on a PlayStation Plus membership before Sony removes these last-gen titles tomorrow](https://www.theverge.com/2023/5/8/23715139/playstation-plus-collection-gaming-essential-lego-vespa-plants-deal-sale)
- - [Save $740 on the Galaxy S23 range, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
+ - [Apple Maps may offer lock screen navigation in iOS 17, claims iffy rumor](https://appleinsider.com/articles/23/05/08/apple-maps-may-offer-lock-screen-navigation-in-ios-17-claims-iffy-rumor?utm_medium=rss)
+ - [Oppenheimer’s new trailer is the sound of the Doomsday Clock winding up](https://www.theverge.com/2023/5/8/23715344/oppenheimer-trailer-chris-nolan)
+ - [New renders leak for Fairphone’s first pair of over-ear headphones](https://www.theverge.com/2023/5/8/23715173/fairphone-fairbuds-xl-noise-canceling-over-the-ear-headphones-leak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
