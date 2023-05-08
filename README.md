@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Partners with USO to Support Military Service Members and Their Families](https://news.xbox.com/en-us/2023/05/08/xbox-celebrates-military-families/)
- - [A Payday 3 gameplay reveal is coming this summer, according to an incredibly ephemeral teaser trailer](https://www.pcgamer.com/a-payday-3-gameplay-reveal-is-coming-this-summer-according-to-an-incredibly-ephemeral-teaser-trailer)
- - [Darkest Dungeon 2 reaches v1.0 and lands on Steam today](https://www.pcgamer.com/darkest-dungeon-2-reaches-v10-and-lands-on-steam-today)<!-- GAME:END -->
+ - [Lego’s striking Tales of the Space Age set is now available](https://www.polygon.com/deals/2023/5/8/23712573/lego-ideas-tales-space-age-set-buy)
+ - [PlayStation Store: April 2023’s top downloads](https://blog.playstation.com/2023/05/08/playstation-store-april-2023s-top-downloads/)
+ - [Nightdive CEO discusses sale to Atari, says publisher &#39;is on the rise&#39;](https://www.pcgamer.com/nightdive-ceo-discusses-sale-to-atari-says-publisher-is-on-the-rise)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
