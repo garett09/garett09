@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)
- - 🚯 [Can you see it?](http://9gag.com/gag/ago8eYr)
- - 🚯 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)<!-- MEMES:END -->
+ - 🚯 [Grandma outside the family home in the 60s](http://9gag.com/gag/aoK472e)
+ - 🚯 [Big Brain Time](http://9gag.com/gag/az2GW8N)<!-- MEMES:END -->
 
 --- 
 
