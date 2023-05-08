@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)
- - 🚯 [Big Brain Time](http://9gag.com/gag/az2GW8N)
- - 🚯 [With the font size maxed](http://9gag.com/gag/ay2Wwjb)<!-- MEMES:END -->
+ - 🚯 [Interesting caveat.](http://9gag.com/gag/anzvLyb)
+ - 🚯 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)<!-- MEMES:END -->
 
 --- 
 
