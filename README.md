@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon accidentally revealed all the major Pixel Tablet details](https://www.androidauthority.com/google-pixel-tablet-amazon-japan-leak-3321419/)
- - [An interview with Warner Bros. Discovery CTO Avi Saxena and Chief Product Officer Tyler Whitworth on building Max from the ground up, new features, and more &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/230508/p1#a230508p1)
- - [Thought ads on the Google Play Store couldn’t get worse? Think again.](https://www.androidauthority.com/google-play-store-ads-search-bar-3321407/)<!-- TECH:END -->
+ - [Qualcomm acquires Autotalks, an Israeli fabless chipmaker that builds SoCs to help improve automotive safety, sources say for between $350M and $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230508/p3#a230508p3)
+ - [SafeGraph Lands US Air Force Contract After Targeting Abortion Clinics](https://www.wired.com/story/safegraph-us-air-force-location-data/)
+ - [HTC U23 Pro leaks online: The one you Desire?](https://www.androidauthority.com/htc-u23-pro-leak-3321431/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
