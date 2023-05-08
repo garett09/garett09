@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
- - 🚯 [What is wrong with it though](http://9gag.com/gag/aoK4QMx)
- - 🚯 [Grandma outside the family home in the 60s](http://9gag.com/gag/aoK472e)<!-- MEMES:END -->
+ - 🚖 [I&#39;m telling you I&#39;m really trying to quit smoking](http://9gag.com/gag/aOxDwxD)
+ - 🚯 [They hated Jesus because he spoke the truth](http://9gag.com/gag/avQE3qX)
+ - 🚯 [Psycho Girl](http://9gag.com/gag/abvW8db)<!-- MEMES:END -->
 
 --- 
 
