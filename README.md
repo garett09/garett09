@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A man sued Pepsico after the company refused to redeem his 7,000,000 Pepsi Points for a AV-8 Harrier jump jet as advertised in their commercial](http://9gag.com/gag/aPg8EZK)
- - 🚯 [What is wrong with it though](http://9gag.com/gag/aoK4QMx)
- - 🚯 [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)<!-- MEMES:END -->
+ - 🚖 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
+ - 🚯 [I wonder what was the clown\u2019s answer.](http://9gag.com/gag/aKEWQ2W)
+ - 🚯 [Notice why?](http://9gag.com/gag/axobrEL)<!-- MEMES:END -->
 
 --- 
 
