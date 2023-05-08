@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sad bald noises](http://9gag.com/gag/aXn4BW2)
- - 🚯 [Big Brain Time](http://9gag.com/gag/az2GW8N)
- - 🚯 [What about the president](http://9gag.com/gag/armZYOV)<!-- MEMES:END -->
+ - 🚖 [...to lip sync on the kitchen counter](http://9gag.com/gag/a2Ky6KY)
+ - 🚯 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)
+ - 🚯 [Interesting caveat.](http://9gag.com/gag/anzvLyb)<!-- MEMES:END -->
 
 --- 
 
