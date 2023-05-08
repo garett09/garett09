@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Learning Coach program improves education &amp; expands to more countries](https://appleinsider.com/articles/23/05/08/apple-learning-coach-program-improves-education-expands-to-more-countries?utm_medium=rss)
- - [Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
- - [Pixel Fold, Pixel Tablet &amp; more -- What to expect from Google I/O 2023 on May 10](https://appleinsider.com/articles/23/05/08/pixel-fold-pixel-tablet-more----what-to-expect-from-google-io-2023-on-may-10?utm_medium=rss)<!-- TECH:END -->
+ - [Binance shut down bitcoin withdrawals for an hour late on Sunday and for about three hours on Monday, blaming an unanticipated rise in transaction fees &lpar;Akanksha Khushi/Reuters&rpar;](http://www.techmeme.com/230508/p8#a230508p8)
+ - [Save on a PlayStation Plus membership before Sony removes these last-gen titles tomorrow](https://www.theverge.com/2023/5/8/23715139/playstation-plus-collection-gaming-essential-lego-vespa-plants-deal-sale)
+ - [Save $740 on the Galaxy S23 range, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
