@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AR headset, new MacBook Air -- what to expect from WWDC 2023](https://appleinsider.com/articles/23/05/08/apples-ar-headset-new-macbook-air----what-to-expect-from-wwdc-2023?utm_medium=rss)
- - [Everyone Was Wrong About Reverse Osmosis—Until Now](https://www.wired.com/story/everyone-was-wrong-about-reverse-osmosis-until-now/)
- - [What happens when Google Search doesn’t have the answers?](https://www.theverge.com/23712602/google-search-25-years-anniversary-ai-artificial-intelligence)<!-- TECH:END -->
+ - [There hasn&#39;t been much drama in Apple&#39;s earnings for two decades -- and that&#39;s good](https://appleinsider.com/articles/23/05/08/there-hasnt-been-much-drama-in-apples-earnings-for-two-decades----and-thats-good?utm_medium=rss)
+ - [Sam Altman&#39;s Worldcoin launches World App, a self-custodial mobile app to manage World ID and other coins, in over 80 countries, ahead of its token launch &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230508/p7#a230508p7)
+ - [Running Sucks. Kettlebells Are the Answer](https://www.wired.com/story/goruck-sand-kettlebell-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
