@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Binder Of Extremely Rare Pokémon Cards Showed Up On Antiques Roadshow](https://kotaku.com/pokemon-cards-tcg-antiques-roadshow-rare-holo-mewtwo-1850415148)
- - [Sci-fi city builder Ixion gets a much-needed difficulty update](https://www.pcgamer.com/sci-fi-city-builder-ixion-gets-a-much-needed-difficulty-update)
- - [Oppenheimer trailer gives first look at Albert Einstein, still hides all-star cast](https://www.polygon.com/23715416/oppenheimer-christopher-nolan-movie-trailer-cast-einstein)<!-- GAME:END -->
+ - [Study claims that when a company&#39;s tech support adopted ChatGPT its staff got better at their jobs and became less likely to quit](https://www.pcgamer.com/study-claims-that-when-a-companys-tech-support-adopted-chatgpt-its-staff-got-better-at-their-jobs-and-became-less-likely-to-quit)
+ - [A Year Later, Pokémon Legends: Arceus’ Incomplete Story Remains The Series’ Most Compelling](https://kotaku.com/pokemon-legends-arceus-story-dlc-lucas-dawn-ingo-volo-1850415489)
+ - [The official Zelda: Tears of the Kingdom strategy guide will be out in June](https://www.polygon.com/legend-zelda-tears-kingdom/23691280/zelda-tears-kingdom-official-strategy-guide-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
