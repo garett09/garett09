@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps may offer lock screen navigation in iOS 17, claims iffy rumor](https://appleinsider.com/articles/23/05/08/apple-maps-may-offer-lock-screen-navigation-in-ios-17-claims-iffy-rumor?utm_medium=rss)
- - [Oppenheimer’s new trailer is the sound of the Doomsday Clock winding up](https://www.theverge.com/2023/5/8/23715344/oppenheimer-trailer-chris-nolan)
- - [New renders leak for Fairphone’s first pair of over-ear headphones](https://www.theverge.com/2023/5/8/23715173/fairphone-fairbuds-xl-noise-canceling-over-the-ear-headphones-leak)<!-- TECH:END -->
+ - [Wear OS 3 delay for Mobvoi watches isn’t letting up anytime soon, says Mobvoi](https://www.androidauthority.com/wear-os-3-mobvoi-3321637/)
+ - [Amazon&#39;s new Apple sale: $800 off MacBook Pro, $199 AirPods Pro 2, $100 off iPads](https://appleinsider.com/articles/23/05/08/amazons-new-apple-sale-800-off-macbook-pro-199-airpods-pro-2-100-off-ipads?utm_medium=rss)
+ - [How Google&#39;s attempt to create a better, faster mobile web for media companies with the AMP standard ended up ruining publishers&#39; trust in the internet giant &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230508/p9#a230508p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
