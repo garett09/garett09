@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right in front of his eyes](http://9gag.com/gag/aWGvyZq)
- - 🚯 [Notice why?](http://9gag.com/gag/axobrEL)
- - 🚯 [Title text](http://9gag.com/gag/a9q8ewm)<!-- MEMES:END -->
+ - 🚖 [Heart is not on both sides](http://9gag.com/gag/aYVP6KN)
+ - 🚯 [Shoplifting fail](http://9gag.com/gag/axobqjL)
+ - 🚯 [Taking a shit on a gas station be like...](http://9gag.com/gag/abvWn0B)<!-- MEMES:END -->
 
 --- 
 
