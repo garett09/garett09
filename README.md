@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Study claims that when a company&#39;s tech support adopted ChatGPT its staff got better at their jobs and became less likely to quit](https://www.pcgamer.com/study-claims-that-when-a-companys-tech-support-adopted-chatgpt-its-staff-got-better-at-their-jobs-and-became-less-likely-to-quit)
- - [A Year Later, Pokémon Legends: Arceus’ Incomplete Story Remains The Series’ Most Compelling](https://kotaku.com/pokemon-legends-arceus-story-dlc-lucas-dawn-ingo-volo-1850415489)
- - [The official Zelda: Tears of the Kingdom strategy guide will be out in June](https://www.polygon.com/legend-zelda-tears-kingdom/23691280/zelda-tears-kingdom-official-strategy-guide-buy)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor’s Got Your Back If You Purposefully Break Its Story](https://kotaku.com/star-wars-jedi-survivor-save-sequence-break-fix-koboh-1850415944)
+ - [The Legend of Zelda: Tears of the Kingdom pre-order guide](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
+ - [The best PS5 SSDs](https://www.polygon.com/what-to-buy/23603014/best-ssd-ps5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
