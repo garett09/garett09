@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Heart is not on both sides](http://9gag.com/gag/aYVP6KN)
- - 🚯 [Shoplifting fail](http://9gag.com/gag/axobqjL)
- - 🚯 [Taking a shit on a gas station be like...](http://9gag.com/gag/abvWn0B)<!-- MEMES:END -->
+ - 🚖 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
+ - 🚯 [Can you see it?](http://9gag.com/gag/ago8eYr)
+ - 🚯 [I am not 100% sure about the pig-unicorns](http://9gag.com/gag/a2Ky6VZ)<!-- MEMES:END -->
 
 --- 
 
