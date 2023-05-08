@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Catch-Up On Zelda: Breath Of The Wild Before The Sequel In Under Seven Minutes](https://kotaku.com/zelda-tears-kingdom-breath-wild-recap-lore-explainer-1850414523)
- - [Lego’s striking Tales of the Space Age set is now available](https://www.polygon.com/deals/2023/5/8/23712573/lego-ideas-tales-space-age-set-buy)
- - [PlayStation Store: April 2023’s top downloads](https://blog.playstation.com/2023/05/08/playstation-store-april-2023s-top-downloads/)<!-- GAME:END -->
+ - [All the House of the Dragon season 2 news we’ve heard so far](https://www.polygon.com/23419614/house-of-the-dragon-season-2-release-date-cast-news)
+ - [Dragonflight’s first big patch delves into World of Warcraft mysteries](https://www.polygon.com/23712446/wow-dragonflight-world-of-warcraft-zaralek-cavern-cinematics-lore)
+ - [Sign up now to test tabletop-inspired RPG For the King 2 for free later this week](https://www.pcgamer.com/sign-up-now-to-test-tabletop-inspired-rpg-for-the-king-2-for-free-later-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
