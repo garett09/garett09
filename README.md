@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the House of the Dragon season 2 news we’ve heard so far](https://www.polygon.com/23419614/house-of-the-dragon-season-2-release-date-cast-news)
- - [Dragonflight’s first big patch delves into World of Warcraft mysteries](https://www.polygon.com/23712446/wow-dragonflight-world-of-warcraft-zaralek-cavern-cinematics-lore)
- - [Sign up now to test tabletop-inspired RPG For the King 2 for free later this week](https://www.pcgamer.com/sign-up-now-to-test-tabletop-inspired-rpg-for-the-king-2-for-free-later-this-week)<!-- GAME:END -->
+ - [Binder Of Extremely Rare Pokémon Cards Showed Up On Antiques Roadshow](https://kotaku.com/pokemon-cards-tcg-antiques-roadshow-rare-holo-mewtwo-1850415148)
+ - [Sci-fi city builder Ixion gets a much-needed difficulty update](https://www.pcgamer.com/sci-fi-city-builder-ixion-gets-a-much-needed-difficulty-update)
+ - [Oppenheimer trailer gives first look at Albert Einstein, still hides all-star cast](https://www.polygon.com/23715416/oppenheimer-christopher-nolan-movie-trailer-cast-einstein)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
