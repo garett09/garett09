@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 9 may get boost from new chip based on A15](https://appleinsider.com/articles/23/05/08/apple-watch-series-9-may-get-boost-from-new-chip-based-on-a15?utm_medium=rss)
- - [Apple handed partial defeat in Corellium copyright appeal, but the saga isn&#39;t over yet](https://appleinsider.com/articles/23/05/08/apple-handed-partial-defeat-in-corellium-copyright-appeal-but-the-saga-isnt-over-yet?utm_medium=rss)
- - [A US appeals court upholds a lower court&#39;s 2019 ruling rejecting Apple&#39;s claims that Corellium&#39;s CORSEC security tool for simulating iOS violated copyright law &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/230508/p10#a230508p10)<!-- TECH:END -->
+ - [Production on Severance and A Knight of the Seven Kingdoms: The Hedge Knight is stopping for the WGA strike](https://www.theverge.com/2023/5/8/23715679/wga-strike-apple-severance-hbo-the-hedge-knight)
+ - [How to delete old emails in Gmail](https://www.androidauthority.com/how-to-delete-old-emails-in-gmail-3321380/)
+ - [Periscope lens camera rumored to be limited to iPhone 15 Pro Max](https://appleinsider.com/articles/23/05/08/periscope-lens-camera-to-be-limited-to-iphone-15-pro-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
