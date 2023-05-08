@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm acquires Autotalks, an Israeli fabless chipmaker that builds SoCs to help improve automotive safety, sources say for between $350M and $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230508/p3#a230508p3)
- - [SafeGraph Lands US Air Force Contract After Targeting Abortion Clinics](https://www.wired.com/story/safegraph-us-air-force-location-data/)
- - [HTC U23 Pro leaks online: The one you Desire?](https://www.androidauthority.com/htc-u23-pro-leak-3321431/)<!-- TECH:END -->
+ - [Voyager 2 Gets a Life-Extending Power Boost in Deep Space](https://www.wired.com/story/voyager-2-gets-a-life-extending-power-boost-in-deep-space/)
+ - [Hollywood’s Screenwriters Are Right to Fear AI](https://www.wired.com/story/hollywood-screenwriters-artificial-intelligence-guardrails/)
+ - [After Arm shunned a London listing in favor of New York, some VCs in the UK blame Brexit and institutional investors, who lack a good understanding of tech &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/230508/p4#a230508p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
