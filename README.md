@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There hasn&#39;t been much drama in Apple&#39;s earnings for two decades -- and that&#39;s good](https://appleinsider.com/articles/23/05/08/there-hasnt-been-much-drama-in-apples-earnings-for-two-decades----and-thats-good?utm_medium=rss)
- - [Sam Altman&#39;s Worldcoin launches World App, a self-custodial mobile app to manage World ID and other coins, in over 80 countries, ahead of its token launch &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230508/p7#a230508p7)
- - [Running Sucks. Kettlebells Are the Answer](https://www.wired.com/story/goruck-sand-kettlebell-rave/)<!-- TECH:END -->
+ - [Nintendo Live 2023 starts September 1st in Seattle, and the tickets are free](https://www.theverge.com/2023/5/8/23715191/nintendo-live-2023-date-free-tickets-information)
+ - [Google Pixel Tablet specs leak just days ahead of I/O](https://www.theverge.com/2023/5/8/23715130/google-pixel-tablet-specs-leak-release-date-io)
+ - [Amazon&#39;s Matter upgrades, smart blinds, and new cooking tech](https://appleinsider.com/articles/23/05/08/amazons-matter-upgrades-smart-blinds-and-new-cooking-tech?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
