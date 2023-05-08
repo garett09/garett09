@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This new Star Trek website lets you explore the bridge of every major iteration of the Enterprise](https://www.pcgamer.com/this-new-star-trek-website-lets-you-explore-the-bridge-of-every-major-iteration-of-the-enterprise)
- - [Nintendo seems to have fired back over the Tears of the Kingdom leak by DMCAing popular Switch emulation tools](https://www.pcgamer.com/nintendo-seems-to-have-fired-back-over-the-tears-of-the-kingdom-leak-by-dmcaing-popular-switch-emulation-tools)
- - [Star Wars: Visions season 2 makes the franchise feel like it’s capable of anything](https://www.polygon.com/star-wars/23713171/star-wars-visions-season-2-show-interview)<!-- GAME:END -->
+ - [I Could Watch These Rotoscoped Graphics All Day Long](https://kotaku.com/lunark-rotoscoped-graphics-visuals-video-game-switch-pc-1850413622)
+ - [Stranger Things, Marvel Movie Halted Because Hollywood Won&#39;t Pay Its Writers](https://kotaku.com/stranger-things-season-5-s5-netflix-strike-writers-wga-1850413575)
+ - [Dota 2&#39;s world championship returns to Seattle this year](https://www.pcgamer.com/dota-2s-world-championship-returns-to-seattle-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
