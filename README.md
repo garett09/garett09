@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kyiv air defense](http://9gag.com/gag/az2G0vb)
- - 🚯 [Today&#39;s march in Germany by supporters of Putin&#39;s aggression proved:](http://9gag.com/gag/adPnmGd)
- - 🚯 [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)<!-- MEMES:END -->
+ - 🚖 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)
+ - 🚯 [Big Brain Time](http://9gag.com/gag/az2GW8N)
+ - 🚯 [With the font size maxed](http://9gag.com/gag/ay2Wwjb)<!-- MEMES:END -->
 
 --- 
 
