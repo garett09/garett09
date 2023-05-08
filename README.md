@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m telling you I&#39;m really trying to quit smoking](http://9gag.com/gag/aOxDwxD)
- - 🚯 [They hated Jesus because he spoke the truth](http://9gag.com/gag/avQE3qX)
- - 🚯 [Psycho Girl](http://9gag.com/gag/abvW8db)<!-- MEMES:END -->
+ - 🚖 [...to lip sync on the kitchen counter](http://9gag.com/gag/a2Ky6KY)
+ - 🚯 [Which one&#39;s your favourite? Sorry, no potato](http://9gag.com/gag/aEqo3vp)
+ - 🚯 [Good news from Brazil. This is the first giant armadillo mating video in the wild in decades. They were hunted to near extinction. We are very happy with that.](http://9gag.com/gag/a4o5yPd)<!-- MEMES:END -->
 
 --- 
 
