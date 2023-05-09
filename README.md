@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cult webcomic Achewood is back, and bringing AI with it](https://www.polygon.com/entertainment/23712969/achewood-2023-ai-chris-onstad)
  - [Dark and Darker early access release delayed: &#39;We ask everyone to hold the line just a little longer&#39;](https://www.pcgamer.com/dark-and-darker-early-access-release-delayed-we-ask-everyone-to-hold-the-line-just-a-little-longer)
- - [Creature Photographing Supernatural Puzzle Adventure Moonrise Fall Hits Xbox](https://news.xbox.com/en-us/2023/05/09/moonrise-fall-hits-xbox/)
- - [Wartales offers a choice-heavy campaign with surprisingly good co-op](https://www.polygon.com/23715672/wartales-rpg-co-op-campaign-gameplay-world)<!-- GAME:END -->
+ - [Creature Photographing Supernatural Puzzle Adventure Moonrise Fall Hits Xbox](https://news.xbox.com/en-us/2023/05/09/moonrise-fall-hits-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
