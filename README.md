@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Devs Are Working On A Mysterious New Action-Adventure Codenamed &#39;Project Bloom&#39;](https://kotaku.com/pokemon-gamefreak-action-adventure-private-division-1850421427)
- - [Holy multitasking, Batman! Philips slapped an e-reader onto a monitor](https://www.pcgamer.com/holy-multitasking-batman-philips-slapped-an-e-reader-onto-a-monitor)
- - [Wait, there are two different games about causing large-scale mayhem in a pretend Ikea?](https://www.pcgamer.com/wait-there-are-two-different-games-about-causing-large-scale-mayhem-in-a-pretend-ikea)<!-- GAME:END -->
+ - [Make famous VTubers fight in this surprise Steam hit](https://www.pcgamer.com/make-famous-vtubers-fight-in-this-surprise-steam-hit)
+ - [Jedi: Survivor Perfectly Mixes Every Era Of Star Wars Together](https://kotaku.com/star-wars-jedi-survivor-high-republic-prequels-sequels-1850421636)
+ - [Why you&#39;re right to hate motion blur in games](https://www.pcgamer.com/why-people-hate-motion-blur-in-videogames)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
