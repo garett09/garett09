@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 13 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [What to expect at Google I/O 2023: Pixel Tablet, Pixel 7A, foldable-focused Android 14 details, a Pixel 8 and 8 Pro preview, PaLM 2, and maybe some AI surprises &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230509/p31#a230509p31)
- - [OpenAI releases research and an open-source tool that uses GPT-4 to try to explain the behavior of GPT-2&#39;s &quot;neurons&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230509/p30#a230509p30)<!-- TECH:END -->
+ - [Pokémon studio Game Freak is making an action-adventure game codenamed Project Bloom](https://www.theverge.com/23716737/game-freak-developer-project-bloom-game)
+ - [Brazil Proposed Internet Regulation. Big Tech Took the Gloves Off](https://www.wired.com/story/brazil-regulation-big-tech/)
+ - [Apple notifies Swift Student Challenge winners ahead of WWDC](https://appleinsider.com/articles/23/05/09/apple-notifies-swift-student-challenge-winners-ahead-of-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
