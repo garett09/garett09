@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting caveat.](http://9gag.com/gag/anzvLyb)
- - 🚯 [Sudoku](http://9gag.com/gag/amAmwOj)
- - 🚯 [With the font size maxed](http://9gag.com/gag/ay2Wwjb)<!-- MEMES:END -->
+ - 🚖 [Sad bald noises](http://9gag.com/gag/aXn4BW2)
+ - 🚯 [Handsome\ud83e\udd24](http://9gag.com/gag/a6qnAZA)
+ - 🚯 [This google play review](http://9gag.com/gag/adPnD9V)<!-- MEMES:END -->
 
 --- 
 
