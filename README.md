@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
- - [Meta open-sources multisensory AI model that combines six types of data](https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research)
- - [Researchers hope this tiny wearable could become Smell-o-Vision for VR](https://www.theverge.com/2023/5/9/23715453/wearable-smell-virtual-reality-immersive)<!-- TECH:END -->
+ - [Amazon announces Amazon Anywhere to let users of third-party apps buy related real-world items while in the app, launching with Niantic&#39;s new AR game Peridot &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/230509/p23#a230509p23)
+ - [‘I can’t make products just for 41-year-old tech founders’: Airbnb CEO Brian Chesky is taking it back to basics](https://www.theverge.com/2023/5/9/23716903/airbnb-ceo-brian-chesky-rooms-ai-travel-future-of-work-summer-2023)
+ - [A Radical Plan to Make AI Good, Not Evil](https://www.wired.com/story/anthropic-ai-chatbots-ethics/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
