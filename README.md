@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [African B2B e-commerce startups are scaling back operations and laying off staff; 28 of them raised $470M+ since 2008, of which 90% came between 2021 and 2022 &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/230509/p15#a230509p15)
- - [How to remove yourself from the internet in 2023](https://appleinsider.com/articles/23/05/09/how-to-remove-yourself-from-the-internet-in-2023?utm_medium=rss)
- - [Poco F5 series launched: Flagship power, premium features for under $500](https://www.androidauthority.com/poco-f5-series-3321979/)<!-- TECH:END -->
+ - [Full-featured Final Cut Pro &amp; Logic Pro coming to iPad in May](https://appleinsider.com/articles/23/05/09/full-featured-final-cut-pro-logic-pro-coming-to-ipad-in-may?utm_medium=rss)
+ - [Apple Watch Pride Edition 2023 Sport Band features unique geometric patterns](https://appleinsider.com/articles/23/05/09/apple-watch-pride-edition-2023-sport-band-features-unique-geometric-patterns?utm_medium=rss)
+ - [Apple announces Final Cut Pro and Logic Pro for iPad, available as subscriptions on May 23; Final Cut requires an M1 chip or newer and Logic needs A12 or newer &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/230509/p17#a230509p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
