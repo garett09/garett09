@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global tablet shipments fell 18% YoY to 31.7M in Q1 2023, the lowest shipment volume since Q1 2020; Apple had 12.35M shipments, down 17% YoY, for a 38.9% share &lpar;Canalys&rpar;](http://www.techmeme.com/230509/p10#a230509p10)
- - [Reality TV Saved Me](https://www.wired.com/story/reality-tv-saved-me/)
- - [After GPTZero gained 1.2M users since January, co-founder Edward Tian raised $3.5M to launch Origin, aimed at &quot;saving journalism&quot; by detecting AI disinformation &lpar;Diana Li/Bloomberg&rpar;](http://www.techmeme.com/230509/p9#a230509p9)<!-- TECH:END -->
+ - [How Something Awful plans to archive the source images of millions of Imgur links by May 15, after Imgur announced it would delete nudity, porn, and old content &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230509/p12#a230509p12)
+ - [The Team of Sleuths Quietly Hunting Cyberattack-for-Hire Services](https://www.wired.com/story/big-pipes-ddos-for-hire-fbi/)
+ - [The Far North Is Burning—and Turning Up the Heat on the Planet](https://www.wired.com/story/the-far-north-is-burning-and-turning-up-the-heat-on-the-planet/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
