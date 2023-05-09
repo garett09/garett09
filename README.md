@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cult webcomic Achewood is back, and bringing AI with it](https://www.polygon.com/entertainment/23712969/achewood-2023-ai-chris-onstad)
- - [Dark and Darker early access release delayed: &#39;We ask everyone to hold the line just a little longer&#39;](https://www.pcgamer.com/dark-and-darker-early-access-release-delayed-we-ask-everyone-to-hold-the-line-just-a-little-longer)
- - [Creature Photographing Supernatural Puzzle Adventure Moonrise Fall Hits Xbox](https://news.xbox.com/en-us/2023/05/09/moonrise-fall-hits-xbox/)<!-- GAME:END -->
+ - [Pokémon developer Game Freak reveals new action-adventure game Project Bloom](https://www.polygon.com/23716073/game-freak-project-bloom-announcement-release-date)
+ - [Walt Disney rolls over in his grave as I wishlist this M-rated Mickey Mouse FPS](https://www.pcgamer.com/walt-disney-rolls-over-in-his-grave-as-i-wishlist-this-m-rated-mickey-mouse-fps)
+ - [Best Diablo 4 Rogue build: Twisting Blades with high mobility AOE damage](https://www.pcgamer.com/best-diablo-4-rogue-build)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
