@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
- - 🚯 [Most interesting race....](http://9gag.com/gag/aL1GYyx)
- - 🚯 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)<!-- MEMES:END -->
+ - 🚖 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
+ - 🚯 [She got balls!](http://9gag.com/gag/aXn45Xg)
+ - 🚯 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)<!-- MEMES:END -->
 
 --- 
 
