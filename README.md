@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Ponyta be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23698017/can-ponyta-be-shiny-rapidash)
- - [Viz’s new subscription service will deliver translated manga the same day it’s out in Japan](https://www.polygon.com/23711092/viz-media-new-subscription-app-manga-shojo)
- - [Today&#39;s Wordle hint and answer #689: Tuesday, May 9](https://www.pcgamer.com/wordle-today-hint-answer-689-may-9)<!-- GAME:END -->
+ - [How to open the Blazing Shadowflame chest in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-blazing-shadowflame-chest-unlock)
+ - [Nvidia reportedly prepping a 16GB RTX 4060 Ti for July](https://www.pcgamer.com/nvidia-reportedly-prepping-a-16gb-rtx-4060-ti-for-july)
+ - [PC-specific fixes are coming to Star Wars Jedi: Survivor, but EA says there&#39;s still work to be done](https://www.pcgamer.com/pc-specific-fixes-are-coming-to-star-wars-jedi-survivor-but-ea-says-theres-still-work-to-be-done)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
