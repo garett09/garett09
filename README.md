@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Saints Row’s Star Shines in the Ultimate Heist Expansion](https://news.xbox.com/en-us/2023/05/09/saints-rows-sunshine-springs-update/)
- - [With Redfall, Arkane mishandles Stephen King’s legacy — and its own](https://www.polygon.com/23715203/redfall-ending-game-pass-stephen-king)
- - [Finally, proof your choice of gaming chair can affect the performance of your PC](https://www.pcgamer.com/finally-proof-your-choice-of-gaming-chair-can-affect-the-performance-of-your-pc)<!-- GAME:END -->
+ - [Disney Princesses, ranked by how well they’d survive the real world](https://www.polygon.com/century-of-disney/23715645/disney-princesses-ranked-by-real-world-survivability)
+ - [Apex Legends Arsenal – the New Season Starts Today and Includes a New Legend, Major World’s Edge Map Updates, and Much More](https://news.xbox.com/en-us/2023/05/09/apex-legends-arsenal-the-new-season-starts-today-and-includes-a-new-legend-major-worlds-edge-map-updates-and-much-more/)
+ - [Oops! This pro Valorant team were forced to forfeit a tournament match because one of them couldn&#39;t stop playing Honkai: Star Rail](https://www.pcgamer.com/oops-this-pro-valorant-team-were-forced-to-forfeit-a-tournament-match-because-one-of-them-couldnt-stop-playing-honkai-star-rail)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
