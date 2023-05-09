@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russia\u2019s military parade](http://9gag.com/gag/a4o5Mry)
- - 🚯 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
- - 🚯 [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)<!-- MEMES:END -->
+ - 🚖 [When you have integrity, kindness, and love, it&#39;s hard not to win the long game.](http://9gag.com/gag/avQEbLE)
+ - 🚯 [They hated Jesus because he spoke the truth](http://9gag.com/gag/avQE3qX)
+ - 🚯 [Jennifer Aniston&#39;s reaction was 100% genuine. David Schwimmer directed this episode, he intentionally didn&#39;t tell Aniston what will happen.](http://9gag.com/gag/a7qVQGx)<!-- MEMES:END -->
 
 --- 
 
