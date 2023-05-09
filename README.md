@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A man sued Pepsico after the company refused to redeem his 7,000,000 Pepsi Points for a AV-8 Harrier jump jet as advertised in their commercial](http://9gag.com/gag/aPg8EZK)
+ - 🚖 [Russia\u2019s military parade](http://9gag.com/gag/a4o5Mry)
  - 🚯 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
- - 🚯 [What is wrong with it though](http://9gag.com/gag/aoK4QMx)<!-- MEMES:END -->
+ - 🚯 [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)<!-- MEMES:END -->
 
 --- 
 
