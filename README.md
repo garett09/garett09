@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Princesses, ranked by how well they’d survive the real world](https://www.polygon.com/century-of-disney/23715645/disney-princesses-ranked-by-real-world-survivability)
- - [Apex Legends Arsenal – the New Season Starts Today and Includes a New Legend, Major World’s Edge Map Updates, and Much More](https://news.xbox.com/en-us/2023/05/09/apex-legends-arsenal-the-new-season-starts-today-and-includes-a-new-legend-major-worlds-edge-map-updates-and-much-more/)
- - [Oops! This pro Valorant team were forced to forfeit a tournament match because one of them couldn&#39;t stop playing Honkai: Star Rail](https://www.pcgamer.com/oops-this-pro-valorant-team-were-forced-to-forfeit-a-tournament-match-because-one-of-them-couldnt-stop-playing-honkai-star-rail)<!-- GAME:END -->
+ - [Queen Charlotte’s gay butlers deserve a full spinoff](https://www.polygon.com/23715775/queen-charlotte-bridgerton-spinoff-brimsley-reynolds)
+ - [Tongue-in-cheek RPG Greedventory is slashing its way to Steam soon](https://www.pcgamer.com/tongue-in-cheek-rpg-greedventory-is-slashing-its-way-to-steam-soon)
+ - [This Warhammer 40K painter gives back via fixing fans’ favorite dudes](https://www.polygon.com/23716928/warhammer-40k-maverick-nicolson-plastic-surgery-painting-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
