@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon could be hiding Anywhere](https://www.theverge.com/2023/5/9/23717020/amazon-anywhere-niantic-peridot-shopping-game-virtual-world)
- - [Daily Deals: iPhone 11 from $280, $269 iPad 9th Generation, Apple Watch SE $179, more](https://appleinsider.com/articles/23/05/09/daily-deals-iphone-11-from-280-269-ipad-9th-generation-apple-watch-se-179-more?utm_medium=rss)
- - [Goldman, Microsoft, Cboe, Deloitte, and others plan to test the blockchain Canton Network in July, linking apps built with Digital Asset&#39;s Daml smart contract &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230509/p26#a230509p26)<!-- TECH:END -->
+ - [Carriers in dozens of US states are tearing out Chinese equipment, a difficult process the FCC says has already cost $5B+, well over the $1.9B reimbursement pot &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/230509/p29#a230509p29)
+ - [Apple seeds release candidates of iOS 16.5 &amp; iPadOS 16.5](https://appleinsider.com/articles/23/05/09/apple-seeds-release-candidates-of-ios-165-ipados-165?utm_medium=rss)
+ - [TSMC&#39;s plan to build a German fab focusing on 28nm chips makes more sense than its US foray, as a way to meet automotive industry demand and political pressure &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/230509/p28#a230509p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
