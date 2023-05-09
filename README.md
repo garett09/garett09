@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Spotify removed ~7% of tracks uploaded by AI music startup Boomy, or &quot;tens of thousands&quot; of songs, over suspicion of bots posing as human listeners &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230509/p5#a230509p5)
- - [VanMoof S4 e-bike review: the one to buy](https://www.theverge.com/23715026/vanmoof-s4-review-price-specs-date)
- - [The iPhone 16 Pro series could finally get a longer display](https://www.androidauthority.com/iphone-16-pro-longer-display-leak-3321870/)<!-- TECH:END -->
+ - [Vienna-based Prewave, which helps companies monitor their suppliers online and create risk alerts, raised a ~$20M Series A+, following a $12.3M Series A &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230509/p6#a230509p6)
+ - [Miss microSD slots and headphone jacks? These new flagships are for you.](https://www.androidauthority.com/sharp-aquos-r8-pro-3321883/)
+ - [Source: Spotify removed ~7% of tracks uploaded by AI music startup Boomy, or &quot;tens of thousands&quot; of songs, over suspicion of bots posing as human listeners &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230509/p5#a230509p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
