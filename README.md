@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big Brain Time](http://9gag.com/gag/az2GW8N)
- - 🚯 [She got balls!](http://9gag.com/gag/aXn45Xg)
- - 🚯 [I wonder what was the clown\u2019s answer.](http://9gag.com/gag/aKEWQ2W)<!-- MEMES:END -->
+ - 🚖 [The stairway in this hotel goes straight forward for 13 floors instead of having switchbacks](http://9gag.com/gag/anzxerb)
+ - 🚯 [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
+ - 🚯 [She got balls!](http://9gag.com/gag/aXn45Xg)<!-- MEMES:END -->
 
 --- 
 
