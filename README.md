@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A man sued Pepsico after the company refused to redeem his 7,000,000 Pepsi Points for a AV-8 Harrier jump jet as advertised in their commercial](http://9gag.com/gag/aPg8EZK)
- - 🚯 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)
- - 🚯 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)<!-- MEMES:END -->
+ - 🚖 [Big Brain Time](http://9gag.com/gag/az2GW8N)
+ - 🚯 [She got balls!](http://9gag.com/gag/aXn45Xg)
+ - 🚯 [I wonder what was the clown\u2019s answer.](http://9gag.com/gag/aKEWQ2W)<!-- MEMES:END -->
 
 --- 
 
