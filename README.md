@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Redfall’s Single-Player Is No Prey Or Dishonored](https://kotaku.com/redfall-single-player-xbox-arkane-immersive-sim-co-op-1850421048)
- - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
- - [The Good Doctor goes unexpectedly viral with ‘I am a surgeon’ meme](https://www.polygon.com/23717261/the-good-doctor-meme-shaun-murphy-dr-han-i-am-a-surgeon)<!-- GAME:END -->
+ - [Pokémon Devs Are Working On A Mysterious New Action-Adventure Codenamed &#39;Project Bloom&#39;](https://kotaku.com/pokemon-gamefreak-action-adventure-private-division-1850421427)
+ - [Holy multitasking, Batman! Philips slapped an e-reader onto a monitor](https://www.pcgamer.com/holy-multitasking-batman-philips-slapped-an-e-reader-onto-a-monitor)
+ - [Wait, there are two different games about causing large-scale mayhem in a pretend Ikea?](https://www.pcgamer.com/wait-there-are-two-different-games-about-causing-large-scale-mayhem-in-a-pretend-ikea)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
