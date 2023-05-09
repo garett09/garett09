@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Full-featured Final Cut Pro &amp; Logic Pro coming to iPad in May](https://appleinsider.com/articles/23/05/09/full-featured-final-cut-pro-logic-pro-coming-to-ipad-in-may?utm_medium=rss)
- - [Apple Watch Pride Edition 2023 Sport Band features unique geometric patterns](https://appleinsider.com/articles/23/05/09/apple-watch-pride-edition-2023-sport-band-features-unique-geometric-patterns?utm_medium=rss)
- - [Apple announces Final Cut Pro and Logic Pro for iPad, available as subscriptions on May 23; Final Cut requires an M1 chip or newer and Logic needs A12 or newer &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/230509/p17#a230509p17)<!-- TECH:END -->
+ - [Starfield will let you do drugs and have sex &lpar;with a jetpack on, maybe&rpar;](https://www.theverge.com/2023/5/9/23716721/starfield-details-esrb-description-xbox-microsoft)
+ - [HUAWEI Mate X3, P60 Pro launched globally: Premium hardware &lpar;and pricing&rpar;](https://www.androidauthority.com/huawei-mate-x3-p60-pro-global-launch-3321458/)
+ - [General Motors hires former Apple VP Mike Abbott to lead a newly created software unit, starting May 22; Abbott was VP of Engineering for Apple&#39;s Cloud Services &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/230509/p20#a230509p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
