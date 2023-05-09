@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How To Delete Your Data From ChatGPT](https://www.wired.com/story/how-to-delete-your-data-from-chatgpt/)
- - [WhatsApp partners with Stripe to let Singapore-based users pay some businesses within the app, following the launch of merchant payments in India and Brazil &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230509/p3#a230509p3)
- - [Sam Bankman-Fried&#39;s lawyers file pretrial motions to dismiss most criminal charges against him, but not charges tied to securities fraud and money laundering &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230509/p2#a230509p2)<!-- TECH:END -->
+ - [The iPhone 16 Pro series could finally get a longer display](https://www.androidauthority.com/iphone-16-pro-longer-display-leak-3321870/)
+ - [Volvo’s next electric vehicle is a small SUV called the EX30](https://www.theverge.com/2023/5/9/23716016/volvo-ex30-electric-suv-global-debut-date)
+ - [Analysis: of the 76 coins the SEC considers securities, 16 can be traded on major US crypto exchanges; tokens labeled as securities in 2022 almost tripled YoY &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230509/p4#a230509p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
