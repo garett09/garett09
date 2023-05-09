@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 16 Pro series could finally get a longer display](https://www.androidauthority.com/iphone-16-pro-longer-display-leak-3321870/)
- - [Volvo’s next electric vehicle is a small SUV called the EX30](https://www.theverge.com/2023/5/9/23716016/volvo-ex30-electric-suv-global-debut-date)
- - [Analysis: of the 76 coins the SEC considers securities, 16 can be traded on major US crypto exchanges; tokens labeled as securities in 2022 almost tripled YoY &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230509/p4#a230509p4)<!-- TECH:END -->
+ - [Source: Spotify removed ~7% of tracks uploaded by AI music startup Boomy, or &quot;tens of thousands&quot; of songs, over suspicion of bots posing as human listeners &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230509/p5#a230509p5)
+ - [VanMoof S4 e-bike review: the one to buy](https://www.theverge.com/23715026/vanmoof-s4-review-price-specs-date)
+ - [The iPhone 16 Pro series could finally get a longer display](https://www.androidauthority.com/iphone-16-pro-longer-display-leak-3321870/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
