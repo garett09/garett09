@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)
- - 🚯 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)
- - 🚯 [Most interesting race....](http://9gag.com/gag/aL1GYyx)<!-- MEMES:END -->
+ - 🚖 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
+ - 🚯 [Most interesting race....](http://9gag.com/gag/aL1GYyx)
+ - 🚯 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)<!-- MEMES:END -->
 
 --- 
 
