@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lore Accurate](http://9gag.com/gag/a4oApvd)
- - 🚯 [Good question indeed](http://9gag.com/gag/aQEA0E2)
- - 🚯 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)<!-- MEMES:END -->
+ - 🚖 [What if we use 100% of our brains](http://9gag.com/gag/amAxq4y)
+ - 🚯 [Lore Accurate](http://9gag.com/gag/a4oApvd)
+ - 🚯 [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)<!-- MEMES:END -->
 
 --- 
 
