@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
- - 🚯 [The stairway in this hotel goes straight forward for 13 floors instead of having switchbacks](http://9gag.com/gag/anzxerb)
- - 🚯 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)<!-- MEMES:END -->
+ - 🚖 [Florida recently implemented E-Verify and it has caused its construction sites with illegals to stop. E-verify fines an employer who hires illegal or fails to provide documentation of $1,000 per day](http://9gag.com/gag/aVbZzVd)
+ - 🚯 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)
+ - 🚯 [Jihadi universe](http://9gag.com/gag/aDYbRbB)<!-- MEMES:END -->
 
 --- 
 
