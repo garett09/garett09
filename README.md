@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe they made it a circle](http://9gag.com/gag/aOxDLZN)
- - 🚯 [She got balls!](http://9gag.com/gag/aXn45Xg)
- - 🚯 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)<!-- MEMES:END -->
+ - 🚖 [A man sued Pepsico after the company refused to redeem his 7,000,000 Pepsi Points for a AV-8 Harrier jump jet as advertised in their commercial](http://9gag.com/gag/aPg8EZK)
+ - 🚯 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)
+ - 🚯 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)<!-- MEMES:END -->
 
 --- 
 
