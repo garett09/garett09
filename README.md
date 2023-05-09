@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vienna-based Prewave, which helps companies monitor their suppliers online and create risk alerts, raised a ~$20M Series A+, following a $12.3M Series A &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230509/p6#a230509p6)
- - [Miss microSD slots and headphone jacks? These new flagships are for you.](https://www.androidauthority.com/sharp-aquos-r8-pro-3321883/)
- - [Source: Spotify removed ~7% of tracks uploaded by AI music startup Boomy, or &quot;tens of thousands&quot; of songs, over suspicion of bots posing as human listeners &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/230509/p5#a230509p5)<!-- TECH:END -->
+ - [Global tablet shipments fell 18% YoY to 31.7M in Q1 2023, the lowest shipment volume since Q1 2020; Apple had 12.35M shipments, down 17% YoY, for a 38.9% share &lpar;Canalys&rpar;](http://www.techmeme.com/230509/p10#a230509p10)
+ - [Reality TV Saved Me](https://www.wired.com/story/reality-tv-saved-me/)
+ - [After GPTZero gained 1.2M users since January, co-founder Edward Tian raised $3.5M to launch Origin, aimed at &quot;saving journalism&quot; by detecting AI disinformation &lpar;Diana Li/Bloomberg&rpar;](http://www.techmeme.com/230509/p9#a230509p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
