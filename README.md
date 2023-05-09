@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starfield will let you do drugs and have sex &lpar;with a jetpack on, maybe&rpar;](https://www.theverge.com/2023/5/9/23716721/starfield-details-esrb-description-xbox-microsoft)
- - [HUAWEI Mate X3, P60 Pro launched globally: Premium hardware &lpar;and pricing&rpar;](https://www.androidauthority.com/huawei-mate-x3-p60-pro-global-launch-3321458/)
- - [General Motors hires former Apple VP Mike Abbott to lead a newly created software unit, starting May 22; Abbott was VP of Engineering for Apple&#39;s Cloud Services &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/230509/p20#a230509p20)<!-- TECH:END -->
+ - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [Meta open-sources multisensory AI model that combines six types of data](https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research)
+ - [Researchers hope this tiny wearable could become Smell-o-Vision for VR](https://www.theverge.com/2023/5/9/23715453/wearable-smell-virtual-reality-immersive)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
