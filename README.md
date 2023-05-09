@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon studio Game Freak is making an action-adventure game codenamed Project Bloom](https://www.theverge.com/23716737/game-freak-developer-project-bloom-game)
- - [Brazil Proposed Internet Regulation. Big Tech Took the Gloves Off](https://www.wired.com/story/brazil-regulation-big-tech/)
- - [Apple notifies Swift Student Challenge winners ahead of WWDC](https://appleinsider.com/articles/23/05/09/apple-notifies-swift-student-challenge-winners-ahead-of-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [Tucker Carlson is taking his show to Twitter](https://www.theverge.com/2023/5/9/23717488/tucker-carlson-fox-news-twitter-free-speech)
+ - [Tucker Carlson will relaunch his show on Twitter with help from ex-Fox News staff and will forgo at least $25M owed to him by Fox to break a non-compete clause &lpar;Dylan Byers/@dylanbyers&rpar;](http://www.techmeme.com/230509/p35#a230509p35)
+ - [Airbnb reports Q1 revenue up 20% YoY to $1.82B, vs. $1.79B est., its first profitable Q1 with a $117M net income, and a cautious outlook for Q2; ABNB drops 10%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230509/p34#a230509p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
