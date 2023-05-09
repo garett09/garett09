@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU draft proposal: non-EU cloud providers seeking an EU cybersecurity label to handle sensitive data must do so via a joint venture with an EU-based company &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230509/p38#a230509p38)
- - [‘PlugwalkJoe’ pleads guilty for the massive 2020 Twitter hack and other crimes](https://www.theverge.com/2023/5/9/23717558/plugwalkjoe-pleads-guilty-twitter-hack-other-crimes-tiktok)
- - [Unannounced Beats Studio Pro headphones revealed in iOS beta](https://www.theverge.com/2023/5/9/23717444/beats-studio-pro-noise-canceling-headphones-leak)<!-- TECH:END -->
+ - [Logitech A30 The Mandalorian Edition review: This is the way](https://appleinsider.com/articles/23/05/09/logitech-a30-the-mandalorian-edition-review-this-is-the-way?utm_medium=rss)
+ - [GitHub&#39;s push protection feature, which automatically blocks the leak of sensitive data like API keys and access tokens, is now free for all public repositories &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230509/p42#a230509p42)
+ - [4K TV Deals: Save Up to $1,000 on Samsung, LG, Vizio and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
