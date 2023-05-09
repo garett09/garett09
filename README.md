@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon announces Amazon Anywhere to let users of third-party apps buy related real-world items while in the app, launching with Niantic&#39;s new AR game Peridot &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/230509/p23#a230509p23)
- - [‘I can’t make products just for 41-year-old tech founders’: Airbnb CEO Brian Chesky is taking it back to basics](https://www.theverge.com/2023/5/9/23716903/airbnb-ceo-brian-chesky-rooms-ai-travel-future-of-work-summer-2023)
- - [A Radical Plan to Make AI Good, Not Evil](https://www.wired.com/story/anthropic-ai-chatbots-ethics/)<!-- TECH:END -->
+ - [Amazon could be hiding Anywhere](https://www.theverge.com/2023/5/9/23717020/amazon-anywhere-niantic-peridot-shopping-game-virtual-world)
+ - [Daily Deals: iPhone 11 from $280, $269 iPad 9th Generation, Apple Watch SE $179, more](https://appleinsider.com/articles/23/05/09/daily-deals-iphone-11-from-280-269-ipad-9th-generation-apple-watch-se-179-more?utm_medium=rss)
+ - [Goldman, Microsoft, Cboe, Deloitte, and others plan to test the blockchain Canton Network in July, linking apps built with Digital Asset&#39;s Daml smart contract &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230509/p26#a230509p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
