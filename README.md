@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What if we use 100% of our brains](http://9gag.com/gag/amAxq4y)
- - 🚯 [Lore Accurate](http://9gag.com/gag/a4oApvd)
- - 🚯 [Biker saves girl from creepy stalker chasing her](http://9gag.com/gag/aPg8K3R)<!-- MEMES:END -->
+ - 🚖 [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
+ - 🚯 [The stairway in this hotel goes straight forward for 13 floors instead of having switchbacks](http://9gag.com/gag/anzxerb)
+ - 🚯 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)<!-- MEMES:END -->
 
 --- 
 
