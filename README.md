@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taking a shit on a gas station be like...](http://9gag.com/gag/abvWn0B)
+ - 🚖 [A man sued Pepsico after the company refused to redeem his 7,000,000 Pepsi Points for a AV-8 Harrier jump jet as advertised in their commercial](http://9gag.com/gag/aPg8EZK)
  - 🚯 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
- - 🚯 [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)<!-- MEMES:END -->
+ - 🚯 [What is wrong with it though](http://9gag.com/gag/aoK4QMx)<!-- MEMES:END -->
 
 --- 
 
