@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)
- - 🚯 [Big Brain Time](http://9gag.com/gag/az2GW8N)
- - 🚯 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)<!-- MEMES:END -->
+ - 🚖 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)
+ - 🚯 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)
+ - 🚯 [Most interesting race....](http://9gag.com/gag/aL1GYyx)<!-- MEMES:END -->
 
 --- 
 
