@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sad bald noises](http://9gag.com/gag/aXn4BW2)
- - 🚯 [Handsome\ud83e\udd24](http://9gag.com/gag/a6qnAZA)
- - 🚯 [This google play review](http://9gag.com/gag/adPnD9V)<!-- MEMES:END -->
+ - 🚖 [Grandma outside the family home in the 60s](http://9gag.com/gag/aoK472e)
+ - 🚯 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)
+ - 🚯 [Here\u2019s what colors you should wear if you\u2019re trying to keep cool during a hot commute](http://9gag.com/gag/aNwVbPb)<!-- MEMES:END -->
 
 --- 
 
