@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Queen Charlotte’s gay butlers deserve a full spinoff](https://www.polygon.com/23715775/queen-charlotte-bridgerton-spinoff-brimsley-reynolds)
- - [Tongue-in-cheek RPG Greedventory is slashing its way to Steam soon](https://www.pcgamer.com/tongue-in-cheek-rpg-greedventory-is-slashing-its-way-to-steam-soon)
- - [This Warhammer 40K painter gives back via fixing fans’ favorite dudes](https://www.polygon.com/23716928/warhammer-40k-maverick-nicolson-plastic-surgery-painting-series)<!-- GAME:END -->
+ - [Dark and Darker early access release delayed: &#39;We ask everyone to hold the line just a little longer&#39;](https://www.pcgamer.com/dark-and-darker-early-access-release-delayed-we-ask-everyone-to-hold-the-line-just-a-little-longer)
+ - [Creature Photographing Supernatural Puzzle Adventure Moonrise Fall Hits Xbox](https://news.xbox.com/en-us/2023/05/09/moonrise-fall-hits-xbox/)
+ - [Wartales offers a choice-heavy campaign with surprisingly good co-op](https://www.polygon.com/23715672/wartales-rpg-co-op-campaign-gameplay-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
