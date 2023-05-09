@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The stairway in this hotel goes straight forward for 13 floors instead of having switchbacks](http://9gag.com/gag/anzxerb)
- - 🚯 [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
- - 🚯 [She got balls!](http://9gag.com/gag/aXn45Xg)<!-- MEMES:END -->
+ - 🚖 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)
+ - 🚯 [What if we use 100% of our brains](http://9gag.com/gag/amAxq4y)
+ - 🚯 [That\u2019s what he heard, in detail.](http://9gag.com/gag/a1PVpYP)<!-- MEMES:END -->
 
 --- 
 
