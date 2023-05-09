@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)
+ - 🚖 [Sad bald noises](http://9gag.com/gag/aXn4BW2)
  - 🚯 [Interesting caveat.](http://9gag.com/gag/anzvLyb)
- - 🚯 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)<!-- MEMES:END -->
+ - 🚯 [Handsome\ud83e\udd24](http://9gag.com/gag/a6qnAZA)<!-- MEMES:END -->
 
 --- 
 
