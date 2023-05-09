@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Magnus Carlsen plays, The maddest of lads](http://9gag.com/gag/ay2WygX)
- - 🚯 [Lore Accurate](http://9gag.com/gag/a4oApvd)
- - 🚯 [Good question indeed](http://9gag.com/gag/aQEA0E2)<!-- MEMES:END -->
+ - 🚖 [Lore Accurate](http://9gag.com/gag/a4oApvd)
+ - 🚯 [Good question indeed](http://9gag.com/gag/aQEA0E2)
+ - 🚯 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)<!-- MEMES:END -->
 
 --- 
 
