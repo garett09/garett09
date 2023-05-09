@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Colorized photo of Rasputin with Tsarina Alexandra Fyodorovna, her children and their nurse, 1908](http://9gag.com/gag/aZDQ6PW)
- - 🚯 [What if we use 100% of our brains](http://9gag.com/gag/amAxq4y)
- - 🚯 [That\u2019s what he heard, in detail.](http://9gag.com/gag/a1PVpYP)<!-- MEMES:END -->
+ - 🚖 [Magnus Carlsen plays, The maddest of lads](http://9gag.com/gag/ay2WygX)
+ - 🚯 [Lore Accurate](http://9gag.com/gag/a4oApvd)
+ - 🚯 [Good question indeed](http://9gag.com/gag/aQEA0E2)<!-- MEMES:END -->
 
 --- 
 
