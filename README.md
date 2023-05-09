@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon developer Game Freak reveals new action-adventure game Project Bloom](https://www.polygon.com/23716073/game-freak-project-bloom-announcement-release-date)
- - [Walt Disney rolls over in his grave as I wishlist this M-rated Mickey Mouse FPS](https://www.pcgamer.com/walt-disney-rolls-over-in-his-grave-as-i-wishlist-this-m-rated-mickey-mouse-fps)
- - [Best Diablo 4 Rogue build: Twisting Blades with high mobility AOE damage](https://www.pcgamer.com/best-diablo-4-rogue-build)<!-- GAME:END -->
+ - [Redfall’s Single-Player Is No Prey Or Dishonored](https://kotaku.com/redfall-single-player-xbox-arkane-immersive-sim-co-op-1850421048)
+ - [The best Steam Deck accessories](https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories)
+ - [The Good Doctor goes unexpectedly viral with ‘I am a surgeon’ meme](https://www.polygon.com/23717261/the-good-doctor-meme-shaun-murphy-dr-han-i-am-a-surgeon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
