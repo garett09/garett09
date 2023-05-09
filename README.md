@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Something Awful plans to archive the source images of millions of Imgur links by May 15, after Imgur announced it would delete nudity, porn, and old content &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/230509/p12#a230509p12)
- - [The Team of Sleuths Quietly Hunting Cyberattack-for-Hire Services](https://www.wired.com/story/big-pipes-ddos-for-hire-fbi/)
- - [The Far North Is Burning—and Turning Up the Heat on the Planet](https://www.wired.com/story/the-far-north-is-burning-and-turning-up-the-heat-on-the-planet/)<!-- TECH:END -->
+ - [African B2B e-commerce startups are scaling back operations and laying off staff; 28 of them raised $470M+ since 2008, of which 90% came between 2021 and 2022 &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/230509/p15#a230509p15)
+ - [How to remove yourself from the internet in 2023](https://appleinsider.com/articles/23/05/09/how-to-remove-yourself-from-the-internet-in-2023?utm_medium=rss)
+ - [Poco F5 series launched: Flagship power, premium features for under $500](https://www.androidauthority.com/poco-f5-series-3321979/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
