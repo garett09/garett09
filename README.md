@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to open the Blazing Shadowflame chest in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-blazing-shadowflame-chest-unlock)
- - [Nvidia reportedly prepping a 16GB RTX 4060 Ti for July](https://www.pcgamer.com/nvidia-reportedly-prepping-a-16gb-rtx-4060-ti-for-july)
- - [PC-specific fixes are coming to Star Wars Jedi: Survivor, but EA says there&#39;s still work to be done](https://www.pcgamer.com/pc-specific-fixes-are-coming-to-star-wars-jedi-survivor-but-ea-says-theres-still-work-to-be-done)<!-- GAME:END -->
+ - [Where to buy Legend of Zelda amiibo that work with Tears of the Kingdom](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
+ - [This MOBA mutation where you don&#39;t fight other players will get a closed beta next month](https://www.pcgamer.com/this-moba-mutation-where-you-dont-fight-other-players-will-get-a-closed-beta-next-month)
+ - [Niantic’s new game Peridot is part pet sim, part research project](https://www.polygon.com/23715003/peridot-preview-niantic-pet-sim-future-of-ar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
