@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch Google I/O 2023 here to see the launch of the Pixel Fold, Pixel 7a, more](https://www.androidauthority.com/watch-google-io-2023-3321582/)
- - [A Mysterious New Hacker Group, Red Stinger, Is Lurking in Ukraine’s Cyberspace](https://www.wired.com/story/red-stinger-russia-ukraine-apt/)
- - [Watch: Google jumps the gun, shows the Pixel Fold in all its glory](https://www.androidauthority.com/google-pixel-fold-video-ad-3322633/)<!-- TECH:END -->
+ - [Twitter’s Purge of Old Accounts Will Be Pure Chaos](https://www.wired.com/story/twitter-purge-old-accounts/)
+ - [Free All-Terrain Chairs Are Making the Great Outdoors Even Better](https://www.wired.com/story/free-all-terrain-chairs-national-state-park-accessibility/)
+ - [How to Reclaim Your Online Privacy](https://www.wired.com/story/have-a-nice-future-podcast-5/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
