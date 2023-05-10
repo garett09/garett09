@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces $1,799 Pixel Fold, with 120Hz 7.6&quot; main screen, 5.8&quot; exterior screen, Tensor G2 chip, and 12GB of RAM, for preorder now and arriving in June &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/230510/p40#a230510p40)
- - [The nine biggest announcements from Google I/O 2023](https://www.theverge.com/23718158/google-io-2023-biggest-announcements-ai-pixel-fold-tablet-android-14)
- - [Frank Ocean fans are getting scammed with fake AI-generated songs](https://www.theverge.com/2023/5/10/23718291/ai-music-scams-fake-frank-ocean-songs-legal-copyright)<!-- TECH:END -->
+ - [Robinhood reports Q1 revenue up 47% YoY to $441M, vs. $425M est., net loss up 30% YoY to $511M, and MAUs up by 400K QoQ to 11.8M, vs. 15.9M in March 2022 &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/230510/p49#a230510p49)
+ - [Here’s how the new Pixel 7A compares to the rest of Google’s Pixel 7 lineup](https://www.theverge.com/23711599/google-pixel-7a-7-pro-vs-comparison-6a-specs-price)
+ - [Disney is finally combining Hulu and Disney Plus into the same app](https://www.theverge.com/2023/5/10/23718969/disney-plus-hulu-combining-same-app-us)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
