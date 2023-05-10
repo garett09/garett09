@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trigun Fan Account&#39;s Tweet Turns Queer Sci-Fi Novel Into An Amazon Bestseller](https://kotaku.com/this-is-how-you-lose-the-time-war-trigun-bigolas-dickol-1850424226)
- - [New Nvidia RTX 4070 variant based on larger GPU rumoured](https://www.pcgamer.com/new-nvidia-rtx-4070-variant-based-on-larger-gpu-rumoured)
- - [Path of Titans Releases Night Stalker Update – Dinosaurs in the Shroud of Darkness](https://news.xbox.com/en-us/2023/05/10/path-of-titans-night-stalker-update-dinosaurs-in-darkness/)<!-- GAME:END -->
+ - [Fall Guys Lets Players Craft Their Own Mayhem With New Creative Mode](https://news.xbox.com/en-us/2023/05/10/fall-guys-creative-mode/)
+ - [Lord of the Rings mobile game asks players to preserve Middle-earth’s history](https://www.polygon.com/23717489/lord-rings-heroes-middle-earth-release-date-iphone-android)
+ - [Valve overhauls Steam&#39;s community rules and content guidelines](https://www.pcgamer.com/valve-overhauls-steams-community-rules-and-content-guidelines)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
