@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Make famous VTubers fight in this surprise Steam hit](https://www.pcgamer.com/make-famous-vtubers-fight-in-this-surprise-steam-hit)
- - [Jedi: Survivor Perfectly Mixes Every Era Of Star Wars Together](https://kotaku.com/star-wars-jedi-survivor-high-republic-prequels-sequels-1850421636)
- - [Why you&#39;re right to hate motion blur in games](https://www.pcgamer.com/why-people-hate-motion-blur-in-videogames)<!-- GAME:END -->
+ - [Nintendo&#39;s New Zelda Trailer Is A Very Sad Movie](https://kotaku.com/zelda-tears-kingdom-nintendo-trailer-new-switch-oled-1850421966)
+ - [Big Games Big Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/05/09/big-games-big-deals-promotion-comes-to-playstation-store/)
+ - [Big Games Big Deals promotion comes to PlayStation Store](https://blog.playstation.com/2023/05/09/big-games-big-deals-promotion-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
