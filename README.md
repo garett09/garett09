@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Magic Editor uses AI to totally transform your photos](https://www.theverge.com/2023/5/10/23716165/google-photos-ai-magic-editor-transform-pixel-io)
- - [Google I/O 2023: all the news from Google’s big developer event](https://www.theverge.com/23697481/google-io-2023-news-announcements-rumors-pixel)
- - [Google Maps will let you see your routes in 3D](https://www.theverge.com/2023/5/10/23717238/google-maps-immersive-view-routes-3d-io)<!-- TECH:END -->
+ - [Google announces $1,799 Pixel Fold, with 120Hz 7.6&quot; main screen, 5.8&quot; exterior screen, Tensor G2 chip, and 12GB of RAM, for preorder now and arriving in June &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/230510/p40#a230510p40)
+ - [The nine biggest announcements from Google I/O 2023](https://www.theverge.com/23718158/google-io-2023-biggest-announcements-ai-pixel-fold-tablet-android-14)
+ - [Frank Ocean fans are getting scammed with fake AI-generated songs](https://www.theverge.com/2023/5/10/23718291/ai-music-scams-fake-frank-ocean-songs-legal-copyright)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
