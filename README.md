@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)
- - 🚯 [Wtf](http://9gag.com/gag/aBdERYQ)
- - 🚯 [Lore Accurate](http://9gag.com/gag/a4oApvd)<!-- MEMES:END -->
+ - 🚖 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)
+ - 🚯 [Hmm](http://9gag.com/gag/aQEAwXK)
+ - 🚯 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)<!-- MEMES:END -->
 
 --- 
 
