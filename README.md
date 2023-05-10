@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)
- - 🚯 [Hmm](http://9gag.com/gag/aQEAwXK)
+ - 🚖 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)
+ - 🚯 [Lol](http://9gag.com/gag/az2G6db)
  - 🚯 [If you understand the connection between these photos, you have an interesting sense of humour.](http://9gag.com/gag/aKE8wGj)<!-- MEMES:END -->
 
 --- 
