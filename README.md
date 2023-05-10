@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech A30 The Mandalorian Edition review: This is the way](https://appleinsider.com/articles/23/05/09/logitech-a30-the-mandalorian-edition-review-this-is-the-way?utm_medium=rss)
- - [GitHub&#39;s push protection feature, which automatically blocks the leak of sensitive data like API keys and access tokens, is now free for all public repositories &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230509/p42#a230509p42)
- - [4K TV Deals: Save Up to $1,000 on Samsung, LG, Vizio and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter upgrades DM replies, Musk claims encrypted DMs launch on Wednesday](https://www.theverge.com/2023/5/9/23717734/twitter-dm-replies-emoji-elon-musk-encrypted-direct-messages)
+ - [Every known Apple TV+ show cancelation so far](https://appleinsider.com/articles/23/05/10/every-known-apple-tv-show-cancelation-so-far?utm_medium=rss)
+ - [Tucker Carlson is taking his show to Twitter](https://www.theverge.com/2023/5/9/23717488/tucker-carlson-fox-news-twitter-free-speech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
