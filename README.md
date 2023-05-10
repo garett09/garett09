@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
- - 🚯 [That\u2019s what he heard, in detail.](http://9gag.com/gag/a1PVpYP)
- - 🚯 [Wtf](http://9gag.com/gag/aBdERYQ)<!-- MEMES:END -->
+ - 🚖 [Dog thought he was alone](http://9gag.com/gag/aKE84bg)
+ - 🚯 [The State Duma is demanding that the animated series Family Guy be banned for its episode about Chelyabinsk, because it allegedly offends Chelyabinsk.](http://9gag.com/gag/a8qeWgd)
+ - 🚯 [Such a stupid trend](http://9gag.com/gag/a2KDEAe)<!-- MEMES:END -->
 
 --- 
 
