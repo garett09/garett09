@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
- - 🚯 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)
+ - 🚖 [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
+ - 🚯 [That\u2019s what he heard, in detail.](http://9gag.com/gag/a1PVpYP)
  - 🚯 [Wtf](http://9gag.com/gag/aBdERYQ)<!-- MEMES:END -->
 
 --- 
