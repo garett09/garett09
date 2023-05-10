@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good Omens season 2 hits Prime Video in July](https://www.theverge.com/23718247/good-omens-season-2-amazon-prime-video-release-date)
- - [Another Pixel Fold ad leaks hours before Google’s event](https://www.theverge.com/2023/5/10/23718344/google-pixel-fold-leak-promo-delay-dual-screen-multitasking)
- - [Tears of the Kingdom will have ‘huge’ dungeons](https://www.theverge.com/2023/5/10/23718375/the-legend-of-zelda-tears-of-the-kingdom-dungeons-nintendo)<!-- TECH:END -->
+ - [Google’s new Magic Editor uses AI to totally transform your photos](https://www.theverge.com/2023/5/10/23716165/google-photos-ai-magic-editor-transform-pixel-io)
+ - [Google I/O 2023: all the news from Google’s big developer event](https://www.theverge.com/23697481/google-io-2023-news-announcements-rumors-pixel)
+ - [Google Maps will let you see your routes in 3D](https://www.theverge.com/2023/5/10/23717238/google-maps-immersive-view-routes-3d-io)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
