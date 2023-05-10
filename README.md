@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s Purge of Old Accounts Will Be Pure Chaos](https://www.wired.com/story/twitter-purge-old-accounts/)
- - [Free All-Terrain Chairs Are Making the Great Outdoors Even Better](https://www.wired.com/story/free-all-terrain-chairs-national-state-park-accessibility/)
- - [How to Reclaim Your Online Privacy](https://www.wired.com/story/have-a-nice-future-podcast-5/)<!-- TECH:END -->
+ - [Google Pixel Fold: Everything we know so far](https://www.androidauthority.com/google-pixel-fold-release-date-specs-rumors-price-3272894/)
+ - [Nikon Z 8 camera arrives with 46MP sensor, 8K60 video](https://appleinsider.com/articles/23/05/10/nikon-z-8-camera-arrives-with-46mp-sensor-8k60-video?utm_medium=rss)
+ - [The Z8 is Nikon’s best mirrorless camera yet](https://www.theverge.com/23716991/nikon-z8-mirrorless-camera-price-specs-hands-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
