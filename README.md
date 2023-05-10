@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lore Accurate](http://9gag.com/gag/a4oApvd)
+ - 🚖 [Seriously, how can you have a silent mind? I just dont understand that. My head is never quiet.](http://9gag.com/gag/aOxDXm3)
  - 🚯 [Wtf](http://9gag.com/gag/aBdERYQ)
- - 🚯 [If you understand the connection between these photos, you have an interesting sense of humour.](http://9gag.com/gag/aKE8wGj)<!-- MEMES:END -->
+ - 🚯 [Lore Accurate](http://9gag.com/gag/a4oApvd)<!-- MEMES:END -->
 
 --- 
 
