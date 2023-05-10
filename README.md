@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Age of Wonders 4 is the fastest-selling game in the series](https://www.pcgamer.com/age-of-wonders-4-is-the-fastest-selling-game-in-the-series)
- - [Best Diablo 4 Sorcerer build: Hydra Lightning for damage and mobility](https://www.pcgamer.com/best-diablo-4-sorcerer-build)
- - [Hollow Knight: Silksong has been delayed](https://www.polygon.com/23718068/hollow-knight-silksong-release-date-delay)<!-- GAME:END -->
+ - [God Emperor of Dune would make a terrible movie — and we need it](https://www.polygon.com/23716984/god-emperor-of-dune-movie-adaptation-denis-villeneuve)
+ - [FPS roundtable: Apex Legends, Hunt: Showdown and Deceive Inc. devs dish on competitive shooters](https://www.pcgamer.com/fps-roundtable-podcast-apex-legends-hunt-showdown-and-deceive-inc-devs-dish-on-competitive-shooters)
+ - [The Xbox May Update is Rolling Out](https://news.xbox.com/en-us/2023/05/10/xbox-may-update-rolling-out/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
