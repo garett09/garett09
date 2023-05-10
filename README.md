@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The striking coach&#39;s concentration level went from 70% to 110% real quick](http://9gag.com/gag/a2Kynvd)
- - 🚯 [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
- - 🚯 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)<!-- MEMES:END -->
+ - 🚖 [Lore Accurate](http://9gag.com/gag/a4oApvd)
+ - 🚯 [Wtf](http://9gag.com/gag/aBdERYQ)
+ - 🚯 [If you understand the connection between these photos, you have an interesting sense of humour.](http://9gag.com/gag/aKE8wGj)<!-- MEMES:END -->
 
 --- 
 
