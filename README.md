@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men will always be men](http://9gag.com/gag/aeQx3mv)
- - 🚯 [And secs](http://9gag.com/gag/anzxK2L)
- - 🚯 [Confused](http://9gag.com/gag/aeQx0gj)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/az2G6db)
+ - 🚯 [If you rub garlic on your fingers, you can pick up and egg yolk!](http://9gag.com/gag/a8qeW5d)
+ - 🚯 [Stallone said, fck inclusion and wont use it in his films...blacklisted all actors/actresses that demands that sort bs in the industry.](http://9gag.com/gag/aMEz1OA)<!-- MEMES:END -->
 
 --- 
 
