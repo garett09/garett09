@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Trigun fan account just turned a queer 2019 sci-fi novel into an Amazon bestseller](https://www.polygon.com/23718970/this-is-how-you-lose-the-time-war-trigun-viral)
- - [The D&amp;D movie directors say fans ‘deserve’ a beholder in the sequel](https://www.polygon.com/23665427/dungeons-and-dragons-honor-among-thieves-sequel-drizzt-dourden)
- - [Best Diablo 4 Druid build: stormcalling lightning wolf](https://www.pcgamer.com/best-diablo-4-druid-build)<!-- GAME:END -->
+ - [Bungie tracks down another Destiny 2 cheat maker, hammers him for $16.2M](https://www.pcgamer.com/bungie-tracks-down-another-destiny-2-cheat-maker-hammers-him-for-dollar162m)
+ - [Everything we know about Fortnite Chapter 4 Season 3](https://www.pcgamer.com/fortnite-chapter-4-season-3)
+ - [Hogwarts Legacy&#39;s new last-gen port is actually prettier in some ways](https://www.pcgamer.com/hogwarts-legacys-new-last-gen-version-is-actually-prettier-in-some-ways)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
