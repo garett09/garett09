@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)
- - 🚯 [Hmm](http://9gag.com/gag/aQEAwXK)
- - 🚯 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)<!-- MEMES:END -->
+ - 🚖 [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
+ - 🚯 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)
+ - 🚯 [Wtf](http://9gag.com/gag/aBdERYQ)<!-- MEMES:END -->
 
 --- 
 
