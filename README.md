@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney CEO Bob Iger says the company will add Hulu content to Disney+ by the end of 2023; standalone options for all platforms including ESPN+ will remain &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/230510/p54#a230510p54)
- - [The Oura Ring is getting even smarter with Lifesum sleep and nutrition tracking](https://www.androidauthority.com/oura-lifesum-sleep-nutrition-3322408/)
- - [Unity reports Q1 revenue up 56% YoY to $500M, vs. $480M est., a net loss of $254M, vs. $178M in Q1 2022, and Q2 revenue guidance above estimates; U jumps 10%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230510/p53#a230510p53)<!-- TECH:END -->
+ - [Waiting for a Google AirTag? Chipolo Find My Device trackers have you covered](https://www.androidauthority.com/chipolo-one-point-card-point-find-my-device-3323420/)
+ - [Google and Taito are teaming up on an AR Space Invaders game](https://www.theverge.com/2023/5/10/23719104/space-invaders-world-defense-real-world-ar-game-google)
+ - [Amazon Just Revamped Its Two Credit Cards -- And Their New Features Are Hard to Beat     - CNET](https://www.cnet.com/personal-finance/credit-cards/the-best-cards-for-amazon-shopping-get-new-rewards-and-a-better-welcome-offer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
