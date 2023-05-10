@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix gets closer to Ash’s finale, with part 3 of Pokémon Ultimate Journeys hitting in June](https://www.polygon.com/pokemon/23718848/pokemon-anime-ultimate-journeys-ending-netflix-release-date)
- - [8 Fashion Tips To Transform Into A Horror Game Protagonist](https://kotaku.com/fashion-trends-2023-resident-evil-4-ashley-horror-games-1850425790)
- - [The same group of UK regulators that blocked the Microsoft Activision acquisition is now looking into AI](https://www.pcgamer.com/the-same-group-of-uk-regulators-that-blocked-the-microsoft-activision-acquisition-is-now-looking-into-ai)<!-- GAME:END -->
+ - [A Trigun fan account just turned a queer 2019 sci-fi novel into an Amazon bestseller](https://www.polygon.com/23718970/this-is-how-you-lose-the-time-war-trigun-viral)
+ - [The D&amp;D movie directors say fans ‘deserve’ a beholder in the sequel](https://www.polygon.com/23665427/dungeons-and-dragons-honor-among-thieves-sequel-drizzt-dourden)
+ - [Best Diablo 4 Druid build: stormcalling lightning wolf](https://www.pcgamer.com/best-diablo-4-druid-build)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
