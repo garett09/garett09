@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hollow Knight&#39;s Sequel Has Been Delayed](https://kotaku.com/hollow-knight-silksong-sequel-delayed-delay-2023-1850422291)
  - [Total War: Warhammer 3 roadmap outlines the next year of DLC and updates](https://www.pcgamer.com/total-war-warhammer-3-roadmap-outlines-the-next-year-of-dlc-and-updates)
- - [Nintendo is so desperate to smite Zelda leaks it DMCAed a legitimate streamer](https://www.pcgamer.com/nintendo-is-so-desperate-to-smite-zelda-leaks-it-dmcaed-a-legitimate-streamer)
- - [Nintendo&#39;s New Zelda Trailer Is A Very Sad Movie [Update]](https://kotaku.com/zelda-tears-kingdom-nintendo-trailer-new-switch-oled-1850421966)<!-- GAME:END -->
+ - [Nintendo is so desperate to smite Zelda leaks it DMCAed a legitimate streamer](https://www.pcgamer.com/nintendo-is-so-desperate-to-smite-zelda-leaks-it-dmcaed-a-legitimate-streamer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
