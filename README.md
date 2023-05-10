@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
  - 🚯 [The stairway in this hotel goes straight forward for 13 floors instead of having switchbacks](http://9gag.com/gag/anzxerb)
- - 🚯 [She got balls!](http://9gag.com/gag/aXn45Xg)<!-- MEMES:END -->
+ - 🚯 [Such a stupid trend](http://9gag.com/gag/a2KDEAe)<!-- MEMES:END -->
 
 --- 
 
