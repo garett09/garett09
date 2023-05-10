@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)
- - 🚯 [What a narcissistic woman](http://9gag.com/gag/amAxXG2)
- - 🚯 [Lore Accurate](http://9gag.com/gag/a4oApvd)<!-- MEMES:END -->
+ - 🚯 [Hmm](http://9gag.com/gag/aQEAwXK)
+ - 🚯 [If you understand the connection between these photos, you have an interesting sense of humour.](http://9gag.com/gag/aKE8wGj)<!-- MEMES:END -->
 
 --- 
 
