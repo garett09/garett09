@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood reports Q1 revenue up 47% YoY to $441M, vs. $425M est., net loss up 30% YoY to $511M, and MAUs up by 400K QoQ to 11.8M, vs. 15.9M in March 2022 &lpar;Bill Peters/MarketWatch&rpar;](http://www.techmeme.com/230510/p49#a230510p49)
- - [Here’s how the new Pixel 7A compares to the rest of Google’s Pixel 7 lineup](https://www.theverge.com/23711599/google-pixel-7a-7-pro-vs-comparison-6a-specs-price)
- - [Disney is finally combining Hulu and Disney Plus into the same app](https://www.theverge.com/2023/5/10/23718969/disney-plus-hulu-combining-same-app-us)<!-- TECH:END -->
+ - [Disney CEO Bob Iger says the company will add Hulu content to Disney+ by the end of 2023; standalone options for all platforms including ESPN+ will remain &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/230510/p54#a230510p54)
+ - [The Oura Ring is getting even smarter with Lifesum sleep and nutrition tracking](https://www.androidauthority.com/oura-lifesum-sleep-nutrition-3322408/)
+ - [Unity reports Q1 revenue up 56% YoY to $500M, vs. $480M est., a net loss of $254M, vs. $178M in Q1 2022, and Q2 revenue guidance above estimates; U jumps 10%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230510/p53#a230510p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
