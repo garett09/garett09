@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reveals Pixel Fold early in unlisted ad](https://www.theverge.com/2023/5/10/23718037/google-pixel-fold-early-preview-video-ad-nba-basketball)
- - [A look at Locksmith, which let Apple II users make duplications of floppy disks, kickstarting one of the earliest copy protection battles of the PC era &lpar;Laine Nooney/VICE&rpar;](http://www.techmeme.com/230510/p6#a230510p6)
- - [MediaTek Dimensity 9200 Plus launched: A Snapdragon 8 Gen 2 for Galaxy rival](https://www.androidauthority.com/mediatek-dimensity-9200-plus-3322566/)<!-- TECH:END -->
+ - [Watch Google I/O 2023 here to see the launch of the Pixel Fold, Pixel 7a, more](https://www.androidauthority.com/watch-google-io-2023-3321582/)
+ - [A Mysterious New Hacker Group, Red Stinger, Is Lurking in Ukraine’s Cyberspace](https://www.wired.com/story/red-stinger-russia-ukraine-apt/)
+ - [Watch: Google jumps the gun, shows the Pixel Fold in all its glory](https://www.androidauthority.com/google-pixel-fold-video-ad-3322633/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
