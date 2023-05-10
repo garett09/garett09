@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Taking Post-Release Seriously: Shoulders of Giants 1.2 Update out Now](https://news.xbox.com/en-us/2023/05/10/shoulders-of-giants-1-2-update-out-now/)
- - [When does the Diablo 4 ‘Server Slam’ beta start and end?](https://www.polygon.com/diablo-4-guides/23716577/server-slam-beta-release-time-rewards-changes)
- - [Breath Of The Wild Ranked Best Game Of All Time By &lpar;Some&rpar; Devs And Critics](https://kotaku.com/legend-of-zelda-breath-of-the-wild-botw-best-game-goat-1850425171)<!-- GAME:END -->
+ - [Netflix gets closer to Ash’s finale, with part 3 of Pokémon Ultimate Journeys hitting in June](https://www.polygon.com/pokemon/23718848/pokemon-anime-ultimate-journeys-ending-netflix-release-date)
+ - [8 Fashion Tips To Transform Into A Horror Game Protagonist](https://kotaku.com/fashion-trends-2023-resident-evil-4-ashley-horror-games-1850425790)
+ - [The same group of UK regulators that blocked the Microsoft Activision acquisition is now looking into AI](https://www.pcgamer.com/the-same-group-of-uk-regulators-that-blocked-the-microsoft-activision-acquisition-is-now-looking-into-ai)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
