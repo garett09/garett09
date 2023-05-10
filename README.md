@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s Neural Texture Compression technology should alleviate VRAM concerns](https://www.pcgamer.com/nvidias-neural-texture-compression-technology-should-alleviate-vram-concerns)
  - [Today&#39;s Wordle hint and answer #690: Wednesday, May 10](https://www.pcgamer.com/wordle-today-hint-answer-690-may-10)
- - [What time does Zelda: Tears of the Kingdom release?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/2023/5/10/23709285/release-time-us-east-coast-west-coast-uk-europe-preload)
- - [Hollow Knight: Silksong may be delayed, has &#39;gotten quite big&#39;](https://www.pcgamer.com/hollow-knight-silksong-may-be-delayed-has-gotten-quite-big)<!-- GAME:END -->
+ - [What time does Zelda: Tears of the Kingdom release?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/2023/5/10/23709285/release-time-us-east-coast-west-coast-uk-europe-preload)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
