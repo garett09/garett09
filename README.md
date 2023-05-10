@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/az2G6db)
- - 🚯 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)
- - 🚯 [Whoever had this idea, go f**k yourself](http://9gag.com/gag/a8qDrm3)<!-- MEMES:END -->
+ - 🚖 [Men will always be men](http://9gag.com/gag/aeQx3mv)
+ - 🚯 [And secs](http://9gag.com/gag/anzxK2L)
+ - 🚯 [Confused](http://9gag.com/gag/aeQx0gj)<!-- MEMES:END -->
 
 --- 
 
