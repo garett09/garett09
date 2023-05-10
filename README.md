@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hope you weren&#39;t planning on playing Dragon Age: Dreadwolf anytime in the next year](https://www.pcgamer.com/hope-you-werent-planning-on-playing-dragon-age-dreadwolf-anytime-in-the-next-year)
- - [Every weekly quest in Fortnite Chapter 4 Season 2 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23639632/chapter-4-season-2-weekly-quests)
- - [&lpar;For Southeast Asia&rpar; Marvel’s Spider-Man 2 prequel comic announced for Free Comic Book Day](https://blog.playstation.com/2023/05/09/20230510-spiderman/)<!-- GAME:END -->
+ - [Age of Wonders 4 is the fastest-selling game in the series](https://www.pcgamer.com/age-of-wonders-4-is-the-fastest-selling-game-in-the-series)
+ - [Best Diablo 4 Sorcerer build: Hydra Lightning for damage and mobility](https://www.pcgamer.com/best-diablo-4-sorcerer-build)
+ - [Hollow Knight: Silksong has been delayed](https://www.polygon.com/23718068/hollow-knight-silksong-release-date-delay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
