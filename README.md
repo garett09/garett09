@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No coconuts were harmed for this record attempt](http://9gag.com/gag/aDYZEK9)
- - 🚯 [The stairway in this hotel goes straight forward for 13 floors instead of having switchbacks](http://9gag.com/gag/anzxerb)
- - 🚯 [Lore Accurate](http://9gag.com/gag/a4oApvd)<!-- MEMES:END -->
+ - 🚖 [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)
+ - 🚯 [Even in my imagination I can&#39;t comprehend this level of attractiveness](http://9gag.com/gag/aMEnpVx)
+ - 🚯 [Wtf](http://9gag.com/gag/aBdERYQ)<!-- MEMES:END -->
 
 --- 
 
