@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [God Emperor of Dune would make a terrible movie — and we need it](https://www.polygon.com/23716984/god-emperor-of-dune-movie-adaptation-denis-villeneuve)
- - [FPS roundtable: Apex Legends, Hunt: Showdown and Deceive Inc. devs dish on competitive shooters](https://www.pcgamer.com/fps-roundtable-podcast-apex-legends-hunt-showdown-and-deceive-inc-devs-dish-on-competitive-shooters)
- - [The Xbox May Update is Rolling Out](https://news.xbox.com/en-us/2023/05/10/xbox-may-update-rolling-out/)<!-- GAME:END -->
+ - [Trigun Fan Account&#39;s Tweet Turns Queer Sci-Fi Novel Into An Amazon Bestseller](https://kotaku.com/this-is-how-you-lose-the-time-war-trigun-bigolas-dickol-1850424226)
+ - [New Nvidia RTX 4070 variant based on larger GPU rumoured](https://www.pcgamer.com/new-nvidia-rtx-4070-variant-based-on-larger-gpu-rumoured)
+ - [Path of Titans Releases Night Stalker Update – Dinosaurs in the Shroud of Darkness](https://news.xbox.com/en-us/2023/05/10/path-of-titans-night-stalker-update-dinosaurs-in-darkness/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
