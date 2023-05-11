@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This company secured billions to reboot Japan&#39;s chip industry in just 4 years](https://www.pcgamer.com/this-company-secured-billions-to-reboot-japans-chip-industry-in-just-4-years)
- - [Janelle Monáe Wears Pokémon Onesie After All-Night Orgy In New Video](https://kotaku.com/janelle-monae-pokemon-outfit-lipstick-lover-new-album-1850429779)
- - [Ugly Sonic has got nothing on these new Crocs](https://www.polygon.com/deals/2023/5/11/23720205/sonic-sega-crocs-collection-announcement)<!-- GAME:END -->
+ - [Don’t Starve Together’s newest story arc keeps the game fresh](https://www.polygon.com/23720338/dont-starve-together-update-from-beyond-taking-root-ten-year-anniversary)
+ - [Play Soccer While you Explore a Community in Despelote](https://news.xbox.com/en-us/2023/05/11/play-soccer-and-explore-a-community-in-despelote/)
+ - [Finally, after 8 years Geralt can no longer eat chicken sandwiches, turkey legs, or pierogies underwater](https://www.pcgamer.com/witcher-3-patch-4-03-underwater)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
