@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 26 last-minute gifts you can still grab before Mother’s Day](https://www.theverge.com/good-deals/23717502/mothers-day-gifts-best-last-minute-tech-gadgets-gift-cards-shipping)
- - [Twitch made it easier to edit clips for TikTok and YouTube Shorts](https://www.theverge.com/2023/5/11/23719547/twitch-clip-editor-tool-youtube-shorts-tiktok)
- - [New Twitter CEO to start in six weeks, says Elon Musk](https://appleinsider.com/articles/23/05/11/new-twitter-ceo-to-start-in-six-weeks-says-elon-musk?utm_medium=rss)<!-- TECH:END -->
+ - [This Costco membership deal nets you a free $30 Costco Shop Card](https://appleinsider.com/articles/23/05/11/this-costco-membership-deal-nets-you-a-free-30-costco-shop-card?utm_medium=rss)
+ - [The Pixel Tablet is half of what it could have been](https://www.theverge.com/2023/5/11/23718860/pixel-tablet-dock-missing-nest-speaker)
+ - [Meta announces AI Sandbox, with generative AI tools to help select advertisers create text variations, background images from text, and cropped images &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230511/p34#a230511p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
