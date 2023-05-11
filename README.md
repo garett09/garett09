@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EPA tightens pollution standards for power plants, with a big loophole for coal and gas](https://www.theverge.com/2023/5/11/23696054/epa-power-plant-emissions-rule-coal-gas-carbon-capture)
- - [SoftBank reports Vision Fund lost ~$2B in Q4, down from ~$16B in Q4 2022, leading to a ~$32B full-year loss; investments for the year to March fell to ~$3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230511/p8#a230511p8)
- - [A profile of Andreas Fink, a telecom expert whose services are used for attacking phone networks globally, including by Israeli disinformation unit Team Jorge &lpar;Haaretz&rpar;](http://www.techmeme.com/230511/p7#a230511p7)<!-- TECH:END -->
+ - [Google’s Find My Devices network adds key and wallet trackers from Chipolo](https://www.theverge.com/2023/5/11/23719483/google-chipolo-location-tracker-find-my-devices-key-wallet-airtag)
+ - [The best Google Pixel 7a cases you can buy at launch](https://www.androidauthority.com/google-pixel-7a-cases-3320492/)
+ - [Doug Rushkoff Is Ready to Renounce the Digital Revolution](https://www.wired.com/story/doug-rushkoff-survival-of-the-richest/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
