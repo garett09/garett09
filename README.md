@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV’s Post-Campaign Seasons Sound A Lot Like Destiny 2](https://kotaku.com/diablo-iv-destiny-2-battle-pass-microtransaction-shop-1850426277)
- - [Here’s how the Asus ROG Ally’s specs compare to the Steam Deck](https://www.polygon.com/23716764/asus-rog-ally-steam-deck-ayaneo-ayn-logitech-specs-features-versus-compared)
- - [The best microSD cards for the Asus ROG Ally](https://www.polygon.com/deals/23710033/asus-rog-ally-handheld-best-microsd-card-fast-uhs-2)<!-- GAME:END -->
+ - [Cillian Murphy’s Batman audition landed him Scarecrow and a BFF in Christopher Nolan](https://www.polygon.com/23719751/cillian-murphy-batman-audition-christopher-nolan)
+ - [Despelote, a slice-of-life soccer game for everyone, hits PS5 in 2024](https://blog.playstation.com/2023/05/11/despelote-a-slice-of-life-soccer-game-for-everyone-hits-ps5-in-2024/)
+ - [ASUS ROG Ally Hands-on: This Is Game Pass Portable](https://news.xbox.com/en-us/2023/05/11/asus-rog-ally-hands-on/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
