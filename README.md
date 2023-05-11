@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some crypto miners, like Hive Blockchain and Hut 8 Mining, are repurposing their GPUs to power high-performance computing services for AI clients &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230511/p1#a230511p1)
- - [Twitter’s Encrypted DMs Are Deeply Inferior to Signal and WhatsApp](https://www.wired.com/story/twitter-encrypted-dm-signal-whatsapp/)
- - [Sony Xperia 1 V launched: The best phone with a headphone jack](https://www.androidauthority.com/sony-xperia-1-v-launch-3322658/)<!-- TECH:END -->
+ - [Amazon secures an estimated $1B in tax breaks for five data centers in Morrow County, Oregon, which local officials hope will generate $12B in Amazon spending &lpar;Mike Rogoway/Oregonian&rpar;](http://www.techmeme.com/230511/p4#a230511p4)
+ - [Europe’s Moral Crusader Lays Down the Law on Encryption](https://www.wired.com/story/europes-moral-crusader-lays-down-the-law-on-encryption/)
+ - [A US judge sentences Nickolas Sharp, who worked for IoT maker Ubiquiti, to six years in prison, rejecting claims that his data theft made the company safer &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/230511/p3#a230511p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
