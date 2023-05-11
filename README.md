@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
- - 🚯 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)
- - 🚯 [If you understand the connection between these photos, you have an interesting sense of humour.](http://9gag.com/gag/aKE8wGj)<!-- MEMES:END -->
+ - 🚖 [F_uck insurance companies](http://9gag.com/gag/anzxNg0)
+ - 🚯 [Hackers connected to cameras in Russian cities and launched Zelensky&#39;s appeal to Russians](http://9gag.com/gag/az2OAEx)
+ - 🚯 [I wonder if this works?](http://9gag.com/gag/aWGoOXq)<!-- MEMES:END -->
 
 --- 
 
