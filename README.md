@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s Find My Device network gets even more options with Pebblebee trackers](https://www.androidauthority.com/pebblebee-trackers-android-find-my-device-network-3323670/)
- - [The best Google Pixel 7a screen protectors you can buy](https://www.androidauthority.com/google-pixel-7a-screen-protectors-3322013/)
- - [A Republican-Led Lawsuit Threatens Critical US Cyber Protections](https://www.wired.com/story/epa-lawsuit-biden-cybersecurity-critical-infrastructure/)<!-- TECH:END -->
+ - [Fairphone Fairbuds XL review: modular design, lovely controls, and great ANC, but sound isn&#39;t great, no 3.5mm port, and confusing multipoint connectivity &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230511/p15#a230511p15)
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
+ - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
