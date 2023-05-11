@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)
- - 🚯 [Daenerys Targaryen was originally played by actress Tamzin Merchant in the unaired Game of Thrones pilot. Emilia Clarke was cast after Tamzin Merchant left the show because she thought it was a bad career choice for her.](http://9gag.com/gag/a8qeW9Q)
- - 🚯 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)<!-- MEMES:END -->
+ - 🚯 [Man\u2019s being a man, let him.](http://9gag.com/gag/armxKjp)
+ - 🚯 [A manual elitist](http://9gag.com/gag/aREvAeA)<!-- MEMES:END -->
 
 --- 
 
