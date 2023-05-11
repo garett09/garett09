@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairphone Fairbuds XL review: modular design, lovely controls, and great ANC, but sound isn&#39;t great, no 3.5mm port, and confusing multipoint connectivity &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/230511/p15#a230511p15)
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
- - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)<!-- TECH:END -->
+ - [Poco F5 and F5 Pro Review: Just Okay](https://www.wired.com/review/xiaomi-poco-f5-and-f5-pro/)
+ - [A look at Tel Aviv-based Rayzone, which quietly harvests ad data to help governments track people via their phones using its Echo tool, sold around the globe &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/230511/p17#a230511p17)
+ - [Bellroy Laptop Caddy review: Well designed MacBook protective sleeve](https://appleinsider.com/articles/23/05/11/bellroy-laptop-caddy-review-well-designed-built-macbook-protective-sleeve?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
