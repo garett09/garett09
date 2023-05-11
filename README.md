@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Google Pixel 7a wireless chargers to spend your money on](https://www.androidauthority.com/best-google-pixel-7a-wireless-chargers-3321014/)
- - [Microsoft released at least 48 security fixes for Windows and other software, including for two zero-day vulnerabilities under active exploitation &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/230511/p6#a230511p6)
- - [Documents and officials: the US is investigating if Rockwell Automation&#39;s software facility in China is exposing critical government assets to a cyberattack &lpar;Vivian Salama/Wall Street Journal&rpar;](http://www.techmeme.com/230511/p5#a230511p5)<!-- TECH:END -->
+ - [From OnePlus to Xiaomi, you can now get the Android 14 beta on these phones](https://www.androidauthority.com/android-14-beta-phones-3323025/)
+ - [Sony Xperia 1 V Review: A Step Closer to Besting Apple and Samsung     - CNET](https://www.cnet.com/tech/mobile/sony-xperia-1-v-review-a-step-closer-to-besting-apple-and-samsung/#ftag=CAD590a51e)
+ - [The best Google Pixel 7a wireless chargers to spend your money on](https://www.androidauthority.com/best-google-pixel-7a-wireless-chargers-3321014/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
