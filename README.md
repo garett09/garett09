@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hulu&#39;s New Anime Is The Last of Us Meets The Promised Neverland](https://kotaku.com/kotatsu-anime-corner-heavenly-delusion-hulu-disney-1850428741)
- - [What to do with your PS5 when you’re not playing it this &lpar;or any&rpar; month](https://www.polygon.com/23719933/what-to-do-playstation-5-ps5-zelda-totk-tears-kingdom)
- - [The Mario Movie Is So Successful Disney&#39;s Giving It Props](https://kotaku.com/mario-movie-guardians-nintendo-disney-minions-lightyear-1850429077)<!-- GAME:END -->
+ - [Tape to Tape is a hockey roguelite that mixes slick play with fun jokes](https://www.polygon.com/23720014/tape-to-tape-impressions-hockey-roguelite-game)
+ - [The Hugs In Horizon Forbidden West&#39;s DLC Are Actually A Huge Deal](https://kotaku.com/horizon-forbidden-west-dlc-burning-shores-hugs-aloy-ps5-1850429475)
+ - [Jack Black’s animated ode to video games goes hard](https://www.polygon.com/23720112/jack-black-tenacious-d-video-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
