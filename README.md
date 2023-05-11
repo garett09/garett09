@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cillian Murphy’s Batman audition landed him Scarecrow and a BFF in Christopher Nolan](https://www.polygon.com/23719751/cillian-murphy-batman-audition-christopher-nolan)
- - [Despelote, a slice-of-life soccer game for everyone, hits PS5 in 2024](https://blog.playstation.com/2023/05/11/despelote-a-slice-of-life-soccer-game-for-everyone-hits-ps5-in-2024/)
- - [ASUS ROG Ally Hands-on: This Is Game Pass Portable](https://news.xbox.com/en-us/2023/05/11/asus-rog-ally-hands-on/)<!-- GAME:END -->
+ - [The Foundation season 2 trailer will make you want to suddenly catch up on Foundation](https://www.polygon.com/23719871/the-foundation-season-2-trailer)
+ - [Minecraft Trails &amp; Tales: Camels, Bamboo Sets &amp; Armor Trims](https://news.xbox.com/en-us/2023/05/11/minecraft-trails-tales-camels-bamboo-sets-armor-trims/)
+ - [Can AI actually write good fanfiction?](https://www.polygon.com/23718816/ai-fanfiction-artificial-intelligence-chatgpt-supernatural-destiel-harry-potter-bing-bard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
