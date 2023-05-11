@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify Has an AI Music Problem—but Bots Love It](https://www.wired.com/story/spotify-ai-music-robot-listeners/)
- - [Galactic tensions rise as Apple TV+ series &#39;Foundation&#39; returns in July](https://appleinsider.com/articles/23/05/11/galactic-tensions-rise-as-apple-tv-series-foundation-returns-in-july?utm_medium=rss)
- - [Volvo may have gone too hard on software because now the EX90 is getting delayed](https://www.theverge.com/2023/5/11/23719686/volvo-ex90-delay-software-production-luminar)<!-- TECH:END -->
+ - [Revolut says CFO Mikko Salovaara plans to leave &quot;for personal reasons&quot;, two months after CEO James Radford left, as the company waits for a UK banking license &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/230511/p24#a230511p24)
+ - [Review of the $700 Asus ROG Ally: fast performance and smooth variable refresh screen, but Windows is hard to use on a handheld and the UI has major glitches &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230511/p23#a230511p23)
+ - [The Boring Future of Generative AI](https://www.wired.com/story/the-boring-future-of-generative-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
