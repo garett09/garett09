@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Foundation season 2 trailer will make you want to suddenly catch up on Foundation](https://www.polygon.com/23719871/the-foundation-season-2-trailer)
- - [Minecraft Trails &amp; Tales: Camels, Bamboo Sets &amp; Armor Trims](https://news.xbox.com/en-us/2023/05/11/minecraft-trails-tales-camels-bamboo-sets-armor-trims/)
- - [Can AI actually write good fanfiction?](https://www.polygon.com/23718816/ai-fanfiction-artificial-intelligence-chatgpt-supernatural-destiel-harry-potter-bing-bard)<!-- GAME:END -->
+ - [How to optimize your gameplay with the DualSense Edge wireless controller](https://blog.playstation.com/2023/05/11/how-to-optimize-your-gameplay-with-the-dualsense-edge-wireless-controller/)
+ - [Sea of Thieves’ New Mystery Aims to Be ‘The Ultimate Treasure Hunt’, With a Real-Life Golden Skull on Offer](https://news.xbox.com/en-us/2023/05/11/sea-of-thieves-hoarders-hunt-mystery-making-of/)
+ - [They once made a whole Spider-Man show about the villain of Guardians 3, man](https://www.polygon.com/23718878/guardians-of-the-galaxy-vol-3-high-evolutionary-spider-man-unlimited)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
