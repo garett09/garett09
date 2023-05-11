@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To much text](http://9gag.com/gag/aKE8B46)
- - 🚯 [A woman attempting to become a strong, independent woman, but ultimately failing.](http://9gag.com/gag/aeQxpzv)
- - 🚯 [Not even at gun point](http://9gag.com/gag/aDYb3EG)<!-- MEMES:END -->
+ - 🚖 [Not even at gun point](http://9gag.com/gag/aDYb3EG)
+ - 🚯 [To much text](http://9gag.com/gag/aKE8B46)
+ - 🚯 [Lord of rings done by Wes Anderson](http://9gag.com/gag/amAx8GX)<!-- MEMES:END -->
 
 --- 
 
