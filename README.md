@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Revolut says CFO Mikko Salovaara plans to leave &quot;for personal reasons&quot;, two months after CEO James Radford left, as the company waits for a UK banking license &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/230511/p24#a230511p24)
- - [Review of the $700 Asus ROG Ally: fast performance and smooth variable refresh screen, but Windows is hard to use on a handheld and the UI has major glitches &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230511/p23#a230511p23)
- - [The Boring Future of Generative AI](https://www.wired.com/story/the-boring-future-of-generative-ai/)<!-- TECH:END -->
+ - [Your Dog Is a Secret Weapon in the Fight Against Cancer](https://www.wired.com/story/dog-cancer-treatments/)
+ - [HP Dragonfly Pro Chromebook review: a colorful competitor](https://www.theverge.com/23641867/hp-dragonfly-pro-chromebook-2023-review-chromeos-laptop-review)
+ - [Historic Apple check signed by Steve Jobs fetches giant diamond prices](https://appleinsider.com/articles/23/05/11/historic-apple-check-signed-by-steve-jobs-fetches-giant-diamond-prices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
