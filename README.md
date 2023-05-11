@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Find My Devices network adds key and wallet trackers from Chipolo](https://www.theverge.com/2023/5/11/23719483/google-chipolo-location-tracker-find-my-devices-key-wallet-airtag)
- - [The best Google Pixel 7a cases you can buy at launch](https://www.androidauthority.com/google-pixel-7a-cases-3320492/)
- - [Doug Rushkoff Is Ready to Renounce the Digital Revolution](https://www.wired.com/story/doug-rushkoff-survival-of-the-richest/)<!-- TECH:END -->
+ - [Android’s Find My Device network gets even more options with Pebblebee trackers](https://www.androidauthority.com/pebblebee-trackers-android-find-my-device-network-3323670/)
+ - [The best Google Pixel 7a screen protectors you can buy](https://www.androidauthority.com/google-pixel-7a-screen-protectors-3322013/)
+ - [A Republican-Led Lawsuit Threatens Critical US Cyber Protections](https://www.wired.com/story/epa-lawsuit-biden-cybersecurity-critical-infrastructure/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
