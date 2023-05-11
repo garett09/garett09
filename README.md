@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)
- - 🚯 [Man\u2019s being a man, let him.](http://9gag.com/gag/armxKjp)
- - 🚯 [A manual elitist](http://9gag.com/gag/aREvAeA)<!-- MEMES:END -->
+ - 🚯 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
+ - 🚯 [If you rub garlic on your fingers, you can pick up and egg yolk!](http://9gag.com/gag/a8qeW5d)<!-- MEMES:END -->
 
 --- 
 
