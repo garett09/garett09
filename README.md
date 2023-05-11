@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waiting for a Google AirTag? Chipolo Find My Device trackers have you covered](https://www.androidauthority.com/chipolo-one-point-card-point-find-my-device-3323420/)
- - [Google and Taito are teaming up on an AR Space Invaders game](https://www.theverge.com/2023/5/10/23719104/space-invaders-world-defense-real-world-ar-game-google)
- - [Amazon Just Revamped Its Two Credit Cards -- And Their New Features Are Hard to Beat     - CNET](https://www.cnet.com/personal-finance/credit-cards/the-best-cards-for-amazon-shopping-get-new-rewards-and-a-better-welcome-offer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google launches a dedicated Labs page, where users can sign up to test Google&#39;s early ideas for features and products, including Search and Workspace AI tools &lpar;Brady Snyder/XDA Developers&rpar;](http://www.techmeme.com/230510/p61#a230510p61)
+ - [Twitter rolls out encrypted DMs, but both sender and recipient must be verified users, no support for group messages, and message metadata is not encrypted &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230510/p60#a230510p60)
+ - [Twitter launches encrypted DMs behind a paywall](https://www.theverge.com/2023/5/10/23719153/twitter-encrypted-dms-paid-verified-feature)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
