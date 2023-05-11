@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 Mother’s Day Gift Guide](https://www.theverge.com/23684534/best-mothers-day-gifts-mom-unique-presents-tech-gadgets-ideas)
- - [Google&#39;s PaLM 2 paper is forthcoming on many of the LLM&#39;s major limitations, but doesn&#39;t reveal which data or hardware setup the company used to train the model &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230510/p62#a230510p62)
- - [Google launches a dedicated Labs page, where users can sign up to test Google&#39;s early ideas for features and products, including Search and Workspace AI tools &lpar;Brady Snyder/XDA Developers&rpar;](http://www.techmeme.com/230510/p61#a230510p61)<!-- TECH:END -->
+ - [Sony Xperia 1 V launched: The best phone with a headphone jack](https://www.androidauthority.com/sony-xperia-1-v-launch-3322658/)
+ - [Canon’s PowerShot V10 is a vlogging-centric callback to old Flip Video cams](https://www.theverge.com/2023/5/11/23718888/canon-powershot-v10-vlogging-camera-announcement-specs-price-availability)
+ - [Industrial cybersecurity firm Dragos says a known cybercrime group gained access to its SharePoint cloud service on May 8 but didn&#39;t breach its internal network &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230510/p63#a230510p63)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
