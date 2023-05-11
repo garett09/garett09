@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lore Accurate](http://9gag.com/gag/a4oApvd)
- - 🚯 [BamBOO!](http://9gag.com/gag/amAx8mv)
- - 🚯 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
+ - 🚖 [To much text](http://9gag.com/gag/aKE8B46)
+ - 🚯 [A woman attempting to become a strong, independent woman, but ultimately failing.](http://9gag.com/gag/aeQxpzv)
+ - 🚯 [Not even at gun point](http://9gag.com/gag/aDYb3EG)<!-- MEMES:END -->
 
 --- 
 
