@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)
- - 🚯 [Florida recently implemented E-Verify and it has caused its construction sites with illegals to stop. E-verify fines an employer who hires illegal or fails to provide documentation of $1,000 per day](http://9gag.com/gag/aVbZzVd)
- - 🚯 [Lol](http://9gag.com/gag/az2G6db)<!-- MEMES:END -->
+ - 🚖 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
+ - 🚯 [Husband dies inside as he finds out his truck is wrecked in a DUI accident again. Wife dies inside because she didn&#39;t park the truck on the driveway husband told her to do after the first accident.](http://9gag.com/gag/avQx0oW)
+ - 🚯 [Wtf](http://9gag.com/gag/aBdERYQ)<!-- MEMES:END -->
 
 --- 
 
