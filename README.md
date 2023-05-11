@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
- - 🚯 [True 99%](http://9gag.com/gag/aVbZP2y)
- - 🚯 [&#39;I have school tomorrow...&#39; Sorry, if it&#39;s a re-post](http://9gag.com/gag/aDYb0xB)<!-- MEMES:END -->
+ - 🚖 [He must feel robbed.](http://9gag.com/gag/amAxXr4)
+ - 🚯 [BamBOO!](http://9gag.com/gag/amAx8mv)
+ - 🚯 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
 
 --- 
 
