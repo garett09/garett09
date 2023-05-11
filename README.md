@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F_uck insurance companies](http://9gag.com/gag/anzxNg0)
- - 🚯 [Hackers connected to cameras in Russian cities and launched Zelensky&#39;s appeal to Russians](http://9gag.com/gag/az2OAEx)
- - 🚯 [I wonder if this works?](http://9gag.com/gag/aWGoOXq)<!-- MEMES:END -->
+ - 🚖 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
+ - 🚯 [True 99%](http://9gag.com/gag/aVbZP2y)
+ - 🚯 [&#39;I have school tomorrow...&#39; Sorry, if it&#39;s a re-post](http://9gag.com/gag/aDYb0xB)<!-- MEMES:END -->
 
 --- 
 
