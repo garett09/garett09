@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don’t Starve Together’s newest story arc keeps the game fresh](https://www.polygon.com/23720338/dont-starve-together-update-from-beyond-taking-root-ten-year-anniversary)
- - [Play Soccer While you Explore a Community in Despelote](https://news.xbox.com/en-us/2023/05/11/play-soccer-and-explore-a-community-in-despelote/)
- - [Finally, after 8 years Geralt can no longer eat chicken sandwiches, turkey legs, or pierogies underwater](https://www.pcgamer.com/witcher-3-patch-4-03-underwater)<!-- GAME:END -->
+ - [Is The Next Call Of Duty In Fact Modern Warfare 3? Maybe, Actually](https://kotaku.com/call-of-duty-modern-warfare-3-2-mw-sequel-1850430147)
+ - [Apex Legends player hits top rank without scoring a kill: &#39;I mean, that is just so dumb&#39;](https://www.pcgamer.com/apex-legends-player-hits-top-rank-without-scoring-a-kill-i-mean-that-is-just-so-dumb)
+ - [Disney Plus and Hulu are getting combined into one app &lpar;sorta&rpar;](https://www.polygon.com/23720382/disney-plus-hulu-one-app-subscriptions-content)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
