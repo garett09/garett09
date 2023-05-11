@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men will always be men](http://9gag.com/gag/aeQx3mv)
- - 🚯 [`MaLe pRiViLeGe`](http://9gag.com/gag/ajVxYZp)
- - 🚯 [Confused](http://9gag.com/gag/aeQx0gj)<!-- MEMES:END -->
+ - 🚖 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)
+ - 🚯 [Florida recently implemented E-Verify and it has caused its construction sites with illegals to stop. E-verify fines an employer who hires illegal or fails to provide documentation of $1,000 per day](http://9gag.com/gag/aVbZzVd)
+ - 🚯 [Lol](http://9gag.com/gag/az2G6db)<!-- MEMES:END -->
 
 --- 
 
