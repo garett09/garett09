@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legend of Zelda: Tears of the Kingdom changes the conversation](https://www.polygon.com/reviews/23718684/zelda-tears-of-the-kingdom-review-switch-totk)
- - [Redfall would be better as a two-player game](https://www.pcgamer.com/redfall-would-be-better-as-a-two-player-game)
- - [Looks like the new Mortal Kombat game is going to be another reboot, called Mortal Kombat 1](https://www.pcgamer.com/looks-like-the-new-mortal-kombat-is-going-to-be-another-reboot)<!-- GAME:END -->
+ - [Zelda: Tears Of The Kingdom Reviews Say It&#39;s Even Better Than Breath Of The Wild](https://kotaku.com/zelda-tears-of-the-kingdom-review-roundup-metacritic-1850427714)
+ - [Gran Turismo World Series 2023 starts May 13](https://blog.playstation.com/2023/05/11/gran-turismo-world-series-2023-starts-may-13/)
+ - [Former Bloodlines 2 developer acquired by Keywords Studios, will form part of its development support business](https://www.pcgamer.com/former-bloodlines-2-developer-acquired-by-keywords-studios-will-form-part-of-its-development-support-business)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
