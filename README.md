@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Confused](http://9gag.com/gag/aeQx0gj)
- - 🚯 [Lord of rings done by Wes Anderson](http://9gag.com/gag/amAx8GX)
- - 🚯 [`MaLe pRiViLeGe`](http://9gag.com/gag/ajVxYZp)<!-- MEMES:END -->
+ - 🚖 [Lore Accurate](http://9gag.com/gag/a4oApvd)
+ - 🚯 [BamBOO!](http://9gag.com/gag/amAx8mv)
+ - 🚯 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
 
 --- 
 
