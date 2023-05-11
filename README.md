@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He must feel robbed.](http://9gag.com/gag/amAxXr4)
- - 🚯 [BamBOO!](http://9gag.com/gag/amAx8mv)
- - 🚯 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
+ - 🚖 [BamBOO!](http://9gag.com/gag/amAx8mv)
+ - 🚯 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
+ - 🚯 [&#39;I have school tomorrow...&#39; Sorry, if it&#39;s a re-post](http://9gag.com/gag/aDYb0xB)<!-- MEMES:END -->
 
 --- 
 
