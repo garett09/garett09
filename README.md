@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BamBOO!](http://9gag.com/gag/amAx8mv)
- - 🚯 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)
- - 🚯 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
+ - 🚖 [&#39;I have school tomorrow...&#39; Sorry, if it&#39;s a re-post](http://9gag.com/gag/aDYb0xB)
+ - 🚯 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
+ - 🚯 [If you rub garlic on your fingers, you can pick up and egg yolk!](http://9gag.com/gag/a8qeW5d)<!-- MEMES:END -->
 
 --- 
 
