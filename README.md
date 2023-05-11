@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears Of The Kingdom Reviews Say It&#39;s Even Better Than Breath Of The Wild](https://kotaku.com/zelda-tears-of-the-kingdom-review-roundup-metacritic-1850427714)
- - [Gran Turismo World Series 2023 starts May 13](https://blog.playstation.com/2023/05/11/gran-turismo-world-series-2023-starts-may-13/)
- - [Former Bloodlines 2 developer acquired by Keywords Studios, will form part of its development support business](https://www.pcgamer.com/former-bloodlines-2-developer-acquired-by-keywords-studios-will-form-part-of-its-development-support-business)<!-- GAME:END -->
+ - [Diablo IV’s Post-Campaign Seasons Sound A Lot Like Destiny 2](https://kotaku.com/diablo-iv-destiny-2-battle-pass-microtransaction-shop-1850426277)
+ - [Here’s how the Asus ROG Ally’s specs compare to the Steam Deck](https://www.polygon.com/23716764/asus-rog-ally-steam-deck-ayaneo-ayn-logitech-specs-features-versus-compared)
+ - [The best microSD cards for the Asus ROG Ally](https://www.polygon.com/deals/23710033/asus-rog-ally-handheld-best-microsd-card-fast-uhs-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
