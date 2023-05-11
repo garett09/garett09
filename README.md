@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foundation’s second season kicks off in July](https://www.theverge.com/23719613/foundation-season-2-release-date-trailer-apple-tv-plus)
- - [Asus ROG Ally review: it’s time to stop pretending Windows is the answer](https://www.theverge.com/23719210/asus-rog-ally-review)
- - [Daily Deals: MacBooks from $599, $300 off M2 Max MacBook Pro, $110 off Apple Studio Display, more](https://appleinsider.com/articles/23/05/11/daily-deals-macbooks-from-599-300-off-m2-max-macbook-pro-110-off-apple-studio-display-more?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify Has an AI Music Problem—but Bots Love It](https://www.wired.com/story/spotify-ai-music-robot-listeners/)
+ - [Galactic tensions rise as Apple TV+ series &#39;Foundation&#39; returns in July](https://appleinsider.com/articles/23/05/11/galactic-tensions-rise-as-apple-tv-series-foundation-returns-in-july?utm_medium=rss)
+ - [Volvo may have gone too hard on software because now the EX90 is getting delayed](https://www.theverge.com/2023/5/11/23719686/volvo-ex90-delay-software-production-luminar)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
