@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk has found his replacement as CEO of Twitter](https://www.theverge.com/2023/5/11/23517090/elon-musk-twitter-ceo-replacement)
- - [Musk says he has found a CEO for X/Twitter and &quot;she will be starting in ~6 weeks&quot;; Musk will become &quot;exec chair &amp; CTO&quot; overseeing &quot;product, software &amp; sysops&quot; &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/230511/p33#a230511p33)
- - [Unreal Engine developer tools get big update for Apple Silicon Macs](https://appleinsider.com/articles/23/05/11/unreal-engine-developer-tools-get-big-update-for-apple-silicon-macs?utm_medium=rss)<!-- TECH:END -->
+ - [Here are 26 last-minute gifts you can still grab before Mother’s Day](https://www.theverge.com/good-deals/23717502/mothers-day-gifts-best-last-minute-tech-gadgets-gift-cards-shipping)
+ - [Twitch made it easier to edit clips for TikTok and YouTube Shorts](https://www.theverge.com/2023/5/11/23719547/twitch-clip-editor-tool-youtube-shorts-tiktok)
+ - [New Twitter CEO to start in six weeks, says Elon Musk](https://appleinsider.com/articles/23/05/11/new-twitter-ceo-to-start-in-six-weeks-says-elon-musk?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
