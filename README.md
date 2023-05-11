@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
- - 🚯 [Husband dies inside as he finds out his truck is wrecked in a DUI accident again. Wife dies inside because she didn&#39;t park the truck on the driveway husband told her to do after the first accident.](http://9gag.com/gag/avQx0oW)
- - 🚯 [Wtf](http://9gag.com/gag/aBdERYQ)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/az2G6db)
+ - 🚯 [Daenerys Targaryen was originally played by actress Tamzin Merchant in the unaired Game of Thrones pilot. Emilia Clarke was cast after Tamzin Merchant left the show because she thought it was a bad career choice for her.](http://9gag.com/gag/a8qeW9Q)
+ - 🚯 [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)<!-- MEMES:END -->
 
 --- 
 
