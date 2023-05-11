@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not even at gun point](http://9gag.com/gag/aDYb3EG)
- - 🚯 [To much text](http://9gag.com/gag/aKE8B46)
- - 🚯 [Lord of rings done by Wes Anderson](http://9gag.com/gag/amAx8GX)<!-- MEMES:END -->
+ - 🚖 [BamBOO!](http://9gag.com/gag/amAx8mv)
+ - 🚯 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)
+ - 🚯 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
 
 --- 
 
