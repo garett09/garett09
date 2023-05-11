@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/az2G6db)
- - 🚯 [Daenerys Targaryen was originally played by actress Tamzin Merchant in the unaired Game of Thrones pilot. Emilia Clarke was cast after Tamzin Merchant left the show because she thought it was a bad career choice for her.](http://9gag.com/gag/a8qeW9Q)
- - 🚯 [I would have pressed charges maybe it&#39;ll teach her a lesson](http://9gag.com/gag/aL1GqXM)<!-- MEMES:END -->
+ - 🚖 [Confused](http://9gag.com/gag/aeQx0gj)
+ - 🚯 [Lord of rings done by Wes Anderson](http://9gag.com/gag/amAx8GX)
+ - 🚯 [`MaLe pRiViLeGe`](http://9gag.com/gag/ajVxYZp)<!-- MEMES:END -->
 
 --- 
 
