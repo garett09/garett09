@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to optimize your gameplay with the DualSense Edge wireless controller](https://blog.playstation.com/2023/05/11/how-to-optimize-your-gameplay-with-the-dualsense-edge-wireless-controller/)
- - [Sea of Thieves’ New Mystery Aims to Be ‘The Ultimate Treasure Hunt’, With a Real-Life Golden Skull on Offer](https://news.xbox.com/en-us/2023/05/11/sea-of-thieves-hoarders-hunt-mystery-making-of/)
- - [They once made a whole Spider-Man show about the villain of Guardians 3, man](https://www.polygon.com/23718878/guardians-of-the-galaxy-vol-3-high-evolutionary-spider-man-unlimited)<!-- GAME:END -->
+ - [Hulu&#39;s New Anime Is The Last of Us Meets The Promised Neverland](https://kotaku.com/kotatsu-anime-corner-heavenly-delusion-hulu-disney-1850428741)
+ - [What to do with your PS5 when you’re not playing it this &lpar;or any&rpar; month](https://www.polygon.com/23719933/what-to-do-playstation-5-ps5-zelda-totk-tears-kingdom)
+ - [The Mario Movie Is So Successful Disney&#39;s Giving It Props](https://kotaku.com/mario-movie-guardians-nintendo-disney-minions-lightyear-1850429077)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
