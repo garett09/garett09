@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poco F5 and F5 Pro Review: Just Okay](https://www.wired.com/review/xiaomi-poco-f5-and-f5-pro/)
- - [A look at Tel Aviv-based Rayzone, which quietly harvests ad data to help governments track people via their phones using its Echo tool, sold around the globe &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/230511/p17#a230511p17)
- - [Bellroy Laptop Caddy review: Well designed MacBook protective sleeve](https://appleinsider.com/articles/23/05/11/bellroy-laptop-caddy-review-well-designed-built-macbook-protective-sleeve?utm_medium=rss)<!-- TECH:END -->
+ - [Foundation’s second season kicks off in July](https://www.theverge.com/23719613/foundation-season-2-release-date-trailer-apple-tv-plus)
+ - [Asus ROG Ally review: it’s time to stop pretending Windows is the answer](https://www.theverge.com/23719210/asus-rog-ally-review)
+ - [Daily Deals: MacBooks from $599, $300 off M2 Max MacBook Pro, $110 off Apple Studio Display, more](https://appleinsider.com/articles/23/05/11/daily-deals-macbooks-from-599-300-off-m2-max-macbook-pro-110-off-apple-studio-display-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
