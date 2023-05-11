@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lore Accurate](http://9gag.com/gag/a4oApvd)
- - 🚯 [BamBOO!](http://9gag.com/gag/amAx8mv)
- - 🚯 [When you can tell the whole story with just 3 pictures](http://9gag.com/gag/aqexmYj)<!-- MEMES:END -->
+ - 🚖 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)
+ - 🚯 [Writers are going to hell for this](http://9gag.com/gag/adPxpWj)
+ - 🚯 [If you understand the connection between these photos, you have an interesting sense of humour.](http://9gag.com/gag/aKE8wGj)<!-- MEMES:END -->
 
 --- 
 
