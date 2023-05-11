@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Dog Is a Secret Weapon in the Fight Against Cancer](https://www.wired.com/story/dog-cancer-treatments/)
- - [HP Dragonfly Pro Chromebook review: a colorful competitor](https://www.theverge.com/23641867/hp-dragonfly-pro-chromebook-2023-review-chromeos-laptop-review)
- - [Historic Apple check signed by Steve Jobs fetches giant diamond prices](https://appleinsider.com/articles/23/05/11/historic-apple-check-signed-by-steve-jobs-fetches-giant-diamond-prices?utm_medium=rss)<!-- TECH:END -->
+ - [Sensor Tower: Bluesky had 628K mobile downloads in April, up 606% from March, when it became available on Android in addition to iOS; Mastodon had 90K downloads &lpar;CNBC&rpar;](http://www.techmeme.com/230511/p28#a230511p28)
+ - [Apple seeds second release candidate for macOS Ventura 13.4](https://appleinsider.com/articles/23/05/11/apple-seeds-second-release-candidate-for-macos-ventura-134?utm_medium=rss)
+ - [The Pixel Tablet is half of what it could have been](https://www.theverge.com/2023/5/11/23718860/pixel-tablet-dock-missing-nest-speaker)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
