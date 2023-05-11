@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tape to Tape is a hockey roguelite that mixes slick play with fun jokes](https://www.polygon.com/23720014/tape-to-tape-impressions-hockey-roguelite-game)
- - [The Hugs In Horizon Forbidden West&#39;s DLC Are Actually A Huge Deal](https://kotaku.com/horizon-forbidden-west-dlc-burning-shores-hugs-aloy-ps5-1850429475)
- - [Jack Black’s animated ode to video games goes hard](https://www.polygon.com/23720112/jack-black-tenacious-d-video-games)<!-- GAME:END -->
+ - [This company secured billions to reboot Japan&#39;s chip industry in just 4 years](https://www.pcgamer.com/this-company-secured-billions-to-reboot-japans-chip-industry-in-just-4-years)
+ - [Janelle Monáe Wears Pokémon Onesie After All-Night Orgy In New Video](https://kotaku.com/janelle-monae-pokemon-outfit-lipstick-lover-new-album-1850429779)
+ - [Ugly Sonic has got nothing on these new Crocs](https://www.polygon.com/deals/2023/5/11/23720205/sonic-sega-crocs-collection-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
