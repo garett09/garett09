@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [From OnePlus to Xiaomi, you can now get the Android 14 beta on these phones](https://www.androidauthority.com/android-14-beta-phones-3323025/)
- - [Sony Xperia 1 V Review: A Step Closer to Besting Apple and Samsung     - CNET](https://www.cnet.com/tech/mobile/sony-xperia-1-v-review-a-step-closer-to-besting-apple-and-samsung/#ftag=CAD590a51e)
- - [The best Google Pixel 7a wireless chargers to spend your money on](https://www.androidauthority.com/best-google-pixel-7a-wireless-chargers-3321014/)<!-- TECH:END -->
+ - [The EPA tightens pollution standards for power plants, with a big loophole for coal and gas](https://www.theverge.com/2023/5/11/23696054/epa-power-plant-emissions-rule-coal-gas-carbon-capture)
+ - [SoftBank reports Vision Fund lost ~$2B in Q4, down from ~$16B in Q4 2022, leading to a ~$32B full-year loss; investments for the year to March fell to ~$3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/230511/p8#a230511p8)
+ - [A profile of Andreas Fink, a telecom expert whose services are used for attacking phone networks globally, including by Israeli disinformation unit Team Jorge &lpar;Haaretz&rpar;](http://www.techmeme.com/230511/p7#a230511p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
