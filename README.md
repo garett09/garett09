@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amnesia: The Bunker hit with one more last-minute delay, but luckily it&#39;s a short one](https://www.pcgamer.com/amnesia-the-bunker-hit-with-one-more-last-minute-delay-but-luckily-its-a-short-one)
- - [World of Warcraft: Dragonflight patch rounds out the Evoker with new Augmentation spec](https://www.polygon.com/23721167/world-warcraft-dragonflight-fractures-in-time-patch-evoker-augmentation-spec)
- - [The Super Mario Bros. Movie’s Jack Black Made An Incredible Love Letter To Gaming](https://kotaku.com/the-super-mario-bros-movie-jack-black-bowser-1850431994)<!-- GAME:END -->
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [When does Hogwarts Legacy come out on Nintendo Switch?](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)
+ - [The Asus ROG Ally may be the best handheld gaming PC but the Steam Deck&#39;s not finished yet](https://www.pcgamer.com/the-asus-rog-ally-may-be-the-best-handheld-gaming-pc-but-the-steam-decks-not-finished-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
