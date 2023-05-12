@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not the best song choice for a work event](http://9gag.com/gag/axoOj2L)
- - 🚯 [BamBOO!](http://9gag.com/gag/amAx8mv)
- - 🚯 [I wonder if this works?](http://9gag.com/gag/aWGoOXq)<!-- MEMES:END -->
+ - 🚖 [BamBOO!](http://9gag.com/gag/amAx8mv)
+ - 🚯 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
+ - 🚯 [Armabreaddon](http://9gag.com/gag/ay218Zq)<!-- MEMES:END -->
 
 --- 
 
