@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Riot Games names its global president A. Dylan Jadeja as the company&#39;s new CEO starting later in 2023, succeeding Nicolo Laurent, who will stay on as an advisor &lpar;Ryan Dinsdale/IGN&rpar;](http://www.techmeme.com/230511/p36#a230511p36)
- - [The best Mother’s Day gifts on a budget](https://www.theverge.com/23682529/best-cheap-mothers-day-gifts-for-mom-budget-tech-ideas-presents)
- - [Anthropic expands Claude&#39;s context window from 9K to 100K tokens, or ~75K words it can digest and analyze; OpenAI&#39;s GPT-4 has a context window of ~32K tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230511/p35#a230511p35)<!-- TECH:END -->
+ - [Twitter’s new CEO is probably this NBC exec](https://www.theverge.com/2023/5/11/23720648/twitter-next-ceo-probably-linda-yaccarino)
+ - [Germany&#39;s Wingcopter, a drone delivery startup specializing in medical supplies, raised &amp;euro;40M from the European Investment Bank, taking its total raised to &amp;euro;100M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230511/p38#a230511p38)
+ - [Does McDonald’s take Apple Pay?](https://www.androidauthority.com/does-mcdonalds-take-apple-pay-3324034/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
