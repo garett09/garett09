@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This should be a show](http://9gag.com/gag/amAxzv4)
- - 🚯 [He definitely did not mean to do that](http://9gag.com/gag/aYVMeQO)
- - 🚯 [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)<!-- MEMES:END -->
+ - 🚖 [Well that didn&#39;t aged well](http://9gag.com/gag/ap9xLp8)
+ - 🚯 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)
+ - 🚯 [He definitely did not mean to do that](http://9gag.com/gag/aYVMeQO)<!-- MEMES:END -->
 
 --- 
 
