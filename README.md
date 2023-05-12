@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ben Affleck Has a Plan for a Fairer Streaming World](https://www.wired.com/story/ben-affleck-interview-air-amazon/)
- - [‘Cash Stuffing’ Is Thriving on TikTok](https://www.wired.com/story/cash-stuffing-tiktok-instagram/)
- - [Why Suicide Rates Are Dropping Around the World](https://www.wired.com/story/suicide-prevention-falling-rates/)<!-- TECH:END -->
+ - [Local media: a Montenegro court plans to release Terraform Labs co-founder Do Kwon from jail after accepting a &amp;euro;400,000 bail, pending a trial &lpar;Andrew Rummer/The Block&rpar;](http://www.techmeme.com/230512/p8#a230512p8)
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
+ - [Document: the EU plans a &amp;euro;45M internet cable in the Black Sea to improve connectivity to Georgia and reduce its &quot;dependency&quot; on lines running through Russia &lpar;Financial Times&rpar;](http://www.techmeme.com/230512/p7#a230512p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
