@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)
- - 🚯 [Common sense](http://9gag.com/gag/aL1A9GM)
- - 🚯 [C\u00e9line Dion dies inside while singing with Tommy K\u00f6rberg](http://9gag.com/gag/ajVxD3g)<!-- MEMES:END -->
+ - 🚖 [Lady I am Married](http://9gag.com/gag/a6qBMdL)
+ - 🚯 [Lizzo suing scale company](http://9gag.com/gag/ajVxq80)
+ - 🚯 [True 99%](http://9gag.com/gag/aVbZP2y)<!-- MEMES:END -->
 
 --- 
 
