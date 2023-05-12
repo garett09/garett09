@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google wants you to forget the 10 blue links](https://www.theverge.com/2023/5/12/23720396/google-search-generative-experience-blue-links)
- - [Sources: Byju&#39;s raised $250M and is close to raising $700M at the $22B valuation that it has maintained throughout 2022, ahead of its subsidiary Aakash&#39;s IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230512/p12#a230512p12)
- - [The PlayStation VR2 is now available at more retailers](https://www.theverge.com/2023/5/12/23700655/sony-playstation-vr2-psvr2-retailers-sale-availability)<!-- TECH:END -->
+ - [Elon Musk hires ex-NBCUniversal ad chief Linda Yaccarino as Twitter CEO, to focus on business operations; Musk will focus on &quot;product design &amp; new technology&quot; &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/230512/p14#a230512p14)
+ - [The Garmin Instinct 2X: The new brightest spot in the series](https://www.androidauthority.com/garmin-instinct-2x-review-3322513/)
+ - [Dbrand’s Zelda skin turns your Switch into a giant middle finger to Nintendo lawyers](https://www.theverge.com/23713293/dbrand-zelda-tears-of-the-kingdom-nintendo-switch-skin)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
