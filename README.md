@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
- - 🚯 [Well that didn&#39;t aged well](http://9gag.com/gag/ap9xLp8)
- - 🚯 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
+ - 🚖 [Body blender slide](http://9gag.com/gag/agoxvng)
+ - 🚯 [He&#39;s got a point](http://9gag.com/gag/armxO35)
+ - 🚯 [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)<!-- MEMES:END -->
 
 --- 
 
