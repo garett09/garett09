@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s The Mother misses a clear chance to make Jennifer Lopez an action star](https://www.polygon.com/reviews/23720028/netflix-the-mother-review-jennifer-lopez-action-movie)
- - [The Mercenaries mode has been my one big disappointment with the Resident Evil 4 remake](https://www.pcgamer.com/the-mercenaries-mode-has-been-my-one-big-disappointment-with-the-resident-evil-4-remake)
- - [Zelda: Tears of the Kingdom amiibo rewards and unlocks list](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 457: Oh the Humanity](https://blog.playstation.com/2023/05/12/official-playstation-podcast-episode-457-oh-the-humanity/)
+ - [Official PlayStation Podcast Episode 457: Oh the Humanity](https://blog.playstation.com/2023/05/12/official-playstation-podcast-episode-457-oh-the-humanity/)
+ - [4 Great Ways To Farm Tears Of The Kingdom Rupees And More](https://kotaku.com/farm-rupees-tears-of-the-kingdom-zelda-rupee-colors-1850432954)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
