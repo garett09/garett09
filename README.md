@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No time to talk put me inside](http://9gag.com/gag/agoxG2w)
- - 🚯 [A manual elitist](http://9gag.com/gag/aREvAeA)
- - 🚯 [BamBOO!](http://9gag.com/gag/amAx8mv)<!-- MEMES:END -->
+ - 🚖 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
+ - 🚯 [If you know, you know](http://9gag.com/gag/agoxN9n)
+ - 🚯 [Lizzo suing scale company](http://9gag.com/gag/ajVxq80)<!-- MEMES:END -->
 
 --- 
 
