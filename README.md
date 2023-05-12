@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk hires ex-NBCUniversal ad chief Linda Yaccarino as Twitter CEO, to focus on business operations; Musk will focus on &quot;product design &amp; new technology&quot; &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/230512/p14#a230512p14)
- - [The Garmin Instinct 2X: The new brightest spot in the series](https://www.androidauthority.com/garmin-instinct-2x-review-3322513/)
- - [Dbrand’s Zelda skin turns your Switch into a giant middle finger to Nintendo lawyers](https://www.theverge.com/23713293/dbrand-zelda-tears-of-the-kingdom-nintendo-switch-skin)<!-- TECH:END -->
+ - [Tessera, the collective NFT ownership service that launched as Fractional with $20M in funding from Paradigm and others, plans to shut down &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230512/p15#a230512p15)
+ - [16 ways that Android 14 will subtly improve your phone](https://www.theverge.com/23693781/google-android-14-features-update-io)
+ - [Google’s new Pixel Tablet might be the end of the smart display](https://www.theverge.com/23720333/google-pixel-tablet-smart-home-display-io)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
