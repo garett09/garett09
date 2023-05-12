@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An ex-ByteDance exec in the US sues for wrongful termination, accusing it of stealing rivals&#39; content and giving the Chinese Communist Party &quot;supreme access&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/230512/p17#a230512p17)
- - [The 41 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 47 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [What two-thirds of car dealerships are missing in the US](https://www.theverge.com/2023/5/12/23721484/electric-vehicles-ev-car-dealerships-united-states-sierra-club-survey)
+ - [A former ByteDance executive in the US sues the company for wrongful termination, saying ByteDance stole its rivals&#39; content and gave the CCP &quot;supreme access&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/230512/p17#a230512p17)
+ - [The 41 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
