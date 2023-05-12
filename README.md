@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Local media: a Montenegro court plans to release Terraform Labs co-founder Do Kwon from jail after accepting a &amp;euro;400,000 bail, pending a trial &lpar;Andrew Rummer/The Block&rpar;](http://www.techmeme.com/230512/p8#a230512p8)
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
- - [Document: the EU plans a &amp;euro;45M internet cable in the Black Sea to improve connectivity to Georgia and reduce its &quot;dependency&quot; on lines running through Russia &lpar;Financial Times&rpar;](http://www.techmeme.com/230512/p7#a230512p7)<!-- TECH:END -->
+ - [A draft bill shows the EU plans to force crypto firms to give tax authorities details of their clients&#39; holdings, which can be shared within the 27-nation bloc &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230512/p10#a230512p10)
+ - [Google Pixel 7a vs iPhone SE &lpar;2022&rpar;: Which phone should you buy?](https://www.androidauthority.com/google-pixel-7a-vs-iphone-se-2022-3320827/)
+ - [You’re Probably Underestimating AI Chatbots](https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
