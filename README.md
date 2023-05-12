@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)
- - 🚯 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)
- - 🚯 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)<!-- MEMES:END -->
+ - 🚖 [Oil well drilling looks absurdly dangerous](http://9gag.com/gag/a5XzKWO)
+ - 🚯 [Oh really??!!](http://9gag.com/gag/aoKx14A)
+ - 🚯 [True 99%](http://9gag.com/gag/aVbZP2y)<!-- MEMES:END -->
 
 --- 
 
