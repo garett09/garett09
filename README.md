@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 Graduation Gift Guide](https://www.theverge.com/23678774/graduation-grad-gift-ideas-2023-college-high-school-dorm-tech)
- - [Google Bard, which expanded to 180 countries, is not available in the EU and Canada; Google says it will be made available &quot;consistent with local regulations&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230512/p11#a230512p11)
- - [Sex workers are the unlikely beneficiaries of Twitter Blue](https://www.theverge.com/2023/5/12/23720267/twitter-blue-verification-sex-work-checkmark)<!-- TECH:END -->
+ - [Google wants you to forget the 10 blue links](https://www.theverge.com/2023/5/12/23720396/google-search-generative-experience-blue-links)
+ - [Sources: Byju&#39;s raised $250M and is close to raising $700M at the $22B valuation that it has maintained throughout 2022, ahead of its subsidiary Aakash&#39;s IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230512/p12#a230512p12)
+ - [The PlayStation VR2 is now available at more retailers](https://www.theverge.com/2023/5/12/23700655/sony-playstation-vr2-psvr2-retailers-sale-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
