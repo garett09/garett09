@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic leapfrogs OpenAI with a chatbot that can read a novel in less than a minute](https://www.theverge.com/2023/5/12/23720964/chatbot-language-model-context-window-memory-anthropic-claude)
- - [&#39;The Legend of Zelda: Tears of the Kingdom&#39; Embraces Mad Scientist Discovery](https://www.wired.com/story/legend-of-zelda-tears-of-the-kingdom-fujibayashi-aonuma-interview/)
- - [Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft](https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt)<!-- TECH:END -->
+ - [Ben Affleck Has a Plan for a Fairer Streaming World](https://www.wired.com/story/ben-affleck-interview-air-amazon/)
+ - [‘Cash Stuffing’ Is Thriving on TikTok](https://www.wired.com/story/cash-stuffing-tiktok-instagram/)
+ - [Why Suicide Rates Are Dropping Around the World](https://www.wired.com/story/suicide-prevention-falling-rates/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
