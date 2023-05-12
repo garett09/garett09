@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 457: Oh the Humanity](https://blog.playstation.com/2023/05/12/official-playstation-podcast-episode-457-oh-the-humanity/)
- - [Official PlayStation Podcast Episode 457: Oh the Humanity](https://blog.playstation.com/2023/05/12/official-playstation-podcast-episode-457-oh-the-humanity/)
- - [4 Great Ways To Farm Tears Of The Kingdom Rupees And More](https://kotaku.com/farm-rupees-tears-of-the-kingdom-zelda-rupee-colors-1850432954)<!-- GAME:END -->
+ - [This Week on Xbox: Server Slams, A New Controller, and Tons of Updates](https://news.xbox.com/en-us/2023/05/12/this-week-on-xbox-server-slams-a-new-controller-and-tons-of-updates/)
+ - [Fast and Furious finale could get 3 parts if Vin Diesel has anything to say about it](https://www.polygon.com/23721627/fast-x-furious-movies-vin-diesel-sequel)
+ - [How to reach sky islands in The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23660050/how-to-reach-sky-islands)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
