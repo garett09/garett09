@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for May 15 to 19](https://news.xbox.com/en-us/2023/05/12/next-week-on-xbox-may-15-to-19/)
- - [Where to find a cooking pot in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-cooking-pot-locations)
- - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
+ - [Amnesia: The Bunker hit with one more last-minute delay, but luckily it&#39;s a short one](https://www.pcgamer.com/amnesia-the-bunker-hit-with-one-more-last-minute-delay-but-luckily-its-a-short-one)
+ - [World of Warcraft: Dragonflight patch rounds out the Evoker with new Augmentation spec](https://www.polygon.com/23721167/world-warcraft-dragonflight-fractures-in-time-patch-evoker-augmentation-spec)
+ - [The Super Mario Bros. Movie’s Jack Black Made An Incredible Love Letter To Gaming](https://kotaku.com/the-super-mario-bros-movie-jack-black-bowser-1850431994)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
