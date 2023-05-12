@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)
- - 🚯 [Armabreaddon](http://9gag.com/gag/ay218Zq)
- - 🚯 [This should be a show](http://9gag.com/gag/amAxzv4)<!-- MEMES:END -->
+ - 🚖 [Math is hard.](http://9gag.com/gag/aKE82qb)
+ - 🚯 [BamBOO!](http://9gag.com/gag/amAx8mv)
+ - 🚯 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
 
 --- 
 
