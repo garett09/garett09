@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A draft bill shows the EU plans to force crypto firms to give tax authorities details of their clients&#39; holdings, which can be shared within the 27-nation bloc &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230512/p10#a230512p10)
- - [Google Pixel 7a vs iPhone SE &lpar;2022&rpar;: Which phone should you buy?](https://www.androidauthority.com/google-pixel-7a-vs-iphone-se-2022-3320827/)
- - [You’re Probably Underestimating AI Chatbots](https://www.wired.com/story/plaintext-youre-probably-underestimating-ai-chatbots/)<!-- TECH:END -->
+ - [The Verge’s 2023 Graduation Gift Guide](https://www.theverge.com/23678774/graduation-grad-gift-ideas-2023-college-high-school-dorm-tech)
+ - [Google Bard, which expanded to 180 countries, is not available in the EU and Canada; Google says it will be made available &quot;consistent with local regulations&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230512/p11#a230512p11)
+ - [Sex workers are the unlikely beneficiaries of Twitter Blue](https://www.theverge.com/2023/5/12/23720267/twitter-blue-verification-sex-work-checkmark)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
