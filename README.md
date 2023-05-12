@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance announces exit from Canada, saying the country&#39;s &quot;new guidance related to stablecoins and investor limits&quot; makes the Canadian market &quot;no longer tenable&quot; &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/230512/p18#a230512p18)
  - [What two-thirds of car dealerships are missing in the US](https://www.theverge.com/2023/5/12/23721484/electric-vehicles-ev-car-dealerships-united-states-sierra-club-survey)
- - [A former ByteDance executive in the US sues the company for wrongful termination, saying ByteDance stole its rivals&#39; content and gave the CCP &quot;supreme access&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/230512/p17#a230512p17)
- - [The 41 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [The Stages of Sleep Deprivation and Its Warning Signs     - CNET](https://www.cnet.com/health/sleep/the-stages-of-sleep-deprivation-and-its-warning-signs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
