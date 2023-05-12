@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Apple&#39;s Mac mini M2 512GB for $699 &lpar;$100 off&rpar;, plus $20 off AppleCare](https://appleinsider.com/articles/23/05/12/grab-apples-mac-mini-m2-512gb-for-699-100-off-plus-20-off-applecare?utm_medium=rss)
- - [Oppo gives up on building custom chips for its flagship phones](https://www.theverge.com/2023/5/12/23721105/oppo-zeku-shutdown-chip-design-smartphone-decline)
- - [A conversation with The Legend of Zelda: Tears of the Kingdom’s creative leads](https://www.theverge.com/23721063/zelda-tears-of-the-kingdom-interview-aonuma-fujibayashi)<!-- TECH:END -->
+ - [An ex-ByteDance exec in the US sues for wrongful termination, accusing it of stealing rivals&#39; content and giving the Chinese Communist Party &quot;supreme access&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/230512/p17#a230512p17)
+ - [The 41 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 47 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
