@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Qantas treats your baggage](http://9gag.com/gag/aYVMWGw)
- - 🚯 [Attack on Sandra Bullock](http://9gag.com/gag/a8qeyD6)
- - 🚯 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
+ - 🚖 [Body blender slide](http://9gag.com/gag/agoxvng)
+ - 🚯 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
+ - 🚯 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)<!-- MEMES:END -->
 
 --- 
 
