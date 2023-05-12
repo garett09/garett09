@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Armabreaddon](http://9gag.com/gag/ay218Zq)
- - 🚯 [Lizzo suing scale company](http://9gag.com/gag/ajVxq80)
- - 🚯 [Iron Dome intercepting Palestinian Hamas rockets over southern Israel &lpar;8.5.23&rpar;](http://9gag.com/gag/aREvANA)<!-- MEMES:END -->
+ - 🚖 [Not the best song choice for a work event](http://9gag.com/gag/axoOj2L)
+ - 🚯 [BamBOO!](http://9gag.com/gag/amAx8mv)
+ - 🚯 [I wonder if this works?](http://9gag.com/gag/aWGoOXq)<!-- MEMES:END -->
 
 --- 
 
