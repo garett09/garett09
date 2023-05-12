@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Body blender slide](http://9gag.com/gag/agoxvng)
- - 🚯 [He&#39;s got a point](http://9gag.com/gag/armxO35)
- - 🚯 [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)<!-- MEMES:END -->
+ - 🚖 [This should be a show](http://9gag.com/gag/amAxzv4)
+ - 🚯 [C\u00e9line Dion dies inside while singing with Tommy K\u00f6rberg](http://9gag.com/gag/ajVxD3g)
+ - 🚯 [Lizzo suing scale company](http://9gag.com/gag/ajVxq80)<!-- MEMES:END -->
 
 --- 
 
