@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what happens when a lion eats a giraffe for 7 days straight.](http://9gag.com/gag/a8qeYKe)
- - 🚯 [Now its just insta light!](http://9gag.com/gag/aPgeW8w)
- - 🚯 [Common sense](http://9gag.com/gag/aL1A9GM)<!-- MEMES:END -->
+ - 🚖 [Armabreaddon](http://9gag.com/gag/ay218Zq)
+ - 🚯 [Lizzo suing scale company](http://9gag.com/gag/ajVxq80)
+ - 🚯 [Iron Dome intercepting Palestinian Hamas rockets over southern Israel &lpar;8.5.23&rpar;](http://9gag.com/gag/aREvANA)<!-- MEMES:END -->
 
 --- 
 
