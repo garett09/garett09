@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EU set to clear Microsoft-Activision deal while UK adds new restrictions](https://www.polygon.com/23546288/microsoft-activision-blizzard-acquisition-deal-merger-ftc-latest-news)
- - [Knights of the Zodiac guts a beloved anime franchise to make a pointless movie](https://www.polygon.com/reviews/23720114/knights-of-the-zodiac-review-anime-adaptation-saint-seiya)
- - [Kaiju Series content brings monster fun to MLB The Show 23 in Season 2](https://blog.playstation.com/2023/05/12/kaiju-series-content-brings-monster-fun-to-mlb-the-show-23-in-season-2/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for May 15 to 19](https://news.xbox.com/en-us/2023/05/12/next-week-on-xbox-may-15-to-19/)
+ - [Where to find a cooking pot in Sons of the Forest](https://www.pcgamer.com/sons-of-the-forest-cooking-pot-locations)
+ - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
