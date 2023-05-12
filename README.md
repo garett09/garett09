@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This should be a show](http://9gag.com/gag/amAxzv4)
- - 🚯 [C\u00e9line Dion dies inside while singing with Tommy K\u00f6rberg](http://9gag.com/gag/ajVxD3g)
- - 🚯 [Lizzo suing scale company](http://9gag.com/gag/ajVxq80)<!-- MEMES:END -->
+ - 🚖 [Claw game is so rigged that investigator and game operator can&#39;t force a win](http://9gag.com/gag/ay21pMX)
+ - 🚯 [Armabreaddon](http://9gag.com/gag/ay218Zq)
+ - 🚯 [This should be a show](http://9gag.com/gag/amAxzv4)<!-- MEMES:END -->
 
 --- 
 
