@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Server Slams, A New Controller, and Tons of Updates](https://news.xbox.com/en-us/2023/05/12/this-week-on-xbox-server-slams-a-new-controller-and-tons-of-updates/)
- - [Fast and Furious finale could get 3 parts if Vin Diesel has anything to say about it](https://www.polygon.com/23721627/fast-x-furious-movies-vin-diesel-sequel)
- - [How to reach sky islands in The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23660050/how-to-reach-sky-islands)<!-- GAME:END -->
+ - [Where to find the Archaic Tunic in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23721453/archaic-tunic-location)
+ - [How to use rockets in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23721401/rocket-location-uses)
+ - [The best order to watch all the Fast and Furious movies](https://www.polygon.com/entertainment/23720463/fast-furious-watch-order-movies-timeline-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
