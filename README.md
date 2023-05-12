@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
- - 🚯 [If you know, you know](http://9gag.com/gag/agoxN9n)
- - 🚯 [Lizzo suing scale company](http://9gag.com/gag/ajVxq80)<!-- MEMES:END -->
+ - 🚖 [How Qantas treats your baggage](http://9gag.com/gag/aYVMWGw)
+ - 🚯 [It&#39;s happening.](http://9gag.com/gag/anzxXDq)
+ - 🚯 [Daenerys Targaryen was originally played by actress Tamzin Merchant in the unaired Game of Thrones pilot. Emilia Clarke was cast after Tamzin Merchant left the show because she thought it was a bad career choice for her.](http://9gag.com/gag/a8qeW9Q)<!-- MEMES:END -->
 
 --- 
 
