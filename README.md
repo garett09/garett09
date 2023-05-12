@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft](https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt)
- - [The best Nintendo Switch emulator for Android might live on as Strato &lpar;Updated&rpar;](https://www.androidauthority.com/nintendo-switch-skyline-emulator-android-dead-3321391/)
- - [The Motorola Razr’s huge cover display is shown off in new leak &lpar;Updated&rpar;](https://www.androidauthority.com/motorola-razr-cover-3317489/)<!-- TECH:END -->
+ - [Anthropic leapfrogs OpenAI with a chatbot that can read a novel in less than a minute](https://www.theverge.com/2023/5/12/23720964/chatbot-language-model-context-window-memory-anthropic-claude)
+ - [&#39;The Legend of Zelda: Tears of the Kingdom&#39; Embraces Mad Scientist Discovery](https://www.wired.com/story/legend-of-zelda-tears-of-the-kingdom-fujibayashi-aonuma-interview/)
+ - [Exclusive: Google’s Sundar Pichai talks Search, AI, and dancing with Microsoft](https://www.theverge.com/2023/5/12/23720731/google-io-2023-exclusive-sundar-pichai-search-generative-experience-ai-microsoft-bing-chatgpt)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
