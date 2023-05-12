@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BamBOO!](http://9gag.com/gag/amAx8mv)
- - 🚯 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
- - 🚯 [Armabreaddon](http://9gag.com/gag/ay218Zq)<!-- MEMES:END -->
+ - 🚖 [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
+ - 🚯 [Never give up!](http://9gag.com/gag/ap9xQnp)
+ - 🚯 [Scary](http://9gag.com/gag/aOx9z2D)<!-- MEMES:END -->
 
 --- 
 
