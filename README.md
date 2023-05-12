@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well that didn&#39;t aged well](http://9gag.com/gag/ap9xLp8)
- - 🚯 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
- - 🚯 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/aXn79o9)<!-- MEMES:END -->
+ - 🚖 [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)
+ - 🚯 [Common sense](http://9gag.com/gag/aL1A9GM)
+ - 🚯 [C\u00e9line Dion dies inside while singing with Tommy K\u00f6rberg](http://9gag.com/gag/ajVxD3g)<!-- MEMES:END -->
 
 --- 
 
