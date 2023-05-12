@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to buy The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23592513/totk-pre-order-nintendo-switch-collectors-edition-botw-2)
- - [Zelda: Tears of the Kingdom’s Ascend ability started as a cheat code](https://www.polygon.com/legend-zelda-tears-kingdom/23720221/zelda-totk-tears-kingdom-interview-ascend-ability-botw-2)
- - [Tears of the Kingdom devs on reinventing Zelda: ‘Cheating can be fun’](https://www.polygon.com/legend-zelda-tears-kingdom/23720150/zelda-tears-of-the-kingdom-abilities-eiji-aonuma-hidemaro-fujibayashi)<!-- GAME:END -->
+ - [Layers of Fear&#39;s Steam demo will stimulate your nostrils on May 15](https://www.pcgamer.com/layers-of-fears-steam-demo-will-stimulate-your-nostrils-on-may-15)
+ - [Meta says new study shows the metaverse could boost the global economy by $3.6 trillion per year and yes it probably is worth noting Meta paid for the research](https://www.pcgamer.com/meta-says-new-study-shows-the-metaverse-could-boost-the-global-economy-by-dollar36-trillion-per-year-and-yes-it-probably-is-worth-noting-meta-paid-for-the-research)
+ - [Fallout&#39;s original co-creator has casually dropped &#39;the true purpose of vaults&#39; on YouTube](https://www.pcgamer.com/fallouts-original-co-creator-has-casually-dropped-the-true-purpose-of-vaults-on-youtube)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
