@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oil well drilling looks absurdly dangerous](http://9gag.com/gag/a5XzKWO)
- - 🚯 [Oh really??!!](http://9gag.com/gag/aoKx14A)
- - 🚯 [True 99%](http://9gag.com/gag/aVbZP2y)<!-- MEMES:END -->
+ - 🚖 [Roll out!](http://9gag.com/gag/aNwB1Zw)
+ - 🚯 [Strange... For some reason, the water does not go away...](http://9gag.com/gag/abvxprO)
+ - 🚯 [Puppers drink](http://9gag.com/gag/a4oAGW1)<!-- MEMES:END -->
 
 --- 
 
