@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lady I am Married](http://9gag.com/gag/a6qBMdL)
- - 🚯 [Lizzo suing scale company](http://9gag.com/gag/ajVxq80)
- - 🚯 [True 99%](http://9gag.com/gag/aVbZP2y)<!-- MEMES:END -->
+ - 🚖 [This is what happens when a lion eats a giraffe for 7 days straight.](http://9gag.com/gag/a8qeYKe)
+ - 🚯 [Now its just insta light!](http://9gag.com/gag/aPgeW8w)
+ - 🚯 [Common sense](http://9gag.com/gag/aL1A9GM)<!-- MEMES:END -->
 
 --- 
 
