@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
- - 🚯 [Never give up!](http://9gag.com/gag/ap9xQnp)
- - 🚯 [Scary](http://9gag.com/gag/aOx9z2D)<!-- MEMES:END -->
+ - 🚖 [Karen rushes the judge&#39;s bench...](http://9gag.com/gag/a8qe42Y)
+ - 🚯 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)
+ - 🚯 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)<!-- MEMES:END -->
 
 --- 
 
