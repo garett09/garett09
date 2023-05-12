@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #692: Friday, May 12](https://www.pcgamer.com/wordle-today-hint-answer-692-may-12)
  - [How to unlock all abilities in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23660112/abilities-list-fuse-ascend-recall-ultrahand-final-missing-ability)
- - [Zelda: Tears of the Kingdom walkthrough and guides](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23695569/walkthrough-guides)
- - [How to unlock Autobuild in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23719499/autobuild-unlock-get-great-abandoned-central-mine-location)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom walkthrough and guides](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23695569/walkthrough-guides)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
