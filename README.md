@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [When does Hogwarts Legacy come out on Nintendo Switch?](https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors)
- - [The Asus ROG Ally may be the best handheld gaming PC but the Steam Deck&#39;s not finished yet](https://www.pcgamer.com/the-asus-rog-ally-may-be-the-best-handheld-gaming-pc-but-the-steam-decks-not-finished-yet)<!-- GAME:END -->
+ - [The future of tabletop role-play is hope](https://www.polygon.com/tabletop-games/23711055/hopepunk-ttrpg-games)
+ - [Someone Has Already Speedrun Zelda: Tears Of The Kingdom In 94 Minutes](https://kotaku.com/tears-of-the-kingdom-zelda-speedrun-record-first-twitch-1850432539)
+ - [You&#39;ve probably committed at least one of the 11 sins of PC building](https://www.pcgamer.com/youve-probably-committed-at-least-one-of-the-11-sins-of-pc-building)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
