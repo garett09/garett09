@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome To Famicase 2023, My Favorite Time Of The Year](https://kotaku.com/nintendo-famicase-famicom-nes-art-design-games-meteor-1850427172)
- - [Ten years on, we&#39;re getting a sequel to Reus](https://www.pcgamer.com/ten-years-on-were-getting-a-sequel-to-reus)
- - [&#39;There is no AI-driven software that I know of that we would put in a shipped game,&#39; says Blackbird Interactive&#39;s president](https://www.pcgamer.com/there-is-no-ai-driven-software-that-i-know-of-that-we-would-put-in-a-shipped-game-says-blackbird-interactives-president)<!-- GAME:END -->
+ - [How to unlock all abilities in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23660112/abilities-list-fuse-ascend-recall-ultrahand-final-missing-ability)
+ - [Zelda: Tears of the Kingdom walkthrough and guides](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23695569/walkthrough-guides)
+ - [How to unlock Autobuild in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23719499/autobuild-unlock-get-great-abandoned-central-mine-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
