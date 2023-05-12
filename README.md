@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tessera, the collective NFT ownership service that launched as Fractional with $20M in funding from Paradigm and others, plans to shut down &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230512/p15#a230512p15)
- - [16 ways that Android 14 will subtly improve your phone](https://www.theverge.com/23693781/google-android-14-features-update-io)
- - [Google’s new Pixel Tablet might be the end of the smart display](https://www.theverge.com/23720333/google-pixel-tablet-smart-home-display-io)<!-- TECH:END -->
+ - [Grab Apple&#39;s Mac mini M2 512GB for $699 &lpar;$100 off&rpar;, plus $20 off AppleCare](https://appleinsider.com/articles/23/05/12/grab-apples-mac-mini-m2-512gb-for-699-100-off-plus-20-off-applecare?utm_medium=rss)
+ - [Oppo gives up on building custom chips for its flagship phones](https://www.theverge.com/2023/5/12/23721105/oppo-zeku-shutdown-chip-design-smartphone-decline)
+ - [A conversation with The Legend of Zelda: Tears of the Kingdom’s creative leads](https://www.theverge.com/23721063/zelda-tears-of-the-kingdom-interview-aonuma-fujibayashi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
