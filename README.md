@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Math is hard.](http://9gag.com/gag/aKE82qb)
- - 🚯 [BamBOO!](http://9gag.com/gag/amAx8mv)
+ - 🚖 [How Qantas treats your baggage](http://9gag.com/gag/aYVMWGw)
+ - 🚯 [Attack on Sandra Bullock](http://9gag.com/gag/a8qeyD6)
  - 🚯 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
 
 --- 
