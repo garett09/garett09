@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Archaic Tunic in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23721453/archaic-tunic-location)
- - [How to use rockets in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23721401/rocket-location-uses)
- - [The best order to watch all the Fast and Furious movies](https://www.polygon.com/entertainment/23720463/fast-furious-watch-order-movies-timeline-streaming)<!-- GAME:END -->
+ - [Russell Crowe Movie Mistakes Dragon Age Icon For Spanish Inquisition Symbol](https://kotaku.com/dragon-age-popes-exorcist-movie-spanish-inquisition-1850433839)
+ - [Tears Of The Kingdom Is Smaller Than A Call Of Duty Patch, And That’s Great](https://kotaku.com/zelda-tears-kingdom-file-size-day-one-patch-switch-botw-1850433851)
+ - [Should You Play Zelda: Breath Of The Wild Before Tears Of The Kingdom?](https://kotaku.com/zelda-should-i-play-botw-before-totk-storyline-recap-1850433739)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
