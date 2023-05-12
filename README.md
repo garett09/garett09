@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Qantas treats your baggage](http://9gag.com/gag/aYVMWGw)
- - 🚯 [It&#39;s happening.](http://9gag.com/gag/anzxXDq)
- - 🚯 [Daenerys Targaryen was originally played by actress Tamzin Merchant in the unaired Game of Thrones pilot. Emilia Clarke was cast after Tamzin Merchant left the show because she thought it was a bad career choice for her.](http://9gag.com/gag/a8qeW9Q)<!-- MEMES:END -->
+ - 🚖 [F**k around\u2026](http://9gag.com/gag/aDYbwOw)
+ - 🚯 [Well that didn&#39;t aged well](http://9gag.com/gag/ap9xLp8)
+ - 🚯 [\u2018Chordodes formosanus\u2019 AKA: Horsehair Worm, released from a praying mantis](http://9gag.com/gag/a3Z8dp7)<!-- MEMES:END -->
 
 --- 
 
