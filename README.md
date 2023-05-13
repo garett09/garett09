@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chinese man hangs on his ex-wife&#39;s car as it drives along a highway during a rainy weather](http://9gag.com/gag/a2KD4Me)
- - 🚯 [These two... Stared in the biggest best movie franchises of our generation. Then just disappeared for a few years. Then returned in some of the best weirdest roles tv and movies have to offer. That no other actor in there demographic would ever accept.](http://9gag.com/gag/a6qBo6m)
- - 🚯 [Well that didn&#39;t aged well](http://9gag.com/gag/ap9xLp8)<!-- MEMES:END -->
+ - 🚖 [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
+ - 🚯 [What&#39;s the point of the hard hat?](http://9gag.com/gag/aDYbGb9)
+ - 🚯 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)<!-- MEMES:END -->
 
 --- 
 
