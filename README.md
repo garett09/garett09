@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trombone hero](http://9gag.com/gag/a7q9M6r)
- - 🚯 [`Vsauce, Michael here.`](http://9gag.com/gag/a5Xznxo)
- - 🚯 [Wholesome moments](http://9gag.com/gag/abvxYmO)<!-- MEMES:END -->
+ - 🚖 [Same same but different. But still same](http://9gag.com/gag/avQx7Gn)
+ - 🚯 [The Pirate bay co-founder in his office](http://9gag.com/gag/a1PVKQY)
+ - 🚯 [Hey King, you dropped this \ud83d\udc51](http://9gag.com/gag/aPgeWQR)<!-- MEMES:END -->
 
 --- 
 
