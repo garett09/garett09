@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tukarok Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722374/tukarok-shrine-solution-puzzle-chest)
- - [Genshin Impact patch 3.7 livestream codes](https://www.polygon.com/genshin-impact-guides/23719786/patch-3-7-livestream-primogem-codes-redeem)
- - [Who is Rauru in The Legend of Zelda: Tears of the Kingdom](https://www.polygon.com/legend-zelda-tears-kingdom/23722334/who-is-rauru-chris-hackney-legend-of-zelda-tears-of-kingdom-zonai)<!-- GAME:END -->
+ - [Sean Gunn is done playing Rocket in Guardians of the Galaxy &lpar;but Kraglin is another story&rpar;](https://www.polygon.com/23721728/guardians-galaxy-3-rocket-actor-sean-gunn-kraglin-interview)
+ - [Tears of the Kingdom players are using Link’s new powers to bully Koroks](https://www.polygon.com/legend-zelda-tears-kingdom/23722362/tears-of-the-kingdom-korok-link-zonai-abilities)
+ - [Tukarok Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722374/tukarok-shrine-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
