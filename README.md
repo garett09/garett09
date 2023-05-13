@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A $499 Pixel Tablet is not a $100 Nest Hub replacement](https://www.androidauthority.com/pixel-tablet-vs-nest-hub-3320907/)
- - [14 Best Gaming Headsets &lpar;2023&rpar;: Wired, Wireless, for Switch, PC, Xbox, PS5, and PS4](https://www.wired.com/gallery/best-gaming-headsets/)
- - [Numerator: Amazon has a 3% US grocery market share including branded stores and Whole Foods; UBS: physical stores accounted for ~90% of US grocery sales in 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230513/p7#a230513p7)<!-- TECH:END -->
+ - [Android 14 played a surprisingly small role in Google’s I/O keynote](https://www.theverge.com/2023/5/13/23720419/android-14-google-io-keynote-announcements)
+ - [Apple TV+ offers one-month free trial of MLS Season Pass](https://appleinsider.com/articles/23/05/13/apple-tv-offers-one-month-free-trial-of-mls-season-pass?utm_medium=rss)
+ - [Apple’s AirTags are available at a rare discount](https://www.theverge.com/2023/5/13/23721482/apple-airtag-tracker-zelda-tears-of-the-kingdom-bose-quietcomfort-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
