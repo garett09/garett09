@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers to watch on Netflix in May](https://www.polygon.com/what-to-watch/2023/5/13/23715334/best-thriller-movies-netflix-watch-may-2023)
- - [All Genshin Impact codes from the version 3.7 livestream](https://www.pcgamer.com/genshin-impact-codes-3-7-livestream)
- - [How to Fuse and Unfuse weapons and items in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717512/how-to-un-fuse-weapons)<!-- GAME:END -->
+ - [Save $15 on one of the best wireless headsets for the Xbox Series X](https://www.polygon.com/deals/2023/5/13/23721126/best-gaming-deals-lg-c2-oled-levovo-laptop-xbox-headset-sale)
+ - [Vice City turns 20 on PC—here&#39;s our original 93% review from 2003](https://www.pcgamer.com/vice-city-turns-20-on-pcheres-our-original-93-review-from-2003)
+ - [The best thrillers to watch on Netflix in May](https://www.polygon.com/what-to-watch/2023/5/13/23715334/best-thriller-movies-netflix-watch-may-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
