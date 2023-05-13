@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google barely mentioned the next Android version, Android 14, during the 2023 I/O keynote, as the company prioritizes continuous updates over annual OS upgrades &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230513/p13#a230513p13)
- - [Dust Off Your Old Camera and Mod It to Take Stunning Photos     - CNET](https://www.cnet.com/tech/computing/transform-your-old-camera-to-give-you-stunning-photos/#ftag=CAD590a51e)
- - [Mudix HP11 MX2 video projector review: quick wireless streaming](https://appleinsider.com/articles/23/05/13/mudix-hp11-mx2-video-projector-review-quick-wireless-streaming?utm_medium=rss)<!-- TECH:END -->
+ - [Canvia Digital Art Canvas review: hardware is great, software is not](https://appleinsider.com/articles/23/05/13/canvia-digital-art-canvas-review-hardware-is-great-software-is-not?utm_medium=rss)
+ - [Apple bracing for potential mixed reality headset &#39;production issues&#39;](https://appleinsider.com/articles/23/05/13/apple-bracing-for-potential-mixed-reality-headset-production-issues?utm_medium=rss)
+ - [How an overhaul of Amazon&#39;s US logistics network in recent months cut delivery times, changed inventory management, and altered search results on its website &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/230513/p14#a230513p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
