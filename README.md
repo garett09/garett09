@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
+ - 🚖 [Apply cold water](http://9gag.com/gag/a4oARd6)
  - 🚯 [Scary](http://9gag.com/gag/aOx9z2D)
- - 🚯 [Google](http://9gag.com/gag/aqexr9v)<!-- MEMES:END -->
+ - 🚯 [Well deserved](http://9gag.com/gag/aQEmRNd)<!-- MEMES:END -->
 
 --- 
 
