@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Pirate bay co-founder in his office](http://9gag.com/gag/a1PVKQY)
- - 🚯 [Same same but different. But still same](http://9gag.com/gag/avQx7Gn)
+ - 🚖 [DELUSIONAL WOMEN](http://9gag.com/gag/avQxOvE)
+ - 🚯 [Captain Jack Sparrow](http://9gag.com/gag/aZDE3bz)
  - 🚯 [Traumatized kitty\u2026](http://9gag.com/gag/aWGo1QA)<!-- MEMES:END -->
 
 --- 
