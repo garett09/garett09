@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [All Genshin Impact codes from the version 3.7 livestream](https://www.pcgamer.com/genshin-impact-codes-3-7-livestream)
  - [How to Fuse and Unfuse weapons and items in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717512/how-to-un-fuse-weapons)
- - [Great Sky Island walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23716258/great-sky-island-shrine-order)
- - [Today&#39;s Wordle hint and answer #693: Saturday, May 13](https://www.pcgamer.com/wordle-today-hint-answer-693-may-13)<!-- GAME:END -->
+ - [Great Sky Island walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23716258/great-sky-island-shrine-order)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
