@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google barely mentioned the next Android version, Android 14, during the 2023 I/O keynote, as it prioritizes continuous updates over once-a-year OS upgrades &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230513/p13#a230513p13)
- - [Mudix HP11 MX2 video projector review: quick wireless streaming](https://appleinsider.com/articles/23/05/13/mudix-hp11-mx2-video-projector-review-quick-wireless-streaming?utm_medium=rss)
- - [After 7 Months With the iPhone 14 Pro, Here&#39;s Everything You Should Know     - CNET](https://www.cnet.com/tech/mobile/7-months-in-with-the-iphone-14-pro-the-good-bad-and-great/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google barely mentioned the next Android version, Android 14, during the 2023 I/O keynote, as the company prioritizes continuous updates over annual OS upgrades &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230513/p13#a230513p13)
+ - [Dust Off Your Old Camera and Mod It to Take Stunning Photos     - CNET](https://www.cnet.com/tech/computing/transform-your-old-camera-to-give-you-stunning-photos/#ftag=CAD590a51e)
+ - [Mudix HP11 MX2 video projector review: quick wireless streaming](https://appleinsider.com/articles/23/05/13/mudix-hp11-mx2-video-projector-review-quick-wireless-streaming?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
