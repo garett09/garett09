@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These two... Stared in the biggest best movie franchises of our generation. Then just disappeared for a few years. Then returned in some of the best weirdest roles tv and movies have to offer. That no other actor in there demographic would ever accept.](http://9gag.com/gag/a6qBo6m)
- - 🚯 [Google](http://9gag.com/gag/aqexr9v)
- - 🚯 [You see? THIS is how its done. THIS will bring peace. It&#39;s that easy..](http://9gag.com/gag/aWGoYx2)<!-- MEMES:END -->
+ - 🚖 [Common sense](http://9gag.com/gag/aL1A9GM)
+ - 🚯 [Trombone hero](http://9gag.com/gag/a7q9M6r)
+ - 🚯 [I&#39;m Vengeance](http://9gag.com/gag/aPgeY7g)<!-- MEMES:END -->
 
 --- 
 
