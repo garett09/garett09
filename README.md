@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Sundar Pichai on the future of Search, AI being one of the deepest platform shifts, his vision for Google, merging DeepMind, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230512/p24#a230512p24)
  - [A look at Apple&#39;s unusual approach to building its MR headset, which took seven years to develop and which will still be an experimental product at launch &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230512/p23#a230512p23)
- - [A look at The Athletic&#39;s live audio rooms, a Twitter Spaces-like feature in the outlet&#39;s app for beat reporters to have postgame conversations with subscribers &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/230512/p22#a230512p22)
- - [Sources: e-commerce marketing platform Klaviyo confidentially files for a US IPO; source: the firm seeks to raise $750M+; Klaviyo was valued at ~$9.5B in 2021 &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230512/p21#a230512p21)<!-- TECH:END -->
+ - [A look at The Athletic&#39;s live audio rooms, a Twitter Spaces-like feature in the outlet&#39;s app for beat reporters to have postgame conversations with subscribers &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/230512/p22#a230512p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
