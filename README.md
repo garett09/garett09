@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous delivery startup Nuro will lay off 30% of its workforce, or ~340 people, as part of a restructuring; Nuro laid off 20% of its staff in November 2022 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230512/p20#a230512p20)
- - [Your Pixel phone is about to get a little jazzier in the style of Kenny G](https://www.androidauthority.com/pixel-phone-jazz-3324450/)
- - [Current and former employees say Foxconn has hired ~10K contract workers in Chennai, India, since November 2022, paying between ~$190 and ~$225 per month &lpar;Nilesh Christopher/Rest of World&rpar;](http://www.techmeme.com/230512/p19#a230512p19)<!-- TECH:END -->
+ - [Sources: e-commerce marketing platform Klaviyo confidentially files for a US IPO; source: the firm seeks to raise $750M+; Klaviyo was valued at ~$9.5B in 2021 &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230512/p21#a230512p21)
+ - [Amazon’s working on a secret new home robot that could be more like Rosie](https://www.theverge.com/2023/5/12/23721400/amazon-astro-smarter-home-robot-ai)
+ - [Your Worst Nightmare: The Reason We Experience Terrifying Dreams     - CNET](https://www.cnet.com/health/sleep/features/your-worst-nightmare-the-reason-we-experience-terrifying-dreams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
