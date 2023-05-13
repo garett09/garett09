@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [That movie where Russell Crowe plays an exorcist might have mixed up the Spanish and Dragon Age Inquisitions](https://www.pcgamer.com/that-movie-where-russell-crowe-plays-an-exorcist-might-have-mixed-up-the-spanish-and-dragon-age-inquisitions)
- - [Which is better, switching weapons with number keys or the scroll wheel?](https://www.pcgamer.com/which-is-better-switching-weapons-with-number-keys-or-the-scroll-wheel)
- - [How to fast travel in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722342/fast-travel-unlock-teleport)<!-- GAME:END -->
+ - [Valve makes Steam beta participation easier because it wants more Steam beta participants](https://www.pcgamer.com/valve-makes-steam-beta-participation-easier-because-it-wants-more-steam-beta-participants)
+ - [How to beat the Battle Talus in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722635/battle-talus-heart-boss-fight)
+ - [How to beat Stone Talus, use Stone Talus Heart in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722633/stone-talus-heart-boss-fight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
