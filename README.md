@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
- - 🚯 [Google](http://9gag.com/gag/aqexr9v)
- - 🚯 [Same same but different. But still same](http://9gag.com/gag/avQx7Gn)<!-- MEMES:END -->
+ - 🚖 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)
+ - 🚯 [Same same but different. But still same](http://9gag.com/gag/avQx7Gn)
+ - 🚯 [Iridodonesis](http://9gag.com/gag/aVbZq8K)<!-- MEMES:END -->
 
 --- 
 
