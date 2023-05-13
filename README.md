@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Law firms and companies&#39; legal teams are experimenting with AI tools that can handle work done by entry-level lawyers, potentially reducing billable hours &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230513/p1#a230513p1)
- - [An interview with Sundar Pichai on the future of Search, AI being one of the deepest platform shifts, his vision for Google, merging DeepMind, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230512/p24#a230512p24)
- - [A look at Apple&#39;s unusual approach to building its MR headset, which took seven years to develop and which will still be an experimental product at launch &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230512/p23#a230512p23)<!-- TECH:END -->
+ - [The open-source AI boom is precarious because it is built on top of giant models like LLaMA and GPT-3, and could collapse if Meta and OpenAI decide to shut shop &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230513/p3#a230513p3)
+ - [Sources, former sellers, and court records shed light on &quot;No. 1 BC&quot;, a company that loads an encrypted messaging app on phones for use by organized crime groups &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230513/p2#a230513p2)
+ - [Law firms and companies&#39; legal teams are experimenting with AI tools that can handle work done by entry-level lawyers, potentially reducing billable hours &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230513/p1#a230513p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
