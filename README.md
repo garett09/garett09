@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #693: Saturday, May 13](https://www.pcgamer.com/wordle-today-hint-answer-693-may-13)
- - [Zelda: Tears of the Kingdom mods have already unlocked the framerate to 60 fps—but you shouldn&#39;t use them just yet](https://www.pcgamer.com/tears-of-the-kingdom-60-fps-mods-may-12)
- - [The era of 100GB games is upon us, and the average PC gamer is underprepared](https://www.pcgamer.com/the-era-of-100gb-games-is-upon-us-and-the-average-pc-gamer-is-underprepared)<!-- GAME:END -->
+ - [How to Fuse and Unfuse weapons and items in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717512/how-to-un-fuse-weapons)
+ - [Great Sky Island walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23716258/great-sky-island-shrine-order)
+ - [Today&#39;s Wordle hint and answer #693: Saturday, May 13](https://www.pcgamer.com/wordle-today-hint-answer-693-may-13)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
