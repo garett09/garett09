@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
- - 🚯 [One beer](http://9gag.com/gag/anzxMmL)
- - 🚯 [Scary](http://9gag.com/gag/aOx9z2D)<!-- MEMES:END -->
+ - 🚯 [Google](http://9gag.com/gag/aqexr9v)
+ - 🚯 [Same same but different. But still same](http://9gag.com/gag/avQx7Gn)<!-- MEMES:END -->
 
 --- 
 
