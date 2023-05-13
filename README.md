@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google barely mentioned the next Android version, Android 14, during the 2023 I/O keynote, as it prioritizes continuous updates over once-a-year OS upgrades &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230513/p13#a230513p13)
  - [Mudix HP11 MX2 video projector review: quick wireless streaming](https://appleinsider.com/articles/23/05/13/mudix-hp11-mx2-video-projector-review-quick-wireless-streaming?utm_medium=rss)
- - [A look at Forever Voices, which launched GPT-4-powered chatbot CarynAI, letting the fans of influencer Caryn Marjorie chat with her replica for $1 per minute &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230513/p12#a230513p12)
- - [The Pixel 7a is the epitome of the Pixel A series; Google can’t stop here](https://www.androidauthority.com/google-pixel-7a-a-series-2-3319963/)<!-- TECH:END -->
+ - [After 7 Months With the iPhone 14 Pro, Here&#39;s Everything You Should Know     - CNET](https://www.cnet.com/tech/mobile/7-months-in-with-the-iphone-14-pro-the-good-bad-and-great/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
