@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Law firms and companies&#39; legal teams are experimenting with AI tools that can handle work done by entry-level lawyers, potentially reducing billable hours &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230513/p1#a230513p1)
  - [An interview with Sundar Pichai on the future of Search, AI being one of the deepest platform shifts, his vision for Google, merging DeepMind, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230512/p24#a230512p24)
- - [A look at Apple&#39;s unusual approach to building its MR headset, which took seven years to develop and which will still be an experimental product at launch &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230512/p23#a230512p23)
- - [A look at The Athletic&#39;s live audio rooms, a Twitter Spaces-like feature in the outlet&#39;s app for beat reporters to have postgame conversations with subscribers &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/230512/p22#a230512p22)<!-- TECH:END -->
+ - [A look at Apple&#39;s unusual approach to building its MR headset, which took seven years to develop and which will still be an experimental product at launch &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230512/p23#a230512p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
