@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Gloom Hands in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722367/gloom-hands-red-hands-gloom-spawn-how-to-beat)
- - [Diablo 4 seems to be enduring its self-inflicted &#39;Server Slam&#39; like a stoic Barbarian, and players are digging it](https://www.pcgamer.com/diablo-4-seems-to-be-enduring-its-self-inflicted-server-slam-like-a-stoic-barbarian-and-players-are-digging-it)
- - [PSA: Your horses from Breath of the Wild are in Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722360/breath-of-the-wild-save-data-horse-transfer)<!-- GAME:END -->
+ - [How to beat Flux Construct 1, use Flux Construct 1 Core in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722504/flux-construct-core-boss-fight)
+ - [How to parry, dodge and Flurry Rush in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722500/how-to-parry-dodge-flurry-rush)
+ - [How to use the wing to reach the Temple of Time in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23721926/zonai-wings-temple-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
