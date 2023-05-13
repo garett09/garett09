@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany plans to spend billions to subsidize its chip industry and secure the &quot;oil of the 21st century&quot;, as some believe the move does not make economic sense &lpar;Guy Chazan/Financial Times&rpar;](http://www.techmeme.com/230513/p4#a230513p4)
- - [The open-source AI boom is precarious because it is built on top of giant models like LLaMA and GPT-3, and could collapse if Meta and OpenAI decide to shut shop &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230513/p3#a230513p3)
- - [Sources, former sellers, and court records shed light on &quot;No. 1 BC&quot;, a company that loads an encrypted messaging app on phones for use by organized crime groups &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/230513/p2#a230513p2)<!-- TECH:END -->
+ - [How to Use iMessage on Android](https://www.wired.com/story/how-to-use-imessage-android/)
+ - [Twitter’s New CEO, Linda Yaccarino, Has a Fearsome To-Do List](https://www.wired.com/story/twitters-new-ceo-linda-yaccarino-has-a-fearsome-to-do-list/)
+ - [12 Best Deals: Kindles, iPads, and Headphones](https://www.wired.com/story/weekend-deals-may-13-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
