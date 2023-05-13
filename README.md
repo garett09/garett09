@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But why, Would you do your pet like this?](http://9gag.com/gag/a8qeyX3)
- - 🚯 [YouTuber is facing 20 years in prison after deliberately crashing a plane for views.](http://9gag.com/gag/aDYbzY9)
- - 🚯 [Have a blessed weekend 9gaggers](http://9gag.com/gag/az2OXyK)<!-- MEMES:END -->
+ - 🚖 [C\u00e9line Dion dies inside while singing with Tommy K\u00f6rberg](http://9gag.com/gag/ajVxD3g)
+ - 🚯 [Google](http://9gag.com/gag/aqexr9v)
+ - 🚯 [Hey King, you dropped this \ud83d\udc51](http://9gag.com/gag/aPgeWQR)<!-- MEMES:END -->
 
 --- 
 
