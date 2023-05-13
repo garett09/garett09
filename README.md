@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Forever Voices, which launched GPT-4-powered chatbot CarynAI, letting the fans of influencer Caryn Marjorie chat with her replica for $1 per minute &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/230513/p12#a230513p12)
  - [The Pixel 7a is the epitome of the Pixel A series; Google can’t stop here](https://www.androidauthority.com/google-pixel-7a-a-series-2-3319963/)
- - [Ahead of Sunday&#39;s presidential election in Turkey, Twitter restricts some content &quot;in response to legal process and to ensure Twitter remains available&quot; &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230513/p11#a230513p11)
- - [Google’s AI pitch is a recipe for email hell](https://www.theverge.com/2023/5/13/23719115/google-ai-help-me-write-communications-email)<!-- TECH:END -->
+ - [Ahead of Sunday&#39;s presidential election in Turkey, Twitter restricts some content &quot;in response to legal process and to ensure Twitter remains available&quot; &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230513/p11#a230513p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
