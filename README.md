@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Holy cow, Germany hands out serious cash to its homegrown game award winners: Signalis won €60,000 for &#39;Best Debut Game&#39;](https://www.pcgamer.com/holy-cow-germany-hands-out-serious-cash-to-its-homegrown-game-award-winners-signalis-won-euro60000-for-best-debut-game)
- - [Rainbow Six Siege is so consistently buggy that I can&#39;t even be mad anymore](https://www.pcgamer.com/rainbow-six-siege-bugs)
- - [Evil Dead Rise, Netflix’s Mother, Air, and every other new movie to watch at home this week](https://www.polygon.com/2023/5/12/23715208/new-movies-watch-evil-dead-rise-netflix-mother-air-wandering-earth-2)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom mods have already unlocked the framerate to 60 fps—but you shouldn&#39;t use them just yet](https://www.pcgamer.com/tears-of-the-kingdom-60-fps-mods-may-12)
+ - [The era of 100GB games is upon us, and the average PC gamer is underprepared](https://www.pcgamer.com/the-era-of-100gb-games-is-upon-us-and-the-average-pc-gamer-is-underprepared)
+ - [Holy cow, Germany hands out serious cash to its homegrown game award winners: Signalis won €60,000 for &#39;Best Debut Game&#39;](https://www.pcgamer.com/holy-cow-germany-hands-out-serious-cash-to-its-homegrown-game-award-winners-signalis-won-euro60000-for-best-debut-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
