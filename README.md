@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Which is better, switching weapons with number keys or the scroll wheel?](https://www.pcgamer.com/which-is-better-switching-weapons-with-number-keys-or-the-scroll-wheel)
  - [How to fast travel in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722342/fast-travel-unlock-teleport)
- - [How to beat Flux Construct 1, use Flux Construct 1 Core in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722504/flux-construct-core-boss-fight)
- - [How to parry, dodge and Flurry Rush in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722500/how-to-parry-dodge-flurry-rush)<!-- GAME:END -->
+ - [How to beat Flux Construct 1, use Flux Construct 1 Core in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722504/flux-construct-core-boss-fight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
