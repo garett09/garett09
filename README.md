@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sean Gunn is done playing Rocket in Guardians of the Galaxy &lpar;but Kraglin is another story&rpar;](https://www.polygon.com/23721728/guardians-galaxy-3-rocket-actor-sean-gunn-kraglin-interview)
- - [Tears of the Kingdom players are using Link’s new powers to bully Koroks](https://www.polygon.com/legend-zelda-tears-kingdom/23722362/tears-of-the-kingdom-korok-link-zonai-abilities)
- - [Tukarok Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722374/tukarok-shrine-solution-puzzle-chest)<!-- GAME:END -->
+ - [How to beat Gloom Hands in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722367/gloom-hands-red-hands-gloom-spawn-how-to-beat)
+ - [Diablo 4 seems to be enduring its self-inflicted &#39;Server Slam&#39; like a stoic Barbarian, and players are digging it](https://www.pcgamer.com/diablo-4-seems-to-be-enduring-its-self-inflicted-server-slam-like-a-stoic-barbarian-and-players-are-digging-it)
+ - [PSA: Your horses from Breath of the Wild are in Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722360/breath-of-the-wild-save-data-horse-transfer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
