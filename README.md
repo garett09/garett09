@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scary](http://9gag.com/gag/aOx9z2D)
- - 🚯 [Iridodonesis](http://9gag.com/gag/aVbZq8K)
- - 🚯 [The Pirate bay co-founder in his office](http://9gag.com/gag/a1PVKQY)<!-- MEMES:END -->
+ - 🚖 [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
+ - 🚯 [Scary](http://9gag.com/gag/aOx9z2D)
+ - 🚯 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)<!-- MEMES:END -->
 
 --- 
 
