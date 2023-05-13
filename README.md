@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
- - 🚯 [What&#39;s the point of the hard hat?](http://9gag.com/gag/aDYbGb9)
- - 🚯 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)<!-- MEMES:END -->
+ - 🚖 [These two... Stared in the biggest best movie franchises of our generation. Then just disappeared for a few years. Then returned in some of the best weirdest roles tv and movies have to offer. That no other actor in there demographic would ever accept.](http://9gag.com/gag/a6qBo6m)
+ - 🚯 [Google](http://9gag.com/gag/aqexr9v)
+ - 🚯 [You see? THIS is how its done. THIS will bring peace. It&#39;s that easy..](http://9gag.com/gag/aWGoYx2)<!-- MEMES:END -->
 
 --- 
 
