@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at The Athletic&#39;s live audio rooms, a Twitter Spaces-like feature in the outlet&#39;s app for beat reporters to have postgame conversations with subscribers &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/230512/p22#a230512p22)
  - [Sources: e-commerce marketing platform Klaviyo confidentially files for a US IPO; source: the firm seeks to raise $750M+; Klaviyo was valued at ~$9.5B in 2021 &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/230512/p21#a230512p21)
- - [Amazon’s working on a secret new home robot that could be more like Rosie](https://www.theverge.com/2023/5/12/23721400/amazon-astro-smarter-home-robot-ai)
- - [Your Worst Nightmare: The Reason We Experience Terrifying Dreams     - CNET](https://www.cnet.com/health/sleep/features/your-worst-nightmare-the-reason-we-experience-terrifying-dreams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon’s working on a secret new home robot that could be more like Rosie](https://www.theverge.com/2023/5/12/23721400/amazon-astro-smarter-home-robot-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
