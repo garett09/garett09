@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Roll out!](http://9gag.com/gag/aNwB1Zw)
- - 🚯 [Strange... For some reason, the water does not go away...](http://9gag.com/gag/abvxprO)
- - 🚯 [Puppers drink](http://9gag.com/gag/a4oAGW1)<!-- MEMES:END -->
+ - 🚖 [Scary](http://9gag.com/gag/aOx9z2D)
+ - 🚯 [Iridodonesis](http://9gag.com/gag/aVbZq8K)
+ - 🚯 [The Pirate bay co-founder in his office](http://9gag.com/gag/a1PVKQY)<!-- MEMES:END -->
 
 --- 
 
