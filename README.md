@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Strange... For some reason, the water does not go away...](http://9gag.com/gag/abvxprO)
- - 🚯 [Roll out!](http://9gag.com/gag/aNwB1Zw)
- - 🚯 [Common sense](http://9gag.com/gag/aL1A9GM)<!-- MEMES:END -->
+ - 🚖 [Chinese man hangs on his ex-wife&#39;s car as it drives along a highway during a rainy weather](http://9gag.com/gag/a2KD4Me)
+ - 🚯 [These two... Stared in the biggest best movie franchises of our generation. Then just disappeared for a few years. Then returned in some of the best weirdest roles tv and movies have to offer. That no other actor in there demographic would ever accept.](http://9gag.com/gag/a6qBo6m)
+ - 🚯 [Well that didn&#39;t aged well](http://9gag.com/gag/ap9xLp8)<!-- MEMES:END -->
 
 --- 
 
