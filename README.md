@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian streaming service JioCinema adds a Premium subscription plan, offering content from HBO and more for &amp;#8377;999 per year &lpar;Livemint&rpar;](http://www.techmeme.com/230513/p10#a230513p10)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-484-3323893/)
- - [Transform Your Old Camera And Get Stunning Photos     - CNET](https://www.cnet.com/tech/computing/transform-your-old-camera-to-give-you-stunning-photos/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ahead of Sunday&#39;s presidential election in Turkey, Twitter restricts some content &quot;in response to legal process and to ensure Twitter remains available&quot; &lpar;Matt Novak/Forbes&rpar;](http://www.techmeme.com/230513/p11#a230513p11)
+ - [Google’s AI pitch is a recipe for email hell](https://www.theverge.com/2023/5/13/23719115/google-ai-help-me-write-communications-email)
+ - [Getting started with macOS Disk Utility: The basics](https://appleinsider.com/inside/macos/tips/getting-started-with-macos-disk-utility-the-basics?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
