@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But why, Would you do your pet like this?](http://9gag.com/gag/a8qeyX3)
- - 🚯 [DELUSIONAL WOMEN](http://9gag.com/gag/avQxOvE)
- - 🚯 [Have a blessed weekend 9gaggers](http://9gag.com/gag/az2OXyK)<!-- MEMES:END -->
+ - 🚖 [The Pirate bay co-founder in his office](http://9gag.com/gag/a1PVKQY)
+ - 🚯 [Same same but different. But still same](http://9gag.com/gag/avQx7Gn)
+ - 🚯 [Traumatized kitty\u2026](http://9gag.com/gag/aWGo1QA)<!-- MEMES:END -->
 
 --- 
 
