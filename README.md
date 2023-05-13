@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
- - 🚯 [Scary](http://9gag.com/gag/aOx9z2D)
- - 🚯 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)<!-- MEMES:END -->
+ - 🚖 [Life will hit you harder then this runner hit this kid...](http://9gag.com/gag/adPxjrV)
+ - 🚯 [One beer](http://9gag.com/gag/anzxMmL)
+ - 🚯 [Scary](http://9gag.com/gag/aOx9z2D)<!-- MEMES:END -->
 
 --- 
 
