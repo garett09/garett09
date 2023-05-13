@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 14 played a surprisingly small role in Google’s I/O keynote](https://www.theverge.com/2023/5/13/23720419/android-14-google-io-keynote-announcements)
- - [Apple TV+ offers one-month free trial of MLS Season Pass](https://appleinsider.com/articles/23/05/13/apple-tv-offers-one-month-free-trial-of-mls-season-pass?utm_medium=rss)
- - [Apple’s AirTags are available at a rare discount](https://www.theverge.com/2023/5/13/23721482/apple-airtag-tracker-zelda-tears-of-the-kingdom-bose-quietcomfort-earbuds-deal-sale)<!-- TECH:END -->
+ - [Indian streaming service JioCinema adds a Premium subscription plan, offering content from HBO and more for &amp;#8377;999 per year &lpar;Livemint&rpar;](http://www.techmeme.com/230513/p10#a230513p10)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-484-3323893/)
+ - [Transform Your Old Camera And Get Stunning Photos     - CNET](https://www.cnet.com/tech/computing/transform-your-old-camera-to-give-you-stunning-photos/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
