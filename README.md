@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trombone hero](http://9gag.com/gag/a7q9M6r)
- - 🚯 [I&#39;m Vengeance](http://9gag.com/gag/aPgeY7g)
- - 🚯 [But why, Would you do your pet like this?](http://9gag.com/gag/a8qeyX3)<!-- MEMES:END -->
+ - 🚖 [But why, Would you do your pet like this?](http://9gag.com/gag/a8qeyX3)
+ - 🚯 [YouTuber is facing 20 years in prison after deliberately crashing a plane for views.](http://9gag.com/gag/aDYbzY9)
+ - 🚯 [Have a blessed weekend 9gaggers](http://9gag.com/gag/az2OXyK)<!-- MEMES:END -->
 
 --- 
 
