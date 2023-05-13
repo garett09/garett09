@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Same same but different. But still same](http://9gag.com/gag/avQx7Gn)
- - 🚯 [The Pirate bay co-founder in his office](http://9gag.com/gag/a1PVKQY)
- - 🚯 [Hey King, you dropped this \ud83d\udc51](http://9gag.com/gag/aPgeWQR)<!-- MEMES:END -->
+ - 🚖 [Trombone hero](http://9gag.com/gag/a7q9M6r)
+ - 🚯 [I&#39;m Vengeance](http://9gag.com/gag/aPgeY7g)
+ - 🚯 [But why, Would you do your pet like this?](http://9gag.com/gag/a8qeyX3)<!-- MEMES:END -->
 
 --- 
 
