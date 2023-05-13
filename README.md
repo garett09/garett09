@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apply cold water](http://9gag.com/gag/a4oARd6)
- - 🚯 [Scary](http://9gag.com/gag/aOx9z2D)
- - 🚯 [Well deserved](http://9gag.com/gag/aQEmRNd)<!-- MEMES:END -->
+ - 🚖 [Another working day in Antarctica](http://9gag.com/gag/aVbZ3Rw)
+ - 🚯 [I saw her somewhere in my dreams](http://9gag.com/gag/a7q9wwA)
+ - 🚯 [These two... Stared in the biggest best movie franchises of our generation. Then just disappeared for a few years. Then returned in some of the best weirdest roles tv and movies have to offer. That no other actor in there demographic would ever accept.](http://9gag.com/gag/a6qBo6m)<!-- MEMES:END -->
 
 --- 
 
