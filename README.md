@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best thrillers to watch on Netflix in May](https://www.polygon.com/what-to-watch/2023/5/13/23715334/best-thriller-movies-netflix-watch-may-2023)
  - [All Genshin Impact codes from the version 3.7 livestream](https://www.pcgamer.com/genshin-impact-codes-3-7-livestream)
- - [How to Fuse and Unfuse weapons and items in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717512/how-to-un-fuse-weapons)
- - [Great Sky Island walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23716258/great-sky-island-shrine-order)<!-- GAME:END -->
+ - [How to Fuse and Unfuse weapons and items in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717512/how-to-un-fuse-weapons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
