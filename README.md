@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use iMessage on Android](https://www.wired.com/story/how-to-use-imessage-android/)
- - [Twitter’s New CEO, Linda Yaccarino, Has a Fearsome To-Do List](https://www.wired.com/story/twitters-new-ceo-linda-yaccarino-has-a-fearsome-to-do-list/)
- - [12 Best Deals: Kindles, iPads, and Headphones](https://www.wired.com/story/weekend-deals-may-13-2023/)<!-- TECH:END -->
+ - [Daily Deals: Save $300 on Arlo Pro 4 camera bundle, 25% off a Samsung 32-inch 4K Smart Monitor, up to $50 off Oura rings, more](https://appleinsider.com/articles/23/05/13/daily-deals-save-300-on-arlo-pro-4-camera-bundle-25-off-a-samsung-32-inch-4k-smart-monitor-up-to-50-off-oura-rings-more?utm_medium=rss)
+ - [Samsung Galaxy S24 series: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/samsung-galaxy-s24-3321740/)
+ - [35 Best Nintendo Switch Games for Every Player &lpar;2023&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
