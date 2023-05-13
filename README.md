@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Common sense](http://9gag.com/gag/aL1A9GM)
- - 🚯 [Trombone hero](http://9gag.com/gag/a7q9M6r)
- - 🚯 [I&#39;m Vengeance](http://9gag.com/gag/aPgeY7g)<!-- MEMES:END -->
+ - 🚖 [Trombone hero](http://9gag.com/gag/a7q9M6r)
+ - 🚯 [`Vsauce, Michael here.`](http://9gag.com/gag/a5Xznxo)
+ - 🚯 [Wholesome moments](http://9gag.com/gag/abvxYmO)<!-- MEMES:END -->
 
 --- 
 
