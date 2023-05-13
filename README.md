@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)
- - 🚯 [Same same but different. But still same](http://9gag.com/gag/avQx7Gn)
- - 🚯 [Iridodonesis](http://9gag.com/gag/aVbZq8K)<!-- MEMES:END -->
+ - 🚖 [Strange... For some reason, the water does not go away...](http://9gag.com/gag/abvxprO)
+ - 🚯 [Roll out!](http://9gag.com/gag/aNwB1Zw)
+ - 🚯 [Common sense](http://9gag.com/gag/aL1A9GM)<!-- MEMES:END -->
 
 --- 
 
