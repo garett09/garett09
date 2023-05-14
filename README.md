@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s an hour of discussion on Jagged Alliance 3&#39;s combat](https://www.pcgamer.com/heres-an-hour-of-discussion-on-jagged-alliance-3s-combat)
  - [Here&#39;s How To Pull Off Zelda: Tears Of The Kingdom&#39;s First Duplication Glitch](https://kotaku.com/how-to-duplicate-items-zelda-tears-of-the-kingdom-best-1850435663)
- - [Bargainer statue locations and rewards in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723110/bargainer-statues-locations-totk-poes-farm-rewards-armor)
- - [How to make the ‘Gloom-borne Illness’ porridge in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723095/gloom-borne-illness-wild-greens-porridge-hylian-rice-fresh-milk)<!-- GAME:END -->
+ - [Bargainer statue locations and rewards in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723110/bargainer-statues-locations-totk-poes-farm-rewards-armor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
