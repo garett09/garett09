@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Same same but different. But still same](http://9gag.com/gag/avQx7Gn)
- - 🚯 [Well deserved](http://9gag.com/gag/aQEmRNd)
- - 🚯 [Apply cold water](http://9gag.com/gag/a4oARd6)<!-- MEMES:END -->
+ - 🚖 [Please don&#39;t let anyone grab your ankles](http://9gag.com/gag/aOx97jy)
+ - 🚯 [Apply cold water](http://9gag.com/gag/a4oARd6)
+ - 🚯 [Have a blessed weekend 9gaggers](http://9gag.com/gag/az2OXyK)<!-- MEMES:END -->
 
 --- 
 
