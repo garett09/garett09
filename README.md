@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Iridodonesis](http://9gag.com/gag/aVbZq8K)
- - 🚯 [Have some self respect, Lads! &lpar;it ain&#39;t worth it&rpar;](http://9gag.com/gag/amAx7V6)
- - 🚯 [Apply cold water](http://9gag.com/gag/a4oARd6)<!-- MEMES:END -->
+ - 🚖 [The perfect gaming equipment..](http://9gag.com/gag/amAx5rd)
+ - 🚯 [I&#39;m developing an allergy to nuts](http://9gag.com/gag/aoKx5B2)
+ - 🚯 [Wholesome moments](http://9gag.com/gag/abvxYmO)<!-- MEMES:END -->
 
 --- 
 
