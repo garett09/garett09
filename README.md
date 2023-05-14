@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals: $25 AirTags, $85 Apple Pencil Gen 2, $35 off Kodak Digital Picture Frame, more](https://appleinsider.com/articles/23/05/14/daily-deals-25-airtags-85-apple-pencil-gen-2-35-off-kodak-digital-picture-frame-more?utm_medium=rss)
- - [Google Pixel 7a charging test: Running a little too hot](https://www.androidauthority.com/google-pixel-7a-battery-life-charging-3320826/)
- - [14 Best Fitness Trackers &lpar;2023&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
+ - [Google’s new Magic Editor pushes us toward AI-perfected fakery](https://www.theverge.com/23721763/google-magic-editor-ai-photos-pixel-fakery)
+ - [Apple tests M3 chip with 12 CPU and 18 GPU cores, 36GB of RAM; Meta shows how it feels about Apple Watch by pulling Messenger and launching WhatsApp for WearOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230514/p5#a230514p5)
+ - [Save Hundreds on New and Refurb Microsoft Surface Laptops, Accessories and More     - CNET](https://www.cnet.com/deals/save-hundreds-on-new-and-refurb-microsoft-surface-laptops-accessories-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
