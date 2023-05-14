@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find dragon tear memory locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23721466/dragon-tear-locations-glyphs-memories)
- - [Jirutagumac Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723241/jirutagumac-shrine-puzzle-solution-chest)
- - [One day post-launch, the developers of Switch emulator Yuzu announce that Tears of the Kingdom is playable &#39;full speed on most hardware&#39; with &#39;no hacks needed&#39;](https://www.pcgamer.com/one-day-post-launch-the-developers-of-switch-emulator-yuzu-announce-that-tears-of-the-kingdom-is-playable-full-speed-on-most-hardware-with-no-hacks-needed)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom players are using long bridges to solve all their problems](https://www.polygon.com/legend-zelda-tears-kingdom/23723279/totk-legend-of-zelda-tears-of-the-kingdom-bridge-totk)
+ - [One of our favorite Stardew Valley-alikes has been delisted from Steam over a messy dispute between developer and publisher](https://www.pcgamer.com/one-of-our-favorite-stardew-valley-alikes-has-been-delisted-from-steam-over-a-messy-dispute-between-developer-and-publisher)
+ - [Where to find Dragon Tear memory locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23721466/dragon-tear-locations-glyphs-memories)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
