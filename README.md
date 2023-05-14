@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise of Fusus, a controversial police tech platform merging camera surveillance with predictive policing, used in 60+ US cities across 12+ states &lpar;Avi Asher-Schapiro/Context&rpar;](http://www.techmeme.com/230513/p15#a230513p15)
- - [AirPod case not charging? Here’s how to fix it](https://www.androidauthority.com/airpod-case-not-charging-fix-3324507/)
- - [You&#39;re Scrolling Up on Your iPhone Wrong     - CNET](https://www.cnet.com/tech/mobile/youve-been-scrolling-up-on-your-iphone-the-wrong-way-this-whole-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NetBlocks: internet and social media disruption in Pakistan after ex-PM Imran Khan&#39;s arrest was possibly the country&#39;s most severe censorship in recent times &lpar;Frances Mao/BBC&rpar;](http://www.techmeme.com/230513/p16#a230513p16)
+ - [Best Samsung Galaxy A53 5G Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-a53-5g-case/#ftag=CAD590a51e)
+ - [A look at the rise of Fusus, a controversial police tech platform merging camera surveillance with predictive policing, used in 60+ US cities across 12+ states &lpar;Avi Asher-Schapiro/Context&rpar;](http://www.techmeme.com/230513/p15#a230513p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
