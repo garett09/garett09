@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
- - 🚯 [Iridodonesis](http://9gag.com/gag/aVbZq8K)
- - 🚯 [Apply cold water](http://9gag.com/gag/a4oARd6)<!-- MEMES:END -->
+ - 🚖 [Apply cold water](http://9gag.com/gag/a4oARd6)
+ - 🚯 [1%er](http://9gag.com/gag/aYVMyZV)
+ - 🚯 [Dudes eyes are like... thanks man](http://9gag.com/gag/armx546)<!-- MEMES:END -->
 
 --- 
 
