@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The legend](http://9gag.com/gag/aBdE2nQ)
- - 🚯 [Remember when insects did this?](http://9gag.com/gag/aVbZxyP)
- - 🚯 [Brently can run up the stairs without running out of breath](http://9gag.com/gag/a3Z81W3)<!-- MEMES:END -->
+ - 🚖 [Wholesome Neighbour \u2764\ufe0f](http://9gag.com/gag/aVbZ7DP)
+ - 🚯 [Regie knows the routine lol](http://9gag.com/gag/ajVxg5R)
+ - 🚯 [Awww...](http://9gag.com/gag/aoKxPyg)<!-- MEMES:END -->
 
 --- 
 
