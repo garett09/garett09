@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Superhero movies are better when they actually talk to comics](https://www.polygon.com/23720197/guardians-of-the-galaxy-ending-adam-warlock-marvel-comics)
  - [How to beat Phantom Ganon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722530/phantom-ganon-how-to-beat-locations-prepare-rewards-drops)
- - [A Remedy dev modded native HDR into Control, along with a heap of other graphical improvements](https://www.pcgamer.com/a-remedy-dev-modded-native-hdr-into-control-along-with-a-heap-of-other-graphical-improvements)
- - [Today&#39;s Wordle hint and answer #694: Sunday, May 14](https://www.pcgamer.com/wordle-today-hint-answer-694-may-14)<!-- GAME:END -->
+ - [A Remedy dev modded native HDR into Control, along with a heap of other graphical improvements](https://www.pcgamer.com/a-remedy-dev-modded-native-hdr-into-control-along-with-a-heap-of-other-graphical-improvements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
