@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What men need.](http://9gag.com/gag/aL1A0Qv)
- - 🚯 [I saw her somewhere in my dreams](http://9gag.com/gag/a7q9wwA)
- - 🚯 [Apply cold water](http://9gag.com/gag/a4oARd6)<!-- MEMES:END -->
+ - 🚖 [Archeologists found a 7000 year old road under the Mediterranean sea](http://9gag.com/gag/aBdEmOx)
+ - 🚯 [This weird bee just landed on my window](http://9gag.com/gag/anzxQgb)
+ - 🚯 [Do not redeeeeem](http://9gag.com/gag/avQxz8X)<!-- MEMES:END -->
 
 --- 
 
