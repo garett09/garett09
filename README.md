@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US universities are revamping their semiconductor curricula and striking industry deals to train staff as the CHIPS Act aims to kick start chip making in the US &lpar;Prachi Patel/IEEE Spectrum&rpar;](http://www.techmeme.com/230514/p4#a230514p4)
- - [Research finds AI assistants may be able to influence users without them being aware, akin to humans swaying each other through collaboration and social norms &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230514/p3#a230514p3)
- - [Sensor Tower: 156 of the 475 top five apps in 95 countries and regions for Q1 were Chinese, up 8% from 2020; Chinese apps took the top three spots in the US &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/230514/p2#a230514p2)<!-- TECH:END -->
+ - [Hublot Big Bang Unico Nespresso Origin: Green Machine](https://www.wired.com/story/hublot-big-bang-unico-nespresso-origin-watch/)
+ - [The Curious Case of the Missing Google Assistant](https://www.wired.com/story/the-curious-case-of-the-missing-google-assistant/)
+ - [US universities are revamping their semiconductor curricula and striking industry deals to train staff as the CHIPS Act aims to kick start chip making in the US &lpar;Prachi Patel/IEEE Spectrum&rpar;](http://www.techmeme.com/230514/p4#a230514p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
