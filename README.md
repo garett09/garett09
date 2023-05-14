@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hublot Big Bang Unico Nespresso Origin: Green Machine](https://www.wired.com/story/hublot-big-bang-unico-nespresso-origin-watch/)
- - [The Curious Case of the Missing Google Assistant](https://www.wired.com/story/the-curious-case-of-the-missing-google-assistant/)
- - [US universities are revamping their semiconductor curricula and striking industry deals to train staff as the CHIPS Act aims to kick start chip making in the US &lpar;Prachi Patel/IEEE Spectrum&rpar;](http://www.techmeme.com/230514/p4#a230514p4)<!-- TECH:END -->
+ - [How to Use Google Authenticator](https://www.wired.com/story/how-to-use-google-authenticator-app/)
+ - [The Most Useful PlayStation and Xbox Accessibility Options](https://www.wired.com/story/most-useful-playstation-xbox-accessibility-options/)
+ - [Lenovo ThinkPhone by Motorola Review: Getting There](https://www.wired.com/review/lenovo-thinkphone-by-motorola/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
