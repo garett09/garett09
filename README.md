@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Where to find dragon tear memory locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23721466/dragon-tear-locations-glyphs-memories)
  - [Jirutagumac Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723241/jirutagumac-shrine-puzzle-solution-chest)
- - [One day post-launch, the developers of Switch emulator Yuzu announce that Tears of the Kingdom is playable &#39;full speed on most hardware&#39; with &#39;no hacks needed&#39;](https://www.pcgamer.com/one-day-post-launch-the-developers-of-switch-emulator-yuzu-announce-that-tears-of-the-kingdom-is-playable-full-speed-on-most-hardware-with-no-hacks-needed)
- - [Here&#39;s an hour of discussion on Jagged Alliance 3&#39;s combat](https://www.pcgamer.com/heres-an-hour-of-discussion-on-jagged-alliance-3s-combat)<!-- GAME:END -->
+ - [One day post-launch, the developers of Switch emulator Yuzu announce that Tears of the Kingdom is playable &#39;full speed on most hardware&#39; with &#39;no hacks needed&#39;](https://www.pcgamer.com/one-day-post-launch-the-developers-of-switch-emulator-yuzu-announce-that-tears-of-the-kingdom-is-playable-full-speed-on-most-hardware-with-no-hacks-needed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
