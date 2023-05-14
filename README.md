@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nanoleaf’s new Essentials lights are great, but reveal Matter’s shortcomings](https://www.androidauthority.com/nanoleaf-essentials-matter-review-3320085/)
- - [Google, how do I ask your AI the right questions?](https://www.theverge.com/2023/5/14/23719048/google-ai-duet-sidekick-search-prompts-io)
- - [Getting started with macOS Disk Utility: RAID, images, and repairs](https://appleinsider.com/inside/macos/tips/getting-started-with-macos-disk-utility-raid-images-and-repairs?utm_medium=rss)<!-- TECH:END -->
+ - [I thought Spotify Niche Mixes were silly, and then I used one](https://www.androidauthority.com/spotify-niche-mixes-useful-3323751/)
+ - [A look at TikTok&#39;s #medicalmoms, where mothers of disabled and chronically ill kids share parenthood journeys, raising privacy, consent, and autonomy concerns &lpar;Fortesa Latifi/Washington Post&rpar;](http://www.techmeme.com/230514/p6#a230514p6)
+ - [Save $100 on the New Pixel 7A at Mint Mobile and Get 6 Free Months of Service     - CNET](https://www.cnet.com/deals/save-100-on-the-new-pixel-7a-at-mint-mobile-and-get-6-free-months-of-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
