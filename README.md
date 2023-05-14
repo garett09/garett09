@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The movies to keep your Zelda high going](https://www.polygon.com/what-to-watch/23712481/movies-like-zelda-games-tears-of-the-kingdom)
  - [Superhero movies are better when they actually talk to comics](https://www.polygon.com/23720197/guardians-of-the-galaxy-ending-adam-warlock-marvel-comics)
- - [How to beat Phantom Ganon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722530/phantom-ganon-how-to-beat-locations-prepare-rewards-drops)
- - [A Remedy dev modded native HDR into Control, along with a heap of other graphical improvements](https://www.pcgamer.com/a-remedy-dev-modded-native-hdr-into-control-along-with-a-heap-of-other-graphical-improvements)<!-- GAME:END -->
+ - [How to beat Phantom Ganon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722530/phantom-ganon-how-to-beat-locations-prepare-rewards-drops)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
