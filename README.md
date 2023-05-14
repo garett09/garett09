@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This weird bee just landed on my window](http://9gag.com/gag/anzxQgb)
- - 🚯 [Use feet not kees to jump](http://9gag.com/gag/amAxPAo)
- - 🚯 [Risk = Reward](http://9gag.com/gag/a7q9WZw)<!-- MEMES:END -->
+ - 🚖 [Absolutely brilliant](http://9gag.com/gag/a4oAR8p)
+ - 🚯 [The legend](http://9gag.com/gag/aBdE2nQ)
+ - 🚯 [Asians Explain How Different They Sound](http://9gag.com/gag/a2KD1QD)<!-- MEMES:END -->
 
 --- 
 
