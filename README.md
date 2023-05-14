@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Pirate bay co-founder in his office](http://9gag.com/gag/a1PVKQY)
- - 🚯 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)
- - 🚯 [Never give up!](http://9gag.com/gag/ap9xQnp)<!-- MEMES:END -->
+ - 🚖 [Iridodonesis](http://9gag.com/gag/aVbZq8K)
+ - 🚯 [Have some self respect, Lads! &lpar;it ain&#39;t worth it&rpar;](http://9gag.com/gag/amAx7V6)
+ - 🚯 [Apply cold water](http://9gag.com/gag/a4oARd6)<!-- MEMES:END -->
 
 --- 
 
