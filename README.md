@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NY AG says three companies accused of falsifying millions of public comments to support the FCC&#39;s net neutrality repeal in 2017 agreed to pay $615K in penalties &lpar;Maysoon Khan/Associated Press&rpar;](http://www.techmeme.com/230514/p1#a230514p1)
  - [NetBlocks: internet and social media disruption in Pakistan after ex-PM Imran Khan&#39;s arrest was possibly the country&#39;s most severe censorship in recent times &lpar;Frances Mao/BBC&rpar;](http://www.techmeme.com/230513/p16#a230513p16)
- - [Best Samsung Galaxy A53 5G Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-a53-5g-case/#ftag=CAD590a51e)
- - [A look at the rise of Fusus, a controversial police tech platform merging camera surveillance with predictive policing, used in 60+ US cities across 12+ states &lpar;Avi Asher-Schapiro/Context&rpar;](http://www.techmeme.com/230513/p15#a230513p15)<!-- TECH:END -->
+ - [Best Samsung Galaxy A53 5G Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-a53-5g-case/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
