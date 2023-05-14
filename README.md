@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oculus founder says Apple&#39;s headset is &#39;so good&#39;](https://appleinsider.com/articles/23/05/14/oculus-founder-says-apples-headset-is-so-good?utm_medium=rss)
- - [Fopo S17 triple monitor review: Portable but precarious](https://appleinsider.com/articles/23/05/14/fopo-s17-triple-monitor-review-portable-but-precarious?utm_medium=rss)
- - [Ring Battery Doorbell Plus review: Enhanced doorbell for Alexa smart homes](https://www.androidauthority.com/ring-battery-doorbell-plus-review-3323843/)<!-- TECH:END -->
+ - [Emergency SOS via Satellite lands in Australia and New Zealand](https://appleinsider.com/articles/23/05/14/emergency-sos-via-satellite-lands-in-australia-and-new-zealand?utm_medium=rss)
+ - [Swedish cybersecurity company Truesec and experts: Russia-linked &quot;Anonymous Sudan&quot; is one of the most prolific hacktivist groups targeting Swedish organizations &lpar;Bloomberg&rpar;](http://www.techmeme.com/230514/p7#a230514p7)
+ - [Oculus founder says Apple&#39;s headset is &#39;so good&#39;](https://appleinsider.com/articles/23/05/14/oculus-founder-says-apples-headset-is-so-good?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
