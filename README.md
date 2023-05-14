@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI tools embrace the dream of Clippy](https://www.theverge.com/2023/5/14/23721313/google-duet-ai-for-workspace-sidekick-clippy-generative-new-era-office-work)
- - [iOS 16.5 Is Almost Here, But You May Have Missed These iOS 16.4 Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-4-iphone-features-you-may-have-missed/#ftag=CAD590a51e)
- - [Xfinity Speed Test Results: How Did Comcast&#39;s Internet Service Fare?     - CNET](https://www.cnet.com/news/xfinity-speed-test-results-how-did-comcasts-internet-service-fare/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily Deals: $25 AirTags, $85 Apple Pencil Gen 2, $35 off Kodak Digital Picture Frame, more](https://appleinsider.com/articles/23/05/14/daily-deals-25-airtags-85-apple-pencil-gen-2-35-off-kodak-digital-picture-frame-more?utm_medium=rss)
+ - [Google Pixel 7a charging test: Running a little too hot](https://www.androidauthority.com/google-pixel-7a-battery-life-charging-3320826/)
+ - [14 Best Fitness Trackers &lpar;2023&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
