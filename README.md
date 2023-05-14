@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15&#39;s stacked 48MP camera sensor may cause production delays](https://appleinsider.com/articles/23/05/14/iphone-15s-stacked-48mp-camera-sensor-may-cause-production-delays?utm_medium=rss)
- - [I thought Spotify Niche Mixes were silly, and then I used one](https://www.androidauthority.com/spotify-niche-mixes-useful-3323751/)
- - [A look at TikTok&#39;s #medicalmoms, where mothers of disabled and chronically ill kids share parenthood journeys, raising privacy, consent, and autonomy concerns &lpar;Fortesa Latifi/Washington Post&rpar;](http://www.techmeme.com/230514/p6#a230514p6)<!-- TECH:END -->
+ - [Fopo S17 triple monitor review: Portable but precarious](https://appleinsider.com/articles/23/05/14/fopo-s17-triple-monitor-review-portable-but-precarious?utm_medium=rss)
+ - [Ring Battery Doorbell Plus review: Enhanced doorbell for Alexa smart homes](https://www.androidauthority.com/ring-battery-doorbell-plus-review-3323843/)
+ - [Best Cheap Meal Delivery Services of 2023     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
