@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the rise of Fusus, a controversial police tech platform merging camera surveillance with predictive policing, used in 60+ US cities across 12+ states &lpar;Avi Asher-Schapiro/Context&rpar;](http://www.techmeme.com/230513/p15#a230513p15)
  - [AirPod case not charging? Here’s how to fix it](https://www.androidauthority.com/airpod-case-not-charging-fix-3324507/)
- - [Canvia Digital Art Canvas review: hardware is great, software is not](https://appleinsider.com/articles/23/05/13/canvia-digital-art-canvas-review-hardware-is-great-software-is-not?utm_medium=rss)
- - [The 8 Best Wireless Car Chargers for 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You&#39;re Scrolling Up on Your iPhone Wrong     - CNET](https://www.cnet.com/tech/mobile/youve-been-scrolling-up-on-your-iphone-the-wrong-way-this-whole-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
