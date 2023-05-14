@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The perfect gaming equipment..](http://9gag.com/gag/amAx5rd)
- - 🚯 [I&#39;m developing an allergy to nuts](http://9gag.com/gag/aoKx5B2)
- - 🚯 [Wholesome moments](http://9gag.com/gag/abvxYmO)<!-- MEMES:END -->
+ - 🚖 [Same same but different. But still same](http://9gag.com/gag/avQx7Gn)
+ - 🚯 [Use feet not kees to jump](http://9gag.com/gag/amAxPAo)
+ - 🚯 [Another working day in Antarctica](http://9gag.com/gag/aVbZ3Rw)<!-- MEMES:END -->
 
 --- 
 
