@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another working day in Antarctica](http://9gag.com/gag/aVbZ3Rw)
- - 🚯 [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
- - 🚯 [Traumatized kitty\u2026](http://9gag.com/gag/aWGo1QA)<!-- MEMES:END -->
+ - 🚖 [What is a drone flute? Let me show you.](http://9gag.com/gag/a8qeE86)
+ - 🚯 [I had a feeling she reminded me of someone](http://9gag.com/gag/ay21MEb)
+ - 🚯 [The Perfect Women doesn&#39;t exi-](http://9gag.com/gag/ap9xGO5)<!-- MEMES:END -->
 
 --- 
 
