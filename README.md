@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Climbing Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23720529/climbing-armor-set-locations-head-chests-legs)
- - [Goths rejoice: partway through the &#39;Server Slam&#39; Diablo 4&#39;s nerfed Necromancers got a little boost](https://www.pcgamer.com/goths-rejoice-partway-through-the-server-slam-diablo-4s-nerfed-necromancers-got-a-little-boost)
- - [Orochium Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723101/orochium-shrine-puzzle-solution-chest)<!-- GAME:END -->
+ - [Here&#39;s How To Pull Off Zelda: Tears Of The Kingdom&#39;s First Duplication Glitch](https://kotaku.com/how-to-duplicate-items-zelda-tears-of-the-kingdom-best-1850435663)
+ - [Bargainer statue locations and rewards in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723110/bargainer-statues-locations-totk-poes-farm-rewards-armor)
+ - [How to make the ‘Gloom-borne Illness’ porridge in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723095/gloom-borne-illness-wild-greens-porridge-hylian-rice-fresh-milk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
