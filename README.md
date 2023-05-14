@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Absolutely brilliant](http://9gag.com/gag/a4oAR8p)
- - 🚯 [The legend](http://9gag.com/gag/aBdE2nQ)
- - 🚯 [Asians Explain How Different They Sound](http://9gag.com/gag/a2KD1QD)<!-- MEMES:END -->
+ - 🚖 [The legend](http://9gag.com/gag/aBdE2nQ)
+ - 🚯 [Remember when insects did this?](http://9gag.com/gag/aVbZxyP)
+ - 🚯 [Brently can run up the stairs without running out of breath](http://9gag.com/gag/a3Z81W3)<!-- MEMES:END -->
 
 --- 
 
