@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Pirate bay co-founder in his office](http://9gag.com/gag/a1PVKQY)
- - 🚯 [Same same but different. But still same](http://9gag.com/gag/avQx7Gn)
- - 🚯 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)<!-- MEMES:END -->
+ - 🚖 [Another working day in Antarctica](http://9gag.com/gag/aVbZ3Rw)
+ - 🚯 [These two... Stared in the biggest best movie franchises of our generation. Then just disappeared for a few years. Then returned in some of the best weirdest roles tv and movies have to offer. That no other actor in there demographic would ever accept.](http://9gag.com/gag/a6qBo6m)
+ - 🚯 [How mobile phones are smuggled into prison](http://9gag.com/gag/aPge3pG)<!-- MEMES:END -->
 
 --- 
 
