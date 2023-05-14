@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The irony lmfao](http://9gag.com/gag/ajVx9Mq)
- - 🚯 [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
- - 🚯 [Risk = Reward](http://9gag.com/gag/a7q9WZw)<!-- MEMES:END -->
+ - 🚖 [Have a blessed weekend 9gaggers](http://9gag.com/gag/az2OXyK)
+ - 🚯 [These two... Stared in the biggest best movie franchises of our generation. Then just disappeared for a few years. Then returned in some of the best weirdest roles tv and movies have to offer. That no other actor in there demographic would ever accept.](http://9gag.com/gag/a6qBo6m)
+ - 🚯 [Use feet not kees to jump](http://9gag.com/gag/amAxPAo)<!-- MEMES:END -->
 
 --- 
 
