@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Check out the destructible terrain in this tactical combat game set on Mars](https://www.pcgamer.com/check-out-the-destructible-terrain-in-this-tactical-combat-game-set-on-mars)
  - [Before Unreal or Gears of War, a young Cliff Bleszinski made a shareware game called The Palace of Deceit](https://www.pcgamer.com/saturday-crapshoot-the-palace-of-deceit)
- - [Tim Cain reveals proposed sequels to Vampire – Bloodlines: &#39;We were planning a trilogy, which I forgot&#39;](https://www.pcgamer.com/tim-cain-reveals-proposed-sequels-to-vampire-bloodlines-we-were-planning-a-trilogy-which-i-forgot)
- - [Valve makes Steam beta participation easier because it wants more Steam beta participants](https://www.pcgamer.com/valve-makes-steam-beta-participation-easier-because-it-wants-more-steam-beta-participants)<!-- GAME:END -->
+ - [Tim Cain reveals proposed sequels to Vampire – Bloodlines: &#39;We were planning a trilogy, which I forgot&#39;](https://www.pcgamer.com/tim-cain-reveals-proposed-sequels-to-vampire-bloodlines-we-were-planning-a-trilogy-which-i-forgot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
