@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Archeologists found a 7000 year old road under the Mediterranean sea](http://9gag.com/gag/aBdEmOx)
- - 🚯 [This weird bee just landed on my window](http://9gag.com/gag/anzxQgb)
- - 🚯 [Do not redeeeeem](http://9gag.com/gag/avQxz8X)<!-- MEMES:END -->
+ - 🚖 [This weird bee just landed on my window](http://9gag.com/gag/anzxQgb)
+ - 🚯 [Use feet not kees to jump](http://9gag.com/gag/amAxPAo)
+ - 🚯 [Risk = Reward](http://9gag.com/gag/a7q9WZw)<!-- MEMES:END -->
 
 --- 
 
