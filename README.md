@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tears of the Kingdom players are obsessed with Purah’s glow up](https://www.polygon.com/legend-zelda-tears-kingdom/23723061/legend-of-zelda-tears-of-the-kingdom-purah-fans-react)
  - [The movies to keep your Zelda high going](https://www.polygon.com/what-to-watch/23712481/movies-like-zelda-games-tears-of-the-kingdom)
- - [Superhero movies are better when they actually talk to comics](https://www.polygon.com/23720197/guardians-of-the-galaxy-ending-adam-warlock-marvel-comics)
- - [How to beat Phantom Ganon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722530/phantom-ganon-how-to-beat-locations-prepare-rewards-drops)<!-- GAME:END -->
+ - [Superhero movies are better when they actually talk to comics](https://www.polygon.com/23720197/guardians-of-the-galaxy-ending-adam-warlock-marvel-comics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
