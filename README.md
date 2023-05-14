@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out the destructible terrain in this tactical combat game set on Mars](https://www.pcgamer.com/check-out-the-destructible-terrain-in-this-tactical-combat-game-set-on-mars)
- - [Before Unreal or Gears of War, a young Cliff Bleszinski made a shareware game called The Palace of Deceit](https://www.pcgamer.com/saturday-crapshoot-the-palace-of-deceit)
- - [Tim Cain reveals proposed sequels to Vampire – Bloodlines: &#39;We were planning a trilogy, which I forgot&#39;](https://www.pcgamer.com/tim-cain-reveals-proposed-sequels-to-vampire-bloodlines-we-were-planning-a-trilogy-which-i-forgot)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #694: Sunday, May 14](https://www.pcgamer.com/wordle-today-hint-answer-694-may-14)
+ - [System Shock was the FPS that changed PC games forever](https://www.pcgamer.com/system-shock-was-the-fps-that-changed-pc-games-forever)
+ - [Check out the destructible terrain in this tactical combat game set on Mars](https://www.pcgamer.com/check-out-the-destructible-terrain-in-this-tactical-combat-game-set-on-mars)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
