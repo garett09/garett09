@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oculus founder says Apple&#39;s headset is &#39;so good&#39;](https://appleinsider.com/articles/23/05/14/oculus-founder-says-apples-headset-is-so-good?utm_medium=rss)
  - [Fopo S17 triple monitor review: Portable but precarious](https://appleinsider.com/articles/23/05/14/fopo-s17-triple-monitor-review-portable-but-precarious?utm_medium=rss)
- - [Ring Battery Doorbell Plus review: Enhanced doorbell for Alexa smart homes](https://www.androidauthority.com/ring-battery-doorbell-plus-review-3323843/)
- - [Best Cheap Meal Delivery Services of 2023     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ring Battery Doorbell Plus review: Enhanced doorbell for Alexa smart homes](https://www.androidauthority.com/ring-battery-doorbell-plus-review-3323843/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
