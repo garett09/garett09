@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apply cold water](http://9gag.com/gag/a4oARd6)
- - 🚯 [1%er](http://9gag.com/gag/aYVMyZV)
- - 🚯 [Dudes eyes are like... thanks man](http://9gag.com/gag/armx546)<!-- MEMES:END -->
+ - 🚖 [The Pirate bay co-founder in his office](http://9gag.com/gag/a1PVKQY)
+ - 🚯 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)
+ - 🚯 [Never give up!](http://9gag.com/gag/ap9xQnp)<!-- MEMES:END -->
 
 --- 
 
