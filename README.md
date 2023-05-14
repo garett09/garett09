@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s an hour of discussion on Jagged Alliance 3&#39;s combat](https://www.pcgamer.com/heres-an-hour-of-discussion-on-jagged-alliance-3s-combat)
- - [Here&#39;s How To Pull Off Zelda: Tears Of The Kingdom&#39;s First Duplication Glitch](https://kotaku.com/how-to-duplicate-items-zelda-tears-of-the-kingdom-best-1850435663)
- - [Bargainer statue locations and rewards in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723110/bargainer-statues-locations-totk-poes-farm-rewards-armor)<!-- GAME:END -->
+ - [Jirutagumac Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723241/jirutagumac-shrine-puzzle-solution-chest)
+ - [One day post-launch, the developers of Switch emulator Yuzu announce that Tears of the Kingdom is playable &#39;full speed on most hardware&#39; with &#39;no hacks needed&#39;](https://www.pcgamer.com/one-day-post-launch-the-developers-of-switch-emulator-yuzu-announce-that-tears-of-the-kingdom-is-playable-full-speed-on-most-hardware-with-no-hacks-needed)
+ - [Here&#39;s an hour of discussion on Jagged Alliance 3&#39;s combat](https://www.pcgamer.com/heres-an-hour-of-discussion-on-jagged-alliance-3s-combat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
