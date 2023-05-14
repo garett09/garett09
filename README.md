@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wholesome moments](http://9gag.com/gag/abvxYmO)
- - 🚯 [Have a blessed weekend 9gaggers](http://9gag.com/gag/az2OXyK)
- - 🚯 [I had a feeling she reminded me of someone](http://9gag.com/gag/ay21MEb)<!-- MEMES:END -->
+ - 🚖 [The Pirate bay co-founder in his office](http://9gag.com/gag/a1PVKQY)
+ - 🚯 [Same same but different. But still same](http://9gag.com/gag/avQx7Gn)
+ - 🚯 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)<!-- MEMES:END -->
 
 --- 
 
