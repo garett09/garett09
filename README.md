@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15&#39;s stacked 48MP camera sensor may cause production delays](https://appleinsider.com/articles/23/05/14/iphone-15s-stacked-48mp-camera-sensor-may-cause-production-delays?utm_medium=rss)
  - [I thought Spotify Niche Mixes were silly, and then I used one](https://www.androidauthority.com/spotify-niche-mixes-useful-3323751/)
- - [A look at TikTok&#39;s #medicalmoms, where mothers of disabled and chronically ill kids share parenthood journeys, raising privacy, consent, and autonomy concerns &lpar;Fortesa Latifi/Washington Post&rpar;](http://www.techmeme.com/230514/p6#a230514p6)
- - [Save $100 on the New Pixel 7A at Mint Mobile and Get 6 Free Months of Service     - CNET](https://www.cnet.com/deals/save-100-on-the-new-pixel-7a-at-mint-mobile-and-get-6-free-months-of-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at TikTok&#39;s #medicalmoms, where mothers of disabled and chronically ill kids share parenthood journeys, raising privacy, consent, and autonomy concerns &lpar;Fortesa Latifi/Washington Post&rpar;](http://www.techmeme.com/230514/p6#a230514p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
