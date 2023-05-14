@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Magic Editor pushes us toward AI-perfected fakery](https://www.theverge.com/23721763/google-magic-editor-ai-photos-pixel-fakery)
- - [Apple tests M3 chip with 12 CPU and 18 GPU cores, 36GB of RAM; Meta shows how it feels about Apple Watch by pulling Messenger and launching WhatsApp for WearOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230514/p5#a230514p5)
- - [Save Hundreds on New and Refurb Microsoft Surface Laptops, Accessories and More     - CNET](https://www.cnet.com/deals/save-hundreds-on-new-and-refurb-microsoft-surface-laptops-accessories-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Midjourney: The popular AI image generator](https://www.androidauthority.com/how-to-use-midjourney-3324547/)
+ - [Take Your Gaming to the Next Level With Deals on Refurb Razer Gear     - CNET](https://www.cnet.com/deals/take-your-gaming-to-the-next-level-with-deals-on-refurb-razer-gear/#ftag=CAD590a51e)
+ - [Fake Parmesan Cheese Is a Bigger Problem Than You&#39;d Think     - CNET](https://www.cnet.com/news/parmesan-cheese-versus-parmigiano-reggiano/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
