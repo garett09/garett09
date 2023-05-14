@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
- - 🚯 [Have a blessed weekend 9gaggers](http://9gag.com/gag/az2OXyK)
- - 🚯 [I saw her somewhere in my dreams](http://9gag.com/gag/a7q9wwA)<!-- MEMES:END -->
+ - 🚖 [The irony lmfao](http://9gag.com/gag/ajVx9Mq)
+ - 🚯 [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
+ - 🚯 [Risk = Reward](http://9gag.com/gag/a7q9WZw)<!-- MEMES:END -->
 
 --- 
 
