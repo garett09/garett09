@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is a drone flute? Let me show you.](http://9gag.com/gag/a8qeE86)
- - 🚯 [I had a feeling she reminded me of someone](http://9gag.com/gag/ay21MEb)
- - 🚯 [The Perfect Women doesn&#39;t exi-](http://9gag.com/gag/ap9xGO5)<!-- MEMES:END -->
+ - 🚖 [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
+ - 🚯 [Have a blessed weekend 9gaggers](http://9gag.com/gag/az2OXyK)
+ - 🚯 [I saw her somewhere in my dreams](http://9gag.com/gag/a7q9wwA)<!-- MEMES:END -->
 
 --- 
 
