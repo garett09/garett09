@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Midjourney: The popular AI image generator](https://www.androidauthority.com/how-to-use-midjourney-3324547/)
- - [Take Your Gaming to the Next Level With Deals on Refurb Razer Gear     - CNET](https://www.cnet.com/deals/take-your-gaming-to-the-next-level-with-deals-on-refurb-razer-gear/#ftag=CAD590a51e)
- - [Fake Parmesan Cheese Is a Bigger Problem Than You&#39;d Think     - CNET](https://www.cnet.com/news/parmesan-cheese-versus-parmigiano-reggiano/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nanoleaf’s new Essentials lights are great, but reveal Matter’s shortcomings](https://www.androidauthority.com/nanoleaf-essentials-matter-review-3320085/)
+ - [Google, how do I ask your AI the right questions?](https://www.theverge.com/2023/5/14/23719048/google-ai-duet-sidekick-search-prompts-io)
+ - [Getting started with macOS Disk Utility: RAID, images, and repairs](https://appleinsider.com/inside/macos/tips/getting-started-with-macos-disk-utility-raid-images-and-repairs?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
