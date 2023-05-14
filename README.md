@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Another working day in Antarctica](http://9gag.com/gag/aVbZ3Rw)
- - 🚯 [These two... Stared in the biggest best movie franchises of our generation. Then just disappeared for a few years. Then returned in some of the best weirdest roles tv and movies have to offer. That no other actor in there demographic would ever accept.](http://9gag.com/gag/a6qBo6m)
- - 🚯 [How mobile phones are smuggled into prison](http://9gag.com/gag/aPge3pG)<!-- MEMES:END -->
+ - 🚯 [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
+ - 🚯 [Traumatized kitty\u2026](http://9gag.com/gag/aWGo1QA)<!-- MEMES:END -->
 
 --- 
 
