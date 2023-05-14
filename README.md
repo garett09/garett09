@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The irony lmfao](http://9gag.com/gag/ajVx9Mq)
- - 🚯 [Never give up!](http://9gag.com/gag/ap9xQnp)
- - 🚯 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)<!-- MEMES:END -->
+ - 🚖 [What kind of animal is that?](http://9gag.com/gag/aqexbPM)
+ - 🚯 [Iridodonesis](http://9gag.com/gag/aVbZq8K)
+ - 🚯 [Apply cold water](http://9gag.com/gag/a4oARd6)<!-- MEMES:END -->
 
 --- 
 
