@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wholesome Neighbour \u2764\ufe0f](http://9gag.com/gag/aVbZ7DP)
- - 🚯 [Regie knows the routine lol](http://9gag.com/gag/ajVxg5R)
- - 🚯 [Awww...](http://9gag.com/gag/aoKxPyg)<!-- MEMES:END -->
+ - 🚖 [I&#39;m okay, it&#39;s just a flesh wound](http://9gag.com/gag/aoKx5bX)
+ - 🚯 [Survives a staggering 30 seconds in 9Gs of force.](http://9gag.com/gag/aGEGgb0)
+ - 🚯 [Well deserved](http://9gag.com/gag/aQEmRNd)<!-- MEMES:END -->
 
 --- 
 
