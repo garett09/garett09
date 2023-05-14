@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please don&#39;t let anyone grab your ankles](http://9gag.com/gag/aOx97jy)
- - 🚯 [Apply cold water](http://9gag.com/gag/a4oARd6)
- - 🚯 [Have a blessed weekend 9gaggers](http://9gag.com/gag/az2OXyK)<!-- MEMES:END -->
+ - 🚖 [The irony lmfao](http://9gag.com/gag/ajVx9Mq)
+ - 🚯 [Never give up!](http://9gag.com/gag/ap9xQnp)
+ - 🚯 [Trying so hard to hold it together](http://9gag.com/gag/agoxYer)<!-- MEMES:END -->
 
 --- 
 
