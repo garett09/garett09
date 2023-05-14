@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use Google Authenticator](https://www.wired.com/story/how-to-use-google-authenticator-app/)
- - [The Most Useful PlayStation and Xbox Accessibility Options](https://www.wired.com/story/most-useful-playstation-xbox-accessibility-options/)
- - [Lenovo ThinkPhone by Motorola Review: Getting There](https://www.wired.com/review/lenovo-thinkphone-by-motorola/)<!-- TECH:END -->
+ - [Google’s AI tools embrace the dream of Clippy](https://www.theverge.com/2023/5/14/23721313/google-duet-ai-for-workspace-sidekick-clippy-generative-new-era-office-work)
+ - [iOS 16.5 Is Almost Here, But You May Have Missed These iOS 16.4 Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-4-iphone-features-you-may-have-missed/#ftag=CAD590a51e)
+ - [Xfinity Speed Test Results: How Did Comcast&#39;s Internet Service Fare?     - CNET](https://www.cnet.com/news/xfinity-speed-test-results-how-did-comcasts-internet-service-fare/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
