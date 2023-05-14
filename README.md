@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Remedy dev modded native HDR into Control, along with a heap of other graphical improvements](https://www.pcgamer.com/a-remedy-dev-modded-native-hdr-into-control-along-with-a-heap-of-other-graphical-improvements)
  - [Today&#39;s Wordle hint and answer #694: Sunday, May 14](https://www.pcgamer.com/wordle-today-hint-answer-694-may-14)
- - [System Shock was the FPS that changed PC games forever](https://www.pcgamer.com/system-shock-was-the-fps-that-changed-pc-games-forever)
- - [Check out the destructible terrain in this tactical combat game set on Mars](https://www.pcgamer.com/check-out-the-destructible-terrain-in-this-tactical-combat-game-set-on-mars)<!-- GAME:END -->
+ - [System Shock was the FPS that changed PC games forever](https://www.pcgamer.com/system-shock-was-the-fps-that-changed-pc-games-forever)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
