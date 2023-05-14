@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPod case not charging? Here’s how to fix it](https://www.androidauthority.com/airpod-case-not-charging-fix-3324507/)
  - [Canvia Digital Art Canvas review: hardware is great, software is not](https://appleinsider.com/articles/23/05/13/canvia-digital-art-canvas-review-hardware-is-great-software-is-not?utm_medium=rss)
- - [Apple bracing for potential mixed reality headset &#39;production issues&#39;](https://appleinsider.com/articles/23/05/13/apple-bracing-for-potential-mixed-reality-headset-production-issues?utm_medium=rss)
- - [How an overhaul of Amazon&#39;s US logistics network in recent months cut delivery times, changed inventory management, and altered search results on its website &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/230513/p14#a230513p14)<!-- TECH:END -->
+ - [The 8 Best Wireless Car Chargers for 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
