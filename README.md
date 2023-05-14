@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [WoW Classic is getting official &#39;hardcore&#39; mode servers](https://www.pcgamer.com/wow-classic-is-getting-official-hardcore-mode-servers)
  - [Zelda: Tears of the Kingdom players are using long bridges to solve all their problems](https://www.polygon.com/legend-zelda-tears-kingdom/23723279/totk-legend-of-zelda-tears-of-the-kingdom-bridge-totk)
- - [One of our favorite Stardew Valley-alikes has been delisted from Steam over a messy dispute between developer and publisher](https://www.pcgamer.com/one-of-our-favorite-stardew-valley-alikes-has-been-delisted-from-steam-over-a-messy-dispute-between-developer-and-publisher)
- - [Where to find Dragon Tear memory locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23721466/dragon-tear-locations-glyphs-memories)<!-- GAME:END -->
+ - [One of our favorite Stardew Valley-alikes has been delisted from Steam over a messy dispute between developer and publisher](https://www.pcgamer.com/one-of-our-favorite-stardew-valley-alikes-has-been-delisted-from-steam-over-a-messy-dispute-between-developer-and-publisher)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
