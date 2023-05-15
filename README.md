@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At I/O 2023, Google Assistant was an afterthought, superseded by Bard, a notable omission after Assistant took center stage at multiple previous I/O keynotes &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/230515/p7#a230515p7)
- - [The Fanfic Sex Trope That Caught a Plundering AI Red-Handed](https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/)
- - [OPPO wiped its German website amid EU exit rumors, here’s why](https://www.androidauthority.com/oppo-germany-website-deleted-3324632/)<!-- TECH:END -->
+ - [Kenya-based M-KOPA, an asset financing service offering African customers access to &quot;productive assets&quot; and digital payments, raised $55M equity and $200M+ debt &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230515/p9#a230515p9)
+ - [This Is the Quietest Sound in the Universe](https://www.wired.com/story/quantum-sound/)
+ - [This free TV comes with two screens](https://www.theverge.com/2023/5/15/23721674/telly-free-tv-streaming-ilya-pozin-ads)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
