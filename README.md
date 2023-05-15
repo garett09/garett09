@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI is preparing to publicly debut its first open-source LLM, amid a proliferation of open-source alternatives, including variants of Meta&#39;s LLaMA &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230515/p18#a230515p18)
- - [Pick up the Nest Mini for just $37.49, and more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)
- - [Sources: the IRS has quietly built a prototype system to let Americans file tax returns digitally and free of charge, with a pilot slated to launch in January &lpar;Jacob Bogage/Washington Post&rpar;](http://www.techmeme.com/230515/p17#a230515p17)<!-- TECH:END -->
+ - [Ring founder is officially leaving Amazon](https://www.theverge.com/2023/5/15/23724223/jamie-siminoff-leaving-amazon-ring-founder)
+ - [Carl Pei reviews Apple’s AirPods Pro 2 and shows how Nothing Ear 2 are made](https://www.androidauthority.com/airpods-pro-2-review-carl-pei-3324808/)
+ - [The second-gen Apple Pencil for iPads has dropped to a new low price of $85](https://www.theverge.com/2023/5/15/23723833/apple-pencil-ipad-sony-linkbuds-jbl-charge-mac-mini-m2-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
