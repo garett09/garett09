@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Play The World’s Game With FIFA 23, Arriving on The Play List Tomorrow](https://news.xbox.com/en-us/2023/05/15/play-the-worlds-game-with-fifa-23-arriving-on-the-play-list-tomorrow/)
- - [Get up to $423 worth of Starfinder texts for just $45 at Humble](https://www.polygon.com/deals/2023/5/15/23724151/humble-starfinder-solidarity-bundle-ttrpg-paizo-deal-sale)
- - [Amazon Studio Behind Hit MMO New World Working On Lord Of The Rings Next](https://kotaku.com/amazon-games-lord-of-the-rings-power-mmorpg-new-world-1850438248)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom Fans Are Using Penises To Solve Puzzles, Kill Bosses](https://kotaku.com/zelda-tears-of-the-kingdom-fuse-ultrahand-penis-hinox-1850438598)
+ - [The Bear’s season 2 trailer is extreme restaurant makeover](https://www.polygon.com/23724351/bear-trailer-season-2-release-date)
+ - [There’s no wrong way to play Zelda: Tears of the Kingdom](https://www.polygon.com/legend-zelda-tears-kingdom/23724007/zelda-tears-of-the-kingdom-totk-solving-puzzles-ultrahand)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
