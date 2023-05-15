@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D streaming TV channel in the works, will include classic cartoons and actual play](https://www.polygon.com/23723936/dnd-dungeons-dragons-streaming-tv-channel)
- - [Zelda: Tears Of The Kingdom’s Paraglider Is Easy To Miss, Here’s How To Get It](https://kotaku.com/zelda-tears-of-the-kingdom-how-to-paraglider-location-1850437399)
- - [David Tennant, Catherine Tate reunite in new Doctor Who special trailer](https://www.polygon.com/23723873/david-tennant-catherine-tate-doctor-who-60th-anniversary-trailer-release-date)<!-- GAME:END -->
+ - [Unleash your creativity in Humanity with the stage creator](https://blog.playstation.com/2023/05/15/unleash-your-creativity-in-humanity-with-the-stage-creator/)
+ - [What’s more important in Fast and Furious: races or chases?](https://www.polygon.com/23720275/fast-furious-movies-best-races-chases)
+ - [This sucks: A month after I discover Vampire: The Masquerade - Bloodhunt, they&#39;re killing it](https://www.pcgamer.com/this-sucks-a-month-after-i-discover-vampire-the-masquerade-bloodhunt-theyre-killing-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
