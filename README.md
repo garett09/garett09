@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another smartphone company exits the consumer industry](https://www.androidauthority.com/kyocera-consumer-phones-3324744/)
- - [T-Mobile giving away MLB.TV subscriptions for second time this year](https://www.androidauthority.com/t-mobile-mlbtv-may-2023-3324761/)
- - [Amazon is making a Lord of the Rings MMO &lpar;again&rpar;](https://www.theverge.com/23723787/amazon-lord-of-the-rings-mmo)<!-- TECH:END -->
+ - [Source: OpenAI is preparing to publicly debut its first open-source LLM, amid a proliferation of open-source alternatives, including variants of Meta&#39;s LLaMA &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230515/p18#a230515p18)
+ - [Pick up the Nest Mini for just $37.49, and more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)
+ - [Sources: the IRS has quietly built a prototype system to let Americans file tax returns digitally and free of charge, with a pilot slated to launch in January &lpar;Jacob Bogage/Washington Post&rpar;](http://www.techmeme.com/230515/p17#a230515p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
