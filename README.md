@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make the ‘Gloom-borne Illness’ porridge in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723095/gloom-borne-illness-wild-greens-porridge-hylian-rice-fresh-milk)
- - [The current NBA 2K game always gets a huge Steam discount in May, and this year is no exception](https://www.pcgamer.com/nba-2k23-steam-discount-may)
- - [How to get to Kakariko Village in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724588/kakariko-village-location)<!-- GAME:END -->
+ - [Good luck with that: Twitter&#39;s new CEO starts in 6 weeks](https://www.pcgamer.com/good-luck-with-that-twitters-new-ceo-starts-in-6-weeks)
+ - [Steam Sports Fest sale features birds, racoons, pro wrestlers, and the lowest price ever on FIFA 23 on PC—but sorry, no race cars](https://www.pcgamer.com/steam-sports-fest-sale-features-birds-racoons-pro-wrestlers-and-the-lowest-price-ever-on-fifa-23-on-pcbut-sorry-no-race-cars)
+ - [Kiuyoyou Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724504/kiuyoyou-shrine-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
