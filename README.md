@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kenya-based M-KOPA, an asset financing service offering African customers access to &quot;productive assets&quot; and digital payments, raised $55M equity and $200M+ debt &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/230515/p9#a230515p9)
- - [This Is the Quietest Sound in the Universe](https://www.wired.com/story/quantum-sound/)
- - [This free TV comes with two screens](https://www.theverge.com/2023/5/15/23721674/telly-free-tv-streaming-ilya-pozin-ads)<!-- TECH:END -->
+ - [London-based Smart, which helps employers and employees manage their pensions, raised a $95M Series E led by Aquiline; reports said Smart sought to raise $123M &lpar;TechCrunch&rpar;](http://www.techmeme.com/230515/p12#a230515p12)
+ - [There&#39;s a way to get a free flatscreen TV -- but with a catch](https://appleinsider.com/articles/23/05/15/theres-a-way-to-get-a-free-flatscreen-tv----but-with-a-catch?utm_medium=rss)
+ - [Pluto TV co-founder Ilya Pozin&#39;s Telly opens a waitlist to give away 500,000 55-inch 4K HDR TVs in 2023 with a second screen that constantly shows ads &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/230515/p11#a230515p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
