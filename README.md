@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)
- - 🚯 [Netflix&#39;s Cleopatra is the gift that keeps on giving. Way to go Bassem that interview was priceless. Sauce in the comments.](http://9gag.com/gag/amAxvxX)
- - 🚯 [Brutus is busy](http://9gag.com/gag/a6qBEON)<!-- MEMES:END -->
+ - 🚖 [Asians Explain How Different They Sound](http://9gag.com/gag/a2KD1QD)
+ - 🚯 [Quick Fix](http://9gag.com/gag/aVbZgqv)
+ - 🚯 [How to write a poem with a ball...](http://9gag.com/gag/a8qeq6p)<!-- MEMES:END -->
 
 --- 
 
