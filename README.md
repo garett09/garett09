@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shit that I wish to see before I die.](http://9gag.com/gag/a2KDWKe)
- - 🚯 [I&#39;m okay, it&#39;s just a flesh wound](http://9gag.com/gag/aoKx5bX)
- - 🚯 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)<!-- MEMES:END -->
+ - 🚖 [This weird bee just landed on my window](http://9gag.com/gag/anzxQgb)
+ - 🚯 [Do not redeeeeem](http://9gag.com/gag/avQxz8X)
+ - 🚯 [Wrong sandwich eater](http://9gag.com/gag/aEqWgwp)<!-- MEMES:END -->
 
 --- 
 
