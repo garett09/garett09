@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
- - 🚯 [This weird bee just landed on my window](http://9gag.com/gag/anzxQgb)
- - 🚯 [Little guy is learning a valuable lesson](http://9gag.com/gag/abvxvBb)<!-- MEMES:END -->
+ - 🚖 [`Are you a tyrant?`, `Yep`](http://9gag.com/gag/aVbZw9n)
+ - 🚯 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)
+ - 🚯 [Awww...](http://9gag.com/gag/aoKxPyg)<!-- MEMES:END -->
 
 --- 
 
