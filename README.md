@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unleash your creativity in Humanity with the stage creator](https://blog.playstation.com/2023/05/15/unleash-your-creativity-in-humanity-with-the-stage-creator/)
- - [What’s more important in Fast and Furious: races or chases?](https://www.polygon.com/23720275/fast-furious-movies-best-races-chases)
- - [This sucks: A month after I discover Vampire: The Masquerade - Bloodhunt, they&#39;re killing it](https://www.pcgamer.com/this-sucks-a-month-after-i-discover-vampire-the-masquerade-bloodhunt-theyre-killing-it)<!-- GAME:END -->
+ - [Recreating Tolkien’s world for The Lord of the Rings: Gollum, out May 25](https://blog.playstation.com/2023/05/15/recreating-tolkiens-world-for-the-lord-of-the-rings-gollum-out-may-25/)
+ - [The Return of Rome Expansion Turns Age of Empires II: Definitive Edition Into The Game From Your Nostalgic Memories](https://news.xbox.com/en-us/2023/05/15/age-of-empires-ii-return-of-rome/)
+ - [The MultiplayerWitcher Spin-Off Game Reboots, Lays Off Developers](https://kotaku.com/witcher-4-sequel-cd-projekt-red-molasses-flood-layoffs-1850437987)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
