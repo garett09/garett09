@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Recreating Tolkien’s world for The Lord of the Rings: Gollum, out May 25](https://blog.playstation.com/2023/05/15/recreating-tolkiens-world-for-the-lord-of-the-rings-gollum-out-may-25/)
- - [The Return of Rome Expansion Turns Age of Empires II: Definitive Edition Into The Game From Your Nostalgic Memories](https://news.xbox.com/en-us/2023/05/15/age-of-empires-ii-return-of-rome/)
- - [The MultiplayerWitcher Spin-Off Game Reboots, Lays Off Developers](https://kotaku.com/witcher-4-sequel-cd-projekt-red-molasses-flood-layoffs-1850437987)<!-- GAME:END -->
+ - [Play The World’s Game With FIFA 23, Arriving on The Play List Tomorrow](https://news.xbox.com/en-us/2023/05/15/play-the-worlds-game-with-fifa-23-arriving-on-the-play-list-tomorrow/)
+ - [Get up to $423 worth of Starfinder texts for just $45 at Humble](https://www.polygon.com/deals/2023/5/15/23724151/humble-starfinder-solidarity-bundle-ttrpg-paizo-deal-sale)
+ - [Amazon Studio Behind Hit MMO New World Working On Lord Of The Rings Next](https://kotaku.com/amazon-games-lord-of-the-rings-power-mmorpg-new-world-1850438248)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
