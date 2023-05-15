@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears of the Kingdom Fans Are Using Penises To Solve Puzzles, Kill Bosses](https://kotaku.com/zelda-tears-of-the-kingdom-fuse-ultrahand-penis-hinox-1850438598)
- - [The Bear’s season 2 trailer is extreme restaurant makeover](https://www.polygon.com/23724351/bear-trailer-season-2-release-date)
- - [There’s no wrong way to play Zelda: Tears of the Kingdom](https://www.polygon.com/legend-zelda-tears-kingdom/23724007/zelda-tears-of-the-kingdom-totk-solving-puzzles-ultrahand)<!-- GAME:END -->
+ - [How to get to Rito Village in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724463/rito-village-location-totk-broken-bridge-path)
+ - [How to use the Zonai wing in Zelda: Tears of the Kingdom like a pro](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724378/totk-legend-of-zelda-tears-of-the-kingdom-how-to-use-zonai-wing-using-wings)
+ - [How to tame a horse and use it to pull a wagon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724004/tame-horse-towing-harness-wagon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
