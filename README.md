@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)
- - 🚯 [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)
- - 🚯 [`Are you a tyrant?`, `Yep`](http://9gag.com/gag/aVbZw9n)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/aOx92VE)
+ - 🚯 [Stupid driver cuts turn and\u2026 yeah](http://9gag.com/gag/aEqWMq9)
+ - 🚯 [Breaking news &lpar;by Sputnik&rpar;](http://9gag.com/gag/ap9x3ob)<!-- MEMES:END -->
 
 --- 
 
