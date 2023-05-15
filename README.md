@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has a stranglehold on the TSMC 3nm chip supply in 2023](https://appleinsider.com/articles/23/05/15/apple-has-a-stranglehold-on-the-tsmc-3nm-chip-supply-in-2023?utm_medium=rss)
- - [12 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [4 Best Music Streaming Services &lpar;2023&rpar;: Spotify, Apple Music, and More Compared](https://www.wired.com/gallery/best-music-streaming-apps/)<!-- TECH:END -->
+ - [10 Best Portable Grills &lpar;2023&rpar;: Charcoal, Propane, Electric and More](https://www.wired.com/story/best-portable-grills/)
+ - [TCL aims to be the best bargain &lpar;again&rpar; as it launches its 2023 TV lineup](https://www.theverge.com/2023/5/15/23723813/tcl-q-s-class-4k-tvs-price-features)
+ - [Congress called Huawei a national security risk — it’s still in US networks](https://www.theverge.com/23721573/huawei-zte-rip-and-replace-china-telecom-carriers-fcc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
