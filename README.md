@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How mobile phones are smuggled into prison](http://9gag.com/gag/aPge3pG)
- - 🚯 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)
- - 🚯 [GTA girls.](http://9gag.com/gag/a3Z85Ev)<!-- MEMES:END -->
+ - 🚖 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
+ - 🚯 [How to write a poem with a ball...](http://9gag.com/gag/a8qeq6p)
+ - 🚯 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)<!-- MEMES:END -->
 
 --- 
 
