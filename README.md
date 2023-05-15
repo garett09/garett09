@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just the tip](http://9gag.com/gag/a6qB1Gq)
- - 🚯 [I saw her somewhere in my dreams](http://9gag.com/gag/a7q9wwA)
- - 🚯 [Netflix&#39;s Cleopatra is the gift that keeps on giving. Way to go Bassem that interview was priceless. Sauce in the comments.](http://9gag.com/gag/amAxvxX)<!-- MEMES:END -->
+ - 🚖 [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
+ - 🚯 [This weird bee just landed on my window](http://9gag.com/gag/anzxQgb)
+ - 🚯 [Little guy is learning a valuable lesson](http://9gag.com/gag/abvxvBb)<!-- MEMES:END -->
 
 --- 
 
