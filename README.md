@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW Classic is getting official &#39;hardcore&#39; mode servers](https://www.pcgamer.com/wow-classic-is-getting-official-hardcore-mode-servers)
- - [Zelda: Tears of the Kingdom players are using long bridges to solve all their problems](https://www.polygon.com/legend-zelda-tears-kingdom/23723279/totk-legend-of-zelda-tears-of-the-kingdom-bridge-totk)
- - [One of our favorite Stardew Valley-alikes has been delisted from Steam over a messy dispute between developer and publisher](https://www.pcgamer.com/one-of-our-favorite-stardew-valley-alikes-has-been-delisted-from-steam-over-a-messy-dispute-between-developer-and-publisher)<!-- GAME:END -->
+ - [Our Favorite Cosplay From WonderCon 2023](https://kotaku.com/cosplay-gallery-video-metroid-zelda-resident-evil-1850436465)
+ - [Fortnite is adding ranked play in case you need another way to find out you&#39;re not good enough](https://www.pcgamer.com/fortnite-is-adding-ranked-play-in-case-you-need-another-way-to-find-out-youre-not-good-enough)
+ - [Hey, Maybe Don&#39;t Harass Battlefield&#39;s Developers](https://kotaku.com/battlefield-2042-ea-dice-toxic-harassment-community-pc-1850436395)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
