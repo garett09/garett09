@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should you buy the Pixel 7a or wait for the Pixel 8?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8-3321554/)
- - [Microsoft will pay to capture carbon from burning wood](https://www.theverge.com/2023/5/15/23724418/microsoft-carbon-capture-burning-wood)
- - [Cloudflare debuts Cloudflare One for AI, a zero-trust security controls suite to help businesses use generative AI tools while protecting IP and customer data &lpar;Victor Dey/VentureBeat&rpar;](http://www.techmeme.com/230515/p25#a230515p25)<!-- TECH:END -->
+ - [Thread 1.3 update, Matter difficulties, and more smart home news](https://appleinsider.com/articles/23/05/15/thread-13-update-matter-difficulties-and-more-smart-home-news?utm_medium=rss)
+ - [WhatsApp introduces Chat Lock, which lets users put chats in a password- or biometrics-protected folder and hide chats&#39; contents and senders in notifications &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230515/p26#a230515p26)
+ - [Google Pixel Tablet vs Samsung Galaxy Tab S8: Polar opposites](https://www.androidauthority.com/google-pixel-tablet-vs-samsung-galaxy-tab-s8-3323907/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
