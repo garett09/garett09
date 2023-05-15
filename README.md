@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU regulators approve Microsoft&#39;s $69B Activision Blizzard deal after the company made concessions over giving rivals access to Call of Duty and other games &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/230515/p15#a230515p15)
- - [Microsoft’s Activision Blizzard acquisition approved by EU regulators](https://www.theverge.com/2023/5/15/23723703/microsoft-activision-blizzard-acquisition-approved-eu-european-commission)
- - [TCL Google TVs Promise Improved Picture, Smooth Gaming Starting at $500     - CNET](https://www.cnet.com/tech/home-entertainment/tcl-google-tvs-promise-improved-picture-smooth-gaming-starting-at-500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Another smartphone company exits the consumer industry](https://www.androidauthority.com/kyocera-consumer-phones-3324744/)
+ - [T-Mobile giving away MLB.TV subscriptions for second time this year](https://www.androidauthority.com/t-mobile-mlbtv-may-2023-3324761/)
+ - [Amazon is making a Lord of the Rings MMO &lpar;again&rpar;](https://www.theverge.com/23723787/amazon-lord-of-the-rings-mmo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
