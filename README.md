@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asians Explain How Different They Sound](http://9gag.com/gag/a2KD1QD)
- - 🚯 [Quick Fix](http://9gag.com/gag/aVbZgqv)
- - 🚯 [How to write a poem with a ball...](http://9gag.com/gag/a8qeq6p)<!-- MEMES:END -->
+ - 🚖 [Lol, no](http://9gag.com/gag/aEqWMoM)
+ - 🚯 [How to write a poem with a ball...](http://9gag.com/gag/a8qeq6p)
+ - 🚯 [A Good F**king](http://9gag.com/gag/aXn7L1g)<!-- MEMES:END -->
 
 --- 
 
