@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Delaware judge rules in favor of Oracle founder Larry Ellison in a shareholder lawsuit alleging the company overpaid for Netsuite&#39;s $9.3B acquisition in 2016 &lpar;Randall Chase/Associated Press&rpar;](http://www.techmeme.com/230515/p5#a230515p5)
- - [OnePlus 12 could get a much-wanted camera upgrade](https://www.androidauthority.com/oneplus-12-camera-3324613/)
- - [A profile of Douglas Rushkoff, an internet theorist since the 1990s and a former techno-optimist who all but renounced being a digital revolution spokesperson &lpar;Malcolm Harris/Wired&rpar;](http://www.techmeme.com/230515/p4#a230515p4)<!-- TECH:END -->
+ - [At I/O 2023, Google Assistant was an afterthought, superseded by Bard, a notable omission after Assistant took center stage at multiple previous I/O keynotes &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/230515/p7#a230515p7)
+ - [The Fanfic Sex Trope That Caught a Plundering AI Red-Handed](https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/)
+ - [OPPO wiped its German website amid EU exit rumors, here’s why](https://www.androidauthority.com/oppo-germany-website-deleted-3324632/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
