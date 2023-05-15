@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol, no](http://9gag.com/gag/aEqWMoM)
- - 🚯 [How to write a poem with a ball...](http://9gag.com/gag/a8qeq6p)
- - 🚯 [A Good F**king](http://9gag.com/gag/aXn7L1g)<!-- MEMES:END -->
+ - 🚖 [How to write a poem with a ball...](http://9gag.com/gag/a8qeq6p)
+ - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
+ - 🚯 [Lol](http://9gag.com/gag/aOx92VE)<!-- MEMES:END -->
 
 --- 
 
