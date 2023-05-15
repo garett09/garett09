@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Midjourney AI and how does it work?](https://www.androidauthority.com/what-is-midjourney-3324590/)
- - [Nearly half of online footwear, apparel, and accessories brands tracked by Coresight have expanded to physical stores due to rising digital advertising costs &lpar;Kate King/Wall Street Journal&rpar;](http://www.techmeme.com/230514/p8#a230514p8)
- - [Spotify problems and how to fix them](https://www.androidauthority.com/spotify-problems-fixes-3324575/)<!-- TECH:END -->
+ - [US-based sports merchandise retailer Fanatics agrees to acquire the US assets of Australia-based online sports betting company PointsBet for $150M in cash &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/230515/p2#a230515p2)
+ - [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
+ - [More Penguins Than Europeans Can Use Google Bard](https://www.wired.com/story/google-bard-european-union/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
