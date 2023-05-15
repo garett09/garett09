@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s summer sale knocks $100s off S23 phones, TVs, Bespoke appliances](https://appleinsider.com/articles/23/05/15/samsungs-summer-sale-knocks-100s-off-s23-phones-tvs-bespoke-appliances?utm_medium=rss)
- - [The Bear’s just trying to get it together in new season 2 trailer](https://www.theverge.com/2023/5/15/23724568/the-bear-season-2-trailer-fix-culinary-school)
- - [How to find your IMEI number on an Android phone](https://www.androidauthority.com/how-to-find-imei-on-android-3324841/)<!-- TECH:END -->
+ - [Should you buy the Pixel 7a or wait for the Pixel 8?](https://www.androidauthority.com/google-pixel-7a-vs-pixel-8-3321554/)
+ - [Microsoft will pay to capture carbon from burning wood](https://www.theverge.com/2023/5/15/23724418/microsoft-carbon-capture-burning-wood)
+ - [Cloudflare debuts Cloudflare One for AI, a zero-trust security controls suite to help businesses use generative AI tools while protecting IP and customer data &lpar;Victor Dey/VentureBeat&rpar;](http://www.techmeme.com/230515/p25#a230515p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
