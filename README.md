@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Awww...](http://9gag.com/gag/aoKxPyg)
- - 🚯 [Netflix&#39;s Cleopatra is the gift that keeps on giving. Way to go Bassem that interview was priceless. Sauce in the comments.](http://9gag.com/gag/amAxvxX)
- - 🚯 [`Are you a tyrant?`, `Yep`](http://9gag.com/gag/aVbZw9n)<!-- MEMES:END -->
+ - 🚖 [Giving false witness to the police](http://9gag.com/gag/anzxznB)
+ - 🚯 [Do not redeeeeem](http://9gag.com/gag/avQxz8X)
+ - 🚯 [Brutus is busy](http://9gag.com/gag/a6qBEON)<!-- MEMES:END -->
 
 --- 
 
