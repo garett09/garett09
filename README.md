@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Use feet not kees to jump](http://9gag.com/gag/amAxPAo)
- - 🚯 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)
- - 🚯 [Risk = Reward](http://9gag.com/gag/a7q9WZw)<!-- MEMES:END -->
+ - 🚖 [Shit that I wish to see before I die.](http://9gag.com/gag/a2KDWKe)
+ - 🚯 [I&#39;m okay, it&#39;s just a flesh wound](http://9gag.com/gag/aoKx5bX)
+ - 🚯 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)<!-- MEMES:END -->
 
 --- 
 
