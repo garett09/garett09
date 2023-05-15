@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to write a poem with a ball...](http://9gag.com/gag/a8qeq6p)
- - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
- - 🚯 [Lol](http://9gag.com/gag/aOx92VE)<!-- MEMES:END -->
+ - 🚖 [This weird bee just landed on my window](http://9gag.com/gag/anzxQgb)
+ - 🚯 [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
+ - 🚯 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)<!-- MEMES:END -->
 
 --- 
 
