@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This weird bee just landed on my window](http://9gag.com/gag/anzxQgb)
- - 🚯 [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
- - 🚯 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)<!-- MEMES:END -->
+ - 🚖 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)
+ - 🚯 [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)
+ - 🚯 [`Are you a tyrant?`, `Yep`](http://9gag.com/gag/aVbZw9n)<!-- MEMES:END -->
 
 --- 
 
