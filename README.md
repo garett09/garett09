@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sinakawak Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23706499/sinakawak-shrine-solution-puzzle-chest)
- - [‘A Trip Through History’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724100/a-trip-through-history-quest-walkthrough-stone-slab-location-ring-ruin-kakariko-village)
- - [How to use star fragments in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722672/star-fragments-how-to-use)<!-- GAME:END -->
+ - [How to make the ‘Gloom-borne Illness’ porridge in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723095/gloom-borne-illness-wild-greens-porridge-hylian-rice-fresh-milk)
+ - [The current NBA 2K game always gets a huge Steam discount in May, and this year is no exception](https://www.pcgamer.com/nba-2k23-steam-discount-may)
+ - [How to get to Kakariko Village in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724588/kakariko-village-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
