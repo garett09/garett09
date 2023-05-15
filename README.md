@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Giving false witness to the police](http://9gag.com/gag/anzxznB)
- - 🚯 [Do not redeeeeem](http://9gag.com/gag/avQxz8X)
- - 🚯 [Brutus is busy](http://9gag.com/gag/a6qBEON)<!-- MEMES:END -->
+ - 🚖 [Why some people can&#39;t have nice things](http://9gag.com/gag/avQx5n5)
+ - 🚯 [Wholesome Neighbour \u2764\ufe0f](http://9gag.com/gag/aVbZ7DP)
+ - 🚯 [Regie knows the routine lol](http://9gag.com/gag/ajVxg5R)<!-- MEMES:END -->
 
 --- 
 
