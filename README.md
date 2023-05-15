@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get to Rito Village in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724463/rito-village-location-totk-broken-bridge-path)
- - [How to use the Zonai wing in Zelda: Tears of the Kingdom like a pro](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724378/totk-legend-of-zelda-tears-of-the-kingdom-how-to-use-zonai-wing-using-wings)
- - [How to tame a horse and use it to pull a wagon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724004/tame-horse-towing-harness-wagon)<!-- GAME:END -->
+ - [Sinakawak Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23706499/sinakawak-shrine-solution-puzzle-chest)
+ - [‘A Trip Through History’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724100/a-trip-through-history-quest-walkthrough-stone-slab-location-ring-ruin-kakariko-village)
+ - [How to use star fragments in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722672/star-fragments-how-to-use)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
