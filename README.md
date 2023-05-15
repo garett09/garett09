@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Founders of Indian BNPL startup ZestMoney, which raised $130M+ to date, resign amid fundraising struggles, after a deal to be acquired by PhonePe fell through &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230515/p22#a230515p22)
- - [In new trailer for Peacock’s Based on a True Story, murder’s just podcast content](https://www.theverge.com/2023/5/15/23724398/peacock-based-on-a-true-story-trailer-premiere)
- - [Amazon is building an AI-powered ‘conversational experience’ for search](https://www.theverge.com/2023/5/15/23724357/amazon-ai-powered-conversational-experience-search)<!-- TECH:END -->
+ - [Samsung&#39;s summer sale knocks $100s off S23 phones, TVs, Bespoke appliances](https://appleinsider.com/articles/23/05/15/samsungs-summer-sale-knocks-100s-off-s23-phones-tvs-bespoke-appliances?utm_medium=rss)
+ - [The Bear’s just trying to get it together in new season 2 trailer](https://www.theverge.com/2023/5/15/23724568/the-bear-season-2-trailer-fix-culinary-school)
+ - [How to find your IMEI number on an Android phone](https://www.androidauthority.com/how-to-find-imei-on-android-3324841/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
