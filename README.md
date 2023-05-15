@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m okay, it&#39;s just a flesh wound](http://9gag.com/gag/aoKx5bX)
- - 🚯 [Survives a staggering 30 seconds in 9Gs of force.](http://9gag.com/gag/aGEGgb0)
- - 🚯 [Well deserved](http://9gag.com/gag/aQEmRNd)<!-- MEMES:END -->
+ - 🚖 [Use feet not kees to jump](http://9gag.com/gag/amAxPAo)
+ - 🚯 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)
+ - 🚯 [Risk = Reward](http://9gag.com/gag/a7q9WZw)<!-- MEMES:END -->
 
 --- 
 
