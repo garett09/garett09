@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Douglas Rushkoff, an internet theorist since the 1990s and a former techno-optimist who all but renounced being a digital revolution spokesperson &lpar;Malcolm Harris/Wired&rpar;](http://www.techmeme.com/230515/p4#a230515p4)
- - [HTC is reviving a high end phone series later this week](https://www.androidauthority.com/htc-u23-pro-launch-date-3321431/)
- - [Google agrees to pay up millions again for deceptive Pixel 4 ads](https://www.androidauthority.com/google-pixel-4-deceptive-ads-lawsuit-3324603/)<!-- TECH:END -->
+ - [A Delaware judge rules in favor of Oracle founder Larry Ellison in a shareholder lawsuit alleging the company overpaid for Netsuite&#39;s $9.3B acquisition in 2016 &lpar;Randall Chase/Associated Press&rpar;](http://www.techmeme.com/230515/p5#a230515p5)
+ - [OnePlus 12 could get a much-wanted camera upgrade](https://www.androidauthority.com/oneplus-12-camera-3324613/)
+ - [A profile of Douglas Rushkoff, an internet theorist since the 1990s and a former techno-optimist who all but renounced being a digital revolution spokesperson &lpar;Malcolm Harris/Wired&rpar;](http://www.techmeme.com/230515/p4#a230515p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
