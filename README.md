@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Warhammmer 40K fans keep arguing about the Emperor’s terrible sons](https://www.polygon.com/23721697/warhammer-40k-primarchs-space-marines-fan-discussions-horus-heresy)
- - [The Counter-Strike moment so good even Valve said &#39;put this play in the Louvre&#39;, which someone then literally did](https://www.pcgamer.com/the-counter-strike-clutch-play-so-good-even-valve-said-put-it-in-the-louvre-which-someone-then-literally-did)
- - [I have serious regrets about wasting my weekend fighting the Diablo 4 beta&#39;s awful world boss](https://www.pcgamer.com/i-have-serious-regrets-about-wasting-my-weekend-fighting-the-diablo-4-betas-awful-world-boss)<!-- GAME:END -->
+ - [The best Blu-rays and 4K UHD releases of 2023](https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy)
+ - [This ‘90s Pokémon Ad Was Nightmare Fuel](https://kotaku.com/pokemon-red-blue-bus-driver-ad-90s-game-boy-commercial-1850429890)
+ - [Five years later, a new Hawken is coming to PC](https://www.pcgamer.com/five-years-later-a-new-hawken-is-coming-to-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
