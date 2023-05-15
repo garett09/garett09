@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Blu-rays and 4K UHD releases of 2023](https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy)
- - [This ‘90s Pokémon Ad Was Nightmare Fuel](https://kotaku.com/pokemon-red-blue-bus-driver-ad-90s-game-boy-commercial-1850429890)
- - [Five years later, a new Hawken is coming to PC](https://www.pcgamer.com/five-years-later-a-new-hawken-is-coming-to-pc)<!-- GAME:END -->
+ - [D&amp;D streaming TV channel in the works, will include classic cartoons and actual play](https://www.polygon.com/23723936/dnd-dungeons-dragons-streaming-tv-channel)
+ - [Zelda: Tears Of The Kingdom’s Paraglider Is Easy To Miss, Here’s How To Get It](https://kotaku.com/zelda-tears-of-the-kingdom-how-to-paraglider-location-1850437399)
+ - [David Tennant, Catherine Tate reunite in new Doctor Who special trailer](https://www.polygon.com/23723873/david-tennant-catherine-tate-doctor-who-60th-anniversary-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
