@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/aOx92VE)
- - 🚯 [Stupid driver cuts turn and\u2026 yeah](http://9gag.com/gag/aEqWMq9)
- - 🚯 [Breaking news &lpar;by Sputnik&rpar;](http://9gag.com/gag/ap9x3ob)<!-- MEMES:END -->
+ - 🚖 [How mobile phones are smuggled into prison](http://9gag.com/gag/aPge3pG)
+ - 🚯 [One direction without autotune or music](http://9gag.com/gag/aeQxQ6v)
+ - 🚯 [GTA girls.](http://9gag.com/gag/a3Z85Ev)<!-- MEMES:END -->
 
 --- 
 
