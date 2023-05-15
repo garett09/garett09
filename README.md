@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Are you a tyrant?`, `Yep`](http://9gag.com/gag/aVbZw9n)
- - 🚯 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)
- - 🚯 [Awww...](http://9gag.com/gag/aoKxPyg)<!-- MEMES:END -->
+ - 🚖 [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)
+ - 🚯 [This weird bee just landed on my window](http://9gag.com/gag/anzxQgb)
+ - 🚯 [`Are you a tyrant?`, `Yep`](http://9gag.com/gag/aVbZw9n)<!-- MEMES:END -->
 
 --- 
 
