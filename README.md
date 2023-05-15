@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [U r welcome](http://9gag.com/gag/a5XzWbg)
- - 🚯 [Absolutely brilliant](http://9gag.com/gag/a4oAR8p)
- - 🚯 [The legend](http://9gag.com/gag/aBdE2nQ)<!-- MEMES:END -->
+ - 🚖 [Awww...](http://9gag.com/gag/aoKxPyg)
+ - 🚯 [Netflix&#39;s Cleopatra is the gift that keeps on giving. Way to go Bassem that interview was priceless. Sauce in the comments.](http://9gag.com/gag/amAxvxX)
+ - 🚯 [`Are you a tyrant?`, `Yep`](http://9gag.com/gag/aVbZw9n)<!-- MEMES:END -->
 
 --- 
 
