@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brently can run up the stairs without running out of breath](http://9gag.com/gag/a3Z81W3)
+ - 🚖 [U r welcome](http://9gag.com/gag/a5XzWbg)
  - 🚯 [Absolutely brilliant](http://9gag.com/gag/a4oAR8p)
  - 🚯 [The legend](http://9gag.com/gag/aBdE2nQ)<!-- MEMES:END -->
 
