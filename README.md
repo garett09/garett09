@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Smart, which helps employers and employees manage their pensions, raised a $95M Series E led by Aquiline; reports said Smart sought to raise $123M &lpar;TechCrunch&rpar;](http://www.techmeme.com/230515/p12#a230515p12)
- - [There&#39;s a way to get a free flatscreen TV -- but with a catch](https://appleinsider.com/articles/23/05/15/theres-a-way-to-get-a-free-flatscreen-tv----but-with-a-catch?utm_medium=rss)
- - [Pluto TV co-founder Ilya Pozin&#39;s Telly opens a waitlist to give away 500,000 55-inch 4K HDR TVs in 2023 with a second screen that constantly shows ads &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/230515/p11#a230515p11)<!-- TECH:END -->
+ - [Apple has a stranglehold on the TSMC 3nm chip supply in 2023](https://appleinsider.com/articles/23/05/15/apple-has-a-stranglehold-on-the-tsmc-3nm-chip-supply-in-2023?utm_medium=rss)
+ - [12 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
+ - [4 Best Music Streaming Services &lpar;2023&rpar;: Spotify, Apple Music, and More Compared](https://www.wired.com/gallery/best-music-streaming-apps/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
