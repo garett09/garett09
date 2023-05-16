@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US announces charges, sanctions, and a $10M reward for info leading to the arrest of Russian national Mikhail Matveev, a Babuk ransomware gang operative &lpar;Spencer S. Hsu/Washington Post&rpar;](http://www.techmeme.com/230516/p23#a230516p23)
- - [Apple adds new concert-finding features to Maps and Music](https://www.theverge.com/2023/5/16/23725530/apple-concert-discovery-maps-music)
- - [Third ex-Apple engineer charged over Apple Car technology theft](https://appleinsider.com/articles/23/05/16/third-ex-apple-engineer-charged-over-apple-car-technology-theft?utm_medium=rss)<!-- TECH:END -->
+ - [The Amazon executive in charge of Astro robot is leaving the company](https://www.theverge.com/2023/5/16/23725539/amazon-astro-vp-robotics-ken-washington-leaving)
+ - [iPhone 15 display panel supply chain is on schedule for June production](https://appleinsider.com/articles/23/05/16/iphone-15-display-panel-supply-chain-is-on-schedule-for-june-production?utm_medium=rss)
+ - [Apple blocked over $2 billion in fraudulent transactions &amp; 1.7 million bogus apps in 2022](https://appleinsider.com/articles/23/05/16/apple-blocked-over-2-billion-in-fraudulent-transactions-17-million-bogus-apps-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
