@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
- - 🚯 [How to write a poem with a ball...](http://9gag.com/gag/a8qeq6p)
- - 🚯 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)<!-- MEMES:END -->
+ - 🚖 [Based.](http://9gag.com/gag/aOx9xvv)
+ - 🚯 [Always check when you think you heard something !](http://9gag.com/gag/aDYbYzw)
+ - 🚯 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)<!-- MEMES:END -->
 
 --- 
 
