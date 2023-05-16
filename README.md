@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She\u2019s very protective](http://9gag.com/gag/aXn7NVb)
- - 🚯 [Quick and easy sheep and lamb sorting](http://9gag.com/gag/aOx94W6)
- - 🚯 [Based.](http://9gag.com/gag/aOx9xvv)<!-- MEMES:END -->
+ - 🚖 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)
+ - 🚯 [Little guy is learning a valuable lesson](http://9gag.com/gag/abvxvBb)
+ - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
 
 --- 
 
