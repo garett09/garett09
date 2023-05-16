@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Incredible Tears of the Kingdom hat gives Link a pink bob and dark lipstick](https://www.polygon.com/legend-zelda-tears-kingdom/23725926/tears-of-the-kingdom-totk-best-hat-outfit-cece-mushroom-hat-how-to-get-slay)
- - [ChatGPT boss calls for a new government agency to keep AI companies in check](https://www.pcgamer.com/chatgpt-boss-calls-for-a-new-government-agency-to-keep-ai-companies-in-check)
- - [Blizzard is scrapping Overwatch 2 co-op missions and hero progression: &#39;It&#39;s clear that we can&#39;t deliver on the original vision for PvE&#39;](https://www.pcgamer.com/blizzard-is-scrapping-overwatch-2-co-op-missions-and-hero-progression-its-clear-that-we-cant-deliver-on-the-original-vision-for-pve)<!-- GAME:END -->
+ - [Inside the creative minds of Humanity developers Yugo Nakamura and Tetsuya Mizuguchi](https://blog.playstation.com/2023/05/16/inside-the-creative-minds-of-humanity-developers-yugo-nakamura-and-tetsuya-mizuguchi/)
+ - [Steam is ditching a Google tool that Valve says &#39;doesn&#39;t align&#39; with its customer privacy approach](https://www.pcgamer.com/steam-valve-google-analytics)
+ - [Where to find the Glide Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724903/glide-armor-set-locations-head-chest-legs-fall-damage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
