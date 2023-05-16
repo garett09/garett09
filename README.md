@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
- - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
- - [Report: Here’s when and where Samsung’s new foldables will launch](https://www.androidauthority.com/samsung-unpacked-foldables-2023-3325070/)<!-- TECH:END -->
+ - [Baidu reports Q1 revenue up 10% YoY to ~$4.5B and ~$834M net income, both above analyst estimates, driven by its ad and cloud businesses &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230516/p8#a230516p8)
+ - [This Is Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/)
+ - [The Plastic Crisis Finally Gets Emergency Status](https://www.wired.com/story/plastic-pollution-emergency-united-nations/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
