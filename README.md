@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Haunted Mansion trailer teams LaKeith Stanfield with hot priest Owen Wilson](https://www.polygon.com/23725398/haunted-mansion-disney-trailer-release-date-owen-wilson)
- - [When will the Mario movie come to Netflix and streaming?](https://www.polygon.com/23671689/mario-movie-streaming-netflix-peacock-date)
- - [Lego has created a classy Batman Returns set, in a targeted attack on me personally](https://www.polygon.com/23725377/lego-batman-batcave-shadow-box-set-release-date-price)<!-- GAME:END -->
+ - [Diablo IV’s Necro To Get More Tweaks After Bad Nerf, Blizz Says](https://kotaku.com/diablo-4-server-slam-beta-necromancer-skeleton-buff-1850441297)
+ - [Try Zelda: Tears of the Kingdom Without The Mini-Map, It Makes The Game Better](https://kotaku.com/zelda-tears-of-the-kingdom-mini-map-off-hyrule-pro-hud-1850441379)
+ - [Tsutsu-um Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707182/tsutsu-um-shrine-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
