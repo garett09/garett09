@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwhelmed in Zelda: Tears of the Kingdom? Breath of the Wild can help](https://www.polygon.com/legend-zelda-tears-kingdom/23724726/tears-of-the-kingdom-breath-of-the-wild-comparison-physics-puzzles-tools)
- - [Everybody Thank This Zelda: Tears Of The Kingdom Designer For Making Ganon Hot](https://kotaku.com/zelda-tears-of-the-kingdom-ganon-hot-design-switch-1850441588)
- - [Domizuin Shrine ‘A Prone Pathway’ solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724576/domizuin-shrine-a-prone-pathway-solution-puzzle-chest)<!-- GAME:END -->
+ - [How to get the Fierce Deity Armor and Sword in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725340/fierce-deity-armor-sword-locations-head-chest-legs)
+ - [Tin Hearts Marches Onto Xbox Series X|S and Xbox One Today](https://news.xbox.com/en-us/2023/05/16/tin-hearts-out-now-on-xbox/)
+ - [Borderlands 3 Fans Vent Over Old Xbox Issue That Won’t Go Away](https://kotaku.com/borderlands-3-xbox-series-s-vram-memory-leak-reddit-1850441766)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
