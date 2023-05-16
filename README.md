@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quick and easy sheep and lamb sorting](http://9gag.com/gag/aOx94W6)
- - 🚯 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)
- - 🚯 [So the meme is real](http://9gag.com/gag/a3Z8GQQ)<!-- MEMES:END -->
+ - 🚖 [Random information](http://9gag.com/gag/adPxvQZ)
+ - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
+ - 🚯 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)<!-- MEMES:END -->
 
 --- 
 
