@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HUAWEI FreeBuds 5 review: Bold and comfortable open-fit earbuds](https://www.androidauthority.com/huawei-freebuds-5-review-3315183/)
- - [SteelSeries’ new Nova 4 wireless headset provides battery life on a budget](https://www.theverge.com/2023/5/16/23725308/steelseries-arctis-nova-4-wireless-headset-price-date)
- - [Plugged in and logged on: a history of the internet on film and TV](https://www.theverge.com/23723855/internet-film-tv-cables-xfiles-hackers-halt-catch-fire)<!-- TECH:END -->
+ - [Google’s Pixel 6A is $100 off](https://www.theverge.com/2023/5/16/23723954/google-pixel-6a-ember-smart-mug-apple-watch-ultra-deal-sale)
+ - [Samsung is upgrading Ambient Sound on the Galaxy Buds 2 Pro](https://www.androidauthority.com/galaxy-buds-2-pro-3325216/)
+ - [Zoom will soon integrate Anthropic’s chatbot across its platform](https://www.theverge.com/2023/5/16/23725342/zoom-anthropic-ai-powered-chatbot-claude)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
