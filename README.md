@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little guy is learning a valuable lesson](http://9gag.com/gag/abvxvBb)
- - 🚯 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
- - 🚯 [Hard to digest](http://9gag.com/gag/aoKx32X)<!-- MEMES:END -->
+ - 🚖 [Always check when you think you heard something !](http://9gag.com/gag/aDYbYzw)
+ - 🚯 [\u201cIt\u2019s a peaceful life.\u201d More info in comments](http://9gag.com/gag/aPgeP7q)
+ - 🚯 [&lpar; &rpar;&lpar; &rpar;](http://9gag.com/gag/amAxWN6)<!-- MEMES:END -->
 
 --- 
 
