@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu reports Q1 revenue up 10% YoY to ~$4.5B and ~$834M net income, both above analyst estimates, driven by its ad and cloud businesses &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230516/p8#a230516p8)
- - [This Is Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/)
- - [The Plastic Crisis Finally Gets Emergency Status](https://www.wired.com/story/plastic-pollution-emergency-united-nations/)<!-- TECH:END -->
+ - [Autonomous Worlds Aim to Free Online Games From Corporate Control](https://www.wired.com/story/autonomous-worlds-aim-to-free-online-games-from-corporate-control/)
+ - [The Pandemic Isn&#39;t Over. Here&#39;s How to Stay Safe](https://www.wired.com/story/covid-19-isnt-over-how-to-stay-safe/)
+ - [iPhone 15 Pro Max rumored to be only model that gets new periscope lens tech](https://appleinsider.com/articles/23/05/16/iphone-15-pro-max-rumored-to-be-only-model-that-gets-new-periscope-lens-tech?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
