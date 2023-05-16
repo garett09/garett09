@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cult Mech Game Hawken Is Coming Back From The Dead](https://kotaku.com/hawken-mech-pve-pc-steam-early-access-titanfall-ea-1850439675)
- - [NFT Cockfighting Game Binned, Is Everything Wrong With Silicon Valley](https://kotaku.com/nft-crypto-sec-silicon-valley-video-game-crash-scam-1850439861)
- - [These Anime Moms Deserve All The Flowers For Mother&#39;s Day](https://kotaku.com/anime-mothers-day-my-hero-academia-spy-x-family-erased-1850439565)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #696: Tuesday, May 16](https://www.pcgamer.com/wordle-today-hint-answer-696-may-16)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/05/15/this-weeks-deals-with-gold-and-spotlight-sale-274/)
+ - [Cult Mech Game Hawken Is Coming Back From The Dead](https://kotaku.com/hawken-mech-pve-pc-steam-early-access-titanfall-ea-1850439675)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
