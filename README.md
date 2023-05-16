@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV’s Necro To Get More Tweaks After Bad Nerf, Blizz Says](https://kotaku.com/diablo-4-server-slam-beta-necromancer-skeleton-buff-1850441297)
- - [Try Zelda: Tears of the Kingdom Without The Mini-Map, It Makes The Game Better](https://kotaku.com/zelda-tears-of-the-kingdom-mini-map-off-hyrule-pro-hud-1850441379)
- - [Tsutsu-um Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707182/tsutsu-um-shrine-solution-puzzle-chest)<!-- GAME:END -->
+ - [Overwhelmed in Zelda: Tears of the Kingdom? Breath of the Wild can help](https://www.polygon.com/legend-zelda-tears-kingdom/23724726/tears-of-the-kingdom-breath-of-the-wild-comparison-physics-puzzles-tools)
+ - [Everybody Thank This Zelda: Tears Of The Kingdom Designer For Making Ganon Hot](https://kotaku.com/zelda-tears-of-the-kingdom-ganon-hot-design-switch-1850441588)
+ - [Domizuin Shrine ‘A Prone Pathway’ solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724576/domizuin-shrine-a-prone-pathway-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
