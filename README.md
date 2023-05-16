@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The real legendary men in our time](http://9gag.com/gag/ay21W58)
- - 🚯 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)
- - 🚯 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)<!-- MEMES:END -->
+ - 🚖 [A strange-looking Lukashenko appeared in public to deny rumors that he had been poisoned during his visit to Moscow.](http://9gag.com/gag/aVbZoEM)
+ - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
+ - 🚯 [&lpar; &rpar;&lpar; &rpar;](http://9gag.com/gag/amAxWN6)<!-- MEMES:END -->
 
 --- 
 
