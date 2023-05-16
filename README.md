@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s Robin Hood is still a life-changing furry phenomenon](https://www.polygon.com/century-of-disney/23724307/robin-hood-disney-favorite-furry-movie-feature)
- - [Assassin’s Creed NFTs Are Coming And Oh God Why](https://kotaku.com/assassins-creed-mirage-ubisoft-nft-scam-quartz-1850440860)
- - [Netflix’s Extraction 2 trailer looks even more explosive than the original](https://www.polygon.com/23724666/extraction-2-trailer-netflix-release-date-chris-hemsworth)<!-- GAME:END -->
+ - [The Haunted Mansion trailer teams LaKeith Stanfield with hot priest Owen Wilson](https://www.polygon.com/23725398/haunted-mansion-disney-trailer-release-date-owen-wilson)
+ - [When will the Mario movie come to Netflix and streaming?](https://www.polygon.com/23671689/mario-movie-streaming-netflix-peacock-date)
+ - [Lego has created a classy Batman Returns set, in a targeted attack on me personally](https://www.polygon.com/23725377/lego-batman-batcave-shadow-box-set-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
