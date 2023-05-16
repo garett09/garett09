@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always check when you think you heard something !](http://9gag.com/gag/aDYbYzw)
- - 🚯 [\u201cIt\u2019s a peaceful life.\u201d More info in comments](http://9gag.com/gag/aPgeP7q)
- - 🚯 [&lpar; &rpar;&lpar; &rpar;](http://9gag.com/gag/amAxWN6)<!-- MEMES:END -->
+ - 🚖 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)
+ - 🚯 [On May 11, 2023, I was walking with my dog Ferris and found two beached whales, a mom and calf, both still alive. I spent more than an hour with them, keeping mom wet, encouraged, and present. In a statistical miracle they made it out to the ocean and I got to touch a live whale!](http://9gag.com/gag/aL1Aex6)
+ - 🚯 [Solid burn](http://9gag.com/gag/armx3Ld)<!-- MEMES:END -->
 
 --- 
 
