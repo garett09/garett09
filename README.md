@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethernovia, which builds automotive ethernet chips and software, raised a $64M Series A from Porsche Automobil Holding, Qualcomm Ventures, and others &lpar;Jane Lee/Reuters&rpar;](http://www.techmeme.com/230515/p28#a230515p28)
- - [Pharmacy services provider PharMerica says hackers breached its system and stole names, SSNs, and health data of 5.8 million patients on March 12, 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230515/p27#a230515p27)
- - [The NFL will make one playoff game a streaming exclusive on Peacock next year](https://www.theverge.com/2023/5/15/23724857/nfl-nbcu-peacock-exclusive-playoff-game)<!-- TECH:END -->
+ - [xrOS has been trademarked in New Zealand ahead of potential WWDC reveal](https://appleinsider.com/articles/23/05/16/xros-has-been-trademarked-in-new-zealand-ahead-of-potential-wwdc-reveal?utm_medium=rss)
+ - [Q1 2023 filings: Berkshire Hathaway sold its TSMC shares after cutting its position by 86% in Q4 2022, while Tiger Global and Coatue added to their TSMC stakes &lpar;Bloomberg&rpar;](http://www.techmeme.com/230515/p29#a230515p29)
+ - [How to verify your external bank account for Apple Savings transfers](https://appleinsider.com/articles/23/05/16/how-to-verify-your-external-bank-account-for-apple-savings-transfers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
