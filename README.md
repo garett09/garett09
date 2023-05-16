@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Here’s when and where Samsung’s new foldables will launch](https://www.androidauthority.com/samsung-unpacked-foldables-2023-3325070/)
- - [An interview with Kevin Systrom on Artifact&#39;s new writer features, serving writers as a key to the news app&#39;s growth, matching consumers with writers, and more &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230516/p6#a230516p6)
- - [Samsung Galaxy Unpacked part 2: Here are the latest rumors &lpar;Updated: May 16&rpar;](https://www.androidauthority.com/samsung-galaxy-unpacked-2023-part-2-3316864/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [Samsung Galaxy Z Fold 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-rumors-specs-price-leaks-3266896/)
+ - [Report: Here’s when and where Samsung’s new foldables will launch](https://www.androidauthority.com/samsung-unpacked-foldables-2023-3325070/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
