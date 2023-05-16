@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A strange-looking Lukashenko appeared in public to deny rumors that he had been poisoned during his visit to Moscow.](http://9gag.com/gag/aVbZoEM)
- - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
- - 🚯 [&lpar; &rpar;&lpar; &rpar;](http://9gag.com/gag/amAxWN6)<!-- MEMES:END -->
+ - 🚖 [Updated it](http://9gag.com/gag/az2OGEN)
+ - 🚯 [-How much anxiety do you want? -Yes](http://9gag.com/gag/aVbZKy8)
+ - 🚯 [And here we have the complete 9gag comment section](http://9gag.com/gag/ay21WdV)<!-- MEMES:END -->
 
 --- 
 
