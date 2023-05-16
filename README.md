@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Bellsprout be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23698044/can-bellsprout-be-shiny-weepinbell-victreebell)
- - [Nvidia is set to retire the venerable RTX 3060 Ti](https://www.pcgamer.com/nvidia-is-set-to-retire-the-venerable-rtx-3060-ti)
- - [Fully unlocked RX 7900 XTX very nearly matches RTX 4090 performance](https://www.pcgamer.com/fully-unlocked-rx-7900-xtx-very-nearly-matches-rtx-4090-performance)<!-- GAME:END -->
+ - [You can grab 500 hours of Mass Effect and Dragon Age for 20 bucks right now](https://www.pcgamer.com/you-can-grab-500-hours-of-mass-effect-and-dragon-age-for-20-bucks-right-now)
+ - [‘Guidance of Ages Past’ walkthrough for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723155/guidance-of-ages-past-spirit-temple-seized-construct-boss-right-leg-arm-leg-puzzle-solutions)
+ - [‘Find the Fifth Sage’ walkthrough, what to do at the Ring Ruins in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23719768/find-the-fifth-sage-location-secret-of-the-ring-ruins-thunderhead-isles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
