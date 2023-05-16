@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces a suite of features to improve cognitive, vision, and speech accessibility on iOS and iPadOS, rolling out later in 2023 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230516/p13#a230516p13)
- - [Skullcandy&#39;s newest Crusher ANC 2 delivers a unique audio experience](https://appleinsider.com/articles/23/05/16/skullcandys-newest-crusher-anc-2-delivers-a-unique-audio-experience?utm_medium=rss)
- - [Customer satisfaction survey says Samsung is great — but Apple is better](https://www.androidauthority.com/acsi-2022-results-3324851/)<!-- TECH:END -->
+ - [iOS 17 is getting some giant new accessibility features](https://appleinsider.com/articles/23/05/16/ios-17-is-getting-some-giant-new-accessibility-features?utm_medium=rss)
+ - [Why Tesla can get by without CarPlay but other car makers can&#39;t](https://appleinsider.com/articles/23/05/16/why-tesla-can-get-by-without-carplay-but-other-car-makers-cant?utm_medium=rss)
+ - [Discord users are scouring servers to find any remaining US military documents from the recent leak, after prosecutors suggested more might still be online &lpar;Jessica Donati/Wall Street Journal&rpar;](http://www.techmeme.com/230516/p15#a230516p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
