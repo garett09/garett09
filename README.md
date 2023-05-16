@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM says it has acquired cloud data protection company Polar Security, a source says for around $60M, and plans to integrate Polar into its Guardium unit &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230516/p33#a230516p33)
- - [Google Pixel Buds Pro vs Apple AirPods Pro 2: Which should you buy?](https://www.androidauthority.com/google-pixel-buds-pro-vs-apple-airpods-pro-2-3318921/)
- - [Tesla Bot can walk very slowly and pick up stuff now](https://www.theverge.com/2023/5/16/23726139/tesla-robot-update-video-shareholder-meeting)<!-- TECH:END -->
+ - [Researchers bought phones from PropertyRoom.com, a top auction house for US police departments, and found many of them were not wiped and had no PIN or passcode &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/230516/p34#a230516p34)
+ - [The first four Indiana Jones movies are coming to Disney Plus on May 31st](https://www.theverge.com/23726270/indiana-jones-disney-plus-streaming-rights-paramount)
+ - [Ring founder to become CEO of commercial smart home company Latch](https://www.theverge.com/2023/5/16/23725963/jamie-siminoff-ring-amazon-latch-ceo-smart-home)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
