@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Regie knows the routine lol](http://9gag.com/gag/ajVxg5R)
- - 🚯 [Based.](http://9gag.com/gag/aOx9xvv)
+ - 🚖 [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)
+ - 🚯 [He was just hungry.](http://9gag.com/gag/armxMYX)
  - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
 
 --- 
