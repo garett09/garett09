@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
- - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
- - 🚯 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
+ - 🚖 [Broke the opponent mentally at the beginning of the fight](http://9gag.com/gag/aMEzmm6)
+ - 🚯 [On May 11, 2023, I was walking with my dog Ferris and found two beached whales, a mom and calf, both still alive. I spent more than an hour with them, keeping mom wet, encouraged, and present. In a statistical miracle they made it out to the ocean and I got to touch a live whale!](http://9gag.com/gag/aL1Aex6)
+ - 🚯 [What a brave man](http://9gag.com/gag/aXn7VG2)<!-- MEMES:END -->
 
 --- 
 
