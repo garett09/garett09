@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Xbox Game Pass: FIFA 23, Planet of Lana, Railway Empire 2, and More](https://news.xbox.com/en-us/2023/05/16/game-pass-may-2023-wave-2-announce/)
- - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
- - [The Super Mario Bros. Movie is finally available digitally](https://www.polygon.com/deals/2023/5/15/23724553/super-mario-bros-movie-rent-buy-digital-amazon-apple)<!-- GAME:END -->
+ - [Disney’s Robin Hood is still a life-changing furry phenomenon](https://www.polygon.com/century-of-disney/23724307/robin-hood-disney-favorite-furry-movie-feature)
+ - [Assassin’s Creed NFTs Are Coming And Oh God Why](https://kotaku.com/assassins-creed-mirage-ubisoft-nft-scam-quartz-1850440860)
+ - [Netflix’s Extraction 2 trailer looks even more explosive than the original](https://www.polygon.com/23724666/extraction-2-trailer-netflix-release-date-chris-hemsworth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
