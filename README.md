@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thread 1.3 update, Matter difficulties, and more smart home news](https://appleinsider.com/articles/23/05/15/thread-13-update-matter-difficulties-and-more-smart-home-news?utm_medium=rss)
- - [WhatsApp introduces Chat Lock, which lets users put chats in a password- or biometrics-protected folder and hide chats&#39; contents and senders in notifications &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230515/p26#a230515p26)
- - [Google Pixel Tablet vs Samsung Galaxy Tab S8: Polar opposites](https://www.androidauthority.com/google-pixel-tablet-vs-samsung-galaxy-tab-s8-3323907/)<!-- TECH:END -->
+ - [Pharmacy services provider PharMerica says hackers breached its system and stole names, SSNs, and health data of 5.8 million patients on March 12, 2023 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230515/p27#a230515p27)
+ - [The NFL will make one playoff game a streaming exclusive on Peacock next year](https://www.theverge.com/2023/5/15/23724857/nfl-nbcu-peacock-exclusive-playoff-game)
+ - [A small cable company is going all-in on YouTube TV for video](https://www.theverge.com/2023/5/15/23724443/wide-open-west-cable-youtube-tv)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
