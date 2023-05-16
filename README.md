@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Fierce Deity Armor and Sword in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725340/fierce-deity-armor-sword-locations-head-chest-legs)
- - [Tin Hearts Marches Onto Xbox Series X|S and Xbox One Today](https://news.xbox.com/en-us/2023/05/16/tin-hearts-out-now-on-xbox/)
- - [Borderlands 3 Fans Vent Over Old Xbox Issue That Won’t Go Away](https://kotaku.com/borderlands-3-xbox-series-s-vram-memory-leak-reddit-1850441766)<!-- GAME:END -->
+ - [NFT cockfighting game canned, but will buy back your cocks](https://www.pcgamer.com/nft-cockfighting-game-canned-but-will-buy-back-your-cocks)
+ - [Smash Bros. Pro Trash Talks 15-Year-Old, Gets Roasted By Kid&#39;s Mom](https://kotaku.com/smash-bros-ultimate-mom-trash-talks-syrup-maister-pro-1850442280)
+ - [Surprise, Skull and Bones won&#39;t actually be out &#39;early&#39; this year after all](https://www.pcgamer.com/surprise-skull-and-bones-wont-actually-be-out-early-this-year-after-all)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
