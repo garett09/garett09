@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Updated it](http://9gag.com/gag/az2OGEN)
- - 🚯 [-How much anxiety do you want? -Yes](http://9gag.com/gag/aVbZKy8)
- - 🚯 [And here we have the complete 9gag comment section](http://9gag.com/gag/ay21WdV)<!-- MEMES:END -->
+ - 🚖 [He is coming.](http://9gag.com/gag/awZO3bW)
+ - 🚯 [30 billion dollars or your mental sanity?](http://9gag.com/gag/aKE8WoQ)
+ - 🚯 [Quick and easy sheep and lamb sorting](http://9gag.com/gag/aOx94W6)<!-- MEMES:END -->
 
 --- 
 
