@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17 is getting some giant new accessibility features](https://appleinsider.com/articles/23/05/16/ios-17-is-getting-some-giant-new-accessibility-features?utm_medium=rss)
- - [Why Tesla can get by without CarPlay but other car makers can&#39;t](https://appleinsider.com/articles/23/05/16/why-tesla-can-get-by-without-carplay-but-other-car-makers-cant?utm_medium=rss)
- - [Discord users are scouring servers to find any remaining US military documents from the recent leak, after prosecutors suggested more might still be online &lpar;Jessica Donati/Wall Street Journal&rpar;](http://www.techmeme.com/230516/p15#a230516p15)<!-- TECH:END -->
+ - [HUAWEI FreeBuds 5 review: Bold and comfortable open-fit earbuds](https://www.androidauthority.com/huawei-freebuds-5-review-3315183/)
+ - [SteelSeries’ new Nova 4 wireless headset provides battery life on a budget](https://www.theverge.com/2023/5/16/23725308/steelseries-arctis-nova-4-wireless-headset-price-date)
+ - [Plugged in and logged on: a history of the internet on film and TV](https://www.theverge.com/23723855/internet-film-tv-cables-xfiles-hackers-halt-catch-fire)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
