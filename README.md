@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [:-&lpar;](http://9gag.com/gag/aNwB9Zb)
- - 🚯 [Gah damn bro](http://9gag.com/gag/a8qemo1)
- - 🚯 [Solid burn](http://9gag.com/gag/armx3Ld)<!-- MEMES:END -->
+ - 🚖 [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)
+ - 🚯 [Little guy is learning a valuable lesson](http://9gag.com/gag/abvxvBb)
+ - 🚯 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)<!-- MEMES:END -->
 
 --- 
 
