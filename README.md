@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)
- - 🚯 [On May 11, 2023, I was walking with my dog Ferris and found two beached whales, a mom and calf, both still alive. I spent more than an hour with them, keeping mom wet, encouraged, and present. In a statistical miracle they made it out to the ocean and I got to touch a live whale!](http://9gag.com/gag/aL1Aex6)
- - 🚯 [Solid burn](http://9gag.com/gag/armx3Ld)<!-- MEMES:END -->
+ - 🚖 [She\u2019s very protective](http://9gag.com/gag/aXn7NVb)
+ - 🚯 [Quick and easy sheep and lamb sorting](http://9gag.com/gag/aOx94W6)
+ - 🚯 [Based.](http://9gag.com/gag/aOx9xvv)<!-- MEMES:END -->
 
 --- 
 
