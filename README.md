@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel 6A is $100 off](https://www.theverge.com/2023/5/16/23723954/google-pixel-6a-ember-smart-mug-apple-watch-ultra-deal-sale)
- - [Samsung is upgrading Ambient Sound on the Galaxy Buds 2 Pro](https://www.androidauthority.com/galaxy-buds-2-pro-3325216/)
- - [Zoom will soon integrate Anthropic’s chatbot across its platform](https://www.theverge.com/2023/5/16/23725342/zoom-anthropic-ai-powered-chatbot-claude)<!-- TECH:END -->
+ - [iPhone 16 Pro screens rumored to be larger than iPhone 15 Pro to fit periscope lenses](https://appleinsider.com/articles/23/05/16/iphone-16-pro-screens-rumored-to-be-larger-than-iphone-15-pro-to-fit-periscope-lenses?utm_medium=rss)
+ - [Hippocratic AI, which is building an LLM for health care, raised a $50M seed co-led by General Catalyst and a16z at a &quot;triple digit millions&quot; valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230516/p20#a230516p20)
+ - [A jailed Saudi dissident&#39;s sister sues Twitter under the RICO Act, arguing its negligence let staff reveal his identity and thousands of others&#39; to Saudi agents &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230516/p19#a230516p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
