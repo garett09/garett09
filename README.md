@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Random information](http://9gag.com/gag/adPxvQZ)
- - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)
+ - 🚖 [The real legendary men in our time](http://9gag.com/gag/ay21W58)
+ - 🚯 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)
  - 🚯 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)<!-- MEMES:END -->
 
 --- 
