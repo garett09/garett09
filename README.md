@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based.](http://9gag.com/gag/aOx9xvv)
- - 🚯 [Always check when you think you heard something !](http://9gag.com/gag/aDYbYzw)
- - 🚯 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)<!-- MEMES:END -->
+ - 🚖 [Keep at it](http://9gag.com/gag/aWGo7E2)
+ - 🚯 [He is coming.](http://9gag.com/gag/awZO3bW)
+ - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
 
 --- 
 
