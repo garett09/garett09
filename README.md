@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Amazon executive in charge of Astro robot is leaving the company](https://www.theverge.com/2023/5/16/23725539/amazon-astro-vp-robotics-ken-washington-leaving)
- - [iPhone 15 display panel supply chain is on schedule for June production](https://appleinsider.com/articles/23/05/16/iphone-15-display-panel-supply-chain-is-on-schedule-for-june-production?utm_medium=rss)
- - [Apple blocked over $2 billion in fraudulent transactions &amp; 1.7 million bogus apps in 2022](https://appleinsider.com/articles/23/05/16/apple-blocked-over-2-billion-in-fraudulent-transactions-17-million-bogus-apps-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [The 15 Best Shows on HBO Max Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [Google updates its inactivity policy: accounts that have been inactive for 2+ years will be deleted, except for those with YouTube videos, starting in December &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230516/p27#a230516p27)
+ - [Zoom plans to add Anthropic&#39;s AI chatbot Claude to its products, starting with Contact Center; details on other integrations are vague &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230516/p26#a230516p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
