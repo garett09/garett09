@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep at it](http://9gag.com/gag/aWGo7E2)
- - 🚯 [He is coming.](http://9gag.com/gag/awZO3bW)
+ - 🚖 [Regie knows the routine lol](http://9gag.com/gag/ajVxg5R)
+ - 🚯 [Based.](http://9gag.com/gag/aOx9xvv)
  - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
 
 --- 
