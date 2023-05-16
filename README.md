@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro screens rumored to be larger than iPhone 15 Pro to fit periscope lenses](https://appleinsider.com/articles/23/05/16/iphone-16-pro-screens-rumored-to-be-larger-than-iphone-15-pro-to-fit-periscope-lenses?utm_medium=rss)
- - [Hippocratic AI, which is building an LLM for health care, raised a $50M seed co-led by General Catalyst and a16z at a &quot;triple digit millions&quot; valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230516/p20#a230516p20)
- - [A jailed Saudi dissident&#39;s sister sues Twitter under the RICO Act, arguing its negligence let staff reveal his identity and thousands of others&#39; to Saudi agents &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/230516/p19#a230516p19)<!-- TECH:END -->
+ - [The US announces charges, sanctions, and a $10M reward for info leading to the arrest of Russian national Mikhail Matveev, a Babuk ransomware gang operative &lpar;Spencer S. Hsu/Washington Post&rpar;](http://www.techmeme.com/230516/p23#a230516p23)
+ - [Apple adds new concert-finding features to Maps and Music](https://www.theverge.com/2023/5/16/23725530/apple-concert-discovery-maps-music)
+ - [Third ex-Apple engineer charged over Apple Car technology theft](https://appleinsider.com/articles/23/05/16/third-ex-apple-engineer-charged-over-apple-car-technology-theft?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
