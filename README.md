@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chat Lock on WhatsApp will make your ‘extra-special messages’ more private](https://www.androidauthority.com/whatsapp-chat-lock-3325016/)
- - [In its response to a US federal court, the SEC says Coinbase has no right to compel the agency to issue guidelines for crypto companies &quot;on a specific timeline&quot; &lpar;Casey Wagner/Blockworks&rpar;](http://www.techmeme.com/230516/p1#a230516p1)
- - [Twitter&#39;s encrypted DMs don&#39;t offer end-to-end encryption, making them vulnerable to man-in-the-middle attacks and open to government access requests &lpar;Platformer&rpar;](http://www.techmeme.com/230515/p30#a230515p30)<!-- TECH:END -->
+ - [Court filings show Jump Trading secretly purchased tens of millions of dollars worth of TerraUSD and made ~$1B in profit a year before the coin&#39;s collapse &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230516/p4#a230516p4)
+ - [Source: Twitter buys recruiting startup Laskie for &quot;tens of millions&quot; in cash and stock, its first deal of the Elon Musk era; PitchBook: Laskie had raised $6M &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/230516/p3#a230516p3)
+ - [Irish Council for Civil Liberties: 75% of the Irish DPC&#39;s GDPR decisions in EU-level cases since 2018 have been overruled by the European Data Protection Board &lpar;Ciara O&#39;Brien/The Irish Times&rpar;](http://www.techmeme.com/230516/p2#a230516p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
