@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola confirms Razr 40 and 40 Ultra launch date](https://www.androidauthority.com/motorola-razr-40-3325389/)
- - [Forever chemicals are disproportionately polluting Black and Hispanic neighborhoods](https://www.theverge.com/2023/5/16/23725917/pfas-forever-chemicals-toxic-black-hispanic-pollution)
- - [Apple touts $2B+ in App Store fraud prevented in 2022, including 3.9M stolen credit cards blocked, 147M+ ratings/reviews removed, 428K dev accounts terminated &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230516/p28#a230516p28)<!-- TECH:END -->
+ - [IBM says it has acquired cloud data protection company Polar Security, a source says for around $60M, and plans to integrate Polar into its Guardium unit &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230516/p33#a230516p33)
+ - [Google Pixel Buds Pro vs Apple AirPods Pro 2: Which should you buy?](https://www.androidauthority.com/google-pixel-buds-pro-vs-apple-airpods-pro-2-3318921/)
+ - [Tesla Bot can walk very slowly and pick up stuff now](https://www.theverge.com/2023/5/16/23726139/tesla-robot-update-video-shareholder-meeting)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
