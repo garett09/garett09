@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chat Lock on WhatsApp will make your ‘extra-special messages’ more private](https://www.androidauthority.com/whatsapp-chat-lock-3325016/)
  - [In its response to a US federal court, the SEC says Coinbase has no right to compel the agency to issue guidelines for crypto companies &quot;on a specific timeline&quot; &lpar;Casey Wagner/Blockworks&rpar;](http://www.techmeme.com/230516/p1#a230516p1)
- - [Twitter&#39;s encrypted DMs don&#39;t offer end-to-end encryption, making them vulnerable to man-in-the-middle attacks and open to government access requests &lpar;Platformer&rpar;](http://www.techmeme.com/230515/p30#a230515p30)
- - [xrOS has been trademarked in New Zealand ahead of potential WWDC reveal](https://appleinsider.com/articles/23/05/16/xros-has-been-trademarked-in-new-zealand-ahead-of-potential-wwdc-reveal?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter&#39;s encrypted DMs don&#39;t offer end-to-end encryption, making them vulnerable to man-in-the-middle attacks and open to government access requests &lpar;Platformer&rpar;](http://www.techmeme.com/230515/p30#a230515p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
