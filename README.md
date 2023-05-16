@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He is coming.](http://9gag.com/gag/awZO3bW)
- - 🚯 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)
- - 🚯 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)<!-- MEMES:END -->
+ - 🚖 [Solid burn](http://9gag.com/gag/armx3Ld)
+ - 🚯 [How to write a poem with a ball...](http://9gag.com/gag/a8qeq6p)
+ - 🚯 [That\u2019s just bananas](http://9gag.com/gag/aYVMOy7)<!-- MEMES:END -->
 
 --- 
 
