@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest Galaxy S23 model is made for warzones](https://www.androidauthority.com/samsung-galaxy-s23-tactical-edition-3325046/)
- - [MTN plans to build a $320M East2West inland fiber cable connecting ten African countries in Q4 2023, following its subsea cable that landed in Cape Town in 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230516/p5#a230516p5)
- - [Court filings show Jump Trading secretly purchased tens of millions of dollars worth of TerraUSD and made ~$1B in profit a year before the coin&#39;s collapse &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/230516/p4#a230516p4)<!-- TECH:END -->
+ - [Report: Here’s when and where Samsung’s new foldables will launch](https://www.androidauthority.com/samsung-unpacked-foldables-2023-3325070/)
+ - [An interview with Kevin Systrom on Artifact&#39;s new writer features, serving writers as a key to the news app&#39;s growth, matching consumers with writers, and more &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/230516/p6#a230516p6)
+ - [Samsung Galaxy Unpacked part 2: Here are the latest rumors &lpar;Updated: May 16&rpar;](https://www.androidauthority.com/samsung-galaxy-unpacked-2023-part-2-3316864/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
