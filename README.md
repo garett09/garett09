@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Good luck with that: Twitter&#39;s new CEO starts in 6 weeks](https://www.pcgamer.com/good-luck-with-that-twitters-new-ceo-starts-in-6-weeks)
- - [Steam Sports Fest sale features birds, racoons, pro wrestlers, and the lowest price ever on FIFA 23 on PC—but sorry, no race cars](https://www.pcgamer.com/steam-sports-fest-sale-features-birds-racoons-pro-wrestlers-and-the-lowest-price-ever-on-fifa-23-on-pcbut-sorry-no-race-cars)
- - [Kiuyoyou Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23724504/kiuyoyou-shrine-solution-puzzle-chest)<!-- GAME:END -->
+ - [NFT Cockfighting Game Binned, Is Everything Wrong With Silicon Valley](https://kotaku.com/nft-crypto-sec-silicon-valley-video-game-crash-scam-1850439861)
+ - [These Anime Moms Deserve All The Flowers For Mother&#39;s Day](https://kotaku.com/anime-mothers-day-my-hero-academia-spy-x-family-erased-1850439565)
+ - [Crusader Kings III Has Gone RPG Mad, And I Love It](https://kotaku.com/crusader-kings-iii-tours-tournaments-review-impressions-1850413935)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
