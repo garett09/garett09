@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #696: Tuesday, May 16](https://www.pcgamer.com/wordle-today-hint-answer-696-may-16)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/05/15/this-weeks-deals-with-gold-and-spotlight-sale-274/)
- - [Cult Mech Game Hawken Is Coming Back From The Dead](https://kotaku.com/hawken-mech-pve-pc-steam-early-access-titanfall-ea-1850439675)<!-- GAME:END -->
+ - [Nvidia is set to retire the venerable RTX 3060 Ti](https://www.pcgamer.com/nvidia-is-set-to-retire-the-venerable-rtx-3060-ti)
+ - [Fully unlocked RX 7900 XTX very nearly matches RTX 4090 performance](https://www.pcgamer.com/fully-unlocked-rx-7900-xtx-very-nearly-matches-rtx-4090-performance)
+ - [Today&#39;s Wordle hint and answer #696: Tuesday, May 16](https://www.pcgamer.com/wordle-today-hint-answer-696-may-16)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
