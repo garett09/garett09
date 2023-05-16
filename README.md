@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Then you realize you only need one](http://9gag.com/gag/aXn7n7g)
- - 🚯 [Little guy is learning a valuable lesson](http://9gag.com/gag/abvxvBb)
- - 🚯 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)<!-- MEMES:END -->
+ - 🚖 [When you are a Patriot system and you don\u2019t care about Russian propaganda, you just take and shoot down 6 `indestructible` Russian hypersonic missiles in half an hour over Kiev today](http://9gag.com/gag/aeQxOzb)
+ - 🚯 [Saying goodbye to your dad, when he has to stay for the war](http://9gag.com/gag/aqexyWY)
+ - 🚯 [Solid burn](http://9gag.com/gag/armx3Ld)<!-- MEMES:END -->
 
 --- 
 
