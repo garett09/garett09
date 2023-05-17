@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Took me a minute!](http://9gag.com/gag/a8qeDBe)
- - 🚯 [Random information](http://9gag.com/gag/adPxvQZ)
- - 🚯 [Shake it off](http://9gag.com/gag/a2KDwmd)<!-- MEMES:END -->
+ - 🚖 [He is coming.](http://9gag.com/gag/awZO3bW)
+ - 🚯 [Our american brothers, please stop doing that](http://9gag.com/gag/a7q9VOb)
+ - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
 
 --- 
 
