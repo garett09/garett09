@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)
- - 🚯 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)
- - 🚯 [Turkish coffee!](http://9gag.com/gag/a8qeeY1)<!-- MEMES:END -->
+ - 🚖 [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)
+ - 🚯 [Turkish coffee!](http://9gag.com/gag/a8qeeY1)
+ - 🚯 [Relax life](http://9gag.com/gag/aNwB4mG)<!-- MEMES:END -->
 
 --- 
 
