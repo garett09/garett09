@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sage’s Will locations, use, and upgrades in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726953/sages-will-locations-map-use)
- - [One of Destiny 2&#39;s legendary weapons was doing 40% extra damage for weeks and nobody noticed](https://www.pcgamer.com/one-of-destiny-2s-legendary-weapons-was-doing-40-extra-damage-for-weeks-and-nobody-noticed)
- - [Overwatch 2 Multiplayer Isn’t Good Enough To Justify Gutting Its Long-Promised PvE](https://kotaku.com/overwatch-2-canceled-pve-mode-pvp-multiplayer-blizzard-1850446694)<!-- GAME:END -->
+ - [Doom co-creator John Carmack is headlining a &#39;toxic and proud&#39; sci-fi convention that rails against &#39;woke propaganda&#39;](https://www.pcgamer.com/doom-co-creator-john-carmack-is-headlining-a-toxic-and-proud-sci-fi-convention-that-rails-against-woke-propaganda)
+ - [Classic Trigun Manga Gets Fancy Reprint After Being Gone For 15 Years](https://kotaku.com/trigun-maximum-vash-stampede-dark-horse-manga-hardcover-1850447736)
+ - [Lightning Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23710061/lightning-temple-walkthrough-dungeon-queen-gibdo-boss-light-room-hopeful-light)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
