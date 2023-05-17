@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The advantage of having a PC](http://9gag.com/gag/aeQxZ3m)
- - 🚯 [Love the reaction!](http://9gag.com/gag/a9qm5Mm)
- - 🚯 [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)<!-- MEMES:END -->
+ - 🚖 [Relax life](http://9gag.com/gag/aNwB4mG)
+ - 🚯 [Quick and easy sheep and lamb sorting](http://9gag.com/gag/aOx94W6)
+ - 🚯 [Solid burn](http://9gag.com/gag/armx3Ld)<!-- MEMES:END -->
 
 --- 
 
