@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sky: Children of the Light is coming to PC later this year](https://www.polygon.com/23721291/sky-children-light-release-windows-pc-trailer)
  - [Sega would like $70, please](https://www.pcgamer.com/sega-would-like-dollar70-please)
- - [Wield The Power of The Court in Crusader Kings III Royal Court DLC](https://news.xbox.com/en-us/2023/05/17/crusader-kings-iii-royal-court-dlc/)
- - [The Five Nights at Freddy’s movie looks exactly like the games](https://www.polygon.com/23726716/five-nights-at-freddys-movie-trailer-release-date)<!-- GAME:END -->
+ - [Wield The Power of The Court in Crusader Kings III Royal Court DLC](https://news.xbox.com/en-us/2023/05/17/crusader-kings-iii-royal-court-dlc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
