@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Votes for Women, one of the year’s best board games, belongs in a museum](https://www.polygon.com/tabletop-games/23725429/votes-for-women-board-game-review)
- - [Greedventory is like Dark Souls meets Monkey Island, and it&#39;s out now](https://www.pcgamer.com/greedventory-is-like-dark-souls-meets-monkey-island-and-its-out-now)
- - [What to sell to make money in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722673/rupees-what-to-sell-how-to-make-money-fast-best-items)<!-- GAME:END -->
+ - [‘Team Cece or Team Reede?’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727023/team-cece-reede-supporters-mushroom-location)
+ - [Al Ewing wants Immortal Thor to surpass his epic Immortal Hulk run: ‘I have to try’](https://www.polygon.com/23727109/immortal-thor-vs-immortal-hulk-al-ewing-interview)
+ - [Zelda: Tears of the Kingdom duplication glitch breaks the game &lpar;in your favor&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726961/zelda-tears-of-the-kingdom-duplication-glitch-how-to-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
