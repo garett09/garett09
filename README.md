@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber for teens: the company lifts age restrictions to allow unaccompanied minors for the first time](https://www.theverge.com/2023/5/17/23726772/uber-teens-riderhail-account-age-restrictions-go-get)
- - [In the new Mission: Impossible trailer, Tom Cruise could really use Link’s glider](https://www.theverge.com/2023/5/17/23726829/mission-impossible-dead-reckoning-part-1-7-trailer)
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)<!-- TECH:END -->
+ - [Apple highlights how Proloquo2Go and an iPad help users find their voice](https://appleinsider.com/articles/23/05/17/apple-highlights-how-proloquo2go-and-an-ipad-help-users-find-their-voice?utm_medium=rss)
+ - [iPhone users increasingly leaving Android for iOS, but it’s not as bad as it was](https://www.androidauthority.com/leave-android-for-iphone-3325742/)
+ - [TikTok has a new font](https://www.theverge.com/2023/5/17/23727052/tiktok-sans-new-font)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
