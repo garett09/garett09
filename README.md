@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam just quietly added a new free trial system](https://www.pcgamer.com/steam-just-quietly-added-a-new-free-trial-system)
- - [PUBG now lets you bring friends back from the dead](https://www.polygon.com/23725835/pubg-battlegrounds-revives-recall-clan-system)
- - [Today&#39;s Wordle hint and answer #697: Wednesday, May 17](https://www.pcgamer.com/wordle-today-hint-answer-697-may-17)<!-- GAME:END -->
+ - [Sega would like $70, please](https://www.pcgamer.com/sega-would-like-dollar70-please)
+ - [Wield The Power of The Court in Crusader Kings III Royal Court DLC](https://news.xbox.com/en-us/2023/05/17/crusader-kings-iii-royal-court-dlc/)
+ - [The Five Nights at Freddy’s movie looks exactly like the games](https://www.polygon.com/23726716/five-nights-at-freddys-movie-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
