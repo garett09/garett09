@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Maryland-based Huntress, an endpoint security provider focused on SMBs, raised a $60M Series C led by Sapphire Ventures, bringing its total funding to ~$160M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/230516/p40#a230516p40)
  - [Proscenic L40 Smart lock review: Versatile but complex home security choice](https://appleinsider.com/articles/23/05/17/proscenic-l40-smart-lock-review-versatile-but-complex-home-security-choice?utm_medium=rss)
- - [Elon Musk keeps insisting the Texas shooter with a swastika tattoo is not a white supremacist](https://www.theverge.com/2023/5/16/23726310/elon-musk-defends-texas-shooter-bellingcat)
- - [Switzerland-based ANYbotics, which makes autonomous robots for industrial inspection, raised a $50M Series B led by Walden Catalyst and NGP Capital &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/230516/p39#a230516p39)<!-- TECH:END -->
+ - [Elon Musk keeps insisting the Texas shooter with a swastika tattoo is not a white supremacist](https://www.theverge.com/2023/5/16/23726310/elon-musk-defends-texas-shooter-bellingcat)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
