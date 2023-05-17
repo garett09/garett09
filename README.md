@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He is coming.](http://9gag.com/gag/awZO3bW)
- - 🚯 [30 billion dollars or your mental sanity?](http://9gag.com/gag/aKE8WoQ)
- - 🚯 [Quick and easy sheep and lamb sorting](http://9gag.com/gag/aOx94W6)<!-- MEMES:END -->
+ - 🚖 [Short, but scary video](http://9gag.com/gag/aXn7NX9)
+ - 🚯 [Random information](http://9gag.com/gag/adPxvQZ)
+ - 🚯 [Shake it off](http://9gag.com/gag/a2KDwmd)<!-- MEMES:END -->
 
 --- 
 
