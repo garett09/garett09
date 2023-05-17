@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)
- - 🚯 [She\u2019s very protective](http://9gag.com/gag/aXn7NVb)
- - 🚯 [A letter from Gandhi to Hitler](http://9gag.com/gag/abvx49O)<!-- MEMES:END -->
+ - 🚖 [That family really needs to hit the breaks already](http://9gag.com/gag/aGEGAqK)
+ - 🚯 [30 billion dollars or your mental sanity?](http://9gag.com/gag/aKE8WoQ)
+ - 🚯 [I&#39;ve been using the gate wrong the whole time!](http://9gag.com/gag/a4oA2M1)<!-- MEMES:END -->
 
 --- 
 
