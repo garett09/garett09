@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybersecurity researchers and IT admins raise concerns over Google&#39;s new .zip and .mov TLDs, warning that threat actors could use them for phishing and malware &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230517/p1#a230517p1)
- - [Best Apple iPhone SE Case for 2023     - CNET](https://www.cnet.com/tech/mobile/best-apple-iphone-se-case/#ftag=CAD590a51e)
- - [Belkin says the company won&#39;t patch a buffer overflow vulnerability in the Wemo Mini Smart Plug V2 disclosed on March 14 as the device is at the end of its life &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/230516/p42#a230516p42)<!-- TECH:END -->
+ - [Researchers find YouTube&#39;s algorithm recommended videos on guns and shooting to young gamers, despite the platform&#39;s policies against violent and gory content &lpar;Tech Transparency Project&rpar;](http://www.techmeme.com/230517/p3#a230517p3)
+ - [As Chinese companies recruit South Korean tech talent more aggressively, Seoul creates a database to monitor South Korean chip engineers&#39; international travel &lpar;Financial Times&rpar;](http://www.techmeme.com/230517/p2#a230517p2)
+ - [Cybersecurity researchers and IT admins raise concerns over Google&#39;s new .zip and .mov TLDs, warning that threat actors could use them for phishing and malware &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230517/p1#a230517p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
