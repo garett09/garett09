@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rusty Trombone](http://9gag.com/gag/aL1A4e6)
- - 🚯 [The real legendary men in our time](http://9gag.com/gag/ay21W58)
- - 🚯 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
+ - 🚖 [Relax life](http://9gag.com/gag/aNwB4mG)
+ - 🚯 [Jack Black and his son Samuel](http://9gag.com/gag/aKE88EO)
+ - 🚯 [\u201cIt\u2019s a peaceful life.\u201d More info in comments](http://9gag.com/gag/aPgeP7q)<!-- MEMES:END -->
 
 --- 
 
