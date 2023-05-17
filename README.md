@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relax life](http://9gag.com/gag/aNwB4mG)
- - 🚯 [Jack Black and his son Samuel](http://9gag.com/gag/aKE88EO)
- - 🚯 [\u201cIt\u2019s a peaceful life.\u201d More info in comments](http://9gag.com/gag/aPgeP7q)<!-- MEMES:END -->
+ - 🚖 [The advantage of having a PC](http://9gag.com/gag/aeQxZ3m)
+ - 🚯 [Love the reaction!](http://9gag.com/gag/a9qm5Mm)
+ - 🚯 [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)<!-- MEMES:END -->
 
 --- 
 
