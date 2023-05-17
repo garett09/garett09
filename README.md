@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always](http://9gag.com/gag/axoOvdn)
- - 🚯 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)
- - 🚯 [I&#39;d follow her too](http://9gag.com/gag/aKE8103)<!-- MEMES:END -->
+ - 🚖 [The real legendary men in our time](http://9gag.com/gag/ay21W58)
+ - 🚯 [Shake it off](http://9gag.com/gag/a2KDwmd)
+ - 🚯 [She\u2019s very protective](http://9gag.com/gag/aXn7NVb)<!-- MEMES:END -->
 
 --- 
 
