@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Apple Pro Display XDR vs Dell UltraSharp 32-inch 6K monitor](https://appleinsider.com/inside/pro-display-xdr/vs/compared-apple-pro-display-xdr-vs-dell-ultrasharp-32-inch-6k-monitor?utm_medium=rss)
- - [Bolttech, a B2B2C startup that offers &quot;embedded&quot; insurance products, raised a $196M Series B led by Japan&#39;s Tokio Marine at a $1.6B valuation &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/230517/p12#a230517p12)
- - [Spooked by ChatGPT, US Lawmakers Want to Create an AI Regulator](https://www.wired.com/story/spooked-by-chatgpt-us-lawmakers-want-to-create-an-ai-regulator/)<!-- TECH:END -->
+ - [India announces a ~$2B incentive scheme to entice makers of laptops, tablets, and other hardware, running for six years, following the 2021 smartphone program &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230517/p15#a230517p15)
+ - [StableStudio is Stability AI’s latest commitment to open-source AI](https://www.theverge.com/2023/5/17/23726751/stability-ai-stablestudio-dreamstudio-stable-diffusion-artificial-intelligence)
+ - [We’ll always have Mario Kart: the short-lived joy of console LAN parties](https://www.theverge.com/23724359/lan-party-mario-kart-nintendo-gamecube-console)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
