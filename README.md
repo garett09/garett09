@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Showtime and Paramount+ to finally merge into one service on June 27](https://appleinsider.com/articles/23/05/17/showtime-and-paramount-to-finally-merge-into-one-service-on-june-27?utm_medium=rss)
- - [Logitech partners with iFixit to help with DIY repairs, supplying spare parts, batteries, and guides for select Logitech hardware starting this summer in the US &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230517/p28#a230517p28)
- - [Trial of Theranos’ Elizabeth Holmes: news, updates, and more](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)<!-- TECH:END -->
+ - [Docs: Google plans to use its AI models for ads, customer service, and to help YouTube creators, and it is working on an internal Stable Diffusion-like product &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230517/p30#a230517p30)
+ - [Upgrade your storage with 59% off this Samsung 512GB microSD card](https://www.androidauthority.com/samsung-pro-plus-microsd-deal-3325869/)
+ - [A history of metaphors for the internet](https://www.theverge.com/2023/5/17/23727584/a-history-of-metaphors-for-the-internet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
