@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shake it off](http://9gag.com/gag/a2KDwmd)
- - 🚯 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)
- - 🚯 [Relax life](http://9gag.com/gag/aNwB4mG)<!-- MEMES:END -->
+ - 🚖 [Diablo IV. A 70\u20ac game. 80\u20ac for consoles.](http://9gag.com/gag/aeQxZ1q)
+ - 🚯 [She\u2019s very protective](http://9gag.com/gag/aXn7NVb)
+ - 🚯 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
 
 --- 
 
