@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Shein raised $2B at a $66B valuation, down from ~$100B in 2022, co-led by Sequoia, General Atlantic, and Mubadala; Shein generated $23B in 2022 revenue &lpar;Jing Yang/Wall Street Journal&rpar;](http://www.techmeme.com/230517/p7#a230517p7)
- - [ChatGPT Scams Are Infiltrating Apple&#39;s App Store and Google Play](https://www.wired.com/story/chatgpt-scams-apple-app-store-google-play/)
- - [Buckle up because El Niño is almost here, and it’s going to get hot](https://www.theverge.com/2023/5/17/23725705/el-nino-weather-record-heat-climate-change-world-meteorological-organization)<!-- TECH:END -->
+ - [These High-End Water Guns Aren’t for Kids](https://www.wired.com/story/water-guns-for-adults-spyra-three-mijia-pulse/)
+ - [California Truckers Brace for a Rule Mandating Electric Vehicles at Ports](https://www.wired.com/story/truckers-brace-for-a-rule-mandating-electric-vehicles-at-ports/)
+ - [How Humanity Can Avoid an AI Takeover](https://www.wired.com/story/have-a-nice-future-podcast-6/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
