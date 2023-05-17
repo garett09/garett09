@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&lpar; &rpar;&lpar; &rpar;](http://9gag.com/gag/amAxWN6)
- - 🚯 [So the meme is real](http://9gag.com/gag/a3Z8GQQ)
- - 🚯 [Random information](http://9gag.com/gag/adPxvQZ)<!-- MEMES:END -->
+ - 🚖 [Shake it off](http://9gag.com/gag/a2KDwmd)
+ - 🚯 [The real legendary men in our time](http://9gag.com/gag/ay21W58)
+ - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
 
 --- 
 
