@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty Endowment – Helping Veterans Find High Quality Careers and How You Can Help](https://news.xbox.com/en-us/2023/05/17/call-of-duty-endowment-helps-veterans-find-jobs/)
- - [Hands-on test: Philips Evnia gaming peripherals](https://www.pcgamer.com/hands-on-test-philips-evnia-gaming-peripherals)
- - [Morok Shrine ‘A Bouncy Device’ solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23702719/morok-shrine-solution-puzzle-chest)<!-- GAME:END -->
+ - [Here&#39;s how to catch all the reveals at this June&#39;s PC Gaming Show](https://www.pcgamer.com/pc-gaming-show-2023-how-to-watch)
+ - [Fast X has the Fast and Furious franchise spinning its wheels](https://www.polygon.com/reviews/23725992/fast-x-review-fast-furious-10)
+ - [Hit zombie survival game Doomsday: Last Survivors shambles to PC](https://www.pcgamer.com/hit-zombie-survival-game-doomsday-last-survivors-shambles-to-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
