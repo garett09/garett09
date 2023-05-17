@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Short, but scary video](http://9gag.com/gag/aXn7NX9)
- - 🚯 [Random information](http://9gag.com/gag/adPxvQZ)
- - 🚯 [Shake it off](http://9gag.com/gag/a2KDwmd)<!-- MEMES:END -->
+ - 🚖 [Our american brothers, please stop doing that](http://9gag.com/gag/a7q9VOb)
+ - 🚯 [Incredible transformative power of jaw advancement surgery](http://9gag.com/gag/aXn7PLD)
+ - 🚯 [Hard to digest](http://9gag.com/gag/aoKx32X)<!-- MEMES:END -->
 
 --- 
 
