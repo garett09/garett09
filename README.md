@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sky: Children of the Light is coming to PC later this year](https://www.polygon.com/23721291/sky-children-light-release-windows-pc-trailer)
- - [Sega would like $70, please](https://www.pcgamer.com/sega-would-like-dollar70-please)
- - [Wield The Power of The Court in Crusader Kings III Royal Court DLC](https://news.xbox.com/en-us/2023/05/17/crusader-kings-iii-royal-court-dlc/)<!-- GAME:END -->
+ - [X2 is the only X-Men movie that ever really nailed the X-formula](https://www.polygon.com/23725612/why-x2-is-the-best-x-men-movie-20-year-anniversary)
+ - [You’re Invited: PlayStation Showcase broadcasts live next Wednesday, May 24 at 1pm Pacific Time](https://blog.playstation.com/2023/05/17/youre-invited-playstation-showcase-broadcasts-live-next-wednesday-may-24-at-1pm-pacific-time/)
+ - [The Pac-Man battle royale game is shutting down](https://www.polygon.com/23726800/pac-man-99-shutting-down-nintendo-switch-online)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
