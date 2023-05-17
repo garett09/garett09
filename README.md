@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nani?!?!](http://9gag.com/gag/aEqWoQo)
- - 🚯 [And here we have the complete 9gag comment section](http://9gag.com/gag/ay21WdV)
- - 🚯 [Firefighters](http://9gag.com/gag/aXn7NK6)<!-- MEMES:END -->
+ - 🚖 [Always](http://9gag.com/gag/axoOvdn)
+ - 🚯 [Football fan is caught breaking expensive camera equipment after his team loses match against Barcelona FC in Spain](http://9gag.com/gag/a2KDMZD)
+ - 🚯 [I&#39;d follow her too](http://9gag.com/gag/aKE8103)<!-- MEMES:END -->
 
 --- 
 
