@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: Google plans to use its AI models for ads, customer service, and to help YouTube creators, and it is working on an internal Stable Diffusion-like product &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/230517/p30#a230517p30)
- - [Upgrade your storage with 59% off this Samsung 512GB microSD card](https://www.androidauthority.com/samsung-pro-plus-microsd-deal-3325869/)
- - [A history of metaphors for the internet](https://www.theverge.com/2023/5/17/23727584/a-history-of-metaphors-for-the-internet)<!-- TECH:END -->
+ - [Porsche Taycan gets Apple Maps EV routing with CarPlay update](https://appleinsider.com/articles/23/05/17/porsche-taycan-gets-apple-maps-ev-routing-with-carplay-update?utm_medium=rss)
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
+ - [Splendid Spoon Review: Easy Soups and Smoothies Sent to Your Door     - CNET](https://www.cnet.com/health/nutrition/splendid-spoon-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
