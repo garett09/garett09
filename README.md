@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The real legendary men in our time](http://9gag.com/gag/ay21W58)
- - 🚯 [Shake it off](http://9gag.com/gag/a2KDwmd)
- - 🚯 [She\u2019s very protective](http://9gag.com/gag/aXn7NVb)<!-- MEMES:END -->
+ - 🚖 [He is coming.](http://9gag.com/gag/awZO3bW)
+ - 🚯 [Imagine being such a Karen even your lungs and vocal cords refuse to work with you anymore](http://9gag.com/gag/amAx6j2)
+ - 🚯 [Expensive](http://9gag.com/gag/avQx12X)<!-- MEMES:END -->
 
 --- 
 
