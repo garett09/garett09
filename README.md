@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These High-End Water Guns Aren’t for Kids](https://www.wired.com/story/water-guns-for-adults-spyra-three-mijia-pulse/)
- - [California Truckers Brace for a Rule Mandating Electric Vehicles at Ports](https://www.wired.com/story/truckers-brace-for-a-rule-mandating-electric-vehicles-at-ports/)
- - [How Humanity Can Avoid an AI Takeover](https://www.wired.com/story/have-a-nice-future-podcast-6/)<!-- TECH:END -->
+ - [Compared: Apple Pro Display XDR vs Dell UltraSharp 32-inch 6K monitor](https://appleinsider.com/inside/pro-display-xdr/vs/compared-apple-pro-display-xdr-vs-dell-ultrasharp-32-inch-6k-monitor?utm_medium=rss)
+ - [Bolttech, a B2B2C startup that offers &quot;embedded&quot; insurance products, raised a $196M Series B led by Japan&#39;s Tokio Marine at a $1.6B valuation &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/230517/p12#a230517p12)
+ - [Spooked by ChatGPT, US Lawmakers Want to Create an AI Regulator](https://www.wired.com/story/spooked-by-chatgpt-us-lawmakers-want-to-create-an-ai-regulator/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
