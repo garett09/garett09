@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox really wants you to know that it isn’t just for kids](https://www.theverge.com/2023/5/17/23727324/roblox-kids-older-adult-mature-audience-games)
- - [An update for Google&#39;s Personal Safety app for Android suggests the company plans to include a dashcam recording feature for Pixel phones and select devices &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/230517/p26#a230517p26)
- - [The Samsung Galaxy Watch 4 Classic is at its lowest price ever](https://www.androidauthority.com/samsung-galaxy-watch-4-classic-deal-3325846/)<!-- TECH:END -->
+ - [Showtime and Paramount+ to finally merge into one service on June 27](https://appleinsider.com/articles/23/05/17/showtime-and-paramount-to-finally-merge-into-one-service-on-june-27?utm_medium=rss)
+ - [Logitech partners with iFixit to help with DIY repairs, supplying spare parts, batteries, and guides for select Logitech hardware starting this summer in the US &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230517/p28#a230517p28)
+ - [Trial of Theranos’ Elizabeth Holmes: news, updates, and more](https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
