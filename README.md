@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Tab S9 Ultra renders leak: The best Android tablet of 2023?](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-design-3325606/)
  - [Symantec says an APT called Lancefly used custom malware to attack governments, telcos, and other organizations in Asia from the middle of 2022 through Q1 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230517/p5#a230517p5)
- - [Google is working on a dash cam mode for Pixels, and here’s how it works](https://www.androidauthority.com/google-pixel-phones-dash-cam-mode-3325586/)
- - [Best Massage Guns for 2023     - CNET](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is working on a dash cam mode for Pixels, and here’s how it works](https://www.androidauthority.com/google-pixel-phones-dash-cam-mode-3325586/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
