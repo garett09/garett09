@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers bought phones from PropertyRoom.com, a top auction house for US police departments, and found many of them were not wiped and had no PIN or passcode &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/230516/p34#a230516p34)
- - [The first four Indiana Jones movies are coming to Disney Plus on May 31st](https://www.theverge.com/23726270/indiana-jones-disney-plus-streaming-rights-paramount)
- - [Ring founder to become CEO of commercial smart home company Latch](https://www.theverge.com/2023/5/16/23725963/jamie-siminoff-ring-amazon-latch-ceo-smart-home)<!-- TECH:END -->
+ - [In an interview, Elon Musk discussed buying Twitter, defended his inflammatory tweets, called tech workers the &quot;laptop classes living in la-la-land&quot;, and more &lpar;CNBC&rpar;](http://www.techmeme.com/230516/p38#a230516p38)
+ - [Apple shares WWDC schedule including an unknown &#39;Special Evening Activity&#39;](https://appleinsider.com/articles/23/05/17/apple-shares-wwdc-schedule-including-an-unknown-special-evening-activity?utm_medium=rss)
+ - [Elon Musk: I will say what I want even if it loses me money](https://www.theverge.com/2023/5/16/23726317/elon-musk-tweet-controversy-conspiracy-theory-cnbc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
