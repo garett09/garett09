@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Doom co-creator John Carmack is headlining a &#39;toxic and proud&#39; sci-fi convention that rails against &#39;woke propaganda&#39;](https://www.pcgamer.com/doom-co-creator-john-carmack-is-headlining-a-toxic-and-proud-sci-fi-convention-that-rails-against-woke-propaganda)
- - [Classic Trigun Manga Gets Fancy Reprint After Being Gone For 15 Years](https://kotaku.com/trigun-maximum-vash-stampede-dark-horse-manga-hardcover-1850447736)
- - [Lightning Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23710061/lightning-temple-walkthrough-dungeon-queen-gibdo-boss-light-room-hopeful-light)<!-- GAME:END -->
+ - [North Lomei Labyrinth, shrine solutions in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23694023/north-lomei-labyrinth-mayaotaki-tenbez-shrine-solution-puzzle-maze)
+ - [GTA VI Publisher Suggests 2024 Will Be A Very Profitable Year &lpar;Wink, Wink&rpar;](https://kotaku.com/gta-6-vi-release-date-rockstar-take-two-2k-fiscal-2024-1850447846)
+ - [Fire Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717297/fire-temple-walkthrough-dungeon-locks-locations-marbled-gohma-boss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
