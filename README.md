@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine being such a Karen even your lungs and vocal cords refuse to work with you anymore](http://9gag.com/gag/amAx6j2)
- - 🚯 [Quick and easy sheep and lamb sorting](http://9gag.com/gag/aOx94W6)
- - 🚯 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
+ - 🚖 [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)
+ - 🚯 [She\u2019s very protective](http://9gag.com/gag/aXn7NVb)
+ - 🚯 [A letter from Gandhi to Hitler](http://9gag.com/gag/abvx49O)<!-- MEMES:END -->
 
 --- 
 
