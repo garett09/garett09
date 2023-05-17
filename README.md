@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S9 Ultra renders leak: The best Android tablet of 2023?](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-design-3325606/)
- - [Symantec says an APT called Lancefly used custom malware to attack governments, telcos, and other organizations in Asia from the middle of 2022 through Q1 2023 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/230517/p5#a230517p5)
- - [Google is working on a dash cam mode for Pixels, and here’s how it works](https://www.androidauthority.com/google-pixel-phones-dash-cam-mode-3325586/)<!-- TECH:END -->
+ - [Sources: Shein raised $2B at a $66B valuation, down from ~$100B in 2022, co-led by Sequoia, General Atlantic, and Mubadala; Shein generated $23B in 2022 revenue &lpar;Jing Yang/Wall Street Journal&rpar;](http://www.techmeme.com/230517/p7#a230517p7)
+ - [ChatGPT Scams Are Infiltrating Apple&#39;s App Store and Google Play](https://www.wired.com/story/chatgpt-scams-apple-app-store-google-play/)
+ - [Buckle up because El Niño is almost here, and it’s going to get hot](https://www.theverge.com/2023/5/17/23725705/el-nino-weather-record-heat-climate-change-world-meteorological-organization)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
