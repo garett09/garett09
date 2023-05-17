@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the paraglider in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23708581/paraglider-how-to-unlock)
- - [&#39;90s MMOs came up with the most painful game mechanic of all time, and it&#39;s somehow still in use today](https://www.pcgamer.com/90s-mmos-came-up-with-the-most-painful-game-mechanic-of-all-time-and-its-somehow-still-in-use-today)
- - [How to get the Frostbite Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726392/frostbite-armor-set-locations-head-chest-legs-get)<!-- GAME:END -->
+ - [BioWare Is Selling That Framed Photo Of Tali From Mass Effect](https://kotaku.com/mass-effect-tali-face-photo-merch-romance-quarian-1850447203)
+ - [The best TV of 2023 so far](https://www.polygon.com/what-to-watch/23599935/best-tv-shows-2023-new)
+ - [Blizzard confirms BlizzCon will return as an in-person event in November 2023](https://www.polygon.com/blizzcon/23727395/blizzcon-returns-physical-venue-anaheim-convention-center-november-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
