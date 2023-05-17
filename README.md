@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Team Cece or Team Reede?’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727023/team-cece-reede-supporters-mushroom-location)
- - [Al Ewing wants Immortal Thor to surpass his epic Immortal Hulk run: ‘I have to try’](https://www.polygon.com/23727109/immortal-thor-vs-immortal-hulk-al-ewing-interview)
- - [Zelda: Tears of the Kingdom duplication glitch breaks the game &lpar;in your favor&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726961/zelda-tears-of-the-kingdom-duplication-glitch-how-to-guide)<!-- GAME:END -->
+ - [How to get the paraglider in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23708581/paraglider-how-to-unlock)
+ - [&#39;90s MMOs came up with the most painful game mechanic of all time, and it&#39;s somehow still in use today](https://www.pcgamer.com/90s-mmos-came-up-with-the-most-painful-game-mechanic-of-all-time-and-its-somehow-still-in-use-today)
+ - [How to get the Frostbite Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726392/frostbite-armor-set-locations-head-chest-legs-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
