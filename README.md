@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [X2 is the only X-Men movie that ever really nailed the X-formula](https://www.polygon.com/23725612/why-x2-is-the-best-x-men-movie-20-year-anniversary)
- - [You’re Invited: PlayStation Showcase broadcasts live next Wednesday, May 24 at 1pm Pacific Time](https://blog.playstation.com/2023/05/17/youre-invited-playstation-showcase-broadcasts-live-next-wednesday-may-24-at-1pm-pacific-time/)
- - [The Pac-Man battle royale game is shutting down](https://www.polygon.com/23726800/pac-man-99-shutting-down-nintendo-switch-online)<!-- GAME:END -->
+ - [Call of Duty Endowment – Helping Veterans Find High Quality Careers and How You Can Help](https://news.xbox.com/en-us/2023/05/17/call-of-duty-endowment-helps-veterans-find-jobs/)
+ - [Hands-on test: Philips Evnia gaming peripherals](https://www.pcgamer.com/hands-on-test-philips-evnia-gaming-peripherals)
+ - [Morok Shrine ‘A Bouncy Device’ solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23702719/morok-shrine-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
