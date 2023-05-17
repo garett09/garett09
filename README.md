@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That family really needs to hit the breaks already](http://9gag.com/gag/aGEGAqK)
- - 🚯 [30 billion dollars or your mental sanity?](http://9gag.com/gag/aKE8WoQ)
- - 🚯 [I&#39;ve been using the gate wrong the whole time!](http://9gag.com/gag/a4oA2M1)<!-- MEMES:END -->
+ - 🚖 [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)
+ - 🚯 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)
+ - 🚯 [Turkish coffee!](http://9gag.com/gag/a8qeeY1)<!-- MEMES:END -->
 
 --- 
 
