@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Diablo IV. A 70\u20ac game. 80\u20ac for consoles.](http://9gag.com/gag/aeQxZ1q)
- - 🚯 [She\u2019s very protective](http://9gag.com/gag/aXn7NVb)
+ - 🚖 [Rusty Trombone](http://9gag.com/gag/aL1A4e6)
+ - 🚯 [The real legendary men in our time](http://9gag.com/gag/ay21W58)
  - 🚯 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
 
 --- 
