@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shake it off](http://9gag.com/gag/a2KDwmd)
- - 🚯 [The real legendary men in our time](http://9gag.com/gag/ay21W58)
- - 🚯 [Alright captain, first laugh about it. And after laughing, please explain](http://9gag.com/gag/axoOWVD)<!-- MEMES:END -->
+ - 🚖 [Nani?!?!](http://9gag.com/gag/aEqWoQo)
+ - 🚯 [And here we have the complete 9gag comment section](http://9gag.com/gag/ay21WdV)
+ - 🚯 [Firefighters](http://9gag.com/gag/aXn7NK6)<!-- MEMES:END -->
 
 --- 
 
