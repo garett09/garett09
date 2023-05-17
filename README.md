@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relax life](http://9gag.com/gag/aNwB4mG)
+ - 🚖 [Imagine being such a Karen even your lungs and vocal cords refuse to work with you anymore](http://9gag.com/gag/amAx6j2)
  - 🚯 [Quick and easy sheep and lamb sorting](http://9gag.com/gag/aOx94W6)
- - 🚯 [Solid burn](http://9gag.com/gag/armx3Ld)<!-- MEMES:END -->
+ - 🚯 [Champion acrobatics base is a real life Luisa from Encanto. She&#39;s so strong she is redefining the sport and creating brand new moves.](http://9gag.com/gag/aXn7M1V)<!-- MEMES:END -->
 
 --- 
 
