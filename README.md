@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All-in-one PDF Editor for macOS &amp; iOS, an alternative to PDF Expert: UPDF &lpar;54% off&rpar;](https://appleinsider.com/articles/23/05/18/all-in-one-pdf-editor-for-macos-ios-an-alternative-to-pdf-expert-updf-54-off?utm_medium=rss)
- - [Q&amp;A with FBI&#39;s Bryan Smith on how the agency generated over 300 decryption keys from Hive&#39;s servers and gave them to victims, saving ~$130M in ransom payments &lpar;The Record&rpar;](http://www.techmeme.com/230518/p12#a230518p12)
- - [How Can Companies Recycle Clothes Back Into Clothes?](https://www.wired.com/story/polyester-recycling/)<!-- TECH:END -->
+ - [Alibaba reports Q4 revenue up 2% YoY to ~$30B, ~$3.2B net income, up from a ~$2.6B loss in Q4 2022, and plans to spin off its cloud unit and take others public &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/230518/p16#a230518p16)
+ - [You Don’t Need Tech to Get Swole &lpar;but It Helps&rpar;](https://www.wired.com/story/gadget-lab-podcast-598/)
+ - [What is bio-oil, and why does Big Tech think it can fight climate change?](https://www.theverge.com/2023/5/18/23727327/bio-oil-climate-change-charm-industrial-frontier-meta-stripe-alphabet-shopify)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
