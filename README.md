@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at the impact of LLMs on music and recording artists, reflecting on Vocaloid&#39;s first software in 2004, Hatsune Miku, Drake, and Louis Armstrong &lpar;Jaime Brooks/The Seat of Loss&rpar;](http://www.techmeme.com/230518/p6#a230518p6)
- - [Do you watch YouTube on a TV? Get ready for longer, unskippable ads](https://www.androidauthority.com/youtube-tv-ads-3326320/)
- - [A UK Treasury Committee crypto report recommends the government regulate trading and investment in unbacked crypto as gambling instead of a financial service &lpar;Huw Jones/Reuters&rpar;](http://www.techmeme.com/230518/p5#a230518p5)<!-- TECH:END -->
+ - [A look at Nigeria&#39;s government-backed digital currency, eNaira, which has failed to convert crypto users and has been hindered by limited internet access &lpar;Temitayo Lawal/Rest of World&rpar;](http://www.techmeme.com/230518/p7#a230518p7)
+ - [Sony’s Access controller has a PS5 accessibility UI and virtual controller feature](https://www.theverge.com/2023/5/18/23728143/sony-access-controller-ps5-accessibility-ui-features)
+ - [An in-depth look at the impact of LLMs on music and recording artists, reflecting on Vocaloid&#39;s first software in 2004, Hatsune Miku, Drake, and Louis Armstrong &lpar;Jaime Brooks/The Seat of Loss&rpar;](http://www.techmeme.com/230518/p6#a230518p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
