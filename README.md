@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [System Shock 2 Enhanced Edition shows off a major visual upgrade in new screens: &#39;All cinematics, textures, characters and weapon models have been updated&#39;](https://www.pcgamer.com/system-shock-2-enhanced-edition-shows-off-a-major-visual-upgrade-in-new-screens-all-cinematics-textures-characters-and-weapon-models-have-been-updated)
- - [Surprise! Supraland: Six Inches Under Is Out Today on Xbox with Game Pass](https://news.xbox.com/en-us/2023/05/18/supraland-six-inches-under-out-today-on-xbox/)
- - [Co-op survival game Nightingale delayed again](https://www.pcgamer.com/co-op-survival-game-nightingale-delayed-again)<!-- GAME:END -->
+ - [Josiu Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728701/josiu-shrine-solution-north-necluda-sky-crystal-puzzle-chest)
+ - [Monster Hunter World: Iceborne board game launches and quickly funds on Kickstarter](https://www.polygon.com/23728983/monster-hunter-world-iceborne-kickstarter-layoffs-steamforged)
+ - [This woman married 63 people in Stardew Valley, including, uh, Zoro from One Piece, and she refuses to stop there](https://www.pcgamer.com/this-woman-married-63-people-in-stardew-valley-including-uh-zoro-from-one-piece-and-she-refuses-to-stop-there)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
