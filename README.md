@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone in the Fast and Furious Family has two key traits](https://www.polygon.com/23725611/fast-furious-cast-family-characters)
- - [Google released a .zip web domain and people can&#39;t decide if it&#39;s the phishing apocalypse or just as bad as any other dodgy link](https://www.pcgamer.com/google-released-a-zip-web-domain-and-people-cant-decide-if-its-the-phishing-apocalypse-or-just-as-bad-as-any-other-dodgy-link)
- - [Lord of the Rings Online &#39;is not going away&#39; just because Amazon&#39;s making a Lord of the Rings MMO: &#39;It is beloved, it is sixteen, it is evergreen&#39;](https://www.pcgamer.com/lord-of-the-rings-online-is-not-going-away-just-because-amazons-making-a-lord-of-the-rings-mmo-it-is-beloved-it-is-sixteen-it-is-evergreen)<!-- GAME:END -->
+ - [Nimona’s first Netflix teaser goes all-in on mocking Disney](https://www.polygon.com/23727457/nimona-first-teaser-netflix-animation)
+ - [Pokémon Go’s new Shadow Raids will give players a second shot at Shadow Legendaries](https://www.polygon.com/23727416/pokemon-go-shadow-raids-team-go-rocket-shadow-mewtwo-shiny)
+ - [Nvidia&#39;s $299 RTX 4060 means we&#39;re finally getting a next-gen GPU that costs less than the graphics card it&#39;s replacing](https://www.pcgamer.com/nvidias-dollar299-rtx-4060-means-were-finally-getting-a-next-gen-gpu-that-costs-less-than-the-graphics-card-its-replacing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
