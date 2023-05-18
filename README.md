@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: This Tears Of The Kingdom Paraglider Trick Basically Lets You Fly Forever](https://kotaku.com/tears-of-the-kingdom-paraglider-zonai-wing-stamina-1850449923)
- - [Gemimik Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727605/gemimik-shrine-solution-puzzle-chest)
- - [Xbox Celebrates Commitment to Accessibility on Global Accessibility Awareness Day 2023](https://news.xbox.com/en-us/2023/05/18/xbox-celebrates-commitment-to-accessibility/)<!-- GAME:END -->
+ - [Inkbound lays the groundwork for a great co-op roguelike](https://www.polygon.com/reviews/23728516/inkbound-review-release-date-roguelike-pc)
+ - [The Epic Store&#39;s 2023 Mega Sale kicks off with a free copy of Death Stranding for everyone](https://www.pcgamer.com/the-epic-stores-2023-mega-sale-kicks-off-with-a-free-copy-of-death-stranding-for-everyone)
+ - [Champion’s Leathers location in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728527/champions-leathers-tunic-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
