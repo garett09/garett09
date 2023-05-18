@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [E-scooter going nearly 100km/h on highway](http://9gag.com/gag/aREv2K5)
- - 🚯 [I&#39;m from Poland](http://9gag.com/gag/aA0MXjp)
- - 🚯 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)<!-- MEMES:END -->
+ - 🚖 [Really, how difficult can it be to make a deduction here](http://9gag.com/gag/a8qew4d)
+ - 🚯 [Girl\u2019s hot](http://9gag.com/gag/aDYbMDG)
+ - 🚯 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)<!-- MEMES:END -->
 
 --- 
 
