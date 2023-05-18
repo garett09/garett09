@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Actual King](http://9gag.com/gag/aDYbX7O)
- - 🚯 [Aaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/aZDEzeX)
- - 🚯 [Great move](http://9gag.com/gag/aoKxLnw)<!-- MEMES:END -->
+ - 🚖 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)
+ - 🚯 [I did not add the song](http://9gag.com/gag/amAxx9y)
+ - 🚯 [Turkish coffee!](http://9gag.com/gag/a8qeeY1)<!-- MEMES:END -->
 
 --- 
 
