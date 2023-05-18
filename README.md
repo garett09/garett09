@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Matzah brawl: Jewish moms judge The Sims&#39; latest culinary addition](https://www.pcgamer.com/the-matzah-brawl-jewish-moms-judge-the-sims-latest-culinary-addition)
- - [How to beat the Sludge Like boss in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728569/sludge-like-boss-beat-defeat)
- - [How to use the ‘watery bridge’ to find the Land of the Sky Fish in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728625/watery-bridge-land-of-the-sky-fish-droplet)<!-- GAME:END -->
+ - [You can download ChatGPT on iOS for free right now](https://www.polygon.com/23728946/openai-chatgpt-ios-app-announcement-free)
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
+ - [How to find the Giant White Stallion in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728443/giant-white-stallion-horse-god-find-tame)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
