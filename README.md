@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I did not add the song](http://9gag.com/gag/amAxx9y)
- - 🚯 [Nice](http://9gag.com/gag/aA0M2wp)
- - 🚯 [You will be a sardine](http://9gag.com/gag/aDYbOq7)<!-- MEMES:END -->
+ - 🚖 [Hope this women finds peace in her life](http://9gag.com/gag/awZOLRB)
+ - 🚯 [People make jokes about the guns and health care costs, but their tipping culture is beyond crazy for me.....](http://9gag.com/gag/amAx62d)
+ - 🚯 [That&#39;s... a long time!](http://9gag.com/gag/a7q9peq)<!-- MEMES:END -->
 
 --- 
 
