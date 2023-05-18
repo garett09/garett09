@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope this women finds peace in her life](http://9gag.com/gag/awZOLRB)
- - 🚯 [People make jokes about the guns and health care costs, but their tipping culture is beyond crazy for me.....](http://9gag.com/gag/amAx62d)
+ - 🚖 [Her smile...](http://9gag.com/gag/anzxEoE)
+ - 🚯 [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)
  - 🚯 [That&#39;s... a long time!](http://9gag.com/gag/a7q9peq)<!-- MEMES:END -->
 
 --- 
