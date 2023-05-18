@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to migrate 1% of Chrome users to Privacy Sandbox and disable third-party cookies for them in Q1 2024 and deprecate third-party cookies in H2 2024 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230518/p18#a230518p18)
- - [Nimona’s new teaser trailer promises a punk fairy tale full of mayhem and magic](https://www.theverge.com/2023/5/18/23728236/nimona-teaser-trailer)
- - [The Daring Robot Surgery That Saved a Man’s Life](https://www.wired.com/story/proximie-remote-surgery-nhs/)<!-- TECH:END -->
+ - [Google’s turning off third-party cookies for 1 percent of Chrome users early next year](https://www.theverge.com/2023/5/18/23728263/google-chrome-ad-tracking-third-party-cookies-privacy-sandbox)
+ - [9 Best Action Cameras &lpar;2023&rpar;: Underwater, 360, Compact, and More](https://www.wired.com/gallery/best-action-cameras/)
+ - [10 Best Game Controllers &lpar;2023&rpar;: PC, Switch, PS5, Xbox, Accessibility](https://www.wired.com/gallery/best-game-controllers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
