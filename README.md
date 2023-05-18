@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Josiu Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728701/josiu-shrine-solution-north-necluda-sky-crystal-puzzle-chest)
- - [Monster Hunter World: Iceborne board game launches and quickly funds on Kickstarter](https://www.polygon.com/23728983/monster-hunter-world-iceborne-kickstarter-layoffs-steamforged)
- - [This woman married 63 people in Stardew Valley, including, uh, Zoro from One Piece, and she refuses to stop there](https://www.pcgamer.com/this-woman-married-63-people-in-stardew-valley-including-uh-zoro-from-one-piece-and-she-refuses-to-stop-there)<!-- GAME:END -->
+ - [What is the Ring Garland in Zelda: Tears of the Kingdom?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23695578/ring-garland-collectable-locations-list)
+ - [Florida Gov. DeSantis Just Fumbled $1 Billion In Fight Against Disney](https://kotaku.com/disney-world-iger-desantis-war-facility-canceled-plans-1850451862)
+ - [Ishokin Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23729010/ishokin-shrine-ride-the-giant-horse-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
