@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess who is $150k in debt](http://9gag.com/gag/aBdEEK1)
- - 🚯 [Relax life](http://9gag.com/gag/aNwB4mG)
- - 🚯 [It is just training, if you pass we will pay you 400 USD/month](http://9gag.com/gag/aDYb8e9)<!-- MEMES:END -->
+ - 🚖 [E-scooter going nearly 100km/h on highway](http://9gag.com/gag/aREv2K5)
+ - 🚯 [Our american brothers, please stop doing that](http://9gag.com/gag/a7q9VOb)
+ - 🚯 [Her smile...](http://9gag.com/gag/anzxEoE)<!-- MEMES:END -->
 
 --- 
 
