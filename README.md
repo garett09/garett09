@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)
- - 🚯 [Helpful back stretches for everyone](http://9gag.com/gag/aYVM1Oq)
- - 🚯 [Relax life](http://9gag.com/gag/aNwB4mG)<!-- MEMES:END -->
+ - 🚖 [I did not add the song](http://9gag.com/gag/amAxx9y)
+ - 🚯 [Nice](http://9gag.com/gag/aA0M2wp)
+ - 🚯 [You will be a sardine](http://9gag.com/gag/aDYbOq7)<!-- MEMES:END -->
 
 --- 
 
