@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relax life](http://9gag.com/gag/aNwB4mG)
- - 🚯 [Netflix movie Queen Cleopatra is now officially broken the record as the worst rating movie. Just because Netflix placed the word DOCUMENTARY, the entire egypt is angry to protect their history that Cleopatra is white. Egypt is suing Netflix for 2 billion dollars.](http://9gag.com/gag/a8qezGZ)
- - 🚯 [I did not add the song](http://9gag.com/gag/amAxx9y)<!-- MEMES:END -->
+ - 🚖 [Somehow this is terrifying to me.](http://9gag.com/gag/ap9xYmD)
+ - 🚯 [I did not add the song](http://9gag.com/gag/amAxx9y)
+ - 🚯 [Her smile...](http://9gag.com/gag/anzxEoE)<!-- MEMES:END -->
 
 --- 
 
