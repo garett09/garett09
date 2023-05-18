@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [North Lomei Labyrinth, shrine solutions in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23694023/north-lomei-labyrinth-mayaotaki-tenbez-shrine-solution-puzzle-maze)
- - [GTA VI Publisher Suggests 2024 Will Be A Very Profitable Year &lpar;Wink, Wink&rpar;](https://kotaku.com/gta-6-vi-release-date-rockstar-take-two-2k-fiscal-2024-1850447846)
- - [Fire Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717297/fire-temple-walkthrough-dungeon-locks-locations-marbled-gohma-boss)<!-- GAME:END -->
+ - [Kikakin Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727775/kikakin-shrine-solution-puzzle-chests-shining-in-darkness)
+ - [Joju-u-u Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727774/joju-u-u-shrine-solution-building-bridges-chest-puzzle)
+ - [How to get the Time Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727304/time-armor-set-locations-head-chest-legs-get-ocarina)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
