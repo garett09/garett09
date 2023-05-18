@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV finally gets multiview for live sports](https://www.theverge.com/2023/5/18/23728752/apple-tv-multiview-live-sports-tvos-update)
- - [Instawork, a marketplace that connects hourly workers with employers, raised a $60M Series D at a valuation of $760M, bringing its total funding to $160M &lpar;Emmy Lucas/Forbes&rpar;](http://www.techmeme.com/230518/p25#a230518p25)
- - [The Looming El Niño Could Cost the World Trillions of Dollars](https://www.wired.com/story/the-looming-el-nino-could-cost-the-world-trillions-of-dollars/)<!-- TECH:END -->
+ - [The deal is back: Pay just $29.99 for Microsoft Office Professional 2021](https://www.androidauthority.com/microsoft-office-deal-3270908/)
+ - [The 16 Best Movies on HBO Max Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+ - [Google might delete your Gmail account if you haven’t logged in for two years](https://www.theverge.com/2023/5/16/23725438/google-gmail-deleting-inactive-accounts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
