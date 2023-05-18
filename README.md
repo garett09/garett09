@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pete Buttigieg Loves God, Beer, and His Electric Mustang](https://www.wired.com/story/pete-buttigieg-interview-god-beer-electric-mustang/)
- - [An investigation finds only ~$15M in donations to OpenAI when the organization was a nonprofit are definitively traceable to Elon Musk, below $50M-$100M claims &lpar;Mark Harris/TechCrunch&rpar;](http://www.techmeme.com/230518/p10#a230518p10)
- - [Google to start purging inactive accounts &lpar;Update: Not ones with YouTube videos&rpar;](https://www.androidauthority.com/google-account-deletion-3325245/)<!-- TECH:END -->
+ - [All-in-one PDF Editor for macOS &amp; iOS, an alternative to PDF Expert: UPDF &lpar;54% off&rpar;](https://appleinsider.com/articles/23/05/18/all-in-one-pdf-editor-for-macos-ios-an-alternative-to-pdf-expert-updf-54-off?utm_medium=rss)
+ - [Q&amp;A with FBI&#39;s Bryan Smith on how the agency generated over 300 decryption keys from Hive&#39;s servers and gave them to victims, saving ~$130M in ransom payments &lpar;The Record&rpar;](http://www.techmeme.com/230518/p12#a230518p12)
+ - [How Can Companies Recycle Clothes Back Into Clothes?](https://www.wired.com/story/polyester-recycling/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
