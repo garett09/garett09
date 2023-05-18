@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Montana Governor Greg Gianforte signs the country&#39;s first bill that bans TikTok in a state, set to go into effect on January 1, 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230517/p35#a230517p35)
- - [TikTok is now banned in Montana](https://www.theverge.com/2023/5/17/23686294/montana-tiktok-ban-signed-governor-gianforte-court)
- - [Netflix says its ad tier has nearly 5M global MAUs, with a median age of 34, six months after launch, and makes up 25%+ of signups in countries with the option &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/230517/p34#a230517p34)<!-- TECH:END -->
+ - [Grayscale says the US SEC warned that the Filecoin token meets the definition of a security and asked Grayscale to withdraw its Filecoin Trust application &lpar;CoinDesk&rpar;](http://www.techmeme.com/230517/p37#a230517p37)
+ - [Montana bans Telegram, WeChat, and Temu from government devices](https://www.theverge.com/2023/5/17/23727750/montana-bans-telegram-temu-wechat-other-bytedance-apps-government-devices-tiktok)
+ - [Apple TV+ dramedy &#39;Physical&#39; returns for its third and final season in August](https://appleinsider.com/articles/23/05/17/apple-tv-dramedy-physical-returns-for-its-third-and-final-season-in-august?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
