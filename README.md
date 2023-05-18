@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The bell at Chion-in in Kyoto was cast in 1636 and weighs 70 tons](http://9gag.com/gag/aOx99ED)
- - 🚯 [Johnny Depp gets a standing ovation at Cannes.](http://9gag.com/gag/aYVMAW0)
- - 🚯 [Nobody will notice](http://9gag.com/gag/axoOP6Y)<!-- MEMES:END -->
+ - 🚖 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)
+ - 🚯 [Could that solve the problem?](http://9gag.com/gag/aNwBR3v)
+ - 🚯 [Student forgets to mute mic while on zoom - Teacher claps back with clarification.](http://9gag.com/gag/aPgeXyK)<!-- MEMES:END -->
 
 --- 
 
