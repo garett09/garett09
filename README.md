@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [London stuff innit](http://9gag.com/gag/ap9xA69)
- - 🚯 [Lol](http://9gag.com/gag/a6qBGw8)
- - 🚯 [If they didn&#39;t have double standards, there&#39;d be no standards at all](http://9gag.com/gag/adPxo4N)<!-- MEMES:END -->
+ - 🚖 [Nice](http://9gag.com/gag/aA0M2wp)
+ - 🚯 [I did not add the song](http://9gag.com/gag/amAxx9y)
+ - 🚯 [Her smile...](http://9gag.com/gag/anzxEoE)<!-- MEMES:END -->
 
 --- 
 
