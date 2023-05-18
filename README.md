@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supreme Court rules against reexamining Section 230](https://www.theverge.com/2023/5/18/23728423/supreme-court-section-230-gonzalez-google-twitter-taamneh-ruling)
- - [SCOTUS declines to address Section 230 protections in Gonzalez v. Google and shields Twitter from liability for terror-related content in Twitter v. Taamneh &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/230518/p20#a230518p20)
- - [All-in-one PDF Editor for macOS &amp; iOS, an alternative to PDF Expert: UPDF &lpar;54% off&rpar;](https://appleinsider.com/articles/23/05/18/all-in-one-pdf-editor-for-macos-ios-an-alternative-to-pdf-expert-updf-54-off?utm_medium=rss)<!-- TECH:END -->
+ - [Meta outlines its RSC supercomputer and work on two chips: MTIA to train and run AI models, set for release in 2025, and MSVP, to accelerate video workloads &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230518/p22#a230518p22)
+ - [Supreme Court overturns ruling holding platforms responsible for users&#39; criminal activity](https://appleinsider.com/articles/23/05/18/supreme-court-overturns-ruling-holding-platforms-responsible-for-users-criminal-activity?utm_medium=rss)
+ - [Matter 1.1 is here, and it’s not exciting](https://www.theverge.com/2023/5/18/23728495/matter-releases-1dot1-smart-home-standard)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
