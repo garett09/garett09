@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The deal is back: Pay just $29.99 for Microsoft Office Professional 2021](https://www.androidauthority.com/microsoft-office-deal-3270908/)
- - [The 16 Best Movies on HBO Max Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Google might delete your Gmail account if you haven’t logged in for two years](https://www.theverge.com/2023/5/16/23725438/google-gmail-deleting-inactive-accounts)<!-- TECH:END -->
+ - [Apple&#39;s latest iOS, iPadOS, macOS updates fixed an actively used exploit](https://appleinsider.com/articles/23/05/18/apples-latest-ios-ipados-macos-updates-fixed-an-actively-used-exploit?utm_medium=rss)
+ - [Twitter now lets Blue subscribers upload two-hour videos](https://www.theverge.com/2023/5/18/23728787/twitter-blue-subscribers-two-hour-videos)
+ - [ASUS Zenfone 10: Everything we know so far](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
