@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta outlines its RSC supercomputer and work on two chips: MTIA to train and run AI models, set for release in 2025, and MSVP, to accelerate video workloads &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230518/p22#a230518p22)
- - [Supreme Court overturns ruling holding platforms responsible for users&#39; criminal activity](https://appleinsider.com/articles/23/05/18/supreme-court-overturns-ruling-holding-platforms-responsible-for-users-criminal-activity?utm_medium=rss)
- - [Matter 1.1 is here, and it’s not exciting](https://www.theverge.com/2023/5/18/23728495/matter-releases-1dot1-smart-home-standard)<!-- TECH:END -->
+ - [The Amazfit Band 5 drops over 50% in time for the summer](https://www.androidauthority.com/amazfit-band-5-deal-3326544/)
+ - [Apple releases macOS Ventura 13.4 update](https://appleinsider.com/articles/23/05/18/apple-releases-macos-ventura-134-update?utm_medium=rss)
+ - [The first genuine Pixel 8 Pro leak is seemingly from Google itself](https://www.theverge.com/2023/5/18/23728618/google-pixel-8-pro-video-leak-design-thermometer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
