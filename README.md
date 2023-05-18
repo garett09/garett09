@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s latest iOS, iPadOS, macOS updates fixed an actively used exploit](https://appleinsider.com/articles/23/05/18/apples-latest-ios-ipados-macos-updates-fixed-an-actively-used-exploit?utm_medium=rss)
- - [Twitter now lets Blue subscribers upload two-hour videos](https://www.theverge.com/2023/5/18/23728787/twitter-blue-subscribers-two-hour-videos)
- - [ASUS Zenfone 10: Everything we know so far](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)<!-- TECH:END -->
+ - [Google Chrome will start detecting URL typos and suggest websites](https://www.androidauthority.com/google-chrome-url-typos-3326626/)
+ - [A new iMessage bug is causing issues when texting Android users](https://appleinsider.com/articles/23/05/18/a-new-imessage-bug-is-causing-issues-when-texting-android-users?utm_medium=rss)
+ - [OpenAI launches a free ChatGPT app for iOS in the US, offering the web version&#39;s features plus history sync across devices and speech input via OpenAI&#39;s Whisper &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230518/p27#a230518p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
