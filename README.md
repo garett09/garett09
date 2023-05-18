@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somehow this is terrifying to me.](http://9gag.com/gag/ap9xYmD)
- - 🚯 [I did not add the song](http://9gag.com/gag/amAxx9y)
- - 🚯 [Her smile...](http://9gag.com/gag/anzxEoE)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/a6qBGw8)
+ - 🚯 [Relax life](http://9gag.com/gag/aNwB4mG)
+ - 🚯 [I did not add the song](http://9gag.com/gag/amAxx9y)<!-- MEMES:END -->
 
 --- 
 
