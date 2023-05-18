@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess who is $150k in debt](http://9gag.com/gag/aBdEEK1)
- - 🚯 [If they didn&#39;t have double standards, there&#39;d be no standards at all](http://9gag.com/gag/adPxo4N)
- - 🚯 [Really, how difficult can it be to make a deduction here](http://9gag.com/gag/a8qew4d)<!-- MEMES:END -->
+ - 🚖 [London stuff innit](http://9gag.com/gag/ap9xA69)
+ - 🚯 [Lol](http://9gag.com/gag/a6qBGw8)
+ - 🚯 [If they didn&#39;t have double standards, there&#39;d be no standards at all](http://9gag.com/gag/adPxo4N)<!-- MEMES:END -->
 
 --- 
 
