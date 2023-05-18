@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice](http://9gag.com/gag/aA0M2wp)
- - 🚯 [I did not add the song](http://9gag.com/gag/amAxx9y)
- - 🚯 [Her smile...](http://9gag.com/gag/anzxEoE)<!-- MEMES:END -->
+ - 🚖 [Actual King](http://9gag.com/gag/aDYbX7O)
+ - 🚯 [Aaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/aZDEzeX)
+ - 🚯 [Great move](http://9gag.com/gag/aoKxLnw)<!-- MEMES:END -->
 
 --- 
 
