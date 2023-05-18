@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s Treasury Committee report recommends that the government regulate trading and investment in unbacked crypto as gambling instead of a financial service &lpar;Huw Jones/Reuters&rpar;](http://www.techmeme.com/230518/p5#a230518p5)
- - [Android 14 might add a handy feature for split-screen mode](https://www.androidauthority.com/android-14-app-pairs-split-screen-3326305/)
- - [FTX&#39;s leadership sues Sam Bankman-Fried, Gary Wang, and Nishad Singh, claiming they knew Alameda was insolvent when acquiring clearing platform Embed for ~$250M &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230518/p4#a230518p4)<!-- TECH:END -->
+ - [An in-depth look at the impact of LLMs on music and recording artists, reflecting on Vocaloid&#39;s first software in 2004, Hatsune Miku, Drake, and Louis Armstrong &lpar;Jaime Brooks/The Seat of Loss&rpar;](http://www.techmeme.com/230518/p6#a230518p6)
+ - [Do you watch YouTube on a TV? Get ready for longer, unskippable ads](https://www.androidauthority.com/youtube-tv-ads-3326320/)
+ - [A UK Treasury Committee crypto report recommends the government regulate trading and investment in unbacked crypto as gambling instead of a financial service &lpar;Huw Jones/Reuters&rpar;](http://www.techmeme.com/230518/p5#a230518p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
