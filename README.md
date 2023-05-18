@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Really, how difficult can it be to make a deduction here](http://9gag.com/gag/a8qew4d)
- - 🚯 [Girl\u2019s hot](http://9gag.com/gag/aDYbMDG)
- - 🚯 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)<!-- MEMES:END -->
+ - 🚖 [Netflix movie Queen Cleopatra is now officially broken the record as the worst rating movie. Just because Netflix placed the word DOCUMENTARY, the entire egypt is angry to protect their history that Cleopatra is white. Egypt is suing Netflix for 2 billion dollars.](http://9gag.com/gag/a8qezGZ)
+ - 🚯 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
+ - 🚯 [Nice](http://9gag.com/gag/aA0M2wp)<!-- MEMES:END -->
 
 --- 
 
