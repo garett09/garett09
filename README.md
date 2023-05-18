@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba reports Q4 revenue up 2% YoY to ~$30B, ~$3.2B net income, up from a ~$2.6B loss in Q4 2022, and plans to spin off its cloud unit and take others public &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/230518/p16#a230518p16)
- - [You Don’t Need Tech to Get Swole &lpar;but It Helps&rpar;](https://www.wired.com/story/gadget-lab-podcast-598/)
- - [What is bio-oil, and why does Big Tech think it can fight climate change?](https://www.theverge.com/2023/5/18/23727327/bio-oil-climate-change-charm-industrial-frontier-meta-stripe-alphabet-shopify)<!-- TECH:END -->
+ - [Google plans to migrate 1% of Chrome users to Privacy Sandbox and disable third-party cookies for them in Q1 2024 and deprecate third-party cookies in H2 2024 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230518/p18#a230518p18)
+ - [Nimona’s new teaser trailer promises a punk fairy tale full of mayhem and magic](https://www.theverge.com/2023/5/18/23728236/nimona-teaser-trailer)
+ - [The Daring Robot Surgery That Saved a Man’s Life](https://www.wired.com/story/proximie-remote-surgery-nhs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
