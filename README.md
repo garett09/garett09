@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can download ChatGPT on iOS for free right now](https://www.polygon.com/23728946/openai-chatgpt-ios-app-announcement-free)
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games)
- - [How to find the Giant White Stallion in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728443/giant-white-stallion-horse-god-find-tame)<!-- GAME:END -->
+ - [System Shock 2 Enhanced Edition shows off a major visual upgrade in new screens: &#39;All cinematics, textures, characters and weapon models have been updated&#39;](https://www.pcgamer.com/system-shock-2-enhanced-edition-shows-off-a-major-visual-upgrade-in-new-screens-all-cinematics-textures-characters-and-weapon-models-have-been-updated)
+ - [Surprise! Supraland: Six Inches Under Is Out Today on Xbox with Game Pass](https://news.xbox.com/en-us/2023/05/18/supraland-six-inches-under-out-today-on-xbox/)
+ - [Co-op survival game Nightingale delayed again](https://www.pcgamer.com/co-op-survival-game-nightingale-delayed-again)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
