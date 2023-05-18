@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Amazfit Band 5 drops over 50% in time for the summer](https://www.androidauthority.com/amazfit-band-5-deal-3326544/)
- - [Apple releases macOS Ventura 13.4 update](https://appleinsider.com/articles/23/05/18/apple-releases-macos-ventura-134-update?utm_medium=rss)
- - [The first genuine Pixel 8 Pro leak is seemingly from Google itself](https://www.theverge.com/2023/5/18/23728618/google-pixel-8-pro-video-leak-design-thermometer)<!-- TECH:END -->
+ - [Apple TV finally gets multiview for live sports](https://www.theverge.com/2023/5/18/23728752/apple-tv-multiview-live-sports-tvos-update)
+ - [Instawork, a marketplace that connects hourly workers with employers, raised a $60M Series D at a valuation of $760M, bringing its total funding to $160M &lpar;Emmy Lucas/Forbes&rpar;](http://www.techmeme.com/230518/p25#a230518p25)
+ - [The Looming El Niño Could Cost the World Trillions of Dollars](https://www.wired.com/story/the-looming-el-nino-could-cost-the-world-trillions-of-dollars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
