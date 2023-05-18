@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Breakfast Can Wait](http://9gag.com/gag/a3Z82X7)
- - 🚯 [Relax life](http://9gag.com/gag/aNwB4mG)
- - 🚯 [Helpful back stretches for everyone](http://9gag.com/gag/aYVM1Oq)<!-- MEMES:END -->
+ - 🚖 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)
+ - 🚯 [Could that solve the problem?](http://9gag.com/gag/aNwBR3v)
+ - 🚯 [Turkish coffee!](http://9gag.com/gag/a8qeeY1)<!-- MEMES:END -->
 
 --- 
 
