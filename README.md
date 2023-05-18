@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)
- - 🚯 [Could that solve the problem?](http://9gag.com/gag/aNwBR3v)
- - 🚯 [Student forgets to mute mic while on zoom - Teacher claps back with clarification.](http://9gag.com/gag/aPgeXyK)<!-- MEMES:END -->
+ - 🚖 [Nice](http://9gag.com/gag/aA0M2wp)
+ - 🚯 [Worst trade deal in the history of trade deals](http://9gag.com/gag/aNwBBb6)
+ - 🚯 [Didn&#39;t Roger that](http://9gag.com/gag/a4oA2gA)<!-- MEMES:END -->
 
 --- 
 
