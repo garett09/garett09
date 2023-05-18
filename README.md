@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;re going to start getting Epic Rewards points on the Epic Games Store](https://www.pcgamer.com/epic-rewards-announcement)
- - [UK chancellor wags his finger at CMA after Activision acquisition block, urging it to &#39;understand its wider responsibilities&#39;](https://www.pcgamer.com/uk-chancellor-wags-his-finger-at-cma-after-activision-acquisition-block-urging-it-to-understand-its-wider-responsibilities)
- - [Arrows and soccer crossover in multiplayer sport title Nock, coming to PS VR2 on May 25](https://blog.playstation.com/2023/05/18/arrows-and-soccer-crossover-in-multiplayer-sport-title-nock-coming-to-ps-vr2-on-may-25/)<!-- GAME:END -->
+ - [Zelda: This Tears Of The Kingdom Paraglider Trick Basically Lets You Fly Forever](https://kotaku.com/tears-of-the-kingdom-paraglider-zonai-wing-stamina-1850449923)
+ - [Gemimik Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727605/gemimik-shrine-solution-puzzle-chest)
+ - [Xbox Celebrates Commitment to Accessibility on Global Accessibility Awareness Day 2023](https://news.xbox.com/en-us/2023/05/18/xbox-celebrates-commitment-to-accessibility/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
