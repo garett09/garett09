@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nimona’s first Netflix teaser goes all-in on mocking Disney](https://www.polygon.com/23727457/nimona-first-teaser-netflix-animation)
- - [Pokémon Go’s new Shadow Raids will give players a second shot at Shadow Legendaries](https://www.polygon.com/23727416/pokemon-go-shadow-raids-team-go-rocket-shadow-mewtwo-shiny)
- - [Nvidia&#39;s $299 RTX 4060 means we&#39;re finally getting a next-gen GPU that costs less than the graphics card it&#39;s replacing](https://www.pcgamer.com/nvidias-dollar299-rtx-4060-means-were-finally-getting-a-next-gen-gpu-that-costs-less-than-the-graphics-card-its-replacing)<!-- GAME:END -->
+ - [Mortal Kombat Reboots Again, New Game Reimagines Iconic Characters](https://kotaku.com/mortal-kombat-1-reboot-release-date-early-access-ps5-1850449262)
+ - [To All the Boys’ spinoff XO, Kitty is Degrassi with a K-drama makeover](https://www.polygon.com/23727325/xo-kitty-all-boys-review-netflix)
+ - [Let’s talk about Ant-Man and the Wasp: Quantumania’s two post-credits scenes](https://www.polygon.com/23599253/ant-man-wasp-quantumania-post-credits-scenes-kangs-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
