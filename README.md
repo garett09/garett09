@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inkbound lays the groundwork for a great co-op roguelike](https://www.polygon.com/reviews/23728516/inkbound-review-release-date-roguelike-pc)
- - [The Epic Store&#39;s 2023 Mega Sale kicks off with a free copy of Death Stranding for everyone](https://www.pcgamer.com/the-epic-stores-2023-mega-sale-kicks-off-with-a-free-copy-of-death-stranding-for-everyone)
- - [Champion’s Leathers location in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728527/champions-leathers-tunic-location)<!-- GAME:END -->
+ - [The Matzah brawl: Jewish moms judge The Sims&#39; latest culinary addition](https://www.pcgamer.com/the-matzah-brawl-jewish-moms-judge-the-sims-latest-culinary-addition)
+ - [How to beat the Sludge Like boss in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728569/sludge-like-boss-beat-defeat)
+ - [How to use the ‘watery bridge’ to find the Land of the Sky Fish in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728625/watery-bridge-land-of-the-sky-fish-droplet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
