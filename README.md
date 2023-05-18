@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat Reboots Again, New Game Reimagines Iconic Characters](https://kotaku.com/mortal-kombat-1-reboot-release-date-early-access-ps5-1850449262)
- - [To All the Boys’ spinoff XO, Kitty is Degrassi with a K-drama makeover](https://www.polygon.com/23727325/xo-kitty-all-boys-review-netflix)
- - [Let’s talk about Ant-Man and the Wasp: Quantumania’s two post-credits scenes](https://www.polygon.com/23599253/ant-man-wasp-quantumania-post-credits-scenes-kangs-explained)<!-- GAME:END -->
+ - [You&#39;re going to start getting Epic Rewards points on the Epic Games Store](https://www.pcgamer.com/epic-rewards-announcement)
+ - [UK chancellor wags his finger at CMA after Activision acquisition block, urging it to &#39;understand its wider responsibilities&#39;](https://www.pcgamer.com/uk-chancellor-wags-his-finger-at-cma-after-activision-acquisition-block-urging-it-to-understand-its-wider-responsibilities)
+ - [Arrows and soccer crossover in multiplayer sport title Nock, coming to PS VR2 on May 25](https://blog.playstation.com/2023/05/18/arrows-and-soccer-crossover-in-multiplayer-sport-title-nock-coming-to-ps-vr2-on-may-25/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
