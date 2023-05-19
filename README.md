@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/a6qBGw8)
- - 🚯 [How to spectacularly lose your career part II](http://9gag.com/gag/abvxQWL)
- - 🚯 [Was it the heart?](http://9gag.com/gag/anzxVoE)<!-- MEMES:END -->
+ - 🚖 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)
+ - 🚯 [Blacks rob a pregnant white lady, race grifting leftists post video out of context and get her fired. Mob harasses her... find out it was her bike the entire time.](http://9gag.com/gag/a9qmNPm)
+ - 🚯 [Home chemistry set...](http://9gag.com/gag/avQx9mE)<!-- MEMES:END -->
 
 --- 
 
