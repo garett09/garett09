@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Netflix movie Queen Cleopatra is now officially broken the record as the worst rating movie. Just because Netflix placed the word DOCUMENTARY, the entire egypt is angry to protect their history that Cleopatra is white. Egypt is suing Netflix for 2 billion dollars.](http://9gag.com/gag/a8qezGZ)
- - 🚯 [El Salvador&#39;s government has mobilized over 5,000 soldiers and 500 PNC officers to encircle a northern town after a police officer was killed there by gang members](http://9gag.com/gag/aDYbPGx)
+ - 🚖 [The Lion, The Witch, and The Audacity Of This...](http://9gag.com/gag/adPxbBN)
+ - 🚯 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)
  - 🚯 [Girl\u2019s hot](http://9gag.com/gag/aDYbMDG)<!-- MEMES:END -->
 
 --- 
