@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Chubby` discrimination \ud83d\ude22...](http://9gag.com/gag/a6qB3PL)
- - 🚯 [I&#39;d love to know how many square feet she thinks she got.](http://9gag.com/gag/aoKxq6m)
- - 🚯 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)<!-- MEMES:END -->
+ - 🚖 [That is irrelevant!](http://9gag.com/gag/aqexpVL)
+ - 🚯 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
+ - 🚯 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)<!-- MEMES:END -->
 
 --- 
 
