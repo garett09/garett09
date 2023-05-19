@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
- - 🚯 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)
- - 🚯 [How to spectacularly lose your career part II](http://9gag.com/gag/abvxQWL)<!-- MEMES:END -->
+ - 🚖 [How to spectacularly lose your career part II](http://9gag.com/gag/abvxQWL)
+ - 🚯 [Mass extinction event incoming in your garden](http://9gag.com/gag/aoKxL0w)
+ - 🚯 [Girl\u2019s hot](http://9gag.com/gag/aDYbMDG)<!-- MEMES:END -->
 
 --- 
 
