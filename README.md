@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple restricts employees from using ChatGPT over fear of data leaks](https://www.theverge.com/2023/5/19/23729619/apple-bans-chatgpt-openai-fears-data-leak)
- - [Does the Oura Ring track sleep?](https://www.androidauthority.com/oura-ring-sleep-tracking-3326399/)
- - [The best mystery podcasts to listen to in 2023](https://www.androidauthority.com/best-mystery-podcasts-3326489/)<!-- TECH:END -->
+ - [A Mysterious Group Has Ties to 15 Years of Ukraine-Russia Hacks](https://www.wired.com/story/red-stinger-ukraine-russia-espionage-hackers/)
+ - [Google Pixel 8: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
+ - [Apple restricts employees from using ChatGPT over fear of data leaks](https://www.theverge.com/2023/5/19/23729619/apple-bans-chatgpt-openai-fears-data-leak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
