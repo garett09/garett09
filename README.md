@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lowest price ever: Apple&#39;s M2 Mac mini 512GB falls to $679 &lpar;$120 off&rpar;](https://appleinsider.com/articles/23/05/19/lowest-price-ever-apples-m2-mac-mini-512gb-falls-to-679-120-off?utm_medium=rss)
- - [Samsung abandons plans to switch default search engine to Microsoft&#39;s Bing](https://appleinsider.com/articles/23/05/19/samsung-abandons-plans-to-switch-default-search-engine-to-microsofts-bing?utm_medium=rss)
- - [Inside Apple Tysons Corner&#39;s new retail store: Updated look, with nods to the past](https://appleinsider.com/articles/23/05/19/inside-apple-tysons-corners-new-retail-store-updated-look-with-nods-to-the-past?utm_medium=rss)<!-- TECH:END -->
+ - [Meta briefed some creators on Instagram&#39;s decentralized text-based app that may launch in June 2023 with a Twitter-like design, Mastodon compatibility, and more &lpar;Lia Haberman/ICYMI&rpar;](http://www.techmeme.com/230519/p13#a230519p13)
+ - [Restaurant365, which builds software for restaurant accounting, analytics, and more, raised $135M led by KKR and L Catterton, taking its total funding to $288M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230519/p12#a230519p12)
+ - [Meta Quest will now let you customize your home virtual world](https://www.theverge.com/2023/5/19/23729739/meta-quest-update-version-54-custom-skybox-2d-notifications)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
