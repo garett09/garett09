@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metro: Last Light, one of my favorite shooters ever, is free on Steam](https://www.pcgamer.com/metro-last-light-one-of-my-favorite-shooters-ever-is-free-on-steam)
- - [Diablo 4 has a two week-early &#39;launch trailer&#39; set to a Billie Eilish song that is remarkably not &#39;Bad Guy&#39;](https://www.pcgamer.com/diablo-4-has-a-two-week-early-launch-trailer-set-to-a-billie-eilish-song-that-is-remarkably-not-bad-guy)
- - [Fortnite has dropped Trios mode with zero explanation, and fans aren&#39;t happy](https://www.pcgamer.com/fortnite-has-dropped-trios-mode-with-zero-explanation-and-fans-arent-happy)<!-- GAME:END -->
+ - [Age Of Wonders 4, A New Fantasy 4X Game, Is Great](https://kotaku.com/age-of-wonders-4-paradox-4x-civ-aow-pc-strategy-steam-1850444105)
+ - [Lords of the Fallen releases in October and new footage is unashamedly Soulslike](https://www.pcgamer.com/lords-of-the-fallen-releases-in-october-and-new-footage-is-unashamedly-soulslike)
+ - [Prequel To Cult Japanese RPG Is Doing Very Nicely On Kickstarter](https://kotaku.com/jrpg-japanese-rpg-survival-sim-pc-roguelike-kickstarter-1850452378)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
