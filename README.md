@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #699: Friday, May 19](https://www.pcgamer.com/wordle-today-hint-answer-699-may-19)
- - [Following reports of chips burning out, Gigabyte says its AMD Socket AM5 SoC voltage levels are safe](https://www.pcgamer.com/following-reports-of-chips-burning-out-gigabyte-says-its-amd-socket-am5-soc-voltage-levels-are-safe)
- - [Age Of Wonders 4, A New Fantasy 4X Game, Is Great](https://kotaku.com/age-of-wonders-4-paradox-4x-civ-aow-pc-strategy-steam-1850444105)<!-- GAME:END -->
+ - [Post-apocalyptic CRPG Broken Roads can be finished as a pacifist](https://www.pcgamer.com/post-apocalyptic-crpg-broken-roads-can-be-finished-as-a-pacifist)
+ - [Linus Is Stepping Down As CEO Of Linus Media Group](https://kotaku.com/linus-tech-tips-youtube-retire-step-down-quit-ceo-pc-1850452995)
+ - [Today&#39;s Wordle hint and answer #699: Friday, May 19](https://www.pcgamer.com/wordle-today-hint-answer-699-may-19)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
