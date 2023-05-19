@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Damon Lindelof explains Mrs. Davis’ surprising finale and possible season 2 plans](https://www.polygon.com/23729013/mrs-davis-season-1-2-finale-explained)
- - [All the Fast X: Part 2 news we’ve heard so far](https://www.polygon.com/23728985/fast-x-part-2-release-date-cast-news-11-hobbs)
- - [Best gaming laptops in 2023: Portable powerhouses](https://www.pcgamer.com/best-gaming-laptop)<!-- GAME:END -->
+ - [LEGO 2K Drive – How Visual Concepts Built the Ultimate Driving Experience Out of LEGO](https://news.xbox.com/en-us/2023/05/19/lego-2k-drive-how-visual-concepts-built-the-ultimate-driving-experience-out-of-lego/)
+ - [Disney to remove Willow, Y: The Last Man, and original movies from Disney Plus and Hulu to save cash](https://www.polygon.com/23729816/disney-plus-remove-willow-movies-hulu-y-last-man)
+ - [You can buy the chrome gold Lamborghini Gallardo from Fast X](https://www.polygon.com/deals/23727365/fast-furious-x-cars-toys-replica-die-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
