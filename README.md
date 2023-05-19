@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/a6qBGw8)
- - 🚯 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)
- - 🚯 [Auto lock on](http://9gag.com/gag/a8qeK0Y)<!-- MEMES:END -->
+ - 🚖 [How to spectacularly lose your career part II](http://9gag.com/gag/abvxQWL)
+ - 🚯 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
+ - 🚯 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)<!-- MEMES:END -->
 
 --- 
 
