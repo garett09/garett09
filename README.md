@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to spectacularly lose your career part II](http://9gag.com/gag/abvxQWL)
- - 🚯 [Mass extinction event incoming in your garden](http://9gag.com/gag/aoKxL0w)
- - 🚯 [Girl\u2019s hot](http://9gag.com/gag/aDYbMDG)<!-- MEMES:END -->
+ - 🚖 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
+ - 🚯 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)
+ - 🚯 [Blacks rob a pregnant white lady, race grifting leftists post video out of context and get her fired. Mob harasses her... find out it was her bike the entire time.](http://9gag.com/gag/a9qmNPm)<!-- MEMES:END -->
 
 --- 
 
