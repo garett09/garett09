@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Mysterious Group Has Ties to 15 Years of Ukraine-Russia Hacks](https://www.wired.com/story/red-stinger-ukraine-russia-espionage-hackers/)
- - [Google Pixel 8: Everything we know and what we want to see](https://www.androidauthority.com/google-pixel-8-pro-release-date-price-specs-rumors-leaks-3267400/)
- - [Apple restricts employees from using ChatGPT over fear of data leaks](https://www.theverge.com/2023/5/19/23729619/apple-bans-chatgpt-openai-fears-data-leak)<!-- TECH:END -->
+ - [I Finally Bought a ChatGPT Plus Subscription—and It’s Worth It](https://www.wired.com/story/chatgpt-plus-web-browsing-openai/)
+ - [23 Best Memorial Day Deals: Tents, Camp Chairs, and More](https://www.wired.com/story/memorial-day-outdoor-sales-2023/)
+ - [HBO Continues to Have the Worst Timing](https://www.wired.com/story/hbo-max-launch-bad-timing-wga-strike/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
