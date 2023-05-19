@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung realized ditching Google for Bing isn’t such a great idea after all](https://www.androidauthority.com/samsung-stay-google-default-search-bing-3326988/)
- - [11 Best Projectors &lpar;2023&rpar;: Short Throw, Portable, Low Latency](https://www.wired.com/gallery/best-projectors/)
- - [Jeff Jordan, the a16z VC who joined in 2011, steps back from active investments but will continue to work with his existing portfolio and board positions &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230519/p10#a230519p10)<!-- TECH:END -->
+ - [Lowest price ever: Apple&#39;s M2 Mac mini 512GB falls to $679 &lpar;$120 off&rpar;](https://appleinsider.com/articles/23/05/19/lowest-price-ever-apples-m2-mac-mini-512gb-falls-to-679-120-off?utm_medium=rss)
+ - [Samsung abandons plans to switch default search engine to Microsoft&#39;s Bing](https://appleinsider.com/articles/23/05/19/samsung-abandons-plans-to-switch-default-search-engine-to-microsofts-bing?utm_medium=rss)
+ - [Inside Apple Tysons Corner&#39;s new retail store: Updated look, with nods to the past](https://appleinsider.com/articles/23/05/19/inside-apple-tysons-corners-new-retail-store-updated-look-with-nods-to-the-past?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
