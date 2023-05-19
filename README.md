@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Govee AI Gaming Sync Box Review: Smarter Lighting for Your Desktop](https://www.wired.com/review/govee-ai-gaming-sync-box/)
  - [The Pixel Buds Pro could get the Pixel 7’s Clear Calling feature](https://www.androidauthority.com/pixel-buds-pro-clear-calling-3326783/)
- - [France Is Fighting to Save Your iPhone From an Early Death](https://www.wired.com/story/right-to-repair-apple-france/)
- - [Highly-rated Android TV boxes on Amazon found preloaded with malware](https://www.androidauthority.com/android-tv-box-amazon-malware-3326780/)<!-- TECH:END -->
+ - [France Is Fighting to Save Your iPhone From an Early Death](https://www.wired.com/story/right-to-repair-apple-france/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
