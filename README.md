@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Lion, The Witch, and The Audacity Of This...](http://9gag.com/gag/adPxbBN)
- - 🚯 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)
- - 🚯 [Girl\u2019s hot](http://9gag.com/gag/aDYbMDG)<!-- MEMES:END -->
+ - 🚖 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
+ - 🚯 [Her smile...](http://9gag.com/gag/anzxEoE)
+ - 🚯 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)<!-- MEMES:END -->
 
 --- 
 
