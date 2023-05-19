@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Govee AI Gaming Sync Box Review: Smarter Lighting for Your Desktop](https://www.wired.com/review/govee-ai-gaming-sync-box/)
- - [The Pixel Buds Pro could get the Pixel 7’s Clear Calling feature](https://www.androidauthority.com/pixel-buds-pro-clear-calling-3326783/)
- - [France Is Fighting to Save Your iPhone From an Early Death](https://www.wired.com/story/right-to-repair-apple-france/)<!-- TECH:END -->
+ - [A look at Apple&#39;s Personal Voice, an accessibility feature that lets ALS patients digitize their voices through an iPhone, iPad, or Mac, set to release in 2023 &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230519/p1#a230519p1)
+ - [The OnePlus Fold could be a rebranded version of OPPO’s next foldable &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-fold-leak-3325791/)
+ - [Google to pay millions again to settle location tracking lawsuit](https://www.androidauthority.com/google-location-tracking-lawsuit-washington-3326807/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
