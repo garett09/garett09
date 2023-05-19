@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [E-scooter going nearly 100km/h on highway](http://9gag.com/gag/aREv2K5)
- - 🚯 [Was it the heart?](http://9gag.com/gag/anzxVoE)
+ - 🚖 [Was it the heart?](http://9gag.com/gag/anzxVoE)
+ - 🚯 [Girl\u2019s hot](http://9gag.com/gag/aDYbMDG)
  - 🚯 [How to spectacularly lose your career part II](http://9gag.com/gag/abvxQWL)<!-- MEMES:END -->
 
 --- 
