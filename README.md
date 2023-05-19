@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What to remember about the Fast and Furious movies before watching Fast X](https://www.polygon.com/23727622/fast-and-furious-movies-reminders-before-fast-x)
- - [After Tomb Raider and Final Fantasy, PowerWash Simulator&#39;s gonna hose down SpongeBob Squarepants](https://www.pcgamer.com/after-tomb-raider-and-final-fantasy-powerwash-simulators-gonna-hose-down-spongebob-squarepants)
- - [Platinum just dropped free DLC for a decade-old game](https://www.pcgamer.com/platinum-just-dropped-free-dlc-for-a-decade-old-game)<!-- GAME:END -->
+ - [Damon Lindelof explains Mrs. Davis’ surprising finale and possible season 2 plans](https://www.polygon.com/23729013/mrs-davis-season-1-2-finale-explained)
+ - [All the Fast X: Part 2 news we’ve heard so far](https://www.polygon.com/23728985/fast-x-part-2-release-date-cast-news-11-hobbs)
+ - [Best gaming laptops in 2023: Portable powerhouses](https://www.pcgamer.com/best-gaming-laptop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
