@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
- - 🚯 [Her smile...](http://9gag.com/gag/anzxEoE)
- - 🚯 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)<!-- MEMES:END -->
+ - 🚯 [Why father&#39;s are equally important to raise children](http://9gag.com/gag/agox4wv)
+ - 🚯 [How to spectacularly lose your career part II](http://9gag.com/gag/abvxQWL)<!-- MEMES:END -->
 
 --- 
 
