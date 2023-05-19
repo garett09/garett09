@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Platinum just dropped free DLC for a decade-old game](https://www.pcgamer.com/platinum-just-dropped-free-dlc-for-a-decade-old-game)
- - [I can&#39;t get enough of this railroad sim&#39;s cute and cosy vibes](https://www.pcgamer.com/i-cant-get-enough-of-this-railroad-sims-cute-and-cosy-vibes)
- - [Marvel&#39;s Midnight Suns deserved better than its terrible DLCs](https://www.pcgamer.com/marvels-midnight-suns-deserved-better-than-its-terrible-dlcs)<!-- GAME:END -->
+ - [What to remember about the Fast and Furious movies before watching Fast X](https://www.polygon.com/23727622/fast-and-furious-movies-reminders-before-fast-x)
+ - [After Tomb Raider and Final Fantasy, PowerWash Simulator&#39;s gonna hose down SpongeBob Squarepants](https://www.pcgamer.com/after-tomb-raider-and-final-fantasy-powerwash-simulators-gonna-hose-down-spongebob-squarepants)
+ - [Platinum just dropped free DLC for a decade-old game](https://www.pcgamer.com/platinum-just-dropped-free-dlc-for-a-decade-old-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
