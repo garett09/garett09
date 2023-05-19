@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That is irrelevant!](http://9gag.com/gag/aqexpVL)
- - 🚯 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)
- - 🚯 [Of course](http://9gag.com/gag/aqexB5Z)<!-- MEMES:END -->
+ - 🚖 [`Chubby` discrimination \ud83d\ude22...](http://9gag.com/gag/a6qB3PL)
+ - 🚯 [For your female coworker](http://9gag.com/gag/aBdEj8x)
+ - 🚯 [Literally me](http://9gag.com/gag/aQEmVL8)<!-- MEMES:END -->
 
 --- 
 
