@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apple&#39;s Personal Voice, an accessibility feature that lets ALS patients digitize their voices through an iPhone, iPad, or Mac, set to release in 2023 &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230519/p1#a230519p1)
- - [The OnePlus Fold could be a rebranded version of OPPO’s next foldable &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-fold-leak-3325791/)
- - [Google to pay millions again to settle location tracking lawsuit](https://www.androidauthority.com/google-location-tracking-lawsuit-washington-3326807/)<!-- TECH:END -->
+ - [Apple restricts employees from using ChatGPT over fear of data leaks](https://www.theverge.com/2023/5/19/23729619/apple-bans-chatgpt-openai-fears-data-leak)
+ - [Does the Oura Ring track sleep?](https://www.androidauthority.com/oura-ring-sleep-tracking-3326399/)
+ - [The best mystery podcasts to listen to in 2023](https://www.androidauthority.com/best-mystery-podcasts-3326489/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
