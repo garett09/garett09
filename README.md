@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s lawyer accuses Microsoft of abusing its access to Twitter data](https://www.theverge.com/2023/5/18/23729216/twitter-microsoft-api-data-sharing-elon-musk-satya-nadella)
- - [Hyundai and Kia agree to $200 million settlement over TikTok car theft challenge](https://www.theverge.com/2023/5/18/23729229/hyundai-kia-settlement-car-theft-challenge-tiktok)
- - [Apple&#39;s Rumored iPhone Flip Not Expected Until 2025     - CNET](https://www.cnet.com/tech/mobile/foldable-iphone-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A group of five TikTok creators sue to overturn Montana&#39;s law that is set to ban the app starting January 1, 2024, citing the First Amendment and more &lpar;New York Times&rpar;](http://www.techmeme.com/230518/p32#a230518p32)
+ - [Meta is working on a new chip for AI](https://www.theverge.com/2023/5/18/23728678/meta-ai-new-chip-mtia-msvp-datacenter)
+ - [Nvidia debuts the $299 GeForce RTX 4060, its cheapest 40-series card, and $499 RTX 4060 Ti 16GB, available in July; the RTX 4060 Ti 8GB ships on May 24 for $399 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230518/p31#a230518p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
