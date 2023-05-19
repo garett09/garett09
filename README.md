@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)
- - 🚯 [El Salvador&#39;s government has mobilized over 5,000 soldiers and 500 PNC officers to encircle a northern town after a police officer was killed there by gang members](http://9gag.com/gag/aDYbPGx)
- - 🚯 [That is irrelevant!](http://9gag.com/gag/aqexpVL)<!-- MEMES:END -->
+ - 🚖 [Literally me](http://9gag.com/gag/aQEmVL8)
+ - 🚯 [Auto lock on](http://9gag.com/gag/a8qeK0Y)
+ - 🚯 [I&#39;d love to know how many square feet she thinks she got.](http://9gag.com/gag/aoKxq6m)<!-- MEMES:END -->
 
 --- 
 
