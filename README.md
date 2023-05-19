@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best chargers to fast charge your Pixel Fold](https://www.androidauthority.com/best-google-pixel-fold-chargers-3322860/)
- - [Tejay Fletcher, the mastermind behind phone number spoofing service iSpoof, which scammed victims out of ~&amp;pound;100M, is sentenced to over 13 years in a UK prison &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230519/p8#a230519p8)
- - [To Save Downtowns, Destroy Them](https://www.wired.com/story/plaintext-save-downtowns-destroy-them/)<!-- TECH:END -->
+ - [Samsung realized ditching Google for Bing isn’t such a great idea after all](https://www.androidauthority.com/samsung-stay-google-default-search-bing-3326988/)
+ - [11 Best Projectors &lpar;2023&rpar;: Short Throw, Portable, Low Latency](https://www.wired.com/gallery/best-projectors/)
+ - [Jeff Jordan, the a16z VC who joined in 2011, steps back from active investments but will continue to work with his existing portfolio and board positions &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230519/p10#a230519p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
