@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shares App Store Transparency report, detailing removals &amp; data requests](https://appleinsider.com/articles/23/05/19/apple-shares-app-store-transparency-report-detailing-removals-data-requests?utm_medium=rss)
- - [The best Samsung Galaxy deals of May 2023](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
- - [Apple shares its first App Store Transparency Report with data on app rejections, government requests, more, as part of a settlement in a 2021 developer lawsuit &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230519/p15#a230519p15)<!-- TECH:END -->
+ - [Sources: Revolut is locked in a fight with top shareholder SoftBank after UK regulators told the company it must simplify its ownership to win a banking license &lpar;Financial Times&rpar;](http://www.techmeme.com/230519/p16#a230519p16)
+ - [The 42 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 46 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
