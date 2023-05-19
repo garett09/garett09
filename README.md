@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A group of five TikTok creators sue to overturn Montana&#39;s law that is set to ban the app starting January 1, 2024, citing the First Amendment and more &lpar;New York Times&rpar;](http://www.techmeme.com/230518/p32#a230518p32)
- - [Meta is working on a new chip for AI](https://www.theverge.com/2023/5/18/23728678/meta-ai-new-chip-mtia-msvp-datacenter)
- - [Nvidia debuts the $299 GeForce RTX 4060, its cheapest 40-series card, and $499 RTX 4060 Ti 16GB, available in July; the RTX 4060 Ti 8GB ships on May 24 for $399 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230518/p31#a230518p31)<!-- TECH:END -->
+ - [Apple bans internal use of ChatGPT-like tech over fear of leaks, according to leaked document](https://appleinsider.com/articles/23/05/19/apple-bans-internal-use-of-chatgpt-like-tech-over-fear-of-leaks-according-to-leaked-document?utm_medium=rss)
+ - [A look at SCOTUS&#39; rulings on Gonzalez v. Google and Twitter v. Taamneh and why explanations given for Section 230&#39;s existence could bode well for the Internet &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230518/p36#a230518p36)
+ - [Indian data analytics company Course5 Intelligence raised $28M in funding led by 360 ONE Asset Management at a valuation of $250M-$275M &lpar;Vibhuti Sharma/DealStreetAsia&rpar;](http://www.techmeme.com/230518/p35#a230518p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
