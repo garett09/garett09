@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Finally Bought a ChatGPT Plus Subscription—and It’s Worth It](https://www.wired.com/story/chatgpt-plus-web-browsing-openai/)
- - [23 Best Memorial Day Deals: Tents, Camp Chairs, and More](https://www.wired.com/story/memorial-day-outdoor-sales-2023/)
- - [HBO Continues to Have the Worst Timing](https://www.wired.com/story/hbo-max-launch-bad-timing-wga-strike/)<!-- TECH:END -->
+ - [Sony Xperia 1 V vs Samsung Galaxy S23 Ultra: Which camera flagship is better?](https://www.androidauthority.com/sony-xperia-1-v-vs-samsung-galaxy-s23-ultra-3325668/)
+ - [Dyson Airstrait Straightener Review: Straight&#39;n Shiny](https://www.wired.com/review/dyson-airstrait-straightener/)
+ - [The Hidden Dangers of the Decentralized Web](https://www.wired.com/story/the-hidden-dangers-of-the-decentralized-web/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
