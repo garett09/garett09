@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple bans internal use of ChatGPT-like tech over fear of leaks, according to leaked document](https://appleinsider.com/articles/23/05/19/apple-bans-internal-use-of-chatgpt-like-tech-over-fear-of-leaks-according-to-leaked-document?utm_medium=rss)
- - [A look at SCOTUS&#39; rulings on Gonzalez v. Google and Twitter v. Taamneh and why explanations given for Section 230&#39;s existence could bode well for the Internet &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/230518/p36#a230518p36)
- - [Indian data analytics company Course5 Intelligence raised $28M in funding led by 360 ONE Asset Management at a valuation of $250M-$275M &lpar;Vibhuti Sharma/DealStreetAsia&rpar;](http://www.techmeme.com/230518/p35#a230518p35)<!-- TECH:END -->
+ - [New York City Public Schools lifts its ban on ChatGPT and other generative AI models, and will now support educators and students to learn about and explore AI &lpar;David C. Banks/Chalkbeat New York&rpar;](http://www.techmeme.com/230518/p39#a230518p39)
+ - [Sources: ESPN is laying the groundwork to offer its TV channel as a subscription streaming service by securing flexibility in league and cable provider deals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230518/p38#a230518p38)
+ - [Sources: Apple restricts internal use of ChatGPT, GitHub Copilot, and other external AI tools due to concerns over potential leaks of confidential data &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230518/p37#a230518p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
