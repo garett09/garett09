@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Literally me](http://9gag.com/gag/aQEmVL8)
- - 🚯 [Auto lock on](http://9gag.com/gag/a8qeK0Y)
- - 🚯 [I&#39;d love to know how many square feet she thinks she got.](http://9gag.com/gag/aoKxq6m)<!-- MEMES:END -->
+ - 🚖 [`Chubby` discrimination \ud83d\ude22...](http://9gag.com/gag/a6qB3PL)
+ - 🚯 [I&#39;d love to know how many square feet she thinks she got.](http://9gag.com/gag/aoKxq6m)
+ - 🚯 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)<!-- MEMES:END -->
 
 --- 
 
