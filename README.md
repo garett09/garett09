@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 director apologizes for game’s big cancellation, explains what happened](https://www.polygon.com/23730117/overwatch-2-hero-missions-canceled-aaron-keller-blog)
- - [Overwatch 2 director says canceled PvE mode was part of an ambitious plan to one day make an Overwatch MMO](https://www.pcgamer.com/overwatch-2-director-says-canceled-pve-mode-was-part-of-an-ambitious-plan-to-one-day-make-an-overwatch-mmo)
- - [Gasas Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730080/gasas-shrine-well-timed-cuts-solution-puzzle-reward)<!-- GAME:END -->
+ - [Kyokugon Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730180/kyokugon-shrine-solution-alignment-of-circles)
+ - [New Dead by Daylight games are on the way, including one by Supermassive](https://www.polygon.com/23730199/dead-by-daylight-new-games-supermassive)
+ - [And now it&#39;s official: Nicolas Cage will play Nicolas Cage starring as Nicolas Cage in Dead by Daylight later this year](https://www.pcgamer.com/and-now-its-official-nicolas-cage-will-play-nicolas-cage-starring-as-nicolas-cage-in-dead-by-daylight-later-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
