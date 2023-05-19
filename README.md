@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Revolut is locked in a fight with top shareholder SoftBank after UK regulators told the company it must simplify its ownership to win a banking license &lpar;Financial Times&rpar;](http://www.techmeme.com/230519/p16#a230519p16)
- - [The 42 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 46 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Sources: Apollo Global and Fortress Investment are each spending ~$50M to back competing groups that aim to restart Celsius under new management &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230519/p17#a230519p17)
+ - [Coinbase One subscriptions launch as the crypto company squares off with the SEC](https://www.theverge.com/2023/5/19/23729848/coinbase-one-subscription-sec-crypto)
+ - [Apple sweeps prestigious award show with &#39;The Greatest&#39; ad &amp; other content](https://appleinsider.com/articles/23/05/19/apple-sweeps-prestigious-award-show-with-the-greatest-ad-other-content?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
