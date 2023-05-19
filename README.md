@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kyokugon Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730180/kyokugon-shrine-solution-alignment-of-circles)
- - [New Dead by Daylight games are on the way, including one by Supermassive](https://www.polygon.com/23730199/dead-by-daylight-new-games-supermassive)
- - [And now it&#39;s official: Nicolas Cage will play Nicolas Cage starring as Nicolas Cage in Dead by Daylight later this year](https://www.pcgamer.com/and-now-its-official-nicolas-cage-will-play-nicolas-cage-starring-as-nicolas-cage-in-dead-by-daylight-later-this-year)<!-- GAME:END -->
+ - [PSA: Death Stranding Is Free On PC Right Now](https://kotaku.com/death-stranding-pc-free-epic-game-store-directors-cut-1850456205)
+ - [A singleplayer Dead by Daylight game is coming from the makers of The Dark Pictures Anthology](https://www.pcgamer.com/a-singleplayer-dead-by-daylight-game-is-coming-from-the-makers-of-the-dark-pictures-anthology)
+ - [This Week on Xbox: FIFA Joins Game Pass, LEGO 2K Drive’s Launch, and More!](https://news.xbox.com/en-us/2023/05/19/this-week-on-xbox-fifa-joins-game-pass-lego-2k-drives-launch-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
