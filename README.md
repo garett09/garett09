@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)
- - 🚯 [Blacks rob a pregnant white lady, race grifting leftists post video out of context and get her fired. Mob harasses her... find out it was her bike the entire time.](http://9gag.com/gag/a9qmNPm)
- - 🚯 [Home chemistry set...](http://9gag.com/gag/avQx9mE)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/a6qBGw8)
+ - 🚯 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)
+ - 🚯 [Auto lock on](http://9gag.com/gag/a8qeK0Y)<!-- MEMES:END -->
 
 --- 
 
