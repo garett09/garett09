@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two CEO says AI-created hit games are a fantasy: &#39;Genius is the domain of human beings and I believe will stay that way&#39;](https://www.pcgamer.com/take-two-ceo-says-ai-created-hit-games-are-a-fantasy-genius-is-the-domain-of-human-beings-and-i-believe-will-stay-that-way)
- - [Two all-time greats are coming to Switch Online’s GBA collection](https://www.polygon.com/2023/5/19/23729634/switch-online-may-2023-gba-super-mario-advance)
- - [This AR laptop gives you infinite screens while having none](https://www.pcgamer.com/this-ar-laptop-gives-you-infinite-screens-while-having-none)<!-- GAME:END -->
+ - [Platinum just dropped free DLC for a decade-old game](https://www.pcgamer.com/platinum-just-dropped-free-dlc-for-a-decade-old-game)
+ - [I can&#39;t get enough of this railroad sim&#39;s cute and cosy vibes](https://www.pcgamer.com/i-cant-get-enough-of-this-railroad-sims-cute-and-cosy-vibes)
+ - [Marvel&#39;s Midnight Suns deserved better than its terrible DLCs](https://www.pcgamer.com/marvels-midnight-suns-deserved-better-than-its-terrible-dlcs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
