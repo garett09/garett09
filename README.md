@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Way To Get Tears Of the Kingdom&#39;s Hylian Rice Isn&#39;t Farming](https://kotaku.com/zelda-tears-of-the-kingdom-hylian-rice-rabella-wetlands-1850454673)
- - [Entire GameStop Store Quits On Zelda: Tears Of The Kingdom Release Day](https://kotaku.com/zelda-tears-of-the-kingdom-launch-gamestop-gme-quit-1850454969)
- - [Tears of the Kingdom: What&#39;s Worth Doing On The Way To Kakariko Village](https://kotaku.com/tears-of-the-kingdom-kakariko-village-how-to-find-map-1850454875)<!-- GAME:END -->
+ - [Overwatch 2 director apologizes for game’s big cancellation, explains what happened](https://www.polygon.com/23730117/overwatch-2-hero-missions-canceled-aaron-keller-blog)
+ - [Overwatch 2 director says canceled PvE mode was part of an ambitious plan to one day make an Overwatch MMO](https://www.pcgamer.com/overwatch-2-director-says-canceled-pve-mode-was-part-of-an-ambitious-plan-to-one-day-make-an-overwatch-mmo)
+ - [Gasas Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730080/gasas-shrine-well-timed-cuts-solution-puzzle-reward)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
