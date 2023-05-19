@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s next round of layoffs will start next week](https://www.theverge.com/2023/5/19/23729900/meta-layoffs-business-roles-nick-clegg)
- - [The Australian Securities Exchange will no longer attempt to rebuild its software using blockchain, after &quot;pausing&quot; seven years of development in November 2022 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/230519/p14#a230519p14)
- - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)<!-- TECH:END -->
+ - [Apple shares App Store Transparency report, detailing removals &amp; data requests](https://appleinsider.com/articles/23/05/19/apple-shares-app-store-transparency-report-detailing-removals-data-requests?utm_medium=rss)
+ - [The best Samsung Galaxy deals of May 2023](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
+ - [Apple shares its first App Store Transparency Report with data on app rejections, government requests, more, as part of a settlement in a 2021 developer lawsuit &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/230519/p15#a230519p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
