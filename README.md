@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [That is irrelevant!](http://9gag.com/gag/aqexpVL)
- - 🚯 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
- - 🚯 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)<!-- MEMES:END -->
+ - 🚯 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)
+ - 🚯 [Of course](http://9gag.com/gag/aqexB5Z)<!-- MEMES:END -->
 
 --- 
 
