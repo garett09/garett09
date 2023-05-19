@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
- - 🚯 [Somehow this is terrifying to me.](http://9gag.com/gag/ap9xYmD)
- - 🚯 [That is irrelevant!](http://9gag.com/gag/aqexpVL)<!-- MEMES:END -->
+ - 🚖 [Was it the heart?](http://9gag.com/gag/anzxVoE)
+ - 🚯 [Of course](http://9gag.com/gag/aqexB5Z)
+ - 🚯 [Home chemistry set...](http://9gag.com/gag/avQx9mE)<!-- MEMES:END -->
 
 --- 
 
