@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to spectacularly lose your career part II](http://9gag.com/gag/abvxQWL)
- - 🚯 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
- - 🚯 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)<!-- MEMES:END -->
+ - 🚖 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)
+ - 🚯 [El Salvador&#39;s government has mobilized over 5,000 soldiers and 500 PNC officers to encircle a northern town after a police officer was killed there by gang members](http://9gag.com/gag/aDYbPGx)
+ - 🚯 [That is irrelevant!](http://9gag.com/gag/aqexpVL)<!-- MEMES:END -->
 
 --- 
 
