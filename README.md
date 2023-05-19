@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)
- - [Boy, that Fast X post-credits scene, OK, well, hmm](https://www.polygon.com/23728956/fast-x-post-credits-scene-ending-explained)
- - [Kimayat Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688371/kimayat-shrine-proving-grounds-smash-solution-puzzle-chest)<!-- GAME:END -->
+ - [Mayak Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730404/mayak-shrine-solution-puzzle-chest)
+ - [White Men Can’t Jump, but they sure can be in unfortunate remakes](https://www.polygon.com/reviews/23728707/white-men-cant-jump-remake-review-hulu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
