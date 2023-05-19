@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m from Poland](http://9gag.com/gag/aA0MXjp)
- - 🚯 [Lol](http://9gag.com/gag/a6qBGw8)
- - 🚯 [E-scooter going nearly 100km/h on highway](http://9gag.com/gag/aREv2K5)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/a6qBGw8)
+ - 🚯 [How to spectacularly lose your career part II](http://9gag.com/gag/abvxQWL)
+ - 🚯 [Was it the heart?](http://9gag.com/gag/anzxVoE)<!-- MEMES:END -->
 
 --- 
 
