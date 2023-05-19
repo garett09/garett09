@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sifumim Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23729942/sifumim-shrine-solution-puzzle-chest)
- - [Mortal Kombat 1 will include The Boys’ Homelander, DC’s Peacemaker, retailer says](https://www.polygon.com/23729840/mortal-kombat-1-characters-dlc-kameo-fighters-homelander-peacemaker)
- - [Share of the Week – Star Wars Jedi: Survivor](https://blog.playstation.com/2023/05/19/share-of-the-week-star-wars-jedi-survivor/)<!-- GAME:END -->
+ - [The Best Way To Get Tears Of the Kingdom&#39;s Hylian Rice Isn&#39;t Farming](https://kotaku.com/zelda-tears-of-the-kingdom-hylian-rice-rabella-wetlands-1850454673)
+ - [Entire GameStop Store Quits On Zelda: Tears Of The Kingdom Release Day](https://kotaku.com/zelda-tears-of-the-kingdom-launch-gamestop-gme-quit-1850454969)
+ - [Tears of the Kingdom: What&#39;s Worth Doing On The Way To Kakariko Village](https://kotaku.com/tears-of-the-kingdom-kakariko-village-how-to-find-map-1850454875)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
