@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unable to turn a profit amid a fall in views, some US esports organizations are laying off staff, ending player contracts, or even selling their teams at a loss &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/230520/p9#a230520p9)
  - [Neeva, founded by ex-Google executive Sridhar Ramaswamy, plans to shut down its ad-free search engine, citing a &quot;vastly changed search environment&quot; and more &lpar;Neeva&rpar;](http://www.techmeme.com/230520/p8#a230520p8)
- - [How to back up your Mac&#39;s Contacts in macOS](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-macs-contacts-in-macos?utm_medium=rss)
- - [The Pixel 7 Pro’s panorama mode is still so far behind the iPhone](https://www.androidauthority.com/pixel-7-pro-panorama-mode-vs-iphone-3320695/)<!-- TECH:END -->
+ - [How to back up your Mac&#39;s Contacts in macOS](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-macs-contacts-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
