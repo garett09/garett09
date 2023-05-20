@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Aww: These dark fantasy warriors have the cutest widdle kitty faces](https://www.pcgamer.com/aww-these-dark-fantasy-warriors-have-the-cutest-widdle-kitty-faces)
- - [Check out the grim vibes on this monochrome dungeon crawler](https://www.pcgamer.com/check-out-the-grim-vibes-on-this-monochrome-dungeon-crawler)
- - [How to get the Tingle Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731101/tingle-outfit-shirt-tights-hood-armor-set)<!-- GAME:END -->
+ - [Is life with multiple monitors actually better?](https://www.pcgamer.com/is-life-with-multiple-monitors-actually-better)
+ - [Before Doom, before Wolfenstein 3D, why does nobody remember one of the first first-person shooters?](https://www.pcgamer.com/saturday-crapshoot-corporation)
+ - [Aww: These dark fantasy warriors have the cutest widdle kitty faces](https://www.pcgamer.com/aww-these-dark-fantasy-warriors-have-the-cutest-widdle-kitty-faces)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
