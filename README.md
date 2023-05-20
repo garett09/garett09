@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Neeva, the would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
  - [Apple Fitness+ vast class library relies on a very streamlined workflow](https://appleinsider.com/articles/23/05/20/apple-fitness-vast-class-library-relies-on-a-very-streamlined-workflow?utm_medium=rss)
- - [How crypto hunters help those going through divorce find their spouse&#39;s hidden crypto stashes, following the trail of tokens as they &quot;hop&quot; across blockchains &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230520/p10#a230520p10)
- - [Unable to turn a profit amid a fall in views, some US esports organizations are laying off staff, ending player contracts, or even selling their teams at a loss &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/230520/p9#a230520p9)<!-- TECH:END -->
+ - [How crypto hunters help those going through divorce find their spouse&#39;s hidden crypto stashes, following the trail of tokens as they &quot;hop&quot; across blockchains &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230520/p10#a230520p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
