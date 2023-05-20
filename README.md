@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 13 Best Weed Accessories and Gadgets     - CNET](https://www.cnet.com/culture/best-weed-accessories/#ftag=CAD590a51e)
- - [How Close Is Your Smartwatch to an Actual Sleep Test?     - CNET](https://www.cnet.com/health/medical/how-close-is-your-smartwatch-to-an-actual-sleep-test/#ftag=CAD590a51e)
- - [Honkai: Star Rail – Character Ascension and how it works](https://www.androidauthority.com/honkai-star-rail-character-ascension-3324487/)<!-- TECH:END -->
+ - [AT&amp;T has some concerns about Starlink and T-Mobile’s satellite-to-cellular plans](https://www.theverge.com/2023/5/19/23730682/att-fcc-spacex-starlink-t-mobile-satellite-cellular-plans)
+ - [Is the Oura Ring waterproof?](https://www.androidauthority.com/oura-ring-waterproof-3327206/)
+ - [How to remove a SIM card from your Android phone](https://www.androidauthority.com/remove-sim-card-android-3327203/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
