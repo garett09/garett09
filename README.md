@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to defeat Gleeok in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731138/gleeok-locations-boss-fight-strategy-rewards)
- - [How to defeat Lynel in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731088/lynel-locations-boss-fight-strategy-rewards)
- - [How to defeat Hinox in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731060/hinox-locations-boss-fight-strategy-rewards)<!-- GAME:END -->
+ - [How to get the Rubber Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731263/rubber-armor-set-locations-head-chest-legs)
+ - [How to get the Royal Guard Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731213/royal-guard-armor-locations-chest-head-legs)
+ - [How to defeat Gleeok in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731138/gleeok-locations-boss-fight-strategy-rewards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
