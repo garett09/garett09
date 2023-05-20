@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
- - 🚯 [Was it the heart?](http://9gag.com/gag/anzxVoE)
- - 🚯 [I&#39;d love to know how many square feet she thinks she got.](http://9gag.com/gag/aoKxq6m)<!-- MEMES:END -->
+ - 🚖 [It\u2019s \u201cChinese\u201d kids!](http://9gag.com/gag/aXn7Q0d)
+ - 🚯 [Of course](http://9gag.com/gag/aqexB5Z)
+ - 🚯 [Home chemistry set...](http://9gag.com/gag/avQx9mE)<!-- MEMES:END -->
 
 --- 
 
