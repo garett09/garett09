@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Indiana Jones and the Dial of Destiny traps Harrison Ford in the past](https://www.polygon.com/reviews/23728708/indiana-jones-dial-of-destiny-review-harrison-ford)
- - [Kumamayn Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731058/kumamayn-shrine-solution-east-necluda-sky-crystal-puzzle-chest)
- - [Tears of the Kingdom is saving me from my checklist obsession](https://www.polygon.com/legend-zelda-tears-kingdom/23726697/zelda-tears-of-the-kingdom-quests-checklists-open-world)<!-- GAME:END -->
+ - [The best mystery movie of the year is now on Netflix](https://www.polygon.com/23727137/missing-review-netflix-streaming)
+ - [2023&#39;s best gaming soundtrack was co-created by a high school student and a first-time composer](https://www.pcgamer.com/2023s-best-gaming-soundtrack-was-co-created-by-a-high-school-student-and-a-first-time-composer)
+ - [Indiana Jones and the Dial of Destiny traps Harrison Ford in the past](https://www.polygon.com/reviews/23728708/indiana-jones-dial-of-destiny-review-harrison-ford)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
