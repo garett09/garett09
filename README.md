@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best sci-fi movies to watch on Netflix and other streaming services this May](https://www.polygon.com/what-to-watch/2023/5/20/23724143/best-sci-fi-movies-netflix-hulu-max-may-2023)
- - [Today&#39;s Wordle hint and answer #700: Saturday, May 20](https://www.pcgamer.com/wordle-today-hint-answer-700-may-20)
- - [&#39;Overwatch 2&#39; is a failed idea](https://www.pcgamer.com/overwatch-2-is-a-failed-idea)<!-- GAME:END -->
+ - [The Super Mario Bros. Movie is a little cheaper if you’re new to Vudu](https://www.polygon.com/deals/2023/5/20/23729785/the-super-mario-bros-movie-vudu-best-gaming-entertainment-deals-hulu-trigun-nintendo)
+ - [How to get the Yiga Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728758/yiga-armor-set-locations-head-chest-legs-get)
+ - [How to get the Soldier’s Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730712/soldiers-armor-set-locations-head-legs-chest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
