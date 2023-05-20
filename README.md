@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2 falling ladders, one of them is faster](http://9gag.com/gag/aKE8N61)
- - 🚯 [Literally me](http://9gag.com/gag/aQEmVL8)
- - 🚯 [It\u2019s \u201cChinese\u201d kids!](http://9gag.com/gag/aXn7Q0d)<!-- MEMES:END -->
+ - 🚖 [Post your favourite reversed gifs in the comments.](http://9gag.com/gag/aeQxE5b)
+ - 🚯 [Wanna hold your newborn? Pay up](http://9gag.com/gag/agox6dg)
+ - 🚯 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)<!-- MEMES:END -->
 
 --- 
 
