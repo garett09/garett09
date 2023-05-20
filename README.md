@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-485-3326598/)
- - [Bitcoin payment service Strike expands to 65 countries, beyond the US, El Salvador, and Argentina, and says it is taking a regulation-first approach in the US &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230520/p5#a230520p5)
- - [Games should let us choose our own stakes](https://www.theverge.com/23728570/multiplayer-game-team-stakes-competitive-moderation)<!-- TECH:END -->
+ - [It’s high time Xiaomi stopped copying Apple iOS](https://www.androidauthority.com/xiaomi-miui-copy-apple-ios-opinion-3309205/)
+ - [Best Budget Laptop 2023: Our Top 6 Picks Starting at $300     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)
+ - [Best Electric Scooter for 2023     - CNET](https://www.cnet.com/roadshow/news/best-electric-scooter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
