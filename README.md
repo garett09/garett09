@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaders of the G7 nations call for the development and adoption of global AI standards and to &quot;take stock of the opportunities and challenges of generative AI&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230520/p4#a230520p4)
- - [You can’t go wrong with a Samsung Galaxy A phone, even the cheapest one](https://www.androidauthority.com/samsung-galaxy-a-value-3324700/)
- - [Technics EAH-AZ80 Review: Are These the Best New Earbuds of 2023?     - CNET](https://www.cnet.com/tech/mobile/technics-eah-az80-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-485-3326598/)
+ - [Bitcoin payment service Strike expands to 65 countries, beyond the US, El Salvador, and Argentina, and says it is taking a regulation-first approach in the US &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/230520/p5#a230520p5)
+ - [Games should let us choose our own stakes](https://www.theverge.com/23728570/multiplayer-game-team-stakes-competitive-moderation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
