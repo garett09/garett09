@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)
- - 🚯 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
- - 🚯 [Woman releases her pet duck into the wild... what could go wrong?](http://9gag.com/gag/aEqWQZG)<!-- MEMES:END -->
+ - 🚖 [Sore losing wrestler sucker punches opponent](http://9gag.com/gag/abvxKVb)
+ - 🚯 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)
+ - 🚯 [Sarah Rafferty](http://9gag.com/gag/az2OzGq)<!-- MEMES:END -->
 
 --- 
 
