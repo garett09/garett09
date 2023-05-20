@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #700: Saturday, May 20](https://www.pcgamer.com/wordle-today-hint-answer-700-may-20)
  - [&#39;Overwatch 2&#39; is a failed idea](https://www.pcgamer.com/overwatch-2-is-a-failed-idea)
- - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)
- - [Crypt of the Necrodancer studio confirms layoffs, as many as half its employees may be gone](https://www.pcgamer.com/crypt-of-the-necrodancer-studio-confirms-layoffs-as-many-as-half-its-employees-may-be-gone)<!-- GAME:END -->
+ - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
