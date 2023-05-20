@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;Overwatch 2&#39; is a failed idea](https://www.pcgamer.com/overwatch-2-is-a-failed-idea)
  - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)
- - [GTA Publisher’s Boss Not Seeing Any ‘Pushback’ On $70 Games](https://kotaku.com/take-two-ceo-no-pushback-70-price-sega-zelda-gta-vi-2k-1850456925)
- - [What does 100% shrine completion get you in Zelda: Tears of the Kingdom?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23718900/shrine-explorer-side-quest-100-percent-completion-reward)<!-- GAME:END -->
+ - [Crypt of the Necrodancer studio confirms layoffs, as many as half its employees may be gone](https://www.pcgamer.com/crypt-of-the-necrodancer-studio-confirms-layoffs-as-many-as-half-its-employees-may-be-gone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
