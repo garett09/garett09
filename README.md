@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Incomparable child..!!](http://9gag.com/gag/aYVMZLq)
- - 🚯 [Blacks rob a pregnant white lady, race grifting leftists post video out of context and get her fired. Mob harasses her... find out it was her bike the entire time.](http://9gag.com/gag/a9qmNPm)
- - 🚯 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/a6qBGw8)
+ - 🚯 [Literally me](http://9gag.com/gag/aQEmVL8)
+ - 🚯 [Was it the heart?](http://9gag.com/gag/anzxVoE)<!-- MEMES:END -->
 
 --- 
 
