@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hippos Are in Trouble. Will ‘Endangered’ Status Save Them?](https://www.wired.com/story/hippos-endangered-species/)
- - [The Weekly Authority: 📅 Galaxy Unpacked date confirmed, new foldables incoming](https://www.androidauthority.com/the-weekly-authority-may-20-2023-245-3326441/)
- - [13 Best Deals: Air Fryers, Sound Machines, and Camera Gear](https://www.wired.com/story/weekend-deals-may-20-2023/)<!-- TECH:END -->
+ - [9 Best Baby Monitors &lpar;2023&rpar;: Wi-Fi, Radio &lpar;No Internet&rpar;, and More](https://www.wired.com/gallery/best-baby-monitors/)
+ - [Best Speakers &lpar;2023&rpar;: Wireless, Multiroom, Bluetooth, Passive](https://www.wired.com/gallery/best-speakers/)
+ - [A TikTok ‘Car Theft’ Challenge Is Costing Hyundai $200 Million](https://www.wired.com/story/tiktok-challenge-hyundai-flaw-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
