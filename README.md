@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)
- - 🚯 [I&#39;d love to know how many square feet she thinks she got.](http://9gag.com/gag/aoKxq6m)
- - 🚯 [Welcome to the Matrix&lpar;sevdaliza&rpar;](http://9gag.com/gag/adPxRGV)<!-- MEMES:END -->
+ - 🚖 [Was it the heart?](http://9gag.com/gag/anzxVoE)
+ - 🚯 [Shrek the Third](http://9gag.com/gag/aoKxqoe)
+ - 🚯 [Incomparable child..!!](http://9gag.com/gag/aYVMZLq)<!-- MEMES:END -->
 
 --- 
 
