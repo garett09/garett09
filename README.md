@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Baby Monitors &lpar;2023&rpar;: Wi-Fi, Radio &lpar;No Internet&rpar;, and More](https://www.wired.com/gallery/best-baby-monitors/)
- - [Best Speakers &lpar;2023&rpar;: Wireless, Multiroom, Bluetooth, Passive](https://www.wired.com/gallery/best-speakers/)
- - [A TikTok ‘Car Theft’ Challenge Is Costing Hyundai $200 Million](https://www.wired.com/story/tiktok-challenge-hyundai-flaw-security-roundup/)<!-- TECH:END -->
+ - [You can’t go wrong with a Samsung Galaxy A phone, even the cheapest one](https://www.androidauthority.com/samsung-galaxy-a-value-3324700/)
+ - [Drop’s DCX keycap sets for mechanical keyboards are buy one, get one free](https://www.theverge.com/2023/5/20/23730214/drop-keyboard-keycaps-govee-dreamview-gaming-lights-1password-family-deal-sale)
+ - [WWDC 2023: what to expect at Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
