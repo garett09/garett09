@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best iPad Deals: Models Start at $279     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
  - [AT&amp;T has some concerns about Starlink and T-Mobile’s satellite-to-cellular plans](https://www.theverge.com/2023/5/19/23730682/att-fcc-spacex-starlink-t-mobile-satellite-cellular-plans)
- - [Is the Oura Ring waterproof?](https://www.androidauthority.com/oura-ring-waterproof-3327206/)
- - [How to remove a SIM card from your Android phone](https://www.androidauthority.com/remove-sim-card-android-3327203/)<!-- TECH:END -->
+ - [Is the Oura Ring waterproof?](https://www.androidauthority.com/oura-ring-waterproof-3327206/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
