@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)
- - 🚯 [She knew exactly where that was going.](http://9gag.com/gag/aA0Mm2E)
- - 🚯 [2 falling ladders, one of them is faster](http://9gag.com/gag/aKE8N61)<!-- MEMES:END -->
+ - 🚖 [It\u2019s \u201cChinese\u201d kids!](http://9gag.com/gag/aXn7Q0d)
+ - 🚯 [F-18 Hornet crashes during an air show in Spain](http://9gag.com/gag/a5XzA4r)
+ - 🚯 [Just learned Gary Oldman improvised this scene only to make Luc Besson laugh, and the rest is history.](http://9gag.com/gag/anzxZ5b)<!-- MEMES:END -->
 
 --- 
 
