@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Was it the heart?](http://9gag.com/gag/anzxVoE)
- - 🚯 [2 falling ladders, one of them is faster](http://9gag.com/gag/aKE8N61)
- - 🚯 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)<!-- MEMES:END -->
+ - 🚖 [That is irrelevant!](http://9gag.com/gag/aqexpVL)
+ - 🚯 [What is the most famous meme from your country? I&#39;ll start with this meme from Egypt.](http://9gag.com/gag/aqexVOM)
+ - 🚯 [She knew exactly where that was going.](http://9gag.com/gag/aA0Mm2E)<!-- MEMES:END -->
 
 --- 
 
