@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 5 best sci-fi movies to watch on Netflix and other streaming services this May](https://www.polygon.com/what-to-watch/2023/5/20/23724143/best-sci-fi-movies-netflix-hulu-max-may-2023)
  - [Today&#39;s Wordle hint and answer #700: Saturday, May 20](https://www.pcgamer.com/wordle-today-hint-answer-700-may-20)
- - [&#39;Overwatch 2&#39; is a failed idea](https://www.pcgamer.com/overwatch-2-is-a-failed-idea)
- - [Where to buy Pokémon Squishmallows](https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop)<!-- GAME:END -->
+ - [&#39;Overwatch 2&#39; is a failed idea](https://www.pcgamer.com/overwatch-2-is-a-failed-idea)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
