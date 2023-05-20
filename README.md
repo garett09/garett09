@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s \u201cChinese\u201d kids!](http://9gag.com/gag/aXn7Q0d)
- - 🚯 [Silverback gorilla comforts a child who fell into an enclosure instead of displaying violent behavior](http://9gag.com/gag/a04nxvL)
- - 🚯 [West Ham fan holds back a hoard of Dutch hooligans trying to attack the friends and family sectio](http://9gag.com/gag/abvxK7b)<!-- MEMES:END -->
+ - 🚖 [This man made for internet](http://9gag.com/gag/awZO9GW)
+ - 🚯 [Automatic water gun](http://9gag.com/gag/aPgezPV)
+ - 🚯 [Going out like a champ.](http://9gag.com/gag/a1PVBMD)<!-- MEMES:END -->
 
 --- 
 
