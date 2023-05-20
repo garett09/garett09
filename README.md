@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPad Deals: Models Start at $279     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [AT&amp;T has some concerns about Starlink and T-Mobile’s satellite-to-cellular plans](https://www.theverge.com/2023/5/19/23730682/att-fcc-spacex-starlink-t-mobile-satellite-cellular-plans)
- - [Is the Oura Ring waterproof?](https://www.androidauthority.com/oura-ring-waterproof-3327206/)<!-- TECH:END -->
+ - [How to back up your text messages](https://www.androidauthority.com/how-to-save-text-messages-on-iphone-android-3327108/)
+ - [AT&amp;T Asks FCC to Block T-Mobile From Expanding Network With SpaceX Satellites     - CNET](https://www.cnet.com/tech/mobile/at-t-asks-fcc-to-block-t-mobile-from-expanding-network-with-spacex-satellites/#ftag=CAD590a51e)
+ - [Best iPad Deals: Models Start at $279     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
