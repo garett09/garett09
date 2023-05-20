@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside the Bitcoin 2023 conference in Miami, attended by 12K+ people, down from 25K+ in 2022, which had a subdued yet positive mood, and no talks of moonshots &lpar;Vildana Hajric/Bloomberg&rpar;](http://www.techmeme.com/230520/p1#a230520p1)
  - [China approves Microsoft&#39;s $69B acquisition of Activision Blizzard, bringing the total to 37 countries, including the EU and Japan &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/230519/p20#a230519p20)
- - [After Niantic&#39;s latest AR game Peridot got negative app store reviews and few downloads, a look at the company&#39;s metaverse games struggling to find an audience &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230519/p19#a230519p19)
- - [How to back up your text messages](https://www.androidauthority.com/how-to-save-text-messages-on-iphone-android-3327108/)<!-- TECH:END -->
+ - [After Niantic&#39;s latest AR game Peridot got negative app store reviews and few downloads, a look at the company&#39;s metaverse games struggling to find an audience &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230519/p19#a230519p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
