@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s \u201cChinese\u201d kids!](http://9gag.com/gag/aXn7Q0d)
- - 🚯 [That is irrelevant!](http://9gag.com/gag/aqexpVL)
- - 🚯 [Wanna hold your newborn? Pay up](http://9gag.com/gag/agox6dg)<!-- MEMES:END -->
+ - 🚖 [2 falling ladders, one of them is faster](http://9gag.com/gag/aKE8N61)
+ - 🚯 [Literally me](http://9gag.com/gag/aQEmVL8)
+ - 🚯 [It\u2019s \u201cChinese\u201d kids!](http://9gag.com/gag/aXn7Q0d)<!-- MEMES:END -->
 
 --- 
 
