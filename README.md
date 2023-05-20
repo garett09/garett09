@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That is irrelevant!](http://9gag.com/gag/aqexpVL)
- - 🚯 [What is the most famous meme from your country? I&#39;ll start with this meme from Egypt.](http://9gag.com/gag/aqexVOM)
- - 🚯 [She knew exactly where that was going.](http://9gag.com/gag/aA0Mm2E)<!-- MEMES:END -->
+ - 🚖 [This is gonna be the new tradition every summer, isn&#39;t it?](http://9gag.com/gag/avQxBwq)
+ - 🚯 [Was it the heart?](http://9gag.com/gag/anzxVoE)
+ - 🚯 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)<!-- MEMES:END -->
 
 --- 
 
