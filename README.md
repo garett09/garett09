@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Was it the heart?](http://9gag.com/gag/anzxVoE)
- - 🚯 [Shrek the Third](http://9gag.com/gag/aoKxqoe)
- - 🚯 [Incomparable child..!!](http://9gag.com/gag/aYVMZLq)<!-- MEMES:END -->
+ - 🚖 [2 falling ladders, one of them is faster](http://9gag.com/gag/aKE8N61)
+ - 🚯 [Literally me](http://9gag.com/gag/aQEmVL8)
+ - 🚯 [No matter what you do, someone will always be angry at you.](http://9gag.com/gag/a9qmNqo)<!-- MEMES:END -->
 
 --- 
 
