@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)
- - 🚯 [Wanna hold your newborn? Pay up](http://9gag.com/gag/agox6dg)
- - 🚯 [2 falling ladders, one of them is faster](http://9gag.com/gag/aKE8N61)<!-- MEMES:END -->
+ - 🚖 [2 falling ladders, one of them is faster](http://9gag.com/gag/aKE8N61)
+ - 🚯 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)
+ - 🚯 [Its about time someone showed these monkeys whos the top primate](http://9gag.com/gag/aqexdNR)<!-- MEMES:END -->
 
 --- 
 
