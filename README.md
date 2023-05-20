@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to recover Notes stored on your Mac](https://appleinsider.com/inside/macos/tips/how-to-recover-notes-stored-on-your-mac?utm_medium=rss)
  - [Neeva, the would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
- - [Apple Fitness+ vast class library relies on a very streamlined workflow](https://appleinsider.com/articles/23/05/20/apple-fitness-vast-class-library-relies-on-a-very-streamlined-workflow?utm_medium=rss)
- - [How crypto hunters help those going through divorce find their spouse&#39;s hidden crypto stashes, following the trail of tokens as they &quot;hop&quot; across blockchains &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/230520/p10#a230520p10)<!-- TECH:END -->
+ - [Best Sonos Deals: Get Discounts on New Era 100 and 300 Speaker Bundles and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
