@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best mystery movie of the year is now on Netflix](https://www.polygon.com/23727137/missing-review-netflix-streaming)
- - [2023&#39;s best gaming soundtrack was co-created by a high school student and a first-time composer](https://www.pcgamer.com/2023s-best-gaming-soundtrack-was-co-created-by-a-high-school-student-and-a-first-time-composer)
- - [Indiana Jones and the Dial of Destiny traps Harrison Ford in the past](https://www.polygon.com/reviews/23728708/indiana-jones-dial-of-destiny-review-harrison-ford)<!-- GAME:END -->
+ - [How to defeat Gleeok in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731138/gleeok-locations-boss-fight-strategy-rewards)
+ - [How to defeat Lynel in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731088/lynel-locations-boss-fight-strategy-rewards)
+ - [How to defeat Hinox in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731060/hinox-locations-boss-fight-strategy-rewards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
