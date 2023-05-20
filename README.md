@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring wins the Nebula award for Game Writing](https://www.pcgamer.com/elden-ring-wins-the-nebula-award-for-game-writing)
  - [How to get the Rubber Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731263/rubber-armor-set-locations-head-chest-legs)
- - [How to get the Royal Guard Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731213/royal-guard-armor-locations-chest-head-legs)
- - [How to defeat Gleeok in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731138/gleeok-locations-boss-fight-strategy-rewards)<!-- GAME:END -->
+ - [How to get the Royal Guard Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731213/royal-guard-armor-locations-chest-head-legs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
