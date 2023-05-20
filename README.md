@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tears of the Kingdom is saving me from my checklist obsession](https://www.polygon.com/legend-zelda-tears-kingdom/23726697/zelda-tears-of-the-kingdom-quests-checklists-open-world)
- - [The Super Mario Bros. Movie is a little cheaper if you’re new to Vudu](https://www.polygon.com/deals/2023/5/20/23729785/the-super-mario-bros-movie-vudu-best-gaming-entertainment-deals-hulu-trigun-nintendo)
- - [How to get the Yiga Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728758/yiga-armor-set-locations-head-chest-legs-get)<!-- GAME:END -->
+ - [Indiana Jones and the Dial of Destiny traps Harrison Ford in the past](https://www.polygon.com/reviews/23728708/indiana-jones-dial-of-destiny-review-harrison-ford)
+ - [Kumamayn Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731058/kumamayn-shrine-solution-east-necluda-sky-crystal-puzzle-chest)
+ - [Tears of the Kingdom is saving me from my checklist obsession](https://www.polygon.com/legend-zelda-tears-kingdom/23726697/zelda-tears-of-the-kingdom-quests-checklists-open-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
