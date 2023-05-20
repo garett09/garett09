@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s high time Xiaomi stopped copying Apple iOS](https://www.androidauthority.com/xiaomi-miui-copy-apple-ios-opinion-3309205/)
- - [Best Budget Laptop 2023: Our Top 6 Picks Starting at $300     - CNET](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)
- - [Best Electric Scooter for 2023     - CNET](https://www.cnet.com/roadshow/news/best-electric-scooter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to back up your Mac&#39;s Contacts in macOS](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-macs-contacts-in-macos?utm_medium=rss)
+ - [The Pixel 7 Pro’s panorama mode is still so far behind the iPhone](https://www.androidauthority.com/pixel-7-pro-panorama-mode-vs-iphone-3320695/)
+ - [iMessage Contact Key Verification appears in first iOS 16.6 beta](https://appleinsider.com/articles/23/05/20/imessage-contact-key-verification-appears-in-first-ios-166-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
