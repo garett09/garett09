@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Post your favourite reversed gifs in the comments.](http://9gag.com/gag/aeQxE5b)
- - 🚯 [Wanna hold your newborn? Pay up](http://9gag.com/gag/agox6dg)
+ - 🚖 [Was it the heart?](http://9gag.com/gag/anzxVoE)
+ - 🚯 [2 falling ladders, one of them is faster](http://9gag.com/gag/aKE8N61)
  - 🚯 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)<!-- MEMES:END -->
 
 --- 
