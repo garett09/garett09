@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sore losing wrestler sucker punches opponent](http://9gag.com/gag/abvxKVb)
- - 🚯 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)
- - 🚯 [Sarah Rafferty](http://9gag.com/gag/az2OzGq)<!-- MEMES:END -->
+ - 🚖 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
+ - 🚯 [2 falling ladders, one of them is faster](http://9gag.com/gag/aKE8N61)
+ - 🚯 [Dad decides to take son out for for his first drive and son loses control of car](http://9gag.com/gag/aXn73nP)<!-- MEMES:END -->
 
 --- 
 
