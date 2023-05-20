@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stealing carts full of stuff from Giant Tiger. The employees weren&#39;t having it.](http://9gag.com/gag/a8qeQx6)
- - 🚯 [It\u2019s \u201cChinese\u201d kids!](http://9gag.com/gag/aXn7Q0d)
- - 🚯 [That is irrelevant!](http://9gag.com/gag/aqexpVL)<!-- MEMES:END -->
+ - 🚖 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
+ - 🚯 [Was it the heart?](http://9gag.com/gag/anzxVoE)
+ - 🚯 [I&#39;d love to know how many square feet she thinks she got.](http://9gag.com/gag/aoKxq6m)<!-- MEMES:END -->
 
 --- 
 
