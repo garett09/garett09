@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 Best Deals: Air Fryers, Sound Machines, and Camera Gear](https://www.wired.com/story/weekend-deals-may-20-2023/)
  - [Filing: AT&amp;T asks the FCC to block a SpaceX/T-Mobile plan that allows Starlink to service areas lacking T-Mobile coverage, saying &quot;FCC&#39;s rules do not permit&quot; it &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230520/p2#a230520p2)
- - [The Underground History of Turla, Russia&#39;s Most Ingenious Hacker Group](https://www.wired.com/story/turla-history-russia-fsb-hackers/)
- - [We Put Google’s New AI Writing Assistant to the Test](https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/)<!-- TECH:END -->
+ - [The Ultimate College Graduation Gift Guide for 2023     - CNET](https://www.cnet.com/news/the-best-college-graduation-gifts-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
