@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This man made for internet](http://9gag.com/gag/awZO9GW)
- - 🚯 [Automatic water gun](http://9gag.com/gag/aPgezPV)
- - 🚯 [Going out like a champ.](http://9gag.com/gag/a1PVBMD)<!-- MEMES:END -->
+ - 🚖 [It\u2019s \u201cChinese\u201d kids!](http://9gag.com/gag/aXn7Q0d)
+ - 🚯 [That is irrelevant!](http://9gag.com/gag/aqexpVL)
+ - 🚯 [Wanna hold your newborn? Pay up](http://9gag.com/gag/agox6dg)<!-- MEMES:END -->
 
 --- 
 
