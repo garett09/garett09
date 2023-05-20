@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After Niantic&#39;s latest AR game Peridot got negative app store reviews and few downloads, a look at the company&#39;s metaverse games struggling to find an audience &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230519/p19#a230519p19)
  - [How to back up your text messages](https://www.androidauthority.com/how-to-save-text-messages-on-iphone-android-3327108/)
- - [AT&amp;T Asks FCC to Block T-Mobile From Expanding Network With SpaceX Satellites     - CNET](https://www.cnet.com/tech/mobile/at-t-asks-fcc-to-block-t-mobile-from-expanding-network-with-spacex-satellites/#ftag=CAD590a51e)
- - [Best iPad Deals: Models Start at $279     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AT&amp;T Asks FCC to Block T-Mobile From Expanding Network With SpaceX Satellites     - CNET](https://www.cnet.com/tech/mobile/at-t-asks-fcc-to-block-t-mobile-from-expanding-network-with-spacex-satellites/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
