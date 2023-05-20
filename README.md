@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s \u201cChinese\u201d kids!](http://9gag.com/gag/aXn7Q0d)
- - 🚯 [Of course](http://9gag.com/gag/aqexB5Z)
- - 🚯 [Home chemistry set...](http://9gag.com/gag/avQx9mE)<!-- MEMES:END -->
+ - 🚖 [Home chemistry set...](http://9gag.com/gag/avQx9mE)
+ - 🚯 [West Ham fan holds back a hoard of Dutch hooligans trying to attack the friends and family sectio](http://9gag.com/gag/abvxK7b)
+ - 🚯 [The Lion, The Witch, and The Audacity Of This...](http://9gag.com/gag/adPxbBN)<!-- MEMES:END -->
 
 --- 
 
