@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaders of the G7 nations call for the development and adoption of global AI standards and to &quot;take stock of the opportunities and challenges of generative AI&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230520/p4#a230520p4)
  - [You can’t go wrong with a Samsung Galaxy A phone, even the cheapest one](https://www.androidauthority.com/samsung-galaxy-a-value-3324700/)
- - [Drop’s DCX keycap sets for mechanical keyboards are buy one, get one free](https://www.theverge.com/2023/5/20/23730214/drop-keyboard-keycaps-govee-dreamview-gaming-lights-1password-family-deal-sale)
- - [WWDC 2023: what to expect at Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
+ - [Technics EAH-AZ80 Review: Are These the Best New Earbuds of 2023?     - CNET](https://www.cnet.com/tech/mobile/technics-eah-az80-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
