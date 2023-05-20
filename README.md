@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo Slim Pro 7 Review &lpar;2023&rpar;: A Powerful,  Light AMD Laptop](https://www.wired.com/review/lenovo-slim-pro-7-amd-laptop/)
  - [Inside the Bitcoin 2023 conference in Miami, attended by 12K+ people, down from 25K+ in 2022, which had a subdued yet positive mood, and no talks of moonshots &lpar;Vildana Hajric/Bloomberg&rpar;](http://www.techmeme.com/230520/p1#a230520p1)
- - [China approves Microsoft&#39;s $69B acquisition of Activision Blizzard, bringing the total to 37 countries, including the EU and Japan &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/230519/p20#a230519p20)
- - [After Niantic&#39;s latest AR game Peridot got negative app store reviews and few downloads, a look at the company&#39;s metaverse games struggling to find an audience &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230519/p19#a230519p19)<!-- TECH:END -->
+ - [China approves Microsoft&#39;s $69B acquisition of Activision Blizzard, bringing the total to 37 countries, including the EU and Japan &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/230519/p20#a230519p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
