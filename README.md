@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s \u201cChinese\u201d kids!](http://9gag.com/gag/aXn7Q0d)
- - 🚯 [F-18 Hornet crashes during an air show in Spain](http://9gag.com/gag/a5XzA4r)
- - 🚯 [Just learned Gary Oldman improvised this scene only to make Luc Besson laugh, and the rest is history.](http://9gag.com/gag/anzxZ5b)<!-- MEMES:END -->
+ - 🚖 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)
+ - 🚯 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
+ - 🚯 [Woman releases her pet duck into the wild... what could go wrong?](http://9gag.com/gag/aEqWQZG)<!-- MEMES:END -->
 
 --- 
 
