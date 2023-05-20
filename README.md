@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xgimi MoGo 2 Pro Android TV projector review: automatic entertainment](https://www.theverge.com/23725510/xgimi-mogo-2-pro-beamer-review-specs-price)
- - [Best Gifts 2023: Tons of Awesome Gift Ideas     - CNET](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)
- - [Lenovo Slim Pro 7 Review &lpar;2023&rpar;: A Powerful,  Light AMD Laptop](https://www.wired.com/review/lenovo-slim-pro-7-amd-laptop/)<!-- TECH:END -->
+ - [Filing: AT&amp;T asks the FCC to block a SpaceX/T-Mobile plan that allows Starlink to service areas lacking T-Mobile coverage, saying &quot;FCC&#39;s rules do not permit&quot; it &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230520/p2#a230520p2)
+ - [The Underground History of Turla, Russia&#39;s Most Ingenious Hacker Group](https://www.wired.com/story/turla-history-russia-fsb-hackers/)
+ - [We Put Google’s New AI Writing Assistant to the Test](https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
