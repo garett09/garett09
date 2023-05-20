@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2 falling ladders, one of them is faster](http://9gag.com/gag/aKE8N61)
- - 🚯 [Literally me](http://9gag.com/gag/aQEmVL8)
- - 🚯 [No matter what you do, someone will always be angry at you.](http://9gag.com/gag/a9qmNqo)<!-- MEMES:END -->
+ - 🚖 [Stealing carts full of stuff from Giant Tiger. The employees weren&#39;t having it.](http://9gag.com/gag/a8qeQx6)
+ - 🚯 [It\u2019s \u201cChinese\u201d kids!](http://9gag.com/gag/aXn7Q0d)
+ - 🚯 [That is irrelevant!](http://9gag.com/gag/aqexpVL)<!-- MEMES:END -->
 
 --- 
 
