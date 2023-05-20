@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [Xgimi MoGo 2 Pro Android TV projector review: automatic entertainment](https://www.theverge.com/23725510/xgimi-mogo-2-pro-beamer-review-specs-price)
- - [Lenovo Slim Pro 7 Review &lpar;2023&rpar;: A Powerful,  Light AMD Laptop](https://www.wired.com/review/lenovo-slim-pro-7-amd-laptop/)
- - [Inside the Bitcoin 2023 conference in Miami, attended by 12K+ people, down from 25K+ in 2022, which had a subdued yet positive mood, and no talks of moonshots &lpar;Vildana Hajric/Bloomberg&rpar;](http://www.techmeme.com/230520/p1#a230520p1)<!-- TECH:END -->
+ - [Best Gifts 2023: Tons of Awesome Gift Ideas     - CNET](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)
+ - [Lenovo Slim Pro 7 Review &lpar;2023&rpar;: A Powerful,  Light AMD Laptop](https://www.wired.com/review/lenovo-slim-pro-7-amd-laptop/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
