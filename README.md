@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Aww: These dark fantasy warriors have the cutest widdle kitty faces](https://www.pcgamer.com/aww-these-dark-fantasy-warriors-have-the-cutest-widdle-kitty-faces)
  - [Check out the grim vibes on this monochrome dungeon crawler](https://www.pcgamer.com/check-out-the-grim-vibes-on-this-monochrome-dungeon-crawler)
- - [How to get the Tingle Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731101/tingle-outfit-shirt-tights-hood-armor-set)
- - [Elden Ring wins the Nebula award for Game Writing](https://www.pcgamer.com/elden-ring-wins-the-nebula-award-for-game-writing)<!-- GAME:END -->
+ - [How to get the Tingle Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731101/tingle-outfit-shirt-tights-hood-armor-set)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
