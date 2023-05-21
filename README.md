@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top 10 biggest Apple product heists of all time](https://appleinsider.com/articles/23/05/21/ten-of-the-biggest-apple-product-heists-of-all-time?utm_medium=rss)
- - [Tim Cook visits Cannes for &#39;Killers of the Flower Moon&#39; debut](https://appleinsider.com/articles/23/05/21/tim-cook-visits-cannes-for-killers-of-the-flower-moon-debut?utm_medium=rss)
- - [Google Photos’ upcoming Magic Editor is cool, but I don’t like it](https://www.androidauthority.com/google-photos-magic-editor-2-3323750/)<!-- TECH:END -->
+ - [The big thing missing from Google’s new line-up is a next-gen AI assistant](https://www.androidauthority.com/google-io-ai-assistant-missing-3326962/)
+ - [Best Home Emergency Kit Gear &lpar;2023&rpar;: Flashlights, Stoves, Chargers, and More](https://www.wired.com/story/best-home-emergency-gear/)
+ - [Top 10 biggest Apple product heists of all time](https://appleinsider.com/articles/23/05/21/ten-of-the-biggest-apple-product-heists-of-all-time?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
