@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US could be on the cusp of a chipmaking boom, with 50+ projects announced since the CHIPS Act, but officials worry the industry could face a worker shortage &lpar;Madeleine Ngo/New York Times&rpar;](http://www.techmeme.com/230520/p13#a230520p13)
  - [A look at the issues fomented by a decentralized web, including a rise in conspiratorial thinking due to more siloed online spaces and increasing app fatigue &lpar;Jessica Maddox/Wired&rpar;](http://www.techmeme.com/230520/p12#a230520p12)
- - [AI Draws Attention at G-7 Summit, With Leaders Calling for Guidelines     - CNET](https://www.cnet.com/tech/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/#ftag=CAD590a51e)
- - [NYC-based Percent, which operates a private credit marketplace, raised a $29.7M Series B led by White Star Capital, bringing its total funding to $48.2M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230520/p11#a230520p11)<!-- TECH:END -->
+ - [AI Draws Attention at G-7 Summit, With Leaders Calling for Guidelines     - CNET](https://www.cnet.com/tech/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
