@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
- - 🚯 [Sore losing wrestler sucker punches opponent](http://9gag.com/gag/abvxKVb)
- - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)<!-- MEMES:END -->
+ - 🚖 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
+ - 🚯 [Dad decides to take son out for for his first drive and son loses control of car](http://9gag.com/gag/aXn73nP)
+ - 🚯 [Sore losing wrestler sucker punches opponent](http://9gag.com/gag/abvxKVb)<!-- MEMES:END -->
 
 --- 
 
