@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Fennekin Community Day guide](https://www.polygon.com/pokemon-go-guide/23729837/fennekin-community-day-shiny-braixen-delphox-blast-burn)
- - [Is life with multiple monitors actually better?](https://www.pcgamer.com/is-life-with-multiple-monitors-actually-better)
- - [Before Doom, before Wolfenstein 3D, why does nobody remember one of the first first-person shooters?](https://www.pcgamer.com/saturday-crapshoot-corporation)<!-- GAME:END -->
+ - [Peter Molyneux&#39;s Magic Carpet was a game of violent chess, and a true one-off](https://www.pcgamer.com/peter-molyneuxs-magic-carpet-was-a-game-of-violent-chess-and-a-true-one-off)
+ - [Despite being dead for 20 years, Warhammer Online is hosting a live event on a private server](https://www.pcgamer.com/despite-being-dead-for-20-years-warhammer-online-is-hosting-a-live-event-on-a-private-server)
+ - [Pokémon Go Fennekin Community Day guide](https://www.polygon.com/pokemon-go-guide/23729837/fennekin-community-day-shiny-braixen-delphox-blast-burn)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
