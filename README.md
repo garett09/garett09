@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good quality shirt](http://9gag.com/gag/aeQxz05)
- - 🚯 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
- - 🚯 [Sarah Rafferty](http://9gag.com/gag/az2OzGq)<!-- MEMES:END -->
+ - 🚖 [Recognized as the world&#39;s most identical twin, Anna and Lucy. They share the same boyfriend called Ben. The twins insist there is no jealousy in their relationship and they would kiss Ben one after the other.](http://9gag.com/gag/aNwBMVw)
+ - 🚯 [Modern problem, old solution \u2026](http://9gag.com/gag/ay21rDW)
+ - 🚯 [Feel the burn Ubisoft.](http://9gag.com/gag/aWGoygq)<!-- MEMES:END -->
 
 --- 
 
