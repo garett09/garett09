@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Recognized as the world&#39;s most identical twin, Anna and Lucy. They share the same boyfriend called Ben. The twins insist there is no jealousy in their relationship and they would kiss Ben one after the other.](http://9gag.com/gag/aNwBMVw)
- - 🚯 [Another day in Russia](http://9gag.com/gag/a6qB6Q9)
- - 🚯 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)<!-- MEMES:END -->
+ - 🚖 [I love happy endings!](http://9gag.com/gag/aREvdE5)
+ - 🚯 [They, them](http://9gag.com/gag/aPgeqWQ)
+ - 🚯 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)<!-- MEMES:END -->
 
 --- 
 
