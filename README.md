@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Humanity’s solutions are more triumphant than its puzzles](https://www.polygon.com/reviews/23729137/humanity-review)
  - [How to beat King Gleeok, locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731693/king-gleeok-locations-beat-defeat-drops-rewards)
- - [There’s already a lofi take on Zelda: Tears of the Kingdom music](https://www.polygon.com/legend-zelda-tears-kingdom/23730317/totk-zelda-tears-of-the-kingdom-lofi-beats)
- - [Fast X was so big that it had to be run like a TV show](https://www.polygon.com/23728734/fast-x-characters-sequels-ending-director-interview)<!-- GAME:END -->
+ - [There’s already a lofi take on Zelda: Tears of the Kingdom music](https://www.polygon.com/legend-zelda-tears-kingdom/23730317/totk-zelda-tears-of-the-kingdom-lofi-beats)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
