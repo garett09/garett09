@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
- - 🚯 [Dad decides to take son out for for his first drive and son loses control of car](http://9gag.com/gag/aXn73nP)
- - 🚯 [Sarah Rafferty](http://9gag.com/gag/az2OzGq)<!-- MEMES:END -->
+ - 🚖 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
+ - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)
+ - 🚯 [Nurse Karen&#39;s lawyer showed the receipt, she did pay for the bike](http://9gag.com/gag/a2KDAZw)<!-- MEMES:END -->
 
 --- 
 
