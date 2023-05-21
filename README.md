@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nurse Karen&#39;s lawyer showed the receipt, she did pay for the bike](http://9gag.com/gag/a2KDAZw)
- - 🚯 [Sarah Rafferty](http://9gag.com/gag/az2OzGq)
- - 🚯 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)<!-- MEMES:END -->
+ - 🚖 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
+ - 🚯 [Nurse Karen&#39;s lawyer showed the receipt, she did pay for the bike](http://9gag.com/gag/a2KDAZw)
+ - 🚯 [Took me a decade to years to realize what happened](http://9gag.com/gag/adPxAvZ)<!-- MEMES:END -->
 
 --- 
 
