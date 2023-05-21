@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I love happy endings!](http://9gag.com/gag/aREvdE5)
- - 🚯 [They, them](http://9gag.com/gag/aPgeqWQ)
- - 🚯 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)<!-- MEMES:END -->
+ - 🚖 [They, them](http://9gag.com/gag/aPgeqWQ)
+ - 🚯 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)
+ - 🚯 [Dear Usa fellow with Braincell, please Stop this nonsense](http://9gag.com/gag/aKE8oQj)<!-- MEMES:END -->
 
 --- 
 
