@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great moments in PC gaming: Reaching Warrior rank in Tekken 7](https://www.pcgamer.com/great-moments-in-pc-gaming-reaching-warrior-rank-in-tekken-7)
- - [Mass Effect: Andromeda&#39;s creative director still wishes it had got a sequel](https://www.pcgamer.com/mass-effect-andromedas-creative-director-still-wishes-it-had-got-a-sequel)
- - [Today&#39;s Wordle hint and answer #701: Sunday, May 21](https://www.pcgamer.com/wordle-today-hint-answer-701-may-21)<!-- GAME:END -->
+ - [Fast X was so big that it had to be run like a TV show](https://www.polygon.com/23728734/fast-x-characters-sequels-ending-director-interview)
+ - [‘White Goats Gone Missing’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731687/white-goats-gone-missing-quest-steps)
+ - [Great moments in PC gaming: Reaching Warrior rank in Tekken 7](https://www.pcgamer.com/great-moments-in-pc-gaming-reaching-warrior-rank-in-tekken-7)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
