@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
+ - 🚖 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
  - 🚯 [Dad decides to take son out for for his first drive and son loses control of car](http://9gag.com/gag/aXn73nP)
- - 🚯 [Sore losing wrestler sucker punches opponent](http://9gag.com/gag/abvxKVb)<!-- MEMES:END -->
+ - 🚯 [Sarah Rafferty](http://9gag.com/gag/az2OzGq)<!-- MEMES:END -->
 
 --- 
 
