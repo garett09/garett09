@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get an M1 Pro or M1 Max MacBook Pro at up to $1,300 off with today&#39;s blowout deals](https://appleinsider.com/articles/23/05/21/get-an-m1-pro-or-m1-max-macbook-pro-at-up-to-1300-off-with-todays-blowout-deals?utm_medium=rss)
  - [Sources: Meta and Magic Leap are in talks for a multiyear deal in which Magic Leap could provide IP licensing and contract manufacturing for Meta&#39;s AR products &lpar;Financial Times&rpar;](http://www.techmeme.com/230521/p1#a230521p1)
- - [The US could be on the cusp of a chipmaking boom, with 50+ projects announced since the CHIPS Act, but officials worry the industry could face a worker shortage &lpar;Madeleine Ngo/New York Times&rpar;](http://www.techmeme.com/230520/p13#a230520p13)
- - [A look at the issues fomented by a decentralized web, including a rise in conspiratorial thinking due to more siloed online spaces and increasing app fatigue &lpar;Jessica Maddox/Wired&rpar;](http://www.techmeme.com/230520/p12#a230520p12)<!-- TECH:END -->
+ - [The US could be on the cusp of a chipmaking boom, with 50+ projects announced since the CHIPS Act, but officials worry the industry could face a worker shortage &lpar;Madeleine Ngo/New York Times&rpar;](http://www.techmeme.com/230520/p13#a230520p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
