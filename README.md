@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I could barely keep it together in this free game where you&#39;re the president trying to hide that he&#39;s an alien](https://www.pcgamer.com/i-could-barely-keep-it-together-in-this-free-game-where-youre-the-president-trying-to-hide-that-hes-an-alien)
  - [Here&#39;s the first trailer for System Shock 2: Enhanced Edition](https://www.pcgamer.com/heres-the-first-trailer-for-system-shock-2-enhanced-edition)
- - [Zelda: Tears of the Kingdom’s duplication glitches break the game &lpar;in your favor&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726961/duplication-glitch-dupe)
- - [Watch the explosive sci-fi thriller Illang: The Wolf Brigade before it leaves Netflix](https://www.polygon.com/2023/5/21/23730297/netflix-sci-fi-movie-illang-wolf-brigade-thriller-watch-leaving-streaming-anime-adaptation)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom’s duplication glitches break the game &lpar;in your favor&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726961/duplication-glitch-dupe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
