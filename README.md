@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: $269 9th-gen iPad, $500 off M1 13-inch MacBook Pro, $245 iRobot Roomba](https://appleinsider.com/articles/23/05/21/deals-269-9th-gen-ipad-500-off-m1-13-inch-macbook-pro-245-irobot-roomba?utm_medium=rss)
- - [I wish more smart home products did what this air purifier does](https://www.androidauthority.com/levoit-core-400s-smart-home-3326961/)
- - [Nearly every Apple top exec is working on the AR headset](https://appleinsider.com/articles/23/05/21/nearly-every-apple-top-exec-is-working-on-the-ar-headset?utm_medium=rss)<!-- TECH:END -->
+ - [Withings Body Smart scale review: Consistently inconsistent](https://appleinsider.com/articles/23/05/21/withings-body-smart-scale-review-consistently-inconsistent?utm_medium=rss)
+ - [Google Tensor G3: What to expect from the Pixel 8 processor](https://www.androidauthority.com/google-tensor-g3-explained-3324692/)
+ - [Deals: $269 9th-gen iPad, $500 off M1 13-inch MacBook Pro, $245 iRobot Roomba](https://appleinsider.com/articles/23/05/21/deals-269-9th-gen-ipad-500-off-m1-13-inch-macbook-pro-245-irobot-roomba?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
