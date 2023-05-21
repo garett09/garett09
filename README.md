@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [How to build your own working Apple I replica computer](https://appleinsider.com/articles/23/05/21/how-to-build-your-own-working-apple-i-replica-computer?utm_medium=rss)
- - [Hands-on with Google&#39;s Duet AI writing aid: a stiff style, inaccurate information, inconsistent Docs and Gmail behavior, great at drafting complaints, and more &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230521/p6#a230521p6)
- - [How to back up your Mac&#39;s Contacts in macOS](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-macs-contacts-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Best Protein Shakes for an Effortless Boost     - CNET](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
+ - [This Convenient Handheld Coffee Maker is 20% Off at Amazon     - CNET](https://www.cnet.com/deals/aeropress-coffee-maker-back-down-to-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
