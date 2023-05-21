@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying to change places before referee give a red card....](http://9gag.com/gag/aKE8Mz1)
- - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)
- - 🚯 [Sarah Rafferty](http://9gag.com/gag/az2OzGq)<!-- MEMES:END -->
+ - 🚖 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
+ - 🚯 [Odd hunting trip](http://9gag.com/gag/amAxwWd)
+ - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)<!-- MEMES:END -->
 
 --- 
 
