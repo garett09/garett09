@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supercharge Your ChatGPT Prompts With Auto-GPT](https://www.wired.com/story/chatgpt-prompts-auto-gpt/)
- - [The Real Risks in Google’s New .Zip and .Mov Domains](https://www.wired.com/story/google-zip-mov-domains-phishing-risks/)
- - [Sony Xperia 1 V vs Google Pixel 7 Pro: Which camera flagship is better?](https://www.androidauthority.com/sony-xperia-1-v-vs-google-pixel-7-pro-3326878/)<!-- TECH:END -->
+ - [Google Photos’ upcoming Magic Editor is cool, but I don’t like it](https://www.androidauthority.com/google-photos-magic-editor-2-3323750/)
+ - [Primitive Asgard Cells Show Life on the Brink of Complexity](https://www.wired.com/story/primitive-asgard-cells-show-life-on-the-brink-of-complexity/)
+ - [Ten of the biggest Apple product heists of all time](https://appleinsider.com/articles/23/05/21/ten-of-the-biggest-apple-product-heists-of-all-time?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
