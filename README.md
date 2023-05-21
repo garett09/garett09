@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
- - 🚯 [Odd hunting trip](http://9gag.com/gag/amAxwWd)
- - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)<!-- MEMES:END -->
+ - 🚖 [Recognized as the world&#39;s most identical twin, Anna and Lucy. They share the same boyfriend called Ben. The twins insist there is no jealousy in their relationship and they would kiss Ben one after the other.](http://9gag.com/gag/aNwBMVw)
+ - 🚯 [Based chick](http://9gag.com/gag/anzxPqV)
+ - 🚯 [Nurse Karen&#39;s lawyer showed the receipt, she did pay for the bike](http://9gag.com/gag/a2KDAZw)<!-- MEMES:END -->
 
 --- 
 
