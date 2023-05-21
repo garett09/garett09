@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta and Magic Leap are in talks for a multiyear deal in which Magic Leap could provide IP licensing and contract manufacturing for Meta&#39;s AR products &lpar;Financial Times&rpar;](http://www.techmeme.com/230521/p1#a230521p1)
  - [The US could be on the cusp of a chipmaking boom, with 50+ projects announced since the CHIPS Act, but officials worry the industry could face a worker shortage &lpar;Madeleine Ngo/New York Times&rpar;](http://www.techmeme.com/230520/p13#a230520p13)
- - [A look at the issues fomented by a decentralized web, including a rise in conspiratorial thinking due to more siloed online spaces and increasing app fatigue &lpar;Jessica Maddox/Wired&rpar;](http://www.techmeme.com/230520/p12#a230520p12)
- - [AI Draws Attention at G-7 Summit, With Leaders Calling for Guidelines     - CNET](https://www.cnet.com/tech/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the issues fomented by a decentralized web, including a rise in conspiratorial thinking due to more siloed online spaces and increasing app fatigue &lpar;Jessica Maddox/Wired&rpar;](http://www.techmeme.com/230520/p12#a230520p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
