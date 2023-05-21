@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysts say crypto miners pivoting to AI cloud services face an uphill battle due to needing other specialized processors, hardware and staff costs, and more &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230521/p2#a230521p2)
  - [Get an M1 Pro or M1 Max MacBook Pro at up to $1,300 off with today&#39;s blowout deals](https://appleinsider.com/articles/23/05/21/get-an-m1-pro-or-m1-max-macbook-pro-at-up-to-1300-off-with-todays-blowout-deals?utm_medium=rss)
- - [Sources: Meta and Magic Leap are in talks for a multiyear deal in which Magic Leap could provide IP licensing and contract manufacturing for Meta&#39;s AR products &lpar;Financial Times&rpar;](http://www.techmeme.com/230521/p1#a230521p1)
- - [The US could be on the cusp of a chipmaking boom, with 50+ projects announced since the CHIPS Act, but officials worry the industry could face a worker shortage &lpar;Madeleine Ngo/New York Times&rpar;](http://www.techmeme.com/230520/p13#a230520p13)<!-- TECH:END -->
+ - [Sources: Meta and Magic Leap are in talks for a multiyear deal in which Magic Leap could provide IP licensing and contract manufacturing for Meta&#39;s AR products &lpar;Financial Times&rpar;](http://www.techmeme.com/230521/p1#a230521p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
