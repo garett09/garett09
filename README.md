@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
- - 🚯 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
- - 🚯 [Nurse Karen&#39;s lawyer showed the receipt, she did pay for the bike](http://9gag.com/gag/a2KDAZw)<!-- MEMES:END -->
+ - 🚖 [Trying to change places before referee give a red card....](http://9gag.com/gag/aKE8Mz1)
+ - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)
+ - 🚯 [Sarah Rafferty](http://9gag.com/gag/az2OzGq)<!-- MEMES:END -->
 
 --- 
 
