@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to build your own working Apple I replica computer](https://appleinsider.com/articles/23/05/21/how-to-build-your-own-working-apple-i-replica-computer?utm_medium=rss)
  - [Hands-on with Google&#39;s Duet AI writing aid: a stiff style, inaccurate information, inconsistent Docs and Gmail behavior, great at drafting complaints, and more &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230521/p6#a230521p6)
- - [How to back up your Mac&#39;s Contacts in macOS](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-macs-contacts-in-macos?utm_medium=rss)
- - [How to recover Notes stored on your Mac](https://appleinsider.com/inside/macos/tips/how-to-recover-notes-stored-on-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [How to back up your Mac&#39;s Contacts in macOS](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-macs-contacts-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
