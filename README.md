@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sore losing wrestler sucker punches opponent](http://9gag.com/gag/abvxKVb)
- - 🚯 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
- - 🚯 [I love happy endings!](http://9gag.com/gag/aREvdE5)<!-- MEMES:END -->
+ - 🚖 [I love happy endings!](http://9gag.com/gag/aREvdE5)
+ - 🚯 [Sore losing wrestler sucker punches opponent](http://9gag.com/gag/abvxKVb)
+ - 🚯 [Sarah Rafferty](http://9gag.com/gag/az2OzGq)<!-- MEMES:END -->
 
 --- 
 
