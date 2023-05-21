@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The big thing missing from Google’s new line-up is a next-gen AI assistant](https://www.androidauthority.com/google-io-ai-assistant-missing-3326962/)
- - [Best Home Emergency Kit Gear &lpar;2023&rpar;: Flashlights, Stoves, Chargers, and More](https://www.wired.com/story/best-home-emergency-gear/)
- - [Top 10 biggest Apple product heists of all time](https://appleinsider.com/articles/23/05/21/ten-of-the-biggest-apple-product-heists-of-all-time?utm_medium=rss)<!-- TECH:END -->
+ - [Nearly every Apple top exec is working on the AR headset](https://appleinsider.com/articles/23/05/21/nearly-every-apple-top-exec-is-working-on-the-ar-headset?utm_medium=rss)
+ - [An in-depth look at the executive team behind Apple&#39;s upcoming mixed reality headset &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230521/p5#a230521p5)
+ - [&#39;Ted Lasso&#39; merch set to land in online Apple Store in June](https://appleinsider.com/articles/23/05/21/ted-lasso-merch-set-to-land-in-online-apple-store-in-june?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
