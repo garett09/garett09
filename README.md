@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
- - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)
- - 🚯 [Nurse Karen&#39;s lawyer showed the receipt, she did pay for the bike](http://9gag.com/gag/a2KDAZw)<!-- MEMES:END -->
+ - 🚖 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)
+ - 🚯 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
+ - 🚯 [Sarah Rafferty](http://9gag.com/gag/az2OzGq)<!-- MEMES:END -->
 
 --- 
 
