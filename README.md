@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Odd hunting trip](http://9gag.com/gag/amAxwWd)
- - 🚯 [Dad decides to take son out for for his first drive and son loses control of car](http://9gag.com/gag/aXn73nP)
- - 🚯 [There&#39;s always that one person...](http://9gag.com/gag/a9qmGOo)<!-- MEMES:END -->
+ - 🚖 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
+ - 🚯 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
+ - 🚯 [Nurse Karen&#39;s lawyer showed the receipt, she did pay for the bike](http://9gag.com/gag/a2KDAZw)<!-- MEMES:END -->
 
 --- 
 
