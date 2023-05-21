@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based Percent, which operates a private credit marketplace, raised a $29.7M Series B led by White Star Capital, bringing its total funding to $48.2M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230520/p11#a230520p11)
  - [How to recover Notes stored on your Mac](https://appleinsider.com/inside/macos/tips/how-to-recover-notes-stored-on-your-mac?utm_medium=rss)
- - [Neeva, the would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
- - [Best Sonos Deals: Get Discounts on New Era 100 and 300 Speaker Bundles and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Devin Haney vs. Vasiliy Lomachenko Livestream: When It Starts and How to Watch     - CNET](https://www.cnet.com/tech/services-and-software/devin-haney-vs-vasiliy-lomachenko-livestream-when-it-starts-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
