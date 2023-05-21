@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Withings Body Smart scale review: Consistently inconsistent](https://appleinsider.com/articles/23/05/21/withings-body-smart-scale-review-consistently-inconsistent?utm_medium=rss)
- - [Google Tensor G3: What to expect from the Pixel 8 processor](https://www.androidauthority.com/google-tensor-g3-explained-3324692/)
- - [Deals: $269 9th-gen iPad, $500 off M1 13-inch MacBook Pro, $245 iRobot Roomba](https://appleinsider.com/articles/23/05/21/deals-269-9th-gen-ipad-500-off-m1-13-inch-macbook-pro-245-irobot-roomba?utm_medium=rss)<!-- TECH:END -->
+ - [Hands-on with Google&#39;s Duet AI writing aid: a stiff style, inaccurate information, inconsistent Docs and Gmail behavior, great at drafting complaints, and more &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230521/p6#a230521p6)
+ - [How to back up your Mac&#39;s Contacts in macOS](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-macs-contacts-in-macos?utm_medium=rss)
+ - [How to recover Notes stored on your Mac](https://appleinsider.com/inside/macos/tips/how-to-recover-notes-stored-on-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
