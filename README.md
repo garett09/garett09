@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: $269 9th-gen iPad, $500 off M1 13-inch MacBook Pro, $245 iRobot Roomba](https://appleinsider.com/articles/23/05/21/deals-269-9th-gen-ipad-500-off-m1-13-inch-macbook-pro-245-irobot-roomba?utm_medium=rss)
  - [I wish more smart home products did what this air purifier does](https://www.androidauthority.com/levoit-core-400s-smart-home-3326961/)
- - [Nearly every Apple top exec is working on the AR headset](https://appleinsider.com/articles/23/05/21/nearly-every-apple-top-exec-is-working-on-the-ar-headset?utm_medium=rss)
- - [An in-depth look at the executive team behind Apple&#39;s upcoming mixed reality headset &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230521/p5#a230521p5)<!-- TECH:END -->
+ - [Nearly every Apple top exec is working on the AR headset](https://appleinsider.com/articles/23/05/21/nearly-every-apple-top-exec-is-working-on-the-ar-headset?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
