@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mass Effect: Andromeda&#39;s creative director still wishes it had got a sequel](https://www.pcgamer.com/mass-effect-andromedas-creative-director-still-wishes-it-had-got-a-sequel)
  - [Today&#39;s Wordle hint and answer #701: Sunday, May 21](https://www.pcgamer.com/wordle-today-hint-answer-701-may-21)
- - [Peter Molyneux&#39;s Magic Carpet was a game of violent chess, and a true one-off](https://www.pcgamer.com/peter-molyneuxs-magic-carpet-was-a-game-of-violent-chess-and-a-true-one-off)
- - [Despite being dead for 20 years, Warhammer Online is hosting a live event on a private server](https://www.pcgamer.com/despite-being-dead-for-20-years-warhammer-online-is-hosting-a-live-event-on-a-private-server)<!-- GAME:END -->
+ - [Peter Molyneux&#39;s Magic Carpet was a game of violent chess, and a true one-off](https://www.pcgamer.com/peter-molyneuxs-magic-carpet-was-a-game-of-violent-chess-and-a-true-one-off)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
