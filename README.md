@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s raining iron](http://9gag.com/gag/a9qmNr0)
- - 🚯 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
- - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)<!-- MEMES:END -->
+ - 🚖 [Good quality shirt](http://9gag.com/gag/aeQxz05)
+ - 🚯 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
+ - 🚯 [Sarah Rafferty](http://9gag.com/gag/az2OzGq)<!-- MEMES:END -->
 
 --- 
 
