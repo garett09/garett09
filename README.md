@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the explosive sci-fi thriller Illang: The Wolf Brigade before it leaves Netflix](https://www.polygon.com/2023/5/21/23730297/netflix-sci-fi-movie-illang-wolf-brigade-thriller-watch-leaving-streaming-anime-adaptation)
- - [How to get Misko’s Treasure in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23694017/miskos-treasure-location-powerful-outfit-shock-resistant)
- - [How to find Ganon’s Horse in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731786/ganons-horse-catch-tame-ride)<!-- GAME:END -->
+ - [Here&#39;s the first trailer for System Shock 2: Enhanced Edition](https://www.pcgamer.com/heres-the-first-trailer-for-system-shock-2-enhanced-edition)
+ - [Zelda: Tears of the Kingdom’s duplication glitches break the game &lpar;in your favor&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726961/duplication-glitch-dupe)
+ - [Watch the explosive sci-fi thriller Illang: The Wolf Brigade before it leaves Netflix](https://www.polygon.com/2023/5/21/23730297/netflix-sci-fi-movie-illang-wolf-brigade-thriller-watch-leaving-streaming-anime-adaptation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
