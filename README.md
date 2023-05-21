@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fast X was so big that it had to be run like a TV show](https://www.polygon.com/23728734/fast-x-characters-sequels-ending-director-interview)
- - [‘White Goats Gone Missing’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731687/white-goats-gone-missing-quest-steps)
- - [Great moments in PC gaming: Reaching Warrior rank in Tekken 7](https://www.pcgamer.com/great-moments-in-pc-gaming-reaching-warrior-rank-in-tekken-7)<!-- GAME:END -->
+ - [How to beat King Gleeok, locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731693/king-gleeok-locations-beat-defeat-drops-rewards)
+ - [There’s already a lofi take on Zelda: Tears of the Kingdom music](https://www.polygon.com/legend-zelda-tears-kingdom/23730317/totk-zelda-tears-of-the-kingdom-lofi-beats)
+ - [Fast X was so big that it had to be run like a TV show](https://www.polygon.com/23728734/fast-x-characters-sequels-ending-director-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
