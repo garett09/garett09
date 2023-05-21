@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to build your own working Apple I replica computer](https://appleinsider.com/articles/23/05/21/how-to-build-your-own-working-apple-i-replica-computer?utm_medium=rss)
- - [Best Protein Shakes for an Effortless Boost     - CNET](https://www.cnet.com/health/fitness/best-protein-shakes/#ftag=CAD590a51e)
- - [This Convenient Handheld Coffee Maker is 20% Off at Amazon     - CNET](https://www.cnet.com/deals/aeropress-coffee-maker-back-down-to-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Service robots like Moxi, which delivers medicines in hospitals, and Jesper, which serves food in restaurants, are in high demand despite job loss concerns &lpar;Peter Funt/Wall Street Journal&rpar;](http://www.techmeme.com/230521/p7#a230521p7)
+ - [Midjourney vs Stable Diffusion: Which AI image generator should you use?](https://www.androidauthority.com/midjourney-vs-stable-diffusion-3327349/)
+ - [Best Budget TV for 2023: Cheap TVs from Vizio, TCL, Hisense and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-budget-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
