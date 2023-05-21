@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lets be honest here](http://9gag.com/gag/ay21AGb)
- - 🚯 [Poor men](http://9gag.com/gag/aZDEXqp)
- - 🚯 [Millionaire in 5 easy steps.](http://9gag.com/gag/a4oAgYv)<!-- MEMES:END -->
+ - 🚖 [Sore losing wrestler sucker punches opponent](http://9gag.com/gag/abvxKVb)
+ - 🚯 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)
+ - 🚯 [I love happy endings!](http://9gag.com/gag/aREvdE5)<!-- MEMES:END -->
 
 --- 
 
