@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Recognized as the world&#39;s most identical twin, Anna and Lucy. They share the same boyfriend called Ben. The twins insist there is no jealousy in their relationship and they would kiss Ben one after the other.](http://9gag.com/gag/aNwBMVw)
- - 🚯 [Based chick](http://9gag.com/gag/anzxPqV)
- - 🚯 [Nurse Karen&#39;s lawyer showed the receipt, she did pay for the bike](http://9gag.com/gag/a2KDAZw)<!-- MEMES:END -->
+ - 🚖 [Dad decides to take son out for for his first drive and son loses control of car](http://9gag.com/gag/aXn73nP)
+ - 🚯 [Recognized as the world&#39;s most identical twin, Anna and Lucy. They share the same boyfriend called Ben. The twins insist there is no jealousy in their relationship and they would kiss Ben one after the other.](http://9gag.com/gag/aNwBMVw)
+ - 🚯 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)<!-- MEMES:END -->
 
 --- 
 
