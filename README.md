@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Fennekin Community Day guide](https://www.polygon.com/pokemon-go-guide/23729837/fennekin-community-day-shiny-braixen-delphox-blast-burn)
  - [Is life with multiple monitors actually better?](https://www.pcgamer.com/is-life-with-multiple-monitors-actually-better)
- - [Before Doom, before Wolfenstein 3D, why does nobody remember one of the first first-person shooters?](https://www.pcgamer.com/saturday-crapshoot-corporation)
- - [Aww: These dark fantasy warriors have the cutest widdle kitty faces](https://www.pcgamer.com/aww-these-dark-fantasy-warriors-have-the-cutest-widdle-kitty-faces)<!-- GAME:END -->
+ - [Before Doom, before Wolfenstein 3D, why does nobody remember one of the first first-person shooters?](https://www.pcgamer.com/saturday-crapshoot-corporation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
