@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #701: Sunday, May 21](https://www.pcgamer.com/wordle-today-hint-answer-701-may-21)
  - [Peter Molyneux&#39;s Magic Carpet was a game of violent chess, and a true one-off](https://www.pcgamer.com/peter-molyneuxs-magic-carpet-was-a-game-of-violent-chess-and-a-true-one-off)
- - [Despite being dead for 20 years, Warhammer Online is hosting a live event on a private server](https://www.pcgamer.com/despite-being-dead-for-20-years-warhammer-online-is-hosting-a-live-event-on-a-private-server)
- - [Pokémon Go Fennekin Community Day guide](https://www.polygon.com/pokemon-go-guide/23729837/fennekin-community-day-shiny-braixen-delphox-blast-burn)<!-- GAME:END -->
+ - [Despite being dead for 20 years, Warhammer Online is hosting a live event on a private server](https://www.pcgamer.com/despite-being-dead-for-20-years-warhammer-online-is-hosting-a-live-event-on-a-private-server)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
