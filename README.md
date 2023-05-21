@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos’ upcoming Magic Editor is cool, but I don’t like it](https://www.androidauthority.com/google-photos-magic-editor-2-3323750/)
- - [Primitive Asgard Cells Show Life on the Brink of Complexity](https://www.wired.com/story/primitive-asgard-cells-show-life-on-the-brink-of-complexity/)
- - [Ten of the biggest Apple product heists of all time](https://appleinsider.com/articles/23/05/21/ten-of-the-biggest-apple-product-heists-of-all-time?utm_medium=rss)<!-- TECH:END -->
+ - [Top 10 biggest Apple product heists of all time](https://appleinsider.com/articles/23/05/21/ten-of-the-biggest-apple-product-heists-of-all-time?utm_medium=rss)
+ - [Tim Cook visits Cannes for &#39;Killers of the Flower Moon&#39; debut](https://appleinsider.com/articles/23/05/21/tim-cook-visits-cannes-for-killers-of-the-flower-moon-debut?utm_medium=rss)
+ - [Google Photos’ upcoming Magic Editor is cool, but I don’t like it](https://www.androidauthority.com/google-photos-magic-editor-2-3323750/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
