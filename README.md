@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Humanity’s solutions are more triumphant than its puzzles](https://www.polygon.com/reviews/23729137/humanity-review)
- - [How to beat King Gleeok, locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731693/king-gleeok-locations-beat-defeat-drops-rewards)
- - [There’s already a lofi take on Zelda: Tears of the Kingdom music](https://www.polygon.com/legend-zelda-tears-kingdom/23730317/totk-zelda-tears-of-the-kingdom-lofi-beats)<!-- GAME:END -->
+ - [Watch the explosive sci-fi thriller Illang: The Wolf Brigade before it leaves Netflix](https://www.polygon.com/2023/5/21/23730297/netflix-sci-fi-movie-illang-wolf-brigade-thriller-watch-leaving-streaming-anime-adaptation)
+ - [How to get Misko’s Treasure in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23694017/miskos-treasure-location-powerful-outfit-shock-resistant)
+ - [How to find Ganon’s Horse in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731786/ganons-horse-catch-tame-ride)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
