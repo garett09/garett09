@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Service robots like Moxi, which delivers medicines in hospitals, and Jesper, which serves food in restaurants, are in high demand despite job loss concerns &lpar;Peter Funt/Wall Street Journal&rpar;](http://www.techmeme.com/230521/p7#a230521p7)
- - [Midjourney vs Stable Diffusion: Which AI image generator should you use?](https://www.androidauthority.com/midjourney-vs-stable-diffusion-3327349/)
- - [Best Budget TV for 2023: Cheap TVs from Vizio, TCL, Hisense and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-budget-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers reveal many low-cost Android phones and smart TVs from lesser-known brands, sold in the US and owned by millions, come with malware preinstalled &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230521/p8#a230521p8)
+ - [Instagram is down](https://www.theverge.com/2023/5/21/23732173/instagram-down-outage-not-loading)
+ - [Apple&#39;s 1TB MacBook Pro 16-inch is on sale for $1,899 for 1 more day](https://appleinsider.com/articles/23/05/21/apples-1tb-macbook-pro-16-inch-is-on-sale-for-1899-for-1-more-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
