@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I could barely keep it together in this free game where you&#39;re the president trying to hide that he&#39;s an alien](https://www.pcgamer.com/i-could-barely-keep-it-together-in-this-free-game-where-youre-the-president-trying-to-hide-that-hes-an-alien)
- - [Here&#39;s the first trailer for System Shock 2: Enhanced Edition](https://www.pcgamer.com/heres-the-first-trailer-for-system-shock-2-enhanced-edition)
- - [Zelda: Tears of the Kingdom’s duplication glitches break the game &lpar;in your favor&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726961/duplication-glitch-dupe)<!-- GAME:END -->
+ - [Filename forensics suggest there has always been a PC version of Bloodborne—but that doesn&#39;t mean we can ever play it](https://www.pcgamer.com/filename-forensics-suggest-there-has-always-been-a-pc-version-of-bloodbornebut-that-doesnt-mean-we-can-ever-play-it)
+ - [The Dead Cells board game is off to a promising crowdfunding start](https://www.pcgamer.com/the-dead-cells-board-game-is-off-to-a-promising-crowdfunding-start)
+ - [I could barely keep it together in this free game where you&#39;re the president trying to hide that he&#39;s an alien](https://www.pcgamer.com/i-could-barely-keep-it-together-in-this-free-game-where-youre-the-president-trying-to-hide-that-hes-an-alien)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
