@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
- - 🚯 [Sarah Rafferty](http://9gag.com/gag/az2OzGq)
- - 🚯 [New hate crime just dropped](http://9gag.com/gag/aXn7z96)<!-- MEMES:END -->
+ - 🚯 [Sore losing wrestler sucker punches opponent](http://9gag.com/gag/abvxKVb)
+ - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)<!-- MEMES:END -->
 
 --- 
 
