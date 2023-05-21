@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 1 V vs Google Pixel 7 Pro: Which camera flagship is better?](https://www.androidauthority.com/sony-xperia-1-v-vs-google-pixel-7-pro-3326878/)
- - [I’m Dependent on My Phone—and I’ve Never Slept Better](https://www.wired.com/story/im-dependent-on-my-phone-and-ive-never-slept-better/)
- - [Analysts say crypto miners pivoting to AI cloud services face an uphill battle due to needing other specialized processors, hardware and staff costs, and more &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/230521/p2#a230521p2)<!-- TECH:END -->
+ - [Supercharge Your ChatGPT Prompts With Auto-GPT](https://www.wired.com/story/chatgpt-prompts-auto-gpt/)
+ - [The Real Risks in Google’s New .Zip and .Mov Domains](https://www.wired.com/story/google-zip-mov-domains-phishing-risks/)
+ - [Sony Xperia 1 V vs Google Pixel 7 Pro: Which camera flagship is better?](https://www.androidauthority.com/sony-xperia-1-v-vs-google-pixel-7-pro-3326878/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
