@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They, them](http://9gag.com/gag/aPgeqWQ)
- - 🚯 [Based chick](http://9gag.com/gag/anzxPqV)
- - 🚯 [I love happy endings!](http://9gag.com/gag/aREvdE5)<!-- MEMES:END -->
+ - 🚖 [Took me a decade to years to realize what happened](http://9gag.com/gag/adPxAvZ)
+ - 🚯 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)
+ - 🚯 [Trying to change places before referee give a red card....](http://9gag.com/gag/aKE8Mz1)<!-- MEMES:END -->
 
 --- 
 
