@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego’s new Pac-Man arcade set makes the old new again](https://www.polygon.com/23732728/lego-pac-man-arcade-set-release-price)
- - [Our burning questions about Fast X &lpar;and a few answers&rpar;](https://www.polygon.com/23730487/fast-x-questions-ending-explained-characters)
- - [Zelda: Tears Of The Kingdom’s Latest Infinite Item Glitch Is The Fastest And Easiest Yet](https://kotaku.com/zelda-tears-of-the-kingdom-diamond-duplication-glitch-1850460897)<!-- GAME:END -->
+ - [Zelda producer shines a candid light on how they made a crowd-pleasing Tears of the Kingdom](https://www.polygon.com/23732824/legend-zelda-tears-kingdom-eiji-aonuma-interview)
+ - [Hello Neighbor VR: Search and Rescue comes to PS VR2 on May 25](https://blog.playstation.com/2023/05/22/hello-neighbor-vr-search-and-rescue-comes-to-ps-vr2-on-may-25/)
+ - [Survive in Miasma Chronicles’ New America with These Developer Tips and Tricks](https://news.xbox.com/en-us/2023/05/22/miasma-chronicles-developer-tips-and-tricks/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
