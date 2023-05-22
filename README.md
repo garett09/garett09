@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zelda: Tears of the Kingdom’s duplication glitches break the game &lpar;in your favor&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726961/duplication-glitch-dupe)
- - [‘Conceptual Opera’ After Us Breaks Game Design Rules By Introducing Emotions](https://news.xbox.com/en-us/2023/05/22/after-us-may-23-release/)
- - [What is the Blood Moon in Zelda: Tears of the Kingdom?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23732914/blood-moon-length-cooking)<!-- GAME:END -->
+ - [Find Your Niche: Three Extremely Unexpected New Game Collections Arrive in Xbox Game Pass](https://news.xbox.com/en-us/2023/05/22/xbox-game-pass-niche-collections/)
+ - [The coolest hardware and accessories on sale during Amazon’s gaming week](https://www.polygon.com/2023/5/22/23732715/amazon-gaming-week-hardware-ssds-headsets-mice-keyboards-deal-sale)
+ - [Las Vegas neighborhood names its streets after Pokémon](https://www.polygon.com/23733025/pokemon-street-names-las-vegas-serenity-place-squirtle-jigglypuff-charmander-charizard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
