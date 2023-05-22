@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Streamer Amouranth Now Has An AI Bot You Can Chat With](https://kotaku.com/twitch-streamer-kaitlyn-amouranth-siragusa-ai-chatbot-1850461524)
- - [Momosik Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23732849/momosik-shrine-puzzle-solution-chest)
- - [Start A Riot With The Callisto Protocol’s New DLC](https://news.xbox.com/en-us/2023/05/22/the-callisto-protocol-new-dlc/)<!-- GAME:END -->
+ - [Zelda: Tears of the Kingdom’s duplication glitches break the game &lpar;in your favor&rpar;](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726961/duplication-glitch-dupe)
+ - [‘Conceptual Opera’ After Us Breaks Game Design Rules By Introducing Emotions](https://news.xbox.com/en-us/2023/05/22/after-us-may-23-release/)
+ - [What is the Blood Moon in Zelda: Tears of the Kingdom?](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23732914/blood-moon-length-cooking)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
