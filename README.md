@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [California takes big step in bringing right to repair to silicon valley](https://www.pcgamer.com/california-takes-big-step-in-bringing-right-to-repair-to-silicon-valley)
- - [Indie studio warns other developers after being unable to claim its own name on Discord](https://www.pcgamer.com/indie-studio-warns-other-developers-after-being-unable-to-claim-its-own-name-on-discord)
- - [Five new Steam games you probably missed &lpar;May 22, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-22-2023)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #702: Monday, May 22](https://www.pcgamer.com/wordle-today-hint-answer-702-may-22)
+ - [Mortal Kombat 1 system requirements show it&#39;ll be another 100GB install](https://www.pcgamer.com/mortal-kombat-1-pc-system-requirements)
+ - [California takes big step in bringing right to repair to silicon valley](https://www.pcgamer.com/california-takes-big-step-in-bringing-right-to-repair-to-silicon-valley)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
