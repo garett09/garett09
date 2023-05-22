@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enemy Blinder 3000](http://9gag.com/gag/aVbZpXv)
- - 🚯 [Bless the dogs](http://9gag.com/gag/aREvbKy)
- - 🚯 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)<!-- MEMES:END -->
+ - 🚖 [They, them](http://9gag.com/gag/aPgeqWQ)
+ - 🚯 [German engineering at it&#39;s best.](http://9gag.com/gag/aQEmWXW)
+ - 🚯 [I love happy endings!](http://9gag.com/gag/aREvdE5)<!-- MEMES:END -->
 
 --- 
 
