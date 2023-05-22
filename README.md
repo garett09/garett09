@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford’s Level 3 driver-assist feature won’t be able to handle busy city streets anytime soon](https://www.theverge.com/2023/5/22/23732877/ford-level-3-driver-assist-autonomous-city-streets)
- - [Boston University graduates roasted the hell out of David Zaslav at their commencement ceremony](https://www.theverge.com/2023/5/22/23732746/david-zaslav-boston-university-commencement-wga-strike)
- - [WhatsApp adds iMessage-like editing with a 15 minute window](https://appleinsider.com/articles/23/05/22/whatsapp-adds-imessage-like-editing-with-a-15-minute-window?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus 11 and 11R now starting to receive Oxygen OS 13.1 update](https://www.androidauthority.com/oneplus-11-update-3327697/)
+ - [Some users say Twitter is restoring tweets and retweets that they had deleted, in what appears to be a new bug &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230522/p21#a230522p21)
+ - [The Planet Can’t Sustain Rapid Growth Much Longer](https://www.wired.com/story/gaya-herrington-avoiding-global-collapse/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
