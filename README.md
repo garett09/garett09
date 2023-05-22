@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;May 22, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-22-2023)
- - [Our Favorite Cosplay From C2E2 2023](https://kotaku.com/cosplay-photos-gallery-video-c2e2-street-fighter-got-1850459897)
- - [Modders have remade the entire Fallout: New Vegas world map in Minecraft](https://www.pcgamer.com/modders-have-remade-the-entire-fallout-new-vegas-world-map-in-minecraft)<!-- GAME:END -->
+ - [California takes big step in bringing right to repair to silicon valley](https://www.pcgamer.com/california-takes-big-step-in-bringing-right-to-repair-to-silicon-valley)
+ - [Indie studio warns other developers after being unable to claim its own name on Discord](https://www.pcgamer.com/indie-studio-warns-other-developers-after-being-unable-to-claim-its-own-name-on-discord)
+ - [Five new Steam games you probably missed &lpar;May 22, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-22-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
