@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers reveal many low-cost Android phones and smart TVs from lesser-known brands, sold in the US and owned by millions, come with malware preinstalled &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230521/p8#a230521p8)
- - [Instagram is down](https://www.theverge.com/2023/5/21/23732173/instagram-down-outage-not-loading)
- - [Apple&#39;s 1TB MacBook Pro 16-inch is on sale for $1,899 for 1 more day](https://appleinsider.com/articles/23/05/21/apples-1tb-macbook-pro-16-inch-is-on-sale-for-1899-for-1-more-day?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram was down, but now it’s working again](https://www.theverge.com/2023/5/21/23732173/instagram-down-outage-not-loading)
+ - [How to build your own working Apple I replica computer](https://appleinsider.com/articles/23/05/21/how-to-build-your-own-working-apple-i-replica-computer?utm_medium=rss)
+ - [Researchers reveal many low-cost Android phones and smart TVs from lesser-known brands, sold in the US and owned by millions, come with malware preinstalled &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/230521/p8#a230521p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
