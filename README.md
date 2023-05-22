@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with AI researcher Timnit Gebru on her controversial sacking by Google in 2020, biases in AI and Big Tech, racism in Silicon Valley, and more &lpar;John Harris/The Guardian&rpar;](http://www.techmeme.com/230522/p9#a230522p9)
- - [The Snapdragon 8 Gen 3 isn’t out but we’ve already got Snapdragon Gen 4 rumors](https://www.androidauthority.com/snapdragon-8-gen-4-cpu-3327458/)
- - [Experts say a ban on &quot;forever chemicals&quot;, considered toxic for humans and the environment, could derail the EU&#39;s chip plans as there are no safe alternatives &lpar;Financial Times&rpar;](http://www.techmeme.com/230522/p8#a230522p8)<!-- TECH:END -->
+ - [Chipmaking machine giant Applied Materials plans to invest up to $4B in a Sunnyvale, California, research facility over seven years to improve collaboration &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/230522/p10#a230522p10)
+ - [Twitter CEO Linda Yaccarino Is Teetering on the Glass Cliff](https://www.wired.com/story/twitter-linda-yaccarino-glass-cliff/)
+ - [Apple continues headset trademark spree with &#39;xrProOS&#39; filings](https://appleinsider.com/articles/23/05/22/apple-continues-headset-trademark-spree-with-xrproos-filings?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
