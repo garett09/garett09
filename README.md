@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying to change places before referee give a red card....](http://9gag.com/gag/aKE8Mz1)
+ - 🚖 [I can hear the fish scream](http://9gag.com/gag/a1PVgB2)
  - 🚯 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)
- - 🚯 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)<!-- MEMES:END -->
+ - 🚯 [The Little Mermaid DISASTER in China is WORSE than we thought. It only raised $13,000 during the pre-sale all weekend. Analysts estimate that it could be the GREATEST FAILURE in the entire history of a Hollywood movie in China](http://9gag.com/gag/aZDE6A0)<!-- MEMES:END -->
 
 --- 
 
