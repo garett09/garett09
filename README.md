@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Let’s Go’ Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23650249/lets-go-special-research-tasks-rewards-steps)
- - [How to get a Master Ball in Pokémon Go, and when to use it](https://www.polygon.com/pokemon-go-guide/23732462/master-ball-research-unlock-use-miss)
- - [Intel proposes x86S, a 64-bit CPU microarchitecture that does away with legacy 16-bit and 32-bit support](https://www.pcgamer.com/intel-proposes-x86s-a-64-bit-cpu-microarchitecture-that-does-away-with-legacy-16-bit-and-32-bit-support)<!-- GAME:END -->
+ - [Enough with the cyberpunk aesthetic, bring back retrofuturism](https://www.pcgamer.com/enough-with-the-cyberpunk-aesthetic-bring-back-retrofuturism)
+ - [Shiv’s pregnancy is actually integral to her Succession story](https://www.polygon.com/23730275/succession-season-4-shiv-pregnant-episode)
+ - [Halo Infinite gets around to adding classic MP mode a mere 18 months after launch](https://www.pcgamer.com/halo-infinite-gets-around-to-adding-classic-mp-mode-a-mere-18-months-after-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
