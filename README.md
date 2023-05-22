@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Enough with the cyberpunk aesthetic, bring back retrofuturism](https://www.pcgamer.com/enough-with-the-cyberpunk-aesthetic-bring-back-retrofuturism)
- - [Shiv’s pregnancy is actually integral to her Succession story](https://www.polygon.com/23730275/succession-season-4-shiv-pregnant-episode)
- - [Halo Infinite gets around to adding classic MP mode a mere 18 months after launch](https://www.pcgamer.com/halo-infinite-gets-around-to-adding-classic-mp-mode-a-mere-18-months-after-launch)<!-- GAME:END -->
+ - [The Little Mermaid live-action remake actually fixed the right character](https://www.polygon.com/23730300/the-little-mermaid-live-action-halle-bailey-ariel-eric)
+ - [How Square Enix built Final Fantasy XVI’s fantastical, believable, lived-in world](https://blog.playstation.com/2023/05/22/how-square-enix-built-final-fantasy-xvis-fantastical-believable-lived-in-world/)
+ - [PC Games from Xbox Headed to Boosteroid Customers June 1](https://news.xbox.com/en-us/2023/05/22/pc-games-from-xbox-headed-to-boosteroid/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
