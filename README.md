@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can finally edit WhatsApp messages, with one major limitation](https://www.androidauthority.com/edit-whatsapp-messages-launch-3327590/)
- - [Mophie releases MagSafe-certified car charger &amp; magnetic vent mount for iPhone users](https://appleinsider.com/articles/23/05/22/mophie-releases-magsafe-certified-car-charger-magnetic-vent-mount-for-iphone-users?utm_medium=rss)
- - [Editable WhatsApp messages are coming to help you fxi silly typos](https://www.theverge.com/2023/5/22/23732767/whatsapp-message-editing-15-minutes)<!-- TECH:END -->
+ - [Withings Body Smart scale review: Consistently inconsistent](https://appleinsider.com/articles/23/05/21/withings-body-smart-scale-review-consistently-inconsistent?utm_medium=rss)
+ - [The best ANC headphones are on sale for only the second time this year](https://www.androidauthority.com/sony-wh-1000xm5-anc-headphones-deal-3327618/)
+ - [How many hours have you played Tears of the Kingdom?](https://www.theverge.com/23732841/legend-of-zelda-tears-of-the-kingdom-hours-played-check)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
