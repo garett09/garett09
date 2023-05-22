@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They, them](http://9gag.com/gag/aPgeqWQ)
- - 🚯 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)
- - 🚯 [Dear Usa fellow with Braincell, please Stop this nonsense](http://9gag.com/gag/aKE8oQj)<!-- MEMES:END -->
+ - 🚖 [Dad decides to take son out for for his first drive and son loses control of car](http://9gag.com/gag/aXn73nP)
+ - 🚯 [Cruella DeVille?](http://9gag.com/gag/aEqWKoe)
+ - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)<!-- MEMES:END -->
 
 --- 
 
