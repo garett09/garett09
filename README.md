@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Miles Morales, Spider-Man 2099 swing onto Fortnite this week](https://www.polygon.com/23725883/fortnite-spider-man-2099-miles-morales-spiderverse)
- - [The Little Mermaid live-action remake actually fixed the right character](https://www.polygon.com/23730300/the-little-mermaid-live-action-halle-bailey-ariel-eric)
- - [How Square Enix built Final Fantasy XVI’s fantastical, believable, lived-in world](https://blog.playstation.com/2023/05/22/how-square-enix-built-final-fantasy-xvis-fantastical-believable-lived-in-world/)<!-- GAME:END -->
+ - [Lego’s new Pac-Man arcade set makes the old new again](https://www.polygon.com/23732728/lego-pac-man-arcade-set-release-price)
+ - [Our burning questions about Fast X &lpar;and a few answers&rpar;](https://www.polygon.com/23730487/fast-x-questions-ending-explained-characters)
+ - [Zelda: Tears Of The Kingdom’s Latest Infinite Item Glitch Is The Fastest And Easiest Yet](https://kotaku.com/zelda-tears-of-the-kingdom-diamond-duplication-glitch-1850460897)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
