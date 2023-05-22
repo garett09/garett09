@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Google Photos labeled two Black people as &quot;gorillas&quot; in May 2015, photo apps from Google, Apple, Amazon, and Microsoft still do not identify gorillas &lpar;New York Times&rpar;](http://www.techmeme.com/230522/p13#a230522p13)
- - [Family hit with $3,100 App Store bill after kid goes on Roblox spending spree](https://appleinsider.com/articles/23/05/22/family-hit-with-3100-app-store-bill-after-kid-goes-on-roblox-spending-spree?utm_medium=rss)
- - [Venmo Teen accounts are coming next month](https://www.theverge.com/2023/5/22/23732472/venmo-teen-account-debit-card-cash-app-finance-parental-controls)<!-- TECH:END -->
+ - [Sources and analysis: Alejandro Encinas, Mexico&#39;s under secretary for human rights, was targeted with Pegasus while investigating the country&#39;s military &lpar;New York Times&rpar;](http://www.techmeme.com/230522/p15#a230522p15)
+ - [Galaxy Z Fold 2 gets May 2023 security patch in US](https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/)
+ - [Nocs Field Issue Review &lpar;2023&rpar;: Lightweight, Colorful, and Fun](https://www.wired.com/review/nocs-field-issue-binoculars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
