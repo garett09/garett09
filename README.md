@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)
- - 🚯 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)
- - 🚯 [Recognized as the world&#39;s most identical twin, Anna and Lucy. They share the same boyfriend called Ben. The twins insist there is no jealousy in their relationship and they would kiss Ben one after the other.](http://9gag.com/gag/aNwBMVw)<!-- MEMES:END -->
+ - 🚯 [Bless the dogs](http://9gag.com/gag/aREvbKy)
+ - 🚯 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)<!-- MEMES:END -->
 
 --- 
 
