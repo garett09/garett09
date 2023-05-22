@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dad decides to take son out for for his first drive and son loses control of car](http://9gag.com/gag/aXn73nP)
- - 🚯 [Cruella DeVille?](http://9gag.com/gag/aEqWKoe)
- - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)<!-- MEMES:END -->
+ - 🚖 [Enemy Blinder 3000](http://9gag.com/gag/aVbZpXv)
+ - 🚯 [Bless the dogs](http://9gag.com/gag/aREvbKy)
+ - 🚯 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)<!-- MEMES:END -->
 
 --- 
 
