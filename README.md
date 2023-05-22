@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Miles Morales, Spider-Man 2099 swing onto Fortnite this week](https://www.polygon.com/23725883/fortnite-spider-man-2099-miles-morales-spiderverse)
  - [The Little Mermaid live-action remake actually fixed the right character](https://www.polygon.com/23730300/the-little-mermaid-live-action-halle-bailey-ariel-eric)
- - [How Square Enix built Final Fantasy XVI’s fantastical, believable, lived-in world](https://blog.playstation.com/2023/05/22/how-square-enix-built-final-fantasy-xvis-fantastical-believable-lived-in-world/)
- - [PC Games from Xbox Headed to Boosteroid Customers June 1](https://news.xbox.com/en-us/2023/05/22/pc-games-from-xbox-headed-to-boosteroid/)<!-- GAME:END -->
+ - [How Square Enix built Final Fantasy XVI’s fantastical, believable, lived-in world](https://blog.playstation.com/2023/05/22/how-square-enix-built-final-fantasy-xvis-fantastical-believable-lived-in-world/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
