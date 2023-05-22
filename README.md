@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [From MOBA to Action-Platformer – How Convergence: A League of Legends Adapted Zaun’s Champions](https://news.xbox.com/en-us/2023/05/22/convergence-league-of-legends-moba/)
- - [Tears Of The Kingdom Raises Eyebrows Over Zelda And Link’s Dating Status](https://kotaku.com/tears-of-the-kingdom-link-zelda-hateno-village-dating-1850462397)
- - [En-oma Shrine solution in Zelda Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733312/en-oma-shrine-lake-hylia-puzzle-solution-chest)<!-- GAME:END -->
+ - [Orochium Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723101/orochium-shrine-puzzle-solution-chest)
+ - [Gatanisis Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733404/gatanisis-shrine-solution-puzzle-chest)
+ - [This cozy farm sim lets you raise dozens of adorable animals and then become one](https://www.pcgamer.com/this-cozy-farm-sim-lets-you-raise-dozens-of-adorable-animals-and-then-become-one)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
