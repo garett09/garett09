@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom reports Q1 revenue of $1.11B, vs. $1.08B est., up 3% YoY, Enterprise revenue of $632M, up 13% YoY, and customers contributing $100K+ annually up ~23% YoY &lpar;Tiyashi Datta/Reuters&rpar;](http://www.techmeme.com/230522/p27#a230522p27)
- - [In an April email, Blizzard&#39;s chief design officer told staff to &quot;prepare to be amazed&quot; by its AI image generator trained on assets from its titles like Diablo &lpar;Shannon Liao/New York Times&rpar;](http://www.techmeme.com/230522/p26#a230522p26)
- - [The wildest Tears of the Kingdom builds we’ve seen](https://www.theverge.com/2023/5/22/23732888/tears-of-the-kingdom-builds-crafting-wildest)<!-- TECH:END -->
+ - [Google expands its AI-based flood forecasting service Flood Hub to 80 countries, up from 20, offering forecasts up to 7 days in advance to 460 million people &lpar;Yossi Matias/The Keyword&rpar;](http://www.techmeme.com/230522/p28#a230522p28)
+ - [The Color Purple’s first trailer promises a powerful reimagining of the original film](https://www.theverge.com/23733529/the-color-purple-trailer-remake)
+ - [iPhone 16 rumored to have iPhone 12-like vertical camera arrangement](https://appleinsider.com/articles/23/05/22/iphone-16-rumored-to-have-iphone-12-like-vertical-camera-arrangement?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
