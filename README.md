@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)
- - 🚯 [Bless the dogs](http://9gag.com/gag/aREvbKy)
- - 🚯 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)<!-- MEMES:END -->
+ - 🚖 [Trying to change places before referee give a red card....](http://9gag.com/gag/aKE8Mz1)
+ - 🚯 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)
+ - 🚯 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)<!-- MEMES:END -->
 
 --- 
 
