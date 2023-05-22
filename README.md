@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based chick](http://9gag.com/gag/anzxPqV)
- - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)
- - 🚯 [Took me a decade to years to realize what happened](http://9gag.com/gag/adPxAvZ)<!-- MEMES:END -->
+ - 🚖 [Took me a decade to years to realize what happened](http://9gag.com/gag/adPxAvZ)
+ - 🚯 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)
+ - 🚯 [Give me a real challenge](http://9gag.com/gag/aeQx815)<!-- MEMES:END -->
 
 --- 
 
