@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another day in Russia](http://9gag.com/gag/a6qB6Q9)
+ - 🚖 [Bless the dogs](http://9gag.com/gag/aREvbKy)
  - 🚯 [Based chick](http://9gag.com/gag/anzxPqV)
- - 🚯 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)<!-- MEMES:END -->
+ - 🚯 [Took me a decade to years to realize what happened](http://9gag.com/gag/adPxAvZ)<!-- MEMES:END -->
 
 --- 
 
