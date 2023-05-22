@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Withings Body Smart scale review: Consistently inconsistent](https://appleinsider.com/articles/23/05/21/withings-body-smart-scale-review-consistently-inconsistent?utm_medium=rss)
- - [The best ANC headphones are on sale for only the second time this year](https://www.androidauthority.com/sony-wh-1000xm5-anc-headphones-deal-3327618/)
- - [How many hours have you played Tears of the Kingdom?](https://www.theverge.com/23732841/legend-of-zelda-tears-of-the-kingdom-hours-played-check)<!-- TECH:END -->
+ - [Ford’s Level 3 driver-assist feature won’t be able to handle busy city streets anytime soon](https://www.theverge.com/2023/5/22/23732877/ford-level-3-driver-assist-autonomous-city-streets)
+ - [Boston University graduates roasted the hell out of David Zaslav at their commencement ceremony](https://www.theverge.com/2023/5/22/23732746/david-zaslav-boston-university-commencement-wga-strike)
+ - [WhatsApp adds iMessage-like editing with a 15 minute window](https://appleinsider.com/articles/23/05/22/whatsapp-adds-imessage-like-editing-with-a-15-minute-window?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
