@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The M1 Pro 16-inch MacBook Pro with 1TB of storage is $800 off today](https://www.theverge.com/2023/5/22/23733200/apple-16-inch-macbook-pro-m1-pro-laptop-deal-sale)
- - [OpenAI CEO Sam Altman, President Greg Brockman, and Chief Scientist Ilya Sutskever say we&#39;ll likely need an international regulatory body for superintelligence &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230522/p23#a230522p23)
- - [How Effective Are Over-the-Counter Hearing Aids?     - CNET](https://www.cnet.com/health/medical/how-effective-are-over-the-counter-hearing-aids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zoom reports Q1 revenue of $1.11B, vs. $1.08B est., up 3% YoY, Enterprise revenue of $632M, up 13% YoY, and customers contributing $100K+ annually up ~23% YoY &lpar;Tiyashi Datta/Reuters&rpar;](http://www.techmeme.com/230522/p27#a230522p27)
+ - [In an April email, Blizzard&#39;s chief design officer told staff to &quot;prepare to be amazed&quot; by its AI image generator trained on assets from its titles like Diablo &lpar;Shannon Liao/New York Times&rpar;](http://www.techmeme.com/230522/p26#a230522p26)
+ - [The wildest Tears of the Kingdom builds we’ve seen](https://www.theverge.com/2023/5/22/23732888/tears-of-the-kingdom-builds-crafting-wildest)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
