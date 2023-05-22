@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals: Apple Watch Series 7 $279, $800 off 16&quot; MacBook Pro, 15% off Apple at eBay, more](https://appleinsider.com/articles/23/05/22/daily-deals-apple-watch-series-7-279-800-off-16-macbook-pro-15-off-apple-at-ebay-more?utm_medium=rss)
- - [Best Car Emergency Kit: 18 Essentials You Need &lpar;2023&rpar;](https://www.wired.com/gallery/best-car-emergency-kit-gear/)
- - [If your Apple Watch has a tint after the watchOS 9.5 update, you&#39;re not alone](https://appleinsider.com/articles/23/05/22/if-your-apple-watch-has-a-tint-after-the-watchos-95-update-youre-not-alone?utm_medium=rss)<!-- TECH:END -->
+ - [You can finally edit WhatsApp messages, with one major limitation](https://www.androidauthority.com/edit-whatsapp-messages-launch-3327590/)
+ - [Mophie releases MagSafe-certified car charger &amp; magnetic vent mount for iPhone users](https://appleinsider.com/articles/23/05/22/mophie-releases-magsafe-certified-car-charger-magnetic-vent-mount-for-iphone-users?utm_medium=rss)
+ - [Editable WhatsApp messages are coming to help you fxi silly typos](https://www.theverge.com/2023/5/22/23732767/whatsapp-message-editing-15-minutes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
