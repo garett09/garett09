@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta hit with record-breaking $1.3 billion fine over Facebook data transfers to the US](https://www.theverge.com/2023/5/22/23732461/meta-eu-privacy-fine-us-data-transfers-1-3-billion)
- - [The EU fines Meta &amp;euro;1.2B over sending European user data to the US, a record GDPR fine, and orders Meta to stop transfers and delete the data within six months &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/230522/p7#a230522p7)
- - [Top500: 121 of the fastest supercomputers globally are powered by AMD silicon, up 29% YoY; the AMD-based Frontier supercomputer retains its top spot &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230522/p6#a230522p6)<!-- TECH:END -->
+ - [An interview with AI researcher Timnit Gebru on her controversial sacking by Google in 2020, biases in AI and Big Tech, racism in Silicon Valley, and more &lpar;John Harris/The Guardian&rpar;](http://www.techmeme.com/230522/p9#a230522p9)
+ - [The Snapdragon 8 Gen 3 isn’t out but we’ve already got Snapdragon Gen 4 rumors](https://www.androidauthority.com/snapdragon-8-gen-4-cpu-3327458/)
+ - [Experts say a ban on &quot;forever chemicals&quot;, considered toxic for humans and the environment, could derail the EU&#39;s chip plans as there are no safe alternatives &lpar;Financial Times&rpar;](http://www.techmeme.com/230522/p8#a230522p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
