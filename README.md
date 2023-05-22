@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and analysis: Alejandro Encinas, Mexico&#39;s under secretary for human rights, was targeted with Pegasus while investigating the country&#39;s military &lpar;New York Times&rpar;](http://www.techmeme.com/230522/p15#a230522p15)
- - [Galaxy Z Fold 2 gets May 2023 security patch in US](https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/)
- - [Nocs Field Issue Review &lpar;2023&rpar;: Lightweight, Colorful, and Fun](https://www.wired.com/review/nocs-field-issue-binoculars/)<!-- TECH:END -->
+ - [Daily Deals: Apple Watch Series 7 $279, $800 off 16&quot; MacBook Pro, 15% off Apple at eBay, more](https://appleinsider.com/articles/23/05/22/daily-deals-apple-watch-series-7-279-800-off-16-macbook-pro-15-off-apple-at-ebay-more?utm_medium=rss)
+ - [Best Car Emergency Kit: 18 Essentials You Need &lpar;2023&rpar;](https://www.wired.com/gallery/best-car-emergency-kit-gear/)
+ - [If your Apple Watch has a tint after the watchOS 9.5 update, you&#39;re not alone](https://appleinsider.com/articles/23/05/22/if-your-apple-watch-has-a-tint-after-the-watchos-95-update-youre-not-alone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
