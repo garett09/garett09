@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based chick](http://9gag.com/gag/anzxPqV)
- - 🚯 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)
- - 🚯 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)<!-- MEMES:END -->
+ - 🚖 [American child sex tourist in Thailand dragged by Thai police from an Immigration Detention Centre into a car waiting to take him to the airport for an extradition flight to the US.](http://9gag.com/gag/ajVxwPG)
+ - 🚯 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
+ - 🚯 [Another day in Russia](http://9gag.com/gag/a6qB6Q9)<!-- MEMES:END -->
 
 --- 
 
