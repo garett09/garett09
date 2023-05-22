@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Artifact now lets you mark articles as clickbait](https://www.theverge.com/2023/5/22/23733545/artifact-articles-clickbait-emoji-reactions-save-image)
  - [Google expands its AI-based flood forecasting service Flood Hub to 80 countries, up from 20, offering forecasts up to 7 days in advance to 460 million people &lpar;Yossi Matias/The Keyword&rpar;](http://www.techmeme.com/230522/p28#a230522p28)
- - [The Color Purple’s first trailer promises a powerful reimagining of the original film](https://www.theverge.com/23733529/the-color-purple-trailer-remake)
- - [iPhone 16 rumored to have iPhone 12-like vertical camera arrangement](https://appleinsider.com/articles/23/05/22/iphone-16-rumored-to-have-iphone-12-like-vertical-camera-arrangement?utm_medium=rss)<!-- TECH:END -->
+ - [The Color Purple’s first trailer promises a powerful reimagining of the original film](https://www.theverge.com/23733529/the-color-purple-trailer-remake)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
