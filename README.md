@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Orochium Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723101/orochium-shrine-puzzle-solution-chest)
- - [Gatanisis Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733404/gatanisis-shrine-solution-puzzle-chest)
- - [This cozy farm sim lets you raise dozens of adorable animals and then become one](https://www.pcgamer.com/this-cozy-farm-sim-lets-you-raise-dozens-of-adorable-animals-and-then-become-one)<!-- GAME:END -->
+ - [I&#39;m getting some tasty Skyrim and Dark Messiah vibes from this first-person action RPG](https://www.pcgamer.com/im-getting-some-tasty-skyrim-and-dark-messiah-vibes-from-this-first-person-action-rpg)
+ - [Final Fantasy XVI&#39;s Developers Had To Watch Game Of Thrones](https://kotaku.com/final-fantasy-xvi-ff16-game-of-thrones-release-date-1850463424)
+ - [Don&#39;t you dare drop the number from the next Final Fantasy name, Square Enix](https://www.pcgamer.com/dont-you-dare-drop-the-numbers-from-the-final-fantasy-names-square-enix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
