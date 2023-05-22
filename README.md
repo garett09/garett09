@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chipmaking machine giant Applied Materials plans to invest up to $4B in a Sunnyvale, California, research facility over seven years to improve collaboration &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/230522/p10#a230522p10)
- - [Twitter CEO Linda Yaccarino Is Teetering on the Glass Cliff](https://www.wired.com/story/twitter-linda-yaccarino-glass-cliff/)
- - [Apple continues headset trademark spree with &#39;xrProOS&#39; filings](https://appleinsider.com/articles/23/05/22/apple-continues-headset-trademark-spree-with-xrproos-filings?utm_medium=rss)<!-- TECH:END -->
+ - [After Google Photos labeled two Black people as &quot;gorillas&quot; in May 2015, photo apps from Google, Apple, Amazon, and Microsoft still do not identify gorillas &lpar;New York Times&rpar;](http://www.techmeme.com/230522/p13#a230522p13)
+ - [Family hit with $3,100 App Store bill after kid goes on Roblox spending spree](https://appleinsider.com/articles/23/05/22/family-hit-with-3100-app-store-bill-after-kid-goes-on-roblox-spending-spree?utm_medium=rss)
+ - [Venmo Teen accounts are coming next month](https://www.theverge.com/2023/5/22/23732472/venmo-teen-account-debit-card-cash-app-finance-parental-controls)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
