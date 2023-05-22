@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They, them](http://9gag.com/gag/aPgeqWQ)
- - 🚯 [German engineering at it&#39;s best.](http://9gag.com/gag/aQEmWXW)
- - 🚯 [I love happy endings!](http://9gag.com/gag/aREvdE5)<!-- MEMES:END -->
+ - 🚖 [Based chick](http://9gag.com/gag/anzxPqV)
+ - 🚯 [Megan Fox was a stunner back in the day](http://9gag.com/gag/aA0M779)
+ - 🚯 [Took me a decade to years to realize what happened](http://9gag.com/gag/adPxAvZ)<!-- MEMES:END -->
 
 --- 
 
