@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rightly so](http://9gag.com/gag/aWGo3B6)
- - 🚯 [Checkmate](http://9gag.com/gag/az2O07Z)
- - 🚯 [I feel uncomfortable](http://9gag.com/gag/aDYbEMw)<!-- MEMES:END -->
+ - 🚖 [In several places in the center of Moscow, the flag of the Freedom of Russia Legion was launched into the sky.](http://9gag.com/gag/aNwBxmv)
+ - 🚯 [Rightly so](http://9gag.com/gag/aWGo3B6)
+ - 🚯 [Let us not forget this hero!](http://9gag.com/gag/agoxP9g)<!-- MEMES:END -->
 
 --- 
 
