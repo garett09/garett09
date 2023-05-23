@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Cut Pro and Logic for iPad are now available](https://appleinsider.com/articles/23/05/23/final-cut-pro-and-logic-for-ipad-are-now-available?utm_medium=rss)
- - [Shutterstock picks up Giphy for $53 million after UK blocks Meta’s acquisition](https://www.theverge.com/2023/5/23/23734220/shutterstock-giphy-meta-cma-uk-antitrust)
- - [Microsoft CTO Kevin Scott thinks Sydney might make a comeback](https://www.theverge.com/23733388/microsoft-kevin-scott-open-ai-chat-gpt-bing-github-word-excel-outlook-copilots-sydney)<!-- TECH:END -->
+ - [Backbone One PlayStation Edition adds support for Android phones](https://www.androidauthority.com/backbone-one-playstation-android-3327663/)
+ - [Google launches Product Studio to let merchants quickly edit product images using generative AI for free, rolling out to US merchants in &quot;the next few months&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230523/p34#a230523p34)
+ - [WWDC 2023: what to expect at Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
