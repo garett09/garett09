@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the cheapest countries in which to buy an iPhone 14](https://www.androidauthority.com/cheapest-place-to-buy-iphone-14-3327869/)
- - [Dyson launches 360 Vis Nav and V15s Detect Submarine](https://www.wired.com/story/dyson-robot-cleaner-wet-dry-vac-battery-tech/)
- - [Dyson’s new robot vacuum promises to clean every corner](https://www.theverge.com/2023/5/22/23733363/dyson-robot-vacuum-dyson-360-vis-nav)<!-- TECH:END -->
+ - [Sources: JioMart cuts 1,000+ jobs as part of a larger cost-cutting measure, which will include reducing the 15,000 people wholesale division by two-thirds &lpar;The Economic Times&rpar;](http://www.techmeme.com/230522/p32#a230522p32)
+ - [An NLRB complaint accuses Amazon of violating US federal labor law at its unionized Staten Island warehouse and Andy Jassy of making illegal anti-union comments &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/230522/p31#a230522p31)
+ - [These are the cheapest countries in which to buy an iPhone 14](https://www.androidauthority.com/cheapest-place-to-buy-iphone-14-3327869/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
