@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Kremlin Plague](http://9gag.com/gag/a9q2jmW)
- - 🚯 [Please tell me this is a gag?](http://9gag.com/gag/a8qeBB6)
- - 🚯 [Fascinating behaviour](http://9gag.com/gag/armq1Nd)<!-- MEMES:END -->
+ - 🚖 [War memeZ.](http://9gag.com/gag/aeQxvKW)
+ - 🚯 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
+ - 🚯 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)<!-- MEMES:END -->
 
 --- 
 
