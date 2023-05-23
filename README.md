@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This ridiculous shoe PC went from a 10-week mod project to a $6,000 custom Cooler Master gaming PC you can actually buy](https://www.pcgamer.com/this-ridiculous-shoe-pc-went-from-a-10-week-mod-project-to-a-dollar6000-custom-cooler-master-gaming-pc-you-can-actually-buy)
- - [In an act of auteur megalomania, Yoshi-P made the Final Fantasy 16 core team buy and watch Game of Thrones](https://www.pcgamer.com/in-an-act-of-auteur-megalomania-yoshi-p-made-the-final-fantasy-16-core-team-buy-and-watch-game-of-thrones)
- - [Blizzard execs sound very excited about AI, want to use it for level design, coding, and &#39;anti-toxicity&#39;](https://www.pcgamer.com/blizzard-execs-sound-very-excited-about-ai-want-to-use-it-for-level-design-coding-and-anti-toxicity)<!-- GAME:END -->
+ - [Nvidia GeForce RTX 4060 Ti](https://www.pcgamer.com/nvidia-rtx-4060-ti-review-benchmarks-performance)
+ - [The best Honkai: Star Rail Jing Yuan build](https://www.pcgamer.com/honkai-star-rail-jing-yuan-build)
+ - [This ridiculous shoe PC went from a 10-week mod project to a $6,000 custom Cooler Master gaming PC you can actually buy](https://www.pcgamer.com/this-ridiculous-shoe-pc-went-from-a-10-week-mod-project-to-a-dollar6000-custom-cooler-master-gaming-pc-you-can-actually-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
