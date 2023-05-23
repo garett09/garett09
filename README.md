@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
- - 🚯 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
+ - 🚖 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
+ - 🚯 [Lol](http://9gag.com/gag/aPgeEvg)
  - 🚯 [Based chick](http://9gag.com/gag/anzxPqV)<!-- MEMES:END -->
 
 --- 
