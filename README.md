@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lego’s Mars Rover Perseverance has 360-degree steering and a swinging arm](https://www.theverge.com/23733997/lego-mars-rover-perseverance-price-release-date)
- - [This palm-sized PC might contain the future of gadget cooling](https://www.theverge.com/2023/5/23/23733592/frore-airjet-zotac-mini-desktop-pc-zbox-pi430aj-price)
- - [HBO Max become Max today, 4K content gets major boost.](https://www.androidauthority.com/hbo-max-become-max-4k-content-3327904/)<!-- TECH:END -->
+ - [As music revenue slows, record labels may force Spotify, which has never changed its US base plan&#39;s price, to follow Apple, Amazon, and others in raising prices &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230523/p6#a230523p6)
+ - [Samsung Display demos long rollable and a health-sensing OLED](https://www.theverge.com/2023/5/23/23734012/samsung-display-sensor-oled-rollable-flex)
+ - [Samsung just revealed the ultimate smartphone screen](https://www.androidauthority.com/samsung-sensor-oled-display-3327928/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
