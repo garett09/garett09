@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Dire Defect of ‘Multilingual’ AI Content Moderation](https://www.wired.com/story/content-moderation-language-artificial-intelligence/)
- - [How NASA Plans to Melt the Moon—and Build on Mars](https://www.wired.com/story/how-nasa-plans-to-melt-the-moon-and-build-on-mars/)
- - [30 Best Mac Apps You Should Download Now &lpar;2023&rpar;: Free and Paid](https://www.wired.com/story/best-mac-apps/)<!-- TECH:END -->
+ - [Miles Morales swings into Fortnite — and he’s bringing web shooters back with him](https://www.theverge.com/2023/5/23/23733002/miles-morales-spider-man-fortnite-web-shooters)
+ - [Best Binoculars &lpar;2023&rpar;: Nikon, Celestron, Swarovski, Zeiss](https://www.wired.com/story/best-binoculars/)
+ - [Amazon’s new Fire Max 11 tablet aims for premium vibes and productivity](https://www.theverge.com/23730409/amazon-fire-max-11-tablet-price-hands-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
