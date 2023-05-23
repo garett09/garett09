@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ticket To Ride, a decades-old classic board game, may be getting a major update](https://www.polygon.com/23734751/ticket-to-ride-legacy-game-trailer-daviau-leacock-moon)
- - [The global release of Bandai Namco&#39;s new MMO has been delayed to 2024, but a beta is still coming later this year](https://www.pcgamer.com/the-global-release-of-bandai-namcos-new-mmo-has-been-delayed-to-2024-but-a-beta-is-still-coming-later-this-year)
- - [Thanks for everything, WinRAR: Windows is finally getting native RAR support](https://www.pcgamer.com/thanks-for-everything-winrar-windows-is-finally-getting-native-rar-support)<!-- GAME:END -->
+ - [The best gifts for Star Wars fans](https://www.polygon.com/what-to-buy/23668378/star-wars-best-gifts-ideas)
+ - [Where to find dragons in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703497/dragon-locations-where-to-find-spikes-scales)
+ - [Tears Of The Kingdom&#39;s Newspaper Quest Is One Of Its Best](https://kotaku.com/tears-of-the-kingdom-sightings-quest-stable-locations-1850466754)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
