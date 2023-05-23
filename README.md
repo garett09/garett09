@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 &amp; PlayStation Studios collaboration cosmetics revealed, live today](https://blog.playstation.com/2023/05/23/destiny-2-playstation-studios-collaboration-cosmetics-revealed-live-today/)
- - [The family cookouts of Fast and Furious, ranked](https://www.polygon.com/23730430/fast-furious-family-cookouts-ranked-fast-x)
- - [Minecraft Sonic Textures Available Now!](https://news.xbox.com/en-us/2023/05/23/minecraft-sonic-textures/)<!-- GAME:END -->
+ - [Netflix’s animated King Kong series absolutely covers Skull Island in monsters](https://www.polygon.com/2023/5/23/23734587/skull-island-king-kong-netflix-announcement-release-date)
+ - [Photoshop&#39;s new AI features look like magic](https://www.pcgamer.com/photoshops-new-ai-features-look-like-magic)
+ - [Ga-Ahisas Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733512/ga-ahisas-shrine-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
