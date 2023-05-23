@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TikTok restructures its ecommerce business to focus on markets where the service has already been introduced, such as the UK, US, and Southeast Asia &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/230523/p3#a230523p3)
- - [Massive Sails Power Ships Like Never Before](https://www.wired.com/story/massive-sails-power-ships-like-never-before/)
- - [The Not-So-Subtle Art of the Meme Coin](https://www.wired.com/story/meme-coin-cryptocurrencies/)<!-- TECH:END -->
+ - [HBO Max become Max today, 4K content gets major boost.](https://www.androidauthority.com/hbo-max-become-max-4k-content-3327904/)
+ - [Securities watchdog IOSCO proposes the first global crypto regulations, covering conflicts of interest, custody, and more, that it aims to finalize by year-end &lpar;Huw Jones/Reuters&rpar;](http://www.techmeme.com/230523/p4#a230523p4)
+ - [Physical keyboards could become more useful on Android 14 tablets](https://www.androidauthority.com/android-14-physical-keyboard-shortcuts-tablets-3327432/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
