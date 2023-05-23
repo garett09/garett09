@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lillipad desk review: A sit-stand desk that fits under your bed](https://appleinsider.com/articles/23/05/23/lillipad-desk-review-a-sit-stand-desk-that-fits-under-your-bed?utm_medium=rss)
- - [Does AI Have a Subconscious?](https://www.wired.com/story/does-ai-have-a-subconscious/)
- - [New York City Is Sinking. It’s Far From Alone](https://www.wired.com/story/new-york-city-is-sinking-its-far-from-alone/)<!-- TECH:END -->
+ - [The Dire Defect of ‘Multilingual’ AI Content Moderation](https://www.wired.com/story/content-moderation-language-artificial-intelligence/)
+ - [How NASA Plans to Melt the Moon—and Build on Mars](https://www.wired.com/story/how-nasa-plans-to-melt-the-moon-and-build-on-mars/)
+ - [30 Best Mac Apps You Should Download Now &lpar;2023&rpar;: Free and Paid](https://www.wired.com/story/best-mac-apps/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
