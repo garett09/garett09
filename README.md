@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
- - 🚯 [She knew, and she warned us](http://9gag.com/gag/aWGoVmd)
- - 🚯 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
+ - 🚖 [War memeZ.](http://9gag.com/gag/aeQxvKW)
+ - 🚯 [You Got a License for for that mate?](http://9gag.com/gag/aoKLm2A)
+ - 🚯 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)<!-- MEMES:END -->
 
 --- 
 
