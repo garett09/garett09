@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)
- - 🚯 [She knew, and she warned us](http://9gag.com/gag/aWGoVmd)
- - 🚯 [Lol](http://9gag.com/gag/aPgeEvg)<!-- MEMES:END -->
+ - 🚖 [Coming from the same mayor who also stated: `There&#39;s no good reason why 65% of people working in science and engineering should be white men. We\u2019re working on fixing it.` Imagine going to Japan and complaining about the numbers of Japanese men in science....](http://9gag.com/gag/a9qm3Bm)
+ - 🚯 [It&#39;s Christmas at ground zero](http://9gag.com/gag/avQxYjO)
+ - 🚯 [The 3 vile anglosaxons SAS operatives been spotted leading Incursion in belgorod. they are truly top gear operatives.](http://9gag.com/gag/a8qerge)<!-- MEMES:END -->
 
 --- 
 
