@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better check your date before meeting](http://9gag.com/gag/abvx7D8)
- - 🚯 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)
- - 🚯 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/aPgeEvg)
+ - 🚯 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
+ - 🚯 [W w w would](http://9gag.com/gag/a5Xz4DV)<!-- MEMES:END -->
 
 --- 
 
