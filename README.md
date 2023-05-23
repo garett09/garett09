@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m getting some tasty Skyrim and Dark Messiah vibes from this first-person action RPG](https://www.pcgamer.com/im-getting-some-tasty-skyrim-and-dark-messiah-vibes-from-this-first-person-action-rpg)
- - [Final Fantasy XVI&#39;s Developers Had To Watch Game Of Thrones](https://kotaku.com/final-fantasy-xvi-ff16-game-of-thrones-release-date-1850463424)
- - [Don&#39;t you dare drop the number from the next Final Fantasy name, Square Enix](https://www.pcgamer.com/dont-you-dare-drop-the-numbers-from-the-final-fantasy-names-square-enix)<!-- GAME:END -->
+ - [Ashfall is a Fallout-inspired MMO set in &#39;a whole new kind of wasteland&#39;](https://www.pcgamer.com/ashfall-is-a-fallout-inspired-mmo-set-in-a-whole-new-kind-of-wasteland)
+ - [Board Game YouTuber&#39;s $7500 Video Request Opens Can Of Worms](https://kotaku.com/board-game-sponsored-content-controversy-youtube-stream-1850459869)
+ - [I&#39;m getting some tasty Skyrim and Dark Messiah vibes from this first-person action RPG](https://www.pcgamer.com/im-getting-some-tasty-skyrim-and-dark-messiah-vibes-from-this-first-person-action-rpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
