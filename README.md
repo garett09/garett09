@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India-based Chalo, which offers online payments and commute tracking for bus operators, raised a $45M Series D led by Avataar Ventures and $12M in debt &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230522/p29#a230522p29)
- - [Artifact now lets you mark articles as clickbait](https://www.theverge.com/2023/5/22/23733545/artifact-articles-clickbait-emoji-reactions-save-image)
- - [Google expands its AI-based flood forecasting service Flood Hub to 80 countries, up from 20, offering forecasts up to 7 days in advance to 460 million people &lpar;Yossi Matias/The Keyword&rpar;](http://www.techmeme.com/230522/p28#a230522p28)<!-- TECH:END -->
+ - [These are the cheapest countries in which to buy an iPhone 14](https://www.androidauthority.com/cheapest-place-to-buy-iphone-14-3327869/)
+ - [Dyson launches 360 Vis Nav and V15s Detect Submarine](https://www.wired.com/story/dyson-robot-cleaner-wet-dry-vac-battery-tech/)
+ - [Dyson’s new robot vacuum promises to clean every corner](https://www.theverge.com/2023/5/22/23733363/dyson-robot-vacuum-dyson-360-vis-nav)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
