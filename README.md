@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based chick](http://9gag.com/gag/anzxPqV)
- - 🚯 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
- - 🚯 [Bless the dogs](http://9gag.com/gag/aREvbKy)<!-- MEMES:END -->
+ - 🚖 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
+ - 🚯 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
+ - 🚯 [Based chick](http://9gag.com/gag/anzxPqV)<!-- MEMES:END -->
 
 --- 
 
