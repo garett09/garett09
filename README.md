@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you said you’d cancel Netflix before paying for account sharing, time is up](https://www.androidauthority.com/netflix-account-sharing-us-3328351/)
- - [The Netflix crackdown on password sharing in the US has arrived](https://appleinsider.com/articles/23/05/23/the-netflix-crackdown-on-password-sharing-in-the-us-has-arrived?utm_medium=rss)
- - [Netflix cracks down on password sharing in the US and offers paid sharing, which lets some accounts add an extra member outside their household for $7.99/month &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230523/p46#a230523p46)<!-- TECH:END -->
+ - [Samsung&#39;s new 27-inch monitor competes with Apple&#39;s Studio Display at half the price](https://appleinsider.com/articles/23/05/23/samsungs-new-27-inch-monitor-competes-with-apples-studio-display-at-half-the-price?utm_medium=rss)
+ - [Here’s how ads might look in Google’s new AI-powered search experience](https://www.theverge.com/2023/5/23/23734609/google-search-generative-experience-sge-ai)
+ - [Spotify is developing AI tools trained on its hosts&#39; voices to create targeted ads, according to Bill Simmons, founder of Spotify&#39;s podcast network The Ringer &lpar;Will Gendron/Insider&rpar;](http://www.techmeme.com/230523/p48#a230523p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
