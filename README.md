@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)
- - 🚯 [Enemy Blinder 3000](http://9gag.com/gag/aVbZpXv)
- - 🚯 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)<!-- MEMES:END -->
+ - 🚖 [Better check your date before meeting](http://9gag.com/gag/abvx7D8)
+ - 🚯 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)
+ - 🚯 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
 
 --- 
 
