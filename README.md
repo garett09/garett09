@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
- - 🚯 [Let us not forget this hero!](http://9gag.com/gag/agoxP9g)
- - 🚯 [Rightly so](http://9gag.com/gag/aWGo3B6)<!-- MEMES:END -->
+ - 🚖 [Wait a damn minute](http://9gag.com/gag/a6qBvDe)
+ - 🚯 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)
+ - 🚯 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
 
 --- 
 
