@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/aPgeEvg)
- - 🚯 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
- - 🚯 [W w w would](http://9gag.com/gag/a5Xz4DV)<!-- MEMES:END -->
+ - 🚖 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)
+ - 🚯 [She knew, and she warned us](http://9gag.com/gag/aWGoVmd)
+ - 🚯 [Lol](http://9gag.com/gag/aPgeEvg)<!-- MEMES:END -->
 
 --- 
 
