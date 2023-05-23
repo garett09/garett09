@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Backbone One PlayStation Edition adds support for Android phones](https://www.androidauthority.com/backbone-one-playstation-android-3327663/)
- - [Google launches Product Studio to let merchants quickly edit product images using generative AI for free, rolling out to US merchants in &quot;the next few months&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230523/p34#a230523p34)
- - [WWDC 2023: what to expect at Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
+ - [Microsoft beats Google by integrating an AI assistant straight into its OS](https://www.androidauthority.com/windows-11-ai-copilot-3328189/)
+ - [The house of the future could be built with dirty diapers](https://www.theverge.com/2023/5/23/23733415/dirty-diapers-construction-material-building-house)
+ - [Windows 11 will try to fix the fragmented mess of RGB lighting](https://www.theverge.com/2023/5/23/23734501/windows-11-rgb-dynamic-lighting-settings-menu-build)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
