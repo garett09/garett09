@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Samba de Amigo wants you to shake it without shame](https://www.polygon.com/23728307/samba-de-amigo-nintendo-switch-party-central-sega)
- - [F1 Manager 2023 is packed with upgrades, and offers a level of fidelity that rivals Codemasters&#39; F1 series](https://www.pcgamer.com/f1-manager-2023-is-packed-with-upgrades-for-the-new-season)
- - [Nvidia GeForce RTX 4060 Ti](https://www.pcgamer.com/nvidia-rtx-4060-ti-review-benchmarks-performance)<!-- GAME:END -->
+ - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)
+ - [Mayachideg Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733509/mayachideg-shrine-solution-puzzle-chest)
+ - [Warhammer 40,000: Boltgun review](https://www.pcgamer.com/warhammer-40000-boltgun-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
