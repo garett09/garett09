@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft beats Google by integrating an AI assistant straight into its OS](https://www.androidauthority.com/windows-11-ai-copilot-3328189/)
- - [The house of the future could be built with dirty diapers](https://www.theverge.com/2023/5/23/23733415/dirty-diapers-construction-material-building-house)
- - [Windows 11 will try to fix the fragmented mess of RGB lighting](https://www.theverge.com/2023/5/23/23734501/windows-11-rgb-dynamic-lighting-settings-menu-build)<!-- TECH:END -->
+ - [Shut up and mint the coin](https://www.theverge.com/2023/5/23/23734654/government-debt-default-trillion-dollar-platinum-coin)
+ - [Apple showcases finalists for 2023 Design Awards](https://appleinsider.com/articles/23/05/23/apple-showcases-finalists-for-2023-design-awards?utm_medium=rss)
+ - [Apple updates Final Cut Pro, Logic Pro, Motion, Compressor for Mac with support for iPad apps](https://appleinsider.com/articles/23/05/23/apple-updates-final-cut-pro-logic-pro-motion-compressor-for-mac-with-support-for-ipad-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
