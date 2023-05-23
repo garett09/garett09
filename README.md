@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [Today&#39;s Wordle hint and answer #703: Tuesday, May 23](https://www.pcgamer.com/wordle-today-hint-answer-703-may-23)
- - [I&#39;m So Infuriated Right Now](https://kotaku.com/summerfall-stray-gods-magic-gathering-concept-art-ee-1850463937)
- - [Blizzard&#39;s AI Tools Sound Incredibly Depressing](https://kotaku.com/blizzard-ai-art-stable-diffusion-concept-activision-1850463809)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/05/22/this-weeks-deals-with-gold-and-spotlight-sale-275/)
+ - [I&#39;m So Infuriated Right Now](https://kotaku.com/summerfall-stray-gods-magic-gathering-concept-art-ee-1850463937)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
