@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [War memeZ.](http://9gag.com/gag/aeQxvKW)
- - 🚯 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
+ - 🚖 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
+ - 🚯 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
  - 🚯 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)<!-- MEMES:END -->
 
 --- 
