@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [The 16 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [A software update might be making Apple Watches green around the gills](https://www.androidauthority.com/apple-watch-green-tint-problem-3327960/)<!-- TECH:END -->
+ - [Lillipad desk review: A sit-stand desk that fits under your bed](https://appleinsider.com/articles/23/05/23/lillipad-desk-review-a-sit-stand-desk-that-fits-under-your-bed?utm_medium=rss)
+ - [Does AI Have a Subconscious?](https://www.wired.com/story/does-ai-have-a-subconscious/)
+ - [New York City Is Sinking. It’s Far From Alone](https://www.wired.com/story/new-york-city-is-sinking-its-far-from-alone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
