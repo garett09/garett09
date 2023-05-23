@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Arcade-y Basketball Game Brings The NBA Jam Vibes](https://kotaku.com/streetstep-21st-century-basketball-arcade-nba-jam-steam-1850467078)
- - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
- - [Kamatukis Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734853/kamatukis-shrine-solution-puzzle-chest)<!-- GAME:END -->
+ - [PlayStation CEO Says Its Games Still Won&#39;t Come To PC On Day One](https://kotaku.com/playstation-sony-final-fantasy-16-ps5-exclusive-pc-1850467525)
+ - [Miryotanog Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734195/miryotanog-shrine-solution-puzzle-chest)
+ - [The Next Big Wave Of Video Game Layoffs Is Here](https://kotaku.com/microsoft-ea-ubisoft-layoffs-game-dev-jobs-recession-1850467429)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
