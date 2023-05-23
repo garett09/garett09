@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait a damn minute](http://9gag.com/gag/a6qBvDe)
- - 🚯 [Block kitchen hole to unlock new fear](http://9gag.com/gag/a6qBYmN)
- - 🚯 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
+ - 🚖 [Trying to change places before referee give a red card....](http://9gag.com/gag/aKE8Mz1)
+ - 🚯 [War memeZ.](http://9gag.com/gag/aeQxvKW)
+ - 🚯 [What happened ?](http://9gag.com/gag/a5XzYKO)<!-- MEMES:END -->
 
 --- 
 
