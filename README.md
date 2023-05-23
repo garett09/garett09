@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying to change places before referee give a red card....](http://9gag.com/gag/aKE8Mz1)
+ - 🚖 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)
  - 🚯 [War memeZ.](http://9gag.com/gag/aeQxvKW)
- - 🚯 [What happened ?](http://9gag.com/gag/a5XzYKO)<!-- MEMES:END -->
+ - 🚯 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)<!-- MEMES:END -->
 
 --- 
 
