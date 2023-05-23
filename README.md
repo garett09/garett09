@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miles Morales swings into Fortnite — and he’s bringing web shooters back with him](https://www.theverge.com/2023/5/23/23733002/miles-morales-spider-man-fortnite-web-shooters)
- - [Best Binoculars &lpar;2023&rpar;: Nikon, Celestron, Swarovski, Zeiss](https://www.wired.com/story/best-binoculars/)
- - [Amazon’s new Fire Max 11 tablet aims for premium vibes and productivity](https://www.theverge.com/23730409/amazon-fire-max-11-tablet-price-hands-on)<!-- TECH:END -->
+ - [Max has arrived, and it’ll feel very familiar to HBO Max customers](https://www.theverge.com/2023/5/23/23733382/max-hbo-warner-bros-discovery-app-hands-on)
+ - [8 Best Coolers WIRED Tested For Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)
+ - [Sony’s new ZV-1 II vlogging camera has a wider lens and faster sensor](https://www.theverge.com/23733389/sony-zv1ii-vlogging-camera-stacked-point-and-shoot-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
