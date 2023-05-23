@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
- - 🚯 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)
- - 🚯 [Bless the dogs](http://9gag.com/gag/aREvbKy)<!-- MEMES:END -->
+ - 🚖 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
+ - 🚯 [She knew, and she warned us](http://9gag.com/gag/aWGoVmd)
+ - 🚯 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
 
 --- 
 
