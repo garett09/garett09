@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Max has arrived, and it’ll feel very familiar to HBO Max customers](https://www.theverge.com/2023/5/23/23733382/max-hbo-warner-bros-discovery-app-hands-on)
- - [8 Best Coolers WIRED Tested For Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)
- - [Sony’s new ZV-1 II vlogging camera has a wider lens and faster sensor](https://www.theverge.com/23733389/sony-zv1ii-vlogging-camera-stacked-point-and-shoot-price-specs)<!-- TECH:END -->
+ - [Final Cut Pro and Logic for iPad are now available](https://appleinsider.com/articles/23/05/23/final-cut-pro-and-logic-for-ipad-are-now-available?utm_medium=rss)
+ - [Shutterstock picks up Giphy for $53 million after UK blocks Meta’s acquisition](https://www.theverge.com/2023/5/23/23734220/shutterstock-giphy-meta-cma-uk-antitrust)
+ - [Microsoft CTO Kevin Scott thinks Sydney might make a comeback](https://www.theverge.com/23733388/microsoft-kevin-scott-open-ai-chat-gpt-bing-github-word-excel-outlook-copilots-sydney)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
