@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gifts for Star Wars fans](https://www.polygon.com/what-to-buy/23668378/star-wars-best-gifts-ideas)
- - [Where to find dragons in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703497/dragon-locations-where-to-find-spikes-scales)
- - [Tears Of The Kingdom&#39;s Newspaper Quest Is One Of Its Best](https://kotaku.com/tears-of-the-kingdom-sightings-quest-stable-locations-1850466754)<!-- GAME:END -->
+ - [This Arcade-y Basketball Game Brings The NBA Jam Vibes](https://kotaku.com/streetstep-21st-century-basketball-arcade-nba-jam-steam-1850467078)
+ - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
+ - [Kamatukis Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734853/kamatukis-shrine-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
