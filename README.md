@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bless the dogs](http://9gag.com/gag/aREvbKy)
- - 🚯 [War memeZ.](http://9gag.com/gag/aeQxvKW)
+ - 🚖 [Lots of beheading to catch up with](http://9gag.com/gag/az2OpKK)
+ - 🚯 [Enemy Blinder 3000](http://9gag.com/gag/aVbZpXv)
  - 🚯 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)<!-- MEMES:END -->
 
 --- 
