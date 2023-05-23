@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shut up and mint the coin](https://www.theverge.com/2023/5/23/23734654/government-debt-default-trillion-dollar-platinum-coin)
- - [Apple showcases finalists for 2023 Design Awards](https://appleinsider.com/articles/23/05/23/apple-showcases-finalists-for-2023-design-awards?utm_medium=rss)
- - [Apple updates Final Cut Pro, Logic Pro, Motion, Compressor for Mac with support for iPad apps](https://appleinsider.com/articles/23/05/23/apple-updates-final-cut-pro-logic-pro-motion-compressor-for-mac-with-support-for-ipad-apps?utm_medium=rss)<!-- TECH:END -->
+ - [First price drop of 2023 on the top-rated Sony WH-1000XM4 headphones](https://www.androidauthority.com/sony-wh-1000xm4-headphones-deal-3328308/)
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
+ - [Chinese Labs Are Selling Fentanyl Ingredients for Millions in Crypto](https://www.wired.com/story/fentanyl-ingredients-chinese-labs-cryptocurrency/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
