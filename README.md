@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best new TV series on every streaming service](https://www.polygon.com/what-to-watch/23560732/best-new-tv-shows-netflix-prime-hbo-max-hulu-streaming)
- - [Mayachideg Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23733509/mayachideg-shrine-solution-puzzle-chest)
- - [Warhammer 40,000: Boltgun review](https://www.pcgamer.com/warhammer-40000-boltgun-review)<!-- GAME:END -->
+ - [Oh snapper, fishing is coming to Destiny 2 later today](https://www.pcgamer.com/oh-snapper-fishing-is-coming-to-destiny-2-later-today)
+ - [Backbone One – PlayStation Edition launches on Android today](https://blog.playstation.com/2023/05/23/backbone-one-playstation-edition-launches-on-android-today/)
+ - [D&amp;D’s revised core rulebooks will help grow better players and more Dungeon Masters](https://www.polygon.com/23730399/dnd-dungeons-dragons-revised-core-rulebook-preview-players-handbook-dmg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
