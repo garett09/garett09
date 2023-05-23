@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First price drop of 2023 on the top-rated Sony WH-1000XM4 headphones](https://www.androidauthority.com/sony-wh-1000xm4-headphones-deal-3328308/)
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
- - [Chinese Labs Are Selling Fentanyl Ingredients for Millions in Crypto](https://www.wired.com/story/fentanyl-ingredients-chinese-labs-cryptocurrency/)<!-- TECH:END -->
+ - [If you said you’d cancel Netflix before paying for account sharing, time is up](https://www.androidauthority.com/netflix-account-sharing-us-3328351/)
+ - [The Netflix crackdown on password sharing in the US has arrived](https://appleinsider.com/articles/23/05/23/the-netflix-crackdown-on-password-sharing-in-the-us-has-arrived?utm_medium=rss)
+ - [Netflix cracks down on password sharing in the US and offers paid sharing, which lets some accounts add an extra member outside their household for $7.99/month &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230523/p46#a230523p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
