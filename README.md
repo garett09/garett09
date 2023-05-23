@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [War memeZ.](http://9gag.com/gag/aeQxvKW)
- - 🚯 [You Got a License for for that mate?](http://9gag.com/gag/aoKLm2A)
- - 🚯 [Abstinence protestor at a college](http://9gag.com/gag/a4oAO0Q)<!-- MEMES:END -->
+ - 🚯 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
+ - 🚯 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)<!-- MEMES:END -->
 
 --- 
 
