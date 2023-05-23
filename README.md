@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia GeForce RTX 4060 Ti](https://www.pcgamer.com/nvidia-rtx-4060-ti-review-benchmarks-performance)
- - [The best Honkai: Star Rail Jing Yuan build](https://www.pcgamer.com/honkai-star-rail-jing-yuan-build)
- - [This ridiculous shoe PC went from a 10-week mod project to a $6,000 custom Cooler Master gaming PC you can actually buy](https://www.pcgamer.com/this-ridiculous-shoe-pc-went-from-a-10-week-mod-project-to-a-dollar6000-custom-cooler-master-gaming-pc-you-can-actually-buy)<!-- GAME:END -->
+ - [Samba de Amigo wants you to shake it without shame](https://www.polygon.com/23728307/samba-de-amigo-nintendo-switch-party-central-sega)
+ - [F1 Manager 2023 is packed with upgrades, and offers a level of fidelity that rivals Codemasters&#39; F1 series](https://www.pcgamer.com/f1-manager-2023-is-packed-with-upgrades-for-the-new-season)
+ - [Nvidia GeForce RTX 4060 Ti](https://www.pcgamer.com/nvidia-rtx-4060-ti-review-benchmarks-performance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
