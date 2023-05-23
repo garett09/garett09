@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oh snapper, fishing is coming to Destiny 2 later today](https://www.pcgamer.com/oh-snapper-fishing-is-coming-to-destiny-2-later-today)
- - [Backbone One – PlayStation Edition launches on Android today](https://blog.playstation.com/2023/05/23/backbone-one-playstation-edition-launches-on-android-today/)
- - [D&amp;D’s revised core rulebooks will help grow better players and more Dungeon Masters](https://www.polygon.com/23730399/dnd-dungeons-dragons-revised-core-rulebook-preview-players-handbook-dmg)<!-- GAME:END -->
+ - [Destiny 2 &amp; PlayStation Studios collaboration cosmetics revealed, live today](https://blog.playstation.com/2023/05/23/destiny-2-playstation-studios-collaboration-cosmetics-revealed-live-today/)
+ - [The family cookouts of Fast and Furious, ranked](https://www.polygon.com/23730430/fast-furious-family-cookouts-ranked-fast-x)
+ - [Minecraft Sonic Textures Available Now!](https://news.xbox.com/en-us/2023/05/23/minecraft-sonic-textures/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
