@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eddy Cue says MLS deal was about Apple sticking to things it could do well](https://appleinsider.com/articles/23/05/24/eddy-cue-says-mls-deal-was-about-apple-sticking-to-things-it-could-do-well?utm_medium=rss)
- - [PlayStation is betting big on new franchises and live service games](https://www.theverge.com/2023/5/23/23735274/sony-playstation-new-franchises-live-service-games-business)
- - [Tokyo-based taxi-hailing app Go says it raised ~$72M from Goldman Sachs at a ~$1B valuation and commands 70% of the Japanese market, outpacing Uber and Didi &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/230523/p51#a230523p51)<!-- TECH:END -->
+ - [iPad shipments more than doubled in China for Q1 versus 2022](https://appleinsider.com/articles/23/05/24/ipad-shipments-more-than-doubled-in-china-for-q1-versus-2022?utm_medium=rss)
+ - [Google launches the Mobile Vulnerability Rewards Program, a bug bounty program for its Android applications, offering rewards ranging from $500 to $30K &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230523/p52#a230523p52)
+ - [Eddy Cue says MLS deal was about Apple sticking to things it could do well](https://appleinsider.com/articles/23/05/24/eddy-cue-says-mls-deal-was-about-apple-sticking-to-things-it-could-do-well?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
