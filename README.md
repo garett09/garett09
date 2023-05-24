@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Money](http://9gag.com/gag/az2RLrb)
- - 🚯 [Can you all see me now](http://9gag.com/gag/a041v8v)
- - 🚯 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
+ - 🚖 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)
+ - 🚯 [His face sais it all](http://9gag.com/gag/aZDjWPV)
+ - 🚯 [You Got a License for for that mate?](http://9gag.com/gag/aoKLm2A)<!-- MEMES:END -->
 
 --- 
 
