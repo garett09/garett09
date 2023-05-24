@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Witcher showrunner says they had the choice to end the show after Cavill&#39;s departure, but there were &#39;too many stories left to tell&#39;](https://www.pcgamer.com/witcher-showrunner-says-they-had-the-choice-to-end-the-show-after-cavills-departure-but-there-were-too-many-stories-left-to-tell)
- - [Bill Gates reckons AI spells the end for Amazon and searching for stuff on Google](https://www.pcgamer.com/bill-gates-reckons-ai-spells-the-end-for-amazon-and-searching-for-stuff-on-google)
- - [Microsoft&#39;s upcoming desktop AI is a pop-up away from becoming an even more annoying Clippy](https://www.pcgamer.com/microsofts-upcoming-desktop-ai-is-a-pop-up-away-from-becoming-an-even-more-annoying-clippy)<!-- GAME:END -->
+ - [Left 4 Dead creator says they got it right in the end because &#39;Gabe dragged it out of me&#39;](https://www.pcgamer.com/left-4-dead-creator-says-they-got-it-right-in-the-end-because-gabe-dragged-it-out-of-me)
+ - [AMD Radeon RX 7600](https://www.pcgamer.com/amd-radeon-rx-7600-review-benchmarks)
+ - [Gran Turismo 7 Update 1.34 adds 3 new cars, Engine Swap, extra Cafe Menus and more](https://blog.playstation.com/2023/05/24/gran-turismo-7-update-1-34-adds-3-new-cars-engine-swap-extra-cafe-menus-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
