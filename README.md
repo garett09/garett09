@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)
- - 🚯 [His face sais it all](http://9gag.com/gag/aZDjWPV)
- - 🚯 [You Got a License for for that mate?](http://9gag.com/gag/aoKLm2A)<!-- MEMES:END -->
+ - 🚖 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
+ - 🚯 [Finally got banned by China](http://9gag.com/gag/aDYVALK)
+ - 🚯 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)<!-- MEMES:END -->
 
 --- 
 
