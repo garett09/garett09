@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
- - 🚯 [Lol I&#39;m dead](http://9gag.com/gag/abvBX2p)
- - 🚯 [Uncle Roger was banned on all Chinese platforms over this comedy routine.](http://9gag.com/gag/aL1AqMv)<!-- MEMES:END -->
+ - 🚖 [This was a good scene](http://9gag.com/gag/a2K2NME)
+ - 🚯 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
+ - 🚯 [Lol I&#39;m dead](http://9gag.com/gag/abvBX2p)<!-- MEMES:END -->
 
 --- 
 
