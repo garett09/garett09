@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The poor guy just want asparagus](http://9gag.com/gag/abvxjKv)
- - 🚯 [Can you all see me now](http://9gag.com/gag/a041v8v)
- - 🚯 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)<!-- MEMES:END -->
+ - 🚖 [Snoop Dogg reacting to me ruining his song](http://9gag.com/gag/anzEe2q)
+ - 🚯 [Finally got banned by China](http://9gag.com/gag/aDYVALK)
+ - 🚯 [Lol I&#39;m dead](http://9gag.com/gag/abvBX2p)<!-- MEMES:END -->
 
 --- 
 
