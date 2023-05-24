@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Generative AI Systems Aren&#39;t Just Open or Closed Source](https://www.wired.com/story/generative-ai-systems-arent-just-open-or-closed-source/)
- - [New Alzheimer’s Drugs Offer Subtle Benefits—With Real Risks](https://www.wired.com/story/alzheimers-drugs-benefits-risks-lecanemab-donanemab/)
- - [Why Fake Drake and AI-Generated Music Are Here to Stay](https://www.wired.com/story/have-a-nice-future-podcast-7/)<!-- TECH:END -->
+ - [BMW i5 Electric: Price, Range, Release Date](https://www.wired.com/story/bmw-has-finally-made-its-first-all-electric-5-series/)
+ - [I tried the AI novel-writing tool everyone hates, and it’s better than I expected](https://www.theverge.com/2023/5/24/23732252/sudowrite-story-engine-ai-generated-cyberpunk-novella)
+ - [Apple rumored to drop limits on 15W wireless chargers for iPhone 15](https://appleinsider.com/articles/23/05/24/apple-rumored-to-drop-limits-on-15w-wireless-chargers-for-iphone-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
