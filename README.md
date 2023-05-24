@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let the games begin](http://9gag.com/gag/ajVZQpG)
- - 🚯 [Just say `hi`](http://9gag.com/gag/a7q2LLb)
- - 🚯 [Snoop Dogg reacting to me ruining his song](http://9gag.com/gag/anzEe2q)<!-- MEMES:END -->
+ - 🚖 [NYC college professor Shellyne Rodriguez who threatened Post reporter is fired](http://9gag.com/gag/anzEqoB)
+ - 🚯 [Id like to move to her class please](http://9gag.com/gag/axoOxn1)
+ - 🚯 [The cake](http://9gag.com/gag/avQxYBb)<!-- MEMES:END -->
 
 --- 
 
