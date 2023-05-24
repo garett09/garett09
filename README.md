@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s solution for hot desking is a $699 dock with a screen](https://www.theverge.com/2023/5/24/23734946/logitech-logi-dock-flex-hot-desking-features-price)
- - [Logitech’s new G Pro X 2 gaming headset has graphene audio drivers](https://www.theverge.com/2023/5/24/23733249/logitech-g-pro-x-2-gaming-headset-graphene-audio-drivers-release-date-pricing)
- - [Sources: Alibaba Cloud plans to layoff 7% of its staff, or ~1,000 employees, as it prepares for a spinoff within 12 months and an eventual IPO &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/230524/p5#a230524p5)<!-- TECH:END -->
+ - [A study suggests that the human brain and artificial general-purpose neural networks process language sounds in similar ways &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/230524/p6#a230524p6)
+ - [Redmi Note 12 Pro Plus review: A powerhouse with potholes](https://www.androidauthority.com/redmi-note-12-pro-plus-review-3312725/)
+ - [Logitech’s solution for hot desking is a $699 dock with a screen](https://www.theverge.com/2023/5/24/23734946/logitech-logi-dock-flex-hot-desking-features-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
