@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked images show Samsung Galaxy Watch 6 with rotating bezel](https://www.theverge.com/2023/5/24/23735576/samsung-galaxy-watch-6-rotating-bezel-leaked-renders)
- - [Don’t pay for WinRAR! Windows 11 will soon support RAR files](https://www.androidauthority.com/windows-11-winrar-rar-file-support-3328610/)
- - [Generative AI Podcasts Are Here. Prepare to Be Bored](https://www.wired.com/story/generative-ai-podcasts-boring/)<!-- TECH:END -->
+ - [Generative AI Systems Aren&#39;t Just Open or Closed Source](https://www.wired.com/story/generative-ai-systems-arent-just-open-or-closed-source/)
+ - [New Alzheimer’s Drugs Offer Subtle Benefits—With Real Risks](https://www.wired.com/story/alzheimers-drugs-benefits-risks-lecanemab-donanemab/)
+ - [Why Fake Drake and AI-Generated Music Are Here to Stay](https://www.wired.com/story/have-a-nice-future-podcast-7/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
