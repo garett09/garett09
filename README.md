@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Turakamik Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734302/turakamik-shrine-puzzle-solution-chest)
- - [10 unmissable fighting games available in the PlayStation Plus Game Catalog and Classics](https://blog.playstation.com/2023/05/24/10-unmissable-fighting-games-available-in-the-playstation-plus-game-catalog-and-classics/)
- - [Star Trek Resurgence understands what makes great Star Trek](https://www.polygon.com/reviews/23734741/star-trek-resurgence-review-gameplay-ps5-xbox-pc)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX 4060 Ti and AMD&#39;s RX 7600 highlight one thing: Intel&#39;s $200 Arc A750 GPU is the best budget GPU by far](https://www.pcgamer.com/nvidias-rtx-4060-ti-and-amds-rx-7600-highlight-one-thing-intels-dollar200-arc-a750-gpu-is-the-best-budget-gpu-by-far)
+ - [How to beat Flux Constructs, use Flux Construct cores in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722504/flux-construct-core-boss-fight)
+ - [American Born Chinese is very different from the book, and that’s great](https://www.polygon.com/23734797/american-born-chinese-review-episode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
