@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based OpenFin, which offers tools for financial institutions to build unified, digital workspaces, raised a $35M Series D led by Bank of America &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/230524/p3#a230524p3)
- - [TikTok CEO Shou Chew says Oracle has begun reviewing TikTok&#39;s source code and the app is &quot;on track&quot; to have all US user data hosted and overseen by Oracle &lpar;Bloomberg&rpar;](http://www.techmeme.com/230524/p2#a230524p2)
- - [Multilingual language models may not be effective tools to moderate content on social networks due the systems&#39; shortcomings in detecting harmful content &lpar;Wired&rpar;](http://www.techmeme.com/230524/p1#a230524p1)<!-- TECH:END -->
+ - [Logitech’s solution for hot desking is a $699 dock with a screen](https://www.theverge.com/2023/5/24/23734946/logitech-logi-dock-flex-hot-desking-features-price)
+ - [Logitech’s new G Pro X 2 gaming headset has graphene audio drivers](https://www.theverge.com/2023/5/24/23733249/logitech-g-pro-x-2-gaming-headset-graphene-audio-drivers-release-date-pricing)
+ - [Sources: Alibaba Cloud plans to layoff 7% of its staff, or ~1,000 employees, as it prepares for a spinoff within 12 months and an eventual IPO &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/230524/p5#a230524p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
