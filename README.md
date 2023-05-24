@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third round of Meta layoffs sends another 6,000 to the unemployment line](https://appleinsider.com/articles/23/05/24/third-round-of-meta-layoffs-sends-another-6000-to-the-unemployment-line?utm_medium=rss)
- - [5 Best Multi-Tools &lpar;2023&rpar;: Leatherman, Victorinox, and Ones to Avoid](https://www.wired.com/gallery/best-multi-tools/)
- - [AMD’s new $269 Radeon RX 7600 GPU targets the 1080p ‘sweet spot’](https://www.theverge.com/2023/5/24/23735679/amd-radeon-rx-7600-gpu-rdna3-specs-price-release-launch)<!-- TECH:END -->
+ - [Apple highlights Health app privacy practices, backed by Jane Lynch ad](https://appleinsider.com/articles/23/05/24/apple-highlights-health-app-privacy-practices-backed-by-jane-lynch-ad?utm_medium=rss)
+ - [Problemista’s first trailer is a work-related stress dream you actually want to see](https://www.theverge.com/23735724/a24-problemista-trailer)
+ - [Can Joe Biden’s latest FCC nominee unjam the agency’s deadlock?](https://www.theverge.com/2023/5/24/23735094/fcc-deadlock-net-neutrality-telecom-biden-nomination-anna-gomez)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
