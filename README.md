@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW i5 Electric: Price, Range, Release Date](https://www.wired.com/story/bmw-has-finally-made-its-first-all-electric-5-series/)
- - [I tried the AI novel-writing tool everyone hates, and it’s better than I expected](https://www.theverge.com/2023/5/24/23732252/sudowrite-story-engine-ai-generated-cyberpunk-novella)
- - [Apple rumored to drop limits on 15W wireless chargers for iPhone 15](https://appleinsider.com/articles/23/05/24/apple-rumored-to-drop-limits-on-15w-wireless-chargers-for-iphone-15?utm_medium=rss)<!-- TECH:END -->
+ - [Third round of Meta layoffs sends another 6,000 to the unemployment line](https://appleinsider.com/articles/23/05/24/third-round-of-meta-layoffs-sends-another-6000-to-the-unemployment-line?utm_medium=rss)
+ - [5 Best Multi-Tools &lpar;2023&rpar;: Leatherman, Victorinox, and Ones to Avoid](https://www.wired.com/gallery/best-multi-tools/)
+ - [AMD’s new $269 Radeon RX 7600 GPU targets the 1080p ‘sweet spot’](https://www.theverge.com/2023/5/24/23735679/amd-radeon-rx-7600-gpu-rdna3-specs-price-release-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
