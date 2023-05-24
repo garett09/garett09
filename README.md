@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Right-to-repair rules are now the law in Minnesota](https://www.theverge.com/2023/5/24/23736326/minnesota-right-to-repair-laws-passed-electronics-free-documentation)
- - [Microsoft says Chinese state-sponsored hackers compromised &quot;critical infrastructure&quot; across various industries in the US, with a focus on gathering intelligence &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230524/p28#a230524p28)
- - [Warner Bros. Discovery apologizes for crediting writers and directors as ‘creators’ on Max](https://www.theverge.com/2023/5/24/23736143/hbo-max-credits-warner-bros-discovery)<!-- TECH:END -->
+ - [Sony’s new Q handheld is official: 8-inch screen, streams PS5 games](https://www.theverge.com/2023/5/24/23736595/sony-project-q-playstation-handheld-official-showcase)
+ - [Bungie announces Marathon, a new sci-fi PvP extraction shooter](https://www.theverge.com/23735830/bungie-marathon-sci-fi-pvp-extraction-shooter)
+ - [Unknown tracker alerts: What are they, and why are they useful?](https://www.androidauthority.com/unknown-tracker-alerts-3328891/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
