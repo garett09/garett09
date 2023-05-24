@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation CEO Says Its Games Still Won&#39;t Come To PC On Day One](https://kotaku.com/playstation-sony-final-fantasy-16-ps5-exclusive-pc-1850467525)
- - [Miryotanog Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734195/miryotanog-shrine-solution-puzzle-chest)
- - [The Next Big Wave Of Video Game Layoffs Is Here](https://kotaku.com/microsoft-ea-ubisoft-layoffs-game-dev-jobs-recession-1850467429)<!-- GAME:END -->
+ - [That Sad Zelda Trailer Was Based On A Japanese Amazon Review](https://kotaku.com/zelda-tears-kingdom-trailer-commercial-japan-totk-ad-1850467900)
+ - [The Next Total War Game Has Been Announced](https://kotaku.com/total-war-pharaoh-sega-creative-assembly-announced-new-1850467750)
+ - [League of Legends pros may go on strike over proposed rule changes](https://www.pcgamer.com/league-of-legends-pros-may-go-on-strike-over-proposed-rule-changes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
