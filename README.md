@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Sony’s new PlayStation Showcase](https://www.polygon.com/23734649/playstation-showcase-2023-time-where-to-watch)
- - [Apple owning microLED monitor manufacturing has us worried](https://www.pcgamer.com/apple-owning-microled-monitor-manufacturing-has-us-worried)
- - [How to get Epochal Integration in Destiny 2](https://www.pcgamer.com/destiny-2-epochal-integration-parting-the-veil)<!-- GAME:END -->
+ - [Witcher showrunner says they had the choice to end the show after Cavill&#39;s departure, but there were &#39;too many stories left to tell&#39;](https://www.pcgamer.com/witcher-showrunner-says-they-had-the-choice-to-end-the-show-after-cavills-departure-but-there-were-too-many-stories-left-to-tell)
+ - [Bill Gates reckons AI spells the end for Amazon and searching for stuff on Google](https://www.pcgamer.com/bill-gates-reckons-ai-spells-the-end-for-amazon-and-searching-for-stuff-on-google)
+ - [Microsoft&#39;s upcoming desktop AI is a pop-up away from becoming an even more annoying Clippy](https://www.pcgamer.com/microsofts-upcoming-desktop-ai-is-a-pop-up-away-from-becoming-an-even-more-annoying-clippy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
