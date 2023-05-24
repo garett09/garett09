@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU General Court dismisses Meta&#39;s challenge to EU regulators seeking vast amounts of data in an antitrust case; Meta first opposed the request in 2020 &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230524/p9#a230524p9)
- - [The biggest features missing from Final Cut Pro for iPad at launch](https://appleinsider.com/articles/23/05/23/the-biggest-features-missing-from-final-cut-pro-for-ipad-at-launch?utm_medium=rss)
- - [Sources, reports, and analysis: Chinese hackers targeted the Kenyan government from late 2019 until at least 2022 to find information on debt owed to China &lpar;Reuters&rpar;](http://www.techmeme.com/230524/p8#a230524p8)<!-- TECH:END -->
+ - [Leaked images show Samsung Galaxy Watch 6 with rotating bezel](https://www.theverge.com/2023/5/24/23735576/samsung-galaxy-watch-6-rotating-bezel-leaked-renders)
+ - [Don’t pay for WinRAR! Windows 11 will soon support RAR files](https://www.androidauthority.com/windows-11-winrar-rar-file-support-3328610/)
+ - [Generative AI Podcasts Are Here. Prepare to Be Bored](https://www.wired.com/story/generative-ai-podcasts-boring/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
