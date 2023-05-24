@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony&#39;s New Handheld Lets You Stream PS5 Games On The Go](https://kotaku.com/sony-ps5-portable-vita-streaming-switch-handheld-1850472231)
- - [Destiny 2 is bringing Cayde back for its next expansion, The Final Shape](https://www.polygon.com/23736653/destiny-2-final-shape-dlc-cayde-6-nathan-fillion)
- - [Cayde-6 returns in Destiny 2: The Final Shape, Nathan Fillion reprising role](https://www.pcgamer.com/cayde-6-lives-in-destiny-2-the-final-shape-nathan-fillion-reprising-role)<!-- GAME:END -->
+ - [Alan Wake 2 Won&#39;t Be Releasing On A Disc](https://kotaku.com/alan-wake-2-digital-only-no-disc-gamestop-trade-in-ps5-1850472524)
+ - [Sequel To Capcom&#39;s Beloved Action-RPG Will Have You Killing Dragons On PS5](https://kotaku.com/dragons-dogma-playstation-capcom-ps5-xbox-rpg-skyrim-1850472500)
+ - [How to get the Awakening Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23736508/awakening-armor-locations-head-chest-legs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
