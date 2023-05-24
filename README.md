@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [So many new D&amp;D books are coming in 2024, no printing company can handle them all](https://www.polygon.com/23730209/dnd-dungeons-dragons-books-printer-release-schedule-2024)
- - [Ubisoft reboots its troubled Prince of Persia remake](https://www.polygon.com/23736045/prince-of-persia-sands-of-time-remake-delay-reboot)
- - [Overpowered Tears Of The Kingdom Glitch Lets You One-Shot Enemies](https://kotaku.com/tears-of-the-kingdom-glitch-zuggling-combine-weapons-1850470138)<!-- GAME:END -->
+ - [Jikais Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23736198/jikais-shrine-location-jailbreak-walkthrough)
+ - [Tears of the Kingdom’s Korok Mask Will Help You Find Its 1,000 Hidden Seeds](https://kotaku.com/zelda-tears-of-the-kingdom-totk-korok-mask-location-1850470661)
+ - [Tadarok Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23735882/tadarok-shrine-fire-water-location-walkthrough)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
