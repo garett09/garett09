@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)
- - 🚯 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
- - 🚯 [In a sane society.](http://9gag.com/gag/a9q2j4m)<!-- MEMES:END -->
+ - 🚖 [Can you all see me now](http://9gag.com/gag/a041v8v)
+ - 🚯 [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)
+ - 🚯 [War memeZ.](http://9gag.com/gag/aeQxvKW)<!-- MEMES:END -->
 
 --- 
 
