@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s a scam](http://9gag.com/gag/a9qmo31)
- - 🚯 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
- - 🚯 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)<!-- MEMES:END -->
+ - 🚖 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
+ - 🚯 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
+ - 🚯 [Id like to move to her class please](http://9gag.com/gag/axoOxn1)<!-- MEMES:END -->
 
 --- 
 
