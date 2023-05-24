@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Huh](http://9gag.com/gag/aVbZGnO)
- - 🚯 [Damn nature](http://9gag.com/gag/aKEewPb)
- - 🚯 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)<!-- MEMES:END -->
+ - 🚖 [Not sure what to do here](http://9gag.com/gag/aMEv1ex)
+ - 🚯 [His face sais it all](http://9gag.com/gag/aZDjWPV)
+ - 🚯 [You Got a License for for that mate?](http://9gag.com/gag/aoKLm2A)<!-- MEMES:END -->
 
 --- 
 
