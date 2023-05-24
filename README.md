@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
- - 🚯 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
- - 🚯 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)<!-- MEMES:END -->
+ - 🚯 [Not sure what to do here](http://9gag.com/gag/aMEv1ex)
+ - 🚯 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)<!-- MEMES:END -->
 
 --- 
 
