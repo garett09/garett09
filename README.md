@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not sure what to do here](http://9gag.com/gag/aMEv1ex)
- - 🚯 [His face sais it all](http://9gag.com/gag/aZDjWPV)
- - 🚯 [You Got a License for for that mate?](http://9gag.com/gag/aoKLm2A)<!-- MEMES:END -->
+ - 🚖 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)
+ - 🚯 [Fake news debunked](http://9gag.com/gag/ago4yDg)
+ - 🚯 [Wait a damn minute](http://9gag.com/gag/a6qBvDe)<!-- MEMES:END -->
 
 --- 
 
