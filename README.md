@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [It&#39;s real: Windows 11 will soon let you control RGB gear without those annoying apps](https://www.pcgamer.com/its-real-windows-11-will-soon-let-you-control-rgb-gear-without-those-annoying-apps)
  - [That Sad Zelda Trailer Was Based On A Japanese Amazon Review](https://kotaku.com/zelda-tears-kingdom-trailer-commercial-japan-totk-ad-1850467900)
- - [The Next Total War Game Has Been Announced](https://kotaku.com/total-war-pharaoh-sega-creative-assembly-announced-new-1850467750)
- - [League of Legends pros may go on strike over proposed rule changes](https://www.pcgamer.com/league-of-legends-pros-may-go-on-strike-over-proposed-rule-changes)<!-- GAME:END -->
+ - [The Next Total War Game Has Been Announced](https://kotaku.com/total-war-pharaoh-sega-creative-assembly-announced-new-1850467750)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
