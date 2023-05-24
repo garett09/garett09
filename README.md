@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New gameplay details revealed for Crossfire: Sierra Squad, coming to PS VR2](https://blog.playstation.com/2023/05/24/new-gameplay-details-revealed-for-crossfire-sierra-squad-coming-to-ps-vr2/)
- - [Bungie Reveals First New Game Since Destiny 2](https://kotaku.com/marathon-bungie-destiny-2-extraction-shooter-1850470424)
- - [Introducing Concord—a new PVP multiplayer FPS from Firewalk Studios coming to PS5 and PC](https://blog.playstation.com/2023/05/24/introducing-concord-a-new-pvp-multiplayer-fps-from-firewalk-studios-coming-to-ps5-and-pc/)<!-- GAME:END -->
+ - [Sony&#39;s New Handheld Lets You Stream PS5 Games On The Go](https://kotaku.com/sony-ps5-portable-vita-streaming-switch-handheld-1850472231)
+ - [Destiny 2 is bringing Cayde back for its next expansion, The Final Shape](https://www.polygon.com/23736653/destiny-2-final-shape-dlc-cayde-6-nathan-fillion)
+ - [Cayde-6 returns in Destiny 2: The Final Shape, Nathan Fillion reprising role](https://www.pcgamer.com/cayde-6-lives-in-destiny-2-the-final-shape-nathan-fillion-reprising-role)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
