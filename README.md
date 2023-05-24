@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/05/24/the-planet-of-the-discounts-promotion-comes-to-playstation-store/)
- - [Today&#39;s Wordle hint and answer #704: Wednesday, May 24](https://www.pcgamer.com/wordle-today-hint-answer-704-may-24)
- - [It&#39;s real: Windows 11 will soon let you control RGB gear without those annoying apps](https://www.pcgamer.com/its-real-windows-11-will-soon-let-you-control-rgb-gear-without-those-annoying-apps)<!-- GAME:END -->
+ - [Watch Sony’s new PlayStation Showcase](https://www.polygon.com/23734649/playstation-showcase-2023-time-where-to-watch)
+ - [Apple owning microLED monitor manufacturing has us worried](https://www.pcgamer.com/apple-owning-microled-monitor-manufacturing-has-us-worried)
+ - [How to get Epochal Integration in Destiny 2](https://www.pcgamer.com/destiny-2-epochal-integration-parting-the-veil)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
