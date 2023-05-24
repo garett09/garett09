@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clone High’s writers explain what happened to Gandhi and their ‘trickiest’ episode yet](https://www.polygon.com/23735051/clone-high-gandhi-season-2-episode-1-reboot-max-streaming)
- - [Fallout was nearly called &#39;Warriors of the Apocalypse&#39;, &#39;Radstorm&#39;, &#39;Moribund World&#39; and so many other terrible names](https://www.pcgamer.com/fallout-was-nearly-called-warriors-of-the-apocalypse-radstorm-moribund-world-and-so-many-other-terrible-names)
- - [This Diablo IV-themed PC gear reminded me how much companies love slapping a fan tax onto existing products](https://www.pcgamer.com/this-diablo-iv-themed-pc-gear-reminded-me-how-much-companies-love-slapping-a-fan-tax-onto-existing-products)<!-- GAME:END -->
+ - [Turakamik Shrine solution in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734302/turakamik-shrine-puzzle-solution-chest)
+ - [10 unmissable fighting games available in the PlayStation Plus Game Catalog and Classics](https://blog.playstation.com/2023/05/24/10-unmissable-fighting-games-available-in-the-playstation-plus-game-catalog-and-classics/)
+ - [Star Trek Resurgence understands what makes great Star Trek](https://www.polygon.com/reviews/23734741/star-trek-resurgence-review-gameplay-ps5-xbox-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
