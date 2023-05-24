@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
- - 🚯 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
- - 🚯 [Id like to move to her class please](http://9gag.com/gag/axoOxn1)<!-- MEMES:END -->
+ - 🚖 [Let the games begin](http://9gag.com/gag/ajVZQpG)
+ - 🚯 [Just say `hi`](http://9gag.com/gag/a7q2LLb)
+ - 🚯 [Snoop Dogg reacting to me ruining his song](http://9gag.com/gag/anzEe2q)<!-- MEMES:END -->
 
 --- 
 
