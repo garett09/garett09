@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elliptic: some Chinese chemical suppliers accept cryptocurrency for fentanyl ingredients and the majority use &quot;three specific exchanges&quot; based outside of China &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/230523/p49#a230523p49)
- - [Why YouTube is a tough place for kids podcasts](https://www.theverge.com/2023/5/23/23735059/youtube-kids-podcasts-tinkercast-bbc-radio)
- - [Photoshop’s generative AI tool turned my vacation photos into nightmare fuel](https://www.theverge.com/2023/5/23/23734821/photoshop-generative-ai-fill-tool-adobe)<!-- TECH:END -->
+ - [Eddy Cue says MLS deal was about Apple sticking to things it could do well](https://appleinsider.com/articles/23/05/24/eddy-cue-says-mls-deal-was-about-apple-sticking-to-things-it-could-do-well?utm_medium=rss)
+ - [PlayStation is betting big on new franchises and live service games](https://www.theverge.com/2023/5/23/23735274/sony-playstation-new-franchises-live-service-games-business)
+ - [Tokyo-based taxi-hailing app Go says it raised ~$72M from Goldman Sachs at a ~$1B valuation and commands 70% of the Japanese market, outpacing Uber and Didi &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/230523/p51#a230523p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
