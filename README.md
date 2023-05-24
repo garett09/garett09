@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)
- - 🚯 [Not sure what to do here](http://9gag.com/gag/aMEv1ex)
- - 🚯 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)<!-- MEMES:END -->
+ - 🚖 [Huh](http://9gag.com/gag/aVbZGnO)
+ - 🚯 [Damn nature](http://9gag.com/gag/aKEewPb)
+ - 🚯 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)<!-- MEMES:END -->
 
 --- 
 
