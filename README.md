@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Become a hotel tycoon in Cities: Skylines&#39; final expansion](https://www.pcgamer.com/become-a-hotel-tycoon-in-cities-skylines-final-expansion)
- - [Eutoum Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23736376/eutoum-shrine-location-proving-grounds-infiltration)
- - [Every edition of Armored Core 6, and where to find them](https://www.polygon.com/deals/23736205/armored-core-6-fires-of-rubicon-pre-order-guide)<!-- GAME:END -->
+ - [New gameplay details revealed for Crossfire: Sierra Squad, coming to PS VR2](https://blog.playstation.com/2023/05/24/new-gameplay-details-revealed-for-crossfire-sierra-squad-coming-to-ps-vr2/)
+ - [Bungie Reveals First New Game Since Destiny 2](https://kotaku.com/marathon-bungie-destiny-2-extraction-shooter-1850470424)
+ - [Introducing Concord—a new PVP multiplayer FPS from Firewalk Studios coming to PS5 and PC](https://blog.playstation.com/2023/05/24/introducing-concord-a-new-pvp-multiplayer-fps-from-firewalk-studios-coming-to-ps5-and-pc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
