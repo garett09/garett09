@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple highlights Health app privacy practices, backed by Jane Lynch ad](https://appleinsider.com/articles/23/05/24/apple-highlights-health-app-privacy-practices-backed-by-jane-lynch-ad?utm_medium=rss)
- - [Problemista’s first trailer is a work-related stress dream you actually want to see](https://www.theverge.com/23735724/a24-problemista-trailer)
- - [Can Joe Biden’s latest FCC nominee unjam the agency’s deadlock?](https://www.theverge.com/2023/5/24/23735094/fcc-deadlock-net-neutrality-telecom-biden-nomination-anna-gomez)<!-- TECH:END -->
+ - [New Canon EOS R100 is an affordable mirrorless camera with a 24MP lens](https://appleinsider.com/articles/23/05/24/new-canon-eos-r100-is-an-affordable-mirrorless-camera-with-a-24mp-lens?utm_medium=rss)
+ - [Sources and documents: TikTok employees have regularly posted user data on messaging tool Lark, used by ByteDance, leading some staff to raise privacy concerns &lpar;New York Times&rpar;](http://www.techmeme.com/230524/p20#a230524p20)
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
