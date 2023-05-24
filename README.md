@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study suggests that the human brain and artificial general-purpose neural networks process language sounds in similar ways &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/230524/p6#a230524p6)
- - [Redmi Note 12 Pro Plus review: A powerhouse with potholes](https://www.androidauthority.com/redmi-note-12-pro-plus-review-3312725/)
- - [Logitech’s solution for hot desking is a $699 dock with a screen](https://www.theverge.com/2023/5/24/23734946/logitech-logi-dock-flex-hot-desking-features-price)<!-- TECH:END -->
+ - [The EU General Court dismisses Meta&#39;s challenge to EU regulators seeking vast amounts of data in an antitrust case; Meta first opposed the request in 2020 &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/230524/p9#a230524p9)
+ - [The biggest features missing from Final Cut Pro for iPad at launch](https://appleinsider.com/articles/23/05/23/the-biggest-features-missing-from-final-cut-pro-for-ipad-at-launch?utm_medium=rss)
+ - [Sources, reports, and analysis: Chinese hackers targeted the Kenyan government from late 2019 until at least 2022 to find information on debt owed to China &lpar;Reuters&rpar;](http://www.techmeme.com/230524/p8#a230524p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
