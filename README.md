@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NYC college professor Shellyne Rodriguez who threatened Post reporter is fired](http://9gag.com/gag/anzEqoB)
- - 🚯 [Id like to move to her class please](http://9gag.com/gag/axoOxn1)
- - 🚯 [The cake](http://9gag.com/gag/avQxYBb)<!-- MEMES:END -->
+ - 🚖 [The poor guy just want asparagus](http://9gag.com/gag/abvxjKv)
+ - 🚯 [Can you all see me now](http://9gag.com/gag/a041v8v)
+ - 🚯 [Imagine this being aired in 2023](http://9gag.com/gag/armx6BX)<!-- MEMES:END -->
 
 --- 
 
