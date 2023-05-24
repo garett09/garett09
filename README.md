@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A fake climate change theory is going viral on TikTok after Joe Rogan talked about it](https://www.theverge.com/2023/5/24/23733231/tiktok-joe-rogan-podcast-climate-misinformation)
- - [Rode introduces the PodMic USB microphone for podcasters &amp; streamers](https://appleinsider.com/articles/23/05/24/rode-introduces-the-podmic-usb-microphone-for-podcasters-streamers?utm_medium=rss)
- - [Mobvoi officially debuts the TicWatch Pro 5, complete with Wear OS 3](https://www.androidauthority.com/mobvoi-launches-ticwatch-pro-5-3325544/)<!-- TECH:END -->
+ - [Sources: Apple plans a smart-home display-like mode in iOS 17, with notifications and information like weather, when an iPhone is locked and in landscape mode &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230524/p23#a230524p23)
+ - [Logitech tries to fix hotdesking headaches with $699 Logi Dock Flex](https://appleinsider.com/articles/23/05/24/logitech-tries-to-fix-hotdesking-headaches-with-699-logi-dock-flex?utm_medium=rss)
+ - [The Samsung Galaxy Watch 5 Pro drops to $1 off its all-time low price](https://www.androidauthority.com/samsung-galaxy-watch-5-pro-deal-3328775/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
