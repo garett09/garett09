@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Play Games for PC Beta opens up to Europe and New Zealand](https://www.androidauthority.com/play-games-for-pc-beta-expansion-3328860/)
- - [You can finally view all your saved Wi-Fi passwords in the latest Windows 11 preview](https://www.theverge.com/2023/5/24/23736197/microsoft-windows-11-wifi-passwords-insider-preview)
- - [Sources: some Meta employees say important work has been stalled, including its product roadmap, as the final round of layoffs announced in March wraps up &lpar;Bloomberg&rpar;](http://www.techmeme.com/230524/p26#a230524p26)<!-- TECH:END -->
+ - [Right-to-repair rules are now the law in Minnesota](https://www.theverge.com/2023/5/24/23736326/minnesota-right-to-repair-laws-passed-electronics-free-documentation)
+ - [Microsoft says Chinese state-sponsored hackers compromised &quot;critical infrastructure&quot; across various industries in the US, with a focus on gathering intelligence &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230524/p28#a230524p28)
+ - [Warner Bros. Discovery apologizes for crediting writers and directors as ‘creators’ on Max](https://www.theverge.com/2023/5/24/23736143/hbo-max-credits-warner-bros-discovery)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
