@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Canon EOS R100 is an affordable mirrorless camera with a 24MP lens](https://appleinsider.com/articles/23/05/24/new-canon-eos-r100-is-an-affordable-mirrorless-camera-with-a-24mp-lens?utm_medium=rss)
- - [Sources and documents: TikTok employees have regularly posted user data on messaging tool Lark, used by ByteDance, leading some staff to raise privacy concerns &lpar;New York Times&rpar;](http://www.techmeme.com/230524/p20#a230524p20)
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)<!-- TECH:END -->
+ - [A fake climate change theory is going viral on TikTok after Joe Rogan talked about it](https://www.theverge.com/2023/5/24/23733231/tiktok-joe-rogan-podcast-climate-misinformation)
+ - [Rode introduces the PodMic USB microphone for podcasters &amp; streamers](https://appleinsider.com/articles/23/05/24/rode-introduces-the-podmic-usb-microphone-for-podcasters-streamers?utm_medium=rss)
+ - [Mobvoi officially debuts the TicWatch Pro 5, complete with Wear OS 3](https://www.androidauthority.com/mobvoi-launches-ticwatch-pro-5-3325544/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
