@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol I&#39;m dead](http://9gag.com/gag/abvBX2p)
- - 🚯 [Uncle Roger was banned on all Chinese platforms over this comedy routine.](http://9gag.com/gag/aL1AqMv)
- - 🚯 [Plastic bag of the rings - the return window closed](http://9gag.com/gag/anzEe9L)<!-- MEMES:END -->
+ - 🚖 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
+ - 🚯 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
+ - 🚯 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)<!-- MEMES:END -->
 
 --- 
 
