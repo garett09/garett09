@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony announces a handheld device, known as Project Q, with an 8-inch screen for streaming games from a PS5 via Remote Play over Wi-Fi, launching later in 2023 &lpar;The Verge&rpar;](http://www.techmeme.com/230524/p31#a230524p31)
- - [The 6 biggest announcements from Sony’s PlayStation Showcase 2023](https://www.theverge.com/23734861/playstation-showcase-2023-trailers-news-top-announcements-sony)
- - [Beat Saber will be available Wednesday for PlayStation VR2](https://www.theverge.com/23733863/playstation-showcase-ps5-psvr-2-beat-saber-resident-evil-4-vr-mode)<!-- TECH:END -->
+ - [Elon Musk fails to launch Ron DeSantis in disastrous Twitter Space](https://www.theverge.com/2023/5/24/23736271/ron-desantis-presidential-bid-twitter-spaces-elon-musk-announcement)
+ - [China Hacks US Critical Networks in Guam, Raising Cyberwar Fears](https://www.wired.com/story/china-volt-typhoon-hack-us-critical-infrastructure/)
+ - [PlayStation confirms it’s working on a handheld, but not the one you hoped for](https://www.androidauthority.com/playstation-project-q-handheld-3328954/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
