@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
- - 🚯 [Surprise, Surprise](http://9gag.com/gag/a9qmQ7D)
- - 🚯 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)<!-- MEMES:END -->
+ - 🚖 [Money](http://9gag.com/gag/az2RLrb)
+ - 🚯 [Can you all see me now](http://9gag.com/gag/a041v8v)
+ - 🚯 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)<!-- MEMES:END -->
 
 --- 
 
