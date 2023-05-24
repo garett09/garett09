@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s RTX 4060 Ti and AMD&#39;s RX 7600 highlight one thing: Intel&#39;s $200 Arc A750 GPU is the best budget GPU by far](https://www.pcgamer.com/nvidias-rtx-4060-ti-and-amds-rx-7600-highlight-one-thing-intels-dollar200-arc-a750-gpu-is-the-best-budget-gpu-by-far)
- - [How to beat Flux Constructs, use Flux Construct cores in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23722504/flux-construct-core-boss-fight)
- - [American Born Chinese is very different from the book, and that’s great](https://www.polygon.com/23734797/american-born-chinese-review-episode)<!-- GAME:END -->
+ - [So many new D&amp;D books are coming in 2024, no printing company can handle them all](https://www.polygon.com/23730209/dnd-dungeons-dragons-books-printer-release-schedule-2024)
+ - [Ubisoft reboots its troubled Prince of Persia remake](https://www.polygon.com/23736045/prince-of-persia-sands-of-time-remake-delay-reboot)
+ - [Overpowered Tears Of The Kingdom Glitch Lets You One-Shot Enemies](https://kotaku.com/tears-of-the-kingdom-glitch-zuggling-combine-weapons-1850470138)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
