@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Snoop Dogg reacting to me ruining his song](http://9gag.com/gag/anzEe2q)
- - 🚯 [Finally got banned by China](http://9gag.com/gag/aDYVALK)
- - 🚯 [Lol I&#39;m dead](http://9gag.com/gag/abvBX2p)<!-- MEMES:END -->
+ - 🚖 [Little man has a point hear him put](http://9gag.com/gag/ay2R7QM)
+ - 🚯 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)
+ - 🚯 [In a sane society.](http://9gag.com/gag/a9q2j4m)<!-- MEMES:END -->
 
 --- 
 
