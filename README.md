@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What It Looks Like When A $2 Billion Gaming Deal Collapses Overnight](https://kotaku.com/embracer-microsoft-sony-game-pass-tomb-raider-netflix-1850471167)
- - [Move over, modern technology: Here&#39;s Doom running on the teletext TV information service](https://www.pcgamer.com/move-over-modern-technology-heres-doom-running-on-the-teletext-tv-information-service)
- - [Jikais Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23736198/jikais-shrine-location-jailbreak-walkthrough)<!-- GAME:END -->
+ - [Become a hotel tycoon in Cities: Skylines&#39; final expansion](https://www.pcgamer.com/become-a-hotel-tycoon-in-cities-skylines-final-expansion)
+ - [Eutoum Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23736376/eutoum-shrine-location-proving-grounds-infiltration)
+ - [Every edition of Armored Core 6, and where to find them](https://www.polygon.com/deals/23736205/armored-core-6-fires-of-rubicon-pre-order-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
