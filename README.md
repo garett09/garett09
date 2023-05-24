@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s new Q handheld is official: 8-inch screen, streams PS5 games](https://www.theverge.com/2023/5/24/23736595/sony-project-q-playstation-handheld-official-showcase)
- - [Bungie announces Marathon, a new sci-fi PvP extraction shooter](https://www.theverge.com/23735830/bungie-marathon-sci-fi-pvp-extraction-shooter)
- - [Unknown tracker alerts: What are they, and why are they useful?](https://www.androidauthority.com/unknown-tracker-alerts-3328891/)<!-- TECH:END -->
+ - [Sony announces a handheld device, known as Project Q, with an 8-inch screen for streaming games from a PS5 via Remote Play over Wi-Fi, launching later in 2023 &lpar;The Verge&rpar;](http://www.techmeme.com/230524/p31#a230524p31)
+ - [The 6 biggest announcements from Sony’s PlayStation Showcase 2023](https://www.theverge.com/23734861/playstation-showcase-2023-trailers-news-top-announcements-sony)
+ - [Beat Saber will be available Wednesday for PlayStation VR2](https://www.theverge.com/23733863/playstation-showcase-ps5-psvr-2-beat-saber-resident-evil-4-vr-mode)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
