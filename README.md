@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Id like to move to her class please](http://9gag.com/gag/axoOxn1)
- - 🚯 [His face sais it all](http://9gag.com/gag/aZDjWPV)
- - 🚯 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)<!-- MEMES:END -->
+ - 🚖 [Damn nature](http://9gag.com/gag/aKEewPb)
+ - 🚯 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
+ - 🚯 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)<!-- MEMES:END -->
 
 --- 
 
