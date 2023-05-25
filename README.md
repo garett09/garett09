@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple TV Plus’ Hijack is 24 meets Taken on a plane, starring passenger Idris Elba](https://www.polygon.com/23737738/apple-tvs-plus-thriller-hijack-idris-elba-trailer-release-date)
- - [My highlight of Sony&#39;s PlayStation showcase is, you guessed it, coming to PC](https://www.pcgamer.com/my-highlight-of-sonys-playstation-showcase-is-you-guessed-it-coming-to-pc)
- - [Building Lightsabers In Jedi: Survivor Is So Wildly Satisfying](https://kotaku.com/jedi-survivor-lightsaber-designs-customization-respawn-1850476252)<!-- GAME:END -->
+ - [The 5 best horror movies to watch on Netflix and other streamers this May](https://www.polygon.com/what-to-watch/2023/5/25/23734586/best-horror-movies-netflix-streaming-watch-may-2023)
+ - [Warhammer 40,000: Rogue Trader closed beta goes live next week](https://www.polygon.com/23737820/warhammer-40k-rogue-trader-beta-launch-date-trailer)
+ - [Tears of the Kingdom: What To Do For Those Dandelion Korok Puzzles You Keep Seeing](https://kotaku.com/zelda-dandelion-korok-puzzle-seed-tears-of-the-kingdom-1850476168)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
