@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)
- - 🚯 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
- - 🚯 [His face sais it all](http://9gag.com/gag/aZDjWPV)<!-- MEMES:END -->
+ - 🚖 [His face sais it all](http://9gag.com/gag/aZDjWPV)
+ - 🚯 [Dad ! Please..](http://9gag.com/gag/a5X2KrV)
+ - 🚯 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)<!-- MEMES:END -->
 
 --- 
 
