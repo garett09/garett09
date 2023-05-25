@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christina Applegate](http://9gag.com/gag/a8q2YG3)
+ - 🚖 [The dad award goes to him](http://9gag.com/gag/a8q2dDY)
  - 🚯 [A ghost from the past. He is still alive and fighting as hell](http://9gag.com/gag/ago4vX1)
- - 🚯 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)<!-- MEMES:END -->
+ - 🚯 [After hero jumps in freezing waters to rescue a dog that\u2019s not his, strangers rush to offer him clothes off their back. Credit : Jason skidgel](http://9gag.com/gag/aXnWpbv)<!-- MEMES:END -->
 
 --- 
 
