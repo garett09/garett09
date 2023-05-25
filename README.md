@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tools for Humanity, co-founded by Sam Altman to build Worldcoin, raised a $115M Series C led by Blockchain Capital, aiming to scan eyes to create IDs for all &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/230525/p15#a230525p15)
- - [Bike Maintenance Gear &lpar;2023&rpar;: Tools, Pumps, Cleaners, Lubricants](https://www.wired.com/story/how-to-maintain-your-bike/)
- - [Leica’s new Q3 sacrifices some good looks for functionality](https://www.theverge.com/2023/5/25/23736639/leica-q3-camera-28mm-fixed-lens-compact-8k-availability-price-specs)<!-- TECH:END -->
+ - [The Nothing Phone 2 will have a bigger battery than the Phone 1](https://www.androidauthority.com/nothing-phone-2-bigger-battery-3329285/)
+ - [TikTok is testing an AI chatbot called Tako](https://www.theverge.com/2023/5/25/23737017/tiktok-ai-chatbot-tako-test)
+ - [Elon Musk and Ron DeSantis’s fiasco shows they didn’t realize Twitter needs TV](https://www.theverge.com/2023/5/25/23737155/elon-musk-ron-desantis-twitter-spaces-tv)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
