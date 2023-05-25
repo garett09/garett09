@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches a program to award ten $100K grants to develop proof-of-concepts for a &quot;democratic process&quot; to set rules for AI &quot;within the bounds of the law&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230525/p28#a230525p28)
- - [Bcrypt, a Popular Password Hashing Algorithm, Starts Its Long Goodbye](https://www.wired.com/story/bcrypt-password-hashing-25-years/)
- - [Save up to $1,400 &amp; get VIP rewards on Razer laptops, Thunderbolt 4 dock, monitors &amp; more](https://appleinsider.com/articles/23/05/25/save-up-to-1400-get-vip-rewards-on-razer-laptops-thunderbolt-4-dock-monitors-more?utm_medium=rss)<!-- TECH:END -->
+ - [A beta version of WhatsApp suggests the company is working on adding usernames, which may allow users to chat without sharing their phone numbers &lpar;WABetaInfo&rpar;](http://www.techmeme.com/230525/p30#a230525p30)
+ - [This experimental AI app will let you turn your ideas into music](https://www.androidauthority.com/experimental-ai-musiclm-app-3329486/)
+ - [Paradigm appears to have removed crypto and web3 mentions from its website&#39;s home page, as sources say the VC is expanding its focus to &quot;frontier&quot; tech like AI &lpar;The Block&rpar;](http://www.techmeme.com/230525/p29#a230525p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
