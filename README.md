@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
- - 🚯 [His face sais it all](http://9gag.com/gag/aZDjWPV)
- - 🚯 [Olympians know what they&#39;re doing...](http://9gag.com/gag/a7q2LMr)<!-- MEMES:END -->
+ - 🚖 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)
+ - 🚯 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
+ - 🚯 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
 
 --- 
 
