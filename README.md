@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
- - 🚯 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)
- - 🚯 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
+ - 🚖 [The doggo knew what was up](http://9gag.com/gag/aOxPv02)
+ - 🚯 [B*tchbox](http://9gag.com/gag/a5X2KvV)
+ - 🚯 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)<!-- MEMES:END -->
 
 --- 
 
