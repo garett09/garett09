@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asteroid City proves Wes Anderson can’t be copied, by AI or anyone else](https://www.polygon.com/reviews/23735955/asteroid-city-review-wes-anderson)
- - [The only racing game series I&#39;ve ever cared about has hit the 5 million player milestone, now bring on the dubstep](https://www.pcgamer.com/the-only-racing-game-series-ive-ever-cared-about-has-hit-the-5-million-player-milestone-now-bring-on-the-dubstep)
- - [Bungie reveals more about Marathon after fans solve ARG hidden in trailer](https://www.polygon.com/23737145/marathon-bungie-arg-vidoc)<!-- GAME:END -->
+ - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704)
+ - [WoW Classic players furious at addition of controversial item, Blizzard says it&#39;s a necessary evil in the &#39;unwinnable war&#39; against bots, scammers, and RMT workshops](https://www.pcgamer.com/wow-classic-players-furious-at-addition-of-controversial-item-blizzard-says-its-a-necessary-evil-in-the-unwinnable-war-against-bots-scammers-and-rmt-workshops)
+ - [Sony&#39;s upcoming game streaming handheld looks like someone stretched a Dualsense controller out with a rolling pin](https://www.pcgamer.com/sony-project-q-streaming-handheld-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
