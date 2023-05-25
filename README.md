@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Homa alone, without my gf...](http://9gag.com/gag/aBdGQmA)
+ - 🚖 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)
  - 🚯 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)
- - 🚯 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)<!-- MEMES:END -->
+ - 🚯 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)<!-- MEMES:END -->
 
 --- 
 
