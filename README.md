@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Applied Intuition, a provider of autonomous vehicle software, plans to acquire autonomous trucking software company Embark in a ~$71M all-cash deal &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230525/p32#a230525p32)
- - [Hands-on with Magic Compose, the AI-generating Messages tool](https://www.androidauthority.com/magic-compose-experience-3329552/)
- - [Toronto-based BenchSci, which uses AI to help pharmaceutical firms accelerate drug discovery, raised a CA$95M Series D led by Generation Investment Management &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/230525/p31#a230525p31)<!-- TECH:END -->
+ - [Neuralink says it received US FDA approval to launch its first-in-human clinical study of brain implants &lpar;Akriti Sharma/Reuters&rpar;](http://www.techmeme.com/230525/p34#a230525p34)
+ - [YouTube will let you watch unlimited NFL Sunday Ticket streams, but only at home](https://www.theverge.com/2023/5/25/23738057/youtube-nfl-sunday-ticket-streams-unlimited-streams-home)
+ - [Filing: JPMorgan Chase is working on a ChatGPT-like software service dubbed IndexGPT that uses AI to analyze and select investments tailored to customer needs &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/230525/p33#a230525p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
