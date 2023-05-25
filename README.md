@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Metal Gear Solid 3 Remake Is Real And Coming To PS5](https://kotaku.com/metal-gear-solid-3-snake-eater-ps5-cynthia-harrell-1850471638)
- - [How Latino is Dominic Toretto? And why does it matter?](https://www.polygon.com/23736442/dominic-toretto-latino-hispanic-identity-ethnicity)
- - [Marvel considered Robert Downey Jr. for Doctor Doom, but he saved the MCU instead](https://www.polygon.com/23737234/marvel-fantastic-four-cast-robert-downey-jr-doctor-doom-iron-man-2008)<!-- GAME:END -->
+ - [Best footballer in the world says it&#39;s &#39;embarrassing&#39; but he relaxes by playing Minecraft](https://www.pcgamer.com/best-footballer-in-the-world-says-its-embarrassing-but-he-relaxes-by-playing-minecraft)
+ - [Fallout: New Vegas is free on the Epic Games Store this week](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
+ - [Some Of The PS5’s Biggest Showcase Games Aren’t Actually Exclusives](https://kotaku.com/playstation-exclusive-mgs3-remake-alan-wake-2-xbox-ps5-1850474875)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
