@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PowerWash Simulator heads to the grimdark future of Warhammer 40K](https://www.polygon.com/23736240/warhammer-40k-powerwash-simulator-crossover)
- - [Warhammer Skulls Festival 2023: All the Xbox News in One Place](https://news.xbox.com/en-us/2023/05/25/warhammer-skulls-2023-xbox-recap/)
- - [How to earn and use Pony Points in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23737307/pony-points-rewards-stable-horse-totk)<!-- GAME:END -->
+ - [There&#39;s a slim chance Alan Wake 2 could get a physical release after all: The original Alan Wake PC publisher wants to make it happen](https://www.pcgamer.com/theres-a-slim-chance-alan-wake-2-could-get-a-physical-release-after-all-the-original-alan-wake-pc-publisher-wants-to-make-it-happen)
+ - [Rings of Power had a ‘Ring Team’ making the show’s actual rings look good](https://www.polygon.com/23734524/lord-rings-power-behind-scenes-special-effects-forging)
+ - [This Nugget-Shaped Tetris Handheld From McDonald’s Is Real And Playable](https://kotaku.com/mcdonalds-chicken-nuggets-tetris-gameboy-handheld-china-1850475895)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
