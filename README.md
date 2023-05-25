@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)
- - 🚯 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
+ - 🚖 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
+ - 🚯 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)
  - 🚯 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
 
 --- 
