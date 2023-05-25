@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn nature](http://9gag.com/gag/aKEewPb)
- - 🚯 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
- - 🚯 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)<!-- MEMES:END -->
+ - 🚖 [Christina Applegate](http://9gag.com/gag/a8q2YG3)
+ - 🚯 [A ghost from the past. He is still alive and fighting as hell](http://9gag.com/gag/ago4vX1)
+ - 🚯 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)<!-- MEMES:END -->
 
 --- 
 
