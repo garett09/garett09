@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His face sais it all](http://9gag.com/gag/aZDjWPV)
- - 🚯 [Dad ! Please..](http://9gag.com/gag/a5X2KrV)
- - 🚯 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)<!-- MEMES:END -->
+ - 🚖 [ChadVille](http://9gag.com/gag/ago4y0r)
+ - 🚯 [Why does this happen](http://9gag.com/gag/avQRLzd)
+ - 🚯 [American: `OMG this is so offensive!` Mexicans: `Nice outfit bro!`](http://9gag.com/gag/a041Lpq)<!-- MEMES:END -->
 
 --- 
 
