@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best footballer in the world says it&#39;s &#39;embarrassing&#39; but he relaxes by playing Minecraft](https://www.pcgamer.com/best-footballer-in-the-world-says-its-embarrassing-but-he-relaxes-by-playing-minecraft)
- - [Fallout: New Vegas is free on the Epic Games Store this week](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
- - [Some Of The PS5’s Biggest Showcase Games Aren’t Actually Exclusives](https://kotaku.com/playstation-exclusive-mgs3-remake-alan-wake-2-xbox-ps5-1850474875)<!-- GAME:END -->
+ - [PowerWash Simulator heads to the grimdark future of Warhammer 40K](https://www.polygon.com/23736240/warhammer-40k-powerwash-simulator-crossover)
+ - [Warhammer Skulls Festival 2023: All the Xbox News in One Place](https://news.xbox.com/en-us/2023/05/25/warhammer-skulls-2023-xbox-recap/)
+ - [How to earn and use Pony Points in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23737307/pony-points-rewards-stable-horse-totk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
