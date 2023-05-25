@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Homeworld 3 is delayed to 2024](https://www.pcgamer.com/homeworld-3-is-delayed-to-2024)
- - [&#39;Marathon&#39; this, &#39;Spider-Man&#39; that, as far as I&#39;m concerned the real PlayStation Showcase showstopper was the years-in-the-making follow-up to the most autumnal game of all time](https://www.pcgamer.com/marathon-this-spider-man-that-as-far-as-im-concerned-the-real-playstation-showcase-showstopper-was-the-years-in-the-making-follow-up-to-the-most-autumnal-game-of-all-time)
- - [Warhammer 40K goes Twisted Metal in the combat racer Speed Freeks](https://www.polygon.com/23737325/warhammer-40k-speed-freeks-car-combat-racing)<!-- GAME:END -->
+ - [Travel back in time to fight zombies and tyranny in this upcoming survival shooter that&#39;s looking for beta testers right now](https://www.pcgamer.com/travel-back-in-time-to-fight-zombies-and-tyranny-in-this-upcoming-survival-shooter-thats-looking-for-beta-testers-right-now)
+ - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
+ - [This Retro Game Trade-In For A Tears Of The Kingdom Switch Is Breaking The Internet](https://kotaku.com/zelda-tears-of-the-kingdom-switch-pikachu-retro-trade-1850477363)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
