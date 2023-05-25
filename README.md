@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pegasus iPhone spyware is now a tool of war](https://appleinsider.com/articles/23/05/25/pegasus-iphone-spyware-is-now-a-tool-of-war?utm_medium=rss)
- - [What do you think of the Pixel 8 Pro’s rumored thermometer?](https://www.androidauthority.com/pixel-8-pro-thermometer-poll-3328814/)
- - [Digital Culture Is Literally Reshaping Women&#39;s Faces](https://www.wired.com/story/flawless-korea-beauty-elise-hu/)<!-- TECH:END -->
+ - [Tools for Humanity, co-founded by Sam Altman to build Worldcoin, raised a $115M Series C led by Blockchain Capital, aiming to scan eyes to create IDs for all &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/230525/p15#a230525p15)
+ - [Bike Maintenance Gear &lpar;2023&rpar;: Tools, Pumps, Cleaners, Lubricants](https://www.wired.com/story/how-to-maintain-your-bike/)
+ - [Leica’s new Q3 sacrifices some good looks for functionality](https://www.theverge.com/2023/5/25/23736639/leica-q3-camera-28mm-fixed-lens-compact-8k-availability-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
