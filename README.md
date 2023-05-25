@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)
- - 🚯 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
- - 🚯 [This girl from a very poor family has been picked as a luxury brand\u2019s model as they liked her attitude and smile](http://9gag.com/gag/awZdN4x)<!-- MEMES:END -->
+ - 🚖 [This girl from a very poor family has been picked as a luxury brand\u2019s model as they liked her attitude and smile](http://9gag.com/gag/awZdN4x)
+ - 🚯 [His face sais it all](http://9gag.com/gag/aZDjWPV)
+ - 🚯 [You Got a License for for that mate?](http://9gag.com/gag/aoKLm2A)<!-- MEMES:END -->
 
 --- 
 
