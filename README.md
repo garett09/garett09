@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
- - 🚯 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
- - 🚯 [Show offs](http://9gag.com/gag/ajVZAx1)<!-- MEMES:END -->
+ - 🚖 [Homa alone, without my gf...](http://9gag.com/gag/aBdGQmA)
+ - 🚯 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)
+ - 🚯 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)<!-- MEMES:END -->
 
 --- 
 
