@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nothing Phone 2 will have a bigger battery than the Phone 1](https://www.androidauthority.com/nothing-phone-2-bigger-battery-3329285/)
- - [TikTok is testing an AI chatbot called Tako](https://www.theverge.com/2023/5/25/23737017/tiktok-ai-chatbot-tako-test)
- - [Elon Musk and Ron DeSantis’s fiasco shows they didn’t realize Twitter needs TV](https://www.theverge.com/2023/5/25/23737155/elon-musk-ron-desantis-twitter-spaces-tv)<!-- TECH:END -->
+ - [Samsung loses second-place smartwatch lead to brand you may never have heard of](https://www.androidauthority.com/smartwatch-sales-2023-q1-3329325/)
+ - [Find My network may extend to future Apple Pencil, if research pans out](https://appleinsider.com/articles/23/05/25/find-my-network-may-extend-to-future-apple-pencil-if-research-pans-out?utm_medium=rss)
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
