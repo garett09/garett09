@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Olympians know what they&#39;re doing...](http://9gag.com/gag/a7q2LMr)
- - 🚯 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)
- - 🚯 [Not sure what to do here](http://9gag.com/gag/aMEv1ex)<!-- MEMES:END -->
+ - 🚖 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)
+ - 🚯 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
+ - 🚯 [This girl from a very poor family has been picked as a luxury brand\u2019s model as they liked her attitude and smile](http://9gag.com/gag/awZdN4x)<!-- MEMES:END -->
 
 --- 
 
