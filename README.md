@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [His face sais it all](http://9gag.com/gag/aZDjWPV)
- - 🚯 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)
- - 🚯 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)<!-- MEMES:END -->
+ - 🚯 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
+ - 🚯 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)<!-- MEMES:END -->
 
 --- 
 
