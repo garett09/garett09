@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The dad award goes to him](http://9gag.com/gag/a8q2dDY)
- - 🚯 [A ghost from the past. He is still alive and fighting as hell](http://9gag.com/gag/ago4vX1)
- - 🚯 [After hero jumps in freezing waters to rescue a dog that\u2019s not his, strangers rush to offer him clothes off their back. Credit : Jason skidgel](http://9gag.com/gag/aXnWpbv)<!-- MEMES:END -->
+ - 🚖 [Olympians know what they&#39;re doing...](http://9gag.com/gag/a7q2LMr)
+ - 🚯 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)
+ - 🚯 [Not sure what to do here](http://9gag.com/gag/aMEv1ex)<!-- MEMES:END -->
 
 --- 
 
