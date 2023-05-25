@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a slim chance Alan Wake 2 could get a physical release after all: The original Alan Wake PC publisher wants to make it happen](https://www.pcgamer.com/theres-a-slim-chance-alan-wake-2-could-get-a-physical-release-after-all-the-original-alan-wake-pc-publisher-wants-to-make-it-happen)
- - [Rings of Power had a ‘Ring Team’ making the show’s actual rings look good](https://www.polygon.com/23734524/lord-rings-power-behind-scenes-special-effects-forging)
- - [This Nugget-Shaped Tetris Handheld From McDonald’s Is Real And Playable](https://kotaku.com/mcdonalds-chicken-nuggets-tetris-gameboy-handheld-china-1850475895)<!-- GAME:END -->
+ - [Apple TV Plus’ Hijack is 24 meets Taken on a plane, starring passenger Idris Elba](https://www.polygon.com/23737738/apple-tvs-plus-thriller-hijack-idris-elba-trailer-release-date)
+ - [My highlight of Sony&#39;s PlayStation showcase is, you guessed it, coming to PC](https://www.pcgamer.com/my-highlight-of-sonys-playstation-showcase-is-you-guessed-it-coming-to-pc)
+ - [Building Lightsabers In Jedi: Survivor Is So Wildly Satisfying](https://kotaku.com/jedi-survivor-lightsaber-designs-customization-respawn-1850476252)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
