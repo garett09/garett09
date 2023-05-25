@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The doggo knew what was up](http://9gag.com/gag/aOxPv02)
- - 🚯 [B*tchbox](http://9gag.com/gag/a5X2KvV)
- - 🚯 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)<!-- MEMES:END -->
+ - 🚖 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
+ - 🚯 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
+ - 🚯 [Show offs](http://9gag.com/gag/ajVZAx1)<!-- MEMES:END -->
 
 --- 
 
