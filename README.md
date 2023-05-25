@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trillion-Dollar Auction to Save the World](https://www.wired.com/story/seagrass-humble-ocean-plant-worth-trillions/)
- - [Pegasus Spyware Is Detected in a War Zone for the First Time](https://www.wired.com/story/pegasus-spyware-war-zone-first-time/)
- - [Waluigi, Carl Jung, and the Case for Moral AI](https://www.wired.com/story/waluigi-effect-generative-artificial-intelligence-morality/)<!-- TECH:END -->
+ - [38 Best Memorial Day Outdoor Deals: Tents, Camp Chairs, and More](https://www.wired.com/story/memorial-day-outdoor-sales-2023/)
+ - [Internal Report Suggests Security Lapses at Hacked Crypto Exchange Bitfinex](https://www.wired.com/story/security-lapses-at-hacked-crypto-exchange-bitfinex/)
+ - [11 Best Memorial Day Mattress Sales &lpar;2023&rpar;: Hybrid, All-Foam, and Buying Advice](https://www.wired.com/story/memorial-day-mattress-deals-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
