@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His face sais it all](http://9gag.com/gag/aZDjWPV)
- - 🚯 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
- - 🚯 [I&#39;ve Never Won A Lottery But I&#39;m Preety Sure This Is How It Feels](http://9gag.com/gag/az2R7yz)<!-- MEMES:END -->
+ - 🚖 [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)
+ - 🚯 [Huh](http://9gag.com/gag/aVbZGnO)
+ - 🚯 [This represents Brazil soccer team](http://9gag.com/gag/aA02BPd)<!-- MEMES:END -->
 
 --- 
 
