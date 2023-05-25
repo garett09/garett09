@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Travel back in time to fight zombies and tyranny in this upcoming survival shooter that&#39;s looking for beta testers right now](https://www.pcgamer.com/travel-back-in-time-to-fight-zombies-and-tyranny-in-this-upcoming-survival-shooter-thats-looking-for-beta-testers-right-now)
- - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)
- - [This Retro Game Trade-In For A Tears Of The Kingdom Switch Is Breaking The Internet](https://kotaku.com/zelda-tears-of-the-kingdom-switch-pikachu-retro-trade-1850477363)<!-- GAME:END -->
+ - [There&#39;s a live-action Diablo ad from the director of Marvel&#39;s Eternals that&#39;s way too serious for its own good](https://www.pcgamer.com/theres-a-live-action-diablo-ad-from-the-director-of-marvels-eternals-thats-way-too-serious-for-its-own-good)
+ - [New Over-Sized Mega Man Slippers Are Perfect](https://kotaku.com/mega-man-big-large-slippers-boots-pre-order-price-1850477390)
+ - [The best weapon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23713029/best-weapons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
