@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
- - 🚯 [B*tchbox](http://9gag.com/gag/a5X2KvV)
- - 🚯 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
+ - 🚖 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)
+ - 🚯 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
+ - 🚯 [Heat seeking](http://9gag.com/gag/aEqDzep)<!-- MEMES:END -->
 
 --- 
 
