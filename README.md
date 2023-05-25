@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Margrethe Vestager says the EU and the UK disagreeing on Microsoft&#39;s Activision deal raises &quot;important questions&quot; and the EU was swayed by the proposed remedies &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/230525/p6#a230525p6)
- - [ASUS accidentally leaks ZenFone 10’s pricing](https://www.androidauthority.com/asus-zenfone-10-pricing-leaked-3329188/)
- - [OnePlus 12 leak spills specs, launch window details](https://www.androidauthority.com/oneplus-12-specs-launch-details-3329187/)<!-- TECH:END -->
+ - [The Trillion-Dollar Auction to Save the World](https://www.wired.com/story/seagrass-humble-ocean-plant-worth-trillions/)
+ - [Pegasus Spyware Is Detected in a War Zone for the First Time](https://www.wired.com/story/pegasus-spyware-war-zone-first-time/)
+ - [Waluigi, Carl Jung, and the Case for Moral AI](https://www.wired.com/story/waluigi-effect-generative-artificial-intelligence-morality/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
