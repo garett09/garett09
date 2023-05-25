@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A beta version of WhatsApp suggests the company is working on adding usernames, which may allow users to chat without sharing their phone numbers &lpar;WABetaInfo&rpar;](http://www.techmeme.com/230525/p30#a230525p30)
- - [This experimental AI app will let you turn your ideas into music](https://www.androidauthority.com/experimental-ai-musiclm-app-3329486/)
- - [Paradigm appears to have removed crypto and web3 mentions from its website&#39;s home page, as sources say the VC is expanding its focus to &quot;frontier&quot; tech like AI &lpar;The Block&rpar;](http://www.techmeme.com/230525/p29#a230525p29)<!-- TECH:END -->
+ - [Applied Intuition, a provider of autonomous vehicle software, plans to acquire autonomous trucking software company Embark in a ~$71M all-cash deal &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/230525/p32#a230525p32)
+ - [Hands-on with Magic Compose, the AI-generating Messages tool](https://www.androidauthority.com/magic-compose-experience-3329552/)
+ - [Toronto-based BenchSci, which uses AI to help pharmaceutical firms accelerate drug discovery, raised a CA$95M Series D led by Generation Investment Management &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/230525/p31#a230525p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
