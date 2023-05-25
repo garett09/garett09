@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two CEO says GTA 6 &#39;needs to be something you&#39;ve never seen before&#39; a year after leaks where it looked like something we&#39;ve seen before](https://www.pcgamer.com/take-two-ceo-says-gta-6-needs-to-be-something-youve-never-seen-before-a-year-after-leaks-where-it-looked-like-something-weve-seen-before)
- - [How to watch Warhammer Skulls 2023](https://www.pcgamer.com/warhammer-skulls-2023-watch-times)
- - [Assassin’s Creed Mirage Release Date Announced, Gameplay Revealed](https://news.xbox.com/en-us/2023/05/25/assassins-creed-mirage-release-date-preorders-open/)<!-- GAME:END -->
+ - [Bungie reveals more about Marathon after fans solve ARG hidden in trailer](https://www.polygon.com/23737145/marathon-bungie-arg-vidoc)
+ - [The Lord of the Rings: Gollum reviews round-up: lots of folk are saying they hates it](https://www.pcgamer.com/the-lord-of-the-rings-gollum-reviews-round-up-lots-of-folk-are-saying-they-hates-it)
+ - [Just one person showed up to buy an RTX 4060 Ti for its late night Akihabara launch](https://www.pcgamer.com/just-one-person-showed-up-to-buy-an-rtx-4060-ti-for-its-late-night-akihabara-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
