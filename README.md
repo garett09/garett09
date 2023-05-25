@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount Plus and Showtime streaming is 50 percent off for three months to new subscribers](https://www.theverge.com/2023/5/25/23737198/paramount-plus-showtime-streaming-apple-airtag-xbox-controller-deal-sale)
- - [BMW introduces an electric 5 Series sedan with almost 300 miles of range](https://www.theverge.com/2023/5/25/23736398/bmw-i5-5-series-electric-sedan-ev-price-specs)
- - [Google is starting to let users into its AI search experiment](https://www.theverge.com/2023/5/25/23737405/google-search-labs-waitlist-invites-ai)<!-- TECH:END -->
+ - [Google’s Magic Compose is available now, bringing generative AI to Messages](https://www.androidauthority.com/google-magic-compose-3329382/)
+ - [YouTube is killing Stories](https://www.theverge.com/2023/5/25/23736246/youtube-ending-stories-shorts-community-posts)
+ - [Alibaba pushes back on reports of layoffs, saying it plans to hire 15,000 workers in 2023 across its six major divisions, including 3,000 university graduates &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/230525/p23#a230525p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
