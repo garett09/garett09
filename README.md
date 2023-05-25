@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [ChadVille](http://9gag.com/gag/ago4y0r)
- - 🚯 [Why does this happen](http://9gag.com/gag/avQRLzd)
- - 🚯 [American: `OMG this is so offensive!` Mexicans: `Nice outfit bro!`](http://9gag.com/gag/a041Lpq)<!-- MEMES:END -->
+ - 🚖 [His face sais it all](http://9gag.com/gag/aZDjWPV)
+ - 🚯 [This girl from a very poor family has been picked as a luxury brand\u2019s model as they liked her attitude and smile](http://9gag.com/gag/awZdN4x)
+ - 🚯 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
 
 --- 
 
