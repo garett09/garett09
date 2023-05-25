@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Magic Compose is available now, bringing generative AI to Messages](https://www.androidauthority.com/google-magic-compose-3329382/)
- - [YouTube is killing Stories](https://www.theverge.com/2023/5/25/23736246/youtube-ending-stories-shorts-community-posts)
- - [Alibaba pushes back on reports of layoffs, saying it plans to hire 15,000 workers in 2023 across its six major divisions, including 3,000 university graduates &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/230525/p23#a230525p23)<!-- TECH:END -->
+ - [Govee LED Strip Light M1 review: Should you buy it?](https://www.androidauthority.com/govee-led-strip-light-m1-review-3325924/)
+ - [All our burning Qs about PlayStation’s Project Q](https://www.theverge.com/23737403/sony-playstation-portable-project-q-questions)
+ - [Samsung’s new $5,000 32-inch tablet comes with a fridge attached](https://www.theverge.com/2023/5/25/23737374/samsung-family-hub-smart-fridge-matter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
