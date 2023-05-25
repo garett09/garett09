@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704)
- - [WoW Classic players furious at addition of controversial item, Blizzard says it&#39;s a necessary evil in the &#39;unwinnable war&#39; against bots, scammers, and RMT workshops](https://www.pcgamer.com/wow-classic-players-furious-at-addition-of-controversial-item-blizzard-says-its-a-necessary-evil-in-the-unwinnable-war-against-bots-scammers-and-rmt-workshops)
- - [Sony&#39;s upcoming game streaming handheld looks like someone stretched a Dualsense controller out with a rolling pin](https://www.pcgamer.com/sony-project-q-streaming-handheld-announcement)<!-- GAME:END -->
+ - [The Metal Gear Solid 3 Remake Is Real And Coming To PS5](https://kotaku.com/metal-gear-solid-3-snake-eater-ps5-cynthia-harrell-1850471638)
+ - [How Latino is Dominic Toretto? And why does it matter?](https://www.polygon.com/23736442/dominic-toretto-latino-hispanic-identity-ethnicity)
+ - [Marvel considered Robert Downey Jr. for Doctor Doom, but he saved the MCU instead](https://www.polygon.com/23737234/marvel-fantastic-four-cast-robert-downey-jr-doctor-doom-iron-man-2008)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
