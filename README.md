@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Mirage Release Date Announced, Gameplay Revealed](https://news.xbox.com/en-us/2023/05/25/assassins-creed-mirage-release-date-preorders-open/)
- - [Computex is a different beast to E3 and it&#39;s back for real in 2023!](https://www.pcgamer.com/computex-2023-is-really-back)
- - [Gollum has two personalities — I wish the Gollum game had any](https://www.polygon.com/23735798/lord-of-the-rings-gollum-game-review-daedalic)<!-- GAME:END -->
+ - [Take-Two CEO says GTA 6 &#39;needs to be something you&#39;ve never seen before&#39; a year after leaks where it looked like something we&#39;ve seen before](https://www.pcgamer.com/take-two-ceo-says-gta-6-needs-to-be-something-youve-never-seen-before-a-year-after-leaks-where-it-looked-like-something-weve-seen-before)
+ - [How to watch Warhammer Skulls 2023](https://www.pcgamer.com/warhammer-skulls-2023-watch-times)
+ - [Assassin’s Creed Mirage Release Date Announced, Gameplay Revealed](https://news.xbox.com/en-us/2023/05/25/assassins-creed-mirage-release-date-preorders-open/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
