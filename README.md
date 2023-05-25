@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at how puritanism took over fandom communities, the growing &quot;anti-fandom&quot; movement, and how the US&#39; FOSTA-SESTA worsened sex positivity discourse online &lpar;Aja Romano/Vox&rpar;](http://www.techmeme.com/230525/p5#a230525p5)
- - [Fresh Motorola Razr 40 Ultra leak reveals everything, including price](https://www.androidauthority.com/motorola-razr-40-ultra-price-leak-3329173/)
- - [Here’s 44 seconds of the Moto Razr Ultra because an entire ad has leaked](https://www.theverge.com/2023/5/25/23737055/moto-razr-ultra-foldable-video-leak-evleaks)<!-- TECH:END -->
+ - [Margrethe Vestager says the EU and the UK disagreeing on Microsoft&#39;s Activision deal raises &quot;important questions&quot; and the EU was swayed by the proposed remedies &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/230525/p6#a230525p6)
+ - [ASUS accidentally leaks ZenFone 10’s pricing](https://www.androidauthority.com/asus-zenfone-10-pricing-leaked-3329188/)
+ - [OnePlus 12 leak spills specs, launch window details](https://www.androidauthority.com/oneplus-12-specs-launch-details-3329187/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
