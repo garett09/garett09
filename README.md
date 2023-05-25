@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [ChadVille](http://9gag.com/gag/ago4y0r)
- - 🚯 [His face sais it all](http://9gag.com/gag/aZDjWPV)
- - 🚯 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)<!-- MEMES:END -->
+ - 🚖 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
+ - 🚯 [B*tchbox](http://9gag.com/gag/a5X2KvV)
+ - 🚯 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
 
 --- 
 
