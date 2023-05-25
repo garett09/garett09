@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung loses second-place smartwatch lead to brand you may never have heard of](https://www.androidauthority.com/smartwatch-sales-2023-q1-3329325/)
- - [Find My network may extend to future Apple Pencil, if research pans out](https://appleinsider.com/articles/23/05/25/find-my-network-may-extend-to-future-apple-pencil-if-research-pans-out?utm_medium=rss)
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)<!-- TECH:END -->
+ - [Paramount Plus and Showtime streaming is 50 percent off for three months to new subscribers](https://www.theverge.com/2023/5/25/23737198/paramount-plus-showtime-streaming-apple-airtag-xbox-controller-deal-sale)
+ - [BMW introduces an electric 5 Series sedan with almost 300 miles of range](https://www.theverge.com/2023/5/25/23736398/bmw-i5-5-series-electric-sedan-ev-price-specs)
+ - [Google is starting to let users into its AI search experiment](https://www.theverge.com/2023/5/25/23737405/google-search-labs-waitlist-invites-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
