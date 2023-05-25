@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 Won&#39;t Be Releasing On A Disc](https://kotaku.com/alan-wake-2-digital-only-no-disc-gamestop-trade-in-ps5-1850472524)
- - [Sequel To Capcom&#39;s Beloved Action-RPG Will Have You Killing Dragons On PS5](https://kotaku.com/dragons-dogma-playstation-capcom-ps5-xbox-rpg-skyrim-1850472500)
- - [How to get the Awakening Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23736508/awakening-armor-locations-head-chest-legs)<!-- GAME:END -->
+ - [How is AI going to change game development?](https://www.pcgamer.com/how-is-ai-going-to-change-game-development)
+ - [Metal Gear Solid 3&#39;s remake announcement can&#39;t hold a candle to one of the best game trailers of all time](https://www.pcgamer.com/metal-gear-solid-3s-remake-announcement-cant-hold-a-candle-to-one-of-the-best-game-trailers-of-all-time)
+ - [War Thunder &#39;Revises&#39; Economy, Fans Review-Bomb Game To Hell](https://kotaku.com/war-thunder-f2p-pc-protest-steam-pc-review-economy-p2w-1850468060)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
