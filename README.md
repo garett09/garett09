@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [38 Best Memorial Day Outdoor Deals: Tents, Camp Chairs, and More](https://www.wired.com/story/memorial-day-outdoor-sales-2023/)
- - [Internal Report Suggests Security Lapses at Hacked Crypto Exchange Bitfinex](https://www.wired.com/story/security-lapses-at-hacked-crypto-exchange-bitfinex/)
- - [11 Best Memorial Day Mattress Sales &lpar;2023&rpar;: Hybrid, All-Foam, and Buying Advice](https://www.wired.com/story/memorial-day-mattress-deals-2023/)<!-- TECH:END -->
+ - [Pegasus iPhone spyware is now a tool of war](https://appleinsider.com/articles/23/05/25/pegasus-iphone-spyware-is-now-a-tool-of-war?utm_medium=rss)
+ - [What do you think of the Pixel 8 Pro’s rumored thermometer?](https://www.androidauthority.com/pixel-8-pro-thermometer-poll-3328814/)
+ - [Digital Culture Is Literally Reshaping Women&#39;s Faces](https://www.wired.com/story/flawless-korea-beauty-elise-hu/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
