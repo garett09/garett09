@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The juDickciary committee](http://9gag.com/gag/aoKLmXx)
- - 🚯 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
- - 🚯 [Heat seeking](http://9gag.com/gag/aEqDzep)<!-- MEMES:END -->
+ - 🚖 [Kite surfing gone wrong.](http://9gag.com/gag/aVbLzEM)
+ - 🚯 [His face sais it all](http://9gag.com/gag/aZDjWPV)
+ - 🚯 [Olympians know what they&#39;re doing...](http://9gag.com/gag/a7q2LMr)<!-- MEMES:END -->
 
 --- 
 
