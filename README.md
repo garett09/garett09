@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drunk women harassing a bartender.](http://9gag.com/gag/ay2REzq)
- - 🚯 [Huh](http://9gag.com/gag/aVbZGnO)
- - 🚯 [This represents Brazil soccer team](http://9gag.com/gag/aA02BPd)<!-- MEMES:END -->
+ - 🚖 [VERY CHARMING MISTAKE](http://9gag.com/gag/a2K2zQD)
+ - 🚯 [The King of Camouflage](http://9gag.com/gag/aQEZ6G7)
+ - 🚯 [His face sais it all](http://9gag.com/gag/aZDjWPV)<!-- MEMES:END -->
 
 --- 
 
