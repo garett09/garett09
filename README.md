@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Govee LED Strip Light M1 review: Should you buy it?](https://www.androidauthority.com/govee-led-strip-light-m1-review-3325924/)
- - [All our burning Qs about PlayStation’s Project Q](https://www.theverge.com/23737403/sony-playstation-portable-project-q-questions)
- - [Samsung’s new $5,000 32-inch tablet comes with a fridge attached](https://www.theverge.com/2023/5/25/23737374/samsung-family-hub-smart-fridge-matter)<!-- TECH:END -->
+ - [Apple updates Developer app with support for WWDC 23 sessions, labs, and more](https://appleinsider.com/articles/23/05/25/apple-updates-developer-app-with-support-for-wwdc-23-sessions-labs-and-more?utm_medium=rss)
+ - [The 12 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [Twitter launches API Pro, a $5,000/month tier offering access to full archive search endpoints and the ability to fetch 1M tweets and post 300K tweets monthly &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230525/p26#a230525p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
