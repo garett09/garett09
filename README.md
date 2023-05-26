@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temu Is Losing Millions of Dollars to Send You Cheap Socks](https://www.wired.com/story/temu-is-losing-millions-of-dollars-to-send-you-cheap-socks/)
- - [Where Memory Ends and Generative AI Begins](https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/)
- - [An interview with Pitchfork EIC Puja Patel on how AI is infiltrating every single aspect of music, AI-generated music&#39;s ownership and money concerns, and more &lpar;Wired&rpar;](http://www.techmeme.com/230526/p2#a230526p2)<!-- TECH:END -->
+ - [24 Best Memorial Day Tech Deals 2023: Headphones, TVs, and More](https://www.wired.com/story/memorial-day-tech-deals-2023/)
+ - [35 Best Memorial Day Sales and Deals: Pizza Ovens, Recycled Bags, and More](https://www.wired.com/story/best-memorial-day-sales-2023/)
+ - [Antarctic Sea Ice Is at Record Lows. Is It an Alarming Shift?](https://www.wired.com/story/antarctic-sea-ice-is-at-record-lows-is-it-an-alarming-shift/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
