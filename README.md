@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s $50M keyboard settlement deemed &#39;fair &amp; reasonable&#39; by US judge](https://appleinsider.com/articles/23/05/26/apples-50m-keyboard-settlement-deemed-fair-reasonable-by-us-judge?utm_medium=rss)
- - [Apple TV+ adds to its London team with BBC vet Max Gogarty](https://appleinsider.com/articles/23/05/26/apple-tv-adds-to-its-london-team-with-bbc-vet-max-gogarty?utm_medium=rss)
- - [Google Photos Magic Editor: What is it and how does it work?](https://www.androidauthority.com/what-is-google-photos-magic-editor-3329779/)<!-- TECH:END -->
+ - [The wildest Tears of the Kingdom builds we’ve seen](https://www.theverge.com/2023/5/22/23732888/tears-of-the-kingdom-builds-crafting-wildest)
+ - [Bluesky rolls out a &quot;custom feeds&quot; feature that lets users subscribe to different algorithms and make their own for others to use; most are not chronological &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230526/p9#a230526p9)
+ - [The 43 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
