@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hammerhead](http://9gag.com/gag/aPgQMyG)
- - 🚯 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
- - 🚯 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)<!-- MEMES:END -->
+ - 🚖 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
+ - 🚯 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)
+ - 🚯 [You have been warned](http://9gag.com/gag/aqeW5QL)<!-- MEMES:END -->
 
 --- 
 
