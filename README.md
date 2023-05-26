@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s latest OLED TVs are already on sale in the run-up to Memorial Day](https://www.theverge.com/2023/5/26/23737398/lg-c3-g3-oled-tv-sony-headphones-logitech-litra-glow-light-memorial-day-deal-sale)
- - [HBO Max, Netflix, Disney+, and the Day Streaming Died](https://www.wired.com/story/hbo-max-netflix-disney-plus-day-streaming-died/)
- - [The Physics of ‘Sniping’ for Gold](https://www.wired.com/story/the-physics-of-sniping-for-gold/)<!-- TECH:END -->
+ - [Apple&#39;s headset will need killer apps &amp; services to be successful](https://appleinsider.com/articles/23/05/26/apples-headset-will-need-killer-apps-services-to-be-successful?utm_medium=rss)
+ - [WWDC 2023: what to expect at Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)
+ - [Brisk It Origin-580 review: A smart smoker for backyard BBQing](https://appleinsider.com/articles/23/05/26/brisk-it-origin-580-review-a-smart-smoker-for-backyard-bbqing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
