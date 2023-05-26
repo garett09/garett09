@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone calm down — the fish in the live-action Little Mermaid actually look fine](https://www.polygon.com/23736003/the-little-mermaid-live-action-2023-cg-fish-flounder-sebastian-scuttle)
- - [This Glitch Makes The Master Sword Unbreakable In Tears Of The Kingdom [Update]](https://kotaku.com/zelda-tears-of-the-kingdom-totk-master-sword-glitch-1850474567)
- - [One Piece Odyssey: Friends Have Become Foes in the Reunion of Memories DLC, Out Now](https://news.xbox.com/en-us/2023/05/26/one-piece-odyssey-reunion-of-memories-dlc/)<!-- GAME:END -->
+ - [Minecraft Trails &amp; Tales Update Coming June 7!](https://news.xbox.com/en-us/2023/05/26/minecraft-trails-tales-release-date-june/)
+ - [Nintendo Goes On Tears of the Kingdom Rampage, Nukes Overpowered Glitches](https://kotaku.com/tears-of-the-kingdom-duplication-glitch-zuggling-patch-1850479188)
+ - [Homeworld 3 delayed again, now launching in 2024](https://www.polygon.com/23738665/homeworld-3-release-date-delay-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
