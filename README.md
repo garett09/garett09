@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Press Play: Cassette Beasts is Out Now on Xbox and Available with Xbox Game Pass](https://news.xbox.com/en-us/2023/05/26/press-play-cassette-beasts-is-out-now-on-xbox-and-available-with-xbox-game-pass/)
- - [How to farm dragon materials in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23737361/dragon-materials-farm-how-to-get)
- - [Where to find dragons in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703497/dragon-locations-where-to-find-spikes-scales)<!-- GAME:END -->
+ - [This Tears Of The Kingdom &#39;Air Bike&#39; Is Starting A Revolution](https://kotaku.com/tears-of-the-kingdom-how-make-air-bike-map-underground-1850481187)
+ - [Switch Heroes and Save a Pixelled, Feudal Japan in Chronicles of 2 Heroes](https://news.xbox.com/en-us/2023/05/26/switch-heroes-and-save-japan-in-chronicles-of-2-heroes/)
+ - [Zelda: Tears of the Kingdom’s Depths aren’t scary when you’ve got a sick ride](https://www.polygon.com/legend-zelda-tears-kingdom/23737910/zelda-tears-of-the-kingdom-totk-depths-gloom-best-vehicles-cars-bikes-planes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
