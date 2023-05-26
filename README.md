@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A dolphin](http://9gag.com/gag/a1P2KvY)
- - 🚯 [Applying makeup to Rebecca Romijn on the set of \u00abX-Men\u00bb, 2000](http://9gag.com/gag/a041jXQ)
- - 🚯 [Not everyone gets to experience the game](http://9gag.com/gag/amAMzqv)<!-- MEMES:END -->
+ - 🚖 [Now I understand why the shoulder and elbow injuries](http://9gag.com/gag/armqKdp)
+ - 🚯 [You have been warned](http://9gag.com/gag/aqeW5QL)
+ - 🚯 [Woman harassing a student for having dreadlocks](http://9gag.com/gag/aA02dnR)<!-- MEMES:END -->
 
 --- 
 
