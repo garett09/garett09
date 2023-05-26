@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol me2](http://9gag.com/gag/anzE1wn)
- - 🚯 [From the archives &lpar;2010&rpar;](http://9gag.com/gag/armqKqX)
- - 🚯 [Well, that escalated quickly](http://9gag.com/gag/aA02pEg)<!-- MEMES:END -->
+ - 🚖 [Well, that escalated quickly](http://9gag.com/gag/aA02pEg)
+ - 🚯 [Lol me2](http://9gag.com/gag/anzE1wn)
+ - 🚯 [When you can eliminate 99.9% of all bullshit on 9GAG with one customization.](http://9gag.com/gag/aQEZnXw)<!-- MEMES:END -->
 
 --- 
 
