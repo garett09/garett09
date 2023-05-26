@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Tears Of The Kingdom &#39;Air Bike&#39; Is Starting A Revolution](https://kotaku.com/tears-of-the-kingdom-how-make-air-bike-map-underground-1850481187)
- - [Switch Heroes and Save a Pixelled, Feudal Japan in Chronicles of 2 Heroes](https://news.xbox.com/en-us/2023/05/26/switch-heroes-and-save-japan-in-chronicles-of-2-heroes/)
- - [Zelda: Tears of the Kingdom’s Depths aren’t scary when you’ve got a sick ride](https://www.polygon.com/legend-zelda-tears-kingdom/23737910/zelda-tears-of-the-kingdom-totk-depths-gloom-best-vehicles-cars-bikes-planes)<!-- GAME:END -->
+ - [Bonkers Destiny 2 Shard Farm Gives You Unlimited Exotics [Update: It&#39;s Gone]](https://kotaku.com/destiny-2-season-deep-legendary-shard-exotic-farm-bug-1850480756)
+ - [Wow, Bungie&#39;s Marathon Is The Coolest Looking Shooter In Years](https://kotaku.com/marathon-shooter-best-vibrant-colorful-bungie-trailer-1850481359)
+ - [John Wick 4, Shazam 2, and every new movie to watch at home this weekend](https://www.polygon.com/2023/5/26/23729815/new-movies-watch-john-wick-4-streaming-shazam-2-blood-gold-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
