@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s next adventures are being designed to come apart at the seams](https://www.polygon.com/23736642/dnd-dungeons-dragons-phandelver-planescape-deck-of-many-things-release-date-price)
- - [The Metal Gear Solid collection will also include the first two Metal Gear games](https://www.pcgamer.com/the-metal-gear-solid-collection-will-also-include-the-first-two-metal-gear-games)
- - [Freaky visuals and pixel-perfect metroidvania gameplay make the second outing of The Penitent One a cult classic in the making](https://www.pcgamer.com/freaky-visuals-and-pixel-perfect-metroidvania-gameplay-make-the-second-outing-of-the-penitent-one-a-cult-classic-in-the-making)<!-- GAME:END -->
+ - [Everyone calm down — the fish in the live-action Little Mermaid actually look fine](https://www.polygon.com/23736003/the-little-mermaid-live-action-2023-cg-fish-flounder-sebastian-scuttle)
+ - [This Glitch Makes The Master Sword Unbreakable In Tears Of The Kingdom [Update]](https://kotaku.com/zelda-tears-of-the-kingdom-totk-master-sword-glitch-1850474567)
+ - [One Piece Odyssey: Friends Have Become Foes in the Reunion of Memories DLC, Out Now](https://news.xbox.com/en-us/2023/05/26/one-piece-odyssey-reunion-of-memories-dlc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
