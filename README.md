@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a live-action Diablo ad from the director of Marvel&#39;s Eternals that&#39;s way too serious for its own good](https://www.pcgamer.com/theres-a-live-action-diablo-ad-from-the-director-of-marvels-eternals-thats-way-too-serious-for-its-own-good)
- - [New Over-Sized Mega Man Slippers Are Perfect](https://kotaku.com/mega-man-big-large-slippers-boots-pre-order-price-1850477390)
- - [The best weapon in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23713029/best-weapons)<!-- GAME:END -->
+ - [Cancelled Metal Gear Solid Board Game Is Back From The Brink](https://kotaku.com/metal-gear-solid-board-game-cmon-minis-snake-stealth-1850477870)
+ - [Alone in the Dark Spotlight – Hollywood talent and new gameplay](https://blog.playstation.com/2023/05/25/alone-in-the-dark-spotlight-hollywood-talent-and-new-gameplay/)
+ - [Alone in the Dark Spotlight – Hollywood talent and new gameplay](https://blog.playstation.com/2023/05/25/alone-in-the-dark-spotlight-hollywood-talent-and-new-gameplay/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
