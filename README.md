@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I understand](http://9gag.com/gag/aqeW1Yv)
- - 🚯 [Chinese man suddenly opened the door of airplane in South Korea.](http://9gag.com/gag/aZDjBOQ)
- - 🚯 [Happy cat noise](http://9gag.com/gag/a5X2nzg)<!-- MEMES:END -->
+ - 🚖 [Hammerhead](http://9gag.com/gag/aPgQMyG)
+ - 🚯 [In 1783, a boy was born with two heads. The second head was upside down, with the neck pointed straight up. Shockingly, the second head was fully functional. The boy claimed he could hear the other brain telling him things.](http://9gag.com/gag/abvBzBE)
+ - 🚯 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)<!-- MEMES:END -->
 
 --- 
 
