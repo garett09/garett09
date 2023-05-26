@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
- - 🚯 [You have been warned](http://9gag.com/gag/aqeW5QL)
- - 🚯 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
+ - 🚖 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)
+ - 🚯 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
+ - 🚯 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)<!-- MEMES:END -->
 
 --- 
 
