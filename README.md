@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
- - 🚯 [Not everyone gets to experience the game](http://9gag.com/gag/amAMzqv)
- - 🚯 [American: `OMG this is so offensive!` Mexicans: `Nice outfit bro!`](http://9gag.com/gag/a041Lpq)<!-- MEMES:END -->
+ - 🚖 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
+ - 🚯 [Show offs](http://9gag.com/gag/ajVZAx1)
+ - 🚯 [And the award for `the best grandma in the world` goes to:](http://9gag.com/gag/a1P2bqD)<!-- MEMES:END -->
 
 --- 
 
