@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, that escalated quickly](http://9gag.com/gag/aA02pEg)
- - 🚯 [Lol me2](http://9gag.com/gag/anzE1wn)
- - 🚯 [When you can eliminate 99.9% of all bullshit on 9GAG with one customization.](http://9gag.com/gag/aQEZnXw)<!-- MEMES:END -->
+ - 🚖 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
+ - 🚯 [You have been warned](http://9gag.com/gag/aqeW5QL)
+ - 🚯 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
 
 --- 
 
