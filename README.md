@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Last Of Us Multiplayer Not Ready To Show, Naughty Dog Says [Update]](https://kotaku.com/last-of-us-multiplayer-game-playstation-showcase-ps5-1850480567)
- - [This Week on Xbox: Mortal Kombat 1, Alan Wake II, Warhammer Skulls Fest and So Much More!](https://news.xbox.com/en-us/2023/05/26/this-week-on-xbox-mortal-kombat-1-alan-wake-ii-warhammer-skulls-fest/)
- - [Bonkers Destiny 2 Shard Farm Gives You Unlimited Exotics](https://kotaku.com/destiny-2-season-deep-legendary-shard-exotic-farm-bug-1850480756)<!-- GAME:END -->
+ - [Press Play: Cassette Beasts is Out Now on Xbox and Available with Xbox Game Pass](https://news.xbox.com/en-us/2023/05/26/press-play-cassette-beasts-is-out-now-on-xbox-and-available-with-xbox-game-pass/)
+ - [How to farm dragon materials in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23737361/dragon-materials-farm-how-to-get)
+ - [Where to find dragons in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703497/dragon-locations-where-to-find-spikes-scales)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
