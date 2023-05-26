@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 Best Memorial Day Tech Deals 2023: Headphones, TVs, and More](https://www.wired.com/story/memorial-day-tech-deals-2023/)
- - [35 Best Memorial Day Sales and Deals: Pizza Ovens, Recycled Bags, and More](https://www.wired.com/story/best-memorial-day-sales-2023/)
- - [Antarctic Sea Ice Is at Record Lows. Is It an Alarming Shift?](https://www.wired.com/story/antarctic-sea-ice-is-at-record-lows-is-it-an-alarming-shift/)<!-- TECH:END -->
+ - [Final Cut for iPad, Apple Headset at WWDC, iOS 17 home display](https://appleinsider.com/articles/23/05/26/final-cut-for-ipad-apple-headset-at-wwdc-ios-17-home-display?utm_medium=rss)
+ - [These are the best Android tips and tricks in 2023](https://www.androidauthority.com/best-android-tips-and-tricks-3329249/)
+ - [The Surgeon General Is Pushing for a Misguided Social Media Policy](https://www.wired.com/story/the-surgeon-general-is-pushing-for-misguided-social-media-policy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
