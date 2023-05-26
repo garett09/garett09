@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
- - 🚯 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)
- - 🚯 [You have been warned](http://9gag.com/gag/aqeW5QL)<!-- MEMES:END -->
+ - 🚖 [Hammerhead](http://9gag.com/gag/aPgQMyG)
+ - 🚯 [Show offs](http://9gag.com/gag/ajVZAx1)
+ - 🚯 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
 
 --- 
 
