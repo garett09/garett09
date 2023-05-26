@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: as part of its layoffs, Meta cut an ambitious project that would have let third-party fact-checkers like Reuters add comments at the top of articles &lpar;CNBC&rpar;](http://www.techmeme.com/230526/p6#a230526p6)
- - [The best budget laptop of 2023](https://www.theverge.com/22652565/best-cheap-laptops)
- - [Tesla Model Y is the first EV to become the world’s bestselling car](https://www.theverge.com/2023/5/26/23738581/tesla-model-y-ev-record-world-bestselling-car-electric)<!-- TECH:END -->
+ - [Motorola Edge Plus &lpar;2023&rpar; review: Finally cutting edge](https://www.androidauthority.com/motorola-edge-plus-2023-review-3325720/)
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
+ - [The best Android tablet is a top deal in this $300 price drop](https://www.androidauthority.com/samsung-galaxy-s8-plus-deal-3329792/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
