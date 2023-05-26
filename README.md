@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
- - 🚯 [Show offs](http://9gag.com/gag/ajVZAx1)
- - 🚯 [And the award for `the best grandma in the world` goes to:](http://9gag.com/gag/a1P2bqD)<!-- MEMES:END -->
+ - 🚖 [Now I understand why the shoulder and elbow injuries](http://9gag.com/gag/armqKdp)
+ - 🚯 [Love him or hate him, Tom Cruise got balls.](http://9gag.com/gag/axoRVwL)
+ - 🚯 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)<!-- MEMES:END -->
 
 --- 
 
