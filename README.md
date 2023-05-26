@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is killing a stolen YouTube feature](https://www.androidauthority.com/google-killing-youtube-stories-3329628/)
- - [A survey conducted in March 2023: 58% of US adults have heard of ChatGPT but only 14% have tried it themselves; roughly four in ten say it&#39;s somewhat useful &lpar;Emily A. Vogels/Pew Research Center&rpar;](http://www.techmeme.com/230525/p38#a230525p38)
- - [Best Noise-Canceling Headphones of 2023     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT iOS app expands to over 40 countries](https://www.androidauthority.com/chatgpt-ios-android-app-3326767/)
+ - [Deepfakes, Cheapfakes, and Twitter Censorship Mar Turkey’s Elections](https://www.wired.com/story/deepfakes-cheapfakes-and-twitter-censorship-mar-turkeys-elections/)
+ - [Unlock the lowest price ever on OWC&#39;s 14-port Thunderbolt 3 dock](https://appleinsider.com/articles/23/05/26/unlock-the-lowest-price-ever-on-owcs-14-port-thunderbolt-3-dock?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
