@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)
- - 🚯 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
- - 🚯 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)<!-- MEMES:END -->
+ - 🚯 [B*tchbox](http://9gag.com/gag/a5X2KvV)
+ - 🚯 [Man gives car keys as ID](http://9gag.com/gag/aBdGryQ)<!-- MEMES:END -->
 
 --- 
 
