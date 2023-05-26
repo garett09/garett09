@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Trails &amp; Tales Update Coming June 7!](https://news.xbox.com/en-us/2023/05/26/minecraft-trails-tales-release-date-june/)
- - [Nintendo Goes On Tears of the Kingdom Rampage, Nukes Overpowered Glitches](https://kotaku.com/tears-of-the-kingdom-duplication-glitch-zuggling-patch-1850479188)
- - [Homeworld 3 delayed again, now launching in 2024](https://www.polygon.com/23738665/homeworld-3-release-date-delay-announcement)<!-- GAME:END -->
+ - [Share of the Week – Star Wars Jedi: Survivor – Cal Kestis](https://blog.playstation.com/2023/05/26/share-of-the-week-star-wars-jedi-survivor-cal-kestis/)
+ - [Convergence is a solid platformer in the League of Legends universe](https://www.polygon.com/reviews/23737461/convergence-league-of-legends-story-review-ekko-action-platformer)
+ - [Monoprice Dark Matter GT](https://www.pcgamer.com/monoprice-dark-matter-gt-foldable-racing-wheel-stand-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
