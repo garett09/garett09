@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neuralink says it received US FDA approval to launch its first-in-human clinical study of brain implants &lpar;Akriti Sharma/Reuters&rpar;](http://www.techmeme.com/230525/p34#a230525p34)
- - [YouTube will let you watch unlimited NFL Sunday Ticket streams, but only at home](https://www.theverge.com/2023/5/25/23738057/youtube-nfl-sunday-ticket-streams-unlimited-streams-home)
- - [Filing: JPMorgan Chase is working on a ChatGPT-like software service dubbed IndexGPT that uses AI to analyze and select investments tailored to customer needs &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/230525/p33#a230525p33)<!-- TECH:END -->
+ - [Email: Twitter tells researchers to delete all Twitter data stored on their systems within 30 days after their agreement expires, or sign a new contract &lpar;Chris Stokel-Walker/The i Paper&rpar;](http://www.techmeme.com/230525/p37#a230525p37)
+ - [The best phone deals of May 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Alone in the Dark’s new footage is full of terror — and you can play a demo right now](https://www.theverge.com/23734878/alone-in-the-dark-trailer-demo-release-date-david-harbour)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
