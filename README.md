@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Witcher is getting a fifth season on Netflix](https://www.theverge.com/2023/5/26/23739183/the-witcher-season-5-netflix-liam-hemsworth)
- - [Best standing desks for home offices, tested and reviewed](https://appleinsider.com/inside/mac/best/best-standing-desk?utm_medium=rss)
- - [Apple is shutting down the really old &#39;My Photo Stream&#39; on July 26](https://appleinsider.com/articles/23/05/26/apple-is-shutting-down-the-really-old-my-photo-stream-on-july-26?utm_medium=rss)<!-- TECH:END -->
+ - [Sonos wins $32.5 million patent infringement victory over Google](https://www.theverge.com/2023/5/26/23739273/google-sonos-smart-speaker-patent-lawsuit-ruling)
+ - [Germany-based Sastrify, which operates a marketplace for buying and managing SaaS subscriptions, raised a $32M Series B, bringing its total funding to $55.2M &lpar;FinSMEs&rpar;](http://www.techmeme.com/230526/p10#a230526p10)
+ - [Check out 19 of the best romantic movies on Netflix](https://www.androidauthority.com/best-romance-movies-on-netflix-3311684/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
