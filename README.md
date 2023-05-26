@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)
- - 🚯 [Never-before-seen creature filmed at the bottom of the Java trench, 4.5 miles deep](http://9gag.com/gag/a3Z23KQ)
- - 🚯 [Show offs](http://9gag.com/gag/ajVZAx1)<!-- MEMES:END -->
+ - 🚖 [Americans: `you&#39;re a joke dude!` Chinese: `you look good!`](http://9gag.com/gag/a1P2XLR)
+ - 🚯 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
+ - 🚯 [This was a good scene](http://9gag.com/gag/a2K2NME)<!-- MEMES:END -->
 
 --- 
 
