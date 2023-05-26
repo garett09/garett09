@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You Want Tears of the Kingdom&#39;s Champion’s Leathers For The Juicy Enemy Info](https://kotaku.com/zelda-champions-leathers-tunic-location-tears-kingdom-1850477821)
- - [Grant Gustin’s Flash was better than his ending](https://www.polygon.com/23738743/flash-finale-grant-gustin-arrowverse-end)
- - [All armor sets and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)<!-- GAME:END -->
+ - [The ultimate I Think You Should Leave sketch tier ranking](https://www.polygon.com/23737241/every-i-think-you-should-leave-sketch-ranked-best-to-worst-itysl)
+ - [This Kid’s Talent Show Performance of Bowser’s &#39;Peaches&#39; Is The Slay Of The Century](https://kotaku.com/super-mario-bros-jack-black-peaches-talent-show-tiktok-1850480139)
+ - [‘The Beast and The Princess’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725447/the-beast-and-the-princess-quest-steps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
