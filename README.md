@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Cut for iPad, Apple Headset at WWDC, iOS 17 home display](https://appleinsider.com/articles/23/05/26/final-cut-for-ipad-apple-headset-at-wwdc-ios-17-home-display?utm_medium=rss)
- - [These are the best Android tips and tricks in 2023](https://www.androidauthority.com/best-android-tips-and-tricks-3329249/)
- - [The Surgeon General Is Pushing for a Misguided Social Media Policy](https://www.wired.com/story/the-surgeon-general-is-pushing-for-misguided-social-media-policy/)<!-- TECH:END -->
+ - [LG’s latest OLED TVs are already on sale in the run-up to Memorial Day](https://www.theverge.com/2023/5/26/23737398/lg-c3-g3-oled-tv-sony-headphones-logitech-litra-glow-light-memorial-day-deal-sale)
+ - [HBO Max, Netflix, Disney+, and the Day Streaming Died](https://www.wired.com/story/hbo-max-netflix-disney-plus-day-streaming-died/)
+ - [The Physics of ‘Sniping’ for Gold](https://www.wired.com/story/the-physics-of-sniping-for-gold/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
