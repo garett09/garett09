@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You won&#39;t be seeing them riot over this](http://9gag.com/gag/aL1mBDg)
- - 🚯 [B*tchbox](http://9gag.com/gag/a5X2KvV)
- - 🚯 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)<!-- MEMES:END -->
+ - 🚖 [You have been warned](http://9gag.com/gag/aqeW5QL)
+ - 🚯 [Show offs](http://9gag.com/gag/ajVZAx1)
+ - 🚯 [This is what invisible fire looks like. If it&#39;s day time you won&#39;t be able to see it at all. Facts with science.](http://9gag.com/gag/aqeWrzZ)<!-- MEMES:END -->
 
 --- 
 
