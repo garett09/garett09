@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s CNIL says Microsoft agreed to change the way it tracks Bing users; CNIL fined Microsoft &amp;euro;60M in December 2022, and threatened fines of &amp;euro;60K per day &lpar;Bloomberg&rpar;](http://www.techmeme.com/230526/p7#a230526p7)
- - [Best MacBook Deals: Save $150 on M2 MacBook Air, $250 on M2 MacBook Pro     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [Motorola Edge Plus &lpar;2023&rpar; review: Finally cutting edge](https://www.androidauthority.com/motorola-edge-plus-2023-review-3325720/)<!-- TECH:END -->
+ - [Apple&#39;s $50M keyboard settlement deemed &#39;fair &amp; reasonable&#39; by US judge](https://appleinsider.com/articles/23/05/26/apples-50m-keyboard-settlement-deemed-fair-reasonable-by-us-judge?utm_medium=rss)
+ - [Apple TV+ adds to its London team with BBC vet Max Gogarty](https://appleinsider.com/articles/23/05/26/apple-tv-adds-to-its-london-team-with-bbc-vet-max-gogarty?utm_medium=rss)
+ - [Google Photos Magic Editor: What is it and how does it work?](https://www.androidauthority.com/what-is-google-photos-magic-editor-3329779/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
