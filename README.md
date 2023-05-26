@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The ultimate I Think You Should Leave sketch tier ranking](https://www.polygon.com/23737241/every-i-think-you-should-leave-sketch-ranked-best-to-worst-itysl)
- - [This Kid’s Talent Show Performance of Bowser’s &#39;Peaches&#39; Is The Slay Of The Century](https://kotaku.com/super-mario-bros-jack-black-peaches-talent-show-tiktok-1850480139)
- - [‘The Beast and The Princess’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725447/the-beast-and-the-princess-quest-steps)<!-- GAME:END -->
+ - [Fairgames promises &#39;emergent sandbox gameplay&#39; in competitive PvP heists](https://www.pcgamer.com/fairgames-promises-emergent-sandbox-gameplay-in-competitive-pvp-heists)
+ - [The Lord of the Rings: Gollum studio says sorry for The Lord of the Rings: Gollum game](https://www.pcgamer.com/the-lord-of-the-rings-gollum-studio-says-sorry-for-the-lord-of-the-rings-gollum-game)
+ - [Oh No, The PS5&#39;s Spider-Man 2 Game Has A Silly &#39;Puddlegate&#39; Controversy](https://kotaku.com/spider-man-2-ps5-ps4-water-graphics-insomniac-marvel-1850480251)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
