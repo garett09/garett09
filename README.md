@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week – Star Wars Jedi: Survivor – Cal Kestis](https://blog.playstation.com/2023/05/26/share-of-the-week-star-wars-jedi-survivor-cal-kestis/)
- - [Convergence is a solid platformer in the League of Legends universe](https://www.polygon.com/reviews/23737461/convergence-league-of-legends-story-review-ekko-action-platformer)
- - [Monoprice Dark Matter GT](https://www.pcgamer.com/monoprice-dark-matter-gt-foldable-racing-wheel-stand-review)<!-- GAME:END -->
+ - [You Want Tears of the Kingdom&#39;s Champion’s Leathers For The Juicy Enemy Info](https://kotaku.com/zelda-champions-leathers-tunic-location-tears-kingdom-1850477821)
+ - [Grant Gustin’s Flash was better than his ending](https://www.polygon.com/23738743/flash-finale-grant-gustin-arrowverse-end)
+ - [All armor sets and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
