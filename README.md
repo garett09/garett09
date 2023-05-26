@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You have been warned](http://9gag.com/gag/aqeW5QL)
- - 🚯 [Hammerhead](http://9gag.com/gag/aPgQMyG)
- - 🚯 [And the award for `the best grandma in the world` goes to:](http://9gag.com/gag/a1P2bqD)<!-- MEMES:END -->
+ - 🚖 [A dolphin](http://9gag.com/gag/a1P2KvY)
+ - 🚯 [Applying makeup to Rebecca Romijn on the set of \u00abX-Men\u00bb, 2000](http://9gag.com/gag/a041jXQ)
+ - 🚯 [Not everyone gets to experience the game](http://9gag.com/gag/amAMzqv)<!-- MEMES:END -->
 
 --- 
 
