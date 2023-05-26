@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hammerhead](http://9gag.com/gag/aPgQMyG)
+ - 🚖 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
  - 🚯 [Show offs](http://9gag.com/gag/ajVZAx1)
- - 🚯 [Rhino charges at a truck in India.](http://9gag.com/gag/a3Z2dDr)<!-- MEMES:END -->
+ - 🚯 [Not everyone gets to experience the game](http://9gag.com/gag/amAMzqv)<!-- MEMES:END -->
 
 --- 
 
