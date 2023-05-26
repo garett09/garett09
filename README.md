@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The wildest Tears of the Kingdom builds we’ve seen](https://www.theverge.com/2023/5/22/23732888/tears-of-the-kingdom-builds-crafting-wildest)
- - [Bluesky rolls out a &quot;custom feeds&quot; feature that lets users subscribe to different algorithms and make their own for others to use; most are not chronological &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230526/p9#a230526p9)
- - [The 43 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [The Witcher is getting a fifth season on Netflix](https://www.theverge.com/2023/5/26/23739183/the-witcher-season-5-netflix-liam-hemsworth)
+ - [Best standing desks for home offices, tested and reviewed](https://appleinsider.com/inside/mac/best/best-standing-desk?utm_medium=rss)
+ - [Apple is shutting down the really old &#39;My Photo Stream&#39; on July 26](https://appleinsider.com/articles/23/05/26/apple-is-shutting-down-the-really-old-my-photo-stream-on-july-26?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
