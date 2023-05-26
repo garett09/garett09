@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Edge Plus &lpar;2023&rpar; review: Finally cutting edge](https://www.androidauthority.com/motorola-edge-plus-2023-review-3325720/)
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
- - [The best Android tablet is a top deal in this $300 price drop](https://www.androidauthority.com/samsung-galaxy-s8-plus-deal-3329792/)<!-- TECH:END -->
+ - [France&#39;s CNIL says Microsoft agreed to change the way it tracks Bing users; CNIL fined Microsoft &amp;euro;60M in December 2022, and threatened fines of &amp;euro;60K per day &lpar;Bloomberg&rpar;](http://www.techmeme.com/230526/p7#a230526p7)
+ - [Best MacBook Deals: Save $150 on M2 MacBook Air, $250 on M2 MacBook Pro     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
+ - [Motorola Edge Plus &lpar;2023&rpar; review: Finally cutting edge](https://www.androidauthority.com/motorola-edge-plus-2023-review-3325720/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
