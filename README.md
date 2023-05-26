@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now I understand why the shoulder and elbow injuries](http://9gag.com/gag/armqKdp)
- - 🚯 [You have been warned](http://9gag.com/gag/aqeW5QL)
- - 🚯 [Woman harassing a student for having dreadlocks](http://9gag.com/gag/aA02dnR)<!-- MEMES:END -->
+ - 🚖 [I understand](http://9gag.com/gag/aqeW1Yv)
+ - 🚯 [Chinese man suddenly opened the door of airplane in South Korea.](http://9gag.com/gag/aZDjBOQ)
+ - 🚯 [Happy cat noise](http://9gag.com/gag/a5X2nzg)<!-- MEMES:END -->
 
 --- 
 
