@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Diplomacy Failure](http://9gag.com/gag/aVbLPKd)
- - 🚯 [B*tchbox](http://9gag.com/gag/a5X2KvV)
- - 🚯 [Man gives car keys as ID](http://9gag.com/gag/aBdGryQ)<!-- MEMES:END -->
+ - 🚖 [Applying makeup to Rebecca Romijn on the set of \u00abX-Men\u00bb, 2000](http://9gag.com/gag/a041jXQ)
+ - 🚯 [Show offs](http://9gag.com/gag/ajVZAx1)
+ - 🚯 [Four-eyes!](http://9gag.com/gag/aWGb8Dx)<!-- MEMES:END -->
 
 --- 
 
