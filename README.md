@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: What do you think of transparent gadgets?](https://www.androidauthority.com/transparent-gadgets-poll-3329255/)
- - [Amazon Prime Video mocks Netflix for new password sharing restrictions](https://www.androidauthority.com/amazon-prime-video-mocks-netflix-password-sharing-retrictions-3329649/)
- - [ChatGPT iOS app expands to over 40 countries](https://www.androidauthority.com/chatgpt-ios-android-app-3326767/)<!-- TECH:END -->
+ - [How three US teenagers built Mirai, a DDoS botnet that exploited IoT devices, and avoided prison by helping the FBI with cybercrime and cybersecurity matters &lpar;Scott J. Shapiro/IEEE Spectrum&rpar;](http://www.techmeme.com/230526/p1#a230526p1)
+ - [The top Pixel Fold model is sold out in the US](https://www.androidauthority.com/512gb-google-pixel-fold-sold-out-3329646/)
+ - [Poll: What do you think of transparent gadgets?](https://www.androidauthority.com/transparent-gadgets-poll-3329255/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
