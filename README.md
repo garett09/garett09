@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fairgames promises &#39;emergent sandbox gameplay&#39; in competitive PvP heists](https://www.pcgamer.com/fairgames-promises-emergent-sandbox-gameplay-in-competitive-pvp-heists)
- - [The Lord of the Rings: Gollum studio says sorry for The Lord of the Rings: Gollum game](https://www.pcgamer.com/the-lord-of-the-rings-gollum-studio-says-sorry-for-the-lord-of-the-rings-gollum-game)
- - [Oh No, The PS5&#39;s Spider-Man 2 Game Has A Silly &#39;Puddlegate&#39; Controversy](https://kotaku.com/spider-man-2-ps5-ps4-water-graphics-insomniac-marvel-1850480251)<!-- GAME:END -->
+ - [Last Of Us Multiplayer Not Ready To Show, Naughty Dog Says [Update]](https://kotaku.com/last-of-us-multiplayer-game-playstation-showcase-ps5-1850480567)
+ - [This Week on Xbox: Mortal Kombat 1, Alan Wake II, Warhammer Skulls Fest and So Much More!](https://news.xbox.com/en-us/2023/05/26/this-week-on-xbox-mortal-kombat-1-alan-wake-ii-warhammer-skulls-fest/)
+ - [Bonkers Destiny 2 Shard Farm Gives You Unlimited Exotics](https://kotaku.com/destiny-2-season-deep-legendary-shard-exotic-farm-bug-1850480756)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
