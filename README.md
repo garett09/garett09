@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Americans: `you&#39;re a joke dude!` Chinese: `you look good!`](http://9gag.com/gag/a1P2XLR)
- - 🚯 [Unusual experience on airplane](http://9gag.com/gag/aZDjN5n)
- - 🚯 [This was a good scene](http://9gag.com/gag/a2K2NME)<!-- MEMES:END -->
+ - 🚖 [Lol me2](http://9gag.com/gag/anzE1wn)
+ - 🚯 [From the archives &lpar;2010&rpar;](http://9gag.com/gag/armqKqX)
+ - 🚯 [Well, that escalated quickly](http://9gag.com/gag/aA02pEg)<!-- MEMES:END -->
 
 --- 
 
