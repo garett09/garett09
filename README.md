@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hammerhead](http://9gag.com/gag/aPgQMyG)
- - 🚯 [David slays Goliath 1120 BCE](http://9gag.com/gag/a9q2KjZ)
- - 🚯 [He forgot the father](http://9gag.com/gag/ap9b2m5)<!-- MEMES:END -->
+ - 🚖 [He forgot the father](http://9gag.com/gag/ap9b2m5)
+ - 🚯 [In 1783, a boy was born with two heads. The second head was upside down, with the neck pointed straight up. Shockingly, the second head was fully functional. The boy claimed he could hear the other brain telling him things.](http://9gag.com/gag/abvBzBE)
+ - 🚯 [Every 9gaggers gaming chair](http://9gag.com/gag/ay2RL2p)<!-- MEMES:END -->
 
 --- 
 
