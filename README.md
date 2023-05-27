@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The books to read this summer after you touch grass](https://www.polygon.com/23725584/best-summer-books-read-2023)
  - [Destiny 2: Season of the Deep is Available Now on Xbox](https://news.xbox.com/en-us/2023/05/27/destiny-2-season-of-the-deep-is-available-now-on-xbox/)
- - [Game Pass subscribers can get the John Wick collection for just $30](https://www.polygon.com/deals/2023/5/27/23737500/john-wick-4-collection-best-gaming-entertainment-deals-warhammer-steam-epic)
- - [What to catch before the May streaming purge](https://www.polygon.com/what-to-watch/2023/5/27/23730407/best-movies-netflix-amazon-hulu-max-leaving-may-2023)<!-- GAME:END -->
+ - [Game Pass subscribers can get the John Wick collection for just $30](https://www.polygon.com/deals/2023/5/27/23737500/john-wick-4-collection-best-gaming-entertainment-deals-warhammer-steam-epic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
