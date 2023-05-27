@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Magic Compose beta is here — but it sends your messages to Google](https://www.theverge.com/2023/5/26/23739224/google-messages-magic-compose-beta-ai)
- - [Sources: PE firms Francisco Partners and TPG have ended talks to acquire observability software company New Relic after failing to secure enough debt financing &lpar;Reuters&rpar;](http://www.techmeme.com/230526/p12#a230526p12)
- - [Sonos wins $32.5 million patent infringement victory over Google](https://www.theverge.com/2023/5/26/23739273/google-sonos-smart-speaker-patent-lawsuit-ruling)<!-- TECH:END -->
+ - [Paris-based Sekoia, a platform for the real-time detection of cyberattacks, raised a $35M Series A from Banque des Territoires, Bright Pixel, and BNP Paribas &lpar;Vignesh R./Silicon Canals&rpar;](http://www.techmeme.com/230526/p13#a230526p13)
+ - [Find out how to save 87% on Adobe Creative Cloud All Apps](https://www.androidauthority.com/adobe-creative-cloud-all-apps-deal-3329995/)
+ - [Google’s Magic Compose beta is here — but it sends your messages to Google](https://www.theverge.com/2023/5/26/23739224/google-messages-magic-compose-beta-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
