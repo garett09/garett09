@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baratza Encore ESP Review: A Grinder for Almost Every Kind of Coffee](https://www.wired.com/review/baratza-encore-esp-coffee-grinder/)
  - [AGs from Washington DC and 48 US states file a lawsuit against Avid Telecom, accusing the firm of making 7.5B+ robocalls to people on the Do Not Call Registry &lpar;Associated Press&rpar;](http://www.techmeme.com/230527/p7#a230527p7)
- - [Living and working from an all-electric VW ID Buzz](https://www.theverge.com/23735554/vw-id-buzz-review-ququq-camper-e-vanlife)
- - [The popularity of H100, which offers at least 3x better performance than the A100, with Big Tech, OpenAI, and others has pushed Nvidia&#39;s market value toward $1T &lpar;Financial Times&rpar;](http://www.techmeme.com/230527/p6#a230527p6)<!-- TECH:END -->
+ - [Living and working from an all-electric VW ID Buzz](https://www.theverge.com/23735554/vw-id-buzz-review-ququq-camper-e-vanlife)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
