@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 lessons the Nothing Phone 2 should learn from early OnePlus](https://www.androidauthority.com/nothing-phone-2-vs-onplus-3329130/)
- - [What training with the Apple Watch Ultra taught me about multiband GPS and failure](https://www.theverge.com/23663107/apple-watch-ultra-gps-running)
- - [Brazilian lawmakers file a complaint against Google for letting users download &quot;Slavery Simulator&quot; game on Google Play for about a month before taking it down &lpar;Mar&amp;iacute;a Luisa Pa&amp;uacute;l/Washington Post&rpar;](http://www.techmeme.com/230527/p9#a230527p9)<!-- TECH:END -->
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
+ - [Getting started with macOS Disk Utility: Resizing, snapshots, and journaling](https://appleinsider.com/inside/macos/tips/getting-started-with-macos-disk-utility-resizing-snapshots-and-journaling?utm_medium=rss)
+ - [Ford needs Tesla to help it beat Tesla](https://www.theverge.com/2023/5/27/23738771/ford-tesla-electric-car-charging-nacs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
