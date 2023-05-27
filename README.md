@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Elizabeth Olsen without makeup](http://9gag.com/gag/aA02wW2)
- - 🚯 [Proudly brought to you by the cANCer](http://9gag.com/gag/armqOwX)
- - 🚯 [Rotten being rotten....](http://9gag.com/gag/armq5My)<!-- MEMES:END -->
+ - 🚖 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)
+ - 🚯 [Rotten being rotten....](http://9gag.com/gag/armq5My)
+ - 🚯 [Show offs](http://9gag.com/gag/ajVZAx1)<!-- MEMES:END -->
 
 --- 
 
