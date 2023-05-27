@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best TV Antenna for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-antenna/#ftag=CAD590a51e)
  - [DappRadar: Blur&#39;s NFT lending marketplace Blend amassed 169,900 ETH, or about $308M, in volume since its May 1 launch, taking 82% of total lending volume market &lpar;Cam Thompson/CoinDesk&rpar;](http://www.techmeme.com/230527/p12#a230527p12)
- - [The Android 14 beta is the buggiest beta I’ve ever installed on my Pixels](https://www.androidauthority.com/android-14-bugs-3329665/)
- - [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/23732203/best-memorial-day-sales-2023-tech-deals-laptops-tvs-earbuds-apple-electronics)<!-- TECH:END -->
+ - [The Android 14 beta is the buggiest beta I’ve ever installed on my Pixels](https://www.androidauthority.com/android-14-bugs-3329665/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
