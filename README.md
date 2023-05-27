@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What to catch before the May streaming purge](https://www.polygon.com/what-to-watch/2023/5/27/23730407/best-movies-netflix-amazon-hulu-max-leaving-may-2023)
  - [Today&#39;s Wordle hint and answer #707: Saturday, May 27](https://www.pcgamer.com/wordle-today-hint-answer-707-may-27)
- - [Honkai: Star Rail codes for May 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
- - [All Honkai: Star Rail 1.1 livestream codes](https://www.pcgamer.com/honkai-star-rail-1-1-livestream-codes)<!-- GAME:END -->
+ - [Honkai: Star Rail codes for May 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
