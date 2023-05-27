@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chinese man suddenly opened the door of airplane in South Korea.](http://9gag.com/gag/aZDjBOQ)
- - 🚯 [Happy cat noise](http://9gag.com/gag/a5X2nzg)
- - 🚯 [I understand](http://9gag.com/gag/aqeW1Yv)<!-- MEMES:END -->
+ - 🚖 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)
+ - 🚯 [Guy stuck by his anus on gear shifter lever](http://9gag.com/gag/aPgQB2g)
+ - 🚯 [Squeezing lemon in eyes](http://9gag.com/gag/aBdGY42)<!-- MEMES:END -->
 
 --- 
 
