@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Electric Kettles &lpar;2023&rpar;: Gooseneck, Temperature Control, Cheap](https://www.wired.com/gallery/best-electric-kettles/)
- - [Netflix’s Password-Sharing Crackdown Has Hit the US](https://www.wired.com/story/netflix-password-sharing/)
- - [Tears of the Kingdom’s best ability is its most hidden](https://www.theverge.com/23739104/tears-of-the-kingdom-zelda-autobuild-how-to-get-nintendo)<!-- TECH:END -->
+ - [4 lessons the Nothing Phone 2 should learn from early OnePlus](https://www.androidauthority.com/nothing-phone-2-vs-onplus-3329130/)
+ - [What training with the Apple Watch Ultra taught me about multiband GPS and failure](https://www.theverge.com/23663107/apple-watch-ultra-gps-running)
+ - [Brazilian lawmakers file a complaint against Google for letting users download &quot;Slavery Simulator&quot; game on Google Play for about a month before taking it down &lpar;Mar&amp;iacute;a Luisa Pa&amp;uacute;l/Washington Post&rpar;](http://www.techmeme.com/230527/p9#a230527p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
