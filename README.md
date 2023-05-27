@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google to pay $32.5M as jury sides with Sonos on patent lawsuit](https://appleinsider.com/articles/23/05/27/google-to-pay-325m-as-jury-sides-with-sonos-on-patent-lawsuit?utm_medium=rss)
- - [Poll: Do you still use Google Assistant or other voice assistants?](https://www.androidauthority.com/poll-use-google-assistant-voice-assistants-3329710/)
- - [7 Best Heart Rate Monitors &lpar;2023&rpar;: Chest Straps, EKG, Watches](https://www.wired.com/gallery/best-heart-rate-monitors/)<!-- TECH:END -->
+ - [9 Best Electric Kettles &lpar;2023&rpar;: Gooseneck, Temperature Control, Cheap](https://www.wired.com/gallery/best-electric-kettles/)
+ - [Netflix’s Password-Sharing Crackdown Has Hit the US](https://www.wired.com/story/netflix-password-sharing/)
+ - [Tears of the Kingdom’s best ability is its most hidden](https://www.theverge.com/23739104/tears-of-the-kingdom-zelda-autobuild-how-to-get-nintendo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
