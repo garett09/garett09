@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-486-3329912/)
- - [Somebody cracked Windows XP activation for offline use](https://www.theverge.com/2023/5/27/23739789/microsoft-windows-xp-activation-offline-crack)
- - [The median gain in Microsoft, Alphabet, Amazon, Meta, Tesla, Apple, and Nvidia stocks is 43% since January, almost 5x the S&amp;P 500, bolstered by AI optimism &lpar;Bloomberg&rpar;](http://www.techmeme.com/230527/p10#a230527p10)<!-- TECH:END -->
+ - [Games Done Quick’s next speedrunning marathon for charity kicks off on Sunday](https://www.theverge.com/2023/5/27/23739443/summer-games-done-quick-sgdq-2023)
+ - [Apple’s entry-level MacBook Air is down to its all-time low at Amazon](https://www.theverge.com/2023/5/27/23738784/apple-m1-macbook-air-peacock-premium-amazon-fire-tv-cube-streaming-device-deal-sale)
+ - [How to move Final Cut Pro projects from Mac to iPad](https://appleinsider.com/inside/final-cut-pro/tips/how-to-move-final-cut-pro-projects-from-mac-to-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
