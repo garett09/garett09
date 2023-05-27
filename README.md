@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A lawyer used ChatGPT and now has to answer for its ‘bogus’ citations](https://www.theverge.com/2023/5/27/23739913/chatgpt-ai-lawsuit-avianca-airlines-chatbot-research)
- - [The developers behind open source GameCube and Wii emulator Dolphin say Nintendo sent Valve a DMCA takedown notice to block Dolphin&#39;s impending release on Steam &lpar;Wes Fenlon/PC Gamer&rpar;](http://www.techmeme.com/230527/p13#a230527p13)
- - [Best Wireless Bluetooth Boom Boxes for 2023: Portable Pool and Beach Speakers, Ranked     - CNET](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to move Final Cut Pro projects from Mac to iPad](https://appleinsider.com/inside/final-cut-pro/tips/how-to-move-final-cut-pro-projects-from-mac-to-ipad?utm_medium=rss)
+ - [Twitter quits EU&#39;s voluntary disinformation Code of Practice](https://appleinsider.com/articles/23/05/27/twitter-quits-eus-voluntary-disinformation-code-of-practice?utm_medium=rss)
+ - [A lawyer used ChatGPT and now has to answer for its ‘bogus’ citations](https://www.theverge.com/2023/5/27/23739913/chatgpt-ai-lawsuit-avianca-airlines-chatbot-research)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
