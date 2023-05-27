@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)
- - 🚯 [Not everyone gets to experience the game](http://9gag.com/gag/amAMzqv)
- - 🚯 [He forgot the father](http://9gag.com/gag/ap9b2m5)<!-- MEMES:END -->
+ - 🚖 [You have been warned](http://9gag.com/gag/aqeW5QL)
+ - 🚯 [Every 9gaggers gaming chair](http://9gag.com/gag/ay2RL2p)
+ - 🚯 [Squeezing lemon in eyes](http://9gag.com/gag/aBdGY42)<!-- MEMES:END -->
 
 --- 
 
