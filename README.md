@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Living and working from an all-electric VW ID Buzz](https://www.theverge.com/23735554/vw-id-buzz-review-ququq-camper-e-vanlife)
  - [The popularity of H100, which offers at least 3x better performance than the A100, with Big Tech, OpenAI, and others has pushed Nvidia&#39;s market value toward $1T &lpar;Financial Times&rpar;](http://www.techmeme.com/230527/p6#a230527p6)
- - [EU Commissioner Thierry Breton says Twitter has dropped out of a voluntary EU pact to combat online disinformation and adds Twitter&#39;s &quot;obligations remain&quot; &lpar;Kelvin Chan/Associated Press&rpar;](http://www.techmeme.com/230527/p5#a230527p5)
- - [Microsoft makes Azure Linux, a container host OS for the Azure Kubernetes Service, generally available, after running it in public preview since October 2022 &lpar;Jeff Burt/The Register&rpar;](http://www.techmeme.com/230527/p4#a230527p4)<!-- TECH:END -->
+ - [EU Commissioner Thierry Breton says Twitter has dropped out of a voluntary EU pact to combat online disinformation and adds Twitter&#39;s &quot;obligations remain&quot; &lpar;Kelvin Chan/Associated Press&rpar;](http://www.techmeme.com/230527/p5#a230527p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
