@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman harassing a student for having dreadlocks](http://9gag.com/gag/aA02dnR)
+ - 🚖 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)
  - 🚯 [Every 9gaggers gaming chair](http://9gag.com/gag/ay2RL2p)
- - 🚯 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)<!-- MEMES:END -->
+ - 🚯 [Rotten being rotten....](http://9gag.com/gag/armq5My)<!-- MEMES:END -->
 
 --- 
 
