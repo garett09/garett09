@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [They&#39;re finally doing a game where the Warhammer 40K Orks go full Mad Max](https://www.pcgamer.com/theyre-finally-doing-a-game-where-the-warhammer-40k-orks-go-full-mad-max)
  - [Have you ever made a friend through a videogame?](https://www.pcgamer.com/have-you-ever-made-a-friend-through-a-videogame)
- - [One of my favorite D&amp;D videogames is still getting beefy updates after 21 years](https://www.pcgamer.com/one-of-my-favorite-dandd-videogames-is-still-getting-beefy-updates-after-21-years)
- - [The first 1,000 Diablo IV players to Hardcore level 100 get their name on a statue](https://www.pcgamer.com/the-first-1000-diablo-iv-players-to-hardcore-level-100-get-their-name-on-a-statue)<!-- GAME:END -->
+ - [One of my favorite D&amp;D videogames is still getting beefy updates after 21 years](https://www.pcgamer.com/one-of-my-favorite-dandd-videogames-is-still-getting-beefy-updates-after-21-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
