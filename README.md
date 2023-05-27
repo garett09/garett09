@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)
- - 🚯 [Squeezing lemon in eyes](http://9gag.com/gag/aBdGY42)
- - 🚯 [Woman harassing a student for having dreadlocks](http://9gag.com/gag/aA02dnR)<!-- MEMES:END -->
+ - 🚖 [Not everyone gets to experience the game](http://9gag.com/gag/amAMzqv)
+ - 🚯 [Every 9gaggers gaming chair](http://9gag.com/gag/ay2RL2p)
+ - 🚯 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)<!-- MEMES:END -->
 
 --- 
 
