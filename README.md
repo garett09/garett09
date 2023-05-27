@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to move Final Cut Pro projects from Mac to iPad](https://appleinsider.com/inside/final-cut-pro/tips/how-to-move-final-cut-pro-projects-from-mac-to-ipad?utm_medium=rss)
- - [Twitter quits EU&#39;s voluntary disinformation Code of Practice](https://appleinsider.com/articles/23/05/27/twitter-quits-eus-voluntary-disinformation-code-of-practice?utm_medium=rss)
- - [A lawyer used ChatGPT and now has to answer for its ‘bogus’ citations](https://www.theverge.com/2023/5/27/23739913/chatgpt-ai-lawsuit-avianca-airlines-chatbot-research)<!-- TECH:END -->
+ - [Apple’s $50 million butterfly keyboard settlement is finally approved](https://www.theverge.com/2023/5/27/23740087/apple-macbook-butterfly-keyboard-settlement-final-approval)
+ - [Source and analysis: PDD-owned Temu is losing an average of $30 per order and between $588M to $954M per year, as it tries to break into the US market &lpar;Tracy Wen Liu/Wired&rpar;](http://www.techmeme.com/230527/p14#a230527p14)
+ - [How to move Final Cut Pro projects from Mac to iPad](https://appleinsider.com/inside/final-cut-pro/tips/how-to-move-final-cut-pro-projects-from-mac-to-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
