@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And the award for `the best grandma in the world` goes to:](http://9gag.com/gag/a1P2bqD)
- - 🚯 [Comedian helps a bro out.](http://9gag.com/gag/aPgQBrQ)
- - 🚯 [Al Bundy is the best...](http://9gag.com/gag/aMEvjwM)<!-- MEMES:END -->
+ - 🚖 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)
+ - 🚯 [Not everyone gets to experience the game](http://9gag.com/gag/amAMzqv)
+ - 🚯 [He forgot the father](http://9gag.com/gag/ap9b2m5)<!-- MEMES:END -->
 
 --- 
 
