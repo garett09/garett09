@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)
- - 🚯 [Guy stuck by his anus on gear shifter lever](http://9gag.com/gag/aPgQB2g)
- - 🚯 [Squeezing lemon in eyes](http://9gag.com/gag/aBdGY42)<!-- MEMES:END -->
+ - 🚯 [Squeezing lemon in eyes](http://9gag.com/gag/aBdGY42)
+ - 🚯 [Woman harassing a student for having dreadlocks](http://9gag.com/gag/aA02dnR)<!-- MEMES:END -->
 
 --- 
 
