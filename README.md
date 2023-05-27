@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rotten being rotten....](http://9gag.com/gag/armq5My)
- - 🚯 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)
- - 🚯 [Have you heard about our lord and savior Gabe Newell?](http://9gag.com/gag/aZDjLLQ)<!-- MEMES:END -->
+ - 🚖 [Al Bundy is the best...](http://9gag.com/gag/aMEvjwM)
+ - 🚯 [No skating allow](http://9gag.com/gag/armqg7B)
+ - 🚯 [They&#39;re the same picture](http://9gag.com/gag/ap9bQEn)<!-- MEMES:END -->
 
 --- 
 
