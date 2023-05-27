@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Woman harassing a student for having dreadlocks](http://9gag.com/gag/aA02dnR)
- - 🚯 [In 1783, a boy was born with two heads. The second head was upside down, with the neck pointed straight up. Shockingly, the second head was fully functional. The boy claimed he could hear the other brain telling him things.](http://9gag.com/gag/abvBzBE)
- - 🚯 [Tittle](http://9gag.com/gag/aL1mMrA)<!-- MEMES:END -->
+ - 🚯 [Every 9gaggers gaming chair](http://9gag.com/gag/ay2RL2p)
+ - 🚯 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)<!-- MEMES:END -->
 
 --- 
 
