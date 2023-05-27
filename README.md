@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baratza Encore ESP Review: A Grinder for Almost Every Kind of Coffee](https://www.wired.com/review/baratza-encore-esp-coffee-grinder/)
- - [AGs from Washington DC and 48 US states file a lawsuit against Avid Telecom, accusing the firm of making 7.5B+ robocalls to people on the Do Not Call Registry &lpar;Associated Press&rpar;](http://www.techmeme.com/230527/p7#a230527p7)
- - [Living and working from an all-electric VW ID Buzz](https://www.theverge.com/23735554/vw-id-buzz-review-ququq-camper-e-vanlife)<!-- TECH:END -->
+ - [Google to pay $32.5M as jury sides with Sonos on patent lawsuit](https://appleinsider.com/articles/23/05/27/google-to-pay-325m-as-jury-sides-with-sonos-on-patent-lawsuit?utm_medium=rss)
+ - [Poll: Do you still use Google Assistant or other voice assistants?](https://www.androidauthority.com/poll-use-google-assistant-voice-assistants-3329710/)
+ - [7 Best Heart Rate Monitors &lpar;2023&rpar;: Chest Straps, EKG, Watches](https://www.wired.com/gallery/best-heart-rate-monitors/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
