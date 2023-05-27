@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He forgot the father](http://9gag.com/gag/ap9b2m5)
- - 🚯 [In 1783, a boy was born with two heads. The second head was upside down, with the neck pointed straight up. Shockingly, the second head was fully functional. The boy claimed he could hear the other brain telling him things.](http://9gag.com/gag/abvBzBE)
- - 🚯 [Every 9gaggers gaming chair](http://9gag.com/gag/ay2RL2p)<!-- MEMES:END -->
+ - 🚖 [Elizabeth Olsen without makeup](http://9gag.com/gag/aA02wW2)
+ - 🚯 [They should just kiss already](http://9gag.com/gag/a2K2oWe)
+ - 🚯 [Rotten being rotten....](http://9gag.com/gag/armq5My)<!-- MEMES:END -->
 
 --- 
 
