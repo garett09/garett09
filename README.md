@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A boy fell down thanks to his friends](http://9gag.com/gag/aXnWA8P)
- - 🚯 [Elizabeth Olsen without makeup](http://9gag.com/gag/aA02wW2)
- - 🚯 [Fake delivery guy with gun gets shoved by homeowner](http://9gag.com/gag/aPgQjbR)<!-- MEMES:END -->
+ - 🚖 [Hammerhead](http://9gag.com/gag/aPgQMyG)
+ - 🚯 [David slays Goliath 1120 BCE](http://9gag.com/gag/a9q2KjZ)
+ - 🚯 [He forgot the father](http://9gag.com/gag/ap9b2m5)<!-- MEMES:END -->
 
 --- 
 
