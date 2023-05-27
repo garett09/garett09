@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
- - [Getting started with macOS Disk Utility: Resizing, snapshots, and journaling](https://appleinsider.com/inside/macos/tips/getting-started-with-macos-disk-utility-resizing-snapshots-and-journaling?utm_medium=rss)
- - [Ford needs Tesla to help it beat Tesla](https://www.theverge.com/2023/5/27/23738771/ford-tesla-electric-car-charging-nacs)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-486-3329912/)
+ - [Somebody cracked Windows XP activation for offline use](https://www.theverge.com/2023/5/27/23739789/microsoft-windows-xp-activation-offline-crack)
+ - [The median gain in Microsoft, Alphabet, Amazon, Meta, Tesla, Apple, and Nvidia stocks is 43% since January, almost 5x the S&amp;P 500, bolstered by AI optimism &lpar;Bloomberg&rpar;](http://www.techmeme.com/230527/p10#a230527p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
