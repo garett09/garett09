@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [A lawyer used ChatGPT and now has to answer for its ‘bogus’ citations](https://www.theverge.com/2023/5/27/23739913/chatgpt-ai-lawsuit-avianca-airlines-chatbot-research)
  - [The developers behind open source GameCube and Wii emulator Dolphin say Nintendo sent Valve a DMCA takedown notice to block Dolphin&#39;s impending release on Steam &lpar;Wes Fenlon/PC Gamer&rpar;](http://www.techmeme.com/230527/p13#a230527p13)
- - [Best TV Antenna for 2023     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-antenna/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wireless Bluetooth Boom Boxes for 2023: Portable Pool and Beach Speakers, Ranked     - CNET](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
