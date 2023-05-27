@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)
- - 🚯 [Every 9gaggers gaming chair](http://9gag.com/gag/ay2RL2p)
- - 🚯 [Rotten being rotten....](http://9gag.com/gag/armq5My)<!-- MEMES:END -->
+ - 🚖 [Chinese man suddenly opened the door of airplane in South Korea.](http://9gag.com/gag/aZDjBOQ)
+ - 🚯 [Happy cat noise](http://9gag.com/gag/a5X2nzg)
+ - 🚯 [I understand](http://9gag.com/gag/aqeW1Yv)<!-- MEMES:END -->
 
 --- 
 
