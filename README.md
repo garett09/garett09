@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Original Fallout co-creator finally explains what made him leave the sequel: &#39;I made an IP from scratch that nobody believed in except the team, and my reward for that was more crunch&#39;](https://www.pcgamer.com/original-fallout-co-creator-finally-explains-what-made-him-leave-the-sequel-i-made-an-ip-from-scratch-that-nobody-believed-in-except-the-team-and-my-reward-for-that-was-more-crunch)
- - [Nintendo sends Valve DMCA notice to block Steam release of Wii emulator Dolphin](https://www.pcgamer.com/nintendo-sends-valve-dmca-notice-to-block-steam-release-of-wii-emulator-dolphin)
- - [Bonkers Destiny 2 Shard Farm Gives You Unlimited Exotics [Update: It&#39;s Gone]](https://kotaku.com/destiny-2-season-deep-legendary-shard-exotic-farm-bug-1850480756)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #707: Saturday, May 27](https://www.pcgamer.com/wordle-today-hint-answer-707-may-27)
+ - [Honkai: Star Rail codes for May 2023](https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade)
+ - [All Honkai: Star Rail 1.1 livestream codes](https://www.pcgamer.com/honkai-star-rail-1-1-livestream-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
