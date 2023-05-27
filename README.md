@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In 1783, a boy was born with two heads. The second head was upside down, with the neck pointed straight up. Shockingly, the second head was fully functional. The boy claimed he could hear the other brain telling him things.](http://9gag.com/gag/abvBzBE)
- - 🚯 [Elizabeth Olsen without makeup](http://9gag.com/gag/aA02wW2)
- - 🚯 [Every 9gaggers gaming chair](http://9gag.com/gag/ay2RL2p)<!-- MEMES:END -->
+ - 🚖 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)
+ - 🚯 [Chinese man suddenly opened the door of airplane in South Korea.](http://9gag.com/gag/aZDjBOQ)
+ - 🚯 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)<!-- MEMES:END -->
 
 --- 
 
