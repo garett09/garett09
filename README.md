@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bonkers Destiny 2 Shard Farm Gives You Unlimited Exotics [Update: It&#39;s Gone]](https://kotaku.com/destiny-2-season-deep-legendary-shard-exotic-farm-bug-1850480756)
- - [Wow, Bungie&#39;s Marathon Is The Coolest Looking Shooter In Years](https://kotaku.com/marathon-shooter-best-vibrant-colorful-bungie-trailer-1850481359)
- - [John Wick 4, Shazam 2, and every new movie to watch at home this weekend](https://www.polygon.com/2023/5/26/23729815/new-movies-watch-john-wick-4-streaming-shazam-2-blood-gold-netflix)<!-- GAME:END -->
+ - [Original Fallout co-creator finally explains what made him leave the sequel: &#39;I made an IP from scratch that nobody believed in except the team, and my reward for that was more crunch&#39;](https://www.pcgamer.com/original-fallout-co-creator-finally-explains-what-made-him-leave-the-sequel-i-made-an-ip-from-scratch-that-nobody-believed-in-except-the-team-and-my-reward-for-that-was-more-crunch)
+ - [Nintendo sends Valve DMCA notice to block Steam release of Wii emulator Dolphin](https://www.pcgamer.com/nintendo-sends-valve-dmca-notice-to-block-steam-release-of-wii-emulator-dolphin)
+ - [Bonkers Destiny 2 Shard Farm Gives You Unlimited Exotics [Update: It&#39;s Gone]](https://kotaku.com/destiny-2-season-deep-legendary-shard-exotic-farm-bug-1850480756)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
