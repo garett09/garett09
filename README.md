@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The first 1,000 Diablo IV players to Hardcore level 100 get their name on a statue](https://www.pcgamer.com/the-first-1000-diablo-iv-players-to-hardcore-level-100-get-their-name-on-a-statue)
  - [The end of the live-action Little Mermaid makes the animated sequel impossible](https://www.polygon.com/23737877/little-mermaid-2023-ending-sequel-return-to-the-sea)
- - [I’m glad Nintendo didn’t make a new Hyrule for Tears of the Kingdom](https://www.polygon.com/legend-zelda-tears-kingdom/23735606/zelda-tears-of-the-kingdom-totk-hyrule-great-plateau)
- - [A Guide on How to Get the Best out of Dark Quest 3](https://news.xbox.com/en-us/2023/05/27/a-guide-on-how-to-get-the-best-out-of-dark-quest-3/)<!-- GAME:END -->
+ - [I’m glad Nintendo didn’t make a new Hyrule for Tears of the Kingdom](https://www.polygon.com/legend-zelda-tears-kingdom/23735606/zelda-tears-of-the-kingdom-totk-hyrule-great-plateau)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
