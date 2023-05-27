@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I’m glad Nintendo didn’t make a new Hyrule for Tears of the Kingdom](https://www.polygon.com/legend-zelda-tears-kingdom/23735606/zelda-tears-of-the-kingdom-totk-hyrule-great-plateau)
  - [A Guide on How to Get the Best out of Dark Quest 3](https://news.xbox.com/en-us/2023/05/27/a-guide-on-how-to-get-the-best-out-of-dark-quest-3/)
- - [What is Sony’s Project Q actually for?](https://www.polygon.com/23738454/project-q-handheld-ps5-remote-play-sony-analysis)
- - [The books to read this summer after you touch grass](https://www.polygon.com/23725584/best-summer-books-read-2023)<!-- GAME:END -->
+ - [What is Sony’s Project Q actually for?](https://www.polygon.com/23738454/project-q-handheld-ps5-remote-play-sony-analysis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
