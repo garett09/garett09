@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You have been warned](http://9gag.com/gag/aqeW5QL)
- - 🚯 [Every 9gaggers gaming chair](http://9gag.com/gag/ay2RL2p)
- - 🚯 [Squeezing lemon in eyes](http://9gag.com/gag/aBdGY42)<!-- MEMES:END -->
+ - 🚖 [Elizabeth Olsen without makeup](http://9gag.com/gag/aA02wW2)
+ - 🚯 [Proudly brought to you by the cANCer](http://9gag.com/gag/armqOwX)
+ - 🚯 [Rotten being rotten....](http://9gag.com/gag/armq5My)<!-- MEMES:END -->
 
 --- 
 
