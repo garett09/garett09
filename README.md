@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Al Bundy is the best...](http://9gag.com/gag/aMEvjwM)
- - 🚯 [No skating allow](http://9gag.com/gag/armqg7B)
- - 🚯 [They&#39;re the same picture](http://9gag.com/gag/ap9bQEn)<!-- MEMES:END -->
+ - 🚖 [Good things Cannot be hidden!](http://9gag.com/gag/aKEejD1)
+ - 🚯 [A boy fell down thanks to his friends](http://9gag.com/gag/aXnWA8P)
+ - 🚯 [Elizabeth Olsen without makeup](http://9gag.com/gag/aA02wW2)<!-- MEMES:END -->
 
 --- 
 
