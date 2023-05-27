@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)
- - 🚯 [Chinese man suddenly opened the door of airplane in South Korea.](http://9gag.com/gag/aZDjBOQ)
- - 🚯 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)<!-- MEMES:END -->
+ - 🚖 [A boy fell down thanks to his friends](http://9gag.com/gag/aXnWA8P)
+ - 🚯 [Elizabeth Olsen without makeup](http://9gag.com/gag/aA02wW2)
+ - 🚯 [Fake delivery guy with gun gets shoved by homeowner](http://9gag.com/gag/aPgQjbR)<!-- MEMES:END -->
 
 --- 
 
