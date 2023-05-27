@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)
- - 🚯 [Rotten being rotten....](http://9gag.com/gag/armq5My)
- - 🚯 [Show offs](http://9gag.com/gag/ajVZAx1)<!-- MEMES:END -->
+ - 🚖 [Rotten being rotten....](http://9gag.com/gag/armq5My)
+ - 🚯 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)
+ - 🚯 [Have you heard about our lord and savior Gabe Newell?](http://9gag.com/gag/aZDjLLQ)<!-- MEMES:END -->
 
 --- 
 
