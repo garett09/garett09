@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Twitter stopped paying Redis Labs for software handling high-traffic services, including live-audio, weeks before Ron DeSantis&#39; glitchy Spaces event &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/230527/p1#a230527p1)
- - [Paris-based Sekoia, a platform for the real-time detection of cyberattacks, raised a $35M Series A from Banque des Territoires, Bright Pixel, and BNP Paribas &lpar;Vignesh R./Silicon Canals&rpar;](http://www.techmeme.com/230526/p13#a230526p13)
- - [Find out how to save 87% on Adobe Creative Cloud All Apps](https://www.androidauthority.com/adobe-creative-cloud-all-apps-deal-3329995/)<!-- TECH:END -->
+ - [Microsoft makes Azure Linux, a container host OS for the Azure Kubernetes Service, generally available, after running it in public preview since October 2022 &lpar;Jeff Burt/The Register&rpar;](http://www.techmeme.com/230527/p4#a230527p4)
+ - [Sources: Elon Musk cut the Twitter Spaces team, which once numbered as many as 100 employees, down to roughly three people over the past several months &lpar;Platformer&rpar;](http://www.techmeme.com/230527/p3#a230527p3)
+ - [Amazon backs out of its pledge to make 50% of its shipments net-zero carbon by 2030 and says it plans to reach net-zero carbon across all its operations by 2040 &lpar;Alistair Barr/Insider&rpar;](http://www.techmeme.com/230527/p2#a230527p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
