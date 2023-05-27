@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Have you ever made a friend through a videogame?](https://www.pcgamer.com/have-you-ever-made-a-friend-through-a-videogame)
  - [One of my favorite D&amp;D videogames is still getting beefy updates after 21 years](https://www.pcgamer.com/one-of-my-favorite-dandd-videogames-is-still-getting-beefy-updates-after-21-years)
- - [The first 1,000 Diablo IV players to Hardcore level 100 get their name on a statue](https://www.pcgamer.com/the-first-1000-diablo-iv-players-to-hardcore-level-100-get-their-name-on-a-statue)
- - [The end of the live-action Little Mermaid makes the animated sequel impossible](https://www.polygon.com/23737877/little-mermaid-2023-ending-sequel-return-to-the-sea)<!-- GAME:END -->
+ - [The first 1,000 Diablo IV players to Hardcore level 100 get their name on a statue](https://www.pcgamer.com/the-first-1000-diablo-iv-players-to-hardcore-level-100-get-their-name-on-a-statue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
