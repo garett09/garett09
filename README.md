@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hammerhead](http://9gag.com/gag/aPgQMyG)
+ - 🚖 [Woman harassing a student for having dreadlocks](http://9gag.com/gag/aA02dnR)
  - 🚯 [In 1783, a boy was born with two heads. The second head was upside down, with the neck pointed straight up. Shockingly, the second head was fully functional. The boy claimed he could hear the other brain telling him things.](http://9gag.com/gag/abvBzBE)
- - 🚯 [Birds are frozen so ... save them](http://9gag.com/gag/aPgQW8g)<!-- MEMES:END -->
+ - 🚯 [Tittle](http://9gag.com/gag/aL1mMrA)<!-- MEMES:END -->
 
 --- 
 
