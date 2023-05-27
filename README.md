@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Twitter stopped paying Redis Labs for software handling high-traffic services, including live-audio, weeks before Ron DeSantis&#39; glitchy Spaces event &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/230527/p1#a230527p1)
  - [Paris-based Sekoia, a platform for the real-time detection of cyberattacks, raised a $35M Series A from Banque des Territoires, Bright Pixel, and BNP Paribas &lpar;Vignesh R./Silicon Canals&rpar;](http://www.techmeme.com/230526/p13#a230526p13)
- - [Find out how to save 87% on Adobe Creative Cloud All Apps](https://www.androidauthority.com/adobe-creative-cloud-all-apps-deal-3329995/)
- - [Google’s Magic Compose beta is here — but it sends your messages to Google](https://www.theverge.com/2023/5/26/23739224/google-messages-magic-compose-beta-ai)<!-- TECH:END -->
+ - [Find out how to save 87% on Adobe Creative Cloud All Apps](https://www.androidauthority.com/adobe-creative-cloud-all-apps-deal-3329995/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
