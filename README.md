@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rotten being rotten....](http://9gag.com/gag/armq5My)
- - 🚯 [What th\u2026.](http://9gag.com/gag/aVbLwMw)
- - 🚯 [There&#39;s trashy and then there&#39;s whatever the hell this is](http://9gag.com/gag/aOxP7O6)<!-- MEMES:END -->
+ - 🚖 [They should just kiss already](http://9gag.com/gag/a2K2oWe)
+ - 🚯 [Not a nurse; can anyone help me figure it out?](http://9gag.com/gag/a2K2WW9)
+ - 🚯 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)<!-- MEMES:END -->
 
 --- 
 
