@@ -141,7 +141,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [How to customize macOS Finder window toolbars](https://appleinsider.com/inside/macos/tips/how-to-customize-macos-finder-window-toolbars?utm_medium=rss)
- - [Starting July, NYC will enforce a law requiring firms using AI in hiring to notify candidates of its use and have independent auditors check for bias annually &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/230528/p7#a230528p7)
+ - [In July, NYC will start enforcing a law requiring firms using AI in hiring to notify candidates of its use and have independent auditors check for bias annually &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/230528/p7#a230528p7)
  - [Rumored Mac Studio trade-in points to possible refresh during WWDC](https://appleinsider.com/articles/23/05/28/mac-studio-trade-ins-expected-as-new-macs-arrive-for-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
