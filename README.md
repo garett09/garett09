@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Meet the inventors making Hyrule’s most complicated contraptions](https://www.polygon.com/legend-zelda-tears-kingdom/23739038/hyrule-ultrahand-zelda-tears-of-the-kingdom-totk-best-inventions-vehicles-build-designs)
  - [The best way to dive into the A Song of Ice and Fire books, whether you’re new or rereading](https://www.polygon.com/23736169/game-of-thrones-book-order-read-song-ice-fire)
- - [Great moments in PC gaming: Giving up on a pacifist run](https://www.pcgamer.com/great-moments-in-pc-gaming-giving-up-on-a-pacifist-run)
- - [Sacrifice was a visionary strategy game, too great to be forgotten](https://www.pcgamer.com/sacrifice-was-a-visionary-strategy-game-too-great-to-be-forgotten)<!-- GAME:END -->
+ - [Great moments in PC gaming: Giving up on a pacifist run](https://www.pcgamer.com/great-moments-in-pc-gaming-giving-up-on-a-pacifist-run)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
