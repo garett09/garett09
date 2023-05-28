@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They should just kiss already](http://9gag.com/gag/a2K2oWe)
- - 🚯 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)
- - 🚯 [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)<!-- MEMES:END -->
+ - 🚖 [Joy is sparked](http://9gag.com/gag/aVbLwwy)
+ - 🚯 [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)
+ - 🚯 [Mom treating son to awesome ride](http://9gag.com/gag/anzE5Dq)<!-- MEMES:END -->
 
 --- 
 
