@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: To avoid malware, check for this before buying an Android TV](https://www.androidauthority.com/android-tv-certified-check-3330003/)
- - [The Quest to Use Quantum Mechanics to Pull Energy out of Nothing](https://www.wired.com/story/the-quest-to-use-quantum-mechanics-to-pull-energy-out-of-nothing/)
- - [Crime blotter: Guilty verdict in North Carolina iPhone fraud trial](https://appleinsider.com/articles/23/05/28/crime-blotter-guilty-verdict-in-north-carolina-iphone-fraud-trial?utm_medium=rss)<!-- TECH:END -->
+ - [How to Control Amazon Kids+ Content Settings &lpar;2023&rpar;](https://www.wired.com/story/how-to-control-amazon-kids/)
+ - [Walmart’s 4K Google TV box is the best $20 deal in streaming](https://www.theverge.com/23738980/walmart-onn-google-tv-4k-streaming-box-review)
+ - [The odd appeal of absurdly long YouTube videos that don’t play anything](https://www.theverge.com/2023/5/28/23738957/youtube-videos-24-hours-blank-screen)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
