@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best way to dive into the A Song of Ice and Fire books, whether you’re new or rereading](https://www.polygon.com/23736169/game-of-thrones-book-order-read-song-ice-fire)
  - [Great moments in PC gaming: Giving up on a pacifist run](https://www.pcgamer.com/great-moments-in-pc-gaming-giving-up-on-a-pacifist-run)
- - [Sacrifice was a visionary strategy game, too great to be forgotten](https://www.pcgamer.com/sacrifice-was-a-visionary-strategy-game-too-great-to-be-forgotten)
- - [Total War: Warhammer 3&#39;s latest free hero is Warhammer&#39;s original posterboy](https://www.pcgamer.com/total-war-warhammer-3s-latest-free-hero-is-warhammers-original-posterboy)<!-- GAME:END -->
+ - [Sacrifice was a visionary strategy game, too great to be forgotten](https://www.pcgamer.com/sacrifice-was-a-visionary-strategy-game-too-great-to-be-forgotten)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
