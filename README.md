@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The race to be the fastest charging phone in the US finally has a new challenger](https://www.androidauthority.com/motorola-turbopower-supervooc-3326469/)
- - [LG’s 48-inch 4K OLED gaming monitor is over $600 off right now](https://www.theverge.com/2023/5/28/23740445/lg-48gq900-4k-oled-gaming-monitor-deal-sale)
- - [Hands-on with Meta&#39;s Quest 3 prototype: lighter, thinner, faster, and with better video pass-through than the Quest 2, but the VR displays have similar clarity &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230528/p6#a230528p6)<!-- TECH:END -->
+ - [Right to repair: all the latest news and updates](https://www.theverge.com/2023/5/28/23738770/right-to-repair-updates-laws)
+ - [45 Best Memorial Day Outdoor Deals: Tents, Camp Chairs, and More](https://www.wired.com/story/memorial-day-outdoor-sales-2023/)
+ - [Apple Pay business development director exits the company](https://appleinsider.com/articles/23/05/28/apple-pay-business-development-director-exits-the-company?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
