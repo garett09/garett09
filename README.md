@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New fanmade Quake map pack turns the classic shooter into a pacifist platformer fueled by vibes](https://www.pcgamer.com/new-fanmade-quake-map-pack-turns-the-classic-shooter-into-a-pacifist-platformer-fueled-by-vibes)
  - [Nintendo Asks Valve To Kick GameCube And Wii Emulator Off Steam, Says It&#39;s Protecting Its Creativity And Work](https://kotaku.com/nintendo-gamecube-wii-emulator-dolphin-valve-piracy-1850482929)
- - [The 10 best mermaid movies ever made, ranked](https://www.polygon.com/what-to-watch/23728915/best-mermaid-movies-watch-streaming-ranked-list)
- - [Knights of the Old Republic Remake shows faint, flickering sign of life in publisher report](https://www.pcgamer.com/knights-of-the-old-republic-remake-shows-faint-flickering-sign-of-life-in-publisher-report)<!-- GAME:END -->
+ - [The 10 best mermaid movies ever made, ranked](https://www.polygon.com/what-to-watch/23728915/best-mermaid-movies-watch-streaming-ranked-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
