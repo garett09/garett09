@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prehistoric farming RPG Roots of Pacha returns to Steam following development dispute](https://www.pcgamer.com/prehistoric-farming-rpg-roots-of-pacha-returns-to-steam-following-development-dispute)
- - [How to play the D&amp;D movie as a D&amp;D game, according to the directors](https://www.polygon.com/23734872/dnd-dungeons-dragons-honor-among-thieves-movie-play-game)
- - [Watch the emotionally intense anime movie A Silent Voice before it leaves Netflix](https://www.polygon.com/23739131/silent-voice-anime-leaving-netflix)<!-- GAME:END -->
+ - [The 10 best mermaid movies ever made, ranked](https://www.polygon.com/what-to-watch/23728915/best-mermaid-movies-watch-streaming-ranked-list)
+ - [Knights of the Old Republic Remake shows faint, flickering sign of life in publisher report](https://www.pcgamer.com/knights-of-the-old-republic-remake-shows-faint-flickering-sign-of-life-in-publisher-report)
+ - [Sons of the Forest has hard mode now just in case you hate joy](https://www.pcgamer.com/sons-of-the-forest-has-hard-mode-now-just-in-case-you-hate-joy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
