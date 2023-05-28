@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activists and telecom experts say the Kenyan government&#39;s plan, permitted by the Supreme Court, to track counterfeit phones is &quot;excessive&quot; and threatens privacy &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/230528/p3#a230528p3)
- - [Turtle Beach Stealth Pro Review: Go Anywhere, Play Anything](https://www.wired.com/review/turtle-beach-stealth-pro-wireless/)
- - [A profile of Tapbots founders Paul Haddad and Mark Jardine; ex-Twitter exec Amir Shevat says ~17% of engagement on Twitter historically was via third-party apps &lpar;Andrew Logan/Texas Monthly&rpar;](http://www.techmeme.com/230528/p2#a230528p2)<!-- TECH:END -->
+ - [How to Text From Your PC Through Your Phone](https://www.wired.com/story/how-to-text-from-pc-windows-phonelink/)
+ - [Remembering GitHub&#39;s Office, a Monument to Tech Culture](https://www.wired.com/story/github-tech-values/)
+ - [How to play chess against ChatGPT &lpar;and why you probably shouldn’t&rpar;](https://www.androidauthority.com/how-to-play-chess-with-chatgpt-3330016/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
