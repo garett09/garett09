@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)
- - 🚯 [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
- - 🚯 [Mom treating son to awesome ride](http://9gag.com/gag/anzE5Dq)<!-- MEMES:END -->
+ - 🚖 [Rotten being rotten....](http://9gag.com/gag/armq5My)
+ - 🚯 [What th\u2026.](http://9gag.com/gag/aVbLwMw)
+ - 🚯 [There&#39;s trashy and then there&#39;s whatever the hell this is](http://9gag.com/gag/aOxP7O6)<!-- MEMES:END -->
 
 --- 
 
