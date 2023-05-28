@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gold Rush! was one of Sierra&#39;s odder adventures, but what made it so strange?](https://www.pcgamer.com/saturday-crapshoot-gold-rush)
  - [They&#39;re finally doing a game where the Warhammer 40K Orks go full Mad Max](https://www.pcgamer.com/theyre-finally-doing-a-game-where-the-warhammer-40k-orks-go-full-mad-max)
- - [Have you ever made a friend through a videogame?](https://www.pcgamer.com/have-you-ever-made-a-friend-through-a-videogame)
- - [One of my favorite D&amp;D videogames is still getting beefy updates after 21 years](https://www.pcgamer.com/one-of-my-favorite-dandd-videogames-is-still-getting-beefy-updates-after-21-years)<!-- GAME:END -->
+ - [Have you ever made a friend through a videogame?](https://www.pcgamer.com/have-you-ever-made-a-friend-through-a-videogame)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
