@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysts and others say Wind Information, described as a Chinese alternative to Bloomberg terminal, is limiting international users&#39; access to some information &lpar;Rebecca Feng/Wall Street Journal&rpar;](http://www.techmeme.com/230528/p8#a230528p8)
  - [iPhone 16 Pro screen once again rumored be larger than iPhone 15 Pro](https://appleinsider.com/articles/23/05/28/iphone-16-pro-screen-sizes-tipped-for-growth-once-again?utm_medium=rss)
- - [Quest 3 hands-on confirms Meta’s building a ‘far thinner and lighter’ headset](https://www.theverge.com/2023/5/28/23740500/meta-quest-3-vr-ar-headset-preview-leak-hands-on-rumor)
- - [Best Eco-Friendly and Recycled iPhone 13 Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-13-cases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Speakers for 2023: Alexa, Google and More     - CNET](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
