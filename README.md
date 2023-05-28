@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts and others say Wind Information, described as a Chinese alternative to Bloomberg terminal, is limiting international users&#39; access to some information &lpar;Rebecca Feng/Wall Street Journal&rpar;](http://www.techmeme.com/230528/p8#a230528p8)
- - [iPhone 16 Pro screen once again rumored be larger than iPhone 15 Pro](https://appleinsider.com/articles/23/05/28/iphone-16-pro-screen-sizes-tipped-for-growth-once-again?utm_medium=rss)
- - [Best Smart Speakers for 2023: Alexa, Google and More     - CNET](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Does a &#39;Livable Future&#39; for Our Children Look Like?     - CNET](https://www.cnet.com/science/climate/what-does-a-livable-future-for-our-children-look-like/#ftag=CAD590a51e)
+ - [Tonor T90 RGB Boom Arm review: Light up your microphone setup](https://appleinsider.com/articles/23/05/28/tonor-t90-rgb-boom-arm-review-light-up-your-microphone-setup?utm_medium=rss)
+ - [Analysts and others say Wind Information, described as a Chinese alternative to Bloomberg terminal, is limiting international users&#39; access to some information &lpar;Rebecca Feng/Wall Street Journal&rpar;](http://www.techmeme.com/230528/p8#a230528p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
