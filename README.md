@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gold Rush! was one of Sierra&#39;s odder adventures, but what made it so strange?](https://www.pcgamer.com/saturday-crapshoot-gold-rush)
- - [They&#39;re finally doing a game where the Warhammer 40K Orks go full Mad Max](https://www.pcgamer.com/theyre-finally-doing-a-game-where-the-warhammer-40k-orks-go-full-mad-max)
- - [Have you ever made a friend through a videogame?](https://www.pcgamer.com/have-you-ever-made-a-friend-through-a-videogame)<!-- GAME:END -->
+ - [Total War: Warhammer 3&#39;s latest free hero is Warhammer&#39;s original posterboy](https://www.pcgamer.com/total-war-warhammer-3s-latest-free-hero-is-warhammers-original-posterboy)
+ - [Today&#39;s Wordle hint and answer #708: Sunday, May 28](https://www.pcgamer.com/wordle-today-hint-answer-708-may-28)
+ - [Gold Rush! was one of Sierra&#39;s odder adventures, but what made it so strange?](https://www.pcgamer.com/saturday-crapshoot-gold-rush)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
