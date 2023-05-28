@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Control Amazon Kids+ Content Settings &lpar;2023&rpar;](https://www.wired.com/story/how-to-control-amazon-kids/)
- - [Walmart’s 4K Google TV box is the best $20 deal in streaming](https://www.theverge.com/23738980/walmart-onn-google-tv-4k-streaming-box-review)
- - [The odd appeal of absurdly long YouTube videos that don’t play anything](https://www.theverge.com/2023/5/28/23738957/youtube-videos-24-hours-blank-screen)<!-- TECH:END -->
+ - [I don’t think Apple’s Reality Pro ambitions are rooted in reality](https://www.androidauthority.com/apple-reality-pro-headset-3325042/)
+ - [iPhone 16 Pro screen sizes tipped for growth once again](https://appleinsider.com/articles/23/05/28/iphone-16-pro-screen-sizes-tipped-for-growth-once-again?utm_medium=rss)
+ - [How to Control Amazon Kids+ Content Settings &lpar;2023&rpar;](https://www.wired.com/story/how-to-control-amazon-kids/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
