@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Joy is sparked](http://9gag.com/gag/aVbLwwy)
- - 🚯 [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)
- - 🚯 [Mom treating son to awesome ride](http://9gag.com/gag/anzE5Dq)<!-- MEMES:END -->
+ - 🚖 [Made me smile](http://9gag.com/gag/aREo0DQ)
+ - 🚯 [Legends from the archives](http://9gag.com/gag/az2R1mz)
+ - 🚯 [Yeah make it count](http://9gag.com/gag/amAMBXX)<!-- MEMES:END -->
 
 --- 
 
