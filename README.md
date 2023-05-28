@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)
- - 🚯 [Title](http://9gag.com/gag/axoR12W)
- - 🚯 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)<!-- MEMES:END -->
+ - 🚯 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)
+ - 🚯 [Rotten being rotten....](http://9gag.com/gag/armq5My)<!-- MEMES:END -->
 
 --- 
 
