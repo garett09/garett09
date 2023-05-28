@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A boy fell down thanks to his friends](http://9gag.com/gag/aXnWA8P)
- - 🚯 [Proudly brought to you by the cANCer](http://9gag.com/gag/armqOwX)
- - 🚯 [Rotten being rotten....](http://9gag.com/gag/armq5My)<!-- MEMES:END -->
+ - 🚖 [David slays Goliath 1120 BCE](http://9gag.com/gag/a9q2KjZ)
+ - 🚯 [Yes She DOES](http://9gag.com/gag/aEqD2NK)
+ - 🚯 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)<!-- MEMES:END -->
 
 --- 
 
