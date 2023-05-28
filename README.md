@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 3&#39;s latest free hero is Warhammer&#39;s original posterboy](https://www.pcgamer.com/total-war-warhammer-3s-latest-free-hero-is-warhammers-original-posterboy)
- - [Today&#39;s Wordle hint and answer #708: Sunday, May 28](https://www.pcgamer.com/wordle-today-hint-answer-708-may-28)
- - [Gold Rush! was one of Sierra&#39;s odder adventures, but what made it so strange?](https://www.pcgamer.com/saturday-crapshoot-gold-rush)<!-- GAME:END -->
+ - [Great moments in PC gaming: Giving up on a pacifist run](https://www.pcgamer.com/great-moments-in-pc-gaming-giving-up-on-a-pacifist-run)
+ - [Sacrifice was a visionary strategy game, too great to be forgotten](https://www.pcgamer.com/sacrifice-was-a-visionary-strategy-game-too-great-to-be-forgotten)
+ - [Total War: Warhammer 3&#39;s latest free hero is Warhammer&#39;s original posterboy](https://www.pcgamer.com/total-war-warhammer-3s-latest-free-hero-is-warhammers-original-posterboy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
