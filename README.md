@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: South Korea won&#39;t encourage its memory-chip firms to grab market share in China lost by Micron, as it could disrupt its bilateral relations with the US &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/230528/p1#a230528p1)
  - [Chartbeat data for 1,350 publishers: Twitter referral traffic fell from 1.9% in April 2018 to 1.2% in April 2023; medium-sized publishers&#39; traffic dropped 40% &lpar;Aisha Majid/Press Gazette&rpar;](http://www.techmeme.com/230527/p17#a230527p17)
- - [Binance plans to launch a local service for Japan residents in the summer and discontinue its global service for users in the country on November 30, 2023 &lpar;Susanne Barton/Bloomberg&rpar;](http://www.techmeme.com/230527/p16#a230527p16)
- - [US Commerce Secretary Gina Raimondo says the US &quot;won&#39;t tolerate&quot; China&#39;s ban on Micron chips and calls the decision an &quot;economic coercion&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230527/p15#a230527p15)<!-- TECH:END -->
+ - [Binance plans to launch a local service for Japan residents in the summer and discontinue its global service for users in the country on November 30, 2023 &lpar;Susanne Barton/Bloomberg&rpar;](http://www.techmeme.com/230527/p16#a230527p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
