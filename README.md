@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Tapbots founders Paul Haddad and Mark Jardine; ex-Twitter exec Amir Shevat says ~17% of engagement on Twitter historically was via third-party apps &lpar;Andrew Logan/Texas Monthly&rpar;](http://www.techmeme.com/230528/p2#a230528p2)
  - [Source: South Korea won&#39;t encourage its memory-chip firms to grab market share in China lost by Micron, as it could disrupt its bilateral relations with the US &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/230528/p1#a230528p1)
- - [Chartbeat data for 1,350 publishers: Twitter referral traffic fell from 1.9% in April 2018 to 1.2% in April 2023; medium-sized publishers&#39; traffic dropped 40% &lpar;Aisha Majid/Press Gazette&rpar;](http://www.techmeme.com/230527/p17#a230527p17)
- - [Binance plans to launch a local service for Japan residents in the summer and discontinue its global service for users in the country on November 30, 2023 &lpar;Susanne Barton/Bloomberg&rpar;](http://www.techmeme.com/230527/p16#a230527p16)<!-- TECH:END -->
+ - [Best Camera Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
