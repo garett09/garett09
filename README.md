@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Text From Your PC Through Your Phone](https://www.wired.com/story/how-to-text-from-pc-windows-phonelink/)
- - [Remembering GitHub&#39;s Office, a Monument to Tech Culture](https://www.wired.com/story/github-tech-values/)
- - [How to play chess against ChatGPT &lpar;and why you probably shouldn’t&rpar;](https://www.androidauthority.com/how-to-play-chess-with-chatgpt-3330016/)<!-- TECH:END -->
+ - [PSA: To avoid malware, check for this before buying an Android TV](https://www.androidauthority.com/android-tv-certified-check-3330003/)
+ - [The Quest to Use Quantum Mechanics to Pull Energy out of Nothing](https://www.wired.com/story/the-quest-to-use-quantum-mechanics-to-pull-energy-out-of-nothing/)
+ - [Crime blotter: Guilty verdict in North Carolina iPhone fraud trial](https://appleinsider.com/articles/23/05/28/crime-blotter-guilty-verdict-in-north-carolina-iphone-fraud-trial?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
