@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)
- - 🚯 [There&#39;s trashy and then there&#39;s whatever the hell this is](http://9gag.com/gag/aOxP7O6)
+ - 🚖 [David slays Goliath 1120 BCE](http://9gag.com/gag/a9q2KjZ)
+ - 🚯 [By far the best animation what addiction looks like](http://9gag.com/gag/aWGbxXZ)
  - 🚯 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)<!-- MEMES:END -->
 
 --- 
