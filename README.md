@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turtle Beach Stealth Pro Review: Go Anywhere, Play Anything](https://www.wired.com/review/turtle-beach-stealth-pro-wireless/)
  - [A profile of Tapbots founders Paul Haddad and Mark Jardine; ex-Twitter exec Amir Shevat says ~17% of engagement on Twitter historically was via third-party apps &lpar;Andrew Logan/Texas Monthly&rpar;](http://www.techmeme.com/230528/p2#a230528p2)
- - [Source: South Korea won&#39;t encourage its memory-chip firms to grab market share in China lost by Micron, as it could disrupt its bilateral relations with the US &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/230528/p1#a230528p1)
- - [Best Camera Phone of 2023     - CNET](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: South Korea won&#39;t encourage its memory-chip firms to grab market share in China lost by Micron, as it could disrupt its bilateral relations with the US &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/230528/p1#a230528p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
