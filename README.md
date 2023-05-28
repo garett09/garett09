@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to customize macOS Finder window toolbars](https://appleinsider.com/inside/macos/tips/how-to-customize-macos-finder-window-toolbars?utm_medium=rss)
- - [In July, NYC will start enforcing a law requiring firms using AI in hiring to notify candidates of its use and have independent auditors check for bias annually &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/230528/p7#a230528p7)
- - [Rumored Mac Studio trade-in points to possible refresh during WWDC](https://appleinsider.com/articles/23/05/28/mac-studio-trade-ins-expected-as-new-macs-arrive-for-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 Pro screen once again rumored be larger than iPhone 15 Pro](https://appleinsider.com/articles/23/05/28/iphone-16-pro-screen-sizes-tipped-for-growth-once-again?utm_medium=rss)
+ - [Quest 3 hands-on confirms Meta’s building a ‘far thinner and lighter’ headset](https://www.theverge.com/2023/5/28/23740500/meta-quest-3-vr-ar-headset-preview-leak-hands-on-rumor)
+ - [How to customize macOS Finder window toolbars](https://appleinsider.com/inside/macos/tips/how-to-customize-macos-finder-window-toolbars?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
