@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s $50 million butterfly keyboard settlement is finally approved](https://www.theverge.com/2023/5/27/23740087/apple-macbook-butterfly-keyboard-settlement-final-approval)
- - [Source and analysis: PDD-owned Temu is losing an average of $30 per order and between $588M to $954M per year, as it tries to break into the US market &lpar;Tracy Wen Liu/Wired&rpar;](http://www.techmeme.com/230527/p14#a230527p14)
- - [How to move Final Cut Pro projects from Mac to iPad](https://appleinsider.com/inside/final-cut-pro/tips/how-to-move-final-cut-pro-projects-from-mac-to-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Binance plans to launch a local service for Japan residents in the summer and discontinue its global service for users in the country on November 30, 2023 &lpar;Susanne Barton/Bloomberg&rpar;](http://www.techmeme.com/230527/p16#a230527p16)
+ - [US Commerce Secretary Gina Raimondo says the US &quot;won&#39;t tolerate&quot; China&#39;s ban on Micron chips and calls the decision an &quot;economic coercion&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230527/p15#a230527p15)
+ - [Skullcandy Crusher ANC 2 review: Banging headphones but not for everyone](https://appleinsider.com/articles/23/05/27/skullcandy-crusher-anc-2-review-banging-headphones-but-not-for-everyone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
