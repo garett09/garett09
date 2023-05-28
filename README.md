@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo Asks Valve To Kick GameCube And Wii Emulator Off Steam, Says It&#39;s Protecting Its Creativity And Work](https://kotaku.com/nintendo-gamecube-wii-emulator-dolphin-valve-piracy-1850482929)
  - [The 10 best mermaid movies ever made, ranked](https://www.polygon.com/what-to-watch/23728915/best-mermaid-movies-watch-streaming-ranked-list)
- - [Knights of the Old Republic Remake shows faint, flickering sign of life in publisher report](https://www.pcgamer.com/knights-of-the-old-republic-remake-shows-faint-flickering-sign-of-life-in-publisher-report)
- - [Sons of the Forest has hard mode now just in case you hate joy](https://www.pcgamer.com/sons-of-the-forest-has-hard-mode-now-just-in-case-you-hate-joy)<!-- GAME:END -->
+ - [Knights of the Old Republic Remake shows faint, flickering sign of life in publisher report](https://www.pcgamer.com/knights-of-the-old-republic-remake-shows-faint-flickering-sign-of-life-in-publisher-report)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
