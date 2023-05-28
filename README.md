@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big brain](http://9gag.com/gag/aL1mpRP)
- - 🚯 [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
- - 🚯 [What th\u2026.](http://9gag.com/gag/aVbLwMw)<!-- MEMES:END -->
+ - 🚖 [Fentanyl + Xylazine = Resident Evil in rl](http://9gag.com/gag/aeQmAmm)
+ - 🚯 [Skill issue](http://9gag.com/gag/aVbL71M)
+ - 🚯 [I can confirm](http://9gag.com/gag/az2RM3j)<!-- MEMES:END -->
 
 --- 
 
