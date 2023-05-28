@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Made me smile](http://9gag.com/gag/aREo0DQ)
- - 🚯 [Legends from the archives](http://9gag.com/gag/az2R1mz)
- - 🚯 [Yeah make it count](http://9gag.com/gag/amAMBXX)<!-- MEMES:END -->
+ - 🚖 [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)
+ - 🚯 [Title](http://9gag.com/gag/axoR12W)
+ - 🚯 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)<!-- MEMES:END -->
 
 --- 
 
