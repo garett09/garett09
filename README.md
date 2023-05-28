@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Prehistoric farming RPG Roots of Pacha returns to Steam following development dispute](https://www.pcgamer.com/prehistoric-farming-rpg-roots-of-pacha-returns-to-steam-following-development-dispute)
  - [How to play the D&amp;D movie as a D&amp;D game, according to the directors](https://www.polygon.com/23734872/dnd-dungeons-dragons-honor-among-thieves-movie-play-game)
- - [Watch the emotionally intense anime movie A Silent Voice before it leaves Netflix](https://www.polygon.com/23739131/silent-voice-anime-leaving-netflix)
- - [Meet the inventors making Hyrule’s most complicated contraptions](https://www.polygon.com/legend-zelda-tears-kingdom/23739038/hyrule-ultrahand-zelda-tears-of-the-kingdom-totk-best-inventions-vehicles-build-designs)<!-- GAME:END -->
+ - [Watch the emotionally intense anime movie A Silent Voice before it leaves Netflix](https://www.polygon.com/23739131/silent-voice-anime-leaving-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
