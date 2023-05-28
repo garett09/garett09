@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Made me smile](http://9gag.com/gag/aREo0DQ)
- - 🚯 [Yeah make it count](http://9gag.com/gag/amAMBXX)
- - 🚯 [A moment of respect for all the chefs](http://9gag.com/gag/aPgQ7Zg)<!-- MEMES:END -->
+ - 🚖 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)
+ - 🚯 [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
+ - 🚯 [Mom treating son to awesome ride](http://9gag.com/gag/anzE5Dq)<!-- MEMES:END -->
 
 --- 
 
