@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)
- - 🚯 [There&#39;s trashy and then there&#39;s whatever the hell this is](http://9gag.com/gag/aOxP7O6)
- - 🚯 [Not a nurse; can anyone help me figure it out?](http://9gag.com/gag/a2K2WW9)<!-- MEMES:END -->
+ - 🚖 [Big brain](http://9gag.com/gag/aL1mpRP)
+ - 🚯 [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
+ - 🚯 [What th\u2026.](http://9gag.com/gag/aVbLwMw)<!-- MEMES:END -->
 
 --- 
 
