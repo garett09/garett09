@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Oops I did it again` moment at Cannes.](http://9gag.com/gag/aqeWgx7)
- - 🚯 [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)
- - 🚯 [Girl got some of those venom genes](http://9gag.com/gag/aPgQYVK)<!-- MEMES:END -->
+ - 🚖 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)
+ - 🚯 [Elizabeth Olsen without makeup](http://9gag.com/gag/aA02wW2)
+ - 🚯 [Proudly brought to you by the cANCer](http://9gag.com/gag/armqOwX)<!-- MEMES:END -->
 
 --- 
 
