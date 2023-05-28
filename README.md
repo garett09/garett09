@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He forgot the father](http://9gag.com/gag/ap9b2m5)
- - 🚯 [Proudly brought to you by the cANCer](http://9gag.com/gag/armqOwX)
- - 🚯 [Yes She DOES](http://9gag.com/gag/aEqD2NK)<!-- MEMES:END -->
+ - 🚖 [They should just kiss already](http://9gag.com/gag/a2K2oWe)
+ - 🚯 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)
+ - 🚯 [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)<!-- MEMES:END -->
 
 --- 
 
