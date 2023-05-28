@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A boy fell down thanks to his friends](http://9gag.com/gag/aXnWA8P)
+ - 🚖 [He forgot the father](http://9gag.com/gag/ap9b2m5)
  - 🚯 [Proudly brought to you by the cANCer](http://9gag.com/gag/armqOwX)
- - 🚯 [Well made circle](http://9gag.com/gag/amAMvY6)<!-- MEMES:END -->
+ - 🚯 [Yes She DOES](http://9gag.com/gag/aEqD2NK)<!-- MEMES:END -->
 
 --- 
 
