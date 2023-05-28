@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [iPhone 16 Pro screen once again rumored be larger than iPhone 15 Pro](https://appleinsider.com/articles/23/05/28/iphone-16-pro-screen-sizes-tipped-for-growth-once-again?utm_medium=rss)
  - [Quest 3 hands-on confirms Meta’s building a ‘far thinner and lighter’ headset](https://www.theverge.com/2023/5/28/23740500/meta-quest-3-vr-ar-headset-preview-leak-hands-on-rumor)
- - [How to customize macOS Finder window toolbars](https://appleinsider.com/inside/macos/tips/how-to-customize-macos-finder-window-toolbars?utm_medium=rss)<!-- TECH:END -->
+ - [Best Eco-Friendly and Recycled iPhone 13 Cases for 2023     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-13-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
