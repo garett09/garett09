@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I don’t think Apple’s Reality Pro ambitions are rooted in reality](https://www.androidauthority.com/apple-reality-pro-headset-3325042/)
- - [iPhone 16 Pro screen sizes tipped for growth once again](https://appleinsider.com/articles/23/05/28/iphone-16-pro-screen-sizes-tipped-for-growth-once-again?utm_medium=rss)
- - [How to Control Amazon Kids+ Content Settings &lpar;2023&rpar;](https://www.wired.com/story/how-to-control-amazon-kids/)<!-- TECH:END -->
+ - [AirPlay upgrade part of expected inbound iOS 17 changes](https://appleinsider.com/articles/23/05/28/airplay-upgrade-part-of-expected-ios-17-changes?utm_medium=rss)
+ - [Apple&#39;s MR headset could succeed where others failed by adding more 3D content and interfaces but faces a challenge in balancing computer power with wearability &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230528/p5#a230528p5)
+ - [Rumored Mac Studio trade-in points to possible refresh during WWDC](https://appleinsider.com/articles/23/05/28/mac-studio-trade-ins-expected-as-new-macs-arrive-for-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
