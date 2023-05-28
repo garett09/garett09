@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPlay upgrade part of expected inbound iOS 17 changes](https://appleinsider.com/articles/23/05/28/airplay-upgrade-part-of-expected-ios-17-changes?utm_medium=rss)
- - [Apple&#39;s MR headset could succeed where others failed by adding more 3D content and interfaces but faces a challenge in balancing computer power with wearability &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230528/p5#a230528p5)
- - [Rumored Mac Studio trade-in points to possible refresh during WWDC](https://appleinsider.com/articles/23/05/28/mac-studio-trade-ins-expected-as-new-macs-arrive-for-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [The race to be the fastest charging phone in the US finally has a new challenger](https://www.androidauthority.com/motorola-turbopower-supervooc-3326469/)
+ - [LG’s 48-inch 4K OLED gaming monitor is over $600 off right now](https://www.theverge.com/2023/5/28/23740445/lg-48gq900-4k-oled-gaming-monitor-deal-sale)
+ - [Hands-on with Meta&#39;s Quest 3 prototype: lighter, thinner, faster, and with better video pass-through than the Quest 2, but the VR displays have similar clarity &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230528/p6#a230528p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
