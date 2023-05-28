@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)
- - 🚯 [Maybe if you listened to the first word out if his mouth...](http://9gag.com/gag/awZdnvx)
- - 🚯 [Rotten being rotten....](http://9gag.com/gag/armq5My)<!-- MEMES:END -->
+ - 🚖 [Made me smile](http://9gag.com/gag/aREo0DQ)
+ - 🚯 [Yeah make it count](http://9gag.com/gag/amAMBXX)
+ - 🚯 [A moment of respect for all the chefs](http://9gag.com/gag/aPgQ7Zg)<!-- MEMES:END -->
 
 --- 
 
