@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to play the D&amp;D movie as a D&amp;D game, according to the directors](https://www.polygon.com/23734872/dnd-dungeons-dragons-honor-among-thieves-movie-play-game)
  - [Watch the emotionally intense anime movie A Silent Voice before it leaves Netflix](https://www.polygon.com/23739131/silent-voice-anime-leaving-netflix)
- - [Meet the inventors making Hyrule’s most complicated contraptions](https://www.polygon.com/legend-zelda-tears-kingdom/23739038/hyrule-ultrahand-zelda-tears-of-the-kingdom-totk-best-inventions-vehicles-build-designs)
- - [The best way to dive into the A Song of Ice and Fire books, whether you’re new or rereading](https://www.polygon.com/23736169/game-of-thrones-book-order-read-song-ice-fire)<!-- GAME:END -->
+ - [Meet the inventors making Hyrule’s most complicated contraptions](https://www.polygon.com/legend-zelda-tears-kingdom/23739038/hyrule-ultrahand-zelda-tears-of-the-kingdom-totk-best-inventions-vehicles-build-designs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
