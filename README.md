@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikToker shocked by high Verizon bill over &#39;free&#39; Apple Watch promo](https://appleinsider.com/articles/23/05/29/tiktoker-shocked-by-high-verizon-bill-over-free-apple-watch-promo?utm_medium=rss)
- - [How to Make Meetings Shorter &lpar;for Real&rpar;](https://www.wired.com/story/how-to-make-meetings-shorter/)
- - [South Korea&#39;s Naver plans to offer versions of its ChatGPT-like AI model to governments worried about US data controls, addressing political and cultural issues &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/230529/p4#a230529p4)<!-- TECH:END -->
+ - [This Machine Makes You Hallucinate](https://www.wired.com/story/dreamachine-anil-seth-strobe-light-therapy/)
+ - [The System Shock remake is a delightful surprise](https://www.theverge.com/23738938/system-shock-remake-nightdive-review)
+ - [An interview with Niels Provos and David Mazieres, co-inventors of popular password-hashing function bcrypt, which turns 25 this year, on password security &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230529/p5#a230529p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
