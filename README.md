@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What th\u2026.](http://9gag.com/gag/aVbLwMw)
- - 🚯 [Bernoulli principle](http://9gag.com/gag/ajVZVGg)
- - 🚯 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)<!-- MEMES:END -->
+ - 🚖 [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)
+ - 🚯 [Iranian model went on the red carpet with a genius marketing tactic to draw attentions to executions going on in Iran!](http://9gag.com/gag/axoRoLW)
+ - 🚯 [Why are you geh](http://9gag.com/gag/aA02yzo)<!-- MEMES:END -->
 
 --- 
 
