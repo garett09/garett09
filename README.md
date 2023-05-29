@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine for animals!](http://9gag.com/gag/awZdyOr)
- - 🚯 [Why are you geh?](http://9gag.com/gag/aL1m1o5)
- - 🚯 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)<!-- MEMES:END -->
+ - 🚖 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)
+ - 🚯 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)
+ - 🚯 [Never forget](http://9gag.com/gag/aKEe743)<!-- MEMES:END -->
 
 --- 
 
