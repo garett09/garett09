@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is this $225 price drop on the Samsung Galaxy S23 Ultra going to last?](https://www.androidauthority.com/samsung-galaxy-s23-ultra-deal-3330199/)
- - [MediaTek partners with Nvidia to add Nvidia&#39;s GPU chiplets and software to MediaTek SoCs used in automotive infotainment systems &lpar;Joseph White/Reuters&rpar;](http://www.techmeme.com/230529/p8#a230529p8)
- - [RCS vs SMS: What’s the difference?](https://www.androidauthority.com/rcs-vs-sms-3330098/)<!-- TECH:END -->
+ - [Up your game with a record 35% discount on the 8Bitdo Ultimate controller](https://www.androidauthority.com/8bitdo-ultimate-wired-controller-deal-3330220/)
+ - [The Witcher is officially one of the most successful game series of all time](https://www.theverge.com/2023/5/29/23741471/the-witcher-cd-projekt-red-cdpr-gaming-franchises)
+ - [Man drops Samsung phone into reservoir, orders whole thing drained to get it](https://www.androidauthority.com/drop-samsung-phone-reservoir-3330214/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
