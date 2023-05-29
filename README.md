@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s trashy and then there&#39;s whatever the hell this is](http://9gag.com/gag/aOxP7O6)
- - 🚯 [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
- - 🚯 [You shall not play](http://9gag.com/gag/a2K27M9)<!-- MEMES:END -->
+ - 🚖 [Have to be precise with the measurements](http://9gag.com/gag/aVbL7jd)
+ - 🚯 [Training session](http://9gag.com/gag/aPgQ38n)
+ - 🚯 [Never forget](http://9gag.com/gag/aKEe743)<!-- MEMES:END -->
 
 --- 
 
