@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uneducated, conservative Turks in Europe, a significant proportion of whom work unskilled labor jobs or live on welfare, are celebrating the victory of their goat king. Millions of these intellectually simpler characters should be deported to their beloved homeland.](http://9gag.com/gag/aYVqVd7)
- - 🚯 [Relatable](http://9gag.com/gag/aZDjD4n)
+ - 🚖 [Relatable](http://9gag.com/gag/aZDjD4n)
+ - 🚯 [Why bro... Why!](http://9gag.com/gag/awZdyo8)
  - 🚯 [Big brain](http://9gag.com/gag/aL1mpRP)<!-- MEMES:END -->
 
 --- 
