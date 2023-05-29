@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I attempted to build one of every building in Cities: Skylines and its expansions—it ended in disaster](https://www.pcgamer.com/i-attempted-to-build-one-of-every-building-in-cities-skylines-and-its-expansionsit-ended-in-disaster)
- - [Walt Disney cheated his animators out of profits — and their strike changed the world](https://www.polygon.com/century-of-disney/23737667/wga-strike-versus-disney-animators-strike-1941)
- - [What Your Favorite Pokémon Game Says About You: Brutal Callout Edition](https://kotaku.com/what-your-favorite-pokemon-game-says-about-you-switch-1850481204)<!-- GAME:END -->
+ - [British TV’s most badass cop is a pissed-off grandma](https://www.polygon.com/23737410/happy-valley-season-3-sarah-lancashire-catherine-cawood)
+ - [9 Of The Most Fascinating Indie Games For Your Steam Wishlist](https://kotaku.com/steam-pc-demo-wishlist-indiegeddon-best-indie-games-1850484666)
+ - [Command or conquer armies of Strogg in this ambitious Quake RTS mod](https://www.pcgamer.com/command-or-conquer-armies-of-strogg-in-this-ambitious-quake-rts-mod)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
