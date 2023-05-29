@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hehe](http://9gag.com/gag/aGEApBw)
- - 🚯 [Not sure what i witnessed here, politics?](http://9gag.com/gag/ap9bNqp)
- - 🚯 [When you drop a Molotov cocktail down a mineshaft...](http://9gag.com/gag/avQRy4E)<!-- MEMES:END -->
+ - 🚖 [The new norm around my neighbourhood in Tehran, Iran ... Islamic fascists are crying everywhere!](http://9gag.com/gag/aMEvEo1)
+ - 🚯 [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)
+ - 🚯 [S.t.i.c.k](http://9gag.com/gag/a6q2qee)<!-- MEMES:END -->
 
 --- 
 
