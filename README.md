@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Days of Play 2023 sale kicks off on June 2](https://blog.playstation.com/2023/05/29/days-of-play-2023-sale-kicks-off-on-june-2/)
- - [The System Shock remake does something remarkable](https://www.polygon.com/reviews/23739112/system-shock-remake-review-release-date)
- - [Crowdfunding website Fig is no more](https://www.pcgamer.com/crowdfunding-website-fig-is-no-more)<!-- GAME:END -->
+ - [Succession had a great finale fit for a different version of the show](https://www.polygon.com/23739306/succession-season-4-finale-review-series)
+ - [Nvidia&#39;s New AI Is Coming For Absolutely Every Gaming Job](https://kotaku.com/nvidia-ace-ai-rtx-4060-ti-gpu-graphics-gaming-jobs-1850484480)
+ - [Days of Play 2023 sale kicks off on June 2](https://blog.playstation.com/2023/05/29/days-of-play-2023-sale-kicks-off-on-june-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
