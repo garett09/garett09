@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fentanyl + Xylazine = Resident Evil in rl](http://9gag.com/gag/aeQmAmm)
+ - 🚖 [I can confirm](http://9gag.com/gag/az2RM3j)
  - 🚯 [Skill issue](http://9gag.com/gag/aVbL71M)
- - 🚯 [I can confirm](http://9gag.com/gag/az2RM3j)<!-- MEMES:END -->
+ - 🚯 [Perhaps Smaug is just really inefficient at wealth generation](http://9gag.com/gag/axoRMKb)<!-- MEMES:END -->
 
 --- 
 
