@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Machine Makes You Hallucinate](https://www.wired.com/story/dreamachine-anil-seth-strobe-light-therapy/)
- - [The System Shock remake is a delightful surprise](https://www.theverge.com/23738938/system-shock-remake-nightdive-review)
- - [An interview with Niels Provos and David Mazieres, co-inventors of popular password-hashing function bcrypt, which turns 25 this year, on password security &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/230529/p5#a230529p5)<!-- TECH:END -->
+ - [A look at media coverage of generative AI over the past six months, as journalists and academics criticize the hype and provide ways to improve reporting &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/230529/p6#a230529p6)
+ - [Lenovo Yoga 9i Review &lpar;2023&rpar;: A Stylish, Powerful 2-in-1 Laptop](https://www.wired.com/review/lenovo-yoga-9i-2-in-1-laptop/)
+ - [Logi Dock review: conference calls have never been so cute](https://www.theverge.com/23728549/logitech-logi-dock-review-conference-laptop-docking-station)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
