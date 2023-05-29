@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [S.t.i.c.k](http://9gag.com/gag/a6q2qee)
- - 🚯 [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
- - 🚯 [Hehe](http://9gag.com/gag/aGEApBw)<!-- MEMES:END -->
+ - 🚖 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)
+ - 🚯 [Hehe](http://9gag.com/gag/aGEApBw)
+ - 🚯 [You shall not play](http://9gag.com/gag/a2K27M9)<!-- MEMES:END -->
 
 --- 
 
