@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s probably supposed not to look as creepy as before but come on](http://9gag.com/gag/avQRzWd)
- - 🚯 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)
- - 🚯 [Big brain](http://9gag.com/gag/aL1mpRP)<!-- MEMES:END -->
+ - 🚖 [Hehe](http://9gag.com/gag/aGEApBw)
+ - 🚯 [Not sure what i witnessed here, politics?](http://9gag.com/gag/ap9bNqp)
+ - 🚯 [When you drop a Molotov cocktail down a mineshaft...](http://9gag.com/gag/avQRy4E)<!-- MEMES:END -->
 
 --- 
 
