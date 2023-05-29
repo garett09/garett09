@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at media coverage of generative AI over the past six months, as journalists and academics criticize the hype and provide ways to improve reporting &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/230529/p6#a230529p6)
- - [Lenovo Yoga 9i Review &lpar;2023&rpar;: A Stylish, Powerful 2-in-1 Laptop](https://www.wired.com/review/lenovo-yoga-9i-2-in-1-laptop/)
- - [Logi Dock review: conference calls have never been so cute](https://www.theverge.com/23728549/logitech-logi-dock-review-conference-laptop-docking-station)<!-- TECH:END -->
+ - [35 Best Memorial Day Sales and Deals: Pizza Ovens, Recycled Bags, and More](https://www.wired.com/story/best-memorial-day-sales-2023/)
+ - [Memorial Day deals: iPads from $149, $230 off Apple Watch, LG TV &amp; monitor sale, more](https://appleinsider.com/articles/23/05/29/memorial-day-deals-ipads-from-149-230-off-apple-watch-lg-tv-monitor-sale-more?utm_medium=rss)
+ - [Google confirms it was working on a second foldable phone, so what happened?](https://www.androidauthority.com/google-second-foldable-phone-canceled-3330167/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
