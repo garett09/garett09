@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
- - 🚯 [There&#39;s trashy and then there&#39;s whatever the hell this is](http://9gag.com/gag/aOxP7O6)
- - 🚯 [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)<!-- MEMES:END -->
+ - 🚖 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
+ - 🚯 [Never forget](http://9gag.com/gag/aKEe743)
+ - 🚯 [What th\u2026.](http://9gag.com/gag/aVbLwMw)<!-- MEMES:END -->
 
 --- 
 
