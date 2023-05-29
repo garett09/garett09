@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)
- - 🚯 [Hehe](http://9gag.com/gag/aGEApBw)
- - 🚯 [Yes She DOES](http://9gag.com/gag/aEqD2NK)<!-- MEMES:END -->
+ - 🚖 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)
+ - 🚯 [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)
+ - 🚯 [Hehe](http://9gag.com/gag/aGEApBw)<!-- MEMES:END -->
 
 --- 
 
