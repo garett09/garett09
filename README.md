@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Up your game with a record 35% discount on the 8Bitdo Ultimate controller](https://www.androidauthority.com/8bitdo-ultimate-wired-controller-deal-3330220/)
- - [The Witcher is officially one of the most successful game series of all time](https://www.theverge.com/2023/5/29/23741471/the-witcher-cd-projekt-red-cdpr-gaming-franchises)
- - [Man drops Samsung phone into reservoir, orders whole thing drained to get it](https://www.androidauthority.com/drop-samsung-phone-reservoir-3330214/)<!-- TECH:END -->
+ - [Cryptic tease may suggest imminent &#39;No Man&#39;s Sky&#39; launch on Mac](https://appleinsider.com/articles/23/05/29/no-mans-sky-may-finally-be-launching-on-mac-thanks-to-cryptic-tease?utm_medium=rss)
+ - [Apple sued by actor Brent Sexton over COVID vaccination mandate](https://appleinsider.com/articles/23/05/29/apple-sued-by-actor-brent-sexton-over-covid-vaccination-mandate?utm_medium=rss)
+ - [Up your game with a record 35% discount on the 8Bitdo Ultimate controller](https://www.androidauthority.com/8bitdo-ultimate-wired-controller-deal-3330220/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
