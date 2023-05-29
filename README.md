@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Family tech support gets easier: Screen sharing comes to WhatsApp video calls](https://www.androidauthority.com/whatsapp-screen-sharing-video-calls-3330055/)
- - [Reliable source claims iPhone 16 Pro series could be Apple’s largest](https://www.androidauthority.com/iphone-16-pro-longer-display-leak-3321870/)
- - [Apple iPhone 15: Everything we know so far](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)<!-- TECH:END -->
+ - [Google is changing a well-loved Pixel feature and you may not like it](https://www.androidauthority.com/pixel-call-screening-new-menu-3330057/)
+ - [Meta Quest 3: Everything we know, what we want to see](https://www.androidauthority.com/meta-quest-3-release-date-rumors-specs-price-3270613/)
+ - [Family tech support gets easier: Screen sharing comes to WhatsApp video calls](https://www.androidauthority.com/whatsapp-screen-sharing-video-calls-3330055/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
