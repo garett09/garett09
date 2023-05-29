@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #709: Monday, May 29](https://www.pcgamer.com/wordle-today-hint-answer-709-may-29)
  - [The Witcher has been renewed for a fifth season](https://www.pcgamer.com/the-witcher-has-been-renewed-for-a-fifth-season)
- - [Five new Steam games you probably missed &lpar;May 29, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-29-2023)
- - [Fallout: New Vegas mod gives your eyebot companion an upgradeable sombrero, mustache](https://www.pcgamer.com/fallout-new-vegas-mod-gives-your-eyebot-companion-an-upgradeable-sombrero-mustache)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;May 29, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-29-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
