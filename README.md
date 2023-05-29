@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bandai Namco officially announces Bryan Fury for Tekken 8, after accidentally announcing Bryan Fury for Tekken 8](https://www.pcgamer.com/bandai-namco-officially-announces-bryan-fury-for-tekken-8-after-accidentally-announcing-bryan-fury-for-tekken-8)
- - [How to restore an old PC: Top tips and the biggest mistakes to avoid](https://www.pcgamer.com/how-to-restore-an-old-pc-top-tips-and-the-biggest-mistakes-to-avoid)
- - [Nvidia&#39;s massive AI GPU has enough memory to make a gamer weep and even Jensen Huang&#39;s wondering &#39;if this could play Crysis?&#39;](https://www.pcgamer.com/nvidias-massive-ai-gpu-has-enough-memory-to-make-a-gamer-weep-and-even-jensen-huangs-wondering-if-this-could-play-crysis)<!-- GAME:END -->
+ - [Days of Play 2023 sale kicks off on June 2](https://blog.playstation.com/2023/05/29/days-of-play-2023-sale-kicks-off-on-june-2/)
+ - [The System Shock remake does something remarkable](https://www.polygon.com/reviews/23739112/system-shock-remake-review-release-date)
+ - [Crowdfunding website Fig is no more](https://www.pcgamer.com/crowdfunding-website-fig-is-no-more)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
