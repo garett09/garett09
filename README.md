@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Wallet patent infringement suit heads to settlement conference](https://appleinsider.com/articles/23/05/29/apple-wallet-patent-infringement-suit-heads-to-settlement-conference?utm_medium=rss)
- - [35 Best Memorial Day Sales and Deals: Pizza Ovens, Recycled Bags, and More](https://www.wired.com/story/best-memorial-day-sales-2023/)
- - [Memorial Day deals: iPads from $149, $230 off Apple Watch, LG TV &amp; monitor sale, more](https://appleinsider.com/articles/23/05/29/memorial-day-deals-ipads-from-149-230-off-apple-watch-lg-tv-monitor-sale-more?utm_medium=rss)<!-- TECH:END -->
+ - [Arm Cortex-X4, A720, and A520: 2024 smartphone CPUs deep dive](https://www.androidauthority.com/arm-cortex-x4-explained-3328008/)
+ - [Meta&#39;s Quest 3 Could Challenge Apple&#39;s New Headset, Report Says     - CNET](https://www.cnet.com/tech/computing/metas-quest-3-could-challenge-apples-new-headset-report-says/#ftag=CAD590a51e)
+ - [Upgrade Your Entertainment Setup With Up to $1,000 Off a Select Samsung Tech     - CNET](https://www.cnet.com/deals/upgrade-your-entertainment-setup-with-up-to-1000-off-a-select-samsung-tech/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
