@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 best Blu-rays and 4K UHD releases of June 2023](https://www.polygon.com/23739053/best-bluray-4k-uhd-disc-review-june-2023)
- - [Bringing the Tabletop to Life in Dice Legacy: Definitive Edition](https://news.xbox.com/en-us/2023/05/29/dice-legacy-definitive-edition-xbox/)
- - [Railway Empire 2 Recaptures The Ambition and Joy of Your Childhood Strategy Board Games](https://news.xbox.com/en-us/2023/05/29/railway-empire-2/)<!-- GAME:END -->
+ - [10 Indie Games That Are Bursting With Imagination](https://kotaku.com/steam-pc-best-indie-games-demo-youtube-trailer-1850485229)
+ - [CD Projekt shoots down Sony acquisition rumor: &#39;We&#39;re not in such talks&#39;](https://www.pcgamer.com/cd-projekt-shoots-down-sony-acquisition-rumor-were-not-in-such-talks)
+ - [The 10 best Blu-rays and 4K UHD releases of June 2023](https://www.polygon.com/23739053/best-bluray-4k-uhd-disc-review-june-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
