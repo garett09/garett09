@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relatable](http://9gag.com/gag/aZDjD4n)
- - 🚯 [Why bro... Why!](http://9gag.com/gag/awZdyo8)
- - 🚯 [Big brain](http://9gag.com/gag/aL1mpRP)<!-- MEMES:END -->
+ - 🚖 [Imagine for animals!](http://9gag.com/gag/awZdyOr)
+ - 🚯 [Why are you geh?](http://9gag.com/gag/aL1m1o5)
+ - 🚯 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)<!-- MEMES:END -->
 
 --- 
 
