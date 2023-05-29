@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not a nurse; can anyone help me figure it out?](http://9gag.com/gag/a2K2WW9)
- - 🚯 [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)
- - 🚯 [Hehe](http://9gag.com/gag/aGEApBw)<!-- MEMES:END -->
+ - 🚖 [Japan\u2019s Princess Mako saying goodbye to her family as she loses her royal status by marrying a `commoner`](http://9gag.com/gag/amAM5Gd)
+ - 🚯 [Hehe](http://9gag.com/gag/aGEApBw)
+ - 🚯 [Yes She DOES](http://9gag.com/gag/aEqD2NK)<!-- MEMES:END -->
 
 --- 
 
