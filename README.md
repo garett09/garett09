@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget tempered glass and RGB, witness the fruits of a cross-country effort to save a 20-year-old Teddy bear PC](https://www.pcgamer.com/forget-tempered-glass-and-rgb-witness-the-fruits-of-a-cross-country-effort-to-save-a-20-year-old-teddy-bear-pc)
- - [New fanmade Quake map pack turns the classic shooter into a pacifist platformer fueled by vibes](https://www.pcgamer.com/new-fanmade-quake-map-pack-turns-the-classic-shooter-into-a-pacifist-platformer-fueled-by-vibes)
- - [Nintendo Asks Valve To Kick GameCube And Wii Emulator Off Steam, Says It&#39;s Protecting Its Creativity And Work](https://kotaku.com/nintendo-gamecube-wii-emulator-dolphin-valve-piracy-1850482929)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;May 29, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-29-2023)
+ - [Fallout: New Vegas mod gives your eyebot companion an upgradeable sombrero, mustache](https://www.pcgamer.com/fallout-new-vegas-mod-gives-your-eyebot-companion-an-upgradeable-sombrero-mustache)
+ - [Forget tempered glass and RGB, witness the fruits of a cross-country effort to save a 20-year-old Teddy bear PC](https://www.pcgamer.com/forget-tempered-glass-and-rgb-witness-the-fruits-of-a-cross-country-effort-to-save-a-20-year-old-teddy-bear-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
