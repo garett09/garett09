@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm Cortex-X4, A720, and A520: 2024 smartphone CPUs deep dive](https://www.androidauthority.com/arm-cortex-x4-explained-3328008/)
- - [Meta&#39;s Quest 3 Could Challenge Apple&#39;s New Headset, Report Says     - CNET](https://www.cnet.com/tech/computing/metas-quest-3-could-challenge-apples-new-headset-report-says/#ftag=CAD590a51e)
- - [Upgrade Your Entertainment Setup With Up to $1,000 Off a Select Samsung Tech     - CNET](https://www.cnet.com/deals/upgrade-your-entertainment-setup-with-up-to-1000-off-a-select-samsung-tech/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MediaTek partners with Nvidia to add Nvidia&#39;s GPU chiplets and software to MediaTek SoCs used in automotive infotainment systems &lpar;Joseph White/Reuters&rpar;](http://www.techmeme.com/230529/p8#a230529p8)
+ - [RCS vs SMS: What’s the difference?](https://www.androidauthority.com/rcs-vs-sms-3330098/)
+ - [This rare deal on the Starlink satellite internet kit ends tonight](https://www.androidauthority.com/starlink-deal-3330186/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
