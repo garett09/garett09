@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whats happening to this world](http://9gag.com/gag/aBdGg4Z)
+ - 🚖 [He&#39;s probably supposed not to look as creepy as before but come on](http://9gag.com/gag/avQRzWd)
  - 🚯 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)
- - 🚯 [Never forget](http://9gag.com/gag/aKEe743)<!-- MEMES:END -->
+ - 🚯 [Big brain](http://9gag.com/gag/aL1mpRP)<!-- MEMES:END -->
 
 --- 
 
