@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The new norm around my neighbourhood in Tehran, Iran ... Islamic fascists are crying everywhere!](http://9gag.com/gag/aMEvEo1)
- - 🚯 [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)
- - 🚯 [S.t.i.c.k](http://9gag.com/gag/a6q2qee)<!-- MEMES:END -->
+ - 🚖 [What th\u2026.](http://9gag.com/gag/aVbLwMw)
+ - 🚯 [Bernoulli principle](http://9gag.com/gag/ajVZVGg)
+ - 🚯 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)<!-- MEMES:END -->
 
 --- 
 
