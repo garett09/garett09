@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
- - 🚯 [Never forget](http://9gag.com/gag/aKEe743)
- - 🚯 [What th\u2026.](http://9gag.com/gag/aVbLwMw)<!-- MEMES:END -->
+ - 🚖 [By far the best animation what addiction looks like](http://9gag.com/gag/aWGbxXZ)
+ - 🚯 [True love indeed](http://9gag.com/gag/aREorLG)
+ - 🚯 [It&#39;s about sending a message](http://9gag.com/gag/aQEZoAr)<!-- MEMES:END -->
 
 --- 
 
