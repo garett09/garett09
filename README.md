@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Indie Games That Are Bursting With Imagination](https://kotaku.com/steam-pc-best-indie-games-demo-youtube-trailer-1850485229)
- - [CD Projekt shoots down Sony acquisition rumor: &#39;We&#39;re not in such talks&#39;](https://www.pcgamer.com/cd-projekt-shoots-down-sony-acquisition-rumor-were-not-in-such-talks)
- - [The 10 best Blu-rays and 4K UHD releases of June 2023](https://www.polygon.com/23739053/best-bluray-4k-uhd-disc-review-june-2023)<!-- GAME:END -->
+ - [Lord Of The Rings CCG Will Include Diversity And Originality](https://kotaku.com/lord-of-the-rings-magic-the-gathering-card-game-wizards-1850485344)
+ - [Why did the PC gaming community learn to hate prebuilt computers?](https://www.pcgamer.com/why-did-the-pc-gaming-community-learn-to-hate-prebuilt-computers)
+ - [Darktide brings in the Chaos Spawn and two new levels](https://www.pcgamer.com/darktide-brings-in-the-chaos-spawn-and-two-new-levels)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
