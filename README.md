@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [British TV’s most badass cop is a pissed-off grandma](https://www.polygon.com/23737410/happy-valley-season-3-sarah-lancashire-catherine-cawood)
- - [9 Of The Most Fascinating Indie Games For Your Steam Wishlist](https://kotaku.com/steam-pc-demo-wishlist-indiegeddon-best-indie-games-1850484666)
- - [Command or conquer armies of Strogg in this ambitious Quake RTS mod](https://www.pcgamer.com/command-or-conquer-armies-of-strogg-in-this-ambitious-quake-rts-mod)<!-- GAME:END -->
+ - [How Alone in the Dark Brought David Harbour and Jodie Comer Together for the Return of the Survival Horror Classic](https://news.xbox.com/en-us/2023/05/29/alone-in-the-dark-david-harbour-jodie-comer/)
+ - [Nightdive on the System Shock remake: &#39;Even though we&#39;re changing and we&#39;re updating it, it&#39;s still part of the System Shock pedigree&#39;](https://www.pcgamer.com/nightdive-on-the-system-shock-remake-even-though-were-changing-and-were-updating-it-its-still-part-of-the-system-shock-pedigree)
+ - [Final Fantasy XVI Will Have Perfect Grapes](https://kotaku.com/final-fantasy-xvi-grapes-ui-square-enix-ps5-playstation-1850484802)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
