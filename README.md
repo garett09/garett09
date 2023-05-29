@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [By far the best animation what addiction looks like](http://9gag.com/gag/aWGbxXZ)
- - 🚯 [True love indeed](http://9gag.com/gag/aREorLG)
- - 🚯 [It&#39;s about sending a message](http://9gag.com/gag/aQEZoAr)<!-- MEMES:END -->
+ - 🚖 [There&#39;s trashy and then there&#39;s whatever the hell this is](http://9gag.com/gag/aOxP7O6)
+ - 🚯 [Quincy, you are a moron!](http://9gag.com/gag/aQEZ13r)
+ - 🚯 [You shall not play](http://9gag.com/gag/a2K27M9)<!-- MEMES:END -->
 
 --- 
 
