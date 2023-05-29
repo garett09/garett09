@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can confirm](http://9gag.com/gag/az2RM3j)
- - 🚯 [Skill issue](http://9gag.com/gag/aVbL71M)
- - 🚯 [Perhaps Smaug is just really inefficient at wealth generation](http://9gag.com/gag/axoRMKb)<!-- MEMES:END -->
+ - 🚖 [Perhaps Smaug is just really inefficient at wealth generation](http://9gag.com/gag/axoRMKb)
+ - 🚯 [Go back 15 years or become famous?\u2060\u2060](http://9gag.com/gag/a5X2oAE)
+ - 🚯 [Skill issue](http://9gag.com/gag/aVbL71M)<!-- MEMES:END -->
 
 --- 
 
