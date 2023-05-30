@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hehe](http://9gag.com/gag/aGEApBw)
- - 🚯 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
- - 🚯 [You shall not play](http://9gag.com/gag/a2K27M9)<!-- MEMES:END -->
+ - 🚖 [Finally Hans!](http://9gag.com/gag/a1P27O6)
+ - 🚯 [Iranian model went on the red carpet with a genius marketing tactic to draw attentions to executions going on in Iran!](http://9gag.com/gag/axoRoLW)
+ - 🚯 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)<!-- MEMES:END -->
 
 --- 
 
