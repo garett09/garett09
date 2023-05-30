@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to get bomb flowers in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742138/bomb-flower-locations-where-to-farm)
- - [The Most Unique Silent Hill In Years Just Got A Freaky New Trailer](https://kotaku.com/silent-hill-ascension-trailer-release-date-twitch-1850486480)
- - [Diablo 4 launch time: early access, full launch date, and preloading times](https://www.pcgamer.com/diablo-4-launch-date-unlock-time-preloading)<!-- GAME:END -->
+ - [3D print your own DDR5 &lpar;kinda&rpar; with Corsair&#39;s new Dominator kit](https://www.pcgamer.com/3d-print-your-own-ddr5-kinda-with-corsairs-new-dominator-kit)
+ - [Ratchet &amp; Clank: Rift Apart is coming to PC on July 26](https://blog.playstation.com/2023/05/30/ratchet-clank-rift-apart-is-coming-to-pc-on-july-26/)
+ - [MSI has tweaked the notorious 12-pin GPU power cable so it&#39;s more obvious when it&#39;s not properly plugged in](https://www.pcgamer.com/msi-has-tweaked-the-notorious-12-pin-gpu-power-cable-so-its-more-obvious-when-its-not-properly-plugged-in)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
