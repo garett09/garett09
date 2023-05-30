@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gollum&#39;s evolution...](http://9gag.com/gag/anzEzWo)
- - 🚯 [Spatial awareness 0/10](http://9gag.com/gag/avQR1yO)
- - 🚯 [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/adPeB5M)
+ - 🚯 [Iranian model went on the red carpet with a genius marketing tactic to draw attentions to executions going on in Iran!](http://9gag.com/gag/axoRoLW)
+ - 🚯 [Yes, i am lonely](http://9gag.com/gag/aMEvBD1)<!-- MEMES:END -->
 
 --- 
 
