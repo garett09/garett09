@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [While OpenAI has become more upfront about ChatGPT&#39;s limitations, the company should do more to make clear the bot can&#39;t reliably distinguish fact from fiction &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/230530/p25#a230530p25)
- - [Apple TV app and Apple TV+ are down for some users](https://appleinsider.com/articles/23/05/30/apple-tv-app-and-apple-tv-are-down-for-some-users?utm_medium=rss)
- - [HP reports Q2 revenue down 21.7% YoY to $12.91B, vs. $13.07B est., Personal Systems revenue down 29% YoY to $8.18B, and Printing revenue down 5% YoY to $4.74B &lpar;Reuters&rpar;](http://www.techmeme.com/230530/p24#a230530p24)<!-- TECH:END -->
+ - [Bitwarden vs LastPass: Which should you choose in 2023?](https://www.androidauthority.com/bitwarden-vs-lastpass-3330255/)
+ - [Apple TV app and Apple TV+ were down for two hours on Tuesday [u]](https://appleinsider.com/articles/23/05/30/apple-tv-app-and-apple-tv-are-down-for-some-users?utm_medium=rss)
+ - [The Pixel Watch 2 might kiss Samsung chips goodbye to improve battery](https://www.theverge.com/2023/5/30/23742793/pixel-watch-2-fitbit-sense-2-qualcomm-snapdragon-w5-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
