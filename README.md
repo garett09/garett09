@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney and Loungefly made wedding-friendly Cinderella gear](https://www.polygon.com/deals/23742690/cinderella-happily-ever-after-bridal-accessories-headband-backpack-bag-wallet-buy)
- - [How to earn Diablo 4 Twitch drop cosmetics](https://www.pcgamer.com/diablo-4-twitch-drops)
- - [Overwatch 2’s Pride Event Shows Blizzard&#39;s Trying To Do Better By Its Queer Community](https://kotaku.com/overwatch-2-pride-event-flag-midtown-baptiste-pharah-1850488282)<!-- GAME:END -->
+ - [2023 Already Has More Great Games Than 2022](https://kotaku.com/totk-review-scores-street-fighter-star-wars-metroid-1850488675)
+ - [Computex 2023: all the biggest stories from the Taiwan tech show](https://www.pcgamer.com/computex-2023-news)
+ - [9 Times The World&#39;s Most Famous GeoGuessr Player Pulled Off An Extra Wild Find](https://kotaku.com/geoguessr-google-maps-trevor-rainbolt-ice-spice-meme-1850484468)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
