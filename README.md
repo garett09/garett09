@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gulp gulp! Gulp gulp!](http://9gag.com/gag/a8q2AG1)
- - 🚯 [Well yes,but actuly no](http://9gag.com/gag/aXnWn86)
- - 🚯 [First time ?](http://9gag.com/gag/aBdGyzN)<!-- MEMES:END -->
+ - 🚖 [Meanwhile Netflix...](http://9gag.com/gag/aYVqobV)
+ - 🚯 [Training session](http://9gag.com/gag/aPgQ38n)
+ - 🚯 [Why are you geh](http://9gag.com/gag/aA02yzo)<!-- MEMES:END -->
 
 --- 
 
