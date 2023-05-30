@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dinner at a homeless shelter &lpar;Sioux City, IA&rpar;](http://9gag.com/gag/aZDj1xV)
- - 🚯 [A man who was never born had a son\u2026](http://9gag.com/gag/ay2R3MM)
- - 🚯 [Boom](http://9gag.com/gag/a9q2v5o)<!-- MEMES:END -->
+ - 🚖 [Long sigh](http://9gag.com/gag/aWGbpGZ)
+ - 🚯 [This proposal is cute at so many levels, at this moment you will know you truly are with the right person for the rest of your life](http://9gag.com/gag/aREoBd7)
+ - 🚯 [Yes, i am lonely](http://9gag.com/gag/aMEvBD1)<!-- MEMES:END -->
 
 --- 
 
