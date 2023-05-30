@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3D print your own DDR5 &lpar;kinda&rpar; with Corsair&#39;s new Dominator kit](https://www.pcgamer.com/3d-print-your-own-ddr5-kinda-with-corsairs-new-dominator-kit)
- - [Ratchet &amp; Clank: Rift Apart is coming to PC on July 26](https://blog.playstation.com/2023/05/30/ratchet-clank-rift-apart-is-coming-to-pc-on-july-26/)
- - [MSI has tweaked the notorious 12-pin GPU power cable so it&#39;s more obvious when it&#39;s not properly plugged in](https://www.pcgamer.com/msi-has-tweaked-the-notorious-12-pin-gpu-power-cable-so-its-more-obvious-when-its-not-properly-plugged-in)<!-- GAME:END -->
+ - [Game Pass Will Get This Highly Anticipated Horror Game Day One](https://kotaku.com/xbox-game-pass-free-june-2023-new-amnesia-pc-series-x-1850487023)
+ - [Diablo IV Interview&#39;s Questions From &#39;Fans&#39; Are Very Questionable [Update]](https://kotaku.com/diablo-iv-blizzard-interview-qa-questions-beta-release-1850485762)
+ - [Diablo 4 guide: Everything you need to survive Sanctuary](https://www.pcgamer.com/diablo-4-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
