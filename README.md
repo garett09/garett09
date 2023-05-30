@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Long sigh](http://9gag.com/gag/aWGbpGZ)
- - 🚯 [This proposal is cute at so many levels, at this moment you will know you truly are with the right person for the rest of your life](http://9gag.com/gag/aREoBd7)
- - 🚯 [Yes, i am lonely](http://9gag.com/gag/aMEvBD1)<!-- MEMES:END -->
+ - 🚖 [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
+ - 🚯 [It&#39;s called luck](http://9gag.com/gag/aYVqO3m)
+ - 🚯 [Dinner at a homeless shelter &lpar;Sioux City, IA&rpar;](http://9gag.com/gag/aZDj1xV)<!-- MEMES:END -->
 
 --- 
 
