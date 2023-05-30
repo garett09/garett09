@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
- - 🚯 [It&#39;s called luck](http://9gag.com/gag/aYVqO3m)
- - 🚯 [Dinner at a homeless shelter &lpar;Sioux City, IA&rpar;](http://9gag.com/gag/aZDj1xV)<!-- MEMES:END -->
+ - 🚖 [You can tell he was really okay taking a picture with me\u2026.even though I was there for disciplinary reasons.](http://9gag.com/gag/aWGb71d)
+ - 🚯 [Wholesome](http://9gag.com/gag/a4o2zD6)
+ - 🚯 [Wtf is even this](http://9gag.com/gag/aPgQPKP)<!-- MEMES:END -->
 
 --- 
 
