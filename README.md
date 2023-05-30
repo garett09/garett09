@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Princess Zelda Kidnapped?!’ side adventure in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742326/princess-zelda-kidnapped-quest-steps-walkthrough-totk)
- - [Overwatch 2 is having an in-game Pride event for the first time: &#39;We&#39;re here to be authentic to these characters and true to them for Pride&#39;](https://www.pcgamer.com/overwatch-2-is-having-an-in-game-pride-event-for-the-first-time-were-here-to-be-authentic-to-these-characters-and-true-to-them-for-pride)
- - [Overwatch 2’s first Pride event launches June 1](https://www.polygon.com/23742104/overwatch-2-pride-event-dates-cosmetics)<!-- GAME:END -->
+ - [Diamond locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728377/diamond-locations-how-get)
+ - [The Metal Gear Solid 3 Remake Is Real And Coming To PS5 [Update]](https://kotaku.com/metal-gear-solid-3-snake-eater-ps5-cynthia-harrell-1850471638)
+ - [Stamina recipes, elixirs, and food in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23729923/stamina-food-elixirs-enduring-energizing-recipes-endura)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
