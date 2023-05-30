@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a joke](http://9gag.com/gag/a8q2mVV)
- - 🚯 [Boom](http://9gag.com/gag/a9q2v5o)
- - 🚯 [Evolution of Ariana Grande](http://9gag.com/gag/a6q29gm)<!-- MEMES:END -->
+ - 🚖 [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)
+ - 🚯 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
+ - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
 
 --- 
 
