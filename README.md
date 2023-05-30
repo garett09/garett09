@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fintech Unicorn Revolut Needs a Plan B](https://www.wired.com/story/fintech-unicorn-revolut-needs-a-plan-b/)
- - [Molly White Tracks Crypto Scams. It’s Going Just Great](https://www.wired.com/story/molly-white-crypto-scams/)
- - [JioCinema breaks the global record for the most concurrent views to a live-streamed event with 33M+ viewers for the May 29 IPL final, surpassing Hotstar&#39;s 25.3M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230530/p2#a230530p2)<!-- TECH:END -->
+ - [Street Fighter 6 is worth it for the brilliant new campaign alone](https://www.theverge.com/23741204/street-fighter-6-review-ps5-xbox-pc)
+ - [Yamaha YH-E700B Review: Awkward Flagship Headphones](https://www.wired.com/review/yamaha-yh-e700b/)
+ - [How the US is increasingly reshaping the spyware market to favor companies selling cyberweapons to the US and its allies, like Israeli startup Paragon Solutions &lpar;Financial Times&rpar;](http://www.techmeme.com/230530/p3#a230530p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
