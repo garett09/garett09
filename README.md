@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian teases its next-generation R2 SUV that’s smaller than the R1S](https://www.theverge.com/2023/5/30/23742371/rivian-r2-suv-teaser-q-and-a)
- - [The future of podcasts is getting written in print](https://www.theverge.com/2023/5/30/23742756/good-tape-magazine-dane-cardiel-alana-hope-levinson-podcasts)
- - [Google Pixel Watch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-watch-2-release-date-rumors-price-specs-3289475/)<!-- TECH:END -->
+ - [Nintendo Switch 2: Everything we know so far and what we want to see](https://www.androidauthority.com/nintendo-switch-2-release-date-rumors-specs-features-price-3301160/)
+ - [HPE reports Q2 revenue up 4% YoY to $7B, vs. $7.3B est., HPC &amp; AI revenue up 18% YoY to $840M, and Intelligent Edge revenue up 50% YoY to $1.3B &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/230530/p23#a230530p23)
+ - [The Metal Gear Solid 3 remake will reuse the original game’s voice lines — with no changes](https://www.theverge.com/2023/5/30/23742786/metal-gear-solid-delta-3-snake-eater-remake-voice-actors-no-changes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
