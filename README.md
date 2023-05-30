@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
- - [A viral clip from Nintendo&#39;s Tears of the Kingdom shows Link unfurling a bridge, wowing game developers; Nintendo reportedly spent a year polishing the game &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/230530/p11#a230530p11)
- - [How to Polish Your LinkedIn Profile](https://www.wired.com/story/how-to-polish-improve-linkedin-profile/)<!-- TECH:END -->
+ - [Apple&#39;s AirPods could have shipped in iPhone colors](https://appleinsider.com/articles/23/05/30/apples-airpods-could-have-shipped-in-iphone-colors?utm_medium=rss)
+ - [Motorola launches the Moto G Stylus 5G &lpar;2023&rpar; with a new camera setup](https://www.androidauthority.com/motorola-moto-g-stylus-5g-2023-launch-3329747/)
+ - [Motorola’s third Moto G Stylus 5G might be the charm](https://www.theverge.com/2023/5/30/23738907/motorola-g-stylus-5g-2023-specs-price-screen-camera)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
