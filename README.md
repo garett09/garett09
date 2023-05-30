@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/adPeB5M)
- - 🚯 [Iranian model went on the red carpet with a genius marketing tactic to draw attentions to executions going on in Iran!](http://9gag.com/gag/axoRoLW)
- - 🚯 [Yes, i am lonely](http://9gag.com/gag/aMEvBD1)<!-- MEMES:END -->
+ - 🚖 [Dinner at a homeless shelter &lpar;Sioux City, IA&rpar;](http://9gag.com/gag/aZDj1xV)
+ - 🚯 [A man who was never born had a son\u2026](http://9gag.com/gag/ay2R3MM)
+ - 🚯 [Boom](http://9gag.com/gag/a9q2v5o)<!-- MEMES:END -->
 
 --- 
 
