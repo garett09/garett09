@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analyst Ross Young says Apple&#39;s headset will have two 1.41&quot; Micro OLED displays at 5000+ nits of brightness, a 4000:1 contrast ratio, and &quot;should be 4K per eye&quot; &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/230530/p21#a230530p21)
- - [Apple&#39;s Lisa entombment was just the beginning, shows new documentary](https://appleinsider.com/articles/23/05/30/apples-lisa-entombment-was-just-the-beginning-shows-new-documentary?utm_medium=rss)
- - [New watchOS 9.5.1 update includes bug fixes &amp; improvements](https://appleinsider.com/articles/23/05/30/new-watchos-951-update-includes-bug-fixes-improvements?utm_medium=rss)<!-- TECH:END -->
+ - [B&amp;H slashes Apple computer prices by up to $1,400 ahead of WWDC](https://appleinsider.com/articles/23/05/30/bh-slashes-apple-computer-prices-by-up-to-1400-ahead-of-wwdc?utm_medium=rss)
+ - [Pixel Watch 2 could ditch Exynos for Snapdragon and gain more battery life](https://www.androidauthority.com/pixel-watch-2-battery-life-3330472/)
+ - [Onyx Boox Tab Ultra C e-ink tablet review: good for what it is, but it still isn&#39;t an iPad](https://appleinsider.com/articles/23/05/30/onyx-boox-tab-ultra-c-e-ink-tablet-review-good-for-what-it-is-but-it-still-isnt-an-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
