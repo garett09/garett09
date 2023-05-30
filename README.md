@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hehe](http://9gag.com/gag/aGEApBw)
- - 🚯 [Oh thank g-ahhh wtf](http://9gag.com/gag/a3Z25We)
- - 🚯 [People like this shouldn&#39;t drive.](http://9gag.com/gag/a3Z25Lv)<!-- MEMES:END -->
+ - 🚖 [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
+ - 🚯 [Incredible.](http://9gag.com/gag/awZdyp8)
+ - 🚯 [Lol](http://9gag.com/gag/adPeB5M)<!-- MEMES:END -->
 
 --- 
 
