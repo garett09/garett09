@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store&#39;s &#39;xrOS&#39; awareness is the latest hint of WWDC headset launch](https://appleinsider.com/articles/23/05/30/app-stores-xros-awareness-is-the-latest-hint-of-wwdc-headset-launch?utm_medium=rss)
- - [Apple tells developers to &#39;Code new worlds&#39; in WWDC email](https://appleinsider.com/articles/23/05/30/apple-tells-developers-to-code-new-worlds-in-wwdc-email?utm_medium=rss)
- - [The best Memorial Day deals you can still get](https://www.theverge.com/23732203/best-memorial-day-sales-2023-tech-deals-laptops-tvs-earbuds-apple-electronics)<!-- TECH:END -->
+ - [Analyst Ross Young says Apple&#39;s headset will have two 1.41&quot; Micro OLED displays at 5000+ nits of brightness, a 4000:1 contrast ratio, and &quot;should be 4K per eye&quot; &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/230530/p21#a230530p21)
+ - [Apple&#39;s Lisa entombment was just the beginning, shows new documentary](https://appleinsider.com/articles/23/05/30/apples-lisa-entombment-was-just-the-beginning-shows-new-documentary?utm_medium=rss)
+ - [New watchOS 9.5.1 update includes bug fixes &amp; improvements](https://appleinsider.com/articles/23/05/30/new-watchos-951-update-includes-bug-fixes-improvements?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
