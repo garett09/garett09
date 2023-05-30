@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)
- - 🚯 [People like this shouldn&#39;t drive.](http://9gag.com/gag/a3Z25Lv)
- - 🚯 [You shall not play](http://9gag.com/gag/a2K27M9)<!-- MEMES:END -->
+ - 🚖 [The audacity of adding in that last sentence.](http://9gag.com/gag/ap9bgnp)
+ - 🚯 [Training session](http://9gag.com/gag/aPgQ38n)
+ - 🚯 [Spatial awareness 0/10](http://9gag.com/gag/avQR1yO)<!-- MEMES:END -->
 
 --- 
 
