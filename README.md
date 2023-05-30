@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CCData: trading on Gemini dropped ~50% YoY to ~$747M in April; Kaiko says trading fell 46% in January to April from September to December, ~6x Coinbase&#39;s drop &lpar;Bloomberg&rpar;](http://www.techmeme.com/230530/p5#a230530p5)
- - [Apple’s original cloud photo sync service shuts down this summer](https://www.theverge.com/2023/5/30/23741976/apple-my-photo-stream-discontinued-july-2023)
- - [France and Germany dominate the EU&#39;s tech regulation, rarely taking input from the bloc&#39;s smaller tech-oriented members, which worry about hampering innovation &lpar;Politico&rpar;](http://www.techmeme.com/230530/p4#a230530p4)<!-- TECH:END -->
+ - [It’s the Age of Ozempic. Do We Need Weight Watchers Anymore?](https://www.wired.com/story/sima-sistani-weight-watchers-big-interview/)
+ - [Microsoft fixes Surface Pro X cameras that stopped working](https://www.theverge.com/2023/5/30/23741995/microsoft-surface-pro-x-camera-fix-update)
+ - [OpenAI and DeepMind executives, Geoffrey Hinton, and over 350 others release a statement saying mitigating AI extinction risks &quot;should be a global priority&quot; &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230530/p6#a230530p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
