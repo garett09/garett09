@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hyte has officially won my best name of Computex prize with the THICC AIO cooler](https://www.pcgamer.com/hyte-has-officially-won-my-best-name-of-computex-prize-with-the-thicc-aio-cooler)
- - [MSI prototypes for the future of graphics card cooling look impressive and expensive](https://www.pcgamer.com/msi-prototypes-for-the-future-of-graphics-card-cooling-look-impressive-and-expensive)
- - [Former DICE dev says Battlefield 2042 had a hard deadline and &#39;never stood much chance being great at launch&#39;](https://www.pcgamer.com/former-dice-dev-says-battlefield-2042-had-a-hard-deadline-and-never-stood-much-chance-being-great-at-launch)<!-- GAME:END -->
+ - [The ultimate McDonald&#39;s tie-in toy has arrived, a McNugget that plays Tetris](https://www.pcgamer.com/the-ultimate-mcdonalds-tie-in-toy-has-arrived-a-mcnugget-that-plays-tetris)
+ - [MSI&#39;s new line of Gaming X Slim graphics cards has made me irrationally angry](https://www.pcgamer.com/msis-new-line-of-gaming-x-slim-graphics-cards-has-made-me-irrationally-angry)
+ - [After a full Computex day in 32 degree heat I&#39;ve never been happier to sit in a gaming chair with a fan in the backrest](https://www.pcgamer.com/after-a-full-computex-day-in-32-degree-heat-ive-never-been-happier-to-sit-in-a-gaming-chair-with-a-fan-in-the-backrest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
