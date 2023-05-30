@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s the Age of Ozempic. Do We Need Weight Watchers Anymore?](https://www.wired.com/story/sima-sistani-weight-watchers-big-interview/)
- - [Microsoft fixes Surface Pro X cameras that stopped working](https://www.theverge.com/2023/5/30/23741995/microsoft-surface-pro-x-camera-fix-update)
- - [OpenAI and DeepMind executives, Geoffrey Hinton, and over 350 others release a statement saying mitigating AI extinction risks &quot;should be a global priority&quot; &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/230530/p6#a230530p6)<!-- TECH:END -->
+ - [Urbanista Phoenix review: AirPods Pro alternative that never stop charging](https://appleinsider.com/articles/23/05/30/urbanista-phoenix-review-airpods-pro-alternative-that-never-stop-charging?utm_medium=rss)
+ - [Microsoft issues a temporary fix for Surface Pro X tablets after the devices&#39; cameras stopped working last week, most likely due to a faulty Qualcomm driver &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230530/p9#a230530p9)
+ - [For Some Autistic People, ChatGPT Is a Lifeline](https://www.wired.com/story/for-some-autistic-people-chatgpt-is-a-lifeline/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
