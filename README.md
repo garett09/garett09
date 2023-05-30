@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bend Studio celebrates its 30th anniversary with new official merchandise](https://blog.playstation.com/2023/05/30/bend-studio-celebrates-its-30th-anniversary-with-new-official-merchandise/)
- - [Coming Soon to Xbox Game Pass: Amnesia: The Bunker, Car Mechanic Simulator 2021, Dordogne, and More](https://news.xbox.com/en-us/2023/05/30/game-pass-june-2023-wave-1-announce/)
- - [Ticket To Ride: Legends of the West is a legacy board game served family-style](https://www.polygon.com/tabletop-games/23739222/ticket-ride-legends-west-daviau-leacock-moon-interview)<!-- GAME:END -->
+ - [Where to get bomb flowers in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742138/bomb-flower-locations-where-to-farm)
+ - [The Most Unique Silent Hill In Years Just Got A Freaky New Trailer](https://kotaku.com/silent-hill-ascension-trailer-release-date-twitch-1850486480)
+ - [Diablo 4 launch time: early access, full launch date, and preloading times](https://www.pcgamer.com/diablo-4-launch-date-unlock-time-preloading)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
