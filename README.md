@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can tell he was really okay taking a picture with me\u2026.even though I was there for disciplinary reasons.](http://9gag.com/gag/aWGb71d)
- - 🚯 [Wholesome](http://9gag.com/gag/a4o2zD6)
- - 🚯 [Wtf is even this](http://9gag.com/gag/aPgQPKP)<!-- MEMES:END -->
+ - 🚖 [Oh thank g-ahhh wtf](http://9gag.com/gag/a3Z25We)
+ - 🚯 [We Coolin\u2019](http://9gag.com/gag/a8q27Le)
+ - 🚯 [Since 20 years](http://9gag.com/gag/ap9b1nE)<!-- MEMES:END -->
 
 --- 
 
