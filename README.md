@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Street Fighter 6 is worth it for the brilliant new campaign alone](https://www.theverge.com/23741204/street-fighter-6-review-ps5-xbox-pc)
- - [Yamaha YH-E700B Review: Awkward Flagship Headphones](https://www.wired.com/review/yamaha-yh-e700b/)
- - [How the US is increasingly reshaping the spyware market to favor companies selling cyberweapons to the US and its allies, like Israeli startup Paragon Solutions &lpar;Financial Times&rpar;](http://www.techmeme.com/230530/p3#a230530p3)<!-- TECH:END -->
+ - [France and Germany dominate the EU&#39;s tech regulation, rarely taking input from the bloc&#39;s smaller tech-oriented members, which worry about hampering innovation &lpar;Politico&rpar;](http://www.techmeme.com/230530/p4#a230530p4)
+ - [These were the most popular flagship phones in Q1](https://www.androidauthority.com/top-flagship-phones-q1-2023-3330334/)
+ - [Street Fighter 6 is worth it for the brilliant new campaign alone](https://www.theverge.com/23741204/street-fighter-6-review-ps5-xbox-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
