@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Urbanista Phoenix review: AirPods Pro alternative that never stop charging](https://appleinsider.com/articles/23/05/30/urbanista-phoenix-review-airpods-pro-alternative-that-never-stop-charging?utm_medium=rss)
- - [Microsoft issues a temporary fix for Surface Pro X tablets after the devices&#39; cameras stopped working last week, most likely due to a faulty Qualcomm driver &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230530/p9#a230530p9)
- - [For Some Autistic People, ChatGPT Is a Lifeline](https://www.wired.com/story/for-some-autistic-people-chatgpt-is-a-lifeline/)<!-- TECH:END -->
+ - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
+ - [A viral clip from Nintendo&#39;s Tears of the Kingdom shows Link unfurling a bridge, wowing game developers; Nintendo reportedly spent a year polishing the game &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/230530/p11#a230530p11)
+ - [How to Polish Your LinkedIn Profile](https://www.wired.com/story/how-to-polish-improve-linkedin-profile/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
