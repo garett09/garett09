@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf is even this](http://9gag.com/gag/aPgQPKP)
- - 🚯 [Boom](http://9gag.com/gag/a9q2v5o)
- - 🚯 [Just a joke](http://9gag.com/gag/a8q2mVV)<!-- MEMES:END -->
+ - 🚖 [Oh thank g-ahhh wtf](http://9gag.com/gag/a3Z25We)
+ - 🚯 [We Coolin\u2019](http://9gag.com/gag/a8q27Le)
+ - 🚯 [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)<!-- MEMES:END -->
 
 --- 
 
