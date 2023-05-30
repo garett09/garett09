@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2023 Already Has More Great Games Than 2022](https://kotaku.com/totk-review-scores-street-fighter-star-wars-metroid-1850488675)
- - [Computex 2023: all the biggest stories from the Taiwan tech show](https://www.pcgamer.com/computex-2023-news)
- - [9 Times The World&#39;s Most Famous GeoGuessr Player Pulled Off An Extra Wild Find](https://kotaku.com/geoguessr-google-maps-trevor-rainbolt-ice-spice-meme-1850484468)<!-- GAME:END -->
+ - [How to get the Wind Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742361/wind-armor-location-head-chest-legs)
+ - [How to get the Hero Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742349/hero-armor-location-head-chest-legs)
+ - [The Week In Games: System Shock, Street Fighter 6, And More](https://kotaku.com/may-game-releases-out-this-week-sf6-system-shock-1850488533)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
