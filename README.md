@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2023 Father’s Day Gift Guide](https://www.theverge.com/23728679/best-fathers-day2023-best-gifts-dad-unique-ideas-tech)
- - [Lisa’s Final Act: how Apple invented its future by burying its past](https://www.theverge.com/23724804/lisa-computer-apple-steve-jobs-burial-utah-sun-remarketing-documentary)
- - [Runaway AI Is an Extinction Risk, Experts Warn](https://www.wired.com/story/runaway-ai-extinction-statement/)<!-- TECH:END -->
+ - [The New York Times’ push into games meant a major change for its crosswords app](https://www.theverge.com/2023/5/30/23738694/new-york-times-crosswords-games-app-wordle-spelling-bee)
+ - [Nvidia is now a $1 trillion company thanks to the AI boom](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)
+ - [Deals: MacBook Pro 14 $1,749, Nike Apple Watch SE $149, iPad $269, 12.9&quot; iPad Pro $999 &amp; more](https://appleinsider.com/articles/23/05/30/deals-macbook-pro-14-1749-nike-apple-watch-se-149-ipad-269-129-ipad-pro-999-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
