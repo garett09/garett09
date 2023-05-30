@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The audacity of adding in that last sentence.](http://9gag.com/gag/ap9bgnp)
- - 🚯 [Training session](http://9gag.com/gag/aPgQ38n)
- - 🚯 [Spatial awareness 0/10](http://9gag.com/gag/avQR1yO)<!-- MEMES:END -->
+ - 🚖 [Make shows like these instead of butchering other cultures](http://9gag.com/gag/a4o2PxQ)
+ - 🚯 [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
+ - 🚯 [Incredible.](http://9gag.com/gag/awZdyp8)<!-- MEMES:END -->
 
 --- 
 
