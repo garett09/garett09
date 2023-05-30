@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The New York Times’ push into games meant a major change for its crosswords app](https://www.theverge.com/2023/5/30/23738694/new-york-times-crosswords-games-app-wordle-spelling-bee)
- - [Nvidia is now a $1 trillion company thanks to the AI boom](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)
- - [Deals: MacBook Pro 14 $1,749, Nike Apple Watch SE $149, iPad $269, 12.9&quot; iPad Pro $999 &amp; more](https://appleinsider.com/articles/23/05/30/deals-macbook-pro-14-1749-nike-apple-watch-se-149-ipad-269-129-ipad-pro-999-more?utm_medium=rss)<!-- TECH:END -->
+ - [App Store&#39;s &#39;xrOS&#39; awareness is the latest hint of WWDC headset launch](https://appleinsider.com/articles/23/05/30/app-stores-xros-awareness-is-the-latest-hint-of-wwdc-headset-launch?utm_medium=rss)
+ - [League of Legends esports players voted ‘overwhelmingly’ for a walkout](https://www.theverge.com/2023/5/29/23741567/league-of-legends-players-association-lcspa-walkout)
+ - [WWDC 2023: all the news from Apple’s Worldwide Developers Conference](https://www.theverge.com/23726938/apple-wwdc-2023-news-rumors-announcements-vr-headset)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
