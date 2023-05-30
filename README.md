@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Will Get This Highly Anticipated Horror Game Day One](https://kotaku.com/xbox-game-pass-free-june-2023-new-amnesia-pc-series-x-1850487023)
- - [Diablo IV Interview&#39;s Questions From &#39;Fans&#39; Are Very Questionable [Update]](https://kotaku.com/diablo-iv-blizzard-interview-qa-questions-beta-release-1850485762)
- - [Diablo 4 guide: Everything you need to survive Sanctuary](https://www.pcgamer.com/diablo-4-guide)<!-- GAME:END -->
+ - [The Sims 4 Addresses Xbox Fan Feedback](https://news.xbox.com/en-us/2023/05/30/the-sims-4-xbox-buttons/)
+ - [In A Series First, Ratchet &amp; Clank: Rift Apart Is Coming To PC](https://kotaku.com/ratchet-and-clank-rift-apart-pc-steam-graphics-ps5-sony-1850487360)
+ - [How to find the Apapes Lightroot in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742307/apapes-lightroot-depths-location-how-to-find)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
