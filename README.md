@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fentanyl + Xylazine = Resident Evil in rl](http://9gag.com/gag/aeQmAmm)
- - 🚯 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
- - 🚯 [The audacity of adding in that last sentence.](http://9gag.com/gag/ap9bgnp)<!-- MEMES:END -->
+ - 🚖 [Hehe](http://9gag.com/gag/aGEApBw)
+ - 🚯 [Oh thank g-ahhh wtf](http://9gag.com/gag/a3Z25We)
+ - 🚯 [People like this shouldn&#39;t drive.](http://9gag.com/gag/a3Z25Lv)<!-- MEMES:END -->
 
 --- 
 
