@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 Addresses Xbox Fan Feedback](https://news.xbox.com/en-us/2023/05/30/the-sims-4-xbox-buttons/)
- - [In A Series First, Ratchet &amp; Clank: Rift Apart Is Coming To PC](https://kotaku.com/ratchet-and-clank-rift-apart-pc-steam-graphics-ps5-sony-1850487360)
- - [How to find the Apapes Lightroot in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742307/apapes-lightroot-depths-location-how-to-find)<!-- GAME:END -->
+ - [‘Princess Zelda Kidnapped?!’ side adventure in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742326/princess-zelda-kidnapped-quest-steps-walkthrough-totk)
+ - [Overwatch 2 is having an in-game Pride event for the first time: &#39;We&#39;re here to be authentic to these characters and true to them for Pride&#39;](https://www.pcgamer.com/overwatch-2-is-having-an-in-game-pride-event-for-the-first-time-were-here-to-be-authentic-to-these-characters-and-true-to-them-for-pride)
+ - [Overwatch 2’s first Pride event launches June 1](https://www.polygon.com/23742104/overwatch-2-pride-event-dates-cosmetics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
