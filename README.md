@@ -141,8 +141,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [App Store&#39;s &#39;xrOS&#39; awareness is the latest hint of WWDC headset launch](https://appleinsider.com/articles/23/05/30/app-stores-xros-awareness-is-the-latest-hint-of-wwdc-headset-launch?utm_medium=rss)
- - [League of Legends esports players voted ‘overwhelmingly’ for a walkout](https://www.theverge.com/2023/5/29/23741567/league-of-legends-players-association-lcspa-walkout)
- - [WWDC 2023: all the news from Apple’s Worldwide Developers Conference](https://www.theverge.com/23726938/apple-wwdc-2023-news-rumors-announcements-vr-headset)<!-- TECH:END -->
+ - [Apple tells developers to &#39;Code new worlds&#39; in WWDC email](https://appleinsider.com/articles/23/05/30/apple-tells-developers-to-code-new-worlds-in-wwdc-email?utm_medium=rss)
+ - [The best Memorial Day deals you can still get](https://www.theverge.com/23732203/best-memorial-day-sales-2023-tech-deals-laptops-tvs-earbuds-apple-electronics)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
