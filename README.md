@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Houndour be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23698077/can-houndour-be-shiny-houndoom)
- - [Street Fighter 6 is the ultimate fighting game toolbox](https://www.polygon.com/reviews/23739302/street-fighter-6-review-release-date-characters-ps5-xbox-pc)
- - [Street Fighter 6: The Kotaku Review](https://kotaku.com/street-fighter-6-review-world-tour-story-mode-roster-1850481281)<!-- GAME:END -->
+ - [Hyte has officially won my best name of Computex prize with the THICC AIO cooler](https://www.pcgamer.com/hyte-has-officially-won-my-best-name-of-computex-prize-with-the-thicc-aio-cooler)
+ - [MSI prototypes for the future of graphics card cooling look impressive and expensive](https://www.pcgamer.com/msi-prototypes-for-the-future-of-graphics-card-cooling-look-impressive-and-expensive)
+ - [Former DICE dev says Battlefield 2042 had a hard deadline and &#39;never stood much chance being great at launch&#39;](https://www.pcgamer.com/former-dice-dev-says-battlefield-2042-had-a-hard-deadline-and-never-stood-much-chance-being-great-at-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
