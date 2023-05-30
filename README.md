@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diamond locations in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23728377/diamond-locations-how-get)
- - [The Metal Gear Solid 3 Remake Is Real And Coming To PS5 [Update]](https://kotaku.com/metal-gear-solid-3-snake-eater-ps5-cynthia-harrell-1850471638)
- - [Stamina recipes, elixirs, and food in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23729923/stamina-food-elixirs-enduring-energizing-recipes-endura)<!-- GAME:END -->
+ - [Overwatch 2’s Pride Event Shows Blizzard&#39;s Trying To Do Better By Its Queer Community](https://kotaku.com/overwatch-2-pride-event-flag-midtown-baptiste-pharah-1850488282)
+ - [Pokémon’s next Squishmallows include Piplup, Pikachu](https://www.polygon.com/pokemon/23742784/pokemon-squishmallows-news-piplup-winking-pikachu)
+ - [A lot of Diablo fans got really mad about Blizzard&#39;s &#39;Hardcode Mode&#39; statue contest](https://www.pcgamer.com/a-lot-of-diablo-fans-got-really-mad-about-blizzards-hardcode-mode-statue-contest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
