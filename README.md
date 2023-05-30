@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s Pride Event Shows Blizzard&#39;s Trying To Do Better By Its Queer Community](https://kotaku.com/overwatch-2-pride-event-flag-midtown-baptiste-pharah-1850488282)
- - [Pokémon’s next Squishmallows include Piplup, Pikachu](https://www.polygon.com/pokemon/23742784/pokemon-squishmallows-news-piplup-winking-pikachu)
- - [A lot of Diablo fans got really mad about Blizzard&#39;s &#39;Hardcode Mode&#39; statue contest](https://www.pcgamer.com/a-lot-of-diablo-fans-got-really-mad-about-blizzards-hardcode-mode-statue-contest)<!-- GAME:END -->
+ - [Disney and Loungefly made wedding-friendly Cinderella gear](https://www.polygon.com/deals/23742690/cinderella-happily-ever-after-bridal-accessories-headband-backpack-bag-wallet-buy)
+ - [How to earn Diablo 4 Twitch drop cosmetics](https://www.pcgamer.com/diablo-4-twitch-drops)
+ - [Overwatch 2’s Pride Event Shows Blizzard&#39;s Trying To Do Better By Its Queer Community](https://kotaku.com/overwatch-2-pride-event-flag-midtown-baptiste-pharah-1850488282)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
