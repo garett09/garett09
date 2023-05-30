@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s trashy and then there&#39;s whatever the hell this is](http://9gag.com/gag/aOxP7O6)
- - 🚯 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)
- - 🚯 [Meanwhile Netflix...](http://9gag.com/gag/aYVqobV)<!-- MEMES:END -->
+ - 🚖 [Big brain](http://9gag.com/gag/aL1mpRP)
+ - 🚯 [Every country needs an armpit or two](http://9gag.com/gag/ay2Rqjb)
+ - 🚯 [Almost crashed 2 times during test drive. Salesman: perfetto \ud83d\udc4d\ud83c\udffb](http://9gag.com/gag/adPeg6N)<!-- MEMES:END -->
 
 --- 
 
