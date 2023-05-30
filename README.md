@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The ultimate McDonald&#39;s tie-in toy has arrived, a McNugget that plays Tetris](https://www.pcgamer.com/the-ultimate-mcdonalds-tie-in-toy-has-arrived-a-mcnugget-that-plays-tetris)
- - [MSI&#39;s new line of Gaming X Slim graphics cards has made me irrationally angry](https://www.pcgamer.com/msis-new-line-of-gaming-x-slim-graphics-cards-has-made-me-irrationally-angry)
- - [After a full Computex day in 32 degree heat I&#39;ve never been happier to sit in a gaming chair with a fan in the backrest](https://www.pcgamer.com/after-a-full-computex-day-in-32-degree-heat-ive-never-been-happier-to-sit-in-a-gaming-chair-with-a-fan-in-the-backrest)<!-- GAME:END -->
+ - [Bend Studio celebrates its 30th anniversary with new official merchandise](https://blog.playstation.com/2023/05/30/bend-studio-celebrates-its-30th-anniversary-with-new-official-merchandise/)
+ - [Coming Soon to Xbox Game Pass: Amnesia: The Bunker, Car Mechanic Simulator 2021, Dordogne, and More](https://news.xbox.com/en-us/2023/05/30/game-pass-june-2023-wave-1-announce/)
+ - [Ticket To Ride: Legends of the West is a legacy board game served family-style](https://www.polygon.com/tabletop-games/23739222/ticket-ride-legends-west-daviau-leacock-moon-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
