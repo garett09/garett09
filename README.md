@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should Mods Be Paid For? Not In Valheim](https://kotaku.com/valheim-mods-pc-patreon-cost-free-steam-iron-gate-1850485632)
- - [More than a year after launching into early access, the &#39;tiny MMO&#39; Book of Travels is just about ready to starting releasing new content](https://www.pcgamer.com/more-than-a-year-after-launching-into-early-access-the-tiny-mmo-book-of-travels-is-just-about-ready-to-starting-releasing-new-content)
- - [Here&#39;s a fascinating video about robotic mice solving mazes](https://www.pcgamer.com/heres-a-fascinating-video-about-robotic-mice-solving-mazes)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Days of Play 2023 sale kicks off on June 2](https://blog.playstation.com/2023/05/29/20230529-dop/)
+ - [That Is An Excellent Portable Computer Design](https://kotaku.com/timur-kvasov-concept-art-illustration-tencent-call-duty-1850485824)
+ - [&lpar;For Southeast Asia&rpar; Backbone One – PlayStation Edition launches on Android today](https://blog.playstation.com/2023/05/29/20230529-backbone/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
