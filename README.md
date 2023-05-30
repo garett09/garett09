@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
- - 🚯 [Incredible.](http://9gag.com/gag/awZdyp8)
- - 🚯 [Lol](http://9gag.com/gag/adPeB5M)<!-- MEMES:END -->
+ - 🚖 [Gollum&#39;s evolution...](http://9gag.com/gag/anzEzWo)
+ - 🚯 [Spatial awareness 0/10](http://9gag.com/gag/avQR1yO)
+ - 🚯 [Throwback to 15 years ago when a lady paid someone for the first spot in line to buy $100k worth of new iphones to resale on ebay, but didn&#39;t read the disclaimer from the store lol.](http://9gag.com/gag/aoKLgpm)<!-- MEMES:END -->
 
 --- 
 
