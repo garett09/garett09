@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [France and Germany dominate the EU&#39;s tech regulation, rarely taking input from the bloc&#39;s smaller tech-oriented members, which worry about hampering innovation &lpar;Politico&rpar;](http://www.techmeme.com/230530/p4#a230530p4)
- - [These were the most popular flagship phones in Q1](https://www.androidauthority.com/top-flagship-phones-q1-2023-3330334/)
- - [Street Fighter 6 is worth it for the brilliant new campaign alone](https://www.theverge.com/23741204/street-fighter-6-review-ps5-xbox-pc)<!-- TECH:END -->
+ - [CCData: trading on Gemini dropped ~50% YoY to ~$747M in April; Kaiko says trading fell 46% in January to April from September to December, ~6x Coinbase&#39;s drop &lpar;Bloomberg&rpar;](http://www.techmeme.com/230530/p5#a230530p5)
+ - [Apple’s original cloud photo sync service shuts down this summer](https://www.theverge.com/2023/5/30/23741976/apple-my-photo-stream-discontinued-july-2023)
+ - [France and Germany dominate the EU&#39;s tech regulation, rarely taking input from the bloc&#39;s smaller tech-oriented members, which worry about hampering innovation &lpar;Politico&rpar;](http://www.techmeme.com/230530/p4#a230530p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
