@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Can Houndour be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23698077/can-houndour-be-shiny-houndoom)
  - [Street Fighter 6 is the ultimate fighting game toolbox](https://www.polygon.com/reviews/23739302/street-fighter-6-review-release-date-characters-ps5-xbox-pc)
- - [Street Fighter 6: The Kotaku Review](https://kotaku.com/street-fighter-6-review-world-tour-story-mode-roster-1850481281)
- - [Apparently PC building is about slapping &#39;brains&#39; on all your components now](https://www.pcgamer.com/apparently-pc-building-is-about-slapping-brains-on-all-your-components-now)<!-- GAME:END -->
+ - [Street Fighter 6: The Kotaku Review](https://kotaku.com/street-fighter-6-review-world-tour-story-mode-roster-1850481281)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
