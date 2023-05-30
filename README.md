@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Make shows like these instead of butchering other cultures](http://9gag.com/gag/a4o2PxQ)
- - 🚯 [It only took almost 20 years...](http://9gag.com/gag/aMEvdOx)
- - 🚯 [Incredible.](http://9gag.com/gag/awZdyp8)<!-- MEMES:END -->
+ - 🚖 [Fentanyl + Xylazine = Resident Evil in rl](http://9gag.com/gag/aeQmAmm)
+ - 🚯 [This is how you make her wet!](http://9gag.com/gag/aOxPxD2)
+ - 🚯 [The audacity of adding in that last sentence.](http://9gag.com/gag/ap9bgnp)<!-- MEMES:END -->
 
 --- 
 
