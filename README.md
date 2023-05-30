@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two more official Pixel Tablet accessories might still be in the pipeline](https://www.androidauthority.com/pixel-tablet-stylus-keyboard-3330324/)
- - [MSI is trying hard to be a premium laptop brand](https://www.theverge.com/2023/5/30/23741477/msi-creator-z-17-prestige-16-studio-evo-commercial-14)
- - [A look at Ukraine&#39;s Diia app, used by 19M citizens to access digital IDs and other government services, along with an &quot;e-Enemy&quot; feature to report Russian troops &lpar;Dave Lawler/Axios&rpar;](http://www.techmeme.com/230530/p1#a230530p1)<!-- TECH:END -->
+ - [Fintech Unicorn Revolut Needs a Plan B](https://www.wired.com/story/fintech-unicorn-revolut-needs-a-plan-b/)
+ - [Molly White Tracks Crypto Scams. It’s Going Just Great](https://www.wired.com/story/molly-white-crypto-scams/)
+ - [JioCinema breaks the global record for the most concurrent views to a live-streamed event with 33M+ viewers for the May 29 IPL final, surpassing Hotstar&#39;s 25.3M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230530/p2#a230530p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
