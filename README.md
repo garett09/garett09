@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Despite new chatbots, you’re still using Google Assistant](https://www.androidauthority.com/use-google-assistant-poll-results-3330667/)
- - [Google quietly ends support for decade-old Chromecast](https://www.theverge.com/2023/5/31/23743515/google-chromecast-support-ending-2013)
- - [Ends Today: Snag a $30 Microsoft Office 2021 Lifetime License     - CNET](https://www.cnet.com/deals/last-chance-30-office-2021-lifetime-license-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scientists Gave People Psychedelics—and Then Erased Their Memory](https://www.wired.com/story/psychedelics-study-design-research-rcts/)
+ - [A new update is wreaking havoc with Surface Duo devices](https://www.androidauthority.com/microsoft-surface-duo-update-reboots-3330675/)
+ - [Foxconn predicts &quot;triple-digit growth in AI servers&quot; in H2 2023 as demand skyrockets; in 2022, Foxconn made ~$36B in server revenue out of its $215B total &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/230531/p6#a230531p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
