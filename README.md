@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone is dead — long live the iPhone](https://www.theverge.com/23743097/iphone-apple-headset-wwdc-ar-vr)
- - [Amazon Echo Pop Review &lpar;2023&rpar;: Fun To Look At](https://www.wired.com/review/amazon-echo-pop/)
- - [Amazon Echo Pop review: more style, less substance](https://www.theverge.com/23742395/amazon-echo-pop-smart-speaker-review)<!-- TECH:END -->
+ - [Nothing confirms it’s sticking with 3 years of updates for the Phone 2](https://www.androidauthority.com/nothing-phone-2-os-update-confirmed-3330735/)
+ - [Amazon Echo Pop review: a $40 bargain, nice design, good sound, and speedy responses, but fewer hardware features and less voice sensitive than the Dot &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230531/p19#a230531p19)
+ - [The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
