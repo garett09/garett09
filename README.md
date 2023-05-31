@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
- - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)
- - 🚯 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)<!-- MEMES:END -->
+ - 🚖 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
+ - 🚯 [`You deserve better`](http://9gag.com/gag/armqAq7)
+ - 🚯 [Totally worth it](http://9gag.com/gag/az2RKEj)<!-- MEMES:END -->
 
 --- 
 
