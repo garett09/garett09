@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Ring agrees to pay $5.8 million to settle FTC spying suit](https://www.theverge.com/2023/5/31/23744369/amazon-ring-doorbell-ftc-privacy-spying-settlement)
- - [Meta asks a US court to block FTC&#39;s attempt to impose new sanctions for alleged violation of a 2020 settlement &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230531/p28#a230531p28)
- - [Google&#39;s head of communications and public affairs Corey duBrowa leaves the company to serve as CEO of public relations firm Burson Cohn &amp; Wolfe &lpar;Eleanor Hawkins/Axios&rpar;](http://www.techmeme.com/230531/p27#a230531p27)<!-- TECH:END -->
+ - [Boston-based Lightmatter, which uses light for AI computing, raised a $154M Series C from Fidelity, GV, and others, and claims to have tripled its valuation &lpar;Jane Lee/Reuters&rpar;](http://www.techmeme.com/230531/p31#a230531p31)
+ - [CrowdStrike reports Q1 revenue up 42% YoY to $692.6M, vs. $676.4M est., and ARR of $2.73B, a 42% YoY increase, down from a 61% growth in Q1 2023; CRWD drops 9%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230531/p30#a230531p30)
+ - [Salesforce reports Q1 revenue up 11% YoY to $8.25B vs. $8.18B est., capital expenditures up 36% YoY to $243M vs. $205M est., and Q2 revenue guidance above est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230531/p29#a230531p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
