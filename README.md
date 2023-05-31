@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Gets Wrongfully Banned On Switch After A Child Gambling Joke](https://kotaku.com/nintendo-switch-sunshine-shuffle-banned-joke-tiktok-1850491692)
- - [May Updates for the Xbox App on PC](https://news.xbox.com/en-us/2023/05/31/may-updates-xbox-app-on-pc/)
- - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)<!-- GAME:END -->
+ - [Someone Just Won The Biggest, Wildest Pot In TV Poker History](https://kotaku.com/biggest-poker-hold-em-pot-win-3-million-record-dwan-fei-1850492142)
+ - [Mayamats Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743918/mayamats-shrine-a-route-for-a-ball-location-walkthrough)
+ - [Award Winning Undead Horde 2: Necropolis Arising on Xbox](https://news.xbox.com/en-us/2023/05/31/award-winning-undead-horde-2-necropolis-arising-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
