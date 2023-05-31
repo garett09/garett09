@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Ready for 3D-Printed Organs and a Knife That ‘Smells’ Tumors](https://www.wired.com/story/medical-innovations-hospital-future/)
- - [Escape Academy’s newest DLC arrives in June](https://www.theverge.com/23743779/escape-academy-dlc-escape-from-the-past-escape-room)
- - [A profile of AMD CEO Lisa Su, who orchestrated one of the great tech turnarounds after her 2014 takeover, as the company prepares to battle Nvidia over AI chips &lpar;Forbes&rpar;](http://www.techmeme.com/230531/p22#a230531p22)<!-- TECH:END -->
+ - [Hit your fitness goals in style with $120 off the Garmin Venu 2S smartwatch](https://www.androidauthority.com/gamin-venu-2s-deal-3330795/)
+ - [App Store developers surpass $1 trillion milestone from sales in 2022](https://appleinsider.com/articles/23/05/31/app-store-developers-surpass-1-trillion-milestone-from-sales-in-2022?utm_medium=rss)
+ - [Google didn’t tease the Pixel 8 at I/O, why?](https://www.androidauthority.com/google-io-no-pixel-8-opinion-3329329/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
