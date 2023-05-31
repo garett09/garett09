@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus June 2023 free games: Jurassic World and NBA 2K](https://www.polygon.com/23743927/playstation-ps-plus-games-for-june-2023-essential-ps4-ps5)
- - [Immortals of Aveum hands-on: If boomer shooters are &#39;90s, does that make this a Gen-X shooter?](https://www.pcgamer.com/immortals-of-aveum-hands-on-preview)
- - [Immortals of Aveum hands-on – new gameplay details](https://blog.playstation.com/2023/05/31/immortals-of-aveum-hands-on-new-gameplay-details/)<!-- GAME:END -->
+ - [Game Gets Wrongfully Banned On Switch After A Child Gambling Joke](https://kotaku.com/nintendo-switch-sunshine-shuffle-banned-joke-tiktok-1850491692)
+ - [May Updates for the Xbox App on PC](https://news.xbox.com/en-us/2023/05/31/may-updates-xbox-app-on-pc/)
+ - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
