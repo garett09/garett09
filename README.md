@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Wind Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742361/wind-armor-location-head-chest-legs)
- - [How to get the Hero Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742349/hero-armor-location-head-chest-legs)
- - [The Week In Games: System Shock, Street Fighter 6, And More](https://kotaku.com/may-game-releases-out-this-week-sf6-system-shock-1850488533)<!-- GAME:END -->
+ - [Riot Threatens To Cancel Entire Esports Season If Striking League Of Legends Players Can&#39;t Reach Deal](https://kotaku.com/riot-lol-league-legends-strike-walkout-scabs-worlds-lcs-1850489433)
+ - [Studio Denies Laying Off Artists For AI After Fans Spot Character With Six Fingers](https://kotaku.com/ai-art-layoff-video-game-studio-pc-midjourney-aigc-1850489333)
+ - [The farm sim series that started it all just teased two new games and one is multiplayer](https://www.pcgamer.com/the-farm-sim-series-that-started-it-all-just-teased-two-new-games-and-one-is-multiplayer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
