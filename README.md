@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Orochium Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723101/orochium-shrine-puzzle-solution-chest)
- - [How Cammy and the classic cast got their Street Fighter 6 glow-ups](https://blog.playstation.com/2023/05/31/how-cammy-and-the-classic-cast-got-their-street-fighter-6-glow-ups/)
- - [Nouda Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742939/nouda-shrine-proving-grounds-intermediate-location-walkthrough)<!-- GAME:END -->
+ - [All armor sets and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)
+ - [Overwatch Forums Get Heated Over Baptiste&#39;s Bisexuality](https://kotaku.com/overwatch-2-baptiste-bisexual-pride-event-lifeweaver-1850493499)
+ - [Orochium Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723101/orochium-shrine-puzzle-solution-chest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
