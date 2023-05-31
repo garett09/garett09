@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
- - 🚯 [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)
- - 🚯 [If you know, you know....](http://9gag.com/gag/a3Z2A01)<!-- MEMES:END -->
+ - 🚖 [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)
+ - 🚯 [`You deserve better`](http://9gag.com/gag/armqAq7)
+ - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
 
 --- 
 
