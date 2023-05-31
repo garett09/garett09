@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Riot delays competitive League of Legends season after players voted to walk out](https://www.theverge.com/2023/5/30/23743198/riot-games-delays-league-of-legends-lcs-summer-season-split-walkout-lcspa)
- - [A Chinese government report says Chinese organizations launched 79 LLMs in the country over the past three years, vs. US organizations launching 96 in the US &lpar;Reuters&rpar;](http://www.techmeme.com/230530/p28#a230530p28)
- - [Nvidia became a $1 trillion company thanks to the AI boom](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)<!-- TECH:END -->
+ - [Block Party says its anti-harassment tool for Twitter is going on an indefinite hiatus starting May 31 due to Twitter API changes, and announces Privacy Party &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/230530/p29#a230530p29)
+ - [Apple details App Store tax changes in Ghana, Lithuania, Moldova, Spain, and Brazil](https://appleinsider.com/articles/23/05/31/apple-details-app-store-tax-changes-in-ghana-lithuania-moldova-spain-and-brazil?utm_medium=rss)
+ - [Riot delays competitive League of Legends season after players voted to walk out](https://www.theverge.com/2023/5/30/23743198/riot-games-delays-league-of-legends-lcs-summer-season-split-walkout-lcspa)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
