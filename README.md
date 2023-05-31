@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing confirms it’s sticking with 3 years of updates for the Phone 2](https://www.androidauthority.com/nothing-phone-2-os-update-confirmed-3330735/)
- - [Amazon Echo Pop review: a $40 bargain, nice design, good sound, and speedy responses, but fewer hardware features and less voice sensitive than the Dot &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230531/p19#a230531p19)
- - [The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)<!-- TECH:END -->
+ - [Get Ready for 3D-Printed Organs and a Knife That ‘Smells’ Tumors](https://www.wired.com/story/medical-innovations-hospital-future/)
+ - [Escape Academy’s newest DLC arrives in June](https://www.theverge.com/23743779/escape-academy-dlc-escape-from-the-past-escape-room)
+ - [A profile of AMD CEO Lisa Su, who orchestrated one of the great tech turnarounds after her 2014 takeover, as the company prepares to battle Nvidia over AI chips &lpar;Forbes&rpar;](http://www.techmeme.com/230531/p22#a230531p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
