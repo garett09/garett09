@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Mystic Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742822/mystic-armor-location-set-bonus-totk)
- - [How Zelda: Tears of the Kingdom players are breaking an ‘unbreakable’ game](https://www.polygon.com/legend-zelda-tears-kingdom/23742717/zelda-tears-of-the-kingdom-players-glitches-exploits-speedruns)
- - [Where to pre-order Street Fighter 6 before it launches June 2](https://www.polygon.com/deals/23674243/street-fighter-6-pre-order-guide-collectors-edition-where-to-buy)<!-- GAME:END -->
+ - [Dying Light 2 Stay Human and Call of Juarez: Gunslinger Are Crossing Over](https://news.xbox.com/en-us/2023/05/31/dying-light-2-stay-human-call-of-juarez-gunslinger-crossover/)
+ - [Good Omens season 2’s new title sequence gives us clues about the mysterious plot](https://www.polygon.com/23742230/good-omens-season-2-title-sequence)
+ - [Superb Game Pass Action RPG Has More Original Ideas Than Diablo](https://kotaku.com/diablo-iv-ghostlore-action-rpg-game-pass-xbox-steam-1850490882)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
