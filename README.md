@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitwarden vs LastPass: Which should you choose in 2023?](https://www.androidauthority.com/bitwarden-vs-lastpass-3330255/)
- - [Apple TV app and Apple TV+ were down for two hours on Tuesday [u]](https://appleinsider.com/articles/23/05/30/apple-tv-app-and-apple-tv-are-down-for-some-users?utm_medium=rss)
- - [The Pixel Watch 2 might kiss Samsung chips goodbye to improve battery](https://www.theverge.com/2023/5/30/23742793/pixel-watch-2-fitbit-sense-2-qualcomm-snapdragon-w5-plus)<!-- TECH:END -->
+ - [Riot delays competitive League of Legends season after players voted to walk out](https://www.theverge.com/2023/5/30/23743198/riot-games-delays-league-of-legends-lcs-summer-season-split-walkout-lcspa)
+ - [A Chinese government report says Chinese organizations launched 79 LLMs in the country over the past three years, vs. US organizations launching 96 in the US &lpar;Reuters&rpar;](http://www.techmeme.com/230530/p28#a230530p28)
+ - [Nvidia became a $1 trillion company thanks to the AI boom](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
