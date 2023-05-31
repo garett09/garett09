@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Customizing a character in games &lpar;as beeing OP, I missed the cyberpunk dick customization&rpar;:](http://9gag.com/gag/armqA06)
- - 🚯 [Wholesome](http://9gag.com/gag/a4o2zD6)
- - 🚯 [Average cart returner](http://9gag.com/gag/aOxPenR)<!-- MEMES:END -->
+ - 🚖 [If you know, you know....](http://9gag.com/gag/a3Z2A01)
+ - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)
+ - 🚯 [`You deserve better`](http://9gag.com/gag/armqAq7)<!-- MEMES:END -->
 
 --- 
 
