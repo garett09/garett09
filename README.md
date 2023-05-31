@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boston-based Lightmatter, which uses light for AI computing, raised a $154M Series C from Fidelity, GV, and others, and claims to have tripled its valuation &lpar;Jane Lee/Reuters&rpar;](http://www.techmeme.com/230531/p31#a230531p31)
- - [CrowdStrike reports Q1 revenue up 42% YoY to $692.6M, vs. $676.4M est., and ARR of $2.73B, a 42% YoY increase, down from a 61% growth in Q1 2023; CRWD drops 9%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230531/p30#a230531p30)
- - [Salesforce reports Q1 revenue up 11% YoY to $8.25B vs. $8.18B est., capital expenditures up 36% YoY to $243M vs. $205M est., and Q2 revenue guidance above est. &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230531/p29#a230531p29)<!-- TECH:END -->
+ - [Amazon agrees to pay $25M to settle FTC and DOJ charges that the company kept Alexa voice recordings and geolocation data collected from children for years &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230531/p32#a230531p32)
+ - [WWDC 2023: what to expect at Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)
+ - [It could get harder to use a Nest Hub for shopping lists soon](https://www.theverge.com/2023/5/31/23744374/google-nest-hub-assistant-anylist-anydo-keep-third-party-notes-lists-support)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
