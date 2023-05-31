@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man: Across the Spider-Verse goes bigger, bolder, and more ambitious](https://www.polygon.com/reviews/23742233/spider-man-across-spider-verse-review)
- - [Wage psychological warfare behind enemy lines in this XCOM-like World War 2 turn-based strategy game](https://www.pcgamer.com/wage-psychological-warfare-behind-enemy-lines-in-this-xcom-like-world-war-2-turn-based-strategy-game)
- - [Konami is officially doing the most boring thing possible with the MGS3 remake&#39;s voice acting](https://www.pcgamer.com/konami-is-officially-doing-the-most-boring-thing-possible-with-the-mgs3-remakes-voice-acting)<!-- GAME:END -->
+ - [How to get the Mystic Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742822/mystic-armor-location-set-bonus-totk)
+ - [How Zelda: Tears of the Kingdom players are breaking an ‘unbreakable’ game](https://www.polygon.com/legend-zelda-tears-kingdom/23742717/zelda-tears-of-the-kingdom-players-glitches-exploits-speedruns)
+ - [Where to pre-order Street Fighter 6 before it launches June 2](https://www.polygon.com/deals/23674243/street-fighter-6-pre-order-guide-collectors-edition-where-to-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
