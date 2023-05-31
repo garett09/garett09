@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPad is propping up a collapsing tablet market](https://appleinsider.com/articles/23/05/31/apples-ipad-is-propping-up-a-collapsing-tablet-market?utm_medium=rss)
- - [A profile of Plaid, valued at $13.4B, and founder Zach Perret, after a $58M data scraping settlement in 2022, as the company expands and fights a lawsuit by PNC &lpar;Bloomberg&rpar;](http://www.techmeme.com/230531/p12#a230531p12)
- - [To Combat the Overdose Crisis, Expand Drug-Checking Programs](https://www.wired.com/story/to-combat-the-overdose-crisis-expand-drug-checking-programs/)<!-- TECH:END -->
+ - [Former CD Projekt Red devs found new studio, Blank.](https://www.theverge.com/2023/5/31/23742997/cd-projekt-red-devs-new-studio-blank)
+ - [Millions of Gigabyte Motherboards Were Sold With a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
+ - [Sony’s small but mighty XB100 speaker is cheerful and very cheap](https://www.theverge.com/23742818/sony-srs-xb100-portable-bluetooth-speaker-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
