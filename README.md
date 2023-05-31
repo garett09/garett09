@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We Coolin\u2019](http://9gag.com/gag/a8q27Le)
- - 🚯 [If you know, you know....](http://9gag.com/gag/a3Z2A01)
- - 🚯 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)<!-- MEMES:END -->
+ - 🚖 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
+ - 🚯 [Testing the product.](http://9gag.com/gag/a4o26nA)
+ - 🚯 [Since 20 years](http://9gag.com/gag/ap9b1nE)<!-- MEMES:END -->
 
 --- 
 
