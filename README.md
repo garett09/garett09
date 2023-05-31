@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
- - 🚯 [Testing the product.](http://9gag.com/gag/a4o26nA)
- - 🚯 [Since 20 years](http://9gag.com/gag/ap9b1nE)<!-- MEMES:END -->
+ - 🚖 [Interesting twist](http://9gag.com/gag/aZDj85p)
+ - 🚯 [`You deserve better`](http://9gag.com/gag/armqAq7)
+ - 🚯 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)<!-- MEMES:END -->
 
 --- 
 
