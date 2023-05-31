@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prime years](http://9gag.com/gag/aGEAME5)
- - 🚯 [\u00bfWhat?](http://9gag.com/gag/ago4mbv)
- - 🚯 [`You deserve better`](http://9gag.com/gag/armqAq7)<!-- MEMES:END -->
+ - 🚖 [It&#39;s called luck](http://9gag.com/gag/aYVqO3m)
+ - 🚯 [Why is this so catchy?](http://9gag.com/gag/aoKL460)
+ - 🚯 [What team are you on](http://9gag.com/gag/ajVZxQR)<!-- MEMES:END -->
 
 --- 
 
