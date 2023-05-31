@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light 2 Stay Human and Call of Juarez: Gunslinger Are Crossing Over](https://news.xbox.com/en-us/2023/05/31/dying-light-2-stay-human-call-of-juarez-gunslinger-crossover/)
- - [Good Omens season 2’s new title sequence gives us clues about the mysterious plot](https://www.polygon.com/23742230/good-omens-season-2-title-sequence)
- - [Superb Game Pass Action RPG Has More Original Ideas Than Diablo](https://kotaku.com/diablo-iv-ghostlore-action-rpg-game-pass-xbox-steam-1850490882)<!-- GAME:END -->
+ - [PlayStation Plus June 2023 free games: Jurassic World and NBA 2K](https://www.polygon.com/23743927/playstation-ps-plus-games-for-june-2023-essential-ps4-ps5)
+ - [Immortals of Aveum hands-on: If boomer shooters are &#39;90s, does that make this a Gen-X shooter?](https://www.pcgamer.com/immortals-of-aveum-hands-on-preview)
+ - [Immortals of Aveum hands-on – new gameplay details](https://blog.playstation.com/2023/05/31/immortals-of-aveum-hands-on-new-gameplay-details/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
