@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists Gave People Psychedelics—and Then Erased Their Memory](https://www.wired.com/story/psychedelics-study-design-research-rcts/)
- - [A new update is wreaking havoc with Surface Duo devices](https://www.androidauthority.com/microsoft-surface-duo-update-reboots-3330675/)
- - [Foxconn predicts &quot;triple-digit growth in AI servers&quot; in H2 2023 as demand skyrockets; in 2022, Foxconn made ~$36B in server revenue out of its $215B total &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/230531/p6#a230531p6)<!-- TECH:END -->
+ - [Sources: the Biden administration is split on regulating generative AI; some prefer an EU-style model while others worry over losing a competitive advantage &lpar;Bloomberg&rpar;](http://www.techmeme.com/230531/p10#a230531p10)
+ - [Garmin gives the Epix and Fenix 7 lineups a Pro upgrade](https://www.androidauthority.com/garmin-fenix-7-pro-epix-pro-3330610/)
+ - [ChatGPT Is Cutting Non-English Languages Out of the AI Revolution](https://www.wired.com/story/chatgpt-non-english-languages-ai-revolution/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
