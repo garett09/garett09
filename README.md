@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lmao](http://9gag.com/gag/avQR6vb)
- - 🚯 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
- - 🚯 [Totally worth it](http://9gag.com/gag/az2RKEj)<!-- MEMES:END -->
+ - 🚖 [Customizing a character in games &lpar;as beeing OP, I missed the cyberpunk dick customization&rpar;:](http://9gag.com/gag/armqA06)
+ - 🚯 [Wholesome](http://9gag.com/gag/a4o2zD6)
+ - 🚯 [Average cart returner](http://9gag.com/gag/aOxPenR)<!-- MEMES:END -->
 
 --- 
 
