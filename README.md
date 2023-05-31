@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
- - [The best Reddit client app is in danger due to price demands](https://appleinsider.com/articles/23/05/31/the-best-reddit-client-app-is-in-danger-due-to-price-demands?utm_medium=rss)
- - [Delta faces a class action lawsuit over its climate commitments](https://www.theverge.com/2023/5/31/23743873/delta-airline-class-action-lawsuit-carbon-neutral-climate)<!-- TECH:END -->
+ - [Here’s how Instagram recommends the content you see](https://www.theverge.com/2023/5/31/23744125/instagram-algorithm-recommendation-posts-reels-stories-shadow-banning)
+ - [Update is wreaking havoc with Surface Duo devices &lpar;Update: Microsoft statement&rpar;](https://www.androidauthority.com/microsoft-surface-duo-update-reboots-3330675/)
+ - [Amazon gets slap on the wrist over privacy violations with Ring cameras](https://appleinsider.com/articles/23/05/31/amazon-gets-slap-on-the-wrist-over-privacy-violations-with-ring-cameras?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
