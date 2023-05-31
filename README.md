@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The perfect PSU for your silent gaming PC build just became a reality](https://www.pcgamer.com/the-perfect-psu-for-your-silent-gaming-pc-build-just-became-a-reality)
- - [The Diablo 4 community is printing t-shirts, baking cakes, and buying chicken on other continents in advance of the game&#39;s launch](https://www.pcgamer.com/the-diablo-4-community-is-printing-t-shirts-baking-cakes-and-buying-chicken-on-other-continents-in-advance-of-the-games-launch)
- - [Fractal Design&#39;s gorgeous new Terra PC case vindicates my disdain of the cyberpunk aesthetic](https://www.pcgamer.com/fractal-design-terra-pc-case-hands-on)<!-- GAME:END -->
+ - [Spider-Man: Across the Spider-Verse goes bigger, bolder, and more ambitious](https://www.polygon.com/reviews/23742233/spider-man-across-spider-verse-review)
+ - [Wage psychological warfare behind enemy lines in this XCOM-like World War 2 turn-based strategy game](https://www.pcgamer.com/wage-psychological-warfare-behind-enemy-lines-in-this-xcom-like-world-war-2-turn-based-strategy-game)
+ - [Konami is officially doing the most boring thing possible with the MGS3 remake&#39;s voice acting](https://www.pcgamer.com/konami-is-officially-doing-the-most-boring-thing-possible-with-the-mgs3-remakes-voice-acting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
