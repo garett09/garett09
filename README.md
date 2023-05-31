@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
- - 🚯 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)
- - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
+ - 🚖 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
+ - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)
+ - 🚯 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)<!-- MEMES:END -->
 
 --- 
 
