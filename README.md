@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Activision Blizzard CEO audaciously claims that sexism and harassment problems were made up by an &#39;aggressive labor movement&#39; trying to &#39;destabilize the company&#39;](https://www.pcgamer.com/activision-blizzard-ceo-audaciously-claims-that-sexism-and-harassment-problems-were-made-up-by-an-aggressive-labor-movement-trying-to-destabilize-the-company)
  - [Someone Just Won The Biggest, Wildest Pot In TV Poker History](https://kotaku.com/biggest-poker-hold-em-pot-win-3-million-record-dwan-fei-1850492142)
- - [Mayamats Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743918/mayamats-shrine-a-route-for-a-ball-location-walkthrough)
- - [Award Winning Undead Horde 2: Necropolis Arising on Xbox](https://news.xbox.com/en-us/2023/05/31/award-winning-undead-horde-2-necropolis-arising-on-xbox/)<!-- GAME:END -->
+ - [Mayamats Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743918/mayamats-shrine-a-route-for-a-ball-location-walkthrough)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
