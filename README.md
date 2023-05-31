@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Instagram recommends the content you see](https://www.theverge.com/2023/5/31/23744125/instagram-algorithm-recommendation-posts-reels-stories-shadow-banning)
- - [Update is wreaking havoc with Surface Duo devices &lpar;Update: Microsoft statement&rpar;](https://www.androidauthority.com/microsoft-surface-duo-update-reboots-3330675/)
- - [Amazon gets slap on the wrist over privacy violations with Ring cameras](https://appleinsider.com/articles/23/05/31/amazon-gets-slap-on-the-wrist-over-privacy-violations-with-ring-cameras?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s Ring agrees to pay $5.8 million to settle FTC spying suit](https://www.theverge.com/2023/5/31/23744369/amazon-ring-doorbell-ftc-privacy-spying-settlement)
+ - [Meta asks a US court to block FTC&#39;s attempt to impose new sanctions for alleged violation of a 2020 settlement &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230531/p28#a230531p28)
+ - [Google&#39;s head of communications and public affairs Corey duBrowa leaves the company to serve as CEO of public relations firm Burson Cohn &amp; Wolfe &lpar;Eleanor Hawkins/Axios&rpar;](http://www.techmeme.com/230531/p27#a230531p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
