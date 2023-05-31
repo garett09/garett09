@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
- - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)
- - 🚯 [Testing the product.](http://9gag.com/gag/a4o26nA)<!-- MEMES:END -->
+ - 🚖 [Tiny Waist Big...](http://9gag.com/gag/az2Rdnp)
+ - 🚯 [People having fun](http://9gag.com/gag/aVbLLrv)
+ - 🚯 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)<!-- MEMES:END -->
 
 --- 
 
