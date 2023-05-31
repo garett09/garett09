@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard CEO audaciously claims that sexism and harassment problems were made up by an &#39;aggressive labor movement&#39; trying to &#39;destabilize the company&#39;](https://www.pcgamer.com/activision-blizzard-ceo-audaciously-claims-that-sexism-and-harassment-problems-were-made-up-by-an-aggressive-labor-movement-trying-to-destabilize-the-company)
- - [Someone Just Won The Biggest, Wildest Pot In TV Poker History](https://kotaku.com/biggest-poker-hold-em-pot-win-3-million-record-dwan-fei-1850492142)
- - [Mayamats Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743918/mayamats-shrine-a-route-for-a-ball-location-walkthrough)<!-- GAME:END -->
+ - [Diablo 4 dev corrects day 1 patch statement, says the launch version will have &#39;very few&#39; changes from the Server Slam build when it goes live](https://www.pcgamer.com/diablo-4-dev-corrects-day-1-patch-statement-says-the-launch-version-will-have-very-few-changes-from-the-server-slam-build-when-it-goes-live)
+ - [Ted Lasso turned a lovable soccer team into a bunch of boring therapists](https://www.polygon.com/23744190/ted-lasso-season-3-finale-review)
+ - [How to get the Frostbite Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23726392/frostbite-armor-set-locations-head-chest-legs-get)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
