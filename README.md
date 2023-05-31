@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hit your fitness goals in style with $120 off the Garmin Venu 2S smartwatch](https://www.androidauthority.com/gamin-venu-2s-deal-3330795/)
- - [App Store developers surpass $1 trillion milestone from sales in 2022](https://appleinsider.com/articles/23/05/31/app-store-developers-surpass-1-trillion-milestone-from-sales-in-2022?utm_medium=rss)
- - [Google didn’t tease the Pixel 8 at I/O, why?](https://www.androidauthority.com/google-io-no-pixel-8-opinion-3329329/)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
+ - [The best Reddit client app is in danger due to price demands](https://appleinsider.com/articles/23/05/31/the-best-reddit-client-app-is-in-danger-due-to-price-demands?utm_medium=rss)
+ - [Delta faces a class action lawsuit over its climate commitments](https://www.theverge.com/2023/5/31/23743873/delta-airline-class-action-lawsuit-carbon-neutral-climate)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
