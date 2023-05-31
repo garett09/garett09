@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
- - 🚯 [Testing the product.](http://9gag.com/gag/a4o26nA)
- - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
+ - 🚖 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
+ - 🚯 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
+ - 🚯 [`You deserve better`](http://9gag.com/gag/armqAq7)<!-- MEMES:END -->
 
 --- 
 
