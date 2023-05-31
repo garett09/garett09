@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s called luck](http://9gag.com/gag/aYVqO3m)
- - 🚯 [Why is this so catchy?](http://9gag.com/gag/aoKL460)
- - 🚯 [What team are you on](http://9gag.com/gag/ajVZxQR)<!-- MEMES:END -->
+ - 🚖 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
+ - 🚯 [`You deserve better`](http://9gag.com/gag/armqAq7)
+ - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
 
 --- 
 
