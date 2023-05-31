@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prime years](http://9gag.com/gag/aGEAME5)
- - 🚯 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
- - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
+ - 🚖 [We Coolin\u2019](http://9gag.com/gag/a8q27Le)
+ - 🚯 [If you know, you know....](http://9gag.com/gag/a3Z2A01)
+ - 🚯 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)<!-- MEMES:END -->
 
 --- 
 
