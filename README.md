@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
- - 🚯 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
- - 🚯 [`You deserve better`](http://9gag.com/gag/armqAq7)<!-- MEMES:END -->
+ - 🚖 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
+ - 🚯 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)
+ - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
 
 --- 
 
