@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Biden administration is split on regulating generative AI; some prefer an EU-style model while others worry over losing a competitive advantage &lpar;Bloomberg&rpar;](http://www.techmeme.com/230531/p10#a230531p10)
- - [Garmin gives the Epix and Fenix 7 lineups a Pro upgrade](https://www.androidauthority.com/garmin-fenix-7-pro-epix-pro-3330610/)
- - [ChatGPT Is Cutting Non-English Languages Out of the AI Revolution](https://www.wired.com/story/chatgpt-non-english-languages-ai-revolution/)<!-- TECH:END -->
+ - [Apple&#39;s iPad is propping up a collapsing tablet market](https://appleinsider.com/articles/23/05/31/apples-ipad-is-propping-up-a-collapsing-tablet-market?utm_medium=rss)
+ - [A profile of Plaid, valued at $13.4B, and founder Zach Perret, after a $58M data scraping settlement in 2022, as the company expands and fights a lawsuit by PNC &lpar;Bloomberg&rpar;](http://www.techmeme.com/230531/p12#a230531p12)
+ - [To Combat the Overdose Crisis, Expand Drug-Checking Programs](https://www.wired.com/story/to-combat-the-overdose-crisis-expand-drug-checking-programs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
