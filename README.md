@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)
- - 🚯 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
+ - 🚖 [Massive win for me! One year sober.](http://9gag.com/gag/aYVqEVv)
+ - 🚯 [Enjoying Jimmy Johns experience.](http://9gag.com/gag/ajVZL68)
  - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
 
 --- 
