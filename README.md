@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tiny Waist Big...](http://9gag.com/gag/az2Rdnp)
- - 🚯 [Experts: Trust me bro](http://9gag.com/gag/a4o258p)
+ - 🚖 [Prime years](http://9gag.com/gag/aGEAME5)
+ - 🚯 [\u00bfWhat?](http://9gag.com/gag/ago4mbv)
  - 🚯 [`You deserve better`](http://9gag.com/gag/armqAq7)<!-- MEMES:END -->
 
 --- 
