@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley&#39;s developer tweeted &#39;iridium scythe&#39; and everyone is losing it](https://www.pcgamer.com/stardew-valleys-developer-tweeted-iridium-scythe-and-everyone-is-losing-it)
- - [PlayStation Fans Refuse To Throw Away Box Even After Sony Tells Them To](https://kotaku.com/sony-playstation-ps5-box-twitter-june-free-games-1850493005)
- - [Florida’s big fighting game tournament is becoming unsafe for trans attendees](https://www.polygon.com/23739400/florida-ceo-fighting-game-tournament-trans-attendees)<!-- GAME:END -->
+ - [Orochium Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723101/orochium-shrine-puzzle-solution-chest)
+ - [How Cammy and the classic cast got their Street Fighter 6 glow-ups](https://blog.playstation.com/2023/05/31/how-cammy-and-the-classic-cast-got-their-street-fighter-6-glow-ups/)
+ - [Nouda Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23742939/nouda-shrine-proving-grounds-intermediate-location-walkthrough)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
