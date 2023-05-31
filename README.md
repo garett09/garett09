@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former CD Projekt Red devs found new studio, Blank.](https://www.theverge.com/2023/5/31/23742997/cd-projekt-red-devs-new-studio-blank)
- - [Millions of Gigabyte Motherboards Were Sold With a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
- - [Sony’s small but mighty XB100 speaker is cheerful and very cheap](https://www.theverge.com/23742818/sony-srs-xb100-portable-bluetooth-speaker-review)<!-- TECH:END -->
+ - [The iPhone is dead — long live the iPhone](https://www.theverge.com/23743097/iphone-apple-headset-wwdc-ar-vr)
+ - [Amazon Echo Pop Review &lpar;2023&rpar;: Fun To Look At](https://www.wired.com/review/amazon-echo-pop/)
+ - [Amazon Echo Pop review: more style, less substance](https://www.theverge.com/23742395/amazon-echo-pop-smart-speaker-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
