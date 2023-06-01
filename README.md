@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`You deserve better`](http://9gag.com/gag/armqAq7)
- - 🚯 [Totally worth it](http://9gag.com/gag/az2RKEj)
- - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
+ - 🚖 [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)
+ - 🚯 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
+ - 🚯 [Interesting twist](http://9gag.com/gag/aZDj85p)<!-- MEMES:END -->
 
 --- 
 
