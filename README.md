@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Apple Savings Account users have had trouble transferring money from their accounts; Goldman representatives have given differing responses on what to do &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/230601/p25#a230601p25)
- - [Google Wallet will now let you add your gym card and any other pass with a photo](https://www.androidauthority.com/google-wallet-new-items-3331072/)
- - [Dystopian cat adventure game &#39;Stray&#39; coming to Mac](https://appleinsider.com/articles/23/06/01/dystopian-cat-adventure-game-stray-coming-to-mac?utm_medium=rss)<!-- TECH:END -->
+ - [STM MagPod review: MagSafe-compatible stand, grip, &amp; selfie-stick all in one for your iPhone](https://appleinsider.com/articles/23/06/01/stm-magpod-review-magsafe-compatible-stand-grip-selfie-stick-all-in-one-for-your-iphone?utm_medium=rss)
+ - [The best Father’s Day gifts on a budget](https://www.theverge.com/23734899/best-cheap-fathers-day-gifts-dad-budget-tech-ideas-presents)
+ - [Fold the phone: all the foldables coming in 2023](https://www.theverge.com/2023/6/1/23745240/folding-phones-2023-pixel-fold-razr-galaxy-fold)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
