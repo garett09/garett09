@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best controllers for PC gaming](https://www.polygon.com/what-to-buy/23658092/best-controllers-pc-gaming)
- - [Spider-Man 2 PS5 Will Be Darker Than The Tobey Maguire Movie](https://kotaku.com/spiderman-2-playstation-ps5-peter-parker-venom-miles-1850496567)
- - [Vampire: The Masquerade – Justice is a new PS VR2 adventure RPG, coming late 2023](https://blog.playstation.com/2023/06/01/vampire-the-masquerade-justice-is-a-new-ps-vr2-adventure-rpg-coming-late-2023/)<!-- GAME:END -->
+ - [Always losing your stuff? A handy Bluetooth tracker can help](https://www.polygon.com/what-to-buy/23707943/best-bluetooth-tracker-item-finder-apple-airtag-tile)
+ - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)
+ - [Moshapin Shrine location and Lake Intenoch Cave walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745664/moshapin-shrine-location-lake-intenoch-cave-walkthrough-totk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
