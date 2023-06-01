@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every movie and show coming to Netflix in June](https://www.polygon.com/entertainment/2023/6/1/23735869/new-netflix-movies-tv-shows-watch-june-2023)
- - [&#39;No signs of remorse&#39;—Sonic creator faces prison sentence and over $1 million fine in ongoing trial](https://www.pcgamer.com/no-signs-of-remorsesonic-creator-hit-with-2-and-a-half-years-in-prison-and-over-dollar1-million-in-fines-after-insider-trading-trial)
- - [Adata&#39;s shown its 1600W PSU can power four 450W RTX 4090s and that it really doesn&#39;t care for maths](https://www.pcgamer.com/adatas-shown-its-1600w-psu-can-power-four-450w-rtx-4090s-and-that-it-really-doesnt-care-for-maths)<!-- GAME:END -->
+ - [Report: Xbox Exclusive Redfall Suffered From Few Resources, Poor Direction](https://kotaku.com/xbox-redfall-game-pass-development-bethesda-ps5-prey-1850494862)
+ - [How The Expanse: A Telltale Series Aims to Tell Their Small Story in a Large Universe](https://news.xbox.com/en-us/2023/06/01/the-expanse-a-telltale-series-preview/)
+ - [Critical Role’s new RPG is a whole cabinet of curiosities — and familiar mechanics](https://www.polygon.com/tabletop-games/23744350/critical-role-candela-obscura-quickstart-mechanics-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
