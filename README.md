@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)
- - 🚯 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
- - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
+ - 🚯 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
+ - 🚯 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)<!-- MEMES:END -->
 
 --- 
 
