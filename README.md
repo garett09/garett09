@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tiny Waist Big...](http://9gag.com/gag/az2Rdnp)
- - 🚯 [People having fun](http://9gag.com/gag/aVbLLrv)
- - 🚯 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)<!-- MEMES:END -->
+ - 🚖 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)
+ - 🚯 [Tiny Waist Big...](http://9gag.com/gag/az2Rdnp)
+ - 🚯 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)<!-- MEMES:END -->
 
 --- 
 
