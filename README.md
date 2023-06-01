@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Husband slaps and confronts the man who allegedly sexually assaulted his wife 7 years prior.](http://9gag.com/gag/awZdeL8)
- - 🚯 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)
- - 🚯 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)<!-- MEMES:END -->
+ - 🚖 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)
+ - 🚯 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
+ - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)<!-- MEMES:END -->
 
 --- 
 
