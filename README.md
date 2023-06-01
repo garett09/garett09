@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet is getting custom cards and state IDs this month](https://www.theverge.com/2023/6/1/23745168/google-wallet-state-id-drivers-license-custom-cards)
- - [June’s Pixel feature drop spruces up Android, Wear OS with new tricks](https://www.androidauthority.com/pixel-feature-drop-june-2023-3330975/)
- - [&#39;No Man&#39;s Sky&#39; now available on Mac via Steam](https://appleinsider.com/articles/23/06/01/no-mans-sky-now-available-on-mac-via-steam?utm_medium=rss)<!-- TECH:END -->
+ - [Long wait for YouTube Premium trial for some OnePlus users &lpar;Update: Statement&rpar;](https://www.androidauthority.com/oneplus-youtube-premium-trial-3330418/)
+ - [Investigation: of 14 laptops with trackers given to UK retailers to recycle, 10 were recycled correctly; others were sold, likely stolen, or took long journeys &lpar;Financial Times&rpar;](http://www.techmeme.com/230601/p20#a230601p20)
+ - [Apple India&#39;s record-breaking sales revealed thanks to unprecedented leak](https://appleinsider.com/articles/23/06/01/apple-indias-record-breaking-sales-revealed-thanks-to-unprecedented-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
