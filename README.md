@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [STM MagPod review: MagSafe-compatible stand, grip, &amp; selfie-stick all in one for your iPhone](https://appleinsider.com/articles/23/06/01/stm-magpod-review-magsafe-compatible-stand-grip-selfie-stick-all-in-one-for-your-iphone?utm_medium=rss)
- - [The best Father’s Day gifts on a budget](https://www.theverge.com/23734899/best-cheap-fathers-day-gifts-dad-budget-tech-ideas-presents)
- - [Fold the phone: all the foldables coming in 2023](https://www.theverge.com/2023/6/1/23745240/folding-phones-2023-pixel-fold-razr-galaxy-fold)<!-- TECH:END -->
+ - [WordPress.com launches paid newsletters, with the option available to all WordPress.com blogs, even those on the free plan &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230601/p28#a230601p28)
+ - [Motorola Razr Plus and Razr &lpar;2023&rpar; hands-on: The Razr returns](https://www.androidauthority.com/motorola-razr-plus-razr-2023-hands-on-review-3330810/)
+ - [Motorola Razr and Razr Plus launched: The Z Flip 4 finally has legit rivals](https://www.androidauthority.com/motorola-razr-plus-price-specs-release-date-3330092/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
