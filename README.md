@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Diego-based Measurabl, which makes carbon footprint management tools for properties, raised a $93M Series D led by Energy Impact Partners and Sway Ventures &lpar;Mike Freeman/San Diego Union-Tribune&rpar;](http://www.techmeme.com/230531/p33#a230531p33)
- - [Reddit might destroy third-party Reddit apps &lpar;Update: Reddit stands firm&rpar;](https://www.androidauthority.com/third-party-reddit-apps-end-3330855/)
- - [Smartphone Shipments Are Forecast to Decline in 2023 Thanks to Inflation     - CNET](https://www.cnet.com/tech/mobile/smartphone-shipments-are-forecast-to-decline-in-2023-thanks-to-inflation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leap Motion&#39;s gesture control quest continues with the Leap Motion Controller 2](https://www.theverge.com/2013/5/21/4351588/leap-motion-gesture-control)
+ - [Cortex, which sells an internal developer portal for teams making software at scale, raised a $35M Series B led by IVP, taking its total funding to nearly $53M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230531/p36#a230531p36)
+ - [Amazon to Pay $30M Over Ring and Alexa Data Privacy Violations     - CNET](https://www.cnet.com/tech/services-and-software/amazon-to-pay-30m-over-ring-and-alexa-data-privacy-violations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
