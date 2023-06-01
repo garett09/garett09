@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)
- - 🚯 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
- - 🚯 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)<!-- MEMES:END -->
+ - 🚖 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
+ - 🚯 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
+ - 🚯 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
 
 --- 
 
