@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ikatak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23744355/ikatak-shrine-location-gisa-crater-crystal-quest)
- - [Total War: Pharaoh completely shifts gears after the series’ fantasy phase](https://www.polygon.com/23744375/total-war-pharaoh-preview-factions-units-release-date)
- - [The one thing to know about Spider-Man: Across the Spider-Verse is it’s just Part 1](https://www.polygon.com/23742158/spider-man-across-spider-verse-part-1-to-be-continued-beyond)<!-- GAME:END -->
+ - [Amnesia: The Bunker launches June 6](https://blog.playstation.com/2023/06/01/amnesia-the-bunker-launches-june-6/)
+ - [Play with Pride: Xbox Game Studios Publishing Announces Ongoing Partnership with GLAAD and More](https://news.xbox.com/en-us/2023/06/01/xbox-pride-month-2023-glaad/)
+ - [Rogue Trader is an RPG that dives deep into Warhammer 40K lore](https://www.polygon.com/23744410/rogue-trader-rpg-beta-impressions-systems-combat-character-creation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
