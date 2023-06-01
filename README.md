@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All armor sets and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)
- - [Overwatch Forums Get Heated Over Baptiste&#39;s Bisexuality](https://kotaku.com/overwatch-2-baptiste-bisexual-pride-event-lifeweaver-1850493499)
- - [Orochium Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23723101/orochium-shrine-puzzle-solution-chest)<!-- GAME:END -->
+ - [Reddit Is Killing The Best Way To Read The Site](https://kotaku.com/reddit-third-party-3rd-apps-pricing-crush-ios-android-1850493992)
+ - [Report: Two Men Got Jobs At Amazon Just To Steal Copies Of Zelda](https://kotaku.com/legend-of-zelda-tears-kingdom-tlok-steal-japan-amazon-1850493783)
+ - [Riot threatens to cancel the entire League of Legends summer season in North America if a deal with players isn&#39;t made](https://www.pcgamer.com/riot-threatens-to-cancel-the-entire-league-of-legends-summer-season-in-north-america-if-a-deal-with-players-isnt-made)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
