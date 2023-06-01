@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amnesia: The Bunker launches June 6](https://blog.playstation.com/2023/06/01/amnesia-the-bunker-launches-june-6/)
- - [Play with Pride: Xbox Game Studios Publishing Announces Ongoing Partnership with GLAAD and More](https://news.xbox.com/en-us/2023/06/01/xbox-pride-month-2023-glaad/)
- - [Rogue Trader is an RPG that dives deep into Warhammer 40K lore](https://www.polygon.com/23744410/rogue-trader-rpg-beta-impressions-systems-combat-character-creation)<!-- GAME:END -->
+ - [Deep Rock Galactic gets scary new season, cool jet boots](https://www.polygon.com/23745347/deep-rock-galactic-critical-corruption-season-4-roxpox-jet-boots)
+ - [Free Play Days – Tom Clancy’s Rainbow Six Siege, Farming Simulator 22: Platinum Edition, and Ghostrunner](https://news.xbox.com/en-us/2023/06/01/free-play-days-rainbow-six-siege-farming-simulator-22-platinum-edition-and-ghostrunner/)
+ - [Stray is pouncing onto newer Macs](https://www.polygon.com/23745219/stray-mac-version-macbook-air-pro)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
