@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Xbox Exclusive Redfall Suffered From Few Resources, Poor Direction](https://kotaku.com/xbox-redfall-game-pass-development-bethesda-ps5-prey-1850494862)
- - [How The Expanse: A Telltale Series Aims to Tell Their Small Story in a Large Universe](https://news.xbox.com/en-us/2023/06/01/the-expanse-a-telltale-series-preview/)
- - [Critical Role’s new RPG is a whole cabinet of curiosities — and familiar mechanics](https://www.polygon.com/tabletop-games/23744350/critical-role-candela-obscura-quickstart-mechanics-interview)<!-- GAME:END -->
+ - [Ikatak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23744355/ikatak-shrine-location-gisa-crater-crystal-quest)
+ - [Total War: Pharaoh completely shifts gears after the series’ fantasy phase](https://www.polygon.com/23744375/total-war-pharaoh-preview-factions-units-release-date)
+ - [The one thing to know about Spider-Man: Across the Spider-Verse is it’s just Part 1](https://www.polygon.com/23742158/spider-man-across-spider-verse-part-1-to-be-continued-beyond)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
