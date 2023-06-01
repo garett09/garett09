@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Queer Games Bundle brings together over 450 games from queer devs](https://www.polygon.com/23746004/queer-games-bundle-itchio-pride-month)
- - [‘Lurelin Village Restoration Project’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745865/lurelin-village-restoration-project-side-adventure-quest)
- - [‘Ruffian-infested Village’ quest steps in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23715588/lurelin-pirates-ruffian-infested-village-quest)<!-- GAME:END -->
+ - [O-ogim Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745879/o-ogim-shrine-location-walkthrough-solution-reward)
+ - [Which class should you choose in Diablo 4?](https://www.polygon.com/diablo-4-guides/23654552/best-class-sorcerer-barbarian-druid-rogue-necromancer)
+ - [How to use aspects to power up your gear in Diablo 4](https://www.polygon.com/diablo-4-guides/23654101/aspects-codex-power-occultist-extract-imprint)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
