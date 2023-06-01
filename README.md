@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire: The Masquerade – Justice is a new PS VR2 adventure RPG, coming late 2023](https://blog.playstation.com/2023/06/01/vampire-the-masquerade-justice-is-a-new-ps-vr2-adventure-rpg-coming-late-2023/)
- - [Front Mission 1st: Remake premieres on June 30th on Xbox](https://news.xbox.com/en-us/2023/06/01/front-mission-1st-remake-premieres-on-june-30th-on-xbox/)
- - [A failed Star Wars gag led to The Boogeyman’s scariest scenes](https://www.polygon.com/23742347/boogeyman-2023-scary-scenes-interview)<!-- GAME:END -->
+ - [The best controllers for PC gaming](https://www.polygon.com/what-to-buy/23658092/best-controllers-pc-gaming)
+ - [Spider-Man 2 PS5 Will Be Darker Than The Tobey Maguire Movie](https://kotaku.com/spiderman-2-playstation-ps5-peter-parker-venom-miles-1850496567)
+ - [Vampire: The Masquerade – Justice is a new PS VR2 adventure RPG, coming late 2023](https://blog.playstation.com/2023/06/01/vampire-the-masquerade-justice-is-a-new-ps-vr2-adventure-rpg-coming-late-2023/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
