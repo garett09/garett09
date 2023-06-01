@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tiny Waist Big...](http://9gag.com/gag/az2Rdnp)
- - 🚯 [Quite the daredevil](http://9gag.com/gag/aMEvnXx)
+ - 🚖 [Quite the daredevil](http://9gag.com/gag/aMEvnXx)
+ - 🚯 [This MANIAC](http://9gag.com/gag/a8q2e0Z)
  - 🚯 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)<!-- MEMES:END -->
 
 --- 
