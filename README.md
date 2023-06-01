@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
- - 🚯 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
- - 🚯 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)<!-- MEMES:END -->
+ - 🚖 [Husband slaps and confronts the man who allegedly sexually assaulted his wife 7 years prior.](http://9gag.com/gag/awZdeL8)
+ - 🚯 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)
+ - 🚯 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)<!-- MEMES:END -->
 
 --- 
 
