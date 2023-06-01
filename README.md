@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
- - [8BitDo Ultimate Bluetooth Controller review: Should you buy it?](https://www.androidauthority.com/8bitdo-ultimate-bluetooth-controller-review-3330398/)
- - [The 56 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
+ - [Exclusive Q&amp;A with Sean Murray, CEO of Hello Games and creator of &#39;No Man&#39;s Sky&#39;](https://appleinsider.com/articles/23/06/01/exclusive-qa-with-sean-murray-ceo-of-hello-games-and-creator-of-no-mans-sky?utm_medium=rss)
+ - [Binance plans to delist 12 privacy coins, including Zcash and Monero, in France, Italy, Poland, and Spain on June 26, citing &quot;ongoing compliance processes&quot; &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230601/p32#a230601p32)
+ - [Nomad Atlantic Blue sport strap review: A new limited color for sunny days](https://appleinsider.com/articles/23/06/01/nomad-atlantic-blue-sport-strap-review-a-new-limited-color-for-sunny-days?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
