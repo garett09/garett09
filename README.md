@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [APOLLO 1 crew [audio]](http://9gag.com/gag/amAMGP9)
- - 🚯 [Totally worth it](http://9gag.com/gag/az2RKEj)
- - 🚯 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)<!-- MEMES:END -->
+ - 🚖 [Tiny Waist Big...](http://9gag.com/gag/az2Rdnp)
+ - 🚯 [Quite the daredevil](http://9gag.com/gag/aMEvnXx)
+ - 🚯 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)<!-- MEMES:END -->
 
 --- 
 
