@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: The TV isn’t your first choice for YouTube viewing](https://www.androidauthority.com/youtube-viewing-devices-poll-results-3330992/)
- - [Oppo announces MR Glass Developer Edition, a headset designed for developers in China to create mixed reality apps, powered by Qualcomm&#39;s Snapdragon XR2 Plus &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230601/p7#a230601p7)
- - [Polestar’s latest software update adds YouTube, upgraded Apple CarPlay](https://www.theverge.com/2023/6/1/23744407/polestar-youtube-apple-carplay-software-ota)<!-- TECH:END -->
+ - [Russia claims Apple helps US spy on iPhone users](https://appleinsider.com/articles/23/06/01/russia-claims-apple-helps-us-spy-on-iphone-users?utm_medium=rss)
+ - [The Explosive Legacy of the Pandemic Hand Sanitizer Boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
+ - [Ford offering flexible EV leases to Uber drivers](https://www.theverge.com/2023/6/1/23744827/ford-uber-ev-flexible-lease-driver-mustang-mach-e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
