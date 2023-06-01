@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)
- - 🚯 [What does it mean?](http://9gag.com/gag/amAMRZj)
- - 🚯 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)<!-- MEMES:END -->
+ - 🚖 [What does it mean?](http://9gag.com/gag/amAMRZj)
+ - 🚯 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
+ - 🚯 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
 
 --- 
 
