@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Surprise: Gloomhaven creator announces new, revised Second Edition](https://www.polygon.com/tabletop-games/23744047/gloomhaven-second-edition-release-date-price)
- - [Warhammer 40K studio manager Stu Black reflects on the launch of 10th edition](https://www.polygon.com/23743845/40k-studio-manager-interview-10th-edition-combat-patrol)
- - [Meta Reveals Quest 3, A Sleeker VR Headset With Notable Upgrades](https://kotaku.com/meta-quest-3-revealed-vr-headset-specs-resolution-price-1850496095)<!-- GAME:END -->
+ - [Vampire: The Masquerade – Justice is a new PS VR2 adventure RPG, coming late 2023](https://blog.playstation.com/2023/06/01/vampire-the-masquerade-justice-is-a-new-ps-vr2-adventure-rpg-coming-late-2023/)
+ - [Front Mission 1st: Remake premieres on June 30th on Xbox](https://news.xbox.com/en-us/2023/06/01/front-mission-1st-remake-premieres-on-june-30th-on-xbox/)
+ - [A failed Star Wars gag led to The Boogeyman’s scariest scenes](https://www.polygon.com/23742347/boogeyman-2023-scary-scenes-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
