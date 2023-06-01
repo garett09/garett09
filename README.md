@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Long wait for YouTube Premium trial for some OnePlus users &lpar;Update: Statement&rpar;](https://www.androidauthority.com/oneplus-youtube-premium-trial-3330418/)
- - [Investigation: of 14 laptops with trackers given to UK retailers to recycle, 10 were recycled correctly; others were sold, likely stolen, or took long journeys &lpar;Financial Times&rpar;](http://www.techmeme.com/230601/p20#a230601p20)
- - [Apple India&#39;s record-breaking sales revealed thanks to unprecedented leak](https://appleinsider.com/articles/23/06/01/apple-indias-record-breaking-sales-revealed-thanks-to-unprecedented-leak?utm_medium=rss)<!-- TECH:END -->
+ - [Meta Quest 3 announced just ahead of Apple headset launch](https://www.androidauthority.com/meta-quest-3-launch-3331075/)
+ - [The best new streaming movies this week on Netflix, Max, Peacock, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Microsoft Teams on Windows 11 gets Discord-like communities and an AI art tool](https://www.theverge.com/2023/6/1/23745051/microsoft-teams-windows-11-communities-designer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
