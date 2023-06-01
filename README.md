@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
- - 🚯 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
+ - 🚖 [What does it mean?](http://9gag.com/gag/amAMRZj)
+ - 🚯 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
  - 🚯 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
 
 --- 
