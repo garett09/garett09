@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Always losing your stuff? A handy Bluetooth tracker can help](https://www.polygon.com/what-to-buy/23707943/best-bluetooth-tracker-item-finder-apple-airtag-tile)
- - [The best Nintendo Switch accessories](https://www.polygon.com/what-to-buy/23592426/best-nintendo-switch-accessories)
- - [Moshapin Shrine location and Lake Intenoch Cave walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745664/moshapin-shrine-location-lake-intenoch-cave-walkthrough-totk)<!-- GAME:END -->
+ - [GSC Game World says Russian hackers are leaking Stalker 2 test builds, please don&#39;t look at them](https://www.pcgamer.com/gsc-game-world-says-russian-hackers-are-leaking-stalker-2-test-builds-please-dont-look-at-them)
+ - [Massive FaZe Clan Drama Over Stranger Things Actor Turns Even Uglier](https://kotaku.com/faze-clan-rain-stranger-things-grace-van-dien-netflix-1850497472)
+ - [Shrine map and locations for Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23688353/totk-shrine-map-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
