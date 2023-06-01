@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deep Rock Galactic gets scary new season, cool jet boots](https://www.polygon.com/23745347/deep-rock-galactic-critical-corruption-season-4-roxpox-jet-boots)
- - [Free Play Days – Tom Clancy’s Rainbow Six Siege, Farming Simulator 22: Platinum Edition, and Ghostrunner](https://news.xbox.com/en-us/2023/06/01/free-play-days-rainbow-six-siege-farming-simulator-22-platinum-edition-and-ghostrunner/)
- - [Stray is pouncing onto newer Macs](https://www.polygon.com/23745219/stray-mac-version-macbook-air-pro)<!-- GAME:END -->
+ - [Surprise: Gloomhaven creator announces new, revised Second Edition](https://www.polygon.com/tabletop-games/23744047/gloomhaven-second-edition-release-date-price)
+ - [Warhammer 40K studio manager Stu Black reflects on the launch of 10th edition](https://www.polygon.com/23743845/40k-studio-manager-interview-10th-edition-combat-patrol)
+ - [Meta Reveals Quest 3, A Sleeker VR Headset With Notable Upgrades](https://kotaku.com/meta-quest-3-revealed-vr-headset-specs-resolution-price-1850496095)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
