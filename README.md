@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man&#39;s Best Friend](http://9gag.com/gag/aYVqAwx)
- - 🚯 [`You deserve better`](http://9gag.com/gag/armqAq7)
- - 🚯 [Totally worth it](http://9gag.com/gag/az2RKEj)<!-- MEMES:END -->
+ - 🚖 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
+ - 🚯 [What do people get out of white knighting?](http://9gag.com/gag/amAMMVy)
+ - 🚯 [This is only for cocksuckers](http://9gag.com/gag/aBdGVeD)<!-- MEMES:END -->
 
 --- 
 
