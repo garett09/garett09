@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)
- - 🚯 [Lmao](http://9gag.com/gag/avQR6vb)
- - 🚯 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)<!-- MEMES:END -->
+ - 🚖 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
+ - 🚯 [Reporter asks questions he agreed not to ask and Robert Downey Jr walks off interview](http://9gag.com/gag/a2K207E)
+ - 🚯 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)<!-- MEMES:END -->
 
 --- 
 
