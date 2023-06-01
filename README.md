@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Quest 3 announced just ahead of Apple headset launch](https://www.androidauthority.com/meta-quest-3-launch-3331075/)
- - [The best new streaming movies this week on Netflix, Max, Peacock, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Microsoft Teams on Windows 11 gets Discord-like communities and an AI art tool](https://www.theverge.com/2023/6/1/23745051/microsoft-teams-windows-11-communities-designer)<!-- TECH:END -->
+ - [Some Apple Savings Account users have had trouble transferring money from their accounts; Goldman representatives have given differing responses on what to do &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/230601/p25#a230601p25)
+ - [Google Wallet will now let you add your gym card and any other pass with a photo](https://www.androidauthority.com/google-wallet-new-items-3331072/)
+ - [Dystopian cat adventure game &#39;Stray&#39; coming to Mac](https://appleinsider.com/articles/23/06/01/dystopian-cat-adventure-game-stray-coming-to-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
