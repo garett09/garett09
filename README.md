@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India says Foxconn&#39;s new iPhone plant will open in April 2024](https://appleinsider.com/articles/23/06/01/india-says-foxconns-new-iphone-plant-will-open-in-april-2024?utm_medium=rss)
- - [After Microsoft paid $7.5B for ZeniMax in 2020, sources detail development issues for Redfall, one of the worst-reviewed games in 2023 and Xbox&#39;s latest misfire &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/230601/p16#a230601p16)
- - [LA- and Bengaluru-based hyperspectral imagery startup Pixxel raised a $36M Series B led by Google, after launching three demonstration satellites in 2022 &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/230601/p15#a230601p15)<!-- TECH:END -->
+ - [Google Wallet is getting custom cards and state IDs this month](https://www.theverge.com/2023/6/1/23745168/google-wallet-state-id-drivers-license-custom-cards)
+ - [June’s Pixel feature drop spruces up Android, Wear OS with new tricks](https://www.androidauthority.com/pixel-feature-drop-june-2023-3330975/)
+ - [&#39;No Man&#39;s Sky&#39; now available on Mac via Steam](https://appleinsider.com/articles/23/06/01/no-mans-sky-now-available-on-mac-via-steam?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
