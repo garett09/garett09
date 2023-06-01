@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia claims Apple helps US spy on iPhone users](https://appleinsider.com/articles/23/06/01/russia-claims-apple-helps-us-spy-on-iphone-users?utm_medium=rss)
- - [The Explosive Legacy of the Pandemic Hand Sanitizer Boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
- - [Ford offering flexible EV leases to Uber drivers](https://www.theverge.com/2023/6/1/23744827/ford-uber-ev-flexible-lease-driver-mustang-mach-e)<!-- TECH:END -->
+ - [An Eating Disorder Chatbot Is Suspended for Giving Harmful Advice](https://www.wired.com/story/tessa-chatbot-suspended/)
+ - [VR Helped Me Visualize Gender Dysphoria](https://www.wired.com/story/body-of-mine-experience-sxsw-2023/)
+ - [This AI Scouting Platform Puts Soccer Talent Spotters Everywhere](https://www.wired.com/story/ai-football-soccer-scouting/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
