@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta will test blocking news for some Canadians ahead of new law](https://www.theverge.com/2023/6/2/23746473/meta-canada-news-block-test-facebook-instagram-online-news-act)
- - [A look at Voyager, a Minecraft bot created by an Nvidia team using GPT-4, which obtains over 3x as many items and builds tools 15x quicker than other AI bots &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230602/p1#a230602p1)
- - [Microsoft Paint finally gets a dark mode for Windows 11](https://www.theverge.com/2023/6/2/23746471/microsoft-paint-dark-mode-windows-11)<!-- TECH:END -->
+ - [Apple denies spying on Russia for the US](https://appleinsider.com/articles/23/06/02/apple-denies-spying-on-russia-for-the-us?utm_medium=rss)
+ - [Why Hollywood Really Fears Generative AI](https://www.wired.com/story/hollywood-actors-artificial-intelligence-performance/)
+ - [The Doughnut Wars Are Here](https://www.wired.com/story/doughnut-urban-legend-food-rules/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
