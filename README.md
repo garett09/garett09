@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Money in Your Venmo and PayPal Apps May Be at Risk, CFPB Says     - CNET](https://www.cnet.com/personal-finance/banking/money-in-your-venmo-and-paypal-apps-may-be-at-risk-cfpb-says/#ftag=CAD590a51e)
- - [Best Roku Device Deals: Find the Right Streaming Player for the Lowest Price     - CNET](https://www.cnet.com/deals/best-roku-device-deals/#ftag=CAD590a51e)
- - [Getty asks London&#39;s High Court to stop UK sales of Stable Diffusion, accusing Stability AI of copyright infringement for training its AI model on Getty&#39;s images &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/230602/p14#a230602p14)<!-- TECH:END -->
+ - [Monoprice Pure Outdoor Emperor 25 portable fridge review: Affordable option for weekend trips](https://appleinsider.com/articles/23/06/02/monoprice-pure-outdoor-emperor-25-portable-fridge-review-affordable-option-for-weekend-trips?utm_medium=rss)
+ - [The 44 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 47 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
