@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jogou Shrine location and Lanayru Road East Cave walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745328/jogou-shrine-location-reward-puzzle-walkthrough)
- - [Next Week on Xbox: New Games for June 5 to 9](https://news.xbox.com/en-us/2023/06/02/next-week-on-xbox-new-games-for-june-5-to-9/)
- - [The versatile Cypher System powers tabletop adventures across genres](https://www.polygon.com/tabletop-games/23745368/how-to-play-cypher-system-dnd-alternative-monte-cook)<!-- GAME:END -->
+ - [Play Diablo IV Today With the Ultimate Edition – and Find Out What’s Coming After Launch](https://news.xbox.com/en-us/2023/06/02/diablo-iv-launch-time-early-access-seasons-battle-pass-twitch/)
+ - [8BitDo’s Xbox Arcade Stick comes just in time for Street Fighter 6](https://www.polygon.com/23745165/8bitdo-xbox-arcade-stick-wireless-wired-features-price)
+ - [The Brilliant Scholar Who’s Challenging Racism In Game Design](https://kotaku.com/kishonna-gray-video-games-racism-consultant-pokemon-go-1850477275)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
