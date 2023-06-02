@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Diablo IV Today With the Ultimate Edition – and Find Out What’s Coming After Launch](https://news.xbox.com/en-us/2023/06/02/diablo-iv-launch-time-early-access-seasons-battle-pass-twitch/)
- - [8BitDo’s Xbox Arcade Stick comes just in time for Street Fighter 6](https://www.polygon.com/23745165/8bitdo-xbox-arcade-stick-wireless-wired-features-price)
- - [The Brilliant Scholar Who’s Challenging Racism In Game Design](https://kotaku.com/kishonna-gray-video-games-racism-consultant-pokemon-go-1850477275)<!-- GAME:END -->
+ - [Final Fantasy 7 Rebirth producer checks in with vague promise it’s still on track](https://www.polygon.com/23746835/final-fantasy-7-rebirth-release-date-producer-update-announcement)
+ - [Share of the Week: PlayStation x Destiny 2](https://blog.playstation.com/2023/06/02/share-of-the-week-playstation-x-destiny-2/)
+ - [How Moving Out 2 Makes Removals Fun for Everyone With In-Depth Accessibility Design](https://news.xbox.com/en-us/2023/06/02/moving-out-2-accessibility/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
