@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take a break from the gay](http://9gag.com/gag/aeQmR4q)
- - 🚯 [From scale of 1 to Anime MCs , how dense are you. .?](http://9gag.com/gag/a8q2nEQ)
- - 🚯 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)<!-- MEMES:END -->
+ - 🚖 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
+ - 🚯 [Take that tiktok.](http://9gag.com/gag/amAMVMd)
+ - 🚯 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)<!-- MEMES:END -->
 
 --- 
 
