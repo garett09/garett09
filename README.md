@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)
- - 🚯 [Take that tiktok.](http://9gag.com/gag/amAMVMd)
- - 🚯 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)<!-- MEMES:END -->
+ - 🚖 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)
+ - 🚯 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
+ - 🚯 [18 year old jumped a fence at 3:00 AM, killing the village mascot, a mother swan guarding her four babies. He stole the four babies and smiled upon his arrest. The lineage of swans have been around for over 100 years since 1905.](http://9gag.com/gag/axoRm7b)<!-- MEMES:END -->
 
 --- 
 
