@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best movies to start the summer off right](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
  - [Capcom wants to know what Resident Evil remake you want next](https://www.pcgamer.com/capcom-wants-to-know-what-resident-evil-remake-you-want-next)
- - [System Shock was originally pitched as Sonic the Hedgehog in space](https://www.pcgamer.com/system-shock-was-originally-pitched-as-sonic-the-hedgehog-in-space)
- - [Blizzard reskins cop cars in Overwatch 2&#39;s Pride-themed map](https://www.pcgamer.com/blizzard-reskins-cop-cars-in-overwatch-2s-pride-themed-map)<!-- GAME:END -->
+ - [System Shock was originally pitched as Sonic the Hedgehog in space](https://www.pcgamer.com/system-shock-was-originally-pitched-as-sonic-the-hedgehog-in-space)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
