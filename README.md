@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best ways to farm XP and gold in Diablo 4](https://www.pcgamer.com/diablo-4-xp-farm-gold)
- - [The best Rogue builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23650988/rogue-best-build-skills)
- - [The best Sorcerer builds and skills in Diablo 4](https://www.polygon.com/diablo-4-guides/23653283/sorcerer-best-build-skills)<!-- GAME:END -->
+ - [Capcom wants to know what Resident Evil remake you want next](https://www.pcgamer.com/capcom-wants-to-know-what-resident-evil-remake-you-want-next)
+ - [System Shock was originally pitched as Sonic the Hedgehog in space](https://www.pcgamer.com/system-shock-was-originally-pitched-as-sonic-the-hedgehog-in-space)
+ - [Blizzard reskins cop cars in Overwatch 2&#39;s Pride-themed map](https://www.pcgamer.com/blizzard-reskins-cop-cars-in-overwatch-2s-pride-themed-map)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
