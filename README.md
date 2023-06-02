@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Rebirth producer checks in with vague promise it’s still on track](https://www.polygon.com/23746835/final-fantasy-7-rebirth-release-date-producer-update-announcement)
- - [Share of the Week: PlayStation x Destiny 2](https://blog.playstation.com/2023/06/02/share-of-the-week-playstation-x-destiny-2/)
- - [How Moving Out 2 Makes Removals Fun for Everyone With In-Depth Accessibility Design](https://news.xbox.com/en-us/2023/06/02/moving-out-2-accessibility/)<!-- GAME:END -->
+ - [Otak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23746807/otak-shrine-location-proving-grounds-traps-walkthrough-totk)
+ - [Here Comes Capcom’s Newest Challenger! Street Fighter 6 Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2023/06/02/street-fighter-6-now-available-for-xbox/)
+ - [Shadows of Doubt mixes immersive sims with murder mystery](https://www.polygon.com/23743064/shadows-of-doubt-proc-gen-detective-game-pc-steam-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
