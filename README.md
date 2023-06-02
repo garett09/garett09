@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox&#39;s Starfield Controller Looks Real, Will Absolutely Take My Money](https://kotaku.com/starfield-xbox-series-x-s-controller-showcase-pre-order-1850500473)
- - [How to get the Hylian Shield in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23725413/hylian-shield-location-docks)
- - [Publisher apologizes after fans spot signs of AI generation in contract artist&#39;s Duke Nukem promo illustration](https://www.pcgamer.com/publisher-apologizes-after-fans-spot-signs-of-ai-generation-in-contract-artists-duke-nukem-promo-illustration)<!-- GAME:END -->
+ - [The best PS5 accessories](https://www.polygon.com/what-to-buy/23644587/best-ps5-accessories)
+ - [This Week on Xbox: Street Fighting, Hell Raising, and Tons of New Games](https://news.xbox.com/en-us/2023/06/02/this-week-on-xbox-street-fighting-hell-raising-and-tons-of-new-games/)
+ - [The best portable chargers for your gear](https://www.polygon.com/what-to-buy/23672627/best-power-bank-portable-chargers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
