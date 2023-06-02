@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Toyoda, you are](http://9gag.com/gag/ago4jZW)
- - 🚯 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
- - 🚯 [What does it mean?](http://9gag.com/gag/amAMRZj)<!-- MEMES:END -->
+ - 🚖 [Soon, Norway will make it illegal for 16 year olds to purchase energy drinks](http://9gag.com/gag/aXnWe7D)
+ - 🚯 [What does blue mean?](http://9gag.com/gag/aA02Z02)
+ - 🚯 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)<!-- MEMES:END -->
 
 --- 
 
