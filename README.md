@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
- - 🚯 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)
- - 🚯 [Wait a damn minute](http://9gag.com/gag/aGEA2Gn)<!-- MEMES:END -->
+ - 🚖 [Take that tiktok.](http://9gag.com/gag/amAMVMd)
+ - 🚯 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)
+ - 🚯 [What does it mean?](http://9gag.com/gag/amAMRZj)<!-- MEMES:END -->
 
 --- 
 
