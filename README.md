@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PS5 accessories](https://www.polygon.com/what-to-buy/23644587/best-ps5-accessories)
- - [This Week on Xbox: Street Fighting, Hell Raising, and Tons of New Games](https://news.xbox.com/en-us/2023/06/02/this-week-on-xbox-street-fighting-hell-raising-and-tons-of-new-games/)
- - [The best portable chargers for your gear](https://www.polygon.com/what-to-buy/23672627/best-power-bank-portable-chargers)<!-- GAME:END -->
+ - [Diablo 4&#39;s first hotfix buffs enemies in the difficulty level you probably haven&#39;t even played yet](https://www.pcgamer.com/diablo-4s-first-hotfix-buffs-enemies-in-the-difficulty-level-you-probably-havent-even-played-yet)
+ - [Barbie movie set used so much pink paint it caused a shortage](https://www.polygon.com/23747317/barbie-movie-dreamhouse-set-pink-paint-international-shortage)
+ - [After watching the explosive documentary on Disco Elysium&#39;s legal battle, I can&#39;t fathom how Disco Elysium 2 will ever be made](https://www.pcgamer.com/after-watching-the-explosive-documentary-on-disco-elysiums-legal-battle-i-cant-fathom-how-disco-elysium-2-will-ever-be-made)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
