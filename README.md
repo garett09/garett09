@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Soon, Norway will make it illegal for 16 year olds to purchase energy drinks](http://9gag.com/gag/aXnWe7D)
- - 🚯 [What does blue mean?](http://9gag.com/gag/aA02Z02)
- - 🚯 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)<!-- MEMES:END -->
+ - 🚖 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)
+ - 🚯 [Soon, Norway will make it illegal for 16 year olds to purchase energy drinks](http://9gag.com/gag/aXnWe7D)
+ - 🚯 [What does blue mean?](http://9gag.com/gag/aA02Z02)<!-- MEMES:END -->
 
 --- 
 
