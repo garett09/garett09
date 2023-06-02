@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA’s Year-Long Mars Simulation Is a Test of Mental Mettle](https://www.wired.com/story/nasa-chapea-mars-simulation-test-of-mental-mettle/)
- - [A proposed class action lawsuit accuses Elon Musk of insider trading by manipulating Dogecoin; Musk allegedly sold ~$124M in DOGE after Twitter&#39;s logo change &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/230602/p4#a230602p4)
- - [This DIY kit lets you use an old Nintendo 64 controller wirelessly with the Switch](https://www.theverge.com/2023/6/2/23746491/8bitdo-nintendo-64-n64-diy-wireless-mod-kit-bluetooth)<!-- TECH:END -->
+ - [Apple petitioned India for slacker labor laws, and unions are fighting back](https://appleinsider.com/articles/23/06/02/apple-petitioned-india-for-slacker-labor-laws-and-unions-are-fighting-back?utm_medium=rss)
+ - [Oof, some Pixel Watch units are randomly popping open](https://www.androidauthority.com/google-pixel-watch-backplate-issues-3331307/)
+ - [Priority E-Coast Review: High Maintenance Ebike](https://www.wired.com/review/priority-e-coast/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
