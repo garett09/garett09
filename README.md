@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Wait a damn minute](http://9gag.com/gag/aGEA2Gn)
- - 🚯 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
- - 🚯 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)<!-- MEMES:END -->
+ - 🚯 [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)
+ - 🚯 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)<!-- MEMES:END -->
 
 --- 
 
