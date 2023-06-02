@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monoprice Pure Outdoor Emperor 25 portable fridge review: Affordable option for weekend trips](https://appleinsider.com/articles/23/06/02/monoprice-pure-outdoor-emperor-25-portable-fridge-review-affordable-option-for-weekend-trips?utm_medium=rss)
- - [The 44 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 47 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [ASUS Zenfone 10: Everything we know so far](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)
+ - [The Diablo IV &lpar;not&rpar; review](https://www.theverge.com/23747068/diablo-iv-review-blizzard-class-customization)
+ - [Some other ideas for bundling with Amazon Prime](https://www.theverge.com/2023/6/2/23747151/amazon-prime-bundle-mobile-service)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
