@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)
+ - 🚖 [Toyoda, you are](http://9gag.com/gag/ago4jZW)
  - 🚯 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
  - 🚯 [What does it mean?](http://9gag.com/gag/amAMRZj)<!-- MEMES:END -->
 
