@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)
- - 🚯 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
- - 🚯 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
+ - 🚖 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)
+ - 🚯 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
+ - 🚯 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)<!-- MEMES:END -->
 
 --- 
 
