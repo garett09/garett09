@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blaseball, the bizarre, beautiful sports gambling horror sim, is ending forever](https://www.pcgamer.com/blaseball-the-bizarre-beautiful-sports-gambling-horror-sim-is-ending-forever)
- - [Twitch Streamer&#39;s Soccer Team Pulls From $1M Tourney Over Racism Allegations](https://kotaku.com/dallas-united-west-ham-the-soccer-tournament-ferdinand-1850502063)
- - [Handheld gaming&#39;s greatest dungeon crawlers manage to hold their own on PC](https://www.pcgamer.com/handheld-gamings-greatest-dungeon-crawlers-manage-to-hold-their-own-on-pc)<!-- GAME:END -->
+ - [Fox Journo Riled Over Tears Of The Kingdom&#39;s Link Becoming A ‘Trans Icon’](https://kotaku.com/tears-of-the-kingdom-link-fox-news-trans-nonbinary-gay-1850502197)
+ - [Diablo 4 high resolution assets: should you install them?](https://www.pcgamer.com/diablo-4-high-resolution-assets-should-you-install-them)
+ - [BlackBerry, Magic Mike’s Last Dance, To Leslie on Netflix, and every new movie to watch at home this weekend](https://www.polygon.com/2023/6/2/23742334/new-movies-watch-blackberry-netflix-to-leslie-magic-mikes-last-dance-max)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
