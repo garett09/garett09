@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Otak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23746807/otak-shrine-location-proving-grounds-traps-walkthrough-totk)
- - [Here Comes Capcom’s Newest Challenger! Street Fighter 6 Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2023/06/02/street-fighter-6-now-available-for-xbox/)
- - [Shadows of Doubt mixes immersive sims with murder mystery](https://www.polygon.com/23743064/shadows-of-doubt-proc-gen-detective-game-pc-steam-early-access)<!-- GAME:END -->
+ - [What to inscribe on the Holy Cedar Tablet in Diablo 4?](https://www.polygon.com/diablo-4-guides/23746938/hold-cedar-tablet-rite-of-passage-sin-decision-choice)
+ - [Xbox&#39;s Starfield Controller Looks Real, Will Absolutely Take My Money](https://kotaku.com/starfield-xbox-series-x-s-controller-showcase-pre-order-1850500473)
+ - [Here’s The Fix For Diablo IV Couch Co-Op](https://kotaku.com/diablo-4-couch-coop-game-sharing-ps5-xbox-series-x-s-1850500870)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
