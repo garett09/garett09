@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies to start the summer off right](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
- - [Capcom wants to know what Resident Evil remake you want next](https://www.pcgamer.com/capcom-wants-to-know-what-resident-evil-remake-you-want-next)
- - [System Shock was originally pitched as Sonic the Hedgehog in space](https://www.pcgamer.com/system-shock-was-originally-pitched-as-sonic-the-hedgehog-in-space)<!-- GAME:END -->
+ - [Jogou Shrine location and Lanayru Road East Cave walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745328/jogou-shrine-location-reward-puzzle-walkthrough)
+ - [Next Week on Xbox: New Games for June 5 to 9](https://news.xbox.com/en-us/2023/06/02/next-week-on-xbox-new-games-for-june-5-to-9/)
+ - [The versatile Cypher System powers tabletop adventures across genres](https://www.polygon.com/tabletop-games/23745368/how-to-play-cypher-system-dnd-alternative-monte-cook)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
