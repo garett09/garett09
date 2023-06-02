@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait a damn minute](http://9gag.com/gag/aGEA2Gn)
- - 🚯 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)
- - 🚯 [POS drops a concrete block from 12th floor at a 5 year old and his dad](http://9gag.com/gag/aMEvvBG)<!-- MEMES:END -->
+ - 🚖 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)
+ - 🚯 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)
+ - 🚯 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
 
 --- 
 
