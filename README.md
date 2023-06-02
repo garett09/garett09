@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
- - 🚯 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)
- - 🚯 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)<!-- MEMES:END -->
+ - 🚖 [From scale of 1 to Anime MCs , how dense are you. .?](http://9gag.com/gag/a8q2nEQ)
+ - 🚯 [Take a break from the gay](http://9gag.com/gag/aeQmR4q)
+ - 🚯 [These Two.](http://9gag.com/gag/aqeWpGj)<!-- MEMES:END -->
 
 --- 
 
