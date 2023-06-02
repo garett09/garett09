@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)
- - 🚯 [Soon, Norway will make it illegal for 16 year olds to purchase energy drinks](http://9gag.com/gag/aXnWe7D)
- - 🚯 [What does blue mean?](http://9gag.com/gag/aA02Z02)<!-- MEMES:END -->
+ - 🚖 [Wait a damn minute](http://9gag.com/gag/aGEA2Gn)
+ - 🚯 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
+ - 🚯 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)<!-- MEMES:END -->
 
 --- 
 
