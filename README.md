@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4&#39;s first hotfix buffs enemies in the difficulty level you probably haven&#39;t even played yet](https://www.pcgamer.com/diablo-4s-first-hotfix-buffs-enemies-in-the-difficulty-level-you-probably-havent-even-played-yet)
- - [Barbie movie set used so much pink paint it caused a shortage](https://www.polygon.com/23747317/barbie-movie-dreamhouse-set-pink-paint-international-shortage)
- - [After watching the explosive documentary on Disco Elysium&#39;s legal battle, I can&#39;t fathom how Disco Elysium 2 will ever be made](https://www.pcgamer.com/after-watching-the-explosive-documentary-on-disco-elysiums-legal-battle-i-cant-fathom-how-disco-elysium-2-will-ever-be-made)<!-- GAME:END -->
+ - [Blaseball, the bizarre, beautiful sports gambling horror sim, is ending forever](https://www.pcgamer.com/blaseball-the-bizarre-beautiful-sports-gambling-horror-sim-is-ending-forever)
+ - [Twitch Streamer&#39;s Soccer Team Pulls From $1M Tourney Over Racism Allegations](https://kotaku.com/dallas-united-west-ham-the-soccer-tournament-ferdinand-1850502063)
+ - [Handheld gaming&#39;s greatest dungeon crawlers manage to hold their own on PC](https://www.pcgamer.com/handheld-gamings-greatest-dungeon-crawlers-manage-to-hold-their-own-on-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
