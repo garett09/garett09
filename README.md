@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reportedly in talks to bundle mobile phone service as Prime perk](https://www.theverge.com/2023/6/2/23746605/amazon-prime-wireless-mvno-report-phone-service)
- - [Apple unveils opening date for new retail store at London&#39;s Battersea Power Station](https://appleinsider.com/articles/23/06/02/apple-unveils-opening-date-for-new-retail-store-at-londons-battersea-power-station?utm_medium=rss)
- - [Artifact, the news app founded by Instagram&#39;s co-founders, will use a GPT-4 model to rewrite the headlines of articles marked as clickbait by the Artifact team &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230602/p9#a230602p9)<!-- TECH:END -->
+ - [After 3 years with a Chromecast, I just want Nvidia to make a new Shield TV](https://www.androidauthority.com/want-new-nvidia-shield-tv-3331121/)
+ - [Rollo wireless label printer review: Thermal, AirPrint-enabled postage printing](https://appleinsider.com/articles/23/06/02/rollo-wireless-printer-review-a-thermal-airprint-enabled-printer-for-label-creation?utm_medium=rss)
+ - [A new Targus backpack can connect to Apple&#39;s &#39;Find My&#39; network](https://appleinsider.com/articles/23/06/02/a-new-targus-backpack-can-connect-to-apples-find-my-network?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
