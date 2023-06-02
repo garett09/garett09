@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS Zenfone 10: Everything we know so far](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)
- - [The Diablo IV &lpar;not&rpar; review](https://www.theverge.com/23747068/diablo-iv-review-blizzard-class-customization)
- - [Some other ideas for bundling with Amazon Prime](https://www.theverge.com/2023/6/2/23747151/amazon-prime-bundle-mobile-service)<!-- TECH:END -->
+ - [ChatGPT and other LLM tools have already replaced some marketing and social media writers as many companies decide cutting costs is worth the drop in quality &lpar;Washington Post&rpar;](http://www.techmeme.com/230602/p17#a230602p17)
+ - [Microsoft will end support for Cortana on Windows later this year](https://www.theverge.com/2023/6/2/23747162/microsoft-windows-ai-cortana-end-support)
+ - [Inside Apple Pacific Center: Vancouver&#39;s gorgeous store](https://appleinsider.com/articles/23/06/02/inside-apple-pacific-center-vancouvers-gorgeous-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
