@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After 3 years with a Chromecast, I just want Nvidia to make a new Shield TV](https://www.androidauthority.com/want-new-nvidia-shield-tv-3331121/)
- - [Rollo wireless label printer review: Thermal, AirPrint-enabled postage printing](https://appleinsider.com/articles/23/06/02/rollo-wireless-printer-review-a-thermal-airprint-enabled-printer-for-label-creation?utm_medium=rss)
- - [A new Targus backpack can connect to Apple&#39;s &#39;Find My&#39; network](https://appleinsider.com/articles/23/06/02/a-new-targus-backpack-can-connect-to-apples-find-my-network?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft says it expects to take a charge of about $425M in Q2 for a potential fine from Irish DPC over alleged LinkedIn targeted ads privacy violations &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/230602/p12#a230602p12)
+ - [Robert Asprin Was One of Sci-Fi&#39;s Most Colorful Characters](https://www.wired.com/2023/06/geeks-guide-robert-asprin/)
+ - [WWDC 2023: what to expect and how to watch Apple’s Worldwide Developers Conference](https://www.theverge.com/23728368/wwdc-2023-date-time-live-stream-watch-how-to-rumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
