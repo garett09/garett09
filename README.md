@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What does it mean?](http://9gag.com/gag/amAMRZj)
- - 🚯 [A newly constructed road in Maharashtra, India. May 2023](http://9gag.com/gag/a7q2VXq)
- - 🚯 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
+ - 🚖 [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)
+ - 🚯 [Take that tiktok.](http://9gag.com/gag/amAMVMd)
+ - 🚯 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)<!-- MEMES:END -->
 
 --- 
 
