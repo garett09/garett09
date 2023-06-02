@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Temptations, people. Temptations everywhere!](http://9gag.com/gag/a5X25Qr)
- - 🚯 [20 mechanical principles demonstrated in Lego technic](http://9gag.com/gag/aYVqRov)
- - 🚯 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)<!-- MEMES:END -->
+ - 🚖 [Do NOT! Copy that code](http://9gag.com/gag/a7q220q)
+ - 🚯 [Doctor\u2019s note no longer accepted](http://9gag.com/gag/aKEeer3)
+ - 🚯 [What does it mean?](http://9gag.com/gag/amAMRZj)<!-- MEMES:END -->
 
 --- 
 
