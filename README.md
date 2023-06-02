@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [O-ogim Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745879/o-ogim-shrine-location-walkthrough-solution-reward)
- - [Which class should you choose in Diablo 4?](https://www.polygon.com/diablo-4-guides/23654552/best-class-sorcerer-barbarian-druid-rogue-necromancer)
- - [How to use aspects to power up your gear in Diablo 4](https://www.polygon.com/diablo-4-guides/23654101/aspects-codex-power-occultist-extract-imprint)<!-- GAME:END -->
+ - [Here&#39;s how each Diablo 4 class is performing in the race to level 100](https://www.pcgamer.com/heres-how-each-diablo-4-class-is-performing-in-the-race-to-level-100-so-far)
+ - [Diablo IV Players Getting Launch Errors, But Not If They Pay Up](https://kotaku.com/diablo-iv-4-ps5-valid-license-launch-issue-problem-pay-1850498312)
+ - [Some Of Diablo IV’s Special Armor Sets Will Cost You $25](https://kotaku.com/diablo-4-shop-cosmetic-armor-mounts-microtransactions-1850498188)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
