@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)
- - 🚯 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)
- - 🚯 [Take that tiktok.](http://9gag.com/gag/amAMVMd)<!-- MEMES:END -->
+ - 🚖 [What are the Chinese training for?](http://9gag.com/gag/a9q2X6L)
+ - 🚯 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)
+ - 🚯 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)<!-- MEMES:END -->
 
 --- 
 
