@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft has agreed to spend potentially billions of dollars on CoreWeave; the GPU cloud provider raised $200M, bringing its Series B round to $421M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230601/p35#a230601p35)
- - [Eve Flare review: Thread makes for a more responsive smart light](https://appleinsider.com/articles/23/06/01/eve-flare-review-thread-makes-for-a-more-responsive-smart-light?utm_medium=rss)
- - [Best Portable Mini Bluetooth Speakers for 2023: Top Compact Waterproof Wireless Speakers     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US DOD says the Pentagon is buying Starlink satellite communications terminals and services for Ukraine military use, after a funding dispute with SpaceX &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/230601/p37#a230601p37)
+ - [Twitter head of trust and safety Ella Irwin has resigned](https://www.theverge.com/2023/6/1/23746223/twitter-ella-irwin-resigned-trust-safety-elon-musk)
+ - [Twitter&#39;s VP of Trust and Safety Ella Irwin says she has resigned from the company &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/230601/p36#a230601p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
