@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple petitioned India for slacker labor laws, and unions are fighting back](https://appleinsider.com/articles/23/06/02/apple-petitioned-india-for-slacker-labor-laws-and-unions-are-fighting-back?utm_medium=rss)
- - [Oof, some Pixel Watch units are randomly popping open](https://www.androidauthority.com/google-pixel-watch-backplate-issues-3331307/)
- - [Priority E-Coast Review: High Maintenance Ebike](https://www.wired.com/review/priority-e-coast/)<!-- TECH:END -->
+ - [Let’s Make a Deal—With Python!](https://www.wired.com/story/monty-hall-problem-python/)
+ - [&#39;Spider-Man: Across the Spider-Verse&#39; Is Everything the MCU Is Missing](https://www.wired.com/story/spider-man-across-the-spider-verse-review/)
+ - [How to Use Split Screen &lpar;2023&rpar;: Windows, Mac, Chromebook, Android, iPad](https://www.wired.com/story/how-to-use-split-screen/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
