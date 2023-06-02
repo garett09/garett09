@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From scale of 1 to Anime MCs , how dense are you. .?](http://9gag.com/gag/a8q2nEQ)
- - 🚯 [Take a break from the gay](http://9gag.com/gag/aeQmR4q)
- - 🚯 [These Two.](http://9gag.com/gag/aqeWpGj)<!-- MEMES:END -->
+ - 🚖 [Wait a damn minute](http://9gag.com/gag/aGEA2Gn)
+ - 🚯 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
+ - 🚯 [POS drops a concrete block from 12th floor at a 5 year old and his dad](http://9gag.com/gag/aMEvvBG)<!-- MEMES:END -->
 
 --- 
 
