@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mexico lindo at it](http://9gag.com/gag/aqeWpAv)
- - 🚯 [I wanna meet her dad!](http://9gag.com/gag/aqeWV9Z)
- - 🚯 [US women&#39;s football team, represented by several former USWT players, make a bold speech to Wrexham owner Ryan Reynolds before a friendly game. The women ended up losing 12-0, Wrexham are a 4th division team in England, these are retired players, and the match was just 40 minutes](http://9gag.com/gag/amAMKe2)<!-- MEMES:END -->
+ - 🚖 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
+ - 🚯 [What does it mean?](http://9gag.com/gag/amAMRZj)
+ - 🚯 [I wanna meet her dad!](http://9gag.com/gag/aqeWV9Z)<!-- MEMES:END -->
 
 --- 
 
