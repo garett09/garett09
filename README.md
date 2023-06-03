@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
- - 🚯 [What does it mean?](http://9gag.com/gag/amAMRZj)
- - 🚯 [I wanna meet her dad!](http://9gag.com/gag/aqeWV9Z)<!-- MEMES:END -->
+ - 🚖 [US women&#39;s football team, represented by several former USWT players, make a bold speech to Wrexham owner Ryan Reynolds before a friendly game. The women ended up losing 12-0, Wrexham are a 4th division team in England, these are retired players, and the match was just 40 minutes](http://9gag.com/gag/amAMKe2)
+ - 🚯 [Been in construction for 12 years and this never ceases to amaze me](http://9gag.com/gag/armqzzy)
+ - 🚯 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)<!-- MEMES:END -->
 
 --- 
 
