@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [US women&#39;s football team, represented by several former USWT players, make a bold speech to Wrexham owner Ryan Reynolds before a friendly game. The women ended up losing 12-0, Wrexham are a 4th division team in England, these are retired players, and the match was just 40 minutes](http://9gag.com/gag/amAMKe2)
- - 🚯 [In Saratov, Russia, a girl was awaken by knocking on the window at 4 am](http://9gag.com/gag/amAMO79)
+ - 🚖 [In Saratov, Russia, a girl was awaken by knocking on the window at 4 am](http://9gag.com/gag/amAMO79)
+ - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)
  - 🚯 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)<!-- MEMES:END -->
 
 --- 
