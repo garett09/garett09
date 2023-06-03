@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We shouldn&#39;t have to live like this.](http://9gag.com/gag/abvBogb)
- - 🚯 [Shameless man harasses Asians people for coming to &#39;his country&#39; and &#39;brought racism to the hood&#39;](http://9gag.com/gag/a7q2A2z)
- - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)<!-- MEMES:END -->
+ - 🚖 [Shameless man harasses Asians people for coming to &#39;his country&#39; and &#39;brought racism to the hood&#39;](http://9gag.com/gag/a7q2A2z)
+ - 🚯 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
+ - 🚯 [No lube](http://9gag.com/gag/ap9bjdE)<!-- MEMES:END -->
 
 --- 
 
