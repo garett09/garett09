@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how I got rid of those annoying Twitter threads &lpar;plus a few extra tips&rpar;](https://www.androidauthority.com/mute-twitter-threads-3330468/)
- - [Nintendo Switch Tips &lpar;2023&rpar;: 21 Surprising Things It Can Do &lpar;OLED, Lite, Standard&rpar;](https://www.wired.com/story/10-surprising-things-you-can-do-with-your-nintendo-switch/)
- - [How to control what boots up with Windows](https://www.theverge.com/23746662/windows-app-process-bootup-how-to-microsoft)<!-- TECH:END -->
+ - [Deals: $949 off M1 16-inch MacBook Pro, $40 of Sonos One SL, $10 Bullstrap leather iPhone cases, and more](https://appleinsider.com/articles/23/06/03/deals-949-off-m1-16-inch-macbook-pro-40-of-sonos-one-sl-10-bullstrap-leather-iphone-cases-and-more?utm_medium=rss)
+ - [With AR/VR startup funding from October 2022 to March 2023 falling 74% YoY to $800M, per PitchBook, the industry hopes Apple&#39;s MR headset could lure back VCs &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230603/p8#a230603p8)
+ - [Baseus Blade Laptop Power Bank Review: Empower your mobile workstation](https://appleinsider.com/articles/23/06/03/baseus-blade-laptop-power-bank-review-empower-your-mobile-workstation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
