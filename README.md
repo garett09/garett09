@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I switched from an iPad to a OnePlus Pad for one simple reason](https://www.androidauthority.com/oneplus-pad-fast-charging-3322601/)
- - [A look at India&#39;s hacking-for-hire industry, which has a tacit alliance with the government and is unusually brazen, with firms publicly touting their services &lpar;David D. Kirkpatrick/New Yorker&rpar;](http://www.techmeme.com/230603/p6#a230603p6)
- - [A profile of Nvidia, including how Jensen Huang, Curtis Priem, and Chris Malachowsky started the company at Denny&#39;s and placed early bets on &quot;$0B markets&quot; &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230603/p5#a230603p5)<!-- TECH:END -->
+ - [Bluesky’s Custom Algorithms Could Be the Future of Social Media](https://www.wired.com/story/bluesky-my-feeds-custom-algorithms/)
+ - [12 Best Deals: Portable Grills, Coolers, and Fitness Trackers](https://www.wired.com/story/weekend-deals-june-03-2023/)
+ - [Chun Li Finally Has an Asian American Voice Actor](https://www.wired.com/story/jennie-kwan-chun-li-street-fighter-6-interview/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
