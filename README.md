@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)
- - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)
- - 🚯 [Typical](http://9gag.com/gag/aEqDOKM)<!-- MEMES:END -->
+ - 🚖 [What does it mean?](http://9gag.com/gag/amAMRZj)
+ - 🚯 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)
+ - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)<!-- MEMES:END -->
 
 --- 
 
