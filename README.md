@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With Magic Mike’s Last Dance on streaming, it’s easy to watch its one good scene](https://www.polygon.com/23747222/magic-mike-last-dance-best-scene-channing-tatum-salma-hayek-pinault)
- - [Devs Abandon KOTOR 2 Restoration DLC On Switch, Apologize With Free Games](https://kotaku.com/star-wars-kotor-2-restoration-dlc-switch-canceled-free-1850503095)
- - [Some of the best PS5 games are up to $40 off](https://www.polygon.com/deals/2023/6/3/23746607/best-gaming-deals-ps5-playstation-5-games-deals)<!-- GAME:END -->
+ - [EA is doing some vague nonsense on Nike&#39;s NFT platform](https://www.pcgamer.com/ea-is-doing-some-vague-nonsense-on-nikes-nft-platform)
+ - [Please observe a whole symphonic orchestra recording the Vampire Survivors soundtrack](https://www.pcgamer.com/please-observe-a-whole-symphonic-orchestra-recording-the-vampire-survivors-soundtrack)
+ - [With Magic Mike’s Last Dance on streaming, it’s easy to watch its one good scene](https://www.polygon.com/23747222/magic-mike-last-dance-best-scene-channing-tatum-salma-hayek-pinault)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
