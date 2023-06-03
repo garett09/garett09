@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shameless man harasses Asians people for coming to &#39;his country&#39; and &#39;brought racism to the hood&#39;](http://9gag.com/gag/a7q2A2z)
- - 🚯 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)
- - 🚯 [No lube](http://9gag.com/gag/ap9bjdE)<!-- MEMES:END -->
+ - 🚖 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)
+ - 🚯 [US women&#39;s football team, represented by several former USWT players, make a bold speech to Wrexham owner Ryan Reynolds before a friendly game. The women ended up losing 12-0, Wrexham are a 4th division team in England, these are retired players, and the match was just 40 minutes](http://9gag.com/gag/amAMKe2)
+ - 🚯 [Shameless man harasses Asians people for coming to &#39;his country&#39; and &#39;brought racism to the hood&#39;](http://9gag.com/gag/a7q2A2z)<!-- MEMES:END -->
 
 --- 
 
