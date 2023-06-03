@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Book 3 Pro 360 review: A top Windows 2-in-1 for Samsung users](https://www.androidauthority.com/samsung-galaxy-book-3-pro-360-review-3328212/)
- - [Blaseball season is over for good](https://www.theverge.com/2023/6/3/23744507/blaseball-shutdown-fantasy-baseball-horror-simulation)
- - [Huanuo lap desk review: Comfort and convenience for MacBook users](https://appleinsider.com/articles/23/06/03/huanuo-lap-desk-review-comfort-and-convenience-for-macbook-users?utm_medium=rss)<!-- TECH:END -->
+ - [Computex 2023: all the news from Taiwan’s big PC show](https://www.theverge.com/2023/5/29/23739290/computex-2023-laptop-pc-announcement-news)
+ - [Google Wallet rolls out support for US state IDs, starting with Maryland, and plans to add IDs from Arizona, Colorado, and Georgia in the coming months &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230603/p12#a230603p12)
+ - [Samsung Galaxy Book 3 Pro 360 review: A top Windows 2-in-1 for Samsung users](https://www.androidauthority.com/samsung-galaxy-book-3-pro-360-review-3328212/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
