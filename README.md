@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Nvidia, including how Jensen Huang, Curtis Priem, and Chris Malachowsky started the company at Denny&#39;s and placed early bets on &quot;$0B markets&quot; &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230603/p5#a230603p5)
- - [Harvard&#39;s popular MOOC CS50 plans to use AI to grade assignments, teach coding, and personalize tips, and is testing a virtual TA to give feedback to students &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/230603/p4#a230603p4)
- - [Sources: Zume, which used robots to automate pizza-making, shuts down and is undergoing liquidation; the startup raised $375M from SoftBank and $445M in total &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230603/p3#a230603p3)<!-- TECH:END -->
+ - [I switched from an iPad to a OnePlus Pad for one simple reason](https://www.androidauthority.com/oneplus-pad-fast-charging-3322601/)
+ - [A look at India&#39;s hacking-for-hire industry, which has a tacit alliance with the government and is unusually brazen, with firms publicly touting their services &lpar;David D. Kirkpatrick/New Yorker&rpar;](http://www.techmeme.com/230603/p6#a230603p6)
+ - [A profile of Nvidia, including how Jensen Huang, Curtis Priem, and Chris Malachowsky started the company at Denny&#39;s and placed early bets on &quot;$0B markets&quot; &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230603/p5#a230603p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
