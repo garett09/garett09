@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look the audacity of this self-checkoit machine asking me for tip](http://9gag.com/gag/aMEv71M)
- - 🚯 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)
- - 🚯 [In Saratov, Russia, a girl was awaken by knocking on the window at 4 am](http://9gag.com/gag/amAMO79)<!-- MEMES:END -->
+ - 🚖 [In Saratov, Russia, a girl was awaken by knocking on the window at 4 am](http://9gag.com/gag/amAMO79)
+ - 🚯 [Shameless man harasses Asians people for coming to &#39;his country&#39; and &#39;brought racism to the hood&#39;](http://9gag.com/gag/a7q2A2z)
+ - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)<!-- MEMES:END -->
 
 --- 
 
