@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Is Being Used to ‘Turbocharge’ Scams](https://www.wired.com/story/security-roundup-ai-scams-voice-cloning/)
- - [Audi Q8 E-tron 2023: Review, Prices, Specs](https://www.wired.com/review/review-audi-q8-e-tron/)
- - [Half a year later, the Pixel 7 Pro is a smartphone that isn’t a lot wiser](https://www.theverge.com/23745787/google-pixel-7-pro-direct-my-call-clear-calling-assistant-features)<!-- TECH:END -->
+ - [Here’s how I got rid of those annoying Twitter threads &lpar;plus a few extra tips&rpar;](https://www.androidauthority.com/mute-twitter-threads-3330468/)
+ - [Nintendo Switch Tips &lpar;2023&rpar;: 21 Surprising Things It Can Do &lpar;OLED, Lite, Standard&rpar;](https://www.wired.com/story/10-surprising-things-you-can-do-with-your-nintendo-switch/)
+ - [How to control what boots up with Windows](https://www.theverge.com/23746662/windows-app-process-bootup-how-to-microsoft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
