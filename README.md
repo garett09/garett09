@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vimeo plans to end support for its TV apps on June 27, 2023, saying video-casting will give customers a &quot;better ongoing experience&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230602/p19#a230602p19)
- - [How to Get Ready for Summer Workouts     - CNET](https://www.cnet.com/health/fitness/how-to-get-ready-for-summer-workouts-like-a-pro/#ftag=CAD590a51e)
- - [Tesla claims every new Model 3 now qualifies for $7,500 EV tax credit in US](https://www.theverge.com/2023/6/2/23747511/tesla-model-3-7500-tax-credit-ev)<!-- TECH:END -->
+ - [In an interim ruling, a Kenyan court orders the suspension of the mass sacking of 184 content moderators by Meta contractor Sama; Meta plans to appeal &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/230603/p2#a230603p2)
+ - [Sources: telecom ministers from 18 EU countries either rejected or criticized a push by European telcos to force Big Tech to help fund 5G and broadband rollout &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230603/p1#a230603p1)
+ - [Best Satellite Internet Providers of 2023     - CNET](https://www.cnet.com/home/internet/best-satellite-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
