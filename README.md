@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fox Journo Riled Over Tears Of The Kingdom&#39;s Link Becoming A ‘Trans Icon’](https://kotaku.com/tears-of-the-kingdom-link-fox-news-trans-nonbinary-gay-1850502197)
- - [Diablo 4 high resolution assets: should you install them?](https://www.pcgamer.com/diablo-4-high-resolution-assets-should-you-install-them)
- - [BlackBerry, Magic Mike’s Last Dance, To Leslie on Netflix, and every new movie to watch at home this weekend](https://www.polygon.com/2023/6/2/23742334/new-movies-watch-blackberry-netflix-to-leslie-magic-mikes-last-dance-max)<!-- GAME:END -->
+ - [Devastating glitches end Diablo 4 race to level 100 Hardcore runs early](https://www.pcgamer.com/devastating-glitches-end-diablo-4-race-to-level-100-hardcore-runs)
+ - [Wild Diablo IV Bug Spawns Unholy Amount Of Boss Enemies](https://kotaku.com/diablo-4-iv-darcel-clone-bug-spawn-broken-fix-quest-1850502230)
+ - [The PC game releases we&#39;re most excited about in June](https://www.pcgamer.com/june-2023-release-calendar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
