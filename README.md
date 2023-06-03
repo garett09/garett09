@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an interim ruling, a Kenyan court orders the suspension of the mass sacking of 184 content moderators by Meta contractor Sama; Meta plans to appeal &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/230603/p2#a230603p2)
- - [Sources: telecom ministers from 18 EU countries either rejected or criticized a push by European telcos to force Big Tech to help fund 5G and broadband rollout &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/230603/p1#a230603p1)
- - [Best Satellite Internet Providers of 2023     - CNET](https://www.cnet.com/home/internet/best-satellite-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Nvidia, including how Jensen Huang, Curtis Priem, and Chris Malachowsky started the company at Denny&#39;s and placed early bets on &quot;$0B markets&quot; &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/230603/p5#a230603p5)
+ - [Harvard&#39;s popular MOOC CS50 plans to use AI to grade assignments, teach coding, and personalize tips, and is testing a virtual TA to give feedback to students &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/230603/p4#a230603p4)
+ - [Sources: Zume, which used robots to automate pizza-making, shuts down and is undergoing liquidation; the startup raised $375M from SoftBank and $445M in total &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/230603/p3#a230603p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
