@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonnet updates Echo 11 Thunderbolt 4 Dock with HDMI port](https://appleinsider.com/articles/23/06/03/sonnet-updates-echo-11-thunderbolt-4-dock-with-hdmi-port?utm_medium=rss)
- - [Exclusive: Everything you want to know about the Pixel 8’s processor leaked](https://www.androidauthority.com/pixel-8-tensor-g3-specs-3331398/)
- - [How to Find Downloaded Files on an iPhone or Android Phone &lpar;2023&rpar;](https://www.wired.com/story/how-to-find-downloaded-files/)<!-- TECH:END -->
+ - [AI Is Being Used to ‘Turbocharge’ Scams](https://www.wired.com/story/security-roundup-ai-scams-voice-cloning/)
+ - [Audi Q8 E-tron 2023: Review, Prices, Specs](https://www.wired.com/review/review-audi-q8-e-tron/)
+ - [Half a year later, the Pixel 7 Pro is a smartphone that isn’t a lot wiser](https://www.theverge.com/23745787/google-pixel-7-pro-direct-my-call-clear-calling-assistant-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
