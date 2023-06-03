@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We are irreplaceable.](http://9gag.com/gag/ago4Zzg)
- - 🚯 [No lube](http://9gag.com/gag/ap9bjdE)
- - 🚯 [`At the end of the day this is just about fairness,This is about biology`Chelsea Mitchell told the post](http://9gag.com/gag/awZdGWy)<!-- MEMES:END -->
+ - 🚖 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)
+ - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)
+ - 🚯 [Typical](http://9gag.com/gag/aEqDOKM)<!-- MEMES:END -->
 
 --- 
 
