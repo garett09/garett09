@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [US women&#39;s football team, represented by several former USWT players, make a bold speech to Wrexham owner Ryan Reynolds before a friendly game. The women ended up losing 12-0, Wrexham are a 4th division team in England, these are retired players, and the match was just 40 minutes](http://9gag.com/gag/amAMKe2)
- - 🚯 [18 year old jumped a fence at 3:00 AM, killing the village mascot, a mother swan guarding her four babies. He stole the four babies and smiled upon his arrest. The lineage of swans have been around for over 100 years since 1905.](http://9gag.com/gag/axoRm7b)
- - 🚯 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)<!-- MEMES:END -->
+ - 🚖 [Mexico lindo at it](http://9gag.com/gag/aqeWpAv)
+ - 🚯 [I wanna meet her dad!](http://9gag.com/gag/aqeWV9Z)
+ - 🚯 [US women&#39;s football team, represented by several former USWT players, make a bold speech to Wrexham owner Ryan Reynolds before a friendly game. The women ended up losing 12-0, Wrexham are a 4th division team in England, these are retired players, and the match was just 40 minutes](http://9gag.com/gag/amAMKe2)<!-- MEMES:END -->
 
 --- 
 
