@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android Apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-487-3331154/)
- - [The CFPB warns users of payment apps like PayPal, Venmo, Cash App, and Apple Cash that their money could be at risk as FDIC insurance does not cover the apps &lpar;Chris Isidore/CNN&rpar;](http://www.techmeme.com/230603/p10#a230603p10)
- - [The MSI Prestige 16 Studio Evo could be the most exciting Windows laptop of 2023](https://www.theverge.com/2023/6/3/23747149/msi-prestige-16-studio-evo-2023-intel-cpu-price)<!-- TECH:END -->
+ - [I tried to use Google One as my only VPN and it let me down](https://www.androidauthority.com/google-one-vpn-review-opinion-3328857/)
+ - [AI researchers say ChatGPT and rival chatbots are significantly less capable in languages other than English, exacerbating the bias against non-English speakers &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230603/p11#a230603p11)
+ - [Apple TV+ &#39;The Crowded Room&#39; premiere saw stars at MoMA](https://appleinsider.com/articles/23/06/03/apple-tv-the-crowded-room-premiere-saw-stars-at-moma?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
