@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Computex 2023: all the news from Taiwan’s big PC show](https://www.theverge.com/2023/5/29/23739290/computex-2023-laptop-pc-announcement-news)
- - [Google Wallet rolls out support for US state IDs, starting with Maryland, and plans to add IDs from Arizona, Colorado, and Georgia in the coming months &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230603/p12#a230603p12)
- - [Samsung Galaxy Book 3 Pro 360 review: A top Windows 2-in-1 for Samsung users](https://www.androidauthority.com/samsung-galaxy-book-3-pro-360-review-3328212/)<!-- TECH:END -->
+ - [A look at Berlin-based Rocket Internet, as founder Oliver Samwer transforms one of Europe&#39;s most aggressive tech VCs into a more conservative investment house &lpar;Financial Times&rpar;](http://www.techmeme.com/230603/p13#a230603p13)
+ - [How to customize the Dock in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-customize-the-dock-in-macos-ventura?utm_medium=rss)
+ - [Computex 2023: all the news from Taiwan’s big PC show](https://www.theverge.com/2023/5/29/23739290/computex-2023-laptop-pc-announcement-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
