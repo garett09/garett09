@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #714: Saturday, June 3](https://www.pcgamer.com/wordle-today-hint-answer-714-june-3)
  - [Beloved Twitch streamer Puppers dies at 32](https://www.pcgamer.com/beloved-twitch-streamer-puppers-dies-at-32)
- - [Devastating glitches end Diablo 4 race to level 100 Hardcore runs early](https://www.pcgamer.com/devastating-glitches-end-diablo-4-race-to-level-100-hardcore-runs)
- - [Wild Diablo IV Bug Spawns Unholy Amount Of Boss Enemies](https://kotaku.com/diablo-4-iv-darcel-clone-bug-spawn-broken-fix-quest-1850502230)<!-- GAME:END -->
+ - [Devastating glitches end Diablo 4 race to level 100 Hardcore runs early](https://www.pcgamer.com/devastating-glitches-end-diablo-4-race-to-level-100-hardcore-runs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
