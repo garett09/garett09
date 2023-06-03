@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Because I hate the double standard...](http://9gag.com/gag/a5X2vnE)
- - 🚯 [We are irreplaceable.](http://9gag.com/gag/ago4Zzg)
+ - 🚖 [We are irreplaceable.](http://9gag.com/gag/ago4Zzg)
+ - 🚯 [No lube](http://9gag.com/gag/ap9bjdE)
  - 🚯 [`At the end of the day this is just about fairness,This is about biology`Chelsea Mitchell told the post](http://9gag.com/gag/awZdGWy)<!-- MEMES:END -->
 
 --- 
