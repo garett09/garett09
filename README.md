@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amber Heard taking an Amber Heard on the street in Spain](http://9gag.com/gag/avQR9LM)
- - 🚯 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)
- - 🚯 [No lube](http://9gag.com/gag/ap9bjdE)<!-- MEMES:END -->
+ - 🚖 [Currently waiting for all the ladies...](http://9gag.com/gag/amAMbx9)
+ - 🚯 [Wazzaaaaap](http://9gag.com/gag/aEqDNYM)
+ - 🚯 [Hmm\u2026.Double Standard.](http://9gag.com/gag/anzE8AE)<!-- MEMES:END -->
 
 --- 
 
