@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best T-Mobile deals of June 2023](https://www.androidauthority.com/best-t-mobile-deals-836582/)
- - [Hybrid Toyota Drove In Electric Mode for 100 Hours Non-Stop     - CNET](https://www.cnet.com/news/hybrid-toyota-drove-in-electric-mode-for-100-hours-non-stop/#ftag=CAD590a51e)
- - [Cybersecurity firms say hackers are actively exploiting a zero-day vulnerability in the MOVEit Transfer file transfer software to steal data from organizations &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230602/p18#a230602p18)<!-- TECH:END -->
+ - [Tesla claims every new Model 3 now qualifies for $7,500 EV tax credit in US](https://www.theverge.com/2023/6/2/23747511/tesla-model-3-7500-tax-credit-ev)
+ - [10 best emulators for Chromebook](https://www.androidauthority.com/best-emulators-chromebook-3330971/)
+ - [GPD’s G1 is the impressively small dock that could jumpstart eGPUs in the handheld era](https://www.theverge.com/2023/6/2/23747057/gpd-g1-dock-crowdfunding-announce-oculink)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
