@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)
- - 🚯 [Shameless man harasses Asians people for coming to &#39;his country&#39; and &#39;brought racism to the hood&#39;](http://9gag.com/gag/a7q2A2z)
- - 🚯 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)<!-- MEMES:END -->
+ - 🚖 [What does it mean?](http://9gag.com/gag/amAMRZj)
+ - 🚯 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)
+ - 🚯 [Shameless man harasses Asians people for coming to &#39;his country&#39; and &#39;brought racism to the hood&#39;](http://9gag.com/gag/a7q2A2z)<!-- MEMES:END -->
 
 --- 
 
