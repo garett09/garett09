@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky’s Custom Algorithms Could Be the Future of Social Media](https://www.wired.com/story/bluesky-my-feeds-custom-algorithms/)
- - [12 Best Deals: Portable Grills, Coolers, and Fitness Trackers](https://www.wired.com/story/weekend-deals-june-03-2023/)
- - [Chun Li Finally Has an Asian American Voice Actor](https://www.wired.com/story/jennie-kwan-chun-li-street-fighter-6-interview/)<!-- TECH:END -->
+ - [Sonnet updates Echo 11 Thunderbolt 4 Dock with HDMI port](https://appleinsider.com/articles/23/06/03/sonnet-updates-echo-11-thunderbolt-4-dock-with-hdmi-port?utm_medium=rss)
+ - [Exclusive: Everything you want to know about the Pixel 8’s processor leaked](https://www.androidauthority.com/pixel-8-tensor-g3-specs-3331398/)
+ - [How to Find Downloaded Files on an iPhone or Android Phone &lpar;2023&rpar;](https://www.wired.com/story/how-to-find-downloaded-files/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
