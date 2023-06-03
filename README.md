@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Currently waiting for all the ladies...](http://9gag.com/gag/amAMbx9)
- - 🚯 [Wazzaaaaap](http://9gag.com/gag/aEqDNYM)
- - 🚯 [Hmm\u2026.Double Standard.](http://9gag.com/gag/anzE8AE)<!-- MEMES:END -->
+ - 🚖 [We shouldn&#39;t have to live like this.](http://9gag.com/gag/abvBogb)
+ - 🚯 [Shameless man harasses Asians people for coming to &#39;his country&#39; and &#39;brought racism to the hood&#39;](http://9gag.com/gag/a7q2A2z)
+ - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)<!-- MEMES:END -->
 
 --- 
 
