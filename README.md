@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)
- - 🚯 [Typical](http://9gag.com/gag/aEqDOKM)
- - 🚯 [Could a captain please name this movie?](http://9gag.com/gag/awZde2B)<!-- MEMES:END -->
+ - 🚖 [Airbed surfer on a rooftop pool](http://9gag.com/gag/aA02ZYZ)
+ - 🚯 [The human version of bright colors to scare away predators](http://9gag.com/gag/a9q2VAj)
+ - 🚯 [We are irreplaceable.](http://9gag.com/gag/ago4Zzg)<!-- MEMES:END -->
 
 --- 
 
