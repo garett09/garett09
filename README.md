@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: $949 off M1 16-inch MacBook Pro, $40 of Sonos One SL, $10 Bullstrap leather iPhone cases, and more](https://appleinsider.com/articles/23/06/03/deals-949-off-m1-16-inch-macbook-pro-40-of-sonos-one-sl-10-bullstrap-leather-iphone-cases-and-more?utm_medium=rss)
- - [With AR/VR startup funding from October 2022 to March 2023 falling 74% YoY to $800M, per PitchBook, the industry hopes Apple&#39;s MR headset could lure back VCs &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230603/p8#a230603p8)
- - [Baseus Blade Laptop Power Bank Review: Empower your mobile workstation](https://appleinsider.com/articles/23/06/03/baseus-blade-laptop-power-bank-review-empower-your-mobile-workstation?utm_medium=rss)<!-- TECH:END -->
+ - [5 Android Apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-487-3331154/)
+ - [The CFPB warns users of payment apps like PayPal, Venmo, Cash App, and Apple Cash that their money could be at risk as FDIC insurance does not cover the apps &lpar;Chris Isidore/CNN&rpar;](http://www.techmeme.com/230603/p10#a230603p10)
+ - [The MSI Prestige 16 Studio Evo could be the most exciting Windows laptop of 2023](https://www.theverge.com/2023/6/3/23747149/msi-prestige-16-studio-evo-2023-intel-cpu-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
