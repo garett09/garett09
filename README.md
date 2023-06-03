@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA is doing some vague nonsense on Nike&#39;s NFT platform](https://www.pcgamer.com/ea-is-doing-some-vague-nonsense-on-nikes-nft-platform)
- - [Please observe a whole symphonic orchestra recording the Vampire Survivors soundtrack](https://www.pcgamer.com/please-observe-a-whole-symphonic-orchestra-recording-the-vampire-survivors-soundtrack)
- - [With Magic Mike’s Last Dance on streaming, it’s easy to watch its one good scene](https://www.polygon.com/23747222/magic-mike-last-dance-best-scene-channing-tatum-salma-hayek-pinault)<!-- GAME:END -->
+ - [Boy howdy that new Hunt: Showdown gator is an absolute hoss](https://www.pcgamer.com/boy-howdy-that-new-hunt-showdown-gator-is-an-absolute-hoss)
+ - [Would you ever use a tiny keyboard?](https://www.pcgamer.com/would-you-ever-use-a-tiny-keyboard)
+ - [EA is doing some vague nonsense on Nike&#39;s NFT platform](https://www.pcgamer.com/ea-is-doing-some-vague-nonsense-on-nikes-nft-platform)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
