@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 7 best movies new to streaming on Netflix, Max, Prime Video, and Hulu &lpar;June 2023&rpar;](https://www.polygon.com/what-to-watch/2023/6/3/23743761/best-new-movies-netflix-amazon-prime-hbo-max-hulu-june-2023)
  - [Warhammer 40K: Leviathan and 10th edition feel incredible, but lack the human touch](https://www.polygon.com/reviews/23742799/warhammer-40k-leviathan-review-10th-edition-release-date-price)
- - [Today&#39;s Wordle hint and answer #714: Saturday, June 3](https://www.pcgamer.com/wordle-today-hint-answer-714-june-3)
- - [Beloved Twitch streamer Puppers dies at 32](https://www.pcgamer.com/beloved-twitch-streamer-puppers-dies-at-32)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #714: Saturday, June 3](https://www.pcgamer.com/wordle-today-hint-answer-714-june-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
