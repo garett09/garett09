@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Devs Abandon KOTOR 2 Restoration DLC On Switch, Apologize With Free Games](https://kotaku.com/star-wars-kotor-2-restoration-dlc-switch-canceled-free-1850503095)
  - [Some of the best PS5 games are up to $40 off](https://www.polygon.com/deals/2023/6/3/23746607/best-gaming-deals-ps5-playstation-5-games-deals)
- - [The 7 best movies new to streaming on Netflix, Max, Prime Video, and Hulu &lpar;June 2023&rpar;](https://www.polygon.com/what-to-watch/2023/6/3/23743761/best-new-movies-netflix-amazon-prime-hbo-max-hulu-june-2023)
- - [Warhammer 40K: Leviathan and 10th edition feel incredible, but lack the human touch](https://www.polygon.com/reviews/23742799/warhammer-40k-leviathan-review-10th-edition-release-date-price)<!-- GAME:END -->
+ - [The 7 best movies new to streaming on Netflix, Max, Prime Video, and Hulu &lpar;June 2023&rpar;](https://www.polygon.com/what-to-watch/2023/6/3/23743761/best-new-movies-netflix-amazon-prime-hbo-max-hulu-june-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
