@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried to use Google One as my only VPN and it let me down](https://www.androidauthority.com/google-one-vpn-review-opinion-3328857/)
- - [AI researchers say ChatGPT and rival chatbots are significantly less capable in languages other than English, exacerbating the bias against non-English speakers &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/230603/p11#a230603p11)
- - [Apple TV+ &#39;The Crowded Room&#39; premiere saw stars at MoMA](https://appleinsider.com/articles/23/06/03/apple-tv-the-crowded-room-premiere-saw-stars-at-moma?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Book 3 Pro 360 review: A top Windows 2-in-1 for Samsung users](https://www.androidauthority.com/samsung-galaxy-book-3-pro-360-review-3328212/)
+ - [Blaseball season is over for good](https://www.theverge.com/2023/6/3/23744507/blaseball-shutdown-fantasy-baseball-horror-simulation)
+ - [Huanuo lap desk review: Comfort and convenience for MacBook users](https://appleinsider.com/articles/23/06/03/huanuo-lap-desk-review-comfort-and-convenience-for-macbook-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
