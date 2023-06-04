@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with media scholar Ethan Zuckerman about why Twitter became the de facto digital public square, its politics of attention, power of federated networks, more &lpar;Wired&rpar;](http://www.techmeme.com/230604/p5#a230604p5)
- - [Apple WWDC 2023: What to Expect for Software and Hardware](https://www.wired.com/story/apple-wwdc-2023-what-to-expect/)
- - [If Pinocchio Doesn&#39;t Freak You Out, Microsoft&#39;s Sydney Shouldn&#39;t Either](https://www.wired.com/story/artificial-intelligence-fiction-philosophy-consciousness/)<!-- TECH:END -->
+ - [After Launching a 3D-Printed Rocket Into Space, This Company Is Going Bigger     - CNET](https://www.cnet.com/science/space/after-launching-a-3d-printed-rocket-into-space-this-company-is-going-bigger/#ftag=CAD590a51e)
+ - [How Samsung Could Take the Galaxy Z Flip 5 to the Next Level     - CNET](https://www.cnet.com/tech/mobile/how-samsung-could-take-the-galaxy-z-flip-5-to-the-next-level/#ftag=CAD590a51e)
+ - [These are my 5 favorite Samsung DeX use cases](https://www.androidauthority.com/samsung-dex-use-cases-3331058/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
