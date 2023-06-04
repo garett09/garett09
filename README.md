@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me, trying to help my wife in the kitchen...](http://9gag.com/gag/aXnW3XP)
- - 🚯 [Bunch of cowards](http://9gag.com/gag/amAMQVo)
- - 🚯 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)<!-- MEMES:END -->
+ - 🚖 [Just finished cleaning boss&#39; office room. Looks like someone just got promotion this morning](http://9gag.com/gag/a9q2erj)
+ - 🚯 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)
+ - 🚯 [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)<!-- MEMES:END -->
 
 --- 
 
