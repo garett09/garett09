@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Saratov, Russia, a girl was awaken by knocking on the window at 4 am](http://9gag.com/gag/amAMO79)
- - 🚯 [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)
- - 🚯 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)<!-- MEMES:END -->
+ - 🚖 [Restoring a solid wood table top](http://9gag.com/gag/aVbLy7d)
+ - 🚯 [`F*ck me` eyes](http://9gag.com/gag/axoRrpb)
+ - 🚯 [Happy June 4th!](http://9gag.com/gag/ago4ew6)<!-- MEMES:END -->
 
 --- 
 
