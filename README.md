@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me, trying to help my wife in the kitchen...](http://9gag.com/gag/aXnW3XP)
- - 🚯 [34 years ago, June 4th 1989. Never forget.](http://9gag.com/gag/aBdGerx)
- - 🚯 [Meme live action](http://9gag.com/gag/ap9bwzn)<!-- MEMES:END -->
+ - 🚖 [Snap Back To Reality](http://9gag.com/gag/a6q2RBb)
+ - 🚯 [Bunch of cowards](http://9gag.com/gag/amAMQVo)
+ - 🚯 [Life advice](http://9gag.com/gag/aYVq5n2)<!-- MEMES:END -->
 
 --- 
 
