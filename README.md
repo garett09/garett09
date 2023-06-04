@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Laptop Backpacks &lpar;2023&rpar;: Weather-Proof, Sustainable, Stylish](https://www.wired.com/gallery/the-best-backpacks-for-work/)
  - [After Launching a 3D-Printed Rocket Into Space, This Company Is Going Bigger     - CNET](https://www.cnet.com/science/space/after-launching-a-3d-printed-rocket-into-space-this-company-is-going-bigger/#ftag=CAD590a51e)
- - [How Samsung Could Take the Galaxy Z Flip 5 to the Next Level     - CNET](https://www.cnet.com/tech/mobile/how-samsung-could-take-the-galaxy-z-flip-5-to-the-next-level/#ftag=CAD590a51e)
- - [These are my 5 favorite Samsung DeX use cases](https://www.androidauthority.com/samsung-dex-use-cases-3331058/)<!-- TECH:END -->
+ - [How Samsung Could Take the Galaxy Z Flip 5 to the Next Level     - CNET](https://www.cnet.com/tech/mobile/how-samsung-could-take-the-galaxy-z-flip-5-to-the-next-level/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
