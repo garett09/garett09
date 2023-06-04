@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Laptop Backpacks &lpar;2023&rpar;: Weather-Proof, Sustainable, Stylish](https://www.wired.com/gallery/the-best-backpacks-for-work/)
- - [After Launching a 3D-Printed Rocket Into Space, This Company Is Going Bigger     - CNET](https://www.cnet.com/science/space/after-launching-a-3d-printed-rocket-into-space-this-company-is-going-bigger/#ftag=CAD590a51e)
- - [How Samsung Could Take the Galaxy Z Flip 5 to the Next Level     - CNET](https://www.cnet.com/tech/mobile/how-samsung-could-take-the-galaxy-z-flip-5-to-the-next-level/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the ad-supported, free dual screen TV from Ilya Pozin&#39;s Telly, which says its data and analytics collection will be on par with other TV vendors &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230604/p6#a230604p6)
+ - [The Kindle Scribe is finally a good note-taking tablet and comic book reader](https://www.androidauthority.com/kindle-scribe-note-taking-3330757/)
+ - [Augmented reality needs an iPhone moment](https://www.theverge.com/2023/6/4/23747110/apple-headset-augmented-reality-vr-industry-rumors-wwdc-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
