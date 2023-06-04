@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)
- - 🚯 [Fact](http://9gag.com/gag/a041gRQ)
- - 🚯 [Did this just happen for real ??](http://9gag.com/gag/aWGbAbq)<!-- MEMES:END -->
+ - 🚯 [Meme live action](http://9gag.com/gag/ap9bwzn)
+ - 🚯 [Just finished cleaning boss&#39; office room. Looks like someone just got promotion this morning](http://9gag.com/gag/a9q2erj)<!-- MEMES:END -->
 
 --- 
 
