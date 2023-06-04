@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
- - 🚯 [Big vs Little](http://9gag.com/gag/aqeWExZ)
+ - 🚖 [Acoustic trauma](http://9gag.com/gag/aKEey6O)
+ - 🚯 [For the veterans out there](http://9gag.com/gag/a6q2ed9)
  - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)<!-- MEMES:END -->
 
 --- 
