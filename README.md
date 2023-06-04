@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A short history of every time Apple CEO Tim Cook praised augmented reality](https://www.theverge.com/21077484/apple-tim-cook-ar-augmented-reality)
  - [Apple starts selling &#39;Ted Lasso&#39; merch, but only at Apple Park](https://appleinsider.com/articles/23/06/04/apple-starts-selling-ted-lasso-merch-but-only-at-apple-park?utm_medium=rss)
- - [As TSMC plans to hire 4,500 workers at its Arizona fabs, recruiters say the company&#39;s culture, rigid standards, and overseas training are turning off candidates &lpar;Yvonne Lau/Fortune&rpar;](http://www.techmeme.com/230604/p8#a230604p8)
- - [Snapdragon 8 Gen 3: What to expect from Qualcomm’s next flagship processor](https://www.androidauthority.com/snapdragon-8-gen-3-explained-3329362/)<!-- TECH:END -->
+ - [As TSMC plans to hire 4,500 workers at its two Arizona fabs, recruiters say the company&#39;s culture, rigid standards, and overseas training turn off candidates &lpar;Yvonne Lau/Fortune&rpar;](http://www.techmeme.com/230604/p8#a230604p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
