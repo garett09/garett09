@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
- - 🚯 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)
- - 🚯 [Looks very easy](http://9gag.com/gag/aeQmEmv)<!-- MEMES:END -->
+ - 🚖 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)
+ - 🚯 [Fact](http://9gag.com/gag/a041gRQ)
+ - 🚯 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)<!-- MEMES:END -->
 
 --- 
 
