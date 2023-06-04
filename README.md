@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Me, trying to help my wife in the kitchen...](http://9gag.com/gag/aXnW3XP)
- - 🚯 [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)
- - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)<!-- MEMES:END -->
+ - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)
+ - 🚯 [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)<!-- MEMES:END -->
 
 --- 
 
