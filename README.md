@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony CEO Kenichiro Yoshida says cloud gaming has many technical difficulties and the company could utilize its AI agent GT Sophy to enhance cloud gaming &lpar;Financial Times&rpar;](http://www.techmeme.com/230604/p2#a230604p2)
  - [Seattle-based Hubble Network, which aims to build a global satellite network that any Bluetooth-enabled sensor or device can connect to, raised a $20M Series A &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/230604/p1#a230604p1)
- - [States With Deregulated Energy: The Pros and Cons of Choosing Your Energy Provider     - CNET](https://www.cnet.com/news/energy-deregulation/#ftag=CAD590a51e)
- - [Google is aware of a &quot;very small&quot; number of Pixel Watch 2 users reporting their watch&#39;s backplate falling off and is working to find the cause and fix the issue &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230603/p15#a230603p15)<!-- TECH:END -->
+ - [States With Deregulated Energy: The Pros and Cons of Choosing Your Energy Provider     - CNET](https://www.cnet.com/news/energy-deregulation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
