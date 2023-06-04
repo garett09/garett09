@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Snap Back To Reality](http://9gag.com/gag/a6q2RBb)
- - 🚯 [Bunch of cowards](http://9gag.com/gag/amAMQVo)
- - 🚯 [Life advice](http://9gag.com/gag/aYVq5n2)<!-- MEMES:END -->
+ - 🚖 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
+ - 🚯 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)
+ - 🚯 [Looks very easy](http://9gag.com/gag/aeQmEmv)<!-- MEMES:END -->
 
 --- 
 
