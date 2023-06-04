@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #715: Sunday, June 4](https://www.pcgamer.com/wordle-today-hint-answer-715-june-4)
  - [I never get tired of Hitman: Blood Money&#39;s inventiveness](https://www.pcgamer.com/i-never-get-tired-of-hitman-blood-moneys-inventiveness)
- - [Prepare for the strangest ride of your life in 1993&#39;s Hell Cab](https://www.pcgamer.com/saturday-crapshoot-hell-cab)
- - [Watch a Thief fan film directed by one of the original game&#39;s creators](https://www.pcgamer.com/watch-a-thief-fan-film-directed-by-one-of-the-original-games-creators)<!-- GAME:END -->
+ - [Prepare for the strangest ride of your life in 1993&#39;s Hell Cab](https://www.pcgamer.com/saturday-crapshoot-hell-cab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
