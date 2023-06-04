@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: OnePlus Pad vs iPad 10th Generation](https://appleinsider.com/inside/10.9-inch-ipad/vs/compared-oneplus-pad-vs-ipad-10th-generation?utm_medium=rss)
- - [Instagram reinstates Robert F. Kennedy Jr.&#39;s account after he launched his presidential bid; he was banned in 2021 over false claims about COVID-19 and vaccines &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/230604/p10#a230604p10)
- - [Apple Park faces WGA strike on first day of WWDC](https://appleinsider.com/articles/23/06/04/apple-park-faces-wga-strike-on-first-day-of-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [Everything we know about Apple’s mixed reality headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
+ - [Apple Back to School deals could start on Tuesday](https://appleinsider.com/articles/23/06/04/apple-back-to-school-deals-could-start-on-tuesday?utm_medium=rss)
+ - [Compared: OnePlus Pad vs iPad 10th Generation](https://appleinsider.com/inside/10.9-inch-ipad/vs/compared-oneplus-pad-vs-ipad-10th-generation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
