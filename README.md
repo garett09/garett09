@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swing Education, an online marketplace that connects schools and substitute teachers, raised a $38M Series C, bringing its total funding to $60.8M &lpar;Michelle Caffrey/EdWeek Market Brief&rpar;](http://www.techmeme.com/230603/p14#a230603p14)
- - [A look at Berlin-based Rocket Internet, as founder Oliver Samwer transforms one of Europe&#39;s most aggressive tech VCs into a more conservative investment house &lpar;Financial Times&rpar;](http://www.techmeme.com/230603/p13#a230603p13)
- - [How to customize the Dock in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-customize-the-dock-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [Seattle-based Hubble Network, which aims to build a global satellite network that any Bluetooth-enabled sensor or device can connect to, raised a $20M Series A &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/230604/p1#a230604p1)
+ - [States With Deregulated Energy: The Pros and Cons of Choosing Your Energy Provider     - CNET](https://www.cnet.com/news/energy-deregulation/#ftag=CAD590a51e)
+ - [Google is aware of a &quot;very small&quot; number of Pixel Watch 2 users reporting their watch&#39;s backplate falling off and is working to find the cause and fix the issue &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230603/p15#a230603p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
