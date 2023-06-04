@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)
- - 🚯 [Fact](http://9gag.com/gag/a041gRQ)
- - 🚯 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)<!-- MEMES:END -->
+ - 🚖 [In Saratov, Russia, a girl was awaken by knocking on the window at 4 am](http://9gag.com/gag/amAMO79)
+ - 🚯 [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)
+ - 🚯 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)<!-- MEMES:END -->
 
 --- 
 
