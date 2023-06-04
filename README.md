@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo 4&#39;s first big patch is here, and it&#39;s almost entirely game balance tweaks](https://www.pcgamer.com/diablo-4s-first-big-patch-is-here-and-its-almost-entirely-game-balance-tweaks)
  - [Avatar: The Last Airbender’s latest story arc closes with a fresh look at a powerful villain](https://www.polygon.com/23737880/avatar-the-last-airbender-legacy-of-yangchen-free-chapter-read-online)
- - [What is Spider-Man 2099’s problem?](https://www.polygon.com/23745910/spider-man-across-the-spider-verse-2099)
- - [The AutoFull M6 gaming chair is one to look out for in 2023](https://www.pcgamer.com/the-autofull-m6-gaming-chair-is-one-to-look-out-for-in-2023)<!-- GAME:END -->
+ - [What is Spider-Man 2099’s problem?](https://www.polygon.com/23745910/spider-man-across-the-spider-verse-2099)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
