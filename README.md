@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo 4 has a winner in its race to world&#39;s first level 100, but the Hardcore mode competition still rages on](https://www.pcgamer.com/diablo-4-has-a-winner-in-its-race-to-worlds-first-level-100-but-the-hardcore-mode-competition-still-rages-on)
  - [The Roundup: No Way Out is the latest showcase for the world’s hardest-hitting action star](https://www.polygon.com/reviews/23745639/roundup-no-way-out-movie-review-ma-dong-seok-don-lee)
- - [The demo for this dusty survival strategy city builder was surprisingly brutal](https://www.pcgamer.com/the-demo-for-this-dusty-survival-strategy-city-builder-was-surprisingly-brutal)
- - [Diablo 4&#39;s first big patch is here, and it&#39;s almost entirely game balance tweaks](https://www.pcgamer.com/diablo-4s-first-big-patch-is-here-and-its-almost-entirely-game-balance-tweaks)<!-- GAME:END -->
+ - [The demo for this dusty survival strategy city builder was surprisingly brutal](https://www.pcgamer.com/the-demo-for-this-dusty-survival-strategy-city-builder-was-surprisingly-brutal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
