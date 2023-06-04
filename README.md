@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 13 years, Amnesia: The Dark Descent has gotten Steam Workshop support out of nowhere](https://www.pcgamer.com/after-13-years-amnesia-the-dark-descent-has-gotten-steam-workshop-support-out-of-nowhere)
- - [Boy howdy that new Hunt: Showdown gator is an absolute hoss](https://www.pcgamer.com/boy-howdy-that-new-hunt-showdown-gator-is-an-absolute-hoss)
- - [Would you ever use a tiny keyboard?](https://www.pcgamer.com/would-you-ever-use-a-tiny-keyboard)<!-- GAME:END -->
+ - [Watch a Thief fan film directed by one of the original game&#39;s creators](https://www.pcgamer.com/watch-a-thief-fan-film-directed-by-one-of-the-original-games-creators)
+ - [After 13 years, Amnesia: The Dark Descent got Steam Workshop support out of nowhere](https://www.pcgamer.com/after-13-years-amnesia-the-dark-descent-has-gotten-steam-workshop-support-out-of-nowhere)
+ - [Boy howdy that new Hunt: Showdown gator is an absolute hoss](https://www.pcgamer.com/boy-howdy-that-new-hunt-showdown-gator-is-an-absolute-hoss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
