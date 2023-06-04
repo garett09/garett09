@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI more important to investors than a headset, claims Ming-Chi Kuo](https://appleinsider.com/articles/23/06/04/ai-more-important-to-investors-than-a-headset-claims-ming-chi-kuo?utm_medium=rss)
  - [The best mid-ranger for gamers isn’t the Pixel 7a](https://www.androidauthority.com/pixel-7a-poco-f5-midrange-gaming-3325103/)
- - [How to turn off iCloud&#39;s default settings in macOS and iOS](https://appleinsider.com/inside/icloud/tips/how-to-turn-off-iclouds-default-settings-in-macos-and-ios?utm_medium=rss)
- - [Interviews, pitch decks, and documents suggest that the recent success of Stability AI CEO Emad Mostaque has been bolstered by exaggeration and dubious claims &lpar;Forbes&rpar;](http://www.techmeme.com/230604/p7#a230604p7)<!-- TECH:END -->
+ - [The Absolute Best Fantasy Movies on Max     - CNET](https://www.cnet.com/tech/services-and-software/the-absolute-best-fantasy-movies-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
