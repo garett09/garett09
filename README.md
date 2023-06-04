@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony CEO Kenichiro Yoshida says cloud gaming has many technical difficulties and the company could utilize its AI agent GT Sophy to enhance cloud gaming &lpar;Financial Times&rpar;](http://www.techmeme.com/230604/p2#a230604p2)
- - [Seattle-based Hubble Network, which aims to build a global satellite network that any Bluetooth-enabled sensor or device can connect to, raised a $20M Series A &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/230604/p1#a230604p1)
- - [States With Deregulated Energy: The Pros and Cons of Choosing Your Energy Provider     - CNET](https://www.cnet.com/news/energy-deregulation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some Montana residents speak about the state&#39;s highly politicized TikTok ban, including one of the influencers who is suing the state to overturn the ban &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/230604/p4#a230604p4)
+ - [Five teams at DEF CON 2023 will try to hack a US-funded cubesat Moonlighter, the first time DEF CON hackers will get a chance to hack a live, in-orbit satellite &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/230604/p3#a230604p3)
+ - [Sony CEO Kenichiro Yoshida says cloud gaming has many technical difficulties and the company could utilize its AI agent GT Sophy to enhance cloud gaming &lpar;Financial Times&rpar;](http://www.techmeme.com/230604/p2#a230604p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
