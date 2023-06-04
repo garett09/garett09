@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the ad-supported, free dual screen TV from Ilya Pozin&#39;s Telly, which says its data and analytics collection will be on par with other TV vendors &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230604/p6#a230604p6)
- - [The Kindle Scribe is finally a good note-taking tablet and comic book reader](https://www.androidauthority.com/kindle-scribe-note-taking-3330757/)
- - [Augmented reality needs an iPhone moment](https://www.theverge.com/2023/6/4/23747110/apple-headset-augmented-reality-vr-industry-rumors-wwdc-2023)<!-- TECH:END -->
+ - [The best mid-ranger for gamers isn’t the Pixel 7a](https://www.androidauthority.com/pixel-7a-poco-f5-midrange-gaming-3325103/)
+ - [How to turn off iCloud&#39;s default settings in macOS and iOS](https://appleinsider.com/inside/icloud/tips/how-to-turn-off-iclouds-default-settings-in-macos-and-ios?utm_medium=rss)
+ - [Interviews, pitch decks, and documents suggest that the recent success of Stability AI CEO Emad Mostaque has been bolstered by exaggeration and dubious claims &lpar;Forbes&rpar;](http://www.techmeme.com/230604/p7#a230604p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
