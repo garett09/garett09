@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Acoustic trauma](http://9gag.com/gag/aKEey6O)
- - 🚯 [For the veterans out there](http://9gag.com/gag/a6q2ed9)
- - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)<!-- MEMES:END -->
+ - 🚖 [In Saratov, Russia, a girl was awaken by knocking on the window at 4 am](http://9gag.com/gag/amAMO79)
+ - 🚯 [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)
+ - 🚯 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)<!-- MEMES:END -->
 
 --- 
 
