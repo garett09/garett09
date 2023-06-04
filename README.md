@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)
- - 🚯 [Fact](http://9gag.com/gag/a041gRQ)
+ - 🚖 [Me, trying to help my wife in the kitchen...](http://9gag.com/gag/aXnW3XP)
+ - 🚯 [Bunch of cowards](http://9gag.com/gag/amAMQVo)
  - 🚯 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)<!-- MEMES:END -->
 
 --- 
