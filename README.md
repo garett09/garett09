@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Restoring a solid wood table top](http://9gag.com/gag/aVbLy7d)
- - 🚯 [`F*ck me` eyes](http://9gag.com/gag/axoRrpb)
- - 🚯 [Happy June 4th!](http://9gag.com/gag/ago4ew6)<!-- MEMES:END -->
+ - 🚖 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
+ - 🚯 [Big vs Little](http://9gag.com/gag/aqeWExZ)
+ - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)<!-- MEMES:END -->
 
 --- 
 
