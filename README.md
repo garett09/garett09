@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A short history of every time Apple CEO Tim Cook praised augmented reality](https://www.theverge.com/21077484/apple-tim-cook-ar-augmented-reality)
- - [Apple starts selling &#39;Ted Lasso&#39; merch, but only at Apple Park](https://appleinsider.com/articles/23/06/04/apple-starts-selling-ted-lasso-merch-but-only-at-apple-park?utm_medium=rss)
- - [As TSMC plans to hire 4,500 workers at its two Arizona fabs, recruiters say the company&#39;s culture, rigid standards, and overseas training turn off candidates &lpar;Yvonne Lau/Fortune&rpar;](http://www.techmeme.com/230604/p8#a230604p8)<!-- TECH:END -->
+ - [A look at The Frost, a 12-minute movie created by Waymark using DALL-E 2, as startups like Waymark and Runway make AI tools for fast and cheap video production &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230604/p9#a230604p9)
+ - [Kingston IronKey Vault Privacy 80 review: Protect your files on an SSD with a touchscreen passcode](https://appleinsider.com/articles/23/06/04/kingston-ironkey-vault-privacy-80-review-protect-your-files-on-an-ssd-with-a-touchscreen-passcode?utm_medium=rss)
+ - [A short history of every time Apple CEO Tim Cook praised augmented reality](https://www.theverge.com/21077484/apple-tim-cook-ar-augmented-reality)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
