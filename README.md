@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Saratov, Russia, a girl was awaken by knocking on the window at 4 am](http://9gag.com/gag/amAMO79)
- - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)
- - 🚯 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)<!-- MEMES:END -->
+ - 🚖 [Did this just happen for real ??](http://9gag.com/gag/aWGbAbq)
+ - 🚯 [In Saratov, Russia, a girl was awaken by knocking on the window at 4 am](http://9gag.com/gag/amAMO79)
+ - 🚯 [No lube](http://9gag.com/gag/ap9bjdE)<!-- MEMES:END -->
 
 --- 
 
