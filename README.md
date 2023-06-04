@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Swing Education, an online marketplace that connects schools and substitute teachers, raised a $38M Series C, bringing its total funding to $60.8M &lpar;Michelle Caffrey/EdWeek Market Brief&rpar;](http://www.techmeme.com/230603/p14#a230603p14)
  - [A look at Berlin-based Rocket Internet, as founder Oliver Samwer transforms one of Europe&#39;s most aggressive tech VCs into a more conservative investment house &lpar;Financial Times&rpar;](http://www.techmeme.com/230603/p13#a230603p13)
- - [How to customize the Dock in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-customize-the-dock-in-macos-ventura?utm_medium=rss)
- - [Computex 2023: all the news from Taiwan’s big PC show](https://www.theverge.com/2023/5/29/23739290/computex-2023-laptop-pc-announcement-news)<!-- TECH:END -->
+ - [How to customize the Dock in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-customize-the-dock-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
