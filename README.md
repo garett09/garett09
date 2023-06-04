@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)
- - 🚯 [No lube](http://9gag.com/gag/ap9bjdE)
+ - 🚖 [What&#39;s so surprising about a canadian?](http://9gag.com/gag/aNw48Zv)
+ - 🚯 [Just finished cleaning boss&#39; office room. Looks like someone just got promotion this morning](http://9gag.com/gag/a9q2erj)
  - 🚯 [Looks very easy](http://9gag.com/gag/aeQmEmv)<!-- MEMES:END -->
 
 --- 
