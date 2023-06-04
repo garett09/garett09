@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just finished cleaning boss&#39; office room. Looks like someone just got promotion this morning](http://9gag.com/gag/a9q2erj)
+ - 🚖 [Me, trying to help my wife in the kitchen...](http://9gag.com/gag/aXnW3XP)
  - 🚯 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)
- - 🚯 [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)<!-- MEMES:END -->
+ - 🚯 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)<!-- MEMES:END -->
 
 --- 
 
