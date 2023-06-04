@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What is Spider-Man 2099’s problem?](https://www.polygon.com/23745910/spider-man-across-the-spider-verse-2099)
  - [The AutoFull M6 gaming chair is one to look out for in 2023](https://www.pcgamer.com/the-autofull-m6-gaming-chair-is-one-to-look-out-for-in-2023)
- - [Today&#39;s Wordle hint and answer #715: Sunday, June 4](https://www.pcgamer.com/wordle-today-hint-answer-715-june-4)
- - [I never get tired of Hitman: Blood Money&#39;s inventiveness](https://www.pcgamer.com/i-never-get-tired-of-hitman-blood-moneys-inventiveness)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #715: Sunday, June 4](https://www.pcgamer.com/wordle-today-hint-answer-715-june-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
