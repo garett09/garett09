@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Farmer vs Vegan Debate](http://9gag.com/gag/aDYVqbd)
- - 🚯 [Meme live action](http://9gag.com/gag/ap9bwzn)
- - 🚯 [Just finished cleaning boss&#39; office room. Looks like someone just got promotion this morning](http://9gag.com/gag/a9q2erj)<!-- MEMES:END -->
+ - 🚖 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)
+ - 🚯 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
+ - 🚯 [Did this just happen for real ??](http://9gag.com/gag/aWGbAbq)<!-- MEMES:END -->
 
 --- 
 
