@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&#39;s so surprising about a canadian?](http://9gag.com/gag/aNw48Zv)
- - 🚯 [Just finished cleaning boss&#39; office room. Looks like someone just got promotion this morning](http://9gag.com/gag/a9q2erj)
- - 🚯 [Looks very easy](http://9gag.com/gag/aeQmEmv)<!-- MEMES:END -->
+ - 🚖 [Me, trying to help my wife in the kitchen...](http://9gag.com/gag/aXnW3XP)
+ - 🚯 [34 years ago, June 4th 1989. Never forget.](http://9gag.com/gag/aBdGerx)
+ - 🚯 [Meme live action](http://9gag.com/gag/ap9bwzn)<!-- MEMES:END -->
 
 --- 
 
