@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI more important to investors than a headset, claims Ming-Chi Kuo](https://appleinsider.com/articles/23/06/04/ai-more-important-to-investors-than-a-headset-claims-ming-chi-kuo?utm_medium=rss)
- - [The best mid-ranger for gamers isn’t the Pixel 7a](https://www.androidauthority.com/pixel-7a-poco-f5-midrange-gaming-3325103/)
- - [The Absolute Best Fantasy Movies on Max     - CNET](https://www.cnet.com/tech/services-and-software/the-absolute-best-fantasy-movies-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snapdragon 8 Gen 3: What to expect from Qualcomm’s next flagship processor](https://www.androidauthority.com/snapdragon-8-gen-3-explained-3329362/)
+ - [Save Up to 50% on Summer Styles at Adidas     - CNET](https://www.cnet.com/deals/save-up-to-50-on-summer-styles-at-adidas/#ftag=CAD590a51e)
+ - [Sonos Knocks Up to 25% Off Top-Rated Speakers and Soundbars for Father&#39;s Day     - CNET](https://www.cnet.com/deals/sonos-knocks-up-to-25-off-top-rated-speakers-and-soundbars-for-fathers-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
