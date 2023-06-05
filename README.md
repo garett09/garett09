@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tensions soar between the United States and China after what happened in the Taiwan Strait where a Chinese warship passed within 150 meters of a US destroyer USS Chung-Hoon.](http://9gag.com/gag/aEqDmvM)
- - 🚯 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
- - 🚯 [Illusion +100](http://9gag.com/gag/aeQmByB)<!-- MEMES:END -->
+ - 🚖 [Restoring a solid wood table top](http://9gag.com/gag/aVbLy7d)
+ - 🚯 [After all this time?](http://9gag.com/gag/a6q2R62)
+ - 🚯 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)<!-- MEMES:END -->
 
 --- 
 
