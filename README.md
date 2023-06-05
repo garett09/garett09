@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV’s Best Class Just Got Even Better](https://kotaku.com/diablo-4-patch-necromancer-class-buff-paragon-board-1850506070)
- - [Three of Diablo IV’s developers’ favorite builds to explore the abyss](https://blog.playstation.com/2023/06/05/three-of-diablo-ivs-developers-favorite-builds-to-explore-the-abyss/)
- - [Microsoft Promises No Completely Fake Trailers At Xbox Showcase](https://kotaku.com/microsoft-xbox-game-pass-showcase-2023-e3-fable-1850505859)<!-- GAME:END -->
+ - [F1 23’s Braking Point sequel gets top billing, but F1 World could steal the show](https://www.polygon.com/23745584/f1-23-preview-release-date-braking-point-f1-world)
+ - [Spider-Verse Snuck In Some Unseen Game Footage Of Marvel’s Spider-Man 2](https://kotaku.com/spiderman-2-ps5-playstation-insomniac-sony-miles-morale-1850506248)
+ - [Spider-Man Across the Spider-Verse Is Hard To Hear, Some Viewers Say](https://kotaku.com/spider-man-across-spider-verse-loud-sony-dialogue-1850506239)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
