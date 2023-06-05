@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [IRL Black Widow](http://9gag.com/gag/a5X2gVo)
- - 🚯 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
- - 🚯 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)<!-- MEMES:END -->
+ - 🚖 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
+ - 🚯 [IRL Black Widow](http://9gag.com/gag/a5X2gVo)
+ - 🚯 [Fact](http://9gag.com/gag/a041gRQ)<!-- MEMES:END -->
 
 --- 
 
