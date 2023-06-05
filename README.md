@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)
- - 🚯 [Lesson Learned](http://9gag.com/gag/armqEW6)
- - 🚯 [IRL Black Widow](http://9gag.com/gag/a5X2gVo)<!-- MEMES:END -->
+ - 🚖 [For those who took the 10 millions...](http://9gag.com/gag/aBdGpB1)
+ - 🚯 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)
+ - 🚯 [C. Can&#39;t say](http://9gag.com/gag/a8q2B8d)<!-- MEMES:END -->
 
 --- 
 
