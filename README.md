@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
- - 🚯 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)
- - 🚯 [Noice Cosplay](http://9gag.com/gag/axoRXVn)<!-- MEMES:END -->
+ - 🚖 [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)
+ - 🚯 [Noice Cosplay](http://9gag.com/gag/axoRXVn)
+ - 🚯 [That&#39;ll be hard to explain.](http://9gag.com/gag/abvB82r)<!-- MEMES:END -->
 
 --- 
 
