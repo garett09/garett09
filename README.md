@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With free rules and a new game mode, Warhammer 40,000 is looking a lot cheaper to get into in its new edition](https://www.pcgamer.com/with-free-rules-and-a-new-game-mode-warhammer-40000-is-looking-a-lot-cheaper-to-get-into-in-its-new-edition)
- - [I&#39;m practically drowning in matcha green thanks to the pastel PC case trend at Computex](https://www.pcgamer.com/im-practically-drowning-in-matcha-green-thanks-to-the-pastel-pc-case-trend-at-computex)
- - [Diablo 4 has two expansions cooking already](https://www.pcgamer.com/diablo-4-has-two-expansions-cooking-already)<!-- GAME:END -->
+ - [Into the Spider-Verse’s greatest legacy is giving American animators freedom to play](https://www.polygon.com/23745774/spider-man-into-the-spider-verse-animation-pixar-netflix-dreamworks)
+ - [Amnesia: The Bunker review](https://www.pcgamer.com/amnesia-the-bunker-review)
+ - [With free rules and a new game mode, Warhammer 40,000 is looking a lot cheaper to get into in its new edition](https://www.pcgamer.com/with-free-rules-and-a-new-game-mode-warhammer-40000-is-looking-a-lot-cheaper-to-get-into-in-its-new-edition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
