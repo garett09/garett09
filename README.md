@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple brings FaceTime to Apple TV with the tvOS 17 update](https://appleinsider.com/articles/23/06/05/apple-brings-facetime-to-apple-tv-with-the-tvos-17-update?utm_medium=rss)
- - [Apple announces widgets will return to watchOS 10 at WWDC](https://www.theverge.com/2023/6/5/23738826/apple-watch-watchos-10-features-updates-wwdc-2023)
- - [Apple announces tvOS 17 with a redesigned Control Center, a way to find the Apple TV remote with an iPhone, and a FaceTime app that uses the iPhones&#39; camera &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230605/p32#a230605p32)<!-- TECH:END -->
+ - [Apple announces visionOS, which powers the Vision Pro and shows icons and windows floating over real world spaces; demos include Safari, a cinema, and gaming &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230605/p36#a230605p36)
+ - [Apple Vision Pro $3,499 mixed-reality headset launches at WWDC after years of rumors](https://appleinsider.com/articles/23/06/05/apple-vision-pro-mixed-reality-headset-launches-at-wwdc-after-years-of-rumors?utm_medium=rss)
+ - [Apple and Disney partner for Apple Vision Pro Disney+ day-one launch](https://appleinsider.com/articles/23/06/05/apple-and-disney-partner-for-apple-vision-pro-disney-day-one-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
