@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC 2023: all the news from Apple’s Worldwide Developers Conference](https://www.theverge.com/23726938/apple-wwdc-2023-news-rumors-announcements-vr-headset)
- - [A 2023 Review of Blue Apron: Still the Best Meal Kit Deal in Town     - CNET](https://www.cnet.com/health/nutrition/blue-apron-review/#ftag=CAD590a51e)
- - [The Pixel 7 Pro drops to its best price ever](https://www.androidauthority.com/google-pixel-7-pro-deal-3331865/)<!-- TECH:END -->
+ - [Apple announces 15-inch MacBook Air](https://www.theverge.com/2023/6/5/23739220/apple-macbook-air-15-features-specs-price-release-date-wwdc-2023)
+ - [Live blog of WWDC 2023, where an MR headset, a 15&quot; MacBook Air, iOS 17, macOS 14, and more are expected &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/230605/p23#a230605p23)
+ - [Live stream of Apple&#39;s WWDC 2023 keynote &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/230605/p22#a230605p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
