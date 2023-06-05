@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
- - 🚯 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)
- - 🚯 [Lesson Learned](http://9gag.com/gag/armqEW6)<!-- MEMES:END -->
+ - 🚖 [Do you agree?](http://9gag.com/gag/ap9bZx5)
+ - 🚯 [After all this time?](http://9gag.com/gag/a6q2R62)
+ - 🚯 [Perfect](http://9gag.com/gag/ay2RjAV)<!-- MEMES:END -->
 
 --- 
 
