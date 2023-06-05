@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [POV: you hire a moving company in Brazil](http://9gag.com/gag/aDYVerK)
- - 🚯 [Fact](http://9gag.com/gag/a041gRQ)
- - 🚯 [Men only want one thing...](http://9gag.com/gag/aEqD93o)<!-- MEMES:END -->
+ - 🚖 [IRL Black Widow](http://9gag.com/gag/a5X2gVo)
+ - 🚯 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
+ - 🚯 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)<!-- MEMES:END -->
 
 --- 
 
