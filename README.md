@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you agree?](http://9gag.com/gag/ap9bZx5)
- - 🚯 [After all this time?](http://9gag.com/gag/a6q2R62)
- - 🚯 [Perfect](http://9gag.com/gag/ay2RjAV)<!-- MEMES:END -->
+ - 🚖 [Lesson Learned](http://9gag.com/gag/armqEW6)
+ - 🚯 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)
+ - 🚯 [IRL Black Widow](http://9gag.com/gag/a5X2gVo)<!-- MEMES:END -->
 
 --- 
 
