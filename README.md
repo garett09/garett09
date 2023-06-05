@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reveals macOS Sonoma with screensavers and widgets](https://appleinsider.com/articles/23/06/05/apple-reveals-macos-sonoma-with-screensavers-and-widgets?utm_medium=rss)
- - [Several Macs have been cut off the support list for macOS Sonoma](https://appleinsider.com/articles/23/06/05/several-macs-have-been-cut-off-the-support-list-for-macos-sonoma?utm_medium=rss)
- - [How the Sound Team behind &#39;Diablo IV&#39; Brought Hell to Life](https://www.wired.com/story/diablo-4-sound-design-interview/)<!-- TECH:END -->
+ - [Apple Vision Pro features Optic ID, which authenticates users with an iris scan; Apple says it&#39;s more secure than Face ID since it can&#39;t even be fooled by twins &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/230605/p40#a230605p40)
+ - [Statement: Reddit’s defenses of changes that could kill third-party apps](https://www.androidauthority.com/third-party-reddit-apps-statement-3332238/)
+ - [Apple Vision Pro $3,499 mixed-reality headset launches at WWDC after years of rumors](https://appleinsider.com/articles/23/06/05/apple-vision-pro-mixed-reality-headset-launches-at-wwdc-after-years-of-rumors?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
