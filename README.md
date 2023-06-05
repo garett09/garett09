@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lesson Learned](http://9gag.com/gag/armqEW6)
+ - 🚖 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
  - 🚯 [Fact](http://9gag.com/gag/a041gRQ)
- - 🚯 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
+ - 🚯 [Looks very easy](http://9gag.com/gag/aeQmEmv)<!-- MEMES:END -->
 
 --- 
 
