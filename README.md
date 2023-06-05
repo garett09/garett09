@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F1 23’s Braking Point sequel gets top billing, but F1 World could steal the show](https://www.polygon.com/23745584/f1-23-preview-release-date-braking-point-f1-world)
- - [Spider-Verse Snuck In Some Unseen Game Footage Of Marvel’s Spider-Man 2](https://kotaku.com/spiderman-2-ps5-playstation-insomniac-sony-miles-morale-1850506248)
- - [Spider-Man Across the Spider-Verse Is Hard To Hear, Some Viewers Say](https://kotaku.com/spider-man-across-spider-verse-loud-sony-dialogue-1850506239)<!-- GAME:END -->
+ - [You can pick up a new Sonos Soundbar for less than a refurbished model at Best Buy](https://www.polygon.com/deals/2023/6/5/23749365/sonos-soundbar-arc-beam-sub-roam-best-buy-deal-sale)
+ - [What is the best class in Diablo 4 for you?](https://www.polygon.com/diablo-4-guides/23654552/best-class-solo-beginner-guide)
+ - [Duolingo Is An App For Language-Learning, So Why Is It Plagued With Cheaters?](https://kotaku.com/duolingo-app-cheats-hacks-leagues-xp-why-duohacker-1850506482)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
