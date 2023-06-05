@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro features Optic ID, which authenticates users with an iris scan; Apple says it&#39;s more secure than Face ID since it can&#39;t even be fooled by twins &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/230605/p40#a230605p40)
- - [Statement: Reddit’s defenses of changes that could kill third-party apps](https://www.androidauthority.com/third-party-reddit-apps-statement-3332238/)
- - [Apple Vision Pro $3,499 mixed-reality headset launches at WWDC after years of rumors](https://appleinsider.com/articles/23/06/05/apple-vision-pro-mixed-reality-headset-launches-at-wwdc-after-years-of-rumors?utm_medium=rss)<!-- TECH:END -->
+ - [The best UScellular deals of June 2023](https://www.androidauthority.com/best-us-cellular-deals-835558/)
+ - [Apple’s most expensive M2 Ultra Mac Pro is $40,000 cheaper than the maxed-out Intel model](https://www.theverge.com/2023/6/5/23750154/apple-m2-ultra-mac-pro-cheaper-intel-mac-pro)
+ - [Craig Federighi outlines iOS 17 privacy &amp; Apple&#39;s stance on AI](https://appleinsider.com/articles/23/06/05/craig-federighi-outlines-ios-17-privacy-apples-stance-on-ai?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
