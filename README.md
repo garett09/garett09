@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces 15-inch MacBook Air](https://www.theverge.com/2023/6/5/23739220/apple-macbook-air-15-features-specs-price-release-date-wwdc-2023)
- - [Live blog of WWDC 2023, where an MR headset, a 15&quot; MacBook Air, iOS 17, macOS 14, and more are expected &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/230605/p23#a230605p23)
- - [Live stream of Apple&#39;s WWDC 2023 keynote &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/230605/p22#a230605p22)<!-- TECH:END -->
+ - [Apple brings FaceTime to Apple TV with the tvOS 17 update](https://appleinsider.com/articles/23/06/05/apple-brings-facetime-to-apple-tv-with-the-tvos-17-update?utm_medium=rss)
+ - [Apple announces widgets will return to watchOS 10 at WWDC](https://www.theverge.com/2023/6/5/23738826/apple-watch-watchos-10-features-updates-wwdc-2023)
+ - [Apple announces tvOS 17 with a redesigned Control Center, a way to find the Apple TV remote with an iPhone, and a FaceTime app that uses the iPhones&#39; camera &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/230605/p32#a230605p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
