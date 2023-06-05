@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fact](http://9gag.com/gag/a041gRQ)
- - 🚯 [POV: you hire a moving company in Brazil](http://9gag.com/gag/aDYVerK)
+ - 🚖 [POV: you hire a moving company in Brazil](http://9gag.com/gag/aDYVerK)
+ - 🚯 [Fact](http://9gag.com/gag/a041gRQ)
  - 🚯 [Men only want one thing...](http://9gag.com/gag/aEqD93o)<!-- MEMES:END -->
 
 --- 
