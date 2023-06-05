@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal document: Twitter&#39;s US ad revenue from April 1 to the start of May dropped 59% YoY to $88M; sources say that performance is unlikely to improve soon &lpar;New York Times&rpar;](http://www.techmeme.com/230605/p8#a230605p8)
- - [Chegg Embraced AI. ChatGPT Ate Its Lunch Anyway](https://www.wired.com/story/chegg-embraced-ai-chatgpt-ate-its-lunch-anyway/)
- - [The Best Gag in &#39;Spider-Man: Across the Spider-Verse&#39; Was 56 Years in the Making](https://www.wired.com/story/spider-man-across-the-spider-verse-best-meme/)<!-- TECH:END -->
+ - [Apple&#39;s &#39;XR&#39; headset could cost $1,999 at launch](https://appleinsider.com/articles/23/06/05/apples-xr-headset-could-cost-1999-at-launch?utm_medium=rss)
+ - [Singer C7290Q Sewing Machine Review: Stitches for Days](https://www.wired.com/review/singer-c7290q-sewing-machine/)
+ - [The Trade-Offs for Privacy in a Post-Dobbs Era](https://www.wired.com/story/the-trade-offs-for-privacy-in-a-post-dobbs-era/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
