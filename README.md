@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
- - 🚯 [IRL Black Widow](http://9gag.com/gag/a5X2gVo)
- - 🚯 [Fact](http://9gag.com/gag/a041gRQ)<!-- MEMES:END -->
+ - 🚖 [Invisible crutches](http://9gag.com/gag/aYVq0q7)
+ - 🚯 [Big vs Little](http://9gag.com/gag/aqeWExZ)
+ - 🚯 [Worth every bit of it](http://9gag.com/gag/a6q20zA)<!-- MEMES:END -->
 
 --- 
 
