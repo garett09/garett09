@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)
- - 🚯 [Go woke go broke](http://9gag.com/gag/ay2RjRY)
- - 🚯 [Lesson Learned](http://9gag.com/gag/armqEW6)<!-- MEMES:END -->
+ - 🚖 [When the police arrest a minor involved in drug trafficking and find out he&#39;s actually turning 18 that same day... such nice guys](http://9gag.com/gag/a9q2xX1)
+ - 🚯 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
+ - 🚯 [Go woke go broke](http://9gag.com/gag/ay2RjRY)<!-- MEMES:END -->
 
 --- 
 
