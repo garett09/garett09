@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
- - 🚯 [Noice Cosplay](http://9gag.com/gag/axoRXVn)
- - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)<!-- MEMES:END -->
+ - 🚖 [White live matter](http://9gag.com/gag/ajVZoN1)
+ - 🚯 [When the police arrest a minor involved in drug trafficking and find out he&#39;s actually turning 18 that same day... such nice guys](http://9gag.com/gag/a9q2xX1)
+ - 🚯 [Laughter is the best medicine.](http://9gag.com/gag/a9q29v6)<!-- MEMES:END -->
 
 --- 
 
