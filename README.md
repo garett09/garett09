@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)
- - 🚯 [Noice Cosplay](http://9gag.com/gag/axoRXVn)
- - 🚯 [That&#39;ll be hard to explain.](http://9gag.com/gag/abvB82r)<!-- MEMES:END -->
+ - 🚖 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)
+ - 🚯 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
+ - 🚯 [Noice Cosplay](http://9gag.com/gag/axoRXVn)<!-- MEMES:END -->
 
 --- 
 
