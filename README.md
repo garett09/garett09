@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lesson Learned](http://9gag.com/gag/armqEW6)
- - 🚯 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)
- - 🚯 [IRL Black Widow](http://9gag.com/gag/a5X2gVo)<!-- MEMES:END -->
+ - 🚖 [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)
+ - 🚯 [Go woke go broke](http://9gag.com/gag/ay2RjRY)
+ - 🚯 [Lesson Learned](http://9gag.com/gag/armqEW6)<!-- MEMES:END -->
 
 --- 
 
