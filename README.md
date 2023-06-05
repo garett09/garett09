@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Into the Spider-Verse’s greatest legacy is giving American animators freedom to play](https://www.polygon.com/23745774/spider-man-into-the-spider-verse-animation-pixar-netflix-dreamworks)
- - [Amnesia: The Bunker review](https://www.pcgamer.com/amnesia-the-bunker-review)
- - [With free rules and a new game mode, Warhammer 40,000 is looking a lot cheaper to get into in its new edition](https://www.pcgamer.com/with-free-rules-and-a-new-game-mode-warhammer-40000-is-looking-a-lot-cheaper-to-get-into-in-its-new-edition)<!-- GAME:END -->
+ - [Turakawak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743961/turakamik-shrine-location-stacking-path-chest)
+ - [How to Watch the Xbox Games Showcase and Starfield Direct Double Feature on Sunday](https://news.xbox.com/en-us/2023/06/05/xbox-games-showcase-starfield-direct-how-to-watch/)
+ - [How to solve the Reject the Mother quest in Diablo 4](https://www.pcgamer.com/diablo-4-reject-the-mother-riddle-quest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
