@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Chainsaw Man Porn Parody Apparently Outsold The Anime In Japan](https://kotaku.com/chainsaw-man-dildo-man-porn-parody-mappa-anime-blu-ray-1850508367)
- - [Diablo 4&#39;s $21 Bone Guy armor is just another reminder of how numb we&#39;ve gotten to Microtransaction Hell](https://www.pcgamer.com/diablo-4s-dollar21-bone-guy-armor-is-just-another-reminder-of-how-numb-weve-gotten-to-microtransaction-hell)
- - [Siwakama Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23749941/siwakama-shrine-solution-puzzle-chest)<!-- GAME:END -->
+ - [Xbox FTC Settlement and Reimagining the Future of Safety on Xbox](https://news.xbox.com/en-us/2023/06/05/xbox-ftc-settlement-reimagining-future-of-safety-xbox/)
+ - [Apparently Bowser Is Just 34 Years Old &lpar;I’m Sorry&rpar;](https://kotaku.com/super-mario-bros-bowser-age-34-years-old-nintendo-movie-1850508487)
+ - [Yikes, the new Robocop shooter does not look very good](https://www.pcgamer.com/yikes-the-new-robocop-shooter-does-not-look-very-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
