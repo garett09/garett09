@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Saratov, Russia, a girl was awaken by knocking on the window at 4 am](http://9gag.com/gag/amAMO79)
- - 🚯 [Adults can do what they want, but let\u2019s be cautious with children.](http://9gag.com/gag/aeQmw0p)
- - 🚯 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)<!-- MEMES:END -->
+ - 🚖 [Tensions soar between the United States and China after what happened in the Taiwan Strait where a Chinese warship passed within 150 meters of a US destroyer USS Chung-Hoon.](http://9gag.com/gag/aEqDmvM)
+ - 🚯 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
+ - 🚯 [Illusion +100](http://9gag.com/gag/aeQmByB)<!-- MEMES:END -->
 
 --- 
 
