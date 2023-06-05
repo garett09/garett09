@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best UScellular deals of June 2023](https://www.androidauthority.com/best-us-cellular-deals-835558/)
- - [Apple’s most expensive M2 Ultra Mac Pro is $40,000 cheaper than the maxed-out Intel model](https://www.theverge.com/2023/6/5/23750154/apple-m2-ultra-mac-pro-cheaper-intel-mac-pro)
- - [Craig Federighi outlines iOS 17 privacy &amp; Apple&#39;s stance on AI](https://appleinsider.com/articles/23/06/05/craig-federighi-outlines-ios-17-privacy-apples-stance-on-ai?utm_medium=rss)<!-- TECH:END -->
+ - [Spanish fascists stole a game publisher’s domain](https://www.theverge.com/2023/6/5/23750006/ecumene-aztec-giantscraft-games-ecumene-games)
+ - [The iPhone 8, 8 Plus, and X aren’t getting iOS 17](https://www.theverge.com/2023/6/5/23750153/apple-ios-17-iphone-8-plus-x-support)
+ - [Intel is on track with its new PowerVia chip architecture](https://www.theverge.com/2023/6/5/23748858/intel-powervia-new-chip-process-papers-vlsi-symposium-ready-for-manufacturing-testing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
