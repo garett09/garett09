@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook calls WWDC 23 &#39;our best ever&#39; ahead of highly anticipated keynote](https://appleinsider.com/articles/23/06/05/tim-cook-calls-wwdc-23-our-best-ever-ahead-of-highly-anticipated-keynote?utm_medium=rss)
- - [A Secret Key to Saving Species Is Blowing in the Wind](https://www.wired.com/story/a-secret-key-to-saving-species-is-blowing-in-the-wind/)
- - [Microsoft attributes recent zero-day attacks on the MOVEit Transfer tool to the Clop ransomware gang; responders say the gang can take weeks to issue demands &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230605/p16#a230605p16)<!-- TECH:END -->
+ - [WWDC 2023: all the news from Apple’s Worldwide Developers Conference](https://www.theverge.com/23726938/apple-wwdc-2023-news-rumors-announcements-vr-headset)
+ - [A 2023 Review of Blue Apron: Still the Best Meal Kit Deal in Town     - CNET](https://www.cnet.com/health/nutrition/blue-apron-review/#ftag=CAD590a51e)
+ - [The Pixel 7 Pro drops to its best price ever](https://www.androidauthority.com/google-pixel-7-pro-deal-3331865/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
