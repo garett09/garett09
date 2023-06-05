@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;XR&#39; headset could cost $1,999 at launch](https://appleinsider.com/articles/23/06/05/apples-xr-headset-could-cost-1999-at-launch?utm_medium=rss)
- - [Singer C7290Q Sewing Machine Review: Stitches for Days](https://www.wired.com/review/singer-c7290q-sewing-machine/)
- - [The Trade-Offs for Privacy in a Post-Dobbs Era](https://www.wired.com/story/the-trade-offs-for-privacy-in-a-post-dobbs-era/)<!-- TECH:END -->
+ - [You can buy &#39;Ted Lasso&#39; AFC Richmond shirts &amp; scarves from Nike](https://appleinsider.com/articles/23/06/05/you-can-buy-ted-lasso-afc-richmond-shirts-scarves-from-nike?utm_medium=rss)
+ - [Apple Park needed an expansion to contain WWDC headset demos](https://appleinsider.com/articles/23/06/05/apple-park-needed-an-expansion-to-contain-wwdc-headset-demos?utm_medium=rss)
+ - [Tech layoffs, compounded by rising interest rates and inflation, lead to high unemployment levels and falling wages in California, Oregon, and Washington &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230605/p12#a230605p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
