@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)
- - 🚯 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
- - 🚯 [Noice Cosplay](http://9gag.com/gag/axoRXVn)<!-- MEMES:END -->
+ - 🚖 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
+ - 🚯 [Noice Cosplay](http://9gag.com/gag/axoRXVn)
+ - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)<!-- MEMES:END -->
 
 --- 
 
