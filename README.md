@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)
- - 🚯 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)
- - 🚯 [Fact](http://9gag.com/gag/a041gRQ)<!-- MEMES:END -->
+ - 🚖 [Fact](http://9gag.com/gag/a041gRQ)
+ - 🚯 [POV: you hire a moving company in Brazil](http://9gag.com/gag/aDYVerK)
+ - 🚯 [Men only want one thing...](http://9gag.com/gag/aEqD93o)<!-- MEMES:END -->
 
 --- 
 
