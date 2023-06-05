@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces visionOS, which powers the Vision Pro and shows icons and windows floating over real world spaces; demos include Safari, a cinema, and gaming &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230605/p36#a230605p36)
- - [Apple Vision Pro $3,499 mixed-reality headset launches at WWDC after years of rumors](https://appleinsider.com/articles/23/06/05/apple-vision-pro-mixed-reality-headset-launches-at-wwdc-after-years-of-rumors?utm_medium=rss)
- - [Apple and Disney partner for Apple Vision Pro Disney+ day-one launch](https://appleinsider.com/articles/23/06/05/apple-and-disney-partner-for-apple-vision-pro-disney-day-one-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Apple reveals macOS Sonoma with screensavers and widgets](https://appleinsider.com/articles/23/06/05/apple-reveals-macos-sonoma-with-screensavers-and-widgets?utm_medium=rss)
+ - [Several Macs have been cut off the support list for macOS Sonoma](https://appleinsider.com/articles/23/06/05/several-macs-have-been-cut-off-the-support-list-for-macos-sonoma?utm_medium=rss)
+ - [How the Sound Team behind &#39;Diablo IV&#39; Brought Hell to Life](https://www.wired.com/story/diablo-4-sound-design-interview/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
