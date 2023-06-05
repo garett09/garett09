@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV&#39;s First Patch Heavily Weakens 4 Of Its 5 Classes](https://kotaku.com/diablo-4-patch-barbarian-druid-rogue-nerf-necromancer-1850506924)
- - [One Of The Coolest Bits In Across The Spider-Verse Was Made By A Single Teenager](https://kotaku.com/across-the-spider-verse-spider-man-lego-teen-animate-14-1850506788)
- - [Rutafu-um Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23745287/rutafu-um-shrine-location-walkthrough)<!-- GAME:END -->
+ - [Apple Announces Very Fancy &#39;Facial Computer&#39;](https://kotaku.com/apple-vr-headset-vision-pro-mixed-reality-mac-iphone-1850507156)
+ - [Who are the 7 sages in Zelda lore and why do they matter?](https://www.polygon.com/legend-zelda-tears-kingdom/23746768/zelda-tears-of-the-kingdom-totk-sages-explained-sidon-riju-tulin-yunobo)
+ - [Rise of the Triad: Ludicrous Edition is a faithful remaster of a janky &#39;90s FPS, for better and worse](https://www.pcgamer.com/rise-of-the-triad-ludicrous-edition-is-a-faithful-remaster-of-a-janky-90s-fps-for-better-and-worse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
