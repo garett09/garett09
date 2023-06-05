@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft will show off Assassin&#39;s Creed Mirage, Avatar, and The Crew Motorfest this month](https://www.pcgamer.com/ubisoft-will-show-off-assassins-creed-mirage-avatar-and-the-crew-motorfest-this-month)
- - [Elden Ring dataminer uncovers alternate early game characters in a renamed Limgrave](https://www.pcgamer.com/elden-ring-dataminer-uncovers-alternate-early-game-characters-in-a-renamed-limgrave)
- - [Diablo 4 has a winner in its race to world&#39;s first level 100, but the Hardcore mode competition still rages on](https://www.pcgamer.com/diablo-4-has-a-winner-in-its-race-to-worlds-first-level-100-but-the-hardcore-mode-competition-still-rages-on)<!-- GAME:END -->
+ - [Disney Just Laid Off The Pixar Employee Who &#39;Saved&#39; Toy Story 2](https://kotaku.com/pixar-disney-toy-story-2-saved-susman-laid-off-backups-1850505001)
+ - [A $10 thrift store PC seemed as ordinary as they come, until the owner found a veritable &#39;Library of Alexandria&#39; of early 2000s gay porn reviews](https://www.pcgamer.com/a-dollar10-thrift-store-pc-seemed-as-ordinary-as-they-come-until-the-owner-found-a-veritable-library-of-alexandria-of-early-2000s-gay-porn-reviews)
+ - [Great Moments in PC gaming: Landing an impossible shot in XCOM 2](https://www.pcgamer.com/great-moments-in-pc-gaming-landing-an-impossible-shot-in-xcom-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
