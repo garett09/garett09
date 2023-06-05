@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the police arrest a minor involved in drug trafficking and find out he&#39;s actually turning 18 that same day... such nice guys](http://9gag.com/gag/a9q2xX1)
- - 🚯 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
- - 🚯 [Go woke go broke](http://9gag.com/gag/ay2RjRY)<!-- MEMES:END -->
+ - 🚖 [Crown Equality](http://9gag.com/gag/a6q2g8L)
+ - 🚯 [Ukraine armed forces and its citizens goes radio silent. Do you know remember what anniversary is on 6th of june?](http://9gag.com/gag/aoKL7y0)
+ - 🚯 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)<!-- MEMES:END -->
 
 --- 
 
