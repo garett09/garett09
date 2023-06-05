@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Invisible crutches](http://9gag.com/gag/aYVq0q7)
- - 🚯 [Big vs Little](http://9gag.com/gag/aqeWExZ)
- - 🚯 [Worth every bit of it](http://9gag.com/gag/a6q20zA)<!-- MEMES:END -->
+ - 🚖 [Under-construction bridge collapses in india today](http://9gag.com/gag/amAMeW4)
+ - 🚯 [Lesson Learned](http://9gag.com/gag/armqEW6)
+ - 🚯 [IRL Black Widow](http://9gag.com/gag/a5X2gVo)<!-- MEMES:END -->
 
 --- 
 
