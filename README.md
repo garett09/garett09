@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 hotfix deals with &#39;Darcelpocalypse&#39;, a bug that endlessly multiplied one elite enemy](https://www.pcgamer.com/diablo-4-hotfix-deals-with-darcelpocalypse-a-bug-that-endlessly-multiplied-one-elite-enemy)
- - [Today&#39;s Wordle hint and answer #716: Monday, June 5](https://www.pcgamer.com/wordle-today-hint-answer-716-june-5)
- - [It Is June 2023 And EA Wants To Add NFTs To FIFA &amp; Madden](https://kotaku.com/ea-sports-fifa-madden-nike-nft-web3-crypto-scam-swoosh-1850505156)<!-- GAME:END -->
+ - [With free rules and a new game mode, Warhammer 40,000 is looking a lot cheaper to get into in its new edition](https://www.pcgamer.com/with-free-rules-and-a-new-game-mode-warhammer-40000-is-looking-a-lot-cheaper-to-get-into-in-its-new-edition)
+ - [I&#39;m practically drowning in matcha green thanks to the pastel PC case trend at Computex](https://www.pcgamer.com/im-practically-drowning-in-matcha-green-thanks-to-the-pastel-pc-case-trend-at-computex)
+ - [Diablo 4 has two expansions cooking already](https://www.pcgamer.com/diablo-4-has-two-expansions-cooking-already)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
