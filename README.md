@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google trials passwordless login across Workspace and Cloud accounts](https://www.theverge.com/2023/6/5/23749180/google-workspace-cloud-passkey-support-password-2fa-fido-security-phishing)
- - [More robot vacuums, Zens travel charger, &amp; Bird Buddy review on the HomeKit Insider podcast](https://appleinsider.com/articles/23/06/05/more-robot-vacuums-zens-travel-charger-bird-buddy-review-on-the-homekit-insider-podcast?utm_medium=rss)
- - [The 13 best Peacock original series you can stream in 2023](https://www.androidauthority.com/best-peacock-original-series-3039101/)<!-- TECH:END -->
+ - [Tim Cook calls WWDC 23 &#39;our best ever&#39; ahead of highly anticipated keynote](https://appleinsider.com/articles/23/06/05/tim-cook-calls-wwdc-23-our-best-ever-ahead-of-highly-anticipated-keynote?utm_medium=rss)
+ - [A Secret Key to Saving Species Is Blowing in the Wind](https://www.wired.com/story/a-secret-key-to-saving-species-is-blowing-in-the-wind/)
+ - [Microsoft attributes recent zero-day attacks on the MOVEit Transfer tool to the Clop ransomware gang; responders say the gang can take weeks to issue demands &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/230605/p16#a230605p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
