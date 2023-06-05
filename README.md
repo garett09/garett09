@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Announces Very Fancy &#39;Facial Computer&#39;](https://kotaku.com/apple-vr-headset-vision-pro-mixed-reality-mac-iphone-1850507156)
- - [Who are the 7 sages in Zelda lore and why do they matter?](https://www.polygon.com/legend-zelda-tears-kingdom/23746768/zelda-tears-of-the-kingdom-totk-sages-explained-sidon-riju-tulin-yunobo)
- - [Rise of the Triad: Ludicrous Edition is a faithful remaster of a janky &#39;90s FPS, for better and worse](https://www.pcgamer.com/rise-of-the-triad-ludicrous-edition-is-a-faithful-remaster-of-a-janky-90s-fps-for-better-and-worse)<!-- GAME:END -->
+ - [My Adventures With Superman looks like the best summer of your life](https://www.polygon.com/23750015/my-adventures-with-superman-release-date-trailer-premiere-max-adult-swim)
+ - [Amnesia: The Bunker Might Be This Year’s Scariest Horror Game](https://kotaku.com/new-amnesia-the-bunker-review-release-date-ps5-xbox-1850507768)
+ - [Kojima makes surprise appearance on Apple stream to praise the Mac&#39;s &#39;rendering pipeline&#39; and announce Death Stranding for Mac](https://www.pcgamer.com/kojima-makes-surprise-appearance-on-apple-stream-to-praise-the-macs-rendering-pipeline-and-announce-death-stranding-for-mac)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
