@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crown Equality](http://9gag.com/gag/a6q2g8L)
- - 🚯 [Ukraine armed forces and its citizens goes radio silent. Do you know remember what anniversary is on 6th of june?](http://9gag.com/gag/aoKL7y0)
- - 🚯 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)<!-- MEMES:END -->
+ - 🚖 [Lesson Learned](http://9gag.com/gag/armqEW6)
+ - 🚯 [Fact](http://9gag.com/gag/a041gRQ)
+ - 🚯 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)<!-- MEMES:END -->
 
 --- 
 
