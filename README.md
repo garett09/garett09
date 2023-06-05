@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Turakawak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23743961/turakamik-shrine-location-stacking-path-chest)
- - [How to Watch the Xbox Games Showcase and Starfield Direct Double Feature on Sunday](https://news.xbox.com/en-us/2023/06/05/xbox-games-showcase-starfield-direct-how-to-watch/)
- - [How to solve the Reject the Mother quest in Diablo 4](https://www.pcgamer.com/diablo-4-reject-the-mother-riddle-quest)<!-- GAME:END -->
+ - [Diablo IV’s Best Class Just Got Even Better](https://kotaku.com/diablo-4-patch-necromancer-class-buff-paragon-board-1850506070)
+ - [Three of Diablo IV’s developers’ favorite builds to explore the abyss](https://blog.playstation.com/2023/06/05/three-of-diablo-ivs-developers-favorite-builds-to-explore-the-abyss/)
+ - [Microsoft Promises No Completely Fake Trailers At Xbox Showcase](https://kotaku.com/microsoft-xbox-game-pass-showcase-2023-e3-fable-1850505859)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
