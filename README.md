@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For those who took the 10 millions...](http://9gag.com/gag/aBdGpB1)
+ - 🚖 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
  - 🚯 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)
- - 🚯 [C. Can&#39;t say](http://9gag.com/gag/a8q2B8d)<!-- MEMES:END -->
+ - 🚯 [Noice Cosplay](http://9gag.com/gag/axoRXVn)<!-- MEMES:END -->
 
 --- 
 
