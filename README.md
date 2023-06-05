@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Restoring a solid wood table top](http://9gag.com/gag/aVbLy7d)
- - 🚯 [After all this time?](http://9gag.com/gag/a6q2R62)
- - 🚯 [Go be trash in your shithole country](http://9gag.com/gag/a3Z2gw5)<!-- MEMES:END -->
+ - 🚖 [Joke&#39;s on you, I&#39;m into it](http://9gag.com/gag/amAMZ4o)
+ - 🚯 [Live chicken used as bate to catch a python](http://9gag.com/gag/a5X23wL)
+ - 🚯 [Lesson Learned](http://9gag.com/gag/armqEW6)<!-- MEMES:END -->
 
 --- 
 
