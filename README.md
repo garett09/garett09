@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
- - 🚯 [Stay woke](http://9gag.com/gag/a9qXjmm)
- - 🚯 [I fixed it.](http://9gag.com/gag/aDYXRPx)<!-- MEMES:END -->
+ - 🚖 [Chinese girl says thank you to a Singer that saved her life](http://9gag.com/gag/a8qwdD6)
+ - 🚯 [Chester Bennington one day before he took his own life](http://9gag.com/gag/aL1mqev)
+ - 🚯 [Why he against it tho](http://9gag.com/gag/aOx1o9y)<!-- MEMES:END -->
 
 --- 
 
