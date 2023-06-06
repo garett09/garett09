@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Laughter is the best medicine.](http://9gag.com/gag/a9q29v6)
- - 🚯 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
- - 🚯 [When the police arrest a minor involved in drug trafficking and find out he&#39;s actually turning 18 that same day... such nice guys](http://9gag.com/gag/a9q2xX1)<!-- MEMES:END -->
+ - 🚖 [Wtf](http://9gag.com/gag/aQEZwVW)
+ - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
+ - 🚯 [Why he change his mind?](http://9gag.com/gag/aoKLvYw)<!-- MEMES:END -->
 
 --- 
 
