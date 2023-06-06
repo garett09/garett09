@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Fest 2023 details, including new Mythical Pokémon, revealed](https://www.polygon.com/23751140/pokemon-go-fest-2023-dates-mythical-shiny-list)
- - [You can finally watch one of the most influential anime ever made](https://www.polygon.com/23738654/gunbuster-anime-nge-classic)
- - [Xbox&#39;s Starfield Controller Is Real, Will Absolutely Take My Money [Update]](https://kotaku.com/starfield-xbox-series-x-s-controller-showcase-pre-order-1850500473)<!-- GAME:END -->
+ - [Joku-u Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23751241/joku-u-shrine-location-walkthrough-totk)
+ - [Spider-Punk’s chaotic look had to break Across the Spider-Verse’s animation rules](https://www.polygon.com/23749792/across-the-spider-verse-spider-punk-animation-development)
+ - [Fight Me: Spider-Punk Is Spider-Verse&#39;s Best New Hero](https://kotaku.com/spiderman-across-the-spider-verse-punk-hobie-brown-1850511218)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
