@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Give real quick test](http://9gag.com/gag/aQEZYpq)
- - 🚯 [Wuuman](http://9gag.com/gag/anzELAq)
- - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)<!-- MEMES:END -->
+ - 🚖 [Why he change his mind?](http://9gag.com/gag/aoKLvYw)
+ - 🚯 [Wtf](http://9gag.com/gag/aQEZwVW)
+ - 🚯 [Let&#39;s get rid of this tuna smell real quick...](http://9gag.com/gag/aA02oW9)<!-- MEMES:END -->
 
 --- 
 
