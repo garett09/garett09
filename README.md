@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Charged Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734470/charged-armor-location-head-chest-legs)
- - [Where to find the Barbarian Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23708488/barbarian-armor-set-locations-head-chest-legs)
- - [How to get the Royal Guard Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731213/royal-guard-armor-locations-chest-head-legs)<!-- GAME:END -->
+ - [Black Desert asks the question: What if we made an MMO expansion and didn&#39;t invite any monsters?](https://www.pcgamer.com/black-desert-asks-the-question-what-if-we-made-an-mmo-expansion-and-didnt-invite-any-monsters)
+ - [Report: BioWare Offloading Star Wars MMO To Focus On Dragon Age, Mass Effect](https://kotaku.com/star-wars-old-republic-bioware-dragon-age-mass-effect-1850512473)
+ - [BattleTech community closes ranks to support the creators of an LGBTQ fanzine](https://www.polygon.com/tabletop-games/23751545/battletech-reddit-lgbtq-fanzine-moderators-ban-toxic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
