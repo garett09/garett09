@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox FTC Settlement and Reimagining the Future of Safety on Xbox](https://news.xbox.com/en-us/2023/06/05/xbox-ftc-settlement-reimagining-future-of-safety-xbox/)
- - [Apparently Bowser Is Just 34 Years Old &lpar;I’m Sorry&rpar;](https://kotaku.com/super-mario-bros-bowser-age-34-years-old-nintendo-movie-1850508487)
- - [Yikes, the new Robocop shooter does not look very good](https://www.pcgamer.com/yikes-the-new-robocop-shooter-does-not-look-very-good)<!-- GAME:END -->
+ - [Looks Like Epic Very Quietly Cancelled An Unreal Tournament Release](https://kotaku.com/unreal-tournament-3x-x-epic-cancelled-gog-pc-ut-steam-1850508737)
+ - [Diablo 4 is finally, officially live](https://www.pcgamer.com/diablo-4-is-finally-officially-live)
+ - [Astonished Diablo 4 players discover they&#39;ve been moving their horses wrong this whole time](https://www.pcgamer.com/diablo-4-horse-speed-slow-pc-mouse-controls)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
