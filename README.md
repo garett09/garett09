@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 cool features Android should steal from iOS 17](https://www.androidauthority.com/ios-17-features-android-3332328/)
- - [Drybar Straight Shot Blow-Drying Flat Iron Review: Time Saver](https://www.wired.com/review/drybar-straight-shot-blow-drying-flat-iron/)
- - [8 Best Gear for Surviving a Convention &lpar;2023&rpar;: Bags, Water Bottles, and Portable Batteries](https://www.wired.com/gallery/best-convention-gear/)<!-- TECH:END -->
+ - [Don&#39;t Want Students to Rely on ChatGPT? Have Them Use It](https://www.wired.com/story/dont-want-students-to-rely-on-chatgpt-have-them-use-it/)
+ - [Honda announces Acura ZDX will be first EV with Google built-in](https://www.theverge.com/2023/6/6/23750113/honda-acura-zdx-google-built-in-android-native)
+ - [The Tamagotchi Uni device features the ‘metaverse of the Tamagotchi world’](https://www.theverge.com/2023/6/6/23749564/tamagotchi-uni-tamaverse-device-metaverse-watch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
