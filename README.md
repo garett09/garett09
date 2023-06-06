@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Flash is a eulogy for every DC movie that never was](https://www.polygon.com/reviews/23751219/the-flash-movie-review-ezra-miller-michael-keaton-batman)
- - [Nintendo&#39;s claim that emulation &#39;stifles innovation&#39; isn&#39;t just absurd—it&#39;s hypocritical](https://www.pcgamer.com/nintendos-claim-that-emulation-stifles-innovation-isnt-just-absurdits-hypocritical)
- - [Wait, who the heck was that bodega lady in Spider-Man: Across the Spider-Verse?](https://www.polygon.com/23746702/spider-man-across-spider-verse-2-venom-mrs-chen-cameo-mcu-sony-live-action)<!-- GAME:END -->
+ - [Overwatch 2 Is Gently Reverting One Of Its Biggest Changes](https://kotaku.com/overwatch-2-mei-cassidy-grenade-crowd-control-season-5-1850511922)
+ - [Netflix Series I Think You Should Leave’s Ridic Egg Game Is Now Real](https://kotaku.com/netflix-egg-game-i-think-you-should-leave-sketch-comedy-1850511529)
+ - [Fire Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717297/fire-temple-walkthrough-dungeon-locks-locations-marbled-gohma-boss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
