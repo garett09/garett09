@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s no even my final form...](http://9gag.com/gag/aoKLbvw)
- - 🚯 [Meanwhile in the Brownsville Texas Border...](http://9gag.com/gag/a4o2egw)
- - 🚯 [Wuuman](http://9gag.com/gag/anzELAq)<!-- MEMES:END -->
+ - 🚖 [Noice Cosplay](http://9gag.com/gag/axoRXVn)
+ - 🚯 [Daily motivation](http://9gag.com/gag/a3Z2oBN)
+ - 🚯 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)<!-- MEMES:END -->
 
 --- 
 
