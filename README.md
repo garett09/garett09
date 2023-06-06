@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #717: Tuesday, June 6](https://www.pcgamer.com/wordle-answer-today-hint-717-june-6)
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/06/05/this-weeks-deals-with-gold-and-spotlight-sale-277/)
- - [Diablo 4 servers finally start to buckle under launch strain, Blizzard&#39;s working on it](https://www.pcgamer.com/diablo-4-server-issues-queue-launch)
- - [League Superstar Doublelift Does Not Understand What A Strike Is](https://kotaku.com/doublelift-league-lol-riot-lcspa-strike-walkout-stream-1850508827)<!-- GAME:END -->
+ - [Diablo 4 servers finally start to buckle under launch strain, Blizzard&#39;s working on it](https://www.pcgamer.com/diablo-4-server-issues-queue-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
