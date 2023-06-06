@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for May’s Best New Game](https://blog.playstation.com/2023/06/06/players-choice-vote-for-mays-best-new-game-3/)
- - [Zelda games were always religious, but Tears of the Kingdom pushes it even further](https://www.polygon.com/legend-zelda-tears-kingdom/23749444/zelda-totk-religion-story-shrines-temple)
- - [Diablo IV: 11 Essential Settings To Change, Whether You&#39;re On PC Or Console](https://kotaku.com/diablo-4-iv-graphics-settings-framerate-pc-ps5-xbox-1850508602)<!-- GAME:END -->
+ - [PlayStation Store: May 2023’s top downloads](https://blog.playstation.com/2023/06/06/playstation-store-may-2023s-top-downloads/)
+ - [PlayStation Store: May 2023’s top downloads](https://blog.playstation.com/2023/06/06/playstation-store-may-2023s-top-downloads/)
+ - [Western Digital’s new Xbox Series X expansion cards are now official](https://www.polygon.com/deals/23670137/xbox-series-x-western-digital-wd-black-c50-expansion-card-buy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
