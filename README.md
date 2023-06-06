@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Apple Vision Pro neurological research helps it predict when you&#39;ll click](https://appleinsider.com/articles/23/06/06/early-apple-vision-pro-neurological-research-helps-it-predict-when-youll-click?utm_medium=rss)
- - [Why violence against women environmental defenders is undercounted](https://www.theverge.com/2023/6/6/23751071/violence-against-women-environmental-activists-data-research)
- - [Instagram appears to be testing an AI chatbot option with 30 AI personalities that answer questions and give advice &lpar;Sabrina Ortiz/ZDNet&rpar;](http://www.techmeme.com/230606/p26#a230606p26)<!-- TECH:END -->
+ - [The 15 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
+ - [Netflix is launching its Queen’s Gambit chess game in July](https://www.theverge.com/2023/6/6/23749347/netflix-queens-gambit-chess-game-release-date)
+ - [TikTok is opening up its paywall and 20-minute video feature to more users](https://www.theverge.com/2023/6/6/23751239/tiktok-series-paywall-20-minute-premium-videos-monetization)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
