@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [C. Can&#39;t say](http://9gag.com/gag/a8q2B8d)
- - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
- - 🚯 [Give real quick test](http://9gag.com/gag/aQEZYpq)<!-- MEMES:END -->
+ - 🚖 [That&#39;s no even my final form...](http://9gag.com/gag/aoKLbvw)
+ - 🚯 [Meanwhile in the Brownsville Texas Border...](http://9gag.com/gag/a4o2egw)
+ - 🚯 [Wuuman](http://9gag.com/gag/anzELAq)<!-- MEMES:END -->
 
 --- 
 
