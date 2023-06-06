@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Is Gently Reverting One Of Its Biggest Changes](https://kotaku.com/overwatch-2-mei-cassidy-grenade-crowd-control-season-5-1850511922)
- - [Netflix Series I Think You Should Leave’s Ridic Egg Game Is Now Real](https://kotaku.com/netflix-egg-game-i-think-you-should-leave-sketch-comedy-1850511529)
- - [Fire Temple walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717297/fire-temple-walkthrough-dungeon-locks-locations-marbled-gohma-boss)<!-- GAME:END -->
+ - [How to get the Charged Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23734470/charged-armor-location-head-chest-legs)
+ - [Where to find the Barbarian Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23708488/barbarian-armor-set-locations-head-chest-legs)
+ - [How to get the Royal Guard Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23731213/royal-guard-armor-locations-chest-head-legs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
