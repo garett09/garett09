@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s no even my final form...](http://9gag.com/gag/aoKLbvw)
- - 🚯 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)
- - 🚯 [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)<!-- MEMES:END -->
+ - 🚖 [C. Can&#39;t say](http://9gag.com/gag/a8q2B8d)
+ - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
+ - 🚯 [Give real quick test](http://9gag.com/gag/aQEZYpq)<!-- MEMES:END -->
 
 --- 
 
