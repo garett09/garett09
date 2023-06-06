@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Noice Cosplay](http://9gag.com/gag/axoRXVn)
- - 🚯 [Daily motivation](http://9gag.com/gag/a3Z2oBN)
- - 🚯 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)<!-- MEMES:END -->
+ - 🚖 [Wtf, lol.](http://9gag.com/gag/aGEAPy7)
+ - 🚯 [Noice Cosplay](http://9gag.com/gag/axoRXVn)
+ - 🚯 [Give real quick test](http://9gag.com/gag/aQEZYpq)<!-- MEMES:END -->
 
 --- 
 
