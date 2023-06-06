@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Joku-u Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23751241/joku-u-shrine-location-walkthrough-totk)
- - [Spider-Punk’s chaotic look had to break Across the Spider-Verse’s animation rules](https://www.polygon.com/23749792/across-the-spider-verse-spider-punk-animation-development)
- - [Fight Me: Spider-Punk Is Spider-Verse&#39;s Best New Hero](https://kotaku.com/spiderman-across-the-spider-verse-punk-hobie-brown-1850511218)<!-- GAME:END -->
+ - [The Flash is a eulogy for every DC movie that never was](https://www.polygon.com/reviews/23751219/the-flash-movie-review-ezra-miller-michael-keaton-batman)
+ - [Nintendo&#39;s claim that emulation &#39;stifles innovation&#39; isn&#39;t just absurd—it&#39;s hypocritical](https://www.pcgamer.com/nintendos-claim-that-emulation-stifles-innovation-isnt-just-absurdits-hypocritical)
+ - [Wait, who the heck was that bodega lady in Spider-Man: Across the Spider-Verse?](https://www.polygon.com/23746702/spider-man-across-spider-verse-2-venom-mrs-chen-cameo-mcu-sony-live-action)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
