@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)
- - 🚯 [Noice Cosplay](http://9gag.com/gag/axoRXVn)
- - 🚯 [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)<!-- MEMES:END -->
+ - 🚖 [Out of potatoes, dudes.](http://9gag.com/gag/aPgQ5xG)
+ - 🚯 [Without them we didn&#39;t need it....](http://9gag.com/gag/aeQ2KmB)
+ - 🚯 [Perspective matters](http://9gag.com/gag/a5X2LBg)<!-- MEMES:END -->
 
 --- 
 
