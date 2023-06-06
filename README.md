@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t Want Students to Rely on ChatGPT? Have Them Use It](https://www.wired.com/story/dont-want-students-to-rely-on-chatgpt-have-them-use-it/)
- - [Honda announces Acura ZDX will be first EV with Google built-in](https://www.theverge.com/2023/6/6/23750113/honda-acura-zdx-google-built-in-android-native)
- - [The Tamagotchi Uni device features the ‘metaverse of the Tamagotchi world’](https://www.theverge.com/2023/6/6/23749564/tamagotchi-uni-tamaverse-device-metaverse-watch)<!-- TECH:END -->
+ - [New 15-inch MacBook Air vs 13-inch MacBook Air M2: Compared](https://appleinsider.com/inside/macbook-air/vs/new-15-inch-macbook-air-vs-13-inch-macbook-air-m2-compared?utm_medium=rss)
+ - [What’s so ‘pro’ about Apple’s Vision Pro headset?](https://www.theverge.com/2023/6/6/23750624/apple-vision-pro-headset-developers)
+ - [13 Best PC Games You Can Play Forever &lpar;2023&rpar;](https://www.wired.com/gallery/best-pc-games-to-play-forever/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
