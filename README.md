@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chinese girl says thank you to a Singer that saved her life](http://9gag.com/gag/a8qwdD6)
- - 🚯 [Chester Bennington one day before he took his own life](http://9gag.com/gag/aL1mqev)
- - 🚯 [Why he against it tho](http://9gag.com/gag/aOx1o9y)<!-- MEMES:END -->
+ - 🚖 [Wtf](http://9gag.com/gag/aQEZwVW)
+ - 🚯 [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)
+ - 🚯 [I am garbage,take me](http://9gag.com/gag/awZdweD)<!-- MEMES:END -->
 
 --- 
 
