@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: May 2023’s top downloads](https://blog.playstation.com/2023/06/06/playstation-store-may-2023s-top-downloads/)
- - [PlayStation Store: May 2023’s top downloads](https://blog.playstation.com/2023/06/06/playstation-store-may-2023s-top-downloads/)
- - [Western Digital’s new Xbox Series X expansion cards are now official](https://www.polygon.com/deals/23670137/xbox-series-x-western-digital-wd-black-c50-expansion-card-buy)<!-- GAME:END -->
+ - [The best thriller TV series to watch on Netflix](https://www.polygon.com/what-to-watch/23745847/best-thriller-tv-series-netflix-shows-watch-streaming)
+ - [Tears of the Kingdom Fans Find Evidence Of Unreleased Amiibo](https://kotaku.com/tears-of-the-kingdom-totk-zelda-amiibo-paraglider-1850510090)
+ - [Irasak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23750876/irasak-shrine-location-walkthrough-puzzle-solution)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
