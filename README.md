@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi could be working on a thin and light Galaxy Z Flip rival](https://www.androidauthority.com/xiaomi-mix-flip-clamshell-foldable-3332309/)
- - [An interview with Craig Federighi on the new privacy and safety enhancements across iOS 17, iPadOS 17, watchOS 10, and macOS Sonoma, working with AI, and more &lpar;Michael Grothaus/Fast Company&rpar;](http://www.techmeme.com/230606/p5#a230606p5)
- - [Apple’s Vision Pro headset uses Galaxy S8 tech for a key feature](https://www.androidauthority.com/apples-vision-pro-headset-galaxy-s8-3331700/)<!-- TECH:END -->
+ - [Everywhere Apple imagines you’ll use its $3,500 headset](https://www.theverge.com/2023/6/6/23738124/apple-vision-pro-marketing-wwdc-2023)
+ - [Filing: Intel plans to sell 35M+ shares in Mobileye, raising around $1.48B for its spending plans; after the sale, Intel will retain an ~88% stake in Mobileye &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230606/p7#a230606p7)
+ - [Kirby’s motion-based Tilt ‘n’ Tumble Game Boy game comes to Switch Online](https://www.theverge.com/2023/6/6/23750614/nintendo-switch-online-june-kirby-tilt-tumble-harvest-moon-blaster-master-mystery-tower)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
