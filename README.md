@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spoutible&#39;s Low-Budget, Audacious Quest to Be the Next Twitter](https://www.wired.com/story/christopher-bouzy-spoutible-race-to-unseat-twitter/)
- - [People Let a Startup Put a Brain Implant in Their Skulls—for 15 Minutes](https://www.wired.com/story/precision-neuroscience-brain-implant/)
- - [Apple avoided mentioning AI at WWDC, instead referring to machine learning and transformers while describing features; M2 Ultra was touted for training models &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230606/p8#a230606p8)<!-- TECH:END -->
+ - [The most popular Android version isn’t even Android 12](https://www.androidauthority.com/android-13-version-distribution-may-2023-3332337/)
+ - [Apple is making it easier for adults and minors to avoid unsolicited nudes in iOS 17](https://www.theverge.com/2023/6/6/23750666/apple-iphone-ios17-communication-safety-nudity-content-protection-minors)
+ - [Apple Design Awards winners revealed at WWDC 2023](https://appleinsider.com/articles/23/06/06/apple-design-awards-twelve-winners-revealed?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
