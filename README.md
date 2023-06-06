@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US-based human resources company UKG acquires Irish payroll software developer Immedis, in a deal understood be worth well in excess of &amp;euro;500M &lpar;Will Goodbody/RT&amp;Eacute;&rpar;](http://www.techmeme.com/230606/p25#a230606p25)
- - [B&amp;H Photo, Amazon slash MacBook Air prices to as low as $799 on heels of 15-inch debut](https://appleinsider.com/articles/23/06/06/bh-photo-amazon-slash-macbook-air-prices-to-as-low-as-799-on-heels-of-15-inch-debut?utm_medium=rss)
- - [The Verge’s 2023 Father’s Day Gift Guide](https://www.theverge.com/23728679/best-fathers-day2023-best-gifts-dad-unique-ideas-tech)<!-- TECH:END -->
+ - [Early Apple Vision Pro neurological research helps it predict when you&#39;ll click](https://appleinsider.com/articles/23/06/06/early-apple-vision-pro-neurological-research-helps-it-predict-when-youll-click?utm_medium=rss)
+ - [Why violence against women environmental defenders is undercounted](https://www.theverge.com/2023/6/6/23751071/violence-against-women-environmental-activists-data-research)
+ - [Instagram appears to be testing an AI chatbot option with 30 AI personalities that answer questions and give advice &lpar;Sabrina Ortiz/ZDNet&rpar;](http://www.techmeme.com/230606/p26#a230606p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
