@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reminder to all women nowadays](http://9gag.com/gag/adPeGgN)
- - 🚯 [Laughter is the best medicine.](http://9gag.com/gag/a9q29v6)
- - 🚯 [When the police arrest a minor involved in drug trafficking and find out he&#39;s actually turning 18 that same day... such nice guys](http://9gag.com/gag/a9q2xX1)<!-- MEMES:END -->
+ - 🚖 [Abandoned tori gate found at the end of a submerged tunnel in Japan.](http://9gag.com/gag/abvBwKE)
+ - 🚯 [When the police arrest a minor involved in drug trafficking and find out he&#39;s actually turning 18 that same day... such nice guys](http://9gag.com/gag/a9q2xX1)
+ - 🚯 [Out of potatoes, dudes.](http://9gag.com/gag/aPgQ5xG)<!-- MEMES:END -->
 
 --- 
 
