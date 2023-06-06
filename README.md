@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri gets a bit smarter, but Apple Home is still lagging behind](https://www.theverge.com/2023/6/6/23749556/apple-siri-home-new-features-wwdc-2023)
- - [Apple accidentally releases public iOS 17 beta early [u]](https://appleinsider.com/articles/23/06/06/apple-accidentally-releases-public-ios-17-beta-early?utm_medium=rss)
- - [It wasn&#39;t a mistake -- Apple betas are now free](https://appleinsider.com/articles/23/06/06/it-wasnt-a-mistake----apple-betas-are-now-free?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify’s podcast future isn’t very original](https://www.theverge.com/2023/6/6/23751648/spotify-gimlet-merge-parcast-creators-strategy)
+ - [What Intel Macs aren&#39;t getting in macOS Sonoma](https://appleinsider.com/articles/23/06/06/what-intel-macs-arent-getting-in-macos-sonoma?utm_medium=rss)
+ - [With iOS 17, Apple lets you share AirTags with friends and family](https://www.theverge.com/2023/6/6/23751614/apple-airtag-find-my-sharing-ios-17-feature)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
