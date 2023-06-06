@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everywhere Apple imagines you’ll use its $3,500 headset](https://www.theverge.com/2023/6/6/23738124/apple-vision-pro-marketing-wwdc-2023)
- - [Filing: Intel plans to sell 35M+ shares in Mobileye, raising around $1.48B for its spending plans; after the sale, Intel will retain an ~88% stake in Mobileye &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/230606/p7#a230606p7)
- - [Kirby’s motion-based Tilt ‘n’ Tumble Game Boy game comes to Switch Online](https://www.theverge.com/2023/6/6/23750614/nintendo-switch-online-june-kirby-tilt-tumble-harvest-moon-blaster-master-mystery-tower)<!-- TECH:END -->
+ - [Spoutible&#39;s Low-Budget, Audacious Quest to Be the Next Twitter](https://www.wired.com/story/christopher-bouzy-spoutible-race-to-unseat-twitter/)
+ - [People Let a Startup Put a Brain Implant in Their Skulls—for 15 Minutes](https://www.wired.com/story/precision-neuroscience-brain-implant/)
+ - [Apple avoided mentioning AI at WWDC, instead referring to machine learning and transformers while describing features; M2 Ultra was touted for training models &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230606/p8#a230606p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
