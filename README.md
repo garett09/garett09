@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spanish fascists stole a game publisher’s domain](https://www.theverge.com/2023/6/5/23750006/ecumene-aztec-giantscraft-games-ecumene-games)
- - [The iPhone 8, 8 Plus, and X aren’t getting iOS 17](https://www.theverge.com/2023/6/5/23750153/apple-ios-17-iphone-8-plus-x-support)
- - [Intel is on track with its new PowerVia chip architecture](https://www.theverge.com/2023/6/5/23748858/intel-powervia-new-chip-process-papers-vlsi-symposium-ready-for-manufacturing-testing)<!-- TECH:END -->
+ - [Microsoft to pay $20 million FTC settlement over improperly storing Xbox account data for kids](https://www.theverge.com/2023/6/5/23750320/microsoft-xbox-ftc-settlement-account-data-kids-coppa)
+ - [Microsoft will pay $20M to settle US FTC charges that the company violated COPPA by collecting personal information from children without their parents&#39; consent &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/230605/p44#a230605p44)
+ - [Apple Vision Pro developer kits will be available](https://appleinsider.com/articles/23/06/06/apple-vision-pro-developer-kits-will-be-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
