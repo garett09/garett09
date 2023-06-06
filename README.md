@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
- - [Tears of the Kingdom glitch hunters aren’t just breaking the game — they’re expanding it](https://www.theverge.com/23749498/zelda-tears-of-the-kingdom-glitch-hunters)
- - [Coinbase is being sued by the SEC](https://www.theverge.com/2023/6/6/23750745/coinbase-sec-lawsuit-unregistered-securities-crypto)<!-- TECH:END -->
+ - [Samsung One UI 6 release date: When is the next update for Galaxy phones?](https://www.androidauthority.com/samsung-one-ui-6-release-date-3332449/)
+ - [App Store Review Guideline updates go after fake apps, bad ads](https://appleinsider.com/articles/23/06/06/app-store-review-guideline-updates-go-after-fake-apps-bad-ads?utm_medium=rss)
+ - [Deals: $799 MacBook Air, $1,749 MacBook Pro 14-inch, $399 iPad 10th Generation &amp; more](https://appleinsider.com/articles/23/06/06/deals-799-macbook-air-1749-macbook-pro-14-inch-399-ipad-10th-generation-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
