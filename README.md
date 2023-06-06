@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The most popular Android version isn’t even Android 12](https://www.androidauthority.com/android-13-version-distribution-may-2023-3332337/)
- - [Apple is making it easier for adults and minors to avoid unsolicited nudes in iOS 17](https://www.theverge.com/2023/6/6/23750666/apple-iphone-ios17-communication-safety-nudity-content-protection-minors)
- - [Apple Design Awards winners revealed at WWDC 2023](https://appleinsider.com/articles/23/06/06/apple-design-awards-twelve-winners-revealed?utm_medium=rss)<!-- TECH:END -->
+ - [5 cool features Android should steal from iOS 17](https://www.androidauthority.com/ios-17-features-android-3332328/)
+ - [Drybar Straight Shot Blow-Drying Flat Iron Review: Time Saver](https://www.wired.com/review/drybar-straight-shot-blow-drying-flat-iron/)
+ - [8 Best Gear for Surviving a Convention &lpar;2023&rpar;: Bags, Water Bottles, and Portable Batteries](https://www.wired.com/gallery/best-convention-gear/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
