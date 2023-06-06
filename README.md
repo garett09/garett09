@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Netflix is launching its Queen’s Gambit chess game in July](https://www.theverge.com/2023/6/6/23749347/netflix-queens-gambit-chess-game-release-date)
- - [TikTok is opening up its paywall and 20-minute video feature to more users](https://www.theverge.com/2023/6/6/23751239/tiktok-series-paywall-20-minute-premium-videos-monetization)<!-- TECH:END -->
+ - [What Intel Macs aren&#39;t getting in macOS Sonoma](https://appleinsider.com/articles/23/06/06/what-intel-macs-arent-getting-in-macos-sonoma?utm_medium=rss)
+ - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [Apple acquires Mira, an LA-based startup that makes AR headsets for other companies and the US military; Mira raised ~$17M and once had Jony Ive as an adviser &lpar;The Verge&rpar;](http://www.techmeme.com/230606/p30#a230606p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
