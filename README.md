@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New 15-inch MacBook Air vs 13-inch MacBook Air M2: Compared](https://appleinsider.com/inside/macbook-air/vs/new-15-inch-macbook-air-vs-13-inch-macbook-air-m2-compared?utm_medium=rss)
- - [What’s so ‘pro’ about Apple’s Vision Pro headset?](https://www.theverge.com/2023/6/6/23750624/apple-vision-pro-headset-developers)
- - [13 Best PC Games You Can Play Forever &lpar;2023&rpar;](https://www.wired.com/gallery/best-pc-games-to-play-forever/)<!-- TECH:END -->
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
+ - [Tears of the Kingdom glitch hunters aren’t just breaking the game — they’re expanding it](https://www.theverge.com/23749498/zelda-tears-of-the-kingdom-glitch-hunters)
+ - [Coinbase is being sued by the SEC](https://www.theverge.com/2023/6/6/23750745/coinbase-sec-lawsuit-unregistered-securities-crypto)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
