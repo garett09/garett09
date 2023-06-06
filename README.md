@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thriller TV series to watch on Netflix](https://www.polygon.com/what-to-watch/23745847/best-thriller-tv-series-netflix-shows-watch-streaming)
- - [Tears of the Kingdom Fans Find Evidence Of Unreleased Amiibo](https://kotaku.com/tears-of-the-kingdom-totk-zelda-amiibo-paraglider-1850510090)
- - [Irasak Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23750876/irasak-shrine-location-walkthrough-puzzle-solution)<!-- GAME:END -->
+ - [Street Fighter 6 Lets You Fail At Thirst Texting, And It&#39;s Amazing](https://kotaku.com/street-fighter-6-ryu-text-smartphone-world-tour-boomer-1850510447)
+ - [Lacuna is the rare chill 2-player board game that requires almost no teaching at all](https://www.polygon.com/reviews/23746687/lacuna-board-game-review-pre-order-release-date-price)
+ - [Pokémon Go ‘Water Festival: Beach Week’ Timed Research, event guide](https://www.polygon.com/pokemon-go-guide/23750976/water-festival-beach-week-timed-research-rewards-sandygast-shiny-clauncher)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
