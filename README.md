@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Fiend Roses in Diablo 4](https://www.pcgamer.com/diablo-4-fiend-rose-locations)
- - [Jurassic Park management game marks the film&#39;s 30th anniversary by adding nostalgic set dressing and literal poop](https://www.pcgamer.com/jurassic-park-management-game-marks-the-films-30th-anniversary-by-adding-nostalgic-set-dressing-and-literal-poop)
- - [Can Krabby, Kabuto, Corphish, Clauncher, and Crabrawler be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23749561/can-krabby-kabuto-corphish-clauncher-crabrawler-be-shiny-kingler-kabutops-crawdaunt-clawitzer)<!-- GAME:END -->
+ - [Rise of the Beasts was a new chance to make the Transformers look great on screen, but…](https://www.polygon.com/23750128/transformers-rise-of-the-beasts-review)
+ - [What To Know About Diablo IV&#39;s Twitch Drops, Which Give You Free Loot](https://kotaku.com/diablo-4-iv-twitch-drops-how-to-get-mount-necromancer-1850508820)
+ - [Dead Cells sells over 10 million](https://www.pcgamer.com/dead-cells-sells-over-10-million)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
