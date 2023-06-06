@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf](http://9gag.com/gag/aQEZwVW)
- - 🚯 [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)
- - 🚯 [I am garbage,take me](http://9gag.com/gag/awZdweD)<!-- MEMES:END -->
+ - 🚖 [Stay woke](http://9gag.com/gag/a9qXjmm)
+ - 🚯 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)
+ - 🚯 [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)<!-- MEMES:END -->
 
 --- 
 
