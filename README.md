@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League Superstar Doublelift Does Not Understand What A Strike Is](https://kotaku.com/doublelift-league-lol-riot-lcspa-strike-walkout-stream-1850508827)
- - [The real star of Stars on Mars is exactly who you think it is](https://www.polygon.com/23750119/stars-mars-marshawn-lynch-episode-1)
- - [Looks Like Epic Very Quietly Cancelled An Unreal Tournament Release](https://kotaku.com/unreal-tournament-3x-x-epic-cancelled-gog-pc-ut-steam-1850508737)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/06/05/this-weeks-deals-with-gold-and-spotlight-sale-277/)
+ - [Diablo 4 servers finally start to buckle under launch strain, Blizzard&#39;s working on it](https://www.pcgamer.com/diablo-4-server-issues-queue-launch)
+ - [League Superstar Doublelift Does Not Understand What A Strike Is](https://kotaku.com/doublelift-league-lol-riot-lcspa-strike-walkout-stream-1850508827)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
