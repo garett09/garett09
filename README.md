@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rise of the Beasts was a new chance to make the Transformers look great on screen, but…](https://www.polygon.com/23750128/transformers-rise-of-the-beasts-review)
- - [What To Know About Diablo IV&#39;s Twitch Drops, Which Give You Free Loot](https://kotaku.com/diablo-4-iv-twitch-drops-how-to-get-mount-necromancer-1850508820)
- - [Dead Cells sells over 10 million](https://www.pcgamer.com/dead-cells-sells-over-10-million)<!-- GAME:END -->
+ - [Players’ Choice: Vote for May’s Best New Game](https://blog.playstation.com/2023/06/06/players-choice-vote-for-mays-best-new-game-3/)
+ - [Zelda games were always religious, but Tears of the Kingdom pushes it even further](https://www.polygon.com/legend-zelda-tears-kingdom/23749444/zelda-totk-religion-story-shrines-temple)
+ - [Diablo IV: 11 Essential Settings To Change, Whether You&#39;re On PC Or Console](https://kotaku.com/diablo-4-iv-graphics-settings-framerate-pc-ps5-xbox-1850508602)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
