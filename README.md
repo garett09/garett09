@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf](http://9gag.com/gag/aQEZwVW)
- - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
- - 🚯 [Why he change his mind?](http://9gag.com/gag/aoKLvYw)<!-- MEMES:END -->
+ - 🚖 [Give real quick test](http://9gag.com/gag/aQEZYpq)
+ - 🚯 [Wuuman](http://9gag.com/gag/anzELAq)
+ - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)<!-- MEMES:END -->
 
 --- 
 
