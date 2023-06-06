@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung One UI 6 release date: When is the next update for Galaxy phones?](https://www.androidauthority.com/samsung-one-ui-6-release-date-3332449/)
- - [App Store Review Guideline updates go after fake apps, bad ads](https://appleinsider.com/articles/23/06/06/app-store-review-guideline-updates-go-after-fake-apps-bad-ads?utm_medium=rss)
- - [Deals: $799 MacBook Air, $1,749 MacBook Pro 14-inch, $399 iPad 10th Generation &amp; more](https://appleinsider.com/articles/23/06/06/deals-799-macbook-air-1749-macbook-pro-14-inch-399-ipad-10th-generation-more?utm_medium=rss)<!-- TECH:END -->
+ - [US-based human resources company UKG acquires Irish payroll software developer Immedis, in a deal understood be worth well in excess of &amp;euro;500M &lpar;Will Goodbody/RT&amp;Eacute;&rpar;](http://www.techmeme.com/230606/p25#a230606p25)
+ - [B&amp;H Photo, Amazon slash MacBook Air prices to as low as $799 on heels of 15-inch debut](https://appleinsider.com/articles/23/06/06/bh-photo-amazon-slash-macbook-air-prices-to-as-low-as-799-on-heels-of-15-inch-debut?utm_medium=rss)
+ - [The Verge’s 2023 Father’s Day Gift Guide](https://www.theverge.com/23728679/best-fathers-day2023-best-gifts-dad-unique-ideas-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
