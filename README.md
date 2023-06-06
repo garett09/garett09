@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Out of potatoes, dudes.](http://9gag.com/gag/aPgQ5xG)
- - 🚯 [Without them we didn&#39;t need it....](http://9gag.com/gag/aeQ2KmB)
- - 🚯 [Perspective matters](http://9gag.com/gag/a5X2LBg)<!-- MEMES:END -->
+ - 🚖 [Man of culture](http://9gag.com/gag/az2R67m)
+ - 🚯 [Why he against it tho](http://9gag.com/gag/aOx1o9y)
+ - 🚯 [Cosplay](http://9gag.com/gag/a8q2Z7V)<!-- MEMES:END -->
 
 --- 
 
