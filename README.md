@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s get rid of this tuna smell real quick...](http://9gag.com/gag/aA02oW9)
- - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
+ - 🚖 [That&#39;s no even my final form...](http://9gag.com/gag/aoKLbvw)
+ - 🚯 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)
  - 🚯 [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)<!-- MEMES:END -->
 
 --- 
