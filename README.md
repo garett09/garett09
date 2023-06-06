@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf, lol.](http://9gag.com/gag/aGEAPy7)
+ - 🚖 [I wish to have his calm when I am arguing . Does anybody know his name](http://9gag.com/gag/amAM434)
  - 🚯 [Noice Cosplay](http://9gag.com/gag/axoRXVn)
- - 🚯 [Give real quick test](http://9gag.com/gag/aQEZYpq)<!-- MEMES:END -->
+ - 🚯 [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)<!-- MEMES:END -->
 
 --- 
 
