@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf](http://9gag.com/gag/aQEZwVW)
- - 🚯 [Meanwhile in the Brownsville Texas Border...](http://9gag.com/gag/a4o2egw)
- - 🚯 [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)<!-- MEMES:END -->
+ - 🚖 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
+ - 🚯 [Stay woke](http://9gag.com/gag/a9qXjmm)
+ - 🚯 [I fixed it.](http://9gag.com/gag/aDYXRPx)<!-- MEMES:END -->
 
 --- 
 
