@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Give real quick test](http://9gag.com/gag/aQEZYpq)
- - 🚯 [When the police arrest a minor involved in drug trafficking and find out he&#39;s actually turning 18 that same day... such nice guys](http://9gag.com/gag/a9q2xX1)
- - 🚯 [C. Can&#39;t say](http://9gag.com/gag/a8q2B8d)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s get rid of this tuna smell real quick...](http://9gag.com/gag/aA02oW9)
+ - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
+ - 🚯 [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)<!-- MEMES:END -->
 
 --- 
 
