@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6 Lets You Fail At Thirst Texting, And It&#39;s Amazing](https://kotaku.com/street-fighter-6-ryu-text-smartphone-world-tour-boomer-1850510447)
- - [Lacuna is the rare chill 2-player board game that requires almost no teaching at all](https://www.polygon.com/reviews/23746687/lacuna-board-game-review-pre-order-release-date-price)
- - [Pokémon Go ‘Water Festival: Beach Week’ Timed Research, event guide](https://www.polygon.com/pokemon-go-guide/23750976/water-festival-beach-week-timed-research-rewards-sandygast-shiny-clauncher)<!-- GAME:END -->
+ - [Pokémon Go Fest 2023 details, including new Mythical Pokémon, revealed](https://www.polygon.com/23751140/pokemon-go-fest-2023-dates-mythical-shiny-list)
+ - [You can finally watch one of the most influential anime ever made](https://www.polygon.com/23738654/gunbuster-anime-nge-classic)
+ - [Xbox&#39;s Starfield Controller Is Real, Will Absolutely Take My Money [Update]](https://kotaku.com/starfield-xbox-series-x-s-controller-showcase-pre-order-1850500473)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
