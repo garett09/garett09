@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It wasn&#39;t a mistake -- Apple betas are now free](https://appleinsider.com/articles/23/06/06/it-wasnt-a-mistake----apple-betas-are-now-free?utm_medium=rss)
- - [The Flash’s meta-ness is its only trick, and its undoing](https://www.theverge.com/23751014/the-flash-review-dc-warner-bros)
- - [The SEC is trying to freeze Binance’s assets](https://www.theverge.com/2023/6/6/23751584/sec-binance-cz-lawsuit-cryptocurrency-frozen-assets)<!-- TECH:END -->
+ - [Siri gets a bit smarter, but Apple Home is still lagging behind](https://www.theverge.com/2023/6/6/23749556/apple-siri-home-new-features-wwdc-2023)
+ - [Apple accidentally releases public iOS 17 beta early [u]](https://appleinsider.com/articles/23/06/06/apple-accidentally-releases-public-ios-17-beta-early?utm_medium=rss)
+ - [It wasn&#39;t a mistake -- Apple betas are now free](https://appleinsider.com/articles/23/06/06/it-wasnt-a-mistake----apple-betas-are-now-free?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
