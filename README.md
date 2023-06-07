@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I wish Zelda: Tears of the Kingdom would let me collect hearts in other ways](https://www.polygon.com/legend-zelda-tears-kingdom/23750170/zelda-tears-of-the-kingdom-totk-shrines-hearts-stamina)
- - [Twitch rolls back controversial ad guidelines after outcry from creators](https://www.polygon.com/23751472/twitch-branded-content-new-ad-guidelines-rules-asmongold-mizkif-tos)
- - [The PC version of Madden NFL 24 will be the current-gen version for the first time in years](https://www.pcgamer.com/madden-24-PC-announcement)<!-- GAME:END -->
+ - [Bottoms is like Fight Club, but it revels in messy teen girl drama](https://www.polygon.com/23752691/bottoms-movie-trailer-cast-fight-club-high-school-girls-red-band)
+ - [AK-xolotl – the cute-but-deadly roguelite shooter hits PlayStation this fall](https://blog.playstation.com/2023/06/07/ak-xolotl-the-cute-but-deadly-roguelite-shooter-hits-playstation-this-fall/)
+ - [Diablo 4&#39;s first level 100 Hardcore character has died in the worst way possible](https://www.pcgamer.com/diablo-4s-first-level-100-hardcore-character-has-died-in-the-worst-way-possible)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
