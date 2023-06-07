@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Google Earth Engine revolutionized the way we monitor deforestation](https://www.theverge.com/23746844/google-earth-engine-amazon-deforestation-monitoring)
- - [The June 2023 security patch is coming for your Galaxy S22 series phone](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
- - [Daily Deals: 41% off Apple Watch 7, 21% off Smart Keyboard for iPad, $310 off Lenovo Gaming Laptop, more](https://appleinsider.com/articles/23/06/07/daily-deals-41-off-apple-watch-7-21-off-smart-keyboard-for-ipad-310-off-lenovo-gaming-laptop-more?utm_medium=rss)<!-- TECH:END -->
+ - [How to use StandBy with iPhone in iOS 17 to get Apple&#39;s first smart display](https://appleinsider.com/articles/23/06/07/how-to-use-standby-with-iphone-in-ios-17-to-get-apples-first-smart-display?utm_medium=rss)
+ - [Sources: Amazon plans to launch an ad-supported tier of Prime Video and is in talks with WBD and Paramount to add their ad-based tiers to Prime Video Channels &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/230607/p27#a230607p27)
+ - [Ahsoka has an official premiere date](https://www.theverge.com/2023/6/7/23752569/ahsoka-star-wars-disney-plus-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
