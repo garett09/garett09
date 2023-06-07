@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
- - 🚯 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
- - 🚯 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)<!-- MEMES:END -->
+ - 🚖 [Now that&#39;s a lasagna](http://9gag.com/gag/ago2v6n)
+ - 🚯 [You\u2019re Next](http://9gag.com/gag/aDYX0Od)
+ - 🚯 [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)<!-- MEMES:END -->
 
 --- 
 
