@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now that&#39;s a lasagna](http://9gag.com/gag/ago2v6n)
- - 🚯 [You\u2019re Next](http://9gag.com/gag/aDYX0Od)
- - 🚯 [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)<!-- MEMES:END -->
+ - 🚖 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
+ - 🚯 [He\u2019s up to 46.7k followers now](http://9gag.com/gag/a04E9BO)
+ - 🚯 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)<!-- MEMES:END -->
 
 --- 
 
