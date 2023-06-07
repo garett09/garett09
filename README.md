@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Turks in Germany](http://9gag.com/gag/a04E8LL)
- - 🚯 [In a place where nobody is special.](http://9gag.com/gag/aZDjGQ6)
- - 🚯 [One ticket to hell please](http://9gag.com/gag/aGEAWww)<!-- MEMES:END -->
+ - 🚖 [Stay woke](http://9gag.com/gag/a9qXjmm)
+ - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
+ - 🚯 [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)<!-- MEMES:END -->
 
 --- 
 
