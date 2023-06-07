@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Evil Spirit Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23751800/evil-spirit-armor-locations-head-chest-legs)
- - [Myst Studio&#39;s New Game Has Loads Of AI-Generated Stuff](https://kotaku.com/myst-firmament-cyan-studios-ai-machine-writing-art-pc-1850505094)
- - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/06/06/playstation-plus-double-discounts-promotion-comes-to-playstation-store-4/)<!-- GAME:END -->
+ - [All armor sets, locations, and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)
+ - [PSA: Diablo 4 players, don&#39;t waste your gold](https://www.pcgamer.com/psa-diablo-4-players-dont-waste-your-gold)
+ - [How to get the Evil Spirit Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23751800/evil-spirit-armor-locations-head-chest-legs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
