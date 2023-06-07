@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sequoia&#39;s plan for three firms, a major shift, highlights the impact of rising US-China tensions and efforts by Silicon Valley to create distance from China &lpar;Bloomberg&rpar;](http://www.techmeme.com/230607/p15#a230607p15)
- - [Apple’s new Proton-like tool can run Windows games on a Mac](https://www.theverge.com/2023/6/7/23752164/apple-mac-gaming-game-porting-toolkit-windows-games-macos)
- - [Instagram’s recommendation algorithms are promoting pedophile networks](https://www.theverge.com/2023/6/7/23752192/instagrams-recommendation-algorithms-promote-pedophile-networks-investigation)<!-- TECH:END -->
+ - [The 21 Best iPad Accessories &lpar;2023&rpar;: Cases, Keyboards, Chargers, and Hubs](https://www.wired.com/gallery/best-ipad-accessories/)
+ - [Apple’s view of the future is a lonely one](https://www.theverge.com/23751675/apple-vision-pro-vr-headset-ios-17-mental-health-mood-journal)
+ - [The Samsung One UI 5 Watch beta is finally open](https://www.androidauthority.com/samsung-one-ui-5-watch-beta-launch-3332776/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
