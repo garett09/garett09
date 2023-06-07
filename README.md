@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hall of Fame](http://9gag.com/gag/a4oqK9w)
- - 🚯 [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)
- - 🚯 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)<!-- MEMES:END -->
+ - 🚖 [Without them we didn&#39;t need it....](http://9gag.com/gag/aeQ2KmB)
+ - 🚯 [You\u2019re Next](http://9gag.com/gag/aDYX0Od)
+ - 🚯 [What if japan become no.1 country in the world](http://9gag.com/gag/a9qXd26)<!-- MEMES:END -->
 
 --- 
 
