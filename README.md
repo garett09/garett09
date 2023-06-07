@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Without them we didn&#39;t need it....](http://9gag.com/gag/aeQ2KmB)
- - 🚯 [You\u2019re Next](http://9gag.com/gag/aDYX0Od)
- - 🚯 [What if japan become no.1 country in the world](http://9gag.com/gag/a9qXd26)<!-- MEMES:END -->
+ - 🚖 [In a place where nobody is special.](http://9gag.com/gag/aZDjGQ6)
+ - 🚯 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
+ - 🚯 [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)<!-- MEMES:END -->
 
 --- 
 
