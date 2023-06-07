@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s Ryzen 8000 CPU with Navi 3.5 graphics could kill low-end GPUs](https://www.pcgamer.com/amds-ryzen-8000-cpu-with-navi-35-graphics-could-kill-low-end-gpus)
- - [BioWare prepares to jettison Star Wars: The Old Republic to focus on Mass Effect and Dragon Age](https://www.pcgamer.com/bioware-prepares-to-jettison-star-wars-the-old-republic-to-focus-on-mass-effect-and-dragon-age)
- - [The best board games of 2023 so far](https://www.polygon.com/what-to-play/23750051/best-board-games-2023-new)<!-- GAME:END -->
+ - [Introducing the No Man’s Sky Singularity Expedition](https://blog.playstation.com/2023/06/07/introducing-the-no-mans-sky-singularity-expedition/)
+ - [Introducing… No Man’s Sky Singularity Expedition](https://news.xbox.com/en-us/2023/06/07/no-mans-sky-singularity-expedition/)
+ - [Let’s talk about Spider-Man: Across the Spider-Verse’s biggest plot contradiction](https://www.polygon.com/23749898/spider-man-across-the-spider-verse-plot-hole-contradiction)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
