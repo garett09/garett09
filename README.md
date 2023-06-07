@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use StandBy with iPhone in iOS 17 to get Apple&#39;s first smart display](https://appleinsider.com/articles/23/06/07/how-to-use-standby-with-iphone-in-ios-17-to-get-apples-first-smart-display?utm_medium=rss)
- - [Sources: Amazon plans to launch an ad-supported tier of Prime Video and is in talks with WBD and Paramount to add their ad-based tiers to Prime Video Channels &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/230607/p27#a230607p27)
- - [Ahsoka has an official premiere date](https://www.theverge.com/2023/6/7/23752569/ahsoka-star-wars-disney-plus-release-date)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [Contextual AI, which is building enterprise-focused LLMs, emerges from stealth with a $20M seed led by Bain Capital Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230607/p28#a230607p28)
+ - [Windows 11’s modern File Explorer UI and RGB lighting controls head to testers](https://www.theverge.com/2023/6/7/23752709/microsoft-windows-11-file-explorer-ui-modern-rgb-controls-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
