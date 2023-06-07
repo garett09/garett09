@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stay woke](http://9gag.com/gag/a9qXjmm)
- - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)
- - 🚯 [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)<!-- MEMES:END -->
+ - 🚖 [When you rent a girlfriend and she tricked you into drinking hot semen instead of milk](http://9gag.com/gag/a9qXdO6)
+ - 🚯 [One ticket to hell please](http://9gag.com/gag/aGEAWww)
+ - 🚯 [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)<!-- MEMES:END -->
 
 --- 
 
