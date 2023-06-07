@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am garbage,take me](http://9gag.com/gag/awZdweD)
- - 🚯 [When dowry is getting more expensive every day and you&#39;ve just laid eyes on a fine man](http://9gag.com/gag/abvBjwX)
+ - 🚖 [Gaggers](http://9gag.com/gag/aBdX9MA)
+ - 🚯 [Meanwhile in the Brownsville Texas Border...](http://9gag.com/gag/a4o2egw)
  - 🚯 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
 
 --- 
