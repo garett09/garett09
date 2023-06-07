@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gaggers](http://9gag.com/gag/aBdX9MA)
- - 🚯 [Meanwhile in the Brownsville Texas Border...](http://9gag.com/gag/a4o2egw)
- - 🚯 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
+ - 🚖 [In a place where nobody is special.](http://9gag.com/gag/aZDjGQ6)
+ - 🚯 [Stay woke](http://9gag.com/gag/a9qXjmm)
+ - 🚯 [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)<!-- MEMES:END -->
 
 --- 
 
