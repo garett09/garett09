@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Buffalo Bills hit Madden 24’s cover for the first time](https://www.polygon.com/23752554/madden-24-cover-josh-allen-buffalo-bills)
- - [Keep the Spider-high going with these 6 movies](https://www.polygon.com/what-to-watch/23742654/movies-like-spider-man-spider-verse-netflix-disney-plus)
- - [Intel CPU with 16 big Performance cores hits 7.2GHz and draws 800W](https://www.pcgamer.com/intel-cpu-with-16-big-performance-cores-hits-72ghz-and-draws-800w)<!-- GAME:END -->
+ - [I wish Zelda: Tears of the Kingdom would let me collect hearts in other ways](https://www.polygon.com/legend-zelda-tears-kingdom/23750170/zelda-tears-of-the-kingdom-totk-shrines-hearts-stamina)
+ - [Twitch rolls back controversial ad guidelines after outcry from creators](https://www.polygon.com/23751472/twitch-branded-content-new-ad-guidelines-rules-asmongold-mizkif-tos)
+ - [The PC version of Madden NFL 24 will be the current-gen version for the first time in years](https://www.pcgamer.com/madden-24-PC-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
