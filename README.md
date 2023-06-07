@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Sky Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23750906/sky-armor-location-head-legs-chest)
- - [Two pulse-pounding PvP modes come to Farming Simulator 22, and yes I am serious](https://www.pcgamer.com/two-pulse-pounding-pvp-modes-come-to-farming-simulator-22-and-yes-i-am-serious)
- - [Counter-Strike 2 loadout update takes cues from Valorant, and might indicate more guns are coming over time](https://www.pcgamer.com/counter-strike-2-loadout-update-takes-cues-from-valorant-and-might-indicate-more-guns-are-coming-over-time)<!-- GAME:END -->
+ - [How to get the Evil Spirit Armor in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23751800/evil-spirit-armor-locations-head-chest-legs)
+ - [Myst Studio&#39;s New Game Has Loads Of AI-Generated Stuff](https://kotaku.com/myst-firmament-cyan-studios-ai-machine-writing-art-pc-1850505094)
+ - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2023/06/06/playstation-plus-double-discounts-promotion-comes-to-playstation-store-4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
