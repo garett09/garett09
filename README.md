@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Expendables 4 gives Jason Statham and Megan Fox their own Mr. and Mrs. Smith](https://www.polygon.com/23751533/expendables-4-trailer-cast)
- - [This New Steam Exclusive Is Literally About Winnie The Pooh’s Hole](https://kotaku.com/winnies-hole-steam-best-horror-game-pc-public-domain-1850514845)
- - [Nova Lands: an Interplanetary Adventure of Base Building and Automation](https://news.xbox.com/en-us/2023/06/07/nova-lands-is-available-for-preorder-today/)<!-- GAME:END -->
+ - [The Buffalo Bills hit Madden 24’s cover for the first time](https://www.polygon.com/23752554/madden-24-cover-josh-allen-buffalo-bills)
+ - [Keep the Spider-high going with these 6 movies](https://www.polygon.com/what-to-watch/23742654/movies-like-spider-man-spider-verse-netflix-disney-plus)
+ - [Intel CPU with 16 big Performance cores hits 7.2GHz and draws 800W](https://www.pcgamer.com/intel-cpu-with-16-big-performance-cores-hits-72ghz-and-draws-800w)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
