@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hall of Fame](http://9gag.com/gag/a4oqK9w)
- - 🚯 [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)
- - 🚯 [LOTR in 90s Russia](http://9gag.com/gag/aNwRZrG)<!-- MEMES:END -->
+ - 🚖 [Ah yes the seks](http://9gag.com/gag/ay2RgAV)
+ - 🚯 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)
+ - 🚯 [Chester Bennington one day before he took his own life](http://9gag.com/gag/aL1mqev)<!-- MEMES:END -->
 
 --- 
 
