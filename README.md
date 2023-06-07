@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Noice Cosplay](http://9gag.com/gag/axoRXVn)
- - 🚯 [In a place where nobody is special.](http://9gag.com/gag/aZDjGQ6)
- - 🚯 [Honestly derek delivered the surprise perfectly](http://9gag.com/gag/ago4W9x)<!-- MEMES:END -->
+ - 🚖 [Hall of Fame](http://9gag.com/gag/a4oqK9w)
+ - 🚯 [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)
+ - 🚯 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)<!-- MEMES:END -->
 
 --- 
 
