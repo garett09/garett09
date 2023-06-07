@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stay woke](http://9gag.com/gag/a9qXjmm)
- - 🚯 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)
- - 🚯 [Stupid russians have destroyed Kakhovka Hydroelectric Power Plant, which will lead to massive flooding](http://9gag.com/gag/aBdGD9O)<!-- MEMES:END -->
+ - 🚖 [Sik](http://9gag.com/gag/aZD2bK3)
+ - 🚯 [Wuuman](http://9gag.com/gag/anzELAq)
+ - 🚯 [Chinese girl says thank you to a Singer that saved her life](http://9gag.com/gag/a8qwdD6)<!-- MEMES:END -->
 
 --- 
 
