@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Virtual Clinics are Battling Inequalities in Women’s Health](https://www.wired.com/story/kate-ryder-maven-femtech-fertility-pregnancy-menopause-womens-health/)
- - [The Bold Plan to Create Cyber 311 Hotlines](https://www.wired.com/story/ut-austin-cybersecurity-clinic-311/)
- - [What Weight Watchers Offers That Ozempic Can&#39;t](https://www.wired.com/story/have-a-nice-future-podcast-9/)<!-- TECH:END -->
+ - [Sequoia&#39;s plan for three firms, a major shift, highlights the impact of rising US-China tensions and efforts by Silicon Valley to create distance from China &lpar;Bloomberg&rpar;](http://www.techmeme.com/230607/p15#a230607p15)
+ - [Apple’s new Proton-like tool can run Windows games on a Mac](https://www.theverge.com/2023/6/7/23752164/apple-mac-gaming-game-porting-toolkit-windows-games-macos)
+ - [Instagram’s recommendation algorithms are promoting pedophile networks](https://www.theverge.com/2023/6/7/23752192/instagrams-recommendation-algorithms-promote-pedophile-networks-investigation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
