@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Daily motivation](http://9gag.com/gag/a3Z2oBN)
- - 🚯 [Taliban is really asking for it](http://9gag.com/gag/amAVLgV)
- - 🚯 [LOTR in 90s Russia](http://9gag.com/gag/aNwRZrG)<!-- MEMES:END -->
+ - 🚖 [He\u2019s up to 46.7k followers now](http://9gag.com/gag/a04E9BO)
+ - 🚯 [Gaggers](http://9gag.com/gag/aBdX9MA)
+ - 🚯 [Mirror effect](http://9gag.com/gag/az2ZLNK)<!-- MEMES:END -->
 
 --- 
 
