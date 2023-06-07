@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is adding more Indian languages to its services and developing an AI model that would be able to handle 100+ Indian languages across speech and text &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/230607/p2#a230607p2)
  - [Riot and Coke think they figured out what leveling up tastes like](https://www.theverge.com/2023/6/7/23750970/riot-league-of-legends-coke-zero-sugar-ultimate)
- - [Sources: the EU is considering a mandatory ban on using equipment from companies like Huawei that are deemed to present a security risk in 5G networks &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230607/p1#a230607p1)
- - [Elon Musk and Twitter, the entire story so far](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
+ - [Sources: the EU is considering a mandatory ban on using equipment from companies like Huawei that are deemed to present a security risk in 5G networks &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230607/p1#a230607p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
