@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Leave a Platform When the Party&#39;s Over](https://www.wired.com/story/how-to-leave-a-platform-musk-twitter-carepages/)
- - [How Twitter, YouTube, and Meta gave up on removing lies about the 2020 US Presidential elections, having briefly banded together to do the right thing &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230607/p9#a230607p9)
- - [Instagram is apparently testing an AI chatbot that lets you choose from 30 personalities](https://www.theverge.com/2023/6/7/23752143/instagram-ai-chatbot-feature-advice-questions-personalities-leak-screenshot)<!-- TECH:END -->
+ - [Virtual Clinics are Battling Inequalities in Women’s Health](https://www.wired.com/story/kate-ryder-maven-femtech-fertility-pregnancy-menopause-womens-health/)
+ - [The Bold Plan to Create Cyber 311 Hotlines](https://www.wired.com/story/ut-austin-cybersecurity-clinic-311/)
+ - [What Weight Watchers Offers That Ozempic Can&#39;t](https://www.wired.com/story/have-a-nice-future-podcast-9/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
