@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
- - 🚯 [Wuuman](http://9gag.com/gag/anzELAq)
- - 🚯 [Wtf](http://9gag.com/gag/aQEZwVW)<!-- MEMES:END -->
+ - 🚖 [Daily motivation](http://9gag.com/gag/a3Z2oBN)
+ - 🚯 [Taliban is really asking for it](http://9gag.com/gag/amAVLgV)
+ - 🚯 [LOTR in 90s Russia](http://9gag.com/gag/aNwRZrG)<!-- MEMES:END -->
 
 --- 
 
