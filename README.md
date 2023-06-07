@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based GetHarley, a telehealth service connecting consumers to skincare clinicians offering consultations and products, raised $52M led by Index Ventures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230606/p38#a230606p38)
- - [Montreal-based GSoft, which offers employee experience software for Microsoft 365 management, onboarding, skills development, and more, raised CA$125M from CDPQ &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/230606/p37#a230606p37)
- - [iPadOS 17 feature roundup: Interactive widgets, custom Lock Screen, Health app, more](https://appleinsider.com/articles/23/06/07/ipados-17-feature-roundup-interactive-widgets-custom-lock-screen-health-app-more?utm_medium=rss)<!-- TECH:END -->
+ - [Riot and Coke think they figured out what leveling up tastes like](https://www.theverge.com/2023/6/7/23750970/riot-league-of-legends-coke-zero-sugar-ultimate)
+ - [Sources: the EU is considering a mandatory ban on using equipment from companies like Huawei that are deemed to present a security risk in 5G networks &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230607/p1#a230607p1)
+ - [Elon Musk and Twitter, the entire story so far](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
