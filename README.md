@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Synapse hands-on report: an artistic PS VR2 shooter that puts the power of telekinesis in your hand](https://blog.playstation.com/2023/06/07/synapse-hands-on-report-an-artistic-ps-vr2-shooter-that-puts-the-power-of-telekinesis-in-your-hand/)
- - [Good Omens season 2 has a missing angel crash Aziraphale and Crowley’s domestic bliss](https://www.polygon.com/23751460/good-omens-season-2-trailer-release-date)
- - [Where to buy Diablo 4, and info on each edition](https://www.polygon.com/deals/23641318/diablo-4-pre-order-standard-deluxe-ultimate-editions)<!-- GAME:END -->
+ - [TMNT: Shredder’s Revenge is adding a great playable guest character: Usagi Yojimbo](https://www.polygon.com/23752380/tmnt-shredders-revenge-dlc-usagi-yojimbo-dimension-shellshock)
+ - [F1 Manager 23 – Five exciting new features hit the track July 31](https://blog.playstation.com/2023/06/07/f1-manager-23-five-exciting-new-features-hit-the-track-july-31/)
+ - [The Minecraft Trails &amp; Tales Update is Now Available to Play on All Platforms, including Chromebooks!](https://news.xbox.com/en-us/2023/06/07/minecraft-trails-tales-update-out-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
