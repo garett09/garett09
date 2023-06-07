@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sik](http://9gag.com/gag/aZD2bK3)
- - 🚯 [Wuuman](http://9gag.com/gag/anzELAq)
- - 🚯 [Chinese girl says thank you to a Singer that saved her life](http://9gag.com/gag/a8qwdD6)<!-- MEMES:END -->
+ - 🚖 [Why he against it tho](http://9gag.com/gag/aOx1o9y)
+ - 🚯 [Chinese girl says thank you to a Singer that saved her life](http://9gag.com/gag/a8qwdD6)
+ - 🚯 [New products](http://9gag.com/gag/aYV1jPw)<!-- MEMES:END -->
 
 --- 
 
