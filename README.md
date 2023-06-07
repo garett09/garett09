@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Windows 11&#39;s Teams Chat bloatware will soon no longer taunt me with its very existence](https://www.pcgamer.com/windows-11s-teams-chat-bloatware-will-soon-no-longer-taunt-me-with-its-very-existence)
  - [Today&#39;s Wordle hint and answer #718: Wednesday, June 7](https://www.pcgamer.com/wordle-answer-today-hint-718-june-7)
- - [All armor sets, locations, and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)
- - [PSA: Diablo 4 players, don&#39;t waste your gold](https://www.pcgamer.com/psa-diablo-4-players-dont-waste-your-gold)<!-- GAME:END -->
+ - [All armor sets, locations, and set bonuses in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23730757/armor-sets-list-set-bonuses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
