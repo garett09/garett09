@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why he against it tho](http://9gag.com/gag/aOx1o9y)
- - 🚯 [Chinese girl says thank you to a Singer that saved her life](http://9gag.com/gag/a8qwdD6)
- - 🚯 [New products](http://9gag.com/gag/aYV1jPw)<!-- MEMES:END -->
+ - 🚖 [Stay woke](http://9gag.com/gag/a9qXjmm)
+ - 🚯 [Cosplay](http://9gag.com/gag/a8q2Z7V)
+ - 🚯 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
 
 --- 
 
