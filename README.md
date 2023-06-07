@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Transformers: Rise of the Beasts is the start of something big, but it’s a terrible Beast Wars movie](https://www.theverge.com/23752711/transformers-rise-of-the-beasts-review)
- - [Google Assistant gets its first meaningful update in a long time: Two new voices](https://www.androidauthority.com/google-assistant-voices-2023-3332954/)
- - [Apple’s Vision Pro is the Retina display moment for headsets](https://www.theverge.com/23752959/apple-vision-pro-headset-hands-on-demo-impressions)<!-- TECH:END -->
+ - [iOS 17 feature roundup: StandBy, NameDrop, Contact Posters, more](https://appleinsider.com/articles/23/06/06/ios-17-feature-roundup-standby-namedrop-contact-posters-more?utm_medium=rss)
+ - [Apple provides official design resources for collaborative design tool Figma](https://appleinsider.com/articles/23/06/07/apple-provides-official-design-resources-for-collaborative-design-tool-figma?utm_medium=rss)
+ - [GameStop fires CEO Matt Furlong two years after hiring him and appoints chairman and majority shareholder Ryan Cohen as its executive chairman; GME drops 15%+ &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230607/p35#a230607p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
