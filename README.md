@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)
- - 🚯 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)
- - 🚯 [Hall of Fame](http://9gag.com/gag/a4oqK9w)<!-- MEMES:END -->
+ - 🚖 [Hall of Fame](http://9gag.com/gag/a4oqK9w)
+ - 🚯 [Eva Lovia and Malena morgan](http://9gag.com/gag/ay2RO4b)
+ - 🚯 [LOTR in 90s Russia](http://9gag.com/gag/aNwRZrG)<!-- MEMES:END -->
 
 --- 
 
