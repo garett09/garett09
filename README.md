@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
- - [Contextual AI, which is building enterprise-focused LLMs, emerges from stealth with a $20M seed led by Bain Capital Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230607/p28#a230607p28)
- - [Windows 11’s modern File Explorer UI and RGB lighting controls head to testers](https://www.theverge.com/2023/6/7/23752709/microsoft-windows-11-file-explorer-ui-modern-rgb-controls-test)<!-- TECH:END -->
+ - [Meta plans to update its account center to give users more control over its cross-site tracking and profiling, following a German antitrust intervention &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230607/p30#a230607p30)
+ - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
