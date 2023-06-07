@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Minecraft now available natively on Chromebooks](https://www.androidauthority.com/minecraft-chromebooks-3332517/)
- - [Deepmind’s AI Is Learning About the Art of Coding](https://www.wired.com/story/deepminds-ai-is-learning-about-the-art-of-coding/)
- - [The US DOJ says Onur Aksoy pleaded guilty to importing and selling counterfeit Cisco equipment to various organizations, making $100M+ between 2014 and 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230607/p22#a230607p22)<!-- TECH:END -->
+ - [How Google Earth Engine revolutionized the way we monitor deforestation](https://www.theverge.com/23746844/google-earth-engine-amazon-deforestation-monitoring)
+ - [The June 2023 security patch is coming for your Galaxy S22 series phone](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
+ - [Daily Deals: 41% off Apple Watch 7, 21% off Smart Keyboard for iPad, $310 off Lenovo Gaming Laptop, more](https://appleinsider.com/articles/23/06/07/daily-deals-41-off-apple-watch-7-21-off-smart-keyboard-for-ipad-310-off-lenovo-gaming-laptop-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
