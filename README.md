@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to update its account center to give users more control over its cross-site tracking and profiling, following a German antitrust intervention &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/230607/p30#a230607p30)
- - [Android 14 release date: When is the next update?](https://www.androidauthority.com/android-14-release-schedule-3280836/)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
+ - [Apple &amp; MLS close deal to bring Lionel Messi to Inter Miami](https://appleinsider.com/articles/23/06/07/apple-mls-close-deal-to-bring-lionel-messi-to-inter-miami?utm_medium=rss)
+ - [Reddit says it is creating an exemption from its new API pricing terms for &quot;select developers of non-commercial apps that address accessibility needs&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230607/p32#a230607p32)
+ - [Reddit relents, makes first concession in its plans to impair third-party apps](https://www.androidauthority.com/reddit-third-party-apps-accessibility-3332934/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
