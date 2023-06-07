@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes the seks](http://9gag.com/gag/ay2RgAV)
- - 🚯 [They gonna make it to Mars before us, kek.](http://9gag.com/gag/a8q2PBd)
- - 🚯 [Chester Bennington one day before he took his own life](http://9gag.com/gag/aL1mqev)<!-- MEMES:END -->
+ - 🚖 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
+ - 🚯 [Wuuman](http://9gag.com/gag/anzELAq)
+ - 🚯 [Wtf](http://9gag.com/gag/aQEZwVW)<!-- MEMES:END -->
 
 --- 
 
