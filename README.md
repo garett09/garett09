@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bottoms is like Fight Club, but it revels in messy teen girl drama](https://www.polygon.com/23752691/bottoms-movie-trailer-cast-fight-club-high-school-girls-red-band)
- - [AK-xolotl – the cute-but-deadly roguelite shooter hits PlayStation this fall](https://blog.playstation.com/2023/06/07/ak-xolotl-the-cute-but-deadly-roguelite-shooter-hits-playstation-this-fall/)
- - [Diablo 4&#39;s first level 100 Hardcore character has died in the worst way possible](https://www.pcgamer.com/diablo-4s-first-level-100-hardcore-character-has-died-in-the-worst-way-possible)<!-- GAME:END -->
+ - [Xbox&#39;s Starfield Controller Is Real, Will Absolutely Take My Money [Update]](https://kotaku.com/starfield-xbox-series-x-s-controller-showcase-pre-order-1850500473)
+ - [Disney Lorcana launch threatened by Upper Deck lawsuit](https://www.polygon.com/23752860/disney-lorcana-lawsuit-upper-deck-injunction-release-date)
+ - [Battletech subreddit creator comes back after years of lurking to kick out moderators who were deleting LGBTQ+ content: &#39;Battletech is for everyone&#39;](https://www.pcgamer.com/battletech-subreddit-creator-comes-back-after-years-of-lurking-to-kick-out-moderators-who-were-deleting-lgbtq-content-battletech-is-for-everyone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
