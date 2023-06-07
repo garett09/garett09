@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing the No Man’s Sky Singularity Expedition](https://blog.playstation.com/2023/06/07/introducing-the-no-mans-sky-singularity-expedition/)
- - [Introducing… No Man’s Sky Singularity Expedition](https://news.xbox.com/en-us/2023/06/07/no-mans-sky-singularity-expedition/)
- - [Let’s talk about Spider-Man: Across the Spider-Verse’s biggest plot contradiction](https://www.polygon.com/23749898/spider-man-across-the-spider-verse-plot-hole-contradiction)<!-- GAME:END -->
+ - [Synapse hands-on report: an artistic PS VR2 shooter that puts the power of telekinesis in your hand](https://blog.playstation.com/2023/06/07/synapse-hands-on-report-an-artistic-ps-vr2-shooter-that-puts-the-power-of-telekinesis-in-your-hand/)
+ - [Good Omens season 2 has a missing angel crash Aziraphale and Crowley’s domestic bliss](https://www.polygon.com/23751460/good-omens-season-2-trailer-release-date)
+ - [Where to buy Diablo 4, and info on each edition](https://www.polygon.com/deals/23641318/diablo-4-pre-order-standard-deluxe-ultimate-editions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
