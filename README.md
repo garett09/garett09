@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TMNT: Shredder’s Revenge is adding a great playable guest character: Usagi Yojimbo](https://www.polygon.com/23752380/tmnt-shredders-revenge-dlc-usagi-yojimbo-dimension-shellshock)
- - [F1 Manager 23 – Five exciting new features hit the track July 31](https://blog.playstation.com/2023/06/07/f1-manager-23-five-exciting-new-features-hit-the-track-july-31/)
- - [The Minecraft Trails &amp; Tales Update is Now Available to Play on All Platforms, including Chromebooks!](https://news.xbox.com/en-us/2023/06/07/minecraft-trails-tales-update-out-now/)<!-- GAME:END -->
+ - [Expendables 4 gives Jason Statham and Megan Fox their own Mr. and Mrs. Smith](https://www.polygon.com/23751533/expendables-4-trailer-cast)
+ - [This New Steam Exclusive Is Literally About Winnie The Pooh’s Hole](https://kotaku.com/winnies-hole-steam-best-horror-game-pc-public-domain-1850514845)
+ - [Nova Lands: an Interplanetary Adventure of Base Building and Automation](https://news.xbox.com/en-us/2023/06/07/nova-lands-is-available-for-preorder-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
