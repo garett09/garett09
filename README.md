@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple &amp; MLS close deal to bring Lionel Messi to Inter Miami](https://appleinsider.com/articles/23/06/07/apple-mls-close-deal-to-bring-lionel-messi-to-inter-miami?utm_medium=rss)
- - [Reddit says it is creating an exemption from its new API pricing terms for &quot;select developers of non-commercial apps that address accessibility needs&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230607/p32#a230607p32)
- - [Reddit relents, makes first concession in its plans to impair third-party apps](https://www.androidauthority.com/reddit-third-party-apps-accessibility-3332934/)<!-- TECH:END -->
+ - [Transformers: Rise of the Beasts is the start of something big, but it’s a terrible Beast Wars movie](https://www.theverge.com/23752711/transformers-rise-of-the-beasts-review)
+ - [Google Assistant gets its first meaningful update in a long time: Two new voices](https://www.androidauthority.com/google-assistant-voices-2023-3332954/)
+ - [Apple’s Vision Pro is the Retina display moment for headsets](https://www.theverge.com/23752959/apple-vision-pro-headset-hands-on-demo-impressions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
