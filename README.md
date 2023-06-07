@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In a place where nobody is special.](http://9gag.com/gag/aZDjGQ6)
- - 🚯 [Stay woke](http://9gag.com/gag/a9qXjmm)
- - 🚯 [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)<!-- MEMES:END -->
+ - 🚖 [Turks in Germany](http://9gag.com/gag/a04E8LL)
+ - 🚯 [In a place where nobody is special.](http://9gag.com/gag/aZDjGQ6)
+ - 🚯 [One ticket to hell please](http://9gag.com/gag/aGEAWww)<!-- MEMES:END -->
 
 --- 
 
