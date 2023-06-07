@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stay woke](http://9gag.com/gag/a9qXjmm)
- - 🚯 [Cosplay](http://9gag.com/gag/a8q2Z7V)
+ - 🚖 [I am garbage,take me](http://9gag.com/gag/awZdweD)
+ - 🚯 [When dowry is getting more expensive every day and you&#39;ve just laid eyes on a fine man](http://9gag.com/gag/abvBjwX)
  - 🚯 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
 
 --- 
