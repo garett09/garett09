@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He\u2019s up to 46.7k followers now](http://9gag.com/gag/a04E9BO)
- - 🚯 [Gaggers](http://9gag.com/gag/aBdX9MA)
- - 🚯 [Mirror effect](http://9gag.com/gag/az2ZLNK)<!-- MEMES:END -->
+ - 🚖 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
+ - 🚯 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)
+ - 🚯 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)<!-- MEMES:END -->
 
 --- 
 
