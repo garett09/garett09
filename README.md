@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17 feature roundup: StandBy, NameDrop, Contact Posters, more](https://appleinsider.com/articles/23/06/06/ios-17-feature-roundup-standby-namedrop-contact-posters-more?utm_medium=rss)
- - [Apple provides official design resources for collaborative design tool Figma](https://appleinsider.com/articles/23/06/07/apple-provides-official-design-resources-for-collaborative-design-tool-figma?utm_medium=rss)
- - [GameStop fires CEO Matt Furlong two years after hiring him and appoints chairman and majority shareholder Ryan Cohen as its executive chairman; GME drops 15%+ &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230607/p35#a230607p35)<!-- TECH:END -->
+ - [Twitch walks back new branded content guidelines it released on June 6 and calls them &quot;bad&quot; for streamers and the company, after swift backlash from creators &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/230607/p36#a230607p36)
+ - [Apple wants to turn your iPhone into a pet-tracking camera](https://www.theverge.com/2023/6/7/23753103/apple-iphone-pet-tracking-camera-motorized-mount-dockkit)
+ - [What New York City looked like stifled in wildfire smoke](https://www.theverge.com/2023/6/7/23753066/new-york-city-wildfire-smoke-pollution-photo-essay)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
