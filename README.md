@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hall of Fame](http://9gag.com/gag/a4oqK9w)
- - 🚯 [Future diplomat.](http://9gag.com/gag/a9qXPdm)
- - 🚯 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)<!-- MEMES:END -->
+ - 🚖 [Turks in Germany](http://9gag.com/gag/a04E8LL)
+ - 🚯 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
+ - 🚯 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)<!-- MEMES:END -->
 
 --- 
 
