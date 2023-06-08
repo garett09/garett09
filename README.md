@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Title](http://9gag.com/gag/aKEYgON)
- - 🚯 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)
- - 🚯 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
+ - 🚯 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)
+ - 🚯 [Short and thick does the trick](http://9gag.com/gag/az2Zrbb)<!-- MEMES:END -->
 
 --- 
 
