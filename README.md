@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wedbush raises Apple stock target to $220 after Vision Pro launch](https://appleinsider.com/articles/23/06/08/wedbush-raises-apple-stock-target-to-220-after-vision-pro-launch?utm_medium=rss)
- - [Blackmailers are using deepfaked nudes to bully and extort victims, warns FBI](https://www.theverge.com/2023/6/8/23753605/ai-deepfake-sextortion-nude-blackmail-fbi-warning)
- - [Adobe opens up its Firefly generative AI model to businesses](https://www.theverge.com/2023/6/8/23753564/adobe-firefly-enterprise-generative-ai-express-commercial)<!-- TECH:END -->
+ - [Apple’s Vision Pro Isn’t the Future](https://www.wired.com/story/apple-vision-pro-doomed/)
+ - [Ocean Currents Are Slowing, With Potentially Devastating Effects](https://www.wired.com/story/oceans-day-deep-ocean-current-slowdown/)
+ - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Release Date](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
