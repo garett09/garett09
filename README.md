@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [11 years later...](http://9gag.com/gag/aVb2O3v)
- - 🚯 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
- - 🚯 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)<!-- MEMES:END -->
+ - 🚖 [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)
+ - 🚯 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
+ - 🚯 [Reject modernity, return to tradition](http://9gag.com/gag/adP2jXN)<!-- MEMES:END -->
 
 --- 
 
