@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You\u2019re Next](http://9gag.com/gag/aDYX0Od)
- - 🚯 [I fixed it.](http://9gag.com/gag/aDYXRPx)
- - 🚯 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)<!-- MEMES:END -->
+ - 🚖 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
+ - 🚯 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)
+ - 🚯 [.....................](http://9gag.com/gag/awZ4KQW)<!-- MEMES:END -->
 
 --- 
 
