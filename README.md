@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prince of Persia is coming back with a cartoony 2.5D platformer, and it&#39;s the 2003 throwback I didn&#39;t know I wanted](https://www.pcgamer.com/prince-of-persia-is-coming-back-with-a-cartoony-25d-platformer-and-its-the-2003-throwback-i-didnt-know-i-wanted)
- - [Marvel’s Spider-Man 2 Arrives Only on PS5 October 20, Collector’s &amp; Digital Deluxe Editions Detailed](https://blog.playstation.com/2023/06/08/marvels-spider-man-2-arrives-only-on-ps5-october-20-collectors-digital-deluxe-editions-detailed/)
- - [Prepare for Battle: Mortal Kombat 1 and New Kameo Fighters Explained](https://news.xbox.com/en-us/2023/06/08/mortal-kombat-1-kameo-fighters/)<!-- GAME:END -->
+ - [The biggest announcements from Summer Game Fest 2023](https://www.polygon.com/23752958/summer-game-fest-announcements-trailers-2023)
+ - [Will Arnett’s unhinged Twisted Metal clown is very real and not at all of the moment](https://www.polygon.com/23753769/twisted-metal-show-sweet-tooth-will-arnett-clip)
+ - [Final Fantasy 7 Rebirth trailer gets real meta, confirms 2024 release](https://www.polygon.com/23734961/final-fantasy-7-remake-part-2-rebirth-trailer-release-date-ps5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
