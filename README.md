@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Whoopi Goldberg Calls Out Diablo IV For Not Being On Mac, But Fans Have A Fix](https://kotaku.com/diablo-4-iv-for-mac-whoopi-goldberg-upset-blizzard-port-1850519443)
- - [Gamers Anxiously Check Heads After Twitch Streamer Shows Headphone Dent](https://kotaku.com/twitch-streamer-audio-headset-indent-headphones-curtoss-1850519708)
- - [The FPS that gives you an instagib chainsaw leg just keeps getting better](https://www.pcgamer.com/the-fps-that-gives-you-an-instagib-chainsaw-leg-just-keeps-getting-better)<!-- GAME:END -->
+ - [Mayasiar Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23753873/mayasiar-shrine-location-starview-island-walkthrough-lights-mirrors)
+ - [GTA Online Is About To Get A Bunch Of Smart Changes In San Andreas Update](https://kotaku.com/gta-online-san-andreas-mercenaries-big-update-all-list-1850519961)
+ - [The first Diablo 4 player to solo his way to level 100 in Hardcore mode dies in a fight against the game&#39;s toughest boss](https://www.pcgamer.com/the-first-diablo-4-player-to-solo-his-way-to-level-100-in-hardcore-mode-dies-in-a-fight-against-the-games-toughest-boss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
