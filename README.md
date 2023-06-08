@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)
- - 🚯 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
- - 🚯 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)<!-- MEMES:END -->
+ - 🚖 [Title](http://9gag.com/gag/aKEYgON)
+ - 🚯 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)
+ - 🚯 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
 
 --- 
 
