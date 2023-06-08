@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Myst creator&#39;s latest game used &#39;AI assisted content,&#39; and funders are pissed](https://www.pcgamer.com/firmament-ai-generated-content)
- - [Report: EA &#39;Exploiting The Players&#39; With College Football Payments](https://kotaku.com/ea-sports-college-football-ncaa-strike-boycott-payment-1850517125)
- - [If you&#39;re playing barbarian in Diablo 4, you really should try switching to controller](https://www.pcgamer.com/if-youre-playing-barbarian-in-diablo-4-you-really-should-try-switching-to-controller)<!-- GAME:END -->
+ - [Any Sufficiently Advanced Technology Is Indistinguishable From Magic](https://kotaku.com/sara-hermellin-concept-art-illustration-magic-paris-1850517434)
+ - [Warzone 2 is giving everyone keys to the nukes for the next week](https://www.pcgamer.com/warzone-2-is-giving-everyone-keys-to-the-nukes-for-the-next-week)
+ - [Is it just me or does co-op make Diablo 4 feel way too easy?](https://www.pcgamer.com/is-it-just-me-or-does-co-op-make-diablo-4-feel-way-too-easy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
