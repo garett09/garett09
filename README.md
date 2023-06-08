@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)
- - 🚯 [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)
- - 🚯 [Hall of Fame](http://9gag.com/gag/a4oqK9w)<!-- MEMES:END -->
+ - 🚖 [How does one not love this woman?](http://9gag.com/gag/aYV1pbO)
+ - 🚯 [LOTR in 90s Russia](http://9gag.com/gag/aNwRZrG)
+ - 🚯 [Wednesday](http://9gag.com/gag/aZD2x50)<!-- MEMES:END -->
 
 --- 
 
