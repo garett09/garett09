@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Summer Game Fest 2023: all the news and announcements](https://www.theverge.com/2023/6/8/23751884/summer-game-fest-2023-news-announcements-trailers)
- - [Beats Fit Pro 2: Release date, price, and what we want from Beats’ next buds](https://www.androidauthority.com/beats-fit-pro-2-3332838/)
- - [The best Samsung Galaxy deals of June 2023](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
+ - [The 25 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [Marc Andreessen Is &lpar;Mostly&rpar; Wrong This Time](https://www.wired.com/story/artificial-intelligence-marc-andreessen-labor-politics/)
+ - [Louisiana passes bill banning kids from the internet without parental consent](https://www.theverge.com/2023/6/8/23754274/louisiana-child-safety-online-protection-ban-roblox-fortnite-instagram)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
