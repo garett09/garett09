@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)
- - 🚯 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
- - 🚯 [Reject modernity, return to tradition](http://9gag.com/gag/adP2jXN)<!-- MEMES:END -->
+ - 🚖 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)
+ - 🚯 [You\u2019re Next](http://9gag.com/gag/aDYX0Od)
+ - 🚯 [A joke in the 90s, &lpar;almost&rpar; reality nowadays](http://9gag.com/gag/a9qXYRK)<!-- MEMES:END -->
 
 --- 
 
