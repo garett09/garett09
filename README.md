@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 MacBook Air 15-inch gets a new preorder discount at Amazon](https://appleinsider.com/articles/23/06/08/apples-m2-macbook-air-15-inch-gets-a-new-preorder-discount-at-amazon?utm_medium=rss)
- - [Will the Vision Pro headset disrupt the high-end TV market?](https://appleinsider.com/articles/23/06/08/will-the-vision-pro-headset-disrupt-the-high-end-tv-market?utm_medium=rss)
- - [A Leaked Tesla Report Shows the Cybertruck Had Basic Design Flaws](https://www.wired.com/story/a-leaked-tesla-report-shows-the-cybertruck-had-basic-design-flaws/)<!-- TECH:END -->
+ - [Summer Game Fest 2023: all the news and announcements](https://www.theverge.com/2023/6/8/23751884/summer-game-fest-2023-news-announcements-trailers)
+ - [Beats Fit Pro 2: Release date, price, and what we want from Beats’ next buds](https://www.androidauthority.com/beats-fit-pro-2-3332838/)
+ - [The best Samsung Galaxy deals of June 2023](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
