@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch walks back new branded content guidelines it released on June 6 and calls them &quot;bad&quot; for streamers and the company, after swift backlash from creators &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/230607/p36#a230607p36)
- - [Apple wants to turn your iPhone into a pet-tracking camera](https://www.theverge.com/2023/6/7/23753103/apple-iphone-pet-tracking-camera-motorized-mount-dockkit)
- - [What New York City looked like stifled in wildfire smoke](https://www.theverge.com/2023/6/7/23753066/new-york-city-wildfire-smoke-pollution-photo-essay)<!-- TECH:END -->
+ - [Bitwarden vs 1Password: How do they compare in 2023?](https://www.androidauthority.com/bitwarden-vs-1password-3332584/)
+ - [The Age of Flames Reaches the US East Coast](https://www.wired.com/story/the-age-of-flames-reaches-the-us-east-coast/)
+ - [Best Cellphone Deals: Snag Huge Savings On Unlocked and Carrier Phone Deals     - CNET](https://www.cnet.com/deals/best-phone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
