@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court documents: the SEC accuses Binance and Binance.US of redirecting $12B+ in customer assets to entities controlled by Changpeng Zhao between 2019 and 2021 &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230607/p41#a230607p41)
- - [Sources: TikTok is aiming for a global e-commerce GMV of $20B in 2023, up from $4.4B in 2022, after rapid growth of its e-commerce business in Southeast Asia &lpar;Bloomberg&rpar;](http://www.techmeme.com/230607/p40#a230607p40)
- - [SK Hynix says it has started mass producing its 238-layer 3D NAND flash memory chips, promising speeds of 2400MT/s, up from last gen&#39;s 176 layers and 1600MT/s &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230607/p39#a230607p39)<!-- TECH:END -->
+ - [DeepMind&#39;s AlphaDev, an AI for discovering enhanced algorithms, devised new C++ sorting algorithms that are up to 70% faster and have been added to the language &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230608/p2#a230608p2)
+ - [The Bizarre Reality of Getting Online in North Korea](https://www.wired.com/story/internet-reality-north-korea/)
+ - [A survey of 472 corporate board directors ahead of the SEC&#39;s cyber-risk regulations: 76% have at least one expert, 62% say risk awareness is improving, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230608/p1#a230608p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
