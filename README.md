@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)
- - 🚯 [Short and thick does the trick](http://9gag.com/gag/az2Zrbb)
- - 🚯 [Future diplomat.](http://9gag.com/gag/a9qXPdm)<!-- MEMES:END -->
+ - 🚖 [Now that&#39;s a lasagna](http://9gag.com/gag/ago2v6n)
+ - 🚯 [.....................](http://9gag.com/gag/awZ4KQW)
+ - 🚯 [11 years later...](http://9gag.com/gag/aVb2O3v)<!-- MEMES:END -->
 
 --- 
 
