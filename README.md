@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [.....................](http://9gag.com/gag/awZ4KQW)
- - 🚯 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
- - 🚯 [Chester Bennington one day before he took his own life](http://9gag.com/gag/aL1mqev)<!-- MEMES:END -->
+ - 🚖 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
+ - 🚯 [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)
+ - 🚯 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)<!-- MEMES:END -->
 
 --- 
 
