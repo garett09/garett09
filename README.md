@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything At Summer Game Fest 2023&#39;s Main Showcase](https://kotaku.com/summer-games-fest-2023-mortal-kombat-final-fantasy-vii-1850519346)
- - [Paradox is publishing a Star Trek grand strategy game and I am vibrating with anticipation](https://www.pcgamer.com/paradox-is-publishing-a-star-trek-grand-strategy-game-and-i-am-vibrating-with-anticipation)
- - [I can&#39;t tell if people actually want co-op zombie FPSes anymore](https://www.pcgamer.com/i-cant-tell-if-people-actually-want-co-op-zombie-fpses-anymore)<!-- GAME:END -->
+ - [Want a ludicrous challenge? Try taking Baby Steps on PC and PS5 next year](https://www.polygon.com/23754090/baby-steps-game-release-date-announcement-trailer)
+ - [The frontrunner for best video game cats of 2023](https://www.polygon.com/23751542/saltsea-chronicles-die-gute-fabrik-best-video-game-cats)
+ - [I can&#39;t wait to install one million gigabytes worth of Final Fantasy 7 Rebirth months after everyone else gets to play it](https://www.pcgamer.com/i-cant-wait-to-install-one-million-gigabytes-worth-of-final-fantasy-7-rebirth-months-after-everyone-else-gets-to-play-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
