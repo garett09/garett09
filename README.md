@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mask of the Rose review](https://www.pcgamer.com/mask-of-the-rose-review)
  - [Today&#39;s Wordle hint and answer #719: Thursday, June 8](https://www.pcgamer.com/wordle-answer-today-hint-719-june-8)
- - [Any Sufficiently Advanced Technology Is Indistinguishable From Magic](https://kotaku.com/sara-hermellin-concept-art-illustration-magic-paris-1850517434)
- - [Warzone 2 is giving everyone keys to the nukes for the next week](https://www.pcgamer.com/warzone-2-is-giving-everyone-keys-to-the-nukes-for-the-next-week)<!-- GAME:END -->
+ - [Any Sufficiently Advanced Technology Is Indistinguishable From Magic](https://kotaku.com/sara-hermellin-concept-art-illustration-magic-paris-1850517434)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
