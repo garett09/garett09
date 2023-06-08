@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollywood insiders reflect on the end of &quot;Peak TV&quot;, an era kickstarted by Netflix releasing House of Cards in one go in 2013, as streaming services cut back &lpar;Vulture&rpar;](http://www.techmeme.com/230608/p22#a230608p22)
- - [Apple’s Journal app needs to read the room](https://www.theverge.com/23750998/apple-ios-17-journal-app-ai)
- - [What is Oura Circles? The Oura Ring social feature for family and friends](https://www.androidauthority.com/oura-circles-3332965/)<!-- TECH:END -->
+ - [&#39;Diablo IV&#39; skips Mac gamers, and Whoopi Goldberg is mad about it](https://appleinsider.com/articles/23/06/08/diablo-iv-skips-mac-gamers-and-whoopi-goldberg-is-mad-about-it?utm_medium=rss)
+ - [Tech entrepreneurs who left the Bay Area during the pandemic are returning, saying they can&#39;t miss out on the funding, hackathons, and networking of the AI boom &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/230608/p24#a230608p24)
+ - [I ate fake chicken breast that the maker of Nuggs squeezed through a showerhead](https://www.theverge.com/2023/6/8/23752942/fake-chicken-breast-simulate-nuggs-alternative-meat-plant-based-protein)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
