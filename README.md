@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
- - 🚯 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
- - 🚯 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)<!-- MEMES:END -->
+ - 🚖 [11 years later...](http://9gag.com/gag/aVb2O3v)
+ - 🚯 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
+ - 🚯 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)<!-- MEMES:END -->
 
 --- 
 
