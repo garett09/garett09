@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
- - 🚯 [He\u2019s up to 46.7k followers now](http://9gag.com/gag/a04E9BO)
- - 🚯 [The looks on their faces had me NE&#39;d](http://9gag.com/gag/avQv0DZ)<!-- MEMES:END -->
+ - 🚯 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
+ - 🚯 [Chester Bennington one day before he took his own life](http://9gag.com/gag/aL1mqev)<!-- MEMES:END -->
 
 --- 
 
