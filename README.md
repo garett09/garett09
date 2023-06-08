@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
- - [Here’s an extended look at Alan Wake 2 gameplay](https://www.theverge.com/23749693/alan-wake-2-gameplay-trailer-summer-game-fest-live-2023)
- - [Sonic’s back with a new 2D side-scroller](https://www.theverge.com/23754423/sonic-superstars-trailer-summer-game-fest)<!-- TECH:END -->
+ - [Hands on with Apple&#39;s new Pro Macs -- Mac Pro &amp; Mac Studio with M2 Ultra](https://appleinsider.com/articles/23/06/08/hands-on-with-apples-new-pro-macs----mac-pro-mac-studio-with-m2-ultra?utm_medium=rss)
+ - [Final Fantasy VII Rebirth will be released in early 2024](https://www.theverge.com/23753741/final-fantasy-7-rebirth-release-window-ps5-trailer)
+ - [Summer Game Fest 2023: all the news and announcements](https://www.theverge.com/2023/6/8/23751884/summer-game-fest-2023-news-announcements-trailers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
