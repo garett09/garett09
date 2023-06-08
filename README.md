@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Diablo IV&#39; skips Mac gamers, and Whoopi Goldberg is mad about it](https://appleinsider.com/articles/23/06/08/diablo-iv-skips-mac-gamers-and-whoopi-goldberg-is-mad-about-it?utm_medium=rss)
- - [Tech entrepreneurs who left the Bay Area during the pandemic are returning, saying they can&#39;t miss out on the funding, hackathons, and networking of the AI boom &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/230608/p24#a230608p24)
- - [I ate fake chicken breast that the maker of Nuggs squeezed through a showerhead](https://www.theverge.com/2023/6/8/23752942/fake-chicken-breast-simulate-nuggs-alternative-meat-plant-based-protein)<!-- TECH:END -->
+ - [ASUS Zenfone 10: Everything we know so far](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)
+ - [The best new streaming movies this week on Netflix, Max, Peacock, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [New Geekbench 6.1 results aren&#39;t fully compatible with older versions](https://appleinsider.com/articles/23/06/08/new-geekbench-61-results-arent-fully-compatible-with-older-versions?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
