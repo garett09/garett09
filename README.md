@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Pigment, which plans to build a business planning tool, raised an $88M Series C led by Iconiq Growth, after a $65M Series B+ in September 2022 &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/230608/p19#a230608p19)
- - [vivo X Fold 2 and X Flip review: Should you buy them?](https://www.androidauthority.com/vivo-x-fold-2-x-flip-review-3329670/)
- - [A look at what the SEC and crypto industry learned from the SEC&#39;s ICO enforcement actions in 2017, why the SEC is targeting only select tokens, and more &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/230608/p18#a230608p18)<!-- TECH:END -->
+ - [Hollywood insiders reflect on the end of &quot;Peak TV&quot;, an era kickstarted by Netflix releasing House of Cards in one go in 2013, as streaming services cut back &lpar;Vulture&rpar;](http://www.techmeme.com/230608/p22#a230608p22)
+ - [Apple’s Journal app needs to read the room](https://www.theverge.com/23750998/apple-ios-17-journal-app-ai)
+ - [What is Oura Circles? The Oura Ring social feature for family and friends](https://www.androidauthority.com/oura-circles-3332965/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
