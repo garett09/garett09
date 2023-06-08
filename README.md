@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepMind&#39;s AlphaDev, an AI for discovering enhanced algorithms, devised new C++ sorting algorithms that are up to 70% faster and have been added to the language &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/230608/p2#a230608p2)
- - [The Bizarre Reality of Getting Online in North Korea](https://www.wired.com/story/internet-reality-north-korea/)
- - [A survey of 472 corporate board directors ahead of the SEC&#39;s cyber-risk regulations: 76% have at least one expert, 62% say risk awareness is improving, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230608/p1#a230608p1)<!-- TECH:END -->
+ - [Internal email: Google plans to include office attendance records in performance reviews and consider new requests to work remotely full-time as an exception &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230608/p5#a230608p5)
+ - [Court filings: Binance&#39;s lawyers allege SEC Chair Gary Gensler offered to be an advisor to the company in March 2019 when he was teaching at MIT Sloan &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230608/p4#a230608p4)
+ - [In a letter, two US senators accuse TikTok of misleading the Congress on handling of US user data, demanding answers to 12+ questions by the end of next week &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230608/p3#a230608p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
