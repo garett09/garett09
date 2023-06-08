@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp announces Channels, a one-to-many broadcast tool that is &quot;a private way to follow what matters&quot;, and plans to add payment services in the future &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230608/p9#a230608p9)
- - [Uber needs you to make greener choices so it can go carbon neutral by 2030](https://www.theverge.com/2023/6/8/23752721/uber-ev-uber-eats-takeout-containers-car-sharing)
- - [Google could skip an Android version for Android TV, Wear OS](https://www.androidauthority.com/google-skip-android-version-android-tv-wear-os-3333060/)<!-- TECH:END -->
+ - [Wedbush raises Apple stock target to $220 after Vision Pro launch](https://appleinsider.com/articles/23/06/08/wedbush-raises-apple-stock-target-to-220-after-vision-pro-launch?utm_medium=rss)
+ - [Blackmailers are using deepfaked nudes to bully and extort victims, warns FBI](https://www.theverge.com/2023/6/8/23753605/ai-deepfake-sextortion-nude-blackmail-fbi-warning)
+ - [Adobe opens up its Firefly generative AI model to businesses](https://www.theverge.com/2023/6/8/23753564/adobe-firefly-enterprise-generative-ai-express-commercial)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
