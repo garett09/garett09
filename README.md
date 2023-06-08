@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
- - 🚯 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
+ - 🚖 [.....................](http://9gag.com/gag/awZ4KQW)
+ - 🚯 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
  - 🚯 [Chester Bennington one day before he took his own life](http://9gag.com/gag/aL1mqev)<!-- MEMES:END -->
 
 --- 
