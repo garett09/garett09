@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal email: Google plans to include office attendance records in performance reviews and consider new requests to work remotely full-time as an exception &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230608/p5#a230608p5)
- - [Court filings: Binance&#39;s lawyers allege SEC Chair Gary Gensler offered to be an advisor to the company in March 2019 when he was teaching at MIT Sloan &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/230608/p4#a230608p4)
- - [In a letter, two US senators accuse TikTok of misleading the Congress on handling of US user data, demanding answers to 12+ questions by the end of next week &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/230608/p3#a230608p3)<!-- TECH:END -->
+ - [WhatsApp’s new Channels feature brings social media to your messaging app](https://www.theverge.com/2023/6/8/23753404/whatsapp-channels-broadcasts-app)
+ - [A radio host files a defamation lawsuit against OpenAI over ChatGPT&#39;s hallucination, alleging it generated a false legal complaint accusing him of embezzlement &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/230608/p7#a230608p7)
+ - [The UK FCA plans to introduce tough crypto advertising rules, classifying crypto as &quot;restricted mass market investments&quot;, banning incentives to invest, and more &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230608/p6#a230608p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
