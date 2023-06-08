@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mega Baseball 4 is a towering monument to the joy of the sport](https://www.polygon.com/reviews/23752424/super-mega-baseball-4-review-switch-xbox-ps4-players-stadiums)
- - [Sega’s new Yakuza spinoff leaks, turns Kiryu into secret agent Spider-Man](https://www.polygon.com/23753734/sega-yakuza-like-a-dragon-gaiden-release-date)
- - [Want to know what to do with your Diablo 4 legendary gear? Turn on this optional setting immediately](https://www.pcgamer.com/want-to-know-what-to-do-with-your-diablo-4-legendary-gear-turn-on-this-optional-setting-immediately)<!-- GAME:END -->
+ - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
+ - [Free Play Days – Control](https://news.xbox.com/en-us/2023/06/08/free-play-days-control/)
+ - [Magic: The Gathering Fans Offered $1M For Unreleased LOTR Card](https://kotaku.com/lord-of-the-rings-mtg-the-one-ring-card-release-date-1850518705)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
