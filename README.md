@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lords Mobile marches to PC in shiny new standalone form](https://www.pcgamer.com/lords-mobile-marches-to-pc-in-shiny-new-standalone-form)
- - [DrunkDeer A75](https://www.pcgamer.com/drunkdeer-a75-gaming-keyboard-review)
- - [Mask of the Rose review](https://www.pcgamer.com/mask-of-the-rose-review)<!-- GAME:END -->
+ - [How to watch Summer Game Fest 2023, and what to expect](https://www.pcgamer.com/summer-game-fest-2023-how-to-watch-livestream)
+ - [Whoopi Goldberg lambasts Blizzard for not releasing Diablo 4 on Mac: &#39;This really pissed me off!&#39;](https://www.pcgamer.com/whoopi-goldberg-lambasts-blizzard-for-not-releasing-diablo-4-on-mac-this-really-pissed-me-off)
+ - [Building D&amp;D settings is so much less stressful with these brilliantly clever tabletop games](https://www.pcgamer.com/building-dandd-settings-is-so-much-less-stressful-with-these-brilliantly-clever-tabletop-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
