@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS Zenfone 10: Everything we know so far](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)
- - [The best new streaming movies this week on Netflix, Max, Peacock, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [New Geekbench 6.1 results aren&#39;t fully compatible with older versions](https://appleinsider.com/articles/23/06/08/new-geekbench-61-results-arent-fully-compatible-with-older-versions?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Note 20 variants getting June 2023 security patch](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
+ - [The US just had its worst day for wildfire smoke in its history](https://www.theverge.com/2023/6/8/23753956/wildfire-smoke-worst-day-us-history-stanford-analysis-air-quality)
+ - [Google Password Manager now has a dedicated home in Chrome](https://www.androidauthority.com/google-password-manager-chrome-update-3333017/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
