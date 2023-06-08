@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TMNT: Shredder&#39;s Revenge getting dimension-hopping multiverse DLC starring a samurai rabbit](https://www.pcgamer.com/tmnt-shredders-revenge-getting-dimension-hopping-multiverse-dlc-starring-a-samurai-rabbit)
- - [The Best Classes For Diablo IV Beginners, Whether You Want A Challenge Or Cakewalk](https://kotaku.com/diablo-4-best-builds-classes-necromancer-rogue-sorcerer-1850518023)
- - [Where to find the Butcher in Diablo 4](https://www.pcgamer.com/diablo-4-butcher)<!-- GAME:END -->
+ - [Whoopi Goldberg Calls Out Diablo IV For Not Being On Mac, But Fans Have A Fix](https://kotaku.com/diablo-4-iv-for-mac-whoopi-goldberg-upset-blizzard-port-1850519443)
+ - [Gamers Anxiously Check Heads After Twitch Streamer Shows Headphone Dent](https://kotaku.com/twitch-streamer-audio-headset-indent-headphones-curtoss-1850519708)
+ - [The FPS that gives you an instagib chainsaw leg just keeps getting better](https://www.pcgamer.com/the-fps-that-gives-you-an-instagib-chainsaw-leg-just-keeps-getting-better)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
