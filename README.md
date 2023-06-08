@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Popular Horror Game Friday The 13th Will Be Delisted, Replaced Everywhere](https://kotaku.com/new-friday-the-13th-game-best-asymmetrical-horror-steam-1850519124)
- - [Barbie in a Mermaid Tale 2 captures both of this summer’s movie obsessions](https://www.polygon.com/23753019/barbie-mermaid-tale-2-movie-recommendation)
- - [Taunhiy Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23753780/taunhiy-shrine-combat-training-archery-location-walkthrough)<!-- GAME:END -->
+ - [TMNT: Shredder&#39;s Revenge getting dimension-hopping multiverse DLC starring a samurai rabbit](https://www.pcgamer.com/tmnt-shredders-revenge-getting-dimension-hopping-multiverse-dlc-starring-a-samurai-rabbit)
+ - [The Best Classes For Diablo IV Beginners, Whether You Want A Challenge Or Cakewalk](https://kotaku.com/diablo-4-best-builds-classes-necromancer-rogue-sorcerer-1850518023)
+ - [Where to find the Butcher in Diablo 4](https://www.pcgamer.com/diablo-4-butcher)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
