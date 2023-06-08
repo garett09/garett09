@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s free on the Epic Games Store this week?](https://www.polygon.com/23551702/epic-games-store-free-games-this-week)
- - [Free Play Days – Control](https://news.xbox.com/en-us/2023/06/08/free-play-days-control/)
- - [Magic: The Gathering Fans Offered $1M For Unreleased LOTR Card](https://kotaku.com/lord-of-the-rings-mtg-the-one-ring-card-release-date-1850518705)<!-- GAME:END -->
+ - [Popular Horror Game Friday The 13th Will Be Delisted, Replaced Everywhere](https://kotaku.com/new-friday-the-13th-game-best-asymmetrical-horror-steam-1850519124)
+ - [Barbie in a Mermaid Tale 2 captures both of this summer’s movie obsessions](https://www.polygon.com/23753019/barbie-mermaid-tale-2-movie-recommendation)
+ - [Taunhiy Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23753780/taunhiy-shrine-combat-training-archery-location-walkthrough)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
