@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title](http://9gag.com/gag/aKEYgON)
- - 🚯 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)
- - 🚯 [Short and thick does the trick](http://9gag.com/gag/az2Zrbb)<!-- MEMES:END -->
+ - 🚖 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)
+ - 🚯 [Yes we are winning my son](http://9gag.com/gag/a2KbmRp)
+ - 🚯 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)<!-- MEMES:END -->
 
 --- 
 
