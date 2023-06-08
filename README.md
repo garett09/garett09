@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
- - 🚯 [Hall of Fame](http://9gag.com/gag/a4oqK9w)
- - 🚯 [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)<!-- MEMES:END -->
+ - 🚖 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
+ - 🚯 [11 years later...](http://9gag.com/gag/aVb2O3v)
+ - 🚯 [Title](http://9gag.com/gag/aKEYgON)<!-- MEMES:END -->
 
 --- 
 
