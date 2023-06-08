@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
- - 🚯 [Jack Nicholson flirting with Jennifer Lawrence at the 2013 Oscar Awards.](http://9gag.com/gag/aNw4y34)
- - 🚯 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)<!-- MEMES:END -->
+ - 🚖 [Best top gear moment...](http://9gag.com/gag/aZD2Pbz)
+ - 🚯 [This and many other disgusting books like this are in schools everywhere in America. I&#39;ve seen couple of parents furious about this.](http://9gag.com/gag/aBdXRQP)
+ - 🚯 [Hall of Fame](http://9gag.com/gag/a4oqK9w)<!-- MEMES:END -->
 
 --- 
 
