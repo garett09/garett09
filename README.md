@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How does one not love this woman?](http://9gag.com/gag/aYV1pbO)
- - 🚯 [LOTR in 90s Russia](http://9gag.com/gag/aNwRZrG)
- - 🚯 [Wednesday](http://9gag.com/gag/aZD2x50)<!-- MEMES:END -->
+ - 🚖 [I know a guy who can do it cheaper](http://9gag.com/gag/adP2Yy2)
+ - 🚯 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
+ - 🚯 [Hall of Fame](http://9gag.com/gag/a4oqK9w)<!-- MEMES:END -->
 
 --- 
 
