@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mayasiar Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23753873/mayasiar-shrine-location-starview-island-walkthrough-lights-mirrors)
- - [GTA Online Is About To Get A Bunch Of Smart Changes In San Andreas Update](https://kotaku.com/gta-online-san-andreas-mercenaries-big-update-all-list-1850519961)
- - [The first Diablo 4 player to solo his way to level 100 in Hardcore mode dies in a fight against the game&#39;s toughest boss](https://www.pcgamer.com/the-first-diablo-4-player-to-solo-his-way-to-level-100-in-hardcore-mode-dies-in-a-fight-against-the-games-toughest-boss)<!-- GAME:END -->
+ - [Prince of Persia is coming back with a cartoony 2.5D platformer, and it&#39;s the 2003 throwback I didn&#39;t know I wanted](https://www.pcgamer.com/prince-of-persia-is-coming-back-with-a-cartoony-25d-platformer-and-its-the-2003-throwback-i-didnt-know-i-wanted)
+ - [Marvel’s Spider-Man 2 Arrives Only on PS5 October 20, Collector’s &amp; Digital Deluxe Editions Detailed](https://blog.playstation.com/2023/06/08/marvels-spider-man-2-arrives-only-on-ps5-october-20-collectors-digital-deluxe-editions-detailed/)
+ - [Prepare for Battle: Mortal Kombat 1 and New Kameo Fighters Explained](https://news.xbox.com/en-us/2023/06/08/mortal-kombat-1-kameo-fighters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
