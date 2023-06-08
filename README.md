@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Note 20 variants getting June 2023 security patch](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
- - [The US just had its worst day for wildfire smoke in its history](https://www.theverge.com/2023/6/8/23753956/wildfire-smoke-worst-day-us-history-stanford-analysis-air-quality)
- - [Google Password Manager now has a dedicated home in Chrome](https://www.androidauthority.com/google-password-manager-chrome-update-3333017/)<!-- TECH:END -->
+ - [Apple&#39;s M2 MacBook Air 15-inch gets a new preorder discount at Amazon](https://appleinsider.com/articles/23/06/08/apples-m2-macbook-air-15-inch-gets-a-new-preorder-discount-at-amazon?utm_medium=rss)
+ - [Will the Vision Pro headset disrupt the high-end TV market?](https://appleinsider.com/articles/23/06/08/will-the-vision-pro-headset-disrupt-the-high-end-tv-market?utm_medium=rss)
+ - [A Leaked Tesla Report Shows the Cybertruck Had Basic Design Flaws](https://www.wired.com/story/a-leaked-tesla-report-shows-the-cybertruck-had-basic-design-flaws/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
