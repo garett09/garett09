@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The biggest announcements from Summer Game Fest 2023](https://www.polygon.com/23752958/summer-game-fest-announcements-trailers-2023)
- - [Will Arnett’s unhinged Twisted Metal clown is very real and not at all of the moment](https://www.polygon.com/23753769/twisted-metal-show-sweet-tooth-will-arnett-clip)
- - [Final Fantasy 7 Rebirth trailer gets real meta, confirms 2024 release](https://www.polygon.com/23734961/final-fantasy-7-remake-part-2-rebirth-trailer-release-date-ps5)<!-- GAME:END -->
+ - [Everything At Summer Game Fest 2023&#39;s Main Showcase](https://kotaku.com/summer-games-fest-2023-mortal-kombat-final-fantasy-vii-1850519346)
+ - [Paradox is publishing a Star Trek grand strategy game and I am vibrating with anticipation](https://www.pcgamer.com/paradox-is-publishing-a-star-trek-grand-strategy-game-and-i-am-vibrating-with-anticipation)
+ - [I can&#39;t tell if people actually want co-op zombie FPSes anymore](https://www.pcgamer.com/i-cant-tell-if-people-actually-want-co-op-zombie-fpses-anymore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
