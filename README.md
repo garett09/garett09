@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 25 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Marc Andreessen Is &lpar;Mostly&rpar; Wrong This Time](https://www.wired.com/story/artificial-intelligence-marc-andreessen-labor-politics/)
- - [Louisiana passes bill banning kids from the internet without parental consent](https://www.theverge.com/2023/6/8/23754274/louisiana-child-safety-online-protection-ban-roblox-fortnite-instagram)<!-- TECH:END -->
+ - [Everything we know about Apple’s Vision Pro headset](https://www.theverge.com/23689334/apple-mixed-reality-headset-augmented-virtual-reality-ar-vr-rumors-specs-features)
+ - [Here’s an extended look at Alan Wake 2 gameplay](https://www.theverge.com/23749693/alan-wake-2-gameplay-trailer-summer-game-fest-live-2023)
+ - [Sonic’s back with a new 2D side-scroller](https://www.theverge.com/23754423/sonic-superstars-trailer-summer-game-fest)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
