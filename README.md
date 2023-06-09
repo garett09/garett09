@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s new season adds Optimus Prime and lets you ride the raptors](https://www.theverge.com/2023/6/9/23754042/fortnite-chapter-4-season-3-transformers-raptors-battle-pass)
- - [Android 14 could get stylus-related improvements for the Pixel Tablet](https://www.androidauthority.com/android-14-stylus-improvements-3333405/)
- - [Reddit app Apollo will officially shut down June 30 &lpar;Update: more apps&rpar;](https://www.androidauthority.com/apollo-reddit-shutdown-3333254/)<!-- TECH:END -->
+ - [Cowboy e-bikes, now with built-in Google Maps](https://www.theverge.com/2023/6/9/23755055/cowboy-google-maps-navigation-app-update)
+ - [Instagram’s Twitter rival will be ‘sanely run,’ and here’s what it looks like](https://www.androidauthority.com/instagram-threads-twitter-rival-screenshots-3333437/)
+ - [A database on Microsoft&#39;s Xandr containing 650K+ &quot;audience segments&quot; shows how data brokers classify consumers by surveilling their online and offline activity &lpar;The Markup&rpar;](http://www.techmeme.com/230609/p1#a230609p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
