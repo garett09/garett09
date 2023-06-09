@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six US senators reintroduce a bipartisan bill to boost social network transparency, requiring companies to share ad libraries, content moderation stats, more &lpar;John Perrino/Tech Policy Press&rpar;](http://www.techmeme.com/230608/p37#a230608p37)
- - [Blackpoint Cyber, which offers managed cybersecurity detection and response services, raised a $190M Series C led by Bain Capital with participation from Accel &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230608/p36#a230608p36)
- - [GM Adopts Tesla Charging Standard For EVs, Following Ford     - CNET](https://www.cnet.com/news/general-motors-adopts-tesla-charging-standard-for-e-vs-following-ford/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DocuSign reports Q1 revenue up 12% YoY to $661.4M, vs. $642M est., subscription revenue up 12% YoY, and net profit of $539K, vs. a $27.4M net loss a year ago &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230608/p41#a230608p41)
+ - [Granica, which helps data-centric AI companies optimize their cloud object storage in Amazon S3 and Google Cloud, raised $45M from NEA, Bain, and others &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/230608/p40#a230608p40)
+ - [A group of about 120 Google contract workers from Accenture is seeking to unionize with the Alphabet Workers Union, saying Alphabet is a &quot;joint employer&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/230608/p39#a230608p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
