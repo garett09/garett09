@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Devolver Digital’s showcase featured just four games, but they look like good ones](https://www.theverge.com/23751914/devolver-digital-showcase-2023-trailers-summer-game-fest-volvy)
- - [Logitech is killing off the Blue mic brand, will sell Yeti and Astro under Logitech G](https://www.theverge.com/2023/6/8/23589618/logitech-blue-now-yeti-astro-merge-logitech-g-brands)
- - [Hong Kong-based Taiko Labs, which is focused on scaling Ethereum, raised a $10M seed led by Sequoia China and a $12M pre-Series A led by Generative Ventures &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/230608/p35#a230608p35)<!-- TECH:END -->
+ - [Six US senators reintroduce a bipartisan bill to boost social network transparency, requiring companies to share ad libraries, content moderation stats, more &lpar;John Perrino/Tech Policy Press&rpar;](http://www.techmeme.com/230608/p37#a230608p37)
+ - [Blackpoint Cyber, which offers managed cybersecurity detection and response services, raised a $190M Series C led by Bain Capital with participation from Accel &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/230608/p36#a230608p36)
+ - [GM Adopts Tesla Charging Standard For EVs, Following Ford     - CNET](https://www.cnet.com/news/general-motors-adopts-tesla-charging-standard-for-e-vs-following-ford/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
