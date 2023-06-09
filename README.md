@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The crowds symphony of boooos and laughter to the Apple headset price .](http://9gag.com/gag/avQvnjZ)
- - 🚯 [Short and thick does the trick](http://9gag.com/gag/az2Zrbb)
- - 🚯 [Modern pirates of Africa](http://9gag.com/gag/az2ZrDZ)<!-- MEMES:END -->
+ - 🚖 [Landslide in Atami, Shizuoka Prefecture, Japan](http://9gag.com/gag/aGE2Rm6)
+ - 🚯 [Yes we are winning my son](http://9gag.com/gag/a2KbmRp)
+ - 🚯 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)<!-- MEMES:END -->
 
 --- 
 
