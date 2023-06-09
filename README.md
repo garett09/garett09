@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deal of 2023 on the Bose Noise Cancelling Headphones 700](https://www.androidauthority.com/bose-noise-cancelling-headphones-700-deal-3333678/)
- - [Google confirms Photos can now “facially” recognize you from behind &lpar;Updated&rpar;](https://www.androidauthority.com/google-photos-facial-recognition-back-3333108/)
- - [Tesla’s Supercharger Strategy Starts a Winning Streak](https://www.wired.com/story/teslas-supercharger-strategy/)<!-- TECH:END -->
+ - [Reddit won’t budge on the API changes that are shutting down apps like Apollo](https://www.theverge.com/2023/6/9/23755640/reddit-api-changes-apps-apollo-shut-down-ama-spez-steve-huffman)
+ - [The 45 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 48 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
