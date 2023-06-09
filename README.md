@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Spider-Man 2 Fans Think They’ve Guessed Venom’s New Identity](https://kotaku.com/spider-man-2-ps5-venom-eddie-brock-harry-osborn-1850524746)
- - [OpenAI is being sued by a Georgia radio host because ChatGPT accused him of a crime he did not commit](https://www.pcgamer.com/openai-is-being-sued-by-a-georgia-radio-host-because-chatgpt-accused-him-of-a-crime-he-did-not-commit)
- - [Data Shows Most Switch Owners Are Women, Gamers React Poorly](https://kotaku.com/half-gamers-women-switch-ps5-xbox-pc-owners-girls-stats-1850524629)<!-- GAME:END -->
+ - [Mortal Kombat 1: PS5 hands-on report and Ed Boon Q&amp;A](https://blog.playstation.com/2023/06/09/mortal-kombat-1-ps5-hands-on-report-and-ed-boon-qa/)
+ - [The Summer Game Fest and &lpar;not&rpar; E3 2023 full schedule](https://www.polygon.com/23745173/summer-game-fest-2023-not-e3-schedule-dates-livestreams)
+ - [Spider-Man Across the Spider-Verse Is Hard To Hear, Some Viewers Say [Update]](https://kotaku.com/spider-man-across-spider-verse-loud-sony-dialogue-1850506239)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
