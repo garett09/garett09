@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I love you too](http://9gag.com/gag/amAVYO9)
- - 🚯 [Laura Kraft Mac N\u2019 Cheese.](http://9gag.com/gag/aQE29Y2)
- - 🚯 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aVb2X78)<!-- MEMES:END -->
+ - 🚖 [Laura Kraft Mac N\u2019 Cheese.](http://9gag.com/gag/aQE29Y2)
+ - 🚯 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aVb2X78)
+ - 🚯 [A Powerful Scene Of Humanity Plays Out As 200+ Brave South African firefighters landed in Edmonton, Canada to assist in the fight against the raging wildfire](http://9gag.com/gag/aZD2gNn)<!-- MEMES:END -->
 
 --- 
 
