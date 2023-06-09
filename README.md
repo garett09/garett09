@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Tesla documents shed new light on why the Cybertruck is taking so long](https://www.theverge.com/2023/6/9/23755074/tesla-cybertruck-development-difficulties-wired-report-prototype-delay-braking-suspension)
- - [A US judge rejects a request to relinquish control over $7.3B in disputed FTX assets; liquidators in the Bahamas argued a local judge should oversee the process &lpar;Elizabeth Napolitano/CoinDesk&rpar;](http://www.techmeme.com/230609/p3#a230609p3)
- - [Aided by $14B+ in subsidies, a look at Japan&#39;s expanding chip sector, including TSMC&#39;s plant in Kumamoto, which has been hampered by terrible roads and traffic &lpar;Bloomberg&rpar;](http://www.techmeme.com/230609/p2#a230609p2)<!-- TECH:END -->
+ - [Spotify says it’s testing an ‘offline mix’ for when your connection’s patchy](https://www.theverge.com/2023/6/9/23755097/spotify-offline-mix-test)
+ - [AirTags used to uncover fraud in Turkey relief donations](https://appleinsider.com/articles/23/06/09/airtags-used-to-uncover-fraud-in-turkey-relief-donations?utm_medium=rss)
+ - [The Top New Features in Apple&#39;s WatchOS 10: Device Compatibility, Release Date](https://www.wired.com/story/apple-watchos-10-new-features/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
