@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)
- - 🚯 [The crowds symphony of boooos and laughter to the Apple headset price .](http://9gag.com/gag/avQvnjZ)
- - 🚯 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)<!-- MEMES:END -->
+ - 🚖 [Somethings poking her butt](http://9gag.com/gag/aEqXGEM)
+ - 🚯 [Shitty days...](http://9gag.com/gag/a04EYNX)
+ - 🚯 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)<!-- MEMES:END -->
 
 --- 
 
