@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Short and thick does the trick](http://9gag.com/gag/az2Zrbb)
- - 🚯 [The crowds symphony of boooos and laughter to the Apple headset price .](http://9gag.com/gag/avQvnjZ)
- - 🚯 [Shitty days...](http://9gag.com/gag/a04EYNX)<!-- MEMES:END -->
+ - 🚖 [Nor-way this happened by accident](http://9gag.com/gag/aBdX8P1)
+ - 🚯 [Yes they unlocked this type of level :Systemic racism](http://9gag.com/gag/anzDjWB)
+ - 🚯 [Things not to say as a DJ.](http://9gag.com/gag/axoPgeb)<!-- MEMES:END -->
 
 --- 
 
