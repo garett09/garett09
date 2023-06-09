@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now that&#39;s a lasagna](http://9gag.com/gag/ago2v6n)
- - 🚯 [.....................](http://9gag.com/gag/awZ4KQW)
- - 🚯 [11 years later...](http://9gag.com/gag/aVb2O3v)<!-- MEMES:END -->
+ - 🚖 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
+ - 🚯 [Man arrested for....doing exactly what he was told](http://9gag.com/gag/a8qwY3Y)
+ - 🚯 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)<!-- MEMES:END -->
 
 --- 
 
