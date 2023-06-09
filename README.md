@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nor-way this happened by accident](http://9gag.com/gag/aBdX8P1)
- - 🚯 [Yes they unlocked this type of level :Systemic racism](http://9gag.com/gag/anzDjWB)
- - 🚯 [Things not to say as a DJ.](http://9gag.com/gag/axoPgeb)<!-- MEMES:END -->
+ - 🚖 [Fr tho, his wife is really a b*tch](http://9gag.com/gag/a6qpVMm)
+ - 🚯 [I live in land where we respect others opinions, but man I think is enough. - I gathered courage and confronted.](http://9gag.com/gag/aDYXxdN)
+ - 🚯 [Just a recommendation](http://9gag.com/gag/aGE2jjw)<!-- MEMES:END -->
 
 --- 
 
