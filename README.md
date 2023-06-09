@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Activision removes Nickmercs&#39; Call of Duty skin over anti-LGBTQ+ tweet](https://www.pcgamer.com/activision-removes-nickmercs-call-of-duty-skin-over-anti-lgbtq-tweet)
  - [Call Of Duty Pulls YouTube Streamer Nickmercs&#39; Skin Over Anti-LGBTQ Comment](https://kotaku.com/call-duty-faze-nickmercs-pull-skin-bigot-pride-month-1850521724)
- - [How to watch Ubisoft Forward 2023 and what will be there](https://www.polygon.com/23752912/ubisoft-forward-2023-date-schedule-lineup)
- - [League Strike Called Off After Riot, Player&#39;s Union Reach Agreement](https://kotaku.com/league-legends-strike-walkout-union-lcspa-summer-split-1850521669)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; “FINAL FANTASY VII REBIRTH” New Trailer Revealed!](https://blog.playstation.com/2023/06/08/20230608-ff7/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
