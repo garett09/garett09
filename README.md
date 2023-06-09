@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for June 12 to 16](https://news.xbox.com/en-us/2023/06/09/next-week-on-xbox-new-games-for-june-12-to-16/)
- - [Fortnite Fans Mourn As Season 4 Vaults Chug Splash And Other Great Healing Items](https://kotaku.com/fortnite-chapter-4-season-3-servers-vaulted-augments-1850522513)
- - [How to watch the Xbox Games Showcase and Starfield Direct](https://www.polygon.com/23753181/xbox-showcase-2023-bethesda-starfield-direct-date-start-time)<!-- GAME:END -->
+ - [Transformers: Rise of the Beasts has a particularly wild deep-cut Maximals cameo](https://www.polygon.com/23754441/transformers-rise-of-the-beasts-apelinq-cameo-origins)
+ - [Final Fantasy 7 Rebirth spans 2 discs on PS5 because, well, that’s Final Fantasy](https://www.polygon.com/23755291/final-fantasy-7-remake-rebirth-trailer-two-discs)
+ - [Call Of Duty Pulls Twitch Streamer Nickmercs&#39; Skin Over Anti-LGBTQ Comment](https://kotaku.com/call-duty-faze-nickmercs-pull-skin-bigot-pride-month-1850521724)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
