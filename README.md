@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now is the most traditional Niantic game yet](https://www.polygon.com/23752854/monster-hunter-now-beta-interview)
- - [Diablo IV Druids, Do This ASAP To Unlock Some Powerful New Abilities](https://kotaku.com/diablo-4-scosglen-tur-dulra-druid-spirit-offerings-1850523114)
- - [43 Games Have Already Been Killed, And 2023 Ain’t Over Yet [Update]](https://kotaku.com/game-preservation-server-dead-apex-battlefield-mobile-1850083031)<!-- GAME:END -->
+ - [Mortal Kombat 1: Seven Deadly Fatalities From The New Trailer](https://kotaku.com/mortal-kombat-1-12-fatalities-gameplay-trailer-2023-1850523603)
+ - [All the inspired indie games shown at Day of the Devs](https://www.polygon.com/23755197/day-of-the-devs-2023-announcements-indie-game-showcase)
+ - [Mortal Kombat 1’s first gameplay was full of great details](https://www.polygon.com/23755383/mortal-kombat-1-gameplay-trailer-breakdown-kameo-fighters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
