@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fr tho, his wife is really a b*tch](http://9gag.com/gag/a6qpVMm)
- - 🚯 [I live in land where we respect others opinions, but man I think is enough. - I gathered courage and confronted.](http://9gag.com/gag/aDYXxdN)
- - 🚯 [Just a recommendation](http://9gag.com/gag/aGE2jjw)<!-- MEMES:END -->
+ - 🚖 [Cap?](http://9gag.com/gag/aA0Xd1R)
+ - 🚯 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)
+ - 🚯 [What is the purpose of the visit?](http://9gag.com/gag/ago2G16)<!-- MEMES:END -->
 
 --- 
 
