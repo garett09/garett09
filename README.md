@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Tropical](https://blog.playstation.com/2023/06/09/share-of-the-week-tropical/)
- - [How to get through the Lost Woods in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23713625/lost-woods-korok-forest-how-to-get-into-through)
- - [When will Purradise Meowscles be released in Fortnite?](https://www.polygon.com/fortnite-guide/23755357/purradise-meowscles-release-date-quests-rewards-cosmetics)<!-- GAME:END -->
+ - [Monster Hunter Now is the most traditional Niantic game yet](https://www.polygon.com/23752854/monster-hunter-now-beta-interview)
+ - [Diablo IV Druids, Do This ASAP To Unlock Some Powerful New Abilities](https://kotaku.com/diablo-4-scosglen-tur-dulra-druid-spirit-offerings-1850523114)
+ - [43 Games Have Already Been Killed, And 2023 Ain’t Over Yet [Update]](https://kotaku.com/game-preservation-server-dead-apex-battlefield-mobile-1850083031)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
