@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)
- - 🚯 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
- - 🚯 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)<!-- MEMES:END -->
+ - 🚖 [Short and thick does the trick](http://9gag.com/gag/az2Zrbb)
+ - 🚯 [The crowds symphony of boooos and laughter to the Apple headset price .](http://9gag.com/gag/avQvnjZ)
+ - 🚯 [Shitty days...](http://9gag.com/gag/a04EYNX)<!-- MEMES:END -->
 
 --- 
 
