@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg&#39;s Apple Vision Pro hot take just gave him a Ballmer iPhone moment](https://appleinsider.com/articles/23/06/09/zuckerbergs-apple-vision-pro-hot-take-just-gave-him-a-ballmer-iphone-moment?utm_medium=rss)
- - [US DOJ unseals a 2019 indictment charging two Russians with stealing ~647K BTC in a Mt. Gox hack; one of them is also charged with conspiring to operate BTC-e &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230609/p14#a230609p14)
- - [Feds charge two men for the $400 million Bitcoin hack that took down Mt. Gox](https://www.theverge.com/2023/6/9/23755376/mt-gox-bitcoin-hack-russians-charged)<!-- TECH:END -->
+ - [Best deal of 2023 on the Bose Noise Cancelling Headphones 700](https://www.androidauthority.com/bose-noise-cancelling-headphones-700-deal-3333678/)
+ - [Google confirms Photos can now “facially” recognize you from behind &lpar;Updated&rpar;](https://www.androidauthority.com/google-photos-facial-recognition-back-3333108/)
+ - [Tesla’s Supercharger Strategy Starts a Winning Streak](https://www.wired.com/story/teslas-supercharger-strategy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
