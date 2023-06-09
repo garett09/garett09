@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On Left, Hero Henri who threw his bag at the culprit multiple times and saved lives. On Right, two guys laughing behind the news crew at the scene of the incident](http://9gag.com/gag/aGE215n)
- - 🚯 [Yes we are winning my son](http://9gag.com/gag/a2KbmRp)
- - 🚯 [.....................](http://9gag.com/gag/awZ4KQW)<!-- MEMES:END -->
+ - 🚖 [Cap?](http://9gag.com/gag/aA0Xd1R)
+ - 🚯 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)
+ - 🚯 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)<!-- MEMES:END -->
 
 --- 
 
