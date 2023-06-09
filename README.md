@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Khan Lab School trials Khanmigo, an AI chatbot developed by Khan Academy to simulate one-on-one tutoring, one of the first such experiments in the US &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230609/p7#a230609p7)
- - [Motorbunny Buck Review: Worth Every Penny](https://www.wired.com/review/motorbunny-buck/)
- - [Vietnam asks Foxconn, others, to reduce electricity use as power cuts loom](https://appleinsider.com/articles/23/06/09/vietnam-asks-foxconn-others-to-reduce-electricity-use-as-power-cuts-loom?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Vision Pro and Mac Pro are here, iOS 17 hidden features revealed &amp; more on the AppleInsider Podcast](https://appleinsider.com/articles/23/06/09/apple-vision-pro-and-mac-pro-are-here-ios-17-hidden-features-revealed-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Apple’s VisionOS Makes a Bold Leap in Computer Interface](https://www.wired.com/story/plaintext-apple-visionos-makes-a-bold-leap-in-computer-interface/)
+ - [‘One Margarita’ Is the Song of Summer—and the Moment](https://www.wired.com/story/one-margarita-song-of-summer-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
