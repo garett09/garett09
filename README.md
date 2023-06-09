@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Landslide in Atami, Shizuoka Prefecture, Japan](http://9gag.com/gag/aGE2Rm6)
+ - 🚖 [Shitty days...](http://9gag.com/gag/a04EYNX)
  - 🚯 [Yes we are winning my son](http://9gag.com/gag/a2KbmRp)
- - 🚯 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)<!-- MEMES:END -->
+ - 🚯 [Man arrested for....doing exactly what he was told](http://9gag.com/gag/a8qwY3Y)<!-- MEMES:END -->
 
 --- 
 
