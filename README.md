@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat 1: Seven Deadly Fatalities From The New Trailer](https://kotaku.com/mortal-kombat-1-12-fatalities-gameplay-trailer-2023-1850523603)
- - [All the inspired indie games shown at Day of the Devs](https://www.polygon.com/23755197/day-of-the-devs-2023-announcements-indie-game-showcase)
- - [Mortal Kombat 1’s first gameplay was full of great details](https://www.polygon.com/23755383/mortal-kombat-1-gameplay-trailer-breakdown-kameo-fighters)<!-- GAME:END -->
+ - [Pokémon Pros Permabanned From Ever Playing After Protesting Tourney](https://kotaku.com/pokemon-pros-permabanned-from-ever-playing-after-protes-1850523555)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [One Of The Best Albums This Year Is Secretly About Red Dead Redemption 2](https://kotaku.com/red-dead-redemption-2-map-rdr2-two-discs-indie-music-1850523902)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
