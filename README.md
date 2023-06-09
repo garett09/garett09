@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify says it’s testing an ‘offline mix’ for when your connection’s patchy](https://www.theverge.com/2023/6/9/23755097/spotify-offline-mix-test)
- - [AirTags used to uncover fraud in Turkey relief donations](https://appleinsider.com/articles/23/06/09/airtags-used-to-uncover-fraud-in-turkey-relief-donations?utm_medium=rss)
- - [The Top New Features in Apple&#39;s WatchOS 10: Device Compatibility, Release Date](https://www.wired.com/story/apple-watchos-10-new-features/)<!-- TECH:END -->
+ - [The Khan Lab School trials Khanmigo, an AI chatbot developed by Khan Academy to simulate one-on-one tutoring, one of the first such experiments in the US &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230609/p7#a230609p7)
+ - [Motorbunny Buck Review: Worth Every Penny](https://www.wired.com/review/motorbunny-buck/)
+ - [Vietnam asks Foxconn, others, to reduce electricity use as power cuts loom](https://appleinsider.com/articles/23/06/09/vietnam-asks-foxconn-others-to-reduce-electricity-use-as-power-cuts-loom?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
