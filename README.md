@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least she has a decent pace..](http://9gag.com/gag/aRE2jQ7)
- - 🚯 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
- - 🚯 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)<!-- MEMES:END -->
+ - 🚖 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)
+ - 🚯 [The crowds symphony of boooos and laughter to the Apple headset price .](http://9gag.com/gag/avQvnjZ)
+ - 🚯 [Stupid ways to die - tourist grabs lever during helicopter flight](http://9gag.com/gag/ay2Q83W)<!-- MEMES:END -->
 
 --- 
 
