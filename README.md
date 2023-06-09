@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro and Mac Pro are here, iOS 17 hidden features revealed &amp; more on the AppleInsider Podcast](https://appleinsider.com/articles/23/06/09/apple-vision-pro-and-mac-pro-are-here-ios-17-hidden-features-revealed-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple’s VisionOS Makes a Bold Leap in Computer Interface](https://www.wired.com/story/plaintext-apple-visionos-makes-a-bold-leap-in-computer-interface/)
- - [‘One Margarita’ Is the Song of Summer—and the Moment](https://www.wired.com/story/one-margarita-song-of-summer-ai/)<!-- TECH:END -->
+ - [How to Factory-Reset Your Phone Before You Sell It](https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/)
+ - [The new Apple Silicon Mac Pro badly misses the mark for most of the target market](https://appleinsider.com/articles/23/06/09/the-new-apple-silicon-mac-pro-badly-misses-the-mark-for-most-of-the-target-market?utm_medium=rss)
+ - [In a shocking turn of events, Netflix subscriptions rise after password-sharing crackdown](https://www.theverge.com/2023/6/9/23755156/netflix-subscriber-increase-paid-password-sharing-crackdown)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
