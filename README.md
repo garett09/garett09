@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)
- - 🚯 [Yes we are winning my son](http://9gag.com/gag/a2KbmRp)
- - 🚯 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)<!-- MEMES:END -->
+ - 🚖 [I love you too](http://9gag.com/gag/amAVYO9)
+ - 🚯 [Laura Kraft Mac N\u2019 Cheese.](http://9gag.com/gag/aQE29Y2)
+ - 🚯 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aVb2X78)<!-- MEMES:END -->
 
 --- 
 
