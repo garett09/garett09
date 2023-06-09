@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Transformers: Rise of the Beasts has a particularly wild deep-cut Maximals cameo](https://www.polygon.com/23754441/transformers-rise-of-the-beasts-apelinq-cameo-origins)
- - [Final Fantasy 7 Rebirth spans 2 discs on PS5 because, well, that’s Final Fantasy](https://www.polygon.com/23755291/final-fantasy-7-remake-rebirth-trailer-two-discs)
- - [Call Of Duty Pulls Twitch Streamer Nickmercs&#39; Skin Over Anti-LGBTQ Comment](https://kotaku.com/call-duty-faze-nickmercs-pull-skin-bigot-pride-month-1850521724)<!-- GAME:END -->
+ - [Share of the Week: Tropical](https://blog.playstation.com/2023/06/09/share-of-the-week-tropical/)
+ - [How to get through the Lost Woods in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23713625/lost-woods-korok-forest-how-to-get-into-through)
+ - [When will Purradise Meowscles be released in Fortnite?](https://www.polygon.com/fortnite-guide/23755357/purradise-meowscles-release-date-quests-rewards-cosmetics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
