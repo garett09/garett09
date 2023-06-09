@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit won’t budge on the API changes that are shutting down apps like Apollo](https://www.theverge.com/2023/6/9/23755640/reddit-api-changes-apps-apollo-shut-down-ama-spez-steve-huffman)
- - [The 45 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 48 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Tesla is about to pull the plug on its main EV charging rival](https://www.theverge.com/2023/6/9/23755184/tesla-ev-charging-standard-nacs-ccs-gm-ford)
+ - [A US federal judge rules Apple and Amazon must face an antitrust lawsuit accusing them of conspiring to inflate iPhone and iPad prices on Amazon&#39;s website &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/230609/p16#a230609p16)
+ - [Where to preorder the new Mac Pro, Mac Studio, and 15-inch MacBook Air](https://www.theverge.com/23735132/apple-macbook-air-15-mac-pro-studio-preorder-how-to-buy-release-date-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
