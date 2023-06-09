@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #720: Friday, June 9](https://www.pcgamer.com/wordle-answer-today-hint-720-june-9)
  - [Activision removes Nickmercs&#39; Call of Duty skin over anti-LGBTQ+ tweet](https://www.pcgamer.com/activision-removes-nickmercs-call-of-duty-skin-over-anti-lgbtq-tweet)
- - [Call Of Duty Pulls YouTube Streamer Nickmercs&#39; Skin Over Anti-LGBTQ Comment](https://kotaku.com/call-duty-faze-nickmercs-pull-skin-bigot-pride-month-1850521724)
- - [&lpar;For Southeast Asia&rpar; “FINAL FANTASY VII REBIRTH” New Trailer Revealed!](https://blog.playstation.com/2023/06/08/20230608-ff7/)<!-- GAME:END -->
+ - [Call Of Duty Pulls YouTube Streamer Nickmercs&#39; Skin Over Anti-LGBTQ Comment](https://kotaku.com/call-duty-faze-nickmercs-pull-skin-bigot-pride-month-1850521724)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
