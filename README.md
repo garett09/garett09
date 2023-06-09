@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cap?](http://9gag.com/gag/aA0Xd1R)
- - 🚯 [If you ever think your employer is a d!ck, remember the name Galyn Susman &lpar;she&#39;s not that sus, actual MVP woman&rpar;](http://9gag.com/gag/aZD2W6n)
- - 🚯 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)<!-- MEMES:END -->
+ - 🚖 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)
+ - 🚯 [Yes we are winning my son](http://9gag.com/gag/a2KbmRp)
+ - 🚯 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)<!-- MEMES:END -->
 
 --- 
 
