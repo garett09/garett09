@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Factory-Reset Your Phone Before You Sell It](https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/)
- - [The new Apple Silicon Mac Pro badly misses the mark for most of the target market](https://appleinsider.com/articles/23/06/09/the-new-apple-silicon-mac-pro-badly-misses-the-mark-for-most-of-the-target-market?utm_medium=rss)
- - [In a shocking turn of events, Netflix subscriptions rise after password-sharing crackdown](https://www.theverge.com/2023/6/9/23755156/netflix-subscriber-increase-paid-password-sharing-crackdown)<!-- TECH:END -->
+ - [Researchers find loopholes in Nvidia&#39;s NeMo Framework, which helps developers work with LLMs, letting them bypass safety restraints to reveal private data &lpar;Financial Times&rpar;](http://www.techmeme.com/230609/p11#a230609p11)
+ - [You can finally buy a Matter smart lock](https://www.theverge.com/2023/6/8/23753915/matter-smart-lock-aqara-u100-apple-home-key)
+ - [Ugh, Netflix saw growth after the password crackdown. You know what that means.](https://www.androidauthority.com/netflix-password-sharing-growth-3333583/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
