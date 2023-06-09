@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
- - 🚯 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)
- - 🚯 [On Left, Hero Henri who threw his bag at the culprit multiple times and saved lives. On Right, two guys laughing behind the news crew at the scene of the incident](http://9gag.com/gag/aGE215n)<!-- MEMES:END -->
+ - 🚖 [On Left, Hero Henri who threw his bag at the culprit multiple times and saved lives. On Right, two guys laughing behind the news crew at the scene of the incident](http://9gag.com/gag/aGE215n)
+ - 🚯 [Yes we are winning my son](http://9gag.com/gag/a2KbmRp)
+ - 🚯 [.....................](http://9gag.com/gag/awZ4KQW)<!-- MEMES:END -->
 
 --- 
 
