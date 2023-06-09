@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Want a ludicrous challenge? Try taking Baby Steps on PC and PS5 next year](https://www.polygon.com/23754090/baby-steps-game-release-date-announcement-trailer)
- - [The frontrunner for best video game cats of 2023](https://www.polygon.com/23751542/saltsea-chronicles-die-gute-fabrik-best-video-game-cats)
- - [I can&#39;t wait to install one million gigabytes worth of Final Fantasy 7 Rebirth months after everyone else gets to play it](https://www.pcgamer.com/i-cant-wait-to-install-one-million-gigabytes-worth-of-final-fantasy-7-rebirth-months-after-everyone-else-gets-to-play-it)<!-- GAME:END -->
+ - [What It’s Like To Be At Summer Game Fest As The Reveals Happen](https://kotaku.com/summer-game-fest-2023-time-trailers-final-fantasy-1850521526)
+ - [The new Remnant 2 trailer sealed the deal for me: I&#39;ve gotta shoot this big purple guy](https://www.pcgamer.com/the-new-remnant-2-trailer-sealed-the-deal-for-me-ive-gotta-shoot-this-big-purple-guy)
+ - [Persona 5 Tactics, Persona 3 Remake Trailers Leak](https://kotaku.com/persona-5-tactica-3-reload-new-tactics-remake-atlus-p5-1850521353)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
