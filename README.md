@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What It’s Like To Be At Summer Game Fest As The Reveals Happen](https://kotaku.com/summer-game-fest-2023-time-trailers-final-fantasy-1850521526)
- - [The new Remnant 2 trailer sealed the deal for me: I&#39;ve gotta shoot this big purple guy](https://www.pcgamer.com/the-new-remnant-2-trailer-sealed-the-deal-for-me-ive-gotta-shoot-this-big-purple-guy)
- - [Persona 5 Tactics, Persona 3 Remake Trailers Leak](https://kotaku.com/persona-5-tactica-3-reload-new-tactics-remake-atlus-p5-1850521353)<!-- GAME:END -->
+ - [Call Of Duty Pulls YouTube Streamer Nickmercs&#39; Skin Over Anti-LGBTQ Comment](https://kotaku.com/call-duty-faze-nickmercs-pull-skin-bigot-pride-month-1850521724)
+ - [How to watch Ubisoft Forward 2023 and what will be there](https://www.polygon.com/23752912/ubisoft-forward-2023-date-schedule-lineup)
+ - [League Strike Called Off After Riot, Player&#39;s Union Reach Agreement](https://kotaku.com/league-legends-strike-walkout-union-lcspa-summer-split-1850521669)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
