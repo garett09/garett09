@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is moving top AI researchers from Beijing to Vancouver in part to stop Chinese companies from poaching them, amid US-China political tensions &lpar;Financial Times&rpar;](http://www.techmeme.com/230609/p17#a230609p17)
- - [The best Google Pixel deals of June 2023](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
- - [Bing’s chatbot now lets you ask questions with your voice on desktop](https://www.theverge.com/2023/6/9/23755754/bing-voice-chat-desktop-microsoft)<!-- TECH:END -->
+ - [Kraken launches Kraken NFT, a marketplace with 250+ NFT collections across the Ethereum, Solana, and Polygon blockchains, after a beta started in November 2022 &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230609/p20#a230609p20)
+ - [Logitech plans to merge Astro and Blue Microphones into Logitech G and retire the Blue brand, saying &quot;the Blue name will be used to describe our technologies&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230609/p19#a230609p19)
+ - [Deals: Apple&#39;s new 15-inch MacBook Air &amp; Mac Studio are up to $100 off, plus AppleCare savings](https://appleinsider.com/articles/23/06/09/deals-apples-new-15-inch-macbook-air-mac-studio-are-up-to-100-off-today?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
