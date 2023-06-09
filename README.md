@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I love you too](http://9gag.com/gag/amAVYO9)
- - 🚯 [A Powerful Scene Of Humanity Plays Out As 200+ Brave South African firefighters landed in Edmonton, Canada to assist in the fight against the raging wildfire](http://9gag.com/gag/aZD2gNn)
- - 🚯 [A longer title](http://9gag.com/gag/a2KbrZ1)<!-- MEMES:END -->
+ - 🚖 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)
+ - 🚯 [You&#39;re welcome](http://9gag.com/gag/aMEXQxG)
+ - 🚯 [Here the face of an aparent syrian asyle seeker, that has stabbed multiple people including children as young as 3 yo in the french town of Annecy.](http://9gag.com/gag/ap9Av4D)<!-- MEMES:END -->
 
 --- 
 
