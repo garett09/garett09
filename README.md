@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit app Apollo will officially shut down June 30 &lpar;Update: more apps&rpar;](https://www.androidauthority.com/apollo-reddit-shutdown-3333254/)
- - [Asus confirms that the Zenfone 10 will remain a compact flagship](https://www.androidauthority.com/asus-zenfone-10-screen-3333394/)
- - [ASUS Zenfone 10: Everything we know so far](https://www.androidauthority.com/asus-zenfone-10-release-date-rumors-specs-price-3302303/)<!-- TECH:END -->
+ - [Fortnite’s new season adds Optimus Prime and lets you ride the raptors](https://www.theverge.com/2023/6/9/23754042/fortnite-chapter-4-season-3-transformers-raptors-battle-pass)
+ - [Android 14 could get stylus-related improvements for the Pixel Tablet](https://www.androidauthority.com/android-14-stylus-improvements-3333405/)
+ - [Reddit app Apollo will officially shut down June 30 &lpar;Update: more apps&rpar;](https://www.androidauthority.com/apollo-reddit-shutdown-3333254/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
