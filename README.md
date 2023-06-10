@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Justice is justice](http://9gag.com/gag/axoP19D)
- - 🚯 [At least she has a decent pace..](http://9gag.com/gag/aRE2jQ7)
- - 🚯 [Sir, common sense is not welcome here](http://9gag.com/gag/abv2MLX)<!-- MEMES:END -->
+ - 🚖 [Right back atcha!](http://9gag.com/gag/az2ZqMm)
+ - 🚯 [Yes they unlocked this type of level :Systemic racism](http://9gag.com/gag/anzDjWB)
+ - 🚯 [What is the purpose of the visit?](http://9gag.com/gag/ago2G16)<!-- MEMES:END -->
 
 --- 
 
