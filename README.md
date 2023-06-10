@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Laughing, chilling, putting faith in Justice systems](http://9gag.com/gag/anzD550)
- - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)
- - 🚯 [Unveiling of the \u201cquantum processor\u201d produced by the Iranian army](http://9gag.com/gag/aRE211Q)<!-- MEMES:END -->
+ - 🚖 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
+ - 🚯 [WTF](http://9gag.com/gag/aNwR0b4)
+ - 🚯 [The segs](http://9gag.com/gag/avQvrXX)<!-- MEMES:END -->
 
 --- 
 
