@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat 1: PS5 hands-on report and Ed Boon Q&amp;A](https://blog.playstation.com/2023/06/09/mortal-kombat-1-ps5-hands-on-report-and-ed-boon-qa/)
- - [The Summer Game Fest and &lpar;not&rpar; E3 2023 full schedule](https://www.polygon.com/23745173/summer-game-fest-2023-not-e3-schedule-dates-livestreams)
- - [Spider-Man Across the Spider-Verse Is Hard To Hear, Some Viewers Say [Update]](https://kotaku.com/spider-man-across-spider-verse-loud-sony-dialogue-1850506239)<!-- GAME:END -->
+ - [Square Enix’s Splatoon Clone Isn’t A Complete Fraud](https://kotaku.com/foamstars-square-enix-party-game-splatoon-overwatch-1850525119)
+ - [Diablo IV Druids, Do This ASAP To Unlock Some Powerful New Abilities](https://kotaku.com/diablo-4-scosglen-tur-dulra-druid-spirit-offerings-1850523114)
+ - [9 Reasons Final Fantasy VII Rebirth Fans Are Losing It Over The Latest Trailer](https://kotaku.com/final-fantasy-7-rebirth-vii-remake-release-date-trailer-1850524737)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
