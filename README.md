@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T Switches to Google&#39;s RCS Platform for Advanced Texting Features     - CNET](https://www.cnet.com/tech/mobile/at-t-switches-to-googles-rcs-platform-for-advanced-texting-features/#ftag=CAD590a51e)
  - [Nansen and Glassnode: Binance, Binance.US, and Coinbase saw a combined net outflow of $3.1B via Ethereum and $864M in BTC from June 5-June 8, amid SEC lawsuits &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230609/p24#a230609p24)
- - [A US judge ruled in favor of the CFTC after Ooki DAO failed to respond to an enforcement action, setting a precedent that DAOs are liable for legal violations &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230609/p23#a230609p23)
- - [Microsoft adds voice mode to Bing Chat on desktop, letting users ask questions using their voice in English, Japanese, French, German, and Mandarin &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230609/p22#a230609p22)<!-- TECH:END -->
+ - [A US judge ruled in favor of the CFTC after Ooki DAO failed to respond to an enforcement action, setting a precedent that DAOs are liable for legal violations &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230609/p23#a230609p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
