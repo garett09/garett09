@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US bankruptcy judge rules FTX can permanently redact names of individual customers from its bankruptcy filings so that they don&#39;t fall victim to scams &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/230610/p2#a230610p2)
- - [Google SVP Hiroshi Lockheimer says AT&amp;T&#39;s default Android messaging will now use the Jibe platform, &quot;so their users will get the latest RCS features instantly&quot; &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/230610/p1#a230610p1)
- - [The 8 Best Wireless Car Chargers for 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Gary Gensler amid the SEC&#39;s Binance and Coinbase lawsuits, which have existential stakes for the companies and could define Gensler&#39;s legacy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230610/p7#a230610p7)
+ - [In a virtual address to a conference in Beijing, OpenAI&#39;s Sam Altman called for global cooperation on AI safety and said China should help shape the guidelines &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/230610/p6#a230610p6)
+ - [Bluesky&#39;s moderation policy change strains its relationship with Black users, who expect a crackdown on bigotry even if it conflicts with decentralized goals &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/230610/p5#a230610p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
