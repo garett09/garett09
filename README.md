@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Realtek&#39;s lawsuit accusing MediaTek of paying a company a &quot;bounty&quot; to file meritless US patent lawsuits to drive Realtek out of the TV chip market &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230610/p8#a230610p8)
- - [How to get free electricity in the UK](https://www.theverge.com/23755092/free-electricity-uk-how-to-octopus-energy-agile)
- - [Bank Customers Aren&#39;t Happy With AI Chatbots. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [16 Best Deals: MacBooks, Air Purifiers, and Charging Adapters](https://www.wired.com/story/weekend-deals-june-10-2023/)
+ - [The Director of &#39;Street Fighter 6&#39; Uncovers Its &#39;Modern&#39; Updates](https://www.wired.com/story/street-fighter-6-accessibility-takayuki-nakayama-interview/)
+ - [A comparison between US data and 5,100 Stable Diffusion-generated images related to job title and crime finds the tool amplifies gender and racial stereotypes &lpar;Bloomberg&rpar;](http://www.techmeme.com/230610/p9#a230610p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
