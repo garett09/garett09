@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [Nigeria&#39;s SEC orders that Binance halt operations in the country, deeming them illegal as the local unit is &quot;neither registered nor regulated by the Commission&quot; &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/230610/p10#a230610p10)
  - [In 2023, AI is everywhere. Unless you listen to Apple.](https://www.androidauthority.com/apple-no-ai-wwdc-3332765/)
- - [Best Blenders &lpar;2023&rpar;: Smoothies, Soups, Sauces](https://www.wired.com/gallery/best-blenders/)<!-- TECH:END -->
+ - [Best Hair Dryers and Diffusers &lpar;2023&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
