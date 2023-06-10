@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well played Steve... Well played](http://9gag.com/gag/awZ4BQ1)
+ - 🚖 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)
  - 🚯 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
- - 🚯 [Good boy](http://9gag.com/gag/adP27wB)<!-- MEMES:END -->
+ - 🚯 [I feel like I&#39;m going to have a performance review on Monday](http://9gag.com/gag/ap9A2X9)<!-- MEMES:END -->
 
 --- 
 
