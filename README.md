@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least she has a decent pace..](http://9gag.com/gag/aRE2jQ7)
- - 🚯 [Justice is justice](http://9gag.com/gag/axoP19D)
- - 🚯 [She so cute](http://9gag.com/gag/aZD2gBV)<!-- MEMES:END -->
+ - 🚖 [She so cute](http://9gag.com/gag/aZD2gBV)
+ - 🚯 [Piers Morgan asks OnlyFans influencer Elle Brooke whether she worries her future children might see her racy content online one day. Elle: `They can cry in a Ferrari.`](http://9gag.com/gag/aqez5Gp)
+ - 🚯 [Obi-wan&#39;s nightmares](http://9gag.com/gag/aQE23BW)<!-- MEMES:END -->
 
 --- 
 
