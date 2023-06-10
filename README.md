@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix subscriptions rise amid password-sharing crackdown](https://appleinsider.com/articles/23/06/10/netflix-subscriptions-rise-amid-password-sharing-crackdown?utm_medium=rss)
- - [An interview with Jinman Han, head of Samsung&#39;s US chip business, on the chip shortage during the pandemic, geopolitics, its $17B fab in Taylor, Texas, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/230610/p11#a230610p11)
- - [5 Android Apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-487-2-3333221/)<!-- TECH:END -->
+ - [How Nike Training Club kept me motivated through a running injury](https://www.androidauthority.com/nike-training-club-3332761/)
+ - [Netflix subscription numbers rise amid password-sharing crackdown](https://appleinsider.com/articles/23/06/10/netflix-subscriptions-rise-amid-password-sharing-crackdown?utm_medium=rss)
+ - [Get Riding With Up to $700 In E-Bikes and Accessory Savings at Rad Power Bikes     - CNET](https://www.cnet.com/roadshow/news/get-riding-with-up-to-700-in-e-bikes-and-accessory-savings-at-rad-power-bikes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
