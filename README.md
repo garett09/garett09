@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
- - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)
- - 🚯 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)<!-- MEMES:END -->
+ - 🚖 [How to be a good girlfriend?](http://9gag.com/gag/aWG2EyK)
+ - 🚯 [We didn&#39;t see IT coming :&rpar;&rpar;&rpar;&rpar;&rpar;&rpar;](http://9gag.com/gag/aqezg3M)
+ - 🚯 [Keeper alert](http://9gag.com/gag/a3ZWQj1)<!-- MEMES:END -->
 
 --- 
 
