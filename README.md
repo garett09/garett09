@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to be a good girlfriend?](http://9gag.com/gag/aWG2EyK)
- - 🚯 [We didn&#39;t see IT coming :&rpar;&rpar;&rpar;&rpar;&rpar;&rpar;](http://9gag.com/gag/aqezg3M)
- - 🚯 [Keeper alert](http://9gag.com/gag/a3ZWQj1)<!-- MEMES:END -->
+ - 🚖 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
+ - 🚯 [The segs](http://9gag.com/gag/avQvrXX)
+ - 🚯 [Laughing, chilling, putting faith in Justice systems](http://9gag.com/gag/anzD550)<!-- MEMES:END -->
 
 --- 
 
