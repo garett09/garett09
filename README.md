@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: These are the leaked camera specs for the Google Pixel 8 series](https://www.androidauthority.com/google-pixel-8-camera-leak-3333575/)
- - [14 Best Sleep Gadgets and Apps &lpar;2023&rpar;: Noise Machines, Blankets, Lights, and More](https://www.wired.com/gallery/best-sleep-gadgets/)
- - [Many Newly Discovered Species Are Already Gone](https://www.wired.com/story/many-newly-discovered-species-are-already-gone/)<!-- TECH:END -->
+ - [Best Blenders &lpar;2023&rpar;: Smoothies, Soups, Sauces](https://www.wired.com/gallery/best-blenders/)
+ - [The Reddit App War Is Getting Messy](https://www.wired.com/story/the-reddit-app-war-is-getting-messy/)
+ - [9 Years After the Mt. Gox Hack, Feds Indict Alleged Culprits](https://www.wired.com/story/mt-gox-indictment-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
