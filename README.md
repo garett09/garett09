@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right back atcha!](http://9gag.com/gag/az2ZqMm)
- - 🚯 [Laughing, chilling, putting faith in Justice systems](http://9gag.com/gag/anzD550)
- - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)<!-- MEMES:END -->
+ - 🚖 [Well played Steve... Well played](http://9gag.com/gag/awZ4BQ1)
+ - 🚯 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
+ - 🚯 [Good boy](http://9gag.com/gag/adP27wB)<!-- MEMES:END -->
 
 --- 
 
