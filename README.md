@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sierra Leone Goalkeeper puts a beastly display to deny the win to Algeria &lpar;stand champs&rpar; at AFCON today and gets emotional while receiving the man of the match award.](http://9gag.com/gag/aqezKGj)
- - 🚯 [Attention Sweden, France, UK, EU, Canada, USA and most countries in the west... learn the bloody difference!](http://9gag.com/gag/aEqX22e)
- - 🚯 [WTF](http://9gag.com/gag/aNwR0b4)<!-- MEMES:END -->
+ - 🚖 [Right back atcha!](http://9gag.com/gag/az2ZqMm)
+ - 🚯 [Things not to say as a DJ.](http://9gag.com/gag/axoPgeb)
+ - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)<!-- MEMES:END -->
 
 --- 
 
