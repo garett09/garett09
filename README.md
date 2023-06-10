@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unveiling of the \u201cquantum processor\u201d produced by the Iranian army](http://9gag.com/gag/aRE211Q)
- - 🚯 [Stupid ways to die - tourist grabs lever during helicopter flight](http://9gag.com/gag/ay2Q83W)
- - 🚯 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)<!-- MEMES:END -->
+ - 🚖 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
+ - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)
+ - 🚯 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)<!-- MEMES:END -->
 
 --- 
 
