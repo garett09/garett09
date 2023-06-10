@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix’s Splatoon Clone Isn’t A Complete Fraud](https://kotaku.com/foamstars-square-enix-party-game-splatoon-overwatch-1850525119)
- - [Diablo IV Druids, Do This ASAP To Unlock Some Powerful New Abilities](https://kotaku.com/diablo-4-scosglen-tur-dulra-druid-spirit-offerings-1850523114)
- - [9 Reasons Final Fantasy VII Rebirth Fans Are Losing It Over The Latest Trailer](https://kotaku.com/final-fantasy-7-rebirth-vii-remake-release-date-trailer-1850524737)<!-- GAME:END -->
+ - [Pokémon Go Axew Community Day guide](https://www.polygon.com/pokemon-go-guide/23755536/axew-community-day-shiny-haxorus-fraxure)
+ - [Our apologies to every other Diablo 4 class, but Sorcerers are the fan favorite](https://www.pcgamer.com/our-apologies-to-every-other-diablo-4-class-but-sorcerers-are-the-fan-favorite)
+ - [Square Enix’s Splatoon Clone Isn’t A Complete Fraud](https://kotaku.com/foamstars-square-enix-party-game-splatoon-overwatch-1850525119)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
