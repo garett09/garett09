@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Three Gorgeous, Unreleased Games We Just Played That Should Have Your Attention](https://kotaku.com/three-gorgeous-unreleased-games-we-just-played-that-sh-1850526450)
- - [I have no idea what to make of this &#39;motorvania&#39; about a biker coyote on a quest for vengeance, but I think I like it](https://www.pcgamer.com/i-have-no-idea-what-to-make-of-this-motorvania-about-a-biker-coyote-on-a-quest-for-vengeance-but-i-think-i-like-it)
- - [Diablo 4 review](https://www.pcgamer.com/diablo-4-review)<!-- GAME:END -->
+ - [Here&#39;s what to expect from the updated D&amp;D rulebooks coming next year](https://www.pcgamer.com/heres-what-to-expect-from-the-updated-dandd-rulebooks-coming-next-year)
+ - [Our 11 favorite trailers from the 2023 Future Games Show Summer Showcase](https://www.pcgamer.com/our-11-favorite-trailers-from-the-2023-future-games-show-summer-showcase)
+ - [I told you guys Lords of the Fallen looked cool](https://www.pcgamer.com/i-told-you-guys-lords-of-the-fallen-looked-cool)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
