@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Punting dudes off ledges in the Steam demo for this comedy prop combat game is bringing me a lot of joy](https://www.pcgamer.com/en-garde-steam-demo)
- - [Daedalic turns one of its classic point-and-click adventures into a life-and-death survival game, and it feels a little weird](https://www.pcgamer.com/daedalic-turns-one-of-its-classic-point-and-click-adventures-into-a-life-and-death-survival-game-and-it-feels-a-little-weird)
- - [If you&#39;ve ever wanted to play Euro Truck Simulator in deep space, this new sci-fi trucking simulator might be just the thing](https://www.pcgamer.com/if-youve-ever-wanted-to-play-euro-truck-simulator-in-deep-space-this-new-sci-fi-trucking-simulator-might-be-just-the-thing)<!-- GAME:END -->
+ - [The 8 best cozy games to wishlist from the Wholesome Games Showcase](https://www.pcgamer.com/best-trailers-wholesome-games-2023)
+ - [Mineko’s Night Market is a cozy slice of life with a huge helping of cats and crafts](https://www.pcgamer.com/minekos-night-market-is-a-cozy-slice-of-life-with-a-huge-helping-of-cats-and-crafts)
+ - [Punting dudes off ledges in the Steam demo for this comedy prop combat game is bringing me a lot of joy](https://www.pcgamer.com/en-garde-steam-demo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
