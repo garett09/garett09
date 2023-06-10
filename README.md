@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android Apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-487-2-3333221/)
- - [Fitbit’s old-school, OLED-equipped Inspire 3 is down to just $80](https://www.theverge.com/2023/6/10/23755467/fitbit-inspire-3-tracker-beats-fit-pro-earbuds-peacock-premium-streaming-deal-sale)
- - [Apple TVs will have native VPN support in tvOS 17](https://www.theverge.com/2023/6/10/23756329/apple-tv-vpn-tvos-17-4k-streaming-wwdc-2023)<!-- TECH:END -->
+ - [Netflix subscriptions rise amid password-sharing crackdown](https://appleinsider.com/articles/23/06/10/netflix-subscriptions-rise-amid-password-sharing-crackdown?utm_medium=rss)
+ - [An interview with Jinman Han, head of Samsung&#39;s US chip business, on the chip shortage during the pandemic, geopolitics, its $17B fab in Taylor, Texas, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/230610/p11#a230610p11)
+ - [5 Android Apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-487-2-3333221/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
