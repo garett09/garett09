@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Justice is justice](http://9gag.com/gag/axoP19D)
- - 🚯 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
- - 🚯 [I bought this for my imaginary ex that exists](http://9gag.com/gag/avQvrwE)<!-- MEMES:END -->
+ - 🚖 [I bought this for my imaginary ex that exists](http://9gag.com/gag/avQvrwE)
+ - 🚯 [Things not to say as a DJ.](http://9gag.com/gag/axoPgeb)
+ - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)<!-- MEMES:END -->
 
 --- 
 
