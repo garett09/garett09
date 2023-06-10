@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sony’s PS5 bundle with God of War Ragnarök is $60 off, boy](https://www.polygon.com/deals/23754010/best-gaming-deals-ps5-bundle-god-of-war-ragnarok-humble-bundle-sonos)
  - [The best thrillers to watch on Netflix in June](https://www.polygon.com/what-to-watch/23749324/best-thriller-movies-netflix-watch-june-2023)
- - [How to watch the Future Games Show Summer Showcase 2023](https://www.pcgamer.com/future-games-show-summer-2023-how-to-watch-livestream)
- - [Today&#39;s Wordle hint and answer #721: Saturday, June 10](https://www.pcgamer.com/wordle-answer-today-hint-721-june-10)<!-- GAME:END -->
+ - [How to watch the Future Games Show Summer Showcase 2023](https://www.pcgamer.com/future-games-show-summer-2023-how-to-watch-livestream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
