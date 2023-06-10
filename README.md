@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Nike Training Club kept me motivated through a running injury](https://www.androidauthority.com/nike-training-club-3332761/)
- - [Netflix subscription numbers rise amid password-sharing crackdown](https://appleinsider.com/articles/23/06/10/netflix-subscriptions-rise-amid-password-sharing-crackdown?utm_medium=rss)
- - [Get Riding With Up to $700 In E-Bikes and Accessory Savings at Rad Power Bikes     - CNET](https://www.cnet.com/roadshow/news/get-riding-with-up-to-700-in-e-bikes-and-accessory-savings-at-rad-power-bikes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M2 Ultra benchmarks show performance bump over M1 Ultra](https://appleinsider.com/articles/23/06/10/m2-ultra-benchmarks-show-performance-bump-over-m1-ultra?utm_medium=rss)
+ - [Analysis of NHTSA data: Tesla&#39;s FSD and Autopilot were involved in 736 US crashes since 2019, far more than systems from all other car makers combined &lpar;Washington Post&rpar;](http://www.techmeme.com/230610/p12#a230610p12)
+ - [How Nike Training Club kept me motivated through a running injury](https://www.androidauthority.com/nike-training-club-3332761/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
