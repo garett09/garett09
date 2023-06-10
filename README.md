@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right back atcha!](http://9gag.com/gag/az2ZqMm)
- - 🚯 [Yes they unlocked this type of level :Systemic racism](http://9gag.com/gag/anzDjWB)
- - 🚯 [What is the purpose of the visit?](http://9gag.com/gag/ago2G16)<!-- MEMES:END -->
+ - 🚖 [Justice is justice](http://9gag.com/gag/axoP19D)
+ - 🚯 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
+ - 🚯 [I bought this for my imaginary ex that exists](http://9gag.com/gag/avQvrwE)<!-- MEMES:END -->
 
 --- 
 
