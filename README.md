@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nigeria&#39;s SEC orders that Binance halt operations in the country, deeming them illegal as the local unit is &quot;neither registered nor regulated by the Commission&quot; &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/230610/p10#a230610p10)
- - [In 2023, AI is everywhere. Unless you listen to Apple.](https://www.androidauthority.com/apple-no-ai-wwdc-3332765/)
- - [Best Hair Dryers and Diffusers &lpar;2023&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)<!-- TECH:END -->
+ - [5 Android Apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-487-2-3333221/)
+ - [Fitbit’s old-school, OLED-equipped Inspire 3 is down to just $80](https://www.theverge.com/2023/6/10/23755467/fitbit-inspire-3-tracker-beats-fit-pro-earbuds-peacock-premium-streaming-deal-sale)
+ - [Apple TVs will have native VPN support in tvOS 17](https://www.theverge.com/2023/6/10/23756329/apple-tv-vpn-tvos-17-4k-streaming-wwdc-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
