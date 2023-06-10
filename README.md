@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right back atcha!](http://9gag.com/gag/az2ZqMm)
- - 🚯 [Things not to say as a DJ.](http://9gag.com/gag/axoPgeb)
- - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)<!-- MEMES:END -->
+ - 🚖 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)
+ - 🚯 [Unveiling of the \u201cquantum processor\u201d produced by the Iranian army](http://9gag.com/gag/aRE211Q)
+ - 🚯 [Right back atcha!](http://9gag.com/gag/az2ZqMm)<!-- MEMES:END -->
 
 --- 
 
