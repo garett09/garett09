@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best thrillers to watch on Netflix in June](https://www.polygon.com/what-to-watch/23749324/best-thriller-movies-netflix-watch-june-2023)
  - [How to watch the Future Games Show Summer Showcase 2023](https://www.pcgamer.com/future-games-show-summer-2023-how-to-watch-livestream)
- - [Today&#39;s Wordle hint and answer #721: Saturday, June 10](https://www.pcgamer.com/wordle-answer-today-hint-721-june-10)
- - [Pokémon Go Axew Community Day guide](https://www.polygon.com/pokemon-go-guide/23755536/axew-community-day-shiny-haxorus-fraxure)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #721: Saturday, June 10](https://www.pcgamer.com/wordle-answer-today-hint-721-june-10)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
