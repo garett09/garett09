@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right back atcha!](http://9gag.com/gag/az2ZqMm)
+ - 🚖 [Which team are you on](http://9gag.com/gag/aWG2qDZ)
  - 🚯 [Sir, common sense is not welcome here](http://9gag.com/gag/abv2MLX)
- - 🚯 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)<!-- MEMES:END -->
+ - 🚯 [Have a Potato](http://9gag.com/gag/aDYXzRO)<!-- MEMES:END -->
 
 --- 
 
