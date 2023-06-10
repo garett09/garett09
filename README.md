@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an AMA about Reddit&#39;s API changes, the company&#39;s CEO said Reddit can&#39;t &quot;subsidize commercial entities&quot;, criticized the Apollo developer&#39;s behavior, and more &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/230609/p21#a230609p21)
- - [Kraken launches Kraken NFT, a marketplace with 250+ NFT collections across the Ethereum, Solana, and Polygon blockchains, after a beta started in November 2022 &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230609/p20#a230609p20)
- - [Logitech plans to merge Astro and Blue Microphones into Logitech G and retire the Blue brand, saying &quot;the Blue name will be used to describe our technologies&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230609/p19#a230609p19)<!-- TECH:END -->
+ - [Nansen and Glassnode: Binance, Binance.US, and Coinbase saw a combined net outflow of $3.1B via Ethereum and $864M in BTC from June 5-June 8, amid SEC lawsuits &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230609/p24#a230609p24)
+ - [A US judge ruled in favor of the CFTC after Ooki DAO failed to respond to an enforcement action, setting a precedent that DAOs are liable for legal violations &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230609/p23#a230609p23)
+ - [Microsoft adds voice mode to Bing Chat on desktop, letting users ask questions using their voice in English, Japanese, French, German, and Mandarin &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230609/p22#a230609p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
