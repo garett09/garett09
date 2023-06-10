@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 8 best cozy games to wishlist from the Wholesome Games Showcase](https://www.pcgamer.com/best-trailers-wholesome-games-2023)
- - [Mineko’s Night Market is a cozy slice of life with a huge helping of cats and crafts](https://www.pcgamer.com/minekos-night-market-is-a-cozy-slice-of-life-with-a-huge-helping-of-cats-and-crafts)
- - [Punting dudes off ledges in the Steam demo for this comedy prop combat game is bringing me a lot of joy](https://www.pcgamer.com/en-garde-steam-demo)<!-- GAME:END -->
+ - [I have no idea what to make of this &#39;motorvania&#39; about a biker coyote on a quest for vengeance, but I think I like it](https://www.pcgamer.com/i-have-no-idea-what-to-make-of-this-motorvania-about-a-biker-coyote-on-a-quest-for-vengeance-but-i-think-i-like-it)
+ - [Diablo 4 review](https://www.pcgamer.com/diablo-4-review)
+ - [I was not expecting how much I&#39;d dig this surreal adventure game where I&#39;ve somehow broken &#39;Writer&#39;s Law&#39; and have to escape my punishment](https://www.pcgamer.com/i-was-not-expecting-how-much-id-dig-this-surreal-adventure-game-where-ive-somehow-broken-writers-law-and-have-to-escape-my-punishment)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
