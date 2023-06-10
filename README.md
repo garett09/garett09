@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
- - 🚯 [WTF](http://9gag.com/gag/aNwR0b4)
- - 🚯 [The segs](http://9gag.com/gag/avQvrXX)<!-- MEMES:END -->
+ - 🚖 [WTF](http://9gag.com/gag/aNwR0b4)
+ - 🚯 [Man asks wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMEX826)
+ - 🚯 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)<!-- MEMES:END -->
 
 --- 
 
