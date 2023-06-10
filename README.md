@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Gary Gensler amid the SEC&#39;s Binance and Coinbase lawsuits, which have existential stakes for the companies and could define Gensler&#39;s legacy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230610/p7#a230610p7)
- - [In a virtual address to a conference in Beijing, OpenAI&#39;s Sam Altman called for global cooperation on AI safety and said China should help shape the guidelines &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/230610/p6#a230610p6)
- - [Bluesky&#39;s moderation policy change strains its relationship with Black users, who expect a crackdown on bigotry even if it conflicts with decentralized goals &lpar;Morgan Sung/TechCrunch&rpar;](http://www.techmeme.com/230610/p5#a230610p5)<!-- TECH:END -->
+ - [A look at Realtek&#39;s lawsuit accusing MediaTek of paying a company a &quot;bounty&quot; to file meritless US patent lawsuits to drive Realtek out of the TV chip market &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/230610/p8#a230610p8)
+ - [How to get free electricity in the UK](https://www.theverge.com/23755092/free-electricity-uk-how-to-octopus-energy-agile)
+ - [Bank Customers Aren&#39;t Happy With AI Chatbots. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/bank-customers-arent-happy-with-ai-chatbots-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
