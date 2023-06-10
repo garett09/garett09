@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you&#39;ve ever wanted to play Euro Truck Simulator in deep space, this new sci-fi trucking simulator might be just the thing](https://www.pcgamer.com/if-youve-ever-wanted-to-play-euro-truck-simulator-in-deep-space-this-new-sci-fi-trucking-simulator-might-be-just-the-thing)
- - [Cozy sim Lakeburg Legacies shows the real perfect match is city building and dating sims](https://www.pcgamer.com/cozy-sim-lakeburg-legacies-shows-the-real-perfect-match-is-city-building-and-dating-sims)
- - [I&#39;ve played cooking sims and puzzle platformers, but a cooking platformer? I&#39;m listening](https://www.pcgamer.com/ive-played-cooking-sims-and-puzzle-platformers-but-a-cooking-platformer-im-listening)<!-- GAME:END -->
+ - [Punting dudes off ledges in the Steam demo for this comedy prop combat game is bringing me a lot of joy](https://www.pcgamer.com/en-garde-steam-demo)
+ - [Daedalic turns one of its classic point-and-click adventures into a life-and-death survival game, and it feels a little weird](https://www.pcgamer.com/daedalic-turns-one-of-its-classic-point-and-click-adventures-into-a-life-and-death-survival-game-and-it-feels-a-little-weird)
+ - [If you&#39;ve ever wanted to play Euro Truck Simulator in deep space, this new sci-fi trucking simulator might be just the thing](https://www.pcgamer.com/if-youve-ever-wanted-to-play-euro-truck-simulator-in-deep-space-this-new-sci-fi-trucking-simulator-might-be-just-the-thing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
