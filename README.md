@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I bought this for my imaginary ex that exists](http://9gag.com/gag/avQvrwE)
- - 🚯 [Things not to say as a DJ.](http://9gag.com/gag/axoPgeb)
- - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)<!-- MEMES:END -->
+ - 🚯 [Attention Sweden, France, UK, EU, Canada, USA and most countries in the west... learn the bloody difference!](http://9gag.com/gag/aEqX22e)
+ - 🚯 [Stupid ways to die - tourist grabs lever during helicopter flight](http://9gag.com/gag/ay2Q83W)<!-- MEMES:END -->
 
 --- 
 
