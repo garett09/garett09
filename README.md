@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am Indian. This is the 3rd time when bride called off the wedding. Now my parents want to marry without prenup and legal formalities.](http://9gag.com/gag/aGE2x2Z)
- - 🚯 [Sir, common sense is not welcome here](http://9gag.com/gag/abv2MLX)
- - 🚯 [That looming dread of hearing the guilty verdict and knowing that she&#39;s going to spend a very long time in prison.](http://9gag.com/gag/aRE2e1q)<!-- MEMES:END -->
+ - 🚖 [Justice is justice](http://9gag.com/gag/axoP19D)
+ - 🚯 [At least she has a decent pace..](http://9gag.com/gag/aRE2jQ7)
+ - 🚯 [Sir, common sense is not welcome here](http://9gag.com/gag/abv2MLX)<!-- MEMES:END -->
 
 --- 
 
