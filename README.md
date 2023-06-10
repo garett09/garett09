@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T Switches to Google&#39;s RCS Platform for Advanced Texting Features     - CNET](https://www.cnet.com/tech/mobile/at-t-switches-to-googles-rcs-platform-for-advanced-texting-features/#ftag=CAD590a51e)
- - [Nansen and Glassnode: Binance, Binance.US, and Coinbase saw a combined net outflow of $3.1B via Ethereum and $864M in BTC from June 5-June 8, amid SEC lawsuits &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/230609/p24#a230609p24)
- - [A US judge ruled in favor of the CFTC after Ooki DAO failed to respond to an enforcement action, setting a precedent that DAOs are liable for legal violations &lpar;Colin Wilhelm/The Block&rpar;](http://www.techmeme.com/230609/p23#a230609p23)<!-- TECH:END -->
+ - [Google SVP Hiroshi Lockheimer says AT&amp;T&#39;s default Android messaging will now use the Jibe platform, &quot;so their users will get the latest RCS features instantly&quot; &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/230610/p1#a230610p1)
+ - [The founders of Three Arrows Capital spent the past year surfing, meditating, and traveling after their crypto hedge fund collapsed, while refusing to apologize &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/230609/p25#a230609p25)
+ - [AT&amp;T Switches to Google&#39;s RCS Platform for Advanced Texting Features     - CNET](https://www.cnet.com/tech/mobile/at-t-switches-to-googles-rcs-platform-for-advanced-texting-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
