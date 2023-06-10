@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve played cooking sims and puzzle platformers, but a cooking platformer? I&#39;m listening](https://www.pcgamer.com/ive-played-cooking-sims-and-puzzle-platformers-but-a-cooking-platformer-im-listening)
- - [Venba&#39;s gorgeous meals stir up the joy and challenge of recreating family recipes](https://www.pcgamer.com/venbas-gorgeous-meals-stir-up-the-joy-and-challenge-of-recreating-family-recipes)
- - [In cozy cat cafe sim Pekoe the cats are the ones running the show](https://www.pcgamer.com/in-cozy-cat-cafe-sim-pekoe-the-cats-are-the-ones-running-the-show)<!-- GAME:END -->
+ - [If you&#39;ve ever wanted to play Euro Truck Simulator in deep space, this new sci-fi trucking simulator might be just the thing](https://www.pcgamer.com/if-youve-ever-wanted-to-play-euro-truck-simulator-in-deep-space-this-new-sci-fi-trucking-simulator-might-be-just-the-thing)
+ - [Cozy sim Lakeburg Legacies shows the real perfect match is city building and dating sims](https://www.pcgamer.com/cozy-sim-lakeburg-legacies-shows-the-real-perfect-match-is-city-building-and-dating-sims)
+ - [I&#39;ve played cooking sims and puzzle platformers, but a cooking platformer? I&#39;m listening](https://www.pcgamer.com/ive-played-cooking-sims-and-puzzle-platformers-but-a-cooking-platformer-im-listening)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
