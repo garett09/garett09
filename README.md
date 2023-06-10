@@ -141,7 +141,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- TECH:START -->
  - [M2 Ultra benchmarks show performance bump over M1 Ultra](https://appleinsider.com/articles/23/06/10/m2-ultra-benchmarks-show-performance-bump-over-m1-ultra?utm_medium=rss)
- - [Analysis of NHTSA data: Tesla&#39;s FSD and Autopilot were involved in 736 US crashes since 2019, far more than systems from all other car makers combined &lpar;Washington Post&rpar;](http://www.techmeme.com/230610/p12#a230610p12)
+ - [Analysis of NHTSA data: Tesla&#39;s FSD and Autopilot were involved in 736 crashes since 2019, far more than reported; most recent data includes 17+ fatal incidents &lpar;Washington Post&rpar;](http://www.techmeme.com/230610/p12#a230610p12)
  - [How Nike Training Club kept me motivated through a running injury](https://www.androidauthority.com/nike-training-club-3332761/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
