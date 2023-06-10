@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2008’s Incredible Hulk did everything right with Hulk, and the MCU threw it away](https://www.polygon.com/23755768/edward-norton-was-the-best-incredible-hulk-anniversary-opinion)
- - [This co-op farming game is the most jam-packed cutesy life sim I&#39;ve seen since Stardew Valley](https://www.pcgamer.com/this-co-op-farming-game-is-the-most-jam-packed-cutesy-life-sim-ive-seen-since-stardew-valley)
- - [Homebody is a time loop throwback to PlayStation horror games](https://www.polygon.com/reviews/23755473/homebody-survival-horror-puzzle-game-grumps-review)<!-- GAME:END -->
+ - [I&#39;ve played cooking sims and puzzle platformers, but a cooking platformer? I&#39;m listening](https://www.pcgamer.com/ive-played-cooking-sims-and-puzzle-platformers-but-a-cooking-platformer-im-listening)
+ - [Venba&#39;s gorgeous meals stir up the joy and challenge of recreating family recipes](https://www.pcgamer.com/venbas-gorgeous-meals-stir-up-the-joy-and-challenge-of-recreating-family-recipes)
+ - [In cozy cat cafe sim Pekoe the cats are the ones running the show](https://www.pcgamer.com/in-cozy-cat-cafe-sim-pekoe-the-cats-are-the-ones-running-the-show)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
