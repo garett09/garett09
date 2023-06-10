@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Blenders &lpar;2023&rpar;: Smoothies, Soups, Sauces](https://www.wired.com/gallery/best-blenders/)
- - [The Reddit App War Is Getting Messy](https://www.wired.com/story/the-reddit-app-war-is-getting-messy/)
- - [9 Years After the Mt. Gox Hack, Feds Indict Alleged Culprits](https://www.wired.com/story/mt-gox-indictment-security-roundup/)<!-- TECH:END -->
+ - [Nigeria&#39;s SEC orders that Binance halt operations in the country, deeming them illegal as the local unit is &quot;neither registered nor regulated by the Commission&quot; &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/230610/p10#a230610p10)
+ - [In 2023, AI is everywhere. Unless you listen to Apple.](https://www.androidauthority.com/apple-no-ai-wwdc-3332765/)
+ - [Best Blenders &lpar;2023&rpar;: Smoothies, Soups, Sauces](https://www.wired.com/gallery/best-blenders/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
