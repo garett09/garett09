@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I bought this for my imaginary ex that exists](http://9gag.com/gag/avQvrwE)
+ - 🚖 [Sierra Leone Goalkeeper puts a beastly display to deny the win to Algeria &lpar;stand champs&rpar; at AFCON today and gets emotional while receiving the man of the match award.](http://9gag.com/gag/aqezKGj)
  - 🚯 [Attention Sweden, France, UK, EU, Canada, USA and most countries in the west... learn the bloody difference!](http://9gag.com/gag/aEqX22e)
- - 🚯 [Stupid ways to die - tourist grabs lever during helicopter flight](http://9gag.com/gag/ay2Q83W)<!-- MEMES:END -->
+ - 🚯 [WTF](http://9gag.com/gag/aNwR0b4)<!-- MEMES:END -->
 
 --- 
 
