@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #721: Saturday, June 10](https://www.pcgamer.com/wordle-answer-today-hint-721-june-10)
  - [Pokémon Go Axew Community Day guide](https://www.polygon.com/pokemon-go-guide/23755536/axew-community-day-shiny-haxorus-fraxure)
- - [Our apologies to every other Diablo 4 class, but Sorcerers are the fan favorite](https://www.pcgamer.com/our-apologies-to-every-other-diablo-4-class-but-sorcerers-are-the-fan-favorite)
- - [Square Enix’s Splatoon Clone Isn’t A Complete Fraud](https://kotaku.com/foamstars-square-enix-party-game-splatoon-overwatch-1850525119)<!-- GAME:END -->
+ - [Our apologies to every other Diablo 4 class, but Sorcerers are the fan favorite](https://www.pcgamer.com/our-apologies-to-every-other-diablo-4-class-but-sorcerers-are-the-fan-favorite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
