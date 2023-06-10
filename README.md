@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US bankruptcy judge rules FTX can permanently redact names of individual customers from its bankruptcy filings so that they don&#39;t fall victim to scams &lpar;Dietrich Knauth/Reuters&rpar;](http://www.techmeme.com/230610/p2#a230610p2)
  - [Google SVP Hiroshi Lockheimer says AT&amp;T&#39;s default Android messaging will now use the Jibe platform, &quot;so their users will get the latest RCS features instantly&quot; &lpar;David Lumb/CNET&rpar;](http://www.techmeme.com/230610/p1#a230610p1)
- - [The founders of Three Arrows Capital spent the past year surfing, meditating, and traveling after their crypto hedge fund collapsed, while refusing to apologize &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/230609/p25#a230609p25)
- - [AT&amp;T Switches to Google&#39;s RCS Platform for Advanced Texting Features     - CNET](https://www.cnet.com/tech/mobile/at-t-switches-to-googles-rcs-platform-for-advanced-texting-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best Wireless Car Chargers for 2023     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
