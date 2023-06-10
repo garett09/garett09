@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Deals: MacBooks, Air Purifiers, and Charging Adapters](https://www.wired.com/story/weekend-deals-june-10-2023/)
- - [The Director of &#39;Street Fighter 6&#39; Uncovers Its &#39;Modern&#39; Updates](https://www.wired.com/story/street-fighter-6-accessibility-takayuki-nakayama-interview/)
- - [A comparison between US data and 5,100 Stable Diffusion-generated images related to job title and crime finds the tool amplifies gender and racial stereotypes &lpar;Bloomberg&rpar;](http://www.techmeme.com/230610/p9#a230610p9)<!-- TECH:END -->
+ - [Exclusive: These are the leaked camera specs for the Google Pixel 8 series](https://www.androidauthority.com/google-pixel-8-camera-leak-3333575/)
+ - [14 Best Sleep Gadgets and Apps &lpar;2023&rpar;: Noise Machines, Blankets, Lights, and More](https://www.wired.com/gallery/best-sleep-gadgets/)
+ - [Many Newly Discovered Species Are Already Gone](https://www.wired.com/story/many-newly-discovered-species-are-already-gone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
