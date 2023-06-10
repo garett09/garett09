@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I feel like I&#39;m going to have a performance review on Monday](http://9gag.com/gag/ap9A2X9)
- - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)
- - 🚯 [Man asks wife to dress as a nurse to spice up relationship](http://9gag.com/gag/aMEX826)<!-- MEMES:END -->
+ - 🚖 [Right back atcha!](http://9gag.com/gag/az2ZqMm)
+ - 🚯 [Laughing, chilling, putting faith in Justice systems](http://9gag.com/gag/anzD550)
+ - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)<!-- MEMES:END -->
 
 --- 
 
