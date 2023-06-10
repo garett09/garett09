@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Homebody is a time loop throwback to PlayStation horror games](https://www.polygon.com/reviews/23755473/homebody-survival-horror-puzzle-game-grumps-review)
- - [Sam Lake answers the biggest Alan Wake 2 question: What happened to his layers?](https://www.pcgamer.com/sam-lake-answers-the-biggest-alan-wake-2-question-what-happened-to-his-layers)
- - [Sony’s PS5 bundle with God of War Ragnarök is $60 off, boy](https://www.polygon.com/deals/23754010/best-gaming-deals-ps5-bundle-god-of-war-ragnarok-humble-bundle-sonos)<!-- GAME:END -->
+ - [2008’s Incredible Hulk did everything right with Hulk, and the MCU threw it away](https://www.polygon.com/23755768/edward-norton-was-the-best-incredible-hulk-anniversary-opinion)
+ - [This co-op farming game is the most jam-packed cutesy life sim I&#39;ve seen since Stardew Valley](https://www.pcgamer.com/this-co-op-farming-game-is-the-most-jam-packed-cutesy-life-sim-ive-seen-since-stardew-valley)
+ - [Homebody is a time loop throwback to PlayStation horror games](https://www.polygon.com/reviews/23755473/homebody-survival-horror-puzzle-game-grumps-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
