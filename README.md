@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
- - 🚯 [I&#39;m sorry, what sign is this?](http://9gag.com/gag/a2KbWxE)
- - 🚯 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)<!-- MEMES:END -->
+ - 🚖 [Was it really that bad?](http://9gag.com/gag/az2Zmzz)
+ - 🚯 [Those damn onions!](http://9gag.com/gag/avQvQ7b)
+ - 🚯 [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)<!-- MEMES:END -->
 
 --- 
 
