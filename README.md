@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Never Have I Ever season 4 does right by its best love story](https://www.polygon.com/23755500/never-have-i-ever-season-4-love-story-mother-daughter)
- - [The best thrillers to watch on Netflix in June](https://www.polygon.com/what-to-watch/23749324/best-thriller-movies-netflix-watch-june-2023)
- - [How to watch the Starfield Direct](https://www.pcgamer.com/starfield-direct-livestream-watch)<!-- GAME:END -->
+ - [Warhammer 40K’s 10th edition still has political satire in its pages](https://www.polygon.com/23755602/warhammer-40k-satire-tenth-edition-politics-tyranid-war)
+ - [What If Max Payne, But Shooting Vampires In Slo-Mo Instead?](https://kotaku.com/el-paso-elsewhere-max-payne-bullet-time-shooter-1850524788)
+ - [Never Have I Ever season 4 does right by its best love story](https://www.polygon.com/23755500/never-have-i-ever-season-4-love-story-mother-daughter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
