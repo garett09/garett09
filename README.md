@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m sorry, what sign is this?](http://9gag.com/gag/a2KbWxE)
- - 🚯 [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)
- - 🚯 [Drone killing wasps](http://9gag.com/gag/aoK8PY2)<!-- MEMES:END -->
+ - 🚖 [That&#39;s how sexists get pregnant](http://9gag.com/gag/az2Zxqb)
+ - 🚯 [Never change, Japan](http://9gag.com/gag/ago2AL1)
+ - 🚯 [Inspiring \ud83d\udc4f\ud83c\udf20](http://9gag.com/gag/aGE2E85)<!-- MEMES:END -->
 
 --- 
 
