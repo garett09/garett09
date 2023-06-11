@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I rode the Apollo Phantom V3, an electric scooter that reaches 41mph](https://www.androidauthority.com/apollo-phantom-v3-review-3328232/)
- - [Google Pixel 7a problems and how to fix them](https://www.androidauthority.com/google-pixel-7a-problems-fixes-3333284/)
- - [Gear Up for Grilling Season With Up to $100 Off at Weber     - CNET](https://www.cnet.com/deals/gear-up-for-grilling-season-with-up-to-100-off-at-weber/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Pride collection: A look back at its colorful releases](https://appleinsider.com/articles/23/06/11/apple-watch-pride-collection-a-look-back-at-its-colorful-releases?utm_medium=rss)
+ - [Apple&#39;s visionOS keyboard is extremely thoughtfully designed](https://appleinsider.com/articles/23/06/11/apples-visionos-keyboard-is-extremely-thoughtfully-designed?utm_medium=rss)
+ - [I rode the Apollo Phantom V3, an electric scooter that reaches 41mph](https://www.androidauthority.com/apollo-phantom-v3-review-3328232/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
