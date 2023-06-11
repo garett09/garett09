@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)
- - 🚯 [Never thought this day would come](http://9gag.com/gag/a2KboQp)
+ - 🚖 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
+ - 🚯 [The Chosen One](http://9gag.com/gag/a5XjWgG)
  - 🚯 [A Royal Guard trying to continue playing after fainting, while another is stretched off in the background... UK&#39;s hottest day of the year so far](http://9gag.com/gag/a1PLrNY)<!-- MEMES:END -->
 
 --- 
