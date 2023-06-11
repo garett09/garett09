@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You Won’t Have To Buy Cyberpunk 2077’s New Expansion To Play Some Of Its Best Stuff](https://kotaku.com/cyberpunk-2077-phantom-liberty-skill-tree-update-idris-1850527686)
- - [No, Bethesda, I do not want to kiss any of Starfield&#39;s glassy-eyed companions](https://www.pcgamer.com/no-bethesda-i-do-not-want-to-kiss-any-of-starfields-glassy-eyed-companions)
- - [Microsoft Flight Simulator 2024 is a whole new game that lets you douse wildfires and rescue lost hikers](https://www.pcgamer.com/microsoft-flight-simulator-2024-is-a-whole-new-game-that-lets-you-douse-wildfires-and-rescue-lost-hikers)<!-- GAME:END -->
+ - [Xbox&#39;s Last Big Exclusive Was Missing From Showcase After Getting Panned](https://kotaku.com/xbox-showcase-redfall-60fps-update-metacritic-game-pass-1850527764)
+ - [Build your own Umbrella Corps in Undead Inc](https://www.pcgamer.com/undead-inc-reveal-trailer-pcgs-2023)
+ - [Atlus has announced the Persona 3 remake and Persona 5 tactics spin-off that it already accidentally told us about, and shown off some slick new footage](https://www.pcgamer.com/atlus-has-announced-the-persona-3-remake-and-persona-5-tactics-spin-off-that-it-already-accidentally-told-us-about-and-shown-off-some-slick-new-footage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
