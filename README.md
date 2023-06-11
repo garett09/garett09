@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Royal Guard trying to continue playing after fainting, while another is stretched off in the background... UK&#39;s hottest day of the year so far](http://9gag.com/gag/a1PLrNY)
- - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)
- - 🚯 [Comment your collection](http://9gag.com/gag/aGE2dr7)<!-- MEMES:END -->
+ - 🚖 [One ticket to horny jail](http://9gag.com/gag/aoK8MMm)
+ - 🚯 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)
+ - 🚯 [Hello, I&#39;d like to report a murder](http://9gag.com/gag/aeQ2AKv)<!-- MEMES:END -->
 
 --- 
 
