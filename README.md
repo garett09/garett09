@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
- - 🚯 [I feel like I&#39;m going to have a performance review on Monday](http://9gag.com/gag/ap9A2X9)
- - 🚯 [Never thought this day would come](http://9gag.com/gag/a2KboQp)<!-- MEMES:END -->
+ - 🚖 [Most definitely would](http://9gag.com/gag/anzDQ9z)
+ - 🚯 [Did you know!?](http://9gag.com/gag/ago2BP1)
+ - 🚯 [Hello, I&#39;d like to report a murder](http://9gag.com/gag/aeQ2AKv)<!-- MEMES:END -->
 
 --- 
 
