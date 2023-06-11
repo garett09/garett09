@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Was it really that bad?](http://9gag.com/gag/az2Zmzz)
- - 🚯 [Those damn onions!](http://9gag.com/gag/avQvQ7b)
- - 🚯 [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)<!-- MEMES:END -->
+ - 🚖 [WTF](http://9gag.com/gag/aNwR0b4)
+ - 🚯 [Austria deer](http://9gag.com/gag/az2Z29p)
+ - 🚯 [Was it really that bad?](http://9gag.com/gag/az2Zmzz)<!-- MEMES:END -->
 
 --- 
 
