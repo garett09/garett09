@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m a photographer and I don’t care about camera quality when buying a new phone](https://www.androidauthority.com/photographer-phone-camera-quality-3330606/)
- - [Apple subreddits set to go dark to protest Reddit API charges](https://appleinsider.com/articles/23/06/11/apple-subreddits-set-to-go-dark-to-protest-reddit-api-charges?utm_medium=rss)
- - [The 10 Best Games on Xbox Game Pass &lpar;June 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)<!-- TECH:END -->
+ - [All the Apple subreddits set to go dark in protest of Reddit&#39;s API charges](https://appleinsider.com/articles/23/06/11/apple-subreddits-set-to-go-dark-to-protest-reddit-api-charges?utm_medium=rss)
+ - [Xbox Games Showcase 2023 and Starfield Direct: all the news and trailers](https://www.theverge.com/2023/6/11/23749854/xbox-showcase-2023-starfield-direct-news-trailers)
+ - [A look at LUUM, a California eyelash studio using robots with computer vision to apply eyelash extensions and planning to sell its $60K robots to other studios &lpar;Amber Ferguson/Washington Post&rpar;](http://www.techmeme.com/230611/p9#a230611p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
