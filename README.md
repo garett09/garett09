@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany&#39;s finance minister said there is no money in the budget to meet Intel&#39;s demand for &amp;euro;10B in subsidies for its &amp;euro;17B plant in Magdeburg, Germany &lpar;Guy Chazan/Financial Times&rpar;](http://www.techmeme.com/230611/p2#a230611p2)
- - [Researchers claim their model can detect academic writing from ChatGPT with 99%+ accuracy at the document level and 92% accuracy at the paragraph level &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230611/p1#a230611p1)
- - [Sources: Twitter is refusing to pay its Google Cloud bills as its contract ends on June 30, and is now planning to move off the platform altogether &lpar;Platformer&rpar;](http://www.techmeme.com/230610/p15#a230610p15)<!-- TECH:END -->
+ - [While US schools debate what to teach students about AI&#39;s promise and potential peril, universities, tech companies, and nonprofits offer ready-made curriculums &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230611/p6#a230611p6)
+ - [Talitrix Prison-Monitoring System Tracks Inmates Down to Their Heart Rate](https://www.wired.com/story/prison-wristband-talitrix-tracking/)
+ - [Verizon report: median amount lost from business email compromise is $50K in recent years and median ransomware damage doubled to $26K over the last two years &lpar;Washington Post&rpar;](http://www.techmeme.com/230611/p5#a230611p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
