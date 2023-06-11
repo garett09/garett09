@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch 45 minutes of new Starfield gameplay](https://www.theverge.com/23755072/starfield-trailer-gameplay-xbox-games-showcase-2023)
- - [Overwatch 2’s getting its first story missions and teases a new hero](https://www.theverge.com/2023/6/11/23757215/overwatch-2-story-missions-new-hero-xbox-showcase)
- - [The biggest announcements from the Xbox Games Showcase 2023 and Starfield Direct](https://www.theverge.com/2023/6/11/23757079/xbox-games-showcase-2023-starfield-direct-biggest-announcements)<!-- TECH:END -->
+ - [Activision removes another streamer’s skin from Call of Duty](https://www.theverge.com/2023/6/11/23757243/call-of-duty-timthetatman-operator-bundle-removed)
+ - [Best Speakerphone in 2023 for Working From Home     - CNET](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)
+ - [Watch 45 minutes of new Starfield gameplay](https://www.theverge.com/23755072/starfield-trailer-gameplay-xbox-games-showcase-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
