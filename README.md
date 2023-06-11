@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Sand, you&#39;ll explore the wastes of a dead planet colonized by the Austro-Hungarian empire](https://www.pcgamer.com/sand-reveal-trailer-pcgs-2023)
- - [Bloomtown looks like Stardew Valley, but with more kidnappings and psychic duels](https://www.pcgamer.com/bloomtown-reveal-trailer-pcgs-2023)
- - [Breathedge 2 is the funniest take on floating through an uncaring void I&#39;ve ever seen](https://www.pcgamer.com/breathedge-2-reveal-pcgs-2023)<!-- GAME:END -->
+ - [Another Call Of Duty Streamer&#39;s Skin Getting Removed Over Anti-LGBTQ Controversy](https://kotaku.com/timthetatman-nickmercs-call-of-duty-mm2-warzone-twitch-1850527887)
+ - [Our 9 biggest unanswered questions after the Starfield showcase](https://www.pcgamer.com/our-9-biggest-unanswered-questions-after-the-starfield-showcase)
+ - [All the premieres and reveals from the Xbox Games Showcase](https://www.pcgamer.com/all-the-premieres-and-reveals-from-the-xbox-games-showcase)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
