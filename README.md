@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [Sources: Twitter is refusing to pay its Google Cloud bills as its contract ends on June 30, and is now planning to move off the platform altogether &lpar;Platformer&rpar;](http://www.techmeme.com/230610/p15#a230610p15)
  - [The Best Cat Toys, According to Our Favorite Felines     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cat-toys/#ftag=CAD590a51e)
- - [Reddit’s users and moderators are pissed at its CEO](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)<!-- TECH:END -->
+ - [Thousands of subreddits go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
