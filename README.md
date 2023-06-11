@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Pride collection: A look back at its colorful releases](https://appleinsider.com/articles/23/06/11/apple-watch-pride-collection-a-look-back-at-its-colorful-releases?utm_medium=rss)
- - [Apple&#39;s visionOS keyboard is extremely thoughtfully designed](https://appleinsider.com/articles/23/06/11/apples-visionos-keyboard-is-extremely-thoughtfully-designed?utm_medium=rss)
- - [I rode the Apollo Phantom V3, an electric scooter that reaches 41mph](https://www.androidauthority.com/apollo-phantom-v3-review-3328232/)<!-- TECH:END -->
+ - [Persona has two new games coming to Xbox](https://www.theverge.com/23757131/persona-3-remake-persona-5-tactics-trailer-xbox-showcase)
+ - [Microsoft announces black Xbox Series S with 1TB of storage for $349](https://www.theverge.com/2023/6/11/23757097/microsoft-xbox-series-s-black-1b-storage)
+ - [Transparency mode vs open-fit: Picking the right earbuds to hear the world](https://www.androidauthority.com/transparency-mode-vs-open-fit-picking-the-right-earbuds-to-hear-the-world-3325132/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
