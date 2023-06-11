@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [40 Father’s Day Gifts for the Dependable Dude in Your Life](https://www.wired.com/gallery/best-fathers-day-gift-ideas-2023/)
  - [A University of Vienna philosopher used ChatGPT to create a 40-minute church service, including the sermon, prayers, and music, led by four AI-generated avatars &lpar;Kirsten Grieshaber/Associated Press&rpar;](http://www.techmeme.com/230611/p7#a230611p7)
- - [While US schools debate what to teach students about AI&#39;s promise and potential peril, universities, tech companies, and nonprofits offer ready-made curriculums &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230611/p6#a230611p6)
- - [Talitrix Prison-Monitoring System Tracks Inmates Down to Their Heart Rate](https://www.wired.com/story/prison-wristband-talitrix-tracking/)<!-- TECH:END -->
+ - [While US schools debate what to teach students about AI&#39;s promise and potential peril, universities, tech companies, and nonprofits offer ready-made curriculums &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230611/p6#a230611p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
