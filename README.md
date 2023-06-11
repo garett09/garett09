@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision removes another streamer’s skin from Call of Duty](https://www.theverge.com/2023/6/11/23757243/call-of-duty-timthetatman-operator-bundle-removed)
- - [Best Speakerphone in 2023 for Working From Home     - CNET](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)
- - [Watch 45 minutes of new Starfield gameplay](https://www.theverge.com/23755072/starfield-trailer-gameplay-xbox-games-showcase-2023)<!-- TECH:END -->
+ - [Researchers of tech change and employment disagree on how many jobs AI will affect; one tricky factor is primarily tasks, not occupations, are being automated &lpar;Sarah Kessler/New York Times&rpar;](http://www.techmeme.com/230611/p11#a230611p11)
+ - [Microsoft is bringing PC Game Pass to Nvidia’s GeForce Now service](https://www.theverge.com/2023/6/11/23757313/microsoft-xbox-pc-game-pass-nvidia-geforce-now)
+ - [Best Indoor Security Cameras for 2023     - CNET](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
