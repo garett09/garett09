@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Enter here for a chance to win a one month PC Game Pass membership](https://www.pcgamer.com/win)
- - [Enter here for a chance to win a Park Beyond Collector&#39;s Edition](https://www.pcgamer.com/park)
- - [Back in Black, Xbox Series S is Now Available with a 1TB SSD](https://news.xbox.com/en-us/2023/06/11/xbox-series-s-1tb-black/)<!-- GAME:END -->
+ - [Idris Elba is my best friend in Cyberpunk 2077 Phantom Liberty, and we&#39;re gonna save the president](https://www.pcgamer.com/idris-elba-is-my-best-friend-in-cyberpunk-2077-phantom-liberty-and-were-gonna-save-the-president)
+ - [Going Hands-on With Cyberpunk 2077: Phantom Liberty](https://news.xbox.com/en-us/2023/06/11/going-hands-on-with-cyberpunk-2077-phantom-liberty/)
+ - [Hands-On: Phantom Liberty Is What Cyberpunk 2077 Wished It Could&#39;ve Been](https://kotaku.com/cyberpunk-2077-phantom-liberty-idris-elba-price-preview-1850526234)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
