@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best thrillers to watch on Netflix in June](https://www.polygon.com/what-to-watch/23749324/best-thriller-movies-netflix-watch-june-2023)
  - [How to watch the Starfield Direct](https://www.pcgamer.com/starfield-direct-livestream-watch)
- - [How to watch the Xbox Games Showcase 2023](https://www.pcgamer.com/xbox-games-showcase-2023-livestream)
- - [At last, Midnight Suns got a New Game+ update that lets you keep your cards](https://www.pcgamer.com/at-last-midnight-suns-got-a-new-game-update-that-lets-you-keep-your-cards)<!-- GAME:END -->
+ - [How to watch the Xbox Games Showcase 2023](https://www.pcgamer.com/xbox-games-showcase-2023-livestream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
