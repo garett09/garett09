@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s how sexists get pregnant](http://9gag.com/gag/az2Zxqb)
- - 🚯 [Never change, Japan](http://9gag.com/gag/ago2AL1)
- - 🚯 [Inspiring \ud83d\udc4f\ud83c\udf20](http://9gag.com/gag/aGE2E85)<!-- MEMES:END -->
+ - 🚖 [Comment your collection](http://9gag.com/gag/aGE2dr7)
+ - 🚯 [Peak masculinity](http://9gag.com/gag/aKEYmO3)
+ - 🚯 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)<!-- MEMES:END -->
 
 --- 
 
