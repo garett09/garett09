@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s what to expect from the updated D&amp;D rulebooks coming next year](https://www.pcgamer.com/heres-what-to-expect-from-the-updated-dandd-rulebooks-coming-next-year)
- - [Our 11 favorite trailers from the 2023 Future Games Show Summer Showcase](https://www.pcgamer.com/our-11-favorite-trailers-from-the-2023-future-games-show-summer-showcase)
- - [I told you guys Lords of the Fallen looked cool](https://www.pcgamer.com/i-told-you-guys-lords-of-the-fallen-looked-cool)<!-- GAME:END -->
+ - [The greatest hat in all Diablo has surfaced in Diablo 4](https://www.pcgamer.com/the-greatest-hat-in-all-diablo-has-surfaced-in-diablo-4)
+ - [In 1997, horror game Haunted Casino tried to scare us chipless](https://www.pcgamer.com/saturday-crapshoot-haunted-casino)
+ - [Here&#39;s what to expect from the updated D&amp;D rulebooks coming next year](https://www.pcgamer.com/heres-what-to-expect-from-the-updated-dandd-rulebooks-coming-next-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
