@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holy music stop](http://9gag.com/gag/ajVKEnw)
- - 🚯 [Very hard choice](http://9gag.com/gag/aBdX8nO)
- - 🚯 [You don&#39;t mind if my family joins us on the Blind Date, do you ?](http://9gag.com/gag/aqeznnp)<!-- MEMES:END -->
+ - 🚖 [A Royal Guard trying to continue playing after fainting, while another is stretched off in the background... UK&#39;s hottest day of the year so far](http://9gag.com/gag/a1PLrNY)
+ - 🚯 [I need a captain to explain what he did.](http://9gag.com/gag/awZ4BOx)
+ - 🚯 [The Chosen One](http://9gag.com/gag/a5XjWgG)<!-- MEMES:END -->
 
 --- 
 
