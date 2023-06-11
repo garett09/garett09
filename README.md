@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most definitely would](http://9gag.com/gag/anzDQ9z)
+ - 🚖 [Holy music stop](http://9gag.com/gag/ajVKEnw)
  - 🚯 [Did you know!?](http://9gag.com/gag/ago2BP1)
- - 🚯 [Hello, I&#39;d like to report a murder](http://9gag.com/gag/aeQ2AKv)<!-- MEMES:END -->
+ - 🚯 [Laughing, chilling, putting faith in Justice systems](http://9gag.com/gag/anzD550)<!-- MEMES:END -->
 
 --- 
 
