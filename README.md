@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn, which launched a skills-matching feature in February 2023, says 45%+ of recruiters on the social network now search for candidates using skills data &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/230611/p8#a230611p8)
- - [Poll: IPX8 or IP52, which rating is better for foldables?](https://www.androidauthority.com/foldable-ingress-protection-ip52-ipx8-3331866/)
- - [10 Best Grills &lpar;2023&rpar;: Charcoal, Gas, Pellet, Hybrid, and Grilling Accessories](https://www.wired.com/gallery/best-grills/)<!-- TECH:END -->
+ - [The 10 Best Games on Xbox Game Pass &lpar;June 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)
+ - [9 Best Mesh Wi-Fi Routers &lpar;2023&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [The 15 Best Games on PlayStation Plus](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
