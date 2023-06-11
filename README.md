@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unveiling of the \u201cquantum processor\u201d produced by the Iranian army](http://9gag.com/gag/aRE211Q)
- - 🚯 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)
- - 🚯 [Sir, common sense is not welcome here](http://9gag.com/gag/abv2MLX)<!-- MEMES:END -->
+ - 🚖 [Hello, I&#39;d like to report a murder](http://9gag.com/gag/aeQ2AKv)
+ - 🚯 [Lucy Liu is 45](http://9gag.com/gag/adP2VBd)
+ - 🚯 [Comment your collection](http://9gag.com/gag/aGE2dr7)<!-- MEMES:END -->
 
 --- 
 
