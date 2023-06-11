@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One ticket to horny jail](http://9gag.com/gag/aoK8MMm)
- - 🚯 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)
- - 🚯 [Hello, I&#39;d like to report a murder](http://9gag.com/gag/aeQ2AKv)<!-- MEMES:END -->
+ - 🚖 [Unveiling of the \u201cquantum processor\u201d produced by the Iranian army](http://9gag.com/gag/aRE211Q)
+ - 🚯 [Holy music stop](http://9gag.com/gag/ajVKEnw)
+ - 🚯 [Most definitely would](http://9gag.com/gag/anzDQ9z)<!-- MEMES:END -->
 
 --- 
 
