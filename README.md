@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [A Royal Guard trying to continue playing after fainting, while another is stretched off in the background... UK&#39;s hottest day of the year so far](http://9gag.com/gag/a1PLrNY)
- - 🚯 [I need a captain to explain what he did.](http://9gag.com/gag/awZ4BOx)
- - 🚯 [The Chosen One](http://9gag.com/gag/a5XjWgG)<!-- MEMES:END -->
+ - 🚯 [Never thought this day would come](http://9gag.com/gag/a2KboQp)
+ - 🚯 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)<!-- MEMES:END -->
 
 --- 
 
