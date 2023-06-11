@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holy music stop](http://9gag.com/gag/ajVKEnw)
- - 🚯 [Did you know!?](http://9gag.com/gag/ago2BP1)
- - 🚯 [Laughing, chilling, putting faith in Justice systems](http://9gag.com/gag/anzD550)<!-- MEMES:END -->
+ - 🚖 [Unveiling of the \u201cquantum processor\u201d produced by the Iranian army](http://9gag.com/gag/aRE211Q)
+ - 🚯 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)
+ - 🚯 [Sir, common sense is not welcome here](http://9gag.com/gag/abv2MLX)<!-- MEMES:END -->
 
 --- 
 
