@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A University of Vienna philosopher used ChatGPT to create a 40-minute church service, including the sermon, prayers, and music, led by four AI-generated avatars &lpar;Kirsten Grieshaber/Associated Press&rpar;](http://www.techmeme.com/230611/p7#a230611p7)
  - [While US schools debate what to teach students about AI&#39;s promise and potential peril, universities, tech companies, and nonprofits offer ready-made curriculums &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/230611/p6#a230611p6)
- - [Talitrix Prison-Monitoring System Tracks Inmates Down to Their Heart Rate](https://www.wired.com/story/prison-wristband-talitrix-tracking/)
- - [Verizon report: median amount lost from business email compromise is $50K in recent years and median ransomware damage doubled to $26K over the last two years &lpar;Washington Post&rpar;](http://www.techmeme.com/230611/p5#a230611p5)<!-- TECH:END -->
+ - [Talitrix Prison-Monitoring System Tracks Inmates Down to Their Heart Rate](https://www.wired.com/story/prison-wristband-talitrix-tracking/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
