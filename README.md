@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Was it really that bad?](http://9gag.com/gag/az2Zmzz)
- - 🚯 [Comment your collection](http://9gag.com/gag/aGE2dr7)
- - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)<!-- MEMES:END -->
+ - 🚖 [I&#39;m sorry, what sign is this?](http://9gag.com/gag/a2KbWxE)
+ - 🚯 [Laughing, chilling, putting faith in Justice systems](http://9gag.com/gag/anzD550)
+ - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
 
 --- 
 
