@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Never Have I Ever season 4 does right by its best love story](https://www.polygon.com/23755500/never-have-i-ever-season-4-love-story-mother-daughter)
  - [The best thrillers to watch on Netflix in June](https://www.polygon.com/what-to-watch/23749324/best-thriller-movies-netflix-watch-june-2023)
- - [How to watch the Starfield Direct](https://www.pcgamer.com/starfield-direct-livestream-watch)
- - [How to watch the Xbox Games Showcase 2023](https://www.pcgamer.com/xbox-games-showcase-2023-livestream)<!-- GAME:END -->
+ - [How to watch the Starfield Direct](https://www.pcgamer.com/starfield-direct-livestream-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
