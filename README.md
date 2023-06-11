@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)
- - 🚯 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
- - 🚯 [I feel like I&#39;m going to have a performance review on Monday](http://9gag.com/gag/ap9A2X9)<!-- MEMES:END -->
+ - 🚖 [A Royal Guard trying to continue playing after fainting, while another is stretched off in the background... UK&#39;s hottest day of the year so far](http://9gag.com/gag/a1PLrNY)
+ - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)
+ - 🚯 [Comment your collection](http://9gag.com/gag/aGE2dr7)<!-- MEMES:END -->
 
 --- 
 
