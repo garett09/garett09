@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hello, I&#39;d like to report a murder](http://9gag.com/gag/aeQ2AKv)
- - 🚯 [Lucy Liu is 45](http://9gag.com/gag/adP2VBd)
- - 🚯 [Comment your collection](http://9gag.com/gag/aGE2dr7)<!-- MEMES:END -->
+ - 🚖 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
+ - 🚯 [I&#39;m sorry, what sign is this?](http://9gag.com/gag/a2KbWxE)
+ - 🚯 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)<!-- MEMES:END -->
 
 --- 
 
