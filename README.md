@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 Best Games on Xbox Game Pass &lpar;June 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)
- - [9 Best Mesh Wi-Fi Routers &lpar;2023&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [The 15 Best Games on PlayStation Plus](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)<!-- TECH:END -->
+ - [I’m a photographer and I don’t care about camera quality when buying a new phone](https://www.androidauthority.com/photographer-phone-camera-quality-3330606/)
+ - [Apple subreddits set to go dark to protest Reddit API charges](https://appleinsider.com/articles/23/06/11/apple-subreddits-set-to-go-dark-to-protest-reddit-api-charges?utm_medium=rss)
+ - [The 10 Best Games on Xbox Game Pass &lpar;June 2023&rpar;](https://www.wired.com/gallery/best-xbox-game-pass-games/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
