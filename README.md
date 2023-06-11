@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I&#39;m sorry, what sign is this?](http://9gag.com/gag/a2KbWxE)
- - 🚯 [Laughing, chilling, putting faith in Justice systems](http://9gag.com/gag/anzD550)
- - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
+ - 🚯 [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)
+ - 🚯 [Drone killing wasps](http://9gag.com/gag/aoK8PY2)<!-- MEMES:END -->
 
 --- 
 
