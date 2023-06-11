@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man’s memed ’60s cartoon shares a credo with Across the Spider-Verse](https://www.polygon.com/23755233/spider-man-cartoon-1967-across-the-spider-verse-connection)
- - [Warhammer 40K’s 10th edition still has political satire in its pages](https://www.polygon.com/23755602/warhammer-40k-satire-tenth-edition-politics-tyranid-war)
- - [What If Max Payne, But Shooting Vampires In Slo-Mo Instead?](https://kotaku.com/el-paso-elsewhere-max-payne-bullet-time-shooter-1850524788)<!-- GAME:END -->
+ - [South of Midnight: The Hidden Details in that Gorgeous Reveal Trailer – Exclusive Interview](https://news.xbox.com/en-us/2023/06/11/south-of-midnight-interview-details/)
+ - [How to watch the PC Gaming Show](https://www.polygon.com/23757070/pc-gaming-show-2023-livestream-date-start-time)
+ - [Spider-Man’s memed ’60s cartoon shares a credo with Across the Spider-Verse](https://www.polygon.com/23755233/spider-man-cartoon-1967-across-the-spider-verse-connection)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
