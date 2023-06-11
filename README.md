@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Persona has two new games coming to Xbox](https://www.theverge.com/23757131/persona-3-remake-persona-5-tactics-trailer-xbox-showcase)
- - [Microsoft announces black Xbox Series S with 1TB of storage for $349](https://www.theverge.com/2023/6/11/23757097/microsoft-xbox-series-s-black-1b-storage)
- - [Transparency mode vs open-fit: Picking the right earbuds to hear the world](https://www.androidauthority.com/transparency-mode-vs-open-fit-picking-the-right-earbuds-to-hear-the-world-3325132/)<!-- TECH:END -->
+ - [Like A Dragon sequel trailer shows off Ichiban’s best assets](https://www.theverge.com/23757138/like-a-dragon-sequel-trailer-xbox-showcase)
+ - [Clockwork Revolution is a new steampunk RPG from Microsoft’s inXile](https://www.theverge.com/2023/6/11/23757176/clockwork-revolution-microsoft-inxile-xbox-games-showcase-trailer)
+ - [Persona has two new games coming to Xbox](https://www.theverge.com/23757131/persona-3-remake-persona-5-tactics-trailer-xbox-showcase)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
