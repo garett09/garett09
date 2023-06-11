@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Idris Elba is my best friend in Cyberpunk 2077 Phantom Liberty, and we&#39;re gonna save the president](https://www.pcgamer.com/idris-elba-is-my-best-friend-in-cyberpunk-2077-phantom-liberty-and-were-gonna-save-the-president)
- - [Going Hands-on With Cyberpunk 2077: Phantom Liberty](https://news.xbox.com/en-us/2023/06/11/going-hands-on-with-cyberpunk-2077-phantom-liberty/)
- - [Hands-On: Phantom Liberty Is What Cyberpunk 2077 Wished It Could&#39;ve Been](https://kotaku.com/cyberpunk-2077-phantom-liberty-idris-elba-price-preview-1850526234)<!-- GAME:END -->
+ - [You Won’t Have To Buy Cyberpunk 2077’s New Expansion To Play Some Of Its Best Stuff](https://kotaku.com/cyberpunk-2077-phantom-liberty-skill-tree-update-idris-1850527686)
+ - [No, Bethesda, I do not want to kiss any of Starfield&#39;s glassy-eyed companions](https://www.pcgamer.com/no-bethesda-i-do-not-want-to-kiss-any-of-starfields-glassy-eyed-companions)
+ - [Microsoft Flight Simulator 2024 is a whole new game that lets you douse wildfires and rescue lost hikers](https://www.pcgamer.com/microsoft-flight-simulator-2024-is-a-whole-new-game-that-lets-you-douse-wildfires-and-rescue-lost-hikers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
