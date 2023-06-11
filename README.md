@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [South of Midnight: The Hidden Details in that Gorgeous Reveal Trailer – Exclusive Interview](https://news.xbox.com/en-us/2023/06/11/south-of-midnight-interview-details/)
- - [How to watch the PC Gaming Show](https://www.polygon.com/23757070/pc-gaming-show-2023-livestream-date-start-time)
- - [Spider-Man’s memed ’60s cartoon shares a credo with Across the Spider-Verse](https://www.polygon.com/23755233/spider-man-cartoon-1967-across-the-spider-verse-connection)<!-- GAME:END -->
+ - [Enter here for a chance to win a one month PC Game Pass membership](https://www.pcgamer.com/win)
+ - [Enter here for a chance to win a Park Beyond Collector&#39;s Edition](https://www.pcgamer.com/park)
+ - [Back in Black, Xbox Series S is Now Available with a 1TB SSD](https://news.xbox.com/en-us/2023/06/11/xbox-series-s-1tb-black/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
