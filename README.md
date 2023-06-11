@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox&#39;s Last Big Exclusive Was Missing From Showcase After Getting Panned](https://kotaku.com/xbox-showcase-redfall-60fps-update-metacritic-game-pass-1850527764)
- - [Build your own Umbrella Corps in Undead Inc](https://www.pcgamer.com/undead-inc-reveal-trailer-pcgs-2023)
- - [Atlus has announced the Persona 3 remake and Persona 5 tactics spin-off that it already accidentally told us about, and shown off some slick new footage](https://www.pcgamer.com/atlus-has-announced-the-persona-3-remake-and-persona-5-tactics-spin-off-that-it-already-accidentally-told-us-about-and-shown-off-some-slick-new-footage)<!-- GAME:END -->
+ - [In Sand, you&#39;ll explore the wastes of a dead planet colonized by the Austro-Hungarian empire](https://www.pcgamer.com/sand-reveal-trailer-pcgs-2023)
+ - [Bloomtown looks like Stardew Valley, but with more kidnappings and psychic duels](https://www.pcgamer.com/bloomtown-reveal-trailer-pcgs-2023)
+ - [Breathedge 2 is the funniest take on floating through an uncaring void I&#39;ve ever seen](https://www.pcgamer.com/breathedge-2-reveal-pcgs-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
