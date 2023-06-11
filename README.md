@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to watch the Xbox Games Showcase 2023](https://www.pcgamer.com/xbox-games-showcase-2023-livestream)
  - [At last, Midnight Suns got a New Game+ update that lets you keep your cards](https://www.pcgamer.com/at-last-midnight-suns-got-a-new-game-update-that-lets-you-keep-your-cards)
- - [You can play a demo of the &#39;Aussie Fallout&#39; CRPG Broken Roads on Steam](https://www.pcgamer.com/you-can-play-a-demo-of-the-aussie-fallout-crpg-broken-roads-on-steam)
- - [Today&#39;s Wordle hint and answer #722: Sunday, June 11](https://www.pcgamer.com/wordle-answer-today-hint-722-june-11)<!-- GAME:END -->
+ - [You can play a demo of the &#39;Aussie Fallout&#39; CRPG Broken Roads on Steam](https://www.pcgamer.com/you-can-play-a-demo-of-the-aussie-fallout-crpg-broken-roads-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
