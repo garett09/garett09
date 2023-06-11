@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Royal Guard trying to continue playing after fainting, while another is stretched off in the background... UK&#39;s hottest day of the year so far](http://9gag.com/gag/a1PLrNY)
- - 🚯 [Never thought this day would come](http://9gag.com/gag/a2KboQp)
- - 🚯 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)<!-- MEMES:END -->
+ - 🚖 [WTF](http://9gag.com/gag/aNwR0b4)
+ - 🚯 [Laughing, chilling, putting faith in Justice systems](http://9gag.com/gag/anzD550)
+ - 🚯 [Attention Sweden, France, UK, EU, Canada, USA and most countries in the west... learn the bloody difference!](http://9gag.com/gag/aEqX22e)<!-- MEMES:END -->
 
 --- 
 
