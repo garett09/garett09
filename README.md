@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [At last, Midnight Suns got a New Game+ update that lets you keep your cards](https://www.pcgamer.com/at-last-midnight-suns-got-a-new-game-update-that-lets-you-keep-your-cards)
  - [You can play a demo of the &#39;Aussie Fallout&#39; CRPG Broken Roads on Steam](https://www.pcgamer.com/you-can-play-a-demo-of-the-aussie-fallout-crpg-broken-roads-on-steam)
- - [Today&#39;s Wordle hint and answer #722: Sunday, June 11](https://www.pcgamer.com/wordle-answer-today-hint-722-june-11)
- - [The greatest hat in all Diablo has surfaced in Diablo 4](https://www.pcgamer.com/the-greatest-hat-in-all-diablo-has-surfaced-in-diablo-4)<!-- GAME:END -->
+ - [Today&#39;s Wordle hint and answer #722: Sunday, June 11](https://www.pcgamer.com/wordle-answer-today-hint-722-june-11)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
