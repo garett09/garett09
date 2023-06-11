@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF](http://9gag.com/gag/aNwR0b4)
- - 🚯 [Austria deer](http://9gag.com/gag/az2Z29p)
- - 🚯 [Was it really that bad?](http://9gag.com/gag/az2Zmzz)<!-- MEMES:END -->
+ - 🚖 [Was it really that bad?](http://9gag.com/gag/az2Zmzz)
+ - 🚯 [Comment your collection](http://9gag.com/gag/aGE2dr7)
+ - 🚯 [Rottweiler and owner face-off](http://9gag.com/gag/aVb2Yy2)<!-- MEMES:END -->
 
 --- 
 
