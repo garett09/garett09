@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The greatest hat in all Diablo has surfaced in Diablo 4](https://www.pcgamer.com/the-greatest-hat-in-all-diablo-has-surfaced-in-diablo-4)
- - [In 1997, horror game Haunted Casino tried to scare us chipless](https://www.pcgamer.com/saturday-crapshoot-haunted-casino)
- - [Here&#39;s what to expect from the updated D&amp;D rulebooks coming next year](https://www.pcgamer.com/heres-what-to-expect-from-the-updated-dandd-rulebooks-coming-next-year)<!-- GAME:END -->
+ - [You can play a demo of the &#39;Aussie Fallout&#39; CRPG Broken Roads on Steam](https://www.pcgamer.com/you-can-play-a-demo-of-the-aussie-fallout-crpg-broken-roads-on-steam)
+ - [Today&#39;s Wordle hint and answer #722: Sunday, June 11](https://www.pcgamer.com/wordle-answer-today-hint-722-june-11)
+ - [The greatest hat in all Diablo has surfaced in Diablo 4](https://www.pcgamer.com/the-greatest-hat-in-all-diablo-has-surfaced-in-diablo-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
