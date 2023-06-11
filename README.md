@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very hard choice](http://9gag.com/gag/aBdX8nO)
- - 🚯 [Did you know!?](http://9gag.com/gag/ago2BP1)
- - 🚯 [Lucy Liu is 45](http://9gag.com/gag/adP2VBd)<!-- MEMES:END -->
+ - 🚖 [Holy music stop](http://9gag.com/gag/ajVKEnw)
+ - 🚯 [Very hard choice](http://9gag.com/gag/aBdX8nO)
+ - 🚯 [You don&#39;t mind if my family joins us on the Blind Date, do you ?](http://9gag.com/gag/aqeznnp)<!-- MEMES:END -->
 
 --- 
 
