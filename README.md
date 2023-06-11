@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unveiling of the \u201cquantum processor\u201d produced by the Iranian army](http://9gag.com/gag/aRE211Q)
- - 🚯 [Holy music stop](http://9gag.com/gag/ajVKEnw)
- - 🚯 [Most definitely would](http://9gag.com/gag/anzDQ9z)<!-- MEMES:END -->
+ - 🚖 [Very hard choice](http://9gag.com/gag/aBdX8nO)
+ - 🚯 [Did you know!?](http://9gag.com/gag/ago2BP1)
+ - 🚯 [Lucy Liu is 45](http://9gag.com/gag/adP2VBd)<!-- MEMES:END -->
 
 --- 
 
