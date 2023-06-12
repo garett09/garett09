@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cyberpunk dystopia](http://9gag.com/gag/awZ43o8)
- - 🚯 [Sweden!](http://9gag.com/gag/adP2vZD)
- - 🚯 [Audience singing along with Dido](http://9gag.com/gag/a9qXqQ6)<!-- MEMES:END -->
+ - 🚖 [One ticket to horny jail](http://9gag.com/gag/aoK8MMm)
+ - 🚯 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)
+ - 🚯 [Most definitely would](http://9gag.com/gag/anzDQ9z)<!-- MEMES:END -->
 
 --- 
 
