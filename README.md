@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)
- - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
- - 🚯 [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)<!-- MEMES:END -->
+ - 🚖 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)
+ - 🚯 [If you know. You know.](http://9gag.com/gag/aZD21en)
+ - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
 
 --- 
 
