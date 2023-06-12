@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Those damn onions!](http://9gag.com/gag/avQvQ7b)
  - 🚯 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)
- - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
+ - 🚯 [Playing relationship games](http://9gag.com/gag/adP2Pwd)<!-- MEMES:END -->
 
 --- 
 
