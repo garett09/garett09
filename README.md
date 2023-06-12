@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Price cuts knock up to $300 off iPads, Apple Watch &amp; MacBook Pros at Amazon](https://appleinsider.com/articles/23/06/12/price-cuts-knock-up-to-300-off-ipads-apple-watch-macbook-pros-at-amazon?utm_medium=rss)
- - [Mac Studio review roundup: The Pro&#39;s choice](https://appleinsider.com/articles/23/06/12/mac-studio-review-roundup-the-pros-choice?utm_medium=rss)
- - [M2 Ultra Mac Studio review: a small, fast, efficient, and quiet desktop Mac that has decent ports and is a much better deal than the new Mac Pro for most users &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230612/p23#a230612p23)<!-- TECH:END -->
+ - [How to control what boots up on your Mac](https://www.theverge.com/23757939/mac-apple-apps-boot-how-to)
+ - [Google’s Search Generative Experience tested: A Bing competitor at long last](https://www.androidauthority.com/google-search-generative-experience-tested-3333863/)
+ - [Samsung is working with Google to bring apps to Galaxy Z Flip 5’s cover display](https://www.androidauthority.com/galaxy-z-flip-5-cover-display-apps-3334209/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
