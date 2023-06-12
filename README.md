@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get started with macOS AppleScript: dictionaries, syntax, and more](https://appleinsider.com/inside/macos/tips/how-to-get-started-with-macos-applescript-dictionaries-syntax-and-more?utm_medium=rss)
- - [Sources: the Dutch government is working on legislation to bar Chinese students from university programs on sensitive tech, including chips and defense &lpar;Bloomberg&rpar;](http://www.techmeme.com/230612/p8#a230612p8)
- - [An Anti-Porn App Put Him in Jail and His Family Under Surveillance](https://www.wired.com/story/anti-porn-covenant-eyes-bond-revoked/)<!-- TECH:END -->
+ - [What the Scientists Who Pioneered Weight-Loss Drugs Want You to Know](https://www.wired.com/story/obesity-drugs-researcher-interview-ozempic-wegovy/)
+ - [Sony refuses to increase Vision Pro screen production capacity for Apple](https://appleinsider.com/articles/23/06/12/sony-refuses-to-increase-vision-pro-screen-production-capacity-for-apple?utm_medium=rss)
+ - [15-inch MacBook Air vs 14-inch and 16-inch MacBook Pro  -- compared](https://appleinsider.com/inside/macbook-air/vs/15-inch-macbook-air-vs-14-inch-and-16-inch-macbook-pro----compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
