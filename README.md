@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One ticket to horny jail](http://9gag.com/gag/aoK8MMm)
- - 🚯 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)
- - 🚯 [Comment your collection](http://9gag.com/gag/aGE2dr7)<!-- MEMES:END -->
+ - 🚖 [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)
+ - 🚯 [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)
+ - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
 
 --- 
 
