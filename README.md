@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [K.I.S.S.](http://9gag.com/gag/ajVK5gw)
- - 🚯 [Those damn onions!](http://9gag.com/gag/avQvQ7b)
- - 🚯 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)<!-- MEMES:END -->
+ - 🚖 [One ticket to horny jail](http://9gag.com/gag/aoK8MMm)
+ - 🚯 [A Civilian in the US owns this Gun. Legally. Shoots 24,000 rounds per minute](http://9gag.com/gag/a8qwG3d)
+ - 🚯 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)<!-- MEMES:END -->
 
 --- 
 
