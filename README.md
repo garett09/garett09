@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Comment your collection](http://9gag.com/gag/aGE2dr7)
- - 🚯 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)
- - 🚯 [Permanent ?](http://9gag.com/gag/aRE2EpM)<!-- MEMES:END -->
+ - 🚖 [One ticket to horny jail](http://9gag.com/gag/aoK8MMm)
+ - 🚯 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)
+ - 🚯 [Comment your collection](http://9gag.com/gag/aGE2dr7)<!-- MEMES:END -->
 
 --- 
 
