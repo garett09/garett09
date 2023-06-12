@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit starts crashing as subreddit blackout keeps growing](https://www.theverge.com/2023/6/12/23758002/reddit-crashing-api-protest-subreddit-private-going-dark)
- - [15-inch MacBook Air review roundup: Big screen, big value](https://appleinsider.com/articles/23/06/12/15-inch-macbook-air-review-roundup-big-screen-big-value?utm_medium=rss)
- - [Samsung Galaxy Tab S9 release date: When is the next Android tablet coming?](https://www.androidauthority.com/samsung-galaxy-tab-s9-release-date-3334008/)<!-- TECH:END -->
+ - [Reddit protest updates: all the news about the API changes infuriating Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)
+ - [All the news from Ubisoft Forward 2023](https://www.theverge.com/2023/6/12/23757993/ubisoft-forward-2023-news-annoucements-trailers)
+ - [2023 Mac Studio vs 2022 Mac Studio - compared](https://appleinsider.com/inside/mac-studio/vs/2023-mac-studio-vs-2022-mac-studio---compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
