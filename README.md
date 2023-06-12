@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never change, Japan](http://9gag.com/gag/ago2AL1)
- - 🚯 [Sweden!](http://9gag.com/gag/adP2vZD)
- - 🚯 [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)<!-- MEMES:END -->
+ - 🚖 [Comment your collection](http://9gag.com/gag/aGE2dr7)
+ - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
+ - 🚯 [Collect all five to summon the forbidden one..](http://9gag.com/gag/a9qXzn0)<!-- MEMES:END -->
 
 --- 
 
