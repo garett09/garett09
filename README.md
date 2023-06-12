@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)
- - 🚯 [If you know. You know.](http://9gag.com/gag/aZD21en)
- - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
+ - 🚖 [Playing relationship games](http://9gag.com/gag/adP2Pwd)
+ - 🚯 [Patience is hard. Traffic is hard.](http://9gag.com/gag/aBdX2bD)
+ - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
 
 --- 
 
