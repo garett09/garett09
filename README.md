@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boston-based CloudZero, a cloud cost management startup, raised a $32M Series B led by Innovius Capital and Threshold Ventures, taking its total raised to $52M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230612/p29#a230612p29)
- - [Apple share price closes at an all-time record high thanks to Vision Pro speculation](https://appleinsider.com/articles/23/06/12/apple-share-price-closes-at-an-all-time-record-high-thanks-to-vision-pro-speculation?utm_medium=rss)
- - [PlayStation Plus Deals: Get Sony&#39;s Gaming Subscription for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5 release date: Is it official?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-3334244/)
+ - [Vendors allege Hippocratic AI co-founder&#39;s former startup Health IQ, which faces a fraud lawsuit, owes millions; Hippocratic AI raised $50M from a16z and others &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/230612/p30#a230612p30)
+ - [The biggest news and trailers from Capcom Showcase 2023](https://www.theverge.com/2023/6/12/23758032/capcom-showcase-2023-news-trailers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
