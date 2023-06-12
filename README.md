@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)
- - 🚯 [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)
- - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
+ - 🚖 [Never change, Japan](http://9gag.com/gag/ago2AL1)
+ - 🚯 [Sweden!](http://9gag.com/gag/adP2vZD)
+ - 🚯 [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)<!-- MEMES:END -->
 
 --- 
 
