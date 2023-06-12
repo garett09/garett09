@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Air &lpar;15-inch&rpar; review: big screen, thin and light chassis, excellent trackpad, keyboard, performance, and battery, but limited ports and upgradability &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230612/p14#a230612p14)
  - [macOS Sonoma beta review: Few major updates, but very welcome](https://appleinsider.com/articles/23/06/12/macos-sonoma-beta-review-few-major-updates-but-very-welcome?utm_medium=rss)
- - [10 Best Wi-Fi Routers &lpar;2023&rpar;: Budget, Gaming Routers, Large Homes, Mesh](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
+ - [Salesforce renames its AI tools portfolio to AI Cloud, plans to roll out AI features in summer, and doubles its generative AI fund, announced in March, to $500M &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230612/p17#a230612p17)
+ - [A writer who learned to code after losing his job reflects on AI chatbots, which repackage ideas and lack lateral thinking, and why humans are irreplaceable &lpar;Tristan Cross/The Guardian&rpar;](http://www.techmeme.com/230612/p16#a230612p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
