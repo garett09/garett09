@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
- - [Oracle reports Q4 revenue up 17% YoY to $13.84B, vs. $13.73B est., cloud services and license support revenues up 23% YoY to $9.4B, and net income up 4% YoY &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/230612/p28#a230612p28)
- - [The US FTC files for a temporary restraining order and preliminary injunction to block Microsoft&#39;s acquisition of Activision Blizzard &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230612/p27#a230612p27)<!-- TECH:END -->
+ - [Boston-based CloudZero, a cloud cost management startup, raised a $32M Series B led by Innovius Capital and Threshold Ventures, taking its total raised to $52M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230612/p29#a230612p29)
+ - [Apple share price closes at an all-time record high thanks to Vision Pro speculation](https://appleinsider.com/articles/23/06/12/apple-share-price-closes-at-an-all-time-record-high-thanks-to-vision-pro-speculation?utm_medium=rss)
+ - [PlayStation Plus Deals: Get Sony&#39;s Gaming Subscription for Less     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
