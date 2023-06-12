@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)
- - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
- - 🚯 [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)<!-- MEMES:END -->
+ - 🚯 [Permanent ?](http://9gag.com/gag/aRE2EpM)
+ - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
 
 --- 
 
