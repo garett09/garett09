@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit protest updates: all the news about the API changes infuriating Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)
- - [All the news from Ubisoft Forward 2023](https://www.theverge.com/2023/6/12/23757993/ubisoft-forward-2023-news-annoucements-trailers)
- - [2023 Mac Studio vs 2022 Mac Studio - compared](https://appleinsider.com/inside/mac-studio/vs/2023-mac-studio-vs-2022-mac-studio---compared?utm_medium=rss)<!-- TECH:END -->
+ - [Former Samsung exec allegedly stole blueprints to build a factory a mile away](https://www.androidauthority.com/samsung-exec-arrest-3334139/)
+ - [iOS 17 features: Everything new that Apple has added to the iPhone’s OS](https://www.androidauthority.com/ios-17-features-3333516/)
+ - [OnePlus Nord 3 official-looking press images leak, launch must be imminent](https://www.androidauthority.com/oneplus-nord-3-press-images-3334178/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
