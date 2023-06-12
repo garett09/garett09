@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Playing relationship games](http://9gag.com/gag/adP2Pwd)
- - 🚯 [Patience is hard. Traffic is hard.](http://9gag.com/gag/aBdX2bD)
- - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
+ - 🚖 [Peak masculinity](http://9gag.com/gag/aKEYmO3)
+ - 🚯 [Sweden!](http://9gag.com/gag/adP2vZD)
+ - 🚯 [Some quality content right there](http://9gag.com/gag/aRE2XbA)<!-- MEMES:END -->
 
 --- 
 
