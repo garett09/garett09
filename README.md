@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good praise creates great rewards](http://9gag.com/gag/aPgXRbw)
- - 🚯 [Quite the foresight...](http://9gag.com/gag/abv2Gm8)
- - 🚯 [Playing relationship games](http://9gag.com/gag/adP2Pwd)<!-- MEMES:END -->
+ - 🚖 [Looks like a successful hit](http://9gag.com/gag/aVb2vmw)
+ - 🚯 [Inspiring \ud83d\udc4f\ud83c\udf20](http://9gag.com/gag/aGE2E85)
+ - 🚯 [Men&#39;s brain works diffrently](http://9gag.com/gag/aRE2Le2)<!-- MEMES:END -->
 
 --- 
 
