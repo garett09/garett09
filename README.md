@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Comment your collection](http://9gag.com/gag/aGE2dr7)
+ - 🚖 [Collect all five to summon the forbidden one..](http://9gag.com/gag/a9qXzn0)
  - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
- - 🚯 [Collect all five to summon the forbidden one..](http://9gag.com/gag/a9qXzn0)<!-- MEMES:END -->
+ - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
 
 --- 
 
