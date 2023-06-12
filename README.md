@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Comment your collection](http://9gag.com/gag/aGE2dr7)
- - 🚯 [Peak masculinity](http://9gag.com/gag/aKEYmO3)
- - 🚯 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)<!-- MEMES:END -->
+ - 🚖 [Those damn onions!](http://9gag.com/gag/avQvQ7b)
+ - 🚯 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)
+ - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
 
 --- 
 
