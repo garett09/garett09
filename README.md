@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Peak masculinity](http://9gag.com/gag/aKEYmO3)
- - 🚯 [Sweden!](http://9gag.com/gag/adP2vZD)
- - 🚯 [Some quality content right there](http://9gag.com/gag/aRE2XbA)<!-- MEMES:END -->
+ - 🚖 [Wait for it](http://9gag.com/gag/aoK8W22)
+ - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)
+ - 🚯 [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)<!-- MEMES:END -->
 
 --- 
 
