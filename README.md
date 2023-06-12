@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft will bring select games on PC Game Pass to Nvidia&#39;s GeForce Now in the coming months, letting subs stream games with RTX 4080 levels of performance &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230611/p12#a230611p12)
- - [Researchers of tech change and employment disagree on how many jobs AI will affect; one tricky factor is primarily tasks, not occupations, are being automated &lpar;Sarah Kessler/New York Times&rpar;](http://www.techmeme.com/230611/p11#a230611p11)
- - [Microsoft is bringing PC Game Pass to Nvidia’s GeForce Now service](https://www.theverge.com/2023/6/11/23757313/microsoft-xbox-pc-game-pass-nvidia-geforce-now)<!-- TECH:END -->
+ - [Meta launches MusicGen, an open-source AI model that can generate short pieces of music using text prompts that can optionally be aligned to an existing melody &lpar;Matthias Bastian/THE DECODER&rpar;](http://www.techmeme.com/230611/p14#a230611p14)
+ - [The Best LastPass Alternative in 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-free-password-manager/#ftag=CAD590a51e)
+ - [a16z to open a crypto-focused London office and is leading a $43M investment in UK-based Gensyn, which offers a decentralized compute network for training AI &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230611/p13#a230611p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
