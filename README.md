@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: What resolution do you use when recording video?](https://www.androidauthority.com/record-video-resolution-poll-3333994/)
- - [watchOS 10 feature roundup: widgets, cycling, enterprise, and more](https://appleinsider.com/articles/23/06/12/watchos-10-feature-roundup-widgets-cycling-enterprise-and-more?utm_medium=rss)
- - [Apple faces trademark fight over the name &#39;Vision Pro&#39; in China](https://appleinsider.com/articles/23/06/12/apple-faces-trademark-fight-over-the-name-vision-pro-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [MacBook Air &lpar;15-inch&rpar; review: big screen, thin and light chassis, excellent trackpad, keyboard, performance, and battery, but limited ports and upgradability &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230612/p14#a230612p14)
+ - [macOS Sonoma beta review: Few major updates, but very welcome](https://appleinsider.com/articles/23/06/12/macos-sonoma-beta-review-few-major-updates-but-very-welcome?utm_medium=rss)
+ - [10 Best Wi-Fi Routers &lpar;2023&rpar;: Budget, Gaming Routers, Large Homes, Mesh](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
