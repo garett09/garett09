@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What the Scientists Who Pioneered Weight-Loss Drugs Want You to Know](https://www.wired.com/story/obesity-drugs-researcher-interview-ozempic-wegovy/)
- - [Sony refuses to increase Vision Pro screen production capacity for Apple](https://appleinsider.com/articles/23/06/12/sony-refuses-to-increase-vision-pro-screen-production-capacity-for-apple?utm_medium=rss)
- - [15-inch MacBook Air vs 14-inch and 16-inch MacBook Pro  -- compared](https://appleinsider.com/inside/macbook-air/vs/15-inch-macbook-air-vs-14-inch-and-16-inch-macbook-pro----compared?utm_medium=rss)<!-- TECH:END -->
+ - [Poll: What resolution do you use when recording video?](https://www.androidauthority.com/record-video-resolution-poll-3333994/)
+ - [watchOS 10 feature roundup: widgets, cycling, enterprise, and more](https://appleinsider.com/articles/23/06/12/watchos-10-feature-roundup-widgets-cycling-enterprise-and-more?utm_medium=rss)
+ - [Apple faces trademark fight over the name &#39;Vision Pro&#39; in China](https://appleinsider.com/articles/23/06/12/apple-faces-trademark-fight-over-the-name-vision-pro-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
