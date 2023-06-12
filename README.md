@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos for the web gets new advanced editing tools](https://www.androidauthority.com/google-photos-new-editing-tools-3334282/)
- - [NYC food delivery gig workers score a big minimum wage victory](https://www.theverge.com/2023/6/12/23757900/nyc-food-delivery-minimum-wage-uber-eats-doordash-postmates)
- - [Percepto, which offers drone software and hardware for industrial applications, raised a $67M Series C, with ~$50M in equity and ~$16M in debt, led by KDT &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230612/p24#a230612p24)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-rumors-specs-price-leaks-3293052/)
+ - [Oracle reports Q4 revenue up 17% YoY to $13.84B, vs. $13.73B est., cloud services and license support revenues up 23% YoY to $9.4B, and net income up 4% YoY &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/230612/p28#a230612p28)
+ - [The US FTC files for a temporary restraining order and preliminary injunction to block Microsoft&#39;s acquisition of Activision Blizzard &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/230612/p27#a230612p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
