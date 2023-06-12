@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Samsung exec allegedly stole blueprints to build a factory a mile away](https://www.androidauthority.com/samsung-exec-arrest-3334139/)
- - [iOS 17 features: Everything new that Apple has added to the iPhone’s OS](https://www.androidauthority.com/ios-17-features-3333516/)
- - [OnePlus Nord 3 official-looking press images leak, launch must be imminent](https://www.androidauthority.com/oneplus-nord-3-press-images-3334178/)<!-- TECH:END -->
+ - [Price cuts knock up to $300 off iPads, Apple Watch &amp; MacBook Pros at Amazon](https://appleinsider.com/articles/23/06/12/price-cuts-knock-up-to-300-off-ipads-apple-watch-macbook-pros-at-amazon?utm_medium=rss)
+ - [Mac Studio review roundup: The Pro&#39;s choice](https://appleinsider.com/articles/23/06/12/mac-studio-review-roundup-the-pros-choice?utm_medium=rss)
+ - [M2 Ultra Mac Studio review: a small, fast, efficient, and quiet desktop Mac that has decent ports and is a much better deal than the new Mac Pro for most users &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/230612/p23#a230612p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
