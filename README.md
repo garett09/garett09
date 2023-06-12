@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean prosecutors say an ex-Samsung executive allegedly stole blueprints and designs in 2018 and 2019 to replicate an entire chip plant in China &lpar;Shinhye Kang/Bloomberg&rpar;](http://www.techmeme.com/230612/p6#a230612p6)
- - [HSBC rebrands SVB UK as HSBC Innovation Banking and adds teams in the US, Israel, and Hong Kong to serve startups, investors, and other tech clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230612/p5#a230612p5)
- - [Microsoft Gaming CEO Phil Spencer says he does not &quot;feel an imperative&quot; from users to release a major Xbox upgrade, preferring instead the &quot;hardware we have&quot; &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/230612/p4#a230612p4)<!-- TECH:END -->
+ - [How to get started with macOS AppleScript: dictionaries, syntax, and more](https://appleinsider.com/inside/macos/tips/how-to-get-started-with-macos-applescript-dictionaries-syntax-and-more?utm_medium=rss)
+ - [Sources: the Dutch government is working on legislation to bar Chinese students from university programs on sensitive tech, including chips and defense &lpar;Bloomberg&rpar;](http://www.techmeme.com/230612/p8#a230612p8)
+ - [An Anti-Porn App Put Him in Jail and His Family Under Surveillance](https://www.wired.com/story/anti-porn-covenant-eyes-bond-revoked/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
