@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Todd Howard: Starfield Locked At 30FPS On Console For &#39;Consistency&#39;](https://kotaku.com/starfield-30fps-60fps-performance-mode-xbox-series-x-s-1850528077)
  - [Every game at the PC Gaming Show 2023](https://www.pcgamer.com/pc-gaming-show-2023-watch)
- - [Persona 3 Reload won&#39;t have the female protagonist or other additions of Persona 3&#39;s Portable and FES editions](https://www.pcgamer.com/persona-3-reload-wont-have-the-female-protagonist-or-other-additions-of-persona-3s-portable-and-fes-editions)
- - [Final Fantasy XVI&#39;s PS5 Demo Is Here, Will Let You Play The First 2+ Hours](https://kotaku.com/final-fantasy-16-ps5-demo-summer-game-fest-ffxvi-battle-1850515242)<!-- GAME:END -->
+ - [Persona 3 Reload won&#39;t have the female protagonist or other additions of Persona 3&#39;s Portable and FES editions](https://www.pcgamer.com/persona-3-reload-wont-have-the-female-protagonist-or-other-additions-of-persona-3s-portable-and-fes-editions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
