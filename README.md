@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Collect all five to summon the forbidden one..](http://9gag.com/gag/a9qXzn0)
- - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
- - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
+ - 🚖 [Cyberpunk dystopia](http://9gag.com/gag/awZ43o8)
+ - 🚯 [Sweden!](http://9gag.com/gag/adP2vZD)
+ - 🚯 [Audience singing along with Dido](http://9gag.com/gag/a9qXqQ6)<!-- MEMES:END -->
 
 --- 
 
