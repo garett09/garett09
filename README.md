@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One ticket to horny jail](http://9gag.com/gag/aoK8MMm)
- - 🚯 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)
- - 🚯 [Most definitely would](http://9gag.com/gag/anzDQ9z)<!-- MEMES:END -->
+ - 🚖 [It&#39;s Japan, what do you expect?](http://9gag.com/gag/aeQ2Qpp)
+ - 🚯 [Collect all five to summon the forbidden one..](http://9gag.com/gag/a9qXzn0)
+ - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)<!-- MEMES:END -->
 
 --- 
 
