@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looks like a successful hit](http://9gag.com/gag/aVb2vmw)
- - 🚯 [Inspiring \ud83d\udc4f\ud83c\udf20](http://9gag.com/gag/aGE2E85)
- - 🚯 [Men&#39;s brain works diffrently](http://9gag.com/gag/aRE2Le2)<!-- MEMES:END -->
+ - 🚖 [Comment your collection](http://9gag.com/gag/aGE2dr7)
+ - 🚯 [`I&#39;m not driving, I&#39;m traveling`](http://9gag.com/gag/a1PLmPw)
+ - 🚯 [Permanent ?](http://9gag.com/gag/aRE2EpM)<!-- MEMES:END -->
 
 --- 
 
