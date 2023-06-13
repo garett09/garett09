@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit&#39;s largest Apple community will stay dark, as CEO promises to ride out shutdowns](https://appleinsider.com/articles/23/06/13/reddits-largest-apple-community-will-stay-dark-as-ceo-promises-to-ride-out-shutdowns?utm_medium=rss)
- - [New Pixel Watch 2 codename leaks, evidence gives hints of its design](https://www.androidauthority.com/pixel-watch-2-eos-3334796/)
- - [The 18 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
+ - [Some very popular subreddits, including r/aww, r/videos, and r/music, plan to extend their protests indefinitely; 8.4K+ are now private or in a restricted mode &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230613/p33#a230613p33)
+ - [Meta details I-JEPA, a computer vision model that uses common sense world knowledge to create more accurate images, avoiding errors like hands with extra digits &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230613/p32#a230613p32)
+ - [Reddit communities with millions of followers plan to extend the blackout indefinitely](https://www.theverge.com/2023/6/13/23759674/reddit-mods-blackout-protest-extended-indefinitely)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
