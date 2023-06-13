@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft and OpenAI&#39;s unusual deal created internal conflict, including over transparency, sales pitches, and Microsoft&#39;s spending on in-house AI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230613/p22#a230613p22)
- - [Accenture plans to invest $1B over three years in its data and AI practice, aiming for 80,000 staff working on AI, after laying off 19,000 in March &lpar;Tiyashi Datta/Reuters&rpar;](http://www.techmeme.com/230613/p21#a230613p21)
- - [12 Best Air Purifiers &lpar;2023&rpar;: HEPA, Portable, and Quiet](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
+ - [Instagram’s status update now includes what song you’re listening to](https://www.theverge.com/2023/6/13/23758178/instagram-notes-music-translation-text-status-twitter)
+ - [The best Father’s Day sales happening now](https://www.theverge.com/23757901/fathers-day-best-sales-gifts-sonos-speakers-airpods-pro-kindle-deal-sale)
+ - [Daily deals: $100 off Mac mini, $200 off M2 MacBook Pro, $70 off Apple Watch Series 8, more](https://appleinsider.com/articles/23/06/13/daily-deals-100-off-mac-mini-200-off-m2-macbook-pro-70-off-apple-watch-series-8-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
