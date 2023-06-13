@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unexpected](http://9gag.com/gag/aDYXZn9)
- - 🚯 [Who is surprised?](http://9gag.com/gag/aA0XKMo)
- - 🚯 [We really are](http://9gag.com/gag/ago27rK)<!-- MEMES:END -->
+ - 🚖 [Brain Drain](http://9gag.com/gag/ay2QWXy)
+ - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
+ - 🚯 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)<!-- MEMES:END -->
 
 --- 
 
