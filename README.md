@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5 release date: Is it official?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-release-date-3334244/)
- - [Vendors allege Hippocratic AI co-founder&#39;s former startup Health IQ, which faces a fraud lawsuit, owes millions; Hippocratic AI raised $50M from a16z and others &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/230612/p30#a230612p30)
- - [The biggest news and trailers from Capcom Showcase 2023](https://www.theverge.com/2023/6/12/23758032/capcom-showcase-2023-news-trailers)<!-- TECH:END -->
+ - [Netflix is reportedly getting ready to stream its first-ever sporting event](https://www.theverge.com/2023/6/12/23758795/netflix-sports-live-golf-las-vegas)
+ - [Amazon is testing generative AI for product review summaries, giving an overview of what customers liked and disliked about a product, along with a disclaimer &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230612/p31#a230612p31)
+ - [Reddit protest updates: all the news about the API changes infuriating Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
