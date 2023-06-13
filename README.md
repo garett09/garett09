@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Starfield 2022 vs 2023](http://9gag.com/gag/awZ4gnR)
+ - 🚖 [Stitch boutta risk it all](http://9gag.com/gag/aXn2Nbg)
  - 🚯 [Never forget the Rhiannasaurus Rex](http://9gag.com/gag/a04EV5X)
- - 🚯 [Today&#39;s tips](http://9gag.com/gag/aOx1Zd3)<!-- MEMES:END -->
+ - 🚯 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)<!-- MEMES:END -->
 
 --- 
 
