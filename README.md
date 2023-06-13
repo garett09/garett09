@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ahh, yeah, the seeegs](http://9gag.com/gag/a5XjwQO)
- - 🚯 [Todays reaction: daughter, let\u2019s go get your dick chopped off.](http://9gag.com/gag/a9qXzg0)
- - 🚯 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)<!-- MEMES:END -->
+ - 🚖 [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)
+ - 🚯 [Never forget the Rhiannasaurus Rex](http://9gag.com/gag/a04EV5X)
+ - 🚯 [Ahh, yeah, the seeegs](http://9gag.com/gag/a5XjwQO)<!-- MEMES:END -->
 
 --- 
 
