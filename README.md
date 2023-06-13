@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
- - 🚯 [Brain Drain](http://9gag.com/gag/ay2QWXy)
- - 🚯 [It has begun](http://9gag.com/gag/a1PLD3G)<!-- MEMES:END -->
+ - 🚖 [Brain Drain](http://9gag.com/gag/ay2QWXy)
+ - 🚯 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)
+ - 🚯 [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)<!-- MEMES:END -->
 
 --- 
 
