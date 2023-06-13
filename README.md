@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram’s status update now includes what song you’re listening to](https://www.theverge.com/2023/6/13/23758178/instagram-notes-music-translation-text-status-twitter)
- - [The best Father’s Day sales happening now](https://www.theverge.com/23757901/fathers-day-best-sales-gifts-sonos-speakers-airpods-pro-kindle-deal-sale)
- - [Daily deals: $100 off Mac mini, $200 off M2 MacBook Pro, $70 off Apple Watch Series 8, more](https://appleinsider.com/articles/23/06/13/daily-deals-100-off-mac-mini-200-off-m2-macbook-pro-70-off-apple-watch-series-8-more?utm_medium=rss)<!-- TECH:END -->
+ - [Paris-based Mistral AI raised a &amp;euro;105M seed led by Lightspeed, sources say at a &amp;euro;240M valuation, to take on OpenAI and plans a 2024 launch for its first models &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230613/p25#a230613p25)
+ - [Overwatch 2’s new story missions will be paywalled](https://www.theverge.com/2023/6/13/23759276/overwatch-2-story-mission-paywall)
+ - [Google Home’s script editor is now live](https://www.theverge.com/2023/6/13/23759187/google-home-script-editor-tool-automations)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
