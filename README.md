@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Permanent ?](http://9gag.com/gag/aRE2EpM)
- - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)
- - 🚯 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)<!-- MEMES:END -->
+ - 🚖 [Today&#39;s tips](http://9gag.com/gag/aOx1Zd3)
+ - 🚯 [Dad is MadLad](http://9gag.com/gag/a5Xj1zg)
+ - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
 
 --- 
 
