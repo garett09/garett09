@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are some of the major subreddits that will stay down indefinitely](https://www.androidauthority.com/subreddits-staying-dark-3334830/)
- - [The developer of Damus, a Nostr-based social media app, says Apple has threatened to delist it from the App Store if it doesn&#39;t remove a bitcoin tipping feature &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230613/p35#a230613p35)
- - [AMD unveils its EPYC Bergamo CPUs, offering up to 128 Zen 4C cores for cloud-native servers and data center platforms &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/230613/p34#a230613p34)<!-- TECH:END -->
+ - [Logitech CEO Bracken Darrell resigns &quot;to pursue another opportunity&quot; effective immediately, with board member Guy Gecht appointed as the company&#39;s interim CEO &lpar;Brian Fagioli/BetaNews&rpar;](http://www.techmeme.com/230613/p40#a230613p40)
+ - [How a failing California weed city turned into Crooked Media’s latest audio saga](https://www.theverge.com/2023/6/13/23759848/crooked-media-dreamtown-adelanto-david-weinberg-tribeca)
+ - [Swedish gaming conglomerate Embracer Group says it will close multiple studios, cancel games, and cut staff, after a $2B deal unexpectedly fell through &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/230613/p39#a230613p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
