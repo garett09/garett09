@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates iOS and macOS iWork apps with new SVG support, ProRes on mobile](https://appleinsider.com/articles/23/06/13/apple-updates-ios-and-macos-iwork-apps-with-new-svg-support-prores-on-mobile?utm_medium=rss)
- - [At $500 off, the Galaxy S22 Ultra is more tempting than its successor](https://www.androidauthority.com/samsung-galaxy-s22-ultra-deal-june-3334761/)
- - [Google&#39;s June Pixel update rolls out new safety features, oxygen saturation monitoring for the Pixel Watch, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230613/p30#a230613p30)<!-- TECH:END -->
+ - [Reddit&#39;s largest Apple community will stay dark, as CEO promises to ride out shutdowns](https://appleinsider.com/articles/23/06/13/reddits-largest-apple-community-will-stay-dark-as-ceo-promises-to-ride-out-shutdowns?utm_medium=rss)
+ - [New Pixel Watch 2 codename leaks, evidence gives hints of its design](https://www.androidauthority.com/pixel-watch-2-eos-3334796/)
+ - [The 18 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
