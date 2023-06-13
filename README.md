@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Mistral AI raised a &amp;euro;105M seed led by Lightspeed, sources say at a &amp;euro;240M valuation, to take on OpenAI and plans a 2024 launch for its first models &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230613/p25#a230613p25)
- - [Overwatch 2’s new story missions will be paywalled](https://www.theverge.com/2023/6/13/23759276/overwatch-2-story-mission-paywall)
- - [Google Home’s script editor is now live](https://www.theverge.com/2023/6/13/23759187/google-home-script-editor-tool-automations)<!-- TECH:END -->
+ - [Apple Vision Pro vs Meta Quest heatsets - how the approaches compare](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-meta-quest-heatsets---how-the-approaches-compare?utm_medium=rss)
+ - [Q&amp;A with Satya Nadella on the &quot;eureka moment&quot; for generative AI, OpenAI, helping anyone become a developer, pausing AI development, Bing&#39;s relevancy, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230613/p28#a230613p28)
+ - [June 2023 Pixel feature drop for Pixel Watch and Fitbits is massive](https://www.androidauthority.com/june-2023-pixel-feature-drop-watches-3334245/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
