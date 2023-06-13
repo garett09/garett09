@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)
- - 🚯 [Never forget the Rhiannasaurus Rex](http://9gag.com/gag/a04EV5X)
- - 🚯 [Ahh, yeah, the seeegs](http://9gag.com/gag/a5XjwQO)<!-- MEMES:END -->
+ - 🚖 [Golden globes](http://9gag.com/gag/aYV1Q2x)
+ - 🚯 [Today&#39;s tips](http://9gag.com/gag/aOx1Zd3)
+ - 🚯 [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)<!-- MEMES:END -->
 
 --- 
 
