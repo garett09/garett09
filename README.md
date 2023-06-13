@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [Saudi Arabia-backed Savvy Games Group has spent ~$8B of its $38B war chest acquiring and building stakes in gaming companies globally in the past 18 months &lpar;Financial Times&rpar;](http://www.techmeme.com/230613/p6#a230613p6)
  - [Samsung’s Galaxy S21 series gets June 2023 security patch](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
- - [Jack Dorsey says India threatened to shut Twitter down unless it complied with orders during farmer protests, a claim called an &quot;outright lie&quot; by the government &lpar;Reuters&rpar;](http://www.techmeme.com/230613/p5#a230613p5)<!-- TECH:END -->
+ - [Jack Dorsey says India threatened to shut Twitter down unless the company complied with orders during farmer protests, a claim India calls an &quot;outright lie&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/230613/p5#a230613p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
