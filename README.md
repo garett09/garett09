@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some very popular subreddits, including r/aww, r/videos, and r/music, plan to extend their protests indefinitely; 8.4K+ are now private or in a restricted mode &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230613/p33#a230613p33)
- - [Meta details I-JEPA, a computer vision model that uses common sense world knowledge to create more accurate images, avoiding errors like hands with extra digits &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/230613/p32#a230613p32)
- - [Reddit communities with millions of followers plan to extend the blackout indefinitely](https://www.theverge.com/2023/6/13/23759674/reddit-mods-blackout-protest-extended-indefinitely)<!-- TECH:END -->
+ - [Here are some of the major subreddits that will stay down indefinitely](https://www.androidauthority.com/subreddits-staying-dark-3334830/)
+ - [The developer of Damus, a Nostr-based social media app, says Apple has threatened to delist it from the App Store if it doesn&#39;t remove a bitcoin tipping feature &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230613/p35#a230613p35)
+ - [AMD unveils its EPYC Bergamo CPUs, offering up to 128 Zen 4C cores for cloud-native servers and data center platforms &lpar;Hassan Mujtaba/Wccftech&rpar;](http://www.techmeme.com/230613/p34#a230613p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
