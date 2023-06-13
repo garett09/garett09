@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait for it](http://9gag.com/gag/aoK8W22)
- - 🚯 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)
- - 🚯 [Starfield 2022 vs 2023](http://9gag.com/gag/awZ4gnR)<!-- MEMES:END -->
+ - 🚖 [Unexpected](http://9gag.com/gag/aDYXZn9)
+ - 🚯 [Who is surprised?](http://9gag.com/gag/aA0XKMo)
+ - 🚯 [We really are](http://9gag.com/gag/ago27rK)<!-- MEMES:END -->
 
 --- 
 
