@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how one third-party app might survive Reddit’s changes](https://www.androidauthority.com/relay-for-reddit-android-survive-changes-3333851/)
- - [The EU reaches a long-awaited deal on rules that could allow 28M gig workers to get social security and more, and will discuss the proposals with the parliament &lpar;Financial Times&rpar;](http://www.techmeme.com/230613/p3#a230613p3)
- - [Google&#39;s Search Generative Experience seems like an &quot;AI plagiarism engine&quot; that cobbles together snippets of text from a variety of sites, often word-for-word &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230613/p2#a230613p2)<!-- TECH:END -->
+ - [Jack Dorsey says India threatened to shut Twitter down unless it complied with orders during farmer protests, a claim called an &quot;outright lie&quot; by the government &lpar;Reuters&rpar;](http://www.techmeme.com/230613/p5#a230613p5)
+ - [Filings: a nonbinding proposal on whether Marc Benioff should continue as Salesforce&#39;s board chairman got 23% of votes versus ~37% in 2022; CRM rose 61% in 2023 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230613/p4#a230613p4)
+ - [Here’s how one third-party app might survive Reddit’s changes](https://www.androidauthority.com/relay-for-reddit-android-survive-changes-3333851/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
