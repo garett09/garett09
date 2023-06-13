@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brain Drain](http://9gag.com/gag/ay2QWXy)
- - 🚯 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)
- - 🚯 [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)<!-- MEMES:END -->
+ - 🚖 [Cosplay on point](http://9gag.com/gag/adP2n69)
+ - 🚯 [We really are](http://9gag.com/gag/ago27rK)
+ - 🚯 [Disney](http://9gag.com/gag/aYV1Pw7)<!-- MEMES:END -->
 
 --- 
 
