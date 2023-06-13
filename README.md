@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is reportedly getting ready to stream its first-ever sporting event](https://www.theverge.com/2023/6/12/23758795/netflix-sports-live-golf-las-vegas)
- - [Amazon is testing generative AI for product review summaries, giving an overview of what customers liked and disliked about a product, along with a disclaimer &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230612/p31#a230612p31)
- - [Reddit protest updates: all the news about the API changes infuriating Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)<!-- TECH:END -->
+ - [Preqin: total US dollars raised by China-focused VC and PE funds peaked at $48.6B in 2021 before dropping to $16.5B in 2022 and just $1.15B so far in 2023 &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/230612/p32#a230612p32)
+ - [Connecting Your Hearing Aids to Your Phone or TV Could Enhance Your Listening Experience     - CNET](https://www.cnet.com/health/medical/connecting-your-hearing-aids-to-your-phone-laptop-or-tv-can-enhance-listening-experience/#ftag=CAD590a51e)
+ - [FTC Files Injunction to Block Microsoft&#39;s Activision Deal: What to Know     - CNET](https://www.cnet.com/tech/gaming/ftc-files-injunction-to-block-microsofts-activision-deal-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
