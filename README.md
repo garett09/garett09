@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit&#39;s API changes stem from LLMs driving up the value of its data, a long-planned IPO, and profitable third-party clients generating no revenue for Reddit &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230613/p17#a230613p17)
- - [It&#39;s Time to Let the Noisy World Back In](https://www.wired.com/story/its-time-to-let-the-noisy-world-back-in/)
- - [Stack Overflow survey finds developers are ready to use AI tools — even if they don’t fully trust them](https://www.theverge.com/2023/6/13/23759101/stack-overflow-developers-survey-ai-coding-tools-moderators-strike)<!-- TECH:END -->
+ - [Sources: Microsoft and OpenAI&#39;s unusual deal created internal conflict, including over transparency, sales pitches, and Microsoft&#39;s spending on in-house AI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230613/p22#a230613p22)
+ - [Accenture plans to invest $1B over three years in its data and AI practice, aiming for 80,000 staff working on AI, after laying off 19,000 in March &lpar;Tiyashi Datta/Reuters&rpar;](http://www.techmeme.com/230613/p21#a230613p21)
+ - [12 Best Air Purifiers &lpar;2023&rpar;: HEPA, Portable, and Quiet](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
