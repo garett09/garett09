@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today&#39;s tips](http://9gag.com/gag/aOx1Zd3)
- - 🚯 [Dad is MadLad](http://9gag.com/gag/a5Xj1zg)
- - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
+ - 🚖 [Blessed are those..](http://9gag.com/gag/axoPomW)
+ - 🚯 [Collect all five to summon the forbidden one..](http://9gag.com/gag/a9qXzn0)
+ - 🚯 [Let\u2019s not jump to conclusions\u2026 aaaand\u2026](http://9gag.com/gag/axoP36n)<!-- MEMES:END -->
 
 --- 
 
