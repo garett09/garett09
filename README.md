@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
- - 🚯 [Weird](http://9gag.com/gag/aQE2Q4e)
- - 🚯 [If you know. You know.](http://9gag.com/gag/aZD21en)<!-- MEMES:END -->
+ - 🚖 [Those damn onions!](http://9gag.com/gag/avQvQ7b)
+ - 🚯 [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)
+ - 🚯 [Ahh, yeah, the seeegs](http://9gag.com/gag/a5XjwQO)<!-- MEMES:END -->
 
 --- 
 
