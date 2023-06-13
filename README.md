@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insight Partners slashes the $20B target for its latest fund to $15B, after raising just $2B since June 2022, citing a &quot;great reset in tech&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/230613/p1#a230613p1)
- - [The 5 Best Multivitamins for Men for 2023     - CNET](https://www.cnet.com/health/nutrition/5-best-multivitamins-for-men/#ftag=CAD590a51e)
- - [In a memo to Twitter employees, CEO Linda Yaccarino said the platform is &quot;on a mission to become the world&#39;s most accurate real-time information source&quot; &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/230612/p34#a230612p34)<!-- TECH:END -->
+ - [Here’s how one third-party app might survive Reddit’s changes](https://www.androidauthority.com/relay-for-reddit-android-survive-changes-3333851/)
+ - [The EU reaches a long-awaited deal on rules that could allow 28M gig workers to get social security and more, and will discuss the proposals with the parliament &lpar;Financial Times&rpar;](http://www.techmeme.com/230613/p3#a230613p3)
+ - [Google&#39;s Search Generative Experience seems like an &quot;AI plagiarism engine&quot; that cobbles together snippets of text from a variety of sites, often word-for-word &lpar;Avram Piltch/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230613/p2#a230613p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
