@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Darth G-spot, \u201ctwice the curve, double the pressure.\u201d](http://9gag.com/gag/aeQ2QzW)
- - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
+ - 🚖 [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)
+ - 🚯 [Playing relationship games](http://9gag.com/gag/adP2Pwd)
  - 🚯 [It has begun](http://9gag.com/gag/a1PLD3G)<!-- MEMES:END -->
 
 --- 
