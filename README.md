@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those damn onions!](http://9gag.com/gag/avQvQ7b)
- - 🚯 [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)
- - 🚯 [Ahh, yeah, the seeegs](http://9gag.com/gag/a5XjwQO)<!-- MEMES:END -->
+ - 🚖 [Ahh, yeah, the seeegs](http://9gag.com/gag/a5XjwQO)
+ - 🚯 [Todays reaction: daughter, let\u2019s go get your dick chopped off.](http://9gag.com/gag/a9qXzg0)
+ - 🚯 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)<!-- MEMES:END -->
 
 --- 
 
