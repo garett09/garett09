@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UFO Whistleblower, Meet a Conspiracy-Loving Congress](https://www.wired.com/story/ufo-whistleblower-us-congress-investigations/)
- - [25 Last-Minute Deals on Father&#39;s Day Gifts &lpar;2023&rpar;](https://www.wired.com/story/last-minute-fathers-day-deals-2023/)
- - [Satellites Keep Photobombing Space Images. Astronomers Need a Fix](https://www.wired.com/story/satellites-keep-photobombing-space-images-astronomers-need-a-fix/)<!-- TECH:END -->
+ - [Telo is the adorable little electric truck America needs to want](https://www.theverge.com/2023/6/13/23757902/telo-truck-electric-pickup-annoucement)
+ - [Paul McCartney says AI helped &quot;extricate&quot; John Lennon&#39;s voice from an old demo to complete what he calls &quot;the final Beatles record&quot;, set for release in 2023 &lpar;Mark Savage/BBC&rpar;](http://www.techmeme.com/230613/p13#a230613p13)
+ - [Nothing Phone 2 launch date confirmed, here’s the info you need](https://www.androidauthority.com/nothing-phone-2-launch-date-3334202/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
