@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Permanent ?](http://9gag.com/gag/aRE2EpM)
- - 🚯 [Golden globes](http://9gag.com/gag/aYV1Q2x)
- - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
+ - 🚖 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
+ - 🚯 [Weird](http://9gag.com/gag/aQE2Q4e)
+ - 🚯 [If you know. You know.](http://9gag.com/gag/aZD21en)<!-- MEMES:END -->
 
 --- 
 
