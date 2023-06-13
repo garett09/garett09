@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech CEO Bracken Darrell resigns &quot;to pursue another opportunity&quot; effective immediately, with board member Guy Gecht appointed as the company&#39;s interim CEO &lpar;Brian Fagioli/BetaNews&rpar;](http://www.techmeme.com/230613/p40#a230613p40)
- - [How a failing California weed city turned into Crooked Media’s latest audio saga](https://www.theverge.com/2023/6/13/23759848/crooked-media-dreamtown-adelanto-david-weinberg-tribeca)
- - [Swedish gaming conglomerate Embracer Group says it will close multiple studios, cancel games, and cut staff, after a $2B deal unexpectedly fell through &lpar;Nicole Carpenter/Polygon&rpar;](http://www.techmeme.com/230613/p39#a230613p39)<!-- TECH:END -->
+ - [Amazon’s server outage is breaking fast food apps like McDonald’s and Taco Bell &lpar;and also The Verge&rpar;](https://www.theverge.com/2023/6/13/23759857/amazon-aws-down-outage-taco-bell-mcdonalds-burger-king)
+ - [Western Digital NAS drives flash ‘warning’ after three years even if nothing’s wrong](https://www.theverge.com/2023/6/13/23759368/western-digital-three-years-warning-synology-nas)
+ - [Samsung Galaxy Z Fold 5 release date: When will it launch?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-3334808/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
