@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro vs Meta Quest heatsets - how the approaches compare](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-meta-quest-heatsets---how-the-approaches-compare?utm_medium=rss)
- - [Q&amp;A with Satya Nadella on the &quot;eureka moment&quot; for generative AI, OpenAI, helping anyone become a developer, pausing AI development, Bing&#39;s relevancy, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230613/p28#a230613p28)
- - [June 2023 Pixel feature drop for Pixel Watch and Fitbits is massive](https://www.androidauthority.com/june-2023-pixel-feature-drop-watches-3334245/)<!-- TECH:END -->
+ - [Apple updates iOS and macOS iWork apps with new SVG support, ProRes on mobile](https://appleinsider.com/articles/23/06/13/apple-updates-ios-and-macos-iwork-apps-with-new-svg-support-prores-on-mobile?utm_medium=rss)
+ - [At $500 off, the Galaxy S22 Ultra is more tempting than its successor](https://www.androidauthority.com/samsung-galaxy-s22-ultra-deal-june-3334761/)
+ - [Google&#39;s June Pixel update rolls out new safety features, oxygen saturation monitoring for the Pixel Watch, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230613/p30#a230613p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
