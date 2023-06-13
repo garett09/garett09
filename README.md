@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [69 year old Jackie Chan feels sad when he watches his old films and realizes how quickly time has passed. :&lpar;](http://9gag.com/gag/aL1X1NW)
- - 🚯 [Playing relationship games](http://9gag.com/gag/adP2Pwd)
- - 🚯 [Those damn onions!](http://9gag.com/gag/avQvQ7b)<!-- MEMES:END -->
+ - 🚖 [Permanent ?](http://9gag.com/gag/aRE2EpM)
+ - 🚯 [Blessed are those..](http://9gag.com/gag/axoPomW)
+ - 🚯 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)<!-- MEMES:END -->
 
 --- 
 
