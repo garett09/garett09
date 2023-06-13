@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro took the 50/50 chance.](http://9gag.com/gag/ajVKVpw)
- - 🚯 [Playing relationship games](http://9gag.com/gag/adP2Pwd)
- - 🚯 [It has begun](http://9gag.com/gag/a1PLD3G)<!-- MEMES:END -->
+ - 🚖 [Permanent ?](http://9gag.com/gag/aRE2EpM)
+ - 🚯 [Golden globes](http://9gag.com/gag/aYV1Q2x)
+ - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)<!-- MEMES:END -->
 
 --- 
 
