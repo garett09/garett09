@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Starfield 2022 vs 2023](http://9gag.com/gag/awZ4gnR)
- - 🚯 [Today&#39;s tips](http://9gag.com/gag/aOx1Zd3)
- - 🚯 [Weeee....](http://9gag.com/gag/ajVK7o1)<!-- MEMES:END -->
+ - 🚯 [Never forget the Rhiannasaurus Rex](http://9gag.com/gag/a04EV5X)
+ - 🚯 [Today&#39;s tips](http://9gag.com/gag/aOx1Zd3)<!-- MEMES:END -->
 
 --- 
 
