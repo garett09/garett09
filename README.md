@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telo is the adorable little electric truck America needs to want](https://www.theverge.com/2023/6/13/23757902/telo-truck-electric-pickup-annoucement)
- - [Paul McCartney says AI helped &quot;extricate&quot; John Lennon&#39;s voice from an old demo to complete what he calls &quot;the final Beatles record&quot;, set for release in 2023 &lpar;Mark Savage/BBC&rpar;](http://www.techmeme.com/230613/p13#a230613p13)
- - [Nothing Phone 2 launch date confirmed, here’s the info you need](https://www.androidauthority.com/nothing-phone-2-launch-date-3334202/)<!-- TECH:END -->
+ - [Reddit&#39;s API changes stem from LLMs driving up the value of its data, a long-planned IPO, and profitable third-party clients generating no revenue for Reddit &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230613/p17#a230613p17)
+ - [It&#39;s Time to Let the Noisy World Back In](https://www.wired.com/story/its-time-to-let-the-noisy-world-back-in/)
+ - [Stack Overflow survey finds developers are ready to use AI tools — even if they don’t fully trust them](https://www.theverge.com/2023/6/13/23759101/stack-overflow-developers-survey-ai-coding-tools-moderators-strike)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
