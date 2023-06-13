@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11’s Android integration gets long-requested file sharing](https://www.theverge.com/2023/6/13/23759072/microsoft-windows-11-android-subsystem-file-sharing-feature)
- - [Microsoft’s Satya Nadella Is Betting Everything on AI](https://www.wired.com/story/microsofts-satya-nadella-is-betting-everything-on-ai/)
- - [PitchBook: the UK and Ireland accounted for ~28% of VC deals in Europe and Israel in Q1 2023, down from over 34% in 2018, while France and the Nordics rose &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/230613/p8#a230613p8)<!-- TECH:END -->
+ - [UFO Whistleblower, Meet a Conspiracy-Loving Congress](https://www.wired.com/story/ufo-whistleblower-us-congress-investigations/)
+ - [25 Last-Minute Deals on Father&#39;s Day Gifts &lpar;2023&rpar;](https://www.wired.com/story/last-minute-fathers-day-deals-2023/)
+ - [Satellites Keep Photobombing Space Images. Astronomers Need a Fix](https://www.wired.com/story/satellites-keep-photobombing-space-images-astronomers-need-a-fix/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
