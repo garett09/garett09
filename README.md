@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With iOS 17, Apple &#39;Catches Up&#39; to Rivals in the Messaging Wars     - CNET](https://www.cnet.com/tech/services-and-software/with-ios-17-apple-catches-up-to-rivals-in-messaging-wars/#ftag=CAD590a51e)
- - [The US National Music Publishers&#39; Association sues Twitter, alleging the company violates the copyright of songwriters by using ~1,700 songs without permission &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230614/p30#a230614p30)
- - [Paul McCartney Uses AI to Create the Final Beatles Song     - CNET](https://www.cnet.com/tech/paul-mccartney-uses-ai-to-create-the-final-beatles-song/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EU takes major step toward AI regulation as the AI Act moves into final phase](https://www.androidauthority.com/ai-act-moves-forward-3335218/)
+ - [In a case study, researchers estimate that between 33% and 46% of Mechanical Turk workers used LLMs when completing a text summarization task &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/230614/p31#a230614p31)
+ - [Google probably owes you money and here’s how to get it](https://www.androidauthority.com/google-class-action-2023-3335244/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
