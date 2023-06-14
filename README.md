@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15-inch MacBook Air vs 14-inch and 16-inch MacBook Pro  -- compared](https://appleinsider.com/inside/macbook-air/vs/15-inch-macbook-air-vs-14-inch-and-16-inch-macbook-pro----compared?utm_medium=rss)
- - [I made my PS5 Fire Orange and Atomic Purple with Dbrand’s transparent Darkplates](https://www.theverge.com/2023/6/14/23760887/dbrand-retro-darkplates-transparent-ps5-sony-playstation-purple-orange-blue)
- - [Razer updates its Blade 14 laptop with AMD Ryzen 9 7940HS, Nvidia&#39;s RTX 4060 or RTX 4070, up to 32GB of RAM, and 14&quot; QHD+ 240Hz display, starting at $2,400 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/230614/p28#a230614p28)<!-- TECH:END -->
+ - [The US National Music Publishers&#39; Association sues Twitter, alleging the company violates the copyright of songwriters by using their music without permission &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230614/p30#a230614p30)
+ - [Best Buy Upgrade Plus lets you pay for a new Apple Watch Ultra over three years](https://www.theverge.com/2023/6/14/23760837/best-buy-upgrade-plus-financing-apple-watch-ultra-ipad-pro)
+ - [Samsung says a Galaxy Watch update will include irregular heart rhythm notifications in 13 markets, including the US and South Korea, starting this summer &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230614/p29#a230614p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
