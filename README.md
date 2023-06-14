@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 12 release date: When is the next update for desktops launching?](https://www.androidauthority.com/windows-12-release-date-3335040/)
- - [Sony starts testing cloud streaming PS5 games](https://www.theverge.com/2023/6/14/23760879/sony-ps5-cloud-streaming-games-test)
- - [How much do Starlink plans cost, and are they worth it?](https://www.androidauthority.com/starlink-plans-cost-3334636/)<!-- TECH:END -->
+ - [Texas bans kids from social media without parental consent](https://www.theverge.com/2023/6/14/23760975/texas-ban-social-media-kids-louisiana-utah)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [Google rolls out slew of new AI-powered features for Search, Maps, and more](https://www.androidauthority.com/google-ai-tools-launch-3335058/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
