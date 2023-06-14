@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf](http://9gag.com/gag/aDYXbO9)
+ - 🚖 [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)
  - 🚯 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)
- - 🚯 [It has begun](http://9gag.com/gag/a1PLD3G)<!-- MEMES:END -->
+ - 🚯 [Above the law? Nope. &lpar;Link in comments&rpar;](http://9gag.com/gag/armBBg0)<!-- MEMES:END -->
 
 --- 
 
