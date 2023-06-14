@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cat like a Sir](http://9gag.com/gag/a8qwDN6)
- - 🚯 [We really are](http://9gag.com/gag/ago27rK)
- - 🚯 [Women&#39;s work](http://9gag.com/gag/a7qN9Dz)<!-- MEMES:END -->
+ - 🚖 [Unexpected](http://9gag.com/gag/aDYXZn9)
+ - 🚯 [It has begun](http://9gag.com/gag/a1PLD3G)
+ - 🚯 [You can always tell with the hair colour.](http://9gag.com/gag/a9qXveo)<!-- MEMES:END -->
 
 --- 
 
