@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)
- - 🚯 [Ahh, yeah, the seeegs](http://9gag.com/gag/a5XjwQO)
- - 🚯 [O-Ohh- , Eh? -](http://9gag.com/gag/adP2O9d)<!-- MEMES:END -->
+ - 🚖 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)
+ - 🚯 [A small price to pay for what she did](http://9gag.com/gag/avQvEoM)
+ - 🚯 [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)<!-- MEMES:END -->
 
 --- 
 
