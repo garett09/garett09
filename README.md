@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Comprehensive.io: salaries for senior engineers who specialize in AI and ML are 12% higher than for those who do not; AI-related salaries rose 4% in a year &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/230614/p4#a230614p4)
- - [Some US doctors are using ChatGPT to communicate more empathetically with patients, including when breaking bad news and explaining medical recommendations &lpar;Gina Kolata/New York Times&rpar;](http://www.techmeme.com/230614/p3#a230614p3)
- - [One of the best Pixel features is now on the Pixel Watch](https://www.androidauthority.com/google-pixel-watch-at-a-glance-3334949/)<!-- TECH:END -->
+ - [‘Black Mirror’ Creator Charlie Brooker Wants to Break the Content Machine](https://www.wired.com/story/black-mirror-charlie-brooker-q-and-a-season-6/)
+ - [Sources: Arm discusses participating in its IPO with 10+ clients, including Intel, Apple, Alphabet, TSMC, and Samsung; any decision won&#39;t come until August &lpar;Reuters&rpar;](http://www.techmeme.com/230614/p5#a230614p5)
+ - [From video messages to HD photos, WhatsApp is working on several new features](https://www.androidauthority.com/whatsapp-beta-new-features-video-messages-3334974/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
