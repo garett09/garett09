@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the F**k](http://9gag.com/gag/aPgXeyw)
- - 🚯 [It has begun](http://9gag.com/gag/a1PLD3G)
- - 🚯 [Stitch boutta risk it all](http://9gag.com/gag/aXn2Nbg)<!-- MEMES:END -->
+ - 🚖 [A small price to pay for what she did](http://9gag.com/gag/avQvEoM)
+ - 🚯 [Ahh, yeah, the seeegs](http://9gag.com/gag/a5XjwQO)
+ - 🚯 [The table has turned!](http://9gag.com/gag/ay2Q3Db)<!-- MEMES:END -->
 
 --- 
 
