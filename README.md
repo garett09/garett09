@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)
- - 🚯 [A small price to pay for what she did](http://9gag.com/gag/avQvEoM)
- - 🚯 [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)<!-- MEMES:END -->
+ - 🚖 [Cat like a Sir](http://9gag.com/gag/a8qwDN6)
+ - 🚯 [Women&#39;s work](http://9gag.com/gag/a7qN9Dz)
+ - 🚯 [We really are](http://9gag.com/gag/ago27rK)<!-- MEMES:END -->
 
 --- 
 
