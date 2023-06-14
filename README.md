@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rhythm](http://9gag.com/gag/aBdXPjD)
- - 🚯 [And the Academy award goes to....](http://9gag.com/gag/aGE2Mm7)
- - 🚯 [Women&#39;s work](http://9gag.com/gag/a7qN9Dz)<!-- MEMES:END -->
+ - 🚖 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)
+ - 🚯 [Just came across this Minecraft short comic called `A strange Coast` by Ian Flynn. It&#39;s probably one of the most beautiful and respectful representations of the game.](http://9gag.com/gag/ap9AxG8)
+ - 🚯 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)<!-- MEMES:END -->
 
 --- 
 
