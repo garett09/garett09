@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It has begun](http://9gag.com/gag/a1PLD3G)
- - 🚯 [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)
- - 🚯 [One of his best score](http://9gag.com/gag/aVb2KyK)<!-- MEMES:END -->
+ - 🚖 [Rhythm](http://9gag.com/gag/aBdXPjD)
+ - 🚯 [And the Academy award goes to....](http://9gag.com/gag/aGE2Mm7)
+ - 🚯 [Women&#39;s work](http://9gag.com/gag/a7qN9Dz)<!-- MEMES:END -->
 
 --- 
 
