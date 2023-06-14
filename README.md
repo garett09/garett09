@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We really are](http://9gag.com/gag/ago27rK)
- - 🚯 [Rhythm](http://9gag.com/gag/aBdXPjD)
- - 🚯 [And the Academy award goes to....](http://9gag.com/gag/aGE2Mm7)<!-- MEMES:END -->
+ - 🚖 [One of his best score](http://9gag.com/gag/aVb2KyK)
+ - 🚯 [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)
+ - 🚯 [Man convicted for raping home burglar to death](http://9gag.com/gag/aoK8x4x)<!-- MEMES:END -->
 
 --- 
 
