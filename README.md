@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Black Mirror’ Creator Charlie Brooker Wants to Break the Content Machine](https://www.wired.com/story/black-mirror-charlie-brooker-q-and-a-season-6/)
- - [Sources: Arm discusses participating in its IPO with 10+ clients, including Intel, Apple, Alphabet, TSMC, and Samsung; any decision won&#39;t come until August &lpar;Reuters&rpar;](http://www.techmeme.com/230614/p5#a230614p5)
- - [From video messages to HD photos, WhatsApp is working on several new features](https://www.androidauthority.com/whatsapp-beta-new-features-video-messages-3334974/)<!-- TECH:END -->
+ - [Vodafone and Three agree to combine to create the UK&#39;s largest mobile network, pending regulatory approval, and will take on &amp;pound;6B in debt; Vodafone will own 51% &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/230614/p8#a230614p8)
+ - [EU suggests breaking up Google’s ad business in preliminary antitrust ruling](https://www.theverge.com/2023/6/14/23759094/european-commission-google-antitrust-advertising-market-antitrust)
+ - [How to Shop for a Breast Pump &lpar;2023&rpar;: Wearable Pumps, Portable Pumps, and Insurance Coverage](https://www.wired.com/story/how-to-buy-a-breast-pump/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
