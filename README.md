@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weeee....](http://9gag.com/gag/ajVK7o1)
- - 🚯 [The last dude at the end](http://9gag.com/gag/aQE2ADz)
- - 🚯 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)<!-- MEMES:END -->
+ - 🚖 [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)
+ - 🚯 [Ahh, yeah, the seeegs](http://9gag.com/gag/a5XjwQO)
+ - 🚯 [O-Ohh- , Eh? -](http://9gag.com/gag/adP2O9d)<!-- MEMES:END -->
 
 --- 
 
