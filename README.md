@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unexpected](http://9gag.com/gag/aDYXZn9)
- - 🚯 [It has begun](http://9gag.com/gag/a1PLD3G)
+ - 🚖 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
+ - 🚯 [Unexpected](http://9gag.com/gag/aDYXZn9)
  - 🚯 [You can always tell with the hair colour.](http://9gag.com/gag/a9qXveo)<!-- MEMES:END -->
 
 --- 
