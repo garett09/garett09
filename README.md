@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vodafone and Three agree to combine to create the UK&#39;s largest mobile network, pending regulatory approval, and will take on &amp;pound;6B in debt; Vodafone will own 51% &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/230614/p8#a230614p8)
- - [EU suggests breaking up Google’s ad business in preliminary antitrust ruling](https://www.theverge.com/2023/6/14/23759094/european-commission-google-antitrust-advertising-market-antitrust)
- - [How to Shop for a Breast Pump &lpar;2023&rpar;: Wearable Pumps, Portable Pumps, and Insurance Coverage](https://www.wired.com/story/how-to-buy-a-breast-pump/)<!-- TECH:END -->
+ - [The EU thinks Google’s most lucrative business doesn’t ad up](https://www.androidauthority.com/eu-google-ad-business-antitrust-complaint-3335008/)
+ - [How to start a smart home using Amazon Alexa](https://www.theverge.com/23751608/amazon-alexa-smart-home-controller-how-to)
+ - [As over 8,000 subreddits go dark, Google&#39;s results, which often improve when adding &quot;reddit&quot; to the search, have suffered &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230614/p14#a230614p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
