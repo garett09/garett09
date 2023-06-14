@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)
- - 🚯 [Just came across this Minecraft short comic called `A strange Coast` by Ian Flynn. It&#39;s probably one of the most beautiful and respectful representations of the game.](http://9gag.com/gag/ap9AxG8)
- - 🚯 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)<!-- MEMES:END -->
+ - 🚖 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
+ - 🚯 [O-Ohh- , Eh? -](http://9gag.com/gag/adP2O9d)
+ - 🚯 [Meanwhile a regular priest in South America...](http://9gag.com/gag/armBZry)<!-- MEMES:END -->
 
 --- 
 
