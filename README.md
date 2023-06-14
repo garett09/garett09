@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf](http://9gag.com/gag/aDYXbO9)
- - 🚯 [One of the best scenes from Hollywood.](http://9gag.com/gag/aqez8Rj)
- - 🚯 [Just came across this Minecraft short comic called `A strange Coast` by Ian Flynn. It&#39;s probably one of the most beautiful and respectful representations of the game.](http://9gag.com/gag/ap9AxG8)<!-- MEMES:END -->
+ - 🚖 [Fix it.](http://9gag.com/gag/a9qXX5Z)
+ - 🚯 [This is so cute and wholesome](http://9gag.com/gag/ap9Ab2b)
+ - 🚯 [I love it here &lt;3](http://9gag.com/gag/a5Xj2eG)<!-- MEMES:END -->
 
 --- 
 
