@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A small price to pay for what she did](http://9gag.com/gag/avQvEoM)
- - 🚯 [Ahh, yeah, the seeegs](http://9gag.com/gag/a5XjwQO)
- - 🚯 [The table has turned!](http://9gag.com/gag/ay2Q3Db)<!-- MEMES:END -->
+ - 🚖 [Weeee....](http://9gag.com/gag/ajVK7o1)
+ - 🚯 [The last dude at the end](http://9gag.com/gag/aQE2ADz)
+ - 🚯 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)<!-- MEMES:END -->
 
 --- 
 
