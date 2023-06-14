@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of his best score](http://9gag.com/gag/aVb2KyK)
- - 🚯 [Japan don&#39;t mess around with their Illegal immigrants. Jamaican guy tried to resist getting deported by saying he&#39;s not well.](http://9gag.com/gag/aMEXmQX)
- - 🚯 [Man convicted for raping home burglar to death](http://9gag.com/gag/aoK8x4x)<!-- MEMES:END -->
+ - 🚖 [It has begun](http://9gag.com/gag/a1PLD3G)
+ - 🚯 [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)
+ - 🚯 [One of his best score](http://9gag.com/gag/aVb2KyK)<!-- MEMES:END -->
 
 --- 
 
