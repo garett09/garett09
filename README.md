@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just give up your lattes kids](http://9gag.com/gag/a6qp2xR)
- - 🚯 [Man finally sold his car after 34 years...](http://9gag.com/gag/aVb2mbM)
- - 🚯 [Above the law? Nope. &lpar;Link in comments&rpar;](http://9gag.com/gag/armBBg0)<!-- MEMES:END -->
+ - 🚖 [Wtf](http://9gag.com/gag/aDYXbO9)
+ - 🚯 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)
+ - 🚯 [It has begun](http://9gag.com/gag/a1PLD3G)<!-- MEMES:END -->
 
 --- 
 
