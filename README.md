@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US National Music Publishers&#39; Association sues Twitter, alleging the company violates the copyright of songwriters by using their music without permission &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230614/p30#a230614p30)
- - [Best Buy Upgrade Plus lets you pay for a new Apple Watch Ultra over three years](https://www.theverge.com/2023/6/14/23760837/best-buy-upgrade-plus-financing-apple-watch-ultra-ipad-pro)
- - [Samsung says a Galaxy Watch update will include irregular heart rhythm notifications in 13 markets, including the US and South Korea, starting this summer &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/230614/p29#a230614p29)<!-- TECH:END -->
+ - [With iOS 17, Apple &#39;Catches Up&#39; to Rivals in the Messaging Wars     - CNET](https://www.cnet.com/tech/services-and-software/with-ios-17-apple-catches-up-to-rivals-in-messaging-wars/#ftag=CAD590a51e)
+ - [The US National Music Publishers&#39; Association sues Twitter, alleging the company violates the copyright of songwriters by using ~1,700 songs without permission &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230614/p30#a230614p30)
+ - [Paul McCartney Uses AI to Create the Final Beatles Song     - CNET](https://www.cnet.com/tech/paul-mccartney-uses-ai-to-create-the-final-beatles-song/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
