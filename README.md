@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s server outage is breaking fast food apps like McDonald’s and Taco Bell &lpar;and also The Verge&rpar;](https://www.theverge.com/2023/6/13/23759857/amazon-aws-down-outage-taco-bell-mcdonalds-burger-king)
- - [Western Digital NAS drives flash ‘warning’ after three years even if nothing’s wrong](https://www.theverge.com/2023/6/13/23759368/western-digital-three-years-warning-synology-nas)
- - [Samsung Galaxy Z Fold 5 release date: When will it launch?](https://www.androidauthority.com/samsung-galaxy-z-fold-5-release-date-3334808/)<!-- TECH:END -->
+ - [OpenAI releases new GPT-3.5-turbo and GPT-4 versions that include a new &quot;function calling&quot; feature, and reduces the pricing of the original GPT-3.5-turbo by 25% &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230613/p47#a230613p47)
+ - [A US court issues a temporary restraining order preventing Microsoft&#39;s Activision Blizzard acquisition and sets an evidentiary hearing for June 22 and 23, 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230613/p46#a230613p46)
+ - [Microsoft has been temporarily restrained from buying Activision Blizzard, judge rules](https://www.theverge.com/2023/6/13/23760192/microsoft-activision-blizzard-tro-granted-ftc-injunction)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
