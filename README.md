@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brain Drain](http://9gag.com/gag/ay2QWXy)
- - 🚯 [Little bit skittish, innit?](http://9gag.com/gag/aKEY15g)
- - 🚯 [Watching her walk right into that was amazing!](http://9gag.com/gag/ajVKOjQ)<!-- MEMES:END -->
+ - 🚖 [How the F**k](http://9gag.com/gag/aPgXeyw)
+ - 🚯 [It has begun](http://9gag.com/gag/a1PLD3G)
+ - 🚯 [Stitch boutta risk it all](http://9gag.com/gag/aXn2Nbg)<!-- MEMES:END -->
 
 --- 
 
