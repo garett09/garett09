@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU thinks Google’s most lucrative business doesn’t ad up](https://www.androidauthority.com/eu-google-ad-business-antitrust-complaint-3335008/)
- - [How to start a smart home using Amazon Alexa](https://www.theverge.com/23751608/amazon-alexa-smart-home-controller-how-to)
- - [As over 8,000 subreddits go dark, Google&#39;s results, which often improve when adding &quot;reddit&quot; to the search, have suffered &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230614/p14#a230614p14)<!-- TECH:END -->
+ - [Versions of the Glory to Hong Kong protest song were unavailable on iTunes, Spotify, and Instagram Reels in Hong Kong, after the government sought an injunction &lpar;Jessie Pang/Reuters&rpar;](http://www.techmeme.com/230614/p16#a230614p16)
+ - [Galaxy Watch will now tell you your ticker’s off with heart rate notifications](https://www.androidauthority.com/samsung-galaxy-watch-heart-rate-notifications-3334926/)
+ - [How to Download Your Reddit Data](https://www.wired.com/story/how-to-download-your-reddit-data/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
