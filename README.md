@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas bans kids from social media without parental consent](https://www.theverge.com/2023/6/14/23760975/texas-ban-social-media-kids-louisiana-utah)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [Google rolls out slew of new AI-powered features for Search, Maps, and more](https://www.androidauthority.com/google-ai-tools-launch-3335058/)<!-- TECH:END -->
+ - [Yuzo Koshiro on remastering Etrian Odyssey’s music and having fun with old hardware](https://www.theverge.com/23755370/yuzo-koshiro-interview-game-music-etrian-odyssey)
+ - [Apple’s new 15-inch MacBook Air is still $50 off at Amazon](https://www.theverge.com/2023/6/14/23759788/apple-macbook-air-15-inch-belkin-magsafe-continuity-camera-mount-metroid-dread-deal-sale)
+ - [Google Lens gets a skin condition feature that shows search results &quot;visually similar to what you see on your skin&quot; while warning they are &quot;not a diagnosis&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230614/p27#a230614p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
