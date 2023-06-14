@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yuzo Koshiro on remastering Etrian Odyssey’s music and having fun with old hardware](https://www.theverge.com/23755370/yuzo-koshiro-interview-game-music-etrian-odyssey)
- - [Apple’s new 15-inch MacBook Air is still $50 off at Amazon](https://www.theverge.com/2023/6/14/23759788/apple-macbook-air-15-inch-belkin-magsafe-continuity-camera-mount-metroid-dread-deal-sale)
- - [Google Lens gets a skin condition feature that shows search results &quot;visually similar to what you see on your skin&quot; while warning they are &quot;not a diagnosis&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230614/p27#a230614p27)<!-- TECH:END -->
+ - [15-inch MacBook Air vs 14-inch and 16-inch MacBook Pro  -- compared](https://appleinsider.com/inside/macbook-air/vs/15-inch-macbook-air-vs-14-inch-and-16-inch-macbook-pro----compared?utm_medium=rss)
+ - [I made my PS5 Fire Orange and Atomic Purple with Dbrand’s transparent Darkplates](https://www.theverge.com/2023/6/14/23760887/dbrand-retro-darkplates-transparent-ps5-sony-playstation-purple-orange-blue)
+ - [Razer updates its Blade 14 laptop with AMD Ryzen 9 7940HS, Nvidia&#39;s RTX 4060 or RTX 4070, up to 32GB of RAM, and 14&quot; QHD+ 240Hz display, starting at $2,400 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/230614/p28#a230614p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
