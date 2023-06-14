@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of the best Pixel features is now on the Pixel Watch](https://www.androidauthority.com/google-pixel-watch-at-a-glance-3334949/)
- - [The latest Google easter egg will have you rolling all around](https://www.androidauthority.com/google-katamari-easter-egg-3334955/)
- - [5 True Wireless Earbuds Worth Buying for Under $40     - CNET](https://www.cnet.com/tech/mobile/5-true-wireless-earbuds-under-40-worth-buying/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Comprehensive.io: salaries for senior engineers who specialize in AI and ML are 12% higher than for those who do not; AI-related salaries rose 4% in a year &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/230614/p4#a230614p4)
+ - [Some US doctors are using ChatGPT to communicate more empathetically with patients, including when breaking bad news and explaining medical recommendations &lpar;Gina Kolata/New York Times&rpar;](http://www.techmeme.com/230614/p3#a230614p3)
+ - [One of the best Pixel features is now on the Pixel Watch](https://www.androidauthority.com/google-pixel-watch-at-a-glance-3334949/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
