@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos slashes jobs and shrinks real estate presence in cost-cutting drive](https://appleinsider.com/articles/23/06/14/sonos-slashes-jobs-and-shrinks-real-estate-presence-in-cost-cutting-drive?utm_medium=rss)
- - [Apple is bringing back Silo for a second season](https://www.theverge.com/2023/6/14/23760771/silo-season-2-apple-tv-plus)
- - [Enterprise cloud management company Informatica acquires UK data access controls startup Privitar, which has raised $150M+ and was valued at $400M+ in 2020 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230614/p21#a230614p21)<!-- TECH:END -->
+ - [Windows 12 release date: When is the next update for desktops launching?](https://www.androidauthority.com/windows-12-release-date-3335040/)
+ - [Sony starts testing cloud streaming PS5 games](https://www.theverge.com/2023/6/14/23760879/sony-ps5-cloud-streaming-games-test)
+ - [How much do Starlink plans cost, and are they worth it?](https://www.androidauthority.com/starlink-plans-cost-3334636/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
