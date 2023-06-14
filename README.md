@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Cat like a Sir](http://9gag.com/gag/a8qwDN6)
- - 🚯 [Women&#39;s work](http://9gag.com/gag/a7qN9Dz)
- - 🚯 [We really are](http://9gag.com/gag/ago27rK)<!-- MEMES:END -->
+ - 🚯 [We really are](http://9gag.com/gag/ago27rK)
+ - 🚯 [Women&#39;s work](http://9gag.com/gag/a7qN9Dz)<!-- MEMES:END -->
 
 --- 
 
