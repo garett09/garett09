@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: US cyber insurance premiums surged 50% in 2022, due to ransomware attacks and online commerce, as policy holders claimed $7.2B, up 3x in three years &lpar;Marnie Munoz/Bloomberg&rpar;](http://www.techmeme.com/230614/p18#a230614p18)
- - [How to set up recurring Apple Cash payments in iOS 17](https://appleinsider.com/articles/23/06/14/how-to-set-up-recurring-apple-cash-payments-in-ios-17?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 14&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-14-2023-3334277/)<!-- TECH:END -->
+ - [Sonos slashes jobs and shrinks real estate presence in cost-cutting drive](https://appleinsider.com/articles/23/06/14/sonos-slashes-jobs-and-shrinks-real-estate-presence-in-cost-cutting-drive?utm_medium=rss)
+ - [Apple is bringing back Silo for a second season](https://www.theverge.com/2023/6/14/23760771/silo-season-2-apple-tv-plus)
+ - [Enterprise cloud management company Informatica acquires UK data access controls startup Privitar, which has raised $150M+ and was valued at $400M+ in 2020 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230614/p21#a230614p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
