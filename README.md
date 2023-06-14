@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [What&#39;s going on with the guards lately?](http://9gag.com/gag/a5XjB6y)
- - 🚯 [Unexpected](http://9gag.com/gag/aDYXZn9)
- - 🚯 [You can always tell with the hair colour.](http://9gag.com/gag/a9qXveo)<!-- MEMES:END -->
+ - 🚯 [Stitch boutta risk it all](http://9gag.com/gag/aXn2Nbg)
+ - 🚯 [One of his best score](http://9gag.com/gag/aVb2KyK)<!-- MEMES:END -->
 
 --- 
 
