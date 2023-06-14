@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fix it.](http://9gag.com/gag/a9qXX5Z)
- - 🚯 [This is so cute and wholesome](http://9gag.com/gag/ap9Ab2b)
- - 🚯 [I love it here &lt;3](http://9gag.com/gag/a5Xj2eG)<!-- MEMES:END -->
+ - 🚖 [Just give up your lattes kids](http://9gag.com/gag/a6qp2xR)
+ - 🚯 [Man finally sold his car after 34 years...](http://9gag.com/gag/aVb2mbM)
+ - 🚯 [Above the law? Nope. &lpar;Link in comments&rpar;](http://9gag.com/gag/armBBg0)<!-- MEMES:END -->
 
 --- 
 
