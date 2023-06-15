@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Or was this the RIGHT one? Let me know!](http://9gag.com/gag/a9qXXp1)
- - 🚯 [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)
- - 🚯 [Man finally sold his car after 34 years...](http://9gag.com/gag/aVb2mbM)<!-- MEMES:END -->
+ - 🚖 [She&#39;s had her 5 minutes](http://9gag.com/gag/aVb2KpK)
+ - 🚯 [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)
+ - 🚯 [What do you expect?](http://9gag.com/gag/a2KbbLE)<!-- MEMES:END -->
 
 --- 
 
