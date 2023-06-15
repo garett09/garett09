@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Zealand sentences two men who ran the wildly popular pirating website Megaupload to more than two years in prison, ending an 11-year extradition battle &lpar;Nick Perry/Associated Press&rpar;](http://www.techmeme.com/230615/p14#a230615p14)
- - [Future iPhones may be so scratch resistant they don&#39;t need cases](https://appleinsider.com/articles/23/06/15/future-iphones-may-be-so-scratch-resistant-they-dont-need-cases?utm_medium=rss)
- - [The Making of the Egg Butthole on ‘I Think You Should Leave’](https://www.wired.com/story/egg-game-i-think-you-should-leave-alec-robbins-butthole/)<!-- TECH:END -->
+ - [Quick fixes: have Google Recorder add speaker labels on your Pixel phone](https://www.theverge.com/23760704/google-recorder-speaker-label-how-to-pixel)
+ - [Microsoft begins selling replacement Surface components via the Microsoft Store, including displays, batteries, and SSDs, for &quot;out-of-warranty, self repair&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230615/p19#a230615p19)
+ - [Google says its Lens image search can now help identify skin conditions](https://www.theverge.com/2023/6/15/23761905/google-lens-skin-conditions-rash-identification)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
