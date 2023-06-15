@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2018’s Galaxy Watch just received a surprise update](https://www.androidauthority.com/galaxy-watch-update-2023-3335406/)
- - [Analysis: US spending on Temu was 20% higher than Shein in May 2023; Apptopia: Temu has been the top iOS app on the US App Store during most days in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230615/p11#a230615p11)
- - [How to Survive a Devastating Earthquake—and Firestorm](https://www.wired.com/story/how-to-survive-a-devastating-earthquake-and-firestorm/)<!-- TECH:END -->
+ - [New Zealand sentences two men who ran the wildly popular pirating website Megaupload to more than two years in prison, ending an 11-year extradition battle &lpar;Nick Perry/Associated Press&rpar;](http://www.techmeme.com/230615/p14#a230615p14)
+ - [Future iPhones may be so scratch resistant they don&#39;t need cases](https://appleinsider.com/articles/23/06/15/future-iphones-may-be-so-scratch-resistant-they-dont-need-cases?utm_medium=rss)
+ - [The Making of the Egg Butthole on ‘I Think You Should Leave’](https://www.wired.com/story/egg-game-i-think-you-should-leave-alec-robbins-butthole/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
