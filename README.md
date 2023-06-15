@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [IUTR](http://9gag.com/gag/ap9AYD5)
+ - 🚖 [Don&#39;t dish out any roasts if you can&#39;t take a hit yourself...](http://9gag.com/gag/a8qww7Y)
  - 🚯 [Spider man](http://9gag.com/gag/a7qNpxL)
- - 🚯 [I found it](http://9gag.com/gag/ajVKKbx)<!-- MEMES:END -->
+ - 🚯 [Bro fighting for his life](http://9gag.com/gag/aPgXQ0w)<!-- MEMES:END -->
 
 --- 
 
