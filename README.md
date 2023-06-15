@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#39;s had her 5 minutes](http://9gag.com/gag/aVb2KpK)
- - 🚯 [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)
+ - 🚖 [Just came across this Minecraft short comic called `A strange Coast` by Ian Flynn. It&#39;s probably one of the most beautiful and respectful representations of the game.](http://9gag.com/gag/ap9AxG8)
+ - 🚯 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)
  - 🚯 [What do you expect?](http://9gag.com/gag/a2KbbLE)<!-- MEMES:END -->
 
 --- 
