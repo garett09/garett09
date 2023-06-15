@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good News! China and the US Are Talking About AI Dangers](https://www.wired.com/story/china-usa-ai-dangers/)
- - [Google warns Googlers to be wary about using Google Bard](https://www.androidauthority.com/google-bard-privacy-3335539/)
- - [Alibaba plans to launch its e-commerce site Tmall in Europe, starting with a pilot in Spain, a significant step in the company&#39;s international expansion &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/230615/p29#a230615p29)<!-- TECH:END -->
+ - [Twitch’s new Partner Plus tier outlines what it takes to get a higher revenue sharing split](https://www.theverge.com/2023/6/15/23762296/twitch-streamer-partner-plus-revenue-sharing)
+ - [Siri gets a bit smarter, but Apple Home is still lagging behind](https://www.theverge.com/2023/6/6/23749556/apple-siri-home-new-features-wwdc-2023)
+ - [Best 5g home internet providers: is it worth making the switch to 5G internet?](https://www.androidauthority.com/best-5g-home-internet-providers-is-it-worth-making-the-switch-to-5g-internet-3335488/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
