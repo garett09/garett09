@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva announces a new SDK, a set of APIs, and a $50M fund to help developers build apps for its marketplace &lpar;Victor Dey/VentureBeat&rpar;](http://www.techmeme.com/230614/p33#a230614p33)
- - [It’s not just you: Steam suddenly looks nice](https://www.theverge.com/2023/6/14/23761522/steam-ui-overhaul-makeover-interface-notes-notifications)
- - [Fed Pauses Rate Hikes but More May Be Coming. What It Means for You     - CNET](https://www.cnet.com/personal-finance/banking/fed-pauses-rate-hikes-but-more-increases-are-coming-experts-unpack-what-it-means-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Calm vs Headspace: Which meditation app is right for you?](https://www.androidauthority.com/headspace-vs-calm-3334451/)
+ - [Some hackers are impersonating cybersecurity researchers on Twitter and GitHub to post fake zero-day proof-of-concept exploits that push Windows/Linux malware &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230614/p34#a230614p34)
+ - [Emoji wallpapers: What are they and how to use them](https://www.androidauthority.com/android-emoji-wallpapers-3335300/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
