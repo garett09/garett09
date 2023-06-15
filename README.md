@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Games on PS Plus: Far Cry 6, TMNT, Inscryption and Much More Coming in June     - CNET](https://www.cnet.com/tech/gaming/best-games-on-ps-plus-far-cry-6-tmnt-inscryption-and-much-more-coming-in-june/#ftag=CAD590a51e)
- - [The Xbox One era is over, Microsoft will now only make games for the Series X/S](https://www.androidauthority.com/microsoft-xbox-one-3335656/)
- - [Which devices work with Matter and what’s coming soon](https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung)<!-- TECH:END -->
+ - [ASUS ROG Phone 7 series now available to pre-order in the US](https://www.androidauthority.com/buy-asus-rog-phone-7-3335740/)
+ - [Here are some last-minute Father’s Day gifts that should arrive on time](https://www.theverge.com/23757901/fathers-day-best-sales-gifts-sonos-speakers-airpods-pro-kindle-deal-sale)
+ - [The US DOJ charges a Russian national in Arizona for allegedly deploying LockBit ransomware, the third LockBit affiliate the US has charged since November 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230615/p39#a230615p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
