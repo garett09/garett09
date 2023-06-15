@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [White men didn&#39;t pay for a football match, gets 30 years. Migrant r*pes a 12 year old White girl, gets 3 years. And ppl wonder why everything standing right from Stalin is growing.](http://9gag.com/gag/aA0Xvxo)
- - 🚯 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)
- - 🚯 [I found it](http://9gag.com/gag/ajVKKbx)<!-- MEMES:END -->
+ - 🚖 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)
+ - 🚯 [It really works](http://9gag.com/gag/awZ4Yby)
+ - 🚯 [`The Alaskan Avenger` Jason Vukovich smiling at his brother after receiving a 23 year sentence. Jason used the state&#39;s sex offender registry to track down offenders, break into their homes, and beat them with a hammer. Both Jason and his brother were sexually abused as children.](http://9gag.com/gag/awZ448Q)<!-- MEMES:END -->
 
 --- 
 
