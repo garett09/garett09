@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Is the Metaverse, Exactly?](https://www.wired.com/story/what-is-the-metaverse/)
- - [Reddit CEO Steve Huffman: Reddit ‘was never designed to support third-party apps’](https://www.theverge.com/2023/6/15/23762501/reddit-ceo-steve-huffman-interview-protests-blackout)
- - [Apple Card Monthly Installments financing terms are changing for iPhone and Apple Watch](https://appleinsider.com/articles/23/06/15/apple-card-monthly-installments-financing-terms-are-changing-for-iphone-and-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [CEO Steve Huffman says Reddit&#39;s API was &quot;never designed to support third-party apps&quot; and now takes issue with apps that are building a business on top of Reddit &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230615/p42#a230615p42)
+ - [The best cheap iPhone in 2023](https://www.androidauthority.com/best-cheap-iphone-3335734/)
+ - [Amazon officially opens Metropolitan Park in Arlington, Virginia, the first phase of its HQ2, where it has projected to bring 25,000 workers by 2030 &lpar;Teo Armus/Washington Post&rpar;](http://www.techmeme.com/230615/p41#a230615p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
