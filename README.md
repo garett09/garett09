@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know you know...](http://9gag.com/gag/aA0X4jR)
- - 🚯 [`The Alaskan Avenger` Jason Vukovich smiling at his brother after receiving a 23 year sentence. Jason used the state&#39;s sex offender registry to track down offenders, break into their homes, and beat them with a hammer. Both Jason and his brother were sexually abused as children.](http://9gag.com/gag/awZ448Q)
- - 🚯 [Bro fighting for his life](http://9gag.com/gag/aPgXQ0w)<!-- MEMES:END -->
+ - 🚖 [This is the funniest meme I have seen in ages!](https://www.reddit.com/r/memes/comments/14a4ubx/this_is_the_funniest_meme_i_have_seen_in_ages/)
+ - 🚯 [If you know you know...](http://9gag.com/gag/aA0X4jR)
+ - 🚯 [`The Alaskan Avenger` Jason Vukovich smiling at his brother after receiving a 23 year sentence. Jason used the state&#39;s sex offender registry to track down offenders, break into their homes, and beat them with a hammer. Both Jason and his brother were sexually abused as children.](http://9gag.com/gag/awZ448Q)<!-- MEMES:END -->
 
 --- 
 
