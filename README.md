@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Or was this the RIGHT one? Let me know!](http://9gag.com/gag/a9qXXp1)
- - 🚯 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)
- - 🚯 [Meanwhile a regular priest in South America...](http://9gag.com/gag/armBZry)<!-- MEMES:END -->
+ - 🚖 [Man creates an explosion instead of a bonfire for a school event](http://9gag.com/gag/a04EMpn)
+ - 🚯 [Just give up your lattes kids](http://9gag.com/gag/a6qp2xR)
+ - 🚯 [Chadantino](http://9gag.com/gag/a9qX29Z)<!-- MEMES:END -->
 
 --- 
 
