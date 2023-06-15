@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: You’re definitely open to buying a Pixel 8 phone](https://www.androidauthority.com/buy-pixel-8-series-phone-poll-results-3335357/)
- - [Research: Southeast Asia&#39;s ecommerce GMV reached $99.5B in 2022, up 1.8x from 2020, with Shopee accounting for $47.9B, Lazada $20.1B, and Tokopedia $18.4B &lpar;Jofie Yordan/Tech in Asia&rpar;](http://www.techmeme.com/230615/p7#a230615p7)
- - [A look at ByteDance&#39;s efforts to turn Douyin into a super app; ByteDance says Douyin&#39;s 700M users increased their spending on its on-demand services 7x in 2022 &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/230615/p6#a230615p6)<!-- TECH:END -->
+ - [2018’s Galaxy Watch just received a surprise update](https://www.androidauthority.com/galaxy-watch-update-2023-3335406/)
+ - [Analysis: US spending on Temu was 20% higher than Shein in May 2023; Apptopia: Temu has been the top iOS app on the US App Store during most days in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/230615/p11#a230615p11)
+ - [How to Survive a Devastating Earthquake—and Firestorm](https://www.wired.com/story/how-to-survive-a-devastating-earthquake-and-firestorm/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
