@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spider man](http://9gag.com/gag/a7qNpxL)
- - 🚯 [Don&#39;t worry he won&#39;t bite you. the dog:](http://9gag.com/gag/awZ4eA8)
- - 🚯 [Bro fighting for his life](http://9gag.com/gag/aPgXQ0w)<!-- MEMES:END -->
+ - 🚖 [IUTR](http://9gag.com/gag/ap9AYD5)
+ - 🚯 [Spider man](http://9gag.com/gag/a7qNpxL)
+ - 🚯 [I found it](http://9gag.com/gag/ajVKKbx)<!-- MEMES:END -->
 
 --- 
 
