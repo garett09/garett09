@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You gotta love it when reality wins!](http://9gag.com/gag/aeQ22zp)
- - 🚯 [When she&#39; a little ticklish](http://9gag.com/gag/aKEY8dZ)
- - 🚯 [This guy decided to drive trough Denmark in his brand new Lamborghini Huracan Spider at 228 km/h. Cars are confiscated when you&#39;re speeding more than 100% of the speed limit or above 200 km/h. The court just ruled that the law doesnt&#39;t violates any rights, so it&#39;s gone.](http://9gag.com/gag/aPgXQrB)<!-- MEMES:END -->
+ - 🚖 [Who knew ancient horses&#39; rears would be so important](http://9gag.com/gag/anzDGY0)
+ - 🚯 [It really works](http://9gag.com/gag/awZ4Yby)
+ - 🚯 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)<!-- MEMES:END -->
 
 --- 
 
