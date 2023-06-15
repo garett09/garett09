@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch’s new Partner Plus tier outlines what it takes to get a higher revenue sharing split](https://www.theverge.com/2023/6/15/23762296/twitch-streamer-partner-plus-revenue-sharing)
- - [Siri gets a bit smarter, but Apple Home is still lagging behind](https://www.theverge.com/2023/6/6/23749556/apple-siri-home-new-features-wwdc-2023)
- - [Best 5g home internet providers: is it worth making the switch to 5G internet?](https://www.androidauthority.com/best-5g-home-internet-providers-is-it-worth-making-the-switch-to-5g-internet-3335488/)<!-- TECH:END -->
+ - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
+ - [Garmin Fenix 7 Pro review: Should you buy it?](https://www.androidauthority.com/garmin-fenix-7-pro-review-3334471/)
+ - [Black Mirror’s ‘Beyond the Sea’ is a slow-motion tragedy in the depths of space](https://www.theverge.com/2023/6/15/23761949/black-mirror-season-six-beyond-the-sea-aaron-paul-josh-hartnett-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
