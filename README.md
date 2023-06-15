@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What do you expect?](http://9gag.com/gag/a2KbbLE)
- - 🚯 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)
- - 🚯 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)<!-- MEMES:END -->
+ - 🚖 [Spider man](http://9gag.com/gag/a7qNpxL)
+ - 🚯 [Lisa isn&#39;t thankful](http://9gag.com/gag/aDYXQZx)
+ - 🚯 [David grohl is a national treasure](http://9gag.com/gag/a7qNpQw)<!-- MEMES:END -->
 
 --- 
 
