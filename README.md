@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASUS ROG Phone 7 series now available to pre-order in the US](https://www.androidauthority.com/buy-asus-rog-phone-7-3335740/)
- - [Here are some last-minute Father’s Day gifts that should arrive on time](https://www.theverge.com/23757901/fathers-day-best-sales-gifts-sonos-speakers-airpods-pro-kindle-deal-sale)
- - [The US DOJ charges a Russian national in Arizona for allegedly deploying LockBit ransomware, the third LockBit affiliate the US has charged since November 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230615/p39#a230615p39)<!-- TECH:END -->
+ - [What Is the Metaverse, Exactly?](https://www.wired.com/story/what-is-the-metaverse/)
+ - [Reddit CEO Steve Huffman: Reddit ‘was never designed to support third-party apps’](https://www.theverge.com/2023/6/15/23762501/reddit-ceo-steve-huffman-interview-protests-blackout)
+ - [Apple Card Monthly Installments financing terms are changing for iPhone and Apple Watch](https://appleinsider.com/articles/23/06/15/apple-card-monthly-installments-financing-terms-are-changing-for-iphone-and-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
