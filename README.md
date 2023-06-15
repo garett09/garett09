@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Father’s Day gifts on a budget](https://www.theverge.com/23734899/best-cheap-fathers-day-gifts-dad-budget-tech-ideas-presents)
- - [OnePlus Nord N30 review: Should you buy it?](https://www.androidauthority.com/oneplus-nord-n30-review-3333235/)
- - [OnePlus Nord N30 5G Review: A Fine Android Phone](https://www.wired.com/review/oneplus-nord-n30-5g/)<!-- TECH:END -->
+ - [Sources: European Commission is planning to ban equipment from Huawei and ZTE from its own internal telecom networks, ahead of an update to its 5G guidance &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230615/p27#a230615p27)
+ - [Tesla battery material supplier tops list of human rights abuses for second year in a row](https://www.theverge.com/2023/6/15/23760915/tesla-supplier-glencore-human-rights-abuse-allegations-battery-minerals-mining-energy)
+ - [Apple iPad Mini &lpar;7th generation&rpar;: Everything we know and what we want to see](https://www.androidauthority.com/apple-ipad-mini-7th-generation-release-date-price-specs-rumors-leaks-3309898/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
