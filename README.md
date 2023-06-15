@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grab it with a beach towel or something wtf](http://9gag.com/gag/aZD2886)
+ - 🚖 [Or was this the RIGHT one? Let me know!](http://9gag.com/gag/a9qXXp1)
  - 🚯 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)
- - 🚯 [Above the law? Nope. &lpar;Link in comments&rpar;](http://9gag.com/gag/armBBg0)<!-- MEMES:END -->
+ - 🚯 [Meanwhile a regular priest in South America...](http://9gag.com/gag/armBZry)<!-- MEMES:END -->
 
 --- 
 
