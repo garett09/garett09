@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What If...?](http://9gag.com/gag/aqezzrR)
- - 🚯 [Just came across this Minecraft short comic called `A strange Coast` by Ian Flynn. It&#39;s probably one of the most beautiful and respectful representations of the game.](http://9gag.com/gag/ap9AxG8)
- - 🚯 [The Matrix, but for bees...](http://9gag.com/gag/a7qNNez)<!-- MEMES:END -->
+ - 🚖 [Remember.](http://9gag.com/gag/aWG2Don)
+ - 🚯 [What do you expect?](http://9gag.com/gag/a2KbbLE)
+ - 🚯 [Not enough speed on a water slide.](http://9gag.com/gag/aWG2vw4)<!-- MEMES:END -->
 
 --- 
 
