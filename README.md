@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Legend of Zelda: Tears of the Kingdom — all the latest on Nintendo’s huge sequel](https://www.theverge.com/2023/3/27/23658874/the-legend-of-zelda-tears-of-the-kingdom-news-announcements)
- - [Garmin Fenix 7 Pro review: Should you buy it?](https://www.androidauthority.com/garmin-fenix-7-pro-review-3334471/)
- - [Black Mirror’s ‘Beyond the Sea’ is a slow-motion tragedy in the depths of space](https://www.theverge.com/2023/6/15/23761949/black-mirror-season-six-beyond-the-sea-aaron-paul-josh-hartnett-review)<!-- TECH:END -->
+ - [Apps Apple Sherlocked at WWDC23 in iOS 17 and macOS Sonoma](https://appleinsider.com/articles/23/06/15/apps-apple-sherlocked-at-wwdc23-in-ios-17-and-macos-sonoma?utm_medium=rss)
+ - [The 17 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
