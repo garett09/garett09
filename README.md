@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [IUTR](http://9gag.com/gag/ap9AYD5)
- - 🚯 [Don&#39;t dish out any roasts if you can&#39;t take a hit yourself...](http://9gag.com/gag/a8qww7Y)
+ - 🚖 [What do you expect?](http://9gag.com/gag/a2KbbLE)
+ - 🚯 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)
  - 🚯 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)<!-- MEMES:END -->
 
 --- 
