@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who knew ancient horses&#39; rears would be so important](http://9gag.com/gag/anzDGY0)
- - 🚯 [It really works](http://9gag.com/gag/awZ4Yby)
- - 🚯 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)<!-- MEMES:END -->
+ - 🚖 [White men didn&#39;t pay for a football match, gets 30 years. Migrant r*pes a 12 year old White girl, gets 3 years. And ppl wonder why everything standing right from Stalin is growing.](http://9gag.com/gag/aA0Xvxo)
+ - 🚯 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)
+ - 🚯 [I found it](http://9gag.com/gag/ajVKKbx)<!-- MEMES:END -->
 
 --- 
 
