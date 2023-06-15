@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ agrees to try Sam Bankman-Fried on only eight charges for now, including wire fraud, securities fraud, and money laundering, of the 13 faced by him &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230615/p3#a230615p3)
- - [Jack Ma Isn&#39;t Back](https://www.wired.com/story/jack-ma-isnt-back/)
- - [A look at Fake Review Watch on YouTube, run by Kay Dean, documenting fake reviews on Yelp, Google, and others, often tracing them back to Facebook Groups &lpar;Stephen Council/SFGATE&rpar;](http://www.techmeme.com/230615/p2#a230615p2)<!-- TECH:END -->
+ - [JBL Bar 1300X Review: A Rechargeable Home Theater](https://www.wired.com/review/jbl-bar-1300x/)
+ - [Android Cinematic wallpapers are live: Here’s how to use them](https://www.androidauthority.com/android-cinematic-wallpapers-3328906/)
+ - [Meta AI&#39;s Yann LeCun says experts&#39; fears of AI threatening humanity are &quot;preposterously ridiculous&quot; and keeping research &quot;under lock and key&quot; would be a mistake &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/230615/p5#a230615p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
