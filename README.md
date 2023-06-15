@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goodbye Intel Core i5, i7, etc. Here’s what the new names mean!](https://www.androidauthority.com/intel-chip-names-rebrand-3334619/)
- - [Streamlabs launches Podcast Editor, offering text-based editing, content reformatting for other platforms, and more, now in the $19 per month Ultra package &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230615/p22#a230615p22)
- - [Motorola Moto G Stylus 5G and Moto G Stylus 2023 Review: Average Android Phones](https://www.wired.com/review/motorola-moto-g-stylus-5g-moto-g-stylus-2023/)<!-- TECH:END -->
+ - [The best Father’s Day gifts on a budget](https://www.theverge.com/23734899/best-cheap-fathers-day-gifts-dad-budget-tech-ideas-presents)
+ - [OnePlus Nord N30 review: Should you buy it?](https://www.androidauthority.com/oneplus-nord-n30-review-3333235/)
+ - [OnePlus Nord N30 5G Review: A Fine Android Phone](https://www.wired.com/review/oneplus-nord-n30-5g/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
