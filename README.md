@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just killed Google Domains: Just kidding, it got sold](https://www.androidauthority.com/google-domains-squarespace-sale-3335930/)
- - [How the &quot;arms race&quot; of SEO experts has left Google Search and the web drowning in garbage text, resulting in customers and businesses failing to find each other &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/230616/p2#a230616p2)
- - [England vs. Australia Livestream: How to Watch 1st Test Ashes Cricket From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/england-vs-australia-livestream-how-to-watch-1st-test-ashes-cricket-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple shows off iconic new Battersea store in London](https://appleinsider.com/articles/23/06/16/apple-shows-off-iconic-new-battersea-store-in-london?utm_medium=rss)
+ - [The UK CMA clears Amazon&#39;s proposed $1.7B iRobot deal, saying acquiring the robot vacuum maker would have &quot;no impact on competition in the UK&quot; &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230616/p5#a230616p5)
+ - [First ‘Designed for Xbox’ projector arrives in the US next month for $1,600](https://www.theverge.com/2023/6/16/23763219/viewsonic-x2-4k-short-throw-led-projector-designed-for-xbox-us-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
