@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)
- - 🚯 [The man in that room up there is living the best life..](http://9gag.com/gag/aBdXXy1)
- - 🚯 [Spider man](http://9gag.com/gag/a7qNpxL)<!-- MEMES:END -->
+ - 🚖 [Spider man](http://9gag.com/gag/a7qNpxL)
+ - 🚯 [Too tight](http://9gag.com/gag/armB8Y6)
+ - 🚯 [David grohl is a national treasure](http://9gag.com/gag/a7qNpQw)<!-- MEMES:END -->
 
 --- 
 
