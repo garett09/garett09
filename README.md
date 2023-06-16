@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [33 Immortals and Dungeons of Hinterberg Developers Talk About Seeing Their Games in Xbox Games Showcase](https://news.xbox.com/en-us/2023/06/16/33-immortals-and-dungeons-of-hinterberg-developers-interview/)
- - [Doom creator John Romero finally plays its most mind-blowing mod](https://www.pcgamer.com/doom-creator-john-romero-finally-plays-its-most-mind-blowing-mod)
- - [The Real-Life Dog Behind Red Dead Redemption 2’s Cain Has Died](https://kotaku.com/red-dead-redemption-2-real-dog-died-einstein-cain-rdr2-1850548051)<!-- GAME:END -->
+ - [Soryotanog Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23715228/soryotanog-shrine-puzzle-solution-chest)
+ - [Metaphor: ReFantazio, Persona devs’ next game, headed to PlayStation and Xbox](https://www.polygon.com/23757218/metaphor-re-fantazio-atlus-persona-project-re-fantasy-rpg)
+ - [Igoshon Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707126/igoshon-shrine-solution-puzzle-chest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
