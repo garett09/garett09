@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S23 series could get a taste of Android 14 as soon as July](https://www.androidauthority.com/galaxy-s23-series-android-14-3336042/)
- - [Looking for a Reddit alternative? Lemmy tell you, they currently kinda suck](https://www.androidauthority.com/reddit-alternatives-lemmy-3335429/)
- - [Apple subreddit reopens after moderation team threatened with removal](https://appleinsider.com/articles/23/06/16/apple-subreddit-reopens-after-entire-moderation-team-was-threatened-with-removal?utm_medium=rss)<!-- TECH:END -->
+ - [How to use the new password sharing in Safari on macOS Sonoma](https://appleinsider.com/articles/23/06/16/how-to-use-the-new-password-sharing-in-safari-on-macos-sonoma?utm_medium=rss)
+ - [Here’s the note Reddit sent to moderators threatening them if they don’t reopen](https://www.theverge.com/2023/6/16/23763538/reddit-blackout-api-protest-mod-replacement-threat)
+ - [&#39;70s Sci-Fi Movies Were Kind of Preachy](https://www.wired.com/2023/06/geeks-guide-70s-sci-fi-preachy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
