@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s public prosecutor investigates Binance over the &quot;illegal&quot; provision of digital asset services and &quot;acts of aggravated money laundering&quot; &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/230616/p10#a230616p10)
- - [Uber wants you to watch ads while you book a taxi and order food](https://www.androidauthority.com/uber-ads-taxi-eats-app-3335907/)
- - [The UK Is a Hot Country. It’s Time to Build Like It](https://www.wired.com/story/uk-homes-heat-wave/)<!-- TECH:END -->
+ - [In a cease-and-desist order, Texas&#39; securities regulator says crypto lender Abra has been insolvent for months and accuses the company of securities fraud &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230616/p15#a230616p15)
+ - [Oppo Find N2 Flip Review: Affordable Foldable](https://www.wired.com/review/oppo-find-n2-flip/)
+ - [How to Switch to Google Fi &lpar;2023&rpar;: Plans, Tips, and Advice](https://www.wired.com/story/how-to-switch-to-google-fi/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
