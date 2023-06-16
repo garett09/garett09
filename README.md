@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine even making a doll](http://9gag.com/gag/anzDdYB)
- - 🚯 [And yeah, I&#39;m the dad, there is nothing shady there. The weird part is that she didn&#39;t google anything about it before, didn&#39;t make any unusual purchases, didn&#39;t talk about it, didn&#39;t even suspect it. How the f**k did these algorithms know before she did...](http://9gag.com/gag/ap9AVZ8)
- - 🚯 [Who knew ancient horses&#39; rears would be so important](http://9gag.com/gag/anzDGY0)<!-- MEMES:END -->
+ - 🚖 [Life is too Short &lpar;The Office Style&rpar;](https://www.reddit.com/r/funny/comments/14b6n3j/life_is_too_short_the_office_style/)
+ - 🚯 [It really works](http://9gag.com/gag/awZ4Yby)
+ - 🚯 [Imagine even making a doll](http://9gag.com/gag/anzDdYB)<!-- MEMES:END -->
 
 --- 
 
