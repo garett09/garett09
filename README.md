@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [FUCK u/spez](https://www.reddit.com/r/memes/comments/14arvgp/fuck_uspez/)
- - 🚯 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)
- - 🚯 [The man in that room up there is living the best life..](http://9gag.com/gag/aBdXXy1)<!-- MEMES:END -->
+ - 🚖 [Truth has been spoken.](https://www.reddit.com/r/memes/comments/14asvut/truth_has_been_spoken/)
+ - 🚯 [I hope you step on a Lego u/spez](https://www.reddit.com/r/memes/comments/14asv1m/i_hope_you_step_on_a_lego_uspez/)
+ - 🚯 [Remember.](http://9gag.com/gag/aWG2Don)<!-- MEMES:END -->
 
 --- 
 
