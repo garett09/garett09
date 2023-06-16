@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It really works](http://9gag.com/gag/awZ4Yby)
- - 🚯 [Too tight](http://9gag.com/gag/armB8Y6)
- - 🚯 [Totally no bait](http://9gag.com/gag/amAVVQo)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t worry he won&#39;t bite you. the dog:](http://9gag.com/gag/awZ4eA8)
+ - 🚯 [Swiss Air Force today. I think some pants got brown today.](http://9gag.com/gag/a8qwnPY)
+ - 🚯 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)<!-- MEMES:END -->
 
 --- 
 
