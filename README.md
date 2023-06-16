@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine even making a doll](http://9gag.com/gag/anzDdYB)
- - 🚯 [Totally no bait](http://9gag.com/gag/amAVVQo)
- - 🚯 [I found it](http://9gag.com/gag/ajVKKbx)<!-- MEMES:END -->
+ - 🚖 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)
+ - 🚯 [The man in that room up there is living the best life..](http://9gag.com/gag/aBdXXy1)
+ - 🚯 [Spider man](http://9gag.com/gag/a7qNpxL)<!-- MEMES:END -->
 
 --- 
 
