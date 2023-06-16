@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swiss Air Force today. I think some pants got brown today.](http://9gag.com/gag/a8qwnPY)
+ - 🚖 [to sum up the week on here...](https://www.reddit.com/r/funny/comments/14b9add/to_sum_up_the_week_on_here/)
  - 🚯 [Little fellas](http://9gag.com/gag/aVb21Zw)
- - 🚯 [Consumption of V8 6.3lt engine with 520hp](http://9gag.com/gag/ay2QVjW)<!-- MEMES:END -->
+ - 🚯 [Yale doctor questioned on the safety of gender transition surgeries. &lpar;2:44&rpar;](http://9gag.com/gag/aZD2oD9)<!-- MEMES:END -->
 
 --- 
 
