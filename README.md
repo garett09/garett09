@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Xbox Games Showcase and Starfield Direct Highlights + More!](https://news.xbox.com/en-us/2023/06/16/this-week-on-xbox-xbox-games-showcase-and-starfield-direct-highlights-more/)
- - [Diablo IV Really Needs One More Skill Slot](https://kotaku.com/diablo-4-iv-ultimate-ult-abilities-add-more-slots-1850548865)
- - [You Can Get Tears Of The Kingdom’s Best Shield Almost Immediately](https://kotaku.com/zelda-tears-of-the-kingdom-hylian-shield-location-totk-1850432983)<!-- GAME:END -->
+ - [Vinland Saga Second Season’s Lack Of Action Is A Good Thing](https://kotaku.com/vinland-saga-season-2-thorfinn-netflix-crunchyroll-mapp-1850549053)
+ - [Diablo IV Fans Think It’s Stingy With XP, So Blizzard Is Promising Changes](https://kotaku.com/diablo-4-nightmare-dungeons-xp-grind-elite-monsters-1850549033)
+ - [40+ Weird Vintage Video Game Ads We Can’t Stop Thinking About](https://kotaku.com/best-retro-video-game-ads-playstation-atari-xbox-360-1850548825)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
