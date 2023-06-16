@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It really works](http://9gag.com/gag/awZ4Yby)
- - 🚯 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)
- - 🚯 [IUTR](http://9gag.com/gag/ap9AYD5)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t dish out any roasts if you can&#39;t take a hit yourself...](http://9gag.com/gag/a8qww7Y)
+ - 🚯 [Who knew ancient horses&#39; rears would be so important](http://9gag.com/gag/anzDGY0)
+ - 🚯 [Totally no bait](http://9gag.com/gag/amAVVQo)<!-- MEMES:END -->
 
 --- 
 
