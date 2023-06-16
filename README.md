@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t dish out any roasts if you can&#39;t take a hit yourself...](http://9gag.com/gag/a8qww7Y)
- - 🚯 [Who knew ancient horses&#39; rears would be so important](http://9gag.com/gag/anzDGY0)
- - 🚯 [Totally no bait](http://9gag.com/gag/amAVVQo)<!-- MEMES:END -->
+ - 🚖 [Imagine even making a doll](http://9gag.com/gag/anzDdYB)
+ - 🚯 [Totally no bait](http://9gag.com/gag/amAVVQo)
+ - 🚯 [I found it](http://9gag.com/gag/ajVKKbx)<!-- MEMES:END -->
 
 --- 
 
