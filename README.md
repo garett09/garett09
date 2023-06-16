@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [to sum up the week on here...](https://www.reddit.com/r/funny/comments/14b9add/to_sum_up_the_week_on_here/)
- - 🚯 [Little fellas](http://9gag.com/gag/aVb21Zw)
- - 🚯 [Yale doctor questioned on the safety of gender transition surgeries. &lpar;2:44&rpar;](http://9gag.com/gag/aZD2oD9)<!-- MEMES:END -->
+ - 🚖 [See all you in the year 3000.](http://9gag.com/gag/aEqXyAO)
+ - 🚯 [Yale doctor questioned on the safety of gender transition surgeries. &lpar;2:44&rpar;](http://9gag.com/gag/aZD2oD9)
+ - 🚯 [Bro code](http://9gag.com/gag/aqezdZP)<!-- MEMES:END -->
 
 --- 
 
