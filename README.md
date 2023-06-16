@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta reveals AI tool that lets you edit audio, speak in six languages, and more](https://www.androidauthority.com/voicebox-generative-ai-tool-3336077/)
- - [Galaxy Watch 6 press renders leak, show off expected colors](https://www.androidauthority.com/samsung-galaxy-watch-6-colors-3336099/)
- - [Base iPhone 14 now sells better than Pro models, 14 Plus still unpopular](https://appleinsider.com/articles/23/06/16/base-iphone-14-now-sells-better-than-pro-models-14-plus-still-unpopular?utm_medium=rss)<!-- TECH:END -->
+ - [Exclusive: Here’s our first look at the Fairphone 5](https://www.androidauthority.com/fairphone-5-3336135/)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [EU law requiring easier iPhone battery replacement inches closer to enactment](https://appleinsider.com/articles/23/06/16/eu-law-requiring-easier-iphone-battery-replacement-inches-closer-to-enactment?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
