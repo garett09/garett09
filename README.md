@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best satellite internet providers of 2023: An honest experience-based look](https://www.androidauthority.com/best-satellite-internet-providers-3335638/)
- - [The 46 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 50 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Leaked Samsung Galaxy Watch 6 photos herald return of the bezel](https://www.theverge.com/2023/6/16/23763824/samsung-galaxy-watch-6-classic-bezel-smartwatch)
+ - [EcoFlow Blade Review: Great robot mower, for very specific lawns](https://appleinsider.com/articles/23/06/16/ecoflow-blade-review-great-robot-mower-for-very-specific-lawns?utm_medium=rss)
+ - [RIF developer counters Reddit CEO’s claims that he didn’t want to work with Reddit](https://www.theverge.com/2023/6/16/23763661/reddit-rif-is-fun-developer-ceo-steve-huffman)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
