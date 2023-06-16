@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: Here’s our first look at the Fairphone 5](https://www.androidauthority.com/fairphone-5-3336135/)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [EU law requiring easier iPhone battery replacement inches closer to enactment](https://appleinsider.com/articles/23/06/16/eu-law-requiring-easier-iphone-battery-replacement-inches-closer-to-enactment?utm_medium=rss)<!-- TECH:END -->
+ - [Best satellite internet providers of 2023: An honest experience-based look](https://www.androidauthority.com/best-satellite-internet-providers-3335638/)
+ - [The 46 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 50 Best Shows on Netflix Right Now](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
