@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t worry he won&#39;t bite you. the dog:](http://9gag.com/gag/awZ4eA8)
- - 🚯 [Swiss Air Force today. I think some pants got brown today.](http://9gag.com/gag/a8qwnPY)
- - 🚯 [20minutes later sunk with 79 illegal immigrants drowned so far. in int&#39;l waters off greece. refused help from greek coast guard.](http://9gag.com/gag/anzDDOq)<!-- MEMES:END -->
+ - 🚖 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)
+ - 🚯 [Is this how all Balkans celebrate?](http://9gag.com/gag/a8qwnGO)
+ - 🚯 [The man in that room up there is living the best life..](http://9gag.com/gag/aBdXXy1)<!-- MEMES:END -->
 
 --- 
 
