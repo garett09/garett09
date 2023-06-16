@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life is too Short &lpar;The Office Style&rpar;](https://www.reddit.com/r/funny/comments/14b6n3j/life_is_too_short_the_office_style/)
- - 🚯 [It really works](http://9gag.com/gag/awZ4Yby)
- - 🚯 [Imagine even making a doll](http://9gag.com/gag/anzDdYB)<!-- MEMES:END -->
+ - 🚖 [Swiss Air Force today. I think some pants got brown today.](http://9gag.com/gag/a8qwnPY)
+ - 🚯 [Little fellas](http://9gag.com/gag/aVb21Zw)
+ - 🚯 [Consumption of V8 6.3lt engine with 520hp](http://9gag.com/gag/ay2QVjW)<!-- MEMES:END -->
 
 --- 
 
