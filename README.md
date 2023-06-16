@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fuck u/spez](https://www.reddit.com/r/memes/comments/14aqx2h/fuck_uspez/)
- - 🚯 [It really works](http://9gag.com/gag/awZ4Yby)
- - 🚯 [And yeah, I&#39;m the dad, there is nothing shady there. The weird part is that she didn&#39;t google anything about it before, didn&#39;t make any unusual purchases, didn&#39;t talk about it, didn&#39;t even suspect it. How the f**k did these algorithms know before she did...](http://9gag.com/gag/ap9AVZ8)<!-- MEMES:END -->
+ - 🚖 [FUCK u/spez](https://www.reddit.com/r/memes/comments/14arvgp/fuck_uspez/)
+ - 🚯 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)
+ - 🚯 [The man in that room up there is living the best life..](http://9gag.com/gag/aBdXXy1)<!-- MEMES:END -->
 
 --- 
 
