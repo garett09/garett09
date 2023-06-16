@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s comfortable WF-C700N earbuds have fallen to their best price to date](https://www.theverge.com/2023/6/16/23762717/sony-wf-c700n-wireless-earbuds-tears-of-the-kingdom-samsung-a54-phone-deal-sale)
- - [10 Best USB Flash Drives &lpar;2023&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
- - [How screen refresh rates work on your phone](https://www.theverge.com/23763320/refresh-phone-iphone-android-samsung-how-to)<!-- TECH:END -->
+ - [Galaxy S23 series could get a taste of Android 14 as soon as July](https://www.androidauthority.com/galaxy-s23-series-android-14-3336042/)
+ - [Looking for a Reddit alternative? Lemmy tell you, they currently kinda suck](https://www.androidauthority.com/reddit-alternatives-lemmy-3335429/)
+ - [Apple subreddit reopens after moderation team threatened with removal](https://appleinsider.com/articles/23/06/16/apple-subreddit-reopens-after-entire-moderation-team-was-threatened-with-removal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
