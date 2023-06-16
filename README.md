@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spider man](http://9gag.com/gag/a7qNpxL)
- - 🚯 [Lisa isn&#39;t thankful](http://9gag.com/gag/aDYXQZx)
- - 🚯 [David grohl is a national treasure](http://9gag.com/gag/a7qNpQw)<!-- MEMES:END -->
+ - 🚖 [New announcement from Reddit](https://www.reddit.com/r/memes/comments/14aivj2/new_announcement_from_reddit/)
+ - 🚯 [27-year old Takahiro Shiraishi was arrested in October of 2017 after police found nine dismembered bodies in his apartment in Tokyo. He would often respond to suicidal tweets on twitter posted by other users by saying things like: `Let&#39;s die together.` And then kaboom](http://9gag.com/gag/avQvm2M)
+ - 🚯 [Remember.](http://9gag.com/gag/aWG2Don)<!-- MEMES:END -->
 
 --- 
 
