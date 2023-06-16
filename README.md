@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shows off iconic new Battersea store in London](https://appleinsider.com/articles/23/06/16/apple-shows-off-iconic-new-battersea-store-in-london?utm_medium=rss)
- - [The UK CMA clears Amazon&#39;s proposed $1.7B iRobot deal, saying acquiring the robot vacuum maker would have &quot;no impact on competition in the UK&quot; &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/230616/p5#a230616p5)
- - [First ‘Designed for Xbox’ projector arrives in the US next month for $1,600](https://www.theverge.com/2023/6/16/23763219/viewsonic-x2-4k-short-throw-led-projector-designed-for-xbox-us-price-release-date)<!-- TECH:END -->
+ - [France&#39;s public prosecutor investigates Binance over the &quot;illegal&quot; provision of digital asset services and &quot;acts of aggravated money laundering&quot; &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/230616/p10#a230616p10)
+ - [Uber wants you to watch ads while you book a taxi and order food](https://www.androidauthority.com/uber-ads-taxi-eats-app-3335907/)
+ - [The UK Is a Hot Country. It’s Time to Build Like It](https://www.wired.com/story/uk-homes-heat-wave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
