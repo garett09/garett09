@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s 2023 summer movie festival: High School Musical 2](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
- - [Final Fantasy XVI Devs List Their Top 3 FF Games, And The Top One Is Surprising Fans](https://kotaku.com/final-fantasy-xvi-ranking-devs-favorite-games-ps5-1850547789)
- - [Why the Extraction movies rip when so many Chris Hemsworth franchises flop](https://www.polygon.com/23762574/extraction-2-chris-hemsworth-franchise-comparison-john-wick-avatar-top-gun)<!-- GAME:END -->
+ - [33 Immortals and Dungeons of Hinterberg Developers Talk About Seeing Their Games in Xbox Games Showcase](https://news.xbox.com/en-us/2023/06/16/33-immortals-and-dungeons-of-hinterberg-developers-interview/)
+ - [Doom creator John Romero finally plays its most mind-blowing mod](https://www.pcgamer.com/doom-creator-john-romero-finally-plays-its-most-mind-blowing-mod)
+ - [The Real-Life Dog Behind Red Dead Redemption 2’s Cain Has Died](https://kotaku.com/red-dead-redemption-2-real-dog-died-einstein-cain-rdr2-1850548051)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
