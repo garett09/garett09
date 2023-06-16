@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit protest updates: all the news about the API changes infuriating Redditors](https://www.theverge.com/2023/6/8/23754780/reddit-api-updates-changes-news-announcements)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [How to Live Well, Love AI, and Party Like a 6-Year-Old](https://www.wired.com/story/plaintext-how-to-live-well-love-ai-and-party-like-a-6-year-old/)<!-- TECH:END -->
+ - [Sony’s comfortable WF-C700N earbuds have fallen to their best price to date](https://www.theverge.com/2023/6/16/23762717/sony-wf-c700n-wireless-earbuds-tears-of-the-kingdom-samsung-a54-phone-deal-sale)
+ - [10 Best USB Flash Drives &lpar;2023&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
+ - [How screen refresh rates work on your phone](https://www.theverge.com/23763320/refresh-phone-iphone-android-samsung-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
