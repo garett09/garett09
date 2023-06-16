@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This modern fantasy action RPG has you take a break from corporate life to crawl dungeons](https://www.pcgamer.com/go-on-an-alpine-vacation-and-delve-some-dungeons-in-this-modern-fantasy-action-rpg)
- - [Todd Howard: Starfield Locked At 30FPS On Console For &#39;Consistency&#39;](https://kotaku.com/starfield-30fps-60fps-performance-mode-xbox-series-x-s-1850528077)
- - [Every game at the PC Gaming Show 2023](https://www.pcgamer.com/pc-gaming-show-2023-watch)<!-- GAME:END -->
+ - [Diablo IV Player Can’t Believe What Just Killed Perma-Killed His 172-Hour Druid](https://kotaku.com/diablo-4-hardcore-mode-death-bug-druid-twitch-1850547120)
+ - [Spider-Man 2 pre-order guide](https://www.polygon.com/deals/23762295/spider-man-2-pre-order-digital-collectors-deluxe-edition-ps5)
+ - [How Coin Crew entered digital gaming with Escape Academy](https://blog.playstation.com/2023/06/16/how-coin-crew-entered-digital-gaming-with-escape-academy/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
