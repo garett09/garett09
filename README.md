@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New announcement from Reddit](https://www.reddit.com/r/memes/comments/14aivj2/new_announcement_from_reddit/)
- - 🚯 [27-year old Takahiro Shiraishi was arrested in October of 2017 after police found nine dismembered bodies in his apartment in Tokyo. He would often respond to suicidal tweets on twitter posted by other users by saying things like: `Let&#39;s die together.` And then kaboom](http://9gag.com/gag/avQvm2M)
- - 🚯 [Remember.](http://9gag.com/gag/aWG2Don)<!-- MEMES:END -->
+ - 🚖 [Remember.](http://9gag.com/gag/aWG2Don)
+ - 🚯 [The man in that room up there is living the best life..](http://9gag.com/gag/aBdXXy1)
+ - 🚯 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)<!-- MEMES:END -->
 
 --- 
 
