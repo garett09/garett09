@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Soryotanog Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23715228/soryotanog-shrine-puzzle-solution-chest)
- - [Metaphor: ReFantazio, Persona devs’ next game, headed to PlayStation and Xbox](https://www.polygon.com/23757218/metaphor-re-fantazio-atlus-persona-project-re-fantasy-rpg)
- - [Igoshon Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707126/igoshon-shrine-solution-puzzle-chest)<!-- GAME:END -->
+ - [Skyrim Grandma shoots down rumors of Starfield NPC appearance: ‘I’m not in the game’](https://www.pcgamer.com/skyrim-grandma-shoots-down-rumors-of-starfield-npc-appearance-im-not-in-the-game)
+ - [Riogok Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23707990/riogok-shrine-solution-puzzle-chest)
+ - [Kadaunar Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23717364/kadaunar-shrine-puzzle-solution-chest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
