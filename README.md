@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remember.](http://9gag.com/gag/aWG2Don)
- - 🚯 [The man in that room up there is living the best life..](http://9gag.com/gag/aBdXXy1)
- - 🚯 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)<!-- MEMES:END -->
+ - 🚖 [It really works](http://9gag.com/gag/awZ4Yby)
+ - 🚯 [I&#39;m just glad for her](http://9gag.com/gag/aL1XrAP)
+ - 🚯 [IUTR](http://9gag.com/gag/ap9AYD5)<!-- MEMES:END -->
 
 --- 
 
