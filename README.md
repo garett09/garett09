@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Player Can’t Believe What Just Killed Perma-Killed His 172-Hour Druid](https://kotaku.com/diablo-4-hardcore-mode-death-bug-druid-twitch-1850547120)
- - [Spider-Man 2 pre-order guide](https://www.polygon.com/deals/23762295/spider-man-2-pre-order-digital-collectors-deluxe-edition-ps5)
- - [How Coin Crew entered digital gaming with Escape Academy](https://blog.playstation.com/2023/06/16/how-coin-crew-entered-digital-gaming-with-escape-academy/)<!-- GAME:END -->
+ - [Amnesia: The Bunker marks an evolution for one of the best horror series](https://www.polygon.com/reviews/23762290/amnesia-the-bunker-review-ps5-xbox-pc)
+ - [The son of Playboy&#39;s founder started an OnlyFans to afford rare Pokémon cards, and I&#39;m a little jealous it&#39;s worked out so well](https://www.pcgamer.com/the-son-of-playboys-founder-started-an-onlyfans-to-afford-rare-pokemon-cards-and-im-a-little-jealous-its-worked-out-so-well)
+ - [Pokémon Go ‘Solstice Horizons’ event, ‘Starry Skies’ Special Research guide](https://www.polygon.com/pokemon-go-guide/2023/6/16/23760923/solstice-horizons-event-starry-skies-special-research-collection-challenge-shiny-fomantis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
