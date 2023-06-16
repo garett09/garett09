@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the new password sharing in Safari on macOS Sonoma](https://appleinsider.com/articles/23/06/16/how-to-use-the-new-password-sharing-in-safari-on-macos-sonoma?utm_medium=rss)
- - [Here’s the note Reddit sent to moderators threatening them if they don’t reopen](https://www.theverge.com/2023/6/16/23763538/reddit-blackout-api-protest-mod-replacement-threat)
- - [&#39;70s Sci-Fi Movies Were Kind of Preachy](https://www.wired.com/2023/06/geeks-guide-70s-sci-fi-preachy/)<!-- TECH:END -->
+ - [Meta reveals AI tool that lets you edit audio, speak in six languages, and more](https://www.androidauthority.com/voicebox-generative-ai-tool-3336077/)
+ - [Galaxy Watch 6 press renders leak, show off expected colors](https://www.androidauthority.com/samsung-galaxy-watch-6-colors-3336099/)
+ - [Base iPhone 14 now sells better than Pro models, 14 Plus still unpopular](https://appleinsider.com/articles/23/06/16/base-iphone-14-now-sells-better-than-pro-models-14-plus-still-unpopular?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
