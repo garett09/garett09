@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amnesia: The Bunker marks an evolution for one of the best horror series](https://www.polygon.com/reviews/23762290/amnesia-the-bunker-review-ps5-xbox-pc)
- - [The son of Playboy&#39;s founder started an OnlyFans to afford rare Pokémon cards, and I&#39;m a little jealous it&#39;s worked out so well](https://www.pcgamer.com/the-son-of-playboys-founder-started-an-onlyfans-to-afford-rare-pokemon-cards-and-im-a-little-jealous-its-worked-out-so-well)
- - [Pokémon Go ‘Solstice Horizons’ event, ‘Starry Skies’ Special Research guide](https://www.polygon.com/pokemon-go-guide/2023/6/16/23760923/solstice-horizons-event-starry-skies-special-research-collection-challenge-shiny-fomantis)<!-- GAME:END -->
+ - [Polygon’s 2023 summer movie festival: High School Musical 2](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
+ - [Final Fantasy XVI Devs List Their Top 3 FF Games, And The Top One Is Surprising Fans](https://kotaku.com/final-fantasy-xvi-ranking-devs-favorite-games-ps5-1850547789)
+ - [Why the Extraction movies rip when so many Chris Hemsworth franchises flop](https://www.polygon.com/23762574/extraction-2-chris-hemsworth-franchise-comparison-john-wick-avatar-top-gun)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
