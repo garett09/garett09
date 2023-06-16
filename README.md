@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)
- - 🚯 [Is this how all Balkans celebrate?](http://9gag.com/gag/a8qwnGO)
- - 🚯 [The man in that room up there is living the best life..](http://9gag.com/gag/aBdXXy1)<!-- MEMES:END -->
+ - 🚖 [Early morning walk looks like a horror movie about killer trees being kept in tree prison](https://www.reddit.com/r/funny/comments/14az95e/early_morning_walk_looks_like_a_horror_movie/)
+ - 🚯 [I found it](http://9gag.com/gag/ajVKKbx)
+ - 🚯 [Imagine even making a doll](http://9gag.com/gag/anzDdYB)<!-- MEMES:END -->
 
 --- 
 
