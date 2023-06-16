@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Truth has been spoken.](https://www.reddit.com/r/memes/comments/14asvut/truth_has_been_spoken/)
- - 🚯 [I hope you step on a Lego u/spez](https://www.reddit.com/r/memes/comments/14asv1m/i_hope_you_step_on_a_lego_uspez/)
- - 🚯 [Remember.](http://9gag.com/gag/aWG2Don)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t dish out any roasts if you can&#39;t take a hit yourself...](http://9gag.com/gag/a8qww7Y)
+ - 🚯 [If you can&#39;t do the time, don&#39;t do the crime...](http://9gag.com/gag/aBdXvy1)
+ - 🚯 [Who knew ancient horses&#39; rears would be so important](http://9gag.com/gag/anzDGY0)<!-- MEMES:END -->
 
 --- 
 
