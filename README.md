@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CEO Steve Huffman says Reddit&#39;s API was &quot;never designed to support third-party apps&quot; and now takes issue with apps that are building a business on top of Reddit &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230615/p42#a230615p42)
- - [The best cheap iPhone in 2023](https://www.androidauthority.com/best-cheap-iphone-3335734/)
- - [Amazon officially opens Metropolitan Park in Arlington, Virginia, the first phase of its HQ2, where it has projected to bring 25,000 workers by 2030 &lpar;Teo Armus/Washington Post&rpar;](http://www.techmeme.com/230615/p41#a230615p41)<!-- TECH:END -->
+ - [CEO Steve Huffman says Reddit&#39;s API was &quot;never designed to support third-party apps&quot; and he didn&#39;t know the extent that they were profiting from Reddit&#39;s API &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230615/p44#a230615p44)
+ - [Intel announces its first quantum processor, Tunnel Falls, a 12-qubit chip using electrons for storing data, available to select academic and research partners &lpar;Stephen Shankland/CNET&rpar;](http://www.techmeme.com/230615/p43#a230615p43)
+ - [Reddit CEO Steve Huffman isn’t backing down: our full interview](https://www.theverge.com/2023/6/15/23762868/reddit-ceo-steve-huffman-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
