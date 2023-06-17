@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s ‘smart chips’ now let you view third party app data inside Google Docs](https://www.theverge.com/2023/6/17/23764670/google-smart-chips-third-party-integration)
- - [Netflix Tudum 2023: all the biggest news and trailers](https://www.theverge.com/2023/6/17/23761280/netflix-tudum-2023-trailers-news-announcements)
- - [The best Chromebook deals of June 2023](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
+ - [Similarweb: Reddit had ~52M visitors on June 13, down from 57M the day before blackouts began; average session fell to 7.2 minutes, the lowest in three years &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230617/p13#a230617p13)
+ - [Two of the biggest Reddit communities reopened in the funniest way possible](https://www.theverge.com/2023/6/17/23764729/reddit-users-pics-gifs-subreddits-john-oliver)
+ - [The Squid Game reality show hits Netflix in November](https://www.theverge.com/23761216/squid-game-the-challenge-reality-show-netflix-date-teaser-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
