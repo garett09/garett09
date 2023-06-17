@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cheapest countries to buy a Samsung Galaxy S23](https://www.androidauthority.com/cheapest-place-to-buy-samsung-galaxy-s23-3335713/)
- - [Kim Dotcom is ‘not giving an inch’ after sentencing of two Megaupload execs](https://www.theverge.com/2023/6/17/23764438/kim-dotcom-megaupload-executives-sentenced-to-over-two-years-new-zealand-doj)
- - [Save Up to 72% On New DeWalt Tools and Accessories at Woot     - CNET](https://www.cnet.com/deals/save-up-to-72-on-new-dewalt-tools-and-accessories-at-woot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android Apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-488-3335579/)
+ - [The Weekly Authority: 🌋 The great Reddit meltdown continues](https://www.androidauthority.com/the-weekly-authority-june-17-2023-249-3334556/)
+ - [Meta scrambles to refocus its resources on usable AI products after a decade-long focus on research in its AI division disincentivized work on generative AI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230617/p9#a230617p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
