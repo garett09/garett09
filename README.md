@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources and documents: the former Samsung executive accused of leaking sensitive tech to help advance China&#39;s chip sector had a renowned career in South Korea &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230617/p1#a230617p1)
  - [Report: ByteDance ordered ~$1B worth of Nvidia GPUs for 2023 so far, which amounts to ~100K units, including A100s ordered before US chip export controls &lpar;Francisco Pires/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230616/p32#a230616p32)
- - [Garmin Forerunner 265 vs 965: Which one should you buy?](https://www.androidauthority.com/garmin-forerunner-265-vs-965-3335952/)
- - [Amazon does not plan to host re:MARS, its annual robotics and AI conference, in 2023, saying the decision is not because of budgetary reasons &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230616/p31#a230616p31)<!-- TECH:END -->
+ - [Garmin Forerunner 265 vs 965: Which one should you buy?](https://www.androidauthority.com/garmin-forerunner-265-vs-965-3335952/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
