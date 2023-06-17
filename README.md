@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you good sir!](http://9gag.com/gag/abv2dDE)
- - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)
- - 🚯 [Let&#39;s just say they are not easy to work with...](http://9gag.com/gag/aMEX02x)<!-- MEMES:END -->
+ - 🚖 [Beautiful lie](http://9gag.com/gag/aA0XqdZ)
+ - 🚯 [Can&#39;t believe they are back in 9gag](http://9gag.com/gag/aeQ2q7Q)
+ - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)<!-- MEMES:END -->
 
 --- 
 
