@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [New fear unlocked](http://9gag.com/gag/a1PLx9w)
- - 🚯 [Bloody mass brawl between 400 Syrians and Lebanese in Essen &lpar;major city in Germany&rpar;](http://9gag.com/gag/aYV1B3O)
- - 🚯 [Pls don&#39;t delete this 9gag](http://9gag.com/gag/a7qNmwz)<!-- MEMES:END -->
+ - 🚯 [Let&#39;s just say they are not easy to work with...](http://9gag.com/gag/aMEX02x)
+ - 🚯 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)<!-- MEMES:END -->
 
 --- 
 
