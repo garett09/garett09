@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Beautiful lie](http://9gag.com/gag/aA0XqdZ)
- - 🚯 [Can&#39;t believe they are back in 9gag](http://9gag.com/gag/aeQ2q7Q)
- - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)<!-- MEMES:END -->
+ - 🚖 [New fear unlocked](http://9gag.com/gag/a1PLx9w)
+ - 🚯 [Bloody mass brawl between 400 Syrians and Lebanese in Essen &lpar;major city in Germany&rpar;](http://9gag.com/gag/aYV1B3O)
+ - 🚯 [Pls don&#39;t delete this 9gag](http://9gag.com/gag/a7qNmwz)<!-- MEMES:END -->
 
 --- 
 
