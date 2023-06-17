@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Breaking down every cameo in The Flash, from the obvious to the obscure](https://www.polygon.com/23763399/flash-cameos-batman-superman-explained)
  - [Today&#39;s Wordle hint and answer #728: Saturday, June 17](https://www.pcgamer.com/wordle-answer-today-hint-728-june-17)
- - [Twitch Mega Streamer xQc Signed By Gambling Company For $100 Million](https://kotaku.com/xqc-to-kick-twitch-twitter-reddit-adept-deal-contract-1850549551)
- - [The magical realism of Dungeons of Hinterberg unexpectedly stole my heart at not-E3](https://www.pcgamer.com/the-magical-realism-of-dungeons-of-hinterberg-unexpectedly-stole-my-heart-at-not-e3)<!-- GAME:END -->
+ - [Twitch Mega Streamer xQc Signed By Gambling Company For $100 Million](https://kotaku.com/xqc-to-kick-twitch-twitter-reddit-adept-deal-contract-1850549551)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
