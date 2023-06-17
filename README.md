@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s 3 Body Problem starts streaming in January — check out the first trailer](https://www.theverge.com/23761250/netflix-3-body-problem-trailer-release-date)
- - [Synology DS120j NAS review: easy, affordable starter storage](https://appleinsider.com/articles/23/06/17/synology-ds120j-nas-review-easy-affordable-starter-storage?utm_medium=rss)
- - [Similarweb: Reddit had ~52M visitors on Tuesday, June 13, down from 57M the day before blackouts began; average session was 7.2 minutes, lowest in three years &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230617/p13#a230617p13)<!-- TECH:END -->
+ - [Netflix Tudum 2023: all the biggest news and trailers](https://www.theverge.com/2023/6/17/23761280/netflix-tudum-2023-trailers-news-announcements)
+ - [Netflix finally shows off its swashbuckling One Piece series in first trailer](https://www.theverge.com/23762432/one-piece-netflix-trailer-release-date-live-action)
+ - [Netflix’s very brief Avatar: The Last Airbender teaser promises a 2024 premiere](https://www.theverge.com/2023/6/17/23761425/avatar-the-last-airbender-netflix-teaser-2024-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
