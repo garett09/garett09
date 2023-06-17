@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hellboy-inspired tabletop RPG Apocalypse Keys asks who will hold you as the world ends](https://www.polygon.com/23759900/apocalypse-keys-rpg-preview-impressions-release-date-price)
- - [Resident Evil has a new survival horror rival in Alan Wake 2](https://www.polygon.com/23763416/alan-wake-2-gameplay-impressions)
- - [Buy Star Wars Jedi: Survivor and Dead Space, get Resident Evil 4 for free](https://www.polygon.com/deals/23750854/best-gaming-deals-amazon-target-costco-gift-cards-the-flash)<!-- GAME:END -->
+ - [Netflix shares new and returning cast for Squid Game season 2](https://www.polygon.com/22771995/squid-game-season-2-netflix-cast-release)
+ - [One of the best shooters around finally has a mondo creepy first look at its final act](https://www.pcgamer.com/one-of-the-best-shooters-around-finally-has-a-mondo-creepy-first-look-at-its-final-act)
+ - [Kigndoms and Castles gets a nice update as devs announce new Rome-based city builder](https://www.pcgamer.com/kigndoms-and-castles-gets-a-nice-update-as-devs-announce-new-rome-based-city-builder)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
