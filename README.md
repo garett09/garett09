@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man Fuck The You Know Who For Making This Site Worse](https://www.reddit.com/r/memes/comments/14bn8ud/man_fuck_the_you_know_who_for_making_this_site/)
- - 🚯 [I don&#39;t even know what third party apps are...](https://www.reddit.com/r/memes/comments/14bn8co/i_dont_even_know_what_third_party_apps_are/)
- - 🚯 [Definitely a step daughter...](http://9gag.com/gag/aPgXz8V)<!-- MEMES:END -->
+ - 🚖 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)
+ - 🚯 [Why??](http://9gag.com/gag/armB9K7)
+ - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)<!-- MEMES:END -->
 
 --- 
 
