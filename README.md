@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix shares new and returning cast for Squid Game season 2](https://www.polygon.com/22771995/squid-game-season-2-netflix-cast-release)
- - [One of the best shooters around finally has a mondo creepy first look at its final act](https://www.pcgamer.com/one-of-the-best-shooters-around-finally-has-a-mondo-creepy-first-look-at-its-final-act)
- - [Kigndoms and Castles gets a nice update as devs announce new Rome-based city builder](https://www.pcgamer.com/kigndoms-and-castles-gets-a-nice-update-as-devs-announce-new-rome-based-city-builder)<!-- GAME:END -->
+ - [A free Vermintide 2 update adds three dwarven delights from the first game](https://www.pcgamer.com/a-free-vermintide-2-update-adds-three-dwarven-delights-from-the-first-game)
+ - [Netflix’s big sci-fi epic, 3 Body Problem, takes Game of Thrones’ creators to space](https://www.polygon.com/23760764/3-body-problem-netflix-series-release-date-cast-trailer)
+ - [Squid Game comes to real life in Netflix’s reality show The Challenge](https://www.polygon.com/23762318/squid-game-reality-show-the-challenge-netflix-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
