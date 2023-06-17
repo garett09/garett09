@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a seminal 2017 paper by Google researchers laid the groundwork for the AI hype cycle, resulting in a Silicon Valley frenzy not seen since the dot-com boom &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230617/p5#a230617p5)
- - [Binance, Binance.US, and the SEC agree to ensure only Binance.US staff can access customer funds; the proposed agreement needs sign-off from a federal judge &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230617/p4#a230617p4)
- - [Genetic testing company 1health.io settles by paying $75K to the FTC for exposing sensitive health data, in the first FTC enforcement over genetic information &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/230617/p3#a230617p3)<!-- TECH:END -->
+ - [A profile of Jack Ma, the Chinese tech icon who disappeared from public view for three months after regulators questioned him over a November 2020 speech &lpar;Lavender Au/Wired&rpar;](http://www.techmeme.com/230617/p6#a230617p6)
+ - [Want a Better Night&#39;s Sleep? Wear Socks to Bed. Here&#39;s Why     - CNET](https://www.cnet.com/health/sleep/want-a-better-nights-sleep-wear-socks-to-bed-heres-why/#ftag=CAD590a51e)
+ - [How a seminal 2017 paper by Google researchers laid the groundwork for the AI hype cycle, resulting in a Silicon Valley frenzy not seen since the dot-com boom &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230617/p5#a230617p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
