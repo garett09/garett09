@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Breaking down every cameo in The Flash, from the obvious to the obscure](https://www.polygon.com/23763399/flash-cameos-batman-superman-explained)
- - [Today&#39;s Wordle hint and answer #728: Saturday, June 17](https://www.pcgamer.com/wordle-answer-today-hint-728-june-17)
- - [Twitch Mega Streamer xQc Signed By Gambling Company For $100 Million](https://kotaku.com/xqc-to-kick-twitch-twitter-reddit-adept-deal-contract-1850549551)<!-- GAME:END -->
+ - [Buy Star Wars Jedi: Survivor and Dead Space, get Resident Evil 4 for free](https://www.polygon.com/deals/23750854/best-gaming-deals-amazon-target-costco-gift-cards-the-flash)
+ - [The 5 best horror movies to watch on Netflix and other streamers this June](https://www.polygon.com/what-to-watch/2023/6/17/23760714/best-horror-movies-netflix-streaming-watch-june-2023)
+ - [Breaking down every cameo in The Flash, from the obvious to the obscure](https://www.polygon.com/23763399/flash-cameos-batman-superman-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
