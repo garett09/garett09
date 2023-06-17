@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #728: Saturday, June 17](https://www.pcgamer.com/wordle-answer-today-hint-728-june-17)
  - [Twitch Mega Streamer xQc Signed By Gambling Company For $100 Million](https://kotaku.com/xqc-to-kick-twitch-twitter-reddit-adept-deal-contract-1850549551)
- - [The magical realism of Dungeons of Hinterberg unexpectedly stole my heart at not-E3](https://www.pcgamer.com/the-magical-realism-of-dungeons-of-hinterberg-unexpectedly-stole-my-heart-at-not-e3)
- - [Diablo 4&#39;s bringing big changes to its endgame, but a &#39;significant majority&#39; of players haven&#39;t even finished the campaign yet](https://www.pcgamer.com/diablo-4s-bringing-big-changes-to-its-post-game-but-a-significant-majority-of-players-havent-even-finished-the-campaign-yet)<!-- GAME:END -->
+ - [The magical realism of Dungeons of Hinterberg unexpectedly stole my heart at not-E3](https://www.pcgamer.com/the-magical-realism-of-dungeons-of-hinterberg-unexpectedly-stole-my-heart-at-not-e3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
