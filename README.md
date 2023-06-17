@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Resident Evil has a new survival horror rival in Alan Wake 2](https://www.polygon.com/23763416/alan-wake-2-gameplay-impressions)
  - [Buy Star Wars Jedi: Survivor and Dead Space, get Resident Evil 4 for free](https://www.polygon.com/deals/23750854/best-gaming-deals-amazon-target-costco-gift-cards-the-flash)
- - [The 5 best horror movies to watch on Netflix and other streamers this June](https://www.polygon.com/what-to-watch/2023/6/17/23760714/best-horror-movies-netflix-streaming-watch-june-2023)
- - [Breaking down every cameo in The Flash, from the obvious to the obscure](https://www.polygon.com/23763399/flash-cameos-batman-superman-explained)<!-- GAME:END -->
+ - [The 5 best horror movies to stream in June](https://www.polygon.com/what-to-watch/2023/6/17/23760714/best-horror-movies-netflix-streaming-watch-june-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
