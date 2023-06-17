@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why??](http://9gag.com/gag/armB9K7)
- - 🚯 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)
- - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)<!-- MEMES:END -->
+ - 🚖 [Thank you good sir!](http://9gag.com/gag/abv2dDE)
+ - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)
+ - 🚯 [Let&#39;s just say they are not easy to work with...](http://9gag.com/gag/aMEX02x)<!-- MEMES:END -->
 
 --- 
 
