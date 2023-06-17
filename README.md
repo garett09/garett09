@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Chromebook deals of June 2023](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
- - [Meta is rolling back its covid-19 misinformation rules in the US](https://www.theverge.com/2023/6/17/23764429/meta-covid-misinformation-rules-facebook-instagram)
- - [Block announces an open beta program for Bitkey, its self-custodial Bitcoin wallet, with Coinbase and CashApp integrations &lpar;Andrew Throuvalas/Decrypt&rpar;](http://www.techmeme.com/230617/p11#a230617p11)<!-- TECH:END -->
+ - [Google’s ‘smart chips’ now let you view third party app data inside Google Docs](https://www.theverge.com/2023/6/17/23764670/google-smart-chips-third-party-integration)
+ - [Netflix Tudum 2023: all the biggest news and trailers](https://www.theverge.com/2023/6/17/23761280/netflix-tudum-2023-trailers-news-announcements)
+ - [The best Chromebook deals of June 2023](https://www.androidauthority.com/cheap-chromebook-deals-882052/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
