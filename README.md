@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who knew ancient horses&#39; rears would be so important](http://9gag.com/gag/anzDGY0)
- - 🚯 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)
+ - 🚖 [My aunt&#39;s car](https://www.reddit.com/r/funny/comments/14beknr/my_aunts_car/)
+ - 🚯 [It’s about time we show you who really running these streets😎](https://www.reddit.com/r/funny/comments/14beji7/its_about_time_we_show_you_who_really_running/)
  - 🚯 [This shit.](http://9gag.com/gag/az2ZQAp)<!-- MEMES:END -->
 
 --- 
