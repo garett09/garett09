@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Imagine even making a doll](http://9gag.com/gag/anzDdYB)
- - 🚯 [Pls don&#39;t delete this 9gag](http://9gag.com/gag/a7qNmwz)
- - 🚯 [Definitely a step daughter...](http://9gag.com/gag/aPgXz8V)<!-- MEMES:END -->
+ - 🚯 [Who knew ancient horses&#39; rears would be so important](http://9gag.com/gag/anzDGY0)
+ - 🚯 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)<!-- MEMES:END -->
 
 --- 
 
