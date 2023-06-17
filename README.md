@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New fear unlocked](http://9gag.com/gag/a1PLx9w)
- - 🚯 [Let&#39;s just say they are not easy to work with...](http://9gag.com/gag/aMEX02x)
- - 🚯 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)<!-- MEMES:END -->
+ - 🚖 [Beyonc\u00e9 has been almost successful deleting these pictures from the internet, I was able to find only this Beyoidberg photo, can you add one to the comments if you have in your collection so she wouldn\u2019t win?](http://9gag.com/gag/amAVQ59)
+ - 🚯 [Well well well](http://9gag.com/gag/aEqXbvK)
+ - 🚯 [Wtf](http://9gag.com/gag/aPgXVoK)<!-- MEMES:END -->
 
 --- 
 
