@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Similarweb: Reddit had ~52M visitors on June 13, down from 57M the day before blackouts began; average session fell to 7.2 minutes, the lowest in three years &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230617/p13#a230617p13)
- - [Two of the biggest Reddit communities reopened in the funniest way possible](https://www.theverge.com/2023/6/17/23764729/reddit-users-pics-gifs-subreddits-john-oliver)
- - [The Squid Game reality show hits Netflix in November](https://www.theverge.com/23761216/squid-game-the-challenge-reality-show-netflix-date-teaser-trailer)<!-- TECH:END -->
+ - [Netflix’s 3 Body Problem starts streaming in January — check out the first trailer](https://www.theverge.com/23761250/netflix-3-body-problem-trailer-release-date)
+ - [Synology DS120j NAS review: easy, affordable starter storage](https://appleinsider.com/articles/23/06/17/synology-ds120j-nas-review-easy-affordable-starter-storage?utm_medium=rss)
+ - [Similarweb: Reddit had ~52M visitors on Tuesday, June 13, down from 57M the day before blackouts began; average session was 7.2 minutes, lowest in three years &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/230617/p13#a230617p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
