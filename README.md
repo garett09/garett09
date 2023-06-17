@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro code](http://9gag.com/gag/aqezdZP)
- - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)
- - 🚯 [Definitely a step daughter...](http://9gag.com/gag/aPgXz8V)<!-- MEMES:END -->
+ - 🚖 [Why??](http://9gag.com/gag/armB9K7)
+ - 🚯 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)
+ - 🚯 [Still working!](https://www.reddit.com/r/funny/comments/14bqof4/still_working/)<!-- MEMES:END -->
 
 --- 
 
