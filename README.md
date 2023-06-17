@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro could help surgeons see vital data during operations](https://appleinsider.com/articles/23/06/17/apple-vision-pro-could-help-surgeons-see-vital-data-during-operations?utm_medium=rss)
- - [Exclusive: These are the Google Pixel 8 display specs](https://www.androidauthority.com/google-pixel-8-display-specs-leak-3336078/)
- - [5 Best E-Readers &lpar;2023&rpar;: Kindle, Nook, Kobo](https://www.wired.com/gallery/best-ereaders/)<!-- TECH:END -->
+ - [Luwu Dynamics XGO-Mini2 Review: Programmable Robotic Rover](https://www.wired.com/review/review-luwu-dynamics-xgo-mini2/)
+ - [5 Best High-End Compact Cameras: Fujifilm, Sony, Ricoh, Leica, and Canon](https://www.wired.com/gallery/best-compact-cameras/)
+ - [A Newly Named Group of GRU Hackers is Wreaking Havoc in Ukraine](https://www.wired.com/story/russia-gru-cadet-blizzard-ukraine-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
