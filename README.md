@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit&#39;s management risks putting the service in a death spiral as users revolt, dedicated moderators quit, and its vibrant content moves to other platforms &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/230617/p10#a230617p10)
- - [5 Android Apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-488-3335579/)
- - [The Weekly Authority: 🌋 The great Reddit meltdown continues](https://www.androidauthority.com/the-weekly-authority-june-17-2023-249-3334556/)<!-- TECH:END -->
+ - [This Costco membership deal nets you a free $30 Costco Shop Card](https://appleinsider.com/articles/23/05/11/this-costco-membership-deal-nets-you-a-free-30-costco-shop-card?utm_medium=rss)
+ - [Baseus USB-C Hub 9-in-1 Review: Maybe too much USB-A](https://appleinsider.com/articles/23/06/17/baseus-usb-c-hub-9-in-1-review-maybe-too-much-usb-a?utm_medium=rss)
+ - [I wear a Garmin GPS watch because I never have to set it up again](https://www.androidauthority.com/garmin-gps-watch-setup-3335033/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
