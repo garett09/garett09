@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [27-year old Takahiro Shiraishi was arrested in October of 2017 after police found nine dismembered bodies in his apartment in Tokyo. He would often respond to suicidal tweets on twitter posted by other users by saying things like: `Let&#39;s die together.` And then kaboom](http://9gag.com/gag/avQvm2M)
- - 🚯 [Imagine even making a doll](http://9gag.com/gag/anzDdYB)
- - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)<!-- MEMES:END -->
+ - 🚖 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)
+ - 🚯 [Bring back trad women please](http://9gag.com/gag/az2ZvAp)
+ - 🚯 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)<!-- MEMES:END -->
 
 --- 
 
