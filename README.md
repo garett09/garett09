@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Jack Ma, the Chinese tech icon who disappeared from public view for three months after regulators questioned him over a November 2020 speech &lpar;Lavender Au/Wired&rpar;](http://www.techmeme.com/230617/p6#a230617p6)
- - [Want a Better Night&#39;s Sleep? Wear Socks to Bed. Here&#39;s Why     - CNET](https://www.cnet.com/health/sleep/want-a-better-nights-sleep-wear-socks-to-bed-heres-why/#ftag=CAD590a51e)
- - [How a seminal 2017 paper by Google researchers laid the groundwork for the AI hype cycle, resulting in a Silicon Valley frenzy not seen since the dot-com boom &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/230617/p5#a230617p5)<!-- TECH:END -->
+ - [Xiaomi 13 Ultra review: A better camera phone than the Galaxy S23 Ultra?](https://www.androidauthority.com/xiaomi-13-ultra-review-3331837/)
+ - [A Fight Over the Right to Repair Cars Takes a Wild Turn](https://www.wired.com/story/right-to-repair-cars-hackers/)
+ - [The Reddit Blackout Is Breaking Reddit](https://www.wired.com/story/the-reddit-blackout-is-breaking-reddit/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
