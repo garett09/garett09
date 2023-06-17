@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Costco membership deal nets you a free $30 Costco Shop Card](https://appleinsider.com/articles/23/05/11/this-costco-membership-deal-nets-you-a-free-30-costco-shop-card?utm_medium=rss)
- - [Baseus USB-C Hub 9-in-1 Review: Maybe too much USB-A](https://appleinsider.com/articles/23/06/17/baseus-usb-c-hub-9-in-1-review-maybe-too-much-usb-a?utm_medium=rss)
- - [I wear a Garmin GPS watch because I never have to set it up again](https://www.androidauthority.com/garmin-gps-watch-setup-3335033/)<!-- TECH:END -->
+ - [The best Chromebook deals of June 2023](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
+ - [Meta is rolling back its covid-19 misinformation rules in the US](https://www.theverge.com/2023/6/17/23764429/meta-covid-misinformation-rules-facebook-instagram)
+ - [Block announces an open beta program for Bitkey, its self-custodial Bitcoin wallet, with Coinbase and CashApp integrations &lpar;Andrew Throuvalas/Decrypt&rpar;](http://www.techmeme.com/230617/p11#a230617p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
