@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hellboy-inspired tabletop RPG Apocalypse Keys asks who will hold you as the world ends](https://www.polygon.com/23759900/apocalypse-keys-rpg-preview-impressions-release-date-price)
  - [Resident Evil has a new survival horror rival in Alan Wake 2](https://www.polygon.com/23763416/alan-wake-2-gameplay-impressions)
- - [Buy Star Wars Jedi: Survivor and Dead Space, get Resident Evil 4 for free](https://www.polygon.com/deals/23750854/best-gaming-deals-amazon-target-costco-gift-cards-the-flash)
- - [The 5 best horror movies to stream in June](https://www.polygon.com/what-to-watch/2023/6/17/23760714/best-horror-movies-netflix-streaming-watch-june-2023)<!-- GAME:END -->
+ - [Buy Star Wars Jedi: Survivor and Dead Space, get Resident Evil 4 for free](https://www.polygon.com/deals/23750854/best-gaming-deals-amazon-target-costco-gift-cards-the-flash)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
