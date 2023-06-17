@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Luwu Dynamics XGO-Mini2 Review: Programmable Robotic Rover](https://www.wired.com/review/review-luwu-dynamics-xgo-mini2/)
- - [5 Best High-End Compact Cameras: Fujifilm, Sony, Ricoh, Leica, and Canon](https://www.wired.com/gallery/best-compact-cameras/)
- - [A Newly Named Group of GRU Hackers is Wreaking Havoc in Ukraine](https://www.wired.com/story/russia-gru-cadet-blizzard-ukraine-security-roundup/)<!-- TECH:END -->
+ - [Forget iMessage, the Apple Card is what’s keeping me from switching to Android](https://www.androidauthority.com/apple-card-keeping-me-from-switching-to-android-3324542/)
+ - [12 Best Weighted Blankets &lpar;2023&rpar;: Cooling, Throws, and Robes](https://www.wired.com/gallery/best-weighted-blankets/)
+ - [Daily deals June 17: $300 off M2 Max 14-inch MacBook Pro, $100 off AirPods Max, 57% off 400GB SanDisk Ultra microSDXC card, more](https://appleinsider.com/articles/23/06/17/daily-deals-june-17-300-off-m2-max-14-inch-macbook-pro-100-off-airpods-max-57-off-400gb-sandisk-ultra-microsdxc-card-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
