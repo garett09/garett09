@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Definitely a step daughter...](http://9gag.com/gag/aPgXz8V)
+ - 🚖 [Why??](http://9gag.com/gag/armB9K7)
  - 🚯 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)
- - 🚯 [Let&#39;s just say they are not easy to work with...](http://9gag.com/gag/aMEX02x)<!-- MEMES:END -->
+ - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)<!-- MEMES:END -->
 
 --- 
 
