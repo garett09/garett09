@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mom was not amused](http://9gag.com/gag/amAVdK9)
- - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)
- - 🚯 [Bring back trad women please](http://9gag.com/gag/az2ZvAp)<!-- MEMES:END -->
+ - 🚖 [wait, the gone to private subs are having an awakening..when are we?](https://www.reddit.com/r/memes/comments/14bk3ub/wait_the_gone_to_private_subs_are_having_an/)
+ - 🚯 [Consumption of V8 6.3lt engine with 520hp](http://9gag.com/gag/ay2QVjW)
+ - 🚯 [Pls don&#39;t delete this 9gag](http://9gag.com/gag/a7qNmwz)<!-- MEMES:END -->
 
 --- 
 
