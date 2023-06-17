@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget iMessage, the Apple Card is what’s keeping me from switching to Android](https://www.androidauthority.com/apple-card-keeping-me-from-switching-to-android-3324542/)
- - [12 Best Weighted Blankets &lpar;2023&rpar;: Cooling, Throws, and Robes](https://www.wired.com/gallery/best-weighted-blankets/)
- - [Daily deals June 17: $300 off M2 Max 14-inch MacBook Pro, $100 off AirPods Max, 57% off 400GB SanDisk Ultra microSDXC card, more](https://appleinsider.com/articles/23/06/17/daily-deals-june-17-300-off-m2-max-14-inch-macbook-pro-100-off-airpods-max-57-off-400gb-sandisk-ultra-microsdxc-card-more?utm_medium=rss)<!-- TECH:END -->
+ - [The cheapest countries to buy a Samsung Galaxy S23](https://www.androidauthority.com/cheapest-place-to-buy-samsung-galaxy-s23-3335713/)
+ - [Kim Dotcom is ‘not giving an inch’ after sentencing of two Megaupload execs](https://www.theverge.com/2023/6/17/23764438/kim-dotcom-megaupload-executives-sentenced-to-over-two-years-new-zealand-doj)
+ - [Save Up to 72% On New DeWalt Tools and Accessories at Woot     - CNET](https://www.cnet.com/deals/save-up-to-72-on-new-dewalt-tools-and-accessories-at-woot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
