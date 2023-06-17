@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4&#39;s bringing big changes to its post-game, but a &#39;significant majority&#39; of players haven&#39;t even finished the campaign yet](https://www.pcgamer.com/diablo-4s-bringing-big-changes-to-its-post-game-but-a-significant-majority-of-players-havent-even-finished-the-campaign-yet)
- - [Diablo IV Devs Say Future Update Will Fix Annoying Gems](https://kotaku.com/diablo-4-gem-bag-inventory-filled-update-season-2-1850549357)
- - [xQc scores unbelievable $100 million deal to start streaming on Kick](https://www.pcgamer.com/xqc-scores-unbelievable-dollar100-million-deal-to-start-streaming-on-kick)<!-- GAME:END -->
+ - [Twitch Mega Streamer xQc Signed By Gambling Company For $100 Million](https://kotaku.com/xqc-to-kick-twitch-twitter-reddit-adept-deal-contract-1850549551)
+ - [The magical realism of Dungeons of Hinterberg unexpectedly stole my heart at not-E3](https://www.pcgamer.com/the-magical-realism-of-dungeons-of-hinterberg-unexpectedly-stole-my-heart-at-not-e3)
+ - [Diablo 4&#39;s bringing big changes to its endgame, but a &#39;significant majority&#39; of players haven&#39;t even finished the campaign yet](https://www.pcgamer.com/diablo-4s-bringing-big-changes-to-its-post-game-but-a-significant-majority-of-players-havent-even-finished-the-campaign-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
