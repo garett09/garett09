@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit&#39;s management risks putting the service in a death spiral as users revolt, dedicated moderators quit, and its vibrant content moves to other platforms &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/230617/p10#a230617p10)
  - [5 Android Apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-488-3335579/)
- - [The Weekly Authority: 🌋 The great Reddit meltdown continues](https://www.androidauthority.com/the-weekly-authority-june-17-2023-249-3334556/)
- - [Meta scrambles to refocus its resources on usable AI products after a decade-long focus on research in its AI division disincentivized work on generative AI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230617/p9#a230617p9)<!-- TECH:END -->
+ - [The Weekly Authority: 🌋 The great Reddit meltdown continues](https://www.androidauthority.com/the-weekly-authority-june-17-2023-249-3334556/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
