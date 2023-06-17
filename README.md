@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A free Vermintide 2 update adds three dwarven delights from the first game](https://www.pcgamer.com/a-free-vermintide-2-update-adds-three-dwarven-delights-from-the-first-game)
- - [Netflix’s big sci-fi epic, 3 Body Problem, takes Game of Thrones’ creators to space](https://www.polygon.com/23760764/3-body-problem-netflix-series-release-date-cast-trailer)
- - [Squid Game comes to real life in Netflix’s reality show The Challenge](https://www.polygon.com/23762318/squid-game-reality-show-the-challenge-netflix-trailer)<!-- GAME:END -->
+ - [Stranger Things 5 goes Terminator mode by adding Linda Hamilton to the cast](https://www.polygon.com/stranger-things/23762660/stranger-things-5-cast-linda-hamilton)
+ - [All the biggest reveals and trailers from Netflix’s Tudum stream](https://www.polygon.com/23762179/netflix-tudum-trailers-announcements-news-stream-one-piece-avatar-last-airbender)
+ - [Netflix’s One Piece live-action first look shows Luffy putting his crew together](https://www.polygon.com/23156375/one-piece-netflix-live-action-trailer-release-date-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
