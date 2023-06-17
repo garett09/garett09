@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal documents: Lina Khan declined to recuse herself in a case against Meta, despite a top FTC ethics official&#39;s advice, who left it up to her to decide &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230617/p2#a230617p2)
  - [Sources and documents: the former Samsung executive accused of leaking sensitive tech to help advance China&#39;s chip sector had a renowned career in South Korea &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230617/p1#a230617p1)
- - [Report: ByteDance ordered ~$1B worth of Nvidia GPUs for 2023 so far, which amounts to ~100K units, including A100s ordered before US chip export controls &lpar;Francisco Pires/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230616/p32#a230616p32)
- - [Garmin Forerunner 265 vs 965: Which one should you buy?](https://www.androidauthority.com/garmin-forerunner-265-vs-965-3335952/)<!-- TECH:END -->
+ - [Best Weather Apps for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-weather-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
