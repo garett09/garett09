@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 13 Ultra review: A better camera phone than the Galaxy S23 Ultra?](https://www.androidauthority.com/xiaomi-13-ultra-review-3331837/)
- - [A Fight Over the Right to Repair Cars Takes a Wild Turn](https://www.wired.com/story/right-to-repair-cars-hackers/)
- - [The Reddit Blackout Is Breaking Reddit](https://www.wired.com/story/the-reddit-blackout-is-breaking-reddit/)<!-- TECH:END -->
+ - [Apple Vision Pro could help surgeons see vital data during operations](https://appleinsider.com/articles/23/06/17/apple-vision-pro-could-help-surgeons-see-vital-data-during-operations?utm_medium=rss)
+ - [Exclusive: These are the Google Pixel 8 display specs](https://www.androidauthority.com/google-pixel-8-display-specs-leak-3336078/)
+ - [5 Best E-Readers &lpar;2023&rpar;: Kindle, Nook, Kobo](https://www.wired.com/gallery/best-ereaders/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
