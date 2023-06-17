@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best video downloader extensions for Chrome](https://www.androidauthority.com/best-video-downloader-extensions-for-chrome-3336219/)
- - [Mercedes Teams Up With ChatGPT To Improve How Drivers Talk to Their Cars     - CNET](https://www.cnet.com/roadshow/news/mercedes-teams-up-with-chatgpt-to-improve-how-drivers-talk-to-their-cars/#ftag=CAD590a51e)
- - [Best 3D Printer Deals: 10 Fantastic Printers at the Best Prices     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Final Fantasy VII: Ever Crisis: Release date and details](https://www.androidauthority.com/final-fantasy-vii-ever-crisis-release-date-3336321/)
+ - [Crypto payments startup Wyre says it is winding down and that investors with assets on the company&#39;s platform can withdraw them through July 14 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/230616/p29#a230616p29)
+ - [Best King-Size Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
