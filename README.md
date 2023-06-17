@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Fantasy VII: Ever Crisis: Release date and details](https://www.androidauthority.com/final-fantasy-vii-ever-crisis-release-date-3336321/)
- - [Crypto payments startup Wyre says it is winding down and that investors with assets on the company&#39;s platform can withdraw them through July 14 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/230616/p29#a230616p29)
- - [Best King-Size Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon does not plan to host re:MARS, its annual robotics and AI conference, in 2023, saying the decision is not because of budgetary reasons &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/230616/p31#a230616p31)
+ - [Source: Twitter CEO Linda Yaccarino tells investors no major ad holding firms are recommending an ad pause now and highlights a focus on video and partnerships &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/230616/p30#a230616p30)
+ - [Final Fantasy VII: Ever Crisis: Release date and details](https://www.androidauthority.com/final-fantasy-vii-ever-crisis-release-date-3336321/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
