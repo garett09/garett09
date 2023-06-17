@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [wait, the gone to private subs are having an awakening..when are we?](https://www.reddit.com/r/memes/comments/14bk3ub/wait_the_gone_to_private_subs_are_having_an/)
- - 🚯 [Consumption of V8 6.3lt engine with 520hp](http://9gag.com/gag/ay2QVjW)
- - 🚯 [Pls don&#39;t delete this 9gag](http://9gag.com/gag/a7qNmwz)<!-- MEMES:END -->
+ - 🚖 [Imagine even making a doll](http://9gag.com/gag/anzDdYB)
+ - 🚯 [Pls don&#39;t delete this 9gag](http://9gag.com/gag/a7qNmwz)
+ - 🚯 [Definitely a step daughter...](http://9gag.com/gag/aPgXz8V)<!-- MEMES:END -->
 
 --- 
 
