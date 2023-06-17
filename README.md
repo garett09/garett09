@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [See all you in the year 3000.](http://9gag.com/gag/aEqXyAO)
- - 🚯 [Yale doctor questioned on the safety of gender transition surgeries. &lpar;2:44&rpar;](http://9gag.com/gag/aZD2oD9)
- - 🚯 [Bro code](http://9gag.com/gag/aqezdZP)<!-- MEMES:END -->
+ - 🚖 [Who knew ancient horses&#39; rears would be so important](http://9gag.com/gag/anzDGY0)
+ - 🚯 [Wtf! Hans, Get ze flammenwerfer!!!!](http://9gag.com/gag/aKEYOZ6)
+ - 🚯 [This shit.](http://9gag.com/gag/az2ZQAp)<!-- MEMES:END -->
 
 --- 
 
