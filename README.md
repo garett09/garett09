@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal documents: Lina Khan declined to recuse herself in a case against Meta, despite a top FTC ethics official&#39;s advice, who left it up to her to decide &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230617/p2#a230617p2)
- - [Sources and documents: the former Samsung executive accused of leaking sensitive tech to help advance China&#39;s chip sector had a renowned career in South Korea &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230617/p1#a230617p1)
- - [Best Weather Apps for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-weather-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Binance, Binance.US, and the SEC agree to ensure only Binance.US staff can access customer funds; the proposed agreement needs sign-off from a federal judge &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230617/p4#a230617p4)
+ - [Genetic testing company 1health.io settles by paying $75K to the FTC for exposing sensitive health data, in the first FTC enforcement over genetic information &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/230617/p3#a230617p3)
+ - [FTC documents: Lina Khan did not recuse herself in the Meta/Within acquisition case, despite a top FTC ethics official&#39;s advice, who left it up to her to decide &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/230617/p2#a230617p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
