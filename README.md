@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This was heartbreaking and an amazing moment in TV history](http://9gag.com/gag/aVb28my)
- - 🚯 [Unboxing of a Peugeot](http://9gag.com/gag/a04Eg4d)
- - 🚯 [Bring back trad women please](http://9gag.com/gag/az2ZvAp)<!-- MEMES:END -->
+ - 🚖 [Proof of Hypergamy](http://9gag.com/gag/aGE2ojn)
+ - 🚯 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)
+ - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)<!-- MEMES:END -->
 
 --- 
 
