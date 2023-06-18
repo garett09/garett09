@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Father’s Day gift to his son — a tour of Mad magazine](https://www.polygon.com/2016/6/25/12031570/mad-magazine-personal-tour-fathers-day)
  - [Remembering my dad through the games we played](https://www.polygon.com/23762417/fathers-day-video-games-memories-tribute)
- - [One of TV’s best legal dramas is now on Netflix](https://www.polygon.com/23745972/suits-netflix-legal-thriller-best-tv)
- - [Skyrim mod gives you a fully voiced ex-Thalmor companion](https://www.pcgamer.com/skyrim-mod-gives-you-a-fully-voiced-ex-thalmor-companion)<!-- GAME:END -->
+ - [One of TV’s best legal dramas is now on Netflix](https://www.polygon.com/23745972/suits-netflix-legal-thriller-best-tv)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
