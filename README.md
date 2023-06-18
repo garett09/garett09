@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Is Micro-OLED? Apple Vision Pro&#39;s Display Explained     - CNET](https://www.cnet.com/tech/computing/what-is-micro-oled-apple-vision-pros-screen-tech-explained/#ftag=CAD590a51e)
- - [An assessment finds it is currently feasible for major foundation model providers to comply with the draft EU AI Act and doing so would improve transparency &lpar;Stanford CRFM&rpar;](http://www.techmeme.com/230618/p3#a230618p3)
- - [Apple Watch Ultra drops to $729.99 ahead of Amazon Prime Day](https://appleinsider.com/articles/23/06/18/apple-watch-ultra-drops-to-72999-ahead-of-amazon-prime-day?utm_medium=rss)<!-- TECH:END -->
+ - [10 Best Baby Gear &lpar;2023&rpar;: Diaper Bags, Baby Wraps, and Sound Machines](https://www.wired.com/gallery/best-baby-gear/)
+ - [Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’](https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/)
+ - [The Best Websites to Show Off Your Portfolio of Work](https://www.wired.com/story/the-best-websites-to-show-off-your-portfolio-of-work/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
