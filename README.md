@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waiter minute...](http://9gag.com/gag/aWG2Xjx)
- - 🚯 [Brave and powerful](http://9gag.com/gag/aeQ2zYm)
- - 🚯 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)<!-- MEMES:END -->
+ - 🚖 [Asking the real question](http://9gag.com/gag/a5Xjg3G)
+ - 🚯 [Bobs](http://9gag.com/gag/aVb2528)
+ - 🚯 [Wtf](http://9gag.com/gag/aPgXVoK)<!-- MEMES:END -->
 
 --- 
 
