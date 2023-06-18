@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Is Micro-OLED? Apple Vision Pro&#39;s Display Explained     - CNET](https://www.cnet.com/tech/computing/what-is-micro-oled-apple-vision-pros-screen-tech-explained/#ftag=CAD590a51e)
  - [An assessment finds it is currently feasible for major foundation model providers to comply with the draft EU AI Act and doing so would improve transparency &lpar;Stanford CRFM&rpar;](http://www.techmeme.com/230618/p3#a230618p3)
- - [Apple Watch Ultra drops to $729.99 ahead of Amazon Prime Day](https://appleinsider.com/articles/23/06/18/apple-watch-ultra-drops-to-72999-ahead-of-amazon-prime-day?utm_medium=rss)
- - [Sources: Huawei is negotiating with ~30 small to midsize Japanese firms over licensing fees for use of patented tech, an unusual move for a major manufacturer &lpar;Takahiro Shibuya/Nikkei Asia&rpar;](http://www.techmeme.com/230618/p2#a230618p2)<!-- TECH:END -->
+ - [Apple Watch Ultra drops to $729.99 ahead of Amazon Prime Day](https://appleinsider.com/articles/23/06/18/apple-watch-ultra-drops-to-72999-ahead-of-amazon-prime-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
