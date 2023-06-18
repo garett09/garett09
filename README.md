@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
- - 🚯 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)
- - 🚯 [Name that Character](http://9gag.com/gag/aPgX0vn)<!-- MEMES:END -->
+ - 🚖 [Electric Sword.](http://9gag.com/gag/aeQ28pp)
+ - 🚯 [Bobs](http://9gag.com/gag/aVb2528)
+ - 🚯 [Are people having enough of this?](http://9gag.com/gag/az2Z3Dp)<!-- MEMES:END -->
 
 --- 
 
