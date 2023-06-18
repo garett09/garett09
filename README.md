@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix Tudum 2023: all the biggest news and trailers](https://www.theverge.com/2023/6/17/23761280/netflix-tudum-2023-trailers-news-announcements)
- - [Netflix finally shows off its swashbuckling One Piece series in first trailer](https://www.theverge.com/23762432/one-piece-netflix-trailer-release-date-live-action)
- - [Netflix’s very brief Avatar: The Last Airbender teaser promises a 2024 premiere](https://www.theverge.com/2023/6/17/23761425/avatar-the-last-airbender-netflix-teaser-2024-release-date)<!-- TECH:END -->
+ - [15-inch MacBook Air teardown reveals few changes from 13-inch model](https://appleinsider.com/articles/23/06/17/15-inch-macbook-air-teardown-reveals-few-changes-from-13-inch-model?utm_medium=rss)
+ - [Report: a group of central banks developed 33 API functionalities to test 30+ CBDC online, offline, and in-store use cases, via QR codes, phones, and more &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230617/p14#a230617p14)
+ - [Netflix Tudum 2023: all the biggest news and trailers](https://www.theverge.com/2023/6/17/23761280/netflix-tudum-2023-trailers-news-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
