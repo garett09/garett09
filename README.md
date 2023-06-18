@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Father’s Day gift to his son — a tour of Mad magazine](https://www.polygon.com/2016/6/25/12031570/mad-magazine-personal-tour-fathers-day)
- - [Remembering my dad through the games we played](https://www.polygon.com/23762417/fathers-day-video-games-memories-tribute)
- - [One of TV’s best legal dramas is now on Netflix](https://www.polygon.com/23745972/suits-netflix-legal-thriller-best-tv)<!-- GAME:END -->
+ - [TikTok won’t stop Zelda-splaining](https://www.polygon.com/legend-zelda-tears-kingdom/23762464/zelda-tiktok-tips-guides-tears-of-the-kingdom-totk)
+ - [How Extraction 2’s director personally saved the one-take action sequence](https://www.polygon.com/23762855/extraction-2-sam-hargrave-interview-how-did-they-shoot-that-21-minute-one-take-action)
+ - [A Father’s Day gift to his son — a tour of Mad magazine](https://www.polygon.com/2016/6/25/12031570/mad-magazine-personal-tour-fathers-day)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
