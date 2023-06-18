@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify does nothing as Joe Rogan peddles vaccine misinformation](https://www.theverge.com/2023/6/18/23765217/joe-rogan-spotify-covid-vaccine-debate-elon-musk)
- - [Garmin Epix Pro review: Should you buy it?](https://www.androidauthority.com/garmin-epix-pro-review-3335722/)
- - [Score Massive Savings on Airline Tickets With This $100 Dollar Flight Club Membership     - CNET](https://www.cnet.com/deals/get-a-lifetime-of-travel-deals-for-100-with-this-dollar-flight-club-subscription-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EcoFlow Blade Review: Great robot mower, for very specific lawns](https://appleinsider.com/articles/23/06/16/ecoflow-blade-review-great-robot-mower-for-very-specific-lawns?utm_medium=rss)
+ - [A look at US hospitals using sometimes flawed AI-based diagnosis tools, as some clinicians say they feel pressure from administrations to defer to the algorithm &lpar;Lisa Bannon/Wall Street Journal&rpar;](http://www.techmeme.com/230618/p8#a230618p8)
+ - [Spotify does nothing as Joe Rogan peddles vaccine misinformation](https://www.theverge.com/2023/6/18/23765217/joe-rogan-spotify-covid-vaccine-debate-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
