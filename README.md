@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three of the biggest Reddit communities reopened in the funniest way possible](https://www.theverge.com/2023/6/17/23764729/reddit-users-pics-gifs-subreddits-john-oliver)
- - [Intel has agreed in principle to build a $25B manufacturing plant in Israel, which is slated to begin operations by 2027 and remain active until at least 2035 &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230618/p5#a230618p5)
- - [For the first time, I am excited about Sony’s WF-1000XM5 buds](https://www.androidauthority.com/sony-wf-1000xm5-size-comfort-3335459/)<!-- TECH:END -->
+ - [Don’t judge all of Android by the worst of Android](https://www.androidauthority.com/worst-of-android-3334814/)
+ - [Formula 1 Racing 2023: How to Watch and Livestream the Canadian GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-canadian-gp-today/#ftag=CAD590a51e)
+ - [Microsoft says June Outlook outages were a DDoS attack](https://www.theverge.com/2023/6/18/23765124/microsoft-outlook-june-ddos-attack-anonymous-sudan)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
