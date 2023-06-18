@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things 5 goes Terminator mode by adding Linda Hamilton to the cast](https://www.polygon.com/stranger-things/23762660/stranger-things-5-cast-linda-hamilton)
- - [All the biggest reveals and trailers from Netflix’s Tudum stream](https://www.polygon.com/23762179/netflix-tudum-trailers-announcements-news-stream-one-piece-avatar-last-airbender)
- - [Netflix’s One Piece live-action first look shows Luffy putting his crew together](https://www.polygon.com/23156375/one-piece-netflix-live-action-trailer-release-date-cast)<!-- GAME:END -->
+ - [The best sex games to play in 2023](https://www.pcgamer.com/best-sex-games)
+ - [One of the OG System Shock&#39;s devs is streaming the remake: &#39;We see our feet,  never coulda done that in 1994&#39;](https://www.pcgamer.com/one-of-the-og-system-shocks-devs-is-streaming-the-remake-we-see-our-feet-never-coulda-done-that-in-1994)
+ - [Fallout 76 looks like it&#39;s chasing New Vegas vibes in its next big addon](https://www.pcgamer.com/fallout-76-looks-like-its-chasing-new-vegas-vibes-in-its-next-big-addon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
