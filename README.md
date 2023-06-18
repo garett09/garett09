@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Remembering my dad through the games we played](https://www.polygon.com/23762417/fathers-day-video-games-memories-tribute)
  - [One of TV’s best legal dramas is now on Netflix](https://www.polygon.com/23745972/suits-netflix-legal-thriller-best-tv)
- - [Skyrim mod gives you a fully voiced ex-Thalmor companion](https://www.pcgamer.com/skyrim-mod-gives-you-a-fully-voiced-ex-thalmor-companion)
- - [Great moments in PC gaming: Transforming a hero into something bizarre in Wildermyth](https://www.pcgamer.com/great-moments-in-pc-gaming-transforming-a-hero-into-something-bizarre-in-wildermyth)<!-- GAME:END -->
+ - [Skyrim mod gives you a fully voiced ex-Thalmor companion](https://www.pcgamer.com/skyrim-mod-gives-you-a-fully-voiced-ex-thalmor-companion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
