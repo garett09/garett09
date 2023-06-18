@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well well well](http://9gag.com/gag/aEqXbvK)
- - 🚯 [Fear the third world](http://9gag.com/gag/a1PLjYb)
- - 🚯 [Pls don&#39;t delete this 9gag](http://9gag.com/gag/a7qNmwz)<!-- MEMES:END -->
+ - 🚖 [Yeet](http://9gag.com/gag/a8qw9dp)
+ - 🚯 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)
+ - 🚯 [Black economic empowered](http://9gag.com/gag/a2KbVZ1)<!-- MEMES:END -->
 
 --- 
 
