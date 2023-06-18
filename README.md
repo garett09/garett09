@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Great moments in PC gaming: Transforming a hero into something bizarre in Wildermyth](https://www.pcgamer.com/great-moments-in-pc-gaming-transforming-a-hero-into-something-bizarre-in-wildermyth)
  - [Today&#39;s Wordle hint and answer #729: Sunday, June 18](https://www.pcgamer.com/wordle-answer-today-hint-729-june-18)
- - [Get sci-fi spy sim Sigma Theory free this weekend](https://www.pcgamer.com/get-sci-fi-spy-sim-sigma-theory-free-this-weekend)
- - [The best sex games to play in 2023](https://www.pcgamer.com/best-sex-games)<!-- GAME:END -->
+ - [Get sci-fi spy sim Sigma Theory free this weekend](https://www.pcgamer.com/get-sci-fi-spy-sim-sigma-theory-free-this-weekend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
