@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Name that Character](http://9gag.com/gag/aPgX0vn)
- - 🚯 [German cops react to being called a Nazi...](http://9gag.com/gag/aXn2myv)
- - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)<!-- MEMES:END -->
+ - 🚖 [The landed gentry must obey the wish of the lord](https://www.reddit.com/r/memes/comments/14cy0gc/the_landed_gentry_must_obey_the_wish_of_the_lord/)
+ - 🚯 [9gag at its former glory](http://9gag.com/gag/aXn21yb)
+ - 🚯 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)<!-- MEMES:END -->
 
 --- 
 
