@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you good sir!](http://9gag.com/gag/abv2dDE)
- - 🚯 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)
- - 🚯 [Asking the real question](http://9gag.com/gag/a5Xjg3G)<!-- MEMES:END -->
+ - 🚖 [and then I said, I said](https://www.reddit.com/r/memes/comments/14cfqu7/and_then_i_said_i_said/)
+ - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)
+ - 🚯 [Well well well](http://9gag.com/gag/aEqXbvK)<!-- MEMES:END -->
 
 --- 
 
