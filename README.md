@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify does nothing as Joe Rogan peddles vaccine misinformation](https://www.theverge.com/2023/6/18/23765217/joe-rogan-spotify-covid-vaccine-debate-elon-musk)
  - [Garmin Epix Pro review: Should you buy it?](https://www.androidauthority.com/garmin-epix-pro-review-3335722/)
- - [Score Massive Savings on Airline Tickets With This $100 Dollar Flight Club Membership     - CNET](https://www.cnet.com/deals/get-a-lifetime-of-travel-deals-for-100-with-this-dollar-flight-club-subscription-deal/#ftag=CAD590a51e)
- - [Amazon and Best Buy Knock Up to 50% Off Already Affordable Motorola Phones     - CNET](https://www.cnet.com/deals/amazon-and-best-buy-knock-up-to-50-off-already-affordable-motorola-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Score Massive Savings on Airline Tickets With This $100 Dollar Flight Club Membership     - CNET](https://www.cnet.com/deals/get-a-lifetime-of-travel-deals-for-100-with-this-dollar-flight-club-subscription-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
