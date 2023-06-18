@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Baby Gear &lpar;2023&rpar;: Diaper Bags, Baby Wraps, and Sound Machines](https://www.wired.com/gallery/best-baby-gear/)
- - [Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’](https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/)
- - [The Best Websites to Show Off Your Portfolio of Work](https://www.wired.com/story/the-best-websites-to-show-off-your-portfolio-of-work/)<!-- TECH:END -->
+ - [How Huawei lost a $200M contract to build Danish telecom TDC&#39;s 5G network in 2019, after TDC opened a probe suspecting Huawei of unethical business practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230618/p4#a230618p4)
+ - [Weber Spirit E-330 Gas Grill Review: A Great Backyard Upgrade](https://www.wired.com/review/weber-spirit-e-330-gas-grill/)
+ - [The Tiny Physics Behind Immense Cosmic Eruptions](https://www.wired.com/story/the-tiny-physics-behind-immense-cosmic-eruptions/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
