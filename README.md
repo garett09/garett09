@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Repost #2](http://9gag.com/gag/aGE2Q66)
- - 🚯 [Lost my good boy who lived a full 21 years gone today. Now I&#39;m sitting here thinking of all the good times and wanted to share his sweet face with everyone](http://9gag.com/gag/a9qX0wj)
- - 🚯 [What did you do to the cat now?](http://9gag.com/gag/a9qXGKZ)<!-- MEMES:END -->
+ - 🚖 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
+ - 🚯 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)
+ - 🚯 [Name that Character](http://9gag.com/gag/aPgX0vn)<!-- MEMES:END -->
 
 --- 
 
