@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #729: Sunday, June 18](https://www.pcgamer.com/wordle-answer-today-hint-729-june-18)
  - [Get sci-fi spy sim Sigma Theory free this weekend](https://www.pcgamer.com/get-sci-fi-spy-sim-sigma-theory-free-this-weekend)
- - [The best sex games to play in 2023](https://www.pcgamer.com/best-sex-games)
- - [One of the OG System Shock&#39;s devs is streaming the remake: &#39;We see our feet,  never coulda done that in 1994&#39;](https://www.pcgamer.com/one-of-the-og-system-shocks-devs-is-streaming-the-remake-we-see-our-feet-never-coulda-done-that-in-1994)<!-- GAME:END -->
+ - [The best sex games to play in 2023](https://www.pcgamer.com/best-sex-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
