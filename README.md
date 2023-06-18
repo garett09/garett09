@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bobs](http://9gag.com/gag/aVb2528)
- - 🚯 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
- - 🚯 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)<!-- MEMES:END -->
+ - 🚖 [Asking the real question](http://9gag.com/gag/a5Xjg3G)
+ - 🚯 [Brave and powerful](http://9gag.com/gag/aeQ2zYm)
+ - 🚯 [Cinderella in another universe.](http://9gag.com/gag/aL1X5Kz)<!-- MEMES:END -->
 
 --- 
 
