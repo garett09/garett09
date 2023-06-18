@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says DDoS attacks by hacktivist group Anonymous Sudan &quot;temporarily impacted availability&quot; of some of its services, including Azure, in early June 2023 &lpar;Frank Bajak/Associated Press&rpar;](http://www.techmeme.com/230617/p16#a230617p16)
  - [How architects are using AI to design workplaces, office buildings, and spaces that cater to workers&#39; individual needs, as more companies adopt a hybrid model &lpar;Farah Nayeri/New York Times&rpar;](http://www.techmeme.com/230617/p15#a230617p15)
- - [15-inch MacBook Air teardown reveals few changes from 13-inch model](https://appleinsider.com/articles/23/06/17/15-inch-macbook-air-teardown-reveals-few-changes-from-13-inch-model?utm_medium=rss)
- - [Report: a group of central banks developed 33 API functionalities to test 30+ CBDC online, offline, and in-store use cases, via QR codes, phones, and more &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/230617/p14#a230617p14)<!-- TECH:END -->
+ - [15-inch MacBook Air teardown reveals few changes from 13-inch model](https://appleinsider.com/articles/23/06/17/15-inch-macbook-air-teardown-reveals-few-changes-from-13-inch-model?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
