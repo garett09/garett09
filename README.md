@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [One of TV’s best legal dramas is now on Netflix](https://www.polygon.com/23745972/suits-netflix-legal-thriller-best-tv)
  - [Skyrim mod gives you a fully voiced ex-Thalmor companion](https://www.pcgamer.com/skyrim-mod-gives-you-a-fully-voiced-ex-thalmor-companion)
- - [Great moments in PC gaming: Transforming a hero into something bizarre in Wildermyth](https://www.pcgamer.com/great-moments-in-pc-gaming-transforming-a-hero-into-something-bizarre-in-wildermyth)
- - [Today&#39;s Wordle hint and answer #729: Sunday, June 18](https://www.pcgamer.com/wordle-answer-today-hint-729-june-18)<!-- GAME:END -->
+ - [Great moments in PC gaming: Transforming a hero into something bizarre in Wildermyth](https://www.pcgamer.com/great-moments-in-pc-gaming-transforming-a-hero-into-something-bizarre-in-wildermyth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
