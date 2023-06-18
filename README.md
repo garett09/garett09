@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pixar’s Elemental is the new Cars](https://www.polygon.com/23762172/elemental-pixar-cars-comparison)
  - [TikTok won’t stop Zelda-splaining](https://www.polygon.com/legend-zelda-tears-kingdom/23762464/zelda-tiktok-tips-guides-tears-of-the-kingdom-totk)
- - [How Extraction 2’s director personally saved the one-take action sequence](https://www.polygon.com/23762855/extraction-2-sam-hargrave-interview-how-did-they-shoot-that-21-minute-one-take-action)
- - [A Father’s Day gift to his son — a tour of Mad magazine](https://www.polygon.com/2016/6/25/12031570/mad-magazine-personal-tour-fathers-day)<!-- GAME:END -->
+ - [How Extraction 2’s director personally saved the one-take action sequence](https://www.polygon.com/23762855/extraction-2-sam-hargrave-interview-how-did-they-shoot-that-21-minute-one-take-action)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
