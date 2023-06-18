@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t judge all of Android by the worst of Android](https://www.androidauthority.com/worst-of-android-3334814/)
- - [Formula 1 Racing 2023: How to Watch and Livestream the Canadian GP Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-canadian-gp-today/#ftag=CAD590a51e)
- - [Microsoft says June Outlook outages were a DDoS attack](https://www.theverge.com/2023/6/18/23765124/microsoft-outlook-june-ddos-attack-anonymous-sudan)<!-- TECH:END -->
+ - [Sihoo Doro C300 Ergonomic Office Chair review: extra lumbar support where you need it](https://appleinsider.com/articles/23/06/18/sihoo-doro-c300-ergonomic-office-chair-review-extra-lumbar-support-where-you-need-it?utm_medium=rss)
+ - [Investors of Bengaluru-based Mojocare say they found &quot;financial irregularities&quot; at the health care startup, which has raised ~$23M from Sequoia India and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230618/p7#a230618p7)
+ - [Don’t judge all of Android by the worst of Android](https://www.androidauthority.com/worst-of-android-3334814/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
