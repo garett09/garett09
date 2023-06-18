@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It was in 2009 ...](http://9gag.com/gag/aVb2rV2)
- - 🚯 [Harry Kurwa](http://9gag.com/gag/aVb24bd)
- - 🚯 [Bring back trad women please](http://9gag.com/gag/az2ZvAp)<!-- MEMES:END -->
+ - 🚖 [Wtf](http://9gag.com/gag/aPgXVoK)
+ - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)
+ - 🚯 [Well well well](http://9gag.com/gag/aEqXbvK)<!-- MEMES:END -->
 
 --- 
 
