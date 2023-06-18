@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pixar’s Elemental is the new Cars](https://www.polygon.com/23762172/elemental-pixar-cars-comparison)
- - [TikTok won’t stop Zelda-splaining](https://www.polygon.com/legend-zelda-tears-kingdom/23762464/zelda-tiktok-tips-guides-tears-of-the-kingdom-totk)
- - [How Extraction 2’s director personally saved the one-take action sequence](https://www.polygon.com/23762855/extraction-2-sam-hargrave-interview-how-did-they-shoot-that-21-minute-one-take-action)<!-- GAME:END -->
+ - [The best gaming keyboards](https://www.polygon.com/what-to-buy/23717326/best-gaming-keyboards-mechanical)
+ - [World of Horror will actually finally release in October](https://www.pcgamer.com/world-of-horror-will-actually-finally-release-in-october)
+ - [Pixar’s Elemental is the new Cars](https://www.polygon.com/23762172/elemental-pixar-cars-comparison)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
