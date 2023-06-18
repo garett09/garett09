@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taliban officials keep getting their WhatsApp accounts banned, causing disruptions at the nascent government, which relies on the platform for communication &lpar;New York Times&rpar;](http://www.techmeme.com/230618/p1#a230618p1)
  - [Microsoft says DDoS attacks by hacktivist group Anonymous Sudan &quot;temporarily impacted availability&quot; of some of its services, including Azure, in early June 2023 &lpar;Frank Bajak/Associated Press&rpar;](http://www.techmeme.com/230617/p16#a230617p16)
- - [How architects are using AI to design workplaces, office buildings, and spaces that cater to workers&#39; individual needs, as more companies adopt a hybrid model &lpar;Farah Nayeri/New York Times&rpar;](http://www.techmeme.com/230617/p15#a230617p15)
- - [15-inch MacBook Air teardown reveals few changes from 13-inch model](https://appleinsider.com/articles/23/06/17/15-inch-macbook-air-teardown-reveals-few-changes-from-13-inch-model?utm_medium=rss)<!-- TECH:END -->
+ - [How architects are using AI to design workplaces, office buildings, and spaces that cater to workers&#39; individual needs, as more companies adopt a hybrid model &lpar;Farah Nayeri/New York Times&rpar;](http://www.techmeme.com/230617/p15#a230617p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
