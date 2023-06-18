@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf](http://9gag.com/gag/aPgXVoK)
- - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)
- - 🚯 [Well well well](http://9gag.com/gag/aEqXbvK)<!-- MEMES:END -->
+ - 🚖 [Asking the real question](http://9gag.com/gag/a5Xjg3G)
+ - 🚯 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)
+ - 🚯 [Thank you good sir!](http://9gag.com/gag/abv2dDE)<!-- MEMES:END -->
 
 --- 
 
