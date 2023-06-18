@@ -142,7 +142,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- TECH:START -->
  - [EcoFlow Blade Review: Great robot mower, for very specific lawns](https://appleinsider.com/articles/23/06/16/ecoflow-blade-review-great-robot-mower-for-very-specific-lawns?utm_medium=rss)
  - [A look at US hospitals using sometimes flawed AI-based diagnosis tools, as some clinicians say they feel pressure from administrations to defer to the algorithm &lpar;Lisa Bannon/Wall Street Journal&rpar;](http://www.techmeme.com/230618/p8#a230618p8)
- - [Spotify does nothing as Joe Rogan peddles vaccine misinformation](https://www.theverge.com/2023/6/18/23765217/joe-rogan-spotify-covid-vaccine-debate-elon-musk)<!-- TECH:END -->
+ - [About 1 in 3 Adults Exposed to Risky Levels of Noise, Apple Study Finds     - CNET](https://www.cnet.com/health/medical/about-one-in-three-adults-exposed-to-risky-levels-of-noise-apple-study-finds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
