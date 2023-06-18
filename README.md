@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asking the real question](http://9gag.com/gag/a5Xjg3G)
- - 🚯 [Bobs](http://9gag.com/gag/aVb2528)
- - 🚯 [Wtf](http://9gag.com/gag/aPgXVoK)<!-- MEMES:END -->
+ - 🚖 [Bobs](http://9gag.com/gag/aVb2528)
+ - 🚯 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
+ - 🚯 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)<!-- MEMES:END -->
 
 --- 
 
