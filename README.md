@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [One of Rockstar&#39;s cofounders is finally teasing what&#39;s next with a music video and a big ole&#39; creepy eyeball](https://www.pcgamer.com/one-of-rockstars-cofounders-is-finally-teasing-whats-next-with-a-music-video-and-a-big-ole-creepy-eyeball)
  - [I&#39;m hoping against hope that Cyberpunk 2077&#39;s expansion overhaul will finally fix the game&#39;s lingering mechanics malaise](https://www.pcgamer.com/im-hoping-against-hope-that-cyberpunk-2077s-expansion-overhaul-will-finally-fix-the-games-lingering-mechanics-malaise)
- - [Here&#39;s space corporations doing things they shouldn&#39;t in the Aliens: Dark Descent story trailer](https://www.pcgamer.com/heres-space-corporations-doing-things-they-shouldnt-in-the-aliens-dark-descent-story-trailer)
- - [Gunpowder soulslike Flintlock delayed into 2024](https://www.pcgamer.com/gunpowder-soulslike-flintlock-delayed-into-2024)<!-- GAME:END -->
+ - [Here&#39;s space corporations doing things they shouldn&#39;t in the Aliens: Dark Descent story trailer](https://www.pcgamer.com/heres-space-corporations-doing-things-they-shouldnt-in-the-aliens-dark-descent-story-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
