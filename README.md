@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Huawei is negotiating with ~30 small to midsize Japanese firms over licensing fees for use of patented tech, an unusual move for a major manufacturer &lpar;Takahiro Shibuya/Nikkei Asia&rpar;](http://www.techmeme.com/230618/p2#a230618p2)
- - [Taliban officials keep getting their WhatsApp accounts banned, causing disruptions at the nascent government, which relies on the platform for communication &lpar;New York Times&rpar;](http://www.techmeme.com/230618/p1#a230618p1)
- - [Microsoft says DDoS attacks by hacktivist group Anonymous Sudan &quot;temporarily impacted availability&quot; of some of its services, including Azure, in early June 2023 &lpar;Frank Bajak/Associated Press&rpar;](http://www.techmeme.com/230617/p16#a230617p16)<!-- TECH:END -->
+ - [An assessment finds it is currently feasible for major foundation model providers to comply with the draft EU AI Act and doing so would improve transparency &lpar;Stanford CRFM&rpar;](http://www.techmeme.com/230618/p3#a230618p3)
+ - [Apple Watch Ultra drops to $729.99 ahead of Amazon Prime Day](https://appleinsider.com/articles/23/06/18/apple-watch-ultra-drops-to-72999-ahead-of-amazon-prime-day?utm_medium=rss)
+ - [Sources: Huawei is negotiating with ~30 small to midsize Japanese firms over licensing fees for use of patented tech, an unusual move for a major manufacturer &lpar;Takahiro Shibuya/Nikkei Asia&rpar;](http://www.techmeme.com/230618/p2#a230618p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
