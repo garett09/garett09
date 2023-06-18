@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cinderella in another universe.](http://9gag.com/gag/aL1X5Kz)
- - 🚯 [German cops react to being called a Nazi...](http://9gag.com/gag/aXn2myv)
- - 🚯 [Bobs](http://9gag.com/gag/aVb2528)<!-- MEMES:END -->
+ - 🚖 [Asking the real question](http://9gag.com/gag/a5Xjg3G)
+ - 🚯 [Wtf](http://9gag.com/gag/aPgXVoK)
+ - 🚯 [German cops react to being called a Nazi...](http://9gag.com/gag/aXn2myv)<!-- MEMES:END -->
 
 --- 
 
