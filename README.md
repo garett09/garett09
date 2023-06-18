@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Sleeping Pads &lpar;2023&rpar;: For Camping, Backpacking, and Travel](https://www.wired.com/story/best-sleeping-pads/)
- - [Daily deals June 18: $100 off an M1 Max 16-inch MacBook Pro, $110 off Xbox Series X, 22% off Meta Quest 2, more](https://appleinsider.com/articles/23/06/18/daily-deals-june-18-100-off-an-m1-max-16-inch-macbook-pro-110-off-xbox-series-x-22-off-meta-quest-2-more?utm_medium=rss)
- - [How Huawei lost a $200M contract to build Danish telecom TDC&#39;s 5G network in 2019, after TDC opened a probe suspecting Huawei of unethical business practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230618/p4#a230618p4)<!-- TECH:END -->
+ - [Intel has agreed in principle to build a $25B manufacturing plant in Israel, which is slated to begin operations by 2027 and remain active until at least 2035 &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230618/p5#a230618p5)
+ - [For the first time, I am excited about Sony’s WF-1000XM5 buds](https://www.androidauthority.com/sony-wf-1000xm5-size-comfort-3335459/)
+ - [The 9 Best Travel Adapters &lpar;2023&rpar;: Plug and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
