@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Three of the biggest Reddit communities reopened in the funniest way possible](https://www.theverge.com/2023/6/17/23764729/reddit-users-pics-gifs-subreddits-john-oliver)
  - [Intel has agreed in principle to build a $25B manufacturing plant in Israel, which is slated to begin operations by 2027 and remain active until at least 2035 &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/230618/p5#a230618p5)
- - [For the first time, I am excited about Sony’s WF-1000XM5 buds](https://www.androidauthority.com/sony-wf-1000xm5-size-comfort-3335459/)
- - [The 9 Best Travel Adapters &lpar;2023&rpar;: Plug and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
+ - [For the first time, I am excited about Sony’s WF-1000XM5 buds](https://www.androidauthority.com/sony-wf-1000xm5-size-comfort-3335459/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
