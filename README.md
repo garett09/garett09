@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [9gag at its former glory](http://9gag.com/gag/aXn21yb)
- - 🚯 [Well well well](http://9gag.com/gag/aEqXbvK)
- - 🚯 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)<!-- MEMES:END -->
+ - 🚖 [Well well well](http://9gag.com/gag/aEqXbvK)
+ - 🚯 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)
+ - 🚯 [German cops react to being called a Nazi...](http://9gag.com/gag/aXn2myv)<!-- MEMES:END -->
 
 --- 
 
