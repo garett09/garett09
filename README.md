@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EcoFlow Blade Review: Great robot mower, for very specific lawns](https://appleinsider.com/articles/23/06/16/ecoflow-blade-review-great-robot-mower-for-very-specific-lawns?utm_medium=rss)
- - [A look at US hospitals using sometimes flawed AI-based diagnosis tools, as some clinicians say they feel pressure from administrations to defer to the algorithm &lpar;Lisa Bannon/Wall Street Journal&rpar;](http://www.techmeme.com/230618/p8#a230618p8)
- - [About 1 in 3 Adults Exposed to Risky Levels of Noise, Apple Study Finds     - CNET](https://www.cnet.com/health/medical/about-one-in-three-adults-exposed-to-risky-levels-of-noise-apple-study-finds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Multiview on Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-use-multiview-on-apple-tv?utm_medium=rss)
+ - [Amazon insists striking delivery drivers don’t really work for Amazon](https://www.theverge.com/2023/6/18/23765330/amazon-delivery-drivers-union-teamsters)
+ - [EcoFlow Blade Review: Great robot mower, for very specific lawns](https://appleinsider.com/articles/23/06/16/ecoflow-blade-review-great-robot-mower-for-very-specific-lawns?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
