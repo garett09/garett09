@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gunpowder soulslike Flintlock delayed into 2024](https://www.pcgamer.com/gunpowder-soulslike-flintlock-delayed-into-2024)
- - [Humble is offering the motherlode of Destiny lore ebooks for just $9](https://www.pcgamer.com/humble-is-offering-the-motherlode-of-destiny-lore-ebooks-for-just-dollar9)
- - [The best gaming keyboards](https://www.polygon.com/what-to-buy/23717326/best-gaming-keyboards-mechanical)<!-- GAME:END -->
+ - [I&#39;m hoping against hope that Cyberpunk 2077&#39;s expansion overhaul will finally fix the game&#39;s lingering mechanics malaise](https://www.pcgamer.com/im-hoping-against-hope-that-cyberpunk-2077s-expansion-overhaul-will-finally-fix-the-games-lingering-mechanics-malaise)
+ - [Here&#39;s space corporations doing things they shouldn&#39;t in the Aliens: Dark Descent story trailer](https://www.pcgamer.com/heres-space-corporations-doing-things-they-shouldnt-in-the-aliens-dark-descent-story-trailer)
+ - [Gunpowder soulslike Flintlock delayed into 2024](https://www.pcgamer.com/gunpowder-soulslike-flintlock-delayed-into-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
