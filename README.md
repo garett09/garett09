@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Huawei lost a $200M contract to build Danish telecom TDC&#39;s 5G network in 2019, after TDC opened a probe suspecting Huawei of unethical business practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230618/p4#a230618p4)
- - [Weber Spirit E-330 Gas Grill Review: A Great Backyard Upgrade](https://www.wired.com/review/weber-spirit-e-330-gas-grill/)
- - [The Tiny Physics Behind Immense Cosmic Eruptions](https://www.wired.com/story/the-tiny-physics-behind-immense-cosmic-eruptions/)<!-- TECH:END -->
+ - [7 Best Sleeping Pads &lpar;2023&rpar;: For Camping, Backpacking, and Travel](https://www.wired.com/story/best-sleeping-pads/)
+ - [Daily deals June 18: $100 off an M1 Max 16-inch MacBook Pro, $110 off Xbox Series X, 22% off Meta Quest 2, more](https://appleinsider.com/articles/23/06/18/daily-deals-june-18-100-off-an-m1-max-16-inch-macbook-pro-110-off-xbox-series-x-22-off-meta-quest-2-more?utm_medium=rss)
+ - [How Huawei lost a $200M contract to build Danish telecom TDC&#39;s 5G network in 2019, after TDC opened a probe suspecting Huawei of unethical business practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230618/p4#a230618p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
