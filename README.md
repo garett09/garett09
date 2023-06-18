@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf](http://9gag.com/gag/aPgXVoK)
- - 🚯 [German cops react to being called a Nazi...](http://9gag.com/gag/aXn2myv)
- - 🚯 [Fear the third world](http://9gag.com/gag/a1PLjYb)<!-- MEMES:END -->
+ - 🚖 [Well well well](http://9gag.com/gag/aEqXbvK)
+ - 🚯 [Fear the third world](http://9gag.com/gag/a1PLjYb)
+ - 🚯 [Pls don&#39;t delete this 9gag](http://9gag.com/gag/a7qNmwz)<!-- MEMES:END -->
 
 --- 
 
