@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Electric Sword.](http://9gag.com/gag/aeQ28pp)
- - 🚯 [Bobs](http://9gag.com/gag/aVb2528)
- - 🚯 [Are people having enough of this?](http://9gag.com/gag/az2Z3Dp)<!-- MEMES:END -->
+ - 🚖 [Name that Character](http://9gag.com/gag/aPgX0vn)
+ - 🚯 [German cops react to being called a Nazi...](http://9gag.com/gag/aXn2myv)
+ - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)<!-- MEMES:END -->
 
 --- 
 
