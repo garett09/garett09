@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Proof of Hypergamy](http://9gag.com/gag/aGE2ojn)
- - 🚯 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)
- - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)<!-- MEMES:END -->
+ - 🚖 [It was in 2009 ...](http://9gag.com/gag/aVb2rV2)
+ - 🚯 [Harry Kurwa](http://9gag.com/gag/aVb24bd)
+ - 🚯 [Bring back trad women please](http://9gag.com/gag/az2ZvAp)<!-- MEMES:END -->
 
 --- 
 
