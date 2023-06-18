@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeet](http://9gag.com/gag/a8qw9dp)
+ - 🚖 [Thank you good sir!](http://9gag.com/gag/abv2dDE)
  - 🚯 [`If I ever see or hear of you\u00a0shooting at a man in a parachute I will shoot you myself.`](http://9gag.com/gag/aVb29PK)
- - 🚯 [Black economic empowered](http://9gag.com/gag/a2KbVZ1)<!-- MEMES:END -->
+ - 🚯 [Asking the real question](http://9gag.com/gag/a5Xjg3G)<!-- MEMES:END -->
 
 --- 
 
