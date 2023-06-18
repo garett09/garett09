@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming keyboards](https://www.polygon.com/what-to-buy/23717326/best-gaming-keyboards-mechanical)
- - [World of Horror will actually finally release in October](https://www.pcgamer.com/world-of-horror-will-actually-finally-release-in-october)
- - [Pixar’s Elemental is the new Cars](https://www.polygon.com/23762172/elemental-pixar-cars-comparison)<!-- GAME:END -->
+ - [Gunpowder soulslike Flintlock delayed into 2024](https://www.pcgamer.com/gunpowder-soulslike-flintlock-delayed-into-2024)
+ - [Humble is offering the motherlode of Destiny lore ebooks for just $9](https://www.pcgamer.com/humble-is-offering-the-motherlode-of-destiny-lore-ebooks-for-just-dollar9)
+ - [The best gaming keyboards](https://www.polygon.com/what-to-buy/23717326/best-gaming-keyboards-mechanical)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
