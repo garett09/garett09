@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Understandable. Have a great day](http://9gag.com/gag/aOx1LVR)
- - 🚯 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
- - 🚯 [Repost #2](http://9gag.com/gag/aGE2Q66)<!-- MEMES:END -->
+ - 🚖 [Repost #2](http://9gag.com/gag/aGE2Q66)
+ - 🚯 [Lost my good boy who lived a full 21 years gone today. Now I&#39;m sitting here thinking of all the good times and wanted to share his sweet face with everyone](http://9gag.com/gag/a9qX0wj)
+ - 🚯 [What did you do to the cat now?](http://9gag.com/gag/a9qXGKZ)<!-- MEMES:END -->
 
 --- 
 
