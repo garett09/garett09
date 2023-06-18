@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [and then I said, I said](https://www.reddit.com/r/memes/comments/14cfqu7/and_then_i_said_i_said/)
- - 🚯 [New fear unlocked](http://9gag.com/gag/a1PLx9w)
- - 🚯 [Well well well](http://9gag.com/gag/aEqXbvK)<!-- MEMES:END -->
+ - 🚖 [9gag at its former glory](http://9gag.com/gag/aXn21yb)
+ - 🚯 [Well well well](http://9gag.com/gag/aEqXbvK)
+ - 🚯 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)<!-- MEMES:END -->
 
 --- 
 
