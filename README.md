@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German cops react to being called a Nazi...](http://9gag.com/gag/aXn2myv)
- - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)
+ - 🚖 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
+ - 🚯 [Clear!](http://9gag.com/gag/aL1XZEv)
  - 🚯 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)<!-- MEMES:END -->
 
 --- 
