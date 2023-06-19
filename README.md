@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
- - 🚯 [Clear!](http://9gag.com/gag/aL1XZEv)
- - 🚯 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)<!-- MEMES:END -->
+ - 🚖 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
+ - 🚯 [Sweet diversity](http://9gag.com/gag/az2Z3Nq)
+ - 🚯 [Ukrainian girl filmed herself during missile attack on Kryvyi Rih](http://9gag.com/gag/ap9AZm5)<!-- MEMES:END -->
 
 --- 
 
