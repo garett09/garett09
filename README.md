@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prepare for standards and make them double](http://9gag.com/gag/axoPqND)
- - 🚯 [Ukrainian girl filmed herself during missile attack on Kryvyi Rih](http://9gag.com/gag/ap9AZm5)
- - 🚯 [Clear!](http://9gag.com/gag/aL1XZEv)<!-- MEMES:END -->
+ - 🚖 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
+ - 🚯 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
+ - 🚯 [Sweet diversity](http://9gag.com/gag/az2Z3Nq)<!-- MEMES:END -->
 
 --- 
 
