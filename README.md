@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thread smart lock, Deebot T20 review, &amp; more smart home news](https://appleinsider.com/articles/23/06/19/thread-smart-lock-deebot-t20-review-more-smart-home-news?utm_medium=rss)
- - [Reddit hackers demand $4.5 million ransom and API pricing changes](https://www.theverge.com/2023/6/19/23765895/reddit-hack-phishing-leak-api-pricing-steve-huffman)
- - [Sources: Germany and Intel agree on subsidies worth &amp;euro;10B for its chip plant in Magdeburg, up from an initial agreement on &amp;euro;6.8B, part of a &amp;euro;30B project &lpar;Bloomberg&rpar;](http://www.techmeme.com/230619/p13#a230619p13)<!-- TECH:END -->
+ - [Nothing Phone 2: a roundup of every tease about the upcoming phone](https://www.theverge.com/23745071/nothing-phone-2-specs-rumors-features)
+ - [Leak suggests the Galaxy Watch 6 may get a price bump](https://www.androidauthority.com/galaxy-watch-6-price-leak-3336651/)
+ - [macOS 14 Sonoma release date: When is the next update releasing for MacBooks?](https://www.androidauthority.com/macos-14-sonoma-release-date-3336640/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
