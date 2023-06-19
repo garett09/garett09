@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The landed gentry must obey the wish of the lord](https://www.reddit.com/r/memes/comments/14cy0gc/the_landed_gentry_must_obey_the_wish_of_the_lord/)
- - 🚯 [9gag at its former glory](http://9gag.com/gag/aXn21yb)
- - 🚯 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)<!-- MEMES:END -->
+ - 🚖 [TikTok dancer are upset they can\u2019t hear their own music during Marc Rebillet\u2019s live performance](http://9gag.com/gag/aXn26G2)
+ - 🚯 [Colombian soldiers giving a final salute as they drop to their death. The rope that was carrying them suddenly broke during an airshow](http://9gag.com/gag/a9qXe7L)
+ - 🚯 [German cops react to being called a Nazi...](http://9gag.com/gag/aXn2myv)<!-- MEMES:END -->
 
 --- 
 
