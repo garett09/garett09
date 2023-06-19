@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine 2 guys doing this to a girl](http://9gag.com/gag/aA0X8G2)
- - 🚯 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
- - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)<!-- MEMES:END -->
+ - 🚖 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
+ - 🚯 [Sweet diversity](http://9gag.com/gag/az2Z3Nq)
+ - 🚯 [How to get rid of a road rager in just 1 simple step!](http://9gag.com/gag/aGE253X)<!-- MEMES:END -->
 
 --- 
 
