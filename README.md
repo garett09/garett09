@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Understandable. Have a great day](http://9gag.com/gag/aOx1LVR)
- - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)
- - 🚯 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)<!-- MEMES:END -->
+ - 🚖 [Peace in Ukraine is very simple, just gtfo and leave them alone](http://9gag.com/gag/aoK8b1n)
+ - 🚯 [Shenzhen Longhua Park last night, China. Welcome the Dragon Boat Festival. Last night people in the park witnessed an incredible scene](http://9gag.com/gag/a7qNQGz)
+ - 🚯 [Dreams](http://9gag.com/gag/aGE2Wyz)<!-- MEMES:END -->
 
 --- 
 
