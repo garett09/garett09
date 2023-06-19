@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Sunglasses for Every Outdoor Adventure &lpar;2023&rpar;: Le Specs, Sunski, and More](https://www.wired.com/gallery/best-sunglasses/)
- - [An overview of how the adoption of generative AI tools is transforming everyday work in legal contracts, professional services, filmmaking, and programming &lpar;Financial Times&rpar;](http://www.techmeme.com/230619/p11#a230619p11)
- - [Apple could force a 111-year-old fruit company to change its apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)<!-- TECH:END -->
+ - [Thread smart lock, Deebot T20 review, &amp; more smart home news](https://appleinsider.com/articles/23/06/19/thread-smart-lock-deebot-t20-review-more-smart-home-news?utm_medium=rss)
+ - [Reddit hackers demand $4.5 million ransom and API pricing changes](https://www.theverge.com/2023/6/19/23765895/reddit-hack-phishing-leak-api-pricing-steve-huffman)
+ - [Sources: Germany and Intel agree on subsidies worth &amp;euro;10B for its chip plant in Magdeburg, up from an initial agreement on &amp;euro;6.8B, part of a &amp;euro;30B project &lpar;Bloomberg&rpar;](http://www.techmeme.com/230619/p13#a230619p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
