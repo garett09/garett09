@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Michael Keaton’s Batman in The Flash transcends the usual crossover cameo](https://www.polygon.com/23763312/flash-michael-keaton-batman)
- - [How to make Diablo 4 elixirs and potions](https://www.pcgamer.com/diablo-4-how-to-make-elixirs-potions)
- - [Players claim to have worked out the hellish details underpinning Diablo 4&#39;s timed events](https://www.pcgamer.com/players-claim-to-have-worked-out-the-hellish-details-underpinning-diablo-4s-timed-events)<!-- GAME:END -->
+ - [Alan Wake 2 takes GTA 5’s character switching to a weird new place](https://www.polygon.com/23762595/alan-wake-2-protagonists-survival-horror-sam-lake-interview)
+ - [30 Minutes With That New Persona-Inspired Dating Sim](https://kotaku.com/eternights-dating-sim-action-romance-release-date-1850545003)
+ - [Diablo 4&#39;s Most-Played Class ATM Is The Sorcerer](https://kotaku.com/diablo-4-best-class-sorcerer-build-popular-blizzard-1850549446)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
