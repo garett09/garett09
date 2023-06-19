@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Zelda: Tears Of The Kingdom Infinite Glitch Turns You Into A Frozen Meat Tycoon](https://kotaku.com/zelda-tears-kingdom-duplication-infinite-rupees-meat-1850552359)
- - [The Outlast Trials&#39; opening moments are beyond terrifying, but it loses steam fast in multiplayer](https://www.pcgamer.com/the-outlast-trials-opening-moments-are-beyond-terrifying-but-it-loses-steam-fast-in-multiplayer)
- - [A departed Rockstar cofounder is finally teasing what&#39;s next with a music video and a big ole&#39; creepy eyeball](https://www.pcgamer.com/one-of-rockstars-cofounders-is-finally-teasing-whats-next-with-a-music-video-and-a-big-ole-creepy-eyeball)<!-- GAME:END -->
+ - [Henry Cavill says bye to his Witcher co-stars: &#39;You guys bring so much nuance and detail to these characters, which are often at risk of being oversimplified&#39;](https://www.pcgamer.com/henry-cavill-says-bye-to-his-witcher-co-stars-you-guys-bring-so-much-nuance-and-detail-to-these-characters-which-are-often-at-risk-of-being-oversimplified)
+ - [Five new Steam games you probably missed &lpar;June 19, 2023&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-june-19-2023)
+ - [Action legend Don Lee wants you to feel every punch](https://www.polygon.com/23759294/don-lee-ma-dong-seok-interview-roundup-train-to-busan-john-wick)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
