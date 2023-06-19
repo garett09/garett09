@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 2: a roundup of every tease about the upcoming phone](https://www.theverge.com/23745071/nothing-phone-2-specs-rumors-features)
- - [Leak suggests the Galaxy Watch 6 may get a price bump](https://www.androidauthority.com/galaxy-watch-6-price-leak-3336651/)
- - [macOS 14 Sonoma release date: When is the next update releasing for MacBooks?](https://www.androidauthority.com/macos-14-sonoma-release-date-3336640/)<!-- TECH:END -->
+ - [Galaxy Z Fold 5 and Flip 5 price rumor could be good news for your wallet](https://www.androidauthority.com/galaxy-z-fold-5-flip-5-2-3336716/)
+ - [Apple Watch won&#39;t get third-party watch faces anytime soon](https://appleinsider.com/articles/23/06/19/apple-watch-wont-get-third-party-watch-faces-anytime-soon?utm_medium=rss)
+ - [Snap hopes to use My AI chatbot interactions to personalize ads; 150M+ Snapchat users, or ~20% of MAUs, sent 10B messages to My AI since its late February debut &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/230619/p14#a230619p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
