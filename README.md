@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Tab S9: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-tab-s9-plus-ultra-release-date-rumors-specs-price-3299994/)
  - [Amid ongoing Reddit protests, decentralized link aggregation and discussion forum projects Lemmy and KBin grow to a total of 70K+ MAUs and nearly 600 instances &lpar;Jon/The Nexus Of Privacy&rpar;](http://www.techmeme.com/230619/p16#a230619p16)
- - [Save up to $250 on Apple products with early Prime Day deals](https://appleinsider.com/articles/23/06/19/save-up-to-250-on-apple-products-with-early-prime-day-deals?utm_medium=rss)
- - [Best Internet Providers in Las Vegas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save up to $250 on Apple products with early Prime Day deals](https://appleinsider.com/articles/23/06/19/save-up-to-250-on-apple-products-with-early-prime-day-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
