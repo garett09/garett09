@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 gets a free, Twitch Plays-style prequel that may be teasing the return of a major villain](https://www.pcgamer.com/baldurs-gate-3-gets-a-free-twitch-plays-style-prequel-that-may-be-teasing-the-return-of-a-major-villain)
- - [Xenonauts 2 will invade our world this July](https://www.pcgamer.com/xenonauts-2-will-invade-our-world-this-july)
- - [There Would Have Been A Woman At Summer Game Fest, But She Couldn&#39;t Make It](https://kotaku.com/summer-game-fest-geoff-keighley-women-diversity-1850553957)<!-- GAME:END -->
+ - [7 Essential Demos Featured In Steam&#39;s Next Fest](https://kotaku.com/next-fest-demo-pc-steam-valve-free-the-invincible-1850554468)
+ - [Millions of perfectly fine HDDs are shredded each year because of &#39;zero risk&#39; security policies. Spoiler alert: There&#39;s still a risk of stolen data from just a 3mm scrap](https://www.pcgamer.com/millions-of-perfectly-fine-hdds-are-shredded-each-year-because-of-zero-risk-security-policies-spoiler-alert-theres-still-a-risk-of-stolen-data-from-just-a-3mm-scrap)
+ - [Baldur’s Gate 3 gets a free, Twitch Plays-style prequel that may be teasing the return of a major villain](https://www.pcgamer.com/baldurs-gate-3-gets-a-free-twitch-plays-style-prequel-that-may-be-teasing-the-return-of-a-major-villain)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
