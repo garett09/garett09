@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
- - 🚯 [Sweet diversity](http://9gag.com/gag/az2Z3Nq)
- - 🚯 [How to get rid of a road rager in just 1 simple step!](http://9gag.com/gag/aGE253X)<!-- MEMES:END -->
+ - 🚖 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
+ - 🚯 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
+ - 🚯 [Asking the real question](http://9gag.com/gag/a5Xjg3G)<!-- MEMES:END -->
 
 --- 
 
