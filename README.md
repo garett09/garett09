@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cinderella in another universe.](http://9gag.com/gag/aL1X5Kz)
- - 🚯 [Sweet diversity](http://9gag.com/gag/az2Z3Nq)
- - 🚯 [There\u2019s never the right time or place for this.](http://9gag.com/gag/aPgXb1K)<!-- MEMES:END -->
+ - 🚖 [Juneteenth early celebration](http://9gag.com/gag/aOx1Mny)
+ - 🚯 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
+ - 🚯 [Brave and powerful](http://9gag.com/gag/aeQ2zYm)<!-- MEMES:END -->
 
 --- 
 
