@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Secret Invasion, Netflix’s Skull Island, The Bear, and all the new TV to watch this week](https://www.polygon.com/2023/6/19/23759291/new-tv-series-shows-watch-skull-island-netflix-secret-invasion-disney-mcu)
- - [Bananas IP case sees Apple seeking rights over actual apples](https://www.pcgamer.com/bananas-ip-case-sees-apple-seeking-rights-over-actual-apples)
- - [Foamstars shoots for Splatoon, but its style gets in the way](https://www.polygon.com/23763462/foamstars-preview-release-square-enix-impressions-splatoon-like)<!-- GAME:END -->
+ - [How Warhammer Age of Sigmar: Realms of Ruin is bringing a modern RTS experience to Xbox players](https://news.xbox.com/en-us/2023/06/19/how-warhammer-age-of-sigmar-realms-of-ruin-is-bringing-a-modern-rts-experience-to-xbox-players/)
+ - [Beaverpunk city builder update boosts framerate, crop yields by as much as 80%](https://www.pcgamer.com/beaverpunk-city-builder-update-boosts-framerate-crop-yields-by-as-much-as-80)
+ - [Forever Skies, the blimp survival game, reveals system requirements ahead of early access launch later this week](https://www.pcgamer.com/forever-skies-pc-system-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
