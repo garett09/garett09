@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur’s Gate 3 gets a free, Twitch Plays-style prequel that may be teasing the return of a major villain](https://www.pcgamer.com/baldurs-gate-3-gets-a-free-twitch-plays-style-prequel-that-may-be-teasing-the-return-of-a-major-villain)
  - [Xenonauts 2 will invade our world this July](https://www.pcgamer.com/xenonauts-2-will-invade-our-world-this-july)
- - [There Would Have Been A Woman At Summer Game Fest, But She Couldn&#39;t Make It](https://kotaku.com/summer-game-fest-geoff-keighley-women-diversity-1850553957)
- - [How Warhammer Age of Sigmar: Realms of Ruin is bringing a modern RTS experience to Xbox players](https://news.xbox.com/en-us/2023/06/19/how-warhammer-age-of-sigmar-realms-of-ruin-is-bringing-a-modern-rts-experience-to-xbox-players/)<!-- GAME:END -->
+ - [There Would Have Been A Woman At Summer Game Fest, But She Couldn&#39;t Make It](https://kotaku.com/summer-game-fest-geoff-keighley-women-diversity-1850553957)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
