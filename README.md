@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cinderella in another universe.](http://9gag.com/gag/aL1X5Kz)
- - 🚯 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
- - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)<!-- MEMES:END -->
+ - 🚖 [German cops react to being called a Nazi...](http://9gag.com/gag/aXn2myv)
+ - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)
+ - 🚯 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)<!-- MEMES:END -->
 
 --- 
 
