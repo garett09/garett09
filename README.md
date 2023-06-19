@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
- - 🚯 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
- - 🚯 [Sweet diversity](http://9gag.com/gag/az2Z3Nq)<!-- MEMES:END -->
+ - 🚖 [Crazy in the head, fire in the bed](http://9gag.com/gag/a1PL9qD)
+ - 🚯 [Incredible mechanism of how a bee stinger works](http://9gag.com/gag/a8qwB66)
+ - 🚯 [1930s day](http://9gag.com/gag/a8qwBw3)<!-- MEMES:END -->
 
 --- 
 
