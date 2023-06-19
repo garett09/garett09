@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Callisto Protocol’s first and last story expansion finally arrives next week](https://www.pcgamer.com/the-callisto-protocols-first-and-last-story-expansion-finally-arrives-next-week)
- - [The hyper-violent Viking anime’s best arc is actually about farming](https://www.polygon.com/23762422/vinland-saga-farmland-season-2-review)
- - [Pokémon Spoiled The TCG By Making One Set Far Too Good](https://kotaku.com/pokemon-tcg-cards-value-crown-zenith-paldea-evolved-1850552711)<!-- GAME:END -->
+ - [Foamstars shoots for Splatoon, but its style gets in the way](https://www.polygon.com/23763462/foamstars-preview-release-square-enix-impressions-splatoon-like)
+ - [Dive Into the Pixelated World of Hammerwatch II](https://news.xbox.com/en-us/2023/06/19/hammerwatch-ii-coming-to-xbox/)
+ - [Gaming Just Isn&#39;t About You: Consoles Are Thrashed By Casual Games](https://kotaku.com/xbox-ps5-switch-console-pc-revenue-profits-2022-1850552857)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
