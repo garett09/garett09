@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Peace in Ukraine is very simple, just gtfo and leave them alone](http://9gag.com/gag/aoK8b1n)
- - 🚯 [Shenzhen Longhua Park last night, China. Welcome the Dragon Boat Festival. Last night people in the park witnessed an incredible scene](http://9gag.com/gag/a7qNQGz)
- - 🚯 [Dreams](http://9gag.com/gag/aGE2Wyz)<!-- MEMES:END -->
+ - 🚖 [Prepare for standards and make them double](http://9gag.com/gag/axoPqND)
+ - 🚯 [Ukrainian girl filmed herself during missile attack on Kryvyi Rih](http://9gag.com/gag/ap9AZm5)
+ - 🚯 [Clear!](http://9gag.com/gag/aL1XZEv)<!-- MEMES:END -->
 
 --- 
 
