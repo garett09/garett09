@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX launches Indonesia&#39;s largest telecoms satellite as part of a $540M project to offer internet in remote areas; the SATRIA-1 offers 150GB/second throughput &lpar;Dewi Kurniawati/Reuters&rpar;](http://www.techmeme.com/230619/p5#a230619p5)
- - [Heat Waves Are Unleashing a Deadly but Overlooked Pollutant](https://www.wired.com/story/ozone-pollution-india-heat-waves/)
- - [Do Not Put Your Kid on an Electric Bike](https://www.wired.com/story/do-not-put-kids-on-electric-bikes/)<!-- TECH:END -->
+ - [Sources: Meta plans tighter content rules in Vietnam, its seventh largest market, after government requests and keeps a list of officials not to be criticized &lpar;Rebecca Tan/Washington Post&rpar;](http://www.techmeme.com/230619/p8#a230619p8)
+ - [Apple wants to control every image of an apple, says Swiss fruit firm](https://appleinsider.com/articles/23/06/19/apple-wants-to-control-every-image-of-an-apple-says-swiss-fruit-firm?utm_medium=rss)
+ - [Your Curly Hair Needs A Dryer Hood Attachment](https://www.wired.com/story/hair-dryer-bonnet-hood-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
