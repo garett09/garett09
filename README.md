@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta plans tighter content rules in Vietnam, its seventh largest market, after government requests and keeps a list of officials not to be criticized &lpar;Rebecca Tan/Washington Post&rpar;](http://www.techmeme.com/230619/p8#a230619p8)
- - [Apple wants to control every image of an apple, says Swiss fruit firm](https://appleinsider.com/articles/23/06/19/apple-wants-to-control-every-image-of-an-apple-says-swiss-fruit-firm?utm_medium=rss)
- - [Your Curly Hair Needs A Dryer Hood Attachment](https://www.wired.com/story/hair-dryer-bonnet-hood-rave/)<!-- TECH:END -->
+ - [Breville Joule Turbo review: sous vide with speed](https://www.theverge.com/23762514/breville-joule-turbo-sous-vide-review)
+ - [Twitter suspends Explain This Bob, a GPT-4 bot tied to the BOB Token, after Elon Musk called the account a &quot;scam&quot;; Musk replied &quot;I love Bob&quot; in April 2023 &lpar;Tim Hakki/Decrypt&rpar;](http://www.techmeme.com/230619/p9#a230619p9)
+ - [Samsung brings its self-repair program to the UK and Europe](https://www.androidauthority.com/samsung-self-repair-program-uk-europe-3336577/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
