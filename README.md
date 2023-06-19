@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S9 leaked press renders show off the tablet trio](https://www.androidauthority.com/samsung-galaxy-tab-s9-leaked-press-renders-3336537/)
- - [Apple will upgrade iPhone 15 Ultra Wideband chip for Vision Pro integration, says Kuo](https://appleinsider.com/articles/23/06/19/apple-will-upgrade-iphone-15-ultra-wideband-chip-for-vision-pro-integration-says-kuo?utm_medium=rss)
- - [Meta faces pressure from UK MPs, consumer groups, and banks over its failure to prevent fraud on its platforms, estimated to cost UK households &amp;pound;250M in 2023 &lpar;The Guardian&rpar;](http://www.techmeme.com/230619/p3#a230619p3)<!-- TECH:END -->
+ - [SpaceX launches Indonesia&#39;s largest telecoms satellite as part of a $540M project to offer internet in remote areas; the SATRIA-1 offers 150GB/second throughput &lpar;Dewi Kurniawati/Reuters&rpar;](http://www.techmeme.com/230619/p5#a230619p5)
+ - [Heat Waves Are Unleashing a Deadly but Overlooked Pollutant](https://www.wired.com/story/ozone-pollution-india-heat-waves/)
+ - [Do Not Put Your Kid on an Electric Bike](https://www.wired.com/story/do-not-put-kids-on-electric-bikes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
