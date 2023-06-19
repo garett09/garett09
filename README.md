@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F1 23’s best new mode isn’t Braking Point 2, it’s F1 World](https://www.polygon.com/23763623/f1-23-world-impressions-new-mode-unlocks-podium-pass)
- - [Another Game Pass Day One Title Slips Into 2024](https://kotaku.com/xbox-game-pass-soulslike-flintlock-ashen-a44-release-1850552683)
- - [The Walking Dead: Dead City is best when it forgets it’s a Walking Dead show](https://www.polygon.com/23762333/walking-dead-city-review-new-amc-show)<!-- GAME:END -->
+ - [Michael Keaton’s Batman in The Flash transcends the usual crossover cameo](https://www.polygon.com/23763312/flash-michael-keaton-batman)
+ - [How to make Diablo 4 elixirs and potions](https://www.pcgamer.com/diablo-4-how-to-make-elixirs-potions)
+ - [Players claim to have worked out the hellish details underpinning Diablo 4&#39;s timed events](https://www.pcgamer.com/players-claim-to-have-worked-out-the-hellish-details-underpinning-diablo-4s-timed-events)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
