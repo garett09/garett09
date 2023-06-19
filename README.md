@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Microsoft Flight Simulator Releases City Update II: France &amp; Local Legend 09: Latécoère 631](https://news.xbox.com/en-us/2023/06/19/flight-simulator-releases-city-update-2-france/)
  - [ASRock RX 7800 XT graphics cards with 16GB of memory are really real](https://www.pcgamer.com/asrock-rx-7800-xt-graphics-cards-with-16gb-of-memory-are-really-real)
- - [Intel&#39;s Raptor Lake refresh CPUs rumored to launch in October](https://www.pcgamer.com/intels-raptor-lake-refresh-cpus-rumored-to-launch-in-october)
- - [Today&#39;s Wordle hint and answer #730: Monday, June 19](https://www.pcgamer.com/wordle-answer-today-hint-730-june-19)<!-- GAME:END -->
+ - [Intel&#39;s Raptor Lake refresh CPUs rumored to launch in October](https://www.pcgamer.com/intels-raptor-lake-refresh-cpus-rumored-to-launch-in-october)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
