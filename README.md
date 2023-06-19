@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
- - 🚯 [Asking the real question](http://9gag.com/gag/a5Xjg3G)
- - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)<!-- MEMES:END -->
+ - 🚯 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
+ - 🚯 [Bobs](http://9gag.com/gag/aVb2528)<!-- MEMES:END -->
 
 --- 
 
