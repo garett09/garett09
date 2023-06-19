@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brave and powerful](http://9gag.com/gag/aeQ2zYm)
- - 🚯 [Prepare for standards and make them double](http://9gag.com/gag/axoPqND)
- - 🚯 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)<!-- MEMES:END -->
+ - 🚖 [Full Body Workout. Save and never use it.](http://9gag.com/gag/a2Kb6dY)
+ - 🚯 [TikTok dancer are upset they can\u2019t hear their own music during Marc Rebillet\u2019s live performance](http://9gag.com/gag/aXn26G2)
+ - 🚯 [Understandable. Have a great day](http://9gag.com/gag/aOx1LVR)<!-- MEMES:END -->
 
 --- 
 
