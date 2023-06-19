@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breville Joule Turbo review: sous vide with speed](https://www.theverge.com/23762514/breville-joule-turbo-sous-vide-review)
- - [Twitter suspends Explain This Bob, a GPT-4 bot tied to the BOB Token, after Elon Musk called the account a &quot;scam&quot;; Musk replied &quot;I love Bob&quot; in April 2023 &lpar;Tim Hakki/Decrypt&rpar;](http://www.techmeme.com/230619/p9#a230619p9)
- - [Samsung brings its self-repair program to the UK and Europe](https://www.androidauthority.com/samsung-self-repair-program-uk-europe-3336577/)<!-- TECH:END -->
+ - [14 Best Sunglasses for Every Outdoor Adventure &lpar;2023&rpar;: Le Specs, Sunski, and More](https://www.wired.com/gallery/best-sunglasses/)
+ - [An overview of how the adoption of generative AI tools is transforming everyday work in legal contracts, professional services, filmmaking, and programming &lpar;Financial Times&rpar;](http://www.techmeme.com/230619/p11#a230619p11)
+ - [Apple could force a 111-year-old fruit company to change its apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
