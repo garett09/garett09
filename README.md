@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian soldier going YOLO with a WW2 helmet.](http://9gag.com/gag/aoK8X8g)
- - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)
- - 🚯 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)<!-- MEMES:END -->
+ - 🚖 [Cinderella in another universe.](http://9gag.com/gag/aL1X5Kz)
+ - 🚯 [Sweet diversity](http://9gag.com/gag/az2Z3Nq)
+ - 🚯 [There\u2019s never the right time or place for this.](http://9gag.com/gag/aPgXb1K)<!-- MEMES:END -->
 
 --- 
 
