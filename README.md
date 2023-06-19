@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What is Google’s Magic Compose, and how does it work?](https://www.androidauthority.com/google-magic-compose-2-3336928/)
  - [Outlook vs Gmail: How do they compare?](https://www.androidauthority.com/outlook-vs-gmail-3336795/)
- - [Apple takes a page from Samsung, patents Gear VR-like headset for the iPhone](https://www.androidauthority.com/apple-mixed-reality-headset-samsung-3336846/)
- - [Galaxy Tab S9 leaked press renders show off the tablet trio &lpar;Update: Removed&rpar;](https://www.androidauthority.com/samsung-galaxy-tab-s9-leaked-press-renders-3336537/)<!-- TECH:END -->
+ - [Apple takes a page from Samsung, patents Gear VR-like headset for the iPhone](https://www.androidauthority.com/apple-mixed-reality-headset-samsung-3336846/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
