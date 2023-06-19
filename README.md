@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 takes GTA 5’s character switching to a weird new place](https://www.polygon.com/23762595/alan-wake-2-protagonists-survival-horror-sam-lake-interview)
- - [30 Minutes With That New Persona-Inspired Dating Sim](https://kotaku.com/eternights-dating-sim-action-romance-release-date-1850545003)
- - [Diablo 4&#39;s Most-Played Class ATM Is The Sorcerer](https://kotaku.com/diablo-4-best-class-sorcerer-build-popular-blizzard-1850549446)<!-- GAME:END -->
+ - [The Callisto Protocol’s first and last story expansion finally arrives next week](https://www.pcgamer.com/the-callisto-protocols-first-and-last-story-expansion-finally-arrives-next-week)
+ - [The hyper-violent Viking anime’s best arc is actually about farming](https://www.polygon.com/23762422/vinland-saga-farmland-season-2-review)
+ - [Pokémon Spoiled The TCG By Making One Set Far Too Good](https://kotaku.com/pokemon-tcg-cards-value-crown-zenith-paldea-evolved-1850552711)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
