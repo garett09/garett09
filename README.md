@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is dis?](http://9gag.com/gag/a3ZW6ne)
- - 🚯 [Some good recommendations](http://9gag.com/gag/aNwRx14)
- - 🚯 [Well that sucks](http://9gag.com/gag/aDYXp19)<!-- MEMES:END -->
+ - 🚖 [History meme &lpar;5&rpar;](http://9gag.com/gag/amAVERd)
+ - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)
+ - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)<!-- MEMES:END -->
 
 --- 
 
