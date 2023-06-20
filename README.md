@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where Elemental ranks in Pixar movie history](https://www.polygon.com/movies/22239548/best-pixar-movies-ranked)
- - [Sonapan Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23706489/sonapan-shrine-solution-puzzle-chest)
- - [The way I used to enjoy Diablo games has been replaced, and it sucks](https://www.pcgamer.com/the-way-i-used-to-enjoy-diablo-games-has-been-replaced-and-it-sucks)<!-- GAME:END -->
+ - [Discover Necrom and the Forbidden Secrets of Apocrypha Today on Xbox](https://news.xbox.com/en-us/2023/06/20/discover-the-elder-scrolls-online-necrom-and-the-forbidden-secrets-of-apocrypha-today-on-xbox-and-pc/)
+ - [13 game demos to try before Steam Next Fest ends](https://www.polygon.com/gaming/23766905/steam-next-fest-june-2023-best-game-demos)
+ - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
