@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to tell the difference between real AirPods Pro and counterfeit ones](https://appleinsider.com/articles/22/01/19/how-to-tell-the-difference-between-real-airpods-pro-and-counterfeit-ones?utm_medium=rss)
- - [How many Starlink satellites are in orbit?](https://www.androidauthority.com/starlink-satellites-in-orbit-3337267/)
- - [Apple&#39;s Self Service Repair program updates make it easier for DIY fixers](https://appleinsider.com/articles/23/06/20/apples-self-service-repair-program-updates-make-it-easier-for-diy-fixers?utm_medium=rss)<!-- TECH:END -->
+ - [The best MacBook Pro or MacBook Air at any price point](https://appleinsider.com/articles/23/06/20/the-best-macbook-pro-or-macbook-air-at-any-price-point?utm_medium=rss)
+ - [&#39;Midjourney Magazine&#39; Is Here—and It’s Soulless](https://www.wired.com/story/midjourney-magazine-review/)
+ - [USA Today publisher Gannett sues Google over an alleged ad tech monopoly, echoing the DOJ&#39;s arguments and saying audiences have grown but ad spending is down &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230620/p22#a230620p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
