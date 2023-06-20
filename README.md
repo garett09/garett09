@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s long-anticipated HiFi tier might require a more expensive subscription](https://www.theverge.com/2023/6/20/22746337/spotify-hifi-lossless-new-premium-tier-supremium)
- - [Google&#39;s web ad choke-hold prompts lawsuit from largest publisher in US](https://appleinsider.com/articles/23/06/20/googles-web-ad-choke-hold-prompts-lawsuit-from-largest-publisher-in-us?utm_medium=rss)
- - [Twitter CEO Linda Yaccarino will be at the Code Conference](https://www.theverge.com/2023/6/20/23767165/twitter-ceo-linda-yaccarino-code-conference)<!-- TECH:END -->
+ - [Roblox will allow some mature content experiences for users 17 and older, requiring users to verify their age with a picture of a government ID and a selfie &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230620/p26#a230620p26)
+ - [Spot where YouTube TV gives break from ads now getting ads &lpar;Update: Statement&rpar;](https://www.androidauthority.com/youtube-tv-ads-zen-3336659/)
+ - [Roblox will allow exclusive experiences for people 17 and over](https://www.theverge.com/2023/6/20/23767154/roblox-adult-themes-graphic-content-age-limit-17-experiences)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
