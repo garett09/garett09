@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
- - 🚯 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
- - 🚯 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
+ - 🚖 [Men be like...](http://9gag.com/gag/ajVKby1)
+ - 🚯 [Remember this? Update on this story: the woke liberal college ended up paying with interest $36.5M to the bakery. Go woke, go BROKE.](http://9gag.com/gag/a5XjLog)
+ - 🚯 [... And even then, I get great performance reviews...](http://9gag.com/gag/a7qNjjb)<!-- MEMES:END -->
 
 --- 
 
