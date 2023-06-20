@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is dis?](http://9gag.com/gag/a3ZW6ne)
- - 🚯 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
- - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)<!-- MEMES:END -->
+ - 🚖 [Old but gold. Date with a horny crazy girl.](http://9gag.com/gag/armBjYy)
+ - 🚯 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
+ - 🚯 [Wow](http://9gag.com/gag/aNwRN9r)<!-- MEMES:END -->
 
 --- 
 
