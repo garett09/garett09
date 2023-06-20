@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best MacBook Pro or MacBook Air at any price point](https://appleinsider.com/articles/23/06/20/the-best-macbook-pro-or-macbook-air-at-any-price-point?utm_medium=rss)
- - [&#39;Midjourney Magazine&#39; Is Here—and It’s Soulless](https://www.wired.com/story/midjourney-magazine-review/)
- - [USA Today publisher Gannett sues Google over an alleged ad tech monopoly, echoing the DOJ&#39;s arguments and saying audiences have grown but ad spending is down &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/230620/p22#a230620p22)<!-- TECH:END -->
+ - [Apple Podcasts gets big improvements with expanded categories &amp; more](https://appleinsider.com/articles/23/06/20/apple-podcasts-gets-big-improvements-with-expanded-categories-more?utm_medium=rss)
+ - [Razer Blade 14 &lpar;2023&rpar; review: powerful chips in a thin body, 16:10, QHD+, 240Hz screen, and RGB keyboard, but absurd pricing at $2,400+ and average speakers &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230620/p24#a230620p24)
+ - [Apple Self Service Repair for iPhones streamlined, but still requires 79lb kit](https://www.androidauthority.com/apple-self-service-repair-update-2023-3337330/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
