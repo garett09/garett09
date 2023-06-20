@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Nintendo Direct coming on June 21](https://www.polygon.com/23760676/nintendo-direct-june-2023-date-time)
- - [The Steam subreddit has suddenly become all about actual steam and steam trains](https://www.pcgamer.com/the-steam-subreddit-has-suddenly-become-all-about-actual-steam-and-steam-trains)
- - [Build a better post-apocalyptic future with the TTRPG Dreams &amp; Machines](https://www.polygon.com/tabletop-games/23762506/dreams-and-machines-rpg-modiphius-announcement-release-date-price)<!-- GAME:END -->
+ - [How Eternights intertwines its dating and hack ‘n’ slash gameplay](https://blog.playstation.com/2023/06/20/how-eternights-intertwines-its-dating-and-hack-n-slash-gameplay/)
+ - [The Cosmic Wheel Sisterhood lets you design your own tarot deck and seal your friend&#39;s fates, and I already know it&#39;s going to make me cry](https://www.pcgamer.com/the-cosmic-wheel-sisterhood-demo)
+ - [This cosy city builder is like Dorfromantik and Animal Crossing had a space baby](https://www.pcgamer.com/this-cosy-city-builder-is-like-dorfromantik-and-animal-crossing-had-a-space-baby)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
