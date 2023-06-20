@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The fightback begins !](http://9gag.com/gag/aA0OB6g)
- - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)
- - 🚯 [True bro](http://9gag.com/gag/aXnKZ3z)<!-- MEMES:END -->
+ - 🚖 [What is dis?](http://9gag.com/gag/a3ZW6ne)
+ - 🚯 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
+ - 🚯 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
 
 --- 
 
