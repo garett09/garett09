@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok fb isn&#39;t a meme and it&#39;s crap but damn this response was just too good i needed to share it with you guys](http://9gag.com/gag/a3ZWVZe)
- - 🚯 [Ratio as the saying goes](http://9gag.com/gag/aA0XWL2)
- - 🚯 [Gorilla mother and human mother exchanging introduction of their babies](http://9gag.com/gag/aNwR760)<!-- MEMES:END -->
+ - 🚖 [Motivation? Who knows at this point...](http://9gag.com/gag/ajVK2RR)
+ - 🚯 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
+ - 🚯 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
 
 --- 
 
