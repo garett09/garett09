@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Motivation? Who knows at this point...](http://9gag.com/gag/ajVK2RR)
- - 🚯 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
- - 🚯 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
+ - 🚖 [Gorilla mother and human mother exchanging introduction of their babies](http://9gag.com/gag/aNwR760)
+ - 🚯 [Pwned](http://9gag.com/gag/aL1Xxdz)
+ - 🚯 [My friends :3](http://9gag.com/gag/aDYXp99)<!-- MEMES:END -->
 
 --- 
 
