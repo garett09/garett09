@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
- - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)
+ - 🚖 [The number of users and clicks are going down:](http://9gag.com/gag/aKEYMQW)
+ - 🚯 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
  - 🚯 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)<!-- MEMES:END -->
 
 --- 
