@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vimeo’s new AI script generator will write corporate marketing filler in seconds](https://www.theverge.com/2023/6/20/23766809/vimeo-ai-tools-script-generator-editing)
- - [States With Abortion Bans Are Losing a Generation of Ob-Gyns](https://www.wired.com/story/states-with-abortion-bans-are-losing-a-generation-of-ob-gyns/)
- - [How Christopher Nolan Learned to Stop Worrying and Love AI](https://www.wired.com/story/christopher-nolan-oppenheimer-ai-apocalypse/)<!-- TECH:END -->
+ - [Binance begins running nodes on the Bitcoin Lightning Network, part of a plan to use the service for deposits and withdrawals to alleviate network congestion &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230620/p13#a230620p13)
+ - [India may export one in five iPhones worldwide by 2025](https://appleinsider.com/articles/23/06/20/india-may-export-one-in-five-iphones-worldwide-by-2025?utm_medium=rss)
+ - [Best MacBooks &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
