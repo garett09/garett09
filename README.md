@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Tablet already has an update. Here’s why you should install it ASAP.](https://www.androidauthority.com/pixel-tablet-update-3334049/)
- - [Google Pixel Tablet Review: A Smarter Home Display](https://www.wired.com/review/google-pixel-tablet/)
- - [Google Pixel Tablet review: the dock makes all the difference](https://www.theverge.com/23765921/google-pixel-tablet-review)<!-- TECH:END -->
+ - [The best Apple Watch Ultra cases](https://www.androidauthority.com/best-apple-watch-ultra-cases-3337021/)
+ - [The official Google Pixel Tablet case’s clever design hooked me from day one](https://www.androidauthority.com/google-pixel-tablet-case-kickstand-3334740/)
+ - [The Pixel Tablet’s new Google Weather app is gorgeous](https://www.androidauthority.com/new-google-weather-app-3333944/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
