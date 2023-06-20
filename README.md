@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Harmony: The Fall of Reverie’s Augural system brings the magic of clairvoyance to your choices](https://blog.playstation.com/2023/06/20/how-harmony-the-fall-of-reveries-augural-system-brings-the-magic-of-clairvoyance-to-your-choices/)
- - [Coming to Xbox Game Pass: Need for Speed Unbound, The Bookwalker, Sword and Fairy: Together Forever, and More](https://news.xbox.com/en-us/2023/06/20/game-pass-june-2023-wave-2-announce/)
- - [The ‘JRPG’ label has always been othering](https://www.polygon.com/23677598/jrpg-label-history-othering-discrimination-japanese-role-playing-game)<!-- GAME:END -->
+ - [New Nintendo Direct coming on June 21](https://www.polygon.com/23760676/nintendo-direct-june-2023-date-time)
+ - [The Steam subreddit has suddenly become all about actual steam and steam trains](https://www.pcgamer.com/the-steam-subreddit-has-suddenly-become-all-about-actual-steam-and-steam-trains)
+ - [Build a better post-apocalyptic future with the TTRPG Dreams &amp; Machines](https://www.polygon.com/tabletop-games/23762506/dreams-and-machines-rpg-modiphius-announcement-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
