@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The nerve of some people, do you mind Chris?](http://9gag.com/gag/aeQ2vWW)
- - 🚯 [What is dis?](http://9gag.com/gag/a3ZW6ne)
- - 🚯 [Since its back, need an updated accounts](http://9gag.com/gag/aVbVj7n)<!-- MEMES:END -->
+ - 🚖 [The fightback begins !](http://9gag.com/gag/aA0OB6g)
+ - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)
+ - 🚯 [True bro](http://9gag.com/gag/aXnKZ3z)<!-- MEMES:END -->
 
 --- 
 
