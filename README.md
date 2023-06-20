@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The nerve of some people, do you mind Chris?](http://9gag.com/gag/aeQ2vWW)
- - 🚯 [Well that sucks](http://9gag.com/gag/aDYXp19)
- - 🚯 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)<!-- MEMES:END -->
+ - 🚖 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
+ - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)
+ - 🚯 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)<!-- MEMES:END -->
 
 --- 
 
