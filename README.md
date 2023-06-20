@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp’s latest beta update reveals Meta Quest support could be coming soon](https://www.androidauthority.com/meta-quest-whatsapp-device-link-3337430/)
- - [Render, which provides developers cloud-based services for hosting code, deploying webapps, and more, raised a $50M Series B led by Bessemer Venture Partners &lpar;Neesha A. Tambe/TechCrunch&rpar;](http://www.techmeme.com/230620/p30#a230620p30)
- - [Tesla hacker discovers secret ‘Elon Mode’ for hands-free Full Self-Driving](https://www.theverge.com/2023/6/20/23767041/tesla-hacker-elon-mode-hands-free-full-self-driving-autopilot)<!-- TECH:END -->
+ - [What is Kick, and how does it compare to Twitch?](https://www.androidauthority.com/what-is-kick-3337450/)
+ - [The US DOJ announces NatSec Cyber, a new section within its National Security Division that will focus on prosecuting malicious foreign cyber activity &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/230620/p32#a230620p32)
+ - [Sick of Snapchat? Here are the best Snapchat alternatives](https://www.androidauthority.com/best-snapchat-alternatives-3336966/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
