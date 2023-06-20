@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 7a might be using a slightly worse Tensor G2 processor](https://www.androidauthority.com/google-pixel-7a-worse-tensor-g2-processor-3337024/)
- - [Vimeo announces AI tools to automate parts of the video creation process, including an AI script generator, a teleprompter, and a text-based video editor &lpar;Sabrina Ortiz/ZDNet&rpar;](http://www.techmeme.com/230620/p3#a230620p3)
- - [Sources: EU antitrust regulators plan to launch a detailed investigation into Adobe&#39;s acquisition of Figma later this year, which may derail the deal &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230620/p2#a230620p2)<!-- TECH:END -->
+ - [The Pixel Tablet already has an update. Here’s why you should install it ASAP.](https://www.androidauthority.com/pixel-tablet-update-3334049/)
+ - [Google Pixel Tablet Review: A Smarter Home Display](https://www.wired.com/review/google-pixel-tablet/)
+ - [Google Pixel Tablet review: the dock makes all the difference](https://www.theverge.com/23765921/google-pixel-tablet-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
