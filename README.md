@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Nest cameras and doorbells are down for many people](https://www.androidauthority.com/google-nest-cameras-doorbells-outage-3337222/)
- - [Alibaba&#39;s shakeup, including adding company veteran Joe Tsai, highlights its conundrum over splitting into six units and pursuing profit or growth ahead of IPOs &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/230620/p18#a230620p18)
- - [Inside the AI Factory](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots)<!-- TECH:END -->
+ - [a16z, Sequoia, and others are increasing investments in defense tech startups; PitchBook says US VCs invested $33B in the sector in 2022, up from $16B in 2019 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/230620/p20#a230620p20)
+ - [WhatsApp is finally bringing you relief from spam callers](https://www.androidauthority.com/silence-whatsapp-calls-unknown-numbers-3337150/)
+ - [Starlink internet speed: Does Starlink offer fast enough service?](https://www.androidauthority.com/starlink-internet-speed-3336735/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
