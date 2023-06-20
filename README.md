@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
- - 🚯 [Well that sucks](http://9gag.com/gag/aDYXp19)
+ - 🚖 [Too soon?](http://9gag.com/gag/avQd26b)
+ - 🚯 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
  - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)<!-- MEMES:END -->
 
 --- 
