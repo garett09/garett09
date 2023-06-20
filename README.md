@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is dis?](http://9gag.com/gag/a3ZW6ne)
- - 🚯 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
- - 🚯 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)<!-- MEMES:END -->
+ - 🚖 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
+ - 🚯 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)
+ - 🚯 [Well that sucks](http://9gag.com/gag/aDYXp19)<!-- MEMES:END -->
 
 --- 
 
