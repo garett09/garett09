@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard is killing Hearthstone Classic and replacing it with a new mode called Twist](https://www.pcgamer.com/blizzard-is-killing-hearthstone-classic-and-replacing-it-with-a-new-mode-called-twist)
- - [Throwdown with Catbat, N. Brio, and N. Tropy in Crash Team Rumble](https://blog.playstation.com/2023/06/20/throwdown-with-catbat-n-brio-and-n-tropy-in-crash-team-rumble/)
- - [Immortals of Aveum, the ‘Call of Duty with magic’ shooter, is delayed a month](https://www.polygon.com/23761297/immortals-of-aveum-release-date-delayed-launch)<!-- GAME:END -->
+ - [Where Elemental ranks in Pixar movie history](https://www.polygon.com/movies/22239548/best-pixar-movies-ranked)
+ - [Sonapan Shrine location and walkthrough in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23706489/sonapan-shrine-solution-puzzle-chest)
+ - [The way I used to enjoy Diablo games has been replaced, and it sucks](https://www.pcgamer.com/the-way-i-used-to-enjoy-diablo-games-has-been-replaced-and-it-sucks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
