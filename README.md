@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Tablet review: good screen, audio, and performance, and useful speaker dock, but some apps lack compatibility and below average battery life &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/230620/p6#a230620p6)
- - [WhatsApp can now silence calls from unknown numbers](https://www.theverge.com/2023/6/20/23766787/whatsapp-silence-unknown-callers-privacy-feature-spam)
- - [After complaints about spam by Indian users, WhatsApp adds the ability to automatically silence calls from unknown numbers and a privacy checkup feature &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230620/p5#a230620p5)<!-- TECH:END -->
+ - [Vimeo’s new AI script generator will write corporate marketing filler in seconds](https://www.theverge.com/2023/6/20/23766809/vimeo-ai-tools-script-generator-editing)
+ - [States With Abortion Bans Are Losing a Generation of Ob-Gyns](https://www.wired.com/story/states-with-abortion-bans-are-losing-a-generation-of-ob-gyns/)
+ - [How Christopher Nolan Learned to Stop Worrying and Love AI](https://www.wired.com/story/christopher-nolan-oppenheimer-ai-apocalypse/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
