@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox will allow some mature content experiences for users 17 and older, requiring users to verify their age with a picture of a government ID and a selfie &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/230620/p26#a230620p26)
- - [Spot where YouTube TV gives break from ads now getting ads &lpar;Update: Statement&rpar;](https://www.androidauthority.com/youtube-tv-ads-zen-3336659/)
- - [Roblox will allow exclusive experiences for people 17 and over](https://www.theverge.com/2023/6/20/23767154/roblox-adult-themes-graphic-content-age-limit-17-experiences)<!-- TECH:END -->
+ - [Beats Studio Pro release could happen very soon](https://appleinsider.com/articles/23/06/20/beats-studio-pro-release-could-happen-very-soon?utm_medium=rss)
+ - [The FCC is looking to regulate broadband data caps](https://www.theverge.com/2023/6/20/23767094/fcc-investigation-internet-data-caps-net-neutrality)
+ - [The 16 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
