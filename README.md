@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men be like...](http://9gag.com/gag/ajVKby1)
- - 🚯 [Remember this? Update on this story: the woke liberal college ended up paying with interest $36.5M to the bakery. Go woke, go BROKE.](http://9gag.com/gag/a5XjLog)
- - 🚯 [... And even then, I get great performance reviews...](http://9gag.com/gag/a7qNjjb)<!-- MEMES:END -->
+ - 🚖 [The nerve of some people, do you mind Chris?](http://9gag.com/gag/aeQ2vWW)
+ - 🚯 [What is dis?](http://9gag.com/gag/a3ZW6ne)
+ - 🚯 [Since its back, need an updated accounts](http://9gag.com/gag/aVbVj7n)<!-- MEMES:END -->
 
 --- 
 
