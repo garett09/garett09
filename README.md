@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It did not go as planned](http://9gag.com/gag/aeQ2oQq)
- - 🚯 [Found out pretty quick](http://9gag.com/gag/aVb2yKy)
- - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)<!-- MEMES:END -->
+ - 🚖 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
+ - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)
+ - 🚯 [Well that sucks](http://9gag.com/gag/aDYXp19)<!-- MEMES:END -->
 
 --- 
 
