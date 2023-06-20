@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z, Sequoia, and others are increasing investments in defense tech startups; PitchBook says US VCs invested $33B in the sector in 2022, up from $16B in 2019 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/230620/p20#a230620p20)
- - [WhatsApp is finally bringing you relief from spam callers](https://www.androidauthority.com/silence-whatsapp-calls-unknown-numbers-3337150/)
- - [Starlink internet speed: Does Starlink offer fast enough service?](https://www.androidauthority.com/starlink-internet-speed-3336735/)<!-- TECH:END -->
+ - [How to tell the difference between real AirPods Pro and counterfeit ones](https://appleinsider.com/articles/22/01/19/how-to-tell-the-difference-between-real-airpods-pro-and-counterfeit-ones?utm_medium=rss)
+ - [How many Starlink satellites are in orbit?](https://www.androidauthority.com/starlink-satellites-in-orbit-3337267/)
+ - [Apple&#39;s Self Service Repair program updates make it easier for DIY fixers](https://appleinsider.com/articles/23/06/20/apples-self-service-repair-program-updates-make-it-easier-for-diy-fixers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
