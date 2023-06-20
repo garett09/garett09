@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is Kick, the new platform Amouranth and xQc are streaming on?](https://www.polygon.com/23767084/what-is-kick-twitch-xqc-deal-amouranth)
- - [Bungie just got the most important cutscene in its 9-year history](https://www.polygon.com/23767367/veil-traveler-gardener-winnower-witness-explained-cutscene-destiny-2)
- - [Valve Is Ditching Battle Passes Since Most Players ‘Never Buy’ One](https://kotaku.com/dota-2-csgo-moba-pc-gaming-battle-pass-frontiers-valve-1850556830)<!-- GAME:END -->
+ - [Should You Play Cyberpunk 2077 Now Or Wait For Phantom Liberty?](https://kotaku.com/cyberpunk-2077-phantom-liberty-when-play-price-changes-1850557776)
+ - [Halo Infinite Axes Season Cutscenes So Devs Can Improve Other Things](https://kotaku.com/halo-infinite-season-4-cutscenes-narrative-removed-343-1850557612)
+ - [2023’s Most Unusual Shooter Just Got Delayed To The Worst Possible Time](https://kotaku.com/immortals-of-aveum-armored-core-6-starfield-delay-ps5-1850557541)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
