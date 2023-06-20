@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Podcasts gets big improvements with expanded categories &amp; more](https://appleinsider.com/articles/23/06/20/apple-podcasts-gets-big-improvements-with-expanded-categories-more?utm_medium=rss)
- - [Razer Blade 14 &lpar;2023&rpar; review: powerful chips in a thin body, 16:10, QHD+, 240Hz screen, and RGB keyboard, but absurd pricing at $2,400+ and average speakers &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230620/p24#a230620p24)
- - [Apple Self Service Repair for iPhones streamlined, but still requires 79lb kit](https://www.androidauthority.com/apple-self-service-repair-update-2023-3337330/)<!-- TECH:END -->
+ - [Spotify’s long-anticipated HiFi tier might require a more expensive subscription](https://www.theverge.com/2023/6/20/22746337/spotify-hifi-lossless-new-premium-tier-supremium)
+ - [Google&#39;s web ad choke-hold prompts lawsuit from largest publisher in US](https://appleinsider.com/articles/23/06/20/googles-web-ad-choke-hold-prompts-lawsuit-from-largest-publisher-in-us?utm_medium=rss)
+ - [Twitter CEO Linda Yaccarino will be at the Code Conference](https://www.theverge.com/2023/6/20/23767165/twitter-ceo-linda-yaccarino-code-conference)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
