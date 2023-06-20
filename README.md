@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
- - 🚯 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)
- - 🚯 [Well that sucks](http://9gag.com/gag/aDYXp19)<!-- MEMES:END -->
+ - 🚖 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
+ - 🚯 [Well that sucks](http://9gag.com/gag/aDYXp19)
+ - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)<!-- MEMES:END -->
 
 --- 
 
