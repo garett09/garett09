@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance begins running nodes on the Bitcoin Lightning Network, part of a plan to use the service for deposits and withdrawals to alleviate network congestion &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/230620/p13#a230620p13)
- - [India may export one in five iPhones worldwide by 2025](https://appleinsider.com/articles/23/06/20/india-may-export-one-in-five-iphones-worldwide-by-2025?utm_medium=rss)
- - [Best MacBooks &lpar;2023&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
+ - [Google Nest cameras and doorbells are down for many people](https://www.androidauthority.com/google-nest-cameras-doorbells-outage-3337222/)
+ - [Alibaba&#39;s shakeup, including adding company veteran Joe Tsai, highlights its conundrum over splitting into six units and pursuing profit or growth ahead of IPOs &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/230620/p18#a230620p18)
+ - [Inside the AI Factory](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
