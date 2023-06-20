@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s animated book-to-film adaptations, ranked by faithfulness to the source](https://www.polygon.com/century-of-disney/23762914/disney-animated-films-ranked-adaptations-faithfulness-to-the-source-material)
- - [‘Voe and You’ classroom solutions in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23747133/voe-and-you-totk-class-solution-gerudo-town)
- - [Fortnite Twitch Streamer Hits Max Rank By Just Hiding](https://kotaku.com/fortnite-ranked-unreal-bushcampdad-streamer-twitch-1850555939)<!-- GAME:END -->
+ - [Blizzard is killing Hearthstone Classic and replacing it with a new mode called Twist](https://www.pcgamer.com/blizzard-is-killing-hearthstone-classic-and-replacing-it-with-a-new-mode-called-twist)
+ - [Throwdown with Catbat, N. Brio, and N. Tropy in Crash Team Rumble](https://blog.playstation.com/2023/06/20/throwdown-with-catbat-n-brio-and-n-tropy-in-crash-team-rumble/)
+ - [Immortals of Aveum, the ‘Call of Duty with magic’ shooter, is delayed a month](https://www.polygon.com/23761297/immortals-of-aveum-release-date-delayed-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
