@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gorilla mother and human mother exchanging introduction of their babies](http://9gag.com/gag/aNwR760)
- - 🚯 [Pwned](http://9gag.com/gag/aL1Xxdz)
+ - 🚖 [Pwned](http://9gag.com/gag/aL1Xxdz)
+ - 🚯 [Ratio as the saying goes](http://9gag.com/gag/aA0XWL2)
  - 🚯 [My friends :3](http://9gag.com/gag/aDYXp99)<!-- MEMES:END -->
 
 --- 
