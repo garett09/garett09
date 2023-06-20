@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Kick, and how does it compare to Twitch?](https://www.androidauthority.com/what-is-kick-3337450/)
- - [The US DOJ announces NatSec Cyber, a new section within its National Security Division that will focus on prosecuting malicious foreign cyber activity &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/230620/p32#a230620p32)
- - [Sick of Snapchat? Here are the best Snapchat alternatives](https://www.androidauthority.com/best-snapchat-alternatives-3336966/)<!-- TECH:END -->
+ - [Download the Samsung Galaxy S23 wallpapers here](https://www.androidauthority.com/download-samsung-galaxy-s23-wallpapers-3337041/)
+ - [Spoutible&#39;s Low-Budget, Audacious Quest to Be the Next Twitter](https://www.wired.com/story/christopher-bouzy-spoutible-race-to-unseat-twitter/)
+ - [Apple TV+ production of &#39;Metropolis&#39; has shut down permanently amid writers&#39; strike](https://appleinsider.com/articles/23/06/20/apple-tv-production-of-metropolis-has-shut-down-permanently-amid-writers-strike?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
