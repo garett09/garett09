@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [History meme &lpar;5&rpar;](http://9gag.com/gag/amAVERd)
- - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)
+ - 🚖 [What is dis?](http://9gag.com/gag/a3ZW6ne)
+ - 🚯 [Blind date going as expected.](http://9gag.com/gag/aPgXqXP)
  - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)<!-- MEMES:END -->
 
 --- 
