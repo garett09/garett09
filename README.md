@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats Studio Pro release could happen very soon](https://appleinsider.com/articles/23/06/20/beats-studio-pro-release-could-happen-very-soon?utm_medium=rss)
- - [The FCC is looking to regulate broadband data caps](https://www.theverge.com/2023/6/20/23767094/fcc-investigation-internet-data-caps-net-neutrality)
- - [The 16 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
+ - [The US’s largest news publisher sues Google over alleged digital ad monopoly](https://www.androidauthority.com/gannett-google-lawsuit-3337399/)
+ - [The best Chrome extensions for productivity](https://www.androidauthority.com/best-chrome-extensions-for-productivity-3337362/)
+ - [Best Headsets for Working From Home in 2023     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
