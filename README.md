@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pwned](http://9gag.com/gag/aL1Xxdz)
- - 🚯 [Ratio as the saying goes](http://9gag.com/gag/aA0XWL2)
- - 🚯 [My friends :3](http://9gag.com/gag/aDYXp99)<!-- MEMES:END -->
+ - 🚖 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
+ - 🚯 [Damn,that recent ukraine sof video](http://9gag.com/gag/aEqX3xo)
+ - 🚯 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
 
 --- 
 
