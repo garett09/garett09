@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Eternights intertwines its dating and hack ‘n’ slash gameplay](https://blog.playstation.com/2023/06/20/how-eternights-intertwines-its-dating-and-hack-n-slash-gameplay/)
- - [The Cosmic Wheel Sisterhood lets you design your own tarot deck and seal your friend&#39;s fates, and I already know it&#39;s going to make me cry](https://www.pcgamer.com/the-cosmic-wheel-sisterhood-demo)
- - [This cosy city builder is like Dorfromantik and Animal Crossing had a space baby](https://www.pcgamer.com/this-cosy-city-builder-is-like-dorfromantik-and-animal-crossing-had-a-space-baby)<!-- GAME:END -->
+ - [Disney’s animated book-to-film adaptations, ranked by faithfulness to the source](https://www.polygon.com/century-of-disney/23762914/disney-animated-films-ranked-adaptations-faithfulness-to-the-source-material)
+ - [‘Voe and You’ classroom solutions in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23747133/voe-and-you-totk-class-solution-gerudo-town)
+ - [Fortnite Twitch Streamer Hits Max Rank By Just Hiding](https://kotaku.com/fortnite-ranked-unreal-bushcampdad-streamer-twitch-1850555939)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
