@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Forerunner 955 vs 965: Which one should you buy?](https://www.androidauthority.com/garmin-forerunner-955-vs-965-3336994/)
- - [Alibaba announces Eddie Wu to succeed Daniel Zhang as CEO and names Executive Vice Chairman Joseph Tsai as Chairman; Zhang will continue as Alibaba Cloud CEO &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/230620/p1#a230620p1)
- - [Save up to $1,700 on MacBook Pros during B&amp;H&#39;s Apple Mega Deal Zone event](https://appleinsider.com/articles/23/06/20/save-up-to-1700-on-macbook-pros-during-bhs-apple-mega-deal-zone-event?utm_medium=rss)<!-- TECH:END -->
+ - [The Pixel 7a might be using a slightly worse Tensor G2 processor](https://www.androidauthority.com/google-pixel-7a-worse-tensor-g2-processor-3337024/)
+ - [Vimeo announces AI tools to automate parts of the video creation process, including an AI script generator, a teleprompter, and a text-based video editor &lpar;Sabrina Ortiz/ZDNet&rpar;](http://www.techmeme.com/230620/p3#a230620p3)
+ - [Sources: EU antitrust regulators plan to launch a detailed investigation into Adobe&#39;s acquisition of Figma later this year, which may derail the deal &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230620/p2#a230620p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
