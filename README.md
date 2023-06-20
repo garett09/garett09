@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
- - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)
- - 🚯 [History meme &lpar;5&rpar;](http://9gag.com/gag/amAVERd)<!-- MEMES:END -->
+ - 🚖 [It did not go as planned](http://9gag.com/gag/aeQ2oQq)
+ - 🚯 [Found out pretty quick](http://9gag.com/gag/aVb2yKy)
+ - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)<!-- MEMES:END -->
 
 --- 
 
