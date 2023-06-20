@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should You Play Cyberpunk 2077 Now Or Wait For Phantom Liberty?](https://kotaku.com/cyberpunk-2077-phantom-liberty-when-play-price-changes-1850557776)
- - [Halo Infinite Axes Season Cutscenes So Devs Can Improve Other Things](https://kotaku.com/halo-infinite-season-4-cutscenes-narrative-removed-343-1850557612)
- - [2023’s Most Unusual Shooter Just Got Delayed To The Worst Possible Time](https://kotaku.com/immortals-of-aveum-armored-core-6-starfield-delay-ps5-1850557541)<!-- GAME:END -->
+ - [Popular Former Fortnite Pro Tfue Retires From Twitch At 25](https://kotaku.com/twitch-streamer-tfue-fortnite-faze-clan-retirement-1850557985)
+ - [Blizzard may remove upcoming WoW quest where players fix the timeline by ensuring a character is sexually assaulted](https://www.pcgamer.com/blizzard-may-remove-upcoming-wow-quest-where-players-fix-the-timeline-by-ensuring-a-character-is-sexually-assaulted)
+ - [Power Up Your Crew in Crash Team Rumble, Available Today](https://news.xbox.com/en-us/2023/06/20/power-up-your-crew-in-crash-team-rumble-available-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
