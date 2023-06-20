@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The number of users and clicks are going down:](http://9gag.com/gag/aKEYMQW)
- - 🚯 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
- - 🚯 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)<!-- MEMES:END -->
+ - 🚖 [Ok fb isn&#39;t a meme and it&#39;s crap but damn this response was just too good i needed to share it with you guys](http://9gag.com/gag/a3ZWVZe)
+ - 🚯 [Ratio as the saying goes](http://9gag.com/gag/aA0XWL2)
+ - 🚯 [Gorilla mother and human mother exchanging introduction of their babies](http://9gag.com/gag/aNwR760)<!-- MEMES:END -->
 
 --- 
 
