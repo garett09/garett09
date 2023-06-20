@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US’s largest news publisher sues Google over alleged digital ad monopoly](https://www.androidauthority.com/gannett-google-lawsuit-3337399/)
- - [The best Chrome extensions for productivity](https://www.androidauthority.com/best-chrome-extensions-for-productivity-3337362/)
- - [Best Headsets for Working From Home in 2023     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp’s latest beta update reveals Meta Quest support could be coming soon](https://www.androidauthority.com/meta-quest-whatsapp-device-link-3337430/)
+ - [Render, which provides developers cloud-based services for hosting code, deploying webapps, and more, raised a $50M Series B led by Bessemer Venture Partners &lpar;Neesha A. Tambe/TechCrunch&rpar;](http://www.techmeme.com/230620/p30#a230620p30)
+ - [Tesla hacker discovers secret ‘Elon Mode’ for hands-free Full Self-Driving](https://www.theverge.com/2023/6/20/23767041/tesla-hacker-elon-mode-hands-free-full-self-driving-autopilot)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
