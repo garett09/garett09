@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft says latest Windows Kernel fix might actually break more things](https://www.pcgamer.com/microsoft-says-latest-windows-kernel-fix-might-actually-break-more-things)
- - [Diablo 4 item power breakpoints and how they work](https://www.pcgamer.com/diablo-4-item-power-breakpoints)
- - [Chinese businesses and universities turn to back alley GPU dealers to power AI](https://www.pcgamer.com/chinese-businesses-and-universities-turn-to-back-alley-gpu-dealers-to-power-ai)<!-- GAME:END -->
+ - [How Harmony: The Fall of Reverie’s Augural system brings the magic of clairvoyance to your choices](https://blog.playstation.com/2023/06/20/how-harmony-the-fall-of-reveries-augural-system-brings-the-magic-of-clairvoyance-to-your-choices/)
+ - [Coming to Xbox Game Pass: Need for Speed Unbound, The Bookwalker, Sword and Fairy: Together Forever, and More](https://news.xbox.com/en-us/2023/06/20/game-pass-june-2023-wave-2-announce/)
+ - [The ‘JRPG’ label has always been othering](https://www.polygon.com/23677598/jrpg-label-history-othering-discrimination-japanese-role-playing-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
