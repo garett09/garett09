@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)
- - 🚯 [Pregnant librsrisn killed... florida USA](http://9gag.com/gag/aPgXbDB)
+ - 🚖 [What is dis?](http://9gag.com/gag/a3ZW6ne)
+ - 🚯 [Some good recommendations](http://9gag.com/gag/aNwRx14)
  - 🚯 [Well that sucks](http://9gag.com/gag/aDYXp19)<!-- MEMES:END -->
 
 --- 
