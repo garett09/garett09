@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crazy in the head, fire in the bed](http://9gag.com/gag/a1PL9qD)
- - 🚯 [Incredible mechanism of how a bee stinger works](http://9gag.com/gag/a8qwB66)
- - 🚯 [1930s day](http://9gag.com/gag/a8qwBw3)<!-- MEMES:END -->
+ - 🚖 [Over hundred muslim students interrupting a `LGBTQIA+` event in Belgium, shouting ...](http://9gag.com/gag/a6qpRb8)
+ - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)
+ - 🚯 [History meme &lpar;5&rpar;](http://9gag.com/gag/amAVERd)<!-- MEMES:END -->
 
 --- 
 
