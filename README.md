@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old but gold. Date with a horny crazy girl.](http://9gag.com/gag/armBjYy)
- - 🚯 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
- - 🚯 [Wow](http://9gag.com/gag/aNwRN9r)<!-- MEMES:END -->
+ - 🚖 [The nerve of some people, do you mind Chris?](http://9gag.com/gag/aeQ2vWW)
+ - 🚯 [Well that sucks](http://9gag.com/gag/aDYXp19)
+ - 🚯 [Woman attacks her Uber driver because her bags won&#39;t fit in the trunk](http://9gag.com/gag/aPgXbGB)<!-- MEMES:END -->
 
 --- 
 
