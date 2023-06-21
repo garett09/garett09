@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Final Fantasy XVI respects the series’ past and embraces the future](https://blog.playstation.com/2023/06/21/how-final-fantasy-xvi-respects-the-series-past-and-embraces-the-future/)
- - [Final Fantasy 16 is incredible when it doesn’t try to say anything meaningful](https://www.polygon.com/reviews/23767374/final-fantasy-16-review-ff16-new-game-plus)
- - [Final Fantasy XVI: The Kotaku Review](https://kotaku.com/review-final-fantasy-16-ffxvi-ps5-rpg-release-date-1850558485)<!-- GAME:END -->
+ - [They actually did it: EVE Online becomes the first videogame with Microsoft Excel integration](https://www.pcgamer.com/they-actually-did-it-eve-online-becomes-the-first-videogame-with-microsoft-excel-integration)
+ - [Free Play Days – Conan Exiles, Manual Samuel, and Football Manager 2023 Console](https://news.xbox.com/en-us/2023/06/21/free-play-days-conan-exiles-manual-samuel-and-football-manager-2023-console/)
+ - [MythForce, the ’80s cartoon video game, comes to Steam and eyes a console launch](https://www.polygon.com/23767268/mythforce-release-date-steam-next-fest-demo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
