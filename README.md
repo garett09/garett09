@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to pre-order Super Mario Bros. Wonder](https://www.polygon.com/deals/23768840/super-mario-wonder-pre-order-buy-nintendo-switch)
- - [Iron Lung dev weirded-out by their game being linked to the Titanic sub story and sales spiking: &#39;this feels so wrong&#39;](https://www.pcgamer.com/iron-lung-dev-weirded-out-by-their-game-being-linked-to-the-titanic-sub-story-and-sales-spiking-this-feels-so-wrong)
- - [Konami, Please Don’t Forget About Metal Gear Solid 4](https://kotaku.com/konami-metal-gear-solid-collection-vol-2-mgs4-ps3-1850562154)<!-- GAME:END -->
+ - [All Of The Internet’s Urgent Final Fantasy XVI Questions, Answered](https://kotaku.com/final-fantasy-xvi-release-ffxvi-reviews-ps5-pc-clive-1850562523)
+ - [Where to buy Legend of Zelda amiibo](https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link)
+ - [The New Crash Bandicoot Game Has The Odds Stacked Against It](https://kotaku.com/crash-team-rumble-price-battle-pass-free-to-play-1850562358)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
