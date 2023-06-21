@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Guy Dislocates Shoulder Celebrating On The Price Is Right](https://kotaku.com/price-is-right-dislocate-shoulder-injury-hawaii-win-tv-1850558602)
  - [YouTuber picks up where he left off with RPG he started making almost 40 years ago on a Commodore 64](https://www.pcgamer.com/youtuber-picks-up-where-he-left-off-with-rpg-he-started-making-almost-40-years-ago-on-a-commodore-64)
- - [Discord is opening the monetization floodgates: get ready for microtransaction stores and paid &#39;exclusive memes&#39;](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes)
- - [The Best Strategy Games On PC](https://kotaku.com/the-best-strategy-games-on-pc-1766534236)<!-- GAME:END -->
+ - [Discord is opening the monetization floodgates: get ready for microtransaction stores and paid &#39;exclusive memes&#39;](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
