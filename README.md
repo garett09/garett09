@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And everybody wins.](http://9gag.com/gag/aQEO6z7)
- - 🚯 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)
- - 🚯 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
+ - 🚖 [So basically, it\u2019s a $250,000 coffin ride](http://9gag.com/gag/awZYbjD)
+ - 🚯 [Press X to call for help.](http://9gag.com/gag/az2YEMb)
+ - 🚯 [Where is immunity doggo?](http://9gag.com/gag/aL1d6qW)<!-- MEMES:END -->
 
 --- 
 
