@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit starts removing moderators behind the latest protests](https://www.theverge.com/2023/6/20/23767848/reddit-blackout-api-protest-moderators-suspended-nsfw)
- - [A look at the White House&#39;s urgent push for AI regulation, as Biden meets with a group of AI experts for a non-industry perspective on risks and opportunities &lpar;Jeremy Diamond/CNN&rpar;](http://www.techmeme.com/230620/p36#a230620p36)
- - [The Best Video Game Deals &lpar;June 2023&rpar;: Xbox, PC, Switch, PlayStation](https://www.wired.com/story/best-video-game-deals/)<!-- TECH:END -->
+ - [Reddit removed moderators behind the latest protests before restoring a few of them](https://www.theverge.com/2023/6/20/23767848/reddit-blackout-api-protest-moderators-suspended-nsfw)
+ - [ElevenLabs, whose AI tech can turn text into speech using synthetic or cloned voices, raised a $19M Series A, a source says at a $99M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230620/p40#a230620p40)
+ - [Quotient Technology, parent of Coupons.com and other digital marketing platforms, agrees to merge with retail marketing firm Neptune in a $430M all-cash deal &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230620/p39#a230620p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
