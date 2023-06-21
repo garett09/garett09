@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based Volt, which offers open banking APIs in the UK, Europe, and Brazil, raised a $60M Series B led by IVP, a source says at a $350M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230621/p18#a230621p18)
- - [How the Most Popular Cars in the US Track Drivers](https://www.wired.com/story/car-data-privacy-toyota-honda-ford/)
- - [Criticizing LGBTQ+ Pride Merch Just Got More Complicated](https://www.wired.com/story/lgbtq-pride-merch-critique-tiktok/)<!-- TECH:END -->
+ - [Netflix tweaks its weekly top 10 rankings to include &quot;views&quot;, calculated by dividing the total time spent watching a film or a show in a week by running time &lpar;Rick Porter/The Hollywood Reporter&rpar;](http://www.techmeme.com/230621/p24#a230621p24)
+ - [Review: Modern Barrel Co. Moba Smart Barrel](https://www.wired.com/review/modern-barrel-moba-smart-barrel/)
+ - [How to watch Nintendo Direct June 2023](https://www.theverge.com/2023/6/21/23767151/nintendo-direct-june-2023-live-stream-time-youtube)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
