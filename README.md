@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)
- - 🚯 [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)
- - 🚯 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)<!-- MEMES:END -->
+ - 🚖 [Flying non binary bowling ball](http://9gag.com/gag/aZDzWV9)
+ - 🚯 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
+ - 🚯 [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)<!-- MEMES:END -->
 
 --- 
 
