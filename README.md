@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s where the Microsoft-Activision deal stands around the world](https://www.pcgamer.com/microsoft-activision-deal-map)
- - [I replayed Duke Nukem Forever 12 years later and, yeah, I&#39;ve got opinions](https://www.pcgamer.com/i-replayed-duke-nukem-forever-12-years-later-and-yeah-ive-got-opinions)
- - [Microsoft plots dumbed down folder options in Windows 11 Explorer](https://www.pcgamer.com/microsoft-plots-dumbed-down-folder-options-in-windows-11-explorer)<!-- GAME:END -->
+ - [You&#39;ve got to try this clever roguelike that turns Minesweeper into a turn-based strategy game](https://www.pcgamer.com/youve-got-to-try-this-clever-roguelike-that-turns-minesweeper-into-a-turn-based-strategy-game)
+ - [Secret Invasion’s Disney Plus series is nothing like the comics](https://www.polygon.com/23767078/secret-invasion-comic-mcu-differences-disney-plus-series)
+ - [EA King Solomons itself and, weirdly for a games publisher, EA Games no longer exists](https://www.pcgamer.com/ea-king-solomons-itself-and-weirdly-for-a-games-publisher-ea-games-no-longer-exists)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
