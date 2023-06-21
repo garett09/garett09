@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Just Shadow Dropped Its Most Important Reveal Ever](https://kotaku.com/destiny-lightfall-witness-black-pyramids-veil-traveler-1850560502)
- - [Six Days in Fallujah’s creators are ready to release and defend the controversial shooter](https://www.polygon.com/23763350/six-days-in-fallujah-controversy-early-access-release-date)
- - [Reddit’s ongoing protest, explained](https://www.polygon.com/23758241/reddit-private-community-protest-blackout-api-going-dark-explained-why-is-subreddit-down)<!-- GAME:END -->
+ - [Tears of the Kingdom players have found a new dupe glitch](https://www.polygon.com/2023/6/21/23768390/tears-of-the-kingdom-frozen-meat-duplication-glitch)
+ - [Twitch adds mandatory content labels and clarifies &#39;we consider kissing or licking a microphone to fall within Sexual Themes&#39;](https://www.pcgamer.com/twitch-adds-mandatory-content-labels-and-clarifies-we-consider-kissing-or-licking-a-microphone-to-fall-within-sexual-themes)
+ - [My favourite Steam Next Fest demo so far is this analogue 90s dial-a-witcher horror game](https://www.pcgamer.com/home-safety-hotline-next-fest-demo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
