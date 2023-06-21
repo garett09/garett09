@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo Yoga Book 9i review: Should you buy it?](https://www.androidauthority.com/lenovo-yoga-book-9i-review-3334359/)
- - [Mastercard Is Planning to Help You Recycle Credit Cards From Any Bank     - CNET](https://www.cnet.com/personal-finance/credit-cards/mastercard-is-planning-to-help-you-recycle-credit-cards-from-any-bank/#ftag=CAD590a51e)
- - [Rivian’s R2 electric SUV will cost between $40,000 and $60,000](https://www.theverge.com/2023/6/21/23768288/rivian-r2-electric-suv-price-range-reveal)<!-- TECH:END -->
+ - [Steam Deck vs Nintendo Switch: How do they compare?](https://www.androidauthority.com/steam-deck-vs-nintendo-switch-3337742/)
+ - [Apple patches three zero-days in its operating systems, including Operation Triangulation iMessage exploit described by Kaspersky earlier in June &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230621/p39#a230621p39)
+ - [Spotify’s podcast plan is going off the rails](https://www.theverge.com/23768886/spotify-podcast-strategy-mistakes-joe-rogan-exclusives-trevor-noah)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
