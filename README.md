@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Final Fantasy XVI adds blood and grit but doesn’t change the series’ soul](https://www.theverge.com/23767669/final-fantasy-xvi-review-ps5)
- - [Pixel Tablet may be getting a stylus and keyboard, according to a Google app](https://www.androidauthority.com/pixel-tablet-stylus-keyboard-accessories-3337476/)<!-- TECH:END -->
+ - [The new Pokémon Scarlet and Violet DLC trailer is all about style](https://www.theverge.com/2023/6/21/23768046/pokemon-scarlet-violet-teal-mask-trailer-2)
+ - [Patreon is launching a free membership tier — and will let fans buy things, too](https://www.theverge.com/2023/6/21/23763815/patreon-free-tier-shopping-digital-goods-subscription)
+ - [Rare Apple Earthquake Survival Kit contains timeless safety advice](https://appleinsider.com/articles/23/06/21/rare-apple-earthquake-survival-kit-contains-timeless-safety-advice?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
