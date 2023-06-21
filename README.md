@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Flying non binary bowling ball](http://9gag.com/gag/aZDzWV9)
- - 🚯 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
- - 🚯 [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)<!-- MEMES:END -->
+ - 🚖 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)
+ - 🚯 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)
+ - 🚯 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
 
 --- 
 
