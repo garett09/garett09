@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day is July 11 &amp; 12 -- with new invitation deals](https://appleinsider.com/articles/23/06/21/amazon-prime-day-is-july-11-12----with-new-invitation-deals?utm_medium=rss)
- - [Abortion Pill Use Is Surging Post-Dobbs. Now It’s Under Threat](https://www.wired.com/story/abortion-pill-use-is-surging-now-its-under-threat/)
- - [Instagram now lets US users download Reels posted by public accounts for sharing outside the app, a feature TikTok has had for years &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230621/p14#a230621p14)<!-- TECH:END -->
+ - [UK-based Volt, which offers open banking APIs in the UK, Europe, and Brazil, raised a $60M Series B led by IVP, a source says at a $350M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230621/p18#a230621p18)
+ - [How the Most Popular Cars in the US Track Drivers](https://www.wired.com/story/car-data-privacy-toyota-honda-ford/)
+ - [Criticizing LGBTQ+ Pride Merch Just Got More Complicated](https://www.wired.com/story/lgbtq-pride-merch-critique-tiktok/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
