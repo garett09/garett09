@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)
- - 🚯 [5 people missing in a titanic visitors submarine &lpar;u boat&rpar; with only 22 of hours of oxygen left. Missing since yesterday. All billionaires and World class diver](http://9gag.com/gag/amApNy6)
- - 🚯 [BebeRexha concert got cancelled because a fan threw their phone and headshotted her...](http://9gag.com/gag/a6qpvPA)<!-- MEMES:END -->
+ - 🚖 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
+ - 🚯 [Gay Pride Parade in Turkey lasted 5 minutes before everybody was arrested.](http://9gag.com/gag/aeQ7jYO)
+ - 🚯 [Too soon?](http://9gag.com/gag/avQd26b)<!-- MEMES:END -->
 
 --- 
 
