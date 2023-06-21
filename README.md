@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 is finally getting the horse expansion players have been begging for](https://www.pcgamer.com/sims-4-horse-expansion-teaser)
- - [You have to start a fresh Diablo 4 character for each battle pass](https://www.pcgamer.com/diablo-4-new-characters-battle-pass)
- - [Popular Fortnite streamer Tfue takes Twitch hiatus, citing exhausting grind](https://www.polygon.com/23767747/twitch-streamer-tfue-fortnite-break-retire)<!-- GAME:END -->
+ - [YouTuber picks up where he left off with RPG he started making almost 40 years ago on a Commodore 64](https://www.pcgamer.com/youtuber-picks-up-where-he-left-off-with-rpg-he-started-making-almost-40-years-ago-on-a-commodore-64)
+ - [Discord is opening the monetization floodgates: get ready for microtransaction stores and paid &#39;exclusive memes&#39;](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes)
+ - [The Best Strategy Games On PC](https://kotaku.com/the-best-strategy-games-on-pc-1766534236)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
