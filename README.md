@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
- - 🚯 [5 people missing in a titanic visitors submarine &lpar;u boat&rpar; with only 22 of hours of oxygen left. Missing since yesterday. All billionaires and World class diver](http://9gag.com/gag/amApNy6)
- - 🚯 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)<!-- MEMES:END -->
+ - 🚖 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)
+ - 🚯 [Well that sucks](http://9gag.com/gag/aDYXp19)
+ - 🚯 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)<!-- MEMES:END -->
 
 --- 
 
