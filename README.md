@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you mess around](http://9gag.com/gag/a8qKdO6)
- - 🚯 [True bro](http://9gag.com/gag/aXnKZ3z)
- - 🚯 [Balanced as it always should have been](http://9gag.com/gag/a8qKLWe)<!-- MEMES:END -->
+ - 🚖 [Well that sucks](http://9gag.com/gag/aDYXp19)
+ - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)
+ - 🚯 [Share some awesome signature](http://9gag.com/gag/a2KbnY1)<!-- MEMES:END -->
 
 --- 
 
