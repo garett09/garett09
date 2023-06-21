@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA&#39;s Heretic-like magic FPS Immortals of Aveum is delayed](https://www.pcgamer.com/eas-heretic-like-magic-fps-immortals-of-aveum-is-delayed)
- - [Reddit Is Removing Mods Over NSFW Protests](https://kotaku.com/reddit-mods-steve-huffman-protest-nsfw-blackout-api-ios-1850558712)
- - [Guy Dislocates Shoulder Celebrating On The Price Is Right](https://kotaku.com/price-is-right-dislocate-shoulder-injury-hawaii-win-tv-1850558602)<!-- GAME:END -->
+ - [Yes, Secret Invasion’s opening credits scene is AI-made. Here’s why](https://www.polygon.com/23767640/ai-mcu-secret-invasion-opening-credits)
+ - [Nvidia&#39;s ultra expensive H100 Hopper GPU gets tested in games](https://www.pcgamer.com/nvidias-ultra-expensive-h100-hopper-gpu-gets-tested-in-games)
+ - [EA&#39;s Heretic-like magic FPS Immortals of Aveum is delayed](https://www.pcgamer.com/eas-heretic-like-magic-fps-immortals-of-aveum-is-delayed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
