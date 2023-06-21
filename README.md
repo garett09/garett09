@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Flash’s Supergirl is a perfect fit for a dying DC cinematic universe](https://www.polygon.com/23767527/the-flash-supergirl-perfect-zack-snyderverse-superhero)
- - [Discover how Japanese culture inspired the upcoming party-brawler PixelJunk Scrappers Deluxe](https://blog.playstation.com/2023/06/21/discover-how-japanese-culture-inspired-the-upcoming-party-brawler-pixeljunk-scrappers-deluxe/)
- - [Jedi: Survivor update fixes bounty hunters neglecting to kill you, but this is not the performance patch you&#39;re looking for](https://www.pcgamer.com/jedi-survivor-update-fixes-bounty-hunters-neglecting-to-kill-you-but-this-is-not-the-performance-patch-youre-looking-for)<!-- GAME:END -->
+ - [How Final Fantasy XVI respects the series’ past and embraces the future](https://blog.playstation.com/2023/06/21/how-final-fantasy-xvi-respects-the-series-past-and-embraces-the-future/)
+ - [Final Fantasy 16 is incredible when it doesn’t try to say anything meaningful](https://www.polygon.com/reviews/23767374/final-fantasy-16-review-ff16-new-game-plus)
+ - [Final Fantasy XVI: The Kotaku Review](https://kotaku.com/review-final-fantasy-16-ffxvi-ps5-rpg-release-date-1850558485)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
