@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Was WhatsApp secretly listening to you? Google says it was just a bug](https://www.androidauthority.com/whatsapp-listening-android-bug-google-3336520/)
- - [KoBold Metals, which uses AI and ML to identify deposits of cobalt, copper, nickel, and lithium, raised ~$200M led by T. Rowe Price at a $1B+ valuation &lpar;Julie Steinberg/Wall Street Journal&rpar;](http://www.techmeme.com/230621/p6#a230621p6)
- - [Sources say YouTube plans to launch its first official shopping channel for live commerce in South Korea on June 30 with content from about 30 brands &lpar;Yonhap News Agency&rpar;](http://www.techmeme.com/230621/p5#a230621p5)<!-- TECH:END -->
+ - [Masayoshi Son says SoftBank will go on the &quot;counteroffensive&quot; soon by resuming AI investments; the group has $35B+ after it halted investments in recent years &lpar;Kana Inagaki/Financial Times&rpar;](http://www.techmeme.com/230621/p7#a230621p7)
+ - [Amazon Prime Day 2023 Announced: 48-Hour Sale Kicks Off July 11     - CNET](https://www.cnet.com/tech/amazon-prime-day-2023-announced-48-hour-sale-kicks-off-july-11/#ftag=CAD590a51e)
+ - [Was WhatsApp secretly listening to you? Google says it was just a bug](https://www.androidauthority.com/whatsapp-listening-android-bug-google-3336520/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
