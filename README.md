@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too soon?](http://9gag.com/gag/avQd26b)
- - 🚯 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
- - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)<!-- MEMES:END -->
+ - 🚖 [Trolling lefties using their ideology](http://9gag.com/gag/anzrejB)
+ - 🚯 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)
+ - 🚯 [Too soon?](http://9gag.com/gag/avQd26b)<!-- MEMES:END -->
 
 --- 
 
