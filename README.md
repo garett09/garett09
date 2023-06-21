@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They only were in jail for a year](http://9gag.com/gag/aYV1zLw)
+ - 🚖 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
  - 🚯 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)
  - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
 
