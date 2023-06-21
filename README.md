@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)
- - 🚯 [Well that sucks](http://9gag.com/gag/aDYXp19)
- - 🚯 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)<!-- MEMES:END -->
+ - 🚖 [Woke Disney strikes](http://9gag.com/gag/aVb2GxK)
+ - 🚯 [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)
+ - 🚯 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)<!-- MEMES:END -->
 
 --- 
 
