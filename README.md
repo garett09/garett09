@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tears of the Kingdom players have found a new dupe glitch](https://www.polygon.com/2023/6/21/23768390/tears-of-the-kingdom-frozen-meat-duplication-glitch)
- - [Twitch adds mandatory content labels and clarifies &#39;we consider kissing or licking a microphone to fall within Sexual Themes&#39;](https://www.pcgamer.com/twitch-adds-mandatory-content-labels-and-clarifies-we-consider-kissing-or-licking-a-microphone-to-fall-within-sexual-themes)
- - [My favourite Steam Next Fest demo so far is this analogue 90s dial-a-witcher horror game](https://www.pcgamer.com/home-safety-hotline-next-fest-demo)<!-- GAME:END -->
+ - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in June 2023](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
+ - [Pokémon Go Giovanni counters, team line-up in June 2023](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
+ - [Pokémon Go ‘A Shadowy Disturbance’ Special Research quest steps, rewards](https://www.polygon.com/pokemon-go-guide/23768732/a-shadowy-disturbance-special-research-shadow-regirock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
