@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s just funnier](http://9gag.com/gag/aGEOKxG)
- - 🚯 [Since its back, need an updated accounts](http://9gag.com/gag/aVbVj7n)
- - 🚯 [Yo guys what are your honest thoughts about one piece live action?](http://9gag.com/gag/a2KbQ4p)<!-- MEMES:END -->
+ - 🚖 [If you mess around](http://9gag.com/gag/a8qKdO6)
+ - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)
+ - 🚯 [Man goes full primal to protect woman](http://9gag.com/gag/aKEOwVj)<!-- MEMES:END -->
 
 --- 
 
