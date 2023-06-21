@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Score your chance to get this $400 Fire TV for just $100 on Prime Day](https://www.androidauthority.com/fire-tv-deal-prime-day-invite-3337798/)
- - [Google files a US FTC complaint alleging Microsoft used Office 365 licensing terms to lock clients into Azure contracts; Microsoft changed its EU terms in 2022 &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/230621/p34#a230621p34)
- - [Motorola Moto G Stylus 5G &lpar;2023&rpar; review: Should you buy it?](https://www.androidauthority.com/motorola-moto-g-stylus-5g-2023-review-3335628/)<!-- TECH:END -->
+ - [Apple still has a lot of secret apps for Vision Pro in the works](https://appleinsider.com/articles/23/06/21/apple-still-has-a-lot-of-secret-apps-for-vision-pro-in-the-works?utm_medium=rss)
+ - [Microsoft increases the prices of Xbox Series X and, for the first time, Xbox Game Pass in most markets; Xbox Series X pricing will remain the same in the US &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230621/p36#a230621p36)
+ - [An AT&amp;T-backed cellular satellite company sent a 4G LTE signal from space](https://www.theverge.com/2023/6/21/23768495/att-ast-spacemobile-space-based-satellite-cellular-signal-lte-5g)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
