@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Well that sucks](http://9gag.com/gag/aDYXp19)
- - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)
- - 🚯 [Share some awesome signature](http://9gag.com/gag/a2KbnY1)<!-- MEMES:END -->
+ - 🚯 [Well well, it turns out my actions DO have consequences. How about that.](http://9gag.com/gag/aVb2nKP)
+ - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
 
 --- 
 
