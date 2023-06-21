@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Indian consumer tech startups refocused on profits, shares have rallied in 2023; Paytm grew 69%, adding over $2.7B, Zomato rose 28%, and Policybazaar 47% &lpar;Ashutosh Joshi/Bloomberg&rpar;](http://www.techmeme.com/230621/p11#a230621p11)
- - [Chromebook X leaks: Google’s new badge of excellence for laptops](https://www.androidauthority.com/google-chromebook-x-program-3337595/)
- - [Amazon plans to hold Prime Day on July 11 and July 12 and introduce an invite-only Prime Days deals program; an Indian version will be held &quot;later this summer&quot; &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/230621/p10#a230621p10)<!-- TECH:END -->
+ - [Amazon Prime Day is July 11 &amp; 12 -- with new invitation deals](https://appleinsider.com/articles/23/06/21/amazon-prime-day-is-july-11-12----with-new-invitation-deals?utm_medium=rss)
+ - [Abortion Pill Use Is Surging Post-Dobbs. Now It’s Under Threat](https://www.wired.com/story/abortion-pill-use-is-surging-now-its-under-threat/)
+ - [Instagram now lets US users download Reels posted by public accounts for sharing outside the app, a feature TikTok has had for years &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230621/p14#a230621p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
