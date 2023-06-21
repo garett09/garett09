@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best screen protectors for the Apple Watch Ultra](https://www.androidauthority.com/best-apple-watch-ultra-screen-protectors-3337540/)
- - [A look at the vagueness and implications of the EU&#39;s plan to require portable batteries, including those in smartphones, be &quot;readily removable and replaceable&quot; &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/230621/p1#a230621p1)
- - [Document: LexisNexis&#39; $16.8M contract with ICE includes software that purports to detect suspicious activity of migrants by using license plate reader data &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/230620/p41#a230620p41)<!-- TECH:END -->
+ - [Was WhatsApp secretly listening to you? Google says it was just a bug](https://www.androidauthority.com/whatsapp-listening-android-bug-google-3336520/)
+ - [KoBold Metals, which uses AI and ML to identify deposits of cobalt, copper, nickel, and lithium, raised ~$200M led by T. Rowe Price at a $1B+ valuation &lpar;Julie Steinberg/Wall Street Journal&rpar;](http://www.techmeme.com/230621/p6#a230621p6)
+ - [Sources say YouTube plans to launch its first official shopping channel for live commerce in South Korea on June 30 with content from about 30 brands &lpar;Yonhap News Agency&rpar;](http://www.techmeme.com/230621/p5#a230621p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
