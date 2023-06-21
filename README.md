@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trolling lefties using their ideology](http://9gag.com/gag/anzrejB)
- - 🚯 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)
- - 🚯 [Too soon?](http://9gag.com/gag/avQd26b)<!-- MEMES:END -->
+ - 🚖 [Since its back, need an updated accounts](http://9gag.com/gag/aVbVj7n)
+ - 🚯 [Imagine steeping in and immediately getting judged head to toe by mediocre women.](http://9gag.com/gag/ap9AyOM)
+ - 🚯 [What is dis?](http://9gag.com/gag/a3ZW6ne)<!-- MEMES:END -->
 
 --- 
 
