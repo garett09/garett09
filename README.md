@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV expands multiview beyond sports — but you still can’t customize it](https://www.theverge.com/2023/6/21/23768920/youtube-tv-multiview-news-weather-now-available)
- - [Bizarre Google &#39;Best Phones Forever&#39; ads poke fun at iPhone](https://appleinsider.com/articles/23/06/21/bizarre-google-best-phones-forever-ads-poke-fun-at-iphone?utm_medium=rss)
- - [How to check your version history on Google Docs](https://www.theverge.com/23762071/google-docs-version-history-how-to)<!-- TECH:END -->
+ - [Lenovo Yoga Book 9i review: Should you buy it?](https://www.androidauthority.com/lenovo-yoga-book-9i-review-3334359/)
+ - [Mastercard Is Planning to Help You Recycle Credit Cards From Any Bank     - CNET](https://www.cnet.com/personal-finance/credit-cards/mastercard-is-planning-to-help-you-recycle-credit-cards-from-any-bank/#ftag=CAD590a51e)
+ - [Rivian’s R2 electric SUV will cost between $40,000 and $60,000](https://www.theverge.com/2023/6/21/23768288/rivian-r2-electric-suv-price-range-reveal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
