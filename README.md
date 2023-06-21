@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [If you mess around](http://9gag.com/gag/a8qKdO6)
  - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)
- - 🚯 [Man goes full primal to protect woman](http://9gag.com/gag/aKEOwVj)<!-- MEMES:END -->
+ - 🚯 [True bro](http://9gag.com/gag/aXnKZ3z)<!-- MEMES:END -->
 
 --- 
 
