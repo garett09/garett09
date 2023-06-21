@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go leader counters for Sierra, Arlo, and Cliff in June 2023](https://www.polygon.com/pokemon-go-guide/23579975/team-rocket-leader-counters-sierra-arlo-cliff-party-weaknesses)
- - [Pokémon Go Giovanni counters, team line-up in June 2023](https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket)
- - [Pokémon Go ‘A Shadowy Disturbance’ Special Research quest steps, rewards](https://www.polygon.com/pokemon-go-guide/23768732/a-shadowy-disturbance-special-research-shadow-regirock)<!-- GAME:END -->
+ - [Legendary RPG Series Creator Wants To Help Find The Missing Titanic Sub](https://kotaku.com/titanic-titan-submarine-missing-search-ultima-garriott-1850561777)
+ - [Fortnite Chapter 4 Season 3 battle pass skins list, including Era, Rian, and Optimus Prime](https://www.polygon.com/fortnite-guide/23755442/chapter-4-season-3-battle-pass-skins-era-trace-rian-optimus-prime-relik-mariposa-lorenzo-styles)
+ - [Unveiling the Origins of Bunny Battle Nemesis: A Journey into the DCF Universe](https://news.xbox.com/en-us/2023/06/21/bunny-battle-nemesis-free-demo-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
