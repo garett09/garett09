@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals: $200 off M2 MacBook Pro, $329 Apple Watch Series 8, 72% off JBL Bluetooth speaker, more](https://appleinsider.com/articles/23/06/21/daily-deals-200-off-m2-macbook-pro-329-apple-watch-series-8-72-off-jbl-bluetooth-speaker-more?utm_medium=rss)
- - [Dropbox’s AI tools can help you find your stuff — from everywhere on the internet](https://www.theverge.com/2023/6/21/23767248/dropbox-ai-dash-universal-search)
- - [FTC v. Microsoft: all the news from the big Xbox courtroom battle](https://www.theverge.com/23768244/ftc-microsoft-activision-blizzard-case-news-announcements)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Final Fantasy XVI adds blood and grit but doesn’t change the series’ soul](https://www.theverge.com/23767669/final-fantasy-xvi-review-ps5)
+ - [Pixel Tablet may be getting a stylus and keyboard, according to a Google app](https://www.androidauthority.com/pixel-tablet-stylus-keyboard-accessories-3337476/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
