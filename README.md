@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download the Samsung Galaxy S23 wallpapers here](https://www.androidauthority.com/download-samsung-galaxy-s23-wallpapers-3337041/)
- - [Spoutible&#39;s Low-Budget, Audacious Quest to Be the Next Twitter](https://www.wired.com/story/christopher-bouzy-spoutible-race-to-unseat-twitter/)
- - [Apple TV+ production of &#39;Metropolis&#39; has shut down permanently amid writers&#39; strike](https://appleinsider.com/articles/23/06/20/apple-tv-production-of-metropolis-has-shut-down-permanently-amid-writers-strike?utm_medium=rss)<!-- TECH:END -->
+ - [Reddit starts removing moderators behind the latest protests](https://www.theverge.com/2023/6/20/23767848/reddit-blackout-api-protest-moderators-suspended-nsfw)
+ - [A look at the White House&#39;s urgent push for AI regulation, as Biden meets with a group of AI experts for a non-industry perspective on risks and opportunities &lpar;Jeremy Diamond/CNN&rpar;](http://www.techmeme.com/230620/p36#a230620p36)
+ - [The Best Video Game Deals &lpar;June 2023&rpar;: Xbox, PC, Switch, PlayStation](https://www.wired.com/story/best-video-game-deals/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
