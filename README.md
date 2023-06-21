@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Since its back, need an updated accounts](http://9gag.com/gag/aVbVj7n)
- - 🚯 [Imagine steeping in and immediately getting judged head to toe by mediocre women.](http://9gag.com/gag/ap9AyOM)
- - 🚯 [What is dis?](http://9gag.com/gag/a3ZW6ne)<!-- MEMES:END -->
+ - 🚖 [It&#39;s just funnier](http://9gag.com/gag/aGEOKxG)
+ - 🚯 [Since its back, need an updated accounts](http://9gag.com/gag/aVbVj7n)
+ - 🚯 [Yo guys what are your honest thoughts about one piece live action?](http://9gag.com/gag/a2KbQ4p)<!-- MEMES:END -->
 
 --- 
 
