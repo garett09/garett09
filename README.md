@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Nothing smartwatch could be in the works](https://www.androidauthority.com/nothing-smartwatch-trademark-listing-3337586/)
- - [A profile of Alibaba&#39;s next Chairman Joseph Tsai, a longterm Jack Ma ally who has become a prominent blockchain investor since co-founding the ecommerce company &lpar;Jesse Levine/Bloomberg&rpar;](http://www.techmeme.com/230621/p8#a230621p8)
- - [Samsung’s clever Galaxy Enhance-X app is now available for a ton of phones](https://www.androidauthority.com/samsung-galaxy-enhance-x-app-wide-launch-3337584/)<!-- TECH:END -->
+ - [After Indian consumer tech startups refocused on profits, shares have rallied in 2023; Paytm grew 69%, adding over $2.7B, Zomato rose 28%, and Policybazaar 47% &lpar;Ashutosh Joshi/Bloomberg&rpar;](http://www.techmeme.com/230621/p11#a230621p11)
+ - [Chromebook X leaks: Google’s new badge of excellence for laptops](https://www.androidauthority.com/google-chromebook-x-program-3337595/)
+ - [Amazon plans to hold Prime Day on July 11 and July 12 and introduce an invite-only Prime Days deals program; an Indian version will be held &quot;later this summer&quot; &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/230621/p10#a230621p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
