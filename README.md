@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;ve got to try this clever roguelike that turns Minesweeper into a turn-based strategy game](https://www.pcgamer.com/youve-got-to-try-this-clever-roguelike-that-turns-minesweeper-into-a-turn-based-strategy-game)
- - [Secret Invasion’s Disney Plus series is nothing like the comics](https://www.polygon.com/23767078/secret-invasion-comic-mcu-differences-disney-plus-series)
- - [EA King Solomons itself and, weirdly for a games publisher, EA Games no longer exists](https://www.pcgamer.com/ea-king-solomons-itself-and-weirdly-for-a-games-publisher-ea-games-no-longer-exists)<!-- GAME:END -->
+ - [The Flash’s Supergirl is a perfect fit for a dying DC cinematic universe](https://www.polygon.com/23767527/the-flash-supergirl-perfect-zack-snyderverse-superhero)
+ - [Discover how Japanese culture inspired the upcoming party-brawler PixelJunk Scrappers Deluxe](https://blog.playstation.com/2023/06/21/discover-how-japanese-culture-inspired-the-upcoming-party-brawler-pixeljunk-scrappers-deluxe/)
+ - [Jedi: Survivor update fixes bounty hunters neglecting to kill you, but this is not the performance patch you&#39;re looking for](https://www.pcgamer.com/jedi-survivor-update-fixes-bounty-hunters-neglecting-to-kill-you-but-this-is-not-the-performance-patch-youre-looking-for)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
