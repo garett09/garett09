@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [If you mess around](http://9gag.com/gag/a8qKdO6)
- - 🚯 [Battlefield: Ukraine - trench PvP](http://9gag.com/gag/aMEXgNR)
- - 🚯 [True bro](http://9gag.com/gag/aXnKZ3z)<!-- MEMES:END -->
+ - 🚯 [True bro](http://9gag.com/gag/aXnKZ3z)
+ - 🚯 [Balanced as it always should have been](http://9gag.com/gag/a8qKLWe)<!-- MEMES:END -->
 
 --- 
 
