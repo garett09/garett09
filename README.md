@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Priscilla shows Jacob Elordi as a very human Elvis Presley](https://www.polygon.com/23769058/priscilla-elvis-jacob-elordi-movie-release-date-cast)
- - [How to get cold resistance in Zelda: Tears of the Kingdom](https://www.polygon.com/23713134/cold-resistance-buff-elixir-food-recipes)
- - [All Of The Internet’s Urgent Final Fantasy XVI Questions, Answered](https://kotaku.com/final-fantasy-xvi-release-ffxvi-reviews-ps5-pc-clive-1850562523)<!-- GAME:END -->
+ - [Creating a Rhythm Game for a Dreaming Teen Rockstar – Loud: My Road to Fame](https://news.xbox.com/en-us/2023/06/21/creating-a-rhythm-game-loud-my-road-to-fame/)
+ - [Police Catch Bombing Suspect After He Left Behind Pokémon Cards](https://kotaku.com/bombing-suspect-arrest-pokemon-cards-left-behind-crime-1850563169)
+ - [Twitch’s new sensation is a weird indie climbing game that’s also quietly promoting NFTs](https://www.pcgamer.com/twitchs-new-sensation-is-a-weird-indie-climbing-game-thats-also-quietly-promoting-nfts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
