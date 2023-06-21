@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit removed moderators behind the latest protests before restoring a few of them](https://www.theverge.com/2023/6/20/23767848/reddit-blackout-api-protest-moderators-suspended-nsfw)
- - [ElevenLabs, whose AI tech can turn text into speech using synthetic or cloned voices, raised a $19M Series A, a source says at a $99M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230620/p40#a230620p40)
- - [Quotient Technology, parent of Coupons.com and other digital marketing platforms, agrees to merge with retail marketing firm Neptune in a $430M all-cash deal &lpar;Samrhitha Arunasalam/Reuters&rpar;](http://www.techmeme.com/230620/p39#a230620p39)<!-- TECH:END -->
+ - [A look at the vagueness and implications of the EU&#39;s plan to require portable batteries, including those in smartphones, be &quot;readily removable and replaceable&quot; &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/230621/p1#a230621p1)
+ - [Document: LexisNexis&#39; $16.8M contract with ICE includes software that purports to detect suspicious activity of migrants by using license plate reader data &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/230620/p41#a230620p41)
+ - [Discord plans to let creators sell downloadable products](https://www.theverge.com/2023/6/20/23767809/discord-downloadable-digital-products-sever-shop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
