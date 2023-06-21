@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Masayoshi Son says SoftBank will go on the &quot;counteroffensive&quot; soon by resuming AI investments; the group has $35B+ after it halted investments in recent years &lpar;Kana Inagaki/Financial Times&rpar;](http://www.techmeme.com/230621/p7#a230621p7)
- - [Amazon Prime Day 2023 Announced: 48-Hour Sale Kicks Off July 11     - CNET](https://www.cnet.com/tech/amazon-prime-day-2023-announced-48-hour-sale-kicks-off-july-11/#ftag=CAD590a51e)
- - [Was WhatsApp secretly listening to you? Google says it was just a bug](https://www.androidauthority.com/whatsapp-listening-android-bug-google-3336520/)<!-- TECH:END -->
+ - [A Nothing smartwatch could be in the works](https://www.androidauthority.com/nothing-smartwatch-trademark-listing-3337586/)
+ - [A profile of Alibaba&#39;s next Chairman Joseph Tsai, a longterm Jack Ma ally who has become a prominent blockchain investor since co-founding the ecommerce company &lpar;Jesse Levine/Bloomberg&rpar;](http://www.techmeme.com/230621/p8#a230621p8)
+ - [Samsung’s clever Galaxy Enhance-X app is now available for a ton of phones](https://www.androidauthority.com/samsung-galaxy-enhance-x-app-wide-launch-3337584/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
