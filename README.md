@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want lag-free gaming audio on any device? Qualcomm has a chip for that](https://www.androidauthority.com/qualcomm-announces-ultra-low-latency-chipset-3335410/)
- - [Detective Pikachu... Returns!](https://www.theverge.com/23768385/detective-pikachu-returns-trailer-nintendo-switch)
- - [FTC sues Amazon, alleging users are being tricked into signing up for Prime](https://appleinsider.com/articles/23/06/21/ftc-sues-amazon-alleging-users-are-being-tricked-into-signing-up-for-prime?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft is hiking the price of Xbox Series X and Xbox Game Pass](https://www.theverge.com/2023/6/21/23768400/microsoft-xbox-series-x-xbox-game-pass-price-increase)
+ - [GaryVee is ‘petrified’ of Slack](https://www.theverge.com/23766700/gary-vee-vaynerchuk-vaynerx-vayner-media-influencer-content-marketing-social-media)
+ - [The 5 biggest announcements from the June 2023 Nintendo Direct](https://www.theverge.com/2023/6/21/23768463/nintendo-direct-june-2023-announcements-trailers-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
