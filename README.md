@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Pokémon Scarlet and Violet DLC trailer is all about style](https://www.theverge.com/2023/6/21/23768046/pokemon-scarlet-violet-teal-mask-trailer-2)
- - [Patreon is launching a free membership tier — and will let fans buy things, too](https://www.theverge.com/2023/6/21/23763815/patreon-free-tier-shopping-digital-goods-subscription)
- - [Rare Apple Earthquake Survival Kit contains timeless safety advice](https://appleinsider.com/articles/23/06/21/rare-apple-earthquake-survival-kit-contains-timeless-safety-advice?utm_medium=rss)<!-- TECH:END -->
+ - [Want lag-free gaming audio on any device? Qualcomm has a chip for that](https://www.androidauthority.com/qualcomm-announces-ultra-low-latency-chipset-3335410/)
+ - [Detective Pikachu... Returns!](https://www.theverge.com/23768385/detective-pikachu-returns-trailer-nintendo-switch)
+ - [FTC sues Amazon, alleging users are being tricked into signing up for Prime](https://appleinsider.com/articles/23/06/21/ftc-sues-amazon-alleging-users-are-being-tricked-into-signing-up-for-prime?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
