@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [They actually did it: EVE Online becomes the first videogame with Microsoft Excel integration](https://www.pcgamer.com/they-actually-did-it-eve-online-becomes-the-first-videogame-with-microsoft-excel-integration)
- - [Free Play Days – Conan Exiles, Manual Samuel, and Football Manager 2023 Console](https://news.xbox.com/en-us/2023/06/21/free-play-days-conan-exiles-manual-samuel-and-football-manager-2023-console/)
- - [MythForce, the ’80s cartoon video game, comes to Steam and eyes a console launch](https://www.polygon.com/23767268/mythforce-release-date-steam-next-fest-demo)<!-- GAME:END -->
+ - [Destiny 2 Just Shadow Dropped Its Most Important Reveal Ever](https://kotaku.com/destiny-lightfall-witness-black-pyramids-veil-traveler-1850560502)
+ - [Six Days in Fallujah’s creators are ready to release and defend the controversial shooter](https://www.polygon.com/23763350/six-days-in-fallujah-controversy-early-access-release-date)
+ - [Reddit’s ongoing protest, explained](https://www.polygon.com/23758241/reddit-private-community-protest-blackout-api-going-dark-explained-why-is-subreddit-down)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
