@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
- - 🚯 [5 people missing in a titanic visitors submarine &lpar;u boat&rpar; with only 22 of hours of oxygen left. Missing since yesterday. All billionaires and World class diver](http://9gag.com/gag/amApNy6)
- - 🚯 [BebeRexha concert got cancelled because a fan threw their phone and headshotted her...](http://9gag.com/gag/a6qpvPA)<!-- MEMES:END -->
+ - 🚖 [Stealth](http://9gag.com/gag/aZDzPG6)
+ - 🚯 [Macron was accused of toxic masculinity after drinking a beer in 17 seconds. Idiocracy here we come](http://9gag.com/gag/aBdOKGz)
+ - 🚯 [Finally some satisfying video](http://9gag.com/gag/a1PEAL2)<!-- MEMES:END -->
 
 --- 
 
