@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chopping onions should be easy](http://9gag.com/gag/aA0OVe2)
- - 🚯 [Least deranged single mother](http://9gag.com/gag/a8qwrLZ)
+ - 🚖 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
+ - 🚯 [5 people missing in a titanic visitors submarine &lpar;u boat&rpar; with only 22 of hours of oxygen left. Missing since yesterday. All billionaires and World class diver](http://9gag.com/gag/amApNy6)
  - 🚯 [BebeRexha concert got cancelled because a fan threw their phone and headshotted her...](http://9gag.com/gag/a6qpvPA)<!-- MEMES:END -->
 
 --- 
