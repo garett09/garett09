@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oldie but goldie](http://9gag.com/gag/anzr19b)
- - 🚯 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
- - 🚯 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)<!-- MEMES:END -->
+ - 🚖 [You could love her in every universe](http://9gag.com/gag/anzr1Xz)
+ - 🚯 [No title needed](http://9gag.com/gag/a1PEXmG)
+ - 🚯 [Hehe](http://9gag.com/gag/aGEODm6)<!-- MEMES:END -->
 
 --- 
 
