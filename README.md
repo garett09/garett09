@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
- - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)
- - 🚯 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)<!-- MEMES:END -->
+ - 🚯 [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)
+ - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
 
 --- 
 
