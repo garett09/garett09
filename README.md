@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: your friends at Verge Deals are here to guide you through Amazon Prime Day](https://www.theverge.com/2023/6/22/23768680/verge-deals-newsletter-subscribe-amazon-prime-day-sales-discounts)
- - [Video Game Remakes Are in a Golden Age. That Could Be a Bad Thing](https://www.wired.com/story/golden-age-of-video-game-remakes/)
- - [Acryl Data, which offers a data catalog service built on DataHub open source framework, raised a $21M Series A led by 8VC, bringing its total funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230622/p24#a230622p24)<!-- TECH:END -->
+ - [Robinhood acquires X1, a startup offering an income-based credit card with rewards, for $95M in cash; X1 raised $62M in total, including $15M in December 2022 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230622/p27#a230622p27)
+ - [ASUS Zenfone 10 renders leak, confirm 3.5mm port returns](https://www.androidauthority.com/asus-zenfone-10-confirms-port-3338222/)
+ - [An infamous Final Fantasy XIV monster returns in Final Fantasy XVI](https://www.theverge.com/2023/6/22/23769740/final-fantasy-xvi-hunt-board-dread-comet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
