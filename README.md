@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Only for gaming](http://9gag.com/gag/aeQ76MQ)
- - 🚯 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)
- - 🚯 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)<!-- MEMES:END -->
+ - 🚖 [I&#39;m happy with this list, but, any suggestions for March?](http://9gag.com/gag/aXnK91d)
+ - 🚯 [Best friends... Oh wait!](http://9gag.com/gag/agoEvjg)
+ - 🚯 [No title needed](http://9gag.com/gag/a1PEXmG)<!-- MEMES:END -->
 
 --- 
 
