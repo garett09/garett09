@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Would you choose to live indefinitely in a robot body? You get to keep just your head.](http://9gag.com/gag/arm2eG0)
- - 🚯 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 🚯 [So common in some places people don&#39;t even bat an eye anymore](http://9gag.com/gag/aMEOQnX)<!-- MEMES:END -->
+ - 🚖 [Only for gaming](http://9gag.com/gag/aeQ76MQ)
+ - 🚯 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)
+ - 🚯 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)<!-- MEMES:END -->
 
 --- 
 
