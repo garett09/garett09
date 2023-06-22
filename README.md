@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Military AI’s Next Frontier: Your Work Computer](https://www.wired.com/story/military-ais-next-frontier-your-work-computer/)
- - [A look at TikTok&#39;s effect on small businesses in the US, as the app has become &quot;a billion-person focus group&quot;, disrupting business cycles and corporate R&amp;D &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230622/p14#a230622p14)
- - [Adobe XD put on life support ahead of Figma acquisition](https://www.theverge.com/2023/6/22/23769586/adobe-xd-discontinued-shutting-down-figma-design-app)<!-- TECH:END -->
+ - [a16z, Accel, Bain, Bessemer, Kleiner, and, sources say, Coatue and Tiger are increasingly buying startup shares on the secondary market, often at cheap prices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230622/p16#a230622p16)
+ - [Walmart and Amazon&#39;s Race to Rule Shopping](https://www.wired.com/story/gadget-lab-podcast-602/)
+ - [DuckDuckGo’s privacy-focused browser is available for Windows now](https://www.theverge.com/2023/6/22/23769084/duckduckgo-browser-windows-download)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
