@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
+ - 🚖 [I&#39;m not saying that&#39;s an alien but that&#39;s a f**king alien](http://9gag.com/gag/aQEOnZK)
  - 🚯 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
- - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
+ - 🚯 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)<!-- MEMES:END -->
 
 --- 
 
