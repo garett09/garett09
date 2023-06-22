@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Venezuela&#39;s temporary ban on crypto mining is killing the industry President Maduro promoted, with ~75K units of mining equipment disconnected since March &lpar;Bloomberg&rpar;](http://www.techmeme.com/230622/p6#a230622p6)
- - [Not a sports fan? YouTube TV tests new multiview stream combos just for you.](https://www.androidauthority.com/youtube-tv-multiview-streams-3338010/)
- - [Google Nest cameras and doorbells are down for many people &lpar;Update: Fixed&rpar;](https://www.androidauthority.com/google-nest-cameras-doorbells-outage-3337222/)<!-- TECH:END -->
+ - [ASML EVP Christophe Fouquet says the company believes decoupling the global chip supply chain isn&#39;t possible, as the US, EU, and others push for self-reliance &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/230622/p9#a230622p9)
+ - [iOS 16.5.1 fixes critical iMessage security flaw, you should update immediately!](https://www.androidauthority.com/ios-16-5-1-fixes-critical-imessage-security-flaw-3338033/)
+ - [Source: Twitter CEO Linda Yaccarino intervened to mend the company&#39;s relationship with Google Cloud over payments; sources say the bills were $20M+ per month &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230622/p8#a230622p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
