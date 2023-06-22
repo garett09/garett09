@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Elon Musk tweeted he is &quot;up for a cage fight&quot; with Mark Zuckerberg, both parties agree to a fight in principle without agreeing to specifics &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230621/p44#a230621p44)
- - [NYC-based Warp, a Rust-based terminal app for macOS with features like AI-powered auto-complete suggestions of commands, raised a $50M Series B led by Sequoia &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230621/p43#a230621p43)
- - [Meta rolls out the Quest v55 update, boosting the Quest 2 and Pro maximum clock speeds by up to 19% for the GPU and 26% for the CPU, as Quest 3 preps for launch &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230621/p42#a230621p42)<!-- TECH:END -->
+ - [Microsoft aims to build a quantum supercomputer within 10 years, after Microsoft researchers claim to create Majorana particles for scalable and stable qubits &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230621/p46#a230621p46)
+ - [Garmin Forerunner 255 vs 265: Which one should you buy?](https://www.androidauthority.com/garmin-forerunner-255-vs-265-3337578/)
+ - [Australia&#39;s online safety regulator gives Twitter 28 days to explain the steps it is taking to combat hate speech or face $475K in fines &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/230621/p45#a230621p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
