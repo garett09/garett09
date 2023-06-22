@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How The Sims 4 connects to Anton Chekhov and A24’s Past Lives](https://www.polygon.com/23767663/the-sims-4-past-lives-celine-song-the-seagull-interview)
- - [Every weekly quest in Fortnite Chapter 4 Season 3 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23759798/chapter-4-season-3-weekly-quests)
- - [The Callisto Protocol returns with Final Transmission DLC – first gameplay details revealed](https://blog.playstation.com/2023/06/22/the-callisto-protocol-returns-with-final-transmission-dlc-first-gameplay-details-revealed/)<!-- GAME:END -->
+ - [Metal Gear Solid 4 is finally being freed of its PlayStation 3 prison](https://www.pcgamer.com/metal-gear-solid-4-is-finally-being-freed-of-its-playstation-3-prison)
+ - [Xbox is hiking Game Pass prices but sparing PC Game Pass, at least for now](https://www.pcgamer.com/xbox-is-hiking-game-pass-prices-but-sparing-pc-game-pass-at-least-for-now)
+ - [Two Sides of a Dream: Building the Worlds of Harmony: The Fall of Reverie](https://news.xbox.com/en-us/2023/06/22/building-the-worlds-of-harmony-the-fall-of-reverie/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
