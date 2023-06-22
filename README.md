@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shein tries to shed its Chinese image, including by denying claims of sourcing cotton from Xinjiang, but remains silent on details of its suppliers in China &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/230622/p12#a230622p12)
- - [Docs Show FBI Pressures Cops to Keep Phone Surveillance Secrets](https://www.wired.com/story/fbi-cell-site-simulator-stingray-secrecy/)
- - [Boots Riley Says a ‘Gentler Capitalism’ Won’t Save Society](https://www.wired.com/story/boots-riley-im-a-virgo-interview/)<!-- TECH:END -->
+ - [Military AI’s Next Frontier: Your Work Computer](https://www.wired.com/story/military-ais-next-frontier-your-work-computer/)
+ - [A look at TikTok&#39;s effect on small businesses in the US, as the app has become &quot;a billion-person focus group&quot;, disrupting business cycles and corporate R&amp;D &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230622/p14#a230622p14)
+ - [Adobe XD put on life support ahead of Figma acquisition](https://www.theverge.com/2023/6/22/23769586/adobe-xd-discontinued-shutting-down-figma-design-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
