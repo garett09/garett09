@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
+ - 🚖 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
  - 🚯 [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)
- - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
+ - 🚯 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)<!-- MEMES:END -->
 
 --- 
 
