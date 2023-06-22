@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z, Accel, Bain, Bessemer, Kleiner, and, sources say, Coatue and Tiger are increasingly buying startup shares on the secondary market, often at cheap prices &lpar;Bloomberg&rpar;](http://www.techmeme.com/230622/p16#a230622p16)
- - [Walmart and Amazon&#39;s Race to Rule Shopping](https://www.wired.com/story/gadget-lab-podcast-602/)
- - [DuckDuckGo’s privacy-focused browser is available for Windows now](https://www.theverge.com/2023/6/22/23769084/duckduckgo-browser-windows-download)<!-- TECH:END -->
+ - [Don’t waste $129 on a second Pixel Tablet dock; you don’t need it](https://www.androidauthority.com/dont-buy-pixel-tablet-dock-3338127/)
+ - [Samsung Galaxy A34 5G review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-a34-5g-review-3328618/)
+ - [Can you use the Razr Plus fully closed? I tried for a day, here’s how it went](https://www.androidauthority.com/motorola-razr-plus-cover-screen-3336645/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
