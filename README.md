@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US and the EU both agree that Google&#39;s adtech dominance must end and call for a breakup; Margrethe Vestager hailed &quot;close and fruitful&quot; work with the DOJ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230622/p22#a230622p22)
- - [The FTC’s case against Microsoft could quickly turn into Xbox vs. PlayStation](https://www.theverge.com/2023/6/22/23769580/ftc-microsoft-activision-blizzard-xbox-playstation-call-of-duty-arguments)
- - [Five AI tools creators should know](https://www.theverge.com/23768563/ai-tools-video-gen-2-kaiber-deep-nostalgia-synthesia-unboring)<!-- TECH:END -->
+ - [PSA: your friends at Verge Deals are here to guide you through Amazon Prime Day](https://www.theverge.com/2023/6/22/23768680/verge-deals-newsletter-subscribe-amazon-prime-day-sales-discounts)
+ - [Video Game Remakes Are in a Golden Age. That Could Be a Bad Thing](https://www.wired.com/story/golden-age-of-video-game-remakes/)
+ - [Acryl Data, which offers a data catalog service built on DataHub open source framework, raised a $21M Series A led by 8VC, bringing its total funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230622/p24#a230622p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
