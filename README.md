@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Captions, an AI-powered video editing app, raised a $25M Series B led by Kleiner Perkins, bringing its total funding to $40M at a $250M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/230622/p33#a230622p33)
- - [The 13 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [The best phone deals of June 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
+ - [Titan submersible suffered ‘catastrophic implosion’](https://www.theverge.com/2023/6/22/23770260/titanic-tour-titan-submersible-catastrophic-implosion-oceangate)
+ - [Micron plans to invest up to $825M in its first DRAM and NAND assembly and test facility in India, with construction in Gujarat expected to begin in 2023 &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/230622/p34#a230622p34)
+ - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
