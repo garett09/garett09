@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My gorilla hands wouldn&#39;t even fit in that hole](http://9gag.com/gag/az2Yb6B)
- - 🚯 [We did it! We broke the internet!](http://9gag.com/gag/aVbVPKP)
- - 🚯 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)<!-- MEMES:END -->
+ - 🚖 [Would you choose to live indefinitely in a robot body? You get to keep just your head.](http://9gag.com/gag/arm2eG0)
+ - 🚯 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
+ - 🚯 [So common in some places people don&#39;t even bat an eye anymore](http://9gag.com/gag/aMEOQnX)<!-- MEMES:END -->
 
 --- 
 
