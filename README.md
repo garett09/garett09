@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So basically, it\u2019s a $250,000 coffin ride](http://9gag.com/gag/awZYbjD)
- - 🚯 [It gets better](http://9gag.com/gag/aNwOZYA)
- - 🚯 [Spot it. It&#39;s information.](http://9gag.com/gag/aBdO3YD)<!-- MEMES:END -->
+ - 🚖 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)
+ - 🚯 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
+ - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)<!-- MEMES:END -->
 
 --- 
 
