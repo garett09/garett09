@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So basically, it\u2019s a $250,000 coffin ride](http://9gag.com/gag/awZYbjD)
- - 🚯 [Thank you guys](http://9gag.com/gag/avQdg4Z)
- - 🚯 [Spot it. It&#39;s information.](http://9gag.com/gag/aBdO3YD)<!-- MEMES:END -->
+ - 🚖 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)
+ - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)
+ - 🚯 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)<!-- MEMES:END -->
 
 --- 
 
