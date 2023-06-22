@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t waste $129 on a second Pixel Tablet dock; you don’t need it](https://www.androidauthority.com/dont-buy-pixel-tablet-dock-3338127/)
- - [Samsung Galaxy A34 5G review: Should you buy it?](https://www.androidauthority.com/samsung-galaxy-a34-5g-review-3328618/)
- - [Can you use the Razr Plus fully closed? I tried for a day, here’s how it went](https://www.androidauthority.com/motorola-razr-plus-cover-screen-3336645/)<!-- TECH:END -->
+ - [The US and the EU both agree that Google&#39;s adtech dominance must end and call for a breakup; Margrethe Vestager hailed &quot;close and fruitful&quot; work with the DOJ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230622/p22#a230622p22)
+ - [The FTC’s case against Microsoft could quickly turn into Xbox vs. PlayStation](https://www.theverge.com/2023/6/22/23769580/ftc-microsoft-activision-blizzard-xbox-playstation-call-of-duty-arguments)
+ - [Five AI tools creators should know](https://www.theverge.com/23768563/ai-tools-video-gen-2-kaiber-deep-nostalgia-synthesia-unboring)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
