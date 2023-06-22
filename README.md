@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Code repository suggests Google is working on a separate &quot;Chromebook X&quot; brand for premium devices, a source says with first models expected by the end of 2023 &lpar;9to5Google&rpar;](http://www.techmeme.com/230621/p41#a230621p41)
- - [Apple patched actively exploited iMessage bug in latest updates](https://appleinsider.com/articles/23/06/22/apple-patched-actively-exploited-imessage-bug-in-latest-updates?utm_medium=rss)
- - [Broadband Data Caps and How They Affect You: FCC Wants Answers     - CNET](https://www.cnet.com/home/internet/broadband-data-caps-and-how-they-affect-you-fcc-wants-answers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After Elon Musk tweeted he is &quot;up for a cage fight&quot; with Mark Zuckerberg, both parties agree to a fight in principle without agreeing to specifics &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230621/p44#a230621p44)
+ - [NYC-based Warp, a Rust-based terminal app for macOS with features like AI-powered auto-complete suggestions of commands, raised a $50M Series B led by Sequoia &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/230621/p43#a230621p43)
+ - [Meta rolls out the Quest v55 update, boosting the Quest 2 and Pro maximum clock speeds by up to 19% for the GPU and 26% for the CPU, as Quest 3 preps for launch &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/230621/p42#a230621p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
