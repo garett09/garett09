@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Trieste from 1960 had Steel balls electro magnetically attached to the ship. Once the power would go off, it would drop the balls and immediatly surface. - old white guy](http://9gag.com/gag/a1PEeQR)
- - 🚯 [Where is immunity doggo?](http://9gag.com/gag/aL1d6qW)
- - 🚯 [Entitled criminals](http://9gag.com/gag/aREOVKQ)<!-- MEMES:END -->
+ - 🚖 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
+ - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)
+ - 🚯 [Requiem for a dream](http://9gag.com/gag/aDYOw6d)<!-- MEMES:END -->
 
 --- 
 
