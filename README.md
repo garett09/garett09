@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Bear is a show for anyone starving for some good fucking food](https://www.polygon.com/23768970/the-bear-season-2-review-fx-hulu)
- - [The Best Early Final Fantasy XVI Abilities To Unlock And Upgrade ASAP](https://kotaku.com/final-fantasy-16-xvi-abilities-tips-eikon-power-upgrade-1850561859)
- - [15 Critical Tips To Know Before Jumping Into Final Fantasy XVI](https://kotaku.com/final-fantasy-16-ps5-release-date-tips-xvi-embargo-1850562387)<!-- GAME:END -->
+ - [Everyone&#39;s Learning About Gabe Newell&#39;s Deep-Sea Submarine Now](https://kotaku.com/steam-gabe-newell-submarine-submersible-valve-science-1850563956)
+ - [Final Fantasy XVI: The Kotaku Review](https://kotaku.com/review-final-fantasy-16-ffxvi-ps5-rpg-release-date-1850558485)
+ - [Sony Won’t Share PS6 Info With Call Of Duty Devs If Owned By Microsoft](https://kotaku.com/call-of-duty-ps6-xbox-activision-microsoft-ps5-sale-1850564895)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
