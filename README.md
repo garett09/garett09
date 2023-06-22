@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML EVP Christophe Fouquet says the company believes decoupling the global chip supply chain isn&#39;t possible, as the US, EU, and others push for self-reliance &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/230622/p9#a230622p9)
- - [iOS 16.5.1 fixes critical iMessage security flaw, you should update immediately!](https://www.androidauthority.com/ios-16-5-1-fixes-critical-imessage-security-flaw-3338033/)
- - [Source: Twitter CEO Linda Yaccarino intervened to mend the company&#39;s relationship with Google Cloud over payments; sources say the bills were $20M+ per month &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230622/p8#a230622p8)<!-- TECH:END -->
+ - [Shein tries to shed its Chinese image, including by denying claims of sourcing cotton from Xinjiang, but remains silent on details of its suppliers in China &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/230622/p12#a230622p12)
+ - [Docs Show FBI Pressures Cops to Keep Phone Surveillance Secrets](https://www.wired.com/story/fbi-cell-site-simulator-stingray-secrecy/)
+ - [Boots Riley Says a ‘Gentler Capitalism’ Won’t Save Society](https://www.wired.com/story/boots-riley-im-a-virgo-interview/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
