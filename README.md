@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You could love her in every universe](http://9gag.com/gag/anzr1Xz)
- - 🚯 [No title needed](http://9gag.com/gag/a1PEXmG)
- - 🚯 [Hehe](http://9gag.com/gag/aGEODm6)<!-- MEMES:END -->
+ - 🚖 [Oldie but goldie](http://9gag.com/gag/anzr19b)
+ - 🚯 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
+ - 🚯 [Cthulhu?](http://9gag.com/gag/a04MdwQ)<!-- MEMES:END -->
 
 --- 
 
