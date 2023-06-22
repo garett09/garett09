@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)
+ - 🚖 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)
  - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)
- - 🚯 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)<!-- MEMES:END -->
+ - 🚯 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
 
 --- 
 
