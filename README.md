@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
+ - 🚖 [My gorilla hands wouldn&#39;t even fit in that hole](http://9gag.com/gag/az2Yb6B)
  - 🚯 [Nobody will save them. There are only like 5 other submarines in the world that can sink that deep, and just like this one, very low power ones. They cant tow them up. The Titan has multiple ways to emerge even without power, if it didnt do that, they are all dead/passed out.](http://9gag.com/gag/a3ZbdV1)
- - 🚯 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)<!-- MEMES:END -->
+ - 🚯 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)<!-- MEMES:END -->
 
 --- 
 
