@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)
- - 🚯 [Requiem for a dream](http://9gag.com/gag/aDYOw6d)<!-- MEMES:END -->
+ - 🚖 [My gorilla hands wouldn&#39;t even fit in that hole](http://9gag.com/gag/az2Yb6B)
+ - 🚯 [We did it! We broke the internet!](http://9gag.com/gag/aVbVPKP)
+ - 🚯 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)<!-- MEMES:END -->
 
 --- 
 
