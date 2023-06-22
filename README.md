@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘The Missing Farm Tools’ side adventure in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23770247/missing-farm-tools-side-adventure-wetland-stable)
- - [‘The Beckoning Woman’ side adventure in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23770349/beckoning-woman-side-adventure-outskirt-stable)
- - [Activision is killing the old Call of Duty: Warzone](https://www.polygon.com/23770407/call-of-duty-warzone-caldera-shutting-down-date)<!-- GAME:END -->
+ - [Filthy Diablo 4 infinite spawn glitch makes it rain loot for as long as you want](https://www.pcgamer.com/filthy-diablo-4-infinite-spawn-glitch-makes-it-rain-loot-for-as-long-as-you-want)
+ - [The first trailer for the big budget GameStop—Reddit stock scandal film reveals a surprisingly stellar cast](https://www.pcgamer.com/the-first-trailer-for-the-big-budget-gamestopreddit-stock-scandal-film-reveals-a-surprisingly-stellar-cast)
+ - [Fortnite: Chapter 4 Season 3 Week 3 Quests And NPC Locations](https://kotaku.com/fortnite-weekly-quest-mud-slide-pod-plants-reveal-1850567669)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
