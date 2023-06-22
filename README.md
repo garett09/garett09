@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone&#39;s Learning About Gabe Newell&#39;s Deep-Sea Submarine Now](https://kotaku.com/steam-gabe-newell-submarine-submersible-valve-science-1850563956)
- - [Final Fantasy XVI: The Kotaku Review](https://kotaku.com/review-final-fantasy-16-ffxvi-ps5-rpg-release-date-1850558485)
- - [Sony Won’t Share PS6 Info With Call Of Duty Devs If Owned By Microsoft](https://kotaku.com/call-of-duty-ps6-xbox-activision-microsoft-ps5-sale-1850564895)<!-- GAME:END -->
+ - [Starfield Director Todd Howard Explains What You’ll Find On Its 1,000 Planets](https://kotaku.com/starfield-rpg-planets-xbox-pc-gaming-todd-howard-1850565329)
+ - [Strange New Worlds solved Star Trek’s trial episode problem](https://www.polygon.com/23768513/star-trek-strange-new-worlds-episode-season-2-oona-pike)
+ - [League of Legends’ newest champion is an assassin made up of mean dogs](https://www.polygon.com/2023/6/22/23768472/league-of-legends-naafiri-champion-reveal-abilities)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
