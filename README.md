@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metal Gear Solid 4 is finally being freed of its PlayStation 3 prison](https://www.pcgamer.com/metal-gear-solid-4-is-finally-being-freed-of-its-playstation-3-prison)
- - [Xbox is hiking Game Pass prices but sparing PC Game Pass, at least for now](https://www.pcgamer.com/xbox-is-hiking-game-pass-prices-but-sparing-pc-game-pass-at-least-for-now)
- - [Two Sides of a Dream: Building the Worlds of Harmony: The Fall of Reverie](https://news.xbox.com/en-us/2023/06/22/building-the-worlds-of-harmony-the-fall-of-reverie/)<!-- GAME:END -->
+ - [Todd Howard confirms Starfield won&#39;t let you ride aliens or go fishing, so modders: you know what to do](https://www.pcgamer.com/todd-howard-confirms-starfield-wont-let-you-ride-aliens-or-go-fishing-so-modders-you-know-what-to-do)
+ - [Bethesda’s Indiana Jones game is an Xbox console exclusive](https://www.polygon.com/23770172/bethesda-indiana-jones-game-xbox-exclusive-ftc-hearing)
+ - [The 5 best sci-fi movies to watch on Netflix, Prime, and Max this June](https://www.polygon.com/what-to-watch/2023/6/22/23767037/best-sci-fi-movies-netflix-hulu-max-june-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
