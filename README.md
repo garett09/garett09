@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Todd Howard confirms Starfield won&#39;t let you ride aliens or go fishing, so modders: you know what to do](https://www.pcgamer.com/todd-howard-confirms-starfield-wont-let-you-ride-aliens-or-go-fishing-so-modders-you-know-what-to-do)
- - [Bethesda’s Indiana Jones game is an Xbox console exclusive](https://www.polygon.com/23770172/bethesda-indiana-jones-game-xbox-exclusive-ftc-hearing)
- - [The 5 best sci-fi movies to watch on Netflix, Prime, and Max this June](https://www.polygon.com/what-to-watch/2023/6/22/23767037/best-sci-fi-movies-netflix-hulu-max-june-2023)<!-- GAME:END -->
+ - [How to increase inventory space in Final Fantasy 16](https://www.polygon.com/final-fantasy-16-guides/23769998/increase-inventory-space-size-potion-capacity)
+ - [A strangely smooth-faced Zach Galifianakis raves about Beanie Babies in The Beanie Bubble](https://www.polygon.com/23770307/beanie-bubble-trailer-release-date)
+ - [Final Fantasy 16&#39;s PC version is next on Yoshi-P&#39;s to-do list](https://www.pcgamer.com/final-fantasy-16s-pc-version-is-next-on-yoshi-ps-to-do-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
