@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
- - 🚯 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)
- - 🚯 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)<!-- MEMES:END -->
+ - 🚖 [At a private event in Cupertino, California, Tim Cook presented samples of new Apple products](http://9gag.com/gag/aQEOP8d)
+ - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)
+ - 🚯 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)<!-- MEMES:END -->
 
 --- 
 
