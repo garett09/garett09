@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam&#39;s Subreddit Is Running An Excellent Protest](https://kotaku.com/steam-reddit-subreddit-valve-protest-api-apollo-huffman-1850563517)
  - [Cities: Skylines 2&#39;s cool new road tools are already making me think my city won&#39;t be a traffic-filled hellscape](https://www.pcgamer.com/cities-skylines-2s-cool-new-road-tools-are-already-making-me-think-my-city-wont-be-a-traffic-filled-hellscape)
- - [New Marvel TV Show&#39;s Credits Were &#39;Made&#39; By &#39;AI&#39;, Look Terrible](https://kotaku.com/marvel-secret-invasion-credits-ai-machine-learning-tv-1850563329)
- - [Creating a Rhythm Game for a Dreaming Teen Rockstar – Loud: My Road to Fame](https://news.xbox.com/en-us/2023/06/21/creating-a-rhythm-game-loud-my-road-to-fame/)<!-- GAME:END -->
+ - [New Marvel TV Show&#39;s Credits Were &#39;Made&#39; By &#39;AI&#39;, Look Terrible](https://kotaku.com/marvel-secret-invasion-credits-ai-machine-learning-tv-1850563329)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
