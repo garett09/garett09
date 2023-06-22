@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford receives $9.2 billion government loan for EV battery factory projects](https://www.theverge.com/2023/6/22/23769966/ford-doe-loan-ev-battery-factory-sk-avtm)
- - [Argonne and Intel say they installed the Aurora supercomputer, announced in 2015, which will come online later in 2023 with 2 ExaFLOPS of processing power &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/230622/p31#a230622p31)
- - [Heatwaves are stressing out power grids all over the world](https://www.theverge.com/2023/6/22/23769833/heatwaves-electricity-grids-power-outages-across-world)<!-- TECH:END -->
+ - [New York-based Captions, an AI-powered video editing app, raised a $25M Series B led by Kleiner Perkins, bringing its total funding to $40M at a $250M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/230622/p33#a230622p33)
+ - [The 13 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [The best phone deals of June 2023](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
