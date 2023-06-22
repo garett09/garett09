@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s what i said](http://9gag.com/gag/aPg16wR)
- - 🚯 [And everybody wins.](http://9gag.com/gag/aQEO6z7)
- - 🚯 [You can&#39;t be flat chested in a catsuit](http://9gag.com/gag/ajVK228)<!-- MEMES:END -->
+ - 🚖 [The Trieste from 1960 had Steel balls electro magnetically attached to the ship. Once the power would go off, it would drop the balls and immediatly surface. - old white guy](http://9gag.com/gag/a1PEeQR)
+ - 🚯 [Where is immunity doggo?](http://9gag.com/gag/aL1d6qW)
+ - 🚯 [Entitled criminals](http://9gag.com/gag/aREOVKQ)<!-- MEMES:END -->
 
 --- 
 
