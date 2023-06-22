@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPT-5: Release date, rumors, and features we expect from ChatGPT 5](https://www.androidauthority.com/gpt-5-chatgpt-release-date-rumors-features-3337892/)
- - [iPad apps need more than a checkbox to run on Apple Vision Pro](https://appleinsider.com/articles/23/06/21/ipad-apps-need-more-than-a-checkbox-to-run-on-apple-vision-pro?utm_medium=rss)
- - [A first-of-its-kind climate trial just ended — will it work?](https://www.theverge.com/2023/6/21/23768437/landmark-climate-lawsuit-held-v-montana-trial-whats-next)<!-- TECH:END -->
+ - [Code repository suggests Google is working on a separate &quot;Chromebook X&quot; brand for premium devices, a source says with first models expected by the end of 2023 &lpar;9to5Google&rpar;](http://www.techmeme.com/230621/p41#a230621p41)
+ - [Apple patched actively exploited iMessage bug in latest updates](https://appleinsider.com/articles/23/06/22/apple-patched-actively-exploited-imessage-bug-in-latest-updates?utm_medium=rss)
+ - [Broadband Data Caps and How They Affect You: FCC Wants Answers     - CNET](https://www.cnet.com/home/internet/broadband-data-caps-and-how-they-affect-you-fcc-wants-answers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
