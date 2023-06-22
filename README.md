@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Chat Log Episode 17: The post-not E3 debrief](https://www.pcgamer.com/pc-gamer-chat-log-episode-17-the-post-not-e3-debrief)
- - [Untangle a Web of Lies in Sea of Thieves’ Twelfth Adventure, ‘A Dark Deception’, Live Until July 6!](https://news.xbox.com/en-us/2023/06/22/sea-of-thieves-adventure-12-dark-deception/)
- - [Deep Rock Galactic spinoff adds mining to Vampire Survivors, and it works](https://www.polygon.com/23762638/deep-rock-galactic-survivor-playtest-impressions)<!-- GAME:END -->
+ - [How The Sims 4 connects to Anton Chekhov and A24’s Past Lives](https://www.polygon.com/23767663/the-sims-4-past-lives-celine-song-the-seagull-interview)
+ - [Every weekly quest in Fortnite Chapter 4 Season 3 &lpar;so far&rpar;](https://www.polygon.com/fortnite-guide/23759798/chapter-4-season-3-weekly-quests)
+ - [The Callisto Protocol returns with Final Transmission DLC – first gameplay details revealed](https://blog.playstation.com/2023/06/22/the-callisto-protocol-returns-with-final-transmission-dlc-first-gameplay-details-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
