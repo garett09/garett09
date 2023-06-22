@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood acquires X1, a startup offering an income-based credit card with rewards, for $95M in cash; X1 raised $62M in total, including $15M in December 2022 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/230622/p27#a230622p27)
- - [ASUS Zenfone 10 renders leak, confirm 3.5mm port returns](https://www.androidauthority.com/asus-zenfone-10-confirms-port-3338222/)
- - [An infamous Final Fantasy XIV monster returns in Final Fantasy XVI](https://www.theverge.com/2023/6/22/23769740/final-fantasy-xvi-hunt-board-dread-comet)<!-- TECH:END -->
+ - [When Is Amazon Prime Day 2023? Tips to Shop Like a Pro](https://www.wired.com/story/amazon-prime-day-2023-tips-to-find-best-deals/)
+ - [Final Fantasy XVI is so fucking edgy](https://www.theverge.com/2023/6/22/23767522/final-fantasy-16-edgy-game-of-thrones)
+ - [The Titan: here’s what’s going on with the missing Titanic wreckage tourist sub](https://www.theverge.com/2023/6/22/23768340/titan-submersible-lost-titanic-hamish)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
