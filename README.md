@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield Director Todd Howard Explains What You’ll Find On Its 1,000 Planets](https://kotaku.com/starfield-rpg-planets-xbox-pc-gaming-todd-howard-1850565329)
- - [Strange New Worlds solved Star Trek’s trial episode problem](https://www.polygon.com/23768513/star-trek-strange-new-worlds-episode-season-2-oona-pike)
- - [League of Legends’ newest champion is an assassin made up of mean dogs](https://www.polygon.com/2023/6/22/23768472/league-of-legends-naafiri-champion-reveal-abilities)<!-- GAME:END -->
+ - [PC Gamer Chat Log Episode 17: The post-not E3 debrief](https://www.pcgamer.com/pc-gamer-chat-log-episode-17-the-post-not-e3-debrief)
+ - [Untangle a Web of Lies in Sea of Thieves’ Twelfth Adventure, ‘A Dark Deception’, Live Until July 6!](https://news.xbox.com/en-us/2023/06/22/sea-of-thieves-adventure-12-dark-deception/)
+ - [Deep Rock Galactic spinoff adds mining to Vampire Survivors, and it works](https://www.polygon.com/23762638/deep-rock-galactic-survivor-playtest-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
