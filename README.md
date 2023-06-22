@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My gorilla hands wouldn&#39;t even fit in that hole](http://9gag.com/gag/az2Yb6B)
- - 🚯 [Nobody will save them. There are only like 5 other submarines in the world that can sink that deep, and just like this one, very low power ones. They cant tow them up. The Titan has multiple ways to emerge even without power, if it didnt do that, they are all dead/passed out.](http://9gag.com/gag/a3ZbdV1)
- - 🚯 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)<!-- MEMES:END -->
+ - 🚖 [Oldie but goldie](http://9gag.com/gag/anzr19b)
+ - 🚯 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
+ - 🚯 [Illegal immigrants have set up an Occupy-style camp at the Palais Royal in Paris to demand free housing, assisted by NGOs.](http://9gag.com/gag/aYVAbrN)<!-- MEMES:END -->
 
 --- 
 
