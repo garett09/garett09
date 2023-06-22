@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to increase inventory space in Final Fantasy 16](https://www.polygon.com/final-fantasy-16-guides/23769998/increase-inventory-space-size-potion-capacity)
- - [A strangely smooth-faced Zach Galifianakis raves about Beanie Babies in The Beanie Bubble](https://www.polygon.com/23770307/beanie-bubble-trailer-release-date)
- - [Final Fantasy 16&#39;s PC version is next on Yoshi-P&#39;s to-do list](https://www.pcgamer.com/final-fantasy-16s-pc-version-is-next-on-yoshi-ps-to-do-list)<!-- GAME:END -->
+ - [‘The Missing Farm Tools’ side adventure in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23770247/missing-farm-tools-side-adventure-wetland-stable)
+ - [‘The Beckoning Woman’ side adventure in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23770349/beckoning-woman-side-adventure-outskirt-stable)
+ - [Activision is killing the old Call of Duty: Warzone](https://www.polygon.com/23770407/call-of-duty-warzone-caldera-shutting-down-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
