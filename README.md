@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [So basically, it\u2019s a $250,000 coffin ride](http://9gag.com/gag/awZYbjD)
- - 🚯 [Press X to call for help.](http://9gag.com/gag/az2YEMb)
- - 🚯 [Where is immunity doggo?](http://9gag.com/gag/aL1d6qW)<!-- MEMES:END -->
+ - 🚯 [It gets better](http://9gag.com/gag/aNwOZYA)
+ - 🚯 [Spot it. It&#39;s information.](http://9gag.com/gag/aBdO3YD)<!-- MEMES:END -->
 
 --- 
 
