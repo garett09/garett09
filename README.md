@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satisfyer Pro 2 Gen 3 Review: Starter Pleasure](https://www.wired.com/review/satisfyer-pro-2-gen-3/)
- - [Internal records undercut claims that Twitter censored pro-Trump content before the Capitol riot and show a reluctance to suspend Trump&#39;s account until Jan. 8 &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230623/p7#a230623p7)
- - [Galaxy S24 codenames suggest Samsung hasn’t killed Plus model](https://www.androidauthority.com/samsung-galaxy-s24-series-codename-3338566/)<!-- TECH:END -->
+ - [Sources: Reddit&#39;s revenue rose 38% YoY to ~$670M in 2022, a steep drop from 2021 growth, adding uncertainty to its IPO plans and suggesting a ~$3.3B valuation &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230623/p9#a230623p9)
+ - [The Titan’s implosion: the latest news on the Titanic wreckage tourist sub](https://www.theverge.com/2023/6/22/23768340/titan-submersible-lost-titanic-hamish)
+ - [Marvel’s &#39;Secret Invasion&#39; AI Scandal Is Strangely Hopeful](https://www.wired.com/story/marvel-secret-invasion-artificial-intelligence/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
