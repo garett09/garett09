@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Garmin’s fatal flaw is it refuses to acknowledge my naps](https://www.theverge.com/2023/6/23/23771153/garmin-sleep-tracking-naps-smartwatch-wearables)
- - [How to control ChatGPT with your voice](https://www.androidauthority.com/how-to-control-chatgpt-with-voice-3338682/)
- - [$1,000 discount drops M1 Max 16-inch MacBook Pro &lpar;32GB RAM, 2TB SSD&rpar; to $2,699](https://appleinsider.com/articles/23/06/23/1000-discount-drops-m1-max-16-inch-macbook-pro-32gb-ram-2tb-ssd-to-2699?utm_medium=rss)<!-- TECH:END -->
+ - [Apple replacing shuttered North Carolina store with new location](https://appleinsider.com/articles/23/06/23/apple-replacing-shuttered-north-carolina-store-with-new-location?utm_medium=rss)
+ - [Source: Jacob Devlin, who quit Google to join OpenAI in January 2023 after complaining Bard was being trained on ChatGPT data, has returned to Google &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230623/p19#a230623p19)
+ - [The 47 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
