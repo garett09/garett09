@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very well thank you](http://9gag.com/gag/a04MbGQ)
- - 🚯 [James Cameron explains what happened with Titan &lpar;3:38&rpar;](http://9gag.com/gag/ap9YQon)
- - 🚯 [Too soon?](http://9gag.com/gag/aEqOBWG)<!-- MEMES:END -->
+ - 🚖 [James Cameron explains what happened with Titan &lpar;3:38&rpar;](http://9gag.com/gag/ap9YQon)
+ - 🚯 [Too soon?](http://9gag.com/gag/aEqOBWG)
+ - 🚯 [She just wants some ice cream.. But is it even allowed in an arcade store?](http://9gag.com/gag/agoEXen)<!-- MEMES:END -->
 
 --- 
 
