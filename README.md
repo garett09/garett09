@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Time Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727304/time-armor-set-locations-head-chest-legs-get-ocarina)
- - [Everything Sega Announced For Sonic The Hedgehog’s 32nd Anniversary](https://kotaku.com/sonic-the-hedgehog-anniversary-stream-superstars-1850571369)
- - [Ice Spice and Nicki Minaj remade Aqua’s iconic Barbie anthem for the new movie](https://www.polygon.com/23771607/barbie-girl-world-ice-spice-nicki-minaj)<!-- GAME:END -->
+ - [This Week on Xbox: Aliens: Dark Descent, Sonic’s Birthday, and More](https://news.xbox.com/en-us/2023/06/23/this-week-on-xbox-aliens-dark-descent-sonics-birthday-and-more/)
+ - [It doesn&#39;t look good for Starfield on Steam Deck, but Todd Howard isn&#39;t writing it off: &#39;We&#39;ll talk about that down the road&#39;](https://www.pcgamer.com/it-doesnt-look-good-for-starfield-on-steam-deck-but-todd-howard-isnt-writing-it-off-well-talk-about-that-down-the-road)
+ - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
