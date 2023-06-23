@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Echo Show now lets you watch local weather reports in 15 cities](https://www.androidauthority.com/amazon-echo-show-weather-videos-3338678/)
- - [Across the Spider-Verse’s animators allegedly worked under harsh, unsustainable conditions](https://www.theverge.com/2023/6/23/23771199/across-the-spider-verse-working-conditions-phil-lord)
- - [EvaluAgent, which is developing quality assurance testing software for call centers, raised a $20M Series A led by PeakSpan, bringing its total funding to $21M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230623/p14#a230623p14)<!-- TECH:END -->
+ - [Andreessen Horowitz created a16z Perennial Venture Capital Fund and a16z Perennial Management investment advisor, presumably expanding into wealth management &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230623/p16#a230623p16)
+ - [Satellite internet is on the way after Arctic fiber cut unplugs part of Alaska](https://www.theverge.com/2023/6/23/23771194/alaska-internet-quintillion-fiber-cable-satellites-oneweb)
+ - [The Microsoft Surface Pro 9 drops to within $7 of its all-time low](https://www.androidauthority.com/microsoft-surface-pro-9-deal-3338702/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
