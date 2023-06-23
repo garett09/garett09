@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the Illicit Market for Abortion Pills on Telegram](https://www.wired.com/story/telegram-abortion-pill-market/)
- - [Deepfake Porn Reveals a ‘Pervert’s Dilemma&#39;](https://www.wired.com/story/deepfakes-porn-philosophy-sexual-fantasy/)
- - [A look at Apple Vision Pro features based on the visionOS SDK, including a &quot;Moving at Unsafe Speed&quot; alert, a &quot;Travel Mode&quot; for airplanes, and a &quot;Guest Mode&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230623/p4#a230623p4)<!-- TECH:END -->
+ - [Third-party apps will be able to edit Cinematic Mode videos in iOS 17](https://appleinsider.com/articles/23/06/23/third-party-apps-will-be-able-to-edit-cinematic-mode-videos-in-ios-17?utm_medium=rss)
+ - [Apple Mac Studio &lpar;M2 Ultra, 2023&rpar; Review: The Mac Pro Killer](https://www.wired.com/review/apple-mac-studio-2023/)
+ - [How to add widgets to macOS Sonoma and how to use them](https://appleinsider.com/articles/23/06/23/how-to-add-widgets-to-macos-sonoma-and-how-to-use-them?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
