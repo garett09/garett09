@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players salivate as Todd Howard confirms Starfield will be a &#39;modder&#39;s paradise&#39; that Bethesda will &#39;participate&#39; in](https://www.pcgamer.com/players-salivate-as-todd-howard-confirms-starfield-will-be-a-modders-paradise-that-bethesda-will-participate-in)
- - [June Updates for the Xbox App on PC](https://news.xbox.com/en-us/2023/06/23/xbox-app-pc-june-updates/)
- - [Acer Predator Helios 16](https://www.pcgamer.com/acer-predator-helios-16-review-benchmarks)<!-- GAME:END -->
+ - [Genshin Impact codes from the version 3.8 livestream](https://www.pcgamer.com/genshin-impact-codes-3-8-livestream)
+ - [Tears of the Kingdom Is Another Zelda That&#39;s Low Key A Horror Game](https://kotaku.com/tears-of-the-kingdom-totk-horror-depths-gloom-switch-1850562373)
+ - [Forget Diablo 4, the best way to play the original Diablo just got a meaty update](https://www.pcgamer.com/forget-diablo-4-the-best-way-to-play-the-original-diablo-just-got-a-meaty-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
