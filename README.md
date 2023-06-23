@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 🚯 [Oldie but goldie](http://9gag.com/gag/anzr19b)
- - 🚯 [Western European moment...](http://9gag.com/gag/az2YLON)<!-- MEMES:END -->
+ - 🚖 [Just wondering](http://9gag.com/gag/ap9Y0YM)
+ - 🚯 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
+ - 🚯 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)<!-- MEMES:END -->
 
 --- 
 
