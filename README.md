@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A reason why the prices are so high at Walgreens. And why you need the police?](http://9gag.com/gag/adPojZQ)
- - 🚯 [Have you tried a salad?](http://9gag.com/gag/aNwOK5w)
- - 🚯 [Coughing Baby vs Hydrogen Bomb energy](http://9gag.com/gag/awZY7yQ)<!-- MEMES:END -->
+ - 🚖 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
+ - 🚯 [Olivia Casta](http://9gag.com/gag/a1PEMXP)
+ - 🚯 [Braunschweig Germany today tetten in the comments](http://9gag.com/gag/aQEOej2)<!-- MEMES:END -->
 
 --- 
 
