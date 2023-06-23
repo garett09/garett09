@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have you tried a salad?](http://9gag.com/gag/aNwOK5w)
- - 🚯 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
- - 🚯 [Ladyboy](http://9gag.com/gag/adPojBM)<!-- MEMES:END -->
+ - 🚖 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
+ - 🚯 [Spiderman threeway home](http://9gag.com/gag/aBdOWN1)
+ - 🚯 [Have you tried a salad?](http://9gag.com/gag/aNwOK5w)<!-- MEMES:END -->
 
 --- 
 
