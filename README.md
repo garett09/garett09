@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa can now play local weather news videos on Echo Shows — no cable subscription required](https://www.theverge.com/2023/6/23/23771169/amazon-echo-show-smart-display-local-news-weather-forecast-video)
- - [Nancy Pelosi exercises options for $1 million of Apple stock one day before expiration](https://appleinsider.com/articles/23/06/23/nancy-pelosi-exercises-options-for-1-million-of-apple-stock-one-day-before-expiration?utm_medium=rss)
- - [Apple replacing shuttered North Carolina store with new location](https://appleinsider.com/articles/23/06/23/apple-replacing-shuttered-north-carolina-store-with-new-location?utm_medium=rss)<!-- TECH:END -->
+ - [Google adds a Perspectives tab to search results, with information that people have posted on YouTube, Reddit, and more, after announcing the feature in May &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230623/p23#a230623p23)
+ - [Midjourney adds a &quot;zoom out&quot; feature that builds out a larger scene around images generated within Midjourney, simulating zooming out with a camera lens &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230623/p22#a230623p22)
+ - [At the FTC v. Microsoft hearing, Phil Spencer says Microsoft bought ZeniMax for $7.5B to stop Starfield and other Bethesda games becoming PlayStation exclusives &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230623/p21#a230623p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
