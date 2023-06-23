@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What does mastering abilities do in Final Fantasy 16?](https://www.polygon.com/final-fantasy-16-guides/23771434/mastering-abilities-eikon-upgrades)
- - [Where to watch the Indiana Jones movies in order](https://www.polygon.com/23768317/indiana-jones-movie-order-watch-streaming-disney-plus)
- - [Sims 4 players are experiencing a bug that removes men](https://www.polygon.com/23771548/sims-4-men-missing-invisible-glitch)<!-- GAME:END -->
+ - [How to get the Time Armor set in Zelda: Tears of the Kingdom](https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23727304/time-armor-set-locations-head-chest-legs-get-ocarina)
+ - [Everything Sega Announced For Sonic The Hedgehog’s 32nd Anniversary](https://kotaku.com/sonic-the-hedgehog-anniversary-stream-superstars-1850571369)
+ - [Ice Spice and Nicki Minaj remade Aqua’s iconic Barbie anthem for the new movie](https://www.polygon.com/23771607/barbie-girl-world-ice-spice-nicki-minaj)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
