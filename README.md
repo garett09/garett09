@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 🚯 [Just wondering](http://9gag.com/gag/ap9Y0YM)
- - 🚯 [Why she so sad?](http://9gag.com/gag/a5Xqdgq)<!-- MEMES:END -->
+ - 🚖 [Have you tried a salad?](http://9gag.com/gag/aNwOK5w)
+ - 🚯 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
+ - 🚯 [Ladyboy](http://9gag.com/gag/adPojBM)<!-- MEMES:END -->
 
 --- 
 
