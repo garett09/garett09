@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is in talks to launch Apple Card in India, meeting with HDFC and the RBI; a source says Apple is holding discussions with the NPCI over Apple Pay &lpar;Anand J/Moneycontrol&rpar;](http://www.techmeme.com/230623/p3#a230623p3)
- - [NFC technology is getting better range and charging capabilities](https://www.theverge.com/2023/6/23/23770472/nfc-forum-near-field-communications-roadmap-2028)
- - [Poll: Do you think your phone is listening to you for ad purposes?](https://www.androidauthority.com/phone-listening-to-you-ads-poll-3338484/)<!-- TECH:END -->
+ - [Inside the Illicit Market for Abortion Pills on Telegram](https://www.wired.com/story/telegram-abortion-pill-market/)
+ - [Deepfake Porn Reveals a ‘Pervert’s Dilemma&#39;](https://www.wired.com/story/deepfakes-porn-philosophy-sexual-fantasy/)
+ - [A look at Apple Vision Pro features based on the visionOS SDK, including a &quot;Moving at Unsafe Speed&quot; alert, a &quot;Travel Mode&quot; for airplanes, and a &quot;Guest Mode&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/230623/p4#a230623p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
