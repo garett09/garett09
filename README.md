@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Reddit&#39;s revenue rose 38% YoY to ~$670M in 2022, a steep drop from 2021 growth, adding uncertainty to its IPO plans and suggesting a ~$3.3B valuation &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/230623/p9#a230623p9)
- - [The Titan’s implosion: the latest news on the Titanic wreckage tourist sub](https://www.theverge.com/2023/6/22/23768340/titan-submersible-lost-titanic-hamish)
- - [Marvel’s &#39;Secret Invasion&#39; AI Scandal Is Strangely Hopeful](https://www.wired.com/story/marvel-secret-invasion-artificial-intelligence/)<!-- TECH:END -->
+ - [How to find the best deals during Amazon Prime Day](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
+ - [A mistakenly released FDIC document shows SVB&#39;s big customers before its collapse, including Sequoia with $1B in deposits and Beijing-based Kanzhun with $900M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230623/p11#a230623p11)
+ - [Apple Vision Pro will let you toss timers all over your kitchen while cooking](https://appleinsider.com/articles/23/06/23/apple-vision-pro-will-let-you-toss-timers-all-over-your-kitchen-while-cooking?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
