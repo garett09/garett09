@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most important piece found](http://9gag.com/gag/agoEXG6)
+ - 🚖 [A reason why the prices are so high at Walgreens. And why you need the police?](http://9gag.com/gag/adPojZQ)
  - 🚯 [Have you tried a salad?](http://9gag.com/gag/aNwOK5w)
- - 🚯 [Olivia Casta](http://9gag.com/gag/a1PEMXP)<!-- MEMES:END -->
+ - 🚯 [Coughing Baby vs Hydrogen Bomb energy](http://9gag.com/gag/awZY7yQ)<!-- MEMES:END -->
 
 --- 
 
