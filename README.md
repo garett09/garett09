@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic’s Lord of the Rings booster boxes top $500 as collectors hunt for the Ring of Power](https://www.polygon.com/23771472/mtg-lotr-collector-booster-box-prices)
- - [Why you should consider a CRT for your PC gaming setup this year](https://www.pcgamer.com/why-you-should-consider-a-crt-for-your-pc-gaming-setup-this-year)
- - [The best gift ideas for the Street Fighter fan in your life](https://www.polygon.com/what-to-buy/23751465/street-fighter-best-gifts-guide-games-music-books-comics)<!-- GAME:END -->
+ - [What does mastering abilities do in Final Fantasy 16?](https://www.polygon.com/final-fantasy-16-guides/23771434/mastering-abilities-eikon-upgrades)
+ - [Where to watch the Indiana Jones movies in order](https://www.polygon.com/23768317/indiana-jones-movie-order-watch-streaming-disney-plus)
+ - [Sims 4 players are experiencing a bug that removes men](https://www.polygon.com/23771548/sims-4-men-missing-invisible-glitch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
