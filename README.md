@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s 2023 summer movie festival: Ghibli’s Whisper of the Heart](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
- - [Looking for a PS5 or PC SSD? They’ve never been more affordable than they are now](https://www.polygon.com/deals/2023/6/23/23771177/ps5-pc-ssd-price-drops-samsung-corsair-wd-black)
- - [Next Week on Xbox: New Games for June 26 to 30](https://news.xbox.com/en-us/2023/06/23/next-week-on-xbox-new-games-for-june-26-to-30/)<!-- GAME:END -->
+ - [Clone High season 2 turned into exactly the show it used to parody](https://www.polygon.com/23769875/clone-high-season-2-review)
+ - [Controversial World of Warcraft quest removed from test realms](https://www.polygon.com/23770396/world-of-warcraft-dragonflight-fractures-in-time-ptr-alexstrasza-quest)
+ - [Intel China makes 14th Gen Raptor Lake Refresh CPU official](https://www.pcgamer.com/intel-china-makes-14th-gen-raptor-lake-refresh-cpu-official)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
