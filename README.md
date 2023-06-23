@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What to remember from The Witcher season 2 before diving into season 3](https://www.polygon.com/23768508/witcher-season-3-2-ending-what-happened)
- - [Final Fantasy XVI&#39;s RPG Elements Are Barely There](https://kotaku.com/final-fantasy-16-xvi-rpg-combat-action-square-enix-ps5-1850567705)
- - [Amazon is giving away games and DLC ahead of Prime Day](https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go)<!-- GAME:END -->
+ - [Polygon’s 2023 summer movie festival: Ghibli’s Whisper of the Heart](https://www.polygon.com/what-to-watch/23742309/best-movies-watch-summer-2023-streaming)
+ - [Looking for a PS5 or PC SSD? They’ve never been more affordable than they are now](https://www.polygon.com/deals/2023/6/23/23771177/ps5-pc-ssd-price-drops-samsung-corsair-wd-black)
+ - [Next Week on Xbox: New Games for June 26 to 30](https://news.xbox.com/en-us/2023/06/23/next-week-on-xbox-new-games-for-june-26-to-30/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
