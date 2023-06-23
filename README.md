@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best friends... Oh wait!](http://9gag.com/gag/agoEvjg)
- - 🚯 [No title needed](http://9gag.com/gag/a1PEXmG)
- - 🚯 [So this is, what happened](http://9gag.com/gag/a4oWZWy)<!-- MEMES:END -->
+ - 🚖 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
+ - 🚯 [Oldie but goldie](http://9gag.com/gag/anzr19b)
+ - 🚯 [Western European moment...](http://9gag.com/gag/az2YLON)<!-- MEMES:END -->
 
 --- 
 
