@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 9 years of waiting, horse fans are underwhelmed by the Sims 4 Horse Ranch expansion reveal](https://www.pcgamer.com/after-9-years-of-waiting-horse-fans-are-underwhelmed-by-the-sims-4-horse-ranch-expansion-reveal)
- - [For Deus Ex&#39;s 23rd Anniversary, its most chaotic mod is literally flipping the script with a new mirror mode](https://www.pcgamer.com/for-deus-exs-23rd-anniversary-its-most-chaotic-mod-is-literally-flipping-the-script-with-a-new-mirror-mode)
- - [Filthy Diablo 4 infinite spawn glitch makes it rain loot for as long as you want](https://www.pcgamer.com/filthy-diablo-4-infinite-spawn-glitch-makes-it-rain-loot-for-as-long-as-you-want)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Dreamhack Melbourne 2023](https://kotaku.com/cosplay-gallery-melbourne-dreamhack-2023-genshin-1850568395)
+ - [Magic: The Gathering&#39;s Lord of the Rings set gives the card game a mythic resonance other crossovers lacked](https://www.pcgamer.com/magic-the-gatherings-lord-of-the-rings-set-gives-the-card-game-a-mythic-resonance-other-crossovers-lacked)
+ - [Yes, Secret Invasion’s opening credits scene is AI-made — here’s why](https://www.polygon.com/23767640/ai-mcu-secret-invasion-opening-credits)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
