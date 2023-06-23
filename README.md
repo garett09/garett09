@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Bros. Wonder Is Full Of Amazing Little Details](https://kotaku.com/super-mario-bros-wonder-nintendo-switch-2d-graphics-1850571917)
- - [Controversial World Of Warcraft Quest Removed After Fan Backlash](https://kotaku.com/world-of-warcraft-ptr-alexstrasza-quest-a-missing-soul-1850571919)
- - [This Week on Xbox: Aliens: Dark Descent, Sonic’s Birthday, and More](https://news.xbox.com/en-us/2023/06/23/this-week-on-xbox-aliens-dark-descent-sonics-birthday-and-more/)<!-- GAME:END -->
+ - [BattleBit Remastered is dominating Steam because there&#39;s no catch: it&#39;s just a lot of game for $15](https://www.pcgamer.com/battlebit-remastered-is-dominating-steam-because-theres-no-catch-its-just-a-lot-of-game-for-dollar15)
+ - [Final Fantasy XVI Has A Neat Neon Genesis Evangelion Anime Nod](https://kotaku.com/final-fantasy-16-neon-genesis-evangelion-ps5-anime-1850572342)
+ - [The Ladies Of The Witcher Are Storming Fortnite](https://kotaku.com/fortnite-witcher-ciri-yennefer-item-shop-vbucks-1850572369)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
