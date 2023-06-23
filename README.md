@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Aliens: Dark Descent, Sonic’s Birthday, and More](https://news.xbox.com/en-us/2023/06/23/this-week-on-xbox-aliens-dark-descent-sonics-birthday-and-more/)
- - [It doesn&#39;t look good for Starfield on Steam Deck, but Todd Howard isn&#39;t writing it off: &#39;We&#39;ll talk about that down the road&#39;](https://www.pcgamer.com/it-doesnt-look-good-for-starfield-on-steam-deck-but-todd-howard-isnt-writing-it-off-well-talk-about-that-down-the-road)
- - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704)<!-- GAME:END -->
+ - [Super Mario Bros. Wonder Is Full Of Amazing Little Details](https://kotaku.com/super-mario-bros-wonder-nintendo-switch-2d-graphics-1850571917)
+ - [Controversial World Of Warcraft Quest Removed After Fan Backlash](https://kotaku.com/world-of-warcraft-ptr-alexstrasza-quest-a-missing-soul-1850571919)
+ - [This Week on Xbox: Aliens: Dark Descent, Sonic’s Birthday, and More](https://news.xbox.com/en-us/2023/06/23/this-week-on-xbox-aliens-dark-descent-sonics-birthday-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
