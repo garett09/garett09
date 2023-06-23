@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Organic Mattress for 2023     - CNET](https://www.cnet.com/health/sleep/best-organic-mattress/#ftag=CAD590a51e)
  - [Save $114 to $200 on Apple&#39;s MacBook Air 15-inch &amp; M2 Mac Studio, plus AppleCare discount](https://appleinsider.com/articles/23/06/23/save-114-to-200-on-apples-macbook-air-15-inch-m2-mac-studio-plus-applecare-discount?utm_medium=rss)
- - [100+ artists including Tom Morello call for a facial recognition ban at live events and pledge to boycott venues using the tech, citing privacy and bias risks &lpar;Ethan Millman/Rolling Stone&rpar;](http://www.techmeme.com/230622/p39#a230622p39)
- - [Reddit pressures mods to end the blackout as they find new ways to protest](https://www.theverge.com/2023/6/22/23770480/reddit-blackout-protest-pressure-mods-change-rules)<!-- TECH:END -->
+ - [100+ artists including Tom Morello call for a facial recognition ban at live events and pledge to boycott venues using the tech, citing privacy and bias risks &lpar;Ethan Millman/Rolling Stone&rpar;](http://www.techmeme.com/230622/p39#a230622p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
