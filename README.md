@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now the UK is warning Android users over accidental emergency calls](https://www.androidauthority.com/uk-warning-android-users-emergency-sos-3337575/)
- - [Millionaires Are Begging Governments to Tax Them More](https://www.wired.com/story/millionaires-begging-governments-tax-wealth/)
- - [Green Parties Are Gaining Power—and Problems](https://www.wired.com/story/green-parties-gaining-power-problems/)<!-- TECH:END -->
+ - [Poll: Do you think your phone is listening to you for ad purposes?](https://www.androidauthority.com/phone-listening-to-you-ads-poll-3338484/)
+ - [Sources say most of about 12,000 workers at TSMC&#39;s Arizona fab are non-union contractors, and workers face wage theft, unsafe working conditions, and more &lpar;Lee Harris/American Prospect&rpar;](http://www.techmeme.com/230623/p2#a230623p2)
+ - [Now the UK is warning Android users over accidental emergency calls](https://www.androidauthority.com/uk-warning-android-users-emergency-sos-3337575/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
