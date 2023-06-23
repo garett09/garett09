@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you think your phone is listening to you for ad purposes?](https://www.androidauthority.com/phone-listening-to-you-ads-poll-3338484/)
- - [Sources say most of about 12,000 workers at TSMC&#39;s Arizona fab are non-union contractors, and workers face wage theft, unsafe working conditions, and more &lpar;Lee Harris/American Prospect&rpar;](http://www.techmeme.com/230623/p2#a230623p2)
- - [Now the UK is warning Android users over accidental emergency calls](https://www.androidauthority.com/uk-warning-android-users-emergency-sos-3337575/)<!-- TECH:END -->
+ - [Sources: Apple is in talks to launch Apple Card in India, meeting with HDFC and the RBI; a source says Apple is holding discussions with the NPCI over Apple Pay &lpar;Anand J/Moneycontrol&rpar;](http://www.techmeme.com/230623/p3#a230623p3)
+ - [NFC technology is getting better range and charging capabilities](https://www.theverge.com/2023/6/23/23770472/nfc-forum-near-field-communications-roadmap-2028)
+ - [Poll: Do you think your phone is listening to you for ad purposes?](https://www.androidauthority.com/phone-listening-to-you-ads-poll-3338484/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
