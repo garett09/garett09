@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have you tried a salad?](http://9gag.com/gag/aNwOK5w)
- - 🚯 [So this is, what happened](http://9gag.com/gag/a4oWZWy)
- - 🚯 [Coughing Baby vs Hydrogen Bomb energy](http://9gag.com/gag/awZY7yQ)<!-- MEMES:END -->
+ - 🚖 [So this is, what happened](http://9gag.com/gag/a4oWZWy)
+ - 🚯 [Coughing Baby vs Hydrogen Bomb energy](http://9gag.com/gag/awZY7yQ)
+ - 🚯 [Cthulhu?](http://9gag.com/gag/a04MdwQ)<!-- MEMES:END -->
 
 --- 
 
