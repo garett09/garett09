@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to find the best deals during Amazon Prime Day](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
- - [A mistakenly released FDIC document shows SVB&#39;s big customers before its collapse, including Sequoia with $1B in deposits and Beijing-based Kanzhun with $900M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230623/p11#a230623p11)
- - [Apple Vision Pro will let you toss timers all over your kitchen while cooking](https://appleinsider.com/articles/23/06/23/apple-vision-pro-will-let-you-toss-timers-all-over-your-kitchen-while-cooking?utm_medium=rss)<!-- TECH:END -->
+ - [Headphone jacks and overnight-charging still preferred by many, says ASUS](https://www.androidauthority.com/asus-headphone-jack-stats-3337692/)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Alexa can now play local weather news videos on Echo Shows — no cable subscription required](https://www.theverge.com/2023/6/23/23771169/amazon-echo-show-smart-display-local-news-weather-forecast-video)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
