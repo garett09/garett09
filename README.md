@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third-party apps will be able to edit Cinematic Mode videos in iOS 17](https://appleinsider.com/articles/23/06/23/third-party-apps-will-be-able-to-edit-cinematic-mode-videos-in-ios-17?utm_medium=rss)
- - [Apple Mac Studio &lpar;M2 Ultra, 2023&rpar; Review: The Mac Pro Killer](https://www.wired.com/review/apple-mac-studio-2023/)
- - [How to add widgets to macOS Sonoma and how to use them](https://appleinsider.com/articles/23/06/23/how-to-add-widgets-to-macos-sonoma-and-how-to-use-them?utm_medium=rss)<!-- TECH:END -->
+ - [Satisfyer Pro 2 Gen 3 Review: Starter Pleasure](https://www.wired.com/review/satisfyer-pro-2-gen-3/)
+ - [Internal records undercut claims that Twitter censored pro-Trump content before the Capitol riot and show a reluctance to suspend Trump&#39;s account until Jan. 8 &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/230623/p7#a230623p7)
+ - [Galaxy S24 codenames suggest Samsung hasn’t killed Plus model](https://www.androidauthority.com/samsung-galaxy-s24-series-codename-3338566/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
