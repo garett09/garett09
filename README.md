@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [James Cameron explains what happened with Titan &lpar;3:38&rpar;](http://9gag.com/gag/ap9YQon)
- - 🚯 [Too soon?](http://9gag.com/gag/aEqOBWG)
- - 🚯 [She just wants some ice cream.. But is it even allowed in an arcade store?](http://9gag.com/gag/agoEXen)<!-- MEMES:END -->
+ - 🚖 [So this is, what happened](http://9gag.com/gag/a4oWZWy)
+ - 🚯 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)
+ - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
 
 --- 
 
