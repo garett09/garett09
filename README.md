@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Headphone jacks and overnight-charging still preferred by many, says ASUS](https://www.androidauthority.com/asus-headphone-jack-stats-3337692/)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Alexa can now play local weather news videos on Echo Shows — no cable subscription required](https://www.theverge.com/2023/6/23/23771169/amazon-echo-show-smart-display-local-news-weather-forecast-video)<!-- TECH:END -->
+ - [Amazon’s Echo Show now lets you watch local weather reports in 15 cities](https://www.androidauthority.com/amazon-echo-show-weather-videos-3338678/)
+ - [Across the Spider-Verse’s animators allegedly worked under harsh, unsustainable conditions](https://www.theverge.com/2023/6/23/23771199/across-the-spider-verse-working-conditions-phil-lord)
+ - [EvaluAgent, which is developing quality assurance testing software for call centers, raised a $20M Series A led by PeakSpan, bringing its total funding to $21M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230623/p14#a230623p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
