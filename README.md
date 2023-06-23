@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So this is, what happened](http://9gag.com/gag/a4oWZWy)
- - 🚯 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)
- - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
+ - 🚖 [Crimson chin looking ass](http://9gag.com/gag/aA0O3VZ)
+ - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)
+ - 🚯 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)<!-- MEMES:END -->
 
 --- 
 
