@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andreessen Horowitz created a16z Perennial Venture Capital Fund and a16z Perennial Management investment advisor, presumably expanding into wealth management &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/230623/p16#a230623p16)
- - [Satellite internet is on the way after Arctic fiber cut unplugs part of Alaska](https://www.theverge.com/2023/6/23/23771194/alaska-internet-quintillion-fiber-cable-satellites-oneweb)
- - [The Microsoft Surface Pro 9 drops to within $7 of its all-time low](https://www.androidauthority.com/microsoft-surface-pro-9-deal-3338702/)<!-- TECH:END -->
+ - [My Garmin’s fatal flaw is it refuses to acknowledge my naps](https://www.theverge.com/2023/6/23/23771153/garmin-sleep-tracking-naps-smartwatch-wearables)
+ - [How to control ChatGPT with your voice](https://www.androidauthority.com/how-to-control-chatgpt-with-voice-3338682/)
+ - [$1,000 discount drops M1 Max 16-inch MacBook Pro &lpar;32GB RAM, 2TB SSD&rpar; to $2,699](https://appleinsider.com/articles/23/06/23/1000-discount-drops-m1-max-16-inch-macbook-pro-32gb-ram-2tb-ssd-to-2699?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
