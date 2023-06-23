@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just wondering](http://9gag.com/gag/ap9Y0YM)
- - 🚯 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 🚯 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)<!-- MEMES:END -->
+ - 🚖 [No title needed](http://9gag.com/gag/a1PEXmG)
+ - 🚯 [Best friends... Oh wait!](http://9gag.com/gag/agoEvjg)
+ - 🚯 [So this is, what happened](http://9gag.com/gag/a4oWZWy)<!-- MEMES:END -->
 
 --- 
 
