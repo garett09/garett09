@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 🚯 [Get woke, go broke lol](http://9gag.com/gag/aZDzx2z)
- - 🚯 [Cthulhu?](http://9gag.com/gag/a04MdwQ)<!-- MEMES:END -->
+ - 🚖 [Most important piece found](http://9gag.com/gag/agoEXG6)
+ - 🚯 [Have you tried a salad?](http://9gag.com/gag/aNwOK5w)
+ - 🚯 [Olivia Casta](http://9gag.com/gag/a1PEMXP)<!-- MEMES:END -->
 
 --- 
 
