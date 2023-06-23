@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now the UK is warning Android users over accidental emergency calls](https://www.androidauthority.com/uk-warning-android-users-emergency-sos-3337575/)
  - [Millionaires Are Begging Governments to Tax Them More](https://www.wired.com/story/millionaires-begging-governments-tax-wealth/)
- - [Green Parties Are Gaining Power—and Problems](https://www.wired.com/story/green-parties-gaining-power-problems/)
- - [Thierry Breton says he sees a &quot;strong willingness&quot; from Twitter to comply with the EU&#39;s DSA and the company was the first to undergo a stress test to prepare &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230623/p1#a230623p1)<!-- TECH:END -->
+ - [Green Parties Are Gaining Power—and Problems](https://www.wired.com/story/green-parties-gaining-power-problems/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
