@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple replacing shuttered North Carolina store with new location](https://appleinsider.com/articles/23/06/23/apple-replacing-shuttered-north-carolina-store-with-new-location?utm_medium=rss)
- - [Source: Jacob Devlin, who quit Google to join OpenAI in January 2023 after complaining Bard was being trained on ChatGPT data, has returned to Google &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/230623/p19#a230623p19)
- - [The 47 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Alexa can now play local weather news videos on Echo Shows — no cable subscription required](https://www.theverge.com/2023/6/23/23771169/amazon-echo-show-smart-display-local-news-weather-forecast-video)
+ - [Nancy Pelosi exercises options for $1 million of Apple stock one day before expiration](https://appleinsider.com/articles/23/06/23/nancy-pelosi-exercises-options-for-1-million-of-apple-stock-one-day-before-expiration?utm_medium=rss)
+ - [Apple replacing shuttered North Carolina store with new location](https://appleinsider.com/articles/23/06/23/apple-replacing-shuttered-north-carolina-store-with-new-location?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
