@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: The Last of Us](https://blog.playstation.com/2023/06/23/share-of-the-week-the-last-of-us-2/)
- - [Free RPG Day has gone to the dogs: the best games and free adventures for 2023](https://www.polygon.com/tabletop-games/23768560/when-is-free-rpg-day-2023-preview)
- - [Grand Theft Auto V Immortalizes Lost Titanic Submarine With Fan Mod](https://kotaku.com/gta-5-online-mod-oceangate-titanic-titan-sub-mod-pc-1850570385)<!-- GAME:END -->
+ - [Magic’s Lord of the Rings booster boxes top $500 as collectors hunt for the Ring of Power](https://www.polygon.com/23771472/mtg-lotr-collector-booster-box-prices)
+ - [Why you should consider a CRT for your PC gaming setup this year](https://www.pcgamer.com/why-you-should-consider-a-crt-for-your-pc-gaming-setup-this-year)
+ - [The best gift ideas for the Street Fighter fan in your life](https://www.polygon.com/what-to-buy/23751465/street-fighter-best-gifts-guide-games-music-books-comics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
