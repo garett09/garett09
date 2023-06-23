@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact codes from the version 3.8 livestream](https://www.pcgamer.com/genshin-impact-codes-3-8-livestream)
- - [Tears of the Kingdom Is Another Zelda That&#39;s Low Key A Horror Game](https://kotaku.com/tears-of-the-kingdom-totk-horror-depths-gloom-switch-1850562373)
- - [Forget Diablo 4, the best way to play the original Diablo just got a meaty update](https://www.pcgamer.com/forget-diablo-4-the-best-way-to-play-the-original-diablo-just-got-a-meaty-update)<!-- GAME:END -->
+ - [What to remember from The Witcher season 2 before diving into season 3](https://www.polygon.com/23768508/witcher-season-3-2-ending-what-happened)
+ - [Final Fantasy XVI&#39;s RPG Elements Are Barely There](https://kotaku.com/final-fantasy-16-xvi-rpg-combat-action-square-enix-ps5-1850567705)
+ - [Amazon is giving away games and DLC ahead of Prime Day](https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
