@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
- - 🚯 [Spiderman threeway home](http://9gag.com/gag/aBdOWN1)
- - 🚯 [Have you tried a salad?](http://9gag.com/gag/aNwOK5w)<!-- MEMES:END -->
+ - 🚖 [It really happened](http://9gag.com/gag/ay2YDBq)
+ - 🚯 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
+ - 🚯 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)<!-- MEMES:END -->
 
 --- 
 
