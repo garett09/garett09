@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hehe](http://9gag.com/gag/aGEODm6)
- - 🚯 [No title needed](http://9gag.com/gag/a1PEXmG)
- - 🚯 [So this is, what happened](http://9gag.com/gag/a4oWZWy)<!-- MEMES:END -->
+ - 🚖 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)
+ - 🚯 [I&#39;m not saying that&#39;s an alien but that&#39;s a f**king alien](http://9gag.com/gag/aQEOnZK)
+ - 🚯 [Oldie but goldie](http://9gag.com/gag/anzr19b)<!-- MEMES:END -->
 
 --- 
 
