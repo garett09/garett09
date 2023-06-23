@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Olivia Casta](http://9gag.com/gag/a1PEMXP)
- - 🚯 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
- - 🚯 [I&#39;m not saying that&#39;s an alien but that&#39;s a f**king alien](http://9gag.com/gag/aQEOnZK)<!-- MEMES:END -->
+ - 🚖 [Have you tried a salad?](http://9gag.com/gag/aNwOK5w)
+ - 🚯 [So this is, what happened](http://9gag.com/gag/a4oWZWy)
+ - 🚯 [Coughing Baby vs Hydrogen Bomb energy](http://9gag.com/gag/awZY7yQ)<!-- MEMES:END -->
 
 --- 
 
