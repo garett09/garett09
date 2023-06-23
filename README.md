@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It really happened](http://9gag.com/gag/ay2YDBq)
- - 🚯 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
- - 🚯 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)<!-- MEMES:END -->
+ - 🚖 [I&#39;m not saying that&#39;s an alien but that&#39;s a f**king alien](http://9gag.com/gag/aQEOnZK)
+ - 🚯 [Oldie but goldie](http://9gag.com/gag/anzr19b)
+ - 🚯 [Western European moment...](http://9gag.com/gag/az2YLON)<!-- MEMES:END -->
 
 --- 
 
