@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
- - 🚯 [Olivia Casta](http://9gag.com/gag/a1PEMXP)
- - 🚯 [Braunschweig Germany today tetten in the comments](http://9gag.com/gag/aQEOej2)<!-- MEMES:END -->
+ - 🚖 [Olivia Casta](http://9gag.com/gag/a1PEMXP)
+ - 🚯 [Asking for a friend](http://9gag.com/gag/a9qOL5o)
+ - 🚯 [I&#39;m not saying that&#39;s an alien but that&#39;s a f**king alien](http://9gag.com/gag/aQEOnZK)<!-- MEMES:END -->
 
 --- 
 
