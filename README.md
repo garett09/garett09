@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)
- - 🚯 [Most important piece found](http://9gag.com/gag/agoEXG6)
- - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
+ - 🚖 [Terrorists cannot be friends](http://9gag.com/gag/a3ZbEQ3)
+ - 🚯 [Forgive my poor photoshop skills](http://9gag.com/gag/aYVAomV)
+ - 🚯 [Airy](http://9gag.com/gag/aeQ7D5O)<!-- MEMES:END -->
 
 --- 
 
