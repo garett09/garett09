@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When Wagner suddenly stops heading for Moscow, what now?](http://9gag.com/gag/aREOrBj)
- - 🚯 [These kids have got vibe.](http://9gag.com/gag/a1PEKA6)
- - 🚯 [Noted](http://9gag.com/gag/aoKYM8A)<!-- MEMES:END -->
+ - 🚖 [Remember](http://9gag.com/gag/avQdAbb)
+ - 🚯 [Title](http://9gag.com/gag/axoYBMp)
+ - 🚯 [Lockpicking Lawyer humor for your weekend](http://9gag.com/gag/a5XqExG)<!-- MEMES:END -->
 
 --- 
 
