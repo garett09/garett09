@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)
- - 🚯 [It ain\u2019t much, but it\u2019s honest work](http://9gag.com/gag/aoKY2V0)
- - 🚯 [Braunschweig Germany today tetten in the comments](http://9gag.com/gag/aQEOej2)<!-- MEMES:END -->
+ - 🚖 [Most important piece found](http://9gag.com/gag/agoEXG6)
+ - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)
+ - 🚯 [Double standards - swiss climate terrorist caught flying to mexico a few weeks after he glued himself on the street to block traffic](http://9gag.com/gag/aREO7Y2)<!-- MEMES:END -->
 
 --- 
 
