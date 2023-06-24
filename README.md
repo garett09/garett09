@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Review: &#39;Final Fantasy XVI&#39; Is Still Final Fantasy, With More Blood and Butts](https://www.wired.com/story/final-fantasy-xvi-review/)
- - [15 Best Early Amazon Prime Day Deals: Pixel Phones, Apple Watches, and Dyson Gear](https://www.wired.com/story/early-prime-day-deals-2023/)
- - [The Wild World of Extreme Tourism for Billionaires](https://www.wired.com/story/the-wild-world-of-extreme-tourism-for-billionaires/)<!-- TECH:END -->
+ - [Research: 81% of tech companies with under 5K employees allow remote work or have only remote options, while just 26% with 25K+ employees are fully flexible &lpar;Rani Molla/Vox&rpar;](http://www.techmeme.com/230624/p7#a230624p7)
+ - [8 Best Cheap Smartphones &lpar;2023&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
+ - [The Atlantification of the Arctic Ocean Is Underway](https://www.wired.com/story/the-atlantification-of-the-arctic-ocean-is-underway/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
