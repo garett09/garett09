@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social media startup IRL is shutting down after an investigation by its board concluded that 95% of its claimed 20M MAUs were &quot;automated or from bots&quot; &lpar;Mark Matousek/The Information&rpar;](http://www.techmeme.com/230623/p25#a230623p25)
- - [Save $100 to $200 on Apple&#39;s MacBook Air 15-inch &amp; M2 Mac Studio, plus AppleCare discount](https://appleinsider.com/articles/23/06/23/save-114-to-200-on-apples-macbook-air-15-inch-m2-mac-studio-plus-applecare-discount?utm_medium=rss)
- - [The 5 Best Cheap Qi Wireless Charging Pads Under $20     - CNET](https://www.cnet.com/tech/mobile/best-cheap-qi-wireless-charging-pads-under-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Meta is planning to release its Twitter competitor in mid-July and is pitching big-name celebrities to join a platform that will be &quot;sanely&quot; run &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230623/p26#a230623p26)
+ - [What is a 0.5 selfie and how can you create one?](https://www.androidauthority.com/0-5-selfie-3338821/)
+ - [Ford Gets $9.2B From Department of Energy to Build 3 EV Battery Plants     - CNET](https://www.cnet.com/roadshow/news/ford-gets-9-2b-from-department-of-energy-to-build-3-ev-battery-plants/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
