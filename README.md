@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She just wants some ice cream.. But is it even allowed in an arcade store?](http://9gag.com/gag/agoEXen)
+ - 🚖 [It really happened](http://9gag.com/gag/ay2YDBq)
  - 🚯 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)
- - 🚯 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)<!-- MEMES:END -->
+ - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
 
 --- 
 
