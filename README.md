@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oldie but goldie](http://9gag.com/gag/anzr19b)
- - 🚯 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)
- - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
+ - 🚖 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)
+ - 🚯 [The ultimate reverse card](http://9gag.com/gag/aL1d036)
+ - 🚯 [Braunschweig Germany today tetten in the comments](http://9gag.com/gag/aQEOej2)<!-- MEMES:END -->
 
 --- 
 
