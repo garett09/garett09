@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Metal Gear Solid: Master Collection popped up on Steam with a notice it wouldn&#39;t support mouse &amp; keyboard before disappearing a half hour later](https://www.pcgamer.com/the-metal-gear-solid-master-collection-popped-up-on-steam-with-a-notice-it-wouldnt-support-mouse-and-keyboard-before-disappearing-a-half-hour-later)
  - [Just like nobody asked for, YouTube is reportedly testing in-app and in-site gaming](https://www.pcgamer.com/just-like-nobody-asked-for-youtube-is-reportedly-testing-in-app-and-in-site-gaming)
- - [Netflix’s Skull Island captures the best part of Kong’s world](https://www.polygon.com/23771432/netflix-skull-island-king-kong-show-review-monsterverse)
- - [Wes Anderson and Steven Spielberg use sci-fi the same way](https://www.polygon.com/23768645/wes-anderson-steven-spielberg-comparison-asteroid-city-close-encounters)<!-- GAME:END -->
+ - [Netflix’s Skull Island captures the best part of Kong’s world](https://www.polygon.com/23771432/netflix-skull-island-king-kong-show-review-monsterverse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
