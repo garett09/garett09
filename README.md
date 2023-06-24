@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to tell everyone on Gmail if you’re in — or not](https://www.theverge.com/23771146/google-chat-gmail-status-how-to)
- - [Apple to appeal NLRB ruling it &#39;coercively interrogated&#39; staff about unions](https://appleinsider.com/articles/23/06/24/apple-to-appeal-nlrb-ruling-it-coercively-interrogated-staff-about-unions?utm_medium=rss)
- - [7 things the Google Pixel Tablet does better than my iPad Air](https://www.androidauthority.com/google-pixel-tablet-vs-ipad-air-features-3335955/)<!-- TECH:END -->
+ - [Has Xbox really lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
+ - [Daily deals: $799 M1 MacBook Air, $749 Apple Watch Ultra, $115 Samsung T7 2TB Portable SSD](https://appleinsider.com/articles/23/06/24/daily-deals-799-m1-macbook-air-749-apple-watch-ultra-115-samsung-t7-2tb-portable-ssd?utm_medium=rss)
+ - [Sources: IBM is close to a deal to acquire cloud-based IT management startup Apptio from Vista Equity Partners for ~$5B; Vista acquired Apptio for ~$2B in 2019 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230624/p8#a230624p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
