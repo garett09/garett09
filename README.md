@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Braunschweig Germany today tetten in the comments](http://9gag.com/gag/aQEOej2)
- - 🚯 [Olivia Casta](http://9gag.com/gag/a1PEMXP)
- - 🚯 [To study what? Female anatomy?](http://9gag.com/gag/a3ZbKA7)<!-- MEMES:END -->
+ - 🚖 [Relationship internship](http://9gag.com/gag/aBdOx1Q)
+ - 🚯 [James Cameron explains what happened with Titan &lpar;3:38&rpar;](http://9gag.com/gag/ap9YQon)
+ - 🚯 [She just wants some ice cream.. But is it even allowed in an arcade store?](http://9gag.com/gag/agoEXen)<!-- MEMES:END -->
 
 --- 
 
