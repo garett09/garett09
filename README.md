@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To anyone wondering about human remains from the Titan. This is what happens at 135 pounds of pressure per square inch. The pressure at the level of the Titanic is around 5550. The dummy was made of meat. Experiment done by the Mythbusters. Episode 146.](http://9gag.com/gag/aA0Od10)
- - 🚯 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
- - 🚯 [Mosquito engineered to be unable to penetrate skin, then released to breed with normal mosquitoes creating offspring that starve and die off](http://9gag.com/gag/aOxRY42)<!-- MEMES:END -->
+ - 🚖 [Oldie but goldie](http://9gag.com/gag/anzr19b)
+ - 🚯 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)
+ - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
 
 --- 
 
