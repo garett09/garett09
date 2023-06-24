@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing Aloud, an AI-powered dubbing tool developed at Google&#39;s Area 120, with &quot;hundreds&quot; of creators, starting with English, Spanish, and Portuguese &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230623/p27#a230623p27)
- - [Best Portable Power Stations for June 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)
- - [Best Apple AirPods for 2023: Top Picks Across Generations     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EU Commissioner Thierry Breton says he and Mark Zuckerberg are &quot;aligned&quot; on the EU&#39;s regulation of AI; Sam Altman says he also agrees with the EU&#39;s approach &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230624/p2#a230624p2)
+ - [Internal email: Google invited employees to test a product called Playables, which lets users play games like Stack Bounce instantly via the YouTube site or app &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230624/p1#a230624p1)
+ - [23 Great Tech Gifts Under $100     - CNET](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
