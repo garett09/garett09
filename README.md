@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android has an emergency call false positive problem too](https://appleinsider.com/articles/23/06/24/android-has-an-emergency-call-false-positive-problem-too?utm_medium=rss)
- - [The EFJ and media experts condemn the latest European Media Freedom Act draft that would let national security agencies place spyware on journalists&#39; phones &lpar;Lisa O&#39;Carroll/The Guardian&rpar;](http://www.techmeme.com/230624/p11#a230624p11)
- - [This OWC Thunderbolt 3 dock for your Mac dips to the lowest price ever](https://appleinsider.com/articles/23/06/24/this-owc-thunderbolt-3-dock-for-your-mac-dips-to-the-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Goat Story Gina Smart review: not your average coffee maker](https://appleinsider.com/articles/23/06/24/goat-story-gina-smart-review-not-your-average-coffee-maker?utm_medium=rss)
+ - [College World Series 2023: How to Watch, Stream Florida vs. LSU Today From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/college-world-series-2023-how-to-watch-stream-florida-vs-lsu-today-from-anywhere/#ftag=CAD590a51e)
+ - [Android has an emergency call false positive problem too](https://appleinsider.com/articles/23/06/24/android-has-an-emergency-call-false-positive-problem-too?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
