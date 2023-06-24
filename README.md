@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-489-3338805/)
- - [Take 25% Off Sitewide at Brooklyn Bedding for Fourth of July     - CNET](https://www.cnet.com/deals/take-25-off-sitewide-at-brooklyn-bedding-for-fourth-of-july/#ftag=CAD590a51e)
- - [Tesla’s NACS plug will be required at EV charging stations in Washington and Texas](https://www.theverge.com/2023/6/24/23772366/tesla-nacs-charging-standard-washington-texas-gm-ford-rivian)<!-- TECH:END -->
+ - [The Sony WF-1000XM4 are the reason I’m excited about the WF-1000XM5](https://www.androidauthority.com/sony-wf-1000xm5-upgrade-3335551/)
+ - [Sources: Mark Zuckerberg is using Instagram to promote an edgier image to court the &quot;tech bros&quot; captivated by Elon Musk&#39;s online antagonism and offline antics &lpar;Washington Post&rpar;](http://www.techmeme.com/230624/p9#a230624p9)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-489-3338805/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
