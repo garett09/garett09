@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relationship internship](http://9gag.com/gag/aBdOx1Q)
- - 🚯 [James Cameron explains what happened with Titan &lpar;3:38&rpar;](http://9gag.com/gag/ap9YQon)
- - 🚯 [She just wants some ice cream.. But is it even allowed in an arcade store?](http://9gag.com/gag/agoEXen)<!-- MEMES:END -->
+ - 🚖 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)
+ - 🚯 [Mosquito engineered to be unable to penetrate skin, then released to breed with normal mosquitoes creating offspring that starve and die off](http://9gag.com/gag/aOxRY42)
+ - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
 
 --- 
 
