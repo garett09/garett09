@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can’t get Starlink Residential? You should consider Starlink Roam instead](https://www.androidauthority.com/starlink-residential-vs-roam-3337656/)
- - [Best Mac VPN for 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)
- - [The Twitter-to-Mastodon migration that started in November 2022 failed because of Mastodon&#39;s exclusionary culture, decentralization making the UX worse, more &lpar;Bloonface/Caf&amp;eacute; Lob-On&rpar;](http://www.techmeme.com/230624/p10#a230624p10)<!-- TECH:END -->
+ - [Android has an emergency call false positive problem too](https://appleinsider.com/articles/23/06/24/android-has-an-emergency-call-false-positive-problem-too?utm_medium=rss)
+ - [The EFJ and media experts condemn the latest European Media Freedom Act draft that would let national security agencies place spyware on journalists&#39; phones &lpar;Lisa O&#39;Carroll/The Guardian&rpar;](http://www.techmeme.com/230624/p11#a230624p11)
+ - [This OWC Thunderbolt 3 dock for your Mac dips to the lowest price ever](https://appleinsider.com/articles/23/06/24/this-owc-thunderbolt-3-dock-for-your-mac-dips-to-the-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
