@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She just wants some ice cream.. But is it even allowed in an arcade store?](http://9gag.com/gag/agoEXen)
- - 🚯 [Wagner is gathering outside the russian minestery of defence building in Rostov. Barrels pointing at the Windows. Im out of popcorn and its 4am. Help.](http://9gag.com/gag/a2KLR7Z)
- - 🚯 [Its about time](http://9gag.com/gag/az2Y9BN)<!-- MEMES:END -->
+ - 🚖 [To anyone wondering about human remains from the Titan. This is what happens at 135 pounds of pressure per square inch. The pressure at the level of the Titanic is around 5550. The dummy was made of meat. Experiment done by the Mythbusters. Episode 146.](http://9gag.com/gag/aA0Od10)
+ - 🚯 [Cthulhu?](http://9gag.com/gag/a04MdwQ)
+ - 🚯 [Mosquito engineered to be unable to penetrate skin, then released to breed with normal mosquitoes creating offspring that starve and die off](http://9gag.com/gag/aOxRY42)<!-- MEMES:END -->
 
 --- 
 
