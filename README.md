@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 things the Google Pixel Tablet does better than my iPad Air](https://www.androidauthority.com/google-pixel-tablet-vs-ipad-air-features-3335955/)
- - [Best Trail Running Shoes &lpar;2023&rpar;: Hiking, Barefoot, and More](https://www.wired.com/gallery/best-trail-running-shoes/)
- - [A European Ruling Could Make iPhone Batteries Replaceable](https://www.wired.com/story/european-ruling-iphone-batteries-replaceable/)<!-- TECH:END -->
+ - [How to tell everyone on Gmail if you’re in — or not](https://www.theverge.com/23771146/google-chat-gmail-status-how-to)
+ - [Apple to appeal NLRB ruling it &#39;coercively interrogated&#39; staff about unions](https://appleinsider.com/articles/23/06/24/apple-to-appeal-nlrb-ruling-it-coercively-interrogated-staff-about-unions?utm_medium=rss)
+ - [7 things the Google Pixel Tablet does better than my iPad Air](https://www.androidauthority.com/google-pixel-tablet-vs-ipad-air-features-3335955/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
