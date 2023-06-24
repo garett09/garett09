@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goat Story Gina Smart review: not your average coffee maker](https://appleinsider.com/articles/23/06/24/goat-story-gina-smart-review-not-your-average-coffee-maker?utm_medium=rss)
- - [College World Series 2023: How to Watch, Stream Florida vs. LSU Today From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/college-world-series-2023-how-to-watch-stream-florida-vs-lsu-today-from-anywhere/#ftag=CAD590a51e)
- - [Android has an emergency call false positive problem too](https://appleinsider.com/articles/23/06/24/android-has-an-emergency-call-false-positive-problem-too?utm_medium=rss)<!-- TECH:END -->
+ - [Formula E team caught using RFID scanner that could grab live tire data from other cars](https://www.theverge.com/2023/6/24/23772725/formula-e-ds-penske-rfid-tire-data-wireless-scanner)
+ - [A survey of ~305 experts on their expectations for digital advances by 2035, like AI systems and smart eyewear and earbuds, and concerns over the darker sides &lpar;Pew Research Center&rpar;](http://www.techmeme.com/230624/p12#a230624p12)
+ - [Goat Story Gina Smart review: not your average coffee maker](https://appleinsider.com/articles/23/06/24/goat-story-gina-smart-review-not-your-average-coffee-maker?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
