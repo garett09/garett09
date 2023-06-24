@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: 81% of tech companies with under 5K employees allow remote work or have only remote options, while just 26% with 25K+ employees are fully flexible &lpar;Rani Molla/Vox&rpar;](http://www.techmeme.com/230624/p7#a230624p7)
- - [8 Best Cheap Smartphones &lpar;2023&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
- - [The Atlantification of the Arctic Ocean Is Underway](https://www.wired.com/story/the-atlantification-of-the-arctic-ocean-is-underway/)<!-- TECH:END -->
+ - [7 things the Google Pixel Tablet does better than my iPad Air](https://www.androidauthority.com/google-pixel-tablet-vs-ipad-air-features-3335955/)
+ - [Best Trail Running Shoes &lpar;2023&rpar;: Hiking, Barefoot, and More](https://www.wired.com/gallery/best-trail-running-shoes/)
+ - [A European Ruling Could Make iPhone Batteries Replaceable](https://www.wired.com/story/european-ruling-iphone-batteries-replaceable/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
