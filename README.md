@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dev discloses Diablo 4&#39;s rarest unique items, what they are, and how to get them](https://www.pcgamer.com/dev-discloses-diablo-4s-rarest-unique-items-what-they-are-and-how-to-get-them)
  - [Oh, to be a little gecko crawling up some walls in this exploration platformer](https://www.pcgamer.com/oh-to-be-a-little-gecko-crawling-up-some-walls-in-this-exploration-platformer)
- - [The Metal Gear Solid: Master Collection popped up on Steam with a notice it wouldn&#39;t support mouse &amp; keyboard before disappearing a half hour later](https://www.pcgamer.com/the-metal-gear-solid-master-collection-popped-up-on-steam-with-a-notice-it-wouldnt-support-mouse-and-keyboard-before-disappearing-a-half-hour-later)
- - [Just like nobody asked for, YouTube is reportedly testing in-app and in-site gaming](https://www.pcgamer.com/just-like-nobody-asked-for-youtube-is-reportedly-testing-in-app-and-in-site-gaming)<!-- GAME:END -->
+ - [The Metal Gear Solid: Master Collection popped up on Steam with a notice it wouldn&#39;t support mouse &amp; keyboard before disappearing a half hour later](https://www.pcgamer.com/the-metal-gear-solid-master-collection-popped-up-on-steam-with-a-notice-it-wouldnt-support-mouse-and-keyboard-before-disappearing-a-half-hour-later)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
