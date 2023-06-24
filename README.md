@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Save on Game Pass ahead of July’s price hike](https://www.polygon.com/deals/2023/6/24/23769052/best-gaming-deals-game-pass-nintendo-switch-sale-tabletop-lego)
  - [The Flash has the only movie multiverse that makes real sense, and I can prove it](https://www.polygon.com/23771903/flash-movie-dc-continuity-explained-hypertime)
- - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of June 2023](https://www.polygon.com/what-to-watch/2023/6/24/23767496/best-movies-netflix-amazon-hulu-max-leaving-june-2023)
- - [Today&#39;s Wordle hint and answer #735: Saturday, June 24](https://www.pcgamer.com/wordle-answer-today-hint-735-june-24)<!-- GAME:END -->
+ - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of June 2023](https://www.polygon.com/what-to-watch/2023/6/24/23767496/best-movies-netflix-amazon-hulu-max-leaving-june-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
