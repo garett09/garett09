@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8 leak points to deskop mode support](https://www.androidauthority.com/pixel-8-leak-usb-displayport-3338385/)
- - [TikTok Keeps Removing Abortion Pill Content](https://www.wired.com/story/tiktok-abortion-content-censorship/)
- - [Making sense of the EU’s fight for user-replaceable smartphone batteries](https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries)<!-- TECH:END -->
+ - [Review: &#39;Final Fantasy XVI&#39; Is Still Final Fantasy, With More Blood and Butts](https://www.wired.com/story/final-fantasy-xvi-review/)
+ - [15 Best Early Amazon Prime Day Deals: Pixel Phones, Apple Watches, and Dyson Gear](https://www.wired.com/story/early-prime-day-deals-2023/)
+ - [The Wild World of Extreme Tourism for Billionaires](https://www.wired.com/story/the-wild-world-of-extreme-tourism-for-billionaires/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
