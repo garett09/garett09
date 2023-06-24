@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Joey has good friends!](http://9gag.com/gag/ajVWE31)
- - 🚯 [Mosquito engineered to be unable to penetrate skin, then released to breed with normal mosquitoes creating offspring that starve and die off](http://9gag.com/gag/aOxRY42)
- - 🚯 [Most important piece found](http://9gag.com/gag/agoEXG6)<!-- MEMES:END -->
+ - 🚖 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)
+ - 🚯 [Most important piece found](http://9gag.com/gag/agoEXG6)
+ - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
 
 --- 
 
