@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Twitter-to-Mastodon migration that started in November 2022 failed because of Mastodon&#39;s exclusionary culture, decentralization making the UX worse, more &lpar;Bloonface/Caf&amp;eacute; Lob-On&rpar;](http://www.techmeme.com/230624/p10#a230624p10)
  - [Engwe M20 ebike review: Fewer adjustment capabilities with solid motor power](https://appleinsider.com/articles/23/06/24/engwe-m20-ebike-review-fewer-adjustment-capabilities-with-solid-motor-power?utm_medium=rss)
- - [Academy squeezing out Apple TV+ movies with new Oscar rules](https://appleinsider.com/articles/23/06/24/academy-squeezing-out-apple-tv-movies-with-new-oscar-rules?utm_medium=rss)
- - [The Sony WF-1000XM4 are the reason I’m excited about the WF-1000XM5](https://www.androidauthority.com/sony-wf-1000xm5-upgrade-3335551/)<!-- TECH:END -->
+ - [Best iPhone VPN of 2023     - CNET](https://www.cnet.com/tech/services-and-software/best-iphone-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
