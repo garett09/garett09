@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Making sense of the EU’s fight for user-replaceable smartphone batteries](https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries)
  - [How military-grade AI, developed by US defense contractors for intelligence, has been repurposed to combat labor organizing, find internal leakers, and more &lpar;Wired&rpar;](http://www.techmeme.com/230624/p6#a230624p6)
- - [NetBlocks: at least five Russian telcos block Google News and several other ISPs are reducing access, as Russia&#39;s feud with a mercenary leader intensifies &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230624/p5#a230624p5)
- - [Sundar Pichai says Google plans to invest $10B in India&#39;s digitization fund and announces the opening of Google&#39;s fintech operation center in GIFT City, Gujarat &lpar;The Economic Times&rpar;](http://www.techmeme.com/230624/p4#a230624p4)<!-- TECH:END -->
+ - [NetBlocks: at least five Russian telcos block Google News and several other ISPs are reducing access, as Russia&#39;s feud with a mercenary leader intensifies &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230624/p5#a230624p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
