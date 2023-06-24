@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It really happened](http://9gag.com/gag/ay2YDBq)
- - 🚯 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)
- - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
+ - 🚖 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)
+ - 🚯 [It ain\u2019t much, but it\u2019s honest work](http://9gag.com/gag/aoKY2V0)
+ - 🚯 [Braunschweig Germany today tetten in the comments](http://9gag.com/gag/aQEOej2)<!-- MEMES:END -->
 
 --- 
 
