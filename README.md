@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s official. Military coup has begun. Translation in the comments.](http://9gag.com/gag/az2Y9YB)
- - 🚯 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)
- - 🚯 [Braunschweig Germany today tetten in the comments](http://9gag.com/gag/aQEOej2)<!-- MEMES:END -->
+ - 🚖 [James Cameron explains what happened with Titan &lpar;3:38&rpar;](http://9gag.com/gag/ap9YQon)
+ - 🚯 [Relationship internship](http://9gag.com/gag/aBdOx1Q)
+ - 🚯 [She just wants some ice cream.. But is it even allowed in an arcade store?](http://9gag.com/gag/agoEXen)<!-- MEMES:END -->
 
 --- 
 
