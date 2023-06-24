@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most important piece found](http://9gag.com/gag/agoEXG6)
- - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)
- - 🚯 [Double standards - swiss climate terrorist caught flying to mexico a few weeks after he glued himself on the street to block traffic](http://9gag.com/gag/aREO7Y2)<!-- MEMES:END -->
+ - 🚖 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)
+ - 🚯 [Mosquito engineered to be unable to penetrate skin, then released to breed with normal mosquitoes creating offspring that starve and die off](http://9gag.com/gag/aOxRY42)
+ - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
 
 --- 
 
