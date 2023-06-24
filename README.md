@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle hint and answer #735: Saturday, June 24](https://www.pcgamer.com/wordle-answer-today-hint-735-june-24)
  - [Ultima creator Richard Garriott issues statement on Explorer&#39;s Club members lost in Titan sub disaster](https://www.pcgamer.com/ultima-creator-richard-garriott-issues-statement-on-explorers-club-members-lost-in-titan-sub-disaster)
- - [You begin this base-building survival game with a single item: a time machine](https://www.pcgamer.com/this-base-building-survival-game-starts-you-off-with-only-a-single-item-but-luckily-its-a-time-machine)
- - [Evil Dead Rise, Infinity Pool, Netflix’s The Perfect Find, and every new movie to watch at home this weekend](https://www.polygon.com/2023/6/23/23766978/new-movies-watch-evil-dead-rise-netflixperfect-find-max-infinity-pool-hulu)<!-- GAME:END -->
+ - [You begin this base-building survival game with a single item: a time machine](https://www.pcgamer.com/this-base-building-survival-game-starts-you-off-with-only-a-single-item-but-luckily-its-a-time-machine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
