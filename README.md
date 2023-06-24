@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is planning to release its Twitter competitor in mid-July and is pitching big-name celebrities to join a platform that will be &quot;sanely&quot; run &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230623/p26#a230623p26)
- - [What is a 0.5 selfie and how can you create one?](https://www.androidauthority.com/0-5-selfie-3338821/)
- - [Ford Gets $9.2B From Department of Energy to Build 3 EV Battery Plants     - CNET](https://www.cnet.com/roadshow/news/ford-gets-9-2b-from-department-of-energy-to-build-3-ev-battery-plants/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Portable Power Stations for June 2023     - CNET](https://www.cnet.com/home/energy-and-utilities/best-portable-power-stations/#ftag=CAD590a51e)
+ - [Best Apple AirPods for 2023: Top Picks Across Generations     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
+ - [Sources: Meta is planning to release its Twitter competitor in mid-July and is pitching big-name celebrities to join a platform that will be &quot;sanely&quot; run &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230623/p26#a230623p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
