@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Has Xbox really lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
- - [Daily deals: $799 M1 MacBook Air, $749 Apple Watch Ultra, $115 Samsung T7 2TB Portable SSD](https://appleinsider.com/articles/23/06/24/daily-deals-799-m1-macbook-air-749-apple-watch-ultra-115-samsung-t7-2tb-portable-ssd?utm_medium=rss)
- - [Sources: IBM is close to a deal to acquire cloud-based IT management startup Apptio from Vista Equity Partners for ~$5B; Vista acquired Apptio for ~$2B in 2019 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230624/p8#a230624p8)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-489-3338805/)
+ - [Take 25% Off Sitewide at Brooklyn Bedding for Fourth of July     - CNET](https://www.cnet.com/deals/take-25-off-sitewide-at-brooklyn-bedding-for-fourth-of-july/#ftag=CAD590a51e)
+ - [Tesla’s NACS plug will be required at EV charging stations in Washington and Texas](https://www.theverge.com/2023/6/24/23772366/tesla-nacs-charging-standard-washington-texas-gm-ford-rivian)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
