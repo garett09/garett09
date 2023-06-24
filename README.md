@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Braunschweig Germany today tetten in the comments](http://9gag.com/gag/aQEOej2)
- - 🚯 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)
- - 🚯 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)<!-- MEMES:END -->
+ - 🚖 [When Wagner suddenly stops heading for Moscow, what now?](http://9gag.com/gag/aREOrBj)
+ - 🚯 [These kids have got vibe.](http://9gag.com/gag/a1PEKA6)
+ - 🚯 [Noted](http://9gag.com/gag/aoKYM8A)<!-- MEMES:END -->
 
 --- 
 
