@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Making sense of the EU’s fight for user-replaceable smartphone batteries](https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries)
- - [How military-grade AI, developed by US defense contractors for intelligence, has been repurposed to combat labor organizing, find internal leakers, and more &lpar;Wired&rpar;](http://www.techmeme.com/230624/p6#a230624p6)
- - [NetBlocks: at least five Russian telcos block Google News and several other ISPs are reducing access, as Russia&#39;s feud with a mercenary leader intensifies &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230624/p5#a230624p5)<!-- TECH:END -->
+ - [Google Pixel 8 leak points to deskop mode support](https://www.androidauthority.com/pixel-8-leak-usb-displayport-3338385/)
+ - [TikTok Keeps Removing Abortion Pill Content](https://www.wired.com/story/tiktok-abortion-content-censorship/)
+ - [Making sense of the EU’s fight for user-replaceable smartphone batteries](https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
