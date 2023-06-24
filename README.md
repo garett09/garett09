@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU Commissioner Thierry Breton says he and Mark Zuckerberg are &quot;aligned&quot; on the EU&#39;s regulation of AI; Sam Altman says he also agrees with the EU&#39;s approach &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/230624/p2#a230624p2)
- - [Internal email: Google invited employees to test a product called Playables, which lets users play games like Stack Bounce instantly via the YouTube site or app &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230624/p1#a230624p1)
- - [23 Great Tech Gifts Under $100     - CNET](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How military-grade AI, developed by US defense contractors for intelligence, has been repurposed to combat labor organizing, find internal leakers, and more &lpar;Wired&rpar;](http://www.techmeme.com/230624/p6#a230624p6)
+ - [NetBlocks: at least five Russian telcos block Google News and several other ISPs are reducing access, as Russia&#39;s feud with a mercenary leader intensifies &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/230624/p5#a230624p5)
+ - [Sundar Pichai says Google plans to invest $10B in India&#39;s digitization fund and announces the opening of Google&#39;s fintech operation center in GIFT City, Gujarat &lpar;The Economic Times&rpar;](http://www.techmeme.com/230624/p4#a230624p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
