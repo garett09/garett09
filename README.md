@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Save on Game Pass ahead of July’s price hike](https://www.polygon.com/deals/2023/6/24/23769052/best-gaming-deals-game-pass-nintendo-switch-sale-tabletop-lego)
- - [The Flash has the only movie multiverse that makes real sense, and I can prove it](https://www.polygon.com/23771903/flash-movie-dc-continuity-explained-hypertime)
- - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of June 2023](https://www.polygon.com/what-to-watch/2023/6/24/23767496/best-movies-netflix-amazon-hulu-max-leaving-june-2023)<!-- GAME:END -->
+ - [Netflix’s Skull Island captures the best part of Kong’s world](https://www.polygon.com/23771432/netflix-skull-island-king-kong-show-review-monsterverse)
+ - [Wes Anderson and Steven Spielberg use sci-fi the same way](https://www.polygon.com/23768645/wes-anderson-steven-spielberg-comparison-asteroid-city-close-encounters)
+ - [Save on Game Pass ahead of July’s price hike](https://www.polygon.com/deals/2023/6/24/23769052/best-gaming-deals-game-pass-nintendo-switch-sale-tabletop-lego)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
