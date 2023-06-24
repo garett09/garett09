@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crimson chin looking ass](http://9gag.com/gag/aA0O3VZ)
- - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)
- - 🚯 [The thing i would do to these scum](http://9gag.com/gag/a9qOYzW)<!-- MEMES:END -->
+ - 🚖 [It&#39;s official. Military coup has begun. Translation in the comments.](http://9gag.com/gag/az2Y9YB)
+ - 🚯 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)
+ - 🚯 [Braunschweig Germany today tetten in the comments](http://9gag.com/gag/aQEOej2)<!-- MEMES:END -->
 
 --- 
 
