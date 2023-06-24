@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)
- - 🚯 [Mosquito engineered to be unable to penetrate skin, then released to breed with normal mosquitoes creating offspring that starve and die off](http://9gag.com/gag/aOxRY42)
- - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
+ - 🚖 [She just wants some ice cream.. But is it even allowed in an arcade store?](http://9gag.com/gag/agoEXen)
+ - 🚯 [Wagner is gathering outside the russian minestery of defence building in Rostov. Barrels pointing at the Windows. Im out of popcorn and its 4am. Help.](http://9gag.com/gag/a2KLR7Z)
+ - 🚯 [Its about time](http://9gag.com/gag/az2Y9BN)<!-- MEMES:END -->
 
 --- 
 
