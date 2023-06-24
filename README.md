@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Terrorists cannot be friends](http://9gag.com/gag/a3ZbEQ3)
- - 🚯 [Forgive my poor photoshop skills](http://9gag.com/gag/aYVAomV)
- - 🚯 [Airy](http://9gag.com/gag/aeQ7D5O)<!-- MEMES:END -->
+ - 🚖 [Mosquito engineered to be unable to penetrate skin, then released to breed with normal mosquitoes creating offspring that starve and die off](http://9gag.com/gag/aOxRY42)
+ - 🚯 [Braunschweig Germany today tetten in the comments](http://9gag.com/gag/aQEOej2)
+ - 🚯 [The ultimate reverse card](http://9gag.com/gag/aL1d036)<!-- MEMES:END -->
 
 --- 
 
