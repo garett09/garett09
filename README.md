@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most important piece found](http://9gag.com/gag/agoEXG6)
- - 🚯 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)
- - 🚯 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)<!-- MEMES:END -->
+ - 🚖 [She just wants some ice cream.. But is it even allowed in an arcade store?](http://9gag.com/gag/agoEXen)
+ - 🚯 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)
+ - 🚯 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)<!-- MEMES:END -->
 
 --- 
 
