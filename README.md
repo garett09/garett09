@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sony WF-1000XM4 are the reason I’m excited about the WF-1000XM5](https://www.androidauthority.com/sony-wf-1000xm5-upgrade-3335551/)
- - [Sources: Mark Zuckerberg is using Instagram to promote an edgier image to court the &quot;tech bros&quot; captivated by Elon Musk&#39;s online antagonism and offline antics &lpar;Washington Post&rpar;](http://www.techmeme.com/230624/p9#a230624p9)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-489-3338805/)<!-- TECH:END -->
+ - [Engwe M20 ebike review: Fewer adjustment capabilities with solid motor power](https://appleinsider.com/articles/23/06/24/engwe-m20-ebike-review-fewer-adjustment-capabilities-with-solid-motor-power?utm_medium=rss)
+ - [Academy squeezing out Apple TV+ movies with new Oscar rules](https://appleinsider.com/articles/23/06/24/academy-squeezing-out-apple-tv-movies-with-new-oscar-rules?utm_medium=rss)
+ - [The Sony WF-1000XM4 are the reason I’m excited about the WF-1000XM5](https://www.androidauthority.com/sony-wf-1000xm5-upgrade-3335551/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
