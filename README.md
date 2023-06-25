@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dev discloses Diablo 4&#39;s rarest unique items, what they are, and how to get them](https://www.pcgamer.com/dev-discloses-diablo-4s-rarest-unique-items-what-they-are-and-how-to-get-them)
- - [Oh, to be a little gecko crawling up some walls in this exploration platformer](https://www.pcgamer.com/oh-to-be-a-little-gecko-crawling-up-some-walls-in-this-exploration-platformer)
- - [The Metal Gear Solid: Master Collection popped up on Steam with a notice it wouldn&#39;t support mouse &amp; keyboard before disappearing a half hour later](https://www.pcgamer.com/the-metal-gear-solid-master-collection-popped-up-on-steam-with-a-notice-it-wouldnt-support-mouse-and-keyboard-before-disappearing-a-half-hour-later)<!-- GAME:END -->
+ - [Be a middle-manager in charge of hell&#39;s breaches in deckbuilding defense game Heretic&#39;s Fork](https://www.pcgamer.com/be-a-middle-manager-in-charge-of-hells-breaches-in-deckbuilding-defense-game-heretics-fork)
+ - [Afterlife, the &#39;Sim Hell&#39; game by LucasArts, was a sadly wasted opportunity](https://www.pcgamer.com/saturday-crapshoot-afterlife)
+ - [One of the best parts of Amnesia: The Bunker doesn&#39;t even involve its gruesome new monster](https://www.pcgamer.com/one-of-the-best-parts-of-amnesia-the-bunker-doesnt-even-involve-its-gruesome-new-monster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
