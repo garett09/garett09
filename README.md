@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They must have been psychic](http://9gag.com/gag/a2KL1Ed)
- - 🚯 [Title](http://9gag.com/gag/axoYBMp)
- - 🚯 [Lockpicking Lawyer humor for your weekend](http://9gag.com/gag/a5XqExG)<!-- MEMES:END -->
+ - 🚖 [Just wait for those \u201emum had an onlyfans\u201d kids](http://9gag.com/gag/aVbV0Nd)
+ - 🚯 [Guys wtf happened? The map was almost clean just 1 hour ago. Seems like a sudden full scale offensive right now](http://9gag.com/gag/aGEOpYz)
+ - 🚯 [The ultimate reverse card](http://9gag.com/gag/aL1d036)<!-- MEMES:END -->
 
 --- 
 
