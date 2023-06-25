@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remember](http://9gag.com/gag/avQdAbb)
- - 🚯 [Title](http://9gag.com/gag/axoYBMp)
- - 🚯 [Lockpicking Lawyer humor for your weekend](http://9gag.com/gag/a5XqExG)<!-- MEMES:END -->
+ - 🚖 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)
+ - 🚯 [Tin foil moment](http://9gag.com/gag/aeQ7bqq)
+ - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
 
 --- 
 
