@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many LastPass users say they&#39;ve been locked out of their accounts and can&#39;t access their vault after being asked to reset their authenticator apps in early May &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230624/p13#a230624p13)
  - [Formula E team caught using RFID scanner that could grab live tire data from other cars](https://www.theverge.com/2023/6/24/23772725/formula-e-ds-penske-rfid-tire-data-wireless-scanner)
- - [A survey of ~305 experts on their expectations for digital advances by 2035, like AI systems and smart eyewear and earbuds, and concerns over the darker sides &lpar;Pew Research Center&rpar;](http://www.techmeme.com/230624/p12#a230624p12)
- - [Goat Story Gina Smart review: not your average coffee maker](https://appleinsider.com/articles/23/06/24/goat-story-gina-smart-review-not-your-average-coffee-maker?utm_medium=rss)<!-- TECH:END -->
+ - [A survey of ~305 experts on their expectations for digital advances by 2035, like AI systems and smart eyewear and earbuds, and concerns over the darker sides &lpar;Pew Research Center&rpar;](http://www.techmeme.com/230624/p12#a230624p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
