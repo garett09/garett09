@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [\u201cSometimes, you just might find a little pocket of gravity\u201d - WTF lol](http://9gag.com/gag/awZYQ8r)
  - 🚯 [Tin foil moment](http://9gag.com/gag/aeQ7bqq)
- - 🚯 [Joey has good friends!](http://9gag.com/gag/ajVWE31)<!-- MEMES:END -->
+ - 🚯 [Richard?](http://9gag.com/gag/aOxRzOr)<!-- MEMES:END -->
 
 --- 
 
