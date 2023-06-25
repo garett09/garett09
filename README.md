@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just wait for those \u201emum had an onlyfans\u201d kids](http://9gag.com/gag/aVbV0Nd)
- - 🚯 [Guys wtf happened? The map was almost clean just 1 hour ago. Seems like a sudden full scale offensive right now](http://9gag.com/gag/aGEOpYz)
- - 🚯 [The ultimate reverse card](http://9gag.com/gag/aL1d036)<!-- MEMES:END -->
+ - 🚖 [Biggest bluff charge.](http://9gag.com/gag/aQEOomz)
+ - 🚯 [They must have been psychic](http://9gag.com/gag/a2KL1Ed)
+ - 🚯 [Title](http://9gag.com/gag/axoYBMp)<!-- MEMES:END -->
 
 --- 
 
