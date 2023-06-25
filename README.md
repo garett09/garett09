@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Anime action RPG Eternights is like a very horny Persona](https://www.pcgamer.com/anime-action-rpg-eternights-is-like-a-very-horny-persona)
  - [Be a middle-manager in charge of hell&#39;s breaches in deckbuilding defense game Heretic&#39;s Fork](https://www.pcgamer.com/be-a-middle-manager-in-charge-of-hells-breaches-in-deckbuilding-defense-game-heretics-fork)
- - [Afterlife, the &#39;Sim Hell&#39; game by LucasArts, was a sadly wasted opportunity](https://www.pcgamer.com/saturday-crapshoot-afterlife)
- - [One of the best parts of Amnesia: The Bunker doesn&#39;t even involve its gruesome new monster](https://www.pcgamer.com/one-of-the-best-parts-of-amnesia-the-bunker-doesnt-even-involve-its-gruesome-new-monster)<!-- GAME:END -->
+ - [Afterlife, the &#39;Sim Hell&#39; game by LucasArts, was a sadly wasted opportunity](https://www.pcgamer.com/saturday-crapshoot-afterlife)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
