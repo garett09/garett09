@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2.8 m titanium tank imploding. Source in comments](http://9gag.com/gag/avQd87d)
- - 🚯 [The ultimate reverse card](http://9gag.com/gag/aL1d036)
- - 🚯 [Guys wtf happened? The map was almost clean just 1 hour ago. Seems like a sudden full scale offensive right now](http://9gag.com/gag/aGEOpYz)<!-- MEMES:END -->
+ - 🚖 [One more lady boy](http://9gag.com/gag/aL1dgAV)
+ - 🚯 [Guys wtf happened? The map was almost clean just 1 hour ago. Seems like a sudden full scale offensive right now](http://9gag.com/gag/aGEOpYz)
+ - 🚯 [Most important piece found](http://9gag.com/gag/agoEXG6)<!-- MEMES:END -->
 
 --- 
 
