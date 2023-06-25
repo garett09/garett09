@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky publishes proposals for new moderation and safety tooling, focusing on user lists and reply controls for community-driven moderation, hashtags, and more &lpar;Bluesky&rpar;](http://www.techmeme.com/230625/p1#a230625p1)
- - [US law enforcement seized the clear web domain of BreachForums on June 22, after arresting the data leak site&#39;s alleged operator &quot;Pompompurin&quot; on March 15 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230624/p14#a230624p14)
- - [Many LastPass users say they&#39;ve been locked out of their accounts and can&#39;t access their vault after being asked to reset their authenticator apps in early May &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/230624/p13#a230624p13)<!-- TECH:END -->
+ - [A study of several EU countries finds the 2010s deep learning boom created job opportunities but says &quot;these results may not be extrapolated into the future&quot; &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/230625/p3#a230625p3)
+ - [Meet Pause AI, the Protest Group Campaigning Against Human Extinction](https://www.wired.com/story/pause-ai-existential-risk/)
+ - [FTC v. Microsoft: Phil Spencer says Xbox isn&#39;t a &quot;robust business&quot;, failing to meet internal targets, and the Activision deal is a way to expand into mobile &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230625/p2#a230625p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
