@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Warhammer 40,000 game, ranked](https://www.pcgamer.com/best-warhammer-40k-games)
- - [Today&#39;s Wordle hint and answer #736: Sunday, June 25](https://www.pcgamer.com/wordle-answer-today-hint-736-june-25)
- - [Anime action RPG Eternights is like a very horny Persona](https://www.pcgamer.com/anime-action-rpg-eternights-is-like-a-very-horny-persona)<!-- GAME:END -->
+ - [The best SFF books BookTok made me read](https://www.polygon.com/23768779/booktok-books-recommendations-sff-science-fiction-fantasy-list-tiktok)
+ - [Skyblivion team reveals roadmap to 2025 release, says quests and NPCs are done in &#39;around a third&#39; of the map but The Shivering Isles will have to wait](https://www.pcgamer.com/skyblivion-team-reveals-roadmap-to-2025-release-says-quests-and-npcs-are-done-in-around-a-third-of-the-map-but-the-shivering-isles-will-have-to-wait)
+ - [Every Warhammer 40,000 game, ranked](https://www.pcgamer.com/best-warhammer-40k-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
