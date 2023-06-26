@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One more lady boy](http://9gag.com/gag/aL1dgAV)
- - 🚯 [Guys wtf happened? The map was almost clean just 1 hour ago. Seems like a sudden full scale offensive right now](http://9gag.com/gag/aGEOpYz)
- - 🚯 [Most important piece found](http://9gag.com/gag/agoEXG6)<!-- MEMES:END -->
+ - 🚖 [Sucks that we are on ewansposting instead of businesses as usual.](http://9gag.com/gag/a8qK7je)
+ - 🚯 [Holysht!!!! Wtf!!](http://9gag.com/gag/ajVWOXg)
+ - 🚯 [Jelly](http://9gag.com/gag/aBdOLLO)<!-- MEMES:END -->
 
 --- 
 
