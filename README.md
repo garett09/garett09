@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best SFF books BookTok made me read](https://www.polygon.com/23768779/booktok-books-recommendations-sff-science-fiction-fantasy-list-tiktok)
- - [Skyblivion team reveals roadmap to 2025 release, says quests and NPCs are done in &#39;around a third&#39; of the map but The Shivering Isles will have to wait](https://www.pcgamer.com/skyblivion-team-reveals-roadmap-to-2025-release-says-quests-and-npcs-are-done-in-around-a-third-of-the-map-but-the-shivering-isles-will-have-to-wait)
- - [Every Warhammer 40,000 game, ranked](https://www.pcgamer.com/best-warhammer-40k-games)<!-- GAME:END -->
+ - [Game in Style with Exclusive “Barbie” Content for Xbox and Forza Horizon 5](https://news.xbox.com/en-us/2023/06/26/xbox-barbie/)
+ - [Netflix’s Witcher, an Idris Elba thriller, and all the new TV to watch this week](https://www.polygon.com/2023/6/26/23770084/new-tv-witcher-netflix-thriller-apple-idris-elba)
+ - [Hands-on with Payday 3&#39;s expanded stealth heisting, in which everything goes wrong](https://www.pcgamer.com/hands-on-with-payday-3s-expanded-stealth-heisting-in-which-everything-goes-wrong)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
