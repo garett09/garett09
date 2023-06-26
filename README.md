@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As TikTok CEO Shou Chew announces a five-year $10B investment in Indonesia, experts say competition and regulation have made TikTok vulnerable in Southeast Asia &lpar;Mercedes Ruehl/Financial Times&rpar;](http://www.techmeme.com/230625/p5#a230625p5)
- - [7 Best Pizza Ovens &lpar;2023&rpar;: Outdoor, Indoor, Gas, and Wood](https://www.wired.com/gallery/best-pizza-ovens/)
- - [Sabrent Thunderbolt 4 KVM Switch has 8K 60Hz support in a compact size](https://appleinsider.com/articles/23/06/25/sabrent-thunderbolt-4-kvm-switch-has-8k-60hz-support-in-a-compact-size?utm_medium=rss)<!-- TECH:END -->
+ - [The cheapest countries to buy a Google Pixel 7](https://www.androidauthority.com/cheapest-place-to-buy-google-pixel-7-3338369/)
+ - [&#39;Pikmin 4&#39; Is the Perfect Excuse to Chill Out and Stay In](https://www.wired.com/story/pikmin-4-nitendo-switch-preview/)
+ - [Best Air Fryers &lpar;2023&rpar;: Compact, Smart, Viewing Window](https://www.wired.com/gallery/best-air-fryers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
