@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game in Style with Exclusive “Barbie” Content for Xbox and Forza Horizon 5](https://news.xbox.com/en-us/2023/06/26/xbox-barbie/)
- - [Netflix’s Witcher, an Idris Elba thriller, and all the new TV to watch this week](https://www.polygon.com/2023/6/26/23770084/new-tv-witcher-netflix-thriller-apple-idris-elba)
- - [Hands-on with Payday 3&#39;s expanded stealth heisting, in which everything goes wrong](https://www.pcgamer.com/hands-on-with-payday-3s-expanded-stealth-heisting-in-which-everything-goes-wrong)<!-- GAME:END -->
+ - [The data suggests Britain&#39;s best years of electronics recycling are already behind it](https://www.pcgamer.com/uk-e-waste-recycling-trends)
+ - [Everybody 1-2-Switch! makes minigames massively multiplayer](https://www.polygon.com/23774290/everybody-1-2-switch-nintendo-preview-release-date)
+ - [I took on Corsair&#39;s new DIY iCue Link system just as any good PC builder would: with no instructions](https://www.pcgamer.com/i-took-on-corsairs-modular-icue-link-system-just-as-any-good-pc-builder-would-with-no-instructions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
