@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sucks that we are on ewansposting instead of businesses as usual.](http://9gag.com/gag/a8qK7je)
- - 🚯 [Holysht!!!! Wtf!!](http://9gag.com/gag/ajVWOXg)
- - 🚯 [Jelly](http://9gag.com/gag/aBdOLLO)<!-- MEMES:END -->
+ - 🚖 [This was one post i will never forget &lpar;26.09.2021&rpar;. Creeped and amazed me. I wonder what happend to that OP, are you still here and well?](http://9gag.com/gag/aREO49A)
+ - 🚯 [Putin assassination attempt](http://9gag.com/gag/aEqOonO)
+ - 🚯 [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)<!-- MEMES:END -->
 
 --- 
 
