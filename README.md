@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cheapest countries to buy a Google Pixel 7](https://www.androidauthority.com/cheapest-place-to-buy-google-pixel-7-3338369/)
- - [&#39;Pikmin 4&#39; Is the Perfect Excuse to Chill Out and Stay In](https://www.wired.com/story/pikmin-4-nitendo-switch-preview/)
- - [Best Air Fryers &lpar;2023&rpar;: Compact, Smart, Viewing Window](https://www.wired.com/gallery/best-air-fryers/)<!-- TECH:END -->
+ - [Israeli autonomous cloud security startup Cyera raised a $100M Series B led by Accel with Sequoia and others participating, a source says at a $500M valuation &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230627/p24#a230627p24)
+ - [Tired of adding ‘reddit’ to your web search? Google says this feature will help](https://www.androidauthority.com/google-search-reddit-query-3339552/)
+ - [The best Fourth of July deals you can already get](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
