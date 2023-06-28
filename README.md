@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This was one post i will never forget &lpar;26.09.2021&rpar;. Creeped and amazed me. I wonder what happend to that OP, are you still here and well?](http://9gag.com/gag/aREO49A)
- - 🚯 [Putin assassination attempt](http://9gag.com/gag/aEqOonO)
- - 🚯 [This is just a visual help that in Russia you are fighting against two evils. Putin and Pirogin.](http://9gag.com/gag/aWGDnyA)<!-- MEMES:END -->
+ - 🚖 [If you know her, your childhood was great.](http://9gag.com/gag/aEqOXdO)
+ - 🚯 [Detroit ftw](http://9gag.com/gag/az2YYQb)
+ - 🚯 [When you carve your fiance name at the Colosseum to be romantic and now you&#39;re a wanted person](http://9gag.com/gag/a7qppRq)<!-- MEMES:END -->
 
 --- 
 
