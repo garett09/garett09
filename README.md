@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli autonomous cloud security startup Cyera raised a $100M Series B led by Accel with Sequoia and others participating, a source says at a $500M valuation &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/230627/p24#a230627p24)
- - [Tired of adding ‘reddit’ to your web search? Google says this feature will help](https://www.androidauthority.com/google-search-reddit-query-3339552/)
- - [The best Fourth of July deals you can already get](https://www.theverge.com/23774018/july-4th-best-sales-2023-tech-laptops-tvs-robot-vacuums-smarwatches-deals)<!-- TECH:END -->
+ - [Public cloud infrastructure startup Fly.io, which operates data centers in 37 regions globally, raised a $110M Series C led by EQT at a $467M valuation &lpar;Kwaku Gyasi/Bloomberg&rpar;](http://www.techmeme.com/230628/p16#a230628p16)
+ - [Sony’s WH-1000XM5 headphones are more than $80 off right now](https://www.theverge.com/2023/6/28/23775857/sony-wh-1000xm5-headphones-google-nest-learning-thermostat-paramount-plus-streaming-deal-sale)
+ - [What Android&#39;s AirTag tracker app will look like](https://appleinsider.com/articles/23/06/28/what-androids-airtag-tracker-app-will-look-like?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
