@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The data suggests Britain&#39;s best years of electronics recycling are already behind it](https://www.pcgamer.com/uk-e-waste-recycling-trends)
- - [Everybody 1-2-Switch! makes minigames massively multiplayer](https://www.polygon.com/23774290/everybody-1-2-switch-nintendo-preview-release-date)
- - [I took on Corsair&#39;s new DIY iCue Link system just as any good PC builder would: with no instructions](https://www.pcgamer.com/i-took-on-corsairs-modular-icue-link-system-just-as-any-good-pc-builder-would-with-no-instructions)<!-- GAME:END -->
+ - [Gran Turismo 7 Update 1.35 adds 3 exciting new cars, GT Café Menus, and more – out today](https://blog.playstation.com/2023/06/28/gran-turismo-7-update-1-35-adds-3-exciting-new-cars-gt-cafe-menus-and-more-out-today/)
+ - [Nvidia GeForce RTX 4060](https://www.pcgamer.com/nvidia-geforce-rtx-4060-review-benchmarks-performance)
+ - [Ex-Riot Games, Bungie, and Blizzard devs reveal Project Loki, a MOBA with a ‘shooter soul’](https://www.polygon.com/23776098/project-loki-theorycraft-games-pc-playtest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
