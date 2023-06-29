@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7 Update 1.35 adds 3 exciting new cars, GT Café Menus, and more – out today](https://blog.playstation.com/2023/06/28/gran-turismo-7-update-1-35-adds-3-exciting-new-cars-gt-cafe-menus-and-more-out-today/)
- - [Nvidia GeForce RTX 4060](https://www.pcgamer.com/nvidia-geforce-rtx-4060-review-benchmarks-performance)
- - [Ex-Riot Games, Bungie, and Blizzard devs reveal Project Loki, a MOBA with a ‘shooter soul’](https://www.polygon.com/23776098/project-loki-theorycraft-games-pc-playtest)<!-- GAME:END -->
+ - [The best gaming laptops](https://www.polygon.com/what-to-buy/23773912/best-gaming-laptop)
+ - [10 Things You Should Never Say To A PC Gamer](https://kotaku.com/pc-gaming-steam-valve-ps5-xbox-switch-console-best-4k-1850590256)
+ - [Cities: Skylines 2 has no cap on the number of people it can track, and it&#39;s basically the Matrix](https://www.pcgamer.com/cities-skylines-2-has-no-cap-on-the-number-of-people-it-can-track-and-its-basically-the-matrix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
