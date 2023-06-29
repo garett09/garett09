@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know her, your childhood was great.](http://9gag.com/gag/aEqOXdO)
- - 🚯 [Detroit ftw](http://9gag.com/gag/az2YYQb)
- - 🚯 [When you carve your fiance name at the Colosseum to be romantic and now you&#39;re a wanted person](http://9gag.com/gag/a7qppRq)<!-- MEMES:END -->
+ - 🚖 [Curie-ous](http://9gag.com/gag/a8qK2vZ)
+ - 🚯 [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)
+ - 🚯 [Why on earth do these celebrities think this kind of plastic surgery is attractive? On which alien planet?](http://9gag.com/gag/a8qKzW1)<!-- MEMES:END -->
 
 --- 
 
