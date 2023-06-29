@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Public cloud infrastructure startup Fly.io, which operates data centers in 37 regions globally, raised a $110M Series C led by EQT at a $467M valuation &lpar;Kwaku Gyasi/Bloomberg&rpar;](http://www.techmeme.com/230628/p16#a230628p16)
- - [Sony’s WH-1000XM5 headphones are more than $80 off right now](https://www.theverge.com/2023/6/28/23775857/sony-wh-1000xm5-headphones-google-nest-learning-thermostat-paramount-plus-streaming-deal-sale)
- - [What Android&#39;s AirTag tracker app will look like](https://appleinsider.com/articles/23/06/28/what-androids-airtag-tracker-app-will-look-like?utm_medium=rss)<!-- TECH:END -->
+ - [Inflection AI, a startup led by ex-DeepMind leader Mustafa Suleyman that released its Pi chatbot in May 2023, raised $1.3B, a source says at a $4B valuation &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230629/p25#a230629p25)
+ - [NYC-based Runway AI, which lets customers generate videos from text prompts, raised $141M from Google, Nvidia, and others, taking its total funding to ~$237M &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230629/p24#a230629p24)
+ - [Can you win a Senate race without a single tweet?](https://www.theverge.com/2023/6/29/23777675/lexi-reese-elon-musk-twitter-senate-california)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
