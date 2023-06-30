@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inflection AI, a startup led by ex-DeepMind leader Mustafa Suleyman that released its Pi chatbot in May 2023, raised $1.3B, a source says at a $4B valuation &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/230629/p25#a230629p25)
- - [NYC-based Runway AI, which lets customers generate videos from text prompts, raised $141M from Google, Nvidia, and others, taking its total funding to ~$237M &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/230629/p24#a230629p24)
- - [Can you win a Senate race without a single tweet?](https://www.theverge.com/2023/6/29/23777675/lexi-reese-elon-musk-twitter-senate-california)<!-- TECH:END -->
+ - [Silver Lake says it has acquired over 63% of shares in business software developer Software AG for &amp;euro;2.4B and plans to delist the company as soon as possible &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230630/p14#a230630p14)
+ - [Apple Vision Pro details, iPhone 15 Pro cases leak, and Apple&#39;s product roadmap](https://appleinsider.com/articles/23/06/30/apple-vision-pro-details-iphone-15-pro-cases-leak-and-apples-product-roadmap?utm_medium=rss)
+ - [Switching phone carriers: How hard is it, and can you keep your existing phone?](https://www.androidauthority.com/switching-phone-carriers-3340511/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
