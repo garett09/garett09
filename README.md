@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Curie-ous](http://9gag.com/gag/a8qK2vZ)
- - 🚯 [They dont ever go see a dentist..](http://9gag.com/gag/aPg1pDR)
- - 🚯 [Why on earth do these celebrities think this kind of plastic surgery is attractive? On which alien planet?](http://9gag.com/gag/a8qKzW1)<!-- MEMES:END -->
+ - 🚖 [Holly Earl boosting your spirit](http://9gag.com/gag/a3ZbzG3)
+ - 🚯 [There&#39;s always a price, what&#39;s yours?](http://9gag.com/gag/aREOR8B)
+ - 🚯 [Hold up a sec...](http://9gag.com/gag/a8qKv13)<!-- MEMES:END -->
 
 --- 
 
