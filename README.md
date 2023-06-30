@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming laptops](https://www.polygon.com/what-to-buy/23773912/best-gaming-laptop)
- - [10 Things You Should Never Say To A PC Gamer](https://kotaku.com/pc-gaming-steam-valve-ps5-xbox-switch-console-best-4k-1850590256)
- - [Cities: Skylines 2 has no cap on the number of people it can track, and it&#39;s basically the Matrix](https://www.pcgamer.com/cities-skylines-2-has-no-cap-on-the-number-of-people-it-can-track-and-its-basically-the-matrix)<!-- GAME:END -->
+ - [Warrior producers talk ‘bolder’ season 3 with a new action star, new network](https://www.polygon.com/23778565/warrior-season-3-max-hbo-move-cinemax-mark-dacascos-cast)
+ - [Review: The Makers Of Danganronpa Are Back With Another Mystery Banger](https://kotaku.com/master-detective-archives-switch-review-danganronpa-1850592843)
+ - [Psychonauts creator Tim Schafer says he&#39;s never read anything that was &#39;meaningful, important or worthwhile&#39; created by AI](https://www.pcgamer.com/psychonauts-creator-tim-schafer-says-hes-never-read-anything-that-was-meaningful-important-or-worthwhile-created-by-ai)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
