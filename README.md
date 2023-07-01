@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silver Lake says it has acquired over 63% of shares in business software developer Software AG for &amp;euro;2.4B and plans to delist the company as soon as possible &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/230630/p14#a230630p14)
- - [Apple Vision Pro details, iPhone 15 Pro cases leak, and Apple&#39;s product roadmap](https://appleinsider.com/articles/23/06/30/apple-vision-pro-details-iphone-15-pro-cases-leak-and-apples-product-roadmap?utm_medium=rss)
- - [Switching phone carriers: How hard is it, and can you keep your existing phone?](https://www.androidauthority.com/switching-phone-carriers-3340511/)<!-- TECH:END -->
+ - [Best Curling Irons &lpar;2023&rpar;: Tongs, Wands, Hot Brushes](https://www.wired.com/gallery/best-curling-irons/)
+ - [Best Blenders &lpar;2023&rpar;: Jug, Hand, Immersion](https://www.wired.com/gallery/best-blenders/)
+ - [Security News This Week: Cyberstalkers Win First Amendment Victory in the US Supreme Court](https://www.wired.com/story/cyberstalking-first-amendment-us-supreme-court-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
