@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warrior producers talk ‘bolder’ season 3 with a new action star, new network](https://www.polygon.com/23778565/warrior-season-3-max-hbo-move-cinemax-mark-dacascos-cast)
- - [Review: The Makers Of Danganronpa Are Back With Another Mystery Banger](https://kotaku.com/master-detective-archives-switch-review-danganronpa-1850592843)
- - [Psychonauts creator Tim Schafer says he&#39;s never read anything that was &#39;meaningful, important or worthwhile&#39; created by AI](https://www.pcgamer.com/psychonauts-creator-tim-schafer-says-hes-never-read-anything-that-was-meaningful-important-or-worthwhile-created-by-ai)<!-- GAME:END -->
+ - [All the big new games coming out in July](https://www.polygon.com/23778900/new-video-games-july-2023-release-dates)
+ - [The 7 best movies new to streaming on Netflix, Max, Prime Video, and Hulu &lpar;July 2023&rpar;](https://www.polygon.com/what-to-watch/2023/7/1/23774149/best-new-movies-netflix-amazon-prime-hbo-max-hulu-july-2023)
+ - [Homeworld 3 brazenly flouts RTS tradition with units that talk to each other instead of you, their esteemed invisible commander](https://www.pcgamer.com/homeworld-3-chatter-design-barks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
