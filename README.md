@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holly Earl boosting your spirit](http://9gag.com/gag/a3ZbzG3)
- - 🚯 [There&#39;s always a price, what&#39;s yours?](http://9gag.com/gag/aREOR8B)
- - 🚯 [Hold up a sec...](http://9gag.com/gag/a8qKv13)<!-- MEMES:END -->
+ - 🚖 [Goblin Mode](http://9gag.com/gag/aVbV8En)
+ - 🚯 [A true madlad](http://9gag.com/gag/aQEONW2)
+ - 🚯 [Are you serious? why they don&#39;t create their own beauty pageants in Africa](http://9gag.com/gag/aNwOGq3)<!-- MEMES:END -->
 
 --- 
 
