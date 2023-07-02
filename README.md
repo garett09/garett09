@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Goblin Mode](http://9gag.com/gag/aVbV8En)
- - 🚯 [A true madlad](http://9gag.com/gag/aQEONW2)
- - 🚯 [Are you serious? why they don&#39;t create their own beauty pageants in Africa](http://9gag.com/gag/aNwOGq3)<!-- MEMES:END -->
+ - 🚖 [Why?](http://9gag.com/gag/ap9Y4y9)
+ - 🚯 [What the hell even is this?](http://9gag.com/gag/a3ZbO0N)
+ - 🚯 [Wow](http://9gag.com/gag/aZDz64W)<!-- MEMES:END -->
 
 --- 
 
