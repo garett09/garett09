@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Curling Irons &lpar;2023&rpar;: Tongs, Wands, Hot Brushes](https://www.wired.com/gallery/best-curling-irons/)
- - [Best Blenders &lpar;2023&rpar;: Jug, Hand, Immersion](https://www.wired.com/gallery/best-blenders/)
- - [Security News This Week: Cyberstalkers Win First Amendment Victory in the US Supreme Court](https://www.wired.com/story/cyberstalking-first-amendment-us-supreme-court-security-roundup/)<!-- TECH:END -->
+ - [USB-C AirPods Pro 2 may test your hearing too](https://appleinsider.com/articles/23/07/02/usb-c-equipped-airpods-pro-2-may-test-your-hearing-too?utm_medium=rss)
+ - [Apple’s next AirPods Pro may check your hearing health and take your temperature](https://www.theverge.com/2023/7/2/23781756/apples-next-airpods-pro-may-check-your-hearing-health-and-take-your-temperature)
+ - [Forget the Pixel’s Magic Eraser, I now use Photoshop’s AI instead](https://www.androidauthority.com/pixel-magic-eraser-vs-photoshop-generative-ai-3339735/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
