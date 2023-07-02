@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the big new games coming out in July](https://www.polygon.com/23778900/new-video-games-july-2023-release-dates)
- - [The 7 best movies new to streaming on Netflix, Max, Prime Video, and Hulu &lpar;July 2023&rpar;](https://www.polygon.com/what-to-watch/2023/7/1/23774149/best-new-movies-netflix-amazon-prime-hbo-max-hulu-july-2023)
- - [Homeworld 3 brazenly flouts RTS tradition with units that talk to each other instead of you, their esteemed invisible commander](https://www.pcgamer.com/homeworld-3-chatter-design-barks)<!-- GAME:END -->
+ - [The best advice we’re taking from movies this summer](https://www.polygon.com/23775708/summer-movies-advice-outfits-inspiration)
+ - [CS:GO ban wave results in over $2 million worth of skins and other items being lost](https://www.pcgamer.com/csgo-ban-wave-results-in-over-dollar2-million-worth-of-skins-and-other-items-being-lost)
+ - [Today&#39;s Wordle hint and answer #743: Sunday, July 2](https://www.pcgamer.com/wordle-answer-today-hint-743-july-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
