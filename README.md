@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why?](http://9gag.com/gag/ap9Y4y9)
- - 🚯 [What the hell even is this?](http://9gag.com/gag/a3ZbO0N)
- - 🚯 [Wow](http://9gag.com/gag/aZDz64W)<!-- MEMES:END -->
+ - 🚖 [I freaking hate summer](http://9gag.com/gag/ay2YyPp)
+ - 🚯 [Mondayyyyy](http://9gag.com/gag/avQdYnq)
+ - 🚯 [Ladies and Gentlemen, they\u2019ve got him.](http://9gag.com/gag/aL1W6QP)<!-- MEMES:END -->
 
 --- 
 
