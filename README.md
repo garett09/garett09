@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best advice we’re taking from movies this summer](https://www.polygon.com/23775708/summer-movies-advice-outfits-inspiration)
- - [CS:GO ban wave results in over $2 million worth of skins and other items being lost](https://www.pcgamer.com/csgo-ban-wave-results-in-over-dollar2-million-worth-of-skins-and-other-items-being-lost)
- - [Today&#39;s Wordle hint and answer #743: Sunday, July 2](https://www.pcgamer.com/wordle-answer-today-hint-743-july-2)<!-- GAME:END -->
+ - [The 10-minute supercut of Tom Cruise running in Mission: Impossible movies is joy](https://www.polygon.com/23780290/tom-cruise-mission-impossible-supercut-running)
+ - [Bungie weighs in on the current argument raging through the Destiny 2 lore community: Has the Witness been retconned?](https://www.pcgamer.com/bungie-weighs-in-on-the-current-argument-raging-through-the-destiny-2-lore-community-has-the-witness-been-retconned)
+ - [Why is Destiny 2&#39;s latest dungeon so hard? In part because the Root of Nightmares raid was so easy](https://www.pcgamer.com/why-is-destiny-2s-latest-dungeon-so-hard-in-part-because-the-root-of-nightmares-raid-was-so-easy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
