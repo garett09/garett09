@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [USB-C AirPods Pro 2 may test your hearing too](https://appleinsider.com/articles/23/07/02/usb-c-equipped-airpods-pro-2-may-test-your-hearing-too?utm_medium=rss)
- - [Apple’s next AirPods Pro may check your hearing health and take your temperature](https://www.theverge.com/2023/7/2/23781756/apples-next-airpods-pro-may-check-your-hearing-health-and-take-your-temperature)
- - [Forget the Pixel’s Magic Eraser, I now use Photoshop’s AI instead](https://www.androidauthority.com/pixel-magic-eraser-vs-photoshop-generative-ai-3339735/)<!-- TECH:END -->
+ - [Unannounced Eve AirPlay adapter, new Nanoleaf lights, &amp; more smart home news](https://appleinsider.com/articles/23/07/03/unannounced-eve-airplay-adapter-new-nanoleaf-lights-more-smart-home-news?utm_medium=rss)
+ - [Coconut Point Apple Store renovation may grow tiniest store](https://appleinsider.com/articles/23/07/03/coconut-point-apple-store-renovation-may-grow-tiniest-store?utm_medium=rss)
+ - [Sources: Meta held talks with Tencent and other Chinese tech companies on selling the Quest in China, but Mark Zuckerberg&#39;s China comments may cause issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230703/p8#a230703p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
