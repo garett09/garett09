@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10-minute supercut of Tom Cruise running in Mission: Impossible movies is joy](https://www.polygon.com/23780290/tom-cruise-mission-impossible-supercut-running)
- - [Bungie weighs in on the current argument raging through the Destiny 2 lore community: Has the Witness been retconned?](https://www.pcgamer.com/bungie-weighs-in-on-the-current-argument-raging-through-the-destiny-2-lore-community-has-the-witness-been-retconned)
- - [Why is Destiny 2&#39;s latest dungeon so hard? In part because the Root of Nightmares raid was so easy](https://www.pcgamer.com/why-is-destiny-2s-latest-dungeon-so-hard-in-part-because-the-root-of-nightmares-raid-was-so-easy)<!-- GAME:END -->
+ - [The best gaming monitors](https://www.polygon.com/what-to-buy/23776092/best-gaming-monitor-4k-1440p-1080p)
+ - [10 Games That Have Something Meaningful To Say About America](https://kotaku.com/video-games-america-fallout-cyberpunk-animal-crossing-1850602446)
+ - [Valve doesn’t have a problem with AI-generated games, but the law might](https://www.polygon.com/ai-artificial-intelligence/23783520/steam-valve-ai-content-policy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
