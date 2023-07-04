@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unannounced Eve AirPlay adapter, new Nanoleaf lights, &amp; more smart home news](https://appleinsider.com/articles/23/07/03/unannounced-eve-airplay-adapter-new-nanoleaf-lights-more-smart-home-news?utm_medium=rss)
- - [Coconut Point Apple Store renovation may grow tiniest store](https://appleinsider.com/articles/23/07/03/coconut-point-apple-store-renovation-may-grow-tiniest-store?utm_medium=rss)
- - [Sources: Meta held talks with Tencent and other Chinese tech companies on selling the Quest in China, but Mark Zuckerberg&#39;s China comments may cause issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230703/p8#a230703p8)<!-- TECH:END -->
+ - [The 3 Best Smart Displays &lpar;2023&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
+ - [iPhone 15 rumored to get much bigger batteries](https://appleinsider.com/articles/23/07/04/iphone-15-battery-rumored-to-get-much-bigger-batteries?utm_medium=rss)
+ - [How SoftBank is playing catch-up despite focusing on AI since 2018; PitchBook says the firm invested in just one of the 26 generative AI startups valued at $1B+ &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/230704/p13#a230704p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
