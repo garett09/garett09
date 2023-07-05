@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming monitors](https://www.polygon.com/what-to-buy/23776092/best-gaming-monitor-4k-1440p-1080p)
- - [10 Games That Have Something Meaningful To Say About America](https://kotaku.com/video-games-america-fallout-cyberpunk-animal-crossing-1850602446)
- - [Valve doesn’t have a problem with AI-generated games, but the law might](https://www.polygon.com/ai-artificial-intelligence/23783520/steam-valve-ai-content-policy)<!-- GAME:END -->
+ - [PixelJunk Eden 2 swings onto PlayStation 5](https://blog.playstation.com/2023/07/05/pixeljunk-eden-2-swings-onto-playstation-5/)
+ - [Coming to Xbox Game Pass: Exoprimal, Grand Theft Auto V, Techtonica, and More](https://news.xbox.com/en-us/2023/07/05/game-pass-july-2023-wave-1-announce/)
+ - [Indiana Jones: Sands of Adventure turns Raiders of the Lost Ark into a raucous party game](https://www.polygon.com/23771818/indiana-jones-sands-of-adventure-board-game-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
