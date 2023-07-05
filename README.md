@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I freaking hate summer](http://9gag.com/gag/ay2YyPp)
- - 🚯 [Oh vey! Just why?](http://9gag.com/gag/avQd3xE)
- - 🚯 [Israeli atrocities by a Jewish professor](http://9gag.com/gag/aYVAzy7)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t stick your dick in crazy! Tell us your crazy ex story.](http://9gag.com/gag/anzGBmn)
+ - 🚯 [Goddammit&#39; Give these WHITES some of your reparations ---](http://9gag.com/gag/aBd4YdQ)
+ - 🚯 [Me enjoying my meaningless life](http://9gag.com/gag/avQ9Pgq)<!-- MEMES:END -->
 
 --- 
 
