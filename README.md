@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 3 Best Smart Displays &lpar;2023&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
- - [iPhone 15 rumored to get much bigger batteries](https://appleinsider.com/articles/23/07/04/iphone-15-battery-rumored-to-get-much-bigger-batteries?utm_medium=rss)
- - [How SoftBank is playing catch-up despite focusing on AI since 2018; PitchBook says the firm invested in just one of the 26 generative AI startups valued at $1B+ &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/230704/p13#a230704p13)<!-- TECH:END -->
+ - [Apple Vision Pro research and early work was hidden in plain sight](https://appleinsider.com/articles/23/07/05/apple-vision-pro-research-and-early-work-was-hidden-in-plain-sight?utm_medium=rss)
+ - [Fairphone and Murena partner to launch the modular Fairphone 4 in the US for $599+, running the Google-free /e/ OS instead of Android OS, available unlocked &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230705/p13#a230705p13)
+ - [Daily deals July 5: $114 off Apple Watch Ultra, $50 off AirPods Pro, $100 off M2 MacBook Air, more](https://appleinsider.com/articles/23/07/05/daily-deals-july-5-114-off-apple-watch-ultra-50-off-airpods-pro-100-off-m2-macbook-air-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
