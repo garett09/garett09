@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PixelJunk Eden 2 swings onto PlayStation 5](https://blog.playstation.com/2023/07/05/pixeljunk-eden-2-swings-onto-playstation-5/)
- - [Coming to Xbox Game Pass: Exoprimal, Grand Theft Auto V, Techtonica, and More](https://news.xbox.com/en-us/2023/07/05/game-pass-july-2023-wave-1-announce/)
- - [Indiana Jones: Sands of Adventure turns Raiders of the Lost Ark into a raucous party game](https://www.polygon.com/23771818/indiana-jones-sands-of-adventure-board-game-review)<!-- GAME:END -->
+ - [Peter Molyneux returns promising not to hype his next game, before hyping the game](https://www.pcgamer.com/peter-molyneux-returns-promising-not-to-hype-his-next-game-before-hyping-the-game)
+ - [In defense of Indiana Jones’ monkey chase scene](https://www.polygon.com/23775406/indiana-jones-crystal-skull-monkey-chase-bananas)
+ - [I watched my school descend into an OG Battle Royale situation in this Japanese academic management sim](https://www.pcgamer.com/i-watched-my-school-descend-into-an-og-battle-royale-situation-in-this-japanese-academic-management-sim)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
