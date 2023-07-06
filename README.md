@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro research and early work was hidden in plain sight](https://appleinsider.com/articles/23/07/05/apple-vision-pro-research-and-early-work-was-hidden-in-plain-sight?utm_medium=rss)
- - [Fairphone and Murena partner to launch the modular Fairphone 4 in the US for $599+, running the Google-free /e/ OS instead of Android OS, available unlocked &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230705/p13#a230705p13)
- - [Daily deals July 5: $114 off Apple Watch Ultra, $50 off AirPods Pro, $100 off M2 MacBook Air, more](https://appleinsider.com/articles/23/07/05/daily-deals-july-5-114-off-apple-watch-ultra-50-off-airpods-pro-100-off-m2-macbook-air-more?utm_medium=rss)<!-- TECH:END -->
+ - [This might be the OnePlus Fold’s actual name](https://www.androidauthority.com/oneplus-fold-open-name-3342983/)
+ - [Samsung’s Galaxy Watch 5 has dropped to a new all-time low](https://www.theverge.com/good-deals/2023/7/6/23784295/samsung-galaxy-watch-5-tears-of-the-kingdom-apple-macbook-air-deal-sale)
+ - [A look at a National Defense Authorization Act amendment, which if passed would forbid US government agencies from buying citizens&#39; search histories and more &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/230706/p18#a230706p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
