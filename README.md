@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t stick your dick in crazy! Tell us your crazy ex story.](http://9gag.com/gag/anzGBmn)
- - 🚯 [Goddammit&#39; Give these WHITES some of your reparations ---](http://9gag.com/gag/aBd4YdQ)
- - 🚯 [Me enjoying my meaningless life](http://9gag.com/gag/avQ9Pgq)<!-- MEMES:END -->
+ - 🚖 [My everyday life](http://9gag.com/gag/aBd417x)
+ - 🚯 [Bro lied on his resume](http://9gag.com/gag/aoKn2rX)
+ - 🚯 [Common insufferable German out in the wild](http://9gag.com/gag/aVbRDxw)<!-- MEMES:END -->
 
 --- 
 
