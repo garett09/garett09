@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My everyday life](http://9gag.com/gag/aBd417x)
- - 🚯 [Bro lied on his resume](http://9gag.com/gag/aoKn2rX)
- - 🚯 [Common insufferable German out in the wild](http://9gag.com/gag/aVbRDxw)<!-- MEMES:END -->
+ - 🚖 [Added to playlist](http://9gag.com/gag/aYVR49m)
+ - 🚯 [You only had one job](http://9gag.com/gag/a8qVpX3)
+ - 🚯 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)<!-- MEMES:END -->
 
 --- 
 
