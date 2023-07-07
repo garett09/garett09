@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This might be the OnePlus Fold’s actual name](https://www.androidauthority.com/oneplus-fold-open-name-3342983/)
- - [Samsung’s Galaxy Watch 5 has dropped to a new all-time low](https://www.theverge.com/good-deals/2023/7/6/23784295/samsung-galaxy-watch-5-tears-of-the-kingdom-apple-macbook-air-deal-sale)
- - [A look at a National Defense Authorization Act amendment, which if passed would forbid US government agencies from buying citizens&#39; search histories and more &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/230706/p18#a230706p18)<!-- TECH:END -->
+ - [Apple Music didn&#39;t ban track over Vision Pro parody, admits artist](https://appleinsider.com/articles/23/07/07/apple-music-didnt-ban-track-over-vision-pro-parody-admits-artist?utm_medium=rss)
+ - [Amazon’s colorful Echo Pop is on sale for just $17.99 ahead of Prime Day](https://www.theverge.com/2023/7/7/23786249/amazon-echo-pop-speaker-prie-day-roomba-sony-dualsense-deal-sale)
+ - [People&#39;s Bank of China fines Ant Group ~$984M for violations in payment, settlement, anti-money laundering, and fund sales businesses, ending a years-long probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/230707/p11#a230707p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
