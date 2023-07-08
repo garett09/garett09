@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music didn&#39;t ban track over Vision Pro parody, admits artist](https://appleinsider.com/articles/23/07/07/apple-music-didnt-ban-track-over-vision-pro-parody-admits-artist?utm_medium=rss)
- - [Amazon’s colorful Echo Pop is on sale for just $17.99 ahead of Prime Day](https://www.theverge.com/2023/7/7/23786249/amazon-echo-pop-speaker-prie-day-roomba-sony-dualsense-deal-sale)
- - [People&#39;s Bank of China fines Ant Group ~$984M for violations in payment, settlement, anti-money laundering, and fund sales businesses, ending a years-long probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/230707/p11#a230707p11)<!-- TECH:END -->
+ - [8 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS 3, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [Russia’s Notorious Troll Farm Disbands](https://www.wired.com/story/russia-internet-research-agency-disbands/)
+ - [How to run games on a Chromebook](https://www.theverge.com/23786958/chromebook-chrome-gaming-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
