@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Added to playlist](http://9gag.com/gag/aYVR49m)
- - 🚯 [You only had one job](http://9gag.com/gag/a8qVpX3)
- - 🚯 [Passport Bros, stay away from western women](http://9gag.com/gag/aqeD1PL)<!-- MEMES:END -->
+ - 🚖 [Fasted poop ever.](http://9gag.com/gag/a1POW0w)
+ - 🚯 [Wayment, holup, something ain&#39;t right](http://9gag.com/gag/a04OR5B)
+ - 🚯 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)<!-- MEMES:END -->
 
 --- 
 
