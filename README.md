@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overeager Starfield fans are collaging starships with trailer cutouts and photoshop](https://www.pcgamer.com/overeager-starfield-fans-are-collaging-starships-with-trailer-cutouts-and-photoshop)
- - [MLB The Show 23 Season 3 brings All-Star content and rewards, live today](https://blog.playstation.com/2023/07/07/mlb-the-show-23-season-3-brings-all-star-content-and-rewards-live-today/)
- - [The Final Content Pack For Sniper Elite 5, Kraken Awakes, Is Available Today](https://news.xbox.com/en-us/2023/07/07/the-final-content-pack-for-sniper-elite-5-kraken-awakes-is-available-today/)<!-- GAME:END -->
+ - [The 5 best thrillers to watch on Netflix this July](https://www.polygon.com/what-to-watch/2023/7/8/23780340/best-thriller-movies-netflix-watch-july-2023)
+ - [All Honkai: Star Rail 1.2 livestream codes](https://www.pcgamer.com/honkai-star-rail-1-2-livestream-codes)
+ - [Today&#39;s Wordle hint and answer #749: Saturday, July 8](https://www.pcgamer.com/wordle-answer-today-hint-749-july-8)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
