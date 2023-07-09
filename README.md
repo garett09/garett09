@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best thrillers to watch on Netflix this July](https://www.polygon.com/what-to-watch/2023/7/8/23780340/best-thriller-movies-netflix-watch-july-2023)
- - [All Honkai: Star Rail 1.2 livestream codes](https://www.pcgamer.com/honkai-star-rail-1-2-livestream-codes)
- - [Today&#39;s Wordle hint and answer #749: Saturday, July 8](https://www.pcgamer.com/wordle-answer-today-hint-749-july-8)<!-- GAME:END -->
+ - [The best comics to read on the beach in 2023](https://www.polygon.com/23780514/best-beach-reading-comics-summer-2023)
+ - [Why I love innocuous settings in horror games](https://www.pcgamer.com/why-i-love-innocuous-settings-in-horror-games)
+ - [Jagged Alliance 3 will have mod support and co-op, thank goodness](https://www.pcgamer.com/jagged-alliance-3-will-have-mod-support-and-co-op)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
