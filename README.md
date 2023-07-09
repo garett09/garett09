@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fasted poop ever.](http://9gag.com/gag/a1POW0w)
- - 🚯 [Wayment, holup, something ain&#39;t right](http://9gag.com/gag/a04OR5B)
- - 🚯 [Ah Yeah, Another `I Gonna Save it For Later` Again](http://9gag.com/gag/abvRGEX)<!-- MEMES:END -->
+ - 🚖 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
+ - 🚯 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
+ - 🚯 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)<!-- MEMES:END -->
 
 --- 
 
