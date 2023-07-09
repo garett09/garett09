@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS 3, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Russia’s Notorious Troll Farm Disbands](https://www.wired.com/story/russia-internet-research-agency-disbands/)
- - [How to run games on a Chromebook](https://www.theverge.com/23786958/chromebook-chrome-gaming-how-to)<!-- TECH:END -->
+ - [9 Best TVs We&#39;ve Tested &lpar;2023&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)
+ - [12 Best Laptops &lpar;2023&rpar;: MacBooks, Windows, Chromebooks](https://www.wired.com/gallery/best-laptops/)
+ - [My kids love Furby — send help](https://www.theverge.com/2023/7/9/23779280/furby-2023-review-purple-robot-toy-english)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
