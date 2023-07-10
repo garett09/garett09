@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best TVs We&#39;ve Tested &lpar;2023&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)
- - [12 Best Laptops &lpar;2023&rpar;: MacBooks, Windows, Chromebooks](https://www.wired.com/gallery/best-laptops/)
- - [My kids love Furby — send help](https://www.theverge.com/2023/7/9/23779280/furby-2023-review-purple-robot-toy-english)<!-- TECH:END -->
+ - [EA is making a single-player Black Panther game](https://www.theverge.com/2023/7/10/23787287/ea-black-panther-game-single-player)
+ - [Aqara P2 Thread sensor &amp; new home automation gear on the HomeKit Insider podcast](https://appleinsider.com/articles/23/07/10/aqara-p2-thread-sensor-new-home-automation-gear-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
