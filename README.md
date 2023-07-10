@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best comics to read on the beach in 2023](https://www.polygon.com/23780514/best-beach-reading-comics-summer-2023)
- - [Why I love innocuous settings in horror games](https://www.pcgamer.com/why-i-love-innocuous-settings-in-horror-games)
- - [Jagged Alliance 3 will have mod support and co-op, thank goodness](https://www.pcgamer.com/jagged-alliance-3-will-have-mod-support-and-co-op)<!-- GAME:END -->
+ - [The best accessories for your Xbox Series X](https://www.polygon.com/what-to-buy/23604803/best-xbox-series-x-s-accessories)
+ - [The best controllers for PC gaming](https://www.polygon.com/what-to-buy/23658092/best-controllers-pc-gaming)
+ - [The best TV streaming devices](https://www.polygon.com/what-to-buy/23667894/best-tv-streaming-devices-sticks-boxes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
