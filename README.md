@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Cerol`, a mixture of fine glass and glue on a string. Used for cutting other kids kite lines. Terror of motorbikers.](http://9gag.com/gag/a1POPAv)
- - 🚯 [RIGHT OR WRONG... RIGHT THOUGH](http://9gag.com/gag/a1PORxR)
- - 🚯 [Sweet Veronica](http://9gag.com/gag/aNwjPKr)<!-- MEMES:END -->
+ - 🚖 [Ultimate Reverse Card Activated](http://9gag.com/gag/aoKnWGX)
+ - 🚯 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
+ - 🚯 [Better study harder](http://9gag.com/gag/aDYQDpK)<!-- MEMES:END -->
 
 --- 
 
