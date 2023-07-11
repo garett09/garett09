@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ultimate Reverse Card Activated](http://9gag.com/gag/aoKnWGX)
- - 🚯 [Does anyone remember?](http://9gag.com/gag/abvRgb9)
- - 🚯 [Better study harder](http://9gag.com/gag/aDYQDpK)<!-- MEMES:END -->
+ - 🚖 [Die b*tch](http://9gag.com/gag/anzGvW5)
+ - 🚯 [Red card...](http://9gag.com/gag/awZeLeW)
+ - 🚯 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->
 
 --- 
 
