@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA is making a single-player Black Panther game](https://www.theverge.com/2023/7/10/23787287/ea-black-panther-game-single-player)
- - [Aqara P2 Thread sensor &amp; new home automation gear on the HomeKit Insider podcast](https://appleinsider.com/articles/23/07/10/aqara-p2-thread-sensor-new-home-automation-gear-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Want to Lower Your Monthly Electric Bill? First, Calculate Your Usage     - CNET](https://www.cnet.com/news/want-to-lower-your-monthly-electric-bill-first-calculate-your-usage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day 2023: the best deals and latest news](https://www.theverge.com/23770143/amazon-prime-day-2023-news-deals-sales-dates)
+ - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
+ - [Bear 2 is a terrific notes app — and it only took forever to build](https://www.theverge.com/23786996/bear-2-notes-app-iphone-ipad-mac)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
