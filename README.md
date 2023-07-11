@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best accessories for your Xbox Series X](https://www.polygon.com/what-to-buy/23604803/best-xbox-series-x-s-accessories)
- - [The best controllers for PC gaming](https://www.polygon.com/what-to-buy/23658092/best-controllers-pc-gaming)
- - [The best TV streaming devices](https://www.polygon.com/what-to-buy/23667894/best-tv-streaming-devices-sticks-boxes)<!-- GAME:END -->
+ - [The best anti-Prime Day 2023 deals](https://www.polygon.com/amazon-prime-day/23780029/deals-best-buy-walmart-target-newegg)
+ - [A Link between hairstyles: How Zelda matched a hero’s masculinity to the moment](https://www.polygon.com/23779797/zelda-games-link-hairstyles)
+ - [Buy a Nintendo Switch, get a $25 gift card from Amazon, Target, or Best Buy](https://www.polygon.com/amazon-prime-day/2023/7/10/23790155/nintendo-switch-gift-card-target-best-buy-deal-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
