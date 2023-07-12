@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Die b*tch](http://9gag.com/gag/anzGvW5)
- - 🚯 [Red card...](http://9gag.com/gag/awZeLeW)
- - 🚯 [`It&#39;s just an American problem`](http://9gag.com/gag/aQEyQ78)<!-- MEMES:END -->
+ - 🚖 [Straight up out of a cartoon](http://9gag.com/gag/agoKx0r)
+ - 🚯 [True](http://9gag.com/gag/aWGRbv2)
+ - 🚯 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)<!-- MEMES:END -->
 
 --- 
 
