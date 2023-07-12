@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day 2023: the best deals and latest news](https://www.theverge.com/23770143/amazon-prime-day-2023-news-deals-sales-dates)
- - [Best laptop deals happening during Amazon Prime Day 2023](https://www.theverge.com/23789938/amazon-prime-day-best-laptop-deals-2023)
- - [Bear 2 is a terrific notes app — and it only took forever to build](https://www.theverge.com/23786996/bear-2-notes-app-iphone-ipad-mac)<!-- TECH:END -->
+ - [OnePlus 12: Release date, specs, price, and all the rumors so far](https://www.androidauthority.com/oneplus-12-3325848/)
+ - [Google establishes an independent advisory board to manage its open-source Travel Impact Model, used to predict the per-passenger emissions produced by a flight &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/230712/p21#a230712p21)
+ - [47 Best Prime Day Phone and Tablet Deals &lpar;2023&rpar;: Accessories and Chargers](https://www.wired.com/story/best-amazon-prime-day-phone-tablet-deals-2023-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
