@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Straight up out of a cartoon](http://9gag.com/gag/agoKx0r)
- - 🚯 [True](http://9gag.com/gag/aWGRbv2)
- - 🚯 [Dylan, You Son of a ....](http://9gag.com/gag/ajVRK9G)<!-- MEMES:END -->
+ - 🚖 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
+ - 🚯 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
+ - 🚯 [Miscalculated](http://9gag.com/gag/anzGD2q)<!-- MEMES:END -->
 
 --- 
 
