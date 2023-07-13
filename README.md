@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Prime Day 2023: All the deals and tips in one place](https://www.polygon.com/deals/23775263/amazon-prime-day-2023-deals-dates-advice)
- - [The games to snap up during today’s wave of deals](https://www.polygon.com/amazon-prime-day/23780341/gaming-deals-nintendo-switch-ps5-xbox-pc)
- - [Best gaming accessory deals of Amazon Prime Day 2023](https://www.polygon.com/amazon-prime-day/23780321/gaming-accessory-deals-hardware-controllers-headsets-ssd-sd)<!-- GAME:END -->
+ - [Deus Ex’s Eliza Cassan became my burlesque muse](https://www.polygon.com/23791680/deus-ex-human-revolution-eliza-cassan-cosplay-burlesque-dancer-ai)
+ - [Jagged Alliance 3 review](https://www.pcgamer.com/jagged-alliance-3-review)
+ - [This wild battle royale mode set in a stadium looks like the best thing to happen to wrestling games since WWF No Mercy](https://www.pcgamer.com/this-wild-battle-royale-mode-set-in-a-stadium-looks-like-the-best-thing-to-happen-to-wrestling-games-since-wwf-no-mercy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
