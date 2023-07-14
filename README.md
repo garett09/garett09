@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deus Ex’s Eliza Cassan became my burlesque muse](https://www.polygon.com/23791680/deus-ex-human-revolution-eliza-cassan-cosplay-burlesque-dancer-ai)
- - [Jagged Alliance 3 review](https://www.pcgamer.com/jagged-alliance-3-review)
- - [This wild battle royale mode set in a stadium looks like the best thing to happen to wrestling games since WWF No Mercy](https://www.pcgamer.com/this-wild-battle-royale-mode-set-in-a-stadium-looks-like-the-best-thing-to-happen-to-wrestling-games-since-wwf-no-mercy)<!-- GAME:END -->
+ - [D&amp;D&#39;s upcoming virtual tabletop radiates a big-budget misunderstanding of what matters in role-playing games](https://www.pcgamer.com/dandds-upcoming-virtual-tabletop-radiates-a-big-budget-misunderstanding-of-what-matters-in-role-playing-games)
+ - [Exoprimal is Now Available with Game Pass on Console and PC](https://news.xbox.com/en-us/2023/07/14/suit-up-adapt-survive-exoprimal-is-now-available-with-game-pass/)
+ - [How wrestling game fans worked together to get the best unlicensed outfits](https://www.polygon.com/23790442/wrestling-game-code-trading-fashion-design)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
