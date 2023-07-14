@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swinging over a canyon](http://9gag.com/gag/adPRo5V)
- - 🚯 [Please just break up with someone if you get to this point](http://9gag.com/gag/aL1WWyA)
- - 🚯 [Miscalculated](http://9gag.com/gag/anzGD2q)<!-- MEMES:END -->
+ - 🚖 [Title](http://9gag.com/gag/adPRbOM)
+ - 🚯 [Is that the new Superman?](http://9gag.com/gag/aL1WW9z)
+ - 🚯 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)<!-- MEMES:END -->
 
 --- 
 
