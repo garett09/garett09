@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [95 Best Prime Day Deals Still Going Strong &lpar;2023&rpar;: Phones, Laptops, Espresso Machines](https://www.wired.com/story/best-amazon-prime-day-leftover-deals-2023/)
- - [The Ultra-Viral Rise of Prime, the Internet’s Favorite Sports Drink](https://www.wired.com/story/congo-prime-sports-drink/)
- - [&#39;World of Warcraft&#39; Has a Lot to Teach the Twitter Clones](https://www.wired.com/story/twitter-threads-platforms-games/)<!-- TECH:END -->
+ - [Dear Mark Zuckerberg: Don’t Fight Elon Musk in the Las Vegas Octagon](https://www.wired.com/story/plaintext-dear-mark-zuckerberg-dont-fight-elon-musk/)
+ - [OK Surfers, How Much Would It Cost to Power Your Own Wave?](https://www.wired.com/story/ok-surfers-how-much-would-it-cost-to-power-your-own-wave/)
+ - [The Hollywood Actors Strike Will Revolutionize the AI Fight](https://www.wired.com/story/hollywood-sag-strike-artificial-intelligence/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
