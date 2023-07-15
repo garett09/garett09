@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title](http://9gag.com/gag/adPRbOM)
- - 🚯 [Is that the new Superman?](http://9gag.com/gag/aL1WW9z)
- - 🚯 [Dark, but about to get so bright.](http://9gag.com/gag/a4owWEv)<!-- MEMES:END -->
+ - 🚖 [Evolution of boston dynamics](http://9gag.com/gag/a8qVvjd)
+ - 🚯 [Wife: `Babe it&#39;s weekend. Don&#39;t sitting arround like dead whale, go say hi to the neighbor.` *Husband and the Neighbor](http://9gag.com/gag/abvRDgv)
+ - 🚯 [Good staff](http://9gag.com/gag/aOxpARv)<!-- MEMES:END -->
 
 --- 
 
