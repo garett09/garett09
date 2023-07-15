@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D&#39;s upcoming virtual tabletop radiates a big-budget misunderstanding of what matters in role-playing games](https://www.pcgamer.com/dandds-upcoming-virtual-tabletop-radiates-a-big-budget-misunderstanding-of-what-matters-in-role-playing-games)
- - [Exoprimal is Now Available with Game Pass on Console and PC](https://news.xbox.com/en-us/2023/07/14/suit-up-adapt-survive-exoprimal-is-now-available-with-game-pass/)
- - [How wrestling game fans worked together to get the best unlicensed outfits](https://www.polygon.com/23790442/wrestling-game-code-trading-fashion-design)<!-- GAME:END -->
+ - [The 5 best sci-fi movies to watch on Netflix, Prime, and Max this July](https://www.polygon.com/what-to-watch/2023/7/15/23789958/best-sci-fi-movies-netflix-hulu-max-july-2023)
+ - [Today&#39;s Wordle hint and answer #756: Saturday, July 15](https://www.pcgamer.com/wordle-answer-today-hint-756-july-15)
+ - [Activision Set To Become Part Of Microsoft After FTC&#39;s Last-Ditch Effort Fails](https://kotaku.com/microsoft-activision-blizzard-deal-ftc-call-duty-court-1850643478)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
