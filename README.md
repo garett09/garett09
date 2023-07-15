@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dear Mark Zuckerberg: Don’t Fight Elon Musk in the Las Vegas Octagon](https://www.wired.com/story/plaintext-dear-mark-zuckerberg-dont-fight-elon-musk/)
- - [OK Surfers, How Much Would It Cost to Power Your Own Wave?](https://www.wired.com/story/ok-surfers-how-much-would-it-cost-to-power-your-own-wave/)
- - [The Hollywood Actors Strike Will Revolutionize the AI Fight](https://www.wired.com/story/hollywood-sag-strike-artificial-intelligence/)<!-- TECH:END -->
+ - [Daily deals: $50 off Asus AC1900 Router, $450 off 38-inch Curved Alienware Monitor $1,890 off Klipsch Reference Home Theater System, more](https://appleinsider.com/articles/23/07/15/daily-deals-50-off-asus-ac1900-router-450-off-38-inch-curved-alienware-monitor-1890-off-klipsch-reference-home-theater-system-more?utm_medium=rss)
+ - [The cheapest countries to buy a MacBook Pro](https://www.androidauthority.com/cheapest-place-to-buy-macbook-pro-3345547/)
+ - [Catching a Flight? Here Are 5 Tips to Make Travel Easier](https://www.wired.com/story/5-tips-air-travel-long-flights/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
