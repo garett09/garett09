@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best sci-fi movies to watch on Netflix, Prime, and Max this July](https://www.polygon.com/what-to-watch/2023/7/15/23789958/best-sci-fi-movies-netflix-hulu-max-july-2023)
- - [Today&#39;s Wordle hint and answer #756: Saturday, July 15](https://www.pcgamer.com/wordle-answer-today-hint-756-july-15)
- - [Activision Set To Become Part Of Microsoft After FTC&#39;s Last-Ditch Effort Fails](https://kotaku.com/microsoft-activision-blizzard-deal-ftc-call-duty-court-1850643478)<!-- GAME:END -->
+ - [22-year-old castle sim Stronghold is getting a definitive remaster](https://www.pcgamer.com/22-year-old-castle-sim-stronghold-is-getting-a-definitive-remaster)
+ - [Today&#39;s Wordle hint and answer #757: Sunday, July 16](https://www.pcgamer.com/wordle-answer-today-hint-757-july-16)
+ - [Chaos Gate – Daemonhunters is getting a free update with new enemies and gear, seems to be teasing more DLC](https://www.pcgamer.com/chaos-gate-daemonhunters-is-getting-a-free-update-with-new-enemies-and-gear-seems-to-be-teasing-more-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
