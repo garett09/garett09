@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Evolution of boston dynamics](http://9gag.com/gag/a8qVvjd)
- - 🚯 [Wife: `Babe it&#39;s weekend. Don&#39;t sitting arround like dead whale, go say hi to the neighbor.` *Husband and the Neighbor](http://9gag.com/gag/abvRDgv)
- - 🚯 [Good staff](http://9gag.com/gag/aOxpARv)<!-- MEMES:END -->
+ - 🚖 [Potato of luck](http://9gag.com/gag/axomee1)
+ - 🚯 [Finnish public broadcasting company YLE started investigating how plastics are recycled in Europe, it was revealed that the plastics were sent to be stored in China, where they also ended up in the sea](http://9gag.com/gag/aBd4B1z)
+ - 🚯 [Roasted](http://9gag.com/gag/abvRnWX)<!-- MEMES:END -->
 
 --- 
 
