@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals: $50 off Asus AC1900 Router, $450 off 38-inch Curved Alienware Monitor $1,890 off Klipsch Reference Home Theater System, more](https://appleinsider.com/articles/23/07/15/daily-deals-50-off-asus-ac1900-router-450-off-38-inch-curved-alienware-monitor-1890-off-klipsch-reference-home-theater-system-more?utm_medium=rss)
- - [The cheapest countries to buy a MacBook Pro](https://www.androidauthority.com/cheapest-place-to-buy-macbook-pro-3345547/)
- - [Catching a Flight? Here Are 5 Tips to Make Travel Easier](https://www.wired.com/story/5-tips-air-travel-long-flights/)<!-- TECH:END -->
+ - [First Apple Silicon M3 Mac releases rumored for October launch](https://appleinsider.com/articles/23/07/16/first-apple-silicon-m3-releases-rumored-for-october-launch?utm_medium=rss)
+ - [Sources: McKinsey, BCG, and other US firms are splitting their IT systems to decouple China data, as Beijing expands anti-espionage rules and data regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/230716/p5#a230716p5)
+ - [Rumor: Apple may introduce iPhone 15 in pink](https://appleinsider.com/articles/23/07/16/apple-may-introduce-pink-iphone-15-says-new-color-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
