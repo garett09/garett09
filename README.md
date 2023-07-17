@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [22-year-old castle sim Stronghold is getting a definitive remaster](https://www.pcgamer.com/22-year-old-castle-sim-stronghold-is-getting-a-definitive-remaster)
- - [Today&#39;s Wordle hint and answer #757: Sunday, July 16](https://www.pcgamer.com/wordle-answer-today-hint-757-july-16)
- - [Chaos Gate – Daemonhunters is getting a free update with new enemies and gear, seems to be teasing more DLC](https://www.pcgamer.com/chaos-gate-daemonhunters-is-getting-a-free-update-with-new-enemies-and-gear-seems-to-be-teasing-more-dlc)<!-- GAME:END -->
+ - [Xbox Game Pass Core to replace Xbox Live Gold in September](https://www.polygon.com/23797388/xbox-live-gold-ending-game-pass-core)
+ - [Introducing Xbox Game Pass Core, Coming This September](https://news.xbox.com/en-us/2023/07/17/xbox-game-pass-core/)
+ - [BattleBit developer says the game&#39;s success is &#39;just wild&#39; and DICE is still capable of delivering &#39;an absolute stunner of a Battlefield&#39;](https://www.pcgamer.com/battlebit-developer-says-the-games-success-is-just-wild-and-dice-is-still-capable-of-delivering-an-absolute-stunner-of-a-battlefield)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
