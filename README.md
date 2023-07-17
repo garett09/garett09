@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Apple Silicon M3 Mac releases rumored for October launch](https://appleinsider.com/articles/23/07/16/first-apple-silicon-m3-releases-rumored-for-october-launch?utm_medium=rss)
- - [Sources: McKinsey, BCG, and other US firms are splitting their IT systems to decouple China data, as Beijing expands anti-espionage rules and data regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/230716/p5#a230716p5)
- - [Rumor: Apple may introduce iPhone 15 in pink](https://appleinsider.com/articles/23/07/16/apple-may-introduce-pink-iphone-15-says-new-color-leak?utm_medium=rss)<!-- TECH:END -->
+ - [SmartWings shades, SwitchBot Lock adds Matter &amp; more on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/07/17/smartwings-shades-switchbot-lock-adds-matter-more-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Poll: Do you install system updates straight away or wait?](https://www.androidauthority.com/install-system-updates-wait-poll-3345789/)
+ - [Millions of sensitive emails have been missent to Mali&#39;s .ML domain due to people mistyping the US military&#39;s .MIL domain; .ML control reverts to Mali July 17 &lpar;Financial Times&rpar;](http://www.techmeme.com/230717/p7#a230717p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
