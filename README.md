@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Potato of luck](http://9gag.com/gag/axomee1)
- - 🚯 [Finnish public broadcasting company YLE started investigating how plastics are recycled in Europe, it was revealed that the plastics were sent to be stored in China, where they also ended up in the sea](http://9gag.com/gag/aBd4B1z)
- - 🚯 [Roasted](http://9gag.com/gag/abvRnWX)<!-- MEMES:END -->
+ - 🚖 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
+ - 🚯 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)
+ - 🚯 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)<!-- MEMES:END -->
 
 --- 
 
