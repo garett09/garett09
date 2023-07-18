@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass Core to replace Xbox Live Gold in September](https://www.polygon.com/23797388/xbox-live-gold-ending-game-pass-core)
- - [Introducing Xbox Game Pass Core, Coming This September](https://news.xbox.com/en-us/2023/07/17/xbox-game-pass-core/)
- - [BattleBit developer says the game&#39;s success is &#39;just wild&#39; and DICE is still capable of delivering &#39;an absolute stunner of a Battlefield&#39;](https://www.pcgamer.com/battlebit-developer-says-the-games-success-is-just-wild-and-dice-is-still-capable-of-delivering-an-absolute-stunner-of-a-battlefield)<!-- GAME:END -->
+ - [This Perspective-Bending Game Comes So Close To Greatness](https://kotaku.com/viewfinder-puzzle-game-pc-ps5-impressions-sad-owl-1850649178)
+ - [Ratchet &amp; Clank: Rift Apart PC specs and new features revealed](https://blog.playstation.com/2023/07/18/ratchet-clank-rift-apart-pc-specs-and-new-features-revealed/)
+ - [Coming to Xbox Game Pass: Venba, The Wandering Village, Serious Sam: Siberian Mayhem, and More](https://news.xbox.com/en-us/2023/07/18/game-pass-july-2023-wave-2-announce/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
