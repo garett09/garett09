@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SmartWings shades, SwitchBot Lock adds Matter &amp; more on the HomeKit Insider Podcast](https://appleinsider.com/articles/23/07/17/smartwings-shades-switchbot-lock-adds-matter-more-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Poll: Do you install system updates straight away or wait?](https://www.androidauthority.com/install-system-updates-wait-poll-3345789/)
- - [Millions of sensitive emails have been missent to Mali&#39;s .ML domain due to people mistyping the US military&#39;s .MIL domain; .ML control reverts to Mali July 17 &lpar;Financial Times&rpar;](http://www.techmeme.com/230717/p7#a230717p7)<!-- TECH:END -->
+ - [The Biden Administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
+ - [Amazon’s in-van surveillance footage of delivery drivers is leaking online](https://www.theverge.com/2023/7/18/23798611/amazon-van-driver-surveillance-camera-footage-leak-reddit)
+ - [28 Best Tools for a Home Toolkit &lpar;2023&rpar;: Stud Finder, Cordless Drill, and More](https://www.wired.com/gallery/how-to-build-a-home-tool-kit/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
