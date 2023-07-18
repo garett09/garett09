@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
- - 🚯 [TikTok-famous plastic surgeon Katharine Grawe, known as Dr. Roxy, was permanently stripped of her license by the state medical board in Ohio.](http://9gag.com/gag/aNwjN40)
- - 🚯 [Don&#39;t put smart things next to primates](http://9gag.com/gag/aVbRy4n)<!-- MEMES:END -->
+ - 🚖 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)
+ - 🚯 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
+ - 🚯 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)<!-- MEMES:END -->
 
 --- 
 
