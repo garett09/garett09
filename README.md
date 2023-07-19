@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/anzGAoL)
- - 🚯 [Did someone say grapeshot?](http://9gag.com/gag/aNwj7RK)
- - 🚯 [\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/axompbK)<!-- MEMES:END -->
+ - 🚖 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
+ - 🚯 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
+ - 🚯 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
 
 --- 
 
