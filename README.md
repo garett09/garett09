@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Perspective-Bending Game Comes So Close To Greatness](https://kotaku.com/viewfinder-puzzle-game-pc-ps5-impressions-sad-owl-1850649178)
- - [Ratchet &amp; Clank: Rift Apart PC specs and new features revealed](https://blog.playstation.com/2023/07/18/ratchet-clank-rift-apart-pc-specs-and-new-features-revealed/)
- - [Coming to Xbox Game Pass: Venba, The Wandering Village, Serious Sam: Siberian Mayhem, and More](https://news.xbox.com/en-us/2023/07/18/game-pass-july-2023-wave-2-announce/)<!-- GAME:END -->
+ - [Pikmin 4 will turn you into an obsessive collector](https://www.polygon.com/reviews/23792462/pikmin-4-review-coop-treasures-nintendo-switch)
+ - [Microsoft and Activision Blizzard delay acquisition in push for UK approval](https://www.polygon.com/23798065/xbox-microsoft-activision-blizzard-acquisition-delay-deadline)
+ - [Diablo 4&#39;s pre-season 1 patch is here and no one is happy about it](https://www.pcgamer.com/diablo-4s-pre-season-1-patch-is-here-and-no-one-is-happy-about-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
