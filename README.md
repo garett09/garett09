@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden Administration is tackling smart devices with a new cybersecurity label](https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security)
- - [Amazon’s in-van surveillance footage of delivery drivers is leaking online](https://www.theverge.com/2023/7/18/23798611/amazon-van-driver-surveillance-camera-footage-leak-reddit)
- - [28 Best Tools for a Home Toolkit &lpar;2023&rpar;: Stud Finder, Cordless Drill, and More](https://www.wired.com/gallery/how-to-build-a-home-tool-kit/)<!-- TECH:END -->
+ - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
+ - [Microsoft &amp; Activision merger deadline extended to October 18](https://appleinsider.com/articles/23/07/19/microsoft-activision-merger-deadline-extended-to-october-18?utm_medium=rss)
+ - [Netflix just axed its basic ad-free plan in the US and UK](https://www.theverge.com/2023/7/19/23800079/netflix-cheap-ad-free-basic-plan-removed-us-uk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
