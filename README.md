@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
- - [Microsoft &amp; Activision merger deadline extended to October 18](https://appleinsider.com/articles/23/07/19/microsoft-activision-merger-deadline-extended-to-october-18?utm_medium=rss)
- - [Netflix just axed its basic ad-free plan in the US and UK](https://www.theverge.com/2023/7/19/23800079/netflix-cheap-ad-free-basic-plan-removed-us-uk)<!-- TECH:END -->
+ - [Google plans to begin gradually enabling Privacy Sandbox APIs for Chrome developers after releasing Chrome 115, a significant milestone in phasing out cookies &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230720/p17#a230720p17)
+ - [OnePlus 12R leak pictures a possible flagship killer](https://www.androidauthority.com/oneplus-12r-leaked-renders-specs-3346849/)
+ - [Kokopelli Chasm-Lite Stand-Up Paddleboard Review: Inflatable Summer Fun](https://www.wired.com/review/kokopelli-chasm-lite-stand-up-paddleboard/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
