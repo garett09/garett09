@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pikmin 4 will turn you into an obsessive collector](https://www.polygon.com/reviews/23792462/pikmin-4-review-coop-treasures-nintendo-switch)
- - [Microsoft and Activision Blizzard delay acquisition in push for UK approval](https://www.polygon.com/23798065/xbox-microsoft-activision-blizzard-acquisition-delay-deadline)
- - [Diablo 4&#39;s pre-season 1 patch is here and no one is happy about it](https://www.pcgamer.com/diablo-4s-pre-season-1-patch-is-here-and-no-one-is-happy-about-it)<!-- GAME:END -->
+ - [Sea of Thieves: The Legend of Monkey Island Begins with a Brand New Tall Tale](https://news.xbox.com/en-us/2023/07/20/sea-of-thieves-the-legend-of-monkey-island-begins/)
+ - [Star Trek history was made and Strange New Worlds barely cared &lpar;which is great&rpar;](https://www.polygon.com/23799328/star-trek-kirk-spock-snw-strange-new-worlds)
+ - [How to subscribe to Xbox and PC Game Pass](https://www.polygon.com/deals/23759446/xbox-pc-game-pass-ultimate-subscribe-price-perks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
