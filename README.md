@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do stupid things, win stupid prizes!](http://9gag.com/gag/anzVYo0)
- - 🚯 [Dude went to get the milk](http://9gag.com/gag/agoj3Dg)
- - 🚯 [If you know, you already understood.](http://9gag.com/gag/abvRPzE)<!-- MEMES:END -->
+ - 🚖 [The deffinition of ironi](http://9gag.com/gag/avQmPGW)
+ - 🚯 [Working hard for your money is not always rewarding\u2026.](http://9gag.com/gag/agojvg1)
+ - 🚯 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)<!-- MEMES:END -->
 
 --- 
 
