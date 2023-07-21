@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to begin gradually enabling Privacy Sandbox APIs for Chrome developers after releasing Chrome 115, a significant milestone in phasing out cookies &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/230720/p17#a230720p17)
- - [OnePlus 12R leak pictures a possible flagship killer](https://www.androidauthority.com/oneplus-12r-leaked-renders-specs-3346849/)
- - [Kokopelli Chasm-Lite Stand-Up Paddleboard Review: Inflatable Summer Fun](https://www.wired.com/review/kokopelli-chasm-lite-stand-up-paddleboard/)<!-- TECH:END -->
+ - [Almost 50 Years Into the Crypto Wars, Encryption’s Opponents Are Still Wrong](https://www.wired.com/story/plaintext-50-years-into-the-crypto-wars-encryptions-opponents-are-still-wrong/)
+ - [Sony Xperia 1 V Review: This Phone Is Still Too Expensive](https://www.wired.com/review/sony-xperia-1-v/)
+ - [How to install the watchOS 10 public beta](https://www.theverge.com/23802205/watchos-10-beta-install-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
