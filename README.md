@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The deffinition of ironi](http://9gag.com/gag/avQmPGW)
- - 🚯 [Working hard for your money is not always rewarding\u2026.](http://9gag.com/gag/agojvg1)
- - 🚯 [The internet is undefeatable](http://9gag.com/gag/anzVXyz)<!-- MEMES:END -->
+ - 🚖 [Celebrating a race win with the team](http://9gag.com/gag/aZDvp49)
+ - 🚯 [Hmm I wonder](http://9gag.com/gag/awZvnbB)
+ - 🚯 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)<!-- MEMES:END -->
 
 --- 
 
