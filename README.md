@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Almost 50 Years Into the Crypto Wars, Encryption’s Opponents Are Still Wrong](https://www.wired.com/story/plaintext-50-years-into-the-crypto-wars-encryptions-opponents-are-still-wrong/)
- - [Sony Xperia 1 V Review: This Phone Is Still Too Expensive](https://www.wired.com/review/sony-xperia-1-v/)
- - [How to install the watchOS 10 public beta](https://www.theverge.com/23802205/watchos-10-beta-install-how-to)<!-- TECH:END -->
+ - [China’s Breach of Microsoft Cloud Email May Expose Deeper Problems](https://www.wired.com/story/china-breach-microsoft-cloud-email-may-expose-deeper-problems/)
+ - [15 Best PS5 Games &lpar;2023&rpar;: &#39;Diablo IV&#39;, &#39;Star Wars&#39;, and More](https://www.wired.com/gallery/best-ps5-games/)
+ - [This Rare Case of Green Hairy Tongue Is Pure Nightmare Fuel](https://www.wired.com/story/rare-case-green-hairy-tongue-pure-nightmare-fuel/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
