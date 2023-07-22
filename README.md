@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves: The Legend of Monkey Island Begins with a Brand New Tall Tale](https://news.xbox.com/en-us/2023/07/20/sea-of-thieves-the-legend-of-monkey-island-begins/)
- - [Star Trek history was made and Strange New Worlds barely cared &lpar;which is great&rpar;](https://www.polygon.com/23799328/star-trek-kirk-spock-snw-strange-new-worlds)
- - [How to subscribe to Xbox and PC Game Pass](https://www.polygon.com/deals/23759446/xbox-pc-game-pass-ultimate-subscribe-price-perks)<!-- GAME:END -->
+ - [Revisiting Nolan’s previous Barbenheimers](https://www.polygon.com/what-to-watch/23797738/christopher-nolan-movies-oppenheimer-barbie-dark-knight-mamma-mia)
+ - [Today&#39;s Wordle hint and answer #763: Saturday, July 22](https://www.pcgamer.com/wordle-answer-today-hint-763-july-22)
+ - [Every major announcement from SDCC 2023](https://www.polygon.com/sdcc/23800362/comic-con-2023-news-announcements-exclusives-trailers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
