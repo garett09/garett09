@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Revisiting Nolan’s previous Barbenheimers](https://www.polygon.com/what-to-watch/23797738/christopher-nolan-movies-oppenheimer-barbie-dark-knight-mamma-mia)
- - [Today&#39;s Wordle hint and answer #763: Saturday, July 22](https://www.pcgamer.com/wordle-answer-today-hint-763-july-22)
- - [Every major announcement from SDCC 2023](https://www.polygon.com/sdcc/23800362/comic-con-2023-news-announcements-exclusives-trailers)<!-- GAME:END -->
+ - [What you need to know about D&amp;D5E to play Baldur&#39;s Gate 3](https://www.pcgamer.com/what-you-need-to-know-about-dandd5e-to-play-baldurs-gate-3)
+ - [Today&#39;s Wordle hint and answer #764: Sunday, July 23](https://www.pcgamer.com/wordle-answer-today-hint-764-july-23)
+ - [Why the first South Park videogame got a review score of 8%](https://www.pcgamer.com/saturday-crapshoot-south-park)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
