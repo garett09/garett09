@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Celebrating a race win with the team](http://9gag.com/gag/aZDvp49)
- - 🚯 [Hmm I wonder](http://9gag.com/gag/awZvnbB)
- - 🚯 [GEE, I WONDER WHY THAT IS\u2026](http://9gag.com/gag/aDYMzXN)<!-- MEMES:END -->
+ - 🚖 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
+ - 🚯 [What a coincidence!](http://9gag.com/gag/awZvAdW)
+ - 🚯 [Well well](http://9gag.com/gag/aRED3jy)<!-- MEMES:END -->
 
 --- 
 
