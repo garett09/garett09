@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China’s Breach of Microsoft Cloud Email May Expose Deeper Problems](https://www.wired.com/story/china-breach-microsoft-cloud-email-may-expose-deeper-problems/)
- - [15 Best PS5 Games &lpar;2023&rpar;: &#39;Diablo IV&#39;, &#39;Star Wars&#39;, and More](https://www.wired.com/gallery/best-ps5-games/)
- - [This Rare Case of Green Hairy Tongue Is Pure Nightmare Fuel](https://www.wired.com/story/rare-case-green-hairy-tongue-pure-nightmare-fuel/)<!-- TECH:END -->
+ - [M3 Mac, 14-inch &amp;16-inch MacBook Pro aren&#39;t coming in the fall](https://appleinsider.com/articles/23/07/23/m3-mac-mini-may-join-14-inch-16-inch-macbook-pro-in-mid-2024-update?utm_medium=rss)
+ - [15 Best Messenger Bags &lpar;2023&rpar;: Crossbody, Slings, Shoulder Bags](https://www.wired.com/gallery/best-messenger-bags/)
+ - [Ghost Trick is a summer beach read in video game form](https://www.theverge.com/2023/7/23/23803241/ghost-trick-capcom-ace-attorney-nintendo-switch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
