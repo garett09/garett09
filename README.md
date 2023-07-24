@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What you need to know about D&amp;D5E to play Baldur&#39;s Gate 3](https://www.pcgamer.com/what-you-need-to-know-about-dandd5e-to-play-baldurs-gate-3)
- - [Today&#39;s Wordle hint and answer #764: Sunday, July 23](https://www.pcgamer.com/wordle-answer-today-hint-764-july-23)
- - [Why the first South Park videogame got a review score of 8%](https://www.pcgamer.com/saturday-crapshoot-south-park)<!-- GAME:END -->
+ - [First Ever Pizza-Scented Xbox and TMNT: Mutant Mayhem Controller](https://news.xbox.com/en-us/2023/07/24/pizza-scented-xbox-and-tmnt-mutant-mayhem-controller/)
+ - [Every Futurama finale was of its time](https://www.polygon.com/23803275/futurama-new-season-finale-episode)
+ - [Diablo 4&#39;s battle pass is such a mess that it doesn&#39;t even give you enough Platinum to buy a single item](https://www.pcgamer.com/diablo-4s-battle-pass-is-such-a-mess-that-it-doesnt-even-give-you-enough-platinum-to-buy-a-single-item)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
