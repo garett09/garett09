@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3 Mac, 14-inch &amp;16-inch MacBook Pro aren&#39;t coming in the fall](https://appleinsider.com/articles/23/07/23/m3-mac-mini-may-join-14-inch-16-inch-macbook-pro-in-mid-2024-update?utm_medium=rss)
- - [15 Best Messenger Bags &lpar;2023&rpar;: Crossbody, Slings, Shoulder Bags](https://www.wired.com/gallery/best-messenger-bags/)
- - [Ghost Trick is a summer beach read in video game form](https://www.theverge.com/2023/7/23/23803241/ghost-trick-capcom-ace-attorney-nintendo-switch)<!-- TECH:END -->
+ - [Apple is asking iPhone suppliers for screens without any bezel](https://appleinsider.com/articles/23/07/24/apple-is-asking-iphone-suppliers-for-screens-without-any-bezel?utm_medium=rss)
+ - [RIP Twitter’s iconic bird logo](https://www.theverge.com/2023/7/24/23805415/twitter-x-logo-rebrand-bird-farewell-to-birds)
+ - [Lionel Messi debuts on MLS on Apple TV+ tonight, and Apple is promoting it heavily](https://appleinsider.com/articles/23/07/21/lionel-messi-debuts-on-mls-on-apple-tv-tonight-and-apple-is-promoting-it-heavily?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
