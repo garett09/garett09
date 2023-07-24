@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She need to take her child to hospital but they think and she got ignored](http://9gag.com/gag/a8qzo33)
- - 🚯 [What a coincidence!](http://9gag.com/gag/awZvAdW)
- - 🚯 [Well well](http://9gag.com/gag/aRED3jy)<!-- MEMES:END -->
+ - 🚖 [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)
+ - 🚯 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
+ - 🚯 [Childhood Trauma: A Quick Tutorial](http://9gag.com/gag/aeQWQEO)<!-- MEMES:END -->
 
 --- 
 
