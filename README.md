@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First Ever Pizza-Scented Xbox and TMNT: Mutant Mayhem Controller](https://news.xbox.com/en-us/2023/07/24/pizza-scented-xbox-and-tmnt-mutant-mayhem-controller/)
- - [Every Futurama finale was of its time](https://www.polygon.com/23803275/futurama-new-season-finale-episode)
- - [Diablo 4&#39;s battle pass is such a mess that it doesn&#39;t even give you enough Platinum to buy a single item](https://www.pcgamer.com/diablo-4s-battle-pass-is-such-a-mess-that-it-doesnt-even-give-you-enough-platinum-to-buy-a-single-item)<!-- GAME:END -->
+ - [Here’s where you can pre-order Starfield](https://www.polygon.com/deals/23752365/starfield-pre-order-guide-standard-premium-collectors-constellation-edition)
+ - [Disney Lorcana’s greatest asset may be its most divisive quality](https://www.polygon.com/reviews/23805728/disney-lorcana-review-first-chapter-cards-starter-set)
+ - [DreamWorks’ new kart racer puts Shrek back in the driver’s seat](https://www.polygon.com/23805645/dreamworks-all-star-kart-racing-shrek-puss-in-boots-trolls)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
