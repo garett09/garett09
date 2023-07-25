@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German police way of handling a rampage alert at a school. \u201cHello, hands up! Everything fine? We just come in. Guten Tag, everything is fine here? No dangerous people here?\u201d](http://9gag.com/gag/a5XD1vy)
- - 🚯 [Its a dance battle!](http://9gag.com/gag/aBdodKO)
- - 🚯 [Childhood Trauma: A Quick Tutorial](http://9gag.com/gag/aeQWQEO)<!-- MEMES:END -->
+ - 🚖 [Woman goes off on her man because he was looking at another woman](http://9gag.com/gag/aA0Z6wd)
+ - 🚯 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
+ - 🚯 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)<!-- MEMES:END -->
 
 --- 
 
