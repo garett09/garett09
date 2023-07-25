@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is asking iPhone suppliers for screens without any bezel](https://appleinsider.com/articles/23/07/24/apple-is-asking-iphone-suppliers-for-screens-without-any-bezel?utm_medium=rss)
- - [RIP Twitter’s iconic bird logo](https://www.theverge.com/2023/7/24/23805415/twitter-x-logo-rebrand-bird-farewell-to-birds)
- - [Lionel Messi debuts on MLS on Apple TV+ tonight, and Apple is promoting it heavily](https://appleinsider.com/articles/23/07/21/lionel-messi-debuts-on-mls-on-apple-tv-tonight-and-apple-is-promoting-it-heavily?utm_medium=rss)<!-- TECH:END -->
+ - [Paramount+ with Showtime $11.99 price bump starts to hit viewers](https://appleinsider.com/articles/23/07/25/paramount-with-showtime-1199-price-bump-starts-to-hit-viewers?utm_medium=rss)
+ - [11 Best Couches You Can Buy Online &lpar;2023&rpar;: Armchairs, Sectionals, Sofas, and More](https://www.wired.com/gallery/best-couches/)
+ - [Drones are becoming boring](https://www.theverge.com/23805404/dji-air-3-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
