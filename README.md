@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount+ with Showtime $11.99 price bump starts to hit viewers](https://appleinsider.com/articles/23/07/25/paramount-with-showtime-1199-price-bump-starts-to-hit-viewers?utm_medium=rss)
- - [11 Best Couches You Can Buy Online &lpar;2023&rpar;: Armchairs, Sectionals, Sofas, and More](https://www.wired.com/gallery/best-couches/)
- - [Drones are becoming boring](https://www.theverge.com/23805404/dji-air-3-review)<!-- TECH:END -->
+ - [Citi Bike is for sale](https://www.theverge.com/2023/7/26/23808205/lyft-citi-bike-sale-bike-share-scooter)
+ - [Apple Vision Pro draws investors back to struggling VR/AR market](https://appleinsider.com/articles/23/07/26/apple-vision-pro-draws-investors-back-to-struggling-vrar-market?utm_medium=rss)
+ - [Samsung Galaxy Z Flip 5 charging speeds: How long does a full charge take?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-charging-speed-3350049/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
