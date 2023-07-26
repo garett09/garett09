@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman goes off on her man because he was looking at another woman](http://9gag.com/gag/aA0Z6wd)
- - 🚯 [Adopting two boys to turn them into girls should be criminal.](http://9gag.com/gag/aA0Zypg)
- - 🚯 [Between a rock in a hard place...](http://9gag.com/gag/aWG94Vx)<!-- MEMES:END -->
+ - 🚖 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
+ - 🚯 [BvZ](http://9gag.com/gag/agoj7Dv)
+ - 🚯 [No child support anymore](http://9gag.com/gag/ay2P4x8)<!-- MEMES:END -->
 
 --- 
 
