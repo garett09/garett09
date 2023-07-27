@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft Classic feels the scourge of the WoW token as a ring is traded for $13,000 worth of in-game gold](https://www.pcgamer.com/world-of-warcraft-classic-feels-the-scourge-of-the-wow-token-as-a-ring-is-traded-for-dollar13000-worth-of-in-game-gold)
- - [Fan outcry pushes Pathfinder dev to delete new data-sucking tool and all its info one day after introducing it: &#39;The scale of the outburst surpassed worst expectations&#39;](https://www.pcgamer.com/fan-outcry-pushes-pathfinder-dev-to-delete-new-data-sucking-tool-and-all-its-info-one-day-after-introducing-it-the-scale-of-the-outburst-surpassed-worst-expectations)
- - [Remnant 2&#39;s upscaling settings are more necessity than nicety and players aren&#39;t happy about it](https://www.pcgamer.com/remnant-2s-upscaling-settings-are-more-necessity-than-nicety-and-players-arent-happy-about-it)<!-- GAME:END -->
+ - [This horrifying big boy from Lords of the Fallen&#39;s new 20 minute gameplay preview is giving me Attack on Titan flashbacks in the best way](https://www.pcgamer.com/this-horrifying-big-boy-from-lords-of-the-fallens-new-20-minute-gameplay-preview-is-giving-me-attack-on-titan-flashbacks-in-the-best-way)
+ - [Talk to Me’s directors are ready to dethrone Grimace Shake and start a TikTok possession trend](https://www.polygon.com/23807638/talk-to-me-directors-danny-michael-philippou-interview-possession-tiktok-meme)
+ - [Summer Spotlight: Enjoy Summer Vibes with the Newest Games on Xbox](https://news.xbox.com/en-us/2023/07/27/summer-spotlight/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
