@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Giving proper massage](http://9gag.com/gag/aGEbMyZ)
- - 🚯 [BvZ](http://9gag.com/gag/agoj7Dv)
- - 🚯 [No child support anymore](http://9gag.com/gag/ay2P4x8)<!-- MEMES:END -->
+ - 🚖 [For the village.](http://9gag.com/gag/aGEb2dG)
+ - 🚯 [Feminists Destroyed](http://9gag.com/gag/aGEbMYw)
+ - 🚯 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)<!-- MEMES:END -->
 
 --- 
 
