@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Citi Bike is for sale](https://www.theverge.com/2023/7/26/23808205/lyft-citi-bike-sale-bike-share-scooter)
- - [Apple Vision Pro draws investors back to struggling VR/AR market](https://appleinsider.com/articles/23/07/26/apple-vision-pro-draws-investors-back-to-struggling-vrar-market?utm_medium=rss)
- - [Samsung Galaxy Z Flip 5 charging speeds: How long does a full charge take?](https://www.androidauthority.com/samsung-galaxy-z-flip-5-charging-speed-3350049/)<!-- TECH:END -->
+ - [Sources in Hollywood and Silicon Valley discuss AI&#39;s impact: creatives view AI as an existential threat, studios see a cost saver, and both sides need a deal &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230727/p19#a230727p19)
+ - [Samsung Galaxy Watch 6 vs Galaxy Watch 4: Is it worth the upgrade?](https://www.androidauthority.com/samsung-galaxy-watch-6-vs-samsung-galaxy-watch-4-3349492/)
+ - [Forget other specs, water resistance is the best part of the Galaxy Tab S9](https://www.androidauthority.com/galaxy-tab-s9-ip-rating-water-resistance-3349519/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
