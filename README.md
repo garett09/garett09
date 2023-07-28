@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For the village.](http://9gag.com/gag/aGEb2dG)
- - 🚯 [Feminists Destroyed](http://9gag.com/gag/aGEbMYw)
- - 🚯 [Portugal&#39;s cultural enrichment. 2 pepsied. Posted this earlier today and got banned in 10 mins.](http://9gag.com/gag/aZDvw46)<!-- MEMES:END -->
+ - 🚖 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
+ - 🚯 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
+ - 🚯 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)<!-- MEMES:END -->
 
 --- 
 
