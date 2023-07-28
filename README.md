@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This horrifying big boy from Lords of the Fallen&#39;s new 20 minute gameplay preview is giving me Attack on Titan flashbacks in the best way](https://www.pcgamer.com/this-horrifying-big-boy-from-lords-of-the-fallens-new-20-minute-gameplay-preview-is-giving-me-attack-on-titan-flashbacks-in-the-best-way)
- - [Talk to Me’s directors are ready to dethrone Grimace Shake and start a TikTok possession trend](https://www.polygon.com/23807638/talk-to-me-directors-danny-michael-philippou-interview-possession-tiktok-meme)
- - [Summer Spotlight: Enjoy Summer Vibes with the Newest Games on Xbox](https://news.xbox.com/en-us/2023/07/27/summer-spotlight/)<!-- GAME:END -->
+ - [PlayStation Stars campaigns and digital collectibles for August 2023](https://blog.playstation.com/2023/07/28/playstation-stars-campaigns-and-digital-collectibles-for-august-2023/)
+ - [Remnant 2’s depiction of mental illness surprised me](https://www.polygon.com/23810410/remnant-2-adventure-mode-losomn-slums-hospital)
+ - [Samsung Odyssey OLED G9](https://www.pcgamer.com/samsung-odyssey-oled-g9)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
