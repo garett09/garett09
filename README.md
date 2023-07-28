@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources in Hollywood and Silicon Valley discuss AI&#39;s impact: creatives view AI as an existential threat, studios see a cost saver, and both sides need a deal &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/230727/p19#a230727p19)
- - [Samsung Galaxy Watch 6 vs Galaxy Watch 4: Is it worth the upgrade?](https://www.androidauthority.com/samsung-galaxy-watch-6-vs-samsung-galaxy-watch-4-3349492/)
- - [Forget other specs, water resistance is the best part of the Galaxy Tab S9](https://www.androidauthority.com/galaxy-tab-s9-ip-rating-water-resistance-3349519/)<!-- TECH:END -->
+ - [The best Samsung Galaxy Watch 6 alternatives](https://www.androidauthority.com/best-samsung-galaxy-watch-6-alternatives-3347702/)
+ - [When You Drop a Rock Overboard, What Happens to the Water Level?](https://www.wired.com/story/when-you-drop-a-rock-overboard-what-happens-to-the-water-level/)
+ - [14 Best Electric Bikes &lpar;2023&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
