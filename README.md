@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Algerians on a Canadian airline...](http://9gag.com/gag/a1PwOj2)
- - 🚯 [Like\u2026 no one cares at all?](http://9gag.com/gag/az2QZMB)
- - 🚯 [UA Olga Kharlan refused to shake hands with RU Anna Smirnova. The Ukrainian woman said it up front. The Ukrainian won. The Russian refused to leave the playing area for an hour and wanted to disqualify the Ukrainian. The Ukrainian was disqualified.](http://9gag.com/gag/ajVyW98)<!-- MEMES:END -->
+ - 🚖 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
+ - 🚯 [Dude got robbed](http://9gag.com/gag/axo4YLb)
+ - 🚯 [Airport security](http://9gag.com/gag/a8qzV3d)<!-- MEMES:END -->
 
 --- 
 
