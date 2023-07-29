@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Stars campaigns and digital collectibles for August 2023](https://blog.playstation.com/2023/07/28/playstation-stars-campaigns-and-digital-collectibles-for-august-2023/)
- - [Remnant 2’s depiction of mental illness surprised me](https://www.polygon.com/23810410/remnant-2-adventure-mode-losomn-slums-hospital)
- - [Samsung Odyssey OLED G9](https://www.pcgamer.com/samsung-odyssey-oled-g9)<!-- GAME:END -->
+ - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of July 2023](https://www.polygon.com/what-to-watch/2023/7/29/23806947/best-movies-netflix-amazon-hulu-max-leaving-july-2023)
+ - [Today&#39;s Wordle hint and answer #770: Saturday, July 29](https://www.pcgamer.com/wordle-answer-today-hint-770-july-29)
+ - [Path of Exile 2 pushes action RPG technology to the absolute limit with &#39;meta gems&#39; that you socket other gems into](https://www.pcgamer.com/path-of-exile-2-pushes-action-rpg-technology-to-the-absolute-limit-with-meta-gems-that-you-socket-other-gems-into)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
