@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of July 2023](https://www.polygon.com/what-to-watch/2023/7/29/23806947/best-movies-netflix-amazon-hulu-max-leaving-july-2023)
- - [Today&#39;s Wordle hint and answer #770: Saturday, July 29](https://www.pcgamer.com/wordle-answer-today-hint-770-july-29)
- - [Path of Exile 2 pushes action RPG technology to the absolute limit with &#39;meta gems&#39; that you socket other gems into](https://www.pcgamer.com/path-of-exile-2-pushes-action-rpg-technology-to-the-absolute-limit-with-meta-gems-that-you-socket-other-gems-into)<!-- GAME:END -->
+ - [Greta Gerwig says watch these movies after Barbie](https://www.polygon.com/23797675/barbie-movie-influences-streaming-greta-gerwig-watch-next)
+ - [Netflix&#39;s next Castlevania anime will be out in September](https://www.pcgamer.com/netflixs-next-castlevania-anime-will-be-out-in-september)
+ - [Buff time wizard Geras joins the Mortal Kombat 1 roster](https://www.pcgamer.com/buff-time-wizard-geras-joins-the-mortal-kombat-1-roster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
