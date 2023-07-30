@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Call of Duty: Modern Warfare 2’ Players Hit With Worm Malware](https://www.wired.com/story/call-of-duty-modern-warfare-2-malware/)
- - [&#39;Talk to Me&#39; Is Horror Made by and for the Internet Generation](https://www.wired.com/story/talk-to-me-movie-review/)
- - [Daily deals: $499 iPad Air, $250 off M1 MacBook Air, 51% off Beats Studio3, more](https://appleinsider.com/articles/23/07/29/daily-deals-499-ipad-air-250-off-m1-macbook-air-51-off-beats-studio3-more?utm_medium=rss)<!-- TECH:END -->
+ - [9 Best Smart Speakers &lpar;2023&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+ - [The 17 Best Games on PlayStation Plus &lpar;August 2023&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
+ - [Apple Watch Series 9&#39;s S9 chip to offer a big performance boost](https://appleinsider.com/articles/23/07/30/apple-watch-series-9s-s9-chip-to-offer-a-big-performance-boost?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
