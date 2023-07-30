@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Monteriggioni, Italy. If you know, you know.](http://9gag.com/gag/ay2PZzV)
- - 🚯 [Dude got robbed](http://9gag.com/gag/axo4YLb)
- - 🚯 [Airport security](http://9gag.com/gag/a8qzV3d)<!-- MEMES:END -->
+ - 🚖 [On this day in 1980 Moscow Olympics, Polish athlete W.Kozakiewicz was booed heavily by russians. He responded by winning gold medal, breaking world record &lpar;pole vault&rpar; and showing russians this sign, which became iconic in Poland.](http://9gag.com/gag/aA0ZAyZ)
+ - 🚯 [What the heck](http://9gag.com/gag/aMEy7KW)
+ - 🚯 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
 
 --- 
 
