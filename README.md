@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On this day in 1980 Moscow Olympics, Polish athlete W.Kozakiewicz was booed heavily by russians. He responded by winning gold medal, breaking world record &lpar;pole vault&rpar; and showing russians this sign, which became iconic in Poland.](http://9gag.com/gag/aA0ZAyZ)
- - 🚯 [What the heck](http://9gag.com/gag/aMEy7KW)
+ - 🚖 [Guy points laser at helicopter, gets tracked by the FBI, and then gets arrested by the cops, all in the span of five minutes.](http://9gag.com/gag/aQEVW67)
+ - 🚯 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
  - 🚯 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
 
 --- 
