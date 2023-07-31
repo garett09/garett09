@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Smart Speakers &lpar;2023&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [The 17 Best Games on PlayStation Plus &lpar;August 2023&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
- - [Apple Watch Series 9&#39;s S9 chip to offer a big performance boost](https://appleinsider.com/articles/23/07/30/apple-watch-series-9s-s9-chip-to-offer-a-big-performance-boost?utm_medium=rss)<!-- TECH:END -->
+ - [Tether reports a $850M net profit in Q2, vs. $1.5B in Q1, with ~$3.3B in excess reserves, up from $2.44B in Q1, and $86.5B+ in total assets as of June 30 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230731/p8#a230731p8)
+ - [Samsung Galaxy Tab S9 Ultra vs Apple iPad Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-vs-apple-ipad-pro-3350962/)
+ - [TCL Q6 Review: Best Overall](https://www.wired.com/tcl-q6-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
