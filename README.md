@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Greta Gerwig says watch these movies after Barbie](https://www.polygon.com/23797675/barbie-movie-influences-streaming-greta-gerwig-watch-next)
- - [Netflix&#39;s next Castlevania anime will be out in September](https://www.pcgamer.com/netflixs-next-castlevania-anime-will-be-out-in-september)
- - [Buff time wizard Geras joins the Mortal Kombat 1 roster](https://www.pcgamer.com/buff-time-wizard-geras-joins-the-mortal-kombat-1-roster)<!-- GAME:END -->
+ - [New players could skip the bulk of Final Fantasy 14&#39;s story in the future, though Yoshi-P is hesitant to encourage it](https://www.pcgamer.com/new-players-could-skip-the-bulk-of-final-fantasy-14s-story-in-the-future-though-yoshi-p-is-hesitant-to-encourage-it)
+ - [Venba expands the boundaries of the cooking game genre](https://www.polygon.com/reviews/23811258/venba-review-cooking-game-ps5-xbox-switch)
+ - [Baldur&#39;s Gate 3 Dev Says Their Other Mega RPG Series Is Still Alive](https://kotaku.com/baldurs-gate-3-pc-release-date-divinity-original-sin-2-1850688021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
