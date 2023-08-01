@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy points laser at helicopter, gets tracked by the FBI, and then gets arrested by the cops, all in the span of five minutes.](http://9gag.com/gag/aQEVW67)
- - 🚯 [Just one sip and you&#39;re drunk for the rest of your life \ud83c\udf77](http://9gag.com/gag/aOxG5yE)
- - 🚯 [They were laughing and joking in the court. That&#39;s south africa for you](http://9gag.com/gag/aXne3X2)<!-- MEMES:END -->
+ - 🚖 [I volunteer](http://9gag.com/gag/avQm3pO)
+ - 🚯 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
+ - 🚯 [Social studies 101](http://9gag.com/gag/aBdopGD)<!-- MEMES:END -->
 
 --- 
 
