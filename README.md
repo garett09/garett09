@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New players could skip the bulk of Final Fantasy 14&#39;s story in the future, though Yoshi-P is hesitant to encourage it](https://www.pcgamer.com/new-players-could-skip-the-bulk-of-final-fantasy-14s-story-in-the-future-though-yoshi-p-is-hesitant-to-encourage-it)
- - [Venba expands the boundaries of the cooking game genre](https://www.polygon.com/reviews/23811258/venba-review-cooking-game-ps5-xbox-switch)
- - [Baldur&#39;s Gate 3 Dev Says Their Other Mega RPG Series Is Still Alive](https://kotaku.com/baldurs-gate-3-pc-release-date-divinity-original-sin-2-1850688021)<!-- GAME:END -->
+ - [Even the wildest Barbie fan theories are automatically true](https://www.polygon.com/23811446/barbie-barbieland-fan-theory-margot-robbie-ryan-gosling)
+ - [Coming to Xbox Game Pass: Broforce Forever, Everspace 2, A Short Hike, and More](https://news.xbox.com/en-us/2023/08/01/game-pass-august-2023-wave-1-announce/)
+ - [Sin: Reloaded &#39;isn&#39;t dead&#39; but sure sounds like it&#39;s on ice](https://www.pcgamer.com/sin-reloaded-isnt-dead-but-sure-sounds-like-its-on-ice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
