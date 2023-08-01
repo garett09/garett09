@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether reports a $850M net profit in Q2, vs. $1.5B in Q1, with ~$3.3B in excess reserves, up from $2.44B in Q1, and $86.5B+ in total assets as of June 30 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/230731/p8#a230731p8)
- - [Samsung Galaxy Tab S9 Ultra vs Apple iPad Pro: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-tab-s9-ultra-vs-apple-ipad-pro-3350962/)
- - [TCL Q6 Review: Best Overall](https://www.wired.com/tcl-q6-2023/)<!-- TECH:END -->
+ - [Roborock&#39;s updated app removes the frustration of operating a robot vacuum](https://appleinsider.com/articles/23/08/01/roborocks-updated-app-removes-the-frustration-of-operating-a-robot-vacuum?utm_medium=rss)
+ - [8 Best Language Learning Apps &lpar;2023&rpar;: Online Courses and a Pocket Translator](https://www.wired.com/gallery/best-language-learning-apps/)
+ - [Anker’s second 3D printer is the more affordable AnkerMake M5C](https://www.theverge.com/23814966/ankermake-m5c-3d-printer-release-date-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
