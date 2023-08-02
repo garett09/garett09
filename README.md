@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Even the wildest Barbie fan theories are automatically true](https://www.polygon.com/23811446/barbie-barbieland-fan-theory-margot-robbie-ryan-gosling)
- - [Coming to Xbox Game Pass: Broforce Forever, Everspace 2, A Short Hike, and More](https://news.xbox.com/en-us/2023/08/01/game-pass-august-2023-wave-1-announce/)
- - [Sin: Reloaded &#39;isn&#39;t dead&#39; but sure sounds like it&#39;s on ice](https://www.pcgamer.com/sin-reloaded-isnt-dead-but-sure-sounds-like-its-on-ice)<!-- GAME:END -->
+ - [We didn’t get Batgirl but at least you watch a luchadores-inspired Batwoman instead](https://www.polygon.com/23815433/mexican-horror-superhero-movies-streaming-mubi)
+ - [It looks like D&amp;D 5th edition&#39;s worst subclass will be saved by Baldur&#39;s Gate 3](https://www.pcgamer.com/it-looks-like-dandd-5th-editions-worst-subclass-will-be-saved-by-baldurs-gate-3)
+ - [Xbox at gamescom 2023](https://news.xbox.com/en-us/2023/08/02/xbox-at-gamescom-2023/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
