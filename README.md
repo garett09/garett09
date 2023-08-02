@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock&#39;s updated app removes the frustration of operating a robot vacuum](https://appleinsider.com/articles/23/08/01/roborocks-updated-app-removes-the-frustration-of-operating-a-robot-vacuum?utm_medium=rss)
- - [8 Best Language Learning Apps &lpar;2023&rpar;: Online Courses and a Pocket Translator](https://www.wired.com/gallery/best-language-learning-apps/)
- - [Anker’s second 3D printer is the more affordable AnkerMake M5C](https://www.theverge.com/23814966/ankermake-m5c-3d-printer-release-date-price)<!-- TECH:END -->
+ - [You told us: You mostly stick with 1x zoom on your phone camera](https://www.androidauthority.com/smartphone-camera-zoom-use-poll-results-3351785/)
+ - [How to set multiple timers on your iPhone in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-set-multiple-timers-on-your-iphone-in-ios-17?utm_medium=rss)
+ - [&#39;Another Crab’s Treasure&#39; Does What &#39;Elden Ring&#39; Won’t](https://www.wired.com/story/another-crabs-treasure-accessibility-aggro-crab-elden-ring/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
