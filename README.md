@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I volunteer](http://9gag.com/gag/avQm3pO)
- - 🚯 [It will make you think next time you eat a cashew](http://9gag.com/gag/agojWrK)
- - 🚯 [Social studies 101](http://9gag.com/gag/aBdopGD)<!-- MEMES:END -->
+ - 🚖 [Hold up](http://9gag.com/gag/a8qzP41)
+ - 🚯 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
+ - 🚯 [We\u2019re BEGGING, please, stop filming in gyms.](http://9gag.com/gag/axo4x3W)<!-- MEMES:END -->
 
 --- 
 
