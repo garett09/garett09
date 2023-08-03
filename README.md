@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You mostly stick with 1x zoom on your phone camera](https://www.androidauthority.com/smartphone-camera-zoom-use-poll-results-3351785/)
- - [How to set multiple timers on your iPhone in iOS 17](https://appleinsider.com/inside/ios-17/tips/how-to-set-multiple-timers-on-your-iphone-in-ios-17?utm_medium=rss)
- - [&#39;Another Crab’s Treasure&#39; Does What &#39;Elden Ring&#39; Won’t](https://www.wired.com/story/another-crabs-treasure-accessibility-aggro-crab-elden-ring/)<!-- TECH:END -->
+ - [Coinbase plans to open Base, its layer-2 blockchain built on Optimism&#39;s OP Stack, to the public on August 9 and launches an Ethereum bridge &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230803/p17#a230803p17)
+ - [For the first time, Linux gamers outnumber Mac in Steam&#39;s game census](https://appleinsider.com/articles/23/08/03/for-the-first-time-linux-gamers-outnumber-mac-in-steams-game-census?utm_medium=rss)
+ - [What Meta&#39;s New Studies Do—and Don&#39;t—Reveal About Social Media and Polarization](https://www.wired.com/story/meta-social-media-polarization/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
