@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hold up](http://9gag.com/gag/a8qzP41)
- - 🚯 [Russian fifth-grader blew up the Eternal Flame with a fire extinguisher in Mozhaysk, Moscow. The most incredible revelation party. Unfortunately the boy will commit suicide with 13 shots in his back](http://9gag.com/gag/aA0ZoE9)
- - 🚯 [We\u2019re BEGGING, please, stop filming in gyms.](http://9gag.com/gag/axo4x3W)<!-- MEMES:END -->
+ - 🚖 [Can A.i. make a meme?](http://9gag.com/gag/awZvq5B)
+ - 🚯 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)
+ - 🚯 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
 
 --- 
 
