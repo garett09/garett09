@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We didn’t get Batgirl but at least you watch a luchadores-inspired Batwoman instead](https://www.polygon.com/23815433/mexican-horror-superhero-movies-streaming-mubi)
- - [It looks like D&amp;D 5th edition&#39;s worst subclass will be saved by Baldur&#39;s Gate 3](https://www.pcgamer.com/it-looks-like-dandd-5th-editions-worst-subclass-will-be-saved-by-baldurs-gate-3)
- - [Xbox at gamescom 2023](https://news.xbox.com/en-us/2023/08/02/xbox-at-gamescom-2023/)<!-- GAME:END -->
+ - [The best gaming laptop form factor gets another player in the Legion](https://www.pcgamer.com/the-best-gaming-laptop-form-factor-gets-another-player-in-the-legion)
+ - [Star Trek’s first-ever musical episode divided the Strange New Worlds cast](https://www.polygon.com/23817437/star-trek-musical-strange-new-worlds-episode-snw)
+ - [Eve Online gets an epic 4X board game, and the miniatures look incredible](https://www.polygon.com/23816020/eve-online-board-game-crowdfunding-titan-forge-miniatures-announcement-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
