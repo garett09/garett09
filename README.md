@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming laptop form factor gets another player in the Legion](https://www.pcgamer.com/the-best-gaming-laptop-form-factor-gets-another-player-in-the-legion)
- - [Star Trek’s first-ever musical episode divided the Strange New Worlds cast](https://www.polygon.com/23817437/star-trek-musical-strange-new-worlds-episode-snw)
- - [Eve Online gets an epic 4X board game, and the miniatures look incredible](https://www.polygon.com/23816020/eve-online-board-game-crowdfunding-titan-forge-miniatures-announcement-release-date-price)<!-- GAME:END -->
+ - [One of our favourite games of 2021 is free, so I just spent an hour playing it rather than writing this](https://www.pcgamer.com/one-of-our-favourite-games-of-2021-is-free-so-i-just-spent-an-hour-playing-it-rather-than-writing-this)
+ - [Gran Turismo 7 Update 1.36 adds 4 new cars, three Extra Menus, and a Gran Turismo movie experience](https://blog.playstation.com/2023/08/04/gran-turismo-7-update-1-36-adds-4-new-cars-three-extra-menus-and-a-gran-turismo-movie-experience/)
+ - [Paul Reubens and Pee-wee’s Playhouse made it okay for TV to be weird](https://www.polygon.com/23818938/paul-reubens-pee-wee-playhouse-tv-show-obituary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
