@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can A.i. make a meme?](http://9gag.com/gag/awZvq5B)
- - 🚯 [Why do women live longer than men](http://9gag.com/gag/aBdvQ1O)
- - 🚯 [Ouch!!](http://9gag.com/gag/aQErPzK)<!-- MEMES:END -->
+ - 🚖 [50% off](http://9gag.com/gag/aMEWbZW)
+ - 🚯 [Water Pistol](http://9gag.com/gag/aKELgOQ)
+ - 🚯 [U dont do that to a woman!](http://9gag.com/gag/a1PxYbR)<!-- MEMES:END -->
 
 --- 
 
