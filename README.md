@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase plans to open Base, its layer-2 blockchain built on Optimism&#39;s OP Stack, to the public on August 9 and launches an Ethereum bridge &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/230803/p17#a230803p17)
- - [For the first time, Linux gamers outnumber Mac in Steam&#39;s game census](https://appleinsider.com/articles/23/08/03/for-the-first-time-linux-gamers-outnumber-mac-in-steams-game-census?utm_medium=rss)
- - [What Meta&#39;s New Studies Do—and Don&#39;t—Reveal About Social Media and Polarization](https://www.wired.com/story/meta-social-media-polarization/)<!-- TECH:END -->
+ - [Ilya Lichtenstein, who earlier pleaded guilty to laundering billions in cryptocurrency from the 2016 Bitfinex hack, admits to being the original Bitfinex hacker &lpar;CNBC&rpar;](http://www.techmeme.com/230804/p12#a230804p12)
+ - [Meeting Sinéad O’Connor in a Cracker Barrel Parking Lot, 1998](https://www.wired.com/story/sinead-oconnor-social-media/)
+ - [Willow 3.0 Review: Expensive but Good](https://www.wired.com/review/willow-3-breast-pump/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
