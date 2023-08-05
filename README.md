@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [50% off](http://9gag.com/gag/aMEWbZW)
- - 🚯 [Water Pistol](http://9gag.com/gag/aKELgOQ)
- - 🚯 [U dont do that to a woman!](http://9gag.com/gag/a1PxYbR)<!-- MEMES:END -->
+ - 🚖 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
+ - 🚯 [Just do it](http://9gag.com/gag/aqedLL7)
+ - 🚯 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)<!-- MEMES:END -->
 
 --- 
 
