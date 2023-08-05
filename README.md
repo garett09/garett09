@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of our favourite games of 2021 is free, so I just spent an hour playing it rather than writing this](https://www.pcgamer.com/one-of-our-favourite-games-of-2021-is-free-so-i-just-spent-an-hour-playing-it-rather-than-writing-this)
- - [Gran Turismo 7 Update 1.36 adds 4 new cars, three Extra Menus, and a Gran Turismo movie experience](https://blog.playstation.com/2023/08/04/gran-turismo-7-update-1-36-adds-4-new-cars-three-extra-menus-and-a-gran-turismo-movie-experience/)
- - [Paul Reubens and Pee-wee’s Playhouse made it okay for TV to be weird](https://www.polygon.com/23818938/paul-reubens-pee-wee-playhouse-tv-show-obituary)<!-- GAME:END -->
+ - [The 11 best movies new to streaming in August, including a key Oppenheimer inspiration](https://www.polygon.com/what-to-watch/2023/8/5/23816024/best-new-movies-netflix-amazon-prime-max-hulu-august-2023)
+ - [The best thing Baldur&#39;s Gate 3 has added to D&amp;D is underpants lore](https://www.pcgamer.com/the-best-thing-baldurs-gate-3-has-added-to-dandd-is-underpants-lore)
+ - [Blade Runner RPG publisher Free League wins big at Gen Con’s Ennie Awards for 2023](https://www.polygon.com/23815466/ennie-awards-2023-best-game-vaesen-linda-codega)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
