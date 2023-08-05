@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ilya Lichtenstein, who earlier pleaded guilty to laundering billions in cryptocurrency from the 2016 Bitfinex hack, admits to being the original Bitfinex hacker &lpar;CNBC&rpar;](http://www.techmeme.com/230804/p12#a230804p12)
- - [Meeting Sinéad O’Connor in a Cracker Barrel Parking Lot, 1998](https://www.wired.com/story/sinead-oconnor-social-media/)
- - [Willow 3.0 Review: Expensive but Good](https://www.wired.com/review/willow-3-breast-pump/)<!-- TECH:END -->
+ - [Apple Pay launches in Chile, Vietnam rumored for August 8](https://appleinsider.com/articles/23/08/05/apple-pay-launches-in-chile-vietnam-rumored-for-august-8?utm_medium=rss)
+ - [Exclusive: Google Pixel Watch 2 to feature UWB, new chipset, and more](https://www.androidauthority.com/pixel-watch-2-specs-3352481/)
+ - [Google Makes It Easier to Delete Your Personal Deets](https://www.wired.com/story/google-new-privacy-tools-remove-personal-information-from-search/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
