@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Moment Post Malone Bought The One Ring Magic The Gathering Card For 2 Million Dollars](http://9gag.com/gag/aMEWQ4X)
- - 🚯 [Just do it](http://9gag.com/gag/aqedLL7)
- - 🚯 [I dont remember a country in africa named philly.](http://9gag.com/gag/a04xYgL)<!-- MEMES:END -->
+ - 🚖 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
+ - 🚯 [Women hate it when we&#39;re happy](http://9gag.com/gag/ay2zXj8)
+ - 🚯 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)<!-- MEMES:END -->
 
 --- 
 
