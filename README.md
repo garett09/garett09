@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay launches in Chile, Vietnam rumored for August 8](https://appleinsider.com/articles/23/08/05/apple-pay-launches-in-chile-vietnam-rumored-for-august-8?utm_medium=rss)
- - [Exclusive: Google Pixel Watch 2 to feature UWB, new chipset, and more](https://www.androidauthority.com/pixel-watch-2-specs-3352481/)
- - [Google Makes It Easier to Delete Your Personal Deets](https://www.wired.com/story/google-new-privacy-tools-remove-personal-information-from-search/)<!-- TECH:END -->
+ - [9 Best Carpet Cleaners &lpar;2023&rpar;: Budget, Spot Cleaners, Hard Floors](https://www.wired.com/gallery/best-carpet-cleaners/)
+ - [The cage match is back: Musk says Zuck fight will ‘be live-streamed on X’](https://www.theverge.com/2023/8/6/23821840/the-cage-match-is-back-musk-says-the-fight-will-be-live-streamed-on-x)
+ - [Man fails to smuggle 68 iPhones by taping them to his body](https://appleinsider.com/articles/23/08/06/man-fails-to-smuggle-68-iphones-by-taping-them-to-his-body?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
