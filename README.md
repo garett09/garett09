@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get a PS5 for as low as $350 at Best Buy](https://www.polygon.com/deals/23818560/best-gaming-deals-playstation-5-gamestop-free-games)
- - [Magic: The Gathering&#39;s next crossovers include Fallout and Final Fantasy](https://www.pcgamer.com/magic-the-gatherings-next-crossovers-include-fallout-final-fantasy)
- - [Meet the unluckiest videogame protagonist in history as we look back at Titanic: Adventure Out of Time](https://www.pcgamer.com/saturday-crapshoot-titanic-adventure-out-of-time)<!-- GAME:END -->
+ - [One Piece’s Gear 5 transformation does more than just get Luffy closer to his dream](https://www.polygon.com/23818055/one-piece-luffy-episode-1071-gear-5)
+ - [Where to find the Wilderness waypoints in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-waypoints-fast-travel)
+ - [Baldur&#39;s Gate 3 FSR 2.2 upgrade likely to drop &#39;closer to September 6&#39;](https://www.pcgamer.com/baldurs-gate-3-fsr-22-upgrade-likely-to-drop-closer-to-september-6)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
