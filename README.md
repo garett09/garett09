@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep your hands and feet inside the vehicle at all times](http://9gag.com/gag/abvdzG8)
- - 🚯 [Women hate it when we&#39;re happy](http://9gag.com/gag/ay2zXj8)
- - 🚯 [Here&#39;s another hero. Don&#39;t let them fade away.](http://9gag.com/gag/amAd9j4)<!-- MEMES:END -->
+ - 🚖 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
+ - 🚯 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)
+ - 🚯 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)<!-- MEMES:END -->
 
 --- 
 
