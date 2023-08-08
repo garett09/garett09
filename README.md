@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never stick your dick in crazy](http://9gag.com/gag/ajVd8DG)
- - 🚯 [I thought that was the USA men&#39;s team](http://9gag.com/gag/a4oxG4Q)
- - 🚯 [By `they` I mean `them` Yogi](http://9gag.com/gag/a8qn3L6)<!-- MEMES:END -->
+ - 🚖 [Two Years of opening my Dream Project in Yemen](http://9gag.com/gag/a1Px11b)
+ - 🚯 [Boys being boys](http://9gag.com/gag/a9qV16j)
+ - 🚯 [Kneeling sheep](http://9gag.com/gag/agodgmg)<!-- MEMES:END -->
 
 --- 
 
