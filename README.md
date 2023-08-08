@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal announces PYUSD, a stablecoin issued by Paxos and fully backed by USD, short-term Treasuries, and cash equivalents, rolling out to US customers gradually &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/230807/p13#a230807p13)
- - [The Internet Speech Case That the Supreme Court Can’t Dodge](https://www.wired.com/story/tech-policy-netchoice-scotus/)
- - [8 Best Robot Vacuums &lpar;2023&rpar;: Mops, Budget Vacs, Great Mapping](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
+ - [A SCOTUS opinion in the NetChoice cases challenging social media content moderation laws in Texas and Florida will be far more impactful than Gonzalez v. Google &lpar;Jeff Kosseff/Wired&rpar;](http://www.techmeme.com/230808/p18#a230808p18)
+ - [TSMC expected to approve $11 billion Germany chip factory plans](https://appleinsider.com/articles/23/08/08/tsmc-expected-to-approve-11-billion-germany-chip-factory-plans?utm_medium=rss)
+ - [Apple’s iPad Mini is $100 off](https://www.theverge.com/2023/8/8/23823002/apple-ipad-mini-deal-google-pixel-7-logitech-k380-keyboard-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
