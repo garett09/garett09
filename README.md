@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece’s Gear 5 transformation does more than just get Luffy closer to his dream](https://www.polygon.com/23818055/one-piece-luffy-episode-1071-gear-5)
- - [Where to find the Wilderness waypoints in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-waypoints-fast-travel)
- - [Baldur&#39;s Gate 3 FSR 2.2 upgrade likely to drop &#39;closer to September 6&#39;](https://www.pcgamer.com/baldurs-gate-3-fsr-22-upgrade-likely-to-drop-closer-to-september-6)<!-- GAME:END -->
+ - [Xbox Brings Back $1 Game Pass Ultimate Deal After Price Hike [Update]](https://kotaku.com/xbox-game-pass-ultimate-deal-price-starfield-pc-cheap-1850614918)
+ - [The Gran Turismo movie veers into full-on gamer cringe](https://www.polygon.com/reviews/23823600/gran-turismo-movie-review)
+ - [Red Dead Redemption fans turn their ire against Rockstar after bewildering PS4 port choice: &#39;Rockstar is Dutch and we&#39;ve all become Arthur&#39;](https://www.pcgamer.com/red-dead-redemption-fans-turn-their-ire-against-rockstar-after-bewildering-ps4-port-choice-rockstar-is-dutch-and-weve-all-become-arthur)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
