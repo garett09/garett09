@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A SCOTUS opinion in the NetChoice cases challenging social media content moderation laws in Texas and Florida will be far more impactful than Gonzalez v. Google &lpar;Jeff Kosseff/Wired&rpar;](http://www.techmeme.com/230808/p18#a230808p18)
- - [TSMC expected to approve $11 billion Germany chip factory plans](https://appleinsider.com/articles/23/08/08/tsmc-expected-to-approve-11-billion-germany-chip-factory-plans?utm_medium=rss)
- - [Apple’s iPad Mini is $100 off](https://www.theverge.com/2023/8/8/23823002/apple-ipad-mini-deal-google-pixel-7-logitech-k380-keyboard-sale)<!-- TECH:END -->
+ - [Slack announces its biggest-ever redesign, catering to power users, adding a new Home section, a new sidebar on the left, a new DMs section, and Activity window &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230809/p23#a230809p23)
+ - [Apple iPad Pro &lpar;7th generation&rpar;: Release date, specs, price, rumors, and more](https://www.androidauthority.com/apple-ipad-pro-7th-generation-3352395/)
+ - [Samsung Galaxy Z Fold 5 review: The future is unfolding](https://www.androidauthority.com/samsung-galaxy-z-fold-5-review-3351922/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
