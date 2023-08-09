@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two Years of opening my Dream Project in Yemen](http://9gag.com/gag/a1Px11b)
- - 🚯 [Boys being boys](http://9gag.com/gag/a9qV16j)
- - 🚯 [Kneeling sheep](http://9gag.com/gag/agodgmg)<!-- MEMES:END -->
+ - 🚖 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
+ - 🚯 [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
+ - 🚯 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
 
 --- 
 
