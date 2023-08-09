@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Brings Back $1 Game Pass Ultimate Deal After Price Hike [Update]](https://kotaku.com/xbox-game-pass-ultimate-deal-price-starfield-pc-cheap-1850614918)
- - [The Gran Turismo movie veers into full-on gamer cringe](https://www.polygon.com/reviews/23823600/gran-turismo-movie-review)
- - [Red Dead Redemption fans turn their ire against Rockstar after bewildering PS4 port choice: &#39;Rockstar is Dutch and we&#39;ve all become Arthur&#39;](https://www.pcgamer.com/red-dead-redemption-fans-turn-their-ire-against-rockstar-after-bewildering-ps4-port-choice-rockstar-is-dutch-and-weve-all-become-arthur)<!-- GAME:END -->
+ - [The Afterparty’s erotic thriller parody is one of the funniest TV episodes of the year](https://www.polygon.com/23824996/afterparty-apple-tv-erotic-thriller-episode-danners-fire-michael-ealy-incredible)
+ - [Local retailer had $300,000 worth of Magic: The Gathering cards stolen at Gen Con](https://www.polygon.com/23823431/magic-the-gathering-card-heist-gen-con)
+ - [How to help Pandirna in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-help-pandirna)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
