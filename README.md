@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slack announces its biggest-ever redesign, catering to power users, adding a new Home section, a new sidebar on the left, a new DMs section, and Activity window &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/230809/p23#a230809p23)
- - [Apple iPad Pro &lpar;7th generation&rpar;: Release date, specs, price, rumors, and more](https://www.androidauthority.com/apple-ipad-pro-7th-generation-3352395/)
- - [Samsung Galaxy Z Fold 5 review: The future is unfolding](https://www.androidauthority.com/samsung-galaxy-z-fold-5-review-3351922/)<!-- TECH:END -->
+ - [Zoom Became a Part of Daily Life. It Needs to Tell Users Exactly How It&#39;s Using Their Data](https://www.wired.com/story/zoom-became-a-part-of-daily-life-it-needs-to-tell-users-exactly-how-its-using-their-data/)
+ - [Best MacBook Accessories &lpar;2023&rpar;: Keyboards, External Monitors, and Sleeves](https://www.wired.com/story/best-macbook-accessories/)
+ - [The Newest Threat to Your Attention Span? TikTok ‘Dual’ Videos](https://www.wired.com/story/tiktok-dual-videos-attention-spans/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
