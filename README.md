@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Afterparty’s erotic thriller parody is one of the funniest TV episodes of the year](https://www.polygon.com/23824996/afterparty-apple-tv-erotic-thriller-episode-danners-fire-michael-ealy-incredible)
- - [Local retailer had $300,000 worth of Magic: The Gathering cards stolen at Gen Con](https://www.polygon.com/23823431/magic-the-gathering-card-heist-gen-con)
- - [How to help Pandirna in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-help-pandirna)<!-- GAME:END -->
+ - [Destiny 2&#39;s most overpowered ability is being nerfed because it was &#39;a skeleton key that solves combat problems against all combatant types&#39;](https://www.pcgamer.com/destiny-2s-most-overpowered-ability-is-being-nerfed-because-it-was-a-skeleton-key-that-solves-combat-problems-against-all-combatant-types)
+ - [New Lords of the Fallen gameplay details highlight fluid soulsike combat and seamless co-op – out Oct 13](https://blog.playstation.com/2023/08/10/new-lords-of-the-fallen-gameplay-details-highlight-fluid-soulsike-combat-and-seamless-co-op-out-oct-13/)
+ - [New Lords of the Fallen gameplay details highlight fluid soulsike combat and seamless co-op – out Oct 13](https://blog.playstation.com/2023/08/10/new-lords-of-the-fallen-gameplay-details-highlight-fluid-soulsike-combat-and-seamless-co-op-out-oct-13/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
