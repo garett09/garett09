@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Oligodynamic effect](http://9gag.com/gag/anzd7Mz)
- - 🚯 [Don\u2019t drop my iPhone - very expensive](http://9gag.com/gag/aMEWE2A)
- - 🚯 [Waifu material.](http://9gag.com/gag/abvdvqB)<!-- MEMES:END -->
+ - 🚖 [WHY WHITE SOUTH AFRICANS CAN&#39;T ALWAYS JUST LEAVE.](http://9gag.com/gag/aEqQV5O)
+ - 🚯 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
+ - 🚯 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
 
 --- 
 
