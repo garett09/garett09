@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WHY WHITE SOUTH AFRICANS CAN&#39;T ALWAYS JUST LEAVE.](http://9gag.com/gag/aEqQV5O)
- - 🚯 [Here&#39;s a clue... a Chad.](http://9gag.com/gag/aNwqQQ4)
- - 🚯 [Straight up demonic, what&#39;s going on in South Africa](http://9gag.com/gag/abvdeOb)<!-- MEMES:END -->
+ - 🚖 [I am so happy that I was reminded of this accident. I total forgot about it and moved on](http://9gag.com/gag/a8qnwXZ)
+ - 🚯 [Fun fact - You can make pretty epic bombs from fertiliser. Wish me luck yeh wankers :D](http://9gag.com/gag/a8qnDD3)
+ - 🚯 [Man eating and licking beef kebab right in front of angry animal rights activists.](http://9gag.com/gag/a8qn21O)<!-- MEMES:END -->
 
 --- 
 
