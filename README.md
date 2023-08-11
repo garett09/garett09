@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom Became a Part of Daily Life. It Needs to Tell Users Exactly How It&#39;s Using Their Data](https://www.wired.com/story/zoom-became-a-part-of-daily-life-it-needs-to-tell-users-exactly-how-its-using-their-data/)
- - [Best MacBook Accessories &lpar;2023&rpar;: Keyboards, External Monitors, and Sleeves](https://www.wired.com/story/best-macbook-accessories/)
- - [The Newest Threat to Your Attention Span? TikTok ‘Dual’ Videos](https://www.wired.com/story/tiktok-dual-videos-attention-spans/)<!-- TECH:END -->
+ - [Marvel&#39;s VFX Workers Have Moved to Unionize—and It&#39;s a Huge Deal for Hollywood](https://www.wired.com/story/marvel-vfx-unionization-big-deal/)
+ - [Audacy takes $10 million hit to leave ‘onerous’ podcasting deal with APM](https://www.theverge.com/2023/8/11/23827831/audacy-ends-podcast-deal-american-public-media-apm)
+ - [Apple&#39;s forgotten Trailers app is on its way out](https://appleinsider.com/articles/23/08/11/apples-forgotten-trailers-app-is-on-its-way-out?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
