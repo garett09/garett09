@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2&#39;s most overpowered ability is being nerfed because it was &#39;a skeleton key that solves combat problems against all combatant types&#39;](https://www.pcgamer.com/destiny-2s-most-overpowered-ability-is-being-nerfed-because-it-was-a-skeleton-key-that-solves-combat-problems-against-all-combatant-types)
- - [New Lords of the Fallen gameplay details highlight fluid soulsike combat and seamless co-op – out Oct 13](https://blog.playstation.com/2023/08/10/new-lords-of-the-fallen-gameplay-details-highlight-fluid-soulsike-combat-and-seamless-co-op-out-oct-13/)
- - [New Lords of the Fallen gameplay details highlight fluid soulsike combat and seamless co-op – out Oct 13](https://blog.playstation.com/2023/08/10/new-lords-of-the-fallen-gameplay-details-highlight-fluid-soulsike-combat-and-seamless-co-op-out-oct-13/)<!-- GAME:END -->
+ - [How to connect 127 USB devices to your PC. Kinda...](https://www.pcgamer.com/how-to-connect-127-usb-devices-to-your-pc-kinda)
+ - [Everspace 2’s immersive features allow captivating interstellar travel – out Aug 15](https://blog.playstation.com/2023/08/11/everspace-2s-immersive-features-allow-captivating-interstellar-travel-out-aug-15/)
+ - [Everspace 2’s immersive features allow captivating interstellar travel – out Aug 15](https://blog.playstation.com/2023/08/11/everspace-2s-immersive-features-allow-captivating-interstellar-travel-out-aug-15/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
