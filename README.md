@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am so happy that I was reminded of this accident. I total forgot about it and moved on](http://9gag.com/gag/a8qnwXZ)
- - 🚯 [Fun fact - You can make pretty epic bombs from fertiliser. Wish me luck yeh wankers :D](http://9gag.com/gag/a8qnDD3)
- - 🚯 [Man eating and licking beef kebab right in front of angry animal rights activists.](http://9gag.com/gag/a8qn21O)<!-- MEMES:END -->
+ - 🚖 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
+ - 🚯 [Straight to jail](http://9gag.com/gag/abvd2xO)
+ - 🚯 [Brutal](http://9gag.com/gag/aWGdo72)<!-- MEMES:END -->
 
 --- 
 
