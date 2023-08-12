@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to connect 127 USB devices to your PC. Kinda...](https://www.pcgamer.com/how-to-connect-127-usb-devices-to-your-pc-kinda)
- - [Everspace 2’s immersive features allow captivating interstellar travel – out Aug 15](https://blog.playstation.com/2023/08/11/everspace-2s-immersive-features-allow-captivating-interstellar-travel-out-aug-15/)
- - [Everspace 2’s immersive features allow captivating interstellar travel – out Aug 15](https://blog.playstation.com/2023/08/11/everspace-2s-immersive-features-allow-captivating-interstellar-travel-out-aug-15/)<!-- GAME:END -->
+ - [The 5 best thrillers to watch on Netflix this August](https://www.polygon.com/what-to-watch/2023/8/12/23822868/best-thriller-movies-netflix-watch-august-2023)
+ - [Today&#39;s Wordle hint and answer #784: Saturday, August 12](https://www.pcgamer.com/wordle-answer-today-hint-784-august-12)
+ - [A single Diablo 4 dungeon is so stuffed with monsters you can gain 40 levels in under 2 hours](https://www.pcgamer.com/a-single-diablo-4-dungeon-is-so-stuffed-with-monsters-you-can-gain-40-levels-in-under-2-hours)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
