@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel&#39;s VFX Workers Have Moved to Unionize—and It&#39;s a Huge Deal for Hollywood](https://www.wired.com/story/marvel-vfx-unionization-big-deal/)
- - [Audacy takes $10 million hit to leave ‘onerous’ podcasting deal with APM](https://www.theverge.com/2023/8/11/23827831/audacy-ends-podcast-deal-american-public-media-apm)
- - [Apple&#39;s forgotten Trailers app is on its way out](https://appleinsider.com/articles/23/08/11/apples-forgotten-trailers-app-is-on-its-way-out?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung is wrong, software is the biggest problem for foldables](https://www.androidauthority.com/samsung-galaxy-z-foldable-software-3353872/)
+ - [15 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
+ - [A New Attack Reveals Everything You Type With 95 Percent Accuracy](https://www.wired.com/story/keystroke-attack-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
