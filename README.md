@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Melbourne \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/ajVdWYQ)
- - 🚯 [Straight to jail](http://9gag.com/gag/abvd2xO)
- - 🚯 [Brutal](http://9gag.com/gag/aWGdo72)<!-- MEMES:END -->
+ - 🚖 [These people are so out of touch with reality](http://9gag.com/gag/aREyNLy)
+ - 🚯 [Best version.](http://9gag.com/gag/avQDDRE)
+ - 🚯 [I&#39;ve lived my life by the principle of `Do unto others as you would have them do unto you.` How stupid are these liberals, granting citizenships to these animals, just out of fear of not being seen as racist? Even we here in the Middle East don&#39;t want them!](http://9gag.com/gag/aEqQE29)<!-- MEMES:END -->
 
 --- 
 
