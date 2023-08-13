@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best thrillers to watch on Netflix this August](https://www.polygon.com/what-to-watch/2023/8/12/23822868/best-thriller-movies-netflix-watch-august-2023)
- - [Today&#39;s Wordle hint and answer #784: Saturday, August 12](https://www.pcgamer.com/wordle-answer-today-hint-784-august-12)
- - [A single Diablo 4 dungeon is so stuffed with monsters you can gain 40 levels in under 2 hours](https://www.pcgamer.com/a-single-diablo-4-dungeon-is-so-stuffed-with-monsters-you-can-gain-40-levels-in-under-2-hours)<!-- GAME:END -->
+ - [Buy an Xbox Series S, get any $69.99 digital game for free at Target](https://www.polygon.com/deals/23828570/xbox-series-s-digital-game-deal-target)
+ - [Today&#39;s Wordle hint and answer #785: Sunday, August 13](https://www.pcgamer.com/wordle-answer-today-hint-785-august-13)
+ - [If you like the way D&amp;D&#39;s eldritch blast works in Baldur&#39;s Gate 3, now you can blast away in Skyrim too](https://www.pcgamer.com/if-you-like-the-way-dandds-eldritch-blast-works-in-baldurs-gate-3-now-you-blast-away-in-skyrim-too)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
