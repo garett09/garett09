@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is wrong, software is the biggest problem for foldables](https://www.androidauthority.com/samsung-galaxy-z-foldable-software-3353872/)
- - [15 Best Android Phones &lpar;2023&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [A New Attack Reveals Everything You Type With 95 Percent Accuracy](https://www.wired.com/story/keystroke-attack-security-roundup/)<!-- TECH:END -->
+ - [Major Apple Watch redesign could change how bands attach](https://appleinsider.com/articles/23/08/13/major-apple-watch-redesign-could-change-how-bands-attach?utm_medium=rss)
+ - [Google Pixel 8a: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [How to Find a Home or Apartment in a City You Don&#39;t Live In](https://www.wired.com/story/how-to-find-home-apartment-new-city-state-country/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
