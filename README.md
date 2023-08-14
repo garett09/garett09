@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major Apple Watch redesign could change how bands attach](https://appleinsider.com/articles/23/08/13/major-apple-watch-redesign-could-change-how-bands-attach?utm_medium=rss)
- - [Google Pixel 8a: Release date, price, specs, rumors, and what we want to see](https://www.androidauthority.com/google-pixel-8a-3353772/)
- - [How to Find a Home or Apartment in a City You Don&#39;t Live In](https://www.wired.com/story/how-to-find-home-apartment-new-city-state-country/)<!-- TECH:END -->
+ - [5 Best E-Readers &lpar;2023&rpar;: Kindle, Nook, Kobo](https://www.wired.com/gallery/best-ereaders/)
+ - [Samsung QD-OLED TV review, SwitchBot update, &amp; MagSafe VS Qi2 on the HomeKit Insider podcast](https://appleinsider.com/articles/23/08/14/samsung-qd-oled-tv-review-switchbot-update-magsafe-vs-qi2-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Microsoft’s new Office default theme and font arrives in September](https://www.theverge.com/2023/8/14/23831190/microsoft-office-new-default-theme-font-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
