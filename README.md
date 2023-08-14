@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Buy an Xbox Series S, get any $69.99 digital game for free at Target](https://www.polygon.com/deals/23828570/xbox-series-s-digital-game-deal-target)
- - [Today&#39;s Wordle hint and answer #785: Sunday, August 13](https://www.pcgamer.com/wordle-answer-today-hint-785-august-13)
- - [If you like the way D&amp;D&#39;s eldritch blast works in Baldur&#39;s Gate 3, now you can blast away in Skyrim too](https://www.pcgamer.com/if-you-like-the-way-dandds-eldritch-blast-works-in-baldurs-gate-3-now-you-blast-away-in-skyrim-too)<!-- GAME:END -->
+ - [How to get to the House of Hope in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-house-of-hope)
+ - [Hamilton Simulator in Roblox lets you sing enemies to death with characters from the musical](https://www.pcgamer.com/hamilton-simulator-in-roblox-lets-you-sing-enemies-to-death-with-characters-from-the-musical)
+ - [Divining the Nvidia Blackwell RTX 50-series GPUs from some alpha-numeric runes](https://www.pcgamer.com/nvidia-blackwell-rtx-50-series-rumours)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
