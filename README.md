@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best E-Readers &lpar;2023&rpar;: Kindle, Nook, Kobo](https://www.wired.com/gallery/best-ereaders/)
- - [Samsung QD-OLED TV review, SwitchBot update, &amp; MagSafe VS Qi2 on the HomeKit Insider podcast](https://appleinsider.com/articles/23/08/14/samsung-qd-oled-tv-review-switchbot-update-magsafe-vs-qi2-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Microsoft’s new Office default theme and font arrives in September](https://www.theverge.com/2023/8/14/23831190/microsoft-office-new-default-theme-font-release-date)<!-- TECH:END -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-8-ultra-second-gen-se-best-smartwatch-how-to)
+ - [8 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [Setapp plans to launch EU-only alternative iOS App Store](https://appleinsider.com/articles/23/08/15/setapp-plans-to-launch-eu-only-alternative-ios-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
