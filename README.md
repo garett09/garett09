@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you wonder why Diablo 4 is bad and couldn&#39;t figure it out why then Blizzard provided the answer](http://9gag.com/gag/armd9x5)
- - 🚯 [Money](http://9gag.com/gag/aqedVqQ)
- - 🚯 [The 2014 incident where this dance first appeared on the internet](http://9gag.com/gag/adPddrN)<!-- MEMES:END -->
+ - 🚖 [BY THE HOLY EMPEROR!](http://9gag.com/gag/aOxjWX6)
+ - 🚯 [They had me in the first half\u2026](http://9gag.com/gag/a3ZxgG8)
+ - 🚯 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)<!-- MEMES:END -->
 
 --- 
 
