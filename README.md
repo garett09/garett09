@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get to the House of Hope in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-house-of-hope)
- - [Hamilton Simulator in Roblox lets you sing enemies to death with characters from the musical](https://www.pcgamer.com/hamilton-simulator-in-roblox-lets-you-sing-enemies-to-death-with-characters-from-the-musical)
- - [Divining the Nvidia Blackwell RTX 50-series GPUs from some alpha-numeric runes](https://www.pcgamer.com/nvidia-blackwell-rtx-50-series-rumours)<!-- GAME:END -->
+ - [Daggerheart, the Critical Role publisher’s answer to D&amp;D, feels indistinct](https://www.polygon.com/23831824/daggerheart-critical-role-rpg-preview)
+ - [Guild Wars 2&#39;s new expansion is built around the game&#39;s best mount](https://www.pcgamer.com/guild-wars-2s-new-expansion-is-built-around-the-games-best-mount)
+ - [Gord review](https://www.pcgamer.com/gord-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
