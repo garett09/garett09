@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BY THE HOLY EMPEROR!](http://9gag.com/gag/aOxjWX6)
- - 🚯 [They had me in the first half\u2026](http://9gag.com/gag/a3ZxgG8)
- - 🚯 [Reverse To Catch A Predator](http://9gag.com/gag/aMEW7nM)<!-- MEMES:END -->
+ - 🚖 [How to tell a true Asian](http://9gag.com/gag/a4oxv3d)
+ - 🚯 [Based](http://9gag.com/gag/aKELRO3)
+ - 🚯 [I&#39;m in this photo and I don&#39;t like it.](http://9gag.com/gag/aPgpbbP)<!-- MEMES:END -->
 
 --- 
 
