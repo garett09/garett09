@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-8-ultra-second-gen-se-best-smartwatch-how-to)
- - [8 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Setapp plans to launch EU-only alternative iOS App Store](https://appleinsider.com/articles/23/08/15/setapp-plans-to-launch-eu-only-alternative-ios-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: as part of a long-running DOJ investigation into Visa, officials are looking at how the company charges merchants for using its &quot;tokenization&quot; service &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p17#a230816p17)
+ - [The gang is back together in the first trailer for Netflix’s Scott Pilgrim anime](https://www.theverge.com/23834191/scott-pilgrim-anime-trailer-netflix)
+ - [Here’s when OPPO could launch the Find N3 Flip and Watch 4 Pro](https://www.androidauthority.com/oppo-find-n3-flip-watch-4-pro-launch-date-leak-3355513/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
