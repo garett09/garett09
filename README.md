@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Daggerheart, the Critical Role publisher’s answer to D&amp;D, feels indistinct](https://www.polygon.com/23831824/daggerheart-critical-role-rpg-preview)
- - [Guild Wars 2&#39;s new expansion is built around the game&#39;s best mount](https://www.pcgamer.com/guild-wars-2s-new-expansion-is-built-around-the-games-best-mount)
- - [Gord review](https://www.pcgamer.com/gord-review)<!-- GAME:END -->
+ - [The director of Miguel Wants to Fight tells us how anime changed his life](https://www.polygon.com/23831928/miguel-wants-to-fight-oz-rodriguez-interview)
+ - [Shadow Gambit: The Cursed Crew review](https://www.pcgamer.com/shadow-gambit-the-cursed-crew-review)
+ - [How to complete the Wyrmway in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-wyrmway-chamber-solutions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
