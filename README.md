@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to tell a true Asian](http://9gag.com/gag/a4oxv3d)
- - 🚯 [Based](http://9gag.com/gag/aKELRO3)
- - 🚯 [I&#39;m in this photo and I don&#39;t like it.](http://9gag.com/gag/aPgpbbP)<!-- MEMES:END -->
+ - 🚖 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
+ - 🚯 [We always know](http://9gag.com/gag/aA0mj19)
+ - 🚯 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)<!-- MEMES:END -->
 
 --- 
 
