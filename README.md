@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The director of Miguel Wants to Fight tells us how anime changed his life](https://www.polygon.com/23831928/miguel-wants-to-fight-oz-rodriguez-interview)
- - [Shadow Gambit: The Cursed Crew review](https://www.pcgamer.com/shadow-gambit-the-cursed-crew-review)
- - [How to complete the Wyrmway in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-wyrmway-chamber-solutions)<!-- GAME:END -->
+ - [The era of the animated action movie is here](https://www.polygon.com/23834641/animation-movies-spider-verse-teenage-mutant-ninja-turtles-monkey-king-puss-in-boots)
+ - [Experience The First Descendant open beta with immersive DualSense controller features](https://blog.playstation.com/2023/08/17/experience-the-first-descendant-open-beta-with-immersive-dualsense-controller-features/)
+ - [The Xbox 360 Store Will Close July 2024, But You Can Keep Playing Your Favorite Games](https://news.xbox.com/en-us/2023/08/17/xbox-360-store-will-close-july-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
