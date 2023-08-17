@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: as part of a long-running DOJ investigation into Visa, officials are looking at how the company charges merchants for using its &quot;tokenization&quot; service &lpar;Bloomberg&rpar;](http://www.techmeme.com/230816/p17#a230816p17)
- - [The gang is back together in the first trailer for Netflix’s Scott Pilgrim anime](https://www.theverge.com/23834191/scott-pilgrim-anime-trailer-netflix)
- - [Here’s when OPPO could launch the Find N3 Flip and Watch 4 Pro](https://www.androidauthority.com/oppo-find-n3-flip-watch-4-pro-launch-date-leak-3355513/)<!-- TECH:END -->
+ - [Sei launches its trading-focused blockchain and SEI reaches $1.6B trading volume in the first 24 hours, per CoinMarketCap; many users criticized SEI&#39;s airdrop &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/230817/p20#a230817p20)
+ - [The Best Hiking Gear &lpar;2023&rpar;: Backpacks, Tents, and More](https://www.wired.com/story/best-hiking-gear/)
+ - [Cofense discovers a phishing campaign that uses QR codes to target a notable US energy company, the first known use of QR codes for phishing at scale &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230817/p19#a230817p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
