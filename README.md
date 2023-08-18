@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sei launches its trading-focused blockchain and SEI reaches $1.6B trading volume in the first 24 hours, per CoinMarketCap; many users criticized SEI&#39;s airdrop &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/230817/p20#a230817p20)
- - [The Best Hiking Gear &lpar;2023&rpar;: Backpacks, Tents, and More](https://www.wired.com/story/best-hiking-gear/)
- - [Cofense discovers a phishing campaign that uses QR codes to target a notable US energy company, the first known use of QR codes for phishing at scale &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230817/p19#a230817p19)<!-- TECH:END -->
+ - [How an Iowa School District Used ChatGPT to Ban Books](https://www.wired.com/story/chatgpt-ban-books-iowa-schools-sf-496/)
+ - [25 Years Ago Steve Jobs Launched the First iMac—and the Strategy That Saved Apple](https://www.wired.com/story/plaintext-imac-anniversary-25-years-steve-jobs-strategy-apple/)
+ - [Baldur’s Gate 3 on the Steam Deck looks bad but plays great](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
