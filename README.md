@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The era of the animated action movie is here](https://www.polygon.com/23834641/animation-movies-spider-verse-teenage-mutant-ninja-turtles-monkey-king-puss-in-boots)
- - [Experience The First Descendant open beta with immersive DualSense controller features](https://blog.playstation.com/2023/08/17/experience-the-first-descendant-open-beta-with-immersive-dualsense-controller-features/)
- - [The Xbox 360 Store Will Close July 2024, But You Can Keep Playing Your Favorite Games](https://news.xbox.com/en-us/2023/08/17/xbox-360-store-will-close-july-2024/)<!-- GAME:END -->
+ - [Why Venba is so short — and confidently so](https://www.polygon.com/gaming/23835632/venba-length-how-long)
+ - [Total War: Warhammer 3 DLC is getting more expensive and the community is rebelling: &#39;Remember they need us more than we need them&#39;](https://www.pcgamer.com/total-war-warhammer-3-dlc-is-getting-more-expensive-and-the-community-is-rebelling-remember-they-need-us-more-than-we-need-them)
+ - [Starfield&#39;s preload files suggest there is no sign of DLSS or XeSS support amid AMD sponsorship](https://www.pcgamer.com/starfield-no-dlss-support-at-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
