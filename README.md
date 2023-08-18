@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She said this is the last. Job done](http://9gag.com/gag/avQDN1M)
- - 🚯 [We always know](http://9gag.com/gag/aA0mj19)
- - 🚯 [A Legend was born that Day](http://9gag.com/gag/anzdPmb)<!-- MEMES:END -->
+ - 🚖 [Shhh...](http://9gag.com/gag/aYVnN1V)
+ - 🚯 [Heartwarming story, but Rebecca.](http://9gag.com/gag/aA0NBO2)
+ - 🚯 [Steven Ogg is a legend for this](http://9gag.com/gag/az2D7rx)<!-- MEMES:END -->
 
 --- 
 
