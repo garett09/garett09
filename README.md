@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Venba is so short — and confidently so](https://www.polygon.com/gaming/23835632/venba-length-how-long)
- - [Total War: Warhammer 3 DLC is getting more expensive and the community is rebelling: &#39;Remember they need us more than we need them&#39;](https://www.pcgamer.com/total-war-warhammer-3-dlc-is-getting-more-expensive-and-the-community-is-rebelling-remember-they-need-us-more-than-we-need-them)
- - [Starfield&#39;s preload files suggest there is no sign of DLSS or XeSS support amid AMD sponsorship](https://www.pcgamer.com/starfield-no-dlss-support-at-launch)<!-- GAME:END -->
+ - [The 5 best sci-fi movies to watch at home this August](https://www.polygon.com/what-to-watch/2023/8/19/23831263/best-sci-fi-movies-watch-netflix-hulu-max-prime-august-2023)
+ - [Broken Roads is a post-apocalyptic CRPG in the classic vein: &#39;We are unashamedly copying Fallout 2, Planescape: Torment, Pillars 2, Baldur&#39;s Gate&#39;](https://www.pcgamer.com/broken-roads-is-a-post-apocalyptic-crpg-in-the-classic-vein-we-are-unashamedly-copying-fallout-2-planescape-torment-pillars-2-baldurs-gate)
+ - [Today&#39;s Wordle hint and answer #791: Saturday, August 19](https://www.pcgamer.com/wordle-answer-today-hint-791-august-19)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
