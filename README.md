@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shhh...](http://9gag.com/gag/aYVnN1V)
- - 🚯 [Heartwarming story, but Rebecca.](http://9gag.com/gag/aA0NBO2)
- - 🚯 [Steven Ogg is a legend for this](http://9gag.com/gag/az2D7rx)<!-- MEMES:END -->
+ - 🚖 [It is what it is](http://9gag.com/gag/aYVnbxm)
+ - 🚯 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
+ - 🚯 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)<!-- MEMES:END -->
 
 --- 
 
