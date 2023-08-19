@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How an Iowa School District Used ChatGPT to Ban Books](https://www.wired.com/story/chatgpt-ban-books-iowa-schools-sf-496/)
- - [25 Years Ago Steve Jobs Launched the First iMac—and the Strategy That Saved Apple](https://www.wired.com/story/plaintext-imac-anniversary-25-years-steve-jobs-strategy-apple/)
- - [Baldur’s Gate 3 on the Steam Deck looks bad but plays great](https://www.theverge.com/2023/8/18/23836236/baldurs-gate-3-steam-deck-looks-bad-plays-great)<!-- TECH:END -->
+ - [The fight over what’s real &lpar;and what’s not&rpar; on dissociative identity disorder TikTok](https://www.theverge.com/23823497/tiktok-dissociative-identity-disorder-doctors-backlash-diagnosis)
+ - [AI and You: The Copyright &#39;Sword&#39; Over AI, Life Coaches Including Jesus Coming Your Way     - CNET](https://www.cnet.com/tech/computing/ai-and-you-the-copyright-sword-over-ai-life-coaches-including-jesus-coming-your-way/#ftag=CAD590a51e)
+ - [Apple to Start Paying Out $500M in iPhone Slowdown Lawsuit     - CNET](https://www.cnet.com/tech/mobile/apple-to-start-paying-out-500m-in-iphone-slowdown-lawsuit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
