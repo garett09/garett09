@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The fight over what’s real &lpar;and what’s not&rpar; on dissociative identity disorder TikTok](https://www.theverge.com/23823497/tiktok-dissociative-identity-disorder-doctors-backlash-diagnosis)
- - [AI and You: The Copyright &#39;Sword&#39; Over AI, Life Coaches Including Jesus Coming Your Way     - CNET](https://www.cnet.com/tech/computing/ai-and-you-the-copyright-sword-over-ai-life-coaches-including-jesus-coming-your-way/#ftag=CAD590a51e)
- - [Apple to Start Paying Out $500M in iPhone Slowdown Lawsuit     - CNET](https://www.cnet.com/tech/mobile/apple-to-start-paying-out-500m-in-iphone-slowdown-lawsuit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In Good Omens, diversity is divine](https://www.theverge.com/2023/8/20/23837230/good-omens-season-2-diversity-lgbtq-queer-disabled-representation)
+ - [X glitch wipes out most pictures and links tweeted before December 2014](https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener)
+ - [Galaxy S24: All the Biggest Rumors About Samsung&#39;s Next Phone     - CNET](https://www.cnet.com/tech/mobile/galaxy-s24-all-the-biggest-rumors-for-samsungs-next-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
