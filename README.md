@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is what it is](http://9gag.com/gag/aYVnbxm)
- - 🚯 [Can&#39;t you see bro, i have more muscles..](http://9gag.com/gag/aMENbKx)
- - 🚯 [He forgot he was in Brazil](http://9gag.com/gag/aMENQe1)<!-- MEMES:END -->
+ - 🚖 [FYI](http://9gag.com/gag/aeQPYGO)
+ - 🚯 [She wouldn&#39;t get it](http://9gag.com/gag/a1PqXOD)
+ - 🚯 [Physics...](http://9gag.com/gag/ap9jvO5)<!-- MEMES:END -->
 
 --- 
 
