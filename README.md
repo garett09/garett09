@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In Good Omens, diversity is divine](https://www.theverge.com/2023/8/20/23837230/good-omens-season-2-diversity-lgbtq-queer-disabled-representation)
- - [X glitch wipes out most pictures and links tweeted before December 2014](https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener)
- - [Galaxy S24: All the Biggest Rumors About Samsung&#39;s Next Phone     - CNET](https://www.cnet.com/tech/mobile/galaxy-s24-all-the-biggest-rumors-for-samsungs-next-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s the first outdoor smart plug to work with Matter](https://www.theverge.com/2023/8/21/23837585/leviton-matter-outdoor-smart-plug)
+ - [Are you the world&#39;s biggest Apple fan? Here&#39;s how to find out](https://appleinsider.com/articles/23/08/21/are-you-the-worlds-biggest-apple-fan-heres-how-to-find-out?utm_medium=rss)
+ - [Interviews with 30+ of Elon Musk&#39;s colleagues and others detail his growing international power, childhood, career, politics, role in the Ukraine war, and more &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/230821/p8#a230821p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
