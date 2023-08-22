@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab yourself a 48-inch 4K LG OLED for a ridiculous $650](https://www.pcgamer.com/grab-yourself-a-48-inch-4k-lg-oled-for-a-ridiculous-dollar650)
- - [The next game from the Battle Brothers devs is a sci-fi tactical RPG that &#39;takes everything beloved&#39; about their last game and &#39;improves it tenfold&#39;](https://www.pcgamer.com/the-next-game-from-the-battle-brothers-devs-is-a-sci-fi-tactical-rpg-that-takes-everything-beloved-about-their-last-game-and-improves-it-tenfold)
- - [How to solve the Sarin skeleton puzzle in Baldur&#39;s Gate 3](https://www.pcgamer.com/baldurs-gate-3-sarin-skeleton-solution)<!-- GAME:END -->
+ - [AMD Ryzen 9 7945HX3D hands-on testing: So, I guess AMD just makes all the best mobile chips now](https://www.pcgamer.com/amd-ryzen-9-7945hx3d-gaming-laptop-benchmarks)
+ - [The inevitable Half-Life 2 RTX remix is being made without Valve](https://www.pcgamer.com/half-life-2-rtx-remix-announced)
+ - [Nvidia&#39;s imminent DLSS 3.5 update will improve ray tracing and performance across all RTX GPUs](https://www.pcgamer.com/nvidia-dlss-3-5-ray-reconstruction)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
