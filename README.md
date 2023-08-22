@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s the first outdoor smart plug to work with Matter](https://www.theverge.com/2023/8/21/23837585/leviton-matter-outdoor-smart-plug)
- - [Are you the world&#39;s biggest Apple fan? Here&#39;s how to find out](https://appleinsider.com/articles/23/08/21/are-you-the-worlds-biggest-apple-fan-heres-how-to-find-out?utm_medium=rss)
- - [Interviews with 30+ of Elon Musk&#39;s colleagues and others detail his growing international power, childhood, career, politics, role in the Ukraine war, and more &lpar;Ronan Farrow/New Yorker&rpar;](http://www.techmeme.com/230821/p8#a230821p8)<!-- TECH:END -->
+ - [Meta plans to roll out a more capable web app for Threads in the next few days, offering the ability to post, interact with other posts, and look at the feed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230822/p12#a230822p12)
+ - [Naomi Duguid &#39;The Miracle of Salt&#39; Cookbook Review: A Vital Reference for Pickling, Preserving, and Flavoring](https://www.wired.com/story/naomi-duguid-the-miracle-of-salt-cookbook-review/)
+ - [It’s now easier than ever to get Windows apps running on ChromeOS](https://www.theverge.com/2023/8/22/23841186/google-chomeos-windows-apps-cameyo-vad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
