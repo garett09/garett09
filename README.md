@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Ryzen 9 7945HX3D hands-on testing: So, I guess AMD just makes all the best mobile chips now](https://www.pcgamer.com/amd-ryzen-9-7945hx3d-gaming-laptop-benchmarks)
- - [The inevitable Half-Life 2 RTX remix is being made without Valve](https://www.pcgamer.com/half-life-2-rtx-remix-announced)
- - [Nvidia&#39;s imminent DLSS 3.5 update will improve ray tracing and performance across all RTX GPUs](https://www.pcgamer.com/nvidia-dlss-3-5-ray-reconstruction)<!-- GAME:END -->
+ - [Hands-on report – PlayStation Portal remote player, Pulse Explore wireless earbuds, and Pulse Elite wireless headset](https://blog.playstation.com/2023/08/23/hands-on-report-playstation-portal-remote-player-pulse-explore-wireless-earbuds-and-pulse-elite-wireless-headset/)
+ - [PlayStation’s first Remote Play dedicated device, PlayStation Portal remote player, to launch later this year at $199.99](https://blog.playstation.com/2023/08/23/playstations-first-remote-play-dedicated-device-playstation-portal-remote-player-to-launch-later-this-year-at-199-99/)
+ - [Righteous Gemstones wins HBO’s game of thrones with mountains of styrofoam and a monster truck](https://www.polygon.com/23840051/righteous-gemstones-hbo-throne-room-statues-how-was-it-made)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
