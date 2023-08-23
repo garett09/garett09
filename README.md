@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to roll out a more capable web app for Threads in the next few days, offering the ability to post, interact with other posts, and look at the feed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230822/p12#a230822p12)
- - [Naomi Duguid &#39;The Miracle of Salt&#39; Cookbook Review: A Vital Reference for Pickling, Preserving, and Flavoring](https://www.wired.com/story/naomi-duguid-the-miracle-of-salt-cookbook-review/)
- - [It’s now easier than ever to get Windows apps running on ChromeOS](https://www.theverge.com/2023/8/22/23841186/google-chomeos-windows-apps-cameyo-vad)<!-- TECH:END -->
+ - [Leak: The Galaxy S23 FE launch could be around the corner](https://www.androidauthority.com/samsung-galaxy-s23-fe-specs-release-date-leak-3357421/)
+ - [Scream The Game Review: Heart-pounding Fun](https://www.wired.com/review/scream-the-game/)
+ - [Ducati MotoE 2023: specs, speed, charging times](https://www.wired.com/story/ducati-motoe-electric-motorcycle/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
