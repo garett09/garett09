@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is why you get payday less than your grandparents who had 3 houses and 2 cars on a single income.](http://9gag.com/gag/aeQPbmB)
- - 🚯 [Good girl](http://9gag.com/gag/a2KjZo9)
- - 🚯 [Survival tips by grilled bears](http://9gag.com/gag/aZDV7j3)<!-- MEMES:END -->
+ - 🚖 [Ssempa](http://9gag.com/gag/aNw2PX3)
+ - 🚯 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
+ - 🚯 [Help me](http://9gag.com/gag/a8qXG2p)<!-- MEMES:END -->
 
 --- 
 
