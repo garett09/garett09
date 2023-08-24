@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hands-on report – PlayStation Portal remote player, Pulse Explore wireless earbuds, and Pulse Elite wireless headset](https://blog.playstation.com/2023/08/23/hands-on-report-playstation-portal-remote-player-pulse-explore-wireless-earbuds-and-pulse-elite-wireless-headset/)
- - [PlayStation’s first Remote Play dedicated device, PlayStation Portal remote player, to launch later this year at $199.99](https://blog.playstation.com/2023/08/23/playstations-first-remote-play-dedicated-device-playstation-portal-remote-player-to-launch-later-this-year-at-199-99/)
- - [Righteous Gemstones wins HBO’s game of thrones with mountains of styrofoam and a monster truck](https://www.polygon.com/23840051/righteous-gemstones-hbo-throne-room-statues-how-was-it-made)<!-- GAME:END -->
+ - [No Man’s Sky celebrates its 7th Anniversary with its largest update of the year: Echoes](https://blog.playstation.com/2023/08/24/no-mans-sky-celebrates-its-7th-anniversary-with-its-largest-update-of-the-year-echoes/)
+ - [Select PC Game Pass Titles Now Available on NVIDIA GeForce NOW](https://news.xbox.com/en-us/2023/08/24/select-pc-game-pass-titles-now-available-on-nvidia-geforce-now/)
+ - [Warhammer 40K: Rogue Trader’s devs want to capitalize on 2023’s CRPG obsession](https://www.polygon.com/23843275/warhammer-40k-rogue-trader-companions-drukhari-marazhai-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
