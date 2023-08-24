@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ssempa](http://9gag.com/gag/aNw2PX3)
- - 🚯 [If this isn\u2019t a Ponzi scheme, I don\u2019t know what is.](http://9gag.com/gag/a6q3NxL)
- - 🚯 [Help me](http://9gag.com/gag/a8qXG2p)<!-- MEMES:END -->
+ - 🚖 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
+ - 🚯 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
+ - 🚯 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
 
 --- 
 
