@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak: The Galaxy S23 FE launch could be around the corner](https://www.androidauthority.com/samsung-galaxy-s23-fe-specs-release-date-leak-3357421/)
- - [Scream The Game Review: Heart-pounding Fun](https://www.wired.com/review/scream-the-game/)
- - [Ducati MotoE 2023: specs, speed, charging times](https://www.wired.com/story/ducati-motoe-electric-motorcycle/)<!-- TECH:END -->
+ - [WBD plans to launch CNN Max, a 24/7 stream pulled from CNN&#39;s US and international feeds alongside some original content, in &quot;open beta&quot; on September 27 on Max &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/230824/p15#a230824p15)
+ - [10 Best TVs We&#39;ve Tested &lpar;2023&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)
+ - [Ultimate Ears Pro UE Premier Review: A Borderline Spiritual Experience](https://www.wired.com/review/ultimate-ears-pro-ue-premier/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
