@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WBD plans to launch CNN Max, a 24/7 stream pulled from CNN&#39;s US and international feeds alongside some original content, in &quot;open beta&quot; on September 27 on Max &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/230824/p15#a230824p15)
- - [10 Best TVs We&#39;ve Tested &lpar;2023&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)
- - [Ultimate Ears Pro UE Premier Review: A Borderline Spiritual Experience](https://www.wired.com/review/ultimate-ears-pro-ue-premier/)<!-- TECH:END -->
+ - [US Treasury proposes new rules treating crypto exchanges more like stockbrokers, requiring them to report crypto gains to the IRS, starting in 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230825/p8#a230825p8)
+ - [AI Can’t Read Books. It’s Reviewing Them Anyway](https://www.wired.com/story/plaintext-ai-chatgpt-book-reviews/)
+ - [How to Cool an Object Without Using Any Energy](https://www.wired.com/story/how-to-cool-an-object-without-using-any-energy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
