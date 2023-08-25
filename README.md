@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky celebrates its 7th Anniversary with its largest update of the year: Echoes](https://blog.playstation.com/2023/08/24/no-mans-sky-celebrates-its-7th-anniversary-with-its-largest-update-of-the-year-echoes/)
- - [Select PC Game Pass Titles Now Available on NVIDIA GeForce NOW](https://news.xbox.com/en-us/2023/08/24/select-pc-game-pass-titles-now-available-on-nvidia-geforce-now/)
- - [Warhammer 40K: Rogue Trader’s devs want to capitalize on 2023’s CRPG obsession](https://www.polygon.com/23843275/warhammer-40k-rogue-trader-companions-drukhari-marazhai-preview)<!-- GAME:END -->
+ - [Citizen Sleeper 2: Starward Vector is coming to Game Pass on day one, and will be inspired by Cowboy Bebop and Firefly](https://www.pcgamer.com/citizen-sleeper-2-starward-vector-is-coming-to-game-pass-on-day-one-and-will-be-inspired-by-cowboy-bebop-and-firefly)
+ - [Cherry&#39;s new MX2A mechanical keyboard switch is good for 100 million mashings](https://www.pcgamer.com/cheerys-new-mx2a-mechanical-keyboard-switch-is-good-for-100-million-mashings)
+ - [Fortnite Chapter 4 Season 4: Last Resort arrives today, details revealed](https://blog.playstation.com/2023/08/25/fortnite-chapter-4-season-4-last-resort-arrives-today-details-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
