@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Leo DiCaprio, holup](http://9gag.com/gag/aBdN2L1)
- - 🚯 [Uganda&#39;s Pastors are on another level](http://9gag.com/gag/armrM8y)
- - 🚯 [Jenna Fischer](http://9gag.com/gag/aA0NQzg)<!-- MEMES:END -->
+ - 🚖 [Title](http://9gag.com/gag/aoKqRMn)
+ - 🚯 [That smile](http://9gag.com/gag/ajVMOpg)
+ - 🚯 [Putin not only killed Prigozhin, but also demolishes now all the graves of the Wagnerites so that they don\u2019t even exist in history](http://9gag.com/gag/a7q69Mm)<!-- MEMES:END -->
 
 --- 
 
