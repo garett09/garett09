@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Citizen Sleeper 2: Starward Vector is coming to Game Pass on day one, and will be inspired by Cowboy Bebop and Firefly](https://www.pcgamer.com/citizen-sleeper-2-starward-vector-is-coming-to-game-pass-on-day-one-and-will-be-inspired-by-cowboy-bebop-and-firefly)
- - [Cherry&#39;s new MX2A mechanical keyboard switch is good for 100 million mashings](https://www.pcgamer.com/cheerys-new-mx2a-mechanical-keyboard-switch-is-good-for-100-million-mashings)
- - [Fortnite Chapter 4 Season 4: Last Resort arrives today, details revealed](https://blog.playstation.com/2023/08/25/fortnite-chapter-4-season-4-last-resort-arrives-today-details-revealed/)<!-- GAME:END -->
+ - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of August 2023](https://www.polygon.com/what-to-watch/2023/8/26/23840420/best-movies-netflix-amazon-hulu-max-leaving-august-2023)
+ - [Today&#39;s Wordle hint and answer #798: Saturday, August 26](https://www.pcgamer.com/wordle-answer-today-hint-798-august-26)
+ - [Pokémon Go Fest 2023: Global Special Research Task guide](https://www.polygon.com/pokemon-go-guide/23844525/go-fest-2023-global-special-research-task-fascinating-facets)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
