@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Treasury proposes new rules treating crypto exchanges more like stockbrokers, requiring them to report crypto gains to the IRS, starting in 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230825/p8#a230825p8)
- - [AI Can’t Read Books. It’s Reviewing Them Anyway](https://www.wired.com/story/plaintext-ai-chatgpt-book-reviews/)
- - [How to Cool an Object Without Using Any Energy](https://www.wired.com/story/how-to-cool-an-object-without-using-any-energy/)<!-- TECH:END -->
+ - [What is TikTok Music? Features, pricing, availability and more](https://www.androidauthority.com/tiktok-music-3358284/)
+ - [12 Best USB-C Cables &lpar;2023&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
+ - [This Tool Lets Hackers Dox Almost Anyone in the US](https://www.wired.com/story/credit-bureau-dox-americans-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
