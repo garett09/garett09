@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title](http://9gag.com/gag/aoKqRMn)
- - 🚯 [That smile](http://9gag.com/gag/ajVMOpg)
- - 🚯 [Putin not only killed Prigozhin, but also demolishes now all the graves of the Wagnerites so that they don\u2019t even exist in history](http://9gag.com/gag/a7q69Mm)<!-- MEMES:END -->
+ - 🚖 [A promising one](http://9gag.com/gag/aDYN8ew)
+ - 🚯 [No more serious relationship](http://9gag.com/gag/amAbx8y)
+ - 🚯 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)<!-- MEMES:END -->
 
 --- 
 
