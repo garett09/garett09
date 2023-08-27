@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A promising one](http://9gag.com/gag/aDYN8ew)
- - 🚯 [No more serious relationship](http://9gag.com/gag/amAbx8y)
- - 🚯 [European what is wrong with you? Get your $#!t together.](http://9gag.com/gag/a1Pq0Gb)<!-- MEMES:END -->
+ - 🚖 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
+ - 🚯 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
+ - 🚯 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)<!-- MEMES:END -->
 
 --- 
 
