@@ -133,8 +133,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of August 2023](https://www.polygon.com/what-to-watch/2023/8/26/23840420/best-movies-netflix-amazon-hulu-max-leaving-august-2023)
- - [Today&#39;s Wordle hint and answer #798: Saturday, August 26](https://www.pcgamer.com/wordle-answer-today-hint-798-august-26)
+ - [Today&#39;s Wordle hint and answer #799: Sunday, August 27](https://www.pcgamer.com/wordle-answer-today-hint-799-august-27)
+ - [That stylish-looking Hellboy roguelike will release on October 4th](https://www.pcgamer.com/that-stylish-looking-hellboy-roguelike-will-release-on-october-4th)
  - [Pokémon Go Fest 2023: Global Special Research Task guide](https://www.polygon.com/pokemon-go-guide/23844525/go-fest-2023-global-special-research-task-fascinating-facets)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
