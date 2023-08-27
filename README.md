@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is TikTok Music? Features, pricing, availability and more](https://www.androidauthority.com/tiktok-music-3358284/)
- - [12 Best USB-C Cables &lpar;2023&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
- - [This Tool Lets Hackers Dox Almost Anyone in the US](https://www.wired.com/story/credit-bureau-dox-americans-security-roundup/)<!-- TECH:END -->
+ - [13 Best Car Phone Mounts, Chargers, and Accessories &lpar;2023&rpar;: Wireless Chargers, MagSafe Holders, and Dashcams](https://www.wired.com/gallery/best-car-phone-mounts-chargers-and-accessories/)
+ - [Xiaomi’s 13 Ultra camera kit is more fun than it should be](https://www.theverge.com/23845090/xiaomi-13-ultra-review-camera-photography-shutter-grip-hands-on-testing)
+ - [Pre-Apple Jobs and Woz check sells for $135,000](https://appleinsider.com/articles/23/08/25/pre-apple-jobs-and-woz-check-sells-for-135000?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
