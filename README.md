@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Huge explosion in Romania, many victims](http://9gag.com/gag/aeQPRrm)
- - 🚯 [Jim Jefferies on pedophiles](http://9gag.com/gag/az2DQGm)
- - 🚯 [Recorded themselves getting electrocuted](http://9gag.com/gag/aOxNPZR)<!-- MEMES:END -->
+ - 🚖 [University classes hit different](http://9gag.com/gag/aWGN9n4)
+ - 🚯 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
+ - 🚯 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)<!-- MEMES:END -->
 
 --- 
 
