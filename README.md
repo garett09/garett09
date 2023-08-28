@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle hint and answer #799: Sunday, August 27](https://www.pcgamer.com/wordle-answer-today-hint-799-august-27)
- - [That stylish-looking Hellboy roguelike will release on October 4th](https://www.pcgamer.com/that-stylish-looking-hellboy-roguelike-will-release-on-october-4th)
- - [Pokémon Go Fest 2023: Global Special Research Task guide](https://www.polygon.com/pokemon-go-guide/23844525/go-fest-2023-global-special-research-task-fascinating-facets)<!-- GAME:END -->
+ - [How Banana Fish and Attack on Titan fandoms created a star](https://www.polygon.com/23843148/ricky-montgomery-tiktok-anime-edits-mr-loverman-boy-toy)
+ - [The time of Warhaven is almost upon us](https://www.pcgamer.com/the-time-of-warhaven-is-almost-upon-us)
+ - [David Gaider says Baldur’s Gate 3 is a &#39;monumental achievement&#39;](https://www.pcgamer.com/david-gaider-says-baldurs-gate-3-is-a-monumental-achievement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
