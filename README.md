@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Car Phone Mounts, Chargers, and Accessories &lpar;2023&rpar;: Wireless Chargers, MagSafe Holders, and Dashcams](https://www.wired.com/gallery/best-car-phone-mounts-chargers-and-accessories/)
- - [Xiaomi’s 13 Ultra camera kit is more fun than it should be](https://www.theverge.com/23845090/xiaomi-13-ultra-review-camera-photography-shutter-grip-hands-on-testing)
- - [Pre-Apple Jobs and Woz check sells for $135,000](https://appleinsider.com/articles/23/08/25/pre-apple-jobs-and-woz-check-sells-for-135000?utm_medium=rss)<!-- TECH:END -->
+ - [I could live with a slower chip in the Samsung Galaxy S24](https://www.androidauthority.com/galaxy-s24-exynos-rumors-3358009/)
+ - [24 Best Wireless Chargers &lpar;2023&rpar;: Pads, Stands, iPhone Docks, and More](https://www.wired.com/gallery/best-wireless-chargers/)
+ - [iRobot’s two newest Roombas bring more mopping](https://www.theverge.com/2023/8/28/23845899/irobot-roomba-combo-j5-plus-robot-vacuum-mop-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
