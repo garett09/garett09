@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I could live with a slower chip in the Samsung Galaxy S24](https://www.androidauthority.com/galaxy-s24-exynos-rumors-3358009/)
- - [24 Best Wireless Chargers &lpar;2023&rpar;: Pads, Stands, iPhone Docks, and More](https://www.wired.com/gallery/best-wireless-chargers/)
- - [iRobot’s two newest Roombas bring more mopping](https://www.theverge.com/2023/8/28/23845899/irobot-roomba-combo-j5-plus-robot-vacuum-mop-price)<!-- TECH:END -->
+ - [Snap begins rolling out Dreams, a take on the generative AI selfies that Lensa and others have popularized, for $1 per eight-photo pack, after a first free pack &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230829/p19#a230829p19)
+ - [Now is the worst time to buy some new AirPods](https://www.androidauthority.com/dont-buy-apple-airpods-now-3358172/)
+ - [COROS PACE 3 smartwatch is here: Low weight, better GPS, slightly more expensive](https://www.androidauthority.com/coros-pace-3-3358930/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
