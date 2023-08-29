@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Banana Fish and Attack on Titan fandoms created a star](https://www.polygon.com/23843148/ricky-montgomery-tiktok-anime-edits-mr-loverman-boy-toy)
- - [The time of Warhaven is almost upon us](https://www.pcgamer.com/the-time-of-warhaven-is-almost-upon-us)
- - [David Gaider says Baldur’s Gate 3 is a &#39;monumental achievement&#39;](https://www.pcgamer.com/david-gaider-says-baldurs-gate-3-is-a-monumental-achievement)<!-- GAME:END -->
+ - [To Ms. Marvel actor Iman Vellani, joining the X-Men is a lot like joining the MCU](https://www.polygon.com/23843432/ms-marvel-actor-iman-vellani-x-men-comic-interview)
+ - [Armored Core 6&#39;s mech editor has already been used to make some cursed &lpar;and blessed&rpar; creations](https://www.pcgamer.com/armored-core-6s-mech-editor-has-already-been-used-to-make-some-cursedand-blessedcreations)
+ - [Modern Warfare 2&#39;s Lara Croft crossover has me yearning for an original Tomb Raider remake](https://www.pcgamer.com/modern-warfare-2s-lara-croft-crossover-has-me-yearning-for-an-original-tomb-raider-remake)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
