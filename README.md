@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [University classes hit different](http://9gag.com/gag/aWGN9n4)
- - 🚯 [I hope he&#39;s okay after drinking that wa&#39;ah](http://9gag.com/gag/aGENbdw)
- - 🚯 [Quality time with mom is the best](http://9gag.com/gag/az2D4Nb)<!-- MEMES:END -->
+ - 🚖 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
+ - 🚯 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
+ - 🚯 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)<!-- MEMES:END -->
 
 --- 
 
