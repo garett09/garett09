@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [To Ms. Marvel actor Iman Vellani, joining the X-Men is a lot like joining the MCU](https://www.polygon.com/23843432/ms-marvel-actor-iman-vellani-x-men-comic-interview)
- - [Armored Core 6&#39;s mech editor has already been used to make some cursed &lpar;and blessed&rpar; creations](https://www.pcgamer.com/armored-core-6s-mech-editor-has-already-been-used-to-make-some-cursedand-blessedcreations)
- - [Modern Warfare 2&#39;s Lara Croft crossover has me yearning for an original Tomb Raider remake](https://www.pcgamer.com/modern-warfare-2s-lara-croft-crossover-has-me-yearning-for-an-original-tomb-raider-remake)<!-- GAME:END -->
+ - [Everything you need to know about AMD&#39;s FSR 3 upscaling and Fluid Motion Frames technology](https://www.pcgamer.com/amd-fsr-3-and-fluid-motion-frames)
+ - [Huge C-Smash VRS update brings co-op, Infinity mode, new levels, music from Unkle and more September 14](https://blog.playstation.com/2023/08/30/huge-c-smash-vrs-update-brings-co-op-infinity-mode-new-levels-music-from-unkle-and-more-september-14/)
+ - [Baldur’s Gate 3 is changing the way people play D&amp;D for the better](https://www.polygon.com/23851111/baldurs-gate-3-dungeons-dragons-dnd-ttrpg-spell-slots)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
