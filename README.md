@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap begins rolling out Dreams, a take on the generative AI selfies that Lensa and others have popularized, for $1 per eight-photo pack, after a first free pack &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/230829/p19#a230829p19)
- - [Now is the worst time to buy some new AirPods](https://www.androidauthority.com/dont-buy-apple-airpods-now-3358172/)
- - [COROS PACE 3 smartwatch is here: Low weight, better GPS, slightly more expensive](https://www.androidauthority.com/coros-pace-3-3358930/)<!-- TECH:END -->
+ - [Woman &amp; dog swept down canyon by flood saved by iPhone Emergency SOS](https://appleinsider.com/articles/23/08/30/woman-dog-swept-down-canyon-by-flood-saved-by-iphone-emergency-sos?utm_medium=rss)
+ - [Data.ai and IDC expect consumers to spend $108B on mobile games in 2023, or 55% of global spending on games, followed by $43B on consoles and $40B on PC/Mac &lpar;Jordan Fragen/VentureBeat&rpar;](http://www.techmeme.com/230830/p16#a230830p16)
+ - [16 Best Laptop Backpacks &lpar;2023&rpar;: Weather-Proof, Sustainable, Stylish](https://www.wired.com/gallery/the-best-backpacks-for-work/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
