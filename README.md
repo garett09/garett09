@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She\u2019s definitely the one](http://9gag.com/gag/a9qNZYj)
+ - 🚖 [Mysterious](http://9gag.com/gag/aEqNbxM)
  - 🚯 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 🚯 [Nightmare fuel indeed](http://9gag.com/gag/a8qXvqQ)<!-- MEMES:END -->
+ - 🚯 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)<!-- MEMES:END -->
 
 --- 
 
