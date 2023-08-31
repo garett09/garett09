@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mysterious](http://9gag.com/gag/aEqNbxM)
- - 🚯 [Don&#39;t](http://9gag.com/gag/aBdNb5D)
- - 🚯 [If Jake was drunk , he didn&#39;t consent either.](http://9gag.com/gag/aOxN5QM)<!-- MEMES:END -->
+ - 🚖 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
+ - 🚯 [Barbara Palvin](http://9gag.com/gag/awZGWvr)
+ - 🚯 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)<!-- MEMES:END -->
 
 --- 
 
