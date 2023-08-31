@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything you need to know about AMD&#39;s FSR 3 upscaling and Fluid Motion Frames technology](https://www.pcgamer.com/amd-fsr-3-and-fluid-motion-frames)
- - [Huge C-Smash VRS update brings co-op, Infinity mode, new levels, music from Unkle and more September 14](https://blog.playstation.com/2023/08/30/huge-c-smash-vrs-update-brings-co-op-infinity-mode-new-levels-music-from-unkle-and-more-september-14/)
- - [Baldur’s Gate 3 is changing the way people play D&amp;D for the better](https://www.polygon.com/23851111/baldurs-gate-3-dungeons-dragons-dnd-ttrpg-spell-slots)<!-- GAME:END -->
+ - [MLB The Show 23 Season 4 introduces Snapshot Series, The Great Race of ‘98 Program, and more](https://blog.playstation.com/2023/08/31/mlb-the-show-23-season-4-introduces-snapshot-series-the-great-race-of-98-program-and-more/)
+ - [15 years after announcing the sequel, Ubisoft is gonna try to remember how to release a Beyond Good and Evil game with a new edition of the first one](https://www.pcgamer.com/15-years-after-announcing-the-sequel-ubisoft-is-gonna-try-to-remember-how-to-release-a-beyond-good-and-evil-game-with-a-new-edition-of-the-first-one)
+ - [From wafer to your PC: Behind the curtain of some of Intel&#39;s most advanced manufacturing facilities](https://www.pcgamer.com/from-wafer-to-your-pc-behind-the-curtain-of-some-of-intels-most-advanced-manufacturing-facilities)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
