@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stone-fish Sting Test](http://9gag.com/gag/aGENmm6)
- - 🚯 [Barbara Palvin](http://9gag.com/gag/awZGWvr)
- - 🚯 [Don&#39;t worry, the dog doesn&#39;t bite.](http://9gag.com/gag/aEqN97p)<!-- MEMES:END -->
+ - 🚖 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
+ - 🚯 [Probably time to give up](http://9gag.com/gag/aMENMoR)
+ - 🚯 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
 
 --- 
 
