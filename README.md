@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta begins testing full-text search on Threads in Australia and New Zealand and plans a wider rollout to other English-speaking countries in the future &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230831/p20#a230831p20)
- - [IBM promised to back off facial recognition — then it signed a $69.8 million contract to provide it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
- - [NFL 2023: How to Watch and Stream Football, RedZone and More, With or Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2023-how-to-watch-and-stream-football-redzone-and-more-with-or-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Govee Smart Lights &lpar;2023&rpar;: M1 Light Strip, Envisual T2, and More Tips](https://www.wired.com/gallery/best-govee-smart-lights/)
+ - [Meta Isn&#39;t Enforcing Its Own Political Ads Policy, While the 2024 US Election Looms](https://www.wired.com/story/meta-prageru-advertising/)
+ - [The Creator of &#39;Andor&#39; Is Fired Up About the Streaming Wars](https://www.wired.com/story/andor-tony-gilroy-hollywood-streaming-strike/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
