@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB The Show 23 Season 4 introduces Snapshot Series, The Great Race of ‘98 Program, and more](https://blog.playstation.com/2023/08/31/mlb-the-show-23-season-4-introduces-snapshot-series-the-great-race-of-98-program-and-more/)
- - [15 years after announcing the sequel, Ubisoft is gonna try to remember how to release a Beyond Good and Evil game with a new edition of the first one](https://www.pcgamer.com/15-years-after-announcing-the-sequel-ubisoft-is-gonna-try-to-remember-how-to-release-a-beyond-good-and-evil-game-with-a-new-edition-of-the-first-one)
- - [From wafer to your PC: Behind the curtain of some of Intel&#39;s most advanced manufacturing facilities](https://www.pcgamer.com/from-wafer-to-your-pc-behind-the-curtain-of-some-of-intels-most-advanced-manufacturing-facilities)<!-- GAME:END -->
+ - [The 18 most exciting video game releases of fall 2023](https://www.polygon.com/2023/9/1/23850620/new-video-games-fall-2023-release-date-schedule)
+ - [A guide to the biggest shows ready to drop this fall](https://www.polygon.com/23835820/new-tv-shows-fall-2023-series-release-schedule-upcoming)
+ - [Every major movie we’re watching out for this fall](https://www.polygon.com/23835803/new-movies-upcoming-2023-release-schedule-watch-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
