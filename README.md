@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here is a potato \ud83e\udd54](http://9gag.com/gag/a9qNxvZ)
- - 🚯 [Probably time to give up](http://9gag.com/gag/aMENMoR)
- - 🚯 [She has golden retriever energy](http://9gag.com/gag/aqepPn7)<!-- MEMES:END -->
+ - 🚖 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
+ - 🚯 [Quora is like 9gag](http://9gag.com/gag/aRE9Q72)
+ - 🚯 [Title](http://9gag.com/gag/axoQdgY)<!-- MEMES:END -->
 
 --- 
 
