@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Govee Smart Lights &lpar;2023&rpar;: M1 Light Strip, Envisual T2, and More Tips](https://www.wired.com/gallery/best-govee-smart-lights/)
- - [Meta Isn&#39;t Enforcing Its Own Political Ads Policy, While the 2024 US Election Looms](https://www.wired.com/story/meta-prageru-advertising/)
- - [The Creator of &#39;Andor&#39; Is Fired Up About the Streaming Wars](https://www.wired.com/story/andor-tony-gilroy-hollywood-streaming-strike/)<!-- TECH:END -->
+ - [Best Ebook Subscription and Audiobook Services &lpar;2023&rpar;](https://www.wired.com/gallery/best-ebook-subscription-services/)
+ - [2 Polish Men Arrested for Radio Hack That Disrupted Trains](https://www.wired.com/story/poland-train-radio-attack-security-roundup/)
+ - [A Media Matters for America report on PragerU Kids: Meta isn&#39;t consistently enforcing transparency rules for ads around &quot;social issues, elections, or politics&quot; &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/230902/p4#a230902p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
