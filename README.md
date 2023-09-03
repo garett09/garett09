@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Ebook Subscription and Audiobook Services &lpar;2023&rpar;](https://www.wired.com/gallery/best-ebook-subscription-services/)
- - [2 Polish Men Arrested for Radio Hack That Disrupted Trains](https://www.wired.com/story/poland-train-radio-attack-security-roundup/)
- - [A Media Matters for America report on PragerU Kids: Meta isn&#39;t consistently enforcing transparency rules for ads around &quot;social issues, elections, or politics&quot; &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/230902/p4#a230902p4)<!-- TECH:END -->
+ - [4 Best MagSafe Power Banks for iPhones &lpar;2023&rpar;: High Capacity, Slim, Kickstands](https://www.wired.com/gallery/best-magsafe-power-banks/)
+ - [Best Sonos Setup &lpar;2023&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
+ - [The iPhone 15 Pro Could Soon Show Why Periscope Cameras Are Great     - CNET](https://www.cnet.com/tech/mobile/the-iphone-15-pro-could-soon-show-why-periscope-cameras-are-great/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
