@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 9 best movies new to streaming in September 2023](https://www.polygon.com/what-to-watch/2023/9/2/23849544/best-new-movies-netflix-amazon-prime-max-hulu-september-2023)
- - [Baldur&#39;s Gate 3 bestiary: The origins of D&amp;D&#39;s odder creatures](https://www.pcgamer.com/baldurs-gate-bestiary-the-origins-of-dandds-odder-creatures)
- - [Today&#39;s Wordle hint and answer #805: Saturday, September 2](https://www.pcgamer.com/wordle-answer-today-hint-805-september-2)<!-- GAME:END -->
+ - [The best and biggest comics coming up in fall 2023](https://www.polygon.com/23844378/best-new-comics-2023-fall-batman-wonder-woman-marvel-hickman-gods-bill-watterson)
+ - [Today&#39;s Wordle hint and answer #806: Sunday, September 3](https://www.pcgamer.com/wordle-answer-today-hint-806-september-3)
+ - [Bethesda hired a noted modder to help with Starfield&#39;s clutter and lighting](https://www.pcgamer.com/bethesda-hired-a-noted-modder-to-help-with-starfields-clutter-and-lighting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
