@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This man brings his culture to a Starbucks Japan and shows the Japanese why they need diversity](http://9gag.com/gag/a8qXrmZ)
- - 🚯 [Quora is like 9gag](http://9gag.com/gag/aRE9Q72)
- - 🚯 [Title](http://9gag.com/gag/axoQdgY)<!-- MEMES:END -->
+ - 🚖 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
+ - 🚯 [Title](http://9gag.com/gag/aDYr0eK)
+ - 🚯 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)<!-- MEMES:END -->
 
 --- 
 
