@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best and biggest comics coming up in fall 2023](https://www.polygon.com/23844378/best-new-comics-2023-fall-batman-wonder-woman-marvel-hickman-gods-bill-watterson)
- - [Today&#39;s Wordle hint and answer #806: Sunday, September 3](https://www.pcgamer.com/wordle-answer-today-hint-806-september-3)
- - [Bethesda hired a noted modder to help with Starfield&#39;s clutter and lighting](https://www.pcgamer.com/bethesda-hired-a-noted-modder-to-help-with-starfields-clutter-and-lighting)<!-- GAME:END -->
+ - [Netflix’s One Piece makes a crucial character change from the manga for the better](https://www.polygon.com/23852649/one-piece-netflix-manga-change-luffy-koby-tv)
+ - [Starfield Literally Saved A Couple From Death](https://kotaku.com/starfield-saved-lives-apartment-fire-bethesda-1850801606?utm_source=regular)
+ - [The Ayaneo Kun has a mode that delivers near twice the power of the ROG Ally handheld gaming PC](https://www.pcgamer.com/the-ayaneo-kun-has-a-mode-that-delivers-near-twice-the-power-of-the-rog-ally-handheld-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
