@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 Best MagSafe Power Banks for iPhones &lpar;2023&rpar;: High Capacity, Slim, Kickstands](https://www.wired.com/gallery/best-magsafe-power-banks/)
- - [Best Sonos Setup &lpar;2023&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
- - [The iPhone 15 Pro Could Soon Show Why Periscope Cameras Are Great     - CNET](https://www.cnet.com/tech/mobile/the-iphone-15-pro-could-soon-show-why-periscope-cameras-are-great/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Strong iPhone 15 sales could see Apple overtake Samsung](https://appleinsider.com/articles/23/09/04/strong-iphone-15-sales-could-see-apple-overtake-samsung?utm_medium=rss)
+ - [The Aftermath of a &#39;Miracle Cure&#39; for a Rare Cancer](https://www.wired.com/story/tyranny-of-the-gene-james-tabery-excerpt/)
+ - [Apple&#39;s OLED iPad Pro revamp could gain 4TB option, claims dubious rumor](https://appleinsider.com/articles/23/09/04/apples-oled-ipad-pro-revamp-could-gain-4tb-option-claims-dubious-rumor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
