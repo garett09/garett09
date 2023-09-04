@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rip to all the people having a bad trip](http://9gag.com/gag/aMEDbRR)
- - 🚯 [Title](http://9gag.com/gag/aDYr0eK)
- - 🚯 [What are they bree........? Holy f**k !](http://9gag.com/gag/ago635q)<!-- MEMES:END -->
+ - 🚖 [Certaintly in my top5 Workplace Red Flags](http://9gag.com/gag/aoKA2Pw)
+ - 🚯 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
+ - 🚯 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)<!-- MEMES:END -->
 
 --- 
 
