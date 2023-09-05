@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Certaintly in my top5 Workplace Red Flags](http://9gag.com/gag/aoKA2Pw)
- - 🚯 [Just got home from a long day gn y&#39;all](http://9gag.com/gag/a2K9YdD)
- - 🚯 [First time visiting this brewery and they have a weird system in the bathroom. Can someone explain?](http://9gag.com/gag/a04zL7d)<!-- MEMES:END -->
+ - 🚖 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
+ - 🚯 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
+ - 🚯 [Who are you??](http://9gag.com/gag/aMED876)<!-- MEMES:END -->
 
 --- 
 
