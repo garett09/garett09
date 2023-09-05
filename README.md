@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s One Piece makes a crucial character change from the manga for the better](https://www.polygon.com/23852649/one-piece-netflix-manga-change-luffy-koby-tv)
- - [Starfield Literally Saved A Couple From Death](https://kotaku.com/starfield-saved-lives-apartment-fire-bethesda-1850801606?utm_source=regular)
- - [The Ayaneo Kun has a mode that delivers near twice the power of the ROG Ally handheld gaming PC](https://www.pcgamer.com/the-ayaneo-kun-has-a-mode-that-delivers-near-twice-the-power-of-the-rog-ally-handheld-gaming-pc)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Starfield, Solar Ash, and Lies of P](https://news.xbox.com/en-us/2023/09/05/game-pass-september-2023-wave-1-announce/)
+ - [Starfield’s New Atlantis is an Epcot-core vision of a bygone future](https://www.polygon.com/23854280/starfield-new-atlantis-epcot-visual-inspiration)
+ - [Everyone’s horniness in launch Baldur’s Gate 3 was a bug, not a feature](https://www.polygon.com/23858507/baldurs-gate-3-horny-bug-gale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
