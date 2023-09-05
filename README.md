@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Strong iPhone 15 sales could see Apple overtake Samsung](https://appleinsider.com/articles/23/09/04/strong-iphone-15-sales-could-see-apple-overtake-samsung?utm_medium=rss)
- - [The Aftermath of a &#39;Miracle Cure&#39; for a Rare Cancer](https://www.wired.com/story/tyranny-of-the-gene-james-tabery-excerpt/)
- - [Apple&#39;s OLED iPad Pro revamp could gain 4TB option, claims dubious rumor](https://appleinsider.com/articles/23/09/04/apples-oled-ipad-pro-revamp-could-gain-4tb-option-claims-dubious-rumor?utm_medium=rss)<!-- TECH:END -->
+ - [An in-depth profile of OpenAI, Sam Altman, CTO Greg Brockman, and others, who all see ChatGPT and GPT-4 as stepping stones along the way to building an AGI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230905/p15#a230905p15)
+ - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2023&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
+ - [Ring’s former CEO is rebranding Latch to Door.com](https://www.theverge.com/2023/9/5/23858296/ring-former-ceo-latch-door-smart-locks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
