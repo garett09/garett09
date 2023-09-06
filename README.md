@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Read this twice just to understand better.](http://9gag.com/gag/arm9Np5)
- - 🚯 [Fined for no seatbelt in Moscow](http://9gag.com/gag/aA0q1v2)
- - 🚯 [Who are you??](http://9gag.com/gag/aMED876)<!-- MEMES:END -->
+ - 🚖 [Try to pause it](http://9gag.com/gag/ap9zmW5)
+ - 🚯 [If she was from any other country doing same things to american citizens, US would have been seeking death penalty](http://9gag.com/gag/aZDom3V)
+ - 🚯 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)<!-- MEMES:END -->
 
 --- 
 
