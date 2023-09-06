@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth profile of OpenAI, Sam Altman, CTO Greg Brockman, and others, who all see ChatGPT and GPT-4 as stepping stones along the way to building an AGI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/230905/p15#a230905p15)
- - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2023&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
- - [Ring’s former CEO is rebranding Latch to Door.com](https://www.theverge.com/2023/9/5/23858296/ring-former-ceo-latch-door-smart-locks)<!-- TECH:END -->
+ - [Crypto Wealth Report: 88,200 people have crypto worth $1M+, or &lt;1% of all users, 182 have $100M+, and 22 have $1B+, of which six hold the funds in bitcoin &lpar;Sophie Kiderlin/CNBC&rpar;](http://www.techmeme.com/230906/p22#a230906p22)
+ - [&#39;Asada: The Art of Mexican-Style Grilling&#39; Cookbook Review: An Essential, Flavor-Filled Intro](https://www.wired.com/story/asada-mexican-grilling-cookbook-bricia-lopez/)
+ - [How China Demands Tech Firms Reveal Hackable Flaws in Their Products](https://www.wired.com/story/china-vulnerability-disclosure-law/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
