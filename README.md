@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Starfield, Solar Ash, and Lies of P](https://news.xbox.com/en-us/2023/09/05/game-pass-september-2023-wave-1-announce/)
- - [Starfield’s New Atlantis is an Epcot-core vision of a bygone future](https://www.polygon.com/23854280/starfield-new-atlantis-epcot-visual-inspiration)
- - [Everyone’s horniness in launch Baldur’s Gate 3 was a bug, not a feature](https://www.polygon.com/23858507/baldurs-gate-3-horny-bug-gale)<!-- GAME:END -->
+ - [For just $6, you can get three months of Disney Plus](https://www.polygon.com/deals/2023/9/6/23860368/disney-plus-deal-basic-sale-streaming-elemental)
+ - [The Hunger Games: The Ballad of Songbirds &amp; Snakes isn’t ‘a sequel for the sake of a sequel,’ says producer — it’s trickier](https://www.polygon.com/23848083/hunger-games-ballad-songbirds-snakes-release-cast-preview)
+ - [AMD RX 7800 XT review](https://www.pcgamer.com/amd-radeon-rx-7800-xt-review-performance-benchmarks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
