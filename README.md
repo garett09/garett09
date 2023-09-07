@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For just $6, you can get three months of Disney Plus](https://www.polygon.com/deals/2023/9/6/23860368/disney-plus-deal-basic-sale-streaming-elemental)
- - [The Hunger Games: The Ballad of Songbirds &amp; Snakes isn’t ‘a sequel for the sake of a sequel,’ says producer — it’s trickier](https://www.polygon.com/23848083/hunger-games-ballad-songbirds-snakes-release-cast-preview)
- - [AMD RX 7800 XT review](https://www.pcgamer.com/amd-radeon-rx-7800-xt-review-performance-benchmarks)<!-- GAME:END -->
+ - [The Wheel of Time season 2 is just getting started](https://www.polygon.com/23860119/wheel-time-season-2-preview-tease-new-episodes)
+ - [Where to sell all your space junk in Starfield](https://www.pcgamer.com/starfield-where-to-sell-items-best-vendors)
+ - [If you&#39;ve ever wanted Megan Fox to literally kick your skeleton out of your body, then boy does Mortal Kombat 1 have a fighter for you](https://www.pcgamer.com/if-youve-ever-wanted-megan-fox-to-literally-kick-your-skeleton-out-of-your-body-then-boy-does-mortal-kombat-1-have-a-fighter-for-you)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
