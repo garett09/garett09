@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Try to pause it](http://9gag.com/gag/ap9zmW5)
- - 🚯 [If she was from any other country doing same things to american citizens, US would have been seeking death penalty](http://9gag.com/gag/aZDom3V)
- - 🚯 [Today I bought my first house . 700$ mortgage per month, 300$ per month for 5 years for the down payment. It is a bad financial decision? Maybe! Cry of happiness? Yes Sir!](http://9gag.com/gag/aVb43Rn)<!-- MEMES:END -->
+ - 🚖 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
+ - 🚯 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
+ - 🚯 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)<!-- MEMES:END -->
 
 --- 
 
