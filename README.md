@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto Wealth Report: 88,200 people have crypto worth $1M+, or &lt;1% of all users, 182 have $100M+, and 22 have $1B+, of which six hold the funds in bitcoin &lpar;Sophie Kiderlin/CNBC&rpar;](http://www.techmeme.com/230906/p22#a230906p22)
- - [&#39;Asada: The Art of Mexican-Style Grilling&#39; Cookbook Review: An Essential, Flavor-Filled Intro](https://www.wired.com/story/asada-mexican-grilling-cookbook-bricia-lopez/)
- - [How China Demands Tech Firms Reveal Hackable Flaws in Their Products](https://www.wired.com/story/china-vulnerability-disclosure-law/)<!-- TECH:END -->
+ - [Google plans to update Chrome to incorporate its Material You design language in the coming weeks, including refreshed icons and new color palettes &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/230907/p19#a230907p19)
+ - [Do Not Fear the Robot Uprising. Join It](https://www.wired.com/story/ai-civil-rights-narratives-robots/)
+ - [Pinterest’s New Algorithms Want You to See Every Body Type](https://www.wired.com/story/pinterests-new-algorithms-want-you-to-see-every-body-type/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
