@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A 13-year-old kid shot two criminals &lpar;one severely wounded but alive&rpar; who were attempting to rob his home and assault his mother.](http://9gag.com/gag/abvKV8L)
- - 🚯 [Just don&#39;t fart over there](http://9gag.com/gag/az2oeON)
- - 🚯 [Beginning of the night shift/ending of the night shift](http://9gag.com/gag/ajVG5vp)<!-- MEMES:END -->
+ - 🚖 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
+ - 🚯 [Things that are](http://9gag.com/gag/a4omEqZ)
+ - 🚯 [Good for her, right?](http://9gag.com/gag/aA0qQ50)<!-- MEMES:END -->
 
 --- 
 
