@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wheel of Time season 2 is just getting started](https://www.polygon.com/23860119/wheel-time-season-2-preview-tease-new-episodes)
- - [Where to sell all your space junk in Starfield](https://www.pcgamer.com/starfield-where-to-sell-items-best-vendors)
- - [If you&#39;ve ever wanted Megan Fox to literally kick your skeleton out of your body, then boy does Mortal Kombat 1 have a fighter for you](https://www.pcgamer.com/if-youve-ever-wanted-megan-fox-to-literally-kick-your-skeleton-out-of-your-body-then-boy-does-mortal-kombat-1-have-a-fighter-for-you)<!-- GAME:END -->
+ - [How to dock your ship at a space station in Starfield](https://www.polygon.com/starfield-guide/23846954/dock-ship-space-station)
+ - [E3 somehow gets even deader as event organiser departs by &#39;mutual consent&#39;, ESA says no no it&#39;s still alive we promise](https://www.pcgamer.com/e3-somehow-gets-even-deader-as-event-organiser-departs-by-mutual-consent-esa-says-no-no-its-still-alive-we-promise)
+ - [Apple TV’s Godzilla show actually looks like... one of the best shows of the year?](https://www.polygon.com/23863639/monarch-legacy-monsters-godzilla-trailer-apple-tv-release-date-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
