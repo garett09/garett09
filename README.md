@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail might let you send emoji reactions to emails soon](https://www.theverge.com/2023/9/8/23863544/google-gmail-emoji-reactions-feature-email)
- - [Trump Squeezed America&#39;s Geek Squad. Biden Built It Back Stronger](https://www.wired.com/story/plaintext-trump-squeezed-americas-geek-squad-biden-built-it-back-stronger/)
- - [Best Tea Accessories &lpar;2023&rpar;: Kettles, Infusers, and More](https://www.wired.com/gallery/tea-guide/)<!-- TECH:END -->
+ - [iPad Air refresh could skip event for press release launch instead](https://appleinsider.com/articles/23/09/09/ipad-air-refresh-could-skip-event-for-press-release-launch-instead?utm_medium=rss)
+ - [Nintendo Reportedly Gave Private Switch 2 Demos to Developers](https://www.wired.com/story/nintendo-switch-2-private-developer-demos/)
+ - [Mozilla: Your New Car Is a Data Privacy Nightmare](https://www.wired.com/story/your-new-car-privacy-nightmare/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
