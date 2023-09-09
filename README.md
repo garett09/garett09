@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to dock your ship at a space station in Starfield](https://www.polygon.com/starfield-guide/23846954/dock-ship-space-station)
- - [E3 somehow gets even deader as event organiser departs by &#39;mutual consent&#39;, ESA says no no it&#39;s still alive we promise](https://www.pcgamer.com/e3-somehow-gets-even-deader-as-event-organiser-departs-by-mutual-consent-esa-says-no-no-its-still-alive-we-promise)
- - [Apple TV’s Godzilla show actually looks like... one of the best shows of the year?](https://www.polygon.com/23863639/monarch-legacy-monsters-godzilla-trailer-apple-tv-release-date-cast)<!-- GAME:END -->
+ - [The 5 best thrillers to watch on Netflix and Hulu this September](https://www.polygon.com/what-to-watch/2023/9/9/23860208/best-thriller-movies-netflix-watch-september-2023)
+ - [Starfield ‘Into the Unknown’ quest walkthrough, how to ‘follow distortions on the scanner’](https://www.polygon.com/starfield-guide/23842996/into-the-unknown-walkthrough)
+ - [Today&#39;s Wordle hint and answer #812: Saturday, September 9](https://www.pcgamer.com/wordle-answer-today-hint-812-september-9)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
