@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nuke from orbit](http://9gag.com/gag/aBdjZ81)
- - 🚯 [Things that are](http://9gag.com/gag/a4omEqZ)
- - 🚯 [Good for her, right?](http://9gag.com/gag/aA0qQ50)<!-- MEMES:END -->
+ - 🚖 [When the director failed physics](http://9gag.com/gag/axoQbOn)
+ - 🚯 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
+ - 🚯 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)<!-- MEMES:END -->
 
 --- 
 
