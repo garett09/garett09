@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Air refresh could skip event for press release launch instead](https://appleinsider.com/articles/23/09/09/ipad-air-refresh-could-skip-event-for-press-release-launch-instead?utm_medium=rss)
- - [Nintendo Reportedly Gave Private Switch 2 Demos to Developers](https://www.wired.com/story/nintendo-switch-2-private-developer-demos/)
- - [Mozilla: Your New Car Is a Data Privacy Nightmare](https://www.wired.com/story/your-new-car-privacy-nightmare/)<!-- TECH:END -->
+ - [Sonnet Solo2.5G Gigabit Ethernet Adapter adds wired networking to MacBooks](https://appleinsider.com/articles/23/09/10/sonnet-solo25g-gigabit-ethernet-adapter-adds-wired-networking-to-macbooks?utm_medium=rss)
+ - [How to use the new web-based editing tools in Google Photos](https://www.theverge.com/23864917/google-photos-tools-edit-tutorial)
+ - [AI and You: Big Tech Goes to DC, Google Takes On &#39;Synthetic&#39; Political Ads     - CNET](https://www.cnet.com/tech/computing/ai-and-you-big-tech-goes-to-dc-google-takes-on-synthetic-political-ads/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
