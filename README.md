@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the director failed physics](http://9gag.com/gag/axoQbOn)
- - 🚯 [F**k 9gag. Got taken down](http://9gag.com/gag/az2o2nb)
- - 🚯 [Rapper YSL Polo Pretending to be insane to avoid prison. He was found guilty of m*rder of Xavier Arlandor Turner and was caught on camera](http://9gag.com/gag/avQ4EZX)<!-- MEMES:END -->
+ - 🚖 [Celebrities...](http://9gag.com/gag/a3Ze20m)
+ - 🚯 [Not eating anything again &lpar;expect one thing&rpar;](http://9gag.com/gag/aBdjEA1)
+ - 🚯 [I need permission to say it](http://9gag.com/gag/a8qQ21e)<!-- MEMES:END -->
 
 --- 
 
