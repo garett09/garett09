@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best thrillers to watch on Netflix and Hulu this September](https://www.polygon.com/what-to-watch/2023/9/9/23860208/best-thriller-movies-netflix-watch-september-2023)
- - [Starfield ‘Into the Unknown’ quest walkthrough, how to ‘follow distortions on the scanner’](https://www.polygon.com/starfield-guide/23842996/into-the-unknown-walkthrough)
- - [Today&#39;s Wordle hint and answer #812: Saturday, September 9](https://www.pcgamer.com/wordle-answer-today-hint-812-september-9)<!-- GAME:END -->
+ - [Every Bethesda RPG prologue, ranked from worst to best](https://www.pcgamer.com/every-bethesda-rpg-prologue-ranked-from-worst-to-best)
+ - [Today&#39;s Wordle hint and answer #813: Sunday, September 10](https://www.pcgamer.com/wordle-answer-today-hint-813-september-10)
+ - [NYT Connections puzzle hint and answers for Sunday, September 10 &lpar;#91&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-sunday-september-10-91)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
