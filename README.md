@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Celebrities...](http://9gag.com/gag/a3Ze20m)
- - 🚯 [Not eating anything again &lpar;expect one thing&rpar;](http://9gag.com/gag/aBdjEA1)
- - 🚯 [I need permission to say it](http://9gag.com/gag/a8qQ21e)<!-- MEMES:END -->
+ - 🚖 [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
+ - 🚯 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
+ - 🚯 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)<!-- MEMES:END -->
 
 --- 
 
