@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Bethesda RPG prologue, ranked from worst to best](https://www.pcgamer.com/every-bethesda-rpg-prologue-ranked-from-worst-to-best)
- - [Today&#39;s Wordle hint and answer #813: Sunday, September 10](https://www.pcgamer.com/wordle-answer-today-hint-813-september-10)
- - [NYT Connections puzzle hint and answers for Sunday, September 10 &lpar;#91&rpar;](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answers-for-sunday-september-10-91)<!-- GAME:END -->
+ - [Baldur’s Gate 3 gets even better when you make a new character](https://www.polygon.com/gaming/23864958/baldurs-gate-3-roll-a-new-character-its-fun)
+ - [FromSoftware mercifully spares Armored Core 6&#39;s most busted shotgun in latest balance patch, despite community memes](https://www.pcgamer.com/fromsoftware-mercifully-spares-armored-core-6s-most-busted-shotgun-in-latest-balance-patch-despite-community-memes)
+ - [This Persona-Inspired Dating Sim&#39;s Ending Is Worth The Bumpy Ride](https://kotaku.com/eternights-review-romance-options-dating-sim-studio-sai-1850818205)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
