@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonnet Solo2.5G Gigabit Ethernet Adapter adds wired networking to MacBooks](https://appleinsider.com/articles/23/09/10/sonnet-solo25g-gigabit-ethernet-adapter-adds-wired-networking-to-macbooks?utm_medium=rss)
- - [How to use the new web-based editing tools in Google Photos](https://www.theverge.com/23864917/google-photos-tools-edit-tutorial)
- - [AI and You: Big Tech Goes to DC, Google Takes On &#39;Synthetic&#39; Political Ads     - CNET](https://www.cnet.com/tech/computing/ai-and-you-big-tech-goes-to-dc-google-takes-on-synthetic-political-ads/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Qualcomm extends iPhone modem deal amid Apple chip delays](https://www.theverge.com/2023/9/11/23867918/apple-iphone-5g-modem-chip-qualcomm-deal-2026)
+ - [An interview with Walter Isaacson on Elon Musk, the new biography, why Musk agreed, the Twitter acquisition, Musk being &quot;driven by demons&quot;, surprises, and more &lpar;Gillian Tett/Financial Times&rpar;](http://www.techmeme.com/230911/p13#a230911p13)
+ - [Beis The Diaper Pack Review &lpar;2023&rpar;: Practically Perfect](https://www.wired.com/review/beis-diaper-pack/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
