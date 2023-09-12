@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm extends iPhone modem deal amid Apple chip delays](https://www.theverge.com/2023/9/11/23867918/apple-iphone-5g-modem-chip-qualcomm-deal-2026)
- - [An interview with Walter Isaacson on Elon Musk, the new biography, why Musk agreed, the Twitter acquisition, Musk being &quot;driven by demons&quot;, surprises, and more &lpar;Gillian Tett/Financial Times&rpar;](http://www.techmeme.com/230911/p13#a230911p13)
- - [Beis The Diaper Pack Review &lpar;2023&rpar;: Practically Perfect](https://www.wired.com/review/beis-diaper-pack/)<!-- TECH:END -->
+ - [Apple’s India-made iPhones to be available at launch for the first time](https://www.theverge.com/2023/9/12/23869727/apple-iphone-15-india-production-supply-launch-china)
+ - [With Netflix’s live-action One Piece, the devil &lpar;fruit&rpar; was all in the details](https://www.theverge.com/23869720/netflix-one-piece-design-featurette)
+ - [Rad Power Bikes says it will only produce UL-certified e-bikes and batteries going forward](https://www.theverge.com/2023/9/12/23868264/rad-power-bikes-ul-certification-ebike-battery-fires)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
