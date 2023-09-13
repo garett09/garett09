@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 gets even better when you make a new character](https://www.polygon.com/gaming/23864958/baldurs-gate-3-roll-a-new-character-its-fun)
- - [FromSoftware mercifully spares Armored Core 6&#39;s most busted shotgun in latest balance patch, despite community memes](https://www.pcgamer.com/fromsoftware-mercifully-spares-armored-core-6s-most-busted-shotgun-in-latest-balance-patch-despite-community-memes)
- - [This Persona-Inspired Dating Sim&#39;s Ending Is Worth The Bumpy Ride](https://kotaku.com/eternights-review-romance-options-dating-sim-studio-sai-1850818205)<!-- GAME:END -->
+ - [What To Expect on Day One with Xbox Game Pass Core](https://news.xbox.com/en-us/2023/09/13/game-pass-core-full-list/)
+ - [STALKER 2 is a merciless trip down memory lane](https://www.polygon.com/23868686/stalker-2-heart-of-chornobyl-gameplay-demo-gamescom-2023)
+ - [Diablo 4 stats boffin grinds over 400 Nightmare dungeons in 18 days for science, proves higher tiers mostly aren&#39;t worth the headache](https://www.pcgamer.com/diablo-4-stats-boffin-grinds-over-400-nightmare-dungeons-in-18-days-for-science-proves-higher-tiers-mostly-arent-worth-the-headache)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
