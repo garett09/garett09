@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s India-made iPhones to be available at launch for the first time](https://www.theverge.com/2023/9/12/23869727/apple-iphone-15-india-production-supply-launch-china)
- - [With Netflix’s live-action One Piece, the devil &lpar;fruit&rpar; was all in the details](https://www.theverge.com/23869720/netflix-one-piece-design-featurette)
- - [Rad Power Bikes says it will only produce UL-certified e-bikes and batteries going forward](https://www.theverge.com/2023/9/12/23868264/rad-power-bikes-ul-certification-ebike-battery-fires)<!-- TECH:END -->
+ - [Adobe’s Firefly generative AI tools are now widely available](https://www.theverge.com/2023/9/13/23871537/adobe-firefly-generative-ai-model-general-availability-launch-date-price)
+ - [WhatsApp rolls out Channels to users in over 150 countries, after introducing the broadcast feature in June 2023 in Colombia and Singapore, and adds features &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230913/p25#a230913p25)
+ - [Does the Apple iPhone 15 have eSIM and dual-SIM capabilities?](https://www.androidauthority.com/apple-iphone-15-esim-dual-sim-3363295/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
