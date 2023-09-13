@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Female comedian disguises as a man to prove she is just as funny. Had mental breakdown when no one laughed.](http://9gag.com/gag/a3Zeb2r)
- - 🚯 [Insert `It should&#39;ve been me`](http://9gag.com/gag/aZDoRLW)
- - 🚯 [A new low on the IQ bar has been achieved](http://9gag.com/gag/az2oYQp)<!-- MEMES:END -->
+ - 🚖 [In matter of 30 minutes Italy was attacked by 35 boats full with African `women and children`](http://9gag.com/gag/awZPDzD)
+ - 🚯 [In 1995, a man named Sonny Graham received the transplanted heart of a suicide victim. He then married the donor&#39;s wife and later killed himself, in the exact same manner as the donor did.](http://9gag.com/gag/a2K9jKE)
+ - 🚯 [Excuse me sir, do you want to talk about Jesus?](http://9gag.com/gag/aeQyyKm)<!-- MEMES:END -->
 
 --- 
 
