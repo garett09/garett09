@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe’s Firefly generative AI tools are now widely available](https://www.theverge.com/2023/9/13/23871537/adobe-firefly-generative-ai-model-general-availability-launch-date-price)
- - [WhatsApp rolls out Channels to users in over 150 countries, after introducing the broadcast feature in June 2023 in Colombia and Singapore, and adds features &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/230913/p25#a230913p25)
- - [Does the Apple iPhone 15 have eSIM and dual-SIM capabilities?](https://www.androidauthority.com/apple-iphone-15-esim-dual-sim-3363295/)<!-- TECH:END -->
+ - [Databricks raised a $500M Series I at a $43B valuation, after raising $1.6B at a $38B valuation in August 2021, ahead of an IPO, and reports 10K+ customers &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/230914/p17#a230914p17)
+ - [The iPhone 15 Pro’s new Action Button is great news for Android](https://www.androidauthority.com/iphone-15-pro-action-button-android-3363736/)
+ - [6 Best Video Doorbell Cameras &lpar;2023&rpar;: Smart, Wireless, and a Word About Eufy and Ring](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
