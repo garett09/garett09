@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What To Expect on Day One with Xbox Game Pass Core](https://news.xbox.com/en-us/2023/09/13/game-pass-core-full-list/)
- - [STALKER 2 is a merciless trip down memory lane](https://www.polygon.com/23868686/stalker-2-heart-of-chornobyl-gameplay-demo-gamescom-2023)
- - [Diablo 4 stats boffin grinds over 400 Nightmare dungeons in 18 days for science, proves higher tiers mostly aren&#39;t worth the headache](https://www.pcgamer.com/diablo-4-stats-boffin-grinds-over-400-nightmare-dungeons-in-18-days-for-science-proves-higher-tiers-mostly-arent-worth-the-headache)<!-- GAME:END -->
+ - [Starfield relishes in Bethesda’s legacy of item hoarding](https://www.polygon.com/23871601/starfield-bethesda-history-of-hoarding)
+ - [How to watch today’s Nintendo Direct](https://www.polygon.com/23860361/nintendo-direct-september-2023-time-date-where-to-watch)
+ - [A Starfield fan has created Chunks&#39; baked beans, and I don&#39;t want to go to space anymore](https://www.pcgamer.com/a-starfield-fan-has-created-chunks-baked-beans-and-i-dont-want-to-go-to-space-anymore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
