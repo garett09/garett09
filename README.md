@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Databricks raised a $500M Series I at a $43B valuation, after raising $1.6B at a $38B valuation in August 2021, ahead of an IPO, and reports 10K+ customers &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/230914/p17#a230914p17)
- - [The iPhone 15 Pro’s new Action Button is great news for Android](https://www.androidauthority.com/iphone-15-pro-action-button-android-3363736/)
- - [6 Best Video Doorbell Cameras &lpar;2023&rpar;: Smart, Wireless, and a Word About Eufy and Ring](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->
+ - [The best iPhone 15 alternatives: 6 phones to consider before you buy](https://www.androidauthority.com/best-iphone-15-alternatives-3363123/)
+ - [Why Is Everyone Asking Men About the Roman Empire?](https://www.wired.com/story/ask-men-about-roman-empire-tiktok-twitter-pop-culture/)
+ - [Radiation Is Everywhere. But It’s Not All Bad](https://www.wired.com/story/radiation-is-everywhere-but-its-not-all-bad/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
