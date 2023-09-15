@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield relishes in Bethesda’s legacy of item hoarding](https://www.polygon.com/23871601/starfield-bethesda-history-of-hoarding)
- - [How to watch today’s Nintendo Direct](https://www.polygon.com/23860361/nintendo-direct-september-2023-time-date-where-to-watch)
- - [A Starfield fan has created Chunks&#39; baked beans, and I don&#39;t want to go to space anymore](https://www.pcgamer.com/a-starfield-fan-has-created-chunks-baked-beans-and-i-dont-want-to-go-to-space-anymore)<!-- GAME:END -->
+ - [Like a Hurricane, the unofficial oral history of Street Fighter 2, is now on our merch shop](https://www.polygon.com/deals/23845757/like-a-hurricane-street-fighter-2-polygon-merch-shop-vinyl)
+ - [Dixit’s Disney Edition is now available at Barnes &amp; Noble](https://www.polygon.com/deals/23872573/dixit-disney-edition-barnes-noble-where-to-buy)
+ - [Amnesia: The Bunker&#39;s Halloween update plans to make this year&#39;s scariest game even more terrifying](https://www.pcgamer.com/amnesia-the-bunkers-halloween-update-plans-to-make-this-years-scariest-game-even-more-terrifying)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
