@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Work b*tch](http://9gag.com/gag/a1PB34Y)
- - 🚯 [No body cares](http://9gag.com/gag/a6q4Rz2)
- - 🚯 [Dont forget to check on your parents guys :&rpar;](http://9gag.com/gag/aA0qzog)<!-- MEMES:END -->
+ - 🚖 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
+ - 🚯 [Dumb ways to die](http://9gag.com/gag/axoQx3b)
+ - 🚯 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)<!-- MEMES:END -->
 
 --- 
 
