@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Like a Hurricane, the unofficial oral history of Street Fighter 2, is now on our merch shop](https://www.polygon.com/deals/23845757/like-a-hurricane-street-fighter-2-polygon-merch-shop-vinyl)
- - [Dixit’s Disney Edition is now available at Barnes &amp; Noble](https://www.polygon.com/deals/23872573/dixit-disney-edition-barnes-noble-where-to-buy)
- - [Amnesia: The Bunker&#39;s Halloween update plans to make this year&#39;s scariest game even more terrifying](https://www.pcgamer.com/amnesia-the-bunkers-halloween-update-plans-to-make-this-years-scariest-game-even-more-terrifying)<!-- GAME:END -->
+ - [For Steam’s 20th birthday, the Steam Deck is 20% off](https://www.polygon.com/deals/2023/9/16/23873639/gaming-deals-steam-deck-starfield-star-trek-ghibli-blu-ray-deal-sale)
+ - [The 5 best sci-fi movies to watch this September](https://www.polygon.com/what-to-watch/2023/9/16/23869908/best-sci-fi-movies-watch-hulu-max-prime-september-2023)
+ - [NYT Connections hint and answers today: September 16 &lpar;#97&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-16-97)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
