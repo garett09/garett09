@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf is going down there?](http://9gag.com/gag/aOxAMBr)
- - 🚯 [Dumb ways to die](http://9gag.com/gag/axoQx3b)
- - 🚯 [Greedy hag is gonna wonder why no one visits her and then die alone](http://9gag.com/gag/a9qZxZ6)<!-- MEMES:END -->
+ - 🚖 [Dumb ways to die](http://9gag.com/gag/axoQx3b)
+ - 🚯 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
+ - 🚯 [So much eye candy](http://9gag.com/gag/avQ4b4q)<!-- MEMES:END -->
 
 --- 
 
