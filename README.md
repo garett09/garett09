@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPhone 15 alternatives: 6 phones to consider before you buy](https://www.androidauthority.com/best-iphone-15-alternatives-3363123/)
- - [Why Is Everyone Asking Men About the Roman Empire?](https://www.wired.com/story/ask-men-about-roman-empire-tiktok-twitter-pop-culture/)
- - [Radiation Is Everywhere. But It’s Not All Bad](https://www.wired.com/story/radiation-is-everywhere-but-its-not-all-bad/)<!-- TECH:END -->
+ - [If you really want to save Mother Nature, keep your old iPhone and Apple Watch](https://www.androidauthority.com/keep-your-old-iphone-3364003/)
+ - [You Need to Update Google Chrome or Whatever Browser You Use](https://www.wired.com/story/libwebp-flaw-browser-updates/)
+ - [Apple Bids Goodbye to the iPhone Mini](https://www.wired.com/story/goodbye-apple-iphone-mini/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
