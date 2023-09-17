@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For Steam’s 20th birthday, the Steam Deck is 20% off](https://www.polygon.com/deals/2023/9/16/23873639/gaming-deals-steam-deck-starfield-star-trek-ghibli-blu-ray-deal-sale)
- - [The 5 best sci-fi movies to watch this September](https://www.polygon.com/what-to-watch/2023/9/16/23869908/best-sci-fi-movies-watch-hulu-max-prime-september-2023)
- - [NYT Connections hint and answers today: September 16 &lpar;#97&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-16-97)<!-- GAME:END -->
+ - [The best shows to watch on Max](https://www.polygon.com/what-to-watch/23870121/best-tv-shows-series-max-watch)
+ - [One Baldur&#39;s Gate 3 character can break the fourth wall like the goddamn Kool-Aid Man](https://www.pcgamer.com/one-baldurs-gate-3-character-can-break-the-fourth-wall-like-the-goddamn-kool-aid-man)
+ - [NYT Connections hint and answers today: September 17 &lpar;#98&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-17-98)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
