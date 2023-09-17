@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you really want to save Mother Nature, keep your old iPhone and Apple Watch](https://www.androidauthority.com/keep-your-old-iphone-3364003/)
- - [You Need to Update Google Chrome or Whatever Browser You Use](https://www.wired.com/story/libwebp-flaw-browser-updates/)
- - [Apple Bids Goodbye to the iPhone Mini](https://www.wired.com/story/goodbye-apple-iphone-mini/)<!-- TECH:END -->
+ - [Walter Isaacson&#39;s Elon Musk biography is a book of rigorous and dogged reportage, but lacks analysis and often ignores the moments at which Musk&#39;s flaws scale &lpar;Constance Grady/Vox&rpar;](http://www.techmeme.com/230917/p3#a230917p3)
+ - [18 Best Portable Battery Chargers &lpar;2023&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [Apple continues to use our own mortality as marketing](https://www.theverge.com/23875558/apple-watch-iphone-ads-emergency-sos-satellite-connectivity)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
