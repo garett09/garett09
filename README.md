@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dumb ways to die](http://9gag.com/gag/axoQx3b)
- - 🚯 [C. Can&#39;t tell](http://9gag.com/gag/aDYqR87)
- - 🚯 [So much eye candy](http://9gag.com/gag/avQ4b4q)<!-- MEMES:END -->
+ - 🚖 [Take an IQ test with Jordan Peterson](http://9gag.com/gag/az2o6OZ)
+ - 🚯 [Twins](http://9gag.com/gag/aRE86Bq)
+ - 🚯 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)<!-- MEMES:END -->
 
 --- 
 
