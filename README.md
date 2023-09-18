@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best shows to watch on Max](https://www.polygon.com/what-to-watch/23870121/best-tv-shows-series-max-watch)
- - [One Baldur&#39;s Gate 3 character can break the fourth wall like the goddamn Kool-Aid Man](https://www.pcgamer.com/one-baldurs-gate-3-character-can-break-the-fourth-wall-like-the-goddamn-kool-aid-man)
- - [NYT Connections hint and answers today: September 17 &lpar;#98&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-17-98)<!-- GAME:END -->
+ - [The ultimate way to watch the Marvel movies](https://www.polygon.com/2020/3/20/21187206/how-to-watch-marvel-movies-order-timeline-disney-plus-marathon)
+ - [Intel is making progress on a handy new material for building even bigger computer chips: glass](https://www.pcgamer.com/intel-glass-substrates)
+ - [Game that raised over $1.5 million on Kickstarter defends its use of AI art: &#39;It&#39;s certainly going to hurt people [but] I don’t think this is going to go back in the bag&#39;](https://www.pcgamer.com/game-that-raised-over-dollar15-million-on-kickstarter-defends-its-use-of-ai-art-its-certainly-going-to-hurt-people-but-i-dont-think-this-is-going-to-go-back-in-the-bag)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
