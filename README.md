@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take an IQ test with Jordan Peterson](http://9gag.com/gag/az2o6OZ)
- - 🚯 [Twins](http://9gag.com/gag/aRE86Bq)
- - 🚯 [Only the third world gets it.](http://9gag.com/gag/aBdb9gN)<!-- MEMES:END -->
+ - 🚖 [Many such cases!](http://9gag.com/gag/aPgVWRn)
+ - 🚯 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
+ - 🚯 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)<!-- MEMES:END -->
 
 --- 
 
