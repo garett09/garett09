@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walter Isaacson&#39;s Elon Musk biography is a book of rigorous and dogged reportage, but lacks analysis and often ignores the moments at which Musk&#39;s flaws scale &lpar;Constance Grady/Vox&rpar;](http://www.techmeme.com/230917/p3#a230917p3)
- - [18 Best Portable Battery Chargers &lpar;2023&rpar;: For Phones, iPads, Laptops, and More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [Apple continues to use our own mortality as marketing](https://www.theverge.com/23875558/apple-watch-iphone-ads-emergency-sos-satellite-connectivity)<!-- TECH:END -->
+ - [Activision was briefed on Nintendo’s Switch 2 last year](https://www.theverge.com/2023/9/18/23878412/nintendo-switch-2-activision-briefing-next-gen-switch)
+ - [X Challenger Pebble Thinks AI-Generated Posts Can Help Lure Users Away From Elon Musk](https://www.wired.com/story/x-challenger-pebble-thinks-ai-generated-posts-can-lure-users-elon-musk/)
+ - [Apple’s AirPods Pro just got much better — no matter what port is on the case](https://www.theverge.com/23878402/apple-airpods-pro-usb-c-adaptive-audio-conversation-awareness-test-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
