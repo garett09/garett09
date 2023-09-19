@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision was briefed on Nintendo’s Switch 2 last year](https://www.theverge.com/2023/9/18/23878412/nintendo-switch-2-activision-briefing-next-gen-switch)
- - [X Challenger Pebble Thinks AI-Generated Posts Can Help Lure Users Away From Elon Musk](https://www.wired.com/story/x-challenger-pebble-thinks-ai-generated-posts-can-lure-users-elon-musk/)
- - [Apple’s AirPods Pro just got much better — no matter what port is on the case](https://www.theverge.com/23878402/apple-airpods-pro-usb-c-adaptive-audio-conversation-awareness-test-review)<!-- TECH:END -->
+ - [Apple iPhone 15 Pro and Pro Max review: USB-C, lighter, nicer to hold, useful Action Button, and camera improvements, but no 5x telephoto on the smaller Pro &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230919/p25#a230919p25)
+ - [Dream Scenario’s new trailer makes viral fame seem like the nightmare it is](https://www.theverge.com/23879579/a24-dream-scenario-trailer)
+ - [Ray tracing is improved with Nvidia’s DLSS 3.5, and it’s cruising to Cyberpunk 2077 this week](https://www.theverge.com/2023/9/19/23880259/cyberpunk-2077-nvidia-dlss-3-5-upgrade)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
