@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Many such cases!](http://9gag.com/gag/aPgVWRn)
- - 🚯 [A female omothymus spider spotted in Malaysia](http://9gag.com/gag/armDpO6)
- - 🚯 [That was insane. And he was naked.](http://9gag.com/gag/amAOXgd)<!-- MEMES:END -->
+ - 🚖 [Drunk people who act like this deserve to get knocked out. Gender is irrelevant,if you can&#39;t hold your liquor then drink less. Alcohol doesn&#39;t excuse you from acting poorly and hurting others.](http://9gag.com/gag/a6qebL2)
+ - 🚯 [Big issue of now a days, Trapped in waiting...](http://9gag.com/gag/aDYqWYO)
+ - 🚯 [Title lol](http://9gag.com/gag/a5X9Z3r)<!-- MEMES:END -->
 
 --- 
 
