@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The ultimate way to watch the Marvel movies](https://www.polygon.com/2020/3/20/21187206/how-to-watch-marvel-movies-order-timeline-disney-plus-marathon)
- - [Intel is making progress on a handy new material for building even bigger computer chips: glass](https://www.pcgamer.com/intel-glass-substrates)
- - [Game that raised over $1.5 million on Kickstarter defends its use of AI art: &#39;It&#39;s certainly going to hurt people [but] I don’t think this is going to go back in the bag&#39;](https://www.pcgamer.com/game-that-raised-over-dollar15-million-on-kickstarter-defends-its-use-of-ai-art-its-certainly-going-to-hurt-people-but-i-dont-think-this-is-going-to-go-back-in-the-bag)<!-- GAME:END -->
+ - [How Marvel’s Spider-Man 2 taps into the power of PS5](https://blog.playstation.com/2023/09/19/how-marvels-spider-man-2-taps-into-the-power-of-ps5/)
+ - [Coming to Xbox Game Pass: Party Animals, Gotham Knights, Payday 3 , and More](https://news.xbox.com/en-us/2023/09/19/game-pass-september-2023-wave-2-announce/)
+ - [The Teal Mask is a refreshing change of pace for Pokémon Scarlet and Violet](https://www.polygon.com/23879094/pokemon-teal-mask-dlc-scarlet-violet-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
