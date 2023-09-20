@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drunk people who act like this deserve to get knocked out. Gender is irrelevant,if you can&#39;t hold your liquor then drink less. Alcohol doesn&#39;t excuse you from acting poorly and hurting others.](http://9gag.com/gag/a6qebL2)
- - 🚯 [Big issue of now a days, Trapped in waiting...](http://9gag.com/gag/aDYqWYO)
- - 🚯 [Title lol](http://9gag.com/gag/a5X9Z3r)<!-- MEMES:END -->
+ - 🚖 [Justice Served..](http://9gag.com/gag/ay2m8YY)
+ - 🚯 [I&#39;m tired boss](http://9gag.com/gag/a7qmMxm)
+ - 🚯 [Be careful !!!](http://9gag.com/gag/aVb937n)<!-- MEMES:END -->
 
 --- 
 
