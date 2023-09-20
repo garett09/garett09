@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Marvel’s Spider-Man 2 taps into the power of PS5](https://blog.playstation.com/2023/09/19/how-marvels-spider-man-2-taps-into-the-power-of-ps5/)
- - [Coming to Xbox Game Pass: Party Animals, Gotham Knights, Payday 3 , and More](https://news.xbox.com/en-us/2023/09/19/game-pass-september-2023-wave-2-announce/)
- - [The Teal Mask is a refreshing change of pace for Pokémon Scarlet and Violet](https://www.polygon.com/23879094/pokemon-teal-mask-dlc-scarlet-violet-review)<!-- GAME:END -->
+ - [Lies of P: How to find and open 221b Elysion Boulevard](https://www.pcgamer.com/lies-of-p-221b-refuges-address)
+ - [Microsoft&#39;s next all-new Xbox console could have Arm not x86 CPU cores](https://www.pcgamer.com/microsofts-next-all-new-xbox-console-could-have-arm-not-x86-cpu-cores)
+ - [Microsoft dreamed up a next-gen Xbox, powered by Zen 6 and Navi 5, and &#39;performance beyond the capabilities of the client hardware alone&#39;](https://www.pcgamer.com/microsoft-dreamed-up-a-next-gen-xbox-powered-by-zen-6-and-navi-5-and-performance-beyond-the-capabilities-of-the-client-hardware-alone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
