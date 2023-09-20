@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 15 Pro and Pro Max review: USB-C, lighter, nicer to hold, useful Action Button, and camera improvements, but no 5x telephoto on the smaller Pro &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/230919/p25#a230919p25)
- - [Dream Scenario’s new trailer makes viral fame seem like the nightmare it is](https://www.theverge.com/23879579/a24-dream-scenario-trailer)
- - [Ray tracing is improved with Nvidia’s DLSS 3.5, and it’s cruising to Cyberpunk 2077 this week](https://www.theverge.com/2023/9/19/23880259/cyberpunk-2077-nvidia-dlss-3-5-upgrade)<!-- TECH:END -->
+ - [Apple Watch Series 9 and Ultra 2 review: Precision Finding, Double Tap is great, and some Siri and brightness improvements, but many of the tweaks feel minor &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230920/p18#a230920p18)
+ - [Apple &amp; Goldman Sachs abandoned plans for a Robin Hood-like stock trading app](https://appleinsider.com/articles/23/09/20/apple-goldman-sachs-abandoned-plans-for-a-robin-hood-like-stock-trading-app?utm_medium=rss)
+ - [5 Apple iPhone 15 features we want on Android](https://www.androidauthority.com/apple-iphone-15-features-android-3363897/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
