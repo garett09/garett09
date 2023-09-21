@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Justice Served..](http://9gag.com/gag/ay2m8YY)
- - 🚯 [I&#39;m tired boss](http://9gag.com/gag/a7qmMxm)
- - 🚯 [Be careful !!!](http://9gag.com/gag/aVb937n)<!-- MEMES:END -->
+ - 🚖 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
+ - 🚯 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
+ - 🚯 [I met both!](http://9gag.com/gag/aVb978P)<!-- MEMES:END -->
 
 --- 
 
