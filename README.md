@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lies of P: How to find and open 221b Elysion Boulevard](https://www.pcgamer.com/lies-of-p-221b-refuges-address)
- - [Microsoft&#39;s next all-new Xbox console could have Arm not x86 CPU cores](https://www.pcgamer.com/microsofts-next-all-new-xbox-console-could-have-arm-not-x86-cpu-cores)
- - [Microsoft dreamed up a next-gen Xbox, powered by Zen 6 and Navi 5, and &#39;performance beyond the capabilities of the client hardware alone&#39;](https://www.pcgamer.com/microsoft-dreamed-up-a-next-gen-xbox-powered-by-zen-6-and-navi-5-and-performance-beyond-the-capabilities-of-the-client-hardware-alone)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3&#39;s next &#39;big&#39; patch has been slightly delayed](https://www.pcgamer.com/baldurs-gate-3s-next-big-patch-has-been-slightly-delayed)
+ - [Scarlet &amp; Violet—151 finds new stars in the first generation of Pokémon](https://www.polygon.com/23882381/scarlet-violet-151-pokemon-tcg-preview-trading-card-game)
+ - [Watch PC Gaming Show: Most Wanted on November 30](https://www.pcgamer.com/pc-gaming-show-most-wanted-announcement-november-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
