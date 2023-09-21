@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 9 and Ultra 2 review: Precision Finding, Double Tap is great, and some Siri and brightness improvements, but many of the tweaks feel minor &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/230920/p18#a230920p18)
- - [Apple &amp; Goldman Sachs abandoned plans for a Robin Hood-like stock trading app](https://appleinsider.com/articles/23/09/20/apple-goldman-sachs-abandoned-plans-for-a-robin-hood-like-stock-trading-app?utm_medium=rss)
- - [5 Apple iPhone 15 features we want on Android](https://www.androidauthority.com/apple-iphone-15-features-android-3363897/)<!-- TECH:END -->
+ - [Sources: Panos Panay&#39;s abrupt departure came after Microsoft made budget and staff cuts, canceled products, and discussed reorganizing his hardware unit &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/230921/p18#a230921p18)
+ - [I Failed Two Captcha Tests This Week. Am I Still Human?](https://www.wired.com/story/failed-captcha-test-am-i-still-human/)
+ - [13 Best Office Chairs &lpar;2023&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
