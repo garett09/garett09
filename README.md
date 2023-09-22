@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3&#39;s next &#39;big&#39; patch has been slightly delayed](https://www.pcgamer.com/baldurs-gate-3s-next-big-patch-has-been-slightly-delayed)
- - [Scarlet &amp; Violet—151 finds new stars in the first generation of Pokémon](https://www.polygon.com/23882381/scarlet-violet-151-pokemon-tcg-preview-trading-card-game)
- - [Watch PC Gaming Show: Most Wanted on November 30](https://www.pcgamer.com/pc-gaming-show-most-wanted-announcement-november-2023)<!-- GAME:END -->
+ - [Dimension 20 broke all the actual play rules to become the best D&amp;D show around](https://www.polygon.com/23883220/dimension-20-dropout-tv-show-anniversary-season-dnd)
+ - [All Lies or Truth choices in Lies of P](https://www.polygon.com/guides/23885202/lies-of-p-all-lies-or-truth-choices-endings)
+ - [The official Lord of the Rings special effects studio is making a cozy hobbit game](https://www.pcgamer.com/the-official-lord-of-the-rings-special-effects-studio-is-making-a-cozy-hobbit-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
