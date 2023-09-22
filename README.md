@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best TV series ever..](http://9gag.com/gag/aZD4LQ3)
- - 🚯 [Woody Harrelson](http://9gag.com/gag/a04D5Oq)
- - 🚯 [I met both!](http://9gag.com/gag/aVb978P)<!-- MEMES:END -->
+ - 🚖 [A short and witty title](http://9gag.com/gag/agopg2n)
+ - 🚯 [Remake better than original](http://9gag.com/gag/abvLvjr)
+ - 🚯 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)<!-- MEMES:END -->
 
 --- 
 
