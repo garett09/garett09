@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Panos Panay&#39;s abrupt departure came after Microsoft made budget and staff cuts, canceled products, and discussed reorganizing his hardware unit &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/230921/p18#a230921p18)
- - [I Failed Two Captcha Tests This Week. Am I Still Human?](https://www.wired.com/story/failed-captcha-test-am-i-still-human/)
- - [13 Best Office Chairs &lpar;2023&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
+ - [YouTube drop tests are a terrible indication of iPhone durability](https://appleinsider.com/articles/23/09/22/youtube-drop-tests-are-a-terrible-indication-of-iphone-durability?utm_medium=rss)
+ - [Smarter AI Assistants Could Make It Harder to Stay Human](https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/)
+ - [Streaming TV Is Entering Its Jock Phase](https://www.wired.com/story/streaming-wars-sports-espn-disney-charter-netflix/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
