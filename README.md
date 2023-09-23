@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A short and witty title](http://9gag.com/gag/agopg2n)
- - 🚯 [Remake better than original](http://9gag.com/gag/abvLvjr)
- - 🚯 [I dont even work as `It Guy` but i can feel their pain.](http://9gag.com/gag/az2vMjN)<!-- MEMES:END -->
+ - 🚖 [He&#39;s smooth](http://9gag.com/gag/aZD4DXW)
+ - 🚯 [Old but still cold](http://9gag.com/gag/a6qeD9q)
+ - 🚯 [Police chase](http://9gag.com/gag/a9q4146)<!-- MEMES:END -->
 
 --- 
 
