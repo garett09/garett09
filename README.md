@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube drop tests are a terrible indication of iPhone durability](https://appleinsider.com/articles/23/09/22/youtube-drop-tests-are-a-terrible-indication-of-iphone-durability?utm_medium=rss)
- - [Smarter AI Assistants Could Make It Harder to Stay Human](https://www.wired.com/story/plaintext-smarter-ai-assistants-could-make-it-harder-to-stay-human/)
- - [Streaming TV Is Entering Its Jock Phase](https://www.wired.com/story/streaming-wars-sports-espn-disney-charter-netflix/)<!-- TECH:END -->
+ - [The iPhone 12 Isn&#39;t the Only Phone to Fail France&#39;s Radiation Test](https://www.wired.com/story/the-iphone-12-isnt-the-only-phone-to-fail-frances-radiation-test/)
+ - [The Shocking Data on Kia and Hyundai Thefts in the US](https://www.wired.com/story/kia-hyundai-car-thefts-us-security-roundup/)
+ - [21 Best iPhone 14 Cases and Accessories &lpar;2023&rpar;: MagSafe-Tested, Chargers, and More](https://www.wired.com/gallery/best-iphone-14-cases-and-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
