@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dimension 20 broke all the actual play rules to become the best D&amp;D show around](https://www.polygon.com/23883220/dimension-20-dropout-tv-show-anniversary-season-dnd)
- - [All Lies or Truth choices in Lies of P](https://www.polygon.com/guides/23885202/lies-of-p-all-lies-or-truth-choices-endings)
- - [The official Lord of the Rings special effects studio is making a cozy hobbit game](https://www.pcgamer.com/the-official-lord-of-the-rings-special-effects-studio-is-making-a-cozy-hobbit-game)<!-- GAME:END -->
+ - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of September 2023](https://www.polygon.com/what-to-watch/2023/9/23/23880454/best-movies-netflix-amazon-hulu-max-leaving-september-2023)
+ - [NYT Connections hint and answers today: September 23 &lpar;#104&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-23-104)
+ - [Today&#39;s Wordle hint and answer #826: Saturday, September 23](https://www.pcgamer.com/wordle-answer-today-hint-826-september-23)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
