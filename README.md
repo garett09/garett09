@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 12 Isn&#39;t the Only Phone to Fail France&#39;s Radiation Test](https://www.wired.com/story/the-iphone-12-isnt-the-only-phone-to-fail-frances-radiation-test/)
- - [The Shocking Data on Kia and Hyundai Thefts in the US](https://www.wired.com/story/kia-hyundai-car-thefts-us-security-roundup/)
- - [21 Best iPhone 14 Cases and Accessories &lpar;2023&rpar;: MagSafe-Tested, Chargers, and More](https://www.wired.com/gallery/best-iphone-14-cases-and-accessories/)<!-- TECH:END -->
+ - [10 best RSS reader apps for Android](https://www.androidauthority.com/best-rss-reader-apps-for-android-2-174770/)
+ - [10 best Android backup apps and other ways to backup Android](https://www.androidauthority.com/best-android-backup-apps-and-other-ways-too-608014/)
+ - [Poll: What’s the most iconic Android phone in the last 15 years](https://www.androidauthority.com/most-iconic-android-phone-15-years-poll-3366553/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
