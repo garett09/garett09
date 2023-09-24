@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of September 2023](https://www.polygon.com/what-to-watch/2023/9/23/23880454/best-movies-netflix-amazon-hulu-max-leaving-september-2023)
- - [NYT Connections hint and answers today: September 23 &lpar;#104&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-23-104)
- - [Today&#39;s Wordle hint and answer #826: Saturday, September 23](https://www.pcgamer.com/wordle-answer-today-hint-826-september-23)<!-- GAME:END -->
+ - [NYT Connections hint and answers today: September 24 &lpar;#105&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-24-105)
+ - [No, that wasn&#39;t Elon Musk in Cyberpunk 2077, says senior quest designer](https://www.pcgamer.com/no-that-wasnt-elon-musk-in-cyberpunk-2077-says-senior-quest-designer)
+ - [Today&#39;s Wordle hint and answer #827: Sunday, September 24](https://www.pcgamer.com/wordle-answer-today-hint-827-september-24)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
