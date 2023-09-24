@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s smooth](http://9gag.com/gag/aZD4DXW)
- - 🚯 [Old but still cold](http://9gag.com/gag/a6qeD9q)
- - 🚯 [Police chase](http://9gag.com/gag/a9q4146)<!-- MEMES:END -->
+ - 🚖 [What a twist!](http://9gag.com/gag/aYVvMpv)
+ - 🚯 [Xavier rules](http://9gag.com/gag/a1P8VAw)
+ - 🚯 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)<!-- MEMES:END -->
 
 --- 
 
