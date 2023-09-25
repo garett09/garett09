@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a twist!](http://9gag.com/gag/aYVvMpv)
- - 🚯 [Xavier rules](http://9gag.com/gag/a1P8VAw)
- - 🚯 [F Around &amp; F out... Wonder what&#39;s the quality of education if that&#39;s a prof](http://9gag.com/gag/aYVvPdq)<!-- MEMES:END -->
+ - 🚖 [Wild wild west](http://9gag.com/gag/aQEDABz)
+ - 🚯 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)
+ - 🚯 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
 
 --- 
 
