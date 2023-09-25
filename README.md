@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NYT Connections hint and answers today: September 24 &lpar;#105&rpar;](https://www.pcgamer.com/nyt-connections-hint-and-answers-today-september-24-105)
- - [No, that wasn&#39;t Elon Musk in Cyberpunk 2077, says senior quest designer](https://www.pcgamer.com/no-that-wasnt-elon-musk-in-cyberpunk-2077-says-senior-quest-designer)
- - [Today&#39;s Wordle hint and answer #827: Sunday, September 24](https://www.pcgamer.com/wordle-answer-today-hint-827-september-24)<!-- GAME:END -->
+ - [Payday 3 needs more time to escape the shadow of its predecessor](https://www.polygon.com/reviews/23885980/payday-3-review-heists-servers-game-pass)
+ - [Paper Beast Enhanced Edition: dynamic textures, atmospheric lighting, expanded sandbox detailed](https://blog.playstation.com/2023/09/25/paper-beast-enhanced-edition-dynamic-textures-atmospheric-lighting-expanded-sandbox-detailed/)
+ - [Jigsaw From Saw X Invites Xbox Fans To Solve Traps In A Game With Consequences](https://news.xbox.com/en-us/2023/09/25/saw-x-invites-xbox-fans-to-solve-traps-in-a-game-with-consequences/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
