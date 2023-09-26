@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wild wild west](http://9gag.com/gag/aQEDABz)
- - 🚯 [\u20ac25,000 Fine To Lando For Touching Oscar&#39;s Rear End](http://9gag.com/gag/aRE8zP2)
- - 🚯 [My best guess is that they are idiots.](http://9gag.com/gag/a6qejbm)<!-- MEMES:END -->
+ - 🚖 [Wait this McDonalds Commercial *jaw drop*](http://9gag.com/gag/anz0VXb)
+ - 🚯 [How was it called?](http://9gag.com/gag/amAOpDd)
+ - 🚯 [Most Accidentally embarrassing arrival](http://9gag.com/gag/ap9nV3n)<!-- MEMES:END -->
 
 --- 
 
