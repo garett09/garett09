@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Payday 3 needs more time to escape the shadow of its predecessor](https://www.polygon.com/reviews/23885980/payday-3-review-heists-servers-game-pass)
- - [Paper Beast Enhanced Edition: dynamic textures, atmospheric lighting, expanded sandbox detailed](https://blog.playstation.com/2023/09/25/paper-beast-enhanced-edition-dynamic-textures-atmospheric-lighting-expanded-sandbox-detailed/)
- - [Jigsaw From Saw X Invites Xbox Fans To Solve Traps In A Game With Consequences](https://news.xbox.com/en-us/2023/09/25/saw-x-invites-xbox-fans-to-solve-traps-in-a-game-with-consequences/)<!-- GAME:END -->
+ - [Introducing Your Mum To Video Games – 5 Tips From The Paleo Pines Team](https://news.xbox.com/en-us/2023/09/26/paleo-pines-introducing-mum-to-video-games/)
+ - [Taylor Swift Easter eggs are more than a puzzle — they’re a lifestyle](https://www.polygon.com/23887372/taylor-swift-easter-eggs-broke-google-eras-1989-taylors-version)
+ - [The Iron Throne is Baldur&#39;s Gate 3&#39;s best dungeon, and also its most stressful](https://www.pcgamer.com/the-iron-throne-is-baldurs-gate-3s-best-dungeon-and-also-its-most-stressful)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
