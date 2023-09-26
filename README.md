@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A teardown of the iPhone 15 Pro Max: a redesigned frame for easier back glass repairs, new tetraprism periscope lens, software lockdown makes repairs hard, more &lpar;Kyle Wiens/iFixit News&rpar;](http://www.techmeme.com/230925/p8#a230925p8)
- - [Oxygen OS 14 beta hands-on: Half-baked but still fast and smooth](https://www.androidauthority.com/oxygen-os-14-hands-on-3367182/)
- - [How to Actually Clean Install Windows 11](https://www.wired.com/story/how-to-clean-install-windows-11/)<!-- TECH:END -->
+ - [iPhone 15 Pro overheating investigated: Is it really too hot to handle?](https://www.androidauthority.com/iphone-15-pro-overheating-3367682/)
+ - [What Makes a Video Game Remake Actually Worth Playing?](https://www.wired.com/story/what-makes-video-game-remake-worth-playing/)
+ - [Why Aren&#39;t Disabled Astronauts Exploring Space?](https://www.wired.com/story/ashley-shew-disability-space-exploration/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
