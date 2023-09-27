@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro overheating investigated: Is it really too hot to handle?](https://www.androidauthority.com/iphone-15-pro-overheating-3367682/)
- - [What Makes a Video Game Remake Actually Worth Playing?](https://www.wired.com/story/what-makes-video-game-remake-worth-playing/)
- - [Why Aren&#39;t Disabled Astronauts Exploring Space?](https://www.wired.com/story/ashley-shew-disability-space-exploration/)<!-- TECH:END -->
+ - [Horizon Forbidden West is coming to PC early next year](https://www.theverge.com/2023/9/27/23874229/horizon-forbidden-west-pc-port-playstation)
+ - [Bridgerton season 3 release date: Here’s what we know so far](https://www.androidauthority.com/bridgerton-season-3-release-date-3368818/)
+ - [Anker Soundcore Liberty 4 NC Review: Masterful Budget Noise-Canceling Buds](https://www.wired.com/review/anker-soundcore-liberty-4-nc/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
