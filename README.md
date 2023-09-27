@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait this McDonalds Commercial *jaw drop*](http://9gag.com/gag/anz0VXb)
- - 🚯 [How was it called?](http://9gag.com/gag/amAOpDd)
- - 🚯 [Most Accidentally embarrassing arrival](http://9gag.com/gag/ap9nV3n)<!-- MEMES:END -->
+ - 🚖 [Only way to go](http://9gag.com/gag/aL1Or5V)
+ - 🚯 [Maybe she will become an actress? &lpar;pelagea.vishnevskay&rpar;](http://9gag.com/gag/ay2mPQr)
+ - 🚯 [It really saddens me to see something like this happening all across Europe every single day. We are doomed. &lpar;This is in Spain recently&rpar;](http://9gag.com/gag/ajV3yEw)<!-- MEMES:END -->
 
 --- 
 
