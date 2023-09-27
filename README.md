@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing Your Mum To Video Games – 5 Tips From The Paleo Pines Team](https://news.xbox.com/en-us/2023/09/26/paleo-pines-introducing-mum-to-video-games/)
- - [Taylor Swift Easter eggs are more than a puzzle — they’re a lifestyle](https://www.polygon.com/23887372/taylor-swift-easter-eggs-broke-google-eras-1989-taylors-version)
- - [The Iron Throne is Baldur&#39;s Gate 3&#39;s best dungeon, and also its most stressful](https://www.pcgamer.com/the-iron-throne-is-baldurs-gate-3s-best-dungeon-and-also-its-most-stressful)<!-- GAME:END -->
+ - [EA Pulls Every Old FIFA Game From Digital Storefronts](https://kotaku.com/fifa-23-fifa-24-ea-sports-fc-ps5-steam-switch-digital-1850877046)
+ - [Baldur’s Gate 3 – Devs share most popular, powerful, and unconventional multiclass builds](https://blog.playstation.com/2023/09/27/baldurs-gate-3-devs-share-most-popular-powerful-and-unconventional-multiclass-builds/)
+ - [Resident Evil 4 remake’s DLC is just as lavish](https://www.polygon.com/reviews/23891490/resident-evil-4-remake-dlc-review-separate-ways)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
