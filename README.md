@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Pulls Every Old FIFA Game From Digital Storefronts](https://kotaku.com/fifa-23-fifa-24-ea-sports-fc-ps5-steam-switch-digital-1850877046)
- - [Baldur’s Gate 3 – Devs share most popular, powerful, and unconventional multiclass builds](https://blog.playstation.com/2023/09/27/baldurs-gate-3-devs-share-most-popular-powerful-and-unconventional-multiclass-builds/)
- - [Resident Evil 4 remake’s DLC is just as lavish](https://www.polygon.com/reviews/23891490/resident-evil-4-remake-dlc-review-separate-ways)<!-- GAME:END -->
+ - [Sega cancels loot shooter Hyenas, layoffs expected at Creative Assembly](https://www.polygon.com/23894019/sega-cancels-hyenas)
+ - [The 10 most outrageous traps from the Saw franchise](https://www.polygon.com/23884045/saw-movies-best-traps-list)
+ - [The Lamplighters League review](https://www.pcgamer.com/the-lamplighters-league-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
