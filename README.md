@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Horizon Forbidden West is coming to PC early next year](https://www.theverge.com/2023/9/27/23874229/horizon-forbidden-west-pc-port-playstation)
- - [Bridgerton season 3 release date: Here’s what we know so far](https://www.androidauthority.com/bridgerton-season-3-release-date-3368818/)
- - [Anker Soundcore Liberty 4 NC Review: Masterful Budget Noise-Canceling Buds](https://www.wired.com/review/anker-soundcore-liberty-4-nc/)<!-- TECH:END -->
+ - [16 Best iPhone 15 Cases and Accessories &lpar;2023&rpar;: Clear, Grippy, Rugged, and Stylish](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)
+ - [DJI Osmo Action 4 Review: Finally, a Worthy GoPro Competitor](https://www.wired.com/review/dji-osmo-action-4-camera/)
+ - [7 Best Deals: Outdoor Apparel, Camping, and Climbing Gear](https://www.wired.com/story/midweek-deals-september-28-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
