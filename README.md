@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Get him](http://9gag.com/gag/ap9nj4n)
- - 🚯 [Aux battery location for a 2020 and newer Mercedes GLE350. Good luck once it goes out of warranty.](http://9gag.com/gag/a9q4V0D)
- - 🚯 [Just answer the fkn question Woman.](http://9gag.com/gag/aQEDrRq)<!-- MEMES:END -->
+ - 🚖 [Go away](http://9gag.com/gag/a9q40L6)
+ - 🚯 [Very deep](http://9gag.com/gag/aEqjbAo)
+ - 🚯 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)<!-- MEMES:END -->
 
 --- 
 
