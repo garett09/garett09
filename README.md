@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best iPhone 15 Cases and Accessories &lpar;2023&rpar;: Clear, Grippy, Rugged, and Stylish](https://www.wired.com/gallery/best-iphone-15-cases-and-accessories/)
- - [DJI Osmo Action 4 Review: Finally, a Worthy GoPro Competitor](https://www.wired.com/review/dji-osmo-action-4-camera/)
- - [7 Best Deals: Outdoor Apparel, Camping, and Climbing Gear](https://www.wired.com/story/midweek-deals-september-28-2023/)<!-- TECH:END -->
+ - [7 Best Bike Locks &lpar;2023&rpar;: U-Locks, Chain Locks, and Tips](https://www.wired.com/gallery/best-bike-locks/)
+ - [Hey Zuck, Get Those Robots out of My Social Feed](https://www.wired.com/story/plaintext-zuckerberg-robots-social-feed/)
+ - [Netflix Just Shipped Its Last DVD. The Algorithms Won](https://www.wired.com/story/netflix-last-dvd-algorithms-won/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
