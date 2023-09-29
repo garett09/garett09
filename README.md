@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega cancels loot shooter Hyenas, layoffs expected at Creative Assembly](https://www.polygon.com/23894019/sega-cancels-hyenas)
- - [The 10 most outrageous traps from the Saw franchise](https://www.polygon.com/23884045/saw-movies-best-traps-list)
- - [The Lamplighters League review](https://www.pcgamer.com/the-lamplighters-league-review)<!-- GAME:END -->
+ - [Mineko’s Night Market builds on 2023’s cozy game obsession](https://www.polygon.com/reviews/23894346/minekos-night-market-review-best-cozy-games-recipes)
+ - [AMD Zen 5 and 6 CPU details and performance &#39;leak&#39; and slightly disappoint](https://www.pcgamer.com/amd-zen-5-and-6-cpu-details-and-performance-leak-and-slightly-disappoint)
+ - [Starfield&#39;s cursed rain orb lifts the veil on an old game design trick: &#39;pack it up boys, it&#39;s over&#39;](https://www.pcgamer.com/starfields-cursed-rain-orb-lifts-the-veil-on-an-old-game-design-trick-pack-it-up-boys-its-over)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
