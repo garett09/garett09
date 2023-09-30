@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go away](http://9gag.com/gag/a9q40L6)
- - 🚯 [Very deep](http://9gag.com/gag/aEqjbAo)
- - 🚯 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)<!-- MEMES:END -->
+ - 🚖 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
+ - 🚯 [Hell no](http://9gag.com/gag/adPWAQ9)
+ - 🚯 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)<!-- MEMES:END -->
 
 --- 
 
