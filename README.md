@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Bike Locks &lpar;2023&rpar;: U-Locks, Chain Locks, and Tips](https://www.wired.com/gallery/best-bike-locks/)
- - [Hey Zuck, Get Those Robots out of My Social Feed](https://www.wired.com/story/plaintext-zuckerberg-robots-social-feed/)
- - [Netflix Just Shipped Its Last DVD. The Algorithms Won](https://www.wired.com/story/netflix-last-dvd-algorithms-won/)<!-- TECH:END -->
+ - [Apple Wallet&#39;s Connected Accounts may come to the US](https://appleinsider.com/articles/23/09/30/apple-wallets-connected-accounts-may-come-to-the-us?utm_medium=rss)
+ - [Chinese Hackers Are Hiding in Routers in the US and Japan](https://www.wired.com/story/china-blacktech-router-hack/)
+ - [House of Marley Stir It Up Lux Review &lpar;2023&rpar;: Made for Beginners](https://www.wired.com/review/house-of-marley-stir-it-up-lux-turntable/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
