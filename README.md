@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mineko’s Night Market builds on 2023’s cozy game obsession](https://www.polygon.com/reviews/23894346/minekos-night-market-review-best-cozy-games-recipes)
- - [AMD Zen 5 and 6 CPU details and performance &#39;leak&#39; and slightly disappoint](https://www.pcgamer.com/amd-zen-5-and-6-cpu-details-and-performance-leak-and-slightly-disappoint)
- - [Starfield&#39;s cursed rain orb lifts the veil on an old game design trick: &#39;pack it up boys, it&#39;s over&#39;](https://www.pcgamer.com/starfields-cursed-rain-orb-lifts-the-veil-on-an-old-game-design-trick-pack-it-up-boys-its-over)<!-- GAME:END -->
+ - [The Creator is the first real post-‘war on terror’ movie](https://www.polygon.com/23895997/creator-analysis-politics-war-on-terror-ai-us-military)
+ - [The best anime movies to watch right now](https://www.polygon.com/what-to-watch/23891489/best-anime-movies-watch-streaming-netflix-hulu-prime-max)
+ - [Pokémon Go Azurill Hatch Day event guide](https://www.polygon.com/pokemon-go-guide/2023/9/30/23896077/azurill-hatch-day-event-shiny-marill-azumarill-timed-research)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
