@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Laughs in Amperes..](http://9gag.com/gag/anz03GL)
- - 🚯 [Hell no](http://9gag.com/gag/adPWAQ9)
- - 🚯 [A true 9GAGGER](http://9gag.com/gag/aoKGQR3)<!-- MEMES:END -->
+ - 🚖 [Cctv..!!](http://9gag.com/gag/aQEDG9z)
+ - 🚯 [Try it! Lucid dreaming is awesome. I am having Sci-Fi adventures every other night.](http://9gag.com/gag/a04D3VZ)
+ - 🚯 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)<!-- MEMES:END -->
 
 --- 
 
