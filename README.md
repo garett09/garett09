@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Creator is the first real post-‘war on terror’ movie](https://www.polygon.com/23895997/creator-analysis-politics-war-on-terror-ai-us-military)
- - [The best anime movies to watch right now](https://www.polygon.com/what-to-watch/23891489/best-anime-movies-watch-streaming-netflix-hulu-prime-max)
- - [Pokémon Go Azurill Hatch Day event guide](https://www.polygon.com/pokemon-go-guide/2023/9/30/23896077/azurill-hatch-day-event-shiny-marill-azumarill-timed-research)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
+ - [Wordle today: Hint and answer for #834 Sunday, October 1](https://www.pcgamer.com/wordle-today-answer-834-october-1)
+ - [Darktide&#39;s new talent trees let you throw an &#39;Ogryn-sized&#39; grenade with a blast radius of 16 meters](https://www.pcgamer.com/darktides-new-talent-trees-let-you-throw-an-ogryn-sized-grenade-with-a-blast-radius-of-16-meters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
