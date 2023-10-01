@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Wallet&#39;s Connected Accounts may come to the US](https://appleinsider.com/articles/23/09/30/apple-wallets-connected-accounts-may-come-to-the-us?utm_medium=rss)
- - [Chinese Hackers Are Hiding in Routers in the US and Japan](https://www.wired.com/story/china-blacktech-router-hack/)
- - [House of Marley Stir It Up Lux Review &lpar;2023&rpar;: Made for Beginners](https://www.wired.com/review/house-of-marley-stir-it-up-lux-turntable/)<!-- TECH:END -->
+ - [Best Bed Frames &lpar;2023&rpar;: Easy Assembly, Fabric, Wood, and Metal](https://www.wired.com/gallery/best-bed-frames/)
+ - [The Pixel Watch exceeded expectations — now it needs to be as good as Samsung](https://www.theverge.com/2023/10/1/23895890/google-pixel-watch-2-smartwatch-wearable)
+ - [Hong Sangsoo’s new movies are losing focus](https://www.theverge.com/23894907/in-our-day-in-water-hong-sangsoo-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
