@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)
- - [Wordle today: Hint and answer for #834 Sunday, October 1](https://www.pcgamer.com/wordle-today-answer-834-october-1)
- - [Darktide&#39;s new talent trees let you throw an &#39;Ogryn-sized&#39; grenade with a blast radius of 16 meters](https://www.pcgamer.com/darktides-new-talent-trees-let-you-throw-an-ogryn-sized-grenade-with-a-blast-radius-of-16-meters)<!-- GAME:END -->
+ - [Paradox reveals Foundry, a procedurally-generated factory sim that looks like a mix of Factorio and Satisfactory, and you can play it next week](https://www.pcgamer.com/paradox-reveals-foundry-a-procedurally-generated-factory-sim-that-looks-like-a-mix-of-factorio-and-satisfactory-and-you-can-play-it-next-week)
+ - [Players’ Choice: Vote for September’s best new game](https://blog.playstation.com/2023/10/02/players-choice-vote-for-septembers-best-new-game-3/)
+ - [Undaunted abandons WWII, heads in a ‘different direction’ with spacefaring sequel](https://www.polygon.com/23896492/undaunted-2200-callisto-announcement-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
