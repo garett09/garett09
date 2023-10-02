@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cctv..!!](http://9gag.com/gag/aQEDG9z)
- - 🚯 [Try it! Lucid dreaming is awesome. I am having Sci-Fi adventures every other night.](http://9gag.com/gag/a04D3VZ)
- - 🚯 [Trudeau, Canada and Sharia law for the world](http://9gag.com/gag/aRE8nQQ)<!-- MEMES:END -->
+ - 🚖 [Johnny Somali being transported in a Japanese police van recently. He&#39;s not smiling, he faces up to 3 years in jail for trespassing](http://9gag.com/gag/aVb9nb2)
+ - 🚯 [I&#39;m so proud of this community](http://9gag.com/gag/a6qevQL)
+ - 🚯 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
 
 --- 
 
