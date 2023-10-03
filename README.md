@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Johnny Somali being transported in a Japanese police van recently. He&#39;s not smiling, he faces up to 3 years in jail for trespassing](http://9gag.com/gag/aVb9nb2)
- - 🚯 [I&#39;m so proud of this community](http://9gag.com/gag/a6qevQL)
- - 🚯 [Children and Guns are the best combination](http://9gag.com/gag/a8qvZBd)<!-- MEMES:END -->
+ - 🚖 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
+ - 🚯 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
+ - 🚯 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)<!-- MEMES:END -->
 
 --- 
 
