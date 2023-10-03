@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8 Pro unboxed on video: This phone might not attract fingerprints](https://www.androidauthority.com/pixel-8-pro-unboxing-video-3370368/)
- - [Chromebook Plus: Huge and exciting changes with a boring name](https://www.androidauthority.com/google-chromebook-plus-3369405/)
- - [10 Best Strollers for Almost Every Budget and Need &lpar;2023&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)<!-- TECH:END -->
+ - [New Apple Watch study to look at child arrhythmia and irregular heart beats](https://appleinsider.com/articles/23/10/03/new-apple-watch-study-to-look-at-child-arrhythmia-and-irregular-heart-beats?utm_medium=rss)
+ - [9 Best Target Circle Week Deals &lpar;2023&rpar;: iPads, Apple Watch, and Stand Mixers](https://www.wired.com/story/target-circle-week-deals-october-2023/)
+ - [The FCC fines Dish Network $150,000 for failing to move its old EchoStar-7 satellite far enough away from others in use, the FCC&#39;s first space junk fine &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/231003/p11#a231003p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
