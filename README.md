@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Paradox reveals Foundry, a procedurally-generated factory sim that looks like a mix of Factorio and Satisfactory, and you can play it next week](https://www.pcgamer.com/paradox-reveals-foundry-a-procedurally-generated-factory-sim-that-looks-like-a-mix-of-factorio-and-satisfactory-and-you-can-play-it-next-week)
- - [Players’ Choice: Vote for September’s best new game](https://blog.playstation.com/2023/10/02/players-choice-vote-for-septembers-best-new-game-3/)
- - [Undaunted abandons WWII, heads in a ‘different direction’ with spacefaring sequel](https://www.polygon.com/23896492/undaunted-2200-callisto-announcement-release-date-price)<!-- GAME:END -->
+ - [Coming Soon to Game Pass: Forza Motorsport, Like A Dragon: Ishin!, Warhammer 40,000: Darktide, and From Space](https://news.xbox.com/en-us/2023/10/03/game-pass-october-2023-wave-1-announce/)
+ - [WarioWare: Move It! gets back to basics with some really good butt stuff](https://www.polygon.com/23900277/warioware-move-it-nintendo-switch-impressions)
+ - [Elon Musk streams Diablo 4 as part of his latest doomed quest to turn X into a Twitch killer](https://www.pcgamer.com/elon-musk-streams-diablo-4-as-part-of-his-latest-doomed-quest-to-turn-x-into-a-twitch-killer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
