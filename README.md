@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Update on the hit and run scumbags](http://9gag.com/gag/aL1OY3M)
- - 🚯 [Again Monday folks :&lpar;](http://9gag.com/gag/aqeVqqP)
- - 🚯 [What movie is it this from?](http://9gag.com/gag/awZ9q7Q)<!-- MEMES:END -->
+ - 🚖 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
+ - 🚯 [Well well well](http://9gag.com/gag/aKEygqO)
+ - 🚯 [Its back!](http://9gag.com/gag/aYVBbQq)<!-- MEMES:END -->
 
 --- 
 
