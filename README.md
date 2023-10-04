@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Game Pass: Forza Motorsport, Like A Dragon: Ishin!, Warhammer 40,000: Darktide, and From Space](https://news.xbox.com/en-us/2023/10/03/game-pass-october-2023-wave-1-announce/)
- - [WarioWare: Move It! gets back to basics with some really good butt stuff](https://www.polygon.com/23900277/warioware-move-it-nintendo-switch-impressions)
- - [Elon Musk streams Diablo 4 as part of his latest doomed quest to turn X into a Twitch killer](https://www.pcgamer.com/elon-musk-streams-diablo-4-as-part-of-his-latest-doomed-quest-to-turn-x-into-a-twitch-killer)<!-- GAME:END -->
+ - [Total War: Pharaoh&#39;s dynamic weather system lets you feel the heat of battle](https://www.pcgamer.com/total-war-pharaohs-dynamic-weather-system-lets-you-feel-the-heat-of-battle)
+ - [Hi-Fi Rush: From a Little Idea to a Very Big Surprise – The Exclusive Oral History](https://news.xbox.com/en-us/2023/10/04/hi-fi-rush-exclusive-oral-history/)
+ - [Banish the tedium of setting up Windows with a built-in while-you-wait retro game, courtesy of Microsoft](https://www.pcgamer.com/banish-the-tedium-of-setting-up-windows-with-a-built-in-while-you-wait-retro-game-courtesy-of-microsoft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
