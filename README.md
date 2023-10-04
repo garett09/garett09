@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Watch study to look at child arrhythmia and irregular heart beats](https://appleinsider.com/articles/23/10/03/new-apple-watch-study-to-look-at-child-arrhythmia-and-irregular-heart-beats?utm_medium=rss)
- - [9 Best Target Circle Week Deals &lpar;2023&rpar;: iPads, Apple Watch, and Stand Mixers](https://www.wired.com/story/target-circle-week-deals-october-2023/)
- - [The FCC fines Dish Network $150,000 for failing to move its old EchoStar-7 satellite far enough away from others in use, the FCC&#39;s first space junk fine &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/231003/p11#a231003p11)<!-- TECH:END -->
+ - [Memo: Qualtrics plans to cut about 14% of its workforce, or 780 employees, citing a need to address the &quot;complexity&quot; created by its past hiring and growth &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231004/p11#a231004p11)
+ - [Uber will return your packages for you — for a fee, of course](https://www.theverge.com/2023/10/4/23902806/uber-connect-package-return-delivery-fee)
+ - [Canva’s new AI tools automate boring, labor-intensive design tasks](https://www.theverge.com/2023/10/4/23902794/canva-magic-studio-ai-design-new-tools)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
