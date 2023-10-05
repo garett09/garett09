@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Qualtrics plans to cut about 14% of its workforce, or 780 employees, citing a need to address the &quot;complexity&quot; created by its past hiring and growth &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/231004/p11#a231004p11)
- - [Uber will return your packages for you — for a fee, of course](https://www.theverge.com/2023/10/4/23902806/uber-connect-package-return-delivery-fee)
- - [Canva’s new AI tools automate boring, labor-intensive design tasks](https://www.theverge.com/2023/10/4/23902794/canva-magic-studio-ai-design-new-tools)<!-- TECH:END -->
+ - [How a Zero-Gravity Omega Watch Repair Revolutionized NASA’s Space Station Fixes](https://www.wired.com/story/omega-watch-repair-nasa-iss-don-pettit/)
+ - [10 Best Mesh Wi-Fi Routers &lpar;2023&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [Generative AI Has Ushered In the Next Phase of Digital Spirituality](https://www.wired.com/story/artificial-intelligence-spirituality-tarot/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
