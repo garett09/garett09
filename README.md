@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Pharaoh&#39;s dynamic weather system lets you feel the heat of battle](https://www.pcgamer.com/total-war-pharaohs-dynamic-weather-system-lets-you-feel-the-heat-of-battle)
- - [Hi-Fi Rush: From a Little Idea to a Very Big Surprise – The Exclusive Oral History](https://news.xbox.com/en-us/2023/10/04/hi-fi-rush-exclusive-oral-history/)
- - [Banish the tedium of setting up Windows with a built-in while-you-wait retro game, courtesy of Microsoft](https://www.pcgamer.com/banish-the-tedium-of-setting-up-windows-with-a-built-in-while-you-wait-retro-game-courtesy-of-microsoft)<!-- GAME:END -->
+ - [Sony Pictures Core, formerly Bravia Core, launches on PS5 and PS4 consoles; exclusive benefits including early access to select Sony Pictures films](https://blog.playstation.com/2023/10/05/sony-pictures-core-formerly-bravia-core-launches-on-ps5-and-ps4-consoles-exclusive-benefits-including-early-access-to-select-sony-pictures-films/)
+ - [Ahsoka never bothered telling anyone it was just the middle of a story](https://www.polygon.com/star-wars/23903596/ahsoka-season-1-review)
+ - [How to reduce your Notoriety in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-reduce-notoriety)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
