@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF IS GOING ON IN USA?](http://9gag.com/gag/ap9XKyn)
- - 🚯 [Well well well](http://9gag.com/gag/aKEygqO)
- - 🚯 [Its back!](http://9gag.com/gag/aYVBbQq)<!-- MEMES:END -->
+ - 🚖 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
+ - 🚯 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
+ - 🚯 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)<!-- MEMES:END -->
 
 --- 
 
