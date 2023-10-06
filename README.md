@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a Zero-Gravity Omega Watch Repair Revolutionized NASA’s Space Station Fixes](https://www.wired.com/story/omega-watch-repair-nasa-iss-don-pettit/)
- - [10 Best Mesh Wi-Fi Routers &lpar;2023&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [Generative AI Has Ushered In the Next Phase of Digital Spirituality](https://www.wired.com/story/artificial-intelligence-spirituality-tarot/)<!-- TECH:END -->
+ - [Best Kindle &lpar;2023&rpar;: Which Amazon Ebook Reader Should You Buy?](https://www.wired.com/gallery/best-kindle/)
+ - [12 Best Amazon Echo and Alexa Speakers &lpar;2023&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+ - [The Truth About the Taylor Swift, Jets Game, Google Search Conspiracy Theory](https://www.wired.com/story/taylor-swift-jets-travis-kelce-theory-google-seo/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
