@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Pictures Core, formerly Bravia Core, launches on PS5 and PS4 consoles; exclusive benefits including early access to select Sony Pictures films](https://blog.playstation.com/2023/10/05/sony-pictures-core-formerly-bravia-core-launches-on-ps5-and-ps4-consoles-exclusive-benefits-including-early-access-to-select-sony-pictures-films/)
- - [Ahsoka never bothered telling anyone it was just the middle of a story](https://www.polygon.com/star-wars/23903596/ahsoka-season-1-review)
- - [How to reduce your Notoriety in Assassin&#39;s Creed Mirage](https://www.pcgamer.com/ac-mirage-reduce-notoriety)<!-- GAME:END -->
+ - [How Lords of the Fallen harnesses immersive PS5 features, out Oct 13](https://blog.playstation.com/2023/10/06/how-lords-of-the-fallen-harnesses-immersive-ps5-features-out-oct-13/)
+ - [Ke Huy Quan’s character is the key to making Loki season 2 work](https://www.polygon.com/23901822/loki-season-2-ke-huy-quan-ob-cast-marvel-mcu)
+ - [Intel&#39;s betting on a big &#39;Windows refresh&#39; in 2024 to boost revenue client CPU revenue, seemingly confirming Windows 12 release date rumours](https://www.pcgamer.com/intels-betting-on-a-big-windows-refresh-in-2024-to-boost-revenue-client-cpu-revenue-seemingly-confirming-windows-12-release-date-rumours)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
