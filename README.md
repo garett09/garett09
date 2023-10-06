@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do not post halloween themed tetten in comments please](http://9gag.com/gag/aXnzbWg)
- - 🚯 [So it finally hit me. F**k.](http://9gag.com/gag/aGEqYB0)
- - 🚯 [Matt Damon knows, Scotty doesn&#39;t](http://9gag.com/gag/anz3Xzq)<!-- MEMES:END -->
+ - 🚖 [They never had a chance](http://9gag.com/gag/aBdMwKD)
+ - 🚯 [When your body wake up but your mind is not quite right yet...](http://9gag.com/gag/adPMjPM)
+ - 🚯 [Well I mean... It&#39;s biblical](http://9gag.com/gag/aeQEGQj)<!-- MEMES:END -->
 
 --- 
 
