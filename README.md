@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Kindle &lpar;2023&rpar;: Which Amazon Ebook Reader Should You Buy?](https://www.wired.com/gallery/best-kindle/)
- - [12 Best Amazon Echo and Alexa Speakers &lpar;2023&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [The Truth About the Taylor Swift, Jets Game, Google Search Conspiracy Theory](https://www.wired.com/story/taylor-swift-jets-travis-kelce-theory-google-seo/)<!-- TECH:END -->
+ - [Apple&#39;s Encryption Is Under Attack by a Mysterious Group](https://www.wired.com/story/apple-heat-initiative-dark-money/)
+ - [8 Best Baby Carriers &lpar;2023&rpar;: Slings, Wraps, and Packs](https://www.wired.com/gallery/best-baby-carriers/)
+ - [Anatomy of a Fall’s slow-burn murder mystery turns the heat up on a difficult marriage](https://www.theverge.com/23903462/anatomy-of-a-fall-review-justine-triet-nyff)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
