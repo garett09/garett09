@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They never had a chance](http://9gag.com/gag/aBdMwKD)
- - 🚯 [When your body wake up but your mind is not quite right yet...](http://9gag.com/gag/adPMjPM)
- - 🚯 [Well I mean... It&#39;s biblical](http://9gag.com/gag/aeQEGQj)<!-- MEMES:END -->
+ - 🚖 [How every normal man should react](http://9gag.com/gag/aL13Mez)
+ - 🚯 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
+ - 🚯 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)<!-- MEMES:END -->
 
 --- 
 
