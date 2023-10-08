@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 7 best movies new to streaming in October 2023](https://www.polygon.com/what-to-watch/23901165/best-new-movies-netflix-amazon-prime-max-hulu-october-2023)
- - [The best movies of 2023 so far](https://www.polygon.com/what-to-watch/23597815/best-movies-2023)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23893288/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Following layoffs at CD Projekt Red, staff have formed a union for Polish game developers](https://www.pcgamer.com/following-layoffs-at-cd-projekt-red-staff-have-formed-a-union-for-polish-game-developers)
+ - [Dave the Diver gets crabs and lobsters this month, among other new stuff, in its first content update](https://www.pcgamer.com/dave-the-diver-gets-crabs-and-lobsters-this-month-among-other-new-stuff-in-its-first-content-update)
+ - [Warfare MMO Foxhole is adding naval combat complete with huge multi-person ships](https://www.pcgamer.com/warfare-mmo-foxhole-is-adding-naval-combat-complete-with-multi-person-ships)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
