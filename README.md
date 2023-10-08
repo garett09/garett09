@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Encryption Is Under Attack by a Mysterious Group](https://www.wired.com/story/apple-heat-initiative-dark-money/)
- - [8 Best Baby Carriers &lpar;2023&rpar;: Slings, Wraps, and Packs](https://www.wired.com/gallery/best-baby-carriers/)
- - [Anatomy of a Fall’s slow-burn murder mystery turns the heat up on a difficult marriage](https://www.theverge.com/23903462/anatomy-of-a-fall-review-justine-triet-nyff)<!-- TECH:END -->
+ - [How to Stream NHL Hockey Games &lpar;2023&rpar;](https://www.wired.com/story/how-to-stream-nhl-hockey-games/)
+ - [Best Camping Cookware Items &lpar;2023&rpar;: Stoves, Coolers, Tables, Meal Planning, and Tips](https://www.wired.com/story/best-camp-cookware-gear/)
+ - [The chilling distance of The Zone of Interest](https://www.theverge.com/23906668/zone-of-interest-review-nyff-jonathan-glazer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
