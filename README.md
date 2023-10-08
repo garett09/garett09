@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How every normal man should react](http://9gag.com/gag/aL13Mez)
- - 🚯 [Defeat was never an option](http://9gag.com/gag/aeQEbZQ)
- - 🚯 [Lock picking lawyer is so happy you opened him a buffet.](http://9gag.com/gag/aDYLz1O)<!-- MEMES:END -->
+ - 🚖 [RIP Gaza](http://9gag.com/gag/az2zXWj)
+ - 🚯 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
+ - 🚯 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)<!-- MEMES:END -->
 
 --- 
 
