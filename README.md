@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Following layoffs at CD Projekt Red, staff have formed a union for Polish game developers](https://www.pcgamer.com/following-layoffs-at-cd-projekt-red-staff-have-formed-a-union-for-polish-game-developers)
- - [Dave the Diver gets crabs and lobsters this month, among other new stuff, in its first content update](https://www.pcgamer.com/dave-the-diver-gets-crabs-and-lobsters-this-month-among-other-new-stuff-in-its-first-content-update)
- - [Warfare MMO Foxhole is adding naval combat complete with huge multi-person ships](https://www.pcgamer.com/warfare-mmo-foxhole-is-adding-naval-combat-complete-with-multi-person-ships)<!-- GAME:END -->
+ - [Leak suggests Nvidia is aiming to release a faster RTX 4080 in early 2024, but that&#39;s not going to fix the mess that is the Ada GPU line-up](https://www.pcgamer.com/leak-suggests-nvidia-is-aiming-to-release-a-faster-rtx-4080-in-early-2024-but-thats-not-going-to-fix-the-mess-that-is-the-ada-gpu-line-up)
+ - [Cyberpunk 2077 Developers Call Unions &#39;A Stronger Voice In Times Of Crisis&#39;](https://kotaku.com/cyberpunk-2077-the-witcher-cd-projekt-red-union-1850911412)
+ - [Is The Exorcist really ‘the scariest horror movie ever made’?](https://www.polygon.com/23902278/scariest-horror-movie-ever-made-the-exorcist-50th-anniversary-legacy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
