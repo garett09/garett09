@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP Gaza](http://9gag.com/gag/az2zXWj)
- - 🚯 [We will never forget that Sony sold their Walkman in water bottles to prove that their product was waterproof](http://9gag.com/gag/aYVBYxV)
- - 🚯 [Apparently they have an issue with her not covering her head. Pretty comical behaviour.](http://9gag.com/gag/aKEyD3N)<!-- MEMES:END -->
+ - 🚖 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
+ - 🚯 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
+ - 🚯 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)<!-- MEMES:END -->
 
 --- 
 
