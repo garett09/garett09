@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch 2 vs Samsung Galaxy Watch 5 and 5 Pro: Which should you buy?](https://www.androidauthority.com/google-pixel-watch-2-vs-samsung-galaxy-watch-5-pro-3373048/)
- - [Start Making Physical Photo Albums &lpar;2023&rpar;](https://www.wired.com/story/photo-album-rave/)
- - [9 Best Smart Speakers &lpar;2023&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)<!-- TECH:END -->
+ - [Baton Rouge-based Gutsy, which plans to use &quot;process mining&quot; to help companies improve their cybersecurity, raised a $51M seed led by YL Ventures and Mayfield &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231010/p14#a231010p14)
+ - [The new Motorola Edge 2023 wants to wow you with 68W fast charging and IP68](https://www.androidauthority.com/motorola-edge-2023-launch-3374017/)
+ - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
