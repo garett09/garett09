@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Leak suggests Nvidia is aiming to release a faster RTX 4080 in early 2024, but that&#39;s not going to fix the mess that is the Ada GPU line-up](https://www.pcgamer.com/leak-suggests-nvidia-is-aiming-to-release-a-faster-rtx-4080-in-early-2024-but-thats-not-going-to-fix-the-mess-that-is-the-ada-gpu-line-up)
- - [Cyberpunk 2077 Developers Call Unions &#39;A Stronger Voice In Times Of Crisis&#39;](https://kotaku.com/cyberpunk-2077-the-witcher-cd-projekt-red-union-1850911412)
- - [Is The Exorcist really ‘the scariest horror movie ever made’?](https://www.polygon.com/23902278/scariest-horror-movie-ever-made-the-exorcist-50th-anniversary-legacy)<!-- GAME:END -->
+ - [Nook’s Cranny, Kapp’n’s boat made into Animal Crossing Lego sets](https://www.polygon.com/23911053/animal-crossing-lego-sets-detailed-release-date-prices)
+ - [Forza Motorsport: The Ultimate Racing Game for Car Lovers – Out Now and Included with Game Pass](https://news.xbox.com/en-us/2023/10/10/forza-motorsport-out-now-and-included-with-game-pass/)
+ - [I Am Groot adds a Skrull fighting game to the MCU canon — here’s how Marvel got made](https://www.polygon.com/23906239/marvel-i-am-groot-video-game-mcu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
