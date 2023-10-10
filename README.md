@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Semen under the microscope](http://9gag.com/gag/anz39Yo)
- - 🚯 [A fun game that you can play with your female friends](http://9gag.com/gag/aVb8wB8)
- - 🚯 [Why is it not pd or something?](http://9gag.com/gag/agobBXx)<!-- MEMES:END -->
+ - 🚖 [Maybe just maybe mass migration wasn&#39;t the best idea for Europe...?](http://9gag.com/gag/aOxO8pv)
+ - 🚯 [Voda](http://9gag.com/gag/a6qzE08)
+ - 🚯 [Friends](http://9gag.com/gag/amAyAR6)<!-- MEMES:END -->
 
 --- 
 
