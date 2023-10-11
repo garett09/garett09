@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nook’s Cranny, Kapp’n’s boat made into Animal Crossing Lego sets](https://www.polygon.com/23911053/animal-crossing-lego-sets-detailed-release-date-prices)
- - [Forza Motorsport: The Ultimate Racing Game for Car Lovers – Out Now and Included with Game Pass](https://news.xbox.com/en-us/2023/10/10/forza-motorsport-out-now-and-included-with-game-pass/)
- - [I Am Groot adds a Skrull fighting game to the MCU canon — here’s how Marvel got made](https://www.polygon.com/23906239/marvel-i-am-groot-video-game-mcu)<!-- GAME:END -->
+ - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)
+ - [Experience postseason baseball in MLB The Show 23](https://blog.playstation.com/2023/10/11/experience-postseason-baseball-in-mlb-the-show-23/)
+ - [For Dimension 20’s next campaign, Burrow’s End, Aabria Iyengar needs you to trust her](https://www.polygon.com/23906183/dimension-20-burrows-end-aabria-iyengar-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
