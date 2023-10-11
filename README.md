@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe just maybe mass migration wasn&#39;t the best idea for Europe...?](http://9gag.com/gag/aOxO8pv)
- - 🚯 [Voda](http://9gag.com/gag/a6qzE08)
- - 🚯 [Friends](http://9gag.com/gag/amAyAR6)<!-- MEMES:END -->
+ - 🚖 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
+ - 🚯 [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
+ - 🚯 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
 
 --- 
 
