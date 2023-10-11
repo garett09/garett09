@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baton Rouge-based Gutsy, which plans to use &quot;process mining&quot; to help companies improve their cybersecurity, raised a $51M seed led by YL Ventures and Mayfield &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/231010/p14#a231010p14)
- - [The new Motorola Edge 2023 wants to wow you with 68W fast charging and IP68](https://www.androidauthority.com/motorola-edge-2023-launch-3374017/)
- - [The best October Prime Day deals you can get](https://www.theverge.com/23905078/amazon-october-prime-day-best-deals-tech-gadgets-2023)<!-- TECH:END -->
+ - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
+ - [Uber Eats will now let you order from two stores at once](https://www.theverge.com/2023/10/11/23912567/uber-eats-multi-store-order-delivery-fee)
+ - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
