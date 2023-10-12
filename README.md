@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best October Prime Day deals available on Day 2](https://www.theverge.com/2023/10/11/23912000/prime-day-best-deals-tech-earbuds-gaming-amazon-october)
- - [Uber Eats will now let you order from two stores at once](https://www.theverge.com/2023/10/11/23912567/uber-eats-multi-store-order-delivery-fee)
- - [Some of our favorite devices are on sale for Amazon Prime Day](https://www.theverge.com/23903734/amazon-october-prime-day-verge-favorites-tech-pets-travel-2023)<!-- TECH:END -->
+ - [The most important Google Pixel Watch 2 questions, answered](https://www.androidauthority.com/google-pixel-watch-2-questions-answered-3374929/)
+ - [The OnePlus Open foldable will officially launch next week](https://www.androidauthority.com/oneplus-open-launch-date-official-3375285/)
+ - [Elliptic: the unidentified FTX hackers who stole $415M to $432M in crypto in November 2022 started moving the haul for the first time in 2023 in October &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231012/p19#a231012p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
