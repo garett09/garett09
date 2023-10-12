@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He rejected her on this dating show and she couldn&#39;t handle rejection](http://9gag.com/gag/amAyAv4)
- - 🚯 [Both are Killers in my eyes. Both.](http://9gag.com/gag/a2KV8Gw)
- - 🚯 [Some health workers are so skilled that they can inject a balloon without bursting it](http://9gag.com/gag/aL13LY6)<!-- MEMES:END -->
+ - 🚖 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
+ - 🚯 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
+ - 🚯 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
 
 --- 
 
