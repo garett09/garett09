@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s favorite October Prime Day deals](https://www.polygon.com/amazon-prime-day/23885361/deals-gaming-toys-board-games-october-2023)
- - [Experience postseason baseball in MLB The Show 23](https://blog.playstation.com/2023/10/11/experience-postseason-baseball-in-mlb-the-show-23/)
- - [For Dimension 20’s next campaign, Burrow’s End, Aabria Iyengar needs you to trust her](https://www.polygon.com/23906183/dimension-20-burrows-end-aabria-iyengar-interview)<!-- GAME:END -->
+ - [Access controller for PS5 interview: how the highly customizable kit was created](https://blog.playstation.com/2023/10/12/access-controller-for-ps5-interview-how-the-highly-customizable-kit-was-created/)
+ - [Inside the development journey of the Access controller and a first look at its accessible packaging](https://blog.playstation.com/2023/10/12/inside-the-development-journey-of-the-access-controller-and-a-first-look-at-its-accessible-packaging/)
+ - [Lords of the Fallen is an exhausting technical achievement](https://www.polygon.com/reviews/23913522/lords-of-the-fallen-2023-review-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
