@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The most important Google Pixel Watch 2 questions, answered](https://www.androidauthority.com/google-pixel-watch-2-questions-answered-3374929/)
- - [The OnePlus Open foldable will officially launch next week](https://www.androidauthority.com/oneplus-open-launch-date-official-3375285/)
- - [Elliptic: the unidentified FTX hackers who stole $415M to $432M in crypto in November 2022 started moving the haul for the first time in 2023 in October &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231012/p19#a231012p19)<!-- TECH:END -->
+ - [The Google-Fitbit integration needs work](https://www.theverge.com/2023/10/13/23914675/google-fitbit-integration-pixel-watch-2-server-outage)
+ - [Microsoft completes Activision Blizzard acquisition after a 20-month battle with regulators in the UK and US &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231013/p14#a231013p14)
+ - [The Curse of the Creator Economy](https://www.wired.com/story/plaintext-the-curse-of-the-creator-economy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
