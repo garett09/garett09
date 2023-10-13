@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Darwin Awards](http://9gag.com/gag/aVb8KKn)
- - 🚯 [When you take the sketchup design seriously.](http://9gag.com/gag/a6qzXg2)
- - 🚯 [Popping rice with polyester scrim](http://9gag.com/gag/awZDmex)<!-- MEMES:END -->
+ - 🚖 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
+ - 🚯 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
+ - 🚯 [2 Blondes](http://9gag.com/gag/aeQExAv)<!-- MEMES:END -->
 
 --- 
 
