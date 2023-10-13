@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Access controller for PS5 interview: how the highly customizable kit was created](https://blog.playstation.com/2023/10/12/access-controller-for-ps5-interview-how-the-highly-customizable-kit-was-created/)
- - [Inside the development journey of the Access controller and a first look at its accessible packaging](https://blog.playstation.com/2023/10/12/inside-the-development-journey-of-the-access-controller-and-a-first-look-at-its-accessible-packaging/)
- - [Lords of the Fallen is an exhausting technical achievement](https://www.polygon.com/reviews/23913522/lords-of-the-fallen-2023-review-pc)<!-- GAME:END -->
+ - [We already know the best answer to Mobius’ hidden identity](https://www.polygon.com/23913597/loki-mobius-was-really-owen-wilson-the-whole-time-wow)
+ - [Microsoft Closes Activision Blizzard Acquisition, Making Call Of Duty Officially Part Of Xbox Now](https://kotaku.com/microsoft-activision-blizzard-acquisition-game-pass-1850923561)
+ - [Hold Onto Your Butts, Microsoft&#39;s Massive Activision Blizzard Deal Is Finally Happening [Update]](https://kotaku.com/microsoft-activision-blizzard-acquisition-cma-uk-xbox-1850864469)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
