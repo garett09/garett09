@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google-Fitbit integration needs work](https://www.theverge.com/2023/10/13/23914675/google-fitbit-integration-pixel-watch-2-server-outage)
- - [Microsoft completes Activision Blizzard acquisition after a 20-month battle with regulators in the UK and US &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231013/p14#a231013p14)
- - [The Curse of the Creator Economy](https://www.wired.com/story/plaintext-the-curse-of-the-creator-economy/)<!-- TECH:END -->
+ - [7 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [The US Congress Was Targeted With Predator Spyware](https://www.wired.com/story/us-congress-spyware/)
+ - [How to Get a Refund for the Tampon Tax &lpar;2023&rpar;](https://www.wired.com/story/tampon-tax-refund-periods/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
