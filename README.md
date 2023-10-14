@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We already know the best answer to Mobius’ hidden identity](https://www.polygon.com/23913597/loki-mobius-was-really-owen-wilson-the-whole-time-wow)
- - [Microsoft Closes Activision Blizzard Acquisition, Making Call Of Duty Officially Part Of Xbox Now](https://kotaku.com/microsoft-activision-blizzard-acquisition-game-pass-1850923561)
- - [Hold Onto Your Butts, Microsoft&#39;s Massive Activision Blizzard Deal Is Finally Happening [Update]](https://kotaku.com/microsoft-activision-blizzard-acquisition-cma-uk-xbox-1850864469)<!-- GAME:END -->
+ - [Our Flag Means Death’s creator on his pirates’ romance: ‘They’re 14-year-olds, emotionally’](https://www.polygon.com/23914899/our-flag-means-death-interview-david-jenkins-taika-waititi-rhys-darby-season-2-relationships)
+ - [The best thrillers to watch on Netflix this October](https://www.polygon.com/what-to-watch/2023/10/14/23911112/best-thriller-movies-netflix-watch-october-2023)
+ - [Wordle today: Hint and answer for #847 Saturday, October 14](https://www.pcgamer.com/wordle-today-answer-847-october-14)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
