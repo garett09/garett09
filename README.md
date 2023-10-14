@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fire effect in 5D cinema](http://9gag.com/gag/aQEK2nd)
- - 🚯 [It is what it is *looks at tetten*](http://9gag.com/gag/a04G18v)
- - 🚯 [2 Blondes](http://9gag.com/gag/aeQExAv)<!-- MEMES:END -->
+ - 🚖 [Give this officer a raise. His de-escalation skills are absolutely top tier.](http://9gag.com/gag/a9qeVpj)
+ - 🚯 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
+ - 🚯 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)<!-- MEMES:END -->
 
 --- 
 
