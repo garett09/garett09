@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Flag Means Death’s creator on his pirates’ romance: ‘They’re 14-year-olds, emotionally’](https://www.polygon.com/23914899/our-flag-means-death-interview-david-jenkins-taika-waititi-rhys-darby-season-2-relationships)
- - [The best thrillers to watch on Netflix this October](https://www.polygon.com/what-to-watch/2023/10/14/23911112/best-thriller-movies-netflix-watch-october-2023)
- - [Wordle today: Hint and answer for #847 Saturday, October 14](https://www.pcgamer.com/wordle-today-answer-847-october-14)<!-- GAME:END -->
+ - [The best horror TV to watch on Netflix](https://www.polygon.com/what-to-watch/23905028/best-horror-tv-shows-series-netflix-watch-streaming)
+ - [Warhammer: The Old World will be out next year](https://www.pcgamer.com/warhammer-the-old-world-will-be-out-next-year)
+ - [Pokémon Go Timburr Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/10/15/23915727/timburr-community-day-guide-shiny-tips-move)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
