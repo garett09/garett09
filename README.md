@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Smartwatches &lpar;2023&rpar;: Apple Watch, Wear OS, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [The US Congress Was Targeted With Predator Spyware](https://www.wired.com/story/us-congress-spyware/)
- - [How to Get a Refund for the Tampon Tax &lpar;2023&rpar;](https://www.wired.com/story/tampon-tax-refund-periods/)<!-- TECH:END -->
+ - [Apple&#39;s rumored iPad event could take place on Tuesday](https://appleinsider.com/articles/23/10/15/apples-rumored-ipad-event-could-take-place-on-tuesday?utm_medium=rss)
+ - [Finally, the Google Pixel 8 series charges fast&lpar;er&rpar;](https://www.androidauthority.com/google-pixel-8-charging-speed-3374831/)
+ - [5 Best Nanoleaf Smart Lights &lpar;2023&rpar;: Shapes, 4D Kit, and Installation Tips](https://www.wired.com/gallery/best-nanoleaf-lights/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
