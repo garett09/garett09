@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Give this officer a raise. His de-escalation skills are absolutely top tier.](http://9gag.com/gag/a9qeVpj)
- - 🚯 [Trying to ignore war propaganda on 9gag](http://9gag.com/gag/a7qBnzq)
- - 🚯 [I asked Chat GPT about an Image of the luckiest German\u2026 When will you see it?](http://9gag.com/gag/aDYLMYZ)<!-- MEMES:END -->
+ - 🚖 [Funny little site: Female Delusion Calculator](http://9gag.com/gag/a04GWpd)
+ - 🚯 [His lawyer got a nice setup tho](http://9gag.com/gag/a4o8xR1)
+ - 🚯 [Should have been the original story](http://9gag.com/gag/a8q9QOe)<!-- MEMES:END -->
 
 --- 
 
