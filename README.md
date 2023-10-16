@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s rumored iPad event could take place on Tuesday](https://appleinsider.com/articles/23/10/15/apples-rumored-ipad-event-could-take-place-on-tuesday?utm_medium=rss)
- - [Finally, the Google Pixel 8 series charges fast&lpar;er&rpar;](https://www.androidauthority.com/google-pixel-8-charging-speed-3374831/)
- - [5 Best Nanoleaf Smart Lights &lpar;2023&rpar;: Shapes, 4D Kit, and Installation Tips](https://www.wired.com/gallery/best-nanoleaf-lights/)<!-- TECH:END -->
+ - [Intel plans to launch its 14th Gen desktop CPUs on October 17, offering up to 6GHz for its flagship $589 Core i9-14900K and increased core count on the $409 i7 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231016/p12#a231016p12)
+ - [Nearly 50% of Mac developers are including AI in their apps](https://appleinsider.com/articles/23/10/16/nearly-50-of-mac-developers-are-including-ai-in-their-apps?utm_medium=rss)
+ - [10 Best Wireless Earbuds for Working Out &lpar;2023&rpar;](https://www.wired.com/gallery/best-wireless-workout-headphones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
