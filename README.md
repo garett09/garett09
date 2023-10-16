@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Funny little site: Female Delusion Calculator](http://9gag.com/gag/a04GWpd)
- - 🚯 [His lawyer got a nice setup tho](http://9gag.com/gag/a4o8xR1)
- - 🚯 [Should have been the original story](http://9gag.com/gag/a8q9QOe)<!-- MEMES:END -->
+ - 🚖 [Me too](http://9gag.com/gag/a04Gg0Z)
+ - 🚯 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
+ - 🚯 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)<!-- MEMES:END -->
 
 --- 
 
