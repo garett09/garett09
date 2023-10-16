@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror TV to watch on Netflix](https://www.polygon.com/what-to-watch/23905028/best-horror-tv-shows-series-netflix-watch-streaming)
- - [Warhammer: The Old World will be out next year](https://www.pcgamer.com/warhammer-the-old-world-will-be-out-next-year)
- - [Pokémon Go Timburr Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/10/15/23915727/timburr-community-day-guide-shiny-tips-move)<!-- GAME:END -->
+ - [Graphics card modder shows AIB vendors you really can have a dual slot RTX 4080](https://www.pcgamer.com/graphics-card-modder-shows-aib-vendors-you-really-can-have-a-dual-slot-rtx-4080)
+ - [Van Gogh Museum forced to stop distributing special Pikachu cards after scalpers storm the gates: &#39;[we] take the safety and security of visitors and staff very seriously&#39;](https://www.pcgamer.com/van-gogh-museum-forced-to-stop-distributing-special-pikachu-cards-after-scalpers-storm-the-gates-we-take-the-safety-and-security-of-visitors-and-staff-very-seriously)
+ - [Climate activists land devastating blow against big oil by disrupting minor Tekken tournament](https://www.pcgamer.com/climate-activists-land-devastating-blow-against-big-oil-by-disrupting-minor-tekken-tournament)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
