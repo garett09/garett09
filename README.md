@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me too](http://9gag.com/gag/a04Gg0Z)
- - 🚯 [U wanted proof hamas is isis? there it is, check comments &lpar;burning, beheading etc&rpar;](http://9gag.com/gag/ap9XjAD)
- - 🚯 [First time ever. Israel new anti missile system. The future is here](http://9gag.com/gag/aOxOn6v)<!-- MEMES:END -->
+ - 🚖 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
+ - 🚯 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
+ - 🚯 [This is funny af](http://9gag.com/gag/adPMw2V)<!-- MEMES:END -->
 
 --- 
 
