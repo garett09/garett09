@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel plans to launch its 14th Gen desktop CPUs on October 17, offering up to 6GHz for its flagship $589 Core i9-14900K and increased core count on the $409 i7 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/231016/p12#a231016p12)
- - [Nearly 50% of Mac developers are including AI in their apps](https://appleinsider.com/articles/23/10/16/nearly-50-of-mac-developers-are-including-ai-in-their-apps?utm_medium=rss)
- - [10 Best Wireless Earbuds for Working Out &lpar;2023&rpar;](https://www.wired.com/gallery/best-wireless-workout-headphones/)<!-- TECH:END -->
+ - [Apple debuts third-generation Apple Pencil with USB-C charging](https://appleinsider.com/articles/23/10/17/apple-debuts-third-generation-apple-pencil-with-usb-c-charging?utm_medium=rss)
+ - [Apple announces a new &quot;affordable&quot; $79 Apple Pencil with USB-C for charging, shipping in &quot;early November&quot; and compatible with all USB-C iPads &lpar;Stephen Warwick/iMore&rpar;](http://www.techmeme.com/231017/p20#a231017p20)
+ - [Retail store staff accuse Apple UK of illegal union busting efforts](https://appleinsider.com/articles/23/10/17/staff-accuse-apple-uk-of-illegal-union-busting-efforts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
