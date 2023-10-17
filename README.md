@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Graphics card modder shows AIB vendors you really can have a dual slot RTX 4080](https://www.pcgamer.com/graphics-card-modder-shows-aib-vendors-you-really-can-have-a-dual-slot-rtx-4080)
- - [Van Gogh Museum forced to stop distributing special Pikachu cards after scalpers storm the gates: &#39;[we] take the safety and security of visitors and staff very seriously&#39;](https://www.pcgamer.com/van-gogh-museum-forced-to-stop-distributing-special-pikachu-cards-after-scalpers-storm-the-gates-we-take-the-safety-and-security-of-visitors-and-staff-very-seriously)
- - [Climate activists land devastating blow against big oil by disrupting minor Tekken tournament](https://www.pcgamer.com/climate-activists-land-devastating-blow-against-big-oil-by-disrupting-minor-tekken-tournament)<!-- GAME:END -->
+ - [Intel Core i9 14900K review](https://www.pcgamer.com/intel-core-i9-14900k-review-performance-benchmarks)
+ - [Coming Soon to Game Pass: Cities: Skylines II, Dead Space, Jusant, Mineko’s Night Market, and More](https://news.xbox.com/en-us/2023/10/17/game-pass-october-2023-wave-2-announce/)
+ - [Silent Hill: Ascension will be both interactive streaming series and a laid-back watch](https://www.polygon.com/23919887/silent-hill-ascension-release-date-where-to-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
