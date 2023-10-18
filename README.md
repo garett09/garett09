@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple debuts third-generation Apple Pencil with USB-C charging](https://appleinsider.com/articles/23/10/17/apple-debuts-third-generation-apple-pencil-with-usb-c-charging?utm_medium=rss)
- - [Apple announces a new &quot;affordable&quot; $79 Apple Pencil with USB-C for charging, shipping in &quot;early November&quot; and compatible with all USB-C iPads &lpar;Stephen Warwick/iMore&rpar;](http://www.techmeme.com/231017/p20#a231017p20)
- - [Retail store staff accuse Apple UK of illegal union busting efforts](https://appleinsider.com/articles/23/10/17/staff-accuse-apple-uk-of-illegal-union-busting-efforts?utm_medium=rss)<!-- TECH:END -->
+ - [This Detroit-based electric RV has a 250-mile range, Starlink, and 640W of solar](https://www.theverge.com/2023/10/18/23922147/grounded-g2-gm-brightdrop-electric-rv-price-specs)
+ - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
+ - [TECNO MEGABOOK S1 &amp; TECNO MEGABOOK T1 2023 14inch – Redefining Elegance, Performance, &amp; Value](https://www.androidauthority.com/tecno-megabook-s1-tecno-megabook-t1-2023-14inch-redefining-elegance-performance-value-3376555/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
