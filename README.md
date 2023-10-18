@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel Core i9 14900K review](https://www.pcgamer.com/intel-core-i9-14900k-review-performance-benchmarks)
- - [Coming Soon to Game Pass: Cities: Skylines II, Dead Space, Jusant, Mineko’s Night Market, and More](https://news.xbox.com/en-us/2023/10/17/game-pass-october-2023-wave-2-announce/)
- - [Silent Hill: Ascension will be both interactive streaming series and a laid-back watch](https://www.polygon.com/23919887/silent-hill-ascension-release-date-where-to-watch)<!-- GAME:END -->
+ - [Super Mario Bros. Wonder is a perfect end for the Switch](https://www.polygon.com/reviews/23920680/super-mario-bros-wonder-review-nintendo-switch)
+ - [AMD kicks its new Anti-Lag+ feature out of its latest drivers, stripping support and the potential for player bans from games](https://www.pcgamer.com/amd-kicks-its-new-anti-lag-feature-out-of-its-latest-drivers-stripping-support-and-the-potential-for-player-bans-from-games)
+ - [Asus breaks the overclocking world record with 9.044GHz Intel 14900KF CPU](https://www.pcgamer.com/asus-breaks-the-overclocking-world-record-with-9044ghz-intel-14900kf-cpu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
