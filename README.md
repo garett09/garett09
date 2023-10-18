@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great tech tip for you specifically](http://9gag.com/gag/aBdMzvA)
- - 🚯 [We now have new record as Shoikot Mahmud had only been here 3 days &amp; was arrested for trying to groom what he thought was a 13 year old child. He asked whether she has had a period, so that would allow him to `f**k her`. The Bangladeshi living in Chester is on a student visa.](http://9gag.com/gag/a8q9gPe)
- - 🚯 [This is funny af](http://9gag.com/gag/adPMw2V)<!-- MEMES:END -->
+ - 🚖 [Imposter](http://9gag.com/gag/aVb8AZv)
+ - 🚯 [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
+ - 🚯 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
 
 --- 
 
