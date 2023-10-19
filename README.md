@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Bros. Wonder is a perfect end for the Switch](https://www.polygon.com/reviews/23920680/super-mario-bros-wonder-review-nintendo-switch)
- - [AMD kicks its new Anti-Lag+ feature out of its latest drivers, stripping support and the potential for player bans from games](https://www.pcgamer.com/amd-kicks-its-new-anti-lag-feature-out-of-its-latest-drivers-stripping-support-and-the-potential-for-player-bans-from-games)
- - [Asus breaks the overclocking world record with 9.044GHz Intel 14900KF CPU](https://www.pcgamer.com/asus-breaks-the-overclocking-world-record-with-9044ghz-intel-14900kf-cpu)<!-- GAME:END -->
+ - [AMD brings Threadripper back to the desktop with a new non-Pro range of monster chips... that I&#39;m going to now call Wallet-ripper](https://www.pcgamer.com/amd-brings-threadripper-back-to-the-desktop-with-a-new-non-pro-range-of-monster-chips-that-im-going-to-now-call-wallet-ripper)
+ - [Power the Gaming Dreams in All of Us](https://news.xbox.com/en-us/2023/10/19/power-your-dreams/)
+ - [This two-player co-op adventure is a magic tool for teaching communication skills](https://www.polygon.com/23921220/two-player-co-op-puzzle-game-bokura-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
