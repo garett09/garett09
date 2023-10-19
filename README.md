@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Detroit-based electric RV has a 250-mile range, Starlink, and 640W of solar](https://www.theverge.com/2023/10/18/23922147/grounded-g2-gm-brightdrop-electric-rv-price-specs)
- - [The best entertainment of 2023](https://www.theverge.com/23613289/best-games-movie-tv-entertainment-2023)
- - [TECNO MEGABOOK S1 &amp; TECNO MEGABOOK T1 2023 14inch – Redefining Elegance, Performance, &amp; Value](https://www.androidauthority.com/tecno-megabook-s1-tecno-megabook-t1-2023-14inch-redefining-elegance-performance-value-3376555/)<!-- TECH:END -->
+ - [Apple Pencil lineup is convoluted right now, but won&#39;t be for long](https://appleinsider.com/articles/23/10/19/apple-pencil-lineup-is-convoluted-right-now-but-wont-be-for-long?utm_medium=rss)
+ - [Adobe announces Elements 2023 for Photoshop &amp; Premiere](https://appleinsider.com/articles/23/10/19/adobe-announces-elements-2023-for-photoshop-premiere?utm_medium=rss)
+ - [The Pixel Watch 2 and Fitbit Charge 6 are death knells for the Sense series](https://www.androidauthority.com/pixel-watch-2-fitbit-charge-6-death-knells-sense-series-3376617/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
