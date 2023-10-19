@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imposter](http://9gag.com/gag/aVb8AZv)
- - 🚯 [There was no reason to make THAT sound effect](http://9gag.com/gag/adPMEVZ)
- - 🚯 [The last scene you see before fainting](http://9gag.com/gag/a8q9g2V)<!-- MEMES:END -->
+ - 🚖 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
+ - 🚯 [Old but memorable](http://9gag.com/gag/aGEqWAG)
+ - 🚯 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
 
 --- 
 
