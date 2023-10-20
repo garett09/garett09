@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pencil lineup is convoluted right now, but won&#39;t be for long](https://appleinsider.com/articles/23/10/19/apple-pencil-lineup-is-convoluted-right-now-but-wont-be-for-long?utm_medium=rss)
- - [Adobe announces Elements 2023 for Photoshop &amp; Premiere](https://appleinsider.com/articles/23/10/19/adobe-announces-elements-2023-for-photoshop-premiere?utm_medium=rss)
- - [The Pixel Watch 2 and Fitbit Charge 6 are death knells for the Sense series](https://www.androidauthority.com/pixel-watch-2-fitbit-charge-6-death-knells-sense-series-3376617/)<!-- TECH:END -->
+ - [AppleInsider podcast 500th episode special with new Apple Pencil and an old favorite](https://appleinsider.com/articles/23/10/20/appleinsider-podcast-500th-episode-special-with-new-apple-pencil-and-an-old-favorite?utm_medium=rss)
+ - [What Techno-Billionaire Marc Andreessen Missed In His Techno-Optimism Manifesto](https://www.wired.com/story/plaintext-marc-andreessen-techno-billionaire-wrong-techno-optimism/)
+ - [TikTok-Hyped Halloween Decor Is Out of Control](https://www.wired.com/story/halloween-decorations-tiktok-lewis/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
