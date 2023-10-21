@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppleInsider podcast 500th episode special with new Apple Pencil and an old favorite](https://appleinsider.com/articles/23/10/20/appleinsider-podcast-500th-episode-special-with-new-apple-pencil-and-an-old-favorite?utm_medium=rss)
- - [What Techno-Billionaire Marc Andreessen Missed In His Techno-Optimism Manifesto](https://www.wired.com/story/plaintext-marc-andreessen-techno-billionaire-wrong-techno-optimism/)
- - [TikTok-Hyped Halloween Decor Is Out of Control](https://www.wired.com/story/halloween-decorations-tiktok-lewis/)<!-- TECH:END -->
+ - [16 Best Camera Accessories for Phones &lpar;2023&rpar;: Apps, Tripods, Mics, and Lights](https://www.wired.com/gallery/best-photo-video-accessories-for-iphone-android/)
+ - [The 23andMe User Data Leak May Be Far Worse Than Believed](https://www.wired.com/story/23andme-data-leak-gets-worse-security-roundup/)
+ - [Learn a New Language With This $150 Lifetime Babbel Subscription     - CNET](https://www.cnet.com/deals/learn-a-new-language-with-this-150-lifetime-babbel-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
