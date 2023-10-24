@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s crackdown on cyber scams in Southeast Asia, often run by powerful Chinese crime syndicates, netted thousands of people but have left the networks intact &lpar;Huizhong Wu/Associated Press&rpar;](http://www.techmeme.com/231023/p16#a231023p16)
- - [No Reception Club Getaway Bag Review &lpar;2023&rpar;: Perfect Bag for Family Day Trips](https://www.wired.com/review/no-reception-club-getaway-bag/)
- - [Dutch media reports that a former ASML employee accused of stealing data went to work for Huawei in China in 2022; it&#39;s unclear if they still work for Huawei &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/231023/p15#a231023p15)<!-- TECH:END -->
+ - [After Unciphered created a hack for an old IronKey USB drive to recover 7,002 bitcoin, the owner refuses their help because he agreed to work with other experts &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231024/p18#a231024p18)
+ - [OLED iPad Pro may use new two-stack display technology](https://appleinsider.com/articles/23/10/24/oled-ipad-pro-may-use-new-two-stack-display-technology?utm_medium=rss)
+ - [21 Best MagSafe Accessories for Your iPhone &lpar;2023&rpar;: Webcam Mount, Car Docks, Wireless Chargers](https://www.wired.com/gallery/best-magsafe-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
