@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Unciphered created a hack for an old IronKey USB drive to recover 7,002 bitcoin, the owner refuses their help because he agreed to work with other experts &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/231024/p18#a231024p18)
- - [OLED iPad Pro may use new two-stack display technology](https://appleinsider.com/articles/23/10/24/oled-ipad-pro-may-use-new-two-stack-display-technology?utm_medium=rss)
- - [21 Best MagSafe Accessories for Your iPhone &lpar;2023&rpar;: Webcam Mount, Car Docks, Wireless Chargers](https://www.wired.com/gallery/best-magsafe-accessories/)<!-- TECH:END -->
+ - [Sources: one year after lending Elon Musk $13B to acquire Twitter, seven US banks still hold the debt and expect to take a 15%+, or ~$2B, hit when they sell &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231025/p23#a231025p23)
+ - [DJI announces new Osmo Pocket 3 gimbal camera with rotating screen](https://appleinsider.com/articles/23/10/25/dji-announces-new-osmo-pocket-3-gimbal-camera-with-rotating-screen?utm_medium=rss)
+ - [DJI’s baby steadicam Osmo Pocket 3 has so many upgrades, I don’t know where to begin](https://www.theverge.com/23931074/dji-osmo-pocket-3-price-release-date-hands-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
