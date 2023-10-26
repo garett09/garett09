@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD brings Threadripper back to the desktop with a new non-Pro range of monster chips... that I&#39;m going to now call Wallet-ripper](https://www.pcgamer.com/amd-brings-threadripper-back-to-the-desktop-with-a-new-non-pro-range-of-monster-chips-that-im-going-to-now-call-wallet-ripper)
- - [Power the Gaming Dreams in All of Us](https://news.xbox.com/en-us/2023/10/19/power-your-dreams/)
- - [This two-player co-op adventure is a magic tool for teaching communication skills](https://www.polygon.com/23921220/two-player-co-op-puzzle-game-bokura-nintendo-switch)<!-- GAME:END -->
+ - [Alan Wake 2 is worth every minute of the 13-year wait](https://www.polygon.com/reviews/23932094/alan-wake-2-review-ps5-xbox-series-x-pc)
+ - [After Payday 3&#39;s disastrous launch, Starbreeze partners up with an Australian studio to lend its &#39;expertise in release management&#39; to a Fortnite Island](https://www.pcgamer.com/after-payday-3s-disastrous-launch-starbreeze-partners-up-with-an-australian-studio-to-lend-its-expertise-in-release-management-to-a-fortnite-island)
+ - [Timb-err: Old School Runescape&#39;s new forestry update gets panned for being &#39;too convoluted for its own good&#39;](https://www.pcgamer.com/timb-err-old-school-runescapes-new-forestry-update-gets-panned-for-being-too-convoluted-for-its-own-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
