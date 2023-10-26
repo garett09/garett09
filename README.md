@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep the tradition going](http://9gag.com/gag/aDYLBeK)
- - 🚯 [Old but memorable](http://9gag.com/gag/aGEqWAG)
- - 🚯 [Hamaisis manipulated the whole world](http://9gag.com/gag/aPg0KWK)<!-- MEMES:END -->
+ - 🚖 [What should I do next time?](http://9gag.com/gag/aME7x96)
+ - 🚯 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
+ - 🚯 [22 dead, 50-60 injured in mass shooting in Lewiston](http://9gag.com/gag/a04geZd)<!-- MEMES:END -->
 
 --- 
 
