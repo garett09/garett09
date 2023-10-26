@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: one year after lending Elon Musk $13B to acquire Twitter, seven US banks still hold the debt and expect to take a 15%+, or ~$2B, hit when they sell &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231025/p23#a231025p23)
- - [DJI announces new Osmo Pocket 3 gimbal camera with rotating screen](https://appleinsider.com/articles/23/10/25/dji-announces-new-osmo-pocket-3-gimbal-camera-with-rotating-screen?utm_medium=rss)
- - [DJI’s baby steadicam Osmo Pocket 3 has so many upgrades, I don’t know where to begin](https://www.theverge.com/23931074/dji-osmo-pocket-3-price-release-date-hands-on)<!-- TECH:END -->
+ - [Snapdragon 8 Gen 3 benchmarks rival the Apple A17 Pro](https://www.androidauthority.com/snapdragon-8-gen-3-benchmarks-3379534/)
+ - [Google Maps is becoming more like Search — thanks to AI](https://www.theverge.com/2023/10/26/23932315/google-maps-ai-immersive-view-ev-charging-search)
+ - [12 Best Air Purifiers &lpar;2023&rpar;: HEPA, Portable, and Quiet](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
