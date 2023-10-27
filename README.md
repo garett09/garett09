@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 is worth every minute of the 13-year wait](https://www.polygon.com/reviews/23932094/alan-wake-2-review-ps5-xbox-series-x-pc)
- - [After Payday 3&#39;s disastrous launch, Starbreeze partners up with an Australian studio to lend its &#39;expertise in release management&#39; to a Fortnite Island](https://www.pcgamer.com/after-payday-3s-disastrous-launch-starbreeze-partners-up-with-an-australian-studio-to-lend-its-expertise-in-release-management-to-a-fortnite-island)
- - [Timb-err: Old School Runescape&#39;s new forestry update gets panned for being &#39;too convoluted for its own good&#39;](https://www.pcgamer.com/timb-err-old-school-runescapes-new-forestry-update-gets-panned-for-being-too-convoluted-for-its-own-good)<!-- GAME:END -->
+ - [The Lord of the Rings: Return to Moria review](https://www.pcgamer.com/the-lord-of-the-rings-return-to-moria-review)
+ - [This Fallout 4 no-hit 100% permadeath run took more than 2 years, 415 attempts and over 2,000 hours: &#39;this is by far the most challenging Fallout 4 run that will ever be completed&#39;](https://www.pcgamer.com/this-fallout-4-no-hit-100-permadeath-run-took-more-than-2-years-415-attempts-and-over-13000-hours-this-is-by-far-the-most-challenging-fallout-4-run-that-will-ever-be-completed)
+ - [Unity&#39;s disastrously unpopular fees were &#39;rushed out&#39;, according to anonymous sources: &#39;we were not told a date. And then before we knew it, it was out there&#39;](https://www.pcgamer.com/unitys-disastrously-unpopular-fees-were-rushed-out-according-to-anonymous-sources-we-were-not-told-a-date-and-then-before-we-knew-it-it-was-out-there)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
