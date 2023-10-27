@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8 Gen 3 benchmarks rival the Apple A17 Pro](https://www.androidauthority.com/snapdragon-8-gen-3-benchmarks-3379534/)
- - [Google Maps is becoming more like Search — thanks to AI](https://www.theverge.com/2023/10/26/23932315/google-maps-ai-immersive-view-ev-charging-search)
- - [12 Best Air Purifiers &lpar;2023&rpar;: HEPA, Portable, and Quiet](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
+ - [Chinese smartphones sales fell 3% YoY in Q3; Honor leads with 18.3%, Huawei grew the most, up 37% YoY, after the Mate 60&#39;s launch, and Apple dropped 10% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231027/p7#a231027p7)
+ - [11 Best Weighted Blankets &lpar;2023&rpar;: Cooling, Throws, and Robes](https://www.wired.com/gallery/best-weighted-blankets/)
+ - [The Physics of Faraday Cages](https://www.wired.com/story/the-physics-of-faraday-cages/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
