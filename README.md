@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What should I do next time?](http://9gag.com/gag/aME7x96)
- - 🚯 [This is how i handle my life](http://9gag.com/gag/aVbrvb8)
- - 🚯 [22 dead, 50-60 injured in mass shooting in Lewiston](http://9gag.com/gag/a04geZd)<!-- MEMES:END -->
+ - 🚖 [We are certainly not spending our hard earned money on ungrateful selfish creatures like you XD](http://9gag.com/gag/armE3LK)
+ - 🚯 [I bet they did.](http://9gag.com/gag/aeQz1NQ)
+ - 🚯 [I can hear the desktop is crying.](http://9gag.com/gag/adPA1EM)<!-- MEMES:END -->
 
 --- 
 
