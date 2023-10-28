@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese smartphones sales fell 3% YoY in Q3; Honor leads with 18.3%, Huawei grew the most, up 37% YoY, after the Mate 60&#39;s launch, and Apple dropped 10% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/231027/p7#a231027p7)
- - [11 Best Weighted Blankets &lpar;2023&rpar;: Cooling, Throws, and Robes](https://www.wired.com/gallery/best-weighted-blankets/)
- - [The Physics of Faraday Cages](https://www.wired.com/story/the-physics-of-faraday-cages/)<!-- TECH:END -->
+ - [Pixel 8 Pro vs iPhone 15 Pro camera shootout: Which is the best ‘Pro’ on the market?](https://www.androidauthority.com/pixel-8-pro-vs-iphone-15-pro-camera-shootout-3378940/)
+ - [Best Hair Dryers and Diffusers &lpar;2023&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)
+ - [This Cryptomining Tool Is Stealing Secrets](https://www.wired.com/story/cryptominer-espionage-campaign-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
