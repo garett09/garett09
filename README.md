@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We are certainly not spending our hard earned money on ungrateful selfish creatures like you XD](http://9gag.com/gag/armE3LK)
- - 🚯 [I bet they did.](http://9gag.com/gag/aeQz1NQ)
- - 🚯 [I can hear the desktop is crying.](http://9gag.com/gag/adPA1EM)<!-- MEMES:END -->
+ - 🚖 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
+ - 🚯 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
+ - 🚯 [Why was she so silent all of a sudden? Someone explain...](http://9gag.com/gag/anzZv0o)<!-- MEMES:END -->
 
 --- 
 
