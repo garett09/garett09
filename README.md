@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s not fun anymore](http://9gag.com/gag/aVbrgdw)
- - 🚯 [Let&#39;s make the rules work!](http://9gag.com/gag/aA0AQDd)
- - 🚯 [Why was she so silent all of a sudden? Someone explain...](http://9gag.com/gag/anzZv0o)<!-- MEMES:END -->
+ - 🚖 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
+ - 🚯 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
+ - 🚯 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
 
 --- 
 
