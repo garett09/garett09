@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8 Pro vs iPhone 15 Pro camera shootout: Which is the best ‘Pro’ on the market?](https://www.androidauthority.com/pixel-8-pro-vs-iphone-15-pro-camera-shootout-3378940/)
- - [Best Hair Dryers and Diffusers &lpar;2023&rpar;: Blow-Dryers, Brushers, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)
- - [This Cryptomining Tool Is Stealing Secrets](https://www.wired.com/story/cryptominer-espionage-campaign-security-roundup/)<!-- TECH:END -->
+ - [8 Best Baby Monitors &lpar;2023&rpar;: Wi-Fi, Radio &lpar;No Internet&rpar;, and More](https://www.wired.com/gallery/best-baby-monitors/)
+ - [Best Registries for Weddings and Baby Showers &lpar;2023&rpar;: Advice and Tips](https://www.wired.com/story/best-registries-for-weddings-baby-showers/)
+ - [The Real Reason You &lpar;Still&rpar; Watch Reality TV](https://www.wired.com/story/the-real-reason-you-still-watch-reality-tv/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
