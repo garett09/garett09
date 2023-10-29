@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of October 2023](https://www.polygon.com/what-to-watch/2023/10/28/23928568/best-movies-netflix-amazon-hulu-max-leaving-october-2023)
- - [Wordle today: Hint and answer #861 for Saturday, October 28](https://www.pcgamer.com/wordle-today-answer-861-october-28)
- - [Getting The Deck of Many Things? These are the card sleeves you need](https://www.polygon.com/deals/23933743/deck-of-many-things-wizards-of-the-coast-wotc-card-sleeves-pre-order)<!-- GAME:END -->
+ - [The best stuff to watch after Alan Wake](https://www.polygon.com/what-to-watch/23930127/movies-tv-like-alan-wake-2-horror-mystery-supernatural-thriller-movies-tv)
+ - [ASRock Z790 Riptide WiFi review](https://www.pcgamer.com/asrock-z790-riptide-wifi-review)
+ - [Wordle today: Hint and answer #862 for Sunday, October 29](https://www.pcgamer.com/wordle-today-answer-862-october-29)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
