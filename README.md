@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best stuff to watch after Alan Wake](https://www.polygon.com/what-to-watch/23930127/movies-tv-like-alan-wake-2-horror-mystery-supernatural-thriller-movies-tv)
- - [ASRock Z790 Riptide WiFi review](https://www.pcgamer.com/asrock-z790-riptide-wifi-review)
- - [Wordle today: Hint and answer #862 for Sunday, October 29](https://www.pcgamer.com/wordle-today-answer-862-october-29)<!-- GAME:END -->
+ - [Alan Wake 2 has the best 15-minute stretch in a video game in years](https://www.polygon.com/gaming/23935450/alan-wake-2-we-sing-flare-gun-talkshow)
+ - [D&amp;D&#39;s latest physical book has been delayed due to bad luck of the draw: &#39;The defect rate is too high. I cannot in good conscience ship this stock&#39;](https://www.pcgamer.com/dandds-latest-physical-book-has-been-delayed-due-to-bad-luck-of-the-draw-the-defect-rate-is-too-high-i-cannot-in-good-conscience-ship-this-stock)
+ - [Confirmed RTX 4080 Super GPU means at best you&#39;re getting just 5.3% more Ada for the money](https://www.pcgamer.com/confirmed-rtx-4080-super-gpu-means-at-best-youre-getting-just-53-more-ada-for-the-money)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
