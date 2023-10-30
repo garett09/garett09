@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Baby Monitors &lpar;2023&rpar;: Wi-Fi, Radio &lpar;No Internet&rpar;, and More](https://www.wired.com/gallery/best-baby-monitors/)
- - [Best Registries for Weddings and Baby Showers &lpar;2023&rpar;: Advice and Tips](https://www.wired.com/story/best-registries-for-weddings-baby-showers/)
- - [The Real Reason You &lpar;Still&rpar; Watch Reality TV](https://www.wired.com/story/the-real-reason-you-still-watch-reality-tv/)<!-- TECH:END -->
+ - [China&#39;s Foxconn investigation may backfire and cause tech suppliers, who now see that even Apple and its suppliers are not safe in China, to diversify quicker &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/231030/p13#a231030p13)
+ - [Tivoli Pal BT Review: A Colorful Radio](https://www.wired.com/review/tivoli-audio-pal-bt/)
+ - [Google Calendar Now Makes It Easier to Find a Time to Meet. Here&#39;s How](https://www.wired.com/story/google-calendar-find-time-to-meet-appointment-scheduler/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
