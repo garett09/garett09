@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [#bringbackold9gag](http://9gag.com/gag/a9qw53o)
- - 🚯 [How dreams are destroyed.](http://9gag.com/gag/aGEvAmZ)
- - 🚯 [Never knew a celebrity death could make me this emotional..... Bye Bye Mr. Bing-a-ling.](http://9gag.com/gag/a4ogqQ6)<!-- MEMES:END -->
+ - 🚖 [Unprecedented good boi levels](http://9gag.com/gag/anzZGEn)
+ - 🚯 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
+ - 🚯 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
 
 --- 
 
