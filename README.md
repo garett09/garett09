@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unprecedented good boi levels](http://9gag.com/gag/anzZGEn)
- - 🚯 [Chiken for KFC!!](http://9gag.com/gag/aNwMO4b)
- - 🚯 [Shame he didn\u2019t pop that while creature](http://9gag.com/gag/a8qNwBO)<!-- MEMES:END -->
+ - 🚖 [Just a reminder](http://9gag.com/gag/aDY9P37)
+ - 🚯 [Speaking from experience](http://9gag.com/gag/adPAbXB)
+ - 🚯 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
 
 --- 
 
