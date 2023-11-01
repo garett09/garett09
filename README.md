@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s where you can preorder Apple’s new M3-powered Macs](https://www.theverge.com/23938865/apple-imac-macbook-pro-m3-max-preorder-how-to-buy-release-date-price)
- - [How to use the Pixel Watch 2’s safety features](https://www.theverge.com/23933351/pixel-watch-2-safety-check-safety-signal-how-to)
- - [Palo Alto Networks acquires Tel Aviv-based Dig Security, which helps organizations track cloud assets, sources say for $400M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/231031/p20#a231031p20)<!-- TECH:END -->
+ - [Apple Watch Series 10 will monitor blood pressure, detect sleep apnea](https://appleinsider.com/articles/23/11/01/apple-watch-series-10-will-monitor-blood-pressure-detect-sleep-apnea?utm_medium=rss)
+ - [LinkedIn announces a GPT-4-powered AI chatbot aimed at being a &quot;job seeker coach&quot;, available to Premium users, and says the platform now has 1B+ members &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231101/p15#a231101p15)
+ - [This giant Duracell battery is an absolutely packed portable charging station](https://www.theverge.com/2023/11/1/23941447/duracell-m150-portable-power-station)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
