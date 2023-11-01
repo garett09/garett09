@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a reminder](http://9gag.com/gag/aDY9P37)
- - 🚯 [Speaking from experience](http://9gag.com/gag/adPAbXB)
- - 🚯 [Them: `What do you want for your birthday? Me:](http://9gag.com/gag/a3Zgn5e)<!-- MEMES:END -->
+ - 🚖 [Welcome to America](https://www.reddit.com/r/memes/comments/17lat3k/welcome_to_america/)
+ - 🚯 [Can&#39;t even have a decent meal in peace!](https://www.reddit.com/r/memes/comments/17lanmg/cant_even_have_a_decent_meal_in_peace/)
+ - 🚯 [🦸‍♂️ Iron-Deficiency Man](https://www.reddit.com/r/funny/comments/17la018/irondeficiency_man/)<!-- MEMES:END -->
 
 --- 
 
