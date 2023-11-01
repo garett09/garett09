@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Home Depot made hundreds of skeletons before perfecting its 12-foot star, Skelly](https://www.polygon.com/23933590/12-foot-skeleton-tiktok-home-depot-skelly)
- - [You can build your own Starfield space stations thanks to this modder who found the code &#39;already in the game&#39;](https://www.pcgamer.com/you-can-build-your-own-starfield-space-stations-thanks-to-this-modder-who-found-the-code-already-in-the-game)
- - [Coming Soon to Game Pass: Like A Dragon Gaiden, Wild Hearts, Football Manager 2024, and More](https://news.xbox.com/en-us/2023/10/31/game-pass-november-2023-wave-1-announce/)<!-- GAME:END -->
+ - [Godzilla Minus One is the throwback Godzilla fans have been waiting for](https://www.polygon.com/reviews/23940888/godzilla-minus-one-review)
+ - [Vampire: The Masquerade – Bloodlines 2 seeks to take inspiration from Baldur&#39;s Gate 3&#39;s narrative design, as well as its tabletop roots](https://www.pcgamer.com/vampire-the-masquerade-bloodlines-2-seeks-to-take-inspiration-from-baldurs-gate-3s-narrative-design-as-well-as-its-tabletop-roots)
+ - [Where to find the Training Dummy in Diablo 4](https://www.pcgamer.com/diablo-4-training-dummy-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
