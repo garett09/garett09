@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Welcome to America](https://www.reddit.com/r/memes/comments/17lat3k/welcome_to_america/)
- - 🚯 [Can&#39;t even have a decent meal in peace!](https://www.reddit.com/r/memes/comments/17lanmg/cant_even_have_a_decent_meal_in_peace/)
- - 🚯 [🦸‍♂️ Iron-Deficiency Man](https://www.reddit.com/r/funny/comments/17la018/irondeficiency_man/)<!-- MEMES:END -->
+ - 🚖 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
+ - 🚯 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
+ - 🚯 [Lena Anderson...she do corn videos](http://9gag.com/gag/aEqK56p)<!-- MEMES:END -->
 
 --- 
 
