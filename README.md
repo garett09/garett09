@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Godzilla Minus One is the throwback Godzilla fans have been waiting for](https://www.polygon.com/reviews/23940888/godzilla-minus-one-review)
- - [Vampire: The Masquerade – Bloodlines 2 seeks to take inspiration from Baldur&#39;s Gate 3&#39;s narrative design, as well as its tabletop roots](https://www.pcgamer.com/vampire-the-masquerade-bloodlines-2-seeks-to-take-inspiration-from-baldurs-gate-3s-narrative-design-as-well-as-its-tabletop-roots)
- - [Where to find the Training Dummy in Diablo 4](https://www.pcgamer.com/diablo-4-training-dummy-location)<!-- GAME:END -->
+ - [AMD swaps Zen 4 cores for Zen 4c in two new entry-level laptop APUs stating &#39;no human being would ever know the difference&#39;](https://www.pcgamer.com/amd-swaps-zen-4-cores-for-zen-4c-in-two-new-entry-level-laptop-apus-stating-no-human-being-would-ever-know-the-difference)
+ - [How Spider-Man 2’s star put Venom in Peter’s voice: ‘Once or twice I hurt myself’](https://www.polygon.com/23939389/spider-man-2-voice-actor-yuri-lowenthal-venom-ai-union-strike)
+ - [Baldur&#39;s Gate 3&#39;s latest patch has over 1,000 fixes—but most importantly, it lets you buy a butt-naked statue of yourself](https://www.pcgamer.com/baldurs-gate-3s-latest-patch-has-over-1000-fixesbut-most-importantly-it-lets-you-buy-a-butt-naked-statue-of-yourself)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
