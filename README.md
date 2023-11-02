@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 10 will monitor blood pressure, detect sleep apnea](https://appleinsider.com/articles/23/11/01/apple-watch-series-10-will-monitor-blood-pressure-detect-sleep-apnea?utm_medium=rss)
- - [LinkedIn announces a GPT-4-powered AI chatbot aimed at being a &quot;job seeker coach&quot;, available to Premium users, and says the platform now has 1B+ members &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/231101/p15#a231101p15)
- - [This giant Duracell battery is an absolutely packed portable charging station](https://www.theverge.com/2023/11/1/23941447/duracell-m150-portable-power-station)<!-- TECH:END -->
+ - [YouTube begins restricting how often teens receive repeated video recommendations related to sensitive topics like body image &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/231102/p15#a231102p15)
+ - [Best Sonos Setup &lpar;2023&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
+ - [Lenovo&#39;s Tab Wear Collection: A Clothing Proof-of-Concept for Taking Tablets Outdoors](https://www.wired.com/story/lenovo-tab-wear-collection/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
