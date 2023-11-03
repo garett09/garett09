@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Arabs caught by Hamas terrorists on 7.10 can someone translate?](http://9gag.com/gag/aREWGLQ)
- - 🚯 [Since you woke ass leftists find it so hard to believe](http://9gag.com/gag/aWGyyvn)
- - 🚯 [Lena Anderson...she do corn videos](http://9gag.com/gag/aEqK56p)<!-- MEMES:END -->
+ - 🚖 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
+ - 🚯 [How I felt playing Skyrim for the first time.](http://9gag.com/gag/aWGyrP3)
+ - 🚯 [Will he?](http://9gag.com/gag/aDY9eX7)<!-- MEMES:END -->
 
 --- 
 
