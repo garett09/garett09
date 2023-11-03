@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube begins restricting how often teens receive repeated video recommendations related to sensitive topics like body image &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/231102/p15#a231102p15)
- - [Best Sonos Setup &lpar;2023&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
- - [Lenovo&#39;s Tab Wear Collection: A Clothing Proof-of-Concept for Taking Tablets Outdoors](https://www.wired.com/story/lenovo-tab-wear-collection/)<!-- TECH:END -->
+ - [Does Rick die in The Walking Dead?](https://www.androidauthority.com/does-rick-die-in-the-walking-dead-3379626/)
+ - [NBA Streaming 2023: How to Watch, Livestream the New Basketball Season     - CNET](https://www.cnet.com/tech/services-and-software/nba-streaming-2023-how-to-watch-livestream-the-new-basketball-season/#ftag=CAD590a51e)
+ - [Best Cellphone Plans of 2023: Our Top Picks for November     - CNET](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
