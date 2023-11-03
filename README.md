@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD swaps Zen 4 cores for Zen 4c in two new entry-level laptop APUs stating &#39;no human being would ever know the difference&#39;](https://www.pcgamer.com/amd-swaps-zen-4-cores-for-zen-4c-in-two-new-entry-level-laptop-apus-stating-no-human-being-would-ever-know-the-difference)
- - [How Spider-Man 2’s star put Venom in Peter’s voice: ‘Once or twice I hurt myself’](https://www.polygon.com/23939389/spider-man-2-voice-actor-yuri-lowenthal-venom-ai-union-strike)
- - [Baldur&#39;s Gate 3&#39;s latest patch has over 1,000 fixes—but most importantly, it lets you buy a butt-naked statue of yourself](https://www.pcgamer.com/baldurs-gate-3s-latest-patch-has-over-1000-fixesbut-most-importantly-it-lets-you-buy-a-butt-naked-statue-of-yourself)<!-- GAME:END -->
+ - [No Man’s Sky just keeps getting better](https://www.polygon.com/gaming/23939222/no-mans-sky-2023-review)
+ - [Baldur&#39;s Gate 3 latest patch gives a lovely facelift to Karlach and Halsin&#39;s smooch scenes—but it&#39;s seriously soured kisses with Astarion](https://www.pcgamer.com/baldurs-gate-3-latest-patch-gives-a-lovely-facelift-to-karlach-and-halsins-smooch-scenesbut-its-seriously-soured-kisses-with-astarion)
+ - [Honkai: Star Rail Version 1.5 unveils ghost-hunting adventures on the Xianzhou Luofu – live Nov 15](https://blog.playstation.com/2023/11/03/honkai-star-rail-version-1-5-unveils-ghost-hunting-adventures-on-the-xianzhou-luofu-live-nov-15/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
