@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does Rick die in The Walking Dead?](https://www.androidauthority.com/does-rick-die-in-the-walking-dead-3379626/)
- - [NBA Streaming 2023: How to Watch, Livestream the New Basketball Season     - CNET](https://www.cnet.com/tech/services-and-software/nba-streaming-2023-how-to-watch-livestream-the-new-basketball-season/#ftag=CAD590a51e)
- - [Best Cellphone Plans of 2023: Our Top Picks for November     - CNET](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snapdragon 8 Gen 3 vs Tensor G3: Is Google’s flagship chip already outdated?](https://www.androidauthority.com/snapdragon-8-gen-3-vs-tensor-g3-3382154/)
+ - [This Cheap Hacking Device Can Crash Your iPhone With Pop-Ups](https://www.wired.com/story/flipper-zero-iphone-dos-attack-security-roundup/)
+ - [19 Practical Gift Ideas for New Parents and Their Babies](https://www.wired.com/gallery/gift-ideas-for-new-parents-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
