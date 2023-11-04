@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky just keeps getting better](https://www.polygon.com/gaming/23939222/no-mans-sky-2023-review)
- - [Baldur&#39;s Gate 3 latest patch gives a lovely facelift to Karlach and Halsin&#39;s smooch scenes—but it&#39;s seriously soured kisses with Astarion](https://www.pcgamer.com/baldurs-gate-3-latest-patch-gives-a-lovely-facelift-to-karlach-and-halsins-smooch-scenesbut-its-seriously-soured-kisses-with-astarion)
- - [Honkai: Star Rail Version 1.5 unveils ghost-hunting adventures on the Xianzhou Luofu – live Nov 15](https://blog.playstation.com/2023/11/03/honkai-star-rail-version-1-5-unveils-ghost-hunting-adventures-on-the-xianzhou-luofu-live-nov-15/)<!-- GAME:END -->
+ - [The best movies new to streaming in November 2023](https://www.polygon.com/what-to-watch/2023/11/4/23939141/best-new-movies-netflix-amazon-prime-max-hulu-november-2023)
+ - [Wordle today: Hint and answer #868 for Saturday, November 4](https://www.pcgamer.com/wordle-today-answer-868-november-4)
+ - [Modern Warfare 3&#39;s rushed campaign isn&#39;t going over well with fans who pre-ordered: &#39;This is hands down the worst CoD campaign I&#39;ve ever played&#39;](https://www.pcgamer.com/modern-warfare-3s-rushed-campaign-isnt-going-over-well-with-fans-who-pre-ordered-this-is-hands-down-the-worst-cod-campaign-ive-ever-played)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
