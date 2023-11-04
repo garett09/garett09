@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facing the non stop nut November](http://9gag.com/gag/avQqjAZ)
- - 🚯 [How I felt playing Skyrim for the first time.](http://9gag.com/gag/aWGyrP3)
- - 🚯 [Will he?](http://9gag.com/gag/aDY9eX7)<!-- MEMES:END -->
+ - 🚖 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
+ - 🚯 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
+ - 🚯 [Never forget](http://9gag.com/gag/aBdzq0A)<!-- MEMES:END -->
 
 --- 
 
