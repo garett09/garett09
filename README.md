@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8 Gen 3 vs Tensor G3: Is Google’s flagship chip already outdated?](https://www.androidauthority.com/snapdragon-8-gen-3-vs-tensor-g3-3382154/)
- - [This Cheap Hacking Device Can Crash Your iPhone With Pop-Ups](https://www.wired.com/story/flipper-zero-iphone-dos-attack-security-roundup/)
- - [19 Practical Gift Ideas for New Parents and Their Babies](https://www.wired.com/gallery/gift-ideas-for-new-parents-2023/)<!-- TECH:END -->
+ - [The JWST Has Spotted Giant Black Holes All Over the Early Universe](https://www.wired.com/story/the-jwst-has-spotted-giant-black-holes-all-over-the-early-universe/)
+ - [Focal Theva No. 1 Speakers Review: Smooth and Creamy](https://www.wired.com/review/focal-theva-no-1/)
+ - [How AI brought the Beatles back together one more time](https://www.theverge.com/2023/11/5/23945399/beatles-ai-fortnite-og-macbook-pro-installer-newsletter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
