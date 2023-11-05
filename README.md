@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Syrian kidnapped, raped and tortured two Swedish women in Malmo. He was deported to Syria, but returned to Sweden after 4 days, with fake passport. He also received 840 000 SEK &lpar;\u20ac72 000&rpar; in compensation, before the deportation, because the judge had given a too harsh sentence.](http://9gag.com/gag/aZDXe09)
- - 🚯 [They did him dirty putting that there](http://9gag.com/gag/ay2rjWq)
- - 🚯 [Never forget](http://9gag.com/gag/aBdzq0A)<!-- MEMES:END -->
+ - 🚖 [Just Buddhists...](http://9gag.com/gag/aeQzXqB)
+ - 🚯 [A short and witty title does the trick](http://9gag.com/gag/agowrpK)
+ - 🚯 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)<!-- MEMES:END -->
 
 --- 
 
