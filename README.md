@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming in November 2023](https://www.polygon.com/what-to-watch/2023/11/4/23939141/best-new-movies-netflix-amazon-prime-max-hulu-november-2023)
- - [Wordle today: Hint and answer #868 for Saturday, November 4](https://www.pcgamer.com/wordle-today-answer-868-november-4)
- - [Modern Warfare 3&#39;s rushed campaign isn&#39;t going over well with fans who pre-ordered: &#39;This is hands down the worst CoD campaign I&#39;ve ever played&#39;](https://www.pcgamer.com/modern-warfare-3s-rushed-campaign-isnt-going-over-well-with-fans-who-pre-ordered-this-is-hands-down-the-worst-cod-campaign-ive-ever-played)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #869 for Sunday, November 5](https://www.pcgamer.com/wordle-today-answer-869-november-5)
+ - [Pokémon Go Wooper Community Day guide](https://www.polygon.com/pokemon-go-guide/2023/11/4/23944989/wooper-paldean-community-day-shiny-quagsire-clodsire)
+ - [Baldur&#39;s Gate 3 lets you use sausages as weapons, so of course one audacious player built a dual wielding &#39;Salami-mancer&#39; ready to take on the game&#39;s hardest difficulty](https://www.pcgamer.com/baldurs-gate-3-lets-you-use-sausages-as-weapons-so-of-course-one-audacious-player-built-a-dual-wielding-salami-mancer-ready-to-take-on-the-games-hardest-difficulty)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
