@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The JWST Has Spotted Giant Black Holes All Over the Early Universe](https://www.wired.com/story/the-jwst-has-spotted-giant-black-holes-all-over-the-early-universe/)
- - [Focal Theva No. 1 Speakers Review: Smooth and Creamy](https://www.wired.com/review/focal-theva-no-1/)
- - [How AI brought the Beatles back together one more time](https://www.theverge.com/2023/11/5/23945399/beatles-ai-fortnite-og-macbook-pro-installer-newsletter)<!-- TECH:END -->
+ - [Bumble CEO Whitney Wolfe Herd plans to step down nearly a decade after founding the dating app, to be replaced by Slack CEO Lidiane Jones on January 2, 2024 &lpar;Sara Ashley O&#39;Brien/Wall Street Journal&rpar;](http://www.techmeme.com/231106/p11#a231106p11)
+ - [Sony Xperia 1 V gets major Android 14 update with a tiny changelog](https://www.androidauthority.com/sony-xperia-1-v-android-14-3382628/)
+ - [Oxo 12-Cup Coffee Maker With Podless Single-Serve Function Review: An Excellent Brewer for Any Size Batch](https://www.wired.com/review/oxo-12-cup-coffee-maker-with-podless-single-serve-function/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
