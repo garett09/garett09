@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just Buddhists...](http://9gag.com/gag/aeQzXqB)
- - 🚯 [A short and witty title does the trick](http://9gag.com/gag/agowrpK)
- - 🚯 [Guess who won the Miss Helsinki competision.](http://9gag.com/gag/aA05BLo)<!-- MEMES:END -->
+ - 🚖 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
+ - 🚯 [We are here](http://9gag.com/gag/aBd5RoO)
+ - 🚯 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)<!-- MEMES:END -->
 
 --- 
 
