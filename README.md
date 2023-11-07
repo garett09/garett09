@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Creed: Rise to Glory – Championship Edition launches the free Sweet Science update Nov 7 on PS VR2](https://blog.playstation.com/2023/11/06/creed-rise-to-glory-championship-edition-launches-the-free-sweet-science-update-nov-7-on-ps-vr2/)
- - [Fortnite just had its biggest day ever, 6 years in](https://www.polygon.com/23948437/fortnite-og-chapter-1-player-record)
- - [Overwatch 2&#39;s latest hero doesn’t just look like the Moana guy, he directly references him too](https://www.pcgamer.com/overwatch-2s-latest-hero-doesnt-just-look-like-the-moana-guy-he-directly-references-him-too)<!-- GAME:END -->
+ - [Celebrating the holiday season with blockbuster games, new hardware products, and more PS5 console inventory than ever before](https://blog.playstation.com/2023/11/07/celebrating-the-holiday-season-with-blockbuster-games-new-hardware-products-and-more-ps5-console-inventory-than-ever-before/)
+ - [This Week’s Xbox Sales and Specials, Including the ID@Xbox Simulator Sale](https://news.xbox.com/en-us/2023/11/07/this-weeks-xbox-sales-and-specials-including-the-idxbox-simulator-sale/)
+ - [Packaging leak suggests the most ridiculous Nvidia GPU name is actually happening](https://www.pcgamer.com/packaging-leak-suggests-the-most-ridiculous-nvidia-gpu-name-is-actually-happening)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
