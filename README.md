@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m want to be Portuguese](http://9gag.com/gag/a5X3dQV)
- - 🚯 [We are here](http://9gag.com/gag/aBd5RoO)
- - 🚯 [Smartest people my ass...](http://9gag.com/gag/aeQwjBq)<!-- MEMES:END -->
+ - 🚖 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
+ - 🚯 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)
+ - 🚯 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
 
 --- 
 
