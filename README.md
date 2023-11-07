@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bumble CEO Whitney Wolfe Herd plans to step down nearly a decade after founding the dating app, to be replaced by Slack CEO Lidiane Jones on January 2, 2024 &lpar;Sara Ashley O&#39;Brien/Wall Street Journal&rpar;](http://www.techmeme.com/231106/p11#a231106p11)
- - [Sony Xperia 1 V gets major Android 14 update with a tiny changelog](https://www.androidauthority.com/sony-xperia-1-v-android-14-3382628/)
- - [Oxo 12-Cup Coffee Maker With Podless Single-Serve Function Review: An Excellent Brewer for Any Size Batch](https://www.wired.com/review/oxo-12-cup-coffee-maker-with-podless-single-serve-function/)<!-- TECH:END -->
+ - [M3 vs M3 Pro vs M3 Max -- specs, features compared](https://appleinsider.com/inside/apple-silicon/vs/m3-vs-m3-pro-vs-m3-max----specs-features-compared?utm_medium=rss)
+ - [Lo &amp; Sons Nouvelle Purse Review &lpar;2023&rpar;: Recycled and Versatile](https://www.wired.com/review/lo-and-sons-nouvelle-purse/)
+ - [Eve&#39;s Motion Sensor Finally Made My Home Feel &#39;Smart&#39;](https://www.wired.com/story/eve-motion-sensor-rave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
