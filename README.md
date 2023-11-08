@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M3 vs M3 Pro vs M3 Max -- specs, features compared](https://appleinsider.com/inside/apple-silicon/vs/m3-vs-m3-pro-vs-m3-max----specs-features-compared?utm_medium=rss)
- - [Lo &amp; Sons Nouvelle Purse Review &lpar;2023&rpar;: Recycled and Versatile](https://www.wired.com/review/lo-and-sons-nouvelle-purse/)
- - [Eve&#39;s Motion Sensor Finally Made My Home Feel &#39;Smart&#39;](https://www.wired.com/story/eve-motion-sensor-rave/)<!-- TECH:END -->
+ - [Peloton Row Review: A Nearly Perfect Rowing Machine With a Too-High Price](https://www.wired.com/review/peloton-row/)
+ - [REI Co-op 650 Down Jacket Review: Best Value](https://www.wired.com/review/rei-co-op-650-down-jacket/)
+ - [Spotify’s free audiobooks perk is now live for US Premium subscribers](https://www.theverge.com/2023/11/8/23951938/spotify-audiobook-listening-perk-us-premium-subscribers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
