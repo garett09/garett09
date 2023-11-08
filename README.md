@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating the holiday season with blockbuster games, new hardware products, and more PS5 console inventory than ever before](https://blog.playstation.com/2023/11/07/celebrating-the-holiday-season-with-blockbuster-games-new-hardware-products-and-more-ps5-console-inventory-than-ever-before/)
- - [This Week’s Xbox Sales and Specials, Including the ID@Xbox Simulator Sale](https://news.xbox.com/en-us/2023/11/07/this-weeks-xbox-sales-and-specials-including-the-idxbox-simulator-sale/)
- - [Packaging leak suggests the most ridiculous Nvidia GPU name is actually happening](https://www.pcgamer.com/packaging-leak-suggests-the-most-ridiculous-nvidia-gpu-name-is-actually-happening)<!-- GAME:END -->
+ - [Remedy&#39;s plant bone tech is just one of the reasons Alan Wake 2 is the best-looking videogame of 2023](https://www.pcgamer.com/remedys-plant-bone-tech-is-just-one-of-the-reasons-alan-wake-2-is-the-best-looking-videogame-of-2023)
+ - [Everything we know about World of Warcraft: The War Within](https://www.pcgamer.com/world-of-warcraft-wow-war-within-release-date)
+ - [Tactical squad shooter Zero Hour has just got a chaotic new game mode](https://www.pcgamer.com/tactical-squad-shooter-zero-hour-has-just-got-a-chaotic-new-game-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
