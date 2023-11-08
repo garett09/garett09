@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to deal with coworkers who steal your food constantly.](http://9gag.com/gag/a4oy9mv)
- - 🚯 [Sorry for no potato](http://9gag.com/gag/aQE5n2K)
- - 🚯 [If it doesn&#39;t hit you in the feelz then you ain&#39;t got any](http://9gag.com/gag/aL15QqM)<!-- MEMES:END -->
+ - 🚖 [True.](http://9gag.com/gag/agowGZq)
+ - 🚯 [True Love](http://9gag.com/gag/a4oyj6A)
+ - 🚯 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)<!-- MEMES:END -->
 
 --- 
 
