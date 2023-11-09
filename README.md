@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True.](http://9gag.com/gag/agowGZq)
- - 🚯 [True Love](http://9gag.com/gag/a4oyj6A)
- - 🚯 [Dirty Mike and the Boys](http://9gag.com/gag/a9q0YK1)<!-- MEMES:END -->
+ - 🚖 [No title](http://9gag.com/gag/aqew5DR)
+ - 🚯 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
+ - 🚯 [Who is it for?..](http://9gag.com/gag/a5X3n6L)<!-- MEMES:END -->
 
 --- 
 
