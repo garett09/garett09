@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton Row Review: A Nearly Perfect Rowing Machine With a Too-High Price](https://www.wired.com/review/peloton-row/)
- - [REI Co-op 650 Down Jacket Review: Best Value](https://www.wired.com/review/rei-co-op-650-down-jacket/)
- - [Spotify’s free audiobooks perk is now live for US Premium subscribers](https://www.theverge.com/2023/11/8/23951938/spotify-audiobook-listening-perk-us-premium-subscribers)<!-- TECH:END -->
+ - [Panasonic Eneloop Rechargeable Batteries Are the Best](https://www.wired.com/story/panasonic-eneloop-rechargeable-batteries-rave/)
+ - [System 76 Lemur Pro Review: Ultraportable Linux Laptop](https://www.wired.com/review/system-76-lemur-pro-laptop/)
+ - [9 Best Cheap Laptops &lpar;2023&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
