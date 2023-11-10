@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightdive thought it was &#39;going to get grilled&#39; about the lack of hand-holding in System Shock remake, but players loved it](https://www.pcgamer.com/nightdive-thought-it-was-going-to-get-grilled-about-the-lack-of-hand-holding-in-system-shock-but-players-loved-it)
- - [Apple VP says 8GB RAM on a MacBook Pro analogous to 16GB RAM on a PC: &#39;We just happen to be able to use it much more efficiently&#39;](https://www.pcgamer.com/apple-vp-says-8gb-ram-on-a-macbook-pro-analogous-to-16gb-ram-on-a-pc-we-just-happen-to-be-able-to-use-it-much-more-efficiently)
- - [Actors’ strike ends as union and studios make a deal](https://www.polygon.com/23953631/sag-aftra-actors-strike-ends)<!-- GAME:END -->
+ - [What is Tactical Stance in Modern Warfare 3, and how do you use it?](https://www.polygon.com/modern-warfare-3-guides/23955189/mw3-tactical-stance-tac-stance-get-use-controls)
+ - [Amid fan backlash, Modern Warfare 3 studio bluntly denies reports the campaign was scraped together in 16 months as &#39;simply not true&#39;](https://www.pcgamer.com/amid-fan-backlash-modern-warfare-3-studio-bluntly-denies-reports-the-campaign-was-scraped-together-in-16-months-as-simply-not-true)
+ - [Baldur&#39;s Gate 3 hotfix means dwarves don&#39;t have to walk around in &#39;big blueberries&#39; anymore](https://www.pcgamer.com/baldurs-gate-3-hotfix-means-dwarves-dont-have-to-walk-around-in-big-blueberries-anymore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
