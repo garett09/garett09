@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No title](http://9gag.com/gag/aqew5DR)
- - 🚯 [Fair sound warning](http://9gag.com/gag/aoKw2Kx)
- - 🚯 [Who is it for?..](http://9gag.com/gag/a5X3n6L)<!-- MEMES:END -->
+ - 🚖 [Ready for a workout](http://9gag.com/gag/a4oy7y6)
+ - 🚯 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
+ - 🚯 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
 
 --- 
 
