@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ready for a workout](http://9gag.com/gag/a4oy7y6)
- - 🚯 [Can we all take a minute to apreciate this beauty.](http://9gag.com/gag/abvwYz8)
- - 🚯 [When you think playing the game as a male would be easy.](http://9gag.com/gag/aQE5eqe)<!-- MEMES:END -->
+ - 🚖 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
+ - 🚯 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
+ - 🚯 [Balenciaga](http://9gag.com/gag/a04qRzv)<!-- MEMES:END -->
 
 --- 
 
