@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s NHS is using a predictive scoring algorithm called the National Liver Offering Scheme, found to have errors, to help decide who gets a liver transplant &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/231110/p10#a231110p10)
- - [New MacBook Pro and iMac, new Final Cut Pro, and Humane&#39;s AI Pin on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/10/new-macbook-pro-and-imac-new-final-cut-pro-and-humanes-ai-pin-on-the-appleinsider-podcast?utm_medium=rss)
- - [10 Best Cozy Games &lpar;2023&rpar;: Switch, PlayStation, Steam, Xbox](https://www.wired.com/gallery/best-cozy-games/)<!-- TECH:END -->
+ - [Branwyn Merino Wool Underwear Review: Comfortable, Natural, Quality](https://www.wired.com/story/merino-wool-underwear-rave/)
+ - [Scientists Have Been Freezing Corals for Decades. Now They&#39;re Learning How to Wake Them Up](https://www.wired.com/story/cryofreezing-corals-learning-how-to-wake-them-up/)
+ - [Man United vs. Luton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-luton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
