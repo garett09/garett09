@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is Tactical Stance in Modern Warfare 3, and how do you use it?](https://www.polygon.com/modern-warfare-3-guides/23955189/mw3-tactical-stance-tac-stance-get-use-controls)
- - [Amid fan backlash, Modern Warfare 3 studio bluntly denies reports the campaign was scraped together in 16 months as &#39;simply not true&#39;](https://www.pcgamer.com/amid-fan-backlash-modern-warfare-3-studio-bluntly-denies-reports-the-campaign-was-scraped-together-in-16-months-as-simply-not-true)
- - [Baldur&#39;s Gate 3 hotfix means dwarves don&#39;t have to walk around in &#39;big blueberries&#39; anymore](https://www.pcgamer.com/baldurs-gate-3-hotfix-means-dwarves-dont-have-to-walk-around-in-big-blueberries-anymore)<!-- GAME:END -->
+ - [The best thrillers to watch on Netflix this November](https://www.polygon.com/what-to-watch/2023/11/11/23948633/best-thriller-movies-netflix-watch-november-2023)
+ - [Wordle today: Hint and answer #875 for Saturday, November 11](https://www.pcgamer.com/wordle-today-answer-875-november-11)
+ - [Skip the grind: Call of Duty: Modern Warfare 3 Zombies lets you unlock any multiplayer gun in minutes](https://www.pcgamer.com/call-of-duty-modern-warfare-3-unlock-guns-zombies-exploit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
