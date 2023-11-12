@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Additional punishment for rapists](http://9gag.com/gag/aME5Z1R)
- - 🚯 [He didn&#39;t greet !](http://9gag.com/gag/aoKw56X)
- - 🚯 [Balenciaga](http://9gag.com/gag/a04qRzv)<!-- MEMES:END -->
+ - 🚖 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
+ - 🚯 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
+ - 🚯 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)<!-- MEMES:END -->
 
 --- 
 
