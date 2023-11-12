@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Branwyn Merino Wool Underwear Review: Comfortable, Natural, Quality](https://www.wired.com/story/merino-wool-underwear-rave/)
- - [Scientists Have Been Freezing Corals for Decades. Now They&#39;re Learning How to Wake Them Up](https://www.wired.com/story/cryofreezing-corals-learning-how-to-wake-them-up/)
- - [Man United vs. Luton Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-luton-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lang The Well Mineralizing Water Filter Review: Convenient but Finicky](https://www.wired.com/review/lang-the-well-remineralizing-water-filter/)
+ - [The Milky Way’s Stars Reveal Its Turbulent Past](https://www.wired.com/story/the-milky-ways-stars-reveal-its-turbulent-past/)
+ - [The best apps and tools for managing your money online](https://www.theverge.com/2023/11/12/23955681/best-apps-online-budget-money-mint-ynab-copilot-steam-deck-humane-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
