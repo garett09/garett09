@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #876 for Sunday, November 12](https://www.pcgamer.com/wordle-today-answer-876-november-12)
- - [It only took hours for modders to crowbar 4k support into the Metal Gear Solid: Master Collection—now they&#39;ve added ultrawide, high-res UI support, and more](https://www.pcgamer.com/it-only-took-hours-for-modders-to-crowbar-4k-support-into-the-metal-gear-solid-master-collectionnow-theyve-added-ultrawide-high-res-ui-support-and-more)
- - [Warcraft’s game director explains why Blizzard debuted three expansions at once: &#39;Speaking it out loud makes it real&#39;](https://www.pcgamer.com/warcrafts-game-director-explains-why-blizzard-debuted-three-expansions-at-once-speaking-it-out-loud-makes-it-real)<!-- GAME:END -->
+ - [All the new Christmas and holiday movies and specials coming out this winter](https://www.polygon.com/entertainment/23954532/new-christmas-holiday-movies-specials-2023)
+ - [Ken Levine hails cancelled Irrational project as &#39;the best game we never got to make&#39;](https://www.pcgamer.com/ken-levine-hails-cancelled-irrational-project-as-the-best-game-we-never-got-to-make)
+ - [How to find and destroy a Mercenary Convoy in Call of Duty: Modern Warfare 3 zombies](https://www.pcgamer.com/call-of-duty-modern-warfare-3-mercenary-convoy-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
