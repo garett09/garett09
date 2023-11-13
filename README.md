@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did Simpsons predict the Las Vegas sphere ?](http://9gag.com/gag/a3Zrw95)
- - 🚯 [Of course they don&#39;t](http://9gag.com/gag/ay2w23W)
- - 🚯 [Diversity hires FTW! Syke](http://9gag.com/gag/a4oyE9w)<!-- MEMES:END -->
+ - 🚖 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
+ - 🚯 [Kat Dennings](http://9gag.com/gag/agow14v)
+ - 🚯 [Exactly!!!](http://9gag.com/gag/a6q6Dre)<!-- MEMES:END -->
 
 --- 
 
