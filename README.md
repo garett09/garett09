@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lang The Well Mineralizing Water Filter Review: Convenient but Finicky](https://www.wired.com/review/lang-the-well-remineralizing-water-filter/)
- - [The Milky Way’s Stars Reveal Its Turbulent Past](https://www.wired.com/story/the-milky-ways-stars-reveal-its-turbulent-past/)
- - [The best apps and tools for managing your money online](https://www.theverge.com/2023/11/12/23955681/best-apps-online-budget-money-mint-ynab-copilot-steam-deck-humane-ai)<!-- TECH:END -->
+ - [Apple&#39;s iPhone &#39;parts pairing&#39; is making the company billions](https://appleinsider.com/articles/23/11/13/apples-iphone-parts-pairing-is-making-the-company-billions?utm_medium=rss)
+ - [The Block sells an 80% stake to Singaporean VC Foresight Ventures, valuing the crypto outlet at $70M and freeing the business from financial ties to FTX &lpar;Axios&rpar;](http://www.techmeme.com/231113/p9#a231113p9)
+ - [Combustion Predictive Thermometer and Display Review: Stress-Free Grilling](https://www.wired.com/review/combustion-predictive-thermometer-and-display/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
