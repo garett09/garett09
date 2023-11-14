@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah, leave the button](http://9gag.com/gag/aDY5YEN)
- - 🚯 [Kat Dennings](http://9gag.com/gag/agow14v)
- - 🚯 [Exactly!!!](http://9gag.com/gag/a6q6Dre)<!-- MEMES:END -->
+ - 🚖 [Scumbag of the year award goes to..](http://9gag.com/gag/awZ2Lb1)
+ - 🚯 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
+ - 🚯 [And for less money too](http://9gag.com/gag/aA05EAo)<!-- MEMES:END -->
 
 --- 
 
