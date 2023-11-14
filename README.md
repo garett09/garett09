@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone &#39;parts pairing&#39; is making the company billions](https://appleinsider.com/articles/23/11/13/apples-iphone-parts-pairing-is-making-the-company-billions?utm_medium=rss)
- - [The Block sells an 80% stake to Singaporean VC Foresight Ventures, valuing the crypto outlet at $70M and freeing the business from financial ties to FTX &lpar;Axios&rpar;](http://www.techmeme.com/231113/p9#a231113p9)
- - [Combustion Predictive Thermometer and Display Review: Stress-Free Grilling](https://www.wired.com/review/combustion-predictive-thermometer-and-display/)<!-- TECH:END -->
+ - [RIL, a nonprofit coalition of tech VCs and execs, releases a voluntary commitment for startups building AI responsibly, signed by Insight, IVP, and 33 other VCs &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231114/p16#a231114p16)
+ - [Apple Watch converts heart attack survivor to marathon runner](https://appleinsider.com/articles/23/11/14/apple-watch-converts-heart-attack-survivor-to-marathon-runner?utm_medium=rss)
+ - [Sources: EU regulators plan to file anti-competitive charges against Adobe&#39;s $20B Figma deal as early as this week; Adobe announced the deal in September 2022 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231114/p15#a231114p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
