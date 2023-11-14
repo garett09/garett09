@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the new Christmas and holiday movies and specials coming out this winter](https://www.polygon.com/entertainment/23954532/new-christmas-holiday-movies-specials-2023)
- - [Ken Levine hails cancelled Irrational project as &#39;the best game we never got to make&#39;](https://www.pcgamer.com/ken-levine-hails-cancelled-irrational-project-as-the-best-game-we-never-got-to-make)
- - [How to find and destroy a Mercenary Convoy in Call of Duty: Modern Warfare 3 zombies](https://www.pcgamer.com/call-of-duty-modern-warfare-3-mercenary-convoy-location)<!-- GAME:END -->
+ - [This Week’s Xbox Sales and Specials, Including the Publisher Spotlight Series Sale](https://news.xbox.com/en-us/2023/11/14/this-weeks-xbox-sales-and-specials-including-the-publisher-spotlight-series-sale/)
+ - [Best BAS-B loadout, class build in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23958874/best-bas-b-loadout-class-build-mw3)
+ - [‘Crash Site’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23959469/crash-site-item-weapon-locations-mw3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
