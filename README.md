@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scumbag of the year award goes to..](http://9gag.com/gag/awZ2Lb1)
- - 🚯 [Movie-goers in India were left terrified on Sunday after a group of fans set off fireworks inside a cinema after Bollywood star Salman Khan appeared on screen.](http://9gag.com/gag/aeQwVK5)
- - 🚯 [And for less money too](http://9gag.com/gag/aA05EAo)<!-- MEMES:END -->
+ - 🚖 [Spitting facts](http://9gag.com/gag/a8qODbQ)
+ - 🚯 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
+ - 🚯 [Bring back shame](http://9gag.com/gag/ap9wbw8)<!-- MEMES:END -->
 
 --- 
 
