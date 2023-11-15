@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RIL, a nonprofit coalition of tech VCs and execs, releases a voluntary commitment for startups building AI responsibly, signed by Insight, IVP, and 33 other VCs &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/231114/p16#a231114p16)
- - [Apple Watch converts heart attack survivor to marathon runner](https://appleinsider.com/articles/23/11/14/apple-watch-converts-heart-attack-survivor-to-marathon-runner?utm_medium=rss)
- - [Sources: EU regulators plan to file anti-competitive charges against Adobe&#39;s $20B Figma deal as early as this week; Adobe announced the deal in September 2022 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/231114/p15#a231114p15)<!-- TECH:END -->
+ - [Helen Dixon, Ireland&#39;s data protection commissioner, plans to leave on February 19 after ~10 years; GDPR transformed the DPC into the EU&#39;s top tech regulator &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/231115/p14#a231115p14)
+ - [Amazon has already ditched Android for its own Vega OS on the Echo Show 5](https://www.androidauthority.com/amazon-echo-show-5-vega-os-ditched-android-3385756/)
+ - [Waverly Labs Forum Review: Impressive One-to-Many Voice Translation](https://www.wired.com/review/waverly-labs-forum/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
