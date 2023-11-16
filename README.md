@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spitting facts](http://9gag.com/gag/a8qODbQ)
- - 🚯 [Mixed Asian be like](http://9gag.com/gag/aVb5ZQy)
- - 🚯 [Bring back shame](http://9gag.com/gag/ap9wbw8)<!-- MEMES:END -->
+ - 🚖 [Mancheri valerie](http://9gag.com/gag/ajVwZRw)
+ - 🚯 [When you love Subway](http://9gag.com/gag/a6q6Gqq)
+ - 🚯 [That f***ing word again.](http://9gag.com/gag/aL15d5M)<!-- MEMES:END -->
 
 --- 
 
