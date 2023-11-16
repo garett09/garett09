@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Helen Dixon, Ireland&#39;s data protection commissioner, plans to leave on February 19 after ~10 years; GDPR transformed the DPC into the EU&#39;s top tech regulator &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/231115/p14#a231115p14)
- - [Amazon has already ditched Android for its own Vega OS on the Echo Show 5](https://www.androidauthority.com/amazon-echo-show-5-vega-os-ditched-android-3385756/)
- - [Waverly Labs Forum Review: Impressive One-to-Many Voice Translation](https://www.wired.com/review/waverly-labs-forum/)<!-- TECH:END -->
+ - [Sony and Apple are giving PS5 owners six free months of Apple Music](https://www.theverge.com/2023/11/16/23963643/apple-music-sony-ps5-six-months-free-streaming-promotion)
+ - [15 Gifts for People Who Are Perpetually Cold &lpar;2023&rpar;: Hand Warmers, Blankets, and Space Heaters](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold/)
+ - [A Surge in Babies Born With Syphilis Is a Warning Sign](https://www.wired.com/story/a-surge-in-babies-born-with-syphilis-is-a-warning-sign/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
