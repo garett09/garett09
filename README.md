@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mancheri valerie](http://9gag.com/gag/ajVwZRw)
- - 🚯 [When you love Subway](http://9gag.com/gag/a6q6Gqq)
- - 🚯 [That f***ing word again.](http://9gag.com/gag/aL15d5M)<!-- MEMES:END -->
+ - 🚖 [Straight from the 2014 archive](http://9gag.com/gag/a8qOnzO)
+ - 🚯 [Not my hand](http://9gag.com/gag/abvwR8E)
+ - 🚯 [Where&#39;s the other guy?](http://9gag.com/gag/ay2wz0M)<!-- MEMES:END -->
 
 --- 
 
