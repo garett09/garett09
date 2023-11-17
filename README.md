@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony and Apple are giving PS5 owners six free months of Apple Music](https://www.theverge.com/2023/11/16/23963643/apple-music-sony-ps5-six-months-free-streaming-promotion)
- - [15 Gifts for People Who Are Perpetually Cold &lpar;2023&rpar;: Hand Warmers, Blankets, and Space Heaters](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold/)
- - [A Surge in Babies Born With Syphilis Is a Warning Sign](https://www.wired.com/story/a-surge-in-babies-born-with-syphilis-is-a-warning-sign/)<!-- TECH:END -->
+ - [Amazon says it is targeting merchandise exports worth $20B from India by 2025 and has more than 100K small manufacturers from the country on its platform &lpar;Manoj Kumar/Reuters&rpar;](http://www.techmeme.com/231117/p7#a231117p7)
+ - [RCS vs SMS: What’s the difference?](https://www.androidauthority.com/rcs-vs-sms-3330098/)
+ - [Recording Spatial Video, Nothing&#39;s iMessage gamble, &amp; M3 Max on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/17/recording-spatial-video-nothings-imessage-gamble-m3-max-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
