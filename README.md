@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to level up fast in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23963586/level-up-guns-fast-xp-mw3)
- - [How to get all mastery camos, including Interstellar and Borealis, in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23963602/mastery-camos-interstellar-borealis-mw3)
- - [‘Highrise’ item and weapon locations in Modern Warfare 3](https://www.polygon.com/modern-warfare-3-guides/23962256/highrise-item-weapon-locations-mw3)<!-- GAME:END -->
+ - [The best PS5 accessories](https://www.polygon.com/what-to-buy/23644587/best-ps5-accessories)
+ - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
+ - [Horizon Forbidden West: Seeds of Rebellion – new gameplay and story details on the upcoming tabletop adventure](https://blog.playstation.com/2023/11/17/horizon-forbidden-west-seeds-of-rebellion-new-gameplay-and-story-details-on-the-upcoming-tabletop-adventure/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
