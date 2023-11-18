@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says it is targeting merchandise exports worth $20B from India by 2025 and has more than 100K small manufacturers from the country on its platform &lpar;Manoj Kumar/Reuters&rpar;](http://www.techmeme.com/231117/p7#a231117p7)
- - [RCS vs SMS: What’s the difference?](https://www.androidauthority.com/rcs-vs-sms-3330098/)
- - [Recording Spatial Video, Nothing&#39;s iMessage gamble, &amp; M3 Max on the AppleInsider Podcast](https://appleinsider.com/articles/23/11/17/recording-spatial-video-nothings-imessage-gamble-m3-max-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel camera features ranked from best to worst](https://www.androidauthority.com/google-pixel-camera-features-ranked-3382762/)
+ - [Black Friday Deals on Electric Bikes &lpar;2023&rpar;: Rad and Aventon](https://www.wired.com/story/best-electric-bike-deals-2023/)
+ - [12 Best USB Hubs and Docks &lpar;2023&rpar;: USB-C, USB-A, Portable](https://www.wired.com/gallery/best-usb-hubs-and-docks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
