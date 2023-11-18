@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PS5 accessories](https://www.polygon.com/what-to-buy/23644587/best-ps5-accessories)
- - [The best Black Friday deals are happening now](https://www.polygon.com/23940803/best-early-black-friday-2023-deals-games-cyber-monday)
- - [Horizon Forbidden West: Seeds of Rebellion – new gameplay and story details on the upcoming tabletop adventure](https://blog.playstation.com/2023/11/17/horizon-forbidden-west-seeds-of-rebellion-new-gameplay-and-story-details-on-the-upcoming-tabletop-adventure/)<!-- GAME:END -->
+ - [The Scott Pilgrim anime leaves its ending open](https://www.polygon.com/23963914/netflix-scott-pilgrim-anime-takes-off-ending-explained-tv-show-movie)
+ - [The Last of Us Part 2 PS5 remaster unveiled with trailer, release date](https://www.polygon.com/23966207/the-last-of-us-part-2-ps5-remastered-leak-psn)
+ - [The Last Of Us Part II Remastered Is Real, Out Next Year [Update: Full Details]](https://kotaku.com/last-of-us-part-2-remastered-ii-leak-trailer-2024-ps5-1851032694)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
