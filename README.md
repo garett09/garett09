@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel camera features ranked from best to worst](https://www.androidauthority.com/google-pixel-camera-features-ranked-3382762/)
- - [Black Friday Deals on Electric Bikes &lpar;2023&rpar;: Rad and Aventon](https://www.wired.com/story/best-electric-bike-deals-2023/)
- - [12 Best USB Hubs and Docks &lpar;2023&rpar;: USB-C, USB-A, Portable](https://www.wired.com/gallery/best-usb-hubs-and-docks/)<!-- TECH:END -->
+ - [The OnePlus Open is great, but it has a silly problem](https://www.androidauthority.com/oneplus-open-stylus-problem-3385795/)
+ - [Weber Griddle Review: Pile on the Pancakes and Bacon](https://www.wired.com/review/weber-griddle/)
+ - [How Many Microbes Does It Take to Make You Sick?](https://www.wired.com/story/how-many-microbes-does-it-take-to-make-you-sick/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
