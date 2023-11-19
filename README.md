@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quick math](http://9gag.com/gag/awZ2vO4)
- - 🚯 [Pro Parasites shut their cars off on the Bay Bridge and dumped their keys in the bay, causing a huge traffic jam. California](http://9gag.com/gag/anzwdzB)
- - 🚯 [This muslim woman living in Israel celebrated Hamas attacks on Israel. Israel govt went to her house and sent her packing to Gaza. \ud83d\ude02\ud83d\ude02](http://9gag.com/gag/ajVwMOR)<!-- MEMES:END -->
+ - 🚖 [Free him](http://9gag.com/gag/a04qgYB)
+ - 🚯 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
+ - 🚯 [Based Nadal](http://9gag.com/gag/a9q0wmm)<!-- MEMES:END -->
 
 --- 
 
