@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus Open is great, but it has a silly problem](https://www.androidauthority.com/oneplus-open-stylus-problem-3385795/)
- - [Weber Griddle Review: Pile on the Pancakes and Bacon](https://www.wired.com/review/weber-griddle/)
- - [How Many Microbes Does It Take to Make You Sick?](https://www.wired.com/story/how-many-microbes-does-it-take-to-make-you-sick/)<!-- TECH:END -->
+ - [&#39;The Witcher&#39; and &#39;The Witcher 2&#39; hunt their way to Apple Silicon](https://appleinsider.com/articles/23/11/20/the-witcher-and-the-witcher-2-hunt-their-way-to-apple-silicon?utm_medium=rss)
+ - [My Wrists Can&#39;t Thank This Flexible Gooseneck Mount Enough](https://www.wired.com/story/saiji-gooseneck-phone-mount-rave/)
+ - [Eero Max 7 Review: Amazon&#39;s First Wi-Fi 7 Mesh](https://www.wired.com/review/eero-max-7/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
