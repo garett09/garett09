@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monarch: Legacy of Monsters takes the Watchmen approach to a Godzilla show](https://www.polygon.com/23966023/monarch-legacy-of-monsters-watchmen-lore)
- - [Classic Zelda has never felt as big as the Oracle games](https://www.polygon.com/zelda/23966001/zelda-oracle-of-ages-oracle-of-seasons-rock)
- - [Kotaku’s Biggest Gaming Culture News For The Week November 18, 2023](https://kotaku.com/kotaku-s-biggest-gaming-culture-news-for-the-week-novem-1851032502)<!-- GAME:END -->
+ - [Can Dunsparce be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23969134/can-dunsparce-be-shiny-dudunsparce)
+ - [Controversial ‘pay-to-win’ Gaia skin will be temporarily removed from Modern Warfare 3](https://www.polygon.com/23970024/modern-warfare-3-gaia-skin-removed-temporarily)
+ - [New Starfield Patch Finally Adds Those Graphics Options You Wanted](https://kotaku.com/starfield-patch-1-8-86-update-notes-dlss-pc-brightness-1851037171)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
