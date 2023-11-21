@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Free him](http://9gag.com/gag/a04qgYB)
- - 🚯 [I said `you&#39;re welcome `](http://9gag.com/gag/a9q0w1Z)
- - 🚯 [Based Nadal](http://9gag.com/gag/a9q0wmm)<!-- MEMES:END -->
+ - 🚖 [Where memes from](http://9gag.com/gag/a7qXYvL)
+ - 🚯 [One ticket for me too](http://9gag.com/gag/aL157x5)
+ - 🚯 [Now that&#39;s a cool story](http://9gag.com/gag/aNw57G4)<!-- MEMES:END -->
 
 --- 
 
