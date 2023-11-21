@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Witcher&#39; and &#39;The Witcher 2&#39; hunt their way to Apple Silicon](https://appleinsider.com/articles/23/11/20/the-witcher-and-the-witcher-2-hunt-their-way-to-apple-silicon?utm_medium=rss)
- - [My Wrists Can&#39;t Thank This Flexible Gooseneck Mount Enough](https://www.wired.com/story/saiji-gooseneck-phone-mount-rave/)
- - [Eero Max 7 Review: Amazon&#39;s First Wi-Fi 7 Mesh](https://www.wired.com/review/eero-max-7/)<!-- TECH:END -->
+ - [Meta releases its Content Library and an API, letting select researchers more easily access non-downloadable data via a virtual &quot;clean room&quot;, after a beta &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/231121/p18#a231121p18)
+ - [18 Best Wired Headphones &lpar;2023&rpar;: In-Ear, Over-Ear, Studio](https://www.wired.com/gallery/best-wired-headphones/)
+ - [New Orleans Tried to Control Short-Term Rentals With a Lottery System. It Was a Mess](https://www.wired.com/story/airbnb-short-term-rentals-new-orleans-lottery/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
