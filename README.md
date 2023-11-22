@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta releases its Content Library and an API, letting select researchers more easily access non-downloadable data via a virtual &quot;clean room&quot;, after a beta &lpar;Tate Ryan-Mosley/MIT Technology Review&rpar;](http://www.techmeme.com/231121/p18#a231121p18)
- - [18 Best Wired Headphones &lpar;2023&rpar;: In-Ear, Over-Ear, Studio](https://www.wired.com/gallery/best-wired-headphones/)
- - [New Orleans Tried to Control Short-Term Rentals With a Lottery System. It Was a Mess](https://www.wired.com/story/airbnb-short-term-rentals-new-orleans-lottery/)<!-- TECH:END -->
+ - [The Rise of AI in Alternative Browsers—and What’s Next](https://www.wired.com/story/alternative-browsers-built-in-ai-arc-sigmaos-brave-opera/)
+ - [How to Have the Best Record Store Day](https://www.wired.com/story/how-to-record-store-day-shopping-tips/)
+ - [LG SC9S Review: Decent Sound, But Can&#39;t Compete With Sonos](https://www.wired.com/review/lg-sc9s/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
