@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Dunsparce be shiny in Pokémon Go?](https://www.polygon.com/pokemon-go-guide/23969134/can-dunsparce-be-shiny-dudunsparce)
- - [Controversial ‘pay-to-win’ Gaia skin will be temporarily removed from Modern Warfare 3](https://www.polygon.com/23970024/modern-warfare-3-gaia-skin-removed-temporarily)
- - [New Starfield Patch Finally Adds Those Graphics Options You Wanted](https://kotaku.com/starfield-patch-1-8-86-update-notes-dlss-pc-brightness-1851037171)<!-- GAME:END -->
+ - [How to turn off motion smoothing on your TV &lpar;or anyone else’s!&rpar;](https://www.polygon.com/entertainment/23972518/motion-smoothing-tv-explained-how-to-turn-it-off)
+ - [How to get Operator Assault Kills in Call of Duty: Modern Warfare 3](https://www.pcgamer.com/call-of-duty-modern-warfare-3-operator-assault-kills)
+ - [No Starfield? No problem! Turn Mass Effect into the first-person space RPG of your dreams with this mod](https://www.pcgamer.com/no-starfield-no-problem-turn-mass-effect-into-the-first-person-space-rpg-of-your-dreams-with-this-mod)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
