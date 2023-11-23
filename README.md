@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Rise of AI in Alternative Browsers—and What’s Next](https://www.wired.com/story/alternative-browsers-built-in-ai-arc-sigmaos-brave-opera/)
- - [How to Have the Best Record Store Day](https://www.wired.com/story/how-to-record-store-day-shopping-tips/)
- - [LG SC9S Review: Decent Sound, But Can&#39;t Compete With Sonos](https://www.wired.com/review/lg-sc9s/)<!-- TECH:END -->
+ - [Reflecting on 18 years at Google: early Google had a vision, but its culture has eroded, morale is at an all-time low, and healing requires changes at the top &lpar;Ian Hickson/Hixie&#39;s Natural Log&rpar;](http://www.techmeme.com/231123/p9#a231123p9)
+ - [JBL Authentics 200 Review: A Great Little Smart Speaker](https://www.wired.com/review/jbl-authentics-200/)
+ - [Sources: the European Commission plans to grant Amazon unconditional antitrust approval for its $1.4B iRobot acquisition, having set a February 14 deadline &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231123/p8#a231123p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
