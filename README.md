@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where memes from](http://9gag.com/gag/a7qXYvL)
- - 🚯 [One ticket for me too](http://9gag.com/gag/aL157x5)
- - 🚯 [Now that&#39;s a cool story](http://9gag.com/gag/aNw57G4)<!-- MEMES:END -->
+ - 🚖 [Anything is possible when you lies](http://9gag.com/gag/anzoqpn)
+ - 🚯 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
+ - 🚯 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)<!-- MEMES:END -->
 
 --- 
 
