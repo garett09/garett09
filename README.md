@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anything is possible when you lies](http://9gag.com/gag/anzoqpn)
- - 🚯 [Geert Wilders from the far right PVV won the Dutch elections today. Have a save trip back home i gues](http://9gag.com/gag/awZp07R)
- - 🚯 [How to pick out flooring](http://9gag.com/gag/a9qGbKL)<!-- MEMES:END -->
+ - 🚖 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
+ - 🚯 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
+ - 🚯 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)<!-- MEMES:END -->
 
 --- 
 
