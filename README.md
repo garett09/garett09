@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reflecting on 18 years at Google: early Google had a vision, but its culture has eroded, morale is at an all-time low, and healing requires changes at the top &lpar;Ian Hickson/Hixie&#39;s Natural Log&rpar;](http://www.techmeme.com/231123/p9#a231123p9)
- - [JBL Authentics 200 Review: A Great Little Smart Speaker](https://www.wired.com/review/jbl-authentics-200/)
- - [Sources: the European Commission plans to grant Amazon unconditional antitrust approval for its $1.4B iRobot acquisition, having set a February 14 deadline &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/231123/p8#a231123p8)<!-- TECH:END -->
+ - [50 Black Friday Apple discounts you won&#39;t want to miss](https://appleinsider.com/articles/23/11/24/50-black-friday-apple-discounts-you-wont-want-to-miss?utm_medium=rss)
+ - [55 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
+ - [How to Switch to the Desktop Versions of Your Favorite Mobile Sites](https://www.wired.com/story/how-to-switch-desktop-version-mobile-site/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
