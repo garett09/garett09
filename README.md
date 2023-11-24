@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to turn off motion smoothing on your TV &lpar;or anyone else’s!&rpar;](https://www.polygon.com/entertainment/23972518/motion-smoothing-tv-explained-how-to-turn-it-off)
- - [How to get Operator Assault Kills in Call of Duty: Modern Warfare 3](https://www.pcgamer.com/call-of-duty-modern-warfare-3-operator-assault-kills)
- - [No Starfield? No problem! Turn Mass Effect into the first-person space RPG of your dreams with this mod](https://www.pcgamer.com/no-starfield-no-problem-turn-mass-effect-into-the-first-person-space-rpg-of-your-dreams-with-this-mod)<!-- GAME:END -->
+ - [Left 4 Dead could&#39;ve had player classes—but the game&#39;s co-lead put his foot down: &#39;no, that is the wrong way to go&#39;](https://www.pcgamer.com/left-4-dead-couldve-had-player-classesbut-the-games-co-lead-put-his-foot-down-no-that-is-the-wrong-way-to-go)
+ - [Virtual and real-life medieval warfare clashed in Lords Mobile&#39;s latest event](https://www.pcgamer.com/virtual-and-real-life-medieval-warfare-clashed-in-lords-mobiles-latest-event)
+ - [25 years later, this Half-Life scientist finally bites it as Gabe intended](https://www.pcgamer.com/25-years-later-this-half-life-scientist-finally-bites-it-as-gabe-intended)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
