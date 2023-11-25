@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [50 Black Friday Apple discounts you won&#39;t want to miss](https://appleinsider.com/articles/23/11/24/50-black-friday-apple-discounts-you-wont-want-to-miss?utm_medium=rss)
- - [55 Best Black Friday Outdoor Deals &lpar;2023&rpar;: Sleeping Bags, Tents, Solo Stoves](https://www.wired.com/story/black-friday-outdoor-deals-rei-2023-4/)
- - [How to Switch to the Desktop Versions of Your Favorite Mobile Sites](https://www.wired.com/story/how-to-switch-desktop-version-mobile-site/)<!-- TECH:END -->
+ - [For me, the OnePlus 11 is the most underrated flagship of 2023](https://www.androidauthority.com/oneplus-11-underrated-flagship-editorial-3388320/)
+ - [The best Black Friday deals you can still get](https://www.theverge.com/23972463/black-friday-tech-deals-earbuds-accessories-still-available-2023)
+ - [The Best Handheld Gaming Consoles](https://www.wired.com/gallery/best-gaming-handhelds/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
