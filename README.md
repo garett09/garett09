@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [9gaggers be like:](http://9gag.com/gag/a5XYNRV)
- - 🚯 [Movie name: Good Luck Chuck](http://9gag.com/gag/a5XYKZo)
- - 🚯 [YouTube is now blocking Ad Blockers - So I just make ads run 16x faster](http://9gag.com/gag/aqeE2mj)<!-- MEMES:END -->
+ - 🚖 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
+ - 🚯 [Cops POV](http://9gag.com/gag/awZpVE8)
+ - 🚯 [Savage](http://9gag.com/gag/aZDYWoW)<!-- MEMES:END -->
 
 --- 
 
