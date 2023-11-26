@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Who says Black Friday has ended? These are our favorite deals you can still grab](https://www.pcgamer.com/who-says-black-friday-has-ended-these-are-our-favorite-deals-you-can-still-grab)
- - [The best movies leaving Netflix, Hulu, Prime, and Max at the end of November 2023](https://www.polygon.com/what-to-watch/2023/11/25/23969163/best-movies-netflix-amazon-hulu-max-leaving-november-2023)
- - [The Week&#39;s Best Gaming Stories, From Pokimane to Adults-Only N64](https://kotaku.com/video-game-news-pokimane-n64-destiny-mortal-kombat-1851046381)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #890 for Sunday, November 26](https://www.pcgamer.com/wordle-today-answer-890-november-26)
+ - [Great moments in PC Gaming: Being 25 hours into Dave the Diver and still finding new stuff to do](https://www.pcgamer.com/great-moments-in-pc-gaming-being-25-hours-into-dave-the-diver-and-still-finding-new-stuff-to-do)
+ - [No, Cult of the Lamb&#39;s next free expansion won&#39;t be &#39;the sex update&#39;](https://www.pcgamer.com/no-cult-of-the-lambs-next-free-expansion-wont-be-the-sex-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
