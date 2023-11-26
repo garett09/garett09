@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He... he did it... he actually did it!](http://9gag.com/gag/agoeNQx)
- - 🚯 [Cops POV](http://9gag.com/gag/awZpVE8)
- - 🚯 [Savage](http://9gag.com/gag/aZDYWoW)<!-- MEMES:END -->
+ - 🚖 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
+ - 🚯 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
+ - 🚯 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)<!-- MEMES:END -->
 
 --- 
 
