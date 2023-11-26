@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [For me, the OnePlus 11 is the most underrated flagship of 2023](https://www.androidauthority.com/oneplus-11-underrated-flagship-editorial-3388320/)
- - [The best Black Friday deals you can still get](https://www.theverge.com/23972463/black-friday-tech-deals-earbuds-accessories-still-available-2023)
- - [The Best Handheld Gaming Consoles](https://www.wired.com/gallery/best-gaming-handhelds/)<!-- TECH:END -->
+ - [Q&amp;A with Slack CTO Cal Henderson on how the pandemic changed Slack and workplace habits, acquisition by Salesforce, generative AI, India market, and more &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/231126/p2#a231126p2)
+ - [The OnePlus Buds Pro 2 are my favorite gym buds](https://www.androidauthority.com/oneplus-buds-pro-2-gym-workout-3388698/)
+ - [Don&#39;t Tell These 196 Black Friday Deals That It&#39;s Sunday](https://www.wired.com/story/absolute-best-black-friday-deals-6/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
