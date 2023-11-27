@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [French people protesting after the death of Thomas.](http://9gag.com/gag/aZDY3qQ)
- - 🚯 [This man is on a higher level emotionally than most people](http://9gag.com/gag/aQEj9ee)
- - 🚯 [The reflection in the mirror is always the same size no matter what you do](http://9gag.com/gag/aeQBerm)<!-- MEMES:END -->
+ - 🚖 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
+ - 🚯 [I choose you](http://9gag.com/gag/agoeAvg)
+ - 🚯 [Sit](http://9gag.com/gag/a0435nX)<!-- MEMES:END -->
 
 --- 
 
