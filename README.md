@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #890 for Sunday, November 26](https://www.pcgamer.com/wordle-today-answer-890-november-26)
- - [Great moments in PC Gaming: Being 25 hours into Dave the Diver and still finding new stuff to do](https://www.pcgamer.com/great-moments-in-pc-gaming-being-25-hours-into-dave-the-diver-and-still-finding-new-stuff-to-do)
- - [No, Cult of the Lamb&#39;s next free expansion won&#39;t be &#39;the sex update&#39;](https://www.pcgamer.com/no-cult-of-the-lambs-next-free-expansion-wont-be-the-sex-update)<!-- GAME:END -->
+ - [I&#39;m tracking all the best Cyber Monday SSD deals live right now, join me in my palace of storage dreams](https://www.pcgamer.com/live/news/cyber-monday-ssd-deals-live-now)
+ - [The best thing I did this deals season was revive my old desktop with a cheap SSD](https://www.pcgamer.com/the-best-thing-i-did-this-deals-season-was-revive-my-old-desktop-with-a-cheap-ssd)
+ - [Silent Hill 2 remake devs try to calm down fans, saying &lpar;for the second time&rpar; that it&#39;s on Konami to share anything: &#39;we kindly ask for a bit more patience&#39;](https://www.pcgamer.com/silent-hill-2-remake-devs-try-to-calm-down-fans-saying-for-the-second-time-that-its-on-konami-to-share-anything-we-kindly-ask-for-a-bit-more-patience)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
