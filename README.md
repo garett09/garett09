@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Slack CTO Cal Henderson on how the pandemic changed Slack and workplace habits, acquisition by Salesforce, generative AI, India market, and more &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/231126/p2#a231126p2)
- - [The OnePlus Buds Pro 2 are my favorite gym buds](https://www.androidauthority.com/oneplus-buds-pro-2-gym-workout-3388698/)
- - [Don&#39;t Tell These 196 Black Friday Deals That It&#39;s Sunday](https://www.wired.com/story/absolute-best-black-friday-deals-6/)<!-- TECH:END -->
+ - [The best Cyber Monday deals you can get on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
+ - [The best Cyber Monday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
+ - [The 26 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
