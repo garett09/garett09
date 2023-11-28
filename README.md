@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals you can get on headphones and earbuds](https://www.theverge.com/23965357/black-friday-2023-headphone-earbuds-deals-cyber-monday)
- - [The best Cyber Monday streaming deals on Max, Paramount Plus, Hulu, and more](https://www.theverge.com/23965708/black-friday-2023-streaming-deals-max-paramount-plus-hulu-cyber-monday)
- - [The 26 Greatest Cyber Monday Deals on Gear We Love](https://www.wired.com/story/greatest-cyber-monday-deals-on-gear-we-love/)<!-- TECH:END -->
+ - [Samsung Galaxy A15 5G breaks cover: The best sub-$200 phone?](https://www.androidauthority.com/samsung-galaxy-a15-5g-3389530/)
+ - [A profile of Curtis Priem, Nvidia&#39;s co-founder and first CTO, who holds ~200 patents, sold his Nvidia stock years ago, and has donated $275M to his alma mater &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/231128/p19#a231128p19)
+ - [North Korean hackers combine malware to attack macOS](https://appleinsider.com/articles/23/11/28/north-korean-hackers-combine-malware-to-attack-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
