@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m tracking all the best Cyber Monday SSD deals live right now, join me in my palace of storage dreams](https://www.pcgamer.com/live/news/cyber-monday-ssd-deals-live-now)
- - [The best thing I did this deals season was revive my old desktop with a cheap SSD](https://www.pcgamer.com/the-best-thing-i-did-this-deals-season-was-revive-my-old-desktop-with-a-cheap-ssd)
- - [Silent Hill 2 remake devs try to calm down fans, saying &lpar;for the second time&rpar; that it&#39;s on Konami to share anything: &#39;we kindly ask for a bit more patience&#39;](https://www.pcgamer.com/silent-hill-2-remake-devs-try-to-calm-down-fans-saying-for-the-second-time-that-its-on-konami-to-share-anything-we-kindly-ask-for-a-bit-more-patience)<!-- GAME:END -->
+ - [Skyrim player amasses 267,000 gold lifetime bounty after killing &#39;everything that was killable,&#39; and all you can really do is tearfully salute it](https://www.pcgamer.com/skyrim-player-amasses-267000-gold-bounty-after-killing-everything-that-was-killable-and-all-you-can-really-do-is-tearfully-salute-it)
+ - [Bethesda&#39;s still responding to negative Starfield reviews with cheesy taglines, and at this point I just want the studio&#39;s reply brigade to log off](https://www.pcgamer.com/bethesdas-still-responding-to-negative-starfield-reviews-with-cheesy-taglines-and-at-this-point-i-just-want-the-studios-reply-brigade-to-log-off)
+ - [Guide a steam locomotive through the Russian Civil War in brutal survival strategy Last Train Home](https://www.pcgamer.com/guide-a-steam-locomotive-through-the-russian-civil-war-in-brutal-survival-strategy-last-train-home)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
