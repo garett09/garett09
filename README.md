@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, it was a fun ride.](http://9gag.com/gag/aDYvgD9)
- - 🚯 [I choose you](http://9gag.com/gag/agoeAvg)
- - 🚯 [Sit](http://9gag.com/gag/a0435nX)<!-- MEMES:END -->
+ - 🚖 [Exhales suicidely](http://9gag.com/gag/a5XY1ZE)
+ - 🚯 [John Wick without John Wick, that\u2018s what we want!](http://9gag.com/gag/aMEL46G)
+ - 🚯 [The science of atmospheric pressure](http://9gag.com/gag/aWGXxe2)<!-- MEMES:END -->
 
 --- 
 
