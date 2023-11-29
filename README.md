@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Exhales suicidely](http://9gag.com/gag/a5XY1ZE)
- - 🚯 [John Wick without John Wick, that\u2018s what we want!](http://9gag.com/gag/aMEL46G)
- - 🚯 [The science of atmospheric pressure](http://9gag.com/gag/aWGXxe2)<!-- MEMES:END -->
+ - 🚖 [Never underestimate the power of sea waves](http://9gag.com/gag/a3ZO1j3)
+ - 🚯 [Insane in the membrane](http://9gag.com/gag/aKEMG8b)
+ - 🚯 [Great success](http://9gag.com/gag/amAZWyy)<!-- MEMES:END -->
 
 --- 
 
