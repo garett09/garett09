@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A15 5G breaks cover: The best sub-$200 phone?](https://www.androidauthority.com/samsung-galaxy-a15-5g-3389530/)
- - [A profile of Curtis Priem, Nvidia&#39;s co-founder and first CTO, who holds ~200 patents, sold his Nvidia stock years ago, and has donated $275M to his alma mater &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/231128/p19#a231128p19)
- - [North Korean hackers combine malware to attack macOS](https://appleinsider.com/articles/23/11/28/north-korean-hackers-combine-malware-to-attack-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify launches Spotify Wrapped 2023, adding a new Me in 2023 feature to assign users 12 themes that describe their listening, available on mobile and desktop &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p17#a231129p17)
+ - [The Weirdest Reason the Poles Are Warming So Fast? Invisible Clouds](https://www.wired.com/story/the-weirdest-reason-the-poles-are-warming-so-fast-invisible-clouds/)
+ - [Spotify Wrapped Is Back Again. Are You a Vampire or a Shape Shifter?](https://www.wired.com/story/spotify-wrapped-never-going-away/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
