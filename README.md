@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim player amasses 267,000 gold lifetime bounty after killing &#39;everything that was killable,&#39; and all you can really do is tearfully salute it](https://www.pcgamer.com/skyrim-player-amasses-267000-gold-bounty-after-killing-everything-that-was-killable-and-all-you-can-really-do-is-tearfully-salute-it)
- - [Bethesda&#39;s still responding to negative Starfield reviews with cheesy taglines, and at this point I just want the studio&#39;s reply brigade to log off](https://www.pcgamer.com/bethesdas-still-responding-to-negative-starfield-reviews-with-cheesy-taglines-and-at-this-point-i-just-want-the-studios-reply-brigade-to-log-off)
- - [Guide a steam locomotive through the Russian Civil War in brutal survival strategy Last Train Home](https://www.pcgamer.com/guide-a-steam-locomotive-through-the-russian-civil-war-in-brutal-survival-strategy-last-train-home)<!-- GAME:END -->
+ - [Silent Hill: Ascension&#39;s terrible Jam Man &lpar;who likes to make jams&rpar; was not written by AI, says Genvid CEO: &#39;every word in Ascension was written by real people&#39;](https://www.pcgamer.com/silent-hill-ascensions-terrible-jam-man-who-likes-to-make-jams-was-not-written-by-ai-says-genvid-ceo-every-word-in-ascension-was-written-by-real-people)
+ - [Cherry KC 200 MX review](https://www.pcgamer.com/cherry-kc-200-mx-review)
+ - [Microsoft Paint jumps on the generative AI bandwagon, with DALL-E taking the fancy-footed horses&#39; reins](https://www.pcgamer.com/microsoft-paint-jumps-on-the-generative-ai-bandwagon-with-dall-e-taking-the-fancy-footed-horses-reins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
