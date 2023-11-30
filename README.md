@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify launches Spotify Wrapped 2023, adding a new Me in 2023 feature to assign users 12 themes that describe their listening, available on mobile and desktop &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/231129/p17#a231129p17)
- - [The Weirdest Reason the Poles Are Warming So Fast? Invisible Clouds](https://www.wired.com/story/the-weirdest-reason-the-poles-are-warming-so-fast-invisible-clouds/)
- - [Spotify Wrapped Is Back Again. Are You a Vampire or a Shape Shifter?](https://www.wired.com/story/spotify-wrapped-never-going-away/)<!-- TECH:END -->
+ - [Spotify Wrapped 2023&#39;s new Sound Town, for similar listeners in other cities, leaves users baffled and entertained after many were designated as Burlington, VT &lpar;New York Times&rpar;](http://www.techmeme.com/231130/p18#a231130p18)
+ - [6 Best Radios &lpar;2023&rpar;: Portable, Stylish, For Emergencies](https://www.wired.com/gallery/best-radios/)
+ - [Coffee Lovers, It’s Time to Stop Using K-Cups](https://www.wired.com/story/gadget-lab-podcast-622/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
