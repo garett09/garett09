@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill: Ascension&#39;s terrible Jam Man &lpar;who likes to make jams&rpar; was not written by AI, says Genvid CEO: &#39;every word in Ascension was written by real people&#39;](https://www.pcgamer.com/silent-hill-ascensions-terrible-jam-man-who-likes-to-make-jams-was-not-written-by-ai-says-genvid-ceo-every-word-in-ascension-was-written-by-real-people)
- - [Cherry KC 200 MX review](https://www.pcgamer.com/cherry-kc-200-mx-review)
- - [Microsoft Paint jumps on the generative AI bandwagon, with DALL-E taking the fancy-footed horses&#39; reins](https://www.pcgamer.com/microsoft-paint-jumps-on-the-generative-ai-bandwagon-with-dall-e-taking-the-fancy-footed-horses-reins)<!-- GAME:END -->
+ - [One of my favourite soulslike shoot-&#39;em-ups—Remnant 2—just quietly dropped on PC Game Pass, and it&#39;s a really good time to subscribe anyway](https://www.pcgamer.com/one-of-my-favourite-soulslike-shoot-em-upsremnant-2just-quietly-dropped-on-pc-game-pass-and-its-a-really-good-time-to-subscribe-anyway)
+ - [The Intel Core i9 14900K vs AMD Ryzen 9 7950X3D gaming shootout](https://www.pcgamer.com/intel-core-i9-14900k-vs-amd-ryzen-9-7950x3d)
+ - [Last Train Home&#39;s tactical combat missions pit your ragtag Czech soldiers against the might of the Red Army](https://www.pcgamer.com/last-train-homes-tactical-combat-missions-pit-your-ragtag-czech-soldiers-against-the-might-of-the-red-army)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
