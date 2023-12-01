@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of my favourite soulslike shoot-&#39;em-ups—Remnant 2—just quietly dropped on PC Game Pass, and it&#39;s a really good time to subscribe anyway](https://www.pcgamer.com/one-of-my-favourite-soulslike-shoot-em-upsremnant-2just-quietly-dropped-on-pc-game-pass-and-its-a-really-good-time-to-subscribe-anyway)
- - [The Intel Core i9 14900K vs AMD Ryzen 9 7950X3D gaming shootout](https://www.pcgamer.com/intel-core-i9-14900k-vs-amd-ryzen-9-7950x3d)
- - [Last Train Home&#39;s tactical combat missions pit your ragtag Czech soldiers against the might of the Red Army](https://www.pcgamer.com/last-train-homes-tactical-combat-missions-pit-your-ragtag-czech-soldiers-against-the-might-of-the-red-army)<!-- GAME:END -->
+ - [Part two of Warhammer 40,000: Darktide&#39;s big free expansion comes this month, featuring a new mission, injectable magic potions, and… a foldable shovel?](https://www.pcgamer.com/part-two-of-warhammer-40000-darktides-big-free-expansion-comes-this-month-featuring-a-new-mission-injectable-magic-potions-and-a-foldable-shovel)
+ - [Resident Evil 4’s VR mode finally arrives next week](https://www.polygon.com/23983870/resident-evil-4-vr-mode-release-date)
+ - [Born of Bread, home-cooked turn-based RPG rises December 5 on PS5](https://blog.playstation.com/2023/12/01/born-of-bread-home-cooked-turn-based-rpg-rises-december-5-on-ps5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
