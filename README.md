@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify Wrapped 2023&#39;s new Sound Town, for similar listeners in other cities, leaves users baffled and entertained after many were designated as Burlington, VT &lpar;New York Times&rpar;](http://www.techmeme.com/231130/p18#a231130p18)
- - [6 Best Radios &lpar;2023&rpar;: Portable, Stylish, For Emergencies](https://www.wired.com/gallery/best-radios/)
- - [Coffee Lovers, It’s Time to Stop Using K-Cups](https://www.wired.com/story/gadget-lab-podcast-622/)<!-- TECH:END -->
+ - [Tetraprism camera coming to iPhone 16 Pro, claims supply chain report](https://appleinsider.com/articles/23/12/01/tetraprism-camera-coming-to-iphone-16-pro-claims-supply-chain-report?utm_medium=rss)
+ - [Xreal Air 2 Pro AR Glasses Review: Minor Upgrade](https://www.wired.com/review/xreal-air-2-pro/)
+ - [In a letter to two US Senators, Circle denies a report alleging it had a role in financing Hamas and Hezbollah and an &quot;ongoing relationship&quot; with Justin Sun &lpar;Samyuktha Sriram/Unchained Crypto&rpar;](http://www.techmeme.com/231201/p8#a231201p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
