@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Marriage](http://9gag.com/gag/aVb6omv)
- - 🚯 [Elon Musk tells the advertisers if they don&#39;t want to advertise, they can go F themselves.](http://9gag.com/gag/aPgqo7B)
- - 🚯 [There goes the rest of the self-esteem. But at least I still got all you degenerates.](http://9gag.com/gag/aQEjvrK)<!-- MEMES:END -->
+ - 🚖 [NCAA Reevaluates Medal Distribution, Acknowledges Mistake And Will Transfer Medals from Lia Thomas to Riley Gaines](http://9gag.com/gag/abv8x2v)
+ - 🚯 [When will we finally get facts about the situation and not propaganda? Why do they even use AI?!](http://9gag.com/gag/aPgqXwq)
+ - 🚯 [Another groaner.](http://9gag.com/gag/abv8WMr)<!-- MEMES:END -->
 
 --- 
 
