@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Part two of Warhammer 40,000: Darktide&#39;s big free expansion comes this month, featuring a new mission, injectable magic potions, and… a foldable shovel?](https://www.pcgamer.com/part-two-of-warhammer-40000-darktides-big-free-expansion-comes-this-month-featuring-a-new-mission-injectable-magic-potions-and-a-foldable-shovel)
- - [Resident Evil 4’s VR mode finally arrives next week](https://www.polygon.com/23983870/resident-evil-4-vr-mode-release-date)
- - [Born of Bread, home-cooked turn-based RPG rises December 5 on PS5](https://blog.playstation.com/2023/12/01/born-of-bread-home-cooked-turn-based-rpg-rises-december-5-on-ps5/)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #896 for Saturday, December 2](https://www.pcgamer.com/wordle-today-answer-896-december-2)
+ - [It&#39;s the perfect weekend to try co-op survival game Icarus, because it&#39;s free on Steam](https://www.pcgamer.com/its-the-perfect-weekend-to-try-co-op-survival-game-icarus-because-its-totally-free)
+ - [Is Neopets making a comeback? How its new owners plan to revive a &#39;living relic&#39;](https://www.pcgamer.com/is-neopets-making-a-comeback-how-its-new-owners-plan-to-revive-a-living-relic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
