@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NCAA Reevaluates Medal Distribution, Acknowledges Mistake And Will Transfer Medals from Lia Thomas to Riley Gaines](http://9gag.com/gag/abv8x2v)
- - 🚯 [When will we finally get facts about the situation and not propaganda? Why do they even use AI?!](http://9gag.com/gag/aPgqXwq)
- - 🚯 [Another groaner.](http://9gag.com/gag/abv8WMr)<!-- MEMES:END -->
+ - 🚖 [What can it be?](http://9gag.com/gag/a3ZObW1)
+ - 🚯 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
+ - 🚯 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)<!-- MEMES:END -->
 
 --- 
 
