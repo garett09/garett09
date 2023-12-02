@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tetraprism camera coming to iPhone 16 Pro, claims supply chain report](https://appleinsider.com/articles/23/12/01/tetraprism-camera-coming-to-iphone-16-pro-claims-supply-chain-report?utm_medium=rss)
- - [Xreal Air 2 Pro AR Glasses Review: Minor Upgrade](https://www.wired.com/review/xreal-air-2-pro/)
- - [In a letter to two US Senators, Circle denies a report alleging it had a role in financing Hamas and Hezbollah and an &quot;ongoing relationship&quot; with Justin Sun &lpar;Samyuktha Sriram/Unchained Crypto&rpar;](http://www.techmeme.com/231201/p8#a231201p8)<!-- TECH:END -->
+ - [What it means when your phone isn’t supported anymore](https://www.androidauthority.com/phone-not-supported-updated-anymore-3389532/)
+ - [Climate Cookbooks Are Here to Change How You Eat](https://www.wired.com/story/climate-cookbooks-are-here-to-change-how-you-eat/)
+ - [Apple promotes iPhone 15 Portrait features with &#39;Album Cover&#39; fight](https://appleinsider.com/articles/23/12/02/apple-promotes-iphone-15-portrait-features-with-album-cover-fight?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
