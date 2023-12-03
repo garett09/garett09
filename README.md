@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #896 for Saturday, December 2](https://www.pcgamer.com/wordle-today-answer-896-december-2)
- - [It&#39;s the perfect weekend to try co-op survival game Icarus, because it&#39;s free on Steam](https://www.pcgamer.com/its-the-perfect-weekend-to-try-co-op-survival-game-icarus-because-its-totally-free)
- - [Is Neopets making a comeback? How its new owners plan to revive a &#39;living relic&#39;](https://www.pcgamer.com/is-neopets-making-a-comeback-how-its-new-owners-plan-to-revive-a-living-relic)<!-- GAME:END -->
+ - [What time does the GTA 6 trailer release?](https://www.polygon.com/gta-6-guide/23983993/grand-theft-auto-6-trailer-release-time-date-when-coming-out-9-am-et)
+ - [Wordle today: Hint and answer #897 for Sunday, December 3](https://www.pcgamer.com/wordle-today-answer-897-december-3)
+ - [Be a frog, kill bugs, collect cool dice in the demo for dicebuilding roguelike Die in the Dungeon](https://www.pcgamer.com/be-a-frog-kill-bugs-collect-cool-dice-in-the-demo-for-dicebuilding-roguelike-die-in-the-dungeon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
