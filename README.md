@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What can it be?](http://9gag.com/gag/a3ZObW1)
- - 🚯 [Sauce Jewelz Blu and yes she does](http://9gag.com/gag/az23ZOx)
- - 🚯 [It just feels a bit uncomfortable, but I do it. After all, I don&#39;t wanna get banned again...](http://9gag.com/gag/a5XYjPy)<!-- MEMES:END -->
+ - 🚖 [*Lol :D](http://9gag.com/gag/a043xrB)
+ - 🚯 [I hope all of you have someone like this coach rooting for you](http://9gag.com/gag/ay2KPjM)
+ - 🚯 [Still happening](http://9gag.com/gag/aXnOe4z)<!-- MEMES:END -->
 
 --- 
 
