@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What it means when your phone isn’t supported anymore](https://www.androidauthority.com/phone-not-supported-updated-anymore-3389532/)
- - [Climate Cookbooks Are Here to Change How You Eat](https://www.wired.com/story/climate-cookbooks-are-here-to-change-how-you-eat/)
- - [Apple promotes iPhone 15 Portrait features with &#39;Album Cover&#39; fight](https://appleinsider.com/articles/23/12/02/apple-promotes-iphone-15-portrait-features-with-album-cover-fight?utm_medium=rss)<!-- TECH:END -->
+ - [My Kindle highlights were a mess until I started using Readwise](https://www.androidauthority.com/amazon-kindle-highlights-readwise-3390520/)
+ - [This Aromatherapy Shower Spray Smells Like God’s Armpit](https://www.wired.com/story/european-spa-source-eucalyptus-rave/)
+ - [An Invisible ‘Demon’ Lurks in an Odd Superconductor](https://www.wired.com/story/an-invisible-demon-lurks-in-an-odd-superconductor/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
