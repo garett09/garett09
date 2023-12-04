@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*Lol :D](http://9gag.com/gag/a043xrB)
- - 🚯 [I hope all of you have someone like this coach rooting for you](http://9gag.com/gag/ay2KPjM)
- - 🚯 [Still happening](http://9gag.com/gag/aXnOe4z)<!-- MEMES:END -->
+ - 🚖 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
+ - 🚯 [True](http://9gag.com/gag/abv8E28)
+ - 🚯 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)<!-- MEMES:END -->
 
 --- 
 
