@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Kindle highlights were a mess until I started using Readwise](https://www.androidauthority.com/amazon-kindle-highlights-readwise-3390520/)
- - [This Aromatherapy Shower Spray Smells Like God’s Armpit](https://www.wired.com/story/european-spa-source-eucalyptus-rave/)
- - [An Invisible ‘Demon’ Lurks in an Odd Superconductor](https://www.wired.com/story/an-invisible-demon-lurks-in-an-odd-superconductor/)<!-- TECH:END -->
+ - [WhatsApp updates its iOS app to let users send photos and videos in their original quality &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231204/p10#a231204p10)
+ - [The Rise of AI in Alternative Browsers—and What’s Next](https://www.wired.com/story/alternative-browsers-built-in-ai-arc-sigmaos-brave-opera/)
+ - [Want to Store a Message in DNA? That’ll Be $1,000](https://www.wired.com/story/store-a-message-in-dna/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
