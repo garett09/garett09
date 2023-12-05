@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some people shouldn&#39;t be allowed to talk smh](http://9gag.com/gag/aBdeoA1)
- - 🚯 [True](http://9gag.com/gag/abv8E28)
- - 🚯 [My god.... its a soy..](http://9gag.com/gag/avQjDrd)<!-- MEMES:END -->
+ - 🚖 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
+ - 🚯 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
+ - 🚯 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
 
 --- 
 
