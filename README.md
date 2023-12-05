@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp updates its iOS app to let users send photos and videos in their original quality &lpar;WABetaInfo&rpar;](http://www.techmeme.com/231204/p10#a231204p10)
- - [The Rise of AI in Alternative Browsers—and What’s Next](https://www.wired.com/story/alternative-browsers-built-in-ai-arc-sigmaos-brave-opera/)
- - [Want to Store a Message in DNA? That’ll Be $1,000](https://www.wired.com/story/store-a-message-in-dna/)<!-- TECH:END -->
+ - [&#39;Wiser Than Me with Julia Louis-Dreyfus&#39; is Apple&#39;s podcast of the year](https://appleinsider.com/articles/23/12/05/wiser-than-me-with-julia-louis-dreyfus-is-apples-podcast-of-the-year?utm_medium=rss)
+ - [This Tandem Showerhead Turns Your Bathroom Into a Spa](https://www.wired.com/story/boona-showerhead-rave/)
+ - [Uber launches ‘Store Pickup’ feature for those last-minute holiday shoppers](https://www.theverge.com/2023/12/5/23988435/uber-connect-gift-delivery-package-rules)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
