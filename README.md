@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s Ampere GPUs continue to dominate Valve&#39;s monthly hardware survey, though Ada is slowly building in number](https://www.pcgamer.com/nvidias-ampere-gpus-continue-to-dominate-valves-monthly-hardware-survey-though-ada-is-slowly-building-in-number)
- - [Elgato&#39;s range of Stream Decks is handy for more than just streaming](https://www.pcgamer.com/elgatos-range-of-stream-decks-is-handy-for-more-than-just-streaming)
- - [Peter Griffin drinks the expired Fortnite slurp juice in a lore explainer, in case you were worried about Family Guy&#39;s continuity for some reason](https://www.pcgamer.com/peter-griffin-drinks-the-expired-fortnite-slurp-juice-in-a-lore-explainer-in-case-you-were-worried-about-family-guys-continuity-for-some-reason)<!-- GAME:END -->
+ - [How to exchange a gift with Mateo in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23988910/mateo-exchange-gift-location-find)
+ - [A Highland Song review](https://www.pcgamer.com/a-highland-song-review)
+ - [There&#39;s no technical reason Rockstar can give for why a PC version of GTA 6 isn&#39;t arriving with the console release](https://www.pcgamer.com/theres-no-technical-reason-rockstar-can-give-for-why-a-pc-version-of-gta-6-isnt-arriving-with-the-console-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
