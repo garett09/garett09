@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I mean math is racist, so the teacher is correct.](http://9gag.com/gag/axorKnM)
+ - 🚖 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
  - 🚯 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 🚯 [Blonde with freckle](http://9gag.com/gag/ay2KwZY)<!-- MEMES:END -->
+ - 🚯 [New football skill](http://9gag.com/gag/aYV03PO)<!-- MEMES:END -->
 
 --- 
 
