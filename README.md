@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to exchange a gift with Mateo in Pokémon Go](https://www.polygon.com/pokemon-go-guide/23988910/mateo-exchange-gift-location-find)
- - [A Highland Song review](https://www.pcgamer.com/a-highland-song-review)
- - [There&#39;s no technical reason Rockstar can give for why a PC version of GTA 6 isn&#39;t arriving with the console release](https://www.pcgamer.com/theres-no-technical-reason-rockstar-can-give-for-why-a-pc-version-of-gta-6-isnt-arriving-with-the-console-release)<!-- GAME:END -->
+ - [Warhammer 40,000: Rogue Trader review](https://www.pcgamer.com/warhammer-40000-rogue-trader-review)
+ - [Rogue Trader’s role-playing embraces the brutality and freedom of Warhammer 40K](https://www.polygon.com/23989600/rogue-trader-warhammer-40k-crpg-combat-characters-impressions)
+ - [Larian&#39;s dropped some more Baldur&#39;s Gate 3 stats, and at least 33% of you have a lot of explaining to do](https://www.pcgamer.com/larians-dropped-some-more-baldurs-gate-3-stats-and-at-least-33-of-you-have-a-lot-of-explaining-to-do)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
