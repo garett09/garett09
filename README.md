@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Wiser Than Me with Julia Louis-Dreyfus&#39; is Apple&#39;s podcast of the year](https://appleinsider.com/articles/23/12/05/wiser-than-me-with-julia-louis-dreyfus-is-apples-podcast-of-the-year?utm_medium=rss)
- - [This Tandem Showerhead Turns Your Bathroom Into a Spa](https://www.wired.com/story/boona-showerhead-rave/)
- - [Uber launches ‘Store Pickup’ feature for those last-minute holiday shoppers](https://www.theverge.com/2023/12/5/23988435/uber-connect-gift-delivery-package-rules)<!-- TECH:END -->
+ - [TikTok’s biggest hits are videos you’ve probably never seen](https://www.theverge.com/2023/12/6/23989124/tiktoks-biggest-hits-2023-viral-videos-trends-recommendation-algorithm)
+ - [The road ahead for EV adoption is made of gravel](https://www.theverge.com/23987669/ev-charging-rural-america-challenges-politics)
+ - [UK carrier EE launches broadband TV platform EE TV, to replace the BT TV service, partnering with Apple to offer an Apple TV 4K with a customized remote control &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231206/p16#a231206p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
