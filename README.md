@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Rogue Trader review](https://www.pcgamer.com/warhammer-40000-rogue-trader-review)
- - [Rogue Trader’s role-playing embraces the brutality and freedom of Warhammer 40K](https://www.polygon.com/23989600/rogue-trader-warhammer-40k-crpg-combat-characters-impressions)
- - [Larian&#39;s dropped some more Baldur&#39;s Gate 3 stats, and at least 33% of you have a lot of explaining to do](https://www.pcgamer.com/larians-dropped-some-more-baldurs-gate-3-stats-and-at-least-33-of-you-have-a-lot-of-explaining-to-do)<!-- GAME:END -->
+ - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
+ - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
+ - [GTA 6 detectives think its first trailer actually plays out in reverse—all thanks to an ankle bracelet with some grim, real-world implications](https://www.pcgamer.com/gta-6-detectives-think-its-first-trailer-actually-plays-out-in-reverseall-thanks-to-an-ankle-bracelet-with-some-grim-real-world-implications)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
