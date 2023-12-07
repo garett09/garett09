@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok’s biggest hits are videos you’ve probably never seen](https://www.theverge.com/2023/12/6/23989124/tiktoks-biggest-hits-2023-viral-videos-trends-recommendation-algorithm)
- - [The road ahead for EV adoption is made of gravel](https://www.theverge.com/23987669/ev-charging-rural-america-challenges-politics)
- - [UK carrier EE launches broadband TV platform EE TV, to replace the BT TV service, partnering with Apple to offer an Apple TV 4K with a customized remote control &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/231206/p16#a231206p16)<!-- TECH:END -->
+ - [Epic kicks off Fortnite’s new era with Lego Fortnite](https://www.theverge.com/2023/12/7/23990660/lego-fortnite-release-epic)
+ - [Apple wants to add a flashlight to future Apple Watches](https://appleinsider.com/articles/23/12/07/apple-wants-to-add-a-flashlight-to-future-apple-watches?utm_medium=rss)
+ - [Can Rock Dust Soak Up Carbon Emissions? A Giant Experiment Is Set to Find Out](https://www.wired.com/story/rock-dust-soak-up-carbon-emissions-climate-experiment/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
