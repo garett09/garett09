@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The cream of the crop](http://9gag.com/gag/aQEjbz7)
- - 🚯 [For some people, it&#39;s a cruel world...](http://9gag.com/gag/aBdezoZ)
- - 🚯 [New football skill](http://9gag.com/gag/aYV03PO)<!-- MEMES:END -->
+ - 🚖 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
+ - 🚯 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
+ - 🚯 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)<!-- MEMES:END -->
 
 --- 
 
