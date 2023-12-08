@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic kicks off Fortnite’s new era with Lego Fortnite](https://www.theverge.com/2023/12/7/23990660/lego-fortnite-release-epic)
- - [Apple wants to add a flashlight to future Apple Watches](https://appleinsider.com/articles/23/12/07/apple-wants-to-add-a-flashlight-to-future-apple-watches?utm_medium=rss)
- - [Can Rock Dust Soak Up Carbon Emissions? A Giant Experiment Is Set to Find Out](https://www.wired.com/story/rock-dust-soak-up-carbon-emissions-climate-experiment/)<!-- TECH:END -->
+ - [Belkin partners with AppleInsider to track down vintage cable for Mac users](https://appleinsider.com/articles/23/12/08/belkin-partners-with-appleinsider-to-track-down-vintage-cable-for-mac-users?utm_medium=rss)
+ - [Google’s NotebookLM Aims to Be the Ultimate Writing Assistant](https://www.wired.com/story/googles-notebooklm-ai-ultimate-writing-assistant/)
+ - [Why is Elon Musk’s Grok chatbot so unfunny?](https://www.theverge.com/2023/12/8/23992489/xai-musk-grok-humor-chatbot)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
