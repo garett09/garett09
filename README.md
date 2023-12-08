@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Because I&#39;m broke` `Understandable, have a good day`](http://9gag.com/gag/aREpnd7)
- - 🚯 [Good nights neighbors](http://9gag.com/gag/ap9MOnM)
- - 🚯 [Imagine being alive like this](http://9gag.com/gag/a4o0Xgw)<!-- MEMES:END -->
+ - 🚖 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
+ - 🚯 [Why is that](http://9gag.com/gag/aKEo4Bb)
+ - 🚯 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
 
 --- 
 
