@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Now weapon list and how to unlock new weapon types](https://www.polygon.com/monster-hunter-now-guides/23871928/weapon-list-types-unlock)
- - [Monster Hunter Now monster list](https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all)
- - [GTA 6 detectives think its first trailer actually plays out in reverse—all thanks to an ankle bracelet with some grim, real-world implications](https://www.pcgamer.com/gta-6-detectives-think-its-first-trailer-actually-plays-out-in-reverseall-thanks-to-an-ankle-bracelet-with-some-grim-real-world-implications)<!-- GAME:END -->
+ - [Cyberpunk 2077 comes full circle with Sad Keanu meme](https://www.pcgamer.com/cyberpunk-2077-comes-full-circle-with-sad-keanu-meme)
+ - [Windows 11 23H2 update reportedly slows down gaming performance for some but there does seem to be a somewhat complicated fix](https://www.pcgamer.com/windows-11-23h2-update-reportedly-slows-down-gaming-performance-for-some-but-there-does-seem-to-be-a-somewhat-complicated-fix)
+ - [Big-name celebs are fine, but Flute Guy&#39;s return to The Game Awards was the main event](https://www.pcgamer.com/big-name-celebs-are-fine-but-flute-guys-return-to-the-game-awards-was-the-main-event)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
