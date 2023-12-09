@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belkin partners with AppleInsider to track down vintage cable for Mac users](https://appleinsider.com/articles/23/12/08/belkin-partners-with-appleinsider-to-track-down-vintage-cable-for-mac-users?utm_medium=rss)
- - [Google’s NotebookLM Aims to Be the Ultimate Writing Assistant](https://www.wired.com/story/googles-notebooklm-ai-ultimate-writing-assistant/)
- - [Why is Elon Musk’s Grok chatbot so unfunny?](https://www.theverge.com/2023/12/8/23992489/xai-musk-grok-humor-chatbot)<!-- TECH:END -->
+ - [Text Blaze is the one Chrome extension I can’t live without](https://www.androidauthority.com/text-blaze-chrome-extension-3391689/)
+ - [All the Fish We Cannot See](https://www.wired.com/story/all-the-fish-we-cannot-see/)
+ - [Aventon Soltera 2 E-Bike Review: Unrivaled Features, Style for Its Price     - CNET](https://www.cnet.com/roadshow/news/aventon-soltera-2-e-bike-review-unrivaled-features-style-for-its-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
