@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 comes full circle with Sad Keanu meme](https://www.pcgamer.com/cyberpunk-2077-comes-full-circle-with-sad-keanu-meme)
- - [Windows 11 23H2 update reportedly slows down gaming performance for some but there does seem to be a somewhat complicated fix](https://www.pcgamer.com/windows-11-23h2-update-reportedly-slows-down-gaming-performance-for-some-but-there-does-seem-to-be-a-somewhat-complicated-fix)
- - [Big-name celebs are fine, but Flute Guy&#39;s return to The Game Awards was the main event](https://www.pcgamer.com/big-name-celebs-are-fine-but-flute-guys-return-to-the-game-awards-was-the-main-event)<!-- GAME:END -->
+ - [Wordle today: Hint and answer #903 for Saturday, December 9](https://www.pcgamer.com/wordle-today-answer-903-december-9)
+ - [The Finals is getting blasted on Steam for slowing the game down, except the developer says it didn&#39;t change speeds at all](https://www.pcgamer.com/the-finals-is-getting-blasted-on-steam-for-slowing-the-game-down-except-the-developer-says-it-didnt-change-speeds-at-all)
+ - [As a Rocket League purist with over 1,300 hours, I didn&#39;t expect to like its Fortnite racing spin-off so much](https://www.pcgamer.com/fortnite-rocket-racing-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
