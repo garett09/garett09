@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Harry potter deleted scene](http://9gag.com/gag/aQEW658)
- - 🚯 [Why is that](http://9gag.com/gag/aKEo4Bb)
- - 🚯 [What a mystery!](http://9gag.com/gag/aYVXjKN)<!-- MEMES:END -->
+ - 🚖 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
+ - 🚯 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
+ - 🚯 [Truth be spoken](http://9gag.com/gag/a8qxWjQ)<!-- MEMES:END -->
 
 --- 
 
