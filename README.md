@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Text Blaze is the one Chrome extension I can’t live without](https://www.androidauthority.com/text-blaze-chrome-extension-3391689/)
- - [All the Fish We Cannot See](https://www.wired.com/story/all-the-fish-we-cannot-see/)
- - [Aventon Soltera 2 E-Bike Review: Unrivaled Features, Style for Its Price     - CNET](https://www.cnet.com/roadshow/news/aventon-soltera-2-e-bike-review-unrivaled-features-style-for-its-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Boston Dynamics CTO Aaron Saunders on generative AI&#39;s role in robotics, when to expect true general-purpose robots, the humanoid form factor, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231210/p3#a231210p3)
+ - [Biophysicists Uncover Powerful Symmetries in Living Tissue](https://www.wired.com/story/biophysicists-uncover-powerful-symmetries-in-living-tissue/)
+ - [Google finally gives ChatGPT some competition](https://www.theverge.com/23993867/google-gemini-chatgpt-beeper-imessage-lego-fortnite-installer-newsletter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
