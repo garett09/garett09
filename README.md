@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
- - 🚯 [This rag smells like chloroform to you ???](http://9gag.com/gag/a3ZXv58)
- - 🚯 [Truth be spoken](http://9gag.com/gag/a8qxWjQ)<!-- MEMES:END -->
+ - 🚯 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
+ - 🚯 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)<!-- MEMES:END -->
 
 --- 
 
