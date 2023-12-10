@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #903 for Saturday, December 9](https://www.pcgamer.com/wordle-today-answer-903-december-9)
- - [The Finals is getting blasted on Steam for slowing the game down, except the developer says it didn&#39;t change speeds at all](https://www.pcgamer.com/the-finals-is-getting-blasted-on-steam-for-slowing-the-game-down-except-the-developer-says-it-didnt-change-speeds-at-all)
- - [As a Rocket League purist with over 1,300 hours, I didn&#39;t expect to like its Fortnite racing spin-off so much](https://www.pcgamer.com/fortnite-rocket-racing-impressions)<!-- GAME:END -->
+ - [Great moments in PC gaming: Nailing a full combo in your favourite rhythm game](https://www.pcgamer.com/great-moments-in-pc-gaming-nailing-a-full-combo-in-your-favourite-rhythm-game)
+ - [No Man&#39;s Sky will rerun all this year&#39;s time-limited events this December](https://www.pcgamer.com/no-mans-sky-will-rerun-all-this-years-time-limited-events-this-december)
+ - [Wordle today: Hint and answer #904 for Sunday, December 10](https://www.pcgamer.com/wordle-today-answer-904-december-10)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
