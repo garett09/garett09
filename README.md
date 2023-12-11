@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Short stories with tragic endings](http://9gag.com/gag/aDYeAEO)
- - 🚯 [More In Comments if someone is interested](http://9gag.com/gag/a3ZXdpe)
- - 🚯 [Massive death of fish in northern Japan.](http://9gag.com/gag/aWG3Qyn)<!-- MEMES:END -->
+ - 🚖 [Well umm?](http://9gag.com/gag/amA4zzv)
+ - 🚯 [Award winner reaction](http://9gag.com/gag/a6qYMoe)
+ - 🚯 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)<!-- MEMES:END -->
 
 --- 
 
