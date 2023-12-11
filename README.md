@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Boston Dynamics CTO Aaron Saunders on generative AI&#39;s role in robotics, when to expect true general-purpose robots, the humanoid form factor, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/231210/p3#a231210p3)
- - [Biophysicists Uncover Powerful Symmetries in Living Tissue](https://www.wired.com/story/biophysicists-uncover-powerful-symmetries-in-living-tissue/)
- - [Google finally gives ChatGPT some competition](https://www.theverge.com/23993867/google-gemini-chatgpt-beeper-imessage-lego-fortnite-installer-newsletter)<!-- TECH:END -->
+ - [Folding displays for iPhone &amp; MacBook Pro are the focuses of a new Samsung business group](https://appleinsider.com/articles/23/12/11/folding-displays-for-apple-is-the-focus-of-a-new-samsung-business-group?utm_medium=rss)
+ - [iPhone buyer&#39;s guide: An iPhone to match any budget in winter 2023](https://appleinsider.com/articles/23/12/11/iphone-buyers-guide-an-iphone-to-match-any-budget-in-winter-2023?utm_medium=rss)
+ - [Google Messages might let you edit texts after they’re sent](https://www.theverge.com/2023/12/11/23996579/google-messages-edit-after-sending-leaked-code)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
