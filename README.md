@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great moments in PC gaming: Nailing a full combo in your favourite rhythm game](https://www.pcgamer.com/great-moments-in-pc-gaming-nailing-a-full-combo-in-your-favourite-rhythm-game)
- - [No Man&#39;s Sky will rerun all this year&#39;s time-limited events this December](https://www.pcgamer.com/no-mans-sky-will-rerun-all-this-years-time-limited-events-this-december)
- - [Wordle today: Hint and answer #904 for Sunday, December 10](https://www.pcgamer.com/wordle-today-answer-904-december-10)<!-- GAME:END -->
+ - [No more fans: Phison&#39;s new PCIe Gen 5 controller sacrifices raw SSD speed in the name of silence](https://www.pcgamer.com/no-more-fans-phisons-new-pcie-gen-5-controller-sacrifices-raw-ssd-speed-in-the-name-of-silence)
+ - [Pokémon Go Ditto disguises list for December 2023](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)
+ - [How to get Cut Amber in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-cut-amber-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
