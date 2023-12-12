@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well umm?](http://9gag.com/gag/amA4zzv)
- - 🚯 [Award winner reaction](http://9gag.com/gag/a6qYMoe)
- - 🚯 [Post pictures of your counter argument in the comments](http://9gag.com/gag/a1P3ebD)<!-- MEMES:END -->
+ - 🚖 [If you know you know](http://9gag.com/gag/aA0zdBR)
+ - 🚯 [I saw the video an hour ago. My niece punched the bully 8 more times AFTER the bully was knocked out cold.cops have been called &amp; my sister is currently screaming at me.](http://9gag.com/gag/a9qgYbZ)
+ - 🚯 [Took a 5 minute peebreak from France to the Netherlands..](http://9gag.com/gag/aDYeovZ)<!-- MEMES:END -->
 
 --- 
 
