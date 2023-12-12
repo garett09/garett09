@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No more fans: Phison&#39;s new PCIe Gen 5 controller sacrifices raw SSD speed in the name of silence](https://www.pcgamer.com/no-more-fans-phisons-new-pcie-gen-5-controller-sacrifices-raw-ssd-speed-in-the-name-of-silence)
- - [Pokémon Go Ditto disguises list for December 2023](https://www.polygon.com/pokemon-go-guide/23648583/ditto-disguises-shiny)
- - [How to get Cut Amber in Lego Fortnite](https://www.pcgamer.com/lego-fortnite-cut-amber-location)<!-- GAME:END -->
+ - [Disney games boss acknowledges &#39;a lot of demand&#39; for Knights of the Old Republic remake, giving me my first spark of hope for the project in ages](https://www.pcgamer.com/disney-games-boss-acknowledges-a-lot-of-demand-for-knights-of-the-old-republic-remake-giving-me-my-first-spark-of-hope-for-the-project-in-ages)
+ - [&#39;This was our first big experience, sh*t happens&#39;: The Day Before&#39;s CEO is MIA, its Discord server has disintegrated, and its YouTube Channel has gone dark](https://www.pcgamer.com/this-was-our-first-big-experience-sht-happens-the-day-befores-ceo-is-mia-its-discord-server-has-disintegrated-and-its-youtube-channel-has-gone-dark)
+ - [Hideo Kojima will show off all his celebrity friends in a documentary coming to Disney+ next year](https://www.pcgamer.com/hideo-kojima-will-show-off-all-his-celebrity-friends-in-a-documentary-coming-to-disney-next-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
