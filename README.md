@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Folding displays for iPhone &amp; MacBook Pro are the focuses of a new Samsung business group](https://appleinsider.com/articles/23/12/11/folding-displays-for-apple-is-the-focus-of-a-new-samsung-business-group?utm_medium=rss)
- - [iPhone buyer&#39;s guide: An iPhone to match any budget in winter 2023](https://appleinsider.com/articles/23/12/11/iphone-buyers-guide-an-iphone-to-match-any-budget-in-winter-2023?utm_medium=rss)
- - [Google Messages might let you edit texts after they’re sent](https://www.theverge.com/2023/12/11/23996579/google-messages-edit-after-sending-leaked-code)<!-- TECH:END -->
+ - [A profile of Li Ying, a Chinese graduate who used his X account to tell the world about protests in 2022 and now lives in exile after losing his livelihood &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/231212/p15#a231212p15)
+ - [OnePlus and Xiaomi duke it out over OnePlus 12 quality control issues](https://www.androidauthority.com/oneplus-xiaomi-oneplus-12-quality-control-camera-gap-3393684/)
+ - [Panasonic&#39;s New Powder-Powered Batteries Will Supercharge EVs](https://www.wired.com/story/panasonic-powder-powered-silicone-ev-batteries/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
