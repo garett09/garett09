@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Li Ying, a Chinese graduate who used his X account to tell the world about protests in 2022 and now lives in exile after losing his livelihood &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/231212/p15#a231212p15)
- - [OnePlus and Xiaomi duke it out over OnePlus 12 quality control issues](https://www.androidauthority.com/oneplus-xiaomi-oneplus-12-quality-control-camera-gap-3393684/)
- - [Panasonic&#39;s New Powder-Powered Batteries Will Supercharge EVs](https://www.wired.com/story/panasonic-powder-powered-silicone-ev-batteries/)<!-- TECH:END -->
+ - [There might be good news for Galaxy S24 series pricing](https://www.androidauthority.com/samsung-galaxy-s24-price-rumor-3394163/)
+ - [Microsoft exec hints at free ad-supported Xbox Cloud Gaming](https://www.theverge.com/2023/12/13/23999661/microsoft-xbox-cloud-gaming-free-version-ads)
+ - [Kindle vs Kindle Paperwhite: Which one should you buy?](https://www.androidauthority.com/amazon-kindle-vs-kidle-paperwhite-3388819/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
