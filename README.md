@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spot the difference](http://9gag.com/gag/aGE41Ew)
- - 🚯 [Pink](http://9gag.com/gag/aZDOL69)
- - 🚯 [The pain The rage](http://9gag.com/gag/aDYe1qK)<!-- MEMES:END -->
+ - 🚖 [Never forget!](http://9gag.com/gag/aMEMY2X)
+ - 🚯 [The pain The rage](http://9gag.com/gag/aDYe1qK)
+ - 🚯 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
 
 --- 
 
