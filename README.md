@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There might be good news for Galaxy S24 series pricing](https://www.androidauthority.com/samsung-galaxy-s24-price-rumor-3394163/)
- - [Microsoft exec hints at free ad-supported Xbox Cloud Gaming](https://www.theverge.com/2023/12/13/23999661/microsoft-xbox-cloud-gaming-free-version-ads)
- - [Kindle vs Kindle Paperwhite: Which one should you buy?](https://www.androidauthority.com/amazon-kindle-vs-kidle-paperwhite-3388819/)<!-- TECH:END -->
+ - [What is artificial general intelligence &lpar;AGI&rpar;?](https://www.androidauthority.com/what-is-agi-artificial-general-intelligence-3394134/)
+ - [Why Deleting Carbon From the Atmosphere Is So Controversial](https://www.wired.com/story/why-deleting-carbon-from-the-atmosphere-is-so-controversial/)
+ - [LG C3 Review: The Best OLED for Most](https://www.wired.com/review/lg-c3-oled/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
