@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is artificial general intelligence &lpar;AGI&rpar;?](https://www.androidauthority.com/what-is-agi-artificial-general-intelligence-3394134/)
- - [Why Deleting Carbon From the Atmosphere Is So Controversial](https://www.wired.com/story/why-deleting-carbon-from-the-atmosphere-is-so-controversial/)
- - [LG C3 Review: The Best OLED for Most](https://www.wired.com/review/lg-c3-oled/)<!-- TECH:END -->
+ - [iOS 17.3 beta, CarPlay safety, Beeper Mini saga, and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/15/ios-173-beta-carplay-safety-beeper-mini-saga-and-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [21 Best Gifts for PC Gamers &lpar;2023&rpar;: Headsets, Desks, Monitors](https://www.wired.com/gallery/gift-ideas-for-pc-gamers/)
+ - [The Nothing Phone 2a could have a Galaxy S10 inspiration](https://www.androidauthority.com/nothing-phone-2a-design-leak-3394934/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
