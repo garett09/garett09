@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never forget!](http://9gag.com/gag/aMEMY2X)
- - 🚯 [The pain The rage](http://9gag.com/gag/aDYe1qK)
- - 🚯 [Well well well...](http://9gag.com/gag/axoq7WD)<!-- MEMES:END -->
+ - 🚖 [Hypergamy](http://9gag.com/gag/agozA8W)
+ - 🚯 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
+ - 🚯 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)<!-- MEMES:END -->
 
 --- 
 
