@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hypergamy](http://9gag.com/gag/agozA8W)
- - 🚯 [New fear unlocked. Marines soldier training](http://9gag.com/gag/agozgpK)
- - 🚯 [Dam, it&#39;s 24 years since Matrix was released](http://9gag.com/gag/az2p25K)<!-- MEMES:END -->
+ - 🚖 [This winter\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/avQKWrM)
+ - 🚯 [Disney wife](http://9gag.com/gag/agozoQq)
+ - 🚯 [Title](http://9gag.com/gag/anzPRmV)<!-- MEMES:END -->
 
 --- 
 
