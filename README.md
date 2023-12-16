@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17.3 beta, CarPlay safety, Beeper Mini saga, and more on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/15/ios-173-beta-carplay-safety-beeper-mini-saga-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [21 Best Gifts for PC Gamers &lpar;2023&rpar;: Headsets, Desks, Monitors](https://www.wired.com/gallery/gift-ideas-for-pc-gamers/)
- - [The Nothing Phone 2a could have a Galaxy S10 inspiration](https://www.androidauthority.com/nothing-phone-2a-design-leak-3394934/)<!-- TECH:END -->
+ - [My desk was a mess until I got this USB-C stand and charging station](https://www.androidauthority.com/satechi-dock-5-charging-station-review-3392906/)
+ - [Sony A95L OLED Review: Stunning Picture](https://www.wired.com/review/sony-a95l-oled/)
+ - [The Toxic Truth About Your Christmas Tree](https://www.wired.com/story/christmas-tree-toxic-truth-pollution-pesticide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
