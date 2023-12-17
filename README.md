@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This winter\ud83d\udc80\ud83d\udc80\ud83d\udc80](http://9gag.com/gag/avQKWrM)
- - 🚯 [Disney wife](http://9gag.com/gag/agozoQq)
- - 🚯 [Title](http://9gag.com/gag/anzPRmV)<!-- MEMES:END -->
+ - 🚖 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
+ - 🚯 [2 hours](http://9gag.com/gag/aYVXO30)
+ - 🚯 [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)<!-- MEMES:END -->
 
 --- 
 
