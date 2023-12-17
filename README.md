@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My desk was a mess until I got this USB-C stand and charging station](https://www.androidauthority.com/satechi-dock-5-charging-station-review-3392906/)
- - [Sony A95L OLED Review: Stunning Picture](https://www.wired.com/review/sony-a95l-oled/)
- - [The Toxic Truth About Your Christmas Tree](https://www.wired.com/story/christmas-tree-toxic-truth-pollution-pesticide/)<!-- TECH:END -->
+ - [After living with a 3-in-1 Magsafe charger for a year, there’s no going back](https://www.androidauthority.com/belkin-3-in-1-magsafe-charger-year-3393822/)
+ - [10 Best Travel Coffee Mugs &lpar;2023&rpar;: Insulated, Steel, Thermal](https://www.wired.com/gallery/best-travel-mugs/)
+ - [Work Louder Creator Board Review: An Ortholinear Keyboard](https://www.wired.com/review/work-louder-creator-board/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
