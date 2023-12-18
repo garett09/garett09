@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this salad a traditional Christmas dish in your country, and if so, what do you call it?](http://9gag.com/gag/az2pKbb)
- - 🚯 [2 hours](http://9gag.com/gag/aYVXO30)
- - 🚯 [Take a lesson, \u20actards. Stop being weak](http://9gag.com/gag/a9qg5ro)<!-- MEMES:END -->
+ - 🚖 [Title](http://9gag.com/gag/ap9ZPq8)
+ - 🚯 [He almost died](http://9gag.com/gag/a8qxeYV)
+ - 🚯 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)<!-- MEMES:END -->
 
 --- 
 
