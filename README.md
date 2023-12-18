@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After living with a 3-in-1 Magsafe charger for a year, there’s no going back](https://www.androidauthority.com/belkin-3-in-1-magsafe-charger-year-3393822/)
- - [10 Best Travel Coffee Mugs &lpar;2023&rpar;: Insulated, Steel, Thermal](https://www.wired.com/gallery/best-travel-mugs/)
- - [Work Louder Creator Board Review: An Ortholinear Keyboard](https://www.wired.com/review/work-louder-creator-board/)<!-- TECH:END -->
+ - [Adobe and Figma agree to terminate their $20B merger, announced in September 2022, after seeing &quot;no clear path&quot; to UK and EU regulatory approval &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231218/p11#a231218p11)
+ - [Adobe abandons $20 billion acquisition of Figma](https://www.theverge.com/2023/12/18/24005996/adobe-figma-acquisition-abandoned-termination-fee)
+ - [EU Investigates Elon Musk’s X for Spreading Illegal Content](https://www.wired.com/story/eu-x-twitter-illegal-content/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
