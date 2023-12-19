@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title](http://9gag.com/gag/ap9ZPq8)
- - 🚯 [He almost died](http://9gag.com/gag/a8qxeYV)
- - 🚯 [Skipper go zooom](http://9gag.com/gag/aDYeXDK)<!-- MEMES:END -->
+ - 🚖 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
+ - 🚯 [She is single btw.](http://9gag.com/gag/aBdBOxO)
+ - 🚯 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)<!-- MEMES:END -->
 
 --- 
 
