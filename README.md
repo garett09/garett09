@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe and Figma agree to terminate their $20B merger, announced in September 2022, after seeing &quot;no clear path&quot; to UK and EU regulatory approval &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/231218/p11#a231218p11)
- - [Adobe abandons $20 billion acquisition of Figma](https://www.theverge.com/2023/12/18/24005996/adobe-figma-acquisition-abandoned-termination-fee)
- - [EU Investigates Elon Musk’s X for Spreading Illegal Content](https://www.wired.com/story/eu-x-twitter-illegal-content/)<!-- TECH:END -->
+ - [The best Samsung Galaxy Z Fold 5 chargers](https://www.androidauthority.com/best-samsung-galaxy-z-fold-5-chargers-3349816/)
+ - [As NYC&#39;s $17.96+ minimum wage law for delivery apps begins, Uber and DoorDash update their apps to make tipping harder and, workers say, reduce their hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p11#a231219p11)
+ - [Two &#39;New York Times&#39; publications are coming to Apple News+](https://appleinsider.com/articles/23/12/19/apple-news-signs-up-the-athletic-sports-magazine?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
