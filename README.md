@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The education system at its finest.](http://9gag.com/gag/amA4xQV)
- - 🚯 [She is single btw.](http://9gag.com/gag/aBdBOxO)
- - 🚯 [Two tourists were arrested by the Indonesian police for refusing to pay for a nail treatment and assaulting salon workers in Bali](http://9gag.com/gag/a6qYG3e)<!-- MEMES:END -->
+ - 🚖 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
+ - 🚯 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
+ - 🚯 [Nobody is surprised](http://9gag.com/gag/aWG3R34)<!-- MEMES:END -->
 
 --- 
 
