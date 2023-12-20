@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Samsung Galaxy Z Fold 5 chargers](https://www.androidauthority.com/best-samsung-galaxy-z-fold-5-chargers-3349816/)
- - [As NYC&#39;s $17.96+ minimum wage law for delivery apps begins, Uber and DoorDash update their apps to make tipping harder and, workers say, reduce their hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/231219/p11#a231219p11)
- - [Two &#39;New York Times&#39; publications are coming to Apple News+](https://appleinsider.com/articles/23/12/19/apple-news-signs-up-the-athletic-sports-magazine?utm_medium=rss)<!-- TECH:END -->
+ - [What are your options for compact phones? Maybe Nothing.](https://www.androidauthority.com/compact-nothing-phones-3396103/)
+ - [Home Office Setup Guide &lpar;2023&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)
+ - [A First Look at Matic, the Reengineered Robot Vacuum](https://www.wired.com/story/matic-robot-vacuum-first-look/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
