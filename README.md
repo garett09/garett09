@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What are your options for compact phones? Maybe Nothing.](https://www.androidauthority.com/compact-nothing-phones-3396103/)
- - [Home Office Setup Guide &lpar;2023&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)
- - [A First Look at Matic, the Reengineered Robot Vacuum](https://www.wired.com/story/matic-robot-vacuum-first-look/)<!-- TECH:END -->
+ - [Apple isn&#39;t behind on AI, it&#39;s looking ahead to the future of smartphones](https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones?utm_medium=rss)
+ - [OPPO is my pick for the most exciting smartphone camera brand of 2023 — here’s why](https://www.androidauthority.com/oppo-best-camera-2023-3391247/)
+ - [America’s Big AI Safety Plan Faces a Budget Crunch](https://www.wired.com/story/americas-ai-safety-plan-budget-crunch/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
