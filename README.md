@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes you can&#39;t hesitate](http://9gag.com/gag/a3ZXxAv)
- - 🚯 [Arabs calling for `Sharia` &lpar;Islamic law&rpar; in UK. It&#39;s not too late to stop them!](http://9gag.com/gag/axoqApL)
- - 🚯 [Nobody is surprised](http://9gag.com/gag/aWG3R34)<!-- MEMES:END -->
+ - 🚖 [I wish you well brother! Thank you for being part of my childhood memories, wherever you are..](http://9gag.com/gag/avQKBbn)
+ - 🚯 [Women](http://9gag.com/gag/amA4Og4)
+ - 🚯 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
 
 --- 
 
