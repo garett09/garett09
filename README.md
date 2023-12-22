@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple isn&#39;t behind on AI, it&#39;s looking ahead to the future of smartphones](https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones?utm_medium=rss)
- - [OPPO is my pick for the most exciting smartphone camera brand of 2023 — here’s why](https://www.androidauthority.com/oppo-best-camera-2023-3391247/)
- - [America’s Big AI Safety Plan Faces a Budget Crunch](https://www.wired.com/story/americas-ai-safety-plan-budget-crunch/)<!-- TECH:END -->
+ - [Apple Watch ban, new CarPlay, and Beeper struggles on the AppleInsider podcast](https://appleinsider.com/articles/23/12/22/apple-watch-ban-new-carplay-and-beeper-struggles-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Revolut publishes delayed 2022 accounts, removing a hurdle in its UK banking license bid; revenue grew 45% YoY to &amp;pound;922.5M, while pretax loss grew to &amp;pound;25.4Mg2 &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/231222/p6#a231222p6)
+ - [Guava Family Roam Stroller Review &lpar;2023&rpar;: Convenient Jogging Stroller](https://www.wired.com/review/guava-roam-jogging-stroller-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
