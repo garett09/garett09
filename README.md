@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wish you well brother! Thank you for being part of my childhood memories, wherever you are..](http://9gag.com/gag/avQKBbn)
- - 🚯 [Women](http://9gag.com/gag/amA4Og4)
- - 🚯 [So, what would you do? :/](http://9gag.com/gag/aDYerPG)<!-- MEMES:END -->
+ - 🚖 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)
+ - 🚯 [Stress](http://9gag.com/gag/aVby5dP)
+ - 🚯 [Stephen? How is that tail attached?](http://9gag.com/gag/aBdBbNZ)<!-- MEMES:END -->
 
 --- 
 
