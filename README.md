@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s just nine days left before Friday the 13th: The Game disappears from sale forever](https://www.pcgamer.com/theres-just-nine-days-left-before-friday-the-13th-the-game-disappears-from-sale-forever)
- - [2024 is going to be a defining year for Final Fantasy 14, and maybe Square Enix&#39;s last chance to tackle its stagnating formula](https://www.pcgamer.com/2024-is-going-to-be-a-defining-year-for-final-fantasy-14-and-maybe-square-enixs-last-chance-to-tackle-its-stagnating-formula)
- - [Thermaltake TGM-I27FQ review](https://www.pcgamer.com/thermaltake-tgm-i27fq-gaming-monitor-review)<!-- GAME:END -->
+ - [Forget complaining about big game installs: Just the updates are over 30GB now](https://www.pcgamer.com/forget-complaining-about-big-game-installs-just-the-updates-are-over-30gb-now)
+ - [Wordle today: Hint and answer #917 for Saturday, December 23](https://www.pcgamer.com/wordle-today-answer-917-december-23)
+ - [Netflix’s Rebel Moon, the Hunger Games prequel, and every new movie to watch at home this weekend](https://www.polygon.com/2023/12/22/24006225/new-movies-watch-rebel-moon-netflix-hunger-games-songbirds-snakes-maestro-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
