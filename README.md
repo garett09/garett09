@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They will never trust that ant ever again.](http://9gag.com/gag/avQKw9Z)
- - 🚯 [Stress](http://9gag.com/gag/aVby5dP)
- - 🚯 [Stephen? How is that tail attached?](http://9gag.com/gag/aBdBbNZ)<!-- MEMES:END -->
+ - 🚖 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
+ - 🚯 [All 90s kids know this!](http://9gag.com/gag/aDYey4x)
+ - 🚯 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
 
 --- 
 
