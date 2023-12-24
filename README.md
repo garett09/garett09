@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget complaining about big game installs: Just the updates are over 30GB now](https://www.pcgamer.com/forget-complaining-about-big-game-installs-just-the-updates-are-over-30gb-now)
- - [Wordle today: Hint and answer #917 for Saturday, December 23](https://www.pcgamer.com/wordle-today-answer-917-december-23)
- - [Netflix’s Rebel Moon, the Hunger Games prequel, and every new movie to watch at home this weekend](https://www.polygon.com/2023/12/22/24006225/new-movies-watch-rebel-moon-netflix-hunger-games-songbirds-snakes-maestro-streaming)<!-- GAME:END -->
+ - [Here&#39;s how to turn Skyrim into the year&#39;s 3 biggest games with the power of mods to beat inflation and save money](https://www.pcgamer.com/heres-how-to-turn-skyrim-into-the-years-3-biggest-games-with-the-power-of-mods-to-beat-inflation-and-save-money)
+ - [Wordle today: Hint and answer #918 for Sunday, December 24](https://www.pcgamer.com/wordle-today-answer-918-december-24)
+ - [In roguelite city builder Against the Storm, failure is part of the process](https://www.polygon.com/24011415/against-the-storm-city-builder-roguelite-impression)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
