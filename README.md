@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [...so, is it true, actually people are not indebted?](http://9gag.com/gag/a8qxZdZ)
- - 🚯 [All 90s kids know this!](http://9gag.com/gag/aDYey4x)
- - 🚯 [`In this house, we obey the laws of thermodynamics!`](http://9gag.com/gag/aREqpA7)<!-- MEMES:END -->
+ - 🚖 [Nice to see people get better. Bottom right hell yeah](http://9gag.com/gag/amA4j5X)
+ - 🚯 [Thousands of undocumented migrants and liberal supporters protest in Paris after the government passed a law delaying migrants&#39; access to welfare benefits, limitations on bringing family members, introducing jail time for illegally entering and deporting criminals](http://9gag.com/gag/aGE43yz)
+ - 🚯 [Balls of steel](http://9gag.com/gag/aMEM3x1)<!-- MEMES:END -->
 
 --- 
 
