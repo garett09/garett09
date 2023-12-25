@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice to see people get better. Bottom right hell yeah](http://9gag.com/gag/amA4j5X)
- - 🚯 [Thousands of undocumented migrants and liberal supporters protest in Paris after the government passed a law delaying migrants&#39; access to welfare benefits, limitations on bringing family members, introducing jail time for illegally entering and deporting criminals](http://9gag.com/gag/aGE43yz)
- - 🚯 [Balls of steel](http://9gag.com/gag/aMEM3x1)<!-- MEMES:END -->
+ - 🚖 [As a means to fight depression I took to carpentry. This is my first piece, it ain&#39;t much but I&#39;m proud of it. Took me 2 weeks at a rather comfortable pace.](http://9gag.com/gag/aNwEyG0)
+ - 🚯 [Mourning Wood - that&#39;s a good one!](http://9gag.com/gag/aZD6bpp)
+ - 🚯 [Have you seen second coming of the kermit?](http://9gag.com/gag/a4oXp76)<!-- MEMES:END -->
 
 --- 
 
