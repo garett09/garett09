@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The most intriguing phone I tested in 2023 was the Fairphone 5](https://www.androidauthority.com/fairphone-5-most-intriguing-phone-2023-3384563/)
- - [A look at Take-Two&#39;s $12B Zynga deal in 2022, just as casual games peaked post pandemic, Apple introduced ATT, and the mobile game market headed into a downturn &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/231224/p5#a231224p5)
- - [The Tantalizing Mystery of the Solar System’s Hidden Oceans](https://www.wired.com/story/frozen-seas-solar-system/)<!-- TECH:END -->
+ - [The US is focusing on blocking North Korea&#39;s ability to launder its crypto stolen via cyberattacks, which the US thinks funds North Korea&#39;s weapons programs &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/231225/p3#a231225p3)
+ - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)
+ - [The Best TV Shows You Missed in 2023—and Where to Watch Them](https://www.wired.com/story/best-tv-shows-you-missed-in-2023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
