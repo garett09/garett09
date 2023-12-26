@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US is focusing on blocking North Korea&#39;s ability to launder its crypto stolen via cyberattacks, which the US thinks funds North Korea&#39;s weapons programs &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/231225/p3#a231225p3)
- - [How to move your data to a new iPhone 15 or iPhone 15 Pro](https://appleinsider.com/inside/iphone-14/tips/how-to-move-your-data-to-a-new-iphone-14?utm_medium=rss)
- - [The Best TV Shows You Missed in 2023—and Where to Watch Them](https://www.wired.com/story/best-tv-shows-you-missed-in-2023/)<!-- TECH:END -->
+ - [United States Apple Watch import ban has begun with no resolution in sight](https://appleinsider.com/articles/23/12/26/united-states-apple-watch-import-ban-has-begun-with-no-resolution-in-sight?utm_medium=rss)
+ - [President Biden&#39;s administration declines to veto the US ITC&#39;s decision to ban Apple Watch Series 9 and Ultra 2 imports over a Masimo patent dispute &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231226/p4#a231226p4)
+ - [Best Travel Tech Gifts: Gadgets for the Journey and the Destination     - CNET](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
