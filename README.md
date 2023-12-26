@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best of the rest of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-of-the-rest-of-2023)
- - [PC Gamer Hardware Awards: The best handheld gaming PC of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-handheld-gaming-pc-of-2023)
- - [Steam keeps on winning](https://www.pcgamer.com/steam-keeps-on-winning)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best gaming monitors of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-monitors-of-2023)
+ - [If you liked 2023&#39;s soulslikes, you should go play Sekiro: Shadows Die Twice—because they&#39;re all great tutorials to its unrivalled combat](https://www.pcgamer.com/if-you-liked-2023s-soulslikes-you-should-go-play-sekiro-shadows-die-twicebecause-theyre-all-great-tutorials-to-its-unrivalled-combat)
+ - [PC Gamer Hardware Awards: The best gaming laptops of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-laptops-of-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
