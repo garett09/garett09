@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As a means to fight depression I took to carpentry. This is my first piece, it ain&#39;t much but I&#39;m proud of it. Took me 2 weeks at a rather comfortable pace.](http://9gag.com/gag/aNwEyG0)
- - 🚯 [Mourning Wood - that&#39;s a good one!](http://9gag.com/gag/aZD6bpp)
- - 🚯 [Have you seen second coming of the kermit?](http://9gag.com/gag/a4oXp76)<!-- MEMES:END -->
+ - 🚖 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
+ - 🚯 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)
+ - 🚯 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
 
 --- 
 
