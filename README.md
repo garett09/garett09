@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [United States Apple Watch import ban has begun with no resolution in sight](https://appleinsider.com/articles/23/12/26/united-states-apple-watch-import-ban-has-begun-with-no-resolution-in-sight?utm_medium=rss)
- - [President Biden&#39;s administration declines to veto the US ITC&#39;s decision to ban Apple Watch Series 9 and Ultra 2 imports over a Masimo patent dispute &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/231226/p4#a231226p4)
- - [Best Travel Tech Gifts: Gadgets for the Journey and the Destination     - CNET](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This is the OnePlus 12R, and we wouldn’t blame you for mistaking it for another flagship](https://www.androidauthority.com/oneplus-12r-design-revealed-3397883/)
+ - [The 15 Best Movies You Missed in 2023—and Where to Watch Them](https://www.wired.com/story/best-movies-you-missed-in-2023/)
+ - [Japan plans to fine Apple over app stores and force sideloading](https://appleinsider.com/articles/23/12/26/japan-plans-to-fine-apple-over-app-stores-and-antitrust-issues?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
