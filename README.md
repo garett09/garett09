@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well pirates were disease stricken back then and so is my pc now](http://9gag.com/gag/aYV3pxO)
- - 🚯 [This is what a winning scratch-off ticket looks like](http://9gag.com/gag/aVbpj3M)
- - 🚯 [I want to believe](http://9gag.com/gag/a1PyAgD)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/aA08Yw0)
+ - 🚯 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
+ - 🚯 [Fairness](http://9gag.com/gag/a2K3NMD)<!-- MEMES:END -->
 
 --- 
 
