@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/aA08Yw0)
- - 🚯 [Mike doesn&#39;t care](http://9gag.com/gag/aVbpXGM)
- - 🚯 [Fairness](http://9gag.com/gag/a2K3NMD)<!-- MEMES:END -->
+ - 🚖 [White men race smv in Asia is massive](http://9gag.com/gag/awZE7Ky)
+ - 🚯 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
+ - 🚯 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)<!-- MEMES:END -->
 
 --- 
 
