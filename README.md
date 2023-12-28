@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best graphics card of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-graphics-card-of-2023)
- - [Long games were totally back this year, baby](https://www.pcgamer.com/long-games-were-totally-back-this-year-baby)
- - [PC Gamer Hardware Awards: The best CPUs of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-cpus-of-2023)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best motherboard of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-motherboard-of-2023)
+ - [2023 in crypto and web3: Scams, collapses, and finally some consequences](https://www.pcgamer.com/2023-in-crypto-and-web3-scams-collapses-and-finally-some-consequences)
+ - [After 2023, I&#39;ve had my fill of 100+ hour sprawling mega-games for a while](https://www.pcgamer.com/after-2023-ive-had-my-fill-of-100-hour-sprawling-mega-games-for-a-while)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
