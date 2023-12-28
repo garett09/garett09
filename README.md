@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the OnePlus 12R, and we wouldn’t blame you for mistaking it for another flagship](https://www.androidauthority.com/oneplus-12r-design-revealed-3397883/)
- - [The 15 Best Movies You Missed in 2023—and Where to Watch Them](https://www.wired.com/story/best-movies-you-missed-in-2023/)
- - [Japan plans to fine Apple over app stores and force sideloading](https://appleinsider.com/articles/23/12/26/japan-plans-to-fine-apple-over-app-stores-and-antitrust-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s May 2023 in review: Apple Vision Pro rumors, writers&#39; strikes, AirTags, and a lack of layoffs](https://appleinsider.com/articles/23/12/28/apples-may-2023-in-review-apple-vision-pro-rumors-writers-strikes-airtags-and-a-lack-of-layoffs?utm_medium=rss)
+ - [Filing shows Apple supplier Luxshare plans to buy a 62.5% stake in Pegatron&#39;s Kunshan unit in eastern China for about $300M, as it seeks to compete with Foxconn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231228/p7#a231228p7)
+ - [How to delete an Apple ID account](https://appleinsider.com/articles/21/01/04/how-to-delete-an-apple-id-account?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
