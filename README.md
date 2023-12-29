@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [White men race smv in Asia is massive](http://9gag.com/gag/awZE7Ky)
- - 🚯 [Twist his dick... &#39;olll dick-twissttt !!](http://9gag.com/gag/ap94Bd9)
- - 🚯 [He was eating someone\u2019s leftover](http://9gag.com/gag/aBdAYVQ)<!-- MEMES:END -->
+ - 🚖 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
+ - 🚯 [Life goals!](http://9gag.com/gag/ap94L7b)
+ - 🚯 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)<!-- MEMES:END -->
 
 --- 
 
