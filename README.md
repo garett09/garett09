@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s May 2023 in review: Apple Vision Pro rumors, writers&#39; strikes, AirTags, and a lack of layoffs](https://appleinsider.com/articles/23/12/28/apples-may-2023-in-review-apple-vision-pro-rumors-writers-strikes-airtags-and-a-lack-of-layoffs?utm_medium=rss)
- - [Filing shows Apple supplier Luxshare plans to buy a 62.5% stake in Pegatron&#39;s Kunshan unit in eastern China for about $300M, as it seeks to compete with Foxconn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/231228/p7#a231228p7)
- - [How to delete an Apple ID account](https://appleinsider.com/articles/21/01/04/how-to-delete-an-apple-id-account?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch returns, QR risks, and accurate 2024 predictions on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/29/apple-watch-returns-qr-risks-and-accurate-2024-predictions-on-the-appleinsider-podcast?utm_medium=rss)
+ - [CES 2024 Preview: Get Ready for a ‘Tsunami’ of AI](https://www.wired.com/story/ces-2024-preview-a-tsunami-of-ai/)
+ - [Get Ready for Tax Season With This $25 H&amp;R Block Tax Software Deal     - CNET](https://www.cnet.com/deals/get-ready-for-tax-season-with-this-25-h-r-block-tax-software-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
