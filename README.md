@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch returns, QR risks, and accurate 2024 predictions on the AppleInsider Podcast](https://appleinsider.com/articles/23/12/29/apple-watch-returns-qr-risks-and-accurate-2024-predictions-on-the-appleinsider-podcast?utm_medium=rss)
- - [CES 2024 Preview: Get Ready for a ‘Tsunami’ of AI](https://www.wired.com/story/ces-2024-preview-a-tsunami-of-ai/)
- - [Get Ready for Tax Season With This $25 H&amp;R Block Tax Software Deal     - CNET](https://www.cnet.com/deals/get-ready-for-tax-season-with-this-25-h-r-block-tax-software-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s what I learned from switching Android phones every two weeks](https://www.androidauthority.com/switching-android-phones-3392836/)
+ - [Best Fitbits &lpar;2023&rpar;: Trackers, Watches, GPS, Health](https://www.wired.com/gallery/best-fitbits/)
+ - [What Are ‘Missed Period Pills,’ and How Do They Work?](https://www.wired.com/story/missed-period-pills-menstrual-regulation-how-it-works/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
