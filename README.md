@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ackchyually...](http://9gag.com/gag/a3Z67z8)
- - 🚯 [Life goals!](http://9gag.com/gag/ap94L7b)
- - 🚯 [Send me your best. She calls him asparagus head.](http://9gag.com/gag/aPgEMPq)<!-- MEMES:END -->
+ - 🚖 [Top college recruits](http://9gag.com/gag/awZEXGB)
+ - 🚯 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
+ - 🚯 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)<!-- MEMES:END -->
 
 --- 
 
