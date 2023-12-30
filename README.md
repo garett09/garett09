@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best microphone of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-microphone-of-2023)
- - [PC Gamer Hardware Awards: The best gaming headsets of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-headsets-of-2023)
- - [Wordle today: Hint and answer #923 for Friday, December 29](https://www.pcgamer.com/wordle-today-answer-923-december-29)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best gaming keyboards of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-keyboards-of-2023)
+ - [We expected Baldur&#39;s Gate 3 to be good, but who knew it&#39;d be such a huge hit?](https://www.pcgamer.com/we-expected-baldurs-gate-3-to-be-good-but-who-knew-itd-be-such-a-huge-hit)
+ - [PC Gamer Hardware Awards: The best gaming mouse of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-mouse-of-2023)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
