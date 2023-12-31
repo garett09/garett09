@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best gaming keyboards of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-keyboards-of-2023)
- - [We expected Baldur&#39;s Gate 3 to be good, but who knew it&#39;d be such a huge hit?](https://www.pcgamer.com/we-expected-baldurs-gate-3-to-be-good-but-who-knew-itd-be-such-a-huge-hit)
- - [PC Gamer Hardware Awards: The best gaming mouse of 2023](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-mouse-of-2023)<!-- GAME:END -->
+ - [Forget alignment: Here&#39;s where Baldur&#39;s Gate 3&#39;s companions fall on the real-life political compass](https://www.pcgamer.com/forget-alignment-heres-where-baldurs-gate-3s-companions-fall-on-the-real-life-political-compass)
+ - [Wordle today: Hint and answer #925 for Sunday, December 31](https://www.pcgamer.com/wordle-today-answer-925-december-31)
+ - [Grim fantasy retro-RPG Skald: Against the Black Priory has a new demo ahead of a spring 2024 release](https://www.pcgamer.com/grim-fantasy-retro-rpg-skald-against-the-black-priory-has-a-new-demo-ahead-of-a-spring-2024-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
