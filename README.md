@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Top college recruits](http://9gag.com/gag/awZEXGB)
- - 🚯 [Security guard crashes car and starts inhaling aerosol](http://9gag.com/gag/a7qYDxe)
- - 🚯 [You&#39;ll do anything for $120?](http://9gag.com/gag/amAe5Ny)<!-- MEMES:END -->
+ - 🚖 [Hardcore fishing.](http://9gag.com/gag/a8qR393)
+ - 🚯 [Yo wtf?](http://9gag.com/gag/az2WeDb)
+ - 🚯 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)<!-- MEMES:END -->
 
 --- 
 
