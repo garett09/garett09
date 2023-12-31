@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what I learned from switching Android phones every two weeks](https://www.androidauthority.com/switching-android-phones-3392836/)
- - [Best Fitbits &lpar;2023&rpar;: Trackers, Watches, GPS, Health](https://www.wired.com/gallery/best-fitbits/)
- - [What Are ‘Missed Period Pills,’ and How Do They Work?](https://www.wired.com/story/missed-period-pills-menstrual-regulation-how-it-works/)<!-- TECH:END -->
+ - [With its emphasis on user privacy, Apple is one of the few tech companies that can develop new AI data usage paradigms, setting much-needed industry standards &lpar;Joan Westenberg&rpar;](http://www.techmeme.com/231231/p3#a231231p3)
+ - [Our picks for the 10 best new Android games in 2023](https://www.androidauthority.com/best-android-mobile-games-2023-3396520/)
+ - [Here&#39;s How Insulating Your Water Pipes Can Save You Money This Winter     - CNET](https://www.cnet.com/home/energy-and-utilities/heres-how-insulating-your-water-pipes-can-save-you-money-this-winter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
