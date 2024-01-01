@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With its emphasis on user privacy, Apple is one of the few tech companies that can develop new AI data usage paradigms, setting much-needed industry standards &lpar;Joan Westenberg&rpar;](http://www.techmeme.com/231231/p3#a231231p3)
- - [Our picks for the 10 best new Android games in 2023](https://www.androidauthority.com/best-android-mobile-games-2023-3396520/)
- - [Here&#39;s How Insulating Your Water Pipes Can Save You Money This Winter     - CNET](https://www.cnet.com/home/energy-and-utilities/heres-how-insulating-your-water-pipes-can-save-you-money-this-winter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What phones do the Android Authority team use? &lpar;2024 Edition&rpar;](https://www.androidauthority.com/android-authority-phones-2024-3396434/)
+ - [How to Back Up Your Emails in Gmail, Outlook, and iCloud](https://www.wired.com/story/how-to-back-up-email-gmail-outlook-icloud/)
+ - [Apple Watch owners receive Tim Cook responses to &#39;thank you&#39; emails](https://appleinsider.com/articles/24/01/01/apple-watch-owners-receive-tim-cook-responses-to-thank-you-emails?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
