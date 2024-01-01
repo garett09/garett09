@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hardcore fishing.](http://9gag.com/gag/a8qR393)
- - 🚯 [Yo wtf?](http://9gag.com/gag/az2WeDb)
- - 🚯 [So a province in my country has a recently elected mayor who used to do Onlyfans and even used the money from it to pay for her campaign. The name is Maria Fernanda Vargas for the curious degenerates](http://9gag.com/gag/anzm57n)<!-- MEMES:END -->
+ - 🚖 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
+ - 🚯 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
+ - 🚯 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)<!-- MEMES:END -->
 
 --- 
 
