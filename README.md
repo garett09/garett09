@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget alignment: Here&#39;s where Baldur&#39;s Gate 3&#39;s companions fall on the real-life political compass](https://www.pcgamer.com/forget-alignment-heres-where-baldurs-gate-3s-companions-fall-on-the-real-life-political-compass)
- - [Wordle today: Hint and answer #925 for Sunday, December 31](https://www.pcgamer.com/wordle-today-answer-925-december-31)
- - [Grim fantasy retro-RPG Skald: Against the Black Priory has a new demo ahead of a spring 2024 release](https://www.pcgamer.com/grim-fantasy-retro-rpg-skald-against-the-black-priory-has-a-new-demo-ahead-of-a-spring-2024-release)<!-- GAME:END -->
+ - [Every movie and show coming to Netflix in January](https://www.polygon.com/entertainment/2024/1/1/24012219/new-netflix-jan-2024-movies-tv-to-watch)
+ - [This year I&#39;m finally going to tackle my gaming backlog—please take me seriously, I have a plan and everything](https://www.pcgamer.com/this-year-im-finally-going-to-tackle-my-gaming-backlogseriously-i-have-a-plan)
+ - [The PC Gamer tech team&#39;s New Year&#39;s resolutions](https://www.pcgamer.com/the-pc-gamer-tech-teams-new-years-resolutions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
