@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every movie and show coming to Netflix in January](https://www.polygon.com/entertainment/2024/1/1/24012219/new-netflix-jan-2024-movies-tv-to-watch)
- - [This year I&#39;m finally going to tackle my gaming backlog—please take me seriously, I have a plan and everything](https://www.pcgamer.com/this-year-im-finally-going-to-tackle-my-gaming-backlogseriously-i-have-a-plan)
- - [The PC Gamer tech team&#39;s New Year&#39;s resolutions](https://www.pcgamer.com/the-pc-gamer-tech-teams-new-years-resolutions)<!-- GAME:END -->
+ - [Monster Hunter: World just hit its highest concurrent player count in over 3 years](https://www.pcgamer.com/monster-hunter-world-just-hit-its-highest-concurrent-player-count-in-over-3-years)
+ - [Starfield enters 2024 with &#39;Mostly Negative&#39; recent reviews on Steam](https://www.pcgamer.com/starfield-enters-2024-with-mostly-negative-recent-reviews-on-steam)
+ - [Wordle today: Hint and answer #927 for Tuesday, January 2](https://www.pcgamer.com/wordle-today-answer-927-january-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
