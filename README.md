@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Paris Hilton, her husband and Megamind](http://9gag.com/gag/avQMyeW)
- - 🚯 [Indian Railway staff dumping trash on the tracks from moving train](http://9gag.com/gag/ap941N9)
- - 🚯 [The grandson of the 10th U.S. president &lpar;born 1790&rpar; is still alive in 2023](http://9gag.com/gag/a7qYEnx)<!-- MEMES:END -->
+ - 🚖 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
+ - 🚯 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
+ - 🚯 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)<!-- MEMES:END -->
 
 --- 
 
