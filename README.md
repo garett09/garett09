@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What phones do the Android Authority team use? &lpar;2024 Edition&rpar;](https://www.androidauthority.com/android-authority-phones-2024-3396434/)
- - [How to Back Up Your Emails in Gmail, Outlook, and iCloud](https://www.wired.com/story/how-to-back-up-email-gmail-outlook-icloud/)
- - [Apple Watch owners receive Tim Cook responses to &#39;thank you&#39; emails](https://appleinsider.com/articles/24/01/01/apple-watch-owners-receive-tim-cook-responses-to-thank-you-emails?utm_medium=rss)<!-- TECH:END -->
+ - [To Own the Future, Read Shakespeare](https://www.wired.com/story/own-future-artificial-intelligence-read-shakespeare/)
+ - [Microsoft now says the CMA was ‘tough and fair’ over Activision Blizzard deal](https://www.theverge.com/2024/1/2/24022293/microsoft-activision-blizzard-cma-tough-fair-comments-brad-smith)
+ - [Bitcoin rises above $45K for the first time since April 2022, after gaining 156% in 2023, its best yearly performance since 2020, but far off its $69K peak &lpar;Reuters&rpar;](http://www.techmeme.com/240102/p6#a240102p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
