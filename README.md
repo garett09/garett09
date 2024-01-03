@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [To Own the Future, Read Shakespeare](https://www.wired.com/story/own-future-artificial-intelligence-read-shakespeare/)
- - [Microsoft now says the CMA was ‘tough and fair’ over Activision Blizzard deal](https://www.theverge.com/2024/1/2/24022293/microsoft-activision-blizzard-cma-tough-fair-comments-brad-smith)
- - [Bitcoin rises above $45K for the first time since April 2022, after gaining 156% in 2023, its best yearly performance since 2020, but far off its $69K peak &lpar;Reuters&rpar;](http://www.techmeme.com/240102/p6#a240102p6)<!-- TECH:END -->
+ - [16 Best Paper Planners &lpar;2024&rpar;: Weekly and Daily Planners, Pens, Stickers, and a Digital Tool](https://www.wired.com/story/best-paper-planners/)
+ - [A UK study of 7,000 people born between 2000 and 2002: 48% agreed with &quot;I think I am addicted to social media&quot;; 57% of girls agreed, compared to 37% of boys &lpar;Hannah Devlin/The Guardian&rpar;](http://www.techmeme.com/240103/p12#a240103p12)
+ - [Ugreen Nexode 4-in-1 Desktop charger review: Big power on your desk or on the road](https://appleinsider.com/articles/24/01/03/ugreen-nexode-4-in-1-desktop-charger-review-big-power-on-your-desk-or-on-the-road?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
