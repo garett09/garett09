@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At US$10,000 a gram or US$10 million a litre, Scorpion venom is the most expensive liquid in the world.](http://9gag.com/gag/abvN1qb)
- - 🚯 [Can someone translate?](http://9gag.com/gag/aVbpEMn)
- - 🚯 [Problem with WiFi](http://9gag.com/gag/aVbpvbn)<!-- MEMES:END -->
+ - 🚖 [Nope](http://9gag.com/gag/aDYK8Od)
+ - 🚯 [The exhaustion level of the participants of the French Cross Race Championship](http://9gag.com/gag/a04rXzB)
+ - 🚯 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)<!-- MEMES:END -->
 
 --- 
 
