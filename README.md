@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter: World just hit its highest concurrent player count in over 3 years](https://www.pcgamer.com/monster-hunter-world-just-hit-its-highest-concurrent-player-count-in-over-3-years)
- - [Starfield enters 2024 with &#39;Mostly Negative&#39; recent reviews on Steam](https://www.pcgamer.com/starfield-enters-2024-with-mostly-negative-recent-reviews-on-steam)
- - [Wordle today: Hint and answer #927 for Tuesday, January 2](https://www.pcgamer.com/wordle-today-answer-927-january-2)<!-- GAME:END -->
+ - [A TikToker is trying to deliberately make the worst videogame of all time—and now they&#39;re trapped in a hell of their own making](https://www.pcgamer.com/a-tiktoker-is-trying-to-deliberately-make-the-worst-videogame-of-all-timeand-now-theyre-trapped-in-a-hell-of-their-own-making)
+ - [TV maker settles fake 120Hz class action lawsuit for $3 million](https://www.pcgamer.com/tv-maker-settles-fake-120hz-class-action-lawsuit-for-dollar3-million)
+ - [&#39;We begged for more information, more details … all flatly declined&#39;: former Blizzard community development manager tears into Bobby Kotick over Overwatch 2&#39;s Steam launch](https://www.pcgamer.com/we-begged-for-more-information-more-details-all-flatly-declined-former-blizzard-community-development-manager-tears-into-bobby-kotick-over-overwatch-2s-steam-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
