@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Paper Planners &lpar;2024&rpar;: Weekly and Daily Planners, Pens, Stickers, and a Digital Tool](https://www.wired.com/story/best-paper-planners/)
- - [A UK study of 7,000 people born between 2000 and 2002: 48% agreed with &quot;I think I am addicted to social media&quot;; 57% of girls agreed, compared to 37% of boys &lpar;Hannah Devlin/The Guardian&rpar;](http://www.techmeme.com/240103/p12#a240103p12)
- - [Ugreen Nexode 4-in-1 Desktop charger review: Big power on your desk or on the road](https://appleinsider.com/articles/24/01/03/ugreen-nexode-4-in-1-desktop-charger-review-big-power-on-your-desk-or-on-the-road?utm_medium=rss)<!-- TECH:END -->
+ - [Practical Magic: VR and AR Are the Next Big Thing… Again     - CNET](https://www.cnet.com/tech/computing/practical-magic-vr-and-ar-are-the-next-big-thing-again/#ftag=CAD590a51e)
+ - [Samsung Galaxy AI: Everything We Know So Far     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-ai-on-the-galaxy-s24-everything-we-know-so-far/#ftag=CAD590a51e)
+ - [New iPhone? How to Activate a New SIM Card in 5 Easy Steps     - CNET](https://www.cnet.com/tech/mobile/new-iphone-how-to-activate-a-new-sim-card-in-5-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
