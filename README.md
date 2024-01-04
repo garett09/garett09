@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nope](http://9gag.com/gag/aDYK8Od)
- - 🚯 [The exhaustion level of the participants of the French Cross Race Championship](http://9gag.com/gag/a04rXzB)
- - 🚯 [Way to start off 2024](http://9gag.com/gag/aoKvVr0)<!-- MEMES:END -->
+ - 🚖 [This was really bad dude](http://9gag.com/gag/aqeP6Bj)
+ - 🚯 [So, there&#39;s a Prada in Marfa, Texas, middle of desert, 6hr drive from Austin/ 200miles from any main town.](http://9gag.com/gag/aA0821E)
+ - 🚯 [British family returning from France find two immigrants in their car roof box.](http://9gag.com/gag/aVbp2qP)<!-- MEMES:END -->
 
 --- 
 
