@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A TikToker is trying to deliberately make the worst videogame of all time—and now they&#39;re trapped in a hell of their own making](https://www.pcgamer.com/a-tiktoker-is-trying-to-deliberately-make-the-worst-videogame-of-all-timeand-now-theyre-trapped-in-a-hell-of-their-own-making)
- - [TV maker settles fake 120Hz class action lawsuit for $3 million](https://www.pcgamer.com/tv-maker-settles-fake-120hz-class-action-lawsuit-for-dollar3-million)
- - [&#39;We begged for more information, more details … all flatly declined&#39;: former Blizzard community development manager tears into Bobby Kotick over Overwatch 2&#39;s Steam launch](https://www.pcgamer.com/we-begged-for-more-information-more-details-all-flatly-declined-former-blizzard-community-development-manager-tears-into-bobby-kotick-over-overwatch-2s-steam-launch)<!-- GAME:END -->
+ - [A year of constant updates to Windows 11 hasn&#39;t done anything to shift people away from Windows 10](https://www.pcgamer.com/a-year-of-constant-updates-to-windows-11-hasnt-done-anything-to-shift-people-away-from-windows-10)
+ - [Fallout&#39;s co-creator may be retired—but he&#39;s still advising on The Outer Worlds 2, and how it can avoid the &#39;huge chasms&#39; of RPG design](https://www.pcgamer.com/fallouts-co-creator-may-be-retiredbut-hes-still-advising-on-the-outer-worlds-2-and-how-it-can-avoid-the-huge-chasms-of-rpg-design)
+ - [In a year of excellent remakes, too many remasters made messes of their original games](https://www.pcgamer.com/in-a-year-of-excellent-remakes-too-many-remasters-made-messes-of-their-original-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
