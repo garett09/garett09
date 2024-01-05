@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A year of constant updates to Windows 11 hasn&#39;t done anything to shift people away from Windows 10](https://www.pcgamer.com/a-year-of-constant-updates-to-windows-11-hasnt-done-anything-to-shift-people-away-from-windows-10)
- - [Fallout&#39;s co-creator may be retired—but he&#39;s still advising on The Outer Worlds 2, and how it can avoid the &#39;huge chasms&#39; of RPG design](https://www.pcgamer.com/fallouts-co-creator-may-be-retiredbut-hes-still-advising-on-the-outer-worlds-2-and-how-it-can-avoid-the-huge-chasms-of-rpg-design)
- - [In a year of excellent remakes, too many remasters made messes of their original games](https://www.pcgamer.com/in-a-year-of-excellent-remakes-too-many-remasters-made-messes-of-their-original-games)<!-- GAME:END -->
+ - [WoW&#39;s next patch drops in just under 2 weeks: game-wide dragonriding, follower dungeons, and worgens coming home](https://www.pcgamer.com/wows-next-patch-drops-in-just-under-2-weeks-game-wide-dragonriding-follower-dungeons-and-worgens-coming-home)
+ - [Wordle today: Hint and answer #930 for Friday, January 5](https://www.pcgamer.com/wordle-today-answer-930-january-5)
+ - [Jaws captures the greatness of movie-to-pinball adaptations](https://www.polygon.com/24025642/jaws-pinball-game-stern)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
