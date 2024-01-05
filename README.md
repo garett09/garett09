@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Practical Magic: VR and AR Are the Next Big Thing… Again     - CNET](https://www.cnet.com/tech/computing/practical-magic-vr-and-ar-are-the-next-big-thing-again/#ftag=CAD590a51e)
- - [Samsung Galaxy AI: Everything We Know So Far     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-ai-on-the-galaxy-s24-everything-we-know-so-far/#ftag=CAD590a51e)
- - [New iPhone? How to Activate a New SIM Card in 5 Easy Steps     - CNET](https://www.cnet.com/tech/mobile/new-iphone-how-to-activate-a-new-sim-card-in-5-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Balmuda The Brew Review: This $700 Coffee Maker Struggles to Make a Great Cup](https://www.wired.com/review/balmuda-the-brew-coffee-maker/)
+ - [Aurora finalizes design of self-driving trucks it will make with Continental](https://www.theverge.com/2024/1/5/24025239/aurora-autonomous-truck-finalize-design-continental-2027)
+ - [Enjoy talking to your new voice-controlled smart bidet](https://www.theverge.com/2024/1/5/24022366/kohler-purewash-e930-bidet-atmo-anthem-ces-2024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
