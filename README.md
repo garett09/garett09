@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Balmuda The Brew Review: This $700 Coffee Maker Struggles to Make a Great Cup](https://www.wired.com/review/balmuda-the-brew-coffee-maker/)
- - [Aurora finalizes design of self-driving trucks it will make with Continental](https://www.theverge.com/2024/1/5/24025239/aurora-autonomous-truck-finalize-design-continental-2027)
- - [Enjoy talking to your new voice-controlled smart bidet](https://www.theverge.com/2024/1/5/24022366/kohler-purewash-e930-bidet-atmo-anthem-ces-2024)<!-- TECH:END -->
+ - [After last year’s competition, foldable phones are near a tipping point in 2024](https://www.androidauthority.com/2023-foldables-competition-3398891/)
+ - [California Is Solving Its Water Problems by Flooding Its Best Farmland](https://www.wired.com/story/california-is-solving-its-water-problems-by-flooding-its-best-farmland/)
+ - [Philips Hue Secure Wired Camera Review: Works if You Love Hue](https://www.wired.com/review/philips-hue-secure-wired-camera/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
