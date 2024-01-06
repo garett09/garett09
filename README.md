@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [WoW&#39;s next patch drops in just under 2 weeks: game-wide dragonriding, follower dungeons, and worgens coming home](https://www.pcgamer.com/wows-next-patch-drops-in-just-under-2-weeks-game-wide-dragonriding-follower-dungeons-and-worgens-coming-home)
- - [Wordle today: Hint and answer #930 for Friday, January 5](https://www.pcgamer.com/wordle-today-answer-930-january-5)
- - [Jaws captures the greatness of movie-to-pinball adaptations](https://www.polygon.com/24025642/jaws-pinball-game-stern)<!-- GAME:END -->
+ - [Pokémon Go ‘Timeless Travels’ Special Research and rewards](https://www.polygon.com/pokemon-go-guide/23996844/timeless-travels-special-research-rewards)
+ - [Wordle today: Hint and answer #931 for Saturday, January 6](https://www.pcgamer.com/wordle-today-answer-931-january-6)
+ - [Pokémon Go ‘Lustrous Odyssey’ event guide](https://www.polygon.com/2024/1/5/24026881/lustrous-odyssey-event-field-research-spawns-bonuses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
