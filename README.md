@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The physics teacher meme](http://9gag.com/gag/aKEQpM3)
- - 🚯 [Gender critics believe that Daniel Radcliffe&#39;s girlfriend is transgender.](http://9gag.com/gag/amAenpv)
- - 🚯 [The law of nature](http://9gag.com/gag/aeQnWqp)<!-- MEMES:END -->
+ - 🚖 [When a Retired Veteran Soldier Play Battlefield for the first time](http://9gag.com/gag/a9qx4P0)
+ - 🚯 [Defensive formation](http://9gag.com/gag/az2WzyK)
+ - 🚯 [Sauron armor.](http://9gag.com/gag/aWGryG6)<!-- MEMES:END -->
 
 --- 
 
