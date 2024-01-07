@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After last year’s competition, foldable phones are near a tipping point in 2024](https://www.androidauthority.com/2023-foldables-competition-3398891/)
- - [California Is Solving Its Water Problems by Flooding Its Best Farmland](https://www.wired.com/story/california-is-solving-its-water-problems-by-flooding-its-best-farmland/)
- - [Philips Hue Secure Wired Camera Review: Works if You Love Hue](https://www.wired.com/review/philips-hue-secure-wired-camera/)<!-- TECH:END -->
+ - [For the first time, my Pixel wasn’t a vastly superior camera during the holidays](https://www.androidauthority.com/pixel-not-vastly-superior-camera-holidays-3399752/)
+ - [Cybex Sirona S Review &lpar;2023&rpar;: Parenthood From the Future](https://www.wired.com/review/cybex-sensorsafe-sirona-s-car-seat-review/)
+ - [During Pregnancy, the Placenta Hacks the Immune System to Protect the Fetus](https://www.wired.com/story/during-pregnancy-the-placenta-hacks-the-immune-system-to-protect-the-fetus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
