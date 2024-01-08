@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [For the first time, my Pixel wasn’t a vastly superior camera during the holidays](https://www.androidauthority.com/pixel-not-vastly-superior-camera-holidays-3399752/)
- - [Cybex Sirona S Review &lpar;2023&rpar;: Parenthood From the Future](https://www.wired.com/review/cybex-sensorsafe-sirona-s-car-seat-review/)
- - [During Pregnancy, the Placenta Hacks the Immune System to Protect the Fetus](https://www.wired.com/story/during-pregnancy-the-placenta-hacks-the-immune-system-to-protect-the-fetus/)<!-- TECH:END -->
+ - [Mophie resurrects its battery case for most of the iPhone 15 family at CES 2024](https://appleinsider.com/articles/24/01/08/mophie-resurrects-its-battery-case-most-of-the-iphone-15-family-at-ces-2024?utm_medium=rss)
+ - [Your Homey just got smarter &lpar;the smart home hub, not your friend&rpar;](https://www.androidauthority.com/homey-pro-ces-2024-updates-3400740/)
+ - [What Is Wi-Fi 7? Here’s Everything You Need to Know About the Next Wireless Standard](https://www.wired.com/story/what-is-wi-fi-7/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
