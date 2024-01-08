@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When a Retired Veteran Soldier Play Battlefield for the first time](http://9gag.com/gag/a9qx4P0)
- - 🚯 [Defensive formation](http://9gag.com/gag/az2WzyK)
- - 🚯 [Sauron armor.](http://9gag.com/gag/aWGryG6)<!-- MEMES:END -->
+ - 🚖 [That laugh tho...](http://9gag.com/gag/aXny3bP)
+ - 🚯 [They are soulmates](http://9gag.com/gag/aVbp6jP)
+ - 🚯 [Guys only want one thing and it&#39;s awesome](http://9gag.com/gag/a04rDRd)<!-- MEMES:END -->
 
 --- 
 
