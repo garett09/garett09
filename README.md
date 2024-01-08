@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #932 for Sunday, January 7](https://www.pcgamer.com/wordle-today-answer-932-january-7)
- - [Farming adventure Tales of Seikyu invites you to entertain monsters in your inn, and become one](https://www.pcgamer.com/farming-adventure-tales-of-seikyu-invites-you-to-entertain-monsters-in-your-inn-and-become-one)
- - [Prince of Persia: The Lost Crown system requirements are pleasingly low](https://www.pcgamer.com/prince-of-persia-the-lost-crown-system-requirements-are-pleasingly-low)<!-- GAME:END -->
+ - [Final Fantasy 14: Dawntrail&#39;s second-half rugpull into cyberpunk glory has me hyped for its story again](https://www.pcgamer.com/final-fantasy-14-dawntrails-second-half-rugpull-into-cyberpunk-glory-has-me-hyped-for-its-story-again)
+ - [Larian CEO and founder Swen Vincke thinks he&#39;s cracked the first act of his next game, but &#39;it&#39;s not what you think and this is not an teaser for an announcement&#39;](https://www.pcgamer.com/larian-ceo-and-founder-swen-vincke-thinks-hes-cracked-the-first-act-of-his-next-game-but-its-not-what-you-think-and-this-is-not-an-teaser-for-an-announcement)
+ - [No surprises here: Succession, Oppenheimer, The Bear dominate 2024 Golden Globes](https://www.polygon.com/24029622/golden-globes-2024-complete-winners-nominee-list-succession-oppenheimer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
