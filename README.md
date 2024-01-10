@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mophie resurrects its battery case for most of the iPhone 15 family at CES 2024](https://appleinsider.com/articles/24/01/08/mophie-resurrects-its-battery-case-most-of-the-iphone-15-family-at-ces-2024?utm_medium=rss)
- - [Your Homey just got smarter &lpar;the smart home hub, not your friend&rpar;](https://www.androidauthority.com/homey-pro-ces-2024-updates-3400740/)
- - [What Is Wi-Fi 7? Here’s Everything You Need to Know About the Next Wireless Standard](https://www.wired.com/story/what-is-wi-fi-7/)<!-- TECH:END -->
+ - [With half of the world&#39;s adults set to vote in 2024, the WEF&#39;s Global Risks Report 2024 ranks AI mis- and disinformation ahead of war, climate change, and more &lpar;Karen Gilchrist/CNBC&rpar;](http://www.techmeme.com/240110/p19#a240110p19)
+ - [Apple removes nine cryptocurrency apps from India App Store](https://appleinsider.com/articles/24/01/10/apple-removes-nine-cryptocurrency-apps-from-india-app-store?utm_medium=rss)
+ - [Why Humans Are Putting a Bunch of ‘Coal’ and ‘Oil’ Back in the Ground](https://www.wired.com/story/why-humans-are-putting-a-bunch-of-coal-and-oil-back-in-the-ground/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
