@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That laugh tho...](http://9gag.com/gag/aXny3bP)
- - 🚯 [They are soulmates](http://9gag.com/gag/aVbp6jP)
- - 🚯 [Guys only want one thing and it&#39;s awesome](http://9gag.com/gag/a04rDRd)<!-- MEMES:END -->
+ - 🚖 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
+ - 🚯 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
+ - 🚯 [Terrifying](http://9gag.com/gag/avQMMNM)<!-- MEMES:END -->
 
 --- 
 
