@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14: Dawntrail&#39;s second-half rugpull into cyberpunk glory has me hyped for its story again](https://www.pcgamer.com/final-fantasy-14-dawntrails-second-half-rugpull-into-cyberpunk-glory-has-me-hyped-for-its-story-again)
- - [Larian CEO and founder Swen Vincke thinks he&#39;s cracked the first act of his next game, but &#39;it&#39;s not what you think and this is not an teaser for an announcement&#39;](https://www.pcgamer.com/larian-ceo-and-founder-swen-vincke-thinks-hes-cracked-the-first-act-of-his-next-game-but-its-not-what-you-think-and-this-is-not-an-teaser-for-an-announcement)
- - [No surprises here: Succession, Oppenheimer, The Bear dominate 2024 Golden Globes](https://www.polygon.com/24029622/golden-globes-2024-complete-winners-nominee-list-succession-oppenheimer)<!-- GAME:END -->
+ - [I know I&#39;m not alone in thinking Thermaltake&#39;s RGB DDR5 memory looks way better without RGB](https://www.pcgamer.com/i-know-im-not-alone-in-thinking-thermaltakes-rgb-ddr5-memory-looks-way-better-without-rgb)
+ - [You can get 25 Call of Cthulhu books for around $25 in this latest Humble Bundle—including the Starter Set, a deck of monster cards, and a colouring book](https://www.pcgamer.com/you-can-get-25-call-of-cthulhu-books-for-around-dollar25-in-this-latest-humble-bundleincluding-the-starter-set-a-deck-of-monster-cards-and-a-colouring-book)
+ - [Community-voted tier sets are coming to WoW: Dragonflight, letting players decide the mix-and-matched bonuses and style for its Season 4 wind-down](https://www.pcgamer.com/community-voted-tier-sets-are-coming-to-wow-dragonflight-letting-players-decide-the-mix-and-matched-bonuses-and-style-for-its-season-4-wind-down)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
