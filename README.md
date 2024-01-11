@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I know I&#39;m not alone in thinking Thermaltake&#39;s RGB DDR5 memory looks way better without RGB](https://www.pcgamer.com/i-know-im-not-alone-in-thinking-thermaltakes-rgb-ddr5-memory-looks-way-better-without-rgb)
- - [You can get 25 Call of Cthulhu books for around $25 in this latest Humble Bundle—including the Starter Set, a deck of monster cards, and a colouring book](https://www.pcgamer.com/you-can-get-25-call-of-cthulhu-books-for-around-dollar25-in-this-latest-humble-bundleincluding-the-starter-set-a-deck-of-monster-cards-and-a-colouring-book)
- - [Community-voted tier sets are coming to WoW: Dragonflight, letting players decide the mix-and-matched bonuses and style for its Season 4 wind-down](https://www.pcgamer.com/community-voted-tier-sets-are-coming-to-wow-dragonflight-letting-players-decide-the-mix-and-matched-bonuses-and-style-for-its-season-4-wind-down)<!-- GAME:END -->
+ - [Momodora: Moonlit Farewell is a charming metroidvania about defending a village with your fellow magical girls via the power of friendship and a big leaf](https://www.pcgamer.com/momodora-moonlit-farewell-is-a-charming-metroidvania-about-defending-a-village-with-your-fellow-magical-girls-via-the-power-of-friendship-and-a-big-leaf)
+ - [XGIMI Horizon Ultra review](https://www.pcgamer.com/xgimi-horizon-ultra-4k-projector-review)
+ - [Dell founder says calm down about SHODAN-style sentient AI because &#39;you remember the ozone layer and all&#39; and we fixed that](https://www.pcgamer.com/dell-founder-says-calm-down-about-shodan-style-sentient-ai-because-you-remember-the-ozone-layer-and-all-and-we-fixed-that)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
