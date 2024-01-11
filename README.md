@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some Italian fellas? What&#39;s going on in Rome?](http://9gag.com/gag/abvN7LO)
- - 🚯 [NYC Police found a bizarre underground tunnel beneath a synagogue. They had been digging it for a year.](http://9gag.com/gag/aNw7xmw)
- - 🚯 [Terrifying](http://9gag.com/gag/avQMMNM)<!-- MEMES:END -->
+ - 🚖 [WTF](http://9gag.com/gag/aPgEOvR)
+ - 🚯 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
+ - 🚯 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)<!-- MEMES:END -->
 
 --- 
 
