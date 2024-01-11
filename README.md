@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With half of the world&#39;s adults set to vote in 2024, the WEF&#39;s Global Risks Report 2024 ranks AI mis- and disinformation ahead of war, climate change, and more &lpar;Karen Gilchrist/CNBC&rpar;](http://www.techmeme.com/240110/p19#a240110p19)
- - [Apple removes nine cryptocurrency apps from India App Store](https://appleinsider.com/articles/24/01/10/apple-removes-nine-cryptocurrency-apps-from-india-app-store?utm_medium=rss)
- - [Why Humans Are Putting a Bunch of ‘Coal’ and ‘Oil’ Back in the Ground](https://www.wired.com/story/why-humans-are-putting-a-bunch-of-coal-and-oil-back-in-the-ground/)<!-- TECH:END -->
+ - [All the CES Trends That Mattered](https://www.wired.com/story/gadget-lab-podcast-628/)
+ - [POCO X6 series launched: 512GB phones for well under $400](https://www.androidauthority.com/poco-x6-series-3401284/)
+ - [After spending $13M+ on US lobbying in the past decade, Huawei quietly shutters its in-house lobbying operation, ending an effort to overturn the US bans &lpar;Bloomberg&rpar;](http://www.techmeme.com/240111/p16#a240111p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
