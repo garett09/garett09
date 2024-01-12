@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Momodora: Moonlit Farewell is a charming metroidvania about defending a village with your fellow magical girls via the power of friendship and a big leaf](https://www.pcgamer.com/momodora-moonlit-farewell-is-a-charming-metroidvania-about-defending-a-village-with-your-fellow-magical-girls-via-the-power-of-friendship-and-a-big-leaf)
- - [XGIMI Horizon Ultra review](https://www.pcgamer.com/xgimi-horizon-ultra-4k-projector-review)
- - [Dell founder says calm down about SHODAN-style sentient AI because &#39;you remember the ozone layer and all&#39; and we fixed that](https://www.pcgamer.com/dell-founder-says-calm-down-about-shodan-style-sentient-ai-because-you-remember-the-ozone-layer-and-all-and-we-fixed-that)<!-- GAME:END -->
+ - [Next-generation batteries may be coming faster than you think, thanks to an AI helping hand](https://www.pcgamer.com/next-generation-batteries-may-be-coming-faster-than-you-think-thanks-to-an-ai-helping-hand)
+ - [Minecraft Legends goes into maintenance mode 9 months after release, as devs announce they&#39;re &#39;going to take a step back from development&#39;](https://www.pcgamer.com/minecraft-legends-goes-into-maintenance-mode-9-months-after-release-as-devs-announce-theyre-going-to-take-a-step-back-from-development)
+ - [Here&#39;s how to watch the Diablo 4 Season 3 announcement livestream](https://www.pcgamer.com/diablo-4-season-3-livestream-campfire-chat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
