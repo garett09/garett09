@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF](http://9gag.com/gag/aPgEOvR)
- - 🚯 [Someone in a hurry to cover up all the evidence?](http://9gag.com/gag/a5XOL3L)
- - 🚯 [Getting a facial massage](http://9gag.com/gag/aVbpGdw)<!-- MEMES:END -->
+ - 🚖 [Got anyone of u more of this?](http://9gag.com/gag/aoKXZVw)
+ - 🚯 [I guess she was better without an American citizenship](http://9gag.com/gag/anz6XPz)
+ - 🚯 [War in Yemen incoming.](http://9gag.com/gag/ay2G0Yp)<!-- MEMES:END -->
 
 --- 
 
