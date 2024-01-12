@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the CES Trends That Mattered](https://www.wired.com/story/gadget-lab-podcast-628/)
- - [POCO X6 series launched: 512GB phones for well under $400](https://www.androidauthority.com/poco-x6-series-3401284/)
- - [After spending $13M+ on US lobbying in the past decade, Huawei quietly shutters its in-house lobbying operation, ending an effort to overturn the US bans &lpar;Bloomberg&rpar;](http://www.techmeme.com/240111/p16#a240111p16)<!-- TECH:END -->
+ - [This might be the year of the smart ring](https://www.theverge.com/2024/1/12/24034978/smart-ring-oura-ring-evie-ring-zepp-helio-ces-2024)
+ - [Snoopy and &#39;Fraggle Rock&#39; are back for the new year on Apple TV+](https://appleinsider.com/articles/24/01/12/snoopy-and-fraggle-rock-are-back-for-the-new-year-on-apple-tv?utm_medium=rss)
+ - [Norway’s Deep-Sea Mining Decision Is a Warning](https://www.wired.com/story/norway-deep-sea-mining-arctic-svalbard-batteries-environment/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
