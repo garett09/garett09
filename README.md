@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Got anyone of u more of this?](http://9gag.com/gag/aoKXZVw)
- - 🚯 [I guess she was better without an American citizenship](http://9gag.com/gag/anz6XPz)
- - 🚯 [War in Yemen incoming.](http://9gag.com/gag/ay2G0Yp)<!-- MEMES:END -->
+ - 🚖 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)
+ - 🚯 [Share with me your best wallpaper for a phone, please](http://9gag.com/gag/armYeAp)
+ - 🚯 [DO NOT THE CAT](http://9gag.com/gag/aZDeN29)<!-- MEMES:END -->
 
 --- 
 
