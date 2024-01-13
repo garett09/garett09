@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next-generation batteries may be coming faster than you think, thanks to an AI helping hand](https://www.pcgamer.com/next-generation-batteries-may-be-coming-faster-than-you-think-thanks-to-an-ai-helping-hand)
- - [Minecraft Legends goes into maintenance mode 9 months after release, as devs announce they&#39;re &#39;going to take a step back from development&#39;](https://www.pcgamer.com/minecraft-legends-goes-into-maintenance-mode-9-months-after-release-as-devs-announce-theyre-going-to-take-a-step-back-from-development)
- - [Here&#39;s how to watch the Diablo 4 Season 3 announcement livestream](https://www.pcgamer.com/diablo-4-season-3-livestream-campfire-chat)<!-- GAME:END -->
+ - [What time does FFXIV patch 6.55 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24035979/what-time-patch-6-55-launch-maintenance-end)
+ - [Wordle today: Hint and answer #938 for Saturday, January 13](https://www.pcgamer.com/wordle-today-answer-938-january-13)
+ - [Blizzard is taking a sledgehammer to the way Overwatch 2 is played by letting everyone heal themselves](https://www.pcgamer.com/blizzard-is-taking-a-sledgehammer-to-the-way-overwatch-2-is-played-by-letting-everyone-heal-themselves)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
