@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This might be the year of the smart ring](https://www.theverge.com/2024/1/12/24034978/smart-ring-oura-ring-evie-ring-zepp-helio-ces-2024)
- - [Snoopy and &#39;Fraggle Rock&#39; are back for the new year on Apple TV+](https://appleinsider.com/articles/24/01/12/snoopy-and-fraggle-rock-are-back-for-the-new-year-on-apple-tv?utm_medium=rss)
- - [Norway’s Deep-Sea Mining Decision Is a Warning](https://www.wired.com/story/norway-deep-sea-mining-arctic-svalbard-batteries-environment/)<!-- TECH:END -->
+ - [This retractable USB-C cable is my favorite charging cable now](https://www.androidauthority.com/baseus-100w-retractable-usb-c-cable-review-3395273/)
+ - [A Mountain of Used Clothes Appeared in Chile’s Desert. Then It Went Up in Flames](https://www.wired.com/story/fashion-disposal-environment/)
+ - [Are Transparent TVs the Next Big Thing?     - CNET](https://www.cnet.com/tech/home-entertainment/are-transparent-tvs-the-next-big-thing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
