@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Screaming like a little girl won&#39;t help you princess..](http://9gag.com/gag/az2nV1j)
- - 🚯 [Share with me your best wallpaper for a phone, please](http://9gag.com/gag/armYeAp)
- - 🚯 [DO NOT THE CAT](http://9gag.com/gag/aZDeN29)<!-- MEMES:END -->
+ - 🚖 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)
+ - 🚯 [Down with the system](http://9gag.com/gag/aeQLeGB)
+ - 🚯 [Werewolf](http://9gag.com/gag/aZDeMGW)<!-- MEMES:END -->
 
 --- 
 
