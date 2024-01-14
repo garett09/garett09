@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This retractable USB-C cable is my favorite charging cable now](https://www.androidauthority.com/baseus-100w-retractable-usb-c-cable-review-3395273/)
- - [A Mountain of Used Clothes Appeared in Chile’s Desert. Then It Went Up in Flames](https://www.wired.com/story/fashion-disposal-environment/)
- - [Are Transparent TVs the Next Big Thing?     - CNET](https://www.cnet.com/tech/home-entertainment/are-transparent-tvs-the-next-big-thing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple offers Austin relocation to 121 San Diego employees in office closure](https://appleinsider.com/articles/24/01/14/apple-offers-austin-relocation-to-121-san-diego-employees-in-office-closure?utm_medium=rss)
+ - [Unpicking the Mystery of the Body’s ‘Second Brain’](https://www.wired.com/story/gut-second-brain-health-glial-cells-digestion-disease-pain/)
+ - [’Tis the season for AI apps and AI gadgets](https://www.theverge.com/2024/1/14/24036403/rabbit-r1-gpt-store-true-detective-ballie-ces-2024-installer-newsletter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
