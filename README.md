@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Plz upload funniest Anti and Pro Trump memes..... Doens&#39;t need to offensive only.](http://9gag.com/gag/aeQLY9B)
- - 🚯 [Down with the system](http://9gag.com/gag/aeQLeGB)
- - 🚯 [Werewolf](http://9gag.com/gag/aZDeMGW)<!-- MEMES:END -->
+ - 🚖 [That meek `Sorry` at the end...](http://9gag.com/gag/amA3BgV)
+ - 🚯 [What is happening to our brains?](http://9gag.com/gag/a1P9ReY)
+ - 🚯 [Yemen special forces are ready to face the United States and Israel! Can someone please explain which combat situation requires that skill?!](http://9gag.com/gag/aGEXZGn)<!-- MEMES:END -->
 
 --- 
 
