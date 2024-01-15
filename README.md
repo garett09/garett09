@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: Hint and answer #939 for Sunday, January 14](https://www.pcgamer.com/wordle-today-answer-939-january-14)
- - [Spinoff of cute little Factory Town turns it into a sprawling spreadsheet exercise](https://www.pcgamer.com/spinoff-of-cute-little-factory-town-turns-it-into-a-sprawling-spreadsheet-exercise)
- - [Sins of the Flesh, Cult of the Lamb&#39;s &#39;sex update&#39;, is coming out this month](https://www.pcgamer.com/sins-of-the-flesh-cult-of-the-lambs-sex-update-is-coming-out-this-month)<!-- GAME:END -->
+ - [Analysts are calling 2023&#39;s decline in PC shipments &#39;unparalleled in the industry&#39;s recorded history&#39; but suggest the only way now is up](https://www.pcgamer.com/analysts-are-calling-2023s-decline-in-pc-shipments-unparalleled-in-the-industrys-recorded-history-but-suggest-the-only-way-now-is-up)
+ - [How to help The Deserter in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-deserter-quest)
+ - [How to solve the Sacred Archive time puzzles in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-sacred-archive-puzzle-secret-room)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
