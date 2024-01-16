@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [French IT group Atos names Paul Saleh as CEO, its fourth in under two years, and forecasts H2 2024 cash flow below targets; stock drops 12%+, down ~40% in 2024 &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/240115/p7#a240115p7)
- - [How to Launch a Custom Chatbot on OpenAI’s GPT Store](https://www.wired.com/story/how-to-launch-custom-chatbot-openai-gpt-store/)
- - [Google follows Apple in pulling crypto apps in India](https://appleinsider.com/articles/24/01/15/google-follows-apple-in-pulling-crypto-apps-in-india?utm_medium=rss)<!-- TECH:END -->
+ - [Google quietly updates Chrome’s incognito warning in wake of tracking lawsuit](https://www.theverge.com/2024/1/16/24039883/google-incognito-mode-tracking-lawsuit-notice-change)
+ - [Adobe’s new AI-powered Premiere Pro features eradicate boring audio editing tasks](https://www.theverge.com/2024/1/16/24038747/adobe-premiere-pro-beta-ai-audio-editing-features-interactive-badges)
+ - [Apple says it can take pulse oximetry out of Apple Watch -- but shouldn&#39;t have to](https://appleinsider.com/articles/24/01/16/apple-says-it-can-take-pulse-oximetry-out-of-apple-watch----but-shouldnt-have-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
