@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Analysts are calling 2023&#39;s decline in PC shipments &#39;unparalleled in the industry&#39;s recorded history&#39; but suggest the only way now is up](https://www.pcgamer.com/analysts-are-calling-2023s-decline-in-pc-shipments-unparalleled-in-the-industrys-recorded-history-but-suggest-the-only-way-now-is-up)
- - [How to help The Deserter in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-deserter-quest)
- - [How to solve the Sacred Archive time puzzles in Prince of Persia: The Lost Crown](https://www.pcgamer.com/prince-of-persia-the-lost-crown-sacred-archive-puzzle-secret-room)<!-- GAME:END -->
+ - [This actual anime VR high school where you&#39;ll be able to get proper qualifications is the first metaverse-based project that makes any kind of sense to me](https://www.pcgamer.com/this-actual-anime-vr-high-school-where-youll-be-able-to-get-proper-qualifications-is-the-first-metaverse-based-project-that-makes-any-kind-of-sense-to-me)
+ - [Persona 3 Reload: How Atlus Reimagined a Classic RPG](https://news.xbox.com/en-us/2024/01/16/persona-3-reload-how-atlus-reimagined-a-classic-rpg/)
+ - [Hands-On: Persona 3 Reload Fixes One Of The Original’s Greatest Sins](https://kotaku.com/persona-3-reload-demo-akihiko-junpei-social-link-1851160706)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
