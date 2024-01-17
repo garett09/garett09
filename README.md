@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This actual anime VR high school where you&#39;ll be able to get proper qualifications is the first metaverse-based project that makes any kind of sense to me](https://www.pcgamer.com/this-actual-anime-vr-high-school-where-youll-be-able-to-get-proper-qualifications-is-the-first-metaverse-based-project-that-makes-any-kind-of-sense-to-me)
- - [Persona 3 Reload: How Atlus Reimagined a Classic RPG](https://news.xbox.com/en-us/2024/01/16/persona-3-reload-how-atlus-reimagined-a-classic-rpg/)
- - [Hands-On: Persona 3 Reload Fixes One Of The Original’s Greatest Sins](https://kotaku.com/persona-3-reload-demo-akihiko-junpei-social-link-1851160706)<!-- GAME:END -->
+ - [10 of the most no-good, upsetting frogs in gaming—from Dark Souls nightmares to Larian&#39;s amphibious freaks](https://www.pcgamer.com/10-of-the-most-no-good-upsetting-frogs-in-gamingfrom-dark-souls-nightmares-to-larians-amphibious-freaks)
+ - [Elden Ring&#39;s friendly dog actually wants to rip you to shreds](https://www.pcgamer.com/elden-rings-friendly-dog-actually-wants-to-rip-you-to-shreds)
+ - [Someone made &#39;Probably the biggest map ever in videogame history&#39; in Garry&#39;s Mod, a multiverse octillions of kilometres wide that&#39;s half-magic, half-maths, and wholly mind-boggling](https://www.pcgamer.com/someone-made-probably-the-biggest-map-ever-in-videogame-history-in-garrys-mod-a-multiverse-octillions-of-kilometres-wide-thats-half-magic-half-maths-and-wholly-mind-boggling)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
