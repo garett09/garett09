@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a waste](http://9gag.com/gag/aVbAYAv)
- - 🚯 [They are thinking that she&#39;s Ladesh](http://9gag.com/gag/aKERjRQ)
- - 🚯 [Clown world](http://9gag.com/gag/aMEgxN1)<!-- MEMES:END -->
+ - 🚖 [Dating experiment](http://9gag.com/gag/aMEgx7X)
+ - 🚯 [Mans duty](http://9gag.com/gag/aGEXEmG)
+ - 🚯 [A contrast between two dates](http://9gag.com/gag/aDYy4GB)<!-- MEMES:END -->
 
 --- 
 
