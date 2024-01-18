@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dating experiment](http://9gag.com/gag/aMEgx7X)
- - 🚯 [Mans duty](http://9gag.com/gag/aGEXEmG)
- - 🚯 [A contrast between two dates](http://9gag.com/gag/aDYy4GB)<!-- MEMES:END -->
+ - 🚖 [She is alright](http://9gag.com/gag/aeQLg55)
+ - 🚯 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)
+ - 🚯 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)<!-- MEMES:END -->
 
 --- 
 
