@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 of the most no-good, upsetting frogs in gaming—from Dark Souls nightmares to Larian&#39;s amphibious freaks](https://www.pcgamer.com/10-of-the-most-no-good-upsetting-frogs-in-gamingfrom-dark-souls-nightmares-to-larians-amphibious-freaks)
- - [Elden Ring&#39;s friendly dog actually wants to rip you to shreds](https://www.pcgamer.com/elden-rings-friendly-dog-actually-wants-to-rip-you-to-shreds)
- - [Someone made &#39;Probably the biggest map ever in videogame history&#39; in Garry&#39;s Mod, a multiverse octillions of kilometres wide that&#39;s half-magic, half-maths, and wholly mind-boggling](https://www.pcgamer.com/someone-made-probably-the-biggest-map-ever-in-videogame-history-in-garrys-mod-a-multiverse-octillions-of-kilometres-wide-thats-half-magic-half-maths-and-wholly-mind-boggling)<!-- GAME:END -->
+ - [Tekken 8 promises to change accessibility options after potentially dangerous filters that &#39;may hospitalise players&#39; were discovered](https://www.pcgamer.com/tekken-8-promises-to-change-accessibility-options-after-potentially-dangerous-filters-that-may-hospitalise-players-were-discovered)
+ - [An ex-D&amp;D designer has made a stat block for Elden Ring&#39;s hardest fight, in case you wanted to punish your players with Malenia&#39;s scarlet rot](https://www.pcgamer.com/an-ex-dandd-designer-has-made-a-stat-block-for-elden-rings-hardest-fight-in-case-you-wanted-to-punish-your-players-with-malenias-scarlet-rot)
+ - [Running 8GB of RAM? Now&#39;s the time to upgrade, as Microsoft seems set to make 16GB the minimum for AI PCs and Copilot](https://www.pcgamer.com/running-8gb-of-ram-nows-the-time-to-upgrade-as-microsoft-seems-set-to-make-16gb-the-minimum-for-ai-pcs-and-copilot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
