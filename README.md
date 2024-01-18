@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple profits rise 550% in South Korea](https://appleinsider.com/articles/24/01/17/apple-profits-rise-550-in-south-korea?utm_medium=rss)
- - [Filing: Apple seeks $73.4M in legal fees from Epic, including a 10% discount since Epic prevailed on one of 10 counts, after SCOTUS declined to hear the appeals &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240117/p13#a240117p13)
- - [Scotland-based game studio Build a Rocket Boy raised a $110M Series D ahead of the much-anticipated launch of its first titles and immersive open world platform &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240117/p12#a240117p12)<!-- TECH:END -->
+ - [Sources: Reddit has drawn up detailed IPO plans to launch in March 2024, with a public filing in late February, the first major social media IPO since Pinterest &lpar;Reuters&rpar;](http://www.techmeme.com/240118/p16#a240118p16)
+ - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)
+ - [Interview: TCL CSOT’s Zhao Jun talks the future of display technology at CES 2024](https://www.androidauthority.com/interview-tcl-csot-ceo-zhao-jun-ces-2024-3404950/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
