@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Reddit has drawn up detailed IPO plans to launch in March 2024, with a public filing in late February, the first major social media IPO since Pinterest &lpar;Reuters&rpar;](http://www.techmeme.com/240118/p16#a240118p16)
- - [The Rabbit R1: all the latest news about this hare-raising AI gadget](https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream)
- - [Interview: TCL CSOT’s Zhao Jun talks the future of display technology at CES 2024](https://www.androidauthority.com/interview-tcl-csot-ceo-zhao-jun-ces-2024-3404950/)<!-- TECH:END -->
+ - [Apple Vision Pro storage and AppleCare prices revealed](https://appleinsider.com/articles/24/01/19/apple-vision-pro-storage-and-applecare-prices-revealed?utm_medium=rss)
+ - [The CAC&#39;s scrutiny of Shein, which has never sold products in China and moved its global HQs to Singapore in 2021, shows the long reach of Chinese regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/240119/p9#a240119p9)
+ - [Apple Vision Pro preorders have started online, deliveries begin Feb. 2](https://appleinsider.com/articles/24/01/19/apple-vision-pro-preorders-have-started-online-deliveries-begin-feb-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
