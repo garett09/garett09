@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 8 promises to change accessibility options after potentially dangerous filters that &#39;may hospitalise players&#39; were discovered](https://www.pcgamer.com/tekken-8-promises-to-change-accessibility-options-after-potentially-dangerous-filters-that-may-hospitalise-players-were-discovered)
- - [An ex-D&amp;D designer has made a stat block for Elden Ring&#39;s hardest fight, in case you wanted to punish your players with Malenia&#39;s scarlet rot](https://www.pcgamer.com/an-ex-dandd-designer-has-made-a-stat-block-for-elden-rings-hardest-fight-in-case-you-wanted-to-punish-your-players-with-malenias-scarlet-rot)
- - [Running 8GB of RAM? Now&#39;s the time to upgrade, as Microsoft seems set to make 16GB the minimum for AI PCs and Copilot](https://www.pcgamer.com/running-8gb-of-ram-nows-the-time-to-upgrade-as-microsoft-seems-set-to-make-16gb-the-minimum-for-ai-pcs-and-copilot)<!-- GAME:END -->
+ - [How to hatch Pal eggs in Palworld](https://www.pcgamer.com/palworld-eggs-incubator)
+ - [Starfield&#39;s &#39;biggest&#39; update now has patch notes, which boil down to bug fixes and visual updates—also, your pet rock&#39;s going to a nice farm upstate](https://www.pcgamer.com/starfields-biggest-update-now-has-patch-notes-which-boil-down-to-bug-fixes-and-visual-updatesalso-your-pet-rocks-going-to-a-nice-farm-upstate)
+ - [Cobalt Core review](https://www.pcgamer.com/cobalt-core-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
