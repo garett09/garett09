@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She is alright](http://9gag.com/gag/aeQLg55)
- - 🚯 [From the man who brought you the Four Bore Rifle. This is what it looks like when a 50 cal. explodes in your face.](http://9gag.com/gag/a1P915Y)
- - 🚯 [My gf sent me this. She&#39;s 5 and I&#39;m 6 ft lol](http://9gag.com/gag/aBdp6jN)<!-- MEMES:END -->
+ - 🚖 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
+ - 🚯 [Why would you go after the dog tho?](http://9gag.com/gag/aREnzPq)
+ - 🚯 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)<!-- MEMES:END -->
 
 --- 
 
