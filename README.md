@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do you say \u2018Moon\u2019 in your language? &lpar;Clearest picture of Moon&rpar;](http://9gag.com/gag/aPg5obw)
- - 🚯 [Why would you go after the dog tho?](http://9gag.com/gag/aREnzPq)
- - 🚯 [Only if I could pay myself that amount instead!](http://9gag.com/gag/aREnzDq)<!-- MEMES:END -->
+ - 🚖 [Korean fish market maybe?](http://9gag.com/gag/amA36p4)
+ - 🚯 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
+ - 🚯 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)<!-- MEMES:END -->
 
 --- 
 
