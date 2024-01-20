@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to hatch Pal eggs in Palworld](https://www.pcgamer.com/palworld-eggs-incubator)
- - [Starfield&#39;s &#39;biggest&#39; update now has patch notes, which boil down to bug fixes and visual updates—also, your pet rock&#39;s going to a nice farm upstate](https://www.pcgamer.com/starfields-biggest-update-now-has-patch-notes-which-boil-down-to-bug-fixes-and-visual-updatesalso-your-pet-rocks-going-to-a-nice-farm-upstate)
- - [Cobalt Core review](https://www.pcgamer.com/cobalt-core-review)<!-- GAME:END -->
+ - [PSA: Final Fantasy 7 Rebirth pre-orders include Remake Intergrade for free](https://www.polygon.com/deals/24044098/best-gaming-deals-final-fantasy-7-remake-humble-bundle-genshin-impact)
+ - [Wordle today: Hint and answer #945 for Saturday, January 20](https://www.pcgamer.com/wordle-today-answer-945-january-20)
+ - [Halo Infinite is done with seasons, will get smaller &#39;content updates&#39; from now on](https://www.pcgamer.com/halo-infinite-is-done-with-seasons-will-get-smaller-content-updates-from-now-on)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
