@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro storage and AppleCare prices revealed](https://appleinsider.com/articles/24/01/19/apple-vision-pro-storage-and-applecare-prices-revealed?utm_medium=rss)
- - [The CAC&#39;s scrutiny of Shein, which has never sold products in China and moved its global HQs to Singapore in 2021, shows the long reach of Chinese regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/240119/p9#a240119p9)
- - [Apple Vision Pro preorders have started online, deliveries begin Feb. 2](https://appleinsider.com/articles/24/01/19/apple-vision-pro-preorders-have-started-online-deliveries-begin-feb-2?utm_medium=rss)<!-- TECH:END -->
+ - [3 years after the Galaxy Note series death, has the S Ultra fully replaced it?](https://www.androidauthority.com/galaxy-note-s-ultra-series-3403140/)
+ - [Sony A7C R Review &lpar;2024&rpar;: A Full Frame Travel Camera](https://www.wired.com/review/sony-a7c-r/)
+ - [The Last-Ditch Effort to Stop the Mountain Valley Pipeline](https://www.wired.com/story/mountain-valley-pipeline-blocked-protests-west-virginia-appalachian-mountains/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
