@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 years after the Galaxy Note series death, has the S Ultra fully replaced it?](https://www.androidauthority.com/galaxy-note-s-ultra-series-3403140/)
- - [Sony A7C R Review &lpar;2024&rpar;: A Full Frame Travel Camera](https://www.wired.com/review/sony-a7c-r/)
- - [The Last-Ditch Effort to Stop the Mountain Valley Pipeline](https://www.wired.com/story/mountain-valley-pipeline-blocked-protests-west-virginia-appalachian-mountains/)<!-- TECH:END -->
+ - [Sit or stand: What to think about when using Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/sit-or-stand-what-to-think-about-when-using-apple-vision-pro?utm_medium=rss)
+ - [Can you fix the Magic Mouse by sticking it into an ergonomic shoe?](https://www.theverge.com/2024/1/21/24045324/apple-magic-mouse-wireless-charging-lightning-base)
+ - [Crime blotter: Arrest in case of iPhone taped to airplane toilet](https://appleinsider.com/articles/24/01/21/crime-blotter-arrest-in-case-of-iphone-tapped-to-airplane-toilet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
