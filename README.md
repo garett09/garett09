@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Korean fish market maybe?](http://9gag.com/gag/amA36p4)
- - 🚯 [Post your most punchable face. this is my choice](http://9gag.com/gag/awZw1b1)
- - 🚯 [The dog be like : *copy that](http://9gag.com/gag/adPEneQ)<!-- MEMES:END -->
+ - 🚖 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
+ - 🚯 [Needle throwing](http://9gag.com/gag/a6qPpN8)
+ - 🚯 [Sandwiched](http://9gag.com/gag/ay2G1xV)<!-- MEMES:END -->
 
 --- 
 
