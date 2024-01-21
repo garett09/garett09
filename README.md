@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: Final Fantasy 7 Rebirth pre-orders include Remake Intergrade for free](https://www.polygon.com/deals/24044098/best-gaming-deals-final-fantasy-7-remake-humble-bundle-genshin-impact)
- - [Wordle today: Hint and answer #945 for Saturday, January 20](https://www.pcgamer.com/wordle-today-answer-945-january-20)
- - [Halo Infinite is done with seasons, will get smaller &#39;content updates&#39; from now on](https://www.pcgamer.com/halo-infinite-is-done-with-seasons-will-get-smaller-content-updates-from-now-on)<!-- GAME:END -->
+ - [Today only, get Marvel’s Spider-Man 2 or Zelda: Tears of the Kingdom for just $40](https://www.polygon.com/deals/24043363/tears-of-the-kingdom-spider-man-2-qvc-deal-new-customer-sale)
+ - [Wordle today: Hint and answer #946 for Sunday, January 21](https://www.pcgamer.com/wordle-today-answer-946-january-21)
+ - [Ars Magica, the pioneering &#39;oops all wizards&#39; tabletop RPG, is getting a Definitive Edition](https://www.pcgamer.com/ars-magica-the-pioneering-oops-all-wizards-tabletop-rpg-is-getting-a-definitive-edition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
