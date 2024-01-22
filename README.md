@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sit or stand: What to think about when using Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/sit-or-stand-what-to-think-about-when-using-apple-vision-pro?utm_medium=rss)
- - [Can you fix the Magic Mouse by sticking it into an ergonomic shoe?](https://www.theverge.com/2024/1/21/24045324/apple-magic-mouse-wireless-charging-lightning-base)
- - [Crime blotter: Arrest in case of iPhone taped to airplane toilet](https://appleinsider.com/articles/24/01/21/crime-blotter-arrest-in-case-of-iphone-tapped-to-airplane-toilet?utm_medium=rss)<!-- TECH:END -->
+ - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)
+ - [Palantir&#39;s revenue growth from US government contracts has slowed in recent quarters, as some agencies look at cheaper rivals and seek fewer data access limits &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240122/p7#a240122p7)
+ - [Which countries are getting the Snapdragon and Exynos variants of the Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-snapdragon-vs-exynos-countries-3402659/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
