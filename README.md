@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today only, get Marvel’s Spider-Man 2 or Zelda: Tears of the Kingdom for just $40](https://www.polygon.com/deals/24043363/tears-of-the-kingdom-spider-man-2-qvc-deal-new-customer-sale)
- - [Wordle today: Hint and answer #946 for Sunday, January 21](https://www.pcgamer.com/wordle-today-answer-946-january-21)
- - [Ars Magica, the pioneering &#39;oops all wizards&#39; tabletop RPG, is getting a Definitive Edition](https://www.pcgamer.com/ars-magica-the-pioneering-oops-all-wizards-tabletop-rpg-is-getting-a-definitive-edition)<!-- GAME:END -->
+ - [Little things that matter: Valve is making performance settings in its Steam Deck easier to understand](https://www.pcgamer.com/little-things-that-matter-valve-is-making-performance-settings-in-its-steam-deck-easier-to-understand)
+ - [Palword&#39;s plain worse on the Microsoft Store and Game Pass right now—devs say they&#39;re &#39;at the mercy of the certification&#39;, making for slower hotfixes](https://www.pcgamer.com/palwords-plain-worse-on-the-microsoft-store-and-game-pass-right-nowdevs-say-theyre-at-the-mercy-of-the-certification-making-for-slower-hotfixes)
+ - [Palworld&#39;s developers are currently trying to fix a game-wrecking bug that permanently nerfs your character](https://www.pcgamer.com/palworlds-developers-are-currently-trying-to-fix-a-game-wrecking-bug-that-permanently-nerfs-your-character)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
