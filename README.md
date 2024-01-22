@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your basement guest gets free of the chains.](http://9gag.com/gag/a8qZV5Q)
- - 🚯 [Needle throwing](http://9gag.com/gag/a6qPpN8)
- - 🚯 [Sandwiched](http://9gag.com/gag/ay2G1xV)<!-- MEMES:END -->
+ - 🚖 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
+ - 🚯 [The real Truman show](http://9gag.com/gag/a8qZz0d)
+ - 🚯 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)<!-- MEMES:END -->
 
 --- 
 
