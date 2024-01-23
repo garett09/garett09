@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Salute to the guy who didn&#39;t hesitate to help the kid.](http://9gag.com/gag/aPg5r8w)
- - 🚯 [The real Truman show](http://9gag.com/gag/a8qZz0d)
- - 🚯 [What a good idea to cross the trajectory of someone who is running ..](http://9gag.com/gag/aEq3QR9)<!-- MEMES:END -->
+ - 🚖 [Overpayed Fortnite streamer looses it](http://9gag.com/gag/a04BW1n)
+ - 🚯 [What happened to law and order](http://9gag.com/gag/a5X4DVo)
+ - 🚯 [CCP demanded a piano player in a public place to stop filming because they were in the background](http://9gag.com/gag/amA3dEy)<!-- MEMES:END -->
 
 --- 
 
