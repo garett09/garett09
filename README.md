@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Little things that matter: Valve is making performance settings in its Steam Deck easier to understand](https://www.pcgamer.com/little-things-that-matter-valve-is-making-performance-settings-in-its-steam-deck-easier-to-understand)
- - [Palword&#39;s plain worse on the Microsoft Store and Game Pass right now—devs say they&#39;re &#39;at the mercy of the certification&#39;, making for slower hotfixes](https://www.pcgamer.com/palwords-plain-worse-on-the-microsoft-store-and-game-pass-right-nowdevs-say-theyre-at-the-mercy-of-the-certification-making-for-slower-hotfixes)
- - [Palworld&#39;s developers are currently trying to fix a game-wrecking bug that permanently nerfs your character](https://www.pcgamer.com/palworlds-developers-are-currently-trying-to-fix-a-game-wrecking-bug-that-permanently-nerfs-your-character)<!-- GAME:END -->
+ - [AI Palworld accusations are currently based on vibes, a social deduction game, and the CEO&#39;s past tweets about machine-generated fakémon](https://www.pcgamer.com/ai-palworld-accusations-are-currently-based-on-vibes-a-social-deduction-game-and-the-ceos-past-tweets-about-machine-generated-fakemon)
+ - [Palworld players discover you can kidnap and sell humans just like pals, although you will be warned it&#39;s not very polite](https://www.pcgamer.com/palworld-players-discover-you-can-kidnap-and-sell-humans-just-like-pals-although-you-will-be-warned-its-not-very-polite)
+ - [GitHub has a copy of every open source project in its database during 2020 located deep inside a frozen mine](https://www.pcgamer.com/github-has-a-copy-of-every-open-source-project-in-its-database-during-2020-located-deep-inside-a-frozen-mine)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
