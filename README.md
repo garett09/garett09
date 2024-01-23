@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)
- - [Palantir&#39;s revenue growth from US government contracts has slowed in recent quarters, as some agencies look at cheaper rivals and seek fewer data access limits &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240122/p7#a240122p7)
- - [Which countries are getting the Snapdragon and Exynos variants of the Galaxy S24?](https://www.androidauthority.com/samsung-galaxy-s24-snapdragon-vs-exynos-countries-3402659/)<!-- TECH:END -->
+ - [WWE Monday Night Raw is ditching cable for Netflix](https://www.theverge.com/2024/1/23/24047785/netflix-monday-night-raw-exclusive-live-streaming-leaving-cable)
+ - [Lack of Web Push Notifications may mean fewer Apple Vision Pro interruptions](https://appleinsider.com/articles/24/01/23/lack-of-web-push-notifications-may-mean-fewer-apple-vision-pro-interruptions?utm_medium=rss)
+ - [Why Apple Vision Pro in 2024 won&#39;t be like 1984](https://appleinsider.com/articles/24/01/23/why-apple-vision-pro-in-2024-wont-be-like-1984?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
