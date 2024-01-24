@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Palworld accusations are currently based on vibes, a social deduction game, and the CEO&#39;s past tweets about machine-generated fakémon](https://www.pcgamer.com/ai-palworld-accusations-are-currently-based-on-vibes-a-social-deduction-game-and-the-ceos-past-tweets-about-machine-generated-fakemon)
- - [Palworld players discover you can kidnap and sell humans just like pals, although you will be warned it&#39;s not very polite](https://www.pcgamer.com/palworld-players-discover-you-can-kidnap-and-sell-humans-just-like-pals-although-you-will-be-warned-its-not-very-polite)
- - [GitHub has a copy of every open source project in its database during 2020 located deep inside a frozen mine](https://www.pcgamer.com/github-has-a-copy-of-every-open-source-project-in-its-database-during-2020-located-deep-inside-a-frozen-mine)<!-- GAME:END -->
+ - [Microsoft&#39;s current OS has been shrunk to a ridiculous 100MB in size, but only by getting rid of windows from Windows](https://www.pcgamer.com/microsofts-current-os-has-been-shrunk-to-a-ridiculous-100mb-in-size-but-only-by-getting-rid-of-windows-from-windows)
+ - [The Day Before studio asks whether you&#39;re going to believe it or your own lying eyes as it attributes the game&#39;s catastrophic performance to a &#39;hate campaign&#39; by &#39;bloggers&#39;](https://www.pcgamer.com/the-day-before-studio-asks-whether-youre-going-to-believe-it-or-your-own-lying-eyes-as-it-attributes-the-games-catastrophic-performance-to-a-hate-campaign-by-bloggers)
+ - [Lenovo Legion Go review](https://www.pcgamer.com/lenovo-legion-go-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
