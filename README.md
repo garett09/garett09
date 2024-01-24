@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWE Monday Night Raw is ditching cable for Netflix](https://www.theverge.com/2024/1/23/24047785/netflix-monday-night-raw-exclusive-live-streaming-leaving-cable)
- - [Lack of Web Push Notifications may mean fewer Apple Vision Pro interruptions](https://appleinsider.com/articles/24/01/23/lack-of-web-push-notifications-may-mean-fewer-apple-vision-pro-interruptions?utm_medium=rss)
- - [Why Apple Vision Pro in 2024 won&#39;t be like 1984](https://appleinsider.com/articles/24/01/23/why-apple-vision-pro-in-2024-wont-be-like-1984?utm_medium=rss)<!-- TECH:END -->
+ - [Originality AI: 88%+ of the top US news outlets now block AI companies&#39; web crawlers; leading right-wing outlets, like Breitbart and Newsmax, mostly permit them &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240124/p19#a240124p19)
+ - [OpenAI Quietly Scrapped a Promise to Disclose Key Documents to the Public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
+ - [Netflix dropping Basic ads-free tier, forcing users to choose a more profitable tier](https://appleinsider.com/articles/24/01/23/netflix-dropping-basic-ads-free-tier-forcing-users-to-choose-different-more-profitable-tier?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
