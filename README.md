@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s current OS has been shrunk to a ridiculous 100MB in size, but only by getting rid of windows from Windows](https://www.pcgamer.com/microsofts-current-os-has-been-shrunk-to-a-ridiculous-100mb-in-size-but-only-by-getting-rid-of-windows-from-windows)
- - [The Day Before studio asks whether you&#39;re going to believe it or your own lying eyes as it attributes the game&#39;s catastrophic performance to a &#39;hate campaign&#39; by &#39;bloggers&#39;](https://www.pcgamer.com/the-day-before-studio-asks-whether-youre-going-to-believe-it-or-your-own-lying-eyes-as-it-attributes-the-games-catastrophic-performance-to-a-hate-campaign-by-bloggers)
- - [Lenovo Legion Go review](https://www.pcgamer.com/lenovo-legion-go-review)<!-- GAME:END -->
+ - [11 years in, Old School RuneScape&#39;s toaster graphics are about to look better than ever](https://www.pcgamer.com/11-years-in-old-school-runescapes-toaster-graphics-are-about-to-look-better-than-ever)
+ - [Sneaky World of Warcraft hotfix titles players &#39;Champion of the Dragonflights&#39; a whole week after a dramatic cutscene did, leads to most getting their full honours while standing around doing nothing](https://www.pcgamer.com/sneaky-world-of-warcraft-hotfix-titles-players-champion-of-the-dragonflights-a-whole-week-after-a-dramatic-cutscene-did-leads-to-most-getting-their-full-honours-while-standing-around-doing-nothing)
+ - [How to get coal in Palworld](https://www.pcgamer.com/palworld-coal-farm)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
