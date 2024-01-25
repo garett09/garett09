@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Originality AI: 88%+ of the top US news outlets now block AI companies&#39; web crawlers; leading right-wing outlets, like Breitbart and Newsmax, mostly permit them &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240124/p19#a240124p19)
- - [OpenAI Quietly Scrapped a Promise to Disclose Key Documents to the Public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
- - [Netflix dropping Basic ads-free tier, forcing users to choose a more profitable tier](https://appleinsider.com/articles/24/01/23/netflix-dropping-basic-ads-free-tier-forcing-users-to-choose-different-more-profitable-tier?utm_medium=rss)<!-- TECH:END -->
+ - [VCs put $100B+ in US defense tech startups since 2021, but convincing the Pentagon to buy from them has proven difficult; only a few had $25M+ in orders in FY23 &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240125/p13#a240125p13)
+ - [OLED iPad Pro screen orders already getting cut, claims questionable rumor](https://appleinsider.com/articles/24/01/25/oled-ipad-pro-screen-orders-already-getting-cut-claims-questionable-rumor?utm_medium=rss)
+ - [RingConn Smart Ring Review: Affordable But Flawed](https://www.wired.com/review/ringconn-smart-ring/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
