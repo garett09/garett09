@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you only skipped 9gag for a day.](http://9gag.com/gag/aQEGbe7)
- - 🚯 [It&#39;s been ages since I&#39;ve expanded my cursed images collection. Please 9GAG, give me your strongest, something that would defile my soul.](http://9gag.com/gag/aPg5LKw)
- - 🚯 [If you wanna tell me what to do, put me on a payroll](http://9gag.com/gag/a6qP6Gb)<!-- MEMES:END -->
+ - 🚖 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
+ - 🚯 [They said it couldn&#39;t be done](http://9gag.com/gag/axo5LGW)
+ - 🚯 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)<!-- MEMES:END -->
 
 --- 
 
