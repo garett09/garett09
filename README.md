@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VCs put $100B+ in US defense tech startups since 2021, but convincing the Pentagon to buy from them has proven difficult; only a few had $25M+ in orders in FY23 &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240125/p13#a240125p13)
- - [OLED iPad Pro screen orders already getting cut, claims questionable rumor](https://appleinsider.com/articles/24/01/25/oled-ipad-pro-screen-orders-already-getting-cut-claims-questionable-rumor?utm_medium=rss)
- - [RingConn Smart Ring Review: Affordable But Flawed](https://www.wired.com/review/ringconn-smart-ring/)<!-- TECH:END -->
+ - [Apple&#39;s new App Store rules apply to these 27 countries](https://appleinsider.com/inside/app-store/tips/apples-new-app-store-rules-apply-to-these-27-countries?utm_medium=rss)
+ - [One UI 6.1 gets rid of Samsung’s navigation gestures, but you still have some choice](https://www.androidauthority.com/samsung-one-ui-6-1-navigation-gestures-3408012/)
+ - [In a supportive gesture to the industry, China approved 115 video games in January, the most in 18 months, after approving 105 titles in December &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240126/p14#a240126p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
