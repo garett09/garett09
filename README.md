@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [11 years in, Old School RuneScape&#39;s toaster graphics are about to look better than ever](https://www.pcgamer.com/11-years-in-old-school-runescapes-toaster-graphics-are-about-to-look-better-than-ever)
- - [Sneaky World of Warcraft hotfix titles players &#39;Champion of the Dragonflights&#39; a whole week after a dramatic cutscene did, leads to most getting their full honours while standing around doing nothing](https://www.pcgamer.com/sneaky-world-of-warcraft-hotfix-titles-players-champion-of-the-dragonflights-a-whole-week-after-a-dramatic-cutscene-did-leads-to-most-getting-their-full-honours-while-standing-around-doing-nothing)
- - [How to get coal in Palworld](https://www.pcgamer.com/palworld-coal-farm)<!-- GAME:END -->
+ - [Popular Japanese rhythm game sets cancellation record by announcing release date and closure in the same tweet](https://www.pcgamer.com/popular-japanese-rhythm-game-sets-cancellation-record-by-announcing-release-date-and-closure-in-the-same-tweet)
+ - [Dwarf Fortress&#39; missing best mode is tantalisingly close to release, just as soon as they nail down how to &#39;target toes with your crab pincers&#39;](https://www.pcgamer.com/dwarf-fortress-missing-best-mode-is-tantalisingly-close-to-release-just-as-soon-as-they-nail-down-how-to-target-toes-with-your-crab-pincers)
+ - [Honkai: Star Rail version 2.0 features new realm Penacony, live February 6](https://blog.playstation.com/2024/01/26/honkai-star-rail-version-2-0-features-new-realm-penacony-live-february-6/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
