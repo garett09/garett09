@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
- - 🚯 [They said it couldn&#39;t be done](http://9gag.com/gag/axo5LGW)
- - 🚯 [Maria Celeste Ponce, New argentina deputy.](http://9gag.com/gag/a8qZgwe)<!-- MEMES:END -->
+ - 🚯 [A workable solution](http://9gag.com/gag/aEq344x)
+ - 🚯 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)<!-- MEMES:END -->
 
 --- 
 
