@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Popular Japanese rhythm game sets cancellation record by announcing release date and closure in the same tweet](https://www.pcgamer.com/popular-japanese-rhythm-game-sets-cancellation-record-by-announcing-release-date-and-closure-in-the-same-tweet)
- - [Dwarf Fortress&#39; missing best mode is tantalisingly close to release, just as soon as they nail down how to &#39;target toes with your crab pincers&#39;](https://www.pcgamer.com/dwarf-fortress-missing-best-mode-is-tantalisingly-close-to-release-just-as-soon-as-they-nail-down-how-to-target-toes-with-your-crab-pincers)
- - [Honkai: Star Rail version 2.0 features new realm Penacony, live February 6](https://blog.playstation.com/2024/01/26/honkai-star-rail-version-2-0-features-new-realm-penacony-live-february-6/)<!-- GAME:END -->
+ - [You can still get 38 Discworld books from Humble for just $18](https://www.polygon.com/deals/24051666/best-gaming-deals-terry-pratchett-humble-bundle-tekken-8-sale)
+ - [Where to find metal scraps in Enshrouded](https://www.pcgamer.com/enshrouded-metal-scraps)
+ - [Wordle today: Hint and answer #952 for Saturday, January 27](https://www.pcgamer.com/wordle-today-answer-952-january-27)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
