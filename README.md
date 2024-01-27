@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new App Store rules apply to these 27 countries](https://appleinsider.com/inside/app-store/tips/apples-new-app-store-rules-apply-to-these-27-countries?utm_medium=rss)
- - [One UI 6.1 gets rid of Samsung’s navigation gestures, but you still have some choice](https://www.androidauthority.com/samsung-one-ui-6-1-navigation-gestures-3408012/)
- - [In a supportive gesture to the industry, China approved 115 video games in January, the most in 18 months, after approving 105 titles in December &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240126/p14#a240126p14)<!-- TECH:END -->
+ - [After waging a war on buttons, Apple has fallen back in love with them](https://www.androidauthority.com/apple-physical-buttons-3403785/)
+ - [Texas Is Already Running Out of Water](https://www.wired.com/story/texas-water-drought-winter-weather-shortage/)
+ - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Updates](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
