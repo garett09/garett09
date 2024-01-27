@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meanwhile on russian channels...](http://9gag.com/gag/armY740)
- - 🚯 [A workable solution](http://9gag.com/gag/aEq344x)
- - 🚯 [You wanna f**k around? Huh?](http://9gag.com/gag/a7qQYmw)<!-- MEMES:END -->
+ - 🚖 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
+ - 🚯 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)
+ - 🚯 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)<!-- MEMES:END -->
 
 --- 
 
