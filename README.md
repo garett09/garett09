@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After waging a war on buttons, Apple has fallen back in love with them](https://www.androidauthority.com/apple-physical-buttons-3403785/)
- - [Texas Is Already Running Out of Water](https://www.wired.com/story/texas-water-drought-winter-weather-shortage/)
- - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Updates](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)<!-- TECH:END -->
+ - [3,000! 4,000! 4,500! All those nits of peak brightness aren’t really impressive](https://www.androidauthority.com/4500-nits-peak-brightness-opinion-3395384/)
+ - [Scientists Just Discovered a New Type of Magnetism](https://www.wired.com/story/scientists-discovered-new-type-magnetism-physics-electrons/)
+ - [Xiaomi Poco X6 and X6 Pro Review: Midrange Value](https://www.wired.com/review/xiaomi-poco-x6-pro-and-poco-x6-phones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
