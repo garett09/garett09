@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His self-control is impressive. Meanwhile, she just keeps on lying..](http://9gag.com/gag/adPEZ7Z)
- - 🚯 [People are f**king stupid](http://9gag.com/gag/aeQvK0j)
- - 🚯 [What lesson did you learn from this?](http://9gag.com/gag/a9qo38j)<!-- MEMES:END -->
+ - 🚖 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
+ - 🚯 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
+ - 🚯 [Every little helps](http://9gag.com/gag/aqeqZZL)<!-- MEMES:END -->
 
 --- 
 
