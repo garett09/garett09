@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great moments in PC gaming: Going back to the 1960s TV show in Lego Batman 3](https://www.pcgamer.com/great-moments-in-pc-gaming-going-back-to-the-1960s-tv-show-in-lego-batman-3)
- - [Wordle today: Hint and answer #953 for Sunday, January 28](https://www.pcgamer.com/wordle-today-answer-953-january-28)
- - [Suicide Squad devs say despite being a live-service game it&#39;ll respect players&#39; time because &#39;We all love playing games, but we also have lives&#39;](https://www.pcgamer.com/suicide-squad-devs-say-despite-being-a-live-service-game-itll-respect-players-time-because-we-all-love-playing-games-but-we-also-have-lives)<!-- GAME:END -->
+ - [Blizzard employee snags a decade of WoW game time just before being laid off, will not have to pay a cent until 2033](https://www.pcgamer.com/blizzard-employee-snags-a-decade-of-wow-game-time-just-before-being-laid-off-will-not-have-to-pay-a-cent-until-2033)
+ - [Power-crazed boffin gets Doom running through the medium of gut bacteria](https://www.pcgamer.com/power-crazed-boffin-gets-doom-running-through-the-medium-of-gut-bacteria)
+ - [Fresh AMD Zen 5 CPU details leak suggesting a likely launch date between April and June of this year](https://www.pcgamer.com/fresh-amd-zen-5-cpu-details-leak-suggesting-a-likely-launch-date-between-april-and-june-of-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
