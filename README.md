@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [3,000! 4,000! 4,500! All those nits of peak brightness aren’t really impressive](https://www.androidauthority.com/4500-nits-peak-brightness-opinion-3395384/)
- - [Scientists Just Discovered a New Type of Magnetism](https://www.wired.com/story/scientists-discovered-new-type-magnetism-physics-electrons/)
- - [Xiaomi Poco X6 and X6 Pro Review: Midrange Value](https://www.wired.com/review/xiaomi-poco-x6-pro-and-poco-x6-phones/)<!-- TECH:END -->
+ - [Poll results: The S24’s Exynos chip is a deal-breaker for most of you](https://www.androidauthority.com/samsung-galaxy-s24-exynos-deal-breaker-poll-3408844/)
+ - [The New York Times says users played its puzzles and games more than 8B times in 2023, led by Wordle with 4.8B plays, and the NYT Games app had 10M downloads &lpar;Alex Fitzpatrick/Axios&rpar;](http://www.techmeme.com/240129/p8#a240129p8)
+ - [10 Best TVs We&#39;ve Tested &lpar;2024&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
