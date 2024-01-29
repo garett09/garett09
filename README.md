@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**king a deaf girl](http://9gag.com/gag/aWGwBP3)
- - 🚯 [Dont let your wives &lpar;if you have one&rpar; go to Italy](http://9gag.com/gag/ap9Wqpb)
- - 🚯 [Every little helps](http://9gag.com/gag/aqeqZZL)<!-- MEMES:END -->
+ - 🚖 [This one took me a lil while](http://9gag.com/gag/aME3QOV)
+ - 🚯 [The waterfall of FAFO](http://9gag.com/gag/axoXZyb)
+ - 🚯 [It&#39;s cool and all until he accidentally burns your laptop](http://9gag.com/gag/a9q9M0o)<!-- MEMES:END -->
 
 --- 
 
