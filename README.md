@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll results: The S24’s Exynos chip is a deal-breaker for most of you](https://www.androidauthority.com/samsung-galaxy-s24-exynos-deal-breaker-poll-3408844/)
- - [The New York Times says users played its puzzles and games more than 8B times in 2023, led by Wordle with 4.8B plays, and the NYT Games app had 10M downloads &lpar;Alex Fitzpatrick/Axios&rpar;](http://www.techmeme.com/240129/p8#a240129p8)
- - [10 Best TVs We&#39;ve Tested &lpar;2024&rpar;: Cheap, 4K, 8K, OLED, and Tips](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [Tested: Samsung Galaxy S24 Ultra boasts even better battery life](https://www.androidauthority.com/galaxy-s24-ultra-battery-life-3407657/)
+ - [15 Best Laptop Backpacks &lpar;2024&rpar;: Weather-Proof, Sustainable, Stylish](https://www.wired.com/gallery/the-best-backpacks-for-work/)
+ - [Be careful of what you share with AI: ChatGPT appears to be leaking private conversations](https://www.androidauthority.com/chatgpt-leaking-private-conversations-3409300/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
