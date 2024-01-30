@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard employee snags a decade of WoW game time just before being laid off, will not have to pay a cent until 2033](https://www.pcgamer.com/blizzard-employee-snags-a-decade-of-wow-game-time-just-before-being-laid-off-will-not-have-to-pay-a-cent-until-2033)
- - [Power-crazed boffin gets Doom running through the medium of gut bacteria](https://www.pcgamer.com/power-crazed-boffin-gets-doom-running-through-the-medium-of-gut-bacteria)
- - [Fresh AMD Zen 5 CPU details leak suggesting a likely launch date between April and June of this year](https://www.pcgamer.com/fresh-amd-zen-5-cpu-details-leak-suggesting-a-likely-launch-date-between-april-and-june-of-this-year)<!-- GAME:END -->
+ - [Persona 3 Reload chases Persona 5 and stumbles](https://www.polygon.com/reviews/24054581/persona-3-reload-review-remake-xbox-ps5-pc-atlus)
+ - [Persona 3 Reload: The Kotaku Review](https://kotaku.com/persona-3-reload-remake-review-ps5-steam-pc-xbox-1851201927)
+ - [2018&#39;s best platformer now has an adorable Mario 64-style tribute made by the game&#39;s original dev team for its 6th anniversary—and it&#39;s completely free](https://www.pcgamer.com/2018s-best-platformer-now-has-an-adorable-mario-64-style-tribute-made-by-the-games-original-dev-team-for-its-6th-anniversaryand-its-completely-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
