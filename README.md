@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dude told him put it back on](http://9gag.com/gag/aQE08Qw)
- - 🚯 [The sigh of relief on their faces.](http://9gag.com/gag/agoPqb1)
- - 🚯 [Banana](http://9gag.com/gag/amAEred)<!-- MEMES:END -->
+ - 🚖 [Rubber band sleight of hand](http://9gag.com/gag/ap9WpAb)
+ - 🚯 [Man lost DIAMOND in search of gold](http://9gag.com/gag/avQ3reO)
+ - 🚯 [Too juicy and enjoyable was the slap for Rainn, you think?](http://9gag.com/gag/armj5P6)<!-- MEMES:END -->
 
 --- 
 
