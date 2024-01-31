@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 Reload chases Persona 5 and stumbles](https://www.polygon.com/reviews/24054581/persona-3-reload-review-remake-xbox-ps5-pc-atlus)
- - [Persona 3 Reload: The Kotaku Review](https://kotaku.com/persona-3-reload-remake-review-ps5-steam-pc-xbox-1851201927)
- - [2018&#39;s best platformer now has an adorable Mario 64-style tribute made by the game&#39;s original dev team for its 6th anniversary—and it&#39;s completely free](https://www.pcgamer.com/2018s-best-platformer-now-has-an-adorable-mario-64-style-tribute-made-by-the-games-original-dev-team-for-its-6th-anniversaryand-its-completely-free)<!-- GAME:END -->
+ - [Bore Blasters&#39; brilliantly silly arcade action finally combines the mining power of dwarves and helicopters](https://www.pcgamer.com/bore-blasters-brilliantly-silly-arcade-action-finally-combines-the-mining-power-of-dwarves-and-helicopters)
+ - [Percy Jackson shouldn’t have explained it all away](https://www.polygon.com/reviews/24055490/percy-jackson-olympians-disney-plus-review)
+ - [WoW&#39;s experimental ban on &#39;GDKP&#39; raids in Season of Discovery has set the community on fire—here&#39;s why](https://www.pcgamer.com/wows-experimental-ban-on-gdkp-raids-in-season-of-discovery-has-set-the-community-on-fire-heres-why)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
