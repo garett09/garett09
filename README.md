@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tested: Samsung Galaxy S24 Ultra boasts even better battery life](https://www.androidauthority.com/galaxy-s24-ultra-battery-life-3407657/)
- - [15 Best Laptop Backpacks &lpar;2024&rpar;: Weather-Proof, Sustainable, Stylish](https://www.wired.com/gallery/the-best-backpacks-for-work/)
- - [Be careful of what you share with AI: ChatGPT appears to be leaking private conversations](https://www.androidauthority.com/chatgpt-leaking-private-conversations-3409300/)<!-- TECH:END -->
+ - [How to watch Linda Yaccarino, Mark Zuckerberg, and other tech CEOs testify in Congress](https://www.theverge.com/2024/1/31/24049456/yaccarino-zuckerberg-tiktok-x-meta-senate-judiciary-hearing-live-stream-how-to-watch)
+ - [Pick up a 1TB 16-inch MacBook Pro for $1,799 today only](https://appleinsider.com/articles/24/01/31/pick-up-a-1tb-16-inch-macbook-pro-for-1799-today-only?utm_medium=rss)
+ - [Fallout TV show: Release date, cast, and the latest rumors](https://www.androidauthority.com/fallout-tv-show-3409673/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
