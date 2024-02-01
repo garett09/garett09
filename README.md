@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bore Blasters&#39; brilliantly silly arcade action finally combines the mining power of dwarves and helicopters](https://www.pcgamer.com/bore-blasters-brilliantly-silly-arcade-action-finally-combines-the-mining-power-of-dwarves-and-helicopters)
- - [Percy Jackson shouldn’t have explained it all away](https://www.polygon.com/reviews/24055490/percy-jackson-olympians-disney-plus-review)
- - [WoW&#39;s experimental ban on &#39;GDKP&#39; raids in Season of Discovery has set the community on fire—here&#39;s why](https://www.pcgamer.com/wows-experimental-ban-on-gdkp-raids-in-season-of-discovery-has-set-the-community-on-fire-heres-why)<!-- GAME:END -->
+ - [Palworld update fixes save-bricking capture bug, permanently-nerfing respec juice, and Pals randomly levitating or dying to &#39;unexplained falling damage&#39;](https://www.pcgamer.com/palworld-update-fixes-save-bricking-capture-bug-permanently-nerfing-respec-juice-and-pals-randomly-levitating-or-dying-to-unexplained-falling-damage)
+ - [Every movie and show coming to Netflix in February](https://www.polygon.com/entertainment/2024/2/1/24050447/new-netflix-february-2024-movies-tv-to-watch)
+ - [Kurt Russell gives thoughtful and nuanced answer about why he wouldn&#39;t voice Snake in Metal Gear Solid 3, also seems to think the character is actually Snake Plissken](https://www.pcgamer.com/kurt-russell-gives-thoughtful-and-nuanced-answer-about-why-he-wouldnt-voice-snake-in-metal-gear-solid-3-also-seems-to-think-the-character-is-actually-snake-plissken)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
