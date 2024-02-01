@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Linda Yaccarino, Mark Zuckerberg, and other tech CEOs testify in Congress](https://www.theverge.com/2024/1/31/24049456/yaccarino-zuckerberg-tiktok-x-meta-senate-judiciary-hearing-live-stream-how-to-watch)
- - [Pick up a 1TB 16-inch MacBook Pro for $1,799 today only](https://appleinsider.com/articles/24/01/31/pick-up-a-1tb-16-inch-macbook-pro-for-1799-today-only?utm_medium=rss)
- - [Fallout TV show: Release date, cast, and the latest rumors](https://www.androidauthority.com/fallout-tv-show-3409673/)<!-- TECH:END -->
+ - [The Apple Vision Pro Lives Deep in the Uncanny Valley](https://www.wired.com/story/gadget-lab-podcast-630/)
+ - [Amsterdam-based DataSnipper, which helps automate critical accounting and auditing tasks, raised a $100M Series B led by Index Ventures at a $1B valuation &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/240201/p18#a240201p18)
+ - [Sources: the US CPSC is preparing an order that could classify Amazon&#39;s online business as a distributor of goods, potentially leading to lawsuits and recalls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240201/p17#a240201p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
