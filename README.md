@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld update fixes save-bricking capture bug, permanently-nerfing respec juice, and Pals randomly levitating or dying to &#39;unexplained falling damage&#39;](https://www.pcgamer.com/palworld-update-fixes-save-bricking-capture-bug-permanently-nerfing-respec-juice-and-pals-randomly-levitating-or-dying-to-unexplained-falling-damage)
- - [Every movie and show coming to Netflix in February](https://www.polygon.com/entertainment/2024/2/1/24050447/new-netflix-february-2024-movies-tv-to-watch)
- - [Kurt Russell gives thoughtful and nuanced answer about why he wouldn&#39;t voice Snake in Metal Gear Solid 3, also seems to think the character is actually Snake Plissken](https://www.pcgamer.com/kurt-russell-gives-thoughtful-and-nuanced-answer-about-why-he-wouldnt-voice-snake-in-metal-gear-solid-3-also-seems-to-think-the-character-is-actually-snake-plissken)<!-- GAME:END -->
+ - [Razer Iskur V2 review](https://www.pcgamer.com/razer-iskur-v2-gaming-chair-review)
+ - [Here&#39;s path tracing running on the Steam Deck at 30 fps thanks to some settings tweaks](https://www.pcgamer.com/heres-path-tracing-running-on-the-steam-deck-at-30-fps-thanks-to-some-settings-tweaks)
+ - [Free GOG keys for the objectively best Fallout game are on Twitch Prime right now](https://www.pcgamer.com/free-gog-keys-for-the-objectively-best-fallout-game-are-on-twitch-prime-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
