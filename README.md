@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Vision Pro Lives Deep in the Uncanny Valley](https://www.wired.com/story/gadget-lab-podcast-630/)
- - [Amsterdam-based DataSnipper, which helps automate critical accounting and auditing tasks, raised a $100M Series B led by Index Ventures at a $1B valuation &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/240201/p18#a240201p18)
- - [Sources: the US CPSC is preparing an order that could classify Amazon&#39;s online business as a distributor of goods, potentially leading to lawsuits and recalls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240201/p17#a240201p17)<!-- TECH:END -->
+ - [Apple Vision Pro has finally arrived](https://appleinsider.com/articles/24/02/02/apple-vision-pro-has-finally-arrived?utm_medium=rss)
+ - [The 10 Best Slippers for Lounging At Home—From $9 to $150](https://www.wired.com/gallery/best-slippers/)
+ - [Wattbike Atom Review: This Indoor Bike Teaches You to Pedal Like the Pros](https://www.wired.com/review/wattbike-atom/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
