@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer Iskur V2 review](https://www.pcgamer.com/razer-iskur-v2-gaming-chair-review)
- - [Here&#39;s path tracing running on the Steam Deck at 30 fps thanks to some settings tweaks](https://www.pcgamer.com/heres-path-tracing-running-on-the-steam-deck-at-30-fps-thanks-to-some-settings-tweaks)
- - [Free GOG keys for the objectively best Fallout game are on Twitch Prime right now](https://www.pcgamer.com/free-gog-keys-for-the-objectively-best-fallout-game-are-on-twitch-prime-right-now)<!-- GAME:END -->
+ - [The best movies new to streaming in February](https://www.polygon.com/what-to-watch/2024/2/3/24055560/best-new-movies-netflix-amazon-prime-max-hulu-february-2024)
+ - [Wordle today: Hint and answer #959 for Saturday, February 3](https://www.pcgamer.com/wordle-today-answer-959-february-3)
+ - [Fallout: New Vegas mod turns power armor into the beastly tank suit it was meant to be, might finally get me to play something other than a sneaky sniper](https://www.pcgamer.com/this-new-vegas-mod-turns-power-armor-into-the-beast-tank-suits-they-were-meant-to-be-and-it-might-get-me-to-finally-be-something-other-than-a-sneaky-sniper)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
