@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Optimal distance to peek in Shooter games](http://9gag.com/gag/az20e4q)
- - 🚯 [Stages waking up and arriving to work!](http://9gag.com/gag/abv9VAr)
- - 🚯 [`i&#39;m a celt myself.` The things Americans say...](http://9gag.com/gag/anzLQGL)<!-- MEMES:END -->
+ - 🚖 [Video of the missing model Gabriela Rico Jimenez that went viral in 2009 when her emotional outburst and arrest outside of a luxury hotel lead to her disappearance ever since. She accused Carlos Slim of stealing children and eating human flesh.](http://9gag.com/gag/aVbNxXv)
+ - 🚯 [That&#39;s f**ked up](http://9gag.com/gag/aZDG07z)
+ - 🚯 [Quick maths](http://9gag.com/gag/aeQv4Ev)<!-- MEMES:END -->
 
 --- 
 
