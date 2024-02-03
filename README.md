@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro has finally arrived](https://appleinsider.com/articles/24/02/02/apple-vision-pro-has-finally-arrived?utm_medium=rss)
- - [The 10 Best Slippers for Lounging At Home—From $9 to $150](https://www.wired.com/gallery/best-slippers/)
- - [Wattbike Atom Review: This Indoor Bike Teaches You to Pedal Like the Pros](https://www.wired.com/review/wattbike-atom/)<!-- TECH:END -->
+ - [Apple Vision Pro is surprisingly durable in first YouTube drop test](https://appleinsider.com/articles/24/02/03/apple-vision-pro-is-surprisingly-durable-in-first-youtube-drop-test?utm_medium=rss)
+ - [16 Best Laptop Stands &lpar;2024&rpar;: Adjustable, Portable, Lap Desks](https://www.wired.com/gallery/best-laptop-stands/)
+ - [5 Best Water Bottles &lpar;2024&rpar;: Owala, LifeStraw, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
