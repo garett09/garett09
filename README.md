@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Video of the missing model Gabriela Rico Jimenez that went viral in 2009 when her emotional outburst and arrest outside of a luxury hotel lead to her disappearance ever since. She accused Carlos Slim of stealing children and eating human flesh.](http://9gag.com/gag/aVbNxXv)
- - 🚯 [That&#39;s f**ked up](http://9gag.com/gag/aZDG07z)
- - 🚯 [Quick maths](http://9gag.com/gag/aeQv4Ev)<!-- MEMES:END -->
+ - 🚖 [Ticket jumper](http://9gag.com/gag/aDYE62d)
+ - 🚯 [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)
+ - 🚯 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)<!-- MEMES:END -->
 
 --- 
 
