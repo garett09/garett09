@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming in February](https://www.polygon.com/what-to-watch/2024/2/3/24055560/best-new-movies-netflix-amazon-prime-max-hulu-february-2024)
- - [Wordle today: Hint and answer #959 for Saturday, February 3](https://www.pcgamer.com/wordle-today-answer-959-february-3)
- - [Fallout: New Vegas mod turns power armor into the beastly tank suit it was meant to be, might finally get me to play something other than a sneaky sniper](https://www.pcgamer.com/this-new-vegas-mod-turns-power-armor-into-the-beast-tank-suits-they-were-meant-to-be-and-it-might-get-me-to-finally-be-something-other-than-a-sneaky-sniper)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, February 4](https://www.pcgamer.com/wordle-today-answer-february-4-2024)
+ - [The original tabletop deckbuilder Dominion is free-to-play on Steam, with AI powered by neural networks](https://www.pcgamer.com/the-original-tabletop-deckbuilder-dominion-is-free-to-play-on-steam-with-ai-powered-by-neural-networks)
+ - [Pokémon Go Chansey Community Day guide](https://www.polygon.com/pokemon-go-guide/24058199/chansey-community-day-happiny-egg-blissey-shiny)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
