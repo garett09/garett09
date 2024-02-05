@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ticket jumper](http://9gag.com/gag/aDYE62d)
- - 🚯 [New HIV drug Gammora passing its human clinical tests is AWESOME!](http://9gag.com/gag/a9q9zND)
- - 🚯 [The heart surgery didn\u2019t work lads - 33 years. Tachicardia playing up - send me your best memes please and let me go with a smile!](http://9gag.com/gag/a7qzopb)<!-- MEMES:END -->
+ - 🚖 [Out of the will](http://9gag.com/gag/aPgK8ZG)
+ - 🚯 [Not my job.](http://9gag.com/gag/agoP74n)
+ - 🚯 [What&#39;s yours? Post in the comments](http://9gag.com/gag/aVbNovw)<!-- MEMES:END -->
 
 --- 
 
