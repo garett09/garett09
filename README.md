@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
- - [How to Guarantee the Safety of Autonomous Vehicles](https://www.wired.com/story/how-to-guarantee-the-safety-of-autonomous-vehicles-driverless-cars-ai-waymo-cruise-robotaxi-tesla/)
- - [How we all get news now](https://www.theverge.com/24059488/news-reading-apps-arc-search-mr-mrs-smith-project-tapestry-installer-newsletter)<!-- TECH:END -->
+ - [Montenegro&#39;s government says it has extradited Han Chang-joon, the former CFO of Terraform Labs, to South Korea &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/240205/p9#a240205p9)
+ - [Source: Microsoft&#39;s Bethesda considers bringing the new Indiana Jones game to PS5, months after Xbox and PC release, as part of a new multi-platform approach &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240205/p8#a240205p8)
+ - [How to factory reset the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-factory-reset-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
