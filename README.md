@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, February 4](https://www.pcgamer.com/wordle-today-answer-february-4-2024)
- - [The original tabletop deckbuilder Dominion is free-to-play on Steam, with AI powered by neural networks](https://www.pcgamer.com/the-original-tabletop-deckbuilder-dominion-is-free-to-play-on-steam-with-ai-powered-by-neural-networks)
- - [Pokémon Go Chansey Community Day guide](https://www.polygon.com/pokemon-go-guide/24058199/chansey-community-day-happiny-egg-blissey-shiny)<!-- GAME:END -->
+ - [The Last Of Us co-creator and director teases a potential third entry: &#39;there&#39;s probably one more chapter to this story&#39;](https://www.pcgamer.com/the-last-of-us-co-creator-and-director-teases-a-potential-third-entry-theres-probably-one-more-chapter-to-this-story)
+ - [Star Wars Jedi: Survivor force pulls the grammy for best video game soundtrack](https://www.pcgamer.com/star-wars-jedi-survivor-force-pulls-the-grammy-for-best-video-game-soundtrack)
+ - [AMD&#39;s top Zen 5 motherboards will reportedly come in a triple-chip configuration for guaranteed USB4 40Gbps support](https://www.pcgamer.com/amds-top-zen-5-motherboards-will-reportedly-come-in-a-triple-chip-configuration-for-guaranteed-usb4-40gbps-support)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
