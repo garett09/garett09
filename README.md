@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us co-creator and director teases a potential third entry: &#39;there&#39;s probably one more chapter to this story&#39;](https://www.pcgamer.com/the-last-of-us-co-creator-and-director-teases-a-potential-third-entry-theres-probably-one-more-chapter-to-this-story)
- - [Star Wars Jedi: Survivor force pulls the grammy for best video game soundtrack](https://www.pcgamer.com/star-wars-jedi-survivor-force-pulls-the-grammy-for-best-video-game-soundtrack)
- - [AMD&#39;s top Zen 5 motherboards will reportedly come in a triple-chip configuration for guaranteed USB4 40Gbps support](https://www.pcgamer.com/amds-top-zen-5-motherboards-will-reportedly-come-in-a-triple-chip-configuration-for-guaranteed-usb4-40gbps-support)<!-- GAME:END -->
+ - [Spendthrift gooners left deeply frustrated their new $3,500 Apple headsets don&#39;t support existing VR smut, damn the tech as &#39;worse than PSVR2&#39;](https://www.pcgamer.com/spendthrift-gooners-left-deeply-frustrated-their-new-dollar3500-apple-headsets-dont-support-existing-vr-smut-damn-the-tech-as-worse-than-psvr2)
+ - [Viral clip of Tesla driver wearing Apple Vision Pro leads US gov to remind everyone &#39;self-driving&#39; cars don&#39;t mean you can take your eyes off the road](https://www.pcgamer.com/viral-clip-of-tesla-driver-wearing-apple-vision-pro-leads-us-gov-to-remind-everyone-self-driving-cars-dont-mean-you-can-take-your-eyes-off-the-road)
+ - [Turtle Beach Stealth Ultra review](https://www.pcgamer.com/turtle-beach-stealth-ultra-controller-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
