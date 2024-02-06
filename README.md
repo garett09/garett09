@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Out of the will](http://9gag.com/gag/aPgK8ZG)
- - 🚯 [Not my job.](http://9gag.com/gag/agoP74n)
- - 🚯 [What&#39;s yours? Post in the comments](http://9gag.com/gag/aVbNovw)<!-- MEMES:END -->
+ - 🚖 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
+ - 🚯 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
+ - 🚯 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)<!-- MEMES:END -->
 
 --- 
 
