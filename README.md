@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Montenegro&#39;s government says it has extradited Han Chang-joon, the former CFO of Terraform Labs, to South Korea &lpar;Sandali Handagama/CoinDesk&rpar;](http://www.techmeme.com/240205/p9#a240205p9)
- - [Source: Microsoft&#39;s Bethesda considers bringing the new Indiana Jones game to PS5, months after Xbox and PC release, as part of a new multi-platform approach &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240205/p8#a240205p8)
- - [How to factory reset the Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-factory-reset-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Meta Will Crack Down on AI-Generated Fakes—but Leave Plenty Undetected](https://www.wired.com/story/meta-crack-down-ai-generated-fakes/)
+ - [Meta says you better disclose your AI fakes or it might just pull them](https://www.theverge.com/2024/2/6/24062388/meta-ai-photo-watermark-facebook-instagram-threads)
+ - [Unsurprisingly, Apple Vision Pro lenses will scratch if you try to destroy them](https://appleinsider.com/articles/24/02/06/unsurprisingly-apple-vision-pro-lenses-will-scratch-if-you-try-to-destroy-them?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
