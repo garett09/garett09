@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spendthrift gooners left deeply frustrated their new $3,500 Apple headsets don&#39;t support existing VR smut, damn the tech as &#39;worse than PSVR2&#39;](https://www.pcgamer.com/spendthrift-gooners-left-deeply-frustrated-their-new-dollar3500-apple-headsets-dont-support-existing-vr-smut-damn-the-tech-as-worse-than-psvr2)
- - [Viral clip of Tesla driver wearing Apple Vision Pro leads US gov to remind everyone &#39;self-driving&#39; cars don&#39;t mean you can take your eyes off the road](https://www.pcgamer.com/viral-clip-of-tesla-driver-wearing-apple-vision-pro-leads-us-gov-to-remind-everyone-self-driving-cars-dont-mean-you-can-take-your-eyes-off-the-road)
- - [Turtle Beach Stealth Ultra review](https://www.pcgamer.com/turtle-beach-stealth-ultra-controller-review)<!-- GAME:END -->
+ - [Despite Final Fantasy 7 Rebirth not having a concrete PC release date, it&#39;s just shot right to the top of my 2024 wish list for one hella big reason](https://www.pcgamer.com/despite-final-fantasy-7-rebirth-not-having-a-concrete-pc-release-date-its-just-shot-right-to-the-top-of-my-2024-wish-list-for-one-hella-big-reason)
+ - [RuneScape developer Jagex is on the verge of being acquired again, this time by the backers of the Six Nations rugby tournament in a deal worth $900 million](https://www.pcgamer.com/runescape-developer-jagex-is-on-the-verge-of-being-acquired-again-this-time-by-the-backers-of-the-six-nations-rugby-tournament-in-a-deal-worth-dollar900-million)
+ - [Opera buys its own Nvidia H100 mini-supercomputer, just so you can have a spot of AI in a web browser](https://www.pcgamer.com/opera-buys-its-own-nvidia-h100-mini-supercomputer-just-so-you-can-have-a-spot-of-ai-in-a-web-browser)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
