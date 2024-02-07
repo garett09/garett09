@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [AmEriCaN PoLiCe](http://9gag.com/gag/anzLE7n)
- - 🚯 [What should I wear going out in London](http://9gag.com/gag/amAEMrV)
- - 🚯 [Election officer tampering with votes realizes that there&#39;s a CCTV camera right above him](http://9gag.com/gag/aEqLXdn)<!-- MEMES:END -->
+ - 🚖 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
+ - 🚯 [Rage comic and traditional ending.](http://9gag.com/gag/a042wLq)
+ - 🚯 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
 
 --- 
 
