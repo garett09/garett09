@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Will Crack Down on AI-Generated Fakes—but Leave Plenty Undetected](https://www.wired.com/story/meta-crack-down-ai-generated-fakes/)
- - [Meta says you better disclose your AI fakes or it might just pull them](https://www.theverge.com/2024/2/6/24062388/meta-ai-photo-watermark-facebook-instagram-threads)
- - [Unsurprisingly, Apple Vision Pro lenses will scratch if you try to destroy them](https://appleinsider.com/articles/24/02/06/unsurprisingly-apple-vision-pro-lenses-will-scratch-if-you-try-to-destroy-them?utm_medium=rss)<!-- TECH:END -->
+ - [Why Apple Vision Pro constantly strobing matters to your health](https://appleinsider.com/inside/apple-vision-pro/tips/why-apple-vision-pro-constantly-strobing-matters-to-your-health?utm_medium=rss)
+ - [Alibaba cut ~20K staff during 2023, ending December with 219,260 employees, after cutting roughly the same number in 2022, and bought $9.5B of its stock in 2023 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240207/p13#a240207p13)
+ - [LinkedIn&#39;s New AI Chatbot Wants to Help You Find Your Next Job](https://www.wired.com/story/linkedin-ai-chatbot-help-find-your-next-job/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
