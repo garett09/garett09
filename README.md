@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Apple Vision Pro constantly strobing matters to your health](https://appleinsider.com/inside/apple-vision-pro/tips/why-apple-vision-pro-constantly-strobing-matters-to-your-health?utm_medium=rss)
- - [Alibaba cut ~20K staff during 2023, ending December with 219,260 employees, after cutting roughly the same number in 2022, and bought $9.5B of its stock in 2023 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240207/p13#a240207p13)
- - [LinkedIn&#39;s New AI Chatbot Wants to Help You Find Your Next Job](https://www.wired.com/story/linkedin-ai-chatbot-help-find-your-next-job/)<!-- TECH:END -->
+ - [Google adds a $20 per month AI Premium plan to Google One, offering Gemini Advanced with the Ultra 1.0 model, and rebrands Duet AI as Gemini for Workspace &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240208/p20#a240208p20)
+ - [Google releases Gemini Ultra 1.0, the largest and most capable version of its LLMs, and renames Bard to Gemini, which now has a dedicated Android app &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240208/p19#a240208p19)
+ - [The most popular Android phone in 2023 didn’t even have 5G](https://www.androidauthority.com/top-10-most-popular-phones-2023-3412216/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
