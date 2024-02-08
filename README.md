@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deputies car gets hit by train with suspect still inside](http://9gag.com/gag/axoXPb1)
- - 🚯 [Rage comic and traditional ending.](http://9gag.com/gag/a042wLq)
- - 🚯 [Goal celebration gone wrong](http://9gag.com/gag/aKErO4Q)<!-- MEMES:END -->
+ - 🚖 [I give up!](http://9gag.com/gag/axoXnbn)
+ - 🚯 [The only worthy reason to buy Apple Vision Pro](http://9gag.com/gag/aKErnEj)
+ - 🚯 [The reaction of two scientists when they realized they had captured images of an animal not seen for 140 years](http://9gag.com/gag/aBd7vyQ)<!-- MEMES:END -->
 
 --- 
 
