@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anime more powerful than ever as Persona 3 Reload becomes the fastest selling game in Atlus&#39; history](https://www.pcgamer.com/anime-more-powerful-than-ever-as-persona-3-reload-becomes-the-fastest-selling-game-in-atlus-history)
- - [Halo season 2’s opening minutes are the best the show has ever been](https://www.polygon.com/24063790/halo-season-2-episode-1-review-master-chief-arbiter-sanctuary)
- - [Starfield&#39;s latest update will end the scourge of vibrating clouds](https://www.pcgamer.com/starfields-latest-update-will-end-the-scourge-of-vibrating-clouds)<!-- GAME:END -->
+ - [New report predicts 60% of PCs sold will be AI-capable by 2027 and I just died of not surprise](https://www.pcgamer.com/new-report-predicts-60-of-pcs-sold-will-be-ai-capable-by-2027-and-i-just-died-of-not-surprise)
+ - [Diablo 2 speedrunner effortlessly trolls audience by breezily selling ultra-rare rune it&#39;s taken others 20 years to find](https://www.pcgamer.com/diablo-2-speedrunner-effortlessly-trolls-audience-by-breezily-selling-ultra-rare-rune-its-taken-others-20-years-to-find)
+ - [Former Overwatch 2 artist alleges shocking mistreatment by Blizzard management: &#39;I spent most of a year stressed out of my mind&#39;](https://www.pcgamer.com/former-overwatch-2-artist-alleges-shocking-mistreatment-by-blizzard-management-i-spent-most-of-a-year-stressed-out-of-my-mind)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
