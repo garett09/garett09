@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds a $20 per month AI Premium plan to Google One, offering Gemini Advanced with the Ultra 1.0 model, and rebrands Duet AI as Gemini for Workspace &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240208/p20#a240208p20)
- - [Google releases Gemini Ultra 1.0, the largest and most capable version of its LLMs, and renames Bard to Gemini, which now has a dedicated Android app &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240208/p19#a240208p19)
- - [The most popular Android phone in 2023 didn’t even have 5G](https://www.androidauthority.com/top-10-most-popular-phones-2023-3412216/)<!-- TECH:END -->
+ - [5 Best Water Bottles We&#39;ve Tested &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
+ - [Stealing Apple trade secrets can get you 120 days in prison and a boatload of debt](https://appleinsider.com/articles/24/02/08/stealing-apple-trade-secrets-can-get-you-120-days-in-prison-and-a-boatload-of-debt?utm_medium=rss)
+ - [Something is happening to Progressive Web Apps in iOS 17.4 -- but they aren&#39;t dead](https://appleinsider.com/articles/24/02/09/something-is-happening-to-progressive-web-apps-in-ios-174----but-they-arent-dead?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
