@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New report predicts 60% of PCs sold will be AI-capable by 2027 and I just died of not surprise](https://www.pcgamer.com/new-report-predicts-60-of-pcs-sold-will-be-ai-capable-by-2027-and-i-just-died-of-not-surprise)
- - [Diablo 2 speedrunner effortlessly trolls audience by breezily selling ultra-rare rune it&#39;s taken others 20 years to find](https://www.pcgamer.com/diablo-2-speedrunner-effortlessly-trolls-audience-by-breezily-selling-ultra-rare-rune-its-taken-others-20-years-to-find)
- - [Former Overwatch 2 artist alleges shocking mistreatment by Blizzard management: &#39;I spent most of a year stressed out of my mind&#39;](https://www.pcgamer.com/former-overwatch-2-artist-alleges-shocking-mistreatment-by-blizzard-management-i-spent-most-of-a-year-stressed-out-of-my-mind)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Saturday, February 10](https://www.pcgamer.com/wordle-today-answer-february-10-2024)
+ - [True Detective: Night Country episode 5 solves one mystery and opens up a few more](https://www.polygon.com/24065500/true-detective-night-country-episode-5-review-ending)
+ - [I played 50 Steam Next Fest demos this week, and these are my top 5](https://www.pcgamer.com/i-played-50-steam-next-fest-demos-this-week-and-these-are-my-top-5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
