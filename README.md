@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [HolUp 13?](http://9gag.com/gag/a3ZVeye)
- - 🚯 [Samsung customer `SUPPORT` &lpar;Save Samsung deletes the video&rpar;](http://9gag.com/gag/a8qBvQ6)
- - 🚯 [Bro is on a mission](http://9gag.com/gag/aYV2d50)<!-- MEMES:END -->
+ - 🚖 [Bob&#39;s a good guy. Cheers, Bob!](http://9gag.com/gag/aBd7zWZ)
+ - 🚯 [Level 3 reaction meme](http://9gag.com/gag/aA0o9np)
+ - 🚯 [Good save](http://9gag.com/gag/a3ZVrZ7)<!-- MEMES:END -->
 
 --- 
 
