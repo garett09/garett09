@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Water Bottles We&#39;ve Tested &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
- - [Stealing Apple trade secrets can get you 120 days in prison and a boatload of debt](https://appleinsider.com/articles/24/02/08/stealing-apple-trade-secrets-can-get-you-120-days-in-prison-and-a-boatload-of-debt?utm_medium=rss)
- - [Something is happening to Progressive Web Apps in iOS 17.4 -- but they aren&#39;t dead](https://appleinsider.com/articles/24/02/09/something-is-happening-to-progressive-web-apps-in-ios-174----but-they-arent-dead?utm_medium=rss)<!-- TECH:END -->
+ - [Did Climate Change Help This Skier Achieve the Impossible?](https://www.wired.com/story/daniel-yule-skiing-world-cup-chamonix-climate-change-slalom/)
+ - [Camera quick look: Samsung Galaxy S24 Ultra vs Google’s and Apple’s best](https://www.androidauthority.com/galaxy-s24-ultra-camera-vs-3410311/)
+ - [Nanit Pro Camera Review &lpar;2024&rpar;: A Super Smart, Expensive Baby Monitor](https://www.wired.com/review/nanit-pro-camera/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
