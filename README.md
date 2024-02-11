@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, February 10](https://www.pcgamer.com/wordle-today-answer-february-10-2024)
- - [True Detective: Night Country episode 5 solves one mystery and opens up a few more](https://www.polygon.com/24065500/true-detective-night-country-episode-5-review-ending)
- - [I played 50 Steam Next Fest demos this week, and these are my top 5](https://www.pcgamer.com/i-played-50-steam-next-fest-demos-this-week-and-these-are-my-top-5)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, February 11](https://www.pcgamer.com/wordle-today-answer-february-11-2024)
+ - [This game wants to blend survival and tycoon games in a race to build a moon colony](https://www.pcgamer.com/this-game-wants-to-blend-survival-and-tycoon-games-in-a-race-to-build-a-moon-colony)
+ - [Narrative, open-world survival in The Planet Crafter will have a co-op mode and a 1.0 release this year](https://www.pcgamer.com/narrative-open-world-survival-in-the-planet-crafter-will-have-a-co-op-mode-and-a-10-release-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
