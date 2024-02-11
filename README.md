@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did Climate Change Help This Skier Achieve the Impossible?](https://www.wired.com/story/daniel-yule-skiing-world-cup-chamonix-climate-change-slalom/)
- - [Camera quick look: Samsung Galaxy S24 Ultra vs Google’s and Apple’s best](https://www.androidauthority.com/galaxy-s24-ultra-camera-vs-3410311/)
- - [Nanit Pro Camera Review &lpar;2024&rpar;: A Super Smart, Expensive Baby Monitor](https://www.wired.com/review/nanit-pro-camera/)<!-- TECH:END -->
+ - [Samsung Galaxy S24 Ultra vs Samsung Galaxy S23 Ultra: Which telephoto camera is better?](https://www.androidauthority.com/samsung-galaxy-s24-ultra-vs-samsung-galaxy-s23-ultra-telephoto-throw-down-3411228/)
+ - [A Celebrated Cryptography-Breaking Algorithm Just Got an Upgrade](https://www.wired.com/story/cryptography-algorithm-upgrade-security/)
+ - [The hottest new&lpar;ish&rpar; thing in social networks](https://www.theverge.com/2024/2/11/24067832/bluesky-gemini-ring-weather-app-icloud-installer-newsletter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
