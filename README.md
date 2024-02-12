@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S24 Ultra vs Samsung Galaxy S23 Ultra: Which telephoto camera is better?](https://www.androidauthority.com/samsung-galaxy-s24-ultra-vs-samsung-galaxy-s23-ultra-telephoto-throw-down-3411228/)
- - [A Celebrated Cryptography-Breaking Algorithm Just Got an Upgrade](https://www.wired.com/story/cryptography-algorithm-upgrade-security/)
- - [The hottest new&lpar;ish&rpar; thing in social networks](https://www.theverge.com/2024/2/11/24067832/bluesky-gemini-ring-weather-app-icloud-installer-newsletter)<!-- TECH:END -->
+ - [The Hidden Injustice of Cyberattacks](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
+ - [The best Linux distros for 2024](https://www.androidauthority.com/best-linux-distros-3411058/)
+ - [How the US plans to use open radio access networks, or Open RAN, to displace Huawei&#39;s networking tech, including allocating $1.5B+ to bolster global adoption &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240212/p7#a240212p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
