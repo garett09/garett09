@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, February 11](https://www.pcgamer.com/wordle-today-answer-february-11-2024)
- - [This game wants to blend survival and tycoon games in a race to build a moon colony](https://www.pcgamer.com/this-game-wants-to-blend-survival-and-tycoon-games-in-a-race-to-build-a-moon-colony)
- - [Narrative, open-world survival in The Planet Crafter will have a co-op mode and a 1.0 release this year](https://www.pcgamer.com/narrative-open-world-survival-in-the-planet-crafter-will-have-a-co-op-mode-and-a-10-release-this-year)<!-- GAME:END -->
+ - [One memory to rule them all? New &#39;superlattice&#39; material promises an efficient world of universal memory](https://www.pcgamer.com/one-memory-to-rule-them-all-new-superlattice-material-promises-an-efficient-world-of-universal-memory)
+ - [Helldivers 2 creative director argues games should &#39;earn the right to monetize&#39;, says its only pay-to-win item is a revolver that&#39;ll get you gold in a &#39;cool gun competition&#39;](https://www.pcgamer.com/helldivers-2-creative-director-argues-games-should-earn-the-right-to-monetize-says-its-only-pay-to-win-item-is-a-revolver-thatll-get-you-gold-in-a-cool-gun-competition)
+ - [AMD isn&#39;t alone in the Easter egg silicon doodle market, chipmakers have etched hamburgers, zombies, Smurfs, and even Groucho Marx onto their products in the past](https://www.pcgamer.com/amd-isnt-alone-in-the-easter-egg-silicon-doodle-market-chipmakers-have-etched-hamburgers-zombies-smurfs-and-even-groucho-marx-onto-their-products-in-the-past)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
