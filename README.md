@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [15-year-old illegal, immigrant from Venezuela, took out 45 auto and shot into a crowd. Lots of surprises and regret when he got caught.](http://9gag.com/gag/a6qAYjA)
- - 🚯 [Why would you purposefully become a single mother with a mixed race child? Who would want to make their life this much harder? Why?](http://9gag.com/gag/aKEroyg)
- - 🚯 [Wait a bladclat minute](http://9gag.com/gag/aPgKbvQ)<!-- MEMES:END -->
+ - 🚖 [Well played](http://9gag.com/gag/amAEEvj)
+ - 🚯 [No capes here.](http://9gag.com/gag/abv972b)
+ - 🚯 [The Father Daughter Energy Is Unrivaled](http://9gag.com/gag/avQ33zX)<!-- MEMES:END -->
 
 --- 
 
