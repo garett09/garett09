@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well played](http://9gag.com/gag/amAEEvj)
- - 🚯 [No capes here.](http://9gag.com/gag/abv972b)
- - 🚯 [The Father Daughter Energy Is Unrivaled](http://9gag.com/gag/avQ33zX)<!-- MEMES:END -->
+ - 🚖 [Best day of his life](http://9gag.com/gag/aPgKOMq)
+ - 🚯 [If you know you know](http://9gag.com/gag/anzLAdq)
+ - 🚯 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)<!-- MEMES:END -->
 
 --- 
 
