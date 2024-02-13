@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One memory to rule them all? New &#39;superlattice&#39; material promises an efficient world of universal memory](https://www.pcgamer.com/one-memory-to-rule-them-all-new-superlattice-material-promises-an-efficient-world-of-universal-memory)
- - [Helldivers 2 creative director argues games should &#39;earn the right to monetize&#39;, says its only pay-to-win item is a revolver that&#39;ll get you gold in a &#39;cool gun competition&#39;](https://www.pcgamer.com/helldivers-2-creative-director-argues-games-should-earn-the-right-to-monetize-says-its-only-pay-to-win-item-is-a-revolver-thatll-get-you-gold-in-a-cool-gun-competition)
- - [AMD isn&#39;t alone in the Easter egg silicon doodle market, chipmakers have etched hamburgers, zombies, Smurfs, and even Groucho Marx onto their products in the past](https://www.pcgamer.com/amd-isnt-alone-in-the-easter-egg-silicon-doodle-market-chipmakers-have-etched-hamburgers-zombies-smurfs-and-even-groucho-marx-onto-their-products-in-the-past)<!-- GAME:END -->
+ - [PlayStation Store: January 2024’s top downloads](https://blog.playstation.com/2024/02/13/playstation-store-january-2024s-top-downloads/)
+ - [The best ways to kill Chargers in Helldivers 2](https://www.pcgamer.com/helldivers-2-kill-chargers)
+ - [The future is here whether you want it or not as AI briefly makes Nvidia the 4th most valuable corporation on Earth with a $1.83 trillion market cap](https://www.pcgamer.com/the-future-is-here-whether-you-want-it-or-not-as-ai-briefly-makes-nvidia-the-4th-most-valuable-corporation-on-earth-with-a-dollar183-trillion-market-cap)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
