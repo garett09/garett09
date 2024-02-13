@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hidden Injustice of Cyberattacks](https://www.wired.com/story/cybersecurity-marginalized-communities-problem/)
- - [The best Linux distros for 2024](https://www.androidauthority.com/best-linux-distros-3411058/)
- - [How the US plans to use open radio access networks, or Open RAN, to displace Huawei&#39;s networking tech, including allocating $1.5B+ to bolster global adoption &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240212/p7#a240212p7)<!-- TECH:END -->
+ - [EU backs down, won&#39;t force Apple to open iMessage to rivals](https://appleinsider.com/articles/24/02/13/eu-backs-down-wont-force-apple-to-open-imessage-to-rivals?utm_medium=rss)
+ - [Shopify reports Q4 revenue up 24% YoY to $2.1B, above $2.08B est., and Gross Merchandise Volume up 23% YoY to $75.1B, above $71.6B est.; SHOP drops 10%+ &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240213/p12#a240213p12)
+ - [Snag a Windows 11 Pro License for Only $23 While You Can     - CNET](https://www.cnet.com/deals/snag-a-windows-11-pro-license-for-only-23-while-you-can/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
