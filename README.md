@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best day of his life](http://9gag.com/gag/aPgKOMq)
- - 🚯 [If you know you know](http://9gag.com/gag/anzLAdq)
- - 🚯 [When you gotta go you gotta go](http://9gag.com/gag/a4oDeWy)<!-- MEMES:END -->
+ - 🚖 [A Ship&#39;s Strong Preparation For Pirate Attacks](http://9gag.com/gag/ay2g5wX)
+ - 🚯 [Who will be your date on Valentine&#39;s Day?](http://9gag.com/gag/aNwxZW4)
+ - 🚯 [A better way to deal with Somari pilates](http://9gag.com/gag/a2KBPdw)<!-- MEMES:END -->
 
 --- 
 
