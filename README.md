@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: January 2024’s top downloads](https://blog.playstation.com/2024/02/13/playstation-store-january-2024s-top-downloads/)
- - [The best ways to kill Chargers in Helldivers 2](https://www.pcgamer.com/helldivers-2-kill-chargers)
- - [The future is here whether you want it or not as AI briefly makes Nvidia the 4th most valuable corporation on Earth with a $1.83 trillion market cap](https://www.pcgamer.com/the-future-is-here-whether-you-want-it-or-not-as-ai-briefly-makes-nvidia-the-4th-most-valuable-corporation-on-earth-with-a-dollar183-trillion-market-cap)<!-- GAME:END -->
+ - [Mario vs. Donkey Kong is fine, but Nintendo remade the wrong game](https://www.polygon.com/reviews/24072246/mario-vs-donkey-kong-switch-review)
+ - [Against literally nobody&#39;s expectations Mark Zuckerberg says his Quest 3 headset is better than the Apple Vision Pro](https://www.pcgamer.com/against-literally-nobodys-expectations-mark-zuckerberg-says-his-quest-3-headset-is-better-than-the-apple-vision-pro)
+ - [Deep Rock Galactic&#39;s first spin-off is out now in Early Access, and it&#39;s the best autobattler since Vampire Survivors](https://www.pcgamer.com/deep-rock-galactics-first-spin-off-is-out-now-in-early-access-and-its-the-best-autobattler-since-vampire-survivors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
