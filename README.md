@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU backs down, won&#39;t force Apple to open iMessage to rivals](https://appleinsider.com/articles/24/02/13/eu-backs-down-wont-force-apple-to-open-imessage-to-rivals?utm_medium=rss)
- - [Shopify reports Q4 revenue up 24% YoY to $2.1B, above $2.08B est., and Gross Merchandise Volume up 23% YoY to $75.1B, above $71.6B est.; SHOP drops 10%+ &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240213/p12#a240213p12)
- - [Snag a Windows 11 Pro License for Only $23 While You Can     - CNET](https://www.cnet.com/deals/snag-a-windows-11-pro-license-for-only-23-while-you-can/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DuckDuckGo’s privacy browser adds built-in password syncing](https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption)
+ - [Google joins a mission to map global methane emissions from space](https://www.theverge.com/2024/2/14/24071100/google-methane-satellite-ai-map-climate-change)
+ - [Google&#39;s TAG says a pro-Palestinian hacking group targeted Israeli software engineers to download malware ahead of October 7, in an attack dubbed Blackatom &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/240214/p17#a240214p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
