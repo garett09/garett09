@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario vs. Donkey Kong is fine, but Nintendo remade the wrong game](https://www.polygon.com/reviews/24072246/mario-vs-donkey-kong-switch-review)
- - [Against literally nobody&#39;s expectations Mark Zuckerberg says his Quest 3 headset is better than the Apple Vision Pro](https://www.pcgamer.com/against-literally-nobodys-expectations-mark-zuckerberg-says-his-quest-3-headset-is-better-than-the-apple-vision-pro)
- - [Deep Rock Galactic&#39;s first spin-off is out now in Early Access, and it&#39;s the best autobattler since Vampire Survivors](https://www.pcgamer.com/deep-rock-galactics-first-spin-off-is-out-now-in-early-access-and-its-the-best-autobattler-since-vampire-survivors)<!-- GAME:END -->
+ - [Avatar: The Last Airbender is getting a &#39;competitive multiplayer fighting game&#39; in 2025](https://www.pcgamer.com/avatar-the-last-airbender-is-getting-a-competitive-multiplayer-fighting-game-in-2025)
+ - [Sony InZone Buds review](https://www.pcgamer.com/sony-inzone-buds-review)
+ - [PlayStation bosses say they want to work more &#39;proactively&#39; on PC releases, and it sure sounds like Sony is gearing up for more simultaneous debuts like Helldivers 2](https://www.pcgamer.com/playstation-bosses-say-they-want-to-work-more-proactively-on-pc-releases-and-it-sure-sounds-like-sony-is-gearing-up-for-more-simultaneous-debuts-like-helldivers-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
