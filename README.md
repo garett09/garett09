@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Understandable, have a nice day](http://9gag.com/gag/awZRVZ1)
- - 🚯 [How to live rent free in Democrat Cities](http://9gag.com/gag/aqe3N9R)
- - 🚯 [Tax payer funded designer clothes, free phone, free housing, free healthcare, arrogant, obnoxious, refuses to work and refuses to obey the host countries laws...this is the European Union.](http://9gag.com/gag/adPZp39)<!-- MEMES:END -->
+ - 🚖 [Who tf they let in the studio bro](http://9gag.com/gag/aKE0V6b)
+ - 🚯 [Palworld](http://9gag.com/gag/aZDApXp)
+ - 🚯 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)<!-- MEMES:END -->
 
 --- 
 
