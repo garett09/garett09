@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here Comes the Flood of AI-Generated Clickbait](https://www.wired.com/story/gadget-lab-podcast-632/)
- - [Famed investor Warren Buffett again trims stake in Apple](https://appleinsider.com/articles/24/02/15/famed-investor-warren-buffett-again-trims-stake-in-apple?utm_medium=rss)
- - [11 Best President’s Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2024/)<!-- TECH:END -->
+ - [eSIM vs iSIM: How do the physical SIM replacements compare?](https://www.androidauthority.com/esim-vs-isim-3415516/)
+ - [Nikon Zf Review: A Mirrorless Camera With Classic Style](https://www.wired.com/review/nikon-zf-mirrorless-camera/)
+ - [Why does Apple make it so hard to share the Vision Pro?](https://www.theverge.com/2024/2/16/24058318/apple-vision-pro-sharing-difficulties)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
