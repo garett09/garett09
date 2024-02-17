@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who tf they let in the studio bro](http://9gag.com/gag/aKE0V6b)
- - 🚯 [Palworld](http://9gag.com/gag/aZDApXp)
- - 🚯 [Wow, Megan Fox and she&#39;s only 37. Why?](http://9gag.com/gag/a2KBdPY)<!-- MEMES:END -->
+ - 🚖 [That is not normal at all. About time to cut that shit out of my life](http://9gag.com/gag/a3Z9Kdm)
+ - 🚯 [Breaking character](http://9gag.com/gag/aWGKmb3)
+ - 🚯 [Working on a paper plane game where environmental physics is key](http://9gag.com/gag/arm658y)<!-- MEMES:END -->
 
 --- 
 
