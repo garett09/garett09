@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eSIM vs iSIM: How do the physical SIM replacements compare?](https://www.androidauthority.com/esim-vs-isim-3415516/)
- - [Nikon Zf Review: A Mirrorless Camera With Classic Style](https://www.wired.com/review/nikon-zf-mirrorless-camera/)
- - [Why does Apple make it so hard to share the Vision Pro?](https://www.theverge.com/2024/2/16/24058318/apple-vision-pro-sharing-difficulties)<!-- TECH:END -->
+ - [All That Rain Is Driving Up Cases of a Deadly Fungal Disease in California](https://www.wired.com/story/intensifying-atmospheric-rivers-surge-in-valley-fever-cases-in-california-infectious-disease-fungi/)
+ - [Q&amp;A with Figma CEO Dylan Field on managing the company after the failed sale to Adobe, maintaining culture, using the $1B breakup fee, expansion plans, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240217/p4#a240217p4)
+ - [19 Best Presidents&#39; Day Deals on Home and Kitchen Gear &lpar;2024&rpar;](https://www.wired.com/story/best-presidents-day-deals-home-and-kitchen/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
