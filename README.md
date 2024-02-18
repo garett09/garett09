@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Salute the flag of capitalism with our best President’s Day deals](https://www.polygon.com/24074888/best-gaming-deals-presidents-day-sale)
- - [Today&#39;s Wordle answer for Saturday, February 17](https://www.pcgamer.com/wordle-answer-today-february-17-2024)
- - [Get To Know Our Team: Tyler – Technical Program Manager &lpar;Commerce &amp; Subscriptions&rpar;](https://news.xbox.com/en-us/2024/02/16/get-to-know-our-team-tyler-technical-program-manager-commerce-subscriptions/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, February 18](https://www.pcgamer.com/wordle-answer-today-february-18-2024)
+ - [SpellRogue is a dice-tossing take on the Slay the Spire format](https://www.pcgamer.com/spellrogue-is-a-dice-tossing-take-on-the-slay-the-spire-format)
+ - [Creative Assembly shows off hag lore, three-headed heroes, and other additions coming to Total War: Warhammer 3&#39;s DLC](https://www.pcgamer.com/creative-assembly-shows-off-hag-lore-three-headed-heroes-and-other-additions-coming-to-total-war-warhammer-3s-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
