@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That is not normal at all. About time to cut that shit out of my life](http://9gag.com/gag/a3Z9Kdm)
- - 🚯 [Breaking character](http://9gag.com/gag/aWGKmb3)
- - 🚯 [Working on a paper plane game where environmental physics is key](http://9gag.com/gag/arm658y)<!-- MEMES:END -->
+ - 🚖 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
+ - 🚯 [Black Power](http://9gag.com/gag/aGE3dD7)
+ - 🚯 [Women](http://9gag.com/gag/aqe3K9p)<!-- MEMES:END -->
 
 --- 
 
