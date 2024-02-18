@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All That Rain Is Driving Up Cases of a Deadly Fungal Disease in California](https://www.wired.com/story/intensifying-atmospheric-rivers-surge-in-valley-fever-cases-in-california-infectious-disease-fungi/)
- - [Q&amp;A with Figma CEO Dylan Field on managing the company after the failed sale to Adobe, maintaining culture, using the $1B breakup fee, expansion plans, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240217/p4#a240217p4)
- - [19 Best Presidents&#39; Day Deals on Home and Kitchen Gear &lpar;2024&rpar;](https://www.wired.com/story/best-presidents-day-deals-home-and-kitchen/)<!-- TECH:END -->
+ - [A look at Nvidia&#39;s AI startup investments through Nventures and its corporate development team, deals that come with intangibles, like access to research teams &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240218/p4#a240218p4)
+ - [Google’s Chess Experiments Reveal How to Boost the Power of AI](https://www.wired.com/story/google-artificial-intelligence-chess/)
+ - [How to live your life in text files](https://www.theverge.com/2024/2/18/24075077/bose-ultra-open-superlist-bulletin-text-files-note-apps-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
