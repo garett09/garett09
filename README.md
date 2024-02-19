@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A student from Canada gets to his studies by airplane to avoid rent](http://9gag.com/gag/aL1YpAM)
- - 🚯 [Black Power](http://9gag.com/gag/aGE3dD7)
- - 🚯 [Women](http://9gag.com/gag/aqe3K9p)<!-- MEMES:END -->
+ - 🚖 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
+ - 🚯 [Shrink governments](http://9gag.com/gag/arm6nYd)
+ - 🚯 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)<!-- MEMES:END -->
 
 --- 
 
