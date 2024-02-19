@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, February 18](https://www.pcgamer.com/wordle-answer-today-february-18-2024)
- - [SpellRogue is a dice-tossing take on the Slay the Spire format](https://www.pcgamer.com/spellrogue-is-a-dice-tossing-take-on-the-slay-the-spire-format)
- - [Creative Assembly shows off hag lore, three-headed heroes, and other additions coming to Total War: Warhammer 3&#39;s DLC](https://www.pcgamer.com/creative-assembly-shows-off-hag-lore-three-headed-heroes-and-other-additions-coming-to-total-war-warhammer-3s-dlc)<!-- GAME:END -->
+ - [Deep Rock Galactic studio head reveals he&#39;s been approached for a TV adaptation, says it&#39;s &#39;definitely viable&#39;, though he &#39;would want to be involved as well&#39;](https://www.pcgamer.com/deep-rock-galactic-studio-head-reveals-hes-been-approached-for-a-tv-adaptation-says-its-definitely-viable-though-he-would-want-to-be-involved-as-well)
+ - [Helldivers 2 patch makes its absurdly hard defence events easier, but ups the challenge at higher difficulties](https://www.pcgamer.com/helldivers-2-patch-makes-its-absurdly-hard-defence-events-easier-but-ups-the-challenge-at-higher-difficulties)
+ - [The server tech that saved WoW 10 years ago is causing problems for Classic&#39;s Season of Discovery, dev reveals: &#39;a layer is actually just sharding with a lot of sticky tape&#39;](https://www.pcgamer.com/the-server-tech-that-saved-wow-10-years-ago-is-causing-problems-for-classics-season-of-discovery-dev-reveals-a-layer-is-actually-just-sharding-with-a-lot-of-sticky-tape)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
