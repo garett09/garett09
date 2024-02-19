@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Nvidia&#39;s AI startup investments through Nventures and its corporate development team, deals that come with intangibles, like access to research teams &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240218/p4#a240218p4)
- - [Google’s Chess Experiments Reveal How to Boost the Power of AI](https://www.wired.com/story/google-artificial-intelligence-chess/)
- - [How to live your life in text files](https://www.theverge.com/2024/2/18/24075077/bose-ultra-open-superlist-bulletin-text-files-note-apps-installer)<!-- TECH:END -->
+ - [OnePlus begins teasing the OnePlus Watch 2](https://www.androidauthority.com/oneplus-watch-2-teasers-3416197/)
+ - [Google’s AI Boss Says Scale Only Gets You So Far](https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/)
+ - [Los Angeles Just Proved How Spongy a City Can Be](https://www.wired.com/story/los-angeles-just-proved-how-spongy-a-city-can-be/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
