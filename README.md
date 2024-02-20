@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every girl should be a woman of mystery](http://9gag.com/gag/aOxgxjM)
- - 🚯 [Shrink governments](http://9gag.com/gag/arm6nYd)
- - 🚯 [Damn you, Tucker!!!!](http://9gag.com/gag/a6qv1eA)<!-- MEMES:END -->
+ - 🚖 [Lol.](http://9gag.com/gag/aGE3nV6)
+ - 🚯 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
+ - 🚯 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
 
 --- 
 
