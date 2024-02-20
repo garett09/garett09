@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus begins teasing the OnePlus Watch 2](https://www.androidauthority.com/oneplus-watch-2-teasers-3416197/)
- - [Google’s AI Boss Says Scale Only Gets You So Far](https://www.wired.com/story/deepmind-ceo-demis-hassabis-interview-artificial-intelligence-scale/)
- - [Los Angeles Just Proved How Spongy a City Can Be](https://www.wired.com/story/los-angeles-just-proved-how-spongy-a-city-can-be/)<!-- TECH:END -->
+ - [AI Is Coming for the Experts. First, It Needs Their Help](https://www.wired.com/story/remotasks-ai-expert-data-labor/)
+ - [How to revert macOS to the previous version](https://appleinsider.com/inside/macos/tips/how-to-revert-macos-to-the-previous-version?utm_medium=rss)
+ - [The Notorious Lockbit Ransomware Gang Has Been Disrupted by Law Enforcement](https://www.wired.com/story/lockbit-ransomware-takedown-website-nca-fbi/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
