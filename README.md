@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deep Rock Galactic studio head reveals he&#39;s been approached for a TV adaptation, says it&#39;s &#39;definitely viable&#39;, though he &#39;would want to be involved as well&#39;](https://www.pcgamer.com/deep-rock-galactic-studio-head-reveals-hes-been-approached-for-a-tv-adaptation-says-its-definitely-viable-though-he-would-want-to-be-involved-as-well)
- - [Helldivers 2 patch makes its absurdly hard defence events easier, but ups the challenge at higher difficulties](https://www.pcgamer.com/helldivers-2-patch-makes-its-absurdly-hard-defence-events-easier-but-ups-the-challenge-at-higher-difficulties)
- - [The server tech that saved WoW 10 years ago is causing problems for Classic&#39;s Season of Discovery, dev reveals: &#39;a layer is actually just sharding with a lot of sticky tape&#39;](https://www.pcgamer.com/the-server-tech-that-saved-wow-10-years-ago-is-causing-problems-for-classics-season-of-discovery-dev-reveals-a-layer-is-actually-just-sharding-with-a-lot-of-sticky-tape)<!-- GAME:END -->
+ - [Reddit&#39;s set to rake in $60M per year in a deal with an unnamed AI company to train future models on its 20 years&#39; worth of user generated content](https://www.pcgamer.com/reddits-set-to-rake-in-dollar60m-per-year-in-a-deal-with-an-unnamed-ai-company-to-train-future-models-on-its-20-years-worth-of-user-generated-content)
+ - [Helldivers 2 lead says the game&#39;s farcical comedy was inspired by tabletop games like D&amp;D—and he&#39;s nowhere near the first dev to worship at the altar of pen and paper](https://www.pcgamer.com/helldivers-2-lead-says-the-games-farcical-comedy-was-inspired-by-tabletop-games-like-danddand-hes-nowhere-near-the-first-dev-to-worship-at-the-altar-of-pen-and-paper)
+ - [Asus ROG Strix Scar 18 &lpar;2024&rpar; review](https://www.pcgamer.com/asus-rog-strix-scar-18-2024-gaming-laptop-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
