@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Is Coming for the Experts. First, It Needs Their Help](https://www.wired.com/story/remotasks-ai-expert-data-labor/)
- - [How to revert macOS to the previous version](https://appleinsider.com/inside/macos/tips/how-to-revert-macos-to-the-previous-version?utm_medium=rss)
- - [The Notorious Lockbit Ransomware Gang Has Been Disrupted by Law Enforcement](https://www.wired.com/story/lockbit-ransomware-takedown-website-nca-fbi/)<!-- TECH:END -->
+ - [Google releases Gemma 2B and 7B, a pair of open-source AI models to let developers use the research that went into its flagship closed Gemini model more freely &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240221/p18#a240221p18)
+ - [Meta &amp; Microsoft are lobbying the EU to reject Apple&#39;s new App Store plans](https://appleinsider.com/articles/24/02/21/meta-microsoft-are-lobbying-the-eu-to-reject-apples-new-app-store-plans?utm_medium=rss)
+ - [How to Dry Off a Soaked iPhone &lpar;Don&#39;t Use Rice&rpar;](https://www.wired.com/story/how-to-rescue-a-wet-phone/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
