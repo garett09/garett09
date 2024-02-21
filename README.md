@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol.](http://9gag.com/gag/aGE3nV6)
- - 🚯 [Lara got eaten by bear.](http://9gag.com/gag/a4oeovA)
- - 🚯 [Clown world](http://9gag.com/gag/a4oePXm)<!-- MEMES:END -->
+ - 🚖 [Clown world](http://9gag.com/gag/a4oePXm)
+ - 🚯 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
+ - 🚯 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
 
 --- 
 
