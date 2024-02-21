@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Reddit&#39;s set to rake in $60M per year in a deal with an unnamed AI company to train future models on its 20 years&#39; worth of user generated content](https://www.pcgamer.com/reddits-set-to-rake-in-dollar60m-per-year-in-a-deal-with-an-unnamed-ai-company-to-train-future-models-on-its-20-years-worth-of-user-generated-content)
- - [Helldivers 2 lead says the game&#39;s farcical comedy was inspired by tabletop games like D&amp;D—and he&#39;s nowhere near the first dev to worship at the altar of pen and paper](https://www.pcgamer.com/helldivers-2-lead-says-the-games-farcical-comedy-was-inspired-by-tabletop-games-like-danddand-hes-nowhere-near-the-first-dev-to-worship-at-the-altar-of-pen-and-paper)
- - [Asus ROG Strix Scar 18 &lpar;2024&rpar; review](https://www.pcgamer.com/asus-rog-strix-scar-18-2024-gaming-laptop-review)<!-- GAME:END -->
+ - [How Final Fantasy VII Rebirth harnesses immersive PS5 technology](https://blog.playstation.com/2024/02/21/how-final-fantasy-vii-rebirth-harnesses-immersive-ps5-technology/)
+ - [This real-world Angel Lamp from Alan Wake 2 actually works to make you feel like you&#39;re stuck in a horror novel of your own creation](https://www.pcgamer.com/this-real-world-angel-lamp-from-alan-wake-2-actually-works-to-make-you-feel-like-youre-stuck-in-a-horror-novel-of-your-own-creation)
+ - [How to get stone blocks in Nightingale](https://www.pcgamer.com/nightingale-stone-block)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
