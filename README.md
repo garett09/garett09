@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases Gemma 2B and 7B, a pair of open-source AI models to let developers use the research that went into its flagship closed Gemini model more freely &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240221/p18#a240221p18)
- - [Meta &amp; Microsoft are lobbying the EU to reject Apple&#39;s new App Store plans](https://appleinsider.com/articles/24/02/21/meta-microsoft-are-lobbying-the-eu-to-reject-apples-new-app-store-plans?utm_medium=rss)
- - [How to Dry Off a Soaked iPhone &lpar;Don&#39;t Use Rice&rpar;](https://www.wired.com/story/how-to-rescue-a-wet-phone/)<!-- TECH:END -->
+ - [Between Layoffs and Tougher Interviews, Tech Workers Are Stressed Out](https://www.wired.com/story/gadget-lab-podcast-633/)
+ - [&#39;Flower Moon&#39; director Martin Scorsese honored by Berlin Film Festival](https://appleinsider.com/articles/24/02/22/flower-moon-director-martin-scorsese-honored-by-berlin-film-festival?utm_medium=rss)
+ - [A California regulator delays Waymo&#39;s application to expand robotaxi services to parts of the Los Angeles area and San Francisco&#39;s peninsula until June 19, 2024 &lpar;Abhirup Roy/Reuters&rpar;](http://www.techmeme.com/240222/p20#a240222p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
