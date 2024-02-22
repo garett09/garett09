@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Final Fantasy VII Rebirth harnesses immersive PS5 technology](https://blog.playstation.com/2024/02/21/how-final-fantasy-vii-rebirth-harnesses-immersive-ps5-technology/)
- - [This real-world Angel Lamp from Alan Wake 2 actually works to make you feel like you&#39;re stuck in a horror novel of your own creation](https://www.pcgamer.com/this-real-world-angel-lamp-from-alan-wake-2-actually-works-to-make-you-feel-like-youre-stuck-in-a-horror-novel-of-your-own-creation)
- - [How to get stone blocks in Nightingale](https://www.pcgamer.com/nightingale-stone-block)<!-- GAME:END -->
+ - [AMD CEO Dr. Lisa Su to deliver the opening keynote at Computex 2024 because whatever Jensen can do, Su can do too](https://www.pcgamer.com/amd-ceo-dr-lisa-su-to-deliver-the-opening-keynote-at-computex-2024-because-whatever-jensen-can-do-su-can-do-too)
+ - [A free weekend, a big update, and a Reloaded Edition await in Dying Light 2: Stay Human](https://www.pcgamer.com/a-free-weekend-a-big-update-and-a-reloaded-edition-await-in-dying-light-2-stay-human)
+ - [Coming soon to PS VR2 – Zombie Army VR, Little Cities: Bigger!, Wanderer: The Fragments of Fate, The Wizards – Dark Times: Brotherhood, and more](https://blog.playstation.com/2024/02/22/coming-soon-to-ps-vr2-zombie-army-vr-little-cities-bigger-wanderer-the-fragments-of-fate-the-wizards-dark-times-brotherhood-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
