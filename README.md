@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown world](http://9gag.com/gag/a4oePXm)
- - 🚯 [How to pick cotton tutorial](http://9gag.com/gag/aRE5M62)
- - 🚯 [Listen here, you little sh!t](http://9gag.com/gag/aA0WQvZ)<!-- MEMES:END -->
+ - 🚖 [Unexpected](http://9gag.com/gag/a2KB24e)
+ - 🚯 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
+ - 🚯 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)<!-- MEMES:END -->
 
 --- 
 
