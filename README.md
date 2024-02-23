@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD CEO Dr. Lisa Su to deliver the opening keynote at Computex 2024 because whatever Jensen can do, Su can do too](https://www.pcgamer.com/amd-ceo-dr-lisa-su-to-deliver-the-opening-keynote-at-computex-2024-because-whatever-jensen-can-do-su-can-do-too)
- - [A free weekend, a big update, and a Reloaded Edition await in Dying Light 2: Stay Human](https://www.pcgamer.com/a-free-weekend-a-big-update-and-a-reloaded-edition-await-in-dying-light-2-stay-human)
- - [Coming soon to PS VR2 – Zombie Army VR, Little Cities: Bigger!, Wanderer: The Fragments of Fate, The Wizards – Dark Times: Brotherhood, and more](https://blog.playstation.com/2024/02/22/coming-soon-to-ps-vr2-zombie-army-vr-little-cities-bigger-wanderer-the-fragments-of-fate-the-wizards-dark-times-brotherhood-and-more/)<!-- GAME:END -->
+ - [Think great SSD deals are a thing of the past? We&#39;ve spotted this speedy Nextorage 1TB drive for $75](https://www.pcgamer.com/think-great-ssd-deals-are-a-thing-of-the-past-weve-spotted-this-speedy-nextorage-1tb-drive-for-dollar75)
+ - [Upscaling and frame generation are the final nails in the coffin for overclocking, and I&#39;m absolutely okay with that](https://www.pcgamer.com/upscaling-and-frame-generation-are-the-final-nails-in-the-coffin-for-overclocking-and-im-absolutely-okay-with-that)
+ - [Intel explains why making GPU drivers is so hard but isn&#39;t giving up](https://www.pcgamer.com/intel-explains-why-making-gpu-drivers-is-so-hard-but-isnt-giving-up)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
