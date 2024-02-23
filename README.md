@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Between Layoffs and Tougher Interviews, Tech Workers Are Stressed Out](https://www.wired.com/story/gadget-lab-podcast-633/)
- - [&#39;Flower Moon&#39; director Martin Scorsese honored by Berlin Film Festival](https://appleinsider.com/articles/24/02/22/flower-moon-director-martin-scorsese-honored-by-berlin-film-festival?utm_medium=rss)
- - [A California regulator delays Waymo&#39;s application to expand robotaxi services to parts of the Los Angeles area and San Francisco&#39;s peninsula until June 19, 2024 &lpar;Abhirup Roy/Reuters&rpar;](http://www.techmeme.com/240222/p20#a240222p20)<!-- TECH:END -->
+ - [What’s the point of Elon Musk’s AI company?](https://www.theverge.com/24080217/elon-musk-xai-fundraising-grok-ai)
+ - [Gemini Nano is enabling on-device AI features on mid-range phones](https://www.androidauthority.com/google-gemini-nano-mid-range-phones-mediatek-3418503/)
+ - [Galaxy S24’s first update with camera and display fixes is rolling out globally](https://www.androidauthority.com/samsung-galaxy-s24-series-first-update-rolling-out-globally-3418497/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
