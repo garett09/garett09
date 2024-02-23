@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unexpected](http://9gag.com/gag/a2KB24e)
- - 🚯 [Meanwhile, in China](http://9gag.com/gag/awZRmLQ)
- - 🚯 [You hung like horse?](http://9gag.com/gag/a9qQ5MK)<!-- MEMES:END -->
+ - 🚖 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
+ - 🚯 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
+ - 🚯 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)<!-- MEMES:END -->
 
 --- 
 
