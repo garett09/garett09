@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s the point of Elon Musk’s AI company?](https://www.theverge.com/24080217/elon-musk-xai-fundraising-grok-ai)
- - [Gemini Nano is enabling on-device AI features on mid-range phones](https://www.androidauthority.com/google-gemini-nano-mid-range-phones-mediatek-3418503/)
- - [Galaxy S24’s first update with camera and display fixes is rolling out globally](https://www.androidauthority.com/samsung-galaxy-s24-series-first-update-rolling-out-globally-3418497/)<!-- TECH:END -->
+ - [Frequent Heavy Rain Has Made California a Mudslide Hotspot](https://www.wired.com/story/climate-change-rain-wetter-world-mudslides/)
+ - [A lot of Redditors hate the Reddit IPO](https://www.theverge.com/2024/2/24/24081441/reddit-shares-redditor-ipo-user-risk)
+ - [8 Best Deals: Streaming Devices, Smart TVs, and Projectors](https://www.wired.com/story/8-sweet-deals-on-streaming-devices-smart-tvs-and-projectors-nl/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
