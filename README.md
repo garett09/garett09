@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such Intelligence](http://9gag.com/gag/aRE5OD2)
- - 🚯 [Reason I love american law than European cuck court. Rapis get f**ked](http://9gag.com/gag/aZDA2jn)
- - 🚯 [I have a Question.](http://9gag.com/gag/a3Z9Wy5)<!-- MEMES:END -->
+ - 🚖 [When you do plank, plank does you.](http://9gag.com/gag/aGE374w)
+ - 🚯 [Celebrities at the gym](http://9gag.com/gag/aPgNnxg)
+ - 🚯 [The Deinfluencer, Revant Himatsingka](http://9gag.com/gag/a4oeV96)<!-- MEMES:END -->
 
 --- 
 
