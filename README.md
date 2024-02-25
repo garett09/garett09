@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frequent Heavy Rain Has Made California a Mudslide Hotspot](https://www.wired.com/story/climate-change-rain-wetter-world-mudslides/)
- - [A lot of Redditors hate the Reddit IPO](https://www.theverge.com/2024/2/24/24081441/reddit-shares-redditor-ipo-user-risk)
- - [8 Best Deals: Streaming Devices, Smart TVs, and Projectors](https://www.wired.com/story/8-sweet-deals-on-streaming-devices-smart-tvs-and-projectors-nl/)<!-- TECH:END -->
+ - [There’s a New Theory About Where Dark Matter Is Hiding](https://www.wired.com/story/dimension-physicists-missing-dark-matter-universe-gravity-physics-gravitons/)
+ - [The ultra-complex card game that will take over your weekend](https://www.theverge.com/24081130/balatro-fujifilm-x100vi-drive-to-survive-twitter-books-installer)
+ - [HMD is making a Barbie flip phone and a customizable smartphone](https://www.androidauthority.com/hmd-barbie-flip-phone-3419063/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
