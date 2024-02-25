@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you do plank, plank does you.](http://9gag.com/gag/aGE374w)
- - 🚯 [Celebrities at the gym](http://9gag.com/gag/aPgNnxg)
- - 🚯 [The Deinfluencer, Revant Himatsingka](http://9gag.com/gag/a4oeV96)<!-- MEMES:END -->
+ - 🚖 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
+ - 🚯 [Tyrese](http://9gag.com/gag/a04AwWd)
+ - 🚯 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)<!-- MEMES:END -->
 
 --- 
 
