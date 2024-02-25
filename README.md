@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving streaming at the end of February](https://www.polygon.com/what-to-watch/2024/2/24/24079351/best-movies-netflix-amazon-hulu-max-leaving-february-2024)
- - [This mecha passion project refreshes the genre with technical innovations and a whole lotta&#39; sparks](https://www.pcgamer.com/this-mecha-passion-project-refreshes-the-genre-with-technical-innovations-and-a-whole-lotta-sparks)
- - [Today&#39;s Wordle answer for Saturday, February 24](https://www.pcgamer.com/wordle-answer-today-february-24-2024)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, February 25](https://www.pcgamer.com/wordle-answer-today-february-25-2024)
+ - [Skyrim mod lets you match the pace of NPCs so you can more easily follow them around](https://www.pcgamer.com/skyrim-mod-lets-you-match-the-pace-of-npcs-so-you-can-more-easily-follow-them-around)
+ - [Games Workshop has no plans to bring Cathay and Kislev armies to Warhammer: The Old World &#39;for the foreseeable future&#39;](https://www.pcgamer.com/games-workshop-has-no-plans-to-bring-cathay-and-kislev-armies-to-warhammer-the-old-world-for-the-foreseeable-future)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
