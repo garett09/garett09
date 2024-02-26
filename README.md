@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, February 25](https://www.pcgamer.com/wordle-answer-today-february-25-2024)
- - [Skyrim mod lets you match the pace of NPCs so you can more easily follow them around](https://www.pcgamer.com/skyrim-mod-lets-you-match-the-pace-of-npcs-so-you-can-more-easily-follow-them-around)
- - [Games Workshop has no plans to bring Cathay and Kislev armies to Warhammer: The Old World &#39;for the foreseeable future&#39;](https://www.pcgamer.com/games-workshop-has-no-plans-to-bring-cathay-and-kislev-armies-to-warhammer-the-old-world-for-the-foreseeable-future)<!-- GAME:END -->
+ - [Foamstars new season Groovy Disco begins on March 8](https://blog.playstation.com/2024/02/26/foamstars-new-season-groovy-disco-begins-on-march-8/)
+ - [Helldivers 2 finally liberated from the bulk of its server issues as Arrowhead CEO celebrates having &#39;time to focus on improvements&#39; like rad mechs and &lpar;probably&rpar; stealth gear](https://www.pcgamer.com/helldivers-2-finally-liberated-from-the-bulk-of-its-server-issues-as-arrowhead-ceo-celebrates-having-time-to-focus-on-improvements-like-rad-mechs-and-probably-stealth-gear)
+ - [Here&#39;s the Grand Theft Auto 6 trailer perfectly recreated in Minecraft](https://www.pcgamer.com/heres-the-grand-theft-auto-6-trailer-perfectly-recreated-in-minecraft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
