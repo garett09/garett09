@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Step 1 : detach the middle finger, step 2 put it in ur ass, mind blown](http://9gag.com/gag/ajVbMNq)
- - 🚯 [Tyrese](http://9gag.com/gag/a04AwWd)
- - 🚯 [The world&#39;s strongest cup of coffee?](http://9gag.com/gag/aZDAobW)<!-- MEMES:END -->
+ - 🚖 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
+ - 🚯 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
+ - 🚯 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)<!-- MEMES:END -->
 
 --- 
 
