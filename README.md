@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a New Theory About Where Dark Matter Is Hiding](https://www.wired.com/story/dimension-physicists-missing-dark-matter-universe-gravity-physics-gravitons/)
- - [The ultra-complex card game that will take over your weekend](https://www.theverge.com/24081130/balatro-fujifilm-x100vi-drive-to-survive-twitter-books-installer)
- - [HMD is making a Barbie flip phone and a customizable smartphone](https://www.androidauthority.com/hmd-barbie-flip-phone-3419063/)<!-- TECH:END -->
+ - [Lenovo demos the ThinkBook Transparent Display Laptop concept, with a 17.3-inch MicroLED panel and a built-in drawing tablet &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240226/p8#a240226p8)
+ - [How a Right-Wing Controversy Could Sabotage US Election Security](https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/)
+ - [The Microlino Lite is here to make urban SUVs look even dumber](https://www.theverge.com/24083014/microlino-lite-microcar-moped-license-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
