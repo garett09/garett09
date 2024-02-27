@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo demos the ThinkBook Transparent Display Laptop concept, with a 17.3-inch MicroLED panel and a built-in drawing tablet &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240226/p8#a240226p8)
- - [How a Right-Wing Controversy Could Sabotage US Election Security](https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/)
- - [The Microlino Lite is here to make urban SUVs look even dumber](https://www.theverge.com/24083014/microlino-lite-microcar-moped-license-price-specs)<!-- TECH:END -->
+ - [Beachwaver B1 Review: Easy-to-Use Rotating Curling Iron](https://www.wired.com/review/beachwaver-b1-rotating-curling-iron/)
+ - [You can now try Galaxy AI on any Android phone to see just how good it is](https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/)
+ - [Hopin, the struggling virtual events startup valued at $7.75B in 2021, enters liquidation for its UK parent company as it moves its HQ to Delaware in the US &lpar;Sifted&rpar;](http://www.techmeme.com/240227/p10#a240227p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
