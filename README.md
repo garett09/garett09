@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No chill, brother.](http://9gag.com/gag/a9qQw6W)
- - 🚯 [Can Fish Fart? Serious question though.](http://9gag.com/gag/aBdq5X1)
- - 🚯 [The power of a wedding ring](http://9gag.com/gag/aOxgnN2)<!-- MEMES:END -->
+ - 🚖 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
+ - 🚯 [What a MAN, you are allowed to cry Mike. Still taking it like a champ.](http://9gag.com/gag/ay2gb6b)
+ - 🚯 [Yeah Science](http://9gag.com/gag/anzpPOE)<!-- MEMES:END -->
 
 --- 
 
