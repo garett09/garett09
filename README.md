@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Foamstars new season Groovy Disco begins on March 8](https://blog.playstation.com/2024/02/26/foamstars-new-season-groovy-disco-begins-on-march-8/)
- - [Helldivers 2 finally liberated from the bulk of its server issues as Arrowhead CEO celebrates having &#39;time to focus on improvements&#39; like rad mechs and &lpar;probably&rpar; stealth gear](https://www.pcgamer.com/helldivers-2-finally-liberated-from-the-bulk-of-its-server-issues-as-arrowhead-ceo-celebrates-having-time-to-focus-on-improvements-like-rad-mechs-and-probably-stealth-gear)
- - [Here&#39;s the Grand Theft Auto 6 trailer perfectly recreated in Minecraft](https://www.pcgamer.com/heres-the-grand-theft-auto-6-trailer-perfectly-recreated-in-minecraft)<!-- GAME:END -->
+ - [Last Epoch is everything I wished Diablo 4 was, and the first ARPG to drag me away from Path of Exile in over a decade](https://www.pcgamer.com/last-epoch-is-everything-i-wished-diablo-4-was-and-the-first-arpg-to-drag-me-away-from-path-of-exile-in-over-a-decade)
+ - [How to get common, rare, and super samples in Helldivers 2](https://www.pcgamer.com/helldivers-2-samples-farm)
+ - [SSDs are getting more expensive again because the biggest NAND supplier has throttled production to half its previous output](https://www.pcgamer.com/ssds-are-getting-more-expensive-again-because-the-biggest-nand-supplier-has-throttled-production-to-half-its-previous-output)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
