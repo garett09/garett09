@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let\u2019s see](http://9gag.com/gag/anzpwMB)
- - 🚯 [What a MAN, you are allowed to cry Mike. Still taking it like a champ.](http://9gag.com/gag/ay2gb6b)
- - 🚯 [Yeah Science](http://9gag.com/gag/anzpPOE)<!-- MEMES:END -->
+ - 🚖 [What a MAN, you are allowed to cry Mike. Still taking it like a champ.](http://9gag.com/gag/ay2gb6b)
+ - 🚯 [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
+ - 🚯 [Wtf](http://9gag.com/gag/aNwx6rr)<!-- MEMES:END -->
 
 --- 
 
