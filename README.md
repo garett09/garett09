@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beachwaver B1 Review: Easy-to-Use Rotating Curling Iron](https://www.wired.com/review/beachwaver-b1-rotating-curling-iron/)
- - [You can now try Galaxy AI on any Android phone to see just how good it is](https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/)
- - [Hopin, the struggling virtual events startup valued at $7.75B in 2021, enters liquidation for its UK parent company as it moves its HQ to Delaware in the US &lpar;Sifted&rpar;](http://www.techmeme.com/240227/p10#a240227p10)<!-- TECH:END -->
+ - [OnePlus shocks with Keqing-themed OnePlus 12R Genshin Impact special edition](https://www.androidauthority.com/oneplus-12r-keqing-special-edition-3418793/)
+ - [Google Podcasts Is Going Away. Here&#39;s How to Transfer Your Subscriptions](https://www.wired.com/story/google-podcasts-how-to-transfer-your-subscriptions/)
+ - [What a bunch of A-list celebs taught me about how to use my phone](https://www.theverge.com/24084772/celebrities-no-phone-bieber-sheeran-cruise-cera-ipad)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
