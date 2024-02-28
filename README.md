@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Last Epoch is everything I wished Diablo 4 was, and the first ARPG to drag me away from Path of Exile in over a decade](https://www.pcgamer.com/last-epoch-is-everything-i-wished-diablo-4-was-and-the-first-arpg-to-drag-me-away-from-path-of-exile-in-over-a-decade)
- - [How to get common, rare, and super samples in Helldivers 2](https://www.pcgamer.com/helldivers-2-samples-farm)
- - [SSDs are getting more expensive again because the biggest NAND supplier has throttled production to half its previous output](https://www.pcgamer.com/ssds-are-getting-more-expensive-again-because-the-biggest-nand-supplier-has-throttled-production-to-half-its-previous-output)<!-- GAME:END -->
+ - [A new frontier of immersion awaits you with a device that fires the smell of games into your home](https://www.pcgamer.com/a-new-frontier-of-immersion-awaits-you-with-a-device-that-fires-the-smell-of-games-into-your-home)
+ - [Call of Duty Black Ops designer starts new studio to create a more ‘intimate’ shooter](https://www.polygon.com/24084622/call-of-duty-black-ops-david-vonderhaar-bulletfarm-games)
+ - [Palworld&#39;s devs are very sorry for deploying a patch that &#39;inadvertently fixed a bug&#39;](https://www.pcgamer.com/palworlds-devs-are-very-sorry-for-deploying-a-patch-that-inadvertently-fixed-a-bug)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
