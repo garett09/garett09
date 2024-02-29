@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus shocks with Keqing-themed OnePlus 12R Genshin Impact special edition](https://www.androidauthority.com/oneplus-12r-keqing-special-edition-3418793/)
- - [Google Podcasts Is Going Away. Here&#39;s How to Transfer Your Subscriptions](https://www.wired.com/story/google-podcasts-how-to-transfer-your-subscriptions/)
- - [What a bunch of A-list celebs taught me about how to use my phone](https://www.theverge.com/24084772/celebrities-no-phone-bieber-sheeran-cruise-cera-ipad)<!-- TECH:END -->
+ - [Abbott Elementary season 3: Plot, release window, and more](https://www.androidauthority.com/abbott-elementary-season-3-release-date-3379188/)
+ - [Russia Attacked Ukraine&#39;s Power Grid at Least 66 Times to ‘Freeze It Into Submission’](https://www.wired.com/story/russia-ukraine-power-war-crimes/)
+ - [How Nvidia Came to Rule AI](https://www.wired.com/story/gadget-lab-podcast-634/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
