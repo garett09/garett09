@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new frontier of immersion awaits you with a device that fires the smell of games into your home](https://www.pcgamer.com/a-new-frontier-of-immersion-awaits-you-with-a-device-that-fires-the-smell-of-games-into-your-home)
- - [Call of Duty Black Ops designer starts new studio to create a more ‘intimate’ shooter](https://www.polygon.com/24084622/call-of-duty-black-ops-david-vonderhaar-bulletfarm-games)
- - [Palworld&#39;s devs are very sorry for deploying a patch that &#39;inadvertently fixed a bug&#39;](https://www.pcgamer.com/palworlds-devs-are-very-sorry-for-deploying-a-patch-that-inadvertently-fixed-a-bug)<!-- GAME:END -->
+ - [Can’t remember what happened in the first Dune movie? We got you](https://www.polygon.com/24084646/dune-plot-part-1-story-recap-2021)
+ - [Helldivers 2 looks a lot like Metal Gear Solid 5 sometimes, but devs and fans alike agree that&#39;s great: &#39;More games should directly copy stuff&#39;](https://www.pcgamer.com/games/action/helldivers-2-looks-a-lot-like-metal-gear-solid-5-sometimes-but-devs-and-fans-alike-agree-thats-great-more-games-should-directly-copy-stuff)
+ - [Helldivers 2 CEO describes the &#39;War Room&#39; atmosphere on launch day, as a server-breaking tidal wave of unexpected divers came flooding in: &#39;We saw the graph, just—players rising and rising&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-describes-the-war-room-atmosphere-on-launch-day-as-a-server-breaking-tidal-wave-of-unexpected-divers-came-flooding-in-we-saw-the-graph-justplayers-rising-and-rising)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
