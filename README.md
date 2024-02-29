@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a MAN, you are allowed to cry Mike. Still taking it like a champ.](http://9gag.com/gag/ay2gb6b)
- - 🚯 [Feel free to test it yourself, it&#39;s actually true. Highly concerning.](http://9gag.com/gag/agoMD4g)
- - 🚯 [Wtf](http://9gag.com/gag/aNwx6rr)<!-- MEMES:END -->
+ - 🚖 [It&#39;s not an old bus, it&#39;s...](http://9gag.com/gag/aXnDBD2)
+ - 🚯 [Haha](http://9gag.com/gag/ap9yyGM)
+ - 🚯 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)<!-- MEMES:END -->
 
 --- 
 
