@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abbott Elementary season 3: Plot, release window, and more](https://www.androidauthority.com/abbott-elementary-season-3-release-date-3379188/)
- - [Russia Attacked Ukraine&#39;s Power Grid at Least 66 Times to ‘Freeze It Into Submission’](https://www.wired.com/story/russia-ukraine-power-war-crimes/)
- - [How Nvidia Came to Rule AI](https://www.wired.com/story/gadget-lab-podcast-634/)<!-- TECH:END -->
+ - [Google confirms it is blocking rooted Android phones from using RCS, citing the need to abide by the RCS standard&#39;s &quot;operating measures&quot; to stop spam and abuse &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240301/p7#a240301p7)
+ - [Volkswagen ID.7 review: a superior EV that happens to be a sedan](https://www.theverge.com/2024/3/1/24084671/volkswagen-id7-review-ev-sedan-specs-price-photos)
+ - [You won’t have to open your Messages app to see recent texts soon](https://www.androidauthority.com/google-contacts-message-widget-3421724/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
