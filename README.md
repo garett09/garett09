@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can’t remember what happened in the first Dune movie? We got you](https://www.polygon.com/24084646/dune-plot-part-1-story-recap-2021)
- - [Helldivers 2 looks a lot like Metal Gear Solid 5 sometimes, but devs and fans alike agree that&#39;s great: &#39;More games should directly copy stuff&#39;](https://www.pcgamer.com/games/action/helldivers-2-looks-a-lot-like-metal-gear-solid-5-sometimes-but-devs-and-fans-alike-agree-thats-great-more-games-should-directly-copy-stuff)
- - [Helldivers 2 CEO describes the &#39;War Room&#39; atmosphere on launch day, as a server-breaking tidal wave of unexpected divers came flooding in: &#39;We saw the graph, just—players rising and rising&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-ceo-describes-the-war-room-atmosphere-on-launch-day-as-a-server-breaking-tidal-wave-of-unexpected-divers-came-flooding-in-we-saw-the-graph-justplayers-rising-and-rising)<!-- GAME:END -->
+ - [You can already save $20 on Final Fantasy 7 Rebirth](https://www.polygon.com/deals/24086623/final-fantasy-7-rebirth-deal-20-off-qvc)
+ - [GitHub is under automated attack by millions of cloned repositories filled with malicious code](https://www.pcgamer.com/software/security/github-is-under-automated-attack-by-millions-of-cloned-repositories-filled-with-malicious-code)
+ - [Helldivers 2 boss finds Starship Troopers renaissance &#39;humbling,&#39; says the game is that &#39;without the plot armour&#39;, and nothing captures that better than your frantic near-death videos](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-boss-says-the-studios-going-for-starship-troopers-without-the-plot-armour-and-nothing-captures-that-better-than-your-frantic-near-death-videos)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
