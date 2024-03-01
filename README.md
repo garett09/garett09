@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s not an old bus, it&#39;s...](http://9gag.com/gag/aXnDBD2)
- - 🚯 [Haha](http://9gag.com/gag/ap9yyGM)
- - 🚯 [He forgot to lock the door](http://9gag.com/gag/a9qQ921)<!-- MEMES:END -->
+ - 🚖 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
+ - 🚯 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)
+ - 🚯 [Feels good](http://9gag.com/gag/a5XLNZg)<!-- MEMES:END -->
 
 --- 
 
