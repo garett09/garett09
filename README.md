@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms it is blocking rooted Android phones from using RCS, citing the need to abide by the RCS standard&#39;s &quot;operating measures&quot; to stop spam and abuse &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240301/p7#a240301p7)
- - [Volkswagen ID.7 review: a superior EV that happens to be a sedan](https://www.theverge.com/2024/3/1/24084671/volkswagen-id7-review-ev-sedan-specs-price-photos)
- - [You won’t have to open your Messages app to see recent texts soon](https://www.androidauthority.com/google-contacts-message-widget-3421724/)<!-- TECH:END -->
+ - [This TP-Link smart home hub reminds me so much of the Pixel Tablet](https://www.androidauthority.com/tp-link-tapo-h500-smart-homebase-3420743/)
+ - [The US Buried Nuclear Waste Abroad. Climate Change Could Unearth It](https://www.wired.com/story/the-us-buried-nuclear-waste-abroad-climate-change-could-unearth-it-marshall-islands-greenland/)
+ - [15 Best Deals: Office Chairs, Keyboards, Gaming Headsets, Handhelds](https://www.wired.com/story/weekend-deals-march-2-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
