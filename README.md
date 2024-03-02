@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can already save $20 on Final Fantasy 7 Rebirth](https://www.polygon.com/deals/24086623/final-fantasy-7-rebirth-deal-20-off-qvc)
- - [GitHub is under automated attack by millions of cloned repositories filled with malicious code](https://www.pcgamer.com/software/security/github-is-under-automated-attack-by-millions-of-cloned-repositories-filled-with-malicious-code)
- - [Helldivers 2 boss finds Starship Troopers renaissance &#39;humbling,&#39; says the game is that &#39;without the plot armour&#39;, and nothing captures that better than your frantic near-death videos](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-boss-says-the-studios-going-for-starship-troopers-without-the-plot-armour-and-nothing-captures-that-better-than-your-frantic-near-death-videos)<!-- GAME:END -->
+ - [The best movies new to streaming this March](https://www.polygon.com/what-to-watch/2024/3/2/24083869/best-new-movies-netflix-amazon-prime-max-hulu-march-2024)
+ - [Today&#39;s Wordle answer for Saturday, March 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-2-2024)
+ - [Star Wars: Dark Forces&#39; box art showed a level that wasn&#39;t in the game: nearly 30 years later, we can finally play it thanks to the remaster](https://www.pcgamer.com/games/fps/star-wars-dark-forces-box-art-showed-a-level-that-wasnt-in-the-game-30-years-later-we-can-finally-play-it-thanks-to-the-remaster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
