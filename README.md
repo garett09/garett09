@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Question: how do you dodge the bullet?](http://9gag.com/gag/amADNjV)
- - 🚯 [That&#39;s some serious escalation from hamas](http://9gag.com/gag/aL1qRXx)
- - 🚯 [Feels good](http://9gag.com/gag/a5XLNZg)<!-- MEMES:END -->
+ - 🚖 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
+ - 🚯 [The scream...](http://9gag.com/gag/aPgOG1w)
+ - 🚯 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)<!-- MEMES:END -->
 
 --- 
 
