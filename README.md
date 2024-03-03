@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Having to relocate here must be nightmarish](http://9gag.com/gag/az26L2j)
- - 🚯 [The scream...](http://9gag.com/gag/aPgOG1w)
- - 🚯 [This is not some kinda of special force but a mexican drug cartel](http://9gag.com/gag/ay2yd98)<!-- MEMES:END -->
+ - 🚖 [England is f**king done](http://9gag.com/gag/az26AGN)
+ - 🚯 [Is that how Goverment works](http://9gag.com/gag/agoRGOg)
+ - 🚯 [Cute bee girl](http://9gag.com/gag/avQbnDM)<!-- MEMES:END -->
 
 --- 
 
