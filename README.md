@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming this March](https://www.polygon.com/what-to-watch/2024/3/2/24083869/best-new-movies-netflix-amazon-prime-max-hulu-march-2024)
- - [Today&#39;s Wordle answer for Saturday, March 2](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-2-2024)
- - [Star Wars: Dark Forces&#39; box art showed a level that wasn&#39;t in the game: nearly 30 years later, we can finally play it thanks to the remaster](https://www.pcgamer.com/games/fps/star-wars-dark-forces-box-art-showed-a-level-that-wasnt-in-the-game-30-years-later-we-can-finally-play-it-thanks-to-the-remaster)<!-- GAME:END -->
+ - [One of the Assassin&#39;s Creed cards coming to Magic: The Gathering is just a haystack](https://www.pcgamer.com/games/card-games/one-of-the-assassins-creed-cards-coming-to-magic-the-gathering-is-just-a-haystack)
+ - [Today&#39;s Wordle answer for Sunday, March 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-3-2024)
+ - [Greedfall 2: The Dying World will launch in early access, &#39;players will have access to the entire beginning of the game&#39;](https://www.pcgamer.com/games/rpg/greedfall-2-the-dying-world-will-launch-in-early-access-players-will-have-access-to-the-entire-beginning-of-the-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
