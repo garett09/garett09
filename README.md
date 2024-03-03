@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This TP-Link smart home hub reminds me so much of the Pixel Tablet](https://www.androidauthority.com/tp-link-tapo-h500-smart-homebase-3420743/)
- - [The US Buried Nuclear Waste Abroad. Climate Change Could Unearth It](https://www.wired.com/story/the-us-buried-nuclear-waste-abroad-climate-change-could-unearth-it-marshall-islands-greenland/)
- - [15 Best Deals: Office Chairs, Keyboards, Gaming Headsets, Handhelds](https://www.wired.com/story/weekend-deals-march-2-2024/)<!-- TECH:END -->
+ - [This Is What Your Brain Does When You’re Not Doing Anything](https://www.wired.com/story/what-your-brain-is-doing-when-youre-not-doing-anything/)
+ - [The very best food stuff on the internet](https://www.theverge.com/24087968/food-youtube-blogs-recipes-dune-final-fantasy-oneplus-installer-newsletter)
+ - [Man City vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
