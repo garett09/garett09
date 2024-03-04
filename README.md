@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Is What Your Brain Does When You’re Not Doing Anything](https://www.wired.com/story/what-your-brain-is-doing-when-youre-not-doing-anything/)
- - [The very best food stuff on the internet](https://www.theverge.com/24087968/food-youtube-blogs-recipes-dune-final-fantasy-oneplus-installer-newsletter)
- - [Man City vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple announces a new 13- and 15-inch MacBook Air with M3, offering an 8-core CPU and up to 10-core GPU, starting at $1,099 or $1,299 and shipping on March 8 &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240304/p8#a240304p8)
+ - [Sea reports Q4 revenue up 4.8% to $3.6B, above $3.5B est., and adjusted EBITDA down 74% YoY to $126.7M, above $88M est., due to market expenses; SE jumps 11%+ &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240304/p7#a240304p7)
+ - [Apple on the hunt for new microLED suppliers for future products](https://appleinsider.com/articles/24/03/04/apple-on-the-hunt-for-new-microled-suppliers-for-future-products?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
