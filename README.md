@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [England is f**king done](http://9gag.com/gag/az26AGN)
- - 🚯 [Is that how Goverment works](http://9gag.com/gag/agoRGOg)
- - 🚯 [Cute bee girl](http://9gag.com/gag/avQbnDM)<!-- MEMES:END -->
+ - 🚖 [No title](http://9gag.com/gag/aNwy19w)
+ - 🚯 [Triplets](http://9gag.com/gag/avQbOAO)
+ - 🚯 [Addressing mental illness](http://9gag.com/gag/aKEbDP3)<!-- MEMES:END -->
 
 --- 
 
