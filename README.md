@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the Assassin&#39;s Creed cards coming to Magic: The Gathering is just a haystack](https://www.pcgamer.com/games/card-games/one-of-the-assassins-creed-cards-coming-to-magic-the-gathering-is-just-a-haystack)
- - [Today&#39;s Wordle answer for Sunday, March 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-3-2024)
- - [Greedfall 2: The Dying World will launch in early access, &#39;players will have access to the entire beginning of the game&#39;](https://www.pcgamer.com/games/rpg/greedfall-2-the-dying-world-will-launch-in-early-access-players-will-have-access-to-the-entire-beginning-of-the-game)<!-- GAME:END -->
+ - [Palworld players turn to more honest work after a patch robs them of their nail grift: Dooming a merchant to a Greek mythology-tier punishment loop of burning to death forever](https://www.pcgamer.com/games/survival-crafting/palworld-players-turn-to-more-honest-work-after-a-patch-robs-them-of-their-nail-grift-dooming-a-merchant-to-a-greek-mythology-tier-punishment-loop-of-burning-to-death-forever)
+ - [The voice behind Final Fantasy 14&#39;s G&#39;raha Tia was so dedicated to the role, his tongue swelled up on the West End: &#39;I had to record this in the day doing eight shows a night&#39;](https://www.pcgamer.com/games/mmo/the-voice-behind-final-fantasy-14s-graha-tia-was-so-dedicated-to-the-role-his-tongue-swelled-up-on-the-west-end-i-had-to-record-this-in-the-day-doing-eight-shows-a-night)
+ - [AMD wanted to incorporate parts of the HDMI 2.1 spec into its open-source Linux drivers, but the HDMI Forum&#39;s legal beagles shutdown the whole idea](https://www.pcgamer.com/hardware/graphics-cards/amd-wanted-to-incorporate-parts-of-the-hdmi-21-spec-into-its-open-source-linux-drivers-but-the-hdmi-forums-legal-beagles-shutdown-the-whole-idea)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
