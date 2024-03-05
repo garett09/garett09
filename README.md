@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces a new 13- and 15-inch MacBook Air with M3, offering an 8-core CPU and up to 10-core GPU, starting at $1,099 or $1,299 and shipping on March 8 &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240304/p8#a240304p8)
- - [Sea reports Q4 revenue up 4.8% to $3.6B, above $3.5B est., and adjusted EBITDA down 74% YoY to $126.7M, above $88M est., due to market expenses; SE jumps 11%+ &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240304/p7#a240304p7)
- - [Apple on the hunt for new microLED suppliers for future products](https://appleinsider.com/articles/24/03/04/apple-on-the-hunt-for-new-microled-suppliers-for-future-products?utm_medium=rss)<!-- TECH:END -->
+ - [After removing 100+ Indian apps on March 1, Google is now &quot;temporarily reinstating the apps of the developers with appeals pending in the Supreme Court&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240305/p11#a240305p11)
+ - [Early M3 MacBook Air benchmarks aren&#39;t surprising](https://appleinsider.com/articles/24/03/05/early-m3-macbook-air-benchmarks-arent-surprising?utm_medium=rss)
+ - [Garmin Forerunner 165 vs Forerunner 265: What’s the difference?](https://www.androidauthority.com/garmin-forerunner-165-vs-forerunner-265-3419279/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
