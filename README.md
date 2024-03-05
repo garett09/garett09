@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No title](http://9gag.com/gag/aNwy19w)
- - 🚯 [Triplets](http://9gag.com/gag/avQbOAO)
- - 🚯 [Addressing mental illness](http://9gag.com/gag/aKEbDP3)<!-- MEMES:END -->
+ - 🚖 [Dad cock block](http://9gag.com/gag/aeQXMBW)
+ - 🚯 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
+ - 🚯 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)<!-- MEMES:END -->
 
 --- 
 
