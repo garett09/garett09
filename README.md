@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld players turn to more honest work after a patch robs them of their nail grift: Dooming a merchant to a Greek mythology-tier punishment loop of burning to death forever](https://www.pcgamer.com/games/survival-crafting/palworld-players-turn-to-more-honest-work-after-a-patch-robs-them-of-their-nail-grift-dooming-a-merchant-to-a-greek-mythology-tier-punishment-loop-of-burning-to-death-forever)
- - [The voice behind Final Fantasy 14&#39;s G&#39;raha Tia was so dedicated to the role, his tongue swelled up on the West End: &#39;I had to record this in the day doing eight shows a night&#39;](https://www.pcgamer.com/games/mmo/the-voice-behind-final-fantasy-14s-graha-tia-was-so-dedicated-to-the-role-his-tongue-swelled-up-on-the-west-end-i-had-to-record-this-in-the-day-doing-eight-shows-a-night)
- - [AMD wanted to incorporate parts of the HDMI 2.1 spec into its open-source Linux drivers, but the HDMI Forum&#39;s legal beagles shutdown the whole idea](https://www.pcgamer.com/hardware/graphics-cards/amd-wanted-to-incorporate-parts-of-the-hdmi-21-spec-into-its-open-source-linux-drivers-but-the-hdmi-forums-legal-beagles-shutdown-the-whole-idea)<!-- GAME:END -->
+ - [Horizon Forbidden West Complete Edition PC specifications revealed, out March 21](https://blog.playstation.com/2024/03/05/horizon-forbidden-west-complete-edition-pc-specifications-revealed-out-march-21/)
+ - [You can finally accept your mum&#39;s friend request now Steam officially lets you hide your mountain of weird sex games](https://www.pcgamer.com/games/you-can-finally-accept-your-mums-friend-request-now-steam-officially-lets-you-hide-your-mountain-of-weird-sex-games)
+ - [Asus ROG Zephyrus G16 2024 review](https://www.pcgamer.com/hardware/gaming-laptops/asus-rog-zephyrus-g16-2024-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
