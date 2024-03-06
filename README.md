@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dad cock block](http://9gag.com/gag/aeQXMBW)
- - 🚯 [I am looking for new gasman](http://9gag.com/gag/aVbG3NO)
- - 🚯 [Confronting a child molester](http://9gag.com/gag/aOx6B2E)<!-- MEMES:END -->
+ - 🚖 [Reverse image search](http://9gag.com/gag/aBdDgGA)
+ - 🚯 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
+ - 🚯 [Haters goes hate](http://9gag.com/gag/a4oME1A)<!-- MEMES:END -->
 
 --- 
 
