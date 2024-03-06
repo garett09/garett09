@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After removing 100+ Indian apps on March 1, Google is now &quot;temporarily reinstating the apps of the developers with appeals pending in the Supreme Court&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240305/p11#a240305p11)
- - [Early M3 MacBook Air benchmarks aren&#39;t surprising](https://appleinsider.com/articles/24/03/05/early-m3-macbook-air-benchmarks-arent-surprising?utm_medium=rss)
- - [Garmin Forerunner 165 vs Forerunner 265: What’s the difference?](https://www.androidauthority.com/garmin-forerunner-165-vs-forerunner-265-3419279/)<!-- TECH:END -->
+ - [Email: Spanish data protection regulator AEPD demands Worldcoin ceases collecting personal data in the country, and gives Worldcoin 72 hours to prove compliance &lpar;Financial Times&rpar;](http://www.techmeme.com/240306/p15#a240306p15)
+ - [Oscars 2024: How to Watch, When Is It, Nominated Movies](https://www.wired.com/story/how-to-watch-oscars-2024/)
+ - [How much energy will new semiconductor factories burn through in the US?](https://www.theverge.com/2024/3/6/24091367/semiconductor-manufacturing-us-electricity-consumption-renewable-energy-report)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
