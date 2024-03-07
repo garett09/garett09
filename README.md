@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reverse image search](http://9gag.com/gag/aBdDgGA)
- - 🚯 [Just a friendly reminder](http://9gag.com/gag/aA0nebo)
- - 🚯 [Haters goes hate](http://9gag.com/gag/a4oME1A)<!-- MEMES:END -->
+ - 🚖 [In Reykjavik, migrants storm the Icelandic parliament as they debated tougher immigration laws. The migrants demand housing and their families to join them in Iceland.](http://9gag.com/gag/aWGVpo3)
+ - 🚯 [Honor killing. Sick culture.](http://9gag.com/gag/a9q3zEW)
+ - 🚯 [Counting calories](http://9gag.com/gag/a9q3z5K)<!-- MEMES:END -->
 
 --- 
 
