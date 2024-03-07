@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: Spanish data protection regulator AEPD demands Worldcoin ceases collecting personal data in the country, and gives Worldcoin 72 hours to prove compliance &lpar;Financial Times&rpar;](http://www.techmeme.com/240306/p15#a240306p15)
- - [Oscars 2024: How to Watch, When Is It, Nominated Movies](https://www.wired.com/story/how-to-watch-oscars-2024/)
- - [How much energy will new semiconductor factories burn through in the US?](https://www.theverge.com/2024/3/6/24091367/semiconductor-manufacturing-us-electricity-consumption-renewable-energy-report)<!-- TECH:END -->
+ - [The cheapest countries to buy a Surface Pro 9](https://www.androidauthority.com/cheapest-place-to-buy-surface-pro-9-3423112/)
+ - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
+ - [Sources and filings: Pornhub, Xvideos, and Stripchat challenge the EU over new DSA moderation rules; porn platforms must submit compliance plans by April 20 &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240307/p19#a240307p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
