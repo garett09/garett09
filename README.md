@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In an unexpected twist, &#39;GTA 5 was quite a big inspiration&#39; for Dragon&#39;s Dogma 2 and game director Hideaki Itsuno](https://www.pcgamer.com/games/rpg/in-an-unexpected-twist-gta-5-was-quite-a-big-inspiration-for-dragons-dogma-2-and-game-director-hideaki-itsuno)
- - [Helldivers 2 dev lays out Arrowhead&#39;s strategy for buffing and nerfing the game&#39;s guns: &#39;Powerful weapons can&#39;t be too versatile, versatile weapons can&#39;t be too powerful&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-dev-lays-out-arrowheads-strategy-for-buffing-and-nerfing-the-games-guns-powerful-weapons-cant-be-too-versatile-versatile-weapons-cant-be-too-powerful)
- - [DNA storage has been talked about for years, but how close is it to becoming a reality?](https://www.pcgamer.com/hardware/storage/dna-storage-the-future)<!-- GAME:END -->
+ - [Persona 3 Reload is getting the DLC it needs, but not the one it deserves](https://www.pcgamer.com/games/rpg/persona-3-reload-is-getting-the-dlc-it-needs-but-not-the-one-it-deserves)
+ - [Mojang finally adds more than one type of dog to Minecraft, after over a decade of players struggling to tell their wolves apart](https://www.pcgamer.com/games/survival-crafting/minecraft-finally-adds-more-than-one-type-of-dog-to-minecraft-after-over-a-decade-of-players-struggling-to-tell-their-wolves-apart)
+ - [TikTok is becoming swamped with AI-generated conspiracy theory content thanks to a new financial incentive program for creators](https://www.pcgamer.com/software/ai/tiktok-is-becoming-swamped-with-ai-generated-conspiracy-theory-content-thanks-to-a-new-financial-incentive-program-for-creators)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
