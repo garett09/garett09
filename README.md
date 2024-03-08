@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Reykjavik, migrants storm the Icelandic parliament as they debated tougher immigration laws. The migrants demand housing and their families to join them in Iceland.](http://9gag.com/gag/aWGVpo3)
- - 🚯 [Honor killing. Sick culture.](http://9gag.com/gag/a9q3zEW)
- - 🚯 [Counting calories](http://9gag.com/gag/a9q3z5K)<!-- MEMES:END -->
+ - 🚖 [Action Daydream](http://9gag.com/gag/aXn8MKV)
+ - 🚯 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
+ - 🚯 [Modern gym life](http://9gag.com/gag/amADGDo)<!-- MEMES:END -->
 
 --- 
 
