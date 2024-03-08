@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3 Reload is getting the DLC it needs, but not the one it deserves](https://www.pcgamer.com/games/rpg/persona-3-reload-is-getting-the-dlc-it-needs-but-not-the-one-it-deserves)
- - [Mojang finally adds more than one type of dog to Minecraft, after over a decade of players struggling to tell their wolves apart](https://www.pcgamer.com/games/survival-crafting/minecraft-finally-adds-more-than-one-type-of-dog-to-minecraft-after-over-a-decade-of-players-struggling-to-tell-their-wolves-apart)
- - [TikTok is becoming swamped with AI-generated conspiracy theory content thanks to a new financial incentive program for creators](https://www.pcgamer.com/software/ai/tiktok-is-becoming-swamped-with-ai-generated-conspiracy-theory-content-thanks-to-a-new-financial-incentive-program-for-creators)<!-- GAME:END -->
+ - [Helldivers 2 devs say they&#39;re gonna tone down the heavily-armoured creeps: &#39;We&#39;re currently looking at changes to the spawn rates and health pools&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-devs-say-theyre-gonna-tone-down-the-heavily-armoured-creeps-were-currently-looking-at-changes-to-the-spawn-rates-and-health-pools)
+ - [KING OF FIGHTERS&#39; finest join Doomsday: Last Survivors for the ultimate crossover](https://www.pcgamer.com/games/king-of-fighters-finest-join-doomsday-last-survivors-for-the-ultimate-crossover)
+ - [Free GOG keys for the objectively 3rd-best Fallout game are on Twitch Prime right now](https://www.pcgamer.com/games/rpg/free-gog-keys-for-the-objectively-3rd-best-fallout-game-are-on-twitch-prime-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
