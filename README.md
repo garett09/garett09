@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cheapest countries to buy a Surface Pro 9](https://www.androidauthority.com/cheapest-place-to-buy-surface-pro-9-3423112/)
- - [Samsung Galaxy Z Fold 6 rumors: Everything we know and what we want to see](https://www.androidauthority.com/samsung-galaxy-z-fold-6-3385438/)
- - [Sources and filings: Pornhub, Xvideos, and Stripchat challenge the EU over new DSA moderation rules; porn platforms must submit compliance plans by April 20 &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240307/p19#a240307p19)<!-- TECH:END -->
+ - [Apple&#39;s eighth Shanghai Apple Store is coming soon](https://appleinsider.com/articles/24/03/08/apples-eighth-shanghai-apple-store-is-coming-soon?utm_medium=rss)
+ - [Santa Cruz Skitch Review: A Light, Versatile, and Expensive Electric Bike](https://www.wired.com/review/santa-cruz-skitch/)
+ - [Save over $1,000 on the Galaxy Tab S9 Ultra in the Samsung sale](https://www.androidauthority.com/samsuing-galaxy-tab-s9-ultra-deal-3423531/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
