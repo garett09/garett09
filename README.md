@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s eighth Shanghai Apple Store is coming soon](https://appleinsider.com/articles/24/03/08/apples-eighth-shanghai-apple-store-is-coming-soon?utm_medium=rss)
- - [Santa Cruz Skitch Review: A Light, Versatile, and Expensive Electric Bike](https://www.wired.com/review/santa-cruz-skitch/)
- - [Save over $1,000 on the Galaxy Tab S9 Ultra in the Samsung sale](https://www.androidauthority.com/samsuing-galaxy-tab-s9-ultra-deal-3423531/)<!-- TECH:END -->
+ - [This new Chrome flag is my favorite new feature](https://www.androidauthority.com/new-chrome-flag-minimize-custom-tab-3423696/)
+ - [The 14 Best Netflix Original Movies to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-14-best-netflix-original-movies-to-watch-right-now/#ftag=CAD590a51e)
+ - [March Social Security Payments: Will You Get a Check This Week?     - CNET](https://www.cnet.com/personal-finance/march-social-security-payments-will-you-get-a-check-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
