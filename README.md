@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Action Daydream](http://9gag.com/gag/aXn8MKV)
- - 🚯 [Sport is entertainment isn&#39;t it. Haha!](http://9gag.com/gag/abvjvor)
- - 🚯 [Modern gym life](http://9gag.com/gag/amADGDo)<!-- MEMES:END -->
+ - 🚖 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
+ - 🚯 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
+ - 🚯 [&#39;twas a great scene](http://9gag.com/gag/a04m1vz)<!-- MEMES:END -->
 
 --- 
 
