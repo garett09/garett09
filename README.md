@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to escape a snapping turtle&#39;s bite](http://9gag.com/gag/a6qWB9A)
- - 🚯 [Zookeeper gets accidentally trapped in the Gorilla exhibit](http://9gag.com/gag/ap9ebp8)
- - 🚯 [&#39;twas a great scene](http://9gag.com/gag/a04m1vz)<!-- MEMES:END -->
+ - 🚖 [How far we&#39;ve fallen](http://9gag.com/gag/avQb9LM)
+ - 🚯 [Peacefuls](http://9gag.com/gag/avQbv4O)
+ - 🚯 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)<!-- MEMES:END -->
 
 --- 
 
