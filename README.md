@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 Body Problem is the kind of TV epic we need](https://www.polygon.com/24094854/3-body-problem-review-spoiler-free)
- - [Today&#39;s Wordle answer for Saturday, March 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-9-2024)
- - [600 Activision QA workers unionize, Microsoft voluntarily recognizes](https://www.polygon.com/24093254/activision-qa-600-workers-union-microsoft)<!-- GAME:END -->
+ - [Akira Toriyama gave us gaming’s most perfect character design](https://www.polygon.com/gaming/24094509/akira-toriyama-dragon-quest-slime)
+ - [Today&#39;s Wordle answer for Sunday, March 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-10-2024)
+ - [The developers of Unsighted are making a 3D metroidvania that looks anime as all get-out](https://www.pcgamer.com/games/action/the-developers-of-unsighted-are-making-a-3d-metroidvania-that-looks-anime-as-all-get-out)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
