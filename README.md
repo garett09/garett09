@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Chrome flag is my favorite new feature](https://www.androidauthority.com/new-chrome-flag-minimize-custom-tab-3423696/)
- - [The 14 Best Netflix Original Movies to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-14-best-netflix-original-movies-to-watch-right-now/#ftag=CAD590a51e)
- - [March Social Security Payments: Will You Get a Check This Week?     - CNET](https://www.cnet.com/personal-finance/march-social-security-payments-will-you-get-a-check-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I really want AI to fix my messaging experience](https://www.androidauthority.com/ai-fix-messaging-experience-3415104/)
+ - [Selective Forgetting Can Help AI Learn Better](https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/)
+ - [How to watch the 2024 Academy Awards](https://www.theverge.com/2024/3/10/24092561/oscars-2024-academy-awards-watch-live)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
