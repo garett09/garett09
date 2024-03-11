@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I really want AI to fix my messaging experience](https://www.androidauthority.com/ai-fix-messaging-experience-3415104/)
- - [Selective Forgetting Can Help AI Learn Better](https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/)
- - [How to watch the 2024 Academy Awards](https://www.theverge.com/2024/3/10/24092561/oscars-2024-academy-awards-watch-live)<!-- TECH:END -->
+ - [Did you know: This is the highest-paid tech CEO in the US](https://www.androidauthority.com/highest-paid-tech-ceo-3423633/)
+ - [Xiaomi is removing a popular MIUI feature from old and new phones alike](https://www.androidauthority.com/xiaomi-removes-youtube-background-play-3424315/)
+ - [The Quest to Give AI Chatbots a Hand—and an Arm](https://www.wired.com/story/quest-ai-chatbots-a-hand-arm-robots/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
