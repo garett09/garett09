@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Akira Toriyama gave us gaming’s most perfect character design](https://www.polygon.com/gaming/24094509/akira-toriyama-dragon-quest-slime)
- - [Today&#39;s Wordle answer for Sunday, March 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-10-2024)
- - [The developers of Unsighted are making a 3D metroidvania that looks anime as all get-out](https://www.pcgamer.com/games/action/the-developers-of-unsighted-are-making-a-3d-metroidvania-that-looks-anime-as-all-get-out)<!-- GAME:END -->
+ - [Switch 2 is crunch time for Nintendo and backward compatibility](https://www.polygon.com/nintendo/24094551/switch-2-nintendo-backward-compatibility)
+ - [Former PlayStation boss calls exclusivity the industry&#39;s &#39;Achilles&#39; heel … Helldivers 2 has shown that&#39;](https://www.pcgamer.com/gaming-industry/former-playstation-boss-calls-exclusivity-the-industrys-achilles-heel-helldivers-2-has-shown-that)
+ - [Kanto Ora review](https://www.pcgamer.com/hardware/speakers/kanto-ora-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
