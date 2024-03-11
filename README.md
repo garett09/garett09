@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How far we&#39;ve fallen](http://9gag.com/gag/avQb9LM)
- - 🚯 [Peacefuls](http://9gag.com/gag/avQbv4O)
- - 🚯 [Employee about to receive a warning](http://9gag.com/gag/ajV2xv1)<!-- MEMES:END -->
+ - 🚖 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)
+ - 🚯 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
+ - 🚯 [Never knew this until now](http://9gag.com/gag/aBdDvRO)<!-- MEMES:END -->
 
 --- 
 
