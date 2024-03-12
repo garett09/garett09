@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meanwhile in Uzbekistan](http://9gag.com/gag/aOx6pOR)
- - 🚯 [FAFO: Stingray edition.](http://9gag.com/gag/aNwyjXG)
- - 🚯 [Never knew this until now](http://9gag.com/gag/aBdDvRO)<!-- MEMES:END -->
+ - 🚖 [2 in a day. Welcome to the real world](http://9gag.com/gag/aXn8GWg)
+ - 🚯 [Show me what you got](http://9gag.com/gag/a2KQx7E)
+ - 🚯 [Sh*t just got serious](http://9gag.com/gag/aMEpWLA)<!-- MEMES:END -->
 
 --- 
 
