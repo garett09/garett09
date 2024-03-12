@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did you know: This is the highest-paid tech CEO in the US](https://www.androidauthority.com/highest-paid-tech-ceo-3423633/)
- - [Xiaomi is removing a popular MIUI feature from old and new phones alike](https://www.androidauthority.com/xiaomi-removes-youtube-background-play-3424315/)
- - [The Quest to Give AI Chatbots a Hand—and an Arm](https://www.wired.com/story/quest-ai-chatbots-a-hand-arm-robots/)<!-- TECH:END -->
+ - [Last chance to get $200 off the Best-of-CES Narwal Freo X Ultra vacuum](https://www.androidauthority.com/deal-narwal-freo-x-ultra-3424496/)
+ - [M3 MacBook Air review: The ideal Mac laptop for Intel hold-outs](https://appleinsider.com/articles/24/03/12/m3-macbook-air-review-the-ideal-mac-laptop-for-intel-hold-outs?utm_medium=rss)
+ - [Apple increases R&amp;D in China with two lab expansions](https://appleinsider.com/articles/24/03/12/apple-increases-rd-in-china-with-two-lab-expansions?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
