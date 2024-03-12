@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 is crunch time for Nintendo and backward compatibility](https://www.polygon.com/nintendo/24094551/switch-2-nintendo-backward-compatibility)
- - [Former PlayStation boss calls exclusivity the industry&#39;s &#39;Achilles&#39; heel … Helldivers 2 has shown that&#39;](https://www.pcgamer.com/gaming-industry/former-playstation-boss-calls-exclusivity-the-industrys-achilles-heel-helldivers-2-has-shown-that)
- - [Kanto Ora review](https://www.pcgamer.com/hardware/speakers/kanto-ora-review)<!-- GAME:END -->
+ - [Your sick kickflips are the reason why other players are having such a dismal time in Destiny 2 right now](https://www.pcgamer.com/games/fps/your-sick-kickflips-are-the-reason-why-other-players-are-having-such-a-dismal-time-in-destiny-2-right-now)
+ - [The end of the MrBeast era](https://www.polygon.com/24093399/end-of-mrbeast-youtube-era)
+ - [What is general intelligence in the world of AI and computers? The race for the artificial mind explained](https://www.pcgamer.com/software/ai/general-intelligence-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
