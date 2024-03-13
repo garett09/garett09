@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last chance to get $200 off the Best-of-CES Narwal Freo X Ultra vacuum](https://www.androidauthority.com/deal-narwal-freo-x-ultra-3424496/)
- - [M3 MacBook Air review: The ideal Mac laptop for Intel hold-outs](https://appleinsider.com/articles/24/03/12/m3-macbook-air-review-the-ideal-mac-laptop-for-intel-hold-outs?utm_medium=rss)
- - [Apple increases R&amp;D in China with two lab expansions](https://appleinsider.com/articles/24/03/12/apple-increases-rd-in-china-with-two-lab-expansions?utm_medium=rss)<!-- TECH:END -->
+ - [How online group 764 uses Discord and Telegram to blackmail teens into degrading and violent acts and then boast about it; Discord removed 34K users in 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/240313/p16#a240313p16)
+ - [An analysis of 3M+ Discord and Telegram chats in 50+ groups finds a global network of thousands of violent predators, who target, groom, and extort kids online &lpar;Ali Winston/Wired&rpar;](http://www.techmeme.com/240313/p15#a240313p15)
+ - [I Tried Aescape&#39;s Robot-Arm-Powered Massage Table—and Loved Being in Control](https://www.wired.com/story/hands-on-aescape-automated-massage/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
