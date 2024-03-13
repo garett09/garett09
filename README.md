@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your sick kickflips are the reason why other players are having such a dismal time in Destiny 2 right now](https://www.pcgamer.com/games/fps/your-sick-kickflips-are-the-reason-why-other-players-are-having-such-a-dismal-time-in-destiny-2-right-now)
- - [The end of the MrBeast era](https://www.polygon.com/24093399/end-of-mrbeast-youtube-era)
- - [What is general intelligence in the world of AI and computers? The race for the artificial mind explained](https://www.pcgamer.com/software/ai/general-intelligence-explained)<!-- GAME:END -->
+ - [How to activate the Terminid Control System in Helldivers 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-terminid-control-system)
+ - [Konami&#39;s latest Metal Gear Solid masterstroke is releasing a patch to fix MGS1&#39;s worst bug that doesn&#39;t work](https://www.pcgamer.com/games/action/konamis-latest-metal-gear-solid-masterstroke-is-releasing-a-patch-to-fix-mgs1s-worst-bug-that-doesnt-work)
+ - [One modder is bringing back Resident Evil 2&#39;s classic style by adding over 1,700 camera angles to the Remake](https://www.pcgamer.com/games/resident-evil/one-modder-is-bringing-back-resident-evil-2s-classic-style-by-adding-over-1700-camera-angles-to-the-remake)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
