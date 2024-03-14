@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How online group 764 uses Discord and Telegram to blackmail teens into degrading and violent acts and then boast about it; Discord removed 34K users in 2023 &lpar;Washington Post&rpar;](http://www.techmeme.com/240313/p16#a240313p16)
- - [An analysis of 3M+ Discord and Telegram chats in 50+ groups finds a global network of thousands of violent predators, who target, groom, and extort kids online &lpar;Ali Winston/Wired&rpar;](http://www.techmeme.com/240313/p15#a240313p15)
- - [I Tried Aescape&#39;s Robot-Arm-Powered Massage Table—and Loved Being in Control](https://www.wired.com/story/hands-on-aescape-automated-massage/)<!-- TECH:END -->
+ - [Proton releases its mail app for macOS and Windows out of beta, available via its $4/month Mail Plus or $10/month Unlimited tiers, and launches a beta Linux app &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/240314/p18#a240314p18)
+ - [Blink Mini 2 Review: Small Size, Big Value](https://www.wired.com/review/blink-mini-2/)
+ - [Mini but mighty: Blink’s tiny, inexpensive camera can now go outdoors](https://www.theverge.com/24100149/blink-mini-2-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
