@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proton releases its mail app for macOS and Windows out of beta, available via its $4/month Mail Plus or $10/month Unlimited tiers, and launches a beta Linux app &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/240314/p18#a240314p18)
- - [Blink Mini 2 Review: Small Size, Big Value](https://www.wired.com/review/blink-mini-2/)
- - [Mini but mighty: Blink’s tiny, inexpensive camera can now go outdoors](https://www.theverge.com/24100149/blink-mini-2-review)<!-- TECH:END -->
+ - [A Surface Duo 3 Seems Unlikely. But the Idea Behind It Should Live On     - CNET](https://www.cnet.com/tech/mobile/a-surface-duo-3-seems-unlikely-but-the-idea-behind-it-should-live-on/#ftag=CAD590a51e)
+ - [Walmart Debuts $699 Price Point for MacBook Air with Apple M1 Chip     - CNET](https://www.cnet.com/culture/walmart-macbook-air-with-m1/#ftag=CAD590a51e)
+ - [Looking for Easy Ways to Heal Your Gut? Do These 4 Things First     - CNET](https://www.cnet.com/health/medical/looking-for-easy-ways-to-heal-your-gut-do-these-4-things-first/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
