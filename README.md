@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Portal with RTX has been updated to include Nvidia&#39;s latest load time accelerating GPU tech](https://www.pcgamer.com/hardware/portal-with-rtx-has-been-updated-to-include-nvidias-latest-load-time-accelerating-gpu-tech)
- - [The true successor to 30 Rock is now streaming on Netflix](https://www.polygon.com/24098992/girls5eva-comedy-netflix-sitcom-best-30-rock-show-tv)
- - [&#39;Probably one of the worst launches of all time&#39;: Star Wars: Battlefront Classic Collection players tear into Aspyr for bugs, crashes, and 3 64-player launch servers for nearly 10,000 users](https://www.pcgamer.com/games/fps/probably-one-of-the-worst-launches-of-all-time-star-wars-battlefront-classic-collection-players-tear-into-aspyr-for-bugs-crashes-and-3-64-player-launch-servers-for-nearly-10000-users)<!-- GAME:END -->
+ - [Final Fantasy 14 will soon let players raid with their friends across the pond… well, as long as they&#39;re in Oceania](https://www.pcgamer.com/games/mmo/final-fantasy-14-will-soon-let-players-raid-with-their-friends-across-the-pond-well-as-long-as-theyre-in-oceania)
+ - [Start your Early Access journey today in MLB The Show 24](https://blog.playstation.com/2024/03/15/start-your-early-access-journey-today-in-mlb-the-show-24/)
+ - [Irish Wish is full of awful rom-com tropes, yet I want Lindsay Lohan to find happiness](https://www.polygon.com/reviews/24100743/irish-wish-review-netflix-lindsay-lohan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
