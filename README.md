@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
- - 🚯 [Destroyed the Hard Drives boss!](http://9gag.com/gag/a1P4jjP)
- - 🚯 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
+ - 🚖 [Call security](http://9gag.com/gag/aXn860P)
+ - 🚯 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
+ - 🚯 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)<!-- MEMES:END -->
 
 --- 
 
