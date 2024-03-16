@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 will soon let players raid with their friends across the pond… well, as long as they&#39;re in Oceania](https://www.pcgamer.com/games/mmo/final-fantasy-14-will-soon-let-players-raid-with-their-friends-across-the-pond-well-as-long-as-theyre-in-oceania)
- - [Start your Early Access journey today in MLB The Show 24](https://blog.playstation.com/2024/03/15/start-your-early-access-journey-today-in-mlb-the-show-24/)
- - [Irish Wish is full of awful rom-com tropes, yet I want Lindsay Lohan to find happiness](https://www.polygon.com/reviews/24100743/irish-wish-review-netflix-lindsay-lohan)<!-- GAME:END -->
+ - [The best sci-fi movies to watch on Netflix this March](https://www.polygon.com/what-to-watch/2024/3/16/24097152/best-sci-fi-movies-watch-netflix-march-2024)
+ - [Today&#39;s Wordle answer for Saturday, March 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-16-2024)
+ - [Xbox Insider Release Notes – Xbox App [2403.1000.48.0]](https://news.xbox.com/en-us/2024/03/15/xbox-insider-release-notes-xbox-app-2403-1000-48-0/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
