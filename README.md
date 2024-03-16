@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Call security](http://9gag.com/gag/aXn860P)
- - 🚯 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
- - 🚯 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)<!-- MEMES:END -->
+ - 🚖 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
+ - 🚯 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
+ - 🚯 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)<!-- MEMES:END -->
 
 --- 
 
