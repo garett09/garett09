@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Surface Duo 3 Seems Unlikely. But the Idea Behind It Should Live On     - CNET](https://www.cnet.com/tech/mobile/a-surface-duo-3-seems-unlikely-but-the-idea-behind-it-should-live-on/#ftag=CAD590a51e)
- - [Walmart Debuts $699 Price Point for MacBook Air with Apple M1 Chip     - CNET](https://www.cnet.com/culture/walmart-macbook-air-with-m1/#ftag=CAD590a51e)
- - [Looking for Easy Ways to Heal Your Gut? Do These 4 Things First     - CNET](https://www.cnet.com/health/medical/looking-for-easy-ways-to-heal-your-gut-do-these-4-things-first/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s mistreatment of the small Pixel 8 has me worried about the Pixel 9](https://www.androidauthority.com/google-mistreatment-pixel-8-worry-pixel-9-3425534/)
+ - [Automakers Are Telling Your Insurance Company How You Really Drive](https://www.wired.com/story/automakers-sharing-driver-data-security-roundup/)
+ - [Behind Ryuichi Sakamoto’s last performance](https://www.theverge.com/24102027/ryuichi-sakamoto-opus-concert-film-neo-sora-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
