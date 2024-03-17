@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
- - 🚯 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
- - 🚯 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)<!-- MEMES:END -->
+ - 🚖 [Chad Gina](http://9gag.com/gag/axyEEx2)
+ - 🚯 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
+ - 🚯 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)<!-- MEMES:END -->
 
 --- 
 
