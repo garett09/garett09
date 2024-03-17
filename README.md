@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s mistreatment of the small Pixel 8 has me worried about the Pixel 9](https://www.androidauthority.com/google-mistreatment-pixel-8-worry-pixel-9-3425534/)
- - [Automakers Are Telling Your Insurance Company How You Really Drive](https://www.wired.com/story/automakers-sharing-driver-data-security-roundup/)
- - [Behind Ryuichi Sakamoto’s last performance](https://www.theverge.com/24102027/ryuichi-sakamoto-opus-concert-film-neo-sora-interview)<!-- TECH:END -->
+ - [Never-Repeating Patterns of Tiles Can Safeguard Quantum Information](https://www.wired.com/story/never-repeating-patterns-of-tiles-can-safeguard-quantum-information/)
+ - [Soundpeats Air4 Pro Review: Premium Features for Less](https://www.wired.com/review/soundpeats-air4-pro/)
+ - [Crime blotter: Influencer who filmed Philadelphia Apple Store looting headed to trial](https://appleinsider.com/articles/24/03/17/crime-blotter-influencer-who-filmed-philadelphia-apple-store-looting-headed-to-trial?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
