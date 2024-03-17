@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies to watch on Netflix this March](https://www.polygon.com/what-to-watch/2024/3/16/24097152/best-sci-fi-movies-watch-netflix-march-2024)
- - [Today&#39;s Wordle answer for Saturday, March 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-16-2024)
- - [Xbox Insider Release Notes – Xbox App [2403.1000.48.0]](https://news.xbox.com/en-us/2024/03/15/xbox-insider-release-notes-xbox-app-2403-1000-48-0/)<!-- GAME:END -->
+ - [How 2024 became the year of open-world survival crafting games](https://www.polygon.com/24099909/open-world-survival-crafting-games-2024)
+ - [Star Wars Battlefront Classic Collection incorporated a modder&#39;s work after Aspyr promised it would not: &#39;This release has been a total mess&#39;](https://www.pcgamer.com/games/action/star-wars-battlefront-classic-collection-incorporated-a-modders-work-after-aspyr-promised-it-would-not-this-release-has-been-a-total-mess)
+ - [Today&#39;s Wordle answer for Sunday, March 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-17-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
