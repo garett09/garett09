@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Never-Repeating Patterns of Tiles Can Safeguard Quantum Information](https://www.wired.com/story/never-repeating-patterns-of-tiles-can-safeguard-quantum-information/)
- - [Soundpeats Air4 Pro Review: Premium Features for Less](https://www.wired.com/review/soundpeats-air4-pro/)
- - [Crime blotter: Influencer who filmed Philadelphia Apple Store looting headed to trial](https://appleinsider.com/articles/24/03/17/crime-blotter-influencer-who-filmed-philadelphia-apple-store-looting-headed-to-trial?utm_medium=rss)<!-- TECH:END -->
+ - [Bonavita 5-Cup One-Touch Thermal Carafe Review: Simple and Excellent](https://www.wired.com/review/bonavita-5-cup-one-touch-thermal-carafe/)
+ - [MacBook Air, MacBook Pro ultimate buyer&#39;s guide: Spring 2024](https://appleinsider.com/articles/24/03/18/macbook-air-macbook-pro-ultimate-buyers-guide-spring-2024?utm_medium=rss)
+ - [The US says Poland, Ireland, Finland, Germany, Japan, and South Korea joined the US-led anti-spyware pact; Five Eyes and six countries signed the pledge in 2023 &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240318/p12#a240318p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
