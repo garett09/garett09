@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chad Gina](http://9gag.com/gag/axyEEx2)
- - 🚯 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
- - 🚯 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)<!-- MEMES:END -->
+ - 🚖 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
+ - 🚯 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
+ - 🚯 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)<!-- MEMES:END -->
 
 --- 
 
