@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
- - 🚯 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
- - 🚯 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)<!-- MEMES:END -->
+ - 🚖 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
+ - 🚯 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
+ - 🚯 [Sci-fi timeline](http://9gag.com/gag/agmrGoq)<!-- MEMES:END -->
 
 --- 
 
