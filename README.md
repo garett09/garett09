@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elijah Wood is the Green crewmate in the Among Us TV show, and I can&#39;t be the only one who finds that a bit sus](https://www.pcgamer.com/games/survival-crafting/elijah-wood-is-the-green-crewmate-in-the-among-us-tv-show-and-i-cant-be-the-only-one-who-finds-that-a-bit-sus)
- - [Sonny Lee joins Double Dragon Gaiden: Rise of the Dragons with free DLC April 4](https://blog.playstation.com/2024/03/18/sonny-lee-joins-double-dragon-gaiden-rise-of-the-dragons-with-free-dlc-april-4/)
- - [GTA Online’s community is in limbo while hype builds for GTA 6](https://www.polygon.com/24101246/gta-online-community-gta-6-limbo-role-play)<!-- GAME:END -->
+ - [Logitech MX Brio review](https://www.pcgamer.com/hardware/webcams/logitech-mx-brio-webcam-review)
+ - [Coming to Xbox Game Pass: Diablo IV, The Quarry, Ark: Survival Ascended, and More](https://news.xbox.com/en-us/2024/03/19/xbox-game-pass-new-march-2024-wave-2/)
+ - [Pathfinder’s Asian-inspired Tian Xia World Guide brings to life 26 unique regions for your next adventure](https://www.polygon.com/tabletop-games/24104835/paizo-pathfinder-tian-xia-world-guide-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
