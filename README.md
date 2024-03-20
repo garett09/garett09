@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
- - 🚯 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
- - 🚯 [Sci-fi timeline](http://9gag.com/gag/agmrGoq)<!-- MEMES:END -->
+ - 🚖 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 🚯 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
+ - 🚯 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->
 
 --- 
 
