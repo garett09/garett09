@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [USB 3.0 vs 3.1 vs 3.2: What’s the difference?](https://www.androidauthority.com/usb-3-0-vs-3-1-vs-3-2-3358606/)
- - [These are the top 3 smartphone brands you trust for software updates](https://www.androidauthority.com/top-3-smartphone-brands-trust-software-updates-poll-results-3426920/)
- - [Ethiopia&#39;s central bank says &quot;a glitch&quot; let Commercial Bank customers withdraw more cash than was in the account for hours; local media says $40M+ was withdrawn &lpar;Kalkidan Yibeltal/BBC&rpar;](http://www.techmeme.com/240319/p13#a240319p13)<!-- TECH:END -->
+ - [Gmail now offers an in-app predictive back gesture similar to Android 14](https://www.androidauthority.com/gmail-in-app-predictive-back-gestures-3427287/)
+ - [Deal: Catch the Roku Express 4K with Voice Remote Pro at low of $34.99](https://www.androidauthority.com/deal-roku-express-4k-with-voice-remote-pro-3427112/)
+ - [Elon Musk&#39;s X Is Suspending Accounts That Reveal a Neo-Nazi Cartoonist&#39;s Alleged Identity](https://www.wired.com/story/elon-musk-x-blocked-journalists-researchers-neo-nazi-cartoonist/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
