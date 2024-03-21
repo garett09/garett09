@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley’s remaining mystery: Who threw those rocks at Linus?](https://www.polygon.com/24102352/stardew-valley-linus-theories-rocks-eric-barone)
- - [Larian CEO Swen Vincke extols the &#39;incredible achievement&#39; of Baldur&#39;s Gate 3 influence Ultima 7, but confesses he hasn&#39;t played since the &#39;90s &#39;because I don&#39;t want to spoil the memory&#39;](https://www.pcgamer.com/games/rpg/larian-ceo-swen-vincke-extols-the-incredible-achievement-of-baldurs-gate-3-influence-ultima-7-but-confesses-he-hasnt-played-since-the-90s-because-i-dont-want-to-spoil-the-memory)
- - [Just under 150K players flooded back to Stardew Valley for the 1.6 update, and hopefully, only a small number drank the mayo](https://www.pcgamer.com/games/life-sim/just-under-150k-players-flooded-back-to-stardew-valley-for-the-16-update-and-hopefully-only-a-small-number-drank-the-mayo)<!-- GAME:END -->
+ - [3 Body Problem creators want episode 2’s reveal to sell you on the Netflix show](https://www.polygon.com/24104928/3-body-problem-episode-2-pilot-why-ye-button)
+ - [Rise of the Ronin: Developer tips for your first few hours](https://blog.playstation.com/2024/03/21/rise-of-the-ronin-developer-tips-for-your-first-few-hours/)
+ - [Rise of the Ronin: Developer tips for your first few hours](https://blog.playstation.com/2024/03/21/rise-of-the-ronin-developer-tips-for-your-first-few-hours/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
