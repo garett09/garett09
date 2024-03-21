@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 🚯 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - 🚯 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->
+ - 🚖 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
+ - 🚯 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
+ - 🚯 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
 
 --- 
 
