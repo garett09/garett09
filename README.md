@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail now offers an in-app predictive back gesture similar to Android 14](https://www.androidauthority.com/gmail-in-app-predictive-back-gestures-3427287/)
- - [Deal: Catch the Roku Express 4K with Voice Remote Pro at low of $34.99](https://www.androidauthority.com/deal-roku-express-4k-with-voice-remote-pro-3427112/)
- - [Elon Musk&#39;s X Is Suspending Accounts That Reveal a Neo-Nazi Cartoonist&#39;s Alleged Identity](https://www.wired.com/story/elon-musk-x-blocked-journalists-researchers-neo-nazi-cartoonist/)<!-- TECH:END -->
+ - [DoorDash begins Baconator deliveries by drone](https://www.theverge.com/2024/3/21/24107181/doordash-drone-delivery-wing-wendys-christianburg-virginia)
+ - [Motorola spoiled a good budget phone with bloatware](https://www.theverge.com/24105894/motorola-moto-g-power-2024-review-specs-features-apps-bloatware)
+ - [A Topsy-Turvy Online Election](https://www.wired.com/story/a-topsy-turvy-online-election/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
