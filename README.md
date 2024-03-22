@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 Body Problem creators want episode 2’s reveal to sell you on the Netflix show](https://www.polygon.com/24104928/3-body-problem-episode-2-pilot-why-ye-button)
- - [Rise of the Ronin: Developer tips for your first few hours](https://blog.playstation.com/2024/03/21/rise-of-the-ronin-developer-tips-for-your-first-few-hours/)
- - [Rise of the Ronin: Developer tips for your first few hours](https://blog.playstation.com/2024/03/21/rise-of-the-ronin-developer-tips-for-your-first-few-hours/)<!-- GAME:END -->
+ - [The first Dragon’s Dogma predicted the future of good games](https://www.polygon.com/24106890/why-dragons-dogma-is-good)
+ - [This Soulslike RPG from the makers of the Ori series is steeped in lore and intrigue](https://www.pcgamer.com/games/rpg/this-soulslike-rpg-from-the-makers-of-the-ori-series-is-steeped-in-lore-and-intrigue)
+ - [How to start a new game in Dragon&#39;s Dogma 2](https://www.pcgamer.com/games/rpg/dragons-dogma-2-start-new-game-delete-save)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
