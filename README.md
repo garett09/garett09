@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash begins Baconator deliveries by drone](https://www.theverge.com/2024/3/21/24107181/doordash-drone-delivery-wing-wendys-christianburg-virginia)
- - [Motorola spoiled a good budget phone with bloatware](https://www.theverge.com/24105894/motorola-moto-g-power-2024-review-specs-features-apps-bloatware)
- - [A Topsy-Turvy Online Election](https://www.wired.com/story/a-topsy-turvy-online-election/)<!-- TECH:END -->
+ - [Smartwatches shouldn’t make you choose between Apple and Android](https://www.theverge.com/2024/3/22/24107984/apple-watch-smartwatch-ecosystems)
+ - [Photography Is No Longer Evidence of Anything](https://www.wired.com/story/the-end-of-photography-as-evidence-of-anything/)
+ - [Apple looking inside China for AI providers to sidestep regulatory issues](https://appleinsider.com/articles/24/03/22/apple-looking-inside-china-for-ai-providers-to-sidestep-regulatory-issues?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
