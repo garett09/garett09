@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
- - 🚯 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
- - 🚯 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
+ - 🚖 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 🚯 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
+ - 🚯 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)<!-- MEMES:END -->
 
 --- 
 
