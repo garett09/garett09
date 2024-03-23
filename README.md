@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The first Dragon’s Dogma predicted the future of good games](https://www.polygon.com/24106890/why-dragons-dogma-is-good)
- - [This Soulslike RPG from the makers of the Ori series is steeped in lore and intrigue](https://www.pcgamer.com/games/rpg/this-soulslike-rpg-from-the-makers-of-the-ori-series-is-steeped-in-lore-and-intrigue)
- - [How to start a new game in Dragon&#39;s Dogma 2](https://www.pcgamer.com/games/rpg/dragons-dogma-2-start-new-game-delete-save)<!-- GAME:END -->
+ - [All the ways Dragon’s Dogma 2 will fight against you](https://www.polygon.com/gaming/24107896/dragons-dogma-2-fast-travel-towers-enemy-lock-on)
+ - [Stardew Valley&#39;s Big Patch, An Apex Legends Hack, And More Of The Week&#39;s Gaming News](https://kotaku.com/stardew-valleys-big-patch-an-apex-legends-hack-and-mo-1851359117)
+ - [Today&#39;s Wordle answer for Saturday, March 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-23-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
