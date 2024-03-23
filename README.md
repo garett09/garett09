@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smartwatches shouldn’t make you choose between Apple and Android](https://www.theverge.com/2024/3/22/24107984/apple-watch-smartwatch-ecosystems)
- - [Photography Is No Longer Evidence of Anything](https://www.wired.com/story/the-end-of-photography-as-evidence-of-anything/)
- - [Apple looking inside China for AI providers to sidestep regulatory issues](https://appleinsider.com/articles/24/03/22/apple-looking-inside-china-for-ai-providers-to-sidestep-regulatory-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Keychron Q5 Pro and Q6 Pro Review: Well-Built Full-Size Keyboards](https://www.wired.com/review/keychron-q5-pro-keychron-q6-pro/)
+ - [AI-generated blues misses a human touch — and a metronome](https://www.theverge.com/24103840/generative-ai-artwork-suno-music-industry-musicians-copyright)
+ - [Score 43% off the Anker 100W GaN II Charger](https://www.androidauthority.com/anker-100w-gan-ii-charger-deal-3428030/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
