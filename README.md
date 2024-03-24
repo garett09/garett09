@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the ways Dragon’s Dogma 2 will fight against you](https://www.polygon.com/gaming/24107896/dragons-dogma-2-fast-travel-towers-enemy-lock-on)
- - [Stardew Valley&#39;s Big Patch, An Apex Legends Hack, And More Of The Week&#39;s Gaming News](https://kotaku.com/stardew-valleys-big-patch-an-apex-legends-hack-and-mo-1851359117)
- - [Today&#39;s Wordle answer for Saturday, March 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-23-2024)<!-- GAME:END -->
+ - [FF7 Rebirth’s ending is the worst kind of cop-out](https://www.polygon.com/24106260/ff7-rebirth-ending-explained-does-aerith-die-who-knows)
+ - [Today&#39;s Wordle answer for Sunday, March 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-24-2024)
+ - [Helldivers 2 players find creative ways to punish toxic hosts: &#39;I ran with your super samples to the edge of the mission area, and kept on running&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-find-creative-ways-to-punish-toxic-hosts-i-ran-with-your-super-samples-to-the-edge-of-the-mission-area-and-kept-on-running)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
