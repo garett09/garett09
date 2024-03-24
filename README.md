@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron Q5 Pro and Q6 Pro Review: Well-Built Full-Size Keyboards](https://www.wired.com/review/keychron-q5-pro-keychron-q6-pro/)
- - [AI-generated blues misses a human touch — and a metronome](https://www.theverge.com/24103840/generative-ai-artwork-suno-music-industry-musicians-copyright)
- - [Score 43% off the Anker 100W GaN II Charger](https://www.androidauthority.com/anker-100w-gan-ii-charger-deal-3428030/)<!-- TECH:END -->
+ - [Do you know how terrible the early smartphone era was?](https://www.androidauthority.com/early-smartphone-era-terrible-3384514/)
+ - [Tim Cook says China will get Apple Vision Pro later in 2024](https://appleinsider.com/articles/24/03/24/cook-confirms-china-to-get-apple-vision-pro-later-this-year?utm_medium=rss)
+ - [The next solar eclipse is on April 8 -- here&#39;s how to photograph it](https://appleinsider.com/inside/iphone/tips/the-next-solar-eclipse-is-on-april-8----heres-how-to-photograph-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
