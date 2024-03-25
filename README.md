@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FF7 Rebirth’s ending is the worst kind of cop-out](https://www.polygon.com/24106260/ff7-rebirth-ending-explained-does-aerith-die-who-knows)
- - [Today&#39;s Wordle answer for Sunday, March 24](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-24-2024)
- - [Helldivers 2 players find creative ways to punish toxic hosts: &#39;I ran with your super samples to the edge of the mission area, and kept on running&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-players-find-creative-ways-to-punish-toxic-hosts-i-ran-with-your-super-samples-to-the-edge-of-the-mission-area-and-kept-on-running)<!-- GAME:END -->
+ - [Xbox Teams with the Atlanta Dream to Host Inaugural HoopFest Block Party Celebrating 404 Day](https://news.xbox.com/en-us/2024/03/25/xbox-teams-with-the-atlanta-dream-to-host-hoopfest/)
+ - [A handheld Xbox? Microsoft’s gaming chief can’t stop thinking about it](https://www.polygon.com/24108660/xbox-handheld-console-phil-spencer-interview)
+ - [Dragon&#39;s Dogma 2 Prey for the Pack: Where to find Rodge](https://www.pcgamer.com/games/rpg/dragons-dogma-2-prey-for-the-pack-rodge-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
