@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do you know how terrible the early smartphone era was?](https://www.androidauthority.com/early-smartphone-era-terrible-3384514/)
- - [Tim Cook says China will get Apple Vision Pro later in 2024](https://appleinsider.com/articles/24/03/24/cook-confirms-china-to-get-apple-vision-pro-later-this-year?utm_medium=rss)
- - [The next solar eclipse is on April 8 -- here&#39;s how to photograph it](https://appleinsider.com/inside/iphone/tips/the-next-solar-eclipse-is-on-april-8----heres-how-to-photograph-it?utm_medium=rss)<!-- TECH:END -->
+ - [Not good enough: Apple, Google, and Meta are being investigated for non-compliance](https://www.androidauthority.com/apple-google-meta-eu-dma-investigation-3428386/)
+ - [Match Group adds Instacart CMO Laura Jones and Zillow co-founder Spencer Rascoff to its board and signs a deal with Elliott, reported to have a $1B Match stake &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240325/p9#a240325p9)
+ - [How to create a custom GPT about your favorite TV series](https://www.androidauthority.com/custom-gpt-tv-series-3427480/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
