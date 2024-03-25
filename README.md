@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They have deposited $30 every month since I was 2 year old](http://9gag.com/gag/aAyB6Vg)
- - 🚯 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
- - 🚯 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)<!-- MEMES:END -->
+ - 🚖 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)
+ - 🚯 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 🚯 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)<!-- MEMES:END -->
 
 --- 
 
