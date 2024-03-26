@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Not good enough: Apple, Google, and Meta are being investigated for non-compliance](https://www.androidauthority.com/apple-google-meta-eu-dma-investigation-3428386/)
- - [Match Group adds Instacart CMO Laura Jones and Zillow co-founder Spencer Rascoff to its board and signs a deal with Elliott, reported to have a $1B Match stake &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240325/p9#a240325p9)
- - [How to create a custom GPT about your favorite TV series](https://www.androidauthority.com/custom-gpt-tv-series-3427480/)<!-- TECH:END -->
+ - [Sony plans to add a new opt-in Community Game Help feature on the PS5 later in 2024 to automatically create clips that can help other players complete games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240326/p17#a240326p17)
+ - [Apple forgot it&#39;s already released iPadOS 17.4.1](https://appleinsider.com/articles/24/03/26/apple-forgot-its-already-released-ipados-1741?utm_medium=rss)
+ - [Disney Plus has a new Hulu-ified logo](https://www.theverge.com/2024/3/26/24112300/disney-plus-new-logo-hulu-green-teal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
