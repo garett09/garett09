@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)
- - 🚯 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
- - 🚯 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)<!-- MEMES:END -->
+ - 🚖 [When astronauts return to Earth, they often faint or simply forget that gravity exists.](http://9gag.com/gag/azx7GWz)
+ - 🚯 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
+ - 🚯 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)<!-- MEMES:END -->
 
 --- 
 
