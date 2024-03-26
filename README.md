@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Teams with the Atlanta Dream to Host Inaugural HoopFest Block Party Celebrating 404 Day](https://news.xbox.com/en-us/2024/03/25/xbox-teams-with-the-atlanta-dream-to-host-hoopfest/)
- - [A handheld Xbox? Microsoft’s gaming chief can’t stop thinking about it](https://www.polygon.com/24108660/xbox-handheld-console-phil-spencer-interview)
- - [Dragon&#39;s Dogma 2 Prey for the Pack: Where to find Rodge](https://www.pcgamer.com/games/rpg/dragons-dogma-2-prey-for-the-pack-rodge-location)<!-- GAME:END -->
+ - [America made Godzilla a superhero. In Japan, he’s still a monster.](https://www.polygon.com/24107076/godzilla-american-vs-japanese-movies-interpretations-monsterverse)
+ - [Celebrate South Park: Snow Day! with Four Cool Custom Xbox Series X Consoles](https://news.xbox.com/en-us/2024/03/26/celebrate-south-park-snow-day-sweepstakes/)
+ - [&#39;It&#39;s got a fearlessness&#39;: Tales of Kenzera: ZAU lead animator reveals how the cut &#39;melee powerhouse&#39; African boxing style inspired its martial movelist](https://www.pcgamer.com/games/action/its-got-a-fearlessness-tales-of-kenzera-zau-lead-animator-reveals-how-the-cut-melee-powerhouse-african-boxing-style-inspired-its-martial-movelist)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
