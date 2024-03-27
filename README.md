@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When astronauts return to Earth, they often faint or simply forget that gravity exists.](http://9gag.com/gag/azx7GWz)
- - 🚯 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
- - 🚯 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)<!-- MEMES:END -->
+ - 🚖 [FBI agent Robert Hanssen was tasked to find a mole within the FBI. Robert Hanssen was the mole and had been working with KGB since 1979. His espionage was described by the Department of Justice as `possibly the worst intelligence disaster in U.S. history.](http://9gag.com/gag/a0evM8z)
+ - 🚯 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 🚯 [Who wants the tape after me?](http://9gag.com/gag/a7ovNVz)<!-- MEMES:END -->
 
 --- 
 
