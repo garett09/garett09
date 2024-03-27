@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony plans to add a new opt-in Community Game Help feature on the PS5 later in 2024 to automatically create clips that can help other players complete games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240326/p17#a240326p17)
- - [Apple forgot it&#39;s already released iPadOS 17.4.1](https://appleinsider.com/articles/24/03/26/apple-forgot-its-already-released-ipados-1741?utm_medium=rss)
- - [Disney Plus has a new Hulu-ified logo](https://www.theverge.com/2024/3/26/24112300/disney-plus-new-logo-hulu-green-teal)<!-- TECH:END -->
+ - [22 Best Nintendo Switch Accessories &lpar;2024&rpar;: Docks, Cases, Headsets, and More](https://www.wired.com/gallery/best-nintendo-switch-accessories/)
+ - [Disney Plus officially unveils its very green new logo](https://www.theverge.com/2024/3/27/24112994/disney-plus-logo-green-aurora-streaming-app)
+ - [The Disney Plus-Hulu merger is way more than a streaming bundle](https://www.theverge.com/2024/3/27/24112747/disney-plus-hulu-tile-app-streaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
