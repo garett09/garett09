@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [America made Godzilla a superhero. In Japan, he’s still a monster.](https://www.polygon.com/24107076/godzilla-american-vs-japanese-movies-interpretations-monsterverse)
- - [Celebrate South Park: Snow Day! with Four Cool Custom Xbox Series X Consoles](https://news.xbox.com/en-us/2024/03/26/celebrate-south-park-snow-day-sweepstakes/)
- - [&#39;It&#39;s got a fearlessness&#39;: Tales of Kenzera: ZAU lead animator reveals how the cut &#39;melee powerhouse&#39; African boxing style inspired its martial movelist](https://www.pcgamer.com/games/action/its-got-a-fearlessness-tales-of-kenzera-zau-lead-animator-reveals-how-the-cut-melee-powerhouse-african-boxing-style-inspired-its-martial-movelist)<!-- GAME:END -->
+ - [Drinking mayo in Stardew Valley may stress out your loved ones and the NPCs, but it&#39;s actually a great strat](https://www.pcgamer.com/games/life-sim/drinking-mayo-in-stardew-valley-may-stress-out-your-loved-ones-and-the-npcs-but-its-actually-a-great-strat)
+ - [A tiered ranking of every single Stardew Valley OST track](https://www.polygon.com/gaming/24111874/stardew-valley-soundtrack-tier-ranking)
+ - [Final Fantasy 14: Dawntrail is having server queue issues months before it&#39;s even out, as Square Enix&#39;s online store crashes under the weight of pre-orders](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-is-having-server-queue-issues-months-before-its-even-out-as-square-enixs-online-store-crashes-under-the-weight-of-pre-orders)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
