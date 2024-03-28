@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Drinking mayo in Stardew Valley may stress out your loved ones and the NPCs, but it&#39;s actually a great strat](https://www.pcgamer.com/games/life-sim/drinking-mayo-in-stardew-valley-may-stress-out-your-loved-ones-and-the-npcs-but-its-actually-a-great-strat)
- - [A tiered ranking of every single Stardew Valley OST track](https://www.polygon.com/gaming/24111874/stardew-valley-soundtrack-tier-ranking)
- - [Final Fantasy 14: Dawntrail is having server queue issues months before it&#39;s even out, as Square Enix&#39;s online store crashes under the weight of pre-orders](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-is-having-server-queue-issues-months-before-its-even-out-as-square-enixs-online-store-crashes-under-the-weight-of-pre-orders)<!-- GAME:END -->
+ - [Visions of Mana is exactly what it should be: mid-budget RPG comfort food](https://www.pcgamer.com/games/rpg/visions-of-mana-is-exactly-what-it-should-be-mid-budget-rpg-comfort-food)
+ - [The Adult Swim Games delisting situation is strange, even to lawyers](https://www.polygon.com/pc/24113466/adult-swim-games-delisting-law-warner-bros-discovery-archiving)
+ - [Visions of Mana Feels Like A Vintage RPG—For Better And Worse](https://kotaku.com/visions-of-mana-hands-on-preview-throwback-rpg-1851370480)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
