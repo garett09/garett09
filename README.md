@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [FBI agent Robert Hanssen was tasked to find a mole within the FBI. Robert Hanssen was the mole and had been working with KGB since 1979. His espionage was described by the Department of Justice as `possibly the worst intelligence disaster in U.S. history.](http://9gag.com/gag/a0evM8z)
- - 🚯 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
- - 🚯 [Who wants the tape after me?](http://9gag.com/gag/a7ovNVz)<!-- MEMES:END -->
+ - 🚖 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
+ - 🚯 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
+ - 🚯 [Happiness Noise](http://9gag.com/gag/aqy4DWp)<!-- MEMES:END -->
 
 --- 
 
