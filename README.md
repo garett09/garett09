@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [22 Best Nintendo Switch Accessories &lpar;2024&rpar;: Docks, Cases, Headsets, and More](https://www.wired.com/gallery/best-nintendo-switch-accessories/)
- - [Disney Plus officially unveils its very green new logo](https://www.theverge.com/2024/3/27/24112994/disney-plus-logo-green-aurora-streaming-app)
- - [The Disney Plus-Hulu merger is way more than a streaming bundle](https://www.theverge.com/2024/3/27/24112747/disney-plus-hulu-tile-app-streaming)<!-- TECH:END -->
+ - [A quarter of YouTube’s paid creators are earning money with Shorts](https://www.theverge.com/2024/3/28/24114031/youtube-shorts-partner-program-ad-sharing-revenue)
+ - [Investigation: data broker Near Intelligence left the coordinates of nearly 200 mobile devices of people who visited Jeffrey Epstein&#39;s island exposed online &lpar;Wired&rpar;](http://www.techmeme.com/240328/p16#a240328p16)
+ - [Samsung Galaxy S24 problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-s24-problems-fixes-3429319/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
