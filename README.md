@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Visions of Mana is exactly what it should be: mid-budget RPG comfort food](https://www.pcgamer.com/games/rpg/visions-of-mana-is-exactly-what-it-should-be-mid-budget-rpg-comfort-food)
- - [The Adult Swim Games delisting situation is strange, even to lawyers](https://www.polygon.com/pc/24113466/adult-swim-games-delisting-law-warner-bros-discovery-archiving)
- - [Visions of Mana Feels Like A Vintage RPG—For Better And Worse](https://kotaku.com/visions-of-mana-hands-on-preview-throwback-rpg-1851370480)<!-- GAME:END -->
+ - [Dragon&#39;s Dogma 2 is an abject lesson in how system requirements pages are failing PC gamers](https://www.pcgamer.com/hardware/dragons-dogma-2-is-an-abject-lesson-in-how-system-requirements-pages-are-failing-pc-gamers)
+ - [Deadpool’s new series has big TV sitcom vibes — plus murder, of course](https://www.polygon.com/24114977/deadpool-2024-preview-new-marvel-cody-ziglar-interview)
+ - [A demo for Final Fantasy 16 is reportedly coming to PC soon, as producer Yoshi-P says work on the port is &#39;going smoother than we thought it would&#39;](https://www.pcgamer.com/games/rpg/a-demo-for-final-fantasy-16-is-reportedly-coming-to-pc-soon-as-producer-yoshi-p-says-work-on-the-port-is-going-smoother-than-we-thought-it-would)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
