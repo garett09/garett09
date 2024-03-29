@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A quarter of YouTube’s paid creators are earning money with Shorts](https://www.theverge.com/2024/3/28/24114031/youtube-shorts-partner-program-ad-sharing-revenue)
- - [Investigation: data broker Near Intelligence left the coordinates of nearly 200 mobile devices of people who visited Jeffrey Epstein&#39;s island exposed online &lpar;Wired&rpar;](http://www.techmeme.com/240328/p16#a240328p16)
- - [Samsung Galaxy S24 problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-s24-problems-fixes-3429319/)<!-- TECH:END -->
+ - [The US tightens greenhouse gas emission standards for heavy-duty vehicles](https://www.theverge.com/2024/3/29/24114896/heavy-duty-vehicles-trucks-pollution-standards-climate-change-biden-epa)
+ - [WWDC, Apple Ring, and five years of Apple TV+ on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/29/wwdc-apple-ring-and-five-years-of-apple-tv-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Sources: Accel is in talks to lead a round in Scale AI at a $13B valuation, up from $7.3B in 2021; Scale AI generated $675M+ in revenue in 2023, up ~150% YoY &lpar;The Information&rpar;](http://www.techmeme.com/240329/p5#a240329p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
