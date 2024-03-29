@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - 🚯 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
- - 🚯 [Happiness Noise](http://9gag.com/gag/aqy4DWp)<!-- MEMES:END -->
+ - 🚖 [Avoid these drivers because if you lower yourself to their levels? You&#39;ll pay a price.](http://9gag.com/gag/aAyBmdR)
+ - 🚯 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 🚯 [SHE TALKS !](http://9gag.com/gag/a87dVP6)<!-- MEMES:END -->
 
 --- 
 
