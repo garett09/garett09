@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US tightens greenhouse gas emission standards for heavy-duty vehicles](https://www.theverge.com/2024/3/29/24114896/heavy-duty-vehicles-trucks-pollution-standards-climate-change-biden-epa)
- - [WWDC, Apple Ring, and five years of Apple TV+ on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/29/wwdc-apple-ring-and-five-years-of-apple-tv-on-the-appleinsider-podcast?utm_medium=rss)
- - [Sources: Accel is in talks to lead a round in Scale AI at a $13B valuation, up from $7.3B in 2021; Scale AI generated $675M+ in revenue in 2023, up ~150% YoY &lpar;The Information&rpar;](http://www.techmeme.com/240329/p5#a240329p5)<!-- TECH:END -->
+ - [I tested the Galaxy S24 Ultra’s terrible camera shutter lag and found a simple fix](https://www.androidauthority.com/samsung-galaxy-s24-ultra-shutter-lag-3429459/)
+ - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)
+ - [Yogurt Heist Reveals a Rampant Form of Online Fraud](https://www.wired.com/story/yogurt-heist-security-roundup/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
