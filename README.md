@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Avoid these drivers because if you lower yourself to their levels? You&#39;ll pay a price.](http://9gag.com/gag/aAyBmdR)
- - 🚯 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 🚯 [SHE TALKS !](http://9gag.com/gag/a87dVP6)<!-- MEMES:END -->
+ - 🚖 [American and European Firefighter Helmet Designs](http://9gag.com/gag/aW4BeB6)
+ - 🚯 [Goes both directions](http://9gag.com/gag/amoqbwV)
+ - 🚯 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)<!-- MEMES:END -->
 
 --- 
 
