@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon&#39;s Dogma 2 is an abject lesson in how system requirements pages are failing PC gamers](https://www.pcgamer.com/hardware/dragons-dogma-2-is-an-abject-lesson-in-how-system-requirements-pages-are-failing-pc-gamers)
- - [Deadpool’s new series has big TV sitcom vibes — plus murder, of course](https://www.polygon.com/24114977/deadpool-2024-preview-new-marvel-cody-ziglar-interview)
- - [A demo for Final Fantasy 16 is reportedly coming to PC soon, as producer Yoshi-P says work on the port is &#39;going smoother than we thought it would&#39;](https://www.pcgamer.com/games/rpg/a-demo-for-final-fantasy-16-is-reportedly-coming-to-pc-soon-as-producer-yoshi-p-says-work-on-the-port-is-going-smoother-than-we-thought-it-would)<!-- GAME:END -->
+ - [I never liked bullet hell shooters, until Xenotilt put one inside my new favourite pinball table](https://www.pcgamer.com/games/action/i-never-liked-bullet-hell-shooters-until-xenotilt-put-one-inside-my-new-favourite-pinball-table)
+ - [Elder Scrolls VI Playable, Shakeups At Nintendo, And More Of The Week&#39;s Gaming News](https://kotaku.com/elder-scrolls-vi-last-of-us-nintendo-layoffs-1851374647)
+ - [The best movies leaving streaming services at the end of March](https://www.polygon.com/what-to-watch/2024/3/30/24111541/best-movies-netflix-amazon-hulu-max-leaving-march-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
