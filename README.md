@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested the Galaxy S24 Ultra’s terrible camera shutter lag and found a simple fix](https://www.androidauthority.com/samsung-galaxy-s24-ultra-shutter-lag-3429459/)
- - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)
- - [Yogurt Heist Reveals a Rampant Form of Online Fraud](https://www.wired.com/story/yogurt-heist-security-roundup/)<!-- TECH:END -->
+ - [The 30 Best Family Board Games &lpar;2024&rpar;: Cascadia, Labyrinth, Catan](https://www.wired.com/gallery/best-family-board-games/)
+ - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2024&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)
+ - [The Forerunner 165 series is the budget training watch Garmin needed](https://www.theverge.com/24107020/garmin-forerunner-165-music-review-smartwatch-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
