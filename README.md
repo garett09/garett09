@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [American and European Firefighter Helmet Designs](http://9gag.com/gag/aW4BeB6)
- - 🚯 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 🚯 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)<!-- MEMES:END -->
+ - 🚖 [Men can be very simple creatures.](http://9gag.com/gag/aD2RrEG)
+ - 🚯 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
+ - 🚯 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)<!-- MEMES:END -->
 
 --- 
 
