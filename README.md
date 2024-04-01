@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 30 Best Family Board Games &lpar;2024&rpar;: Cascadia, Labyrinth, Catan](https://www.wired.com/gallery/best-family-board-games/)
- - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2024&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)
- - [The Forerunner 165 series is the budget training watch Garmin needed](https://www.theverge.com/24107020/garmin-forerunner-165-music-review-smartwatch-wearables)<!-- TECH:END -->
+ - [Garmin Forerunner 165 Review: Better Sensors, Same Great Training](https://www.wired.com/review/garmin-forerunner-165/)
+ - [Interviews and Telegram messages detail how Russian middlemen used Tether to avoid US sanctions and procure parts for drones and other high-tech equipment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240401/p6#a240401p6)
+ - [Several senators overseeing anti-Apple regulations controversially hold shares](https://appleinsider.com/articles/24/04/01/several-senators-overseeing-anti-apple-regulations-controversially-hold-shares?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
