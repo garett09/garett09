@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best puzzle games to play right now](https://www.polygon.com/what-to-play/24114511/best-puzzle-games-play-ios-android-windows-playstation-xbox)
- - [73M AT&amp;T customers have had their personal data, including passcodes, leaked online](https://www.pcgamer.com/software/security/73m-atandt-customers-have-had-their-personal-data-including-passcodes-leaked-online)
- - [Today&#39;s Wordle answer for Sunday, March 31](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-31-2024)<!-- GAME:END -->
+ - [Shadow of Mordor is worth revisiting for the nemesis system alone](https://www.pcgamer.com/games/action/shadow-of-mordor-is-worth-revisiting-for-the-nemesis-system-alone)
+ - [Having built 500+ PCs in my time I can say this with confidence: Building is fun and rewarding but ironing out those inevitable BIOS, CPU, memory kinks is unbearable](https://www.pcgamer.com/hardware/building-pcs-is-really-rewarding-and-fun-but-i-wish-it-wasnt-so-damn-fiddly-and-fussy-to-get-everything-working-properly)
+ - [Every movie and show coming to Netflix in April](https://www.polygon.com/entertainment/2024/4/1/24115402/new-netflix-april-2024-movies-tv-to-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
