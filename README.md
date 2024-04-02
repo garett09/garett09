@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin Forerunner 165 Review: Better Sensors, Same Great Training](https://www.wired.com/review/garmin-forerunner-165/)
- - [Interviews and Telegram messages detail how Russian middlemen used Tether to avoid US sanctions and procure parts for drones and other high-tech equipment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240401/p6#a240401p6)
- - [Several senators overseeing anti-Apple regulations controversially hold shares](https://appleinsider.com/articles/24/04/01/several-senators-overseeing-anti-apple-regulations-controversially-hold-shares?utm_medium=rss)<!-- TECH:END -->
+ - [Flip, a marketplace with product review videos by shoppers, raised a $144M Series C led by Streamlined at a $1.05B valuation, including $50M from AppLovin &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240402/p10#a240402p10)
+ - [A quarter of Apple&#39;s revenue will come from Services by 2025](https://appleinsider.com/articles/24/04/02/a-quarter-of-apples-revenue-will-come-from-services-by-2025?utm_medium=rss)
+ - [Watch this underrated movie before it gets pulled from Netflix](https://www.androidauthority.com/deliver-us-from-evil-netflix-3430251/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
