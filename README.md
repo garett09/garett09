@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
- - 🚯 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 🚯 [Poor things!](http://9gag.com/gag/adByWLZ)<!-- MEMES:END -->
+ - 🚖 [No pain no gain](http://9gag.com/gag/aO8oEEy)
+ - 🚯 [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)
+ - 🚯 [Dad of the year](http://9gag.com/gag/agmr93v)<!-- MEMES:END -->
 
 --- 
 
