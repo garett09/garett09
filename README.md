@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shadow of Mordor is worth revisiting for the nemesis system alone](https://www.pcgamer.com/games/action/shadow-of-mordor-is-worth-revisiting-for-the-nemesis-system-alone)
- - [Having built 500+ PCs in my time I can say this with confidence: Building is fun and rewarding but ironing out those inevitable BIOS, CPU, memory kinks is unbearable](https://www.pcgamer.com/hardware/building-pcs-is-really-rewarding-and-fun-but-i-wish-it-wasnt-so-damn-fiddly-and-fussy-to-get-everything-working-properly)
- - [Every movie and show coming to Netflix in April](https://www.polygon.com/entertainment/2024/4/1/24115402/new-netflix-april-2024-movies-tv-to-watch)<!-- GAME:END -->
+ - [Bloody martial arts movie Boy Kills World spawned a real-world fighting game](https://www.polygon.com/24118252/boy-kills-world-game-super-dragon-force-punch-3)
+ - [My first look at Monaco 2 made me think that maybe crime could pay](https://www.pcgamer.com/games/action/my-first-look-at-monaco-2-made-me-think-that-maybe-crime-could-pay)
+ - [This co-op space adventuring game just shot to the top of my 2024 wishlist](https://www.pcgamer.com/games/action/this-co-op-space-adventuring-game-just-shot-to-the-top-of-my-2024-wishlist)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
