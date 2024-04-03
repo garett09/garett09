@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flip, a marketplace with product review videos by shoppers, raised a $144M Series C led by Streamlined at a $1.05B valuation, including $50M from AppLovin &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240402/p10#a240402p10)
- - [A quarter of Apple&#39;s revenue will come from Services by 2025](https://appleinsider.com/articles/24/04/02/a-quarter-of-apples-revenue-will-come-from-services-by-2025?utm_medium=rss)
- - [Watch this underrated movie before it gets pulled from Netflix](https://www.androidauthority.com/deliver-us-from-evil-netflix-3430251/)<!-- TECH:END -->
+ - [Patreon rolls out a Reddit-like community moderation feature that lets podcasters, artists, writers, and other creators assign community members as moderators &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240403/p13#a240403p13)
+ - [Celestron Trailseeker Review: High Quality Binoculars Without the High Price](https://www.wired.com/review/celestron-trailseeker-ed-8x32-binoculars/)
+ - [Oura’s experimenting with a feature to detect early changes in your health](https://www.theverge.com/2024/4/3/24119189/oura-ring-labs-symptom-radar-wearable-smart-ring)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
