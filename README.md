@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bloody martial arts movie Boy Kills World spawned a real-world fighting game](https://www.polygon.com/24118252/boy-kills-world-game-super-dragon-force-punch-3)
- - [My first look at Monaco 2 made me think that maybe crime could pay](https://www.pcgamer.com/games/action/my-first-look-at-monaco-2-made-me-think-that-maybe-crime-could-pay)
- - [This co-op space adventuring game just shot to the top of my 2024 wishlist](https://www.pcgamer.com/games/action/this-co-op-space-adventuring-game-just-shot-to-the-top-of-my-2024-wishlist)<!-- GAME:END -->
+ - [For their new roguelite, the Dead Cells team scrapped 2 years of work on combat and redid it in just 3 weeks: &#39;We need to be able to dare to kill a feature when it doesn&#39;t work&#39;](https://www.pcgamer.com/games/roguelike/for-their-new-roguelite-the-dead-cells-team-scrapped-2-years-of-work-on-combat-and-redid-it-in-just-3-weeks-we-need-to-be-able-to-dare-to-kill-a-feature-when-it-doesnt-work)
+ - [The new roguelite from the developers of Dead Cells has one big goal: matching the intensity of Japanese action games like Devil May Cry, but with online co-op](https://www.pcgamer.com/games/roguelike/the-new-roguelite-from-the-developers-of-dead-cells-has-one-big-goal-matching-the-intensity-of-japanese-action-games-like-devil-may-cry-but-with-online-co-op)
+ - [American Horror Story: Delicate is back to do what AHS does best](https://www.polygon.com/24111640/american-horror-story-delicate-kardashian-part-2-return)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
