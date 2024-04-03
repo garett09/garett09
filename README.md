@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No pain no gain](http://9gag.com/gag/aO8oEEy)
- - 🚯 [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)
- - 🚯 [Dad of the year](http://9gag.com/gag/agmr93v)<!-- MEMES:END -->
+ - 🚖 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
+ - 🚯 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
+ - 🚯 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 --- 
 
