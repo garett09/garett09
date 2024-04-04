@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patreon rolls out a Reddit-like community moderation feature that lets podcasters, artists, writers, and other creators assign community members as moderators &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240403/p13#a240403p13)
- - [Celestron Trailseeker Review: High Quality Binoculars Without the High Price](https://www.wired.com/review/celestron-trailseeker-ed-8x32-binoculars/)
- - [Oura’s experimenting with a feature to detect early changes in your health](https://www.theverge.com/2024/4/3/24119189/oura-ring-labs-symptom-radar-wearable-smart-ring)<!-- TECH:END -->
+ - [OpenAI’s GPT Store Is Triggering Copyright Complaints](https://www.wired.com/story/openai-gpt-store-triggering-copyright-complaints/)
+ - [TCL QM8 Review: A TV That Scratches the Projector Itch](https://www.wired.com/review/tcl-qm8/)
+ - [Cisco launches the AI-Enabled ICT Workforce Consortium, joined by Google, Microsoft, IBM, Intel, SAP and Accenture, to research AI&#39;s impact on 56 ICT job roles &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240404/p22#a240404p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
