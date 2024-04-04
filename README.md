@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For their new roguelite, the Dead Cells team scrapped 2 years of work on combat and redid it in just 3 weeks: &#39;We need to be able to dare to kill a feature when it doesn&#39;t work&#39;](https://www.pcgamer.com/games/roguelike/for-their-new-roguelite-the-dead-cells-team-scrapped-2-years-of-work-on-combat-and-redid-it-in-just-3-weeks-we-need-to-be-able-to-dare-to-kill-a-feature-when-it-doesnt-work)
- - [The new roguelite from the developers of Dead Cells has one big goal: matching the intensity of Japanese action games like Devil May Cry, but with online co-op](https://www.pcgamer.com/games/roguelike/the-new-roguelite-from-the-developers-of-dead-cells-has-one-big-goal-matching-the-intensity-of-japanese-action-games-like-devil-may-cry-but-with-online-co-op)
- - [American Horror Story: Delicate is back to do what AHS does best](https://www.polygon.com/24111640/american-horror-story-delicate-kardashian-part-2-return)<!-- GAME:END -->
+ - [Foamstars new season Mysterious Swing begins on April 12](https://blog.playstation.com/2024/04/04/foamstars-new-season-mysterious-swing-begins-on-april-12/)
+ - [Star Trek: Discovery is cracking open a box Next Gen closed on purpose](https://www.polygon.com/24119983/star-trek-progenitors-discovery-picard-chase)
+ - [The best Heavy builds in The Finals Season 2](https://www.pcgamer.com/games/fps/the-finals-best-heavy-build)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
