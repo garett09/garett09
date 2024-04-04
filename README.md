@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
- - 🚯 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
- - 🚯 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
+ - 🚖 [Will the real juliet please stand up?](http://9gag.com/gag/aVvjAyP)
+ - 🚯 [Father reveal](http://9gag.com/gag/aD2RK9N)
+ - 🚯 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)<!-- MEMES:END -->
 
 --- 
 
