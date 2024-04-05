@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s GPT Store Is Triggering Copyright Complaints](https://www.wired.com/story/openai-gpt-store-triggering-copyright-complaints/)
- - [TCL QM8 Review: A TV That Scratches the Projector Itch](https://www.wired.com/review/tcl-qm8/)
- - [Cisco launches the AI-Enabled ICT Workforce Consortium, joined by Google, Microsoft, IBM, Intel, SAP and Accenture, to research AI&#39;s impact on 56 ICT job roles &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240404/p22#a240404p22)<!-- TECH:END -->
+ - [&#39;The Matrix&#39; Is Getting a Fifth Movie—Without a Wachowski Directing](https://www.wired.com/story/the-matrix-is-getting-a-fifth-movie-without-a-wachowski-directing/)
+ - [It’s Time for Nothing to Do Something](https://www.wired.com/story/nothing-ear-nothing-ear-a-news/)
+ - [How to redo the Apple Vision Pro’s hand and eye tracking](https://www.theverge.com/24121387/apple-vision-pro-hand-eye-tracking-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
