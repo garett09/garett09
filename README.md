@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Will the real juliet please stand up?](http://9gag.com/gag/aVvjAyP)
- - 🚯 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - 🚯 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)<!-- MEMES:END -->
+ - 🚖 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)
+ - 🚯 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
+ - 🚯 [Lucky guy](http://9gag.com/gag/a87Ldj1)<!-- MEMES:END -->
 
 --- 
 
