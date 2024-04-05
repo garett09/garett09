@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Foamstars new season Mysterious Swing begins on April 12](https://blog.playstation.com/2024/04/04/foamstars-new-season-mysterious-swing-begins-on-april-12/)
- - [Star Trek: Discovery is cracking open a box Next Gen closed on purpose](https://www.polygon.com/24119983/star-trek-progenitors-discovery-picard-chase)
- - [The best Heavy builds in The Finals Season 2](https://www.pcgamer.com/games/fps/the-finals-best-heavy-build)<!-- GAME:END -->
+ - [Video game anti-cheat software at odds with accessibility](https://www.polygon.com/24120108/video-game-anti-cheat-software-accessibility-helldivers-2)
+ - [The black sheep of the Thief series is free on Epic Games Store, and at that price, it deserves a second chance](https://www.pcgamer.com/games/action/the-black-sheep-of-the-thief-series-is-free-on-epic-games-store-and-at-that-price-it-deserves-a-second-chance)
+ - [You can watch the solar eclipse on Twitch or in Fortnite, thanks to NASA](https://www.polygon.com/24119895/how-watch-solar-eclipse-what-time-twitch-fortnite-minecraft-nasa)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
