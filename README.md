@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Matrix&#39; Is Getting a Fifth Movie—Without a Wachowski Directing](https://www.wired.com/story/the-matrix-is-getting-a-fifth-movie-without-a-wachowski-directing/)
- - [It’s Time for Nothing to Do Something](https://www.wired.com/story/nothing-ear-nothing-ear-a-news/)
- - [How to redo the Apple Vision Pro’s hand and eye tracking](https://www.theverge.com/24121387/apple-vision-pro-hand-eye-tracking-how-to)<!-- TECH:END -->
+ - [With three Pixels on the way, prices can only go up](https://www.androidauthority.com/three-pixels-price-increase-opinion-3429146/)
+ - [Creative Aurvana Ace 2 Review: These Solid-State Earbuds Sound Insane](https://www.wired.com/review/creative-aurvana-ace-2/)
+ - [Best Privacy Browsers &lpar;2024&rpar;: Brave, Safari, Ghostery, Firefox, DuckDuckGo](https://www.wired.com/story/privacy-browsers-duckduckgo-ghostery-brave/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
