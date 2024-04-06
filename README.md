@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Video game anti-cheat software at odds with accessibility](https://www.polygon.com/24120108/video-game-anti-cheat-software-accessibility-helldivers-2)
- - [The black sheep of the Thief series is free on Epic Games Store, and at that price, it deserves a second chance](https://www.pcgamer.com/games/action/the-black-sheep-of-the-thief-series-is-free-on-epic-games-store-and-at-that-price-it-deserves-a-second-chance)
- - [You can watch the solar eclipse on Twitch or in Fortnite, thanks to NASA](https://www.polygon.com/24119895/how-watch-solar-eclipse-what-time-twitch-fortnite-minecraft-nasa)<!-- GAME:END -->
+ - [The best movies new to streaming this April](https://www.polygon.com/what-to-watch/2024/4/6/24118158/best-new-movies-netflix-amazon-prime-max-hulu-april-2024)
+ - [Real Hollow Knight Silksong News, Fake April Fools&#39; Jokes, And More Of This Week&#39;s Biggest Stories](https://kotaku.com/real-hollow-knight-silksong-news-fake-april-fools-joke-1851391012)
+ - [Today&#39;s Wordle answer for Saturday, April 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-6-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
