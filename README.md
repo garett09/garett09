@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)
- - 🚯 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - 🚯 [Lucky guy](http://9gag.com/gag/a87Ldj1)<!-- MEMES:END -->
+ - 🚖 [Title](http://9gag.com/gag/aO8ogdM)
+ - 🚯 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
+ - 🚯 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
 
 --- 
 
