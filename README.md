@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With three Pixels on the way, prices can only go up](https://www.androidauthority.com/three-pixels-price-increase-opinion-3429146/)
- - [Creative Aurvana Ace 2 Review: These Solid-State Earbuds Sound Insane](https://www.wired.com/review/creative-aurvana-ace-2/)
- - [Best Privacy Browsers &lpar;2024&rpar;: Brave, Safari, Ghostery, Firefox, DuckDuckGo](https://www.wired.com/story/privacy-browsers-duckduckgo-ghostery-brave/)<!-- TECH:END -->
+ - [New iPads Pro, iPad Air, and USB-C accessories expected in early May](https://appleinsider.com/articles/24/04/07/new-ipads-pro-ipad-air-and-usb-c-accessories-expected-in-early-may?utm_medium=rss)
+ - [Fender Tone Master Pro Review: The Classiest Modeling Amp](https://www.wired.com/review/fender-tone-master-pro/)
+ - [New Disney animatronics breathe convincing life into its 2D characters](https://www.theverge.com/2024/4/7/24121927/disney-imagineering-animatronics-princess-and-the-frog-tiana-ride)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
