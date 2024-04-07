@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming this April](https://www.polygon.com/what-to-watch/2024/4/6/24118158/best-new-movies-netflix-amazon-prime-max-hulu-april-2024)
- - [Real Hollow Knight Silksong News, Fake April Fools&#39; Jokes, And More Of This Week&#39;s Biggest Stories](https://kotaku.com/real-hollow-knight-silksong-news-fake-april-fools-joke-1851391012)
- - [Today&#39;s Wordle answer for Saturday, April 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-6-2024)<!-- GAME:END -->
+ - [Dragon’s Dogma 2 is all about the journey — of figuring out how to even play it](https://www.polygon.com/reviews/24122319/dragons-dogma-2-review)
+ - [Mining and base-building sandbox Hydroneer has a sprawling new expansion of volcanos and glaciers](https://www.pcgamer.com/games/survival-crafting/mining-and-base-building-sandbox-hydroneer-has-a-sprawling-new-expansion-of-volcanos-and-glaciers)
+ - [Last Epoch cracks down on item duplicates and gold exploit: &#39;We don&#39;t think it&#39;s a very controversial statement to say that abusing an exploit, ruining the game for all players is not acceptable, and that doing so should result in a ban&#39;](https://www.pcgamer.com/games/action/last-epoch-cracks-down-on-item-duplicates-and-gold-exploit-we-dont-think-its-a-very-controversial-statement-to-say-that-abusing-an-exploit-ruining-the-game-for-all-players-is-not-acceptable-and-that-doing-so-should-result-in-a-ban)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
