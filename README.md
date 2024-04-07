@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title](http://9gag.com/gag/aO8ogdM)
- - 🚯 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
- - 🚯 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
+ - 🚖 [Guy runs over a Mother and baby, tries to drive away before being stopped by a truck](http://9gag.com/gag/aLnRPE5)
+ - 🚯 [There we go again...](http://9gag.com/gag/a6Zmy2q)
+ - 🚯 [A true classic, now with pixels!](http://9gag.com/gag/aO8Kowy)<!-- MEMES:END -->
 
 --- 
 
