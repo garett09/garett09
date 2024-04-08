@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy runs over a Mother and baby, tries to drive away before being stopped by a truck](http://9gag.com/gag/aLnRPE5)
- - 🚯 [There we go again...](http://9gag.com/gag/a6Zmy2q)
- - 🚯 [A true classic, now with pixels!](http://9gag.com/gag/aO8Kowy)<!-- MEMES:END -->
+ - 🚖 [Boeing engine cover rips apart during takeoff this morning. Yep, it&#39;s another 737.](http://9gag.com/gag/aD2AozZ)
+ - 🚯 [Wow !](http://9gag.com/gag/aYQNpPN)
+ - 🚯 [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)<!-- MEMES:END -->
 
 --- 
 
