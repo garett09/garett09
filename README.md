@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon’s Dogma 2 is all about the journey — of figuring out how to even play it](https://www.polygon.com/reviews/24122319/dragons-dogma-2-review)
- - [Mining and base-building sandbox Hydroneer has a sprawling new expansion of volcanos and glaciers](https://www.pcgamer.com/games/survival-crafting/mining-and-base-building-sandbox-hydroneer-has-a-sprawling-new-expansion-of-volcanos-and-glaciers)
- - [Last Epoch cracks down on item duplicates and gold exploit: &#39;We don&#39;t think it&#39;s a very controversial statement to say that abusing an exploit, ruining the game for all players is not acceptable, and that doing so should result in a ban&#39;](https://www.pcgamer.com/games/action/last-epoch-cracks-down-on-item-duplicates-and-gold-exploit-we-dont-think-its-a-very-controversial-statement-to-say-that-abusing-an-exploit-ruining-the-game-for-all-players-is-not-acceptable-and-that-doing-so-should-result-in-a-ban)<!-- GAME:END -->
+ - [The Wii U was secretly revolutionary — and its online services are finally ending](https://www.polygon.com/24118967/wii-u-offline-retrospective-nintendo)
+ - [Samsung predicts a bumper 2024, forecasting a 900% increase in profits for the first three months of the year](https://www.pcgamer.com/hardware/samsung-predicts-a-bumper-2024-forecasting-a-900-increase-in-profits-for-the-first-three-months-of-the-year)
+ - [The new Lego D&amp;D crossover set is pricey, but you can snag its fun, hot-wing filled adventure as a free PDF](https://www.pcgamer.com/games/board-games/the-new-lego-dandd-crossover-set-is-pricey-but-you-can-snag-its-fun-hot-wing-filled-adventure-as-a-free-pdf)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
