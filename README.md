@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPads Pro, iPad Air, and USB-C accessories expected in early May](https://appleinsider.com/articles/24/04/07/new-ipads-pro-ipad-air-and-usb-c-accessories-expected-in-early-may?utm_medium=rss)
- - [Fender Tone Master Pro Review: The Classiest Modeling Amp](https://www.wired.com/review/fender-tone-master-pro/)
- - [New Disney animatronics breathe convincing life into its 2D characters](https://www.theverge.com/2024/4/7/24121927/disney-imagineering-animatronics-princess-and-the-frog-tiana-ride)<!-- TECH:END -->
+ - [Deal: Score the AOPEN FHD portable monitor for just $79.99 &lpar;38% off&rpar;](https://www.androidauthority.com/deal-aopen-portable-monitor-3432123/)
+ - [Apple TV with a camera is the rumor that will never die](https://appleinsider.com/articles/24/04/08/apple-tv-with-a-camera-is-the-rumor-that-will-never-die?utm_medium=rss)
+ - [Download these funky wallpapers for your phone](https://www.androidauthority.com/funky-wallpapers-phone-3430664/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
