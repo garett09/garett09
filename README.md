@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boeing engine cover rips apart during takeoff this morning. Yep, it&#39;s another 737.](http://9gag.com/gag/aD2AozZ)
- - 🚯 [Wow !](http://9gag.com/gag/aYQNpPN)
- - 🚯 [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)<!-- MEMES:END -->
+ - 🚖 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)
+ - 🚯 [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)
+ - 🚯 [Nice](http://9gag.com/gag/an7q1GB)<!-- MEMES:END -->
 
 --- 
 
