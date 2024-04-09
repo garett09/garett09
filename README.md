@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wii U was secretly revolutionary — and its online services are finally ending](https://www.polygon.com/24118967/wii-u-offline-retrospective-nintendo)
- - [Samsung predicts a bumper 2024, forecasting a 900% increase in profits for the first three months of the year](https://www.pcgamer.com/hardware/samsung-predicts-a-bumper-2024-forecasting-a-900-increase-in-profits-for-the-first-three-months-of-the-year)
- - [The new Lego D&amp;D crossover set is pricey, but you can snag its fun, hot-wing filled adventure as a free PDF](https://www.pcgamer.com/games/board-games/the-new-lego-dandd-crossover-set-is-pricey-but-you-can-snag-its-fun-hot-wing-filled-adventure-as-a-free-pdf)<!-- GAME:END -->
+ - [Horror fishing game Dredge being adapted for live-action movie](https://www.polygon.com/24124574/dredge-game-horror-movie)
+ - [D&amp;D’s next big swing features a half dozen classic adventures and a creepy spaceship](https://www.polygon.com/24122063/dnd-dungeons-dragons-quests-infinite-staircase-historians)
+ - [Google sums up 2023&#39;s security exploits: the good news is fixes are blocking some types of zero-day attack. The bad news is Windows has seen more than most](https://www.pcgamer.com/software/security/google-sums-up-2023s-security-exploits-the-good-news-is-fixes-are-blocking-some-types-of-zero-day-attack-the-bad-news-is-windows-has-seen-more-than-most)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
