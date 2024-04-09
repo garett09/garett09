@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Score the AOPEN FHD portable monitor for just $79.99 &lpar;38% off&rpar;](https://www.androidauthority.com/deal-aopen-portable-monitor-3432123/)
- - [Apple TV with a camera is the rumor that will never die](https://appleinsider.com/articles/24/04/08/apple-tv-with-a-camera-is-the-rumor-that-will-never-die?utm_medium=rss)
- - [Download these funky wallpapers for your phone](https://www.androidauthority.com/funky-wallpapers-phone-3430664/)<!-- TECH:END -->
+ - [The TikTok ban and the iPhone monopoly](https://www.theverge.com/2024/4/9/24124405/tiktok-ban-apple-monopoly-antitrust-vergecast-podcast)
+ - [Rumored Apple Watch Series 10 screen improvement will sip battery power](https://appleinsider.com/articles/24/04/09/rumored-apple-watch-series-10-screen-improvement-will-sip-battery-power?utm_medium=rss)
+ - [Students Are Likely Writing Millions of Papers With AI](https://www.wired.com/story/student-papers-generative-ai-turnitin/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
