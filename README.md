@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)
- - 🚯 [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)
- - 🚯 [Nice](http://9gag.com/gag/an7q1GB)<!-- MEMES:END -->
+ - 🚖 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 🚯 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
+ - 🚯 [What alcohol withdrawal looks like](http://9gag.com/gag/aLnRMex)<!-- MEMES:END -->
 
 --- 
 
