@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TikTok ban and the iPhone monopoly](https://www.theverge.com/2024/4/9/24124405/tiktok-ban-apple-monopoly-antitrust-vergecast-podcast)
- - [Rumored Apple Watch Series 10 screen improvement will sip battery power](https://appleinsider.com/articles/24/04/09/rumored-apple-watch-series-10-screen-improvement-will-sip-battery-power?utm_medium=rss)
- - [Students Are Likely Writing Millions of Papers With AI](https://www.wired.com/story/student-papers-generative-ai-turnitin/)<!-- TECH:END -->
+ - [Collaborative Robotics, which is developing a Cobot to work alongside humans, raised a $100M Series B led by General Catalyst, taking its total funding to $140M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240410/p20#a240410p20)
+ - [iPhone 16 Plus may expand to seven colors including white and purple](https://appleinsider.com/articles/24/04/10/iphone-16-plus-may-expand-to-seven-colors-including-white-and-purple?utm_medium=rss)
+ - [Apple Pencil 3 may be able to be squeezed in multiple ways](https://appleinsider.com/articles/24/04/10/apple-pencil-3-may-be-able-to-be-squeezed-in-multiple-ways?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
