@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horror fishing game Dredge being adapted for live-action movie](https://www.polygon.com/24124574/dredge-game-horror-movie)
- - [D&amp;D’s next big swing features a half dozen classic adventures and a creepy spaceship](https://www.polygon.com/24122063/dnd-dungeons-dragons-quests-infinite-staircase-historians)
- - [Google sums up 2023&#39;s security exploits: the good news is fixes are blocking some types of zero-day attack. The bad news is Windows has seen more than most](https://www.pcgamer.com/software/security/google-sums-up-2023s-security-exploits-the-good-news-is-fixes-are-blocking-some-types-of-zero-day-attack-the-bad-news-is-windows-has-seen-more-than-most)<!-- GAME:END -->
+ - [Fallout TV show review: The best Fallout anything since Fallout: New Vegas](https://www.pcgamer.com/movies-tv/fallout-tv-show-review-the-best-fallout-anything-since-fallout-new-vegas)
+ - [What time does the Avatar: Elements event start in Fortnite?](https://www.polygon.com/fortnite-guide/24125284/avatar-elements-event-start-time-release-date-time-zone)
+ - [The Fallout TV series is more like a great sequel to the games than just an adaptation](https://www.polygon.com/24122477/fallout-tv-series-review-prime-video-show)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
