@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Collaborative Robotics, which is developing a Cobot to work alongside humans, raised a $100M Series B led by General Catalyst, taking its total funding to $140M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240410/p20#a240410p20)
- - [iPhone 16 Plus may expand to seven colors including white and purple](https://appleinsider.com/articles/24/04/10/iphone-16-plus-may-expand-to-seven-colors-including-white-and-purple?utm_medium=rss)
- - [Apple Pencil 3 may be able to be squeezed in multiple ways](https://appleinsider.com/articles/24/04/10/apple-pencil-3-may-be-able-to-be-squeezed-in-multiple-ways?utm_medium=rss)<!-- TECH:END -->
+ - [Official: here’s the DJI Avata 2, possibly one of the best sequels in years](https://www.theverge.com/2024/4/11/24126785/dji-avata-2-price-release-date)
+ - [Yale’s inexpensive new retrofit lock will work with Matter-over-Thread](https://www.theverge.com/2024/4/11/24126764/yale-approach-smart-lock-price-release-date-specs)
+ - [Weather Channel’s parent company has a new AI tool to make hyperlocal weather videos](https://www.theverge.com/2024/4/11/24126670/weather-channel-weather-company-ai-local-forecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
