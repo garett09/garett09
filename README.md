@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
- - 🚯 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
- - 🚯 [What alcohol withdrawal looks like](http://9gag.com/gag/aLnRMex)<!-- MEMES:END -->
+ - 🚖 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
+ - 🚯 [A question for the mens](http://9gag.com/gag/aVvzYR2)
+ - 🚯 [In American culture, that is considered a d**k move](http://9gag.com/gag/amoNvM4)<!-- MEMES:END -->
 
 --- 
 
