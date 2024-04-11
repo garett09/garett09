@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout TV show review: The best Fallout anything since Fallout: New Vegas](https://www.pcgamer.com/movies-tv/fallout-tv-show-review-the-best-fallout-anything-since-fallout-new-vegas)
- - [What time does the Avatar: Elements event start in Fortnite?](https://www.polygon.com/fortnite-guide/24125284/avatar-elements-event-start-time-release-date-time-zone)
- - [The Fallout TV series is more like a great sequel to the games than just an adaptation](https://www.polygon.com/24122477/fallout-tv-series-review-prime-video-show)<!-- GAME:END -->
+ - [Just like the games, the Fallout show works best when it ignores the main quest and gets sidetracked](https://www.pcgamer.com/movies-tv/just-like-the-games-the-fallout-tv-show-works-best-when-it-ignores-the-main-quest-and-gets-sidetracked)
+ - [The Fallout TV show gives the game’s mascot an origin story that matters](https://www.polygon.com/24126711/fallout-tv-show-vault-boy-origin-story-walton-goggins-ghoul)
+ - [Can somebody go check up on Silksong fans after the Triple-I Initiative&#39;s tongue-in-cheek loading screen tip, I&#39;m worried about them](https://www.pcgamer.com/games/action/can-somebody-go-check-up-on-silksong-fans-after-the-triple-i-initiatives-tongue-in-cheek-loading-screen-tip-im-worried-about-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
