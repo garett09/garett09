@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Just like the games, the Fallout show works best when it ignores the main quest and gets sidetracked](https://www.pcgamer.com/movies-tv/just-like-the-games-the-fallout-tv-show-works-best-when-it-ignores-the-main-quest-and-gets-sidetracked)
- - [The Fallout TV show gives the game’s mascot an origin story that matters](https://www.polygon.com/24126711/fallout-tv-show-vault-boy-origin-story-walton-goggins-ghoul)
- - [Can somebody go check up on Silksong fans after the Triple-I Initiative&#39;s tongue-in-cheek loading screen tip, I&#39;m worried about them](https://www.pcgamer.com/games/action/can-somebody-go-check-up-on-silksong-fans-after-the-triple-i-initiatives-tongue-in-cheek-loading-screen-tip-im-worried-about-them)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for April 15 to 19](https://news.xbox.com/en-us/2024/04/12/next-week-on-xbox-new-games-for-april-15-to-19/)
+ - [Stardew Valley 1.6 kicked up a mad dash for modders, but they were in good hands](https://www.polygon.com/24127575/stardew-valley-1-6-mod-expanded-east-scarp)
+ - [All Genshin Impact codes from the 4.6 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-6-livestream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
