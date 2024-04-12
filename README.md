@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 🚯 [A question for the mens](http://9gag.com/gag/aVvzYR2)
- - 🚯 [In American culture, that is considered a d**k move](http://9gag.com/gag/amoNvM4)<!-- MEMES:END -->
+ - 🚖 [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 🚯 [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 🚯 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)<!-- MEMES:END -->
 
 --- 
 
