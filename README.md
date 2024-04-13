@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for April 15 to 19](https://news.xbox.com/en-us/2024/04/12/next-week-on-xbox-new-games-for-april-15-to-19/)
- - [Stardew Valley 1.6 kicked up a mad dash for modders, but they were in good hands](https://www.polygon.com/24127575/stardew-valley-1-6-mod-expanded-east-scarp)
- - [All Genshin Impact codes from the 4.6 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-6-livestream)<!-- GAME:END -->
+ - [The best thrillers to watch on Netflix this April](https://www.polygon.com/what-to-watch/2024/4/13/24125083/best-thriller-movies-netflix-watch-april-2024)
+ - [Today&#39;s Wordle answer for Saturday, April 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-13-2024)
+ - [Game studio owner suddenly lays everyone off and blames a Kotaku report that hasn&#39;t been published](https://www.pcgamer.com/gaming-industry/possibility-space-closure)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
