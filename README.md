@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech Leaders Once Cried for AI Regulation. Now the Message Is ‘Slow Down’](https://www.wired.com/story/tech-ai-regulation-bill/)
- - [Underused VPN by Google One is being shut down](https://appleinsider.com/articles/24/04/12/underused-vpn-by-google-one-is-being-shut-down?utm_medium=rss)
- - [How &quot;made for advertising&quot; sites, which are criticized for their UX and dubious results for advertisers, get ~15% of automated ad spend or $10B/year, per ANA &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p6#a240412p6)<!-- TECH:END -->
+ - [It’s been 10 years since my love-hate relationship with the Galaxy S5](https://www.androidauthority.com/samsung-galaxy-s5-10-year-anniversary-3431772/)
+ - [Best VPNs for Xbox in 2024: Top Picks by Our VPN Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CAD590a51e)
+ - [Grab Last Minute Deals During Best Buy&#39;s Massive 3-Day Sale     - CNET](https://www.cnet.com/deals/last-minute-deals-during-best-buy-massive-3-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
