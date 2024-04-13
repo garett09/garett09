@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 🚯 [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 🚯 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)<!-- MEMES:END -->
+ - 🚖 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
+ - 🚯 [Best childhood memories](http://9gag.com/gag/a34PGdv)
+ - 🚯 [Insalah](http://9gag.com/gag/aQzPXoe)<!-- MEMES:END -->
 
 --- 
 
