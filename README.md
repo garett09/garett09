@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers to watch on Netflix this April](https://www.polygon.com/what-to-watch/2024/4/13/24125083/best-thriller-movies-netflix-watch-april-2024)
- - [Today&#39;s Wordle answer for Saturday, April 13](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-13-2024)
- - [Game studio owner suddenly lays everyone off and blames a Kotaku report that hasn&#39;t been published](https://www.pcgamer.com/gaming-industry/possibility-space-closure)<!-- GAME:END -->
+ - [The best games like Stardew Valley to play right now](https://www.polygon.com/what-to-play/24124184/games-like-stardew-valley-best-cozy-simulation-farming-games)
+ - [Fallout’s final scene hints at a more complicated universe](https://www.polygon.com/24126748/fallout-final-scene-episode-twist-new-vegas)
+ - [The End Of Battlefield 2042, &#39;Woke&#39; Scrabble, And More Of The Week&#39;s Biggest News](https://kotaku.com/the-end-of-battlefield-2042-woke-scrabble-and-more-of-1851406657)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
