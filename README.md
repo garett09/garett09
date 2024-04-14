@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
- - 🚯 [Best childhood memories](http://9gag.com/gag/a34PGdv)
- - 🚯 [Insalah](http://9gag.com/gag/aQzPXoe)<!-- MEMES:END -->
+ - 🚖 [Having a dad is important. A father takes his two criminal sons to the store where they stole and forces them to return the stuff and apologize.](http://9gag.com/gag/aW4QnB4)
+ - 🚯 [Precision here was truly satisfying](http://9gag.com/gag/a7oLOVq)
+ - 🚯 [He&#39;s Right](http://9gag.com/gag/aE0vAnn)<!-- MEMES:END -->
 
 --- 
 
