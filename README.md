@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s been 10 years since my love-hate relationship with the Galaxy S5](https://www.androidauthority.com/samsung-galaxy-s5-10-year-anniversary-3431772/)
- - [Best VPNs for Xbox in 2024: Top Picks by Our VPN Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CAD590a51e)
- - [Grab Last Minute Deals During Best Buy&#39;s Massive 3-Day Sale     - CNET](https://www.cnet.com/deals/last-minute-deals-during-best-buy-massive-3-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The first Apple-approved emulators for the iPhone have arrived](https://www.theverge.com/2024/4/14/24129981/game-boy-emulator-igba-iphone-ios-app-store-gba4ios-testut-knock-off)
+ - [Source: Google&#39;s new Pixel 9 series, next-gen Pixel Fold, and 5G tablet that is under development will feature a new modem that supports satellite connectivity &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240414/p6#a240414p6)
+ - [Crash Detection helps police locate teenagers killed in New Zealand](https://appleinsider.com/articles/24/04/14/crash-detection-helps-police-locate-teenagers-killed-in-new-zealand?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
