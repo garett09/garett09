@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Having a dad is important. A father takes his two criminal sons to the store where they stole and forces them to return the stuff and apologize.](http://9gag.com/gag/aW4QnB4)
- - 🚯 [Precision here was truly satisfying](http://9gag.com/gag/a7oLOVq)
- - 🚯 [He&#39;s Right](http://9gag.com/gag/aE0vAnn)<!-- MEMES:END -->
+ - 🚖 [A violent black man](http://9gag.com/gag/aXP04DD)
+ - 🚯 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
+ - 🚯 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)<!-- MEMES:END -->
 
 --- 
 
