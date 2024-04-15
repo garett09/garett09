@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best games like Stardew Valley to play right now](https://www.polygon.com/what-to-play/24124184/games-like-stardew-valley-best-cozy-simulation-farming-games)
- - [Fallout’s final scene hints at a more complicated universe](https://www.polygon.com/24126748/fallout-final-scene-episode-twist-new-vegas)
- - [The End Of Battlefield 2042, &#39;Woke&#39; Scrabble, And More Of The Week&#39;s Biggest News](https://kotaku.com/the-end-of-battlefield-2042-woke-scrabble-and-more-of-1851406657)<!-- GAME:END -->
+ - [Game Changer’s first great mindfuck of the season was a simple game of bingo](https://www.polygon.com/24128357/game-changer-bingo-twist-season-6)
+ - [Harold Halibut review](https://www.pcgamer.com/games/adventure/harold-halibut-review)
+ - [City builders continue to dominate Steam as Manor Lords becomes its most wishlisted game](https://www.pcgamer.com/games/city-builder/city-builders-continue-to-dominate-steam-as-manor-lords-becomes-its-most-wishlisted-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
