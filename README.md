@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Apple-approved emulators for the iPhone have arrived](https://www.theverge.com/2024/4/14/24129981/game-boy-emulator-igba-iphone-ios-app-store-gba4ios-testut-knock-off)
- - [Source: Google&#39;s new Pixel 9 series, next-gen Pixel Fold, and 5G tablet that is under development will feature a new modem that supports satellite connectivity &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240414/p6#a240414p6)
- - [Crash Detection helps police locate teenagers killed in New Zealand](https://appleinsider.com/articles/24/04/14/crash-detection-helps-police-locate-teenagers-killed-in-new-zealand?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe releases Acrobat AI Assistant to summarize and answer questions about documents for $4.99/month as an &quot;early access&quot; rate, and a mobile version in beta &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240415/p10#a240415p10)
+ - [Adobe Premiere Pro is getting generative AI video tools — and hopefully OpenAI’s Sora](https://www.theverge.com/2024/4/15/24130804/adobe-premiere-pro-firefly-video-generative-ai-openai-sora)
+ - [These generative AI video editing features are coming to Adobe Premiere Pro](https://www.androidauthority.com/adobe-premiere-pro-generative-ai-video-tools-announcement-3434136/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
