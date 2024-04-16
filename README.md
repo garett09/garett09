@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Changer’s first great mindfuck of the season was a simple game of bingo](https://www.polygon.com/24128357/game-changer-bingo-twist-season-6)
- - [Harold Halibut review](https://www.pcgamer.com/games/adventure/harold-halibut-review)
- - [City builders continue to dominate Steam as Manor Lords becomes its most wishlisted game](https://www.pcgamer.com/games/city-builder/city-builders-continue-to-dominate-steam-as-manor-lords-becomes-its-most-wishlisted-game)<!-- GAME:END -->
+ - [Coming to Game Pass: Manor Lords, Another Crab’s Treasure, Eiyuden Chronicle: Hundred Heroes, and More](https://news.xbox.com/en-us/2024/04/16/xbox-game-pass-april-2024-wave-2/)
+ - [Content Warning has hit 1 million copies sold, which hopefully means we&#39;ll get some more Old World locations soon](https://www.pcgamer.com/games/horror/content-warning-has-hit-1-million-copies-sold-which-hopefully-means-well-get-some-more-old-world-locations-soon)
+ - [The ray-tracing enhanced edition of Metro Exodus, the god-tier road trip game Half-Life 3 should&#39;ve been, is on sale with an 80% discount](https://www.pcgamer.com/games/fps/the-ray-tracing-enhanced-edition-of-metro-exodus-the-god-tier-road-trip-game-half-life-3-shouldve-been-is-on-sale-with-an-80-discount)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
