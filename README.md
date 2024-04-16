@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe releases Acrobat AI Assistant to summarize and answer questions about documents for $4.99/month as an &quot;early access&quot; rate, and a mobile version in beta &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240415/p10#a240415p10)
- - [Adobe Premiere Pro is getting generative AI video tools — and hopefully OpenAI’s Sora](https://www.theverge.com/2024/4/15/24130804/adobe-premiere-pro-firefly-video-generative-ai-openai-sora)
- - [These generative AI video editing features are coming to Adobe Premiere Pro](https://www.androidauthority.com/adobe-premiere-pro-generative-ai-video-tools-announcement-3434136/)<!-- TECH:END -->
+ - [Google One is losing a lot of its appeal, but Photos has me locked in](https://www.androidauthority.com/google-one-less-appealing-3434142/)
+ - [Insta360 X4 announced: An 8K 360-degree powerhouse](https://www.androidauthority.com/insta360-x4-3434178/)
+ - [Sony wants 60fps PS5 Pro ‘Enhanced’ games, but it’s happy to settle for less](https://www.theverge.com/2024/4/16/24131799/sony-ps5-pro-enhanced-requirements-ultra-boost-mode)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
