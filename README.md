@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A violent black man](http://9gag.com/gag/aXP04DD)
- - 🚯 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
- - 🚯 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)<!-- MEMES:END -->
+ - 🚖 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
+ - 🚯 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
+ - 🚯 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)<!-- MEMES:END -->
 
 --- 
 
