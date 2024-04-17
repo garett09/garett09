@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google One is losing a lot of its appeal, but Photos has me locked in](https://www.androidauthority.com/google-one-less-appealing-3434142/)
- - [Insta360 X4 announced: An 8K 360-degree powerhouse](https://www.androidauthority.com/insta360-x4-3434178/)
- - [Sony wants 60fps PS5 Pro ‘Enhanced’ games, but it’s happy to settle for less](https://www.theverge.com/2024/4/16/24131799/sony-ps5-pro-enhanced-requirements-ultra-boost-mode)<!-- TECH:END -->
+ - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
+ - [Tesla is putting Elon Musk’s pay package up for another vote after a judge voided the first one](https://www.theverge.com/2024/4/17/24132827/tesla-elon-musk-pay-package-shareholder-vote-delaware)
+ - [Snap plans to add watermarks to AI-generated images on Snapchat; watermarks appear as a translucent version of the Snap logo with a sparkle emoji &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240417/p17#a240417p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
