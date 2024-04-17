@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
- - 🚯 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
+ - 🚖 [The internet has ruined me.](http://9gag.com/gag/axydPNp)
+ - 🚯 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
  - 🚯 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)<!-- MEMES:END -->
 
 --- 
