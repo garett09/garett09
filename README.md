@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Manor Lords, Another Crab’s Treasure, Eiyuden Chronicle: Hundred Heroes, and More](https://news.xbox.com/en-us/2024/04/16/xbox-game-pass-april-2024-wave-2/)
- - [Content Warning has hit 1 million copies sold, which hopefully means we&#39;ll get some more Old World locations soon](https://www.pcgamer.com/games/horror/content-warning-has-hit-1-million-copies-sold-which-hopefully-means-well-get-some-more-old-world-locations-soon)
- - [The ray-tracing enhanced edition of Metro Exodus, the god-tier road trip game Half-Life 3 should&#39;ve been, is on sale with an 80% discount](https://www.pcgamer.com/games/fps/the-ray-tracing-enhanced-edition-of-metro-exodus-the-god-tier-road-trip-game-half-life-3-shouldve-been-is-on-sale-with-an-80-discount)<!-- GAME:END -->
+ - [Synth Riders goes ‘80s with new music pack, out April 23](https://blog.playstation.com/2024/04/17/synth-riders-goes-80s-with-new-music-pack-out-april-23/)
+ - [Botany Manor is not just about growing plants](https://www.polygon.com/24132130/botany-manor-cozy-games-review-pc)
+ - [You can now buy mythic skins in Overwatch 2 and, to nobody&#39;s surprise, they&#39;re ridiculously expensive to buy outright](https://www.pcgamer.com/games/fps/you-can-now-buy-mythic-skins-in-overwatch-2-and-to-nobodys-surprise-theyre-ridiculously-expensive-to-buy-outright)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
