@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Synth Riders goes ‘80s with new music pack, out April 23](https://blog.playstation.com/2024/04/17/synth-riders-goes-80s-with-new-music-pack-out-april-23/)
- - [Botany Manor is not just about growing plants](https://www.polygon.com/24132130/botany-manor-cozy-games-review-pc)
- - [You can now buy mythic skins in Overwatch 2 and, to nobody&#39;s surprise, they&#39;re ridiculously expensive to buy outright](https://www.pcgamer.com/games/fps/you-can-now-buy-mythic-skins-in-overwatch-2-and-to-nobodys-surprise-theyre-ridiculously-expensive-to-buy-outright)<!-- GAME:END -->
+ - [Final Fantasy 12’s combat is a neglected masterpiece of game design](https://www.polygon.com/gaming/24133011/final-fantasy-12-combat-gambits)
+ - [Superheroes and XCOM collide in this brilliantly tense and tactical turn-based strategy game](https://www.pcgamer.com/games/strategy/superheroes-and-xcom-collide-in-this-brilliantly-tense-and-tactical-turn-based-strategy-game)
+ - [CDPR says the Witcher 4 is being &#39;intensively worked on&#39; but Cyberpunk 2&#39;s still in the &#39;fairly early stages&#39;](https://www.pcgamer.com/games/rpg/cdpr-says-the-witcher-4-is-being-intensively-worked-on-but-cyberpunk-2s-still-in-the-fairly-early-stages)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
