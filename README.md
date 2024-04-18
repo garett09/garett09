@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The internet has ruined me.](http://9gag.com/gag/axydPNp)
- - 🚯 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 🚯 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)<!-- MEMES:END -->
+ - 🚖 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 🚯 [Heroes](http://9gag.com/gag/agm3jM6)
+ - 🚯 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
 
 --- 
 
