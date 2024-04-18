@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8a rumors: Expected release date and what we know so far](https://www.androidauthority.com/google-pixel-8a-3353772/)
- - [Tesla is putting Elon Musk’s pay package up for another vote after a judge voided the first one](https://www.theverge.com/2024/4/17/24132827/tesla-elon-musk-pay-package-shareholder-vote-delaware)
- - [Snap plans to add watermarks to AI-generated images on Snapchat; watermarks appear as a translucent version of the Snap logo with a sparkle emoji &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240417/p17#a240417p17)<!-- TECH:END -->
+ - [Adobe Express mobile app for iOS ships with Firefly generative AI smarts](https://appleinsider.com/articles/24/04/18/adobe-express-mobile-app-for-ios-ships-with-firefly-generative-ai-smarts?utm_medium=rss)
+ - [Spigen Ultra Hybrid Samsung Galaxy S24 case review: Should you buy it?](https://www.androidauthority.com/galaxy-s24-spigen-ultra-hybrid-review-3430687/)
+ - [The phone you buy for your parents: The Galaxy A35 5G is now in the US](https://www.androidauthority.com/samsung-galaxy-a35-us-launch-3435118/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
