@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - 🚯 [Heroes](http://9gag.com/gag/agm3jM6)
- - 🚯 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
+ - 🚖 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)
+ - 🚯 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
+ - 🚯 [Do you agree that BLM and Pride Flags should be BANNED from classrooms?](http://9gag.com/gag/azxgorz)<!-- MEMES:END -->
 
 --- 
 
