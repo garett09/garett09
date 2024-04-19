@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 12’s combat is a neglected masterpiece of game design](https://www.polygon.com/gaming/24133011/final-fantasy-12-combat-gambits)
- - [Superheroes and XCOM collide in this brilliantly tense and tactical turn-based strategy game](https://www.pcgamer.com/games/strategy/superheroes-and-xcom-collide-in-this-brilliantly-tense-and-tactical-turn-based-strategy-game)
- - [CDPR says the Witcher 4 is being &#39;intensively worked on&#39; but Cyberpunk 2&#39;s still in the &#39;fairly early stages&#39;](https://www.pcgamer.com/games/rpg/cdpr-says-the-witcher-4-is-being-intensively-worked-on-but-cyberpunk-2s-still-in-the-fairly-early-stages)<!-- GAME:END -->
+ - [RimWorld’s new horror expansion also happens to be its best](https://www.polygon.com/24134278/rimworld-anomaly-horror-expansion-impressions-ludeon-studios)
+ - [Kingdom Come: Deliverance 2 isn&#39;t just bigger, it&#39;s more diverse, with Warhorse adding a &#39;wide Range of Ethnicities and Different characters&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-isnt-just-bigger-its-more-diverse-with-warhorse-adding-a-wide-range-of-ethnicities-and-different-characters)
+ - [There are few easy ways to get across the incredible complexity required to build a modern computer chip: this photograph is one of them](https://www.pcgamer.com/hardware/processors/there-are-few-easy-ways-to-get-across-the-incredible-complexity-required-to-build-a-modern-computer-chip-this-photograph-is-one-of-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
