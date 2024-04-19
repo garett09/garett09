@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Express mobile app for iOS ships with Firefly generative AI smarts](https://appleinsider.com/articles/24/04/18/adobe-express-mobile-app-for-ios-ships-with-firefly-generative-ai-smarts?utm_medium=rss)
- - [Spigen Ultra Hybrid Samsung Galaxy S24 case review: Should you buy it?](https://www.androidauthority.com/galaxy-s24-spigen-ultra-hybrid-review-3430687/)
- - [The phone you buy for your parents: The Galaxy A35 5G is now in the US](https://www.androidauthority.com/samsung-galaxy-a35-us-launch-3435118/)<!-- TECH:END -->
+ - [Anker’s new 3-in-1 5,000mAh power bank is 25% off today](https://www.androidauthority.com/anker-fusion-power-bank-deal-3435528/)
+ - [The Taylor Swift Album Leak’s Big AI Problem](https://www.wired.com/story/the-taylor-swift-album-leaks-big-ai-problem/)
+ - [Spigen Liquid Air Samsung Galaxy S24 case review: Should you buy it?](https://www.androidauthority.com/galaxy-s24-spigen-liquid-air-review-3430511/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
