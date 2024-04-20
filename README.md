@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s new 3-in-1 5,000mAh power bank is 25% off today](https://www.androidauthority.com/anker-fusion-power-bank-deal-3435528/)
- - [The Taylor Swift Album Leak’s Big AI Problem](https://www.wired.com/story/the-taylor-swift-album-leaks-big-ai-problem/)
- - [Spigen Liquid Air Samsung Galaxy S24 case review: Should you buy it?](https://www.androidauthority.com/galaxy-s24-spigen-liquid-air-review-3430511/)<!-- TECH:END -->
+ - [I challenged myself to build a full Google ecosystem with less than $1,000. Here’s how it went!](https://www.androidauthority.com/build-google-ecosystem-under-1000-3433682/)
+ - [9 Best Espresso Machines &lpar;2024&rpar;: Dual Boilers, Budget, and Accessories](https://www.wired.com/gallery/best-espresso-machines/)
+ - [How to change or cancel your music streaming services](https://www.theverge.com/24134842/music-streaming-services-apple-spotify-how-to)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
