@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RimWorld’s new horror expansion also happens to be its best](https://www.polygon.com/24134278/rimworld-anomaly-horror-expansion-impressions-ludeon-studios)
- - [Kingdom Come: Deliverance 2 isn&#39;t just bigger, it&#39;s more diverse, with Warhorse adding a &#39;wide Range of Ethnicities and Different characters&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-isnt-just-bigger-its-more-diverse-with-warhorse-adding-a-wide-range-of-ethnicities-and-different-characters)
- - [There are few easy ways to get across the incredible complexity required to build a modern computer chip: this photograph is one of them](https://www.pcgamer.com/hardware/processors/there-are-few-easy-ways-to-get-across-the-incredible-complexity-required-to-build-a-modern-computer-chip-this-photograph-is-one-of-them)<!-- GAME:END -->
+ - [The best sci-fi movies to watch on Netflix this April](https://www.polygon.com/what-to-watch/2024/4/20/24132361/best-sci-fi-movies-watch-netflix-april-2024)
+ - [Fallout TV Show Easter Eggs, Old Gaming Kiosks, And More Big News](https://kotaku.com/fallout-tv-show-easter-eggs-old-gaming-kiosks-and-mor-1851422624)
+ - [Today&#39;s Wordle answer for Saturday, April 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-20-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
