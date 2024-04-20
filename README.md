@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)
- - 🚯 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
- - 🚯 [Do you agree that BLM and Pride Flags should be BANNED from classrooms?](http://9gag.com/gag/azxgorz)<!-- MEMES:END -->
+ - 🚖 [Have a beer.](http://9gag.com/gag/apRE78D)
+ - 🚯 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
+ - 🚯 [Pok\u00e9mon Go fans wondered why their characters changed after a patch update. Apparently Pok\u00e9mon cooperated with a consultant company called GaymerX that wants to push LGBT into games and challenge gender stereotypes. I bet they were hired by the racist Lead Community Manager.](http://9gag.com/gag/aE0v4XN)<!-- MEMES:END -->
 
 --- 
 
