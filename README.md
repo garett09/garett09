@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have a beer.](http://9gag.com/gag/apRE78D)
- - 🚯 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
- - 🚯 [Pok\u00e9mon Go fans wondered why their characters changed after a patch update. Apparently Pok\u00e9mon cooperated with a consultant company called GaymerX that wants to push LGBT into games and challenge gender stereotypes. I bet they were hired by the racist Lead Community Manager.](http://9gag.com/gag/aE0v4XN)<!-- MEMES:END -->
+ - 🚖 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 🚯 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 🚯 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)<!-- MEMES:END -->
 
 --- 
 
