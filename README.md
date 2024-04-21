@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I challenged myself to build a full Google ecosystem with less than $1,000. Here’s how it went!](https://www.androidauthority.com/build-google-ecosystem-under-1000-3433682/)
- - [9 Best Espresso Machines &lpar;2024&rpar;: Dual Boilers, Budget, and Accessories](https://www.wired.com/gallery/best-espresso-machines/)
- - [How to change or cancel your music streaming services](https://www.theverge.com/24134842/music-streaming-services-apple-spotify-how-to)<!-- TECH:END -->
+ - [The future of AI gadgets is just phones](https://www.theverge.com/2024/4/21/24134967/ai-gadgets-humane-pin-android-pixel-gemini)
+ - [Gentler Streak quieted my evil brain goblin so I could run in peace](https://www.theverge.com/24134067/gentler-streak-app-ios-apple-watch)
+ - [Apple&#39;s iOS 18 AI will be on-device preserving privacy, and not server-side](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
