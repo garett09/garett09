@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies to watch on Netflix this April](https://www.polygon.com/what-to-watch/2024/4/20/24132361/best-sci-fi-movies-watch-netflix-april-2024)
- - [Fallout TV Show Easter Eggs, Old Gaming Kiosks, And More Big News](https://kotaku.com/fallout-tv-show-easter-eggs-old-gaming-kiosks-and-mor-1851422624)
- - [Today&#39;s Wordle answer for Saturday, April 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-20-2024)<!-- GAME:END -->
+ - [The 10 best Metroidvanias to play right now](https://www.polygon.com/what-to-play/24130852/best-metroidvania-games-play-nintendo-switch-steam-playstation-xbox-pc)
+ - [Fallout-Esque Games You Should Play, Nintendo Switch Secrets, And More](https://kotaku.com/fallout-esque-games-you-should-play-nintendo-switch-se-1851422625)
+ - [Today&#39;s Wordle answer for Sunday, April 21](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-21-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
