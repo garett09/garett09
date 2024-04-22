@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The future of AI gadgets is just phones](https://www.theverge.com/2024/4/21/24134967/ai-gadgets-humane-pin-android-pixel-gemini)
- - [Gentler Streak quieted my evil brain goblin so I could run in peace](https://www.theverge.com/24134067/gentler-streak-app-ios-apple-watch)
- - [Apple&#39;s iOS 18 AI will be on-device preserving privacy, and not server-side](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side?utm_medium=rss)<!-- TECH:END -->
+ - [Leaked Galaxy Ring model numbers present a strange mystery](https://www.androidauthority.com/leaked-galaxy-ring-model-numbers-3436102/)
+ - [BYD Seal 2024 Review: Prices, Specs, Availability](https://www.wired.com/review/review-byd-seal-2024/)
+ - [The Skullcandy Crusher Evo plunges 50% in rare deal](https://www.androidauthority.com/skullcandy-crusher-evo-deal-3435933/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
