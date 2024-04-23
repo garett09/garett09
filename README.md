@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Galaxy Ring model numbers present a strange mystery](https://www.androidauthority.com/leaked-galaxy-ring-model-numbers-3436102/)
- - [BYD Seal 2024 Review: Prices, Specs, Availability](https://www.wired.com/review/review-byd-seal-2024/)
- - [The Skullcandy Crusher Evo plunges 50% in rare deal](https://www.androidauthority.com/skullcandy-crusher-evo-deal-3435933/)<!-- TECH:END -->
+ - [Perplexity AI, which offers an AI chatbot to summarize search results, raised ~$63M led by Daniel Gross at a $1B+ valuation, up from $520M in January 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240423/p15#a240423p15)
+ - [Apple&#39;s next HomePod could be a desktop or TV sound bar](https://appleinsider.com/articles/24/04/23/apples-next-homepod-could-be-a-desktop-or-tv-sound-bar?utm_medium=rss)
+ - [A 128GB Pixel 9 Pro should never exist, Google](https://www.androidauthority.com/128gb-pixel-9-pro-opinion-3436106/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
