@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
- - 🚯 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 🚯 [Miche Minnies, a South African player, was born in 2001. A year earlier, in 2000, Ronaldinho Ga\u00facho played against South Africa.](http://9gag.com/gag/azxgpxK)<!-- MEMES:END -->
+ - 🚖 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)
+ - 🚯 [Community Strikes Back](http://9gag.com/gag/aZZPqd9)
+ - 🚯 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)<!-- MEMES:END -->
 
 --- 
 
