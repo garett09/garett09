@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)
- - 🚯 [Community Strikes Back](http://9gag.com/gag/aZZPqd9)
- - 🚯 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)<!-- MEMES:END -->
+ - 🚖 [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 🚯 [That really hurts](http://9gag.com/gag/a0e8mjd)
+ - 🚯 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)<!-- MEMES:END -->
 
 --- 
 
