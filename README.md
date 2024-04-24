@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity AI, which offers an AI chatbot to summarize search results, raised ~$63M led by Daniel Gross at a $1B+ valuation, up from $520M in January 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240423/p15#a240423p15)
- - [Apple&#39;s next HomePod could be a desktop or TV sound bar](https://appleinsider.com/articles/24/04/23/apples-next-homepod-could-be-a-desktop-or-tv-sound-bar?utm_medium=rss)
- - [A 128GB Pixel 9 Pro should never exist, Google](https://www.androidauthority.com/128gb-pixel-9-pro-opinion-3436106/)<!-- TECH:END -->
+ - [Get our top wall charger choice for 40% off](https://www.androidauthority.com/anker-nano-ii-wall-charger-deal-3436678/)
+ - [Qualcomm details its Snapdragon X Plus and Snapdragon X Elite chips; benchmarks suggest the chips match Apple&#39;s M3, Intel&#39;s Core Ultra 9, and AMD&#39;s Ryzen 9 &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240424/p24#a240424p24)
+ - [Roborock’s S8 MaxV Ultra is the first Matter-certified robot vacuum cleaner](https://www.androidauthority.com/roborock-s8-maxv-ultra-first-matter-certified-robot-vacuum-cleaner-3436887/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
