@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Celebrates Mutant Nostalgia With Marvel Animation’s X-Men ‘97 Custom Comic Xbox Series X and Controllers](https://news.xbox.com/en-us/2024/04/23/xmen-97-xbox-series-x-sweepstakes/)
- - [Polygon investigates: How much of Elden Ring did George R.R. Martin write?](https://www.polygon.com/24135223/elden-ring-did-george-r-r-martin-write-shadow-of-the-erdtree-dlc)
- - [Fortnite&#39;s battle royale mode was cooked up in the back of an Uber in &#39;like, three hours&#39;](https://www.pcgamer.com/games/battle-royale/fortnites-battle-royale-mode-was-cooked-up-in-the-back-of-an-uber-in-like-three-hours)<!-- GAME:END -->
+ - [The full Snapdragon X CPU line-up has now been unveiled, and according to Qualcomm&#39;s numbers it should put the fear of ARM into AMD and Intel&#39;s laptop divisions](https://www.pcgamer.com/hardware/processors/the-full-snapdragon-x-cpu-line-up-has-now-been-unveiled-and-according-to-qualcomms-numbers-it-should-put-the-fear-of-arm-into-amd-and-intels-laptop-divisions)
+ - [Roll20 coming directly to your Discord server](https://www.polygon.com/tabletop-games/24137609/roll20-discord-activity)
+ - [Fallout 76 has seen a million players in a single day, and 5 million across the franchise](https://www.polygon.com/24131018/fallout-games-steam-player-count-bethesda-tv-show)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
