@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get our top wall charger choice for 40% off](https://www.androidauthority.com/anker-nano-ii-wall-charger-deal-3436678/)
- - [Qualcomm details its Snapdragon X Plus and Snapdragon X Elite chips; benchmarks suggest the chips match Apple&#39;s M3, Intel&#39;s Core Ultra 9, and AMD&#39;s Ryzen 9 &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240424/p24#a240424p24)
- - [Roborock’s S8 MaxV Ultra is the first Matter-certified robot vacuum cleaner](https://www.androidauthority.com/roborock-s8-maxv-ultra-first-matter-certified-robot-vacuum-cleaner-3436887/)<!-- TECH:END -->
+ - [Worst to best: The Google Pixel series, ranked](https://www.androidauthority.com/google-pixel-phones-ranked-3426118/)
+ - [Eufy X10 Pro Omni Review: Great Mopping and Decent AI Smarts](https://www.wired.com/review/eufy-x10-pro-omni/)
+ - [You can now get the Google Nest Wifi router for just $49.99 &lpar;70% off&rpar;](https://www.androidauthority.com/google-nest-wifi-router-deal-3436999/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
