@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hi mom](http://9gag.com/gag/aD20AVd)
- - 🚯 [That really hurts](http://9gag.com/gag/a0e8mjd)
- - 🚯 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)<!-- MEMES:END -->
+ - 🚖 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 🚯 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
+ - 🚯 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
 
 --- 
 
