@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The full Snapdragon X CPU line-up has now been unveiled, and according to Qualcomm&#39;s numbers it should put the fear of ARM into AMD and Intel&#39;s laptop divisions](https://www.pcgamer.com/hardware/processors/the-full-snapdragon-x-cpu-line-up-has-now-been-unveiled-and-according-to-qualcomms-numbers-it-should-put-the-fear-of-arm-into-amd-and-intels-laptop-divisions)
- - [Roll20 coming directly to your Discord server](https://www.polygon.com/tabletop-games/24137609/roll20-discord-activity)
- - [Fallout 76 has seen a million players in a single day, and 5 million across the franchise](https://www.polygon.com/24131018/fallout-games-steam-player-count-bethesda-tv-show)<!-- GAME:END -->
+ - [This co-op Viking survival game is a lot different than Valheim because you can recruit NPCs, assign them jobs, and occasionally devour their souls](https://www.pcgamer.com/games/survival-crafting/this-co-op-viking-survival-game-is-a-lot-different-than-valheim-because-you-can-recruit-npcs-assign-them-jobs-and-occasionally-devour-their-souls)
+ - [The Mandalorian: Adventures board game, co-designed by Corey Konieczka, is full of surprises](https://www.polygon.com/24138635/the-mandalorian-adventures-board-game-corey-konieczka-preview-release-date-price)
+ - [Nintendo’s new Paper Mario remaster doesn’t mess with perfection](https://www.polygon.com/24134021/paper-mario-thousand-year-door-preview-nintendo-switch-ttyd)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
