@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This co-op Viking survival game is a lot different than Valheim because you can recruit NPCs, assign them jobs, and occasionally devour their souls](https://www.pcgamer.com/games/survival-crafting/this-co-op-viking-survival-game-is-a-lot-different-than-valheim-because-you-can-recruit-npcs-assign-them-jobs-and-occasionally-devour-their-souls)
- - [The Mandalorian: Adventures board game, co-designed by Corey Konieczka, is full of surprises](https://www.polygon.com/24138635/the-mandalorian-adventures-board-game-corey-konieczka-preview-release-date-price)
- - [Nintendo’s new Paper Mario remaster doesn’t mess with perfection](https://www.polygon.com/24134021/paper-mario-thousand-year-door-preview-nintendo-switch-ttyd)<!-- GAME:END -->
+ - [Microsoft has released the source code for MS-DOS 4.0 and it&#39;s giving me all the nostalgia feels](https://www.pcgamer.com/hardware/microsoft-has-released-the-source-code-for-ms-dos-40-and-its-giving-me-all-the-nostalgia-feels)
+ - [Idle farming sim Rusty&#39;s Retirement allows you to pour hours into farmwork whilst still doing other things](https://www.pcgamer.com/games/sim/idle-farming-sim-rustys-retirement-allows-you-to-pour-hours-into-farmwork-whilst-still-doing-other-things)
+ - [Manor Lords: How to Survive Your First Harsh Winter](https://news.xbox.com/en-us/2024/04/26/manor-lords-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
