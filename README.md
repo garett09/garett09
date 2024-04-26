@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
- - 🚯 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
- - 🚯 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
+ - 🚖 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 🚯 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 🚯 [Cybertruck comes with a free option of chopping vegetables and yet people still complain](http://9gag.com/gag/an7Yyo0)<!-- MEMES:END -->
 
 --- 
 
