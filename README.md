@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worst to best: The Google Pixel series, ranked](https://www.androidauthority.com/google-pixel-phones-ranked-3426118/)
- - [Eufy X10 Pro Omni Review: Great Mopping and Decent AI Smarts](https://www.wired.com/review/eufy-x10-pro-omni/)
- - [You can now get the Google Nest Wifi router for just $49.99 &lpar;70% off&rpar;](https://www.androidauthority.com/google-nest-wifi-router-deal-3436999/)<!-- TECH:END -->
+ - [Galaxy S24 Plus deal: The top Android phone is $150 off right now](https://www.androidauthority.com/samsung-galaxy-s24-plus-deal-3437470/)
+ - [Amazon drops Apple&#39;s M3 MacBook Air to record low $989](https://appleinsider.com/articles/24/04/26/amazon-drops-apples-m3-macbook-air-to-record-low-989?utm_medium=rss)
+ - [Sale or No Sale, TikTok Will Never Be the Same](https://www.wired.com/story/plaintext-sale-or-no-sale-tiktok-will-never-be-the-same/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
