@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 🚯 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 🚯 [Cybertruck comes with a free option of chopping vegetables and yet people still complain](http://9gag.com/gag/an7Yyo0)<!-- MEMES:END -->
+ - 🚖 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
+ - 🚯 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)
+ - 🚯 [My man was dead inside](http://9gag.com/gag/an7YjYq)<!-- MEMES:END -->
 
 --- 
 
