@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft has released the source code for MS-DOS 4.0 and it&#39;s giving me all the nostalgia feels](https://www.pcgamer.com/hardware/microsoft-has-released-the-source-code-for-ms-dos-40-and-its-giving-me-all-the-nostalgia-feels)
- - [Idle farming sim Rusty&#39;s Retirement allows you to pour hours into farmwork whilst still doing other things](https://www.pcgamer.com/games/sim/idle-farming-sim-rustys-retirement-allows-you-to-pour-hours-into-farmwork-whilst-still-doing-other-things)
- - [Manor Lords: How to Survive Your First Harsh Winter](https://news.xbox.com/en-us/2024/04/26/manor-lords-guide/)<!-- GAME:END -->
+ - [The must-see movies leaving streaming at the end of April](https://www.polygon.com/what-to-watch/2024/4/27/24137404/best-movies-netflix-amazon-hulu-leaving-april-2024)
+ - [Today&#39;s Wordle answer for Saturday, April 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-27-2024)
+ - [Ridley Scott’s Alien introduced the perfect sci-fi villain](https://www.polygon.com/23593379/best-sci-fi-alien-xenomorph-ridley-scott-45th-anniversary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
