@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S24 Plus deal: The top Android phone is $150 off right now](https://www.androidauthority.com/samsung-galaxy-s24-plus-deal-3437470/)
- - [Amazon drops Apple&#39;s M3 MacBook Air to record low $989](https://appleinsider.com/articles/24/04/26/amazon-drops-apples-m3-macbook-air-to-record-low-989?utm_medium=rss)
- - [Sale or No Sale, TikTok Will Never Be the Same](https://www.wired.com/story/plaintext-sale-or-no-sale-tiktok-will-never-be-the-same/)<!-- TECH:END -->
+ - [Dear Samsung: I need you to make a Samsung Galaxy S25 Pro](https://www.androidauthority.com/galaxy-s25-pro-opinion-3436635/)
+ - [Ceretone Core One OTC Hearing Aids Review: Tiny and Barely Useful](https://www.wired.com/review/ceretone-core-one-otc-hearing-aids/)
+ - [The 25 Best iPad Accessories &lpar;2024&rpar;: Cases, Keyboards, Chargers, and Hubs](https://www.wired.com/gallery/best-ipad-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
