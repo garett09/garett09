@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dear Samsung: I need you to make a Samsung Galaxy S25 Pro](https://www.androidauthority.com/galaxy-s25-pro-opinion-3436635/)
- - [Ceretone Core One OTC Hearing Aids Review: Tiny and Barely Useful](https://www.wired.com/review/ceretone-core-one-otc-hearing-aids/)
- - [The 25 Best iPad Accessories &lpar;2024&rpar;: Cases, Keyboards, Chargers, and Hubs](https://www.wired.com/gallery/best-ipad-accessories/)<!-- TECH:END -->
+ - [One UI 6.1 keeps messing with Android’s best feature — I need Samsung to stop it](https://www.androidauthority.com/samsung-one-ui-6-1-notification-category-mess-3437267/)
+ - [New iPad Pro rumored to debut with M4 chip](https://appleinsider.com/articles/24/04/28/new-ipad-pro-rumored-to-debut-with-m4-chip?utm_medium=rss)
+ - [9 Best Password Managers &lpar;2024&rpar;: Features, Pricing, and Tips](https://www.wired.com/story/best-password-managers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
