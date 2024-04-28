@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
- - 🚯 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)
- - 🚯 [My man was dead inside](http://9gag.com/gag/an7YjYq)<!-- MEMES:END -->
+ - 🚖 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
+ - 🚯 [She looks smart.](http://9gag.com/gag/a1mAKVw)
+ - 🚯 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)<!-- MEMES:END -->
 
 --- 
 
