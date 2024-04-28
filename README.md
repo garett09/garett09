@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The must-see movies leaving streaming at the end of April](https://www.polygon.com/what-to-watch/2024/4/27/24137404/best-movies-netflix-amazon-hulu-leaving-april-2024)
- - [Today&#39;s Wordle answer for Saturday, April 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-27-2024)
- - [Ridley Scott’s Alien introduced the perfect sci-fi villain](https://www.polygon.com/23593379/best-sci-fi-alien-xenomorph-ridley-scott-45th-anniversary)<!-- GAME:END -->
+ - [Why is it so difficult to play Fallout games on PC right now?](https://www.polygon.com/24141738/fallout-games-pc-difficult-in-2024-new-vegas-mods)
+ - [Today&#39;s Wordle answer for Sunday, April 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-28-2024)
+ - [Remembering the weird HeroQuest novel that combined Beowulf, Discworld, Dying Earth, and American Psycho](https://www.pcgamer.com/games/board-games/remembering-the-weird-heroquest-novel-that-combined-beowulf-discworld-dying-earth-and-american-psycho)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
