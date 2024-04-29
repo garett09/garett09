@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
- - 🚯 [She looks smart.](http://9gag.com/gag/a1mAKVw)
- - 🚯 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)<!-- MEMES:END -->
+ - 🚖 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)
+ - 🚯 [Found a really cool stick outside](http://9gag.com/gag/a7o5wDw)
+ - 🚯 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)<!-- MEMES:END -->
 
 --- 
 
