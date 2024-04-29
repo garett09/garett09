@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 6.1 keeps messing with Android’s best feature — I need Samsung to stop it](https://www.androidauthority.com/samsung-one-ui-6-1-notification-category-mess-3437267/)
- - [New iPad Pro rumored to debut with M4 chip](https://appleinsider.com/articles/24/04/28/new-ipad-pro-rumored-to-debut-with-m4-chip?utm_medium=rss)
- - [9 Best Password Managers &lpar;2024&rpar;: Features, Pricing, and Tips](https://www.wired.com/story/best-password-managers/)<!-- TECH:END -->
+ - [7 Best Portable Power Stations &lpar;2024&rpar;: Power Capacity, Luxe, Budget, and More](https://www.wired.com/gallery/best-portable-power-stations/)
+ - [Manor Lords, a new medieval city building game from Polish indie developer Grzegorz Styczen, sells 1M+ copies and hits 170K+ concurrent players on Steam &lpar;Konrad Krasuski/Bloomberg&rpar;](http://www.techmeme.com/240429/p12#a240429p12)
+ - [Best deal yet drops on the Google Pixel Watch 2](https://www.androidauthority.com/deal-google-pixel-watch-2-3438026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
