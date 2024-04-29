@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why is it so difficult to play Fallout games on PC right now?](https://www.polygon.com/24141738/fallout-games-pc-difficult-in-2024-new-vegas-mods)
- - [Today&#39;s Wordle answer for Sunday, April 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-april-28-2024)
- - [Remembering the weird HeroQuest novel that combined Beowulf, Discworld, Dying Earth, and American Psycho](https://www.pcgamer.com/games/board-games/remembering-the-weird-heroquest-novel-that-combined-beowulf-discworld-dying-earth-and-american-psycho)<!-- GAME:END -->
+ - [Hades 2&#39;s technical test is shutting down today, but don&#39;t worry, you won&#39;t be deprived of your hot gods for long—early access will follow &#39;relatively soon after&#39;](https://www.pcgamer.com/games/roguelike/hades-2s-technical-test-is-shutting-down-today-but-dont-worry-you-wont-be-deprived-of-your-hot-gods-for-longearly-access-will-follow-relatively-soon-after)
+ - [Fallout took the Alien approach with the Brotherhood of Steel — and it worked](https://www.polygon.com/24141751/fallout-brotherhood-steel-power-armor-how-nolan-interview)
+ - [How Escape From Tarkov wiped out years of goodwill in one catastrophic week](https://www.pcgamer.com/games/fps/how-escape-from-tarkov-wiped-out-years-of-goodwill-in-one-catastrophic-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
