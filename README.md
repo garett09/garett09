@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hades 2&#39;s technical test is shutting down today, but don&#39;t worry, you won&#39;t be deprived of your hot gods for long—early access will follow &#39;relatively soon after&#39;](https://www.pcgamer.com/games/roguelike/hades-2s-technical-test-is-shutting-down-today-but-dont-worry-you-wont-be-deprived-of-your-hot-gods-for-longearly-access-will-follow-relatively-soon-after)
- - [Fallout took the Alien approach with the Brotherhood of Steel — and it worked](https://www.polygon.com/24141751/fallout-brotherhood-steel-power-armor-how-nolan-interview)
- - [How Escape From Tarkov wiped out years of goodwill in one catastrophic week](https://www.pcgamer.com/games/fps/how-escape-from-tarkov-wiped-out-years-of-goodwill-in-one-catastrophic-week)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Little Kitty Big City, Tomb Raider: Definitive Edition, and More](https://news.xbox.com/en-us/2024/04/30/xbox-game-pass-may-2024-wave-1/)
+ - [When is the weekly reset time in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/24144172/weekly-reset-time-when)
+ - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
