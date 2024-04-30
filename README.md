@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)
- - 🚯 [Found a really cool stick outside](http://9gag.com/gag/a7o5wDw)
- - 🚯 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)<!-- MEMES:END -->
+ - 🚖 [Smart Move](http://9gag.com/gag/aE0wpQn)
+ - 🚯 [Arrest Me](http://9gag.com/gag/aQzqXye)
+ - 🚯 [New fear unlocked](http://9gag.com/gag/agmygzw)<!-- MEMES:END -->
 
 --- 
 
