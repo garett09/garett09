@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Portable Power Stations &lpar;2024&rpar;: Power Capacity, Luxe, Budget, and More](https://www.wired.com/gallery/best-portable-power-stations/)
- - [Manor Lords, a new medieval city building game from Polish indie developer Grzegorz Styczen, sells 1M+ copies and hits 170K+ concurrent players on Steam &lpar;Konrad Krasuski/Bloomberg&rpar;](http://www.techmeme.com/240429/p12#a240429p12)
- - [Best deal yet drops on the Google Pixel Watch 2](https://www.androidauthority.com/deal-google-pixel-watch-2-3438026/)<!-- TECH:END -->
+ - [Phones are the ultimate AI gadget](https://www.theverge.com/24145141/ai-gadgets-smartphones-meta-rabbit)
+ - [A Finnish court sentences hacker Julius Kivim&amp;auml;ki to six years and three months, after he breached a healthcare database and attempted to blackmail 33,000 people &lpar;BBC&rpar;](http://www.techmeme.com/240430/p17#a240430p17)
+ - [Debunking common myths: 5 things iPhone users get wrong about Android](https://www.androidauthority.com/android-myths-3437259/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
