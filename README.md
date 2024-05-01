@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phones are the ultimate AI gadget](https://www.theverge.com/24145141/ai-gadgets-smartphones-meta-rabbit)
- - [A Finnish court sentences hacker Julius Kivim&amp;auml;ki to six years and three months, after he breached a healthcare database and attempted to blackmail 33,000 people &lpar;BBC&rpar;](http://www.techmeme.com/240430/p17#a240430p17)
- - [Debunking common myths: 5 things iPhone users get wrong about Android](https://www.androidauthority.com/android-myths-3437259/)<!-- TECH:END -->
+ - [Apple&#39;s new &quot;Repair State&quot; feature keeps Find My enabled during repairs](https://appleinsider.com/articles/24/04/30/new-repair-state-feature-keeps-find-my-enabled-during-device-repair?utm_medium=rss)
+ - [Dell Alienware m16 R2 Review: Gaming Power in a Business Suit](https://www.wired.com/review/dell-alienware-m16-r2/)
+ - [A Vast New Dataset Could Supercharge the AI Hunt for Crypto Money Laundering](https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
