@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smart Move](http://9gag.com/gag/aE0wpQn)
- - 🚯 [Arrest Me](http://9gag.com/gag/aQzqXye)
- - 🚯 [New fear unlocked](http://9gag.com/gag/agmygzw)<!-- MEMES:END -->
+ - 🚖 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - 🚯 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
+ - 🚯 [Y u internet](http://9gag.com/gag/an7YOEn)<!-- MEMES:END -->
 
 --- 
 
