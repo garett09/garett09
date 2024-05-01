@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Little Kitty Big City, Tomb Raider: Definitive Edition, and More](https://news.xbox.com/en-us/2024/04/30/xbox-game-pass-may-2024-wave-1/)
- - [When is the weekly reset time in Destiny 2?](https://www.polygon.com/destiny-2-guide-walkthrough/24144172/weekly-reset-time-when)
- - [What is the Destiny 2 raid and dungeon rotation this week?](https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule)<!-- GAME:END -->
+ - [Coffee and PC gaming ground together in perfect harmony, in this fabulous Scandi wood-sauna-themed build](https://www.pcgamer.com/hardware/gaming-pcs/coffee-and-pc-gaming-ground-together-in-perfect-harmony-in-this-fabulous-scandi-wood-sauna-themed-build)
+ - [Priest accused by cops of spending over $40,000 of church funds on Candy Crush and Pokémon Go, says it might have happened because he&#39;s not a &#39;details guy&#39;](https://www.pcgamer.com/games/priest-accused-by-cops-of-spending-over-dollar40000-of-church-funds-on-candy-crush-and-pokemon-go-says-it-might-have-happened-because-hes-not-a-details-guy)
+ - [Buckle up—Hasbro spent over $1 billion on games and has plans for &#39;the next 100 years&#39;, since Baldur&#39;s Gate 3 proved fans &#39;like a great, well-executed D&amp;D game&#39;](https://www.pcgamer.com/games/baldurs-gate/buckle-uphasbro-has-spent-over-dollar1-billion-on-games-and-has-plans-for-the-next-100-years-since-baldurs-gate-3-proved-fans-like-a-great-well-executed-dandd-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
