@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 🚯 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
- - 🚯 [Y u internet](http://9gag.com/gag/an7YOEn)<!-- MEMES:END -->
+ - 🚖 [Arthur](http://9gag.com/gag/a4P452m)
+ - 🚯 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
+ - 🚯 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)<!-- MEMES:END -->
 
 --- 
 
