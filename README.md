@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new &quot;Repair State&quot; feature keeps Find My enabled during repairs](https://appleinsider.com/articles/24/04/30/new-repair-state-feature-keeps-find-my-enabled-during-device-repair?utm_medium=rss)
- - [Dell Alienware m16 R2 Review: Gaming Power in a Business Suit](https://www.wired.com/review/dell-alienware-m16-r2/)
- - [A Vast New Dataset Could Supercharge the AI Hunt for Crypto Money Laundering](https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/)<!-- TECH:END -->
+ - [How to Create and Customize Stickers with iOS 17](https://www.wired.com/story/how-to-create-stickers-iphone-ios-17/)
+ - [Get Ready for Monster Hurricanes This Summer](https://www.wired.com/story/monster-hurricane-season-summer-2024-atlantic-tropical-storm/)
+ - [Nvidia makes it easier to get GeForce Now running on the Steam Deck](https://www.theverge.com/2024/5/2/24147034/nvidia-geforce-now-steam-deck-script-install)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
