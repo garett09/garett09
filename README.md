@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pistol Whip unleashes power metal with the Voidslayer Collection June 6](https://blog.playstation.com/2024/05/02/pistol-whip-unleashes-power-metal-with-the-voidslayer-collection-june-6/)
- - [In a golden age of Star Wars board games, these are the best options](https://www.polygon.com/what-to-play/24145239/best-star-wars-board-games-ttrpg-rebellion-unlimited-shatterpoint-edge-of-empire)
- - [D&amp;D lore buff discovers Elminster&#39;s likely been leaving magic items strewn around Baldur&#39;s Gate 3 like a fantasy wizard Santa Claus](https://www.pcgamer.com/games/baldurs-gate/dandd-lore-buff-discovers-elminsters-likely-been-leaving-magic-items-strewn-around-baldurs-gate-3-like-a-fantasy-wizard-santa-claus)<!-- GAME:END -->
+ - [The Wandering Village is living proof of TikTok’s impact on games](https://www.polygon.com/24147555/how-tiktok-ban-would-impact-video-games)
+ - [More than half of Fortune 100 companies have bought Vision Pro units according to Apple. So it&#39;s sold at least 50 then](https://www.pcgamer.com/hardware/vr-hardware/more-than-half-of-fortune-100-companies-have-bought-vision-pro-units-according-to-apple-so-its-sold-at-least-50-then)
+ - [Seinfeld’s Netflix Pop-Tart movie embarrasses everyone](https://www.polygon.com/reviews/24147505/seinfeld-netflix-unfrosted-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
