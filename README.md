@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Arthur](http://9gag.com/gag/a4P452m)
- - 🚯 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - 🚯 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)<!-- MEMES:END -->
+ - 🚖 [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)
+ - 🚯 [No, it was dumber than that&rpar;](http://9gag.com/gag/awyr4ED)
+ - 🚯 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)<!-- MEMES:END -->
 
 --- 
 
