@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Create and Customize Stickers with iOS 17](https://www.wired.com/story/how-to-create-stickers-iphone-ios-17/)
- - [Get Ready for Monster Hurricanes This Summer](https://www.wired.com/story/monster-hurricane-season-summer-2024-atlantic-tropical-storm/)
- - [Nvidia makes it easier to get GeForce Now running on the Steam Deck](https://www.theverge.com/2024/5/2/24147034/nvidia-geforce-now-steam-deck-script-install)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s May 7 event: new iPad Pros, possibly with M4 chips, updated iPad Air and Pencil, but AI features may not get a &quot;formal unveiling&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240503/p10#a240503p10)
+ - [Multibillion-dollar Apple deal looms large in Google antitrust trial](https://www.theverge.com/2024/5/3/24147682/google-closing-arguments-search-distribution-trial-day-1)
+ - [Deal: Sensational $497 price drop on the Pixel 7 Pro](https://www.androidauthority.com/deal-pixel-7-pro-3439425/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
