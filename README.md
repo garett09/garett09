@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Wandering Village is living proof of TikTok’s impact on games](https://www.polygon.com/24147555/how-tiktok-ban-would-impact-video-games)
- - [More than half of Fortune 100 companies have bought Vision Pro units according to Apple. So it&#39;s sold at least 50 then](https://www.pcgamer.com/hardware/vr-hardware/more-than-half-of-fortune-100-companies-have-bought-vision-pro-units-according-to-apple-so-its-sold-at-least-50-then)
- - [Seinfeld’s Netflix Pop-Tart movie embarrasses everyone](https://www.polygon.com/reviews/24147505/seinfeld-netflix-unfrosted-review)<!-- GAME:END -->
+ - [The best movies new to streaming this May](https://www.polygon.com/what-to-watch/2024/5/4/24144604/best-new-movies-netflix-amazon-prime-max-hulu-may-2024)
+ - [Today&#39;s Wordle answer for Saturday, May 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-4-2024)
+ - [Star Wars’ Expanded Universe helped rescue Phantom Menace and the prequel trilogy](https://www.polygon.com/star-wars/2019/5/18/18629598/phantom-menace-star-wars-prequels-expanded-universe-best-books-tv-series-comics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
