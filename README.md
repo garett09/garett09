@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)
- - 🚯 [No, it was dumber than that&rpar;](http://9gag.com/gag/awyr4ED)
- - 🚯 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)<!-- MEMES:END -->
+ - 🚖 [I can think of two big reasons](http://9gag.com/gag/abA5RoO)
+ - 🚯 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
+ - 🚯 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)<!-- MEMES:END -->
 
 --- 
 
