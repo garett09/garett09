@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can think of two big reasons](http://9gag.com/gag/abA5RoO)
- - 🚯 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
- - 🚯 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)<!-- MEMES:END -->
+ - 🚖 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 🚯 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 🚯 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)<!-- MEMES:END -->
 
 --- 
 
