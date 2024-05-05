@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ambient Weather WS-5000 Review: A Fantastic Weather Station](https://www.wired.com/review/ambient-weather-ws-5000/)
- - [Here are some of our favorite Star Wars Day deals](https://www.theverge.com/2024/5/4/24148194/star-wars-day-may-fourth-2024-tech-lego-gaming-smart-home-deal-sale)
- - [As chipmakers move into or expand in the region around Germany&#39;s Dresden, skeptics say more government subsidies, skilled workers, and end customers are needed &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240504/p10#a240504p10)<!-- TECH:END -->
+ - [25 Best Mother&#39;s Day Gifts: Ideas for the Moms in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)
+ - [Better Siri is coming: what Apple’s research says about its AI plans](https://www.theverge.com/2024/5/5/24147995/apple-siri-ai-research-chatbot-creativity)
+ - [As Elon Musk Abandons the $25K Tesla, This EV Costs Just $4,400](https://www.wired.com/story/zhidou-rainbow-ev-costs-just-dollar4400/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
