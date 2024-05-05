@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming this May](https://www.polygon.com/what-to-watch/2024/5/4/24144604/best-new-movies-netflix-amazon-prime-max-hulu-may-2024)
- - [Today&#39;s Wordle answer for Saturday, May 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-4-2024)
- - [Star Wars’ Expanded Universe helped rescue Phantom Menace and the prequel trilogy](https://www.polygon.com/star-wars/2019/5/18/18629598/phantom-menace-star-wars-prequels-expanded-universe-best-books-tv-series-comics)<!-- GAME:END -->
+ - [The best limited series you can watch right now](https://www.polygon.com/what-to-watch/24146275/best-limited-series-mini-tv-shows-watch-streaming)
+ - [Today&#39;s Wordle answer for Sunday, May 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-5-2024)
+ - [Here&#39;s the launch trailer for V Rising&#39;s 1.0 version, releasing very soon](https://www.pcgamer.com/games/heres-the-launch-trailer-for-v-risings-10-version-releasing-very-soon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
