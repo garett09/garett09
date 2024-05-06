@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 Best Mother&#39;s Day Gifts: Ideas for the Moms in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)
- - [Better Siri is coming: what Apple’s research says about its AI plans](https://www.theverge.com/2024/5/5/24147995/apple-siri-ai-research-chatbot-creativity)
- - [As Elon Musk Abandons the $25K Tesla, This EV Costs Just $4,400](https://www.wired.com/story/zhidou-rainbow-ev-costs-just-dollar4400/)<!-- TECH:END -->
+ - [YouTube rolls out Jump Ahead, which uses AI to let users jump to parts of a video where most viewers skip ahead, to all US Premium members using its Android app &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/240506/p8#a240506p8)
+ - [Best Kids Tablets &lpar;2024&rpar;: iPads, Amazon Fire Kids Tablets, and More](https://www.wired.com/gallery/best-kids-tablets/)
+ - [5 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
