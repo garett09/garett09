@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube rolls out Jump Ahead, which uses AI to let users jump to parts of a video where most viewers skip ahead, to all US Premium members using its Android app &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/240506/p8#a240506p8)
- - [Best Kids Tablets &lpar;2024&rpar;: iPads, Amazon Fire Kids Tablets, and More](https://www.wired.com/gallery/best-kids-tablets/)
- - [5 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)<!-- TECH:END -->
+ - [7 Best E-Readers &lpar;2024&rpar;: Kindle, Nook, Kobo](https://www.wired.com/gallery/best-ereaders/)
+ - [Tubi is launching a new ‘fan-fueled’ studio to cultivate the next generation of filmmakers](https://www.theverge.com/2024/5/7/24148211/tubi-stubios-nicole-parlapiano)
+ - [The Answer to Election Deniers Is in an Idaho County Website](https://www.wired.com/story/ballot-verifier-idaho-new-tech-election-deniers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
