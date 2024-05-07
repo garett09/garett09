@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best limited series you can watch right now](https://www.polygon.com/what-to-watch/24146275/best-limited-series-mini-tv-shows-watch-streaming)
- - [Today&#39;s Wordle answer for Sunday, May 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-5-2024)
- - [Here&#39;s the launch trailer for V Rising&#39;s 1.0 version, releasing very soon](https://www.pcgamer.com/games/heres-the-launch-trailer-for-v-risings-10-version-releasing-very-soon)<!-- GAME:END -->
+ - [Vecna: Eve of Ruin, D&amp;D’s final 5th edition campaign, delivers the high-level combat fans have been asking for](https://www.polygon.com/24148046/dnd-dungeons-dragons-vecna-eve-of-ruin-review)
+ - [&#39;Operation Clean-up&#39; begins for Helldivers 2 players as Sony&#39;s PSN plans lie in rubble, with over 70,000 &lpar;and counting&rpar; positive reviews landing on Steam](https://www.pcgamer.com/games/third-person-shooter/operation-clean-up-begins-for-helldivers-2-players-as-sonys-psn-plans-lie-in-rubble-with-over-70000-and-counting-positive-reviews-landing-on-steam)
+ - [Broken Roads: The NPCs We Love to Hate](https://news.xbox.com/en-us/2024/05/07/broken-roads-the-npcs-we-love-to-hate/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
