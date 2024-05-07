@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
- - 🚯 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 🚯 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)<!-- MEMES:END -->
+ - 🚖 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)
+ - 🚯 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
+ - 🚯 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)<!-- MEMES:END -->
 
 --- 
 
