@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vecna: Eve of Ruin, D&amp;D’s final 5th edition campaign, delivers the high-level combat fans have been asking for](https://www.polygon.com/24148046/dnd-dungeons-dragons-vecna-eve-of-ruin-review)
- - [&#39;Operation Clean-up&#39; begins for Helldivers 2 players as Sony&#39;s PSN plans lie in rubble, with over 70,000 &lpar;and counting&rpar; positive reviews landing on Steam](https://www.pcgamer.com/games/third-person-shooter/operation-clean-up-begins-for-helldivers-2-players-as-sonys-psn-plans-lie-in-rubble-with-over-70000-and-counting-positive-reviews-landing-on-steam)
- - [Broken Roads: The NPCs We Love to Hate](https://news.xbox.com/en-us/2024/05/07/broken-roads-the-npcs-we-love-to-hate/)<!-- GAME:END -->
+ - [Crow Country review](https://www.pcgamer.com/games/horror/crow-country-review)
+ - [The best indie games of 2024 so far](https://www.polygon.com/what-to-play/24151036/best-indie-games-2024)
+ - [Crow Country: The Kotaku Review](https://kotaku.com/crow-country-indie-survival-horror-review-1851462202)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
