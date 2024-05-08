@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best E-Readers &lpar;2024&rpar;: Kindle, Nook, Kobo](https://www.wired.com/gallery/best-ereaders/)
- - [Tubi is launching a new ‘fan-fueled’ studio to cultivate the next generation of filmmakers](https://www.theverge.com/2024/5/7/24148211/tubi-stubios-nicole-parlapiano)
- - [The Answer to Election Deniers Is in an Idaho County Website](https://www.wired.com/story/ballot-verifier-idaho-new-tech-election-deniers/)<!-- TECH:END -->
+ - [FTX says most customers will get all their money back](https://www.theverge.com/2024/5/8/24151882/ftx-customers-repaid-bankruptcy-debt)
+ - [Here are the carriers that get you a Google Pixel 8a free, or at least close to it](https://www.androidauthority.com/google-pixel-8a-free-3440662/)
+ - [OnePlus keeps adding bloatware to the OnePlus 12 and OnePlus Open, its premium flagships](https://www.androidauthority.com/oneplus-12-oneplus-open-bloatware-premium-flagship-3440400/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
