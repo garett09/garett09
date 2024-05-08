@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)
- - 🚯 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
- - 🚯 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)<!-- MEMES:END -->
+ - 🚖 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
+ - 🚯 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 🚯 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)<!-- MEMES:END -->
 
 --- 
 
