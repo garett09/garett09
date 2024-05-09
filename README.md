@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
- - 🚯 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 🚯 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)<!-- MEMES:END -->
+ - 🚖 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
+ - 🚯 [Czechs are funny and cute :&rpar;](http://9gag.com/gag/a7o54Rx)
+ - 🚯 [Clown world](http://9gag.com/gag/a6ZwWr8)<!-- MEMES:END -->
 
 --- 
 
