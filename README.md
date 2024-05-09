@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX says most customers will get all their money back](https://www.theverge.com/2024/5/8/24151882/ftx-customers-repaid-bankruptcy-debt)
- - [Here are the carriers that get you a Google Pixel 8a free, or at least close to it](https://www.androidauthority.com/google-pixel-8a-free-3440662/)
- - [OnePlus keeps adding bloatware to the OnePlus 12 and OnePlus Open, its premium flagships](https://www.androidauthority.com/oneplus-12-oneplus-open-bloatware-premium-flagship-3440400/)<!-- TECH:END -->
+ - [SMIC reports Q1 revenue up 4.3% YoY to $1.75B, vs. $1.69B est., and a $71.8M net income, vs. $76.8M est., as consumer sentiment remains weak in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240509/p16#a240509p16)
+ - [ChatGPT’s upcoming Context Connector could be a boon for Google Drive and OneDrive users](https://www.androidauthority.com/chatgpt-upcoming-context-connector-feature-3441464/)
+ - [Asus Zenbook Duo &lpar;2024&rpar; Review: A Two-Screened Laptop That Nails It](https://www.wired.com/review/asus-zenbook-duo-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
