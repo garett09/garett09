@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crow Country review](https://www.pcgamer.com/games/horror/crow-country-review)
- - [The best indie games of 2024 so far](https://www.polygon.com/what-to-play/24151036/best-indie-games-2024)
- - [Crow Country: The Kotaku Review](https://kotaku.com/crow-country-indie-survival-horror-review-1851462202)<!-- GAME:END -->
+ - [Animal Well review](https://www.pcgamer.com/games/puzzle/animal-well-review)
+ - [How to defeat the seahorse boss in Animal Well and get the bubble wand](https://www.polygon.com/guides/24152284/seahorse-boss-how-to-beat-bubble-wand-how-to-get)
+ - [What are eggs for in Animal Well and how to unlock fast travel](https://www.polygon.com/guides/24151427/animal-well-eggs-peacock-fast-travel-animal-flute)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
