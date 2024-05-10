@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SMIC reports Q1 revenue up 4.3% YoY to $1.75B, vs. $1.69B est., and a $71.8M net income, vs. $76.8M est., as consumer sentiment remains weak in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240509/p16#a240509p16)
- - [ChatGPT’s upcoming Context Connector could be a boon for Google Drive and OneDrive users](https://www.androidauthority.com/chatgpt-upcoming-context-connector-feature-3441464/)
- - [Asus Zenbook Duo &lpar;2024&rpar; Review: A Two-Screened Laptop That Nails It](https://www.wired.com/review/asus-zenbook-duo-2024/)<!-- TECH:END -->
+ - [Google Messages’ text editing feature is live for beta users, and it could come to you soon](https://www.androidauthority.com/google-messages-text-editing-live-for-beta-users-3441824/)
+ - [The beginning and end of the iPad](https://www.theverge.com/2024/5/10/24153097/ipad-pro-2024-apple-max-disney-bundle-foxconn-vergecast)
+ - [The Pixel 8a is the best of the Google Pixel A series, and the worst of it](https://www.androidauthority.com/pixel-8a-best-worst-a-series-3440649/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
