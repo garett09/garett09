@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Well review](https://www.pcgamer.com/games/puzzle/animal-well-review)
- - [How to defeat the seahorse boss in Animal Well and get the bubble wand](https://www.polygon.com/guides/24152284/seahorse-boss-how-to-beat-bubble-wand-how-to-get)
- - [What are eggs for in Animal Well and how to unlock fast travel](https://www.polygon.com/guides/24151427/animal-well-eggs-peacock-fast-travel-animal-flute)<!-- GAME:END -->
+ - [How Senua’s Experience of Psychosis in Hellblade II is Rooted in Neuroscience and Lived Experience](https://news.xbox.com/en-us/2024/05/10/senuas-psychosis-hellblade-2-mental-health-feature/)
+ - [Illumineer’s Quest: Deep Trouble revealed — Disney Lorcana’s co-op and single-player modes are here](https://www.polygon.com/24153056/disney-lorcana-illumineers-quest-deep-trouble-co-op-solo-preview)
+ - [&#39;A number of threads retracted from the brain&#39; of Neuralink&#39;s first implant patient, but they say they&#39;re still &#39;beating my friends in games that as a quadriplegic I should not be beating them in&#39;](https://www.pcgamer.com/hardware/a-number-of-threads-retracted-from-the-brain-of-neuralinks-first-implant-patient-but-they-say-theyre-still-beating-my-friends-in-games-that-as-a-quadriplegic-i-should-not-be-beating-them-in)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
