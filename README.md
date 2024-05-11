@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages’ text editing feature is live for beta users, and it could come to you soon](https://www.androidauthority.com/google-messages-text-editing-live-for-beta-users-3441824/)
- - [The beginning and end of the iPad](https://www.theverge.com/2024/5/10/24153097/ipad-pro-2024-apple-max-disney-bundle-foxconn-vergecast)
- - [The Pixel 8a is the best of the Google Pixel A series, and the worst of it](https://www.androidauthority.com/pixel-8a-best-worst-a-series-3440649/)<!-- TECH:END -->
+ - [Beats Solo 4 Review: Minimal Features, Maximized Sound](https://www.wired.com/review/beats-solo-4/)
+ - [Android in the time of AI](https://www.theverge.com/2024/5/11/24152977/android-ai-google-io-2024-gemini)
+ - [The Garmin Lily 2 was the tracker I needed on vacation](https://www.theverge.com/24152258/garmin-lily-2-fitness-tracker-wearable-smartwatch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
