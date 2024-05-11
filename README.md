@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
- - 🚯 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
- - 🚯 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)<!-- MEMES:END -->
+ - 🚖 [I love happy endings](http://9gag.com/gag/aXPEbPd)
+ - 🚯 [I\u2019ll just leave you with this](http://9gag.com/gag/aNDom9v)
+ - 🚯 [Before taxes of course...](http://9gag.com/gag/abAq52B)<!-- MEMES:END -->
 
 --- 
 
