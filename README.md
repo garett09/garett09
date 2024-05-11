@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Senua’s Experience of Psychosis in Hellblade II is Rooted in Neuroscience and Lived Experience](https://news.xbox.com/en-us/2024/05/10/senuas-psychosis-hellblade-2-mental-health-feature/)
- - [Illumineer’s Quest: Deep Trouble revealed — Disney Lorcana’s co-op and single-player modes are here](https://www.polygon.com/24153056/disney-lorcana-illumineers-quest-deep-trouble-co-op-solo-preview)
- - [&#39;A number of threads retracted from the brain&#39; of Neuralink&#39;s first implant patient, but they say they&#39;re still &#39;beating my friends in games that as a quadriplegic I should not be beating them in&#39;](https://www.pcgamer.com/hardware/a-number-of-threads-retracted-from-the-brain-of-neuralinks-first-implant-patient-but-they-say-theyre-still-beating-my-friends-in-games-that-as-a-quadriplegic-i-should-not-be-beating-them-in)<!-- GAME:END -->
+ - [The best thrillers to watch on Netflix this May](https://www.polygon.com/what-to-watch/2024/5/11/24150253/best-thriller-movies-netflix-watch-may-2024)
+ - [Today&#39;s Wordle answer for Saturday, May 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-11-2024)
+ - [The RTS genre will never be mainstream unless you change it until it&#39;s &#39;no longer the kind of RTS that I want to play,&#39; says Crate Entertainment CEO](https://www.pcgamer.com/games/rts/crate-ceo-rts-genre-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
