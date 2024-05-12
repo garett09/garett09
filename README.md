@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I love happy endings](http://9gag.com/gag/aXPEbPd)
- - 🚯 [I\u2019ll just leave you with this](http://9gag.com/gag/aNDom9v)
- - 🚯 [Before taxes of course...](http://9gag.com/gag/abAq52B)<!-- MEMES:END -->
+ - 🚖 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 🚯 [Planted evidence](http://9gag.com/gag/azxLjwZ)
+ - 🚯 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)<!-- MEMES:END -->
 
 --- 
 
