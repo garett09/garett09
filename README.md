@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers to watch on Netflix this May](https://www.polygon.com/what-to-watch/2024/5/11/24150253/best-thriller-movies-netflix-watch-may-2024)
- - [Today&#39;s Wordle answer for Saturday, May 11](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-11-2024)
- - [The RTS genre will never be mainstream unless you change it until it&#39;s &#39;no longer the kind of RTS that I want to play,&#39; says Crate Entertainment CEO](https://www.pcgamer.com/games/rts/crate-ceo-rts-genre-interview)<!-- GAME:END -->
+ - [The latest Vampire Survivors release is a straight-up crossover with Contra](https://www.pcgamer.com/games/the-latest-vampire-survivors-release-is-a-straight-up-crossover-with-contra)
+ - [YouTuber spots something unusual about Skyrim&#39;s river flow, modder gets on it immediately](https://www.pcgamer.com/games/rpg/youtuber-spots-something-unusual-about-skyrims-river-flow-modder-gets-on-it-immediately)
+ - [Today&#39;s Wordle answer for Sunday, May 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-12-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
