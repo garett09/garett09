@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats Solo 4 Review: Minimal Features, Maximized Sound](https://www.wired.com/review/beats-solo-4/)
- - [Android in the time of AI](https://www.theverge.com/2024/5/11/24152977/android-ai-google-io-2024-gemini)
- - [The Garmin Lily 2 was the tracker I needed on vacation](https://www.theverge.com/24152258/garmin-lily-2-fitness-tracker-wearable-smartwatch)<!-- TECH:END -->
+ - [Reading Has Hurt Me for Years. With a Tablet Holder, It Doesn&#39;t](https://www.wired.com/story/lamicall-kindle-holder-rave/)
+ - [Crime blotter: UPS catches Apple product thieves in sting](https://appleinsider.com/articles/24/05/12/crime-blotter-ups-catches-apple-product-thieves-in-sting?utm_medium=rss)
+ - [21 Grilling Tools That Are Worth the Money     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-grill-tools-to-buy-for-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
