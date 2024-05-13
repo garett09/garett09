@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The latest Vampire Survivors release is a straight-up crossover with Contra](https://www.pcgamer.com/games/the-latest-vampire-survivors-release-is-a-straight-up-crossover-with-contra)
- - [YouTuber spots something unusual about Skyrim&#39;s river flow, modder gets on it immediately](https://www.pcgamer.com/games/rpg/youtuber-spots-something-unusual-about-skyrims-river-flow-modder-gets-on-it-immediately)
- - [Today&#39;s Wordle answer for Sunday, May 12](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-12-2024)<!-- GAME:END -->
+ - [Final Fantasy Maker Promises &#39;Quality Over Quantity&#39; And Fewer Exclusives In Major Strategy Reboot](https://kotaku.com/square-enix-business-plan-multiplatform-1851472456)
+ - [PSA: You don&#39;t need servant coffins to upgrade your castle heart in V Rising](https://www.pcgamer.com/games/survival-crafting/v-rising-servant-coffin)
+ - [Helldivers 2 director says new de-listings are an &#39;administrative error correction&#39; by Valve on Sony&#39;s orders, but &#39;we still want the game to be available everywhere&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-director-says-new-de-listings-are-an-administrative-error-correction-by-valve-on-sonys-orders-but-we-still-want-the-game-to-be-available-everywhere)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
