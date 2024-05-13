@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 🚯 [Planted evidence](http://9gag.com/gag/azxLjwZ)
- - 🚯 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)<!-- MEMES:END -->
+ - 🚖 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
+ - 🚯 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)
+ - 🚯 [One reload for the cost of three](http://9gag.com/gag/aAyVPDE)<!-- MEMES:END -->
 
 --- 
 
