@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reading Has Hurt Me for Years. With a Tablet Holder, It Doesn&#39;t](https://www.wired.com/story/lamicall-kindle-holder-rave/)
- - [Crime blotter: UPS catches Apple product thieves in sting](https://appleinsider.com/articles/24/05/12/crime-blotter-ups-catches-apple-product-thieves-in-sting?utm_medium=rss)
- - [21 Grilling Tools That Are Worth the Money     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-grill-tools-to-buy-for-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Unity game development on Arm and why it is important](https://www.androidauthority.com/unity-game-development-on-arm-3426518/)
+ - [Leaked Moto Razr Plus 2024 specs point to a camera upgrade at the same price](https://www.androidauthority.com/leaked-moto-razr-plus-2024-specs-3442335/)
+ - [Yamaha NS-600A Review: Tonally Bright, Viscerally Moving](https://www.wired.com/review/yamaha-ns-600a/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
