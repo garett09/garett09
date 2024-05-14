@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Maker Promises &#39;Quality Over Quantity&#39; And Fewer Exclusives In Major Strategy Reboot](https://kotaku.com/square-enix-business-plan-multiplatform-1851472456)
- - [PSA: You don&#39;t need servant coffins to upgrade your castle heart in V Rising](https://www.pcgamer.com/games/survival-crafting/v-rising-servant-coffin)
- - [Helldivers 2 director says new de-listings are an &#39;administrative error correction&#39; by Valve on Sony&#39;s orders, but &#39;we still want the game to be available everywhere&#39;](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-director-says-new-de-listings-are-an-administrative-error-correction-by-valve-on-sonys-orders-but-we-still-want-the-game-to-be-available-everywhere)<!-- GAME:END -->
+ - [OpenAI unveils GPT-4o with a video of a man making small talk with his phone and I cannot pretend it&#39;s not really weird](https://www.pcgamer.com/software/ai/openai-unveils-gpt-4o-with-a-video-of-a-man-making-small-talk-with-his-phone-and-i-cannot-pretend-its-not-really-weird)
+ - [XCOM designer Jake Solomon is done with turn-based strategy and is now making a life sim inspired by the small town drama of Gilmore Girls](https://www.pcgamer.com/games/life-sim/xcom-designer-jake-solomon-is-done-with-turn-based-strategy-and-is-now-making-a-life-sim-inspired-by-the-small-town-drama-of-gilmore-girls)
+ - [Coming to Game Pass: Senua’s Saga: Hellblade II, Immortals of Aveum, Lords of the Fallen, and More](https://news.xbox.com/en-us/2024/05/14/xbox-game-pass-may-2024-wave-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
