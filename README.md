@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
- - 🚯 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)
- - 🚯 [One reload for the cost of three](http://9gag.com/gag/aAyVPDE)<!-- MEMES:END -->
+ - 🚖 [I dont know but this is intense](http://9gag.com/gag/ayNpBey)
+ - 🚯 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - 🚯 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)<!-- MEMES:END -->
 
 --- 
 
