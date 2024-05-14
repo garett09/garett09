@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity game development on Arm and why it is important](https://www.androidauthority.com/unity-game-development-on-arm-3426518/)
- - [Leaked Moto Razr Plus 2024 specs point to a camera upgrade at the same price](https://www.androidauthority.com/leaked-moto-razr-plus-2024-specs-3442335/)
- - [Yamaha NS-600A Review: Tonally Bright, Viscerally Moving](https://www.wired.com/review/yamaha-ns-600a/)<!-- TECH:END -->
+ - [Samsung has caught up to Apple for smartphone customer satisfaction, while Google slides down](https://www.androidauthority.com/acsi-2023-2024-results-3443155/)
+ - [Movano Evie Ring Review: Running Out of Time](https://www.wired.com/review/movano-evie-ring/)
+ - [T-Mobile’s new ‘Flex’ plans bring phone upgrades to prepaid subscribers](https://www.theverge.com/2024/5/14/24156256/metro-t-mobile-flex-pre-paid-plans)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
