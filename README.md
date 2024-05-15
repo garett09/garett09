@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I dont know but this is intense](http://9gag.com/gag/ayNpBey)
- - 🚯 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - 🚯 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)<!-- MEMES:END -->
+ - 🚖 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
+ - 🚯 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 🚯 [Final destination vibes](http://9gag.com/gag/a5QNMdO)<!-- MEMES:END -->
 
 --- 
 
