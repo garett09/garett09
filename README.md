@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has caught up to Apple for smartphone customer satisfaction, while Google slides down](https://www.androidauthority.com/acsi-2023-2024-results-3443155/)
- - [Movano Evie Ring Review: Running Out of Time](https://www.wired.com/review/movano-evie-ring/)
- - [T-Mobile’s new ‘Flex’ plans bring phone upgrades to prepaid subscribers](https://www.theverge.com/2024/5/14/24156256/metro-t-mobile-flex-pre-paid-plans)<!-- TECH:END -->
+ - [Social media users are blocking celebs to support Palestine](https://www.theverge.com/2024/5/15/24156496/gaza-palestine-israel-tiktok-instagram-blockout-social-media)
+ - [Amazon made its debut pitch at the Upfronts annual ad sales event on May 14, competing with major media networks and highlighting its push beyond digital ads &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240515/p25#a240515p25)
+ - [Sources: Neuralink&#39;s disclosure last week that tiny wires inside its first patient&#39;s brain had pulled out of position is an issue it has known about for years &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240515/p24#a240515p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
