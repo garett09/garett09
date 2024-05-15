@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI unveils GPT-4o with a video of a man making small talk with his phone and I cannot pretend it&#39;s not really weird](https://www.pcgamer.com/software/ai/openai-unveils-gpt-4o-with-a-video-of-a-man-making-small-talk-with-his-phone-and-i-cannot-pretend-its-not-really-weird)
- - [XCOM designer Jake Solomon is done with turn-based strategy and is now making a life sim inspired by the small town drama of Gilmore Girls](https://www.pcgamer.com/games/life-sim/xcom-designer-jake-solomon-is-done-with-turn-based-strategy-and-is-now-making-a-life-sim-inspired-by-the-small-town-drama-of-gilmore-girls)
- - [Coming to Game Pass: Senua’s Saga: Hellblade II, Immortals of Aveum, Lords of the Fallen, and More](https://news.xbox.com/en-us/2024/05/14/xbox-game-pass-may-2024-wave-2/)<!-- GAME:END -->
+ - [Men of War 2 review](https://www.pcgamer.com/games/rts/men-of-war-2-review)
+ - [LG wants to roast your retinas with its new 10,000-nit OLED panels for VR headsets](https://www.pcgamer.com/hardware/gaming-monitors/lg-wants-to-roast-your-retinas-with-its-new-10000-nit-oled-panels-for-vr-headsets)
+ - [How Ninja Theory Strives to Make Senua the Most Human Character in Gaming](https://news.xbox.com/en-us/2024/05/15/hellblade-2-senua-most-human-character-in-gaming/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
