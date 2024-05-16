@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Men of War 2 review](https://www.pcgamer.com/games/rts/men-of-war-2-review)
- - [LG wants to roast your retinas with its new 10,000-nit OLED panels for VR headsets](https://www.pcgamer.com/hardware/gaming-monitors/lg-wants-to-roast-your-retinas-with-its-new-10000-nit-oled-panels-for-vr-headsets)
- - [How Ninja Theory Strives to Make Senua the Most Human Character in Gaming](https://news.xbox.com/en-us/2024/05/15/hellblade-2-senua-most-human-character-in-gaming/)<!-- GAME:END -->
+ - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
+ - [Aurum and Xbox Forge An Icelandic-inspired Hellblade II Jewelry Collection](https://news.xbox.com/en-us/2024/05/16/aurum-and-xbox-forge-icelandic-inspired-hellblade-2-jewelry-collection/)
+ - [The new collectible Dungeons &amp; Dragons Player’s Handbook cover, revealed](https://www.polygon.com/24156680/dnd-dunegons-dragons-alt-art-phb-reveal-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
