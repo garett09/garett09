@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
- - 🚯 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 🚯 [Final destination vibes](http://9gag.com/gag/a5QNMdO)<!-- MEMES:END -->
+ - 🚖 [Charlie you son of a](http://9gag.com/gag/a9yM1x0)
+ - 🚯 [*autistic screeching intensifies*](http://9gag.com/gag/a34d1Me)
+ - 🚯 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)<!-- MEMES:END -->
 
 --- 
 
