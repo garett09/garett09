@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social media users are blocking celebs to support Palestine](https://www.theverge.com/2024/5/15/24156496/gaza-palestine-israel-tiktok-instagram-blockout-social-media)
- - [Amazon made its debut pitch at the Upfronts annual ad sales event on May 14, competing with major media networks and highlighting its push beyond digital ads &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240515/p25#a240515p25)
- - [Sources: Neuralink&#39;s disclosure last week that tiny wires inside its first patient&#39;s brain had pulled out of position is an issue it has known about for years &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240515/p24#a240515p24)<!-- TECH:END -->
+ - [AT&amp;T plans satellite voice calls and broadband for 5G iPhones](https://appleinsider.com/articles/24/05/16/att-plans-satellite-voice-calls-and-broadband-for-5g-iphones?utm_medium=rss)
+ - [Android 15 Beta 2 brings a revamped, collapsible volume panel](https://www.androidauthority.com/android-15-beta-2-revamped-collapsible-volume-panel-3443996/)
+ - [SVS Ultra Evolution Review: Clean Looks, Refined Sound](https://www.wired.com/review/svs-ultra-evolution-bookshelf/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
