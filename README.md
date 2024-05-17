@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Charlie you son of a](http://9gag.com/gag/a9yM1x0)
- - 🚯 [*autistic screeching intensifies*](http://9gag.com/gag/a34d1Me)
- - 🚯 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)<!-- MEMES:END -->
+ - 🚖 [I wanna see the aftermath](http://9gag.com/gag/aD2w2QB)
+ - 🚯 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
+ - 🚯 [White knights to the rescue!](http://9gag.com/gag/abAq1gv)<!-- MEMES:END -->
 
 --- 
 
