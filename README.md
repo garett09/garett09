@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 25 best PlayStation 5 games](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5)
- - [Aurum and Xbox Forge An Icelandic-inspired Hellblade II Jewelry Collection](https://news.xbox.com/en-us/2024/05/16/aurum-and-xbox-forge-icelandic-inspired-hellblade-2-jewelry-collection/)
- - [The new collectible Dungeons &amp; Dragons Player’s Handbook cover, revealed](https://www.polygon.com/24156680/dnd-dunegons-dragons-alt-art-phb-reveal-release-date-price)<!-- GAME:END -->
+ - [How Afterlove EP survived after its creative director’s devastating death](https://www.polygon.com/gaming/24158466/afterlove-ep-fahmi-memory-pikselnesia)
+ - [How to complete Strongarm Tactics in WoW Remix](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-remix-strongarm-tactics)
+ - [So far the Manor Lords modding scene is focussed on the essentials: free beer, bigger punch-ups, and letting you walk around as Geralt](https://www.pcgamer.com/games/city-builder/so-far-the-manor-lords-modding-scene-is-focussed-on-the-essentials-free-beer-bigger-punch-ups-and-letting-you-walk-around-as-geralt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
