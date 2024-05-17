@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T plans satellite voice calls and broadband for 5G iPhones](https://appleinsider.com/articles/24/05/16/att-plans-satellite-voice-calls-and-broadband-for-5g-iphones?utm_medium=rss)
- - [Android 15 Beta 2 brings a revamped, collapsible volume panel](https://www.androidauthority.com/android-15-beta-2-revamped-collapsible-volume-panel-3443996/)
- - [SVS Ultra Evolution Review: Clean Looks, Refined Sound](https://www.wired.com/review/svs-ultra-evolution-bookshelf/)<!-- TECH:END -->
+ - [Best deal of 2024 on the Shark AI Ultra Robot vacuum &lpar;45% off&rpar;](https://www.androidauthority.com/deal-shark-ai-ultra-robot-vacuum-3444203/)
+ - [AI assistants are so back](https://www.theverge.com/2024/5/17/24158505/ai-assistant-openai-chatgpt-google-gemini-vergecast)
+ - [It’s Time to Believe the AI Hype](https://www.wired.com/story/its-time-to-believe-the-ai-hype/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
