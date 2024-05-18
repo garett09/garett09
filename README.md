@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Afterlove EP survived after its creative director’s devastating death](https://www.polygon.com/gaming/24158466/afterlove-ep-fahmi-memory-pikselnesia)
- - [How to complete Strongarm Tactics in WoW Remix](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-remix-strongarm-tactics)
- - [So far the Manor Lords modding scene is focussed on the essentials: free beer, bigger punch-ups, and letting you walk around as Geralt](https://www.pcgamer.com/games/city-builder/so-far-the-manor-lords-modding-scene-is-focussed-on-the-essentials-free-beer-bigger-punch-ups-and-letting-you-walk-around-as-geralt)<!-- GAME:END -->
+ - [The best sci-fi movies to watch on Netflix this May](https://www.polygon.com/what-to-watch/2024/5/18/24155689/best-sci-fi-movies-watch-netflix-may-2024)
+ - [Diablo 4 Is Great Now, Final Fantasy 14 Changes Are Worrying, And More Of This Week&#39;s Hot Takes](https://kotaku.com/diablo-4-is-great-now-final-fantasy-14-changes-are-wor-1851484870)
+ - [Today&#39;s Wordle answer for Saturday, May 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-18-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
