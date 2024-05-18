@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wanna see the aftermath](http://9gag.com/gag/aD2w2QB)
- - 🚯 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
- - 🚯 [White knights to the rescue!](http://9gag.com/gag/abAq1gv)<!-- MEMES:END -->
+ - 🚖 [He ducked a bullet.](http://9gag.com/gag/aD2wZGN)
+ - 🚯 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 🚯 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)<!-- MEMES:END -->
 
 --- 
 
