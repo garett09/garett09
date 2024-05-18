@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deal of 2024 on the Shark AI Ultra Robot vacuum &lpar;45% off&rpar;](https://www.androidauthority.com/deal-shark-ai-ultra-robot-vacuum-3444203/)
- - [AI assistants are so back](https://www.theverge.com/2024/5/17/24158505/ai-assistant-openai-chatgpt-google-gemini-vergecast)
- - [It’s Time to Believe the AI Hype](https://www.wired.com/story/its-time-to-believe-the-ai-hype/)<!-- TECH:END -->
+ - [Exclusive: Google Pixel 9 wallpapers and colors leaked, download them here](https://www.androidauthority.com/google-pixel-9-wallpapers-3444413/)
+ - [Logitech Casa Pop-Up Desk Review: A Cute Portable Workstation](https://www.wired.com/review/logitech-casa-pop-up-desk/)
+ - [Sugar’s big twist was more than a gimmick](https://www.theverge.com/24158879/sugar-apple-tv-plus-finale-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
