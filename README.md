@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exclusive: Google Pixel 9 wallpapers and colors leaked, download them here](https://www.androidauthority.com/google-pixel-9-wallpapers-3444413/)
- - [Logitech Casa Pop-Up Desk Review: A Cute Portable Workstation](https://www.wired.com/review/logitech-casa-pop-up-desk/)
- - [Sugar’s big twist was more than a gimmick](https://www.theverge.com/24158879/sugar-apple-tv-plus-finale-review)<!-- TECH:END -->
+ - [Mac Pro and Mac Studio refreshes may wait till 2025](https://appleinsider.com/articles/24/05/19/mac-pro-and-mac-studio-refreshes-may-wait-till-2025?utm_medium=rss)
+ - [The five-year journey to make an adventure game out of ink and paper](https://www.theverge.com/24155754/the-collage-atlas-interview-steam-hand-drawn)
+ - [13 Best Office Chairs &lpar;2024&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
