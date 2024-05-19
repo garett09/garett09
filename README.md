@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies to watch on Netflix this May](https://www.polygon.com/what-to-watch/2024/5/18/24155689/best-sci-fi-movies-watch-netflix-may-2024)
- - [Diablo 4 Is Great Now, Final Fantasy 14 Changes Are Worrying, And More Of This Week&#39;s Hot Takes](https://kotaku.com/diablo-4-is-great-now-final-fantasy-14-changes-are-wor-1851484870)
- - [Today&#39;s Wordle answer for Saturday, May 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-18-2024)<!-- GAME:END -->
+ - [The makers of Shogun, Wheel of Time, BSG, and more sound off on Game of Thrones’ true legacy](https://www.polygon.com/game-of-thrones/24157742/game-thrones-finale-anniversary-next-show-like)
+ - [The Last Of Us Season 2 Pics, Fallout Player Nukes Phil Spencer, And More News](https://kotaku.com/the-last-of-us-season-2-pics-fallout-player-nukes-phil-1851484868)
+ - [What time does Hellblade 2 release?](https://www.polygon.com/guides/24159102/hellblade-2-senuas-saga-release-time-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
