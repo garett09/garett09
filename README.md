@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac Pro and Mac Studio refreshes may wait till 2025](https://appleinsider.com/articles/24/05/19/mac-pro-and-mac-studio-refreshes-may-wait-till-2025?utm_medium=rss)
- - [The five-year journey to make an adventure game out of ink and paper](https://www.theverge.com/24155754/the-collage-atlas-interview-steam-hand-drawn)
- - [13 Best Office Chairs &lpar;2024&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
+ - [WikiLeaks&#39; Julian Assange Can Appeal His Extradition to the US, British Court Says](https://www.wired.com/story/julian-assange-court-hearing-appeal-extradition/)
+ - [Meta and LG’s headset partnership is on the rocks](https://www.theverge.com/2024/5/20/24160644/lg-meta-xr-vr-headset-partnership-paused-rumors)
+ - [PE firm EQT is in advanced talks to buy video game services company Keywords Studios for &amp;pound;2.2B, or &amp;pound;25.5 per share, a 70%+ premium on Friday&#39;s close &lpar;Financial Times&rpar;](http://www.techmeme.com/240520/p8#a240520p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
