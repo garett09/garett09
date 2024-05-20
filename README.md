@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)
- - 🚯 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
- - 🚯 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)<!-- MEMES:END -->
+ - 🚖 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 🚯 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 🚯 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)<!-- MEMES:END -->
 
 --- 
 
