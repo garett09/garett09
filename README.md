@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Taskmaster VR game is out in a few weeks, and Little Alex Horne is resigned to what his avatar can expect from you sickos: &#39;They will definitely do things to me&#39;](https://www.pcgamer.com/games/vr/the-taskmaster-vr-game-is-out-in-a-few-weeks-and-little-alex-horne-is-resigned-to-what-his-avatar-can-expect-from-you-sickos-they-will-definitely-do-things-to-me)
- - [Video game movies keep relying on the wrong kind of violence](https://www.polygon.com/24158527/video-game-movies-violence-boy-kills-world)
- - [AMD Zen 6 could deliver a full 32-core chiplet, with Zen 5c reportedly set to offer its own 16-core CCX](https://www.pcgamer.com/hardware/processors/amd-zen-6-could-deliver-a-full-32-core-chiplet-with-zen-5c-reportedly-set-to-offer-its-own-16-core-ccx)<!-- GAME:END -->
+ - [Pokémon’s coveted Japanese plush line is finally coming to the US](https://www.polygon.com/pokemon/24161063/pokemon-soda-pop-plush-collection-where-to-buy)
+ - [Paper Mario: The Thousand-Year Door will make you mad Mario isn’t this weird anymore](https://www.polygon.com/24159333/paper-mario-the-thousand-year-door-remake-nintendo-switch)
+ - [The 10 Best X-Men Games Of All Time](https://kotaku.com/best-x-men-games-mutant-academy-legends-wolverine-1851489208)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
