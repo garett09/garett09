@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 🚯 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 🚯 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)<!-- MEMES:END -->
+ - 🚖 [It&#39;s in black and white](http://9gag.com/gag/avyZmDO)
+ - 🚯 [How to spot an alien imposter](http://9gag.com/gag/aAyVv7d)
+ - 🚯 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)<!-- MEMES:END -->
 
 --- 
 
