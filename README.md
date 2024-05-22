@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s in black and white](http://9gag.com/gag/avyZmDO)
- - 🚯 [How to spot an alien imposter](http://9gag.com/gag/aAyVv7d)
- - 🚯 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)<!-- MEMES:END -->
+ - 🚖 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
+ - 🚯 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - 🚯 [Not everyone can do this](http://9gag.com/gag/aE0GQ3e)<!-- MEMES:END -->
 
 --- 
 
