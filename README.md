@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is in its AI PC era](https://www.theverge.com/24161498/microsoft-surface-pro-laptop-gpt-4o-voice-macbook-vergecast)
- - [Adobe adds generative AI tools to Lightroom, including Firefly-powered Generative Remove to let users &quot;paint&quot; over unwanted objects, available in early access &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240521/p18#a240521p18)
- - [Hands on with the new Sonos Ace headphones](https://appleinsider.com/articles/24/05/21/hands-on-with-the-new-sonos-ace-headphones?utm_medium=rss)<!-- TECH:END -->
+ - [Uh oh: T-Mobile price hikes are incoming](https://www.androidauthority.com/t-mobile-price-increase-older-plans-3445515/)
+ - [Cologne-based AI translation startup DeepL, which develops its own models, raised $300M led by Index Ventures at a $2B valuation and reports 100K+ customers &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240522/p13#a240522p13)
+ - [The Low-Paid Humans Behind AI’s Smarts Ask Biden to Free Them From ‘Modern Day Slavery’](https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
