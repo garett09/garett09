@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed Shadows isn&#39;t even out for 6 months, but Ghost of Tsushima ate its lunch 4 years ago and the superb PC Director&#39;s Cut rubs salt in the wound](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-isnt-even-out-for-6-months-but-ghost-of-tsushima-ate-its-lunch-4-years-ago-and-the-superb-pc-directors-cut-rubs-salt-in-the-wound)
- - [Senua’s Saga: Hellblade II – Our Full Four-Part Feature Series](https://news.xbox.com/en-us/2024/05/22/senuas-saga-hellblade-ii-our-full-four-part-feature-series/)
- - [Where to find the Earthen Ring quartermaster in WoW Cataclysm](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-cataclysm-earthen-ring-quartermaster)<!-- GAME:END -->
+ - [Watching this explosive 5-minute video of Crysis Remastered is a great reminder of how much PC gaming needs Crysis 4](https://www.pcgamer.com/games/action/watching-this-explosive-5-minute-video-of-crysis-remastered-is-a-great-reminder-of-how-much-pc-gaming-needs-crysis-4)
+ - [The follow-up to cozy detective game Strange Horticulture is called Strange Antiquities, and this time you&#39;ll run an occult artifact shop](https://www.pcgamer.com/games/puzzle/the-follow-up-to-cozy-detective-game-strange-horticulture-is-called-strange-antiquities-and-this-time-youll-run-an-occult-artifact-shop)
+ - [I didn&#39;t have high hopes for the MultiVersus relaunch but brand-new PvE missions and a silly banana guy with a spear are changing my mind](https://www.pcgamer.com/games/fighting/i-didnt-have-high-hopes-for-the-multiversus-relaunch-but-brand-new-pve-missions-and-a-silly-banana-guy-with-a-spear-are-changing-my-mind)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
