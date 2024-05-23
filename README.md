@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
- - 🚯 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 🚯 [Not everyone can do this](http://9gag.com/gag/aE0GQ3e)<!-- MEMES:END -->
+ - 🚖 [Gotta save em all](http://9gag.com/gag/aqyZOyY)
+ - 🚯 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 🚯 [Reasonable fear](http://9gag.com/gag/a9yMevm)<!-- MEMES:END -->
 
 --- 
 
