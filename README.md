@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixelmator Pro revamps image editing with AI masking tools](https://appleinsider.com/articles/24/05/23/pixelmator-pro-revamps-image-editing-with-ai-masking-tools?utm_medium=rss)
- - [5 Best Cooling Mattresses &lpar;2024&rpar;: Hybrid, Soft, Foam, and for Couples](https://www.wired.com/gallery/best-cooling-mattresses/)
- - [Leica’s fresh D-Lux 8 makes it to the trendy point-and-shoot party](https://www.theverge.com/2024/5/23/24162722/leica-d-lux-8-point-and-shoot-camera-price-release-date)<!-- TECH:END -->
+ - [The dog from the doge meme has died](https://www.theverge.com/2024/5/24/24163865/doge-meme-shiba-inu-kabosu-dead-crypto)
+ - [13 Best Electric Kettles &lpar;2024&rpar;: Gooseneck, Temperature Control, Cheap](https://www.wired.com/gallery/best-electric-kettles/)
+ - [ChatGPT has a Scarlett Johansson problem](https://www.theverge.com/2024/5/24/24163869/chatgpt-scarlett-johansson-microsoft-build-surface-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
