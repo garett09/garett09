@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta save em all](http://9gag.com/gag/aqyZOyY)
- - 🚯 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 🚯 [Reasonable fear](http://9gag.com/gag/a9yMevm)<!-- MEMES:END -->
+ - 🚖 [In the 1800s, Scottish surgeon Robert Liston became infamous for a surgery that led to an astonishing 300% mortality rate.](http://9gag.com/gag/aXPE1Nd)
+ - 🚯 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 🚯 [Wild &lpar;Would&rpar;](http://9gag.com/gag/aPAybvP)<!-- MEMES:END -->
 
 --- 
 
