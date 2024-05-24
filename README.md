@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watching this explosive 5-minute video of Crysis Remastered is a great reminder of how much PC gaming needs Crysis 4](https://www.pcgamer.com/games/action/watching-this-explosive-5-minute-video-of-crysis-remastered-is-a-great-reminder-of-how-much-pc-gaming-needs-crysis-4)
- - [The follow-up to cozy detective game Strange Horticulture is called Strange Antiquities, and this time you&#39;ll run an occult artifact shop](https://www.pcgamer.com/games/puzzle/the-follow-up-to-cozy-detective-game-strange-horticulture-is-called-strange-antiquities-and-this-time-youll-run-an-occult-artifact-shop)
- - [I didn&#39;t have high hopes for the MultiVersus relaunch but brand-new PvE missions and a silly banana guy with a spear are changing my mind](https://www.pcgamer.com/games/fighting/i-didnt-have-high-hopes-for-the-multiversus-relaunch-but-brand-new-pve-missions-and-a-silly-banana-guy-with-a-spear-are-changing-my-mind)<!-- GAME:END -->
+ - [OneXPlayer X1 review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/onexplayer-x1-review)
+ - [In Hellblade 2, the biggest challenge Senua faces is other people](https://www.polygon.com/24161457/hellblade-2-psychosis-psychologist-interview)
+ - [As the Sims 4 continues to buckle under the weight of over $1,200 worth of DLC, EA has &#39;assembled a team&#39; to focus on bug fixes](https://www.pcgamer.com/games/the-sims/as-the-sims-4-continues-to-buckle-under-the-weight-over-dollar1200-worth-of-dlc-ea-has-assembled-a-team-to-focus-on-bug-fixes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
