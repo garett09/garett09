@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The dog from the doge meme has died](https://www.theverge.com/2024/5/24/24163865/doge-meme-shiba-inu-kabosu-dead-crypto)
- - [13 Best Electric Kettles &lpar;2024&rpar;: Gooseneck, Temperature Control, Cheap](https://www.wired.com/gallery/best-electric-kettles/)
- - [ChatGPT has a Scarlett Johansson problem](https://www.theverge.com/2024/5/24/24163869/chatgpt-scarlett-johansson-microsoft-build-surface-vergecast)<!-- TECH:END -->
+ - [Your Bike Tires Are Too Skinny. Riding on Fat, Supple Tires Is Just Better](https://www.wired.com/story/fat-bike-tires-are-better-than-skinny-bike-tires/)
+ - [I hated Animal Well until I beat the game](https://www.theverge.com/24162572/animal-well-platforming-difficulty-bigmode)
+ - [What Is Lyocell Fabric, and Is It Eco-Friendly?](https://www.wired.com/story/what-is-lyocell-fabric/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
