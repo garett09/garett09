@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OneXPlayer X1 review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/onexplayer-x1-review)
- - [In Hellblade 2, the biggest challenge Senua faces is other people](https://www.polygon.com/24161457/hellblade-2-psychosis-psychologist-interview)
- - [As the Sims 4 continues to buckle under the weight of over $1,200 worth of DLC, EA has &#39;assembled a team&#39; to focus on bug fixes](https://www.pcgamer.com/games/the-sims/as-the-sims-4-continues-to-buckle-under-the-weight-over-dollar1200-worth-of-dlc-ea-has-assembled-a-team-to-focus-on-bug-fixes)<!-- GAME:END -->
+ - [The best movies leaving streaming at the end of May](https://www.polygon.com/what-to-watch/2024/5/25/24160753/best-movies-netflix-amazon-hulu-leaving-may-2024)
+ - [GTA 6 Price Predictions, Hades 2 Impressions, And More Hot Takes](https://kotaku.com/gta-6-price-predictions-hades-2-impressions-and-more-1851499572)
+ - [Neil Druckmann Sets The Record Straight On What He Actually Said About Naughty Dog&#39;s Next Game](https://kotaku.com/last-us-2-neil-druckmann-naughty-dog-sony-sequel-tlou3-1851500885)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
