@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Bike Tires Are Too Skinny. Riding on Fat, Supple Tires Is Just Better](https://www.wired.com/story/fat-bike-tires-are-better-than-skinny-bike-tires/)
- - [I hated Animal Well until I beat the game](https://www.theverge.com/24162572/animal-well-platforming-difficulty-bigmode)
- - [What Is Lyocell Fabric, and Is It Eco-Friendly?](https://www.wired.com/story/what-is-lyocell-fabric/)<!-- TECH:END -->
+ - [Google Pixel 8a battery life and charging speeds tested: Is it good enough?](https://www.androidauthority.com/google-pixel-8a-battery-life-charging-3446231/)
+ - [Spotify Tips for People Who Like to Listen to Whole Albums](https://www.wired.com/story/how-to-get-spotify-to-play-whole-albums/)
+ - [How Shein and Temu, which are spending billions on digital ads and offering steep discounts or free products, have become big threats to Amazon in the US &lpar;Louise Matsakis/Big Technology&rpar;](http://www.techmeme.com/240526/p6#a240526p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
