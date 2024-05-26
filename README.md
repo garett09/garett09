@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 🚯 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
- - 🚯 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)<!-- MEMES:END -->
+ - 🚖 [FedEx breaks \u2248$14,000 bottle of medicine for the second time.](http://9gag.com/gag/ajP6pQ0)
+ - 🚯 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
+ - 🚯 [Hol up](http://9gag.com/gag/a0eP2Ez)<!-- MEMES:END -->
 
 --- 
 
