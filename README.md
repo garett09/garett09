@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mobile games should stop reminding me how annoying my phone is](https://www.polygon.com/24158514/mobile-games-ui-guildlings-honkai-star-rail)
- - [Today&#39;s Wordle answer for Sunday, May 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-may-26-2024)
- - [Great moments in PC gaming: That time Valve released three new games on the same day](https://www.pcgamer.com/games/fps/great-moments-in-pc-gaming-that-time-valve-released-three-new-games-on-the-same-day)<!-- GAME:END -->
+ - [Polygon’s most anticipated, least expected, 2024 summer preview](https://www.polygon.com/24164232/summer-2024-entertainment-preview)
+ - [Can Lev Grossman do for King Arthur what he did for Harry Potter?](https://www.polygon.com/24164083/lev-grossman-the-bright-sword-the-magicians)
+ - [The most anticipated TV shows of summer 2024](https://www.polygon.com/24164051/best-new-tv-summer-2024-release-calendar-schedule-shows-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
