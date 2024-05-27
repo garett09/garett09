@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [FedEx breaks \u2248$14,000 bottle of medicine for the second time.](http://9gag.com/gag/ajP6pQ0)
- - 🚯 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
+ - 🚖 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
+ - 🚯 [UK to force teens to spend a year in the military](http://9gag.com/gag/avyZbqb)
  - 🚯 [Hol up](http://9gag.com/gag/a0eP2Ez)<!-- MEMES:END -->
 
 --- 
