@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8a battery life and charging speeds tested: Is it good enough?](https://www.androidauthority.com/google-pixel-8a-battery-life-charging-3446231/)
- - [Spotify Tips for People Who Like to Listen to Whole Albums](https://www.wired.com/story/how-to-get-spotify-to-play-whole-albums/)
- - [How Shein and Temu, which are spending billions on digital ads and offering steep discounts or free products, have become big threats to Amazon in the US &lpar;Louise Matsakis/Big Technology&rpar;](http://www.techmeme.com/240526/p6#a240526p6)<!-- TECH:END -->
+ - [Unhappy With a Service You’ve Been Paying For? It Might Be Time for a Breakup](https://www.wired.com/story/how-to-break-up-with-professional-service-providers/)
+ - [Google is playing whack-a-mole with disastrous AI Overviews gone viral](https://www.androidauthority.com/google-remove-ai-overviews-3446363/)
+ - [AI computer showdown - MacBook Air vs. Microsoft Surface Laptop Copilot+ PC](https://appleinsider.com/articles/24/05/27/ai-computer-showdown---macbook-air-vs-microsoft-surface-laptop-copilot-pc?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
