@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
- - 🚯 [UK to force teens to spend a year in the military](http://9gag.com/gag/avyZbqb)
- - 🚯 [Hol up](http://9gag.com/gag/a0eP2Ez)<!-- MEMES:END -->
+ - 🚖 [Listen to an actually educated person](http://9gag.com/gag/aLnPK7g)
+ - 🚯 [Walt knew what he was up against and he made the best choice, lmao.](http://9gag.com/gag/aoy0EVw)
+ - 🚯 [Love you long time](http://9gag.com/gag/aoy00K0)<!-- MEMES:END -->
 
 --- 
 
