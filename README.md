@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unhappy With a Service You’ve Been Paying For? It Might Be Time for a Breakup](https://www.wired.com/story/how-to-break-up-with-professional-service-providers/)
- - [Google is playing whack-a-mole with disastrous AI Overviews gone viral](https://www.androidauthority.com/google-remove-ai-overviews-3446363/)
- - [AI computer showdown - MacBook Air vs. Microsoft Surface Laptop Copilot+ PC](https://appleinsider.com/articles/24/05/27/ai-computer-showdown---macbook-air-vs-microsoft-surface-laptop-copilot-pc?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)
+ - [Google unveils new AI features for Chromebook Plus devices, says new Chromebook Plus users get a free year of Google One AI Premium, and updates old Chromebooks &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240528/p10#a240528p10)
+ - [Google is bringing loads of AI features to Chromebooks &lpar;with a catch&rpar;](https://www.androidauthority.com/google-chromebooks-ai-features-3446316/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
