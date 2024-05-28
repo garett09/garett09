@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s most anticipated, least expected, 2024 summer preview](https://www.polygon.com/24164232/summer-2024-entertainment-preview)
- - [Can Lev Grossman do for King Arthur what he did for Harry Potter?](https://www.polygon.com/24164083/lev-grossman-the-bright-sword-the-magicians)
- - [The most anticipated TV shows of summer 2024](https://www.polygon.com/24164051/best-new-tv-summer-2024-release-calendar-schedule-shows-series)<!-- GAME:END -->
+ - [In Frostpunk 2&#39;s post-post-apocalypse &#39;it&#39;s not nature that&#39;s your worst enemy, it&#39;s human nature,&#39; and nothing proves that like my doomed attempt at turbo-communism](https://www.pcgamer.com/games/city-builder/in-frostpunk-2s-post-post-apocalypse-its-not-nature-thats-your-enemy-its-human-nature-and-nothing-proves-that-like-my-doomed-attempt-at-turbo-communism)
+ - [Do you need esports peripherals? Unless you have the reaction times of a gnat or money to burn, nope](https://www.pcgamer.com/hardware/do-you-need-esports-peripherals-unless-you-have-the-reaction-times-of-a-gnat-or-money-to-burn-nope)
+ - [Robot Dreams’ director founded an animation studio just to adapt a graphic novel he loved](https://www.polygon.com/24163570/robot-dreams-oscar-best-animated-feature-interview-director)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
