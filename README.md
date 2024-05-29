@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Frostpunk 2&#39;s post-post-apocalypse &#39;it&#39;s not nature that&#39;s your worst enemy, it&#39;s human nature,&#39; and nothing proves that like my doomed attempt at turbo-communism](https://www.pcgamer.com/games/city-builder/in-frostpunk-2s-post-post-apocalypse-its-not-nature-thats-your-enemy-its-human-nature-and-nothing-proves-that-like-my-doomed-attempt-at-turbo-communism)
- - [Do you need esports peripherals? Unless you have the reaction times of a gnat or money to burn, nope](https://www.pcgamer.com/hardware/do-you-need-esports-peripherals-unless-you-have-the-reaction-times-of-a-gnat-or-money-to-burn-nope)
- - [Robot Dreams’ director founded an animation studio just to adapt a graphic novel he loved](https://www.polygon.com/24163570/robot-dreams-oscar-best-animated-feature-interview-director)<!-- GAME:END -->
+ - [In this new No Man&#39;s Sky update you can &#39;explore an abandoned universe&#39; alone with &#39;no other lifeforms, no shops, no help&#39;](https://www.pcgamer.com/games/sim/in-this-new-no-mans-sky-update-you-can-explore-an-abandoned-universe-alone-with-no-other-lifeforms-no-shops-no-help)
+ - [Gran Turismo 7 update 1.48 features 5 new cars, Café Menu, and World Circuit Events](https://blog.playstation.com/2024/05/29/gran-turismo-7-update-1-48-features-5-new-cars-cafe-menu-and-world-circuit-events/)
+ - [An Abandoned Galaxy Awaits in Adrift, The Latest No Man’s Sky Expedition](https://news.xbox.com/en-us/2024/05/29/adrift-no-mans-sky-expedition/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
