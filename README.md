@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Listen to an actually educated person](http://9gag.com/gag/aLnPK7g)
- - 🚯 [Walt knew what he was up against and he made the best choice, lmao.](http://9gag.com/gag/aoy0EVw)
- - 🚯 [Love you long time](http://9gag.com/gag/aoy00K0)<!-- MEMES:END -->
+ - 🚖 [Is in my blood](http://9gag.com/gag/aW4WOr6)
+ - 🚯 [Say the line bart](http://9gag.com/gag/aGywwyK)
+ - 🚯 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
 
 --- 
 
