@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)
- - [Google unveils new AI features for Chromebook Plus devices, says new Chromebook Plus users get a free year of Google One AI Premium, and updates old Chromebooks &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240528/p10#a240528p10)
- - [Google is bringing loads of AI features to Chromebooks &lpar;with a catch&rpar;](https://www.androidauthority.com/google-chromebooks-ai-features-3446316/)<!-- TECH:END -->
+ - [KVM Monitors Let You Cut Down the Desk Clutter, and I Love It](https://www.wired.com/story/kvm-monitors-built-in-switch/)
+ - [Amazon is publishing new open-world racer from former Forza developers](https://www.theverge.com/2024/5/29/24166351/amazon-maverick-games-publishing-deal-forza-ps5-xbox)
+ - [The next No Man’s Sky update makes the game lonelier — and more dangerous](https://www.theverge.com/2024/5/29/24166275/no-mans-sky-adrift-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
