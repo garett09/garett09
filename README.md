@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is in my blood](http://9gag.com/gag/aW4WOr6)
- - 🚯 [Say the line bart](http://9gag.com/gag/aGywwyK)
- - 🚯 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
+ - 🚖 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - 🚯 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - 🚯 [Took her a while](http://9gag.com/gag/azxEVAN)<!-- MEMES:END -->
 
 --- 
 
