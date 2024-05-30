@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [KVM Monitors Let You Cut Down the Desk Clutter, and I Love It](https://www.wired.com/story/kvm-monitors-built-in-switch/)
- - [Amazon is publishing new open-world racer from former Forza developers](https://www.theverge.com/2024/5/29/24166351/amazon-maverick-games-publishing-deal-forza-ps5-xbox)
- - [The next No Man’s Sky update makes the game lonelier — and more dangerous](https://www.theverge.com/2024/5/29/24166275/no-mans-sky-adrift-update)<!-- TECH:END -->
+ - [All of Microsoft’s MacBook Air-beating benchmarks](https://www.theverge.com/2024/5/30/24167745/microsoft-macbook-air-benchmarks-surface-laptop-copilot-plus-pc)
+ - [Motorola Moto G Stylus 5G &lpar;2024&rpar; review: Should you buy it?](https://www.androidauthority.com/motorola-moto-g-stylus-5g-2024-review-3445322/)
+ - [13 Best Amazon Echo and Alexa Speakers &lpar;2024&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
