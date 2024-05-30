@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In this new No Man&#39;s Sky update you can &#39;explore an abandoned universe&#39; alone with &#39;no other lifeforms, no shops, no help&#39;](https://www.pcgamer.com/games/sim/in-this-new-no-mans-sky-update-you-can-explore-an-abandoned-universe-alone-with-no-other-lifeforms-no-shops-no-help)
- - [Gran Turismo 7 update 1.48 features 5 new cars, Café Menu, and World Circuit Events](https://blog.playstation.com/2024/05/29/gran-turismo-7-update-1-48-features-5-new-cars-cafe-menu-and-world-circuit-events/)
- - [An Abandoned Galaxy Awaits in Adrift, The Latest No Man’s Sky Expedition](https://news.xbox.com/en-us/2024/05/29/adrift-no-mans-sky-expedition/)<!-- GAME:END -->
+ - [&#39;It&#39;s not the most glamourous setting&#39;: Still Wakes the Deep&#39;s developers discuss why the oil rig setting works so well](https://www.pcgamer.com/games/horror/its-not-the-most-glamourous-setting-still-wakes-the-deeps-developers-discuss-why-the-oil-rig-setting-works-so-well)
+ - [Still Wakes the Deep gets the fundamentals of horror just right while also having an incredible location and grisly action](https://www.pcgamer.com/games/horror/still-wakes-the-deep-gets-the-fundamentals-of-horror-just-right-while-also-having-an-incredible-location-and-grisly-action)
+ - [How Still Wakes the Deep Makes You Care for a Doomed Crew](https://news.xbox.com/en-us/2024/05/30/still-wakes-the-deep-care-for-a-doomed-crew/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
