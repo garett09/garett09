@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;It&#39;s not the most glamourous setting&#39;: Still Wakes the Deep&#39;s developers discuss why the oil rig setting works so well](https://www.pcgamer.com/games/horror/its-not-the-most-glamourous-setting-still-wakes-the-deeps-developers-discuss-why-the-oil-rig-setting-works-so-well)
- - [Still Wakes the Deep gets the fundamentals of horror just right while also having an incredible location and grisly action](https://www.pcgamer.com/games/horror/still-wakes-the-deep-gets-the-fundamentals-of-horror-just-right-while-also-having-an-incredible-location-and-grisly-action)
- - [How Still Wakes the Deep Makes You Care for a Doomed Crew](https://news.xbox.com/en-us/2024/05/30/still-wakes-the-deep-care-for-a-doomed-crew/)<!-- GAME:END -->
+ - [Share of the Week: Leap](https://blog.playstation.com/2024/05/31/share-of-the-week-leap/)
+ - [Your first look at Critical Role’s Caduceus Clay in his new Dark Horse comic](https://www.polygon.com/24167891/critical-role-caduceus-clay-dark-horse-comic-preview-pages)
+ - [Silent Hill 2 launches October 8, new gameplay revealed](https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
