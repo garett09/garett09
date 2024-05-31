@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - 🚯 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
- - 🚯 [Took her a while](http://9gag.com/gag/azxEVAN)<!-- MEMES:END -->
+ - 🚖 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
+ - 🚯 [Female behavior](http://9gag.com/gag/a1mebwD)
+ - 🚯 [You son of a b*tch I&#39;m in](http://9gag.com/gag/aGywjP5)<!-- MEMES:END -->
 
 --- 
 
