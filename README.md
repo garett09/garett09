@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Meta revamped Facebook&#39;s feed to show more posts from outside a person&#39;s network of friends and family, in a move to fight TikTok and win back younger users &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240531/p10#a240531p10)
- - [The Daylight Tablet Returns Computing to Its Hippie Ideals](https://www.wired.com/story/daylight-tablet-computing-hippie-ideals/)
- - [9 Best Earplugs &lpar;2024&rpar;: For Concerts, Sleep, and Listening](https://www.wired.com/gallery/best-earplugs/)<!-- TECH:END -->
+ - [Is the Onn 4K Pro actually a better deal than the Chromecast with Google TV?](https://www.androidauthority.com/onn-4k-pro-review-3445267/)
+ - [3 Best Smart Displays &lpar;2024&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
+ - [Here’s the one thing I hate about Samsung’s One UI](https://www.androidauthority.com/samsung-one-ui-bloatware-3447663/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
