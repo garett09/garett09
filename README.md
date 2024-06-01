@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Leap](https://blog.playstation.com/2024/05/31/share-of-the-week-leap/)
- - [Your first look at Critical Role’s Caduceus Clay in his new Dark Horse comic](https://www.polygon.com/24167891/critical-role-caduceus-clay-dark-horse-comic-preview-pages)
- - [Silent Hill 2 launches October 8, new gameplay revealed](https://blog.playstation.com/2024/05/30/silent-hill-2-launches-october-8-new-gameplay-revealed/)<!-- GAME:END -->
+ - [Every movie and show coming to Netflix in June](https://www.polygon.com/entertainment/24164128/new-netflix-june-2024-movies-tv-to-watch)
+ - [Kotaku’s Best Game Tips For The Week June 01, 2024](https://kotaku.com/kotaku-s-best-game-tips-for-the-week-june-01-2024-1851512275)
+ - [A Stunning Zelda Lego Set, A Rocky Return For MultiVersus, And More Of The Week&#39;s Top News](https://kotaku.com/no-mans-sky-update-lego-zelda-set-gaming-news-1851512273)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
