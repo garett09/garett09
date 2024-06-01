@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
- - 🚯 [Female behavior](http://9gag.com/gag/a1mebwD)
- - 🚯 [You son of a b*tch I&#39;m in](http://9gag.com/gag/aGywjP5)<!-- MEMES:END -->
+ - 🚖 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
+ - 🚯 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
+ - 🚯 [How does this even happen?](http://9gag.com/gag/a87Y8P6)<!-- MEMES:END -->
 
 --- 
 
