@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is the Onn 4K Pro actually a better deal than the Chromecast with Google TV?](https://www.androidauthority.com/onn-4k-pro-review-3445267/)
- - [3 Best Smart Displays &lpar;2024&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
- - [Here’s the one thing I hate about Samsung’s One UI](https://www.androidauthority.com/samsung-one-ui-bloatware-3447663/)<!-- TECH:END -->
+ - [Your GeForce PC can run Copilot Plus features, but here’s why it doesn’t](https://www.androidauthority.com/nvidia-copilot-plus-geforce-gpu-3447266/)
+ - [NVIDIA’s new AI assistant for games could kill the game guide](https://www.androidauthority.com/project-g-assist-nvidia-3448092/)
+ - [Nvidia and AMD are bringing Microsoft’s Copilot Plus AI features to gaming laptops](https://www.theverge.com/2024/6/2/24169568/microsoft-copilot-plus-gaming-pc-nvidia-amd)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
