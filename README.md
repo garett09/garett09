@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
- - 🚯 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
- - 🚯 [How does this even happen?](http://9gag.com/gag/a87Y8P6)<!-- MEMES:END -->
+ - 🚖 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 🚯 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
+ - 🚯 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)<!-- MEMES:END -->
 
 --- 
 
