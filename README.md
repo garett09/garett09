@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every movie and show coming to Netflix in June](https://www.polygon.com/entertainment/24164128/new-netflix-june-2024-movies-tv-to-watch)
- - [Kotaku’s Best Game Tips For The Week June 01, 2024](https://kotaku.com/kotaku-s-best-game-tips-for-the-week-june-01-2024-1851512275)
- - [A Stunning Zelda Lego Set, A Rocky Return For MultiVersus, And More Of The Week&#39;s Top News](https://kotaku.com/no-mans-sky-update-lego-zelda-set-gaming-news-1851512273)<!-- GAME:END -->
+ - [Godzilla Minus One, the long-awaited Godzilla throwback movie, is finally on Netflix](https://www.polygon.com/reviews/23940888/godzilla-minus-one-review-digital-release)
+ - [Tiana’s Bayou Adventure looks better than Splash Mountain, see for yourself](https://www.polygon.com/24169416/tianas-bayou-adventure-pov-video-4k-ride-through)
+ - [Lara Croft roars in the first trailer for Netflix’s Tomb Raider anime](https://www.polygon.com/24169013/tomb-raider-netflix-animated-series-lara-croft-release-date-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
