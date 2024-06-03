@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Godzilla Minus One, the long-awaited Godzilla throwback movie, is finally on Netflix](https://www.polygon.com/reviews/23940888/godzilla-minus-one-review-digital-release)
- - [Tiana’s Bayou Adventure looks better than Splash Mountain, see for yourself](https://www.polygon.com/24169416/tianas-bayou-adventure-pov-video-4k-ride-through)
- - [Lara Croft roars in the first trailer for Netflix’s Tomb Raider anime](https://www.polygon.com/24169013/tomb-raider-netflix-animated-series-lara-croft-release-date-trailer)<!-- GAME:END -->
+ - [Star Trek: Discovery tore itself apart for the good of Star Trek’s future](https://www.polygon.com/24168842/star-trek-discovery-finale-interview-showrunner-end)
+ - [Big PlayStation Sale Is Full Of Discounts On PS5s, Spider-Man 2, And More](https://kotaku.com/ps5-sale-discount-spider-man-2-last-us-cheap-1851504689)
+ - [Patch 7 of Baldur&#39;s Gate 3 heralds the arrival of mod support in September, with a closed beta starting next month](https://www.pcgamer.com/games/baldurs-gate/patch-7-of-baldur-s-gate-3-heralds-the-arrival-of-mod-support-in-september-with-a-closed-beta-starting-next-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
