@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your GeForce PC can run Copilot Plus features, but here’s why it doesn’t](https://www.androidauthority.com/nvidia-copilot-plus-geforce-gpu-3447266/)
- - [NVIDIA’s new AI assistant for games could kill the game guide](https://www.androidauthority.com/project-g-assist-nvidia-3448092/)
- - [Nvidia and AMD are bringing Microsoft’s Copilot Plus AI features to gaming laptops](https://www.theverge.com/2024/6/2/24169568/microsoft-copilot-plus-gaming-pc-nvidia-amd)<!-- TECH:END -->
+ - [Windows AI feature that screenshots everything labeled a security ‘disaster’](https://www.theverge.com/2024/6/3/24170305/microsoft-windows-recall-ai-screenshots-security-privacy-issues)
+ - [The Pixel 8 Pro drops 25% in latest Google sale](https://www.androidauthority.com/pixel-8-pro-deal-3448137/)
+ - [Sonos Ace Review: The Most Comfortable Headphones for Travel](https://www.wired.com/review/sonos-ace/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
