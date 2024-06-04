@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek: Discovery tore itself apart for the good of Star Trek’s future](https://www.polygon.com/24168842/star-trek-discovery-finale-interview-showrunner-end)
- - [Big PlayStation Sale Is Full Of Discounts On PS5s, Spider-Man 2, And More](https://kotaku.com/ps5-sale-discount-spider-man-2-last-us-cheap-1851504689)
- - [Patch 7 of Baldur&#39;s Gate 3 heralds the arrival of mod support in September, with a closed beta starting next month](https://www.pcgamer.com/games/baldurs-gate/patch-7-of-baldur-s-gate-3-heralds-the-arrival-of-mod-support-in-september-with-a-closed-beta-starting-next-month)<!-- GAME:END -->
+ - [Like a Dragon: Yakuza is Amazon’s Fallout follow-up — and it drops in October](https://www.polygon.com/24171051/like-a-dragon-yakuza-show-amazon-prime-video-release-date)
+ - [Pax Dei is an exciting &#39;social sandbox&#39; from EVE alumni where you can be a medieval monarch, pope, or just make trousers all day—and it&#39;s out soon](https://www.pcgamer.com/games/mmo/pax-dei-is-an-exciting-social-sandbox-from-eve-alumni-where-you-can-be-a-medieval-monarch-pope-or-just-make-trousers-all-dayand-its-out-soon)
+ - [Mutant Year Zero: Zone Wars is the year’s goofiest tabletop skirmish game](https://www.polygon.com/tabletop-games/24168167/mutant-year-zero-zone-wars-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
