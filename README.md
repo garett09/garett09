@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wow\u2026](http://9gag.com/gag/amo065V)
- - 🚯 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 🚯 [Any man will kiss me..](http://9gag.com/gag/aoy0RO3)<!-- MEMES:END -->
+ - 🚖 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
+ - 🚯 [USA, UK, France, etc. Useless everywhere. Any discovery or invention? Anyone?](http://9gag.com/gag/ayN01Ap)
+ - 🚯 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
 
 --- 
 
