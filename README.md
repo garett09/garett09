@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A group of nine current and former OpenAI staff, and two Google DeepMind staff, blow the whistle on what they say is a culture of recklessness and secrecy &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240604/p22#a240604p22)
- - [13-inch iPad Pro review: hardware of the future running software of the past](https://appleinsider.com/articles/24/06/04/13-inch-ipad-pro-review-hardware-of-the-future-running-software-of-the-past?utm_medium=rss)
- - [Does the Google Pixel 8a support eSIM and dual-SIM?](https://www.androidauthority.com/google-pixel-8a-esim-dual-sim-3445477/)<!-- TECH:END -->
+ - [Tobiko, which offers a dbt-compatible data transformation service to help teams manage data, raised a $4.5M seed and $17.3M Series A led by Theory Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240605/p17#a240605p17)
+ - [Google Drive could soon take on Microsoft Lens better for document scanning &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-drive-save-scanned-document-as-jpeg-apk-teardown-3449048/)
+ - [Watch Boeing Starliner’s third crewed launch attempt](https://www.theverge.com/2024/6/5/24171939/watch-boeing-starliner-third-crewed-flight-attempt)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
