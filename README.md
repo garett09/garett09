@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Like a Dragon: Yakuza is Amazon’s Fallout follow-up — and it drops in October](https://www.polygon.com/24171051/like-a-dragon-yakuza-show-amazon-prime-video-release-date)
- - [Pax Dei is an exciting &#39;social sandbox&#39; from EVE alumni where you can be a medieval monarch, pope, or just make trousers all day—and it&#39;s out soon](https://www.pcgamer.com/games/mmo/pax-dei-is-an-exciting-social-sandbox-from-eve-alumni-where-you-can-be-a-medieval-monarch-pope-or-just-make-trousers-all-dayand-its-out-soon)
- - [Mutant Year Zero: Zone Wars is the year’s goofiest tabletop skirmish game](https://www.polygon.com/tabletop-games/24168167/mutant-year-zero-zone-wars-review)<!-- GAME:END -->
+ - [Power your laptop, while capturing its video output, with Avermedia&#39;s new 100W GaN charger](https://www.pcgamer.com/hardware/capture-cards/power-your-laptop-while-capturing-its-video-output-with-avermedias-new-100w-gan-charger)
+ - [Fractal Design goes all touchy-feely with a fabric-covered PC case, a plushy headset, and a swish gaming chair](https://www.pcgamer.com/hardware/fractal-design-goes-all-touchy-feely-with-a-fabric-covered-pc-case-a-plushy-headset-and-a-swish-gaming-chair)
+ - [Capture up to 4K gaming footage from your Steam Deck with Avermedia&#39;s new X&#39;Tra Go docking station](https://www.pcgamer.com/hardware/handheld-gaming-pcs/capture-up-to-4k-gaming-footage-from-your-steam-deck-with-avermedias-new-xtra-go-docking-station)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
