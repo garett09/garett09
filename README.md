@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tobiko, which offers a dbt-compatible data transformation service to help teams manage data, raised a $4.5M seed and $17.3M Series A led by Theory Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240605/p17#a240605p17)
- - [Google Drive could soon take on Microsoft Lens better for document scanning &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-drive-save-scanned-document-as-jpeg-apk-teardown-3449048/)
- - [Watch Boeing Starliner’s third crewed launch attempt](https://www.theverge.com/2024/6/5/24171939/watch-boeing-starliner-third-crewed-flight-attempt)<!-- TECH:END -->
+ - [Q&amp;A with AMD CEO Lisa Su on lessons from IBM, working with TSMC, the AMD turnaround, AI, competing with Nvidia, the gaming and PC markets, Zen chips, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240606/p22#a240606p22)
+ - [Watch SpaceX’s fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)
+ - [Poco F6 and F6 Pro Review: Small Price, Big Performance](https://www.wired.com/review/xiaomi-poco-f6-and-f6-pro/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
