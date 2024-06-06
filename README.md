@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Power your laptop, while capturing its video output, with Avermedia&#39;s new 100W GaN charger](https://www.pcgamer.com/hardware/capture-cards/power-your-laptop-while-capturing-its-video-output-with-avermedias-new-100w-gan-charger)
- - [Fractal Design goes all touchy-feely with a fabric-covered PC case, a plushy headset, and a swish gaming chair](https://www.pcgamer.com/hardware/fractal-design-goes-all-touchy-feely-with-a-fabric-covered-pc-case-a-plushy-headset-and-a-swish-gaming-chair)
- - [Capture up to 4K gaming footage from your Steam Deck with Avermedia&#39;s new X&#39;Tra Go docking station](https://www.pcgamer.com/hardware/handheld-gaming-pcs/capture-up-to-4k-gaming-footage-from-your-steam-deck-with-avermedias-new-xtra-go-docking-station)<!-- GAME:END -->
+ - [2024’s franchise blockbusters, ranked by their value to the series](https://www.polygon.com/24171622/2024-movie-sequels-prequels-ranked-least-to-most-essential)
+ - [Concord is now available to pre-order; Early Access and beta detailed](https://blog.playstation.com/2024/06/06/concord-is-now-available-to-pre-order-early-access-and-beta-detailed/)
+ - [Concord is now available to pre-order; Early Access and beta detailed](https://blog.playstation.com/2024/06/06/concord-is-now-available-to-pre-order-early-access-and-beta-detailed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
