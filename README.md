@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
- - 🚯 [USA, UK, France, etc. Useless everywhere. Any discovery or invention? Anyone?](http://9gag.com/gag/ayN01Ap)
- - 🚯 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
+ - 🚖 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - 🚯 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 🚯 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)<!-- MEMES:END -->
 
 --- 
 
