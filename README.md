@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2024’s franchise blockbusters, ranked by their value to the series](https://www.polygon.com/24171622/2024-movie-sequels-prequels-ranked-least-to-most-essential)
- - [Concord is now available to pre-order; Early Access and beta detailed](https://blog.playstation.com/2024/06/06/concord-is-now-available-to-pre-order-early-access-and-beta-detailed/)
- - [Concord is now available to pre-order; Early Access and beta detailed](https://blog.playstation.com/2024/06/06/concord-is-now-available-to-pre-order-early-access-and-beta-detailed/)<!-- GAME:END -->
+ - [Netflix’s Hit Man isn’t just a breezy crime caper — it’s a stealth rom-com with one standout scene](https://www.polygon.com/24172887/hit-man-netflix-review-glen-powell-adria-arjona)
+ - [30 Years Later, Tamagotchi Player Discovers In-Game Secret](https://kotaku.com/tamagotchi-mothra-moll-and-lora-twins-playable-1851525415)
+ - [Honkai: Star Rail update v2.3 brings new friends and Simulated Universe on June 19](https://blog.playstation.com/2024/06/07/honkai-star-rail-update-v2-3-brings-new-friends-and-simulated-universe-on-june-19/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
