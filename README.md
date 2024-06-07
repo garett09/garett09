@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 🚯 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - 🚯 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)<!-- MEMES:END -->
+ - 🚖 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
+ - 🚯 [Title](http://9gag.com/gag/azxEYpN)
+ - 🚯 [A man rescues a bird and later gets an amazing surprise](http://9gag.com/gag/axyZPGM)<!-- MEMES:END -->
 
 --- 
 
