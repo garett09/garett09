@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with AMD CEO Lisa Su on lessons from IBM, working with TSMC, the AMD turnaround, AI, competing with Nvidia, the gaming and PC markets, Zen chips, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240606/p22#a240606p22)
- - [Watch SpaceX’s fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)
- - [Poco F6 and F6 Pro Review: Small Price, Big Performance](https://www.wired.com/review/xiaomi-poco-f6-and-f6-pro/)<!-- TECH:END -->
+ - [An ex-AWS worker says Amazon breached UK sanctions by providing the Russian company VisionLabs with its facial recognition tech after Russia&#39;s Ukraine invasion &lpar;Financial Times&rpar;](http://www.techmeme.com/240607/p9#a240607p9)
+ - [Best of Computex 2024 Awards: The best new tech and innovations we saw at the show](https://www.androidauthority.com/best-of-computex-2024-awards-3449054/)
+ - [Don’t Let Mistrust of Tech Companies Blind You to the Power of AI](https://www.wired.com/story/dont-let-mistrust-of-tech-companies-blind-you-power-of-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
