@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An ex-AWS worker says Amazon breached UK sanctions by providing the Russian company VisionLabs with its facial recognition tech after Russia&#39;s Ukraine invasion &lpar;Financial Times&rpar;](http://www.techmeme.com/240607/p9#a240607p9)
- - [Best of Computex 2024 Awards: The best new tech and innovations we saw at the show](https://www.androidauthority.com/best-of-computex-2024-awards-3449054/)
- - [Don’t Let Mistrust of Tech Companies Blind You to the Power of AI](https://www.wired.com/story/dont-let-mistrust-of-tech-companies-blind-you-power-of-ai/)<!-- TECH:END -->
+ - [Windows is at a crossroads, Microsoft has to decide if it wants to be more like Apple or Android](https://www.androidauthority.com/windows-copilot-pc-crossroads-3449035/)
+ - [Is Apple about to finally launch the real Siri?](https://www.theverge.com/2024/6/8/24172902/apple-siri-ai-2024-wwdc)
+ - [24 Best Gifts for Dad &lpar;2024&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
