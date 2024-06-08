@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Hit Man isn’t just a breezy crime caper — it’s a stealth rom-com with one standout scene](https://www.polygon.com/24172887/hit-man-netflix-review-glen-powell-adria-arjona)
- - [30 Years Later, Tamagotchi Player Discovers In-Game Secret](https://kotaku.com/tamagotchi-mothra-moll-and-lora-twins-playable-1851525415)
- - [Honkai: Star Rail update v2.3 brings new friends and Simulated Universe on June 19](https://blog.playstation.com/2024/06/07/honkai-star-rail-update-v2-3-brings-new-friends-and-simulated-universe-on-june-19/)<!-- GAME:END -->
+ - [The best thrillers to watch on Netflix this June](https://www.polygon.com/what-to-watch/2024/6/8/24170486/best-thriller-movies-netflix-watch-june-2024)
+ - [Today&#39;s Wordle answer for Saturday, June 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-8-2024)
+ - [Ass-kicking FPS Anger Foot is coming in July: &#39;Shit City is a disease and your foot is the cure&#39;](https://www.pcgamer.com/games/fps/ass-kicking-fps-anger-foot-is-coming-in-july-shit-city-is-a-disease-and-your-foot-is-the-cure)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
