@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
- - 🚯 [Title](http://9gag.com/gag/azxEYpN)
- - 🚯 [A man rescues a bird and later gets an amazing surprise](http://9gag.com/gag/axyZPGM)<!-- MEMES:END -->
+ - 🚖 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)
+ - 🚯 [Crash and huff](http://9gag.com/gag/aAyrmeL)
+ - 🚯 [Brazil.exe](http://9gag.com/gag/ae90PA5)<!-- MEMES:END -->
 
 --- 
 
