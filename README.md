@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows is at a crossroads, Microsoft has to decide if it wants to be more like Apple or Android](https://www.androidauthority.com/windows-copilot-pc-crossroads-3449035/)
- - [Is Apple about to finally launch the real Siri?](https://www.theverge.com/2024/6/8/24172902/apple-siri-ai-2024-wwdc)
- - [24 Best Gifts for Dad &lpar;2024&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)<!-- TECH:END -->
+ - [iOS 18 is getting the ability to lock apps with Face ID &amp; a dark mode expansion](https://appleinsider.com/articles/24/06/09/ios-18-is-getting-the-ability-to-lock-apps-with-face-id-dark-mode-on-the-lock-screen?utm_medium=rss)
+ - [Apple needs to show us the other half of the iPad Pro](https://www.theverge.com/2024/6/9/24169016/apple-ipad-pro-ipados-18-wwdc-ai-features)
+ - [The best alternatives to Adobe Photoshop, Illustrator, InDesign, and more](https://appleinsider.com/inside/mac/best/the-best-alternatives-to-adobe-photoshop-illustrator-indesign-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
