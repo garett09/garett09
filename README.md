@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)
- - 🚯 [Crash and huff](http://9gag.com/gag/aAyrmeL)
- - 🚯 [Brazil.exe](http://9gag.com/gag/ae90PA5)<!-- MEMES:END -->
+ - 🚖 [I&#39;ve seen a lot of Karaoke videos lately so thought of this](http://9gag.com/gag/abAyoXL)
+ - 🚯 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
+ - 🚯 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)<!-- MEMES:END -->
 
 --- 
 
