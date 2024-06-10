@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 is getting the ability to lock apps with Face ID &amp; a dark mode expansion](https://appleinsider.com/articles/24/06/09/ios-18-is-getting-the-ability-to-lock-apps-with-face-id-dark-mode-on-the-lock-screen?utm_medium=rss)
- - [Apple needs to show us the other half of the iPad Pro](https://www.theverge.com/2024/6/9/24169016/apple-ipad-pro-ipados-18-wwdc-ai-features)
- - [The best alternatives to Adobe Photoshop, Illustrator, InDesign, and more](https://appleinsider.com/inside/mac/best/the-best-alternatives-to-adobe-photoshop-illustrator-indesign-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [7 Best Water Bottles We&#39;ve Tested &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
+ - [Nokia CEO Pekka Lundmark made a phone call using new &quot;immersive audio and video&quot; tech that uses 3D sound on a 5G smartphone, as part of the 5G Advanced standard &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240610/p6#a240610p6)
+ - [Which iPhone models are needed to run iOS 18](https://appleinsider.com/articles/24/06/10/which-iphone-models-are-needed-to-run-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
