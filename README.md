@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best games like XCOM to play right now](https://www.polygon.com/what-to-play/24170442/best-games-like-xcom-turn-based-tactics)
- - [How to watch the Xbox Games Showcase 2024](https://www.pcgamer.com/gaming-industry/events-conferences/how-to-watch-xbox-games-showcase-2024)
- - [Today&#39;s Wordle answer for Sunday, June 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-9-2024)<!-- GAME:END -->
+ - [It’s hot yard game summer: The best lawn games](https://www.polygon.com/24171601/best-yard-games-lawn-games)
+ - [All Paranormal Activity locations and how ‘Alone in the Dark’ works in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24175164/paranormal-activity-lost-city-the-transgression-outskirts-alone-in-the-dark)
+ - [Destiny 2 Salvation&#39;s Edge loot table: Find out who drops what in the new raid](https://www.pcgamer.com/games/fps/destiny-2-salvations-edge-loot-table)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
