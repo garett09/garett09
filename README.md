@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Water Bottles We&#39;ve Tested &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
- - [Nokia CEO Pekka Lundmark made a phone call using new &quot;immersive audio and video&quot; tech that uses 3D sound on a 5G smartphone, as part of the 5G Advanced standard &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240610/p6#a240610p6)
- - [Which iPhone models are needed to run iOS 18](https://appleinsider.com/articles/24/06/10/which-iphone-models-are-needed-to-run-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [17 Best Wireless Earbuds, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [Spotify’s HiFi add-on could cost an extra $5 per month](https://www.theverge.com/2024/6/11/24175980/spotify-hifi-add-on-cost-extra-lossless-audio-supremium)
+ - [Yahoo Mail is adding more AI to simplify desktop email](https://www.theverge.com/2024/6/11/24175280/yahoo-mail-generative-ai-gmail)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
