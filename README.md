@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s hot yard game summer: The best lawn games](https://www.polygon.com/24171601/best-yard-games-lawn-games)
- - [All Paranormal Activity locations and how ‘Alone in the Dark’ works in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/24175164/paranormal-activity-lost-city-the-transgression-outskirts-alone-in-the-dark)
- - [Destiny 2 Salvation&#39;s Edge loot table: Find out who drops what in the new raid](https://www.pcgamer.com/games/fps/destiny-2-salvations-edge-loot-table)<!-- GAME:END -->
+ - [Obsidian&#39;s Avowed shows off a 25-minute deep dive—revealing a 3rd person mode, a first look at its RPG mechanics, and a flirty wizard in need of a vase](https://www.pcgamer.com/games/rpg/obsidian-s-avowed-shows-off-a-25-minute-deep-dive-revealing-a-3rd-person-mode-a-first-look-at-its-rpg-mechanics-and-a-flirty-wizard-in-need-of-a-vase)
+ - [1000xResist isn’t just mind-bending sci-fi — it’s also an allegory for diaspora](https://www.polygon.com/2024/6/11/24173823/1000xresist-impressions)
+ - [AMD&#39;s new Ryzen AI laptop chips aren&#39;t officially supported on Windows 10, thanks to its NPU and Copilot+](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-ai-laptop-chips-arent-officially-supported-on-windows-10-thanks-to-its-npu-and-copilot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
