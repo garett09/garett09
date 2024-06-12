@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 🚯 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
- - 🚯 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
+ - 🚖 [Night shift at it best](http://9gag.com/gag/a7oyzEq)
+ - 🚯 [Bad Prank](http://9gag.com/gag/aZZx613)
+ - 🚯 [Police aren\u2019t playing around anymore with Hamas supporters &lpar;SOUND ON&rpar;](http://9gag.com/gag/ayN0bjV)<!-- MEMES:END -->
 
 --- 
 
