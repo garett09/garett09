@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Best Wireless Earbuds, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [Spotify’s HiFi add-on could cost an extra $5 per month](https://www.theverge.com/2024/6/11/24175980/spotify-hifi-add-on-cost-extra-lossless-audio-supremium)
- - [Yahoo Mail is adding more AI to simplify desktop email](https://www.theverge.com/2024/6/11/24175280/yahoo-mail-generative-ai-gmail)<!-- TECH:END -->
+ - [What&#39;s new in Apple Music for iOS 18](https://appleinsider.com/inside/apple-music/tips/whats-new-in-apple-music-for-ios-18?utm_medium=rss)
+ - [iOS 18 hands-on impressions: Apple is Android-ifying the iPhone experience](https://www.androidauthority.com/ios-18-hands-on-3450497/)
+ - [10 Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
