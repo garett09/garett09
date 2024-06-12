@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Obsidian&#39;s Avowed shows off a 25-minute deep dive—revealing a 3rd person mode, a first look at its RPG mechanics, and a flirty wizard in need of a vase](https://www.pcgamer.com/games/rpg/obsidian-s-avowed-shows-off-a-25-minute-deep-dive-revealing-a-3rd-person-mode-a-first-look-at-its-rpg-mechanics-and-a-flirty-wizard-in-need-of-a-vase)
- - [1000xResist isn’t just mind-bending sci-fi — it’s also an allegory for diaspora](https://www.polygon.com/2024/6/11/24173823/1000xresist-impressions)
- - [AMD&#39;s new Ryzen AI laptop chips aren&#39;t officially supported on Windows 10, thanks to its NPU and Copilot+](https://www.pcgamer.com/hardware/processors/amds-new-ryzen-ai-laptop-chips-arent-officially-supported-on-windows-10-thanks-to-its-npu-and-copilot)<!-- GAME:END -->
+ - [Your Switch just left Twitter too](https://www.polygon.com/24176795/nintendo-switch-twitter-x-integration-ends)
+ - [The Acolyte reopens a Star Wars debate: Are the Jedi kidnapping kids into a cult?](https://www.polygon.com/star-wars/24176484/acolyte-star-wars-jedi-kidnapping-children-cult)
+ - [Citizen Sleeper 2 Ups The Ante With A Bigger And More Dangerous World](https://kotaku.com/citizen-sleeper-2-starward-vector-preview-rpg-1851533109)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
