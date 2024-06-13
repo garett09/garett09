@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s new in Apple Music for iOS 18](https://appleinsider.com/inside/apple-music/tips/whats-new-in-apple-music-for-ios-18?utm_medium=rss)
- - [iOS 18 hands-on impressions: Apple is Android-ifying the iPhone experience](https://www.androidauthority.com/ios-18-hands-on-3450497/)
- - [10 Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
+ - [Apple is paying OpenAI with exposure, not cash](https://appleinsider.com/articles/24/06/13/apple-paying-openai-with-exposure-not-money?utm_medium=rss)
+ - [Insta360 GO 3S is here with 4K support &lpar;finally!&rpar;](https://www.androidauthority.com/insta360-go-3s-3449957/)
+ - [LinkedIn’s AI Career Coaches Will See You Now](https://www.wired.com/story/linkedin-ai-features-career-coach-chatbot/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
