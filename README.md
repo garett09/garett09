@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Switch just left Twitter too](https://www.polygon.com/24176795/nintendo-switch-twitter-x-integration-ends)
- - [The Acolyte reopens a Star Wars debate: Are the Jedi kidnapping kids into a cult?](https://www.polygon.com/star-wars/24176484/acolyte-star-wars-jedi-kidnapping-children-cult)
- - [Citizen Sleeper 2 Ups The Ante With A Bigger And More Dangerous World](https://kotaku.com/citizen-sleeper-2-starward-vector-preview-rpg-1851533109)<!-- GAME:END -->
+ - [Giant Helldivers 2 update buffs a ton of stratagems and weapons](https://www.polygon.com/24177578/helldivers-2-update-notes-patch-01-000-400-stratagems-weapons-changes)
+ - [The number of games announced for 2025 is already overwhelming](https://www.polygon.com/24176445/2025-video-games-switch-2-gta6)
+ - [Everywhere, an upcoming multiplayer sandbox game with a powerful creation suite under the hood, will be opening its toolkit to closed beta testers soon](https://www.pcgamer.com/games/third-person-shooter/everywhere-an-upcoming-multiplayer-sandbox-game-with-a-powerful-creation-suite-under-the-hood-will-be-opening-its-toolkit-to-closed-beta-testers-soon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
