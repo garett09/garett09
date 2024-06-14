@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is paying OpenAI with exposure, not cash](https://appleinsider.com/articles/24/06/13/apple-paying-openai-with-exposure-not-money?utm_medium=rss)
- - [Insta360 GO 3S is here with 4K support &lpar;finally!&rpar;](https://www.androidauthority.com/insta360-go-3s-3449957/)
- - [LinkedIn’s AI Career Coaches Will See You Now](https://www.wired.com/story/linkedin-ai-features-career-coach-chatbot/)<!-- TECH:END -->
+ - [Apple and OpenAI make a deal](https://www.theverge.com/2024/6/14/24178387/apple-openai-chatgpt-intelligence-xbox-handheld-vergecast)
+ - [The crypto industry has amassed a $160M war chest to bolster pro-crypto US candidates, which could be pivotal in handing the Senate majority to GOP in November &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/240614/p4#a240614p4)
+ - [No Matter How You Package It, Apple Intelligence Is AI](https://www.wired.com/story/plaintext-apple-intelligence-is-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
