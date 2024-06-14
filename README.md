@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Giant Helldivers 2 update buffs a ton of stratagems and weapons](https://www.polygon.com/24177578/helldivers-2-update-notes-patch-01-000-400-stratagems-weapons-changes)
- - [The number of games announced for 2025 is already overwhelming](https://www.polygon.com/24176445/2025-video-games-switch-2-gta6)
- - [Everywhere, an upcoming multiplayer sandbox game with a powerful creation suite under the hood, will be opening its toolkit to closed beta testers soon](https://www.pcgamer.com/games/third-person-shooter/everywhere-an-upcoming-multiplayer-sandbox-game-with-a-powerful-creation-suite-under-the-hood-will-be-opening-its-toolkit-to-closed-beta-testers-soon)<!-- GAME:END -->
+ - [Turtle Beach Atlas Air review](https://www.pcgamer.com/hardware/gaming-headsets/turtle-beach-atlas-air-gaming-headset-review)
+ - [Steam Next Fest&#39;s 10 most played demos of June 2024 include an adorable building game, a surprising turn-based strategy spin-off, and a survival shooter where everyone&#39;s a duck](https://www.pcgamer.com/games/steam-next-fests-10-most-played-demos-of-june-2024-include-an-adorable-building-game-a-surprising-turn-based-strategy-spin-off-and-a-survival-shooter-where-everyones-a-duck)
+ - [Inside Out 2 revives the old Pixar magic](https://www.polygon.com/reviews/24178014/inside-out-2-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
