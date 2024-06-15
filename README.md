@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Turtle Beach Atlas Air review](https://www.pcgamer.com/hardware/gaming-headsets/turtle-beach-atlas-air-gaming-headset-review)
- - [Steam Next Fest&#39;s 10 most played demos of June 2024 include an adorable building game, a surprising turn-based strategy spin-off, and a survival shooter where everyone&#39;s a duck](https://www.pcgamer.com/games/steam-next-fests-10-most-played-demos-of-june-2024-include-an-adorable-building-game-a-surprising-turn-based-strategy-spin-off-and-a-survival-shooter-where-everyones-a-duck)
- - [Inside Out 2 revives the old Pixar magic](https://www.polygon.com/reviews/24178014/inside-out-2-review)<!-- GAME:END -->
+ - [A Revealing Epic Store Leak, New Star Wars Outlaws Details And More Of The Week&#39;s Big Stories](https://kotaku.com/star-wars-outlaws-epic-games-store-leak-nintendo-direct-1851540653)
+ - [The House of the Dragon timeline so far](https://www.polygon.com/23367111/house-dragon-time-jumps-years-timeline)
+ - [&#39;I&#39;m still in the process of making my ideal fantasy RPG,&#39; says FromSoftware&#39;s Hidetaka Miyazaki: &#39;While Elden Ring is not quite it, it&#39;s getting close&#39;](https://www.pcgamer.com/games/rpg/im-still-in-the-process-of-making-my-ideal-fantasy-rpg-says-fromsoftwares-hidetaka-miyazaki-while-elden-ring-is-not-quite-it-its-getting-close)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
