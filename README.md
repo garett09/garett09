@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Revealing Epic Store Leak, New Star Wars Outlaws Details And More Of The Week&#39;s Big Stories](https://kotaku.com/star-wars-outlaws-epic-games-store-leak-nintendo-direct-1851540653)
- - [The House of the Dragon timeline so far](https://www.polygon.com/23367111/house-dragon-time-jumps-years-timeline)
- - [&#39;I&#39;m still in the process of making my ideal fantasy RPG,&#39; says FromSoftware&#39;s Hidetaka Miyazaki: &#39;While Elden Ring is not quite it, it&#39;s getting close&#39;](https://www.pcgamer.com/games/rpg/im-still-in-the-process-of-making-my-ideal-fantasy-rpg-says-fromsoftwares-hidetaka-miyazaki-while-elden-ring-is-not-quite-it-its-getting-close)<!-- GAME:END -->
+ - [Total War: Warhammer 3&#39;s next DLC will focus on the ogres, the greenskins, and Khorne](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-next-dlc-will-focus-on-the-ogres-the-greenskins-and-khorne)
+ - [After 12 years at Blizzard, Warcraft general manager John Hight announces departure: &#39;I&#39;ve been so honored to serve all of the heroes of Azeroth&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-12-years-at-blizzard-warcraft-general-manager-john-hight-announces-departure-ive-been-so-honored-to-serve-all-of-the-heroes-of-azeroth)
+ - [The newest soulslike on the block, Enotria: The Last Song needs a bit more rehearsal time](https://www.pcgamer.com/games/action/the-newest-soulslike-on-the-block-enotria-the-last-song-needs-a-bit-more-rehearsal-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
