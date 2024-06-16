@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jesus Christ died only for him.](http://9gag.com/gag/agmNvYv)
- - 🚯 [The Princess of Bulgaria](http://9gag.com/gag/aMVQrOM)
- - 🚯 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)<!-- MEMES:END -->
+ - 🚖 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
+ - 🚯 [R.I.P](http://9gag.com/gag/aZZNNb9)
+ - 🚯 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
 
 --- 
 
