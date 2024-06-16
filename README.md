@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 Control Center hands-on: More than an Android copy](https://www.androidauthority.com/ios-18-control-center-hands-on-review-3450505/)
- - [The 34 Best Shows on Amazon Prime Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [Apple announced RCS with a whimper when it should have been a bang](https://www.theverge.com/2024/6/15/24178470/apple-rcs-support-wwdc-announcement-android-imessage)<!-- TECH:END -->
+ - [Crime blotter: Tracked iPad helps catch kids who stole their teacher&#39;s car](https://appleinsider.com/articles/24/06/16/crime-blotter-tracked-ipad-helps-catch-kids-who-stole-their-teachers-car?utm_medium=rss)
+ - [Sorry, VR: The Meta Ray-Ban Wayfarers Are the Best Face Computer](https://www.wired.com/story/the-ray-ban-meta-wayfarers-are-the-best-face-computer/)
+ - [How to Spot a Business Email Compromise Scam](https://www.wired.com/story/how-to-spot-business-email-compromise-scam/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
