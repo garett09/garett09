@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Tracked iPad helps catch kids who stole their teacher&#39;s car](https://appleinsider.com/articles/24/06/16/crime-blotter-tracked-ipad-helps-catch-kids-who-stole-their-teachers-car?utm_medium=rss)
- - [Sorry, VR: The Meta Ray-Ban Wayfarers Are the Best Face Computer](https://www.wired.com/story/the-ray-ban-meta-wayfarers-are-the-best-face-computer/)
- - [How to Spot a Business Email Compromise Scam](https://www.wired.com/story/how-to-spot-business-email-compromise-scam/)<!-- TECH:END -->
+ - [YouTube is testing Notes, an experimental crowdsourced tool to let users add context to videos, similar to X&#39;s Community Notes, on mobile in the US in English &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240617/p15#a240617p15)
+ - [The US surgeon general wants tobacco-like warning labels on social media](https://www.theverge.com/2024/6/17/24180005/surgeon-general-warning-labels-social-media-mental-health)
+ - [Review: WaterField Shinjuku iPad Messenger Bag](https://www.wired.com/review/waterfield-shinjuku-ipad-messenger-bag/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
