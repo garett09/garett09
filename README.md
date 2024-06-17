@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 3&#39;s next DLC will focus on the ogres, the greenskins, and Khorne](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-next-dlc-will-focus-on-the-ogres-the-greenskins-and-khorne)
- - [After 12 years at Blizzard, Warcraft general manager John Hight announces departure: &#39;I&#39;ve been so honored to serve all of the heroes of Azeroth&#39;](https://www.pcgamer.com/games/world-of-warcraft/after-12-years-at-blizzard-warcraft-general-manager-john-hight-announces-departure-ive-been-so-honored-to-serve-all-of-the-heroes-of-azeroth)
- - [The newest soulslike on the block, Enotria: The Last Song needs a bit more rehearsal time](https://www.pcgamer.com/games/action/the-newest-soulslike-on-the-block-enotria-the-last-song-needs-a-bit-more-rehearsal-time)<!-- GAME:END -->
+ - [Intel found a bug in its high-end CPU microcode is &#39;potentially contributing to instability&#39; though &#39;is not the root cause&#39; of those long-reported game crashes](https://www.pcgamer.com/hardware/processors/intel-found-a-bug-in-its-high-end-cpu-microcode-is-potentially-contributing-to-instability-though-is-not-the-root-cause-of-those-long-reported-game-crashes)
+ - [Still Wakes the Deep review](https://www.pcgamer.com/still-wakes-the-deep-review)
+ - [Lords of the Fallen 2, which is technically Lords of the Fallen 3, is due in 2026 and will probably be an Epic exclusive](https://www.pcgamer.com/games/rpg/lords-of-the-fallen-2-which-is-technically-lords-of-the-fallen-3-is-due-in-2026-and-will-probably-be-an-epic-exclusive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
