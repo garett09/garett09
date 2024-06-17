@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
- - 🚯 [R.I.P](http://9gag.com/gag/aZZNNb9)
- - 🚯 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
+ - 🚖 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 🚯 [Human pandas](http://9gag.com/gag/aRBVKGQ)
+ - 🚯 [The strongest female characters in fiction](http://9gag.com/gag/aqy21NP)<!-- MEMES:END -->
 
 --- 
 
