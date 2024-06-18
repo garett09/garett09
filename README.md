@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel found a bug in its high-end CPU microcode is &#39;potentially contributing to instability&#39; though &#39;is not the root cause&#39; of those long-reported game crashes](https://www.pcgamer.com/hardware/processors/intel-found-a-bug-in-its-high-end-cpu-microcode-is-potentially-contributing-to-instability-though-is-not-the-root-cause-of-those-long-reported-game-crashes)
- - [Still Wakes the Deep review](https://www.pcgamer.com/still-wakes-the-deep-review)
- - [Lords of the Fallen 2, which is technically Lords of the Fallen 3, is due in 2026 and will probably be an Epic exclusive](https://www.pcgamer.com/games/rpg/lords-of-the-fallen-2-which-is-technically-lords-of-the-fallen-3-is-due-in-2026-and-will-probably-be-an-epic-exclusive)<!-- GAME:END -->
+ - [New PlayStation Portal remote player system software update releases tomorrow](https://blog.playstation.com/2024/06/18/new-playstation-portal-remote-player-system-software-update-releases-tomorrow/)
+ - [Coming to Game Pass: EA Sports FC 24, My Time at Sandrock, Robin Hood – Sherwood Builders, and More](https://news.xbox.com/en-us/2024/06/18/xbox-game-pass-june-2024-wave-2/)
+ - [Bridgerton’s sex is going for quality over quantity — that’s a good thing](https://www.polygon.com/24180233/bridgerton-romance-sex-steamy-scenes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
