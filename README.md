@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing Notes, an experimental crowdsourced tool to let users add context to videos, similar to X&#39;s Community Notes, on mobile in the US in English &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240617/p15#a240617p15)
- - [The US surgeon general wants tobacco-like warning labels on social media](https://www.theverge.com/2024/6/17/24180005/surgeon-general-warning-labels-social-media-mental-health)
- - [Review: WaterField Shinjuku iPad Messenger Bag](https://www.wired.com/review/waterfield-shinjuku-ipad-messenger-bag/)<!-- TECH:END -->
+ - [Tesla’s big, epic, confusing future](https://www.theverge.com/2024/6/18/24180863/tesla-future-robots-ai-apple-watch-rest-days-vergecast)
+ - [Apple Developer Academy gets new Artificial Intelligence curriculum](https://appleinsider.com/articles/24/06/18/apple-developer-academy-gets-new-artificial-intelligence-curriculum?utm_medium=rss)
+ - [How to Turn Your Phone Into a Webcam &lpar;2024&rpar;: Mac, Windows, iPhone, Android](https://www.wired.com/story/use-your-phone-as-webcam/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
