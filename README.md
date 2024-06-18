@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 🚯 [Human pandas](http://9gag.com/gag/aRBVKGQ)
- - 🚯 [The strongest female characters in fiction](http://9gag.com/gag/aqy21NP)<!-- MEMES:END -->
+ - 🚖 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - 🚯 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 🚯 [So close...](http://9gag.com/gag/aXPXqDv)<!-- MEMES:END -->
 
 --- 
 
