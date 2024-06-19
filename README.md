@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New PlayStation Portal remote player system software update releases tomorrow](https://blog.playstation.com/2024/06/18/new-playstation-portal-remote-player-system-software-update-releases-tomorrow/)
- - [Coming to Game Pass: EA Sports FC 24, My Time at Sandrock, Robin Hood – Sherwood Builders, and More](https://news.xbox.com/en-us/2024/06/18/xbox-game-pass-june-2024-wave-2/)
- - [Bridgerton’s sex is going for quality over quantity — that’s a good thing](https://www.polygon.com/24180233/bridgerton-romance-sex-steamy-scenes)<!-- GAME:END -->
+ - [Hyper Light Breaker brought back all my memories of Dark Souls&#39; greatest boss, and it instantly became one of my favourite demos at Summer Game Fest](https://www.pcgamer.com/games/roguelike/hyper-light-breaker-brought-back-all-my-memories-of-dark-souls-greatest-boss-and-it-instantly-became-one-of-my-favourite-demos-at-summer-game-fest)
+ - [Inside Out 2’s Lance Slashblade was inspired by a real-life secret video game crush](https://www.polygon.com/24177919/lance-slashblade-inside-out-2-kingdom-hearts)
+ - [The Elder Scrolls Online: Gold Road &amp; Update 42 Now Live on Xbox](https://www.elderscrollsonline.com/en-us/news/post/66077#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
