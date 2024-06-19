@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s big, epic, confusing future](https://www.theverge.com/2024/6/18/24180863/tesla-future-robots-ai-apple-watch-rest-days-vergecast)
- - [Apple Developer Academy gets new Artificial Intelligence curriculum](https://appleinsider.com/articles/24/06/18/apple-developer-academy-gets-new-artificial-intelligence-curriculum?utm_medium=rss)
- - [How to Turn Your Phone Into a Webcam &lpar;2024&rpar;: Mac, Windows, iPhone, Android](https://www.wired.com/story/use-your-phone-as-webcam/)<!-- TECH:END -->
+ - [Circular drops a new Ring Slim along with key software upgrades for current users](https://www.androidauthority.com/circular-ring-slim-upgraded-3452573/)
+ - [The Evergoods Civic Panel Loader 24L Is a Well-Made Minimalist Backpack](https://www.wired.com/review/evergoods-civic-panel-loader-24l-backpack/)
+ - [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
