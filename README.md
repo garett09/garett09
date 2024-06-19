@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
- - 🚯 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 🚯 [So close...](http://9gag.com/gag/aXPXqDv)<!-- MEMES:END -->
+ - 🚖 [Oh my ... !](http://9gag.com/gag/aByrm2A)
+ - 🚯 [Can&#39;t wait for the cake](http://9gag.com/gag/avyLoEd)
+ - 🚯 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)<!-- MEMES:END -->
 
 --- 
 
