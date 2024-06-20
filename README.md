@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circular drops a new Ring Slim along with key software upgrades for current users](https://www.androidauthority.com/circular-ring-slim-upgraded-3452573/)
- - [The Evergoods Civic Panel Loader 24L Is a Well-Made Minimalist Backpack](https://www.wired.com/review/evergoods-civic-panel-loader-24l-backpack/)
- - [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)<!-- TECH:END -->
+ - [I tried the anti-AI Instagram alternative and it’s a mental and visual delight](https://www.androidauthority.com/what-is-cara-3452221/)
+ - [How to Avoid Scams and Shoddy Wares on Amazon](https://www.wired.com/story/how-shop-safe-amazon/)
+ - [iOS 18 changes just about everything about lock screen controls](https://appleinsider.com/inside/ios-18/tips/ios-18-changes-just-about-everything-about-lock-screen-controls?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
