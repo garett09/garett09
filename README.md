@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hyper Light Breaker brought back all my memories of Dark Souls&#39; greatest boss, and it instantly became one of my favourite demos at Summer Game Fest](https://www.pcgamer.com/games/roguelike/hyper-light-breaker-brought-back-all-my-memories-of-dark-souls-greatest-boss-and-it-instantly-became-one-of-my-favourite-demos-at-summer-game-fest)
- - [Inside Out 2’s Lance Slashblade was inspired by a real-life secret video game crush](https://www.polygon.com/24177919/lance-slashblade-inside-out-2-kingdom-hearts)
- - [The Elder Scrolls Online: Gold Road &amp; Update 42 Now Live on Xbox](https://www.elderscrollsonline.com/en-us/news/post/66077#new_tab)<!-- GAME:END -->
+ - [How Candy Crush All-Stars Turns a Casual Game Into an Elite-Level Tournament](https://news.xbox.com/en-us/2024/06/20/candy-crush-all-stars-winner-interview/)
+ - [Is Apple feeling ok? Reports indicate it&#39;s suspending work on the Vision Pro 2 to focus on making—wait for it—a cheaper version](https://www.pcgamer.com/hardware/vr-hardware/is-apple-feeling-ok-reports-indicate-its-suspending-work-on-the-vision-pro-2-to-focus-on-makingwait-for-ita-cheaper-version)
+ - [Asus RT-BE88U review](https://www.pcgamer.com/hardware/networking/asus-rt-be88u-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
