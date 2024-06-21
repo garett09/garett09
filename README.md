@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried the anti-AI Instagram alternative and it’s a mental and visual delight](https://www.androidauthority.com/what-is-cara-3452221/)
- - [How to Avoid Scams and Shoddy Wares on Amazon](https://www.wired.com/story/how-shop-safe-amazon/)
- - [iOS 18 changes just about everything about lock screen controls](https://appleinsider.com/inside/ios-18/tips/ios-18-changes-just-about-everything-about-lock-screen-controls?utm_medium=rss)<!-- TECH:END -->
+ - [Google official Pixel 8a case review: Should you buy it?](https://www.androidauthority.com/official-google-pixel-8a-case-review-3451971/)
+ - [My Memories Are Just Meta&#39;s Training Data Now](https://www.wired.com/story/my-memories-are-just-meta-training-data-now/)
+ - [Dnsys X1 Exoskeleton Review: A Great Idea In Need of Finesse](https://www.wired.com/review/review-dnsys-x1-exoskeleton/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
