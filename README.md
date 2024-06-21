@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I dont usually like ig shit, but his one cracked me up,lmao](http://9gag.com/gag/aByrnNZ)
- - 🚯 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 🚯 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
+ - 🚖 [Canada](http://9gag.com/gag/aVvXboP)
+ - 🚯 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)
+ - 🚯 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)<!-- MEMES:END -->
 
 --- 
 
