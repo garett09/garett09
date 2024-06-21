@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Candy Crush All-Stars Turns a Casual Game Into an Elite-Level Tournament](https://news.xbox.com/en-us/2024/06/20/candy-crush-all-stars-winner-interview/)
- - [Is Apple feeling ok? Reports indicate it&#39;s suspending work on the Vision Pro 2 to focus on making—wait for it—a cheaper version](https://www.pcgamer.com/hardware/vr-hardware/is-apple-feeling-ok-reports-indicate-its-suspending-work-on-the-vision-pro-2-to-focus-on-makingwait-for-ita-cheaper-version)
- - [Asus RT-BE88U review](https://www.pcgamer.com/hardware/networking/asus-rt-be88u-review)<!-- GAME:END -->
+ - [It looks like Zelda games have changed forever](https://www.polygon.com/zelda/24182328/zelda-echoes-of-wisdom-design-change)
+ - [Samsung Odyssey G8 OLED G80SD review](https://www.pcgamer.com/hardware/gaming-monitors/samsung-odyssey-g8-oled-g80sd-review)
+ - [How to defeat Rellana, Twin Moon Knight in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-rellana)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
