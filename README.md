@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It looks like Zelda games have changed forever](https://www.polygon.com/zelda/24182328/zelda-echoes-of-wisdom-design-change)
- - [Samsung Odyssey G8 OLED G80SD review](https://www.pcgamer.com/hardware/gaming-monitors/samsung-odyssey-g8-oled-g80sd-review)
- - [How to defeat Rellana, Twin Moon Knight in Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/elden-ring-rellana)<!-- GAME:END -->
+ - [Hornsent questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183407/hornsent-questline-summon-or-leda-sote)
+ - [The best movies leaving Netflix, Hulu, Max, and Prime at the end of June 2024](https://www.polygon.com/what-to-watch/2024/6/22/24181248/best-movies-netflix-amazon-max-leaving-june-2024)
+ - [What time does Fortnite Reload release?](https://www.polygon.com/fortnite-guide/2024/6/22/24183638/fortnite-reload-release-time-pdt-edt-bst-uk-cest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
