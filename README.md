@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google official Pixel 8a case review: Should you buy it?](https://www.androidauthority.com/official-google-pixel-8a-case-review-3451971/)
- - [My Memories Are Just Meta&#39;s Training Data Now](https://www.wired.com/story/my-memories-are-just-meta-training-data-now/)
- - [Dnsys X1 Exoskeleton Review: A Great Idea In Need of Finesse](https://www.wired.com/review/review-dnsys-x1-exoskeleton/)<!-- TECH:END -->
+ - [How Embracer&#39;s layoffs and project cancellations gutted Fishlabs, a promising studio that now lives on as a cross-dev team supporting other Embracer companies &lpar;Edwin Evans-Thirlwell/Rock, Paper ...&rpar;](http://www.techmeme.com/240622/p8#a240622p8)
+ - [Ringke Onyx for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/ringke-onyx-case-pixel-8a-review-3452254/)
+ - [Snapdragon X-plained: What you need to know about the chip in CoPilot Plus PCs](https://www.androidauthority.com/snapdragon-x-need-to-know-3451992/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
