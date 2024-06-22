@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Canada](http://9gag.com/gag/aVvXboP)
- - 🚯 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)
- - 🚯 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)<!-- MEMES:END -->
+ - 🚖 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 🚯 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
+ - 🚯 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)<!-- MEMES:END -->
 
 --- 
 
