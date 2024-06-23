@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What really happened](http://9gag.com/gag/ajPnOxq)
- - 🚯 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 🚯 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)<!-- MEMES:END -->
+ - 🚖 [Look into my eyes, son of...](http://9gag.com/gag/adBp2jD)
+ - 🚯 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
+ - 🚯 [The hate within](http://9gag.com/gag/aAypXx9)<!-- MEMES:END -->
 
 --- 
 
