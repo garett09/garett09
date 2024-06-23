@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hornsent questline walkthrough for Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183407/hornsent-questline-summon-or-leda-sote)
- - [The best movies leaving Netflix, Hulu, Max, and Prime at the end of June 2024](https://www.polygon.com/what-to-watch/2024/6/22/24181248/best-movies-netflix-amazon-max-leaving-june-2024)
- - [What time does Fortnite Reload release?](https://www.polygon.com/fortnite-guide/2024/6/22/24183638/fortnite-reload-release-time-pdt-edt-bst-uk-cest)<!-- GAME:END -->
+ - [Mars Express’ fascinating vision of a robotic future was inspired by film noir and Big Tech](https://www.polygon.com/24183308/mars-express-director-jeremie-perin-interview)
+ - [Check out this hilarious indie about a robot reporter working for a sci-fi newspaper](https://www.pcgamer.com/games/visual-novel/check-out-this-hilarious-indie-about-a-robot-reporter-working-for-a-sci-fi-newspaper)
+ - [Today&#39;s Wordle answer for Sunday, June 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-23-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
