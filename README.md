@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Embracer&#39;s layoffs and project cancellations gutted Fishlabs, a promising studio that now lives on as a cross-dev team supporting other Embracer companies &lpar;Edwin Evans-Thirlwell/Rock, Paper ...&rpar;](http://www.techmeme.com/240622/p8#a240622p8)
- - [Ringke Onyx for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/ringke-onyx-case-pixel-8a-review-3452254/)
- - [Snapdragon X-plained: What you need to know about the chip in CoPilot Plus PCs](https://www.androidauthority.com/snapdragon-x-need-to-know-3451992/)<!-- TECH:END -->
+ - [Late 2025 for M4 Mac Studio &amp; Mac Pro seems more certain now](https://appleinsider.com/articles/24/06/23/late-2025-for-m4-mac-studio-mac-pro-seems-more-certain-now?utm_medium=rss)
+ - [Neoplants Neo Px Review: This Plant Isn&#39;t as Good as an Air Purifier](https://www.wired.com/review/neoplants-neo-px/)
+ - [The new Final Cut Pro hooked me on iPad video editing](https://www.theverge.com/24183158/final-cut-pro-for-ipad-2-final-cut-camera-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
