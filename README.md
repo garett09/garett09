@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mars Express’ fascinating vision of a robotic future was inspired by film noir and Big Tech](https://www.polygon.com/24183308/mars-express-director-jeremie-perin-interview)
- - [Check out this hilarious indie about a robot reporter working for a sci-fi newspaper](https://www.pcgamer.com/games/visual-novel/check-out-this-hilarious-indie-about-a-robot-reporter-working-for-a-sci-fi-newspaper)
- - [Today&#39;s Wordle answer for Sunday, June 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-23-2024)<!-- GAME:END -->
+ - [You might need to unlock a new difficulty level to get the most from Diablo 4’s season 5](https://www.polygon.com/24184636/diablo-4-season-5-ptr-quest-line-infernal-hordes)
+ - [The Armed Squirrel’s Weapon Guide: An Arsenal Overview of Squirrel With a Gun](https://news.xbox.com/en-us/2024/06/24/squirrel-with-a-gun/)
+ - [The first technical deep dive of the Zen 5 architecture is here, with preliminary benchmarks supporting AMD&#39;s IPC claims](https://www.pcgamer.com/hardware/processors/the-first-technical-deep-dive-of-the-zen-5-architecture-is-here-with-preliminary-benchmarks-supporting-amds-ipc-claims)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
