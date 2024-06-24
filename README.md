@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Late 2025 for M4 Mac Studio &amp; Mac Pro seems more certain now](https://appleinsider.com/articles/24/06/23/late-2025-for-m4-mac-studio-mac-pro-seems-more-certain-now?utm_medium=rss)
- - [Neoplants Neo Px Review: This Plant Isn&#39;t as Good as an Air Purifier](https://www.wired.com/review/neoplants-neo-px/)
- - [The new Final Cut Pro hooked me on iPad video editing](https://www.theverge.com/24183158/final-cut-pro-for-ipad-2-final-cut-camera-review)<!-- TECH:END -->
+ - [Otterbox Commuter for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/otterbox-commuter-google-pixel-8a-review-3452711/)
+ - [Google is bringing Gemini to teens with school accounts](https://www.androidauthority.com/google-gemini-teens-with-school-accounts-3453912/)
+ - [The 9 Best TVs We’ve Reviewed, Plus Buying Advice for Normies &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
