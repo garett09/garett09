@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Free charge](http://9gag.com/gag/axyGm61)
- - 🚯 [Why r u geh](http://9gag.com/gag/aVvXBW8)
- - 🚯 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)<!-- MEMES:END -->
+ - 🚖 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
+ - 🚯 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 🚯 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)<!-- MEMES:END -->
 
 --- 
 
