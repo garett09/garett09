@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Otterbox Commuter for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/otterbox-commuter-google-pixel-8a-review-3452711/)
- - [Google is bringing Gemini to teens with school accounts](https://www.androidauthority.com/google-gemini-teens-with-school-accounts-3453912/)
- - [The 9 Best TVs We’ve Reviewed, Plus Buying Advice for Normies &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [With an economy hobbled by Western sanctions and inflation, desperate Iranians are flocking to &quot;tap-to-earn&quot; crypto mini apps in Telegram like Hamster Kombat &lpar;Associated Press&rpar;](http://www.techmeme.com/240625/p12#a240625p12)
+ - [YouTube’s latest experiment adds Shorts to Smart Downloads](https://www.androidauthority.com/youtube-shorts-smart-downloads-3454371/)
+ - [Hey Apple, thinner is not always better](https://www.androidauthority.com/thinnest-apple-iphone-3453162/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
