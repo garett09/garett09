@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You might need to unlock a new difficulty level to get the most from Diablo 4’s season 5](https://www.polygon.com/24184636/diablo-4-season-5-ptr-quest-line-infernal-hordes)
- - [The Armed Squirrel’s Weapon Guide: An Arsenal Overview of Squirrel With a Gun](https://news.xbox.com/en-us/2024/06/24/squirrel-with-a-gun/)
- - [The first technical deep dive of the Zen 5 architecture is here, with preliminary benchmarks supporting AMD&#39;s IPC claims](https://www.pcgamer.com/hardware/processors/the-first-technical-deep-dive-of-the-zen-5-architecture-is-here-with-preliminary-benchmarks-supporting-amds-ipc-claims)<!-- GAME:END -->
+ - [It&#39;s been a frustrating 18 months since launch but we&#39;ll finally be getting PCIe 5 SSDs worth a damn this year](https://www.pcgamer.com/hardware/ssds/its-been-a-frustrating-18-months-since-launch-but-well-finally-be-getting-pcie-5-ssds-worth-a-damn-this-year)
+ - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Dueling Shield](https://kotaku.com/elden-ring-shadow-erdtree-dueling-shield-guide-1851558768)
+ - [Guild Wars 2&#39;s new player housing will add a hang-out for your alts, a stable for your mounts, and comes with a massive overhaul to the decorations system](https://www.pcgamer.com/games/mmo/guild-wars-2-janthir-wilds-homestead-exclusive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
