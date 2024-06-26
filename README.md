@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With an economy hobbled by Western sanctions and inflation, desperate Iranians are flocking to &quot;tap-to-earn&quot; crypto mini apps in Telegram like Hamster Kombat &lpar;Associated Press&rpar;](http://www.techmeme.com/240625/p12#a240625p12)
- - [YouTube’s latest experiment adds Shorts to Smart Downloads](https://www.androidauthority.com/youtube-shorts-smart-downloads-3454371/)
- - [Hey Apple, thinner is not always better](https://www.androidauthority.com/thinnest-apple-iphone-3453162/)<!-- TECH:END -->
+ - [Sources: YouTube is in talks with Sony, Warner, and Universal to license their songs for an AI music generation tool that mimics popular singers &lpar;Financial Times&rpar;](http://www.techmeme.com/240626/p18#a240626p18)
+ - [Fetcherr, which wants to let airlines provide dynamic pricing by using AI to forecast demand, raised a $90M Series B, bringing its total funding to $114.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240626/p17#a240626p17)
+ - [Creatio, which offers a no-code CRM and workflow automation platform, raised $200M led by Sapphire Ventures at a $1.2B valuation &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240626/p16#a240626p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
