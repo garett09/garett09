@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - 🚯 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 🚯 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)<!-- MEMES:END -->
+ - 🚖 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 🚯 [Largest alligator ever recorded in North America](http://9gag.com/gag/aRBV8jQ)
+ - 🚯 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)<!-- MEMES:END -->
 
 --- 
 
