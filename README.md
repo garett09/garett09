@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s been a frustrating 18 months since launch but we&#39;ll finally be getting PCIe 5 SSDs worth a damn this year](https://www.pcgamer.com/hardware/ssds/its-been-a-frustrating-18-months-since-launch-but-well-finally-be-getting-pcie-5-ssds-worth-a-damn-this-year)
- - [Where To Find Elden Ring: Shadow Of The Erdtree&#39;s Dueling Shield](https://kotaku.com/elden-ring-shadow-erdtree-dueling-shield-guide-1851558768)
- - [Guild Wars 2&#39;s new player housing will add a hang-out for your alts, a stable for your mounts, and comes with a massive overhaul to the decorations system](https://www.pcgamer.com/games/mmo/guild-wars-2-janthir-wilds-homestead-exclusive)<!-- GAME:END -->
+ - [The First Descendant launches on PS5 and PS4 July 2, new character gameplay revealed](https://blog.playstation.com/2024/06/26/the-first-descendant-launches-on-ps5-and-ps4-july-2-new-character-gameplay-revealed/)
+ - [The Riven remake transforms a tricky classic into a modern masterpiece](https://www.polygon.com/reviews/24185656/riven-review-remake-remaster-pc-steam-vr)
+ - [Chillblast&#39;s Edge range of gaming PCs will take you to the next level](https://www.pcgamer.com/hardware/gaming-pcs/chillblasts-edge-range-of-gaming-pcs-will-take-you-to-the-next-level)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
