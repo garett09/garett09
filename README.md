@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The First Descendant launches on PS5 and PS4 July 2, new character gameplay revealed](https://blog.playstation.com/2024/06/26/the-first-descendant-launches-on-ps5-and-ps4-july-2-new-character-gameplay-revealed/)
- - [The Riven remake transforms a tricky classic into a modern masterpiece](https://www.polygon.com/reviews/24185656/riven-review-remake-remaster-pc-steam-vr)
- - [Chillblast&#39;s Edge range of gaming PCs will take you to the next level](https://www.pcgamer.com/hardware/gaming-pcs/chillblasts-edge-range-of-gaming-pcs-will-take-you-to-the-next-level)<!-- GAME:END -->
+ - [Jango Fett returns in enhanced Star Wars: Bounty Hunter, coming to PS5 August 1](https://blog.playstation.com/2024/06/27/jango-fett-returns-in-enhanced-star-wars-bounty-hunter-coming-to-ps5-august-1/)
+ - [Even Torrent is scared of the new Elden Ring DLC](https://www.polygon.com/24186582/elden-ring-dlc-shadow-erdtree-torrent-scared)
+ - [&#39;I absolutely suck at video games&#39;: Hidetaka Miyazaki discusses how he prepped for Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/i-absolutely-suck-at-video-games-hidetaka-miyazaki-discusses-how-he-prepped-for-elden-ring-shadow-of-the-erdtree)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
