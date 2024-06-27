@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - 🚯 [Largest alligator ever recorded in North America](http://9gag.com/gag/aRBV8jQ)
- - 🚯 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)<!-- MEMES:END -->
+ - 🚖 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 🚯 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)
+ - 🚯 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)<!-- MEMES:END -->
 
 --- 
 
