@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: YouTube is in talks with Sony, Warner, and Universal to license their songs for an AI music generation tool that mimics popular singers &lpar;Financial Times&rpar;](http://www.techmeme.com/240626/p18#a240626p18)
- - [Fetcherr, which wants to let airlines provide dynamic pricing by using AI to forecast demand, raised a $90M Series B, bringing its total funding to $114.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240626/p17#a240626p17)
- - [Creatio, which offers a no-code CRM and workflow automation platform, raised $200M led by Sapphire Ventures at a $1.2B valuation &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240626/p16#a240626p16)<!-- TECH:END -->
+ - [OnePlus Ace 3 Pro launched: Say goodbye to battery anxiety](https://www.androidauthority.com/oneplus-ace-3-pro-battery-3455122/)
+ - [Study finds Perplexity uses AI-generated content as sources, amplifying hallucinations](https://www.androidauthority.com/perplexity-uses-ai-content-sources-3455228/)
+ - [Supcase UB Pro for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/supcase-ub-pro-pixel-8a-review-3454927/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
