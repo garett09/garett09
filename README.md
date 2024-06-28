@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jango Fett returns in enhanced Star Wars: Bounty Hunter, coming to PS5 August 1](https://blog.playstation.com/2024/06/27/jango-fett-returns-in-enhanced-star-wars-bounty-hunter-coming-to-ps5-august-1/)
- - [Even Torrent is scared of the new Elden Ring DLC](https://www.polygon.com/24186582/elden-ring-dlc-shadow-erdtree-torrent-scared)
- - [&#39;I absolutely suck at video games&#39;: Hidetaka Miyazaki discusses how he prepped for Elden Ring: Shadow of the Erdtree](https://www.pcgamer.com/games/rpg/i-absolutely-suck-at-video-games-hidetaka-miyazaki-discusses-how-he-prepped-for-elden-ring-shadow-of-the-erdtree)<!-- GAME:END -->
+ - [Zenless Zone Zero debuts on PS5 July 4– details on combat, new area and characters unveiled](https://blog.playstation.com/2024/06/28/zenless-zone-zero-debuts-on-ps5-july-4-details-on-combat-new-area-and-characters-unveiled/)
+ - [Elden Ring players are normalizing using summons in the DLC](https://www.polygon.com/24186549/elden-ring-dlc-shadow-erdtree-summons-mimic-tear-difficulty-hard)
+ - [One of Denzel Washington’s best steamy thrillers is leaving Netflix](https://www.polygon.com/24086727/devil-in-a-blue-dress-movie-denzel-washington-netflix-thriller-sexy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
