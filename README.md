@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Ace 3 Pro launched: Say goodbye to battery anxiety](https://www.androidauthority.com/oneplus-ace-3-pro-battery-3455122/)
- - [Study finds Perplexity uses AI-generated content as sources, amplifying hallucinations](https://www.androidauthority.com/perplexity-uses-ai-content-sources-3455228/)
- - [Supcase UB Pro for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/supcase-ub-pro-pixel-8a-review-3454927/)<!-- TECH:END -->
+ - [Mous Super Thin for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/mous-super-thin-google-pixel-8a-review-3453957/)
+ - [Best NAS Deals: Save Up to $60 Off Network Storage](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)
+ - [Nectar’s Fourth of July Sale Will Save You Up to 40% on Popular Beds](https://www.cnet.com/deals/nectar-4th-of-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
