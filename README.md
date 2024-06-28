@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 🚖 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
  - 🚯 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)
- - 🚯 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)<!-- MEMES:END -->
+ - 🚯 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)<!-- MEMES:END -->
 
 --- 
 
