@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mous Super Thin for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/mous-super-thin-google-pixel-8a-review-3453957/)
- - [Best NAS Deals: Save Up to $60 Off Network Storage](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)
- - [Nectar’s Fourth of July Sale Will Save You Up to 40% on Popular Beds](https://www.cnet.com/deals/nectar-4th-of-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fortnite’s Metallica concert showed how sprawling the game has become](https://www.theverge.com/2024/6/29/24187226/fortnite-metallica-concert-interview)
+ - [Here’s a demo of Circle to Search’s upcoming QR code scan feature](https://www.androidauthority.com/circle-to-search-qr-code-scan-feature-demo-3455910/)
+ - [How NASA Is Using Machine Learning to Predict and Fight Wildfires](https://www.cnet.com/science/climate/how-nasa-is-using-machine-learning-to-predict-and-fight-wildfires/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
