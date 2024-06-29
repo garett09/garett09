@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zenless Zone Zero debuts on PS5 July 4– details on combat, new area and characters unveiled](https://blog.playstation.com/2024/06/28/zenless-zone-zero-debuts-on-ps5-july-4-details-on-combat-new-area-and-characters-unveiled/)
- - [Elden Ring players are normalizing using summons in the DLC](https://www.polygon.com/24186549/elden-ring-dlc-shadow-erdtree-summons-mimic-tear-difficulty-hard)
- - [One of Denzel Washington’s best steamy thrillers is leaving Netflix](https://www.polygon.com/24086727/devil-in-a-blue-dress-movie-denzel-washington-netflix-thriller-sexy)<!-- GAME:END -->
+ - [The best movies to watch for free on YouTube](https://www.polygon.com/what-to-watch/24184669/best-movies-youtube-free-train-to-busan-true-grit)
+ - [Today&#39;s Wordle answer for Saturday, June 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-29-2024)
+ - [Kalki 2898 AD has the ultimate recipe for a sci-fi epic: Star Wars + Hindu myth + RRR](https://www.polygon.com/reviews/24188449/kalki-2898-ad-indian-sci-fi-epic-amitabh-bachchan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
