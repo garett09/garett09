@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
- - 🚯 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)
- - 🚯 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)<!-- MEMES:END -->
+ - 🚖 [And nobody else posts memes about it as much either](http://9gag.com/gag/abAbnQv)
+ - 🚯 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)
+ - 🚯 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)<!-- MEMES:END -->
 
 --- 
 
