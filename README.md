@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s Metallica concert showed how sprawling the game has become](https://www.theverge.com/2024/6/29/24187226/fortnite-metallica-concert-interview)
- - [Here’s a demo of Circle to Search’s upcoming QR code scan feature](https://www.androidauthority.com/circle-to-search-qr-code-scan-feature-demo-3455910/)
- - [How NASA Is Using Machine Learning to Predict and Fight Wildfires](https://www.cnet.com/science/climate/how-nasa-is-using-machine-learning-to-predict-and-fight-wildfires/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Intelligence may be coming to Vision Pro -- but not soon](https://appleinsider.com/articles/24/06/30/apple-intelligence-may-be-coming-to-vision-pro----but-not-soon?utm_medium=rss)
+ - [How to watch Summer Games Done Quick 2024](https://www.theverge.com/24187364/summer-games-done-quick-watch-live-sgdq)
+ - [Poaching Eggs in the Microwave May Be the Best Breakfast Hack Ever](https://www.cnet.com/home/kitchen-and-household/poaching-eggs-in-the-microwave-may-be-the-best-breakfast-hack-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
