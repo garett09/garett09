@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies to watch for free on YouTube](https://www.polygon.com/what-to-watch/24184669/best-movies-youtube-free-train-to-busan-true-grit)
- - [Today&#39;s Wordle answer for Saturday, June 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-29-2024)
- - [Kalki 2898 AD has the ultimate recipe for a sci-fi epic: Star Wars + Hindu myth + RRR](https://www.polygon.com/reviews/24188449/kalki-2898-ad-indian-sci-fi-epic-amitabh-bachchan)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, June 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-30-2024)
+ - [Get a taste of automated, voxelated terraforming in the free preview of Eden Crafters](https://www.pcgamer.com/games/survival-crafting/get-a-taste-of-automated-voxelated-terraforming-in-the-free-preview-of-eden-crafters)
+ - [After three hours of attempts, Elden Ring folk hero Let Me Solo Her has beaten Shadow of the Erdtree&#39;s final boss⁠: &#39;Holy crap, I am shaking&#39;](https://www.pcgamer.com/games/rpg/after-three-hours-of-attempts-elden-ring-folk-hero-let-me-solo-her-has-beaten-shadow-of-the-erdtrees-final-boss-holy-crap-i-am-shaking)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
