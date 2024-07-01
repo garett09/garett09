@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence may be coming to Vision Pro -- but not soon](https://appleinsider.com/articles/24/06/30/apple-intelligence-may-be-coming-to-vision-pro----but-not-soon?utm_medium=rss)
- - [How to watch Summer Games Done Quick 2024](https://www.theverge.com/24187364/summer-games-done-quick-watch-live-sgdq)
- - [Poaching Eggs in the Microwave May Be the Best Breakfast Hack Ever](https://www.cnet.com/home/kitchen-and-household/poaching-eggs-in-the-microwave-may-be-the-best-breakfast-hack-ever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook and Instagram’s ‘pay or consent’ ad model violates the DMA, says the EU](https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model)
+ - [Window Tiling in macOS Sequoia is Apple&#39;s third try to fix a problem](https://appleinsider.com/articles/24/07/01/window-tiling-in-macos-sequoia-is-apples-third-go-at-fixing-a-problem?utm_medium=rss)
+ - [This year’s Apple Watches may not be as unique as Apple would pitch them to be](https://www.androidauthority.com/apple-watch-series-10-may-not-look-unique-3456121/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
