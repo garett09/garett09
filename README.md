@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smooth until you hit a bump](http://9gag.com/gag/a87jBX1)
- - 🚯 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
- - 🚯 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)<!-- MEMES:END -->
+ - 🚖 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - 🚯 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 🚯 [A meme came to life](http://9gag.com/gag/a34LopQ)<!-- MEMES:END -->
 
 --- 
 
