@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, June 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-june-30-2024)
- - [Get a taste of automated, voxelated terraforming in the free preview of Eden Crafters](https://www.pcgamer.com/games/survival-crafting/get-a-taste-of-automated-voxelated-terraforming-in-the-free-preview-of-eden-crafters)
- - [After three hours of attempts, Elden Ring folk hero Let Me Solo Her has beaten Shadow of the Erdtree&#39;s final boss⁠: &#39;Holy crap, I am shaking&#39;](https://www.pcgamer.com/games/rpg/after-three-hours-of-attempts-elden-ring-folk-hero-let-me-solo-her-has-beaten-shadow-of-the-erdtrees-final-boss-holy-crap-i-am-shaking)<!-- GAME:END -->
+ - [Internet speed record of 420,000,000 Mbps achieved using standard optic fibre cabling, fast enough to download Baldur&#39;s Gate 3 in less than four milliseconds](https://www.pcgamer.com/hardware/internet-speed-record-of-420000000-mbps-achieved-using-standard-optic-fibre-cabling-fast-enough-to-download-baldurs-gate-3-in-less-than-four-milliseconds)
+ - [House of the Dragon’s next funeral is for Rhaenyra and Alicent’s friendship](https://www.polygon.com/24187573/house-dragon-season-2-episode-3-review-alicent-rhaenyra)
+ - [Final Fantasy 14: Dawntrail rises to a mixed reception in its opening weekend, though I don&#39;t think the sky&#39;s falling just yet](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-rises-to-a-mixed-reception-in-its-opening-weekend-though-i-don-t-think-the-sky-s-falling-just-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
