@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook and Instagram’s ‘pay or consent’ ad model violates the DMA, says the EU](https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model)
- - [Window Tiling in macOS Sequoia is Apple&#39;s third try to fix a problem](https://appleinsider.com/articles/24/07/01/window-tiling-in-macos-sequoia-is-apples-third-go-at-fixing-a-problem?utm_medium=rss)
- - [This year’s Apple Watches may not be as unique as Apple would pitch them to be](https://www.androidauthority.com/apple-watch-series-10-may-not-look-unique-3456121/)<!-- TECH:END -->
+ - [Apple’s Vision Pro: five months later](https://www.theverge.com/2024/7/2/24190641/apple-vision-pro-headset-future-cheaper)
+ - [Some YouTube employees detail internal deliberations about content relating to the Israel-Hamas war and accuse the company of inconsistent moderation &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240702/p9#a240702p9)
+ - [Exclusive: This is Google AI, and it’s coming to the Pixel 9](https://www.androidauthority.com/google-ai-recall-pixel-9-3456399/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
