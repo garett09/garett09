@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 🚯 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 🚯 [A meme came to life](http://9gag.com/gag/a34LopQ)<!-- MEMES:END -->
+ - 🚖 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 🚯 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
+ - 🚯 [Super Heroes and zeroes](http://9gag.com/gag/aKGqBbQ)<!-- MEMES:END -->
 
 --- 
 
