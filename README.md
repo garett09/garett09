@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Internet speed record of 420,000,000 Mbps achieved using standard optic fibre cabling, fast enough to download Baldur&#39;s Gate 3 in less than four milliseconds](https://www.pcgamer.com/hardware/internet-speed-record-of-420000000-mbps-achieved-using-standard-optic-fibre-cabling-fast-enough-to-download-baldurs-gate-3-in-less-than-four-milliseconds)
- - [House of the Dragon’s next funeral is for Rhaenyra and Alicent’s friendship](https://www.polygon.com/24187573/house-dragon-season-2-episode-3-review-alicent-rhaenyra)
- - [Final Fantasy 14: Dawntrail rises to a mixed reception in its opening weekend, though I don&#39;t think the sky&#39;s falling just yet](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-dawntrail-rises-to-a-mixed-reception-in-its-opening-weekend-though-i-don-t-think-the-sky-s-falling-just-yet)<!-- GAME:END -->
+ - [The next Barbenheimer? A date change tees up Wickiator](https://www.polygon.com/24190600/wicked-gladiator-2-release-dates-barbenheimer-wickiator)
+ - [Coming to Game Pass: Neon White, Flock, Nickelodeon All-Star Brawl 2, and More](https://news.xbox.com/en-us/2024/07/02/xbox-game-pass-july-2024-wave-1/)
+ - [Capcom Nonchalantly Announces Resident Evil 9](https://kotaku.com/resident-evil-9-capcom-biohazard-village-1851572109)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
