@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Barbenheimer? A date change tees up Wickiator](https://www.polygon.com/24190600/wicked-gladiator-2-release-dates-barbenheimer-wickiator)
- - [Coming to Game Pass: Neon White, Flock, Nickelodeon All-Star Brawl 2, and More](https://news.xbox.com/en-us/2024/07/02/xbox-game-pass-july-2024-wave-1/)
- - [Capcom Nonchalantly Announces Resident Evil 9](https://kotaku.com/resident-evil-9-capcom-biohazard-village-1851572109)<!-- GAME:END -->
+ - [Gran Turismo World Series 2024 Series Round 1 takes place in Montreal July 6](https://blog.playstation.com/2024/07/03/gran-turismo-world-series-2024-series-round-1-takes-place-in-montreal-july-6/)
+ - [Mortal Kombat Tournament Pop-Off Goes Horribly Wrong [Update]](https://kotaku.com/mortal-kombat-mk1-ceo-2024-pop-off-chair-smash-bros-1851569788)
+ - [Beware: The latest Windows 11 update might just trap you in a boot loop of virtualised doom](https://www.pcgamer.com/software/windows/beware-the-latest-windows-11-update-might-just-trap-you-in-a-boot-loop-of-virtualised-doom)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
