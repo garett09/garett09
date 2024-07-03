@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Vision Pro: five months later](https://www.theverge.com/2024/7/2/24190641/apple-vision-pro-headset-future-cheaper)
- - [Some YouTube employees detail internal deliberations about content relating to the Israel-Hamas war and accuse the company of inconsistent moderation &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240702/p9#a240702p9)
- - [Exclusive: This is Google AI, and it’s coming to the Pixel 9](https://www.androidauthority.com/google-ai-recall-pixel-9-3456399/)<!-- TECH:END -->
+ - [Jony Ive still thinks of Steve Jobs every day](https://appleinsider.com/articles/24/07/03/jony-ive-still-thinks-of-steve-jobs-every-day?utm_medium=rss)
+ - [Apple&#39;s repair programs have more to do to satisfy New York Right to Repair law](https://appleinsider.com/articles/24/07/03/apples-repair-programs-have-more-to-do-to-satisfy-new-york-right-to-repair-law?utm_medium=rss)
+ - [Spigen Tough Armor for Pixel 8a review: Should you buy it?](https://www.androidauthority.com/spigen-tough-armor-for-pixel-8a-review-3456031/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
