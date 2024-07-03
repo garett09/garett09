@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 🚯 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
- - 🚯 [Super Heroes and zeroes](http://9gag.com/gag/aKGqBbQ)<!-- MEMES:END -->
+ - 🚖 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
+ - 🚯 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 🚯 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)<!-- MEMES:END -->
 
 --- 
 
