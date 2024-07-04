@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo World Series 2024 Series Round 1 takes place in Montreal July 6](https://blog.playstation.com/2024/07/03/gran-turismo-world-series-2024-series-round-1-takes-place-in-montreal-july-6/)
- - [Mortal Kombat Tournament Pop-Off Goes Horribly Wrong [Update]](https://kotaku.com/mortal-kombat-mk1-ceo-2024-pop-off-chair-smash-bros-1851569788)
- - [Beware: The latest Windows 11 update might just trap you in a boot loop of virtualised doom](https://www.pcgamer.com/software/windows/beware-the-latest-windows-11-update-might-just-trap-you-in-a-boot-loop-of-virtualised-doom)<!-- GAME:END -->
+ - [Democratic Socialism Simulator is &lpar;tragically, regrettably&rpar; still as relevant in 2024](https://www.polygon.com/24191760/democratic-socialism-simulator-2024-election-fourth-of-july)
+ - [Watch Twitch Star Kai Cenat And MrBeast&#39;s Indoor Firework Display](https://kotaku.com/twitch-kai-cenat-mrbeast-fireworks-july-4-1851577103)
+ - [How to get Hefty Fire Pots and Hefty Furnace Pots in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183218/hefty-fire-pots-hefty-furnace-pots-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
