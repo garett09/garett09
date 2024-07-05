@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you agree?](http://9gag.com/gag/aMVG8Rx)
- - 🚯 [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)
- - 🚯 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)<!-- MEMES:END -->
+ - 🚖 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
+ - 🚯 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - 🚯 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)<!-- MEMES:END -->
 
 --- 
 
