@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyrill Cecile for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/cyrill-cecile-google-pixel-8a-review-3456503/)
- - [Exclusive: Google is finally adding an ultrasonic fingerprint reader to the Pixel 9](https://www.androidauthority.com/pixel-9-fingerprint-scanner-3456801/)
- - [It’s another busy summer of streaming sci-fi](https://www.theverge.com/24190112/streaming-sci-fi-summer-2024-netflix-hulu-disney-apple)<!-- TECH:END -->
+ - [Here’s how Qualcomm’s new laptop chips really stack up to Apple, Intel, and AMD](https://www.theverge.com/24191671/copilot-plus-pcs-laptops-qualcomm-intel-amd-apple)
+ - [Original HomePods, new iPads, and rumors of future iPhones on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/05/original-homepods-new-ipads-and-rumors-of-future-iphones-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Xiaomi could finally make it easier to disable system ads](https://www.androidauthority.com/xiaomi-disable-system-ads-toggle-3457222/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
