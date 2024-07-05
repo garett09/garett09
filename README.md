@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Democratic Socialism Simulator is &lpar;tragically, regrettably&rpar; still as relevant in 2024](https://www.polygon.com/24191760/democratic-socialism-simulator-2024-election-fourth-of-july)
- - [Watch Twitch Star Kai Cenat And MrBeast&#39;s Indoor Firework Display](https://kotaku.com/twitch-kai-cenat-mrbeast-fireworks-july-4-1851577103)
- - [How to get Hefty Fire Pots and Hefty Furnace Pots in Elden Ring: Shadow of the Erdtree](https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183218/hefty-fire-pots-hefty-furnace-pots-dlc)<!-- GAME:END -->
+ - [The mischievous history of Elden Ring’s Patches, FromSoftware’s eternal scamp](https://www.polygon.com/24188317/elden-ring-who-where-is-patches-quest-line-explainer)
+ - [All Genshin Impact codes from the 4.8 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-8-livestream)
+ - [Microsoft patents a technique to display encrypted documents so only you can see them](https://www.pcgamer.com/software/security/microsoft-patents-a-technique-to-display-encrypted-documents-so-only-you-can-see-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
