@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Qualcomm’s new laptop chips really stack up to Apple, Intel, and AMD](https://www.theverge.com/24191671/copilot-plus-pcs-laptops-qualcomm-intel-amd-apple)
- - [Original HomePods, new iPads, and rumors of future iPhones on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/05/original-homepods-new-ipads-and-rumors-of-future-iphones-on-the-appleinsider-podcast?utm_medium=rss)
- - [Xiaomi could finally make it easier to disable system ads](https://www.androidauthority.com/xiaomi-disable-system-ads-toggle-3457222/)<!-- TECH:END -->
+ - [The Top 20 CNET Reader Deals Still Available From July 4th](https://www.cnet.com/deals/here-are-cnet-readers-20-favorite-july-4th-deals/#ftag=CAD590a51e)
+ - [Witness This Rare Cosmic Explosion That&#39;s About To Rock Earth&#39;s Sky](https://www.cnet.com/science/witness-this-rare-cosmic-explosion-thats-about-to-rock-earths-sky/#ftag=CAD590a51e)
+ - [We Flew, Drove, and Camped for Miles to Test the Best Luggage](https://www.wired.com/gallery/best-luggage/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
