@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 🚯 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - 🚯 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)<!-- MEMES:END -->
+ - 🚖 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
+ - 🚯 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
+ - 🚯 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)<!-- MEMES:END -->
 
 --- 
 
