@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The mischievous history of Elden Ring’s Patches, FromSoftware’s eternal scamp](https://www.polygon.com/24188317/elden-ring-who-where-is-patches-quest-line-explainer)
- - [All Genshin Impact codes from the 4.8 livestream](https://www.pcgamer.com/games/rpg/genshin-impact-codes-4-8-livestream)
- - [Microsoft patents a technique to display encrypted documents so only you can see them](https://www.pcgamer.com/software/security/microsoft-patents-a-technique-to-display-encrypted-documents-so-only-you-can-see-them)<!-- GAME:END -->
+ - [The best movies new to streaming this July](https://www.polygon.com/what-to-watch/2024/7/6/24186580/best-new-movies-netflix-amazon-prime-max-hulu-july-2024)
+ - [Today&#39;s Wordle answer for Saturday, July 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-6-2024)
+ - [Oh no, Rust just added my least favorite item from DayZ: handcuffs](https://www.pcgamer.com/games/survival-crafting/oh-no-rust-just-added-my-least-favorite-item-from-dayz-handcuffs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
