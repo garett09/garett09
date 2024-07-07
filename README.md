@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 🚯 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
- - 🚯 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)<!-- MEMES:END -->
+ - 🚖 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
+ - 🚯 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 🚯 [Sweden](http://9gag.com/gag/a7o7E8r)<!-- MEMES:END -->
 
 --- 
 
