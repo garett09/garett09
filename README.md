@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Top 20 CNET Reader Deals Still Available From July 4th](https://www.cnet.com/deals/here-are-cnet-readers-20-favorite-july-4th-deals/#ftag=CAD590a51e)
- - [Witness This Rare Cosmic Explosion That&#39;s About To Rock Earth&#39;s Sky](https://www.cnet.com/science/witness-this-rare-cosmic-explosion-thats-about-to-rock-earths-sky/#ftag=CAD590a51e)
- - [We Flew, Drove, and Camped for Miles to Test the Best Luggage](https://www.wired.com/gallery/best-luggage/)<!-- TECH:END -->
+ - [Google’s Repair Policy Is Broken](https://www.wired.com/story/google-repair-policy-broken/)
+ - [A look at Apate, a conversational bot developed by Macquarie University&#39;s Cyber Security Hub in Australia to keep scam callers on the line while collecting data &lpar;Tory Shepherd/The Guardian&rpar;](http://www.techmeme.com/240707/p2#a240707p2)
+ - [Worried about cleaning your pool this summer? The Beatbot AquaSense Pro has you covered](https://www.androidauthority.com/beatbot-aquasense-pro-3457879/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
