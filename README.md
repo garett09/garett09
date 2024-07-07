@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming this July](https://www.polygon.com/what-to-watch/2024/7/6/24186580/best-new-movies-netflix-amazon-prime-max-hulu-july-2024)
- - [Today&#39;s Wordle answer for Saturday, July 6](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-6-2024)
- - [Oh no, Rust just added my least favorite item from DayZ: handcuffs](https://www.pcgamer.com/games/survival-crafting/oh-no-rust-just-added-my-least-favorite-item-from-dayz-handcuffs)<!-- GAME:END -->
+ - [All the new video games launching in 2025](https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming)
+ - [Witcher 3 mod restores cut boat-racing quests](https://www.pcgamer.com/games/rpg/witcher-3-mod-restores-cut-boat-racing-quests)
+ - [Today&#39;s Wordle answer for Sunday, July 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-7-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
