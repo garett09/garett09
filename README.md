@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Repair Policy Is Broken](https://www.wired.com/story/google-repair-policy-broken/)
- - [A look at Apate, a conversational bot developed by Macquarie University&#39;s Cyber Security Hub in Australia to keep scam callers on the line while collecting data &lpar;Tory Shepherd/The Guardian&rpar;](http://www.techmeme.com/240707/p2#a240707p2)
- - [Worried about cleaning your pool this summer? The Beatbot AquaSense Pro has you covered](https://www.androidauthority.com/beatbot-aquasense-pro-3457879/)<!-- TECH:END -->
+ - [Google Play Protect could soon get an upgrade for local APK scanning &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-protect-yara-local-apk-scanning-apk-teardown-3458097/)
+ - [iPhone vs Pixel vs Galaxy: Which is best for repairability?](https://www.androidauthority.com/iphone-vs-pixel-vs-galaxy-repairability-3450079/)
+ - [Get ready for a monumental iPhone 16 super cycle, says Wedbush](https://appleinsider.com/articles/24/07/08/get-ready-for-a-monumental-iphone-16-super-cycle-says-wedbush?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
