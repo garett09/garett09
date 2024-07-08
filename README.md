@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the new video games launching in 2025](https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming)
- - [Witcher 3 mod restores cut boat-racing quests](https://www.pcgamer.com/games/rpg/witcher-3-mod-restores-cut-boat-racing-quests)
- - [Today&#39;s Wordle answer for Sunday, July 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-7-2024)<!-- GAME:END -->
+ - [Astro’s Playroom second update is now available, hiding a new Special Bot in-game](https://blog.playstation.com/2024/07/08/astros-playroom-second-update-is-now-available-hiding-a-new-special-bot-in-game/)
+ - [Every quirky thing we know about Hideo Kojima’s Death Stranding 2](https://www.polygon.com/gaming/24192136/death-stranding-2-release-date-trailer-gameplay-story)
+ - [Rip the display off a laptop, snap its keyboard in the middle, and you&#39;ve got this portable PC you can stick in a pocket](https://www.pcgamer.com/hardware/gaming-laptops/rip-the-display-off-a-laptop-snap-its-keyboard-in-the-middle-and-youve-got-this-portable-pc-you-can-stick-in-a-pocket)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
