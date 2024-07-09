@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Astro’s Playroom second update is now available, hiding a new Special Bot in-game](https://blog.playstation.com/2024/07/08/astros-playroom-second-update-is-now-available-hiding-a-new-special-bot-in-game/)
- - [Every quirky thing we know about Hideo Kojima’s Death Stranding 2](https://www.polygon.com/gaming/24192136/death-stranding-2-release-date-trailer-gameplay-story)
- - [Rip the display off a laptop, snap its keyboard in the middle, and you&#39;ve got this portable PC you can stick in a pocket](https://www.pcgamer.com/hardware/gaming-laptops/rip-the-display-off-a-laptop-snap-its-keyboard-in-the-middle-and-youve-got-this-portable-pc-you-can-stick-in-a-pocket)<!-- GAME:END -->
+ - [The older you are, the more important Inside Out 2 gets](https://www.polygon.com/24194435/inside-out-2-adult-anxiety-barbie-comparison)
+ - [50 million downloads in less than a week: Zenless Zone Zero, MiHoYo&#39;s action-RPG gacha, is &lpar;unsurprisingly&rpar; popular](https://www.pcgamer.com/games/action/50-million-downloads-in-less-than-a-week-zenless-zone-zero-mihoyo-s-action-rpg-gacha-is-unsurprisingly-popular)
+ - [&#39;I hope Miyazaki is proud of me&#39;: After 325 deaths and a 7-hour bossfight slog, streamer fulfils prophecy and beats Shadow of the Erdtree with a dance pad](https://www.pcgamer.com/games/rpg/i-hope-miyazaki-is-proud-of-me-after-325-deaths-and-a-7-hour-bossfight-slog-streamer-fulfils-prophecy-and-beats-shadow-of-the-erdtree-with-a-dance-pad)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
