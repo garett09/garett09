@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
- - 🚯 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 🚯 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)<!-- MEMES:END -->
+ - 🚖 [Weak men create hard times](http://9gag.com/gag/a4PY5WZ)
+ - 🚯 [A shortcut](http://9gag.com/gag/adBjQ1D)
+ - 🚯 [Bottle meme](http://9gag.com/gag/a5Q7GAq)<!-- MEMES:END -->
 
 --- 
 
