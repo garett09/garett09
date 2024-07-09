@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Protect could soon get an upgrade for local APK scanning &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-protect-yara-local-apk-scanning-apk-teardown-3458097/)
- - [iPhone vs Pixel vs Galaxy: Which is best for repairability?](https://www.androidauthority.com/iphone-vs-pixel-vs-galaxy-repairability-3450079/)
- - [Get ready for a monumental iPhone 16 super cycle, says Wedbush](https://appleinsider.com/articles/24/07/08/get-ready-for-a-monumental-iphone-16-super-cycle-says-wedbush?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify adds the ability for users to leave comments on podcasts, expanding on polls and Q&amp;As; comments will be private by default, and creators can opt out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240709/p9#a240709p9)
+ - [If your Philips Hue bulbs are randomly cranking up to 100% on their own, you&#39;re not alone](https://appleinsider.com/articles/24/07/09/if-your-philips-hue-bulbs-are-randomly-cranking-up-to-100-on-their-own-youre-not-alone?utm_medium=rss)
+ - [Oura introduces a powerful new feature ahead of the Samsung Galaxy Ring’s launch](https://www.androidauthority.com/oura-ai-advisor-launch-3457216/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
