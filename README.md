@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify adds the ability for users to leave comments on podcasts, expanding on polls and Q&amp;As; comments will be private by default, and creators can opt out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240709/p9#a240709p9)
- - [If your Philips Hue bulbs are randomly cranking up to 100% on their own, you&#39;re not alone](https://appleinsider.com/articles/24/07/09/if-your-philips-hue-bulbs-are-randomly-cranking-up-to-100-on-their-own-youre-not-alone?utm_medium=rss)
- - [Oura introduces a powerful new feature ahead of the Samsung Galaxy Ring’s launch](https://www.androidauthority.com/oura-ai-advisor-launch-3457216/)<!-- TECH:END -->
+ - [Samsung debuts the Galaxy Z Fold6, with a wider 22.1:9 display, up to 2,600 nits brightness, thinner frame, IP48, and seven years of updates, for $1,899 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240710/p15#a240710p15)
+ - [Samsung unveils the Galaxy Z Flip6 with 3.4&quot; and 6.7&quot; displays, a 50MP camera sensor, larger 4,000 mAh battery, and Snapdragon 8 Gen 3, for $1,099+ on July 24 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240710/p14#a240710p14)
+ - [England&#39;s poshest school Eton bans iPhones but provides iPads](https://appleinsider.com/articles/24/07/10/englands-poshest-school-eton-bans-iphones-but-provides-ipads?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
