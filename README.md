@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weak men create hard times](http://9gag.com/gag/a4PY5WZ)
- - 🚯 [A shortcut](http://9gag.com/gag/adBjQ1D)
- - 🚯 [Bottle meme](http://9gag.com/gag/a5Q7GAq)<!-- MEMES:END -->
+ - 🚖 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
+ - 🚯 [Facts](http://9gag.com/gag/aLn2GNx)
+ - 🚯 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)<!-- MEMES:END -->
 
 --- 
 
