@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The older you are, the more important Inside Out 2 gets](https://www.polygon.com/24194435/inside-out-2-adult-anxiety-barbie-comparison)
- - [50 million downloads in less than a week: Zenless Zone Zero, MiHoYo&#39;s action-RPG gacha, is &lpar;unsurprisingly&rpar; popular](https://www.pcgamer.com/games/action/50-million-downloads-in-less-than-a-week-zenless-zone-zero-mihoyo-s-action-rpg-gacha-is-unsurprisingly-popular)
- - [&#39;I hope Miyazaki is proud of me&#39;: After 325 deaths and a 7-hour bossfight slog, streamer fulfils prophecy and beats Shadow of the Erdtree with a dance pad](https://www.pcgamer.com/games/rpg/i-hope-miyazaki-is-proud-of-me-after-325-deaths-and-a-7-hour-bossfight-slog-streamer-fulfils-prophecy-and-beats-shadow-of-the-erdtree-with-a-dance-pad)<!-- GAME:END -->
+ - [Metro Awakening: adapting the post-apocalyptic survival horror for PS VR2](https://blog.playstation.com/2024/07/10/metro-awakening-adapting-the-post-apocalyptic-survival-horror-for-ps-vr2/)
+ - [Frenzies is a neon-soaked, wildly chaotic multiplayer shooter coming to PS VR2](https://blog.playstation.com/2024/07/10/frenzies-is-a-neon-soaked-wildly-chaotic-multiplayer-shooter-coming-to-ps-vr2/)
+ - [PS VR2: Frenzies revealed, new Metro Awakening gameplay details, Wanderer: The Fragments of Fate in-depth look](https://blog.playstation.com/2024/07/10/ps-vr2-frenzies-revealed-new-metro-awakening-gameplay-details-wanderer-the-fragments-of-fate-in-depth-look/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
