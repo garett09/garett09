@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung debuts the Galaxy Z Fold6, with a wider 22.1:9 display, up to 2,600 nits brightness, thinner frame, IP48, and seven years of updates, for $1,899 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240710/p15#a240710p15)
- - [Samsung unveils the Galaxy Z Flip6 with 3.4&quot; and 6.7&quot; displays, a 50MP camera sensor, larger 4,000 mAh battery, and Snapdragon 8 Gen 3, for $1,099+ on July 24 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240710/p14#a240710p14)
- - [England&#39;s poshest school Eton bans iPhones but provides iPads](https://appleinsider.com/articles/24/07/10/englands-poshest-school-eton-bans-iphones-but-provides-ipads?utm_medium=rss)<!-- TECH:END -->
+ - [Early Prime Day deals: The best smart doorbell deals available now](https://www.androidauthority.com/best-smart-doorbell-deals-amazon-prime-day-2024-3459163/)
+ - [Google is testing Snapchat-like filters for Messages, here’s our first look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-filters-apk-teardown-3459727/)
+ - [Apple really wants you to buy a Watch SE for your kid](https://www.androidauthority.com/apple-wants-you-buy-watch-for-kid-3459785/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
