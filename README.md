@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metro Awakening: adapting the post-apocalyptic survival horror for PS VR2](https://blog.playstation.com/2024/07/10/metro-awakening-adapting-the-post-apocalyptic-survival-horror-for-ps-vr2/)
- - [Frenzies is a neon-soaked, wildly chaotic multiplayer shooter coming to PS VR2](https://blog.playstation.com/2024/07/10/frenzies-is-a-neon-soaked-wildly-chaotic-multiplayer-shooter-coming-to-ps-vr2/)
- - [PS VR2: Frenzies revealed, new Metro Awakening gameplay details, Wanderer: The Fragments of Fate in-depth look](https://blog.playstation.com/2024/07/10/ps-vr2-frenzies-revealed-new-metro-awakening-gameplay-details-wanderer-the-fragments-of-fate-in-depth-look/)<!-- GAME:END -->
+ - [Rechristened &#39;Let Me Solo Them,&#39; Elden Ring&#39;s greatest hero has overcome his first-time jitters and is now clowning on Shadow of the Erdtree&#39;s final boss](https://www.pcgamer.com/games/rpg/rechristened-let-me-solo-them-elden-rings-greatest-hero-has-overcome-his-first-time-jitters-and-is-now-clowning-on-shadow-of-the-erdtrees-final-boss)
+ - [The maverick animators behind the WoW Classic trailers put together a rad-as-hell montage of an Azeroth turned destruction derby](https://www.pcgamer.com/games/world-of-warcraft/the-maverick-animators-behind-the-wow-classic-trailers-put-together-a-rad-as-hell-montage-showing-an-azeroth-turned-destruction-derby)
+ - [Ayaneo Retro Mini AM02](https://www.pcgamer.com/hardware/gaming-pcs/ayaneo-retro-mini-am02)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
