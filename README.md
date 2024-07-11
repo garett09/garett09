@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
- - 🚯 [Facts](http://9gag.com/gag/aLn2GNx)
- - 🚯 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)<!-- MEMES:END -->
+ - 🚖 [Trevor](http://9gag.com/gag/a9y7DYL)
+ - 🚯 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
+ - 🚯 [Time to learn](http://9gag.com/gag/ae9Gxvb)<!-- MEMES:END -->
 
 --- 
 
