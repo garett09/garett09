@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Prime Day deals: The best smart doorbell deals available now](https://www.androidauthority.com/best-smart-doorbell-deals-amazon-prime-day-2024-3459163/)
- - [Google is testing Snapchat-like filters for Messages, here’s our first look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-messages-filters-apk-teardown-3459727/)
- - [Apple really wants you to buy a Watch SE for your kid](https://www.androidauthority.com/apple-wants-you-buy-watch-for-kid-3459785/)<!-- TECH:END -->
+ - [Caseology Parallax for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/caseology-parallax-google-pixel-8a-review-3456178/)
+ - [Partior, a blockchain-based interbank payment network backed by JPMorgan, DBS, and Standard Chartered, raised a $60M Series B led by Peak XV Partners &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240712/p9#a240712p9)
+ - [Are you on AT&amp;T? Hackers now know who you called or texted](https://www.androidauthority.com/att-data-breach-3460248/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
