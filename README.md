@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rechristened &#39;Let Me Solo Them,&#39; Elden Ring&#39;s greatest hero has overcome his first-time jitters and is now clowning on Shadow of the Erdtree&#39;s final boss](https://www.pcgamer.com/games/rpg/rechristened-let-me-solo-them-elden-rings-greatest-hero-has-overcome-his-first-time-jitters-and-is-now-clowning-on-shadow-of-the-erdtrees-final-boss)
- - [The maverick animators behind the WoW Classic trailers put together a rad-as-hell montage of an Azeroth turned destruction derby](https://www.pcgamer.com/games/world-of-warcraft/the-maverick-animators-behind-the-wow-classic-trailers-put-together-a-rad-as-hell-montage-showing-an-azeroth-turned-destruction-derby)
- - [Ayaneo Retro Mini AM02](https://www.pcgamer.com/hardware/gaming-pcs/ayaneo-retro-mini-am02)<!-- GAME:END -->
+ - [The new Disney princess board game is just as fun as I dreamed](https://www.polygon.com/reviews/24196764/disney-princess-chronicles-of-light-darkness-falls-review)
+ - [The Outlast Trials&#39; new major update has given a deranged killer a shotgun because all the melee opponents weren&#39;t hard enough](https://www.pcgamer.com/games/horror/the-outlast-trials-new-major-update-has-given-a-deranged-killer-a-shotgun-because-all-the-melee-opponents-werent-hard-enough)
+ - [You can pick up the best Star Wars RPG ever made on the most forgettable launcher ever made for free if you&#39;re a Prime Gaming sub](https://www.pcgamer.com/games/rpg/you-can-pick-up-the-best-star-wars-rpg-ever-made-on-the-most-forgettable-launcher-ever-made-for-free-if-youre-a-prime-gaming-sub-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
