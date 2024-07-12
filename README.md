@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trevor](http://9gag.com/gag/a9y7DYL)
- - 🚯 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 🚯 [Time to learn](http://9gag.com/gag/ae9Gxvb)<!-- MEMES:END -->
+ - 🚖 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
+ - 🚯 [Civic education lesson. Education is important.](http://9gag.com/gag/a2vmj8Z)
+ - 🚯 [And they lost their job](http://9gag.com/gag/a9y7VMW)<!-- MEMES:END -->
 
 --- 
 
