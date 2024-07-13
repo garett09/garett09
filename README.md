@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
- - 🚯 [Civic education lesson. Education is important.](http://9gag.com/gag/a2vmj8Z)
- - 🚯 [And they lost their job](http://9gag.com/gag/a9y7VMW)<!-- MEMES:END -->
+ - 🚖 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
+ - 🚯 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
+ - 🚯 [Terrible crime](http://9gag.com/gag/an7N35z)<!-- MEMES:END -->
 
 --- 
 
