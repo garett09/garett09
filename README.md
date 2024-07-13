@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caseology Parallax for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/caseology-parallax-google-pixel-8a-review-3456178/)
- - [Partior, a blockchain-based interbank payment network backed by JPMorgan, DBS, and Standard Chartered, raised a $60M Series B led by Peak XV Partners &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240712/p9#a240712p9)
- - [Are you on AT&amp;T? Hackers now know who you called or texted](https://www.androidauthority.com/att-data-breach-3460248/)<!-- TECH:END -->
+ - [Best AeroPress Coffee Makers Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/story/best-aeropress/)
+ - [Spigen Ultra Hybrid for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/spigen-ultra-hybrid-google-pixel-8a-review-3453009/)
+ - [Hurricanes Are Trapping Small Island Nations in Ever-Worsening Spirals of Debt](https://www.wired.com/story/hurricanes-are-trapping-small-island-nations-in-ever-worsening-spirals-of-debt/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
