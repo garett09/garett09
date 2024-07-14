@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best AeroPress Coffee Makers Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/story/best-aeropress/)
- - [Spigen Ultra Hybrid for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/spigen-ultra-hybrid-google-pixel-8a-review-3453009/)
- - [Hurricanes Are Trapping Small Island Nations in Ever-Worsening Spirals of Debt](https://www.wired.com/story/hurricanes-are-trapping-small-island-nations-in-ever-worsening-spirals-of-debt/)<!-- TECH:END -->
+ - [I test dozens of phones every year and here’s how often I think you should upgrade](https://www.androidauthority.com/how-often-to-upgrade-phone-3457651/)
+ - [UAG Scout for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/uag-scout-google-pixel-8a-review-3456582/)
+ - [How to Properly Archive Your Digital Files](https://www.wired.com/story/how-to-properly-archive-your-digital-files/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
