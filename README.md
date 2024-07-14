@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers to watch on Netflix this July](https://www.polygon.com/what-to-watch/2024/7/13/24195230/best-thriller-movies-netflix-watch-july-2024)
- - [Game Pass Gets Pricier, Nintendo Teases A Horror Game, And More News For The Week](https://kotaku.com/game-pass-price-increase-dr-disrespect-1851590033)
- - [Necrozma counters, weakness in Pokémon Go](https://www.polygon.com/pokemon-go-guide/24196455/necrozma-raid-counters-weakness-dusk-mane-dawn-wing)<!-- GAME:END -->
+ - [A definitive ranking of the 100 greatest movie hitmen, by how good they are at their job](https://www.polygon.com/24188117/best-movie-hitmen-ranked)
+ - [Game Pass Woes, Elden Ring Takes, And More Of This Week&#39;s Spiciest Opinions](https://kotaku.com/game-pass-woes-elden-ring-takes-and-more-of-this-week-1851590035)
+ - [Necrozma counters, weakness in Pokémon Go raids](https://www.polygon.com/pokemon-go-guide/24196455/necrozma-raid-counters-weakness-dusk-mane-dawn-wing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
