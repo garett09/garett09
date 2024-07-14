@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
- - 🚯 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
- - 🚯 [Terrible crime](http://9gag.com/gag/an7N35z)<!-- MEMES:END -->
+ - 🚖 [Free Rent](http://9gag.com/gag/aO8VOdD)
+ - 🚯 [Batgirl](http://9gag.com/gag/amo94YX)
+ - 🚯 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)<!-- MEMES:END -->
 
 --- 
 
