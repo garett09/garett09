@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Free Rent](http://9gag.com/gag/aO8VOdD)
- - 🚯 [Batgirl](http://9gag.com/gag/amo94YX)
- - 🚯 [Another angle shows Secret Service sniper caught off guard when the shots were fire](http://9gag.com/gag/a34BO41)<!-- MEMES:END -->
+ - 🚖 [Crowd noticed the gunman moments before disaster](http://9gag.com/gag/aLn2E1M)
+ - 🚯 [Last moment when Thomas Matthew Crooks was seen alive - he seems unafraid despite the crowd shouting at him](http://9gag.com/gag/a87MxY1)
+ - 🚯 [Logic wins again.](http://9gag.com/gag/agmV986)<!-- MEMES:END -->
 
 --- 
 
