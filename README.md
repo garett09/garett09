@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A definitive ranking of the 100 greatest movie hitmen, by how good they are at their job](https://www.polygon.com/24188117/best-movie-hitmen-ranked)
- - [Game Pass Woes, Elden Ring Takes, And More Of This Week&#39;s Spiciest Opinions](https://kotaku.com/game-pass-woes-elden-ring-takes-and-more-of-this-week-1851590035)
- - [Necrozma counters, weakness in Pokémon Go raids](https://www.polygon.com/pokemon-go-guide/24196455/necrozma-raid-counters-weakness-dusk-mane-dawn-wing)<!-- GAME:END -->
+ - [House of the Dragon’s latest episode turns gods into meat](https://www.polygon.com/reviews/24197476/house-of-the-dragon-season-2-episode-5-review)
+ - [AMD Zen 5 architecture: A ground up redesign that lays the foundation for future Ryzen CPU architectures](https://www.pcgamer.com/hardware/processors/amd-zen-5-architecture-a-ground-up-redesign-that-lays-the-foundation-for-future-ryzen-cpu-architectures)
+ - [Renaissance Kingdom Wars is a pleasingly simple hybrid of Crusader Kings, Total War, and Age of Empires](https://www.pcgamer.com/games/strategy/renaissance-kingdom-wars-is-a-pleasingly-simple-hybrid-of-crusader-kings-total-war-and-age-of-empires)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
