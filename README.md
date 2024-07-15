@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I test dozens of phones every year and here’s how often I think you should upgrade](https://www.androidauthority.com/how-often-to-upgrade-phone-3457651/)
- - [UAG Scout for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/uag-scout-google-pixel-8a-review-3456582/)
- - [How to Properly Archive Your Digital Files](https://www.wired.com/story/how-to-properly-archive-your-digital-files/)<!-- TECH:END -->
+ - [Best app to upscale and enhance AI art &amp; photos up to 16K [Giveaway]](https://appleinsider.com/articles/24/07/15/best-app-to-upscale-and-enhance-ai-art-photos-up-to-16k-giveaway?utm_medium=rss)
+ - [Elgato announces plans for Stream Deck for iPad](https://appleinsider.com/articles/24/07/15/elgato-announces-plans-for-stream-deck-for-ipad?utm_medium=rss)
+ - [Terminator heads back to 1997 in first trailer for Netflix anime](https://www.theverge.com/24198816/terminator-zero-trailer-netflix-anime)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
