@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon’s latest episode turns gods into meat](https://www.polygon.com/reviews/24197476/house-of-the-dragon-season-2-episode-5-review)
- - [AMD Zen 5 architecture: A ground up redesign that lays the foundation for future Ryzen CPU architectures](https://www.pcgamer.com/hardware/processors/amd-zen-5-architecture-a-ground-up-redesign-that-lays-the-foundation-for-future-ryzen-cpu-architectures)
- - [Renaissance Kingdom Wars is a pleasingly simple hybrid of Crusader Kings, Total War, and Age of Empires](https://www.pcgamer.com/games/strategy/renaissance-kingdom-wars-is-a-pleasingly-simple-hybrid-of-crusader-kings-total-war-and-age-of-empires)<!-- GAME:END -->
+ - [Coming to Game Pass: Kunitsu-Gami: Path of the Goddess, Flintlock: The Siege of Dawn, and Dungeons of Hinterberg](https://news.xbox.com/en-us/2024/07/16/xbox-game-pass-july-2024-wave-2/)
+ - [Tom &amp; Jerry meets Rimworld in this complex city builder that&#39;s all about throwing off the yoke of feline tyranny](https://www.pcgamer.com/games/city-builder/tom-and-jerry-meets-rimworld-in-this-complex-city-builder-thats-all-about-throwing-off-the-yoke-of-feline-tyranny)
+ - [Why Innersloth is funding your next favorite indie game](https://www.polygon.com/24198840/inntersloth-among-us-funding-indie-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
