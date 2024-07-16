@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best app to upscale and enhance AI art &amp; photos up to 16K [Giveaway]](https://appleinsider.com/articles/24/07/15/best-app-to-upscale-and-enhance-ai-art-photos-up-to-16k-giveaway?utm_medium=rss)
- - [Elgato announces plans for Stream Deck for iPad](https://appleinsider.com/articles/24/07/15/elgato-announces-plans-for-stream-deck-for-ipad?utm_medium=rss)
- - [Terminator heads back to 1997 in first trailer for Netflix anime](https://www.theverge.com/24198816/terminator-zero-trailer-netflix-anime)<!-- TECH:END -->
+ - [Picking the perfect portable console](https://www.theverge.com/2024/7/16/24199603/handheld-console-steam-deck-games-smart-glasses-vergecast)
+ - [Best Apple Prime Day deals - live coverage of the top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
+ - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
