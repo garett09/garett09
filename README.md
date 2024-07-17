@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Game Pass: Kunitsu-Gami: Path of the Goddess, Flintlock: The Siege of Dawn, and Dungeons of Hinterberg](https://news.xbox.com/en-us/2024/07/16/xbox-game-pass-july-2024-wave-2/)
- - [Tom &amp; Jerry meets Rimworld in this complex city builder that&#39;s all about throwing off the yoke of feline tyranny](https://www.pcgamer.com/games/city-builder/tom-and-jerry-meets-rimworld-in-this-complex-city-builder-thats-all-about-throwing-off-the-yoke-of-feline-tyranny)
- - [Why Innersloth is funding your next favorite indie game](https://www.polygon.com/24198840/inntersloth-among-us-funding-indie-games)<!-- GAME:END -->
+ - [Deadpool Designs the Cheekiest Xbox Controller](https://news.xbox.com/en-us/2024/07/17/deadpool-wolverine-xbox-controller-deadpool-design/)
+ - [Ser Criston Cole could rule the world if it wasn’t for all these dragons](https://www.polygon.com/24199725/house-dragon-criston-cole-fabien-frankel-episode)
+ - [No Man&#39;s Sky goes 5.0 with a sweeping tech update that&#39;s &#39;adding things the community has almost given up hope on ever happening&#39;](https://www.pcgamer.com/games/sim/no-mans-sky-goes-50-with-a-sweeping-tech-update-thats-adding-things-the-community-has-almost-given-up-hope-on-ever-happening)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
