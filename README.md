@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Picking the perfect portable console](https://www.theverge.com/2024/7/16/24199603/handheld-console-steam-deck-games-smart-glasses-vergecast)
- - [Best Apple Prime Day deals - live coverage of the top sales](https://appleinsider.com/articles/24/07/16/best-apple-prime-day-deals---live-coverage-of-the-top-sales?utm_medium=rss)
- - [The best smartwatch and fitness tracker deals for Amazon Prime Day 2024](https://www.theverge.com/2024/7/16/24199083/amazon-prime-day-2024-smartwatch-fitness-tracker-deals)<!-- TECH:END -->
+ - [The next No Man’s Sky update makes planets feel more real](https://www.theverge.com/2024/7/17/24200072/no-mans-sky-next-udate-worlds-part-1)
+ - [Israel-based CytoReason, which uses AI to develop disease models, raised $80M from Nvidia, Pfizer, Thermo Fisher, and OurCrowd, and plans a Massachusetts office &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/240717/p17#a240717p17)
+ - [Spigen Liquid Air for Google Pixel 8a review: Should you buy it?](https://www.androidauthority.com/spigen-liquid-air-google-pixel-8a-review-3457256/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
