@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadpool Designs the Cheekiest Xbox Controller](https://news.xbox.com/en-us/2024/07/17/deadpool-wolverine-xbox-controller-deadpool-design/)
- - [Ser Criston Cole could rule the world if it wasn’t for all these dragons](https://www.polygon.com/24199725/house-dragon-criston-cole-fabien-frankel-episode)
- - [No Man&#39;s Sky goes 5.0 with a sweeping tech update that&#39;s &#39;adding things the community has almost given up hope on ever happening&#39;](https://www.pcgamer.com/games/sim/no-mans-sky-goes-50-with-a-sweeping-tech-update-thats-adding-things-the-community-has-almost-given-up-hope-on-ever-happening)<!-- GAME:END -->
+ - [Splitgate 2 portals over to PS5 and PS4 in 2025](https://blog.playstation.com/2024/07/18/splitgate-2-portals-over-to-ps5-and-ps4-in-2025/)
+ - [Portal Your Way to Victory: Splitgate 2 Coming to Xbox in 2025](https://news.xbox.com/en-us/2024/07/18/splitgate-2/)
+ - [Hasbro is making a Monopoly board game based off its mobile game based off the board game](https://www.polygon.com/24199990/monopoly-go-board-game-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
