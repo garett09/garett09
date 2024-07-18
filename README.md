@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What do you notice about Trump\u2019s new Secret Service team?](http://9gag.com/gag/a1mXp8P)
- - 🚯 [Sparks joy](http://9gag.com/gag/aKG341Z)
- - 🚯 [Just some cars crashing into each other.HOLY-SHIT -IT&#39;S A UNICORN..](http://9gag.com/gag/a2v5E0E)<!-- MEMES:END -->
+ - 🚖 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
+ - 🚯 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
+ - 🚯 [G.O.A.T](http://9gag.com/gag/aPAWy1w)<!-- MEMES:END -->
 
 --- 
 
