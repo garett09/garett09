@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Amazon Prime Day deals you can still shop](https://www.theverge.com/2024/7/18/24199159/amazon-prime-day-best-tech-deals-still-available-2024)
- - [Flash deal: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM drops to $1,549 today only](https://appleinsider.com/articles/24/07/18/flash-deal-apples-m3-14-inch-macbook-pro-with-16gb-ram-drops-to-1549-today-only?utm_medium=rss)
- - [Hey Google, bring back the microSD card if you’re serious about 8K video](https://www.androidauthority.com/pixel-9-8k-more-storage-3462002/)<!-- TECH:END -->
+ - [Gadgets are getting weird — and so are iPhone homescreens](https://www.theverge.com/2024/7/19/24201802/weird-gadgets-trump-shooting-apple-betas-vergecast)
+ - [Thousands of flights temporarily grounded after major global IT outage](https://www.theverge.com/2024/7/19/24201792/air-travel-flight-delay-cancel-crowdstrike-it-outage)
+ - [Pixel Satellite SOS is coming, but it won’t be free for long &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-satellite-sos-free-apk-teardown-3462798/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
