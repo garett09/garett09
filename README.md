@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate 2 portals over to PS5 and PS4 in 2025](https://blog.playstation.com/2024/07/18/splitgate-2-portals-over-to-ps5-and-ps4-in-2025/)
- - [Portal Your Way to Victory: Splitgate 2 Coming to Xbox in 2025](https://news.xbox.com/en-us/2024/07/18/splitgate-2/)
- - [Hasbro is making a Monopoly board game based off its mobile game based off the board game](https://www.polygon.com/24199990/monopoly-go-board-game-announcement)<!-- GAME:END -->
+ - [FTC says I told you judge, I warned you bro, as it unloads on Microsoft for Game Pass price hikes and &#39;a degraded product&#39; that it says break promises made to seal the Activision merger](https://www.pcgamer.com/gaming-industry/ftc-says-i-told-you-judge-i-warned-you-bro-as-it-unloads-on-microsoft-for-game-pass-price-hikes-and-a-degraded-product-that-it-says-break-promises-made-to-seal-the-activision-merger)
+ - [33,700,000 motherboards expected to ship in 2024, signaling the end of the PC market&#39;s dry spell](https://www.pcgamer.com/hardware/motherboards/33700000-motherboards-expected-to-ship-in-2024-signaling-the-end-of-the-pc-markets-dry-spell)
+ - [The misfiring Halo TV series has been cancelled just as the Chief actually found a Halo ring](https://www.pcgamer.com/movies-tv/the-misfiring-halo-tv-series-has-been-cancelled-just-as-the-chief-actually-found-a-halo-ring)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
