@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now that&#39;s a miracle](http://9gag.com/gag/a9yYbyW)
- - 🚯 [Scan of a face with years of dermal filler build up](http://9gag.com/gag/aZZpb2n)
- - 🚯 [G.O.A.T](http://9gag.com/gag/aPAWy1w)<!-- MEMES:END -->
+ - 🚖 [Anime logic](http://9gag.com/gag/avynLoX)
+ - 🚯 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
+ - 🚯 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)<!-- MEMES:END -->
 
 --- 
 
