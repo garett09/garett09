@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FTC says I told you judge, I warned you bro, as it unloads on Microsoft for Game Pass price hikes and &#39;a degraded product&#39; that it says break promises made to seal the Activision merger](https://www.pcgamer.com/gaming-industry/ftc-says-i-told-you-judge-i-warned-you-bro-as-it-unloads-on-microsoft-for-game-pass-price-hikes-and-a-degraded-product-that-it-says-break-promises-made-to-seal-the-activision-merger)
- - [33,700,000 motherboards expected to ship in 2024, signaling the end of the PC market&#39;s dry spell](https://www.pcgamer.com/hardware/motherboards/33700000-motherboards-expected-to-ship-in-2024-signaling-the-end-of-the-pc-markets-dry-spell)
- - [The misfiring Halo TV series has been cancelled just as the Chief actually found a Halo ring](https://www.pcgamer.com/movies-tv/the-misfiring-halo-tv-series-has-been-cancelled-just-as-the-chief-actually-found-a-halo-ring)<!-- GAME:END -->
+ - [The best sci-fi movies to watch on Netflix this July](https://www.polygon.com/what-to-watch/24199861/best-sci-fi-movies-watch-netflix-july-2024)
+ - [No Man&#39;s Sky&#39;s Huge Overhaul, The Software Update That Stopped The World, And More Of The Week&#39;s Top Stories](https://kotaku.com/gaming-news-no-mans-sky-update-baldurs-gate-3-1851600036)
+ - [Today&#39;s Wordle answer for Saturday, July 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-20-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
