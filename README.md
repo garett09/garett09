@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anime logic](http://9gag.com/gag/avynLoX)
- - 🚯 [No time to waste big tiddies are being posted](http://9gag.com/gag/a2v5Pb1)
- - 🚯 [Absolute unit, go sports](http://9gag.com/gag/a9yY7XZ)<!-- MEMES:END -->
+ - 🚖 [The VHS Tapes she is trying to remove from the internet...](http://9gag.com/gag/a9yYA86)
+ - 🚯 [The New Normal Barcelona](http://9gag.com/gag/aRBejmA)
+ - 🚯 [Incompatible.](http://9gag.com/gag/aBy11xD)<!-- MEMES:END -->
 
 --- 
 
