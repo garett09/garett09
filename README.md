@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gadgets are getting weird — and so are iPhone homescreens](https://www.theverge.com/2024/7/19/24201802/weird-gadgets-trump-shooting-apple-betas-vergecast)
- - [Thousands of flights temporarily grounded after major global IT outage](https://www.theverge.com/2024/7/19/24201792/air-travel-flight-delay-cancel-crowdstrike-it-outage)
- - [Pixel Satellite SOS is coming, but it won’t be free for long &lpar;APK teardown&rpar;](https://www.androidauthority.com/pixel-satellite-sos-free-apk-teardown-3462798/)<!-- TECH:END -->
+ - [A few weeks with the Daylight DC-1 tablet: rethinking screen time](https://www.theverge.com/2024/7/20/24201356/daylight-computer-dc-1-hands-on)
+ - [I really like the Samsung Galaxy Buds 3 Pro, except for this one thing](https://www.androidauthority.com/galaxy-buds-3-pro-triangle-stems-3462266/)
+ - [Galaxy Watch 7 and Ultra Review: Samsung Squares Up Its Smartwatches](https://www.cnet.com/tech/mobile/galaxy-watch-7-and-ultra-review-samsung-squares-up-its-smartwatches/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
