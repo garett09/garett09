@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies to watch on Netflix this July](https://www.polygon.com/what-to-watch/24199861/best-sci-fi-movies-watch-netflix-july-2024)
- - [No Man&#39;s Sky&#39;s Huge Overhaul, The Software Update That Stopped The World, And More Of The Week&#39;s Top Stories](https://kotaku.com/gaming-news-no-mans-sky-update-baldurs-gate-3-1851600036)
- - [Today&#39;s Wordle answer for Saturday, July 20](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-20-2024)<!-- GAME:END -->
+ - [The best Netflix TV shows of 2024 so far](https://www.polygon.com/what-to-watch/24195042/best-netflix-tv-shows-series-2024)
+ - [More than 10 years after its creation, massive Russian Oblivion mod Citadel of Madness has been translated into English](https://www.pcgamer.com/games/rpg/more-than-10-years-after-its-creation-massive-russian-oblivion-mod-citadel-of-madness-has-been-translated-into-english)
+ - [D&amp;D&#39;s new 2024 Player&#39;s Handbook will have 10 species to choose from including goliaths, and drow will be closer to their Baldur&#39;s Gate 3 version](https://www.pcgamer.com/games/rpg/dandds-new-2024-players-handbook-will-have-10-species-to-choose-from-including-goliaths-and-drow-will-be-closer-to-their-baldurs-gate-3-version)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
