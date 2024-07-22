@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Netflix TV shows of 2024 so far](https://www.polygon.com/what-to-watch/24195042/best-netflix-tv-shows-series-2024)
- - [More than 10 years after its creation, massive Russian Oblivion mod Citadel of Madness has been translated into English](https://www.pcgamer.com/games/rpg/more-than-10-years-after-its-creation-massive-russian-oblivion-mod-citadel-of-madness-has-been-translated-into-english)
- - [D&amp;D&#39;s new 2024 Player&#39;s Handbook will have 10 species to choose from including goliaths, and drow will be closer to their Baldur&#39;s Gate 3 version](https://www.pcgamer.com/games/rpg/dandds-new-2024-players-handbook-will-have-10-species-to-choose-from-including-goliaths-and-drow-will-be-closer-to-their-baldurs-gate-3-version)<!-- GAME:END -->
+ - [Wolverine Challenges Deadpool With a Cheeky Xbox Controller of His Own](https://news.xbox.com/en-us/2024/07/22/deadpool-wolverine-xbox-controller-wolverine-design/)
+ - [Stop joking about Netflix’s games and start playing them](https://www.polygon.com/24200798/play-netflix-games-already)
+ - [This Innovative Puzzle RPG Might Be A Perfect Video Game](https://kotaku.com/arranger-role-puzzling-adventure-review-puzzle-game-1851600269)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
