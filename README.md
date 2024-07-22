@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Horny men will f*ck just about anything. It&#39;s easier to get casual sex as a woman.](http://9gag.com/gag/awyVXR1)
- - 🚯 [Eva Elfie, Jia lissa , Elena koshka, Maria ryabushkina,gina gerson,Katya Clover.... you&#39;re welcome](http://9gag.com/gag/aLn98pW)
- - 🚯 [So guys.....i got fever again about these Hapa girl...](http://9gag.com/gag/aKG32XN)<!-- MEMES:END -->
+ - 🚖 [I guess we&#39;ll never know.](http://9gag.com/gag/a4PjRPy)
+ - 🚯 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
+ - 🚯 [This wont make it to hot anyway.](http://9gag.com/gag/a0ejQQv)<!-- MEMES:END -->
 
 --- 
 
