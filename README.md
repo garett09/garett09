@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve been using Samsung One UI 6.1.1 for a week and these are my 5 favorite features](https://www.androidauthority.com/one-ui-6-1-1-features-3462823/)
- - [Suunto’s new headphones finally made me appreciate bone conduction](https://www.theverge.com/2024/7/21/24200615/suunto-sonic-suunto-wing-bone-conduction-headphones-review)
- - [My search for a great Android emulator for my new Mac took me down a rabbit hole](https://www.androidauthority.com/mac-android-emulator-3460118/)<!-- TECH:END -->
+ - [Toronto-based AI startup Cohere raised a $500M Series D led by Canadian pension fund PSP at a $5.5B valuation, after raising $270M at a $2.2B valuation in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p9#a240722p9)
+ - [Whole iPhone 17 range to get 120Hz ProMotion plus slim model](https://appleinsider.com/articles/24/07/22/whole-iphone-17-range-to-get-120hz-promotion-plus-slim-model?utm_medium=rss)
+ - [22 Best Nintendo Switch Accessories &lpar;2024&rpar;: Docks, Cases, Headsets](https://www.wired.com/gallery/best-nintendo-switch-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
