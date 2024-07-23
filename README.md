@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wolverine Challenges Deadpool With a Cheeky Xbox Controller of His Own](https://news.xbox.com/en-us/2024/07/22/deadpool-wolverine-xbox-controller-wolverine-design/)
- - [Stop joking about Netflix’s games and start playing them](https://www.polygon.com/24200798/play-netflix-games-already)
- - [This Innovative Puzzle RPG Might Be A Perfect Video Game](https://kotaku.com/arranger-role-puzzling-adventure-review-puzzle-game-1851600269)<!-- GAME:END -->
+ - [I&#39;m hopeless with a brush and canvas IRL, but this cosy painting game has me feeling like the next Van Gogh](https://www.pcgamer.com/games/adventure/im-hopeless-with-a-brush-and-canvas-irl-but-this-cosy-painting-game-has-me-feeling-like-the-next-van-gogh)
+ - [Helldivers 2’s biggest update yet, Escalation of Freedom, drops August 6](https://blog.playstation.com/2024/07/23/helldivers-2s-biggest-update-yet-escalation-of-freedom-drops-august-6/)
+ - [Survival horror game Conscript puts you face-down in the muck of World War I](https://www.polygon.com/24203819/conscript-review-world-war-1-survival-horror)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
