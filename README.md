@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toronto-based AI startup Cohere raised a $500M Series D led by Canadian pension fund PSP at a $5.5B valuation, after raising $270M at a $2.2B valuation in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240722/p9#a240722p9)
- - [Whole iPhone 17 range to get 120Hz ProMotion plus slim model](https://appleinsider.com/articles/24/07/22/whole-iphone-17-range-to-get-120hz-promotion-plus-slim-model?utm_medium=rss)
- - [22 Best Nintendo Switch Accessories &lpar;2024&rpar;: Docks, Cases, Headsets](https://www.wired.com/gallery/best-nintendo-switch-accessories/)<!-- TECH:END -->
+ - [Adobe rolls out more generative AI features to Illustrator and Photoshop](https://www.theverge.com/2024/7/23/24204231/adobe-photoshop-illustrator-generative-ai-firefly-vector-features)
+ - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
+ - [Cadillac’s extra-long, extra-yellow EV has a fridge in the back seat](https://www.theverge.com/2024/7/23/24203877/cadillac-sollei-bespoke-ev-concept-convertible-celestiq)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
