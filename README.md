@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I guess we&#39;ll never know.](http://9gag.com/gag/a4PjRPy)
- - 🚯 [Just the President Samia Suluhu of Tanzania and his entourage on the road](http://9gag.com/gag/aYQLy0m)
- - 🚯 [This wont make it to hot anyway.](http://9gag.com/gag/a0ejQQv)<!-- MEMES:END -->
+ - 🚖 [Be a good man and a great dad](http://9gag.com/gag/azxAe8x)
+ - 🚯 [Planky](http://9gag.com/gag/aqyLgzP)
+ - 🚯 [Criminal minds solving hard case](http://9gag.com/gag/azxA1yZ)<!-- MEMES:END -->
 
 --- 
 
