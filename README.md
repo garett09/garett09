@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m hopeless with a brush and canvas IRL, but this cosy painting game has me feeling like the next Van Gogh](https://www.pcgamer.com/games/adventure/im-hopeless-with-a-brush-and-canvas-irl-but-this-cosy-painting-game-has-me-feeling-like-the-next-van-gogh)
- - [Helldivers 2’s biggest update yet, Escalation of Freedom, drops August 6](https://blog.playstation.com/2024/07/23/helldivers-2s-biggest-update-yet-escalation-of-freedom-drops-august-6/)
- - [Survival horror game Conscript puts you face-down in the muck of World War I](https://www.polygon.com/24203819/conscript-review-world-war-1-survival-horror)<!-- GAME:END -->
+ - [Marvel Studios can fix the MCU — but it has to start Saturday at SDCC](https://www.polygon.com/sdcc/24203804/marvel-studios-sdcc-2024-hall-h-panel-preview)
+ - [Gran Turismo 7 Update 1.49 brings six new cars, updated physics simulation model, and more on July 24](https://blog.playstation.com/2024/07/24/gran-turismo-7-update-1-49-brings-six-new-cars-updated-physics-simulation-model-and-more-on-july-24/)
+ - [New PS5 beta rolls out tomorrow with personalized 3D audio profiles and new Remote Play settings](https://blog.playstation.com/2024/07/24/new-ps5-beta-rolls-out-tomorrow-with-personalized-3d-audio-profiles-and-new-remote-play-settings/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
