@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe rolls out more generative AI features to Illustrator and Photoshop](https://www.theverge.com/2024/7/23/24204231/adobe-photoshop-illustrator-generative-ai-firefly-vector-features)
- - [Google gives up on Chrome plan to ditch third-party cookies](https://appleinsider.com/articles/24/07/23/google-gives-up-on-chrome-plan-to-ditch-third-party-cookies?utm_medium=rss)
- - [Cadillac’s extra-long, extra-yellow EV has a fridge in the back seat](https://www.theverge.com/2024/7/23/24203877/cadillac-sollei-bespoke-ev-concept-convertible-celestiq)<!-- TECH:END -->
+ - [iPhone 17 cameras may get variable aperture for better bokeh](https://appleinsider.com/articles/24/07/24/iphone-17-cameras-may-get-variable-aperture-for-better-bokeh?utm_medium=rss)
+ - [First responder network RapidSOS adds Emergency SOS video support with iOS 18](https://appleinsider.com/articles/24/07/24/first-responder-network-rapidsos-adds-emergency-sos-video-support-with-ios-18?utm_medium=rss)
+ - [Google Play won’t let that one weird app you use ruin your recommendations](https://www.androidauthority.com/google-play-app-recommendations-3463777/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
