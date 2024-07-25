@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Studios can fix the MCU — but it has to start Saturday at SDCC](https://www.polygon.com/sdcc/24203804/marvel-studios-sdcc-2024-hall-h-panel-preview)
- - [Gran Turismo 7 Update 1.49 brings six new cars, updated physics simulation model, and more on July 24](https://blog.playstation.com/2024/07/24/gran-turismo-7-update-1-49-brings-six-new-cars-updated-physics-simulation-model-and-more-on-july-24/)
- - [New PS5 beta rolls out tomorrow with personalized 3D audio profiles and new Remote Play settings](https://blog.playstation.com/2024/07/24/new-ps5-beta-rolls-out-tomorrow-with-personalized-3d-audio-profiles-and-new-remote-play-settings/)<!-- GAME:END -->
+ - [Bleak report alleges that Activision already has an AI-generated cosmetic in Call of Duty—with artists reportedly &#39;forced to use AI to aid in their work&#39; and pushed into outsourcing](https://www.pcgamer.com/games/call-of-duty/bleak-report-alleges-that-activision-already-has-an-ai-generated-cosmetic-in-call-of-duty-with-artists-reportedly-forced-to-use-ai-to-aid-in-their-work-and-pushed-into-outsourcing)
+ - [&#39;This is the most polished map we&#39;ve ever shipped&#39;: Hunt: Showdown 1896 director goes deep on Hunt&#39;s first new map in 3 years](https://www.pcgamer.com/games/this-is-the-most-polished-map-we-ve-ever-shipped-hunt-showdown-1896-director-goes-deep-on-hunt-s-first-new-map-in-3-years)
+ - [S.T.A.L.K.E.R. 2: New Release Date and Developer Deep Dive Coming Soon](https://www.youtube.com/watch?v=vxeGyXSM5Pc#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
