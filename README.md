@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mom films her child showing off the most venomous octopus to the camera.](http://9gag.com/gag/a34j5Ve)
- - 🚯 [CCTV footage shows the moment a distressed Australian woman enters a Kebab house seeking help after being gang r*ped by 5 men of \u2018African appearance\u2019 in Paris.](http://9gag.com/gag/axyD302)
- - 🚯 [A real G](http://9gag.com/gag/aryNm5p)<!-- MEMES:END -->
+ - 🚖 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
+ - 🚯 [.................](http://9gag.com/gag/a9yY6EK)
+ - 🚯 [How hikers was born](http://9gag.com/gag/amozoeo)<!-- MEMES:END -->
 
 --- 
 
