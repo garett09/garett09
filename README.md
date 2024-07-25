@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 cameras may get variable aperture for better bokeh](https://appleinsider.com/articles/24/07/24/iphone-17-cameras-may-get-variable-aperture-for-better-bokeh?utm_medium=rss)
- - [First responder network RapidSOS adds Emergency SOS video support with iOS 18](https://appleinsider.com/articles/24/07/24/first-responder-network-rapidsos-adds-emergency-sos-video-support-with-ios-18?utm_medium=rss)
- - [Google Play won’t let that one weird app you use ruin your recommendations](https://www.androidauthority.com/google-play-app-recommendations-3463777/)<!-- TECH:END -->
+ - [The UK&#39;s FCA fines Coinbase &amp;pound;3.5M for providing payment services to over 13,000 &quot;high-risk&quot; customers, in its first enforcement action against a crypto company &lpar;Financial Times&rpar;](http://www.techmeme.com/240725/p15#a240725p15)
+ - [Connect Wireless Headphones to Your TV to Watch Movies and Shows in Peace](https://www.wired.com/story/how-to-connect-wireless-headphones-to-your-tv/)
+ - [The Disney Plus, Hulu, and Max streaming bundle is now available](https://www.theverge.com/2024/7/25/24205865/disney-plus-hulu-max-streaming-bundle-price-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
