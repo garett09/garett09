@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s FCA fines Coinbase &amp;pound;3.5M for providing payment services to over 13,000 &quot;high-risk&quot; customers, in its first enforcement action against a crypto company &lpar;Financial Times&rpar;](http://www.techmeme.com/240725/p15#a240725p15)
- - [Connect Wireless Headphones to Your TV to Watch Movies and Shows in Peace](https://www.wired.com/story/how-to-connect-wireless-headphones-to-your-tv/)
- - [The Disney Plus, Hulu, and Max streaming bundle is now available](https://www.theverge.com/2024/7/25/24205865/disney-plus-hulu-max-streaming-bundle-price-availability)<!-- TECH:END -->
+ - [How to stop Musk&#39;s Grok AI from training on anything you&#39;ve ever said or done on X](https://appleinsider.com/inside/macos/tips/how-to-stop-musks-grok-ai-from-training-on-anything-youve-ever-said-or-done-on-x?utm_medium=rss)
+ - [The Google era is officially over](https://www.theverge.com/2024/7/26/24206582/searchgpt-google-reddit-ai-search-alexa-vergecast)
+ - [An interview with Samsung&#39;s mobile chief TM Roh on the Galaxy AI push, monetizing AI, future products in foldables and mixed reality, and more &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240726/p7#a240726p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
