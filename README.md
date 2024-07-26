@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro ain&#39;t a simp](http://9gag.com/gag/apRLDw5)
- - 🚯 [.................](http://9gag.com/gag/a9yY6EK)
- - 🚯 [How hikers was born](http://9gag.com/gag/amozoeo)<!-- MEMES:END -->
+ - 🚖 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
+ - 🚯 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)
+ - 🚯 [Must feel great to set a trend](http://9gag.com/gag/a9yY2GW)<!-- MEMES:END -->
 
 --- 
 
