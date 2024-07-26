@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bleak report alleges that Activision already has an AI-generated cosmetic in Call of Duty—with artists reportedly &#39;forced to use AI to aid in their work&#39; and pushed into outsourcing](https://www.pcgamer.com/games/call-of-duty/bleak-report-alleges-that-activision-already-has-an-ai-generated-cosmetic-in-call-of-duty-with-artists-reportedly-forced-to-use-ai-to-aid-in-their-work-and-pushed-into-outsourcing)
- - [&#39;This is the most polished map we&#39;ve ever shipped&#39;: Hunt: Showdown 1896 director goes deep on Hunt&#39;s first new map in 3 years](https://www.pcgamer.com/games/this-is-the-most-polished-map-we-ve-ever-shipped-hunt-showdown-1896-director-goes-deep-on-hunt-s-first-new-map-in-3-years)
- - [S.T.A.L.K.E.R. 2: New Release Date and Developer Deep Dive Coming Soon](https://www.youtube.com/watch?v=vxeGyXSM5Pc#new_tab)<!-- GAME:END -->
+ - [Puzzle games should always let you skip levels that are too hard](https://www.polygon.com/24205494/puzzle-games-rules-skipping-levels)
+ - [Hard to believe but Secure Boot BIOS security has been compromised on hundreds of PC models from big brands because firmware engineers used four-letter passwords](https://www.pcgamer.com/hardware/hard-to-believe-but-secure-boot-bios-security-has-been-compromised-on-hundreds-of-pc-models-from-big-brands-because-firmware-engineers-used-four-letter-passwords)
+ - [After an icy response to the D&amp;D 2024 Ranger&#39;s proposed reliance on spells, lead rules designer Jeremy Crawford says don&#39;t worry, the spells should help](https://www.pcgamer.com/games/rpg/after-an-icy-response-to-the-d-d-2024-ranger-s-proposed-reliance-on-spells-lead-designer-jeremy-crawford-says-don-t-worry-the-spells-should-help)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
