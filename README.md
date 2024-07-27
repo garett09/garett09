@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Puzzle games should always let you skip levels that are too hard](https://www.polygon.com/24205494/puzzle-games-rules-skipping-levels)
- - [Hard to believe but Secure Boot BIOS security has been compromised on hundreds of PC models from big brands because firmware engineers used four-letter passwords](https://www.pcgamer.com/hardware/hard-to-believe-but-secure-boot-bios-security-has-been-compromised-on-hundreds-of-pc-models-from-big-brands-because-firmware-engineers-used-four-letter-passwords)
- - [After an icy response to the D&amp;D 2024 Ranger&#39;s proposed reliance on spells, lead rules designer Jeremy Crawford says don&#39;t worry, the spells should help](https://www.pcgamer.com/games/rpg/after-an-icy-response-to-the-d-d-2024-ranger-s-proposed-reliance-on-spells-lead-designer-jeremy-crawford-says-don-t-worry-the-spells-should-help)<!-- GAME:END -->
+ - [Fallout: London Arrives, Call Of Duty Hits Game Pass, And More Of The Week&#39;s Top News](https://kotaku.com/fallout-london-call-of-duty-game-pass-fortnite-tesla-1851606440)
+ - [The best movies leaving Netflix, Max, and Prime at the end of July 2024](https://www.polygon.com/what-to-watch/24205364/best-movies-netflix-amazon-hulu-leaving-july-2024)
+ - [Today&#39;s Wordle answer for Saturday, July 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-27-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
