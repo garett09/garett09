@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Civilize Vs. Decivilize](http://9gag.com/gag/azxARqp)
- - 🚯 [Bring back old 9gag](http://9gag.com/gag/a9yYBAW)
- - 🚯 [Must feel great to set a trend](http://9gag.com/gag/a9yY2GW)<!-- MEMES:END -->
+ - 🚖 [Clown Olympics](http://9gag.com/gag/a874QNZ)
+ - 🚯 [Lord of the Chad](http://9gag.com/gag/awyVvrD)
+ - 🚯 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)<!-- MEMES:END -->
 
 --- 
 
