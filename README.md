@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stop Musk&#39;s Grok AI from training on anything you&#39;ve ever said or done on X](https://appleinsider.com/inside/macos/tips/how-to-stop-musks-grok-ai-from-training-on-anything-youve-ever-said-or-done-on-x?utm_medium=rss)
- - [The Google era is officially over](https://www.theverge.com/2024/7/26/24206582/searchgpt-google-reddit-ai-search-alexa-vergecast)
- - [An interview with Samsung&#39;s mobile chief TM Roh on the Galaxy AI push, monetizing AI, future products in foldables and mixed reality, and more &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240726/p7#a240726p7)<!-- TECH:END -->
+ - [I really miss the rotating bezel on this Samsung Galaxy Watch Ultra](https://www.androidauthority.com/miss-rotating-bezel-samsung-galaxy-watch-ultra-3462953/)
+ - [DreamCloud Hybrid Mattress Review 2024: A Premium, Budget-Friendly Bed](https://www.cnet.com/health/sleep/dreamcloud-mattress-review/#ftag=CAD590a51e)
+ - [Best Internet Providers in Annapolis, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-annapolis-md/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
