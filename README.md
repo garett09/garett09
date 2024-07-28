@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown Olympics](http://9gag.com/gag/a874QNZ)
- - 🚯 [Lord of the Chad](http://9gag.com/gag/awyVvrD)
+ - 🚖 [At least it had lbgtq pro max performance](http://9gag.com/gag/aVve6Yw)
+ - 🚯 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
  - 🚯 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)<!-- MEMES:END -->
 
 --- 
