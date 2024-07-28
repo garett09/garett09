@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I really miss the rotating bezel on this Samsung Galaxy Watch Ultra](https://www.androidauthority.com/miss-rotating-bezel-samsung-galaxy-watch-ultra-3462953/)
- - [DreamCloud Hybrid Mattress Review 2024: A Premium, Budget-Friendly Bed](https://www.cnet.com/health/sleep/dreamcloud-mattress-review/#ftag=CAD590a51e)
- - [Best Internet Providers in Annapolis, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-annapolis-md/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at AIxCC, or AI Cyber Challenge, a competition launched in 2023 and run by DARPA to design an AI program that scans open source code for security flaws &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240728/p5#a240728p5)
+ - [PS5 Buggin&#39; Out? Here Are a Few Ways to Factory Reset It](https://www.cnet.com/tech/gaming/ps5-buggin-out-here-are-a-few-ways-to-factory-reset-it/#ftag=CAD590a51e)
+ - [How This Brain Implant Is Using ChatGPT](https://www.cnet.com/tech/computing/how-this-brain-implant-is-using-chatgpt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
