@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout: London Arrives, Call Of Duty Hits Game Pass, And More Of The Week&#39;s Top News](https://kotaku.com/fallout-london-call-of-duty-game-pass-fortnite-tesla-1851606440)
- - [The best movies leaving Netflix, Max, and Prime at the end of July 2024](https://www.polygon.com/what-to-watch/24205364/best-movies-netflix-amazon-hulu-leaving-july-2024)
- - [Today&#39;s Wordle answer for Saturday, July 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-27-2024)<!-- GAME:END -->
+ - [Isles of Sea and Sky taught me it’s okay to move on](https://www.polygon.com/24205518/isles-of-sea-and-sky-sokoban-impressions)
+ - [Marvel shows footage from Thunderbolts* at Comic-Con, doesn’t explain the asterisk](https://www.polygon.com/sdcc/24205391/thunderbolts-first-trailer-marvel-mcu-sdcc-2024)
+ - [Today&#39;s Wordle answer for Sunday, July 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-28-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
