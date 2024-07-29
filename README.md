@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AIxCC, or AI Cyber Challenge, a competition launched in 2023 and run by DARPA to design an AI program that scans open source code for security flaws &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240728/p5#a240728p5)
- - [PS5 Buggin&#39; Out? Here Are a Few Ways to Factory Reset It](https://www.cnet.com/tech/gaming/ps5-buggin-out-here-are-a-few-ways-to-factory-reset-it/#ftag=CAD590a51e)
- - [How This Brain Implant Is Using ChatGPT](https://www.cnet.com/tech/computing/how-this-brain-implant-is-using-chatgpt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korea will provide $400M to vendors hit by payment delays on two Qoo10 e-commerce platforms, and Qoo10&#39;s founder pledges to use his own assets to help &lpar;Reuters&rpar;](http://www.techmeme.com/240729/p4#a240729p4)
+ - [The AI Keeps the Score](https://www.theverge.com/c/24182327/olympics-gymnastics-ai-judging-fujitsu-jss-fig)
+ - [Samsung Galaxy Ring battery life: Here’s what to expect](https://www.androidauthority.com/samsung-galaxy-ring-battery-life-testing-3458592/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
