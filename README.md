@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Isles of Sea and Sky taught me it’s okay to move on](https://www.polygon.com/24205518/isles-of-sea-and-sky-sokoban-impressions)
- - [Marvel shows footage from Thunderbolts* at Comic-Con, doesn’t explain the asterisk](https://www.polygon.com/sdcc/24205391/thunderbolts-first-trailer-marvel-mcu-sdcc-2024)
- - [Today&#39;s Wordle answer for Sunday, July 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-july-28-2024)<!-- GAME:END -->
+ - [MIT researchers create a super-fast, super-tough, super-slidey transistor and claim that in &#39;10 to 20 years from now could change the world&#39;](https://www.pcgamer.com/hardware/ssds/mit-researchers-create-a-super-fast-super-tough-super-slidey-transistor-and-claim-that-in-10-to-20-years-from-now-could-change-the-world)
+ - [Clair Obscur: Expedition 33 devs discuss classic turn-based RPG inspiration and real-time mechanics](https://blog.playstation.com/2024/07/29/clair-obscur-expedition-33-devs-discuss-classic-turn-based-rpg-inspiration-and-real-time-mechanics/)
+ - [In Brandon Sanderson’s Stormlight RPG players are encouraged to break canon](https://www.polygon.com/24204670/brandon-sanderson-stormlight-roleplaying-game-narrative-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
