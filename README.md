@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least it had lbgtq pro max performance](http://9gag.com/gag/aVve6Yw)
- - 🚯 [At this rate there will be more strict Muslims in Sweden than in Saudi Arabia.](http://9gag.com/gag/aGyDv57)
- - 🚯 [Thick tights save lives](http://9gag.com/gag/a6ZQ4mq)<!-- MEMES:END -->
+ - 🚖 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
+ - 🚯 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
+ - 🚯 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)<!-- MEMES:END -->
 
 --- 
 
