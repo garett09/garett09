@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea will provide $400M to vendors hit by payment delays on two Qoo10 e-commerce platforms, and Qoo10&#39;s founder pledges to use his own assets to help &lpar;Reuters&rpar;](http://www.techmeme.com/240729/p4#a240729p4)
- - [The AI Keeps the Score](https://www.theverge.com/c/24182327/olympics-gymnastics-ai-judging-fujitsu-jss-fig)
- - [Samsung Galaxy Ring battery life: Here’s what to expect](https://www.androidauthority.com/samsung-galaxy-ring-battery-life-testing-3458592/)<!-- TECH:END -->
+ - [Facebook not working? Here are the most common issues and how to fix them! &lpar;Update&rpar;](https://www.androidauthority.com/facebook-not-working-fix-823530/)
+ - [The UK ICO says the country&#39;s election authority failed to take &quot;basic steps&quot; to protect the personal data of 40M people before a 2021 China-backed cyberattack &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/240730/p14#a240730p14)
+ - [The history of Roku and the fight over CarPlay](https://www.theverge.com/2024/7/30/24205129/roku-netflix-player-carplay-automakers-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
