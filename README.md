@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MIT researchers create a super-fast, super-tough, super-slidey transistor and claim that in &#39;10 to 20 years from now could change the world&#39;](https://www.pcgamer.com/hardware/ssds/mit-researchers-create-a-super-fast-super-tough-super-slidey-transistor-and-claim-that-in-10-to-20-years-from-now-could-change-the-world)
- - [Clair Obscur: Expedition 33 devs discuss classic turn-based RPG inspiration and real-time mechanics](https://blog.playstation.com/2024/07/29/clair-obscur-expedition-33-devs-discuss-classic-turn-based-rpg-inspiration-and-real-time-mechanics/)
- - [In Brandon Sanderson’s Stormlight RPG players are encouraged to break canon](https://www.polygon.com/24204670/brandon-sanderson-stormlight-roleplaying-game-narrative-preview)<!-- GAME:END -->
+ - [Meta&#39;s Mark Zuckerberg chews AI cud with Nvidia&#39;s Jen-Hsun Huang, talking about delicious cows, slicing tomatoes, and old Chinese guys drinking whiskey](https://www.pcgamer.com/software/ai/metas-mark-zuckerberg-chews-ai-cud-with-nvidias-jen-hsun-huang-talking-about-delicious-cows-slicing-tomatoes-and-old-chinese-guys-drinking-whiskey)
+ - [Suicide Squad: Kill The Justice League only had one job, but it&#39;s already started to revive the Justice League](https://www.pcgamer.com/games/action/suicide-squad-kill-the-justice-league-only-had-one-job-but-its-already-started-to-revive-the-justice-league)
+ - [New Helldivers 2 Freedom’s Flame Warbond burns bright on August 8](https://blog.playstation.com/2024/07/30/new-helldivers-2-freedoms-flame-warbond-burns-bright-on-august-8/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
