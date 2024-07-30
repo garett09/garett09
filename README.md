@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [9 different mug shots and I still think I can fix her , every one deserves a second chance](http://9gag.com/gag/aLn9ZV5)
- - 🚯 [When the bed is made of cardboard.](http://9gag.com/gag/amoz4Dy)
- - 🚯 [Cheers to all the fathers](http://9gag.com/gag/aLn9oEv)<!-- MEMES:END -->
+ - 🚖 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
+ - 🚯 [Wow](http://9gag.com/gag/aW4MwG2)
+ - 🚯 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
 
 --- 
 
