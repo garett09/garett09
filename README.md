@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta&#39;s Mark Zuckerberg chews AI cud with Nvidia&#39;s Jen-Hsun Huang, talking about delicious cows, slicing tomatoes, and old Chinese guys drinking whiskey](https://www.pcgamer.com/software/ai/metas-mark-zuckerberg-chews-ai-cud-with-nvidias-jen-hsun-huang-talking-about-delicious-cows-slicing-tomatoes-and-old-chinese-guys-drinking-whiskey)
- - [Suicide Squad: Kill The Justice League only had one job, but it&#39;s already started to revive the Justice League](https://www.pcgamer.com/games/action/suicide-squad-kill-the-justice-league-only-had-one-job-but-its-already-started-to-revive-the-justice-league)
- - [New Helldivers 2 Freedom’s Flame Warbond burns bright on August 8](https://blog.playstation.com/2024/07/30/new-helldivers-2-freedoms-flame-warbond-burns-bright-on-august-8/)<!-- GAME:END -->
+ - [We pushed this generative AI choose-your-own adventure game to the limits](https://www.polygon.com/review/24209670/chatgpt-deepgame-generative-ai-gaming)
+ - [How to infuse the Lifeless Stone Ring in World of Warcraft](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-lifeless-stone-ring)
+ - [SCP: Secret Lab player who &#39;can&#39;t remember s***&#39; invents their own custom mapping tool like a horror game MacGyver](https://www.pcgamer.com/games/horror/scp-secret-lab-player-who-cant-remember-s-invents-their-own-custom-mapping-tool-like-a-horror-game-macgyver)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
