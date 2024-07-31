@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook not working? Here are the most common issues and how to fix them! &lpar;Update&rpar;](https://www.androidauthority.com/facebook-not-working-fix-823530/)
- - [The UK ICO says the country&#39;s election authority failed to take &quot;basic steps&quot; to protect the personal data of 40M people before a 2021 China-backed cyberattack &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/240730/p14#a240730p14)
- - [The history of Roku and the fight over CarPlay](https://www.theverge.com/2024/7/30/24205129/roku-netflix-player-carplay-automakers-vergecast)<!-- TECH:END -->
+ - [iPhone dominates top 10 smartphones list for Q2 2024](https://appleinsider.com/articles/24/07/31/iphone-dominates-top-10-smartphones-list-for-q2-2024?utm_medium=rss)
+ - [Google rolls out new features to make removing explicit deepfakes from Search at scale easier and to prevent them from appearing high up in results &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240731/p15#a240731p15)
+ - [Eufy S1 Pro review: Should you buy it?](https://www.androidauthority.com/anker-eufy-s1-pro-review-3440757/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
