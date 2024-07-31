@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Venezuelan Criminal Gang &lpar;Tren del Llano&rpar; orders Nicolas Maduro to respect the real vote, otherwise they will begin their attack.](http://9gag.com/gag/apRLyYp)
- - 🚯 [Wow](http://9gag.com/gag/aW4MwG2)
- - 🚯 [This post is still alive more than year](http://9gag.com/gag/a4PjD9m)<!-- MEMES:END -->
+ - 🚖 [Real Wtfact](http://9gag.com/gag/a7od4qz)
+ - 🚯 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
+ - 🚯 [Nice one, guy](http://9gag.com/gag/aBy1pzx)<!-- MEMES:END -->
 
 --- 
 
