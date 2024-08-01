@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Real Wtfact](http://9gag.com/gag/a7od4qz)
- - 🚯 [Funny genetics. Brazilian table tennis player Bruna Takahashi &lpar;right&rpar; with her parents and sister.](http://9gag.com/gag/aNDWxqG)
- - 🚯 [Nice one, guy](http://9gag.com/gag/aBy1pzx)<!-- MEMES:END -->
+ - 🚖 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
+ - 🚯 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
+ - 🚯 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)<!-- MEMES:END -->
 
 --- 
 
