@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We pushed this generative AI choose-your-own adventure game to the limits](https://www.polygon.com/review/24209670/chatgpt-deepgame-generative-ai-gaming)
- - [How to infuse the Lifeless Stone Ring in World of Warcraft](https://www.pcgamer.com/games/mmo/world-of-warcraft/wow-lifeless-stone-ring)
- - [SCP: Secret Lab player who &#39;can&#39;t remember s***&#39; invents their own custom mapping tool like a horror game MacGyver](https://www.pcgamer.com/games/horror/scp-secret-lab-player-who-cant-remember-s-invents-their-own-custom-mapping-tool-like-a-horror-game-macgyver)<!-- GAME:END -->
+ - [Xbox @ gamescom 2024](https://news.xbox.com/en-us/2024/08/01/xbox-gamescom-2024/)
+ - [Every movie and show coming to Netflix in August](https://www.polygon.com/entertainment/2024/8/1/24208884/new-netflix-august-2024-movies-tv-to-watch)
+ - [As rage factories howl about Kay Vess&#39; looks, Star Wars Outlaws lead says there&#39;s no point engaging with &#39;bad faith&#39; criticism: &#39;No nuance and no possibility of real dialogue&#39;](https://www.pcgamer.com/games/action/as-rage-factories-howl-about-kay-vess-looks-star-wars-outlaws-lead-says-theres-no-point-engaging-with-bad-faith-criticism-no-nuance-and-no-possibility-of-real-dialogue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
