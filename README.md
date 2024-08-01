@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone dominates top 10 smartphones list for Q2 2024](https://appleinsider.com/articles/24/07/31/iphone-dominates-top-10-smartphones-list-for-q2-2024?utm_medium=rss)
- - [Google rolls out new features to make removing explicit deepfakes from Search at scale easier and to prevent them from appearing high up in results &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240731/p15#a240731p15)
- - [Eufy S1 Pro review: Should you buy it?](https://www.androidauthority.com/anker-eufy-s1-pro-review-3440757/)<!-- TECH:END -->
+ - [Roblox reports Q2 revenue up 31% YoY to $894M, bookings up 22% YoY to $995M, a $206M net loss, average DAUs up 21% YoY to 79.5M, projects Q3 bookings above est. &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240801/p19#a240801p19)
+ - [What Project 2025 Means for Big Tech … and Everyone Else](https://www.wired.com/story/project-2025-tech-industry/)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
