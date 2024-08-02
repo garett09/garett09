@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Only old gamers understand](http://9gag.com/gag/a87pW5Y)
- - 🚯 [Bro got both eyes open \ud83d\ude2d](http://9gag.com/gag/aZZBxx6)
- - 🚯 [Why you should never eat undercooked bear meat](http://9gag.com/gag/ajPq0B8)<!-- MEMES:END -->
+ - 🚖 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
+ - 🚯 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
+ - 🚯 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)<!-- MEMES:END -->
 
 --- 
 
