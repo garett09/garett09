@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox @ gamescom 2024](https://news.xbox.com/en-us/2024/08/01/xbox-gamescom-2024/)
- - [Every movie and show coming to Netflix in August](https://www.polygon.com/entertainment/2024/8/1/24208884/new-netflix-august-2024-movies-tv-to-watch)
- - [As rage factories howl about Kay Vess&#39; looks, Star Wars Outlaws lead says there&#39;s no point engaging with &#39;bad faith&#39; criticism: &#39;No nuance and no possibility of real dialogue&#39;](https://www.pcgamer.com/games/action/as-rage-factories-howl-about-kay-vess-looks-star-wars-outlaws-lead-says-theres-no-point-engaging-with-bad-faith-criticism-no-nuance-and-no-possibility-of-real-dialogue)<!-- GAME:END -->
+ - [NZXT will rent you an RTX 4070 Ti Super system for $169 a month or $2,028 a year but we can find deals a lot better than that](https://www.pcgamer.com/hardware/gaming-pcs/nzxt-will-rent-you-an-rtx-4070-ti-super-system-for-dollar169-a-month-or-dollar2028-a-year-but-we-can-find-deals-a-lot-better-than-that)
+ - [Closer the Distance: The Complex Characters of This Slice-of-Life Sim](https://news.xbox.com/en-us/2024/08/02/closer-the-distance-characters/)
+ - [The new D&amp;D Player’s Handbook makes the old one feel like a dictionary](https://www.polygon.com/24210741/dnd-players-handbook-2024-phb-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
