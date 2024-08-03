@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another Apple ad campaign crashes and burns under pressure from viewers](https://appleinsider.com/articles/24/08/02/another-apple-ad-campaign-crashes-and-burns-under-pressure-from-viewers?utm_medium=rss)
- - [Samsung let me down with the Galaxy Watch Ultra](https://www.androidauthority.com/galaxy-watch-ultra-critique-3463929/)
- - [Trump&#39;s Crypto Embrace Could Be a Disaster for Bitcoin](https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/)<!-- TECH:END -->
+ - [Berkshire Hathaway unloaded more than half of its Apple stock last quarter](https://appleinsider.com/articles/24/08/03/berkshire-hathaway-unloaded-more-than-half-of-its-apple-stock-last-quarter?utm_medium=rss)
+ - [iPhone Fold rumored to launch with foldable iPad in 2026](https://appleinsider.com/articles/24/08/02/iphone-fold-to-be-joined-by-foldable-ipad-in-2026?utm_medium=rss)
+ - [LCD, IPS, OLED, and Quantum Dots: All the Confusing Display Terms, Explained](https://www.wired.com/story/lcd-ips-oled-and-quantum-dots-all-the-confusing-display-terms-explained/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
