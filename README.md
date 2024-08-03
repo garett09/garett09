@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NZXT will rent you an RTX 4070 Ti Super system for $169 a month or $2,028 a year but we can find deals a lot better than that](https://www.pcgamer.com/hardware/gaming-pcs/nzxt-will-rent-you-an-rtx-4070-ti-super-system-for-dollar169-a-month-or-dollar2028-a-year-but-we-can-find-deals-a-lot-better-than-that)
- - [Closer the Distance: The Complex Characters of This Slice-of-Life Sim](https://news.xbox.com/en-us/2024/08/02/closer-the-distance-characters/)
- - [The new D&amp;D Player’s Handbook makes the old one feel like a dictionary](https://www.polygon.com/24210741/dnd-players-handbook-2024-phb-impressions)<!-- GAME:END -->
+ - [Larian&#39;s not holding back for its next two RPGs: &#39;The machine was meant to make large games&#39;](https://www.pcgamer.com/games/baldurs-gate/larians-not-holding-back-for-its-next-two-rpgs-the-machine-was-meant-to-make-large-games)
+ - [Old school role-play system Shadowdark wins top honors at Gen Con’s Ennie awards](https://www.polygon.com/24209789/ennie-award-winners-2024-shadowdark-eat-the-reich)
+ - [Dr Disrespect Returns, Bungie Hit By Massive Layoffs, And More Of The Week&#39;s Biggest Gaming News](https://kotaku.com/dr-disrespect-bungie-layoffs-gaming-news-1851612051)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
