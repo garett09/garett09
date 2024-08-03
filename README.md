@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Worse Uber ever](http://9gag.com/gag/aBywYRz)
- - 🚯 [The Italian female boxer &lpar;Angela Carini&rpar; give up after only 45 sec of match after she realizing that she was indeed fighting against a man &lpar;Imane Khelif&rpar;.](http://9gag.com/gag/a5QZKMy)
- - 🚯 [The target for Olympics air rifle and pistol events](http://9gag.com/gag/aNDdnv6)<!-- MEMES:END -->
+ - 🚖 [Final Boss\u2026](http://9gag.com/gag/a5QZ7KN)
+ - 🚯 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
+ - 🚯 [Thats what she said.](http://9gag.com/gag/aD2jj0O)<!-- MEMES:END -->
 
 --- 
 
