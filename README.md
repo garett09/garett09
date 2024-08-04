@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berkshire Hathaway unloaded more than half of its Apple stock last quarter](https://appleinsider.com/articles/24/08/03/berkshire-hathaway-unloaded-more-than-half-of-its-apple-stock-last-quarter?utm_medium=rss)
- - [iPhone Fold rumored to launch with foldable iPad in 2026](https://appleinsider.com/articles/24/08/02/iphone-fold-to-be-joined-by-foldable-ipad-in-2026?utm_medium=rss)
- - [LCD, IPS, OLED, and Quantum Dots: All the Confusing Display Terms, Explained](https://www.wired.com/story/lcd-ips-oled-and-quantum-dots-all-the-confusing-display-terms-explained/)<!-- TECH:END -->
+ - [Two years on, the Pixel Buds Pro have aged like fine wine](https://www.androidauthority.com/pixel-buds-pro-two-years-updates-3465178/)
+ - [Logitech Combo Touch for iPad Pro &lpar;2024&rpar; Review: A Must-Have Keyboard Accessory](https://www.wired.com/review/logitech-combo-touch-ipad-pro-13-inch-keyboard-case/)
+ - [Crime blotter: Apple Store theft claims $21,000 worth of merchandise](https://appleinsider.com/articles/24/08/04/crime-blotter-apple-store-theft-claims-21000-worth-of-merchandise?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
