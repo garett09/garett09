@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian&#39;s not holding back for its next two RPGs: &#39;The machine was meant to make large games&#39;](https://www.pcgamer.com/games/baldurs-gate/larians-not-holding-back-for-its-next-two-rpgs-the-machine-was-meant-to-make-large-games)
- - [Old school role-play system Shadowdark wins top honors at Gen Con’s Ennie awards](https://www.polygon.com/24209789/ennie-award-winners-2024-shadowdark-eat-the-reich)
- - [Dr Disrespect Returns, Bungie Hit By Massive Layoffs, And More Of The Week&#39;s Biggest Gaming News](https://kotaku.com/dr-disrespect-bungie-layoffs-gaming-news-1851612051)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 was so big that Larian has developed a &#39;Simpsons did it&#39; problem: &#39;Whenever we&#39;re talking about things, we say we did that in BG3&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-was-so-big-that-larian-has-developed-a-simpsons-did-it-problem-whenever-were-talking-about-things-we-say-we-did-that-in-bg3)
+ - [August Game Releases, Elden Ring Help, And More Tips](https://kotaku.com/august-game-releases-elden-ring-help-and-more-tips-1851612055)
+ - [Crafting in crafting games may suck, but it seems surprisingly decent in the updated rules for Dungeons &amp; Dragons of all things](https://www.pcgamer.com/games/rpg/crafting-in-crafting-games-may-suck-but-it-seems-surprisingly-decent-in-the-updated-rules-for-dungeons-and-dragons-of-all-things)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
