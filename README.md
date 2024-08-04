@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Final Boss\u2026](http://9gag.com/gag/a5QZ7KN)
- - 🚯 [Efficient way to stir it up](http://9gag.com/gag/aRBKj3G)
- - 🚯 [Thats what she said.](http://9gag.com/gag/aD2jj0O)<!-- MEMES:END -->
+ - 🚖 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
+ - 🚯 [The One piece here I come](http://9gag.com/gag/aByw0bP)
+ - 🚯 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)<!-- MEMES:END -->
 
 --- 
 
