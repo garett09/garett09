@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jan Nepomniachtchi&#39;s reaction to Magnus Carlsen&#39;s defeat](http://9gag.com/gag/a9yWpKD)
- - 🚯 [The One piece here I come](http://9gag.com/gag/aByw0bP)
- - 🚯 [Man Wins $500,000 Sports Bet - Casino Refuses to Pay](http://9gag.com/gag/aXPAqed)<!-- MEMES:END -->
+ - 🚖 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
+ - 🚯 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
+ - 🚯 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)<!-- MEMES:END -->
 
 --- 
 
