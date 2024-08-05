@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 was so big that Larian has developed a &#39;Simpsons did it&#39; problem: &#39;Whenever we&#39;re talking about things, we say we did that in BG3&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-was-so-big-that-larian-has-developed-a-simpsons-did-it-problem-whenever-were-talking-about-things-we-say-we-did-that-in-bg3)
- - [August Game Releases, Elden Ring Help, And More Tips](https://kotaku.com/august-game-releases-elden-ring-help-and-more-tips-1851612055)
- - [Crafting in crafting games may suck, but it seems surprisingly decent in the updated rules for Dungeons &amp; Dragons of all things](https://www.pcgamer.com/games/rpg/crafting-in-crafting-games-may-suck-but-it-seems-surprisingly-decent-in-the-updated-rules-for-dungeons-and-dragons-of-all-things)<!-- GAME:END -->
+ - [The best sci-fi movies of the year so far](https://www.polygon.com/24210391/best-sci-fi-movies-2024-watch)
+ - [Workstation builder Puget Systems&#39; report shows the stability problems with Intel&#39;s CPUs can be managed if only you &#39;mistrust the default settings on any motherboard&#39;](https://www.pcgamer.com/hardware/processors/workstation-builder-puget-systems-report-shows-the-stability-problems-with-intels-cpus-can-be-managed-if-only-you-mistrust-the-default-settings-on-any-motherboard)
+ - [Devs turn to Patreon after Humble Games collapse leaves studio without support: &#39;We lost access to the pipeline of critical systems without warning&#39;](https://www.pcgamer.com/games/action/devs-turn-to-patreon-after-humble-games-collapse-leaves-studio-without-support-we-lost-access-to-the-pipeline-of-critical-systems-without-warning)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
