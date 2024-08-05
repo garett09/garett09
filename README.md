@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two years on, the Pixel Buds Pro have aged like fine wine](https://www.androidauthority.com/pixel-buds-pro-two-years-updates-3465178/)
- - [Logitech Combo Touch for iPad Pro &lpar;2024&rpar; Review: A Must-Have Keyboard Accessory](https://www.wired.com/review/logitech-combo-touch-ipad-pro-13-inch-keyboard-case/)
- - [Crime blotter: Apple Store theft claims $21,000 worth of merchandise](https://appleinsider.com/articles/24/08/04/crime-blotter-apple-store-theft-claims-21000-worth-of-merchandise?utm_medium=rss)<!-- TECH:END -->
+ - [The next state to get Apple Wallet driver&#39;s licenses is probably California](https://appleinsider.com/articles/24/08/05/the-next-state-to-get-apple-wallet-drivers-licenses-is-probably-california?utm_medium=rss)
+ - [Rumored thinner iPhone may be called the iPhone Air, guesses pundit](https://appleinsider.com/articles/24/08/05/rumored-thinner-iphone-may-be-called-the-iphone-air-guesses-pundit?utm_medium=rss)
+ - [Apple Watch SE 3 could appeal to kids with a core material change](https://www.androidauthority.com/apple-watch-se-3-core-change-3467925/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
