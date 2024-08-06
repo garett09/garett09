@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies of the year so far](https://www.polygon.com/24210391/best-sci-fi-movies-2024-watch)
- - [Workstation builder Puget Systems&#39; report shows the stability problems with Intel&#39;s CPUs can be managed if only you &#39;mistrust the default settings on any motherboard&#39;](https://www.pcgamer.com/hardware/processors/workstation-builder-puget-systems-report-shows-the-stability-problems-with-intels-cpus-can-be-managed-if-only-you-mistrust-the-default-settings-on-any-motherboard)
- - [Devs turn to Patreon after Humble Games collapse leaves studio without support: &#39;We lost access to the pipeline of critical systems without warning&#39;](https://www.pcgamer.com/games/action/devs-turn-to-patreon-after-humble-games-collapse-leaves-studio-without-support-we-lost-access-to-the-pipeline-of-critical-systems-without-warning)<!-- GAME:END -->
+ - [There still might be more RX 7000-series AMD GPUs on the way as rumours suggest two under $250](https://www.pcgamer.com/hardware/graphics-cards/there-still-might-be-more-rx-7000-series-amd-gpus-on-the-way-as-rumours-suggest-two-under-dollar250)
+ - [Disney Dreamlight Valley update adds Tiana and her iconic restaurant in August](https://www.polygon.com/24214028/disney-dreamlight-valley-tiana-gameloft-montreal-q-a)
+ - [Coming to Game Pass: Crash Bandicoot N. Sane Trilogy, Creatures of Ava, and Mafia: Definitive Edition](https://news.xbox.com/en-us/2024/08/06/xbox-game-pass-august-2024-wave-1/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
