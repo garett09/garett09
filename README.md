@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next state to get Apple Wallet driver&#39;s licenses is probably California](https://appleinsider.com/articles/24/08/05/the-next-state-to-get-apple-wallet-drivers-licenses-is-probably-california?utm_medium=rss)
- - [Rumored thinner iPhone may be called the iPhone Air, guesses pundit](https://appleinsider.com/articles/24/08/05/rumored-thinner-iphone-may-be-called-the-iphone-air-guesses-pundit?utm_medium=rss)
- - [Apple Watch SE 3 could appeal to kids with a core material change](https://www.androidauthority.com/apple-watch-se-3-core-change-3467925/)<!-- TECH:END -->
+ - [Hidden prompts reveal Apple Intelligence’s not-so-secret recipe](https://www.androidauthority.com/apple-intelligence-hidden-prompts-3468376/)
+ - [Google unveils the $100 Google TV Streamer, with better performance than Chromecast with Google TV, Thread and Matter support, and more, shipping September 24 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240806/p12#a240806p12)
+ - [Basketball legend credits Apple Watch&#39;s persistence for making him see a heart doctor](https://appleinsider.com/articles/24/08/06/basketballs-legend-credits-apple-watchs-persistence-for-making-him-see-a-heart-doctor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
