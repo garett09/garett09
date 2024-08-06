@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Muslim gangs , is that real german gov ?](http://9gag.com/gag/aMVw4BG)
- - 🚯 [Watching the Olympics in muslim countries](http://9gag.com/gag/aVvDw8O)
- - 🚯 [You cannot control what happens to you, but you can control your attitude toward what happens to you, and in that, you will be mastering change rather than allowing it to master you.](http://9gag.com/gag/a4PZEjZ)<!-- MEMES:END -->
+ - 🚖 [So this warning was legit lmao](http://9gag.com/gag/agmqoZv)
+ - 🚯 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
+ - 🚯 [Bad day to be hustling](http://9gag.com/gag/aE0R0yn)<!-- MEMES:END -->
 
 --- 
 
