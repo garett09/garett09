@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There still might be more RX 7000-series AMD GPUs on the way as rumours suggest two under $250](https://www.pcgamer.com/hardware/graphics-cards/there-still-might-be-more-rx-7000-series-amd-gpus-on-the-way-as-rumours-suggest-two-under-dollar250)
- - [Disney Dreamlight Valley update adds Tiana and her iconic restaurant in August](https://www.polygon.com/24214028/disney-dreamlight-valley-tiana-gameloft-montreal-q-a)
- - [Coming to Game Pass: Crash Bandicoot N. Sane Trilogy, Creatures of Ava, and Mafia: Definitive Edition](https://news.xbox.com/en-us/2024/08/06/xbox-game-pass-august-2024-wave-1/)<!-- GAME:END -->
+ - [AMD Ryzen 7 9700X review](https://www.pcgamer.com/hardware/processors/amd-ryzen-7-9700x-review)
+ - [AMD Ryzen 5 9600X review](https://www.pcgamer.com/hardware/processors/amd-ryzen-5-9600x-review)
+ - [Warhammer 40,000: Space Marine II’s PvE Operations Mode Feels Like a Whole Separate Game](https://news.xbox.com/en-us/2024/08/07/warhammer-40000-space-marine-iis-pve-operations-mode-feels-like-a-whole-separate-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
