@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hidden prompts reveal Apple Intelligence’s not-so-secret recipe](https://www.androidauthority.com/apple-intelligence-hidden-prompts-3468376/)
- - [Google unveils the $100 Google TV Streamer, with better performance than Chromecast with Google TV, Thread and Matter support, and more, shipping September 24 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240806/p12#a240806p12)
- - [Basketball legend credits Apple Watch&#39;s persistence for making him see a heart doctor](https://appleinsider.com/articles/24/08/06/basketballs-legend-credits-apple-watchs-persistence-for-making-him-see-a-heart-doctor?utm_medium=rss)<!-- TECH:END -->
+ - [Wildflower’s iPhone Cases Are Perfect for the Very Clumsy](https://www.wired.com/story/wildflower-iphone-case-rave/)
+ - [OnePlus Open Apex Edition is a gorgeous upgrade that adds VIP mode to the foldable](https://www.androidauthority.com/oneplus-open-apex-edition-launch-3468430/)
+ - [OnePlus tries to steal Google’s thunder with a limited edition OnePlus Open](https://www.theverge.com/2024/8/7/24214775/oneplus-open-apex-edition-special-color)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
