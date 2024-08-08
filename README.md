@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Ryzen 7 9700X review](https://www.pcgamer.com/hardware/processors/amd-ryzen-7-9700x-review)
- - [AMD Ryzen 5 9600X review](https://www.pcgamer.com/hardware/processors/amd-ryzen-5-9600x-review)
- - [Warhammer 40,000: Space Marine II’s PvE Operations Mode Feels Like a Whole Separate Game](https://news.xbox.com/en-us/2024/08/07/warhammer-40000-space-marine-iis-pve-operations-mode-feels-like-a-whole-separate-game/)<!-- GAME:END -->
+ - [Hunt: Showdown&#39;s tradition of dropping horrifying little freaks into the Wild West continues with the &#39;Hellborn,&#39; a roaming fire demon that hurls molten lava balls](https://www.pcgamer.com/games/hunt-showdown-s-tradition-of-dropping-horrifying-little-freaks-into-the-wild-west-continues-with-the-hellborn-a-roaming-fire-demon-that-hurls-molten-lava-balls)
+ - [The weirdest video games based on bands](https://www.polygon.com/24214789/video-games-based-on-bands)
+ - [Arkane Studios’ legacy lives on in Wolfeye Studios’ upcoming retro sci-fi RPG](https://www.polygon.com/24210477/arkane-studios-successor-new-game-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
