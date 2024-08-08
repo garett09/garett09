@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wildflower’s iPhone Cases Are Perfect for the Very Clumsy](https://www.wired.com/story/wildflower-iphone-case-rave/)
- - [OnePlus Open Apex Edition is a gorgeous upgrade that adds VIP mode to the foldable](https://www.androidauthority.com/oneplus-open-apex-edition-launch-3468430/)
- - [OnePlus tries to steal Google’s thunder with a limited edition OnePlus Open](https://www.theverge.com/2024/8/7/24214775/oneplus-open-apex-edition-special-color)<!-- TECH:END -->
+ - [Analysis: Truth Social is increasingly relying on niche ad campaigns that target hard-core Trump fans and Christian conservatives, often from small advertisers &lpar;New York Times&rpar;](http://www.techmeme.com/240808/p16#a240808p16)
+ - [6 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
+ - [TikTok adds in-app hubs for videos about movies and TV shows](https://www.theverge.com/2024/8/8/24215338/tiktok-spotlight-in-app-hubs-movies-tv-shows)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
