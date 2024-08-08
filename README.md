@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [World\u2019s strongest man vs World\u2019s strongest rifle.](http://9gag.com/gag/azxrxvj)
- - 🚯 [House made of alumulumu](http://9gag.com/gag/azxrdEq)
- - 🚯 [Comparison.](http://9gag.com/gag/a7oZoXA)<!-- MEMES:END -->
+ - 🚖 [When you are a bike hogging in a lane.](http://9gag.com/gag/aZZBjgn)
+ - 🚯 [That was cute AF](http://9gag.com/gag/aD2jndN)
+ - 🚯 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)<!-- MEMES:END -->
 
 --- 
 
