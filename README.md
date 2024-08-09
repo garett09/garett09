@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hunt: Showdown&#39;s tradition of dropping horrifying little freaks into the Wild West continues with the &#39;Hellborn,&#39; a roaming fire demon that hurls molten lava balls](https://www.pcgamer.com/games/hunt-showdown-s-tradition-of-dropping-horrifying-little-freaks-into-the-wild-west-continues-with-the-hellborn-a-roaming-fire-demon-that-hurls-molten-lava-balls)
- - [The weirdest video games based on bands](https://www.polygon.com/24214789/video-games-based-on-bands)
- - [Arkane Studios’ legacy lives on in Wolfeye Studios’ upcoming retro sci-fi RPG](https://www.polygon.com/24210477/arkane-studios-successor-new-game-announcement)<!-- GAME:END -->
+ - [My favorite puzzle game has an unskippable Peter Gabriel interlude](https://www.polygon.com/24216047/myst-game-peter-gabriel)
+ - [Major browser providers scramble to patch an 18-year-old vulnerability affecting MacOS and Linux systems but Windows remains gloriously immune](https://www.pcgamer.com/software/security/major-browser-providers-scramble-to-patch-an-18-year-old-vulnerability-affecting-macos-and-linux-systems-but-windows-remains-gloriously-immune)
+ - [Kingdom Come: Deliverance, a &#39;seriously satisfying RPG&#39; that lets you live the life of a medieval knight in a &#39;rich and reactive open world&#39;, has its price slashed by 83%](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-a-seriously-satisfying-rpg-that-lets-you-live-the-life-of-a-medieval-knight-in-a-rich-and-reactive-open-world-has-its-price-slashed-by-83)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
