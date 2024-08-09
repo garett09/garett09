@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are a bike hogging in a lane.](http://9gag.com/gag/aZZBjgn)
- - 🚯 [That was cute AF](http://9gag.com/gag/aD2jndN)
- - 🚯 [I know you&#39;ve been waiting for her. And she&#39;s back.](http://9gag.com/gag/aNDdV6K)<!-- MEMES:END -->
+ - 🚖 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
+ - 🚯 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
+ - 🚯 [Simps are cancer](http://9gag.com/gag/aVvDVXM)<!-- MEMES:END -->
 
 --- 
 
