@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese robotaxi company WeRide is seeking about $100M in a US initial public offering and around $200M to $300M in a concurrent private placement &lpar;Bloomberg&rpar;](http://www.techmeme.com/240809/p9#a240809p9)
- - [Google&#39;s Rise Was Inevitable. So Was Its Antitrust Ruling](https://www.wired.com/story/googles-rise-was-inevitable-so-was-its-antitrust-ruling/)
- - [Asus Zenbook S 16 review: AMD stays in the game](https://www.theverge.com/24215430/zenbook-s-16-2024-review-amd-ryzen-ai-laptop)<!-- TECH:END -->
+ - [Puck it; Oura should ditch its charger and copy the Galaxy Ring case](https://www.androidauthority.com/smart-ring-charging-case-puck-3467719/)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [LG S95TR 9.1.5 Soundbar System Review: Perfect Audio for Your OLED](https://www.wired.com/review/lg-s95tr/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
