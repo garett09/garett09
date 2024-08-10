@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My favorite puzzle game has an unskippable Peter Gabriel interlude](https://www.polygon.com/24216047/myst-game-peter-gabriel)
- - [Major browser providers scramble to patch an 18-year-old vulnerability affecting MacOS and Linux systems but Windows remains gloriously immune](https://www.pcgamer.com/software/security/major-browser-providers-scramble-to-patch-an-18-year-old-vulnerability-affecting-macos-and-linux-systems-but-windows-remains-gloriously-immune)
- - [Kingdom Come: Deliverance, a &#39;seriously satisfying RPG&#39; that lets you live the life of a medieval knight in a &#39;rich and reactive open world&#39;, has its price slashed by 83%](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-a-seriously-satisfying-rpg-that-lets-you-live-the-life-of-a-medieval-knight-in-a-rich-and-reactive-open-world-has-its-price-slashed-by-83)<!-- GAME:END -->
+ - [The best thrillers to watch on Netflix this August](https://www.polygon.com/what-to-watch/2024/8/10/24213671/best-thriller-movies-netflix-watch-august-2024)
+ - [Borderlands Movie Bad, BotW Players Find An Amazing Glitch, And More Of The Week&#39;s Top News](https://kotaku.com/borderlands-movie-quakecon-helldivers-news-games-1851618210)
+ - [The biggest news out of Disney’s D23 Expo](https://www.polygon.com/24217230/d23-news-trailers-disney-marvel-star-wars-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
