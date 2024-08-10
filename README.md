@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His name is Mijain Lopez](http://9gag.com/gag/aoy28Q2)
- - 🚯 [This is so disgusting..](http://9gag.com/gag/a1mdOmG)
- - 🚯 [Simps are cancer](http://9gag.com/gag/aVvDVXM)<!-- MEMES:END -->
+ - 🚖 [Lone 9 gager waiting for us](http://9gag.com/gag/aD2jNq9)
+ - 🚯 [Perfection](http://9gag.com/gag/axygALL)
+ - 🚯 [Victory ceremony - 9gag drinking contest - Austria won, 30 beers in 3 hours, 3 guys](http://9gag.com/gag/amordy6)<!-- MEMES:END -->
 
 --- 
 
