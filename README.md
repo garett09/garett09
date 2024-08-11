@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Puck it; Oura should ditch its charger and copy the Galaxy Ring case](https://www.androidauthority.com/smart-ring-charging-case-puck-3467719/)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [LG S95TR 9.1.5 Soundbar System Review: Perfect Audio for Your OLED](https://www.wired.com/review/lg-s95tr/)<!-- TECH:END -->
+ - [The Best Travel Strollers for All Your Family Adventures &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-strollers/)
+ - [Horror movies need to be more than a big mood](https://www.theverge.com/24216922/horror-movies-maxxxine-longlegs-cuckoo-nothing-to-say)
+ - [Samsung Galaxy Book4 Edge review: beauty before brawn](https://www.theverge.com/24215509/samsung-galaxy-book4-edge-2024-review-qualcomm-copilot-plus-pc-snapdragon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
