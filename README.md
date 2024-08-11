@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers to watch on Netflix this August](https://www.polygon.com/what-to-watch/2024/8/10/24213671/best-thriller-movies-netflix-watch-august-2024)
- - [Borderlands Movie Bad, BotW Players Find An Amazing Glitch, And More Of The Week&#39;s Top News](https://kotaku.com/borderlands-movie-quakecon-helldivers-news-games-1851618210)
- - [The biggest news out of Disney’s D23 Expo](https://www.polygon.com/24217230/d23-news-trailers-disney-marvel-star-wars-2024)<!-- GAME:END -->
+ - [A Short Hike’s composer might never have gotten into games if not for The Binding of Isaac](https://www.polygon.com/24214164/a-short-hike-composer-interview)
+ - [Tesla’s Cybertruck Causes A Maddening Bug In Fortnite](https://kotaku.com/tesla-s-cybertruck-causes-a-maddening-bug-in-fortnite-1851618706)
+ - [Disney is for real doing a Villains Landa](https://www.polygon.com/24217891/disney-world-villains-land-plans)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
