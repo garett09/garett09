@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Travel Strollers for All Your Family Adventures &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-strollers/)
- - [Horror movies need to be more than a big mood](https://www.theverge.com/24216922/horror-movies-maxxxine-longlegs-cuckoo-nothing-to-say)
- - [Samsung Galaxy Book4 Edge review: beauty before brawn](https://www.theverge.com/24215509/samsung-galaxy-book4-edge-2024-review-qualcomm-copilot-plus-pc-snapdragon)<!-- TECH:END -->
+ - [Here’s when Apple may start charging you for its AI features](https://www.androidauthority.com/when-apple-intelligence-start-costing-money-3470262/)
+ - [12 Best Sound Machines and White-Noise Machines, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-sound-machines/)
+ - [How Iran has emerged as the most aggressive foreign threat to the US election; Microsoft published a report detailing a litany of efforts to target the election &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240812/p11#a240812p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
