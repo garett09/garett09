@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Short Hike’s composer might never have gotten into games if not for The Binding of Isaac](https://www.polygon.com/24214164/a-short-hike-composer-interview)
- - [Tesla’s Cybertruck Causes A Maddening Bug In Fortnite](https://kotaku.com/tesla-s-cybertruck-causes-a-maddening-bug-in-fortnite-1851618706)
- - [Disney is for real doing a Villains Landa](https://www.polygon.com/24217891/disney-world-villains-land-plans)<!-- GAME:END -->
+ - [What time does Zenless Zone Zero 1.1 release?](https://www.polygon.com/zenless-zone-zero-guides/24215547/zzz-version-1-1-release-times-maintenance-end)
+ - [Almost 20 years in, World of Warcraft is the freshest it’s been in years — and it’s thanks to WoW Classic](https://www.polygon.com/2024/8/12/24209862/world-warcraft-wow-classic-20th-anniversary-retrospective)
+ - [Our Favorite Cosplay From Japan Expo Paris 2024](https://kotaku.com/japan-expo-paris-2024-cosplay-costumes-best-anime-1851618291)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
