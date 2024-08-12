@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The coach of the year award goes to..](http://9gag.com/gag/a0edDMv)
- - 🚯 [This dude dressed up as Kim Jong-un in front of North Koreans at the olympics.](http://9gag.com/gag/abA6oDX)
- - 🚯 [New Zealand\u2019s Hamish Kerr requested that he and USA\u2019s Shelby McEwen share the gold medal since they were tied at the High Jump final, which would have been a great story for both like the one below. McEwen said nah, and so it went to a jump-off for the gold. NZ\u2019s Kerr took it.](http://9gag.com/gag/aO8dO1v)<!-- MEMES:END -->
+ - 🚖 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
+ - 🚯 [Before/After Church](http://9gag.com/gag/aW483mZ)
+ - 🚯 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
 
 --- 
 
