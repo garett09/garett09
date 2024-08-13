@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weekly Advice #127](http://9gag.com/gag/aO8dW96)
- - 🚯 [Before/After Church](http://9gag.com/gag/aW483mZ)
- - 🚯 [Birthday surprise](http://9gag.com/gag/avyrwmd)<!-- MEMES:END -->
+ - 🚖 [New neighbor](http://9gag.com/gag/a5QZOAO)
+ - 🚯 [No title](http://9gag.com/gag/avyrNjb)
+ - 🚯 [Took me 1 hour to find this video. Quick reminder to save blunder vids from this olympic. I still never saw the full smurf thing because I can&#39;t find it anywhere.](http://9gag.com/gag/aZZBObW)<!-- MEMES:END -->
 
 --- 
 
