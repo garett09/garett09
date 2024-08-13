@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Zenless Zone Zero 1.1 release?](https://www.polygon.com/zenless-zone-zero-guides/24215547/zzz-version-1-1-release-times-maintenance-end)
- - [Almost 20 years in, World of Warcraft is the freshest it’s been in years — and it’s thanks to WoW Classic](https://www.polygon.com/2024/8/12/24209862/world-warcraft-wow-classic-20th-anniversary-retrospective)
- - [Our Favorite Cosplay From Japan Expo Paris 2024](https://kotaku.com/japan-expo-paris-2024-cosplay-costumes-best-anime-1851618291)<!-- GAME:END -->
+ - [The best Qingyi build in Zenless Zone Zero](https://www.pcgamer.com/games/action/zenless-zone-zero-qingyi-build)
+ - [Welcome to the next era of Polygon! We made it for you.](https://www.polygon.com/gaming/439731/welcome-to-the-next-era-of-polygon-we-made-it-for-you)
+ - [Space Marine 2 settled on 3-player co-op because having 4 lore-accurate 40K marines made it too much of &#39;a massacre&#39;](https://www.pcgamer.com/games/action/space-marine-2-settled-on-3-player-co-op-because-having-4-lore-accurate-40k-marines-made-it-a-massacre)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
