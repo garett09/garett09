@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Cordless Vacuums for Carpet, Hardwood, and Hard-to-Reach Areas &lpar;2024&rpar;](https://www.wired.com/gallery/best-cordless-vacuums/)
- - [India withdraws a draft broadcasting services bill after facing backlash from online creators over its potential effect on free speech and the compliance burden &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/240813/p15#a240813p15)
- - [Rivian is bringing Apple Music with spatial audio to its CarPlay-less EVs](https://www.theverge.com/2024/8/13/24218973/rivian-apple-music-connect-plus-subscribe-fee)<!-- TECH:END -->
+ - [EliseAI, which offers AI property management tools for landlords, raised a $75M Series D led by Sapphire at a $1B valuation, taking its total funding to $140M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240814/p18#a240814p18)
+ - [Should you buy the Pixel 9 Pro XL or wait for the Galaxy S25 Ultra?](https://www.androidauthority.com/pixel-9-pro-xl-vs-galaxy-s25-ultra-3470658/)
+ - [AI overshadowed Pixel at the Pixel event](https://www.theverge.com/2024/8/14/24220021/google-pixel-9-event-ai-overshadowed)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
