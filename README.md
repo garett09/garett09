@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Qingyi build in Zenless Zone Zero](https://www.pcgamer.com/games/action/zenless-zone-zero-qingyi-build)
- - [Welcome to the next era of Polygon! We made it for you.](https://www.polygon.com/gaming/439731/welcome-to-the-next-era-of-polygon-we-made-it-for-you)
- - [Space Marine 2 settled on 3-player co-op because having 4 lore-accurate 40K marines made it too much of &#39;a massacre&#39;](https://www.pcgamer.com/games/action/space-marine-2-settled-on-3-player-co-op-because-having-4-lore-accurate-40k-marines-made-it-a-massacre)<!-- GAME:END -->
+ - [Even Uwe Boll is dunking on the Borderlands movie fiasco—&#39;Now you wish I directed!&#39;](https://www.pcgamer.com/movies-tv/even-uwe-boll-is-dunking-on-the-borderlands-movie-fiasconow-you-wish-i-directed)
+ - [Blizzard is still updating Heroes of the Storm on an almost monthly basis, and I just think that&#39;s nice](https://www.pcgamer.com/games/moba/blizzard-is-still-updating-heroes-of-the-storm-on-an-almost-monthly-basis-and-i-just-think-thats-nice)
+ - [AMD Ryzen 9 9950X review](https://www.pcgamer.com/hardware/processors/amd-ryzen-9-9950x-review-performance-benchmarks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
