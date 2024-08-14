@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New neighbor](http://9gag.com/gag/a5QZOAO)
- - 🚯 [No title](http://9gag.com/gag/avyrNjb)
- - 🚯 [Took me 1 hour to find this video. Quick reminder to save blunder vids from this olympic. I still never saw the full smurf thing because I can&#39;t find it anywhere.](http://9gag.com/gag/aZZBObW)<!-- MEMES:END -->
+ - 🚖 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)
+ - 🚯 [Nice job](http://9gag.com/gag/aGy0WBK)
+ - 🚯 [Peter dropped a diamond](http://9gag.com/gag/azx879p)<!-- MEMES:END -->
 
 --- 
 
