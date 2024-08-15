@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Britain is the new North Korea. But if they can&#39;t speak, the rest of Europe will. You&#39;re not alone, stand against distopia. Peacefully, without rest, without fear.](http://9gag.com/gag/adBqZWQ)
- - 🚯 [Nice job](http://9gag.com/gag/aGy0WBK)
- - 🚯 [Peter dropped a diamond](http://9gag.com/gag/azx879p)<!-- MEMES:END -->
+ - 🚖 [Call an ambulance but not for me](http://9gag.com/gag/aXPq0Xz)
+ - 🚯 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
+ - 🚯 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)<!-- MEMES:END -->
 
 --- 
 
