@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EliseAI, which offers AI property management tools for landlords, raised a $75M Series D led by Sapphire at a $1B valuation, taking its total funding to $140M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240814/p18#a240814p18)
- - [Should you buy the Pixel 9 Pro XL or wait for the Galaxy S25 Ultra?](https://www.androidauthority.com/pixel-9-pro-xl-vs-galaxy-s25-ultra-3470658/)
- - [AI overshadowed Pixel at the Pixel event](https://www.theverge.com/2024/8/14/24220021/google-pixel-9-event-ai-overshadowed)<!-- TECH:END -->
+ - [Google says it will remove Showcase.apk from Pixel devices &quot;out of an abundance of precaution&quot;, after iVerify said hackers could use the dormant app to spy &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240815/p19#a240815p19)
+ - [Megaupload&#39;s legal battle with labels and the DOJ: the full story](https://www.theverge.com/2012/1/19/2719560/megaupload-doj-lawsuit)
+ - [Flaw in Verizon Pixel’s firmware poses serious security threat](https://www.androidauthority.com/verizon-pixel-firmware-threat-3471691/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
