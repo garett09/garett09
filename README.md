@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Even Uwe Boll is dunking on the Borderlands movie fiasco—&#39;Now you wish I directed!&#39;](https://www.pcgamer.com/movies-tv/even-uwe-boll-is-dunking-on-the-borderlands-movie-fiasconow-you-wish-i-directed)
- - [Blizzard is still updating Heroes of the Storm on an almost monthly basis, and I just think that&#39;s nice](https://www.pcgamer.com/games/moba/blizzard-is-still-updating-heroes-of-the-storm-on-an-almost-monthly-basis-and-i-just-think-thats-nice)
- - [AMD Ryzen 9 9950X review](https://www.pcgamer.com/hardware/processors/amd-ryzen-9-9950x-review-performance-benchmarks)<!-- GAME:END -->
+ - [Sins of a Solar Empire 2 review](https://www.pcgamer.com/games/strategy/sins-of-a-solar-empire-2-review)
+ - [Persona 3 Reload Episode Aigis: The Answer launches Sept 10 – hands-on report](https://blog.playstation.com/2024/08/15/persona-3-reload-episode-aigis-the-answer-launches-sept-10-hands-on-report/)
+ - [Aigis in the Spotlight as Persona 3 Reload’s Epilogue Makes Its Way to Game Pass](https://news.xbox.com/en-us/2024/08/15/persona-3-reload-epilogue-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
