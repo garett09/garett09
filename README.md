@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it will remove Showcase.apk from Pixel devices &quot;out of an abundance of precaution&quot;, after iVerify said hackers could use the dormant app to spy &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240815/p19#a240815p19)
- - [Megaupload&#39;s legal battle with labels and the DOJ: the full story](https://www.theverge.com/2012/1/19/2719560/megaupload-doj-lawsuit)
- - [Flaw in Verizon Pixel’s firmware poses serious security threat](https://www.androidauthority.com/verizon-pixel-firmware-threat-3471691/)<!-- TECH:END -->
+ - [The European Commission asks Meta for information about its Content Library tool and API under the DSA, following Meta&#39;s decision to deprecate CrowdTangle &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240816/p11#a240816p11)
+ - [How to hide apps on Google Pixel phones with Private Space](https://www.androidauthority.com/hide-apps-google-pixel-phones-3456145/)
+ - [Elon Musk Is No Climate Hero](https://www.wired.com/story/elon-musk-trump-climate-tesla/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
