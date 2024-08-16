@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Call an ambulance but not for me](http://9gag.com/gag/aXPq0Xz)
- - 🚯 [Liz Truss leaves stage as lettuce banner unfurls](http://9gag.com/gag/aqybmwY)
- - 🚯 [I\u2019m the captain now](http://9gag.com/gag/ae9bN7b)<!-- MEMES:END -->
+ - 🚖 [\u201cI need to rest.`](http://9gag.com/gag/aByWrm2)
+ - 🚯 [This tradition is dying late.. It must not. 9gaggers..njoi your Friday!](http://9gag.com/gag/an7bNK5)
+ - 🚯 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)<!-- MEMES:END -->
 
 --- 
 
