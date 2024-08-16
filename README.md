@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sins of a Solar Empire 2 review](https://www.pcgamer.com/games/strategy/sins-of-a-solar-empire-2-review)
- - [Persona 3 Reload Episode Aigis: The Answer launches Sept 10 – hands-on report](https://blog.playstation.com/2024/08/15/persona-3-reload-episode-aigis-the-answer-launches-sept-10-hands-on-report/)
- - [Aigis in the Spotlight as Persona 3 Reload’s Epilogue Makes Its Way to Game Pass](https://news.xbox.com/en-us/2024/08/15/persona-3-reload-epilogue-game-pass/)<!-- GAME:END -->
+ - [Deliriously funny rhythm tooter Trombone Champ is getting a VR version](https://www.pcgamer.com/games/rhythm/deliriously-funny-rhythm-tooter-trombone-champ-is-getting-a-vr-version)
+ - [Fateforge: Chronicles of Kaan is an explosive app-driven fantasy board game](https://www.polygon.com/board-games/24206343/fateforge-chronicles-kaan-review-gen-con)
+ - [SteamWorld Heist 2&#39;s new job system lets you experiment with building your own custom classes—and you&#39;re not allowed to judge me for making a completely unfair sniper that can scrap a whole squad with one shot](https://www.pcgamer.com/games/strategy/steamworld-heist-2-s-new-job-system-lets-you-experiment-with-building-your-own-custom-classes-and-you-re-not-allowed-to-judge-me-for-making-a-completely-unfair-sniper-that-can-scrap-a-whole-squad-with-one-shot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
