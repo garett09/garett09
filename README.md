@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Commission asks Meta for information about its Content Library tool and API under the DSA, following Meta&#39;s decision to deprecate CrowdTangle &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240816/p11#a240816p11)
- - [How to hide apps on Google Pixel phones with Private Space](https://www.androidauthority.com/hide-apps-google-pixel-phones-3456145/)
- - [Elon Musk Is No Climate Hero](https://www.wired.com/story/elon-musk-trump-climate-tesla/)<!-- TECH:END -->
+ - [Rocco Super Smart Fridge Review: A Cool Conversation Piece](https://www.wired.com/review/rocco-super-smart-fridge/)
+ - [I never thought Pixels would survive this long, but I’m glad they did](https://www.androidauthority.com/never-thought-pixel-would-last-3470235/)
+ - [8 photo sites that let you showcase and discuss your work](https://www.theverge.com/24219372/photography-instagram-500px-flickr-showcase)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
