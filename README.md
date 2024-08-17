@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u201cI need to rest.`](http://9gag.com/gag/aByWrm2)
- - 🚯 [This tradition is dying late.. It must not. 9gaggers..njoi your Friday!](http://9gag.com/gag/an7bNK5)
- - 🚯 [Letting the squad in on the show. Who can relate?](http://9gag.com/gag/aNDAZRA)<!-- MEMES:END -->
+ - 🚖 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)
+ - 🚯 [Quadratic formula meme](http://9gag.com/gag/avyGPLq)
+ - 🚯 [Peak Writing](http://9gag.com/gag/aW4m8W4)<!-- MEMES:END -->
 
 --- 
 
