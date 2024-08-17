@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deliriously funny rhythm tooter Trombone Champ is getting a VR version](https://www.pcgamer.com/games/rhythm/deliriously-funny-rhythm-tooter-trombone-champ-is-getting-a-vr-version)
- - [Fateforge: Chronicles of Kaan is an explosive app-driven fantasy board game](https://www.polygon.com/board-games/24206343/fateforge-chronicles-kaan-review-gen-con)
- - [SteamWorld Heist 2&#39;s new job system lets you experiment with building your own custom classes—and you&#39;re not allowed to judge me for making a completely unfair sniper that can scrap a whole squad with one shot](https://www.pcgamer.com/games/strategy/steamworld-heist-2-s-new-job-system-lets-you-experiment-with-building-your-own-custom-classes-and-you-re-not-allowed-to-judge-me-for-making-a-completely-unfair-sniper-that-can-scrap-a-whole-squad-with-one-shot)<!-- GAME:END -->
+ - [The best sci-fi movies to watch on Netflix this August](https://www.polygon.com/what-to-watch/440307/the-best-sci-fi-movies-to-watch-on-netflix-this-august)
+ - [Dr Disrespect Deletes Statement, Hyped Modern Warfare 2 Mod Gets Killed, And More Of The Week&#39;s Top Stories](https://kotaku.com/dr-disrespect-legacy-of-kain-deadlock-1851624376)
+ - [These Celebrity Pets Are Technically Richer Than You &lpar;And Us&rpar;](https://kotaku.com/richest-celebrity-pets-1851624995)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
