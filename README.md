@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies to watch on Netflix this August](https://www.polygon.com/what-to-watch/440307/the-best-sci-fi-movies-to-watch-on-netflix-this-august)
- - [Dr Disrespect Deletes Statement, Hyped Modern Warfare 2 Mod Gets Killed, And More Of The Week&#39;s Top Stories](https://kotaku.com/dr-disrespect-legacy-of-kain-deadlock-1851624376)
- - [These Celebrity Pets Are Technically Richer Than You &lpar;And Us&rpar;](https://kotaku.com/richest-celebrity-pets-1851624995)<!-- GAME:END -->
+ - [There&#39;s A Surprising Difference Between &#39;Sleep&#39; And &#39;Snooze&#39; In Today&#39;s NYT Connections Groups](https://kotaku.com/nyt-connections-hints-and-answers-august-18-1851625197)
+ - [Today&#39;s Wordle answer for Sunday, August 18](https://www.pcgamer.com/games/puzzle/wordle-answer-today-august-18-2024)
+ - [Pokémon Go Beldum Community Day Classic guide](https://www.polygon.com/pokemon-go-guide/441190/beldum-community-day-shiny-metang-metagross-moveset)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
