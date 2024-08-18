@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rocco Super Smart Fridge Review: A Cool Conversation Piece](https://www.wired.com/review/rocco-super-smart-fridge/)
- - [I never thought Pixels would survive this long, but I’m glad they did](https://www.androidauthority.com/never-thought-pixel-would-last-3470235/)
- - [8 photo sites that let you showcase and discuss your work](https://www.theverge.com/24219372/photography-instagram-500px-flickr-showcase)<!-- TECH:END -->
+ - [The 6 Best Linen Sheets for Cool and Comfy Summer Sleeping &lpar;2024&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
+ - [Samsung Galaxy Ring Review: One Ring to Rule Them All](https://www.wired.com/review/samsung-galaxy-ring/)
+ - [The app for taking better photos — with no AI](https://www.theverge.com/2024/8/18/24222043/halide-process-zero-google-gemini-podcast-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
