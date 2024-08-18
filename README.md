@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think you did it wrong.](http://9gag.com/gag/aW4m6vq)
- - 🚯 [Quadratic formula meme](http://9gag.com/gag/avyGPLq)
- - 🚯 [Peak Writing](http://9gag.com/gag/aW4m8W4)<!-- MEMES:END -->
+ - 🚖 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
+ - 🚯 [My car is just making up lights now](http://9gag.com/gag/aRBmjB5)
+ - 🚯 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)<!-- MEMES:END -->
 
 --- 
 
