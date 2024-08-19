@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 6 Best Linen Sheets for Cool and Comfy Summer Sleeping &lpar;2024&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
- - [Samsung Galaxy Ring Review: One Ring to Rule Them All](https://www.wired.com/review/samsung-galaxy-ring/)
- - [The app for taking better photos — with no AI](https://www.theverge.com/2024/8/18/24222043/halide-process-zero-google-gemini-podcast-installer)<!-- TECH:END -->
+ - [Raspberry Pi 5 gets a cheaper 2GB option](https://www.theverge.com/2024/8/19/24223494/raspberry-pi-5-cheaper-2gb-option)
+ - [Lamborghini’s first EV is nearly ready — but are we?](https://www.theverge.com/2024/8/19/24223478/lamborghini-temerario-supercar-plugin-hybrid-ev-specs)
+ - [Worst to best: All the major Android skins, ranked](https://www.androidauthority.com/android-skins-ranked-3456185/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
