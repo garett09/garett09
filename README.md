@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The final rap of 8 Mile](http://9gag.com/gag/ajPXNXR)
- - 🚯 [My car is just making up lights now](http://9gag.com/gag/aRBmjB5)
- - 🚯 [How! How? How?! Its magic!](http://9gag.com/gag/aXPqYgD)<!-- MEMES:END -->
+ - 🚖 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
+ - 🚯 [Gynocentrism on disply](http://9gag.com/gag/ayNDo2Y)
+ - 🚯 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)<!-- MEMES:END -->
 
 --- 
 
