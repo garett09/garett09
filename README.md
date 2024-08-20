@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raspberry Pi 5 gets a cheaper 2GB option](https://www.theverge.com/2024/8/19/24223494/raspberry-pi-5-cheaper-2gb-option)
- - [Lamborghini’s first EV is nearly ready — but are we?](https://www.theverge.com/2024/8/19/24223478/lamborghini-temerario-supercar-plugin-hybrid-ev-specs)
- - [Worst to best: All the major Android skins, ranked](https://www.androidauthority.com/android-skins-ranked-3456185/)<!-- TECH:END -->
+ - [A24’s Y2K looks like an apocalyptic rager in first trailer](https://www.theverge.com/2024/8/20/24223963/a24-y2k-trailer)
+ - [Photomator and Pixelmator Pro add custom auto-straightening](https://appleinsider.com/articles/24/08/20/photomator-and-pixelmator-pro-add-custom-auto-straightening?utm_medium=rss)
+ - [Five years later, the Apple Card is a huge but controversial success](https://appleinsider.com/articles/20/08/20/one-year-later-the-apple-card-is-a-huge-but-controversial-success?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
