@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All Juliette actresses , pick your favorite with memes.](http://9gag.com/gag/aByWgQP)
- - 🚯 [Gynocentrism on disply](http://9gag.com/gag/ayNDo2Y)
- - 🚯 [WWE superstar Rhea Ripley makes time for a fan.](http://9gag.com/gag/aQz9dDz)<!-- MEMES:END -->
+ - 🚖 [Becareful guys... stay away...](http://9gag.com/gag/a1mbR9w)
+ - 🚯 [Not again](http://9gag.com/gag/azx81KB)
+ - 🚯 [Lara Croft Normal Diving Evolution &lpar;1996 - 2015&rpar; &lpar;DEI 2018&rpar;](http://9gag.com/gag/apRpgwb)<!-- MEMES:END -->
 
 --- 
 
