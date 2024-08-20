@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Elder Dragon Interceptions work in Monster Hunter Now](https://www.polygon.com/monster-hunter-now-guides/24175924/elder-dragon-interceptions-list)
- - [Everybody wants to change the world in Paper Trail and Slider](https://www.polygon.com/review/441238/paper-trail-slider-puzzle-games)
- - [Zotac Gaming officially launches its Zone handheld gaming PC with a super fancy AMOLED HDR screen](https://www.pcgamer.com/hardware/handheld-gaming-pcs/zotac-gaming-officially-launches-its-zone-handheld-gaming-pc-with-a-super-fancy-amoled-hdr-screen)<!-- GAME:END -->
+ - [Nvidia&#39;s new partnership with MediaTek has just killed the module which made G-Sync monitors so damned expensive](https://www.pcgamer.com/hardware/gaming-monitors/nvidias-new-partnership-with-mediatek-has-just-killed-the-module-which-made-g-sync-monitors-so-damned-expensive)
+ - [8 Vital Things To Know Before Starting Black Myth: Wukong](https://kotaku.com/black-myth-wukong-vital-tips-materials-death-1851625319)
+ - [NBA 2K25 Play Now updates and new PS5 Digital Edition – 2K25 Bundle revealed](https://blog.playstation.com/2024/08/20/nba-2k25-play-now-updates-and-new-ps5-digital-edition-2k25-bundle-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
