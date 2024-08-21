@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s new partnership with MediaTek has just killed the module which made G-Sync monitors so damned expensive](https://www.pcgamer.com/hardware/gaming-monitors/nvidias-new-partnership-with-mediatek-has-just-killed-the-module-which-made-g-sync-monitors-so-damned-expensive)
- - [8 Vital Things To Know Before Starting Black Myth: Wukong](https://kotaku.com/black-myth-wukong-vital-tips-materials-death-1851625319)
- - [NBA 2K25 Play Now updates and new PS5 Digital Edition – 2K25 Bundle revealed](https://blog.playstation.com/2024/08/20/nba-2k25-play-now-updates-and-new-ps5-digital-edition-2k25-bundle-revealed/)<!-- GAME:END -->
+ - [Pre-Order Three New Xbox Series X|S Console Options Starting August 21](https://news.xbox.com/en-us/2024/08/21/xbox-series-x-s-new-console-options-pre-order/)
+ - [The Fade is a magical coming-of-age adventure by Dimension 20’s Aabria Iyengar](https://www.polygon.com/comics/442102/aabria-iyengar-the-fade-comic-preview)
+ - [Gearbox boss Randy Pitchford predicted that the Epic Games Store would kill off Steam 5 years ago, now the internet is mocking him as Borderlands 4 comes crawling back](https://www.pcgamer.com/games/fps/gearbox-boss-randy-pitchford-predicted-that-the-epic-games-store-would-kill-off-steam-5-years-ago-now-the-internet-is-mocking-him-as-borderlands-4-comes-crawling-back)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
