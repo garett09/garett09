@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A24’s Y2K looks like an apocalyptic rager in first trailer](https://www.theverge.com/2024/8/20/24223963/a24-y2k-trailer)
- - [Photomator and Pixelmator Pro add custom auto-straightening](https://appleinsider.com/articles/24/08/20/photomator-and-pixelmator-pro-add-custom-auto-straightening?utm_medium=rss)
- - [Five years later, the Apple Card is a huge but controversial success](https://appleinsider.com/articles/20/08/20/one-year-later-the-apple-card-is-a-huge-but-controversial-success?utm_medium=rss)<!-- TECH:END -->
+ - [Nothing is requiring employees to be in the office five days a week](https://www.theverge.com/2024/8/21/24225169/nothing-employees-office-work-mandate-five-days)
+ - [The Democratic platform is doubling down on tech antitrust and kids online safety](https://www.theverge.com/2024/8/21/24224676/democratic-platform-2024-tech-antitrust-kids-safety)
+ - [This system can sort real pictures from AI fakes — why aren’t platforms using it?](https://www.theverge.com/2024/8/21/24223932/c2pa-standard-verify-ai-generated-images-content-credentials)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
