@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stunning Italian lifting 85kg &lpar;she weights 49kg&rpar;](http://9gag.com/gag/a87yAj1)
- - 🚯 [Never swear](http://9gag.com/gag/amoYo3o)
- - 🚯 [E-scooter riders are worse than cyclists](http://9gag.com/gag/a9yrzV6)<!-- MEMES:END -->
+ - 🚖 [Absolute chad](http://9gag.com/gag/aO8z8pr)
+ - 🚯 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
+ - 🚯 [It will work, trust me!! I&#39;m an engineer!!](http://9gag.com/gag/ae9b9Wj)<!-- MEMES:END -->
 
 --- 
 
