@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pre-Order Three New Xbox Series X|S Console Options Starting August 21](https://news.xbox.com/en-us/2024/08/21/xbox-series-x-s-new-console-options-pre-order/)
- - [The Fade is a magical coming-of-age adventure by Dimension 20’s Aabria Iyengar](https://www.polygon.com/comics/442102/aabria-iyengar-the-fade-comic-preview)
- - [Gearbox boss Randy Pitchford predicted that the Epic Games Store would kill off Steam 5 years ago, now the internet is mocking him as Borderlands 4 comes crawling back](https://www.pcgamer.com/games/fps/gearbox-boss-randy-pitchford-predicted-that-the-epic-games-store-would-kill-off-steam-5-years-ago-now-the-internet-is-mocking-him-as-borderlands-4-comes-crawling-back)<!-- GAME:END -->
+ - [How Ara: History Untold Rewrites the Age-Old Rules of Strategy](https://news.xbox.com/en-us/2024/08/22/ara-history-untold-strategy-rule-hands-on/)
+ - [Has Nintendo just figured out how to shut down a live game in a good way?](https://www.polygon.com/nintendo/442905/animal-crossing-pocket-camp-shut-down)
+ - [Final Fantasy 16 PC system requirements are here and surprisingly light for one of the PS5&#39;s best-looking games](https://www.pcgamer.com/hardware/final-fantasy-16-pc-system-requirements-are-here-and-surprisingly-light-for-one-of-the-ps5s-best-looking-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
