@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing is requiring employees to be in the office five days a week](https://www.theverge.com/2024/8/21/24225169/nothing-employees-office-work-mandate-five-days)
- - [The Democratic platform is doubling down on tech antitrust and kids online safety](https://www.theverge.com/2024/8/21/24224676/democratic-platform-2024-tech-antitrust-kids-safety)
- - [This system can sort real pictures from AI fakes — why aren’t platforms using it?](https://www.theverge.com/2024/8/21/24223932/c2pa-standard-verify-ai-generated-images-content-credentials)<!-- TECH:END -->
+ - [Google Pixel 9 selfie camera shootout: Do you need the extra megapixels?](https://www.androidauthority.com/pixel-9-vs-pro-selfie-shootout-3472859/)
+ - [Google Pixel 9 tips and tricks: Get the most out of your Pixel experience](https://www.androidauthority.com/google-pixel-9-tips-3472666/)
+ - [The ad-free Kindle Kids has dropped below $100 for the first time this year](https://www.theverge.com/2024/8/22/24224813/amazon-kindle-paperwhite-kids-anker-maggo-qi2-charger-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
