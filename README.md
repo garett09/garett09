@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 selfie camera shootout: Do you need the extra megapixels?](https://www.androidauthority.com/pixel-9-vs-pro-selfie-shootout-3472859/)
- - [Google Pixel 9 tips and tricks: Get the most out of your Pixel experience](https://www.androidauthority.com/google-pixel-9-tips-3472666/)
- - [The ad-free Kindle Kids has dropped below $100 for the first time this year](https://www.theverge.com/2024/8/22/24224813/amazon-kindle-paperwhite-kids-anker-maggo-qi2-charger-deal-sale)<!-- TECH:END -->
+ - [Crypto’s Shiny New Political Machine](https://www.wired.com/story/crypto-political-donations-super-pacs-campaigns/)
+ - [How to troubleshoot a Mac that won’t boot](https://www.theverge.com/24226229/macos-mac-apple-boot-fix-how-to)
+ - [Grab Yourself the Ember Smart Mug 2 With a Tasty $60 Off Right Now](https://www.cnet.com/deals/grab-yourself-the-ember-smart-mug-2-with-a-tasty-60-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
