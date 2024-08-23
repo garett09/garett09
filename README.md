@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Absolute chad](http://9gag.com/gag/aO8z8pr)
- - 🚯 [When you face main villain on level 1](http://9gag.com/gag/aO8z2R2)
- - 🚯 [It will work, trust me!! I&#39;m an engineer!!](http://9gag.com/gag/ae9b9Wj)<!-- MEMES:END -->
+ - 🚖 [This crying lady, though](http://9gag.com/gag/avyGvEE)
+ - 🚯 [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)
+ - 🚯 [Like seriously over thinking](http://9gag.com/gag/abApWQO)<!-- MEMES:END -->
 
 --- 
 
