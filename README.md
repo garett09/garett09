@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Last call to save 90% on digital board game essentials from Humble](https://www.polygon.com/24213616/digital-board-games-humble-bundle-sale)
- - [Bungie&#39;s pre-Halo FPS Classic Marathon Infinity just launched on Steam for free, meaning you can now play the entire Marathon trilogy for the low price of nothing](https://www.pcgamer.com/games/fps/bungies-pre-halo-fps-classic-marathon-infinity-just-launched-on-steam-for-free-meaning-you-can-now-play-the-entire-marathon-trilogy-for-the-low-price-of-nothing)
- - [Asus has finally come up with the easy-release GPU slot we&#39;ve all been crying out for](https://www.pcgamer.com/hardware/graphics-cards/asus-has-finally-come-up-with-the-easy-release-gpu-slot-weve-all-been-crying-out-for)<!-- GAME:END -->
+ - [Star Wars Outlaws might fulfill the promise of multiple Star Wars failures](https://www.polygon.com/star-wars/443422/star-wars-outlaws-underworld-video-games)
+ - [Indiana Jones Looks Thrilling, Tactical Breach Wizards Is Brilliant, And More Of The Week&#39;s Opinions](https://kotaku.com/gamescom-indiana-jones-great-circle-starfield-shattered-1851630380)
+ - [Every Big Announcement From Gamescom, Breaking Down The Borderlands 4 Trailer, And More Of The Week&#39;s Gaming News](https://kotaku.com/gamescom-borderlands-4-trailer-gaming-news-1851630378)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
