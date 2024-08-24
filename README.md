@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This crying lady, though](http://9gag.com/gag/avyGvEE)
- - 🚯 [It&#39;s always these guys..](http://9gag.com/gag/ae9bm8v)
- - 🚯 [Like seriously over thinking](http://9gag.com/gag/abApWQO)<!-- MEMES:END -->
+ - 🚖 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)
+ - 🚯 [That escalated quickly](http://9gag.com/gag/awynvNQ)
+ - 🚯 [Boy caused parents to owe $132,000 in debt](http://9gag.com/gag/ae9bmdp)<!-- MEMES:END -->
 
 --- 
 
