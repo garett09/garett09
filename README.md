@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto’s Shiny New Political Machine](https://www.wired.com/story/crypto-political-donations-super-pacs-campaigns/)
- - [How to troubleshoot a Mac that won’t boot](https://www.theverge.com/24226229/macos-mac-apple-boot-fix-how-to)
- - [Grab Yourself the Ember Smart Mug 2 With a Tasty $60 Off Right Now](https://www.cnet.com/deals/grab-yourself-the-ember-smart-mug-2-with-a-tasty-60-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Sonos Era 100 speaker is 20 percent off in the run-up to Labor Day](https://www.theverge.com/2024/8/24/24226829/sonos-era-100-move-2-smart-speaker-apple-pencil-deal-sale)
+ - [The Samsung Galaxy Ring is a solid first swing, but not a homerun](https://www.androidauthority.com/samsung-galaxy-ring-review-3472439/)
+ - [The Shokz OpenFit Air would’ve been perfect if not for my glasses](https://www.theverge.com/24221155/shokz-openfit-air-open-earbuds-fitness-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
