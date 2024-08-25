@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sonos Era 100 speaker is 20 percent off in the run-up to Labor Day](https://www.theverge.com/2024/8/24/24226829/sonos-era-100-move-2-smart-speaker-apple-pencil-deal-sale)
- - [The Samsung Galaxy Ring is a solid first swing, but not a homerun](https://www.androidauthority.com/samsung-galaxy-ring-review-3472439/)
- - [The Shokz OpenFit Air would’ve been perfect if not for my glasses](https://www.theverge.com/24221155/shokz-openfit-air-open-earbuds-fitness-wearables)<!-- TECH:END -->
+ - [I’m sick of subscriptions, paying for AI is the last thing on my mind](https://www.androidauthority.com/not-paying-ai-subscriptions-3473150/)
+ - [The best smartphone photos of the year](https://www.theverge.com/2024/8/25/24226795/best-smartphone-photos-2024-hollywood-hack-blink-twice-installer)
+ - [‘Unprecedented Times’ Is the New Normal](https://www.wired.com/story/unprecedented-times-is-our-new-normal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
