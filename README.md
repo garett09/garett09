@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think he is a bit stupid](http://9gag.com/gag/aYQxAZ7)
- - 🚯 [That escalated quickly](http://9gag.com/gag/awynvNQ)
- - 🚯 [Boy caused parents to owe $132,000 in debt](http://9gag.com/gag/ae9bmdp)<!-- MEMES:END -->
+ - 🚖 [A Definite W from Cameron Diaz](http://9gag.com/gag/a9yrDzm)
+ - 🚯 [There&#39;s much bigger issue here. lol](http://9gag.com/gag/aYQxABq)
+ - 🚯 [9GAG comment section?](http://9gag.com/gag/axyVn7D)<!-- MEMES:END -->
 
 --- 
 
