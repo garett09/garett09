@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws might fulfill the promise of multiple Star Wars failures](https://www.polygon.com/star-wars/443422/star-wars-outlaws-underworld-video-games)
- - [Indiana Jones Looks Thrilling, Tactical Breach Wizards Is Brilliant, And More Of The Week&#39;s Opinions](https://kotaku.com/gamescom-indiana-jones-great-circle-starfield-shattered-1851630380)
- - [Every Big Announcement From Gamescom, Breaking Down The Borderlands 4 Trailer, And More Of The Week&#39;s Gaming News](https://kotaku.com/gamescom-borderlands-4-trailer-gaming-news-1851630378)<!-- GAME:END -->
+ - [One of the best shows of the ’90s is finally available to stream](https://www.polygon.com/tv/443684/homicide-life-on-the-street-best-show-on-peacock)
+ - [What time does Star Wars Outlaws release in early access?](https://www.polygon.com/star-wars-outlaws-guides/442754/release-times-early-access-date-schedule-access)
+ - [This $10 bundle is incredible value on 7 modern detective games](https://www.pcgamer.com/games/this-dollar10-bundle-is-incredible-value-on-7-modern-detective-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
