@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m sick of subscriptions, paying for AI is the last thing on my mind](https://www.androidauthority.com/not-paying-ai-subscriptions-3473150/)
- - [The best smartphone photos of the year](https://www.theverge.com/2024/8/25/24226795/best-smartphone-photos-2024-hollywood-hack-blink-twice-installer)
- - [‘Unprecedented Times’ Is the New Normal](https://www.wired.com/story/unprecedented-times-is-our-new-normal/)<!-- TECH:END -->
+ - [Fellow Tally Pro Precision Scale Review: A High-Quality Machine for True Coffee Nerds](https://www.wired.com/review/fellow-tally-pro-precision-scale-studio-edition/)
+ - [Enough is enough: My kids are off YouTube and on Jellyfin](https://www.androidauthority.com/never-let-kids-watch-youtube-3471075/)
+ - [Bose gets blinged out for its 60th anniversary with limited-edition diamond lineup](https://www.androidauthority.com/bose-diamond-3474562/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
