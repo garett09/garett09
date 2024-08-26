@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the best shows of the ’90s is finally available to stream](https://www.polygon.com/tv/443684/homicide-life-on-the-street-best-show-on-peacock)
- - [What time does Star Wars Outlaws release in early access?](https://www.polygon.com/star-wars-outlaws-guides/442754/release-times-early-access-date-schedule-access)
- - [This $10 bundle is incredible value on 7 modern detective games](https://www.pcgamer.com/games/this-dollar10-bundle-is-incredible-value-on-7-modern-detective-games)<!-- GAME:END -->
+ - [Strange Darling’s creators want you to disagree about what happens in the movie](https://www.polygon.com/horror/443406/strange-darling-ending-explained-discussion-creator-interview)
+ - [Star Wars Outlaws review](https://www.pcgamer.com/games/action/star-wars-outlaws-review)
+ - [Star Wars Outlaws performance analysis: Ray traced galaxies far, far away really, really demand upscaling and frame generation](https://www.pcgamer.com/hardware/star-wars-outlaws-performance-analysis-ray-traced-galaxies-far-far-away-really-really-demand-upscaling-and-frame-generation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
