@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange Darling’s creators want you to disagree about what happens in the movie](https://www.polygon.com/horror/443406/strange-darling-ending-explained-discussion-creator-interview)
- - [Star Wars Outlaws review](https://www.pcgamer.com/games/action/star-wars-outlaws-review)
- - [Star Wars Outlaws performance analysis: Ray traced galaxies far, far away really, really demand upscaling and frame generation](https://www.pcgamer.com/hardware/star-wars-outlaws-performance-analysis-ray-traced-galaxies-far-far-away-really-really-demand-upscaling-and-frame-generation)<!-- GAME:END -->
+ - [Behold Shadow The Hedgehog In The First Sonic 3 Trailer](https://kotaku.com/sonic-hedgehog-3-first-trailer-keanu-reeves-shadow-1851632082)
+ - [Fields of Mistria is pure magic](https://www.polygon.com/review/444036/fields-of-mistria-review-pc-early-access)
+ - [Visions Of Mana: The Kotaku Review](https://kotaku.com/visions-of-mana-review-square-enix-1851632322)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
