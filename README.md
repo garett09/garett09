@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Upvote if you have opened your eyes.](http://9gag.com/gag/aVvq9Bn)
- - 🚯 [As a Swedish person, I have always wondered as well](http://9gag.com/gag/axyVQK2)
- - 🚯 [Sometimes you don&#39;t think you need something unless you see it.](http://9gag.com/gag/aMV86r6)<!-- MEMES:END -->
+ - 🚖 [I bet the plane had all the phelanges intact](http://9gag.com/gag/awyn2GW)
+ - 🚯 [Britain 2024](http://9gag.com/gag/a5QbAXq)
+ - 🚯 [Eeeee](http://9gag.com/gag/aByWzOZ)<!-- MEMES:END -->
 
 --- 
 
