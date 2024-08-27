@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fellow Tally Pro Precision Scale Review: A High-Quality Machine for True Coffee Nerds](https://www.wired.com/review/fellow-tally-pro-precision-scale-studio-edition/)
- - [Enough is enough: My kids are off YouTube and on Jellyfin](https://www.androidauthority.com/never-let-kids-watch-youtube-3471075/)
- - [Bose gets blinged out for its 60th anniversary with limited-edition diamond lineup](https://www.androidauthority.com/bose-diamond-3474562/)<!-- TECH:END -->
+ - [Cross-device services could soon get a Quick Share visibility toggle &lpar;APK teardown&rpar;](https://www.androidauthority.com/cross-device-sharing-quick-share-3475579/)
+ - [Windows PCs now play nicer with the PS5 controller](https://www.androidauthority.com/dualsense-app-windows-customization-support-3475597/)
+ - [44 Best Cheap Gear Under $30 &lpar;2024&rpar;: Phone Cases, Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
