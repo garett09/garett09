@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I bet the plane had all the phelanges intact](http://9gag.com/gag/awyn2GW)
- - 🚯 [Britain 2024](http://9gag.com/gag/a5QbAXq)
- - 🚯 [Eeeee](http://9gag.com/gag/aByWzOZ)<!-- MEMES:END -->
+ - 🚖 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
+ - 🚯 [Feminism is cancer](http://9gag.com/gag/aByWenN)
+ - 🚯 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)<!-- MEMES:END -->
 
 --- 
 
