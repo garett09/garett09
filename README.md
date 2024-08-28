@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cross-device services could soon get a Quick Share visibility toggle &lpar;APK teardown&rpar;](https://www.androidauthority.com/cross-device-sharing-quick-share-3475579/)
- - [Windows PCs now play nicer with the PS5 controller](https://www.androidauthority.com/dualsense-app-windows-customization-support-3475597/)
- - [44 Best Cheap Gear Under $30 &lpar;2024&rpar;: Phone Cases, Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)<!-- TECH:END -->
+ - [Investigation: a hacking group linked to Iran&#39;s Islamic Revolutionary Guard Corps has targeted former members of the Trump and Biden administrations since 2022 &lpar;CNN&rpar;](http://www.techmeme.com/240828/p11#a240828p11)
+ - [Apple all-in on struggling Matter, to the detriment of HomeKit Accessory Protocol](https://appleinsider.com/articles/24/08/28/apple-all-in-on-struggling-matter-to-the-detriment-of-homekit-accessory-protocol?utm_medium=rss)
+ - [A few days left: Watch this comedy gem before it leaves Netflix](https://www.androidauthority.com/movies-leaving-netflix-august-3475864/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
