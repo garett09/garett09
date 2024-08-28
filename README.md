@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Behold Shadow The Hedgehog In The First Sonic 3 Trailer](https://kotaku.com/sonic-hedgehog-3-first-trailer-keanu-reeves-shadow-1851632082)
- - [Fields of Mistria is pure magic](https://www.polygon.com/review/444036/fields-of-mistria-review-pc-early-access)
- - [Visions Of Mana: The Kotaku Review](https://kotaku.com/visions-of-mana-review-square-enix-1851632322)<!-- GAME:END -->
+ - [New Clair Obscur: Expedition 33 gameplay – fighting and exploring the Flying Waters region](https://blog.playstation.com/2024/08/28/new-clair-obscur-expedition-33-gameplay-fighting-and-exploring-the-flying-waters-region/)
+ - [Clair Obscur: Expedition 33 – A Detailed Breakdown of its Painterly RPG Combat](https://news.xbox.com/en-us/2024/08/28/clair-obscur-expedition-33-combat-breakdown-preview/)
+ - [Metaphor: ReFantazio shares DNA with Persona, but is its own fascinating beast](https://www.polygon.com/impressions/444848/metaphor-refantazio-preview-pc-ps5-xbox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
