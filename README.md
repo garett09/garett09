@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Posture. When Ai costs too much](http://9gag.com/gag/avyGwOq)
- - 🚯 [Feminism is cancer](http://9gag.com/gag/aByWenN)
- - 🚯 [Rebekah Valentine `Game Journalist` that wrote the Hit piece on Black Myth Wukong has left twitter.](http://9gag.com/gag/adB7zqB)<!-- MEMES:END -->
+ - 🚖 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
+ - 🚯 [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
+ - 🚯 [Extreme](http://9gag.com/gag/abAp88O)<!-- MEMES:END -->
 
 --- 
 
