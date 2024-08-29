@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: a hacking group linked to Iran&#39;s Islamic Revolutionary Guard Corps has targeted former members of the Trump and Biden administrations since 2022 &lpar;CNN&rpar;](http://www.techmeme.com/240828/p11#a240828p11)
- - [Apple all-in on struggling Matter, to the detriment of HomeKit Accessory Protocol](https://appleinsider.com/articles/24/08/28/apple-all-in-on-struggling-matter-to-the-detriment-of-homekit-accessory-protocol?utm_medium=rss)
- - [A few days left: Watch this comedy gem before it leaves Netflix](https://www.androidauthority.com/movies-leaving-netflix-august-3475864/)<!-- TECH:END -->
+ - [Google says Russia-linked APT29 is using exploits that are &quot;identical or strikingly similar&quot; to those previously made by spyware makers Intellexa and NSO Group &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240829/p18#a240829p18)
+ - [Google killed Fitbit smartwatches on purpose, and for good reason](https://www.androidauthority.com/fitbit-smartwatches-dead-3475281/)
+ - [Celebrate 10 years of Roborock robot vacuum and mop combos with deals your family will love](https://appleinsider.com/articles/24/08/29/celebrate-10-years-of-roborock-robot-vacuum-and-mop-combos-with-deals-your-family-will-love?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
