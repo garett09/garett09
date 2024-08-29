@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Clair Obscur: Expedition 33 gameplay – fighting and exploring the Flying Waters region](https://blog.playstation.com/2024/08/28/new-clair-obscur-expedition-33-gameplay-fighting-and-exploring-the-flying-waters-region/)
- - [Clair Obscur: Expedition 33 – A Detailed Breakdown of its Painterly RPG Combat](https://news.xbox.com/en-us/2024/08/28/clair-obscur-expedition-33-combat-breakdown-preview/)
- - [Metaphor: ReFantazio shares DNA with Persona, but is its own fascinating beast](https://www.polygon.com/impressions/444848/metaphor-refantazio-preview-pc-ps5-xbox)<!-- GAME:END -->
+ - [Report: PlayStation 5 Pro To Be Announced In A Few Weeks](https://kotaku.com/playstation-5-ps5-pro-release-date-announcement-1851635183)
+ - [The Lord Of The Rings: The Rings Of Power Season Two Opens Strong, Then Stumbles](https://kotaku.com/the-lord-of-the-rings-the-rings-of-power-season-two-op-1851634812)
+ - [Our favourite city builder of last year is releasing its first expansion next month, and it brings a new biome, new buildings and, oh yes, frog people](https://www.pcgamer.com/games/strategy/our-favourite-city-builder-of-last-year-is-releasing-its-first-expansion-next-month-and-it-brings-a-new-biome-new-buildings-and-oh-yes-frog-people)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
