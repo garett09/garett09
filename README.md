@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Russia-linked APT29 is using exploits that are &quot;identical or strikingly similar&quot; to those previously made by spyware makers Intellexa and NSO Group &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240829/p18#a240829p18)
- - [Google killed Fitbit smartwatches on purpose, and for good reason](https://www.androidauthority.com/fitbit-smartwatches-dead-3475281/)
- - [Celebrate 10 years of Roborock robot vacuum and mop combos with deals your family will love](https://appleinsider.com/articles/24/08/29/celebrate-10-years-of-roborock-robot-vacuum-and-mop-combos-with-deals-your-family-will-love?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Cold Plunge Pools in 2024—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)
+ - [The OnePlus 13 could arrive earlier than expected](https://www.androidauthority.com/oneplus-13-launch-sooner-3476807/)
+ - [All the news on Telegram CEO Pavel Durov’s arrest](https://www.theverge.com/2024/8/30/24232138/telegram-ceo-pavel-durov-arrest-france-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
