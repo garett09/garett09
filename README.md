@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Truth about Indian street food](http://9gag.com/gag/aQz9GR8)
- - 🚯 [If someone gives you warning, its better to listen to it](http://9gag.com/gag/aAydjxo)
- - 🚯 [Extreme](http://9gag.com/gag/abAp88O)<!-- MEMES:END -->
+ - 🚖 [The Paralympic Games have started again.](http://9gag.com/gag/avyGbB5)
+ - 🚯 [Germany police statement](http://9gag.com/gag/aGyeK15)
+ - 🚯 [Thanks! Just started gaming today!](http://9gag.com/gag/aoy1B93)<!-- MEMES:END -->
 
 --- 
 
