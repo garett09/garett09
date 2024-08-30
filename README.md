@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: PlayStation 5 Pro To Be Announced In A Few Weeks](https://kotaku.com/playstation-5-ps5-pro-release-date-announcement-1851635183)
- - [The Lord Of The Rings: The Rings Of Power Season Two Opens Strong, Then Stumbles](https://kotaku.com/the-lord-of-the-rings-the-rings-of-power-season-two-op-1851634812)
- - [Our favourite city builder of last year is releasing its first expansion next month, and it brings a new biome, new buildings and, oh yes, frog people](https://www.pcgamer.com/games/strategy/our-favourite-city-builder-of-last-year-is-releasing-its-first-expansion-next-month-and-it-brings-a-new-biome-new-buildings-and-oh-yes-frog-people)<!-- GAME:END -->
+ - [New Zelda: Echoes of Wisdom trailer reveals Zelda’s surprise swordfighter skills](https://www.polygon.com/gaming/445104/zelda-echoes-of-wisdom-trailer-swordfighter-link)
+ - [If in doubt, use more lube: Wooting&#39;s Lekker V2 switches now have tighter tolerances and more of the slippy stuff, insert your own joke here](https://www.pcgamer.com/hardware/gaming-keyboards/if-in-doubt-use-more-lube-wootings-lekker-v2-switches-now-have-tighter-tolerances-and-more-of-the-slippy-stuff-insert-your-own-joke-here)
+ - [Dead Rising Deluxe Remaster is making changes; the developers explain why](https://www.polygon.com/gaming/445587/dead-rising-deluxe-remaster-changes-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
