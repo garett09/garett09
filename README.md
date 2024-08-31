@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Cold Plunge Pools in 2024—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)
- - [The OnePlus 13 could arrive earlier than expected](https://www.androidauthority.com/oneplus-13-launch-sooner-3476807/)
- - [All the news on Telegram CEO Pavel Durov’s arrest](https://www.theverge.com/2024/8/30/24232138/telegram-ceo-pavel-durov-arrest-france-news)<!-- TECH:END -->
+ - [Has Google’s Tensor processor project really been good for the Pixel series?](https://www.androidauthority.com/google-tensor-pros-cons-3476310/)
+ - [Only Microsoft Can Save Windows-Powered Handheld Game Consoles &lpar;2024&rpar;](https://www.wired.com/story/only-microsoft-can-save-windows-gaming-handhelds/)
+ - [It’s been a great summer for indie games — here are some of the best](https://www.theverge.com/2024/8/31/24232540/summer-2024-best-indie-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
