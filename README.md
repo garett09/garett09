@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Paralympic Games have started again.](http://9gag.com/gag/avyGbB5)
- - 🚯 [Germany police statement](http://9gag.com/gag/aGyeK15)
- - 🚯 [Thanks! Just started gaming today!](http://9gag.com/gag/aoy1B93)<!-- MEMES:END -->
+ - 🚖 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
+ - 🚯 [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
+ - 🚯 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)<!-- MEMES:END -->
 
 --- 
 
