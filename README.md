@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Zelda: Echoes of Wisdom trailer reveals Zelda’s surprise swordfighter skills](https://www.polygon.com/gaming/445104/zelda-echoes-of-wisdom-trailer-swordfighter-link)
- - [If in doubt, use more lube: Wooting&#39;s Lekker V2 switches now have tighter tolerances and more of the slippy stuff, insert your own joke here](https://www.pcgamer.com/hardware/gaming-keyboards/if-in-doubt-use-more-lube-wootings-lekker-v2-switches-now-have-tighter-tolerances-and-more-of-the-slippy-stuff-insert-your-own-joke-here)
- - [Dead Rising Deluxe Remaster is making changes; the developers explain why](https://www.polygon.com/gaming/445587/dead-rising-deluxe-remaster-changes-interview)<!-- GAME:END -->
+ - [Everything Shown At The Latest Nintendo Direct, Fresh Details On Dragon Age: The Veilguard, And More Of The Week&#39;s Top Stories](https://kotaku.com/nintendo-direct-black-myth-wukong-ps5-pro-concord-1851637034)
+ - [How do you revive a game like Yars’ Revenge? Do something unexpected](https://www.polygon.com/gaming/446103/yars-revenge-rising-atari-wayforward-preview)
+ - [Netflix&#39;s Next Big Event Is A Uh...Hot Dog Eating Contest](https://kotaku.com/netflix-hotdog-eating-contest-chestnut-kobayashi-live-1851637338)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
