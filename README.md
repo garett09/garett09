@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Has Google’s Tensor processor project really been good for the Pixel series?](https://www.androidauthority.com/google-tensor-pros-cons-3476310/)
- - [Only Microsoft Can Save Windows-Powered Handheld Game Consoles &lpar;2024&rpar;](https://www.wired.com/story/only-microsoft-can-save-windows-gaming-handhelds/)
- - [It’s been a great summer for indie games — here are some of the best](https://www.theverge.com/2024/8/31/24232540/summer-2024-best-indie-games)<!-- TECH:END -->
+ - [The Best Reading Lights &lpar;2024&rpar;: Clip-On, Rechargeable, Portable](https://www.wired.com/gallery/best-reading-lights/)
+ - [If Google is serious about the weather, a Nest weather station would make tons of sense](https://www.androidauthority.com/google-weather-station-3475884/)
+ - [Sub.club is here to help the fediverse make money](https://www.theverge.com/2024/9/1/24232298/sub-club-fediverse-make-money)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
