@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rings of Power - Orcs are loving husbands now](http://9gag.com/gag/aBy8QKD)
- - 🚯 [Snow White and the Million Dislikes](http://9gag.com/gag/a878dm3)
- - 🚯 [What&#39;s a movie that got bad reviews but you love anyway?](http://9gag.com/gag/an7jX3z)<!-- MEMES:END -->
+ - 🚖 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
+ - 🚯 [From ear to ear what a moment](http://9gag.com/gag/aGyeRD6)
+ - 🚯 [That must have burned](http://9gag.com/gag/aD2z3md)<!-- MEMES:END -->
 
 --- 
 
