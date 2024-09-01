@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything Shown At The Latest Nintendo Direct, Fresh Details On Dragon Age: The Veilguard, And More Of The Week&#39;s Top Stories](https://kotaku.com/nintendo-direct-black-myth-wukong-ps5-pro-concord-1851637034)
- - [How do you revive a game like Yars’ Revenge? Do something unexpected](https://www.polygon.com/gaming/446103/yars-revenge-rising-atari-wayforward-preview)
- - [Netflix&#39;s Next Big Event Is A Uh...Hot Dog Eating Contest](https://kotaku.com/netflix-hotdog-eating-contest-chestnut-kobayashi-live-1851637338)<!-- GAME:END -->
+ - [Ok, but why do certain languages spoken with American intonations sound exactly like Simlish?](https://www.polygon.com/the-sims/446366/simlish-japanese-french-valley-girl-frat-bro-accent)
+ - [The Words &quot;Movie Set&quot; And &quot;Sable&quot; Are Driving Millions Of Players Crazy In Today&#39;s NYT Connections Groups](https://kotaku.com/nyt-connections-groups-and-answers-sunday-september-1-1851637728)
+ - [Every movie and show coming to Netflix in September](https://www.polygon.com/entertainment/445323/new-netflix-september-2024-movies-tv-to-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
