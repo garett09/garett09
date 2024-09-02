@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ok, but why do certain languages spoken with American intonations sound exactly like Simlish?](https://www.polygon.com/the-sims/446366/simlish-japanese-french-valley-girl-frat-bro-accent)
- - [The Words &quot;Movie Set&quot; And &quot;Sable&quot; Are Driving Millions Of Players Crazy In Today&#39;s NYT Connections Groups](https://kotaku.com/nyt-connections-groups-and-answers-sunday-september-1-1851637728)
- - [Every movie and show coming to Netflix in September](https://www.polygon.com/entertainment/445323/new-netflix-september-2024-movies-tv-to-watch)<!-- GAME:END -->
+ - [Capcom Just Made Its Disastrous Mobile Resident Evil Games Even Worse](https://kotaku.com/resident-evil-7-village-capcom-ios-apple-1851637885)
+ - [Toonami’s push for original anime has always been ahead of the curve](https://www.polygon.com/anime/446097/toonami-original-anime-rick-morty-uzumaki-history)
+ - [Mind Cores Make All The Difference In Black Myth: Wukong](https://kotaku.com/black-myth-wukong-mind-cores-xu-dog-grind-1851637869)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
