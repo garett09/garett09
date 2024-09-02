@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Reading Lights &lpar;2024&rpar;: Clip-On, Rechargeable, Portable](https://www.wired.com/gallery/best-reading-lights/)
- - [If Google is serious about the weather, a Nest weather station would make tons of sense](https://www.androidauthority.com/google-weather-station-3475884/)
- - [Sub.club is here to help the fediverse make money](https://www.theverge.com/2024/9/1/24232298/sub-club-fediverse-make-money)<!-- TECH:END -->
+ - [Google Pixel 9 review: the phone that Android needs](https://www.theverge.com/24232480/google-pixel-9-review-screen-camera-battery)
+ - [Google Chrome could soon bring back tab group sharing](https://www.androidauthority.com/chrome-tab-group-sharing-preview-3477341/)
+ - [Social networks can’t be forced to filter content for kids, says judge](https://www.theverge.com/2024/9/2/24232366/texas-scope-act-hb18-blocked-kids-online-safety)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
