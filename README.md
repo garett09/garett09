@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How did we go from these epic monstrous battles to\u2026to\u2026this\u2026.](http://9gag.com/gag/aAyDpWd)
- - 🚯 [From ear to ear what a moment](http://9gag.com/gag/aGyeRD6)
- - 🚯 [That must have burned](http://9gag.com/gag/aD2z3md)<!-- MEMES:END -->
+ - 🚖 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
+ - 🚯 [Penny wise](http://9gag.com/gag/a1mKXQ6)
+ - 🚯 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)<!-- MEMES:END -->
 
 --- 
 
