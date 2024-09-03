@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9 review: the phone that Android needs](https://www.theverge.com/24232480/google-pixel-9-review-screen-camera-battery)
- - [Google Chrome could soon bring back tab group sharing](https://www.androidauthority.com/chrome-tab-group-sharing-preview-3477341/)
- - [Social networks can’t be forced to filter content for kids, says judge](https://www.theverge.com/2024/9/2/24232366/texas-scope-act-hb18-blocked-kids-online-safety)<!-- TECH:END -->
+ - [Peak Design’s Outdoor bags are ready for your next adventure](https://www.theverge.com/2024/9/3/24232208/peak-design-outdoor-backpacks-slings-price-specs)
+ - [Bored of ChatGPT’s current voices? We’ve got good news for you](https://www.androidauthority.com/chatgpt-soon-offer-more-voices-3477784/)
+ - [Some Big Tech critics worry that Kamala Harris&#39; deep ties to tech companies could prompt her to abandon Democrats&#39; recent aggressive stance toward the sector &lpar;Washington Post&rpar;](http://www.techmeme.com/240903/p11#a240903p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
