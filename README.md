@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Just Made Its Disastrous Mobile Resident Evil Games Even Worse](https://kotaku.com/resident-evil-7-village-capcom-ios-apple-1851637885)
- - [Toonami’s push for original anime has always been ahead of the curve](https://www.polygon.com/anime/446097/toonami-original-anime-rick-morty-uzumaki-history)
- - [Mind Cores Make All The Difference In Black Myth: Wukong](https://kotaku.com/black-myth-wukong-mind-cores-xu-dog-grind-1851637869)<!-- GAME:END -->
+ - [Stalker 2: Heart of Chernobyl is downright gorgeous, and feels like it&#39;s using modern tech to fully realise the atmosphere the first game strove for](https://www.pcgamer.com/games/fps/stalker-2-heart-of-chernobyl-is-downright-gorgeous-using-modern-tech-to-further-draw-its-player-into-the-atmosphere-the-first-game-wanted-to-create)
+ - [Lexip Sasuke Revenge Naruto Shippuden gaming headset review](https://www.pcgamer.com/hardware/gaming-headsets/lexip-sasuke-revenge-naruto-shippuden-gaming-headset-review)
+ - [Rethinking Lara Croft was a ‘unique pressure,’ says Tomb Raider showrunner](https://www.polygon.com/tv/446607/tomb-raider-legend-lara-croft-netflix-show-design-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
