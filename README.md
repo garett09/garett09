@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is so pure...love always wins](http://9gag.com/gag/aKGDBp1)
- - 🚯 [Penny wise](http://9gag.com/gag/a1mKXQ6)
- - 🚯 [Go woke and go broke Empowered](http://9gag.com/gag/ajPNqrx)<!-- MEMES:END -->
+ - 🚖 [The end is the best](http://9gag.com/gag/aBy88WO)
+ - 🚯 [I Am Vengeance](http://9gag.com/gag/awyQ50W)
+ - 🚯 [Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/aGye0oZ)<!-- MEMES:END -->
 
 --- 
 
