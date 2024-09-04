@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stalker 2: Heart of Chernobyl is downright gorgeous, and feels like it&#39;s using modern tech to fully realise the atmosphere the first game strove for](https://www.pcgamer.com/games/fps/stalker-2-heart-of-chernobyl-is-downright-gorgeous-using-modern-tech-to-further-draw-its-player-into-the-atmosphere-the-first-game-wanted-to-create)
- - [Lexip Sasuke Revenge Naruto Shippuden gaming headset review](https://www.pcgamer.com/hardware/gaming-headsets/lexip-sasuke-revenge-naruto-shippuden-gaming-headset-review)
- - [Rethinking Lara Croft was a ‘unique pressure,’ says Tomb Raider showrunner](https://www.polygon.com/tv/446607/tomb-raider-legend-lara-croft-netflix-show-design-interview)<!-- GAME:END -->
+ - [Fantasian: Neo Dimension on PS5 – hands-on report](https://blog.playstation.com/2024/09/04/fantasian-neo-dimension-on-ps5-hands-on-report/)
+ - [No Man&#39;s Sky finally delivers the perfect reason to explore a few trillion planets: to go fishing](https://www.pcgamer.com/games/survival-crafting/no-mans-sky-finally-delivers-the-perfect-reason-to-explore-a-few-trillion-planets-to-go-fishing)
+ - [A First Look at the Minecraft Movie](https://www.minecraft.net/article/a-first-look-at-the-minecraft-movie#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
