@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The end is the best](http://9gag.com/gag/aBy88WO)
- - 🚯 [I Am Vengeance](http://9gag.com/gag/awyQ50W)
- - 🚯 [Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/aGye0oZ)<!-- MEMES:END -->
+ - 🚖 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)
+ - 🚯 [Italian is the best](http://9gag.com/gag/azxqXLq)
+ - 🚯 [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)<!-- MEMES:END -->
 
 --- 
 
