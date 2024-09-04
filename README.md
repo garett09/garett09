@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peak Design’s Outdoor bags are ready for your next adventure](https://www.theverge.com/2024/9/3/24232208/peak-design-outdoor-backpacks-slings-price-specs)
- - [Bored of ChatGPT’s current voices? We’ve got good news for you](https://www.androidauthority.com/chatgpt-soon-offer-more-voices-3477784/)
- - [Some Big Tech critics worry that Kamala Harris&#39; deep ties to tech companies could prompt her to abandon Democrats&#39; recent aggressive stance toward the sector &lpar;Washington Post&rpar;](http://www.techmeme.com/240903/p11#a240903p11)<!-- TECH:END -->
+ - [The Acer Nitro Blaze 7 is the latest Steam Deck rival, but we have concerns](https://www.androidauthority.com/acer-nitro-blaze-7-3477711/)
+ - [This new Android tablet with a 12.6-inch 2.5K AMOLED display is surprisingly affordable](https://www.androidauthority.com/acer-iconia-x12-tablet-launched-3477461/)
+ - [Acer’s first Snapdragon X Plus 8-core laptop is here](https://www.androidauthority.com/acer-swift-go-14-ai-3478130/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
