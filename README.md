@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Acer Nitro Blaze 7 is the latest Steam Deck rival, but we have concerns](https://www.androidauthority.com/acer-nitro-blaze-7-3477711/)
- - [This new Android tablet with a 12.6-inch 2.5K AMOLED display is surprisingly affordable](https://www.androidauthority.com/acer-iconia-x12-tablet-launched-3477461/)
- - [Acer’s first Snapdragon X Plus 8-core laptop is here](https://www.androidauthority.com/acer-swift-go-14-ai-3478130/)<!-- TECH:END -->
+ - [Lockly&#39;s Zeno smart lock range supports Apple&#39;s Home Key](https://appleinsider.com/articles/24/09/05/locklys-zeno-smart-lock-range-supports-apples-home-key?utm_medium=rss)
+ - [PayPal expands into point-of-sale payments in the US by integrating its debit card with Apple Wallet and offering 5% cash back for some products up to $1K/month &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240905/p18#a240905p18)
+ - [Samsung gets on the Snapdragon X Plus 8-core train with a new thin and light laptop](https://www.androidauthority.com/samsung-galaxy-book-4-edge-snapdragon-x-plus-8-core-laptop-3478657/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
