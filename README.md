@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantasian: Neo Dimension on PS5 – hands-on report](https://blog.playstation.com/2024/09/04/fantasian-neo-dimension-on-ps5-hands-on-report/)
- - [No Man&#39;s Sky finally delivers the perfect reason to explore a few trillion planets: to go fishing](https://www.pcgamer.com/games/survival-crafting/no-mans-sky-finally-delivers-the-perfect-reason-to-explore-a-few-trillion-planets-to-go-fishing)
- - [A First Look at the Minecraft Movie](https://www.minecraft.net/article/a-first-look-at-the-minecraft-movie#new_tab)<!-- GAME:END -->
+ - [Gimmick 2&#39;s platforming offers a satisfying frustration I haven&#39;t felt since Celeste](https://www.pcgamer.com/games/adventure/gimmick-2s-platforming-offers-a-satisfying-frustration-i-havent-felt-since-celeste)
+ - [Deadlock&#39;s best girl is &lpar;judging by the fanart&rpar; a scrunkly gargoyle with a flat cap and severe back issues, who just so happens to be an absolute sweetheart](https://www.pcgamer.com/games/moba/deadlock-s-best-girl-is-judging-by-the-fanart-a-scrunkly-gargoyle-with-a-flat-cap-and-severe-back-issues-who-is-genuinely-an-absolute-sweetheart)
+ - [The mind-blowing fantasy movie The Fall is finally back, in 4K](https://www.polygon.com/trailer/448140/the-fall-movie-4k-streaming-mubi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
