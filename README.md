@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chewin&#39; The Fat....Scottish Comedy Show](http://9gag.com/gag/aGyeZqw)
- - 🚯 [Italian is the best](http://9gag.com/gag/azxqXLq)
- - 🚯 [The Latest From Elmo.](http://9gag.com/gag/aVvM3qd)<!-- MEMES:END -->
+ - 🚖 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
+ - 🚯 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
+ - 🚯 [Your welcome](http://9gag.com/gag/aNDzpm3)<!-- MEMES:END -->
 
 --- 
 
