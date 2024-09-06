@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gimmick 2&#39;s platforming offers a satisfying frustration I haven&#39;t felt since Celeste](https://www.pcgamer.com/games/adventure/gimmick-2s-platforming-offers-a-satisfying-frustration-i-havent-felt-since-celeste)
- - [Deadlock&#39;s best girl is &lpar;judging by the fanart&rpar; a scrunkly gargoyle with a flat cap and severe back issues, who just so happens to be an absolute sweetheart](https://www.pcgamer.com/games/moba/deadlock-s-best-girl-is-judging-by-the-fanart-a-scrunkly-gargoyle-with-a-flat-cap-and-severe-back-issues-who-is-genuinely-an-absolute-sweetheart)
- - [The mind-blowing fantasy movie The Fall is finally back, in 4K](https://www.polygon.com/trailer/448140/the-fall-movie-4k-streaming-mubi)<!-- GAME:END -->
+ - [If you put hot dogs and pickles against an AM radio tower, they act as speakers. Also, don&#39;t do that](https://www.pcgamer.com/hardware/if-you-put-hot-dogs-and-pickles-against-an-am-radio-tower-they-act-as-speakers-also-dont-do-that)
+ - [Galadriel’s kickass orc-fighting has unexpected weight, considering the orc babies at home](https://www.polygon.com/lotr-rings-of-power/448524/trop-orc-adar-galadriel-orc-fight-how)
+ - [Harry Potter: Quidditch Champions, as this video shows, feels like a trial run for its inclusion in Hogwarts Legacy 2](https://www.pcgamer.com/games/action/harry-potter-quidditch-champions-as-this-video-shows-feels-like-a-trial-run-for-its-inclusion-in-hogwarts-legacy-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
