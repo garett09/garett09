@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lockly&#39;s Zeno smart lock range supports Apple&#39;s Home Key](https://appleinsider.com/articles/24/09/05/locklys-zeno-smart-lock-range-supports-apples-home-key?utm_medium=rss)
- - [PayPal expands into point-of-sale payments in the US by integrating its debit card with Apple Wallet and offering 5% cash back for some products up to $1K/month &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240905/p18#a240905p18)
- - [Samsung gets on the Snapdragon X Plus 8-core train with a new thin and light laptop](https://www.androidauthority.com/samsung-galaxy-book-4-edge-snapdragon-x-plus-8-core-laptop-3478657/)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s September 9 iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/articles/24/08/26/what-to-expect-from-apples-september-9-iphone-16-glowtime-event?utm_medium=rss)
+ - [Trump says Elon Musk has agreed to lead a government efficiency commission, which would give Musk influence over federal agencies that regulate his companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240906/p10#a240906p10)
+ - [Elektron Digitakt II Review: The Most Versatile Sampler and Sequencer](https://www.wired.com/review/elektron-digitakt-ii/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
