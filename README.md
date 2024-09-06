@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He was so close to lose his job](http://9gag.com/gag/aqy1eN7)
- - 🚯 [Blackrock owns majority Amazon shares after Bezos.](http://9gag.com/gag/avy7zbq)
- - 🚯 [Your welcome](http://9gag.com/gag/aNDzpm3)<!-- MEMES:END -->
+ - 🚖 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
+ - 🚯 [Blind Paralympics long jumper in action](http://9gag.com/gag/aMVAVMW)
+ - 🚯 [Probably not the best plan](http://9gag.com/gag/aYQ4oxm)<!-- MEMES:END -->
 
 --- 
 
