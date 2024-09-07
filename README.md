@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you put hot dogs and pickles against an AM radio tower, they act as speakers. Also, don&#39;t do that](https://www.pcgamer.com/hardware/if-you-put-hot-dogs-and-pickles-against-an-am-radio-tower-they-act-as-speakers-also-dont-do-that)
- - [Galadriel’s kickass orc-fighting has unexpected weight, considering the orc babies at home](https://www.polygon.com/lotr-rings-of-power/448524/trop-orc-adar-galadriel-orc-fight-how)
- - [Harry Potter: Quidditch Champions, as this video shows, feels like a trial run for its inclusion in Hogwarts Legacy 2](https://www.pcgamer.com/games/action/harry-potter-quidditch-champions-as-this-video-shows-feels-like-a-trial-run-for-its-inclusion-in-hogwarts-legacy-2)<!-- GAME:END -->
+ - [If You&#39;ve Never Noticed The Logo On A Godiva Wrapper, Today&#39;s NYT Connections Groups Will Be Tough](https://kotaku.com/nyt-connections-groups-and-answers-saturday-september-1851642734)
+ - [The best movies new to streaming this September](https://www.polygon.com/what-to-watch/447029/best-new-movies-netflix-amazon-prime-max-hulu-september-2024)
+ - [Monster Hunter Wilds made me a believer in its ecosystem](https://www.polygon.com/preview/449206/monster-hunter-wilds-ecosystem-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
