@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to catch a dangerous noodle](http://9gag.com/gag/aQzez3d)
- - 🚯 [Blind Paralympics long jumper in action](http://9gag.com/gag/aMVAVMW)
- - 🚯 [Probably not the best plan](http://9gag.com/gag/aYQ4oxm)<!-- MEMES:END -->
+ - 🚖 [Magician at the table](http://9gag.com/gag/aD2z2OB)
+ - 🚯 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
+ - 🚯 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)<!-- MEMES:END -->
 
 --- 
 
