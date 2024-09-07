@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s September 9 iPhone 16 &#39;Glowtime&#39; event](https://appleinsider.com/articles/24/08/26/what-to-expect-from-apples-september-9-iphone-16-glowtime-event?utm_medium=rss)
- - [Trump says Elon Musk has agreed to lead a government efficiency commission, which would give Musk influence over federal agencies that regulate his companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240906/p10#a240906p10)
- - [Elektron Digitakt II Review: The Most Versatile Sampler and Sequencer](https://www.wired.com/review/elektron-digitakt-ii/)<!-- TECH:END -->
+ - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
+ - [The 7 Best Folding Phones We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-folding-phones/)
+ - [Starliner Spacecraft Leaves Astronauts Stranded in Space. Here&#39;s How They&#39;ll Be Rescued](https://www.cnet.com/science/starliner-spacecraft-leaves-astronauts-stranded-in-space-heres-how-theyll-be-rescued/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
