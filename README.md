@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
- - [The 7 Best Folding Phones We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-folding-phones/)
- - [Starliner Spacecraft Leaves Astronauts Stranded in Space. Here&#39;s How They&#39;ll Be Rescued](https://www.cnet.com/science/starliner-spacecraft-leaves-astronauts-stranded-in-space-heres-how-theyll-be-rescued/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Electric Grilling Is Still a Little Raw in the Middle](https://www.wired.com/story/electric-grilling-not-there-yet/)
+ - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Dinosaur-Killing Asteroid Origins: Scientists Believe They Now Know Where It Came From](https://www.cnet.com/tech/dinosaur-killing-asteroid-origins-scientists-believe-they-now-know-where-it-came-from/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
