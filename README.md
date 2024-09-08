@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If You&#39;ve Never Noticed The Logo On A Godiva Wrapper, Today&#39;s NYT Connections Groups Will Be Tough](https://kotaku.com/nyt-connections-groups-and-answers-saturday-september-1851642734)
- - [The best movies new to streaming this September](https://www.polygon.com/what-to-watch/447029/best-new-movies-netflix-amazon-prime-max-hulu-september-2024)
- - [Monster Hunter Wilds made me a believer in its ecosystem](https://www.polygon.com/preview/449206/monster-hunter-wilds-ecosystem-preview)<!-- GAME:END -->
+ - [15 Years Ago, The Beatles: Rock Band Made Me A Fab Four Fan For Life](https://kotaku.com/the-beatles-rock-band-harmonix-anniversary-1851642490)
+ - [What does the future of Vtubing look like? Cover’s Yagoo has the answer](https://www.polygon.com/q-and-a/448035/vtubers-cover-yagoo-interview)
+ - [Fan-favorite stunty teams are coming to Blood Bowl 3 at last](https://www.pcgamer.com/games/board-games/fan-favorite-stunty-teams-are-coming-to-blood-bowl-3-at-last)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
