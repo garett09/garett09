@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Magician at the table](http://9gag.com/gag/aD2z2OB)
- - 🚯 [I think he stood there for a while after that](http://9gag.com/gag/aW4q49d)
- - 🚯 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)<!-- MEMES:END -->
+ - 🚖 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
+ - 🚯 [`Take me to the slaughter` sounds so badass](http://9gag.com/gag/aoyOx6A)
+ - 🚯 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
 
 --- 
 
