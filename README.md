@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Electric Grilling Is Still a Little Raw in the Middle](https://www.wired.com/story/electric-grilling-not-there-yet/)
- - [The Best Android Phones of 2024, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Dinosaur-Killing Asteroid Origins: Scientists Believe They Now Know Where It Came From](https://www.cnet.com/tech/dinosaur-killing-asteroid-origins-scientists-believe-they-now-know-where-it-came-from/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
+ - [The DOJ&#39;s case against Google&#39;s ad business may benefit major news organizations that pay Google to broker their website ads and have faced financial struggles &lpar;Washington Post&rpar;](http://www.techmeme.com/240909/p8#a240909p8)
+ - [Samsung&#39;s Latest Galaxy Watch Ultra Is Now at Its Lowest Ever Price](https://www.cnet.com/deals/samsungs-latest-galaxy-watch-ultra-is-now-at-its-lowest-ever-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
