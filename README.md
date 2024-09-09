@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [15 Years Ago, The Beatles: Rock Band Made Me A Fab Four Fan For Life](https://kotaku.com/the-beatles-rock-band-harmonix-anniversary-1851642490)
- - [What does the future of Vtubing look like? Cover’s Yagoo has the answer](https://www.polygon.com/q-and-a/448035/vtubers-cover-yagoo-interview)
- - [Fan-favorite stunty teams are coming to Blood Bowl 3 at last](https://www.pcgamer.com/games/board-games/fan-favorite-stunty-teams-are-coming-to-blood-bowl-3-at-last)<!-- GAME:END -->
+ - [The 36 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [The 36 best couch co-op games for Nintendo Switch](https://www.polygon.com/what-to-play/23475572/best-couch-co-op-local-multiplayer-games-nintendo-switch)
+ - [The best comedy movies of 2024 so far](https://www.polygon.com/what-to-watch/24152189/best-comedy-movies-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
