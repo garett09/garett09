@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [US NAVY officer demoted for trying to install Starlink on their ship](http://9gag.com/gag/ary5XbV)
- - 🚯 [`Take me to the slaughter` sounds so badass](http://9gag.com/gag/aoyOx6A)
- - 🚯 [That&#39;s a Terrible Way To Die](http://9gag.com/gag/adB913j)<!-- MEMES:END -->
+ - 🚖 [NEW FEAR UNLOCKED INDEED](http://9gag.com/gag/a1mKEND)
+ - 🚯 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
+ - 🚯 [New fear unlocked](http://9gag.com/gag/aKGDYN1)<!-- MEMES:END -->
 
 --- 
 
