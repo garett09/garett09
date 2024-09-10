@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
- - [The DOJ&#39;s case against Google&#39;s ad business may benefit major news organizations that pay Google to broker their website ads and have faced financial struggles &lpar;Washington Post&rpar;](http://www.techmeme.com/240909/p8#a240909p8)
- - [Samsung&#39;s Latest Galaxy Watch Ultra Is Now at Its Lowest Ever Price](https://www.cnet.com/deals/samsungs-latest-galaxy-watch-ultra-is-now-at-its-lowest-ever-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iPhone 16 is here — but it’s not finished](https://www.theverge.com/2024/9/10/24240787/apple-iphone-16-intelligence-camera-control)
+ - [The Best Sheets for Every Body, Bed, and Budget &lpar;2024&rpar;](https://www.wired.com/story/best-bedsheets/)
+ - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
