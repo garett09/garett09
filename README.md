@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NEW FEAR UNLOCKED INDEED](http://9gag.com/gag/a1mKEND)
- - 🚯 [A normal group dev? Blasphemy!!!](http://9gag.com/gag/aoyO4YA)
- - 🚯 [New fear unlocked](http://9gag.com/gag/aKGDYN1)<!-- MEMES:END -->
+ - 🚖 [This is how all cops should be in US](http://9gag.com/gag/azxqR0z)
+ - 🚯 [How to calm a roo. Edited the video upside down, alps can be seen in background aswell](http://9gag.com/gag/a1mKEq6)
+ - 🚯 [This guy who worked at 7-11 for FIFTY YEARS got nothing aside from an e-mail as a reward.](http://9gag.com/gag/ary5245)<!-- MEMES:END -->
 
 --- 
 
