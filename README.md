@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 36 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [The 36 best couch co-op games for Nintendo Switch](https://www.polygon.com/what-to-play/23475572/best-couch-co-op-local-multiplayer-games-nintendo-switch)
- - [The best comedy movies of 2024 so far](https://www.polygon.com/what-to-watch/24152189/best-comedy-movies-2024)<!-- GAME:END -->
+ - [Pokémon Go ‘Galar Calling’ choose a path quest steps: Grookey, Scorbunny, or Sobble?](https://www.polygon.com/pokemon-go-guide/446920/galar-calling-choose-a-path-grookey-scorbunny-sobble-adventure)
+ - [Fatal Fury: City of the Wolves interview  — SNK director discusses the series’ new direction](https://blog.playstation.com/2024/09/10/fatal-fury-city-of-the-wolves-interview-snk-director-discusses-the-series-new-direction/)
+ - [Towerborne Releases in Steam Early Access Today](https://news.xbox.com/en-us/2024/09/10/towerborne-releases-in-steam-early-access-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
