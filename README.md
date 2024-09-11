@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 16 is here — but it’s not finished](https://www.theverge.com/2024/9/10/24240787/apple-iphone-16-intelligence-camera-control)
- - [The Best Sheets for Every Body, Bed, and Budget &lpar;2024&rpar;](https://www.wired.com/story/best-bedsheets/)
- - [Flagship showdown -- iPhone 16 Pro vs iPhone 15 Pro features compared](https://appleinsider.com/inside/iphone-16/vs/flagship-showdown----iphone-16-pro-vs-iphone-15-pro-features-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Save up to 40% on Samsung monitors &amp; portable SSDs to pair with your Mac, iPad](https://appleinsider.com/articles/24/09/11/save-up-to-40-on-samsung-monitors-portable-ssds-to-pair-with-your-mac-ipad?utm_medium=rss)
+ - [Adobe previews its upcoming text-to-video generative AI tools](https://www.theverge.com/2024/9/11/24241649/adobe-firefly-text-to-video-generative-ai-features-preview)
+ - [Chainalysis: payments in Singapore using stablecoins reached a record high of almost $1B in Q2, led by transactions at merchant outlets &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240911/p11#a240911p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
