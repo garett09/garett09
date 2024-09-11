@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Galar Calling’ choose a path quest steps: Grookey, Scorbunny, or Sobble?](https://www.polygon.com/pokemon-go-guide/446920/galar-calling-choose-a-path-grookey-scorbunny-sobble-adventure)
- - [Fatal Fury: City of the Wolves interview  — SNK director discusses the series’ new direction](https://blog.playstation.com/2024/09/10/fatal-fury-city-of-the-wolves-interview-snk-director-discusses-the-series-new-direction/)
- - [Towerborne Releases in Steam Early Access Today](https://news.xbox.com/en-us/2024/09/10/towerborne-releases-in-steam-early-access-today/)<!-- GAME:END -->
+ - [Here’s Some Comparisons of Games Running On PlayStation 5 Pro](https://kotaku.com/playstation-5-pro-ps5-comparison-spiderman-last-of-us-1851645005)
+ - [March of the Ants board game brings brisk 4X action to your backyard](https://www.polygon.com/tabletop-games/450160/march-of-the-ants-evolved-edition-kickstarter-preview-interview)
+ - [PC vs. PS5 Pro: Making PC gaming more relevant than ever](https://www.pcgamer.com/hardware/pc-vs-ps5-pro-making-pc-gaming-more-relevant-than-ever)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
