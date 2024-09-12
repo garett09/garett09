@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s Some Comparisons of Games Running On PlayStation 5 Pro](https://kotaku.com/playstation-5-pro-ps5-comparison-spiderman-last-of-us-1851645005)
- - [March of the Ants board game brings brisk 4X action to your backyard](https://www.polygon.com/tabletop-games/450160/march-of-the-ants-evolved-edition-kickstarter-preview-interview)
- - [PC vs. PS5 Pro: Making PC gaming more relevant than ever](https://www.pcgamer.com/hardware/pc-vs-ps5-pro-making-pc-gaming-more-relevant-than-ever)<!-- GAME:END -->
+ - [Xbox lays off 650 more people, Spencer says no games cancelled](https://www.polygon.com/news/450717/microsoft-xbox-layoffs-september-2024)
+ - [Transformers One: The Kotaku Review](https://kotaku.com/transformers-one-review-prequel-optimus-prime-megatron-1851646612)
+ - [Helldivers 2 The Chemical Agents Warbond launches Sept 19](https://blog.playstation.com/2024/09/12/helldivers-2-the-chemical-agents-warbond-launches-sept-19/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
