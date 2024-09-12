@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to 40% on Samsung monitors &amp; portable SSDs to pair with your Mac, iPad](https://appleinsider.com/articles/24/09/11/save-up-to-40-on-samsung-monitors-portable-ssds-to-pair-with-your-mac-ipad?utm_medium=rss)
- - [Adobe previews its upcoming text-to-video generative AI tools](https://www.theverge.com/2024/9/11/24241649/adobe-firefly-text-to-video-generative-ai-features-preview)
- - [Chainalysis: payments in Singapore using stablecoins reached a record high of almost $1B in Q2, led by transactions at merchant outlets &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240911/p11#a240911p11)<!-- TECH:END -->
+ - [SpaceX’s Polaris Dawn completed the first private spacewalk](https://www.theverge.com/2024/9/12/24242730/spacex-polaris-dawn-first-private-spacewalk-jared-isaacman)
+ - [iFixit made its own USB-C soldering iron, and it’s already a joy](https://www.theverge.com/2024/9/12/24242497/ifixit-fixhub-usb-soldering-iron-station-battery-toolkit-price-release-date)
+ - [Google Wallet will let you make a digital ID from a US passport](https://www.theverge.com/2024/9/12/24242033/google-wallet-us-passport-drivers-license-digital-id)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
