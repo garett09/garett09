@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Come on, just tolerate the intolerant you bigot!](http://9gag.com/gag/aBy8N3z)
- - 🚯 [This is amazing!](http://9gag.com/gag/avy7X0d)
- - 🚯 [NENENNNNNN!!!!!](http://9gag.com/gag/adB9rBd)<!-- MEMES:END -->
+ - 🚖 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
+ - 🚯 [Tables are turned](http://9gag.com/gag/aKGDXeN)
+ - 🚯 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
 
 --- 
 
