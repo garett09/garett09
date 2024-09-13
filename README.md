@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox lays off 650 more people, Spencer says no games cancelled](https://www.polygon.com/news/450717/microsoft-xbox-layoffs-september-2024)
- - [Transformers One: The Kotaku Review](https://kotaku.com/transformers-one-review-prequel-optimus-prime-megatron-1851646612)
- - [Helldivers 2 The Chemical Agents Warbond launches Sept 19](https://blog.playstation.com/2024/09/12/helldivers-2-the-chemical-agents-warbond-launches-sept-19/)<!-- GAME:END -->
+ - [Dress to Impress codes and how to redeem](https://www.pcgamer.com/games/roblox/dress-to-impress-codes)
+ - [Altered TCG rivals Magic, Lorcana, and Star Wars: Unlimited with colorful combatants and a brilliant app](https://www.polygon.com/review/450660/altered-tcg-review)
+ - [It&#39;s Time To Take Down Mysterio In Fortnite&#39;s Marvel Season](https://kotaku.com/fortnite-chapter-5-week-4-mysterio-illusionist-guide-1851647595)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
