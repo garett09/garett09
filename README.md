@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX’s Polaris Dawn completed the first private spacewalk](https://www.theverge.com/2024/9/12/24242730/spacex-polaris-dawn-first-private-spacewalk-jared-isaacman)
- - [iFixit made its own USB-C soldering iron, and it’s already a joy](https://www.theverge.com/2024/9/12/24242497/ifixit-fixhub-usb-soldering-iron-station-battery-toolkit-price-release-date)
- - [Google Wallet will let you make a digital ID from a US passport](https://www.theverge.com/2024/9/12/24242033/google-wallet-us-passport-drivers-license-digital-id)<!-- TECH:END -->
+ - [Here’s what you need to know about preordering the new iPhone 16](https://www.theverge.com/24237057/apple-iphone-16-plus-pro-max-preorder-buy-price-release-date)
+ - [Camera Control, iPhone 16 Pro, Apple Watch, and AirPods, on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/13/camera-control-iphone-16-pro-apple-watch-and-airpods-on-the-appleinsider-podcast?utm_medium=rss)
+ - [The real cost of the PS5 Pro](https://www.theverge.com/2024/9/13/24243439/ps5-pro-iphone-16-google-ads-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
