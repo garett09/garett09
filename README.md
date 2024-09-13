@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kick and scream all you want.....it&#39;s gonna happen.](http://9gag.com/gag/aPA9Lgq)
- - 🚯 [Tables are turned](http://9gag.com/gag/aKGDXeN)
- - 🚯 [`No evidence` the longer version has he speaking... She is Haitian. End of.](http://9gag.com/gag/avy74qM)<!-- MEMES:END -->
+ - 🚖 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
+ - 🚯 [Mortified](http://9gag.com/gag/aAyD9O0)
+ - 🚯 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
 
 --- 
 
