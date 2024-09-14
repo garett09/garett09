@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To all 9 gagers](http://9gag.com/gag/apRQw2D)
- - 🚯 [Mortified](http://9gag.com/gag/aAyD9O0)
- - 🚯 [The fake petition comments are gold\u2026](http://9gag.com/gag/avy7qPn)<!-- MEMES:END -->
+ - 🚖 [Louis is one of the best characters in the series](http://9gag.com/gag/aqy10bR)
+ - 🚯 [An islamic immigrant beating police cop in London, I think you imported a very wrong group of immigrants Europe!!](http://9gag.com/gag/aNDz7Yb)
+ - 🚯 [I just went through your profile and laughed at some of your memes from a decade ago. Sleep well my friend](http://9gag.com/gag/a878xN1)<!-- MEMES:END -->
 
 --- 
 
