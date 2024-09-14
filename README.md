@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dress to Impress codes and how to redeem](https://www.pcgamer.com/games/roblox/dress-to-impress-codes)
- - [Altered TCG rivals Magic, Lorcana, and Star Wars: Unlimited with colorful combatants and a brilliant app](https://www.polygon.com/review/450660/altered-tcg-review)
- - [It&#39;s Time To Take Down Mysterio In Fortnite&#39;s Marvel Season](https://kotaku.com/fortnite-chapter-5-week-4-mysterio-illusionist-guide-1851647595)<!-- GAME:END -->
+ - [The best thrillers to watch on Netflix this September](https://www.polygon.com/what-to-watch/451107/best-thriller-movies-netflix-watch-september-2024)
+ - [2001’s Black &amp;#038; White is finally playable again &lpar;kind of&rpar;](https://www.polygon.com/impressions/448593/black-white-2001-playable-game-preservation)
+ - [Today&#39;s Wordle answer for Saturday, September 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-14-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
