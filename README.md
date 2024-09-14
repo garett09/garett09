@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what you need to know about preordering the new iPhone 16](https://www.theverge.com/24237057/apple-iphone-16-plus-pro-max-preorder-buy-price-release-date)
- - [Camera Control, iPhone 16 Pro, Apple Watch, and AirPods, on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/13/camera-control-iphone-16-pro-apple-watch-and-airpods-on-the-appleinsider-podcast?utm_medium=rss)
- - [The real cost of the PS5 Pro](https://www.theverge.com/2024/9/13/24243439/ps5-pro-iphone-16-google-ads-vergecast)<!-- TECH:END -->
+ - [This is a great AI voice recorder, and it’s totally doomed](https://www.theverge.com/2024/9/14/24243781/plaud-notepin-review-ai-voice-recorder)
+ - [Do You Actually Have Cortisol Face? An Expert Weighs In](https://www.cnet.com/health/medical/do-you-have-cortisol-face-expert/#ftag=CAD590a51e)
+ - [You Can Summarize a Google Doc With AI. Here&#39;s How to Do It](https://www.cnet.com/tech/services-and-software/you-can-summarize-a-google-doc-with-ai-heres-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
