@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is a great AI voice recorder, and it’s totally doomed](https://www.theverge.com/2024/9/14/24243781/plaud-notepin-review-ai-voice-recorder)
- - [Do You Actually Have Cortisol Face? An Expert Weighs In](https://www.cnet.com/health/medical/do-you-have-cortisol-face-expert/#ftag=CAD590a51e)
- - [You Can Summarize a Google Doc With AI. Here&#39;s How to Do It](https://www.cnet.com/tech/services-and-software/you-can-summarize-a-google-doc-with-ai-heres-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Auto Industry Finally Has a Plan to Stop Electric Vehicle Fires](https://www.wired.com/story/the-auto-industry-finally-has-a-plan-to-stop-electric-vehicle-fires/)
+ - [Dyson WashG1 Floor Cleaner Review: Won’t Replace Your Vacuum](https://www.wired.com/review/review-dyson-washg1-floor-cleaner/)
+ - [The SwitchBot S10 is a great robovac, and now you don’t even need to do any plumbing to enjoy it](https://www.androidauthority.com/switchbot-s10-review-3465509/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
