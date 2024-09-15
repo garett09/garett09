@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers to watch on Netflix this September](https://www.polygon.com/what-to-watch/451107/best-thriller-movies-netflix-watch-september-2024)
- - [2001’s Black &amp;#038; White is finally playable again &lpar;kind of&rpar;](https://www.polygon.com/impressions/448593/black-white-2001-playable-game-preservation)
- - [Today&#39;s Wordle answer for Saturday, September 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-14-2024)<!-- GAME:END -->
+ - [An oral history of the action classic Blood and Bone](https://www.polygon.com/action/450051/an-oral-history-of-the-action-classic-blood-and-bone)
+ - [Confused by Warhammer 40,000? Now you can learn 40K lore with Space Marine 2&#39;s lead voice actor](https://www.pcgamer.com/games/third-person-shooter/confused-by-warhammer-40000-now-you-can-learn-40k-lore-with-space-marine-2s-lead-voice-actor)
+ - [Today&#39;s Wordle answer for Sunday, September 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-15-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
