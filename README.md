@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An oral history of the action classic Blood and Bone](https://www.polygon.com/action/450051/an-oral-history-of-the-action-classic-blood-and-bone)
- - [Confused by Warhammer 40,000? Now you can learn 40K lore with Space Marine 2&#39;s lead voice actor](https://www.pcgamer.com/games/third-person-shooter/confused-by-warhammer-40000-now-you-can-learn-40k-lore-with-space-marine-2s-lead-voice-actor)
- - [Today&#39;s Wordle answer for Sunday, September 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-September-15-2024)<!-- GAME:END -->
+ - [10 Sprawling Action Games To Play After Star Wars Outlaws](https://kotaku.com/last-of-us-starfield-games-like-star-wars-outlaws-1851648627)
+ - [Sea of Thieves &amp; Xbox in NYC to Kick Off New York Liberty’s Push to Playoffs](https://news.xbox.com/en-us/2024/09/16/xbox-sea-of-thieves-new-york-liberty-crossover/)
+ - [Atomfall is a proper British detective mystery with Fallout: New Vegas vibes](https://www.polygon.com/gamescom/451691/atomfall-hands-on-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
