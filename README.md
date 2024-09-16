@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A map showcasing all 10,624 battles recorded on Wikipedia since 2500 BC](http://9gag.com/gag/agmYP4w)
- - 🚯 [Mission impossible will always be possible](http://9gag.com/gag/a0e5rVq)
- - 🚯 [Mom treating son to a hell of a ride](http://9gag.com/gag/aNDzNR3)<!-- MEMES:END -->
+ - 🚖 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
+ - 🚯 [So many books](http://9gag.com/gag/azxXbYp)
+ - 🚯 [Simple truth](http://9gag.com/gag/a7oM5dA)<!-- MEMES:END -->
 
 --- 
 
