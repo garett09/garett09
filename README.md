@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Auto Industry Finally Has a Plan to Stop Electric Vehicle Fires](https://www.wired.com/story/the-auto-industry-finally-has-a-plan-to-stop-electric-vehicle-fires/)
- - [Dyson WashG1 Floor Cleaner Review: Won’t Replace Your Vacuum](https://www.wired.com/review/review-dyson-washg1-floor-cleaner/)
- - [The SwitchBot S10 is a great robovac, and now you don’t even need to do any plumbing to enjoy it](https://www.androidauthority.com/switchbot-s10-review-3465509/)<!-- TECH:END -->
+ - [Sources: ByteDance aims to mass produce two AI chips designed alongside TSMC in 2026; a source says ByteDance plans to order several hundred thousand &lpar;The Information&rpar;](http://www.techmeme.com/240916/p9#a240916p9)
+ - [How to Choose the Right Soundbar &lpar;2024&rpar;: Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
+ - [Can satellites spot wildfires before they grow out of control?](https://www.theverge.com/2024/9/16/24243996/fire-satellite-google-firesat-constellation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
