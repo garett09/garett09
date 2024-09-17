@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance aims to mass produce two AI chips designed alongside TSMC in 2026; a source says ByteDance plans to order several hundred thousand &lpar;The Information&rpar;](http://www.techmeme.com/240916/p9#a240916p9)
- - [How to Choose the Right Soundbar &lpar;2024&rpar;: Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
- - [Can satellites spot wildfires before they grow out of control?](https://www.theverge.com/2024/9/16/24243996/fire-satellite-google-firesat-constellation)<!-- TECH:END -->
+ - [Google plans to use C2PA&#39;s standard to identify images taken with a camera, edited in tools like Photoshop, or made using AI via its &quot;about this image&quot; feature &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240917/p13#a240917p13)
+ - [How to turn off the gaps in macOS Sequoia&#39;s Window Tiling](https://appleinsider.com/inside/macos-sequoia/tips/how-to-turn-off-the-gaps-in-macos-sequoias-window-tiling?utm_medium=rss)
+ - [Denver-based Hotel Engine, a hotel booking and management service, now called Engine, raised a $140M Series C at a $2.1B valuation, up from $1.3B in late 2021 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240917/p12#a240917p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
