@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)
- - 🚯 [So many books](http://9gag.com/gag/azxXbYp)
- - 🚯 [Simple truth](http://9gag.com/gag/a7oM5dA)<!-- MEMES:END -->
+ - 🚖 [No black samurai. What a Bummer!](http://9gag.com/gag/aAyxpDE)
+ - 🚯 [Simple truth](http://9gag.com/gag/a7oM5dA)
+ - 🚯 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)<!-- MEMES:END -->
 
 --- 
 
