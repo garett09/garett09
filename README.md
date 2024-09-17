@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Sprawling Action Games To Play After Star Wars Outlaws](https://kotaku.com/last-of-us-starfield-games-like-star-wars-outlaws-1851648627)
- - [Sea of Thieves &amp; Xbox in NYC to Kick Off New York Liberty’s Push to Playoffs](https://news.xbox.com/en-us/2024/09/16/xbox-sea-of-thieves-new-york-liberty-crossover/)
- - [Atomfall is a proper British detective mystery with Fallout: New Vegas vibes](https://www.polygon.com/gamescom/451691/atomfall-hands-on-preview)<!-- GAME:END -->
+ - [Dragon&#39;s Dogma 2 patch introduces a casual mode, which stops your sick pawns from blowing everyone in a town up, among other things](https://www.pcgamer.com/games/rpg/dragon-s-dogma-2-patch-introduces-a-casual-mode-which-stops-your-sick-pawns-from-blowing-everyone-in-a-town-up-among-other-things)
+ - [Helldivers 2&#39;s buff-happy patch is here, and I&#39;m already feeling the flames of liberty burn bright once again](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-s-buff-happy-patch-is-here-and-i-m-already-feeling-the-flames-of-liberty-burn-bright-once-again)
+ - [Coming Soon to Game Pass: Ara: History Untold, Frostpunk 2, and Wargroove 2](https://news.xbox.com/en-us/2024/09/17/xbox-game-pass-september-2024-wave-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
