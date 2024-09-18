@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to use C2PA&#39;s standard to identify images taken with a camera, edited in tools like Photoshop, or made using AI via its &quot;about this image&quot; feature &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240917/p13#a240917p13)
- - [How to turn off the gaps in macOS Sequoia&#39;s Window Tiling](https://appleinsider.com/inside/macos-sequoia/tips/how-to-turn-off-the-gaps-in-macos-sequoias-window-tiling?utm_medium=rss)
- - [Denver-based Hotel Engine, a hotel booking and management service, now called Engine, raised a $140M Series C at a $2.1B valuation, up from $1.3B in late 2021 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240917/p12#a240917p12)<!-- TECH:END -->
+ - [Waiting for Apple Intelligence on your iPhone? Here’s some good news.](https://www.androidauthority.com/apple-intelligence-2025-release-3482730/)
+ - [iPhone 16 review roundup: Small but necessary upgrades](https://appleinsider.com/articles/24/09/18/iphone-16-review-roundup-small-but-necessary-upgrades?utm_medium=rss)
+ - [iPhone 16 Pro review roundup: Incremental improvements, until Apple Intelligence](https://appleinsider.com/articles/24/09/18/iphone-16-pro-review-roundup-incremental-improvements-until-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
