@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon&#39;s Dogma 2 patch introduces a casual mode, which stops your sick pawns from blowing everyone in a town up, among other things](https://www.pcgamer.com/games/rpg/dragon-s-dogma-2-patch-introduces-a-casual-mode-which-stops-your-sick-pawns-from-blowing-everyone-in-a-town-up-among-other-things)
- - [Helldivers 2&#39;s buff-happy patch is here, and I&#39;m already feeling the flames of liberty burn bright once again](https://www.pcgamer.com/games/third-person-shooter/helldivers-2-s-buff-happy-patch-is-here-and-i-m-already-feeling-the-flames-of-liberty-burn-bright-once-again)
- - [Coming Soon to Game Pass: Ara: History Untold, Frostpunk 2, and Wargroove 2](https://news.xbox.com/en-us/2024/09/17/xbox-game-pass-september-2024-wave-2/)<!-- GAME:END -->
+ - [Everything we know about ‘Switch 2,’ Nintendo’s next-gen console](https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games)
+ - [UFO 50 was terrible to review but incredible to play](https://www.polygon.com/review/452079/ufo-50-review-pc)
+ - [AI-generated lighting from Lepro should be setting the mood for your gaming sessions](https://www.pcgamer.com/hardware/lighting/ai-generated-lighting-from-lepro-should-be-setting-the-mood-for-your-gaming-sessions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
