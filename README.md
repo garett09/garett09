@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No black samurai. What a Bummer!](http://9gag.com/gag/aAyxpDE)
- - 🚯 [Simple truth](http://9gag.com/gag/a7oM5dA)
- - 🚯 [Something something something\u2026. Dark side](http://9gag.com/gag/a6Zomgm)<!-- MEMES:END -->
+ - 🚖 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
+ - 🚯 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
+ - 🚯 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)<!-- MEMES:END -->
 
 --- 
 
