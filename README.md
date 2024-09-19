@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [9gaggers... its 2012..](http://9gag.com/gag/aD2xod7)
- - 🚯 [This may be the funniest special op in the history of special ops, maybe ever.](http://9gag.com/gag/aXPx9mv)
- - 🚯 [Rapist is let of after having his sister raped.](http://9gag.com/gag/axy1jKY)<!-- MEMES:END -->
+ - 🚖 [V\u00f5 Thi Thang smiling after being sentenced to 20 years hard labour in a prison camp by the South Vietnamese govt. After being sentenced she reportedly smiled at the judge and said `20 years? Your government won&#39;t last that long](http://9gag.com/gag/abAM6D9)
+ - 🚯 [The perfect youtube channel doesn&#39;t exi...](http://9gag.com/gag/ayNX8rY)
+ - 🚯 [His reaction](http://9gag.com/gag/a4P7LMm)<!-- MEMES:END -->
 
 --- 
 
