@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about ‘Switch 2,’ Nintendo’s next-gen console](https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games)
- - [UFO 50 was terrible to review but incredible to play](https://www.polygon.com/review/452079/ufo-50-review-pc)
- - [AI-generated lighting from Lepro should be setting the mood for your gaming sessions](https://www.pcgamer.com/hardware/lighting/ai-generated-lighting-from-lepro-should-be-setting-the-mood-for-your-gaming-sessions)<!-- GAME:END -->
+ - [Microsoft Flight Simulator 2024: The Many Enhancements That Make This the Most Ambitious Flight Sim Ever](https://news.xbox.com/en-us/2024/09/19/microsoft-flight-simulator-2024-preview/)
+ - [How Pokémon TCG Pocket replicates the feel of opening a physical card pack](https://www.polygon.com/pokemon/452814/pokemon-trading-card-game-pocket-opening-pack-feel)
+ - [Pokémon Trading Card Game Pocket is for the art sickos](https://www.polygon.com/pokemon/453190/trading-card-game-pocket-tcg-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
