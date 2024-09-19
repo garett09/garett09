@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waiting for Apple Intelligence on your iPhone? Here’s some good news.](https://www.androidauthority.com/apple-intelligence-2025-release-3482730/)
- - [iPhone 16 review roundup: Small but necessary upgrades](https://appleinsider.com/articles/24/09/18/iphone-16-review-roundup-small-but-necessary-upgrades?utm_medium=rss)
- - [iPhone 16 Pro review roundup: Incremental improvements, until Apple Intelligence](https://appleinsider.com/articles/24/09/18/iphone-16-pro-review-roundup-incremental-improvements-until-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
+ - [Google employees’ attempts to hide messages from investigators might backfire](https://www.theverge.com/2024/9/19/24245559/google-employee-privileged-confidential-deleted-chats)
+ - [How to Factory-Reset Your Phone Before You Sell It](https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/)
+ - [Pokémon TCG Pocket wants to be a gateway to digital card collecting](https://www.theverge.com/2024/9/19/24248306/pokemon-tcg-pocket-hands-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
