@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google employees’ attempts to hide messages from investigators might backfire](https://www.theverge.com/2024/9/19/24245559/google-employee-privileged-confidential-deleted-chats)
- - [How to Factory-Reset Your Phone Before You Sell It](https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/)
- - [Pokémon TCG Pocket wants to be a gateway to digital card collecting](https://www.theverge.com/2024/9/19/24248306/pokemon-tcg-pocket-hands-on)<!-- TECH:END -->
+ - [Diving in to iPhone 16 and Apple Watch on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/20/diving-in-to-iphone-16-and-apple-watch-on-the-appleinsider-podcast?utm_medium=rss)
+ - [The official Google Pixel 9 case is a nice silicone cover but I wanted to see this one extra feature](https://www.androidauthority.com/official-google-pixel-9-case-review-3482011/)
+ - [Want to Get Into Founder Mode? You Should Be So Lucky](https://www.wired.com/story/plaintext-want-to-get-into-founder-mode-you-should-be-so-lucky/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
