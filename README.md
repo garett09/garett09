@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator 2024: The Many Enhancements That Make This the Most Ambitious Flight Sim Ever](https://news.xbox.com/en-us/2024/09/19/microsoft-flight-simulator-2024-preview/)
- - [How Pokémon TCG Pocket replicates the feel of opening a physical card pack](https://www.polygon.com/pokemon/452814/pokemon-trading-card-game-pocket-opening-pack-feel)
- - [Pokémon Trading Card Game Pocket is for the art sickos](https://www.polygon.com/pokemon/453190/trading-card-game-pocket-tcg-preview)<!-- GAME:END -->
+ - [Our Hopes And Predictions For Nintendo’s Switch 2 Reveal](https://kotaku.com/nintendo-switch-2-reveal-mario-screen-specs-features-1851653104)
+ - [The Dragon Age Books, Comics, And More BioWare Recommends You Check Out Before The Veilguard](https://kotaku.com/dragon-age-veilguard-books-comics-missing-audio-drama-1851649328)
+ - [The next Like a Dragon game is a wild pirate-themed spinoff, and it’s out soon](https://www.polygon.com/news/454009/like-a-dragon-pirate-yakuza-in-hawaii-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
