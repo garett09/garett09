@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Hopes And Predictions For Nintendo’s Switch 2 Reveal](https://kotaku.com/nintendo-switch-2-reveal-mario-screen-specs-features-1851653104)
- - [The Dragon Age Books, Comics, And More BioWare Recommends You Check Out Before The Veilguard](https://kotaku.com/dragon-age-veilguard-books-comics-missing-audio-drama-1851649328)
- - [The next Like a Dragon game is a wild pirate-themed spinoff, and it’s out soon](https://www.polygon.com/news/454009/like-a-dragon-pirate-yakuza-in-hawaii-trailer-release-date)<!-- GAME:END -->
+ - [The best sci-fi movies to watch on Netflix this September](https://www.polygon.com/what-to-watch/452423/best-sci-fi-movies-watch-netflix-september-2024)
+ - [Hades is unmatched when it comes to video game storytelling](https://www.polygon.com/analysis/454550/hades-best-video-game-story)
+ - [Exercise Some Crowd Control With Shadow Of The Erdtree&#39;s The Gravitational Missile](https://kotaku.com/elden-ring-shadow-erdtree-gravitational-missile-guide-1851653830)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
