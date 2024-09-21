@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Diving in to iPhone 16 and Apple Watch on the AppleInsider Podcast](https://appleinsider.com/articles/24/09/20/diving-in-to-iphone-16-and-apple-watch-on-the-appleinsider-podcast?utm_medium=rss)
- - [The official Google Pixel 9 case is a nice silicone cover but I wanted to see this one extra feature](https://www.androidauthority.com/official-google-pixel-9-case-review-3482011/)
- - [Want to Get Into Founder Mode? You Should Be So Lucky](https://www.wired.com/story/plaintext-want-to-get-into-founder-mode-you-should-be-so-lucky/)<!-- TECH:END -->
+ - [Google has made fast charging the Pixel 9 Pro XL an absolute nightmare](https://www.androidauthority.com/pixel-9-pro-xl-usb-c-worse-3477805/)
+ - [&#39;Transformers One&#39; Isn’t as Silly as It Looks](https://www.wired.com/story/transformers-one-josh-cooley-interview/)
+ - [Meta has a major opportunity to win the AI hardware race](https://www.theverge.com/2024/9/21/24250020/ray-ban-meta-smart-glasses-ai-hardware-meta-connect)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
