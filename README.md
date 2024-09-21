@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Armed cargo ship security destroying incoming pirate boat](http://9gag.com/gag/a34KMz7)
- - 🚯 [Welcome To University](http://9gag.com/gag/aAyxw92)
- - 🚯 [Ray meeting his new inmate.](http://9gag.com/gag/a87ooed)<!-- MEMES:END -->
+ - 🚖 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
+ - 🚯 [Sure you are](http://9gag.com/gag/aRB31BQ)
+ - 🚯 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)<!-- MEMES:END -->
 
 --- 
 
