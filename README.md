@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has made fast charging the Pixel 9 Pro XL an absolute nightmare](https://www.androidauthority.com/pixel-9-pro-xl-usb-c-worse-3477805/)
- - [&#39;Transformers One&#39; Isn’t as Silly as It Looks](https://www.wired.com/story/transformers-one-josh-cooley-interview/)
- - [Meta has a major opportunity to win the AI hardware race](https://www.theverge.com/2024/9/21/24250020/ray-ban-meta-smart-glasses-ai-hardware-meta-connect)<!-- TECH:END -->
+ - [The Pixel 9 Pro Fold is the one phone I want to carry without a case… and the one I shouldn’t](https://www.androidauthority.com/pixel-9-pro-fold-without-case-3477853/)
+ - [4 Useful Slack Features You May not Be Using Yet](https://www.wired.com/story/4-useful-slack-features-you-may-not-be-using-yet/)
+ - [With the Ray-Ban Meta smart glasses, which can easily slot into people&#39;s lives, Meta has exceeded expectations in a year when many AI gadgets flopped &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240922/p3#a240922p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
