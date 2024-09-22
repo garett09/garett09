@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you apply job at dubai](http://9gag.com/gag/aAyxgwL)
- - 🚯 [Sure you are](http://9gag.com/gag/aRB31BQ)
- - 🚯 [Bulshido strikes again](http://9gag.com/gag/an7M5Wz)<!-- MEMES:END -->
+ - 🚖 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
+ - 🚯 [Carly Rae Jepsen put the mic in front of a security guard during `Call Me Maybe`](http://9gag.com/gag/ajPE5eG)
+ - 🚯 [Creepy Crawly to Fashionably Furry in 60 Seconds](http://9gag.com/gag/aMVj4ER)<!-- MEMES:END -->
 
 --- 
 
