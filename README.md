@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies to watch on Netflix this September](https://www.polygon.com/what-to-watch/452423/best-sci-fi-movies-watch-netflix-september-2024)
- - [Hades is unmatched when it comes to video game storytelling](https://www.polygon.com/analysis/454550/hades-best-video-game-story)
- - [Exercise Some Crowd Control With Shadow Of The Erdtree&#39;s The Gravitational Missile](https://kotaku.com/elden-ring-shadow-erdtree-gravitational-missile-guide-1851653830)<!-- GAME:END -->
+ - [This little sci-fi movie takes time loops on a new track](https://www.polygon.com/movies/454713/omni-loop-review-time-loop-films)
+ - [Today&#39;s Wordle answer for Sunday, September 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-22-2024)
+ - [Dawn of War 1 and 2 have been re-released as anniversary editions including all the DLC](https://www.pcgamer.com/games/strategy/dawn-of-war-1-and-2-have-been-re-released-as-anniversary-editions-including-all-the-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
