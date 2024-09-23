@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 9 Pro Fold is the one phone I want to carry without a case… and the one I shouldn’t](https://www.androidauthority.com/pixel-9-pro-fold-without-case-3477853/)
- - [4 Useful Slack Features You May not Be Using Yet](https://www.wired.com/story/4-useful-slack-features-you-may-not-be-using-yet/)
- - [With the Ray-Ban Meta smart glasses, which can easily slot into people&#39;s lives, Meta has exceeded expectations in a year when many AI gadgets flopped &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240922/p3#a240922p3)<!-- TECH:END -->
+ - [The US Commerce Department proposes banning Chinese software and hardware for internet connected vehicles, effectively banning Chinese vehicles in the US &lpar;Felicia Schwartz/Financial Times&rpar;](http://www.techmeme.com/240923/p11#a240923p11)
+ - [New Cloudflare Tools Let Sites Detect and Block AI Bots for Free](https://www.wired.com/story/cloudflare-tools-detect-block-ai-bots/)
+ - [Apple executives celebrate, reflect on the first decade of the Apple Watch](https://appleinsider.com/articles/24/09/21/apple-executives-celebrate-reflect-on-the-first-decade-of-the-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
