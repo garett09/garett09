@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Double. Decker. Budget. Airplanes.](http://9gag.com/gag/a1moRn2)
- - 🚯 [Carly Rae Jepsen put the mic in front of a security guard during `Call Me Maybe`](http://9gag.com/gag/ajPE5eG)
- - 🚯 [Creepy Crawly to Fashionably Furry in 60 Seconds](http://9gag.com/gag/aMVj4ER)<!-- MEMES:END -->
+ - 🚖 [Person](http://9gag.com/gag/aXPxn59)
+ - 🚯 [Look at this](http://9gag.com/gag/aO8r8p6)
+ - 🚯 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)<!-- MEMES:END -->
 
 --- 
 
