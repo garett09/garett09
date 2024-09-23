@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This little sci-fi movie takes time loops on a new track](https://www.polygon.com/movies/454713/omni-loop-review-time-loop-films)
- - [Today&#39;s Wordle answer for Sunday, September 22](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-22-2024)
- - [Dawn of War 1 and 2 have been re-released as anniversary editions including all the DLC](https://www.pcgamer.com/games/strategy/dawn-of-war-1-and-2-have-been-re-released-as-anniversary-editions-including-all-the-dlc)<!-- GAME:END -->
+ - [Saber Interactive is already thinking about a Space Marine 2 sequel: &#39;Hopefully we&#39;ll be working on Space Marine content for a long time&#39;](https://www.pcgamer.com/games/action/saber-interactive-is-already-thinking-about-a-space-marine-2-sequel-hopefully-we-ll-be-working-on-space-marine-content-for-a-long-time)
+ - [31 Terrific Movies That Are Perfect For Spooky Season](https://kotaku.com/best-halloween-movies-disney-scary-spooky-1851654060)
+ - [If Nvidia couldn&#39;t buy Arm, then Qualcomm&#39;s rumoured Intel buyout isn&#39;t going to happen either](https://www.pcgamer.com/hardware/processors/if-nvidia-couldnt-buy-arm-then-qualcomms-rumoured-intel-buyout-isnt-going-to-happen-either)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
