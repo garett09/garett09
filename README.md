@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Commerce Department proposes banning Chinese software and hardware for internet connected vehicles, effectively banning Chinese vehicles in the US &lpar;Felicia Schwartz/Financial Times&rpar;](http://www.techmeme.com/240923/p11#a240923p11)
- - [New Cloudflare Tools Let Sites Detect and Block AI Bots for Free](https://www.wired.com/story/cloudflare-tools-detect-block-ai-bots/)
- - [Apple executives celebrate, reflect on the first decade of the Apple Watch](https://appleinsider.com/articles/24/09/21/apple-executives-celebrate-reflect-on-the-first-decade-of-the-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Roku unveils the $100 Roku Ultra, which is 30% faster than its other streaming players and has Wi-Fi 6, HDMI 2.1, Dolby Atmos, the Voice Remote Pro, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240924/p19#a240924p19)
+ - [They think they’re building God](https://www.theverge.com/2024/9/24/24252723/openai-o1-ai-god-tiktok-google-adtech-vergecast)
+ - [Refi Rates Keep Dropping After Fed Rate Cut. Today&#39;s Refinance Rates, Sept. 24, 2024](https://www.cnet.com/personal-finance/refi-rates-are-easing-for-homeowners-todays-refinance-rates-sept-24-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
