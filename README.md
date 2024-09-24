@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Saber Interactive is already thinking about a Space Marine 2 sequel: &#39;Hopefully we&#39;ll be working on Space Marine content for a long time&#39;](https://www.pcgamer.com/games/action/saber-interactive-is-already-thinking-about-a-space-marine-2-sequel-hopefully-we-ll-be-working-on-space-marine-content-for-a-long-time)
- - [31 Terrific Movies That Are Perfect For Spooky Season](https://kotaku.com/best-halloween-movies-disney-scary-spooky-1851654060)
- - [If Nvidia couldn&#39;t buy Arm, then Qualcomm&#39;s rumoured Intel buyout isn&#39;t going to happen either](https://www.pcgamer.com/hardware/processors/if-nvidia-couldnt-buy-arm-then-qualcomms-rumoured-intel-buyout-isnt-going-to-happen-either)<!-- GAME:END -->
+ - [The Future Mobile Gaming show brings together Warframe, EVE, and FF16&#39;s Ben Starr this September 26, here&#39;s how to watch it](https://www.pcgamer.com/gaming-industry/events-conferences/the-future-mobile-gaming-show-brings-together-warframe-eve-and-ff16s-ben-starr-this-september-26-heres-how-to-watch-it)
+ - [Alienware AW2725DF review](https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw2725df-review)
+ - [The new Unity 6 game engine demo looks spectacular but is it enough to convince developers to return?](https://www.pcgamer.com/software/the-new-unity-6-game-engine-demo-looks-spectacular-but-is-it-enough-to-convince-developers-to-return)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
