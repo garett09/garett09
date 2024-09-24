@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Person](http://9gag.com/gag/aXPxn59)
- - 🚯 [Look at this](http://9gag.com/gag/aO8r8p6)
- - 🚯 [He forgot how to horse](http://9gag.com/gag/a87oA5Z)<!-- MEMES:END -->
+ - 🚖 [They did Bruce dirty in this movie](http://9gag.com/gag/a34KA7Q)
+ - 🚯 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
+ - 🚯 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
 
 --- 
 
