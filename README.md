@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku unveils the $100 Roku Ultra, which is 30% faster than its other streaming players and has Wi-Fi 6, HDMI 2.1, Dolby Atmos, the Voice Remote Pro, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240924/p19#a240924p19)
- - [They think they’re building God](https://www.theverge.com/2024/9/24/24252723/openai-o1-ai-god-tiktok-google-adtech-vergecast)
- - [Refi Rates Keep Dropping After Fed Rate Cut. Today&#39;s Refinance Rates, Sept. 24, 2024](https://www.cnet.com/personal-finance/refi-rates-are-easing-for-homeowners-todays-refinance-rates-sept-24-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Torras Ostand 360 Spin Case returns with two great options for iPhone 16 lineup](https://appleinsider.com/articles/24/09/25/torras-ostand-360-spin-case-returns-with-two-great-options-for-iphone-16-lineup?utm_medium=rss)
+ - [Strava is giving users more control over what they share &lpar;and what they don’t&rpar;](https://www.androidauthority.com/strava-quick-edit-feature-3484707/)
+ - [The Most Capable Open Source AI Model Yet Could Supercharge AI Agents](https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
