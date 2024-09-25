@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They did Bruce dirty in this movie](http://9gag.com/gag/a34KA7Q)
- - 🚯 [It turned out to be the right move](http://9gag.com/gag/aLnjeKA)
- - 🚯 [Help me, I&#39;m stuck](http://9gag.com/gag/ayNX3vW)<!-- MEMES:END -->
+ - 🚖 [Oh no](http://9gag.com/gag/axy16OK)
+ - 🚯 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
+ - 🚯 [Brazilian Bridge](http://9gag.com/gag/adBKODj)<!-- MEMES:END -->
 
 --- 
 
