@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Future Mobile Gaming show brings together Warframe, EVE, and FF16&#39;s Ben Starr this September 26, here&#39;s how to watch it](https://www.pcgamer.com/gaming-industry/events-conferences/the-future-mobile-gaming-show-brings-together-warframe-eve-and-ff16s-ben-starr-this-september-26-heres-how-to-watch-it)
- - [Alienware AW2725DF review](https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw2725df-review)
- - [The new Unity 6 game engine demo looks spectacular but is it enough to convince developers to return?](https://www.pcgamer.com/software/the-new-unity-6-game-engine-demo-looks-spectacular-but-is-it-enough-to-convince-developers-to-return)<!-- GAME:END -->
+ - [The most Star Wars-ass names in Star Wars](https://www.polygon.com/star-wars/455826/the-most-star-wars-ass-names-in-star-wars)
+ - [Gran Turismo World Series 2024 Round 3 live in Tokyo September 28](https://blog.playstation.com/2024/09/25/gran-turismo-world-series-2024-round-3-live-in-tokyo-september-28/)
+ - [This Balrog spacebar is literal fire and has made me realise I need a full set of LOTR keycaps, ASAP](https://www.pcgamer.com/hardware/gaming-keyboards/this-balrog-spacebar-is-literal-fire-and-has-made-me-realise-i-need-a-full-set-of-lotr-keycaps-asap)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
