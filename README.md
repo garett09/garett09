@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Torras Ostand 360 Spin Case returns with two great options for iPhone 16 lineup](https://appleinsider.com/articles/24/09/25/torras-ostand-360-spin-case-returns-with-two-great-options-for-iphone-16-lineup?utm_medium=rss)
- - [Strava is giving users more control over what they share &lpar;and what they don’t&rpar;](https://www.androidauthority.com/strava-quick-edit-feature-3484707/)
- - [The Most Capable Open Source AI Model Yet Could Supercharge AI Agents](https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/)<!-- TECH:END -->
+ - [Jony Ive&#39;s LoveFrom firm adopts new logo mascot](https://appleinsider.com/articles/24/09/26/jony-ives-lovefrom-firm-adopts-new-logo-mascot?utm_medium=rss)
+ - [WhatsApp brings its video call filters to the built-in camera](https://www.androidauthority.com/whatsapp-filters-built-in-camera-3485270/)
+ - [Google says a closed ad ecosystem isn’t anticompetitive — it’s just safer](https://www.theverge.com/2024/9/26/24253523/google-closed-ad-ecosystem-awbid-ad-fraud-3ve)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
