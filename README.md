@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh no](http://9gag.com/gag/axy16OK)
- - 🚯 [It&#39;s tough to have parents who aren&#39;t very smart](http://9gag.com/gag/agmX8Kx)
- - 🚯 [Brazilian Bridge](http://9gag.com/gag/adBKODj)<!-- MEMES:END -->
+ - 🚖 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
+ - 🚯 [Shutter Island &lpar;2010&rpar;](http://9gag.com/gag/an7Mrzz)
+ - 🚯 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
 
 --- 
 
