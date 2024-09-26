@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The most Star Wars-ass names in Star Wars](https://www.polygon.com/star-wars/455826/the-most-star-wars-ass-names-in-star-wars)
- - [Gran Turismo World Series 2024 Round 3 live in Tokyo September 28](https://blog.playstation.com/2024/09/25/gran-turismo-world-series-2024-round-3-live-in-tokyo-september-28/)
- - [This Balrog spacebar is literal fire and has made me realise I need a full set of LOTR keycaps, ASAP](https://www.pcgamer.com/hardware/gaming-keyboards/this-balrog-spacebar-is-literal-fire-and-has-made-me-realise-i-need-a-full-set-of-lotr-keycaps-asap)<!-- GAME:END -->
+ - [PlayStation 30th Anniversary Pre-Orders Start Today, Here&#39;s How To Get In Line](https://kotaku.com/ps5-pro-30th-anniversary-pre-order-time-price-date-1851657733)
+ - [PC Players Report Metaphor: ReFantazio Demo Runs Terribly, But There&#39;s A Fix](https://kotaku.com/metaphor-refantazio-demo-stuttering-framerate-fix-pc-1851658147)
+ - [What’s going to win Best Ongoing Game at The Game Awards?](https://www.polygon.com/awards/456638/ongoing-game-game-awards-predictions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
