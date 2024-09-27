@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive&#39;s LoveFrom firm adopts new logo mascot](https://appleinsider.com/articles/24/09/26/jony-ives-lovefrom-firm-adopts-new-logo-mascot?utm_medium=rss)
- - [WhatsApp brings its video call filters to the built-in camera](https://www.androidauthority.com/whatsapp-filters-built-in-camera-3485270/)
- - [Google says a closed ad ecosystem isn’t anticompetitive — it’s just safer](https://www.theverge.com/2024/9/26/24253523/google-closed-ad-ecosystem-awbid-ad-fraud-3ve)<!-- TECH:END -->
+ - [Meta’s new smart glasses look like the future](https://www.theverge.com/2024/9/27/24255557/meta-orion-quest-smart-glasses-ar-connect-vergecast)
+ - [How to use Google’s Live Translate feature on your phone](https://www.androidauthority.com/how-to-use-google-live-translate-3481218/)
+ - [TECNO’s new SPARK 30 Series delivers long-term fluency, an eye-catching look, and unmissable entertainment](https://www.androidauthority.com/tecno-spark-30-series-transformers-launch-3484382/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
