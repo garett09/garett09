@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Heartbreaking.](http://9gag.com/gag/aW41b3K)
- - 🚯 [Shutter Island &lpar;2010&rpar;](http://9gag.com/gag/an7Mrzz)
- - 🚯 [A grown man faked being a teenager so he can go back to school](http://9gag.com/gag/a1mo29w)<!-- MEMES:END -->
+ - 🚖 [BLM is funny?](http://9gag.com/gag/aD2xM37)
+ - 🚯 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
+ - 🚯 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)<!-- MEMES:END -->
 
 --- 
 
