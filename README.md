@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation 30th Anniversary Pre-Orders Start Today, Here&#39;s How To Get In Line](https://kotaku.com/ps5-pro-30th-anniversary-pre-order-time-price-date-1851657733)
- - [PC Players Report Metaphor: ReFantazio Demo Runs Terribly, But There&#39;s A Fix](https://kotaku.com/metaphor-refantazio-demo-stuttering-framerate-fix-pc-1851658147)
- - [What’s going to win Best Ongoing Game at The Game Awards?](https://www.polygon.com/awards/456638/ongoing-game-game-awards-predictions)<!-- GAME:END -->
+ - [The best-named game of all time nearly could&#39;ve been called something else because some of its developers hated the pun](https://www.pcgamer.com/games/sim/the-best-named-game-of-all-time-nearly-couldve-been-called-something-else-because-some-of-its-developers-hated-the-pun)
+ - [OpenAI reportedly plans to ditch its nonprofit mission with CEO Sam Altman said to be in line to make billions](https://www.pcgamer.com/software/ai/openai-reportedly-plans-to-ditch-its-nonprofit-mission-with-ceo-sam-altman-said-to-be-in-line-to-make-billions)
+ - [League of Legends turns 15, and Riot is still experimenting with its flagship title](https://www.polygon.com/gaming/457196/league-of-legends-15-years-future-development)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
