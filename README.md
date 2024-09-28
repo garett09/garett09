@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s new smart glasses look like the future](https://www.theverge.com/2024/9/27/24255557/meta-orion-quest-smart-glasses-ar-connect-vergecast)
- - [How to use Google’s Live Translate feature on your phone](https://www.androidauthority.com/how-to-use-google-live-translate-3481218/)
- - [TECNO’s new SPARK 30 Series delivers long-term fluency, an eye-catching look, and unmissable entertainment](https://www.androidauthority.com/tecno-spark-30-series-transformers-launch-3484382/)<!-- TECH:END -->
+ - [Apple promised me a new iPhone, but all I got was last year’s iPhone… for now](https://www.androidauthority.com/meet-new-iphone-same-as-old-iphone-3482432/)
+ - [Google Pixel Buds Pro 2 Review: Better AirPods Pro for Android](https://www.wired.com/review/google-pixel-buds-pro-2/)
+ - [An ‘iPhone of AI’ Makes No Sense. Jony Ive Needs To Carefully Construct The Whole Damn System](https://www.wired.com/story/jony-ive-iphone-of-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
