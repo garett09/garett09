@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best-named game of all time nearly could&#39;ve been called something else because some of its developers hated the pun](https://www.pcgamer.com/games/sim/the-best-named-game-of-all-time-nearly-couldve-been-called-something-else-because-some-of-its-developers-hated-the-pun)
- - [OpenAI reportedly plans to ditch its nonprofit mission with CEO Sam Altman said to be in line to make billions](https://www.pcgamer.com/software/ai/openai-reportedly-plans-to-ditch-its-nonprofit-mission-with-ceo-sam-altman-said-to-be-in-line-to-make-billions)
- - [League of Legends turns 15, and Riot is still experimenting with its flagship title](https://www.polygon.com/gaming/457196/league-of-legends-15-years-future-development)<!-- GAME:END -->
+ - [The best movies leaving Netflix, Max, and Prime at the end of September 2024](https://www.polygon.com/what-to-watch/455795/best-movies-netflix-amazon-hulu-leaving-september-2024)
+ - [Sony&#39;s Big State Of Play, An Assassin&#39;s Creed Shadows Delay, And More Of The Week&#39;s Top Stories](https://kotaku.com/ghost-of-yotei-tsushima-simpsons-tapped-gaming-news-1851659725)
+ - [I started building my neighborhood in The Sims and now I feel like a creep](https://www.polygon.com/gaming/457097/sims-4-recreating-neighborhoood)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
