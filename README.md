@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BLM is funny?](http://9gag.com/gag/aD2xM37)
- - 🚯 [Love at first sight\u2026](http://9gag.com/gag/aQz3rqW)
- - 🚯 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a7oMGXL)<!-- MEMES:END -->
+ - 🚖 [Karen was pissed](http://9gag.com/gag/a2voAp1)
+ - 🚯 [BLM is funny?](http://9gag.com/gag/aD2xM37)
+ - 🚯 [Picasso was alive when Snoop Dogg was born.](http://9gag.com/gag/a9ypVvo)<!-- MEMES:END -->
 
 --- 
 
