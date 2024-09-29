@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple promised me a new iPhone, but all I got was last year’s iPhone… for now](https://www.androidauthority.com/meet-new-iphone-same-as-old-iphone-3482432/)
- - [Google Pixel Buds Pro 2 Review: Better AirPods Pro for Android](https://www.wired.com/review/google-pixel-buds-pro-2/)
- - [An ‘iPhone of AI’ Makes No Sense. Jony Ive Needs To Carefully Construct The Whole Damn System](https://www.wired.com/story/jony-ive-iphone-of-ai/)<!-- TECH:END -->
+ - [The 14 Best Office Chairs in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-office-chairs/)
+ - [I wasn’t convinced by Gemini, but the Pixel 9 is bringing me around](https://www.androidauthority.com/google-pixel-9-gemini-3480914/)
+ - [Crime blotter: &#39;Quasi-gangs&#39; arrested for 2023 fight outside Tokyo Apple Store](https://appleinsider.com/articles/24/09/29/crime-blotter-quasi-gangs-arrested-for-2023-fight-outside-tokyo-apple-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
