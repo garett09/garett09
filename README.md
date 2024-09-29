@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen was pissed](http://9gag.com/gag/a2voAp1)
- - 🚯 [BLM is funny?](http://9gag.com/gag/aD2xM37)
- - 🚯 [Picasso was alive when Snoop Dogg was born.](http://9gag.com/gag/a9ypVvo)<!-- MEMES:END -->
+ - 🚖 [Clever girl](http://9gag.com/gag/apR2wQM)
+ - 🚯 [Oddly satisfying art](http://9gag.com/gag/an7M0o0)
+ - 🚯 [I&#39;ve been doing the ol&#39; skivy roll forever. Useful](http://9gag.com/gag/a4P78OZ)<!-- MEMES:END -->
 
 --- 
 
