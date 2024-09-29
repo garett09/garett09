@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving Netflix, Max, and Prime at the end of September 2024](https://www.polygon.com/what-to-watch/455795/best-movies-netflix-amazon-hulu-leaving-september-2024)
- - [Sony&#39;s Big State Of Play, An Assassin&#39;s Creed Shadows Delay, And More Of The Week&#39;s Top Stories](https://kotaku.com/ghost-of-yotei-tsushima-simpsons-tapped-gaming-news-1851659725)
- - [I started building my neighborhood in The Sims and now I feel like a creep](https://www.polygon.com/gaming/457097/sims-4-recreating-neighborhoood)<!-- GAME:END -->
+ - [PS5 Pro Pre-Orders, Dragon Age: Veilguard Advice, And More Hot Tips Of The Week](https://kotaku.com/ps5-pro-pre-orders-dragon-age-veilguard-advice-and-m-1851659726)
+ - [Living alt-history election dreams — and nightmares — in The Campaign Trail](https://www.polygon.com/gaming/457588/living-alt-history-election-dreams-and-nightmares-in-the-campaign-trail)
+ - [PC Gamer at Tokyo Game Show 2024 Day 4 report: Capcom, Konami, and SNK&#39;s booths in focus](https://www.pcgamer.com/gaming-industry/pc-gamer-at-tokyo-game-show-2024-day-4-report-capcom-konami-and-snks-booths-in-focus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
