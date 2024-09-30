@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 14 Best Office Chairs in 2024, Tested and Reviewed](https://www.wired.com/gallery/best-office-chairs/)
- - [I wasn’t convinced by Gemini, but the Pixel 9 is bringing me around](https://www.androidauthority.com/google-pixel-9-gemini-3480914/)
- - [Crime blotter: &#39;Quasi-gangs&#39; arrested for 2023 fight outside Tokyo Apple Store](https://appleinsider.com/articles/24/09/29/crime-blotter-quasi-gangs-arrested-for-2023-fight-outside-tokyo-apple-store?utm_medium=rss)<!-- TECH:END -->
+ - [Qodo, which offers code generation and testing tools to the enterprise, raised a $40M Series A led by Susa Ventures and Square Peg &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240930/p10#a240930p10)
+ - [15 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
+ - [Samsung’s Galaxy S24 FE is the phone the Pixel 9 should have been](https://www.androidauthority.com/galaxy-s24-fe-the-pixel-9-i-wanted-3485393/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
