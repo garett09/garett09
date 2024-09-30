@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clever girl](http://9gag.com/gag/apR2wQM)
- - 🚯 [Oddly satisfying art](http://9gag.com/gag/an7M0o0)
- - 🚯 [I&#39;ve been doing the ol&#39; skivy roll forever. Useful](http://9gag.com/gag/a4P78OZ)<!-- MEMES:END -->
+ - 🚖 [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
+ - 🚯 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
+ - 🚯 [It is time we take control](http://9gag.com/gag/arygwMy)<!-- MEMES:END -->
 
 --- 
 
