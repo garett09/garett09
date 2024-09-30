@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Pro Pre-Orders, Dragon Age: Veilguard Advice, And More Hot Tips Of The Week](https://kotaku.com/ps5-pro-pre-orders-dragon-age-veilguard-advice-and-m-1851659726)
- - [Living alt-history election dreams — and nightmares — in The Campaign Trail](https://www.polygon.com/gaming/457588/living-alt-history-election-dreams-and-nightmares-in-the-campaign-trail)
- - [PC Gamer at Tokyo Game Show 2024 Day 4 report: Capcom, Konami, and SNK&#39;s booths in focus](https://www.pcgamer.com/gaming-industry/pc-gamer-at-tokyo-game-show-2024-day-4-report-capcom-konami-and-snks-booths-in-focus)<!-- GAME:END -->
+ - [Mirage Feathers is an anime-twist on a neglected Sega classic](https://www.polygon.com/impressions/457669/mirage-feathers)
+ - [Every Movie In The Batman Universe, Ranked From Worst To Best](https://kotaku.com/batman-best-keaton-nolan-pattinson-movies-1851660049)
+ - [Overwatch 2 players are banging their heads against a wall after finding out that Blizzard fumbled a Netflix adaptation](https://www.pcgamer.com/games/fps/overwatch-2-players-are-banging-their-heads-against-a-wall-after-finding-out-that-blizzard-fumbled-a-netflix-adaptation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
