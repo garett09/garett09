@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mirage Feathers is an anime-twist on a neglected Sega classic](https://www.polygon.com/impressions/457669/mirage-feathers)
- - [Every Movie In The Batman Universe, Ranked From Worst To Best](https://kotaku.com/batman-best-keaton-nolan-pattinson-movies-1851660049)
- - [Overwatch 2 players are banging their heads against a wall after finding out that Blizzard fumbled a Netflix adaptation](https://www.pcgamer.com/games/fps/overwatch-2-players-are-banging-their-heads-against-a-wall-after-finding-out-that-blizzard-fumbled-a-netflix-adaptation)<!-- GAME:END -->
+ - [PS5&#39;s Best New Feature Overshadowed By Scourge Of Unblockable Ads [Update: It&#39;s Fixed]](https://kotaku.com/ps5-firmware-update-ads-welcome-hub-custom-widgets-1851661075)
+ - [Coming Soon to Game Pass: Sifu, Inscryption, Mad Streets, and More](https://news.xbox.com/en-us/2024/10/01/xbox-game-pass-october-2024-wave-1/)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
