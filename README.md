@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sound that makes cats gag](http://9gag.com/gag/amo74dv)
- - 🚯 [In Vienna, minute of silence for Philippine, a French girl kiIIed by an african invader, is trashed by other africn invaders celebrating her murder.](http://9gag.com/gag/aKGjZLj)
- - 🚯 [It is time we take control](http://9gag.com/gag/arygwMy)<!-- MEMES:END -->
+ - 🚖 [We&#39;re All Doomed.........................](http://9gag.com/gag/aByx7LD)
+ - 🚯 [Abundance mindset](http://9gag.com/gag/a7oMzrx)
+ - 🚯 [Do you pee ?](http://9gag.com/gag/a34KXo1)<!-- MEMES:END -->
 
 --- 
 
