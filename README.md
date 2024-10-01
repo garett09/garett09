@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qodo, which offers code generation and testing tools to the enterprise, raised a $40M Series A led by Susa Ventures and Square Peg &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240930/p10#a240930p10)
- - [15 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
- - [Samsung’s Galaxy S24 FE is the phone the Pixel 9 should have been](https://www.androidauthority.com/galaxy-s24-fe-the-pixel-9-i-wanted-3485393/)<!-- TECH:END -->
+ - [Hurricane Helene disrupts critical chip mining operations in North Carolina](https://www.theverge.com/2024/10/1/24259236/hurricane-helene-spruce-pine-quartz-mining-paused)
+ - [Google announces new Chromebook models with Samsung and Lenovo, and adds AI features to ChromeOS; Samsung&#39;s Galaxy Chromebook Plus gets a new Quick Insert key &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241001/p13#a241001p13)
+ - [Google did not ask Samsung to create One UI’s controversial Auto Blocker](https://www.androidauthority.com/google-no-collusion-samsung-one-ui-auto-blocker-epic-lawsuit-3486523/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
