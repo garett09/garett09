@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5&#39;s Best New Feature Overshadowed By Scourge Of Unblockable Ads [Update: It&#39;s Fixed]](https://kotaku.com/ps5-firmware-update-ads-welcome-hub-custom-widgets-1851661075)
- - [Coming Soon to Game Pass: Sifu, Inscryption, Mad Streets, and More](https://news.xbox.com/en-us/2024/10/01/xbox-game-pass-october-2024-wave-1/)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Nintendo Switch emulator Ryujinx taken offline](https://www.polygon.com/gaming/458905/nintendo-switch-emulator-ryujinx-offline)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [Baldur’s Gate 3 Gets New Evil Endings, Mods and More on Xbox](https://news.xbox.com/en-us/2024/10/02/baldurs-gate-3-mods-evil-endings-dynamic-split-screen-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
