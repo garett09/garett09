@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We&#39;re All Doomed.........................](http://9gag.com/gag/aByx7LD)
- - 🚯 [Abundance mindset](http://9gag.com/gag/a7oMzrx)
- - 🚯 [Do you pee ?](http://9gag.com/gag/a34KXo1)<!-- MEMES:END -->
+ - 🚖 [Some teachers love their children](http://9gag.com/gag/amoBqXd)
+ - 🚯 [Meanwhile in Canada...](http://9gag.com/gag/a9yp9vj)
+ - 🚯 [Giorgia Meloni\u2019s iron fist: Prison for blocking a road and chemical castration for rapists Italy is finalizing a controversial security decree, dubbed \u2018anti-Gandhi\u2019 because it targets non-violent protests. It also makes it impossible for undocumented migrants to buy a SIM card](http://9gag.com/gag/aMVjRN6)<!-- MEMES:END -->
 
 --- 
 
