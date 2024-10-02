@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hurricane Helene disrupts critical chip mining operations in North Carolina](https://www.theverge.com/2024/10/1/24259236/hurricane-helene-spruce-pine-quartz-mining-paused)
- - [Google announces new Chromebook models with Samsung and Lenovo, and adds AI features to ChromeOS; Samsung&#39;s Galaxy Chromebook Plus gets a new Quick Insert key &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241001/p13#a241001p13)
- - [Google did not ask Samsung to create One UI’s controversial Auto Blocker](https://www.androidauthority.com/google-no-collusion-samsung-one-ui-auto-blocker-epic-lawsuit-3486523/)<!-- TECH:END -->
+ - [5 Best Food Dehydrators, Tested and Reviewed](https://www.wired.com/gallery/best-food-dehydrators/)
+ - [Apple’s designs are ‘iconic’ because of repetition and laziness](https://www.androidauthority.com/apple-iphone-lazy-design-3482334/)
+ - [Venmo is getting payment scheduling](https://www.theverge.com/2024/10/2/24260089/venmo-payment-request-scheduling-feature-announcement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
