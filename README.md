@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Food Dehydrators, Tested and Reviewed](https://www.wired.com/gallery/best-food-dehydrators/)
- - [Apple’s designs are ‘iconic’ because of repetition and laziness](https://www.androidauthority.com/apple-iphone-lazy-design-3482334/)
- - [Venmo is getting payment scheduling](https://www.theverge.com/2024/10/2/24260089/venmo-payment-request-scheduling-feature-announcement)<!-- TECH:END -->
+ - [Uber partners with Avride to use its sidewalk robots, first in Austin, then Dallas and Jersey City in 2024, and its autonomous cars, starting in Dallas in 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241003/p18#a241003p18)
+ - [Gemini Live goes global with support for 40+ languages](https://www.androidauthority.com/gemini-live-languages-3487021/)
+ - [Uber partners with ex-Yandex self-driving group for robotaxis and robot delivery](https://www.theverge.com/2024/10/3/24260712/uber-avride-robotaxi-sidewalk-robot-delivery-yandex)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
