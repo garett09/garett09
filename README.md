@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch emulator Ryujinx taken offline](https://www.polygon.com/gaming/458905/nintendo-switch-emulator-ryujinx-offline)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [Baldur’s Gate 3 Gets New Evil Endings, Mods and More on Xbox](https://news.xbox.com/en-us/2024/10/02/baldurs-gate-3-mods-evil-endings-dynamic-split-screen-xbox/)<!-- GAME:END -->
+ - [Unreal Engine 5.5’s MegaLights allows devs to use &quot;orders of magnitude more&quot; light sources—even on older hardware](https://www.pcgamer.com/hardware/Unreal-Engine-5-5-Mega-Lights)
+ - [Samsung debated selling off its manufacturing arm as 3 nm yields remain low and the chip giant&#39;s stock price drops](https://www.pcgamer.com/hardware/samsung-debated-selling-off-its-manufacturing-arm-as-3-nm-yields-remain-low-and-the-chip-giants-stock-price-drops)
+ - [Bethesda honcho says Starfield is &#39;the best game we&#39;ve ever made&#39; in massive bout of amnesia](https://www.pcgamer.com/games/rpg/bethesda-honcho-says-starfield-is-the-best-game-weve-ever-made-in-massive-bout-of-amnesia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
