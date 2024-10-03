@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some teachers love their children](http://9gag.com/gag/amoBqXd)
- - 🚯 [Meanwhile in Canada...](http://9gag.com/gag/a9yp9vj)
- - 🚯 [Giorgia Meloni\u2019s iron fist: Prison for blocking a road and chemical castration for rapists Italy is finalizing a controversial security decree, dubbed \u2018anti-Gandhi\u2019 because it targets non-violent protests. It also makes it impossible for undocumented migrants to buy a SIM card](http://9gag.com/gag/aMVjRN6)<!-- MEMES:END -->
+ - 🚖 [The gaurdian.](http://9gag.com/gag/aE02w99)
+ - 🚯 [Guess now we know why Justin become such a weirdo.](http://9gag.com/gag/aGyZ9Y5)
+ - 🚯 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)<!-- MEMES:END -->
 
 --- 
 
