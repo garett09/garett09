@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber partners with Avride to use its sidewalk robots, first in Austin, then Dallas and Jersey City in 2024, and its autonomous cars, starting in Dallas in 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/241003/p18#a241003p18)
- - [Gemini Live goes global with support for 40+ languages](https://www.androidauthority.com/gemini-live-languages-3487021/)
- - [Uber partners with ex-Yandex self-driving group for robotaxis and robot delivery](https://www.theverge.com/2024/10/3/24260712/uber-avride-robotaxi-sidewalk-robot-delivery-yandex)<!-- TECH:END -->
+ - [WordPress co-founder is paying employees to leave if they disagree with him](https://www.theverge.com/2024/10/4/24261931/wordpress-matt-mullenweg-automattic-employee-pay-package)
+ - [This new poker-like card game for Android has taken over my life](https://www.androidauthority.com/balatro-android-3486887/)
+ - [How to Use AI to Make a Work Presentation](https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-make-a-work-presentation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
