@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unreal Engine 5.5’s MegaLights allows devs to use &quot;orders of magnitude more&quot; light sources—even on older hardware](https://www.pcgamer.com/hardware/Unreal-Engine-5-5-Mega-Lights)
- - [Samsung debated selling off its manufacturing arm as 3 nm yields remain low and the chip giant&#39;s stock price drops](https://www.pcgamer.com/hardware/samsung-debated-selling-off-its-manufacturing-arm-as-3-nm-yields-remain-low-and-the-chip-giants-stock-price-drops)
- - [Bethesda honcho says Starfield is &#39;the best game we&#39;ve ever made&#39; in massive bout of amnesia](https://www.pcgamer.com/games/rpg/bethesda-honcho-says-starfield-is-the-best-game-weve-ever-made-in-massive-bout-of-amnesia)<!-- GAME:END -->
+ - [Ubisoft Begins The Long, Painful Road Toward Fixing Star Wars Outlaws](https://kotaku.com/star-wars-outlaws-patch-stealth-speeder-softlock-1851665149)
+ - [Indie developers are revitalizing the underappreciated immersive sim](https://www.polygon.com/gaming/460227/indie-immersive-simulation-games-genre-trend)
+ - [This cursed Skyrim mod flips the entire game horizontally like Mario Kart&#39;s mirror mode and it&#39;s weirdly very upsetting](https://www.pcgamer.com/games/rpg/this-cursed-skyrim-mod-flips-the-entire-game-horizontally-like-mario-karts-mirror-mode-and-its-weirdly-very-upsetting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
