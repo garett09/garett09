@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The gaurdian.](http://9gag.com/gag/aE02w99)
- - 🚯 [Guess now we know why Justin become such a weirdo.](http://9gag.com/gag/aGyZ9Y5)
+ - 🚖 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
+ - 🚯 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
  - 🚯 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)<!-- MEMES:END -->
 
 --- 
