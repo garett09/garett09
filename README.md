@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WordPress co-founder is paying employees to leave if they disagree with him](https://www.theverge.com/2024/10/4/24261931/wordpress-matt-mullenweg-automattic-employee-pay-package)
- - [This new poker-like card game for Android has taken over my life](https://www.androidauthority.com/balatro-android-3486887/)
- - [How to Use AI to Make a Work Presentation](https://www.cnet.com/tech/services-and-software/how-to-use-ai-to-make-a-work-presentation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Tested Apple 3-in-1 Wireless Chargers &lpar;2024&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
+ - [iOS 18 Clean Up vs Pixel Magic Editor vs Samsung Object Eraser: Which one does it better?](https://www.androidauthority.com/ios-18-clean-up-vs-pixel-magic-eraser-3477578/)
+ - [Starfield’s big Shattered Space expansion isn’t weird enough](https://www.theverge.com/24262053/starfield-shattered-space-expansion-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
