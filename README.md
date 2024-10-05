@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Begins The Long, Painful Road Toward Fixing Star Wars Outlaws](https://kotaku.com/star-wars-outlaws-patch-stealth-speeder-softlock-1851665149)
- - [Indie developers are revitalizing the underappreciated immersive sim](https://www.polygon.com/gaming/460227/indie-immersive-simulation-games-genre-trend)
- - [This cursed Skyrim mod flips the entire game horizontally like Mario Kart&#39;s mirror mode and it&#39;s weirdly very upsetting](https://www.pcgamer.com/games/rpg/this-cursed-skyrim-mod-flips-the-entire-game-horizontally-like-mario-karts-mirror-mode-and-its-weirdly-very-upsetting)<!-- GAME:END -->
+ - [The Word &quot;Hipster&quot; Will Test Your Patience In NYT Connections Today More Than The Ones Who Live In Your City](https://kotaku.com/nyt-connections-groups-and-answers-saturday-october-5-1851666207)
+ - [The best movies new to streaming this October](https://www.polygon.com/what-to-watch/459222/best-new-movies-netflix-amazon-prime-max-hulu-october-2024)
+ - [Our Faves From Tokyo Game Show, New Astro Bot Characters, And More Hot Takes](https://kotaku.com/our-faves-from-tokyo-game-show-new-astro-bot-character-1851665570)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
