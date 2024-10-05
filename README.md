@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A friendly reminder to get yourself a dash cam. Dude that hit me was uninsured and tried telling the cops that I ran a red light. **Headphone warning**](http://9gag.com/gag/agmnNYx)
- - 🚯 [Let the blaming begin.](http://9gag.com/gag/aLngQ6z)
- - 🚯 [Mexico&#39;s president said nope](http://9gag.com/gag/awyA0mR)<!-- MEMES:END -->
+ - 🚖 [The future is now young boi](http://9gag.com/gag/apRmvE8)
+ - 🚯 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
+ - 🚯 [For a red limited edition U2 iPod](http://9gag.com/gag/aYQYe62)<!-- MEMES:END -->
 
 --- 
 
