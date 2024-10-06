@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Tested Apple 3-in-1 Wireless Chargers &lpar;2024&rpar;](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
- - [iOS 18 Clean Up vs Pixel Magic Editor vs Samsung Object Eraser: Which one does it better?](https://www.androidauthority.com/ios-18-clean-up-vs-pixel-magic-eraser-3477578/)
- - [Starfield’s big Shattered Space expansion isn’t weird enough](https://www.theverge.com/24262053/starfield-shattered-space-expansion-review)<!-- TECH:END -->
+ - [Apple Intelligence and iOS 18.1 should debut on October 28](https://appleinsider.com/articles/24/10/06/apple-intelligence-and-ios-181-should-debut-on-october-28?utm_medium=rss)
+ - [New M4 Macs are expected to launch on November 1](https://appleinsider.com/articles/24/10/06/new-m4-macs-are-expected-to-launch-on-november-1?utm_medium=rss)
+ - [The Best Electric Toothbrushes, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
