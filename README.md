@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The future is now young boi](http://9gag.com/gag/apRmvE8)
- - 🚯 [What the hell happened?](http://9gag.com/gag/a5QMNDV)
- - 🚯 [For a red limited edition U2 iPod](http://9gag.com/gag/aYQYe62)<!-- MEMES:END -->
+ - 🚖 [Viking genetics](http://9gag.com/gag/aQzRxgK)
+ - 🚯 [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
+ - 🚯 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)<!-- MEMES:END -->
 
 --- 
 
