@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Word &quot;Hipster&quot; Will Test Your Patience In NYT Connections Today More Than The Ones Who Live In Your City](https://kotaku.com/nyt-connections-groups-and-answers-saturday-october-5-1851666207)
- - [The best movies new to streaming this October](https://www.polygon.com/what-to-watch/459222/best-new-movies-netflix-amazon-prime-max-hulu-october-2024)
- - [Our Faves From Tokyo Game Show, New Astro Bot Characters, And More Hot Takes](https://kotaku.com/our-faves-from-tokyo-game-show-new-astro-bot-character-1851665570)<!-- GAME:END -->
+ - [Mouthwashing is a surreal horror gem about being lost and starving in space](https://www.polygon.com/impressions/460243/mouthwashing-horror-game-steam-itchio-narrative)
+ - [Starfield DLC Fail, Astro Bot Devs Speak, And Other Big Gaming News Of The Week](https://kotaku.com/starfield-dlc-fail-astro-bot-devs-speak-and-other-big-1851665567)
+ - [The Rings of Power refuses to weigh in on the most pressing Tolkien debate of our time](https://www.polygon.com/lotr-rings-of-power/460132/trop-balrog-finale-lore-tolkien)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
