@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mouthwashing is a surreal horror gem about being lost and starving in space](https://www.polygon.com/impressions/460243/mouthwashing-horror-game-steam-itchio-narrative)
- - [Starfield DLC Fail, Astro Bot Devs Speak, And Other Big Gaming News Of The Week](https://kotaku.com/starfield-dlc-fail-astro-bot-devs-speak-and-other-big-1851665567)
- - [The Rings of Power refuses to weigh in on the most pressing Tolkien debate of our time](https://www.polygon.com/lotr-rings-of-power/460132/trop-balrog-finale-lore-tolkien)<!-- GAME:END -->
+ - [The legend of Goblin Green: Why gamers love one discontinued Warhammer paint over all others](https://www.polygon.com/features/460185/goblin-green-warhammer-40k-paint-pigment)
+ - [Halo found alive: Developer rebrands, multiple games in the works](https://www.polygon.com/halo/461480/halo-studios-343-indurstries-reboot-unreal-engine)
+ - [Phoenix Springs is a lesson in using negative space, both visually and narratively](https://www.polygon.com/review/460978/phoenix-springs-review-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
