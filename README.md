@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence and iOS 18.1 should debut on October 28](https://appleinsider.com/articles/24/10/06/apple-intelligence-and-ios-181-should-debut-on-october-28?utm_medium=rss)
- - [New M4 Macs are expected to launch on November 1](https://appleinsider.com/articles/24/10/06/new-m4-macs-are-expected-to-launch-on-november-1?utm_medium=rss)
- - [The Best Electric Toothbrushes, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
+ - [Rarebird Px Coffee Review: Alertness Without the Jitters](https://www.wired.com/review/rarebird-px-coffee/)
+ - [How and why does your phone get bricked?](https://www.androidauthority.com/how-why-phone-bricked-3488181/)
+ - [Amazon Prime Day: More Than 115 Offers You Shouldn&#39;t Miss as October&#39;s Prime Day Sale Nears](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
