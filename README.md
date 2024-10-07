@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Viking genetics](http://9gag.com/gag/aQzRxgK)
- - 🚯 [Making Ice Blocks to Feed Polar Bears](http://9gag.com/gag/aXPYwM9)
- - 🚯 [Me: Good Guy after being the Bad Guy.](http://9gag.com/gag/aE02R4x)<!-- MEMES:END -->
+ - 🚖 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
+ - 🚯 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
+ - 🚯 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
 
 --- 
 
