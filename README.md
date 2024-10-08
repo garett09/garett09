@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/agmnnGv)
- - 🚯 [1940 they invented this device to train leg muscles](http://9gag.com/gag/a8733YY)
- - 🚯 [Wow science is amazing.!!! Wait, what.?!](http://9gag.com/gag/a8733wO)<!-- MEMES:END -->
+ - 🚖 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
+ - 🚯 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
+ - 🚯 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)<!-- MEMES:END -->
 
 --- 
 
