@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rarebird Px Coffee Review: Alertness Without the Jitters](https://www.wired.com/review/rarebird-px-coffee/)
- - [How and why does your phone get bricked?](https://www.androidauthority.com/how-why-phone-bricked-3488181/)
- - [Amazon Prime Day: More Than 115 Offers You Shouldn&#39;t Miss as October&#39;s Prime Day Sale Nears](https://www.cnet.com/tech/best-prime-day-deals-2024-10-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Competing rumors differ on if the Apple Ring is dead or about to be born](https://appleinsider.com/articles/24/10/08/competing-rumors-differ-on-if-the-apple-ring-is-dead-or-about-to-be-born?utm_medium=rss)
+ - [Las Vegas-based TensorWave, which offers cloud-based AMD MI300X chips for AI workloads, raised $43M led by Nexus VP at a $100M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241008/p10#a241008p10)
+ - [The OnePlus Watch 2 plunges a record 30% in Prime Day 2 sale](https://www.androidauthority.com/oneplus-watch-2-deal-prime-day-2-3488570/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
