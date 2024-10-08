@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The legend of Goblin Green: Why gamers love one discontinued Warhammer paint over all others](https://www.polygon.com/features/460185/goblin-green-warhammer-40k-paint-pigment)
- - [Halo found alive: Developer rebrands, multiple games in the works](https://www.polygon.com/halo/461480/halo-studios-343-indurstries-reboot-unreal-engine)
- - [Phoenix Springs is a lesson in using negative space, both visually and narratively](https://www.polygon.com/review/460978/phoenix-springs-review-pc)<!-- GAME:END -->
+ - [The original Red Dead Redemption is finally coming to PC](https://www.polygon.com/news/23171877/red-dead-redemption-1-pc-steam-release-date)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [The best October Prime Day deals](https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
