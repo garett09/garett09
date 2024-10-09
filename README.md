@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Competing rumors differ on if the Apple Ring is dead or about to be born](https://appleinsider.com/articles/24/10/08/competing-rumors-differ-on-if-the-apple-ring-is-dead-or-about-to-be-born?utm_medium=rss)
- - [Las Vegas-based TensorWave, which offers cloud-based AMD MI300X chips for AI workloads, raised $43M led by Nexus VP at a $100M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241008/p10#a241008p10)
- - [The OnePlus Watch 2 plunges a record 30% in Prime Day 2 sale](https://www.androidauthority.com/oneplus-watch-2-deal-prime-day-2-3488570/)<!-- TECH:END -->
+ - [Casio super-sized a classic digital watch to create this retro desk clock](https://www.theverge.com/2024/10/9/24265964/casio-digital-watch-desk-a158w-clock-japan-retro-vintage)
+ - [Worldwide Mac sales dropped in Q3 2024 while most PC vendors gained](https://appleinsider.com/articles/24/10/09/worldwide-mac-sales-dropped-in-q3-2024-while-most-pc-vendors-gained?utm_medium=rss)
+ - [Google DeepMind scientists win Nobel Prize for chemistry](https://www.theverge.com/2024/10/9/24265962/google-deepmind-ai-nobel-prize-winners-chemistry-protein)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
