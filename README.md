@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No more taco nights](http://9gag.com/gag/aYQY7ZO)
- - 🚯 [At least there was no mess to clean up.](http://9gag.com/gag/aKGxdB1)
- - 🚯 [A divine message that she should not use the phone in during class hours](http://9gag.com/gag/aGyZgRn)<!-- MEMES:END -->
+ - 🚖 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
+ - 🚯 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
+ - 🚯 [Muscle Memory](http://9gag.com/gag/a4PQojp)<!-- MEMES:END -->
 
 --- 
 
