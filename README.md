@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MrBeast can’t shake his controversies — and it’s costing him his fans](https://www.polygon.com/culture/462862/mrbeast-lawsuits-lunchly-logan-paul-fan-reactions)
- - [The best board game deals from day two of October Prime Day](https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day)
- - [This gorgeous Suzume box set is half off for October Prime Day](https://www.polygon.com/amazon-prime-day/2024/7/16/24199826/suzume-your-name-best-blu-ray-deals)<!-- GAME:END -->
+ - [Diablo IV&#39;s Vessel Of Hatred Expansion Is Locking Some Players Out [Update]](https://kotaku.com/diablo-4-vessel-hatred-license-error-ps5-game-pass-fix-1851667695)
+ - [The Newest Green Lantern Is Everyone&#39;s Favorite Friday Night Lights Coach](https://kotaku.com/hbo-green-lantern-hal-jordan-kyle-chandler-coach-1851655222)
+ - [Change your passwords: Attackers claim a &#39;catastrophic security breach&#39; of the Internet Archive, with 31 million emails and hashed passwords captured](https://www.pcgamer.com/gaming-industry/change-your-passwords-attackers-claim-a-catastrophic-security-breach-of-the-internet-archive-with-31-million-emails-and-hashed-passwords-captured)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
