@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casio super-sized a classic digital watch to create this retro desk clock](https://www.theverge.com/2024/10/9/24265964/casio-digital-watch-desk-a158w-clock-japan-retro-vintage)
- - [Worldwide Mac sales dropped in Q3 2024 while most PC vendors gained](https://appleinsider.com/articles/24/10/09/worldwide-mac-sales-dropped-in-q3-2024-while-most-pc-vendors-gained?utm_medium=rss)
- - [Google DeepMind scientists win Nobel Prize for chemistry](https://www.theverge.com/2024/10/9/24265962/google-deepmind-ai-nobel-prize-winners-chemistry-protein)<!-- TECH:END -->
+ - [Tensions escalate as China arrests Foxconn staff at key Apple factory](https://appleinsider.com/articles/24/10/10/tensions-escalate-as-china-arrests-foxconn-staff-at-key-apple-factory?utm_medium=rss)
+ - [The best deals you can grab before October Prime Day ends](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
+ - [Android 16: Expected features, codename, leaks, and everything else we know so far](https://www.androidauthority.com/android-16-features-3484159/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
