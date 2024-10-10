@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As im sure There are some Black dudes here i Gotta ask. Why do Black women wear wigs?](http://9gag.com/gag/adBL8w2)
- - 🚯 [Gandalf getting his PhD!?](http://9gag.com/gag/a5QMWME)
- - 🚯 [Muscle Memory](http://9gag.com/gag/a4PQojp)<!-- MEMES:END -->
+ - 🚖 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
+ - 🚯 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
+ - 🚯 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)<!-- MEMES:END -->
 
 --- 
 
