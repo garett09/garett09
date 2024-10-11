@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV&#39;s Vessel Of Hatred Expansion Is Locking Some Players Out [Update]](https://kotaku.com/diablo-4-vessel-hatred-license-error-ps5-game-pass-fix-1851667695)
- - [The Newest Green Lantern Is Everyone&#39;s Favorite Friday Night Lights Coach](https://kotaku.com/hbo-green-lantern-hal-jordan-kyle-chandler-coach-1851655222)
- - [Change your passwords: Attackers claim a &#39;catastrophic security breach&#39; of the Internet Archive, with 31 million emails and hashed passwords captured](https://www.pcgamer.com/gaming-industry/change-your-passwords-attackers-claim-a-catastrophic-security-breach-of-the-internet-archive-with-31-million-emails-and-hashed-passwords-captured)<!-- GAME:END -->
+ - [Honkai: Star Rail 2.6 livestream codes](https://www.polygon.com/honkai-star-rail-guides/462003/honkai-star-rail-2-6-livestream-codes)
+ - [This overlooked Teenage Mutant Ninja Turtles roguelike is even better on PC than it was on Nintendo Switch—and there&#39;s a free demo available now](https://www.pcgamer.com/games/roguelike/this-overlooked-teenage-mutant-ninja-turtles-roguelike-is-looking-even-better-on-pc-than-it-did-on-nintendo-switch-and-theres-a-free-demo-available-now)
+ - [The best TV of 2024 so far](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
