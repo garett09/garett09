@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OMG that&#39;s disgusting! Where?](http://9gag.com/gag/aNDYDOA)
- - 🚯 [When the child has to play the role of the parent](http://9gag.com/gag/a0eQXWQ)
- - 🚯 [He&#39;s been waiting a long time for this](http://9gag.com/gag/a9yK6L6)<!-- MEMES:END -->
+ - 🚖 [How to opt out?](http://9gag.com/gag/ae9r48Q)
+ - 🚯 [Replay it](http://9gag.com/gag/a34QGne)
+ - 🚯 [Coral that closes when it feels unsafe](http://9gag.com/gag/aGyZLXn)<!-- MEMES:END -->
 
 --- 
 
