@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tensions escalate as China arrests Foxconn staff at key Apple factory](https://appleinsider.com/articles/24/10/10/tensions-escalate-as-china-arrests-foxconn-staff-at-key-apple-factory?utm_medium=rss)
- - [The best deals you can grab before October Prime Day ends](https://www.theverge.com/good-deals/24262468/amazon-prime-day-best-deals-sales-tech-gadgets-october-2024)
- - [Android 16: Expected features, codename, leaks, and everything else we know so far](https://www.androidauthority.com/android-16-features-3484159/)<!-- TECH:END -->
+ - [Sources: Salt Typhoon hackers still had access to some parts of US broadband networks within the last week, and investigators don&#39;t know what they were seeking &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241011/p12#a241011p12)
+ - [Filing: TikTok&#39;s European revenue grew to $4.57B in 2023, up from $2.6B in 2022; losses grew to $1.3B, up from $512M YoY; ByteDance set aside $1B for EU fines &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/241011/p11#a241011p11)
+ - [Arc Search browser for Android is promising, but I’m not ready to replace Google Chrome just yet](https://www.androidauthority.com/arc-search-browser-3488152/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
