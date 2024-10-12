@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Salt Typhoon hackers still had access to some parts of US broadband networks within the last week, and investigators don&#39;t know what they were seeking &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241011/p12#a241011p12)
- - [Filing: TikTok&#39;s European revenue grew to $4.57B in 2023, up from $2.6B in 2022; losses grew to $1.3B, up from $512M YoY; ByteDance set aside $1B for EU fines &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/241011/p11#a241011p11)
- - [Arc Search browser for Android is promising, but I’m not ready to replace Google Chrome just yet](https://www.androidauthority.com/arc-search-browser-3488152/)<!-- TECH:END -->
+ - [I’m a staunch Android user, but these 12 iOS-exclusive apps give me iPhone envy](https://www.androidauthority.com/ios-exclusive-apps-3489442/)
+ - [Your FSA and HSA Money Can Buy You a New Smart Ring: Here&#39;s How](https://www.cnet.com/health/medical/your-fsa-and-hsa-money-can-buy-you-a-new-smart-ring-heres-how/#ftag=CAD590a51e)
+ - [Home Batteries Are Cheaper Than Ever](https://www.cnet.com/home/energy-and-utilities/home-batteries-are-cheaper-than-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
