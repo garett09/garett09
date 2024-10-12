@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to opt out?](http://9gag.com/gag/ae9r48Q)
- - 🚯 [Replay it](http://9gag.com/gag/a34QGne)
- - 🚯 [Coral that closes when it feels unsafe](http://9gag.com/gag/aGyZLXn)<!-- MEMES:END -->
+ - 🚖 [Usual culture](http://9gag.com/gag/aryGqXX)
+ - 🚯 [Bro did the math](http://9gag.com/gag/a2vZymZ)
+ - 🚯 [Time jump](http://9gag.com/gag/a34QyW5)<!-- MEMES:END -->
 
 --- 
 
