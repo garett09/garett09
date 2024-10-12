@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Honkai: Star Rail 2.6 livestream codes](https://www.polygon.com/honkai-star-rail-guides/462003/honkai-star-rail-2-6-livestream-codes)
- - [This overlooked Teenage Mutant Ninja Turtles roguelike is even better on PC than it was on Nintendo Switch—and there&#39;s a free demo available now](https://www.pcgamer.com/games/roguelike/this-overlooked-teenage-mutant-ninja-turtles-roguelike-is-looking-even-better-on-pc-than-it-did-on-nintendo-switch-and-theres-a-free-demo-available-now)
- - [The best TV of 2024 so far](https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [Metaphor: ReFantazio’s Political Style And Substance Has Us Hooked](https://kotaku.com/metaphor-refantazio-review-tips-walkthrough-1851670295)
+ - [The best thrillers to watch on Netflix this October](https://www.polygon.com/what-to-watch/462683/best-thriller-movies-netflix-watch-october-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
