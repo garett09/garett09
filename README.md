@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [Metaphor: ReFantazio’s Political Style And Substance Has Us Hooked](https://kotaku.com/metaphor-refantazio-review-tips-walkthrough-1851670295)
- - [The best thrillers to watch on Netflix this October](https://www.polygon.com/what-to-watch/462683/best-thriller-movies-netflix-watch-october-2024)<!-- GAME:END -->
+ - [We need to talk about the ‘humans’ in Metaphor: ReFantazio](https://www.polygon.com/gaming/465420/metaphor-refantazio-humans-hieronymus-bosch)
+ - [The host of Dropout’s new cooking show wants you to ‘have more fun’ with your food](https://www.polygon.com/tv/463604/dropout-cooking-show-gastronauts-host-jordan-myrick-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
