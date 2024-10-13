@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m a staunch Android user, but these 12 iOS-exclusive apps give me iPhone envy](https://www.androidauthority.com/ios-exclusive-apps-3489442/)
- - [Your FSA and HSA Money Can Buy You a New Smart Ring: Here&#39;s How](https://www.cnet.com/health/medical/your-fsa-and-hsa-money-can-buy-you-a-new-smart-ring-heres-how/#ftag=CAD590a51e)
- - [Home Batteries Are Cheaper Than Ever](https://www.cnet.com/home/energy-and-utilities/home-batteries-are-cheaper-than-ever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MSI Vision Elite RS Review: A Vision of Gaming Perfection](https://www.wired.com/review/msi-vision-elite-rs-gaming-pc/)
+ - [SpaceX launches Starship and catches its Super Heavy booster for the first time](https://www.theverge.com/2024/10/13/24269029/spacex-starship-launch-super-heavy-chopstick-launch-tower-return-fifth-flight-test)
+ - [On Running Cloudboom Strike LS Review: More Bounces for Less Ounces](https://www.wired.com/review/on-running-cloudboom-strike-ls/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
