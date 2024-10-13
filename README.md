@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Usual culture](http://9gag.com/gag/aryGqXX)
- - 🚯 [Bro did the math](http://9gag.com/gag/a2vZymZ)
- - 🚯 [Time jump](http://9gag.com/gag/a34QyW5)<!-- MEMES:END -->
+ - 🚖 [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
+ - 🚯 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
+ - 🚯 [Wtf](http://9gag.com/gag/avy8xRO)<!-- MEMES:END -->
 
 --- 
 
