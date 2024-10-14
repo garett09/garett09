@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [We need to talk about the ‘humans’ in Metaphor: ReFantazio](https://www.polygon.com/gaming/465420/metaphor-refantazio-humans-hieronymus-bosch)
- - [The host of Dropout’s new cooking show wants you to ‘have more fun’ with your food](https://www.polygon.com/tv/463604/dropout-cooking-show-gastronauts-host-jordan-myrick-interview)<!-- GAME:END -->
+ - [PUBG: BATTLEGROUNDS has been out for 7 years, and it isn&#39;t slowing down](https://www.pcgamer.com/games/pubg-battlegrounds-has-been-out-for-7-years-and-it-isnt-slowing-down)
+ - [Dark and Darker Mobile is bringing the gruelling dungeon crawl to the palm of your hand](https://www.pcgamer.com/games/dark-and-darker-mobile-is-bringing-the-gruelling-dungeon-crawl-to-the-palm-of-your-hand)
+ - [Squirrel With a Gun launches tomorrow – first look at upcoming free updates](https://blog.playstation.com/2024/10/14/squirrel-with-a-gun-launches-tomorrow-first-look-at-upcoming-free-updates/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
