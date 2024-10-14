@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MSI Vision Elite RS Review: A Vision of Gaming Perfection](https://www.wired.com/review/msi-vision-elite-rs-gaming-pc/)
- - [SpaceX launches Starship and catches its Super Heavy booster for the first time](https://www.theverge.com/2024/10/13/24269029/spacex-starship-launch-super-heavy-chopstick-launch-tower-return-fifth-flight-test)
- - [On Running Cloudboom Strike LS Review: More Bounces for Less Ounces](https://www.wired.com/review/on-running-cloudboom-strike-ls/)<!-- TECH:END -->
+ - [This Mini flagship has a bigger battery than the Galaxy S24 Ultra, Pixel 9 Pro XL](https://www.androidauthority.com/vivo-x200-series-3490138/)
+ - [Meta Quest 3S review: fast performance, comfortable, excellent controllers, and large app library, but Fresnel lenses lead to artifacts and average MR cameras &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/241014/p9#a241014p9)
+ - [Adobe launches its AI video model Firefly Video Model in public beta in Premiere Pro, including letting users extend footage and generate video from prompts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241014/p8#a241014p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
