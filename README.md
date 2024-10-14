@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you also have a savings account where you put money to be able buy those in the future?](http://9gag.com/gag/azx9YZN)
- - 🚯 [It&#39;s pepsi&#39;d](http://9gag.com/gag/aBy0XMO)
- - 🚯 [Wtf](http://9gag.com/gag/avy8xRO)<!-- MEMES:END -->
+ - 🚖 [Where is that Confederate man who keep posting Yee-Haw chicks at. .?](http://9gag.com/gag/a873X2Z)
+ - 🚯 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
+ - 🚯 [Apparatly he kept one since 1980](http://9gag.com/gag/aNDYOKA)<!-- MEMES:END -->
 
 --- 
 
