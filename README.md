@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Mini flagship has a bigger battery than the Galaxy S24 Ultra, Pixel 9 Pro XL](https://www.androidauthority.com/vivo-x200-series-3490138/)
- - [Meta Quest 3S review: fast performance, comfortable, excellent controllers, and large app library, but Fresnel lenses lead to artifacts and average MR cameras &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/241014/p9#a241014p9)
- - [Adobe launches its AI video model Firefly Video Model in public beta in Premiere Pro, including letting users extend footage and generate video from prompts &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/241014/p8#a241014p8)<!-- TECH:END -->
+ - [Google rolls out a personalized Shopping feed based on recent searches and YouTube history, coming to mobile first, and adds AI-generated shopping tips &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241015/p16#a241015p16)
+ - [Apple unveils an updated iPad mini with A17 Pro, Apple Intelligence, and the same 8.3&quot; display, starting at $499 with 128GB of storage, available to pre-order &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/241015/p15#a241015p15)
+ - [Sonos announces ‘breakthrough’ Arc Ultra soundbar and Sub 4](https://www.theverge.com/2024/10/15/24270677/sonos-arc-ultra-soundbar-sub-4-announced)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
