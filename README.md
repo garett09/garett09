@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PUBG: BATTLEGROUNDS has been out for 7 years, and it isn&#39;t slowing down](https://www.pcgamer.com/games/pubg-battlegrounds-has-been-out-for-7-years-and-it-isnt-slowing-down)
- - [Dark and Darker Mobile is bringing the gruelling dungeon crawl to the palm of your hand](https://www.pcgamer.com/games/dark-and-darker-mobile-is-bringing-the-gruelling-dungeon-crawl-to-the-palm-of-your-hand)
- - [Squirrel With a Gun launches tomorrow – first look at upcoming free updates](https://blog.playstation.com/2024/10/14/squirrel-with-a-gun-launches-tomorrow-first-look-at-upcoming-free-updates/)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [The first 3D V-Cache Zen 5 chip could arrive just in time to spoil Intel&#39;s Arrow Lake party but whenever it does appear, you can be sure it won&#39;t be cheap](https://www.pcgamer.com/hardware/processors/the-first-3d-v-cache-zen-5-chip-could-arrive-just-in-time-to-spoil-intels-arrow-lake-party-but-whenever-it-does-appear-you-can-be-sure-it-wont-be-cheap)
+ - [Coming to Game Pass: Call of Duty: Black Ops 6, StarCraft &amp; StarCraft II, and More](https://news.xbox.com/en-us/2024/10/15/xbox-game-pass-october-2024-wave-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
