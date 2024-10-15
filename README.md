@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where is that Confederate man who keep posting Yee-Haw chicks at. .?](http://9gag.com/gag/a873X2Z)
- - 🚯 [High IQ green protestors trying to block the road](http://9gag.com/gag/aE02Ndx)
- - 🚯 [Apparatly he kept one since 1980](http://9gag.com/gag/aNDYOKA)<!-- MEMES:END -->
+ - 🚖 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
+ - 🚯 [Prost](http://9gag.com/gag/aoyeAYX)
+ - 🚯 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)<!-- MEMES:END -->
 
 --- 
 
