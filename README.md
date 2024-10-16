@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out a personalized Shopping feed based on recent searches and YouTube history, coming to mobile first, and adds AI-generated shopping tips &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/241015/p16#a241015p16)
- - [Apple unveils an updated iPad mini with A17 Pro, Apple Intelligence, and the same 8.3&quot; display, starting at $499 with 128GB of storage, available to pre-order &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/241015/p15#a241015p15)
- - [Sonos announces ‘breakthrough’ Arc Ultra soundbar and Sub 4](https://www.theverge.com/2024/10/15/24270677/sonos-arc-ultra-soundbar-sub-4-announced)<!-- TECH:END -->
+ - [Lightmatter, which uses silicon photonics with waveguides instead of wires in chips, raised a $400M Series D led by T. Rowe Price at a $4.4B valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/241016/p21#a241016p21)
+ - [Amazon unveils the Kindle Colorsoft Signature Edition, a Paperwhite-like Kindle with a color E Ink display based on Kaleido tech, shipping October 30 for $280 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241016/p20#a241016p20)
+ - [Kindle Scribe hands-on: AI, annotations, and other software updates help the 2-in-1 e-reader and writing tablet more closely mimic real books and notebooks &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/241016/p19#a241016p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
