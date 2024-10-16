@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aaand he`s gone](http://9gag.com/gag/aE02yno)
- - 🚯 [Prost](http://9gag.com/gag/aoyeAYX)
- - 🚯 [Does this chick look familiar \ud83e\udd14?](http://9gag.com/gag/aZZLdoX)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
+ - 🚯 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
+ - 🚯 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)<!-- MEMES:END -->
 
 --- 
 
