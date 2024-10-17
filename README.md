@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lightmatter, which uses silicon photonics with waveguides instead of wires in chips, raised a $400M Series D led by T. Rowe Price at a $4.4B valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/241016/p21#a241016p21)
- - [Amazon unveils the Kindle Colorsoft Signature Edition, a Paperwhite-like Kindle with a color E Ink display based on Kaleido tech, shipping October 30 for $280 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241016/p20#a241016p20)
- - [Kindle Scribe hands-on: AI, annotations, and other software updates help the 2-in-1 e-reader and writing tablet more closely mimic real books and notebooks &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/241016/p19#a241016p19)<!-- TECH:END -->
+ - [Google Photos’ upcoming Enhance Photo sharing option gets even better before launch &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-enhance-photo-filters-apk-teardown-3491479/)
+ - [iPad mini&#39;s 7 fast charging may get a boost with a new adapter](https://appleinsider.com/articles/24/10/17/ipad-minis-7-fast-charging-may-get-a-boost-with-a-new-adapter?utm_medium=rss)
+ - [Was this the sickest iPod?](https://www.theverge.com/c/24238184/apple-ipod-mini-2004-retro-tech-steve-jobs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
