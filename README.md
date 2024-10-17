@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [Call of Duty and StarCraft aren’t all that’s coming to Game Pass in the next few weeks](https://www.polygon.com/news/466033/xbox-game-pass-october-games-new)
- - [Introducing the cast of Clair Obscur: Expedition 33](https://blog.playstation.com/2024/10/16/introducing-the-cast-of-clair-obscur-expedition-33/)<!-- GAME:END -->
+ - [Riot announces new exalted skins tier days after more layoffs, but you can&#39;t get it the usual way—instead, you&#39;ll have to roll the dice](https://www.pcgamer.com/games/moba/riot-announces-new-exalted-skins-tier-days-after-more-layoffs-but-you-cant-get-it-the-usual-way-instead-youll-have-to-roll-the-dice)
+ - [Sea of Thieves Sneaks Into Season 14](https://www.seaofthieves.com/news/season-14-launch#new_tab)
+ - [Researchers seem to have cracked 6G wireless, achieving speeds over 9,000x faster than the 5G average at 938 Gbps—would download Black Myth Wukong in 1.1 seconds](https://www.pcgamer.com/hardware/researchers-seem-to-have-cracked-6g-wireless-achieving-speeds-over-9-000x-faster-than-the-5g-average-at-938-gbps-would-download-black-myth-wukong-in-1-1-seconds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
