@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t look it up](http://9gag.com/gag/aE02jeG)
- - 🚯 [Quad A quality brought to u by dei trash](http://9gag.com/gag/aBy05rD)
- - 🚯 [Happy Tetten Tuesday](http://9gag.com/gag/ae9rE45)<!-- MEMES:END -->
+ - 🚖 [Some things should never have leaked](http://9gag.com/gag/a9yK0Wm)
+ - 🚯 [Made me smiling the whole day](http://9gag.com/gag/aYQY54w)
+ - 🚯 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)<!-- MEMES:END -->
 
 --- 
 
