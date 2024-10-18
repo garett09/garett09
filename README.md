@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos’ upcoming Enhance Photo sharing option gets even better before launch &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-enhance-photo-filters-apk-teardown-3491479/)
- - [iPad mini&#39;s 7 fast charging may get a boost with a new adapter](https://appleinsider.com/articles/24/10/17/ipad-minis-7-fast-charging-may-get-a-boost-with-a-new-adapter?utm_medium=rss)
- - [Was this the sickest iPod?](https://www.theverge.com/c/24238184/apple-ipod-mini-2004-retro-tech-steve-jobs)<!-- TECH:END -->
+ - [It Sure Looks Like Trump Watches Are Breaking Copyright Law](https://www.wired.com/story/it-sure-looks-like-trump-watches-are-breaking-copyright-law/)
+ - [&#39;Ted Lasso&#39; season 4 confirmed in industry listings](https://appleinsider.com/articles/24/10/18/ted-lasso-season-4-confirmed-in-industry-listings?utm_medium=rss)
+ - [Google Photos expands automatic backups to another platform](https://www.androidauthority.com/google-photos-folder-backup-3491928/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
