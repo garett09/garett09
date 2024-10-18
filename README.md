@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some things should never have leaked](http://9gag.com/gag/a9yK0Wm)
- - 🚯 [Made me smiling the whole day](http://9gag.com/gag/aYQY54w)
- - 🚯 [I wish I had a big bro like him](http://9gag.com/gag/aqyKwev)<!-- MEMES:END -->
+ - 🚖 [Tis the season to be spooky](http://9gag.com/gag/aAy3oOp)
+ - 🚯 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
+ - 🚯 [Good news my brethren](http://9gag.com/gag/avy83ZO)<!-- MEMES:END -->
 
 --- 
 
