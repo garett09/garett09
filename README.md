@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot announces new exalted skins tier days after more layoffs, but you can&#39;t get it the usual way—instead, you&#39;ll have to roll the dice](https://www.pcgamer.com/games/moba/riot-announces-new-exalted-skins-tier-days-after-more-layoffs-but-you-cant-get-it-the-usual-way-instead-youll-have-to-roll-the-dice)
- - [Sea of Thieves Sneaks Into Season 14](https://www.seaofthieves.com/news/season-14-launch#new_tab)
- - [Researchers seem to have cracked 6G wireless, achieving speeds over 9,000x faster than the 5G average at 938 Gbps—would download Black Myth Wukong in 1.1 seconds](https://www.pcgamer.com/hardware/researchers-seem-to-have-cracked-6g-wireless-achieving-speeds-over-9-000x-faster-than-the-5g-average-at-938-gbps-would-download-black-myth-wukong-in-1-1-seconds)<!-- GAME:END -->
+ - [Revealing the Invisible Hand Update &lpar;Version 1.1&rpar; for Ara: History Untold](https://news.xbox.com/en-us/2024/10/18/update-version-1-1-ara-history-untold/)
+ - [FMV horror game Tenebris Somnia is a nightmare come true](https://www.polygon.com/gaming/467031/tenebris-somnia-survival-horror-game-demo-impressions)
+ - [Players are loving Subnautica 2&#39;s first terrifying trailer thanks to a crustacean cameo: &#39;More big ol crabs hype&#39;](https://www.pcgamer.com/games/survival-crafting/players-are-loving-subnautica-2s-first-terrifying-trailer-thanks-to-a-crustacean-cameo-more-big-ol-crabs-hype)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
