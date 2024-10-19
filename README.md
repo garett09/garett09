@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tis the season to be spooky](http://9gag.com/gag/aAy3oOp)
- - 🚯 [The best cookies ever.](http://9gag.com/gag/agmnP3x)
- - 🚯 [Good news my brethren](http://9gag.com/gag/avy83ZO)<!-- MEMES:END -->
+ - 🚖 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
+ - 🚯 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
+ - 🚯 [We trusted our lives with this bus signal. He is the man!!!](http://9gag.com/gag/a9yKQqK)<!-- MEMES:END -->
 
 --- 
 
