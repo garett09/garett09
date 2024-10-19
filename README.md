@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Revealing the Invisible Hand Update &lpar;Version 1.1&rpar; for Ara: History Untold](https://news.xbox.com/en-us/2024/10/18/update-version-1-1-ara-history-untold/)
- - [FMV horror game Tenebris Somnia is a nightmare come true](https://www.polygon.com/gaming/467031/tenebris-somnia-survival-horror-game-demo-impressions)
- - [Players are loving Subnautica 2&#39;s first terrifying trailer thanks to a crustacean cameo: &#39;More big ol crabs hype&#39;](https://www.pcgamer.com/games/survival-crafting/players-are-loving-subnautica-2s-first-terrifying-trailer-thanks-to-a-crustacean-cameo-more-big-ol-crabs-hype)<!-- GAME:END -->
+ - [Keep Driving turns a long-haul road trip into a turn-based RPG](https://www.polygon.com/impressions/467287/keep-driving-demo-rpg)
+ - [Asmongold Twitch Ban, Massive Pokémon Leak, And More Of The Week&#39;s Biggest News](https://kotaku.com/asmongold-twitch-ban-massive-pokemon-leak-and-more-of-1851676305)
+ - [The best sci-fi movies to watch on Netflix this October](https://www.polygon.com/what-to-watch/466140/best-sci-fi-movies-watch-netflix-october-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
