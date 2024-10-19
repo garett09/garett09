@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It Sure Looks Like Trump Watches Are Breaking Copyright Law](https://www.wired.com/story/it-sure-looks-like-trump-watches-are-breaking-copyright-law/)
- - [&#39;Ted Lasso&#39; season 4 confirmed in industry listings](https://appleinsider.com/articles/24/10/18/ted-lasso-season-4-confirmed-in-industry-listings?utm_medium=rss)
- - [Google Photos expands automatic backups to another platform](https://www.androidauthority.com/google-photos-folder-backup-3491928/)<!-- TECH:END -->
+ - [Samsung could offer the Galaxy S25 Ultra in these color options](https://www.androidauthority.com/galaxy-s25-ultra-colors-leak-3492216/)
+ - [Did you know? There’s a hidden Samsung setting to turn off all cloud AI features](https://www.androidauthority.com/samsung-galaxy-ai-on-device-only-3488445/)
+ - [Analogue3D’s Retro Console Proves the N64 Controller Was the Worst Ever](https://www.wired.com/story/analogue3ds-retro-console-proves-the-n64-controller-was-the-worst-ever/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
