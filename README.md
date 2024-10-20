@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could offer the Galaxy S25 Ultra in these color options](https://www.androidauthority.com/galaxy-s25-ultra-colors-leak-3492216/)
- - [Did you know? There’s a hidden Samsung setting to turn off all cloud AI features](https://www.androidauthority.com/samsung-galaxy-ai-on-device-only-3488445/)
- - [Analogue3D’s Retro Console Proves the N64 Controller Was the Worst Ever](https://www.wired.com/story/analogue3ds-retro-console-proves-the-n64-controller-was-the-worst-ever/)<!-- TECH:END -->
+ - [12 Best Bookshelf Speakers &lpar;2024&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
+ - [Everything You Can Do From Google Chrome’s Address Bar &lpar;Besides Run Searches&rpar;](https://www.wired.com/story/google-chrome-address-bar-omnibox-shortcuts-everything-you-can-do/)
+ - [Best Multidevice VPNs](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
