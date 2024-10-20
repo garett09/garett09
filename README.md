@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Keep Driving turns a long-haul road trip into a turn-based RPG](https://www.polygon.com/impressions/467287/keep-driving-demo-rpg)
- - [Asmongold Twitch Ban, Massive Pokémon Leak, And More Of The Week&#39;s Biggest News](https://kotaku.com/asmongold-twitch-ban-massive-pokemon-leak-and-more-of-1851676305)
- - [The best sci-fi movies to watch on Netflix this October](https://www.polygon.com/what-to-watch/466140/best-sci-fi-movies-watch-netflix-october-2024)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [Quentin Tarantino’s favorite thriller of 2020 is now on Netflix](https://www.polygon.com/what-to-watch/467591/unhinged-netflix-russell-crowe-thriller)
+ - [I Have A Complicated Relationship With Dragon Ball: Sparking! Zero](https://kotaku.com/dragon-ball-sparking-zero-budokai-tenkaichi-super-1851676911)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
