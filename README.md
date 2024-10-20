@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After a night of peaceful protest, everything in the mall was ransacked except for one store. Experts are bewildered and unable to explain why.](http://9gag.com/gag/azx177B)
- - 🚯 [A drone video showing sinwar&#39;s last minutes alive](http://9gag.com/gag/a0eQB3O)
- - 🚯 [We trusted our lives with this bus signal. He is the man!!!](http://9gag.com/gag/a9yKQqK)<!-- MEMES:END -->
+ - 🚖 [Scientific Conversation](http://9gag.com/gag/a34Rvo1)
+ - 🚯 [I\u2019m not a musician.](http://9gag.com/gag/aoy5mn2)
+ - 🚯 [OP has dick for brains](http://9gag.com/gag/agmnMjn)<!-- MEMES:END -->
 
 --- 
 
