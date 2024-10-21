@@ -134,8 +134,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- GAME:START -->
  - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [Quentin Tarantino’s favorite thriller of 2020 is now on Netflix](https://www.polygon.com/what-to-watch/467591/unhinged-netflix-russell-crowe-thriller)
- - [I Have A Complicated Relationship With Dragon Ball: Sparking! Zero](https://kotaku.com/dragon-ball-sparking-zero-budokai-tenkaichi-super-1851676911)<!-- GAME:END -->
+ - [Former Bethesda lead is sceptical of The Elder Scrolls&#39; return to &#39;fiddly stat sheets&#39;, even in the face of Baldur&#39;s Gate 3&#39;s success](https://www.pcgamer.com/games/the-elder-scrolls/former-bethesda-lead-is-sceptical-of-the-elder-scrolls-return-to-fiddly-stat-sheets-even-in-the-face-of-baldurs-gate-3s-success)
+ - [Sonic X Shadow Generations: The Kotaku Review](https://kotaku.com/sonic-x-shadow-generations-review-levels-powers-1851676560)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
