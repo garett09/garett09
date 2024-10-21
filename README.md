@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Bookshelf Speakers &lpar;2024&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
- - [Everything You Can Do From Google Chrome’s Address Bar &lpar;Besides Run Searches&rpar;](https://www.wired.com/story/google-chrome-address-bar-omnibox-shortcuts-everything-you-can-do/)
- - [Best Multidevice VPNs](https://www.cnet.com/tech/services-and-software/best-multi-device-vpns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s AirPods Pro 2&#39;s impressive hearing test launch date confirmed](https://appleinsider.com/articles/24/10/21/apples-airpods-pro-2s-impressive-hearing-test-launch-date-confirmed?utm_medium=rss)
+ - [Disney’s still looking for a new CEO — but not this year, or next year](https://www.theverge.com/2024/10/21/24275676/disney-new-ceo-announcement-2026-bob-iger)
+ - [How does the Galaxy Z Fold SE compare to the Fold 6? Take a look at these pics.](https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-z-fold-6-comparison-3492377/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
