@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AirPods Pro 2&#39;s impressive hearing test launch date confirmed](https://appleinsider.com/articles/24/10/21/apples-airpods-pro-2s-impressive-hearing-test-launch-date-confirmed?utm_medium=rss)
- - [Disney’s still looking for a new CEO — but not this year, or next year](https://www.theverge.com/2024/10/21/24275676/disney-new-ceo-announcement-2026-bob-iger)
- - [How does the Galaxy Z Fold SE compare to the Fold 6? Take a look at these pics.](https://www.androidauthority.com/samsung-galaxy-z-fold-6-special-edition-z-fold-6-comparison-3492377/)<!-- TECH:END -->
+ - [WhatsApp plans to let users save contacts in the app soon, after previously relying on the local contact book, and developed a new IPLS encrypted storage system &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241022/p10#a241022p10)
+ - [Tech critics want a Google exec punished for deleted chats](https://www.theverge.com/2024/10/22/24275745/kent-walker-google-california-bar-evidence-antitrust)
+ - [iPad mini &lpar;2024&rpar; review: fast A17 Pro chip, delightful size, and Pencil Pro support, but less powerful than other iPads, outdated Touch ID and camera placement &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241022/p9#a241022p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
