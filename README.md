@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp plans to let users save contacts in the app soon, after previously relying on the local contact book, and developed a new IPLS encrypted storage system &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241022/p10#a241022p10)
- - [Tech critics want a Google exec punished for deleted chats](https://www.theverge.com/2024/10/22/24275745/kent-walker-google-california-bar-evidence-antitrust)
- - [iPad mini &lpar;2024&rpar; review: fast A17 Pro chip, delightful size, and Pencil Pro support, but less powerful than other iPads, outdated Touch ID and camera placement &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/241022/p9#a241022p9)<!-- TECH:END -->
+ - [How to Fly With a Personal Item—Plus Our 3 Favorite Small Bags &lpar;2024&rpar;](https://www.wired.com/story/how-to-fly-with-a-personal-item/)
+ - [Severance looks like a terrifying return to office in new season 2 trailer](https://www.theverge.com/2024/10/23/24277021/severance-season-2-trailer-apple-tv-plus)
+ - [Dropped iPhone leads to Australian woman being stuck upside down between boulders for hours](https://appleinsider.com/articles/24/10/23/dropped-iphone-leads-to-australian-woman-being-stuck-upside-down-between-boulders-for-hours?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
