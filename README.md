@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vendetta Forever: PS VR2 features detailed](https://blog.playstation.com/2024/10/22/vendetta-forever-ps-vr2-features-detailed/)
- - [The Biggest Things You Need to Know About Call of Duty: Black Ops 6](https://news.xbox.com/en-us/2024/10/22/biggest-things-need-to-know-call-of-duty-black-ops-6/)
- - [Helldivers 2 players have formed the &#39;Freedom Alliance&#39; to organise their own community orders](https://www.pcgamer.com/games/action/helldivers-2-players-have-formed-the-freedom-alliance-to-organise-their-own-community-orders)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [No Man’s Sky’s Halloween expedition, The Cursed, is out today](https://blog.playstation.com/2024/10/23/no-mans-skys-halloween-expedition-the-cursed-is-out-today/)
+ - [No Man’s Sky: Prepare for an Eerie Expedition with The Cursed Update](https://news.xbox.com/en-us/2024/10/23/no-mans-sky-the-cursed-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
