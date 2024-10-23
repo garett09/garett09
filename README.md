@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you know a couple like that?](http://9gag.com/gag/axy7jnK)
- - 🚯 [Cristy R.](http://9gag.com/gag/a1mRXjw)
- - 🚯 [Poor Choice of words](http://9gag.com/gag/a5QRP0N)<!-- MEMES:END -->
+ - 🚖 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
+ - 🚯 [Female behaviour](http://9gag.com/gag/aZZ7pv3)
+ - 🚯 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
 
 --- 
 
