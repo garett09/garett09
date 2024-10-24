@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [No Man’s Sky’s Halloween expedition, The Cursed, is out today](https://blog.playstation.com/2024/10/23/no-mans-skys-halloween-expedition-the-cursed-is-out-today/)
- - [No Man’s Sky: Prepare for an Eerie Expedition with The Cursed Update](https://news.xbox.com/en-us/2024/10/23/no-mans-sky-the-cursed-update/)<!-- GAME:END -->
+ - [Helldivers 2: Truth Enforcers Warbond launches Oct 31](https://blog.playstation.com/2024/10/24/helldivers-2-truth-enforcers-warbond-launches-oct-31/)
+ - [The unprecedented Pokémon hack covers decades of game secrets. Here’s what it means](https://www.polygon.com/pokemon/469483/pokemon-leak-hack-explainer-game-freak)
+ - [You might want to hold off installing the latest Game Ready Nvidia GeForce driver if you&#39;re using Corsair iCUE or Bluestacks](https://www.pcgamer.com/hardware/graphics-cards/you-might-want-to-hold-off-installing-the-latest-game-ready-nvidia-geforce-driver-if-youre-using-corsair-icue-or-bluestacks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
