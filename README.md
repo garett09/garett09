@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Fly With a Personal Item—Plus Our 3 Favorite Small Bags &lpar;2024&rpar;](https://www.wired.com/story/how-to-fly-with-a-personal-item/)
- - [Severance looks like a terrifying return to office in new season 2 trailer](https://www.theverge.com/2024/10/23/24277021/severance-season-2-trailer-apple-tv-plus)
- - [Dropped iPhone leads to Australian woman being stuck upside down between boulders for hours](https://appleinsider.com/articles/24/10/23/dropped-iphone-leads-to-australian-woman-being-stuck-upside-down-between-boulders-for-hours?utm_medium=rss)<!-- TECH:END -->
+ - [Minecraft is losing VR support next year](https://www.theverge.com/2024/10/24/24278397/minecraft-virtual-reality-support-end-2025)
+ - [DJI Osmo Action 5 Pro Review: Long Battery Life and Great 4K Footage](https://www.wired.com/review/dji-osmo-action-5-pro/)
+ - [Now you can launch Snapchat’s camera from your iPhone’s lock screen](https://www.theverge.com/2024/10/24/24278353/snapchat-iphone-lock-screen-ios18-widget-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
