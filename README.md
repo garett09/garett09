@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Probably best to wear a seatbelt at all times?](http://9gag.com/gag/aMVY8M1)
- - 🚯 [Female behaviour](http://9gag.com/gag/aZZ7pv3)
- - 🚯 [Red Carpet Service](http://9gag.com/gag/aQz1Mxw)<!-- MEMES:END -->
+ - 🚖 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
+ - 🚯 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
+ - 🚯 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
 
 --- 
 
