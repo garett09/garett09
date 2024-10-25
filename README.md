@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Minecraft is losing VR support next year](https://www.theverge.com/2024/10/24/24278397/minecraft-virtual-reality-support-end-2025)
- - [DJI Osmo Action 5 Pro Review: Long Battery Life and Great 4K Footage](https://www.wired.com/review/dji-osmo-action-5-pro/)
- - [Now you can launch Snapchat’s camera from your iPhone’s lock screen](https://www.theverge.com/2024/10/24/24278353/snapchat-iphone-lock-screen-ios18-widget-availability)<!-- TECH:END -->
+ - [The best new streaming shows this week: Before and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Even Realities G1 Smart Glasses Review: Superb Display, But Slow Info](https://www.wired.com/review/review-even-realities-g1-smart-glasses/)
+ - [Amazon’s Like a Dragon works better as a mob drama than a Yakuza adaptation](https://www.theverge.com/2024/10/25/24278893/amazon-like-a-dragon-yakuza-prime-tv)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
