@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2: Truth Enforcers Warbond launches Oct 31](https://blog.playstation.com/2024/10/24/helldivers-2-truth-enforcers-warbond-launches-oct-31/)
- - [The unprecedented Pokémon hack covers decades of game secrets. Here’s what it means](https://www.polygon.com/pokemon/469483/pokemon-leak-hack-explainer-game-freak)
- - [You might want to hold off installing the latest Game Ready Nvidia GeForce driver if you&#39;re using Corsair iCUE or Bluestacks](https://www.pcgamer.com/hardware/graphics-cards/you-might-want-to-hold-off-installing-the-latest-game-ready-nvidia-geforce-driver-if-youre-using-corsair-icue-or-bluestacks)<!-- GAME:END -->
+ - [For Humberly González, Star Wars Outlaws wasn’t a stepping stone, it was the dream](https://www.polygon.com/awards/469886/star-wars-outlaws-kay-actor-humberly-gonzalez-interview-game-awards-goty)
+ - [Diablo 4 Highest Tiers Of Difficulty Are Locked Behind A Whole Bunch Of Tasks](https://kotaku.com/diablo-4-blizzard-unlock-torment-difficulty-1851681151)
+ - [Black Friday graphics card deals 2024: the big deals event is on the way and GPU deals are likely](https://www.pcgamer.com/black-friday-graphics-card-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
