@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enjoy the little things in life.](http://9gag.com/gag/aqygrYY)
- - 🚯 [Those unrealistic body standards!](http://9gag.com/gag/axy71rK)
- - 🚯 [Behold.... The iron keg](http://9gag.com/gag/aQz1R7W)<!-- MEMES:END -->
+ - 🚖 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)
+ - 🚯 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)
+ - 🚯 [Two weeks before moving across country we get hit by an uninsured driver](http://9gag.com/gag/a34RQy7)<!-- MEMES:END -->
 
 --- 
 
