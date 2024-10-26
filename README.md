@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Halloween idea: Collect a few of them, dress them up in costumes and put them on your lawn](http://9gag.com/gag/avyo5Aq)
- - 🚯 [Karma Strikes Back - FAFO At Its Best](http://9gag.com/gag/an7542b)
- - 🚯 [Two weeks before moving across country we get hit by an uninsured driver](http://9gag.com/gag/a34RQy7)<!-- MEMES:END -->
+ - 🚖 [What&#39;re the pre-order numbers looking like?](http://9gag.com/gag/a875EoY)
+ - 🚯 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
+ - 🚯 [Yes yes yes](http://9gag.com/gag/a9yR1Bm)<!-- MEMES:END -->
 
 --- 
 
