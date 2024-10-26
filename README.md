@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For Humberly González, Star Wars Outlaws wasn’t a stepping stone, it was the dream](https://www.polygon.com/awards/469886/star-wars-outlaws-kay-actor-humberly-gonzalez-interview-game-awards-goty)
- - [Diablo 4 Highest Tiers Of Difficulty Are Locked Behind A Whole Bunch Of Tasks](https://kotaku.com/diablo-4-blizzard-unlock-torment-difficulty-1851681151)
- - [Black Friday graphics card deals 2024: the big deals event is on the way and GPU deals are likely](https://www.pcgamer.com/black-friday-graphics-card-deals)<!-- GAME:END -->
+ - [Big Games Detail Their PS5 Pro Modes, Space Marine 2 Reverts Controversial Changes, And More Of The Week&#39;s Top Stories](https://kotaku.com/space-marine-2-ps5-pro-gaming-news-1851681609)
+ - [How to get Dynamax Pokémon from Max Battles in Pokémon Go](https://www.polygon.com/pokemon-go-guide/449273/dynamax-pokemon-get-catch-max-battles)
+ - [The best movies leaving Netflix, Prime Video, and Hulu at the end of October 2024](https://www.polygon.com/what-to-watch/469609/best-movies-netflix-amazon-hulu-leaving-october-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
