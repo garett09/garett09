@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming shows this week: Before and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Even Realities G1 Smart Glasses Review: Superb Display, But Slow Info](https://www.wired.com/review/review-even-realities-g1-smart-glasses/)
- - [Amazon’s Like a Dragon works better as a mob drama than a Yakuza adaptation](https://www.theverge.com/2024/10/25/24278893/amazon-like-a-dragon-yakuza-prime-tv)<!-- TECH:END -->
+ - [10 Best Tested Laptop Stands for Any Setup &lpar;2024&rpar;](https://www.wired.com/gallery/best-laptop-stands/)
+ - [Tesla Optimus vs. Unitree G1: Autonomy or Advertising? video](https://www.cnet.com/videos/tesla-optimus-vs-unitree-g1-autonomy-or-advertising/#ftag=CAD590a51e)
+ - [Daylight Saving Time 2024 Is Almost Over: When the Clocks Fall Back](https://www.cnet.com/science/daylight-saving-time-2024-is-almost-over-when-the-clocks-fall-back/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
