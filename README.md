@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Big Games Detail Their PS5 Pro Modes, Space Marine 2 Reverts Controversial Changes, And More Of The Week&#39;s Top Stories](https://kotaku.com/space-marine-2-ps5-pro-gaming-news-1851681609)
- - [How to get Dynamax Pokémon from Max Battles in Pokémon Go](https://www.polygon.com/pokemon-go-guide/449273/dynamax-pokemon-get-catch-max-battles)
- - [The best movies leaving Netflix, Prime Video, and Hulu at the end of October 2024](https://www.polygon.com/what-to-watch/469609/best-movies-netflix-amazon-hulu-leaving-october-2024)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [Webfishing players use in-game guitar for pop music &amp;#8216;concerts&amp;#8217;](https://www.polygon.com/pc/470027/webfishing-guitar-concert-trend)
+ - [We asked the Critical Role cast the meanest question we could think of](https://www.polygon.com/critical-role/470151/interview-cast-mighty-nein-animated-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
