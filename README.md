@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Tested Laptop Stands for Any Setup &lpar;2024&rpar;](https://www.wired.com/gallery/best-laptop-stands/)
- - [Tesla Optimus vs. Unitree G1: Autonomy or Advertising? video](https://www.cnet.com/videos/tesla-optimus-vs-unitree-g1-autonomy-or-advertising/#ftag=CAD590a51e)
- - [Daylight Saving Time 2024 Is Almost Over: When the Clocks Fall Back](https://www.cnet.com/science/daylight-saving-time-2024-is-almost-over-when-the-clocks-fall-back/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Entry-level iPad to be updated in early 2025](https://appleinsider.com/articles/24/10/27/entry-level-ipad-to-be-updated-in-early-2025?utm_medium=rss)
+ - [19 Piping Hot Gifts for Coffee Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2024/)
+ - [How militaries around the world are using warfare simulation video games like Slitherine Software&#39;s Command: Professional Edition to run battle scenarios &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p3#a241027p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
