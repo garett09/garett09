@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&#39;re the pre-order numbers looking like?](http://9gag.com/gag/a875EoY)
- - 🚯 [What sun damage does to the body](http://9gag.com/gag/awyozRW)
- - 🚯 [Yes yes yes](http://9gag.com/gag/a9yR1Bm)<!-- MEMES:END -->
+ - 🚖 [Imagine your dad gets his revenge.](http://9gag.com/gag/adB5BB2)
+ - 🚯 [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)
+ - 🚯 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)<!-- MEMES:END -->
 
 --- 
 
