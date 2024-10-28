@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Entry-level iPad to be updated in early 2025](https://appleinsider.com/articles/24/10/27/entry-level-ipad-to-be-updated-in-early-2025?utm_medium=rss)
- - [19 Piping Hot Gifts for Coffee Lovers &lpar;2024&rpar;](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2024/)
- - [How militaries around the world are using warfare simulation video games like Slitherine Software&#39;s Command: Professional Edition to run battle scenarios &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/241027/p3#a241027p3)<!-- TECH:END -->
+ - [Google Pixel Watch 5 might be getting a custom Tensor chip](https://www.androidauthority.com/google-pixel-watch-5-tensor-chip-3494524/)
+ - [The Pixel 11 in 2026 could finally catch up to Galaxy S20 Ultra’s zoom](https://www.androidauthority.com/google-pixel-11-100x-zoom-3494569/)
+ - [US Intel Says Insider Threats Are &#39;Likely&#39; During the Election](https://www.wired.com/story/insider-threats-election/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
