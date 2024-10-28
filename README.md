@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine your dad gets his revenge.](http://9gag.com/gag/adB5BB2)
- - 🚯 [Why am I attracted to competent women?](http://9gag.com/gag/a2vRvdw)
- - 🚯 [WOW THIS STORY IS CRAZY](http://9gag.com/gag/a9yR6WL)<!-- MEMES:END -->
+ - 🚖 [Clown wingman](http://9gag.com/gag/amo5WgX)
+ - 🚯 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
+ - 🚯 [CNN loses it after Shark Tank\u2019s Kevin O\u2019Leary points out that Kamala Harris was not actually nominated.](http://9gag.com/gag/a9yR6Ko)<!-- MEMES:END -->
 
 --- 
 
