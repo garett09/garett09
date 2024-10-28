@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [Webfishing players use in-game guitar for pop music &amp;#8216;concerts&amp;#8217;](https://www.polygon.com/pc/470027/webfishing-guitar-concert-trend)
- - [We asked the Critical Role cast the meanest question we could think of](https://www.polygon.com/critical-role/470151/interview-cast-mighty-nein-animated-series)<!-- GAME:END -->
+ - [Obsidian says choices both big and small will matter in Avowed, and &#39;the choices you get and the outcomes in front of you are going to depend on what you&#39;re able to find&#39;](https://www.pcgamer.com/games/rpg/obsidian-says-choices-both-big-and-small-will-matter-in-avowed-and-the-choices-you-get-and-the-outcomes-in-front-of-you-are-going-to-depend-on-what-youre-able-to-find)
+ - [Deadlock&#39;s latest patch buffs three of the most annoying heroes but manages to leave out the biggest thorn in my side](https://www.pcgamer.com/games/moba/deadlocks-latest-patch-buffs-three-of-the-most-annoying-heroes-but-manages-to-leave-out-the-biggest-thorn-in-my-side)
+ - [Where to find all Black Ops 6 safe code locations in the campaign](https://www.polygon.com/black-ops-6-guides/470915/safe-code-location-campaign-money)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
