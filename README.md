@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown wingman](http://9gag.com/gag/amo5WgX)
- - 🚯 [When you try to show off your skills](http://9gag.com/gag/aZZ7nrp)
- - 🚯 [CNN loses it after Shark Tank\u2019s Kevin O\u2019Leary points out that Kamala Harris was not actually nominated.](http://9gag.com/gag/a9yR6Ko)<!-- MEMES:END -->
+ - 🚖 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
+ - 🚯 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
+ - 🚯 [Photos with his wife vs. photos fishing](http://9gag.com/gag/a9yR2zo)<!-- MEMES:END -->
 
 --- 
 
