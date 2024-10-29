@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Obsidian says choices both big and small will matter in Avowed, and &#39;the choices you get and the outcomes in front of you are going to depend on what you&#39;re able to find&#39;](https://www.pcgamer.com/games/rpg/obsidian-says-choices-both-big-and-small-will-matter-in-avowed-and-the-choices-you-get-and-the-outcomes-in-front-of-you-are-going-to-depend-on-what-youre-able-to-find)
- - [Deadlock&#39;s latest patch buffs three of the most annoying heroes but manages to leave out the biggest thorn in my side](https://www.pcgamer.com/games/moba/deadlocks-latest-patch-buffs-three-of-the-most-annoying-heroes-but-manages-to-leave-out-the-biggest-thorn-in-my-side)
- - [Where to find all Black Ops 6 safe code locations in the campaign](https://www.polygon.com/black-ops-6-guides/470915/safe-code-location-campaign-money)<!-- GAME:END -->
+ - [Balatro was only supposed to have 120 jokers but &#39;instead of correcting&#39; a publisher mistake, LocalThunk &#39;just made 30 more&#39; of them](https://www.pcgamer.com/games/card-games/balatro-was-only-supposed-to-have-120-jokers-but-instead-of-correcting-a-publisher-mistake-localthunk-just-made-30-more-of-them)
+ - [With The Veilguard, Dragon Age has forgotten its dark fantasy roots and become BioWare&#39;s Avengers](https://www.pcgamer.com/games/dragon-age/with-the-veilguard-dragon-age-has-forgotten-its-dark-fantasy-roots-and-become-biowares-avengers)
+ - [Stardew Valley creator has bested his own cursed minigame to snag 100% achievement completion on Steam](https://www.pcgamer.com/games/sim/stardew-valley-creator-has-bested-his-own-cursed-minigame-to-snag-100-percent-achievement-completion-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
