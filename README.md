@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch 5 might be getting a custom Tensor chip](https://www.androidauthority.com/google-pixel-watch-5-tensor-chip-3494524/)
- - [The Pixel 11 in 2026 could finally catch up to Galaxy S20 Ultra’s zoom](https://www.androidauthority.com/google-pixel-11-100x-zoom-3494569/)
- - [US Intel Says Insider Threats Are &#39;Likely&#39; During the Election](https://www.wired.com/story/insider-threats-election/)<!-- TECH:END -->
+ - [The first Snapdragon 8 Elite phones have arrived](https://www.androidauthority.com/xiaomi-15-3454933/)
+ - [Vizio’s new ‘MicMe’ soundbar has built-in karaoke](https://www.theverge.com/2024/10/29/24282101/vizio-micme-soundbar-karaoke-microphones)
+ - [Lucid announces pricing of upcoming Gravity SUV](https://www.theverge.com/2024/10/29/24281934/lucid-gravity-price-announce-reservation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
