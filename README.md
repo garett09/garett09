@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Balatro was only supposed to have 120 jokers but &#39;instead of correcting&#39; a publisher mistake, LocalThunk &#39;just made 30 more&#39; of them](https://www.pcgamer.com/games/card-games/balatro-was-only-supposed-to-have-120-jokers-but-instead-of-correcting-a-publisher-mistake-localthunk-just-made-30-more-of-them)
- - [With The Veilguard, Dragon Age has forgotten its dark fantasy roots and become BioWare&#39;s Avengers](https://www.pcgamer.com/games/dragon-age/with-the-veilguard-dragon-age-has-forgotten-its-dark-fantasy-roots-and-become-biowares-avengers)
- - [Stardew Valley creator has bested his own cursed minigame to snag 100% achievement completion on Steam](https://www.pcgamer.com/games/sim/stardew-valley-creator-has-bested-his-own-cursed-minigame-to-snag-100-percent-achievement-completion-on-steam)<!-- GAME:END -->
+ - [The best anime of 2024 so far](https://www.polygon.com/what-to-watch/24074811/best-anime-2024)
+ - [AMD posts record revenues and says RDNA 4 is &#39;on track&#39; for early 2025, but why are gaming GPUs the one thing it can&#39;t get right?](https://www.pcgamer.com/hardware/graphics-cards/amd-posts-record-revenues-and-says-rdna-4-is-on-track-for-early-2025-but-why-are-gaming-gpus-the-one-thing-it-cant-get-right)
+ - [Ayaneo&#39;s teasing us with concept photos of its &#39;Code: REVO&#39; handheld, a codename &#39;symbolizing the innovative strength that leads gamers to walk into a whole new dimension of Ayaneo handhelds&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneos-teasing-us-with-concept-photos-of-its-code-revo-handheld-a-codename-symbolizing-the-innovative-strength-that-leads-gamers-to-walk-into-a-whole-new-dimension-of-ayaneo-handhelds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
