@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What on earth could this be](http://9gag.com/gag/aoy5Lj3)
- - 🚯 [Coconuts getting dehusked, drained, shelled, and peeled.](http://9gag.com/gag/azx1GmN)
- - 🚯 [Photos with his wife vs. photos fishing](http://9gag.com/gag/a9yR2zo)<!-- MEMES:END -->
+ - 🚖 [The blind girl was given the best Christmas present. She loves Harry Potter but Braille books are very expensive. Her aunt collected money for a volume of one of the parts and donated it.](http://9gag.com/gag/a4PRWq6)
+ - 🚯 [I choose the memes](http://9gag.com/gag/apR5AyD)
+ - 🚯 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)<!-- MEMES:END -->
 
 --- 
 
