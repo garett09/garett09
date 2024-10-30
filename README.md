@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Snapdragon 8 Elite phones have arrived](https://www.androidauthority.com/xiaomi-15-3454933/)
- - [Vizio’s new ‘MicMe’ soundbar has built-in karaoke](https://www.theverge.com/2024/10/29/24282101/vizio-micme-soundbar-karaoke-microphones)
- - [Lucid announces pricing of upcoming Gravity SUV](https://www.theverge.com/2024/10/29/24281934/lucid-gravity-price-announce-reservation)<!-- TECH:END -->
+ - [Donald Trump&#39;s Ground Game in Michigan Is Mostly Glitchy Apps and Vibes](https://www.wired.com/story/donald-trump-kamala-harris-michigan/)
+ - [Kindle Colorsoft Review: A Color E-Reader and Not Much Else](https://www.wired.com/review/kindle-colorsoft/)
+ - [Super Micro&#39;s stock drops 25%+ after disclosing that auditor Ernst &amp; Young had resigned following months of disagreement over governance and board independence &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/241030/p22#a241030p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
