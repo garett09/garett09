@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best anime of 2024 so far](https://www.polygon.com/what-to-watch/24074811/best-anime-2024)
- - [AMD posts record revenues and says RDNA 4 is &#39;on track&#39; for early 2025, but why are gaming GPUs the one thing it can&#39;t get right?](https://www.pcgamer.com/hardware/graphics-cards/amd-posts-record-revenues-and-says-rdna-4-is-on-track-for-early-2025-but-why-are-gaming-gpus-the-one-thing-it-cant-get-right)
- - [Ayaneo&#39;s teasing us with concept photos of its &#39;Code: REVO&#39; handheld, a codename &#39;symbolizing the innovative strength that leads gamers to walk into a whole new dimension of Ayaneo handhelds&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/ayaneos-teasing-us-with-concept-photos-of-its-code-revo-handheld-a-codename-symbolizing-the-innovative-strength-that-leads-gamers-to-walk-into-a-whole-new-dimension-of-ayaneo-handhelds)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
+ - [The 20 Most Frightening Found Footage Films Of The Past 25 Years](https://kotaku.com/found-footage-films-blair-witch-paranormal-activity-1851685518)
+ - [Where to Take the Best Scary Photos in Roblox’s Halloween Event, The Haunt](https://news.xbox.com/en-us/2024/10/31/where-to-take-the-best-scary-photos-in-robloxs-halloween-event-the-haunt/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
