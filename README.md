@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump&#39;s Ground Game in Michigan Is Mostly Glitchy Apps and Vibes](https://www.wired.com/story/donald-trump-kamala-harris-michigan/)
- - [Kindle Colorsoft Review: A Color E-Reader and Not Much Else](https://www.wired.com/review/kindle-colorsoft/)
- - [Super Micro&#39;s stock drops 25%+ after disclosing that auditor Ernst &amp; Young had resigned following months of disagreement over governance and board independence &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/241030/p22#a241030p22)<!-- TECH:END -->
+ - [ChatGPT on the web moves closer to replacing Google Search](https://www.androidauthority.com/chatgpt-search-suggestions-web-3495780/)
+ - [Tech leaders kiss the ring](https://www.theverge.com/2024/10/31/24282719/tech-leaders-trump-jeff-bezos-zuckerberg-pichai)
+ - [17 Best Horror Shows to Binge for Halloween](https://www.wired.com/story/best-horror-shows-streaming/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
