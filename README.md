@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The blind girl was given the best Christmas present. She loves Harry Potter but Braille books are very expensive. Her aunt collected money for a volume of one of the parts and donated it.](http://9gag.com/gag/a4PRWq6)
- - 🚯 [I choose the memes](http://9gag.com/gag/apR5AyD)
- - 🚯 [Being a robber in Spain is different.](http://9gag.com/gag/aLn0XoA)<!-- MEMES:END -->
+ - 🚖 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
+ - 🚯 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
+ - 🚯 [Speed Dating.](http://9gag.com/gag/aGyg2vw)<!-- MEMES:END -->
 
 --- 
 
