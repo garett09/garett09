@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream)
- - [The 20 Most Frightening Found Footage Films Of The Past 25 Years](https://kotaku.com/found-footage-films-blair-witch-paranormal-activity-1851685518)
- - [Where to Take the Best Scary Photos in Roblox’s Halloween Event, The Haunt](https://news.xbox.com/en-us/2024/10/31/where-to-take-the-best-scary-photos-in-robloxs-halloween-event-the-haunt/)<!-- GAME:END -->
+ - [The AMD Ryzen 9 9800X3D might seal Arrow Lake&#39;s fate unless Intel cuts prices to compete with the 9000-series](https://www.pcgamer.com/hardware/processors/the-amd-ryzen-9-9800x3d-might-seal-arrow-lakes-fate-unless-intel-cuts-prices-to-compete-with-the-9000-series)
+ - [Nvidia&#39;s &#39;high-end&#39; Arm-based chip for PCs will reportedly go into production in 2025](https://www.pcgamer.com/hardware/processors/nvidias-high-end-arm-based-chip-for-pcs-will-reportedly-go-into-production-in-2025)
+ - [How role-playing a trans or nonbinary Rook works in Dragon Age: The Veilguard](https://www.polygon.com/gaming/472513/dragon-age-veilguard-trans-nonbinary-identity-role-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
