@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best community note I have ever read](http://9gag.com/gag/aVv0dEK)
- - 🚯 [Portuguese businessman kidnapped in Maputo](http://9gag.com/gag/amo5Vj9)
- - 🚯 [Speed Dating.](http://9gag.com/gag/aGyg2vw)<!-- MEMES:END -->
+ - 🚖 [This brilliant criminal mind stealing a package from a door](http://9gag.com/gag/avyoB5b)
+ - 🚯 [October 31. Who you gonna call?](http://9gag.com/gag/aLn0V16)
+ - 🚯 [Facts](http://9gag.com/gag/a9yR4Lm)<!-- MEMES:END -->
 
 --- 
 
