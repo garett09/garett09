@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT on the web moves closer to replacing Google Search](https://www.androidauthority.com/chatgpt-search-suggestions-web-3495780/)
- - [Tech leaders kiss the ring](https://www.theverge.com/2024/10/31/24282719/tech-leaders-trump-jeff-bezos-zuckerberg-pichai)
- - [17 Best Horror Shows to Binge for Halloween](https://www.wired.com/story/best-horror-shows-streaming/)<!-- TECH:END -->
+ - [The AI garage door mystery](https://www.theverge.com/2024/11/1/24285304/chatgpt-search-apple-mac-mini-smart-home-vergecast)
+ - [Android 16 release window: It’s coming sooner that you think](https://www.androidauthority.com/android-16-release-date-3495817/)
+ - [The best thing about early Android 16? Getting a new phone for Xmas](https://www.androidauthority.com/early-android-16-xmas-3495441/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
