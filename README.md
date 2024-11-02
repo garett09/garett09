@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The AMD Ryzen 9 9800X3D might seal Arrow Lake&#39;s fate unless Intel cuts prices to compete with the 9000-series](https://www.pcgamer.com/hardware/processors/the-amd-ryzen-9-9800x3d-might-seal-arrow-lakes-fate-unless-intel-cuts-prices-to-compete-with-the-9000-series)
- - [Nvidia&#39;s &#39;high-end&#39; Arm-based chip for PCs will reportedly go into production in 2025](https://www.pcgamer.com/hardware/processors/nvidias-high-end-arm-based-chip-for-pcs-will-reportedly-go-into-production-in-2025)
- - [How role-playing a trans or nonbinary Rook works in Dragon Age: The Veilguard](https://www.polygon.com/gaming/472513/dragon-age-veilguard-trans-nonbinary-identity-role-play)<!-- GAME:END -->
+ - [The best movies new to streaming this November](https://www.polygon.com/what-to-watch/471571/best-new-movies-netflix-amazon-prime-max-hulu-november-2024)
+ - [Xenoblade Chronicles X Is Coming To Switch, The Concord Studio Gets Shut Down, And More Of The Week&#39;s Top Stories](https://kotaku.com/concord-ps5-ubisoft-nft-crypto-xenoblade-switch-1851687587)
+ - [China: Mao&#39;s Legacy is like an absurdly specific Paradox game on a tight budget, and also one of the best sims I&#39;ve ever played](https://www.pcgamer.com/games/sim/china-maos-legacy-is-like-an-absurdly-specific-paradox-game-on-a-tight-budget-and-also-one-of-the-best-sims-ive-ever-played)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
