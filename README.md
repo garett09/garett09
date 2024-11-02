@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI garage door mystery](https://www.theverge.com/2024/11/1/24285304/chatgpt-search-apple-mac-mini-smart-home-vergecast)
- - [Android 16 release window: It’s coming sooner that you think](https://www.androidauthority.com/android-16-release-date-3495817/)
- - [The best thing about early Android 16? Getting a new phone for Xmas](https://www.androidauthority.com/early-android-16-xmas-3495441/)<!-- TECH:END -->
+ - [How to Choose a Router &lpar;2024&rpar;: Tips, Technical Terms, and Advice](https://www.wired.com/story/how-to-buy-a-router/)
+ - [Windblown shows how good roguelikes can be with friends](https://www.theverge.com/2024/11/2/24284956/windblown-roguelikes-friends-multiplayer)
+ - [A Chainalysis study based on digital wallet use data from January 1, 2024 to October 8, 2024 suggests Tether&#39;s USDT has gained traction in EMEA time zones &lpar;Bloomberg&rpar;](http://www.techmeme.com/241102/p6#a241102p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
