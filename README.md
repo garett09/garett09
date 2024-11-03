@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How and why?](http://9gag.com/gag/ayNoA9W)
- - 🚯 [Those were the days](http://9gag.com/gag/a5QRgoV)
- - 🚯 [Happy Halloween guys, here&#39;s someone get spooked](http://9gag.com/gag/aLn0VeA)<!-- MEMES:END -->
+ - 🚖 [Why not a meme that is realistic?](http://9gag.com/gag/aLn07W6)
+ - 🚯 [Until it&#39;s `enriched`](http://9gag.com/gag/aRB0pd5)
+ - 🚯 [Mordern family values](http://9gag.com/gag/aQz15g8)<!-- MEMES:END -->
 
 --- 
 
