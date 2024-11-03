@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Choose a Router &lpar;2024&rpar;: Tips, Technical Terms, and Advice](https://www.wired.com/story/how-to-buy-a-router/)
- - [Windblown shows how good roguelikes can be with friends](https://www.theverge.com/2024/11/2/24284956/windblown-roguelikes-friends-multiplayer)
- - [A Chainalysis study based on digital wallet use data from January 1, 2024 to October 8, 2024 suggests Tether&#39;s USDT has gained traction in EMEA time zones &lpar;Bloomberg&rpar;](http://www.techmeme.com/241102/p6#a241102p6)<!-- TECH:END -->
+ - [Best Mattresses of 2024: Tested for Every Sleep Style](https://www.wired.com/gallery/best-mattresses/)
+ - [Rocky Talkie Mountain Radio Review: Expensive, but Worth It](https://www.wired.com/review/rocky-talkie-mountain-radio/)
+ - [Unbound Flick Review: A Ring Vibrator](https://www.wired.com/review/unbound-flick/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
