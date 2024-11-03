@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming this November](https://www.polygon.com/what-to-watch/471571/best-new-movies-netflix-amazon-prime-max-hulu-november-2024)
- - [Xenoblade Chronicles X Is Coming To Switch, The Concord Studio Gets Shut Down, And More Of The Week&#39;s Top Stories](https://kotaku.com/concord-ps5-ubisoft-nft-crypto-xenoblade-switch-1851687587)
- - [China: Mao&#39;s Legacy is like an absurdly specific Paradox game on a tight budget, and also one of the best sims I&#39;ve ever played](https://www.pcgamer.com/games/sim/china-maos-legacy-is-like-an-absurdly-specific-paradox-game-on-a-tight-budget-and-also-one-of-the-best-sims-ive-ever-played)<!-- GAME:END -->
+ - [The best comedy movies of 2024 so far](https://www.polygon.com/what-to-watch/24152189/best-comedy-movies-2024)
+ - [One of the biggest names in immersive sims reckons they&#39;re easier to sell if you call them something else, but one day they&#39;ll be &#39;invading every genre&#39;](https://www.pcgamer.com/games/one-of-the-biggest-names-in-immersive-sims-reckons-theyre-easier-to-sell-if-you-call-them-something-else-but-one-day-theyll-be-invading-every-genre)
+ - [Today&#39;s Wordle answer for Sunday, November 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-3-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
