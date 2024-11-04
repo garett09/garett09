@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best comedy movies of 2024 so far](https://www.polygon.com/what-to-watch/24152189/best-comedy-movies-2024)
- - [One of the biggest names in immersive sims reckons they&#39;re easier to sell if you call them something else, but one day they&#39;ll be &#39;invading every genre&#39;](https://www.pcgamer.com/games/one-of-the-biggest-names-in-immersive-sims-reckons-theyre-easier-to-sell-if-you-call-them-something-else-but-one-day-theyll-be-invading-every-genre)
- - [Today&#39;s Wordle answer for Sunday, November 3](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-3-2024)<!-- GAME:END -->
+ - [Ex-AMD fab GlobalFoundries has been fined $500K after admitting it shipped $17,000,000 worth of product to a company associated with China&#39;s military industrial complex](https://www.pcgamer.com/hardware/ex-amd-fab-globalfoundries-has-been-fined-usd500k-after-admitting-it-shipped-usd17-000-000-worth-of-product-to-a-company-associated-with-chinas-military-industrial-complex)
+ - [As seen in Astro Bot: 10 PlayStation VIP Bot cameos and the games that inspired them](https://blog.playstation.com/2024/11/04/as-seen-in-astro-bot-10-playstation-vip-bot-cameos-and-the-games-that-inspired-them/)
+ - [Like A Dragon: Yakuza Is A Confused, Sometimes Visionary Mess](https://kotaku.com/like-a-dragon-yakuza-series-review-amazon-1851688066)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
