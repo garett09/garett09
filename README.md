@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Mattresses of 2024: Tested for Every Sleep Style](https://www.wired.com/gallery/best-mattresses/)
- - [Rocky Talkie Mountain Radio Review: Expensive, but Worth It](https://www.wired.com/review/rocky-talkie-mountain-radio/)
- - [Unbound Flick Review: A Ring Vibrator](https://www.wired.com/review/unbound-flick/)<!-- TECH:END -->
+ - [Is Apple’s iPhone 16 Pro Good for Games?](https://www.wired.com/story/is-the-iphone-16-pro-good-for-games/)
+ - [Astell &amp; Kern SP3000T review: a tube amp in your pocket](https://www.theverge.com/24285711/astell-kern-sp3000t-review-hybrid-tube-amp-dap)
+ - [Can Apple innovate if iPhone remains the biggest slice of its revenues?](https://appleinsider.com/articles/24/11/04/can-apple-innovate-if-iphone-remains-the-biggest-slice-of-its-revenues?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
