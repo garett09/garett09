@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why not a meme that is realistic?](http://9gag.com/gag/aLn07W6)
- - 🚯 [Until it&#39;s `enriched`](http://9gag.com/gag/aRB0pd5)
- - 🚯 [Mordern family values](http://9gag.com/gag/aQz15g8)<!-- MEMES:END -->
+ - 🚖 [R-E-S-P-E-C-T](http://9gag.com/gag/aBygpVP)
+ - 🚯 [We have food at home, and no money in the bank. Guess where we are eating?](http://9gag.com/gag/aRB0nx2)
+ - 🚯 [That control is godly](http://9gag.com/gag/azx1n5q)<!-- MEMES:END -->
 
 --- 
 
