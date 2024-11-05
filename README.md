@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [R-E-S-P-E-C-T](http://9gag.com/gag/aBygpVP)
- - 🚯 [We have food at home, and no money in the bank. Guess where we are eating?](http://9gag.com/gag/aRB0nx2)
- - 🚯 [That control is godly](http://9gag.com/gag/azx1n5q)<!-- MEMES:END -->
+ - 🚖 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)
+ - 🚯 [Hello ?](http://9gag.com/gag/aKGdRYQ)
+ - 🚯 [And is this good or bad?](http://9gag.com/gag/aAygnZp)<!-- MEMES:END -->
 
 --- 
 
