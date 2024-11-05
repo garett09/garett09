@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Apple’s iPhone 16 Pro Good for Games?](https://www.wired.com/story/is-the-iphone-16-pro-good-for-games/)
- - [Astell &amp; Kern SP3000T review: a tube amp in your pocket](https://www.theverge.com/24285711/astell-kern-sp3000t-review-hybrid-tube-amp-dap)
- - [Can Apple innovate if iPhone remains the biggest slice of its revenues?](https://appleinsider.com/articles/24/11/04/can-apple-innovate-if-iphone-remains-the-biggest-slice-of-its-revenues?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2024&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
+ - [Have too many games on your phone? Google Play could help you continue playing &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-continue-playing-apk-3496826/)
+ - [French judicial source: investigators searched Netflix&#39;s offices in France and the Netherlands as part of a preliminary investigation into tax fraud laundering &lpar;Reuters&rpar;](http://www.techmeme.com/241105/p8#a241105p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
