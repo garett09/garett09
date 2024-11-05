@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-AMD fab GlobalFoundries has been fined $500K after admitting it shipped $17,000,000 worth of product to a company associated with China&#39;s military industrial complex](https://www.pcgamer.com/hardware/ex-amd-fab-globalfoundries-has-been-fined-usd500k-after-admitting-it-shipped-usd17-000-000-worth-of-product-to-a-company-associated-with-chinas-military-industrial-complex)
- - [As seen in Astro Bot: 10 PlayStation VIP Bot cameos and the games that inspired them](https://blog.playstation.com/2024/11/04/as-seen-in-astro-bot-10-playstation-vip-bot-cameos-and-the-games-that-inspired-them/)
- - [Like A Dragon: Yakuza Is A Confused, Sometimes Visionary Mess](https://kotaku.com/like-a-dragon-yakuza-series-review-amazon-1851688066)<!-- GAME:END -->
+ - [Don&#39;t Let These 19 Games Coming Out This November Fly Under Your Radar](https://kotaku.com/game-release-schedule-calendar-november-2024-1851687776)
+ - [After 17 years, &#39;the most mysterious song on the internet&#39;, used in esoteric and rad Doom mod MyHouse.wad, has been found](https://www.pcgamer.com/games/fps/after-17-years-the-most-mysterious-song-on-the-internet-used-in-esoteric-and-rad-doom-mod-myhouse-wad-has-been-found)
+ - [In Elden Ring, dragons are three-dimensional characters](https://www.polygon.com/analysis/471742/elden-ring-video-game-dragons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
