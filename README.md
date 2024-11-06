@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2024&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
- - [Have too many games on your phone? Google Play could help you continue playing &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-continue-playing-apk-3496826/)
- - [French judicial source: investigators searched Netflix&#39;s offices in France and the Netherlands as part of a preliminary investigation into tax fraud laundering &lpar;Reuters&rpar;](http://www.techmeme.com/241105/p8#a241105p8)<!-- TECH:END -->
+ - [Bose Smart Soundbar Review: Old Bar, New AI Tricks](https://www.wired.com/review/bose-smart-soundbar/)
+ - [I flew DJI’s $199 drone with its new $229 Goggles N3](https://www.theverge.com/24285651/dji-goggles-n3-price-release-date-hands-on)
+ - [9 Walmart Deals That Meet or Beat Black Friday Prices](https://www.wired.com/story/walmart-deals-november-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
