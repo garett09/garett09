@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uh oh... Curse of Harambe wasn&#39;t enough I guess.](http://9gag.com/gag/aD2gEWx)
- - 🚯 [Hello ?](http://9gag.com/gag/aKGdRYQ)
- - 🚯 [And is this good or bad?](http://9gag.com/gag/aAygnZp)<!-- MEMES:END -->
+ - 🚖 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
+ - 🚯 [He has done it twice](http://9gag.com/gag/a5QWdzr)
+ - 🚯 [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)<!-- MEMES:END -->
 
 --- 
 
