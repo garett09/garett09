@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t Let These 19 Games Coming Out This November Fly Under Your Radar](https://kotaku.com/game-release-schedule-calendar-november-2024-1851687776)
- - [After 17 years, &#39;the most mysterious song on the internet&#39;, used in esoteric and rad Doom mod MyHouse.wad, has been found](https://www.pcgamer.com/games/fps/after-17-years-the-most-mysterious-song-on-the-internet-used-in-esoteric-and-rad-doom-mod-myhouse-wad-has-been-found)
- - [In Elden Ring, dragons are three-dimensional characters](https://www.polygon.com/analysis/471742/elden-ring-video-game-dragons)<!-- GAME:END -->
+ - [OpenAI has bought the URL of what used to be an adult video chat website for more than $15,500,000](https://www.pcgamer.com/software/ai/openai-has-bought-the-url-of-what-used-to-be-an-adult-video-chat-website-for-more-than-usd15-500-000)
+ - [The best sci-fi TV of the year so far](https://www.polygon.com/tv/474377/best-sci-fi-shows-2024)
+ - [I chatted to an MIT-built AI version of my future, 60-year-old self and we did NOT get along](https://www.pcgamer.com/hardware/it-is-on-sight-with-this-ai-chatbot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
