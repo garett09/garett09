@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
- - 🚯 [He has done it twice](http://9gag.com/gag/a5QWdzr)
- - 🚯 [Spinning a stick, very easy!](http://9gag.com/gag/aLnw6Xv)<!-- MEMES:END -->
+ - 🚖 [Clown world](http://9gag.com/gag/ajP9nM1)
+ - 🚯 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
+ - 🚯 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)<!-- MEMES:END -->
 
 --- 
 
