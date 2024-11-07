@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose Smart Soundbar Review: Old Bar, New AI Tricks](https://www.wired.com/review/bose-smart-soundbar/)
- - [I flew DJI’s $199 drone with its new $229 Goggles N3](https://www.theverge.com/24285651/dji-goggles-n3-price-release-date-hands-on)
- - [9 Walmart Deals That Meet or Beat Black Friday Prices](https://www.wired.com/story/walmart-deals-november-2024/)<!-- TECH:END -->
+ - [Testing out Mac ultra wide display mirror on Apple Vision Pro](https://appleinsider.com/articles/24/11/07/testing-out-mac-ultra-wide-display-mirror-on-apple-vision-pro?utm_medium=rss)
+ - [Anthropic partners with Palantir and AWS to provide US intelligence and defense agencies access to its Claude models and &quot;operationalize&quot; their use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241107/p18#a241107p18)
+ - [You might be able to locate the OnePlus 13 even when it’s powered off](https://www.androidauthority.com/oneplus-13-powered-off-finding-3497244/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
