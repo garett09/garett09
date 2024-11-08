@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI has bought the URL of what used to be an adult video chat website for more than $15,500,000](https://www.pcgamer.com/software/ai/openai-has-bought-the-url-of-what-used-to-be-an-adult-video-chat-website-for-more-than-usd15-500-000)
- - [The best sci-fi TV of the year so far](https://www.polygon.com/tv/474377/best-sci-fi-shows-2024)
- - [I chatted to an MIT-built AI version of my future, 60-year-old self and we did NOT get along](https://www.pcgamer.com/hardware/it-is-on-sight-with-this-ai-chatbot)<!-- GAME:END -->
+ - [Simulated CPU-building speedrun attempt ends with a functioning processor in a mere six hours](https://www.pcgamer.com/hardware/simulated-cpu-building-speedrun-attempt-ends-with-a-functioning-processor-in-a-mere-six-hours)
+ - [Pokémon Trading Card Game Pocket won’t rock your world, and that’s OK](https://www.polygon.com/review/475875/pokemon-trading-card-game-pocket-tcg-review)
+ - [Intel&#39;s Battlemage GPUs rumoured to arrive in December, well ahead of AMD and Nvidia&#39;s next-gen chips](https://www.pcgamer.com/hardware/graphics-cards/intels-battlemage-gpus-rumoured-to-arrive-in-december-well-ahead-of-amd-and-nvidias-next-gen-chips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
