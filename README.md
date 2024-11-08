@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown world](http://9gag.com/gag/ajP9nM1)
- - 🚯 [Kamela Harris caught pretending to be on the phone - with the camera &lpar;lol&rpar; app](http://9gag.com/gag/apRGqRE)
- - 🚯 [Road karma is not infinite](http://9gag.com/gag/agmAyKK)<!-- MEMES:END -->
+ - 🚖 [Vengeance](http://9gag.com/gag/aE0PR9x)
+ - 🚯 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
+ - 🚯 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)<!-- MEMES:END -->
 
 --- 
 
