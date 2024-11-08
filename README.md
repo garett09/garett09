@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Testing out Mac ultra wide display mirror on Apple Vision Pro](https://appleinsider.com/articles/24/11/07/testing-out-mac-ultra-wide-display-mirror-on-apple-vision-pro?utm_medium=rss)
- - [Anthropic partners with Palantir and AWS to provide US intelligence and defense agencies access to its Claude models and &quot;operationalize&quot; their use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/241107/p18#a241107p18)
- - [You might be able to locate the OnePlus 13 even when it’s powered off](https://www.androidauthority.com/oneplus-13-powered-off-finding-3497244/)<!-- TECH:END -->
+ - [iPhone 18 Pro rumored to gain a variable aperture wide-angle lens](https://appleinsider.com/articles/24/11/08/iphone-18-pro-rumored-to-gain-a-variable-aperture-wide-angle-lens?utm_medium=rss)
+ - [5 Best Sunrise Alarm Clocks &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
+ - [I ditched ChatGPT for Gemini and have mixed feelings](https://www.androidauthority.com/ditched-chatgpt-for-gemini-3497814/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
