@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Vengeance](http://9gag.com/gag/aE0PR9x)
- - 🚯 [Kamala&#39;s trans activist step daughter. America rejected this shit](http://9gag.com/gag/aMVxGVG)
- - 🚯 [Both young men are pepsi after train surfing in austria. Rip. Darwin approves.](http://9gag.com/gag/ae9D6bj)<!-- MEMES:END -->
+ - 🚖 [White liberal women](http://9gag.com/gag/aqyn1Yj)
+ - 🚯 [Why is Biden super sharp all of a sudden?](http://9gag.com/gag/a87GpYe)
+ - 🚯 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)<!-- MEMES:END -->
 
 --- 
 
