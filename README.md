@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Simulated CPU-building speedrun attempt ends with a functioning processor in a mere six hours](https://www.pcgamer.com/hardware/simulated-cpu-building-speedrun-attempt-ends-with-a-functioning-processor-in-a-mere-six-hours)
- - [Pokémon Trading Card Game Pocket won’t rock your world, and that’s OK](https://www.polygon.com/review/475875/pokemon-trading-card-game-pocket-tcg-review)
- - [Intel&#39;s Battlemage GPUs rumoured to arrive in December, well ahead of AMD and Nvidia&#39;s next-gen chips](https://www.pcgamer.com/hardware/graphics-cards/intels-battlemage-gpus-rumoured-to-arrive-in-december-well-ahead-of-amd-and-nvidias-next-gen-chips)<!-- GAME:END -->
+ - [How Fish Is Made is the most disgusting horror game I&#39;ve ever played, and it perfectly captures 2024](https://www.pcgamer.com/games/horror/how-fish-is-made-is-the-most-disgusting-horror-game-ive-ever-played-and-it-perfectly-captures-2024)
+ - [Today&#39;s Wordle answer for Saturday, November 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-9-2024)
+ - [Genshin Impact&#39;s missing English voice acting returns in its latest trailer, but players aren&#39;t sure if they should celebrate yet](https://www.pcgamer.com/games/action/genshin-impacts-missing-english-voice-acting-returns-in-its-latest-trailer-but-players-arent-sure-if-they-should-celebrate-yet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
