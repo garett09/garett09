@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro rumored to gain a variable aperture wide-angle lens](https://appleinsider.com/articles/24/11/08/iphone-18-pro-rumored-to-gain-a-variable-aperture-wide-angle-lens?utm_medium=rss)
- - [5 Best Sunrise Alarm Clocks &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
- - [I ditched ChatGPT for Gemini and have mixed feelings](https://www.androidauthority.com/ditched-chatgpt-for-gemini-3497814/)<!-- TECH:END -->
+ - [I tested the Pixel 9’s excellent new underwater camera mode in the blue Hawaii waters](https://www.androidauthority.com/pixel-underwater-mode-3496935/)
+ - [Android will soon make it easier to connect to some public Wi-Fi networks](https://www.androidauthority.com/android-custom-tabs-captive-portal-3498113/)
+ - [Data shows open interest on Polymarket fell 64% from $510.95M on November 5 to $184.16M by November 8, highlighting the platform&#39;s reliance on political betting &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/241109/p7#a241109p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
