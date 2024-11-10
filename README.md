@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested the Pixel 9’s excellent new underwater camera mode in the blue Hawaii waters](https://www.androidauthority.com/pixel-underwater-mode-3496935/)
- - [Android will soon make it easier to connect to some public Wi-Fi networks](https://www.androidauthority.com/android-custom-tabs-captive-portal-3498113/)
- - [Data shows open interest on Polymarket fell 64% from $510.95M on November 5 to $184.16M by November 8, highlighting the platform&#39;s reliance on political betting &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/241109/p7#a241109p7)<!-- TECH:END -->
+ - [Microplastics Could Be Making the Weather Worse](https://www.wired.com/story/microplastics-promote-cloud-formation-with-likely-effects-on-weather-and-climate/)
+ - [Chill games for a chill weekend](https://www.theverge.com/2024/11/10/24291418/stardew-valley-mario-luigi-brothership-heretic-installer)
+ - [Spotify’s AI is no match for a real DJ](https://www.theverge.com/24290914/spotify-ai-dj-radio-kexp)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
