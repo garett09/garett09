@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [White liberal women](http://9gag.com/gag/aqyn1Yj)
- - 🚯 [Why is Biden super sharp all of a sudden?](http://9gag.com/gag/a87GpYe)
- - 🚯 [Spring in his step, smile on his face and blew a kiss to the cameras. Radiating &#39;told you so mofos&#39; energy](http://9gag.com/gag/a0eNdVZ)<!-- MEMES:END -->
+ - 🚖 [Comrade Cart will follow you unless you put your cart back in the proper place. Nyet!](http://9gag.com/gag/axy97NW)
+ - 🚯 [Men.](http://9gag.com/gag/avyzOjd)
+ - 🚯 [Looks like a win, win scenario](http://9gag.com/gag/aD24zKZ)<!-- MEMES:END -->
 
 --- 
 
