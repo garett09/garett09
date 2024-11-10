@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Fish Is Made is the most disgusting horror game I&#39;ve ever played, and it perfectly captures 2024](https://www.pcgamer.com/games/horror/how-fish-is-made-is-the-most-disgusting-horror-game-ive-ever-played-and-it-perfectly-captures-2024)
- - [Today&#39;s Wordle answer for Saturday, November 9](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-9-2024)
- - [Genshin Impact&#39;s missing English voice acting returns in its latest trailer, but players aren&#39;t sure if they should celebrate yet](https://www.pcgamer.com/games/action/genshin-impacts-missing-english-voice-acting-returns-in-its-latest-trailer-but-players-arent-sure-if-they-should-celebrate-yet)<!-- GAME:END -->
+ - [Europa is chill — its story isn’t](https://www.polygon.com/review/475583/europa-review)
+ - [What time does FFXIV maintenance end and patch 7.1 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/476325/patch-7-1-maintenance-end-time)
+ - [Today&#39;s Wordle answer for Sunday, November 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-10-2024)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
