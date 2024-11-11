@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microplastics Could Be Making the Weather Worse](https://www.wired.com/story/microplastics-promote-cloud-formation-with-likely-effects-on-weather-and-climate/)
- - [Chill games for a chill weekend](https://www.theverge.com/2024/11/10/24291418/stardew-valley-mario-luigi-brothership-heretic-installer)
- - [Spotify’s AI is no match for a real DJ](https://www.theverge.com/24290914/spotify-ai-dj-radio-kexp)<!-- TECH:END -->
+ - [Boost Mobile has evolved beyond its MVNO roots, declares its own 5G network is ready to compete](https://www.androidauthority.com/boost-mobile-5g-3498200/)
+ - [Big Sneaker Brands Promised a 3D-Printed Revolution. These Are the Disrupters Making It Happen](https://www.wired.com/story/big-sneaker-brands-promised-a-3d-printed-revolution-these-are-the-disrupters-making-it-happen/)
+ - [Apple Watch Ultra 2 one-year review: Even better than at launch](https://appleinsider.com/articles/24/11/11/apple-watch-ultra-2-one-year-review-even-better-than-at-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
