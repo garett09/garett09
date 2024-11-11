@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Europa is chill — its story isn’t](https://www.polygon.com/review/475583/europa-review)
- - [What time does FFXIV maintenance end and patch 7.1 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/476325/patch-7-1-maintenance-end-time)
- - [Today&#39;s Wordle answer for Sunday, November 10](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-10-2024)<!-- GAME:END -->
+ - [The Mass Effect Trilogy Squadmates, Ranked From Worst To Best](https://kotaku.com/mass-effect-best-character-squadmates-garrus-liara-tali-1851693416)
+ - [&#39;We are dirt cheap&#39;: Arcane&#39;s showrunners say the &#39;most expensive&#39; animated series ever produced isn&#39;t that expensive, if you think about it](https://www.pcgamer.com/movies-tv/we-are-dirt-cheap-arcanes-showrunners-say-the-most-expensive-animated-series-ever-produced-isnt-that-expensive-if-you-think-about-it)
+ - [Intel admits the Arrow Lake launch missed the mark and promises performance fixes by December, but my testing suggests you shouldn&#39;t get your hopes up](https://www.pcgamer.com/hardware/processors/intel-admits-the-arrow-lake-launch-missed-the-mark-and-promises-performance-fixes-by-december-but-my-testing-suggests-you-shouldnt-get-your-hopes-up)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
