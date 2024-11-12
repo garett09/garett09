@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [California Man Uses RPG To Scare Off Home Invaders](http://9gag.com/gag/aE0P8d9)
- - 🚯 [P.O.V you and your Japanese girlfriend but you don\u2019t know what you did](http://9gag.com/gag/ajP9mrw)
- - 🚯 [Mike Tyson runs into a man he robbed as a teenager.](http://9gag.com/gag/ae9DDVq)<!-- MEMES:END -->
+ - 🚖 [Johnny Somali faces up to 7 years in jail in South Korea for using AI to create a deepfake video showing a Korean woman as his girlfriend. With additional charges, he could face a combined 17 years and is currently banned from leaving South Korea.](http://9gag.com/gag/awyBZ01)
+ - 🚯 [NoNoNoYes You Got It](http://9gag.com/gag/aRB7rVG)
+ - 🚯 [Pure talent](http://9gag.com/gag/abAGgZL)<!-- MEMES:END -->
 
 --- 
 
