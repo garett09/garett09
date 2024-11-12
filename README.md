@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mass Effect Trilogy Squadmates, Ranked From Worst To Best](https://kotaku.com/mass-effect-best-character-squadmates-garrus-liara-tali-1851693416)
- - [&#39;We are dirt cheap&#39;: Arcane&#39;s showrunners say the &#39;most expensive&#39; animated series ever produced isn&#39;t that expensive, if you think about it](https://www.pcgamer.com/movies-tv/we-are-dirt-cheap-arcanes-showrunners-say-the-most-expensive-animated-series-ever-produced-isnt-that-expensive-if-you-think-about-it)
- - [Intel admits the Arrow Lake launch missed the mark and promises performance fixes by December, but my testing suggests you shouldn&#39;t get your hopes up](https://www.pcgamer.com/hardware/processors/intel-admits-the-arrow-lake-launch-missed-the-mark-and-promises-performance-fixes-by-december-but-my-testing-suggests-you-shouldnt-get-your-hopes-up)<!-- GAME:END -->
+ - [Maker crafts adorable 3D-printed Mac mini enclosure to fix one of Apple&#39;s most egregious design choices: that damned power button](https://www.pcgamer.com/hardware/3D-printed-case-makes-Mac-mini-power-button-way-more-accessible)
+ - [Square Enix apologises for messing up hairstyle competition winner&#39;s submission in Final Fantasy 14 &#39;due to limitations such as the polygon count&#39;](https://www.pcgamer.com/games/final-fantasy/square-enix-apologises-for-messing-up-hairstyle-competition-winners-submission-in-final-fantasy-14-due-to-limitations-such-as-the-polygon-count)
+ - [The Nvidia App has finally launched out of beta and if you really hate remembering your login for GeForce Experience you should try it](https://www.pcgamer.com/hardware/the-nvidia-app-has-finally-launched)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
