@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boost Mobile has evolved beyond its MVNO roots, declares its own 5G network is ready to compete](https://www.androidauthority.com/boost-mobile-5g-3498200/)
- - [Big Sneaker Brands Promised a 3D-Printed Revolution. These Are the Disrupters Making It Happen](https://www.wired.com/story/big-sneaker-brands-promised-a-3d-printed-revolution-these-are-the-disrupters-making-it-happen/)
- - [Apple Watch Ultra 2 one-year review: Even better than at launch](https://appleinsider.com/articles/24/11/11/apple-watch-ultra-2-one-year-review-even-better-than-at-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Can you tell which of these images are AI generated?](https://www.androidauthority.com/ai-images-test-3498296/)
+ - [The EU notifies Apple of &quot;potentially prohibited geo-blocking practices&quot; on the App Store and other apps, and says it must align with EU anti-geo-blocking rules &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241112/p12#a241112p12)
+ - [North Korean hackers use infected crypto apps to target Macs](https://appleinsider.com/articles/24/11/12/north-korean-hackers-use-infected-crypto-apps-to-target-mac-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
