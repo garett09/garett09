@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Johnny Somali faces up to 7 years in jail in South Korea for using AI to create a deepfake video showing a Korean woman as his girlfriend. With additional charges, he could face a combined 17 years and is currently banned from leaving South Korea.](http://9gag.com/gag/awyBZ01)
- - 🚯 [NoNoNoYes You Got It](http://9gag.com/gag/aRB7rVG)
- - 🚯 [Pure talent](http://9gag.com/gag/abAGgZL)<!-- MEMES:END -->
+ - 🚖 [This will be a fun toy to own](http://9gag.com/gag/a6ZK1vm)
+ - 🚯 [Its Time To Get Laid](http://9gag.com/gag/a9ynqmm)
+ - 🚯 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)<!-- MEMES:END -->
 
 --- 
 
