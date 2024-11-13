@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can you tell which of these images are AI generated?](https://www.androidauthority.com/ai-images-test-3498296/)
- - [The EU notifies Apple of &quot;potentially prohibited geo-blocking practices&quot; on the App Store and other apps, and says it must align with EU anti-geo-blocking rules &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/241112/p12#a241112p12)
- - [North Korean hackers use infected crypto apps to target Macs](https://appleinsider.com/articles/24/11/12/north-korean-hackers-use-infected-crypto-apps-to-target-mac-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Prime Video could soon get this coveted YouTube TV feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/amazon-prime-video-multiview-apk-teardown-3499139/)
+ - [How gambling apps are ravaging Brazil in the wake of legalization; Nubank reassured investors in September 2024 that it had limited exposure to troubled bettors &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p24#a241113p24)
+ - [The Polestar 3 with rear-wheel drive and 350 miles of range will start at $68,900](https://www.theverge.com/2024/11/13/24295069/polestar-3-rwd-price-range-tax-credit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
