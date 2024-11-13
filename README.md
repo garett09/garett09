@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Maker crafts adorable 3D-printed Mac mini enclosure to fix one of Apple&#39;s most egregious design choices: that damned power button](https://www.pcgamer.com/hardware/3D-printed-case-makes-Mac-mini-power-button-way-more-accessible)
- - [Square Enix apologises for messing up hairstyle competition winner&#39;s submission in Final Fantasy 14 &#39;due to limitations such as the polygon count&#39;](https://www.pcgamer.com/games/final-fantasy/square-enix-apologises-for-messing-up-hairstyle-competition-winners-submission-in-final-fantasy-14-due-to-limitations-such-as-the-polygon-count)
- - [The Nvidia App has finally launched out of beta and if you really hate remembering your login for GeForce Experience you should try it](https://www.pcgamer.com/hardware/the-nvidia-app-has-finally-launched)<!-- GAME:END -->
+ - [Secret Level&#39;s producer can&#39;t fathom why Concord ended up failing: &#39;There was no nicer, more invested group of developers than the team on Concord&#39;](https://www.pcgamer.com/games/fps/secret-levels-producer-cant-fathom-why-concord-ended-up-failing-there-was-no-nicer-more-invested-group-of-developers-than-the-team-on-concord)
+ - [Everholm, a &#39;cosy&#39; farming game where not all is as it seems, is out now](https://www.pcgamer.com/games/everholm-a-cosy-farming-game-where-not-all-is-as-it-seems-is-out-now)
+ - [Dragon Age: The Veilguard&#39;s leap forward in trans inclusion comes from a heartfelt place, but its problems left me feeling frustrated, angry, and tired](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-leap-forward-in-trans-inclusion-comes-from-a-heartfelt-place-but-its-problems-left-me-feeling-frustrated-angry-and-tired)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
