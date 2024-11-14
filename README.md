@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Video could soon get this coveted YouTube TV feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/amazon-prime-video-multiview-apk-teardown-3499139/)
- - [How gambling apps are ravaging Brazil in the wake of legalization; Nubank reassured investors in September 2024 that it had limited exposure to troubled bettors &lpar;Bloomberg&rpar;](http://www.techmeme.com/241113/p24#a241113p24)
- - [The Polestar 3 with rear-wheel drive and 350 miles of range will start at $68,900](https://www.theverge.com/2024/11/13/24295069/polestar-3-rwd-price-range-tax-credit)<!-- TECH:END -->
+ - [Snap unveils new Snapchat location and privacy tools, including letting parents request their teen&#39;s location and view their location-sharing settings &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/241114/p23#a241114p23)
+ - [OWC Envoy Ultra Thunderbolt 5 SSD offers fast 6GB/s data transfers](https://appleinsider.com/articles/24/11/14/owc-envoy-ultra-thunderbolt-5-ssd-offers-fast-6gbs-data-transfers?utm_medium=rss)
+ - [Microsoft releases Windows 11 ISOs for Arm64 PCs, letting users clean install Windows via official offline media, including the latest Snapdragon X Copilot+ PCs &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/241114/p22#a241114p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
