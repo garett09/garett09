@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Secret Level&#39;s producer can&#39;t fathom why Concord ended up failing: &#39;There was no nicer, more invested group of developers than the team on Concord&#39;](https://www.pcgamer.com/games/fps/secret-levels-producer-cant-fathom-why-concord-ended-up-failing-there-was-no-nicer-more-invested-group-of-developers-than-the-team-on-concord)
- - [Everholm, a &#39;cosy&#39; farming game where not all is as it seems, is out now](https://www.pcgamer.com/games/everholm-a-cosy-farming-game-where-not-all-is-as-it-seems-is-out-now)
- - [Dragon Age: The Veilguard&#39;s leap forward in trans inclusion comes from a heartfelt place, but its problems left me feeling frustrated, angry, and tired](https://www.pcgamer.com/games/dragon-age/dragon-age-the-veilguards-leap-forward-in-trans-inclusion-comes-from-a-heartfelt-place-but-its-problems-left-me-feeling-frustrated-angry-and-tired)<!-- GAME:END -->
+ - [Nvidia&#39;s first Arm APU is said to offer Strix Halo and RTX 4070 mobile performance, with Alienware already onboard to create an all-Nvidia gaming laptop](https://www.pcgamer.com/hardware/processors/nvidias-first-arm-apu-is-said-to-offer-strix-halo-and-rtx-4070-mobile-performance-with-alienware-already-onboard-to-create-an-all-nvidia-gaming-laptop)
+ - [LEGO Horizon Adventures launches today with new trailer](https://blog.playstation.com/2024/11/14/lego-horizon-adventures-launches-today-with-new-trailer/)
+ - [The Dragon Quest 3 remake delivers classic RPG comfort food with an ‘HD-2D’ sheen](https://www.polygon.com/review/478796/dragon-quest-3-hd-2d-remake)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
