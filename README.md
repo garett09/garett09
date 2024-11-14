@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This will be a fun toy to own](http://9gag.com/gag/a6ZK1vm)
- - 🚯 [Its Time To Get Laid](http://9gag.com/gag/a9ynqmm)
- - 🚯 [CANADA what is happening to you?!!!](http://9gag.com/gag/aO87ep2)<!-- MEMES:END -->
+ - 🚖 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
+ - 🚯 [For the sake of Jake](http://9gag.com/gag/avyzWOd)
+ - 🚯 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
 
 --- 
 
