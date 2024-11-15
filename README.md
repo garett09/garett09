@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s first Arm APU is said to offer Strix Halo and RTX 4070 mobile performance, with Alienware already onboard to create an all-Nvidia gaming laptop](https://www.pcgamer.com/hardware/processors/nvidias-first-arm-apu-is-said-to-offer-strix-halo-and-rtx-4070-mobile-performance-with-alienware-already-onboard-to-create-an-all-nvidia-gaming-laptop)
- - [LEGO Horizon Adventures launches today with new trailer](https://blog.playstation.com/2024/11/14/lego-horizon-adventures-launches-today-with-new-trailer/)
- - [The Dragon Quest 3 remake delivers classic RPG comfort food with an ‘HD-2D’ sheen](https://www.polygon.com/review/478796/dragon-quest-3-hd-2d-remake)<!-- GAME:END -->
+ - [Why Dicey Dungeons is one of the hidden gems of PC Game Pass](https://www.pcgamer.com/games/roguelike/why-dicey-dungeons-is-one-of-the-hidden-gems-of-pc-game-pass)
+ - [Bear with Imperfections in The Thaumaturge, a Story-Rich RPG Coming to Xbox](https://news.xbox.com/en-us/2024/11/15/the-thaumaturge-demo-xbox/)
+ - [Corsair announces its PSUs &#39;fully support the highly-anticipated next generation of graphics cards&#39;, showing how close we might be to the RTX 50-series line](https://www.pcgamer.com/hardware/power-supplies/corsair-announces-its-psus-fully-support-the-highly-anticipated-next-generation-of-graphics-cards-showing-how-close-we-might-be-to-the-rtx-50-series-line)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
