@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pilot Forgets to Attach Tourist to Hang Glider.](http://9gag.com/gag/aO87ZxN)
- - 🚯 [For the sake of Jake](http://9gag.com/gag/avyzWOd)
- - 🚯 [My retirement plan so far](http://9gag.com/gag/aMVxnGP)<!-- MEMES:END -->
+ - 🚖 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
+ - 🚯 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
+ - 🚯 [Letter seal](http://9gag.com/gag/azxmKrb)<!-- MEMES:END -->
 
 --- 
 
