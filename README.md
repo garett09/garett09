@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: xAI raised $5B at a $45B valuation, almost double its valuation a few months ago; SpaceX prepares a tender offer that would value the company at $250B+ &lpar;Financial Times&rpar;](http://www.techmeme.com/241115/p11#a241115p11)
- - [The 7 Best Mattress Toppers We&#39;ve Slept On &lpar;2024&rpar;](https://www.wired.com/gallery/best-mattress-toppers/)
- - [Final Cut Pro, Apple Home Hub, and new Mac reviews on the AppleInsider Podcast](https://appleinsider.com/articles/24/11/15/final-cut-pro-apple-home-hub-and-new-mac-reviews-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [5 extremely handy apps that helped me while moving houses](https://www.androidauthority.com/apps-services-moving-houses-3498705/)
+ - [These Rats Learned to Drive—and They Love It](https://www.wired.com/story/these-rats-learned-to-drive-and-they-love-it/)
+ - [The Rise of the Golden Idol makes a great puzzle game even better](https://www.theverge.com/24295956/the-rise-of-the-golden-idol-review-pc-playstation-xbox-netflix-mobile)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
