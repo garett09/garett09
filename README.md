@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Them: The foods not that spicy. The food:](http://9gag.com/gag/a4P3AwQ)
- - 🚯 [Hey girl. Leave him alone](http://9gag.com/gag/aGydAp5)
- - 🚯 [Letter seal](http://9gag.com/gag/azxmKrb)<!-- MEMES:END -->
+ - 🚖 [Oleksii Novikov owns the World&#39;s Strongest Man record in the 18-Inch deadlift at 1,185 pounds](http://9gag.com/gag/a7oWNNm)
+ - 🚯 [Wow. The aerodynamic. Wow.](http://9gag.com/gag/aAyeMY9)
+ - 🚯 [Have a cup of coffee](http://9gag.com/gag/amovR96)<!-- MEMES:END -->
 
 --- 
 
