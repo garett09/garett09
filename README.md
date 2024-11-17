@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies to watch on Netflix this November](https://www.polygon.com/what-to-watch/476063/best-sci-fi-movies-watch-netflix-november-2024)
- - [A War Of A Madman&#39;s Making is a quietly brilliant, totally free political sim where you have to try to survive as a deranged dictator&#39;s henchman](https://www.pcgamer.com/games/visual-novel/a-war-of-a-madmans-making-is-a-quietly-brilliant-totally-free-political-sim-where-you-have-to-try-to-survive-as-a-deranged-dictators-henchman)
- - [From extensive lore-friendly research to diabolical wordplay: All the different ways we name our beloved videogame characters](https://www.pcgamer.com/games/from-extensive-lore-friendly-research-to-diabolical-wordplay-all-the-different-ways-we-name-our-beloved-videogame-characters)<!-- GAME:END -->
+ - [Pokémon TCG Pocket&amp;#8217;s true challenge lies in multi-lingual card collection](https://www.polygon.com/pokemon/477707/tcg-pocket-alternate-language-cards)
+ - [Today&#39;s Wordle answer for Sunday, November 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-17-2024)
+ - [Space Marine 2&#39;s latest patch adds a death ray laser pointer](https://www.pcgamer.com/games/action/space-marine-2s-latest-patch-adds-a-death-ray-laser-pointer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
