@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oleksii Novikov owns the World&#39;s Strongest Man record in the 18-Inch deadlift at 1,185 pounds](http://9gag.com/gag/a7oWNNm)
- - 🚯 [Wow. The aerodynamic. Wow.](http://9gag.com/gag/aAyeMY9)
- - 🚯 [Have a cup of coffee](http://9gag.com/gag/amovR96)<!-- MEMES:END -->
+ - 🚖 [The marriage is over](http://9gag.com/gag/amovp3o)
+ - 🚯 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
+ - 🚯 [Cardboard houses mentality...](http://9gag.com/gag/aoyPdqe)<!-- MEMES:END -->
 
 --- 
 
