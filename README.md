@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 extremely handy apps that helped me while moving houses](https://www.androidauthority.com/apps-services-moving-houses-3498705/)
- - [These Rats Learned to Drive—and They Love It](https://www.wired.com/story/these-rats-learned-to-drive-and-they-love-it/)
- - [The Rise of the Golden Idol makes a great puzzle game even better](https://www.theverge.com/24295956/the-rise-of-the-golden-idol-review-pc-playstation-xbox-netflix-mobile)<!-- TECH:END -->
+ - [Windows Phone Link should learn a lesson or two from Apple’s iPhone mirroring](https://www.androidauthority.com/iphone-mirroring-vs-phone-link-3464907/)
+ - [Everything You Can Try if You Can’t Hear Dialog in Movies and Shows](https://www.wired.com/story/how-to-boost-spoken-dialogue-in-movies-and-shows/)
+ - [How to Set Up ExpressVPN on a Router So All Your Devices Are Secured at Once](https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
