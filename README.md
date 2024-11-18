@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The marriage is over](http://9gag.com/gag/amovp3o)
- - 🚯 [Still happening in 2024 for some?](http://9gag.com/gag/aYQyR00)
- - 🚯 [Cardboard houses mentality...](http://9gag.com/gag/aoyPdqe)<!-- MEMES:END -->
+ - 🚖 [There&#39;s been a slight miscalculation](http://9gag.com/gag/ayNeZPb)
+ - 🚯 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
+ - 🚯 [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)<!-- MEMES:END -->
 
 --- 
 
