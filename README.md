@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Pocket&amp;#8217;s true challenge lies in multi-lingual card collection](https://www.polygon.com/pokemon/477707/tcg-pocket-alternate-language-cards)
- - [Today&#39;s Wordle answer for Sunday, November 17](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-17-2024)
- - [Space Marine 2&#39;s latest patch adds a death ray laser pointer](https://www.pcgamer.com/games/action/space-marine-2s-latest-patch-adds-a-death-ray-laser-pointer)<!-- GAME:END -->
+ - [Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/18/celebrating-the-lego-horizon-adventures-launch-with-a-brand-new-lego-set/)
+ - [Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/18/celebrating-the-lego-horizon-adventures-launch-with-a-brand-new-lego-set/)
+ - [The 2024 Video Game Companion Hall of Fame](https://www.polygon.com/gaming/476306/best-video-game-rpg-companions-hall-of-fame)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
