@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows Phone Link should learn a lesson or two from Apple’s iPhone mirroring](https://www.androidauthority.com/iphone-mirroring-vs-phone-link-3464907/)
- - [Everything You Can Try if You Can’t Hear Dialog in Movies and Shows](https://www.wired.com/story/how-to-boost-spoken-dialogue-in-movies-and-shows/)
- - [How to Set Up ExpressVPN on a Router So All Your Devices Are Secured at Once](https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/)<!-- TECH:END -->
+ - [Bug stops M4 Macs from virtualizing older macOS versions](https://appleinsider.com/articles/24/11/18/bug-stops-m4-macs-from-virtualizing-older-macos-versions?utm_medium=rss)
+ - [Tanner Leatherstein&#39;s Viral Mission to Save You From Bad Luxury Bags](https://www.wired.com/story/tanner-leathersteins-viral-mission-to-save-you-from-bad-luxury-bags/)
+ - [PitchBook: in 2023, US VCs returned $26B worth of shares back to investors, the lowest amount since 2011, and invested $60B more than they collected, a record &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p11#a241118p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
