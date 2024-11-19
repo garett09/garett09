@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/18/celebrating-the-lego-horizon-adventures-launch-with-a-brand-new-lego-set/)
- - [Celebrating the LEGO Horizon Adventures launch with a brand-new LEGO set](https://blog.playstation.com/2024/11/18/celebrating-the-lego-horizon-adventures-launch-with-a-brand-new-lego-set/)
- - [The 2024 Video Game Companion Hall of Fame](https://www.polygon.com/gaming/476306/best-video-game-rpg-companions-hall-of-fame)<!-- GAME:END -->
+ - [Under the surface of Arco’s pixel RPG action, a breathtaking revenge saga](https://www.polygon.com/gaming/475119/arco-review)
+ - [Trash man rescues surprisingly decent gaming rig from landfill—and it even powers on](https://www.pcgamer.com/hardware/one-mans-trash-is-anothers-still-pretty-decent-gaming-rig)
+ - [Sony is in talks to buy FromSoftware’s parent company](https://www.polygon.com/news/481294/sony-fromsoftware-kadokawa-acquisition-talks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
