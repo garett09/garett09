@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#39;s been a slight miscalculation](http://9gag.com/gag/ayNeZPb)
- - 🚯 [Guy posts about being ugly, girl calls him cute; now they&#39;re married and expecting a baby.](http://9gag.com/gag/azxmBvm)
- - 🚯 [A Big Beautiful Wall](http://9gag.com/gag/a4P3mry)<!-- MEMES:END -->
+ - 🚖 [Hey my new GPU!!](http://9gag.com/gag/aD24qyK)
+ - 🚯 [Arcane is a secret anti-woke propaganda](http://9gag.com/gag/aMVx63W)
+ - 🚯 [Mike Tyson&#39;s last visit to Mohammad Ali before the later&lpar;the Champ&rpar; died.](http://9gag.com/gag/avyzVRd)<!-- MEMES:END -->
 
 --- 
 
