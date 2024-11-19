@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bug stops M4 Macs from virtualizing older macOS versions](https://appleinsider.com/articles/24/11/18/bug-stops-m4-macs-from-virtualizing-older-macos-versions?utm_medium=rss)
- - [Tanner Leatherstein&#39;s Viral Mission to Save You From Bad Luxury Bags](https://www.wired.com/story/tanner-leathersteins-viral-mission-to-save-you-from-bad-luxury-bags/)
- - [PitchBook: in 2023, US VCs returned $26B worth of shares back to investors, the lowest amount since 2011, and invested $60B more than they collected, a record &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/241118/p11#a241118p11)<!-- TECH:END -->
+ - [5 Best Travel Mugs &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-mugs/)
+ - [The Norwegian Company Blamed for California&#39;s Hydrogen Car Woes](https://www.wired.com/story/the-norwegian-company-blamed-for-californias-hydrogen-car-woes/)
+ - [Instagram will let you rebuild your recommendations from scratch](https://www.theverge.com/2024/11/19/24300458/instagram-reset-content-recommendations-from-scratch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
