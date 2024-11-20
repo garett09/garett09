@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Travel Mugs &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-mugs/)
- - [The Norwegian Company Blamed for California&#39;s Hydrogen Car Woes](https://www.wired.com/story/the-norwegian-company-blamed-for-californias-hydrogen-car-woes/)
- - [Instagram will let you rebuild your recommendations from scratch](https://www.theverge.com/2024/11/19/24300458/instagram-reset-content-recommendations-from-scratch)<!-- TECH:END -->
+ - [Belgium-based Odoo, which develops open-source enterprise resource planning software, hit a &amp;euro;5B valuation in a secondary share round led by CapitalG and Sequoia &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241120/p19#a241120p19)
+ - [The Best Cooling Sheets for Hot Sleepers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-cooling-sheets/)
+ - [Samsung Galaxy Watch FE review: identical to the Watch 7 with similar health features, but has the guts of a three-year-old Watch 4, poor battery, and one size &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241120/p18#a241120p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
