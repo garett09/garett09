@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Under the surface of Arco’s pixel RPG action, a breathtaking revenge saga](https://www.polygon.com/gaming/475119/arco-review)
- - [Trash man rescues surprisingly decent gaming rig from landfill—and it even powers on](https://www.pcgamer.com/hardware/one-mans-trash-is-anothers-still-pretty-decent-gaming-rig)
- - [Sony is in talks to buy FromSoftware’s parent company](https://www.polygon.com/news/481294/sony-fromsoftware-kadokawa-acquisition-talks)<!-- GAME:END -->
+ - [PlayStation’s Black Friday Deals 2024](https://blog.playstation.com/2024/11/20/playstations-black-friday-deals-2024/)
+ - [War Robots: Frontiers Is Now Available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2024/11/20/war-robots-frontiers-is-now-available-in-preview-for-xbox-insiders/)
+ - [Five things I want you to think about before you buy your first gaming laptop](https://www.pcgamer.com/hardware/gaming-laptops/five-things-i-want-you-to-think-about-before-you-buy-your-first-gaming-laptop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
