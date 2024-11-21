@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belgium-based Odoo, which develops open-source enterprise resource planning software, hit a &amp;euro;5B valuation in a secondary share round led by CapitalG and Sequoia &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241120/p19#a241120p19)
- - [The Best Cooling Sheets for Hot Sleepers, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-cooling-sheets/)
- - [Samsung Galaxy Watch FE review: identical to the Watch 7 with similar health features, but has the guts of a three-year-old Watch 4, poor battery, and one size &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/241120/p18#a241120p18)<!-- TECH:END -->
+ - [How Satya Nadella transformed Microsoft as it enters its 50th year, including by changing its toxic culture, embracing open source, and making the OpenAI deal &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/241121/p16#a241121p16)
+ - [9 Best Cooling Mattresses &lpar;2024&rpar;: Hybrid, Soft, Foam](https://www.wired.com/gallery/best-cooling-mattresses/)
+ - [How XProtect protects you from viruses on macOS](https://appleinsider.com/inside/macos/tips/how-xprotect-protects-you-from-viruses-on-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
