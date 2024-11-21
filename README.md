@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation’s Black Friday Deals 2024](https://blog.playstation.com/2024/11/20/playstations-black-friday-deals-2024/)
- - [War Robots: Frontiers Is Now Available in Preview for Xbox Insiders!](https://news.xbox.com/en-us/2024/11/20/war-robots-frontiers-is-now-available-in-preview-for-xbox-insiders/)
- - [Five things I want you to think about before you buy your first gaming laptop](https://www.pcgamer.com/hardware/gaming-laptops/five-things-i-want-you-to-think-about-before-you-buy-your-first-gaming-laptop)<!-- GAME:END -->
+ - [Nanoleaf 4D Screen Mirror Kit review](https://www.pcgamer.com/hardware/lighting/nanoleaf-4d-screen-mirror-kit-review)
+ - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)
+ - [How to repair weapons in Stalker 2](https://www.pcgamer.com/games/fps/stalker-2-repair-weapons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
