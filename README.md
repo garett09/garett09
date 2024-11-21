@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wholesome posts I saved #2](http://9gag.com/gag/ajP933x)
- - 🚯 [The worst she can say is no](http://9gag.com/gag/a9ynwDj)
- - 🚯 [Who else knows this gem from the good old days?](http://9gag.com/gag/apRGMnM)<!-- MEMES:END -->
+ - 🚖 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
+ - 🚯 [For all the parents with little kids:](http://9gag.com/gag/a34w65m)
+ - 🚯 [A noble sacrifice](http://9gag.com/gag/azxmWrz)<!-- MEMES:END -->
 
 --- 
 
