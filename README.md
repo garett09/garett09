@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 🚯 [For all the parents with little kids:](http://9gag.com/gag/a34w65m)
- - 🚯 [A noble sacrifice](http://9gag.com/gag/azxmWrz)<!-- MEMES:END -->
+ - 🚯 [Google it](http://9gag.com/gag/aMVxg1W)
+ - 🚯 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
 
 --- 
 
