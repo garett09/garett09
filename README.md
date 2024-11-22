@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Satya Nadella transformed Microsoft as it enters its 50th year, including by changing its toxic culture, embracing open source, and making the OpenAI deal &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/241121/p16#a241121p16)
- - [9 Best Cooling Mattresses &lpar;2024&rpar;: Hybrid, Soft, Foam](https://www.wired.com/gallery/best-cooling-mattresses/)
- - [How XProtect protects you from viruses on macOS](https://appleinsider.com/inside/macos/tips/how-xprotect-protects-you-from-viruses-on-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Narwal’s huge Black Friday discounts make it the best time to buy a robot vacuum](https://www.androidauthority.com/narwals-black-friday-2025-discounts-3502037/)
+ - [17 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
+ - [Russian Spies Jumped From One Network to Another Via Wi-Fi in an Unprecedented Hack](https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
