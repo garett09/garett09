@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nanoleaf 4D Screen Mirror Kit review](https://www.pcgamer.com/hardware/lighting/nanoleaf-4d-screen-mirror-kit-review)
- - [The best early gaming deals of Black Friday](https://www.polygon.com/black-friday/475293/best-early-gaming-deals)
- - [How to repair weapons in Stalker 2](https://www.pcgamer.com/games/fps/stalker-2-repair-weapons)<!-- GAME:END -->
+ - [Fields of Mistria’s days are still short, but its first major update helps](https://www.polygon.com/impressions/483227/fields-of-mistria-big-update-animal-riding)
+ - [Telecoms hack on US government officials is &#39;worst in nations history&#39; and &#39;the barn door is still wide open&#39; says senator](https://www.pcgamer.com/software/security/telecoms-hack-on-us-government-officials-is-worst-in-nations-history-and-the-barn-door-is-still-wide-open-says-senator)
+ - [Gacha games are bigger than ever before—here are the best you can play right now](https://www.pcgamer.com/games/best-gacha-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
