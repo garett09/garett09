@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Narwal’s huge Black Friday discounts make it the best time to buy a robot vacuum](https://www.androidauthority.com/narwals-black-friday-2025-discounts-3502037/)
- - [17 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
- - [Russian Spies Jumped From One Network to Another Via Wi-Fi in an Unprecedented Hack](https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/)<!-- TECH:END -->
+ - [Twitter’s heir apparent isn’t X or Threads — it’s Bluesky](https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x)
+ - [You’re Packing Your Carry-On All Wrong. Here’s How to Do It Right](https://www.wired.com/story/how-to-pack-a-carry-on-travel-tips/)
+ - [The Best Portable iPhone Charger I&#39;ve Ever Owned Is Now Just $30 for Black Friday](https://www.cnet.com/deals/the-best-portable-iphone-charger-ive-ever-owned-is-now-just-30-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
