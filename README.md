@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This was the day he realized his *friends* were living a different life than he wanted for himself](http://9gag.com/gag/a4P3v9y)
- - 🚯 [Google it](http://9gag.com/gag/aMVxg1W)
- - 🚯 [Prank](http://9gag.com/gag/a9yn93m)<!-- MEMES:END -->
+ - 🚖 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
+ - 🚯 [Just hanging..](http://9gag.com/gag/ayNeOmb)
+ - 🚯 [Fatherly advice](http://9gag.com/gag/amovjKd)<!-- MEMES:END -->
 
 --- 
 
