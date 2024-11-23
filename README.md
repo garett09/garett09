@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fields of Mistria’s days are still short, but its first major update helps](https://www.polygon.com/impressions/483227/fields-of-mistria-big-update-animal-riding)
- - [Telecoms hack on US government officials is &#39;worst in nations history&#39; and &#39;the barn door is still wide open&#39; says senator](https://www.pcgamer.com/software/security/telecoms-hack-on-us-government-officials-is-worst-in-nations-history-and-the-barn-door-is-still-wide-open-says-senator)
- - [Gacha games are bigger than ever before—here are the best you can play right now](https://www.pcgamer.com/games/best-gacha-games)<!-- GAME:END -->
+ - [How to get Toxel and evolution Toxtricity in Pokémon Go](https://www.polygon.com/pokemon-go-guide/480875/toxel-toxtricity-evolution-how-to-get)
+ - [The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of November 2024](https://www.polygon.com/what-to-watch/482968/best-movies-netflix-amazon-criterion-leaving-november-2024)
+ - [Hexcraft: Harlequin Fair is a small, bizarre mix of Deus Ex&#39;s gameplay, Bloodlines&#39; vibe, and Morrowind&#39;s stats, and if that doesn&#39;t make you sit bolt upright we&#39;re very different people](https://www.pcgamer.com/games/rpg/hexcraft-harlequin-fair-is-a-small-bizarre-mix-of-deus-exs-gameplay-bloodlines-vibe-and-morrowinds-stats-and-if-that-doesnt-make-you-sit-bolt-upright-were-very-different-people)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
