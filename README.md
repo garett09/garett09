@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s heir apparent isn’t X or Threads — it’s Bluesky](https://www.theverge.com/2024/11/23/24303502/bluesky-next-twitter-threads-x)
- - [You’re Packing Your Carry-On All Wrong. Here’s How to Do It Right](https://www.wired.com/story/how-to-pack-a-carry-on-travel-tips/)
- - [The Best Portable iPhone Charger I&#39;ve Ever Owned Is Now Just $30 for Black Friday](https://www.cnet.com/deals/the-best-portable-iphone-charger-ive-ever-owned-is-now-just-30-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Profiles of Teresa Ribera, Henna Virkkunen, and Ekaterina Zaharieva, the three incoming EU commissioners in charge of key tech policy areas into 2029 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241124/p7#a241124p7)
+ - [Two new tech documentaries you really need to see](https://www.theverge.com/2024/11/24/24303359/surveilled-buy-now-documentaries-tech-dune-installer)
+ - [How to Remote Play PS5 While Away for the Holidays](https://www.cnet.com/tech/gaming/how-to-remote-play-ps5-while-away-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
