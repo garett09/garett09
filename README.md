@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s how money laundering works.](http://9gag.com/gag/abAV32L)
- - 🚯 [Just hanging..](http://9gag.com/gag/ayNeOmb)
- - 🚯 [Fatherly advice](http://9gag.com/gag/amovjKd)<!-- MEMES:END -->
+ - 🚖 [What was she thinking?](http://9gag.com/gag/a9yEMz6)
+ - 🚯 [Girl photographed her grandparents waving goodbye to her every year after the Holidays](http://9gag.com/gag/aW4jQ6A)
+ - 🚯 [What is a turnaround?](http://9gag.com/gag/a9yEMvZ)<!-- MEMES:END -->
 
 --- 
 
