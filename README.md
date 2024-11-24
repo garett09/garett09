@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Toxel and evolution Toxtricity in Pokémon Go](https://www.polygon.com/pokemon-go-guide/480875/toxel-toxtricity-evolution-how-to-get)
- - [The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of November 2024](https://www.polygon.com/what-to-watch/482968/best-movies-netflix-amazon-criterion-leaving-november-2024)
- - [Hexcraft: Harlequin Fair is a small, bizarre mix of Deus Ex&#39;s gameplay, Bloodlines&#39; vibe, and Morrowind&#39;s stats, and if that doesn&#39;t make you sit bolt upright we&#39;re very different people](https://www.pcgamer.com/games/rpg/hexcraft-harlequin-fair-is-a-small-bizarre-mix-of-deus-exs-gameplay-bloodlines-vibe-and-morrowinds-stats-and-if-that-doesnt-make-you-sit-bolt-upright-were-very-different-people)<!-- GAME:END -->
+ - [Songs of Silence is a gorgeous 4X game for people who don&#39;t have time for 4X games](https://www.pcgamer.com/games/strategy/songs-of-silence-is-a-gorgeous-4x-game-for-people-who-dont-have-time-for-4x-games)
+ - [Pokémon Go Wild Area day 2 schedule, habitat spawns, and ticket bonuses](https://www.polygon.com/pokemon-go-guide/482871/wild-area-global-habitat-spawns-event-bonuses-start-time)
+ - [Nintendo’s biggest ever Black Friday deals are here, knocking $75 off consoles](https://www.polygon.com/black-friday/483613/nintendo-switch-deal-pro-controller)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
