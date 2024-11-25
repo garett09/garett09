@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profiles of Teresa Ribera, Henna Virkkunen, and Ekaterina Zaharieva, the three incoming EU commissioners in charge of key tech policy areas into 2029 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241124/p7#a241124p7)
- - [Two new tech documentaries you really need to see](https://www.theverge.com/2024/11/24/24303359/surveilled-buy-now-documentaries-tech-dune-installer)
- - [How to Remote Play PS5 While Away for the Holidays](https://www.cnet.com/tech/gaming/how-to-remote-play-ps5-while-away-for-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M4 Mac minis in a computing cluster is an incredibly cool project, but not hugely effective](https://appleinsider.com/articles/24/11/25/m4-mac-minis-in-a-computing-cluster-is-an-incredibly-cool-project-but-not-hugely-effective?utm_medium=rss)
+ - [5 Best Personal Safety Alarms &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-personal-safety-alarms-and-gadgets-for-every-situation/)
+ - [Motorola Moto G 5G 2025 renders give us hope for a better budget phone](https://www.androidauthority.com/motorola-moto-g-5g-2025-renders-3502806/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
