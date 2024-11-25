@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What was she thinking?](http://9gag.com/gag/a9yEMz6)
- - 🚯 [Girl photographed her grandparents waving goodbye to her every year after the Holidays](http://9gag.com/gag/aW4jQ6A)
- - 🚯 [What is a turnaround?](http://9gag.com/gag/a9yEMvZ)<!-- MEMES:END -->
+ - 🚖 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
+ - 🚯 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
+ - 🚯 [A romantic interlude.](http://9gag.com/gag/a4PEL01)<!-- MEMES:END -->
 
 --- 
 
