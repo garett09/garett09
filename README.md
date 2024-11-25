@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Songs of Silence is a gorgeous 4X game for people who don&#39;t have time for 4X games](https://www.pcgamer.com/games/strategy/songs-of-silence-is-a-gorgeous-4x-game-for-people-who-dont-have-time-for-4x-games)
- - [Pokémon Go Wild Area day 2 schedule, habitat spawns, and ticket bonuses](https://www.polygon.com/pokemon-go-guide/482871/wild-area-global-habitat-spawns-event-bonuses-start-time)
- - [Nintendo’s biggest ever Black Friday deals are here, knocking $75 off consoles](https://www.polygon.com/black-friday/483613/nintendo-switch-deal-pro-controller)<!-- GAME:END -->
+ - [Rumors Are Flying Of A Possible PlayStation 5 Portable](https://kotaku.com/ps5-portable-sony-playstation-handheld-switch-2-1851707119)
+ - [Today&#39;s Wordle answer for Monday, November 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-25-2024)
+ - [All the Dune: Prophecy houses and characters you need to know](https://www.polygon.com/tv/479937/dune-prophecy-houses-emperor-corrino-atreides-harkonnen-hart)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
