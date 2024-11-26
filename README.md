@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rumors Are Flying Of A Possible PlayStation 5 Portable](https://kotaku.com/ps5-portable-sony-playstation-handheld-switch-2-1851707119)
- - [Today&#39;s Wordle answer for Monday, November 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-25-2024)
- - [All the Dune: Prophecy houses and characters you need to know](https://www.polygon.com/tv/479937/dune-prophecy-houses-emperor-corrino-atreides-harkonnen-hart)<!-- GAME:END -->
+ - [&#39;I can show this film to my parents, and they will understand better&#39;: Director of touching WoW documentary The Remarkable Life of Ibelin reflects on the importance of online communities as sanctuaries](https://www.pcgamer.com/games/world-of-warcraft/i-can-show-this-film-to-my-parents-and-they-will-understand-better-director-of-touching-wow-documentary-the-remarkable-life-of-ibelin-reflects-on-the-importance-of-online-communities-as-sanctuaries)
+ - [Today&#39;s Wordle answer for Tuesday, November 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-26-2024)
+ - [Half-Life 2 testers horsing around with physics props &#39;to make the 47th playthrough of the game more interesting&#39; probably had no idea it would result in Gabe Newell launching a garden gnome into space 16 years later](https://www.pcgamer.com/games/fps/half-life-2-testers-horsing-around-with-physics-props-to-make-the-47th-playthrough-of-the-game-more-interesting-probably-had-no-idea-it-would-result-in-gabe-newell-launching-a-garden-gnome-into-space-16-years-later)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
