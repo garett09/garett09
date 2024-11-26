@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rush boys 5](http://9gag.com/gag/ae9A0Wj)
- - 🚯 [Bruise Lee.](http://9gag.com/gag/a9yEPZZ)
- - 🚯 [A romantic interlude.](http://9gag.com/gag/a4PEL01)<!-- MEMES:END -->
+ - 🚖 [Well it\u2019s really difficult](http://9gag.com/gag/aAybPRE)
+ - 🚯 [Hitting the jackpot twice but still managing to lose all](http://9gag.com/gag/aD2djNG)
+ - 🚯 [Bro chose the right person](http://9gag.com/gag/apRNLx8)<!-- MEMES:END -->
 
 --- 
 
