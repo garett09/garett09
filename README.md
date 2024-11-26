@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 Mac minis in a computing cluster is an incredibly cool project, but not hugely effective](https://appleinsider.com/articles/24/11/25/m4-mac-minis-in-a-computing-cluster-is-an-incredibly-cool-project-but-not-hugely-effective?utm_medium=rss)
- - [5 Best Personal Safety Alarms &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-personal-safety-alarms-and-gadgets-for-every-situation/)
- - [Motorola Moto G 5G 2025 renders give us hope for a better budget phone](https://www.androidauthority.com/motorola-moto-g-5g-2025-renders-3502806/)<!-- TECH:END -->
+ - [Get a Torras Ostand iPhone 16 case in all-new colors, now 15% off for Black Friday](https://appleinsider.com/articles/24/11/26/get-a-torras-ostand-iphone-16-case-in-all-new-colors-now-15-off-for-black-friday?utm_medium=rss)
+ - [What Is Generative AI? Everything to Know About the Tech Behind ChatGPT and Gemini](https://www.cnet.com/tech/services-and-software/what-is-generative-ai-everything-to-know-about-the-tech-behind-chatgpt-and-gemini/#ftag=CAD590a51e)
+ - [The Galaxy S25 May Be Samsung&#39;s Last. Why Smaller Phones Are Disappearing](https://www.cnet.com/tech/mobile/the-galaxy-s25-may-be-samsungs-last-why-smaller-phones-are-disappearing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
