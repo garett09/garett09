@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well it\u2019s really difficult](http://9gag.com/gag/aAybPRE)
- - 🚯 [Hitting the jackpot twice but still managing to lose all](http://9gag.com/gag/aD2djNG)
- - 🚯 [Bro chose the right person](http://9gag.com/gag/apRNLx8)<!-- MEMES:END -->
+ - 🚖 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
+ - 🚯 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)
+ - 🚯 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)<!-- MEMES:END -->
 
 --- 
 
