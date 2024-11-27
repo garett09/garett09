@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I can show this film to my parents, and they will understand better&#39;: Director of touching WoW documentary The Remarkable Life of Ibelin reflects on the importance of online communities as sanctuaries](https://www.pcgamer.com/games/world-of-warcraft/i-can-show-this-film-to-my-parents-and-they-will-understand-better-director-of-touching-wow-documentary-the-remarkable-life-of-ibelin-reflects-on-the-importance-of-online-communities-as-sanctuaries)
- - [Today&#39;s Wordle answer for Tuesday, November 26](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-26-2024)
- - [Half-Life 2 testers horsing around with physics props &#39;to make the 47th playthrough of the game more interesting&#39; probably had no idea it would result in Gabe Newell launching a garden gnome into space 16 years later](https://www.pcgamer.com/games/fps/half-life-2-testers-horsing-around-with-physics-props-to-make-the-47th-playthrough-of-the-game-more-interesting-probably-had-no-idea-it-would-result-in-gabe-newell-launching-a-garden-gnome-into-space-16-years-later)<!-- GAME:END -->
+ - [Disney’s Revival Era Animated Films, Ranked From Worst To Best](https://kotaku.com/disney-movies-best-worst-ranking-frozen-moana-tangled-1851708848)
+ - [If you loved Arcane, you should play Dishonored 2](https://www.polygon.com/what-to-play/485461/game-like-arcane-dishonored-2-league-of-legends-lol)
+ - [Shuhei Yoshida, the man behind the most savage gaming roast of all time, leaves PlayStation after 31 years: &#39;It&#39;s been a dream job&#39;](https://www.pcgamer.com/gaming-industry/shuhei-yoshida-the-man-behind-the-most-savage-gaming-roast-of-all-time-leaves-playstation-after-31-years-its-been-a-dream-job)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
