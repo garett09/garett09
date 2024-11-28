@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s Revival Era Animated Films, Ranked From Worst To Best](https://kotaku.com/disney-movies-best-worst-ranking-frozen-moana-tangled-1851708848)
- - [If you loved Arcane, you should play Dishonored 2](https://www.polygon.com/what-to-play/485461/game-like-arcane-dishonored-2-league-of-legends-lol)
- - [Shuhei Yoshida, the man behind the most savage gaming roast of all time, leaves PlayStation after 31 years: &#39;It&#39;s been a dream job&#39;](https://www.pcgamer.com/gaming-industry/shuhei-yoshida-the-man-behind-the-most-savage-gaming-roast-of-all-time-leaves-playstation-after-31-years-its-been-a-dream-job)<!-- GAME:END -->
+ - [3 League players respond to the end of Arcane](https://www.polygon.com/opinion/486306/arcane-league-legends-ending-reaction-lol-players-discussion)
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [How to change display name in Black Ops 6](https://www.polygon.com/black-ops-6-guides/481901/change-display-name-how-often)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
