@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This could be our first look at next year’s best mid-ranger in the US](https://www.androidauthority.com/oneplus-13r-leaked-renders-3503567/)
- - [A look at the UK&#39;s planned Digital Markets Unit, which will regulate US tech companies under the DMCC, passed in May 2024, and have the power to halt any M&amp;A &lpar;Ashley Rindsberg/Pirate Wires&rpar;](http://www.techmeme.com/241127/p15#a241127p15)
- - [Apple donating $5 per Apple Store purchase made with Apple Pay for World AIDS Day](https://appleinsider.com/articles/24/11/27/apple-donating-5-per-apple-store-purchase-made-with-apple-pay-for-world-aids-day?utm_medium=rss)<!-- TECH:END -->
+ - [The 19 Best Thanksgiving TV Episodes, Ranked](https://www.wired.com/story/best-thanksgiving-tv-episodes/)
+ - [Craft 3 is shockingly close to my ideal productivity app](https://www.theverge.com/2024/11/28/24307906/craft-3-notes-tasks-calendar-app-mac-iphone-windows)
+ - [Australia&#39;s Senate passes a social media ban for children under 16, brushing aside lawmaker concerns on both sides; tech companies could be fined up to A$50M &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/241128/p11#a241128p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
