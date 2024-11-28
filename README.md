@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wondering if this was one of those shit tests they make to have the guy fight for them](http://9gag.com/gag/amoPzZd)
- - 🚯 [This is what we call miscalculation.](http://9gag.com/gag/a4PEjWw)
- - 🚯 [Honestly, it\u2019s crazy how much they shave off](http://9gag.com/gag/apRNLBp)<!-- MEMES:END -->
+ - 🚖 [Its lit allright](http://9gag.com/gag/aXPojog)
+ - 🚯 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
+ - 🚯 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)<!-- MEMES:END -->
 
 --- 
 
