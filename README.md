@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 19 Best Thanksgiving TV Episodes, Ranked](https://www.wired.com/story/best-thanksgiving-tv-episodes/)
- - [Craft 3 is shockingly close to my ideal productivity app](https://www.theverge.com/2024/11/28/24307906/craft-3-notes-tasks-calendar-app-mac-iphone-windows)
- - [Australia&#39;s Senate passes a social media ban for children under 16, brushing aside lawmaker concerns on both sides; tech companies could be fined up to A$50M &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/241128/p11#a241128p11)<!-- TECH:END -->
+ - [15 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-1/)
+ - [For better or worse, realme’s first Snapdragon 8 Elite phone feels like a flagship killer](https://www.androidauthority.com/realme-gt7-pro-review-3496381/)
+ - [Huawei&#39;s New Phone Lets You Transfer Photos With Hand Gestures](https://www.cnet.com/tech/mobile/huawei-new-phone-lets-you-transfer-photos-with-hand-gestures/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
