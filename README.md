@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 League players respond to the end of Arcane](https://www.polygon.com/opinion/486306/arcane-league-legends-ending-reaction-lol-players-discussion)
- - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [How to change display name in Black Ops 6](https://www.polygon.com/black-ops-6-guides/481901/change-display-name-how-often)<!-- GAME:END -->
+ - [Bioware&#39;s exceptional Mass Effect Legendary Edition is going for a song, so bag 3 of the best action-RPGs ever made for a mere 4 dollars](https://www.pcgamer.com/games/mass-effect/biowares-exceptional-mass-effect-legendary-edition-is-going-for-a-song-so-bag-3-of-the-best-action-rpgs-ever-made-for-a-mere-4-dollars)
+ - [Final Fantasy 14 &#39;world first&#39; raiders busted immediately for cheating thanks to a single pixel in a screenshot, making it the 3rd scuffed Ultimate race in a row](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-world-first-raiders-busted-immediately-for-cheating-thanks-to-a-single-pixel-in-a-screenshot-making-it-the-3rd-scuffed-ultimate-race-in-a-row)
+ - [When does Fortnite live event ‘Remix: The Finale’ start?](https://www.polygon.com/fortnite-guide/485340/remix-the-finale-time-start-when)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
