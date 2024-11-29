@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its lit allright](http://9gag.com/gag/aXPojog)
- - 🚯 [Kindergarten teacher](http://9gag.com/gag/adB8KwB)
- - 🚯 [Women using the `man` filter &lpar;sound on&rpar;](http://9gag.com/gag/aXPoj2d)<!-- MEMES:END -->
+ - 🚖 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
+ - 🚯 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
+ - 🚯 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)<!-- MEMES:END -->
 
 --- 
 
