@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This encounter was meant.](http://9gag.com/gag/ae9ArLW)
- - 🚯 [When will your Thai girl\u2026](http://9gag.com/gag/azxM99b)
- - 🚯 [Whats up with these grape fantasies](http://9gag.com/gag/a7oE3Kr)<!-- MEMES:END -->
+ - 🚖 [Age is just a number](http://9gag.com/gag/aoyMgy0)
+ - 🚯 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
+ - 🚯 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)<!-- MEMES:END -->
 
 --- 
 
