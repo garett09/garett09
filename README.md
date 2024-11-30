@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Apple Black Friday Deals &lpar;2024&rpar;: MacBooks, iPads, AirPods](https://www.wired.com/story/apple-black-friday-deals-2024-1/)
- - [For better or worse, realme’s first Snapdragon 8 Elite phone feels like a flagship killer](https://www.androidauthority.com/realme-gt7-pro-review-3496381/)
- - [Huawei&#39;s New Phone Lets You Transfer Photos With Hand Gestures](https://www.cnet.com/tech/mobile/huawei-new-phone-lets-you-transfer-photos-with-hand-gestures/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Black Friday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
+ - [Stay Toasty This Winter by Finding Your Thermostat&#39;s Sweet Spot](https://www.cnet.com/home/energy-and-utilities/stay-toasty-this-winter-by-finding-your-thermostats-sweet-spot/#ftag=CAD590a51e)
+ - [Need a New iPhone or Android Phone? Consider These Factors Before You Buy](https://www.cnet.com/tech/mobile/need-a-new-iphone-or-android-phone-consider-these-things-before-you-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
