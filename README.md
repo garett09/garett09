@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bioware&#39;s exceptional Mass Effect Legendary Edition is going for a song, so bag 3 of the best action-RPGs ever made for a mere 4 dollars](https://www.pcgamer.com/games/mass-effect/biowares-exceptional-mass-effect-legendary-edition-is-going-for-a-song-so-bag-3-of-the-best-action-rpgs-ever-made-for-a-mere-4-dollars)
- - [Final Fantasy 14 &#39;world first&#39; raiders busted immediately for cheating thanks to a single pixel in a screenshot, making it the 3rd scuffed Ultimate race in a row](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-world-first-raiders-busted-immediately-for-cheating-thanks-to-a-single-pixel-in-a-screenshot-making-it-the-3rd-scuffed-ultimate-race-in-a-row)
- - [When does Fortnite live event ‘Remix: The Finale’ start?](https://www.polygon.com/fortnite-guide/485340/remix-the-finale-time-start-when)<!-- GAME:END -->
+ - [The best horror to watch on Netflix this December](https://www.polygon.com/what-to-watch/486118/best-horror-movies-netflix-watch-december-2024)
+ - [Today&#39;s Wordle answer for Saturday, November 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-30-2024)
+ - [I&amp;#8217;ve sorted through thousands of Black Friday deals, and these are the very best](https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
