@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals we’re seeing on MacBooks and other laptops](https://www.theverge.com/24305977/black-friday-best-deals-laptops-macbook-windows-gaming-cyber-monday-2024)
- - [Stay Toasty This Winter by Finding Your Thermostat&#39;s Sweet Spot](https://www.cnet.com/home/energy-and-utilities/stay-toasty-this-winter-by-finding-your-thermostats-sweet-spot/#ftag=CAD590a51e)
- - [Need a New iPhone or Android Phone? Consider These Factors Before You Buy](https://www.cnet.com/tech/mobile/need-a-new-iphone-or-android-phone-consider-these-things-before-you-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Every Feature You Should Use for Your WhatsApp Group Chats](https://www.wired.com/story/features-to-know-for-whatsapp-group-chats/)
+ - [Sonos Redesigned Its App and Made a Subscription Model Possible](https://www.wired.com/story/sonos-redesigned-its-app-and-made-a-subscription-model-possible/)
+ - [The 2024 Installer gift guide, part one](https://www.theverge.com/2024/12/1/24308191/tech-gifts-2024-installer-newsletter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
