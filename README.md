@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror to watch on Netflix this December](https://www.polygon.com/what-to-watch/486118/best-horror-movies-netflix-watch-december-2024)
- - [Today&#39;s Wordle answer for Saturday, November 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-november-30-2024)
- - [I&amp;#8217;ve sorted through thousands of Black Friday deals, and these are the very best](https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys)<!-- GAME:END -->
+ - [Every movie and show coming to Netflix in December](https://www.polygon.com/entertainment/483817/new-netflix-december-2024-movies-tv-to-watch)
+ - [When does the Diablo 4 season 7 PTR release, and how to get access](https://www.polygon.com/diablo-4-guides/485108/season-7-ptr-access-start-time-dates)
+ - [Soundtrack Sunday: Why Final Fantasy 13-2&#39;s score is the most eclectic and unique offering in the series](https://www.pcgamer.com/games/final-fantasy/soundtrack-sunday-why-final-fantasy-13-2s-score-is-the-most-eclectic-and-unique-offering-in-the-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
