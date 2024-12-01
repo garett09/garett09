@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Age is just a number](http://9gag.com/gag/aoyMgy0)
- - 🚯 [Life as a 6ft7 Woman](http://9gag.com/gag/a9yEEeD)
- - 🚯 [New photoshop challenge.](http://9gag.com/gag/ayNM9vV)<!-- MEMES:END -->
+ - 🚖 [Gonna stick to my own knowledge](http://9gag.com/gag/avy5Q4Z)
+ - 🚯 [Is that really iron man?](http://9gag.com/gag/aD2dY0d)
+ - 🚯 [Dopping by](http://9gag.com/gag/a5QEXnL)<!-- MEMES:END -->
 
 --- 
 
