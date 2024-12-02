@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gonna stick to my own knowledge](http://9gag.com/gag/avy5Q4Z)
- - 🚯 [Is that really iron man?](http://9gag.com/gag/aD2dY0d)
- - 🚯 [Dopping by](http://9gag.com/gag/a5QEXnL)<!-- MEMES:END -->
+ - 🚖 [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
+ - 🚯 [Parking](http://9gag.com/gag/avy5Wwb)
+ - 🚯 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
 
 --- 
 
