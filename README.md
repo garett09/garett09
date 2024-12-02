@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every Feature You Should Use for Your WhatsApp Group Chats](https://www.wired.com/story/features-to-know-for-whatsapp-group-chats/)
- - [Sonos Redesigned Its App and Made a Subscription Model Possible](https://www.wired.com/story/sonos-redesigned-its-app-and-made-a-subscription-model-possible/)
- - [The 2024 Installer gift guide, part one](https://www.theverge.com/2024/12/1/24308191/tech-gifts-2024-installer-newsletter)<!-- TECH:END -->
+ - [New York-based Upwind, which sells tools to secure cloud infrastructure, raised a $100M Series A led by Craft Venture at a $900M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241202/p20#a241202p20)
+ - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
+ - [The company behind Arc is building a new AI web browser called Dia](https://www.theverge.com/2024/12/2/24310944/dia-ai-browser-video-arc-the-browser-company)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
