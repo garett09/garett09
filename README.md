@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every movie and show coming to Netflix in December](https://www.polygon.com/entertainment/483817/new-netflix-december-2024-movies-tv-to-watch)
- - [When does the Diablo 4 season 7 PTR release, and how to get access](https://www.polygon.com/diablo-4-guides/485108/season-7-ptr-access-start-time-dates)
- - [Soundtrack Sunday: Why Final Fantasy 13-2&#39;s score is the most eclectic and unique offering in the series](https://www.pcgamer.com/games/final-fantasy/soundtrack-sunday-why-final-fantasy-13-2s-score-is-the-most-eclectic-and-unique-offering-in-the-series)<!-- GAME:END -->
+ - [Arcane co-creator reminds fans &#39;there are always constraints&#39;, dispels theories the show was rushed or restrained by Riot&#39;s higher-ups](https://www.pcgamer.com/movies-tv/arcane-co-creator-reminds-fans-there-are-always-constraints-dispels-theories-the-show-was-rushed-or-restrained-by-riots-higher-ups)
+ - [How two secret Stalker 2 hacks cut my loading time from 5 minutes to 52 seconds and got me in the Zone faster](https://www.pcgamer.com/games/how-two-secret-stalker-2-hacks-cut-my-loading-time-from-5-minutes-to-52-seconds-and-got-me-in-the-zone-faster)
+ - [Amazon’s board game deals are Cyber Monday standouts](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
