@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Upwind, which sells tools to secure cloud infrastructure, raised a $100M Series A led by Craft Venture at a $900M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/241202/p20#a241202p20)
- - [The top Cyber Monday deals you can get right now](https://www.theverge.com/24309106/best-black-friday-deals-2024-tech-gadgets-cyber-monday)
- - [The company behind Arc is building a new AI web browser called Dia](https://www.theverge.com/2024/12/2/24310944/dia-ai-browser-video-arc-the-browser-company)<!-- TECH:END -->
+ - [Nick Clegg says Mark Zuckerberg is keen to play &quot;an active role&quot; in Trump admin tech policy debates and Meta &quot;overdid it a bit&quot; when moderating pandemic content &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241203/p13#a241203p13)
+ - [Top US Consumer Watchdog Has a Plan to Fight Predatory Data Brokers](https://www.wired.com/story/cfpb-fcra-data-broker-oversight/)
+ - [Meta says it’s mistakenly moderating too much](https://www.theverge.com/2024/12/3/24311513/meta-content-moderation-mistakes-nick-clegg)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
