@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She didn\u2019t just\u2026 she didn\u2019t.. did she?](http://9gag.com/gag/aAybQw2)
- - 🚯 [Parking](http://9gag.com/gag/avy5Wwb)
- - 🚯 [Bring it in europe](http://9gag.com/gag/aYQoEjq)<!-- MEMES:END -->
+ - 🚖 [Based](http://9gag.com/gag/abAV4wX)
+ - 🚯 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
+ - 🚯 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)<!-- MEMES:END -->
 
 --- 
 
