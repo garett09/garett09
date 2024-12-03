@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arcane co-creator reminds fans &#39;there are always constraints&#39;, dispels theories the show was rushed or restrained by Riot&#39;s higher-ups](https://www.pcgamer.com/movies-tv/arcane-co-creator-reminds-fans-there-are-always-constraints-dispels-theories-the-show-was-rushed-or-restrained-by-riots-higher-ups)
- - [How two secret Stalker 2 hacks cut my loading time from 5 minutes to 52 seconds and got me in the Zone faster](https://www.pcgamer.com/games/how-two-secret-stalker-2-hacks-cut-my-loading-time-from-5-minutes-to-52-seconds-and-got-me-in-the-zone-faster)
- - [Amazon’s board game deals are Cyber Monday standouts](https://www.polygon.com/cyber-monday/475663/best-board-game-deals)<!-- GAME:END -->
+ - [Master Chief and Commander: It&#39;s Halo 3 but with boats and a naval battle against a Scarab](https://www.pcgamer.com/games/fps/now-you-can-play-halo-3-but-with-boats-and-get-in-a-naval-war-with-a-scarab)
+ - [Critical Role&#39;s plans to make a videogame have become an &#39;active pursuit&#39;, says CEO Travis Willingham, after almost 10 years of growing a D&amp;D campaign into a full-on franchise](https://www.pcgamer.com/games/rpg/critical-roles-plans-to-make-a-videogame-have-become-an-active-pursuit-says-ceo-travis-willingham-after-almost-10-years-of-growing-a-d-and-d-campaign-into-a-full-on-franchise)
+ - [All Monster Hunter Wilds weapons confirmed so far](https://www.pcgamer.com/games/action/monster-hunter-wilds-weapons)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
