@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based](http://9gag.com/gag/abAV4wX)
- - 🚯 [Man attacked by his wheelchair-bound neighbor&#39;s 4 Pitbulls](http://9gag.com/gag/abAVO4p)
- - 🚯 [Can anyone translate ?](http://9gag.com/gag/aYQoDVw)<!-- MEMES:END -->
+ - 🚖 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
+ - 🚯 [Bro regretted taking her](http://9gag.com/gag/aBy2GGZ)
+ - 🚯 [`I don&#39;t even know what I&#39;m doing here`](http://9gag.com/gag/aKG6OwQ)<!-- MEMES:END -->
 
 --- 
 
