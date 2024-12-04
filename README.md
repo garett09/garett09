@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Master Chief and Commander: It&#39;s Halo 3 but with boats and a naval battle against a Scarab](https://www.pcgamer.com/games/fps/now-you-can-play-halo-3-but-with-boats-and-get-in-a-naval-war-with-a-scarab)
- - [Critical Role&#39;s plans to make a videogame have become an &#39;active pursuit&#39;, says CEO Travis Willingham, after almost 10 years of growing a D&amp;D campaign into a full-on franchise](https://www.pcgamer.com/games/rpg/critical-roles-plans-to-make-a-videogame-have-become-an-active-pursuit-says-ceo-travis-willingham-after-almost-10-years-of-growing-a-d-and-d-campaign-into-a-full-on-franchise)
- - [All Monster Hunter Wilds weapons confirmed so far](https://www.pcgamer.com/games/action/monster-hunter-wilds-weapons)<!-- GAME:END -->
+ - [Civilization VII: First look at PS5 gameplay ahead of February 11 launch](https://blog.playstation.com/2024/12/04/civilization-vii-first-look-at-ps5-gameplay-ahead-of-february-11-launch/)
+ - [Man who lost £500 million bitcoin fortune to bin day is fighting for a chance to find it in court, after more than 10 years in a landfill](https://www.pcgamer.com/hardware/man-who-lost-gbp500-million-bitcoin-fortune-to-bin-day-is-fighting-for-a-chance-to-find-it-in-court-after-more-than-10-years-in-a-landfill)
+ - [Hold on to your potatoes because Indiana Jones and the Great Circle&#39;s system requirements demand ray tracing you can&#39;t disable and an RTX 4090 for highest settings](https://www.pcgamer.com/hardware/hold-on-to-your-potatoes-because-indiana-jones-and-the-great-circles-system-requirements-demand-ray-tracing-you-cant-disable-and-an-rtx-4090-for-highest-settings)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
