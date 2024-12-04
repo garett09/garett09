@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nick Clegg says Mark Zuckerberg is keen to play &quot;an active role&quot; in Trump admin tech policy debates and Meta &quot;overdid it a bit&quot; when moderating pandemic content &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/241203/p13#a241203p13)
- - [Top US Consumer Watchdog Has a Plan to Fight Predatory Data Brokers](https://www.wired.com/story/cfpb-fcra-data-broker-oversight/)
- - [Meta says it’s mistakenly moderating too much](https://www.theverge.com/2024/12/3/24311513/meta-content-moderation-mistakes-nick-clegg)<!-- TECH:END -->
+ - [Your Pixel will occasionally ignore the 80% charging limit, but for good reason](https://www.androidauthority.com/google-pixel-ignore-charging-limits-3505409/)
+ - [Spotify says Joe Rogan was its top US podcast in 2024 for the fourth year running, followed by Call Her Daddy, and 33%+ of the top 50 podcasts were video &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241204/p30#a241204p30)
+ - [Spotify launches Spotify Wrapped, adding an AI podcast of users&#39; 2024 Wrapped via Google&#39;s AI summarization tool NotebookLM, and a Your Music Evolution feature &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241204/p29#a241204p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
