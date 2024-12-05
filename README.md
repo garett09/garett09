@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Civilization VII: First look at PS5 gameplay ahead of February 11 launch](https://blog.playstation.com/2024/12/04/civilization-vii-first-look-at-ps5-gameplay-ahead-of-february-11-launch/)
- - [Man who lost £500 million bitcoin fortune to bin day is fighting for a chance to find it in court, after more than 10 years in a landfill](https://www.pcgamer.com/hardware/man-who-lost-gbp500-million-bitcoin-fortune-to-bin-day-is-fighting-for-a-chance-to-find-it-in-court-after-more-than-10-years-in-a-landfill)
- - [Hold on to your potatoes because Indiana Jones and the Great Circle&#39;s system requirements demand ray tracing you can&#39;t disable and an RTX 4090 for highest settings](https://www.pcgamer.com/hardware/hold-on-to-your-potatoes-because-indiana-jones-and-the-great-circles-system-requirements-demand-ray-tracing-you-cant-disable-and-an-rtx-4090-for-highest-settings)<!-- GAME:END -->
+ - [Zotac Zone review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/zotac-zone-review)
+ - [Star Wars Episode I: Jedi Power Battles reveals new Lightsaber Color Toggle feature](https://blog.playstation.com/2024/12/05/star-wars-episode-i-jedi-power-battles-reveals-new-lightsaber-color-toggle-feature/)
+ - [Tiny indie studio realises someone is selling its free games for $100+ on eBay and is totally stoked: &#39;We&#39;re a real developer now&#39; it declares, adding an &#39;in your face!&#39; to a homebrew convention that rejected them](https://www.pcgamer.com/games/action/tiny-indie-studio-realises-someone-is-selling-its-free-games-for-usd100-on-ebay-and-is-totally-stoked-were-a-real-developer-now-it-declares-adding-an-in-your-face-to-a-homebrew-convention-that-rejected-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
