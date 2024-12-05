@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pixel will occasionally ignore the 80% charging limit, but for good reason](https://www.androidauthority.com/google-pixel-ignore-charging-limits-3505409/)
- - [Spotify says Joe Rogan was its top US podcast in 2024 for the fourth year running, followed by Call Her Daddy, and 33%+ of the top 50 podcasts were video &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/241204/p30#a241204p30)
- - [Spotify launches Spotify Wrapped, adding an AI podcast of users&#39; 2024 Wrapped via Google&#39;s AI summarization tool NotebookLM, and a Your Music Evolution feature &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/241204/p29#a241204p29)<!-- TECH:END -->
+ - [One UI 7: Release date, beta rollout, confirmed features and everything else we know](https://www.androidauthority.com/one-ui-7-3429831/)
+ - [Breaking: Samsung begins rolling out Android 15-based One UI 7 beta for Galaxy S24 series](https://www.androidauthority.com/samsung-one-ui-7-beta-galaxy-s24-3500987/)
+ - [In Sam Altman We Trust?](https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
