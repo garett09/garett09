@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zotac Zone review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/zotac-zone-review)
- - [Star Wars Episode I: Jedi Power Battles reveals new Lightsaber Color Toggle feature](https://blog.playstation.com/2024/12/05/star-wars-episode-i-jedi-power-battles-reveals-new-lightsaber-color-toggle-feature/)
- - [Tiny indie studio realises someone is selling its free games for $100+ on eBay and is totally stoked: &#39;We&#39;re a real developer now&#39; it declares, adding an &#39;in your face!&#39; to a homebrew convention that rejected them](https://www.pcgamer.com/games/action/tiny-indie-studio-realises-someone-is-selling-its-free-games-for-usd100-on-ebay-and-is-totally-stoked-were-a-real-developer-now-it-declares-adding-an-in-your-face-to-a-homebrew-convention-that-rejected-them)<!-- GAME:END -->
+ - [The Thing: Remastered is fun for all the wrong reasons, but that doesn&#39;t mean you can&#39;t enjoy this blast from the past](https://www.pcgamer.com/games/horror/the-thing-remastered-is-fun-for-all-the-wrong-reasons-but-that-doesnt-mean-you-cant-enjoy-this-blast-from-the-past)
+ - [The secret sauce behind Creature Commandos’ Bride was Harley Quinn](https://www.polygon.com/dc/491080/creature-commandos-bride-of-frankenstein-harley-quinn)
+ - [When Path of Exile 2 early access ends, Grinding Gear Games won&#39;t be murdering your beloved characters](https://www.pcgamer.com/games/rpg/when-path-of-exile-2-early-access-ends-grinding-gear-games-wont-be-murdering-your-beloved-characters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
