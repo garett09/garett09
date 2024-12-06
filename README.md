@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stacy&#39;s mom has been spending a lot of time in the pool](http://9gag.com/gag/aAybXWE)
- - 🚯 [Operation friend](http://9gag.com/gag/aD2dPod)
- - 🚯 [Pauline Grabosch is the biggest asset of the German track cycling team](http://9gag.com/gag/aryM240)<!-- MEMES:END -->
+ - 🚖 [Champion](http://9gag.com/gag/azxMDbb)
+ - 🚯 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
+ - 🚯 [You want a new Snape? Here&#39;s one.](http://9gag.com/gag/aPA3dQB)<!-- MEMES:END -->
 
 --- 
 
