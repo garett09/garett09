@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 7: Release date, beta rollout, confirmed features and everything else we know](https://www.androidauthority.com/one-ui-7-3429831/)
- - [Breaking: Samsung begins rolling out Android 15-based One UI 7 beta for Galaxy S24 series](https://www.androidauthority.com/samsung-one-ui-7-beta-galaxy-s24-3500987/)
- - [In Sam Altman We Trust?](https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/)<!-- TECH:END -->
+ - [Tim Cook, Super Intelligence, and Wallace and Gromit on the AppleInsider Podcast](https://appleinsider.com/articles/24/12/06/tim-cook-super-intelligence-and-wallace-and-gromit-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Microsoft ends Surface Studio 2 Plus production with no successor in sight](https://www.theverge.com/2024/12/6/24314732/microsoft-surface-studio-2-plus-end-of-production)
+ - [Samsung Messages to drop RCS support on this major US carrier next year](https://www.androidauthority.com/samsung-messages-discontinue-rcs-3506382/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
