@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook, Super Intelligence, and Wallace and Gromit on the AppleInsider Podcast](https://appleinsider.com/articles/24/12/06/tim-cook-super-intelligence-and-wallace-and-gromit-on-the-appleinsider-podcast?utm_medium=rss)
- - [Microsoft ends Surface Studio 2 Plus production with no successor in sight](https://www.theverge.com/2024/12/6/24314732/microsoft-surface-studio-2-plus-end-of-production)
- - [Samsung Messages to drop RCS support on this major US carrier next year](https://www.androidauthority.com/samsung-messages-discontinue-rcs-3506382/)<!-- TECH:END -->
+ - [The end of the ISS will usher in a more commercialized future in space](https://www.theverge.com/2024/12/7/24314191/iss-end-2030-commercial-space-station-mars-moon)
+ - [Google’s AI weather prediction model is pretty darn good](https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast)
+ - [Try These Tricks to Free Up More Screen Real Estate on a Mac](https://www.wired.com/story/tips-tricks-more-screen-real-estate-on-a-mac/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
