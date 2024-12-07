@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Champion](http://9gag.com/gag/azxMDbb)
- - 🚯 [Notice the women didn&#39;t pop are also the prettiest](http://9gag.com/gag/aZZ0dG9)
- - 🚯 [You want a new Snape? Here&#39;s one.](http://9gag.com/gag/aPA3dQB)<!-- MEMES:END -->
+ - 🚖 [When Hans actually comes](http://9gag.com/gag/aLnpVe6)
+ - 🚯 [Ip Man](http://9gag.com/gag/ajPmGZR)
+ - 🚯 [A stand up](http://9gag.com/gag/aLnpNmv)<!-- MEMES:END -->
 
 --- 
 
