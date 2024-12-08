@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The end of the ISS will usher in a more commercialized future in space](https://www.theverge.com/2024/12/7/24314191/iss-end-2030-commercial-space-station-mars-moon)
- - [Google’s AI weather prediction model is pretty darn good](https://www.theverge.com/2024/12/7/24314064/ai-weather-forecast-model-google-deepmind-gencast)
- - [Try These Tricks to Free Up More Screen Real Estate on a Mac](https://www.wired.com/story/tips-tricks-more-screen-real-estate-on-a-mac/)<!-- TECH:END -->
+ - [How the US-China fallout is fueling the rise of boomtowns in Vietnam and Malaysia, as companies and governments rush to develop AI and establish chipmaking hubs &lpar;Bloomberg&rpar;](http://www.techmeme.com/241208/p8#a241208p8)
+ - [Amazon Kindle Scribe &lpar;2nd Gen&rpar; Review: Room for More](https://www.wired.com/review/amazon-kindle-scribe-second-generation/)
+ - [The Installer gift guide, part two](https://www.theverge.com/2024/12/8/24314959/y2k-movie-peloton-strength-plus-jeopardy-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
