@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When Hans actually comes](http://9gag.com/gag/aLnpVe6)
- - 🚯 [Ip Man](http://9gag.com/gag/ajPmGZR)
- - 🚯 [A stand up](http://9gag.com/gag/aLnpNmv)<!-- MEMES:END -->
+ - 🚖 [A literal lucky cat](http://9gag.com/gag/an7Q0wV)
+ - 🚯 [Divided by language, united by thoughts](http://9gag.com/gag/axyMqdK)
+ - 🚯 [2 at least!](http://9gag.com/gag/aW4jXq6)<!-- MEMES:END -->
 
 --- 
 
