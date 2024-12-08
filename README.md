@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Joker: Folie à Deux Will Be Available To Stream Very Soon](https://kotaku.com/joker-folie-a-deux-hbo-max-release-date-1851715983)
- - [Hitman&#39;s Agent 47 is the ultimate proletarian hero that 2024 needs](https://www.pcgamer.com/games/action/hitmans-agent-47-is-the-ultimate-proletarian-hero-that-2024-needs)
- - [Today&#39;s Wordle answer for Saturday, December 7](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-7-2024)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, December 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-8-2024)
+ - [Gigantamax Lapras counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/492425/gigantamax-lapras-counters-tips-max-battle)
+ - [Soulframe shows off a new teaser trailer and a cool giant wolf to hang out with](https://www.pcgamer.com/games/action/soulframe-shows-off-a-new-teaser-trailer-and-a-cool-giant-wolf-to-hang-out-with)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
