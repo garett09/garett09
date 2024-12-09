@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, December 8](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-8-2024)
- - [Gigantamax Lapras counters, weakness, and battle tips in Pokémon Go](https://www.polygon.com/pokemon-go-guide/492425/gigantamax-lapras-counters-tips-max-battle)
- - [Soulframe shows off a new teaser trailer and a cool giant wolf to hang out with](https://www.pcgamer.com/games/action/soulframe-shows-off-a-new-teaser-trailer-and-a-cool-giant-wolf-to-hang-out-with)<!-- GAME:END -->
+ - [Infinity Nikki players have gone full-on Dark Souls by using the photo mode to leave puzzle hints and quiz answers for each other](https://www.pcgamer.com/games/adventure/infinity-nikki-players-have-gone-full-on-dark-souls-by-using-the-photo-mode-to-leave-puzzle-hints-and-quiz-answers-for-each-other)
+ - [Arctic&#39;s new fan-cooled fans might be for servers but I want a gaming rig full of them for the ultimate cooling kudos](https://www.pcgamer.com/hardware/cooling/arctics-new-fan-cooled-fans-might-be-for-servers-but-i-want-a-gaming-rig-full-of-them-for-the-ultimate-cooling-kudos)
+ - [How to get medallions in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/488271/medallion-locations-chapter-6)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
