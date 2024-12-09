@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A literal lucky cat](http://9gag.com/gag/an7Q0wV)
- - 🚯 [Divided by language, united by thoughts](http://9gag.com/gag/axyMqdK)
- - 🚯 [2 at least!](http://9gag.com/gag/aW4jXq6)<!-- MEMES:END -->
+ - 🚖 [One little thing](http://9gag.com/gag/aNDp550)
+ - 🚯 [That wishful look](http://9gag.com/gag/a4PEORw)
+ - 🚯 [This sparks joy!](http://9gag.com/gag/aD2dv1B)<!-- MEMES:END -->
 
 --- 
 
