@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the US-China fallout is fueling the rise of boomtowns in Vietnam and Malaysia, as companies and governments rush to develop AI and establish chipmaking hubs &lpar;Bloomberg&rpar;](http://www.techmeme.com/241208/p8#a241208p8)
- - [Amazon Kindle Scribe &lpar;2nd Gen&rpar; Review: Room for More](https://www.wired.com/review/amazon-kindle-scribe-second-generation/)
- - [The Installer gift guide, part two](https://www.theverge.com/2024/12/8/24314959/y2k-movie-peloton-strength-plus-jeopardy-installer)<!-- TECH:END -->
+ - [Here’s how One UI 7 is making your phone a more powerful Galaxy Book companion](https://www.androidauthority.com/one-ui-7-camera-storage-sharing-3506760/)
+ - [Ukrainian officials worry over Telegram, which has soared in popularity during the war with Russia, questioning if its upsides outweigh the its security risks &lpar;New York Times&rpar;](http://www.techmeme.com/241209/p14#a241209p14)
+ - [Surprising rumor says new HomePod will get high-quality OLED screen](https://appleinsider.com/articles/24/12/09/surprising-rumor-says-new-homepod-will-get-high-quality-oled-screen?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
