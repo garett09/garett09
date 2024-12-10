@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One little thing](http://9gag.com/gag/aNDp550)
- - 🚯 [That wishful look](http://9gag.com/gag/a4PEORw)
- - 🚯 [This sparks joy!](http://9gag.com/gag/aD2dv1B)<!-- MEMES:END -->
+ - 🚖 [Who was there with us that specific night?](http://9gag.com/gag/aQzowZd)
+ - 🚯 [Mess around and find out](http://9gag.com/gag/axyMxv1)
+ - 🚯 [Gotcha B*tch](http://9gag.com/gag/a34E9A3)<!-- MEMES:END -->
 
 --- 
 
