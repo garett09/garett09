@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how One UI 7 is making your phone a more powerful Galaxy Book companion](https://www.androidauthority.com/one-ui-7-camera-storage-sharing-3506760/)
- - [Ukrainian officials worry over Telegram, which has soared in popularity during the war with Russia, questioning if its upsides outweigh the its security risks &lpar;New York Times&rpar;](http://www.techmeme.com/241209/p14#a241209p14)
- - [Surprising rumor says new HomePod will get high-quality OLED screen](https://appleinsider.com/articles/24/12/09/surprising-rumor-says-new-homepod-will-get-high-quality-oled-screen?utm_medium=rss)<!-- TECH:END -->
+ - [The death of a robot designed for autistic children proves Apple&#39;s on-device AI is the right path](https://appleinsider.com/articles/24/12/10/the-death-of-a-robot-designed-for-autistic-children-proves-apples-on-device-ai-is-the-right-path?utm_medium=rss)
+ - [Omega Speedmaster Pilot 2024: Price, Specs, Availability](https://www.wired.com/story/omega-speedmaster-pilot-2024/)
+ - [Blue Apron Review: Not as Good as It Once Was](https://www.wired.com/review/blue-apron/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
