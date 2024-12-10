@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Infinity Nikki players have gone full-on Dark Souls by using the photo mode to leave puzzle hints and quiz answers for each other](https://www.pcgamer.com/games/adventure/infinity-nikki-players-have-gone-full-on-dark-souls-by-using-the-photo-mode-to-leave-puzzle-hints-and-quiz-answers-for-each-other)
- - [Arctic&#39;s new fan-cooled fans might be for servers but I want a gaming rig full of them for the ultimate cooling kudos](https://www.pcgamer.com/hardware/cooling/arctics-new-fan-cooled-fans-might-be-for-servers-but-i-want-a-gaming-rig-full-of-them-for-the-ultimate-cooling-kudos)
- - [How to get medallions in Fortnite Chapter 6 Season 1](https://www.polygon.com/fortnite-guide/488271/medallion-locations-chapter-6)<!-- GAME:END -->
+ - [The 15 Best RPGs Of 2024](https://kotaku.com/2024-best-rpgs-this-year-ff7-dragon-age-4-elden-ring-1851717064)
+ - [Ubisoft celebrates the reopening of Notre Dame by reminding you all that Assassin&#39;s Creed Unity was great, actually](https://www.pcgamer.com/games/assassins-creed/ubisoft-celebrates-the-reopening-of-notre-dame-by-reminding-you-all-that-assassins-creed-unity-was-great-actually)
+ - [Google&#39;s WIllow chip is a big leap towards usable quantum computing but its claim of beating a classical computer by a &#39;septillion years&#39; is meaningless](https://www.pcgamer.com/hardware/googles-willow-chip-is-a-big-leap-towards-usable-quantum-computing-but-its-claim-of-beating-a-classical-computer-by-a-septillion-years-is-meaningless)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
