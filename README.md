@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The death of a robot designed for autistic children proves Apple&#39;s on-device AI is the right path](https://appleinsider.com/articles/24/12/10/the-death-of-a-robot-designed-for-autistic-children-proves-apples-on-device-ai-is-the-right-path?utm_medium=rss)
- - [Omega Speedmaster Pilot 2024: Price, Specs, Availability](https://www.wired.com/story/omega-speedmaster-pilot-2024/)
- - [Blue Apron Review: Not as Good as It Once Was](https://www.wired.com/review/blue-apron/)<!-- TECH:END -->
+ - [iOS 18.2 is out now, adding ChatGPT integration and more Apple Intelligence tools](https://www.theverge.com/2024/12/11/24317119/ios-18-2-apple-intelligence-chatgpt-genmoji)
+ - [Apple rolls out iOS 18.2 and iPadOS 18.2, adding major AI updates, including Image Playground on iPhone 15 Pro, 16, and 16 Pro, Genmoji, and ChatGPT integration &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241211/p21#a241211p21)
+ - [9 Best Diffusers for Curly Hair &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-diffusers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
