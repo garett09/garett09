@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who was there with us that specific night?](http://9gag.com/gag/aQzowZd)
- - 🚯 [Mess around and find out](http://9gag.com/gag/axyMxv1)
- - 🚯 [Gotcha B*tch](http://9gag.com/gag/a34E9A3)<!-- MEMES:END -->
+ - 🚖 [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 🚯 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
+ - 🚯 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)<!-- MEMES:END -->
 
 --- 
 
