@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 15 Best RPGs Of 2024](https://kotaku.com/2024-best-rpgs-this-year-ff7-dragon-age-4-elden-ring-1851717064)
- - [Ubisoft celebrates the reopening of Notre Dame by reminding you all that Assassin&#39;s Creed Unity was great, actually](https://www.pcgamer.com/games/assassins-creed/ubisoft-celebrates-the-reopening-of-notre-dame-by-reminding-you-all-that-assassins-creed-unity-was-great-actually)
- - [Google&#39;s WIllow chip is a big leap towards usable quantum computing but its claim of beating a classical computer by a &#39;septillion years&#39; is meaningless](https://www.pcgamer.com/hardware/googles-willow-chip-is-a-big-leap-towards-usable-quantum-computing-but-its-claim-of-beating-a-classical-computer-by-a-septillion-years-is-meaningless)<!-- GAME:END -->
+ - [Nvidia&#39;s eyeing up ways to beef up its future AI chips with GPUs on top of GPUs and the power of light](https://www.pcgamer.com/hardware/graphics-cards/nvidias-eyeing-up-ways-to-beef-up-its-future-ai-chips-with-gpus-on-top-of-gpus-and-the-power-of-light)
+ - [Among Us bizarrely namechecked as NBC claims suspected healthcare CEO shooter &#39;belonged to a group of Ivy League gamers who played assassins&#39;—devs respond, &#39;um&#39;](https://www.pcgamer.com/games/among-us-bizarrely-namechecked-as-nbc-claims-suspected-healthcare-ceo-shooter-belonged-to-a-group-of-ivy-league-gamers-who-played-assassins-devs-respond-um)
+ - [13-year-old that made a killing creating a crypto and then dumping it gets &#39;revenge pumped&#39;, family doxxed, and even dognapping rumours emerge](https://www.pcgamer.com/hardware/13-year-old-that-made-a-killing-creating-a-crypto-and-then-dumping-it-gets-revenge-pumped-family-doxxed-and-even-dognapping-rumours-emerge)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
