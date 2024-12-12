@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18.2 is out now, adding ChatGPT integration and more Apple Intelligence tools](https://www.theverge.com/2024/12/11/24317119/ios-18-2-apple-intelligence-chatgpt-genmoji)
- - [Apple rolls out iOS 18.2 and iPadOS 18.2, adding major AI updates, including Image Playground on iPhone 15 Pro, 16, and 16 Pro, Genmoji, and ChatGPT integration &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/241211/p21#a241211p21)
- - [9 Best Diffusers for Curly Hair &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-diffusers/)<!-- TECH:END -->
+ - [Current and former Netflix staff say the company has been scaling back employee benefits, including for parental leave, after shifting focus to profitability &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/241212/p22#a241212p22)
+ - [I want this signature HTC One feature to make a comeback on Pixel phones](https://www.androidauthority.com/front-facing-speakers-pixel-3507658/)
+ - [17 Best Gifts for Babies and Toddlers, Editor Tested and Reviewed](https://www.wired.com/gallery/best-baby-gifts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
