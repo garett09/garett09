@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro what?](http://9gag.com/gag/adB8ZV2)
+ - 🚖 [The couch.](http://9gag.com/gag/avyA25E)
  - 🚯 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 🚯 [Chinese being indian](http://9gag.com/gag/a6ZEWDm)<!-- MEMES:END -->
+ - 🚯 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)<!-- MEMES:END -->
 
 --- 
 
