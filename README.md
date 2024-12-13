@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The couch.](http://9gag.com/gag/avyA25E)
- - 🚯 [Every time when I watch the movie I&#39;m terrified by the voice over.](http://9gag.com/gag/aVvxjOd)
- - 🚯 [The power of the Prince Rupert drop](http://9gag.com/gag/aGyz9AK)<!-- MEMES:END -->
+ - 🚖 [Princess red lobster](http://9gag.com/gag/aAyGVoE)
+ - 🚯 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
+ - 🚯 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
 
 --- 
 
