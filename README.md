@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2&#39;s build-breaking patch leave fans calling for better respec options](https://www.pcgamer.com/games/path-of-exile-2s-build-breaking-patch-leave-fans-calling-for-better-respec-options/)
- - [Josef Fares is bragging about how good Hazelight&#39;s next game is going to be &lpar;again&rpar;: &#39;A lot of people say I&#39;m cocky, but it&#39;s impossible to not be cocky when you have a game like this&#39;](https://www.pcgamer.com/games/action/josef-fares-is-bragging-about-how-good-his-next-game-is-going-to-be-again-a-lot-of-people-say-im-cocky-but-its-impossible-to-not-be-cocky-when-you-have-a-game-like-this/)
- - [Pat Gelsinger rallies against claims some chipmakers are struggling to produce good wafers: anyone using yields as a % &#39;doesn&#39;t understand semiconductor yield&#39;](https://www.pcgamer.com/hardware/processors/pat-gelsinger-rallies-against-claims-some-chipmakers-are-struggling-to-produce-good-wafers-anyone-using-yields-as-a-percent-doesnt-understand-semiconductor-yield/)<!-- GAME:END -->
+ - [After 3,500,000 units sold and its Game Awards wins, Balatro does a victory lap and absorbs 8 new crossovers in its unstoppable march to turn all games into cute little cards that get you points and stuff](https://www.pcgamer.com/games/roguelike/after-3-500-000-units-sold-and-its-game-awards-wins-balatro-does-a-victory-lap-and-absorbs-8-new-crossovers-in-its-unstoppable-march-to-turn-all-games-into-cute-little-cards-that-get-you-points-and-stuff/)
+ - [Turok: Origins announced for PS5 – first gameplay details](https://blog.playstation.com/2024/12/13/turok-origins-announced-for-ps5-first-gameplay-details/)
+ - [Turok is Back! Saber Interactive Reveals Turok: Origins at The Game Awards with New Trailer](https://news.xbox.com/en-us/2024/12/13/turok-origins-at-the-game-awards/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
