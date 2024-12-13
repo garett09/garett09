@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and former Netflix staff say the company has been scaling back employee benefits, including for parental leave, after shifting focus to profitability &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/241212/p22#a241212p22)
- - [I want this signature HTC One feature to make a comeback on Pixel phones](https://www.androidauthority.com/front-facing-speakers-pixel-3507658/)
- - [17 Best Gifts for Babies and Toddlers, Editor Tested and Reviewed](https://www.wired.com/gallery/best-baby-gifts/)<!-- TECH:END -->
+ - [The Google Nest Audio at just $50 makes for a great Christmas gift](https://www.androidauthority.com/google-nest-audio-deal-7-3508643/)
+ - [The UK CMA opens a formal probe into BlackRock&#39;s acquisition of UK data provider Preqin over concerns that the &amp;pound;2.55B deal could stifle competition in the UK &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/241213/p7#a241213p7)
+ - [8 Best Baby Carriers &lpar;2024&rpar;: Wraps, Slings, and Packs](https://www.wired.com/gallery/best-baby-carriers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
