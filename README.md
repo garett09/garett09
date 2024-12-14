@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Princess red lobster](http://9gag.com/gag/aAyGVoE)
- - 🚯 [Hello Kate Moss, would you like some candy in your refreshment? Imma put some candy in your refreshment.](http://9gag.com/gag/a5Q1dVN)
- - 🚯 [Who\u2019s coming to hell with me?](http://9gag.com/gag/aryneW5)<!-- MEMES:END -->
+ - 🚖 [Stay focused](http://9gag.com/gag/aRBrAvG)
+ - 🚯 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)
+ - 🚯 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)<!-- MEMES:END -->
 
 --- 
 
