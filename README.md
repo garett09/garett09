@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 3,500,000 units sold and its Game Awards wins, Balatro does a victory lap and absorbs 8 new crossovers in its unstoppable march to turn all games into cute little cards that get you points and stuff](https://www.pcgamer.com/games/roguelike/after-3-500-000-units-sold-and-its-game-awards-wins-balatro-does-a-victory-lap-and-absorbs-8-new-crossovers-in-its-unstoppable-march-to-turn-all-games-into-cute-little-cards-that-get-you-points-and-stuff/)
- - [Turok: Origins announced for PS5 – first gameplay details](https://blog.playstation.com/2024/12/13/turok-origins-announced-for-ps5-first-gameplay-details/)
- - [Turok is Back! Saber Interactive Reveals Turok: Origins at The Game Awards with New Trailer](https://news.xbox.com/en-us/2024/12/13/turok-origins-at-the-game-awards/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Saturday, December 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-14-2024/)
+ - [WoW&#39;s newest raid will build on 20 years of large-group encounters, with new twists—and perhaps less help from mods](https://www.pcgamer.com/games/mmo/wows-newest-raid-will-build-on-20-years-of-large-group-encounters-with-new-twists-and-perhaps-less-help-from-mods/)
+ - [Red One, Heretic, Netflix’s Maria, and every movie new to streaming](https://www.polygon.com/what-to-watch/492727/new-movies-watch-streaming-red-one-heretic-netflix-maria-angelina-jolie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
