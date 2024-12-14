@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Nest Audio at just $50 makes for a great Christmas gift](https://www.androidauthority.com/google-nest-audio-deal-7-3508643/)
- - [The UK CMA opens a formal probe into BlackRock&#39;s acquisition of UK data provider Preqin over concerns that the &amp;pound;2.55B deal could stifle competition in the UK &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/241213/p7#a241213p7)
- - [8 Best Baby Carriers &lpar;2024&rpar;: Wraps, Slings, and Packs](https://www.wired.com/gallery/best-baby-carriers/)<!-- TECH:END -->
+ - [Good at Reading? Your Brain May Be Structured Differently](https://www.wired.com/story/good-at-reading-your-brain-may-be-structured-differently/)
+ - [Save Space on Your Phone by Offloading and Archiving Apps](https://www.wired.com/story/offload-and-archive-apps-to-save-space-on-your-phone/)
+ - [As Soon as You Install iOS 18.2, Change These 8 iPhone Settings](https://www.cnet.com/tech/services-and-software/as-soon-as-you-install-ios-18-2-change-these-8-iphone-settings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
