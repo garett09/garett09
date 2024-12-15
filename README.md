@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stay focused](http://9gag.com/gag/aRBrAvG)
- - 🚯 [Diversity is awesome when not forced.](http://9gag.com/gag/aPAZGrn)
- - 🚯 [Octopuses are crazy](http://9gag.com/gag/a5Q17zO)<!-- MEMES:END -->
+ - 🚖 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
+ - 🚯 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
+ - 🚯 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)<!-- MEMES:END -->
 
 --- 
 
