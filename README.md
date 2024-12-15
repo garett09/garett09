@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good at Reading? Your Brain May Be Structured Differently](https://www.wired.com/story/good-at-reading-your-brain-may-be-structured-differently/)
- - [Save Space on Your Phone by Offloading and Archiving Apps](https://www.wired.com/story/offload-and-archive-apps-to-save-space-on-your-phone/)
- - [As Soon as You Install iOS 18.2, Change These 8 iPhone Settings](https://www.cnet.com/tech/services-and-software/as-soon-as-you-install-ios-18-2-change-these-8-iphone-settings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Best Carbon Steel Pans For Every Budget &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-carbon-steel-pans-for-every-budget/)
+ - [A worthy update to my favorite mobile game ever](https://www.theverge.com/2024/12/15/24320546/monument-valley-3-mozi-supernote-joi-installer)
+ - [Overcoming Credit Card Debt: A Step-by-Step Guide](https://www.cnet.com/personal-finance/credit-cards/overcoming-credit-card-debt-a-step-by-step-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
