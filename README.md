@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Saturday, December 14](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-14-2024/)
- - [WoW&#39;s newest raid will build on 20 years of large-group encounters, with new twists—and perhaps less help from mods](https://www.pcgamer.com/games/mmo/wows-newest-raid-will-build-on-20-years-of-large-group-encounters-with-new-twists-and-perhaps-less-help-from-mods/)
- - [Red One, Heretic, Netflix’s Maria, and every movie new to streaming](https://www.polygon.com/what-to-watch/492727/new-movies-watch-streaming-red-one-heretic-netflix-maria-angelina-jolie)<!-- GAME:END -->
+ - [When does the Mythical Island expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/496420/mythical-island-expansion-release-time-date-est-pst-bst)
+ - [Today&#39;s Wordle answer for Sunday, December 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-15-2024/)
+ - [Lord of the Rings: Return to Moria is free on Epic and I bet you, like me, are suddenly much more interested in it](https://www.pcgamer.com/games/survival-crafting/lord-of-the-rings-return-to-moria-is-free-on-epic-and-i-bet-you-like-me-are-suddenly-much-more-interested-in-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
