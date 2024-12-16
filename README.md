@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Carbon Steel Pans For Every Budget &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-carbon-steel-pans-for-every-budget/)
- - [A worthy update to my favorite mobile game ever](https://www.theverge.com/2024/12/15/24320546/monument-valley-3-mozi-supernote-joi-installer)
- - [Overcoming Credit Card Debt: A Step-by-Step Guide](https://www.cnet.com/personal-finance/credit-cards/overcoming-credit-card-debt-a-step-by-step-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Best WIRED-Tested Humidifiers for Home and Away &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-humidifiers/)
+ - [Sonos Sub 4 review: A minor update helps future proof the high-end subwoofer](https://appleinsider.com/articles/24/12/16/sonos-sub-4-review-a-minor-update-helps-future-proof-the-high-end-subwoofer?utm_medium=rss)
+ - [Google Drive rolls out improved document scanner on mobile](https://www.androidauthority.com/google-drive-improved-scanner-mobile-3509225/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
