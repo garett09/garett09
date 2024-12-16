@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When does the Mythical Island expansion release in Pokémon TCG Pocket?](https://www.polygon.com/pokemon-tcg-pocket-guides/496420/mythical-island-expansion-release-time-date-est-pst-bst)
- - [Today&#39;s Wordle answer for Sunday, December 15](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-15-2024/)
- - [Lord of the Rings: Return to Moria is free on Epic and I bet you, like me, are suddenly much more interested in it](https://www.pcgamer.com/games/survival-crafting/lord-of-the-rings-return-to-moria-is-free-on-epic-and-i-bet-you-like-me-are-suddenly-much-more-interested-in-it/)<!-- GAME:END -->
+ - [Marvel Rivals review](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-review/)
+ - [Balatro dev swings at PEGI for rating it 18+ because of its &#39;evil playing cards&#39;, jokes that he should &#39;add microtransactions&#39; like EA Sports FC 25 to &#39;lower that rating to a 3+&#39;](https://www.pcgamer.com/games/roguelike/balatro-dev-swings-at-pegi-for-rating-it-18-because-of-its-evil-playing-cards-jokes-that-he-should-add-microtransactions-like-ea-sports-fc-25-to-lower-that-rating-to-a-3/)
+ - [It&#39;s the end of an era: Crucial starts calling time on its popular SATA SSD, the MX500](https://www.pcgamer.com/hardware/ssds/its-the-end-of-an-era-crucial-starts-calling-time-on-its-popular-sata-ssd-the-mx500/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
