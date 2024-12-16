@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Car driver prevents cyclist from a potential wolf attack](http://9gag.com/gag/a4P1ZEy)
- - 🚯 [Police indicated `Currently no evidence of foul play`](http://9gag.com/gag/aVvxDBM)
- - 🚯 [Lillian Phillips screwdriver needs to see a doctor after sleeping with 100 guys in one day](http://9gag.com/gag/aYQrKMV)<!-- MEMES:END -->
+ - 🚖 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
+ - 🚯 [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)
+ - 🚯 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)<!-- MEMES:END -->
 
 --- 
 
