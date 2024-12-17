@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lady has her ears cleaned after 16 years.](http://9gag.com/gag/avyA8Mq)
- - 🚯 [I&#39;ve analyzed 9880 users who were active in the last few days and here is the graph of the amount of users REGISTERED by date. See something strange on 06.11.2024?](http://9gag.com/gag/aO8Qrm6)
- - 🚯 [Listen here you little shit.](http://9gag.com/gag/ae9ge2O)<!-- MEMES:END -->
+ - 🚖 [The definition of we are one](http://9gag.com/gag/a4P1RrZ)
+ - 🚯 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
+ - 🚯 [Sometimes it\u2019s ok to break society\u2019s rules](http://9gag.com/gag/aZZr7Qp)<!-- MEMES:END -->
 
 --- 
 
