@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best WIRED-Tested Humidifiers for Home and Away &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-humidifiers/)
- - [Sonos Sub 4 review: A minor update helps future proof the high-end subwoofer](https://appleinsider.com/articles/24/12/16/sonos-sub-4-review-a-minor-update-helps-future-proof-the-high-end-subwoofer?utm_medium=rss)
- - [Google Drive rolls out improved document scanner on mobile](https://www.androidauthority.com/google-drive-improved-scanner-mobile-3509225/)<!-- TECH:END -->
+ - [Apple accused of covering up war crimes by willfully using Congo conflict minerals](https://appleinsider.com/articles/24/12/17/apple-accused-of-covering-up-war-crimes-by-willfully-using-congo-conflict-minerals?utm_medium=rss)
+ - [The Irish Data Protection Commission fines Meta &amp;euro;251M over a Facebook breach that affected ~29M users globally and ~3M in the EU and EEA in September 2018 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241217/p14#a241217p14)
+ - [Interpol says calling online scams &quot;pig butchering&quot;, a widely used phrase, is unhelpful as gangs &quot;appear to have&quot; created the phrase to describe victims &lpar;Wired&rpar;](http://www.techmeme.com/241217/p13#a241217p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
