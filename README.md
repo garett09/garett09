@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals review](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-review/)
- - [Balatro dev swings at PEGI for rating it 18+ because of its &#39;evil playing cards&#39;, jokes that he should &#39;add microtransactions&#39; like EA Sports FC 25 to &#39;lower that rating to a 3+&#39;](https://www.pcgamer.com/games/roguelike/balatro-dev-swings-at-pegi-for-rating-it-18-because-of-its-evil-playing-cards-jokes-that-he-should-add-microtransactions-like-ea-sports-fc-25-to-lower-that-rating-to-a-3/)
- - [It&#39;s the end of an era: Crucial starts calling time on its popular SATA SSD, the MX500](https://www.pcgamer.com/hardware/ssds/its-the-end-of-an-era-crucial-starts-calling-time-on-its-popular-sata-ssd-the-mx500/)<!-- GAME:END -->
+ - [PS Blog Game of the Year 2024: The Winners](https://blog.playstation.com/2024/12/17/ps-blog-game-of-the-year-2024-the-winners/)
+ - [Path of Exile 2 passive skill respecs will no longer cost Scrooge McDuck levels of gold](https://www.pcgamer.com/games/rpg/path-of-exile-2-passive-skill-respecs-will-no-longer-cost-scrooge-mcduck-levels-of-gold/)
+ - [Tiny Glade&#39;s winter update finally lets me turn my castles into that scene from National Lampoon&#39;s Christmas Vacation](https://www.pcgamer.com/games/city-builder/tiny-glades-winter-update-finally-lets-me-turn-my-castles-into-that-scene-from-national-lampoons-christmas-vacation/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
