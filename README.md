@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The definition of we are one](http://9gag.com/gag/a4P1RrZ)
- - 🚯 [Security dragging Travis Scott out of his own concert.](http://9gag.com/gag/a0eZQ1O)
- - 🚯 [Sometimes it\u2019s ok to break society\u2019s rules](http://9gag.com/gag/aZZr7Qp)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/aGyzEdK)
+ - 🚯 [The state of gaming](http://9gag.com/gag/aW4gg5A)
+ - 🚯 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)<!-- MEMES:END -->
 
 --- 
 
