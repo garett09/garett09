@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple accused of covering up war crimes by willfully using Congo conflict minerals](https://appleinsider.com/articles/24/12/17/apple-accused-of-covering-up-war-crimes-by-willfully-using-congo-conflict-minerals?utm_medium=rss)
- - [The Irish Data Protection Commission fines Meta &amp;euro;251M over a Facebook breach that affected ~29M users globally and ~3M in the EU and EEA in September 2018 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/241217/p14#a241217p14)
- - [Interpol says calling online scams &quot;pig butchering&quot;, a widely used phrase, is unhelpful as gangs &quot;appear to have&quot; created the phrase to describe victims &lpar;Wired&rpar;](http://www.techmeme.com/241217/p13#a241217p13)<!-- TECH:END -->
+ - [iPhone 17 camera layout may not radically change after all](https://appleinsider.com/articles/24/12/18/iphone-17-range-will-keep-triangular-camera-system-claims-leaker?utm_medium=rss)
+ - [The quickly disappearing web](https://www.theverge.com/24321569/internet-decay-link-rot-web-archive-deleted-culture)
+ - [Much ado about something: Nothing beats Samsung to stable Android 15](https://www.androidauthority.com/stable-nothing-os-3-0-release-3509900/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
