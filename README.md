@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS Blog Game of the Year 2024: The Winners](https://blog.playstation.com/2024/12/17/ps-blog-game-of-the-year-2024-the-winners/)
- - [Path of Exile 2 passive skill respecs will no longer cost Scrooge McDuck levels of gold](https://www.pcgamer.com/games/rpg/path-of-exile-2-passive-skill-respecs-will-no-longer-cost-scrooge-mcduck-levels-of-gold/)
- - [Tiny Glade&#39;s winter update finally lets me turn my castles into that scene from National Lampoon&#39;s Christmas Vacation](https://www.pcgamer.com/games/city-builder/tiny-glades-winter-update-finally-lets-me-turn-my-castles-into-that-scene-from-national-lampoons-christmas-vacation/)<!-- GAME:END -->
+ - [Intel says &#39;demand for Arc B580 graphics cards is high&#39; but the GPU should be restocked every week](https://www.pcgamer.com/hardware/graphics-cards/intel-says-demand-for-arc-b580-graphics-cards-is-high-but-the-gpu-should-be-restocked-every-week/)
+ - [Fallout&#39;s Tim Cain spent 6 years working on defunct MMO WildStar, twice as long as any other game, and thinks that might have something to do with why it failed](https://www.pcgamer.com/games/mmo/fallouts-tim-cain-spent-6-years-working-on-defunct-mmo-wildstar-twice-as-long-as-any-other-game-and-thinks-that-might-have-something-to-do-with-why-it-failed/)
+ - [One of Path of Exile 2’s toughest bosses gets patched to be less of a buzzkill](https://www.pcgamer.com/games/one-of-path-of-exile-2s-toughest-bosses-gets-patched-to-be-less-of-a-buzzkill/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
