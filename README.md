@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 camera layout may not radically change after all](https://appleinsider.com/articles/24/12/18/iphone-17-range-will-keep-triangular-camera-system-claims-leaker?utm_medium=rss)
- - [The quickly disappearing web](https://www.theverge.com/24321569/internet-decay-link-rot-web-archive-deleted-culture)
- - [Much ado about something: Nothing beats Samsung to stable Android 15](https://www.androidauthority.com/stable-nothing-os-3-0-release-3509900/)<!-- TECH:END -->
+ - [In 2024, hackers stole $2.2B in crypto across 303 hacks, up from $1.8B across 282 hacks in 2023; in H1 2024, $1.58B had been stolen, but the pace slowed in H2 &lpar;Chainalysis&rpar;](http://www.techmeme.com/241219/p20#a241219p20)
+ - [Starlink’s first nationwide satellite texting service launches in New Zealand](https://www.theverge.com/2024/12/19/24324924/starlink-nationwide-satellite-texting-new-zealand-one-nz)
+ - [Apple&#39;s Indonesia iPhone 16 ban drama will probably end with $1 billion investment](https://appleinsider.com/articles/24/12/19/apples-indonesia-iphone-16-ban-drama-will-probably-end-with-1-billion-investment?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
