@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/aGyzEdK)
- - 🚯 [The state of gaming](http://9gag.com/gag/aW4gg5A)
- - 🚯 [Its not young people...its....](http://9gag.com/gag/aLnv1pz)<!-- MEMES:END -->
+ - 🚖 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
+ - 🚯 [Even us Asians are afraid of female Asian driving](http://9gag.com/gag/aByny3x)
+ - 🚯 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)<!-- MEMES:END -->
 
 --- 
 
