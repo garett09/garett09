@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel says &#39;demand for Arc B580 graphics cards is high&#39; but the GPU should be restocked every week](https://www.pcgamer.com/hardware/graphics-cards/intel-says-demand-for-arc-b580-graphics-cards-is-high-but-the-gpu-should-be-restocked-every-week/)
- - [Fallout&#39;s Tim Cain spent 6 years working on defunct MMO WildStar, twice as long as any other game, and thinks that might have something to do with why it failed](https://www.pcgamer.com/games/mmo/fallouts-tim-cain-spent-6-years-working-on-defunct-mmo-wildstar-twice-as-long-as-any-other-game-and-thinks-that-might-have-something-to-do-with-why-it-failed/)
- - [One of Path of Exile 2’s toughest bosses gets patched to be less of a buzzkill](https://www.pcgamer.com/games/one-of-path-of-exile-2s-toughest-bosses-gets-patched-to-be-less-of-a-buzzkill/)<!-- GAME:END -->
+ - [The Holiday Sale promotion comes to PlayStation Store](https://blog.playstation.com/2024/12/19/the-holiday-sale-promotion-comes-to-playstation-store-3/)
+ - [The game director of Elden Ring: Nightreign has delivered an ultimatum to gaming couples everywhere: Find a third wheel or play by yourself](https://www.pcgamer.com/games/rpg/the-game-director-of-elden-ring-nightreign-has-delivered-an-ultimatum-to-gaming-couples-everywhere-find-a-third-wheel-or-play-by-yourself/)
+ - [Intel quietly slips out another Raptor Lake refresh with the Core 200-series mobile CPU lineup](https://www.pcgamer.com/hardware/processors/intel-quietly-slips-out-another-raptor-lake-refresh-with-the-core-200-series-mobile-cpu-lineup/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
