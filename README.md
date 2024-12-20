@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japanese journalist interviewing a Latina journalist &lpar;dude almost had a nosebleed like in anime&rpar;](http://9gag.com/gag/axyBWLD)
- - 🚯 [Even us Asians are afraid of female Asian driving](http://9gag.com/gag/aByny3x)
- - 🚯 [A quick swim while parasailing](http://9gag.com/gag/a341ZL8)<!-- MEMES:END -->
+ - 🚖 [Because of AI, many artists are going back to traditional ways](http://9gag.com/gag/aPAZm1V)
+ - 🚯 [New Uber update](http://9gag.com/gag/ayN936X)
+ - 🚯 [Some people should not be on the road](http://9gag.com/gag/aPAZmLQ)<!-- MEMES:END -->
 
 --- 
 
