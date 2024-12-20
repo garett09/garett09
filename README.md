@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Holiday Sale promotion comes to PlayStation Store](https://blog.playstation.com/2024/12/19/the-holiday-sale-promotion-comes-to-playstation-store-3/)
- - [The game director of Elden Ring: Nightreign has delivered an ultimatum to gaming couples everywhere: Find a third wheel or play by yourself](https://www.pcgamer.com/games/rpg/the-game-director-of-elden-ring-nightreign-has-delivered-an-ultimatum-to-gaming-couples-everywhere-find-a-third-wheel-or-play-by-yourself/)
- - [Intel quietly slips out another Raptor Lake refresh with the Core 200-series mobile CPU lineup](https://www.pcgamer.com/hardware/processors/intel-quietly-slips-out-another-raptor-lake-refresh-with-the-core-200-series-mobile-cpu-lineup/)<!-- GAME:END -->
+ - [Multiple Nvidia RTX 50-series placeholders have appeared on the EEC database, although I wouldn&#39;t get too excited about a hypothetical &#39;RTX 5090 Ti Super&#39; if I were you](https://www.pcgamer.com/hardware/graphics-cards/multiple-nvidia-rtx-50-series-placeholders-have-appeared-on-the-eec-database-although-i-wouldnt-get-too-excited-about-a-hypothetical-rtx-5090-ti-super-if-i-were-you/)
+ - [XDefiant&#39;s closing-down content dump is enormous, unprecedented, and bleak](https://www.pcgamer.com/games/fps/xdefiants-closing-down-content-dump-is-enormous-unprecedented-and-bleak/)
+ - [Lenovo is showing off &#39;the future of handheld gaming&#39; next month and Valve being involved could signal it uses SteamOS](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-is-showing-off-the-future-of-handheld-gaming-next-month-and-valve-being-involved-could-signal-it-uses-steamos/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
