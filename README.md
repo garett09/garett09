@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 2024, hackers stole $2.2B in crypto across 303 hacks, up from $1.8B across 282 hacks in 2023; in H1 2024, $1.58B had been stolen, but the pace slowed in H2 &lpar;Chainalysis&rpar;](http://www.techmeme.com/241219/p20#a241219p20)
- - [Starlink’s first nationwide satellite texting service launches in New Zealand](https://www.theverge.com/2024/12/19/24324924/starlink-nationwide-satellite-texting-new-zealand-one-nz)
- - [Apple&#39;s Indonesia iPhone 16 ban drama will probably end with $1 billion investment](https://appleinsider.com/articles/24/12/19/apples-indonesia-iphone-16-ban-drama-will-probably-end-with-1-billion-investment?utm_medium=rss)<!-- TECH:END -->
+ - [16 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
+ - [Senators rip into automakers for selling customer data and blocking right to repair](https://www.theverge.com/2024/12/20/24325236/car-right-to-repair-data-collect-senator-letter)
+ - [The UK ICO criticizes Google&#39;s plans to no longer prohibit companies using its ad products from employing fingerprinting techniques from 16 February 2025 &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/241220/p8#a241220p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
