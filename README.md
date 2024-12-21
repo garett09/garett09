@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Hair Straighteners We Tested &lpar;2024&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
- - [Senators rip into automakers for selling customer data and blocking right to repair](https://www.theverge.com/2024/12/20/24325236/car-right-to-repair-data-collect-senator-letter)
- - [The UK ICO criticizes Google&#39;s plans to no longer prohibit companies using its ad products from employing fingerprinting techniques from 16 February 2025 &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/241220/p8#a241220p8)<!-- TECH:END -->
+ - [December Wildfires Are Now a Thing](https://www.wired.com/story/december-wildfires-are-now-a-thing/)
+ - [How to Manage Food Anxiety Over the Holidays](https://www.wired.com/story/how-to-cope-with-food-anxiety-during-the-festive-season/)
+ - [The 25 Best Movies on Amazon Prime Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
