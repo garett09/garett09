@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [December Wildfires Are Now a Thing](https://www.wired.com/story/december-wildfires-are-now-a-thing/)
- - [How to Manage Food Anxiety Over the Holidays](https://www.wired.com/story/how-to-cope-with-food-anxiety-during-the-festive-season/)
- - [The 25 Best Movies on Amazon Prime Right Now &lpar;December 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
+ - [9 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)
+ - [A new and better way to control your smart home](https://www.theverge.com/2024/12/22/24325938/home-assistant-voice-sonic-3-flipboard-surf-installer)
+ - [How to Change the Default Search Engine in Google Chrome](https://www.wired.com/story/how-to-change-the-default-search-engine-in-google-chrome/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
