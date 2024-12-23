@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Multiple Nvidia RTX 50-series placeholders have appeared on the EEC database, although I wouldn&#39;t get too excited about a hypothetical &#39;RTX 5090 Ti Super&#39; if I were you](https://www.pcgamer.com/hardware/graphics-cards/multiple-nvidia-rtx-50-series-placeholders-have-appeared-on-the-eec-database-although-i-wouldnt-get-too-excited-about-a-hypothetical-rtx-5090-ti-super-if-i-were-you/)
- - [XDefiant&#39;s closing-down content dump is enormous, unprecedented, and bleak](https://www.pcgamer.com/games/fps/xdefiants-closing-down-content-dump-is-enormous-unprecedented-and-bleak/)
- - [Lenovo is showing off &#39;the future of handheld gaming&#39; next month and Valve being involved could signal it uses SteamOS](https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-is-showing-off-the-future-of-handheld-gaming-next-month-and-valve-being-involved-could-signal-it-uses-steamos/)<!-- GAME:END -->
+ - [OneXPlayer OneXFly F1 Pro review](https://www.pcgamer.com/hardware/handheld-gaming-pcs/onexplayer-onexfly-f1-pro-review/)
+ - [Fallout&#39;s original designer is fine with the direction of the modern games: &#39;They&#39;re both what they are, and a ton of people like it&#39;](https://www.pcgamer.com/games/fallout/fallouts-original-designer-is-fine-with-the-direction-of-the-modern-games-theyre-both-what-they-are-and-a-ton-of-people-like-it/)
+ - [Ready or Not&#39;s Dark Waters DLC has some cracking maps and scarily intelligent AI suspects that managed to outsmart me at almost every turn](https://www.pcgamer.com/games/fps/ready-or-nots-dark-waters-dlc-has-some-cracking-maps-and-scarily-intelligent-ai-suspects-that-managed-to-outsmart-me-at-almost-every-turn/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
