@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Because of AI, many artists are going back to traditional ways](http://9gag.com/gag/aPAZm1V)
- - 🚯 [New Uber update](http://9gag.com/gag/ayN936X)
- - 🚯 [Some people should not be on the road](http://9gag.com/gag/aPAZmLQ)<!-- MEMES:END -->
+ - 🚖 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
+ - 🚯 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
+ - 🚯 [Poor donkey](http://9gag.com/gag/a871KPd)<!-- MEMES:END -->
 
 --- 
 
