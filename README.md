@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [McLaren Artura review: a plug-in hybrid for the 1 percent](https://www.theverge.com/2024/12/23/24325168/mclaren-artura-review-hybrid-specs-price)
- - [Sources: Meta plans to add displays to its Ray-Ban glasses as soon as H2 2025 to show notifications or AI responses, and has accelerated Orion&#39;s development &lpar;Financial Times&rpar;](http://www.techmeme.com/241223/p9#a241223p9)
- - [Honda and Nissan plan to merge as we enter the age of electric cars](https://www.theverge.com/2024/12/23/24327946/honda-nissan-mitsubishi-merger-deal-plans-2026)<!-- TECH:END -->
+ - [Home Is Where the Couch Is: Photos by Natcha Wongchanglaw](https://www.wired.com/story/home-is-where-the-couch-is-photos-by-natcha-wongchanglaw/)
+ - [American Airlines ‘technical issue’ grounds flights across the US](https://www.theverge.com/2024/12/24/24328745/american-airlines-flights-grounded-christmas-eve-systems-issues)
+ - [Arizona&#39;s Maricopa County is set to have the second largest concentration of US data centers by 2028, as the state races to increase electricity production &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/241224/p13#a241224p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
