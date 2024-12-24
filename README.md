@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cate Blanchett and her husband](http://9gag.com/gag/aW4gRYx)
- - 🚯 [Avada Kedavra](http://9gag.com/gag/abAgdq8)
- - 🚯 [Poor donkey](http://9gag.com/gag/a871KPd)<!-- MEMES:END -->
+ - 🚖 [Tinkerbell](http://9gag.com/gag/aE08E0x)
+ - 🚯 [Iron? I barely fold. Everything is on hangers](http://9gag.com/gag/abAgLXv)
+ - 🚯 [Even the actors are ashamed of The Witcher](http://9gag.com/gag/an7gd8V)<!-- MEMES:END -->
 
 --- 
 
