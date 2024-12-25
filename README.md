@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tinkerbell](http://9gag.com/gag/aE08E0x)
- - 🚯 [Iron? I barely fold. Everything is on hangers](http://9gag.com/gag/abAgLXv)
- - 🚯 [Even the actors are ashamed of The Witcher](http://9gag.com/gag/an7gd8V)<!-- MEMES:END -->
+ - 🚖 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
+ - 🚯 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
+ - 🚯 [So satisfying](http://9gag.com/gag/aD2Drow)<!-- MEMES:END -->
 
 --- 
 
