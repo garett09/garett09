@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Home Is Where the Couch Is: Photos by Natcha Wongchanglaw](https://www.wired.com/story/home-is-where-the-couch-is-photos-by-natcha-wongchanglaw/)
- - [American Airlines ‘technical issue’ grounds flights across the US](https://www.theverge.com/2024/12/24/24328745/american-airlines-flights-grounded-christmas-eve-systems-issues)
- - [Arizona&#39;s Maricopa County is set to have the second largest concentration of US data centers by 2028, as the state races to increase electricity production &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/241224/p13#a241224p13)<!-- TECH:END -->
+ - [11 Best Beard Trimmers &lpar;2024&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)
+ - [Taiwan&#39;s FTC blocks Uber&#39;s $950M acquisition of Delivery Hero&#39;s Foodpanda, arguing it would decrease competition as their combined market share would be 90%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241225/p7#a241225p7)
+ - [10 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
