@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot&#39;s co-founder says money isn&#39;t everything: &#39;People think we make things like Arcane to sell skins when in reality, we sell skins to make things like Arcane&#39;](https://www.pcgamer.com/movies-tv/riots-co-founder-says-money-isnt-everything-people-think-we-make-things-like-arcane-to-sell-skins-when-in-reality-we-sell-skins-to-make-things-like-arcane/)
- - [Final Fantasy 14&#39;s battle designer admits they went a little overboard on streamlining fights, especially for melee: &#39;Our policy of reducing gameplay-related frustrations was sometimes taken too far&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-battle-designer-admits-they-went-a-little-overboard-on-streamlining-fights-especially-for-melee-our-policy-of-reducing-gameplay-related-frustrations-was-sometimes-taken-too-far/)
- - [How to get started with The Finals: 7 tips you need to know](https://www.pcgamer.com/games/fps/how-to-get-started-with-the-finals-7-tips-you-need-to-know/)<!-- GAME:END -->
+ - [The 25 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [Depersonalization is an RPG out of China that feels like it never stops getting deeper, once you figure out how to set it to English](https://www.pcgamer.com/games/rpg/depersonalization-is-an-rpg-out-of-china-that-feels-like-it-never-stops-getting-deeper-once-you-figure-out-how-to-set-it-to-english/)
+ - [Today&#39;s Wordle answer for Wednesday, December 25](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-25-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
