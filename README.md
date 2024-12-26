@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Beard Trimmers &lpar;2024&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)
- - [Taiwan&#39;s FTC blocks Uber&#39;s $950M acquisition of Delivery Hero&#39;s Foodpanda, arguing it would decrease competition as their combined market share would be 90%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/241225/p7#a241225p7)
- - [10 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)<!-- TECH:END -->
+ - [Bluesky launches a Trending Topics feature in beta on its desktop and mobile apps in English, and says users&#39; muted words will transfer to Trending &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241226/p7#a241226p7)
+ - [How to change what the iPhone 16 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_medium=rss)
+ - [Samsung HW-Q990D Review: Atmos Tested, Gamer Approved](https://www.wired.com/review/samsung-hw-q990d/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
