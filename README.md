@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Merry Christmas you filthy animals.](http://9gag.com/gag/aBynNGZ)
- - 🚯 [Honey Founders George Ruan, Ryan Hudson. Honey has been scamming people for millions of dollars. Mama Mia](http://9gag.com/gag/amogb6j)
- - 🚯 [So satisfying](http://9gag.com/gag/aD2Drow)<!-- MEMES:END -->
+ - 🚖 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
+ - 🚯 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
+ - 🚯 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)<!-- MEMES:END -->
 
 --- 
 
