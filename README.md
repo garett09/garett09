@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky launches a Trending Topics feature in beta on its desktop and mobile apps in English, and says users&#39; muted words will transfer to Trending &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/241226/p7#a241226p7)
- - [How to change what the iPhone 16 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_medium=rss)
- - [Samsung HW-Q990D Review: Atmos Tested, Gamer Approved](https://www.wired.com/review/samsung-hw-q990d/)<!-- TECH:END -->
+ - [OpenAI says its board of directors is evaluating its corporate structure, including a plan to turn its for-profit arm into a Delaware Public Benefit Corporation &lpar;OpenAI&rpar;](http://www.techmeme.com/241227/p3#a241227p3)
+ - [Got a new PS5? Here are 8 things you should do first](https://www.androidauthority.com/new-ps5-guide-1187853/)
+ - [17 Best Smart Home Lighting &lpar;2024&rpar;: Decorative Panels, LED Strips, and Ambient Lamps](https://www.wired.com/gallery/best-smart-lighting/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
