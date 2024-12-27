@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This YouTube scientist makes knives out of random stuff and it’s mesmerizing](https://www.polygon.com/yuletide-youtube/486629/youtube-knifemaking-channel-kiwam-japan)
- - [All the Squid Game season 3 news we’ve heard so far](https://www.polygon.com/tv/501009/squid-game-season-3-release-date-cast-news)
- - [Giratina counters, weakness, and best moveset in Pokémon Go](https://www.polygon.com/pokemon-go-guide/22574454/giratina-raid-best-moveset-weakness-origin-altered-counters-raid-shiny-forms)<!-- GAME:END -->
+ - [Homestar Runner is on YouTube now, so you should rewatch the absurdity of Teen Girl Squad](https://www.polygon.com/yuletide-youtube/498222/watch-teen-girl-squad-strong-bad-homestar-runner)
+ - [Today&#39;s Wordle answer for Friday, December 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-December-27-2024/)
+ - [Naughty Dog co-founder says ‘ballooning budgets’ drove it to a Sony acquisition](https://www.polygon.com/gaming/502300/naughty-dog-sony-acquisition-video-game-budgets)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
