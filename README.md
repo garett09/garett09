@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I saw some wild shit as a kid](http://9gag.com/gag/ajPgvyg)
- - 🚯 [He needs that Disney cash](http://9gag.com/gag/avyAqZq)
- - 🚯 [I need an explanation to increase my weird knowledge](http://9gag.com/gag/aBynbEz)<!-- MEMES:END -->
+ - 🚖 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 🚯 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
+ - 🚯 [Hot hot](http://9gag.com/gag/aqyGwKY)<!-- MEMES:END -->
 
 --- 
 
