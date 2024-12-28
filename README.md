@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says its board of directors is evaluating its corporate structure, including a plan to turn its for-profit arm into a Delaware Public Benefit Corporation &lpar;OpenAI&rpar;](http://www.techmeme.com/241227/p3#a241227p3)
- - [Got a new PS5? Here are 8 things you should do first](https://www.androidauthority.com/new-ps5-guide-1187853/)
- - [17 Best Smart Home Lighting &lpar;2024&rpar;: Decorative Panels, LED Strips, and Ambient Lamps](https://www.wired.com/gallery/best-smart-lighting/)<!-- TECH:END -->
+ - [Kindle Scribe &lpar;2024&rpar; review: nothing to write home about](https://www.theverge.com/2024/12/28/24328287/amazon-kindle-scribe-2024-e-reader-notetaking-pen-review)
+ - [14 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
+ - [Apple Watch Series 10 vs. Series 9: Don&#39;t Buy the Wrong One](https://www.cnet.com/tech/mobile/apple-watch-series-10-vs-series-9-dont-buy-the-wrong-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
