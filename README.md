@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The way it crept down. Slow and sinister.](http://9gag.com/gag/aD2DydN)
+ - 🚖 [Gift](http://9gag.com/gag/azxenrN)
  - 🚯 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
- - 🚯 [Hot hot](http://9gag.com/gag/aqyGwKY)<!-- MEMES:END -->
+ - 🚯 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)<!-- MEMES:END -->
 
 --- 
 
