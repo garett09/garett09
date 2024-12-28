@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Homestar Runner is on YouTube now, so you should rewatch the absurdity of Teen Girl Squad](https://www.polygon.com/yuletide-youtube/498222/watch-teen-girl-squad-strong-bad-homestar-runner)
- - [Today&#39;s Wordle answer for Friday, December 27](https://www.pcgamer.com/games/puzzle/wordle-answer-today-December-27-2024/)
- - [Naughty Dog co-founder says ‘ballooning budgets’ drove it to a Sony acquisition](https://www.polygon.com/gaming/502300/naughty-dog-sony-acquisition-video-game-budgets)<!-- GAME:END -->
+ - [The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of December 2024](https://www.polygon.com/what-to-watch/501409/best-movies-netflix-amazon-criterion-leaving-december-2024)
+ - [Today&#39;s Wordle answer for Saturday, December 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-28-2024/)
+ - [Some madperson briefly, beautifully recreated the corrupted blood plague in World of Warcraft Classic](https://www.pcgamer.com/games/mmo/some-madperson-briefly-beautifully-recreated-the-corrupted-blood-plague-in-world-of-warcraft-classic/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
