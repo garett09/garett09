@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of December 2024](https://www.polygon.com/what-to-watch/501409/best-movies-netflix-amazon-criterion-leaving-december-2024)
- - [Today&#39;s Wordle answer for Saturday, December 28](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-28-2024/)
- - [Some madperson briefly, beautifully recreated the corrupted blood plague in World of Warcraft Classic](https://www.pcgamer.com/games/mmo/some-madperson-briefly-beautifully-recreated-the-corrupted-blood-plague-in-world-of-warcraft-classic/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, December 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-29-2024/)
+ - [If you ever wanted a game about digging a hole, A Game About Digging A Hole is a game about digging a hole](https://www.pcgamer.com/games/sim/if-you-ever-wanted-a-game-about-digging-a-hole-a-game-about-digging-a-hole-is-a-game-about-digging-a-hole/)
+ - [Nearly 19,000 games released on Steam in 2024](https://www.pcgamer.com/games/nearly-19-000-games-released-on-steam-in-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
