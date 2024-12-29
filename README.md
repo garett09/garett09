@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kindle Scribe &lpar;2024&rpar; review: nothing to write home about](https://www.theverge.com/2024/12/28/24328287/amazon-kindle-scribe-2024-e-reader-notetaking-pen-review)
- - [14 Best USB Flash Drives &lpar;2024&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
- - [Apple Watch Series 10 vs. Series 9: Don&#39;t Buy the Wrong One](https://www.cnet.com/tech/mobile/apple-watch-series-10-vs-series-9-dont-buy-the-wrong-one/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Kindle Accessories &lpar;2024&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)
+ - [These are our favorite reader-created Android wallpapers of 2024](https://www.androidauthority.com/best-android-wallpapers-2024-3509394/)
+ - [Best Internet Providers in Torrance, California](https://www.cnet.com/home/internet/best-internet-providers-in-torrance-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
