@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gift](http://9gag.com/gag/azxenrN)
- - 🚯 [It&#39;s never the skin color](http://9gag.com/gag/aNDPNob)
- - 🚯 [Poor Maryjane\u2026](http://9gag.com/gag/aYQr36V)<!-- MEMES:END -->
+ - 🚖 [Found a plot hole](http://9gag.com/gag/aLnvydW)
+ - 🚯 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
+ - 🚯 [Real fear](http://9gag.com/gag/aVvbjXw)<!-- MEMES:END -->
 
 --- 
 
