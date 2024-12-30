@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, December 29](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-29-2024/)
- - [If you ever wanted a game about digging a hole, A Game About Digging A Hole is a game about digging a hole](https://www.pcgamer.com/games/sim/if-you-ever-wanted-a-game-about-digging-a-hole-a-game-about-digging-a-hole-is-a-game-about-digging-a-hole/)
- - [Nearly 19,000 games released on Steam in 2024](https://www.pcgamer.com/games/nearly-19-000-games-released-on-steam-in-2024/)<!-- GAME:END -->
+ - [Forget Yule logs, you want 12 hours of lo-fi shrimp to relax to](https://www.polygon.com/yuletide-youtube/498488/chill-aquarium-streams-monterey-bay)
+ - [Today&#39;s Wordle answer for Monday, December 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-30-2024/)
+ - [Rule the talking movie industry in tycoon game Hollywood Animal](https://www.pcgamer.com/games/sim/rule-the-talking-movie-industry-in-tycoon-game-hollywood-animal/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
