@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Found a plot hole](http://9gag.com/gag/aLnvydW)
- - 🚯 [Bastards could fly all along, they just lazy](http://9gag.com/gag/aNDPyvb)
- - 🚯 [Real fear](http://9gag.com/gag/aVvbjXw)<!-- MEMES:END -->
+ - 🚖 [Yesterday, Peru](http://9gag.com/gag/an7zqj5)
+ - 🚯 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
+ - 🚯 [She saved John Wick](http://9gag.com/gag/adBP6dN)<!-- MEMES:END -->
 
 --- 
 
