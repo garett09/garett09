@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Kindle Accessories &lpar;2024&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)
- - [These are our favorite reader-created Android wallpapers of 2024](https://www.androidauthority.com/best-android-wallpapers-2024-3509394/)
- - [Best Internet Providers in Torrance, California](https://www.cnet.com/home/internet/best-internet-providers-in-torrance-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Steam Deck has finally been surpassed — by a fork of Valve’s own experience](https://www.theverge.com/2024/12/30/24329005/bazzite-asus-rog-ally-x-steam-os-editorial)
+ - [Ibiden CEO Koji Kawashima says the 112-year-old company, a dominant supplier of chip package substrates to Nvidia, may need to boost capacity due to AI demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p12#a241230p12)
+ - [WIRED’s 2024 Year-in-Review Quiz: From AI Slop to Human Brain Implants](https://www.wired.com/story/2024-year-in-review-quiz/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
