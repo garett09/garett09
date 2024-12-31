@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yesterday, Peru](http://9gag.com/gag/an7zqj5)
- - 🚯 [Women will tell on themselves when you allow them to speak](http://9gag.com/gag/a1mPZev)
- - 🚯 [She saved John Wick](http://9gag.com/gag/adBP6dN)<!-- MEMES:END -->
+ - 🚖 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
+ - 🚯 [What could have been](http://9gag.com/gag/axyoZjM)
+ - 🚯 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)<!-- MEMES:END -->
 
 --- 
 
