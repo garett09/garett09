@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget Yule logs, you want 12 hours of lo-fi shrimp to relax to](https://www.polygon.com/yuletide-youtube/498488/chill-aquarium-streams-monterey-bay)
- - [Today&#39;s Wordle answer for Monday, December 30](https://www.pcgamer.com/games/puzzle/wordle-answer-today-december-30-2024/)
- - [Rule the talking movie industry in tycoon game Hollywood Animal](https://www.pcgamer.com/games/sim/rule-the-talking-movie-industry-in-tycoon-game-hollywood-animal/)<!-- GAME:END -->
+ - [Defunctland’s Disney park videos are so good, I had to ration them out](https://www.polygon.com/yuletide-youtube/485365/yuletide-youtube-defunctland-american-idol)
+ - [Every movie and show coming to Netflix in January](https://www.polygon.com/entertainment/494357/new-on-netflix-january-2025-movies-tv-to-watch)
+ - [Next year I actually want more games willing to waste my time](https://www.pcgamer.com/games/next-year-i-actually-want-more-games-willing-to-waste-my-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
