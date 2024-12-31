@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Steam Deck has finally been surpassed — by a fork of Valve’s own experience](https://www.theverge.com/2024/12/30/24329005/bazzite-asus-rog-ally-x-steam-os-editorial)
- - [Ibiden CEO Koji Kawashima says the 112-year-old company, a dominant supplier of chip package substrates to Nvidia, may need to boost capacity due to AI demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/241230/p12#a241230p12)
- - [WIRED’s 2024 Year-in-Review Quiz: From AI Slop to Human Brain Implants](https://www.wired.com/story/2024-year-in-review-quiz/)<!-- TECH:END -->
+ - [The 20 Most Anticipated Movies of 2025](https://www.wired.com/story/most-anticipated-movies-of-2025/)
+ - [Alibaba cuts prices on its visual language model Qwen-VL by up to 85%, after cutting Qwen prices by as much as 97% in May, amid growing AI competition in China &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241231/p8#a241231p8)
+ - [Montenegro extradites Terraform Labs co-founder Do Kwon to the US; South Korea also sought Do Kwon&#39;s extradition &lpar;Reuters&rpar;](http://www.techmeme.com/241231/p7#a241231p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
