@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Defunctland’s Disney park videos are so good, I had to ration them out](https://www.polygon.com/yuletide-youtube/485365/yuletide-youtube-defunctland-american-idol)
- - [Every movie and show coming to Netflix in January](https://www.polygon.com/entertainment/494357/new-on-netflix-january-2025-movies-tv-to-watch)
- - [Next year I actually want more games willing to waste my time](https://www.pcgamer.com/games/next-year-i-actually-want-more-games-willing-to-waste-my-time/)<!-- GAME:END -->
+ - [What are Elden Ring’s soft caps for all stats in 2025?](https://www.polygon.com/elden-ring-guide-walkthrough/24185164/soft-caps-stats-strength-vigor-endurance-arcane)
+ - [Pokémon Go raid schedule for January 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
+ - [FFXIV housing lottery schedule for January 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
