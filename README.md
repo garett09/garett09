@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girls cant steal in London anymore](http://9gag.com/gag/amoA8x9)
- - 🚯 [What could have been](http://9gag.com/gag/axyoZjM)
- - 🚯 [Sri Lanka has the lowest gravity on the planet &lpar;blue&rpar;](http://9gag.com/gag/aO8xqMN)<!-- MEMES:END -->
+ - 🚖 [People reacting to the new Japanese Maglev bullet train passing right by them during a test run.](http://9gag.com/gag/aAy0PZE)
+ - 🚯 [Based](http://9gag.com/gag/aGyEx7X)
+ - 🚯 [Gf didn&#39;t have time to buy me a present](http://9gag.com/gag/aAy0dY2)<!-- MEMES:END -->
 
 --- 
 
