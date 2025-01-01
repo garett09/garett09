@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 20 Most Anticipated Movies of 2025](https://www.wired.com/story/most-anticipated-movies-of-2025/)
- - [Alibaba cuts prices on its visual language model Qwen-VL by up to 85%, after cutting Qwen prices by as much as 97% in May, amid growing AI competition in China &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/241231/p8#a241231p8)
- - [Montenegro extradites Terraform Labs co-founder Do Kwon to the US; South Korea also sought Do Kwon&#39;s extradition &lpar;Reuters&rpar;](http://www.techmeme.com/241231/p7#a241231p7)<!-- TECH:END -->
+ - [Our Favorite Fitness Apps for 2025, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-apps-and-services/)
+ - [Is Sleep’s Dopesmoker still the heaviest album of all time?](https://www.theverge.com/2025/1/1/24333190/heavier-than-dopesmoker)
+ - [Alibaba sells Sun Art Retail stake to PE firm DCP for ~$1.6B, after paying ~$3.6B in 2020 to double the stake to 70%+, as it focuses on its core online business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250101/p5#a250101p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
