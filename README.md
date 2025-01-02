@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What are Elden Ring’s soft caps for all stats in 2025?](https://www.polygon.com/elden-ring-guide-walkthrough/24185164/soft-caps-stats-strength-vigor-endurance-arcane)
- - [Pokémon Go raid schedule for January 2025’s Legendary and Mega Pokémon](https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star)
- - [FFXIV housing lottery schedule for January 2025](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period)<!-- GAME:END -->
+ - [Twitter is dead, X is a cesspit, let&#39;s make 2025 the year of the message board](https://www.pcgamer.com/gaming-industry/twitter-is-dead-x-is-a-cesspit-lets-make-2025-the-year-of-the-message-board/)
+ - [A debloating wizard has managed to get Windows 11 running on just 184 MB of RAM, and it looks like it can actually run apps](https://www.pcgamer.com/software/windows/a-debloating-wizard-has-managed-to-get-windows-11-running-on-just-184-mb-of-ram-and-it-looks-like-it-can-actually-run-apps/)
+ - [Xbox Series X|S – Every Console Option Available Now](https://news.xbox.com/en-us/2024/11/15/xbox-series-xs-every-console-option-available-now/#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
