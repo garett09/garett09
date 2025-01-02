@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People reacting to the new Japanese Maglev bullet train passing right by them during a test run.](http://9gag.com/gag/aAy0PZE)
- - 🚯 [Based](http://9gag.com/gag/aGyEx7X)
- - 🚯 [Gf didn&#39;t have time to buy me a present](http://9gag.com/gag/aAy0dY2)<!-- MEMES:END -->
+ - 🚖 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
+ - 🚯 [What was that?](http://9gag.com/gag/avyQnzX)
+ - 🚯 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)<!-- MEMES:END -->
 
 --- 
 
