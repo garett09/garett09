@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Fitness Apps for 2025, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-apps-and-services/)
- - [Is Sleep’s Dopesmoker still the heaviest album of all time?](https://www.theverge.com/2025/1/1/24333190/heavier-than-dopesmoker)
- - [Alibaba sells Sun Art Retail stake to PE firm DCP for ~$1.6B, after paying ~$3.6B in 2020 to double the stake to 70%+, as it focuses on its core online business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250101/p5#a250101p5)<!-- TECH:END -->
+ - [While the crypto industry anticipates lighter regulation and wider adoption under Trump, some critics worry about systemic risks, particularly from stablecoins &lpar;Financial Times&rpar;](http://www.techmeme.com/250102/p8#a250102p8)
+ - [Samsung bets big on OLED and gaming with its 2025 monitor lineup](https://www.theverge.com/2025/1/2/24334067/samsung-odyssey-g8-g6-3d-smart-monitor-m9-specs)
+ - [Asus, Samsung, and MSI announce world’s first 27-inch 4K OLED 240Hz monitors](https://www.theverge.com/2025/1/2/24334049/asus-samsung-msi-27-inch-4k-oled-240hz-monitors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
