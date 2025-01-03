@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [While the crypto industry anticipates lighter regulation and wider adoption under Trump, some critics worry about systemic risks, particularly from stablecoins &lpar;Financial Times&rpar;](http://www.techmeme.com/250102/p8#a250102p8)
- - [Samsung bets big on OLED and gaming with its 2025 monitor lineup](https://www.theverge.com/2025/1/2/24334067/samsung-odyssey-g8-g6-3d-smart-monitor-m9-specs)
- - [Asus, Samsung, and MSI announce world’s first 27-inch 4K OLED 240Hz monitors](https://www.theverge.com/2025/1/2/24334049/asus-samsung-msi-27-inch-4k-oled-240hz-monitors)<!-- TECH:END -->
+ - [15 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
+ - [Weak iPad Pro sales prompt OLED supplier to switch to making more iPhone screens](https://appleinsider.com/articles/25/01/03/weak-ipad-pro-sales-prompt-oled-supplier-to-switch-to-making-more-iphone-screens?utm_medium=rss)
+ - [Foreign smartphone shipments, including iPhones, to China fell 47.4% YoY in November, following a 44.25% YoY drop in October, marking four months of decline &lpar;Reuters&rpar;](http://www.techmeme.com/250103/p5#a250103p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
