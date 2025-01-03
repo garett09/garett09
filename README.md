@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ponytail blade](http://9gag.com/gag/a9yqrrZ)
- - 🚯 [What was that?](http://9gag.com/gag/avyQnzX)
- - 🚯 [Okay, lets share a secret. Who was your first boner?](http://9gag.com/gag/a87qp73)<!-- MEMES:END -->
+ - 🚖 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
+ - 🚯 [Eww](http://9gag.com/gag/an7z52b)
+ - 🚯 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)<!-- MEMES:END -->
 
 --- 
 
