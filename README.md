@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitter is dead, X is a cesspit, let&#39;s make 2025 the year of the message board](https://www.pcgamer.com/gaming-industry/twitter-is-dead-x-is-a-cesspit-lets-make-2025-the-year-of-the-message-board/)
- - [A debloating wizard has managed to get Windows 11 running on just 184 MB of RAM, and it looks like it can actually run apps](https://www.pcgamer.com/software/windows/a-debloating-wizard-has-managed-to-get-windows-11-running-on-just-184-mb-of-ram-and-it-looks-like-it-can-actually-run-apps/)
- - [Xbox Series X|S – Every Console Option Available Now](https://news.xbox.com/en-us/2024/11/15/xbox-series-xs-every-console-option-available-now/#new_tab)<!-- GAME:END -->
+ - [Has Hollywood finally cracked video game adaptations? 2025 will be a big test](https://www.polygon.com/gaming/500409/2025-video-game-movies-tv-shows-release-dates)
+ - [The Secret Level creator wants you to know that they did ask Halo to take part in the series, but Microsoft turned them down: &#39;Man, you think we didn&#39;t talk to Halo?&#39;](https://www.pcgamer.com/movies-tv/the-secret-level-creator-wants-you-to-know-that-they-did-ask-halo-to-take-part-in-the-series-but-microsoft-turned-them-down-man-you-think-we-didnt-talk-to-halo/)
+ - [Defending a kinda wimpy Killzone crossover gun, Helldivers 2&#39;s Johan Pilestedt says the game&#39;s past balance woes were due to weapons being &#39;seen as game objects&#39; and that &#39;balance doesn&#39;t matter&#39;](https://www.pcgamer.com/games/third-person-shooter/defending-a-kinda-wimpy-killzone-crossover-gun-helldivers-2s-johan-pilestedt-says-the-games-past-balance-woes-were-due-to-weapons-being-seen-as-game-objects-and-that-balance-doesnt-matter/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
