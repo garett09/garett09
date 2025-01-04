@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Has Hollywood finally cracked video game adaptations? 2025 will be a big test](https://www.polygon.com/gaming/500409/2025-video-game-movies-tv-shows-release-dates)
- - [The Secret Level creator wants you to know that they did ask Halo to take part in the series, but Microsoft turned them down: &#39;Man, you think we didn&#39;t talk to Halo?&#39;](https://www.pcgamer.com/movies-tv/the-secret-level-creator-wants-you-to-know-that-they-did-ask-halo-to-take-part-in-the-series-but-microsoft-turned-them-down-man-you-think-we-didnt-talk-to-halo/)
- - [Defending a kinda wimpy Killzone crossover gun, Helldivers 2&#39;s Johan Pilestedt says the game&#39;s past balance woes were due to weapons being &#39;seen as game objects&#39; and that &#39;balance doesn&#39;t matter&#39;](https://www.pcgamer.com/games/third-person-shooter/defending-a-kinda-wimpy-killzone-crossover-gun-helldivers-2s-johan-pilestedt-says-the-games-past-balance-woes-were-due-to-weapons-being-seen-as-game-objects-and-that-balance-doesnt-matter/)<!-- GAME:END -->
+ - [The best movies new to streaming this January](https://www.polygon.com/what-to-watch/502692/best-new-movies-netflix-amazon-prime-max-hulu-january-2025)
+ - [Today&#39;s Wordle answer for Saturday, January 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-4-2025/)
+ - [Pokémon Go ‘Fidough Fetch’ event guide](https://www.polygon.com/pokemon-go-guide/503798/fidough-fetch-global-challenge-rewards-field-research)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
