@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First time i see trash on the streets of Japan, any theories?](http://9gag.com/gag/aPAgYgP)
- - 🚯 [Eww](http://9gag.com/gag/an7z52b)
- - 🚯 [Kids admiring bike](http://9gag.com/gag/a7oqr0w)<!-- MEMES:END -->
+ - 🚖 [I spot a pattern](http://9gag.com/gag/aMVExyX)
+ - 🚯 [Be the reason](http://9gag.com/gag/azx2m3x)
+ - 🚯 [The culture of Goat Bangers](http://9gag.com/gag/agmo5eK)<!-- MEMES:END -->
 
 --- 
 
