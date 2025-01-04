@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [Weak iPad Pro sales prompt OLED supplier to switch to making more iPhone screens](https://appleinsider.com/articles/25/01/03/weak-ipad-pro-sales-prompt-oled-supplier-to-switch-to-making-more-iphone-screens?utm_medium=rss)
- - [Foreign smartphone shipments, including iPhones, to China fell 47.4% YoY in November, following a 44.25% YoY drop in October, marking four months of decline &lpar;Reuters&rpar;](http://www.techmeme.com/250103/p5#a250103p5)<!-- TECH:END -->
+ - [Take Part in Veganuary and You Might See Yourself Differently](https://www.wired.com/story/does-taking-part-in-veganuary-put-people-off-meat-in-the-long-term-heres-what-the-evidence-shows/)
+ - [Climate group that called for Gaza ceasefire risks losing federal funding](https://www.theverge.com/2025/1/4/24326092/biden-epa-delays-environmental-justice-funding-gaza)
+ - [Religious leaders are experimenting with AI, spurring an industry of faith-based tech companies that offer AI tools to do theological research and write sermons &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/250104/p5#a250104p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
