@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take Part in Veganuary and You Might See Yourself Differently](https://www.wired.com/story/does-taking-part-in-veganuary-put-people-off-meat-in-the-long-term-heres-what-the-evidence-shows/)
- - [Climate group that called for Gaza ceasefire risks losing federal funding](https://www.theverge.com/2025/1/4/24326092/biden-epa-delays-environmental-justice-funding-gaza)
- - [Religious leaders are experimenting with AI, spurring an industry of faith-based tech companies that offer AI tools to do theological research and write sermons &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/250104/p5#a250104p5)<!-- TECH:END -->
+ - [AlphaTheta DDJ-FLX2 Review: A Great Entry-Level DJ Controller](https://www.wired.com/review/akphtatheta-ddj-flx2/)
+ - [United Airlines now says first flights with Starlink Wi-Fi will take off spring 2025](https://www.theverge.com/2025/1/5/24332356/united-starlink-wifi-flights-spring-2025)
+ - [The UK CMA is testing an AI tool to help catch companies that collude when bidding for public contracts, amid a &quot;significant risk of bid-rigging&quot; by contractors &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/250105/p5#a250105p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
