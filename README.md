@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I spot a pattern](http://9gag.com/gag/aMVExyX)
- - 🚯 [Be the reason](http://9gag.com/gag/azx2m3x)
- - 🚯 [The culture of Goat Bangers](http://9gag.com/gag/agmo5eK)<!-- MEMES:END -->
+ - 🚖 [CAN THERE BE ANYTHING MORE EXCITING THAN FINDING GOLD COINS UNDER THE OCEAN? One thousand years under salt water does nothing to this noble metal.](http://9gag.com/gag/aLn1wXv)
+ - 🚯 [Man made horrors coming to you soon](http://9gag.com/gag/arymnAV)
+ - 🚯 [Why It&#39;s A Good Idea To Have A Dash Cam-People trying to scam ~S~](http://9gag.com/gag/a7oqqOw)<!-- MEMES:END -->
 
 --- 
 
