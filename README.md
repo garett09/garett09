@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies new to streaming this January](https://www.polygon.com/what-to-watch/502692/best-new-movies-netflix-amazon-prime-max-hulu-january-2025)
- - [Today&#39;s Wordle answer for Saturday, January 4](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-4-2025/)
- - [Pokémon Go ‘Fidough Fetch’ event guide](https://www.polygon.com/pokemon-go-guide/503798/fidough-fetch-global-challenge-rewards-field-research)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer for Sunday, January 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-5-2025/)
+ - [Pokémon Go Sprigatito Community Day guide](https://www.polygon.com/pokemon-go-guide/503810/sprigatito-community-day-event-shiny-moveset-floragato-meowscarada)
+ - [If you want Fallout: New Vegas to look a little more lived-in, these mods have you covered](https://www.pcgamer.com/games/rpg/if-you-want-fallout-new-vegas-to-look-a-little-more-lived-in-these-mods-have-you-covered/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
