@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer for Sunday, January 5](https://www.pcgamer.com/games/puzzle/wordle-answer-today-january-5-2025/)
- - [Pokémon Go Sprigatito Community Day guide](https://www.polygon.com/pokemon-go-guide/503810/sprigatito-community-day-event-shiny-moveset-floragato-meowscarada)
- - [If you want Fallout: New Vegas to look a little more lived-in, these mods have you covered](https://www.pcgamer.com/games/rpg/if-you-want-fallout-new-vegas-to-look-a-little-more-lived-in-these-mods-have-you-covered/)<!-- GAME:END -->
+ - [2025 is PC gaming’s victory lap](https://www.polygon.com/gaming/500266/pc-gaming-mainstream-console-comparison-2025)
+ - [Corsair rolls out its first CUDIMM memory sticks for Intel Arrow Lake gaming PCs and they&#39;re as pricey as you&#39;d expect them to be](https://www.pcgamer.com/hardware/memory/corsair-rolls-out-its-first-cudimm-memory-sticks-for-intel-arrow-lake-gaming-pcs-and-theyre-as-pricey-as-youd-expect-them-to-be/)
+ - [Hero modders take a break from their 25-year quest to make the rest of Morrowind to make the Oblivion we should have got instead](https://www.pcgamer.com/games/the-elder-scrolls/hero-modders-take-a-break-from-their-25-year-quest-to-make-the-rest-of-morrowind-to-make-the-oblivion-we-should-have-got-instead/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
