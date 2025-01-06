@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AlphaTheta DDJ-FLX2 Review: A Great Entry-Level DJ Controller](https://www.wired.com/review/akphtatheta-ddj-flx2/)
- - [United Airlines now says first flights with Starlink Wi-Fi will take off spring 2025](https://www.theverge.com/2025/1/5/24332356/united-starlink-wifi-flights-spring-2025)
- - [The UK CMA is testing an AI tool to help catch companies that collude when bidding for public contracts, amid a &quot;significant risk of bid-rigging&quot; by contractors &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/250105/p5#a250105p5)<!-- TECH:END -->
+ - [A look at Victrola&#39;s expanded audio offerings for 2025](https://appleinsider.com/articles/25/01/06/a-look-at-victrolas-expanded-audio-offerings-for-2025?utm_medium=rss)
+ - [Google could soon add another ecosystem feature for Pixel Watch and Tablet users &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-watch-unlock-tablet-apk-teardown-3513311/)
+ - [Athom&#39;s new Homey Pro mini is a home automation hub at a great price](https://appleinsider.com/articles/25/01/06/athoms-new-homey-pro-mini-is-a-home-automation-hub-at-a-great-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
