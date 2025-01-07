@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2025 is PC gaming’s victory lap](https://www.polygon.com/gaming/500266/pc-gaming-mainstream-console-comparison-2025)
- - [Corsair rolls out its first CUDIMM memory sticks for Intel Arrow Lake gaming PCs and they&#39;re as pricey as you&#39;d expect them to be](https://www.pcgamer.com/hardware/memory/corsair-rolls-out-its-first-cudimm-memory-sticks-for-intel-arrow-lake-gaming-pcs-and-theyre-as-pricey-as-youd-expect-them-to-be/)
- - [Hero modders take a break from their 25-year quest to make the rest of Morrowind to make the Oblivion we should have got instead](https://www.pcgamer.com/games/the-elder-scrolls/hero-modders-take-a-break-from-their-25-year-quest-to-make-the-rest-of-morrowind-to-make-the-oblivion-we-should-have-got-instead/)<!-- GAME:END -->
+ - [Sony planning live-action Horizon and Helldivers movies](https://www.polygon.com/news/504682/helldivers-2-horizon-zero-dawn-movies)
+ - [New Midnight Black Collection of PS5 accessories launches next month](https://blog.playstation.com/2025/01/07/new-midnight-black-collection-of-ps5-accessories-launches-next-month/)
+ - [Civilization 7’s creative director on the new Ages, leaders, and cultures ‘without any written records’](https://www.polygon.com/preview/502884/civilization-7-civ-ages-system-leaders)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
