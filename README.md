@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Victrola&#39;s expanded audio offerings for 2025](https://appleinsider.com/articles/25/01/06/a-look-at-victrolas-expanded-audio-offerings-for-2025?utm_medium=rss)
- - [Google could soon add another ecosystem feature for Pixel Watch and Tablet users &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-pixel-watch-unlock-tablet-apk-teardown-3513311/)
- - [Athom&#39;s new Homey Pro mini is a home automation hub at a great price](https://appleinsider.com/articles/25/01/06/athoms-new-homey-pro-mini-is-a-home-automation-hub-at-a-great-price?utm_medium=rss)<!-- TECH:END -->
+ - [Getty Images Holdings and Shutterstock agree to merge in a deal that creates a $3.7B company; Getty CEO Craig Peters will remain CEO of the combined business &lpar;Michael Flaherty/Axios&rpar;](http://www.techmeme.com/250107/p14#a250107p14)
+ - [Segway at CES: a powerful pair of e-bikes, a 50mph scooter, and a robot mower](https://www.theverge.com/2025/1/7/24336284/segway-e-bike-scooter-xyber-xafari-gt3-mower-price-ces)
+ - [The 12 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
