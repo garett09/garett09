@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Human, what&#39;s wrong?](http://9gag.com/gag/a0e4Vqq)
- - 🚯 [A billion?](http://9gag.com/gag/aD2Y8DK)
- - 🚯 [He&#39;s done](http://9gag.com/gag/aLn1edz)<!-- MEMES:END -->
+ - 🚖 [Once upon a time](http://9gag.com/gag/apR9xbB)
+ - 🚯 [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)
+ - 🚯 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)<!-- MEMES:END -->
 
 --- 
 
