@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Getty Images Holdings and Shutterstock agree to merge in a deal that creates a $3.7B company; Getty CEO Craig Peters will remain CEO of the combined business &lpar;Michael Flaherty/Axios&rpar;](http://www.techmeme.com/250107/p14#a250107p14)
- - [Segway at CES: a powerful pair of e-bikes, a 50mph scooter, and a robot mower](https://www.theverge.com/2025/1/7/24336284/segway-e-bike-scooter-xyber-xafari-gt3-mower-price-ces)
- - [The 12 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [MacPaw goes after mobile device management with CleanMy Mac Business](https://appleinsider.com/articles/25/01/07/macpaw-goes-after-mobile-device-management-with-cleanmy-mac-business?utm_medium=rss)
+ - [Apple employees fired over charity donation matching fraud](https://appleinsider.com/articles/25/01/08/apple-employees-fired-over-charity-donation-matching-fraud?utm_medium=rss)
+ - [Samsung is rolling out a smartphone subscription next month](https://www.theverge.com/2025/1/8/24338974/samsung-galaxy-subscription-smartphones-ballie)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
