@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony planning live-action Horizon and Helldivers movies](https://www.polygon.com/news/504682/helldivers-2-horizon-zero-dawn-movies)
- - [New Midnight Black Collection of PS5 accessories launches next month](https://blog.playstation.com/2025/01/07/new-midnight-black-collection-of-ps5-accessories-launches-next-month/)
- - [Civilization 7’s creative director on the new Ages, leaders, and cultures ‘without any written records’](https://www.polygon.com/preview/502884/civilization-7-civ-ages-system-leaders)<!-- GAME:END -->
+ - [All Kell&#39;s Fall organ puzzle codes in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-organ-puzzle-melody-codes/)
+ - [&#39;It&#39;s simply impossible to make a difficulty level that&#39;s just right for all players&#39;: How Final Fantasy 14&#39;s lead battle designer has been playing a precarious balancing game for Dawntrail&#39;s dungeons and raids](https://www.pcgamer.com/games/final-fantasy/its-simply-impossible-to-make-a-difficulty-level-thats-just-right-for-all-players-how-final-fantasy-14s-lead-battle-designer-has-been-playing-a-precarious-balancing-game-for-dawntrails-dungeons-and-raids/)
+ - [The RTX 5090 might make triple-fan cards look light on cooling if these four-fan and five-fan versions from Gigabyte and MSI are anything to go by](https://www.pcgamer.com/hardware/graphics-cards/the-rtx-5090-might-make-triple-fan-cards-look-light-on-cooling-if-these-four-fan-and-five-fan-versions-from-gigabyte-and-msi-are-anything-to-go-by/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
