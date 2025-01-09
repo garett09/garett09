@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Once upon a time](http://9gag.com/gag/apR9xbB)
- - 🚯 [Man with headaches used nails to try to relieve the pain over course of a year before seeking medical attention. He survived with no ill effects.](http://9gag.com/gag/aO8x9dy)
- - 🚯 [Alison Lohman behind the scenes of \u201cDrag Me to Hell\u201d &lpar;2009&rpar;.](http://9gag.com/gag/aQzEQZq)<!-- MEMES:END -->
+ - 🚖 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
+ - 🚯 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
+ - 🚯 [First one](http://9gag.com/gag/aVvbV38)<!-- MEMES:END -->
 
 --- 
 
