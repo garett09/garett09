@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacPaw goes after mobile device management with CleanMy Mac Business](https://appleinsider.com/articles/25/01/07/macpaw-goes-after-mobile-device-management-with-cleanmy-mac-business?utm_medium=rss)
- - [Apple employees fired over charity donation matching fraud](https://appleinsider.com/articles/25/01/08/apple-employees-fired-over-charity-donation-matching-fraud?utm_medium=rss)
- - [Samsung is rolling out a smartphone subscription next month](https://www.theverge.com/2025/1/8/24338974/samsung-galaxy-subscription-smartphones-ballie)<!-- TECH:END -->
+ - [Apple fights patent lawsuit over iPhone 15 camera tech](https://appleinsider.com/articles/25/01/09/apple-fights-patent-lawsuit-over-iphone-15-camera-tech?utm_medium=rss)
+ - [Disney says it has an estimated 157M global MAUs for ad-supported content across its streaming platforms, including 112M users in the US &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/250109/p13#a250109p13)
+ - [LA residents find a lifeline in this free wildfire-tracking app](https://www.theverge.com/2025/1/9/24339799/watch-duty-wildfire-tracking-app-la-wildfires)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
