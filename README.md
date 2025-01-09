@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Kell&#39;s Fall organ puzzle codes in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-organ-puzzle-melody-codes/)
- - [&#39;It&#39;s simply impossible to make a difficulty level that&#39;s just right for all players&#39;: How Final Fantasy 14&#39;s lead battle designer has been playing a precarious balancing game for Dawntrail&#39;s dungeons and raids](https://www.pcgamer.com/games/final-fantasy/its-simply-impossible-to-make-a-difficulty-level-thats-just-right-for-all-players-how-final-fantasy-14s-lead-battle-designer-has-been-playing-a-precarious-balancing-game-for-dawntrails-dungeons-and-raids/)
- - [The RTX 5090 might make triple-fan cards look light on cooling if these four-fan and five-fan versions from Gigabyte and MSI are anything to go by](https://www.pcgamer.com/hardware/graphics-cards/the-rtx-5090-might-make-triple-fan-cards-look-light-on-cooling-if-these-four-fan-and-five-fan-versions-from-gigabyte-and-msi-are-anything-to-go-by/)<!-- GAME:END -->
+ - [Tomb Raider: series retrospective](https://blog.playstation.com/2025/01/09/tomb-raider-series-retrospective/)
+ - [You&#39;ve heard of a CPU cooler screen, but have you heard of a *curved* CPU cooler screen? Apparently it has &#39;unmatched performance and visual appeal&#39;](https://www.pcgamer.com/hardware/cooling/youve-heard-of-a-cpu-cooler-screen-but-have-you-heard-of-a-curved-cpu-cooler-screen-apparently-it-has-unmatched-performance-and-visual-appeal/)
+ - [Nvidia seems to have just confirmed upcoming Arm and Blackwell laptop chips based on its new GB10 processor in collaboration with MediaTek](https://www.pcgamer.com/hardware/processors/nvidia-seems-to-have-just-confirmed-upcoming-arm-and-blackwell-laptop-chips-based-on-its-new-gb10-processor-in-collaboration-with-mediatek/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
