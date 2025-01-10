@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fights patent lawsuit over iPhone 15 camera tech](https://appleinsider.com/articles/25/01/09/apple-fights-patent-lawsuit-over-iphone-15-camera-tech?utm_medium=rss)
- - [Disney says it has an estimated 157M global MAUs for ad-supported content across its streaming platforms, including 112M users in the US &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/250109/p13#a250109p13)
- - [LA residents find a lifeline in this free wildfire-tracking app](https://www.theverge.com/2025/1/9/24339799/watch-duty-wildfire-tracking-app-la-wildfires)<!-- TECH:END -->
+ - [Galaxy S25 series’ full specs leak, and it’s just the Galaxy S24 in a trench coat](https://www.androidauthority.com/samsung-galaxy-s25-series-giant-spec-leak-3515505/)
+ - [Rear iPhone 17 Pro cameras could all have the same 48MP resolution](https://appleinsider.com/articles/25/01/10/rear-iphone-17-pro-cameras-could-all-have-the-same-48mp-resolution?utm_medium=rss)
+ - [In a weird X Spaces conversation, Elon Musk and Alice Weidel, the leader of the German far-right party AfD, pushed disinformation about Hitler, migrants, more &lpar;Politico&rpar;](http://www.techmeme.com/250110/p9#a250110p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
