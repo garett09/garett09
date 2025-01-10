@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tomb Raider: series retrospective](https://blog.playstation.com/2025/01/09/tomb-raider-series-retrospective/)
- - [You&#39;ve heard of a CPU cooler screen, but have you heard of a *curved* CPU cooler screen? Apparently it has &#39;unmatched performance and visual appeal&#39;](https://www.pcgamer.com/hardware/cooling/youve-heard-of-a-cpu-cooler-screen-but-have-you-heard-of-a-curved-cpu-cooler-screen-apparently-it-has-unmatched-performance-and-visual-appeal/)
- - [Nvidia seems to have just confirmed upcoming Arm and Blackwell laptop chips based on its new GB10 processor in collaboration with MediaTek](https://www.pcgamer.com/hardware/processors/nvidia-seems-to-have-just-confirmed-upcoming-arm-and-blackwell-laptop-chips-based-on-its-new-gb10-processor-in-collaboration-with-mediatek/)<!-- GAME:END -->
+ - [MSI intros cheaper &#39;back connect&#39; Project Zero Intel motherboards for super-clean PC builds you might actually be able to afford](https://www.pcgamer.com/hardware/gaming-monitors/msi-intros-cheaper-back-connect-project-zero-intel-motherboards-for-super-clean-pc-builds-you-might-actually-be-able-to-afford/)
+ - [Thermaltake&#39;s new 2000 W PSU is too powerful to be sold in the USA and comes with four PCIe 5.0 GPU power connectors](https://www.pcgamer.com/hardware/power-supplies/thermaltakes-new-2000-w-psu-is-too-powerful-to-be-sold-in-the-usa-and-comes-with-four-pcie-5-0-gpu-power-connectors/)
+ - [Brennan Lee Mulligan and the Questing Queens are grappling with consequences](https://www.polygon.com/actual-play/506526/dimension-20-dungeons-drag-queens-season-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
