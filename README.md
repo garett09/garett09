@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Testing your mortality with totally sick wheelies.](http://9gag.com/gag/awyZY38)
- - 🚯 [Theresa Virtue and Scott Moir. Scott: `C - can&#39;t tell` ; marries someone else.](http://9gag.com/gag/a5QXqpo)
- - 🚯 [First one](http://9gag.com/gag/aVvbV38)<!-- MEMES:END -->
+ - 🚖 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
+ - 🚯 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
+ - 🚯 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)<!-- MEMES:END -->
 
 --- 
 
