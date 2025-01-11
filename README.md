@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI intros cheaper &#39;back connect&#39; Project Zero Intel motherboards for super-clean PC builds you might actually be able to afford](https://www.pcgamer.com/hardware/gaming-monitors/msi-intros-cheaper-back-connect-project-zero-intel-motherboards-for-super-clean-pc-builds-you-might-actually-be-able-to-afford/)
- - [Thermaltake&#39;s new 2000 W PSU is too powerful to be sold in the USA and comes with four PCIe 5.0 GPU power connectors](https://www.pcgamer.com/hardware/power-supplies/thermaltakes-new-2000-w-psu-is-too-powerful-to-be-sold-in-the-usa-and-comes-with-four-pcie-5-0-gpu-power-connectors/)
- - [Brennan Lee Mulligan and the Questing Queens are grappling with consequences](https://www.polygon.com/actual-play/506526/dimension-20-dungeons-drag-queens-season-2)<!-- GAME:END -->
+ - [Chaotic co-op platformer Pico Park 2 shows the Switch is still getting great new games](https://www.polygon.com/what-to-play/506028/pico-park-2-nintendo-switch-new-game)
+ - [The Junji Ito collection brings eight new outfits to Dead by Daylight, letting you dress up its killers as cannibalistic supermodels and nail-toothed children](https://www.pcgamer.com/games/horror/the-junji-ito-collection-brings-eight-new-outfits-to-dead-by-daylight-letting-you-dress-up-its-killers-as-cannibalistic-supermodels-and-nail-toothed-children/)
+ - [The best thrillers to watch on Netflix this January](https://www.polygon.com/recommendations/506897/best-thriller-movies-netflix-watch-january-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
