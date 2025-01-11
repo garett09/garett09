@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cap? Any update on LA fires if these two are still around?](http://9gag.com/gag/aO8xGD2)
- - 🚯 [Instert What the hell happened here meme ..here](http://9gag.com/gag/aAy02oL)
- - 🚯 [Wow how is that possible.](http://9gag.com/gag/awyZ4oy)<!-- MEMES:END -->
+ - 🚖 [He invited himself](http://9gag.com/gag/apR98Rn)
+ - 🚯 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
+ - 🚯 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)<!-- MEMES:END -->
 
 --- 
 
