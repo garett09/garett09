@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25 series’ full specs leak, and it’s just the Galaxy S24 in a trench coat](https://www.androidauthority.com/samsung-galaxy-s25-series-giant-spec-leak-3515505/)
- - [Rear iPhone 17 Pro cameras could all have the same 48MP resolution](https://appleinsider.com/articles/25/01/10/rear-iphone-17-pro-cameras-could-all-have-the-same-48mp-resolution?utm_medium=rss)
- - [In a weird X Spaces conversation, Elon Musk and Alice Weidel, the leader of the German far-right party AfD, pushed disinformation about Hitler, migrants, more &lpar;Politico&rpar;](http://www.techmeme.com/250110/p9#a250110p9)<!-- TECH:END -->
+ - [These Maps Show Just How Dry Southern California Is Right Now](https://www.wired.com/story/these-maps-show-just-how-dry-southern-california-is-right-now/)
+ - [Coming back to CES after a decade-long break was a trip](https://www.theverge.com/2025/1/11/24340285/ces-2025-robots-ai-sphere)
+ - [IRS 2025 Tax Bracket Changes Could Be a Win for Your Paycheck](https://www.cnet.com/personal-finance/taxes/irs-2025-tax-bracket-changes-could-be-a-win-for-your-paycheck/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
