@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chaotic co-op platformer Pico Park 2 shows the Switch is still getting great new games](https://www.polygon.com/what-to-play/506028/pico-park-2-nintendo-switch-new-game)
- - [The Junji Ito collection brings eight new outfits to Dead by Daylight, letting you dress up its killers as cannibalistic supermodels and nail-toothed children](https://www.pcgamer.com/games/horror/the-junji-ito-collection-brings-eight-new-outfits-to-dead-by-daylight-letting-you-dress-up-its-killers-as-cannibalistic-supermodels-and-nail-toothed-children/)
- - [The best thrillers to watch on Netflix this January](https://www.polygon.com/recommendations/506897/best-thriller-movies-netflix-watch-january-2025)<!-- GAME:END -->
+ - [Can Marvel Rivals learn from Overwatch&amp;#8217;s mistakes?](https://www.polygon.com/gaming/507327/marvel-rivals-overwatch-lessons-development)
+ - [Valve&#39;s Steam page currently lists a second mystery game alongside Deadlock, sending Half-Life 3 theorists into another frenzy of speculation](https://www.pcgamer.com/games/fps/valves-steam-page-currently-lists-a-second-mystery-game-alongside-deadlock-sending-half-life-3-theorists-into-another-frenzy-of-speculation/)
+ - [CD Projekt Red boss says &#39;around 100&#39; Witcher 3 designers still work at the company, while the Witcher 4&#39;s story director is &#39;the same person since Witcher 1&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-red-boss-says-around-100-witcher-3-designers-still-work-at-the-company-while-the-witcher-4s-story-director-is-the-same-person-since-witcher-1/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
