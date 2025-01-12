@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He invited himself](http://9gag.com/gag/apR98Rn)
- - 🚯 [You can&#39;t make this shit up.](http://9gag.com/gag/aAy0m4R)
- - 🚯 [This old school clothes wringer.](http://9gag.com/gag/a2vKxKE)<!-- MEMES:END -->
+ - 🚖 [That zebra bit the damn croc \ud83e\udd2f](http://9gag.com/gag/aO8xOmN)
+ - 🚯 [The President of Botswana reacting on the world&#39;s second-largest diamond ever found, a rough 2,492-carat stone.](http://9gag.com/gag/aqyeBAP)
+ - 🚯 [Brand new floor DESTROYED by painters\u2026](http://9gag.com/gag/a4Pom2d)<!-- MEMES:END -->
 
 --- 
 
