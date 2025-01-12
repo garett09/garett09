@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Maps Show Just How Dry Southern California Is Right Now](https://www.wired.com/story/these-maps-show-just-how-dry-southern-california-is-right-now/)
- - [Coming back to CES after a decade-long break was a trip](https://www.theverge.com/2025/1/11/24340285/ces-2025-robots-ai-sphere)
- - [IRS 2025 Tax Bracket Changes Could Be a Win for Your Paycheck](https://www.cnet.com/personal-finance/taxes/irs-2025-tax-bracket-changes-could-be-a-win-for-your-paycheck/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some advertisers raise brand safety concerns over Meta&#39;s content moderation changes, fearing a surge in harmful content and misinformation on its platforms &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p7#a250112p7)
+ - [Panasonic Z95A OLED TV Review: Searing Brightness and Colors](https://www.wired.com/review/panasonic-z95a-oled-tv/)
+ - [The best actually real stuff at CES 2025](https://www.theverge.com/2025/1/12/24340864/ces-2025-tvs-nvidia-ai-gaming-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
