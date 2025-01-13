@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some advertisers raise brand safety concerns over Meta&#39;s content moderation changes, fearing a surge in harmful content and misinformation on its platforms &lpar;Financial Times&rpar;](http://www.techmeme.com/250112/p7#a250112p7)
- - [Panasonic Z95A OLED TV Review: Searing Brightness and Colors](https://www.wired.com/review/panasonic-z95a-oled-tv/)
- - [The best actually real stuff at CES 2025](https://www.theverge.com/2025/1/12/24340864/ces-2025-tvs-nvidia-ai-gaming-installer)<!-- TECH:END -->
+ - [Mastodon’s CEO and creator is handing control to a new non-profit organization](https://www.theverge.com/2025/1/13/24342603/mastodon-non-profit-ownership-ceo-eugen-rochko)
+ - [Nvidia flatters Trump in scathing response to Biden’s new AI chip restrictions](https://www.theverge.com/2025/1/13/24342595/nvidia-flatter-trump-biden-administration-ai-chip-restrictions)
+ - [Sonos CEO Patrick Spence is leaving following a botched app revamp that upset customers and stymied growth; board member Tom Conrad is named interim CEO &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250113/p13#a250113p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
