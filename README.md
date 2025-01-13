@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Marvel Rivals learn from Overwatch&amp;#8217;s mistakes?](https://www.polygon.com/gaming/507327/marvel-rivals-overwatch-lessons-development)
- - [Valve&#39;s Steam page currently lists a second mystery game alongside Deadlock, sending Half-Life 3 theorists into another frenzy of speculation](https://www.pcgamer.com/games/fps/valves-steam-page-currently-lists-a-second-mystery-game-alongside-deadlock-sending-half-life-3-theorists-into-another-frenzy-of-speculation/)
- - [CD Projekt Red boss says &#39;around 100&#39; Witcher 3 designers still work at the company, while the Witcher 4&#39;s story director is &#39;the same person since Witcher 1&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-red-boss-says-around-100-witcher-3-designers-still-work-at-the-company-while-the-witcher-4s-story-director-is-the-same-person-since-witcher-1/)<!-- GAME:END -->
+ - [Marvel Rivals players have found a workaround for mods, but it involves potentially frying your PC and sacrificing your framerates](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-have-found-a-workaround-for-mods-but-it-involves-potentially-frying-your-pc-and-sacrificing-your-framerates/)
+ - [It&#39;s hard to believe but 22% of PC gaming monitors are now OLED panels](https://www.pcgamer.com/hardware/gaming-monitors/its-hard-to-believe-but-22-percent-of-pc-gaming-monitors-are-now-oled-panels/)
+ - [Dynasty Warriors: Origins Truly Reinvents a Decades-Long Series](https://news.xbox.com/en-us/2025/01/13/dynasty-warriors-origins/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
