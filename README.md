@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals players have found a workaround for mods, but it involves potentially frying your PC and sacrificing your framerates](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-players-have-found-a-workaround-for-mods-but-it-involves-potentially-frying-your-pc-and-sacrificing-your-framerates/)
- - [It&#39;s hard to believe but 22% of PC gaming monitors are now OLED panels](https://www.pcgamer.com/hardware/gaming-monitors/its-hard-to-believe-but-22-percent-of-pc-gaming-monitors-are-now-oled-panels/)
- - [Dynasty Warriors: Origins Truly Reinvents a Decades-Long Series](https://news.xbox.com/en-us/2025/01/13/dynasty-warriors-origins/)<!-- GAME:END -->
+ - [When is Godzilla coming to Fortnite this week?](https://www.polygon.com/fortnite-guide/488786/godzilla-release-date-battle-pass-skin)
+ - [The original Pokémon anime had unique theme songs in Italy — and they’re Eurodance bangers](https://www.polygon.com/pokemon/492675/pokemon-theme-song-italy)
+ - [All Fortnite Festival Season 7 music pass skins, songs and rewards list, including Neko Hatsune Miku](https://www.polygon.com/fortnite-guide/507734/festival-season-7-music-pass-neko-hatsune-miku-skins-rewards-songs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
