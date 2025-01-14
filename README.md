@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10 years later... I think she was flirting with me!](http://9gag.com/gag/a7oqxq2)
- - 🚯 [My Prayers Have Been Answered](http://9gag.com/gag/aO8xEvv)
- - 🚯 [The UK has been conquered anyway....](http://9gag.com/gag/ajPV4p1)<!-- MEMES:END -->
+ - 🚖 [Trying too hard](http://9gag.com/gag/a34ZXZv)
+ - 🚯 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
+ - 🚯 [Never had real value](http://9gag.com/gag/aVvb5Rv)<!-- MEMES:END -->
 
 --- 
 
