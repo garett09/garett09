@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mastodon’s CEO and creator is handing control to a new non-profit organization](https://www.theverge.com/2025/1/13/24342603/mastodon-non-profit-ownership-ceo-eugen-rochko)
- - [Nvidia flatters Trump in scathing response to Biden’s new AI chip restrictions](https://www.theverge.com/2025/1/13/24342595/nvidia-flatter-trump-biden-administration-ai-chip-restrictions)
- - [Sonos CEO Patrick Spence is leaving following a botched app revamp that upset customers and stymied growth; board member Tom Conrad is named interim CEO &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250113/p13#a250113p13)<!-- TECH:END -->
+ - [Google Messages is rolling out dual-SIM RCS support once again, and hopefully, it’s here to stay](https://www.androidauthority.com/google-messages-dual-sim-rcs-support-rollout-once-again-3516257/)
+ - [Imagining a Future Where Chicagoans Get Around in Free Driverless Cars](https://www.wired.com/story/book-excerpt-death-of-the-author-nnedi-okorafor/)
+ - [DJI Flip official: the unique bicycle spoke folding drone starts at $439](https://www.theverge.com/24343321/dji-flip-drone-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
