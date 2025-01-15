@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is rolling out dual-SIM RCS support once again, and hopefully, it’s here to stay](https://www.androidauthority.com/google-messages-dual-sim-rcs-support-rollout-once-again-3516257/)
- - [Imagining a Future Where Chicagoans Get Around in Free Driverless Cars](https://www.wired.com/story/book-excerpt-death-of-the-author-nnedi-okorafor/)
- - [DJI Flip official: the unique bicycle spoke folding drone starts at $439](https://www.theverge.com/24343321/dji-flip-drone-price-release-date)<!-- TECH:END -->
+ - [Honor’s Magic 7 Pro looks flagship through and through](https://www.theverge.com/2025/1/15/24344248/honor-magic-7-pro-launch-europe-snapdragon-8-elite-ip69)
+ - [Authorities in Singapore, which has a dire shortage of nurses, see the potential in AI tools to assist in preventive illness care, especially for the elderly &lpar;Reeta Raman/Rest of World&rpar;](http://www.techmeme.com/250115/p22#a250115p22)
+ - [The Crazy Nokia Designs That Never Saw the Light of Day](https://www.wired.com/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
