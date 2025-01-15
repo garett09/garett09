@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying too hard](http://9gag.com/gag/a34ZXZv)
- - 🚯 [Aged like Guatemala rum](http://9gag.com/gag/aKGERd1)
- - 🚯 [Never had real value](http://9gag.com/gag/aVvb5Rv)<!-- MEMES:END -->
+ - 🚖 [Go sports!!!](http://9gag.com/gag/an7z650)
+ - 🚯 [My friends tape](http://9gag.com/gag/aXPn6N2)
+ - 🚯 [Yes, better close it](http://9gag.com/gag/aKGEr9N)<!-- MEMES:END -->
 
 --- 
 
