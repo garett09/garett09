@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When is Godzilla coming to Fortnite this week?](https://www.polygon.com/fortnite-guide/488786/godzilla-release-date-battle-pass-skin)
- - [The original Pokémon anime had unique theme songs in Italy — and they’re Eurodance bangers](https://www.polygon.com/pokemon/492675/pokemon-theme-song-italy)
- - [All Fortnite Festival Season 7 music pass skins, songs and rewards list, including Neko Hatsune Miku](https://www.polygon.com/fortnite-guide/507734/festival-season-7-music-pass-neko-hatsune-miku-skins-rewards-songs)<!-- GAME:END -->
+ - [Castlevania: Symphony of the Night’s notorious English translation didn’t need fixing](https://www.polygon.com/gaming/506820/castlevania-symphony-night-english-translation-mistakes-changes)
+ - [Game made in consultancy with alien abductees delists itself after claiming it received a bomb threat for making certain information public](https://www.pcgamer.com/games/game-made-in-consultancy-with-alien-abductees-delists-itself-after-claiming-it-received-a-bomb-threat-and-the-authorities-are-part-of-the-problem/)
+ - [MrBeast&#39;s YouTube schtick is somehow even worse with the obscene Amazon money being pumped into Beast Games](https://www.pcgamer.com/hardware/streaming/mrbeasts-youtube-schtick-is-somehow-even-worse-with-the-obscene-amazon-money-being-pumped-into-beast-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
