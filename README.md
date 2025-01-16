@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor’s Magic 7 Pro looks flagship through and through](https://www.theverge.com/2025/1/15/24344248/honor-magic-7-pro-launch-europe-snapdragon-8-elite-ip69)
- - [Authorities in Singapore, which has a dire shortage of nurses, see the potential in AI tools to assist in preventive illness care, especially for the elderly &lpar;Reeta Raman/Rest of World&rpar;](http://www.techmeme.com/250115/p22#a250115p22)
- - [The Crazy Nokia Designs That Never Saw the Light of Day](https://www.wired.com/gallery/nokia-design-archive-photo-gallery-of-wacky-phone-designs/)<!-- TECH:END -->
+ - [Nintendo announces Switch 2 Direct for April](https://www.theverge.com/2025/1/16/24236766/nintendo-switch-2-games-direct-date-time)
+ - [Nintendo Switch 2 announcement: all the news on the next console](https://www.theverge.com/24284512/nintendo-switch-2-direct-news-trailers-games-features)
+ - [The Nintendo Switch 2 supports original Switch cartridges](https://www.theverge.com/2025/1/16/24343666/nintendo-switch-2-cartridge-backwards-compatibility)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
