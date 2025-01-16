@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go sports!!!](http://9gag.com/gag/an7z650)
- - 🚯 [My friends tape](http://9gag.com/gag/aXPn6N2)
- - 🚯 [Yes, better close it](http://9gag.com/gag/aKGEr9N)<!-- MEMES:END -->
+ - 🚖 [Silent Hill - Nurses](http://9gag.com/gag/an7zA6o)
+ - 🚯 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
+ - 🚯 [Self Awareness](http://9gag.com/gag/arymjeK)<!-- MEMES:END -->
 
 --- 
 
