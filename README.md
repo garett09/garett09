@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Castlevania: Symphony of the Night’s notorious English translation didn’t need fixing](https://www.polygon.com/gaming/506820/castlevania-symphony-night-english-translation-mistakes-changes)
- - [Game made in consultancy with alien abductees delists itself after claiming it received a bomb threat for making certain information public](https://www.pcgamer.com/games/game-made-in-consultancy-with-alien-abductees-delists-itself-after-claiming-it-received-a-bomb-threat-and-the-authorities-are-part-of-the-problem/)
- - [MrBeast&#39;s YouTube schtick is somehow even worse with the obscene Amazon money being pumped into Beast Games](https://www.pcgamer.com/hardware/streaming/mrbeasts-youtube-schtick-is-somehow-even-worse-with-the-obscene-amazon-money-being-pumped-into-beast-games/)<!-- GAME:END -->
+ - [Nintendo Switch 2 has been announced](https://www.polygon.com/nintendo/449283/switch-2-announced-2025-release-date-price)
+ - [Razer BlackWidow V4 Pro 75% review](https://www.pcgamer.com/hardware/gaming-keyboards/razer-blackwidow-v4-pro-75-percent-review/)
+ - [Marvel Rivals devs have accidentally buffed Storm into a tornado-yeeting monster that everyone is picking, and no-one knows how to counter: &#39;A clustered group is a snack for us&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-devs-have-accidentally-buffed-storm-into-a-tornado-yeeting-monster-that-everyone-is-picking-and-no-one-knows-how-to-counter-a-clustered-group-is-a-snack-for-us/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
