@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Silent Hill - Nurses](http://9gag.com/gag/an7zA6o)
- - 🚯 [Bruce got pied](http://9gag.com/gag/aNDw6AA)
- - 🚯 [Self Awareness](http://9gag.com/gag/arymjeK)<!-- MEMES:END -->
+ - 🚖 [This is the moment when Rocky is loaded onto the DPS helicopter. Rocky is a U.S. Marshal K9 who was shot after sniffing out a suspect in a dumpster. He is expected to survive. And he is celebrated as a hero.](http://9gag.com/gag/a9yyd0K)
+ - 🚯 [Liberal Woman moment](http://9gag.com/gag/aByyK2z)
+ - 🚯 [Peak male performance](http://9gag.com/gag/aRBBQdq)<!-- MEMES:END -->
 
 --- 
 
