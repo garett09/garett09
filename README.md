@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo announces Switch 2 Direct for April](https://www.theverge.com/2025/1/16/24236766/nintendo-switch-2-games-direct-date-time)
- - [Nintendo Switch 2 announcement: all the news on the next console](https://www.theverge.com/24284512/nintendo-switch-2-direct-news-trailers-games-features)
- - [The Nintendo Switch 2 supports original Switch cartridges](https://www.theverge.com/2025/1/16/24343666/nintendo-switch-2-cartridge-backwards-compatibility)<!-- TECH:END -->
+ - [Tim Cook vs Meta, &#39;Servant&#39; vs a lawsuit, and Home Hub may be delayed, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/17/tim-cook-vs-meta-servant-vs-a-lawsuit-and-home-hub-may-be-delayed-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Apple Watch saves man after upside down car crash into pool](https://appleinsider.com/articles/25/01/17/apple-watch-saves-man-after-upside-down-car-crash-into-pool?utm_medium=rss)
+ - [The Real Cognitive Neuroscience Behind ‘Severance’](https://www.wired.com/story/severance-apple-tv-plus-cognitive-neuroscience/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
