@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch 2 has been announced](https://www.polygon.com/nintendo/449283/switch-2-announced-2025-release-date-price)
- - [Razer BlackWidow V4 Pro 75% review](https://www.pcgamer.com/hardware/gaming-keyboards/razer-blackwidow-v4-pro-75-percent-review/)
- - [Marvel Rivals devs have accidentally buffed Storm into a tornado-yeeting monster that everyone is picking, and no-one knows how to counter: &#39;A clustered group is a snack for us&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-devs-have-accidentally-buffed-storm-into-a-tornado-yeeting-monster-that-everyone-is-picking-and-no-one-knows-how-to-counter-a-clustered-group-is-a-snack-for-us/)<!-- GAME:END -->
+ - [The Silksong hive is buzzing over a dev tweet that sees a chocolate cake, Napoleon Bonaparte, and Imagine Dragons all pointing with red string to the April Switch 2 Nintendo Direct](https://www.pcgamer.com/games/action/the-silksong-hive-is-buzzing-over-a-dev-tweet-that-sees-a-chocolate-cake-napoleon-bonaparte-and-imagine-dragons-all-pointing-with-red-string-to-the-april-switch-2-nintendo-direct/)
+ - [The 49 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Severance&#39;s Creepiest Addition Since The Goats Is A Child](https://kotaku.com/miss-huang-severance-season-2-apple-tv-1851738787)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
