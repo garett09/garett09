@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Silksong hive is buzzing over a dev tweet that sees a chocolate cake, Napoleon Bonaparte, and Imagine Dragons all pointing with red string to the April Switch 2 Nintendo Direct](https://www.pcgamer.com/games/action/the-silksong-hive-is-buzzing-over-a-dev-tweet-that-sees-a-chocolate-cake-napoleon-bonaparte-and-imagine-dragons-all-pointing-with-red-string-to-the-april-switch-2-nintendo-direct/)
- - [The 49 best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Severance&#39;s Creepiest Addition Since The Goats Is A Child](https://kotaku.com/miss-huang-severance-season-2-apple-tv-1851738787)<!-- GAME:END -->
+ - [The best sci-fi movies to watch on Netflix this January](https://www.polygon.com/what-to-watch/510127/best-sci-fi-movies-watch-netflix-january-2025)
+ - [Galaxy-brained high schooler ports Doom to a PDF file, paving the way for a bloody revolution in invoicing](https://www.pcgamer.com/games/fps/galaxy-brained-high-schooler-ports-doom-to-a-pdf-file-paving-the-way-for-a-bloody-revolution-in-invoicing/)
+ - [Wartorn is a top-down fantasy tactics game co-created by BioShock&#39;s lead designer, inspired by a forgotten Bungie title where you command dwarves to blow up zombies](https://www.pcgamer.com/games/strategy/wartorn-is-a-top-down-fantasy-tactics-game-co-created-by-bioshocks-lead-designer-inspired-by-a-forgotten-bungie-title-where-you-command-dwarves-to-blow-up-zombies/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
