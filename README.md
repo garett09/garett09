@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook vs Meta, &#39;Servant&#39; vs a lawsuit, and Home Hub may be delayed, on the AppleInsider Podcast](https://appleinsider.com/articles/25/01/17/tim-cook-vs-meta-servant-vs-a-lawsuit-and-home-hub-may-be-delayed-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple Watch saves man after upside down car crash into pool](https://appleinsider.com/articles/25/01/17/apple-watch-saves-man-after-upside-down-car-crash-into-pool?utm_medium=rss)
- - [The Real Cognitive Neuroscience Behind ‘Severance’](https://www.wired.com/story/severance-apple-tv-plus-cognitive-neuroscience/)<!-- TECH:END -->
+ - [Qualcomm quietly lists a 7-core variant of its flagship Snapdragon 8 Elite chip](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-7-core-3517839/)
+ - [These are the Google, Samsung, and Apple watch straps that contain “forever chemicals”](https://www.androidauthority.com/watch-bands-pfas-forever-chemicals-3515723/)
+ - [Why Dumping Seawater on Blazes Isn’t the Answer to California’s Wildfire Problem](https://www.wired.com/story/firefighting-planes-are-dumping-ocean-water-on-the-los-angeles-fires-why-using-saltwater-is-typically-a-last-resort/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
