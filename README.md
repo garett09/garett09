@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies to watch on Netflix this January](https://www.polygon.com/what-to-watch/510127/best-sci-fi-movies-watch-netflix-january-2025)
- - [Galaxy-brained high schooler ports Doom to a PDF file, paving the way for a bloody revolution in invoicing](https://www.pcgamer.com/games/fps/galaxy-brained-high-schooler-ports-doom-to-a-pdf-file-paving-the-way-for-a-bloody-revolution-in-invoicing/)
- - [Wartorn is a top-down fantasy tactics game co-created by BioShock&#39;s lead designer, inspired by a forgotten Bungie title where you command dwarves to blow up zombies](https://www.pcgamer.com/games/strategy/wartorn-is-a-top-down-fantasy-tactics-game-co-created-by-bioshocks-lead-designer-inspired-by-a-forgotten-bungie-title-where-you-command-dwarves-to-blow-up-zombies/)<!-- GAME:END -->
+ - [Grand Theft Hamlet’s creators put Shakespeare in GTA to put chaos back into Shakespeare](https://www.polygon.com/movies/510687/grand-theft-hamlet-interview-how-they-did-it)
+ - [Marvel Snap down, caught in the TikTok ban](https://www.polygon.com/gaming/511299/marvel-snap-down-bytedance-tiktok-ban)
+ - [TikTok goes dark in the U.S.](https://www.polygon.com/culture/511295/tiktok-shutdown-ban-why-cant-download-app)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
