@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm quietly lists a 7-core variant of its flagship Snapdragon 8 Elite chip](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-7-core-3517839/)
- - [These are the Google, Samsung, and Apple watch straps that contain “forever chemicals”](https://www.androidauthority.com/watch-bands-pfas-forever-chemicals-3515723/)
- - [Why Dumping Seawater on Blazes Isn’t the Answer to California’s Wildfire Problem](https://www.wired.com/story/firefighting-planes-are-dumping-ocean-water-on-the-los-angeles-fires-why-using-saltwater-is-typically-a-last-resort/)<!-- TECH:END -->
+ - [Hisense’s RGB LED Could Be the Future for Cheap Screens](https://www.wired.com/story/what-is-rgb-led-tv/)
+ - [I tried the TECNO Pocket Go and discovered a whole new portable way to game on Windows](https://www.androidauthority.com/tecno-pocket-go-hands-on-review-3515318/)
+ - [New year, new Switch, new Severance](https://www.theverge.com/2025/1/19/24346079/nintendo-switch-2-severance-apple-chatgpt-tasks-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
