@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stop overvaluing women they all wear makeup](http://9gag.com/gag/awyybmQ)
- - 🚯 [No panties needed](http://9gag.com/gag/aZZZW89)
- - 🚯 [Step 1: Confuse your opponents](http://9gag.com/gag/a2vvqmE)<!-- MEMES:END -->
+ - 🚖 [The old times were better](http://9gag.com/gag/aGyyxr5)
+ - 🚯 [Haha or no haha](http://9gag.com/gag/aKGG2Y6)
+ - 🚯 [The pinnacle of ai technology](http://9gag.com/gag/aVvveqO)<!-- MEMES:END -->
 
 --- 
 
