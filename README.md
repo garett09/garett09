@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Hamlet’s creators put Shakespeare in GTA to put chaos back into Shakespeare](https://www.polygon.com/movies/510687/grand-theft-hamlet-interview-how-they-did-it)
- - [Marvel Snap down, caught in the TikTok ban](https://www.polygon.com/gaming/511299/marvel-snap-down-bytedance-tiktok-ban)
- - [TikTok goes dark in the U.S.](https://www.polygon.com/culture/511295/tiktok-shutdown-ban-why-cant-download-app)<!-- GAME:END -->
+ - [It took a decade for NASA to piece together this 416,592,960 pixel image of the Andromeda galaxy and the key takeaway? &#39;Andromeda&#39;s a train wreck&#39;](https://www.pcgamer.com/hardware/it-took-a-decade-for-nasa-to-piece-together-this-416-592-960-pixel-image-of-the-andromeda-galaxy-and-the-key-takeaway-andromedas-a-train-wreck/)
+ - [Aokzoe teases its next-gen handheld gaming PC and it looks like it&#39;s just stuffed a better chip, screen, and battery into its not-bad, not-great A1 Pro](https://www.pcgamer.com/hardware/handheld-gaming-pcs/aokzoe-teases-its-next-gen-handheld-gaming-pc-and-it-looks-like-its-just-stuffed-a-better-chip-screen-and-battery-into-its-not-bad-not-great-a1-pro/)
+ - [Pimax Crystal Light review](https://www.pcgamer.com/games/vr/pimax-crystal-light-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
