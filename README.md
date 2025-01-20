@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hisense’s RGB LED Could Be the Future for Cheap Screens](https://www.wired.com/story/what-is-rgb-led-tv/)
- - [I tried the TECNO Pocket Go and discovered a whole new portable way to game on Windows](https://www.androidauthority.com/tecno-pocket-go-hands-on-review-3515318/)
- - [New year, new Switch, new Severance](https://www.theverge.com/2025/1/19/24346079/nintendo-switch-2-severance-apple-chatgpt-tasks-installer)<!-- TECH:END -->
+ - [How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts](https://www.wired.com/story/how-to-use-parental-controls-in-your-google-apple-and-microsoft-accounts/)
+ - [How to Use Apple’s Genmoji to Create New Kinds of Emojis](https://www.wired.com/story/how-to-create-genmoji-iphone-ios-18-ipados-18/)
+ - [Welcome to the era of gangster tech regulation](https://www.theverge.com/2025/1/20/24346317/trump-gangster-tech-regulation-corruption-grift)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
