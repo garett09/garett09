@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts](https://www.wired.com/story/how-to-use-parental-controls-in-your-google-apple-and-microsoft-accounts/)
- - [How to Use Apple’s Genmoji to Create New Kinds of Emojis](https://www.wired.com/story/how-to-create-genmoji-iphone-ios-18-ipados-18/)
- - [Welcome to the era of gangster tech regulation](https://www.theverge.com/2025/1/20/24346317/trump-gangster-tech-regulation-corruption-grift)<!-- TECH:END -->
+ - [Caseology is no more, but its best cases will live on](https://www.androidauthority.com/caseology-cyrill-closing-3518520/)
+ - [4 Things Apple Maps Does Better Than Google Maps](https://www.wired.com/story/things-apple-maps-does-better-than-google-maps/)
+ - [How Invasive Plants Are Fueling California’s Wildfire Crisis](https://www.wired.com/story/how-invasive-plants-are-fueling-californias-wildfire-crisis/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
