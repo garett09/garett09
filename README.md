@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can\u2019t say black anymore](http://9gag.com/gag/avyyOWd)
- - 🚯 [But it was romantic](http://9gag.com/gag/a5QQo7O)
- - 🚯 [Theres a photo online of a dude who killed a hippo with one](http://9gag.com/gag/aD22z0w)<!-- MEMES:END -->
+ - 🚖 [NSFW](http://9gag.com/gag/aByyg5Q)
+ - 🚯 [Who is protecting them ?](http://9gag.com/gag/a5QQRVO)
+ - 🚯 [We&#39;re waiting](http://9gag.com/gag/avyyovZ)<!-- MEMES:END -->
 
 --- 
 
