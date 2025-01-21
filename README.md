@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It took a decade for NASA to piece together this 416,592,960 pixel image of the Andromeda galaxy and the key takeaway? &#39;Andromeda&#39;s a train wreck&#39;](https://www.pcgamer.com/hardware/it-took-a-decade-for-nasa-to-piece-together-this-416-592-960-pixel-image-of-the-andromeda-galaxy-and-the-key-takeaway-andromedas-a-train-wreck/)
- - [Aokzoe teases its next-gen handheld gaming PC and it looks like it&#39;s just stuffed a better chip, screen, and battery into its not-bad, not-great A1 Pro](https://www.pcgamer.com/hardware/handheld-gaming-pcs/aokzoe-teases-its-next-gen-handheld-gaming-pc-and-it-looks-like-its-just-stuffed-a-better-chip-screen-and-battery-into-its-not-bad-not-great-a1-pro/)
- - [Pimax Crystal Light review](https://www.pcgamer.com/games/vr/pimax-crystal-light-review/)<!-- GAME:END -->
+ - [Elon Musk admits account-boosting on PoE2 and Diablo 4 but says deal with it: &#39;What would I be apologizing for?&#39;](https://www.pcgamer.com/games/elon-musk-admits-account-boosting-on-poe2-and-diablo-4-but-says-deal-with-it-what-would-i-be-apologizing-for/)
+ - [World of Warships: Legends introduces new quick guide, The Codex](https://blog.playstation.com/2025/01/21/world-of-warships-legends-introduces-new-quick-guide-the-codex/)
+ - [All Galar Pokémon in Pokémon Go so far](https://www.polygon.com/pokemon-go-guide/444111/galar-pokemon-list-gen-8)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
