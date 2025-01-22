@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk admits account-boosting on PoE2 and Diablo 4 but says deal with it: &#39;What would I be apologizing for?&#39;](https://www.pcgamer.com/games/elon-musk-admits-account-boosting-on-poe2-and-diablo-4-but-says-deal-with-it-what-would-i-be-apologizing-for/)
- - [World of Warships: Legends introduces new quick guide, The Codex](https://blog.playstation.com/2025/01/21/world-of-warships-legends-introduces-new-quick-guide-the-codex/)
- - [All Galar Pokémon in Pokémon Go so far](https://www.polygon.com/pokemon-go-guide/444111/galar-pokemon-list-gen-8)<!-- GAME:END -->
+ - [Star Wars Episode I: Jedi Power Battles launches tomorrow – cheat codes and modernized controls revealed](https://blog.playstation.com/2025/01/22/star-wars-episode-i-jedi-power-battles-launches-tomorrow-cheat-codes-and-modernized-controls-revealed/)
+ - [All of our guesses about Nintendo Switch 2’s mysterious C button](https://www.polygon.com/nintendo-switch-2/510289/nintendo-switch-2-c-button-guesses)
+ - [If you thought PCIe Gen 5 SSDs were a little pointless, don&#39;t worry, here comes 32 GB&#39;s worth of Gen 6 technology](https://www.pcgamer.com/hardware/ssds/if-you-thought-pcie-gen-5-ssds-were-a-little-pointless-dont-worry-here-comes-32-gbs-worth-of-gen-6-technology/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
