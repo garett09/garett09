@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caseology is no more, but its best cases will live on](https://www.androidauthority.com/caseology-cyrill-closing-3518520/)
- - [4 Things Apple Maps Does Better Than Google Maps](https://www.wired.com/story/things-apple-maps-does-better-than-google-maps/)
- - [How Invasive Plants Are Fueling California’s Wildfire Crisis](https://www.wired.com/story/how-invasive-plants-are-fueling-californias-wildfire-crisis/)<!-- TECH:END -->
+ - [How to Send Cash](https://www.wired.com/story/how-to-send-cash/)
+ - [Here’s the tech that could turn millions of Zigbee light bulbs into motion sensors with a single update](https://www.theverge.com/2025/1/22/24348688/zigbee-ambient-sensing-philips-hue-ivani-sensify)
+ - [M4 Mac mini review three months later: the perfect headless Mac](https://appleinsider.com/articles/25/01/22/m4-mac-mini-review-three-months-later-the-perfect-headless-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
