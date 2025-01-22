@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NSFW](http://9gag.com/gag/aByyg5Q)
- - 🚯 [Who is protecting them ?](http://9gag.com/gag/a5QQRVO)
- - 🚯 [We&#39;re waiting](http://9gag.com/gag/avyyovZ)<!-- MEMES:END -->
+ - 🚖 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
+ - 🚯 [Wild genetics...](http://9gag.com/gag/axyy97W)
+ - 🚯 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
 
 --- 
 
