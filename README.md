@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Episode I: Jedi Power Battles launches tomorrow – cheat codes and modernized controls revealed](https://blog.playstation.com/2025/01/22/star-wars-episode-i-jedi-power-battles-launches-tomorrow-cheat-codes-and-modernized-controls-revealed/)
- - [All of our guesses about Nintendo Switch 2’s mysterious C button](https://www.polygon.com/nintendo-switch-2/510289/nintendo-switch-2-c-button-guesses)
- - [If you thought PCIe Gen 5 SSDs were a little pointless, don&#39;t worry, here comes 32 GB&#39;s worth of Gen 6 technology](https://www.pcgamer.com/hardware/ssds/if-you-thought-pcie-gen-5-ssds-were-a-little-pointless-dont-worry-here-comes-32-gbs-worth-of-gen-6-technology/)<!-- GAME:END -->
+ - [Dimension 20&amp;#8217;s sold-out show at MSG shines a light on decades of TTRPG performance](https://www.polygon.com/actual-play/512133/dnd-actual-play-history-critical-role-dimension-20-acquisitions-inc-hickman-gen-con)
+ - [Overclockers UK say they have a &#39;single digit&#39; number of Nvidia&#39;s RTX 5090 cards a week before launch](https://www.pcgamer.com/hardware/graphics-cards/overclockers-uk-say-they-have-a-single-digit-number-of-nvidias-rtx-5090-cards-a-week-before-launch/)
+ - [&#39;Black smoke filled the room&#39;: Reddit user says their Gigabyte mouse spontaneously combusted &#39;with large flames&#39; and now the manufacturer is taking a look](https://www.pcgamer.com/hardware/gaming-mice/black-smoke-filled-the-room-reddit-user-says-their-gigabyte-mouse-spontaneously-combusted-with-large-flames-and-now-the-manufacturer-is-taking-a-look/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
