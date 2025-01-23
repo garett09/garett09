@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Send Cash](https://www.wired.com/story/how-to-send-cash/)
- - [Here’s the tech that could turn millions of Zigbee light bulbs into motion sensors with a single update](https://www.theverge.com/2025/1/22/24348688/zigbee-ambient-sensing-philips-hue-ivani-sensify)
- - [M4 Mac mini review three months later: the perfect headless Mac](https://appleinsider.com/articles/25/01/22/m4-mac-mini-review-three-months-later-the-perfect-headless-mac?utm_medium=rss)<!-- TECH:END -->
+ - [CAIS and Scale AI release &quot;Humanity&#39;s Last Exam&quot;, a new evaluation that they claim is the hardest-ever AI test, consisting of ~3,000 multiple-choice questions &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250123/p22#a250123p22)
+ - [Why Mark Zuckerberg Is Ditching Human Fact-Checkers](https://www.wired.com/story/uncanny-valley-podcast-10-meta-ends-fact-checking/)
+ - [The Cadillac Lyriq-V is quicker than the CT5-V Blackwing](https://www.theverge.com/2025/1/23/24349756/cadillac-lyriq-v-acceleration-specs-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
