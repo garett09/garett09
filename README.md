@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice brake check bro](http://9gag.com/gag/aAyyG2L)
- - 🚯 [Wild genetics...](http://9gag.com/gag/axyy97W)
- - 🚯 [Congratulations. What sport by the way?](http://9gag.com/gag/an77Q15)<!-- MEMES:END -->
+ - 🚖 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)
+ - 🚯 [That horrific,](http://9gag.com/gag/aGyyy0w)
+ - 🚯 [Good](http://9gag.com/gag/aqyyRnY)<!-- MEMES:END -->
 
 --- 
 
