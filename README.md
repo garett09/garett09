@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dimension 20&amp;#8217;s sold-out show at MSG shines a light on decades of TTRPG performance](https://www.polygon.com/actual-play/512133/dnd-actual-play-history-critical-role-dimension-20-acquisitions-inc-hickman-gen-con)
- - [Overclockers UK say they have a &#39;single digit&#39; number of Nvidia&#39;s RTX 5090 cards a week before launch](https://www.pcgamer.com/hardware/graphics-cards/overclockers-uk-say-they-have-a-single-digit-number-of-nvidias-rtx-5090-cards-a-week-before-launch/)
- - [&#39;Black smoke filled the room&#39;: Reddit user says their Gigabyte mouse spontaneously combusted &#39;with large flames&#39; and now the manufacturer is taking a look](https://www.pcgamer.com/hardware/gaming-mice/black-smoke-filled-the-room-reddit-user-says-their-gigabyte-mouse-spontaneously-combusted-with-large-flames-and-now-the-manufacturer-is-taking-a-look/)<!-- GAME:END -->
+ - [Yoshi-P says FF14 team is &#39;discussing&#39; options to fight mod that can be used for stalking, like &#39;legal action&#39; and, uh, asking them to stop](https://www.pcgamer.com/games/final-fantasy/yoshi-p-says-ff14-team-is-discussing-options-to-fight-mod-that-can-be-used-for-stalking-like-legal-action-and-uh-asking-them-to-stop/)
+ - [Severance Just Showed It&#39;s Been Hiding Its Biggest Mystery In Plain Sight](https://kotaku.com/severance-season-2-cold-harbor-mark-1851746671)
+ - [All Genshin Impact 5.4 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-4-livestream/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
