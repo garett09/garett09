@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CAIS and Scale AI release &quot;Humanity&#39;s Last Exam&quot;, a new evaluation that they claim is the hardest-ever AI test, consisting of ~3,000 multiple-choice questions &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250123/p22#a250123p22)
- - [Why Mark Zuckerberg Is Ditching Human Fact-Checkers](https://www.wired.com/story/uncanny-valley-podcast-10-meta-ends-fact-checking/)
- - [The Cadillac Lyriq-V is quicker than the CT5-V Blackwing](https://www.theverge.com/2025/1/23/24349756/cadillac-lyriq-v-acceleration-specs-price)<!-- TECH:END -->
+ - [Microsoft is closing its British flagship store in London](https://www.theverge.com/2025/1/24/24350954/microsoft-store-london-uk-experience-center-closing)
+ - [5 Physics Equations Everyone Should Know](https://www.wired.com/story/5-physics-equations-everyone-should-know/)
+ - [Google Fi is once again sending out $25 relief credits](https://www.androidauthority.com/google-fi-wildfire-relief-credit-3519929/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
