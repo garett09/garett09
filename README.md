@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He tried hard to make his girlfriend happy and got it](http://9gag.com/gag/aGyyyw5)
- - 🚯 [That horrific,](http://9gag.com/gag/aGyyy0w)
- - 🚯 [Good](http://9gag.com/gag/aqyyRnY)<!-- MEMES:END -->
+ - 🚖 [It really is](http://9gag.com/gag/a9yy6DL)
+ - 🚯 [...](http://9gag.com/gag/aQzzQZz)
+ - 🚯 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)<!-- MEMES:END -->
 
 --- 
 
