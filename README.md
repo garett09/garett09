@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It really is](http://9gag.com/gag/a9yy6DL)
- - 🚯 [...](http://9gag.com/gag/aQzzQZz)
- - 🚯 [No one is saving you, just put on a smile and say I\u2019m alright](http://9gag.com/gag/aD22Z7B)<!-- MEMES:END -->
+ - 🚖 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
+ - 🚯 [The Westworld we got](http://9gag.com/gag/an7729L)
+ - 🚯 [Legendary!](http://9gag.com/gag/aRBBZ9y)<!-- MEMES:END -->
 
 --- 
 
