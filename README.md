@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is closing its British flagship store in London](https://www.theverge.com/2025/1/24/24350954/microsoft-store-london-uk-experience-center-closing)
- - [5 Physics Equations Everyone Should Know](https://www.wired.com/story/5-physics-equations-everyone-should-know/)
- - [Google Fi is once again sending out $25 relief credits](https://www.androidauthority.com/google-fi-wildfire-relief-credit-3519929/)<!-- TECH:END -->
+ - [The OnePlus 13 has dethroned the iPhone 16 Pro as my go-to concert camera](https://www.androidauthority.com/oneplus-13-concert-camera-3518568/)
+ - [The Less People Know About AI, the More They Like It](https://www.wired.com/story/the-less-people-know-about-ai-the-more-they-like-it/)
+ - [Razer Laptop Cooling Pad review: are you a fan?](https://www.theverge.com/24350342/razer-laptop-cooling-pad-review-hyperboost-synapse-rgb)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
