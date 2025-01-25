@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yoshi-P says FF14 team is &#39;discussing&#39; options to fight mod that can be used for stalking, like &#39;legal action&#39; and, uh, asking them to stop](https://www.pcgamer.com/games/final-fantasy/yoshi-p-says-ff14-team-is-discussing-options-to-fight-mod-that-can-be-used-for-stalking-like-legal-action-and-uh-asking-them-to-stop/)
- - [Severance Just Showed It&#39;s Been Hiding Its Biggest Mystery In Plain Sight](https://kotaku.com/severance-season-2-cold-harbor-mark-1851746671)
- - [All Genshin Impact 5.4 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-4-livestream/)<!-- GAME:END -->
+ - [The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of January 2025](https://www.polygon.com/what-to-watch/513199/best-movies-netflix-amazon-criterion-leaving-january-2025)
+ - [Call of Duty: Black Ops 6 Season 2 will let players battle on boats and bullet-trains, with the Terminator entering the fray &#39;shortly after launch&#39;](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-season-2-will-let-players-battle-on-boats-and-bullet-trains-with-the-terminator-entering-the-fray-shortly-after-launch/)
+ - [&#39;That&#39;s why they call me the Elden Ring sicko&#39; proclaims streamer as he beats FromSoft&#39;s RPG at NG+1000 without taking a single hit](https://www.pcgamer.com/games/rpg/thats-why-they-call-me-the-elden-ring-sicko-proclaims-streamer-as-he-beats-fromsofts-rpg-at-ng-1000-without-taking-a-single-hit/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
