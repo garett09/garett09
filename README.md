@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 13 has dethroned the iPhone 16 Pro as my go-to concert camera](https://www.androidauthority.com/oneplus-13-concert-camera-3518568/)
- - [The Less People Know About AI, the More They Like It](https://www.wired.com/story/the-less-people-know-about-ai-the-more-they-like-it/)
- - [Razer Laptop Cooling Pad review: are you a fan?](https://www.theverge.com/24350342/razer-laptop-cooling-pad-review-hyperboost-synapse-rgb)<!-- TECH:END -->
+ - [I’m sorry, I was wrong about Google Photos Memories](https://www.androidauthority.com/wrong-google-photos-memories-3517991/)
+ - [Crime blotter: 12 charged in London Apple Store thefts](https://appleinsider.com/articles/25/01/26/crime-blotter-12-charged-in-london-apple-store-thefts?utm_medium=rss)
+ - [‘Reflecting New York’ Holds a Mirror Up to NYC](https://www.wired.com/story/reflecting-new-york-holds-a-mirror-up-to-manhattan/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
