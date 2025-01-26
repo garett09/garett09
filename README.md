@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of January 2025](https://www.polygon.com/what-to-watch/513199/best-movies-netflix-amazon-criterion-leaving-january-2025)
- - [Call of Duty: Black Ops 6 Season 2 will let players battle on boats and bullet-trains, with the Terminator entering the fray &#39;shortly after launch&#39;](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-6-season-2-will-let-players-battle-on-boats-and-bullet-trains-with-the-terminator-entering-the-fray-shortly-after-launch/)
- - [&#39;That&#39;s why they call me the Elden Ring sicko&#39; proclaims streamer as he beats FromSoft&#39;s RPG at NG+1000 without taking a single hit](https://www.pcgamer.com/games/rpg/thats-why-they-call-me-the-elden-ring-sicko-proclaims-streamer-as-he-beats-fromsofts-rpg-at-ng-1000-without-taking-a-single-hit/)<!-- GAME:END -->
+ - [Blade Chimera mixes up the Metroidvania formula with an extremely cool sword](https://www.polygon.com/review/513883/blade-chimera-review-metroidvania-pc-nintendo-switch)
+ - [Final Fantasy 7 Rebirth&#39;s director says &#39;I respect the modding community&#39; and uses mods himself, though he still thinks we shouldn&#39;t use ones that &#39;detract from the intended game experience&#39;](https://www.pcgamer.com/games/rpg/final-fantasy-7-rebirths-director-says-i-respect-the-modding-community-and-uses-mods-himself-though-he-still-thinks-we-shouldnt-use-ones-that-detract-from-the-intended-game-experience/)
+ - [The Video Game History Foundation launches its digital library later this month, providing access to over 1,500 videogame magazines and &#39;never-before-seen game development materials&#39;](https://www.pcgamer.com/games/the-video-game-history-foundation-launches-its-digital-library-later-this-month-providing-access-to-over-1-500-videogame-magazines-and-never-before-seen-game-development-materials/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
