@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*throws holy granade*](http://9gag.com/gag/azxxKqK)
- - 🚯 [The Westworld we got](http://9gag.com/gag/an7729L)
- - 🚯 [Legendary!](http://9gag.com/gag/aRBBZ9y)<!-- MEMES:END -->
+ - 🚖 [Pakistan mall](http://9gag.com/gag/aAyyOOp)
+ - 🚯 [Very success much wow](http://9gag.com/gag/aKGG8yb)
+ - 🚯 [How much are u gay? yes!](http://9gag.com/gag/an77DA0)<!-- MEMES:END -->
 
 --- 
 
