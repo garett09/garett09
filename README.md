@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pakistan mall](http://9gag.com/gag/aAyyOOp)
- - 🚯 [Very success much wow](http://9gag.com/gag/aKGG8yb)
- - 🚯 [How much are u gay? yes!](http://9gag.com/gag/an77DA0)<!-- MEMES:END -->
+ - 🚖 [Man carries out maintenance work in own garage](http://9gag.com/gag/aMVVy9X)
+ - 🚯 [We are idiots](http://9gag.com/gag/aByyvwz)
+ - 🚯 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)<!-- MEMES:END -->
 
 --- 
 
