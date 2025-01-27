@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blade Chimera mixes up the Metroidvania formula with an extremely cool sword](https://www.polygon.com/review/513883/blade-chimera-review-metroidvania-pc-nintendo-switch)
- - [Final Fantasy 7 Rebirth&#39;s director says &#39;I respect the modding community&#39; and uses mods himself, though he still thinks we shouldn&#39;t use ones that &#39;detract from the intended game experience&#39;](https://www.pcgamer.com/games/rpg/final-fantasy-7-rebirths-director-says-i-respect-the-modding-community-and-uses-mods-himself-though-he-still-thinks-we-shouldnt-use-ones-that-detract-from-the-intended-game-experience/)
- - [The Video Game History Foundation launches its digital library later this month, providing access to over 1,500 videogame magazines and &#39;never-before-seen game development materials&#39;](https://www.pcgamer.com/games/the-video-game-history-foundation-launches-its-digital-library-later-this-month-providing-access-to-over-1-500-videogame-magazines-and-never-before-seen-game-development-materials/)<!-- GAME:END -->
+ - [This spectacular GB202 die shot shows just how massive Nvidia&#39;s RTX 5090 GPU is but it&#39;s not the largest chip it&#39;s ever shoehorned into a gaming graphics card](https://www.pcgamer.com/hardware/graphics-cards/this-spectacular-gb202-die-shot-shows-just-how-massive-nvidias-rtx-5090-gpu-is-but-its-not-the-largest-chip-its-ever-shoehorned-into-a-gaming-graphics-card/)
+ - [&#39;Rocket&#39;s devastated&#39;: Marvel Rivals player who took on the daunting task of rising to GM without doing any damage accidentally fumbles the ball right before Celestial](https://www.pcgamer.com/games/third-person-shooter/rockets-devastated-marvel-rivals-player-who-took-on-the-daunting-task-of-rising-to-gm-without-doing-any-damage-accidentally-fumbles-the-ball-right-before-celestial/)
+ - [Orcs Must Die: Deathtrap](https://www.pcgamer.com/games/action/orcs-must-die-deathtrap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
