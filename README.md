@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m sorry, I was wrong about Google Photos Memories](https://www.androidauthority.com/wrong-google-photos-memories-3517991/)
- - [Crime blotter: 12 charged in London Apple Store thefts](https://appleinsider.com/articles/25/01/26/crime-blotter-12-charged-in-london-apple-store-thefts?utm_medium=rss)
- - [‘Reflecting New York’ Holds a Mirror Up to NYC](https://www.wired.com/story/reflecting-new-york-holds-a-mirror-up-to-manhattan/)<!-- TECH:END -->
+ - [Apple Watch crucial to rescue of skiers who fell 1,000 feet down a mountain](https://appleinsider.com/articles/25/01/27/apple-watch-crucial-to-rescue-of-skiers-who-fell-1000-feet-down-a-mountain?utm_medium=rss)
+ - [Nothing Phone 3 incoming? Nothing shares teaser, launch date](https://www.androidauthority.com/nothing-phone-3-teaser-launch-date-3520387/)
+ - [13 Best Electric Kettles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-kettles/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
