@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch crucial to rescue of skiers who fell 1,000 feet down a mountain](https://appleinsider.com/articles/25/01/27/apple-watch-crucial-to-rescue-of-skiers-who-fell-1000-feet-down-a-mountain?utm_medium=rss)
- - [Nothing Phone 3 incoming? Nothing shares teaser, launch date](https://www.androidauthority.com/nothing-phone-3-teaser-launch-date-3520387/)
- - [13 Best Electric Kettles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-kettles/)<!-- TECH:END -->
+ - [AI enterprise service management startup Atomicwork raised a $25M Series A led by Khosla Ventures and Z47, a source says at a $150M valuation &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250128/p12#a250128p12)
+ - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
+ - [This 3D-printed case de-Netflixes your Shield TV Pro remote](https://www.androidauthority.com/case-hides-netflix-shield-tv-pro-remote-3520791/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
