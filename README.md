@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Best Smart Glasses of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)
- - [OpenAI claims DeepSeek copied ChatGPT’s homework](https://www.androidauthority.com/deepseek-openai-us-navy-3521228/)
- - [There are $5 AirPods Max clones, and they are about as bad as you think](https://appleinsider.com/articles/25/01/29/there-are-5-airpods-max-clones-and-they-are-about-as-bad-as-you-think?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Music Unlimited pulls a Spotify, hikes individual and family pricing](https://www.androidauthority.com/amazon-music-unlimited-hikes-pricing-3521679/)
+ - [The Argonne National Laboratory says its Aurora supercomputer is now fully operational and available to researchers, offering over 1 FP64 exaFLOPS performance &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250130/p11#a250130p11)
+ - [How TSMC beat Intel to be Apple&#39;s main chip foundry](https://appleinsider.com/articles/25/01/30/how-tsmc-beat-intel-to-be-apples-main-chip-foundry?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
