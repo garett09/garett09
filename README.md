@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Music Unlimited pulls a Spotify, hikes individual and family pricing](https://www.androidauthority.com/amazon-music-unlimited-hikes-pricing-3521679/)
- - [The Argonne National Laboratory says its Aurora supercomputer is now fully operational and available to researchers, offering over 1 FP64 exaFLOPS performance &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250130/p11#a250130p11)
- - [How TSMC beat Intel to be Apple&#39;s main chip foundry](https://appleinsider.com/articles/25/01/30/how-tsmc-beat-intel-to-be-apples-main-chip-foundry?utm_medium=rss)<!-- TECH:END -->
+ - [Israel-based Anchor, a platform for automated invoice management and collection, raised a $20M Series A, and plans to expand in the US and double its workforce &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250131/p11#a250131p11)
+ - [6 Best Dash Appliances &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dash-appliances/)
+ - [Apple rumored to have a foldable display supplier selected soon](https://appleinsider.com/articles/25/01/31/apple-rumored-to-have-a-foldable-display-supplier-selected-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
