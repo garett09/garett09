@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel-based Anchor, a platform for automated invoice management and collection, raised a $20M Series A, and plans to expand in the US and double its workforce &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250131/p11#a250131p11)
- - [6 Best Dash Appliances &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dash-appliances/)
- - [Apple rumored to have a foldable display supplier selected soon](https://appleinsider.com/articles/25/01/31/apple-rumored-to-have-a-foldable-display-supplier-selected-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Moon or Mars? The US Might Face a Tough Choice for Future Missions](https://www.wired.com/story/the-us-could-get-to-mars-quicker-if-it-deprioritizes-going-to-the-moon/)
+ - [A Side Sleeper Tests and Reviews Popular Body Pillows &lpar;2025&rpar;](https://www.wired.com/gallery/best-body-pillows-for-side-sleepers/)
+ - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
