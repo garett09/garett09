@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moon or Mars? The US Might Face a Tough Choice for Future Missions](https://www.wired.com/story/the-us-could-get-to-mars-quicker-if-it-deprioritizes-going-to-the-moon/)
- - [A Side Sleeper Tests and Reviews Popular Body Pillows &lpar;2025&rpar;](https://www.wired.com/gallery/best-body-pillows-for-side-sleepers/)
- - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)<!-- TECH:END -->
+ - [Why Computer Scientists Need Magic 8 Ball-Like Oracles](https://www.wired.com/story/why-computer-scientists-need-magic-8-ball-like-oracles/)
+ - [7 Best Hair Masks, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-masks/)
+ - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
