@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Computer Scientists Need Magic 8 Ball-Like Oracles](https://www.wired.com/story/why-computer-scientists-need-magic-8-ball-like-oracles/)
- - [7 Best Hair Masks, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-masks/)
- - [The Top 6 Alarm Clocks of 2025](https://www.cnet.com/health/sleep/best-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reencle Prime Review: A Sustainable Solution for Making Compost](https://www.wired.com/review/reencle-prime/)
+ - [Sources: the EU Commission and four member nations plan a probe into Shein over illegal products, opening the fast fashion marketplace up to potential fines &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p10#a250203p10)
+ - [Retro gamers rejoice: Dreamcast emulator Flycast gains online play on Android](https://www.androidauthority.com/flycast-dreamcast-online-multiplayer-3522538/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
