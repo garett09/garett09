@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reencle Prime Review: A Sustainable Solution for Making Compost](https://www.wired.com/review/reencle-prime/)
- - [Sources: the EU Commission and four member nations plan a probe into Shein over illegal products, opening the fast fashion marketplace up to potential fines &lpar;Bloomberg&rpar;](http://www.techmeme.com/250203/p10#a250203p10)
- - [Retro gamers rejoice: Dreamcast emulator Flycast gains online play on Android](https://www.androidauthority.com/flycast-dreamcast-online-multiplayer-3522538/)<!-- TECH:END -->
+ - [Best Tested Walking Pads &lpar;2025&rpar;: Sperax, WalkingPad, Egofit](https://www.wired.com/story/best-walking-pads/)
+ - [Motorola’s new LAM is much more exciting than the Rabbit R1 ever was](https://www.androidauthority.com/motorola-lam-vs-rabbit-r1-3519716/)
+ - [Xbox Wireless Headset Review &lpar;2024&rpar;: Pair and Play](https://www.wired.com/review/xbox-wireless-headset-2024/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
