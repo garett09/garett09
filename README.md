@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Tested Walking Pads &lpar;2025&rpar;: Sperax, WalkingPad, Egofit](https://www.wired.com/story/best-walking-pads/)
- - [Motorola’s new LAM is much more exciting than the Rabbit R1 ever was](https://www.androidauthority.com/motorola-lam-vs-rabbit-r1-3519716/)
- - [Xbox Wireless Headset Review &lpar;2024&rpar;: Pair and Play](https://www.wired.com/review/xbox-wireless-headset-2024/)<!-- TECH:END -->
+ - [Gemini could soon fix its attachment inconsistencies &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-overay-fix-attachment-inconsistencies-apk-teardown-3523464/)
+ - [Apple Silicon M5 chips are probably in mass production now](https://appleinsider.com/articles/25/02/05/apple-silicon-m5-chips-are-probably-in-mass-production-now?utm_medium=rss)
+ - [Android gaming handheld buyers are not getting their packages, here’s why](https://www.androidauthority.com/gaming-handheld-usps-suspension-3523453/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
