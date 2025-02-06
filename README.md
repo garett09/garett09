@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini could soon fix its attachment inconsistencies &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-overay-fix-attachment-inconsistencies-apk-teardown-3523464/)
- - [Apple Silicon M5 chips are probably in mass production now](https://appleinsider.com/articles/25/02/05/apple-silicon-m5-chips-are-probably-in-mass-production-now?utm_medium=rss)
- - [Android gaming handheld buyers are not getting their packages, here’s why](https://www.androidauthority.com/gaming-handheld-usps-suspension-3523453/)<!-- TECH:END -->
+ - [This upcoming Ultra flagship could look like a Leica camera, and we dig it](https://www.androidauthority.com/xiaomi-15-ultra-leica-m11-camera-leak-3523885/)
+ - [The 5 Best Bread Makers, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bread-makers/)
+ - [Trump&#39;s de minimis cancellation is likely to hit Shein harder than online dollar-store Temu, which has shifted to an Amazon-like bulk overseas shipment strategy &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/250206/p16#a250206p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
