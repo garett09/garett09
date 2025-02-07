@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This upcoming Ultra flagship could look like a Leica camera, and we dig it](https://www.androidauthority.com/xiaomi-15-ultra-leica-m11-camera-leak-3523885/)
- - [The 5 Best Bread Makers, Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bread-makers/)
- - [Trump&#39;s de minimis cancellation is likely to hit Shein harder than online dollar-store Temu, which has shifted to an Amazon-like bulk overseas shipment strategy &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/250206/p16#a250206p16)<!-- TECH:END -->
+ - [14 Best Deals on Valentine’s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/valentines-day-deals-2025/)
+ - [Microsoft warns that attackers are injecting malware into ViewState, which manages state in ASP.NET web forms, using static machine keys found online &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250207/p12#a250207p12)
+ - [I looked for an ‘AirPods for Android’ alternative and found my perfect pair of earbuds](https://www.androidauthority.com/beats-studio-buds-plus-are-airpods-for-android-3512291/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
