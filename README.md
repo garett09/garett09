@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Deals on Valentine’s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/valentines-day-deals-2025/)
- - [Microsoft warns that attackers are injecting malware into ViewState, which manages state in ASP.NET web forms, using static machine keys found online &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250207/p12#a250207p12)
- - [I looked for an ‘AirPods for Android’ alternative and found my perfect pair of earbuds](https://www.androidauthority.com/beats-studio-buds-plus-are-airpods-for-android-3512291/)<!-- TECH:END -->
+ - [Live Captions on Android are going transparent](https://www.androidauthority.com/transparent-live-captions-3524300/)
+ - [Why People Act So Weirdly at Airports](https://www.wired.com/story/the-weird-psychology-of-airports/)
+ - [Best Reading Glasses for 2025](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
