@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live Captions on Android are going transparent](https://www.androidauthority.com/transparent-live-captions-3524300/)
- - [Why People Act So Weirdly at Airports](https://www.wired.com/story/the-weird-psychology-of-airports/)
- - [Best Reading Glasses for 2025](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crime blotter: Car theft suspects caught thanks to AirPods](https://appleinsider.com/articles/25/02/09/crime-blotter-car-theft-suspects-caught-thanks-to-airpods?utm_medium=rss)
+ - [An analysis of US DOL data: the IT sector unemployment rate rose from 3.9% in December to 5.7% in January, with the number of unemployed rising from 98K to 152K &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250209/p7#a250209p7)
+ - [Apple&#39;s original and delayed HomePod finally shipped seven years ago](https://appleinsider.com/articles/25/02/09/apples-original-and-delayed-homepod-finally-shipped-seven-years-ago?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
