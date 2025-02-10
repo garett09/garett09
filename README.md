@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Car theft suspects caught thanks to AirPods](https://appleinsider.com/articles/25/02/09/crime-blotter-car-theft-suspects-caught-thanks-to-airpods?utm_medium=rss)
- - [An analysis of US DOL data: the IT sector unemployment rate rose from 3.9% in December to 5.7% in January, with the number of unemployed rising from 98K to 152K &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250209/p7#a250209p7)
- - [Apple&#39;s original and delayed HomePod finally shipped seven years ago](https://appleinsider.com/articles/25/02/09/apples-original-and-delayed-homepod-finally-shipped-seven-years-ago?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: OpenAI is finalizing its first in-house chip design in the next few months, to cut its Nvidia reliance, and plans to send it for fabrication at TSMC &lpar;Reuters&rpar;](http://www.techmeme.com/250210/p13#a250210p13)
+ - [We held the world’s thinnest foldable phone, check it out!](https://www.androidauthority.com/oppo-find-n5-world-thinnest-foldable-hands-on-3524518/)
+ - [Inside Binance compliance boss and ex-IRS agent Tigran Gambaryan&#39;s imprisonment in Nigeria, relayed via texts from a secret phone, over money laundering charges &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250210/p12#a250210p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
