@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is finalizing its first in-house chip design in the next few months, to cut its Nvidia reliance, and plans to send it for fabrication at TSMC &lpar;Reuters&rpar;](http://www.techmeme.com/250210/p13#a250210p13)
- - [We held the world’s thinnest foldable phone, check it out!](https://www.androidauthority.com/oppo-find-n5-world-thinnest-foldable-hands-on-3524518/)
- - [Inside Binance compliance boss and ex-IRS agent Tigran Gambaryan&#39;s imprisonment in Nigeria, relayed via texts from a secret phone, over money laundering charges &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250210/p12#a250210p12)<!-- TECH:END -->
+ - [25 years of Apple&#39;s innovation with the iTunes Music Store](https://appleinsider.com/articles/25/02/11/25-years-of-apples-innovation-with-the-itunes-music-store?utm_medium=rss)
+ - [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Chinese EV maker BYD unveils a &quot;God&#39;s Eye&quot; self-driving system and aims to install it on its entire lineup, including its ~$9,600 Seagull hatchback &lpar;Gloria Li/Financial Times&rpar;](http://www.techmeme.com/250211/p14#a250211p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
