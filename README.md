@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 years of Apple&#39;s innovation with the iTunes Music Store](https://appleinsider.com/articles/25/02/11/25-years-of-apples-innovation-with-the-itunes-music-store?utm_medium=rss)
- - [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Chinese EV maker BYD unveils a &quot;God&#39;s Eye&quot; self-driving system and aims to install it on its entire lineup, including its ~$9,600 Seagull hatchback &lpar;Gloria Li/Financial Times&rpar;](http://www.techmeme.com/250211/p14#a250211p14)<!-- TECH:END -->
+ - [In Q4, Meta tweaked its depreciation accounting for AI infrastructure, extending it from 4-5 to 5.5 years, cutting expenses by $2.9B in 2025 and boosting profit &lpar;Jeran Wittenstein/Bloomberg&rpar;](http://www.techmeme.com/250212/p17#a250212p17)
+ - [I’ve glimpsed the future of mobile AI and it’ll cost you, unless…](https://www.androidauthority.com/future-ai-subscriptions-3523924/)
+ - [Xiaomi Poco X7 Pro Review: Midrange Marvel](https://www.wired.com/review/xiaomi-poco-x7-pro/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
