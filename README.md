@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This spectacular GB202 die shot shows just how massive Nvidia&#39;s RTX 5090 GPU is but it&#39;s not the largest chip it&#39;s ever shoehorned into a gaming graphics card](https://www.pcgamer.com/hardware/graphics-cards/this-spectacular-gb202-die-shot-shows-just-how-massive-nvidias-rtx-5090-gpu-is-but-its-not-the-largest-chip-its-ever-shoehorned-into-a-gaming-graphics-card/)
- - [&#39;Rocket&#39;s devastated&#39;: Marvel Rivals player who took on the daunting task of rising to GM without doing any damage accidentally fumbles the ball right before Celestial](https://www.pcgamer.com/games/third-person-shooter/rockets-devastated-marvel-rivals-player-who-took-on-the-daunting-task-of-rising-to-gm-without-doing-any-damage-accidentally-fumbles-the-ball-right-before-celestial/)
- - [Orcs Must Die: Deathtrap](https://www.pcgamer.com/games/action/orcs-must-die-deathtrap/)<!-- GAME:END -->
+ - [Somebody spilled Nier and Pokémon all over this Metroidvania](https://www.polygon.com/review/523325/ender-magnolia-review-steam-switch-metroidvania)
+ - [Astro Bot wins big at DICE as Indiana Jones takes home 3 awards](https://www.polygon.com/awards/523903/dice-awards-winners-2025-astro-bot)
+ - [AMD is finally spilling the beans about the RX 9070 series during a live stream on February 28](https://www.pcgamer.com/hardware/graphics-cards/amd-is-finally-spilling-the-beans-about-the-rx-9070-series-during-a-live-stream-on-february-28/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
