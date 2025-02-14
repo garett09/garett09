@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man carries out maintenance work in own garage](http://9gag.com/gag/aMVVy9X)
- - 🚯 [We are idiots](http://9gag.com/gag/aByyvwz)
- - 🚯 [People Offering Prayers At River Yamuna, India, Which Is Frothing From Industrial Waste](http://9gag.com/gag/aRBByKA)<!-- MEMES:END -->
+ - 🚖 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
+ - 🚯 [Relatable](http://9gag.com/gag/aVvgrPn)
+ - 🚯 [Dude really tried to become a millionaire through a pawn shop](http://9gag.com/gag/an7Oo4V)<!-- MEMES:END -->
 
 --- 
 
