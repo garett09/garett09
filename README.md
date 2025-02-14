@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany&#39;s Bundeskartellamt charges Apple with abusing its market power via App Tracking Transparency, giving itself preferential treatment, and requires changes &lpar;Reuters&rpar;](http://www.techmeme.com/250213/p21#a250213p21)
- - [iPhone 17 Pro Max&#39;s Dynamic Island rumored to be the smallest yet](https://appleinsider.com/articles/25/02/13/iphone-17-pro-maxs-dynamic-island-rumored-to-be-the-smallest-yet?utm_medium=rss)
- - [This is the feature I want to see on my Google Pixel Watch](https://www.androidauthority.com/feature-i-want-google-pixel-watch-3524719/)<!-- TECH:END -->
+ - [Hate AI in Shorts? You might start seeing more of it thanks to YouTube’s latest feature](https://www.androidauthority.com/youtube-dream-screen-video-generation-shorts-3526425/)
+ - [The Best Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)
+ - [Beyerdynamic Aventho 300 Review: Great Sound, Steep Price](https://www.wired.com/review/beyerdynamic-aventho-300/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
