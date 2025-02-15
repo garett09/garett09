@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hate AI in Shorts? You might start seeing more of it thanks to YouTube’s latest feature](https://www.androidauthority.com/youtube-dream-screen-video-generation-shorts-3526425/)
- - [The Best Presidents’ Day Mattress Deals &lpar;and Bedding Too!&rpar;](https://www.wired.com/story/presidents-day-mattress-deals-2025/)
- - [Beyerdynamic Aventho 300 Review: Great Sound, Steep Price](https://www.wired.com/review/beyerdynamic-aventho-300/)<!-- TECH:END -->
+ - [Gmail’s easy new bill-paying tools are now ready for you to try out](https://www.androidauthority.com/gmail-bill-summary-card-3526710/)
+ - [For-Profit Companies Can’t Easily Replace NOAA’s Weather-Forecasting Prowess](https://www.wired.com/story/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it/)
+ - [Samsung could make up for One UI 7 delay by releasing One UI 8 earlier than expected](https://www.androidauthority.com/samsung-one-ui-8-earlier-release-leak-3526760/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
