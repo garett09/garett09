@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Somebody spilled Nier and Pokémon all over this Metroidvania](https://www.polygon.com/review/523325/ender-magnolia-review-steam-switch-metroidvania)
- - [Astro Bot wins big at DICE as Indiana Jones takes home 3 awards](https://www.polygon.com/awards/523903/dice-awards-winners-2025-astro-bot)
- - [AMD is finally spilling the beans about the RX 9070 series during a live stream on February 28](https://www.pcgamer.com/hardware/graphics-cards/amd-is-finally-spilling-the-beans-about-the-rx-9070-series-during-a-live-stream-on-february-28/)<!-- GAME:END -->
+ - [The best horror to watch on Netflix this February](https://www.polygon.com/what-to-watch/523884/best-horror-movies-netflix-watch-february-2025)
+ - [Dark Messiah of Might and Magic gets co-op mode and extra content thanks to the mod community&#39;s collaboration with Ubisoft: &#39;To see it all come together has been very emotional for us&#39;](https://www.pcgamer.com/games/action/dark-messiah-of-might-and-magic-gets-co-op-mode-and-extra-content-thanks-to-the-mod-communitys-collaboration-with-ubisoft-to-see-it-all-come-together-has-been-very-emotional-for-us/)
+ - [Indie FPS developer targets content creators who take undisclosed payments from rival developers and then dunk on his game: &#39;You and I will have legal problems&#39;](https://www.pcgamer.com/games/fps/indie-fps-developer-targets-content-creators-who-take-undisclosed-payments-from-rival-developers-and-then-dunk-on-his-game-you-and-i-will-have-legal-problems/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
