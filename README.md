@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We all know what the top comment is going to be](http://9gag.com/gag/aGyLvwX)
- - 🚯 [Relatable](http://9gag.com/gag/aVvgrPn)
- - 🚯 [Dude really tried to become a millionaire through a pawn shop](http://9gag.com/gag/an7Oo4V)<!-- MEMES:END -->
+ - 🚖 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
+ - 🚯 [Re-education camp for Muslims in China](http://9gag.com/gag/a6ZDYn2)
+ - 🚯 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)<!-- MEMES:END -->
 
 --- 
 
