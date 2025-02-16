@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror to watch on Netflix this February](https://www.polygon.com/what-to-watch/523884/best-horror-movies-netflix-watch-february-2025)
- - [Dark Messiah of Might and Magic gets co-op mode and extra content thanks to the mod community&#39;s collaboration with Ubisoft: &#39;To see it all come together has been very emotional for us&#39;](https://www.pcgamer.com/games/action/dark-messiah-of-might-and-magic-gets-co-op-mode-and-extra-content-thanks-to-the-mod-communitys-collaboration-with-ubisoft-to-see-it-all-come-together-has-been-very-emotional-for-us/)
- - [Indie FPS developer targets content creators who take undisclosed payments from rival developers and then dunk on his game: &#39;You and I will have legal problems&#39;](https://www.pcgamer.com/games/fps/indie-fps-developer-targets-content-creators-who-take-undisclosed-payments-from-rival-developers-and-then-dunk-on-his-game-you-and-i-will-have-legal-problems/)<!-- GAME:END -->
+ - [Mintrocket&#39;s director is delighted to bring Like a Dragon&#39;s Ichiban into Dave the Diver, &#39;It&#39;s been a dream of mine to invite these iconic characters into Dave’s world&#39;](https://www.pcgamer.com/games/adventure/mintrockets-director-is-delighted-to-bring-like-a-dragons-ichiban-into-dave-the-diver-its-been-a-dream-of-mine-to-invite-these-iconic-characters-into-daves-world/)
+ - [Directive 8020: A Dark Pictures Game launches John Carpenter&#39;s the Thing into space this October](https://www.pcgamer.com/games/horror/directive-8020-a-dark-pictures-game-launches-john-carpenters-the-thing-into-space-this-october/)
+ - [Metal Eden is a movement-shooter that looks like cyberpunk Doom Eternal](https://www.pcgamer.com/games/fps/metal-eden-is-a-movement-shooter-that-looks-like-cyberpunk-doom-eternal/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
