@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail’s easy new bill-paying tools are now ready for you to try out](https://www.androidauthority.com/gmail-bill-summary-card-3526710/)
- - [For-Profit Companies Can’t Easily Replace NOAA’s Weather-Forecasting Prowess](https://www.wired.com/story/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it/)
- - [Samsung could make up for One UI 7 delay by releasing One UI 8 earlier than expected](https://www.androidauthority.com/samsung-one-ui-8-earlier-release-leak-3526760/)<!-- TECH:END -->
+ - [5 unique ways I use Android 15’s Private Space that aren’t for porn or cheating](https://www.androidauthority.com/unique-uses-android-15-private-space-3526505/)
+ - [Asus Zenbook A14 Review: A Super Lightweight Laptop](https://www.wired.com/review/asus-zenbook-a14/)
+ - [A treasure trove of comedy history](https://www.theverge.com/installer-newsletter/613174/snl-50-peacock-apple-tv-plus-powerbeats-pro-2-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
