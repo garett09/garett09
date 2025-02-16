@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s the same thing, innit?](http://9gag.com/gag/a2vMpXp)
- - 🚯 [Re-education camp for Muslims in China](http://9gag.com/gag/a6ZDYn2)
- - 🚯 [Somehow Beyonce still winning the Grammy](http://9gag.com/gag/a1m73D2)<!-- MEMES:END -->
+ - 🚖 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)
+ - 🚯 [Epic](http://9gag.com/gag/apR1y49)
+ - 🚯 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
 
 --- 
 
