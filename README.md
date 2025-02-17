@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was there 3,000 years ago...](http://9gag.com/gag/a1m73qw)
- - 🚯 [Epic](http://9gag.com/gag/apR1y49)
- - 🚯 [Watch the match not the cheerleading sisters](http://9gag.com/gag/aNDLyoG)<!-- MEMES:END -->
+ - 🚖 [Premonition](http://9gag.com/gag/aryW6q0)
+ - 🚯 [In order to plan and perform operations easier, New York surgeons have shown an augmented reality device that helps them in their work.](http://9gag.com/gag/aryW6b7)
+ - 🚯 [Unpaid Internship Debate...](http://9gag.com/gag/a1m7GDP)<!-- MEMES:END -->
 
 --- 
 
