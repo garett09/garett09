@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 unique ways I use Android 15’s Private Space that aren’t for porn or cheating](https://www.androidauthority.com/unique-uses-android-15-private-space-3526505/)
- - [Asus Zenbook A14 Review: A Super Lightweight Laptop](https://www.wired.com/review/asus-zenbook-a14/)
- - [A treasure trove of comedy history](https://www.theverge.com/installer-newsletter/613174/snl-50-peacock-apple-tv-plus-powerbeats-pro-2-installer)<!-- TECH:END -->
+ - [17 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
+ - [This little setting is the first thing I change on every Android smartphone](https://www.androidauthority.com/minimum-width-setting-change-android-3525787/)
+ - [Sources: Tesla is bracing for a delay in Chinese approval for FSD, despite an earlier sign it would come in Q2; China is weighing using it in US negotiations &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p9#a250217p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
