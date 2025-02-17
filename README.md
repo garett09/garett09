@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mintrocket&#39;s director is delighted to bring Like a Dragon&#39;s Ichiban into Dave the Diver, &#39;It&#39;s been a dream of mine to invite these iconic characters into Dave’s world&#39;](https://www.pcgamer.com/games/adventure/mintrockets-director-is-delighted-to-bring-like-a-dragons-ichiban-into-dave-the-diver-its-been-a-dream-of-mine-to-invite-these-iconic-characters-into-daves-world/)
- - [Directive 8020: A Dark Pictures Game launches John Carpenter&#39;s the Thing into space this October](https://www.pcgamer.com/games/horror/directive-8020-a-dark-pictures-game-launches-john-carpenters-the-thing-into-space-this-october/)
- - [Metal Eden is a movement-shooter that looks like cyberpunk Doom Eternal](https://www.pcgamer.com/games/fps/metal-eden-is-a-movement-shooter-that-looks-like-cyberpunk-doom-eternal/)<!-- GAME:END -->
+ - [Every MCU movie, ranked](https://www.polygon.com/23519049/best-marvel-movies-mcu-ranked-worst)
+ - [&#39;Not every story is told in that way&#39;: Phil Spencer says that live service games aren&#39;t the answer to every problem, and that smaller games play an important role](https://www.pcgamer.com/gaming-industry/not-every-story-is-told-in-that-way-phil-spencer-says-that-live-service-games-arent-the-answer-to-every-problem-and-that-smaller-games-play-an-important-role/)
+ - [Viewers watch in horror, unable to help, as blindfolded Super Mario 64 speedrunner almost gets a world record that wouldn&#39;t have counted: &#39;I would&#39;ve cried&#39;](https://www.pcgamer.com/games/viewers-watch-in-horror-unable-to-help-as-blindfolded-super-mario-64-speedrunner-almost-gets-a-world-record-that-wouldnt-have-counted-i-wouldve-cried/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
