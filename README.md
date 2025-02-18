@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [This little setting is the first thing I change on every Android smartphone](https://www.androidauthority.com/minimum-width-setting-change-android-3525787/)
- - [Sources: Tesla is bracing for a delay in Chinese approval for FSD, despite an earlier sign it would come in Q2; China is weighing using it in US negotiations &lpar;Financial Times&rpar;](http://www.techmeme.com/250217/p9#a250217p9)<!-- TECH:END -->
+ - [OnePlus unveils the $330 Watch 3, offering a rotating crown, five-day battery life, Wear OS 5, a new GPS antenna, and new health features, shipping February 25 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250218/p11#a250218p11)
+ - [The DJI Osmo Mobile 7P is so good, it might tear me away from the Osmo Pocket 3](https://www.androidauthority.com/dji-osmo-mobile-7p-review-3524652/)
+ - [OnePlus Watch 3 takes on Pixel &amp; Galaxy smartwatches — Better battery, better buy?](https://www.androidauthority.com/oneplus-watch-3-specs-features-price-availability-3525244/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
