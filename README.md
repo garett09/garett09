@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every MCU movie, ranked](https://www.polygon.com/23519049/best-marvel-movies-mcu-ranked-worst)
- - [&#39;Not every story is told in that way&#39;: Phil Spencer says that live service games aren&#39;t the answer to every problem, and that smaller games play an important role](https://www.pcgamer.com/gaming-industry/not-every-story-is-told-in-that-way-phil-spencer-says-that-live-service-games-arent-the-answer-to-every-problem-and-that-smaller-games-play-an-important-role/)
- - [Viewers watch in horror, unable to help, as blindfolded Super Mario 64 speedrunner almost gets a world record that wouldn&#39;t have counted: &#39;I would&#39;ve cried&#39;](https://www.pcgamer.com/games/viewers-watch-in-horror-unable-to-help-as-blindfolded-super-mario-64-speedrunner-almost-gets-a-world-record-that-wouldnt-have-counted-i-wouldve-cried/)<!-- GAME:END -->
+ - [Nintendo Switch&#39;s Excellent Gold Points Scheme Is Being Discontinued](https://kotaku.com/nintendo-switch-2-gold-points-loyalty-scheme-1851765041)
+ - [TSMC now said not to be eyeing up Intel&#39;s fabs while other rumours suggest Intel could be split between TSMC and Broadcom](https://www.pcgamer.com/hardware/processors/tsmc-now-said-not-to-be-eyeing-up-intels-fabs-while-other-rumours-suggest-intel-could-be-split-between-tsmc-and-broadcom/)
+ - [The Elder Scrolls 6 is offering one lucky player the chance to be made into an NPC for charity, but you&#39;ll have to beat the current winning bid of $11,050 first](https://www.pcgamer.com/games/rpg/the-elder-scrolls-6-is-offering-one-lucky-player-the-chance-to-be-made-into-an-npc-for-charity-but-youll-have-to-beat-the-current-winning-bid-of-usd11-050-first/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
