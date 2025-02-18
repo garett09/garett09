@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Premonition](http://9gag.com/gag/aryW6q0)
- - 🚯 [In order to plan and perform operations easier, New York surgeons have shown an augmented reality device that helps them in their work.](http://9gag.com/gag/aryW6b7)
- - 🚯 [Unpaid Internship Debate...](http://9gag.com/gag/a1m7GDP)<!-- MEMES:END -->
+ - 🚖 [Cultured](http://9gag.com/gag/axy3N9L)
+ - 🚯 [Training for setak takraw. roll spike](http://9gag.com/gag/aE06wqK)
+ - 🚯 [Priorities.....](http://9gag.com/gag/aLnzP2P)<!-- MEMES:END -->
 
 --- 
 
