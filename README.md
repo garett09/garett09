@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch&#39;s Excellent Gold Points Scheme Is Being Discontinued](https://kotaku.com/nintendo-switch-2-gold-points-loyalty-scheme-1851765041)
- - [TSMC now said not to be eyeing up Intel&#39;s fabs while other rumours suggest Intel could be split between TSMC and Broadcom](https://www.pcgamer.com/hardware/processors/tsmc-now-said-not-to-be-eyeing-up-intels-fabs-while-other-rumours-suggest-intel-could-be-split-between-tsmc-and-broadcom/)
- - [The Elder Scrolls 6 is offering one lucky player the chance to be made into an NPC for charity, but you&#39;ll have to beat the current winning bid of $11,050 first](https://www.pcgamer.com/games/rpg/the-elder-scrolls-6-is-offering-one-lucky-player-the-chance-to-be-made-into-an-npc-for-charity-but-youll-have-to-beat-the-current-winning-bid-of-usd11-050-first/)<!-- GAME:END -->
+ - [Trump flirts with 25% and &#39;substantially higher&#39; tariffs on all computer chips](https://www.pcgamer.com/hardware/trump-flirts-with-25-percent-and-substantially-higher-tariffs-on-all-computer-chips/)
+ - [Amazon apparently thought it was gonna compete with Steam since the Orange Box, but Prime Gaming&#39;s former VP admits that &#39;gamers already had the solution to their problems&#39;](https://www.pcgamer.com/gaming-industry/amazon-apparently-thought-it-was-gonna-compete-with-steam-since-the-orange-box-but-prime-gamings-former-vp-admits-that-gamers-already-had-the-solution-to-their-problems/)
+ - [Avowed brings back a joke pistol from Pillars of Eternity that literally tells you not to use it, but you can immediately upgrade it into a killer hand cannon](https://www.pcgamer.com/games/rpg/avowed-disappointer-unique-pistol/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
