@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus unveils the $330 Watch 3, offering a rotating crown, five-day battery life, Wear OS 5, a new GPS antenna, and new health features, shipping February 25 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250218/p11#a250218p11)
- - [The DJI Osmo Mobile 7P is so good, it might tear me away from the Osmo Pocket 3](https://www.androidauthority.com/dji-osmo-mobile-7p-review-3524652/)
- - [OnePlus Watch 3 takes on Pixel &amp; Galaxy smartwatches — Better battery, better buy?](https://www.androidauthority.com/oneplus-watch-3-specs-features-price-availability-3525244/)<!-- TECH:END -->
+ - [French privacy startup Murena unveils the &amp;euro;539 Murena Pixel Tablet, running its open-source, forked /e/OS, after releasing a &quot;deGoogled&quot; smartphone in 2023 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250219/p17#a250219p17)
+ - [The Retroid Flip 2 was just shown off in all its Nintendo DS-like glory](https://www.androidauthority.com/retroid-flip-2-design-reveal-3527711/)
+ - [I truly value smartphone design and am surprised when people don’t](https://www.androidauthority.com/value-smartphone-design-3523668/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
