@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The moment the people aboard Delta Airlines get rescued](http://9gag.com/gag/aND9oOG)
- - 🚯 [Average cave explorer&#39;s day](http://9gag.com/gag/a9y67Q0)
- - 🚯 [Wonder what all the fatties who were behind her have to say](http://9gag.com/gag/azxdjGm)<!-- MEMES:END -->
+ - 🚖 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
+ - 🚯 [FBI](http://9gag.com/gag/a9y6rqD)
+ - 🚯 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
 
 --- 
 
