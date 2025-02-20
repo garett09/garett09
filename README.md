@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [French privacy startup Murena unveils the &amp;euro;539 Murena Pixel Tablet, running its open-source, forked /e/OS, after releasing a &quot;deGoogled&quot; smartphone in 2023 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250219/p17#a250219p17)
- - [The Retroid Flip 2 was just shown off in all its Nintendo DS-like glory](https://www.androidauthority.com/retroid-flip-2-design-reveal-3527711/)
- - [I truly value smartphone design and am surprised when people don’t](https://www.androidauthority.com/value-smartphone-design-3523668/)<!-- TECH:END -->
+ - [Sources: a US grand jury is investigating criminal misconduct at fintech Synapse, where up to $96M in user funds went missing, and has questioned an executive &lpar;Alexander Saeedy/Wall Street Journal&rpar;](http://www.techmeme.com/250220/p19#a250220p19)
+ - [The European Commission approves &amp;euro;920M in German state aid to Infineon to build a new chip plant in Dresden, set to reach full capacity in 2031 &lpar;Reuters&rpar;](http://www.techmeme.com/250220/p18#a250220p18)
+ - [The Lenovo Legion Go S &lpar;with Windows&rpar; makes so many mistakes I can’t figure out how we got here](https://www.androidauthority.com/lenovo-legion-go-s-windows-review-3526059/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
