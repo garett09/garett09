@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trump flirts with 25% and &#39;substantially higher&#39; tariffs on all computer chips](https://www.pcgamer.com/hardware/trump-flirts-with-25-percent-and-substantially-higher-tariffs-on-all-computer-chips/)
- - [Amazon apparently thought it was gonna compete with Steam since the Orange Box, but Prime Gaming&#39;s former VP admits that &#39;gamers already had the solution to their problems&#39;](https://www.pcgamer.com/gaming-industry/amazon-apparently-thought-it-was-gonna-compete-with-steam-since-the-orange-box-but-prime-gamings-former-vp-admits-that-gamers-already-had-the-solution-to-their-problems/)
- - [Avowed brings back a joke pistol from Pillars of Eternity that literally tells you not to use it, but you can immediately upgrade it into a killer hand cannon](https://www.pcgamer.com/games/rpg/avowed-disappointer-unique-pistol/)<!-- GAME:END -->
+ - [I’ve been playing AAA sports games like management sims and I couldn’t be happier](https://www.polygon.com/gaming/525834/sports-games-madden-2k-how-to-have-fun-again)
+ - [Nvidia RTX 5070 Ti launch day live: All the retail links for RTX 5070 Ti graphics cards, including MSRP and absolutely nowhere near MSRP models](https://www.pcgamer.com/hardware/live/news/nvidia-rtx-5070-ti-launch-day-listings-and-prices/)
+ - [13 years on, Ubisoft adds Steam achievements to the one mainline Assassin&#39;s Creed game you can&#39;t actually buy, but not the updated version you can](https://www.pcgamer.com/games/assassins-creed/13-years-on-ubisoft-adds-steam-achievements-to-the-one-mainline-assassins-creed-game-you-cant-actually-buy-but-not-the-updated-version-you-can/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
