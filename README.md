@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I’ve been playing AAA sports games like management sims and I couldn’t be happier](https://www.polygon.com/gaming/525834/sports-games-madden-2k-how-to-have-fun-again)
- - [Nvidia RTX 5070 Ti launch day live: All the retail links for RTX 5070 Ti graphics cards, including MSRP and absolutely nowhere near MSRP models](https://www.pcgamer.com/hardware/live/news/nvidia-rtx-5070-ti-launch-day-listings-and-prices/)
- - [13 years on, Ubisoft adds Steam achievements to the one mainline Assassin&#39;s Creed game you can&#39;t actually buy, but not the updated version you can](https://www.pcgamer.com/games/assassins-creed/13-years-on-ubisoft-adds-steam-achievements-to-the-one-mainline-assassins-creed-game-you-cant-actually-buy-but-not-the-updated-version-you-can/)<!-- GAME:END -->
+ - [Graphics cards are so demanding now there are devices with tiny screens that plug into connectors and monitor temperatures](https://www.pcgamer.com/hardware/graphics-cards/graphics-cards-are-so-demanding-now-there-are-devices-with-tiny-screens-that-plug-into-connectors-and-monitor-temperatures/)
+ - [Marvel’s little-loved movie Eternals was good, actually](https://www.polygon.com/marvel/526925/eternals-mcu-good-actually-hot-take)
+ - [Fortnite Chapter 6 Season 2 battle pass skins list, including Sub-Zero and Big Dill](https://www.polygon.com/fortnite-guide/527012/chapter-6-season-2-battle-pass-skins-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
