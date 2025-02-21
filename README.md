@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: a US grand jury is investigating criminal misconduct at fintech Synapse, where up to $96M in user funds went missing, and has questioned an executive &lpar;Alexander Saeedy/Wall Street Journal&rpar;](http://www.techmeme.com/250220/p19#a250220p19)
- - [The European Commission approves &amp;euro;920M in German state aid to Infineon to build a new chip plant in Dresden, set to reach full capacity in 2031 &lpar;Reuters&rpar;](http://www.techmeme.com/250220/p18#a250220p18)
- - [The Lenovo Legion Go S &lpar;with Windows&rpar; makes so many mistakes I can’t figure out how we got here](https://www.androidauthority.com/lenovo-legion-go-s-windows-review-3526059/)<!-- TECH:END -->
+ - [There’s Nothing left to hide as leaked videos reveal the Phone 3A in full](https://www.theverge.com/news/617148/nothing-phone-3a-pro-renders-videos-leaks-design-camera-lights)
+ - [Preorders for the iPhone 16e are now open](https://appleinsider.com/articles/25/02/21/preorders-for-the-iphone-16e-are-now-open?utm_medium=rss)
+ - [5 Android phones I would buy instead of the iPhone 16e](https://www.androidauthority.com/iphone-16e-alternatives-3527388/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
