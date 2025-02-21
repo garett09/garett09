@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lemme check da door](http://9gag.com/gag/a5Q6ZVr)
- - 🚯 [FBI](http://9gag.com/gag/a9y6rqD)
- - 🚯 [Gender equality is going too far](http://9gag.com/gag/aqyXLpv)<!-- MEMES:END -->
+ - 🚖 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
+ - 🚯 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
+ - 🚯 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)<!-- MEMES:END -->
 
 --- 
 
