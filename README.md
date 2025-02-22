@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Graphics cards are so demanding now there are devices with tiny screens that plug into connectors and monitor temperatures](https://www.pcgamer.com/hardware/graphics-cards/graphics-cards-are-so-demanding-now-there-are-devices-with-tiny-screens-that-plug-into-connectors-and-monitor-temperatures/)
- - [Marvel’s little-loved movie Eternals was good, actually](https://www.polygon.com/marvel/526925/eternals-mcu-good-actually-hot-take)
- - [Fortnite Chapter 6 Season 2 battle pass skins list, including Sub-Zero and Big Dill](https://www.polygon.com/fortnite-guide/527012/chapter-6-season-2-battle-pass-skins-list)<!-- GAME:END -->
+ - [The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of February 2025](https://www.polygon.com/what-to-watch/525551/best-movies-netflix-amazon-criterion-leaving-february-2025)
+ - [Need to relax? Grab a coffee, kick back and submerge yourself in the sound of Hades 2&#39;s narrator reading the patch notes for its latest massive update](https://www.pcgamer.com/games/roguelike/need-to-relax-grab-a-coffee-kick-back-and-submerge-yourself-in-the-sound-of-hades-2s-narrator-reading-the-patch-notes-for-its-latest-massive-update/)
+ - [No More Room in Hell 2&#39;s &#39;biggest update yet&#39; introduces weapon attachments, new level scenarios, and ensures players no longer spawn &#39;without a body&#39;](https://www.pcgamer.com/games/horror/no-more-room-in-hell-2s-biggest-update-yet-introduces-weapon-attachments-new-level-scenarios-and-ensures-players-no-longer-spawn-without-a-body/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
