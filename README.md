@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Category 5 calamity](http://9gag.com/gag/an7RjB5)
- - 🚯 [I\u2019d treasure them](http://9gag.com/gag/aXPMvPg)
- - 🚯 [Pop goes the weasel](http://9gag.com/gag/a1mNKAw)<!-- MEMES:END -->
+ - 🚖 [Shower ???](http://9gag.com/gag/avy15qO)
+ - 🚯 [Brittish food is so cheap](http://9gag.com/gag/agm1A7r)
+ - 🚯 [She never claimed she was strong](http://9gag.com/gag/a0eX7WX)<!-- MEMES:END -->
 
 --- 
 
