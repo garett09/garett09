@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s Nothing left to hide as leaked videos reveal the Phone 3A in full](https://www.theverge.com/news/617148/nothing-phone-3a-pro-renders-videos-leaks-design-camera-lights)
- - [Preorders for the iPhone 16e are now open](https://appleinsider.com/articles/25/02/21/preorders-for-the-iphone-16e-are-now-open?utm_medium=rss)
- - [5 Android phones I would buy instead of the iPhone 16e](https://www.androidauthority.com/iphone-16e-alternatives-3527388/)<!-- TECH:END -->
+ - [Here’s how I use NotebookLM to boost my productivity](https://www.androidauthority.com/how-i-use-notebooklm-3528083/)
+ - [Microsoft’s New Majorana 1 Processor Could Transform Quantum Computing](https://www.wired.com/story/microsoft-just-claimed-a-quantum-breakthrough-a-quantum-physicist-explains-what-it-means/)
+ - [Die in the Dungeon will keep you busy until Slay the Spire 2](https://www.theverge.com/games-review/616163/die-in-the-dungeon-will-keep-you-busy-until-slay-the-spire-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
