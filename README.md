@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shower ???](http://9gag.com/gag/avy15qO)
- - 🚯 [Brittish food is so cheap](http://9gag.com/gag/agm1A7r)
- - 🚯 [She never claimed she was strong](http://9gag.com/gag/a0eX7WX)<!-- MEMES:END -->
+ - 🚖 [Right on the finger!](http://9gag.com/gag/adB1V9M)
+ - 🚯 [Strong building](http://9gag.com/gag/azxd2vK)
+ - 🚯 [Lol](http://9gag.com/gag/azxdmDB)<!-- MEMES:END -->
 
 --- 
 
