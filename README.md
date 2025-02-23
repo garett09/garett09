@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how I use NotebookLM to boost my productivity](https://www.androidauthority.com/how-i-use-notebooklm-3528083/)
- - [Microsoft’s New Majorana 1 Processor Could Transform Quantum Computing](https://www.wired.com/story/microsoft-just-claimed-a-quantum-breakthrough-a-quantum-physicist-explains-what-it-means/)
- - [Die in the Dungeon will keep you busy until Slay the Spire 2](https://www.theverge.com/games-review/616163/die-in-the-dungeon-will-keep-you-busy-until-slay-the-spire-2)<!-- TECH:END -->
+ - [Vizio Elevate SE 5.1.2 Soundbar Review: Cheap Thrills](https://www.wired.com/review/vizio-elevate-se-2025/)
+ - [Tested: Is Google’s NotebookLM Plus worth the subscription fee?](https://www.androidauthority.com/is-notebooklm-plus-worth-it-3528598/)
+ - [Our favorite apps for listening to music](https://www.theverge.com/installer-newsletter/617653/best-music-apps-iphone-android-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
