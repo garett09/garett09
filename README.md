@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of February 2025](https://www.polygon.com/what-to-watch/525551/best-movies-netflix-amazon-criterion-leaving-february-2025)
- - [Need to relax? Grab a coffee, kick back and submerge yourself in the sound of Hades 2&#39;s narrator reading the patch notes for its latest massive update](https://www.pcgamer.com/games/roguelike/need-to-relax-grab-a-coffee-kick-back-and-submerge-yourself-in-the-sound-of-hades-2s-narrator-reading-the-patch-notes-for-its-latest-massive-update/)
- - [No More Room in Hell 2&#39;s &#39;biggest update yet&#39; introduces weapon attachments, new level scenarios, and ensures players no longer spawn &#39;without a body&#39;](https://www.pcgamer.com/games/horror/no-more-room-in-hell-2s-biggest-update-yet-introduces-weapon-attachments-new-level-scenarios-and-ensures-players-no-longer-spawn-without-a-body/)<!-- GAME:END -->
+ - [Nested Lands is a &#39;brutal&#39; survival city-builder about guiding villagers through a plague-infested world, and you can play its open alpha right now](https://www.pcgamer.com/games/city-builder/nested-lands-is-a-brutal-survival-city-builder-about-guiding-villagers-through-a-plague-infested-world-and-you-can-play-its-open-alpha-right-now/)
+ - [Hasbro is working with Saber Interactive on a &#39;tentpole&#39; IP using Space Marine 2&#39;s swarm tech](https://www.pcgamer.com/games/action/hasbro-is-working-with-saber-interactive-on-a-tentpole-ip-using-space-marine-2s-swarm-tech/)
+ - [Today&#39;s Wordle answer for Sunday, February 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-23-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
