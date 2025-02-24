@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nested Lands is a &#39;brutal&#39; survival city-builder about guiding villagers through a plague-infested world, and you can play its open alpha right now](https://www.pcgamer.com/games/city-builder/nested-lands-is-a-brutal-survival-city-builder-about-guiding-villagers-through-a-plague-infested-world-and-you-can-play-its-open-alpha-right-now/)
- - [Hasbro is working with Saber Interactive on a &#39;tentpole&#39; IP using Space Marine 2&#39;s swarm tech](https://www.pcgamer.com/games/action/hasbro-is-working-with-saber-interactive-on-a-tentpole-ip-using-space-marine-2s-swarm-tech/)
- - [Today&#39;s Wordle answer for Sunday, February 23](https://www.pcgamer.com/games/puzzle/wordle-answer-today-february-23-2025/)<!-- GAME:END -->
+ - [Ex-Intel exec, Raja Koduri, blames the bureaucratic &#39;Powerpoint snakes&#39; within the company for its current issues: &#39;These processes multiply and coil around engineers&#39;](https://www.pcgamer.com/hardware/ex-intel-exec-raja-koduri-blames-the-bureaucratic-powerpoint-snakes-within-the-company-for-its-current-issues-these-processes-multiply-and-coil-around-engineers/)
+ - [How the new official LEGO Horizon Adventures playset was built, out March 1](https://blog.playstation.com/2025/02/24/how-the-new-official-lego-horizon-adventures-playset-was-built-out-march-1/)
+ - [The curious tale of the missing eight: Some Nvidia RTX 50-series cards are shipping with missing ROPs in the GPU, Nvidia says only 0.5% of all cards are affected](https://www.pcgamer.com/hardware/graphics-cards/the-curious-tale-of-the-missing-eight-some-nvidia-rtx-50-series-cards-are-shipping-with-missing-rops-in-the-gpu-nvidia-says-only-0-5-percent-of-all-cards-are-affected/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
