@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vizio Elevate SE 5.1.2 Soundbar Review: Cheap Thrills](https://www.wired.com/review/vizio-elevate-se-2025/)
- - [Tested: Is Google’s NotebookLM Plus worth the subscription fee?](https://www.androidauthority.com/is-notebooklm-plus-worth-it-3528598/)
- - [Our favorite apps for listening to music](https://www.theverge.com/installer-newsletter/617653/best-music-apps-iphone-android-installer)<!-- TECH:END -->
+ - [Robinhood says it received a letter from the SEC stating the agency is dropping its investigation into Robinhood Crypto, a sign of regulatory change under Trump &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250224/p11#a250224p11)
+ - [Apple enables Find My in South Korea for iOS 18.4 developer beta](https://appleinsider.com/articles/25/02/24/apple-enables-find-my-in-south-korea-for-ios-184-developer-beta?utm_medium=rss)
+ - [Salesforce signs a $2.5B, seven-year deal with Google Cloud to let customers run its software, Agentforce AI assistants, and Data Cloud on Google Cloud &lpar;Bloomberg&rpar;](http://www.techmeme.com/250224/p10#a250224p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
