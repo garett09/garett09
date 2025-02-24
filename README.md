@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right on the finger!](http://9gag.com/gag/adB1V9M)
- - 🚯 [Strong building](http://9gag.com/gag/azxd2vK)
- - 🚯 [Lol](http://9gag.com/gag/azxdmDB)<!-- MEMES:END -->
+ - 🚖 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
+ - 🚯 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)
+ - 🚯 [Stability test](http://9gag.com/gag/aGynnvn)<!-- MEMES:END -->
 
 --- 
 
