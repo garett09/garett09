@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood says it received a letter from the SEC stating the agency is dropping its investigation into Robinhood Crypto, a sign of regulatory change under Trump &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250224/p11#a250224p11)
- - [Apple enables Find My in South Korea for iOS 18.4 developer beta](https://appleinsider.com/articles/25/02/24/apple-enables-find-my-in-south-korea-for-ios-184-developer-beta?utm_medium=rss)
- - [Salesforce signs a $2.5B, seven-year deal with Google Cloud to let customers run its software, Agentforce AI assistants, and Data Cloud on Google Cloud &lpar;Bloomberg&rpar;](http://www.techmeme.com/250224/p10#a250224p10)<!-- TECH:END -->
+ - [Susan Kare&#39;s Esc Keys add pricey art to your keyboard](https://appleinsider.com/articles/25/02/25/susan-kares-esc-keys-add-pricey-art-to-your-keyboard?utm_medium=rss)
+ - [I never click any link on my Android phone without using this app first](https://www.androidauthority.com/urlcheck-android-3528095/)
+ - [‘Tesla Takedown’ wants to hit Elon Musk where it hurts](https://www.theverge.com/tesla/618572/tesla-takedown-wants-to-hit-elon-musk-where-it-hurts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
