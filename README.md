@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-Intel exec, Raja Koduri, blames the bureaucratic &#39;Powerpoint snakes&#39; within the company for its current issues: &#39;These processes multiply and coil around engineers&#39;](https://www.pcgamer.com/hardware/ex-intel-exec-raja-koduri-blames-the-bureaucratic-powerpoint-snakes-within-the-company-for-its-current-issues-these-processes-multiply-and-coil-around-engineers/)
- - [How the new official LEGO Horizon Adventures playset was built, out March 1](https://blog.playstation.com/2025/02/24/how-the-new-official-lego-horizon-adventures-playset-was-built-out-march-1/)
- - [The curious tale of the missing eight: Some Nvidia RTX 50-series cards are shipping with missing ROPs in the GPU, Nvidia says only 0.5% of all cards are affected](https://www.pcgamer.com/hardware/graphics-cards/the-curious-tale-of-the-missing-eight-some-nvidia-rtx-50-series-cards-are-shipping-with-missing-rops-in-the-gpu-nvidia-says-only-0-5-percent-of-all-cards-are-affected/)<!-- GAME:END -->
+ - [Free League’s Invincible RPG is coming to a tabletop near you](https://www.polygon.com/tabletop-games/528603/invincible-superhero-tabletop-rpg-kickstarter-free-league)
+ - [One educational company accuses Google&#39;s AI summary of leading to a &#39;hollowed-out information ecosystem of little use and unworthy of trust&#39; in latest lawsuit](https://www.pcgamer.com/software/ai/one-educational-company-accuses-googles-ai-summary-of-leading-to-a-hollowed-out-information-ecosystem-of-little-use-and-unworthy-of-trust-in-latest-lawsuit/)
+ - [Dungeons &amp; Dragons&#39; first post-revamp adventure book says hey, let&#39;s put some dungeons and some dragons in this thing](https://www.pcgamer.com/games/rpg/dungeons-and-dragons-first-post-revamp-adventure-book-says-hey-lets-put-some-dungeons-and-some-dragons-in-this-thing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
