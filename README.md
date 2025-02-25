@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Staying at a Disney resort after hours](http://9gag.com/gag/aND99Ov)
- - 🚯 [Wait why she ties her hair up? WHERE THE PLAYBOY MAGAZINE?](http://9gag.com/gag/a6ZX1Rq)
- - 🚯 [Stability test](http://9gag.com/gag/aGynnvn)<!-- MEMES:END -->
+ - 🚖 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
+ - 🚯 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 🚯 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)<!-- MEMES:END -->
 
 --- 
 
