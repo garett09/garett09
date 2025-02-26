@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Susan Kare&#39;s Esc Keys add pricey art to your keyboard](https://appleinsider.com/articles/25/02/25/susan-kares-esc-keys-add-pricey-art-to-your-keyboard?utm_medium=rss)
- - [I never click any link on my Android phone without using this app first](https://www.androidauthority.com/urlcheck-android-3528095/)
- - [‘Tesla Takedown’ wants to hit Elon Musk where it hurts](https://www.theverge.com/tesla/618572/tesla-takedown-wants-to-hit-elon-musk-where-it-hurts)<!-- TECH:END -->
+ - [No, Apple isn&#39;t subliminally calling Trump a racist with its iPhone dictation feature](https://appleinsider.com/articles/25/02/25/no-apple-isnt-subliminally-calling-trump-a-racist-with-its-iphone-dictation-feature?utm_medium=rss)
+ - [Mac dominated AI-capable PC market in 2024 despite Windows growth](https://appleinsider.com/articles/25/02/26/mac-dominated-ai-capable-pc-market-in-2024-despite-windows-growth?utm_medium=rss)
+ - [ChatGPT is a terrible, fascinating, and thrilling to-do list app](https://www.theverge.com/openai/619352/chatgpt-tasks-operator-productivity)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
