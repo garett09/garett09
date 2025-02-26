@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free League’s Invincible RPG is coming to a tabletop near you](https://www.polygon.com/tabletop-games/528603/invincible-superhero-tabletop-rpg-kickstarter-free-league)
- - [One educational company accuses Google&#39;s AI summary of leading to a &#39;hollowed-out information ecosystem of little use and unworthy of trust&#39; in latest lawsuit](https://www.pcgamer.com/software/ai/one-educational-company-accuses-googles-ai-summary-of-leading-to-a-hollowed-out-information-ecosystem-of-little-use-and-unworthy-of-trust-in-latest-lawsuit/)
- - [Dungeons &amp; Dragons&#39; first post-revamp adventure book says hey, let&#39;s put some dungeons and some dragons in this thing](https://www.pcgamer.com/games/rpg/dungeons-and-dragons-first-post-revamp-adventure-book-says-hey-lets-put-some-dungeons-and-some-dragons-in-this-thing/)<!-- GAME:END -->
+ - [Tsui Hark’s stylish new movie puts a wuxia king back on his throne](https://www.polygon.com/movies/529139/legends-condor-heroes-gallants-movie-tsui-hark-wuxia)
+ - [Gran Turismo 7 update 1.56 available today](https://blog.playstation.com/2025/02/26/gran-turismo-7-update-1-56-available-today/)
+ - [RTX 50-series black screen issues should finally be fixed this week in an official Nvidia driver update](https://www.pcgamer.com/hardware/graphics-cards/rtx-50-series-black-screen-issues-should-finally-be-fixed-this-week-in-an-official-nvidia-driver-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
