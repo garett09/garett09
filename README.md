@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pickpocket group operates in broad daylight in Rome](http://9gag.com/gag/aE066R9)
- - 🚯 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 🚯 [\u2800\u2800\u2800](http://9gag.com/gag/aQzvgd8)<!-- MEMES:END -->
+ - 🚖 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
+ - 🚯 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
+ - 🚯 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)<!-- MEMES:END -->
 
 --- 
 
