@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, Apple isn&#39;t subliminally calling Trump a racist with its iPhone dictation feature](https://appleinsider.com/articles/25/02/25/no-apple-isnt-subliminally-calling-trump-a-racist-with-its-iphone-dictation-feature?utm_medium=rss)
- - [Mac dominated AI-capable PC market in 2024 despite Windows growth](https://appleinsider.com/articles/25/02/26/mac-dominated-ai-capable-pc-market-in-2024-despite-windows-growth?utm_medium=rss)
- - [ChatGPT is a terrible, fascinating, and thrilling to-do list app](https://www.theverge.com/openai/619352/chatgpt-tasks-operator-productivity)<!-- TECH:END -->
+ - [Sources: the FAA is close to canceling Verizon&#39;s $2.4B contract to overhaul its communications and awarding it to Starlink; Musk recently criticized Verizon &lpar;Washington Post&rpar;](http://www.techmeme.com/250227/p16#a250227p16)
+ - [Instagram’s Reels may get its own app](https://www.theverge.com/news/620547/instagram-reels-video-app-tiktok-rival-service)
+ - [Find My network can be tricked to track any Bluetooth device](https://appleinsider.com/articles/25/02/27/find-my-network-can-be-tricked-to-track-any-bluetooth-device?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
