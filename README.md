@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tsui Hark’s stylish new movie puts a wuxia king back on his throne](https://www.polygon.com/movies/529139/legends-condor-heroes-gallants-movie-tsui-hark-wuxia)
- - [Gran Turismo 7 update 1.56 available today](https://blog.playstation.com/2025/02/26/gran-turismo-7-update-1-56-available-today/)
- - [RTX 50-series black screen issues should finally be fixed this week in an official Nvidia driver update](https://www.pcgamer.com/hardware/graphics-cards/rtx-50-series-black-screen-issues-should-finally-be-fixed-this-week-in-an-official-nvidia-driver-update/)<!-- GAME:END -->
+ - [A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/a-great-new-price-for-playstation-vr2/)
+ - [A rocket was just fired into space containing the first data center to land on the moon, which is both incredible and incredibly corporate in equal measure](https://www.pcgamer.com/hardware/a-rocket-was-just-fired-into-space-containing-the-first-data-center-to-be-landed-on-the-moon-which-is-both-an-incredible-and-incredibly-boring-thing-to-do-in-space/)
+ - [You&#39;ve got to try these 5 brilliant free roguelike deckbuilder game demos before Steam NextFest ends on March 3](https://www.pcgamer.com/games/roguelike/youve-got-to-try-these-five-brilliant-free-roguelike-deckbuilder-game-demos-before-steam-nextfest-ends-on-march-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
