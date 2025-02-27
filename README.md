@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I have seen this story before](http://9gag.com/gag/aKGAv4b)
- - 🚯 [Suggest your best codes in the comments](http://9gag.com/gag/aRB4vKj)
- - 🚯 [Is it possible to learn this power?](http://9gag.com/gag/a0eXnEZ)<!-- MEMES:END -->
+ - 🚖 [RIP Jenny](http://9gag.com/gag/azxdYdz)
+ - 🚯 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)
+ - 🚯 [We need a more interesting apocolypse](http://9gag.com/gag/aXPMRm9)<!-- MEMES:END -->
 
 --- 
 
