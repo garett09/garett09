@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the FAA is close to canceling Verizon&#39;s $2.4B contract to overhaul its communications and awarding it to Starlink; Musk recently criticized Verizon &lpar;Washington Post&rpar;](http://www.techmeme.com/250227/p16#a250227p16)
- - [Instagram’s Reels may get its own app](https://www.theverge.com/news/620547/instagram-reels-video-app-tiktok-rival-service)
- - [Find My network can be tricked to track any Bluetooth device](https://appleinsider.com/articles/25/02/27/find-my-network-can-be-tricked-to-track-any-bluetooth-device?utm_medium=rss)<!-- TECH:END -->
+ - [Official: AMD Radeon RX 9070 and 9070 XT start at $549, ship March 6th](https://www.theverge.com/news/621339/amd-radeon-9070-xt-price-release-date-gpu)
+ - [Experts say stopping North Korean thefts will require higher security spending by crypto exchanges, more stringent rules, and better government cooperation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250228/p8#a250228p8)
+ - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
