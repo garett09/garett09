@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP Jenny](http://9gag.com/gag/azxdYdz)
- - 🚯 [Modern problem required modern solutions](http://9gag.com/gag/avy1vrZ)
- - 🚯 [We need a more interesting apocolypse](http://9gag.com/gag/aXPMRm9)<!-- MEMES:END -->
+ - 🚖 [Great Britain](http://9gag.com/gag/aXPMGYV)
+ - 🚯 [If only\u2026](http://9gag.com/gag/aQzvNww)
+ - 🚯 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)<!-- MEMES:END -->
 
 --- 
 
