@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A great new price for PlayStation VR2](https://blog.playstation.com/2025/02/27/a-great-new-price-for-playstation-vr2/)
- - [A rocket was just fired into space containing the first data center to land on the moon, which is both incredible and incredibly corporate in equal measure](https://www.pcgamer.com/hardware/a-rocket-was-just-fired-into-space-containing-the-first-data-center-to-be-landed-on-the-moon-which-is-both-an-incredible-and-incredibly-boring-thing-to-do-in-space/)
- - [You&#39;ve got to try these 5 brilliant free roguelike deckbuilder game demos before Steam NextFest ends on March 3](https://www.pcgamer.com/games/roguelike/youve-got-to-try-these-five-brilliant-free-roguelike-deckbuilder-game-demos-before-steam-nextfest-ends-on-march-3/)<!-- GAME:END -->
+ - [&#39;Infused with AMD DNA&#39;: FSR 4 has been announced with a healthy dose of machine learning and support for 30+ games at launch](https://www.pcgamer.com/hardware/graphics-cards/infused-with-amd-dna-fsr-4-has-been-announced-with-a-healthy-dose-of-machine-learning-and-support-for-30-games-at-launch/)
+ - [AMD has officially revealed its RDNA 4-based RX 9070 and RX 9070 XT GPUs and they look a lot like RDNA 3, only turbocharged](https://www.pcgamer.com/hardware/graphics-cards/amd-has-officially-revealed-its-rdna-4-based-rx-9070-and-rx-9070-xt-gpus-and-they-look-a-lot-like-rdna-3-only-turbocharged/)
+ - [Monster Hunter Wilds is now available, and 18% off on PC](https://www.polygon.com/sales-guide/531433/monster-hunter-wilds-where-to-buy-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
