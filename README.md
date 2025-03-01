@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great Britain](http://9gag.com/gag/aXPMGYV)
- - 🚯 [If only\u2026](http://9gag.com/gag/aQzvNww)
- - 🚯 [Millions of pizzles yanked and millions of copies guaranteed](http://9gag.com/gag/a9y6V26)<!-- MEMES:END -->
+ - 🚖 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
+ - 🚯 [Confusion of highest order](http://9gag.com/gag/aRB4DGy)
+ - 🚯 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)<!-- MEMES:END -->
 
 --- 
 
