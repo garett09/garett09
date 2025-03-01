@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Official: AMD Radeon RX 9070 and 9070 XT start at $549, ship March 6th](https://www.theverge.com/news/621339/amd-radeon-9070-xt-price-release-date-gpu)
- - [Experts say stopping North Korean thefts will require higher security spending by crypto exchanges, more stringent rules, and better government cooperation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250228/p8#a250228p8)
- - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)<!-- TECH:END -->
+ - [I hate to say it, but it’s time for Google to merge Waze into Maps](https://www.androidauthority.com/waze-google-maps-merge-3529115/)
+ - [Appalachians Are Trapped in a Disastrous Cycle of Flooding and Rebuilding](https://www.wired.com/story/appalachians-are-trapped-in-a-disastrous-cycle-of-flooding-and-rebuilding/)
+ - [With Alexa Plus, Amazon finally reinvents its best product](https://www.theverge.com/amazon-alexa/622172/amazon-alexa-plus-panos-panay-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
