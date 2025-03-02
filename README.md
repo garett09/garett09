@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where were you when this happened](http://9gag.com/gag/aAy6mvZ)
- - 🚯 [Confusion of highest order](http://9gag.com/gag/aRB4DGy)
- - 🚯 [Food delivery individual seems to not take into consideration doorbell cameras](http://9gag.com/gag/an7RVPn)<!-- MEMES:END -->
+ - 🚖 [Title](http://9gag.com/gag/an7RoBV)
+ - 🚯 [White n tight](http://9gag.com/gag/apR3wg9)
+ - 🚯 [W Zelensky](http://9gag.com/gag/agm1be1)<!-- MEMES:END -->
 
 --- 
 
