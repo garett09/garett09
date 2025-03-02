@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I hate to say it, but it’s time for Google to merge Waze into Maps](https://www.androidauthority.com/waze-google-maps-merge-3529115/)
- - [Appalachians Are Trapped in a Disastrous Cycle of Flooding and Rebuilding](https://www.wired.com/story/appalachians-are-trapped-in-a-disastrous-cycle-of-flooding-and-rebuilding/)
- - [With Alexa Plus, Amazon finally reinvents its best product](https://www.theverge.com/amazon-alexa/622172/amazon-alexa-plus-panos-panay-interview)<!-- TECH:END -->
+ - [Rewind Cassette Player Review: The Best Portable Tape Player](https://www.wired.com/review/review-rewind-cassette-player/)
+ - [Looking for a cheap Google TV Streamer alternative? There’s really only one option in 2025](https://www.androidauthority.com/google-tv-streamer-alternative-3529991/)
+ - [Our favorite speakers, headphones, and other music gear](https://www.theverge.com/installer-newsletter/621782/best-speakers-headphones-music-gear-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
