@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shockingly, nobody bought the $386,000 special edition of Dying Light that came with parkour lessons and a full-size custom zombie survival shelter](https://www.pcgamer.com/games/survival-crafting/shockingly-nobody-bought-the-usd386-000-special-edition-of-dying-light-that-came-with-parkour-lessons-and-a-full-size-custom-zombie-survival-shelter/)
- - [Every movie and show coming to Netflix in March](https://www.polygon.com/movies/530373/https-www-polygon-com-movies-517440-new-on-netflix-march-2025-movies-tv-to-watch)
- - [Japanese boffins invent the &#39;world&#39;s smallest shooting game&#39; by using an electron beam to blast particles one billionth of a metre in size](https://www.pcgamer.com/games/japanese-boffins-invent-the-worlds-smallest-shooting-game-by-using-an-electron-beam-to-blast-particles-one-billionth-of-a-metre-in-size/)<!-- GAME:END -->
+ - [Total War: Warhammer 3&#39;s next patch will overhaul its Kislev faction, which Creative Assembly has &#39;identified as the most in need of a deep review and rethink&#39;](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-next-patch-will-overhaul-its-kislev-faction-which-creative-assembly-has-identified-as-the-most-in-need-of-a-deep-review-and-rethink/)
+ - [What is the Fortnite Crew Pack skin for March 2025?](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
+ - [Tread carefully, Atomfall&#39;s world includes &#39;exploding sheep&#39; that can &#39;infect you with spores that creep into your lungs&#39;](https://www.pcgamer.com/games/fps/tread-carefully-atomfalls-world-includes-exploding-sheep-that-can-infect-you-with-spores-that-creep-into-your-lungs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
