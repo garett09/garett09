@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title](http://9gag.com/gag/an7RoBV)
- - 🚯 [White n tight](http://9gag.com/gag/apR3wg9)
- - 🚯 [W Zelensky](http://9gag.com/gag/agm1be1)<!-- MEMES:END -->
+ - 🚖 [Beauty standards](http://9gag.com/gag/a876xwV)
+ - 🚯 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
+ - 🚯 [Eating dusts.](http://9gag.com/gag/aAy6jWd)<!-- MEMES:END -->
 
 --- 
 
