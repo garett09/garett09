@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rewind Cassette Player Review: The Best Portable Tape Player](https://www.wired.com/review/review-rewind-cassette-player/)
- - [Looking for a cheap Google TV Streamer alternative? There’s really only one option in 2025](https://www.androidauthority.com/google-tv-streamer-alternative-3529991/)
- - [Our favorite speakers, headphones, and other music gear](https://www.theverge.com/installer-newsletter/621782/best-speakers-headphones-music-gear-installer)<!-- TECH:END -->
+ - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
+ - [Tonal 2 Review: Smarter Strength Training](https://www.wired.com/review/tonal-2-home-gym/)
+ - [RedMagic 10 Pro&#39;s $1,499 Golden Saga Phone Is Coming to MWC 2025](https://www.cnet.com/tech/mobile/redmagic-10-pros-1499-golden-saga-phone-is-coming-to-mwc-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
