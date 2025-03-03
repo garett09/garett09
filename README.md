@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 3&#39;s next patch will overhaul its Kislev faction, which Creative Assembly has &#39;identified as the most in need of a deep review and rethink&#39;](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-next-patch-will-overhaul-its-kislev-faction-which-creative-assembly-has-identified-as-the-most-in-need-of-a-deep-review-and-rethink/)
- - [What is the Fortnite Crew Pack skin for March 2025?](https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin)
- - [Tread carefully, Atomfall&#39;s world includes &#39;exploding sheep&#39; that can &#39;infect you with spores that creep into your lungs&#39;](https://www.pcgamer.com/games/fps/tread-carefully-atomfalls-world-includes-exploding-sheep-that-can-infect-you-with-spores-that-creep-into-your-lungs/)<!-- GAME:END -->
+ - [The 20 most exciting TV shows of spring 2025](https://www.polygon.com/entertainment/529760/best-tv-shows-spring-2025)
+ - [Marvel Rivals is considering &#39;crossover events and promotions with other media&#39; but all players want is more comicbook and movie skins](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-considering-crossover-events-and-promotions-with-other-media-but-all-players-want-is-more-comicbook-and-movie-skins/)
+ - [Windows 10, 32 GB of RAM, and the RTX 4060 all surge to the top spot in the Steam Hardware Survey, seemingly due to a huge influx of Chinese-language user data](https://www.pcgamer.com/hardware/windows-10-32-gb-of-ram-and-the-rtx-4060-all-surge-to-the-top-spot-in-the-steam-hardware-survey-seemingly-due-to-a-huge-influx-of-chinese-language-user-data/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
