@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MWC 2025: all the phones, gadgets, and commentary from Barcelona](https://www.theverge.com/news/616633/mwc-2025-news-products-announcements)
- - [Tonal 2 Review: Smarter Strength Training](https://www.wired.com/review/tonal-2-home-gym/)
- - [RedMagic 10 Pro&#39;s $1,499 Golden Saga Phone Is Coming to MWC 2025](https://www.cnet.com/tech/mobile/redmagic-10-pros-1499-golden-saga-phone-is-coming-to-mwc-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [Trump imposes tariffs on Mexico, Canada, and China](https://www.theverge.com/news/623403/trump-imposes-tariffs-mexico-canada-china)
+ - [We asked Google about the next Pixel Tablet at MWC 2025 and came away with this answer](https://www.androidauthority.com/google-pixel-tablet-future-3531914/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
