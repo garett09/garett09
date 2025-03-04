@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Beauty standards](http://9gag.com/gag/a876xwV)
- - 🚯 [Pamela Anderson Circa 1991](http://9gag.com/gag/a9y6xo0)
- - 🚯 [Eating dusts.](http://9gag.com/gag/aAy6jWd)<!-- MEMES:END -->
+ - 🚖 [Wait, wait, wait, wait, wait!](http://9gag.com/gag/axy3XbL)
+ - 🚯 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 🚯 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)<!-- MEMES:END -->
 
 --- 
 
