@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 20 most exciting TV shows of spring 2025](https://www.polygon.com/entertainment/529760/best-tv-shows-spring-2025)
- - [Marvel Rivals is considering &#39;crossover events and promotions with other media&#39; but all players want is more comicbook and movie skins](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-considering-crossover-events-and-promotions-with-other-media-but-all-players-want-is-more-comicbook-and-movie-skins/)
- - [Windows 10, 32 GB of RAM, and the RTX 4060 all surge to the top spot in the Steam Hardware Survey, seemingly due to a huge influx of Chinese-language user data](https://www.pcgamer.com/hardware/windows-10-32-gb-of-ram-and-the-rtx-4060-all-surge-to-the-top-spot-in-the-steam-hardware-survey-seemingly-due-to-a-huge-influx-of-chinese-language-user-data/)<!-- GAME:END -->
+ - [Next-gen Snapdragon X2 chip rumoured to pack 18 cores and a new CPU architecture, but we&#39;re still waiting for gaming to really be a goer on the original Snapdragon X](https://www.pcgamer.com/hardware/processors/next-gen-snapdragon-x2-chip-rumoured-to-pack-18-cores-and-a-new-cpu-architecture-but-were-still-waiting-for-gaming-to-really-be-a-goer-on-the-original-snapdragon-x/)
+ - [How to farm materials in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-farm-material-retrieval/)
+ - [uBlock and a handful of other popular Google Chrome extensions have been axed overnight, but some of them just require turning off and on again](https://www.pcgamer.com/software/browsers/ublock-and-a-handful-of-other-popular-google-chrome-extensions-have-been-axed-overnight-but-some-of-them-just-require-turning-off-and-on-again/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
