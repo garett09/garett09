@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait, wait, wait, wait, wait!](http://9gag.com/gag/axy3XbL)
- - 🚯 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 🚯 [A friend asked me to install an SSD on his PC along with fresh Windows, but to make sure to install Win7 solitaire, because his dad likes to play it. Stats are insane.](http://9gag.com/gag/azxd6AB)<!-- MEMES:END -->
+ - 🚖 [Yet again!](http://9gag.com/gag/ayN3OjM)
+ - 🚯 [Welding](http://9gag.com/gag/a0eV89Z)
+ - 🚯 [Truly majestic!](http://9gag.com/gag/a7oevqe)<!-- MEMES:END -->
 
 --- 
 
