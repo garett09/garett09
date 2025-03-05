@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next-gen Snapdragon X2 chip rumoured to pack 18 cores and a new CPU architecture, but we&#39;re still waiting for gaming to really be a goer on the original Snapdragon X](https://www.pcgamer.com/hardware/processors/next-gen-snapdragon-x2-chip-rumoured-to-pack-18-cores-and-a-new-cpu-architecture-but-were-still-waiting-for-gaming-to-really-be-a-goer-on-the-original-snapdragon-x/)
- - [How to farm materials in Monster Hunter Wilds](https://www.pcgamer.com/games/action/monster-hunter-wilds-farm-material-retrieval/)
- - [uBlock and a handful of other popular Google Chrome extensions have been axed overnight, but some of them just require turning off and on again](https://www.pcgamer.com/software/browsers/ublock-and-a-handful-of-other-popular-google-chrome-extensions-have-been-axed-overnight-but-some-of-them-just-require-turning-off-and-on-again/)<!-- GAME:END -->
+ - [Tekken: A PlayStation history](https://blog.playstation.com/2025/03/05/tekken-a-playstation-history/)
+ - [Marvel Rivals announces a new limited-time game mode, Clone Rumble, and manages to pull off a comic caper that players only thought was possible in theory](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-announces-a-new-limited-time-game-mode-clone-rumble-and-manages-to-pull-off-a-comic-caper-that-players-only-thought-was-possible-in-theory/)
+ - [Best Buy outs a load of non-MSRP RTX 5070 cards and many are priced above $700 and up near RTX 5070 Ti levels. Ouch!](https://www.pcgamer.com/hardware/graphics-cards/best-buy-outs-a-load-of-non-msrp-rtx-5070-cards-and-many-are-priced-above-usd700-and-up-near-rtx-5070-ti-levels-ouch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
