@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [Trump imposes tariffs on Mexico, Canada, and China](https://www.theverge.com/news/623403/trump-imposes-tariffs-mexico-canada-china)
- - [We asked Google about the next Pixel Tablet at MWC 2025 and came away with this answer](https://www.androidauthority.com/google-pixel-tablet-future-3531914/)<!-- TECH:END -->
+ - [Apple TV+ show is bought by another streamer for the first time](https://appleinsider.com/articles/25/03/05/apple-tv-show-is-bought-by-another-streamer-for-the-first-time?utm_medium=rss)
+ - [5 Best GoPro Hero Cameras &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
+ - [The UK CMA clears Microsoft&#39;s $13B OpenAI investment in 2023, ending 14 months of uncertainty over the deal, but says &quot;Microsoft did acquire material influence&quot; &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/250305/p20#a250305p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
