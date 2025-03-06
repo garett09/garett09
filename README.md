@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken: A PlayStation history](https://blog.playstation.com/2025/03/05/tekken-a-playstation-history/)
- - [Marvel Rivals announces a new limited-time game mode, Clone Rumble, and manages to pull off a comic caper that players only thought was possible in theory](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-announces-a-new-limited-time-game-mode-clone-rumble-and-manages-to-pull-off-a-comic-caper-that-players-only-thought-was-possible-in-theory/)
- - [Best Buy outs a load of non-MSRP RTX 5070 cards and many are priced above $700 and up near RTX 5070 Ti levels. Ouch!](https://www.pcgamer.com/hardware/graphics-cards/best-buy-outs-a-load-of-non-msrp-rtx-5070-cards-and-many-are-priced-above-usd700-and-up-near-rtx-5070-ti-levels-ouch/)<!-- GAME:END -->
+ - [Blood on the Clocktower is the closest I’ll ever get to playing The Traitors](https://www.polygon.com/tabletop-games/533223/traitors-blood-clocktower-game)
+ - [US Justice Dept announces $10 million bounty on at-large &#39;hacker-for-hire&#39; cabal it says targeted China critics, religious missionaries, and the Treasury](https://www.pcgamer.com/software/security/us-justice-dept-puts-a-usd10-million-bounty-on-at-large-hacker-for-hire-cabal-it-says-targeted-china-critics-religious-missionaries-and-the-treasury/)
+ - [Nintendo wins major French piracy case with EU-wide consequences: &#39;Significant not only for Nintendo, but for the entire games industry&#39;](https://www.pcgamer.com/gaming-industry/nintendo-wins-major-french-piracy-case-with-eu-wide-consequences-significant-not-only-for-nintendo-but-for-the-entire-games-industry/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
