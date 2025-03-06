@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yet again!](http://9gag.com/gag/ayN3OjM)
- - 🚯 [Welding](http://9gag.com/gag/a0eV89Z)
- - 🚯 [Truly majestic!](http://9gag.com/gag/a7oevqe)<!-- MEMES:END -->
+ - 🚖 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
+ - 🚯 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)
+ - 🚯 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)<!-- MEMES:END -->
 
 --- 
 
