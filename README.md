@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ show is bought by another streamer for the first time](https://appleinsider.com/articles/25/03/05/apple-tv-show-is-bought-by-another-streamer-for-the-first-time?utm_medium=rss)
- - [5 Best GoPro Hero Cameras &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
- - [The UK CMA clears Microsoft&#39;s $13B OpenAI investment in 2023, ending 14 months of uncertainty over the deal, but says &quot;Microsoft did acquire material influence&quot; &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/250305/p20#a250305p20)<!-- TECH:END -->
+ - [Desktop Mac buyer&#39;s guide: which Mac to buy in early 2025](https://appleinsider.com/articles/25/03/06/desktop-mac-buyers-guide-which-mac-to-buy-in-early-2025?utm_medium=rss)
+ - [DuckDuckGo says AI answers are out of beta and now get info from across the web, not just Wikipedia; setting AI answers to &quot;often&quot; shows them ~20% of the time &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250306/p16#a250306p16)
+ - [CarPlay helps Australian police scan license plates automatically](https://appleinsider.com/articles/25/03/06/carplay-helps-australian-police-scan-license-plates-automatically?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
