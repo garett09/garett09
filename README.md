@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ocean Two, but GET CAUGHT! Best Acting, Top Script!](http://9gag.com/gag/aVvEQOw)
- - 🚯 [I\u2019m in this photo and I don\u2019t like it](http://9gag.com/gag/ajPO06Q)
- - 🚯 [That&#39;s one lucky boyfriend](http://9gag.com/gag/ae9O00v)<!-- MEMES:END -->
+ - 🚖 [WTF? Why does the ps3 need an update in 2025?!](http://9gag.com/gag/amoGr14)
+ - 🚯 [When you know you\u2019re stating a company, not a modelling agency!](http://9gag.com/gag/aMVmwyG)
+ - 🚯 [Title](http://9gag.com/gag/azxPr9N)<!-- MEMES:END -->
 
 --- 
 
