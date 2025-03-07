@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blood on the Clocktower is the closest I’ll ever get to playing The Traitors](https://www.polygon.com/tabletop-games/533223/traitors-blood-clocktower-game)
- - [US Justice Dept announces $10 million bounty on at-large &#39;hacker-for-hire&#39; cabal it says targeted China critics, religious missionaries, and the Treasury](https://www.pcgamer.com/software/security/us-justice-dept-puts-a-usd10-million-bounty-on-at-large-hacker-for-hire-cabal-it-says-targeted-china-critics-religious-missionaries-and-the-treasury/)
- - [Nintendo wins major French piracy case with EU-wide consequences: &#39;Significant not only for Nintendo, but for the entire games industry&#39;](https://www.pcgamer.com/gaming-industry/nintendo-wins-major-french-piracy-case-with-eu-wide-consequences-significant-not-only-for-nintendo-but-for-the-entire-games-industry/)<!-- GAME:END -->
+ - [Daredevil: Born Again’s first big action scene deserved better](https://www.polygon.com/opinion/535176/daredevil-born-again-new-fight-scene-show-bullseye-bar)
+ - [Nvidia denies reports that the &#39;missing ROPs&#39; debacle is hitting its RTX 50 laptop GPUs and could delay their launch](https://www.pcgamer.com/hardware/graphics-cards/nvidia-denies-reports-that-the-missing-rops-debacle-is-hitting-its-rtx-50-laptop-gpus-and-could-delay-their-launch/)
+ - [Nvidia RTX 5060 graphics cards are said to be revealed &#39;in about 10 days&#39; and are expected to &#39;be on the shelf a month later&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5060-graphics-cards-are-said-to-be-revealed-in-about-10-days-and-are-expected-to-be-on-the-shelf-a-month-later/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
