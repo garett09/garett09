@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Desktop Mac buyer&#39;s guide: which Mac to buy in early 2025](https://appleinsider.com/articles/25/03/06/desktop-mac-buyers-guide-which-mac-to-buy-in-early-2025?utm_medium=rss)
- - [DuckDuckGo says AI answers are out of beta and now get info from across the web, not just Wikipedia; setting AI answers to &quot;often&quot; shows them ~20% of the time &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250306/p16#a250306p16)
- - [CarPlay helps Australian police scan license plates automatically](https://appleinsider.com/articles/25/03/06/carplay-helps-australian-police-scan-license-plates-automatically?utm_medium=rss)<!-- TECH:END -->
+ - [MacBook Air, Mac Studio, iPad Air and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/07/macbook-air-mac-studio-ipad-air-and-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [There’s a new Nintendo Switch emulator on the way, and it might be legally bulletproof](https://www.androidauthority.com/nxemu-nintendo-switch-emulator-3533066/)
+ - [AOC Q27G4ZD QD-OLED Gaming Monitor Review: Bright and Shiny](https://www.wired.com/review/aoc-q27g4zd-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
