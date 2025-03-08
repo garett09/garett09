@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Air, Mac Studio, iPad Air and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/07/macbook-air-mac-studio-ipad-air-and-more-on-the-appleinsider-podcast?utm_medium=rss)
- - [There’s a new Nintendo Switch emulator on the way, and it might be legally bulletproof](https://www.androidauthority.com/nxemu-nintendo-switch-emulator-3533066/)
- - [AOC Q27G4ZD QD-OLED Gaming Monitor Review: Bright and Shiny](https://www.wired.com/review/aoc-q27g4zd-review/)<!-- TECH:END -->
+ - [This underrated Google Pixel 9 feature is still one of my favorite things about the phone](https://www.androidauthority.com/face-unlock-best-underrated-google-pixel-9-feature-3531619/)
+ - [The Extreme Weather Conditions That Drove the Carolina Wildfires](https://www.wired.com/story/the-extreme-weather-conditions-that-drove-the-carolina-wildfires/)
+ - [This Split Mattress Topper Made for Partners Who Can’t Agree](https://www.wired.com/story/best-split-mattress-topper/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
