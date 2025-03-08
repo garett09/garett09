@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Daredevil: Born Again’s first big action scene deserved better](https://www.polygon.com/opinion/535176/daredevil-born-again-new-fight-scene-show-bullseye-bar)
- - [Nvidia denies reports that the &#39;missing ROPs&#39; debacle is hitting its RTX 50 laptop GPUs and could delay their launch](https://www.pcgamer.com/hardware/graphics-cards/nvidia-denies-reports-that-the-missing-rops-debacle-is-hitting-its-rtx-50-laptop-gpus-and-could-delay-their-launch/)
- - [Nvidia RTX 5060 graphics cards are said to be revealed &#39;in about 10 days&#39; and are expected to &#39;be on the shelf a month later&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-rtx-5060-graphics-cards-are-said-to-be-revealed-in-about-10-days-and-are-expected-to-be-on-the-shelf-a-month-later/)<!-- GAME:END -->
+ - [The best thrillers to watch on Netflix this March](https://www.polygon.com/movies/535079/best-thriller-movies-netflix-watch-march-2025)
+ - [Bandai Namco will celebrate Pac-Man&#39;s 45th birthday with museum displays, live experiences, and an official cookbook featuring &#39;a maze of imaginative recipes&#39;](https://www.pcgamer.com/games/bandai-namco-will-celebrate-pac-mans-45th-birthday-with-museum-displays-live-experiences-and-an-official-cookbook-featuring-a-maze-of-imaginative-recipes/)
+ - [Microsoft&#39;s Civilization 7 competitor escalates tensions with Firaxis&#39; embattled 4X, announcing that nukes are coming with its impending diplomacy update](https://www.pcgamer.com/games/strategy/microsofts-civilization-7-competitor-escalates-tensions-with-firaxis-embattled-4x-announcing-that-nukes-are-coming-with-its-impending-diplomacy-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
