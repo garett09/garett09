@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best thrillers to watch on Netflix this March](https://www.polygon.com/movies/535079/best-thriller-movies-netflix-watch-march-2025)
- - [Bandai Namco will celebrate Pac-Man&#39;s 45th birthday with museum displays, live experiences, and an official cookbook featuring &#39;a maze of imaginative recipes&#39;](https://www.pcgamer.com/games/bandai-namco-will-celebrate-pac-mans-45th-birthday-with-museum-displays-live-experiences-and-an-official-cookbook-featuring-a-maze-of-imaginative-recipes/)
- - [Microsoft&#39;s Civilization 7 competitor escalates tensions with Firaxis&#39; embattled 4X, announcing that nukes are coming with its impending diplomacy update](https://www.pcgamer.com/games/strategy/microsofts-civilization-7-competitor-escalates-tensions-with-firaxis-embattled-4x-announcing-that-nukes-are-coming-with-its-impending-diplomacy-update/)<!-- GAME:END -->
+ - [3 things game creators can learn from the Balatro dev’s diary](https://www.polygon.com/gaming/536336/balatro-developer-diary-lessons-creativity)
+ - [Split Fiction Is The Good Time Everyone Needs Right Now](https://kotaku.com/split-fiction-co-op-review-steam-early-game-of-the-year-1851768668)
+ - [Warhammer: Vermintide 2 celebrates 7 years of rat bashing with a new versus map and double XP for all players, but its hotly anticipated weapon pack &#39;won&#39;t be coming out this year&#39;](https://www.pcgamer.com/games/action/warhammer-vermintide-2-celebrates-7-years-of-rat-bashing-with-a-new-versus-map-and-double-xp-for-all-players-but-its-hotly-anticipated-weapon-pack-wont-be-coming-out-this-year/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
