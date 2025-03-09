@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m 40, I don&#39;t have time for this BS](http://9gag.com/gag/aRBZ3qB)
- - 🚯 [Reichelt jumped from the Eiffel Tower to prove his wearable parachute worked , thus starting the Darwin Awards](http://9gag.com/gag/aByLWx1)
- - 🚯 [Stay calm](http://9gag.com/gag/aLneDKv)<!-- MEMES:END -->
+ - 🚖 [Cheating.](http://9gag.com/gag/aZZw39X)
+ - 🚯 [How though?](http://9gag.com/gag/a9yvR0W)
+ - 🚯 [Can handle baby carrots](http://9gag.com/gag/a9yvA2j)<!-- MEMES:END -->
 
 --- 
 
