@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 things game creators can learn from the Balatro dev’s diary](https://www.polygon.com/gaming/536336/balatro-developer-diary-lessons-creativity)
- - [Split Fiction Is The Good Time Everyone Needs Right Now](https://kotaku.com/split-fiction-co-op-review-steam-early-game-of-the-year-1851768668)
- - [Warhammer: Vermintide 2 celebrates 7 years of rat bashing with a new versus map and double XP for all players, but its hotly anticipated weapon pack &#39;won&#39;t be coming out this year&#39;](https://www.pcgamer.com/games/action/warhammer-vermintide-2-celebrates-7-years-of-rat-bashing-with-a-new-versus-map-and-double-xp-for-all-players-but-its-hotly-anticipated-weapon-pack-wont-be-coming-out-this-year/)<!-- GAME:END -->
+ - [The Forever Winter, my favourite extraction shooter, just overhauled its most contentious feature for the second time:  &#39;It was a hell of a rollercoaster to make the adjustment&#39;](https://www.pcgamer.com/games/third-person-shooter/the-forever-winter-my-favourite-extraction-shooter-just-overhauled-its-most-contentious-feature-for-the-second-time-it-was-a-hell-of-a-rollercoaster-to-make-the-adjustment/)
+ - [Wanderstop is so much more than just brewing tea — but that part’s good, too](https://www.polygon.com/review/536249/wanderstop-review-ivy-road-annapurna-tea-shop)
+ - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
