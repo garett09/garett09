@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TCL QM6K Trades Picture Punch for Refined Performance](https://www.wired.com/review/tcl-qm6k/)
- - [Hall of fame: These are the Android apps I’ve been using the longest](https://www.androidauthority.com/android-apps-i-have-been-using-the-longest-3533009/)
- - [I needed Samsung DeX to save me when my PC died, but it couldn’t](https://www.androidauthority.com/samsung-dex-should-have-saved-the-day-3527305/)<!-- TECH:END -->
+ - [iPhone 17 video hints at how fall updates will feel in the hand](https://appleinsider.com/articles/25/03/10/iphone-17-video-hints-at-how-fall-updates-will-feel-in-the-hand?utm_medium=rss)
+ - [MacBook Air update arrives with lower starting price &amp; M4 performance boost](https://appleinsider.com/articles/25/03/05/macbook-air-update-arrives-with-lower-starting-price-m4-performance-boost?utm_medium=rss)
+ - [Deals: AirPods 4 plunge to $99, while AirPods Pro 2 fall to $169](https://appleinsider.com/articles/25/03/10/deals-airpods-4-plunge-to-99-while-airpods-pro-2-fall-to-169?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
