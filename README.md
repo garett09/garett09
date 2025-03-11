@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 video hints at how fall updates will feel in the hand](https://appleinsider.com/articles/25/03/10/iphone-17-video-hints-at-how-fall-updates-will-feel-in-the-hand?utm_medium=rss)
- - [MacBook Air update arrives with lower starting price &amp; M4 performance boost](https://appleinsider.com/articles/25/03/05/macbook-air-update-arrives-with-lower-starting-price-m4-performance-boost?utm_medium=rss)
- - [Deals: AirPods 4 plunge to $99, while AirPods Pro 2 fall to $169](https://appleinsider.com/articles/25/03/10/deals-airpods-4-plunge-to-99-while-airpods-pro-2-fall-to-169?utm_medium=rss)<!-- TECH:END -->
+ - [M4 MacBook Air review roundup: Welcome upgrade, but no surprises](https://appleinsider.com/articles/25/03/11/m4-macbook-air-review-roundup-welcome-upgrade-but-no-surprises?utm_medium=rss)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Western Digital launches massive 26TB drives for pros &amp; NAS users](https://appleinsider.com/articles/25/03/11/western-digital-launches-massive-26tb-drives-for-pros-nas-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
