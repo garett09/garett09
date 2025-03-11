@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Forever Winter, my favourite extraction shooter, just overhauled its most contentious feature for the second time:  &#39;It was a hell of a rollercoaster to make the adjustment&#39;](https://www.pcgamer.com/games/third-person-shooter/the-forever-winter-my-favourite-extraction-shooter-just-overhauled-its-most-contentious-feature-for-the-second-time-it-was-a-hell-of-a-rollercoaster-to-make-the-adjustment/)
- - [Wanderstop is so much more than just brewing tea — but that part’s good, too](https://www.polygon.com/review/536249/wanderstop-review-ivy-road-annapurna-tea-shop)
- - [Discoveries](https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience)<!-- GAME:END -->
+ - [How Long To Beat Monster Hunter Wilds Is Entirely The Wrong Question](https://kotaku.com/monster-hunter-wilds-how-long-to-beat-story-campaign-1851769015)
+ - [Minecraft composer C418 talks burnout after making Wanderstop, a game about burnout](https://www.polygon.com/playstation/535849/minecraft-c418-interview-burnout-wanderstop)
+ - [The Last Of Us Has Us Wishing These 8 TV Shows Were Video Games](https://kotaku.com/tv-show-video-games-paradise-the-last-of-us-the-boys-1851768791)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
