@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 MacBook Air review roundup: Welcome upgrade, but no surprises](https://appleinsider.com/articles/25/03/11/m4-macbook-air-review-roundup-welcome-upgrade-but-no-surprises?utm_medium=rss)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Western Digital launches massive 26TB drives for pros &amp; NAS users](https://appleinsider.com/articles/25/03/11/western-digital-launches-massive-26tb-drives-for-pros-nas-users?utm_medium=rss)<!-- TECH:END -->
+ - [8 Best Vacuums for Pet Hair &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-hair-vacuums/)
+ - [Censorship: These are the topics Gemini won’t talk about](https://www.androidauthority.com/gemini-censorship-3533925/)
+ - [I outsourced my memory to an AI pin and all I got was fanfiction](https://www.theverge.com/reviews/627056/bee-review-ai-wearable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
