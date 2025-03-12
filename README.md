@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Long To Beat Monster Hunter Wilds Is Entirely The Wrong Question](https://kotaku.com/monster-hunter-wilds-how-long-to-beat-story-campaign-1851769015)
- - [Minecraft composer C418 talks burnout after making Wanderstop, a game about burnout](https://www.polygon.com/playstation/535849/minecraft-c418-interview-burnout-wanderstop)
- - [The Last Of Us Has Us Wishing These 8 TV Shows Were Video Games](https://kotaku.com/tv-show-video-games-paradise-the-last-of-us-the-boys-1851768791)<!-- GAME:END -->
+ - [Pokémon Go &lpar;and the rest of Niantic’s games&rpar; just sold for $3.5B](https://www.polygon.com/pokemon-go/538132/pokemon-go-niantic-games-sold-scopely-acquisition)
+ - [Celebrate Seven Years of Sea of Thieves this March](https://www.seaofthieves.com/news/this-month-march-2025#new_tab)
+ - [After years in development, D&amp;#038;D’s Unreal-powered virtual tabletop still feels off](https://www.polygon.com/dnd-dungeons-dragons/537899/sigil-vtt-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
