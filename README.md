@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Vacuums for Pet Hair &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-hair-vacuums/)
- - [Censorship: These are the topics Gemini won’t talk about](https://www.androidauthority.com/gemini-censorship-3533925/)
- - [I outsourced my memory to an AI pin and all I got was fanfiction](https://www.theverge.com/reviews/627056/bee-review-ai-wearable)<!-- TECH:END -->
+ - [Facebook, Instagram, and Threads start testing Community Notes next week](https://www.theverge.com/news/628875/facebook-instagram-threads-community-notes-test)
+ - [Sources: Trump family representatives have held talks to take a financial stake in Binance US, and Changpeng Zhao has been pushing for Trump to pardon him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250313/p24#a250313p24)
+ - [I still have one big concern about the Samsung Galaxy Z Flip 7](https://www.androidauthority.com/samsung-galaxy-z-flip-7-big-concern-cover-screen-3532785/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
