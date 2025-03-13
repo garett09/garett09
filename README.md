@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go &lpar;and the rest of Niantic’s games&rpar; just sold for $3.5B](https://www.polygon.com/pokemon-go/538132/pokemon-go-niantic-games-sold-scopely-acquisition)
- - [Celebrate Seven Years of Sea of Thieves this March](https://www.seaofthieves.com/news/this-month-march-2025#new_tab)
- - [After years in development, D&amp;#038;D’s Unreal-powered virtual tabletop still feels off](https://www.polygon.com/dnd-dungeons-dragons/537899/sigil-vtt-review)<!-- GAME:END -->
+ - [Civilization 7&#39;s Big Question: Towns Or Cities?](https://kotaku.com/civ-7-civilization-vii-how-to-upgrade-towns-cities-1851769615)
+ - [Nvidia says it&#39;s sold twice as many RTX 50-series cards as RTX 40-series in the first 5 weeks. I&#39;d bloody well hope so given there was essentially just the RTX 4090 for competition](https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-its-sold-twice-as-many-rtx-50-series-cards-as-rtx-40-series-in-the-first-5-weeks-id-bloody-well-hope-so-given-there-was-essentially-just-the-rtx-4090-for-competition/)
+ - [I wish Avowed’s brilliant lore reminder feature was in every RPG](https://www.polygon.com/opinion/538601/avowed-lore-reminder-dialogue-history-feature)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
