@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, Instagram, and Threads start testing Community Notes next week](https://www.theverge.com/news/628875/facebook-instagram-threads-community-notes-test)
- - [Sources: Trump family representatives have held talks to take a financial stake in Binance US, and Changpeng Zhao has been pushing for Trump to pardon him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250313/p24#a250313p24)
- - [I still have one big concern about the Samsung Galaxy Z Flip 7](https://www.androidauthority.com/samsung-galaxy-z-flip-7-big-concern-cover-screen-3532785/)<!-- TECH:END -->
+ - [Survey shows you’d much rather buy this mid-range phone over a Galaxy S25](https://www.androidauthority.com/buy-samsung-galaxy-a56-s25-poll-results-3535172/)
+ - [The Beef Tallow Skin Care Trend Smells Like a Scam](https://www.wired.com/story/i-have-beef-with-tallow/)
+ - [T-Mobile is giving out a free voice line, and here’s what you need to know before claiming it](https://www.androidauthority.com/t-mobile-free-voice-line-promotion-3535179/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
