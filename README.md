@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His smile didn&#39;t last long](http://9gag.com/gag/aQzQAmW)
- - 🚯 [Turkish airlines](http://9gag.com/gag/a0eV1QQ)
- - 🚯 [*Looks at the thumb* Story checks out](http://9gag.com/gag/aXPNN8z)<!-- MEMES:END -->
+ - 🚖 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
+ - 🚯 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
+ - 🚯 [Dadddddddyyyyyyyy !!!!](http://9gag.com/gag/a5QBjjo)<!-- MEMES:END -->
 
 --- 
 
