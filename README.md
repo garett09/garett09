@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Civilization 7&#39;s Big Question: Towns Or Cities?](https://kotaku.com/civ-7-civilization-vii-how-to-upgrade-towns-cities-1851769615)
- - [Nvidia says it&#39;s sold twice as many RTX 50-series cards as RTX 40-series in the first 5 weeks. I&#39;d bloody well hope so given there was essentially just the RTX 4090 for competition](https://www.pcgamer.com/hardware/graphics-cards/nvidia-says-its-sold-twice-as-many-rtx-50-series-cards-as-rtx-40-series-in-the-first-5-weeks-id-bloody-well-hope-so-given-there-was-essentially-just-the-rtx-4090-for-competition/)
- - [I wish Avowed’s brilliant lore reminder feature was in every RPG](https://www.polygon.com/opinion/538601/avowed-lore-reminder-dialogue-history-feature)<!-- GAME:END -->
+ - [SteelSeries QcK Performance mouse pad review](https://www.pcgamer.com/hardware/gaming-mice/steelseries-qck-performance-mouse-pad-review/)
+ - [MLB The Show 25 early access is live today — here’s everything you need to know](https://blog.playstation.com/2025/03/14/mlb-the-show-25-early-access-is-live-today-heres-everything-you-need-to-know/)
+ - [Marvel Rivals&#39; Moon Knight Is A Glass Cannon](https://kotaku.com/marvel-rivals-how-to-play-moon-knight-1851769938)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
