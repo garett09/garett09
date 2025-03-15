@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The devs were diabolical for this](http://9gag.com/gag/a7oeNYq)
- - 🚯 [American influencer being deported for kidnapping baby wombat from mother... and banned from Australia, her Boyfriend facing criminal charges...](http://9gag.com/gag/axyvP81)
- - 🚯 [Dadddddddyyyyyyyy !!!!](http://9gag.com/gag/a5QBjjo)<!-- MEMES:END -->
+ - 🚖 [From the deep](http://9gag.com/gag/axyvAvL)
+ - 🚯 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
+ - 🚯 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)<!-- MEMES:END -->
 
 --- 
 
