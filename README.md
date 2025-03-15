@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SteelSeries QcK Performance mouse pad review](https://www.pcgamer.com/hardware/gaming-mice/steelseries-qck-performance-mouse-pad-review/)
- - [MLB The Show 25 early access is live today — here’s everything you need to know](https://blog.playstation.com/2025/03/14/mlb-the-show-25-early-access-is-live-today-heres-everything-you-need-to-know/)
- - [Marvel Rivals&#39; Moon Knight Is A Glass Cannon](https://kotaku.com/marvel-rivals-how-to-play-moon-knight-1851769938)<!-- GAME:END -->
+ - [An Amazing Steam Sale, A Major Pokémon Go Development, And More Of The Week&#39;s Top News](https://kotaku.com/gaming-news-steam-sale-pokemon-go-battlefield-6-1851770044)
+ - [Grab the brilliant Doom 2016 for its lowest price ever](https://www.pcgamer.com/games/fps/grab-the-brilliant-doom-2016-for-its-lowest-price-ever/)
+ - [The best sci-fi movies to watch on Netflix this March](https://www.polygon.com/what-to-watch/538224/best-sci-fi-movies-watch-netflix-march-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
