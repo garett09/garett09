@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows you’d much rather buy this mid-range phone over a Galaxy S25](https://www.androidauthority.com/buy-samsung-galaxy-a56-s25-poll-results-3535172/)
- - [The Beef Tallow Skin Care Trend Smells Like a Scam](https://www.wired.com/story/i-have-beef-with-tallow/)
- - [T-Mobile is giving out a free voice line, and here’s what you need to know before claiming it](https://www.androidauthority.com/t-mobile-free-voice-line-promotion-3535179/)<!-- TECH:END -->
+ - [16 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)
+ - [My Gboard experience sucked until I made smarter use of these 7 simple features](https://www.androidauthority.com/gboard-features-3533885/)
+ - [This bullet hell shooter mixes retro and modern in all the right ways](https://www.theverge.com/games-review/627954/star-of-providence-review-nintendo-switch-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
