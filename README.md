@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From the deep](http://9gag.com/gag/axyvAvL)
- - 🚯 [Ibiza 2000 vs ibiza 2025](http://9gag.com/gag/aGy87g7)
- - 🚯 [No choice to pull plug on German cable](http://9gag.com/gag/a9yvVb0)<!-- MEMES:END -->
+ - 🚖 [Little dictator using forbidden gun against own citizens in Serbia](http://9gag.com/gag/aAyE72L)
+ - 🚯 [Helicopter backflip](http://9gag.com/gag/aZZwVDW)
+ - 🚯 [Spiderwoman](http://9gag.com/gag/aXPNzzP)<!-- MEMES:END -->
 
 --- 
 
