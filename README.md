@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An Amazing Steam Sale, A Major Pokémon Go Development, And More Of The Week&#39;s Top News](https://kotaku.com/gaming-news-steam-sale-pokemon-go-battlefield-6-1851770044)
- - [Grab the brilliant Doom 2016 for its lowest price ever](https://www.pcgamer.com/games/fps/grab-the-brilliant-doom-2016-for-its-lowest-price-ever/)
- - [The best sci-fi movies to watch on Netflix this March](https://www.polygon.com/what-to-watch/538224/best-sci-fi-movies-watch-netflix-march-2025)<!-- GAME:END -->
+ - [Finding Avowed&#39;s Best Armor, Mastering Monster Hunter Wilds&#39; Best Weapon, And More Of The Week&#39;s Tips](https://kotaku.com/mhw-charge-blade-avowed-best-armor-how-long-to-beat-1851770045)
+ - [10 cozy games that hide a secret twist](https://www.polygon.com/cozy-gaming/539022/best-cozy-games-twist-play-list)
+ - [Today&#39;s Wordle answer for Sunday, March 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-16-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
