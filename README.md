@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)
- - [My Gboard experience sucked until I made smarter use of these 7 simple features](https://www.androidauthority.com/gboard-features-3533885/)
- - [This bullet hell shooter mixes retro and modern in all the right ways](https://www.theverge.com/games-review/627954/star-of-providence-review-nintendo-switch-pc)<!-- TECH:END -->
+ - [The Best RAM for Your PC &lpar;2025&rpar;](https://www.wired.com/gallery/best-ram/)
+ - [Who needs Chromecast? I switched to this $20 Google TV box and haven’t looked back](https://www.androidauthority.com/onn-4k-best-chromecast-alternative-3533035/)
+ - [This gaming mouse has a striking skeletonized design and hot-swap batteries](https://www.theverge.com/hands-on/630856/angry-miao-am-infinity-mouse-gaming-price-specs-impressions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
