@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Finding Avowed&#39;s Best Armor, Mastering Monster Hunter Wilds&#39; Best Weapon, And More Of The Week&#39;s Tips](https://kotaku.com/mhw-charge-blade-avowed-best-armor-how-long-to-beat-1851770045)
- - [10 cozy games that hide a secret twist](https://www.polygon.com/cozy-gaming/539022/best-cozy-games-twist-play-list)
- - [Today&#39;s Wordle answer for Sunday, March 16](https://www.pcgamer.com/games/puzzle/wordle-answer-today-march-16-2025/)<!-- GAME:END -->
+ - [MSI RTX 5090 Suprim SOC review](https://www.pcgamer.com/hardware/graphics-cards/msi-rtx-5090-suprim-soc-review/)
+ - [Your Discord friends list may soon appear directly in the games you play](https://www.pcgamer.com/gaming-industry/your-discord-friends-list-may-soon-appear-directly-in-the-games-you-play/)
+ - [The RTX 5080 is a great GPU that you probably can’t get right now](https://www.polygon.com/review/540006/rtx-5080-review-nvidia-graphics-card-gpu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
