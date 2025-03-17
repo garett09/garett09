@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best RAM for Your PC &lpar;2025&rpar;](https://www.wired.com/gallery/best-ram/)
- - [Who needs Chromecast? I switched to this $20 Google TV box and haven’t looked back](https://www.androidauthority.com/onn-4k-best-chromecast-alternative-3533035/)
- - [This gaming mouse has a striking skeletonized design and hot-swap batteries](https://www.theverge.com/hands-on/630856/angry-miao-am-infinity-mouse-gaming-price-specs-impressions)<!-- TECH:END -->
+ - [Zoom’s AI will soon help you do busywork, too](https://www.theverge.com/news/630156/zoom-ai-companion-agentic-update)
+ - [Cisco adds AirPlay &amp; Vision Pro support to Microsoft Teams Rooms](https://appleinsider.com/articles/25/03/17/cisco-adds-airplay-vision-pro-support-to-microsoft-teams-rooms?utm_medium=rss)
+ - [This crazy Android gaming handheld has a foldable, two screen design and a powerful new chip](https://androidauth.wpengine.com/onexplayer-onexsugar-1-announcement-3535593/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
