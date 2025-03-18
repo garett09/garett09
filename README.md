@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI RTX 5090 Suprim SOC review](https://www.pcgamer.com/hardware/graphics-cards/msi-rtx-5090-suprim-soc-review/)
- - [Your Discord friends list may soon appear directly in the games you play](https://www.pcgamer.com/gaming-industry/your-discord-friends-list-may-soon-appear-directly-in-the-games-you-play/)
- - [The RTX 5080 is a great GPU that you probably can’t get right now](https://www.polygon.com/review/540006/rtx-5080-review-nvidia-graphics-card-gpu)<!-- GAME:END -->
+ - [XFX Swift Radeon RX 9070 OC review](https://www.pcgamer.com/hardware/graphics-cards/xfx-swift-radeon-rx-9070-oc-review/)
+ - [Lance Vance and Ken Rosenberg are GTA: Vice City’s worst tour guides](https://www.polygon.com/culture/532541/gta-vice-city-lance-vance-ken-rosenberg-guides)
+ - [The 12 best routes in Pokémon history](https://www.polygon.com/pokemon/534179/pokemon-best-walking-routes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
