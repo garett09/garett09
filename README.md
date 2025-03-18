@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom’s AI will soon help you do busywork, too](https://www.theverge.com/news/630156/zoom-ai-companion-agentic-update)
- - [Cisco adds AirPlay &amp; Vision Pro support to Microsoft Teams Rooms](https://appleinsider.com/articles/25/03/17/cisco-adds-airplay-vision-pro-support-to-microsoft-teams-rooms?utm_medium=rss)
- - [This crazy Android gaming handheld has a foldable, two screen design and a powerful new chip](https://androidauth.wpengine.com/onexplayer-onexsugar-1-announcement-3535593/)<!-- TECH:END -->
+ - [Should You Take Ashwagandha Supplements for Stress and Anxiety?](https://www.cnet.com/health/nutrition/should-you-take-ashwagandha-supplements-for-stress-anxiety/#ftag=CAD590a51e)
+ - [Meet the Game Developer Turning Fanfic Into Deadpool DLC](https://www.wired.com/story/emma-kidwell-turning-fanfic-into-deadpool-dlc/)
+ - [Google launches new Search and Android health features, including medical records APIs, and plans to release open AI models for drug discovery called TxGemma &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250318/p19#a250318p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
