@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should You Take Ashwagandha Supplements for Stress and Anxiety?](https://www.cnet.com/health/nutrition/should-you-take-ashwagandha-supplements-for-stress-anxiety/#ftag=CAD590a51e)
- - [Meet the Game Developer Turning Fanfic Into Deadpool DLC](https://www.wired.com/story/emma-kidwell-turning-fanfic-into-deadpool-dlc/)
- - [Google launches new Search and Android health features, including medical records APIs, and plans to release open AI models for drug discovery called TxGemma &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250318/p19#a250318p19)<!-- TECH:END -->
+ - [Leaked iPhone 17 Air case back up camera bar claims](https://appleinsider.com/articles/25/03/19/leaked-iphone-17-air-case-back-up-camera-bar-claims?utm_medium=rss)
+ - [Nvidia says &amp;#8216;the age of generalist robotics is here&amp;#8217;](https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available)
+ - [Atari taps into your love for retro gaming with its new smartwatch](https://www.androidauthority.com/atari-2600-my-play-watch-3536471/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
