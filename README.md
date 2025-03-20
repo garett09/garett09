@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [XFX Swift Radeon RX 9070 OC review](https://www.pcgamer.com/hardware/graphics-cards/xfx-swift-radeon-rx-9070-oc-review/)
- - [Lance Vance and Ken Rosenberg are GTA: Vice City’s worst tour guides](https://www.polygon.com/culture/532541/gta-vice-city-lance-vance-ken-rosenberg-guides)
- - [The 12 best routes in Pokémon history](https://www.polygon.com/pokemon/534179/pokemon-best-walking-routes)<!-- GAME:END -->
+ - [Gran Turismo World Series 2025 starts with Online Qualifiers on April 2](https://blog.playstation.com/2025/03/20/gran-turismo-world-series-2025-starts-with-online-qualifiers-on-april-2/)
+ - [8 Ways Assassin’s Creed Shadows Breaks Free From Its Predecessors](https://news.xbox.com/en-us/2025/03/20/8-ways-assassins-creed-shadows-breaks-free-from-its-predecessors/)
+ - [Animal Crossing: New Horizons made friend codes cool](https://www.polygon.com/gaming/538302/animal-crossing-new-horizons-5th-anniversary-friend-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
