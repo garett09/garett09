@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked iPhone 17 Air case back up camera bar claims](https://appleinsider.com/articles/25/03/19/leaked-iphone-17-air-case-back-up-camera-bar-claims?utm_medium=rss)
- - [Nvidia says &amp;#8216;the age of generalist robotics is here&amp;#8217;](https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available)
- - [Atari taps into your love for retro gaming with its new smartwatch](https://www.androidauthority.com/atari-2600-my-play-watch-3536471/)<!-- TECH:END -->
+ - [Sources: Apple TV+ is losing $1B+ annually even as its subscriptions grew to ~45M in 2024; one source says Apple has spent $5B+ on content since its 2019 launch &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250320/p25#a250320p25)
+ - [Google could revamp Android’s backup settings with a sleek new look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-backup-settings-new-look-apk-teardown-3537026/)
+ - [The Pixel 9a is the smart way to do a slim phone, the Galaxy S25 Edge is not](https://www.androidauthority.com/pixel-9a-slim-phone-vs-galaxy-s25-edge-3535813/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
