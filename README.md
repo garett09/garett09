@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo World Series 2025 starts with Online Qualifiers on April 2](https://blog.playstation.com/2025/03/20/gran-turismo-world-series-2025-starts-with-online-qualifiers-on-april-2/)
- - [8 Ways Assassin’s Creed Shadows Breaks Free From Its Predecessors](https://news.xbox.com/en-us/2025/03/20/8-ways-assassins-creed-shadows-breaks-free-from-its-predecessors/)
- - [Animal Crossing: New Horizons made friend codes cool](https://www.polygon.com/gaming/538302/animal-crossing-new-horizons-5th-anniversary-friend-codes)<!-- GAME:END -->
+ - [Ghoul players in Fallout 76 are starting to place their Camps in the most radioactive areas of the map, and regular humans aren&#39;t happy: &#39;I had to inject 30+ radaway into my veins&#39;](https://www.pcgamer.com/games/fallout/ghoul-players-in-fallout-76-are-starting-to-place-their-camps-in-the-most-radioactive-areas-of-the-map-and-regular-humans-arent-happy-i-had-to-inject-30-radaway-into-my-veins/)
+ - [Wuthering Waves version 2.2 launches March 26: Tangled Truth in Inverted Tower](https://blog.playstation.com/2025/03/21/wuthering-waves-version-2-2-launches-march-26-tangled-truth-in-inverted-tower/)
+ - [Friendship ended with human race: Boffins declare the &#39;meme Turing test&#39; has been passed, and AI is now making funnier captions on average than you useless lumps](https://www.pcgamer.com/gaming-industry/friendship-ended-with-human-race-boffins-declare-the-meme-turing-test-has-been-passed-and-ai-is-now-making-funnier-captions-on-average-than-you-useless-lumps/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
