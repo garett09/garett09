@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t be her backup option](http://9gag.com/gag/adBO3KB)
- - 🚯 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
- - 🚯 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)<!-- MEMES:END -->
+ - 🚖 [Pwease buy it](http://9gag.com/gag/aPAovKG)
+ - 🚯 [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
+ - 🚯 [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)<!-- MEMES:END -->
 
 --- 
 
