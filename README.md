@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple TV+ is losing $1B+ annually even as its subscriptions grew to ~45M in 2024; one source says Apple has spent $5B+ on content since its 2019 launch &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250320/p25#a250320p25)
- - [Google could revamp Android’s backup settings with a sleek new look &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-backup-settings-new-look-apk-teardown-3537026/)
- - [The Pixel 9a is the smart way to do a slim phone, the Galaxy S25 Edge is not](https://www.androidauthority.com/pixel-9a-slim-phone-vs-galaxy-s25-edge-3535813/)<!-- TECH:END -->
+ - [&#39;Severance,&#39; the biggest success on Apple TV+, will be back for a third season](https://appleinsider.com/articles/25/03/21/severance-the-biggest-success-on-apple-tv-will-be-back-for-a-third-season?utm_medium=rss)
+ - [M4 MacBook Air review: More power than ever, at a lower price point](https://appleinsider.com/articles/25/03/21/m4-macbook-air-review-more-power-than-ever-at-a-lower-price-point?utm_medium=rss)
+ - [Google has made fast charging the Pixel 9 Pro XL an absolute nightmare](https://www.androidauthority.com/pixel-9-pro-xl-usb-c-worse-3477805/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
