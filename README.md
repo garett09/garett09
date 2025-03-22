@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pwease buy it](http://9gag.com/gag/aPAovKG)
- - 🚯 [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
- - 🚯 [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)<!-- MEMES:END -->
+ - 🚖 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
+ - 🚯 [Chickens, plural](http://9gag.com/gag/an72KNz)
+ - 🚯 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)<!-- MEMES:END -->
 
 --- 
 
