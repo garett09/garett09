@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghoul players in Fallout 76 are starting to place their Camps in the most radioactive areas of the map, and regular humans aren&#39;t happy: &#39;I had to inject 30+ radaway into my veins&#39;](https://www.pcgamer.com/games/fallout/ghoul-players-in-fallout-76-are-starting-to-place-their-camps-in-the-most-radioactive-areas-of-the-map-and-regular-humans-arent-happy-i-had-to-inject-30-radaway-into-my-veins/)
- - [Wuthering Waves version 2.2 launches March 26: Tangled Truth in Inverted Tower](https://blog.playstation.com/2025/03/21/wuthering-waves-version-2-2-launches-march-26-tangled-truth-in-inverted-tower/)
- - [Friendship ended with human race: Boffins declare the &#39;meme Turing test&#39; has been passed, and AI is now making funnier captions on average than you useless lumps](https://www.pcgamer.com/gaming-industry/friendship-ended-with-human-race-boffins-declare-the-meme-turing-test-has-been-passed-and-ai-is-now-making-funnier-captions-on-average-than-you-useless-lumps/)<!-- GAME:END -->
+ - [How a Mega Man fan project got an official Capcom license](https://www.polygon.com/q-and-a/539004/mega-man-hand-drawn-guide-interview)
+ - [Some Great Games Are Dirt-Cheap On PSN, An AC Shadows Streamer&#39;s Response To Racists Goes Viral, And More Top Stories](https://kotaku.com/ac-shadows-pokemon-scalping-ben-starr-rpg-1851771602)
+ - [I played the lost videogame sequel to 1984, and came away more nostalgic than ever for gaming&#39;s awkward adolescence in 1999](https://www.pcgamer.com/games/adventure/i-played-the-lost-videogame-sequel-to-1984-and-came-away-more-nostalgic-than-ever-for-gamings-awkward-adolescence-in-1999/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
