@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Severance,&#39; the biggest success on Apple TV+, will be back for a third season](https://appleinsider.com/articles/25/03/21/severance-the-biggest-success-on-apple-tv-will-be-back-for-a-third-season?utm_medium=rss)
- - [M4 MacBook Air review: More power than ever, at a lower price point](https://appleinsider.com/articles/25/03/21/m4-macbook-air-review-more-power-than-ever-at-a-lower-price-point?utm_medium=rss)
- - [Google has made fast charging the Pixel 9 Pro XL an absolute nightmare](https://www.androidauthority.com/pixel-9-pro-xl-usb-c-worse-3477805/)<!-- TECH:END -->
+ - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
+ - [Gemini Live’s multi-language skills have blown my socks off](https://www.androidauthority.com/gemini-live-multi-language-test-3536159/)
+ - [An interview with Affirm co-founder Max Levchin on hitting profitability, international expansion, building an &quot;Affirm mafia&quot;, DOGE, friendship with Musk, more &lpar;Andrew Edgecliffe-Johnson/Semafor&rpar;](http://www.techmeme.com/250322/p11#a250322p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
