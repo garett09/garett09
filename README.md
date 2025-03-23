@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How a Mega Man fan project got an official Capcom license](https://www.polygon.com/q-and-a/539004/mega-man-hand-drawn-guide-interview)
- - [Some Great Games Are Dirt-Cheap On PSN, An AC Shadows Streamer&#39;s Response To Racists Goes Viral, And More Top Stories](https://kotaku.com/ac-shadows-pokemon-scalping-ben-starr-rpg-1851771602)
- - [I played the lost videogame sequel to 1984, and came away more nostalgic than ever for gaming&#39;s awkward adolescence in 1999](https://www.pcgamer.com/games/adventure/i-played-the-lost-videogame-sequel-to-1984-and-came-away-more-nostalgic-than-ever-for-gamings-awkward-adolescence-in-1999/)<!-- GAME:END -->
+ - [How To Start Off Strong In Assassin&#39;s Creed Shadows And More Of The Week&#39;s Top Tips](https://kotaku.com/ac-shadows-beginner-tips-mh-wilds-wounds-1851771603)
+ - [7 great games you can finish in one sitting](https://www.polygon.com/what-to-play/541150/best-games-under-30-minutes-one-sitting)
+ - [What time does FFXIV patch 7.2 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/543582/patch-7-2-maintenance-end-time-back-online)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
