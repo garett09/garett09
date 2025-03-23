@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
- - 🚯 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 🚯 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)<!-- MEMES:END -->
+ - 🚖 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
+ - 🚯 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)
+ - 🚯 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)<!-- MEMES:END -->
 
 --- 
 
