@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
- - [Gemini Live’s multi-language skills have blown my socks off](https://www.androidauthority.com/gemini-live-multi-language-test-3536159/)
- - [An interview with Affirm co-founder Max Levchin on hitting profitability, international expansion, building an &quot;Affirm mafia&quot;, DOGE, friendship with Musk, more &lpar;Andrew Edgecliffe-Johnson/Semafor&rpar;](http://www.techmeme.com/250322/p11#a250322p11)<!-- TECH:END -->
+ - [If you’re buying one of these 2025 phones, make sure you buy the right charger](https://www.androidauthority.com/2025-proprietary-charger-mess-3533604/)
+ - [What Is Bluetooth? The History, How It Works, and What&#39;s Next](https://www.wired.com/story/what-is-bluetooth/)
+ - [Why Balatro’s developer stays anonymous](https://www.theverge.com/games/634123/balatro-localthunk-developer-anonymous-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
