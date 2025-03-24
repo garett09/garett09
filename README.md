@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you’re buying one of these 2025 phones, make sure you buy the right charger](https://www.androidauthority.com/2025-proprietary-charger-mess-3533604/)
- - [What Is Bluetooth? The History, How It Works, and What&#39;s Next](https://www.wired.com/story/what-is-bluetooth/)
- - [Why Balatro’s developer stays anonymous](https://www.theverge.com/games/634123/balatro-localthunk-developer-anonymous-update)<!-- TECH:END -->
+ - [Apple’s AirPods Max with USB-C will soon support lossless audio](https://www.theverge.com/news/634506/apple-airpods-max-lossless-audio-low-latency-usb-c)
+ - [Aviron Strong Rower Review: Get Gaming to Get Going](https://www.wired.com/review/aviron-strong-rower/)
+ - [Why I spent $225 on an old, outdated Pebble smartwatch](https://www.androidauthority.com/why-i-bought-old-pebble-smartwatch-3537081/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
