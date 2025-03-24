@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Start Off Strong In Assassin&#39;s Creed Shadows And More Of The Week&#39;s Top Tips](https://kotaku.com/ac-shadows-beginner-tips-mh-wilds-wounds-1851771603)
- - [7 great games you can finish in one sitting](https://www.polygon.com/what-to-play/541150/best-games-under-30-minutes-one-sitting)
- - [What time does FFXIV patch 7.2 release?](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/543582/patch-7-2-maintenance-end-time-back-online)<!-- GAME:END -->
+ - [Atomfall Arrives: Six Tips to Survive the Quarantine Zone](https://news.xbox.com/en-us/2025/03/24/atomfall-launch-tips/)
+ - [You are Phil Spencer. Which Ubisoft IP do you buy?](https://www.polygon.com/gaming/544628/ubisoft-ip-sale-microsoft-phil-spencer-not-assassins-creed)
+ - [Hollow Knight: Silksong&#39;s Copyright Updated, Fans Enter Newfound Levels Of Excitement, Nation In Chaos](https://kotaku.com/hollow-knight-silksong-release-date-switch-2-update-1851771854)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
