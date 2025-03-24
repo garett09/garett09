@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
- - 🚯 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)
- - 🚯 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)<!-- MEMES:END -->
+ - 🚖 [That was awesome](http://9gag.com/gag/amo6742)
+ - 🚯 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)
+ - 🚯 [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)<!-- MEMES:END -->
 
 --- 
 
