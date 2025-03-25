@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Atomfall Arrives: Six Tips to Survive the Quarantine Zone](https://news.xbox.com/en-us/2025/03/24/atomfall-launch-tips/)
- - [You are Phil Spencer. Which Ubisoft IP do you buy?](https://www.polygon.com/gaming/544628/ubisoft-ip-sale-microsoft-phil-spencer-not-assassins-creed)
- - [Hollow Knight: Silksong&#39;s Copyright Updated, Fans Enter Newfound Levels Of Excitement, Nation In Chaos](https://kotaku.com/hollow-knight-silksong-release-date-switch-2-update-1851771854)<!-- GAME:END -->
+ - [Tales of the Shire: A The Lord of The Rings Game – community building and shared meals gameplay details](https://blog.playstation.com/2025/03/25/tales-of-the-shire-a-the-lord-of-the-rings-game-community-building-and-shared-meals-gameplay-details/)
+ - [Designing the Iconic Liquid Metal T-1000 Terminator for Mortal Kombat 1](https://news.xbox.com/en-us/2025/03/25/designing-t1000-terminator-for-mortal-kombat-1/)
+ - [The 10 games that defined the Nintendo Switch](https://www.polygon.com/nintendo/545093/nintendo-switch-most-important-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
