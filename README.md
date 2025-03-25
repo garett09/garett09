@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s AirPods Max with USB-C will soon support lossless audio](https://www.theverge.com/news/634506/apple-airpods-max-lossless-audio-low-latency-usb-c)
- - [Aviron Strong Rower Review: Get Gaming to Get Going](https://www.wired.com/review/aviron-strong-rower/)
- - [Why I spent $225 on an old, outdated Pebble smartwatch](https://www.androidauthority.com/why-i-bought-old-pebble-smartwatch-3537081/)<!-- TECH:END -->
+ - [Dreading spring cleaning? Dreame’s home cleaning devices make things easier](https://www.androidauthority.com/spring-cleaning-dreame-3538135/)
+ - [Apple may escape big fine after iPhone browser selection screen changes](https://appleinsider.com/articles/25/03/25/apple-may-escape-big-fine-after-iphone-browser-selection-screen-changes?utm_medium=rss)
+ - [AirFly’s wireless headphone dongle adds volume controls and better sound](https://www.theverge.com/news/634582/twelve-south-airfly-pro-2-wireless-headphone-bluetooth-dongle)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
