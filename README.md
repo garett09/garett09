@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That was awesome](http://9gag.com/gag/amo6742)
- - 🚯 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)
- - 🚯 [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)<!-- MEMES:END -->
+ - 🚖 [Word.](http://9gag.com/gag/a7o0W3r)
+ - 🚯 [Lol.](http://9gag.com/gag/aYQDy0q)
+ - 🚯 [Cool hobby](http://9gag.com/gag/aO8Z79M)<!-- MEMES:END -->
 
 --- 
 
