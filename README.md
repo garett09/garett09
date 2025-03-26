@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dreading spring cleaning? Dreame’s home cleaning devices make things easier](https://www.androidauthority.com/spring-cleaning-dreame-3538135/)
- - [Apple may escape big fine after iPhone browser selection screen changes](https://appleinsider.com/articles/25/03/25/apple-may-escape-big-fine-after-iphone-browser-selection-screen-changes?utm_medium=rss)
- - [AirFly’s wireless headphone dongle adds volume controls and better sound](https://www.theverge.com/news/634582/twelve-south-airfly-pro-2-wireless-headphone-bluetooth-dongle)<!-- TECH:END -->
+ - [Chinese AI startup SenseTime reports FY 2024 revenue up 11% YoY to ~$524M, below ~$620M est., and a ~$592M net loss, above ~$551M est., as the AI race heats up &lpar;Rachel Yeo/Bloomberg&rpar;](http://www.techmeme.com/250326/p22#a250326p22)
+ - [This dumb Gemini limitation makes me want to switch back to Google Assistant](https://www.androidauthority.com/geminis-multiple-calendar-support-limitation-3538240/)
+ - [Sony PlayStation DualSense Edge Controller Review: Gaming Upgrade](https://www.wired.com/review/sony-playstation-dualsense-edge-controller/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
