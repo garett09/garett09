@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tales of the Shire: A The Lord of The Rings Game – community building and shared meals gameplay details](https://blog.playstation.com/2025/03/25/tales-of-the-shire-a-the-lord-of-the-rings-game-community-building-and-shared-meals-gameplay-details/)
- - [Designing the Iconic Liquid Metal T-1000 Terminator for Mortal Kombat 1](https://news.xbox.com/en-us/2025/03/25/designing-t1000-terminator-for-mortal-kombat-1/)
- - [The 10 games that defined the Nintendo Switch](https://www.polygon.com/nintendo/545093/nintendo-switch-most-important-games)<!-- GAME:END -->
+ - [Ubisoft scores a legendary ratio against Elon Musk on his own platform—which hopefully marks a final end to all the Assassin&#39;s Creed Shadows&#39; culture war nonsense](https://www.pcgamer.com/games/assassins-creed/ubisoft-scores-a-legendary-ratio-against-elon-musk-on-his-own-platform-which-hopefully-marks-a-final-end-to-all-the-assassins-creed-shadows-culture-war-nonsense/)
+ - [Gran Turismo 7 update 1.57 available today](https://blog.playstation.com/2025/03/26/gran-turismo-7-update-1-57-available-today/)
+ - [The RTX 5090 is the best and most unnecessary GPU you can buy](https://www.polygon.com/gaming/545482/rtx-5090-review-nvidia-graphics-card-gpu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
