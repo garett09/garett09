@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Word.](http://9gag.com/gag/a7o0W3r)
- - 🚯 [Lol.](http://9gag.com/gag/aYQDy0q)
- - 🚯 [Cool hobby](http://9gag.com/gag/aO8Z79M)<!-- MEMES:END -->
+ - 🚖 [Geisha game](http://9gag.com/gag/aD284EG)
+ - 🚯 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)
+ - 🚯 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)<!-- MEMES:END -->
 
 --- 
 
