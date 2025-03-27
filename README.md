@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft scores a legendary ratio against Elon Musk on his own platform—which hopefully marks a final end to all the Assassin&#39;s Creed Shadows&#39; culture war nonsense](https://www.pcgamer.com/games/assassins-creed/ubisoft-scores-a-legendary-ratio-against-elon-musk-on-his-own-platform-which-hopefully-marks-a-final-end-to-all-the-assassins-creed-shadows-culture-war-nonsense/)
- - [Gran Turismo 7 update 1.57 available today](https://blog.playstation.com/2025/03/26/gran-turismo-7-update-1-57-available-today/)
- - [The RTX 5090 is the best and most unnecessary GPU you can buy](https://www.polygon.com/gaming/545482/rtx-5090-review-nvidia-graphics-card-gpu)<!-- GAME:END -->
+ - [The 5 best cleaning games](https://www.polygon.com/what-to-play/547346/best-cleaning-video-games-cozy-house-flipper-unpacking)
+ - [How to watch the new Nintendo Direct for a look at what’s coming to Switch](https://www.polygon.com/news/514779/nintendo-direct-march-2025-switch-games)
+ - [Pokémon TCG Pocket&#39;s New Shiny Set Has A Card Locked Inside A $25 Bundle](https://kotaku.com/pokemon-tcg-pocket-shiny-revelry-mewtwo-bundle-gold-1851772662)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
