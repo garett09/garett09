@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Health science is amazing! A full set of dental implants.](http://9gag.com/gag/aVvKvvd)
- - 🚯 [A story similar to the one in \u201cSixth, Sense\u201d happened in Poland, in one of the cleaning companies. A woman had been topping up a colleague&#39;s tea with a toxic substance in her absence for several months. The victim realized and recorded it with a hidden camera.](http://9gag.com/gag/a5Qw63N)
- - 🚯 [Even the son of Snow White producer threw rachel zegler under the bus.](http://9gag.com/gag/ae9ZOWj)<!-- MEMES:END -->
+ - 🚖 [Black live or something](http://9gag.com/gag/a9y5XYZ)
+ - 🚯 [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)
+ - 🚯 [2 guys having a civilized conversation](http://9gag.com/gag/aD286Wx)<!-- MEMES:END -->
 
 --- 
 
