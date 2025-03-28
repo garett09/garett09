@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best cleaning games](https://www.polygon.com/what-to-play/547346/best-cleaning-video-games-cozy-house-flipper-unpacking)
- - [How to watch the new Nintendo Direct for a look at what’s coming to Switch](https://www.polygon.com/news/514779/nintendo-direct-march-2025-switch-games)
- - [Pokémon TCG Pocket&#39;s New Shiny Set Has A Card Locked Inside A $25 Bundle](https://kotaku.com/pokemon-tcg-pocket-shiny-revelry-mewtwo-bundle-gold-1851772662)<!-- GAME:END -->
+ - [How to get a referral code for Inzoi](https://www.pcgamer.com/games/life-sim/inzoi-referral-code/)
+ - [Crumbs: ASRock finds &#39;debris&#39; in X870 motherboard accused of toasting AMD Ryzen CPU](https://www.pcgamer.com/hardware/processors/crumbs-asrock-finds-debris-in-x870-motherboard-accused-of-toasting-amd-ryzen-cpu/)
+ - [Into Black announced for PS VR2](https://blog.playstation.com/2025/03/28/into-black-announced-for-ps-vr2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
