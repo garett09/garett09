@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out new Search, Maps, and Gemini features to help users plan vacations, including trip idea updates to AI Overviews and hotel price drop alerts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250327/p21#a250327p21)
- - [Google Maps wants to make planning your next trip as easy as screenshotting social media](https://www.androidauthority.com/google-maps-screenshot-list-3538888/)
- - [Here’s how Google Search can help you score a sweet deal on your next hotel booking](https://www.androidauthority.com/google-search-hotel-price-tracking-3539025/)<!-- TECH:END -->
+ - [Nintendo’s Legend of Zelda movie hits theaters in March 2027](https://www.theverge.com/news/638133/legend-of-zelda-movie-premiere-date-2027)
+ - [This budget smart ring challenges the Oura Ring and Galaxy Ring at half the price](https://www.androidauthority.com/ringconn-gen-2-air-review-3536329/)
+ - [Razer Blade 16 &lpar;2025&rpar; Review: Slim yet Powerful](https://www.wired.com/review/razer-blade-16-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
