@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s Legend of Zelda movie hits theaters in March 2027](https://www.theverge.com/news/638133/legend-of-zelda-movie-premiere-date-2027)
- - [This budget smart ring challenges the Oura Ring and Galaxy Ring at half the price](https://www.androidauthority.com/ringconn-gen-2-air-review-3536329/)
- - [Razer Blade 16 &lpar;2025&rpar; Review: Slim yet Powerful](https://www.wired.com/review/razer-blade-16-2025/)<!-- TECH:END -->
+ - [I gave Gemini my search history, and now I’m scared by how well it now knows me](https://www.androidauthority.com/gemini-with-personalization-hands-on-3536683/)
+ - [Here&#39;s When Your T-Mobile Data Breach Settlement Check Is Coming](https://www.cnet.com/tech/mobile/heres-when-your-t-mobile-data-breach-settlement-check-is-coming/#ftag=CAD590a51e)
+ - [Supreme Court Appears Reluctant to Eliminate Monthly Phone Fee](https://www.cnet.com/home/internet/supreme-court-appears-unlikely-to-eliminate-monthly-phone-fee/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
