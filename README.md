@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Black live or something](http://9gag.com/gag/a9y5XYZ)
- - 🚯 [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)
- - 🚯 [2 guys having a civilized conversation](http://9gag.com/gag/aD286Wx)<!-- MEMES:END -->
+ - 🚖 [Certified 9gag machine](http://9gag.com/gag/aMVPWg1)
+ - 🚯 [Like a real Italian](http://9gag.com/gag/adBQ2zN)
+ - 🚯 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)<!-- MEMES:END -->
 
 --- 
 
