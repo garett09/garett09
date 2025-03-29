@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get a referral code for Inzoi](https://www.pcgamer.com/games/life-sim/inzoi-referral-code/)
- - [Crumbs: ASRock finds &#39;debris&#39; in X870 motherboard accused of toasting AMD Ryzen CPU](https://www.pcgamer.com/hardware/processors/crumbs-asrock-finds-debris-in-x870-motherboard-accused-of-toasting-amd-ryzen-cpu/)
- - [Into Black announced for PS VR2](https://blog.playstation.com/2025/03/28/into-black-announced-for-ps-vr2/)<!-- GAME:END -->
+ - [Atomfall is an achievement in cutting to the chase](https://www.polygon.com/opinion/548988/atomfall-opening-rebellion-pc-xbox-ps5)
+ - [Everything We Saw At Nintendo&#39;s Last Big Direct For The OG Switch And More Of The Week&#39;s Top News](https://kotaku.com/nintendo-direct-switch-2-ubisoft-minecraft-1851773101)
+ - [After 16 years, The Dark Mod finally has guards as perceptive as in Thief: &#39;The days of seeing knocked-out AI in the middle of a bright spotlight get ignored are over&#39;](https://www.pcgamer.com/games/sim/after-16-years-the-dark-mod-finally-has-guards-as-perceptive-as-in-thief-the-days-of-seeing-knocked-out-ai-in-the-middle-of-a-bright-spotlight-get-ignored-are-over/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
