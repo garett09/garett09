@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I gave Gemini my search history, and now I’m scared by how well it now knows me](https://www.androidauthority.com/gemini-with-personalization-hands-on-3536683/)
- - [Here&#39;s When Your T-Mobile Data Breach Settlement Check Is Coming](https://www.cnet.com/tech/mobile/heres-when-your-t-mobile-data-breach-settlement-check-is-coming/#ftag=CAD590a51e)
- - [Supreme Court Appears Reluctant to Eliminate Monthly Phone Fee](https://www.cnet.com/home/internet/supreme-court-appears-unlikely-to-eliminate-monthly-phone-fee/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Health app&#39;s future AI assistant will tell you how to keep fit](https://appleinsider.com/articles/25/03/30/health-apps-future-ai-assistant-will-tell-you-how-to-keep-fit?utm_medium=rss)
+ - [Wahl Peanut Li Review: A Cordless Take on a Classic](https://www.wired.com/review/wahl-peanut-li-review/)
+ - [M5 iPad Pro is in testing ahead of a late-2025 release](https://appleinsider.com/articles/25/03/30/m5-ipad-pro-is-in-testing-ahead-of-a-late-2025-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
