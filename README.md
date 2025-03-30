@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Atomfall is an achievement in cutting to the chase](https://www.polygon.com/opinion/548988/atomfall-opening-rebellion-pc-xbox-ps5)
- - [Everything We Saw At Nintendo&#39;s Last Big Direct For The OG Switch And More Of The Week&#39;s Top News](https://kotaku.com/nintendo-direct-switch-2-ubisoft-minecraft-1851773101)
- - [After 16 years, The Dark Mod finally has guards as perceptive as in Thief: &#39;The days of seeing knocked-out AI in the middle of a bright spotlight get ignored are over&#39;](https://www.pcgamer.com/games/sim/after-16-years-the-dark-mod-finally-has-guards-as-perceptive-as-in-thief-the-days-of-seeing-knocked-out-ai-in-the-middle-of-a-bright-spotlight-get-ignored-are-over/)<!-- GAME:END -->
+ - [Playing Nintendo’s greatest triumph on its biggest failure](https://www.polygon.com/zelda/547697/breath-of-the-wild-wii-u)
+ - [Assassin&#39;s Creed Shadows Tips Galore And More Of The Week&#39;s Best Gaming Pointers](https://kotaku.com/ac-shadows-how-level-up-fast-make-money-atomfall-skills-1851773102)
+ - [Blades of Fire just showed off its first five minutes of gameplay, and I think it might be channelling God of War too heavily](https://www.pcgamer.com/games/action/blades-of-fire-just-showed-off-its-first-five-minutes-of-gameplay-and-i-think-it-might-be-channelling-god-of-war-too-heavily/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
