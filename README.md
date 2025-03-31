@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Health app&#39;s future AI assistant will tell you how to keep fit](https://appleinsider.com/articles/25/03/30/health-apps-future-ai-assistant-will-tell-you-how-to-keep-fit?utm_medium=rss)
- - [Wahl Peanut Li Review: A Cordless Take on a Classic](https://www.wired.com/review/wahl-peanut-li-review/)
- - [M5 iPad Pro is in testing ahead of a late-2025 release](https://appleinsider.com/articles/25/03/30/m5-ipad-pro-is-in-testing-ahead-of-a-late-2025-release?utm_medium=rss)<!-- TECH:END -->
+ - [I tested Gemini’s new Deep Research version and it’s surprisingly good](https://www.androidauthority.com/deep-research-2-0-tested-3539898/)
+ - [Amazon&#39;s AGI Lab unveils Nova Act, a general purpose AI agent to control a web browser and independently perform some simple actions, and a Nova Act SDK &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250331/p21#a250331p21)
+ - [TikTok, tariffs, and trials: everything happening in tech’s chaotic April](https://www.theverge.com/policy/638779/tariffs-tiktok-ban-meta-google-antitrust-trial-april-trump)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
