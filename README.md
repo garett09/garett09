@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can\u2019t believe we had this in the 60\u2019s. Scary to Imagine what they have now](http://9gag.com/gag/aGyBbm0)
- - 🚯 [Surprise butt kick](http://9gag.com/gag/aKGvn23)
- - 🚯 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)<!-- MEMES:END -->
+ - 🚖 [These were the times](http://9gag.com/gag/aD28Lwd)
+ - 🚯 [Right answers only](http://9gag.com/gag/awy1G4r)
+ - 🚯 [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)<!-- MEMES:END -->
 
 --- 
 
