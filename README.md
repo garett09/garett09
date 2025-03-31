@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Playing Nintendo’s greatest triumph on its biggest failure](https://www.polygon.com/zelda/547697/breath-of-the-wild-wii-u)
- - [Assassin&#39;s Creed Shadows Tips Galore And More Of The Week&#39;s Best Gaming Pointers](https://kotaku.com/ac-shadows-how-level-up-fast-make-money-atomfall-skills-1851773102)
- - [Blades of Fire just showed off its first five minutes of gameplay, and I think it might be channelling God of War too heavily](https://www.pcgamer.com/games/action/blades-of-fire-just-showed-off-its-first-five-minutes-of-gameplay-and-i-think-it-might-be-channelling-god-of-war-too-heavily/)<!-- GAME:END -->
+ - [Lazarus is so stylish, I don’t need to care about its mystery](https://www.polygon.com/anime/548734/lazarus-anime-review-adult-swim-watanabe)
+ - [In the market for a split keyboard? Why not chop a regular one in half and then attach it back together with a nightmare of wires, said no-one ever](https://www.pcgamer.com/hardware/gaming-keyboards/in-the-market-for-a-split-keyboard-why-not-chop-a-regular-one-in-half-and-then-attach-it-back-together-with-a-nightmare-of-wires-said-no-one-ever/)
+ - [Linus Torvalds admits &#39;pure incompetence&#39; for missing the new Linux 6.14 kernel deadline but all is forgiven as the update is great news for non-Windows gaming](https://www.pcgamer.com/software/linux/linus-torvalds-admits-pure-incompetence-for-missing-the-new-linux-6-14-kernel-deadline-but-all-is-forgiven-as-the-update-is-great-news-for-non-windows-gaming/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
