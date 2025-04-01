@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These were the times](http://9gag.com/gag/aD28Lwd)
- - 🚯 [Right answers only](http://9gag.com/gag/awy1G4r)
- - 🚯 [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)<!-- MEMES:END -->
+ - 🚖 [Today is the day.](http://9gag.com/gag/apR6ZRn)
+ - 🚯 [Chat burn](http://9gag.com/gag/aByV5MO)
+ - 🚯 [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)<!-- MEMES:END -->
 
 --- 
 
