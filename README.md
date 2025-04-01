@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested Gemini’s new Deep Research version and it’s surprisingly good](https://www.androidauthority.com/deep-research-2-0-tested-3539898/)
- - [Amazon&#39;s AGI Lab unveils Nova Act, a general purpose AI agent to control a web browser and independently perform some simple actions, and a Nova Act SDK &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250331/p21#a250331p21)
- - [TikTok, tariffs, and trials: everything happening in tech’s chaotic April](https://www.theverge.com/policy/638779/tariffs-tiktok-ban-meta-google-antitrust-trial-april-trump)<!-- TECH:END -->
+ - [TTP: Apple&#39;s and Google&#39;s app stores host popular &quot;private browsing&quot; apps operated by Shanghai-listed Qihoo 360, sanctioned by the US in 2020 for military ties &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p22#a250401p22)
+ - [Google rolls out a new Gmail encryption model in beta for enterprise that doesn&#39;t require senders or recipients to use custom software or exchange certificates &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250401/p21#a250401p21)
+ - [From dinner plans to DIY: Here’s how our team really uses AI](https://www.androidauthority.com/best-uses-for-ai-3537962/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
