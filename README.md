@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lazarus is so stylish, I don’t need to care about its mystery](https://www.polygon.com/anime/548734/lazarus-anime-review-adult-swim-watanabe)
- - [In the market for a split keyboard? Why not chop a regular one in half and then attach it back together with a nightmare of wires, said no-one ever](https://www.pcgamer.com/hardware/gaming-keyboards/in-the-market-for-a-split-keyboard-why-not-chop-a-regular-one-in-half-and-then-attach-it-back-together-with-a-nightmare-of-wires-said-no-one-ever/)
- - [Linus Torvalds admits &#39;pure incompetence&#39; for missing the new Linux 6.14 kernel deadline but all is forgiven as the update is great news for non-Windows gaming](https://www.pcgamer.com/software/linux/linus-torvalds-admits-pure-incompetence-for-missing-the-new-linux-6-14-kernel-deadline-but-all-is-forgiven-as-the-update-is-great-news-for-non-windows-gaming/)<!-- GAME:END -->
+ - [How to make Sweet Frappe in Hello Kitty Island Adventure](https://www.pcgamer.com/games/life-sim/hello-kitty-island-adventure-sweet-frappe-recipe/)
+ - [This nearly budget gaming PC build made me realise availability is just as important as affordability when building a cheap machine](https://www.pcgamer.com/hardware/gaming-pcs/this-nearly-budget-gaming-pc-build-made-me-realise-availability-is-just-as-important-as-affordability-when-building-a-cheap-machine/)
+ - [The quest to save Notre Dame brought together unlikely game giants](https://www.polygon.com/features/548537/notre-dame-restoration-gaming-technology)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
