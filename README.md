@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make Sweet Frappe in Hello Kitty Island Adventure](https://www.pcgamer.com/games/life-sim/hello-kitty-island-adventure-sweet-frappe-recipe/)
- - [This nearly budget gaming PC build made me realise availability is just as important as affordability when building a cheap machine](https://www.pcgamer.com/hardware/gaming-pcs/this-nearly-budget-gaming-pc-build-made-me-realise-availability-is-just-as-important-as-affordability-when-building-a-cheap-machine/)
- - [The quest to save Notre Dame brought together unlikely game giants](https://www.polygon.com/features/548537/notre-dame-restoration-gaming-technology)<!-- GAME:END -->
+ - [Here’s what the Switch 2’s C button actually does](https://www.polygon.com/nintendo-switch-2/550632/switch-2-game-chat-c-button-nintendo-direct-joy-con)
+ - [Everything announced at Nintendo’s Switch 2 Direct](https://www.polygon.com/nintendo-switch-2/550857/switch-2-direct-all-games-news-trailers)
+ - [We Now Know What The Switch 2&#39;s Mysterious C Button Does](https://kotaku.com/nintendo-switch-2-c-button-voice-game-chat-camera-video-1851774209)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
