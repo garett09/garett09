@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TTP: Apple&#39;s and Google&#39;s app stores host popular &quot;private browsing&quot; apps operated by Shanghai-listed Qihoo 360, sanctioned by the US in 2020 for military ties &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p22#a250401p22)
- - [Google rolls out a new Gmail encryption model in beta for enterprise that doesn&#39;t require senders or recipients to use custom software or exchange certificates &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250401/p21#a250401p21)
- - [From dinner plans to DIY: Here’s how our team really uses AI](https://www.androidauthority.com/best-uses-for-ai-3537962/)<!-- TECH:END -->
+ - [Tesla’s sales plummet 13 percent as Musk backlash grows](https://www.theverge.com/news/641311/tesla-q1-2025-delivery-production-sales-slump-musk)
+ - [Android 15 blocked Phone Link from mirroring sensitive notifications, but Microsoft has a fix](https://www.androidauthority.com/phone-link-sensitive-notifications-fix-3540158/)
+ - [Adobe launches Premiere Pro’s generative AI video extender](https://www.theverge.com/news/641270/adobe-premiere-pro-generative-extend-generally-available)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
