@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today is the day.](http://9gag.com/gag/apR6ZRn)
- - 🚯 [Chat burn](http://9gag.com/gag/aByV5MO)
- - 🚯 [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)<!-- MEMES:END -->
+ - 🚖 [Initial investigation reveals the collapsed building in Bangkok used low quality rebars.](http://9gag.com/gag/agm7eq1)
+ - 🚯 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 🚯 [Peak Ozzy](http://9gag.com/gag/ae9ZwEv)<!-- MEMES:END -->
 
 --- 
 
