@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s what the Switch 2’s C button actually does](https://www.polygon.com/nintendo-switch-2/550632/switch-2-game-chat-c-button-nintendo-direct-joy-con)
- - [Everything announced at Nintendo’s Switch 2 Direct](https://www.polygon.com/nintendo-switch-2/550857/switch-2-direct-all-games-news-trailers)
- - [We Now Know What The Switch 2&#39;s Mysterious C Button Does](https://kotaku.com/nintendo-switch-2-c-button-voice-game-chat-camera-video-1851774209)<!-- GAME:END -->
+ - [Semiconductors are exempt from Trump&#39;s massive 32% tariff on Taiwan though PC gamers will still feel the heat](https://www.pcgamer.com/hardware/semiconductors-are-exempt-from-trumps-massive-32-percent-tariff-on-taiwan-though-pc-gamers-will-still-feel-the-heat/)
+ - [Trump Shocks With Massive New Tariffs That Could Make The Switch 2 Cost More Than $600](https://kotaku.com/switch-2-price-trump-tariffs-vietnam-china-trade-war-1851774438)
+ - [Using the Switch 2’s Joy-Con mouse is only kind of like using a mouse](https://www.polygon.com/nintendo-switch-2/551761/joy-con-switch-2-mouse-hands-on-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
