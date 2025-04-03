@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s sales plummet 13 percent as Musk backlash grows](https://www.theverge.com/news/641311/tesla-q1-2025-delivery-production-sales-slump-musk)
- - [Android 15 blocked Phone Link from mirroring sensitive notifications, but Microsoft has a fix](https://www.androidauthority.com/phone-link-sensitive-notifications-fix-3540158/)
- - [Adobe launches Premiere Pro’s generative AI video extender](https://www.theverge.com/news/641270/adobe-premiere-pro-generative-extend-generally-available)<!-- TECH:END -->
+ - [AI video startup Runway raised $308M led by General Atlantic, sources say at a $3B+ valuation, and plans to hire more filmmakers, screenwriters, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250403/p17#a250403p17)
+ - [Nintendo Switch 2 hands-on: larger than the Switch without being uncomfortable, flagship games play well, and the Joy-Con&#39;s mouse-like mode mostly works well &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250403/p16#a250403p16)
+ - [We Asked Experts if Powering Your Home With an EV Is the Future](https://www.cnet.com/roadshow/news/we-asked-experts-if-powering-your-home-with-an-ev-is-the-future/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
