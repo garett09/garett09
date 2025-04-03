@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Initial investigation reveals the collapsed building in Bangkok used low quality rebars.](http://9gag.com/gag/agm7eq1)
- - 🚯 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
- - 🚯 [Peak Ozzy](http://9gag.com/gag/ae9ZwEv)<!-- MEMES:END -->
+ - 🚖 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
+ - 🚯 [Two types of introductions](http://9gag.com/gag/a4P5pYm)
+ - 🚯 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)<!-- MEMES:END -->
 
 --- 
 
