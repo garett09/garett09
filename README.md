@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI video startup Runway raised $308M led by General Atlantic, sources say at a $3B+ valuation, and plans to hire more filmmakers, screenwriters, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250403/p17#a250403p17)
- - [Nintendo Switch 2 hands-on: larger than the Switch without being uncomfortable, flagship games play well, and the Joy-Con&#39;s mouse-like mode mostly works well &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250403/p16#a250403p16)
- - [We Asked Experts if Powering Your Home With an EV Is the Future](https://www.cnet.com/roadshow/news/we-asked-experts-if-powering-your-home-with-an-ev-is-the-future/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft turns 50](https://www.theverge.com/news/643336/microsoft-50-years)
+ - [Sources: Meta aims to release Llama 4 later this month after pushing back its release date at least twice due to underperformance in reasoning and math tasks &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250404/p10#a250404p10)
+ - [Google’s love affair with old camera tech is holding the Pixel 10 Pro back](https://www.androidauthority.com/photographer-skipping-pixel-10-pro-3538281/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
