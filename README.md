@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Semiconductors are exempt from Trump&#39;s massive 32% tariff on Taiwan though PC gamers will still feel the heat](https://www.pcgamer.com/hardware/semiconductors-are-exempt-from-trumps-massive-32-percent-tariff-on-taiwan-though-pc-gamers-will-still-feel-the-heat/)
- - [Trump Shocks With Massive New Tariffs That Could Make The Switch 2 Cost More Than $600](https://kotaku.com/switch-2-price-trump-tariffs-vietnam-china-trade-war-1851774438)
- - [Using the Switch 2’s Joy-Con mouse is only kind of like using a mouse](https://www.polygon.com/nintendo-switch-2/551761/joy-con-switch-2-mouse-hands-on-review)<!-- GAME:END -->
+ - [Welcome back, Razer: After a PC Gamer gaming laptop showdown, I reckon the Blade 16 is the mobile machine to beat this generation](https://www.pcgamer.com/hardware/gaming-laptops/welcome-back-razer-after-a-pc-gamer-gaming-laptop-showdown-i-reckon-the-blade-16-is-the-mobile-machine-to-beat-this-generation/)
+ - [It’s surprisingly hard to find things to do in Assassin’s Creed Shadows’ empty world](https://www.polygon.com/opinion/551914/assassins-creed-shadows-sprawl-boring-walking-quests-yasuke-omi)
+ - [Turns out that Alienware&#39;s new upgradeable desktop is only fully upgradeable with an optional $35 conversion kit](https://www.pcgamer.com/hardware/gaming-pcs/turns-out-that-alienwares-new-upgradeable-desktop-is-only-fully-upgradeable-with-an-optional-usd35-conversion-kit/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
