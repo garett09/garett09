@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft turns 50](https://www.theverge.com/news/643336/microsoft-50-years)
- - [Sources: Meta aims to release Llama 4 later this month after pushing back its release date at least twice due to underperformance in reasoning and math tasks &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250404/p10#a250404p10)
- - [Google’s love affair with old camera tech is holding the Pixel 10 Pro back](https://www.androidauthority.com/photographer-skipping-pixel-10-pro-3538281/)<!-- TECH:END -->
+ - [This unknown Chrome feature has changed the way I browse the web](https://www.androidauthority.com/google-chrome-reader-mode-3538587/)
+ - [The 45 Best Movies on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 46 Best Shows on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
