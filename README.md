@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
- - 🚯 [Cat Hugs The Lost Dog](http://9gag.com/gag/aMVn2EV)
- - 🚯 [Bill Burr ripping through journalists and news media](http://9gag.com/gag/aoy4EnA)<!-- MEMES:END -->
+ - 🚖 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
+ - 🚯 [You came to the wrong neighborhood fool](http://9gag.com/gag/aVvmWyw)
+ - 🚯 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)<!-- MEMES:END -->
 
 --- 
 
