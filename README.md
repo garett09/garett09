@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome back, Razer: After a PC Gamer gaming laptop showdown, I reckon the Blade 16 is the mobile machine to beat this generation](https://www.pcgamer.com/hardware/gaming-laptops/welcome-back-razer-after-a-pc-gamer-gaming-laptop-showdown-i-reckon-the-blade-16-is-the-mobile-machine-to-beat-this-generation/)
- - [It’s surprisingly hard to find things to do in Assassin’s Creed Shadows’ empty world](https://www.polygon.com/opinion/551914/assassins-creed-shadows-sprawl-boring-walking-quests-yasuke-omi)
- - [Turns out that Alienware&#39;s new upgradeable desktop is only fully upgradeable with an optional $35 conversion kit](https://www.pcgamer.com/hardware/gaming-pcs/turns-out-that-alienwares-new-upgradeable-desktop-is-only-fully-upgradeable-with-an-optional-usd35-conversion-kit/)<!-- GAME:END -->
+ - [Assassin&amp;#8217;s Creed Syndicate did 2 protagonists first — and best](https://www.polygon.com/assassins-creed/550748/assassins-creed-syndicate-dual-protagonists)
+ - [Nintendo&#39;s Big Switch 2 Reveal, Pre-Orders Delayed Due To Trump&#39;s Tariffs, And More Of The Week&#39;s Big News](https://kotaku.com/nintendo-switch-2-direct-trump-tariffs-preorders-1851774807)
+ - [Terra Invicta, the space 4X from the creators of XCOM&#39;s Long War mod, just got a massive update that adds exofighters, improved diplomacy, and &#39;advanced weapons&#39; for its alien menace](https://www.pcgamer.com/games/strategy/terra-invicta-the-space-4x-from-the-creators-of-xcoms-long-war-mod-just-got-a-massive-update-that-adds-exofighters-improved-diplomacy-and-advanced-weapons-for-its-alien-menace/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
