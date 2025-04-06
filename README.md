@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
- - 🚯 [You came to the wrong neighborhood fool](http://9gag.com/gag/aVvmWyw)
- - 🚯 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)<!-- MEMES:END -->
+ - 🚖 [If you know you know](http://9gag.com/gag/aNDVnRw)
+ - 🚯 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 🚯 [When you perfectly predict future](http://9gag.com/gag/aW4v0vK)<!-- MEMES:END -->
 
 --- 
 
