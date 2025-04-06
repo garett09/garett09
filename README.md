@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&amp;#8217;s Creed Syndicate did 2 protagonists first — and best](https://www.polygon.com/assassins-creed/550748/assassins-creed-syndicate-dual-protagonists)
- - [Nintendo&#39;s Big Switch 2 Reveal, Pre-Orders Delayed Due To Trump&#39;s Tariffs, And More Of The Week&#39;s Big News](https://kotaku.com/nintendo-switch-2-direct-trump-tariffs-preorders-1851774807)
- - [Terra Invicta, the space 4X from the creators of XCOM&#39;s Long War mod, just got a massive update that adds exofighters, improved diplomacy, and &#39;advanced weapons&#39; for its alien menace](https://www.pcgamer.com/games/strategy/terra-invicta-the-space-4x-from-the-creators-of-xcoms-long-war-mod-just-got-a-massive-update-that-adds-exofighters-improved-diplomacy-and-advanced-weapons-for-its-alien-menace/)<!-- GAME:END -->
+ - [Nintendo built the Switch 2 for the next societal shutdown](https://www.polygon.com/553024/nintendo-built-the-switch-2-for-the-next-societal-shutdown)
+ - [How To Snag Assassin&#39;s Creed Shadows&#39; Legendary Weapons And More Of The Week&#39;s Top Tips](https://kotaku.com/ac-shadows-legendary-weapons-split-fiction-side-story-1851774808)
+ - [Party with wizards and get stuck in a Medusa timeloop in Indiepocalypse&#39;s latest anthology of unusual games](https://www.pcgamer.com/games/party-with-wizards-and-get-stuck-in-a-medusa-timeloop-in-indiepocalypses-latest-anthology-of-unusual-games/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
