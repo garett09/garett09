@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This unknown Chrome feature has changed the way I browse the web](https://www.androidauthority.com/google-chrome-reader-mode-3538587/)
- - [The 45 Best Movies on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 46 Best Shows on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [The Pixel 10 proves that everyone wants a zoom cam, even if they don’t know it yet](https://www.androidauthority.com/pixel-10-proof-everyone-wants-zoom-3541657/)
+ - [Here’s why I wait before buying the latest flagship](https://www.androidauthority.com/why-wait-before-buying-new-phone-3541200/)
+ - [Best Apple Desktop Computers &lpar;2025&rpar;: iMac, Mac Mini, Mac Studio](https://www.wired.com/gallery/best-apple-desktop-computer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
