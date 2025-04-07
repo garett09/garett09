@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know you know](http://9gag.com/gag/aNDVnRw)
- - 🚯 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 🚯 [When you perfectly predict future](http://9gag.com/gag/aW4v0vK)<!-- MEMES:END -->
+ - 🚖 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
+ - 🚯 [I feel ya](http://9gag.com/gag/azxGjpb)
+ - 🚯 [Is this really a cult?](http://9gag.com/gag/an7vy2V)<!-- MEMES:END -->
 
 --- 
 
