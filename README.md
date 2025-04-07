@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo built the Switch 2 for the next societal shutdown](https://www.polygon.com/553024/nintendo-built-the-switch-2-for-the-next-societal-shutdown)
- - [How To Snag Assassin&#39;s Creed Shadows&#39; Legendary Weapons And More Of The Week&#39;s Top Tips](https://kotaku.com/ac-shadows-legendary-weapons-split-fiction-side-story-1851774808)
- - [Party with wizards and get stuck in a Medusa timeloop in Indiepocalypse&#39;s latest anthology of unusual games](https://www.pcgamer.com/games/party-with-wizards-and-get-stuck-in-a-medusa-timeloop-in-indiepocalypses-latest-anthology-of-unusual-games/)<!-- GAME:END -->
+ - [Check out the beautiful illustrations in Liam O’Brien’s Critical Role fairy tale book](https://www.polygon.com/critical-role/552277/critical-role-der-katzenprinz-order-liam-obrien-preview)
+ - [Former Awesomenauts developers finish the game they were working on when the studio went bankrupt in 2023, and it&#39;ll be free for the first 24 hours after release](https://www.pcgamer.com/games/action/former-awesomenauts-developers-finish-the-game-they-were-working-on-when-the-studio-went-bankrupt-in-2023-and-itll-be-free-for-the-first-24-hours-after-release/)
+ - [Blue Prince Is Like Nothing You’ve Played Before](https://news.xbox.com/en-us/2025/04/07/blue-prince-game-pass-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
