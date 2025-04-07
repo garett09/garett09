@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 10 proves that everyone wants a zoom cam, even if they don’t know it yet](https://www.androidauthority.com/pixel-10-proof-everyone-wants-zoom-3541657/)
- - [Here’s why I wait before buying the latest flagship](https://www.androidauthority.com/why-wait-before-buying-new-phone-3541200/)
- - [Best Apple Desktop Computers &lpar;2025&rpar;: iMac, Mac Mini, Mac Studio](https://www.wired.com/gallery/best-apple-desktop-computer/)<!-- TECH:END -->
+ - [Google fixes one of Gmail’s most annoying quirks for frequent phone switchers](https://www.androidauthority.com/gmail-mobile-email-signature-sync-3542188/)
+ - [Nintendo says tariffs aren’t the reason the Switch 2 costs $449.99](https://www.theverge.com/nintendo/643277/nintendo-switch-2-price-tariffs-doug-bowser-interview)
+ - [The Switch 2’s GameChat Social Feature Could Revolutionize the Way You Play With Friends](https://www.wired.com/story/the-switch-2s-gamechat-social-feature-could-revolutionize-the-way-you-play-with-friends/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
