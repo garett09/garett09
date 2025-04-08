@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out the beautiful illustrations in Liam O’Brien’s Critical Role fairy tale book](https://www.polygon.com/critical-role/552277/critical-role-der-katzenprinz-order-liam-obrien-preview)
- - [Former Awesomenauts developers finish the game they were working on when the studio went bankrupt in 2023, and it&#39;ll be free for the first 24 hours after release](https://www.pcgamer.com/games/action/former-awesomenauts-developers-finish-the-game-they-were-working-on-when-the-studio-went-bankrupt-in-2023-and-itll-be-free-for-the-first-24-hours-after-release/)
- - [Blue Prince Is Like Nothing You’ve Played Before](https://news.xbox.com/en-us/2025/04/07/blue-prince-game-pass-xbox/)<!-- GAME:END -->
+ - [Sabrina Carpenter has been revealed as the icon for Fortnite Festival&#39;s eighth season](https://www.pcgamer.com/games/rhythm/sabrina-carpenter-has-been-revealed-as-the-icon-for-fortnite-festivals-eighth-season/)
+ - [Why REPO has topped Steam charts and Twitch feeds since launch](https://www.polygon.com/impressions/554398/repo-streamer-social-media-clips-game)
+ - [The Last of Us Part 2 proves that 8 GB of VRAM can be enough, even at 4K with maximum settings, so why aren&#39;t more games using the same clever asset-streaming trick?](https://www.pcgamer.com/hardware/graphics-cards/the-last-of-us-part-2-proves-that-8-gb-of-vram-can-be-enough-even-at-4k-with-maximum-settings-so-why-arent-more-games-using-the-same-clever-asset-streaming-trick/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
