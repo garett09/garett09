@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
- - 🚯 [I feel ya](http://9gag.com/gag/azxGjpb)
- - 🚯 [Is this really a cult?](http://9gag.com/gag/an7vy2V)<!-- MEMES:END -->
+ - 🚖 [Me too, time traveller, me too](http://9gag.com/gag/aRBzjq5)
+ - 🚯 [Chess](http://9gag.com/gag/aQzA3Pd)
+ - 🚯 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)<!-- MEMES:END -->
 
 --- 
 
