@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me too, time traveller, me too](http://9gag.com/gag/aRBzjq5)
- - 🚯 [Chess](http://9gag.com/gag/aQzA3Pd)
- - 🚯 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)<!-- MEMES:END -->
+ - 🚖 [\u2018I\u2019m a minor! 65 years of imprisonment is too harsh\u2019 he says\u2026..](http://9gag.com/gag/a1m5r16)
+ - 🚯 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)
+ - 🚯 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)<!-- MEMES:END -->
 
 --- 
 
