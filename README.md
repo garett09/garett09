@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Torras brings spring vibes with pastel athleisure-inspired iPhone 16 Ostand Fitness cases](https://appleinsider.com/articles/25/04/08/torras-brings-spring-vibes-with-pastel-athleisure-inspired-iphone-16-ostand-fitness-cases?utm_medium=rss)
- - [Amazon launches Nova Sonic, an AI voice model to generate natural-sounding speech that it says is &quot;the most cost-efficient&quot; model on the market, via Bedrock &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250408/p18#a250408p18)
- - [Microsoft’s new Windows 11 Start menu is bigger and fixes a major pain point](https://www.theverge.com/news/645078/microsoft-windows-11-new-start-menu-bigger-redesign)<!-- TECH:END -->
+ - [PE firm EQT sells a €3B stake in Swedish enterprise software company IFS to investors including the Abu Dhabi Investment Authority, valuing IFS at €15B &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250409/p28#a250409p28)
+ - [This Android OEM could let you easily overclock or underclock your phone](https://www.androidauthority.com/xiaomi-miui-chip-performance-dashboard-leak-3543013/)
+ - [At an NRCC event, President Trump says he told TSMC it would pay a tax of up to 100% if it didn&#39;t build its US plants; in March, TSMC said it would invest $100B &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p27#a250409p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
