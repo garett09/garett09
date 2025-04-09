@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sabrina Carpenter has been revealed as the icon for Fortnite Festival&#39;s eighth season](https://www.pcgamer.com/games/rhythm/sabrina-carpenter-has-been-revealed-as-the-icon-for-fortnite-festivals-eighth-season/)
- - [Why REPO has topped Steam charts and Twitch feeds since launch](https://www.polygon.com/impressions/554398/repo-streamer-social-media-clips-game)
- - [The Last of Us Part 2 proves that 8 GB of VRAM can be enough, even at 4K with maximum settings, so why aren&#39;t more games using the same clever asset-streaming trick?](https://www.pcgamer.com/hardware/graphics-cards/the-last-of-us-part-2-proves-that-8-gb-of-vram-can-be-enough-even-at-4k-with-maximum-settings-so-why-arent-more-games-using-the-same-clever-asset-streaming-trick/)<!-- GAME:END -->
+ - [PlayStation Portal remote player system update releases today with Cloud Game Streaming Beta UX enhancements](https://blog.playstation.com/2025/04/09/playstation-portal-remote-player-system-update-releases-today-with-cloud-game-streaming-beta-ux-enhancements/)
+ - [Xbox Games Showcase Followed by The Outer Worlds 2 Direct Airs June 8](https://news.xbox.com/en-us/2025/04/09/xbox-games-showcase-2025-outer-worlds-2-direct/)
+ - [Microsoft announces Xbox Games Showcase for June](https://www.polygon.com/xbox/555119/microsoft-announces-xbox-games-showcase-for-june)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
