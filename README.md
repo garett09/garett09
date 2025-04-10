@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PE firm EQT sells a €3B stake in Swedish enterprise software company IFS to investors including the Abu Dhabi Investment Authority, valuing IFS at €15B &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250409/p28#a250409p28)
- - [This Android OEM could let you easily overclock or underclock your phone](https://www.androidauthority.com/xiaomi-miui-chip-performance-dashboard-leak-3543013/)
- - [At an NRCC event, President Trump says he told TSMC it would pay a tax of up to 100% if it didn&#39;t build its US plants; in March, TSMC said it would invest $100B &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p27#a250409p27)<!-- TECH:END -->
+ - [Instagram may finally be coming to iPad after 15 years](https://appleinsider.com/articles/25/04/10/instagram-may-finally-be-coming-to-ipad-after-15-years?utm_medium=rss)
+ - [Google Pixel 9a review: great display, battery life, and cameras, sleek design, and IP68, but slow charging, no Pixel Screenshot app, and finicky Macro Focus &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250410/p23#a250410p23)
+ - [The Pixel 9a looks fine, but the 8a still feels right: Which one wins for you?](https://www.androidauthority.com/pixel-9a-vs-pixel-8a-design-poll-3543442/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
