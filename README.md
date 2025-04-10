@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Portal remote player system update releases today with Cloud Game Streaming Beta UX enhancements](https://blog.playstation.com/2025/04/09/playstation-portal-remote-player-system-update-releases-today-with-cloud-game-streaming-beta-ux-enhancements/)
- - [Xbox Games Showcase Followed by The Outer Worlds 2 Direct Airs June 8](https://news.xbox.com/en-us/2025/04/09/xbox-games-showcase-2025-outer-worlds-2-direct/)
- - [Microsoft announces Xbox Games Showcase for June](https://www.polygon.com/xbox/555119/microsoft-announces-xbox-games-showcase-for-june)<!-- GAME:END -->
+ - [Valve Deckard, a long-rumoured standalone VR headset, might not be too far off if these leaked shipping manifests are legit](https://www.pcgamer.com/hardware/vr-hardware/valve-deckard-a-long-rumoured-standalone-vr-headset-might-not-be-too-far-off-if-these-leaked-shipping-manifests-are-legit/)
+ - [Has Nintendo just set up the original Switch to be the best-selling console of all time?](https://www.polygon.com/nintendo/555598/has-nintendo-just-set-up-the-original-switch-to-be-the-best-selling-console-of-all-time)
+ - [New Facebook Tech Will Encourage People To Use Their Phones In Movie Theaters](https://kotaku.com/facebook-meta-phone-theaters-megan-movie-mate-app-chat-1851775568)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
