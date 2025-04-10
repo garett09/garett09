@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\u2018I\u2019m a minor! 65 years of imprisonment is too harsh\u2019 he says\u2026..](http://9gag.com/gag/a1m5r16)
- - 🚯 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)
- - 🚯 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)<!-- MEMES:END -->
+ - 🚖 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
+ - 🚯 [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
+ - 🚯 [Hey mister](http://9gag.com/gag/a7oV1Dz)<!-- MEMES:END -->
 
 --- 
 
