@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
- - 🚯 [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
- - 🚯 [Hey mister](http://9gag.com/gag/a7oV1Dz)<!-- MEMES:END -->
+ - 🚖 [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 🚯 [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - 🚯 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)<!-- MEMES:END -->
 
 --- 
 
