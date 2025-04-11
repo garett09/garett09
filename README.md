@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve Deckard, a long-rumoured standalone VR headset, might not be too far off if these leaked shipping manifests are legit](https://www.pcgamer.com/hardware/vr-hardware/valve-deckard-a-long-rumoured-standalone-vr-headset-might-not-be-too-far-off-if-these-leaked-shipping-manifests-are-legit/)
- - [Has Nintendo just set up the original Switch to be the best-selling console of all time?](https://www.polygon.com/nintendo/555598/has-nintendo-just-set-up-the-original-switch-to-be-the-best-selling-console-of-all-time)
- - [New Facebook Tech Will Encourage People To Use Their Phones In Movie Theaters](https://kotaku.com/facebook-meta-phone-theaters-megan-movie-mate-app-chat-1851775568)<!-- GAME:END -->
+ - [FF14&#39;s composer, Soken, says doing double time on an MMO and Final Fantasy 16 was &#39;something beyond your imagination of hell&#39;](https://www.pcgamer.com/games/final-fantasy/ff14s-composer-soken-says-doing-double-time-on-an-mmo-and-final-fantasy-16-was-something-beyond-your-imagination-of-hell/)
+ - [LEGO Horizon Adventures soundtrack launches on streaming platforms today](https://blog.playstation.com/2025/04/11/lego-horizon-adventures-soundtrack-launches-on-streaming-platforms-today/)
+ - [10 Indie Games Coming to Xbox, and 10 Things You Should Know About Them](https://news.xbox.com/en-us/2025/04/11/id-xbox-developer-sessions-10-indies/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
