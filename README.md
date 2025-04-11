@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram may finally be coming to iPad after 15 years](https://appleinsider.com/articles/25/04/10/instagram-may-finally-be-coming-to-ipad-after-15-years?utm_medium=rss)
- - [Google Pixel 9a review: great display, battery life, and cameras, sleek design, and IP68, but slow charging, no Pixel Screenshot app, and finicky Macro Focus &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250410/p23#a250410p23)
- - [The Pixel 9a looks fine, but the 8a still feels right: Which one wins for you?](https://www.androidauthority.com/pixel-9a-vs-pixel-8a-design-poll-3543442/)<!-- TECH:END -->
+ - [Microsoft is rolling out a preview of its Recall AI feature to Copilot+ PCs, after previously delaying its launch twice over security and privacy concerns &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250411/p11#a250411p11)
+ - [26 Best Gifts for Cat Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-cat-lovers/)
+ - [This Famous Physics Experiment Shows Why the Government Should Support ‘Useless’ Science](https://www.wired.com/story/why-the-government-should-support-useless-science/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
