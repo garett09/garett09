@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 🚯 [What would you do ?](http://9gag.com/gag/a9y8qDL)
- - 🚯 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)<!-- MEMES:END -->
+ - 🚖 [Nightmares](http://9gag.com/gag/a0e6X7q)
+ - 🚯 [Why women live longer](http://9gag.com/gag/a7oV01b)
+ - 🚯 [And that was the luckiest day of his life\u2026](http://9gag.com/gag/aO8Den6)<!-- MEMES:END -->
 
 --- 
 
