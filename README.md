@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FF14&#39;s composer, Soken, says doing double time on an MMO and Final Fantasy 16 was &#39;something beyond your imagination of hell&#39;](https://www.pcgamer.com/games/final-fantasy/ff14s-composer-soken-says-doing-double-time-on-an-mmo-and-final-fantasy-16-was-something-beyond-your-imagination-of-hell/)
- - [LEGO Horizon Adventures soundtrack launches on streaming platforms today](https://blog.playstation.com/2025/04/11/lego-horizon-adventures-soundtrack-launches-on-streaming-platforms-today/)
- - [10 Indie Games Coming to Xbox, and 10 Things You Should Know About Them](https://news.xbox.com/en-us/2025/04/11/id-xbox-developer-sessions-10-indies/)<!-- GAME:END -->
+ - [Roblox is secretly host to some wild Warhammer 40K fan games](https://www.polygon.com/gaming/555248/roblox-space-marines-imperial-guard-fan-games)
+ - [The Latest On How Trump&#39;s Tariffs Could Impact The Switch 2 And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-preorder-trump-tariffs-blue-prince-no-mercy-1851775823)
+ - [Following massive player fall-off, Amazon&#39;s MMO Lost Ark is getting an update to make levelling faster and address a &#39;known progression pain point&#39;](https://www.pcgamer.com/games/following-massive-player-fall-off-amazons-mmo-lost-ark-is-getting-an-update-to-make-levelling-faster-and-address-a-known-progression-pain-point/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
