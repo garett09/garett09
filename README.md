@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is rolling out a preview of its Recall AI feature to Copilot+ PCs, after previously delaying its launch twice over security and privacy concerns &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250411/p11#a250411p11)
- - [26 Best Gifts for Cat Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-cat-lovers/)
- - [This Famous Physics Experiment Shows Why the Government Should Support ‘Useless’ Science](https://www.wired.com/story/why-the-government-should-support-useless-science/)<!-- TECH:END -->
+ - [I just discovered how useless Android’s answer to Apple Health is](https://www.androidauthority.com/android-health-connect-useless-3542514/)
+ - [Blue Prince will steal your time just like Balatro](https://www.theverge.com/games-review/647451/blue-prince-review-architectural-roguelike-balatro)
+ - [iPhone 20th-Anniversary Edition Could Bring Major Design Overhaul](https://www.cnet.com/tech/mobile/iphone-20th-anniversary-edition-could-bring-major-design-overhaul/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
