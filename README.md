@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox is secretly host to some wild Warhammer 40K fan games](https://www.polygon.com/gaming/555248/roblox-space-marines-imperial-guard-fan-games)
- - [The Latest On How Trump&#39;s Tariffs Could Impact The Switch 2 And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-preorder-trump-tariffs-blue-prince-no-mercy-1851775823)
- - [Following massive player fall-off, Amazon&#39;s MMO Lost Ark is getting an update to make levelling faster and address a &#39;known progression pain point&#39;](https://www.pcgamer.com/games/following-massive-player-fall-off-amazons-mmo-lost-ark-is-getting-an-update-to-make-levelling-faster-and-address-a-known-progression-pain-point/)<!-- GAME:END -->
+ - [The era of the bad video game movie is over, if Hollywood lets these guys do their job](https://www.polygon.com/movies/556979/video-game-movies-tv-shows-story-kitchen-sonic-sega)
+ - [The Week&#39;s Top Tips For First Berserker, Monster Hunter Wilds, South Of Midnight, And More](https://kotaku.com/mh-wilds-best-weapons-beginners-first-berserker-armor-1851775824)
+ - [Age of Empires 2&#39;s quest to conquer the strategy globe continues unabated as The Three Kingdoms DLC invades ancient China this May](https://www.pcgamer.com/games/strategy/age-of-empires-2s-quest-to-conquer-the-strategy-globe-continues-unabated-as-the-three-kingdoms-dlc-invades-ancient-china-this-may/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
