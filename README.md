@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nightmares](http://9gag.com/gag/a0e6X7q)
- - 🚯 [Why women live longer](http://9gag.com/gag/a7oV01b)
- - 🚯 [And that was the luckiest day of his life\u2026](http://9gag.com/gag/aO8Den6)<!-- MEMES:END -->
+ - 🚖 [Third guys voice is smooth like butter](http://9gag.com/gag/a2vybne)
+ - 🚯 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)
+ - 🚯 [Wait what](http://9gag.com/gag/a9y8m76)<!-- MEMES:END -->
 
 --- 
 
