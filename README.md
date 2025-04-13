@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I just discovered how useless Android’s answer to Apple Health is](https://www.androidauthority.com/android-health-connect-useless-3542514/)
- - [Blue Prince will steal your time just like Balatro](https://www.theverge.com/games-review/647451/blue-prince-review-architectural-roguelike-balatro)
- - [iPhone 20th-Anniversary Edition Could Bring Major Design Overhaul](https://www.cnet.com/tech/mobile/iphone-20th-anniversary-edition-could-bring-major-design-overhaul/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Thistle Meal Kit Review: Surprisingly Tasty](https://www.wired.com/review/thistle-meal-kit/)
+ - [A chance conversation with a retro game store owner forever changed my views on emulation](https://www.androidauthority.com/retro-game-store-visit-3539527/)
+ - [iPadOS 19 rumored to get more Mac-like in productivity push](https://appleinsider.com/articles/25/04/13/ipados-19-rumored-to-get-more-mac-like-in-productivity-push?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
