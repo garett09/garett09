@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thistle Meal Kit Review: Surprisingly Tasty](https://www.wired.com/review/thistle-meal-kit/)
- - [A chance conversation with a retro game store owner forever changed my views on emulation](https://www.androidauthority.com/retro-game-store-visit-3539527/)
- - [iPadOS 19 rumored to get more Mac-like in productivity push](https://appleinsider.com/articles/25/04/13/ipados-19-rumored-to-get-more-mac-like-in-productivity-push?utm_medium=rss)<!-- TECH:END -->
+ - [Katy Perry is going to space with Blue Origin](https://www.theverge.com/news/647935/katy-perry-is-going-to-space-with-blue-origin)
+ - [Nvidia starts making its Blackwell chips at TSMC&#39;s Phoenix plant and says it aims to make up to $500B of AI infrastructure in the US in the next four years &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250414/p15#a250414p15)
+ - [Google details DolphinGemma, a new 400M-parameter LLM to decode dolphin communication by analyzing the vocalizations of wild Atlantic spotted dolphins &lpar;The Keyword&rpar;](http://www.techmeme.com/250414/p14#a250414p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
