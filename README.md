@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Third guys voice is smooth like butter](http://9gag.com/gag/a2vybne)
- - 🚯 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)
- - 🚯 [Wait what](http://9gag.com/gag/a9y8m76)<!-- MEMES:END -->
+ - 🚖 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
+ - 🚯 [Pain](http://9gag.com/gag/a87DVbY)
+ - 🚯 [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)<!-- MEMES:END -->
 
 --- 
 
