@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The era of the bad video game movie is over, if Hollywood lets these guys do their job](https://www.polygon.com/movies/556979/video-game-movies-tv-shows-story-kitchen-sonic-sega)
- - [The Week&#39;s Top Tips For First Berserker, Monster Hunter Wilds, South Of Midnight, And More](https://kotaku.com/mh-wilds-best-weapons-beginners-first-berserker-armor-1851775824)
- - [Age of Empires 2&#39;s quest to conquer the strategy globe continues unabated as The Three Kingdoms DLC invades ancient China this May](https://www.pcgamer.com/games/strategy/age-of-empires-2s-quest-to-conquer-the-strategy-globe-continues-unabated-as-the-three-kingdoms-dlc-invades-ancient-china-this-may/)<!-- GAME:END -->
+ - [&#39;EA always preferred Mass Effect, straight up&#39;: Dragon Age creator reveals that his and Mass Effect&#39;s team &#39;didn&#39;t get along&#39; at BioWare, as EA played favourites with its children](https://www.pcgamer.com/games/dragon-age/ea-always-preferred-mass-effect-straight-up-dragon-age-creator-reveals-that-his-and-mass-effects-team-didnt-get-along-at-bioware-as-ea-played-favourites-with-its-children/)
+ - [How Bloom &amp; Rage: Lost Records Tape 2 takes a dark and supernatural turn on April 15](https://blog.playstation.com/2025/04/14/how-bloom-rage-lost-records-tape-2-takes-a-dark-and-supernatural-turn-on-april-15/)
+ - [The best new video games of 2025 so far](https://www.polygon.com/what-to-play/553483/best-new-video-games-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
