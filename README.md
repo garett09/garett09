@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;EA always preferred Mass Effect, straight up&#39;: Dragon Age creator reveals that his and Mass Effect&#39;s team &#39;didn&#39;t get along&#39; at BioWare, as EA played favourites with its children](https://www.pcgamer.com/games/dragon-age/ea-always-preferred-mass-effect-straight-up-dragon-age-creator-reveals-that-his-and-mass-effects-team-didnt-get-along-at-bioware-as-ea-played-favourites-with-its-children/)
- - [How Bloom &amp; Rage: Lost Records Tape 2 takes a dark and supernatural turn on April 15](https://blog.playstation.com/2025/04/14/how-bloom-rage-lost-records-tape-2-takes-a-dark-and-supernatural-turn-on-april-15/)
- - [The best new video games of 2025 so far](https://www.polygon.com/what-to-play/553483/best-new-video-games-2025)<!-- GAME:END -->
+ - [How to solve the chess puzzle in Blue Prince](https://www.polygon.com/blue-prince-guides/558159/chess-piece-puzzle-piece-power-choose)
+ - [Cozy adventure Palia opens its doors May 13 on PS5](https://blog.playstation.com/2025/04/15/cozy-adventure-palia-opens-its-doors-may-13-on-ps5/)
+ - [Coming to Game Pass: Clair Obscur: Expedition 33, Towerborne, Call of Duty: Modern Warfare II, and More](https://news.xbox.com/en-us/2025/04/15/xbox-game-pass-april-2025-wave-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
