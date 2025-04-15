@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Katy Perry is going to space with Blue Origin](https://www.theverge.com/news/647935/katy-perry-is-going-to-space-with-blue-origin)
- - [Nvidia starts making its Blackwell chips at TSMC&#39;s Phoenix plant and says it aims to make up to $500B of AI infrastructure in the US in the next four years &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250414/p15#a250414p15)
- - [Google details DolphinGemma, a new 400M-parameter LLM to decode dolphin communication by analyzing the vocalizations of wild Atlantic spotted dolphins &lpar;The Keyword&rpar;](http://www.techmeme.com/250414/p14#a250414p14)<!-- TECH:END -->
+ - [Nvidia unveils its RTX 5060 family, including the RTX 5060 Ti with 4,608 CUDA cores for $379 with 8GB of VRAM or $429 for 16GB of VRAM, launching on April 16 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250415/p12#a250415p12)
+ - [Purple Carrot Meal Kit Review: Worth the Prep Time](https://www.wired.com/review/purple-carrot-meal-kit/)
+ - [Samsung’s version of Android Auto has a clever notification trick](https://www.androidauthority.com/samsung-location-based-navigation-3544545/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
