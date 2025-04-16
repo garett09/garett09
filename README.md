@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
- - 🚯 [Boys vs Girls after 3 Rounds](http://9gag.com/gag/aRBzypj)
- - 🚯 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)<!-- MEMES:END -->
+ - 🚖 [Stand up for your rights](http://9gag.com/gag/amomKxd)
+ - 🚯 [WTF](http://9gag.com/gag/a4P58xZ)
+ - 🚯 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
 
 --- 
 
