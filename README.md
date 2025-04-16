@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia unveils its RTX 5060 family, including the RTX 5060 Ti with 4,608 CUDA cores for $379 with 8GB of VRAM or $429 for 16GB of VRAM, launching on April 16 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250415/p12#a250415p12)
- - [Purple Carrot Meal Kit Review: Worth the Prep Time](https://www.wired.com/review/purple-carrot-meal-kit/)
- - [Samsung’s version of Android Auto has a clever notification trick](https://www.androidauthority.com/samsung-location-based-navigation-3544545/)<!-- TECH:END -->
+ - [Google may introduce an expressive new Material Design theme at I/O this May](https://www.androidauthority.com/material-design-expressive-google-io-3545058/)
+ - [Medicare broker Chapter, which was co-founded by Vivek Ramaswamy and uses AI to aggregate comprehensive plan data, raised $75M at a $1.5B valuation &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250416/p24#a250416p24)
+ - [Aura Aspen Review &lpar;2025&rpar;: Made for Vertical](https://www.wired.com/review/aura-aspen-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
