@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the chess puzzle in Blue Prince](https://www.polygon.com/blue-prince-guides/558159/chess-piece-puzzle-piece-power-choose)
- - [Cozy adventure Palia opens its doors May 13 on PS5](https://blog.playstation.com/2025/04/15/cozy-adventure-palia-opens-its-doors-may-13-on-ps5/)
- - [Coming to Game Pass: Clair Obscur: Expedition 33, Towerborne, Call of Duty: Modern Warfare II, and More](https://news.xbox.com/en-us/2025/04/15/xbox-game-pass-april-2025-wave-2/)<!-- GAME:END -->
+ - [The Helldivers 2 board game looks like a good time, just don’t forget to read the fine print](https://www.polygon.com/gaming/559372/helldivers-2-board-game-trump-tariffs)
+ - [Nvidia GeForce RTX 5060 Ti 16 GB review &lpar;Palit Infinity 3&rpar;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-geforce-rtx-5060-ti-16-gb-review-palit-infinity-3/)
+ - [The best new TV of 2025 so far](https://www.polygon.com/what-to-watch/553485/best-new-tv-2025-shows-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
