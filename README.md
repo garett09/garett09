@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Helldivers 2 board game looks like a good time, just don’t forget to read the fine print](https://www.polygon.com/gaming/559372/helldivers-2-board-game-trump-tariffs)
- - [Nvidia GeForce RTX 5060 Ti 16 GB review &lpar;Palit Infinity 3&rpar;](https://www.pcgamer.com/hardware/graphics-cards/nvidia-geforce-rtx-5060-ti-16-gb-review-palit-infinity-3/)
- - [The best new TV of 2025 so far](https://www.polygon.com/what-to-watch/553485/best-new-tv-2025-shows-series)<!-- GAME:END -->
+ - [The Sandman season 2 trailer gives us a terrible family reunion and a release date](https://www.polygon.com/trailer/560190/sandman-season-2-release-date-first-look-video)
+ - [Corsair Void Wireless V2 review](https://www.pcgamer.com/hardware/gaming-headsets/corsair-void-wireless-v2-review/)
+ - [Xbox&#39;s Massive Spring Sale Includes Over 900 Discounted Games](https://kotaku.com/xbox-massive-spring-sale-900-games-best-deals-series-x-1851776501)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
