@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stand up for your rights](http://9gag.com/gag/amomKxd)
- - 🚯 [WTF](http://9gag.com/gag/a4P58xZ)
- - 🚯 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
+ - 🚖 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
+ - 🚯 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - 🚯 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
 
 --- 
 
