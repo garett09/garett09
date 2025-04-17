@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may introduce an expressive new Material Design theme at I/O this May](https://www.androidauthority.com/material-design-expressive-google-io-3545058/)
- - [Medicare broker Chapter, which was co-founded by Vivek Ramaswamy and uses AI to aggregate comprehensive plan data, raised $75M at a $1.5B valuation &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250416/p24#a250416p24)
- - [Aura Aspen Review &lpar;2025&rpar;: Made for Vertical](https://www.wired.com/review/aura-aspen-review/)<!-- TECH:END -->
+ - [Temu and Shein are raising their US prices next week](https://www.theverge.com/news/650556/temu-shein-us-price-increase-tariffs)
+ - [Global Payments acquires the 45% stake in Worldpay that Fidelity still owned and buys the 55% held by PE firm GTCR, in a deal valuing Worldpay at $24.3B &lpar;Steve Dickson/Bloomberg&rpar;](http://www.techmeme.com/250417/p17#a250417p17)
+ - [GameSir G7 SE Controller Review: Hall Effect for Less](https://www.wired.com/review/gamesir-g7-se-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
