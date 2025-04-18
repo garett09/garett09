@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sandman season 2 trailer gives us a terrible family reunion and a release date](https://www.polygon.com/trailer/560190/sandman-season-2-release-date-first-look-video)
- - [Corsair Void Wireless V2 review](https://www.pcgamer.com/hardware/gaming-headsets/corsair-void-wireless-v2-review/)
- - [Xbox&#39;s Massive Spring Sale Includes Over 900 Discounted Games](https://kotaku.com/xbox-massive-spring-sale-900-games-best-deals-series-x-1851776501)<!-- GAME:END -->
+ - [Popular Steam Game Lowers DLC Price Due To Everything Else Getting More Expensive](https://kotaku.com/everspace-2-wrath-of-the-ancients-expansion-price-lower-1851776712)
+ - [Switch 2 gets new pre-order date in late April for US](https://www.polygon.com/nintendo-switch-2/553234/pre-order-date-time-trump-tariffs)
+ - [Amerzone: Why Microids Remade this Cult ’90s Adventure Game](https://news.xbox.com/en-us/2025/04/18/amerzone-remake-adventure-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
