@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temu and Shein are raising their US prices next week](https://www.theverge.com/news/650556/temu-shein-us-price-increase-tariffs)
- - [Global Payments acquires the 45% stake in Worldpay that Fidelity still owned and buys the 55% held by PE firm GTCR, in a deal valuing Worldpay at $24.3B &lpar;Steve Dickson/Bloomberg&rpar;](http://www.techmeme.com/250417/p17#a250417p17)
- - [GameSir G7 SE Controller Review: Hall Effect for Less](https://www.wired.com/review/gamesir-g7-se-review/)<!-- TECH:END -->
+ - [Inside Apple TV 4K -- the best addition to your TV set](https://appleinsider.com/inside/apple-tv/tips/inside-apple-tv-4k----the-best-addition-to-your-tv-set?utm_medium=rss)
+ - [NVIDIA’s latest Shield TV hotfix update is very tempting, even if it breaks some things](https://www.androidauthority.com/nvidia-shield-tv-risky-hotfix-update-3545971/)
+ - [Nintendo Switch 2 preorders start April 24th and the price is still $449.99](https://www.theverge.com/news/643616/nintendo-switch-2-us-preorders-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
