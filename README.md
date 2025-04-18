@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
- - 🚯 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 🚯 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
+ - 🚖 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 🚯 [Female](http://9gag.com/gag/aGyMQm5)
+ - 🚯 [I\u2019d prefer to keep the dogs and deport the Islamists if I\u2019m honest.](http://9gag.com/gag/avyEj8q)<!-- MEMES:END -->
 
 --- 
 
