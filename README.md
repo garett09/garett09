@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - 🚯 [Female](http://9gag.com/gag/aGyMQm5)
- - 🚯 [I\u2019d prefer to keep the dogs and deport the Islamists if I\u2019m honest.](http://9gag.com/gag/avyEj8q)<!-- MEMES:END -->
+ - 🚖 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
+ - 🚯 [Lol](http://9gag.com/gag/aXP45b9)
+ - 🚯 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)<!-- MEMES:END -->
 
 --- 
 
