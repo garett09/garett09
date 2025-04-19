@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Popular Steam Game Lowers DLC Price Due To Everything Else Getting More Expensive](https://kotaku.com/everspace-2-wrath-of-the-ancients-expansion-price-lower-1851776712)
- - [Switch 2 gets new pre-order date in late April for US](https://www.polygon.com/nintendo-switch-2/553234/pre-order-date-time-trump-tariffs)
- - [Amerzone: Why Microids Remade this Cult ’90s Adventure Game](https://news.xbox.com/en-us/2025/04/18/amerzone-remake-adventure-game/)<!-- GAME:END -->
+ - [The best sci-fi movies to watch on Netflix this April](https://www.polygon.com/what-to-watch/561061/best-sci-fi-movies-watch-netflix-april-2025)
+ - [Oblivion Remake Screens Leak, Nintendo Shows Off Mario Kart World, And More Top Stories](https://kotaku.com/oblivion-remake-mario-kart-world-mr-beast-marvel-rivals-1851776808)
+ - [After a disappointing sequel and a cancelled remake, the original Fear Effect is coming to PC &#39;for the first time ever&#39;](https://www.pcgamer.com/games/action/after-a-disappointing-sequel-and-a-cancelled-remake-the-original-fear-effect-is-coming-to-pc-for-the-first-time-ever/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
