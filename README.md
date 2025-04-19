@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple TV 4K -- the best addition to your TV set](https://appleinsider.com/inside/apple-tv/tips/inside-apple-tv-4k----the-best-addition-to-your-tv-set?utm_medium=rss)
- - [NVIDIA’s latest Shield TV hotfix update is very tempting, even if it breaks some things](https://www.androidauthority.com/nvidia-shield-tv-risky-hotfix-update-3545971/)
- - [Nintendo Switch 2 preorders start April 24th and the price is still $449.99](https://www.theverge.com/news/643616/nintendo-switch-2-us-preorders-date)<!-- TECH:END -->
+ - [It’s only April, but I already know what the best phone of 2025 should be](https://www.androidauthority.com/best-phone-2025-guess-3541793/)
+ - [Inside WWE’s divide-and-conquer YouTube strategy](https://www.theverge.com/youtube/652094/wwe-vault-youtube-interview)
+ - [Best Internet Providers in Hayward, California](https://www.cnet.com/home/internet/best-internet-providers-in-hayward-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
