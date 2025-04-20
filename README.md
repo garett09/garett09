@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s only April, but I already know what the best phone of 2025 should be](https://www.androidauthority.com/best-phone-2025-guess-3541793/)
- - [Inside WWE’s divide-and-conquer YouTube strategy](https://www.theverge.com/youtube/652094/wwe-vault-youtube-interview)
- - [Best Internet Providers in Hayward, California](https://www.cnet.com/home/internet/best-internet-providers-in-hayward-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 9a 23W fast charging upgrade takes two steps forward and one hop back](https://www.androidauthority.com/google-pixel-9a-charging-test-3544435/)
+ - [Henk Rogers on telling the real story of Tetris: ‘I have to set the record straight’](https://www.theverge.com/interview/649723/henk-rogers-tetris-book-interview)
+ - [9 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
