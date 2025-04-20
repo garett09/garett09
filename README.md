@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best sci-fi movies to watch on Netflix this April](https://www.polygon.com/what-to-watch/561061/best-sci-fi-movies-watch-netflix-april-2025)
- - [Oblivion Remake Screens Leak, Nintendo Shows Off Mario Kart World, And More Top Stories](https://kotaku.com/oblivion-remake-mario-kart-world-mr-beast-marvel-rivals-1851776808)
- - [After a disappointing sequel and a cancelled remake, the original Fear Effect is coming to PC &#39;for the first time ever&#39;](https://www.pcgamer.com/games/action/after-a-disappointing-sequel-and-a-cancelled-remake-the-original-fear-effect-is-coming-to-pc-for-the-first-time-ever/)<!-- GAME:END -->
+ - [Marvel Rivals data-miners dig up secrets for the love of the game](https://www.polygon.com/gaming/557881/marvel-rivals-data-mining-overwatch-code)
+ - [Tips For Monster Hunter Wilds, The First Berserker, Dynasty Warriors: Origins And More](https://kotaku.com/tips-for-monster-hunter-wilds-the-first-berserker-dyn-1851776809)
+ - [TV tie-in MMO looter shooter Defiance returns for a free-to-play third shot at life and gigantic messy boss battles](https://www.pcgamer.com/games/mmo/tv-tie-in-mmo-looter-shooter-defiance-returns-for-a-free-to-play-third-shot-at-life-and-gigantic-messy-boss-battles/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
