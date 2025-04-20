@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
- - 🚯 [Lol](http://9gag.com/gag/aXP45b9)
- - 🚯 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)<!-- MEMES:END -->
+ - 🚖 [Cops had enough](http://9gag.com/gag/aD2ZBD9)
+ - 🚯 [All honey no juice](http://9gag.com/gag/aRBvQP5)
+ - 🚯 [Mighty Olo](http://9gag.com/gag/aQzmpqz)<!-- MEMES:END -->
 
 --- 
 
