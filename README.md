@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cops had enough](http://9gag.com/gag/aD2ZBD9)
- - 🚯 [All honey no juice](http://9gag.com/gag/aRBvQP5)
- - 🚯 [Mighty Olo](http://9gag.com/gag/aQzmpqz)<!-- MEMES:END -->
+ - 🚖 [Well, yeah](http://9gag.com/gag/aQzmpDe)
+ - 🚯 [The date that never ended](http://9gag.com/gag/aRBvVbq)
+ - 🚯 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)<!-- MEMES:END -->
 
 --- 
 
