@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 9a 23W fast charging upgrade takes two steps forward and one hop back](https://www.androidauthority.com/google-pixel-9a-charging-test-3544435/)
- - [Henk Rogers on telling the real story of Tetris: ‘I have to set the record straight’](https://www.theverge.com/interview/649723/henk-rogers-tetris-book-interview)
- - [9 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
+ - [No escape, no control: A &#39;Severance&#39; keyboard is coming soon](https://appleinsider.com/articles/25/04/21/no-escape-no-control-a-severance-keyboard-is-coming-soon?utm_medium=rss)
+ - [The Best Shapewear &lpar;2025&rpar;: Bodysuits, Briefs, and More](https://www.wired.com/gallery/best-shapewear/)
+ - [Sources: Circle, BitGo, and other firms plan to apply for bank charters or licenses, as the Trump administration pushes to bring crypto into mainstream finance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250421/p5#a250421p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
