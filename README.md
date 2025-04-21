@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals data-miners dig up secrets for the love of the game](https://www.polygon.com/gaming/557881/marvel-rivals-data-mining-overwatch-code)
- - [Tips For Monster Hunter Wilds, The First Berserker, Dynasty Warriors: Origins And More](https://kotaku.com/tips-for-monster-hunter-wilds-the-first-berserker-dyn-1851776809)
- - [TV tie-in MMO looter shooter Defiance returns for a free-to-play third shot at life and gigantic messy boss battles](https://www.pcgamer.com/games/mmo/tv-tie-in-mmo-looter-shooter-defiance-returns-for-a-free-to-play-third-shot-at-life-and-gigantic-messy-boss-battles/)<!-- GAME:END -->
+ - [PlayStation 5 Pro Teardown: An inside look at the most advanced PlayStation console to date](https://blog.playstation.com/2025/04/21/playstation-5-pro-teardown-an-inside-look-at-the-most-advanced-playstation-console-to-date/)
+ - [The one big disappointment in Ryan Coogler’s fabulous horror movie Sinners](https://www.polygon.com/movies/561718/sinners-analysis-sammie-power-problem-ryan-coogler)
+ - [Look Outside is an instant classic that balances body horror with compassion](https://www.polygon.com/impressions/560877/look-outside-body-horror-compassionate-monsters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
