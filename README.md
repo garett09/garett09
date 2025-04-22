@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation 5 Pro Teardown: An inside look at the most advanced PlayStation console to date](https://blog.playstation.com/2025/04/21/playstation-5-pro-teardown-an-inside-look-at-the-most-advanced-playstation-console-to-date/)
- - [The one big disappointment in Ryan Coogler’s fabulous horror movie Sinners](https://www.polygon.com/movies/561718/sinners-analysis-sammie-power-problem-ryan-coogler)
- - [Look Outside is an instant classic that balances body horror with compassion](https://www.polygon.com/impressions/560877/look-outside-body-horror-compassionate-monsters)<!-- GAME:END -->
+ - [Last chance to win a Switch 2 from Polygon!](https://www.polygon.com/nintendo-switch-2/539299/sweepstakes-newsletter-entry-details)
+ - [Berserk comes to Sanctuary in Diablo 4 and Diablo Immortal’s first crossover this May](https://www.polygon.com/news/562023/berserk-diablo-4-diablo-immortal-crossover-event-details-costumes-bosses)
+ - [Netflix’s Too Hot to Handle mobile games healed my jaded microtransaction-weary heart](https://www.polygon.com/mobile/562174/netflix-too-hot-to-handle-mobile-game-good-visual-novel-mobile-romance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
