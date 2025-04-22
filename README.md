@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, yeah](http://9gag.com/gag/aQzmpDe)
- - 🚯 [The date that never ended](http://9gag.com/gag/aRBvVbq)
- - 🚯 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)<!-- MEMES:END -->
+ - 🚖 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 🚯 [We do live in a strange timeline.](http://9gag.com/gag/aAyMD6d)
+ - 🚯 [Simple as that](http://9gag.com/gag/axyOVpW)<!-- MEMES:END -->
 
 --- 
 
