@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No escape, no control: A &#39;Severance&#39; keyboard is coming soon](https://appleinsider.com/articles/25/04/21/no-escape-no-control-a-severance-keyboard-is-coming-soon?utm_medium=rss)
- - [The Best Shapewear &lpar;2025&rpar;: Bodysuits, Briefs, and More](https://www.wired.com/gallery/best-shapewear/)
- - [Sources: Circle, BitGo, and other firms plan to apply for bank charters or licenses, as the Trump administration pushes to bring crypto into mainstream finance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250421/p5#a250421p5)<!-- TECH:END -->
+ - [Google Fi was the perfect carrier for me 10 years ago, but not anymore](https://www.androidauthority.com/google-fi-10-years-old-3545386/)
+ - [How to keep your data safe when you travel](https://www.theverge.com/the-vergecast/653243/data-privacy-borders-travel-big-tech-streaming)
+ - [How to Responsibly Dispose of Your Electronics &lpar;2025&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
