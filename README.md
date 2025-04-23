@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - 🚯 [We do live in a strange timeline.](http://9gag.com/gag/aAyMD6d)
- - 🚯 [Simple as that](http://9gag.com/gag/axyOVpW)<!-- MEMES:END -->
+ - 🚖 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
+ - 🚯 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
+ - 🚯 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)<!-- MEMES:END -->
 
 --- 
 
