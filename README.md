@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Fi was the perfect carrier for me 10 years ago, but not anymore](https://www.androidauthority.com/google-fi-10-years-old-3545386/)
- - [How to keep your data safe when you travel](https://www.theverge.com/the-vergecast/653243/data-privacy-borders-travel-big-tech-streaming)
- - [How to Responsibly Dispose of Your Electronics &lpar;2025&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)<!-- TECH:END -->
+ - [YouTube says goodbye to decade-old video player UI, but users hate the new design](https://www.androidauthority.com/youtube-new-video-player-ui-test-web-3547254/)
+ - [That’s hot: Android will soon add an easy shortcut to the Pixel Thermometer app](https://www.androidauthority.com/pixel-thermometer-lock-screen-shortcut-3546974/)
+ - [Chainguard, which helps companies secure software supply chains, raised a $356M Series D led by Kleiner and IVP at a $3.5B valuation, up from $1.12B in 2024 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250423/p25#a250423p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
