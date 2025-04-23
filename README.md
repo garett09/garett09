@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Last chance to win a Switch 2 from Polygon!](https://www.polygon.com/nintendo-switch-2/539299/sweepstakes-newsletter-entry-details)
- - [Berserk comes to Sanctuary in Diablo 4 and Diablo Immortal’s first crossover this May](https://www.polygon.com/news/562023/berserk-diablo-4-diablo-immortal-crossover-event-details-costumes-bosses)
- - [Netflix’s Too Hot to Handle mobile games healed my jaded microtransaction-weary heart](https://www.polygon.com/mobile/562174/netflix-too-hot-to-handle-mobile-game-good-visual-novel-mobile-romance)<!-- GAME:END -->
+ - [Intel will reportedly fire fully 20% of its workforce and focus on &#39;engineering&#39;, a plan that sounds all too familiar at this point](https://www.pcgamer.com/hardware/processors/intel-will-reportedly-fire-fully-20-percent-of-its-workforce-and-focus-on-engineering-a-plan-that-sounds-all-too-familiar-at-this-point/)
+ - [Fallout 3 Remastered seems almost inevitable now, but still a long way off](https://www.pcgamer.com/games/fallout/fallout-3-remastered-seems-almost-inevitable-now-but-still-a-long-way-off/)
+ - [How to sell stolen items in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-sell-stolen-items-fences/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
