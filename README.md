@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube says goodbye to decade-old video player UI, but users hate the new design](https://www.androidauthority.com/youtube-new-video-player-ui-test-web-3547254/)
- - [That’s hot: Android will soon add an easy shortcut to the Pixel Thermometer app](https://www.androidauthority.com/pixel-thermometer-lock-screen-shortcut-3546974/)
- - [Chainguard, which helps companies secure software supply chains, raised a $356M Series D led by Kleiner and IVP at a $3.5B valuation, up from $1.12B in 2024 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250423/p25#a250423p25)<!-- TECH:END -->
+ - [Hilarious gibberish or AI’s fatal flaw? Google Search confidently explains nonsense phrases](https://www.androidauthority.com/google-search-ai-overviews-idiom-hallucination-3547757/)
+ - [Google extends the Pixel 7A&amp;#8217;s repair program for battery swelling issues](https://www.theverge.com/news/655371/google-pixel-7a-extended-repair-program-battery-swelling)
+ - [The EU unveils new mandatory labels for smartphones and tablets sold in the bloc that rate energy efficiency, durability, and repairability, starting June 20 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250424/p18#a250424p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
