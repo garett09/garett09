@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
- - 🚯 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 🚯 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)<!-- MEMES:END -->
+ - 🚖 [So that\u2019s why\u2026](http://9gag.com/gag/aRBvXzq)
+ - 🚯 [I think you may have something here](http://9gag.com/gag/aKG8mX6)
+ - 🚯 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)<!-- MEMES:END -->
 
 --- 
 
