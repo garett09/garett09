@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel will reportedly fire fully 20% of its workforce and focus on &#39;engineering&#39;, a plan that sounds all too familiar at this point](https://www.pcgamer.com/hardware/processors/intel-will-reportedly-fire-fully-20-percent-of-its-workforce-and-focus-on-engineering-a-plan-that-sounds-all-too-familiar-at-this-point/)
- - [Fallout 3 Remastered seems almost inevitable now, but still a long way off](https://www.pcgamer.com/games/fallout/fallout-3-remastered-seems-almost-inevitable-now-but-still-a-long-way-off/)
- - [How to sell stolen items in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-sell-stolen-items-fences/)<!-- GAME:END -->
+ - [The Very Best Cosplay From WonderCon 2025](https://kotaku.com/wondercon-cosplay-gallery-arcane-marvel-rivals-1851777633)
+ - [Best races and origins in Oblivion Remastered](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-best-races-origins/)
+ - [I never thought I&#39;d want a &#39;90s PDA but this little DIY project has totally changed my mind](https://www.pcgamer.com/hardware/i-never-thought-id-want-a-90s-pda-but-this-little-diy-project-has-totally-changed-my-mind/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
