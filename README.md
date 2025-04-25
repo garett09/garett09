@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So that\u2019s why\u2026](http://9gag.com/gag/aRBvXzq)
- - 🚯 [I think you may have something here](http://9gag.com/gag/aKG8mX6)
- - 🚯 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)<!-- MEMES:END -->
+ - 🚖 [Really!?](http://9gag.com/gag/a5QzXPr)
+ - 🚯 [New year new me and some coworkers cant handle confidence](http://9gag.com/gag/a6ZBEGN)
+ - 🚯 [Peaceful people](http://9gag.com/gag/aByEdYN)<!-- MEMES:END -->
 
 --- 
 
