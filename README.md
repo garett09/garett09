@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hilarious gibberish or AI’s fatal flaw? Google Search confidently explains nonsense phrases](https://www.androidauthority.com/google-search-ai-overviews-idiom-hallucination-3547757/)
- - [Google extends the Pixel 7A&amp;#8217;s repair program for battery swelling issues](https://www.theverge.com/news/655371/google-pixel-7a-extended-repair-program-battery-swelling)
- - [The EU unveils new mandatory labels for smartphones and tablets sold in the bloc that rate energy efficiency, durability, and repairability, starting June 20 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250424/p18#a250424p18)<!-- TECH:END -->
+ - [Everybody wants to buy Chrome](https://www.theverge.com/the-vergecast/656159/chrome-google-antitrust-ai-meta-vergecast)
+ - [How Android 16’s new security mode will stop USB-based attacks](https://www.androidauthority.com/android-16-usb-data-advanced-protection-3548018/)
+ - [Nous, which plans to launch an AI training system on Solana using people&#39;s idle computing power, raised a $50M Series A, a source says at a $1B token valuation &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250425/p11#a250425p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
