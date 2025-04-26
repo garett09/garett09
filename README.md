@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everybody wants to buy Chrome](https://www.theverge.com/the-vergecast/656159/chrome-google-antitrust-ai-meta-vergecast)
- - [How Android 16’s new security mode will stop USB-based attacks](https://www.androidauthority.com/android-16-usb-data-advanced-protection-3548018/)
- - [Nous, which plans to launch an AI training system on Solana using people&#39;s idle computing power, raised a $50M Series A, a source says at a $1B token valuation &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250425/p11#a250425p11)<!-- TECH:END -->
+ - [Google is paying Samsung an ‘enormous sum’ to preinstall Gemini](https://www.theverge.com/news/652746/google-samsung-gemini-default-placement-antitrust-trial)
+ - [20 Mother&#39;s Day Gift Ideas Our Editors Have Tried and Love &lpar;2025&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2024/)
+ - [I tried this privacy-focused Google Photos alternative, and I think you should too](https://www.androidauthority.com/ente-photos-hands-on-3542198/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
