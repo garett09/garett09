@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get kick-ass FPS throwback RoboCop: Rogue City before it leaves PS Plus soon](https://www.polygon.com/what-to-play/564442/robocop-rogue-city-game-fps-good-ps-plus)
- - [All Genshin Impact 5.6 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-5-6-livestream/)
- - [Michael B. Jordan’s Most Badass Physical Performances](https://kotaku.com/michael-b-jordan-sinners-black-panther-fantastic-four-1851777559)<!-- GAME:END -->
+ - [Documenting Japan’s classic arcades before it’s too late](https://www.polygon.com/q-and-a/565005/japan-arcade-photography-book)
+ - [Switch 2 Preorders Open To Pure Chaos And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-preorders-oblivion-remaster-marvel-rivals-1851777869)
+ - [The best horror movies to watch on Netflix this April](https://www.polygon.com/what-to-watch/564680/best-horror-movies-netflix-watch-april-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
