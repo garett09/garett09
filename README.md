@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Documenting Japan’s classic arcades before it’s too late](https://www.polygon.com/q-and-a/565005/japan-arcade-photography-book)
- - [Switch 2 Preorders Open To Pure Chaos And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-preorders-oblivion-remaster-marvel-rivals-1851777869)
- - [The best horror movies to watch on Netflix this April](https://www.polygon.com/what-to-watch/564680/best-horror-movies-netflix-watch-april-2025)<!-- GAME:END -->
+ - [Here&#39;s a tower defense about little bloodthirsty gnomes in little red hats](https://www.pcgamer.com/games/strategy/heres-a-tower-defense-about-little-bloodthirsty-gnomes-in-little-red-hats/)
+ - [V Rising&#39;s big free content update introduces a cursed, poisoned forest this week](https://www.pcgamer.com/games/survival-crafting/v-risings-big-free-content-update-introduces-a-cursed-poisoned-forest-this-week/)
+ - [Oblivion Remastered got an update on PC Game Pass that broke upscaling just before the weekend](https://www.pcgamer.com/games/rpg/oblivion-remastered-got-an-update-on-pc-game-pass-that-broke-upscaling-just-before-the-weekend/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
