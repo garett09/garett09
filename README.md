@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Art of the deal, amirite?](http://9gag.com/gag/a1mV7Qw)
- - 🚯 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
- - 🚯 [Device for infant leg muscle development in the 1940s.](http://9gag.com/gag/ae9xOWq)<!-- MEMES:END -->
+ - 🚖 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)
+ - 🚯 [Wife brought home a sit stand desk from the second hand store with a pc attached](http://9gag.com/gag/aW4oLK4)
+ - 🚯 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)<!-- MEMES:END -->
 
 --- 
 
