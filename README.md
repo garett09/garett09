@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is paying Samsung an ‘enormous sum’ to preinstall Gemini](https://www.theverge.com/news/652746/google-samsung-gemini-default-placement-antitrust-trial)
- - [20 Mother&#39;s Day Gift Ideas Our Editors Have Tried and Love &lpar;2025&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2024/)
- - [I tried this privacy-focused Google Photos alternative, and I think you should too](https://www.androidauthority.com/ente-photos-hands-on-3542198/)<!-- TECH:END -->
+ - [Lighter Apple Vision Pro expected by early 2026](https://appleinsider.com/articles/25/04/27/lighter-apple-vision-pro-expected-by-early-2026?utm_medium=rss)
+ - [Parallelle Traveler Review: Unparalleled Attention to Detail](https://www.wired.com/review/parallelle-traveller/)
+ - [This cheap Android Auto adapter was the best thing I ever bought for my car](https://www.androidauthority.com/best-android-auto-adapter-3545931/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
