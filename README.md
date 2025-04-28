@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lighter Apple Vision Pro expected by early 2026](https://appleinsider.com/articles/25/04/27/lighter-apple-vision-pro-expected-by-early-2026?utm_medium=rss)
- - [Parallelle Traveler Review: Unparalleled Attention to Detail](https://www.wired.com/review/parallelle-traveller/)
- - [This cheap Android Auto adapter was the best thing I ever bought for my car](https://www.androidauthority.com/best-android-auto-adapter-3545931/)<!-- TECH:END -->
+ - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)
+ - [Brendan Carr’s FCC is an anti-consumer, rights-trampling harassment machine](https://www.theverge.com/tech/656653/brendan-carr-fcc-anti-consumer-harassment-dei-trump)
+ - [Netflix’s Tudum 2025 event will stream live next month](https://www.theverge.com/news/656687/netflix-tudum-2025-streaming-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
