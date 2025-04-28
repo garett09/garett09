@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)
- - 🚯 [Wife brought home a sit stand desk from the second hand store with a pc attached](http://9gag.com/gag/aW4oLK4)
- - 🚯 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)<!-- MEMES:END -->
+ - 🚖 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
+ - 🚯 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
+ - 🚯 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)<!-- MEMES:END -->
 
 --- 
 
