@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a tower defense about little bloodthirsty gnomes in little red hats](https://www.pcgamer.com/games/strategy/heres-a-tower-defense-about-little-bloodthirsty-gnomes-in-little-red-hats/)
- - [V Rising&#39;s big free content update introduces a cursed, poisoned forest this week](https://www.pcgamer.com/games/survival-crafting/v-risings-big-free-content-update-introduces-a-cursed-poisoned-forest-this-week/)
- - [Oblivion Remastered got an update on PC Game Pass that broke upscaling just before the weekend](https://www.pcgamer.com/games/rpg/oblivion-remastered-got-an-update-on-pc-game-pass-that-broke-upscaling-just-before-the-weekend/)<!-- GAME:END -->
+ - [Skin Deep review](https://www.pcgamer.com/games/fps/skin-deep-review/)
+ - [Long-lost Hong Kong action classics from John Woo, Tsui Hark, and more finally getting 4K and digital releases](https://www.polygon.com/action/565452/best-hong-kong-action-classics-4k-restorations)
+ - [Did You Catch The Change In The Last Of Us’ Opening Credits This Week?](https://kotaku.com/last-of-us-opening-credits-title-sequence-joel-ellie-1851777889)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
