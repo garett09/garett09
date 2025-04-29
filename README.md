@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
- - 🚯 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
- - 🚯 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)<!-- MEMES:END -->
+ - 🚖 [I was there 3000 years ago](http://9gag.com/gag/aYQMZ8v)
+ - 🚯 [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
+ - 🚯 [Never trust the older brother...](http://9gag.com/gag/aGyGNvK)<!-- MEMES:END -->
 
 --- 
 
