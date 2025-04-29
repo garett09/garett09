@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)
- - [Brendan Carr’s FCC is an anti-consumer, rights-trampling harassment machine](https://www.theverge.com/tech/656653/brendan-carr-fcc-anti-consumer-harassment-dei-trump)
- - [Netflix’s Tudum 2025 event will stream live next month](https://www.theverge.com/news/656687/netflix-tudum-2025-streaming-date)<!-- TECH:END -->
+ - [Amazon to display cost of tariffs on products in &#39;hostile and political&#39; act](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
+ - [White House Press Secretary Karoline Leavitt says Amazon reportedly adding tariff pricing to each product on its site &quot;is a hostile and political act by Amazon&quot; &lpar;Brendan Pedersen/@brendanpedersen&rpar;](http://www.techmeme.com/250429/p11#a250429p11)
+ - [Bird Buddy’s new nature camera attracts and records more than just birds](https://www.theverge.com/news/657183/bird-buddy-petal-nature-camera-wonder-blocks-insects-plants-pollinators)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
