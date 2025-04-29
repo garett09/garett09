@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skin Deep review](https://www.pcgamer.com/games/fps/skin-deep-review/)
- - [Long-lost Hong Kong action classics from John Woo, Tsui Hark, and more finally getting 4K and digital releases](https://www.polygon.com/action/565452/best-hong-kong-action-classics-4k-restorations)
- - [Did You Catch The Change In The Last Of Us’ Opening Credits This Week?](https://kotaku.com/last-of-us-opening-credits-title-sequence-joel-ellie-1851777889)<!-- GAME:END -->
+ - [An Oblivion Remastered player ended up in &#39;the backrooms of Oblivion&#39; trying to find the exact location from The Elder Scrolls 6 teaser trailer](https://www.pcgamer.com/games/rpg/an-oblivion-remastered-player-ended-up-in-the-backrooms-of-oblivion-trying-to-find-the-exact-location-from-the-elder-scrolls-6-teaser-trailer/)
+ - [Larian&#39;s Swen Vincke says AI-obsessed studios won&#39;t &#39;have a competitive advantage&#39;, because those tools are &#39;gonna be what&#39;s available to everybody&#39;](https://www.pcgamer.com/gaming-industry/game-development/larians-swen-vincke-says-ai-obsessed-studios-wont-have-a-competitive-advantage-because-those-tools-are-gonna-be-whats-available-to-everybody/)
+ - [The best new RPG books of 2025 so far](https://www.polygon.com/gaming/566127/best-new-rpg-books-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
