@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was there 3000 years ago](http://9gag.com/gag/aYQMZ8v)
- - 🚯 [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
- - 🚯 [Never trust the older brother...](http://9gag.com/gag/aGyGNvK)<!-- MEMES:END -->
+ - 🚖 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
+ - 🚯 [Something special for guests](http://9gag.com/gag/a87eNEZ)
+ - 🚯 [Not mine tho](http://9gag.com/gag/aW4oAvK)<!-- MEMES:END -->
 
 --- 
 
