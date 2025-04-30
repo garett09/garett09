@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An Oblivion Remastered player ended up in &#39;the backrooms of Oblivion&#39; trying to find the exact location from The Elder Scrolls 6 teaser trailer](https://www.pcgamer.com/games/rpg/an-oblivion-remastered-player-ended-up-in-the-backrooms-of-oblivion-trying-to-find-the-exact-location-from-the-elder-scrolls-6-teaser-trailer/)
- - [Larian&#39;s Swen Vincke says AI-obsessed studios won&#39;t &#39;have a competitive advantage&#39;, because those tools are &#39;gonna be what&#39;s available to everybody&#39;](https://www.pcgamer.com/gaming-industry/game-development/larians-swen-vincke-says-ai-obsessed-studios-wont-have-a-competitive-advantage-because-those-tools-are-gonna-be-whats-available-to-everybody/)
- - [The best new RPG books of 2025 so far](https://www.polygon.com/gaming/566127/best-new-rpg-books-2025)<!-- GAME:END -->
+ - [Creepy Redneck Dinosaur Mansion 3 is as delightful as the name implies](https://www.polygon.com/gaming/566596/creepy-redneck-dinosaur-mansion-match-3-review)
+ - [Eric Barone has regrets about not fleshing out Stardew Valley&#39;s characters more, but likes that it&#39;s so open ended since it makes things &#39;more personal&#39; for each player](https://www.pcgamer.com/games/sim/eric-barone-has-regrets-about-not-fleshing-out-stardew-valleys-characters-more-but-likes-that-its-so-open-ended-since-it-makes-things-more-personal-for-each-player/)
+ - [Apex Legends writer gets laid off 24 hours after the character she wrote is revealed, because that&#39;s what the games industry in 2025 looks like](https://www.pcgamer.com/gaming-industry/game-development/apex-legends-writer-gets-laid-off-24-hours-after-the-character-she-wrote-is-revealed-because-thats-what-the-games-industry-in-2025-looks-like/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
