@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
- - 🚯 [Something special for guests](http://9gag.com/gag/a87eNEZ)
- - 🚯 [Not mine tho](http://9gag.com/gag/aW4oAvK)<!-- MEMES:END -->
+ - 🚖 [Terrifying](http://9gag.com/gag/aLnA57M)
+ - 🚯 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 🚯 [When you do a really good job](http://9gag.com/gag/a348r61)<!-- MEMES:END -->
 
 --- 
 
