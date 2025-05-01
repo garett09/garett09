@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Creepy Redneck Dinosaur Mansion 3 is as delightful as the name implies](https://www.polygon.com/gaming/566596/creepy-redneck-dinosaur-mansion-match-3-review)
- - [Eric Barone has regrets about not fleshing out Stardew Valley&#39;s characters more, but likes that it&#39;s so open ended since it makes things &#39;more personal&#39; for each player](https://www.pcgamer.com/games/sim/eric-barone-has-regrets-about-not-fleshing-out-stardew-valleys-characters-more-but-likes-that-its-so-open-ended-since-it-makes-things-more-personal-for-each-player/)
- - [Apex Legends writer gets laid off 24 hours after the character she wrote is revealed, because that&#39;s what the games industry in 2025 looks like](https://www.pcgamer.com/gaming-industry/game-development/apex-legends-writer-gets-laid-off-24-hours-after-the-character-she-wrote-is-revealed-because-thats-what-the-games-industry-in-2025-looks-like/)<!-- GAME:END -->
+ - [Microsoft Announces Massive Xbox Console Price Hike, Xbox Games To Cost $80](https://kotaku.com/microsoft-xbox-series-x-s-price-increase-may-2025-1851778615)
+ - [The untimely demise and belated resurrection of the notorious Captain Blood](https://www.polygon.com/features/567330/captain-blood-interview-sneg-publisher-lost-media-pc-consoles)
+ - [&#39;We as the developers do not feel like we are being robbed by anyone&#39;: Drug Dealer Simulator developer says it &#39;would not pursue any legal actions against Schedule 1 in any shape or form&#39; if it had its way](https://www.pcgamer.com/games/sim/we-as-the-developers-do-not-feel-like-we-are-being-robbed-by-anyone-drug-dealer-simulator-developer-says-it-would-not-pursue-any-legal-actions-against-schedule-1-in-any-shape-or-form-if-it-had-its-way/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
