@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s new tool can turn 3D scenes into AI images](https://www.theverge.com/news/658613/nvidia-ai-blueprint-blender-3d-image-references)
- - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)
- - [How I use Trilium Next to take notes across all my devices](https://www.androidauthority.com/trilium-next-hands-on-3547267/)<!-- TECH:END -->
+ - [Microsoft raises the prices of its Xbox Series S and X consoles, Xbox controllers, and some new Xbox games globally; the Xbox Series S is up $80 to $380 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250501/p25#a250501p25)
+ - [Apple gains market share as smartphone industry flatlines in early 2025](https://appleinsider.com/articles/25/05/01/apple-gains-market-share-as-smartphone-industry-flatlines-in-early-2025?utm_medium=rss)
+ - [EveryPlate Meal Kit Review &lpar;2025&rpar;: Low Cost, Good Taste](https://www.wired.com/review/everyplate-meal-kit/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
