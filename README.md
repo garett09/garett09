@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft raises the prices of its Xbox Series S and X consoles, Xbox controllers, and some new Xbox games globally; the Xbox Series S is up $80 to $380 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250501/p25#a250501p25)
- - [Apple gains market share as smartphone industry flatlines in early 2025](https://appleinsider.com/articles/25/05/01/apple-gains-market-share-as-smartphone-industry-flatlines-in-early-2025?utm_medium=rss)
- - [EveryPlate Meal Kit Review &lpar;2025&rpar;: Low Cost, Good Taste](https://www.wired.com/review/everyplate-meal-kit/)<!-- TECH:END -->
+ - [Sources: Nvidia told ByteDance, Alibaba, Tencent, and others that it is tweaking its AI chips so they can be sold in China without breaching US export rules &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250502/p11#a250502p11)
+ - [The chance of getting hit by a Soviet spacecraft goes up next week](https://www.theverge.com/news/660121/kosmos-482-lander-soviet-space-junk)
+ - [Focal Bathys MG Review: Gorgeous Sound for a Pretty Penny](https://www.wired.com/review/focal-bathys-mg/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
