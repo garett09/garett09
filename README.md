@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Announces Massive Xbox Console Price Hike, Xbox Games To Cost $80](https://kotaku.com/microsoft-xbox-series-x-s-price-increase-may-2025-1851778615)
- - [The untimely demise and belated resurrection of the notorious Captain Blood](https://www.polygon.com/features/567330/captain-blood-interview-sneg-publisher-lost-media-pc-consoles)
- - [&#39;We as the developers do not feel like we are being robbed by anyone&#39;: Drug Dealer Simulator developer says it &#39;would not pursue any legal actions against Schedule 1 in any shape or form&#39; if it had its way](https://www.pcgamer.com/games/sim/we-as-the-developers-do-not-feel-like-we-are-being-robbed-by-anyone-drug-dealer-simulator-developer-says-it-would-not-pursue-any-legal-actions-against-schedule-1-in-any-shape-or-form-if-it-had-its-way/)<!-- GAME:END -->
+ - [Mod adds Dark Souls-style player messages to Oblivion Remastered so you can write &#39;Try finger but hole&#39; in front of Patrick Stewart](https://www.pcgamer.com/games/the-elder-scrolls/mod-adds-dark-souls-style-player-messages-to-oblivion-remastered-so-you-can-write-try-finger-but-hole-in-front-of-patrick-stewart/)
+ - [There&#39;s another Pathfinder 2e bundle on Humble with nearly $700 of books for $57, including an adventure that&#39;ll let you go full Mortal Kombat with your friends](https://www.pcgamer.com/games/theres-another-pathfinder-2e-bundle-on-humble-with-nearly-usd700-of-books-for-usd57-including-an-adventure-thatll-let-you-go-full-mortal-kombat-with-your-friends/)
+ - [Take-Two shares tank after GTA 6&#39;s delay, CEO Strauss Zelnick assures panicky investors it&#39;ll still make more money than god and it&#39;s &#39;steadfast in our commitment to excellence&#39;](https://www.pcgamer.com/games/grand-theft-auto/take-two-shares-tank-after-gta-6s-delay-ceo-strauss-zelnick-assures-panicky-investors-itll-still-make-more-money-than-god-and-its-steadfast-in-our-commitment-to-excellence/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
