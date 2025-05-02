@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Terrifying](http://9gag.com/gag/aLnA57M)
- - 🚯 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 🚯 [When you do a really good job](http://9gag.com/gag/a348r61)<!-- MEMES:END -->
+ - 🚖 [Tower Of London Evolution](http://9gag.com/gag/aqyx3vR)
+ - 🚯 [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 🚯 [When coffee orders get more complex than crime investigations](http://9gag.com/gag/aGyGW40)<!-- MEMES:END -->
 
 --- 
 
