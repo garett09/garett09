@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia told ByteDance, Alibaba, Tencent, and others that it is tweaking its AI chips so they can be sold in China without breaching US export rules &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250502/p11#a250502p11)
- - [The chance of getting hit by a Soviet spacecraft goes up next week](https://www.theverge.com/news/660121/kosmos-482-lander-soviet-space-junk)
- - [Focal Bathys MG Review: Gorgeous Sound for a Pretty Penny](https://www.wired.com/review/focal-bathys-mg/)<!-- TECH:END -->
+ - [As a Pixel user, I am jealous of Samsung users for these 8 reasons](https://www.androidauthority.com/pixel-vs-samsung-jealousy-3544558/)
+ - [Matic Robot Vacuum Review: The Best Robot Vacuum](https://www.wired.com/review/matic-robot-vacuum/)
+ - [Polygon’s new owner says it will ‘do what’s right for Polygon’](https://www.theverge.com/games/660635/polygon-valnet-vox-media-new-owner-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
