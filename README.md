@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tower Of London Evolution](http://9gag.com/gag/aqyx3vR)
- - 🚯 [He knows what he did](http://9gag.com/gag/aGyG32K)
- - 🚯 [When coffee orders get more complex than crime investigations](http://9gag.com/gag/aGyGW40)<!-- MEMES:END -->
+ - 🚖 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
+ - 🚯 [So many women will not and did not understand what this man was expressing in just a few words. &lpar;Original posted on instagram, sharing here with you&rpar;](http://9gag.com/gag/a0en26v)
+ - 🚯 [Yeah... roll with it](http://9gag.com/gag/a87eBqO)<!-- MEMES:END -->
 
 --- 
 
