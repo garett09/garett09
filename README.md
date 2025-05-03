@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mod adds Dark Souls-style player messages to Oblivion Remastered so you can write &#39;Try finger but hole&#39; in front of Patrick Stewart](https://www.pcgamer.com/games/the-elder-scrolls/mod-adds-dark-souls-style-player-messages-to-oblivion-remastered-so-you-can-write-try-finger-but-hole-in-front-of-patrick-stewart/)
- - [There&#39;s another Pathfinder 2e bundle on Humble with nearly $700 of books for $57, including an adventure that&#39;ll let you go full Mortal Kombat with your friends](https://www.pcgamer.com/games/theres-another-pathfinder-2e-bundle-on-humble-with-nearly-usd700-of-books-for-usd57-including-an-adventure-thatll-let-you-go-full-mortal-kombat-with-your-friends/)
- - [Take-Two shares tank after GTA 6&#39;s delay, CEO Strauss Zelnick assures panicky investors it&#39;ll still make more money than god and it&#39;s &#39;steadfast in our commitment to excellence&#39;](https://www.pcgamer.com/games/grand-theft-auto/take-two-shares-tank-after-gta-6s-delay-ceo-strauss-zelnick-assures-panicky-investors-itll-still-make-more-money-than-god-and-its-steadfast-in-our-commitment-to-excellence/)<!-- GAME:END -->
+ - [Xbox Consoles And Games Get A Price Hike, Borderlands 4 Gets A Showcase, And More Of The Week&#39;s Top Stories](https://kotaku.com/polygon-sold-giant-bomb-xbox-price-borderlands-4-1851778862)
+ - [Sea Of Stars&#39; 8-hour epilogue expansion won&#39;t cost you a penny when the circus comes to town on May 20th](https://www.pcgamer.com/games/rpg/sea-of-stars-8-hour-epilogue-expansion-wont-cost-you-a-penny-when-the-circus-comes-to-town-on-may-20th/)
+ - [Oblivion isn&#39;t enough? Morrowind just got a whole lot bigger, as community mega-mod Tamriel Rebuilt adds the sprawling metropolis of Narsis](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-isnt-enough-morrowind-just-got-a-whole-lot-bigger-as-community-mega-mod-tamriel-rebuilt-adds-the-sprawling-metropolis-of-narsis/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
