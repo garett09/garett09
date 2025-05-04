@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As a Pixel user, I am jealous of Samsung users for these 8 reasons](https://www.androidauthority.com/pixel-vs-samsung-jealousy-3544558/)
- - [Matic Robot Vacuum Review: The Best Robot Vacuum](https://www.wired.com/review/matic-robot-vacuum/)
- - [Polygon’s new owner says it will ‘do what’s right for Polygon’](https://www.theverge.com/games/660635/polygon-valnet-vox-media-new-owner-interview)<!-- TECH:END -->
+ - [22 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
+ - [Perplexity’s Chrome extension is scratching an itch forgotten by Gemini](https://www.androidauthority.com/perplexity-chrome-extension-vs-gemini-3549115/)
+ - [The fantasy of playing Final Fantasy](https://www.theverge.com/features/641582/final-fantasy-xiv-parenting-essay)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
