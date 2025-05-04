@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - 🚯 [So many women will not and did not understand what this man was expressing in just a few words. &lpar;Original posted on instagram, sharing here with you&rpar;](http://9gag.com/gag/a0en26v)
- - 🚯 [Yeah... roll with it](http://9gag.com/gag/a87eBqO)<!-- MEMES:END -->
+ - 🚖 [Witty title](http://9gag.com/gag/awydbPW)
+ - 🚯 [Stick it to the man! Literally](http://9gag.com/gag/aMVzpqM)
+ - 🚯 [This quote goes beyond the show\u2026](http://9gag.com/gag/aoyLm9x)<!-- MEMES:END -->
 
 --- 
 
