@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Consoles And Games Get A Price Hike, Borderlands 4 Gets A Showcase, And More Of The Week&#39;s Top Stories](https://kotaku.com/polygon-sold-giant-bomb-xbox-price-borderlands-4-1851778862)
- - [Sea Of Stars&#39; 8-hour epilogue expansion won&#39;t cost you a penny when the circus comes to town on May 20th](https://www.pcgamer.com/games/rpg/sea-of-stars-8-hour-epilogue-expansion-wont-cost-you-a-penny-when-the-circus-comes-to-town-on-may-20th/)
- - [Oblivion isn&#39;t enough? Morrowind just got a whole lot bigger, as community mega-mod Tamriel Rebuilt adds the sprawling metropolis of Narsis](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-isnt-enough-morrowind-just-got-a-whole-lot-bigger-as-community-mega-mod-tamriel-rebuilt-adds-the-sprawling-metropolis-of-narsis/)<!-- GAME:END -->
+ - [The Week&#39;s Top Tips For Clair Obscur, Oblivion Remastered, Monster Hunter Wilds And More](https://kotaku.com/the-weeks-top-tips-for-clair-obscur-oblivion-remastere-1851778863)
+ - [Star-trekking sandbox roguelike Approaching Infinity launches after more than 12 years in development](https://www.pcgamer.com/games/roguelike/star-trekking-sandbox-roguelike-approaching-infinity-launches-after-more-than-12-years-in-development/)
+ - [Watch the overlooked Florence Pugh horror movie now streaming on Netflix](https://www.polygon.com/what-to-watch/567071/florence-pugh-horror-movie-malevolent-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
