@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Witty title](http://9gag.com/gag/awydbPW)
- - 🚯 [Stick it to the man! Literally](http://9gag.com/gag/aMVzpqM)
- - 🚯 [This quote goes beyond the show\u2026](http://9gag.com/gag/aoyLm9x)<!-- MEMES:END -->
+ - 🚖 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
+ - 🚯 [Hol tf up](http://9gag.com/gag/aXPWpjd)
+ - 🚯 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)<!-- MEMES:END -->
 
 --- 
 
