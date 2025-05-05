@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [22 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
- - [Perplexity’s Chrome extension is scratching an itch forgotten by Gemini](https://www.androidauthority.com/perplexity-chrome-extension-vs-gemini-3549115/)
- - [The fantasy of playing Final Fantasy](https://www.theverge.com/features/641582/final-fantasy-xiv-parenting-essay)<!-- TECH:END -->
+ - [Battery not lasting through the day? This new display tech could be a game changer](https://www.androidauthority.com/next-gen-oled-2025-3550247/)
+ - [EssilorLuxottica Nuance Audio Glasses Review: The Future of Hearing](https://www.wired.com/review/essilorluxottica-nuance-audio-glasses/)
+ - [China launch for Apple Intelligence seemingly delayed to iOS 18.6](https://appleinsider.com/articles/25/05/05/china-launch-for-apple-intelligence-seemingly-delayed-to-ios-186?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
