@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week&#39;s Top Tips For Clair Obscur, Oblivion Remastered, Monster Hunter Wilds And More](https://kotaku.com/the-weeks-top-tips-for-clair-obscur-oblivion-remastere-1851778863)
- - [Star-trekking sandbox roguelike Approaching Infinity launches after more than 12 years in development](https://www.pcgamer.com/games/roguelike/star-trekking-sandbox-roguelike-approaching-infinity-launches-after-more-than-12-years-in-development/)
- - [Watch the overlooked Florence Pugh horror movie now streaming on Netflix](https://www.polygon.com/what-to-watch/567071/florence-pugh-horror-movie-malevolent-netflix)<!-- GAME:END -->
+ - [How to complete the Paranoia quest in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-paranoia-quest/)
+ - [Thunderbolts*’ writer didn’t know Marvel cut his Taskmaster arc until he saw the movie](https://www.polygon.com/marvel/596372/thunderbolts-taskmaster-death-planned-story-arc)
+ - [Survival Tips For Revenge of the Savage Planet, Available Today](https://news.xbox.com/en-us/2025/05/05/survival-tips-for-revenge-of-the-savage-planet-available-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
