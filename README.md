@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Battery not lasting through the day? This new display tech could be a game changer](https://www.androidauthority.com/next-gen-oled-2025-3550247/)
- - [EssilorLuxottica Nuance Audio Glasses Review: The Future of Hearing](https://www.wired.com/review/essilorluxottica-nuance-audio-glasses/)
- - [China launch for Apple Intelligence seemingly delayed to iOS 18.6](https://appleinsider.com/articles/25/05/05/china-launch-for-apple-intelligence-seemingly-delayed-to-ios-186?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify rolls out a new &quot;plays&quot; metric for podcasts that shows users and creators how many times people have actively listened to or watched an episode &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250506/p20#a250506p20)
+ - [Samsung updates Wallet to add a Tap to Transfer feature to let users in the US quickly exchange money between them, rolling out &quot;later this month&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250506/p19#a250506p19)
+ - [Instacart launches Fizz, a Gen-Z focused app for group orders of drinks and party snacks with a flat $5 fee and a rewards program for brands to offer discounts &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250506/p18#a250506p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
