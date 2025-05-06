@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Paranoia quest in Oblivion](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-paranoia-quest/)
- - [Thunderbolts*’ writer didn’t know Marvel cut his Taskmaster arc until he saw the movie](https://www.polygon.com/marvel/596372/thunderbolts-taskmaster-death-planned-story-arc)
- - [Survival Tips For Revenge of the Savage Planet, Available Today](https://news.xbox.com/en-us/2025/05/05/survival-tips-for-revenge-of-the-savage-planet-available-today/)<!-- GAME:END -->
+ - [Tales of the Shire wants to make sure &#39;every detail is just right&#39; when starting your hobbit life, but the character creator still looks incredibly disappointing](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-wants-to-make-sure-every-detail-is-just-right-when-starting-your-hobbit-life-but-the-character-creator-still-looks-incredibly-disappointing/)
+ - [Nvidia announces RTX 5060 release date of May 19 for both the $299 desktop GPU and $1,099 gaming laptops](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-rtx-5060-release-date-of-may-19-for-both-the-usd299-desktop-gpu-and-usd1-099-laptops/)
+ - [John Wick’s director breaks down how he got to design action on Lazarus, ‘the funnest job’ he’s ever done](https://www.polygon.com/anime/552380/chad-stahelski-lazarus-how-watanabe-collaboration-anime)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
