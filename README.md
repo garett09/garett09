@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify rolls out a new &quot;plays&quot; metric for podcasts that shows users and creators how many times people have actively listened to or watched an episode &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250506/p20#a250506p20)
- - [Samsung updates Wallet to add a Tap to Transfer feature to let users in the US quickly exchange money between them, rolling out &quot;later this month&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250506/p19#a250506p19)
- - [Instacart launches Fizz, a Gen-Z focused app for group orders of drinks and party snacks with a flat $5 fee and a rewards program for brands to offer discounts &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250506/p18#a250506p18)<!-- TECH:END -->
+ - [Aiffro P30 3 in 1 Portable SSD review: A mini hub for making iPhone movies](https://appleinsider.com/articles/25/05/07/aiffro-p30-3-in-1-portable-ssd-review-a-mini-hub-for-making-iphone-movies?utm_medium=rss)
+ - [Billion dollar battle: Picking an App Store fight with Apple cost Epic Games greatly](https://appleinsider.com/articles/25/05/07/billion-dollar-battle-picking-an-app-store-fight-with-apple-cost-epic-games-greatly?utm_medium=rss)
+ - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
