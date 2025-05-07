@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 🚯 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
- - 🚯 [Art from hell &lt;3](http://9gag.com/gag/aD2VGPw)<!-- MEMES:END -->
+ - 🚖 [The man gets mangled/run over by a snowplow after saving his nephew&#39;s life. He said he could hear his own bones crunching. Spends months recovering. Only to be offered peanuts to carry a show while they obviously push him out to introduce a female lead. Disney is a ashhowe.](http://9gag.com/gag/apRbpXD)
+ - 🚯 [Incredible india](http://9gag.com/gag/aByGYjD)
+ - 🚯 [Indian railways finds a clever way to stop people from traveling without tickets.](http://9gag.com/gag/ajPZqW1)<!-- MEMES:END -->
 
 --- 
 
