@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tales of the Shire wants to make sure &#39;every detail is just right&#39; when starting your hobbit life, but the character creator still looks incredibly disappointing](https://www.pcgamer.com/games/life-sim/tales-of-the-shire-wants-to-make-sure-every-detail-is-just-right-when-starting-your-hobbit-life-but-the-character-creator-still-looks-incredibly-disappointing/)
- - [Nvidia announces RTX 5060 release date of May 19 for both the $299 desktop GPU and $1,099 gaming laptops](https://www.pcgamer.com/hardware/graphics-cards/nvidia-announces-rtx-5060-release-date-of-may-19-for-both-the-usd299-desktop-gpu-and-usd1-099-laptops/)
- - [John Wick’s director breaks down how he got to design action on Lazarus, ‘the funnest job’ he’s ever done](https://www.polygon.com/anime/552380/chad-stahelski-lazarus-how-watanabe-collaboration-anime)<!-- GAME:END -->
+ - [Genshin Impact introduces age-gating as part of loot box crackdown](https://www.polygon.com/genshin-impact/597934/genshin-impact-age-verification)
+ - [Welcome teamLFG to the PlayStation Studios family](https://blog.playstation.com/2025/05/07/welcome-teamlfg-to-the-playstation-studios-family/)
+ - [The best games on Apple Arcade right now](https://www.polygon.com/what-to-play/563117/best-apple-arcade-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
