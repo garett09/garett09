@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact introduces age-gating as part of loot box crackdown](https://www.polygon.com/genshin-impact/597934/genshin-impact-age-verification)
- - [Welcome teamLFG to the PlayStation Studios family](https://blog.playstation.com/2025/05/07/welcome-teamlfg-to-the-playstation-studios-family/)
- - [The best games on Apple Arcade right now](https://www.polygon.com/what-to-play/563117/best-apple-arcade-games)<!-- GAME:END -->
+ - [Masters of Ceremony Warbond marches into Helldivers 2 May 15](https://blog.playstation.com/2025/05/08/masters-of-ceremony-warbond-marches-into-helldivers-2-may-15/)
+ - [Drop Duchy looks like Tetris, feels like Dicey Dungeons, and pulls you in like Balatro](https://www.polygon.com/impressions/597979/drop-duchy-impressions)
+ - [How to unlock the uncrafting station in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-uncrafting-station-unlock/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
