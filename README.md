@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The man gets mangled/run over by a snowplow after saving his nephew&#39;s life. He said he could hear his own bones crunching. Spends months recovering. Only to be offered peanuts to carry a show while they obviously push him out to introduce a female lead. Disney is a ashhowe.](http://9gag.com/gag/apRbpXD)
- - 🚯 [Incredible india](http://9gag.com/gag/aByGYjD)
- - 🚯 [Indian railways finds a clever way to stop people from traveling without tickets.](http://9gag.com/gag/ajPZqW1)<!-- MEMES:END -->
+ - 🚖 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - 🚯 [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)
+ - 🚯 [In and out](http://9gag.com/gag/a342QgN)<!-- MEMES:END -->
 
 --- 
 
