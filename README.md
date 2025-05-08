@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aiffro P30 3 in 1 Portable SSD review: A mini hub for making iPhone movies](https://appleinsider.com/articles/25/05/07/aiffro-p30-3-in-1-portable-ssd-review-a-mini-hub-for-making-iphone-movies?utm_medium=rss)
- - [Billion dollar battle: Picking an App Store fight with Apple cost Epic Games greatly](https://appleinsider.com/articles/25/05/07/billion-dollar-battle-picking-an-app-store-fight-with-apple-cost-epic-games-greatly?utm_medium=rss)
- - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
+ - [Palworld had to remove game features because of Nintendo lawsuit](https://www.theverge.com/news/663210/palworld-updates-feature-removed-nintendo-lawsuit)
+ - [Google Maps for iOS uses Gemini to pull places from screenshots](https://appleinsider.com/articles/25/05/08/google-maps-for-ios-uses-gemini-to-pull-places-from-screenshots?utm_medium=rss)
+ - [Q&amp;A with Bill Gates on shutting down the Gates Foundation on December 31, 2045, the Trump administration, Elon Musk, AI drug discovery, AI&#39;s potential, and more &lpar;David Wallace-Wells/New York Times&rpar;](http://www.techmeme.com/250508/p27#a250508p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
