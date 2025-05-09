@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palworld had to remove game features because of Nintendo lawsuit](https://www.theverge.com/news/663210/palworld-updates-feature-removed-nintendo-lawsuit)
- - [Google Maps for iOS uses Gemini to pull places from screenshots](https://appleinsider.com/articles/25/05/08/google-maps-for-ios-uses-gemini-to-pull-places-from-screenshots?utm_medium=rss)
- - [Q&amp;A with Bill Gates on shutting down the Gates Foundation on December 31, 2045, the Trump administration, Elon Musk, AI drug discovery, AI&#39;s potential, and more &lpar;David Wallace-Wells/New York Times&rpar;](http://www.techmeme.com/250508/p27#a250508p27)<!-- TECH:END -->
+ - [Gemini Live’s Project Astra features are rolling out more widely. Did you get them yet?](https://www.androidauthority.com/gemini-live-project-astra-features-rolling-out-more-widely-3556053/)
+ - [Netgear Orbi 770 Series Review: Wi-Fi 7 Family Harmony](https://www.wired.com/review/netgear-orbi-770-series/)
+ - [Why Apple is trying to save Google](https://www.theverge.com/the-vergecast/664087/why-apple-is-trying-to-save-google)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
