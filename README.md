@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Masters of Ceremony Warbond marches into Helldivers 2 May 15](https://blog.playstation.com/2025/05/08/masters-of-ceremony-warbond-marches-into-helldivers-2-may-15/)
- - [Drop Duchy looks like Tetris, feels like Dicey Dungeons, and pulls you in like Balatro](https://www.polygon.com/impressions/597979/drop-duchy-impressions)
- - [How to unlock the uncrafting station in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-uncrafting-station-unlock/)<!-- GAME:END -->
+ - [MIT researchers debunk one of the greatest misconceptions in science: Eggs are stronger at the sides after all](https://www.pcgamer.com/hardware/mit-researchers-debunk-one-of-the-greatest-misconceptions-in-science-eggs-are-stronger-at-the-sides-after-all/)
+ - [John Cena vs. Randy Orton: A Timeline of Their Iconic Feuds](https://kotaku.com/john-cena-randy-orton-backlash-wwe-championship-1851779827)
+ - [All Honkai: Star Rail 3.3 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-3-3-livestream-codes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
