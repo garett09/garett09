@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Live’s Project Astra features are rolling out more widely. Did you get them yet?](https://www.androidauthority.com/gemini-live-project-astra-features-rolling-out-more-widely-3556053/)
- - [Netgear Orbi 770 Series Review: Wi-Fi 7 Family Harmony](https://www.wired.com/review/netgear-orbi-770-series/)
- - [Why Apple is trying to save Google](https://www.theverge.com/the-vergecast/664087/why-apple-is-trying-to-save-google)<!-- TECH:END -->
+ - [The Best Cheap TVs &lpar;2025&rpar;: TCL, Hisense, and More](https://www.wired.com/gallery/best-cheap-tvs/)
+ - [The best Samsung phones you couldn’t buy in the US](https://www.androidauthority.com/best-samsung-phones-not-in-us-3548414/)
+ - [Despelote is a picture-perfect portrait of childhood obsession](https://www.theverge.com/games-review/664363/despelote-review-ps5-xbox-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
