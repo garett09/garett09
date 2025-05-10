@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who?](http://9gag.com/gag/ae9m59b)
- - 🚯 [21st Season](http://9gag.com/gag/aGyAdZX)
- - 🚯 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)<!-- MEMES:END -->
+ - 🚖 [Guess who&#39;s getting laid tonight ?](http://9gag.com/gag/a872EvV)
+ - 🚯 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
+ - 🚯 [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)<!-- MEMES:END -->
 
 --- 
 
