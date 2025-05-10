@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MIT researchers debunk one of the greatest misconceptions in science: Eggs are stronger at the sides after all](https://www.pcgamer.com/hardware/mit-researchers-debunk-one-of-the-greatest-misconceptions-in-science-eggs-are-stronger-at-the-sides-after-all/)
- - [John Cena vs. Randy Orton: A Timeline of Their Iconic Feuds](https://kotaku.com/john-cena-randy-orton-backlash-wwe-championship-1851779827)
- - [All Honkai: Star Rail 3.3 livestream codes](https://www.pcgamer.com/games/rpg/honkai-star-rail-3-3-livestream-codes/)<!-- GAME:END -->
+ - [13 Things We Noticed In The New GTA VI Trailer And More Of The Week&#39;s Top Stories](https://kotaku.com/gta-6-vi-new-trailer-destiny-renegades-clair-obscur-1851779967)
+ - [Even Starfield&#39;s community patch modders are growing &#39;disenchanted&#39; with the sci-fi RPG, as volunteers depart in droves: &#39;If nobody comes forward, we may have to retire the project&#39;](https://www.pcgamer.com/games/rpg/even-starfields-community-patch-modders-are-growing-disenchanted-with-the-sci-fi-rpg-as-volunteers-depart-in-droves-if-nobody-comes-forward-we-may-have-to-retire-the-project/)
+ - [After a decade of development, Roboquest&#39;s developer is calling time on its roguelite shooter: &#39;There&#39;s no way we can continue to provide content for players with over 1,000 hours of gameplay&#39;](https://www.pcgamer.com/games/fps/after-a-decade-of-development-roboquests-developer-is-calling-time-on-its-roguelite-shooter-theres-no-way-we-can-continue-to-provide-content-for-players-with-over-1-000-hours-of-gameplay/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
