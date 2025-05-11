@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Cheap TVs &lpar;2025&rpar;: TCL, Hisense, and More](https://www.wired.com/gallery/best-cheap-tvs/)
- - [The best Samsung phones you couldn’t buy in the US](https://www.androidauthority.com/best-samsung-phones-not-in-us-3548414/)
- - [Despelote is a picture-perfect portrait of childhood obsession](https://www.theverge.com/games-review/664363/despelote-review-ps5-xbox-pc)<!-- TECH:END -->
+ - [I want the YouTube algorithm to stop doing this one annoying thing](https://www.androidauthority.com/youtube-algorithm-annoying-3555345/)
+ - [Samsung Odyssey 3D &lpar;G90XF&rpar; Review: The Future of 3D Screens](https://www.wired.com/review/samsung-odyssey-3d-27-inch-g90xf/)
+ - [Expedition 33’s big twist was designed to &amp;#8216;inflict the pain on the player&amp;#8217;](https://www.theverge.com/games/664492/clair-obscur-expedition-33-twist-spoilers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
