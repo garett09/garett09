@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess who&#39;s getting laid tonight ?](http://9gag.com/gag/a872EvV)
- - 🚯 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
- - 🚯 [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)<!-- MEMES:END -->
+ - 🚖 [I need instructions](http://9gag.com/gag/amoMWW9)
+ - 🚯 [Bad luck](http://9gag.com/gag/adBeg7Z)
+ - 🚯 [Just A Floating Glove And Boots Right\ud83d\ude0f](http://9gag.com/gag/a342128)<!-- MEMES:END -->
 
 --- 
 
