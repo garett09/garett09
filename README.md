@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [13 Things We Noticed In The New GTA VI Trailer And More Of The Week&#39;s Top Stories](https://kotaku.com/gta-6-vi-new-trailer-destiny-renegades-clair-obscur-1851779967)
- - [Even Starfield&#39;s community patch modders are growing &#39;disenchanted&#39; with the sci-fi RPG, as volunteers depart in droves: &#39;If nobody comes forward, we may have to retire the project&#39;](https://www.pcgamer.com/games/rpg/even-starfields-community-patch-modders-are-growing-disenchanted-with-the-sci-fi-rpg-as-volunteers-depart-in-droves-if-nobody-comes-forward-we-may-have-to-retire-the-project/)
- - [After a decade of development, Roboquest&#39;s developer is calling time on its roguelite shooter: &#39;There&#39;s no way we can continue to provide content for players with over 1,000 hours of gameplay&#39;](https://www.pcgamer.com/games/fps/after-a-decade-of-development-roboquests-developer-is-calling-time-on-its-roguelite-shooter-theres-no-way-we-can-continue-to-provide-content-for-players-with-over-1-000-hours-of-gameplay/)<!-- GAME:END -->
+ - [How Thunderbolts* evolved from a Die Hard movie into a Breakfast Club movie](https://www.polygon.com/marvel/598425/thunderbolts-original-script-changes-die-hard-breakfast-club-interview)
+ - [How To Deal With Clair Obscur: Expedition 33&#39;s Elusive Petanks And More Of The Week&#39;s Top Tips](https://kotaku.com/clair-obscur-petank-expedition-33-monster-hunter-artian-1851779968)
+ - [The best FPS of 2024 simply cannot stop adding new maps, introducing 37 new arenas, 4 new weapons, and a &#39;Horrible Smelly Head&#39; in its latest update](https://www.pcgamer.com/games/fps/the-best-fps-of-2024-simply-cannot-stop-adding-new-maps-introducing-37-new-arenas-4-new-weapons-and-a-horrible-smelly-head-in-its-latest-update/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
