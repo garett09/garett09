@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I need instructions](http://9gag.com/gag/amoMWW9)
- - 🚯 [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 🚯 [Just A Floating Glove And Boots Right\ud83d\ude0f](http://9gag.com/gag/a342128)<!-- MEMES:END -->
+ - 🚖 [This girl is so precious](http://9gag.com/gag/a2v20vO)
+ - 🚯 [Join me on my quest](http://9gag.com/gag/aMVvBjW)
+ - 🚯 [B*tch STFU](http://9gag.com/gag/ae9mO6Q)<!-- MEMES:END -->
 
 --- 
 
