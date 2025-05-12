@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I want the YouTube algorithm to stop doing this one annoying thing](https://www.androidauthority.com/youtube-algorithm-annoying-3555345/)
- - [Samsung Odyssey 3D &lpar;G90XF&rpar; Review: The Future of 3D Screens](https://www.wired.com/review/samsung-odyssey-3d-27-inch-g90xf/)
- - [Expedition 33’s big twist was designed to &amp;#8216;inflict the pain on the player&amp;#8217;](https://www.theverge.com/games/664492/clair-obscur-expedition-33-twist-spoilers)<!-- TECH:END -->
+ - [The Overwatch developer team has unionized](https://www.theverge.com/news/664873/overwatch-union-microsoft-activision-blizzard)
+ - [I tried out Notion Mail but am switching back to Gmail — here’s why](https://www.androidauthority.com/gmail-vs-notion-mail-3556029/)
+ - [Hansker Productivity Vertical Gaming Mouse Review: Super Ergonomics](https://www.wired.com/review/hansker-productivity-vertical-gaming-mouse/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
