@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Thunderbolts* evolved from a Die Hard movie into a Breakfast Club movie](https://www.polygon.com/marvel/598425/thunderbolts-original-script-changes-die-hard-breakfast-club-interview)
- - [How To Deal With Clair Obscur: Expedition 33&#39;s Elusive Petanks And More Of The Week&#39;s Top Tips](https://kotaku.com/clair-obscur-petank-expedition-33-monster-hunter-artian-1851779968)
- - [The best FPS of 2024 simply cannot stop adding new maps, introducing 37 new arenas, 4 new weapons, and a &#39;Horrible Smelly Head&#39; in its latest update](https://www.pcgamer.com/games/fps/the-best-fps-of-2024-simply-cannot-stop-adding-new-maps-introducing-37-new-arenas-4-new-weapons-and-a-horrible-smelly-head-in-its-latest-update/)<!-- GAME:END -->
+ - [One day the silicon in this $7000 Asus RTX 5090 will be worthless, but you&#39;ll still have a whole 6 grams of solid gold to make up for it](https://www.pcgamer.com/hardware/graphics-cards/one-day-the-silicon-in-this-usd7000-asus-rtx-5090-will-be-worthless-but-youll-still-have-a-whole-6-grams-of-solid-gold-to-make-up-for-it/)
+ - [A Special Delivery from Hell: Xbox and DOOM Team Up with Prince St. Pizza](https://news.xbox.com/en-us/2025/05/12/delivery-from-hell-xbox-doom-team-up-prince-st-pizza/)
+ - [Oblivion Remastered has a new texture error, and this one mucks up a gag from the original game](https://www.pcgamer.com/games/the-elder-scrolls/oblivion-remastered-has-a-new-texture-error-and-this-one-mucks-up-a-gag-from-the-original-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
