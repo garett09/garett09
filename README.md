@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Overwatch developer team has unionized](https://www.theverge.com/news/664873/overwatch-union-microsoft-activision-blizzard)
- - [I tried out Notion Mail but am switching back to Gmail — here’s why](https://www.androidauthority.com/gmail-vs-notion-mail-3556029/)
- - [Hansker Productivity Vertical Gaming Mouse Review: Super Ergonomics](https://www.wired.com/review/hansker-productivity-vertical-gaming-mouse/)<!-- TECH:END -->
+ - [Square&amp;#8217;s $399 Handheld accepts tap-to-pay at your table](https://www.theverge.com/news/665638/square-handheld-portable-pos-card-reader-launch)
+ - [Apple’s new Accessibility Reader can customize text across apps — and in real life](https://www.theverge.com/news/665658/apple-accessibility-reader-text-customize-font-color)
+ - [Spotify updates its AI DJ to let Premium subscribers use English voice commands to customize its music selection, taking requests for artists, genres, and moods &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250513/p17#a250513p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
