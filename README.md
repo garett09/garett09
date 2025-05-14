@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Lo-Fi No Man&#39;s Sky Has You Exploring Incredible Alien Worlds](https://kotaku.com/miro-no-mans-sky-review-lost-saved-data-indie-steam-1851780385)
- - [14 TV Shows Of 2025 You Need To Watch](https://kotaku.com/andor-severance-black-mirror-daredevil-best-tv-shows-1851779606)
- - [The Very Best Cosplay From LVL UP Expo 2025](https://kotaku.com/cosplay-gallery-marvel-rivals-chicken-jockey-lvl-up-1851780221)<!-- GAME:END -->
+ - [Sony considering all options in face of tariffs — even making PS5 in the US](https://www.polygon.com/playstation/599078/sony-ps5-price-increase-tariffs)
+ - [Windows 10 version of Microsoft 365 apps will be supported until 2028—but this isn&#39;t the Microsoft u-turn you may think it is](https://www.pcgamer.com/software/operating-systems/windows-10-version-of-microsoft-365-apps-will-be-supported-until-2028-but-this-isnt-the-microsoft-u-turn-you-may-think-it-is/)
+ - [FBC: Firebreak – hands-on report](https://blog.playstation.com/2025/05/14/fbc-firebreak-hands-on-report/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
