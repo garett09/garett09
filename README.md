@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of model is this](http://9gag.com/gag/aO8PPOv)
- - 🚯 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)
- - 🚯 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)<!-- MEMES:END -->
+ - 🚖 [Fixed](http://9gag.com/gag/adBe2vZ)
+ - 🚯 [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)
+ - 🚯 [Woman tries to dash without paying, gets faced with a locked door. FULL video since previous OP had first part only](http://9gag.com/gag/aqyWYGR)<!-- MEMES:END -->
 
 --- 
 
