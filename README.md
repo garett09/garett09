@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Square&amp;#8217;s $399 Handheld accepts tap-to-pay at your table](https://www.theverge.com/news/665638/square-handheld-portable-pos-card-reader-launch)
- - [Apple’s new Accessibility Reader can customize text across apps — and in real life](https://www.theverge.com/news/665658/apple-accessibility-reader-text-customize-font-color)
- - [Spotify updates its AI DJ to let Premium subscribers use English voice commands to customize its music selection, taking requests for artists, genres, and moods &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250513/p17#a250513p17)<!-- TECH:END -->
+ - [Android Auto could move your media buttons, and it has us scratching our heads &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-moved-media-playback-buttons-apk-teardown-3557615/)
+ - [Ironheart’s first trailer is a quest to build the ultimate armor](https://www.theverge.com/news/666340/ironheart-trailer-disney-plus-marvel)
+ - [Google will let restaurants highlight specials on their search profiles](https://www.theverge.com/news/666672/google-search-restaurant-profile-whats-happening)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
