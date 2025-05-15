@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fixed](http://9gag.com/gag/adBe2vZ)
- - 🚯 [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)
- - 🚯 [Woman tries to dash without paying, gets faced with a locked door. FULL video since previous OP had first part only](http://9gag.com/gag/aqyWYGR)<!-- MEMES:END -->
+ - 🚖 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)
+ - 🚯 [And that he isn&#39;t playing Trump like a fiddle...](http://9gag.com/gag/aVvLBpO)
+ - 🚯 [Not today](http://9gag.com/gag/avyRm3E)<!-- MEMES:END -->
 
 --- 
 
