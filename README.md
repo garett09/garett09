@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto could move your media buttons, and it has us scratching our heads &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-moved-media-playback-buttons-apk-teardown-3557615/)
- - [Ironheart’s first trailer is a quest to build the ultimate armor](https://www.theverge.com/news/666340/ironheart-trailer-disney-plus-marvel)
- - [Google will let restaurants highlight specials on their search profiles](https://www.theverge.com/news/666672/google-search-restaurant-profile-whats-happening)<!-- TECH:END -->
+ - [Sources: Chinese officials recently told some top local tech companies that the government will be more active in overseeing their AI data centers and AI chips &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250515/p23#a250515p23)
+ - [Roblox rolls out tools to let eligible creators sell physical items from their games via its Commerce APIs, working with Shopify as a first &quot;integrated partner&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250515/p22#a250515p22)
+ - [Motorola Razr Ultra and Razr &lpar;2025&rpar; Review: Gorgeous Folding Phones](https://www.wired.com/review/motorola-razr-ultra-and-razr-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
