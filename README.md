@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony considering all options in face of tariffs — even making PS5 in the US](https://www.polygon.com/playstation/599078/sony-ps5-price-increase-tariffs)
- - [Windows 10 version of Microsoft 365 apps will be supported until 2028—but this isn&#39;t the Microsoft u-turn you may think it is](https://www.pcgamer.com/software/operating-systems/windows-10-version-of-microsoft-365-apps-will-be-supported-until-2028-but-this-isnt-the-microsoft-u-turn-you-may-think-it-is/)
- - [FBC: Firebreak – hands-on report](https://blog.playstation.com/2025/05/14/fbc-firebreak-hands-on-report/)<!-- GAME:END -->
+ - [The Assassin&#39;s Creed Shadows delay worked out so well for Ubisoft its CEO decided, hey, let&#39;s do a couple more for the road—and save 100 million more euros while we&#39;re at it](https://www.pcgamer.com/gaming-industry/game-development/the-assassins-creed-shadows-delay-worked-out-so-well-for-ubisoft-its-ceo-decided-hey-lets-do-a-couple-more-for-the-road-and-save-100-million-more-euros-while-were-at-it/)
+ - [Ghost of Yōtei: How Sucker Punch chose Hokkaido for the game’s setting](https://blog.playstation.com/2025/05/15/ghost-of-yotei-how-sucker-punch-chose-hokkaido-for-the-games-setting/)
+ - [How To Defeat The Mourner In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-shadows-wheel-mourner-oichi-onryo-1851780729)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
