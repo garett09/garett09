@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese officials recently told some top local tech companies that the government will be more active in overseeing their AI data centers and AI chips &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250515/p23#a250515p23)
- - [Roblox rolls out tools to let eligible creators sell physical items from their games via its Commerce APIs, working with Shopify as a first &quot;integrated partner&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250515/p22#a250515p22)
- - [Motorola Razr Ultra and Razr &lpar;2025&rpar; Review: Gorgeous Folding Phones](https://www.wired.com/review/motorola-razr-ultra-and-razr-2025/)<!-- TECH:END -->
+ - [Does Your City Use Chlorine or Chloramine to Treat Its Water?](https://www.wired.com/story/does-your-city-use-chlorine-or-chloramine-to-treat-its-water/)
+ - [5 ways AI helps me be more productive](https://www.androidauthority.com/ways-ai-helps-me-be-more-productive-3558000/)
+ - [Google Calendar is getting closer to its Material 3 Expressive makeover &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-expressive-update-3558226/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
