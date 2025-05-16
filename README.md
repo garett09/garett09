@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Assassin&#39;s Creed Shadows delay worked out so well for Ubisoft its CEO decided, hey, let&#39;s do a couple more for the road—and save 100 million more euros while we&#39;re at it](https://www.pcgamer.com/gaming-industry/game-development/the-assassins-creed-shadows-delay-worked-out-so-well-for-ubisoft-its-ceo-decided-hey-lets-do-a-couple-more-for-the-road-and-save-100-million-more-euros-while-were-at-it/)
- - [Ghost of Yōtei: How Sucker Punch chose Hokkaido for the game’s setting](https://blog.playstation.com/2025/05/15/ghost-of-yotei-how-sucker-punch-chose-hokkaido-for-the-games-setting/)
- - [How To Defeat The Mourner In Assassin’s Creed Shadows](https://kotaku.com/assassins-creed-shadows-wheel-mourner-oichi-onryo-1851780729)<!-- GAME:END -->
+ - [Contract And Cure Vampirism In Oblivion Remastered For The Ultimate Nightlife Experience](https://kotaku.com/oblivion-remastered-become-vampire-vampirism-cure-1851780896)
+ - [Doom: The Dark Ages Sentinel Command Station secrets and collectibles &lpar;Chapter 12&rpar;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-sentinel-command-station-secrets-collectibles-chapter-12/)
+ - [How to complete the Jungle Bungles duty in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-jungle-bungles-walkthrough/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
