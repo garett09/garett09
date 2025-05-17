@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was having a good day until....](http://9gag.com/gag/adBeRvV)
- - 🚯 [Retail logic: You&#39;re holding the bag, not me](http://9gag.com/gag/a6Z28mN)
- - 🚯 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)<!-- MEMES:END -->
+ - 🚖 [Lemons](http://9gag.com/gag/aryq9dB)
+ - 🚯 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)
+ - 🚯 [When Dad&#39;s selfie game gets a doggy upgrade](http://9gag.com/gag/a4P2BL6)<!-- MEMES:END -->
 
 --- 
 
