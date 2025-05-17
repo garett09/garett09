@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does Your City Use Chlorine or Chloramine to Treat Its Water?](https://www.wired.com/story/does-your-city-use-chlorine-or-chloramine-to-treat-its-water/)
- - [5 ways AI helps me be more productive](https://www.androidauthority.com/ways-ai-helps-me-be-more-productive-3558000/)
- - [Google Calendar is getting closer to its Material 3 Expressive makeover &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-calendar-expressive-update-3558226/)<!-- TECH:END -->
+ - [12 Best Sunscreens, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-sunscreens/)
+ - [I’m starting to worry that Motorola has an AI problem](https://www.androidauthority.com/motorola-too-many-ai-assistants-3552245/)
+ - [It’s time for Logitech to make a real Forever Mouse](https://www.theverge.com/tech/667173/logitech-forever-mouse-ifixit-repair-parts-editorial)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
