@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Contract And Cure Vampirism In Oblivion Remastered For The Ultimate Nightlife Experience](https://kotaku.com/oblivion-remastered-become-vampire-vampirism-cure-1851780896)
- - [Doom: The Dark Ages Sentinel Command Station secrets and collectibles &lpar;Chapter 12&rpar;](https://www.pcgamer.com/games/fps/doom-the-dark-ages-sentinel-command-station-secrets-collectibles-chapter-12/)
- - [How to complete the Jungle Bungles duty in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-jungle-bungles-walkthrough/)<!-- GAME:END -->
+ - [‘I was so tired’: Behind Clair Obscur: Expedition 33’s beloved ‘whee whoo’ scene](https://www.polygon.com/gaming/599459/clair-obscur-expedition-33-whee-whoo)
+ - [An Artist Spots Her Work In Bungie&#39;s Marathon, Nintendo Isn&#39;t Sending Out Switch 2 Review Units Until The Last Minute, And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-reviews-launch-marathon-art-bungie-ff-mtg-1851781039)
+ - [REPO developer teases the game&#39;s &#39;most powerful weapon&#39; yet, a mountable cannon that will &#39;turn your cart into a battle tank&#39;](https://www.pcgamer.com/games/horror/repo-developer-teases-the-games-most-powerful-weapon-yet-a-mountable-cannon-that-will-turn-your-cart-into-a-battle-tank/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
