@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Sunscreens, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-sunscreens/)
- - [I’m starting to worry that Motorola has an AI problem](https://www.androidauthority.com/motorola-too-many-ai-assistants-3552245/)
- - [It’s time for Logitech to make a real Forever Mouse](https://www.theverge.com/tech/667173/logitech-forever-mouse-ifixit-repair-parts-editorial)<!-- TECH:END -->
+ - [iPhone 17 Air&#39;s battery life could be the shortest in years](https://appleinsider.com/articles/25/05/18/iphone-17-airs-battery-life-could-be-the-shortest-in-years?utm_medium=rss)
+ - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
+ - [Circle to Search has a hidden trick every color lover should know about](https://www.androidauthority.com/circle-to-search-identify-color-3555574/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
