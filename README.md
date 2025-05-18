@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lemons](http://9gag.com/gag/aryq9dB)
- - 🚯 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)
- - 🚯 [When Dad&#39;s selfie game gets a doggy upgrade](http://9gag.com/gag/a4P2BL6)<!-- MEMES:END -->
+ - 🚖 [From 164kg to 99kg, still fat, but less](http://9gag.com/gag/a1m2nM2)
+ - 🚯 [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
+ - 🚯 [Truly impeccable](http://9gag.com/gag/aD2V5xK)<!-- MEMES:END -->
 
 --- 
 
