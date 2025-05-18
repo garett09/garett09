@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘I was so tired’: Behind Clair Obscur: Expedition 33’s beloved ‘whee whoo’ scene](https://www.polygon.com/gaming/599459/clair-obscur-expedition-33-whee-whoo)
- - [An Artist Spots Her Work In Bungie&#39;s Marathon, Nintendo Isn&#39;t Sending Out Switch 2 Review Units Until The Last Minute, And More Of The Week&#39;s Top Stories](https://kotaku.com/switch-2-reviews-launch-marathon-art-bungie-ff-mtg-1851781039)
- - [REPO developer teases the game&#39;s &#39;most powerful weapon&#39; yet, a mountable cannon that will &#39;turn your cart into a battle tank&#39;](https://www.pcgamer.com/games/horror/repo-developer-teases-the-games-most-powerful-weapon-yet-a-mountable-cannon-that-will-turn-your-cart-into-a-battle-tank/)<!-- GAME:END -->
+ - [Netflix&#39;s long-awaited Gears of War movie might actually have a director, and it&#39;s the guy who helmed Bullet Train and codirected John Wick](https://www.pcgamer.com/games/action/netflixs-long-awaited-gears-of-war-movie-might-actually-have-a-director-and-its-the-guy-who-helmed-bullet-train-and-codirected-john-wick/)
+ - [How To Start Strong In Doom: The Dark Ages, How To Master Sciel In Clair Obscur, And More Of The Week&#39;s Top Tips](https://kotaku.com/doom-dark-ages-best-upgrades-clair-obscur-sciel-1851781040)
+ - [MSI&#39;s clever new 500 Hz QD-OLED gaming monitor can detect when you leave the screen and turn itself off to begin its anti-burn-in cycle](https://www.pcgamer.com/hardware/gaming-monitors/msis-clever-new-500-hz-qd-oled-gaming-monitor-can-detect-when-you-leave-the-screen-and-turn-itself-off-to-begin-its-anti-burn-in-cycle/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
