@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From 164kg to 99kg, still fat, but less](http://9gag.com/gag/a1m2nM2)
- - 🚯 [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
- - 🚯 [Truly impeccable](http://9gag.com/gag/aD2V5xK)<!-- MEMES:END -->
+ - 🚖 [Prepare your insulin](http://9gag.com/gag/abABw98)
+ - 🚯 [Now I also have anxiety](http://9gag.com/gag/ae9m8bp)
+ - 🚯 [He might be an alpha male.](http://9gag.com/gag/a342rZv)<!-- MEMES:END -->
 
 --- 
 
