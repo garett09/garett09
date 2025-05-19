@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix&#39;s long-awaited Gears of War movie might actually have a director, and it&#39;s the guy who helmed Bullet Train and codirected John Wick](https://www.pcgamer.com/games/action/netflixs-long-awaited-gears-of-war-movie-might-actually-have-a-director-and-its-the-guy-who-helmed-bullet-train-and-codirected-john-wick/)
- - [How To Start Strong In Doom: The Dark Ages, How To Master Sciel In Clair Obscur, And More Of The Week&#39;s Top Tips](https://kotaku.com/doom-dark-ages-best-upgrades-clair-obscur-sciel-1851781040)
- - [MSI&#39;s clever new 500 Hz QD-OLED gaming monitor can detect when you leave the screen and turn itself off to begin its anti-burn-in cycle](https://www.pcgamer.com/hardware/gaming-monitors/msis-clever-new-500-hz-qd-oled-gaming-monitor-can-detect-when-you-leave-the-screen-and-turn-itself-off-to-begin-its-anti-burn-in-cycle/)<!-- GAME:END -->
+ - [Nvidia&#39;s Jen-Hsun Huang boasts that one spine of its new NVLink Fusion tech can &#39;move more traffic than the entire Internet&#39;](https://www.pcgamer.com/hardware/nvidias-jen-hsun-huang-boasts-that-one-spine-of-its-new-nvlink-fusion-tech-can-move-more-traffic-than-the-entire-internet/)
+ - [Nvidia RTX 5060 review live: we&#39;ve been black-listed for this review, but I&#39;m a professional so we&#39;re doing this live!](https://www.pcgamer.com/hardware/live/news/nvidia-rtx-5060-review-doing-it-live/)
+ - [Black Ops 6’s Best Ladra Loadout Optimizes Mobility And Momentum](https://kotaku.com/call-duty-black-ops-6-warzone-wz-ladra-attachments-1851781095)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
