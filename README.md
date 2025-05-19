@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Air&#39;s battery life could be the shortest in years](https://appleinsider.com/articles/25/05/18/iphone-17-airs-battery-life-could-be-the-shortest-in-years?utm_medium=rss)
- - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
- - [Circle to Search has a hidden trick every color lover should know about](https://www.androidauthority.com/circle-to-search-identify-color-3555574/)<!-- TECH:END -->
+ - [Q&amp;A with Jensen Huang on AI in the Middle East, the US Chip Diffusion rule, China, AI and GDP growth, Dynamo and full-stack Nvidia, enterprise, gaming, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250519/p13#a250519p13)
+ - [Google Maps’ alternate route suggestions are borked, with no fix in sight](https://www.androidauthority.com/google-maps-alternate-route-suggestions-missing-3558948/)
+ - [Daniel Moneta from the CSA talks Matter 1.4.1 on HomeKit Insider](https://appleinsider.com/articles/25/05/19/daniel-moneta-from-the-csa-talks-matter-141-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
