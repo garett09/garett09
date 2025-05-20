@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s Jen-Hsun Huang boasts that one spine of its new NVLink Fusion tech can &#39;move more traffic than the entire Internet&#39;](https://www.pcgamer.com/hardware/nvidias-jen-hsun-huang-boasts-that-one-spine-of-its-new-nvlink-fusion-tech-can-move-more-traffic-than-the-entire-internet/)
- - [Nvidia RTX 5060 review live: we&#39;ve been black-listed for this review, but I&#39;m a professional so we&#39;re doing this live!](https://www.pcgamer.com/hardware/live/news/nvidia-rtx-5060-review-doing-it-live/)
- - [Black Ops 6’s Best Ladra Loadout Optimizes Mobility And Momentum](https://kotaku.com/call-duty-black-ops-6-warzone-wz-ladra-attachments-1851781095)<!-- GAME:END -->
+ - [Rip And Tear These Ominous Wolf Statues In Doom: The Dark Ages&#39; &#39;Resurrection&#39; Level](https://kotaku.com/doom-dark-ages-wolf-statue-wraithstone-resurrection-1851781368)
+ - [Fight to save a doomed world in the Brazilian D&amp;#038;D 5e setting Skyfall](https://www.polygon.com/dnd-dungeons-dragons/600041/skyfall-brazilian-dnd-5e-setting-kickstarter)
+ - [Mission: Impossible&#39;s Secret Weapon Is Luther Stickell](https://kotaku.com/mission-impossible-luther-stickell-ving-rhames-mi8-1851781283)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
