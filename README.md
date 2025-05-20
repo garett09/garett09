@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Jensen Huang on AI in the Middle East, the US Chip Diffusion rule, China, AI and GDP growth, Dynamo and full-stack Nvidia, enterprise, gaming, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250519/p13#a250519p13)
- - [Google Maps’ alternate route suggestions are borked, with no fix in sight](https://www.androidauthority.com/google-maps-alternate-route-suggestions-missing-3558948/)
- - [Daniel Moneta from the CSA talks Matter 1.4.1 on HomeKit Insider](https://appleinsider.com/articles/25/05/19/daniel-moneta-from-the-csa-talks-matter-141-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [UK tech unicorn Builder.ai, backed by Microsoft, Qatar, and others, says it is entering insolvency proceedings due to financial and historic leadership issues &lpar;Financial Times&rpar;](http://www.techmeme.com/250520/p17#a250520p17)
+ - [Gravitee, which offers self-hosted and SaaS API management tools, raised a $60M Series C led by Sixth Street, taking its total funding to $125M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250520/p16#a250520p16)
+ - [Nearly half of streaming subscriptions are for plans with ads](https://www.theverge.com/news/670321/streaming-ad-supported-subscriptions-antenna-data)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
