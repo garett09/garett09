@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rip And Tear These Ominous Wolf Statues In Doom: The Dark Ages&#39; &#39;Resurrection&#39; Level](https://kotaku.com/doom-dark-ages-wolf-statue-wraithstone-resurrection-1851781368)
- - [Fight to save a doomed world in the Brazilian D&amp;#038;D 5e setting Skyfall](https://www.polygon.com/dnd-dungeons-dragons/600041/skyfall-brazilian-dnd-5e-setting-kickstarter)
- - [Mission: Impossible&#39;s Secret Weapon Is Luther Stickell](https://kotaku.com/mission-impossible-luther-stickell-ving-rhames-mi8-1851781283)<!-- GAME:END -->
+ - [How To Defeat The Tough-As-Nails Dualliste In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-dualliste-phase-2-verso-1851781495)
+ - [Is there any sword cooler than a living sword?](https://www.polygon.com/culture/600310/living-swords-in-games-rule)
+ - [Coming to Game Pass: Metaphor ReFantazio, The Division 2, Tales of Kenzera: Zau, and More](https://news.xbox.com/en-us/2025/05/21/xbox-game-pass-may-2025-wave-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
