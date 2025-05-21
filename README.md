@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Random seggs knowledge](http://9gag.com/gag/aND4bZr)
- - 🚯 [Never take dating advise from women\u2026 even your mom She\u2019s still a woman](http://9gag.com/gag/aVvLAXO)
- - 🚯 [Also, he doesn\u2019t belong to any political party. He scored 20% in the first round of elections and 54% in the second round. He\u2019s pro EU and single handedly beat the aggresive and favorite to win pro-russian opponent. Let\u2019s go Romania](http://9gag.com/gag/aW4b3xq)<!-- MEMES:END -->
+ - 🚖 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
+ - 🚯 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
+ - 🚯 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)<!-- MEMES:END -->
 
 --- 
 
