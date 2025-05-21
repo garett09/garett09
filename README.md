@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK tech unicorn Builder.ai, backed by Microsoft, Qatar, and others, says it is entering insolvency proceedings due to financial and historic leadership issues &lpar;Financial Times&rpar;](http://www.techmeme.com/250520/p17#a250520p17)
- - [Gravitee, which offers self-hosted and SaaS API management tools, raised a $60M Series C led by Sixth Street, taking its total funding to $125M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250520/p16#a250520p16)
- - [Nearly half of streaming subscriptions are for plans with ads](https://www.theverge.com/news/670321/streaming-ad-supported-subscriptions-antenna-data)<!-- TECH:END -->
+ - [The best alternatives to Adobe Photoshop, Illustrator, InDesign, and more](https://appleinsider.com/inside/mac/best/the-best-alternatives-to-adobe-photoshop-illustrator-indesign-and-more?utm_medium=rss)
+ - [Lyma Laser Review: Clinical Results Without the Clinic](https://www.wired.com/review/review-lyma-laser/)
+ - [Google is shrinking Pixel phones’ At a Glance widget](https://www.theverge.com/news/671539/at-a-glance-shrinks-google-pixel-widget-android-16-material-3-expressive)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
