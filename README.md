@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best alternatives to Adobe Photoshop, Illustrator, InDesign, and more](https://appleinsider.com/inside/mac/best/the-best-alternatives-to-adobe-photoshop-illustrator-indesign-and-more?utm_medium=rss)
- - [Lyma Laser Review: Clinical Results Without the Clinic](https://www.wired.com/review/review-lyma-laser/)
- - [Google is shrinking Pixel phones’ At a Glance widget](https://www.theverge.com/news/671539/at-a-glance-shrinks-google-pixel-widget-android-16-material-3-expressive)<!-- TECH:END -->
+ - [This retro gaming handheld can now livestream directly to Discord](https://www.androidauthority.com/modretro-chromatic-discord-streaming-3559908/)
+ - [LG’s Blazingly Brilliant G5 OLED Is the Pacesetter for Best TV of the Year](https://www.wired.com/review/lg-g5/)
+ - [A security researcher finds an exposed Elastic database with 184M records, including login credentials for Apple, Meta, Google, and others; its owner is unknown &lpar;Wired&rpar;](http://www.techmeme.com/250522/p21#a250522p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
