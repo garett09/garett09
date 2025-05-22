@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
- - 🚯 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
- - 🚯 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)<!-- MEMES:END -->
+ - 🚖 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
+ - 🚯 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
+ - 🚯 [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)<!-- MEMES:END -->
 
 --- 
 
