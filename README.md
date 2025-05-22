@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Defeat The Tough-As-Nails Dualliste In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-dualliste-phase-2-verso-1851781495)
- - [Is there any sword cooler than a living sword?](https://www.polygon.com/culture/600310/living-swords-in-games-rule)
- - [Coming to Game Pass: Metaphor ReFantazio, The Division 2, Tales of Kenzera: Zau, and More](https://news.xbox.com/en-us/2025/05/21/xbox-game-pass-may-2025-wave-2/)<!-- GAME:END -->
+ - [This retro PC case has a big red button and a turnkey and it hits me square in the chest with nostalgia](https://www.pcgamer.com/hardware/pc-cases/this-retro-pc-case-has-a-big-red-button-and-a-turnkey-and-it-hits-me-square-in-the-chest-with-nostalgia/)
+ - [Kingdom Hearts’ dual Keyblades, Oblivion and Oathkeeper, are the perfect analogy for its story](https://www.polygon.com/gaming/600663/kingdom-hearts-kh-best-keyblades-oblivion-oathkeeper)
+ - [Mission: Impossible&#39;s 19 Best Characters, Ranked By Irreplaceability](https://kotaku.com/mission-impossible-characters-luther-owen-ethan-ilsa-1851781537)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
