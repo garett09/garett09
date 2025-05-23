@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This retro PC case has a big red button and a turnkey and it hits me square in the chest with nostalgia](https://www.pcgamer.com/hardware/pc-cases/this-retro-pc-case-has-a-big-red-button-and-a-turnkey-and-it-hits-me-square-in-the-chest-with-nostalgia/)
- - [Kingdom Hearts’ dual Keyblades, Oblivion and Oathkeeper, are the perfect analogy for its story](https://www.polygon.com/gaming/600663/kingdom-hearts-kh-best-keyblades-oblivion-oathkeeper)
- - [Mission: Impossible&#39;s 19 Best Characters, Ranked By Irreplaceability](https://kotaku.com/mission-impossible-characters-luther-owen-ethan-ilsa-1851781537)<!-- GAME:END -->
+ - [Three Essential Things Oblivion Remastered Doesn’t Tell You](https://kotaku.com/oblivion-remastered-selling-stolen-goods-scaling-gates-1851781929)
+ - [Attack on Titan’s Global Impact Award is vindication after the undeserved backlash](https://www.polygon.com/opinion/601039/attack-on-titan-finale-backlash-crunchyroll-award)
+ - [The SteelSeries Arctis Nova Pro Wireless headset is now at the best price I&#39;ve seen at only $229](https://www.pcgamer.com/hardware/gaming-headsets/the-steelseries-arctis-nova-pro-wireless-headset-is-now-at-the-best-price-ive-seen-at-only-usd229/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
