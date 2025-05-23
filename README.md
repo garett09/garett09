@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
- - 🚯 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
- - 🚯 [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)<!-- MEMES:END -->
+ - 🚖 [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)
+ - 🚯 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 🚯 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)<!-- MEMES:END -->
 
 --- 
 
