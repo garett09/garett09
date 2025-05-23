@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This retro gaming handheld can now livestream directly to Discord](https://www.androidauthority.com/modretro-chromatic-discord-streaming-3559908/)
- - [LG’s Blazingly Brilliant G5 OLED Is the Pacesetter for Best TV of the Year](https://www.wired.com/review/lg-g5/)
- - [A security researcher finds an exposed Elastic database with 184M records, including login credentials for Apple, Meta, Google, and others; its owner is unknown &lpar;Wired&rpar;](http://www.techmeme.com/250522/p21#a250522p21)<!-- TECH:END -->
+ - [OpenAI and Jony Ive&amp;#8217;s AI super-gadget](https://www.theverge.com/the-vergecast/673453/openai-jony-ive-io-gadget-google-io-vergecast)
+ - [Sources: Foxconn is among potential bidders for Singapore-based semiconductor assembly and testing firm UTAC in a deal that could value the company at ~$3B &lpar;Kane Wu/Reuters&rpar;](http://www.techmeme.com/250523/p10#a250523p10)
+ - [Google’s next Pixel needs faster silicon, now that China is building beasts like this](https://www.androidauthority.com/xring-o1-vs-tensor-g5-3560358/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
