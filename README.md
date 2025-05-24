@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)
- - 🚯 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 🚯 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)<!-- MEMES:END -->
+ - 🚖 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - 🚯 [Wild Title](http://9gag.com/gag/aPAX4Dq)
+ - 🚯 [With airbags](http://9gag.com/gag/aD2XmvO)<!-- MEMES:END -->
 
 --- 
 
