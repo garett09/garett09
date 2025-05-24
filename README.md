@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Jony Ive&amp;#8217;s AI super-gadget](https://www.theverge.com/the-vergecast/673453/openai-jony-ive-io-gadget-google-io-vergecast)
- - [Sources: Foxconn is among potential bidders for Singapore-based semiconductor assembly and testing firm UTAC in a deal that could value the company at ~$3B &lpar;Kane Wu/Reuters&rpar;](http://www.techmeme.com/250523/p10#a250523p10)
- - [Google’s next Pixel needs faster silicon, now that China is building beasts like this](https://www.androidauthority.com/xring-o1-vs-tensor-g5-3560358/)<!-- TECH:END -->
+ - [X is down](https://www.theverge.com/news/674129/x-is-down-after-data-center-fire)
+ - [I took this crazy 6-year-old camera phone on vacation and remembered why I love it](https://www.androidauthority.com/nokia-9-pureview-camera-in-2025-3550207/)
+ - [Women&#39;s Champions League Final Soccer: Livestream Arsenal vs. Barcelona From Anywhere For Free](https://www.cnet.com/tech/services-and-software/womens-champions-league-final-soccer-livestream-arsenal-vs-barcelona-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
