@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Three Essential Things Oblivion Remastered Doesn’t Tell You](https://kotaku.com/oblivion-remastered-selling-stolen-goods-scaling-gates-1851781929)
- - [Attack on Titan’s Global Impact Award is vindication after the undeserved backlash](https://www.polygon.com/opinion/601039/attack-on-titan-finale-backlash-crunchyroll-award)
- - [The SteelSeries Arctis Nova Pro Wireless headset is now at the best price I&#39;ve seen at only $229](https://www.pcgamer.com/hardware/gaming-headsets/the-steelseries-arctis-nova-pro-wireless-headset-is-now-at-the-best-price-ive-seen-at-only-usd229/)<!-- GAME:END -->
+ - [Despelote might be the best game ever about childhood](https://www.polygon.com/review/601192/despelote-review-childhood-ecuador-football-sorry-soccer)
+ - [Fortnite Criticized For Use Of AI Darth Vader, Cyberpunk 2077 Sequel Will Introduce New City, And More Top Stories](https://kotaku.com/fortnite-darth-vader-ai-cyberpunk-2077-sequel-news-1851782185)
+ - [Netflix is losing these 5 great movies in June](https://www.polygon.com/movies/601216/best-movies-streaming-leaving-netflix-removed-june-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
