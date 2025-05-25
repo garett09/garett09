@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X is down](https://www.theverge.com/news/674129/x-is-down-after-data-center-fire)
- - [I took this crazy 6-year-old camera phone on vacation and remembered why I love it](https://www.androidauthority.com/nokia-9-pureview-camera-in-2025-3550207/)
- - [Women&#39;s Champions League Final Soccer: Livestream Arsenal vs. Barcelona From Anywhere For Free](https://www.cnet.com/tech/services-and-software/womens-champions-league-final-soccer-livestream-arsenal-vs-barcelona-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-2/)
+ - [I tested Garmin’s newest Smart Wake feature, and I’m just as tired as ever](https://www.androidauthority.com/garmin-vivoactive-6-smart-wake-alarm-3558403/)
+ - [Real-world map data is helping make better games about farms and transportation](https://www.theverge.com/games/672035/openstreetmap-data-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
