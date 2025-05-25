@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
- - 🚯 [Wild Title](http://9gag.com/gag/aPAX4Dq)
- - 🚯 [With airbags](http://9gag.com/gag/aD2XmvO)<!-- MEMES:END -->
+ - 🚖 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
+ - 🚯 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
+ - 🚯 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
 
 --- 
 
