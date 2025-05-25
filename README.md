@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Despelote might be the best game ever about childhood](https://www.polygon.com/review/601192/despelote-review-childhood-ecuador-football-sorry-soccer)
- - [Fortnite Criticized For Use Of AI Darth Vader, Cyberpunk 2077 Sequel Will Introduce New City, And More Top Stories](https://kotaku.com/fortnite-darth-vader-ai-cyberpunk-2077-sequel-news-1851782185)
- - [Netflix is losing these 5 great movies in June](https://www.polygon.com/movies/601216/best-movies-streaming-leaving-netflix-removed-june-2025)<!-- GAME:END -->
+ - [This AI-generated Fortnite video is a bleak glimpse at our future](https://www.polygon.com/analysis/600961/ai-fortnite-flow-veo)
+ - [The Week&#39;s Top Tips For Doom: The Dark Ages, Clair Obscur, Oblivion Remastered, And More](https://kotaku.com/doom-dark-ages-wolf-statues-oblivion-remastered-tips-1851782186)
+ - [Helldivers 2 player embraces their inner Lisan al-Gaib, discovering a way to surf on the back of the game&#39;s giant floating Leviathans: &#39;I spent longer than I would like to admit setting this up&#39;](https://www.pcgamer.com/games/action/helldivers-2-player-embraces-their-inner-lisan-al-gaib-discovering-a-way-to-surf-on-the-back-of-the-games-giant-floating-leviathans-i-spent-longer-than-i-would-like-to-admit-setting-this-up/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
