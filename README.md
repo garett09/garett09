@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-2/)
- - [I tested Garmin’s newest Smart Wake feature, and I’m just as tired as ever](https://www.androidauthority.com/garmin-vivoactive-6-smart-wake-alarm-3558403/)
- - [Real-world map data is helping make better games about farms and transportation](https://www.theverge.com/games/672035/openstreetmap-data-games)<!-- TECH:END -->
+ - [Wobkey Rainy 75 Pro review: An excellent starter mechanical keyboard](https://appleinsider.com/articles/25/05/26/wobkey-rainy-75-pro-review-an-excellent-starter-mechanical-keyboard?utm_medium=rss)
+ - [Nintendo&amp;#8217;s bold new era is full of safe bets](https://www.theverge.com/nintendo/671949/nintendo-switch-2-era-risks)
+ - [Spotify is trying out a new way to help you find fresh music](https://www.androidauthority.com/spotify-sub-genre-chips-test-3561238/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
