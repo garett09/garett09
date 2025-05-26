@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This AI-generated Fortnite video is a bleak glimpse at our future](https://www.polygon.com/analysis/600961/ai-fortnite-flow-veo)
- - [The Week&#39;s Top Tips For Doom: The Dark Ages, Clair Obscur, Oblivion Remastered, And More](https://kotaku.com/doom-dark-ages-wolf-statues-oblivion-remastered-tips-1851782186)
- - [Helldivers 2 player embraces their inner Lisan al-Gaib, discovering a way to surf on the back of the game&#39;s giant floating Leviathans: &#39;I spent longer than I would like to admit setting this up&#39;](https://www.pcgamer.com/games/action/helldivers-2-player-embraces-their-inner-lisan-al-gaib-discovering-a-way-to-surf-on-the-back-of-the-games-giant-floating-leviathans-i-spent-longer-than-i-would-like-to-admit-setting-this-up/)<!-- GAME:END -->
+ - [Oblivion Remastered is great and all, but Morrowind remains the Bethesda RPG that I could play forever](https://www.pcgamer.com/games/rpg/oblivion-remastered-is-great-and-all-but-morrowind-remains-the-bethesda-rpg-that-i-could-play-forever/)
+ - [It turns out the gigantic rats you have to kill in so many RPG quests are totally real, and now I need to apologise to RPG designers](https://www.pcgamer.com/games/rpg/it-turns-out-the-gigantic-rats-you-have-to-kill-in-so-many-rpg-quests-are-totally-real-and-now-i-need-to-apologise-to-rpg-designers/)
+ - [Escape from Duckov is coming back with a new demo](https://www.pcgamer.com/games/survival-crafting/escape-from-duckov-is-coming-back-with-a-new-demo/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
