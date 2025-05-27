@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oblivion Remastered is great and all, but Morrowind remains the Bethesda RPG that I could play forever](https://www.pcgamer.com/games/rpg/oblivion-remastered-is-great-and-all-but-morrowind-remains-the-bethesda-rpg-that-i-could-play-forever/)
- - [It turns out the gigantic rats you have to kill in so many RPG quests are totally real, and now I need to apologise to RPG designers](https://www.pcgamer.com/games/rpg/it-turns-out-the-gigantic-rats-you-have-to-kill-in-so-many-rpg-quests-are-totally-real-and-now-i-need-to-apologise-to-rpg-designers/)
- - [Escape from Duckov is coming back with a new demo](https://www.pcgamer.com/games/survival-crafting/escape-from-duckov-is-coming-back-with-a-new-demo/)<!-- GAME:END -->
+ - [Nintendo Blocking Fans From Sharing Switch 2 Footage From Its News App](https://kotaku.com/nintendo-today-switch-2-sharing-donkey-kong-bananza-1851782404)
+ - [A fabric-covered PC case was not on my Computex 2025 bingo card but I&#39;m surprisingly into it](https://www.pcgamer.com/hardware/pc-cases/a-fabric-covered-pc-case-was-not-on-my-computex-2025-bingo-card-but-im-surprisingly-into-it/)
+ - [Days of Play 2025 comes to PlayStation Store May 28](https://blog.playstation.com/2025/05/27/days-of-play-2025-comes-to-playstation-store-may-28/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
