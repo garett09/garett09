@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wobkey Rainy 75 Pro review: An excellent starter mechanical keyboard](https://appleinsider.com/articles/25/05/26/wobkey-rainy-75-pro-review-an-excellent-starter-mechanical-keyboard?utm_medium=rss)
- - [Nintendo&amp;#8217;s bold new era is full of safe bets](https://www.theverge.com/nintendo/671949/nintendo-switch-2-era-risks)
- - [Spotify is trying out a new way to help you find fresh music](https://www.androidauthority.com/spotify-sub-genre-chips-test-3561238/)<!-- TECH:END -->
+ - [Nothing CEO takes shots at Apple, ludicrously says that apps are going away](https://appleinsider.com/articles/25/05/27/nothing-ceo-takes-shots-at-apple-ludicrously-says-that-apps-are-going-away?utm_medium=rss)
+ - [Shein’s ‘fake discounts’ break the law, EU says](https://www.theverge.com/news/674575/shein-fake-discounts-eu-consumer-protection-law)
+ - [Inside the Meta monopoly trial](https://www.theverge.com/the-vergecast/674550/meta-antitrust-trial-monopoly-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
