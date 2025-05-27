@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The commitment is real](http://9gag.com/gag/aLnXD56)
- - 🚯 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
- - 🚯 [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)<!-- MEMES:END -->
+ - 🚖 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
+ - 🚯 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
+ - 🚯 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)<!-- MEMES:END -->
 
 --- 
 
