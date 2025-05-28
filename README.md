@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Blocking Fans From Sharing Switch 2 Footage From Its News App](https://kotaku.com/nintendo-today-switch-2-sharing-donkey-kong-bananza-1851782404)
- - [A fabric-covered PC case was not on my Computex 2025 bingo card but I&#39;m surprisingly into it](https://www.pcgamer.com/hardware/pc-cases/a-fabric-covered-pc-case-was-not-on-my-computex-2025-bingo-card-but-im-surprisingly-into-it/)
- - [Days of Play 2025 comes to PlayStation Store May 28](https://blog.playstation.com/2025/05/27/days-of-play-2025-comes-to-playstation-store-may-28/)<!-- GAME:END -->
+ - [Pokémon Legends Z-A Comes Out In October, With $10 Upgrade For Switch 2](https://kotaku.com/pokemon-z-a-game-freak-switch-2-upgrade-fee-kalos-1851782651)
+ - [China has held the world&#39;s first robot martial arts tournament and I can&#39;t think of a single thing that could possibly go wrong](https://www.pcgamer.com/hardware/china-has-held-the-worlds-first-robot-martial-arts-tournament-and-i-cant-think-of-a-single-thing-that-could-possibly-go-wrong/)
+ - [This C9 10MM Loadout Dominates Black Ops 6 and Warzone&#39;s Close-Quarters Game](https://kotaku.com/black-ops-6-warzone-wz-cod-c9-smg-best-attachments-perk-1851782549)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
