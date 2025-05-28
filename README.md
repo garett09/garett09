@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing CEO takes shots at Apple, ludicrously says that apps are going away](https://appleinsider.com/articles/25/05/27/nothing-ceo-takes-shots-at-apple-ludicrously-says-that-apps-are-going-away?utm_medium=rss)
- - [Shein’s ‘fake discounts’ break the law, EU says](https://www.theverge.com/news/674575/shein-fake-discounts-eu-consumer-protection-law)
- - [Inside the Meta monopoly trial](https://www.theverge.com/the-vergecast/674550/meta-antitrust-trial-monopoly-vergecast)<!-- TECH:END -->
+ - [Discord unveils Discord Orbs, a new in-app currency in beta that users can earn by completing Quests, which reward participants who interact with ads &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250528/p24#a250528p24)
+ - [iPhone 16 leads global smartphone sales while cheap Androids fight for share](https://appleinsider.com/articles/25/05/28/iphone-16-leads-global-smartphone-sales-while-cheap-androids-fight-for-share?utm_medium=rss)
+ - [Jackery&#39;s HomePower 3000 gets you through the storm with essential home power backup](https://appleinsider.com/articles/25/05/28/jackerys-homepower-3000-gets-you-through-the-storm-with-essential-home-power-backup?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
