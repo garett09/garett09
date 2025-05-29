@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends Z-A Comes Out In October, With $10 Upgrade For Switch 2](https://kotaku.com/pokemon-z-a-game-freak-switch-2-upgrade-fee-kalos-1851782651)
- - [China has held the world&#39;s first robot martial arts tournament and I can&#39;t think of a single thing that could possibly go wrong](https://www.pcgamer.com/hardware/china-has-held-the-worlds-first-robot-martial-arts-tournament-and-i-cant-think-of-a-single-thing-that-could-possibly-go-wrong/)
- - [This C9 10MM Loadout Dominates Black Ops 6 and Warzone&#39;s Close-Quarters Game](https://kotaku.com/black-ops-6-warzone-wz-cod-c9-smg-best-attachments-perk-1851782549)<!-- GAME:END -->
+ - [How To Become A Competitor Of Cosmic Proportions With Marvel Rivals&#39; Adam Warlock](https://kotaku.com/marvel-rivals-adam-warlock-guide-ultimate-strategist-1851782854)
+ - [A Tour Through the Breathtaking World of Metaphor: ReFantazio, Available Today with Game Pass](https://news.xbox.com/en-us/2025/05/29/tour-breathtaking-world-of-metaphor-refantazio/)
+ - [GeForce Now finally gets a native app for the Steam Deck, solving what was our biggest complaint with the streaming service on Valve&#39;s plucky handheld](https://www.pcgamer.com/hardware/geforce-now-finally-gets-a-native-app-on-steam-deck-solving-our-biggest-complaint-with-the-streaming-service-on-valves-plucky-handheld/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
