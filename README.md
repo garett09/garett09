@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord unveils Discord Orbs, a new in-app currency in beta that users can earn by completing Quests, which reward participants who interact with ads &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250528/p24#a250528p24)
- - [iPhone 16 leads global smartphone sales while cheap Androids fight for share](https://appleinsider.com/articles/25/05/28/iphone-16-leads-global-smartphone-sales-while-cheap-androids-fight-for-share?utm_medium=rss)
- - [Jackery&#39;s HomePower 3000 gets you through the storm with essential home power backup](https://appleinsider.com/articles/25/05/28/jackerys-homepower-3000-gets-you-through-the-storm-with-essential-home-power-backup?utm_medium=rss)<!-- TECH:END -->
+ - [NYT and Amazon agree to a content licensing deal for use in Amazon&#39;s AI platforms and to bring the NYT&#39;s &quot;content to a variety of Amazon customer experiences&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250529/p27#a250529p27)
+ - [The best use cases for each ChatGPT model](https://www.androidauthority.com/chat-gpt-model-guide-3558568/)
+ - [Tested: Nvidia’s GeForce Now just breathed new life into my Steam Deck](https://www.theverge.com/pc-gaming/676167/nvidia-geforce-now-steam-deck-test-hands-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
