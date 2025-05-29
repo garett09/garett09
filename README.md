@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)
- - 🚯 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
- - 🚯 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)<!-- MEMES:END -->
+ - 🚖 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
+ - 🚯 [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - 🚯 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
 
 --- 
 
