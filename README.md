@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYT and Amazon agree to a content licensing deal for use in Amazon&#39;s AI platforms and to bring the NYT&#39;s &quot;content to a variety of Amazon customer experiences&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250529/p27#a250529p27)
- - [The best use cases for each ChatGPT model](https://www.androidauthority.com/chat-gpt-model-guide-3558568/)
- - [Tested: Nvidia’s GeForce Now just breathed new life into my Steam Deck](https://www.theverge.com/pc-gaming/676167/nvidia-geforce-now-steam-deck-test-hands-on)<!-- TECH:END -->
+ - [Inside Apple Health - How your iPhone keeps track of your vitals](https://appleinsider.com/articles/25/05/30/inside-apple-health---how-your-iphone-keeps-track-of-your-vitals?utm_medium=rss)
+ - [Fur Trim System Review: Simple, Pain-Free Body Hair Removal](https://www.wired.com/review/fur-trim-system/)
+ - [President Trump lashes out at China for violating new trade agreement](https://appleinsider.com/articles/25/05/30/president-trump-lashes-out-at-china-for-violating-new-trade-agreement?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
