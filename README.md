@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Become A Competitor Of Cosmic Proportions With Marvel Rivals&#39; Adam Warlock](https://kotaku.com/marvel-rivals-adam-warlock-guide-ultimate-strategist-1851782854)
- - [A Tour Through the Breathtaking World of Metaphor: ReFantazio, Available Today with Game Pass](https://news.xbox.com/en-us/2025/05/29/tour-breathtaking-world-of-metaphor-refantazio/)
- - [GeForce Now finally gets a native app for the Steam Deck, solving what was our biggest complaint with the streaming service on Valve&#39;s plucky handheld](https://www.pcgamer.com/hardware/geforce-now-finally-gets-a-native-app-on-steam-deck-solving-our-biggest-complaint-with-the-streaming-service-on-valves-plucky-handheld/)<!-- GAME:END -->
+ - [Elden Ring Nightreign&#39;s best feature is its extra mobility—but it&#39;s not even that good, and Sekiro does it better](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-best-feature-is-its-extra-mobility-but-its-not-even-that-good-and-sekiro-does-it-better/)
+ - [Atomfall Story Expansion Arrives Next Week – Dare You Visit Wicked Isle?](https://news.xbox.com/en-us/2025/05/30/atomfall-story-expansion-wicked-isle/)
+ - [Clair Obscur: Expedition 33&amp;#8217;s story hits even harder the second time around](https://www.polygon.com/opinion/602333/clair-obscur-expedition-33-story-replay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
