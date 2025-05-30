@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
- - 🚯 [What a surprise...](http://9gag.com/gag/a6Zp14e)
- - 🚯 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
+ - 🚖 [Relaxing on the bottom shelf.](http://9gag.com/gag/aqyzX4M)
+ - 🚯 [What is an immigrant](http://9gag.com/gag/abA2vKL)
+ - 🚯 [Marry her](http://9gag.com/gag/aoy8Wbg)<!-- MEMES:END -->
 
 --- 
 
