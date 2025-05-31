@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple Health - How your iPhone keeps track of your vitals](https://appleinsider.com/articles/25/05/30/inside-apple-health---how-your-iphone-keeps-track-of-your-vitals?utm_medium=rss)
- - [Fur Trim System Review: Simple, Pain-Free Body Hair Removal](https://www.wired.com/review/fur-trim-system/)
- - [President Trump lashes out at China for violating new trade agreement](https://appleinsider.com/articles/25/05/30/president-trump-lashes-out-at-china-for-violating-new-trade-agreement?utm_medium=rss)<!-- TECH:END -->
+ - [Staples Union &amp; Scale Electric Standing Desk Review: Micro Movements](https://www.wired.com/review/staples-union-and-scale-electric-standing-desk-with-micro-movements/)
+ - [I switched to indie apps for privacy, and now my workflow is a mess](https://www.androidauthority.com/i-switched-to-indie-apps-for-privacy-and-now-my-workflow-is-a-mess-3559712/)
+ - [The Switch 2&amp;#8217;s promising start hides an uncertain future](https://www.theverge.com/games/677301/the-switch-2s-promising-start-hides-an-uncertain-future)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
