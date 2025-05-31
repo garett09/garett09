@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relaxing on the bottom shelf.](http://9gag.com/gag/aqyzX4M)
- - 🚯 [What is an immigrant](http://9gag.com/gag/abA2vKL)
- - 🚯 [Marry her](http://9gag.com/gag/aoy8Wbg)<!-- MEMES:END -->
+ - 🚖 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
+ - 🚯 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
+ - 🚯 [Friendship -10%](http://9gag.com/gag/aZZ2139)<!-- MEMES:END -->
 
 --- 
 
