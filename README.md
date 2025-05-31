@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign&#39;s best feature is its extra mobility—but it&#39;s not even that good, and Sekiro does it better](https://www.pcgamer.com/games/rpg/elden-ring-nightreigns-best-feature-is-its-extra-mobility-but-its-not-even-that-good-and-sekiro-does-it-better/)
- - [Atomfall Story Expansion Arrives Next Week – Dare You Visit Wicked Isle?](https://news.xbox.com/en-us/2025/05/30/atomfall-story-expansion-wicked-isle/)
- - [Clair Obscur: Expedition 33&amp;#8217;s story hits even harder the second time around](https://www.polygon.com/opinion/602333/clair-obscur-expedition-33-story-replay)<!-- GAME:END -->
+ - [Is Nightreign Solo Play Really Impossible?](https://kotaku.com/elden-ring-nightreign-play-solo-guide-best-character-1851783198)
+ - [Be Sure To Bring Fire To The Fight Against Caligo In Nightreign](https://kotaku.com/elden-ring-nightreign-caligo-boss-battle-ice-fire-1851783191)
+ - [When making lots of small games is more sustainable than making one big one](https://www.polygon.com/features/602124/strange-scaffold-xalavier-nelson-jr-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
