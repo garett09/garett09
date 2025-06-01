@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Staples Union &amp; Scale Electric Standing Desk Review: Micro Movements](https://www.wired.com/review/staples-union-and-scale-electric-standing-desk-with-micro-movements/)
- - [I switched to indie apps for privacy, and now my workflow is a mess](https://www.androidauthority.com/i-switched-to-indie-apps-for-privacy-and-now-my-workflow-is-a-mess-3559712/)
- - [The Switch 2&amp;#8217;s promising start hides an uncertain future](https://www.theverge.com/games/677301/the-switch-2s-promising-start-hides-an-uncertain-future)<!-- TECH:END -->
+ - [Here are 15 of my favorite Google Pixel wallpapers of all time](https://www.androidauthority.com/favorite-google-pixel-wallpapers-3561457/)
+ - [macOS 26 rumored to be called &#39;Tahoe&#39;](https://appleinsider.com/articles/25/06/01/macos-26-rumored-to-be-called-tahoe?utm_medium=rss)
+ - [Lighter than normal WWDC expected without significant Apple Intelligence uprgrades](https://appleinsider.com/articles/25/06/01/lighter-than-normal-wwdc-expected-without-significant-apple-intelligence-uprgrades?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
