@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
- - 🚯 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
- - 🚯 [Friendship -10%](http://9gag.com/gag/aZZ2139)<!-- MEMES:END -->
+ - 🚖 [Deadpool celebrating the gaming industry bloodbath, except for that one game.](http://9gag.com/gag/a5QjGDG)
+ - 🚯 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
+ - 🚯 [No one will ever believe you](http://9gag.com/gag/aE0XAVK)<!-- MEMES:END -->
 
 --- 
 
