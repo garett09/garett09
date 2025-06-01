@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Is Nightreign Solo Play Really Impossible?](https://kotaku.com/elden-ring-nightreign-play-solo-guide-best-character-1851783198)
- - [Be Sure To Bring Fire To The Fight Against Caligo In Nightreign](https://kotaku.com/elden-ring-nightreign-caligo-boss-battle-ice-fire-1851783191)
- - [When making lots of small games is more sustainable than making one big one](https://www.polygon.com/features/602124/strange-scaffold-xalavier-nelson-jr-interview)<!-- GAME:END -->
+ - [PowerWash Simulator&#39;s last free update is out now, letting you scrub up a subway train and polish a sculpture park](https://www.pcgamer.com/games/sim/powerwash-simulators-last-free-update-is-out-now-letting-you-scrub-up-a-subway-train-and-polish-a-sculpture-park/)
+ - [The 2-year hunt for ‘one of the rarest games in history’](https://www.polygon.com/features/602220/cosmology-of-kyoto-tripitaka-rarest-game-history)
+ - [This gravity-defying dungeon crawler is basically Legend of Grimrock meets Portal, and while the trailer had me dizzy, the demo made me feel like a genius](https://www.pcgamer.com/games/puzzle/this-gravity-defying-dungeon-crawler-is-basically-legend-of-grimrock-meets-portal-and-while-the-trailer-had-me-dizzy-the-demo-made-me-feel-like-a-genius/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
