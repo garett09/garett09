@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 15 of my favorite Google Pixel wallpapers of all time](https://www.androidauthority.com/favorite-google-pixel-wallpapers-3561457/)
- - [macOS 26 rumored to be called &#39;Tahoe&#39;](https://appleinsider.com/articles/25/06/01/macos-26-rumored-to-be-called-tahoe?utm_medium=rss)
- - [Lighter than normal WWDC expected without significant Apple Intelligence uprgrades](https://appleinsider.com/articles/25/06/01/lighter-than-normal-wwdc-expected-without-significant-apple-intelligence-uprgrades?utm_medium=rss)<!-- TECH:END -->
+ - [MelGeek O2 mechanical keyboard review: Hardware sticks the landing, software is terrible](https://appleinsider.com/articles/25/06/02/melgeek-o2-mechanical-keyboard-review-hardware-sticks-the-landing-software-is-terrible?utm_medium=rss)
+ - [Filing: neobank Chime plans to sell 26M shares in its IPO at $24 to $26, giving it a valuation between $10.3B and $11.1B; its two co-founders own 4% to 5% each &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250602/p13#a250602p13)
+ - [14 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
