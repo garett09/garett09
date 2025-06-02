@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deadpool celebrating the gaming industry bloodbath, except for that one game.](http://9gag.com/gag/a5QjGDG)
- - 🚯 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
- - 🚯 [No one will ever believe you](http://9gag.com/gag/aE0XAVK)<!-- MEMES:END -->
+ - 🚖 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
+ - 🚯 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
+ - 🚯 [I&#39;m shocked. SHOCKED!](http://9gag.com/gag/a34WWL3)<!-- MEMES:END -->
 
 --- 
 
