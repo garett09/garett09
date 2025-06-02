@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PowerWash Simulator&#39;s last free update is out now, letting you scrub up a subway train and polish a sculpture park](https://www.pcgamer.com/games/sim/powerwash-simulators-last-free-update-is-out-now-letting-you-scrub-up-a-subway-train-and-polish-a-sculpture-park/)
- - [The 2-year hunt for ‘one of the rarest games in history’](https://www.polygon.com/features/602220/cosmology-of-kyoto-tripitaka-rarest-game-history)
- - [This gravity-defying dungeon crawler is basically Legend of Grimrock meets Portal, and while the trailer had me dizzy, the demo made me feel like a genius](https://www.pcgamer.com/games/puzzle/this-gravity-defying-dungeon-crawler-is-basically-legend-of-grimrock-meets-portal-and-while-the-trailer-had-me-dizzy-the-demo-made-me-feel-like-a-genius/)<!-- GAME:END -->
+ - [American RuneScape players are recreating the Boston Tea Party after Jagex hiked taxes: &#39;They took a page from the British Empire, rather poetic from a British game&#39;](https://www.pcgamer.com/games/mmo/american-old-school-runescape-players-are-recreating-the-boston-tea-party-after-jagex-hiked-taxes-they-took-a-page-from-the-british-empire-rather-poetic-from-a-british-game/)
+ - [This cult science fiction book is the only novel that really got AI right](https://www.polygon.com/ai-artificial-intelligence/602661/best-science-fiction-book-about-ai-analysis-john-varley-steel-beach)
+ - [How to Watch the Xbox Games Showcase and The Outer Worlds 2 Direct on Sunday](https://news.xbox.com/en-us/2025/06/02/xbox-games-showcase-2025-outer-worlds-2-direct-how-to-watch/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
