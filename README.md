@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MelGeek O2 mechanical keyboard review: Hardware sticks the landing, software is terrible](https://appleinsider.com/articles/25/06/02/melgeek-o2-mechanical-keyboard-review-hardware-sticks-the-landing-software-is-terrible?utm_medium=rss)
- - [Filing: neobank Chime plans to sell 26M shares in its IPO at $24 to $26, giving it a valuation between $10.3B and $11.1B; its two co-founders own 4% to 5% each &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250602/p13#a250602p13)
- - [14 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
+ - [Adobe launches a Photoshop app for Android in beta for devices running Android 11 or later with 6GB+ of RAM, including core desktop features like layering &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250603/p18#a250603p18)
+ - [Huawei Pura X review: the ~$1,050, China-only clamshell is Huawei&#39;s first flagship running HarmonyOS 5, with novel ergonomics and an incomplete app ecosystem &lpar;Bloomberg&rpar;](http://www.techmeme.com/250603/p17#a250603p17)
+ - [Nvidia&amp;#8217;s app now has a light mode if you want to be flash banged](https://www.theverge.com/news/678510/nvidia-app-windows-light-mode-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
