@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [American RuneScape players are recreating the Boston Tea Party after Jagex hiked taxes: &#39;They took a page from the British Empire, rather poetic from a British game&#39;](https://www.pcgamer.com/games/mmo/american-old-school-runescape-players-are-recreating-the-boston-tea-party-after-jagex-hiked-taxes-they-took-a-page-from-the-british-empire-rather-poetic-from-a-british-game/)
- - [This cult science fiction book is the only novel that really got AI right](https://www.polygon.com/ai-artificial-intelligence/602661/best-science-fiction-book-about-ai-analysis-john-varley-steel-beach)
- - [How to Watch the Xbox Games Showcase and The Outer Worlds 2 Direct on Sunday](https://news.xbox.com/en-us/2025/06/02/xbox-games-showcase-2025-outer-worlds-2-direct-how-to-watch/)<!-- GAME:END -->
+ - [Sony announces new State of Play showcase for June 4](https://www.polygon.com/news/603104/sony-playstation-state-of-play-june-2025-start-time)
+ - [Yes, You Can And Should Smash Up These Statues In Nightreign](https://kotaku.com/elden-ring-nightreign-break-statues-loot-ultimate-art-1851783381)
+ - [Nintendo Appears To Be Shipping Stores &#39;Out Of Stock&#39; Signs For Switch 2](https://kotaku.com/nintendo-switch-2-out-of-stock-pre-orders-launch-1851783435)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
