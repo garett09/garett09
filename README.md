@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - 🚯 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
- - 🚯 [I&#39;m shocked. SHOCKED!](http://9gag.com/gag/a34WWL3)<!-- MEMES:END -->
+ - 🚖 [Blud only took 3 seconds to turncoat](http://9gag.com/gag/aZZ2RMV)
+ - 🚯 [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)
+ - 🚯 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)<!-- MEMES:END -->
 
 --- 
 
