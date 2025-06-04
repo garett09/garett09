@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe launches a Photoshop app for Android in beta for devices running Android 11 or later with 6GB+ of RAM, including core desktop features like layering &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250603/p18#a250603p18)
- - [Huawei Pura X review: the ~$1,050, China-only clamshell is Huawei&#39;s first flagship running HarmonyOS 5, with novel ergonomics and an incomplete app ecosystem &lpar;Bloomberg&rpar;](http://www.techmeme.com/250603/p17#a250603p17)
- - [Nvidia&amp;#8217;s app now has a light mode if you want to be flash banged](https://www.theverge.com/news/678510/nvidia-app-windows-light-mode-features)<!-- TECH:END -->
+ - [ChatGPT-4o, Claude 3.7 Sonnet, Gemini 2.0 Flash, Llama 4, and Copilot comparison: Claude was the best overall with the highest consistency and no hallucinations &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/250604/p19#a250604p19)
+ - [Roborock’s $2,600 robot vacuum with a mechanical arm is an incredible flex with a weird price tag](https://www.androidauthority.com/roborock-saros-z70-review-3558359/)
+ - [You can now ask Google Drive to catch you up on file changes your colleagues made](https://www.androidauthority.com/google-drive-catch-me-up-3564088/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
