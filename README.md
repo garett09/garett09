@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign Darkdrift Knight boss guide: How to beat Fulghor](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-fulghor-boss-guide-darkdrift-knight/)
- - [AMD Radeon RX 9060 XT 16 GB review &lpar;XFX Swift&rpar;](https://www.pcgamer.com/hardware/graphics-cards/amd-radeon-rx-9060-xt-16-gb-review-xfx-swift/)
- - [Gran Turismo World Series 2025 Round 1 takes place in London this Saturday](https://blog.playstation.com/2025/06/04/gran-turismo-world-series-2025-round-1-takes-place-in-london-this-saturday/)<!-- GAME:END -->
+ - [Fill the Marathon-shaped hole in your life with Supplice, the best prog-heavy boomer shooter you&#39;ve never heard of](https://www.pcgamer.com/games/fps/fill-the-marathon-shaped-hole-in-your-life-with-supplice-the-best-prog-heavy-boomer-shooter-youve-never-heard-of/)
+ - [Elden Ring Nightreign: A Beginner&#39;s Guide To Mastering Recluse](https://kotaku.com/elden-ring-nightreign-recluse-magic-fp-residue-cocktail-1851783591)
+ - [Final Fantasy Tactics Is One Of The Best Games Ever And It&#39;s Getting A Remaster This September](https://kotaku.com/final-fantasy-tactics-remake-switch-2-ps5-2d-hd-1851783601)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
