@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT-4o, Claude 3.7 Sonnet, Gemini 2.0 Flash, Llama 4, and Copilot comparison: Claude was the best overall with the highest consistency and no hallucinations &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/250604/p19#a250604p19)
- - [Roborock’s $2,600 robot vacuum with a mechanical arm is an incredible flex with a weird price tag](https://www.androidauthority.com/roborock-saros-z70-review-3558359/)
- - [You can now ask Google Drive to catch you up on file changes your colleagues made](https://www.androidauthority.com/google-drive-catch-me-up-3564088/)<!-- TECH:END -->
+ - [OpenAI says it disrupted 10 malicious operations in the past three months, including four that likely originated in China and targeted multiple countries &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/250605/p24#a250605p24)
+ - [Best Bike Lights, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bike-lights/)
+ - [App Store contributed $1.3 trillion to global economy in 2024](https://appleinsider.com/articles/25/06/05/app-store-contributed-13-trillion-to-global-economy-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
