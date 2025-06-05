@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are they even human?](http://9gag.com/gag/abA2E0X)
- - 🚯 [War](http://9gag.com/gag/a5Qj5DL)
- - 🚯 [The troll toll](http://9gag.com/gag/aW42RvA)<!-- MEMES:END -->
+ - 🚖 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
+ - 🚯 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
+ - 🚯 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)<!-- MEMES:END -->
 
 --- 
 
