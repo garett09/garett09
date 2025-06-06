@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fill the Marathon-shaped hole in your life with Supplice, the best prog-heavy boomer shooter you&#39;ve never heard of](https://www.pcgamer.com/games/fps/fill-the-marathon-shaped-hole-in-your-life-with-supplice-the-best-prog-heavy-boomer-shooter-youve-never-heard-of/)
- - [Elden Ring Nightreign: A Beginner&#39;s Guide To Mastering Recluse](https://kotaku.com/elden-ring-nightreign-recluse-magic-fp-residue-cocktail-1851783591)
- - [Final Fantasy Tactics Is One Of The Best Games Ever And It&#39;s Getting A Remaster This September](https://kotaku.com/final-fantasy-tactics-remake-switch-2-ps5-2d-hd-1851783601)<!-- GAME:END -->
+ - [How to play Monopoly GO on PC](https://www.pcgamer.com/games/board-games/how-to-play-monopoly-go-on-pc/)
+ - [Genshin Impact version 5.7 livestream codes](https://www.polygon.com/genshin-impact-guides/602961/5-7-livestream-codes-redeem-primogems)
+ - [Genshin Impact Version 5.7 arrives with Skirk on June 18](https://blog.playstation.com/2025/06/06/genshin-impact-version-5-7-arrives-with-skirk-on-june-18/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
