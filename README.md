@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
- - 🚯 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - 🚯 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)<!-- MEMES:END -->
+ - 🚖 [That dog was like `you just saw that too right?`](http://9gag.com/gag/aQz2N2w)
+ - 🚯 [Mic drop](http://9gag.com/gag/axyP8wM)
+ - 🚯 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
 
 --- 
 
