@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it disrupted 10 malicious operations in the past three months, including four that likely originated in China and targeted multiple countries &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/250605/p24#a250605p24)
- - [Best Bike Lights, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bike-lights/)
- - [App Store contributed $1.3 trillion to global economy in 2024](https://appleinsider.com/articles/25/06/05/app-store-contributed-13-trillion-to-global-economy-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Worried about stick drift? This Switch 2 Joy Con teardown doesn’t bring good news](https://www.androidauthority.com/switch-2-joy-con-teardown-drift-3564948/)
+ - [The Samsung Galaxy S25 Edge is a big phone with small phone energy](https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen)
+ - [How to maximize your privacy using Signal calls and chat](https://www.theverge.com/tech/680712/signal-how-to-call-chat-username-privacy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
