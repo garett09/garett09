@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worried about stick drift? This Switch 2 Joy Con teardown doesn’t bring good news](https://www.androidauthority.com/switch-2-joy-con-teardown-drift-3564948/)
- - [The Samsung Galaxy S25 Edge is a big phone with small phone energy](https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen)
- - [How to maximize your privacy using Signal calls and chat](https://www.theverge.com/tech/680712/signal-how-to-call-chat-username-privacy)<!-- TECH:END -->
+ - [Here are 5 ways I actually use the cover screen on my Motorola Razr](https://www.androidauthority.com/motorola-razr-cover-screen-uses-3560964/)
+ - [Tech Up Your Sourdough With These Upper-Crust Baking Gadgets](https://www.wired.com/story/sourdough-baking-gadgets-sourdough-home-sourdough-sidekick-doughbed/)
+ - [There are only two commissioners left at the FCC](https://www.theverge.com/policy/681638/fcc-quorum-starks-simington-departure-brendan-carr)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
