@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That dog was like `you just saw that too right?`](http://9gag.com/gag/aQz2N2w)
- - 🚯 [Mic drop](http://9gag.com/gag/axyP8wM)
- - 🚯 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
+ - 🚖 [Congratulations, you played yourself](http://9gag.com/gag/aByXzXz)
+ - 🚯 [How villains are born](http://9gag.com/gag/a9yX4n0)
+ - 🚯 [Keep on moving](http://9gag.com/gag/a87wOwZ)<!-- MEMES:END -->
 
 --- 
 
