@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to play Monopoly GO on PC](https://www.pcgamer.com/games/board-games/how-to-play-monopoly-go-on-pc/)
- - [Genshin Impact version 5.7 livestream codes](https://www.polygon.com/genshin-impact-guides/602961/5-7-livestream-codes-redeem-primogems)
- - [Genshin Impact Version 5.7 arrives with Skirk on June 18](https://blog.playstation.com/2025/06/06/genshin-impact-version-5-7-arrives-with-skirk-on-june-18/)<!-- GAME:END -->
+ - [Kotaku’s Weekend Guide: 5 Great Games We’re Kicking Off The Summer With](https://kotaku.com/kotaku-games-to-play-switch-2-mario-oblivion-fast-1851783909)
+ - [You should watch dumb Jason Statham plane movies at home, too](https://www.polygon.com/recommendations/604276/a-working-man-amazon-prime-video-streaming)
+ - [Kotaku’s Opinions For The Week June 07, 2025](https://kotaku.com/kotaku-s-opinions-for-the-week-june-07-2025-1851783847)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
