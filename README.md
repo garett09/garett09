@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Congratulations, you played yourself](http://9gag.com/gag/aByXzXz)
- - 🚯 [How villains are born](http://9gag.com/gag/a9yX4n0)
- - 🚯 [Keep on moving](http://9gag.com/gag/a87wOwZ)<!-- MEMES:END -->
+ - 🚖 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
+ - 🚯 [Watching beer fill from the bottom is surprisingly satisfying](http://9gag.com/gag/azxZwKx)
+ - 🚯 [Know your spells!](http://9gag.com/gag/agm2wzr)<!-- MEMES:END -->
 
 --- 
 
