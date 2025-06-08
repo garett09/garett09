@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 5 ways I actually use the cover screen on my Motorola Razr](https://www.androidauthority.com/motorola-razr-cover-screen-uses-3560964/)
- - [Tech Up Your Sourdough With These Upper-Crust Baking Gadgets](https://www.wired.com/story/sourdough-baking-gadgets-sourdough-home-sourdough-sidekick-doughbed/)
- - [There are only two commissioners left at the FCC](https://www.theverge.com/policy/681638/fcc-quorum-starks-simington-departure-brendan-carr)<!-- TECH:END -->
+ - [How to Buy a Bike Helmet &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-a-bike-helmet/)
+ - [The USB-C dream is dead and it’s too late to revive it](https://www.androidauthority.com/usb-c-cant-be-fixed-3560127/)
+ - [Republicans are barreling toward remaking the internet](https://www.theverge.com/policy/681609/ftc-attention-economy-kids-online-safety-workshop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
