@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Weekend Guide: 5 Great Games We’re Kicking Off The Summer With](https://kotaku.com/kotaku-games-to-play-switch-2-mario-oblivion-fast-1851783909)
- - [You should watch dumb Jason Statham plane movies at home, too](https://www.polygon.com/recommendations/604276/a-working-man-amazon-prime-video-streaming)
- - [Kotaku’s Opinions For The Week June 07, 2025](https://kotaku.com/kotaku-s-opinions-for-the-week-june-07-2025-1851783847)<!-- GAME:END -->
+ - [Baby Steps, Bennett Foddy&#39;s slapstick walking simulator about a slob climbing a mountain, stumbles onto Steam in September](https://www.pcgamer.com/games/puzzle/baby-steps-bennett-foddys-slapstick-walking-simulator-about-a-slob-climbing-a-mountain-stumbles-onto-steam-in-september/)
+ - [Rust&#39;s recently added rainforest is so dense the developers changed how resources spawn because players couldn&#39;t find them: &#39;The jungle was a bit too good at being a jungle&#39;](https://www.pcgamer.com/games/survival-crafting/rusts-recently-added-rainforest-is-so-dense-the-developers-changed-how-resources-spawn-because-players-couldnt-find-them-the-jungle-was-a-bit-too-good-at-being-a-jungle/)
+ - [Amazon may have cancelled the Wheel of Time show, but the open world RPG ploughs ahead with talent from games like Dark Age of Camelot and Lord of the Rings Online](https://www.pcgamer.com/games/rpg/amazon-may-have-cancelled-the-wheel-of-time-show-but-the-open-world-rpg-ploughs-ahead-with-talent-from-games-like-dark-age-of-camelot-and-lord-of-the-rings-online/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
