@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
- - 🚯 [Watching beer fill from the bottom is surprisingly satisfying](http://9gag.com/gag/azxZwKx)
- - 🚯 [Know your spells!](http://9gag.com/gag/agm2wzr)<!-- MEMES:END -->
+ - 🚖 [That mouse is about to have a very bad time.](http://9gag.com/gag/ajPKp1w)
+ - 🚯 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)
+ - 🚯 [Just keep riding through the water](http://9gag.com/gag/aO81L7E)<!-- MEMES:END -->
 
 --- 
 
