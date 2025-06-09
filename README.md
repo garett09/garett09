@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baby Steps, Bennett Foddy&#39;s slapstick walking simulator about a slob climbing a mountain, stumbles onto Steam in September](https://www.pcgamer.com/games/puzzle/baby-steps-bennett-foddys-slapstick-walking-simulator-about-a-slob-climbing-a-mountain-stumbles-onto-steam-in-september/)
- - [Rust&#39;s recently added rainforest is so dense the developers changed how resources spawn because players couldn&#39;t find them: &#39;The jungle was a bit too good at being a jungle&#39;](https://www.pcgamer.com/games/survival-crafting/rusts-recently-added-rainforest-is-so-dense-the-developers-changed-how-resources-spawn-because-players-couldnt-find-them-the-jungle-was-a-bit-too-good-at-being-a-jungle/)
- - [Amazon may have cancelled the Wheel of Time show, but the open world RPG ploughs ahead with talent from games like Dark Age of Camelot and Lord of the Rings Online](https://www.pcgamer.com/games/rpg/amazon-may-have-cancelled-the-wheel-of-time-show-but-the-open-world-rpg-ploughs-ahead-with-talent-from-games-like-dark-age-of-camelot-and-lord-of-the-rings-online/)<!-- GAME:END -->
+ - [I grabbed the free demo of dark new fantasy RPG The Fall of Avalon: Tainted Grail and, boy, does it take Bethesda back to school](https://www.pcgamer.com/games/rpg/i-grabbed-the-free-demo-of-dark-new-fantasy-rpg-the-fall-of-avalon-tainted-grail-and-boy-does-it-take-bethesda-back-to-school/)
+ - [Nintendo made a fantastic Mario Kart, but a half-baked World](https://www.polygon.com/review/605637/mario-kart-world-review-nintendo-switch-2)
+ - [Lian Li&#39;s new Hydroshift AIO cooler doesn&#39;t work properly on some motherboards but it will send you a replacement part if you can&#39;t get around the issue in the BIOS](https://www.pcgamer.com/hardware/cooling/lian-lis-new-hydroshift-aio-cooler-doesnt-work-properly-on-some-motherboards-but-it-will-send-you-a-replacement-part-if-you-cant-get-around-the-issue-in-the-bios/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
