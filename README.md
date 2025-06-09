@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Buy a Bike Helmet &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-a-bike-helmet/)
- - [The USB-C dream is dead and it’s too late to revive it](https://www.androidauthority.com/usb-c-cant-be-fixed-3560127/)
- - [Republicans are barreling toward remaking the internet](https://www.theverge.com/policy/681609/ftc-attention-economy-kids-online-safety-workshop)<!-- TECH:END -->
+ - [How to watch Apple’s WWDC 2025 keynote](https://www.theverge.com/news/680467/apple-wwdc-2025-keynote-livestream-ios-macos-how-to-watch)
+ - [Samsung Now Brief’s next feature is one for the hydro homies](https://www.androidauthority.com/samsung-now-brief-water-3565484/)
+ - [Typhur Dome 2 Review &lpar;2025&rpar;: Fast and Bulbous](https://www.wired.com/review/typhur-dome-2-air-fryer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
