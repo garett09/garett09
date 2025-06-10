@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Apple’s WWDC 2025 keynote](https://www.theverge.com/news/680467/apple-wwdc-2025-keynote-livestream-ios-macos-how-to-watch)
- - [Samsung Now Brief’s next feature is one for the hydro homies](https://www.androidauthority.com/samsung-now-brief-water-3565484/)
- - [Typhur Dome 2 Review &lpar;2025&rpar;: Fast and Bulbous](https://www.wired.com/review/typhur-dome-2-air-fryer/)<!-- TECH:END -->
+ - [For a limited time Mint is offering 3 months of its unlimited plan for just $45 in total](https://www.androidauthority.com/mint-3-month-unlimited-3564931/)
+ - [Hang on, did the iPad just become a computer?](https://www.theverge.com/ipad/684229/ipados-26-hands-on-multitasking-mac)
+ - [Splatoon is getting a Switch 2 spinoff, and a big Splatoon 3 update](https://www.theverge.com/news/684199/splatoon-raiders-switch-2-spinoff)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
