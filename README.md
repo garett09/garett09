@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That mouse is about to have a very bad time.](http://9gag.com/gag/ajPKp1w)
- - 🚯 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)
- - 🚯 [Just keep riding through the water](http://9gag.com/gag/aO81L7E)<!-- MEMES:END -->
+ - 🚖 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 🚯 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)
+ - 🚯 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)<!-- MEMES:END -->
 
 --- 
 
