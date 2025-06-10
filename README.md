@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I grabbed the free demo of dark new fantasy RPG The Fall of Avalon: Tainted Grail and, boy, does it take Bethesda back to school](https://www.pcgamer.com/games/rpg/i-grabbed-the-free-demo-of-dark-new-fantasy-rpg-the-fall-of-avalon-tainted-grail-and-boy-does-it-take-bethesda-back-to-school/)
- - [Nintendo made a fantastic Mario Kart, but a half-baked World](https://www.polygon.com/review/605637/mario-kart-world-review-nintendo-switch-2)
- - [Lian Li&#39;s new Hydroshift AIO cooler doesn&#39;t work properly on some motherboards but it will send you a replacement part if you can&#39;t get around the issue in the BIOS](https://www.pcgamer.com/hardware/cooling/lian-lis-new-hydroshift-aio-cooler-doesnt-work-properly-on-some-motherboards-but-it-will-send-you-a-replacement-part-if-you-cant-get-around-the-issue-in-the-bios/)<!-- GAME:END -->
+ - [This M.2 adapter for the new Switch 2 is pretty nifty and has me wondering if you could do an eGPU next &lpar;you can&#39;t&rpar;](https://www.pcgamer.com/hardware/this-m-2-adapter-for-the-new-switch-2-is-pretty-nifty-and-has-me-wondering-if-you-could-do-an-egpu-next-you-cant/)
+ - [Switch 2 Is Getting Upgraded Splatoon 3 Along With A New Spin-Off Called Splatoon Raiders](https://kotaku.com/switch-2-splatoon-3-raiders-upgrade-price-maps-1851784179)
+ - [Nintendo announces surprise new Splatoon game for Switch 2](https://www.polygon.com/news/605892/splatoon-raiders-announced-nintendo-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
