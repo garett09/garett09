@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [For a limited time Mint is offering 3 months of its unlimited plan for just $45 in total](https://www.androidauthority.com/mint-3-month-unlimited-3564931/)
- - [Hang on, did the iPad just become a computer?](https://www.theverge.com/ipad/684229/ipados-26-hands-on-multitasking-mac)
- - [Splatoon is getting a Switch 2 spinoff, and a big Splatoon 3 update](https://www.theverge.com/news/684199/splatoon-raiders-switch-2-spinoff)<!-- TECH:END -->
+ - [Samsung is giving away one year of Perplexity Pro](https://www.androidauthority.com/samsung-give-away-perplexity-pro-3566456/)
+ - [Coco Robotics, which operates a fleet of cooler-sized delivery robots on wheels, raised $80M from Sam Altman and others, taking its total funding to $110M+ &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250611/p21#a250611p21)
+ - [Don’t be fooled by Android 16’s release — the big changes are still coming](https://www.androidauthority.com/dont-be-fooled-by-android-16-big-changes-still-coming-3565516/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
