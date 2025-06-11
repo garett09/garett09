@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This M.2 adapter for the new Switch 2 is pretty nifty and has me wondering if you could do an eGPU next &lpar;you can&#39;t&rpar;](https://www.pcgamer.com/hardware/this-m-2-adapter-for-the-new-switch-2-is-pretty-nifty-and-has-me-wondering-if-you-could-do-an-egpu-next-you-cant/)
- - [Switch 2 Is Getting Upgraded Splatoon 3 Along With A New Spin-Off Called Splatoon Raiders](https://kotaku.com/switch-2-splatoon-3-raiders-upgrade-price-maps-1851784179)
- - [Nintendo announces surprise new Splatoon game for Switch 2](https://www.polygon.com/news/605892/splatoon-raiders-announced-nintendo-today)<!-- GAME:END -->
+ - [The 5 Strongest Non-Ex Pokémon To Use In Pokémon TCG Pocket](https://kotaku.com/pokemon-tcg-pocket-non-ex-pokemon-strongest-1851784250)
+ - [They made Balatro for stock trading and I fear I may never write another article ever again](https://www.pcgamer.com/games/roguelike/they-made-balatro-for-stock-trading-and-i-fear-i-may-never-write-another-article-ever-again/)
+ - [Rainbow Six: Siege X is out today, meaning one of the best tactical shooters ever made is now free-to-play](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-is-out-today-meaning-one-of-the-best-tactical-shooters-ever-made-is-now-free-to-play/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
