@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 Strongest Non-Ex Pokémon To Use In Pokémon TCG Pocket](https://kotaku.com/pokemon-tcg-pocket-non-ex-pokemon-strongest-1851784250)
- - [They made Balatro for stock trading and I fear I may never write another article ever again](https://www.pcgamer.com/games/roguelike/they-made-balatro-for-stock-trading-and-i-fear-i-may-never-write-another-article-ever-again/)
- - [Rainbow Six: Siege X is out today, meaning one of the best tactical shooters ever made is now free-to-play](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-is-out-today-meaning-one-of-the-best-tactical-shooters-ever-made-is-now-free-to-play/)<!-- GAME:END -->
+ - [The Switch 2 has already sold 3.5 million units, making it Nintendo&#39;s fastest selling console yet—but I&#39;m struggling to feel enthusiastic about this hardware launch](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-switch-2-has-already-sold-3-5-million-units-making-it-nintendos-fastest-selling-console-yet-but-im-struggling-to-muster-much-enthusiasm-for-this-hardware-launch/)
+ - [What is going on with Mindseye? We’re trying to figure that out, too](https://www.polygon.com/gaming/606523/what-is-going-on-with-mindseye)
+ - [There’s so much to untangle from the the ending of Sinners](https://www.polygon.com/horror/605824/a-re-vamped-look-at-the-real-ending-of-ryan-cooglers-sinners)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
