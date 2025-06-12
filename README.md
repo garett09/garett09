@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is giving away one year of Perplexity Pro](https://www.androidauthority.com/samsung-give-away-perplexity-pro-3566456/)
- - [Coco Robotics, which operates a fleet of cooler-sized delivery robots on wheels, raised $80M from Sam Altman and others, taking its total funding to $110M+ &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250611/p21#a250611p21)
- - [Don’t be fooled by Android 16’s release — the big changes are still coming](https://www.androidauthority.com/dont-be-fooled-by-android-16-big-changes-still-coming-3565516/)<!-- TECH:END -->
+ - [Nominal, which makes industrial design software for space, energy, and defense tech, raised $75M led by Sequoia, after raising $27M in April 2024 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250612/p23#a250612p23)
+ - [Google Contacts could soon let you control clutter from third-party apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-read-only-contacts-view-apk-teardown-3566989/)
+ - [Best Merino Wool T-Shirts &lpar;2025&rpar;, Tried On and Tested](https://www.wired.com/gallery/best-merino-wool-t-shirts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
