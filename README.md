@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Instant Regret](http://9gag.com/gag/aByXD81)
- - 🚯 [Forever and always.](http://9gag.com/gag/agmErnn)
- - 🚯 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)<!-- MEMES:END -->
+ - 🚖 [Pauline is on to something](http://9gag.com/gag/a7opvQb)
+ - 🚯 [Friendship](http://9gag.com/gag/ayNY74M)
+ - 🚯 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)<!-- MEMES:END -->
 
 --- 
 
