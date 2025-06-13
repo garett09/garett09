@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pauline is on to something](http://9gag.com/gag/a7opvQb)
- - 🚯 [Friendship](http://9gag.com/gag/ayNY74M)
- - 🚯 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)<!-- MEMES:END -->
+ - 🚖 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 🚯 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
+ - 🚯 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)<!-- MEMES:END -->
 
 --- 
 
