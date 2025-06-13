@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nominal, which makes industrial design software for space, energy, and defense tech, raised $75M led by Sequoia, after raising $27M in April 2024 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250612/p23#a250612p23)
- - [Google Contacts could soon let you control clutter from third-party apps &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-contacts-read-only-contacts-view-apk-teardown-3566989/)
- - [Best Merino Wool T-Shirts &lpar;2025&rpar;, Tried On and Tested](https://www.wired.com/gallery/best-merino-wool-t-shirts/)<!-- TECH:END -->
+ - [How the new Passwords history feature works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-the-new-passwords-history-feature-works-in-macos-tahoe?utm_medium=rss)
+ - [Google just released the first major Snapseed update in years](https://www.theverge.com/news/686625/google-first-major-snapseed-update-years)
+ - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
