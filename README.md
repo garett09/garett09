@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Switch 2 has already sold 3.5 million units, making it Nintendo&#39;s fastest selling console yet—but I&#39;m struggling to feel enthusiastic about this hardware launch](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-switch-2-has-already-sold-3-5-million-units-making-it-nintendos-fastest-selling-console-yet-but-im-struggling-to-muster-much-enthusiasm-for-this-hardware-launch/)
- - [What is going on with Mindseye? We’re trying to figure that out, too](https://www.polygon.com/gaming/606523/what-is-going-on-with-mindseye)
- - [There’s so much to untangle from the the ending of Sinners](https://www.polygon.com/horror/605824/a-re-vamped-look-at-the-real-ending-of-ryan-cooglers-sinners)<!-- GAME:END -->
+ - [&#39;We have people working on fixing the goomba stomping&#39;—Dune: Awakening&#39;s PvP is getting dominated by packs of rabid ornithopter pilots squishing their enemies](https://www.pcgamer.com/games/survival-crafting/we-have-people-working-on-fixing-the-goomba-stomping-dune-awakenings-pvp-is-getting-dominated-by-packs-of-rabid-ornithopter-pilots-squishing-their-enemies/)
+ - [The Alters Rewards Multiple Playthroughs With Its Strange Journey Of Self-Discovery](https://kotaku.com/the-alters-cover-how-long-to-beat-clones-playthroughs-1851784439)
+ - [Elden Ring Nightreign: A Beginner&#39;s Guide To Mastering Revenant](https://kotaku.com/elden-ring-nightreign-renant-summon-necromancy-faith-1851784379)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
