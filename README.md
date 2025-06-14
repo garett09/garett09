@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 🚯 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
- - 🚯 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)<!-- MEMES:END -->
+ - 🚖 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
+ - 🚯 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
+ - 🚯 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)<!-- MEMES:END -->
 
 --- 
 
