@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the new Passwords history feature works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-the-new-passwords-history-feature-works-in-macos-tahoe?utm_medium=rss)
- - [Google just released the first major Snapseed update in years](https://www.theverge.com/news/686625/google-first-major-snapseed-update-years)
- - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)<!-- TECH:END -->
+ - [6 Best Smart Locks &lpar;2025&rpar; for Front Doors, Slider Doors, and More](https://www.wired.com/story/best-smart-locks/)
+ - [The Vivoactive 6 is the best and worst thing to happen to the Garmin Venu series](https://www.androidauthority.com/garmin-vivoactive-6-vs-venu-3-3561352/)
+ - [I’ve been using Google Photos for 10 years and this is what I want to see in the next 10 years](https://www.androidauthority.com/google-photos-next-ten-years-3563825/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
