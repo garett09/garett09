@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We have people working on fixing the goomba stomping&#39;—Dune: Awakening&#39;s PvP is getting dominated by packs of rabid ornithopter pilots squishing their enemies](https://www.pcgamer.com/games/survival-crafting/we-have-people-working-on-fixing-the-goomba-stomping-dune-awakenings-pvp-is-getting-dominated-by-packs-of-rabid-ornithopter-pilots-squishing-their-enemies/)
- - [The Alters Rewards Multiple Playthroughs With Its Strange Journey Of Self-Discovery](https://kotaku.com/the-alters-cover-how-long-to-beat-clones-playthroughs-1851784439)
- - [Elden Ring Nightreign: A Beginner&#39;s Guide To Mastering Revenant](https://kotaku.com/elden-ring-nightreign-renant-summon-necromancy-faith-1851784379)<!-- GAME:END -->
+ - [From $80 Popcorn Buckets To Wikipedia Revolts, Here&#39;s The Week&#39;s Biggest &lpar;And Weirdest&rpar; News](https://kotaku.com/fantastic-four-galactus-popcorn-bucket-switch-2-sales-1851784491)
+ - [This massive mod for Mount and Blade 2: Bannerlord not only converts it to Sengoku-era Japan, it adds fully simulated naval battles months ahead of the base game](https://www.pcgamer.com/games/rpg/this-massive-mod-for-mount-and-blade-2-bannerlord-not-only-converts-it-to-sengoku-era-japan-it-adds-fully-simulated-naval-battles-months-ahead-of-the-base-game/)
+ - [Switch 2 Joy-Con drift is already haunting Nintendo](https://www.polygon.com/nintendo-switch-2/606939/switch-2-joycon-drift-controller-fix-joystick)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
