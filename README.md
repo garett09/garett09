@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Smart Locks &lpar;2025&rpar; for Front Doors, Slider Doors, and More](https://www.wired.com/story/best-smart-locks/)
- - [The Vivoactive 6 is the best and worst thing to happen to the Garmin Venu series](https://www.androidauthority.com/garmin-vivoactive-6-vs-venu-3-3561352/)
- - [I’ve been using Google Photos for 10 years and this is what I want to see in the next 10 years](https://www.androidauthority.com/google-photos-next-ten-years-3563825/)<!-- TECH:END -->
+ - [M2 Mac mini owners with AC power issues can get repairs for free](https://appleinsider.com/articles/25/06/14/m2-mac-mini-owners-with-ac-power-issues-can-get-repairs-for-free?utm_medium=rss)
+ - [The 14 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
+ - [These are the subscriptions I actually don’t mind paying for](https://www.androidauthority.com/best-subscriptions-apps-services-3565501/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
