@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [From $80 Popcorn Buckets To Wikipedia Revolts, Here&#39;s The Week&#39;s Biggest &lpar;And Weirdest&rpar; News](https://kotaku.com/fantastic-four-galactus-popcorn-bucket-switch-2-sales-1851784491)
- - [This massive mod for Mount and Blade 2: Bannerlord not only converts it to Sengoku-era Japan, it adds fully simulated naval battles months ahead of the base game](https://www.pcgamer.com/games/rpg/this-massive-mod-for-mount-and-blade-2-bannerlord-not-only-converts-it-to-sengoku-era-japan-it-adds-fully-simulated-naval-battles-months-ahead-of-the-base-game/)
- - [Switch 2 Joy-Con drift is already haunting Nintendo](https://www.polygon.com/nintendo-switch-2/606939/switch-2-joycon-drift-controller-fix-joystick)<!-- GAME:END -->
+ - [Mario Kart World wouldn’t be in the running for Game of the Year even if it was perfect](https://www.polygon.com/awards/606770/mario-kart-world-goty-game-of-the-year)
+ - [The Games We Loved And Hated This Week, And Other Kotaku Opinions](https://kotaku.com/switch-2-pragmata-crimson-desert-dragon-age-review-1851784493)
+ - [I was surprised and delighted to learn that every FromSoft protagonist outside of Elden Ring Nightreign is 5 feet 7 inches tall, aka the best height for cool people](https://www.pcgamer.com/games/rpg/i-was-surprised-and-delighted-to-learn-that-every-fromsoft-protagonist-outside-of-elden-ring-nightreign-is-5-feet-7-inches-tall-aka-the-best-height-for-cool-people/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
