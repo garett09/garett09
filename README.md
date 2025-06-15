@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
- - 🚯 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
- - 🚯 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)<!-- MEMES:END -->
+ - 🚖 [Just wondering](http://9gag.com/gag/an7ryVV)
+ - 🚯 [That package better be good.](http://9gag.com/gag/aKGOjEg)
+ - 🚯 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)<!-- MEMES:END -->
 
 --- 
 
