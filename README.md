@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M2 Mac mini owners with AC power issues can get repairs for free](https://appleinsider.com/articles/25/06/14/m2-mac-mini-owners-with-ac-power-issues-can-get-repairs-for-free?utm_medium=rss)
- - [The 14 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
- - [These are the subscriptions I actually don’t mind paying for](https://www.androidauthority.com/best-subscriptions-apps-services-3565501/)<!-- TECH:END -->
+ - [Trump Mobile launches $47 service and a gold phone](https://www.theverge.com/news/687418/trump-mobile-network-t1-trademark-application)
+ - [AirPods Pro 3 now rumored to launch in 2026](https://appleinsider.com/articles/25/06/16/airpods-pro-3-now-rumored-to-launch-in-2026?utm_medium=rss)
+ - [WhatsApp rolls out ads in its Updates tab, a first for the app, and will collect some data to target the ads, but says it has no plans to put ads in chats &lpar;New York Times&rpar;](http://www.techmeme.com/250616/p11#a250616p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
