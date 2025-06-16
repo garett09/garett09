@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart World wouldn’t be in the running for Game of the Year even if it was perfect](https://www.polygon.com/awards/606770/mario-kart-world-goty-game-of-the-year)
- - [The Games We Loved And Hated This Week, And Other Kotaku Opinions](https://kotaku.com/switch-2-pragmata-crimson-desert-dragon-age-review-1851784493)
- - [I was surprised and delighted to learn that every FromSoft protagonist outside of Elden Ring Nightreign is 5 feet 7 inches tall, aka the best height for cool people](https://www.pcgamer.com/games/rpg/i-was-surprised-and-delighted-to-learn-that-every-fromsoft-protagonist-outside-of-elden-ring-nightreign-is-5-feet-7-inches-tall-aka-the-best-height-for-cool-people/)<!-- GAME:END -->
+ - [The cars in Sonic Racing: Crossworlds are shockingly fast &lpar;but Sonic can still outrun them&rpar;](https://www.polygon.com/preview/607070/sonic-racing-crossworlds-gameplay-vs-mario-kart)
+ - [PowerColor Alphyn AH10 review](https://www.pcgamer.com/hardware/gaming-headsets/powercolor-alphyn-ah10-review/)
+ - [Nintendo will finally reveal more about Donkey Kong Bananza in new direct](https://www.polygon.com/gaming/607067/nintendo-donkey-kong-bananza-new-direct-reveal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
