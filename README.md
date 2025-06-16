@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just wondering](http://9gag.com/gag/an7ryVV)
- - 🚯 [That package better be good.](http://9gag.com/gag/aKGOjEg)
- - 🚯 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)<!-- MEMES:END -->
+ - 🚖 [Gottem](http://9gag.com/gag/aVvV34O)
+ - 🚯 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
+ - 🚯 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)<!-- MEMES:END -->
 
 --- 
 
