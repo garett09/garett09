@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gottem](http://9gag.com/gag/aVvV34O)
- - 🚯 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 🚯 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)<!-- MEMES:END -->
+ - 🚖 [Understood.](http://9gag.com/gag/aE0OpQn)
+ - 🚯 [Traveling with Trevor](http://9gag.com/gag/an7r92B)
+ - 🚯 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)<!-- MEMES:END -->
 
 --- 
 
