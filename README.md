@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Mobile launches $47 service and a gold phone](https://www.theverge.com/news/687418/trump-mobile-network-t1-trademark-application)
- - [AirPods Pro 3 now rumored to launch in 2026](https://appleinsider.com/articles/25/06/16/airpods-pro-3-now-rumored-to-launch-in-2026?utm_medium=rss)
- - [WhatsApp rolls out ads in its Updates tab, a first for the app, and will collect some data to target the ads, but says it has no plans to put ads in chats &lpar;New York Times&rpar;](http://www.techmeme.com/250616/p11#a250616p11)<!-- TECH:END -->
+ - [Gemini preps a ‘Saved info’ rebrand as work on chat history search continues &lpar;Updated: Beta&rpar;](https://www.androidauthority.com/gemini-app-ui-3548832/)
+ - [Adobe releases iOS and Android apps for Firefly, letting users generate images and videos using text prompts and experiment with popular AI photo editing tools &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250617/p15#a250617p15)
+ - [The first two Netflix Houses will finally open in late 2025](https://www.theverge.com/news/687830/netflix-house-venue-dallas-philadelphia-las-vegas-open-late-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
