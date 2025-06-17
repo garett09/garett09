@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The cars in Sonic Racing: Crossworlds are shockingly fast &lpar;but Sonic can still outrun them&rpar;](https://www.polygon.com/preview/607070/sonic-racing-crossworlds-gameplay-vs-mario-kart)
- - [PowerColor Alphyn AH10 review](https://www.pcgamer.com/hardware/gaming-headsets/powercolor-alphyn-ah10-review/)
- - [Nintendo will finally reveal more about Donkey Kong Bananza in new direct](https://www.polygon.com/gaming/607067/nintendo-donkey-kong-bananza-new-direct-reveal)<!-- GAME:END -->
+ - [Amazon Prime Is Adding Six More Free Games In Run-Up To Four-Day Prime Day](https://kotaku.com/amazon-prime-gaming-free-games-tomb-raider-saints-row-1851784628)
+ - [Sony WF-C510 review](https://www.pcgamer.com/hardware/earbuds-headphones/sony-wf-c510-earbud-review/)
+ - [Kingdom Come: Deliverance 2 is getting a &#39;cinematic cut&#39; premiering at a Czech film festival: &#39;A proud moment for games as a serious storytelling medium&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-is-getting-a-cinematic-cut-premiering-at-a-czech-film-festival-a-proud-moment-for-games-as-a-serious-storytelling-medium/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
