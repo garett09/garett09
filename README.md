@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini preps a ‘Saved info’ rebrand as work on chat history search continues &lpar;Updated: Beta&rpar;](https://www.androidauthority.com/gemini-app-ui-3548832/)
- - [Adobe releases iOS and Android apps for Firefly, letting users generate images and videos using text prompts and experiment with popular AI photo editing tools &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250617/p15#a250617p15)
- - [The first two Netflix Houses will finally open in late 2025](https://www.theverge.com/news/687830/netflix-house-venue-dallas-philadelphia-las-vegas-open-late-2025)<!-- TECH:END -->
+ - [Xreal One Pro review: the impressive new $649 AR glasses resemble normal spectacles at a distance and excel as a high-def external display for PCs and phones &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250618/p21#a250618p21)
+ - [Indigo is a new camera app by the guys who made the Pixel and Google Camera apps](https://www.androidauthority.com/adobe-indigo-pixel-camera-google-camera-3568599/)
+ - [Android may soon recommend you use an ‘optimized’ voice assistant — here’s what that really means](https://www.androidauthority.com/android-recommended-assistant-3568465/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
