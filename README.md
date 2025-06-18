@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 🚯 [Traveling with Trevor](http://9gag.com/gag/an7r92B)
- - 🚯 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)<!-- MEMES:END -->
+ - 🚖 [I gotcha back](http://9gag.com/gag/aqyYj9v)
+ - 🚯 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 🚯 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
 
 --- 
 
