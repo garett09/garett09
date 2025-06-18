@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Prime Is Adding Six More Free Games In Run-Up To Four-Day Prime Day](https://kotaku.com/amazon-prime-gaming-free-games-tomb-raider-saints-row-1851784628)
- - [Sony WF-C510 review](https://www.pcgamer.com/hardware/earbuds-headphones/sony-wf-c510-earbud-review/)
- - [Kingdom Come: Deliverance 2 is getting a &#39;cinematic cut&#39; premiering at a Czech film festival: &#39;A proud moment for games as a serious storytelling medium&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-is-getting-a-cinematic-cut-premiering-at-a-czech-film-festival-a-proud-moment-for-games-as-a-serious-storytelling-medium/)<!-- GAME:END -->
+ - [Digging Deeper: The Inspirations Behind Still Wakes the Deep: Siren’s Rest](https://news.xbox.com/en-us/2025/06/18/still-wakes-the-deep-sirens-rest-dlc-inspirations/)
+ - [Borderlands 4 hands-on: Yeah, it&#39;s just &#39;more Borderlands,&#39; but Gearbox&#39;s consistency is respectable and there&#39;s a cool hoverbike](https://www.pcgamer.com/games/fps/borderlands-4-hands-on-preview/)
+ - [Watch the new Nintendo Direct all about Donkey Kong Bananza](https://www.polygon.com/gaming/607067/nintendo-donkey-kong-bananza-new-direct-reveal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
