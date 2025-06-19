@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xreal One Pro review: the impressive new $649 AR glasses resemble normal spectacles at a distance and excel as a high-def external display for PCs and phones &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250618/p21#a250618p21)
- - [Indigo is a new camera app by the guys who made the Pixel and Google Camera apps](https://www.androidauthority.com/adobe-indigo-pixel-camera-google-camera-3568599/)
- - [Android may soon recommend you use an ‘optimized’ voice assistant — here’s what that really means](https://www.androidauthority.com/android-recommended-assistant-3568465/)<!-- TECH:END -->
+ - [Apple&#39;s chip chief says he wants AI chip design, but he already has it](https://appleinsider.com/articles/25/06/19/apples-chip-chief-says-he-wants-ai-chip-design-but-he-already-has-it?utm_medium=rss)
+ - [Steam is adding screen reader support and other accessibility tools](https://www.theverge.com/games/689922/steam-is-adding-screen-reader-support-and-other-accessibility-tools)
+ - [AI residencies are trying to change the conversation around artificial art](https://www.theverge.com/ai-artificial-intelligence/689693/ai-art-residencies-get-artists-using-generative-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
