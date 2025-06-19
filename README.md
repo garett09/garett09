@@ -121,11 +121,11 @@ while(dev.isCoding() && dev.isStuck())
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/garett09/Hulo/issues/2) in [garett09/Hulo](https://github.com/garett09/Hulo)
-2. ❗️ Opened issue [#1](https://github.com/garett09/Hulo/issues/1) in [garett09/Hulo](https://github.com/garett09/Hulo)
-3. 💪 Opened PR [#1](https://github.com/Sexynos/platform_manifest/pull/1) in [Sexynos/platform_manifest](https://github.com/Sexynos/platform_manifest)
-4. 🎉 Merged PR [#4](https://github.com/9810-S/manifest/pull/4) in [9810-S/manifest](https://github.com/9810-S/manifest)
-5. 💪 Opened PR [#4](https://github.com/9810-S/manifest/pull/4) in [9810-S/manifest](https://github.com/9810-S/manifest)
+1. 🎉 Merged PR [#13](https://github.com/ethan-josh/pseudo-shop/pull/13) in [ethan-josh/pseudo-shop](https://github.com/ethan-josh/pseudo-shop)
+2. 💪 Opened PR [#13](https://github.com/ethan-josh/pseudo-shop/pull/13) in [ethan-josh/pseudo-shop](https://github.com/ethan-josh/pseudo-shop)
+3. 💪 Opened PR [#12](https://github.com/ethan-josh/pseudo-shop/pull/12) in [ethan-josh/pseudo-shop](https://github.com/ethan-josh/pseudo-shop)
+4. ❌ Closed PR [#11](https://github.com/ethan-josh/pseudo-shop/pull/11) in [ethan-josh/pseudo-shop](https://github.com/ethan-josh/pseudo-shop)
+5. ❌ Closed PR [#9](https://github.com/ethan-josh/pseudo-shop/pull/9) in [ethan-josh/pseudo-shop](https://github.com/ethan-josh/pseudo-shop)
 <!--END_SECTION:activity-->
 
 ---
