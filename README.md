@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Digging Deeper: The Inspirations Behind Still Wakes the Deep: Siren’s Rest](https://news.xbox.com/en-us/2025/06/18/still-wakes-the-deep-sirens-rest-dlc-inspirations/)
- - [Borderlands 4 hands-on: Yeah, it&#39;s just &#39;more Borderlands,&#39; but Gearbox&#39;s consistency is respectable and there&#39;s a cool hoverbike](https://www.pcgamer.com/games/fps/borderlands-4-hands-on-preview/)
- - [Watch the new Nintendo Direct all about Donkey Kong Bananza](https://www.polygon.com/gaming/607067/nintendo-donkey-kong-bananza-new-direct-reveal)<!-- GAME:END -->
+ - [Fake Minecraft mods that steal all your personal data including crypto wallets are being distributed via GitHub accounts](https://www.pcgamer.com/software/security/fake-minecraft-mods-that-steal-all-your-personal-data-including-crypto-wallets-are-being-distributed-via-github-accounts/)
+ - [10 Shark Movies to Sink Your Teeth Into &lpar;That Aren’t Jaws&rpar;](https://kotaku.com/jaws-50th-anniversary-sharknado-the-meg-open-water-bait-1851784734)
+ - [The Switch 2’s Joy-Con controllers are a step up in &lpar;almost&rpar; every way](https://www.polygon.com/review/607759/joy-con-2-nintendo-switch-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
