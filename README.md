@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I gotcha back](http://9gag.com/gag/aqyYj9v)
- - 🚯 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 🚯 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
+ - 🚖 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 🚯 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
+ - 🚯 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)<!-- MEMES:END -->
 
 --- 
 
