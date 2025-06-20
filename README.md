@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 🚯 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 🚯 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)<!-- MEMES:END -->
+ - 🚖 [British thoughts here..](http://9gag.com/gag/ae971Ev)
+ - 🚯 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
+ - 🚯 [Advice For Single Men](http://9gag.com/gag/a1mE7D6)<!-- MEMES:END -->
 
 --- 
 
