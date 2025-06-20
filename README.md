@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fake Minecraft mods that steal all your personal data including crypto wallets are being distributed via GitHub accounts](https://www.pcgamer.com/software/security/fake-minecraft-mods-that-steal-all-your-personal-data-including-crypto-wallets-are-being-distributed-via-github-accounts/)
- - [10 Shark Movies to Sink Your Teeth Into &lpar;That Aren’t Jaws&rpar;](https://kotaku.com/jaws-50th-anniversary-sharknado-the-meg-open-water-bait-1851784734)
- - [The Switch 2’s Joy-Con controllers are a step up in &lpar;almost&rpar; every way](https://www.polygon.com/review/607759/joy-con-2-nintendo-switch-2)<!-- GAME:END -->
+ - [What Would Flynn Do? Making Disney’s Tron: Catalyst the Right Way](https://news.xbox.com/en-us/2025/06/20/tron-catalyst/)
+ - [AMD just mentioned an as yet unreleased Ryzen X3D chip that could become the budget gaming CPU of champions](https://www.pcgamer.com/hardware/processors/amd-just-mentioned-an-as-yet-unreleased-ryzen-x3d-chip-that-could-become-the-budget-gaming-cpu-of-champions/)
+ - [Final Fantasy 14 is making it easier to enter its latest dungeon so you can stop spending half an hour playing &#39;instance gacha&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-is-making-it-easier-to-enter-its-latest-dungeon-so-you-can-stop-spending-half-an-hour-playing-instance-gacha/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
