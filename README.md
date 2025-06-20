@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s chip chief says he wants AI chip design, but he already has it](https://appleinsider.com/articles/25/06/19/apples-chip-chief-says-he-wants-ai-chip-design-but-he-already-has-it?utm_medium=rss)
- - [Steam is adding screen reader support and other accessibility tools](https://www.theverge.com/games/689922/steam-is-adding-screen-reader-support-and-other-accessibility-tools)
- - [AI residencies are trying to change the conversation around artificial art](https://www.theverge.com/ai-artificial-intelligence/689693/ai-art-residencies-get-artists-using-generative-tech)<!-- TECH:END -->
+ - [Meta unveils $399+ Oakley smart glasses with same features as Ray-Ban glasses but with 3K video recording, IPX4 water resistance, and double the battery life &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250620/p8#a250620p8)
+ - [Meta&#39;s Oakley Smart Glasses Have 3K Video—Watch Out, Ray-Ban](https://www.wired.com/story/metas-oakley-smart-glasses-have-3k-video-watch-out-ray-ban/)
+ - [Ahead of Google Assistant’s death, Gemini finally inherits this much-loved feature](https://www.androidauthority.com/gemini-song-search-3569458/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
