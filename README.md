@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta unveils $399+ Oakley smart glasses with same features as Ray-Ban glasses but with 3K video recording, IPX4 water resistance, and double the battery life &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250620/p8#a250620p8)
- - [Meta&#39;s Oakley Smart Glasses Have 3K Video—Watch Out, Ray-Ban](https://www.wired.com/story/metas-oakley-smart-glasses-have-3k-video-watch-out-ray-ban/)
- - [Ahead of Google Assistant’s death, Gemini finally inherits this much-loved feature](https://www.androidauthority.com/gemini-song-search-3569458/)<!-- TECH:END -->
+ - [Eli Lilly’s Obesity Pill Appears to Work as Well as Injected GLP-1s](https://www.wired.com/story/lilly-obesity-pill-effective-orforglipron-injected-glp-1-ozempic/)
+ - [Here’s how I extend my Samsung Galaxy’s battery life](https://www.androidauthority.com/samsung-battery-enhancing-tools-3566353/)
+ - [The Nintendo Switch 2 is an awesome upgrade for parents like me](https://www.theverge.com/nintendo/690224/nintendo-switch-2-parenting-gameshare)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
