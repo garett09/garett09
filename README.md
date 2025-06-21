@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [British thoughts here..](http://9gag.com/gag/ae971Ev)
- - 🚯 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
- - 🚯 [Advice For Single Men](http://9gag.com/gag/a1mE7D6)<!-- MEMES:END -->
+ - 🚖 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
+ - 🚯 [Shut up Skylar](http://9gag.com/gag/avyd1KE)
+ - 🚯 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)<!-- MEMES:END -->
 
 --- 
 
