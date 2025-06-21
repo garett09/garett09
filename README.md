@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What Would Flynn Do? Making Disney’s Tron: Catalyst the Right Way](https://news.xbox.com/en-us/2025/06/20/tron-catalyst/)
- - [AMD just mentioned an as yet unreleased Ryzen X3D chip that could become the budget gaming CPU of champions](https://www.pcgamer.com/hardware/processors/amd-just-mentioned-an-as-yet-unreleased-ryzen-x3d-chip-that-could-become-the-budget-gaming-cpu-of-champions/)
- - [Final Fantasy 14 is making it easier to enter its latest dungeon so you can stop spending half an hour playing &#39;instance gacha&#39;](https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-is-making-it-easier-to-enter-its-latest-dungeon-so-you-can-stop-spending-half-an-hour-playing-instance-gacha/)<!-- GAME:END -->
+ - [Marathon Gets Delayed, Donkey Kong Bananza Gets A Smashing Showing, And More Top Stories](https://kotaku.com/dk-bananza-pauline-marathon-delayed-bungie-nexus-mods-1851784846)
+ - [Tempest Rising&#39;s first major update targets the Command and Conquer successor&#39;s multiplayer, adding 6 maps, a 2v2 ranked mode, and an extensive balance overhaul](https://www.pcgamer.com/games/rts/tempest-risings-first-major-update-targets-the-command-and-conquer-successors-multiplayer-adding-6-maps-a-2v2-ranked-mode-and-an-extensive-balance-overhaul/)
+ - [Grounded 2 will have less frequent, much larger early access updates](https://www.pcgamer.com/games/survival-crafting/grounded-2-will-have-less-frequent-much-larger-early-access-updates/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
