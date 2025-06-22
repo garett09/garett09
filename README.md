@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marathon Gets Delayed, Donkey Kong Bananza Gets A Smashing Showing, And More Top Stories](https://kotaku.com/dk-bananza-pauline-marathon-delayed-bungie-nexus-mods-1851784846)
- - [Tempest Rising&#39;s first major update targets the Command and Conquer successor&#39;s multiplayer, adding 6 maps, a 2v2 ranked mode, and an extensive balance overhaul](https://www.pcgamer.com/games/rts/tempest-risings-first-major-update-targets-the-command-and-conquer-successors-multiplayer-adding-6-maps-a-2v2-ranked-mode-and-an-extensive-balance-overhaul/)
- - [Grounded 2 will have less frequent, much larger early access updates](https://www.pcgamer.com/games/survival-crafting/grounded-2-will-have-less-frequent-much-larger-early-access-updates/)<!-- GAME:END -->
+ - [Can anything top Clair Obscur for Game of the Year?](https://www.polygon.com/awards/608104/clair-obscur-goty-2025-summer-game-fest)
+ - [Must-Play Cyberpunk 2077 Side-Quests, Mario Kart World Pointers And More Of The Week&#39;s Top Tips](https://kotaku.com/cyberpunk-2077-switch-2-best-side-quests-mario-kart-1851784847)
+ - [Pathologic 3&#39;s time travel system will let players &#39;explore the unknown boldly and without fearing permanent ruin&#39; and that makes me way more inclined to play it](https://www.pcgamer.com/games/survival-crafting/pathologic-3s-time-travel-system-will-let-players-explore-the-unknown-boldly-and-without-fearing-permanent-ruin-and-that-makes-me-way-more-inclined-to-play-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
