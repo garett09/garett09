@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
- - 🚯 [Shut up Skylar](http://9gag.com/gag/avyd1KE)
- - 🚯 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)<!-- MEMES:END -->
+ - 🚖 [1980s song](http://9gag.com/gag/apRYb7n)
+ - 🚯 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
+ - 🚯 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)<!-- MEMES:END -->
 
 --- 
 
