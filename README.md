@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eli Lilly’s Obesity Pill Appears to Work as Well as Injected GLP-1s](https://www.wired.com/story/lilly-obesity-pill-effective-orforglipron-injected-glp-1-ozempic/)
- - [Here’s how I extend my Samsung Galaxy’s battery life](https://www.androidauthority.com/samsung-battery-enhancing-tools-3566353/)
- - [The Nintendo Switch 2 is an awesome upgrade for parents like me](https://www.theverge.com/nintendo/690224/nintendo-switch-2-parenting-gameshare)<!-- TECH:END -->
+ - [Trump Mobile promise telehealth and roadside perks, but is it worth the cost?](https://www.androidauthority.com/trumps-network-worth-cost-3567901/)
+ - [A19 chip could match Qualcomm&#39;s best, but Apple may lean toward power savings instead](https://appleinsider.com/articles/25/06/22/a19-chip-could-match-qualcomms-best-but-apple-may-lean-toward-power-savings-instead?utm_medium=rss)
+ - [Asus ROG Azoth X Review: A Space-Age Gaming Keyboard](https://www.wired.com/review/asus-rog-azoth-x/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
