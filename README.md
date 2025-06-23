@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1980s song](http://9gag.com/gag/apRYb7n)
- - 🚯 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
- - 🚯 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)<!-- MEMES:END -->
+ - 🚖 [Sometimes the old ways are the best ways. Or cheapest.](http://9gag.com/gag/aD2OVBw)
+ - 🚯 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 🚯 [Nice](http://9gag.com/gag/aByOX8z)<!-- MEMES:END -->
 
 --- 
 
