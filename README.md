@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Mobile promise telehealth and roadside perks, but is it worth the cost?](https://www.androidauthority.com/trumps-network-worth-cost-3567901/)
- - [A19 chip could match Qualcomm&#39;s best, but Apple may lean toward power savings instead](https://appleinsider.com/articles/25/06/22/a19-chip-could-match-qualcomms-best-but-apple-may-lean-toward-power-savings-instead?utm_medium=rss)
- - [Asus ROG Azoth X Review: A Space-Age Gaming Keyboard](https://www.wired.com/review/asus-rog-azoth-x/)<!-- TECH:END -->
+ - [Nuki smart lock, Hue wall washer &amp; Blue Air Signature purifier on HomeKit Insider](https://appleinsider.com/articles/25/06/23/nuki-smart-lock-hue-wall-washer-blue-air-signature-purifier-on-homekit-insider?utm_medium=rss)
+ - [Google unveils Gemini AI features, like select to search, for Chromebook Plus laptops like Lenovo&#39;s new $649+ 14&quot; flagship with MediaTek&#39;s Kompanio Ultra chip &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250623/p11#a250623p11)
+ - [Google is giving your Chromebook Plus its own version of Circle to Search](https://www.androidauthority.com/chromebook-plus-new-ai-features-3569606/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
