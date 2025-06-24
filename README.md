@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nuki smart lock, Hue wall washer &amp; Blue Air Signature purifier on HomeKit Insider](https://appleinsider.com/articles/25/06/23/nuki-smart-lock-hue-wall-washer-blue-air-signature-purifier-on-homekit-insider?utm_medium=rss)
- - [Google unveils Gemini AI features, like select to search, for Chromebook Plus laptops like Lenovo&#39;s new $649+ 14&quot; flagship with MediaTek&#39;s Kompanio Ultra chip &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250623/p11#a250623p11)
- - [Google is giving your Chromebook Plus its own version of Circle to Search](https://www.androidauthority.com/chromebook-plus-new-ai-features-3569606/)<!-- TECH:END -->
+ - [Microsoft and Meta unveil the $399 Meta Quest 3S Xbox Edition, offering few updates to the $299 Meta Quest 3S, available in &quot;extremely limited&quot; quantities &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250624/p15#a250624p15)
+ - [These battery-powered 4K cameras record 24/7](https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible)
+ - [Tesla&amp;#8217;s robotaxi reality check](https://www.theverge.com/the-vergecast/691888/tesla-robotaxi-mvno-mobile-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
