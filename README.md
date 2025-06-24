@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33&#39;s VA for Gustave jokes that he feels &#39;like a total fraud&#39; since he spent just 4 hours in the booth—and while &#39;fraud&#39; is way too harsh, Gustave&#39;s mocap actor does deserve laurels, too](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-va-for-gustave-jokes-that-he-feels-like-a-total-fraud-since-he-spent-just-4-hours-in-the-booth-and-while-fraud-is-way-too-harsh-gustaves-mocap-actor-does-deserve-laurels-too/)
- - [VRider SBK races onto PS VR2 June 27](https://blog.playstation.com/2025/06/23/vrider-sbk-races-onto-ps-vr2-june-27/)
- - [Beware: That Pre-Owned Switch 2 You&#39;re Thinking About Buying Might Already Be Bricked](https://kotaku.com/nintendo-switch-2-pre-owned-online-error-walmart-1851784892)<!-- GAME:END -->
+ - [5 Reasons Why 2K Needs To Bring Back College Hoops](https://kotaku.com/2k-college-hoops-ea-college-football-26-1851784967)
+ - [Unveiling the Limited Edition Meta Quest 3S Xbox Edition](https://news.xbox.com/en-us/2025/06/24/meta-quest-3s-xbox-edition/)
+ - [This VR headset is an Xbox](https://www.polygon.com/news/608449/xbox-vr-meta-quest-3s-headset)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
