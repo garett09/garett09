@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Reasons Why 2K Needs To Bring Back College Hoops](https://kotaku.com/2k-college-hoops-ea-college-football-26-1851784967)
- - [Unveiling the Limited Edition Meta Quest 3S Xbox Edition](https://news.xbox.com/en-us/2025/06/24/meta-quest-3s-xbox-edition/)
- - [This VR headset is an Xbox](https://www.polygon.com/news/608449/xbox-vr-meta-quest-3s-headset)<!-- GAME:END -->
+ - [Candy Crush All Stars: See the Winner of the $1 Million Tournament](https://youtu.be/Xu5QuHI9cgM?si=Z9ROoh7XfA2nWsq6#new_tab)
+ - [Diablo 4’s free with PlayStation Plus in July](https://www.polygon.com/news/608821/ps-plus-july-2025-games-diablo-4)
+ - [You Have Until Tonight To Take Down Nightreign&#39;s Current Everdark Sovereign, Adel](https://kotaku.com/elden-ring-nightreign-everdark-sovereign-adel-baron-1851785048)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
