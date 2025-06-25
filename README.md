@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and Meta unveil the $399 Meta Quest 3S Xbox Edition, offering few updates to the $299 Meta Quest 3S, available in &quot;extremely limited&quot; quantities &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250624/p15#a250624p15)
- - [These battery-powered 4K cameras record 24/7](https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible)
- - [Tesla&amp;#8217;s robotaxi reality check](https://www.theverge.com/the-vergecast/691888/tesla-robotaxi-mvno-mobile-vergecast)<!-- TECH:END -->
+ - [M5 OLED iPad Pro fall release more certain, screen production underway](https://appleinsider.com/articles/25/06/25/m5-oled-ipad-pro-fall-release-more-certain-screen-production-underway?utm_medium=rss)
+ - [Russia frees REvil hackers after sentencing](https://www.theverge.com/news/692582/russia-revil-hacker-group-ransomware-sentencing)
+ - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
