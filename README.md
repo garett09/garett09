@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Gift from Terry](http://9gag.com/gag/a5QqymG)
- - 🚯 [Groooooooooooovy.](http://9gag.com/gag/aVvV4P8)
- - 🚯 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aMVOyxG)<!-- MEMES:END -->
+ - 🚖 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 🚯 [Sustainability is for the little people](http://9gag.com/gag/axyYQz2)
+ - 🚯 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)<!-- MEMES:END -->
 
 --- 
 
