@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Candy Crush All Stars: See the Winner of the $1 Million Tournament](https://youtu.be/Xu5QuHI9cgM?si=Z9ROoh7XfA2nWsq6#new_tab)
- - [Diablo 4’s free with PlayStation Plus in July](https://www.polygon.com/news/608821/ps-plus-july-2025-games-diablo-4)
- - [You Have Until Tonight To Take Down Nightreign&#39;s Current Everdark Sovereign, Adel](https://kotaku.com/elden-ring-nightreign-everdark-sovereign-adel-baron-1851785048)<!-- GAME:END -->
+ - [Jagex CEO breaks glass, hits PR emergency button by promising an end to a &#39;tainted RuneScape 3&#39; via microtransaction overhaul](https://www.pcgamer.com/games/mmo/jagex-ceo-breaks-glass-hits-pr-emergency-button-by-promising-an-end-to-a-tainted-runescape-3-via-microtransaction-overhaul/)
+ - [Research team shares new method for sucking gold out of old PC hardware, making some progress towards shrinking our mountains of e-waste one day](https://www.pcgamer.com/hardware/research-team-shares-new-method-for-sucking-gold-out-of-old-pc-hardware-that-might-one-day-do-something-about-those-mountains-of-e-waste/)
+ - [Ironheart promotes AI besties and I think it&amp;#8217;s kinda dangerous](https://www.polygon.com/entertainment/608942/marvel-ironheart-promotes-ai-riri-natalie-dangerous)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
