@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 OLED iPad Pro fall release more certain, screen production underway](https://appleinsider.com/articles/25/06/25/m5-oled-ipad-pro-fall-release-more-certain-screen-production-underway?utm_medium=rss)
- - [Russia frees REvil hackers after sentencing](https://www.theverge.com/news/692582/russia-revil-hacker-group-ransomware-sentencing)
- - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)<!-- TECH:END -->
+ - [Samsung launched a pair of cheap earbuds, but you probably won’t be able to buy them](https://www.androidauthority.com/samsung-galaxy-buds-core-3571276/)
+ - [Intel is closing its automotive chipmaking business](https://www.theverge.com/news/693528/intel-automotive-business-shutdown-layoffs)
+ - [Sources: DeepSeek&#39;s highly anticipated R2 model faces delays due to a shortage of Nvidia server chips in China, exacerbated by the US ban of Nvidia&#39;s H20 chips &lpar;The Information&rpar;](http://www.techmeme.com/250626/p20#a250626p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
