@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 🚯 [Sustainability is for the little people](http://9gag.com/gag/axyYQz2)
- - 🚯 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)<!-- MEMES:END -->
+ - 🚖 [Sheeeeesh](http://9gag.com/gag/azxYy5b)
+ - 🚯 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)
+ - 🚯 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)<!-- MEMES:END -->
 
 --- 
 
