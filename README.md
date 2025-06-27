@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung launched a pair of cheap earbuds, but you probably won’t be able to buy them](https://www.androidauthority.com/samsung-galaxy-buds-core-3571276/)
- - [Intel is closing its automotive chipmaking business](https://www.theverge.com/news/693528/intel-automotive-business-shutdown-layoffs)
- - [Sources: DeepSeek&#39;s highly anticipated R2 model faces delays due to a shortage of Nvidia server chips in China, exacerbated by the US ban of Nvidia&#39;s H20 chips &lpar;The Information&rpar;](http://www.techmeme.com/250626/p20#a250626p20)<!-- TECH:END -->
+ - [12 Best Standing Desks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
+ - [PitchBook: US VC investment in AI startups rose 33% QoQ to $65B in Q1, up 550% from the quarter prior to ChatGPT&#39;s 2022 release &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250627/p10#a250627p10)
+ - [5 apps I recommend to every savvy investor](https://www.androidauthority.com/best-investment-apps-i-recommend-3570702/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
