@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jagex CEO breaks glass, hits PR emergency button by promising an end to a &#39;tainted RuneScape 3&#39; via microtransaction overhaul](https://www.pcgamer.com/games/mmo/jagex-ceo-breaks-glass-hits-pr-emergency-button-by-promising-an-end-to-a-tainted-runescape-3-via-microtransaction-overhaul/)
- - [Research team shares new method for sucking gold out of old PC hardware, making some progress towards shrinking our mountains of e-waste one day](https://www.pcgamer.com/hardware/research-team-shares-new-method-for-sucking-gold-out-of-old-pc-hardware-that-might-one-day-do-something-about-those-mountains-of-e-waste/)
- - [Ironheart promotes AI besties and I think it&amp;#8217;s kinda dangerous](https://www.polygon.com/entertainment/608942/marvel-ironheart-promotes-ai-riri-natalie-dangerous)<!-- GAME:END -->
+ - [Overwatch 2’s clunkiest mode finally feels good to play now after crucial fix](https://www.polygon.com/opinion/609416/overwatch-2-flashpoint-map-redesign-season-17)
+ - [Kunitsu-Gami: Path Of The Goddess&#39; Recent Update Makes It Perfect For The Switch 2](https://kotaku.com/kunitsu-gami-path-goddess-how-long-to-beat-switch-2-1851785162)
+ - [The new version of Logitech&#39;s glorious MX Master makes an appearance in the EU Intellectual Property Office database, pointing to an imminent release](https://www.pcgamer.com/hardware/gaming-mice/the-new-version-of-logitechs-glorious-mx-master-makes-an-appearance-in-the-eu-intellectual-property-office-database-pointing-to-an-imminent-release/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
