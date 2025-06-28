@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s clunkiest mode finally feels good to play now after crucial fix](https://www.polygon.com/opinion/609416/overwatch-2-flashpoint-map-redesign-season-17)
- - [Kunitsu-Gami: Path Of The Goddess&#39; Recent Update Makes It Perfect For The Switch 2](https://kotaku.com/kunitsu-gami-path-goddess-how-long-to-beat-switch-2-1851785162)
- - [The new version of Logitech&#39;s glorious MX Master makes an appearance in the EU Intellectual Property Office database, pointing to an imminent release](https://www.pcgamer.com/hardware/gaming-mice/the-new-version-of-logitechs-glorious-mx-master-makes-an-appearance-in-the-eu-intellectual-property-office-database-pointing-to-an-imminent-release/)<!-- GAME:END -->
+ - [Atomic Heart team wants to &amp;#8216;troll flat-earthers&amp;#8217; with new MMO The Cube](https://www.polygon.com/preview/609494/the-cube-interview-atomic-heart-developers-mundfish)
+ - [Steam&#39;s Amazing Summer Sale Is Here, The Xbox 360 Gets An Update, And More Of The Week&#39;s Top Stories](https://kotaku.com/steam-summer-sale-best-deals-elden-ring-nightreign-boss-1851785243)
+ - [Two Point Museum&#39;s first DLC adds a fantasy flourish to your exhibitions, letting you display mimic chests, a giant d20, and a chicken statue that turns people into poultry](https://www.pcgamer.com/games/strategy/two-point-museums-first-dlc-adds-a-fantasy-flourish-to-your-exhibitions-letting-you-display-mimic-chests-a-giant-d20-and-a-chicken-statue-that-turns-people-into-poultry/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
