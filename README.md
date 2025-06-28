@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sheeeeesh](http://9gag.com/gag/azxYy5b)
- - 🚯 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)
- - 🚯 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)<!-- MEMES:END -->
+ - 🚖 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)
+ - 🚯 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
+ - 🚯 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)<!-- MEMES:END -->
 
 --- 
 
