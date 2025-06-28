@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Standing Desks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
- - [PitchBook: US VC investment in AI startups rose 33% QoQ to $65B in Q1, up 550% from the quarter prior to ChatGPT&#39;s 2022 release &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250627/p10#a250627p10)
- - [5 apps I recommend to every savvy investor](https://www.androidauthority.com/best-investment-apps-i-recommend-3570702/)<!-- TECH:END -->
+ - [Kobo’s Libra Colour and Elipsa 2E e-readers have dropped to some of their best prices](https://www.theverge.com/tech/694492/kobo-elipsa-2e-libra-color-yeedi-cube-deal-sale)
+ - [Staples Union &amp; Scale FlexFit Desk Converter Review: Reliable Riser](https://www.wired.com/review/staples-union-and-scale-flexfit-manual-desk-converter/)
+ - [I tested the Garmin Vivoactive 6 and Apple Watch SE, and I still prefer Garmin as a gym mate](https://www.androidauthority.com/apple-watch-se-vs-garmin-vivoactive-6-3570369/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
