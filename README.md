@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kobo’s Libra Colour and Elipsa 2E e-readers have dropped to some of their best prices](https://www.theverge.com/tech/694492/kobo-elipsa-2e-libra-color-yeedi-cube-deal-sale)
- - [Staples Union &amp; Scale FlexFit Desk Converter Review: Reliable Riser](https://www.wired.com/review/staples-union-and-scale-flexfit-manual-desk-converter/)
- - [I tested the Garmin Vivoactive 6 and Apple Watch SE, and I still prefer Garmin as a gym mate](https://www.androidauthority.com/apple-watch-se-vs-garmin-vivoactive-6-3570369/)<!-- TECH:END -->
+ - [10 Best Dash Kitchen Appliances &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dash-kitchen-appliances/)
+ - [These are the 5 weather apps I recommend, but one of them stands out from the rest](https://www.androidauthority.com/best-weather-apps-i-recommend-3571160/)
+ - [Pipistrello and the Cursed Yoyo would feel right at home on your GBA](https://www.theverge.com/games-review/692172/pipistrello-and-the-cursed-yoyo-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
