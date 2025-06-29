@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)
- - 🚯 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
- - 🚯 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)<!-- MEMES:END -->
+ - 🚖 [Painful, really painful](http://9gag.com/gag/aYQA07v)
+ - 🚯 [Japan](http://9gag.com/gag/a2vLXg1)
+ - 🚯 [Saturated market](http://9gag.com/gag/aYQA0Bx)<!-- MEMES:END -->
 
 --- 
 
