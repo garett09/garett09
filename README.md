@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Atomic Heart team wants to &amp;#8216;troll flat-earthers&amp;#8217; with new MMO The Cube](https://www.polygon.com/preview/609494/the-cube-interview-atomic-heart-developers-mundfish)
- - [Steam&#39;s Amazing Summer Sale Is Here, The Xbox 360 Gets An Update, And More Of The Week&#39;s Top Stories](https://kotaku.com/steam-summer-sale-best-deals-elden-ring-nightreign-boss-1851785243)
- - [Two Point Museum&#39;s first DLC adds a fantasy flourish to your exhibitions, letting you display mimic chests, a giant d20, and a chicken statue that turns people into poultry](https://www.pcgamer.com/games/strategy/two-point-museums-first-dlc-adds-a-fantasy-flourish-to-your-exhibitions-letting-you-display-mimic-chests-a-giant-d20-and-a-chicken-statue-that-turns-people-into-poultry/)<!-- GAME:END -->
+ - [The Week&#39;s Top Tips For Oblivion Remastered, Dune: Awakening, And More](https://kotaku.com/oblivion-remastered-best-house-dune-awakening-tips-1851785244)
+ - [Golden Hippopotamus is Elden Ring Nightreign&amp;#8217;s Kool-Aid Man](https://www.polygon.com/gaming/609764/elden-ring-nightreign-golden-hippopotamus-boss-fight-the-worst)
+ - [For the first time in three years, Sable is free to keep on the Epic Store](https://www.pcgamer.com/games/adventure/for-the-first-time-in-three-years-sable-is-free-to-keep-on-the-epic-store/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
