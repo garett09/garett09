@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Painful, really painful](http://9gag.com/gag/aYQA07v)
- - 🚯 [Japan](http://9gag.com/gag/a2vLXg1)
- - 🚯 [Saturated market](http://9gag.com/gag/aYQA0Bx)<!-- MEMES:END -->
+ - 🚖 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
+ - 🚯 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 🚯 [Peak male content](http://9gag.com/gag/aGyOWQK)<!-- MEMES:END -->
 
 --- 
 
