@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Dash Kitchen Appliances &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dash-kitchen-appliances/)
- - [These are the 5 weather apps I recommend, but one of them stands out from the rest](https://www.androidauthority.com/best-weather-apps-i-recommend-3571160/)
- - [Pipistrello and the Cursed Yoyo would feel right at home on your GBA](https://www.theverge.com/games-review/692172/pipistrello-and-the-cursed-yoyo-review)<!-- TECH:END -->
+ - [Tinder is mandating new users in California verify their profiles using facial recognition technology starting June 30 in a bid to reduce impersonation &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250630/p12#a250630p12)
+ - [5 of my favorite tech purchases, besides my Pixel](https://www.androidauthority.com/my-favorite-tech-products-3572114/)
+ - [Lenovo Chromebook Plus 14 Review: A Game-Changer](https://www.wired.com/review/lenovo-chromebook-plus-14/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
