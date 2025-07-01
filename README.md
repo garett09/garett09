@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 5: The Phantom X tier list for the best characters](https://www.pcgamer.com/games/rpg/persona-5-the-phantom-x-tier-list-best-characters/)
- - [Specs rumours for the Super versions of Nvidia&#39;s RTX 5070 cards kick off with more VRAM being the main dish of the day](https://www.pcgamer.com/hardware/graphics-cards/specs-rumours-for-the-super-versions-of-nvidias-rtx-5070-cards-kick-off-with-more-vram-being-the-main-dish-of-the-day/)
- - [&#39;What&#39;s the most chaotic evil thing we can make?&#39;: Overwatch 2 devs are seeing just how far they can push Stadium&#39;s fights, but will reign it in for the sake of player sanity](https://www.pcgamer.com/games/third-person-shooter/whats-the-most-chaotic-evil-thing-we-can-make-overwatch-2-devs-are-seeing-just-how-far-they-can-push-stadiums-fights-but-will-reign-it-in-for-the-sake-of-player-sanity/)<!-- GAME:END -->
+ - [Obsidian director Josh Sawyer says it&#39;s a &#39;mistake&#39; for RPGs to sacrifice crunchy &#39;sweaty boy&#39; systems in favour of a &#39;one size fits all&#39; game, since easier difficulties aren&#39;t too hard to make](https://www.pcgamer.com/gaming-industry/game-development/obsidian-director-josh-sawyer-says-its-a-mistake-for-rpgs-to-sacrifice-crunchy-sweaty-boy-systems-in-favour-of-a-one-size-fits-all-game-since-easier-difficulties-arent-too-hard-to-make/)
+ - [Edgar Wright’s remake of The Running Man looks like a blast in first trailer](https://www.polygon.com/trailer/610138/the-running-man-movie-trailer-edgar-wright)
+ - [Bing Bong is talking to you: Peak players are getting jump-scared by what seems to be the developers possessing a little green plushie](https://www.pcgamer.com/games/adventure/bing-bong-is-talking-to-you-peak-players-are-getting-jump-scared-by-what-seems-to-be-the-developers-possessing-a-little-green-plushie/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
