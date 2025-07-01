@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tinder is mandating new users in California verify their profiles using facial recognition technology starting June 30 in a bid to reduce impersonation &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250630/p12#a250630p12)
- - [5 of my favorite tech purchases, besides my Pixel](https://www.androidauthority.com/my-favorite-tech-products-3572114/)
- - [Lenovo Chromebook Plus 14 Review: A Game-Changer](https://www.wired.com/review/lenovo-chromebook-plus-14/)<!-- TECH:END -->
+ - [Senate drops plan to ban state AI laws](https://www.theverge.com/politics/695495/senate-drops-ai-moratorium-budget-bill)
+ - [Genesis AI, which generates its own synthetic data for training an AI model for robots, emerges from stealth with a $105M seed co-led by Eclipse and Khosla &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250701/p9#a250701p9)
+ - [The Running Man mixes mayhem and humor in first trailer](https://www.theverge.com/news/695608/the-running-man-trailer-edgar-wright)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
