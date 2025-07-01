@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
- - 🚯 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
- - 🚯 [Peak male content](http://9gag.com/gag/aGyOWQK)<!-- MEMES:END -->
+ - 🚖 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - 🚯 [Friends just being themselves](http://9gag.com/gag/aXPKDEz)
+ - 🚯 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)<!-- MEMES:END -->
 
 --- 
 
