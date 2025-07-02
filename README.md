@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Obsidian director Josh Sawyer says it&#39;s a &#39;mistake&#39; for RPGs to sacrifice crunchy &#39;sweaty boy&#39; systems in favour of a &#39;one size fits all&#39; game, since easier difficulties aren&#39;t too hard to make](https://www.pcgamer.com/gaming-industry/game-development/obsidian-director-josh-sawyer-says-its-a-mistake-for-rpgs-to-sacrifice-crunchy-sweaty-boy-systems-in-favour-of-a-one-size-fits-all-game-since-easier-difficulties-arent-too-hard-to-make/)
- - [Edgar Wright’s remake of The Running Man looks like a blast in first trailer](https://www.polygon.com/trailer/610138/the-running-man-movie-trailer-edgar-wright)
- - [Bing Bong is talking to you: Peak players are getting jump-scared by what seems to be the developers possessing a little green plushie](https://www.pcgamer.com/games/adventure/bing-bong-is-talking-to-you-peak-players-are-getting-jump-scared-by-what-seems-to-be-the-developers-possessing-a-little-green-plushie/)<!-- GAME:END -->
+ - [AMD offers an update on Project Amethyst, a Sony collaboration that&#39;s already &#39;delivered smarter, more efficient solutions like Super Resolution in FSR 4&#39;](https://www.pcgamer.com/hardware/graphics-cards/amds-jack-huynh-offers-an-update-on-project-amethyst-a-sony-collaboration-thats-already-delivered-smarter-more-efficient-solutions-like-super-resolution-in-fsr-4/)
+ - [Latest Round Of Mass Layoffs At Xbox Begin With 200 Jobs At Candy Crush Maker King](https://kotaku.com/latest-round-of-mass-layoffs-at-xbox-begin-with-200-job-1851785492)
+ - [Monster Hunter Wilds&#39; Talismans Feel Convoluted To Upgrade, But We Can Make It Simple](https://kotaku.com/monster-hunter-wilds-mhw-talisman-upgrade-forge-1851785415)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
