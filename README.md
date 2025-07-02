@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senate drops plan to ban state AI laws](https://www.theverge.com/politics/695495/senate-drops-ai-moratorium-budget-bill)
- - [Genesis AI, which generates its own synthetic data for training an AI model for robots, emerges from stealth with a $105M seed co-led by Eclipse and Khosla &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250701/p9#a250701p9)
- - [The Running Man mixes mayhem and humor in first trailer](https://www.theverge.com/news/695608/the-running-man-trailer-edgar-wright)<!-- TECH:END -->
+ - [After years of rumors, Apple now has a production prototype iPhone fold](https://appleinsider.com/articles/25/07/02/after-years-of-rumors-apple-now-has-a-prototype-iphone-fold?utm_medium=rss)
+ - [Qantas data breach exposes personal details of millions of customers](https://appleinsider.com/articles/25/07/02/qantas-data-breach-exposes-personal-details-of-millions-of-customers?utm_medium=rss)
+ - [Tesla reports 14 percent drop in second-quarter vehicle deliveries](https://www.theverge.com/news/696473/tesla-q2-2025-sales-report-decrease-elon-musk-robotaxi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
