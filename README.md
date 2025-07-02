@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
- - 🚯 [Friends just being themselves](http://9gag.com/gag/aXPKDEz)
- - 🚯 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)<!-- MEMES:END -->
+ - 🚖 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
+ - 🚯 [Now you are gey](http://9gag.com/gag/amopDDo)
+ - 🚯 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)<!-- MEMES:END -->
 
 --- 
 
