@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD offers an update on Project Amethyst, a Sony collaboration that&#39;s already &#39;delivered smarter, more efficient solutions like Super Resolution in FSR 4&#39;](https://www.pcgamer.com/hardware/graphics-cards/amds-jack-huynh-offers-an-update-on-project-amethyst-a-sony-collaboration-thats-already-delivered-smarter-more-efficient-solutions-like-super-resolution-in-fsr-4/)
- - [Latest Round Of Mass Layoffs At Xbox Begin With 200 Jobs At Candy Crush Maker King](https://kotaku.com/latest-round-of-mass-layoffs-at-xbox-begin-with-200-job-1851785492)
- - [Monster Hunter Wilds&#39; Talismans Feel Convoluted To Upgrade, But We Can Make It Simple](https://kotaku.com/monster-hunter-wilds-mhw-talisman-upgrade-forge-1851785415)<!-- GAME:END -->
+ - [Massive PS5 Hit Helldivers 2 Is Coming To Xbox This August As Console Exclusivity Wall Comes Down](https://kotaku.com/helldivers-2-xbox-series-x-s-release-date-ps5-exclusive-1851785573)
+ - [Helldivers 2 is Coming to Xbox on August 26: Pre-Order Today](https://news.xbox.com/en-us/2025/07/03/helldivers-2-xbox-release-date-pre-order/)
+ - [Batman Ninja vs. Yakuza League is a hilariously chaotic mashup of DC Comics and anime tropes](https://www.polygon.com/anime/610759/batman-ninja-vs-yakuza-league-anime-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
