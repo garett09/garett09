@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
- - 🚯 [Now you are gey](http://9gag.com/gag/amopDDo)
- - 🚯 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)<!-- MEMES:END -->
+ - 🚖 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
+ - 🚯 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
+ - 🚯 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)<!-- MEMES:END -->
 
 --- 
 
