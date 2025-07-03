@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After years of rumors, Apple now has a production prototype iPhone fold](https://appleinsider.com/articles/25/07/02/after-years-of-rumors-apple-now-has-a-prototype-iphone-fold?utm_medium=rss)
- - [Qantas data breach exposes personal details of millions of customers](https://appleinsider.com/articles/25/07/02/qantas-data-breach-exposes-personal-details-of-millions-of-customers?utm_medium=rss)
- - [Tesla reports 14 percent drop in second-quarter vehicle deliveries](https://www.theverge.com/news/696473/tesla-q2-2025-sales-report-decrease-elon-musk-robotaxi)<!-- TECH:END -->
+ - [Sources detail EA&#39;s issues developing the next Battlefield, which now has a $400M+ budget; some staff were skeptical of the EA leadership&#39;s 100M player target &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/250703/p19#a250703p19)
+ - [Samsung&#39;s One UI 8 build animation files show its future tri-fold phone, with three rear panels and two inward-folding hinges, rumored to be the Galaxy G Fold &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/250703/p18#a250703p18)
+ - [Fight me! $799 is a great price for the Nothing Phone 3](https://www.androidauthority.com/nothing-phone-3-price-is-right-3573261/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
