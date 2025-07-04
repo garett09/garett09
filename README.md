@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
- - 🚯 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
- - 🚯 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)<!-- MEMES:END -->
+ - 🚖 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)
+ - 🚯 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
+ - 🚯 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
 
 --- 
 
