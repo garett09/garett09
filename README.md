@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail EA&#39;s issues developing the next Battlefield, which now has a $400M+ budget; some staff were skeptical of the EA leadership&#39;s 100M player target &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/250703/p19#a250703p19)
- - [Samsung&#39;s One UI 8 build animation files show its future tri-fold phone, with three rear panels and two inward-folding hinges, rumored to be the Galaxy G Fold &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/250703/p18#a250703p18)
- - [Fight me! $799 is a great price for the Nothing Phone 3](https://www.androidauthority.com/nothing-phone-3-price-is-right-3573261/)<!-- TECH:END -->
+ - [Sources: Google plans to propose a price comparison box at the top of search results in EU, featuring ranked options from competitors, to avoid DMA fines &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250704/p6#a250704p6)
+ - [Siri&#39;s future, the original iPhone&#39;s past, and Apple Music&#39;s birthday on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/04/siris-future-the-original-iphones-past-and-apple-musics-birthday-on-the-appleinsider-podcast?utm_medium=rss)
+ - [The American system of democracy has crashed](https://www.theverge.com/policy/697301/trump-supreme-court-founding-fathers-july-4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
