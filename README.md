@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Massive PS5 Hit Helldivers 2 Is Coming To Xbox This August As Console Exclusivity Wall Comes Down](https://kotaku.com/helldivers-2-xbox-series-x-s-release-date-ps5-exclusive-1851785573)
- - [Helldivers 2 is Coming to Xbox on August 26: Pre-Order Today](https://news.xbox.com/en-us/2025/07/03/helldivers-2-xbox-release-date-pre-order/)
- - [Batman Ninja vs. Yakuza League is a hilariously chaotic mashup of DC Comics and anime tropes](https://www.polygon.com/anime/610759/batman-ninja-vs-yakuza-league-anime-review)<!-- GAME:END -->
+ - [Rematch plans to add an in-game report system, punish own-goal griefers with 3 days in the slammer, and slap cheaters with indefinite bans](https://www.pcgamer.com/games/sports/rematch-plans-to-add-an-in-game-report-system-punish-own-goal-griefers-with-3-days-in-the-slammer-and-cheaters-with-indefinite-bans/)
+ - [How To Send Nintendo Switch 2 Screenshots To Your Phone](https://kotaku.com/nintendo-switch-2-screenshots-share-save-phone-ios-1851785637)
+ - [9 Signs That The MCU Has Lost Its Way](https://kotaku.com/marvel-cinematic-universe-phase-5-marvel-comics-1851785555)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
