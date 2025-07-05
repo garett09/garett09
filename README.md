@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)
- - 🚯 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
- - 🚯 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
+ - 🚖 [She cracked the code](http://9gag.com/gag/aD2Qod9)
+ - 🚯 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
+ - 🚯 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)<!-- MEMES:END -->
 
 --- 
 
