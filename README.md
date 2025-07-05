@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rematch plans to add an in-game report system, punish own-goal griefers with 3 days in the slammer, and slap cheaters with indefinite bans](https://www.pcgamer.com/games/sports/rematch-plans-to-add-an-in-game-report-system-punish-own-goal-griefers-with-3-days-in-the-slammer-and-cheaters-with-indefinite-bans/)
- - [How To Send Nintendo Switch 2 Screenshots To Your Phone](https://kotaku.com/nintendo-switch-2-screenshots-share-save-phone-ios-1851785637)
- - [9 Signs That The MCU Has Lost Its Way](https://kotaku.com/marvel-cinematic-universe-phase-5-marvel-comics-1851785555)<!-- GAME:END -->
+ - [Kotaku’s Opinions For The Week July 05, 2025](https://kotaku.com/kotaku-s-opinions-for-the-week-july-05-2025-1851785672)
+ - [Kotaku’s Best Game Tips For The Week July 05, 2025](https://kotaku.com/kotaku-s-best-game-tips-for-the-week-july-05-2025-1851785671)
+ - [Kotaku’s Biggest Gaming Culture News For The Week July 05, 2025](https://kotaku.com/kotaku-s-biggest-gaming-culture-news-for-the-week-july-1851785670)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
