@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She cracked the code](http://9gag.com/gag/aD2Qod9)
- - 🚯 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
- - 🚯 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)<!-- MEMES:END -->
+ - 🚖 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
+ - 🚯 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
+ - 🚯 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
 
 --- 
 
