@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kotaku’s Opinions For The Week July 05, 2025](https://kotaku.com/kotaku-s-opinions-for-the-week-july-05-2025-1851785672)
- - [Kotaku’s Best Game Tips For The Week July 05, 2025](https://kotaku.com/kotaku-s-best-game-tips-for-the-week-july-05-2025-1851785671)
- - [Kotaku’s Biggest Gaming Culture News For The Week July 05, 2025](https://kotaku.com/kotaku-s-biggest-gaming-culture-news-for-the-week-july-1851785670)<!-- GAME:END -->
+ - [Deep Rock Galactic Survivor is gearing up for launch, literally—adding a fully-fledged gear system when it hits 1.0 in September](https://www.pcgamer.com/games/action/deep-rock-galactic-survivor-is-gearing-up-for-launch-literally-adding-a-fully-fledged-gear-system-when-it-hits-1-0-in-september/)
+ - [Preservationists discover a &#39;nearly complete&#39; build of a lost Animaniacs game 22 years after it was cancelled, and you can play it right now](https://www.pcgamer.com/games/preservationists-discover-a-nearly-complete-build-of-a-lost-animaniacs-game-22-years-after-it-was-cancelled-and-you-can-play-it-right-now/)
+ - [Rust&#39;s developer is overhauling the survival sim&#39;s mission system so it can create in-game quests faster and more easily: &#39;The process to create new missions internally is quite cumbersome and error prone&#39;](https://www.pcgamer.com/games/survival-crafting/rusts-developer-is-overhauling-the-survival-sims-mission-system-so-it-can-create-in-game-quests-faster-and-more-easily-the-process-to-create-new-missions-internally-is-quite-cumbersome-and-error-prone/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
