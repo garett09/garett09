@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the 15 best open source Android games you need to download](https://www.androidauthority.com/best-open-source-android-games-3571204/)
- - [Best Laptop Stands &lpar;2025&rpar;: 25+ Models Tested and Reviewed](https://www.wired.com/gallery/best-laptop-stands/)
- - [Deltarune is halfway done, but it feels like a full game](https://www.theverge.com/games-review/697019/deltarune-chapters-1-2-3-4-review-pc-playstation-switch)<!-- TECH:END -->
+ - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
+ - [Pixel 10 Pro’s new display tackles eye strain, but it’s not the leap I wanted](https://www.androidauthority.com/pixel-10-pwm-display-explained-3572946/)
+ - [The Verge’s summer ‘in’ and ‘out’ list](https://www.theverge.com/695286/the-verge-2025-summer-in-out-list)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
