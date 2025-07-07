@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
- - [Pixel 10 Pro’s new display tackles eye strain, but it’s not the leap I wanted](https://www.androidauthority.com/pixel-10-pwm-display-explained-3572946/)
- - [The Verge’s summer ‘in’ and ‘out’ list](https://www.theverge.com/695286/the-verge-2025-summer-in-out-list)<!-- TECH:END -->
+ - [Samsung boosts SmartThings with AI routines &amp; expanded Apple support](https://appleinsider.com/articles/25/07/07/samsung-boosts-smartthings-with-ai-routines-expanded-apple-support?utm_medium=rss)
+ - [CoreWeave says it agreed to acquire bitcoin miner Core Scientific in a ~$9B all-stock deal, set to close in Q4 2025, to expand its AI data center capacity &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250707/p11#a250707p11)
+ - [Now you can just tell SmartThings how to automate your home](https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
