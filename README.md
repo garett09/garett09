@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
- - 🚯 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
- - 🚯 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
+ - 🚖 [Poland - Hold the Fort!](http://9gag.com/gag/avy9O8n)
+ - 🚯 [Cool bike man](http://9gag.com/gag/aQzy3d7)
+ - 🚯 [What a creative way to repurpose old toys.](http://9gag.com/gag/a5Q5bDN)<!-- MEMES:END -->
 
 --- 
 
