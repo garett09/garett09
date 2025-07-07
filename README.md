@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deep Rock Galactic Survivor is gearing up for launch, literally—adding a fully-fledged gear system when it hits 1.0 in September](https://www.pcgamer.com/games/action/deep-rock-galactic-survivor-is-gearing-up-for-launch-literally-adding-a-fully-fledged-gear-system-when-it-hits-1-0-in-september/)
- - [Preservationists discover a &#39;nearly complete&#39; build of a lost Animaniacs game 22 years after it was cancelled, and you can play it right now](https://www.pcgamer.com/games/preservationists-discover-a-nearly-complete-build-of-a-lost-animaniacs-game-22-years-after-it-was-cancelled-and-you-can-play-it-right-now/)
- - [Rust&#39;s developer is overhauling the survival sim&#39;s mission system so it can create in-game quests faster and more easily: &#39;The process to create new missions internally is quite cumbersome and error prone&#39;](https://www.pcgamer.com/games/survival-crafting/rusts-developer-is-overhauling-the-survival-sims-mission-system-so-it-can-create-in-game-quests-faster-and-more-easily-the-process-to-create-new-missions-internally-is-quite-cumbersome-and-error-prone/)<!-- GAME:END -->
+ - [Summer Games Done Quick 2025 is now live—kicking off a full week of speedruns and goofs to raise money for Doctors Without Borders](https://www.pcgamer.com/gaming-industry/events-conferences/summer-games-done-quick-2025-is-now-live-kicking-off-a-full-week-of-speedruns-and-goofs-to-raise-money-for-doctors-without-borders/)
+ - [The Finest Cosplay Appearing At Dokomi 2025](https://kotaku.com/dokomi-cosplay-germany-league-of-legends-clair-obscur-1851785688)
+ - [I hit one of Australia&#39;s biggest retro fares and PC gaming was nowhere to be seen, though collectors told me that&#39;s down to one of its major retro strengths](https://www.pcgamer.com/hardware/i-hit-one-of-australias-biggest-retro-fares-and-pc-gaming-was-nowhere-to-be-seen-though-collectors-told-me-thats-down-to-one-of-its-major-retro-strengths/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
