@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poland - Hold the Fort!](http://9gag.com/gag/avy9O8n)
- - 🚯 [Cool bike man](http://9gag.com/gag/aQzy3d7)
- - 🚯 [What a creative way to repurpose old toys.](http://9gag.com/gag/a5Q5bDN)<!-- MEMES:END -->
+ - 🚖 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - 🚯 [No shots needed](http://9gag.com/gag/amoR5Rd)
+ - 🚯 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)<!-- MEMES:END -->
 
 --- 
 
