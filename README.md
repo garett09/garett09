@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung boosts SmartThings with AI routines &amp; expanded Apple support](https://appleinsider.com/articles/25/07/07/samsung-boosts-smartthings-with-ai-routines-expanded-apple-support?utm_medium=rss)
- - [CoreWeave says it agreed to acquire bitcoin miner Core Scientific in a ~$9B all-stock deal, set to close in Q4 2025, to expand its AI data center capacity &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250707/p11#a250707p11)
- - [Now you can just tell SmartThings how to automate your home](https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines)<!-- TECH:END -->
+ - [T-Mobile is giving away DashPass subscriptions starting today](https://www.androidauthority.com/t-mobile-dashpass-perk-3575028/)
+ - [Live Prime Day deals: Best Apple Watch, iPad, AirPods, Mac discounts up to 51% off](https://appleinsider.com/articles/25/07/08/live-prime-day-deals-best-apple-watch-ipad-airpods-mac-discounts-up-to-51-off?utm_medium=rss)
+ - [French chipmaker SiPearl raised a €130M Series A from Taiwan&#39;s Cathay Venture and others to develop its Arm-based Rhea1 AI chip, set to feature 80 cores &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250708/p11#a250708p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
