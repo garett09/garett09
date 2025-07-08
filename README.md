@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Summer Games Done Quick 2025 is now live—kicking off a full week of speedruns and goofs to raise money for Doctors Without Borders](https://www.pcgamer.com/gaming-industry/events-conferences/summer-games-done-quick-2025-is-now-live-kicking-off-a-full-week-of-speedruns-and-goofs-to-raise-money-for-doctors-without-borders/)
- - [The Finest Cosplay Appearing At Dokomi 2025](https://kotaku.com/dokomi-cosplay-germany-league-of-legends-clair-obscur-1851785688)
- - [I hit one of Australia&#39;s biggest retro fares and PC gaming was nowhere to be seen, though collectors told me that&#39;s down to one of its major retro strengths](https://www.pcgamer.com/hardware/i-hit-one-of-australias-biggest-retro-fares-and-pc-gaming-was-nowhere-to-be-seen-though-collectors-told-me-thats-down-to-one-of-its-major-retro-strengths/)<!-- GAME:END -->
+ - [Subnautica Director Breaks Silence On Being Removed From The Studio Before The Sequel&#39;s Release: &#39;The Game Is Ready&#39; [Update]](https://kotaku.com/subnautica-2-unknown-worlds-krafton-early-access-1851785764)
+ - [Marvel Rivals digs its heels into the gooner dirt as it reveals five new swimsuit skins, giving the people what they want: Punisher in a Speedo](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-digs-its-heels-into-the-gooner-dirt-as-it-reveals-five-new-swimsuit-skins-giving-the-people-what-they-want-punisher-in-a-speedo/)
+ - [Borderlands 4 certainly looks like it&#39;s taking its story more seriously: &#39;We wanted to go back to this sense of dread about the villain of our game&#39;](https://www.pcgamer.com/games/rpg/borderlands-4-certainly-looks-like-its-taking-its-story-more-seriously-we-wanted-to-go-back-to-this-sense-of-dread-about-the-villain-of-our-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
