@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
- - 🚯 [No shots needed](http://9gag.com/gag/amoR5Rd)
- - 🚯 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)<!-- MEMES:END -->
+ - 🚖 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 🚯 [Every day at the office.](http://9gag.com/gag/aVvR73n)
+ - 🚯 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
 
 --- 
 
