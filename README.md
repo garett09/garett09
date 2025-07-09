@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is giving away DashPass subscriptions starting today](https://www.androidauthority.com/t-mobile-dashpass-perk-3575028/)
- - [Live Prime Day deals: Best Apple Watch, iPad, AirPods, Mac discounts up to 51% off](https://appleinsider.com/articles/25/07/08/live-prime-day-deals-best-apple-watch-ipad-airpods-mac-discounts-up-to-51-off?utm_medium=rss)
- - [French chipmaker SiPearl raised a €130M Series A from Taiwan&#39;s Cathay Venture and others to develop its Arm-based Rhea1 AI chip, set to feature 80 cores &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250708/p11#a250708p11)<!-- TECH:END -->
+ - [Appeals court strikes down ‘click-to-cancel’ rule](https://www.theverge.com/news/702398/ftc-click-to-cancel-rule-struck-down-appeals-court)
+ - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
+ - [Samsung Galaxy Unpacked 2025: Everything announced at the July event](https://www.theverge.com/news/701144/samsung-galaxy-unpacked-everything-announced-july-event)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
