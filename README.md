@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Subnautica Director Breaks Silence On Being Removed From The Studio Before The Sequel&#39;s Release: &#39;The Game Is Ready&#39; [Update]](https://kotaku.com/subnautica-2-unknown-worlds-krafton-early-access-1851785764)
- - [Marvel Rivals digs its heels into the gooner dirt as it reveals five new swimsuit skins, giving the people what they want: Punisher in a Speedo](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-digs-its-heels-into-the-gooner-dirt-as-it-reveals-five-new-swimsuit-skins-giving-the-people-what-they-want-punisher-in-a-speedo/)
- - [Borderlands 4 certainly looks like it&#39;s taking its story more seriously: &#39;We wanted to go back to this sense of dread about the villain of our game&#39;](https://www.pcgamer.com/games/rpg/borderlands-4-certainly-looks-like-its-taking-its-story-more-seriously-we-wanted-to-go-back-to-this-sense-of-dread-about-the-villain-of-our-game/)<!-- GAME:END -->
+ - [RRR director ‘sensed something magical’ when Kojima scanned him for his Death Stranding 2 cameo](https://www.polygon.com/news/611757/death-stranding-2-rrr-director-ss-rajamouli-cameo-comment)
+ - [Scarlett Johansson’s Jurassic World Rebirth hero mode is smarter and sneakier than it looks](https://www.polygon.com/opinion/611691/scarlett-johansson-performance-jurassic-park-rebirth-explained)
+ - [Wednesday returns to Nevermore Academy a hero in season 2](https://www.polygon.com/trailer/611750/wednesday-season-2-second-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
