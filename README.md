@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
- - 🚯 [Every day at the office.](http://9gag.com/gag/aVvR73n)
- - 🚯 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
+ - 🚖 [Finally a good new policy by tech company](http://9gag.com/gag/aO8p2GE)
+ - 🚯 [The famous sample from Linkin Park&#39;s Faint](http://9gag.com/gag/aD2QYKK)
+ - 🚯 [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)<!-- MEMES:END -->
 
 --- 
 
