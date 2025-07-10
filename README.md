@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appeals court strikes down ‘click-to-cancel’ rule](https://www.theverge.com/news/702398/ftc-click-to-cancel-rule-struck-down-appeals-court)
- - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
- - [Samsung Galaxy Unpacked 2025: Everything announced at the July event](https://www.theverge.com/news/701144/samsung-galaxy-unpacked-everything-announced-july-event)<!-- TECH:END -->
+ - [Sony Xperia 1 VII units in more regions are dying, but there’s a temporary solution](https://www.androidauthority.com/sony-xperia-1-vii-issues-more-regions-3576112/)
+ - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
+ - [Here are 58 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
