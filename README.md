@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RRR director ‘sensed something magical’ when Kojima scanned him for his Death Stranding 2 cameo](https://www.polygon.com/news/611757/death-stranding-2-rrr-director-ss-rajamouli-cameo-comment)
- - [Scarlett Johansson’s Jurassic World Rebirth hero mode is smarter and sneakier than it looks](https://www.polygon.com/opinion/611691/scarlett-johansson-performance-jurassic-park-rebirth-explained)
- - [Wednesday returns to Nevermore Academy a hero in season 2](https://www.polygon.com/trailer/611750/wednesday-season-2-second-trailer)<!-- GAME:END -->
+ - [Helldivers 2 Control Group Warbond launches July 17](https://blog.playstation.com/2025/07/10/helldivers-2-control-group-warbond-launches-july-17/)
+ - [Ex-D&amp;#038;D and Magic: The Gathering VP takes over Vampire: The Masquerade as creative director](https://www.polygon.com/news/612076/white-wolf-jess-lanzillo-dungeons-dragons-magic-the-gathering)
+ - [What is Umamusume: Pretty Derby, the game taking over Twitch and Steam?](https://www.polygon.com/gaming/612058/umamusume-pretty-derby-popularity-what-is-explainer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
