@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 1 VII units in more regions are dying, but there’s a temporary solution](https://www.androidauthority.com/sony-xperia-1-vii-issues-more-regions-3576112/)
- - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
- - [Here are 58 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
+ - [New leak spills Google’s full pricing strategy for the entire Pixel 10 lineup](https://www.androidauthority.com/google-pixel-10-series-leaked-eu-pricing-3576743/)
+ - [All eyes on Samsung’s thin new foldable](https://www.theverge.com/the-vergecast/704736/samsung-foldables-smartwatches-apple-coo-grok-ai-vergecast)
+ - [Get more done with less effort — These productivity-boosting gadgets now start from $119](https://www.androidauthority.com/viaim-recdot-prime-day-2025-3576523/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
