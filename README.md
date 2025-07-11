@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 Control Group Warbond launches July 17](https://blog.playstation.com/2025/07/10/helldivers-2-control-group-warbond-launches-july-17/)
- - [Ex-D&amp;#038;D and Magic: The Gathering VP takes over Vampire: The Masquerade as creative director](https://www.polygon.com/news/612076/white-wolf-jess-lanzillo-dungeons-dragons-magic-the-gathering)
- - [What is Umamusume: Pretty Derby, the game taking over Twitch and Steam?](https://www.polygon.com/gaming/612058/umamusume-pretty-derby-popularity-what-is-explainer)<!-- GAME:END -->
+ - [Destiny 2 &#39;Lootapalooza&#39; Derailed As Fans Mass-Delete Characters [Update]](https://kotaku.com/destiny-2-infinite-nonary-engrams-daily-login-free-1851786003)
+ - [Tony Hawk’s Pro Skater 3 and 4 is only half a remaster &lpar;and that’s great&rpar;](https://www.polygon.com/gaming/612450/thps-tony-hawks-pro-skater-3-4-remaster-review)
+ - [Help Fight ICE And Get 100 Games And Over 400 Table-Top RPGs](https://kotaku.com/itch-io-bundle-no-ice-in-california-table-top-rpg-1851786085)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
