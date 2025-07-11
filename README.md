@@ -121,11 +121,11 @@ while(dev.isCoding() && dev.isStuck())
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/ethan-josh/pseudo-shop/pull/13) in [ethan-josh/pseudo-shop](https://github.com/ethan-josh/pseudo-shop)
-2. 💪 Opened PR [#13](https://github.com/ethan-josh/pseudo-shop/pull/13) in [ethan-josh/pseudo-shop](https://github.com/ethan-josh/pseudo-shop)
-3. 💪 Opened PR [#12](https://github.com/ethan-josh/pseudo-shop/pull/12) in [ethan-josh/pseudo-shop](https://github.com/ethan-josh/pseudo-shop)
-4. ❌ Closed PR [#11](https://github.com/ethan-josh/pseudo-shop/pull/11) in [ethan-josh/pseudo-shop](https://github.com/ethan-josh/pseudo-shop)
-5. ❌ Closed PR [#9](https://github.com/ethan-josh/pseudo-shop/pull/9) in [ethan-josh/pseudo-shop](https://github.com/ethan-josh/pseudo-shop)
+1. 🎉 Merged PR [#5](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/5) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
+2. 💪 Opened PR [#5](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/5) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
+3. 🗣 Commented on [#4](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/4#issuecomment-3060810990) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
+4. 💪 Opened PR [#4](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/4) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
+5. 🎉 Merged PR [#3](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/3) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
 <!--END_SECTION:activity-->
 
 ---
