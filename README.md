@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally a good new policy by tech company](http://9gag.com/gag/aO8p2GE)
- - 🚯 [The famous sample from Linkin Park&#39;s Faint](http://9gag.com/gag/aD2QYKK)
- - 🚯 [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)<!-- MEMES:END -->
+ - 🚖 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
+ - 🚯 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)
+ - 🚯 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)<!-- MEMES:END -->
 
 --- 
 
