@@ -121,11 +121,11 @@ while(dev.isCoding() && dev.isStuck())
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/5) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
-2. 💪 Opened PR [#5](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/5) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
-3. 🗣 Commented on [#4](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/4#issuecomment-3060810990) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
-4. 💪 Opened PR [#4](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/4) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
-5. 🎉 Merged PR [#3](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/3) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
+1. 🗣 Commented on [#7](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/7#issuecomment-3061841806) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
+2. 💪 Opened PR [#7](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/7) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
+3. 💪 Opened PR [#6](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/6) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
+4. 🎉 Merged PR [#5](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/5) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
+5. 💪 Opened PR [#5](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/5) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
 <!--END_SECTION:activity-->
 
 ---
