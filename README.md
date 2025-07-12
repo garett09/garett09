@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 &#39;Lootapalooza&#39; Derailed As Fans Mass-Delete Characters [Update]](https://kotaku.com/destiny-2-infinite-nonary-engrams-daily-login-free-1851786003)
- - [Tony Hawk’s Pro Skater 3 and 4 is only half a remaster &lpar;and that’s great&rpar;](https://www.polygon.com/gaming/612450/thps-tony-hawks-pro-skater-3-4-remaster-review)
- - [Help Fight ICE And Get 100 Games And Over 400 Table-Top RPGs](https://kotaku.com/itch-io-bundle-no-ice-in-california-table-top-rpg-1851786085)<!-- GAME:END -->
+ - [After 160 hours of Nightreign, I can never go back to Elden Ring](https://www.polygon.com/analysis/612732/elden-ring-nightreign-shadow-erdtree-gameplay-differences-everdark-nightlord)
+ - [Two Point Museum&#39;s latest update lets you manage a museum atop a massive mountain, and allows all players a taste of its upcoming fantasy-themed DLC](https://www.pcgamer.com/games/sim/two-point-museums-latest-update-lets-you-manage-a-museum-atop-a-massive-mountain-and-allows-all-players-a-taste-of-its-upcoming-fantasy-themed-dlc/)
+ - [3 Netflix shows we&amp;#8217;re binge-watching this weekend &lpar;July 12-13&rpar;](https://www.polygon.com/tv/612402/netflix-shows-to-watch-july-12-13-2025)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
