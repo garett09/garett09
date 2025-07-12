@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New leak spills Google’s full pricing strategy for the entire Pixel 10 lineup](https://www.androidauthority.com/google-pixel-10-series-leaked-eu-pricing-3576743/)
- - [All eyes on Samsung’s thin new foldable](https://www.theverge.com/the-vergecast/704736/samsung-foldables-smartwatches-apple-coo-grok-ai-vergecast)
- - [Get more done with less effort — These productivity-boosting gadgets now start from $119](https://www.androidauthority.com/viaim-recdot-prime-day-2025-3576523/)<!-- TECH:END -->
+ - [I almost lost my phone number of 20 years, and here’s what I learned](https://www.androidauthority.com/what-i-learned-after-losing-phone-number-3572341/)
+ - [Timekettle T1 Handheld Translator Review: Global Offline Translation](https://www.wired.com/review/timekettle-t1-handheld-translator/)
+ - [Playdate’s second season sucked me back into the little yellow handheld](https://www.theverge.com/games-review/705348/playdate-season-2-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
