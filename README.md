@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [EP01](http://9gag.com/gag/aBy46bD)
- - 🚯 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
- - 🚯 [US situation](http://9gag.com/gag/a1mONLG)<!-- MEMES:END -->
+ - 🚖 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
+ - 🚯 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
+ - 🚯 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)<!-- MEMES:END -->
 
 --- 
 
