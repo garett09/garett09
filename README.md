@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 160 hours of Nightreign, I can never go back to Elden Ring](https://www.polygon.com/analysis/612732/elden-ring-nightreign-shadow-erdtree-gameplay-differences-everdark-nightlord)
- - [Two Point Museum&#39;s latest update lets you manage a museum atop a massive mountain, and allows all players a taste of its upcoming fantasy-themed DLC](https://www.pcgamer.com/games/sim/two-point-museums-latest-update-lets-you-manage-a-museum-atop-a-massive-mountain-and-allows-all-players-a-taste-of-its-upcoming-fantasy-themed-dlc/)
- - [3 Netflix shows we&amp;#8217;re binge-watching this weekend &lpar;July 12-13&rpar;](https://www.polygon.com/tv/612402/netflix-shows-to-watch-july-12-13-2025)<!-- GAME:END -->
+ - [Where are all the good dog games at?](https://www.polygon.com/gaming/612438/dog-games-why-none)
+ - [This wildly ambitious Yakuza 5 co-op mod lets you play together as Kiryu and Ichiban, even folding Like a Dragon&#39;s protagonist into the game&#39;s cutscenes](https://www.pcgamer.com/games/rpg/this-wildly-ambitious-yakuza-5-co-op-mod-lets-you-play-together-as-kiryu-and-ichiban-even-folding-like-a-dragons-protagonist-into-the-games-cutscenes/)
+ - [Lois Lane seems terrible at interviewing Superman, but is she playing a dangerous game?](https://www.polygon.com/dc/612757/superman-lois-lane-good-or-bad-journalist)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
