@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I almost lost my phone number of 20 years, and here’s what I learned](https://www.androidauthority.com/what-i-learned-after-losing-phone-number-3572341/)
- - [Timekettle T1 Handheld Translator Review: Global Offline Translation](https://www.wired.com/review/timekettle-t1-handheld-translator/)
- - [Playdate’s second season sucked me back into the little yellow handheld](https://www.theverge.com/games-review/705348/playdate-season-2-review)<!-- TECH:END -->
+ - [How Jeff Williams&#39; departure from Apple will shuffle exec responsibilities](https://appleinsider.com/articles/25/07/13/how-jeff-williams-departure-from-apple-will-shuffle-exec-responsibilities?utm_medium=rss)
+ - [5 reasons I still use a projector even though I already own a big TV](https://www.androidauthority.com/5-reasons-i-use-a-projector-3571081/)
+ - [Garmin Forerunner 970 Review: A Very Extra Running Watch](https://www.wired.com/review/garmin-forerunner-970/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
