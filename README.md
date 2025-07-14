@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where are all the good dog games at?](https://www.polygon.com/gaming/612438/dog-games-why-none)
- - [This wildly ambitious Yakuza 5 co-op mod lets you play together as Kiryu and Ichiban, even folding Like a Dragon&#39;s protagonist into the game&#39;s cutscenes](https://www.pcgamer.com/games/rpg/this-wildly-ambitious-yakuza-5-co-op-mod-lets-you-play-together-as-kiryu-and-ichiban-even-folding-like-a-dragons-protagonist-into-the-games-cutscenes/)
- - [Lois Lane seems terrible at interviewing Superman, but is she playing a dangerous game?](https://www.polygon.com/dc/612757/superman-lois-lane-good-or-bad-journalist)<!-- GAME:END -->
+ - [Destiny 2 Armour 3.0: Stat changes and archetypes in The Edge of Fate](https://www.pcgamer.com/games/fps/destiny-2-armour-3-0-stats-archetypes/)
+ - [Destiny 2 armour set bonuses and how to get them](https://www.pcgamer.com/games/fps/destiny-2-armour-set-bonuses/)
+ - [Destiny 2 The Edge of Fate release time and maintenance start](https://www.pcgamer.com/games/fps/destiny-2-the-edge-of-fate-release-times-preload/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
