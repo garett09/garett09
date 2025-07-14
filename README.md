@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Jeff Williams&#39; departure from Apple will shuffle exec responsibilities](https://appleinsider.com/articles/25/07/13/how-jeff-williams-departure-from-apple-will-shuffle-exec-responsibilities?utm_medium=rss)
- - [5 reasons I still use a projector even though I already own a big TV](https://www.androidauthority.com/5-reasons-i-use-a-projector-3571081/)
- - [Garmin Forerunner 970 Review: A Very Extra Running Watch](https://www.wired.com/review/garmin-forerunner-970/)<!-- TECH:END -->
+ - [CSET researchers: China&#39;s SMEE has only a 4% market share in older-generation chip lithography, far below ASML and Nikon, a &quot;chokepoint&quot; for China&#39;s chip plans &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250714/p12#a250714p12)
+ - [T-Mobile has two new toggles that could affect your privacy, should you turn them off?](https://www.androidauthority.com/t-mobile-new-toggles-3577108/)
+ - [Discord launches Orbs, a virtual reward system that incentivizes users to interact with ads by completing Quests to earn digital items, after a seven week beta &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250714/p11#a250714p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
