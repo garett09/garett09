@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 🚯 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
- - 🚯 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)<!-- MEMES:END -->
+ - 🚖 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
+ - 🚯 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
+ - 🚯 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)<!-- MEMES:END -->
 
 --- 
 
