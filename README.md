@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CSET researchers: China&#39;s SMEE has only a 4% market share in older-generation chip lithography, far below ASML and Nikon, a &quot;chokepoint&quot; for China&#39;s chip plans &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250714/p12#a250714p12)
- - [T-Mobile has two new toggles that could affect your privacy, should you turn them off?](https://www.androidauthority.com/t-mobile-new-toggles-3577108/)
- - [Discord launches Orbs, a virtual reward system that incentivizes users to interact with ads by completing Quests to earn digital items, after a seven week beta &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250714/p11#a250714p11)<!-- TECH:END -->
+ - [Analyst who claimed iPhone 17 would use A18 backtracks](https://appleinsider.com/articles/25/07/15/analyst-who-claimed-iphone-17-would-use-a18-backtracks?utm_medium=rss)
+ - [Apple cuts a deal for recycling rare earth magnets in the US](https://www.theverge.com/news/707249/apple-rare-earth-magnet-mp-materials-recycling)
+ - [Investigation: Microsoft uses engineers in China to help maintain US DOD systems, with minimal supervision by US personnel, leaving sensitive data vulnerable &lpar;ProPublica&rpar;](http://www.techmeme.com/250715/p12#a250715p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
