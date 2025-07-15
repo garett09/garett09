@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Armour 3.0: Stat changes and archetypes in The Edge of Fate](https://www.pcgamer.com/games/fps/destiny-2-armour-3-0-stats-archetypes/)
- - [Destiny 2 armour set bonuses and how to get them](https://www.pcgamer.com/games/fps/destiny-2-armour-set-bonuses/)
- - [Destiny 2 The Edge of Fate release time and maintenance start](https://www.pcgamer.com/games/fps/destiny-2-the-edge-of-fate-release-times-preload/)<!-- GAME:END -->
+ - [All Destiny 2 gear tiers and how to earn each one](https://www.pcgamer.com/games/fps/destiny-2-gear-tiers/)
+ - [US Defense Department awards $200 million contract to Elon Musk&#39;s Grok aka &#39;MechaHitler&#39; and is looking forward to deploying it &#39;in our warfighting domain&#39;](https://www.pcgamer.com/software/ai/us-defense-department-awards-usd200-million-contract-to-elon-musks-grok-aka-mechahitler-and-is-looking-forward-to-deploying-it-in-our-warfighting-domain/)
+ - [Keychron M7 8K Wireless review](https://www.pcgamer.com/hardware/gaming-mice/keychron-m7-8k-wireless-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
