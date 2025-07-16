@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
- - 🚯 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
- - 🚯 [It&#39;s genetics](http://9gag.com/gag/axymPEW)<!-- MEMES:END -->
+ - 🚖 [Another hero](http://9gag.com/gag/a34NNgv)
+ - 🚯 [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)
+ - 🚯 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)<!-- MEMES:END -->
 
 --- 
 
