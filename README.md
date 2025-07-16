@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All Destiny 2 gear tiers and how to earn each one](https://www.pcgamer.com/games/fps/destiny-2-gear-tiers/)
- - [US Defense Department awards $200 million contract to Elon Musk&#39;s Grok aka &#39;MechaHitler&#39; and is looking forward to deploying it &#39;in our warfighting domain&#39;](https://www.pcgamer.com/software/ai/us-defense-department-awards-usd200-million-contract-to-elon-musks-grok-aka-mechahitler-and-is-looking-forward-to-deploying-it-in-our-warfighting-domain/)
- - [Keychron M7 8K Wireless review](https://www.pcgamer.com/hardware/gaming-mice/keychron-m7-8k-wireless-review/)<!-- GAME:END -->
+ - [Intel rumoured to be working on a Nova Lake-based CPU with a mega iGPU to take on AMD&#39;s Strix Halo](https://www.pcgamer.com/hardware/processors/intel-rumoured-to-be-working-on-a-nova-lake-based-cpu-with-a-mega-igpu-to-take-on-amds-strix-halo/)
+ - [Donkey Kong Bananza Reviews Say It&#39;s The Blockbuster Exclusive Switch 2 Fans Are Waiting For](https://kotaku.com/donkey-kong-bananza-reviews-metacritic-roundup-switch-2-1851786384)
+ - [Cooler Master Hyper 212 Pro review](https://www.pcgamer.com/hardware/cooling/cooler-master-hyper-212-pro-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
