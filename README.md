@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analyst who claimed iPhone 17 would use A18 backtracks](https://appleinsider.com/articles/25/07/15/analyst-who-claimed-iphone-17-would-use-a18-backtracks?utm_medium=rss)
- - [Apple cuts a deal for recycling rare earth magnets in the US](https://www.theverge.com/news/707249/apple-rare-earth-magnet-mp-materials-recycling)
- - [Investigation: Microsoft uses engineers in China to help maintain US DOD systems, with minimal supervision by US personnel, leaving sensitive data vulnerable &lpar;ProPublica&rpar;](http://www.techmeme.com/250715/p12#a250715p12)<!-- TECH:END -->
+ - [Former Top Google Researchers Have Made A New Kind of AI Agent](https://www.wired.com/story/former-top-google-researchers-have-made-a-new-kind-of-ai-agent/)
+ - [How Knox Morris went from TikToker to rock star](https://www.theverge.com/music/701539/how-knox-morris-turned-tiktok-virality-into-a-national-tour)
+ - [Why I love my Apple EarPods](https://www.theverge.com/tech/704616/apple-earpods-favorites)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
