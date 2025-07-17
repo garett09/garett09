@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another hero](http://9gag.com/gag/a34NNgv)
- - 🚯 [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)
- - 🚯 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)<!-- MEMES:END -->
+ - 🚖 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
+ - 🚯 [Epstein](http://9gag.com/gag/a87Vvxp)
+ - 🚯 [Strong independent woman](http://9gag.com/gag/aPArz7B)<!-- MEMES:END -->
 
 --- 
 
