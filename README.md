@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel rumoured to be working on a Nova Lake-based CPU with a mega iGPU to take on AMD&#39;s Strix Halo](https://www.pcgamer.com/hardware/processors/intel-rumoured-to-be-working-on-a-nova-lake-based-cpu-with-a-mega-igpu-to-take-on-amds-strix-halo/)
- - [Donkey Kong Bananza Reviews Say It&#39;s The Blockbuster Exclusive Switch 2 Fans Are Waiting For](https://kotaku.com/donkey-kong-bananza-reviews-metacritic-roundup-switch-2-1851786384)
- - [Cooler Master Hyper 212 Pro review](https://www.pcgamer.com/hardware/cooling/cooler-master-hyper-212-pro-review/)<!-- GAME:END -->
+ - [Stephen King&#39;s The Institute TV Show Is Off To A Lackluster Start](https://kotaku.com/the-institute-stephen-king-tv-series-mgm-from-lost-1851786460)
+ - [A capacitor &#39;mix-up&#39; is causing some mini PCs to fail and it&#39;s giving me flashbacks to the great capacitor plague of the early &#39;00s](https://www.pcgamer.com/hardware/gaming-pcs/a-capacitor-mix-up-is-causing-some-mini-pcs-to-fail-and-its-giving-me-flashbacks-to-the-great-capacitor-plague-of-the-early-00s/)
+ - [Killing Floor 3 devs talk new weapon customization, Zed Time mechanic, and more](https://blog.playstation.com/2025/07/17/killing-floor-3-devs-talk-new-weapon-customization-zed-time-mechanic-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
