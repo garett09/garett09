@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Top Google Researchers Have Made A New Kind of AI Agent](https://www.wired.com/story/former-top-google-researchers-have-made-a-new-kind-of-ai-agent/)
- - [How Knox Morris went from TikToker to rock star](https://www.theverge.com/music/701539/how-knox-morris-turned-tiktok-virality-into-a-national-tour)
- - [Why I love my Apple EarPods](https://www.theverge.com/tech/704616/apple-earpods-favorites)<!-- TECH:END -->
+ - [Sony is still stubborn about the size of its cameras](https://www.theverge.com/cameras/708846/sony-rx1riii-full-frame-camera-size-issue-articulating-screen)
+ - [TSMC US chip production may soon only be three years behind Taiwan](https://appleinsider.com/articles/25/07/17/tsmc-us-chip-production-may-soon-only-be-three-years-behind-taiwan?utm_source=rss)
+ - [Eddington gets the pandemic right but still isn’t a great movie](https://www.theverge.com/film/708542/eddington-review-ari-aster-joaquin-phoenix-pandemic)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
