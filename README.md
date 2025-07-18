@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is still stubborn about the size of its cameras](https://www.theverge.com/cameras/708846/sony-rx1riii-full-frame-camera-size-issue-articulating-screen)
- - [TSMC US chip production may soon only be three years behind Taiwan](https://appleinsider.com/articles/25/07/17/tsmc-us-chip-production-may-soon-only-be-three-years-behind-taiwan?utm_source=rss)
- - [Eddington gets the pandemic right but still isn’t a great movie](https://www.theverge.com/film/708542/eddington-review-ari-aster-joaquin-phoenix-pandemic)<!-- TECH:END -->
+ - [Netflix used AI tools for the first time in one of its TV shows, for a VFX sequence; Ted Sarandos says the VFX costs would have been too high otherwise &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/250718/p8#a250718p8)
+ - [Roborock Saros Z70 Review: OmniGrip Doesn’t Quite Work](https://www.wired.com/review/roborock-saros-z70/)
+ - [The creepy AI era is here](https://www.theverge.com/the-vergecast/709389/alexa-plus-grok-waifu-sony-rx1riii-vergecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
