@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
- - 🚯 [Epstein](http://9gag.com/gag/a87Vvxp)
- - 🚯 [Strong independent woman](http://9gag.com/gag/aPArz7B)<!-- MEMES:END -->
+ - 🚖 [Torpedo](http://9gag.com/gag/aKGK5G1)
+ - 🚯 [How to get the protein straight into your blood stream?..... Schnapps!](http://9gag.com/gag/abARDvL)
+ - 🚯 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
 
 --- 
 
