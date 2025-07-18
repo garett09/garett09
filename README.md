@@ -121,11 +121,11 @@ while(dev.isCoding() && dev.isStuck())
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/9) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
-2. 💪 Opened PR [#9](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/9) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
-3. 🗣 Commented on [#8](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/8#issuecomment-3067885388) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
-4. 💪 Opened PR [#8](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/8) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
-5. 🗣 Commented on [#7](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/7#issuecomment-3061841806) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
+1. 🎉 Merged PR [#1](https://github.com/garett09/springboot-crashcourse/pull/1) in [garett09/springboot-crashcourse](https://github.com/garett09/springboot-crashcourse)
+2. 💪 Opened PR [#1](https://github.com/garett09/springboot-crashcourse/pull/1) in [garett09/springboot-crashcourse](https://github.com/garett09/springboot-crashcourse)
+3. 🎉 Merged PR [#9](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/9) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
+4. 💪 Opened PR [#9](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/9) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
+5. 🗣 Commented on [#8](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/8#issuecomment-3067885388) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
 <!--END_SECTION:activity-->
 
 ---
