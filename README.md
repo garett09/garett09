@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stephen King&#39;s The Institute TV Show Is Off To A Lackluster Start](https://kotaku.com/the-institute-stephen-king-tv-series-mgm-from-lost-1851786460)
- - [A capacitor &#39;mix-up&#39; is causing some mini PCs to fail and it&#39;s giving me flashbacks to the great capacitor plague of the early &#39;00s](https://www.pcgamer.com/hardware/gaming-pcs/a-capacitor-mix-up-is-causing-some-mini-pcs-to-fail-and-its-giving-me-flashbacks-to-the-great-capacitor-plague-of-the-early-00s/)
- - [Killing Floor 3 devs talk new weapon customization, Zed Time mechanic, and more](https://blog.playstation.com/2025/07/17/killing-floor-3-devs-talk-new-weapon-customization-zed-time-mechanic-and-more/)<!-- GAME:END -->
+ - [Genshin Impact version 5.8 livestream codes](https://www.polygon.com/genshin-impact-guides/613436/version-5-8-livestream-code-redeem-primogems)
+ - [Big year for hole](https://www.polygon.com/gaming/613711/hole-games-2025-dk-bananza-dig-about-hole)
+ - [Keep this to yourself, but a BIOS with a theoretical 2,001 W power limit exists for this absurdly overbuilt Galax RTX 5090 D](https://www.pcgamer.com/hardware/graphics-cards/keep-this-to-yourself-but-a-bios-with-a-theoretical-2-001-w-power-limit-exists-for-this-absurdly-overbuilt-galax-rtx-5090-d/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
