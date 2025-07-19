@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix used AI tools for the first time in one of its TV shows, for a VFX sequence; Ted Sarandos says the VFX costs would have been too high otherwise &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/250718/p8#a250718p8)
- - [Roborock Saros Z70 Review: OmniGrip Doesn’t Quite Work](https://www.wired.com/review/roborock-saros-z70/)
- - [The creepy AI era is here](https://www.theverge.com/the-vergecast/709389/alexa-plus-grok-waifu-sony-rx1riii-vergecast)<!-- TECH:END -->
+ - [I’m using Samsung’s Voice Recorder to avoid this app’s premium plan](https://www.androidauthority.com/samsung-voice-recorder-day-one-journal-3577377/)
+ - [How to Buy an Electric Bike &lpar;2025&rpar;: Classes, Range, Repairs](https://www.wired.com/story/how-to-buy-an-electric-bike/)
+ - [Fast Fusion scratches the hyper fast F-Zero itch](https://www.theverge.com/games-review/705627/fast-fusion-review-f-zero-nintendo-switch-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
