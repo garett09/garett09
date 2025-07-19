@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Torpedo](http://9gag.com/gag/aKGK5G1)
- - 🚯 [How to get the protein straight into your blood stream?..... Schnapps!](http://9gag.com/gag/abARDvL)
- - 🚯 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
+ - 🚖 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 🚯 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
+ - 🚯 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)<!-- MEMES:END -->
 
 --- 
 
