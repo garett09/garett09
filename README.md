@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact version 5.8 livestream codes](https://www.polygon.com/genshin-impact-guides/613436/version-5-8-livestream-code-redeem-primogems)
- - [Big year for hole](https://www.polygon.com/gaming/613711/hole-games-2025-dk-bananza-dig-about-hole)
- - [Keep this to yourself, but a BIOS with a theoretical 2,001 W power limit exists for this absurdly overbuilt Galax RTX 5090 D](https://www.pcgamer.com/hardware/graphics-cards/keep-this-to-yourself-but-a-bios-with-a-theoretical-2-001-w-power-limit-exists-for-this-absurdly-overbuilt-galax-rtx-5090-d/)<!-- GAME:END -->
+ - [Superman’s 2-second squirrel gag is core to how James Gunn sees the superhero](https://www.polygon.com/movies/613996/supermans-2-second-squirrel-gag-is-core-to-how-james-gunn-sees-the-superhero)
+ - [Fanatical&#39;s latest build your own bundle lets you grab 23 shooters for under $2 apiece](https://www.pcgamer.com/games/fps/fanaticals-latest-build-your-own-bundle-lets-you-grab-23-shooters-for-under-usd2-apiece/)
+ - [Donkey Kong Bananza&amp;#8217;s gold is pointless, but collecting it is still better than Super Mario Bros.’ coins](https://www.polygon.com/opinion/614062/donkey-kong-bananzas-gold-super-mario-bros-coins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
