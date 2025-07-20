@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
- - 🚯 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
- - 🚯 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)<!-- MEMES:END -->
+ - 🚖 [Dang this is good](http://9gag.com/gag/aXPR6e9)
+ - 🚯 [In Japan the deeper the bow the bigger the sign of respect.](http://9gag.com/gag/a9yDGWZ)
+ - 🚯 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)<!-- MEMES:END -->
 
 --- 
 
