@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m using Samsung’s Voice Recorder to avoid this app’s premium plan](https://www.androidauthority.com/samsung-voice-recorder-day-one-journal-3577377/)
- - [How to Buy an Electric Bike &lpar;2025&rpar;: Classes, Range, Repairs](https://www.wired.com/story/how-to-buy-an-electric-bike/)
- - [Fast Fusion scratches the hyper fast F-Zero itch](https://www.theverge.com/games-review/705627/fast-fusion-review-f-zero-nintendo-switch-2)<!-- TECH:END -->
+ - [iPhone Fold will dominate the market despite &#39;late&#39; 2026 arrival](https://appleinsider.com/articles/25/07/20/iphone-fold-will-dominate-the-market-despite-late-2026-arrival?utm_source=rss)
+ - [9 Best Coolers WIRED Tested for Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)
+ - [Think smartphone cameras have peaked? Here’s what’s still to come](https://www.androidauthority.com/smartphone-camera-tech-2026-3578479/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
