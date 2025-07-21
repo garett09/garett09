@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold will dominate the market despite &#39;late&#39; 2026 arrival](https://appleinsider.com/articles/25/07/20/iphone-fold-will-dominate-the-market-despite-late-2026-arrival?utm_source=rss)
- - [9 Best Coolers WIRED Tested for Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)
- - [Think smartphone cameras have peaked? Here’s what’s still to come](https://www.androidauthority.com/smartphone-camera-tech-2026-3578479/)<!-- TECH:END -->
+ - [Figma prices its shares at $25 and $28 each and plans to sell nearly 37M shares to raise up to $1.03B, giving it an up to $16.4B valuation in its NYSE debut &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250721/p11#a250721p11)
+ - [Hisense U8QG TV Review: Beautifully Bright, Tough to Tame](https://www.wired.com/review/hisense-u8qg/)
+ - [T-Mobile is bringing low-latency tech to 5G for the first time](https://www.theverge.com/news/710312/t-mobile-low-latency-l4s-5g)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
