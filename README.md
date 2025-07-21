@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bring back the weirdest animated series of 1991](https://www.polygon.com/animation-cartoons/614288/90s-cartoon-reboot-bucky-ohare-star-wars-parody)
- - [Soulframe dev says launching in 2025 is now an &#39;aspirational goal&#39;, but you can play the fantasy RPG&#39;s pre-alpha right now if you&#39;re quick](https://www.pcgamer.com/games/rpg/soulframe-dev-says-launching-in-2025-is-now-an-aspirational-goal-but-you-can-play-the-fantasy-rpgs-pre-alpha-right-now-if-youre-quick/)
- - [It’s always a good time to &lpar;re&rpar;play Hollow Knight](https://www.polygon.com/gaming/614123/hollow-knight-replay-switch-2)<!-- GAME:END -->
+ - [The concept art for Dune: Awakening is as ravishing as the game itself](https://www.polygon.com/gaming/614586/dune-awakening-art)
+ - [No other Superman story will scratch the post-Superman-movie itch like this animated series](https://www.polygon.com/dc/613270/my-adventures-with-superman-vs-james-gunn-movie-2025)
+ - [The secrets behind Final Fantasy Tactics – The Ivalice Chronicles’ makeover](https://blog.playstation.com/2025/07/21/the-secrets-behind-final-fantasy-tactics-the-ivalice-chronicles-makeover/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
