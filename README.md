@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dang this is good](http://9gag.com/gag/aXPR6e9)
- - 🚯 [In Japan the deeper the bow the bigger the sign of respect.](http://9gag.com/gag/a9yDGWZ)
- - 🚯 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)<!-- MEMES:END -->
+ - 🚖 [In 1985, an austrian man already told us how to deal with airplane karens](http://9gag.com/gag/a87VZdV)
+ - 🚯 [From my archive #1](http://9gag.com/gag/a87VRmZ)
+ - 🚯 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)<!-- MEMES:END -->
 
 --- 
 
