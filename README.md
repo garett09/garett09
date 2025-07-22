@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In 1985, an austrian man already told us how to deal with airplane karens](http://9gag.com/gag/a87VZdV)
- - 🚯 [From my archive #1](http://9gag.com/gag/a87VRmZ)
- - 🚯 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)<!-- MEMES:END -->
+ - 🚖 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 🚯 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
+ - 🚯 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
 
 --- 
 
