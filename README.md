@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The concept art for Dune: Awakening is as ravishing as the game itself](https://www.polygon.com/gaming/614586/dune-awakening-art)
- - [No other Superman story will scratch the post-Superman-movie itch like this animated series](https://www.polygon.com/dc/613270/my-adventures-with-superman-vs-james-gunn-movie-2025)
- - [The secrets behind Final Fantasy Tactics – The Ivalice Chronicles’ makeover](https://blog.playstation.com/2025/07/21/the-secrets-behind-final-fantasy-tactics-the-ivalice-chronicles-makeover/)<!-- GAME:END -->
+ - [Pokémon Go is &lpar;finally&rpar; adding Eternatus in Go Fest 2025’s ‘Max Finale’](https://www.polygon.com/news/614967/pokemon-go-fest-2025-finale-eternatus-dark-skies-max-battles)
+ - [Alienware Area-51 review](https://www.pcgamer.com/hardware/gaming-pcs/alienware-area-51-gaming-pc-review/)
+ - [New Hellraiser Game Has An Even Gnarlier Version Of The Trailer You Won&#39;t Find On YouTube](https://kotaku.com/hellraiser-pinhead-doug-bradley-red-band-trailer-saber-1851786676)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
