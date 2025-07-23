@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That was a close call](http://9gag.com/gag/a87VZ01)
- - 🚯 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - 🚯 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
+ - 🚖 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
+ - 🚯 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
+ - 🚯 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)<!-- MEMES:END -->
 
 --- 
 
