@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go is &lpar;finally&rpar; adding Eternatus in Go Fest 2025’s ‘Max Finale’](https://www.polygon.com/news/614967/pokemon-go-fest-2025-finale-eternatus-dark-skies-max-battles)
- - [Alienware Area-51 review](https://www.pcgamer.com/hardware/gaming-pcs/alienware-area-51-gaming-pc-review/)
- - [New Hellraiser Game Has An Even Gnarlier Version Of The Trailer You Won&#39;t Find On YouTube](https://kotaku.com/hellraiser-pinhead-doug-bradley-red-band-trailer-saber-1851786676)<!-- GAME:END -->
+ - [How To Kill Simon Dead In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-simon-boss-phase-party-1851786786)
+ - [Super Mario Party Jamboree TV Sounds Like A Half-Baked Switch 2 Upgrade](https://kotaku.com/mario-party-jamboree-tv-switch-2-reviews-boards-modes-1851786773)
+ - [Gran Turismo 7 Update 1.61 available today](https://blog.playstation.com/2025/07/23/gran-turismo-7-update-1-61-available-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
