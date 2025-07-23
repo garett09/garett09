@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairphone software devs hit back against GrapheneOS security claims](https://www.androidauthority.com/fairphone-murena-software-response-grapheneos-claims-3579637/)
- - [This Is the Best Sleeping Bag](https://www.wired.com/story/rumpl-wrap-sack-perfect-sleeping-bag/)
- - [Elgato’s new capture card lowers the price for 4K 60fps gameplay recording](https://www.theverge.com/news/710547/elgato-game-capture-4k-price-release-date-features)<!-- TECH:END -->
+ - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)
+ - [AppleCare+ brings theft and loss option to iPad and Apple Watch](https://appleinsider.com/articles/25/07/23/applecare-brings-theft-and-loss-option-to-ipad-and-apple-watch?utm_source=rss)
+ - [Sonos names Tom Conrad permanent CEO](https://www.theverge.com/news/712262/sonos-ceo-tom-conrad-speakers-arc-ace)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
