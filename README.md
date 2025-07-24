@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Kill Simon Dead In Clair Obscur: Expedition 33](https://kotaku.com/clair-obscur-expedition-33-simon-boss-phase-party-1851786786)
- - [Super Mario Party Jamboree TV Sounds Like A Half-Baked Switch 2 Upgrade](https://kotaku.com/mario-party-jamboree-tv-switch-2-reviews-boards-modes-1851786773)
- - [Gran Turismo 7 Update 1.61 available today](https://blog.playstation.com/2025/07/23/gran-turismo-7-update-1-61-available-today/)<!-- GAME:END -->
+ - [&#39;We should change the name&#39; Trump says of artificial intelligence: &#39;I actually mean that, I don&#39;t like anything that&#39;s artificial&#39;](https://www.pcgamer.com/software/ai/we-should-change-the-name-trump-says-of-artificial-intelligence-i-actually-mean-that-i-dont-like-anything-thats-artificial/)
+ - [Killing Floor 3 review](https://www.pcgamer.com/games/fps/killing-floor-3-review/)
+ - [Grounded 2: Celebrating Game Preview Launch with a Wild 10-foot Red Ant Plush](https://news.xbox.com/en-us/2025/07/24/grounded-2-red-ant-plush-giant-sweepstakes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
