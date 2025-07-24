@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
- - 🚯 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
- - 🚯 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)<!-- MEMES:END -->
+ - 🚖 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
+ - 🚯 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
+ - 🚯 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)<!-- MEMES:END -->
 
 --- 
 
