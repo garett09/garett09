@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)
- - [AppleCare+ brings theft and loss option to iPad and Apple Watch](https://appleinsider.com/articles/25/07/23/applecare-brings-theft-and-loss-option-to-ipad-and-apple-watch?utm_source=rss)
- - [Sonos names Tom Conrad permanent CEO](https://www.theverge.com/news/712262/sonos-ceo-tom-conrad-speakers-arc-ace)<!-- TECH:END -->
+ - [You can now install Galaxy Watch Ultra-exclusive faces on older watches — here’s how](https://www.androidauthority.com/how-to-install-samsung-galaxy-watch-ultra-exclusive-watch-faces-3580601/)
+ - [Google launches its virtual clothes try-on feature, letting users upload photos of themselves, in the US and updates price alerts to let users specify an amount &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250724/p22#a250724p22)
+ - [Amazon updates its color screen Kindle Colorsoft with a cheaper 16GB model for $250 and a kids-focused bundle with one year of Kids Plus for $270, available now &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250724/p21#a250724p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
