@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;We should change the name&#39; Trump says of artificial intelligence: &#39;I actually mean that, I don&#39;t like anything that&#39;s artificial&#39;](https://www.pcgamer.com/software/ai/we-should-change-the-name-trump-says-of-artificial-intelligence-i-actually-mean-that-i-dont-like-anything-thats-artificial/)
- - [Killing Floor 3 review](https://www.pcgamer.com/games/fps/killing-floor-3-review/)
- - [Grounded 2: Celebrating Game Preview Launch with a Wild 10-foot Red Ant Plush](https://news.xbox.com/en-us/2025/07/24/grounded-2-red-ant-plush-giant-sweepstakes/)<!-- GAME:END -->
+ - [Wuchang: Fallen Feathers Rushes Out Emergency Patch Amid Review-Bombing On Steam](https://kotaku.com/wuchang-fallen-feather-soulslike-pc-performance-patch-1851786948)
+ - [Microsoft CEO consoles employees by saying recent layoffs are &#39;the enigma of success in an industry that has no franchise value&#39;](https://www.pcgamer.com/gaming-industry/microsoft-ceo-consoles-employees-by-saying-recent-layoffs-are-the-enigma-of-success-in-an-industry-that-has-no-franchise-value/)
+ - [&#39;I do not subscribe to the belief that if you build it, they will come&#39; says Intel&#39;s new CEO, calling past investments &#39;unwise and excessive&#39;](https://www.pcgamer.com/hardware/processors/i-do-not-subscribe-to-the-belief-that-if-you-build-it-they-will-come-says-intels-new-ceo-calling-past-investments-unwise-and-excessive/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
