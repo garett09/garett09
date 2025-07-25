@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now install Galaxy Watch Ultra-exclusive faces on older watches — here’s how](https://www.androidauthority.com/how-to-install-samsung-galaxy-watch-ultra-exclusive-watch-faces-3580601/)
- - [Google launches its virtual clothes try-on feature, letting users upload photos of themselves, in the US and updates price alerts to let users specify an amount &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250724/p22#a250724p22)
- - [Amazon updates its color screen Kindle Colorsoft with a cheaper 16GB model for $250 and a kids-focused bundle with one year of Kids Plus for $270, available now &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250724/p21#a250724p21)<!-- TECH:END -->
+ - [Cricket revamps its lineup and unlike some competitors, its an improvement](https://www.androidauthority.com/cricket-new-plans-3580607/)
+ - [Thinking of switching to T-Mobile? Its trial program now gives you less time but more features](https://www.androidauthority.com/t-mobile-trial-program-changes-3581110/)
+ - [Sources: the number of Optimus humanoid robots Tesla has made this year is in the hundreds, well behind the pace needed to meet Musk&#39;s goal of producing 5K+ &lpar;The Information&rpar;](http://www.techmeme.com/250725/p9#a250725p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
