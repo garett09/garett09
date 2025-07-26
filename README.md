@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cricket revamps its lineup and unlike some competitors, its an improvement](https://www.androidauthority.com/cricket-new-plans-3580607/)
- - [Thinking of switching to T-Mobile? Its trial program now gives you less time but more features](https://www.androidauthority.com/t-mobile-trial-program-changes-3581110/)
- - [Sources: the number of Optimus humanoid robots Tesla has made this year is in the hundreds, well behind the pace needed to meet Musk&#39;s goal of producing 5K+ &lpar;The Information&rpar;](http://www.techmeme.com/250725/p9#a250725p9)<!-- TECH:END -->
+ - [5G promised a revolution, but here’s what we actually got](https://www.androidauthority.com/5g-hype-retrospective-3579000/)
+ - [Razer Pro Click V2 Vertical Review: A Hybrid Gaming Mouse](https://www.wired.com/review/razer-pro-click-v2-vertical/)
+ - [The Drifter is a good old-fashioned thriller](https://www.theverge.com/games-review/712020/the-drifter-review-pc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
