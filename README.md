@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jeffrey Epstein asserts his 5th, 6th, and 14th Amendment rights when asked if he socialized with Donald Trump in the presence of females under the age of 18](http://9gag.com/gag/agmj33w)
- - 🚯 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
- - 🚯 [Show me what really matters](http://9gag.com/gag/a9yBby1)<!-- MEMES:END -->
+ - 🚖 [Too angry with her self](http://9gag.com/gag/agmj0og)
+ - 🚯 [He went to a coldplay concert after this](http://9gag.com/gag/aZZvb20)
+ - 🚯 [Go broke](http://9gag.com/gag/aMVyrdV)<!-- MEMES:END -->
 
 --- 
 
