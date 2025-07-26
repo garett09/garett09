@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wuchang: Fallen Feathers Rushes Out Emergency Patch Amid Review-Bombing On Steam](https://kotaku.com/wuchang-fallen-feather-soulslike-pc-performance-patch-1851786948)
- - [Microsoft CEO consoles employees by saying recent layoffs are &#39;the enigma of success in an industry that has no franchise value&#39;](https://www.pcgamer.com/gaming-industry/microsoft-ceo-consoles-employees-by-saying-recent-layoffs-are-the-enigma-of-success-in-an-industry-that-has-no-franchise-value/)
- - [&#39;I do not subscribe to the belief that if you build it, they will come&#39; says Intel&#39;s new CEO, calling past investments &#39;unwise and excessive&#39;](https://www.pcgamer.com/hardware/processors/i-do-not-subscribe-to-the-belief-that-if-you-build-it-they-will-come-says-intels-new-ceo-calling-past-investments-unwise-and-excessive/)<!-- GAME:END -->
+ - [Crash Bandicoot&#39;s original lead programmer reckons the overhauled N. Sane Trilogy &#39;got almost everything right&#39; except for one tiny detail: &#39;they completely botched how jumping works&#39;](https://www.pcgamer.com/games/crash-bandicoots-original-lead-programmer-reckons-the-overhauled-n-sane-trilogy-got-almost-everything-right-except-for-one-tiny-detail-they-completely-botched-how-jumping-works/)
+ - [Nintendo is fighting the attention war, not the console war](https://www.polygon.com/analysis/615967/nintendo-switch-2-game-release-calander-2025-analysis)
+ - [After a forgettable launch, Ubisoft&#39;s Avatar game is getting a huge new update later this year, introducing new game plus and a third-person mode](https://www.pcgamer.com/games/action/after-a-forgettable-launch-ubisofts-avatar-game-is-getting-a-huge-new-update-later-this-year-introducing-new-game-plus-and-a-third-person-mode/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
