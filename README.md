@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5G promised a revolution, but here’s what we actually got](https://www.androidauthority.com/5g-hype-retrospective-3579000/)
- - [Razer Pro Click V2 Vertical Review: A Hybrid Gaming Mouse](https://www.wired.com/review/razer-pro-click-v2-vertical/)
- - [The Drifter is a good old-fashioned thriller](https://www.theverge.com/games-review/712020/the-drifter-review-pc)<!-- TECH:END -->
+ - [Nothing Phone 3 doesn’t win on value, but it won me over anyway](https://www.androidauthority.com/nothing-phone-3-doesnt-disappoint-3580557/)
+ - [Best Running Shoes &lpar;2025&rpar;, Tested and Reviewed: Saucony, Nike, Hoka](https://www.wired.com/gallery/best-running-shoes/)
+ - [Alibaba releases its Qwen3-235B-A22B-Thinking-2507 reasoning LLM on Hugging Face, topping several benchmarks, as Alibaba moves away from hybrid reasoning models &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250727/p9#a250727p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
