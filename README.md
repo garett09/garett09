@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crash Bandicoot&#39;s original lead programmer reckons the overhauled N. Sane Trilogy &#39;got almost everything right&#39; except for one tiny detail: &#39;they completely botched how jumping works&#39;](https://www.pcgamer.com/games/crash-bandicoots-original-lead-programmer-reckons-the-overhauled-n-sane-trilogy-got-almost-everything-right-except-for-one-tiny-detail-they-completely-botched-how-jumping-works/)
- - [Nintendo is fighting the attention war, not the console war](https://www.polygon.com/analysis/615967/nintendo-switch-2-game-release-calander-2025-analysis)
- - [After a forgettable launch, Ubisoft&#39;s Avatar game is getting a huge new update later this year, introducing new game plus and a third-person mode](https://www.pcgamer.com/games/action/after-a-forgettable-launch-ubisofts-avatar-game-is-getting-a-huge-new-update-later-this-year-introducing-new-game-plus-and-a-third-person-mode/)<!-- GAME:END -->
+ - [Fantastic Four: First Steps&#39; Opening Weekend Beat Superman&#39;s By Just $1 Million](https://kotaku.com/fantastic-four-first-steps-opening-weekend-superman-1851787100)
+ - [Every big SDCC 2025 announcement in one place](https://www.polygon.com/sdcc/616709/all-news-trailers-san-diego-comic-con-2025)
+ - [Xbox @ gamescom 2025](https://news.xbox.com/en-us/2025/07/28/xbox-gamescom-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
