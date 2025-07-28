@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too angry with her self](http://9gag.com/gag/agmj0og)
- - 🚯 [He went to a coldplay concert after this](http://9gag.com/gag/aZZvb20)
- - 🚯 [Go broke](http://9gag.com/gag/aMVyrdV)<!-- MEMES:END -->
+ - 🚖 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
+ - 🚯 [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
+ - 🚯 [Moist movie](http://9gag.com/gag/an7VKmn)<!-- MEMES:END -->
 
 --- 
 
