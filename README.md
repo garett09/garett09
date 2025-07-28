@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 3 doesn’t win on value, but it won me over anyway](https://www.androidauthority.com/nothing-phone-3-doesnt-disappoint-3580557/)
- - [Best Running Shoes &lpar;2025&rpar;, Tested and Reviewed: Saucony, Nike, Hoka](https://www.wired.com/gallery/best-running-shoes/)
- - [Alibaba releases its Qwen3-235B-A22B-Thinking-2507 reasoning LLM on Hugging Face, topping several benchmarks, as Alibaba moves away from hybrid reasoning models &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250727/p9#a250727p9)<!-- TECH:END -->
+ - [Temu users face a &amp;#8216;high risk&amp;#8217; of finding illegal products, EU says](https://www.theverge.com/news/714502/temu-high-risk-illegal-products-eu-investigation)
+ - [The Best Smart Rings, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-rings/)
+ - [Xbox will let you play Silksong at Gamescom in August](https://www.theverge.com/news/714490/xbox-gamescom-silksong-playable-demo-xbox-ally-handheld)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
