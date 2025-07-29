@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantastic Four: First Steps&#39; Opening Weekend Beat Superman&#39;s By Just $1 Million](https://kotaku.com/fantastic-four-first-steps-opening-weekend-superman-1851787100)
- - [Every big SDCC 2025 announcement in one place](https://www.polygon.com/sdcc/616709/all-news-trailers-san-diego-comic-con-2025)
- - [Xbox @ gamescom 2025](https://news.xbox.com/en-us/2025/07/28/xbox-gamescom-2025/)<!-- GAME:END -->
+ - [Plagiarism Concerns Hit Pokémon TCG Pocket Over Ho-Oh Card Art](https://kotaku.com/pokemon-tcg-pocket-ho-oh-card-art-plagiarism-1851787197)
+ - [Philips Evnia 27M2N3800A gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/philips-evnia-27m2n3800a-gaming-monitor-review/)
+ - [Where to find grass seeds in Grounded 2](https://www.polygon.com/guides/616973/grounded-2-where-to-find-grass-seed-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
