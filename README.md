@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temu users face a &amp;#8216;high risk&amp;#8217; of finding illegal products, EU says](https://www.theverge.com/news/714502/temu-high-risk-illegal-products-eu-investigation)
- - [The Best Smart Rings, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-rings/)
- - [Xbox will let you play Silksong at Gamescom in August](https://www.theverge.com/news/714490/xbox-gamescom-silksong-playable-demo-xbox-ally-handheld)<!-- TECH:END -->
+ - [Ambience Healthcare, which uses AI to automate administrative tasks for medical professionals, raised $243M led by a16z and Oak HC/FT at a $1B+ valuation &lpar;Brunella Tipismana Urbano/Bloomberg&rpar;](http://www.techmeme.com/250729/p14#a250729p14)
+ - [New Apple-funded program teaches manufacturing to US firms](https://appleinsider.com/articles/25/07/29/new-apple-funded-program-teaches-manufacturing-to-us-firms?utm_source=rss)
+ - [Apple MacOS Tahoe 26: Top New Features to Try](https://www.wired.com/story/macos-26-tahoe-top-features/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
