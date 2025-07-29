@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
- - 🚯 [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
- - 🚯 [Moist movie](http://9gag.com/gag/an7VKmn)<!-- MEMES:END -->
+ - 🚖 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)
+ - 🚯 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
+ - 🚯 [Alabama..](http://9gag.com/gag/a9yBYX0)<!-- MEMES:END -->
 
 --- 
 
