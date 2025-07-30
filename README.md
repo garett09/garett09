@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ambience Healthcare, which uses AI to automate administrative tasks for medical professionals, raised $243M led by a16z and Oak HC/FT at a $1B+ valuation &lpar;Brunella Tipismana Urbano/Bloomberg&rpar;](http://www.techmeme.com/250729/p14#a250729p14)
- - [New Apple-funded program teaches manufacturing to US firms](https://appleinsider.com/articles/25/07/29/new-apple-funded-program-teaches-manufacturing-to-us-firms?utm_source=rss)
- - [Apple MacOS Tahoe 26: Top New Features to Try](https://www.wired.com/story/macos-26-tahoe-top-features/)<!-- TECH:END -->
+ - [TikTok videos are about to get crowdsourced fact checks on them](https://www.theverge.com/news/715798/tiktok-videos-footnotes-crowdsourced-fact-checks-launch)
+ - [Only the base iPhone 17 may escape a $50 price hike](https://appleinsider.com/articles/25/07/30/only-the-base-iphone-17-may-escape-a-50-price-hike?utm_source=rss)
+ - [Nintendo&amp;#8217;s next Switch 2 Direct is on July 31st](https://www.theverge.com/games/715733/nintendo-direct-annoucement-july-2025-switch-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
