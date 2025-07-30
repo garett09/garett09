@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)
- - 🚯 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
- - 🚯 [Alabama..](http://9gag.com/gag/a9yBYX0)<!-- MEMES:END -->
+ - 🚖 [It rained](http://9gag.com/gag/axy4Vvb)
+ - 🚯 [I guess it\u2019s time to watch Gladiator again lads.](http://9gag.com/gag/an7Vbzb)
+ - 🚯 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)<!-- MEMES:END -->
 
 --- 
 
