@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Plagiarism Concerns Hit Pokémon TCG Pocket Over Ho-Oh Card Art](https://kotaku.com/pokemon-tcg-pocket-ho-oh-card-art-plagiarism-1851787197)
- - [Philips Evnia 27M2N3800A gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/philips-evnia-27m2n3800a-gaming-monitor-review/)
- - [Where to find grass seeds in Grounded 2](https://www.polygon.com/guides/616973/grounded-2-where-to-find-grass-seed-locations)<!-- GAME:END -->
+ - [AMD&#39;s rumoured to be plotting a new ultra high-end gaming GPU, plus a $550 graphics card with RTX 5080 performance, but sadly we probably won&#39;t see either until 2027](https://www.pcgamer.com/hardware/graphics-cards/amds-rumoured-to-be-plotting-a-new-ultra-high-end-gaming-gpu-plus-a-usd550-graphics-card-with-rtx-5080-performance-but-sadly-we-probably-wont-see-either-until-2027/)
+ - [Tiny Glade has released its &#39;biggest update yet&#39; which includes a stair tool, new paths and floor textures, and a secret feature involving sheep](https://www.pcgamer.com/games/sim/tiny-glade-has-released-its-biggest-update-yet-which-includes-a-stair-tool-new-paths-and-floor-textures-and-a-secret-feature-involving-sheep/)
+ - [Adorable Betrayal Sim Peak Just Added Cannibalism](https://kotaku.com/peak-cannibalism-patch-notes-bug-fixes-steam-1851787299)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
