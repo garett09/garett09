@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok videos are about to get crowdsourced fact checks on them](https://www.theverge.com/news/715798/tiktok-videos-footnotes-crowdsourced-fact-checks-launch)
- - [Only the base iPhone 17 may escape a $50 price hike](https://appleinsider.com/articles/25/07/30/only-the-base-iphone-17-may-escape-a-50-price-hike?utm_source=rss)
- - [Nintendo&amp;#8217;s next Switch 2 Direct is on July 31st](https://www.theverge.com/games/715733/nintendo-direct-annoucement-july-2025-switch-2)<!-- TECH:END -->
+ - [Tariffs and analysts: What to expect from Apple&#39;s Q3 2025 earnings](https://appleinsider.com/articles/25/07/25/tariffs-and-analysts-what-to-expect-from-apples-q3-2025-earnings?utm_source=rss)
+ - [Anaconda, which provides AI development tools for developers and data scientists, raised $150M+ led by Insight Partners, source says at a $1.5B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250731/p23#a250731p23)
+ - [Sharing health data can be a nightmare, but we have questions about this US govt plan](https://www.androidauthority.com/us-govt-health-data-sharing-privacy-nightmare-3582869/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
