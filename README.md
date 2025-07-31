@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It rained](http://9gag.com/gag/axy4Vvb)
- - 🚯 [I guess it\u2019s time to watch Gladiator again lads.](http://9gag.com/gag/an7Vbzb)
- - 🚯 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)<!-- MEMES:END -->
+ - 🚖 [Man had enough](http://9gag.com/gag/aAyZx3p)
+ - 🚯 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
+ - 🚯 [Old but gold](http://9gag.com/gag/aGyb1dX)<!-- MEMES:END -->
 
 --- 
 
