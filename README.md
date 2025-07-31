@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s rumoured to be plotting a new ultra high-end gaming GPU, plus a $550 graphics card with RTX 5080 performance, but sadly we probably won&#39;t see either until 2027](https://www.pcgamer.com/hardware/graphics-cards/amds-rumoured-to-be-plotting-a-new-ultra-high-end-gaming-gpu-plus-a-usd550-graphics-card-with-rtx-5080-performance-but-sadly-we-probably-wont-see-either-until-2027/)
- - [Tiny Glade has released its &#39;biggest update yet&#39; which includes a stair tool, new paths and floor textures, and a secret feature involving sheep](https://www.pcgamer.com/games/sim/tiny-glade-has-released-its-biggest-update-yet-which-includes-a-stair-tool-new-paths-and-floor-textures-and-a-secret-feature-involving-sheep/)
- - [Adorable Betrayal Sim Peak Just Added Cannibalism](https://kotaku.com/peak-cannibalism-patch-notes-bug-fixes-steam-1851787299)<!-- GAME:END -->
+ - [Monster Hunter Stories 3 revealed for Nintendo Switch 2](https://www.polygon.com/news/617930/monster-hunter-stories-3-nintendo-switch-2-trailer)
+ - [Persona 3 Reload Is Coming To Switch 2 So You Have No Excuse](https://kotaku.com/persona-3-reload-switch-2-nintendo-direct-release-date-1851787416)
+ - [Razer BlackShark V3 Pro review](https://www.pcgamer.com/hardware/gaming-headsets/razer-blackshark-v3-pro-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
