@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tariffs and analysts: What to expect from Apple&#39;s Q3 2025 earnings](https://appleinsider.com/articles/25/07/25/tariffs-and-analysts-what-to-expect-from-apples-q3-2025-earnings?utm_source=rss)
- - [Anaconda, which provides AI development tools for developers and data scientists, raised $150M+ led by Insight Partners, source says at a $1.5B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250731/p23#a250731p23)
- - [Sharing health data can be a nightmare, but we have questions about this US govt plan](https://www.androidauthority.com/us-govt-health-data-sharing-privacy-nightmare-3582869/)<!-- TECH:END -->
+ - [IRS head says free Direct File tax service is ‘gone’](https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration)
+ - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
+ - [Hong Kong&#39;s stablecoin licensing regime takes effect, requiring issuers to get approval from the Monetary Authority, comply with AML protocols, and more &lpar;Callan Quinn/Decrypt&rpar;](http://www.techmeme.com/250801/p14#a250801p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
