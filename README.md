@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Forging a millstone](http://9gag.com/gag/aYQmg6v)
- - 🚯 [Save your friends](http://9gag.com/gag/aVvBYvw)
- - 🚯 [Let&#39;s see: there was a huge cage full of squirrels in a basement in an old house.](http://9gag.com/gag/a2vGR4Z)<!-- MEMES:END -->
+ - 🚖 [Hell yeah](http://9gag.com/gag/aMVyYKX)
+ - 🚯 [Are polls gae?](http://9gag.com/gag/aQzVRMe)
+ - 🚯 [The silly girl `can\u00b4t believe`](http://9gag.com/gag/azxQ1pb)<!-- MEMES:END -->
 
 --- 
 
