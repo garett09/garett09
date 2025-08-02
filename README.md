@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6: All the key details on EA&#39;s &#39;most ambitious&#39; Battlefield yet](https://www.pcgamer.com/games/fps/battlefield-6-guide/)
- - [Gabe Newell acquires yacht company building the $400 million ocean-fortress he&#39;ll pick up later this year, because he &#39;respects the sea&#39;](https://www.pcgamer.com/gaming-industry/gabe-newell-acquires-yacht-company-building-the-usd400-million-ocean-fortress-hell-pick-up-later-this-year-because-he-respects-the-sea/)
- - [New Steam update adds new &#39;customise&#39; tab your games—letting you finally organise things by release date, or just look at Big Naturals Withers every time you open Baldur&#39;s Gate 3](https://www.pcgamer.com/software/platforms/new-steam-update-adds-new-customise-tab-your-games-letting-you-finally-organise-things-by-release-date-or-just-look-at-big-naturals-withers-every-time-you-open-baldurs-gate-3/)<!-- GAME:END -->
+ - [The Bad Guys 2 steals a brilliant trick from Mission: Impossible and James Bond](https://www.polygon.com/bad-guys-2-anamorphic-lens-director-interview/)
+ - [What does the f in Silent Hill f mean, anyway?](https://www.polygon.com/silent-hill-f-title-meaning/)
+ - [This wildly underrated time-loop movie just made its Netflix debut](https://www.polygon.com/until-dawn-movie-more-fun-second-time/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
