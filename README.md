@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IRS head says free Direct File tax service is ‘gone’](https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration)
- - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
- - [Hong Kong&#39;s stablecoin licensing regime takes effect, requiring issuers to get approval from the Monetary Authority, comply with AML protocols, and more &lpar;Callan Quinn/Decrypt&rpar;](http://www.techmeme.com/250801/p14#a250801p14)<!-- TECH:END -->
+ - [6 ridiculous promises we were sold about 5G](https://www.androidauthority.com/5-ridiculous-5g-promises-3581496/)
+ - [Peacock Feathers Are Stunning. They Can Also Emit Laser Beams](https://www.wired.com/story/peacock-feathers-laser-beams/)
+ - [Time Flies is a short meditation on the meaning of life](https://www.theverge.com/games-review/707596/time-flies-review-pc-nintendo-switch-playstation-panic-playables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
