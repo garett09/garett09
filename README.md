@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hell yeah](http://9gag.com/gag/aMVyYKX)
- - 🚯 [Are polls gae?](http://9gag.com/gag/aQzVRMe)
- - 🚯 [The silly girl `can\u00b4t believe`](http://9gag.com/gag/azxQ1pb)<!-- MEMES:END -->
+ - 🚖 [Those who were staying at the hotel got away with CPUs like the Ryzen 7 9800X3D and NVIDIA&#39;s GeForce RTX 5070.](http://9gag.com/gag/aqyAnwj)
+ - 🚯 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
+ - 🚯 [Hahaha](http://9gag.com/gag/aoyDMnx)<!-- MEMES:END -->
 
 --- 
 
