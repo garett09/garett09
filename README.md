@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 ridiculous promises we were sold about 5G](https://www.androidauthority.com/5-ridiculous-5g-promises-3581496/)
- - [Peacock Feathers Are Stunning. They Can Also Emit Laser Beams](https://www.wired.com/story/peacock-feathers-laser-beams/)
- - [Time Flies is a short meditation on the meaning of life](https://www.theverge.com/games-review/707596/time-flies-review-pc-nintendo-switch-playstation-panic-playables)<!-- TECH:END -->
+ - [I still love VLC, but this lightweight video player changed the game for me](https://www.androidauthority.com/vlc-player-vs-next-player-3582811/)
+ - [The Nintendo Switch 2’s Biggest Problem Is Already Storage](https://www.wired.com/story/nintendo-switch-2-biggest-problem-is-already-storage/)
+ - [Lenovo&amp;#8217;s rollable laptop is the coolest computer I&amp;#8217;ve used all year](https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
