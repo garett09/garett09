@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those who were staying at the hotel got away with CPUs like the Ryzen 7 9800X3D and NVIDIA&#39;s GeForce RTX 5070.](http://9gag.com/gag/aqyAnwj)
- - 🚯 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
- - 🚯 [Hahaha](http://9gag.com/gag/aoyDMnx)<!-- MEMES:END -->
+ - 🚖 [Is the company still hiring? Asking for a friend](http://9gag.com/gag/axy4oo1)
+ - 🚯 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 🚯 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)<!-- MEMES:END -->
 
 --- 
 
