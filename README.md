@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Bad Guys 2 steals a brilliant trick from Mission: Impossible and James Bond](https://www.polygon.com/bad-guys-2-anamorphic-lens-director-interview/)
- - [What does the f in Silent Hill f mean, anyway?](https://www.polygon.com/silent-hill-f-title-meaning/)
- - [This wildly underrated time-loop movie just made its Netflix debut](https://www.polygon.com/until-dawn-movie-more-fun-second-time/)<!-- GAME:END -->
+ - [GameStop Is Reselling Your Graded Pokémon Cards In Ridiculously Priced Mystery Boxes](https://kotaku.com/gamestop-pokemon-power-pack-graded-cards-2000614469)
+ - [The 5 best spoof movies to watch after Naked Gun](https://www.polygon.com/best-comedy-spoof-parody-movies/)
+ - [Rare Celebrates 40 Years with Ruby-Themed Exclusives and More](https://news.xbox.com/en-us/2025/08/04/rare-40th-anniversary-rewards-sea-of-thieves/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
