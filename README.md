@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I still love VLC, but this lightweight video player changed the game for me](https://www.androidauthority.com/vlc-player-vs-next-player-3582811/)
- - [The Nintendo Switch 2’s Biggest Problem Is Already Storage](https://www.wired.com/story/nintendo-switch-2-biggest-problem-is-already-storage/)
- - [Lenovo&amp;#8217;s rollable laptop is the coolest computer I&amp;#8217;ve used all year](https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review)<!-- TECH:END -->
+ - [Verizon is cutting loyalty discounts, raising fees, and removing perks, all at once &lpar;Updated&rpar;](https://www.androidauthority.com/verizon-cuts-loyalty-discounts-raises-fees-3583551/)
+ - [Tired of Google Home not working? This new change will make you furious](https://www.androidauthority.com/google-home-new-voice-names-3583628/)
+ - [Amazon says it is closing its Wondery podcast studio and will break up its operations as part of a broad reorganization; a source says ~110 jobs will be cut &lpar;Bloomberg&rpar;](http://www.techmeme.com/250804/p22#a250804p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
