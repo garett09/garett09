@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is the company still hiring? Asking for a friend](http://9gag.com/gag/axy4oo1)
- - 🚯 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 🚯 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)<!-- MEMES:END -->
+ - 🚖 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
+ - 🚯 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
+ - 🚯 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
 
 --- 
 
