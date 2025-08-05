@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon is cutting loyalty discounts, raising fees, and removing perks, all at once &lpar;Updated&rpar;](https://www.androidauthority.com/verizon-cuts-loyalty-discounts-raises-fees-3583551/)
- - [Tired of Google Home not working? This new change will make you furious](https://www.androidauthority.com/google-home-new-voice-names-3583628/)
- - [Amazon says it is closing its Wondery podcast studio and will break up its operations as part of a broad reorganization; a source says ~110 jobs will be cut &lpar;Bloomberg&rpar;](http://www.techmeme.com/250804/p22#a250804p22)<!-- TECH:END -->
+ - [Roku launches Howdy, an ad-free streaming service for $2.99 per month, initially only on Roku devices, with content from Lionsgate, WBD, FilmRise, and more &lpar;Kelly Lawler/USA Today&rpar;](http://www.techmeme.com/250805/p27#a250805p27)
+ - [Google&amp;#8217;s Pixel 10 Pro Fold might not go on sale until October](https://www.theverge.com/news/718845/google-pixel-10-pro-fold-release-date-delay-october)
+ - [Patreon CEO Jack Conte says the platform paid out $10B+ to creators since its 2013 founding, creators now get $2B+ annually, and there are 25M+ paid memberships &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250805/p26#a250805p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
