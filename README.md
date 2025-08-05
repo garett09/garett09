@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop Is Reselling Your Graded Pokémon Cards In Ridiculously Priced Mystery Boxes](https://kotaku.com/gamestop-pokemon-power-pack-graded-cards-2000614469)
- - [The 5 best spoof movies to watch after Naked Gun](https://www.polygon.com/best-comedy-spoof-parody-movies/)
- - [Rare Celebrates 40 Years with Ruby-Themed Exclusives and More](https://news.xbox.com/en-us/2025/08/04/rare-40th-anniversary-rewards-sea-of-thieves/)<!-- GAME:END -->
+ - [Cloudflare calls out Perplexity for hiding &#39;crawling activity&#39; as AI bot scrapes websites that explicitly disallow it, Perplexity responds by calling them &#39;more flair than cloud&#39;](https://www.pcgamer.com/software/ai/cloudflare-calls-out-perplexity-for-hiding-crawling-activity-as-ai-bot-scrapes-websites-that-explicitly-disallow-it-perplexity-responds-by-calling-them-more-flair-than-cloud/)
+ - [League of Legends&#39; Wild Rift China posts AI slop that looks like a fever dream you&#39;d have after watching KPop Demon Hunters, deletes it after backlash](https://www.pcgamer.com/software/ai/league-of-legends-wild-rift-china-posts-ai-slop-that-looks-like-a-fever-dream-youd-have-after-watching-kpop-demon-hunters-deletes-it-after-backlash/)
+ - [Battlefield 6 will introduce classic maps &#39;based on fan or player requests&#39;, and I can already see where this is going: &#39;we want to choose the best possible one to bring back the good old days of playing Battlefield&#39;](https://www.pcgamer.com/games/fps/battlefield-6-community-voting-remake-maps-predictions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
