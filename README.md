@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku launches Howdy, an ad-free streaming service for $2.99 per month, initially only on Roku devices, with content from Lionsgate, WBD, FilmRise, and more &lpar;Kelly Lawler/USA Today&rpar;](http://www.techmeme.com/250805/p27#a250805p27)
- - [Google&amp;#8217;s Pixel 10 Pro Fold might not go on sale until October](https://www.theverge.com/news/718845/google-pixel-10-pro-fold-release-date-delay-october)
- - [Patreon CEO Jack Conte says the platform paid out $10B+ to creators since its 2013 founding, creators now get $2B+ annually, and there are 25M+ paid memberships &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250805/p26#a250805p26)<!-- TECH:END -->
+ - [Combating Domestic Violent Extremism Is No Longer a FEMA Priority](https://www.wired.com/story/extremism-domestic-violence-fema-dhs-priority/)
+ - [The Best TVs We’ve Reviewed from Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)
+ - [AI could turn your town nuclear](https://www.theverge.com/ai-artificial-intelligence/719409/nuclear-energy-uranium-enrichment-ai-data-center-electricity)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
