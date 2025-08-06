@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cloudflare calls out Perplexity for hiding &#39;crawling activity&#39; as AI bot scrapes websites that explicitly disallow it, Perplexity responds by calling them &#39;more flair than cloud&#39;](https://www.pcgamer.com/software/ai/cloudflare-calls-out-perplexity-for-hiding-crawling-activity-as-ai-bot-scrapes-websites-that-explicitly-disallow-it-perplexity-responds-by-calling-them-more-flair-than-cloud/)
- - [League of Legends&#39; Wild Rift China posts AI slop that looks like a fever dream you&#39;d have after watching KPop Demon Hunters, deletes it after backlash](https://www.pcgamer.com/software/ai/league-of-legends-wild-rift-china-posts-ai-slop-that-looks-like-a-fever-dream-youd-have-after-watching-kpop-demon-hunters-deletes-it-after-backlash/)
- - [Battlefield 6 will introduce classic maps &#39;based on fan or player requests&#39;, and I can already see where this is going: &#39;we want to choose the best possible one to bring back the good old days of playing Battlefield&#39;](https://www.pcgamer.com/games/fps/battlefield-6-community-voting-remake-maps-predictions/)<!-- GAME:END -->
+ - [Rockstar co-founder&#39;s new open-world sci-fi game gets publisher](https://www.polygon.com/rockstar-games-founder-dan-houser-absurd-ventures-smilegate/)
+ - [&#39;There is no such thing as a good secret backdoor,&#39; says Nvidia, reiterating that there are no kill switches, spyware, or secret ways to access its GPUs](https://www.pcgamer.com/hardware/there-is-no-such-thing-as-a-good-secret-backdoor-says-nvidia-reiterating-that-there-are-no-kill-switches-spyware-or-secret-ways-to-access-its-gpus/)
+ - [War of the Worlds &lpar;2025&rpar; review: Ice Cube&#39;s sci-fi flops on Amazon Prime](https://www.polygon.com/war-of-the-worlds-2025-ice-cube-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
