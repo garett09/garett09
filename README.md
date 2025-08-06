@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
- - 🚯 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
- - 🚯 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
+ - 🚖 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - 🚯 [I&#39;m with Brad on this ond](http://9gag.com/gag/aMVyBxV)
+ - 🚯 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)<!-- MEMES:END -->
 
 --- 
 
