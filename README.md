@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
- - 🚯 [I&#39;m with Brad on this ond](http://9gag.com/gag/aMVyBxV)
- - 🚯 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)<!-- MEMES:END -->
+ - 🚖 [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
+ - 🚯 [Life is great in LA](http://9gag.com/gag/aQzVgNq)
+ - 🚯 [Nature is healing](http://9gag.com/gag/ayNP4XW)<!-- MEMES:END -->
 
 --- 
 
