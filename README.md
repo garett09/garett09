@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Combating Domestic Violent Extremism Is No Longer a FEMA Priority](https://www.wired.com/story/extremism-domestic-violence-fema-dhs-priority/)
- - [The Best TVs We’ve Reviewed from Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)
- - [AI could turn your town nuclear](https://www.theverge.com/ai-artificial-intelligence/719409/nuclear-energy-uranium-enrichment-ai-data-center-electricity)<!-- TECH:END -->
+ - [SMIC reports Q2 revenue up 16.2% YoY to $2.2B, in line with expectations, and profit down 19.5% YoY to $132.5M, below $183.35M est. &lpar;Reuters&rpar;](http://www.techmeme.com/250807/p23#a250807p23)
+ - [Ripple plans to acquire stablecoin payments platform Rail for $200M, set to close in Q4 2025; Rail says it handles 10% of all global stablecoin payment activity &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250807/p22#a250807p22)
+ - [The Best Golf Rangefinders &lpar;2025&rpar;](https://www.wired.com/gallery/best-golf-rangefinders/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
