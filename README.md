@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar co-founder&#39;s new open-world sci-fi game gets publisher](https://www.polygon.com/rockstar-games-founder-dan-houser-absurd-ventures-smilegate/)
- - [&#39;There is no such thing as a good secret backdoor,&#39; says Nvidia, reiterating that there are no kill switches, spyware, or secret ways to access its GPUs](https://www.pcgamer.com/hardware/there-is-no-such-thing-as-a-good-secret-backdoor-says-nvidia-reiterating-that-there-are-no-kill-switches-spyware-or-secret-ways-to-access-its-gpus/)
- - [War of the Worlds &lpar;2025&rpar; review: Ice Cube&#39;s sci-fi flops on Amazon Prime](https://www.polygon.com/war-of-the-worlds-2025-ice-cube-review/)<!-- GAME:END -->
+ - [Out and About is exactly what I want from a foraging game and has convinced me that I could easily make a meal out of what I find in my back garden](https://www.pcgamer.com/games/sim/out-and-about-is-exactly-what-i-want-from-a-foraging-game-and-has-convinced-me-that-i-could-easily-make-a-meal-out-of-what-i-find-in-my-back-garden/)
+ - [The Monkey is streaming now on Hulu, but is it worth watching?](https://www.polygon.com/the-monkey-hulu-streaming/)
+ - [Trump says Intel CEO &#39;must immediately resign&#39; as US senator questions Lip Bu Tan&#39;s China ties](https://www.pcgamer.com/hardware/processors/trump-says-intel-ceo-must-immediately-resign-as-us-senator-questions-lip-bu-tans-china-ties/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
