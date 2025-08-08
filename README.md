@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SMIC reports Q2 revenue up 16.2% YoY to $2.2B, in line with expectations, and profit down 19.5% YoY to $132.5M, below $183.35M est. &lpar;Reuters&rpar;](http://www.techmeme.com/250807/p23#a250807p23)
- - [Ripple plans to acquire stablecoin payments platform Rail for $200M, set to close in Q4 2025; Rail says it handles 10% of all global stablecoin payment activity &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250807/p22#a250807p22)
- - [The Best Golf Rangefinders &lpar;2025&rpar;](https://www.wired.com/gallery/best-golf-rangefinders/)<!-- TECH:END -->
+ - [Why I love my Soviet Labubu](https://www.theverge.com/tech/756380/labubu-toy-favorites)
+ - [GPT-5&amp;#8217;s big new feature: less lying?](https://www.theverge.com/the-vergecast/756554/vergecast-gpt5-oss-age-gating)
+ - [Sources: Marc Andreessen complained to the UK government last week about the Online Safety Act and called for a reprimand of technology secretary Peter Kyle &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p12#a250808p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
