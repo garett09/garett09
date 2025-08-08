@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
- - 🚯 [Life is great in LA](http://9gag.com/gag/aQzVgNq)
- - 🚯 [Nature is healing](http://9gag.com/gag/ayNP4XW)<!-- MEMES:END -->
+ - 🚖 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
+ - 🚯 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
+ - 🚯 [We never got our rights from asking nicely](http://9gag.com/gag/an7Vvj5)<!-- MEMES:END -->
 
 --- 
 
