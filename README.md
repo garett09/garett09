@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Out and About is exactly what I want from a foraging game and has convinced me that I could easily make a meal out of what I find in my back garden](https://www.pcgamer.com/games/sim/out-and-about-is-exactly-what-i-want-from-a-foraging-game-and-has-convinced-me-that-i-could-easily-make-a-meal-out-of-what-i-find-in-my-back-garden/)
- - [The Monkey is streaming now on Hulu, but is it worth watching?](https://www.polygon.com/the-monkey-hulu-streaming/)
- - [Trump says Intel CEO &#39;must immediately resign&#39; as US senator questions Lip Bu Tan&#39;s China ties](https://www.pcgamer.com/hardware/processors/trump-says-intel-ceo-must-immediately-resign-as-us-senator-questions-lip-bu-tans-china-ties/)<!-- GAME:END -->
+ - [Take-Two CEO Won’t Say How Much GTA 6 Will Cost](https://kotaku.com/gta-6-take-two-ceo-price-80-ps5-2000616607)
+ - [Clair Obscur: Expedition 33&#39;s director had 2 scrapped scenes from the game&#39;s ending, gives props to mocap actors who &#39;saved&#39; it at the last minute](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-director-had-2-scrapped-scenes-from-the-games-ending-gives-props-to-mocap-actors-who-saved-it-at-the-last-minute/)
+ - [Every game is a roguelike deckbuilder now, but I&#39;ve finally found a few that have stopped me being a hater](https://www.pcgamer.com/games/roguelike/every-game-is-a-roguelike-deckbuilder-now-but-ive-finally-found-a-few-that-have-stopped-me-being-a-hater/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
