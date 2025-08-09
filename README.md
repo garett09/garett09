@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why I love my Soviet Labubu](https://www.theverge.com/tech/756380/labubu-toy-favorites)
- - [GPT-5&amp;#8217;s big new feature: less lying?](https://www.theverge.com/the-vergecast/756554/vergecast-gpt5-oss-age-gating)
- - [Sources: Marc Andreessen complained to the UK government last week about the Online Safety Act and called for a reprimand of technology secretary Peter Kyle &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p12#a250808p12)<!-- TECH:END -->
+ - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)
+ - [I can never go back to a phone without this display feature](https://www.androidauthority.com/my-favorite-display-feature-for-night-use-3582060/)
+ - [Is This Seat Taken? makes seating fussy people fun](https://www.theverge.com/games-review/717713/is-this-seat-taken-review-pc-nintendo-switch-ios-android)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
