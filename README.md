@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two CEO Won’t Say How Much GTA 6 Will Cost](https://kotaku.com/gta-6-take-two-ceo-price-80-ps5-2000616607)
- - [Clair Obscur: Expedition 33&#39;s director had 2 scrapped scenes from the game&#39;s ending, gives props to mocap actors who &#39;saved&#39; it at the last minute](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33s-director-had-2-scrapped-scenes-from-the-games-ending-gives-props-to-mocap-actors-who-saved-it-at-the-last-minute/)
- - [Every game is a roguelike deckbuilder now, but I&#39;ve finally found a few that have stopped me being a hater](https://www.pcgamer.com/games/roguelike/every-game-is-a-roguelike-deckbuilder-now-but-ive-finally-found-a-few-that-have-stopped-me-being-a-hater/)<!-- GAME:END -->
+ - [Donkey Kong Bananza betrays the only bit of Nintendo lore I care about](https://www.polygon.com/donkey-kong-bananza-dk-goes-home-lore/)
+ - [The iconic look of BioShock&#39;s Big Daddy has its roots in System Shock 2&#39;s low polygon counts: &#39;If you embraced your designing limitations on that stuff, you&#39;d end up with a better model&#39;](https://www.pcgamer.com/games/fps/the-iconic-look-of-bioshocks-big-daddy-has-its-roots-in-system-shock-2s-low-polygon-counts-if-you-embraced-your-designing-limitations-on-that-stuff-youd-end-up-with-a-better-model/)
+ - [Konami&#39;s Gradius Origins may be its best retro collection yet](https://www.polygon.com/gradius-origins-konami-m2-retro-collection/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
