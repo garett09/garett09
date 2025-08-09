@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
- - 🚯 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
- - 🚯 [We never got our rights from asking nicely](http://9gag.com/gag/an7Vvj5)<!-- MEMES:END -->
+ - 🚖 [No comment](http://9gag.com/gag/aGybGYz)
+ - 🚯 [Rebecca](http://9gag.com/gag/a4PVN3v)
+ - 🚯 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)<!-- MEMES:END -->
 
 --- 
 
