@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Donkey Kong Bananza betrays the only bit of Nintendo lore I care about](https://www.polygon.com/donkey-kong-bananza-dk-goes-home-lore/)
- - [The iconic look of BioShock&#39;s Big Daddy has its roots in System Shock 2&#39;s low polygon counts: &#39;If you embraced your designing limitations on that stuff, you&#39;d end up with a better model&#39;](https://www.pcgamer.com/games/fps/the-iconic-look-of-bioshocks-big-daddy-has-its-roots-in-system-shock-2s-low-polygon-counts-if-you-embraced-your-designing-limitations-on-that-stuff-youd-end-up-with-a-better-model/)
- - [Konami&#39;s Gradius Origins may be its best retro collection yet](https://www.polygon.com/gradius-origins-konami-m2-retro-collection/)<!-- GAME:END -->
+ - [I made Mafia: The Old Country&#39;s pork spezzatino recipe](https://www.polygon.com/mafia-old-country-pork-spezzatino-recipe/)
+ - [&#39;The prejudice against turn-based RPGs isn’t completely gone&#39;: despite Clair Obscur: Expedition 33&#39;s massive success, its director reckons real-time action games still have an easier time](https://www.pcgamer.com/games/rpg/the-prejudice-against-turn-based-rpgs-isnt-completely-gone-despite-clair-obscur-expedition-33s-massive-success-its-director-reckons-real-time-action-games-still-have-an-easier-time/)
+ - [Julia Garner reveals a Weapons inspiration she only realized on the set](https://www.polygon.com/julia-garner-weapons-silver-surfer-fantastic-four/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
