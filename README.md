@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No comment](http://9gag.com/gag/aGybGYz)
- - 🚯 [Rebecca](http://9gag.com/gag/a4PVN3v)
- - 🚯 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)<!-- MEMES:END -->
+ - 🚖 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 🚯 [No comment](http://9gag.com/gag/aGybGYz)
+ - 🚯 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)<!-- MEMES:END -->
 
 --- 
 
