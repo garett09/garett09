@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)
- - [I can never go back to a phone without this display feature](https://www.androidauthority.com/my-favorite-display-feature-for-night-use-3582060/)
- - [Is This Seat Taken? makes seating fussy people fun](https://www.theverge.com/games-review/717713/is-this-seat-taken-review-pc-nintendo-switch-ios-android)<!-- TECH:END -->
+ - [My Google Keep notes were a mess — here’s how I got them under control](https://www.androidauthority.com/organize-google-keep-notes-3582455/)
+ - [The 4 Best Hearing Aids for Seniors in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids-for-seniors/)
+ - [Ditching my phone for an LTE smartwatch was a humbling experience](https://www.theverge.com/gadgets/756945/smartwatch-lte-minimalist-phone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
