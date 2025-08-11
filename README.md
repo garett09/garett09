@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Google Keep notes were a mess — here’s how I got them under control](https://www.androidauthority.com/organize-google-keep-notes-3582455/)
- - [The 4 Best Hearing Aids for Seniors in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids-for-seniors/)
- - [Ditching my phone for an LTE smartwatch was a humbling experience](https://www.theverge.com/gadgets/756945/smartwatch-lte-minimalist-phone)<!-- TECH:END -->
+ - [Samsung Messages hints at satellite support, but should you get your hopes up? &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-messages-satellite-texting-apk-teardown-3585877/)
+ - [Paramount Plus will soon become the exclusive home to the UFC](https://www.theverge.com/news/757341/paramount-plus-ufc-deal-sports-streaming)
+ - [Fairphone’s new cables and chargers are both faster and tougher](https://www.theverge.com/news/757304/fairphone-usb-c-cables-30w-charger-durable-sustainable)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
