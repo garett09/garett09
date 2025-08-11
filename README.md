@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 🚯 [No comment](http://9gag.com/gag/aGybGYz)
- - 🚯 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)<!-- MEMES:END -->
+ - 🚖 [Life&#39;s a scam](http://9gag.com/gag/axy4OLK)
+ - 🚯 [Fr tho](http://9gag.com/gag/ayNP1bY)
+ - 🚯 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
 
 --- 
 
