@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I made Mafia: The Old Country&#39;s pork spezzatino recipe](https://www.polygon.com/mafia-old-country-pork-spezzatino-recipe/)
- - [&#39;The prejudice against turn-based RPGs isn’t completely gone&#39;: despite Clair Obscur: Expedition 33&#39;s massive success, its director reckons real-time action games still have an easier time](https://www.pcgamer.com/games/rpg/the-prejudice-against-turn-based-rpgs-isnt-completely-gone-despite-clair-obscur-expedition-33s-massive-success-its-director-reckons-real-time-action-games-still-have-an-easier-time/)
- - [Julia Garner reveals a Weapons inspiration she only realized on the set](https://www.polygon.com/julia-garner-weapons-silver-surfer-fantastic-four/)<!-- GAME:END -->
+ - [Hannibal&#39;s finale was 10 years ago but I haven&#39;t given up on season 4](https://www.polygon.com/hannibal-season-4-bryan-fuller-hugh-dancy-mads-mikkelsen/)
+ - [&#39;Everyone&#39;s little monkey brains like shelter and food&#39;: Subnautica 2 designer says primal instinct is the reason we&#39;re so drawn to smashing blocks of wood into weapons](https://www.pcgamer.com/games/survival-crafting/everyones-little-monkey-brains-like-shelter-and-food-subnautica-2-designer-says-primal-instinct-is-the-reason-were-so-drawn-to-smashing-blocks-of-wood-into-weapons/)
+ - [McDonald’s Pokémon Promotion Ends In Utter Chaos](https://kotaku.com/mcdonalds-pokemon-tcg-happy-meal-chaos-2000616843)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
