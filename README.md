@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hannibal&#39;s finale was 10 years ago but I haven&#39;t given up on season 4](https://www.polygon.com/hannibal-season-4-bryan-fuller-hugh-dancy-mads-mikkelsen/)
- - [&#39;Everyone&#39;s little monkey brains like shelter and food&#39;: Subnautica 2 designer says primal instinct is the reason we&#39;re so drawn to smashing blocks of wood into weapons](https://www.pcgamer.com/games/survival-crafting/everyones-little-monkey-brains-like-shelter-and-food-subnautica-2-designer-says-primal-instinct-is-the-reason-were-so-drawn-to-smashing-blocks-of-wood-into-weapons/)
- - [McDonald’s Pokémon Promotion Ends In Utter Chaos](https://kotaku.com/mcdonalds-pokemon-tcg-happy-meal-chaos-2000616843)<!-- GAME:END -->
+ - [How Borderlands 4 is Being Built for Co-op from the Ground Up](https://news.xbox.com/en-us/2025/08/12/how-borderlands-4-built-for-co-op-ground-up/)
+ - [&#39;I don&#39;t know what it means to have a Manhattan Project for AI&#39;: Nuclear war experts remind us of the frightening risks of our artificial intelligence controlling our nukes](https://www.pcgamer.com/software/ai/i-dont-know-what-it-means-to-have-a-manhattan-project-for-ai-nuclear-war-experts-remind-us-of-the-frightening-risks-of-our-artificial-intelligence-controlling-our-nukes/)
+ - [OpenAI CEO Sam Altman says some folk are using AI in &#39;self-destructive ways&#39; so it&#39;s on us as a society to work out how &#39;to make it a big net positive&#39;](https://www.pcgamer.com/software/ai/openai-ceo-sam-altman-says-some-folk-are-using-ai-in-self-destructive-ways-so-its-on-us-as-a-society-to-work-out-how-to-make-it-a-big-net-positive/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
