@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life&#39;s a scam](http://9gag.com/gag/axy4OLK)
- - 🚯 [Fr tho](http://9gag.com/gag/ayNP1bY)
- - 🚯 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
+ - 🚖 [Would watch](http://9gag.com/gag/adBbRo2)
+ - 🚯 [Dude, what?](http://9gag.com/gag/awyvY84)
+ - 🚯 [Task failed successfully](http://9gag.com/gag/awyv4P8)<!-- MEMES:END -->
 
 --- 
 
