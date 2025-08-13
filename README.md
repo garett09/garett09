@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Borderlands 4 is Being Built for Co-op from the Ground Up](https://news.xbox.com/en-us/2025/08/12/how-borderlands-4-built-for-co-op-ground-up/)
- - [&#39;I don&#39;t know what it means to have a Manhattan Project for AI&#39;: Nuclear war experts remind us of the frightening risks of our artificial intelligence controlling our nukes](https://www.pcgamer.com/software/ai/i-dont-know-what-it-means-to-have-a-manhattan-project-for-ai-nuclear-war-experts-remind-us-of-the-frightening-risks-of-our-artificial-intelligence-controlling-our-nukes/)
- - [OpenAI CEO Sam Altman says some folk are using AI in &#39;self-destructive ways&#39; so it&#39;s on us as a society to work out how &#39;to make it a big net positive&#39;](https://www.pcgamer.com/software/ai/openai-ceo-sam-altman-says-some-folk-are-using-ai-in-self-destructive-ways-so-its-on-us-as-a-society-to-work-out-how-to-make-it-a-big-net-positive/)<!-- GAME:END -->
+ - [KPop Demon Hunters will have four different sing-along screenings in the U.S.](https://www.polygon.com/kpop-demon-hunters-singalong-screenings-us-cities/)
+ - [Marvel Rivals matchmaking conspiracies are hitting a breaking point](https://www.polygon.com/marvel-rivals-matchmaking-eomm-optmatch-netease-multiplayer-anger/)
+ - [Hail to the 9 Kings: Say Hello to Your New Auto-Battler Obsession](https://news.xbox.com/en-us/2025/08/13/9-kings-pc-game-pass-preview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
