@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Air GPU won&#39;t be as powerful as iPhone 17 Pro](https://appleinsider.com/articles/25/08/12/chip-binned-iphone-17-air-wont-be-as-powerful-as-the-pro-models?utm_source=rss)
- - [&#39;Ted Lasso&#39; now flies the friendly skies on United&#39;s in-flight entertainment system](https://appleinsider.com/articles/25/08/12/ted-lasso-now-flies-the-friendly-skies-on-uniteds-in-flight-entertainment-system?utm_source=rss)
- - [Alien: Earth is a brilliant and terrifying expansion of the franchise](https://www.theverge.com/tv-reviews/719173/alien-earth-review)<!-- TECH:END -->
+ - [Pebble reveals Time 2’s refreshed metal design, shares specifics about the display](https://www.androidauthority.com/pebble-time-2-metal-design-display-3586414/)
+ - [Here’s a look at the final Pebble Time 2 design](https://www.theverge.com/news/758592/pebble-time-2-final-design-wearables-smartwatches)
+ - [Hands-on: We ran full desktop Linux apps on an Android phone!](https://www.androidauthority.com/run-desktop-linux-apps-on-android-how-to-3586539/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
