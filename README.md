@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
- - 🚯 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
- - 🚯 [Dude, what?](http://9gag.com/gag/awyvY84)<!-- MEMES:END -->
+ - 🚖 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
+ - 🚯 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)
+ - 🚯 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)<!-- MEMES:END -->
 
 --- 
 
