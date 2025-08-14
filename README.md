@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pebble reveals Time 2’s refreshed metal design, shares specifics about the display](https://www.androidauthority.com/pebble-time-2-metal-design-display-3586414/)
- - [Here’s a look at the final Pebble Time 2 design](https://www.theverge.com/news/758592/pebble-time-2-final-design-wearables-smartwatches)
- - [Hands-on: We ran full desktop Linux apps on an Android phone!](https://www.androidauthority.com/run-desktop-linux-apps-on-android-how-to-3586539/)<!-- TECH:END -->
+ - [Google Messages rolls out Sensitive Content Warnings on Android to blur nude images for signed-in users; Android System SafetyCore powers on-device processing &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250814/p22#a250814p22)
+ - [Apple Watch getting blood oxygen sensor back after 18 month absence](https://appleinsider.com/articles/25/08/14/apple-watch-getting-blood-oxygen-sensor-back-after-18-month-absence?utm_source=rss)
+ - [The Fitbit app on your Pixel Watch just got a gorgeous Material 3 makeover](https://www.androidauthority.com/fitbit-app-pixel-watch-material-3-expressive-3587305/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
