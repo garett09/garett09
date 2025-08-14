@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [KPop Demon Hunters will have four different sing-along screenings in the U.S.](https://www.polygon.com/kpop-demon-hunters-singalong-screenings-us-cities/)
- - [Marvel Rivals matchmaking conspiracies are hitting a breaking point](https://www.polygon.com/marvel-rivals-matchmaking-eomm-optmatch-netease-multiplayer-anger/)
- - [Hail to the 9 Kings: Say Hello to Your New Auto-Battler Obsession](https://news.xbox.com/en-us/2025/08/13/9-kings-pc-game-pass-preview/)<!-- GAME:END -->
+ - [Borderlands 4 has, like, so many guns, 30 billion guns, so many they had to put &#39;em on a &#39;wall of guns&#39; like the Matrix, say devs](https://www.pcgamer.com/games/fps/borderlands-4-has-like-so-many-guns-30-billion-guns-so-many-they-had-to-put-em-on-a-wall-of-guns-like-the-matrix-say-devs/)
+ - [How to beat Everdark Libra in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-everdark-libra-equilibrious-beast/)
+ - [Pokémon Scalpers Are Already Ruining The World Championships](https://kotaku.com/pokemon-world-championship-merchandise-scalper-reseller-2000617744)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
