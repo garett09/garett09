@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages rolls out Sensitive Content Warnings on Android to blur nude images for signed-in users; Android System SafetyCore powers on-device processing &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250814/p22#a250814p22)
- - [Apple Watch getting blood oxygen sensor back after 18 month absence](https://appleinsider.com/articles/25/08/14/apple-watch-getting-blood-oxygen-sensor-back-after-18-month-absence?utm_source=rss)
- - [The Fitbit app on your Pixel Watch just got a gorgeous Material 3 makeover](https://www.androidauthority.com/fitbit-app-pixel-watch-material-3-expressive-3587305/)<!-- TECH:END -->
+ - [Sam Altman says OpenAI &quot;totally screwed up some things&quot; on the GPT-5 rollout, confirms plans to fund a brain-computer interface startup to rival Neuralink &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250815/p9#a250815p9)
+ - [Vibe coding through the GPT-5 mess](https://www.theverge.com/the-vergecast/759768/gpt5-backlash-vibe-coding-attempts-corporate-stunts)
+ - [For Legends: Z-A’s battle system, I rewired the Pokémon part of my brain](https://www.theverge.com/games/759788/pokemon-legends-z-a-battle-real-time-preview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
