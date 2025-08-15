@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4 has, like, so many guns, 30 billion guns, so many they had to put &#39;em on a &#39;wall of guns&#39; like the Matrix, say devs](https://www.pcgamer.com/games/fps/borderlands-4-has-like-so-many-guns-30-billion-guns-so-many-they-had-to-put-em-on-a-wall-of-guns-like-the-matrix-say-devs/)
- - [How to beat Everdark Libra in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-everdark-libra-equilibrious-beast/)
- - [Pokémon Scalpers Are Already Ruining The World Championships](https://kotaku.com/pokemon-world-championship-merchandise-scalper-reseller-2000617744)<!-- GAME:END -->
+ - [Pokémon Legends Z-A battles are thrilling in new preview on Switch 2](https://www.polygon.com/pokemon-legends-z-a-preview-active-battle-mechanics/)
+ - [Valve says Steam&#39;s performance monitor should now report GPU utilisation more accurately than Task Manager in the latest beta, and as a nerd, this pleases me in ways I can&#39;t describe](https://www.pcgamer.com/hardware/graphics-cards/valve-says-steams-performance-monitor-should-now-report-gpu-utilisation-more-accurately-than-task-manager-in-the-latest-beta-and-as-a-nerd-this-pleases-me-in-ways-i-cant-describe/)
+ - [Synth YouTuber releases twin-stick shooter with interactive soundtrack using moddable synthesizer weapon based on real kit](https://www.pcgamer.com/hardware/synth-youtuber-releases-twin-stick-shooter-with-interactive-soundtrack-using-moddable-synthesizer-weapon-based-on-real-kit/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
