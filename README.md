@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says OpenAI &quot;totally screwed up some things&quot; on the GPT-5 rollout, confirms plans to fund a brain-computer interface startup to rival Neuralink &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250815/p9#a250815p9)
- - [Vibe coding through the GPT-5 mess](https://www.theverge.com/the-vergecast/759768/gpt5-backlash-vibe-coding-attempts-corporate-stunts)
- - [For Legends: Z-A’s battle system, I rewired the Pokémon part of my brain](https://www.theverge.com/games/759788/pokemon-legends-z-a-battle-real-time-preview)<!-- TECH:END -->
+ - [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Pairing your Galaxy Watch with a non-Samsung phone? Here’s what you’re missing out on](https://www.androidauthority.com/pair-galaxy-watch-with-samsung-phone-features-3585344/)
+ - [Dead Take’s best scares come from real-life performances](https://www.theverge.com/games/760213/dead-take-review-fmv-horror-game-ben-starr)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
