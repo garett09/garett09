@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends Z-A battles are thrilling in new preview on Switch 2](https://www.polygon.com/pokemon-legends-z-a-preview-active-battle-mechanics/)
- - [Valve says Steam&#39;s performance monitor should now report GPU utilisation more accurately than Task Manager in the latest beta, and as a nerd, this pleases me in ways I can&#39;t describe](https://www.pcgamer.com/hardware/graphics-cards/valve-says-steams-performance-monitor-should-now-report-gpu-utilisation-more-accurately-than-task-manager-in-the-latest-beta-and-as-a-nerd-this-pleases-me-in-ways-i-cant-describe/)
- - [Synth YouTuber releases twin-stick shooter with interactive soundtrack using moddable synthesizer weapon based on real kit](https://www.pcgamer.com/hardware/synth-youtuber-releases-twin-stick-shooter-with-interactive-soundtrack-using-moddable-synthesizer-weapon-based-on-real-kit/)<!-- GAME:END -->
+ - [Get $170 worth of RPG books for $15 with the Witcher&#39;s TTRPG bundle](https://www.pcgamer.com/games/rpg/get-usd170-worth-of-rpg-books-for-usd15-with-the-witchers-ttrpg-bundle/)
+ - [The sequel to Half-Life modding classic Pirates, Vikings &amp; Knights quietly hit 1.0 after nearly 18 years of development: &#39;It&#39;s been over 6,500 days since PVK2 was unleashed&#39;](https://www.pcgamer.com/games/the-sequel-to-half-life-modding-classic-pirates-vikings-and-knights-quietly-hit-1-0-after-nearly-18-years-of-development-its-been-over-6-500-days-since-pvk2-was-unleashed/)
+ - [As the legal debate between Subnautica 2&#39;s publisher and former studio execs rages, the original game and its spinoff quietly receive small patches and big discounts](https://www.pcgamer.com/games/survival-crafting/as-the-legal-debate-between-subnautica-2s-publisher-and-former-studio-execs-rages-the-original-game-and-its-spinoff-quietly-receive-small-patches-and-big-discounts/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
