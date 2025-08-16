@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
- - 🚯 [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)
- - 🚯 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)<!-- MEMES:END -->
+ - 🚖 [My precious](http://9gag.com/gag/a2vG9zD)
+ - 🚯 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
+ - 🚯 [Interesting](http://9gag.com/gag/aByoNDz)<!-- MEMES:END -->
 
 --- 
 
