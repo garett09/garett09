@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get $170 worth of RPG books for $15 with the Witcher&#39;s TTRPG bundle](https://www.pcgamer.com/games/rpg/get-usd170-worth-of-rpg-books-for-usd15-with-the-witchers-ttrpg-bundle/)
- - [The sequel to Half-Life modding classic Pirates, Vikings &amp; Knights quietly hit 1.0 after nearly 18 years of development: &#39;It&#39;s been over 6,500 days since PVK2 was unleashed&#39;](https://www.pcgamer.com/games/the-sequel-to-half-life-modding-classic-pirates-vikings-and-knights-quietly-hit-1-0-after-nearly-18-years-of-development-its-been-over-6-500-days-since-pvk2-was-unleashed/)
- - [As the legal debate between Subnautica 2&#39;s publisher and former studio execs rages, the original game and its spinoff quietly receive small patches and big discounts](https://www.pcgamer.com/games/survival-crafting/as-the-legal-debate-between-subnautica-2s-publisher-and-former-studio-execs-rages-the-original-game-and-its-spinoff-quietly-receive-small-patches-and-big-discounts/)<!-- GAME:END -->
+ - [Inside the six-year battle to get a sci-fi cheerleader beat-&#39;em-up off the ground](https://www.polygon.com/ra-ra-boom-gylee-games-interview/)
+ - [1930s media mogul sim News Tower leaves early access in November, letting you build your journalism empire on the shoulders of the Mafia](https://www.pcgamer.com/games/sim/1930s-media-mogul-sim-news-tower-leaves-early-access-in-november-letting-you-build-your-journalism-empire-on-the-shoulders-of-the-mafia/)
+ - [Titan Quest 2 early access impressions: Good, but not one of the greats](https://www.polygon.com/titan-quest-2-impressions-early-access-arpg/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
