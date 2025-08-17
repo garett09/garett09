@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My precious](http://9gag.com/gag/a2vG9zD)
- - 🚯 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
- - 🚯 [Interesting](http://9gag.com/gag/aByoNDz)<!-- MEMES:END -->
+ - 🚖 [Help your gf](http://9gag.com/gag/aGybrz6)
+ - 🚯 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
+ - 🚯 [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)<!-- MEMES:END -->
 
 --- 
 
