@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Pairing your Galaxy Watch with a non-Samsung phone? Here’s what you’re missing out on](https://www.androidauthority.com/pair-galaxy-watch-with-samsung-phone-features-3585344/)
- - [Dead Take’s best scares come from real-life performances](https://www.theverge.com/games/760213/dead-take-review-fmv-horror-game-ben-starr)<!-- TECH:END -->
+ - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
+ - [More high-profile retirements expected soon at Apple](https://appleinsider.com/articles/25/08/17/more-high-profile-retirements-expected-soon-at-apple?utm_source=rss)
+ - [This open-source fasting app actually helped me hit my fitness goals](https://www.androidauthority.com/open-source-fitness-fasting-app-3584785/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
