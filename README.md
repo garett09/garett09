@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside the six-year battle to get a sci-fi cheerleader beat-&#39;em-up off the ground](https://www.polygon.com/ra-ra-boom-gylee-games-interview/)
- - [1930s media mogul sim News Tower leaves early access in November, letting you build your journalism empire on the shoulders of the Mafia](https://www.pcgamer.com/games/sim/1930s-media-mogul-sim-news-tower-leaves-early-access-in-november-letting-you-build-your-journalism-empire-on-the-shoulders-of-the-mafia/)
- - [Titan Quest 2 early access impressions: Good, but not one of the greats](https://www.polygon.com/titan-quest-2-impressions-early-access-arpg/)<!-- GAME:END -->
+ - [Smash Bros.Director’s New Kirby Racing Game Is Getting A Ridiculously Long Nintendo Direct](https://kotaku.com/nintendo-direct-switch-2-kirby-air-riders-smash-bros-sakurai-2000618190)
+ - [&#39;Someone is going to lose a phenomenal amount of money&#39; says OpenAI CEO Sam Altman about unwise AI investment. &#39;When bubbles happen, smart people get overexcited about a kernel of truth&#39;](https://www.pcgamer.com/software/ai/someone-is-going-to-lose-a-phenomenal-amount-of-money-says-openai-ceo-sam-altman-about-unwise-ai-investment-when-bubbles-happen-smart-people-get-overexcited-about-a-kernel-of-truth/)
+ - [New roguelite Rewilders revealed by BAFTA-winning Herobeat Studios](https://www.polygon.com/rewilders-the-lost-spring-reveal-trailer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
