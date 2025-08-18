@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
- - [More high-profile retirements expected soon at Apple](https://appleinsider.com/articles/25/08/17/more-high-profile-retirements-expected-soon-at-apple?utm_source=rss)
- - [This open-source fasting app actually helped me hit my fitness goals](https://www.androidauthority.com/open-source-fitness-fasting-app-3584785/)<!-- TECH:END -->
+ - [Grammarly debuts AI agents for writing and grading assistance, including an AI grader and a citation finder agent, available for Grammarly Free and Pro users &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250818/p10#a250818p10)
+ - [New Galaxy Buds 3 FE bring Pro-level features at a much lower price](https://www.androidauthority.com/samsung-galaxy-buds-3-fe-launched-3588316/)
+ - [Samsung’s budget Galaxy Buds 3 FE are here](https://www.theverge.com/news/760445/galaxy-buds3-fe-price-specs-samsung)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
