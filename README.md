@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Help your gf](http://9gag.com/gag/aGybrz6)
- - 🚯 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - 🚯 [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)<!-- MEMES:END -->
+ - 🚖 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
+ - 🚯 [Nope](http://9gag.com/gag/a7oAgmz)
+ - 🚯 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
 
 --- 
 
