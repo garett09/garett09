@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - 🚯 [Nope](http://9gag.com/gag/a7oAgmz)
- - 🚯 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
+ - 🚖 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
+ - 🚯 [Sue her](http://9gag.com/gag/a34nrrN)
+ - 🚯 [What the dog doin](http://9gag.com/gag/apR8w7b)<!-- MEMES:END -->
 
 --- 
 
