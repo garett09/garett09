@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Smash Bros.Director’s New Kirby Racing Game Is Getting A Ridiculously Long Nintendo Direct](https://kotaku.com/nintendo-direct-switch-2-kirby-air-riders-smash-bros-sakurai-2000618190)
- - [&#39;Someone is going to lose a phenomenal amount of money&#39; says OpenAI CEO Sam Altman about unwise AI investment. &#39;When bubbles happen, smart people get overexcited about a kernel of truth&#39;](https://www.pcgamer.com/software/ai/someone-is-going-to-lose-a-phenomenal-amount-of-money-says-openai-ceo-sam-altman-about-unwise-ai-investment-when-bubbles-happen-smart-people-get-overexcited-about-a-kernel-of-truth/)
- - [New roguelite Rewilders revealed by BAFTA-winning Herobeat Studios](https://www.polygon.com/rewilders-the-lost-spring-reveal-trailer/)<!-- GAME:END -->
+ - [Monster Hunter Wilds Fans Told To Wait Until Winter For PC Fixes](https://kotaku.com/monster-hunter-wilds-pc-update-optimization-tu4-capcom-when-2000618404)
+ - [NCSoft&#39;s making a new MMO shooter that, snazzy graphics aside, feels like it&#39;s already 15 years old—and that might just match your freak](https://www.pcgamer.com/games/mmo/ncsofts-making-a-new-mmo-shooter-that-snazzy-graphics-aside-feels-like-its-already-15-years-old-and-that-might-just-match-your-freak/)
+ - [Helldivers 2 x Halo: ODST Legendary Warbond arrives August 26](https://blog.playstation.com/2025/08/19/helldivers-2-x-halo-odst-legendary-warbond-arrives-august-26/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
