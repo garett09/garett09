@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grammarly debuts AI agents for writing and grading assistance, including an AI grader and a citation finder agent, available for Grammarly Free and Pro users &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250818/p10#a250818p10)
- - [New Galaxy Buds 3 FE bring Pro-level features at a much lower price](https://www.androidauthority.com/samsung-galaxy-buds-3-fe-launched-3588316/)
- - [Samsung’s budget Galaxy Buds 3 FE are here](https://www.theverge.com/news/760445/galaxy-buds3-fe-price-specs-samsung)<!-- TECH:END -->
+ - [Despite its attempt to appeal, T-Mobile must pay $92m for failing to protect customer location data](https://www.androidauthority.com/t-mobile-location-data-3588829/)
+ - [DeepSeek releases V3.1, adding a longer context window, with few other details; Chinese local media blames CEO Liang Wenfeng&#39;s perfectionism for R2&#39;s delay &lpar;Bloomberg&rpar;](http://www.techmeme.com/250819/p10#a250819p10)
+ - [Your next movie night could glow brighter with Nanoleaf’s latest TV light strip kit](https://www.androidauthority.com/nanoleaf-4d-v2-screen-mirror-light-strip-launched-3588526/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
