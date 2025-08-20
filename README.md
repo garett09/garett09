@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Wilds Fans Told To Wait Until Winter For PC Fixes](https://kotaku.com/monster-hunter-wilds-pc-update-optimization-tu4-capcom-when-2000618404)
- - [NCSoft&#39;s making a new MMO shooter that, snazzy graphics aside, feels like it&#39;s already 15 years old—and that might just match your freak](https://www.pcgamer.com/games/mmo/ncsofts-making-a-new-mmo-shooter-that-snazzy-graphics-aside-feels-like-its-already-15-years-old-and-that-might-just-match-your-freak/)
- - [Helldivers 2 x Halo: ODST Legendary Warbond arrives August 26](https://blog.playstation.com/2025/08/19/helldivers-2-x-halo-odst-legendary-warbond-arrives-august-26/)<!-- GAME:END -->
+ - [Vampire: The Masquerade – Bloodlines 2 Brings Back Horrors Of Paid Day-One DLC](https://kotaku.com/vampire-the-masquerade-bloodlines-2-day-1-dlc-clans-2000618832)
+ - [WoW: Midnight&#39;s Prey sounds like a Warcraft twist on a legendary game](https://www.polygon.com/world-of-warcraft-midnight-features-prey/)
+ - [Lego Voyagers tests the bounds of your imagination — and your friendship](https://www.polygon.com/lego-voyagers-preview-impressions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
