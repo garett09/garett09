@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite its attempt to appeal, T-Mobile must pay $92m for failing to protect customer location data](https://www.androidauthority.com/t-mobile-location-data-3588829/)
- - [DeepSeek releases V3.1, adding a longer context window, with few other details; Chinese local media blames CEO Liang Wenfeng&#39;s perfectionism for R2&#39;s delay &lpar;Bloomberg&rpar;](http://www.techmeme.com/250819/p10#a250819p10)
- - [Your next movie night could glow brighter with Nanoleaf’s latest TV light strip kit](https://www.androidauthority.com/nanoleaf-4d-v2-screen-mirror-light-strip-launched-3588526/)<!-- TECH:END -->
+ - [NYC-based Bluefish Labs, which analyzes prompt responses for large brands to understand how LLMs answer consumer questions, raised a $20M Series A led by NEA &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250820/p18#a250820p18)
+ - [Sources: China is considering allowing yuan-backed stablecoins to boost global yuan adoption; the State Council may approve a roadmap later in August &lpar;Reuters&rpar;](http://www.techmeme.com/250820/p17#a250820p17)
+ - [Ben Stiller will not be directing any &#39;Severance&#39; season 3 episodes](https://appleinsider.com/articles/25/08/20/ben-stiller-will-not-be-directing-any-severance-season-3-episodes?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
