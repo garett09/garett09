@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
- - 🚯 [Sue her](http://9gag.com/gag/a34nrrN)
- - 🚯 [What the dog doin](http://9gag.com/gag/apR8w7b)<!-- MEMES:END -->
+ - 🚖 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
+ - 🚯 [Zero compassion](http://9gag.com/gag/aoyDvPA)
+ - 🚯 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)<!-- MEMES:END -->
 
 --- 
 
