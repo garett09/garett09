@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
- - 🚯 [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 🚯 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)<!-- MEMES:END -->
+ - 🚖 [The Who?](http://9gag.com/gag/a7oAzGL)
+ - 🚯 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)
+ - 🚯 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)<!-- MEMES:END -->
 
 --- 
 
