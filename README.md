@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire: The Masquerade – Bloodlines 2 Brings Back Horrors Of Paid Day-One DLC](https://kotaku.com/vampire-the-masquerade-bloodlines-2-day-1-dlc-clans-2000618832)
- - [WoW: Midnight&#39;s Prey sounds like a Warcraft twist on a legendary game](https://www.polygon.com/world-of-warcraft-midnight-features-prey/)
- - [Lego Voyagers tests the bounds of your imagination — and your friendship](https://www.polygon.com/lego-voyagers-preview-impressions/)<!-- GAME:END -->
+ - [Caribbean commie city builder Tropico is getting a new game featuring a &#39;reworked military system&#39; and a new council of whiny citizens](https://www.pcgamer.com/games/city-builder/caribbean-commie-city-builder-tropico-is-getting-a-new-game-featuring-a-reworked-military-system-and-a-new-council-of-whiny-citizens/)
+ - [I hope everyone is ready to thirst over Resident Evil characters again because Jill Valentine is being immortalised in a gooner gacha](https://www.pcgamer.com/games/action/i-hope-everyone-is-ready-to-thirst-over-resident-evil-characters-again-because-jill-valentine-is-being-immortalised-in-a-gooner-gacha/)
+ - [Vampire Survivors Dev Publishes Surreal Roguelike About Shooting Human Brick Heads You Can Play Right Now](https://kotaku.com/vampire-survivors-balatro-kill-the-brickman-poncle-roguelike-2000619132)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
