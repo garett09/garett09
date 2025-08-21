@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Bluefish Labs, which analyzes prompt responses for large brands to understand how LLMs answer consumer questions, raised a $20M Series A led by NEA &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250820/p18#a250820p18)
- - [Sources: China is considering allowing yuan-backed stablecoins to boost global yuan adoption; the State Council may approve a roadmap later in August &lpar;Reuters&rpar;](http://www.techmeme.com/250820/p17#a250820p17)
- - [Ben Stiller will not be directing any &#39;Severance&#39; season 3 episodes](https://appleinsider.com/articles/25/08/20/ben-stiller-will-not-be-directing-any-severance-season-3-episodes?utm_source=rss)<!-- TECH:END -->
+ - [Google Search&amp;#8217;s AI Mode is going global and getting smarter](https://www.theverge.com/news/763367/google-search-ai-mode-agentic-restaurant-bookings)
+ - [Google started the green bubble Messages fight, and is now tired of it](https://appleinsider.com/articles/25/08/21/google-started-the-green-bubble-messages-fight-and-is-now-tired-of-it?utm_source=rss)
+ - [7 Best Sunrise Alarm Clocks to Snag Before the Fall 2025 Time Change](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
