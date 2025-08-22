@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search&amp;#8217;s AI Mode is going global and getting smarter](https://www.theverge.com/news/763367/google-search-ai-mode-agentic-restaurant-bookings)
- - [Google started the green bubble Messages fight, and is now tired of it](https://appleinsider.com/articles/25/08/21/google-started-the-green-bubble-messages-fight-and-is-now-tired-of-it?utm_source=rss)
- - [7 Best Sunrise Alarm Clocks to Snag Before the Fall 2025 Time Change](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)<!-- TECH:END -->
+ - [A look at the invite-only iOS and Android apps for Digg, which now operates similarly to Reddit, with links with a lot of &quot;diggs&quot; moving up the feed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250822/p13#a250822p13)
+ - [Epic Games investor Y Combinator unsurprisingly files anti-App Store brief](https://appleinsider.com/articles/25/08/22/epic-games-investor-y-combinator-unsurprisingly-files-anti-app-store-brief?utm_source=rss)
+ - [The Pixel 10 camera feature I’m most excited for isn’t the one you think](https://www.androidauthority.com/pixel-10-camera-best-feature-3588915/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
