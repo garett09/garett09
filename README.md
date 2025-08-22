@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Caribbean commie city builder Tropico is getting a new game featuring a &#39;reworked military system&#39; and a new council of whiny citizens](https://www.pcgamer.com/games/city-builder/caribbean-commie-city-builder-tropico-is-getting-a-new-game-featuring-a-reworked-military-system-and-a-new-council-of-whiny-citizens/)
- - [I hope everyone is ready to thirst over Resident Evil characters again because Jill Valentine is being immortalised in a gooner gacha](https://www.pcgamer.com/games/action/i-hope-everyone-is-ready-to-thirst-over-resident-evil-characters-again-because-jill-valentine-is-being-immortalised-in-a-gooner-gacha/)
- - [Vampire Survivors Dev Publishes Surreal Roguelike About Shooting Human Brick Heads You Can Play Right Now](https://kotaku.com/vampire-survivors-balatro-kill-the-brickman-poncle-roguelike-2000619132)<!-- GAME:END -->
+ - [Netflix’s Splinter Cell: Deathwatch Is Out In October, And Sam Fisher Is Old](https://kotaku.com/splinter-cell-deathwatch-anime-netflix-2000619516)
+ - [Lost Soul Aside: PC features and a behind-the-scenes look](https://blog.playstation.com/2025/08/22/lost-soul-aside-pc-features-and-a-behind-the-scenes-look/)
+ - [Peacemaker&#39;s season 2&#39;s orgy scene fails a test The Boys totally nailed](https://www.polygon.com/peacemaker-season-2-premiere-superhero-orgy-gimmicks/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
