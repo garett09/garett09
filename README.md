@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 🚯 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 🚯 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)<!-- MEMES:END -->
+ - 🚖 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
+ - 🚯 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
+ - 🚯 [Damn](http://9gag.com/gag/aD2MpeB)<!-- MEMES:END -->
 
 --- 
 
