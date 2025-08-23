@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Splinter Cell: Deathwatch Is Out In October, And Sam Fisher Is Old](https://kotaku.com/splinter-cell-deathwatch-anime-netflix-2000619516)
- - [Lost Soul Aside: PC features and a behind-the-scenes look](https://blog.playstation.com/2025/08/22/lost-soul-aside-pc-features-and-a-behind-the-scenes-look/)
- - [Peacemaker&#39;s season 2&#39;s orgy scene fails a test The Boys totally nailed](https://www.polygon.com/peacemaker-season-2-premiere-superhero-orgy-gimmicks/)<!-- GAME:END -->
+ - [Pragmata hands-on: One of Capcom&#39;s most promising 2026 games](https://www.polygon.com/pragmata-game-preview-capcom-gamescom/)
+ - [Survival climber Cairn is getting a free-solo mode, letting you channel your inner Alex Honnold when it launches in November](https://www.pcgamer.com/games/sim/survival-climber-cairn-is-getting-a-free-solo-mode-letting-you-channel-your-inner-alex-honnold-when-it-launches-in-november/)
+ - [Trails in the Sky First Chapter demo is the perfect place to start](https://www.polygon.com/trails-in-the-sky-first-chapter-remake-demo/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
