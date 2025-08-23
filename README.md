@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the invite-only iOS and Android apps for Digg, which now operates similarly to Reddit, with links with a lot of &quot;diggs&quot; moving up the feed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250822/p13#a250822p13)
- - [Epic Games investor Y Combinator unsurprisingly files anti-App Store brief](https://appleinsider.com/articles/25/08/22/epic-games-investor-y-combinator-unsurprisingly-files-anti-app-store-brief?utm_source=rss)
- - [The Pixel 10 camera feature I’m most excited for isn’t the one you think](https://www.androidauthority.com/pixel-10-camera-best-feature-3588915/)<!-- TECH:END -->
+ - [How AI is increasingly being used to replace human content moderators, who say that the tech is not yet capable of reliably identifying harmful content &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250823/p8#a250823p8)
+ - [How to Build a PC &lpar;2025&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)
+ - [Apple Store in Bengaluru prepares for September 2 opening](https://appleinsider.com/articles/25/08/23/apple-store-in-bengaluru-prepares-for-september-2-opening?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
