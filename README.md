@@ -121,8 +121,8 @@ while(dev.isCoding() && dev.isStuck())
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/garett09/springboot-crashcourse/pull/1) in [garett09/springboot-crashcourse](https://github.com/garett09/springboot-crashcourse)
-2. 💪 Opened PR [#1](https://github.com/garett09/springboot-crashcourse/pull/1) in [garett09/springboot-crashcourse](https://github.com/garett09/springboot-crashcourse)
+1. 💪 Opened PR [#6](https://github.com/garett09/java-exam-simulator/pull/6) in [garett09/java-exam-simulator](https://github.com/garett09/java-exam-simulator)
+2. 💪 Opened PR [#5](https://github.com/garett09/java-exam-simulator/pull/5) in [garett09/java-exam-simulator](https://github.com/garett09/java-exam-simulator)
 3. 🎉 Merged PR [#9](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/9) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
 4. 💪 Opened PR [#9](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/9) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
 5. 🗣 Commented on [#8](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/8#issuecomment-3067885388) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
