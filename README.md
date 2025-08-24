@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 🚯 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
- - 🚯 [Damn](http://9gag.com/gag/aD2MpeB)<!-- MEMES:END -->
+ - 🚖 [Uhh wat](http://9gag.com/gag/arydvXy)
+ - 🚯 [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)
+ - 🚯 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)<!-- MEMES:END -->
 
 --- 
 
