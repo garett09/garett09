@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pragmata hands-on: One of Capcom&#39;s most promising 2026 games](https://www.polygon.com/pragmata-game-preview-capcom-gamescom/)
- - [Survival climber Cairn is getting a free-solo mode, letting you channel your inner Alex Honnold when it launches in November](https://www.pcgamer.com/games/sim/survival-climber-cairn-is-getting-a-free-solo-mode-letting-you-channel-your-inner-alex-honnold-when-it-launches-in-november/)
- - [Trails in the Sky First Chapter demo is the perfect place to start](https://www.polygon.com/trails-in-the-sky-first-chapter-remake-demo/)<!-- GAME:END -->
+ - [What is a roguelike? Let&#39;s push the definition as far as we can](https://www.polygon.com/roguelike-definition-what-is-roguelite/)
+ - [One of the best detective games of the decade is free to keep on Epic this week](https://www.pcgamer.com/games/puzzle/one-of-the-best-detective-games-of-the-decade-is-free-to-keep-on-epic-this-week/)
+ - [The cutest new show on Netflix is an incredible stop-motion anime](https://www.polygon.com/my-melody-and-kuromi-netflix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
