@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI is increasingly being used to replace human content moderators, who say that the tech is not yet capable of reliably identifying harmful content &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250823/p8#a250823p8)
- - [How to Build a PC &lpar;2025&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)
- - [Apple Store in Bengaluru prepares for September 2 opening](https://appleinsider.com/articles/25/08/23/apple-store-in-bengaluru-prepares-for-september-2-opening?utm_source=rss)<!-- TECH:END -->
+ - [The Best Cheap TVs &lpar;2025&rpar;: TCL, Hisense, and More](https://www.wired.com/gallery/best-cheap-tvs/)
+ - [The Galaxy Z Fold 7 shows why the punch-hole camera is here to stay, and I’m not mad about it](https://www.androidauthority.com/galaxy-z-fold-7-punch-hole-selfie-3589395/)
+ - [The Framework Desktop and Linux have shown me the path to PC gaming in the living room](https://www.theverge.com/games/761025/framework-desktop-bazzite-linux-steam-machine-pc-game-console-impressions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
