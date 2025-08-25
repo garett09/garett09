@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is a roguelike? Let&#39;s push the definition as far as we can](https://www.polygon.com/roguelike-definition-what-is-roguelite/)
- - [One of the best detective games of the decade is free to keep on Epic this week](https://www.pcgamer.com/games/puzzle/one-of-the-best-detective-games-of-the-decade-is-free-to-keep-on-epic-this-week/)
- - [The cutest new show on Netflix is an incredible stop-motion anime](https://www.polygon.com/my-melody-and-kuromi-netflix/)<!-- GAME:END -->
+ - [The Next Switch 2 Nintendo Direct Is Reportedly Coming Soon And Will Probably Be A Big One](https://kotaku.com/nintendo-direct-september-switch-2-mario-metroid-prime-4-date-2000619997)
+ - [Story of Seasons: Grand Bazaar remake is at its best when it&#39;s about community](https://www.polygon.com/story-of-seasons-grand-bazaar-harvest-moon-community/)
+ - [Star Trek: Strange New Worlds asks if Starfleet are colonizers](https://www.polygon.com/star-trek-strange-new-worlds-what-is-starfleet/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
