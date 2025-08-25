@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uhh wat](http://9gag.com/gag/arydvXy)
- - 🚯 [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)
- - 🚯 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
+ - 🚯 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 🚯 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
 
 --- 
 
