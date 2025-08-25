@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Cheap TVs &lpar;2025&rpar;: TCL, Hisense, and More](https://www.wired.com/gallery/best-cheap-tvs/)
- - [The Galaxy Z Fold 7 shows why the punch-hole camera is here to stay, and I’m not mad about it](https://www.androidauthority.com/galaxy-z-fold-7-punch-hole-selfie-3589395/)
- - [The Framework Desktop and Linux have shown me the path to PC gaming in the living room](https://www.theverge.com/games/761025/framework-desktop-bazzite-linux-steam-machine-pc-game-console-impressions)<!-- TECH:END -->
+ - [Docs: xAI terminated its status as a public benefit corporation as of May 9, 2024; XAI Holdings, which houses xAI and X, also doesn&#39;t have a PBC designation &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250825/p15#a250825p15)
+ - [Trump&amp;#8217;s immigration crackdown could be slowing the hunt for child predators online](https://www.theverge.com/policy/764602/online-child-exploitation-investigations-hsi-immigration)
+ - [Android phone cameras are in for a crazy upgrade](https://www.androidauthority.com/android-phone-external-camera-lens-3590824/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
