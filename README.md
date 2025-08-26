@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: xAI terminated its status as a public benefit corporation as of May 9, 2024; XAI Holdings, which houses xAI and X, also doesn&#39;t have a PBC designation &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250825/p15#a250825p15)
- - [Trump&amp;#8217;s immigration crackdown could be slowing the hunt for child predators online](https://www.theverge.com/policy/764602/online-child-exploitation-investigations-hsi-immigration)
- - [Android phone cameras are in for a crazy upgrade](https://www.androidauthority.com/android-phone-external-camera-lens-3590824/)<!-- TECH:END -->
+ - [Level Lock Pro review: The original invisible smart lock gets even better](https://appleinsider.com/articles/25/08/26/level-lock-pro-review-the-original-invisible-smart-lock-gets-even-better?utm_source=rss)
+ - [Logitech’s MX Master 4 leaks point to haptic feedback](https://www.theverge.com/news/765847/logitech-mx-master-4-leaks-haptic-feedback)
+ - [Exclusive: I put a leaked iPhone 17 Pro Max case on an iPhone 16 Pro Max](https://www.androidauthority.com/leaked-iphone-17-pro-max-case-3590938/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
