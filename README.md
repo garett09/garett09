@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Next Switch 2 Nintendo Direct Is Reportedly Coming Soon And Will Probably Be A Big One](https://kotaku.com/nintendo-direct-september-switch-2-mario-metroid-prime-4-date-2000619997)
- - [Story of Seasons: Grand Bazaar remake is at its best when it&#39;s about community](https://www.polygon.com/story-of-seasons-grand-bazaar-harvest-moon-community/)
- - [Star Trek: Strange New Worlds asks if Starfleet are colonizers](https://www.polygon.com/star-trek-strange-new-worlds-what-is-starfleet/)<!-- GAME:END -->
+ - [This 1TB SanDisk SSD Is Nearly Free, Amazon’s Going Crazy for Back to School](https://kotaku.com/this-1tb-sandisk-ssd-is-nearly-free-amazons-going-crazy-for-back-to-school-2000620332)
+ - [‘A succulent Silent Hill meal’: Silent Hill f devs admit ‘we’re going a little different’ but assure longtime fans that it stays true to the series they know and love](https://www.pcgamer.com/games/horror/a-succulent-silent-hill-meal-silent-hill-f-devs-admit-were-going-a-little-different-but-assure-longtime-fans-that-it-stays-true-to-the-series-they-know-and-love/)
+ - [Helldivers 2&#39;s upcoming patch will see you diving deep into Terminid nests where your stratagems won&#39;t save you—also, the bugs have dragons now](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-upcoming-patch-will-see-you-diving-deep-into-terminid-nests-where-your-stratagems-wont-save-you-also-the-bugs-have-dragons-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
