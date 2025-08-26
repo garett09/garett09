@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
- - 🚯 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
- - 🚯 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
+ - 🚖 [Sad music](http://9gag.com/gag/amod03X)
+ - 🚯 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 🚯 [Un recognize able](http://9gag.com/gag/aKGLg3W)<!-- MEMES:END -->
 
 --- 
 
