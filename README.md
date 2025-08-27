@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 1TB SanDisk SSD Is Nearly Free, Amazon’s Going Crazy for Back to School](https://kotaku.com/this-1tb-sandisk-ssd-is-nearly-free-amazons-going-crazy-for-back-to-school-2000620332)
- - [‘A succulent Silent Hill meal’: Silent Hill f devs admit ‘we’re going a little different’ but assure longtime fans that it stays true to the series they know and love](https://www.pcgamer.com/games/horror/a-succulent-silent-hill-meal-silent-hill-f-devs-admit-were-going-a-little-different-but-assure-longtime-fans-that-it-stays-true-to-the-series-they-know-and-love/)
- - [Helldivers 2&#39;s upcoming patch will see you diving deep into Terminid nests where your stratagems won&#39;t save you—also, the bugs have dragons now](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-upcoming-patch-will-see-you-diving-deep-into-terminid-nests-where-your-stratagems-wont-save-you-also-the-bugs-have-dragons-now/)<!-- GAME:END -->
+ - [No Man’s Sky Goes Full Star Trek Mode In Latest Massive Update](https://kotaku.com/no-mans-sky-voyagers-6-0-star-trek-mass-effect-2000620674)
+ - [The new Scott Pilgrim game reforms some ex-Evil Exes](https://www.polygon.com/scott-pilgrim-ex-characters-lucas-lee-roxie-richter/)
+ - [Sean Murray says the Earth-sized planet in Light No Fire will have &#39;real oceans&#39; that players will need &#39;large boats and crews&#39; to cross](https://www.pcgamer.com/games/survival-crafting/sean-murray-says-the-earth-sized-planet-in-light-no-fire-will-have-real-oceans-that-players-will-need-large-boats-and-crews-to-cross/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
