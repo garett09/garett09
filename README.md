@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Level Lock Pro review: The original invisible smart lock gets even better](https://appleinsider.com/articles/25/08/26/level-lock-pro-review-the-original-invisible-smart-lock-gets-even-better?utm_source=rss)
- - [Logitech’s MX Master 4 leaks point to haptic feedback](https://www.theverge.com/news/765847/logitech-mx-master-4-leaks-haptic-feedback)
- - [Exclusive: I put a leaked iPhone 17 Pro Max case on an iPhone 16 Pro Max](https://www.androidauthority.com/leaked-iphone-17-pro-max-case-3590938/)<!-- TECH:END -->
+ - [PopSocket PopCase Kindle Hands-On &lpar;2025&rpar;: Easy Reading](https://www.wired.com/story/popsocket-popcase-kindle-hands-on/)
+ - [Apple partners with TuneIn to make Apple Music&#39;s six radio stations available outside its app, a first, as it seeks to compete with Spotify; TuneIn has 75M MAUs &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p22#a250827p22)
+ - [Poll: Have you ever traveled with your portable projector?](https://www.androidauthority.com/traveled-with-portable-projector-poll-3591650/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
