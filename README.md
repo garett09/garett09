@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PopSocket PopCase Kindle Hands-On &lpar;2025&rpar;: Easy Reading](https://www.wired.com/story/popsocket-popcase-kindle-hands-on/)
- - [Apple partners with TuneIn to make Apple Music&#39;s six radio stations available outside its app, a first, as it seeks to compete with Spotify; TuneIn has 75M MAUs &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p22#a250827p22)
- - [Poll: Have you ever traveled with your portable projector?](https://www.androidauthority.com/traveled-with-portable-projector-poll-3591650/)<!-- TECH:END -->
+ - [M0, which develops stablecoin infrastructure to boost interoperability and liquidity, raised a $40M Series B led by Polychain and Ribbit Capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250828/p20#a250828p20)
+ - [Samsung S95F QD-OLED Review: The Best Looking TV Screen of 2025](https://www.wired.com/review/samsung-s95f/)
+ - [You’re wrong about the Pixel 10 Pro](https://www.androidauthority.com/google-pixel-10-pro-defense-3591951/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
