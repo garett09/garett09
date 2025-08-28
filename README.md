@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky Goes Full Star Trek Mode In Latest Massive Update](https://kotaku.com/no-mans-sky-voyagers-6-0-star-trek-mass-effect-2000620674)
- - [The new Scott Pilgrim game reforms some ex-Evil Exes](https://www.polygon.com/scott-pilgrim-ex-characters-lucas-lee-roxie-richter/)
- - [Sean Murray says the Earth-sized planet in Light No Fire will have &#39;real oceans&#39; that players will need &#39;large boats and crews&#39; to cross](https://www.pcgamer.com/games/survival-crafting/sean-murray-says-the-earth-sized-planet-in-light-no-fire-will-have-real-oceans-that-players-will-need-large-boats-and-crews-to-cross/)<!-- GAME:END -->
+ - [The New Asus RTX 5080 Crashes to a Record Low, Amazon Launches a Big Labor Day Clearout](https://kotaku.com/the-new-asus-rtx-5080-crashes-to-a-record-low-amazon-launches-a-big-labor-day-clearout-2000620931)
+ - [Epic&#39;s CEO Tim Sweeney wades in on the UE performance debate: &#39;The primary reason Unreal Engine 5-based games don&#39;t run smoothly on certain PCs or GPUs is the development process&#39;](https://www.pcgamer.com/hardware/epics-ceo-tim-sweeney-wades-in-on-the-ue-performance-debate-the-primary-reason-unreal-engine-5-based-games-dont-run-smoothly-on-certain-pcs-or-gpus-is-the-development-process/)
+ - [In the wake of shutting down a highly popular mod, Final Fantasy 14 director Yoshi-P shares deeply earnest blog about &#39;mods, their use, and the culture surrounding them&#39;](https://www.pcgamer.com/games/final-fantasy/in-the-wake-of-shutting-down-a-highly-popular-mod-final-fantasy-14-director-yoshi-p-shares-deeply-earnest-blog-about-mods-their-use-and-the-culture-surrounding-them/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
