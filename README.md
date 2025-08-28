@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 🚯 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
- - 🚯 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t bring this thing in your bed.](http://9gag.com/gag/aNDqn5G)
+ - 🚯 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
+ - 🚯 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
 
 --- 
 
