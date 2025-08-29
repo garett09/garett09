@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The New Asus RTX 5080 Crashes to a Record Low, Amazon Launches a Big Labor Day Clearout](https://kotaku.com/the-new-asus-rtx-5080-crashes-to-a-record-low-amazon-launches-a-big-labor-day-clearout-2000620931)
- - [Epic&#39;s CEO Tim Sweeney wades in on the UE performance debate: &#39;The primary reason Unreal Engine 5-based games don&#39;t run smoothly on certain PCs or GPUs is the development process&#39;](https://www.pcgamer.com/hardware/epics-ceo-tim-sweeney-wades-in-on-the-ue-performance-debate-the-primary-reason-unreal-engine-5-based-games-dont-run-smoothly-on-certain-pcs-or-gpus-is-the-development-process/)
- - [In the wake of shutting down a highly popular mod, Final Fantasy 14 director Yoshi-P shares deeply earnest blog about &#39;mods, their use, and the culture surrounding them&#39;](https://www.pcgamer.com/games/final-fantasy/in-the-wake-of-shutting-down-a-highly-popular-mod-final-fantasy-14-director-yoshi-p-shares-deeply-earnest-blog-about-mods-their-use-and-the-culture-surrounding-them/)<!-- GAME:END -->
+ - [Anker’s 25,000mAh Laptop Power Bank Drops Below Prime Day Pricing for Labor Day, Game Freely Without Outlets](https://kotaku.com/ankers-25000mah-laptop-power-bank-drops-below-prime-day-pricing-for-labor-day-game-freely-without-outlets-2000621092)
+ - [This half-forgotten Troma movie, streaming free online, crosses a rare line](https://www.polygon.com/tubi-horror-movies-beware-children-at-play-troma/)
+ - [Lost Soul Aside launches today with free playable demo](https://blog.playstation.com/2025/08/29/lost-soul-aside-launches-today-with-free-playable-demo/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
