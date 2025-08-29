@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M0, which develops stablecoin infrastructure to boost interoperability and liquidity, raised a $40M Series B led by Polychain and Ribbit Capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250828/p20#a250828p20)
- - [Samsung S95F QD-OLED Review: The Best Looking TV Screen of 2025](https://www.wired.com/review/samsung-s95f/)
- - [You’re wrong about the Pixel 10 Pro](https://www.androidauthority.com/google-pixel-10-pro-defense-3591951/)<!-- TECH:END -->
+ - [Acer just announced a Google TV box with all the ports you want](https://www.androidauthority.com/acer-google-tv-box-3592742/)
+ - [A judge rules Nvidia must face trial over allegations that it benefitted from autonomous driving data stolen by an engineer who defected from Valeo in 2021 &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250829/p11#a250829p11)
+ - [Insta360 Go Ultra Review: Better Video, but Bigger Package](https://www.wired.com/review/insta360-go-ultra/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
