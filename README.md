@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t bring this thing in your bed.](http://9gag.com/gag/aNDqn5G)
- - 🚯 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
- - 🚯 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
+ - 🚖 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
+ - 🚯 [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)
+ - 🚯 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)<!-- MEMES:END -->
 
 --- 
 
