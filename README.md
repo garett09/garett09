@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
- - 🚯 [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)
- - 🚯 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)<!-- MEMES:END -->
+ - 🚖 [It just keeps happening!](http://9gag.com/gag/aZZdg86)
+ - 🚯 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
+ - 🚯 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)<!-- MEMES:END -->
 
 --- 
 
