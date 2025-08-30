@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer just announced a Google TV box with all the ports you want](https://www.androidauthority.com/acer-google-tv-box-3592742/)
- - [A judge rules Nvidia must face trial over allegations that it benefitted from autonomous driving data stolen by an engineer who defected from Valeo in 2021 &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250829/p11#a250829p11)
- - [Insta360 Go Ultra Review: Better Video, but Bigger Package](https://www.wired.com/review/insta360-go-ultra/)<!-- TECH:END -->
+ - [Here We Go is the non-Google map app I didn’t know I needed](https://www.androidauthority.com/here-we-go-3587706/)
+ - [Discounty adds some bite to cozy life sims](https://www.theverge.com/games-review/768145/discounty-review-switch-ps5-xbox-steam)
+ - [Your Body Ages Faster Because of Extreme Heat](https://www.wired.com/story/your-body-ages-faster-because-of-extreme-heat/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
