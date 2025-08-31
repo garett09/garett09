@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here We Go is the non-Google map app I didn’t know I needed](https://www.androidauthority.com/here-we-go-3587706/)
- - [Discounty adds some bite to cozy life sims](https://www.theverge.com/games-review/768145/discounty-review-switch-ps5-xbox-steam)
- - [Your Body Ages Faster Because of Extreme Heat](https://www.wired.com/story/your-body-ages-faster-because-of-extreme-heat/)<!-- TECH:END -->
+ - [How to Clean a TV Screen or Computer Monitor](https://www.wired.com/story/how-to-clean-a-tv-screen/)
+ - [Google Pixel 10 tips and tricks: 10 ways to make your new Pixel better](https://www.androidauthority.com/google-pixel-10-tips-3591874/)
+ - [I tried gaming on the Pixel 10’s new GPU and… it’s fine](https://www.androidauthority.com/pixel-10-new-gpu-gaming-3591772/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
