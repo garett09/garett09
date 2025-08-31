@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It just keeps happening!](http://9gag.com/gag/aZZdg86)
- - 🚯 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 🚯 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)<!-- MEMES:END -->
+ - 🚖 [Spider blow](http://9gag.com/gag/a9yVKxj)
+ - 🚯 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
+ - 🚯 [Silicon Valley](http://9gag.com/gag/a9yVKDo)<!-- MEMES:END -->
 
 --- 
 
