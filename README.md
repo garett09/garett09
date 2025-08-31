@@ -121,7 +121,7 @@ while(dev.isCoding() && dev.isStuck())
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/garett09/java-exam-simulator/pull/6) in [garett09/java-exam-simulator](https://github.com/garett09/java-exam-simulator)
+1. 🎉 Merged PR [#1](https://github.com/garett09/Buni-Money-Tracker/pull/1) in [garett09/Buni-Money-Tracker](https://github.com/garett09/Buni-Money-Tracker)
 2. 💪 Opened PR [#5](https://github.com/garett09/java-exam-simulator/pull/5) in [garett09/java-exam-simulator](https://github.com/garett09/java-exam-simulator)
 3. 🎉 Merged PR [#9](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/9) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
 4. 💪 Opened PR [#9](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1/pull/9) in [rick-maniquiz/FECP-SpringBoot-Session1](https://github.com/rick-maniquiz/FECP-SpringBoot-Session1)
