@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker’s 25,000mAh Laptop Power Bank Drops Below Prime Day Pricing for Labor Day, Game Freely Without Outlets](https://kotaku.com/ankers-25000mah-laptop-power-bank-drops-below-prime-day-pricing-for-labor-day-game-freely-without-outlets-2000621092)
- - [This half-forgotten Troma movie, streaming free online, crosses a rare line](https://www.polygon.com/tubi-horror-movies-beware-children-at-play-troma/)
- - [Lost Soul Aside launches today with free playable demo](https://blog.playstation.com/2025/08/29/lost-soul-aside-launches-today-with-free-playable-demo/)<!-- GAME:END -->
+ - [ASUS TUF Gaming Motherboard Crashes to Lowest Price Yet for Labor Day, Already Flying Off Shelves](https://kotaku.com/asus-tuf-gaming-motherboard-crashes-to-lowest-price-yet-for-labor-day-already-flying-off-shelves-2000621393)
+ - [The 20 most anticipated anime shows and movies of fall 2025](https://www.polygon.com/anime-fall-season-2025-preview-most-anticipated/)
+ - [State of Play presents 007 First Light gameplay deep dive on September 3](https://blog.playstation.com/2025/09/01/state-of-play-presents-007-first-light-gameplay-deep-dive-on-september-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
