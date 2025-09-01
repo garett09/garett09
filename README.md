@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Clean a TV Screen or Computer Monitor](https://www.wired.com/story/how-to-clean-a-tv-screen/)
- - [Google Pixel 10 tips and tricks: 10 ways to make your new Pixel better](https://www.androidauthority.com/google-pixel-10-tips-3591874/)
- - [I tried gaming on the Pixel 10’s new GPU and… it’s fine](https://www.androidauthority.com/pixel-10-new-gpu-gaming-3591772/)<!-- TECH:END -->
+ - [Google Chrome’s new Material 3 Expressive design is rolling out, here’s what’s changed](https://www.androidauthority.com/chrome-stable-material-3-expressive-redesign-3593166/)
+ - [5 of the best new Android apps you need to try this September](https://www.androidauthority.com/best-new-android-apps-september-2025-3593157/)
+ - [Lenovo Legion Go 2 leak hints at promising upgrades with a hefty price bump](https://www.androidauthority.com/lenovo-legion-go-2-leaked-3593141/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
