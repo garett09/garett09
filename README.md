@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spider blow](http://9gag.com/gag/a9yVKxj)
- - 🚯 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
- - 🚯 [Silicon Valley](http://9gag.com/gag/a9yVKDo)<!-- MEMES:END -->
+ - 🚖 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
+ - 🚯 [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - 🚯 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)<!-- MEMES:END -->
 
 --- 
 
