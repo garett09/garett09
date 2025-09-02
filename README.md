@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
- - 🚯 [Apes together strong](http://9gag.com/gag/aMVWZXM)
- - 🚯 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)<!-- MEMES:END -->
+ - 🚖 [He thought he was tough](http://9gag.com/gag/aLnbpAz)
+ - 🚯 [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
+ - 🚯 [I hope lizard bro is ok](http://9gag.com/gag/azxBMYB)<!-- MEMES:END -->
 
 --- 
 
