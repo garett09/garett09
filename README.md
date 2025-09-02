@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome’s new Material 3 Expressive design is rolling out, here’s what’s changed](https://www.androidauthority.com/chrome-stable-material-3-expressive-redesign-3593166/)
- - [5 of the best new Android apps you need to try this September](https://www.androidauthority.com/best-new-android-apps-september-2025-3593157/)
- - [Lenovo Legion Go 2 leak hints at promising upgrades with a hefty price bump](https://www.androidauthority.com/lenovo-legion-go-2-leaked-3593141/)<!-- TECH:END -->
+ - [Varonis Systems agrees to acquire email security company SlashNext for up to $150M, including retention awards, after buying database company Cyral for ~$25M &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/250902/p16#a250902p16)
+ - [My favorite cooking gadget is getting a big upgrade](https://www.theverge.com/news/768614/thermomix-tm7-us-release-price-specs-launch-date)
+ - [TSMC says the US revoked its authorization to ship gear to its main Chinese chipmaking base in Nanjing, after the US revoked Samsung&#39;s and SK Hynix&#39;s waivers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250902/p15#a250902p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
