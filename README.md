@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Varonis Systems agrees to acquire email security company SlashNext for up to $150M, including retention awards, after buying database company Cyral for ~$25M &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/250902/p16#a250902p16)
- - [My favorite cooking gadget is getting a big upgrade](https://www.theverge.com/news/768614/thermomix-tm7-us-release-price-specs-launch-date)
- - [TSMC says the US revoked its authorization to ship gear to its main Chinese chipmaking base in Nanjing, after the US revoked Samsung&#39;s and SK Hynix&#39;s waivers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250902/p15#a250902p15)<!-- TECH:END -->
+ - [You.com, which pivoted from AI search to enterprise AI tools, raised $100M led by Cox Enterprises at a $1.5B valuation, after a $50M Series B in September 2024 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250903/p24#a250903p24)
+ - [Remarkable Paper Pro Move review: the new $449 digital notepad has a spacious 7.3&quot; color E Ink display and slim design, but it is not ideal for lengthy notes &lpar;Nena Farrell/Wired&rpar;](http://www.techmeme.com/250903/p23#a250903p23)
+ - [Garmin unveils the $1,200+ Fenix 8 Pro, including new satellite and cellular communications tools, and a $2,000 microLED version, both shipping September 8 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/250903/p22#a250903p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
