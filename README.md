@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He thought he was tough](http://9gag.com/gag/aLnbpAz)
- - 🚯 [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
- - 🚯 [I hope lizard bro is ok](http://9gag.com/gag/azxBMYB)<!-- MEMES:END -->
+ - 🚖 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 🚯 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 🚯 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
 
 --- 
 
