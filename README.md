@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ASUS TUF Gaming Motherboard Crashes to Lowest Price Yet for Labor Day, Already Flying Off Shelves](https://kotaku.com/asus-tuf-gaming-motherboard-crashes-to-lowest-price-yet-for-labor-day-already-flying-off-shelves-2000621393)
- - [The 20 most anticipated anime shows and movies of fall 2025](https://www.polygon.com/anime-fall-season-2025-preview-most-anticipated/)
- - [State of Play presents 007 First Light gameplay deep dive on September 3](https://blog.playstation.com/2025/09/01/state-of-play-presents-007-first-light-gameplay-deep-dive-on-september-3/)<!-- GAME:END -->
+ - [Nova Lake shipping manifest confirms rumours that Intel&#39;s flagship CPU will be packing up to 52 cores, but more cores aren&#39;t all Intel needs](https://www.pcgamer.com/hardware/processors/nova-lake-shipping-manifest-confirms-rumours-that-intels-flagship-cpu-will-be-packing-up-to-52-cores-but-more-cores-arent-all-intel-needs/)
+ - [Wyrmspan: Dragon Academy expansion lets you train baby dragons](https://www.polygon.com/wyrmspan-dragon-academy-wingspan-finspan/)
+ - [Sony Might Be Making One Of Its PlayStation 5s Worse](https://kotaku.com/sony-playstation-5-digital-slim-storage-price-2000622679)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
