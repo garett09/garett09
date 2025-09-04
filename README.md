@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nova Lake shipping manifest confirms rumours that Intel&#39;s flagship CPU will be packing up to 52 cores, but more cores aren&#39;t all Intel needs](https://www.pcgamer.com/hardware/processors/nova-lake-shipping-manifest-confirms-rumours-that-intels-flagship-cpu-will-be-packing-up-to-52-cores-but-more-cores-arent-all-intel-needs/)
- - [Wyrmspan: Dragon Academy expansion lets you train baby dragons](https://www.polygon.com/wyrmspan-dragon-academy-wingspan-finspan/)
- - [Sony Might Be Making One Of Its PlayStation 5s Worse](https://kotaku.com/sony-playstation-5-digital-slim-storage-price-2000622679)<!-- GAME:END -->
+ - [2 of Deadlock&#39;s 6 new heroes are running over low-skill matches—I&#39;d know, because they&#39;ve been stomping me flat into the sidewalk like a chump](https://www.pcgamer.com/games/moba/2-of-deadlocks-6-new-heroes-are-running-over-low-skill-matches-id-know-because-theyve-been-stomping-me-flat-into-the-sidewalk-like-a-chump/)
+ - [Sulfur demo out today on PS5](https://blog.playstation.com/2025/09/04/sulfur-demo-out-today-on-ps5/)
+ - [Alien: Earth creator Noah Hawley reveals the secrets behind episode 5&#39;s explosive story](https://www.polygon.com/alien-earth-episode-5-noah-hawley-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
