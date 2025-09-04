@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You.com, which pivoted from AI search to enterprise AI tools, raised $100M led by Cox Enterprises at a $1.5B valuation, after a $50M Series B in September 2024 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250903/p24#a250903p24)
- - [Remarkable Paper Pro Move review: the new $449 digital notepad has a spacious 7.3&quot; color E Ink display and slim design, but it is not ideal for lengthy notes &lpar;Nena Farrell/Wired&rpar;](http://www.techmeme.com/250903/p23#a250903p23)
- - [Garmin unveils the $1,200+ Fenix 8 Pro, including new satellite and cellular communications tools, and a $2,000 microLED version, both shipping September 8 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/250903/p22#a250903p22)<!-- TECH:END -->
+ - [Samsung Galaxy S26 dummies tease a long-awaited charging feature](https://www.androidauthority.com/samsung-galaxy-s26-dummies-3594546/)
+ - [Adobe brings Premiere video editing to the iPhone](https://appleinsider.com/articles/25/09/04/adobe-brings-premiere-video-editing-to-the-iphone?utm_source=rss)
+ - [How to Prevent Tech Neck and Sit Properly With Your Laptop &lpar;2025&rpar;](https://www.wired.com/story/ergonomic-experts-convinced-me-ive-been-using-laptops-all-wrong/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
