@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 🚯 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - 🚯 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
+ - 🚖 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
+ - 🚯 [Surstr\u00f6mming prank](http://9gag.com/gag/abAdg0L)
+ - 🚯 [She has got to be dreaming..](http://9gag.com/gag/a87n7XQ)<!-- MEMES:END -->
 
 --- 
 
