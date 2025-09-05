@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - 🚯 [Surstr\u00f6mming prank](http://9gag.com/gag/abAdg0L)
- - 🚯 [She has got to be dreaming..](http://9gag.com/gag/a87n7XQ)<!-- MEMES:END -->
+ - 🚖 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 🚯 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 🚯 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)<!-- MEMES:END -->
 
 --- 
 
