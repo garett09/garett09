@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S26 dummies tease a long-awaited charging feature](https://www.androidauthority.com/samsung-galaxy-s26-dummies-3594546/)
- - [Adobe brings Premiere video editing to the iPhone](https://appleinsider.com/articles/25/09/04/adobe-brings-premiere-video-editing-to-the-iphone?utm_source=rss)
- - [How to Prevent Tech Neck and Sit Properly With Your Laptop &lpar;2025&rpar;](https://www.wired.com/story/ergonomic-experts-convinced-me-ive-been-using-laptops-all-wrong/)<!-- TECH:END -->
+ - [iPhone 17 event, Google deal, and Apple Vision Sunglasses on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/05/iphone-17-event-google-deal-and-apple-vision-sunglasses-on-the-appleinsider-podcast?utm_source=rss)
+ - [Love the Pixel 10? You can now wear it on your sleeve, almost literally](https://www.androidauthority.com/google-pixel-10-merchandise-3595177/)
+ - [IFA 2025: the biggest tech and gadget announcements](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
