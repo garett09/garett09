@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 event, Google deal, and Apple Vision Sunglasses on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/05/iphone-17-event-google-deal-and-apple-vision-sunglasses-on-the-appleinsider-podcast?utm_source=rss)
- - [Love the Pixel 10? You can now wear it on your sleeve, almost literally](https://www.androidauthority.com/google-pixel-10-merchandise-3595177/)
- - [IFA 2025: the biggest tech and gadget announcements](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)<!-- TECH:END -->
+ - [I’ve been self-hosting my apps since 2009; here’s why you should &lpar;or shouldn’t&rpar; do it too](https://www.androidauthority.com/self-hosting-pros-and-cons-3590831/)
+ - [The Best Pixel 10 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
+ - [Herdling is a serene and adorable way to unwind](https://www.theverge.com/games-review/764810/herdling-panic-review-pc-switch-playstation-xbox)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
