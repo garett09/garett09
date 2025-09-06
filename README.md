@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old joke.](http://9gag.com/gag/an7dO0z)
- - 🚯 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 🚯 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)<!-- MEMES:END -->
+ - 🚖 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)
+ - 🚯 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
+ - 🚯 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)<!-- MEMES:END -->
 
 --- 
 
