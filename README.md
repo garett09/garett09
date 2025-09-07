@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)
- - 🚯 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
- - 🚯 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)<!-- MEMES:END -->
+ - 🚖 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
+ - 🚯 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
+ - 🚯 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
 
 --- 
 
