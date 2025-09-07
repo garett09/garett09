@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2 of Deadlock&#39;s 6 new heroes are running over low-skill matches—I&#39;d know, because they&#39;ve been stomping me flat into the sidewalk like a chump](https://www.pcgamer.com/games/moba/2-of-deadlocks-6-new-heroes-are-running-over-low-skill-matches-id-know-because-theyve-been-stomping-me-flat-into-the-sidewalk-like-a-chump/)
- - [Sulfur demo out today on PS5](https://blog.playstation.com/2025/09/04/sulfur-demo-out-today-on-ps5/)
- - [Alien: Earth creator Noah Hawley reveals the secrets behind episode 5&#39;s explosive story](https://www.polygon.com/alien-earth-episode-5-noah-hawley-interview/)<!-- GAME:END -->
+ - [EA Sports conceding college basketball to 2K ensures players lose](https://www.polygon.com/ea-sports-2k-college-basketball-competition/)
+ - [Star Trucker celebrates a year of space haulage with an anniversary update and a half-price discount](https://www.pcgamer.com/games/sim/star-trucker-celebrates-a-year-of-space-haulage-with-an-anniversary-update-and-a-half-price-discount/)
+ - [Bennett Foddy&#39;s Baby Steps started as &quot;QWOP but good&quot;](https://www.polygon.com/bennett-foddy-baby-steps-interview-video/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
