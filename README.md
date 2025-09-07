@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve been self-hosting my apps since 2009; here’s why you should &lpar;or shouldn’t&rpar; do it too](https://www.androidauthority.com/self-hosting-pros-and-cons-3590831/)
- - [The Best Pixel 10 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
- - [Herdling is a serene and adorable way to unwind](https://www.theverge.com/games-review/764810/herdling-panic-review-pc-switch-playstation-xbox)<!-- TECH:END -->
+ - [I only give my real number to people, not companies](https://www.androidauthority.com/phone-spam-dual-sim-3591422/)
+ - [Wake Up Dead Man adds a delightfully dark twist to Knives Out](https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review)
+ - [China may get censored Apple Intelligence by end of 2025](https://appleinsider.com/articles/25/09/07/china-may-get-censored-apple-intelligence-by-end-of-2025?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
