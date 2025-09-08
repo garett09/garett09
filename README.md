@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports conceding college basketball to 2K ensures players lose](https://www.polygon.com/ea-sports-2k-college-basketball-competition/)
- - [Star Trucker celebrates a year of space haulage with an anniversary update and a half-price discount](https://www.pcgamer.com/games/sim/star-trucker-celebrates-a-year-of-space-haulage-with-an-anniversary-update-and-a-half-price-discount/)
- - [Bennett Foddy&#39;s Baby Steps started as &quot;QWOP but good&quot;](https://www.polygon.com/bennett-foddy-baby-steps-interview-video/)<!-- GAME:END -->
+ - [Deus Ex Writer Says The Fact Elon Musk Loves It Is Its ‘Worst Legacy’](https://kotaku.com/elon-musk-favorite-game-deus-ex-conspiracy-2000624003)
+ - [Seagate 2TB Expansion Card for Xbox Hits Record Low, Amazon Cuts Final Stock by 40%](https://kotaku.com/seagate-2tb-expansion-card-for-xbox-hits-record-low-amazon-cuts-final-stock-by-40-2000623994)
+ - [Roku Clears Out Its Streaming Stick Plus 2025 at Nearly Free, While Amazon Fire TV Stick Stays Full Price](https://kotaku.com/roku-clears-out-its-streaming-stick-plus-2025-at-nearly-free-while-amazon-fire-tv-stick-stays-full-price-2000623465)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
