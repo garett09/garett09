@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 🚯 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 🚯 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
+ - 🚖 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
+ - 🚯 [Eat me](http://9gag.com/gag/adBdnx9)
+ - 🚯 [Based](http://9gag.com/gag/a6Zx5ZA)<!-- MEMES:END -->
 
 --- 
 
