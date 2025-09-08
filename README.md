@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I only give my real number to people, not companies](https://www.androidauthority.com/phone-spam-dual-sim-3591422/)
- - [Wake Up Dead Man adds a delightfully dark twist to Knives Out](https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review)
- - [China may get censored Apple Intelligence by end of 2025](https://appleinsider.com/articles/25/09/07/china-may-get-censored-apple-intelligence-by-end-of-2025?utm_source=rss)<!-- TECH:END -->
+ - [Crypto asset manager CoinShares agrees to go public via SPAC Vine Hill at a $1.2B pre-money valuation, set to close by the end of Q4; CoinShares has ~$10B AUM &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250908/p17#a250908p17)
+ - [Ticketing platform StubHub plans to sell ~34M shares at $22 to $25 in its IPO, valuing it at up to $9.2B and raising up to $851M, after delaying an IPO in April &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p16#a250908p16)
+ - [Why Your Office Chair Should Have Lumbar Support](https://www.wired.com/story/does-your-office-chair-need-lumbar-support/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
