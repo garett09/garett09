@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deus Ex Writer Says The Fact Elon Musk Loves It Is Its ‘Worst Legacy’](https://kotaku.com/elon-musk-favorite-game-deus-ex-conspiracy-2000624003)
- - [Seagate 2TB Expansion Card for Xbox Hits Record Low, Amazon Cuts Final Stock by 40%](https://kotaku.com/seagate-2tb-expansion-card-for-xbox-hits-record-low-amazon-cuts-final-stock-by-40-2000623994)
- - [Roku Clears Out Its Streaming Stick Plus 2025 at Nearly Free, While Amazon Fire TV Stick Stays Full Price](https://kotaku.com/roku-clears-out-its-streaming-stick-plus-2025-at-nearly-free-while-amazon-fire-tv-stick-stays-full-price-2000623465)<!-- GAME:END -->
+ - [Take-Two tries to hide GTA 6 websites behind its back after fans uncover them, achieving nothing but fuelling the fire](https://www.pcgamer.com/games/grand-theft-auto/take-two-tries-to-hide-gta-6-websites-behind-its-back-after-fans-uncover-them-achieving-nothing-but-fuelling-the-fire/)
+ - [Switch 2 Accessory Maker Reaches ‘Confidential Settlement’ With Nintendo Over Infamous Leaks](https://kotaku.com/switch-2-accessory-genki-lawsuit-nintendo-ces-leak-2000624432)
+ - [2025 is the best year for 2D platformers since the SNES days](https://www.polygon.com/2025-best-year-2d-platformers-silksong-shinobi-ninja-gaiden/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
