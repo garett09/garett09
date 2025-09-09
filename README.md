@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto asset manager CoinShares agrees to go public via SPAC Vine Hill at a $1.2B pre-money valuation, set to close by the end of Q4; CoinShares has ~$10B AUM &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250908/p17#a250908p17)
- - [Ticketing platform StubHub plans to sell ~34M shares at $22 to $25 in its IPO, valuing it at up to $9.2B and raising up to $851M, after delaying an IPO in April &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p16#a250908p16)
- - [Why Your Office Chair Should Have Lumbar Support](https://www.wired.com/story/does-your-office-chair-need-lumbar-support/)<!-- TECH:END -->
+ - [This Atari handheld with retro controls is finally available for preorder](https://www.theverge.com/news/774305/atari-gamestation-go-retro-handheld-trackball-paddle)
+ - [The 15 Best Fans to Cool You Year Round &lpar;2025&rpar;](https://www.wired.com/gallery/best-fans/)
+ - [Canon is bringing back a point-and-shoot from 2016 with fewer features and a higher price &lpar;it’s viral&rpar;](https://www.theverge.com/news/774095/canon-powershot-elph-360-hsa-kendall-jenner-reissue-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
