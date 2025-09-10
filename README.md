@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Atari handheld with retro controls is finally available for preorder](https://www.theverge.com/news/774305/atari-gamestation-go-retro-handheld-trackball-paddle)
- - [The 15 Best Fans to Cool You Year Round &lpar;2025&rpar;](https://www.wired.com/gallery/best-fans/)
- - [Canon is bringing back a point-and-shoot from 2016 with fewer features and a higher price &lpar;it’s viral&rpar;](https://www.theverge.com/news/774095/canon-powershot-elph-360-hsa-kendall-jenner-reissue-price-specs)<!-- TECH:END -->
+ - [Bending Spoons agrees to acquire video platform Vimeo in an all-cash deal valued at ~$1.38B, set to close in Q4; Vimeo will be delisted from exchanges &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/250910/p30#a250910p30)
+ - [Sources: Amazon is developing consumer AR glasses codenamed Jayhawk with microphones, speakers, a camera, and color display, set for late 2026 or early 2027 &lpar;The Information&rpar;](http://www.techmeme.com/250910/p29#a250910p29)
+ - [Reddit, Yahoo, Medium, Quora, People, O&#39;Reilly, wikiHow, Ziff Davis, and others adopt the Really Simple Licensing &lpar;RSL&rpar; Standard to set terms for AI scraping &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250910/p28#a250910p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
