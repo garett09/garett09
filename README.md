@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two tries to hide GTA 6 websites behind its back after fans uncover them, achieving nothing but fuelling the fire](https://www.pcgamer.com/games/grand-theft-auto/take-two-tries-to-hide-gta-6-websites-behind-its-back-after-fans-uncover-them-achieving-nothing-but-fuelling-the-fire/)
- - [Switch 2 Accessory Maker Reaches ‘Confidential Settlement’ With Nintendo Over Infamous Leaks](https://kotaku.com/switch-2-accessory-genki-lawsuit-nintendo-ces-leak-2000624432)
- - [2025 is the best year for 2D platformers since the SNES days](https://www.polygon.com/2025-best-year-2d-platformers-silksong-shinobi-ninja-gaiden/)<!-- GAME:END -->
+ - [SanDisk 1TB Portable SSD Is Back at Labor Day Pricing as Amazon Clears Out Best-Seller Shelves](https://kotaku.com/sandisk-1tb-portable-ssd-is-back-at-labor-day-pricing-as-amazon-clears-out-best-seller-shelves-2000624521)
+ - [Nintendo Direct Confirmed For September 12](https://kotaku.com/nintendo-direct-september-12-mario-metroid-prime-4-2000624629)
+ - [Elden Ring Nightreign Gets Major Changes Ahead Of New Ultra Hard End Game Mode](https://kotaku.com/elden-ring-nightreign-patch-notes-libra-nerf-deep-night-2000624624)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
