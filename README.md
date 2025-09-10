@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oi! Do you have a Muppet license for that!](http://9gag.com/gag/a0ex1Dz)
- - 🚯 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
- - 🚯 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)<!-- MEMES:END -->
+ - 🚖 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 🚯 [Girls be Like](http://9gag.com/gag/awy8dND)
+ - 🚯 [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)<!-- MEMES:END -->
 
 --- 
 
