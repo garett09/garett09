@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bending Spoons agrees to acquire video platform Vimeo in an all-cash deal valued at ~$1.38B, set to close in Q4; Vimeo will be delisted from exchanges &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/250910/p30#a250910p30)
- - [Sources: Amazon is developing consumer AR glasses codenamed Jayhawk with microphones, speakers, a camera, and color display, set for late 2026 or early 2027 &lpar;The Information&rpar;](http://www.techmeme.com/250910/p29#a250910p29)
- - [Reddit, Yahoo, Medium, Quora, People, O&#39;Reilly, wikiHow, Ziff Davis, and others adopt the Really Simple Licensing &lpar;RSL&rpar; Standard to set terms for AI scraping &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250910/p28#a250910p28)<!-- TECH:END -->
+ - [All-Clad Gas Pizza Oven Review &lpar;2025&rpar;: A Pie That Rotates Itself](https://www.wired.com/review/all-clad-gas-pizza-oven/)
+ - [The 7 Best WIRED-Tested Handheld Vacuums &lpar;2025&rpar;](https://www.wired.com/gallery/best-handheld-vacuum/)
+ - [Forget the new AirPods Pro 3, I’d stick with your smartwatch for heart rate tracking](https://www.androidauthority.com/stick-with-smartwaches-for-workout-tracking-3596752/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
