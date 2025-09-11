@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
- - 🚯 [Girls be Like](http://9gag.com/gag/awy8dND)
- - 🚯 [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)<!-- MEMES:END -->
+ - 🚖 [For a seond he was like:`Aw s*ieeeeet!11`](http://9gag.com/gag/aE0QEO9)
+ - 🚯 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
+ - 🚯 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
 
 --- 
 
