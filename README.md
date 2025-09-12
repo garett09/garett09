@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SanDisk 1TB Portable SSD Is Back at Labor Day Pricing as Amazon Clears Out Best-Seller Shelves](https://kotaku.com/sandisk-1tb-portable-ssd-is-back-at-labor-day-pricing-as-amazon-clears-out-best-seller-shelves-2000624521)
- - [Nintendo Direct Confirmed For September 12](https://kotaku.com/nintendo-direct-september-12-mario-metroid-prime-4-2000624629)
- - [Elden Ring Nightreign Gets Major Changes Ahead Of New Ultra Hard End Game Mode](https://kotaku.com/elden-ring-nightreign-patch-notes-libra-nerf-deep-night-2000624624)<!-- GAME:END -->
+ - [Mario Movie 2 trailer reveals it&#39;s called The Super Mario Galaxy Movie](https://www.polygon.com/super-mario-movie-2-galaxy-announced/)
+ - [When will The Conjuring: Last Rites be available on streaming?](https://www.polygon.com/the-conjuring-last-rites-streaming-release-date-hbo-max/)
+ - [Super Mario Galaxy 2 Is No Longer Trapped On Wii](https://kotaku.com/super-mario-galaxy-2-switch-remaster-release-date-2000625275)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
