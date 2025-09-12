@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For a seond he was like:`Aw s*ieeeeet!11`](http://9gag.com/gag/aE0QEO9)
- - 🚯 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
- - 🚯 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 🚖 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
+ - 🚯 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)
+ - 🚯 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
 
 --- 
 
