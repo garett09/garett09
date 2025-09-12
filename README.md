@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All-Clad Gas Pizza Oven Review &lpar;2025&rpar;: A Pie That Rotates Itself](https://www.wired.com/review/all-clad-gas-pizza-oven/)
- - [The 7 Best WIRED-Tested Handheld Vacuums &lpar;2025&rpar;](https://www.wired.com/gallery/best-handheld-vacuum/)
- - [Forget the new AirPods Pro 3, I’d stick with your smartwatch for heart rate tracking](https://www.androidauthority.com/stick-with-smartwaches-for-workout-tracking-3596752/)<!-- TECH:END -->
+ - [Mario’s going to space in The Super Mario Galaxy Movie trailer](https://www.theverge.com/news/777071/super-mario-bros-movie-sequel-nintendo-direct-september-2025)
+ - [Google Photos could finally fix its annoying search limitation on shared photos &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-search-shared-photos-apk-teardown-3597268/)
+ - [Powerbeats Pro 2 will get AirPods Pro 3-like fitness features with iOS 26](https://appleinsider.com/articles/25/09/12/powerbeats-pro-2-will-get-airpods-pro-3-like-fitness-features-with-ios-26?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
