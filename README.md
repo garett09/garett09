@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - 🚯 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)
- - 🚯 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
+ - 🚖 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
+ - 🚯 [Very accurate](http://9gag.com/gag/aW4dNVq)
+ - 🚯 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)<!-- MEMES:END -->
 
 --- 
 
