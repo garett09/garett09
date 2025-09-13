@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mario’s going to space in The Super Mario Galaxy Movie trailer](https://www.theverge.com/news/777071/super-mario-bros-movie-sequel-nintendo-direct-september-2025)
- - [Google Photos could finally fix its annoying search limitation on shared photos &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-search-shared-photos-apk-teardown-3597268/)
- - [Powerbeats Pro 2 will get AirPods Pro 3-like fitness features with iOS 26](https://appleinsider.com/articles/25/09/12/powerbeats-pro-2-will-get-airpods-pro-3-like-fitness-features-with-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [I can’t wait for Samsung and Google to copy this revolutionary iPhone 17 feature](https://www.androidauthority.com/samsung-google-copy-256gb-storage-iphone-17-3597056/)
+ - [Exit 8’s director was inspired by watching people play the game](https://www.theverge.com/interview/777509/exit-8-director-interview)
+ - [Cook talks iPhone Air battery, glass investment in Corning factory visit](https://appleinsider.com/articles/25/09/13/cook-talks-iphone-air-battery-glass-investment-in-corning-factory-visit?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
