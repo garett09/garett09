@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Movie 2 trailer reveals it&#39;s called The Super Mario Galaxy Movie](https://www.polygon.com/super-mario-movie-2-galaxy-announced/)
- - [When will The Conjuring: Last Rites be available on streaming?](https://www.polygon.com/the-conjuring-last-rites-streaming-release-date-hbo-max/)
- - [Super Mario Galaxy 2 Is No Longer Trapped On Wii](https://kotaku.com/super-mario-galaxy-2-switch-remaster-release-date-2000625275)<!-- GAME:END -->
+ - [The Nintendo Switch 2&#39;s year-one game lineup keeps getting stranger](https://www.polygon.com/nintendo-switch-2-year-one-game-lineup-weird/)
+ - [If you were hoping to see Sly Cooper on PC for some reason, think again: Ghost of Yōtei dev says &#39;it&#39;s been a long time&#39; since the series&#39; heyday and nobody at Sucker Punch wants to make those games anymore](https://www.pcgamer.com/games/action/if-you-were-hoping-to-see-sly-cooper-on-pc-for-some-reason-think-again-ghost-of-yotei-dev-says-its-been-a-long-time-since-the-series-heyday-and-nobody-at-sucker-punch-wants-to-make-those-games-anymore/)
+ - [Star Trek: Strange New Worlds season 3 let its characters down](https://www.polygon.com/star-trek-strange-new-worlds-season-3-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
