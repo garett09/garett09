@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
- - 🚯 [Very accurate](http://9gag.com/gag/aW4dNVq)
- - 🚯 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)<!-- MEMES:END -->
+ - 🚖 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)
+ - 🚯 [They age diffently than men.....](http://9gag.com/gag/aLnb30z)
+ - 🚯 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)<!-- MEMES:END -->
 
 --- 
 
