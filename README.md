@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I can’t wait for Samsung and Google to copy this revolutionary iPhone 17 feature](https://www.androidauthority.com/samsung-google-copy-256gb-storage-iphone-17-3597056/)
- - [Exit 8’s director was inspired by watching people play the game](https://www.theverge.com/interview/777509/exit-8-director-interview)
- - [Cook talks iPhone Air battery, glass investment in Corning factory visit](https://appleinsider.com/articles/25/09/13/cook-talks-iphone-air-battery-glass-investment-in-corning-factory-visit?utm_source=rss)<!-- TECH:END -->
+ - [YouTube Premium’s main shortcoming is stopping me from subscribing](https://www.androidauthority.com/youtube-premium-plans-problem-3596938/)
+ - [Hypershell Pro X Series Review: An Exoskeleton You Can Actually Buy](https://www.wired.com/review/hypershell-pro-x-series-review/)
+ - [In Silksong, spite is my motivation to keep playing](https://www.theverge.com/games/777653/silksong-impressions-team-cherry-metroidvania-sherma-is-cool)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
