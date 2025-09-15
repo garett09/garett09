@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)
- - 🚯 [They age diffently than men.....](http://9gag.com/gag/aLnb30z)
- - 🚯 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)<!-- MEMES:END -->
+ - 🚖 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 🚯 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 🚯 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
 
 --- 
 
