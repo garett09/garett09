@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Premium’s main shortcoming is stopping me from subscribing](https://www.androidauthority.com/youtube-premium-plans-problem-3596938/)
- - [Hypershell Pro X Series Review: An Exoskeleton You Can Actually Buy](https://www.wired.com/review/hypershell-pro-x-series-review/)
- - [In Silksong, spite is my motivation to keep playing](https://www.theverge.com/games/777653/silksong-impressions-team-cherry-metroidvania-sherma-is-cool)<!-- TECH:END -->
+ - [Samsung’s latest Good Lock module could supercharge the Gallery app](https://www.androidauthority.com/samsung-gallery-assistant-beta-3597712/)
+ - [Samsung shares One UI 8 stable release timeline, and it’s not the best news for older phones](https://www.androidauthority.com/samsung-one-ui-8-official-rollout-schedule-3597716/)
+ - [iPhone 17 event recap, Owlet Dream Sight, and more on HomeKit Insider](https://appleinsider.com/articles/25/09/15/iphone-17-event-recap-owlet-dream-sight-and-more-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
