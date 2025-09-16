@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 🚯 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 🚯 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
+ - 🚖 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - 🚯 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
+ - 🚯 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
 
 --- 
 
