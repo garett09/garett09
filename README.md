@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest Good Lock module could supercharge the Gallery app](https://www.androidauthority.com/samsung-gallery-assistant-beta-3597712/)
- - [Samsung shares One UI 8 stable release timeline, and it’s not the best news for older phones](https://www.androidauthority.com/samsung-one-ui-8-official-rollout-schedule-3597716/)
- - [iPhone 17 event recap, Owlet Dream Sight, and more on HomeKit Insider](https://appleinsider.com/articles/25/09/15/iphone-17-event-recap-owlet-dream-sight-and-more-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
+ - [Tech executives say the Trump administration&#39;s stake in Intel and its intervention into other private businesses have had a chilling effect on decision-making &lpar;Yasmin Khorram/Politico&rpar;](http://www.techmeme.com/250916/p17#a250916p17)
+ - [Apple Watch Series 11 review roundup: Battery life is the biggest benefit](https://appleinsider.com/articles/25/09/16/apple-watch-series-11-review-roundup-battery-life-is-the-biggest-benefit?utm_source=rss)
+ - [The Best Ventless Fireplaces for Cozy Vibes &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-ventless-fireplaces/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
