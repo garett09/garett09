@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nintendo Switch 2&#39;s year-one game lineup keeps getting stranger](https://www.polygon.com/nintendo-switch-2-year-one-game-lineup-weird/)
- - [If you were hoping to see Sly Cooper on PC for some reason, think again: Ghost of Yōtei dev says &#39;it&#39;s been a long time&#39; since the series&#39; heyday and nobody at Sucker Punch wants to make those games anymore](https://www.pcgamer.com/games/action/if-you-were-hoping-to-see-sly-cooper-on-pc-for-some-reason-think-again-ghost-of-yotei-dev-says-its-been-a-long-time-since-the-series-heyday-and-nobody-at-sucker-punch-wants-to-make-those-games-anymore/)
- - [Star Trek: Strange New Worlds season 3 let its characters down](https://www.polygon.com/star-trek-strange-new-worlds-season-3-review/)<!-- GAME:END -->
+ - [MTG new Secret Lair reprints 4 Commander staples with incredible new Play-Doh art](https://www.polygon.com/mtg-secret-lair-extra-life-play-doh-cards-magic-the-gathering/)
+ - [Gearbox breaks out some free loot because Borderlands players have already looted over 750 million items, half a million of which were from trash cans](https://www.pcgamer.com/games/fps/gearbox-breaks-out-some-free-loot-because-borderlands-players-have-already-looted-over-750-million-items-half-a-million-of-which-were-from-trash-cans/)
+ - [Apple Seems to Be Clearing Out the 2025 M4 MacBook Air at an All-Time Low Before Amazon Prime Big Deal Days](https://kotaku.com/apple-seems-to-be-clearing-out-the-2025-m4-macbook-air-at-an-all-time-low-before-amazon-prime-big-deal-days-2000626103)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
