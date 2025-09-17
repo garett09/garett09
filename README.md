@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech executives say the Trump administration&#39;s stake in Intel and its intervention into other private businesses have had a chilling effect on decision-making &lpar;Yasmin Khorram/Politico&rpar;](http://www.techmeme.com/250916/p17#a250916p17)
- - [Apple Watch Series 11 review roundup: Battery life is the biggest benefit](https://appleinsider.com/articles/25/09/16/apple-watch-series-11-review-roundup-battery-life-is-the-biggest-benefit?utm_source=rss)
- - [The Best Ventless Fireplaces for Cozy Vibes &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-ventless-fireplaces/)<!-- TECH:END -->
+ - [iPhone 17 Pro &amp; iPhone 17 Pro Max review roundup -- fast, excellent, and orange](https://appleinsider.com/articles/25/09/17/iphone-17-pro-iphone-17-pro-max-review-roundup----fast-excellent-and-orange?utm_source=rss)
+ - [Samsung HW-Q990F Soundbar System Review: Glorious Atmos](https://www.wired.com/review/samsung-hw-q990f/)
+ - [iPhone 17 review roundup -- the best iPhone for almost everyone](https://appleinsider.com/articles/25/09/17/iphone-17-review-roundup----the-best-iphone-for-almost-everyone?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
