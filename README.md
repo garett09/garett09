@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
- - 🚯 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
- - 🚯 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
+ - 🚖 [Dog leads officer to his leash before being led out the door. DOG: `mom said I can&#39;t go anywhere without it`](http://9gag.com/gag/aGyomqX)
+ - 🚯 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
+ - 🚯 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)<!-- MEMES:END -->
 
 --- 
 
