@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro &amp; iPhone 17 Pro Max review roundup -- fast, excellent, and orange](https://appleinsider.com/articles/25/09/17/iphone-17-pro-iphone-17-pro-max-review-roundup----fast-excellent-and-orange?utm_source=rss)
- - [Samsung HW-Q990F Soundbar System Review: Glorious Atmos](https://www.wired.com/review/samsung-hw-q990f/)
- - [iPhone 17 review roundup -- the best iPhone for almost everyone](https://appleinsider.com/articles/25/09/17/iphone-17-review-roundup----the-best-iphone-for-almost-everyone?utm_source=rss)<!-- TECH:END -->
+ - [Inside Apple&#39;s obsessive quest to make earbuds feel like a concert](https://appleinsider.com/articles/25/09/18/inside-apples-obsessive-quest-to-make-earbuds-feel-like-a-concert?utm_source=rss)
+ - [In a peer-reviewed Nature article, DeepSeek says it has spent $294,000 on training its R1 model and used 512 Nvidia H800 chips &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250918/p19#a250918p19)
+ - [Auk Mini Review: Start Your Own Seeds, Scandinavian Style](https://www.wired.com/review/auk-mini/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
