@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple&#39;s obsessive quest to make earbuds feel like a concert](https://appleinsider.com/articles/25/09/18/inside-apples-obsessive-quest-to-make-earbuds-feel-like-a-concert?utm_source=rss)
- - [In a peer-reviewed Nature article, DeepSeek says it has spent $294,000 on training its R1 model and used 512 Nvidia H800 chips &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250918/p19#a250918p19)
- - [Auk Mini Review: Start Your Own Seeds, Scandinavian Style](https://www.wired.com/review/auk-mini/)<!-- TECH:END -->
+ - [Nothing teases the first headphones from its budget CMF brand](https://www.theverge.com/news/781763/nothing-cmf-headphone-pro-wireless)
+ - [Mastodon, the nonprofit behind the social network, plans to offer paid hosting, moderation, and support services for organizations joining the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250919/p6#a250919p6)
+ - [This RPG series does everything wrong, and it’s working](https://www.theverge.com/games/781492/trails-in-the-sky-1st-chapter-switch-ps5-steam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
