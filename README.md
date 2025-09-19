@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dog leads officer to his leash before being led out the door. DOG: `mom said I can&#39;t go anywhere without it`](http://9gag.com/gag/aGyomqX)
- - 🚯 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
- - 🚯 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)<!-- MEMES:END -->
+ - 🚖 [Triple wielding](http://9gag.com/gag/a9yV9Q0)
+ - 🚯 [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)
+ - 🚯 [Never relax](http://9gag.com/gag/awy8Rn4)<!-- MEMES:END -->
 
 --- 
 
