@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing teases the first headphones from its budget CMF brand](https://www.theverge.com/news/781763/nothing-cmf-headphone-pro-wireless)
- - [Mastodon, the nonprofit behind the social network, plans to offer paid hosting, moderation, and support services for organizations joining the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250919/p6#a250919p6)
- - [This RPG series does everything wrong, and it’s working](https://www.theverge.com/games/781492/trails-in-the-sky-1st-chapter-switch-ps5-steam)<!-- TECH:END -->
+ - [How to Properly Clean a Kid’s. Car Seat &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-a-kids-car-seat/)
+ - [Samsung’s new vision of DeX on tablets is a step in the right direction](https://www.androidauthority.com/one-ui-8-new-dex-right-direction-3595957/)
+ - [1Password Review &lpar;2025&rpar;: Gold Standard Security](https://www.wired.com/review/1password-2025/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
