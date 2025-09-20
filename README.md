@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG new Secret Lair reprints 4 Commander staples with incredible new Play-Doh art](https://www.polygon.com/mtg-secret-lair-extra-life-play-doh-cards-magic-the-gathering/)
- - [Gearbox breaks out some free loot because Borderlands players have already looted over 750 million items, half a million of which were from trash cans](https://www.pcgamer.com/games/fps/gearbox-breaks-out-some-free-loot-because-borderlands-players-have-already-looted-over-750-million-items-half-a-million-of-which-were-from-trash-cans/)
- - [Apple Seems to Be Clearing Out the 2025 M4 MacBook Air at an All-Time Low Before Amazon Prime Big Deal Days](https://kotaku.com/apple-seems-to-be-clearing-out-the-2025-m4-macbook-air-at-an-all-time-low-before-amazon-prime-big-deal-days-2000626103)<!-- GAME:END -->
+ - [Sonic the Hedgehog is so back, but for real this time in 2025](https://www.polygon.com/sonic-the-hedgehog-is-so-back-sonic-racing-crossworlds-shadow-generations/)
+ - [This Doom mod based on ye olde Flash animation series Madness is, fittingly, way slicker than it has any right to be](https://www.pcgamer.com/games/fps/this-doom-mod-based-on-ye-olde-flash-animation-series-madness-is-fittingly-way-slicker-than-it-has-any-right-to-be/)
+ - [This 16″ Portable Monitor with Kickstand Is Ideal for Netflix Bingeing and It’s Selling for Pennies](https://kotaku.com/this-16-portable-monitor-with-kickstand-is-ideal-for-netflix-bingeing-and-its-selling-for-pennies-2000627448)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
