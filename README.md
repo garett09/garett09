@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Triple wielding](http://9gag.com/gag/a9yV9Q0)
- - 🚯 [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)
- - 🚯 [Never relax](http://9gag.com/gag/awy8Rn4)<!-- MEMES:END -->
+ - 🚖 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 🚯 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 🚯 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
 
 --- 
 
