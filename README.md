@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic the Hedgehog is so back, but for real this time in 2025](https://www.polygon.com/sonic-the-hedgehog-is-so-back-sonic-racing-crossworlds-shadow-generations/)
- - [This Doom mod based on ye olde Flash animation series Madness is, fittingly, way slicker than it has any right to be](https://www.pcgamer.com/games/fps/this-doom-mod-based-on-ye-olde-flash-animation-series-madness-is-fittingly-way-slicker-than-it-has-any-right-to-be/)
- - [This 16″ Portable Monitor with Kickstand Is Ideal for Netflix Bingeing and It’s Selling for Pennies](https://kotaku.com/this-16-portable-monitor-with-kickstand-is-ideal-for-netflix-bingeing-and-its-selling-for-pennies-2000627448)<!-- GAME:END -->
+ - [Should The Game Awards up GOTY to 10 nominees?](https://www.polygon.com/game-awards-goty-10-nominees/)
+ - [25 years ago today, Baldur&#39;s Gate 2 set RPGs on the path to becoming the industry-defining genre they are today: &#39;We were putting all the fantasies that we had into the game&#39;](https://www.pcgamer.com/games/rpg/25-years-ago-today-baldurs-gate-2-set-rpgs-on-the-path-to-becoming-the-industry-defining-genre-they-are-today-we-were-putting-all-the-fantasies-that-we-had-into-the-game/)
+ - [The Sims 4 gets a much-needed update to the increasingly buggy base game, as EA assures players that &#39;your concerns are heard&#39; over issues like deformed pets and missing ghost children](https://www.pcgamer.com/games/the-sims/the-sims-4-gets-a-much-needed-update-to-the-increasingly-buggy-base-game-as-ea-assures-players-that-your-concerns-are-heard-over-issues-like-deformed-pets-and-missing-ghost-children/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
