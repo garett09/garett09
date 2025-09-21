@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Properly Clean a Kid’s. Car Seat &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-a-kids-car-seat/)
- - [Samsung’s new vision of DeX on tablets is a step in the right direction](https://www.androidauthority.com/one-ui-8-new-dex-right-direction-3595957/)
- - [1Password Review &lpar;2025&rpar;: Gold Standard Security](https://www.wired.com/review/1password-2025/)<!-- TECH:END -->
+ - [An inside look at Léon Thévenin, the only undersea internet cable repair ship permanently stationed in Africa, operated by the French telecom company Orange &lpar;Rest of World&rpar;](http://www.techmeme.com/250921/p9#a250921p9)
+ - [7 things I miss about Samsung since switching to a Pixel](https://www.androidauthority.com/things-i-miss-from-one-ui-3597990/)
+ - [iPhone Air hints at what iPhone Fold will look like](https://appleinsider.com/articles/25/09/21/iphone-air-hints-at-what-iphone-fold-will-look-like?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
