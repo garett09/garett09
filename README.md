@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An inside look at Léon Thévenin, the only undersea internet cable repair ship permanently stationed in Africa, operated by the French telecom company Orange &lpar;Rest of World&rpar;](http://www.techmeme.com/250921/p9#a250921p9)
- - [7 things I miss about Samsung since switching to a Pixel](https://www.androidauthority.com/things-i-miss-from-one-ui-3597990/)
- - [iPhone Air hints at what iPhone Fold will look like](https://appleinsider.com/articles/25/09/21/iphone-air-hints-at-what-iphone-fold-will-look-like?utm_source=rss)<!-- TECH:END -->
+ - [The Mandalorian and Grogu channels classic Star Wars in first trailer](https://www.theverge.com/news/782419/the-mandalorian-and-grogu-trailer-star-wars)
+ - [Google DeepMind updates its Frontier Safety Framework to account for new risks, including the potential for models to resist shutdown or modification by humans &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250922/p8#a250922p8)
+ - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
