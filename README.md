@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should The Game Awards up GOTY to 10 nominees?](https://www.polygon.com/game-awards-goty-10-nominees/)
- - [25 years ago today, Baldur&#39;s Gate 2 set RPGs on the path to becoming the industry-defining genre they are today: &#39;We were putting all the fantasies that we had into the game&#39;](https://www.pcgamer.com/games/rpg/25-years-ago-today-baldurs-gate-2-set-rpgs-on-the-path-to-becoming-the-industry-defining-genre-they-are-today-we-were-putting-all-the-fantasies-that-we-had-into-the-game/)
- - [The Sims 4 gets a much-needed update to the increasingly buggy base game, as EA assures players that &#39;your concerns are heard&#39; over issues like deformed pets and missing ghost children](https://www.pcgamer.com/games/the-sims/the-sims-4-gets-a-much-needed-update-to-the-increasingly-buggy-base-game-as-ea-assures-players-that-your-concerns-are-heard-over-issues-like-deformed-pets-and-missing-ghost-children/)<!-- GAME:END -->
+ - [Exclusive: Meet Starfinder: Afterlight inspired by Blade Runner and Loki](https://www.polygon.com/starfinder-afterlight-companions-reveal/)
+ - [Four ways Silent Hill f evolves the series’ formula](https://blog.playstation.com/2025/09/22/four-ways-silent-hill-f-evolves-the-series-formula/)
+ - [Seven at 30: How David Fincher brought horror back a year before Scream](https://www.polygon.com/seven-at-30-fincher-horror/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
