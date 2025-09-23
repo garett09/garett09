@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mandalorian and Grogu channels classic Star Wars in first trailer](https://www.theverge.com/news/782419/the-mandalorian-and-grogu-trailer-star-wars)
- - [Google DeepMind updates its Frontier Safety Framework to account for new risks, including the potential for models to resist shutdown or modification by humans &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250922/p8#a250922p8)
- - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)<!-- TECH:END -->
+ - [Google announces Play Games Sidekick for Android, an in-game overlay that provides access to Gemini Live while playing games downloaded from the Play Store &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250923/p12#a250923p12)
+ - [EU tells Apple to crack down on online fraud](https://appleinsider.com/articles/25/09/23/eu-tells-apple-to-crack-down-on-online-fraud?utm_source=rss)
+ - [Google just gave you two new ways to find the right apps on the Play Store](https://www.androidauthority.com/google-play-store-new-spaces-guided-search-announced-3600047/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
