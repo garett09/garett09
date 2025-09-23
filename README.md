@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cool.](http://9gag.com/gag/aVv1zPw)
- - 🚯 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 🚯 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)<!-- MEMES:END -->
+ - 🚖 [Yo mama](http://9gag.com/gag/avyX0dW)
+ - 🚯 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
+ - 🚯 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
 
 --- 
 
