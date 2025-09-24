@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker’s MagSafe Charger Stand Hits Unseen All-Time Low, Looks Like They’re Clearing House After Apple’s Launch](https://kotaku.com/ankers-magsafe-charger-stand-hits-unseen-all-time-low-looks-like-theyre-clearing-house-after-apples-launch-2000627679)
- - [Silksong&#39;s new patch delivers bug fixes and a soft nerf to everyone&#39;s beloved Cogfly—plus a vow to fix the awful Simplified Chinese translation with &#39;A new script, by a well-regarded team&#39; in 3-4 weeks](https://www.pcgamer.com/games/action/silksongs-new-patch-delivers-bug-fixes-and-a-soft-nerf-to-everyones-beloved-cogfly-plus-a-vow-to-fix-the-awful-simplified-chinese-translation-with-a-new-script-by-a-well-regarded-team-in-3-4-weeks/)
- - [Gran Turismo 7 Update 1.63 available today](https://blog.playstation.com/2025/09/23/gran-turismo-7-update-1-63-available-today/)<!-- GAME:END -->
+ - [Crucial’s 4TB SSD Hits Lowest Price Ever, Durable Gaming Storage That’s Practically Free Per TB](https://kotaku.com/crucials-4tb-ssd-hits-lowest-price-ever-durable-gaming-storage-thats-practically-free-per-tb-2000628041)
+ - [Stranger Things season 5 promises bigger action and higher stakes](https://www.polygon.com/stranger-things-season-5-featurette/)
+ - [Consume Me review: sincere coming of age story takes on dieting culture](https://www.polygon.com/consume-me-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
