@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces Play Games Sidekick for Android, an in-game overlay that provides access to Gemini Live while playing games downloaded from the Play Store &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250923/p12#a250923p12)
- - [EU tells Apple to crack down on online fraud](https://appleinsider.com/articles/25/09/23/eu-tells-apple-to-crack-down-on-online-fraud?utm_source=rss)
- - [Google just gave you two new ways to find the right apps on the Play Store](https://www.androidauthority.com/google-play-store-new-spaces-guided-search-announced-3600047/)<!-- TECH:END -->
+ - [Sources: Oracle seeks to borrow $15B through the US sale of corporate bonds, as it begins to fulfill massive cloud infrastructure deals with OpenAI and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p19#a250924p19)
+ - [A Startup Used AI to Make a Psychedelic Without the Trip](https://www.wired.com/story/a-startup-used-ai-to-make-a-psychedelic-without-the-trip/)
+ - [Where has Final Fantasy Tactics been all my life?](https://www.theverge.com/entertainment/783944/final-fantasy-tactics-remake-review-square-enix-playstation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
