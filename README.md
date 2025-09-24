@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yo mama](http://9gag.com/gag/avyX0dW)
- - 🚯 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 🚯 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
+ - 🚖 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 🚯 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)
+ - 🚯 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)<!-- MEMES:END -->
 
 --- 
 
