@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crucial’s 4TB SSD Hits Lowest Price Ever, Durable Gaming Storage That’s Practically Free Per TB](https://kotaku.com/crucials-4tb-ssd-hits-lowest-price-ever-durable-gaming-storage-thats-practically-free-per-tb-2000628041)
- - [Stranger Things season 5 promises bigger action and higher stakes](https://www.polygon.com/stranger-things-season-5-featurette/)
- - [Consume Me review: sincere coming of age story takes on dieting culture](https://www.polygon.com/consume-me-review/)<!-- GAME:END -->
+ - [Despite all appearances, upcoming F2P open-world RPG Ananta isn&#39;t a gacha game—only charging for cosmetics and furniture](https://www.pcgamer.com/games/rpg/despite-all-appearances-upcoming-f2p-open-world-rpg-ananta-isnt-a-gacha-game-only-charging-for-cosmetics-and-furniture/)
+ - [Marvel Zombies ending explained: Was the final twist any good?](https://www.polygon.com/marvel-zombies-ending-explained/)
+ - [Official Xbox Podcast | Tokyo Game Show 2025 Recap and Discussion](https://www.youtube.com/watch?v=1N-2q1RKzWw#new_tab)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
