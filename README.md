@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Oracle seeks to borrow $15B through the US sale of corporate bonds, as it begins to fulfill massive cloud infrastructure deals with OpenAI and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p19#a250924p19)
- - [A Startup Used AI to Make a Psychedelic Without the Trip](https://www.wired.com/story/a-startup-used-ai-to-make-a-psychedelic-without-the-trip/)
- - [Where has Final Fantasy Tactics been all my life?](https://www.theverge.com/entertainment/783944/final-fantasy-tactics-remake-review-square-enix-playstation)<!-- TECH:END -->
+ - [Microsoft opens the doors to more AI-powered Windows apps](https://www.theverge.com/news/785631/microsoft-windows-ml-ai-apps-availability)
+ - [A profile of AI skeptic Ed Zitron: Sam Altman&#39;s firing and return was his &quot;Joker moment&quot;, tech journalism is flawed, his brash persona is not a mask, and more &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250925/p24#a250925p24)
+ - [Google Photos’ Tinder-inspired cleanup tool looks ready for release &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-tinder-cleanup-tool-ready-3601128/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
