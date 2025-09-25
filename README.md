@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 🚯 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)
- - 🚯 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)<!-- MEMES:END -->
+ - 🚖 [Grammarly being messy](https://www.reddit.com/r/funny/comments/1nq6mwp/grammarly_being_messy/)
+ - 🚯 [Doggy style](http://9gag.com/gag/axynjDb)
+ - 🚯 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
 
 --- 
 
