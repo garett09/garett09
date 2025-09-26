@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite all appearances, upcoming F2P open-world RPG Ananta isn&#39;t a gacha game—only charging for cosmetics and furniture](https://www.pcgamer.com/games/rpg/despite-all-appearances-upcoming-f2p-open-world-rpg-ananta-isnt-a-gacha-game-only-charging-for-cosmetics-and-furniture/)
- - [Marvel Zombies ending explained: Was the final twist any good?](https://www.polygon.com/marvel-zombies-ending-explained/)
- - [Official Xbox Podcast | Tokyo Game Show 2025 Recap and Discussion](https://www.youtube.com/watch?v=1N-2q1RKzWw#new_tab)<!-- GAME:END -->
+ - [Amazon Clears Out 4.8-Star Kingston SSD in All Capacities at Record Low, Cheaper Than Samsung or Crucial](https://kotaku.com/amazon-clears-out-4-8-star-kingston-ssd-in-all-capacities-at-record-low-cheaper-than-samsung-or-crucial-2000628887)
+ - [How Nimona&#39;s creator &#39;collaborated&#39; with his childhood on his first novel](https://www.polygon.com/scarlet-morning-free-chapter-nimona-author-nd-stevenson-fantasy/)
+ - [Trump administration is reportedly planning to tariff US tech firms that don&#39;t source equal numbers of imported and American chips](https://www.pcgamer.com/hardware/trump-administration-is-reportedly-planning-to-tariff-us-tech-firms-that-dont-source-equal-numbers-of-imported-and-american-chips/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
