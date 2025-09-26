@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grammarly being messy](https://www.reddit.com/r/funny/comments/1nq6mwp/grammarly_being_messy/)
- - 🚯 [Doggy style](http://9gag.com/gag/axynjDb)
- - 🚯 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
+ - 🚖 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
+ - 🚯 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
+ - 🚯 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)<!-- MEMES:END -->
 
 --- 
 
