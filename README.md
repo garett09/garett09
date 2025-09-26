@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft opens the doors to more AI-powered Windows apps](https://www.theverge.com/news/785631/microsoft-windows-ml-ai-apps-availability)
- - [A profile of AI skeptic Ed Zitron: Sam Altman&#39;s firing and return was his &quot;Joker moment&quot;, tech journalism is flawed, his brash persona is not a mask, and more &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250925/p24#a250925p24)
- - [Google Photos’ Tinder-inspired cleanup tool looks ready for release &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-photos-tinder-cleanup-tool-ready-3601128/)<!-- TECH:END -->
+ - [Poll: Do you care if your phone scratches easily?](https://www.androidauthority.com/poll-phone-scratch-easily-3601508/)
+ - [The Trump administration&#39;s $14B valuation of TikTok&#39;s US business falls well below previous estimates of around $40B, surprising investors who call it a bargain &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p9#a250926p9)
+ - [Fans caught Apple using iPhones in MLB broadcasts &amp; the shots went viral](https://appleinsider.com/articles/25/09/26/fans-caught-apple-using-iphones-in-mlb-broadcasts-the-shots-went-viral?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
