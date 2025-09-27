@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
- - 🚯 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
- - 🚯 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)<!-- MEMES:END -->
+ - 🚖 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
+ - 🚯 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
+ - 🚯 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
 
 --- 
 
