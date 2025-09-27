@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you care if your phone scratches easily?](https://www.androidauthority.com/poll-phone-scratch-easily-3601508/)
- - [The Trump administration&#39;s $14B valuation of TikTok&#39;s US business falls well below previous estimates of around $40B, surprising investors who call it a bargain &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p9#a250926p9)
- - [Fans caught Apple using iPhones in MLB broadcasts &amp; the shots went viral](https://appleinsider.com/articles/25/09/26/fans-caught-apple-using-iphones-in-mlb-broadcasts-the-shots-went-viral?utm_source=rss)<!-- TECH:END -->
+ - [10 Android features I taught my parents to use, and you should too](https://www.androidauthority.com/android-features-i-taught-my-parents-3599486/)
+ - [Lenovo Legion 7i Gen 10 Review: An All-White Wonder](https://www.wired.com/review/lenovo-legion-7i-gen-10/)
+ - [The strangest game of the year is a channel-surfing simulator](https://www.theverge.com/games/785848/blippo-plus-review-switch-steam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
