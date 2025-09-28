@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Clears Out 4.8-Star Kingston SSD in All Capacities at Record Low, Cheaper Than Samsung or Crucial](https://kotaku.com/amazon-clears-out-4-8-star-kingston-ssd-in-all-capacities-at-record-low-cheaper-than-samsung-or-crucial-2000628887)
- - [How Nimona&#39;s creator &#39;collaborated&#39; with his childhood on his first novel](https://www.polygon.com/scarlet-morning-free-chapter-nimona-author-nd-stevenson-fantasy/)
- - [Trump administration is reportedly planning to tariff US tech firms that don&#39;t source equal numbers of imported and American chips](https://www.pcgamer.com/hardware/trump-administration-is-reportedly-planning-to-tariff-us-tech-firms-that-dont-source-equal-numbers-of-imported-and-american-chips/)<!-- GAME:END -->
+ - [Silent Hill f and Baby Steps have more in common than you think](https://www.polygon.com/silent-hill-f-consume-me-baby-steps-gender-roles/)
+ - [Hyte X50 PC case review](https://www.pcgamer.com/hardware/pc-cases/hyte-x50-pc-case-review/)
+ - [A new Danganronpa game means one thing and one thing only: Getting to hear its excellent soundtrack all over again](https://www.pcgamer.com/games/visual-novel/a-new-danganronpa-game-means-one-thing-and-one-thing-only-getting-to-hear-its-excellent-soundtrack-all-over-again/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
