@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
- - 🚯 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
- - 🚯 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
+ - 🚖 [Japanese/east Asian cops cannot handle Indian migrants](http://9gag.com/gag/a9yNr3L)
+ - 🚯 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
+ - 🚯 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)<!-- MEMES:END -->
 
 --- 
 
