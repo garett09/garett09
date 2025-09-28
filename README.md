@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Android features I taught my parents to use, and you should too](https://www.androidauthority.com/android-features-i-taught-my-parents-3599486/)
- - [Lenovo Legion 7i Gen 10 Review: An All-White Wonder](https://www.wired.com/review/lenovo-legion-7i-gen-10/)
- - [The strangest game of the year is a channel-surfing simulator](https://www.theverge.com/games/785848/blippo-plus-review-switch-steam)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones: Sony, Bose, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)
+ - [Should you pay for Spotify Lossless? Only if you meet these 3 criteria](https://www.androidauthority.com/spotify-lossless-criteria-3601261/)
+ - [I spent three months with Telly, the free TV that&amp;#8217;s always showing ads](https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
