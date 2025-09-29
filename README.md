@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Noise-Canceling Headphones: Sony, Bose, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [Should you pay for Spotify Lossless? Only if you meet these 3 criteria](https://www.androidauthority.com/spotify-lossless-criteria-3601261/)
- - [I spent three months with Telly, the free TV that&amp;#8217;s always showing ads](https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads)<!-- TECH:END -->
+ - [This OnePlus 15 colorway is launching globally with an impressive ‘ceramic coating’ finish](https://www.androidauthority.com/oneplus-15-sand-storm-edition-global-launch-3602018/)
+ - [Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple](https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/)
+ - [Get a look at the OnePlus 15 from every angle](https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
