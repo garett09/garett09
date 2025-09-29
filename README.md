@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japanese/east Asian cops cannot handle Indian migrants](http://9gag.com/gag/a9yNr3L)
- - 🚯 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 🚯 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)<!-- MEMES:END -->
+ - 🚖 [It ain&#39;t much but it&#39;s honest work](http://9gag.com/gag/aryrG2y)
+ - 🚯 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
+ - 🚯 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)<!-- MEMES:END -->
 
 --- 
 
