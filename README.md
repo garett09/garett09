@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill f and Baby Steps have more in common than you think](https://www.polygon.com/silent-hill-f-consume-me-baby-steps-gender-roles/)
- - [Hyte X50 PC case review](https://www.pcgamer.com/hardware/pc-cases/hyte-x50-pc-case-review/)
- - [A new Danganronpa game means one thing and one thing only: Getting to hear its excellent soundtrack all over again](https://www.pcgamer.com/games/visual-novel/a-new-danganronpa-game-means-one-thing-and-one-thing-only-getting-to-hear-its-excellent-soundtrack-all-over-again/)<!-- GAME:END -->
+ - [EA strikes a $55 billion deal to go private in a Saudi-backed buyout just a week before the launch of Battlefield 6](https://www.pcgamer.com/gaming-industry/ea-strikes-a-usd55-billion-deal-to-go-private-in-a-saudi-backed-buyout-just-a-week-before-the-launch-of-battlefield-6/)
+ - [Alien Rogue Incursion Evolved Edition review: Xenomorphs gone mild](https://www.polygon.com/alien-rogue-incursion-evolved-edition-review/)
+ - [EA Announces Unprecedented $55 Billion Sale To Saudi Arabia, Jared Kushner’s Private Equity Group, And Others](https://kotaku.com/ea-sale-saudi-arabia-madden-pif-jared-kushner-2000629829)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
