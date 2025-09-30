@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It ain&#39;t much but it&#39;s honest work](http://9gag.com/gag/aryrG2y)
- - 🚯 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
- - 🚯 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)<!-- MEMES:END -->
+ - 🚖 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
+ - 🚯 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
+ - 🚯 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 --- 
 
