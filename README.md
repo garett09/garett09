@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA strikes a $55 billion deal to go private in a Saudi-backed buyout just a week before the launch of Battlefield 6](https://www.pcgamer.com/gaming-industry/ea-strikes-a-usd55-billion-deal-to-go-private-in-a-saudi-backed-buyout-just-a-week-before-the-launch-of-battlefield-6/)
- - [Alien Rogue Incursion Evolved Edition review: Xenomorphs gone mild](https://www.polygon.com/alien-rogue-incursion-evolved-edition-review/)
- - [EA Announces Unprecedented $55 Billion Sale To Saudi Arabia, Jared Kushner’s Private Equity Group, And Others](https://kotaku.com/ea-sale-saudi-arabia-madden-pif-jared-kushner-2000629829)<!-- GAME:END -->
+ - [Resident Evil 9 Will Swing The Pendulum Away From RE4’s Action Back Toward Horror](https://kotaku.com/resident-evil-requiem-9-2-4-horror-scary-grace-2000630216)
+ - [This Lenovo All-in-One Desktop Crashes 73% After Three Price Cuts in a Week, Now Priced Like a Tablet](https://kotaku.com/this-lenovo-all-in-one-desktop-crashes-73-after-three-price-cuts-in-a-week-now-priced-like-a-tablet-2000629980)
+ - [The Very Finest Cosplay Fits From New York’s Anime NYC 2025](https://kotaku.com/cosplay-anime-nyc-2025-kpop-demon-hunters-2000630188)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
