@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This OnePlus 15 colorway is launching globally with an impressive ‘ceramic coating’ finish](https://www.androidauthority.com/oneplus-15-sand-storm-edition-global-launch-3602018/)
- - [Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple](https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/)
- - [Get a look at the OnePlus 15 from every angle](https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass)<!-- TECH:END -->
+ - [Microsoft launches a Security Store with SaaS tools and AI agents from Darktrace and others, and now lets Security Copilot users build their own AI agents &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250930/p17#a250930p17)
+ - [DoorDash unveils delivery robot Dot, standing 4-foot, 6-inches tall and able to carry up to 30lb of cargo at up to 20mph, and a smart scale for restaurants &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250930/p16#a250930p16)
+ - [Adobe launches its Premiere video editing software on iPhone for the first time; general editing is free, but Adobe charges for credits to generate AI content &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250930/p15#a250930p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
