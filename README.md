@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - 🚯 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - 🚯 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
+ - 🚖 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
+ - 🚯 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
+ - 🚯 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
 
 --- 
 
