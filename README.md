@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches a Security Store with SaaS tools and AI agents from Darktrace and others, and now lets Security Copilot users build their own AI agents &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250930/p17#a250930p17)
- - [DoorDash unveils delivery robot Dot, standing 4-foot, 6-inches tall and able to carry up to 30lb of cargo at up to 20mph, and a smart scale for restaurants &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250930/p16#a250930p16)
- - [Adobe launches its Premiere video editing software on iPhone for the first time; general editing is free, but Adobe charges for credits to generate AI content &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250930/p15#a250930p15)<!-- TECH:END -->
+ - [Martin Scorsese gets profound in new Apple TV+ documentary trailer](https://appleinsider.com/articles/25/10/01/martin-scorsese-gets-profound-in-new-apple-tv-documentary-trailer?utm_source=rss)
+ - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+ - [Amazon unveils updates to Luna, including adding AAA games like Hogwarts Legacy and new GameNight original party games, available to Prime subscribers &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251001/p28#a251001p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
