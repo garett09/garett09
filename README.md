@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Martin Scorsese gets profound in new Apple TV+ documentary trailer](https://appleinsider.com/articles/25/10/01/martin-scorsese-gets-profound-in-new-apple-tv-documentary-trailer?utm_source=rss)
- - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [Amazon unveils updates to Luna, including adding AAA games like Hogwarts Legacy and new GameNight original party games, available to Prime subscribers &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251001/p28#a251001p28)<!-- TECH:END -->
+ - [Disney says Hulu will replace the Star hub on Disney+ on October 8 in international markets as part of Disney&#39;s plan to expand Hulu globally &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251002/p20#a251002p20)
+ - [Tesla finally had a good sales quarter — it may be the last one for a while](https://www.theverge.com/news/790046/tesla-q3-2025-sales-production-delivery)
+ - [Can you still get US Cellular? Yes, and here are the best deals of October](https://www.androidauthority.com/us-cellular-oct-deals-3603080/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
