@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 9 Will Swing The Pendulum Away From RE4’s Action Back Toward Horror](https://kotaku.com/resident-evil-requiem-9-2-4-horror-scary-grace-2000630216)
- - [This Lenovo All-in-One Desktop Crashes 73% After Three Price Cuts in a Week, Now Priced Like a Tablet](https://kotaku.com/this-lenovo-all-in-one-desktop-crashes-73-after-three-price-cuts-in-a-week-now-priced-like-a-tablet-2000629980)
- - [The Very Finest Cosplay Fits From New York’s Anime NYC 2025](https://kotaku.com/cosplay-anime-nyc-2025-kpop-demon-hunters-2000630188)<!-- GAME:END -->
+ - [Amazon Clears Out Fire HD 10 Tablet at Over 50% Off, Possibly the Cheapest Android Tab Right Now](https://kotaku.com/amazon-clears-out-fire-hd-10-tablet-at-over-50-off-possibly-the-cheapest-android-tab-right-now-2000630710)
+ - [Feds Worried ‘Violent Extremist US Teens’ On Fortnite, Roblox, And More](https://kotaku.com/discord-fortnite-roblox-terrorism-surveillance-extremist-fbi-2000631018)
+ - [Fortnite insists it wasn&#39;t stitched up by Warner Bros. and the Peacemaker emote, but is modifying it anyway &#39;to avoid any confusion&#39;](https://www.pcgamer.com/games/battle-royale/fortnite-insists-it-wasnt-stitched-up-by-warner-bros-and-the-peacemaker-emote-but-is-modifying-it-anyway-to-avoid-any-confusion/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
