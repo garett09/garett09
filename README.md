@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - 🚯 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
- - 🚯 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
+ - 🚖 [Just found out it\u2019s officially Sir Gary Oldman from now on. Guess who likes that](http://9gag.com/gag/aE0N8jG)
+ - 🚯 [Fascinating Behaviour forevermore.](http://9gag.com/gag/aZZVDBn)
+ - 🚯 [Why is it difficult to understand that noone likes to have men in women&#39;s bathroom..](http://9gag.com/gag/aYQnVRN)<!-- MEMES:END -->
 
 --- 
 
