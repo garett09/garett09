@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just found out it\u2019s officially Sir Gary Oldman from now on. Guess who likes that](http://9gag.com/gag/aE0N8jG)
- - 🚯 [Fascinating Behaviour forevermore.](http://9gag.com/gag/aZZVDBn)
- - 🚯 [Why is it difficult to understand that noone likes to have men in women&#39;s bathroom..](http://9gag.com/gag/aYQnVRN)<!-- MEMES:END -->
+ - 🚖 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - 🚯 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - 🚯 [Never bring a machete to a bodyslam fight](http://9gag.com/gag/aVv1gb2)<!-- MEMES:END -->
 
 --- 
 
