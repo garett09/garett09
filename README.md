@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney says Hulu will replace the Star hub on Disney+ on October 8 in international markets as part of Disney&#39;s plan to expand Hulu globally &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251002/p20#a251002p20)
- - [Tesla finally had a good sales quarter — it may be the last one for a while](https://www.theverge.com/news/790046/tesla-q3-2025-sales-production-delivery)
- - [Can you still get US Cellular? Yes, and here are the best deals of October](https://www.androidauthority.com/us-cellular-oct-deals-3603080/)<!-- TECH:END -->
+ - [Sources: BlackRock&#39;s GIP is in talks to buy Aligned, which operates 78 data centers across North and South America, in a deal that could value Aligned at ~$40B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251003/p8#a251003p8)
+ - [I tried Amazon and Google’s new smart home gadgets, ask me anything!](https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama)
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
