@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Clears Out Fire HD 10 Tablet at Over 50% Off, Possibly the Cheapest Android Tab Right Now](https://kotaku.com/amazon-clears-out-fire-hd-10-tablet-at-over-50-off-possibly-the-cheapest-android-tab-right-now-2000630710)
- - [Feds Worried ‘Violent Extremist US Teens’ On Fortnite, Roblox, And More](https://kotaku.com/discord-fortnite-roblox-terrorism-surveillance-extremist-fbi-2000631018)
- - [Fortnite insists it wasn&#39;t stitched up by Warner Bros. and the Peacemaker emote, but is modifying it anyway &#39;to avoid any confusion&#39;](https://www.pcgamer.com/games/battle-royale/fortnite-insists-it-wasnt-stitched-up-by-warner-bros-and-the-peacemaker-emote-but-is-modifying-it-anyway-to-avoid-any-confusion/)<!-- GAME:END -->
+ - [I&#39;ve become obsessed with building tiny houses for singing villagers in cosy decorating sim Twinkleby, which includes getting rid of the difficult ones by throwing their bags into the void](https://www.pcgamer.com/games/sim/ive-become-obsessed-with-building-tiny-houses-for-singing-villagers-in-cosy-decorating-sim-twinkleby-which-includes-getting-rid-of-the-difficult-ones-by-throwing-their-bags-into-the-void/)
+ - [The 43rd Golden Joystick Awards shortlist is out, and just looking at the indie list alone, I can tell it&#39;s going to be a tough year](https://www.pcgamer.com/gaming-industry/the-43rd-golden-joystick-awards-shortlist-is-out-and-just-looking-at-the-indie-list-alone-i-can-tell-its-going-to-be-a-tough-year/)
+ - [Critical Role campaign 4 characters: Classes, species, players, art, and more](https://www.polygon.com/critical-role-campaign-4-characters-cast/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
