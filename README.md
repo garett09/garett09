@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - 🚯 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 🚯 [Never bring a machete to a bodyslam fight](http://9gag.com/gag/aVv1gb2)<!-- MEMES:END -->
+ - 🚖 [Dammit Jeff!](http://9gag.com/gag/a7o6Orw)
+ - 🚯 [Horse ownership is the secret to a long life, or maybe just good health insurance](http://9gag.com/gag/amob13j)
+ - 🚯 [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)<!-- MEMES:END -->
 
 --- 
 
