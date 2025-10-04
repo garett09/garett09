@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: BlackRock&#39;s GIP is in talks to buy Aligned, which operates 78 data centers across North and South America, in a deal that could value Aligned at ~$40B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251003/p8#a251003p8)
- - [I tried Amazon and Google’s new smart home gadgets, ask me anything!](https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama)
- - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
+ - [I ditched Google Calendar for Proton Calendar, and that was a mistake](https://www.androidauthority.com/proton-calendar-google-calendar-3602491/)
+ - [7 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
+ - [Consume Me is a raw and funny memoir in video game form](https://www.theverge.com/games/791220/consume-me-review-steam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
