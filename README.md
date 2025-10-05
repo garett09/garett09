@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dammit Jeff!](http://9gag.com/gag/a7o6Orw)
- - 🚯 [Horse ownership is the secret to a long life, or maybe just good health insurance](http://9gag.com/gag/amob13j)
- - 🚯 [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)<!-- MEMES:END -->
+ - 🚖 [Ah... social media...](http://9gag.com/gag/ae9PZjv)
+ - 🚯 [Are you surprised?](http://9gag.com/gag/aND29r6)
+ - 🚯 [NOT TO UPVOTE!](http://9gag.com/gag/a9yNvrK)<!-- MEMES:END -->
 
 --- 
 
