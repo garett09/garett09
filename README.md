@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I ditched Google Calendar for Proton Calendar, and that was a mistake](https://www.androidauthority.com/proton-calendar-google-calendar-3602491/)
- - [7 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
- - [Consume Me is a raw and funny memoir in video game form](https://www.theverge.com/games/791220/consume-me-review-steam)<!-- TECH:END -->
+ - [Samsung’s Galaxy Ring just exposed my biggest smart ring fear](https://www.androidauthority.com/smart-ring-flaw-emergency-removal-3603378/)
+ - [The developers behind a hit sausage-dueling game hope Steam launch will take it furter](https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview)
+ - [John Gianandrea wasn&#39;t Apple&#39;s AI savior, and the company may be looking for a replacement](https://appleinsider.com/articles/25/10/05/john-gianandrea-wasnt-apples-ai-savior-and-the-company-may-be-looking-for-a-replacement?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
