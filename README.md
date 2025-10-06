@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy Ring just exposed my biggest smart ring fear](https://www.androidauthority.com/smart-ring-flaw-emergency-removal-3603378/)
- - [The developers behind a hit sausage-dueling game hope Steam launch will take it furter](https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview)
- - [John Gianandrea wasn&#39;t Apple&#39;s AI savior, and the company may be looking for a replacement](https://appleinsider.com/articles/25/10/05/john-gianandrea-wasnt-apples-ai-savior-and-the-company-may-be-looking-for-a-replacement?utm_source=rss)<!-- TECH:END -->
+ - [Paris-based Filigran, which develops open-source threat intelligence tools, raised a $58M Series C led by French VC Eurazeo and reports 6K+ users &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/251006/p18#a251006p18)
+ - [6 Best Mesh Wi-Fi Systems &lpar;2025&rpar;, Tested in a Tech Reviewer&#39;s Home](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [Verizon names Dan Schulman as CEO, replacing Hans Vestberg effective immediately; Schulman was PayPal CEO, and Vestberg will help manage the transition &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/251006/p17#a251006p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
