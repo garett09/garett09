@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah... social media...](http://9gag.com/gag/ae9PZjv)
- - 🚯 [Are you surprised?](http://9gag.com/gag/aND29r6)
- - 🚯 [NOT TO UPVOTE!](http://9gag.com/gag/a9yNvrK)<!-- MEMES:END -->
+ - 🚖 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
+ - 🚯 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 🚯 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
 
 --- 
 
