@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve become obsessed with building tiny houses for singing villagers in cosy decorating sim Twinkleby, which includes getting rid of the difficult ones by throwing their bags into the void](https://www.pcgamer.com/games/sim/ive-become-obsessed-with-building-tiny-houses-for-singing-villagers-in-cosy-decorating-sim-twinkleby-which-includes-getting-rid-of-the-difficult-ones-by-throwing-their-bags-into-the-void/)
- - [The 43rd Golden Joystick Awards shortlist is out, and just looking at the indie list alone, I can tell it&#39;s going to be a tough year](https://www.pcgamer.com/gaming-industry/the-43rd-golden-joystick-awards-shortlist-is-out-and-just-looking-at-the-indie-list-alone-i-can-tell-its-going-to-be-a-tough-year/)
- - [Critical Role campaign 4 characters: Classes, species, players, art, and more](https://www.polygon.com/critical-role-campaign-4-characters-cast/)<!-- GAME:END -->
+ - [Apple Quietly Offloads the AirPods Pro 2, Now Rushing to Clear Stock to Welcome the Next Gen](https://kotaku.com/apple-quietly-offloads-the-airpods-pro-2-now-rushing-to-clear-stock-to-welcome-the-next-gen-2000631989)
+ - [Xbox Still Swears It’s Not Giving Up On Consoles As Fan Morale Craters](https://kotaku.com/xbox-next-gen-console-leak-rumor-costco-sams-club-2000632026)
+ - [Minecraft streamer completes 14-year journey to the Far Lands](https://www.polygon.com/minecraft-far-lands-14-year-journey/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
