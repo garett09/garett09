@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
- - 🚯 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
- - 🚯 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
+ - 🚖 [A short and witty title does the trick](http://9gag.com/gag/aO8N9Wv)
+ - 🚯 [My nightmares be like](http://9gag.com/gag/aryrZbV)
+ - 🚯 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 --- 
 
