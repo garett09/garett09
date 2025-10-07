@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Quietly Offloads the AirPods Pro 2, Now Rushing to Clear Stock to Welcome the Next Gen](https://kotaku.com/apple-quietly-offloads-the-airpods-pro-2-now-rushing-to-clear-stock-to-welcome-the-next-gen-2000631989)
- - [Xbox Still Swears It’s Not Giving Up On Consoles As Fan Morale Craters](https://kotaku.com/xbox-next-gen-console-leak-rumor-costco-sams-club-2000632026)
- - [Minecraft streamer completes 14-year journey to the Far Lands](https://www.polygon.com/minecraft-far-lands-14-year-journey/)<!-- GAME:END -->
+ - [Robin Williams’ Daughter Begs People To Stop Sending Her AI-Generated Slop Of Her Dad](https://kotaku.com/robin-williams-zelda-ai-slop-human-centipede-sora-2000632483)
+ - [Thank God: The new Hell Let Loose will only have &#39;historically authentic&#39; frogs](https://www.pcgamer.com/games/fps/thank-god-the-new-hell-let-loose-will-only-have-historically-authentic-frogs/)
+ - [Forget the iPhone 17, Amazon Is Offloading the New Pixel 10 for 2x Cheaper This Prime Day](https://kotaku.com/forget-the-iphone-17-amazon-is-offloading-the-new-pixel-10-for-2x-cheaper-this-prime-day-2000632506)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
