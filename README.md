@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Filigran, which develops open-source threat intelligence tools, raised a $58M Series C led by French VC Eurazeo and reports 6K+ users &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/251006/p18#a251006p18)
- - [6 Best Mesh Wi-Fi Systems &lpar;2025&rpar;, Tested in a Tech Reviewer&#39;s Home](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [Verizon names Dan Schulman as CEO, replacing Hans Vestberg effective immediately; Schulman was PayPal CEO, and Vestberg will help manage the transition &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/251006/p17#a251006p17)<!-- TECH:END -->
+ - [Dreame Prime Day sale: Get up to $500 off on Dreame’s latest robot vacuums](https://www.androidauthority.com/dreame-prime-day-sale-3604673/)
+ - [Google&amp;#8217;s extreme smart home makeover](https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast)
+ - [Catch a rare 45% markdown on the popular Sony WH-CH720N headphones!](https://www.androidauthority.com/sony-wh-ch720n-headphones-prime-day-3604454/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
