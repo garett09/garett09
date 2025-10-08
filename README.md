@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Robin Williams’ Daughter Begs People To Stop Sending Her AI-Generated Slop Of Her Dad](https://kotaku.com/robin-williams-zelda-ai-slop-human-centipede-sora-2000632483)
- - [Thank God: The new Hell Let Loose will only have &#39;historically authentic&#39; frogs](https://www.pcgamer.com/games/fps/thank-god-the-new-hell-let-loose-will-only-have-historically-authentic-frogs/)
- - [Forget the iPhone 17, Amazon Is Offloading the New Pixel 10 for 2x Cheaper This Prime Day](https://kotaku.com/forget-the-iphone-17-amazon-is-offloading-the-new-pixel-10-for-2x-cheaper-this-prime-day-2000632506)<!-- GAME:END -->
+ - [Credit-Card Sized, Our Favorite 10,000mAh 45W Power Bank Is Going for Pennies](https://kotaku.com/credit-card-sized-our-favorite-10000mah-45w-power-bank-is-going-for-pennies-2000633165)
+ - [These Beats Pill Speakers Are Nearly 70% Off, Amazon Is Clearing Out the Last of Kim Kardashian’s Edition](https://kotaku.com/these-beats-pill-speakers-are-nearly-70-off-amazon-is-clearing-out-the-last-of-kim-kardashians-edition-2000633147)
+ - [Clair Obscur: Expedition 33 Is Getting A Free Expansion With New Boss Battles](https://kotaku.com/clair-obscur-expedition-33-free-update-expansion-bosses-2000633193)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
