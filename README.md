@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dreame Prime Day sale: Get up to $500 off on Dreame’s latest robot vacuums](https://www.androidauthority.com/dreame-prime-day-sale-3604673/)
- - [Google&amp;#8217;s extreme smart home makeover](https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast)
- - [Catch a rare 45% markdown on the popular Sony WH-CH720N headphones!](https://www.androidauthority.com/sony-wh-ch720n-headphones-prime-day-3604454/)<!-- TECH:END -->
+ - [Jensen Huang says AMD&#39;s deal to offer 10% of itself to OpenAI is &quot;surprising&quot; and &quot;imaginative&quot; considering AMD was &quot;so excited about&quot; its next-generation chip &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251008/p25#a251008p25)
+ - [Apple&#39;s EU Digital Markets Act antitrust debacle may be settled soon](https://appleinsider.com/articles/25/10/08/apples-eu-digital-markets-act-antitrust-debacle-may-be-settled-soon?utm_source=rss)
+ - [Rare deal: Google TV Streamer drops to $79.98](https://www.androidauthority.com/google-tv-streamer-deal-6-3605179/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
