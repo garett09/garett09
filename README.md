@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A short and witty title does the trick](http://9gag.com/gag/aO8N9Wv)
- - 🚯 [My nightmares be like](http://9gag.com/gag/aryrZbV)
- - 🚯 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
+ - 🚖 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
+ - 🚯 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 🚯 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
 
 --- 
 
