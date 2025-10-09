@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - 🚯 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 🚯 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
+ - 🚖 [Wowser..](http://9gag.com/gag/ajPMW90)
+ - 🚯 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 🚯 [I dont mind it](http://9gag.com/gag/axynmbY)<!-- MEMES:END -->
 
 --- 
 
