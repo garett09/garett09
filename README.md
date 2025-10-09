@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang says AMD&#39;s deal to offer 10% of itself to OpenAI is &quot;surprising&quot; and &quot;imaginative&quot; considering AMD was &quot;so excited about&quot; its next-generation chip &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251008/p25#a251008p25)
- - [Apple&#39;s EU Digital Markets Act antitrust debacle may be settled soon](https://appleinsider.com/articles/25/10/08/apples-eu-digital-markets-act-antitrust-debacle-may-be-settled-soon?utm_source=rss)
- - [Rare deal: Google TV Streamer drops to $79.98](https://www.androidauthority.com/google-tv-streamer-deal-6-3605179/)<!-- TECH:END -->
+ - [Intel says 18A-based Panther Lake chips can deliver 50% more performance at similar power to Lunar Lake chips, details RibbonFET efficiency gains, and more &lpar;Jeffrey Kampman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251009/p30#a251009p30)
+ - [Inside Intel&#39;s new 700-acre factories in the Arizona desert, which cost $32B and are starting large-scale 18A chip production, as it seeks to impress customers &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/251009/p29#a251009p29)
+ - [Intel unveils Panther Lake, or Intel Core Ultra Series 3, the first chip built on its 18A process, coming to laptops and handhelds in late 2025 and early 2026 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251009/p28#a251009p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
