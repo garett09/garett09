@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Credit-Card Sized, Our Favorite 10,000mAh 45W Power Bank Is Going for Pennies](https://kotaku.com/credit-card-sized-our-favorite-10000mah-45w-power-bank-is-going-for-pennies-2000633165)
- - [These Beats Pill Speakers Are Nearly 70% Off, Amazon Is Clearing Out the Last of Kim Kardashian’s Edition](https://kotaku.com/these-beats-pill-speakers-are-nearly-70-off-amazon-is-clearing-out-the-last-of-kim-kardashians-edition-2000633147)
- - [Clair Obscur: Expedition 33 Is Getting A Free Expansion With New Boss Battles](https://kotaku.com/clair-obscur-expedition-33-free-update-expansion-bosses-2000633193)<!-- GAME:END -->
+ - [This 5-Star Dell Laptop Bundle &lpar;64GB RAM, 2TB SSD&rpar; Sees 72% Cut, From Above MacBook Pricing to Practically a Steal](https://kotaku.com/this-5-star-dell-laptop-bundle-64gb-ram-2tb-ssd-sees-72-cut-from-above-macbook-pricing-to-practically-a-steal-2000633759)
+ - [Netflix&#39;s Dorohedoro finally announces season 2 release](https://www.polygon.com/netflix-dorohedoro-anime-season-2-2026-release/)
+ - [MindsEye Devs Blast Former GTA Producer And Studio Leadership Over Forced Crunch And Botched Layoffs](https://kotaku.com/mindseye-development-leslie-benzies-gta-bugs-union-layoffs-2000633983)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
