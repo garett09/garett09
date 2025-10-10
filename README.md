@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel says 18A-based Panther Lake chips can deliver 50% more performance at similar power to Lunar Lake chips, details RibbonFET efficiency gains, and more &lpar;Jeffrey Kampman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251009/p30#a251009p30)
- - [Inside Intel&#39;s new 700-acre factories in the Arizona desert, which cost $32B and are starting large-scale 18A chip production, as it seeks to impress customers &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/251009/p29#a251009p29)
- - [Intel unveils Panther Lake, or Intel Core Ultra Series 3, the first chip built on its 18A process, coming to laptops and handhelds in late 2025 and early 2026 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251009/p28#a251009p28)<!-- TECH:END -->
+ - [Brendan Carr wants to let internet providers charge hidden fees again](https://www.theverge.com/news/798154/fcc-proposal-scrap-isp-hidden-fee-rules)
+ - [Slide Over, Apple Glasses, and the Underdogs, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/10/slide-over-apple-glasses-and-the-underdogs-on-the-appleinsider-podcast?utm_source=rss)
+ - [Apple is about to give more generous payouts from its Bug Bounty Program](https://appleinsider.com/articles/25/10/10/apple-is-about-to-give-more-generous-payouts-from-its-bug-bounty-program?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
