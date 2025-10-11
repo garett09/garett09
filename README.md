@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why do I think this funny? Because it is.](http://9gag.com/gag/ae9PRBW)
- - 🚯 [Simply *absolute cinema*. Best part, they didn&#39;t have to say much to make you laugh](http://9gag.com/gag/aND23rw)
- - 🚯 [Reverse UNO perfectly executed...](http://9gag.com/gag/aByNojP)<!-- MEMES:END -->
+ - 🚖 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)
+ - 🚯 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
+ - 🚯 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)<!-- MEMES:END -->
 
 --- 
 
