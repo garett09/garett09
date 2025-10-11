@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brendan Carr wants to let internet providers charge hidden fees again](https://www.theverge.com/news/798154/fcc-proposal-scrap-isp-hidden-fee-rules)
- - [Slide Over, Apple Glasses, and the Underdogs, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/10/slide-over-apple-glasses-and-the-underdogs-on-the-appleinsider-podcast?utm_source=rss)
- - [Apple is about to give more generous payouts from its Bug Bounty Program](https://appleinsider.com/articles/25/10/10/apple-is-about-to-give-more-generous-payouts-from-its-bug-bounty-program?utm_source=rss)<!-- TECH:END -->
+ - [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/)
+ - [Dreams of Another feels like a fever dream](https://www.theverge.com/games/795553/dreams-of-another-review-ps5-pc)
+ - [Thoughts on The Curve conference, where prominent figures debated about AI progress, and why automating research engineers is plausible within years &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/251011/p12#a251011p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
