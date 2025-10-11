@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 5-Star Dell Laptop Bundle &lpar;64GB RAM, 2TB SSD&rpar; Sees 72% Cut, From Above MacBook Pricing to Practically a Steal](https://kotaku.com/this-5-star-dell-laptop-bundle-64gb-ram-2tb-ssd-sees-72-cut-from-above-macbook-pricing-to-practically-a-steal-2000633759)
- - [Netflix&#39;s Dorohedoro finally announces season 2 release](https://www.polygon.com/netflix-dorohedoro-anime-season-2-2026-release/)
- - [MindsEye Devs Blast Former GTA Producer And Studio Leadership Over Forced Crunch And Botched Layoffs](https://kotaku.com/mindseye-development-leslie-benzies-gta-bugs-union-layoffs-2000633983)<!-- GAME:END -->
+ - [Brilliant Red Dead Redemption 2 mod explores the life of dead NPCs](https://www.polygon.com/red-dead-redemption-2-mod-blurbs-npc-memories-interview/)
+ - [You&#39;ll need to be careful moving around the forests of Hell Let Loose: Vietnam, as its trees will help players identify potential threats: &#39;It can be very hard to understand where you&#39;re dying from&#39;](https://www.pcgamer.com/games/fps/youll-need-to-be-careful-moving-around-the-forests-of-hell-let-loose-vietnam-as-its-trees-will-help-players-identify-potential-threats-it-can-be-very-hard-to-understand-where-youre-dying-from/)
+ - [Dragon Ball Sparking Zero fans are hungry for more, one year post-launch](https://www.polygon.com/dragon-ball-sparking-zero-one-year-later/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
