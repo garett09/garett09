@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)
- - 🚯 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
- - 🚯 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)<!-- MEMES:END -->
+ - 🚖 [How long did it take for you to get it?](http://9gag.com/gag/aryrr1X)
+ - 🚯 [Never relax around them](http://9gag.com/gag/aGyNNeZ)
+ - 🚯 [Looks expensive](http://9gag.com/gag/ajPMGRq)<!-- MEMES:END -->
 
 --- 
 
