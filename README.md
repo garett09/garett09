@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brilliant Red Dead Redemption 2 mod explores the life of dead NPCs](https://www.polygon.com/red-dead-redemption-2-mod-blurbs-npc-memories-interview/)
- - [You&#39;ll need to be careful moving around the forests of Hell Let Loose: Vietnam, as its trees will help players identify potential threats: &#39;It can be very hard to understand where you&#39;re dying from&#39;](https://www.pcgamer.com/games/fps/youll-need-to-be-careful-moving-around-the-forests-of-hell-let-loose-vietnam-as-its-trees-will-help-players-identify-potential-threats-it-can-be-very-hard-to-understand-where-youre-dying-from/)
- - [Dragon Ball Sparking Zero fans are hungry for more, one year post-launch](https://www.polygon.com/dragon-ball-sparking-zero-one-year-later/)<!-- GAME:END -->
+ - [As Steam cracks down on adult games, one dev urges taking back control](https://www.polygon.com/steam-adult-games-physical-releases-parfum-nostalgique/)
+ - [Kick ass and chew brains in Duke Nukem: Horror Castle, a spooky mod where you blast skeletons and chow down on the gooey insides of their skulls](https://www.pcgamer.com/games/fps/kick-ass-and-chew-brains-in-duke-nukem-horror-castle-a-spooky-mod-where-you-blast-skeletons-and-chow-down-on-the-gooey-insides-of-their-skulls/)
+ - [This Jackery Power Station Can Save You During Winter Outages, and It’s Selling for Pennies](https://kotaku.com/this-jackery-power-station-can-save-you-during-winter-outages-and-its-selling-for-pennies-2000634478)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
