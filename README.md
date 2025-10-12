@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google blocks Android hack that let Pixel users enable VoLTE anywhere](https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/)
- - [Dreams of Another feels like a fever dream](https://www.theverge.com/games/795553/dreams-of-another-review-ps5-pc)
- - [Thoughts on The Curve conference, where prominent figures debated about AI progress, and why automating research engineers is plausible within years &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/251011/p12#a251011p12)<!-- TECH:END -->
+ - [16 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
+ - [M5 iPad Pro, Apple Vision Pro refresh may arrive this week](https://appleinsider.com/articles/25/10/12/m5-ipad-pro-apple-vision-pro-refresh-may-arrive-this-week?utm_source=rss)
+ - [AirPods Pro 4, AirPods 5 rumored to get Apple Intelligence-enhanced cameras in 2026](https://appleinsider.com/articles/25/10/12/airpods-pro-4-airpods-5-rumored-to-get-apple-intelligence-enhanced-cameras-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
