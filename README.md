@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How long did it take for you to get it?](http://9gag.com/gag/aryrr1X)
- - 🚯 [Never relax around them](http://9gag.com/gag/aGyNNeZ)
- - 🚯 [Looks expensive](http://9gag.com/gag/ajPMGRq)<!-- MEMES:END -->
+ - 🚖 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
+ - 🚯 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)
+ - 🚯 [Grandpa&#39;s shirt game is strong](http://9gag.com/gag/abAmL3X)<!-- MEMES:END -->
 
 --- 
 
