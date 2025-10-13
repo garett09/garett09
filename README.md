@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As Steam cracks down on adult games, one dev urges taking back control](https://www.polygon.com/steam-adult-games-physical-releases-parfum-nostalgique/)
- - [Kick ass and chew brains in Duke Nukem: Horror Castle, a spooky mod where you blast skeletons and chow down on the gooey insides of their skulls](https://www.pcgamer.com/games/fps/kick-ass-and-chew-brains-in-duke-nukem-horror-castle-a-spooky-mod-where-you-blast-skeletons-and-chow-down-on-the-gooey-insides-of-their-skulls/)
- - [This Jackery Power Station Can Save You During Winter Outages, and It’s Selling for Pennies](https://kotaku.com/this-jackery-power-station-can-save-you-during-winter-outages-and-its-selling-for-pennies-2000634478)<!-- GAME:END -->
+ - [The Deus Ex mod that&#39;s a better sequel than Invisible War just got a mondo-update, and playing it couldn&#39;t be easier](https://www.pcgamer.com/games/rpg/the-deus-ex-mod-thats-a-better-sequel-than-invisible-war-just-got-a-mondo-update-and-playing-it-couldnt-be-easier/)
+ - [This Ryzen 5 Lenovo Copilot Gaming Laptop Just Took More Than $1,000 Haircut at Amazon, Feels Practically Free Now](https://kotaku.com/this-ryzen-5-lenovo-copilot-gaming-laptop-just-took-more-than-1000-haircut-at-amazon-feels-practically-free-now-2000634493)
+ - [2005 FPS Serious Sam 2 just got a big update for reasons known only to God](https://www.pcgamer.com/games/fps/2005-fps-serious-sam-2-just-got-a-big-update-for-reasons-known-only-to-god/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
