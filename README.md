@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
- - [M5 iPad Pro, Apple Vision Pro refresh may arrive this week](https://appleinsider.com/articles/25/10/12/m5-ipad-pro-apple-vision-pro-refresh-may-arrive-this-week?utm_source=rss)
- - [AirPods Pro 4, AirPods 5 rumored to get Apple Intelligence-enhanced cameras in 2026](https://appleinsider.com/articles/25/10/12/airpods-pro-4-airpods-5-rumored-to-get-apple-intelligence-enhanced-cameras-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [The sequel to one of the year’s best camera phones is here, and I tried it out](https://www.androidauthority.com/vivo-x300-pro-launch-hands-on-3605823/)
+ - [OpenAI agrees to acquire 10GW of chips from Broadcom and co-design custom GPUs with Broadcom to run its AI models; sources: the deal is worth multiple billions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251013/p18#a251013p18)
+ - [3 Best Smart Displays &lpar;2025&rpar;: Tested By a Smart Home Addict](https://www.wired.com/gallery/best-smart-displays/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
