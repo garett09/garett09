@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - 🚯 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)
- - 🚯 [Grandpa&#39;s shirt game is strong](http://9gag.com/gag/abAmL3X)<!-- MEMES:END -->
+ - 🚖 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 🚯 [Imagine she is your wife, and she watches every move you make.](http://9gag.com/gag/abAmozB)
+ - 🚯 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
 
 --- 
 
