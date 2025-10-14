@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Deus Ex mod that&#39;s a better sequel than Invisible War just got a mondo-update, and playing it couldn&#39;t be easier](https://www.pcgamer.com/games/rpg/the-deus-ex-mod-thats-a-better-sequel-than-invisible-war-just-got-a-mondo-update-and-playing-it-couldnt-be-easier/)
- - [This Ryzen 5 Lenovo Copilot Gaming Laptop Just Took More Than $1,000 Haircut at Amazon, Feels Practically Free Now](https://kotaku.com/this-ryzen-5-lenovo-copilot-gaming-laptop-just-took-more-than-1000-haircut-at-amazon-feels-practically-free-now-2000634493)
- - [2005 FPS Serious Sam 2 just got a big update for reasons known only to God](https://www.pcgamer.com/games/fps/2005-fps-serious-sam-2-just-got-a-big-update-for-reasons-known-only-to-god/)<!-- GAME:END -->
+ - [Ubisoft surprise-revives its neglected Splinter Cell middle child on Steam, puts it on sale, then slaps a Uplay requirement on it so you don&#39;t get too excited](https://www.pcgamer.com/games/action/ubisoft-surprise-revives-its-neglected-splinter-cell-middle-child-on-steam-puts-it-on-sale-then-slaps-a-uplay-requirement-on-it-so-you-dont-get-too-excited/)
+ - [More Power, Higher Prices: The Next-Gen Rumor Mill For PS6 And Xbox Hardware Is In Full Swing](https://kotaku.com/ps6-next-gen-xbox-price-specs-leak-release-date-2000635303)
+ - [Lenovo’s Copilot Laptop Once Cost Double a MacBook Air, Now It’s Over 70% Off and 50% Cheaper Than One](https://kotaku.com/lenovos-copilot-laptop-once-cost-double-a-macbook-air-now-its-over-70-off-and-50-cheaper-than-one-2000634651)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
