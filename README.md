@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The sequel to one of the year’s best camera phones is here, and I tried it out](https://www.androidauthority.com/vivo-x300-pro-launch-hands-on-3605823/)
- - [OpenAI agrees to acquire 10GW of chips from Broadcom and co-design custom GPUs with Broadcom to run its AI models; sources: the deal is worth multiple billions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251013/p18#a251013p18)
- - [3 Best Smart Displays &lpar;2025&rpar;: Tested By a Smart Home Addict](https://www.wired.com/gallery/best-smart-displays/)<!-- TECH:END -->
+ - [Salesforce expands its partnerships with OpenAI and Anthropic to embed their AI models into Agentforce 360, including letting customers access it in ChatGPT &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/251014/p18#a251014p18)
+ - [Sources: the EU considers forcing Chinese companies seeking access to digital markets to hand over tech to European companies if they want to operate locally &lpar;Bloomberg&rpar;](http://www.techmeme.com/251014/p17#a251014p17)
+ - [My time with the iPhone 17 Pro’s cameras prove it can still battle the best of Android](https://www.androidauthority.com/iphone-17-pro-camera-hands-on-3603897/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
