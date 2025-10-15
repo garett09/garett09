@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - 🚯 [Imagine she is your wife, and she watches every move you make.](http://9gag.com/gag/abAmozB)
- - 🚯 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
+ - 🚖 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 🚯 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
+ - 🚯 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
 
 --- 
 
