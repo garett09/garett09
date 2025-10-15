@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft surprise-revives its neglected Splinter Cell middle child on Steam, puts it on sale, then slaps a Uplay requirement on it so you don&#39;t get too excited](https://www.pcgamer.com/games/action/ubisoft-surprise-revives-its-neglected-splinter-cell-middle-child-on-steam-puts-it-on-sale-then-slaps-a-uplay-requirement-on-it-so-you-dont-get-too-excited/)
- - [More Power, Higher Prices: The Next-Gen Rumor Mill For PS6 And Xbox Hardware Is In Full Swing](https://kotaku.com/ps6-next-gen-xbox-price-specs-leak-release-date-2000635303)
- - [Lenovo’s Copilot Laptop Once Cost Double a MacBook Air, Now It’s Over 70% Off and 50% Cheaper Than One](https://kotaku.com/lenovos-copilot-laptop-once-cost-double-a-macbook-air-now-its-over-70-off-and-50-cheaper-than-one-2000634651)<!-- GAME:END -->
+ - [Capcom execs were bewildered that people might want to play original Resident Evil when GOG approached them about it: &#39;We have all of those remakes. It’s already the superior experience&#39;](https://www.pcgamer.com/games/resident-evil/capcom-execs-were-bewildered-that-people-might-want-to-play-original-resident-evil-when-gog-approached-them-about-it-we-have-all-of-those-remakes-its-already-the-superior-experience/)
+ - [DJI Osmo Action 5 Pro Combo Hits Its Lowest Price to Clear Out Final Units, Now Cheaper Than Older GoPro Models](https://kotaku.com/dji-osmo-action-5-pro-combo-hits-its-lowest-price-to-clear-out-final-units-now-cheaper-than-older-gopro-models-2000635430)
+ - [Despite past posting, Randy Pitchford is actually &#39;happy to live in that world&#39; where Borderlands 4 complaints aren&#39;t about &#39;how we f*cked up the story&#39;, after all](https://www.pcgamer.com/games/rpg/despite-past-posting-randy-pitchford-is-actually-happy-to-live-in-that-world-where-borderlands-4-complaints-arent-about-how-we-f-cked-up-the-story-after-all/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
