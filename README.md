@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce expands its partnerships with OpenAI and Anthropic to embed their AI models into Agentforce 360, including letting customers access it in ChatGPT &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/251014/p18#a251014p18)
- - [Sources: the EU considers forcing Chinese companies seeking access to digital markets to hand over tech to European companies if they want to operate locally &lpar;Bloomberg&rpar;](http://www.techmeme.com/251014/p17#a251014p17)
- - [My time with the iPhone 17 Pro’s cameras prove it can still battle the best of Android](https://www.androidauthority.com/iphone-17-pro-camera-hands-on-3603897/)<!-- TECH:END -->
+ - [ROG Xbox Ally review: great grips, good speakers, and Windows is easier to control with joysticks, but worse performance than the Steam Deck and unintuitive UI &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251015/p25#a251015p25)
+ - [14-inch M5 MacBook Pro is here without Pro and Max versions](https://appleinsider.com/articles/25/10/15/14-inch-m5-macbook-pro-is-here-without-pro-and-max-versions?utm_source=rss)
+ - [Apple Vision Pro gets spec bump to M5 for enhanced spatial computing](https://appleinsider.com/articles/25/10/15/apple-vision-pro-gets-spec-bump-to-m5-for-enhanced-spatial-computing?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
