@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom execs were bewildered that people might want to play original Resident Evil when GOG approached them about it: &#39;We have all of those remakes. It’s already the superior experience&#39;](https://www.pcgamer.com/games/resident-evil/capcom-execs-were-bewildered-that-people-might-want-to-play-original-resident-evil-when-gog-approached-them-about-it-we-have-all-of-those-remakes-its-already-the-superior-experience/)
- - [DJI Osmo Action 5 Pro Combo Hits Its Lowest Price to Clear Out Final Units, Now Cheaper Than Older GoPro Models](https://kotaku.com/dji-osmo-action-5-pro-combo-hits-its-lowest-price-to-clear-out-final-units-now-cheaper-than-older-gopro-models-2000635430)
- - [Despite past posting, Randy Pitchford is actually &#39;happy to live in that world&#39; where Borderlands 4 complaints aren&#39;t about &#39;how we f*cked up the story&#39;, after all](https://www.pcgamer.com/games/rpg/despite-past-posting-randy-pitchford-is-actually-happy-to-live-in-that-world-where-borderlands-4-complaints-arent-about-how-we-f-cked-up-the-story-after-all/)<!-- GAME:END -->
+ - [Dead Or Alive Creator And Longtime Ninja Gaiden Director Tomonobu Itagaki Has Died At 58](https://kotaku.com/tomonobu-itagaki-death-dead-or-alive-team-ninja-gaiden-2000636025)
+ - [The best horror to watch this Halloween](https://www.polygon.com/best-halloween-horror-movies-tv-watch-2025/)
+ - [Dell’s OptiPlex 7020 Mini PC Falls 71%, From 6× the Price of a Mac Mini to Clearance-Level Pricing](https://kotaku.com/the-only-thing-skinnier-than-this-powerhouse-dell-desktop-is-its-71-off-amazon-deal-2000635765)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
