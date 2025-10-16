@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ROG Xbox Ally review: great grips, good speakers, and Windows is easier to control with joysticks, but worse performance than the Steam Deck and unintuitive UI &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251015/p25#a251015p25)
- - [14-inch M5 MacBook Pro is here without Pro and Max versions](https://appleinsider.com/articles/25/10/15/14-inch-m5-macbook-pro-is-here-without-pro-and-max-versions?utm_source=rss)
- - [Apple Vision Pro gets spec bump to M5 for enhanced spatial computing](https://appleinsider.com/articles/25/10/15/apple-vision-pro-gets-spec-bump-to-m5-for-enhanced-spatial-computing?utm_source=rss)<!-- TECH:END -->
+ - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/16/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
+ - [ChatGPT could soon let you DM others using the Android app &lpar;Update: Screenshots&rpar;](https://www.androidauthority.com/chatgpt-dm-group-chat-android-3607646/)
+ - [Microsoft launches new Windows features to help weave AI into regular Windows 11 PCs, including rolling out a &quot;Hey, Copilot!&quot; wake word and Copilot Vision &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251016/p30#a251016p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
