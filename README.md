@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
- - 🚯 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 🚯 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
+ - 🚖 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
+ - 🚯 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 🚯 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
 
 --- 
 
