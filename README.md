@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/16/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
- - [ChatGPT could soon let you DM others using the Android app &lpar;Update: Screenshots&rpar;](https://www.androidauthority.com/chatgpt-dm-group-chat-android-3607646/)
- - [Microsoft launches new Windows features to help weave AI into regular Windows 11 PCs, including rolling out a &quot;Hey, Copilot!&quot; wake word and Copilot Vision &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251016/p30#a251016p30)<!-- TECH:END -->
+ - [Apple TV seizes F1 pole position with five-year US streaming rights deal](https://appleinsider.com/articles/25/10/17/apple-tv-seizes-f1-pole-position-with-five-year-us-streaming-rights-deal?utm_source=rss)
+ - [Redmagic 11 Pro is the first phone with liquid cooling](https://www.theverge.com/news/801581/redmagic-11-pro-china-launch-liquid-cooling-8000mah-battery)
+ - [Apple and Formula One announce a five-year US media rights deal for all races starting in 2026; sources: Apple is paying $140M/year, up from ESPN&#39;s ~$85M/year &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/251017/p20#a251017p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
