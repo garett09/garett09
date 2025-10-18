@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Or Alive Creator And Longtime Ninja Gaiden Director Tomonobu Itagaki Has Died At 58](https://kotaku.com/tomonobu-itagaki-death-dead-or-alive-team-ninja-gaiden-2000636025)
- - [The best horror to watch this Halloween](https://www.polygon.com/best-halloween-horror-movies-tv-watch-2025/)
- - [Dell’s OptiPlex 7020 Mini PC Falls 71%, From 6× the Price of a Mac Mini to Clearance-Level Pricing](https://kotaku.com/the-only-thing-skinnier-than-this-powerhouse-dell-desktop-is-its-71-off-amazon-deal-2000635765)<!-- GAME:END -->
+ - [Fable 3&#39;s cast was so stacked it changed AAA games](https://www.polygon.com/fable-3-15-anniversary-retrospective-cast/)
+ - [&#39;GZDoom is basically dead&#39; modders proclaim as contributors split from Doom&#39;s most popular sourceport, with tensions boiling over after its creator adds AI-generated code to the project](https://www.pcgamer.com/games/fps/gzdoom-is-basically-dead-modders-proclaim-as-contributors-split-from-dooms-most-popular-sourceport-with-tensions-boiling-over-after-its-creator-adds-ai-generated-code-to-the-project/)
+ - [Dell Offloads Laptops at 70% Off, But Only Quietly Through Amazon to Protect Its Brand](https://kotaku.com/dell-offloads-laptops-at-70-off-but-only-quietly-through-amazon-to-protect-its-brand-2000636918)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
