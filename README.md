@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
- - 🚯 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 🚯 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
+ - 🚖 [Privilege](http://9gag.com/gag/a1mqzbv)
+ - 🚯 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)
+ - 🚯 [The guy behind them seems thrilled with the free show he\u2019s getting](http://9gag.com/gag/aqypqWj)<!-- MEMES:END -->
 
 --- 
 
