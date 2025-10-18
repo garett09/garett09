@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV seizes F1 pole position with five-year US streaming rights deal](https://appleinsider.com/articles/25/10/17/apple-tv-seizes-f1-pole-position-with-five-year-us-streaming-rights-deal?utm_source=rss)
- - [Redmagic 11 Pro is the first phone with liquid cooling](https://www.theverge.com/news/801581/redmagic-11-pro-china-launch-liquid-cooling-8000mah-battery)
- - [Apple and Formula One announce a five-year US media rights deal for all races starting in 2026; sources: Apple is paying $140M/year, up from ESPN&#39;s ~$85M/year &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/251017/p20#a251017p20)<!-- TECH:END -->
+ - [Cosmic Orange iPhone 17 Pro changing color to pink for some](https://appleinsider.com/articles/25/10/18/cosmic-orange-iphone-17-pro-allegedly-changes-color-to-pink?utm_source=rss)
+ - [Amazon says the Kindle Colorsoft isn’t great for reading books, and I agree](https://www.androidauthority.com/kindle-colorsoft-not-great-for-reading-3607576/)
+ - [15 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
