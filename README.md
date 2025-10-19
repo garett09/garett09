@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cosmic Orange iPhone 17 Pro changing color to pink for some](https://appleinsider.com/articles/25/10/18/cosmic-orange-iphone-17-pro-allegedly-changes-color-to-pink?utm_source=rss)
- - [Amazon says the Kindle Colorsoft isn’t great for reading books, and I agree](https://www.androidauthority.com/kindle-colorsoft-not-great-for-reading-3607576/)
- - [15 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)<!-- TECH:END -->
+ - [14 Best USB Flash Drives &lpar;2025&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
+ - [Opera&amp;#8217;s Neon shows just how confusing AI browsers still are](https://www.theverge.com/tech/801899/opera-neon-ai-browser-trial-run)
+ - [ByteDance&#39;s Cici, an overseas counterpart of China&#39;s most popular AI chatbot app Doubao, is quietly gaining traction in the UK, Mexico, and Southeast Asia &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251019/p7#a251019p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
