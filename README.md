@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fable 3&#39;s cast was so stacked it changed AAA games](https://www.polygon.com/fable-3-15-anniversary-retrospective-cast/)
- - [&#39;GZDoom is basically dead&#39; modders proclaim as contributors split from Doom&#39;s most popular sourceport, with tensions boiling over after its creator adds AI-generated code to the project](https://www.pcgamer.com/games/fps/gzdoom-is-basically-dead-modders-proclaim-as-contributors-split-from-dooms-most-popular-sourceport-with-tensions-boiling-over-after-its-creator-adds-ai-generated-code-to-the-project/)
- - [Dell Offloads Laptops at 70% Off, But Only Quietly Through Amazon to Protect Its Brand](https://kotaku.com/dell-offloads-laptops-at-70-off-but-only-quietly-through-amazon-to-protect-its-brand-2000636918)<!-- GAME:END -->
+ - [How Clair Obscur&#39;s developers made Expedition 33 extremely French](https://www.polygon.com/clair-obscur-expedition-33-sandfall-interactive-interview-french-af/)
+ - [Surviving Mars: Relaunched arrives in orbit next month, bringing a whole new political system and every DLC from the get-go](https://www.pcgamer.com/games/strategy/surviving-mars-relaunched-arrives-in-orbit-next-month-bringing-a-whole-new-political-system-and-every-dlc-from-the-get-go/)
+ - [Formula 1 Cars Are Selling for Pennies, LEGO Offloads Remaining Stock During the Austin GP](https://kotaku.com/formula-1-cars-are-selling-for-pennies-lego-offloads-remaining-stock-during-the-austin-gp-2000636932)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
