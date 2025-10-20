@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best USB Flash Drives &lpar;2025&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
- - [Opera&amp;#8217;s Neon shows just how confusing AI browsers still are](https://www.theverge.com/tech/801899/opera-neon-ai-browser-trial-run)
- - [ByteDance&#39;s Cici, an overseas counterpart of China&#39;s most popular AI chatbot app Doubao, is quietly gaining traction in the UK, Mexico, and Southeast Asia &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251019/p7#a251019p7)<!-- TECH:END -->
+ - [Adobe launches AI Foundry, a new program to help enterprise customers create bespoke, commercially safe, Firefly-based generative AI models trained on their IP &lpar;Webb Wright/ZDNET&rpar;](http://www.techmeme.com/251020/p18#a251020p18)
+ - [The UK CMA says Getty Images and Shutterstock&#39;s $3.7B merger causes competition concerns and gives the companies until October 27 to offer plan to address them &lpar;Ian Walker/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p17#a251020p17)
+ - [6 Best VPN Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
