@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Clair Obscur&#39;s developers made Expedition 33 extremely French](https://www.polygon.com/clair-obscur-expedition-33-sandfall-interactive-interview-french-af/)
- - [Surviving Mars: Relaunched arrives in orbit next month, bringing a whole new political system and every DLC from the get-go](https://www.pcgamer.com/games/strategy/surviving-mars-relaunched-arrives-in-orbit-next-month-bringing-a-whole-new-political-system-and-every-dlc-from-the-get-go/)
- - [Formula 1 Cars Are Selling for Pennies, LEGO Offloads Remaining Stock During the Austin GP](https://kotaku.com/formula-1-cars-are-selling-for-pennies-lego-offloads-remaining-stock-during-the-austin-gp-2000636932)<!-- GAME:END -->
+ - [Yoko Taro Hides Clues When Signing Merchandise To Fight Scammers](https://kotaku.com/nier-yoko-taro-signature-signed-merchandise-autograph-2000637614)
+ - [Ball-bouncing, city-building, off-the-wall roguelike Ball X Pit is a huge hit, selling 300,000 copies in just its first five days on sale](https://www.pcgamer.com/games/roguelike/ball-bouncing-city-building-off-the-wall-roguelike-ball-x-pit-is-a-huge-hit-selling-300-000-copies-in-just-its-first-five-days-on-sale/)
+ - [LEGO Quietly Launches Fire Sale, Star Wars Millennium Falcon Now Selling for Pennies](https://kotaku.com/lego-quietly-launches-fire-sale-star-wars-millennium-falcon-now-selling-for-pennies-2000637613)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
