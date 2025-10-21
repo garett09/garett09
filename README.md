@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - 🚯 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - 🚯 [Apparently, you don&#39;t get a b*tch pass just because you are old](http://9gag.com/gag/a87QLY6)<!-- MEMES:END -->
+ - 🚯 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 🚯 [Legend](http://9gag.com/gag/aqyB95L)<!-- MEMES:END -->
 
 --- 
 
