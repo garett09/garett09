@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe launches AI Foundry, a new program to help enterprise customers create bespoke, commercially safe, Firefly-based generative AI models trained on their IP &lpar;Webb Wright/ZDNET&rpar;](http://www.techmeme.com/251020/p18#a251020p18)
- - [The UK CMA says Getty Images and Shutterstock&#39;s $3.7B merger causes competition concerns and gives the companies until October 27 to offer plan to address them &lpar;Ian Walker/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p17#a251020p17)
- - [6 Best VPN Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)<!-- TECH:END -->
+ - [Threat intel company Dataminr plans to acquire cybersecurity threat intel provider ThreatConnect for $290M; Dataminr raised $85M in convertible funding in March &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251021/p20#a251021p20)
+ - [Oakley Meta Vanguard review: the smart glasses combine headphones, sunglasses, and a camera, plus Garmin integration, but the camera specs aren&#39;t too impressive &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/251021/p19#a251021p19)
+ - [iPad Pro &lpar;M5, 2025&rpar; review: amazing performance, hardware remains unbeaten, and iPadOS is getting more Mac-like, but still too pricey for a secondary computer &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/251021/p18#a251021p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
