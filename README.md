@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - 🚯 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 🚯 [Legend](http://9gag.com/gag/aqyB95L)<!-- MEMES:END -->
+ - 🚖 [College students reactions to OJ being found not guilty.](http://9gag.com/gag/aE0ywNx)
+ - 🚯 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - 🚯 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 --- 
 
