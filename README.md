@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threat intel company Dataminr plans to acquire cybersecurity threat intel provider ThreatConnect for $290M; Dataminr raised $85M in convertible funding in March &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251021/p20#a251021p20)
- - [Oakley Meta Vanguard review: the smart glasses combine headphones, sunglasses, and a camera, plus Garmin integration, but the camera specs aren&#39;t too impressive &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/251021/p19#a251021p19)
- - [iPad Pro &lpar;M5, 2025&rpar; review: amazing performance, hardware remains unbeaten, and iPadOS is getting more Mac-like, but still too pricey for a secondary computer &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/251021/p18#a251021p18)<!-- TECH:END -->
+ - [Meta is reportedly downsizing its legacy AI research team](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence)
+ - [Enhance your iPad productivity with ESR&#39;s selection of keyboards, cases &amp; more](https://appleinsider.com/articles/25/10/22/enhance-your-ipad-productivity-with-esrs-selection-of-keyboards-cases-more?utm_source=rss)
+ - [YouTube now lets mobile users set a customizable daily limit to restrict how long they can scroll Shorts feeds; the limit notifications are dismissible &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251022/p24#a251022p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
