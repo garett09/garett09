@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is reportedly downsizing its legacy AI research team](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence)
- - [Enhance your iPad productivity with ESR&#39;s selection of keyboards, cases &amp; more](https://appleinsider.com/articles/25/10/22/enhance-your-ipad-productivity-with-esrs-selection-of-keyboards-cases-more?utm_source=rss)
- - [YouTube now lets mobile users set a customizable daily limit to restrict how long they can scroll Shorts feeds; the limit notifications are dismissible &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251022/p24#a251022p24)<!-- TECH:END -->
+ - [Internal memo: TikTok plans leadership changes, moving two teams under ByteDance veteran Fiona Zhi and undoing earlier efforts to empower Western executives &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/251023/p24#a251023p24)
+ - [iPhone 17, tariffs, and more: What to expect from Apple&#39;s Q4 2025 financials](https://appleinsider.com/articles/25/10/23/iphone-17-tariffs-and-more-what-to-expect-from-apples-q4-2025-financials?utm_source=rss)
+ - [Amazon relaunches its game streaming service Luna, available at no additional cost for Prime subscribers, and adds new beginner-friendly multiplayer games &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/251023/p23#a251023p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
