@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [College students reactions to OJ being found not guilty.](http://9gag.com/gag/aE0ywNx)
- - 🚯 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
- - 🚯 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
+ - 🚖 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
+ - 🚯 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 🚯 [King fruit](http://9gag.com/gag/a34eL78)<!-- MEMES:END -->
 
 --- 
 
