@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yoko Taro Hides Clues When Signing Merchandise To Fight Scammers](https://kotaku.com/nier-yoko-taro-signature-signed-merchandise-autograph-2000637614)
- - [Ball-bouncing, city-building, off-the-wall roguelike Ball X Pit is a huge hit, selling 300,000 copies in just its first five days on sale](https://www.pcgamer.com/games/roguelike/ball-bouncing-city-building-off-the-wall-roguelike-ball-x-pit-is-a-huge-hit-selling-300-000-copies-in-just-its-first-five-days-on-sale/)
- - [LEGO Quietly Launches Fire Sale, Star Wars Millennium Falcon Now Selling for Pennies](https://kotaku.com/lego-quietly-launches-fire-sale-star-wars-millennium-falcon-now-selling-for-pennies-2000637613)<!-- GAME:END -->
+ - [People Are Turning This $1,000 Windows Handheld Into A Super Steam Deck And Getting Way Better Performance](https://kotaku.com/rog-xbox-ally-x-bazzite-steamos-linux-performance-2000638543)
+ - [Report: Microsoft Has Pushed Xbox To Make Much Higher Profits For The Past Two Years](https://kotaku.com/xbox-microsoft-price-hike-game-pass-layoffs-new-console-2000638546)
+ - [OK, the Xe3 GPU in Intel&#39;s Panther Lake chip officially isn&#39;t Celestial, it&#39;s really just Xe2 &#39;Plus Plus,&#39; but even Intel itself doesn&#39;t yet understand how it all relates to its shock new deal with Nvidia](https://www.pcgamer.com/hardware/graphics-cards/ok-the-xe3-gpu-in-intels-panther-lake-chip-officially-isnt-celestial-its-really-just-xe2-plus-plus-but-even-intel-itself-doesnt-yet-understand-how-it-all-relates-to-its-shock-new-deal-with-nvidia/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
