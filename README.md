@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: TikTok plans leadership changes, moving two teams under ByteDance veteran Fiona Zhi and undoing earlier efforts to empower Western executives &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/251023/p24#a251023p24)
- - [iPhone 17, tariffs, and more: What to expect from Apple&#39;s Q4 2025 financials](https://appleinsider.com/articles/25/10/23/iphone-17-tariffs-and-more-what-to-expect-from-apples-q4-2025-financials?utm_source=rss)
- - [Amazon relaunches its game streaming service Luna, available at no additional cost for Prime subscribers, and adds new beginner-friendly multiplayer games &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/251023/p23#a251023p23)<!-- TECH:END -->
+ - [Best 360 Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
+ - [Dispatch offers a rare unique twist on superhero stories](https://www.theverge.com/games/805679/dispatch-review-steam-ps5)
+ - [OpenAI made ChatGPT better at sifting through your work or school information](https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
