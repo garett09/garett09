@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
- - 🚯 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - 🚯 [King fruit](http://9gag.com/gag/a34eL78)<!-- MEMES:END -->
+ - 🚖 [3 sets of jumping conclusions](http://9gag.com/gag/aKGnB1j)
+ - 🚯 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
+ - 🚯 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)<!-- MEMES:END -->
 
 --- 
 
