@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [3 sets of jumping conclusions](http://9gag.com/gag/aKGnB1j)
- - 🚯 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
- - 🚯 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)<!-- MEMES:END -->
+ - 🚖 [From the Achives](http://9gag.com/gag/aXPQwEd)
+ - 🚯 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 🚯 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
 
 --- 
 
