@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Thinktank recommends the EU hit China where it hurts if it restricts access to rare earths: place restrictions on older chipmaking machines it relies on](https://www.pcgamer.com/hardware/thinktank-recommends-the-eu-hit-china-where-it-hurts-if-it-restricts-access-to-rare-earths-place-restrictions-on-older-chipmaking-machines-it-relies-on/)
- - [Critical Role&#39;s 4-episode overture had me clenching my cheeks through some of the most intense D&amp;D I&#39;ve ever seen, and I&#39;m not convinced I&#39;ll be surviving Campaign 4](https://www.pcgamer.com/movies-tv/critical-roles-4-episode-overture-had-me-clenching-my-cheeks-through-some-of-the-most-intense-d-and-d-ive-ever-seen-and-im-not-convinced-ill-be-surviving-campaign-4/)
- - [HP 17.3″ Ryzen 5 Laptop Bundle Goes for Peanuts With 75% Off and $200 Worth of Free Accessories](https://kotaku.com/hp-17-3%e2%80%b3-ryzen-5-laptop-bundle-goes-for-peanuts-with-75-off-and-200-worth-of-free-accessories-2000637760)<!-- GAME:END -->
+ - [Skyrim&#39;s shouts are therapy in RPG form](https://www.polygon.com/skyrim-shouts-therapy-rpg/)
+ - [Quiz time! Are these real thread titles from the Crusader Kings subreddit?](https://www.pcgamer.com/games/sim/quiz-time-are-these-real-thread-titles-from-the-crusader-kings-subreddit/)
+ - [Unicorn Wars redefines &quot;not for children&quot; animation in gruesome, memorable ways](https://www.polygon.com/unicorn-wars-horror-best-animated-movies-for-adults/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
