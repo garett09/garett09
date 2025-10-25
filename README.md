@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 360 Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
- - [Dispatch offers a rare unique twist on superhero stories](https://www.theverge.com/games/805679/dispatch-review-steam-ps5)
- - [OpenAI made ChatGPT better at sifting through your work or school information](https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update)<!-- TECH:END -->
+ - [Ball x Pit is a deep, delightful rabbit hole](https://www.theverge.com/games/805022/ball-x-pit-review-pc-nintendo-switch-ps5-xbox-series-x-s)
+ - [Crypto infrastructure provider Fireblocks acquires Dynamic, which streamlines crypto wallet setup, authentication, and onboarding for 50M+ accounts, for ~$90M &lpar;CTech&rpar;](http://www.techmeme.com/251025/p8#a251025p8)
+ - [Is the Galaxy XR really an Apple Vision Pro killer?](https://www.androidauthority.com/authority-insights-podcast-010-3609795/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
