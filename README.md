@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim&#39;s shouts are therapy in RPG form](https://www.polygon.com/skyrim-shouts-therapy-rpg/)
- - [Quiz time! Are these real thread titles from the Crusader Kings subreddit?](https://www.pcgamer.com/games/sim/quiz-time-are-these-real-thread-titles-from-the-crusader-kings-subreddit/)
- - [Unicorn Wars redefines &quot;not for children&quot; animation in gruesome, memorable ways](https://www.polygon.com/unicorn-wars-horror-best-animated-movies-for-adults/)<!-- GAME:END -->
+ - [Gears of War&#39;s Active Reload should be in more shooters](https://www.polygon.com/gears-of-wars-active-reload-mechanic-xbox/)
+ - [This stylish found-footage film takes a dark, surprising look at possession](https://www.polygon.com/late-night-with-the-devil-halloween-what-to-stream-horror/)
+ - [Today&#39;s Wordle clues, hints and answer for October 26 &lpar;#1590&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-26-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
