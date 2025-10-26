@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ball x Pit is a deep, delightful rabbit hole](https://www.theverge.com/games/805022/ball-x-pit-review-pc-nintendo-switch-ps5-xbox-series-x-s)
- - [Crypto infrastructure provider Fireblocks acquires Dynamic, which streamlines crypto wallet setup, authentication, and onboarding for 50M+ accounts, for ~$90M &lpar;CTech&rpar;](http://www.techmeme.com/251025/p8#a251025p8)
- - [Is the Galaxy XR really an Apple Vision Pro killer?](https://www.androidauthority.com/authority-insights-podcast-010-3609795/)<!-- TECH:END -->
+ - [Best GoPro Camera &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
+ - [iPad Pro rumored to get iPhone 17 Pro vapor chamber cooling in early 2027](https://appleinsider.com/articles/25/10/26/ipad-pro-rumored-to-get-iphone-17-pro-vapor-chamber-cooling-in-early-2027?utm_source=rss)
+ - [Ads likely coming to Apple Maps in 2026](https://appleinsider.com/articles/25/10/26/ads-likely-coming-to-apple-maps-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
