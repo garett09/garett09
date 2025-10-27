@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best GoPro Camera &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
- - [iPad Pro rumored to get iPhone 17 Pro vapor chamber cooling in early 2027](https://appleinsider.com/articles/25/10/26/ipad-pro-rumored-to-get-iphone-17-pro-vapor-chamber-cooling-in-early-2027?utm_source=rss)
- - [Ads likely coming to Apple Maps in 2026](https://appleinsider.com/articles/25/10/26/ads-likely-coming-to-apple-maps-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [Analysis: Chinese robotaxi companies like Baidu and WeRide are outnumbering their US rivals with more projects progressing from testing to commercialization &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/251027/p16#a251027p16)
+ - [OnePlus 15 arrives in China, global launch ‘coming soon’](https://www.theverge.com/news/806926/oneplus-15-launch-china-specs-camera-battery)
+ - [Anniversary iPhone 20 could get a massively improved camera sensor](https://appleinsider.com/articles/25/10/27/anniversary-iphone-20-could-get-a-massively-improved-camera-sensor?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
