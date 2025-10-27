@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gears of War&#39;s Active Reload should be in more shooters](https://www.polygon.com/gears-of-wars-active-reload-mechanic-xbox/)
- - [This stylish found-footage film takes a dark, surprising look at possession](https://www.polygon.com/late-night-with-the-devil-halloween-what-to-stream-horror/)
- - [Today&#39;s Wordle clues, hints and answer for October 26 &lpar;#1590&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-26-2025/)<!-- GAME:END -->
+ - [Trump Takes Break From Destroying White House To Post AI-Generated Halo Meme](https://kotaku.com/donald-trump-halo-gamestop-console-wars-meme-ai-images-2000639237)
+ - [This 2025 HP Laptop Is Practically Free After Amazon’s Huge 73% Limited-Time Discount, $200 Worth of Accessories Included](https://kotaku.com/this-2025-hp-laptop-is-practically-free-after-amazons-huge-73-limited-time-discount-200-worth-of-accessories-included-2000639087)
+ - [Clair Obscur: Expedition 33 players have an intriguing theory for the upcoming DLC](https://www.polygon.com/clair-obscur-expedition-33-dlc-evil-esquie-clea-theory/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
