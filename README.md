@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Chinese robotaxi companies like Baidu and WeRide are outnumbering their US rivals with more projects progressing from testing to commercialization &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/251027/p16#a251027p16)
- - [OnePlus 15 arrives in China, global launch ‘coming soon’](https://www.theverge.com/news/806926/oneplus-15-launch-china-specs-camera-battery)
- - [Anniversary iPhone 20 could get a massively improved camera sensor](https://appleinsider.com/articles/25/10/27/anniversary-iphone-20-could-get-a-massively-improved-camera-sensor?utm_source=rss)<!-- TECH:END -->
+ - [Adobe Max 2025: all the latest creative tools and AI announcements](https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements)
+ - [An Apple Shortcuts masterclass](https://www.theverge.com/podcast/807712/apple-shortcuts-best-tips-meta-display-vergecast)
+ - [Samsung shows off its trifold phone in person](https://www.theverge.com/news/807868/samsung-trifold-phone-apec-summit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
