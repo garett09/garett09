@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trump Takes Break From Destroying White House To Post AI-Generated Halo Meme](https://kotaku.com/donald-trump-halo-gamestop-console-wars-meme-ai-images-2000639237)
- - [This 2025 HP Laptop Is Practically Free After Amazon’s Huge 73% Limited-Time Discount, $200 Worth of Accessories Included](https://kotaku.com/this-2025-hp-laptop-is-practically-free-after-amazons-huge-73-limited-time-discount-200-worth-of-accessories-included-2000639087)
- - [Clair Obscur: Expedition 33 players have an intriguing theory for the upcoming DLC](https://www.polygon.com/clair-obscur-expedition-33-dlc-evil-esquie-clea-theory/)<!-- GAME:END -->
+ - [Critical Role Campaign 4&#39;s most original character was inspired by Travis Willingham&#39;s hilarious habit](https://www.polygon.com/critical-role-campaign-4-bolaire-mask-explained/)
+ - [Lenovo’s 73% Off Gaming Laptop &lpar;40GB RAM, 2TB SSD&rpar; Shows It’s Willing to Sacrifice Margin for Market Share](https://kotaku.com/lenovos-73-off-gaming-laptop-40gb-ram-2tb-ssd-shows-its-willing-to-sacrifice-margin-for-market-share-2000639400)
+ - [Researchers discover that dehydrated mushrooms can function like biological RAM after they&#39;ve been zapped with electricity](https://www.pcgamer.com/hardware/researchers-train-mushrooms-to-function-like-biological-ram-with-90-percent-accuracy-but-thats-not-even-the-wildest-part/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
