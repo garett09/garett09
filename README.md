@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role Campaign 4&#39;s most original character was inspired by Travis Willingham&#39;s hilarious habit](https://www.polygon.com/critical-role-campaign-4-bolaire-mask-explained/)
- - [Lenovo’s 73% Off Gaming Laptop &lpar;40GB RAM, 2TB SSD&rpar; Shows It’s Willing to Sacrifice Margin for Market Share](https://kotaku.com/lenovos-73-off-gaming-laptop-40gb-ram-2tb-ssd-shows-its-willing-to-sacrifice-margin-for-market-share-2000639400)
- - [Researchers discover that dehydrated mushrooms can function like biological RAM after they&#39;ve been zapped with electricity](https://www.pcgamer.com/hardware/researchers-train-mushrooms-to-function-like-biological-ram-with-90-percent-accuracy-but-thats-not-even-the-wildest-part/)<!-- GAME:END -->
+ - [Ahead of Black Friday, HP Laptop with 17″ IPS Screen, i3 Chip and 1TB SSD Is Now 70% Off](https://kotaku.com/ahead-of-black-friday-hp-laptop-with-17-ips-screen-i3-chip-and-1tb-ssd-is-now-70-off-2000639695)
+ - [Star Wars: Visions season 3 picks up where The Acolyte left off](https://www.polygon.com/star-wars-visions-season-3-ronin-duel-payback/)
+ - [Turning the Moon into The Moon Man’s Playground with Snapchat for The Outer Worlds 2](https://news.xbox.com/en-us/2025/10/29/moon-mans-playground-with-snapchat-the-outer-worlds-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
