@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - 🚯 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 🚯 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
+ - 🚖 [Prank](http://9gag.com/gag/aZZoLE3)
+ - 🚯 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 🚯 [American nightmare](http://9gag.com/gag/aMVDYAM)<!-- MEMES:END -->
 
 --- 
 
