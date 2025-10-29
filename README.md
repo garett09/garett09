@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Max 2025: all the latest creative tools and AI announcements](https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements)
- - [An Apple Shortcuts masterclass](https://www.theverge.com/podcast/807712/apple-shortcuts-best-tips-meta-display-vergecast)
- - [Samsung shows off its trifold phone in person](https://www.theverge.com/news/807868/samsung-trifold-phone-apec-summit)<!-- TECH:END -->
+ - [Apple&amp;#8217;s OLED transition could come with a more expensive iPad Mini](https://www.theverge.com/news/808841/apple-oled-transition-macbook-air-ipad-mini)
+ - [OpenAI has an AGI problem — and Microsoft just made it worse](https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars)
+ - [Grammarly rebrands as Superhuman after its acquisitions of Superhuman Mail in June and Coda in December 2024; the standalone writing tool Grammarly still exists &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251029/p29#a251029p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
