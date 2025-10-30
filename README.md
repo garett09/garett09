@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ahead of Black Friday, HP Laptop with 17″ IPS Screen, i3 Chip and 1TB SSD Is Now 70% Off](https://kotaku.com/ahead-of-black-friday-hp-laptop-with-17-ips-screen-i3-chip-and-1tb-ssd-is-now-70-off-2000639695)
- - [Star Wars: Visions season 3 picks up where The Acolyte left off](https://www.polygon.com/star-wars-visions-season-3-ronin-duel-payback/)
- - [Turning the Moon into The Moon Man’s Playground with Snapchat for The Outer Worlds 2](https://news.xbox.com/en-us/2025/10/29/moon-mans-playground-with-snapchat-the-outer-worlds-2/)<!-- GAME:END -->
+ - [Animal Crossing: New Horizons is getting a huge Switch 2 upgrade and new DLC](https://www.polygon.com/animal-crossing-new-horizons-switch-2-edition-upgrade-dlc-zelda-splatoon-lego/)
+ - [Govee Year-Round LED Smart Lights Are Practically Free for Halloween, Light Up Holidays Without Overspending](https://kotaku.com/govee-year-round-led-smart-lights-are-practically-free-for-halloween-light-up-holidays-without-overspending-2000639108)
+ - [The Witcher season 4 rewrites the books to give Yennefer a bigger plotline](https://www.polygon.com/the-witcher-season-4-yennefer-books/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
