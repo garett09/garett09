@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s OLED transition could come with a more expensive iPad Mini](https://www.theverge.com/news/808841/apple-oled-transition-macbook-air-ipad-mini)
- - [OpenAI has an AGI problem — and Microsoft just made it worse](https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars)
- - [Grammarly rebrands as Superhuman after its acquisitions of Superhuman Mail in June and Coda in December 2024; the standalone writing tool Grammarly still exists &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251029/p29#a251029p29)<!-- TECH:END -->
+ - [UMG and Stability AI announce a partnership to develop music creation tools powered by &quot;responsibly&quot; trained AI &lpar;Marc Schneider/Billboard&rpar;](http://www.techmeme.com/251030/p24#a251030p24)
+ - [Figma’s new app lets you combine multiple AI models and editing tools](https://www.theverge.com/news/809909/figma-weave-weavy-acquisition-ai-design-canvas)
+ - [If You Hated ‘A House of Dynamite,’ Watch This Classic Nuclear Thriller Instead](https://www.wired.com/story/if-you-hated-a-house-of-dynamite-watch-fail-safe-instead/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
