@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prank](http://9gag.com/gag/aZZoLE3)
- - 🚯 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
- - 🚯 [American nightmare](http://9gag.com/gag/aMVDYAM)<!-- MEMES:END -->
+ - 🚖 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 🚯 [That&#39;s quite an explanation!!](http://9gag.com/gag/amoKvDj)
+ - 🚯 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 --- 
 
