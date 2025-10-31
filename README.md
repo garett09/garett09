@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Crossing: New Horizons is getting a huge Switch 2 upgrade and new DLC](https://www.polygon.com/animal-crossing-new-horizons-switch-2-edition-upgrade-dlc-zelda-splatoon-lego/)
- - [Govee Year-Round LED Smart Lights Are Practically Free for Halloween, Light Up Holidays Without Overspending](https://kotaku.com/govee-year-round-led-smart-lights-are-practically-free-for-halloween-light-up-holidays-without-overspending-2000639108)
- - [The Witcher season 4 rewrites the books to give Yennefer a bigger plotline](https://www.polygon.com/the-witcher-season-4-yennefer-books/)<!-- GAME:END -->
+ - [Nowhere on HP’s Site, This 17″ Laptop With 1TB SSD Gets Dumped at 73% Off on Amazon](https://kotaku.com/nowhere-on-hps-site-this-17-laptop-with-1tb-ssd-gets-dumped-at-73-off-on-amazon-2000640293)
+ - [&#39;On a scale of 0-10... the meeting was a 12&#39;: The US and China have agreed on a one-year trade truce after Trump&#39;s meeting with Xi Jinping, although Nvidia Blackwell wasn&#39;t on the table](https://www.pcgamer.com/hardware/on-a-scale-of-0-10-the-meeting-was-a-12-the-us-and-china-have-agreed-on-a-one-year-trade-truce-after-trumps-meeting-with-xi-jinping-although-nvidia-blackwell-wasnt-on-the-table/)
+ - [Pokémon Legends: Z-A made the six-Pokémon party completely irrelevant](https://www.polygon.com/pokemon-legends-z-a-plza-six-pokemon-party/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
