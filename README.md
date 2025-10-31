@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Simpler times](http://9gag.com/gag/a2v97be)
- - 🚯 [That&#39;s quite an explanation!!](http://9gag.com/gag/amoKvDj)
- - 🚯 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
+ - 🚖 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 🚯 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 🚯 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
 
 --- 
 
