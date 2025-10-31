@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UMG and Stability AI announce a partnership to develop music creation tools powered by &quot;responsibly&quot; trained AI &lpar;Marc Schneider/Billboard&rpar;](http://www.techmeme.com/251030/p24#a251030p24)
- - [Figma’s new app lets you combine multiple AI models and editing tools](https://www.theverge.com/news/809909/figma-weave-weavy-acquisition-ai-design-canvas)
- - [If You Hated ‘A House of Dynamite,’ Watch This Classic Nuclear Thriller Instead](https://www.wired.com/story/if-you-hated-a-house-of-dynamite-watch-fail-safe-instead/)<!-- TECH:END -->
+ - [Perplexity’s new AI tool aims to simplify patent research](https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool)
+ - [Getty and Perplexity sign a multi-year licensing agreement to let the AI startup display Getty&#39;s images across its search and discovery tools; GETY jumps 55%+ &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251031/p10#a251031p10)
+ - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
