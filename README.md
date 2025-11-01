@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity’s new AI tool aims to simplify patent research](https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool)
- - [Getty and Perplexity sign a multi-year licensing agreement to let the AI startup display Getty&#39;s images across its search and discovery tools; GETY jumps 55%+ &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251031/p10#a251031p10)
- - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)<!-- TECH:END -->
+ - [MediaTek says it is on track to generate $1B in revenue from its data center AI accelerator ASIC chips in 2026, after reporting Q3 revenue up 7.8% YoY to $4.64B &lpar;Reuters&rpar;](http://www.techmeme.com/251101/p10#a251101p10)
+ - [Man Jailed Over Trump Meme After Charlie Kirk&#39;s Shooting Has Finally Been Released](https://www.wired.com/story/man-jailed-over-trump-meme-after-charlie-kirks-shooting-has-finally-been-released/)
+ - [You wish your phone had the Oppo Find X9 Pro&amp;#8217;s battery life](https://www.theverge.com/tech/808067/oppo-find-x9-pro-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
