@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nowhere on HP’s Site, This 17″ Laptop With 1TB SSD Gets Dumped at 73% Off on Amazon](https://kotaku.com/nowhere-on-hps-site-this-17-laptop-with-1tb-ssd-gets-dumped-at-73-off-on-amazon-2000640293)
- - [&#39;On a scale of 0-10... the meeting was a 12&#39;: The US and China have agreed on a one-year trade truce after Trump&#39;s meeting with Xi Jinping, although Nvidia Blackwell wasn&#39;t on the table](https://www.pcgamer.com/hardware/on-a-scale-of-0-10-the-meeting-was-a-12-the-us-and-china-have-agreed-on-a-one-year-trade-truce-after-trumps-meeting-with-xi-jinping-although-nvidia-blackwell-wasnt-on-the-table/)
- - [Pokémon Legends: Z-A made the six-Pokémon party completely irrelevant](https://www.polygon.com/pokemon-legends-z-a-plza-six-pokemon-party/)<!-- GAME:END -->
+ - [Outer Worlds 2 makes being a villain fun](https://www.polygon.com/outer-worlds-2-best-way-to-play-supervillain/)
+ - [Hyperbeat review](https://www.pcgamer.com/games/rhythm/hyperbeat-review/)
+ - [This wildly ambitious Bully mod adds online multiplayer, racing minigames and even a rat-based deathmatch, but the modders&#39; demand for lunch money has fans worried about Rockstar&#39;s response](https://www.pcgamer.com/games/action/this-wildly-ambitious-bully-mod-adds-online-multiplayer-racing-minigames-and-even-a-rat-based-deathmatch-but-the-modders-demand-for-lunch-money-has-fans-worried-about-rockstars-response/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
