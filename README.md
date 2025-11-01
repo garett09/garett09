@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 🚯 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 🚯 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
+ - 🚖 [This jelly cake is a masterpiece](http://9gag.com/gag/apRz9M5)
+ - 🚯 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
+ - 🚯 [Using a robot for Halloween](http://9gag.com/gag/avy4ydZ)<!-- MEMES:END -->
 
 --- 
 
