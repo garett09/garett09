@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MediaTek says it is on track to generate $1B in revenue from its data center AI accelerator ASIC chips in 2026, after reporting Q3 revenue up 7.8% YoY to $4.64B &lpar;Reuters&rpar;](http://www.techmeme.com/251101/p10#a251101p10)
- - [Man Jailed Over Trump Meme After Charlie Kirk&#39;s Shooting Has Finally Been Released](https://www.wired.com/story/man-jailed-over-trump-meme-after-charlie-kirks-shooting-has-finally-been-released/)
- - [You wish your phone had the Oppo Find X9 Pro&amp;#8217;s battery life](https://www.theverge.com/tech/808067/oppo-find-x9-pro-review)<!-- TECH:END -->
+ - [The Best Hybrid Mattresses for Couples, Back Pain, and More &lpar;2025&rpar;](https://www.wired.com/gallery/best-hybrid-mattress/)
+ - [Can the Galaxy S26’s custom chip finally make Exynos great again?](https://www.androidauthority.com/galaxy-s26-exynos-rumors-3611680/)
+ - [The great tariff shakedown](https://www.theverge.com/column/811549/trump-tariff-shakedown)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
