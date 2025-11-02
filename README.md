@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Outer Worlds 2 makes being a villain fun](https://www.polygon.com/outer-worlds-2-best-way-to-play-supervillain/)
- - [Hyperbeat review](https://www.pcgamer.com/games/rhythm/hyperbeat-review/)
- - [This wildly ambitious Bully mod adds online multiplayer, racing minigames and even a rat-based deathmatch, but the modders&#39; demand for lunch money has fans worried about Rockstar&#39;s response](https://www.pcgamer.com/games/action/this-wildly-ambitious-bully-mod-adds-online-multiplayer-racing-minigames-and-even-a-rat-based-deathmatch-but-the-modders-demand-for-lunch-money-has-fans-worried-about-rockstars-response/)<!-- GAME:END -->
+ - [The GOTY 2025 race has remained surprisingly static for six months](https://www.polygon.com/goty-game-of-the-year-frontrunner-six-months-later/)
+ - [That VR Thief game will slip from the shadows in December, and I&#39;m beginning to think it might be good, actually](https://www.pcgamer.com/games/that-vr-thief-game-will-slip-from-the-shadows-in-december-and-im-beginning-to-think-it-might-be-good-actually/)
+ - [Remedy is &#39;not satisfied&#39; with its Q3 results after FBC: Firebreak&#39;s flop, and has &#39;moved development resources&#39; to other games in production](https://www.pcgamer.com/games/fps/remedy-is-not-satisfied-with-its-q3-results-after-fbc-firebreaks-flop-and-has-moved-development-resources-to-other-games-in-production/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
