@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This jelly cake is a masterpiece](http://9gag.com/gag/apRz9M5)
- - 🚯 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
- - 🚯 [Using a robot for Halloween](http://9gag.com/gag/avy4ydZ)<!-- MEMES:END -->
+ - 🚖 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 🚯 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 🚯 [Those are not rookie numbers](http://9gag.com/gag/a87QAKY)<!-- MEMES:END -->
 
 --- 
 
