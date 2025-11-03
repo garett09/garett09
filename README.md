@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The GOTY 2025 race has remained surprisingly static for six months](https://www.polygon.com/goty-game-of-the-year-frontrunner-six-months-later/)
- - [That VR Thief game will slip from the shadows in December, and I&#39;m beginning to think it might be good, actually](https://www.pcgamer.com/games/that-vr-thief-game-will-slip-from-the-shadows-in-december-and-im-beginning-to-think-it-might-be-good-actually/)
- - [Remedy is &#39;not satisfied&#39; with its Q3 results after FBC: Firebreak&#39;s flop, and has &#39;moved development resources&#39; to other games in production](https://www.pcgamer.com/games/fps/remedy-is-not-satisfied-with-its-q3-results-after-fbc-firebreaks-flop-and-has-moved-development-resources-to-other-games-in-production/)<!-- GAME:END -->
+ - [Xbox Controller Going for Pennies as Microsoft Kicks Off Black Friday Way Early](https://kotaku.com/xbox-controller-going-for-pennies-as-microsoft-kicks-off-black-friday-way-early-2000640742)
+ - [Mini PC &lpar;16GB RAM, 512GB SSD&rpar; Hits New Record Low on Amazon, Now 4x Cheaper Than Mac Mini](https://kotaku.com/mini-pc-16gb-ram-512gb-ssd-hits-new-record-low-on-amazon-now-4x-cheaper-than-mac-mini-2000640650)
+ - [“It Happens on PS5” campaign captures the unexpected and unforgettable moments PS5 has to offer](https://blog.playstation.com/2025/11/03/it-happens-on-ps5-campaign-captures-the-unexpected-and-unforgettable-moments-ps5-has-to-offer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
