@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 🚖 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
  - 🚯 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 🚯 [Those are not rookie numbers](http://9gag.com/gag/a87QAKY)<!-- MEMES:END -->
+ - 🚯 [What are they doing with these locusts? A grasshopper farm in China. A typical farm produces 100s of thousands of grasshoppers per year.](http://9gag.com/gag/azxoPEb)<!-- MEMES:END -->
 
 --- 
 
