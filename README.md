@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Controller Going for Pennies as Microsoft Kicks Off Black Friday Way Early](https://kotaku.com/xbox-controller-going-for-pennies-as-microsoft-kicks-off-black-friday-way-early-2000640742)
- - [Mini PC &lpar;16GB RAM, 512GB SSD&rpar; Hits New Record Low on Amazon, Now 4x Cheaper Than Mac Mini](https://kotaku.com/mini-pc-16gb-ram-512gb-ssd-hits-new-record-low-on-amazon-now-4x-cheaper-than-mac-mini-2000640650)
- - [“It Happens on PS5” campaign captures the unexpected and unforgettable moments PS5 has to offer](https://blog.playstation.com/2025/11/03/it-happens-on-ps5-campaign-captures-the-unexpected-and-unforgettable-moments-ps5-has-to-offer/)<!-- GAME:END -->
+ - [Nintendo’s Sold Over 10 Million Switch 2s, Twice As Fast As The PS5](https://kotaku.com/switch-2-sales-nintendo-10-million-mario-kart-world-2000641025)
+ - [Windows &#39;update and shut down&#39; reboot glitch finally fixed, saving tiny gaming laptop batteries everywhere](https://www.pcgamer.com/hardware/windows-update-and-shut-down-reboot-glitch-finally-fixed-saving-tiny-gaming-laptop-batteries-everywhere/)
+ - [Amazon Clears Out This 20,000mAh 87W 3-Port Power Bank, Now Selling for Pennies](https://kotaku.com/amazon-clears-out-this-20000mah-87w-3-port-power-bank-now-selling-for-pennies-2000641031)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
