@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
- - [How Frankenstein’s creature designer found a new look for an iconic monster](https://www.theverge.com/entertainment/811694/netflix-frankenstein-creature-design-interview-mike-hill)
- - [Inside Camera in iOS 26 -- The essentials of iPhone photography](https://appleinsider.com/inside/ios-26/tips/inside-camera-in-ios-26----the-essentials-of-iphone-photography?utm_source=rss)<!-- TECH:END -->
+ - [Tech companies don’t care that students use their AI agents to cheat](https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students)
+ - [Google’s Search Live may soon learn to respect boundaries](https://www.androidauthority.com/google-search-live-stop-listening-3612767/)
+ - [Gemini Deep Research could soon get Drive and Gmail superpowers &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-deep-research-sources-drive-gmail-apk-teardown-3612745/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
