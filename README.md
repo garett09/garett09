@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 🚯 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 🚯 [What are they doing with these locusts? A grasshopper farm in China. A typical farm produces 100s of thousands of grasshoppers per year.](http://9gag.com/gag/azxoPEb)<!-- MEMES:END -->
+ - 🚖 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - 🚯 [Is this the worst browngrading we\u2019ve seen so far?](http://9gag.com/gag/aO8AZQ2)
+ - 🚯 [Booked the cheapest hotel he could find in Frankfurt, Germany.](http://9gag.com/gag/ajPGOpw)<!-- MEMES:END -->
 
 --- 
 
