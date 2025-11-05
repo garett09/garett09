@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech companies don’t care that students use their AI agents to cheat](https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students)
- - [Google’s Search Live may soon learn to respect boundaries](https://www.androidauthority.com/google-search-live-stop-listening-3612767/)
- - [Gemini Deep Research could soon get Drive and Gmail superpowers &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-deep-research-sources-drive-gmail-apk-teardown-3612745/)<!-- TECH:END -->
+ - [Letter: the MPA sent a cease-and-desist to Meta over Instagram&#39;s use of PG-13 for teen content restrictions, calling it &quot;literally false and highly misleading&quot; &lpar;Isabella Simonetti/Wall Street Journal&rpar;](http://www.techmeme.com/251105/p28#a251105p28)
+ - [Zohran Mamdani won because he knew when to be online — and when not to](https://www.theverge.com/policy/814065/zohran-mamdani-nyc-mayor-race-victory-online)
+ - [Apple Vision Pro with M5 review: a chip can&#39;t fix developer relations](https://appleinsider.com/articles/25/11/05/apple-vision-pro-with-m5-review-a-chip-cant-fix-developer-relations?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
