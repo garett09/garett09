@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
- - 🚯 [Is this the worst browngrading we\u2019ve seen so far?](http://9gag.com/gag/aO8AZQ2)
- - 🚯 [Booked the cheapest hotel he could find in Frankfurt, Germany.](http://9gag.com/gag/ajPGOpw)<!-- MEMES:END -->
+ - 🚖 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 🚯 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
+ - 🚯 [Just a hug.](http://9gag.com/gag/a6Z4nKN)<!-- MEMES:END -->
 
 --- 
 
