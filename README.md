@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 🚯 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
- - 🚯 [Just a hug.](http://9gag.com/gag/a6Z4nKN)<!-- MEMES:END -->
+ - 🚖 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
+ - 🚯 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 🚯 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)<!-- MEMES:END -->
 
 --- 
 
