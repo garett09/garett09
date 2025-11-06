@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: the MPA sent a cease-and-desist to Meta over Instagram&#39;s use of PG-13 for teen content restrictions, calling it &quot;literally false and highly misleading&quot; &lpar;Isabella Simonetti/Wall Street Journal&rpar;](http://www.techmeme.com/251105/p28#a251105p28)
- - [Zohran Mamdani won because he knew when to be online — and when not to](https://www.theverge.com/policy/814065/zohran-mamdani-nyc-mayor-race-victory-online)
- - [Apple Vision Pro with M5 review: a chip can&#39;t fix developer relations](https://appleinsider.com/articles/25/11/05/apple-vision-pro-with-m5-review-a-chip-cant-fix-developer-relations?utm_source=rss)<!-- TECH:END -->
+ - [Foursquare&amp;#8217;s founder launches a new app that talks to you about your neighborhood](https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates)
+ - [Inception, which is building diffusion-based AI models for code and text, raised a $50M seed led by Menlo and releases an update to its Mercury coding model &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251106/p20#a251106p20)
+ - [OnePlus 15’s massive battery and fast charging are going global](https://www.androidauthority.com/oneplus-15-global-battery-charging-specs-confirmed-3613576/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
