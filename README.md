@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo’s Sold Over 10 Million Switch 2s, Twice As Fast As The PS5](https://kotaku.com/switch-2-sales-nintendo-10-million-mario-kart-world-2000641025)
- - [Windows &#39;update and shut down&#39; reboot glitch finally fixed, saving tiny gaming laptop batteries everywhere](https://www.pcgamer.com/hardware/windows-update-and-shut-down-reboot-glitch-finally-fixed-saving-tiny-gaming-laptop-batteries-everywhere/)
- - [Amazon Clears Out This 20,000mAh 87W 3-Port Power Bank, Now Selling for Pennies](https://kotaku.com/amazon-clears-out-this-20000mah-87w-3-port-power-bank-now-selling-for-pennies-2000641031)<!-- GAME:END -->
+ - [Peak&#39;s new update added a ridiculously powerful enemy which was swiftly nerfed after being labelled &#39;too much of a constant run-ender&#39;](https://www.pcgamer.com/games/sim/peaks-new-update-added-a-ridiculously-powerful-enemy-which-was-swiftly-nerfed-after-being-labelled-too-much-of-a-constant-run-ender/)
+ - [When does Predator: Badlands take place in the Predator/Alien timeline?](https://www.polygon.com/predator-badlands-timeline-explained/)
+ - [Great, now even malware is using LLMs to rewrite its code, says Google, as it documents new phase of &#39;AI abuse&#39;](https://www.pcgamer.com/software/ai/great-now-even-malware-is-using-llms-to-rewrite-its-code-says-google-as-it-documents-new-phase-of-ai-abuse/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
