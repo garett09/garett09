@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Peak&#39;s new update added a ridiculously powerful enemy which was swiftly nerfed after being labelled &#39;too much of a constant run-ender&#39;](https://www.pcgamer.com/games/sim/peaks-new-update-added-a-ridiculously-powerful-enemy-which-was-swiftly-nerfed-after-being-labelled-too-much-of-a-constant-run-ender/)
- - [When does Predator: Badlands take place in the Predator/Alien timeline?](https://www.polygon.com/predator-badlands-timeline-explained/)
- - [Great, now even malware is using LLMs to rewrite its code, says Google, as it documents new phase of &#39;AI abuse&#39;](https://www.pcgamer.com/software/ai/great-now-even-malware-is-using-llms-to-rewrite-its-code-says-google-as-it-documents-new-phase-of-ai-abuse/)<!-- GAME:END -->
+ - [PS Plus Subscribers Can Console Themselves With The Likely Return Of GTA V](https://kotaku.com/grand-theft-auto-6-gta6-rockstar-psplus-playstation-2000642048)
+ - [Star Wars Advent Calendar Drops 40%, LEGO Rushes to Clear Stock Before December](https://kotaku.com/star-wars-advent-calendar-drops-40-lego-rushes-to-clear-stock-before-december-2000642034)
+ - [OpenAI&#39;s Sam Altman is not looking for government rescue if things go bad: &#39;Taxpayers should not bail out companies that make bad business decisions&#39;](https://www.pcgamer.com/software/ai/openais-sam-altman-is-not-looking-for-government-rescue-if-things-go-bad-taxpayers-should-not-bail-out-companies-that-make-bad-business-decisions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
