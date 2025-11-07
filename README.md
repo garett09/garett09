@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
- - 🚯 [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - 🚯 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)<!-- MEMES:END -->
+ - 🚖 [From what I&#39;ve heard this guy told them to make posts on social media promoting Thailand. The `prize` to do so was a private dinner with this guy and more favorable reviews in the this contest. Fatima didn&#39;t comply after consulting her mgt back home. So, this happened.](http://9gag.com/gag/aO8A1jy)
+ - 🚯 [And one for the road...](http://9gag.com/gag/aPAzX1g)
+ - 🚯 [Ay el amour](http://9gag.com/gag/aoyA8DA)<!-- MEMES:END -->
 
 --- 
 
