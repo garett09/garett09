@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foursquare&amp;#8217;s founder launches a new app that talks to you about your neighborhood](https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates)
- - [Inception, which is building diffusion-based AI models for code and text, raised a $50M seed led by Menlo and releases an update to its Mercury coding model &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251106/p20#a251106p20)
- - [OnePlus 15’s massive battery and fast charging are going global](https://www.androidauthority.com/oneplus-15-global-battery-charging-specs-confirmed-3613576/)<!-- TECH:END -->
+ - [Bug or feature? YouTube Shorts bug removes all buttons for a super clean experience](https://www.androidauthority.com/youtube-shorts-bug-missing-ui-buttons-3613926/)
+ - [Apple&#39;s long game will result in a safe, secure, and ethical AI ecosystem](https://appleinsider.com/articles/25/11/07/apples-long-game-will-result-in-a-safe-secure-and-ethical-ai-ecosystem?utm_source=rss)
+ - [6 Best Laptops for College Students &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-laptops-for-college-students/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
