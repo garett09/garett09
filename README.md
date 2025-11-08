@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS Plus Subscribers Can Console Themselves With The Likely Return Of GTA V](https://kotaku.com/grand-theft-auto-6-gta6-rockstar-psplus-playstation-2000642048)
- - [Star Wars Advent Calendar Drops 40%, LEGO Rushes to Clear Stock Before December](https://kotaku.com/star-wars-advent-calendar-drops-40-lego-rushes-to-clear-stock-before-december-2000642034)
- - [OpenAI&#39;s Sam Altman is not looking for government rescue if things go bad: &#39;Taxpayers should not bail out companies that make bad business decisions&#39;](https://www.pcgamer.com/software/ai/openais-sam-altman-is-not-looking-for-government-rescue-if-things-go-bad-taxpayers-should-not-bail-out-companies-that-make-bad-business-decisions/)<!-- GAME:END -->
+ - [Predator: Badlands is actually a secret Alien movie &lpar;with no Xenomorphs&rpar;](https://www.polygon.com/predator-badlands-alien-crossover-synths-weyland-yutani/)
+ - [The roguelike&#39;s unstoppable conquest of gaming continues with Age of Empires 4&#39;s latest DLC, and players declare the invasion successful: &#39;It may be my new favourite way to play&#39;](https://www.pcgamer.com/games/strategy/the-roguelikes-unstoppable-conquest-of-gaming-continues-with-age-of-empires-4s-latest-dlc-and-players-declare-the-invasion-successful-it-may-be-my-new-favourite-way-to-play/)
+ - [How Hazbin Hotel&#39;s hero and villain mirror each other in season 2](https://www.polygon.com/video/hazbin-hotel-season-2-vox-charlie-villain-themes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
