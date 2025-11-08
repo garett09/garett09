@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From what I&#39;ve heard this guy told them to make posts on social media promoting Thailand. The `prize` to do so was a private dinner with this guy and more favorable reviews in the this contest. Fatima didn&#39;t comply after consulting her mgt back home. So, this happened.](http://9gag.com/gag/aO8A1jy)
- - 🚯 [And one for the road...](http://9gag.com/gag/aPAzX1g)
- - 🚯 [Ay el amour](http://9gag.com/gag/aoyA8DA)<!-- MEMES:END -->
+ - 🚖 [Both beauty and beast](http://9gag.com/gag/awyPe0B)
+ - 🚯 [Healthy masculinity will save our world](http://9gag.com/gag/aO8Ap0E)
+ - 🚯 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)<!-- MEMES:END -->
 
 --- 
 
