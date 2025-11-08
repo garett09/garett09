@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bug or feature? YouTube Shorts bug removes all buttons for a super clean experience](https://www.androidauthority.com/youtube-shorts-bug-missing-ui-buttons-3613926/)
- - [Apple&#39;s long game will result in a safe, secure, and ethical AI ecosystem](https://appleinsider.com/articles/25/11/07/apples-long-game-will-result-in-a-safe-secure-and-ethical-ai-ecosystem?utm_source=rss)
- - [6 Best Laptops for College Students &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-laptops-for-college-students/)<!-- TECH:END -->
+ - [Android 16 fixes a big privacy flaw in its ‘approximate’ location setting](https://www.androidauthority.com/android-16-density-based-coarse-locations-3614048/)
+ - [Stop chatting, start doing: 5 AI tools that aren’t just another ChatGPT](https://www.androidauthority.com/ai-tools-not-chatgpt-3612782/)
+ - [The endearing movie that affirms creativity as a human act](https://www.theverge.com/entertainment/816399/peter-hujars-day-ira-sachs-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
