@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 fixes a big privacy flaw in its ‘approximate’ location setting](https://www.androidauthority.com/android-16-density-based-coarse-locations-3614048/)
- - [Stop chatting, start doing: 5 AI tools that aren’t just another ChatGPT](https://www.androidauthority.com/ai-tools-not-chatgpt-3612782/)
- - [The endearing movie that affirms creativity as a human act](https://www.theverge.com/entertainment/816399/peter-hujars-day-ira-sachs-interview)<!-- TECH:END -->
+ - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
+ - [The algorithm failed music](https://www.theverge.com/column/815744/music-recommendation-algorithms)
+ - [Ikea just took over your smart home](https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
