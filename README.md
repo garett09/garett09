@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Predator: Badlands is actually a secret Alien movie &lpar;with no Xenomorphs&rpar;](https://www.polygon.com/predator-badlands-alien-crossover-synths-weyland-yutani/)
- - [The roguelike&#39;s unstoppable conquest of gaming continues with Age of Empires 4&#39;s latest DLC, and players declare the invasion successful: &#39;It may be my new favourite way to play&#39;](https://www.pcgamer.com/games/strategy/the-roguelikes-unstoppable-conquest-of-gaming-continues-with-age-of-empires-4s-latest-dlc-and-players-declare-the-invasion-successful-it-may-be-my-new-favourite-way-to-play/)
- - [How Hazbin Hotel&#39;s hero and villain mirror each other in season 2](https://www.polygon.com/video/hazbin-hotel-season-2-vox-charlie-villain-themes/)<!-- GAME:END -->
+ - [The Outer Worlds 2&#39;s best feature is the one Obsidian never added](https://www.polygon.com/the-outer-worlds-2-best-feature/)
+ - [Terminator 2D: No Fate has been pushed back a second time, as its publisher scrambles to assemble physical copies after tariff-induced shipping woes: &#39;We are sincerely sorry for the repeated delays&#39;](https://www.pcgamer.com/games/action/terminator-2d-no-fate-has-been-pushed-back-a-second-time-as-its-publisher-scrambles-to-assemble-physical-copies-after-tariff-induced-shipping-woes-we-are-sincerely-sorry-for-the-repeated-delays/)
+ - [Skip the MacBook, HP 15-Inch Windows 11 Laptop Dropped 77% and It’s a No-Brainer](https://kotaku.com/skip-the-macbook-hp-15-inch-windows-11-laptop-dropped-77-and-its-a-no-brainer-2000642291)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
