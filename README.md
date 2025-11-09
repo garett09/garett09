@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Both beauty and beast](http://9gag.com/gag/awyPe0B)
- - 🚯 [Healthy masculinity will save our world](http://9gag.com/gag/aO8Ap0E)
- - 🚯 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)<!-- MEMES:END -->
+ - 🚖 [After 3 years of saving, I finally became a homeowner.](https://www.reddit.com/r/funny/comments/1osj43f/after_3_years_of_saving_i_finally_became_a/)
+ - 🚯 [Still better than no sex](http://9gag.com/gag/a1mBOGR)
+ - 🚯 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 
 --- 
 
