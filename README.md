@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After 3 years of saving, I finally became a homeowner.](https://www.reddit.com/r/funny/comments/1osj43f/after_3_years_of_saving_i_finally_became_a/)
- - 🚯 [Still better than no sex](http://9gag.com/gag/a1mBOGR)
- - 🚯 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
+ - 🚖 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
+ - 🚯 [India number one](http://9gag.com/gag/adBrdzB)
+ - 🚯 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
 
 --- 
 
