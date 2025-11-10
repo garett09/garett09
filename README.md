@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
- - [The algorithm failed music](https://www.theverge.com/column/815744/music-recommendation-algorithms)
- - [Ikea just took over your smart home](https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home)<!-- TECH:END -->
+ - [Scribe, which helps enterprises identify where AI and automation investments will yield genuine returns, raised a $75M Series C at a $1.3B post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251110/p17#a251110p17)
+ - [Gamma, which uses AI to help create presentations, social media posts, websites, and more, raised $68M at a $2.1B valuation and reports 600K+ paying users &lpar;Niko Gallogly/New York Times&rpar;](http://www.techmeme.com/251110/p16#a251110p16)
+ - [Instacart reports Q3 revenue up 10% YoY to $939M, above est., orders up 14% YoY to 83.4M, above 82.9M est., GTV up 10% to $9.1B, and plans a $1.5B share buyback &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251110/p15#a251110p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
