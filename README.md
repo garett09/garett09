@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
- - 🚯 [India number one](http://9gag.com/gag/adBrdzB)
- - 🚯 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
+ - 🚖 [Married Life Summed Up ?](http://9gag.com/gag/amoKKW9)
+ - 🚯 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - 🚯 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
 
 --- 
 
