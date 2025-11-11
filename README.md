@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scribe, which helps enterprises identify where AI and automation investments will yield genuine returns, raised a $75M Series C at a $1.3B post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251110/p17#a251110p17)
- - [Gamma, which uses AI to help create presentations, social media posts, websites, and more, raised $68M at a $2.1B valuation and reports 600K+ paying users &lpar;Niko Gallogly/New York Times&rpar;](http://www.techmeme.com/251110/p16#a251110p16)
- - [Instacart reports Q3 revenue up 10% YoY to $939M, above est., orders up 14% YoY to 83.4M, above 82.9M est., GTV up 10% to $9.1B, and plans a $1.5B share buyback &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251110/p15#a251110p15)<!-- TECH:END -->
+ - [iPhone 18 Pro may lose the two-tone look in 2026](https://appleinsider.com/articles/25/11/11/iphone-18-pro-may-lose-the-two-tone-look-in-2026?utm_source=rss)
+ - [The Best Gifts for Book Lovers &lpar;2025&rpar;: From E-Readers to Boxed Sets](https://www.wired.com/story/gifts-for-book-lovers/)
+ - [The next iPhone Air has reportedly been delayed](https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
