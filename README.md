@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro may lose the two-tone look in 2026](https://appleinsider.com/articles/25/11/11/iphone-18-pro-may-lose-the-two-tone-look-in-2026?utm_source=rss)
- - [The Best Gifts for Book Lovers &lpar;2025&rpar;: From E-Readers to Boxed Sets](https://www.wired.com/story/gifts-for-book-lovers/)
- - [The next iPhone Air has reportedly been delayed](https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed)<!-- TECH:END -->
+ - [The Galaxy S26 could have a bigger speed advantage than you thought](https://www.androidauthority.com/galaxy-s26-ram-speed-upgrade-3614981/)
+ - [Apple Intelligence website mistake wipes away M1 Mac support](https://appleinsider.com/articles/25/11/12/apple-intelligence-website-mistake-wipes-away-m1-mac-support?utm_source=rss)
+ - [Best Home Depot Black Friday Deals for 2025](https://www.wired.com/story/black-friday-home-depot-deals-2025-update/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
