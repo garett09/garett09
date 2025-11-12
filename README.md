@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [HP 17″ AMD Ryzen 5 Laptop &lpar;32GB RAM, 2TB SSD&rpar; Is Over 70% Off, Now Part of the Brand’s Best-Selling Clearance Lineup](https://kotaku.com/hp-17-amd-ryzen-5-laptop-32gb-ram-2tb-ssd-is-over-70-off-now-part-of-the-brands-best-selling-clearance-lineup-2000642456)
- - [CD Projekt struggled to sell partners on The Witcher 3 because its gameplay was &#39;pretty standard&#39; and they didn&#39;t believe it could combine storytelling with a cinematic open world](https://www.pcgamer.com/games/the-witcher/cd-projekt-struggled-to-sell-partners-on-the-witcher-3-because-its-gameplay-was-pretty-standard-and-they-didnt-believe-it-could-combine-storytelling-with-a-cinematic-open-world/)
- - [CD Projekt joint CEO Adam Badowski made everyone&#39;s life miserable when he pointed out if the The Witcher 3 had water, they had to add swimming and create completely new underwater locations](https://www.pcgamer.com/games/the-witcher/cd-projekt-joint-ceo-adam-badowski-made-everyones-life-miserable-when-he-pointed-out-if-the-the-witcher-3-had-water-they-had-to-add-swimming-and-create-completely-new-underwater-locations/)<!-- GAME:END -->
+ - [LG Quietly Drops Its 27″ 280Hz OLED Gaming Monitor, Now Hitting Record Low for Early Black Friday](https://kotaku.com/lg-quietly-drops-its-27-280hz-oled-gaming-monitor-now-hitting-record-low-for-early-black-friday-2000643420)
+ - [This Minecraft mod lets you command Steve to do whatever you want, which means no more strip mining or wood gathering ever again](https://www.pcgamer.com/games/survival-crafting/this-minecraft-mod-lets-you-command-steve-to-do-whatever-you-want-which-means-no-more-strip-mining-or-wood-gathering-ever-again/)
+ - [InKonbini, the first-person Japanese convenience store sim, changed my perspective on customer service, and you can join me stacking shelves in the free demo](https://www.pcgamer.com/games/inkonbini-places-you-at-the-core-of-japanese-daily-life-and-changed-my-perspective-on-customer-service/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
