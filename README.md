@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Married Life Summed Up ?](http://9gag.com/gag/amoKKW9)
- - 🚯 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 🚯 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
+ - 🚖 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
+ - 🚯 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
+ - 🚯 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
 
 --- 
 
