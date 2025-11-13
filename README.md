@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - 🚯 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
- - 🚯 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
+ - 🚖 [The missing plot](http://9gag.com/gag/aAyqAro)
+ - 🚯 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 🚯 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
 
 --- 
 
