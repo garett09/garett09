@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LG Quietly Drops Its 27″ 280Hz OLED Gaming Monitor, Now Hitting Record Low for Early Black Friday](https://kotaku.com/lg-quietly-drops-its-27-280hz-oled-gaming-monitor-now-hitting-record-low-for-early-black-friday-2000643420)
- - [This Minecraft mod lets you command Steve to do whatever you want, which means no more strip mining or wood gathering ever again](https://www.pcgamer.com/games/survival-crafting/this-minecraft-mod-lets-you-command-steve-to-do-whatever-you-want-which-means-no-more-strip-mining-or-wood-gathering-ever-again/)
- - [InKonbini, the first-person Japanese convenience store sim, changed my perspective on customer service, and you can join me stacking shelves in the free demo](https://www.pcgamer.com/games/inkonbini-places-you-at-the-core-of-japanese-daily-life-and-changed-my-perspective-on-customer-service/)<!-- GAME:END -->
+ - [Hideo Kojima And Disney Plus Reveal Death Stranding Isolations](https://kotaku.com/hideo-kojima-death-stranding-isolations-disney-plus-2000643968)
+ - [Someone has to challenge Meta for the VR throne and I really hope Valve has the guts to with its new Steam Frame](https://www.pcgamer.com/hardware/vr-hardware/someone-has-to-challenge-meta-for-the-vr-throne-and-i-really-hope-valve-has-the-guts-to-with-its-new-steam-frame/)
+ - [Funko Pop Practically Gives Away Pokémon Advent Calendar to Clear Out Remaining Stock Before Black Friday](https://kotaku.com/funko-pop-practically-gives-away-pokemon-advent-calendar-to-clear-out-remaining-stock-before-black-friday-2000643653)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
