@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideo Kojima And Disney Plus Reveal Death Stranding Isolations](https://kotaku.com/hideo-kojima-death-stranding-isolations-disney-plus-2000643968)
- - [Someone has to challenge Meta for the VR throne and I really hope Valve has the guts to with its new Steam Frame](https://www.pcgamer.com/hardware/vr-hardware/someone-has-to-challenge-meta-for-the-vr-throne-and-i-really-hope-valve-has-the-guts-to-with-its-new-steam-frame/)
- - [Funko Pop Practically Gives Away Pokémon Advent Calendar to Clear Out Remaining Stock Before Black Friday](https://kotaku.com/funko-pop-practically-gives-away-pokemon-advent-calendar-to-clear-out-remaining-stock-before-black-friday-2000643653)<!-- GAME:END -->
+ - [Apple Watch SE 3 Drops Far Lower Than Amazon Usually Goes During Early Black Friday, Even Though It’s Newly Released](https://kotaku.com/the-3rd-gen-apple-watch-se-dropped-to-as-low-as-200-ahead-of-black-friday-2000644155)
+ - [How to complete Cold Storage in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-cold-storage-j-kozma-ventures-container-location/)
+ - [Wuthering Waves Version 2.8 introduces the Chronorift Metropolis](https://blog.playstation.com/2025/11/14/wuthering-waves-version-2-8-introduces-the-chronorift-metropolis/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
