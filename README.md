@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is trying to get permission to appeal UK $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/apple-is-trying-to-get-permission-to-appeal-uk-2-billion-app-store-ruling?utm_source=rss)
- - [Source: French authorities fully lifted the travel ban on Telegram CEO Pavel Durov and removed a requirement for regular police check-ins as of November 10 &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/251113/p22#a251113p22)
- - [Europol, Eurojust, and others dismantle 1K+ servers linked to Rhadamanthys infostealer, VenomRAT, and Elysium botnet, as part of the ongoing Operation Endgame &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251113/p21#a251113p21)<!-- TECH:END -->
+ - [Save on Arzopa’s award-winning D14 digital photo frame and bring your memories to life](https://www.androidauthority.com/arzopa-d14-digital-photo-frame-3615152/)
+ - [Baidu stock fell as much as 9.8% in Hong Kong on Friday after its latest AI model Ernie 5.0 fails to impress investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p12#a251114p12)
+ - [Razer Cobra HyperSpeed: A Basic Gaming Mouse With All You Need](https://www.wired.com/review/razer-cobra-hyperspeed/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
