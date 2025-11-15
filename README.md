@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Watch SE 3 Drops Far Lower Than Amazon Usually Goes During Early Black Friday, Even Though It’s Newly Released](https://kotaku.com/the-3rd-gen-apple-watch-se-dropped-to-as-low-as-200-ahead-of-black-friday-2000644155)
- - [How to complete Cold Storage in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-cold-storage-j-kozma-ventures-container-location/)
- - [Wuthering Waves Version 2.8 introduces the Chronorift Metropolis](https://blog.playstation.com/2025/11/14/wuthering-waves-version-2-8-introduces-the-chronorift-metropolis/)<!-- GAME:END -->
+ - [This Dual-Port Fast Charger Pack Sells for Peanuts, Amazon Prices Each Unit Five Times Lower Than Apple](https://kotaku.com/this-dual-port-fast-charger-pack-sells-for-peanuts-amazon-prices-each-unit-five-times-lower-than-apple-2000644466)
+ - [Will Microsoft truly support Xbox&#39;s existential threat, Steam Machine?](https://www.polygon.com/microsoft-xbox-pc-gaming-steam-machine-support-deck-playable/)
+ - [One of Elden Ring&#39;s best overhaul mods just received a massive update that adds fully functional multiplayer](https://www.pcgamer.com/games/rpg/one-of-elden-rings-best-overhaul-mods-just-received-a-massive-update-that-adds-fully-functional-multiplayer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
