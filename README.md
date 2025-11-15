@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save on Arzopa’s award-winning D14 digital photo frame and bring your memories to life](https://www.androidauthority.com/arzopa-d14-digital-photo-frame-3615152/)
- - [Baidu stock fell as much as 9.8% in Hong Kong on Friday after its latest AI model Ernie 5.0 fails to impress investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p12#a251114p12)
- - [Razer Cobra HyperSpeed: A Basic Gaming Mouse With All You Need](https://www.wired.com/review/razer-cobra-hyperspeed/)<!-- TECH:END -->
+ - [11 Best Natural Deodorants I Tested for Daily Use &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
+ - [Multi-day battery life is finally here — and Apple and Samsung missed the memo](https://www.androidauthority.com/oneplus-15-vs-iphone-air-battery-life-3615633/)
+ - [Google is preparing big Android 17 gaming upgrades for fans of real controllers](https://www.androidauthority.com/android-17-gaming-features-rumor-3616027/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
