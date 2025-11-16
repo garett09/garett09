@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
- - 🚯 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 🚯 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)<!-- MEMES:END -->
+ - 🚖 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 🚯 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - 🚯 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 --- 
 
