@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Natural Deodorants I Tested for Daily Use &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
- - [Multi-day battery life is finally here — and Apple and Samsung missed the memo](https://www.androidauthority.com/oneplus-15-vs-iphone-air-battery-life-3615633/)
- - [Google is preparing big Android 17 gaming upgrades for fans of real controllers](https://www.androidauthority.com/android-17-gaming-features-rumor-3616027/)<!-- TECH:END -->
+ - [16 Best Subscription Boxes for Kids &lpar;2025&rpar;: STEM, Books, Clothes, Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)
+ - [How I finally organized my ROM collection on my NAS](https://www.androidauthority.com/retroassembly-nas-3612845/)
+ - [How soapy micro dramas became Hollywood&amp;#8217;s next big bet](https://www.theverge.com/column/821345/micro-dramas-how-hollywood)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
