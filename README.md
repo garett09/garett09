@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Dual-Port Fast Charger Pack Sells for Peanuts, Amazon Prices Each Unit Five Times Lower Than Apple](https://kotaku.com/this-dual-port-fast-charger-pack-sells-for-peanuts-amazon-prices-each-unit-five-times-lower-than-apple-2000644466)
- - [Will Microsoft truly support Xbox&#39;s existential threat, Steam Machine?](https://www.polygon.com/microsoft-xbox-pc-gaming-steam-machine-support-deck-playable/)
- - [One of Elden Ring&#39;s best overhaul mods just received a massive update that adds fully functional multiplayer](https://www.pcgamer.com/games/rpg/one-of-elden-rings-best-overhaul-mods-just-received-a-massive-update-that-adds-fully-functional-multiplayer/)<!-- GAME:END -->
+ - [Strange Jigsaw creator Fleb quietly made the best new puzzle game of 2025](https://www.polygon.com/strange-jigsaw-fleb-interview/)
+ - [Almost 20 years since it hit Steam, Garry&#39;s Mod finally addresses &#39;lackluster support for weapons used by NPCs&#39; and gives Dr Kleiner his gun license](https://www.pcgamer.com/games/almost-20-years-since-it-hit-steam-garrys-mods-finally-addresses-lackluster-support-for-weapons-used-by-npcs-and-gives-dr-kleiner-his-gun-license/)
+ - [Will we see God in Hazbin Hotel season two?](https://www.polygon.com/video/god-hazbin-hotel-season-two-vivienne-medrano-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
