@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 🚯 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 🚯 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
+ - 🚖 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - 🚯 [Gordon meets the working class, David](http://9gag.com/gag/amoK3n6)
+ - 🚯 [Pure cinema](http://9gag.com/gag/a6Z4vOq)<!-- MEMES:END -->
 
 --- 
 
