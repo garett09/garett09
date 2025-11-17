@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Subscription Boxes for Kids &lpar;2025&rpar;: STEM, Books, Clothes, Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)
- - [How I finally organized my ROM collection on my NAS](https://www.androidauthority.com/retroassembly-nas-3612845/)
- - [How soapy micro dramas became Hollywood&amp;#8217;s next big bet](https://www.theverge.com/column/821345/micro-dramas-how-hollywood)<!-- TECH:END -->
+ - [Look out Verizon and T-Mobile, AT&amp;T has just boosted its 5G speeds by up to 80%](https://www.androidauthority.com/att-mid-band-upgrade-3616392/)
+ - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)
+ - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
