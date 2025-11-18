@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Look out Verizon and T-Mobile, AT&amp;T has just boosted its 5G speeds by up to 80%](https://www.androidauthority.com/att-mid-band-upgrade-3616392/)
- - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)
- - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
+ - [OpenAI and Intuit sign a multiyear deal, set to generate $100M+ in OpenAI revenue, in which Intuit will deepen its use of OpenAI models and launch ChatGPT apps &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/251118/p19#a251118p19)
+ - [Google Maps on Android Auto is making it easier to find the right EV stations for you](https://www.androidauthority.com/google-maps-android-auto-charging-filters-3616491/)
+ - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
