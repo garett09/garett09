@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange Jigsaw creator Fleb quietly made the best new puzzle game of 2025](https://www.polygon.com/strange-jigsaw-fleb-interview/)
- - [Almost 20 years since it hit Steam, Garry&#39;s Mod finally addresses &#39;lackluster support for weapons used by NPCs&#39; and gives Dr Kleiner his gun license](https://www.pcgamer.com/games/almost-20-years-since-it-hit-steam-garrys-mods-finally-addresses-lackluster-support-for-weapons-used-by-npcs-and-gives-dr-kleiner-his-gun-license/)
- - [Will we see God in Hazbin Hotel season two?](https://www.polygon.com/video/god-hazbin-hotel-season-two-vivienne-medrano-interview/)<!-- GAME:END -->
+ - [EcoFlow DELTA 2 Portable Power Station Hits 50% Off After Three Price Cuts, Only Before the Black Friday Rush](https://kotaku.com/grab-the-ecoflow-delta-2-power-station-at-a-50-discount-but-only-for-a-limited-time-2000645231)
+ - [Kirby Air Riders Reviews Are Mostly Happy With The Pink Blob’s Racing Return](https://kotaku.com/kirby-air-riders-reviews-nintendo-switch-2-2000645412)
+ - [Best gaming monitors in 2025: the pixel-perfect panels I&#39;d buy myself](https://www.pcgamer.com/best-gaming-monitor/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
