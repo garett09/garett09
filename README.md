@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Intuit sign a multiyear deal, set to generate $100M+ in OpenAI revenue, in which Intuit will deepen its use of OpenAI models and launch ChatGPT apps &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/251118/p19#a251118p19)
- - [Google Maps on Android Auto is making it easier to find the right EV stations for you](https://www.androidauthority.com/google-maps-android-auto-charging-filters-3616491/)
- - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
+ - [Meta warns of significant difficulties in identifying and removing underage users as it prepares for Australia&#39;s under-16 social media ban, set for December 10 &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/251119/p27#a251119p27)
+ - [The EU unveils proposed updates to GDPR, including simplifying cookie permission pop-ups, and plans to water down the AI Act, after US and tech company pressure &lpar;The Verge&rpar;](http://www.techmeme.com/251119/p26#a251119p26)
+ - [TikTok is letting users control how much AI content they see](https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
