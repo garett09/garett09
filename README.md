@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 🚯 [Gordon meets the working class, David](http://9gag.com/gag/amoK3n6)
- - 🚯 [Pure cinema](http://9gag.com/gag/a6Z4vOq)<!-- MEMES:END -->
+ - 🚖 [The sheer confidence is insane](http://9gag.com/gag/aLnOKBW)
+ - 🚯 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 🚯 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
 
 --- 
 
