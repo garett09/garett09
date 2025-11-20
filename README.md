@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta warns of significant difficulties in identifying and removing underage users as it prepares for Australia&#39;s under-16 social media ban, set for December 10 &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/251119/p27#a251119p27)
- - [The EU unveils proposed updates to GDPR, including simplifying cookie permission pop-ups, and plans to water down the AI Act, after US and tech company pressure &lpar;The Verge&rpar;](http://www.techmeme.com/251119/p26#a251119p26)
- - [TikTok is letting users control how much AI content they see](https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics)<!-- TECH:END -->
+ - [The CSA says Matter will support video cameras for the first time with Matter 1.5; Amazon and Google have not committed to making their cameras interoperable &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251120/p26#a251120p26)
+ - [Internal memo: Verizon CEO Dan Schulman says the company will begin notifying the 13,000+ employees impacted by its largest-ever round of layoffs &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/251120/p25#a251120p25)
+ - [The impressive OnePlus Buds Pro 3 just got $50 cheaper in the Black Friday sale](https://www.androidauthority.com/oneplus-buds-pro-3-black-friday-deal-3617583/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
