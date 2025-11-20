@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The sheer confidence is insane](http://9gag.com/gag/aLnOKBW)
- - 🚯 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - 🚯 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
+ - 🚖 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - 🚯 [This world seems funny](http://9gag.com/gag/ae9q3pm)
+ - 🚯 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
 
 --- 
 
