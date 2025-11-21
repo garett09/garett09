@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EcoFlow DELTA 2 Portable Power Station Hits 50% Off After Three Price Cuts, Only Before the Black Friday Rush](https://kotaku.com/grab-the-ecoflow-delta-2-power-station-at-a-50-discount-but-only-for-a-limited-time-2000645231)
- - [Kirby Air Riders Reviews Are Mostly Happy With The Pink Blob’s Racing Return](https://kotaku.com/kirby-air-riders-reviews-nintendo-switch-2-2000645412)
- - [Best gaming monitors in 2025: the pixel-perfect panels I&#39;d buy myself](https://www.pcgamer.com/best-gaming-monitor/)<!-- GAME:END -->
+ - [It’s Black Friday Time, Microsoft Drops Surface Pro 512GB to 40% Off Without Any Reason](https://kotaku.com/its-black-friday-time-microsoft-drops-surface-pro-512gb-to-40-off-without-any-reason-2000646095)
+ - [I&#39;m going gaga for this rhythm game where a psychotic anime girl is trying to convert me to the ways of her 2D waifu one deranged song at a time](https://www.pcgamer.com/games/rhythm/im-going-gaga-for-this-rhythm-game-where-a-psychotic-anime-girl-is-trying-to-convert-me-to-the-ways-of-her-2d-waifu-one-deranged-song-at-a-time/)
+ - [New Pixel 10 Pro Goes Cheaper Than Last Year’s 9 Pro, Amazon Crushes Google on Black Friday Deals](https://kotaku.com/new-pixel-10-pro-goes-cheaper-than-last-years-9-pro-amazon-crushes-google-on-black-friday-deals-2000646123)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
