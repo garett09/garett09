@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 🚯 [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 🚯 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
+ - 🚖 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
+ - 🚯 [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - 🚯 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)<!-- MEMES:END -->
 
 --- 
 
