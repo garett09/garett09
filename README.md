@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CSA says Matter will support video cameras for the first time with Matter 1.5; Amazon and Google have not committed to making their cameras interoperable &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251120/p26#a251120p26)
- - [Internal memo: Verizon CEO Dan Schulman says the company will begin notifying the 13,000+ employees impacted by its largest-ever round of layoffs &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/251120/p25#a251120p25)
- - [The impressive OnePlus Buds Pro 3 just got $50 cheaper in the Black Friday sale](https://www.androidauthority.com/oneplus-buds-pro-3-black-friday-deal-3617583/)<!-- TECH:END -->
+ - [Archetype, which builds AI to interpret sensor data from the physical world, raised a $35M Series A and launches tools to build and deploy physical agents &lpar;Grace Priscilla Teo/Tech in Asia&rpar;](http://www.techmeme.com/251121/p12#a251121p12)
+ - [13 Best Kids Headphones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-kids-headphones/)
+ - [AirDropping stuff from a Pixel phone rules so much](https://www.theverge.com/tech/825696/pixel-10-pro-airdrop-quick-share-hands-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
