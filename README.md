@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
- - 🚯 [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - 🚖 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
+ - 🚯 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
  - 🚯 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)<!-- MEMES:END -->
 
 --- 
