@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Archetype, which builds AI to interpret sensor data from the physical world, raised a $35M Series A and launches tools to build and deploy physical agents &lpar;Grace Priscilla Teo/Tech in Asia&rpar;](http://www.techmeme.com/251121/p12#a251121p12)
- - [13 Best Kids Headphones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-kids-headphones/)
- - [AirDropping stuff from a Pixel phone rules so much](https://www.theverge.com/tech/825696/pixel-10-pro-airdrop-quick-share-hands-on)<!-- TECH:END -->
+ - [The Best Chef’s Knives of 2025. We Tested Nearly Two Dozen to Find Our Favorites](https://www.wired.com/gallery/best-chefs-knife/)
+ - [Google finally did it: AirDrop now works on Android!](https://www.androidauthority.com/authority-insights-podcast-014-3618309/)
+ - [5 AI tools that can help you start and run an online business](https://www.androidauthority.com/ai-business-tools-3618357/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
