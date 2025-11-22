@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Black Friday Time, Microsoft Drops Surface Pro 512GB to 40% Off Without Any Reason](https://kotaku.com/its-black-friday-time-microsoft-drops-surface-pro-512gb-to-40-off-without-any-reason-2000646095)
- - [I&#39;m going gaga for this rhythm game where a psychotic anime girl is trying to convert me to the ways of her 2D waifu one deranged song at a time](https://www.pcgamer.com/games/rhythm/im-going-gaga-for-this-rhythm-game-where-a-psychotic-anime-girl-is-trying-to-convert-me-to-the-ways-of-her-2d-waifu-one-deranged-song-at-a-time/)
- - [New Pixel 10 Pro Goes Cheaper Than Last Year’s 9 Pro, Amazon Crushes Google on Black Friday Deals](https://kotaku.com/new-pixel-10-pro-goes-cheaper-than-last-years-9-pro-amazon-crushes-google-on-black-friday-deals-2000646123)<!-- GAME:END -->
+ - [Forget Bulky Smartwatches, Oura Ring 4 Is Not Selling for a New All Time Low on Amazon](https://kotaku.com/forget-bulky-smartwatches-oura-ring-4-is-not-selling-for-a-new-all-time-low-on-amazon-2000646440)
+ - [This mech themed XCOM-like just got a gargantuan update that overhauls its campaign, redesigns its overworld, and adds personalities to pilots with &#39;over 100&#39; unique traits](https://www.pcgamer.com/games/strategy/this-mech-themed-xcom-like-just-got-a-gargantuan-update-that-overhauls-its-campaign-redesigns-its-overworld-and-adds-personalities-to-pilots-with-over-100-unique-traits/)
+ - [Apple Charges 3x More for Mac Mini, This Mini PC Rival Does the Same Job for Black Friday Pennies](https://kotaku.com/apple-charges-3x-more-for-mac-mini-this-mini-pc-rival-does-the-same-job-for-black-friday-pennies-2000646435)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
