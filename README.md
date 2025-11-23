@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Chef’s Knives of 2025. We Tested Nearly Two Dozen to Find Our Favorites](https://www.wired.com/gallery/best-chefs-knife/)
- - [Google finally did it: AirDrop now works on Android!](https://www.androidauthority.com/authority-insights-podcast-014-3618309/)
- - [5 AI tools that can help you start and run an online business](https://www.androidauthority.com/ai-business-tools-3618357/)<!-- TECH:END -->
+ - [A researcher details an LLM-based AI agent that &quot;demonstrated a near-flawless ability&quot; to bypass bot detection methods while answering online survey questions &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251123/p9#a251123p9)
+ - [It’s nearly 2026, proprietary charging just needs to die out already](https://www.androidauthority.com/proprietary-charging-die-3616821/)
+ - [9 Best Chromebooks of 2025: All the Latest Models, Tested](https://www.wired.com/gallery/best-chromebooks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
