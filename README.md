@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For the shorties](http://9gag.com/gag/awy95by)
- - 🚯 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 🚯 [Title](http://9gag.com/gag/aE0jRDN)<!-- MEMES:END -->
+ - 🚖 [Prayz da lawd](http://9gag.com/gag/aKGXVVW)
+ - 🚯 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)
+ - 🚯 [When she saw the cosplay of her childhood dreams. Disneyland](http://9gag.com/gag/a87v8qZ)<!-- MEMES:END -->
 
 --- 
 
