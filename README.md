@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A researcher details an LLM-based AI agent that &quot;demonstrated a near-flawless ability&quot; to bypass bot detection methods while answering online survey questions &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251123/p9#a251123p9)
- - [It’s nearly 2026, proprietary charging just needs to die out already](https://www.androidauthority.com/proprietary-charging-die-3616821/)
- - [9 Best Chromebooks of 2025: All the Latest Models, Tested](https://www.wired.com/gallery/best-chromebooks/)<!-- TECH:END -->
+ - [Game development diary: Planning failures and the fyre festival of game expos](https://appleinsider.com/articles/25/11/24/game-development-diary-planning-failures-and-the-fyre-festival-of-game-expos?utm_source=rss)
+ - [The future is now: TCL CSOT sets the benchmark for display technologies at DTC 2025](https://www.androidauthority.com/tcl-csot-dtc-2025-3618240/)
+ - [Internal documents: Amazon&#39;s data center operations total 900+ facilities in 50+ countries, including AWS colocation facilities, higher than commonly understood &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251124/p15#a251124p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
