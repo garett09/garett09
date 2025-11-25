@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Clearly Isn’t Prioritizing Profit as the NASA Apollo Lunar Roving Vehicle Goes Cheaper Than Expected This Black Friday](https://kotaku.com/lego-clearly-isnt-prioritizing-profit-as-the-nasa-apollo-lunar-roving-vehicle-goes-cheaper-than-expected-this-black-friday-2000645530)
- - [Why Hazbin Hotel is a slow-burn for Lute](https://www.polygon.com/video/hazbin-hotel-lute-season-2/)
- - [Classic text adventure Zork is going open source, but I&#39;m side-eyeing Microsoft&#39;s announcement about it hard](https://www.pcgamer.com/games/classic-text-adventure-zork-is-going-open-source-but-im-side-eyeing-microsofts-announcement-about-it-hard/)<!-- GAME:END -->
+ - [Ubisoft Leak Reveals Prince Of Persia: The Sands Of Time Actually Exists, And Is Making Farah A Badass](https://kotaku.com/prince-of-persia-sands-of-time-remake-ubisoft-leak-2000647174)
+ - [LEGO Expands Its Black Friday Deals From Star Wars to Marvel, Spider-Man Subway Scene Drops to Nearly Free](https://kotaku.com/spider-man-2s-iconic-train-sequence-in-lego-form-drops-20-for-black-friday-2000647064)
+ - [Lenovo Legion 9i Gen 10 review](https://www.pcgamer.com/hardware/gaming-laptops/lenovo-legion-9i-gen-10-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
