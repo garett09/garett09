@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prayz da lawd](http://9gag.com/gag/aKGXVVW)
- - 🚯 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)
- - 🚯 [When she saw the cosplay of her childhood dreams. Disneyland](http://9gag.com/gag/a87v8qZ)<!-- MEMES:END -->
+ - 🚖 [Can you tell the time ?](https://www.reddit.com/r/funny/comments/1p6cdls/can_you_tell_the_time/)
+ - 🚯 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
+ - 🚯 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)<!-- MEMES:END -->
 
 --- 
 
