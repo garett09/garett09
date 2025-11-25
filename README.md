@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game development diary: Planning failures and the fyre festival of game expos](https://appleinsider.com/articles/25/11/24/game-development-diary-planning-failures-and-the-fyre-festival-of-game-expos?utm_source=rss)
- - [The future is now: TCL CSOT sets the benchmark for display technologies at DTC 2025](https://www.androidauthority.com/tcl-csot-dtc-2025-3618240/)
- - [Internal documents: Amazon&#39;s data center operations total 900+ facilities in 50+ countries, including AWS colocation facilities, higher than commonly understood &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251124/p15#a251124p15)<!-- TECH:END -->
+ - [Aluminium OS will be Google’s take on Android for PC](https://www.theverge.com/news/828595/google-aluminium-os-android-pc-chromeos-ai)
+ - [Klarna launches KlarnaUSD, its first stablecoin, running on Stripe and Paradigm&#39;s Tempo blockchain, aiming to &quot;reduce costs&quot; in international payments &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/251125/p13#a251125p13)
+ - [Poland probes Apple again over App Tracking Transparency rules](https://appleinsider.com/articles/25/11/25/poland-probes-apple-again-over-app-tracking-transparency-rules?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
