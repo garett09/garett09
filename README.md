@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aluminium OS will be Google’s take on Android for PC](https://www.theverge.com/news/828595/google-aluminium-os-android-pc-chromeos-ai)
- - [Klarna launches KlarnaUSD, its first stablecoin, running on Stripe and Paradigm&#39;s Tempo blockchain, aiming to &quot;reduce costs&quot; in international payments &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/251125/p13#a251125p13)
- - [Poland probes Apple again over App Tracking Transparency rules](https://appleinsider.com/articles/25/11/25/poland-probes-apple-again-over-app-tracking-transparency-rules?utm_source=rss)<!-- TECH:END -->
+ - [Forget Aluminium, is Android ready to lead Google’s PC push as is?](https://www.androidauthority.com/aluminium-android-pc-open-thread-3619832/)
+ - [iPad mini with OLED expected to arrive by the end of 2026](https://appleinsider.com/articles/25/11/26/ipad-mini-with-oled-expected-to-arrive-by-the-end-of-2026?utm_source=rss)
+ - [ChatGPT and Copilot are being booted out of WhatsApp](https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
