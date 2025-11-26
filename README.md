@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Leak Reveals Prince Of Persia: The Sands Of Time Actually Exists, And Is Making Farah A Badass](https://kotaku.com/prince-of-persia-sands-of-time-remake-ubisoft-leak-2000647174)
- - [LEGO Expands Its Black Friday Deals From Star Wars to Marvel, Spider-Man Subway Scene Drops to Nearly Free](https://kotaku.com/spider-man-2s-iconic-train-sequence-in-lego-form-drops-20-for-black-friday-2000647064)
- - [Lenovo Legion 9i Gen 10 review](https://www.pcgamer.com/hardware/gaming-laptops/lenovo-legion-9i-gen-10-review/)<!-- GAME:END -->
+ - [Nintendo Breaks Its Own Pricing Rules as Switch With Joy-Con Crashes to an All-Time Low for Black Friday](https://kotaku.com/the-nintendo-switch-oled-has-come-down-to-nearly-100-cheaper-than-the-switch-2-2000647325)
+ - [Apple Quietly Sent Amazon Thousands of iPads to Clear, WiFi Model Now Selling at All-Time Low](https://kotaku.com/apple-quietly-sent-amazon-thousands-of-ipads-to-clear-wifi-model-now-selling-at-all-time-low-2000647529)
+ - [Stranger Things season 5 is best when it’s at its silliest](https://www.polygon.com/stranger-things-season-5-review-spoiler-free/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
