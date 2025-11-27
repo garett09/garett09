@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something about Slayer](http://9gag.com/gag/aQzDR2W)
- - 🚯 [Clean](http://9gag.com/gag/a34zQEr)
- - 🚯 [Do it for your future self](http://9gag.com/gag/a6ZeNrL)<!-- MEMES:END -->
+ - 🚖 [Just Asking](http://9gag.com/gag/agmp5Wq)
+ - 🚯 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 🚯 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)<!-- MEMES:END -->
 
 --- 
 
