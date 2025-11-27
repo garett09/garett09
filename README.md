@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Breaks Its Own Pricing Rules as Switch With Joy-Con Crashes to an All-Time Low for Black Friday](https://kotaku.com/the-nintendo-switch-oled-has-come-down-to-nearly-100-cheaper-than-the-switch-2-2000647325)
- - [Apple Quietly Sent Amazon Thousands of iPads to Clear, WiFi Model Now Selling at All-Time Low](https://kotaku.com/apple-quietly-sent-amazon-thousands-of-ipads-to-clear-wifi-model-now-selling-at-all-time-low-2000647529)
- - [Stranger Things season 5 is best when it’s at its silliest](https://www.polygon.com/stranger-things-season-5-review-spoiler-free/)<!-- GAME:END -->
+ - [Splitgate 2 to relaunch in December](https://www.polygon.com/splitgate-2-relaunch-date/)
+ - [Amazon Is Practically Dumping the 15.6″ Portable Monitor After Selling Thousands Last Month, Black Friday Makes the Price Even Wilder](https://kotaku.com/innoview-portable-monitor-15-6-inch-2000647776)
+ - [The games we&#39;re most thankful for this Thanksgiving](https://www.polygon.com/games-were-thankful-for/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
