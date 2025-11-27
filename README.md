@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget Aluminium, is Android ready to lead Google’s PC push as is?](https://www.androidauthority.com/aluminium-android-pc-open-thread-3619832/)
- - [iPad mini with OLED expected to arrive by the end of 2026](https://appleinsider.com/articles/25/11/26/ipad-mini-with-oled-expected-to-arrive-by-the-end-of-2026?utm_source=rss)
- - [ChatGPT and Copilot are being booted out of WhatsApp](https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta)<!-- TECH:END -->
+ - [Prepare your wallet: AYANEO’s glamorous Game Boy clone is launching soon](https://www.androidauthority.com/ayaneo-pocket-vert-specs-3620170/)
+ - [Google could finally fix this annoying image workflow gap in Gemini](https://www.androidauthority.com/google-gemini-image-annotation-leak-3620205/)
+ - [Capture every detail with this year’s Ring Wired Doorbell Plus Black Friday sale](https://www.androidauthority.com/ring-wired-doorbell-plus-deal-3619255/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
