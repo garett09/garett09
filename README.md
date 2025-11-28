@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just Asking](http://9gag.com/gag/agmp5Wq)
- - 🚯 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 🚯 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)<!-- MEMES:END -->
+ - 🚖 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 🚯 [Escape](http://9gag.com/gag/aoyGMx3)
+ - 🚯 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)<!-- MEMES:END -->
 
 --- 
 
