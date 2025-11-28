@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prepare your wallet: AYANEO’s glamorous Game Boy clone is launching soon](https://www.androidauthority.com/ayaneo-pocket-vert-specs-3620170/)
- - [Google could finally fix this annoying image workflow gap in Gemini](https://www.androidauthority.com/google-gemini-image-annotation-leak-3620205/)
- - [Capture every detail with this year’s Ring Wired Doorbell Plus Black Friday sale](https://www.androidauthority.com/ring-wired-doorbell-plus-deal-3619255/)<!-- TECH:END -->
+ - [Some of our favorite Blu-rays are cheaper than ever during Black Friday](https://www.theverge.com/gadgets/829057/best-4k-blu-ray-uhd-movies-black-friday-deal-sale-2025)
+ - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025/)
+ - [The 150 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
