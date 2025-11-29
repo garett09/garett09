@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - 🚯 [Escape](http://9gag.com/gag/aoyGMx3)
- - 🚯 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)<!-- MEMES:END -->
+ - 🚖 [A game made with passion and love 10 years ago in 2015. No in-game purchases, free main game quality, 2 free DLCs and a free next-gen upgrade.](http://9gag.com/gag/avyBAqM)
+ - 🚯 [Romani Schmomani](http://9gag.com/gag/a34zEO3)
+ - 🚯 [Man knows his shit.](http://9gag.com/gag/aAyL0xd)<!-- MEMES:END -->
 
 --- 
 
