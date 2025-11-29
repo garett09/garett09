@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of our favorite Blu-rays are cheaper than ever during Black Friday](https://www.theverge.com/gadgets/829057/best-4k-blu-ray-uhd-movies-black-friday-deal-sale-2025)
- - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025/)
- - [The 150 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
+ - [This Is a Truly Great iPad Deal](https://www.wired.com/story/apple-ipad-black-friday-deal-2025-2/)
+ - [The Best Black Friday Coffee Deals &lpar;2025&rpar;](https://www.wired.com/story/best-coffee-espresso-deals-black-friday-2025-1/)
+ - [5 hardware upgrades I want to see on Pixel phones](https://www.androidauthority.com/pixel-phones-hardware-upgrades-3620202/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
