@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate 2 to relaunch in December](https://www.polygon.com/splitgate-2-relaunch-date/)
- - [Amazon Is Practically Dumping the 15.6″ Portable Monitor After Selling Thousands Last Month, Black Friday Makes the Price Even Wilder](https://kotaku.com/innoview-portable-monitor-15-6-inch-2000647776)
- - [The games we&#39;re most thankful for this Thanksgiving](https://www.polygon.com/games-were-thankful-for/)<!-- GAME:END -->
+ - [Amazon Sells Own Echo Show 5 at Cost for Black Friday, Zero-Margin Play No Rival Can Touch](https://kotaku.com/amazon-sells-own-echo-show-5-at-cost-for-black-friday-zero-margin-play-no-rival-can-touch-2000648704)
+ - [Apple Keeps the M5 MacBook Pro at All-Time Low as It Begins Clearing Out Post–Black Friday Stock](https://kotaku.com/apples-2025-macbook-pro-dropped-to-its-lowest-price-ever-for-black-friday-2000648462)
+ - [I freed myself from my organizational sins by simply sticking my desk clutter where I don&#39;t have to see it, and you can do the same with this $9 Cyber Monday deal on nano tape](https://www.pcgamer.com/hardware/i-freed-myself-from-my-organizational-sins-by-simply-sticking-my-desk-clutter-where-i-dont-have-to-see-it-and-you-can-do-the-same-with-this-usd9-black-friday-deal-on-nano-tape/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
