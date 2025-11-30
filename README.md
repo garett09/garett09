@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Is a Truly Great iPad Deal](https://www.wired.com/story/apple-ipad-black-friday-deal-2025-2/)
- - [The Best Black Friday Coffee Deals &lpar;2025&rpar;](https://www.wired.com/story/best-coffee-espresso-deals-black-friday-2025-1/)
- - [5 hardware upgrades I want to see on Pixel phones](https://www.androidauthority.com/pixel-phones-hardware-upgrades-3620202/)<!-- TECH:END -->
+ - [The Kindle store is getting wrecked by SEO-stuffed book titles — and readers are fed up](https://www.androidauthority.com/kindle-store-seo-stuffed-titles-3617643/)
+ - [The indie web is here to make the internet weird again](https://www.theverge.com/column/829831/indie-web-geocities-neocities)
+ - [The 2025 Installer gift guide](https://www.theverge.com/tech/830153/the-2025-installer-gift-guide)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
