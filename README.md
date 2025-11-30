@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A game made with passion and love 10 years ago in 2015. No in-game purchases, free main game quality, 2 free DLCs and a free next-gen upgrade.](http://9gag.com/gag/avyBAqM)
- - 🚯 [Romani Schmomani](http://9gag.com/gag/a34zEO3)
- - 🚯 [Man knows his shit.](http://9gag.com/gag/aAyL0xd)<!-- MEMES:END -->
+ - 🚖 [Poor](http://9gag.com/gag/amoOgEd)
+ - 🚯 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
+ - 🚯 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)<!-- MEMES:END -->
 
 --- 
 
