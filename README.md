@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ASUS Dual NVIDIA RTX 3050 Gaming Graphics Card Returns at an All-Time Low After Selling Out on Black Friday](https://kotaku.com/asus-dual-nvidia-rtx-3050-gaming-graphics-card-returns-at-an-all-time-low-after-selling-out-on-black-friday-2000647705)
- - [Nintendo&#39;s most goth characters from Zelda, Animal Crossing &amp; Mario](https://www.polygon.com/goth-nintendo-characters/)
- - [Halo&#39;s co-creator says Bungie redesigned Master Chief nine times before coming up with the now-iconic look: &#39;We tried a lot of things&#39;](https://www.pcgamer.com/games/fps/halos-co-creator-says-bungie-redesigned-master-chief-nine-times-before-coming-up-with-the-now-iconic-look-we-tried-a-lot-of-things/)<!-- GAME:END -->
+ - [Zootopia 2 opening weekend is biggest ever for an animated movie](https://www.polygon.com/zootopia-2-box-office-china/)
+ - [Acer Goes Rogue on Nitro V Gaming Laptop &lpar;i7, RTX 4050, 1TB&rpar;, Now Selling at All-Time Low for Cyber Monday](https://kotaku.com/acer-goes-rogue-on-nitro-v-gaming-laptop-i7-rtx-4050-1tb-now-selling-at-all-time-low-for-cyber-monday-2000649093)
+ - [Microsoft Goes Harder Than Apple This Cyber Monday, Restocking the Surface Pro 2-in-1 Laptop at a New Record Low](https://kotaku.com/act-fast-to-snag-the-microsoft-surface-pro-2-in-1-2024-at-an-impressive-38-discount-today-2000648972)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
