@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Kindle store is getting wrecked by SEO-stuffed book titles — and readers are fed up](https://www.androidauthority.com/kindle-store-seo-stuffed-titles-3617643/)
- - [The indie web is here to make the internet weird again](https://www.theverge.com/column/829831/indie-web-geocities-neocities)
- - [The 2025 Installer gift guide](https://www.theverge.com/tech/830153/the-2025-installer-gift-guide)<!-- TECH:END -->
+ - [Nvidia acquires $2B of Synopsys&#39; common stock and unveils a strategic partnership to accelerate computing and AI engineering products, including deploying CUDA &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251201/p11#a251201p11)
+ - [Survey reveals you haven’t given this crazy new Gemini feature a chance](https://www.androidauthority.com/google-marketing-gemini-feature-survey-results-3620888/)
+ - [Best Apple Cyber Monday Deals: Save up to $1,899 on iPhone, Apple Watch, iPad, AirPods, Mac](https://appleinsider.com/articles/25/11/30/best-apple-cyber-monday-deals-save-up-to-1899-on-iphone-apple-watch-ipad-airpods-mac?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
