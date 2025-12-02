@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
- - 🚯 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
- - 🚯 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)<!-- MEMES:END -->
+ - 🚖 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
+ - 🚯 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
+ - 🚯 [When you are an English teacher](http://9gag.com/gag/awy937R)<!-- MEMES:END -->
 
 --- 
 
