@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Zootopia 2 opening weekend is biggest ever for an animated movie](https://www.polygon.com/zootopia-2-box-office-china/)
- - [Acer Goes Rogue on Nitro V Gaming Laptop &lpar;i7, RTX 4050, 1TB&rpar;, Now Selling at All-Time Low for Cyber Monday](https://kotaku.com/acer-goes-rogue-on-nitro-v-gaming-laptop-i7-rtx-4050-1tb-now-selling-at-all-time-low-for-cyber-monday-2000649093)
- - [Microsoft Goes Harder Than Apple This Cyber Monday, Restocking the Surface Pro 2-in-1 Laptop at a New Record Low](https://kotaku.com/act-fast-to-snag-the-microsoft-surface-pro-2-in-1-2024-at-an-impressive-38-discount-today-2000648972)<!-- GAME:END -->
+ - [Marvel Cosmic Invasion review: a solid retro beat-em-up with style](https://www.polygon.com/marvel-cosmic-invasion-review/)
+ - [Fast &amp; Furious director will bring the Helldivers universe to life in upcoming movie](https://www.polygon.com/helldivers-movie-fast-furious-justin-lin-directing/)
+ - [Great news for Intel: It now owns fully 1% of the gaming GPU market](https://www.pcgamer.com/hardware/graphics-cards/great-news-for-intel-it-now-owns-fully-1-percent-of-the-gaming-gpu-market/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
