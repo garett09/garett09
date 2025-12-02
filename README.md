@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia acquires $2B of Synopsys&#39; common stock and unveils a strategic partnership to accelerate computing and AI engineering products, including deploying CUDA &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251201/p11#a251201p11)
- - [Survey reveals you haven’t given this crazy new Gemini feature a chance](https://www.androidauthority.com/google-marketing-gemini-feature-survey-results-3620888/)
- - [Best Apple Cyber Monday Deals: Save up to $1,899 on iPhone, Apple Watch, iPad, AirPods, Mac](https://appleinsider.com/articles/25/11/30/best-apple-cyber-monday-deals-save-up-to-1899-on-iphone-apple-watch-ipad-airpods-mac?utm_source=rss)<!-- TECH:END -->
+ - [Chinese short-video company Kuaishou launches Kling Video O1, saying it is the first multimodal AI model to unify video generation, editing, and post-production &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251202/p19#a251202p19)
+ - [The Nikon ZR gets surprisingly close to a real RED camera &lpar;for a lot less money&rpar;](https://www.theverge.com/gadgets/829930/nikon-zr-review-red-r3d-video-files)
+ - [Prediction market Kalshi raised $1B led by Paradigm at an $11B valuation, up from $5B after raising $300M in October 2025, making its co-founders billionaires &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251202/p18#a251202p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
