@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese short-video company Kuaishou launches Kling Video O1, saying it is the first multimodal AI model to unify video generation, editing, and post-production &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251202/p19#a251202p19)
- - [The Nikon ZR gets surprisingly close to a real RED camera &lpar;for a lot less money&rpar;](https://www.theverge.com/gadgets/829930/nikon-zr-review-red-r3d-video-files)
- - [Prediction market Kalshi raised $1B led by Paradigm at an $11B valuation, up from $5B after raising $300M in October 2025, making its co-founders billionaires &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251202/p18#a251202p18)<!-- TECH:END -->
+ - [Q&amp;A with Valve executive Pierre-Loup Griffais, who helped build SteamOS and the Steam Deck, on quietly funding open-source tech to play Windows games on Arm &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251203/p20#a251203p20)
+ - [Spotify unveils 2025&#39;s top 50 most popular US podcasts, led by The Joe Rogan Experience for the fifth consecutive year; 24 of the top 50 now offer video content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251203/p19#a251203p19)
+ - [Spotify releases Wrapped 2025, adding features like Wrapped Party, its first live interactive experience, a Top Song Quiz, Listening Age, and Wrapped Clubs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251203/p18#a251203p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
