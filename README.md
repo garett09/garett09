@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Cosmic Invasion review: a solid retro beat-em-up with style](https://www.polygon.com/marvel-cosmic-invasion-review/)
- - [Fast &amp; Furious director will bring the Helldivers universe to life in upcoming movie](https://www.polygon.com/helldivers-movie-fast-furious-justin-lin-directing/)
- - [Great news for Intel: It now owns fully 1% of the gaming GPU market](https://www.pcgamer.com/hardware/graphics-cards/great-news-for-intel-it-now-owns-fully-1-percent-of-the-gaming-gpu-market/)<!-- GAME:END -->
+ - [HP Offloads Its 5-Star Laptop Bundle at 75% Off &lpar;32GB RAM, 1TB SSD&rpar; in aPost-Cyber Monday Rush, Far Cheaper Than Black Friday](https://kotaku.com/hp-offloads-its-5-star-laptop-bundle-at-75-off-32gb-ram-1tb-ssd-in-a-post-cyber-monday-rush-far-cheaper-than-black-friday-2000650003)
+ - [Girls’ Frontline 2: Exilium’s Anniversary Bash Is All About Huge Rewards and Hot New Features](https://kotaku.com/girls-frontline-2-exiliums-anniversary-bash-is-all-about-huge-rewards-and-hot-new-features-2000646724)
+ - [One-Punch Man season 3 production issues, explained](https://www.polygon.com/one-punch-man-season-3-disaster-jc-staff-schedule/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
