@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
- - 🚯 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
- - 🚯 [When you are an English teacher](http://9gag.com/gag/awy937R)<!-- MEMES:END -->
+ - 🚖 [French f**ker](http://9gag.com/gag/apRnPjn)
+ - 🚯 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
+ - 🚯 [Way better than twilight](http://9gag.com/gag/aAyLExd)<!-- MEMES:END -->
 
 --- 
 
