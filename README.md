@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [HP Offloads Its 5-Star Laptop Bundle at 75% Off &lpar;32GB RAM, 1TB SSD&rpar; in aPost-Cyber Monday Rush, Far Cheaper Than Black Friday](https://kotaku.com/hp-offloads-its-5-star-laptop-bundle-at-75-off-32gb-ram-1tb-ssd-in-a-post-cyber-monday-rush-far-cheaper-than-black-friday-2000650003)
- - [Girls’ Frontline 2: Exilium’s Anniversary Bash Is All About Huge Rewards and Hot New Features](https://kotaku.com/girls-frontline-2-exiliums-anniversary-bash-is-all-about-huge-rewards-and-hot-new-features-2000646724)
- - [One-Punch Man season 3 production issues, explained](https://www.polygon.com/one-punch-man-season-3-disaster-jc-staff-schedule/)<!-- GAME:END -->
+ - [&#39;Never bet against&#39; Jensen Huang&#39;s &#39;ability to disrupt himself&#39; says IBM chief](https://www.pcgamer.com/software/ai/never-bet-against-jensen-huangs-ability-to-disrupt-himself-says-ibm-chief/)
+ - [Logitech Failed to Clear Racing Wheel at Black Friday, Now Liquidating Stock at Record Low](https://kotaku.com/logitech-failed-to-clear-racing-wheel-at-black-friday-now-liquidating-stock-at-record-low-2000650485)
+ - [Russia Bans Roblox For The Worst Possible Reason](https://kotaku.com/russia-bans-roblox-lgbtq-roskomnadzor-2000650125)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
