@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Valve executive Pierre-Loup Griffais, who helped build SteamOS and the Steam Deck, on quietly funding open-source tech to play Windows games on Arm &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251203/p20#a251203p20)
- - [Spotify unveils 2025&#39;s top 50 most popular US podcasts, led by The Joe Rogan Experience for the fifth consecutive year; 24 of the top 50 now offer video content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251203/p19#a251203p19)
- - [Spotify releases Wrapped 2025, adding features like Wrapped Party, its first live interactive experience, a Top Song Quiz, Listening Age, and Wrapped Clubs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251203/p18#a251203p18)<!-- TECH:END -->
+ - [AI legal software startup Harvey raised $160M led by a16z at an $8B valuation, up from $3B after raising $300M in February, taking its funding in 2025 to $760M &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251204/p24#a251204p24)
+ - [Sony just gave its best noise-canceling headphones a sports makeover](https://www.androidauthority.com/sony-wh-1000xm5-nfl-headphones-3622044/)
+ - [Yann LeCun says his unnamed AI startup will not receive financial backing from Meta, will focus on advanced AI world models, and hints it will be Paris-based &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/251204/p23#a251204p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
