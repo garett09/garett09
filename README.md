@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [French f**ker](http://9gag.com/gag/apRnPjn)
- - 🚯 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 🚯 [Way better than twilight](http://9gag.com/gag/aAyLExd)<!-- MEMES:END -->
+ - 🚖 [A fitting end](http://9gag.com/gag/abAL4PB)
+ - 🚯 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 🚯 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
 
 --- 
 
