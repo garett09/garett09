@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Never bet against&#39; Jensen Huang&#39;s &#39;ability to disrupt himself&#39; says IBM chief](https://www.pcgamer.com/software/ai/never-bet-against-jensen-huangs-ability-to-disrupt-himself-says-ibm-chief/)
- - [Logitech Failed to Clear Racing Wheel at Black Friday, Now Liquidating Stock at Record Low](https://kotaku.com/logitech-failed-to-clear-racing-wheel-at-black-friday-now-liquidating-stock-at-record-low-2000650485)
- - [Russia Bans Roblox For The Worst Possible Reason](https://kotaku.com/russia-bans-roblox-lgbtq-roskomnadzor-2000650125)<!-- GAME:END -->
+ - [How to unlock Scholar and Undertaker skins in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-dlc-scholar-undertaker-skins/)
+ - [LEGO Holds Star Wars Jango Fett’s Starship at Its Black Friday Low to Move Holiday Stock](https://kotaku.com/lego-holds-star-wars-jango-fetts-starship-at-its-black-friday-low-to-move-holiday-stock-2000650845)
+ - [Pluribus episode 6 explained: Vince Gilligan talks HDP, John Cena, and more](https://www.polygon.com/pluribus-episode-6-explained-vince-gilligan-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
