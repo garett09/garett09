@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 🚯 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 🚯 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
+ - 🚖 [Happens to everyone pal](http://9gag.com/gag/agmp2Zw)
+ - 🚯 [Takes a lot of work to make crack](http://9gag.com/gag/a2vAb2Y)
+ - 🚯 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
 --- 
 
