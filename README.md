@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI legal software startup Harvey raised $160M led by a16z at an $8B valuation, up from $3B after raising $300M in February, taking its funding in 2025 to $760M &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251204/p24#a251204p24)
- - [Sony just gave its best noise-canceling headphones a sports makeover](https://www.androidauthority.com/sony-wh-1000xm5-nfl-headphones-3622044/)
- - [Yann LeCun says his unnamed AI startup will not receive financial backing from Meta, will focus on advanced AI world models, and hints it will be Paris-based &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/251204/p23#a251204p23)<!-- TECH:END -->
+ - [Survey suggests YouTube has a new banger on its hands with Recap](https://www.androidauthority.com/youtube-recap-2025-poll-results-3622594/)
+ - [NotebookLM just supercharged custom chats with a new upgrade](https://www.androidauthority.com/notebooklm-chat-customization-upgrade-3622570/)
+ - [Netflix is buying Warner Bros. for $83 billion](https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
