@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey suggests YouTube has a new banger on its hands with Recap](https://www.androidauthority.com/youtube-recap-2025-poll-results-3622594/)
- - [NotebookLM just supercharged custom chats with a new upgrade](https://www.androidauthority.com/notebooklm-chat-customization-upgrade-3622570/)
- - [Netflix is buying Warner Bros. for $83 billion](https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout)<!-- TECH:END -->
+ - [The Galaxy S26 is getting a major charging speed upgrade!](https://www.androidauthority.com/authority-insights-podcast-015-3621951/)
+ - [Creating your own Android wallpaper isn’t hard, and it’s totally worth it](https://www.androidauthority.com/how-to-make-wallpaper-3622523/)
+ - [Survey confirms: Most of us are at risk of ‘smartphone pinky’](https://www.androidauthority.com/smartphone-pinky-hand-pain-poll-results-3622625/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
