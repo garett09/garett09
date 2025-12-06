@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happens to everyone pal](http://9gag.com/gag/agmp2Zw)
- - 🚯 [Takes a lot of work to make crack](http://9gag.com/gag/a2vAb2Y)
- - 🚯 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
+ - 🚖 [Go sports!](http://9gag.com/gag/aGyrOzZ)
+ - 🚯 [Wood.rar](http://9gag.com/gag/aryD8Mp)
+ - 🚯 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
 
 --- 
 
