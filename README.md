@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go sports!](http://9gag.com/gag/aGyrOzZ)
- - 🚯 [Wood.rar](http://9gag.com/gag/aryD8Mp)
- - 🚯 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
+ - 🚖 [At Restaurant !](http://9gag.com/gag/avyB9g5)
+ - 🚯 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
+ - 🚯 [Respect](http://9gag.com/gag/a5Q9xZr)<!-- MEMES:END -->
 
 --- 
 
