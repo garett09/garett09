@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: If you&#39;ve never seen Tokyo Godfathers, you need to watch it this holiday season](https://www.polygon.com/tokyo-godfathers-christmas-movie-review-tubi/)
- - [Monkey Island creator Ron Gilbert isn&#39;t interested in returning to making 2D adventure games: &#39;When we&#39;re all dead, it probably won&#39;t be the kind of thing that survives&#39;](https://www.pcgamer.com/games/adventure/monkey-island-creator-ron-gilbert-isnt-interested-in-returning-to-making-2d-adventure-games-when-were-all-dead-it-probably-wont-be-the-kind-of-thing-that-survives/)
- - [Pluribus episode 6 theory reveals Carol is more danger than the other survivors](https://www.polygon.com/carol-is-in-a-lot-more-danger-in-pluribus-than-she-thinks/)<!-- GAME:END -->
+ - [Octopath Traveler 0&#39;s influence system is a bad deal for NPCs](https://www.polygon.com/octopath-traveler-0-influence-system-mugging-npc/)
+ - [World War 1 survival horror Conscript gets a &#39;huge&#39; update that adds a hardcore mode, redesigned levels, new items and gear, and much more](https://www.pcgamer.com/games/horror/world-war-1-survival-horror-conscript-gets-a-huge-update-that-adds-a-hardcore-mode-redesigned-levels-new-items-and-gear-and-much-more/)
+ - [Batman Forever is the most underrated Batman movie — and it&#39;s streaming now on Paramount Plus](https://www.polygon.com/batman-forever-underrated-tim-burton-joel-schumacher/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
