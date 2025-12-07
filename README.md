@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S26 is getting a major charging speed upgrade!](https://www.androidauthority.com/authority-insights-podcast-015-3621951/)
- - [Creating your own Android wallpaper isn’t hard, and it’s totally worth it](https://www.androidauthority.com/how-to-make-wallpaper-3622523/)
- - [Survey confirms: Most of us are at risk of ‘smartphone pinky’](https://www.androidauthority.com/smartphone-pinky-hand-pain-poll-results-3622625/)<!-- TECH:END -->
+ - [Why I’m choosing non-Elite performance for my next smartphone](https://www.androidauthority.com/pick-8-gen-5-snapdragon-3620554/)
+ - [The Best Printers for Home and Office: Brother, HP, and More](https://www.wired.com/gallery/best-printers/)
+ - [Starlink made ‘work from home’ possible from anywhere — now, I&amp;#8217;m ready for a change](https://www.theverge.com/column/837202/starlink-work-from-home)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
