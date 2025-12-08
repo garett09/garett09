@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At Restaurant !](http://9gag.com/gag/avyB9g5)
- - 🚯 [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
- - 🚯 [Respect](http://9gag.com/gag/a5Q9xZr)<!-- MEMES:END -->
+ - 🚖 [Its crazy to me that the right way to preserve paper posters... involves soap and water...](http://9gag.com/gag/aqyVdVM)
+ - 🚯 [When you come home happy from your fulfilling work](http://9gag.com/gag/a6ZexR9)
+ - 🚯 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)<!-- MEMES:END -->
 
 --- 
 
