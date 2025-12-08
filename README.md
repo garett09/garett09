@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why I’m choosing non-Elite performance for my next smartphone](https://www.androidauthority.com/pick-8-gen-5-snapdragon-3620554/)
- - [The Best Printers for Home and Office: Brother, HP, and More](https://www.wired.com/gallery/best-printers/)
- - [Starlink made ‘work from home’ possible from anywhere — now, I&amp;#8217;m ready for a change](https://www.theverge.com/column/837202/starlink-work-from-home)<!-- TECH:END -->
+ - [Samsung’s new adaptive clock is the intelligent design fix we’ve been waiting for](https://www.androidauthority.com/samsung-one-ui-8-5-lock-screen-adaptive-layout-3623138/)
+ - [Black strap gives hope for new Apple Vision Pro colors](https://appleinsider.com/articles/25/12/08/black-strap-gives-hope-for-new-apple-vision-pro-colors?utm_source=rss)
+ - [How the creator economy destroyed the internet](https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
