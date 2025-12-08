@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Octopath Traveler 0&#39;s influence system is a bad deal for NPCs](https://www.polygon.com/octopath-traveler-0-influence-system-mugging-npc/)
- - [World War 1 survival horror Conscript gets a &#39;huge&#39; update that adds a hardcore mode, redesigned levels, new items and gear, and much more](https://www.pcgamer.com/games/horror/world-war-1-survival-horror-conscript-gets-a-huge-update-that-adds-a-hardcore-mode-redesigned-levels-new-items-and-gear-and-much-more/)
- - [Batman Forever is the most underrated Batman movie — and it&#39;s streaming now on Paramount Plus](https://www.polygon.com/batman-forever-underrated-tim-burton-joel-schumacher/)<!-- GAME:END -->
+ - [Tekken boss Katsuhiro Harada to leave Bandai Namco after more than 30 years](https://www.polygon.com/tekken-boss-katsuhiro-harada-leaves-bandai-namco-techno-mix/)
+ - [Lenovo Ryzen 5 Gaming Laptop Drops 65% to a Budget-Tablet Low After Holding Its Price All Season Long](https://kotaku.com/lenovo-ryzen-5-gaming-laptop-drops-65-to-a-budget-tablet-low-after-holding-its-price-all-season-long-2000651210)
+ - [Dungeons &amp; Dragons &lpar;2000&rpar; was a passion project turned cinematic disaster](https://www.polygon.com/dungeons-dragons-movie-2000-retrospective-disaster/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
