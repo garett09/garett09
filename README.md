@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new adaptive clock is the intelligent design fix we’ve been waiting for](https://www.androidauthority.com/samsung-one-ui-8-5-lock-screen-adaptive-layout-3623138/)
- - [Black strap gives hope for new Apple Vision Pro colors](https://appleinsider.com/articles/25/12/08/black-strap-gives-hope-for-new-apple-vision-pro-colors?utm_source=rss)
- - [How the creator economy destroyed the internet](https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series)<!-- TECH:END -->
+ - [Tap to Pay on iPhone comes to Hong Kong](https://appleinsider.com/articles/25/12/09/tap-to-pay-on-iphone-comes-to-hong-kong?utm_source=rss)
+ - [Survey reveals YouTube TV would be silly to not introduce smaller, cheaper subscription bundles](https://www.androidauthority.com/cheaper-youtube-tv-packages-poll-results-3623576/)
+ - [iFixit’s new app is ready to take the lead on repairs with its FixBot AI assistant](https://www.androidauthority.com/ifixit-fixbot-3623365/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
