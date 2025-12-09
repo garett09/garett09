@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken boss Katsuhiro Harada to leave Bandai Namco after more than 30 years](https://www.polygon.com/tekken-boss-katsuhiro-harada-leaves-bandai-namco-techno-mix/)
- - [Lenovo Ryzen 5 Gaming Laptop Drops 65% to a Budget-Tablet Low After Holding Its Price All Season Long](https://kotaku.com/lenovo-ryzen-5-gaming-laptop-drops-65-to-a-budget-tablet-low-after-holding-its-price-all-season-long-2000651210)
- - [Dungeons &amp; Dragons &lpar;2000&rpar; was a passion project turned cinematic disaster](https://www.polygon.com/dungeons-dragons-movie-2000-retrospective-disaster/)<!-- GAME:END -->
+ - [Bose SoundLink Max Speaker Restock Drops Cheaper Than Black Friday in a December Clearance Move](https://kotaku.com/bose-soundlink-max-speaker-restock-drops-cheaper-than-black-friday-in-a-december-clearance-move-2000651067)
+ - [Did It: Welcome to Derry just ruin Stephen King&#39;s timeline?](https://www.polygon.com/it-welcome-to-derry-episode-7-timeline/)
+ - [Netflix’s ‘Stranger Things’ Is Coming to Microsoft Flight Simulator 2024](https://news.xbox.com/en-us/2025/12/09/netflix-stranger-things-coming-to-microsoft-flight-simulator-2024/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
