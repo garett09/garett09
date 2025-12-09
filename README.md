@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its crazy to me that the right way to preserve paper posters... involves soap and water...](http://9gag.com/gag/aqyVdVM)
- - 🚯 [When you come home happy from your fulfilling work](http://9gag.com/gag/a6ZexR9)
- - 🚯 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)<!-- MEMES:END -->
+ - 🚖 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 🚯 [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)
+ - 🚯 [How i meet your mother](http://9gag.com/gag/adBW44j)<!-- MEMES:END -->
 
 --- 
 
