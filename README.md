@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bose SoundLink Max Speaker Restock Drops Cheaper Than Black Friday in a December Clearance Move](https://kotaku.com/bose-soundlink-max-speaker-restock-drops-cheaper-than-black-friday-in-a-december-clearance-move-2000651067)
- - [Did It: Welcome to Derry just ruin Stephen King&#39;s timeline?](https://www.polygon.com/it-welcome-to-derry-episode-7-timeline/)
- - [Netflix’s ‘Stranger Things’ Is Coming to Microsoft Flight Simulator 2024](https://news.xbox.com/en-us/2025/12/09/netflix-stranger-things-coming-to-microsoft-flight-simulator-2024/)<!-- GAME:END -->
+ - [Microsoft wants to make Windows &#39;the best place to game—no matter where you play&#39; but Linux and Valve&#39;s SteamOS have other ideas](https://www.pcgamer.com/software/windows/microsoft-wants-to-make-windows-the-best-place-to-game-no-matter-where-you-play-but-linux-and-valves-steamos-have-other-ideas/)
+ - [Seagate’s 8TB External Hard Drive at Under $0.02 per GB Is Practically the Cheapest Data Storage Available](https://kotaku.com/seagates-8tb-external-hard-drive-at-under-0-02-per-gb-is-practically-the-cheapest-data-storage-available-2000651777)
+ - [What a dizzying new spy thriller took from Satoshi Kon&#39;s Millennium Actress](https://www.polygon.com/reflection-dead-diamond-spy-thriller-satoshi-kon-millennium-actress/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
