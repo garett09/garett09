@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tap to Pay on iPhone comes to Hong Kong](https://appleinsider.com/articles/25/12/09/tap-to-pay-on-iphone-comes-to-hong-kong?utm_source=rss)
- - [Survey reveals YouTube TV would be silly to not introduce smaller, cheaper subscription bundles](https://www.androidauthority.com/cheaper-youtube-tv-packages-poll-results-3623576/)
- - [iFixit’s new app is ready to take the lead on repairs with its FixBot AI assistant](https://www.androidauthority.com/ifixit-fixbot-3623365/)<!-- TECH:END -->
+ - [How US startups like Oakland-based Brimstone are racing to develop sources of raw materials that the US needs for tech, an industry China has long dominated &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/251210/p30#a251210p30)
+ - [Fifth Apple Store in India to open on December 11](https://appleinsider.com/articles/25/12/10/fifth-apple-store-in-india-to-open-on-december-11?utm_source=rss)
+ - [Adobe launches free ChatGPT-integrated apps for Photoshop, Acrobat, and Express on desktop, the web, and iOS, after OpenAI added app integrations in October &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251210/p29#a251210p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
