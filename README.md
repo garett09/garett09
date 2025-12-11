@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How US startups like Oakland-based Brimstone are racing to develop sources of raw materials that the US needs for tech, an industry China has long dominated &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/251210/p30#a251210p30)
- - [Fifth Apple Store in India to open on December 11](https://appleinsider.com/articles/25/12/10/fifth-apple-store-in-india-to-open-on-december-11?utm_source=rss)
- - [Adobe launches free ChatGPT-integrated apps for Photoshop, Acrobat, and Express on desktop, the web, and iOS, after OpenAI added app integrations in October &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251210/p29#a251210p29)<!-- TECH:END -->
+ - [It took Google four years to fix the Pixel Watch’s terrible screenshots](https://www.androidauthority.com/pixel-watch-terrible-screenshots-fixed-3624369/)
+ - [More leaked code suggests 120Hz ProMotion for Studio Display 2](https://appleinsider.com/articles/25/12/11/more-leaked-code-suggests-120hz-promotion-for-studio-display-2?utm_source=rss)
+ - [Nothing Phone 4a and 4a Pro details leak along with new headphones](https://www.androidauthority.com/nothing-phone-4a-pro-headphone-a-leak-3624390/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
