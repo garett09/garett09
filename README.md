@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - 🚯 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 🚯 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)<!-- MEMES:END -->
+ - 🚖 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
+ - 🚯 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
+ - 🚯 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)<!-- MEMES:END -->
 
 --- 
 
