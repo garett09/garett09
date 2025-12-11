@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft wants to make Windows &#39;the best place to game—no matter where you play&#39; but Linux and Valve&#39;s SteamOS have other ideas](https://www.pcgamer.com/software/windows/microsoft-wants-to-make-windows-the-best-place-to-game-no-matter-where-you-play-but-linux-and-valves-steamos-have-other-ideas/)
- - [Seagate’s 8TB External Hard Drive at Under $0.02 per GB Is Practically the Cheapest Data Storage Available](https://kotaku.com/seagates-8tb-external-hard-drive-at-under-0-02-per-gb-is-practically-the-cheapest-data-storage-available-2000651777)
- - [What a dizzying new spy thriller took from Satoshi Kon&#39;s Millennium Actress](https://www.polygon.com/reflection-dead-diamond-spy-thriller-satoshi-kon-millennium-actress/)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A’s Mega Dimension DLC improves a lackluster element of the base game](https://www.polygon.com/pokemon-legends-za-mega-dimension-dlc-evolution-battles/)
+ - [Cillian Murphy in talks to appear in 28 Years Later finale](https://www.polygon.com/cillian-murphy-28-years-later-trilogy/)
+ - [Kim Kardashian and her &#39;Break The Internet&#39; pose are coming to Fortnite](https://www.polygon.com/fortnite-kim-kardashian-skin-emote/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
