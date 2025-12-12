@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Z-A’s Mega Dimension DLC improves a lackluster element of the base game](https://www.polygon.com/pokemon-legends-za-mega-dimension-dlc-evolution-battles/)
- - [Cillian Murphy in talks to appear in 28 Years Later finale](https://www.polygon.com/cillian-murphy-28-years-later-trilogy/)
- - [Kim Kardashian and her &#39;Break The Internet&#39; pose are coming to Fortnite](https://www.polygon.com/fortnite-kim-kardashian-skin-emote/)<!-- GAME:END -->
+ - [Everyone&#39;s arguing about whether Divinity will be turn-based or an ARPG, and I&#39;m not sure why because the answer seems obvious](https://www.pcgamer.com/games/rpg/everyones-arguing-about-whether-divinity-will-be-turn-based-or-an-arpg-and-im-not-sure-why-because-the-answer-seems-obvious/)
+ - [Galaxy Watch 8 Classic Returns to All-Time Low as Samsung Rolls Out Another Surprise Clearance on Its Smartwatch Before Christmas](https://kotaku.com/galaxy-watch-8-classic-returns-to-all-time-low-as-samsung-rolls-out-another-surprise-clearance-on-its-smartwatch-before-christmas-2000652757)
+ - [Wake Up Dead Man has a surprising connection to Star Wars, Rian Johnson reveals](https://www.polygon.com/wake-up-dead-man-last-jedi-shared-themes-rian-johnson-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
