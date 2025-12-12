@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It took Google four years to fix the Pixel Watch’s terrible screenshots](https://www.androidauthority.com/pixel-watch-terrible-screenshots-fixed-3624369/)
- - [More leaked code suggests 120Hz ProMotion for Studio Display 2](https://appleinsider.com/articles/25/12/11/more-leaked-code-suggests-120hz-promotion-for-studio-display-2?utm_source=rss)
- - [Nothing Phone 4a and 4a Pro details leak along with new headphones](https://www.androidauthority.com/nothing-phone-4a-pro-headphone-a-leak-3624390/)<!-- TECH:END -->
+ - [YouTube made its video player easier to navigate on TVs](https://www.theverge.com/news/843412/youtube-watch-screen-tv-app-update)
+ - [Blame AI: Phone specs could go backward in 2026](https://www.androidauthority.com/smartphone-ram-spec-downgrade-rumor-3624814/)
+ - [FileMaker Pro -- the massive hit no one realises is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
