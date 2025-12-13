@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone&#39;s arguing about whether Divinity will be turn-based or an ARPG, and I&#39;m not sure why because the answer seems obvious](https://www.pcgamer.com/games/rpg/everyones-arguing-about-whether-divinity-will-be-turn-based-or-an-arpg-and-im-not-sure-why-because-the-answer-seems-obvious/)
- - [Galaxy Watch 8 Classic Returns to All-Time Low as Samsung Rolls Out Another Surprise Clearance on Its Smartwatch Before Christmas](https://kotaku.com/galaxy-watch-8-classic-returns-to-all-time-low-as-samsung-rolls-out-another-surprise-clearance-on-its-smartwatch-before-christmas-2000652757)
- - [Wake Up Dead Man has a surprising connection to Star Wars, Rian Johnson reveals](https://www.polygon.com/wake-up-dead-man-last-jedi-shared-themes-rian-johnson-interview/)<!-- GAME:END -->
+ - [Clue turns 40: A perfect whodunit and surprisingly faithful adaptation](https://www.polygon.com/clue-40th-anniversary-knives-out/)
+ - [Sins of a Solar Empire 2 gets a massive diplomacy overhaul that makes wars &#39;economically ruinous&#39;](https://www.pcgamer.com/games/strategy/sins-of-a-solar-empire-2-gets-a-massive-diplomacy-overhaul-that-makes-wars-economically-ruinous/)
+ - [I&#39;m never getting any work done ever again, thanks to this website that lets me play thousands of user-made Doom levels in my browser](https://www.pcgamer.com/games/fps/im-never-getting-any-work-done-ever-again-thanks-to-this-website-that-lets-me-play-thousands-of-user-made-doom-levels-in-my-browser/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
