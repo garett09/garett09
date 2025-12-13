@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube made its video player easier to navigate on TVs](https://www.theverge.com/news/843412/youtube-watch-screen-tv-app-update)
- - [Blame AI: Phone specs could go backward in 2026](https://www.androidauthority.com/smartphone-ram-spec-downgrade-rumor-3624814/)
- - [FileMaker Pro -- the massive hit no one realises is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)<!-- TECH:END -->
+ - [Android 17 could mimic this helpful iOS feature to reduce motion sickness](https://www.androidauthority.com/android-17-motion-cues-rumor-3624642/)
+ - [Will Google’s Android XR glasses be better than the Meta Ray-Bans?](https://www.androidauthority.com/authority-insights-podcast-016-3624658/)
+ - [The Samsung Galaxy S26 is already the worst phone of 2026](https://www.androidauthority.com/samsung-galaxy-s26-already-worst-phone-of-2026-3624551/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
