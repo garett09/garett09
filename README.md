@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 🚯 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)
- - 🚯 [It took me a minute one this one](http://9gag.com/gag/a4PBgzw)<!-- MEMES:END -->
+ - 🚖 [Resistance is futile](http://9gag.com/gag/a34zXP1)
+ - 🚯 [Totally realistic](http://9gag.com/gag/aGyr4DG)
+ - 🚯 [Opponents helping each other out, love to see it](http://9gag.com/gag/aqyVEEL)<!-- MEMES:END -->
 
 --- 
 
