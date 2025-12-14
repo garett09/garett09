@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Resistance is futile](http://9gag.com/gag/a34zXP1)
- - 🚯 [Totally realistic](http://9gag.com/gag/aGyr4DG)
- - 🚯 [Opponents helping each other out, love to see it](http://9gag.com/gag/aqyVEEL)<!-- MEMES:END -->
+ - 🚖 [Why?](http://9gag.com/gag/azxvnXZ)
+ - 🚯 [Wise words from Superman himself. .](http://9gag.com/gag/adBWEv9)
+ - 🚯 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
 
 --- 
 
