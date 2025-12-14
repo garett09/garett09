@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 could mimic this helpful iOS feature to reduce motion sickness](https://www.androidauthority.com/android-17-motion-cues-rumor-3624642/)
- - [Will Google’s Android XR glasses be better than the Meta Ray-Bans?](https://www.androidauthority.com/authority-insights-podcast-016-3624658/)
- - [The Samsung Galaxy S26 is already the worst phone of 2026](https://www.androidauthority.com/samsung-galaxy-s26-already-worst-phone-of-2026-3624551/)<!-- TECH:END -->
+ - [How media coverage of Trump&#39;s AI EO overstated federal authority over states and overlooked how the order&#39;s interstate commerce argument could backfire &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/251214/p11#a251214p11)
+ - [The Best Bike Gear for Your Brisk, Wintry Commute &lpar;2025&rpar;](https://www.wired.com/gallery/bike-gear-winter-commute/)
+ - [AI image generators are getting better by getting worse](https://www.theverge.com/column/843883/ai-image-generators-better-worse)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
