@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clue turns 40: A perfect whodunit and surprisingly faithful adaptation](https://www.polygon.com/clue-40th-anniversary-knives-out/)
- - [Sins of a Solar Empire 2 gets a massive diplomacy overhaul that makes wars &#39;economically ruinous&#39;](https://www.pcgamer.com/games/strategy/sins-of-a-solar-empire-2-gets-a-massive-diplomacy-overhaul-that-makes-wars-economically-ruinous/)
- - [I&#39;m never getting any work done ever again, thanks to this website that lets me play thousands of user-made Doom levels in my browser](https://www.pcgamer.com/games/fps/im-never-getting-any-work-done-ever-again-thanks-to-this-website-that-lets-me-play-thousands-of-user-made-doom-levels-in-my-browser/)<!-- GAME:END -->
+ - [Logitech Clears Out Its Gaming Racing Wheel and Pedals for Xbox, PS5, and PC After a Black Friday Sellout](https://kotaku.com/logitech-clears-out-its-gaming-racing-wheel-and-pedals-for-xbox-ps5-and-pc-after-a-black-friday-sellout-2000652276)
+ - [Watch the only live-action Transformer film worth revisiting before it leaves Netflix](https://www.polygon.com/transformer-2007-live-action-film-leaving-netflix/)
+ - [Microsoft nukes popular Halo 3 mod for Counter-Strike 2 from orbit: &#39;It was fun while it lasted&#39;](https://www.pcgamer.com/games/fps/microsoft-nukes-popular-halo-3-mod-for-counter-strike-2-from-orbit-it-was-fun-while-it-lasted/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
