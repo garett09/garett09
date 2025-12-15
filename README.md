@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Logitech Clears Out Its Gaming Racing Wheel and Pedals for Xbox, PS5, and PC After a Black Friday Sellout](https://kotaku.com/logitech-clears-out-its-gaming-racing-wheel-and-pedals-for-xbox-ps5-and-pc-after-a-black-friday-sellout-2000652276)
- - [Watch the only live-action Transformer film worth revisiting before it leaves Netflix](https://www.polygon.com/transformer-2007-live-action-film-leaving-netflix/)
- - [Microsoft nukes popular Halo 3 mod for Counter-Strike 2 from orbit: &#39;It was fun while it lasted&#39;](https://www.pcgamer.com/games/fps/microsoft-nukes-popular-halo-3-mod-for-counter-strike-2-from-orbit-it-was-fun-while-it-lasted/)<!-- GAME:END -->
+ - [LEGO Expands Its Star Wars Starship Clearance, The Dark Falcon Hits a Record Low After the Millennium Falcon](https://kotaku.com/lego-expands-its-star-wars-starship-clearance-the-dark-falcon-hits-a-record-low-after-the-millennium-falcon-2000653383)
+ - [Arc Raiders devs are uplifted by how kind players have been to one another, but admit &#39;we&#39;re way worse people than the community&#39; when it comes to engaging in PvP](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-devs-are-uplifted-by-how-kind-players-have-been-to-one-another-but-admit-were-way-worse-people-than-the-community-when-it-comes-to-engaging-in-pvp/)
+ - [Samsung Clears Out G50D Odyssey Gaming Monitor at 42% Off, the 32″ Model Is Now Cheaper Than the 27″](https://kotaku.com/samsung-clears-out-g50d-odyssey-gaming-monitor-at-42-off-the-32%e2%80%b3-model-is-now-cheaper-than-the-27%e2%80%b3-2000653260)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
