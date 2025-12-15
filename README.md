@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How media coverage of Trump&#39;s AI EO overstated federal authority over states and overlooked how the order&#39;s interstate commerce argument could backfire &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/251214/p11#a251214p11)
- - [The Best Bike Gear for Your Brisk, Wintry Commute &lpar;2025&rpar;](https://www.wired.com/gallery/bike-gear-winter-commute/)
- - [AI image generators are getting better by getting worse](https://www.theverge.com/column/843883/ai-image-generators-better-worse)<!-- TECH:END -->
+ - [Facebook Messenger for macOS departs the desktop](https://appleinsider.com/articles/25/12/15/facebook-messenger-for-macos-departs-the-desktop?utm_source=rss)
+ - [Memo: Greg Peters and Ted Sarandos lay out Netflix&#39;s WBD case, moving to quell concerns about job losses and the end of theater releases, after Paramount&#39;s bid &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251215/p17#a251215p17)
+ - [Berlin-based Mirelo, whose AI models can interpret video content to add matching sound effects, raised a $41M seed led by Index and a16z, after a $3M pre-seed &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251215/p16#a251215p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
