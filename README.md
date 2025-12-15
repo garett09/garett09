@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why?](http://9gag.com/gag/azxvnXZ)
- - 🚯 [Wise words from Superman himself. .](http://9gag.com/gag/adBWEv9)
- - 🚯 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
+ - 🚖 [I just leave this here.](http://9gag.com/gag/aGyrXYw)
+ - 🚯 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 🚯 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)<!-- MEMES:END -->
 
 --- 
 
