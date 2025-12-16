@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Expands Its Star Wars Starship Clearance, The Dark Falcon Hits a Record Low After the Millennium Falcon](https://kotaku.com/lego-expands-its-star-wars-starship-clearance-the-dark-falcon-hits-a-record-low-after-the-millennium-falcon-2000653383)
- - [Arc Raiders devs are uplifted by how kind players have been to one another, but admit &#39;we&#39;re way worse people than the community&#39; when it comes to engaging in PvP](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-devs-are-uplifted-by-how-kind-players-have-been-to-one-another-but-admit-were-way-worse-people-than-the-community-when-it-comes-to-engaging-in-pvp/)
- - [Samsung Clears Out G50D Odyssey Gaming Monitor at 42% Off, the 32″ Model Is Now Cheaper Than the 27″](https://kotaku.com/samsung-clears-out-g50d-odyssey-gaming-monitor-at-42-off-the-32%e2%80%b3-model-is-now-cheaper-than-the-27%e2%80%b3-2000653260)<!-- GAME:END -->
+ - [Arc Raiders&#39; matchmaking is aggression-based, so if you&#39;re hostile, so are they](https://www.polygon.com/arc-raiders-hostile-players-matchmaking-algorithm/)
+ - [Samsung Drops Its microSD Card Below $0.13 per GB for Holidays, the Cheapest Nintendo Switch Storage Upgrade](https://kotaku.com/samsung-drops-its-microsd-card-below-0-13-per-gb-for-holidays-the-cheapest-nintendo-switch-storage-upgrade-2000653790)
+ - [The State Of PlayStation In 2025](https://kotaku.com/playstation-5-2025-ghost-yotei-sales-plus-price-hike-2000653527)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
