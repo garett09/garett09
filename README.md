@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook Messenger for macOS departs the desktop](https://appleinsider.com/articles/25/12/15/facebook-messenger-for-macos-departs-the-desktop?utm_source=rss)
- - [Memo: Greg Peters and Ted Sarandos lay out Netflix&#39;s WBD case, moving to quell concerns about job losses and the end of theater releases, after Paramount&#39;s bid &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251215/p17#a251215p17)
- - [Berlin-based Mirelo, whose AI models can interpret video content to add matching sound effects, raised a $41M seed led by Index and a16z, after a $3M pre-seed &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251215/p16#a251215p16)<!-- TECH:END -->
+ - [Racks of AI chips are too damn heavy](https://www.theverge.com/ai-artificial-intelligence/844966/heavy-ai-data-center-buildout)
+ - [There may be two models of Apple&#39;s rumored budget MacBook](https://appleinsider.com/articles/25/12/16/there-may-be-two-models-of-apples-rumored-budget-macbook?utm_source=rss)
+ - [Databricks is raising a $4B Series L at a $134B valuation, up from $100B in August and $62B in December 2024, and had a $4.8B annual revenue run rate in October &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251216/p12#a251216p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
