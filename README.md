@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I just leave this here.](http://9gag.com/gag/aGyrXYw)
- - 🚯 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 🚯 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)<!-- MEMES:END -->
+ - 🚖 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - 🚯 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 🚯 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
 
 --- 
 
