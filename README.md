@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 🚯 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 🚯 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
+ - 🚖 [Judge can&#39;t belive his eys](http://9gag.com/gag/aByM9M2)
+ - 🚯 [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - 🚯 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)<!-- MEMES:END -->
 
 --- 
 
