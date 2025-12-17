@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders&#39; matchmaking is aggression-based, so if you&#39;re hostile, so are they](https://www.polygon.com/arc-raiders-hostile-players-matchmaking-algorithm/)
- - [Samsung Drops Its microSD Card Below $0.13 per GB for Holidays, the Cheapest Nintendo Switch Storage Upgrade](https://kotaku.com/samsung-drops-its-microsd-card-below-0-13-per-gb-for-holidays-the-cheapest-nintendo-switch-storage-upgrade-2000653790)
- - [The State Of PlayStation In 2025](https://kotaku.com/playstation-5-2025-ghost-yotei-sales-plus-price-hike-2000653527)<!-- GAME:END -->
+ - [How to complete Deciphering the Data in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-deciphering-the-data/)
+ - [ASUS Extends GPU Clearance as RTX 5070 at All-Time Low Price Sell Out Faster Than Expected](https://kotaku.com/asus-extends-gpu-clearance-as-rtx-5070-at-all-time-low-price-sell-out-faster-than-expected-2000653926)
+ - [Rob Reiner unlocked Stephen King’s humanity — and his own career — in Stand By Me](https://www.polygon.com/rob-reiner-stand-by-me-stephen-king/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
