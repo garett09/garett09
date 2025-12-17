@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Racks of AI chips are too damn heavy](https://www.theverge.com/ai-artificial-intelligence/844966/heavy-ai-data-center-buildout)
- - [There may be two models of Apple&#39;s rumored budget MacBook](https://appleinsider.com/articles/25/12/16/there-may-be-two-models-of-apples-rumored-budget-macbook?utm_source=rss)
- - [Databricks is raising a $4B Series L at a $134B valuation, up from $100B in August and $62B in December 2024, and had a $4.8B annual revenue run rate in October &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251216/p12#a251216p12)<!-- TECH:END -->
+ - [Sources: Blue Owl Capital will not invest in Oracle&#39;s $10B, 1GW data center in Michigan after funding talks stalled due to concerns over debt terms and delays &lpar;Financial Times&rpar;](http://www.techmeme.com/251217/p24#a251217p24)
+ - [Bluesky claims its new contact import feature is ‘privacy-first’](https://www.theverge.com/news/846175/bluesky-find-your-friends-privacy)
+ - [When open, iPhone Fold may be close to the size of an iPad mini](https://appleinsider.com/articles/25/12/17/when-open-iphone-fold-may-be-close-to-the-size-of-an-ipad-mini?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
