@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Judge can&#39;t belive his eys](http://9gag.com/gag/aByM9M2)
- - 🚯 [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 🚯 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)<!-- MEMES:END -->
+ - 🚖 [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
+ - 🚯 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
+ - 🚯 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)<!-- MEMES:END -->
 
 --- 
 
