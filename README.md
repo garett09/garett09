@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Blue Owl Capital will not invest in Oracle&#39;s $10B, 1GW data center in Michigan after funding talks stalled due to concerns over debt terms and delays &lpar;Financial Times&rpar;](http://www.techmeme.com/251217/p24#a251217p24)
- - [Bluesky claims its new contact import feature is ‘privacy-first’](https://www.theverge.com/news/846175/bluesky-find-your-friends-privacy)
- - [When open, iPhone Fold may be close to the size of an iPad mini](https://appleinsider.com/articles/25/12/17/when-open-iphone-fold-may-be-close-to-the-size-of-an-ipad-mini?utm_source=rss)<!-- TECH:END -->
+ - [2025 was the beginning of the end of the TV brightness war](https://www.theverge.com/tech/841054/tv-brightness-hdr-2025)
+ - [North Korean hackers stole a record $2.02B in crypto in 2025, a 51% YoY rise that takes its cumulative stolen total to $6.75B; individual wallet hacks hit 158K &lpar;Chainalysis&rpar;](http://www.techmeme.com/251218/p26#a251218p26)
+ - [Trump Media is merging with a nuclear fusion company](https://www.theverge.com/news/847159/trump-media-tae-technologies-merger-nuclear-fusion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
