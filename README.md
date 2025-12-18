@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete Deciphering the Data in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-deciphering-the-data/)
- - [ASUS Extends GPU Clearance as RTX 5070 at All-Time Low Price Sell Out Faster Than Expected](https://kotaku.com/asus-extends-gpu-clearance-as-rtx-5070-at-all-time-low-price-sell-out-faster-than-expected-2000653926)
- - [Rob Reiner unlocked Stephen King’s humanity — and his own career — in Stand By Me](https://www.polygon.com/rob-reiner-stand-by-me-stephen-king/)<!-- GAME:END -->
+ - [This 67W 3-Port USB-C Wall Charger Goes for Peanuts, Amazon Dumps Stock at Record Low for Year-End](https://kotaku.com/this-67w-3-port-usb-c-wall-charger-goes-for-peanuts-amazon-dumps-stock-at-record-low-for-year-end-2000654544)
+ - [Corsair One i600 review](https://www.pcgamer.com/hardware/gaming-pcs/corsair-one-i600-review/)
+ - [Sony Settles Lawsuit With Tencent Over That Horizon Zero Dawn Knock-Off](https://kotaku.com/horizon-zero-dawn-knock-off-tencent-lawuit-settled-2000654564)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
