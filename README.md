@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
- - 🚯 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
- - 🚯 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)<!-- MEMES:END -->
+ - 🚖 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 🚯 [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 🚯 [Online gaming addict, finally checked out of a hotel in China after a two-year-long stay](http://9gag.com/gag/azxzEyp)<!-- MEMES:END -->
 
 --- 
 
