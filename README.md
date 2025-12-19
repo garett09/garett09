@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 67W 3-Port USB-C Wall Charger Goes for Peanuts, Amazon Dumps Stock at Record Low for Year-End](https://kotaku.com/this-67w-3-port-usb-c-wall-charger-goes-for-peanuts-amazon-dumps-stock-at-record-low-for-year-end-2000654544)
- - [Corsair One i600 review](https://www.pcgamer.com/hardware/gaming-pcs/corsair-one-i600-review/)
- - [Sony Settles Lawsuit With Tencent Over That Horizon Zero Dawn Knock-Off](https://kotaku.com/horizon-zero-dawn-knock-off-tencent-lawuit-settled-2000654564)<!-- GAME:END -->
+ - [Anker Goes on Clearance With Its Power Bank, the New 20,100mAh Charger Drops to Its Lowest Price](https://kotaku.com/anker-goes-on-clearance-with-its-power-bank-the-new-20100mah-charger-drops-to-its-lowest-price-2000654681)
+ - [The 15 Best Christmas Songs Ever](https://kotaku.com/best-christmas-songs-ever-top-15-santa-2000654678)
+ - [2025 was the year the bottom fell out of the Marvel Cinematic Universe](https://www.polygon.com/2025-marvel-cinematic-universe-box-office/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
