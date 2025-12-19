@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2025 was the beginning of the end of the TV brightness war](https://www.theverge.com/tech/841054/tv-brightness-hdr-2025)
- - [North Korean hackers stole a record $2.02B in crypto in 2025, a 51% YoY rise that takes its cumulative stolen total to $6.75B; individual wallet hacks hit 158K &lpar;Chainalysis&rpar;](http://www.techmeme.com/251218/p26#a251218p26)
- - [Trump Media is merging with a nuclear fusion company](https://www.theverge.com/news/847159/trump-media-tae-technologies-merger-nuclear-fusion)<!-- TECH:END -->
+ - [Inside Final Cut Pro -- How Apple abandoned Hollywood](https://appleinsider.com/articles/25/12/19/inside-final-cut-pro----apples-superb-video-editing-suite-and-a-huge-mistake?utm_source=rss)
+ - [Want a Steam Deck 2? This leaked Lenovo Legion Go 2 variant could be for you](https://www.androidauthority.com/lenovo-legion-go-steamos-3626720/)
+ - [YouTube is changing how the Dislike button works on Shorts](https://www.androidauthority.com/youtube-shorts-dislike-not-interested-button-3626782/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
