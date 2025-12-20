@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Final Cut Pro -- How Apple abandoned Hollywood](https://appleinsider.com/articles/25/12/19/inside-final-cut-pro----apples-superb-video-editing-suite-and-a-huge-mistake?utm_source=rss)
- - [Want a Steam Deck 2? This leaked Lenovo Legion Go 2 variant could be for you](https://www.androidauthority.com/lenovo-legion-go-steamos-3626720/)
- - [YouTube is changing how the Dislike button works on Shorts](https://www.androidauthority.com/youtube-shorts-dislike-not-interested-button-3626782/)<!-- TECH:END -->
+ - [Google may finally reverse this controversial Quick Settings change](https://www.androidauthority.com/android-split-internet-quick-settings-3626933/)
+ - [5 Google Photos features that make it hard to quit, even though I want to](https://www.androidauthority.com/google-photos-features-hard-to-quit-3623574/)
+ - [Is Google turning Gemini into the next big Super App?](https://www.androidauthority.com/authority-insights-podcast-017-3626610/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
