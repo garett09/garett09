@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker Goes on Clearance With Its Power Bank, the New 20,100mAh Charger Drops to Its Lowest Price](https://kotaku.com/anker-goes-on-clearance-with-its-power-bank-the-new-20100mah-charger-drops-to-its-lowest-price-2000654681)
- - [The 15 Best Christmas Songs Ever](https://kotaku.com/best-christmas-songs-ever-top-15-santa-2000654678)
- - [2025 was the year the bottom fell out of the Marvel Cinematic Universe](https://www.polygon.com/2025-marvel-cinematic-universe-box-office/)<!-- GAME:END -->
+ - [Sony Crashes PlayStation Portal Pricing in a Sudden Clearance Push, Making Remote PS5 Gaming Cheaper Overnight](https://kotaku.com/sony-crashes-playstation-portal-pricing-in-a-sudden-clearance-push-making-remote-ps5-gaming-cheaper-overnight-2000654542)
+ - [The 10 best horror movies of 2025, ranked](https://www.polygon.com/10-best-horror-movies-2025/)
+ - [Painkiller&#39;s creator isn&#39;t a fan of its recent co-op reboot: &#39;I disagreed with every single thing they&#39;ve done in it&#39;](https://www.pcgamer.com/games/fps/painkillers-creator-isnt-a-fan-of-its-recent-co-op-reboot-i-disagreed-with-every-single-thing-theyve-done-in-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
