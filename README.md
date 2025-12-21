@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may finally reverse this controversial Quick Settings change](https://www.androidauthority.com/android-split-internet-quick-settings-3626933/)
- - [5 Google Photos features that make it hard to quit, even though I want to](https://www.androidauthority.com/google-photos-features-hard-to-quit-3623574/)
- - [Is Google turning Gemini into the next big Super App?](https://www.androidauthority.com/authority-insights-podcast-017-3626610/)<!-- TECH:END -->
+ - [Q&amp;A with Blizzard President Johanna Faries on company staff bonus transparency, working under Xbox leadership, restoring the NetEase partnership, and more &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251221/p7#a251221p7)
+ - [Before I knew it, ChatGPT went from a useful tool to time-wasting a habit](https://www.androidauthority.com/chatgpt-time-wasting-3624039/)
+ - [Ace Combat 8 Will Incorporate Dogfighting Tips From Real Jet Pilots](https://www.cnet.com/tech/gaming/ace-combat-8-will-incorporate-dogfighting-tips-from-real-jet-pilots/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
