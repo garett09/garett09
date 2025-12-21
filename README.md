@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Crashes PlayStation Portal Pricing in a Sudden Clearance Push, Making Remote PS5 Gaming Cheaper Overnight](https://kotaku.com/sony-crashes-playstation-portal-pricing-in-a-sudden-clearance-push-making-remote-ps5-gaming-cheaper-overnight-2000654542)
- - [The 10 best horror movies of 2025, ranked](https://www.polygon.com/10-best-horror-movies-2025/)
- - [Painkiller&#39;s creator isn&#39;t a fan of its recent co-op reboot: &#39;I disagreed with every single thing they&#39;ve done in it&#39;](https://www.pcgamer.com/games/fps/painkillers-creator-isnt-a-fan-of-its-recent-co-op-reboot-i-disagreed-with-every-single-thing-theyve-done-in-it/)<!-- GAME:END -->
+ - [MindsEye, Bubsy, and more of 2025&#39;s worst games according to Metacritic](https://www.polygon.com/worst-video-games-2025-metacritic/)
+ - [Dishonored co-creator says it was &#39;a shock&#39; when Microsoft closed Arkane Austin after Redfall&#39;s release: &#39;We were working on something really cool&#39;](https://www.pcgamer.com/games/fps/dishonored-co-creator-says-it-was-a-shock-when-microsoft-closed-arkane-austin-after-redfalls-release-we-were-working-on-something-really-cool/)
+ - [MacBook Pro M5 With Max Config Drops Record Low, Amazon Drops Margin While Official Site Stays Full Price](https://kotaku.com/macbook-pro-m5-with-max-config-drops-record-low-amazon-drops-margin-while-official-site-stays-full-price-2000655017)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
