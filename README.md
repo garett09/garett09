@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
- - 🚯 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)
- - 🚯 [Testing romance novels](http://9gag.com/gag/a879Y8e)<!-- MEMES:END -->
+ - 🚖 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
+ - 🚯 [You get what you deserve](http://9gag.com/gag/ary0KP0)
+ - 🚯 [Us guys understand brother.](http://9gag.com/gag/aD2LmP7)<!-- MEMES:END -->
 
 --- 
 
