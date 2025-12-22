@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Blizzard President Johanna Faries on company staff bonus transparency, working under Xbox leadership, restoring the NetEase partnership, and more &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251221/p7#a251221p7)
- - [Before I knew it, ChatGPT went from a useful tool to time-wasting a habit](https://www.androidauthority.com/chatgpt-time-wasting-3624039/)
- - [Ace Combat 8 Will Incorporate Dogfighting Tips From Real Jet Pilots](https://www.cnet.com/tech/gaming/ace-combat-8-will-incorporate-dogfighting-tips-from-real-jet-pilots/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s finally time to retire the word ‘podcast’](https://www.theverge.com/entertainment/842457/podcast-show-name-change)
+ - [Inside Final Cut Pro -- How Apple abandoned Hollywood](https://appleinsider.com/articles/25/12/19/inside-final-cut-pro----apples-superb-video-editing-suite-and-a-huge-mistake?utm_source=rss)
+ - [Apple cozies up to Samsung as RAM gets ridiculously expensive](https://appleinsider.com/articles/25/12/22/apple-cozies-up-to-samsung-as-ram-gets-ridiculously-expensive?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
