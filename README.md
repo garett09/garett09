@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MindsEye, Bubsy, and more of 2025&#39;s worst games according to Metacritic](https://www.polygon.com/worst-video-games-2025-metacritic/)
- - [Dishonored co-creator says it was &#39;a shock&#39; when Microsoft closed Arkane Austin after Redfall&#39;s release: &#39;We were working on something really cool&#39;](https://www.pcgamer.com/games/fps/dishonored-co-creator-says-it-was-a-shock-when-microsoft-closed-arkane-austin-after-redfalls-release-we-were-working-on-something-really-cool/)
- - [MacBook Pro M5 With Max Config Drops Record Low, Amazon Drops Margin While Official Site Stays Full Price](https://kotaku.com/macbook-pro-m5-with-max-config-drops-record-low-amazon-drops-margin-while-official-site-stays-full-price-2000655017)<!-- GAME:END -->
+ - [Blue Prince is &#39;the result of 8 years of development, fuelled my imagination and creativity&#39; not AI says publisher](https://www.pcgamer.com/games/puzzle/blue-prince-is-the-result-of-8-years-of-development-fuelled-my-imagination-and-creativity-not-ai-says-publisher/)
+ - [Brainiac and Lex Luthor&#39;s complicated history explained before Man of Tomorrow](https://www.polygon.com/brainiac-man-of-tomorrow-villain-lex-luthor-explainer/)
+ - [Apple Offloads AirTags at a Record Low, Not Just AirPods and MacBooks in a Surprise Year-End Clearance](https://kotaku.com/apple-offloads-airtags-at-a-record-low-not-just-airpods-and-macbooks-in-a-surprise-year-end-clearance-2000655042)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
