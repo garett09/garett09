@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s finally time to retire the word ‘podcast’](https://www.theverge.com/entertainment/842457/podcast-show-name-change)
- - [Inside Final Cut Pro -- How Apple abandoned Hollywood](https://appleinsider.com/articles/25/12/19/inside-final-cut-pro----apples-superb-video-editing-suite-and-a-huge-mistake?utm_source=rss)
- - [Apple cozies up to Samsung as RAM gets ridiculously expensive](https://appleinsider.com/articles/25/12/22/apple-cozies-up-to-samsung-as-ram-gets-ridiculously-expensive?utm_source=rss)<!-- TECH:END -->
+ - [How AI broke the smart home in 2025](https://www.theverge.com/tech/845958/ai-smart-home-broken)
+ - [Android Auto might soon let you cast media right to your car](https://www.androidauthority.com/android-auto-google-cast-support-leak-3627535/)
+ - [Malware bypassed macOS Gatekeeper by abusing Apple&#39;s notarization proccess](https://appleinsider.com/articles/25/12/23/malware-bypassed-macos-gatekeeper-by-abusing-apples-notarization-proccess?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
