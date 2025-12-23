@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blue Prince is &#39;the result of 8 years of development, fuelled my imagination and creativity&#39; not AI says publisher](https://www.pcgamer.com/games/puzzle/blue-prince-is-the-result-of-8-years-of-development-fuelled-my-imagination-and-creativity-not-ai-says-publisher/)
- - [Brainiac and Lex Luthor&#39;s complicated history explained before Man of Tomorrow](https://www.polygon.com/brainiac-man-of-tomorrow-villain-lex-luthor-explainer/)
- - [Apple Offloads AirTags at a Record Low, Not Just AirPods and MacBooks in a Surprise Year-End Clearance](https://kotaku.com/apple-offloads-airtags-at-a-record-low-not-just-airpods-and-macbooks-in-a-surprise-year-end-clearance-2000655042)<!-- GAME:END -->
+ - [Xbox Series X Is Back in Stock at an All-Time Low for Another Clearance Push, While PlayStation Stays Sold Out](https://kotaku.com/xbox-series-x-is-back-in-stock-at-an-all-time-low-for-another-clearance-push-while-playstation-stays-sold-out-2000655323)
+ - [The 10 best horror TV shows of 2025, ranked](https://www.polygon.com/best-horror-tv-shows-2025/)
+ - [LEGO Clears Out the Creative Brick Box at Nearly 50% Off After 80K+ Sold, Build Anything You Want This Holiday](https://kotaku.com/lego-clears-out-the-creative-brick-box-at-nearly-50-off-after-80k-sold-build-anything-you-want-this-holiday-2000655247)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
