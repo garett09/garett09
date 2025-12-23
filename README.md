@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
- - 🚯 [So odd. Yesterday&#39;s Epstein file release included this photo, a drawer with photos in it, including these. And today, it has quietly vanished from the doj&#39;s website. And, it is of trump in both photos. Full sized photo in comments.](http://9gag.com/gag/aVv8eVK)
- - 🚯 [Found this... And I agree](http://9gag.com/gag/a4P8jVp)<!-- MEMES:END -->
+ - 🚖 [No freak](http://9gag.com/gag/avyVGOn)
+ - 🚯 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
+ - 🚯 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)<!-- MEMES:END -->
 
 --- 
 
