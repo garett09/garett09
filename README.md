@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Series X Is Back in Stock at an All-Time Low for Another Clearance Push, While PlayStation Stays Sold Out](https://kotaku.com/xbox-series-x-is-back-in-stock-at-an-all-time-low-for-another-clearance-push-while-playstation-stays-sold-out-2000655323)
- - [The 10 best horror TV shows of 2025, ranked](https://www.polygon.com/best-horror-tv-shows-2025/)
- - [LEGO Clears Out the Creative Brick Box at Nearly 50% Off After 80K+ Sold, Build Anything You Want This Holiday](https://kotaku.com/lego-clears-out-the-creative-brick-box-at-nearly-50-off-after-80k-sold-build-anything-you-want-this-holiday-2000655247)<!-- GAME:END -->
+ - [Amazon Goes Clearance on E-Readers, Kindle Paperwhite Signature Edition &lpar;32GB&rpar; Hits an All-Time Low](https://kotaku.com/amazon-goes-clearance-on-e-readers-kindle-paperwhite-signature-edition-32gb-hits-an-all-time-low-2000655512)
+ - [Terminator 2D: No Fate is the best Terminator since T2](https://www.polygon.com/terminator-2d-no-fate-impressions/)
+ - [The 10 Biggest Gaming Disappointments Of 2025](https://kotaku.com/the-10-biggest-gaming-disappointments-worst-news-game-key-cards-gta-6-delay-2000655356)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
