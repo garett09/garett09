@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No freak](http://9gag.com/gag/avyVGOn)
- - 🚯 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
- - 🚯 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)<!-- MEMES:END -->
+ - 🚖 [She looks like she\u2019s gonna ask a historian if King Arthur came a lot.](http://9gag.com/gag/abAoYwO)
+ - 🚯 [There&#39;s no such thing as a female superhero](http://9gag.com/gag/a879oMY)
+ - 🚯 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)<!-- MEMES:END -->
 
 --- 
 
