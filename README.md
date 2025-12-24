@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI broke the smart home in 2025](https://www.theverge.com/tech/845958/ai-smart-home-broken)
- - [Android Auto might soon let you cast media right to your car](https://www.androidauthority.com/android-auto-google-cast-support-leak-3627535/)
- - [Malware bypassed macOS Gatekeeper by abusing Apple&#39;s notarization proccess](https://appleinsider.com/articles/25/12/23/malware-bypassed-macos-gatekeeper-by-abusing-apples-notarization-proccess?utm_source=rss)<!-- TECH:END -->
+ - [YouTube TV is getting $20 cheaper for select users thanks to a new partnership](https://www.androidauthority.com/verizon-youtube-tv-perk-3627801/)
+ - [Galaxy Z TriFold vs. Huawei Mate XT: One Is the Most Versatile Phone I&#39;ve Ever Used](https://www.cnet.com/tech/mobile/galaxy-z-trifold-vs-huawei-mate-xt/#ftag=CAD590a51e)
+ - [Does Technology Suck Now or Am I Just a Grumpy Old Man?](https://www.cnet.com/tech/mobile/is-technology-actually-terrible-or-am-i-just-a-grumpy-old-man/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
