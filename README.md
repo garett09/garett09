@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She looks like she\u2019s gonna ask a historian if King Arthur came a lot.](http://9gag.com/gag/abAoYwO)
- - 🚯 [There&#39;s no such thing as a female superhero](http://9gag.com/gag/a879oMY)
- - 🚯 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)<!-- MEMES:END -->
+ - 🚖 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
+ - 🚯 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - 🚯 [Brazil is not for beginners](http://9gag.com/gag/aGyqgp6)<!-- MEMES:END -->
 
 --- 
 
