@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV is getting $20 cheaper for select users thanks to a new partnership](https://www.androidauthority.com/verizon-youtube-tv-perk-3627801/)
- - [Galaxy Z TriFold vs. Huawei Mate XT: One Is the Most Versatile Phone I&#39;ve Ever Used](https://www.cnet.com/tech/mobile/galaxy-z-trifold-vs-huawei-mate-xt/#ftag=CAD590a51e)
- - [Does Technology Suck Now or Am I Just a Grumpy Old Man?](https://www.cnet.com/tech/mobile/is-technology-actually-terrible-or-am-i-just-a-grumpy-old-man/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the humans employed to rescue robotaxis; Waymo uses the Honk app to pay $20 to $24 to manually close robotaxi doors and $60 to $80 to tow its cars &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/251225/p6#a251225p6)
+ - [7 smartphone trends I wish would die in 2026](https://www.androidauthority.com/7-smartphone-trends-die-2026-3624290/)
+ - [Hollywood cozied up to AI in 2025 and had nothing good to show for it](https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
