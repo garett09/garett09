@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Quietly Drops the Beats Studio Pro by 49% to Offload ANC Headphone Stock](https://kotaku.com/apple-quietly-drops-the-beats-studio-pro-by-49-to-offload-anc-headphone-stock-2000655539)
- - [The 10 Best Gaming Surprises Of 2025](https://kotaku.com/the-10-best-gaming-surprises-of-2025-star-wars-fortnite-silksong-elden-ring-2000655408)
- - [Learn more than you ever wanted to know about the weird world of Santa games on Steam in our Christmas quiz!](https://www.pcgamer.com/games/learn-more-than-you-ever-wanted-to-know-about-the-weird-world-of-santa-games-on-steam-in-our-christmas-quiz/)<!-- GAME:END -->
+ - [Govee LED Cylinder Floor Lamp Drops to Its Lowest Price to Clear Out Remaining Stock](https://kotaku.com/govee-led-cylinder-floor-lamp-drops-to-its-lowest-price-to-clear-out-remaining-stock-2000655263)
+ - [Stranger Things spinoffs: The Duffer brothers say they&#39;re ‘heavily involved’](https://www.polygon.com/stranger-things-season-5-interview-duffers/)
+ - [Apple AirPods Pro 3 Are Now Cheaper Than Pro 2, Clearing Out Latest Stock at Record Low Before 2026](https://kotaku.com/apple-airpods-pro-3-are-now-cheaper-than-pro-2-clearing-out-latest-stock-at-record-low-before-2026-2000655269)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
