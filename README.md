@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the humans employed to rescue robotaxis; Waymo uses the Honk app to pay $20 to $24 to manually close robotaxi doors and $60 to $80 to tow its cars &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/251225/p6#a251225p6)
- - [7 smartphone trends I wish would die in 2026](https://www.androidauthority.com/7-smartphone-trends-die-2026-3624290/)
- - [Hollywood cozied up to AI in 2025 and had nothing good to show for it](https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025)<!-- TECH:END -->
+ - [Chinese government data: shipments of foreign-branded mobile phones, primarily iPhones, rose 128.4% YoY in November 2025 to 6.93M units &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p6#a251226p6)
+ - [Want to Try Film Photography? Here Are the Analog Cameras You Should Buy](https://www.cnet.com/tech/computing/want-to-try-film-photography-here-are-the-analog-cameras-you-should-buy/#ftag=CAD590a51e)
+ - [NFL Week 17: How To Watch Texans vs. Chargers, Eagles vs. Bills and More Games From Anywhere](https://www.cnet.com/tech/services-and-software/nfl-week-17-how-to-watch-texans-vs-chargers-eagles-vs-bills-and-more-games-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
