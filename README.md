@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
- - 🚯 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
- - 🚯 [Brazil is not for beginners](http://9gag.com/gag/aGyqgp6)<!-- MEMES:END -->
+ - 🚖 [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - 🚯 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 🚯 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
 
 --- 
 
