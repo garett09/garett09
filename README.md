@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Govee LED Cylinder Floor Lamp Drops to Its Lowest Price to Clear Out Remaining Stock](https://kotaku.com/govee-led-cylinder-floor-lamp-drops-to-its-lowest-price-to-clear-out-remaining-stock-2000655263)
- - [Stranger Things spinoffs: The Duffer brothers say they&#39;re ‘heavily involved’](https://www.polygon.com/stranger-things-season-5-interview-duffers/)
- - [Apple AirPods Pro 3 Are Now Cheaper Than Pro 2, Clearing Out Latest Stock at Record Low Before 2026](https://kotaku.com/apple-airpods-pro-3-are-now-cheaper-than-pro-2-clearing-out-latest-stock-at-record-low-before-2026-2000655269)<!-- GAME:END -->
+ - [The best video game boss fights of 2025](https://www.polygon.com/best-boss-fights-of-2025/)
+ - [PC Gamer Hardware Awards: The best gaming CPU of 2025](https://www.pcgamer.com/hardware/processors/pc-gamer-hardware-awards-the-best-gaming-cpu-of-2025/)
+ - [The Automatic Pizza Vending Machine In The Detroit Airport: The Kotaku Review](https://kotaku.com/automatic-pizza-vending-machine-detroit-airport-the-kotaku-review-pizza-cat-2000655797)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
