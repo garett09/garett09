@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 🚯 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 🚯 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
+ - 🚖 [Task Failed Successfully](http://9gag.com/gag/aPA0Z4P)
+ - 🚯 [Best gift for Christmas from the wife](http://9gag.com/gag/a4P8ExQ)
+ - 🚯 [Somali `entrepreneurs` in Minnesota get confronted about childcare fraud](http://9gag.com/gag/agmbo5n)<!-- MEMES:END -->
 
 --- 
 
