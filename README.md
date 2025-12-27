@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese government data: shipments of foreign-branded mobile phones, primarily iPhones, rose 128.4% YoY in November 2025 to 6.93M units &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p6#a251226p6)
- - [Want to Try Film Photography? Here Are the Analog Cameras You Should Buy](https://www.cnet.com/tech/computing/want-to-try-film-photography-here-are-the-analog-cameras-you-should-buy/#ftag=CAD590a51e)
- - [NFL Week 17: How To Watch Texans vs. Chargers, Eagles vs. Bills and More Games From Anywhere](https://www.cnet.com/tech/services-and-software/nfl-week-17-how-to-watch-texans-vs-chargers-eagles-vs-bills-and-more-games-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why you like the Galaxy S25 Edge more than the experts do](https://www.androidauthority.com/galaxy-s25-edge-reviewers-vs-consumers-3626983/)
+ - [8 great games for your Steam Deck from 2025](https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve)
+ - [How to use Apple Games &amp; Game Center for cross-device play &amp; cloud saves](https://appleinsider.com/inside/apple-arcade/tips/how-to-use-apple-games-game-center-for-cross-device-play-cloud-saves?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
