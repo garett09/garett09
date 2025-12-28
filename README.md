@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best video game boss fights of 2025](https://www.polygon.com/best-boss-fights-of-2025/)
- - [PC Gamer Hardware Awards: The best gaming CPU of 2025](https://www.pcgamer.com/hardware/processors/pc-gamer-hardware-awards-the-best-gaming-cpu-of-2025/)
- - [The Automatic Pizza Vending Machine In The Detroit Airport: The Kotaku Review](https://kotaku.com/automatic-pizza-vending-machine-detroit-airport-the-kotaku-review-pizza-cat-2000655797)<!-- GAME:END -->
+ - [Overwatch 2 had its best year yet in 2025](https://www.polygon.com/overwatch-2-best-year-2025/)
+ - [PC Gamer Hardware Awards: The best gaming keyboard of 2025](https://www.pcgamer.com/hardware/gaming-keyboards/pc-gamer-hardware-awards-the-best-gaming-keyboard-of-2025/)
+ - [Umamusume: Pretty Derby made everyone a horse girl in 2025](https://www.polygon.com/umamusume-pretty-derby-2025-retrospective/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
