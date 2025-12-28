@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why you like the Galaxy S25 Edge more than the experts do](https://www.androidauthority.com/galaxy-s25-edge-reviewers-vs-consumers-3626983/)
- - [8 great games for your Steam Deck from 2025](https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve)
- - [How to use Apple Games &amp; Game Center for cross-device play &amp; cloud saves](https://appleinsider.com/inside/apple-arcade/tips/how-to-use-apple-games-game-center-for-cross-device-play-cloud-saves?utm_source=rss)<!-- TECH:END -->
+ - [How Much Melatonin Should You Be Taking? &lpar;2026&rpar;](https://www.wired.com/story/how-much-melatonin-should-i-take-2026/)
+ - [I tested a camera lens accessory for stargazing — and it wasn’t great](https://www.androidauthority.com/oppo-hasselblad-lens-astrophotography-3617382/)
+ - [The best PS5 games from 2025](https://www.theverge.com/games/846828/ps5-best-games-2025)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
