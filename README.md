@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 had its best year yet in 2025](https://www.polygon.com/overwatch-2-best-year-2025/)
- - [PC Gamer Hardware Awards: The best gaming keyboard of 2025](https://www.pcgamer.com/hardware/gaming-keyboards/pc-gamer-hardware-awards-the-best-gaming-keyboard-of-2025/)
- - [Umamusume: Pretty Derby made everyone a horse girl in 2025](https://www.polygon.com/umamusume-pretty-derby-2025-retrospective/)<!-- GAME:END -->
+ - [Forget AirPods Max, Beats Solo 4 Bluetooth Headphones Crash to a Record Low After 10K+ Units Sold](https://kotaku.com/forget-airpods-max-beats-solo-4-bluetooth-headphones-crash-to-a-record-low-after-10k-units-sold-2000655752)
+ - [Samsung Clears Out Galaxy Tab A9+ at All-Time Low, Now the Budget Tablet Alternative to Apple iPad](https://kotaku.com/samsung-clears-out-galaxy-tab-a9-at-all-time-low-now-the-budget-tablet-alternative-to-apple-ipad-2000655755)
+ - [PC Gamer Hardware Awards: The best gaming headset of 2025](https://www.pcgamer.com/hardware/gaming-headsets/pc-gamer-hardware-awards-the-best-gaming-headset-of-2025/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
