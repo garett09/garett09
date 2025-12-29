@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Much Melatonin Should You Be Taking? &lpar;2026&rpar;](https://www.wired.com/story/how-much-melatonin-should-i-take-2026/)
- - [I tested a camera lens accessory for stargazing — and it wasn’t great](https://www.androidauthority.com/oppo-hasselblad-lens-astrophotography-3617382/)
- - [The best PS5 games from 2025](https://www.theverge.com/games/846828/ps5-best-games-2025)<!-- TECH:END -->
+ - [The best shows to watch on HBO Max from 2025](https://www.theverge.com/entertainment/846829/hbo-max-best-shows-2025)
+ - [Xiaomi’s 17 Ultra Leica edition has a rotatable camera zoom](https://www.theverge.com/news/850599/xiaomi-17-ultra-leica-edition-zoom-ring)
+ - [Your Android phone can double up as a travel router and bypass hotel Wi-Fi limits, here’s how](https://www.androidauthority.com/android-wifi-sharing-3628072/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
