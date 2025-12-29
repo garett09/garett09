@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - 🚯 [So there is a Nvidia RTX 5090 shortage, right?](http://9gag.com/gag/aGyqE3K)
- - 🚯 [Great teamwork!](http://9gag.com/gag/aYQBr27)<!-- MEMES:END -->
+ - 🚖 [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)
+ - 🚯 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
+ - 🚯 [The imbalance](http://9gag.com/gag/a7oB8Ow)<!-- MEMES:END -->
 
 --- 
 
