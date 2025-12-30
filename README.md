@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)
- - 🚯 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - 🚯 [The imbalance](http://9gag.com/gag/a7oB8Ow)<!-- MEMES:END -->
+ - 🚖 [This is Shiba-san, the legendary Shiba Inu who `worked` at Suzuki Tobacco Shop in Tokyo. He&#39;d slide open the window to greet customers, accept pets, and even show off cucumbers. Drew visitors worldwide until retiring in 2015. What a dedicated good boy. \u2764\ufe0f](http://9gag.com/gag/aE0bAde)
+ - 🚯 [Instincts never lie](http://9gag.com/gag/aLn3ePP)
+ - 🚯 [My fighters name is clown baby](http://9gag.com/gag/apRX6mD)<!-- MEMES:END -->
 
 --- 
 
