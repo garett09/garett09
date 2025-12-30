@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best shows to watch on HBO Max from 2025](https://www.theverge.com/entertainment/846829/hbo-max-best-shows-2025)
- - [Xiaomi’s 17 Ultra Leica edition has a rotatable camera zoom](https://www.theverge.com/news/850599/xiaomi-17-ultra-leica-edition-zoom-ring)
- - [Your Android phone can double up as a travel router and bypass hotel Wi-Fi limits, here’s how](https://www.androidauthority.com/android-wifi-sharing-3628072/)<!-- TECH:END -->
+ - [Free speech’s great leap backwards](https://www.theverge.com/policy/849841/trump-immigration-social-media-free-speech)
+ - [Marko&#39;s best tech of 2025 -- iPad Pro, and an unexpected MacBook Pro](https://appleinsider.com/articles/25/12/30/markos-best-tech-of-2025----ipad-pro-and-an-unexpected-macbook-pro?utm_source=rss)
+ - [Commodore 64 Ultimate Review: An Astonishing Remake](https://www.wired.com/review/commodore-64-ultimate/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
