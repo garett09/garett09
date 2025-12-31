@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is Shiba-san, the legendary Shiba Inu who `worked` at Suzuki Tobacco Shop in Tokyo. He&#39;d slide open the window to greet customers, accept pets, and even show off cucumbers. Drew visitors worldwide until retiring in 2015. What a dedicated good boy. \u2764\ufe0f](http://9gag.com/gag/aE0bAde)
- - 🚯 [Instincts never lie](http://9gag.com/gag/aLn3ePP)
- - 🚯 [My fighters name is clown baby](http://9gag.com/gag/apRX6mD)<!-- MEMES:END -->
+ - 🚖 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - 🚯 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
+ - 🚯 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
 
 --- 
 
