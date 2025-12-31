@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Free speech’s great leap backwards](https://www.theverge.com/policy/849841/trump-immigration-social-media-free-speech)
- - [Marko&#39;s best tech of 2025 -- iPad Pro, and an unexpected MacBook Pro](https://appleinsider.com/articles/25/12/30/markos-best-tech-of-2025----ipad-pro-and-an-unexpected-macbook-pro?utm_source=rss)
- - [Commodore 64 Ultimate Review: An Astonishing Remake](https://www.wired.com/review/commodore-64-ultimate/)<!-- TECH:END -->
+ - [How and why the famous &#39;1984&#39; ad was really first shown in 1983](https://appleinsider.com/articles/25/12/31/how-and-why-the-famous-1984-ad-was-really-first-shown-in-1983?utm_source=rss)
+ - [Dealroom: 76 European deep tech and life sciences companies spun out from universities reached $1B valuations or $100M in revenue in 2025, or both &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251231/p12#a251231p12)
+ - [How we worked in 2025: William&#39;s desk and wide monitor](https://appleinsider.com/articles/25/12/31/how-we-worked-in-2025-williams-desk-and-wide-monitor?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
