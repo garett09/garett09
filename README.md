@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget AirPods Max, Beats Solo 4 Bluetooth Headphones Crash to a Record Low After 10K+ Units Sold](https://kotaku.com/forget-airpods-max-beats-solo-4-bluetooth-headphones-crash-to-a-record-low-after-10k-units-sold-2000655752)
- - [Samsung Clears Out Galaxy Tab A9+ at All-Time Low, Now the Budget Tablet Alternative to Apple iPad](https://kotaku.com/samsung-clears-out-galaxy-tab-a9-at-all-time-low-now-the-budget-tablet-alternative-to-apple-ipad-2000655755)
- - [PC Gamer Hardware Awards: The best gaming headset of 2025](https://www.pcgamer.com/hardware/gaming-headsets/pc-gamer-hardware-awards-the-best-gaming-headset-of-2025/)<!-- GAME:END -->
+ - [Meta Quest 3S Drops Back to Black Friday Pricing, Now the Cheapest Premium VR Headset](https://kotaku.com/meta-quest-3s-drops-back-to-black-friday-pricing-now-the-cheapest-premium-vr-headset-2000656221)
+ - [Fallout season 2&#39;s treatment of Caesar&#39;s Legion reveals a larger New Vegas problem](https://www.polygon.com/fallouts-season-2-caesars-legion-new-vegas-problem/)
+ - [Together is now streaming on Hulu, and it might make or break your relationship](https://www.polygon.com/together-movie-hulu-recommendation/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
