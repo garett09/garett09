@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How and why the famous &#39;1984&#39; ad was really first shown in 1983](https://appleinsider.com/articles/25/12/31/how-and-why-the-famous-1984-ad-was-really-first-shown-in-1983?utm_source=rss)
- - [Dealroom: 76 European deep tech and life sciences companies spun out from universities reached $1B valuations or $100M in revenue in 2025, or both &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251231/p12#a251231p12)
- - [How we worked in 2025: William&#39;s desk and wide monitor](https://appleinsider.com/articles/25/12/31/how-we-worked-in-2025-williams-desk-and-wide-monitor?utm_source=rss)<!-- TECH:END -->
+ - [What sky high RAM prices mean for your next smartphone?](https://www.androidauthority.com/ram-shortage-prices-explained-3626017/)
+ - [4 Best Smart Scales &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-scales/)
+ - [How to Watch Georgia vs. Ole Miss: Start Time, TV Channel for Sugar Bowl CFP Quarterfinal](https://www.cnet.com/tech/services-and-software/how-to-watch-georgia-vs-ole-miss-start-time-tv-channel-for-sugar-bowl-cfp-quarterfinal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
