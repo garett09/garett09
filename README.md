@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta Quest 3S Drops Back to Black Friday Pricing, Now the Cheapest Premium VR Headset](https://kotaku.com/meta-quest-3s-drops-back-to-black-friday-pricing-now-the-cheapest-premium-vr-headset-2000656221)
- - [Fallout season 2&#39;s treatment of Caesar&#39;s Legion reveals a larger New Vegas problem](https://www.polygon.com/fallouts-season-2-caesars-legion-new-vegas-problem/)
- - [Together is now streaming on Hulu, and it might make or break your relationship](https://www.polygon.com/together-movie-hulu-recommendation/)<!-- GAME:END -->
+ - [50 most anticipated new video games of 2026](https://www.polygon.com/most-anticipated-video-games-new-2026/)
+ - [Anker Goes Big for 2026 With 59% Off Power Station Bundle Including Expansion Batteries and Solar Panels](https://kotaku.com/anker-goes-big-for-2026-with-59-off-power-station-bundle-including-expansion-batteries-and-solar-panels-2000656218)
+ - [New movies on Netflix: 10 horror, sci-fi, and fantasy films streaming on January 1, 2026](https://www.polygon.com/new-movies-on-netflix-january-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
