@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 🚯 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
- - 🚯 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
+ - 🚖 [Holiday](http://9gag.com/gag/aByMPzD)
+ - 🚯 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
+ - 🚯 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)<!-- MEMES:END -->
 
 --- 
 
