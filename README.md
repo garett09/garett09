@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [50 most anticipated new video games of 2026](https://www.polygon.com/most-anticipated-video-games-new-2026/)
- - [Anker Goes Big for 2026 With 59% Off Power Station Bundle Including Expansion Batteries and Solar Panels](https://kotaku.com/anker-goes-big-for-2026-with-59-off-power-station-bundle-including-expansion-batteries-and-solar-panels-2000656218)
- - [New movies on Netflix: 10 horror, sci-fi, and fantasy films streaming on January 1, 2026](https://www.polygon.com/new-movies-on-netflix-january-2026/)<!-- GAME:END -->
+ - [Google Pixel Buds Pro 2 Drop to All-Time Low to Start the New Year, Now Priced Like Older Models Despite Being 2025’s Latest ANC Earbuds](https://kotaku.com/google-pixel-buds-pro-2-drop-to-all-time-low-to-start-the-new-year-now-priced-like-older-models-despite-being-2025s-latest-anc-earbuds-2000656364)
+ - [Marvel’s Next Big Show Finally Has A Trailer Well Worth Watching](https://kotaku.com/marvels-wonder-man-trailer-ben-kingsley-disney-plus-2000656416)
+ - [Apple Keeps the M5 iPad Pro at Its Year-End Clearance Pricing, Extending the Lowest Deal Into the New Year](https://kotaku.com/apple-keeps-the-m5-ipad-pro-at-its-year-end-clearance-pricing-extending-the-lowest-deal-into-the-new-year-2000656226)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
