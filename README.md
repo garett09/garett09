@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG announces the &amp;#8216;world’s lightest 17-inch RTX laptop&amp;#8217;](https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces)
- - [Fender’s first wireless headphones have a long-lasting, replaceable battery](https://www.theverge.com/news/850879/fender-mix-wireless-headphones-bluetooth-modular-replaceable-battery)
- - [Fender’s new Bluetooth speakers can play audio from four sources simultaneously](https://www.theverge.com/gadgets/850912/fender-audio-elie-bluetooth-portable-wireless-speakers-four-inputs-simultaneous)<!-- TECH:END -->
+ - [Framework Laptop 16 &lpar;RTX 5070&rpar; Review: A Dream Come True](https://www.wired.com/review/framework-laptop-16/)
+ - [CES 2026: all the news, gadgets, and innovations from the biggest tech show](https://www.theverge.com/tech/836627/ces-2026-news-gadgets-announcements)
+ - [Why 2026 smartphones won’t have this game-changing camera tech](https://www.androidauthority.com/why-2026-smartphones-wont-have-game-changing-camera-tech-3627733/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
