@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework Laptop 16 &lpar;RTX 5070&rpar; Review: A Dream Come True](https://www.wired.com/review/framework-laptop-16/)
- - [CES 2026: all the news, gadgets, and innovations from the biggest tech show](https://www.theverge.com/tech/836627/ces-2026-news-gadgets-announcements)
- - [Why 2026 smartphones won’t have this game-changing camera tech](https://www.androidauthority.com/why-2026-smartphones-wont-have-game-changing-camera-tech-3627733/)<!-- TECH:END -->
+ - [Jackery&#39;s new Explorer 1500 Ultra is a rugged &amp; portable power station](https://appleinsider.com/articles/26/01/04/jackery-unveils-the-explorer-1500-ultra----a-new-rugged-portable-power-station?utm_source=rss)
+ - [Three new Matter lights debut from Govee with blended RGBIC at CES 2026](https://appleinsider.com/articles/26/01/04/three-new-matter-lights-debut-from-govee-with-blended-rgbic-at-ces-2026?utm_source=rss)
+ - [A profile of June Paik, CEO of Seoul-based chip startup FuriosaAI, valued at ~$700M, whose AI chip dubbed &quot;RNGD&quot; is slated to enter mass production this month &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/260104/p5#a260104p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
