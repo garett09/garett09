@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DC vs Marvel in 2026: Can James Gunn and Supergirl beat Avengers: Doomsday](https://www.polygon.com/marvel-versus-dc-movies-2026/)
- - [Yuna, Hope of Spira proves Magic’s Universes Beyond can tell deep stories](https://www.polygon.com/yuna-hope-of-spira-universes-beyond/)
- - [The PC game releases we&#39;re most excited about in January](https://www.pcgamer.com/games/pc-game-release-dates-january-2026/)<!-- GAME:END -->
+ - [Xbox Series X and PS5 Players Can Grab Battlefield 6 at Its Lowest Price, Over 40% Off to Start the New Year](https://kotaku.com/xbox-series-x-and-ps5-players-can-grab-battlefield-6-at-its-lowest-price-over-40-off-to-start-the-new-year-2000648202)
+ - [The Boys&#39; final season needs to copy one brutal twist from the original comic](https://www.polygon.com/the-boys-final-season-comics-ending-billy-butcher/)
+ - [MSI&#39;s brilliant new QD-OLED screen fixes one of the biggest issues with OLED gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/msis-brilliant-new-qd-oled-screen-fixes-one-of-the-biggest-issues-with-oled-gaming-monitors/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
