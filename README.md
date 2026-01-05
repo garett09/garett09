@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Series X and PS5 Players Can Grab Battlefield 6 at Its Lowest Price, Over 40% Off to Start the New Year](https://kotaku.com/xbox-series-x-and-ps5-players-can-grab-battlefield-6-at-its-lowest-price-over-40-off-to-start-the-new-year-2000648202)
- - [The Boys&#39; final season needs to copy one brutal twist from the original comic](https://www.polygon.com/the-boys-final-season-comics-ending-billy-butcher/)
- - [MSI&#39;s brilliant new QD-OLED screen fixes one of the biggest issues with OLED gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/msis-brilliant-new-qd-oled-screen-fixes-one-of-the-biggest-issues-with-oled-gaming-monitors/)<!-- GAME:END -->
+ - [Apple Goes Full Clearance on MacBook Air &lpar;2025 M4, 13″&rpar; at Record Low to Make Room for the 2026 Laptop Lineup](https://kotaku.com/apple-goes-full-clearance-on-macbook-air-2025-m4-13-at-record-low-to-make-room-for-the-2026-laptop-lineup-2000656510)
+ - [Amazon Offloads This Ryzen 7 Mini PC at Its Lowest Price &lpar;32GB RAM, 1TB SSD&rpar;, Cheaper Alternative to the Mac Mini](https://kotaku.com/amazon-offloads-this-ryzen-7-mini-pc-at-its-lowest-price-32gb-ram-1tb-ssd-cheaper-alternative-to-the-mac-mini-2000656576)
+ - [Next Star Wars movie: Can The Mandalorian and Grogu save the franchise in 2026?](https://www.polygon.com/star-wars-2026-movies/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
