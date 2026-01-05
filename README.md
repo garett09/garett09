@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fatigue](http://9gag.com/gag/amoypZV)
- - 🚯 [I guess Imma make babies now. I have no choice.](http://9gag.com/gag/a5QAq3L)
- - 🚯 [How extrovert people die](http://9gag.com/gag/aMV6q2X)<!-- MEMES:END -->
+ - 🚖 [Rome - the cradle of western architecture and culture.](http://9gag.com/gag/aO8ONnD)
+ - 🚯 [You know what](http://9gag.com/gag/a879Qqp)
+ - 🚯 [Finally someone said it](http://9gag.com/gag/aD2LNBx)<!-- MEMES:END -->
 
 --- 
 
