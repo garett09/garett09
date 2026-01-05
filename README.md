@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jackery&#39;s new Explorer 1500 Ultra is a rugged &amp; portable power station](https://appleinsider.com/articles/26/01/04/jackery-unveils-the-explorer-1500-ultra----a-new-rugged-portable-power-station?utm_source=rss)
- - [Three new Matter lights debut from Govee with blended RGBIC at CES 2026](https://appleinsider.com/articles/26/01/04/three-new-matter-lights-debut-from-govee-with-blended-rgbic-at-ces-2026?utm_source=rss)
- - [A profile of June Paik, CEO of Seoul-based chip startup FuriosaAI, valued at ~$700M, whose AI chip dubbed &quot;RNGD&quot; is slated to enter mass production this month &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/260104/p5#a260104p5)<!-- TECH:END -->
+ - [Watching outdoors just got better with these new weatherproof Google TVs](https://www.androidauthority.com/sylvox-frameless-outdoor-tv-series-2026-launch-3629451/)
+ - [JBL expands open-ear lineup with new buds coming to the US in March](https://www.theverge.com/tech/852021/jbl-open-ear-earbuds-ces-2026)
+ - [JBL expands Endurance workout line with four new earbuds](https://www.theverge.com/tech/853331/jbl-endurance-workout-earbuds-ces-2026)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
