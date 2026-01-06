@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rome - the cradle of western architecture and culture.](http://9gag.com/gag/aO8ONnD)
- - 🚯 [You know what](http://9gag.com/gag/a879Qqp)
- - 🚯 [Finally someone said it](http://9gag.com/gag/aD2LNBx)<!-- MEMES:END -->
+ - 🚖 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 🚯 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 🚯 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
 
 --- 
 
