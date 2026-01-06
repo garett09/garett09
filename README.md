@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watching outdoors just got better with these new weatherproof Google TVs](https://www.androidauthority.com/sylvox-frameless-outdoor-tv-series-2026-launch-3629451/)
- - [JBL expands open-ear lineup with new buds coming to the US in March](https://www.theverge.com/tech/852021/jbl-open-ear-earbuds-ces-2026)
- - [JBL expands Endurance workout line with four new earbuds](https://www.theverge.com/tech/853331/jbl-endurance-workout-earbuds-ces-2026)<!-- TECH:END -->
+ - [Accenture agrees to acquire UK AI startup Faculty, which works with the UK government, for an undisclosed sum; Faculty CEO Marc Warner will become Accenture CTO &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260106/p14#a260106p14)
+ - [TP-Link brings an AI assistant to its smart home and home networking apps](https://www.theverge.com/tech/854017/tp-link-brings-an-ai-assistant-to-its-smart-home-and-home-networking-apps)
+ - [Two new uGreen NASync storage systems have on-device AI](https://appleinsider.com/articles/26/01/06/two-new-ugreen-nasync-storage-systems-have-on-device-ai?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
