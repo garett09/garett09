@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Goes Full Clearance on MacBook Air &lpar;2025 M4, 13″&rpar; at Record Low to Make Room for the 2026 Laptop Lineup](https://kotaku.com/apple-goes-full-clearance-on-macbook-air-2025-m4-13-at-record-low-to-make-room-for-the-2026-laptop-lineup-2000656510)
- - [Amazon Offloads This Ryzen 7 Mini PC at Its Lowest Price &lpar;32GB RAM, 1TB SSD&rpar;, Cheaper Alternative to the Mac Mini](https://kotaku.com/amazon-offloads-this-ryzen-7-mini-pc-at-its-lowest-price-32gb-ram-1tb-ssd-cheaper-alternative-to-the-mac-mini-2000656576)
- - [Next Star Wars movie: Can The Mandalorian and Grogu save the franchise in 2026?](https://www.polygon.com/star-wars-2026-movies/)<!-- GAME:END -->
+ - [CyberPower PC unveils &#39;elegant&#39; new case with three dedicated knobs on the side purely to adjust colours and I think I&#39;m a bit smitten](https://www.pcgamer.com/hardware/pc-cases/cyberpower-pc-unveils-elegant-new-case-with-three-dedicated-knobs-on-the-side-purely-to-adjust-colours-and-i-think-im-a-bit-smitten/)
+ - [Anker Portable Power Station Drops 64%, SOLIX F1500 Can Charge 13 Devices at Once With a 10-Year Lifespan](https://kotaku.com/anker-portable-power-station-drops-64-solix-f1500-can-charge-13-devices-at-once-with-a-10-year-lifespan-2000657097)
+ - [Lego&#39;s smart new 2x4 Smart Brick packs a custom ASIC, speaker, and synthesiser created by &#39;an expert team from the worlds of video gaming, computing... and more&#39;](https://www.pcgamer.com/hardware/legos-smart-new-2x4-smart-brick-packs-a-custom-asic-speaker-and-synthesiser-created-by-an-expert-team-from-the-worlds-of-video-gaming-computing-and-more/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
