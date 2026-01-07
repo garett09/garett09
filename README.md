@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [CyberPower PC unveils &#39;elegant&#39; new case with three dedicated knobs on the side purely to adjust colours and I think I&#39;m a bit smitten](https://www.pcgamer.com/hardware/pc-cases/cyberpower-pc-unveils-elegant-new-case-with-three-dedicated-knobs-on-the-side-purely-to-adjust-colours-and-i-think-im-a-bit-smitten/)
- - [Anker Portable Power Station Drops 64%, SOLIX F1500 Can Charge 13 Devices at Once With a 10-Year Lifespan](https://kotaku.com/anker-portable-power-station-drops-64-solix-f1500-can-charge-13-devices-at-once-with-a-10-year-lifespan-2000657097)
- - [Lego&#39;s smart new 2x4 Smart Brick packs a custom ASIC, speaker, and synthesiser created by &#39;an expert team from the worlds of video gaming, computing... and more&#39;](https://www.pcgamer.com/hardware/legos-smart-new-2x4-smart-brick-packs-a-custom-asic-speaker-and-synthesiser-created-by-an-expert-team-from-the-worlds-of-video-gaming-computing-and-more/)<!-- GAME:END -->
+ - [Critical Role newest collaboration brings Viva La Dirt League to Daggerheart](https://www.polygon.com/critical-role-daggerheart-azerim-viva-la-dirt-league/)
+ - [$420 for a 240 Hz OLED gaming monitor makes the New Year a perfect time for that upgrade](https://www.pcgamer.com/hardware/gaming-monitors/usd420-for-a-240-hz-oled-gaming-monitor-makes-the-new-year-a-perfect-time-for-that-upgrade/)
+ - [Splitgate Devs Try To Salvage Hope From Dire Player Numbers](https://kotaku.com/splitgate-2-arena-reloaded-1047-player-numbers-steam-2000657690)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
