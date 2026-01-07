@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Accenture agrees to acquire UK AI startup Faculty, which works with the UK government, for an undisclosed sum; Faculty CEO Marc Warner will become Accenture CTO &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260106/p14#a260106p14)
- - [TP-Link brings an AI assistant to its smart home and home networking apps](https://www.theverge.com/tech/854017/tp-link-brings-an-ai-assistant-to-its-smart-home-and-home-networking-apps)
- - [Two new uGreen NASync storage systems have on-device AI](https://appleinsider.com/articles/26/01/06/two-new-ugreen-nasync-storage-systems-have-on-device-ai?utm_source=rss)<!-- TECH:END -->
+ - [Nike quietly sold its digital products subsidiary RTFKT on December 16 for an undisclosed sum, roughly one year after Nike shuttered the NFT unit &lpar;Matthew Kish/Oregonian&rpar;](http://www.techmeme.com/260107/p21#a260107p21)
+ - [Apple might copy this key Galaxy S23 Ultra feature… in 2028](https://www.androidauthority.com/apple-iphone-copy-android-camera-sensor-2028-3630450/)
+ - [The best Showstoppers devices spotted at CES 2026](https://appleinsider.com/articles/26/01/07/the-best-showstoppers-devices-spotted-at-ces-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
