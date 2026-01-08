@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
- - 🚯 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)
- - 🚯 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
+ - 🚖 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
+ - 🚯 [Based](http://9gag.com/gag/avyVqzM)
+ - 🚯 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)<!-- MEMES:END -->
 
 --- 
 
