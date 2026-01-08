@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role newest collaboration brings Viva La Dirt League to Daggerheart](https://www.polygon.com/critical-role-daggerheart-azerim-viva-la-dirt-league/)
- - [$420 for a 240 Hz OLED gaming monitor makes the New Year a perfect time for that upgrade](https://www.pcgamer.com/hardware/gaming-monitors/usd420-for-a-240-hz-oled-gaming-monitor-makes-the-new-year-a-perfect-time-for-that-upgrade/)
- - [Splitgate Devs Try To Salvage Hope From Dire Player Numbers](https://kotaku.com/splitgate-2-arena-reloaded-1047-player-numbers-steam-2000657690)<!-- GAME:END -->
+ - [JBL Xtreme 3 Is Back to Its Black Friday Low as Amazon Clears Out the Best-Selling Portable Speaker](https://kotaku.com/jbl-xtreme-3-is-back-to-its-black-friday-low-as-amazon-clears-out-the-best-selling-portable-speaker-2000658112)
+ - [Embark&#39;s CEO says they couldn&#39;t compete &#39;with the likes of EA and Activision&#39; head on so they had to &#39;change the way games were being developed&#39;](https://www.pcgamer.com/games/third-person-shooter/embarks-ceo-says-they-couldnt-compete-with-the-likes-of-ea-and-activision-head-on-so-they-had-to-change-the-way-games-were-being-developed/)
+ - [LG and Samsung announce new TV OLED panel tech cranking out 4,500 nits of brightness, but don&#39;t expect anything like that for PC monitors](https://www.pcgamer.com/hardware/gaming-monitors/lg-and-samsung-announce-new-tv-oled-panel-tech-cranking-out-4-500-nits-of-brightness-but-dont-expect-anything-like-that-for-pc-monitors/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
