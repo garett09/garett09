@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nike quietly sold its digital products subsidiary RTFKT on December 16 for an undisclosed sum, roughly one year after Nike shuttered the NFT unit &lpar;Matthew Kish/Oregonian&rpar;](http://www.techmeme.com/260107/p21#a260107p21)
- - [Apple might copy this key Galaxy S23 Ultra feature… in 2028](https://www.androidauthority.com/apple-iphone-copy-android-camera-sensor-2028-3630450/)
- - [The best Showstoppers devices spotted at CES 2026](https://appleinsider.com/articles/26/01/07/the-best-showstoppers-devices-spotted-at-ces-2026?utm_source=rss)<!-- TECH:END -->
+ - [Protege, which offers an AI data platform to access high-quality, proprietary training data at scale, raised $30M from a16z, extending its $25M Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260108/p24#a260108p24)
+ - [The EU says it ordered X to retain all internal docs and data relating to Grok until the end of 2026, after criticizing Grok&#39;s nonconsensual image generation &lpar;Louise Breusch Rasmussen/Reuters&rpar;](http://www.techmeme.com/260108/p23#a260108p23)
+ - [Android 17’s new App Lock might stop your notifications from spilling secrets](https://www.androidauthority.com/android-17-app-lock-notifications-rumor-3630983/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
