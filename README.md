@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
- - 🚯 [Based](http://9gag.com/gag/avyVqzM)
- - 🚯 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)<!-- MEMES:END -->
+ - 🚖 [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - 🚯 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 🚯 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)<!-- MEMES:END -->
 
 --- 
 
