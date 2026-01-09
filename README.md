@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Protege, which offers an AI data platform to access high-quality, proprietary training data at scale, raised $30M from a16z, extending its $25M Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260108/p24#a260108p24)
- - [The EU says it ordered X to retain all internal docs and data relating to Grok until the end of 2026, after criticizing Grok&#39;s nonconsensual image generation &lpar;Louise Breusch Rasmussen/Reuters&rpar;](http://www.techmeme.com/260108/p23#a260108p23)
- - [Android 17’s new App Lock might stop your notifications from spilling secrets](https://www.androidauthority.com/android-17-app-lock-notifications-rumor-3630983/)<!-- TECH:END -->
+ - [All the tech trends we saw at CES 2026](https://www.theverge.com/tech/859244/ces-2026-highlights-trends)
+ - [Pickle, lighthouse, and meteor among 19 new emoji previewed for 2026](https://appleinsider.com/articles/26/01/09/pickle-lighthouse-and-meteor-among-19-new-emoji-previewed-for-2026?utm_source=rss)
+ - [The EU says it is considering designating WhatsApp a &quot;very large platform&quot;, after WhatsApp published user numbers above the DSA threshold in February 2025 &lpar;Louise Breusch Rasmussen/Reuters&rpar;](http://www.techmeme.com/260109/p9#a260109p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
