@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 🚯 [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 🚯 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)<!-- MEMES:END -->
+ - 🚖 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
+ - 🚯 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
+ - 🚯 [Lol.](http://9gag.com/gag/a9yeovL)<!-- MEMES:END -->
 
 --- 
 
