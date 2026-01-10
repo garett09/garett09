@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [JBL Xtreme 3 Is Back to Its Black Friday Low as Amazon Clears Out the Best-Selling Portable Speaker](https://kotaku.com/jbl-xtreme-3-is-back-to-its-black-friday-low-as-amazon-clears-out-the-best-selling-portable-speaker-2000658112)
- - [Embark&#39;s CEO says they couldn&#39;t compete &#39;with the likes of EA and Activision&#39; head on so they had to &#39;change the way games were being developed&#39;](https://www.pcgamer.com/games/third-person-shooter/embarks-ceo-says-they-couldnt-compete-with-the-likes-of-ea-and-activision-head-on-so-they-had-to-change-the-way-games-were-being-developed/)
- - [LG and Samsung announce new TV OLED panel tech cranking out 4,500 nits of brightness, but don&#39;t expect anything like that for PC monitors](https://www.pcgamer.com/hardware/gaming-monitors/lg-and-samsung-announce-new-tv-oled-panel-tech-cranking-out-4-500-nits-of-brightness-but-dont-expect-anything-like-that-for-pc-monitors/)<!-- GAME:END -->
+ - [If for some reason you can&#39;t get enough of Stranger Things&#39; Vecna, you can now play as him in Dead by Daylight&#39;s latest crossover](https://www.pcgamer.com/games/horror/if-for-some-reason-you-cant-get-enough-of-stranger-things-vecna-you-can-now-play-as-him-in-dead-by-daylights-latest-crossover/)
+ - [Zelda: Breath of the Wild’s Great Plateau reinvented the series](https://www.polygon.com/zelda-breath-of-the-wild-great-plateau/)
+ - [A classic space sim conceived by Star Citizen&#39;s creator just got an unofficial sequel after 15 years of development: &#39;The project was based on the crazy idea that Microsoft &quot;axed&quot; Christ Roberts&#39; Freelancer&#39;](https://www.pcgamer.com/games/sim/a-classic-space-sim-conceived-by-star-citizens-creator-just-got-an-unofficial-sequel-after-15-years-of-development-the-project-was-based-on-the-crazy-idea-that-microsoft-axed-christ-roberts-freelancer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
