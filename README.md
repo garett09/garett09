@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the tech trends we saw at CES 2026](https://www.theverge.com/tech/859244/ces-2026-highlights-trends)
- - [Pickle, lighthouse, and meteor among 19 new emoji previewed for 2026](https://appleinsider.com/articles/26/01/09/pickle-lighthouse-and-meteor-among-19-new-emoji-previewed-for-2026?utm_source=rss)
- - [The EU says it is considering designating WhatsApp a &quot;very large platform&quot;, after WhatsApp published user numbers above the DSA threshold in February 2025 &lpar;Louise Breusch Rasmussen/Reuters&rpar;](http://www.techmeme.com/260109/p9#a260109p9)<!-- TECH:END -->
+ - [Mac mini, the little Mac that could, is 21 years old](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_source=rss)
+ - [Steve Jobs unveiled the first iPhone on January 9, 2007](https://appleinsider.com/articles/26/01/09/when-apple-introduced-the-iphone-on-jan-9-2007-it-was-the-ultimate-computer-for-the-rest-of-us?utm_source=rss)
+ - [The MacBook Pro is 20 years old, today](https://appleinsider.com/articles/22/01/10/steve-jobs-introduced-the-first-macbook-pro-16-years-ago?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
