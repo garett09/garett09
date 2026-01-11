@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When blacks get fatigued with you, you know you have gone insane](http://9gag.com/gag/avyVKyO)
- - 🚯 [Chad Clanker](http://9gag.com/gag/a5QAOPV)
- - 🚯 [Lol.](http://9gag.com/gag/a9yeovL)<!-- MEMES:END -->
+ - 🚖 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
+ - 🚯 [Make your own prison](http://9gag.com/gag/ayNAO6y)
+ - 🚯 [It&#39;s so funny it&#39;s painful](http://9gag.com/gag/ae9EvmB)<!-- MEMES:END -->
 
 --- 
 
