@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac mini, the little Mac that could, is 21 years old](https://appleinsider.com/articles/25/01/10/twenty-years-of-the-mac-mini-the-little-mac-that-could?utm_source=rss)
- - [Steve Jobs unveiled the first iPhone on January 9, 2007](https://appleinsider.com/articles/26/01/09/when-apple-introduced-the-iphone-on-jan-9-2007-it-was-the-ultimate-computer-for-the-rest-of-us?utm_source=rss)
- - [The MacBook Pro is 20 years old, today](https://appleinsider.com/articles/22/01/10/steve-jobs-introduced-the-first-macbook-pro-16-years-ago?utm_source=rss)<!-- TECH:END -->
+ - [Owning your music is now the only defense against AI infested playlists](https://www.androidauthority.com/ai-streaming-vs-real-music-3629958/)
+ - [Will you have to show your ID at the app store?](https://www.theverge.com/column/859351/age-verification-app-stores)
+ - [16 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
