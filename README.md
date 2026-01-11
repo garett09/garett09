@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If for some reason you can&#39;t get enough of Stranger Things&#39; Vecna, you can now play as him in Dead by Daylight&#39;s latest crossover](https://www.pcgamer.com/games/horror/if-for-some-reason-you-cant-get-enough-of-stranger-things-vecna-you-can-now-play-as-him-in-dead-by-daylights-latest-crossover/)
- - [Zelda: Breath of the Wild’s Great Plateau reinvented the series](https://www.polygon.com/zelda-breath-of-the-wild-great-plateau/)
- - [A classic space sim conceived by Star Citizen&#39;s creator just got an unofficial sequel after 15 years of development: &#39;The project was based on the crazy idea that Microsoft &quot;axed&quot; Christ Roberts&#39; Freelancer&#39;](https://www.pcgamer.com/games/sim/a-classic-space-sim-conceived-by-star-citizens-creator-just-got-an-unofficial-sequel-after-15-years-of-development-the-project-was-based-on-the-crazy-idea-that-microsoft-axed-christ-roberts-freelancer/)<!-- GAME:END -->
+ - [Bye Bye Bye: The making of Deadpool &amp; Wolverine’s iconic dance number](https://www.polygon.com/bye-bye-bye-the-making-of-deadpool-wolverines-opening-dance-number/)
+ - [Former Assassin&#39;s Creed director doesn&#39;t think the current way of making big budget games is &#39;tenable&#39;: &#39;I think the future lies in smaller teams&#39;](https://www.pcgamer.com/games/assassins-creed/former-assassins-creed-director-doesnt-think-the-current-way-of-making-big-budget-games-is-tenable-i-think-the-future-lies-in-smaller-teams/)
+ - [John Woo&#39;s Hard Boiled opens with the best shoot-out ever](https://www.polygon.com/john-woos-hard-boiled-opens-with-the-best-shoot-out-ever/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
