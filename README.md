@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Owning your music is now the only defense against AI infested playlists](https://www.androidauthority.com/ai-streaming-vs-real-music-3629958/)
- - [Will you have to show your ID at the app store?](https://www.theverge.com/column/859351/age-verification-app-stores)
- - [16 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)<!-- TECH:END -->
+ - [Galaxy Z Flip 8 camera specs might look a little too familiar](https://www.androidauthority.com/samsung-galaxy-z-flip-8-camera-specs-leak-3631750/)
+ - [Ampere Analysis expects streamer content spending to grow 6% YoY in 2026 to $101B, crossing $100B for the first time; overall global content spend will grow 2% &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/260112/p13#a260112p13)
+ - [Half price iPhone 13 battery replacement is probably only for China](https://appleinsider.com/articles/26/01/12/half-price-iphone-13-battery-replacement-reportedly-offered-for-users-in-china?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
