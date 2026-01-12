@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bye Bye Bye: The making of Deadpool &amp; Wolverine’s iconic dance number](https://www.polygon.com/bye-bye-bye-the-making-of-deadpool-wolverines-opening-dance-number/)
- - [Former Assassin&#39;s Creed director doesn&#39;t think the current way of making big budget games is &#39;tenable&#39;: &#39;I think the future lies in smaller teams&#39;](https://www.pcgamer.com/games/assassins-creed/former-assassins-creed-director-doesnt-think-the-current-way-of-making-big-budget-games-is-tenable-i-think-the-future-lies-in-smaller-teams/)
- - [John Woo&#39;s Hard Boiled opens with the best shoot-out ever](https://www.polygon.com/john-woos-hard-boiled-opens-with-the-best-shoot-out-ever/)<!-- GAME:END -->
+ - [Shokz Starts Open-Ear Sports Headphone Clearance With OpenRun Pro Bone-Conduction Headphones at Their Lowest Price Since Launch](https://kotaku.com/shokz-starts-open-ear-sports-headphone-clearance-with-openrun-pro-bone-conduction-headphones-at-their-lowest-price-since-launch-2000658302)
+ - [Godzilla Minus Zero has a US release date](https://www.polygon.com/godzilla-minus-us-release-date/)
+ - [Jackery Is Offloading the Explorer 300 Portable Power Station at an All-Time Low, Priced Like Small Power Banks](https://kotaku.com/jackery-is-offloading-the-explorer-300-portable-power-station-at-an-all-time-low-priced-like-small-power-banks-2000658283)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
