@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shokz Starts Open-Ear Sports Headphone Clearance With OpenRun Pro Bone-Conduction Headphones at Their Lowest Price Since Launch](https://kotaku.com/shokz-starts-open-ear-sports-headphone-clearance-with-openrun-pro-bone-conduction-headphones-at-their-lowest-price-since-launch-2000658302)
- - [Godzilla Minus Zero has a US release date](https://www.polygon.com/godzilla-minus-us-release-date/)
- - [Jackery Is Offloading the Explorer 300 Portable Power Station at an All-Time Low, Priced Like Small Power Banks](https://kotaku.com/jackery-is-offloading-the-explorer-300-portable-power-station-at-an-all-time-low-priced-like-small-power-banks-2000658283)<!-- GAME:END -->
+ - [HP’s 15.6″ Laptop at Nearly 60% Off Comes With Windows 11 Pro and Microsoft Office, Priced Like a Budget Tablet](https://kotaku.com/this-hp-laptop-at-nearly-60-off-comes-with-windows-11-pro-and-microsoft-office-priced-like-a-budget-tablet-2000659048)
+ - [The Division Might Be Getting Exactly What Destiny Fans Have Long Wanted](https://kotaku.com/division-3-definitive-edition-remaster-destiny-2000658970)
+ - [Lian Li offers purely aesthetic replacements for its white PSU power cables because they &#39;carry a noticeable purple hue&#39;](https://www.pcgamer.com/hardware/power-supplies/lian-li-offers-purely-aesthetic-replacements-for-its-white-psu-power-cables-because-they-carry-a-noticeable-purple-hue/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
