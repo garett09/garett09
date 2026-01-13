@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Flip 8 camera specs might look a little too familiar](https://www.androidauthority.com/samsung-galaxy-z-flip-8-camera-specs-leak-3631750/)
- - [Ampere Analysis expects streamer content spending to grow 6% YoY in 2026 to $101B, crossing $100B for the first time; overall global content spend will grow 2% &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/260112/p13#a260112p13)
- - [Half price iPhone 13 battery replacement is probably only for China](https://appleinsider.com/articles/26/01/12/half-price-iphone-13-battery-replacement-reportedly-offered-for-users-in-china?utm_source=rss)<!-- TECH:END -->
+ - [Google could now make Pixels from scratch in this country](https://www.androidauthority.com/google-pixel-develop-phones-market-3632026/)
+ - [Crypto scams received $14B+ on-chain in 2025, up from 2024&#39;s $12B and potentially rising to $17B+ as more wallets are found; impersonation scams jumped 1,400% &lpar;Chainalysis&rpar;](http://www.techmeme.com/260113/p18#a260113p18)
+ - [Salesforce makes Slack&#39;s new AI-powered Slackbot generally available, helping users answer workflow questions, draft documents, schedule meetings, and more &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/260113/p17#a260113p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
