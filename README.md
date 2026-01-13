@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
- - 🚯 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
- - 🚯 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
+ - 🚖 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - 🚯 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)
+ - 🚯 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 --- 
 
