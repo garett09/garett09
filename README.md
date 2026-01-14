@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 🚯 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)
- - 🚯 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
+ - 🚖 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
+ - 🚯 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 🚯 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)<!-- MEMES:END -->
 
 --- 
 
