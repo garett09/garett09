@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [HP’s 15.6″ Laptop at Nearly 60% Off Comes With Windows 11 Pro and Microsoft Office, Priced Like a Budget Tablet](https://kotaku.com/this-hp-laptop-at-nearly-60-off-comes-with-windows-11-pro-and-microsoft-office-priced-like-a-budget-tablet-2000659048)
- - [The Division Might Be Getting Exactly What Destiny Fans Have Long Wanted](https://kotaku.com/division-3-definitive-edition-remaster-destiny-2000658970)
- - [Lian Li offers purely aesthetic replacements for its white PSU power cables because they &#39;carry a noticeable purple hue&#39;](https://www.pcgamer.com/hardware/power-supplies/lian-li-offers-purely-aesthetic-replacements-for-its-white-psu-power-cables-because-they-carry-a-noticeable-purple-hue/)<!-- GAME:END -->
+ - [&#39;For those who have acrophobia&#39;: Arc Raiders players have discovered a way to snag one of the hardest achievements without having to wrangle a live Rocketeer](https://www.pcgamer.com/games/third-person-shooter/for-those-who-have-acrophobia-arc-raiders-players-have-discovered-a-way-to-snag-one-of-the-hardest-achievements-without-having-to-wrangle-a-live-rocketeer/)
+ - [Shokz OpenRun Pro Headphones Keep You Aware While You Listen, Now 39% Off at Amazon](https://kotaku.com/shokz-openrun-pro-headphones-keep-you-aware-while-you-listen-now-39-off-at-amazon-2000659455)
+ - [Stellar Blade&#39;s director says AI can see &#39;one person can perform the work of 100 people&#39; but that won&#39;t wind up in job losses, somehow](https://www.pcgamer.com/software/ai/stellar-blades-director-says-ai-can-see-one-person-can-perform-the-work-of-100-people-but-that-wont-wind-up-in-job-losses-somehow/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
