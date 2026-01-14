@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could now make Pixels from scratch in this country](https://www.androidauthority.com/google-pixel-develop-phones-market-3632026/)
- - [Crypto scams received $14B+ on-chain in 2025, up from 2024&#39;s $12B and potentially rising to $17B+ as more wallets are found; impersonation scams jumped 1,400% &lpar;Chainalysis&rpar;](http://www.techmeme.com/260113/p18#a260113p18)
- - [Salesforce makes Slack&#39;s new AI-powered Slackbot generally available, helping users answer workflow questions, draft documents, schedule meetings, and more &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/260113/p17#a260113p17)<!-- TECH:END -->
+ - [Fujifilm’s latest Instax Mini printer focuses on the details](https://www.theverge.com/news/861684/fujifilm-instax-mini-evo-cinema-link-plus-price-availability)
+ - [UK police say they banned Maccabi Tel Aviv fans from a soccer match in 2025 after Copilot hallucinated a fake West Ham-Maccabi match in an intelligence report &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260114/p31#a260114p31)
+ - [Is your Galaxy phone slow? One UI 8.5 could make it feel more responsive](https://www.androidauthority.com/samsung-one-ui-8-5-kernel-upgrade-3632330/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
