@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;For those who have acrophobia&#39;: Arc Raiders players have discovered a way to snag one of the hardest achievements without having to wrangle a live Rocketeer](https://www.pcgamer.com/games/third-person-shooter/for-those-who-have-acrophobia-arc-raiders-players-have-discovered-a-way-to-snag-one-of-the-hardest-achievements-without-having-to-wrangle-a-live-rocketeer/)
- - [Shokz OpenRun Pro Headphones Keep You Aware While You Listen, Now 39% Off at Amazon](https://kotaku.com/shokz-openrun-pro-headphones-keep-you-aware-while-you-listen-now-39-off-at-amazon-2000659455)
- - [Stellar Blade&#39;s director says AI can see &#39;one person can perform the work of 100 people&#39; but that won&#39;t wind up in job losses, somehow](https://www.pcgamer.com/software/ai/stellar-blades-director-says-ai-can-see-one-person-can-perform-the-work-of-100-people-but-that-wont-wind-up-in-job-losses-somehow/)<!-- GAME:END -->
+ - [Asus is killing off the RTX 5070 Ti according to fresh report... the first casualty of the memory crisis in the GPU world?](https://www.pcgamer.com/hardware/graphics-cards/asus-is-killing-off-the-rtx-5070-ti-according-to-fresh-report-the-first-casualty-of-the-memory-crisis-in-the-gpu-world/)
+ - [Garmin Helps You Hit Your 2026 Fitness Goals, Now Selling the Forerunner 55 at Its Lowest Price Ever](https://kotaku.com/garmin-helps-you-hit-your-2026-fitness-goals-now-selling-the-forerunner-55-at-its-lowest-price-ever-2000659920)
+ - [Welcome To Backlog Week At Kotaku](https://kotaku.com/welcome-to-backlog-week-at-kotaku-2000659862)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
