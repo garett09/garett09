@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fujifilm’s latest Instax Mini printer focuses on the details](https://www.theverge.com/news/861684/fujifilm-instax-mini-evo-cinema-link-plus-price-availability)
- - [UK police say they banned Maccabi Tel Aviv fans from a soccer match in 2025 after Copilot hallucinated a fake West Ham-Maccabi match in an intelligence report &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260114/p31#a260114p31)
- - [Is your Galaxy phone slow? One UI 8.5 could make it feel more responsive](https://www.androidauthority.com/samsung-one-ui-8-5-kernel-upgrade-3632330/)<!-- TECH:END -->
+ - [Bitmine, the largest corporate holder of ether, invests $200M in MrBeast&#39;s Beast Industries, set to close on January 19; Bitmine holds ~4M ETH valued at ~$13.6B &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260115/p29#a260115p29)
+ - [First look: Here’s how Android’s Intrusion Logging feature for tracking data breaches works](https://www.androidauthority.com/android-intrusion-logging-first-look-3632690/)
+ - [India&#39;s Supreme Court rules Tiger Global&#39;s $1.6B Flipkart stake sale to Walmart in 2018 is subject to taxes, a ruling that may shape future cross-border deals &lpar;Reuters&rpar;](http://www.techmeme.com/260115/p28#a260115p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
