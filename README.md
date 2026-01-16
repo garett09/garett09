@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
- - 🚯 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
- - 🚯 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)<!-- MEMES:END -->
+ - 🚖 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
+ - 🚯 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 🚯 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)<!-- MEMES:END -->
 
 --- 
 
