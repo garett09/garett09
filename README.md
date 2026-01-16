@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitmine, the largest corporate holder of ether, invests $200M in MrBeast&#39;s Beast Industries, set to close on January 19; Bitmine holds ~4M ETH valued at ~$13.6B &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260115/p29#a260115p29)
- - [First look: Here’s how Android’s Intrusion Logging feature for tracking data breaches works](https://www.androidauthority.com/android-intrusion-logging-first-look-3632690/)
- - [India&#39;s Supreme Court rules Tiger Global&#39;s $1.6B Flipkart stake sale to Walmart in 2018 is subject to taxes, a ruling that may shape future cross-border deals &lpar;Reuters&rpar;](http://www.techmeme.com/260115/p28#a260115p28)<!-- TECH:END -->
+ - [‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI](https://www.theverge.com/column/863319/highlights-musk-v-altman-openai)
+ - [nVidia is squeezing out Apple for TSMC foundry capacity](https://appleinsider.com/articles/26/01/16/nvidia-is-squeezing-out-apple-for-tsmc-foundry-capacity?utm_source=rss)
+ - [From charming to consumer corporation -- how Apple has branded itself over the years.](https://appleinsider.com/articles/26/01/16/from-charming-to-consumer-corporation----how-apple-has-branded-itself-over-the-years?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
