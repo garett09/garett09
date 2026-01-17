@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI](https://www.theverge.com/column/863319/highlights-musk-v-altman-openai)
- - [nVidia is squeezing out Apple for TSMC foundry capacity](https://appleinsider.com/articles/26/01/16/nvidia-is-squeezing-out-apple-for-tsmc-foundry-capacity?utm_source=rss)
- - [From charming to consumer corporation -- how Apple has branded itself over the years.](https://appleinsider.com/articles/26/01/16/from-charming-to-consumer-corporation----how-apple-has-branded-itself-over-the-years?utm_source=rss)<!-- TECH:END -->
+ - [5 reasons this $400 Android tablet is better than my iPad](https://www.androidauthority.com/400-dollar-android-tablet-vs-ipad-3630969/)
+ - [Fear and blogging &lpar;and prerelease laptop testing&rpar; in Las Vegas](https://www.theverge.com/tech/862985/asus-zenbook-a16-snapdragon-x2-ces-early-testing-hands-on)
+ - [Our favorite cozy game is back](https://www.theverge.com/tech/863614/animal-crossing-3-rip-netflix-cowork-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
