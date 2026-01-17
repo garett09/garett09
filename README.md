@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
- - 🚯 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
- - 🚯 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)<!-- MEMES:END -->
+ - 🚖 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)
+ - 🚯 [He loves his job,,,, sometimes](http://9gag.com/gag/axyKjAn)
+ - 🚯 [Men only want 1 thing and it is](http://9gag.com/gag/avyqLOE)<!-- MEMES:END -->
 
 --- 
 
