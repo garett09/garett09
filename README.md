@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus is killing off the RTX 5070 Ti according to fresh report... the first casualty of the memory crisis in the GPU world?](https://www.pcgamer.com/hardware/graphics-cards/asus-is-killing-off-the-rtx-5070-ti-according-to-fresh-report-the-first-casualty-of-the-memory-crisis-in-the-gpu-world/)
- - [Garmin Helps You Hit Your 2026 Fitness Goals, Now Selling the Forerunner 55 at Its Lowest Price Ever](https://kotaku.com/garmin-helps-you-hit-your-2026-fitness-goals-now-selling-the-forerunner-55-at-its-lowest-price-ever-2000659920)
- - [Welcome To Backlog Week At Kotaku](https://kotaku.com/welcome-to-backlog-week-at-kotaku-2000659862)<!-- GAME:END -->
+ - [All the awards Expedition 33 still has left to win — and the awards it won&#39;t](https://www.polygon.com/gaming-awards-2025-dice-gdc-igf-bafta-clair-obscur/)
+ - [You&#39;ve got until Monday to get 80% off 2 of the best dungeon crawlers ever made](https://www.pcgamer.com/games/rpg/youve-got-until-monday-to-get-80-percent-off-two-of-the-best-dungeon-crawlers-ever-made/)
+ - [Check out one of Eddie Murphy’s best comedies &lpar;and its so-so sequel&rpar; before it leaves Netflix](https://www.polygon.com/check-out-one-of-eddie-murphys-best-comedies-and-its-so-so-sequel-before-they-leave-netflix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
