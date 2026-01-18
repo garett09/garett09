@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 reasons this $400 Android tablet is better than my iPad](https://www.androidauthority.com/400-dollar-android-tablet-vs-ipad-3630969/)
- - [Fear and blogging &lpar;and prerelease laptop testing&rpar; in Las Vegas](https://www.theverge.com/tech/862985/asus-zenbook-a16-snapdragon-x2-ces-early-testing-hands-on)
- - [Our favorite cozy game is back](https://www.theverge.com/tech/863614/animal-crossing-3-rip-netflix-cowork-installer)<!-- TECH:END -->
+ - [Why Coinbase derailed the crypto industry’s political future](https://www.theverge.com/policy/864008/senate-clarity-act-coinbase-crypto-market)
+ - [It’s been 8 years of phone AI chips — and they’re still wasting their potential](https://www.androidauthority.com/do-phones-really-need-npu-3632115/)
+ - [Under Musk, the Grok disaster was inevitable](https://www.theverge.com/column/863502/grok-deepfake-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
