@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)
- - 🚯 [He loves his job,,,, sometimes](http://9gag.com/gag/axyKjAn)
- - 🚯 [Men only want 1 thing and it is](http://9gag.com/gag/avyqLOE)<!-- MEMES:END -->
+ - 🚖 [Bro passed by his house 30 minutes ago](http://9gag.com/gag/a2vgdA9)
+ - 🚯 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 🚯 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)<!-- MEMES:END -->
 
 --- 
 
