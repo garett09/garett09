@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Coinbase derailed the crypto industry’s political future](https://www.theverge.com/policy/864008/senate-clarity-act-coinbase-crypto-market)
- - [It’s been 8 years of phone AI chips — and they’re still wasting their potential](https://www.androidauthority.com/do-phones-really-need-npu-3632115/)
- - [Under Musk, the Grok disaster was inevitable](https://www.theverge.com/column/863502/grok-deepfake-musk)<!-- TECH:END -->
+ - [New Pixel 10a leak reveals launch date and some good news on pricing](https://www.androidauthority.com/google-pixel-10a-pricing-availability-leak-3633563/)
+ - [a16z&#39;s Matt Bornstein and others talk adding $1.7B to its $1.25B AI infrastructure fund, focusing on early rounds; Ben Horowitz calls it &quot;one of the best funds&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p14#a260119p14)
+ - [When forecasting a MacBook Pro release date, use order delays &amp; software releases cautiously](https://appleinsider.com/articles/26/01/19/when-forecasting-a-macbook-pro-release-date-use-order-delays-software-releases-cautiously?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
