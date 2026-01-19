@@ -121,9 +121,9 @@ while(dev.isCoding() && dev.isStuck())
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/garett09/Buni-Money-Tracker/pull/4) in [garett09/Buni-Money-Tracker](https://github.com/garett09/Buni-Money-Tracker)
-2. 💪 Opened PR [#4](https://github.com/garett09/Buni-Money-Tracker/pull/4) in [garett09/Buni-Money-Tracker](https://github.com/garett09/Buni-Money-Tracker)
-3. ❗ Opened issue [#3](https://github.com/garett09/Buni-Money-Tracker/issues/3) in [garett09/Buni-Money-Tracker](https://github.com/garett09/Buni-Money-Tracker)
+1. 🚀 Published release [0.4.0](https://github.com/garett09/PiHoleLongTermStats/releases/tag/0.4.0) in [garett09/PiHoleLongTermStats](https://github.com/garett09/PiHoleLongTermStats)
+2. 🚀 Published release [0.3.1](https://github.com/garett09/PiHoleLongTermStats/releases/tag/0.3.1) in [garett09/PiHoleLongTermStats](https://github.com/garett09/PiHoleLongTermStats)
+3. 🚀 Published release [Add new hostnames](https://github.com/garett09/PiHoleLongTermStats/releases/tag/0.3.0) in [garett09/PiHoleLongTermStats](https://github.com/garett09/PiHoleLongTermStats)
 4. ❗ Opened issue [#2](https://github.com/garett09/Buni-Money-Tracker/issues/2) in [garett09/Buni-Money-Tracker](https://github.com/garett09/Buni-Money-Tracker)
 5. 🎉 Merged PR [#1](https://github.com/garett09/Buni-Money-Tracker/pull/1) in [garett09/Buni-Money-Tracker](https://github.com/garett09/Buni-Money-Tracker)
 <!--END_SECTION:activity-->
