@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro passed by his house 30 minutes ago](http://9gag.com/gag/a2vgdA9)
- - 🚯 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - 🚯 [First Minnesota, now Danish](http://9gag.com/gag/aGyvDXn)<!-- MEMES:END -->
+ - 🚖 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
+ - 🚯 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 🚯 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
 
 --- 
 
