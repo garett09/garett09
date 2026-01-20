@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - 🚯 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 🚖 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 🚯 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
  - 🚯 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
 
 --- 
