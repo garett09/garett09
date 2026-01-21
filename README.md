@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 🚯 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
- - 🚯 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
+ - 🚖 [Trained](http://9gag.com/gag/aGyvg45)
+ - 🚯 [White people hiking vs black people hiking](http://9gag.com/gag/a4PgRqm)
+ - 🚯 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
 
 --- 
 
