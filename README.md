@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How BYD beat Tesla](https://www.theverge.com/podcast/864314/byd-tesla-china-evs-vergecast)
- - [Apple&#39;s earnings won&#39;t be dented by RAM price rises yet, says Evercore](https://appleinsider.com/articles/26/01/20/apples-earnings-wont-be-dented-by-ram-price-rises-yet-says-evercore?utm_source=rss)
- - [We’ve just lost our best chance at the next great compact phone](https://www.androidauthority.com/rip-compact-asus-zenfone-3633630/)<!-- TECH:END -->
+ - [European VC funding rose 9% YoY to hit $58B in 2025, below North America&#39;s 46% YoY rise; AI led with $17.5B, followed by biotech&#39;s $13.4B and hardware&#39;s $10.8B &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/260121/p25#a260121p25)
+ - [Detective games get extra cryptic with TR-49’s code-breaking mystery](https://www.theverge.com/games/864630/tr49-review-steam-iphone)
+ - [Android Auto music controls looking different? Google is finally rolling out the new UI](https://www.androidauthority.com/android-auto-media-playback-template-stable-rollout-3634189/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
