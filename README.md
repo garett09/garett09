@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trained](http://9gag.com/gag/aGyvg45)
- - 🚯 [White people hiking vs black people hiking](http://9gag.com/gag/a4PgRqm)
- - 🚯 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
+ - 🚖 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
+ - 🚯 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 🚯 [Singeing a Bull\u2019s Coat Removes Parasites and Prepares the Hide Without Harming the Skin](http://9gag.com/gag/a4Pg1P6)<!-- MEMES:END -->
 
 --- 
 
