@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the awards Expedition 33 still has left to win — and the awards it won&#39;t](https://www.polygon.com/gaming-awards-2025-dice-gdc-igf-bafta-clair-obscur/)
- - [You&#39;ve got until Monday to get 80% off 2 of the best dungeon crawlers ever made](https://www.pcgamer.com/games/rpg/youve-got-until-monday-to-get-80-percent-off-two-of-the-best-dungeon-crawlers-ever-made/)
- - [Check out one of Eddie Murphy’s best comedies &lpar;and its so-so sequel&rpar; before it leaves Netflix](https://www.polygon.com/check-out-one-of-eddie-murphys-best-comedies-and-its-so-so-sequel-before-they-leave-netflix/)<!-- GAME:END -->
+ - [Mario Kart World‘s Best Mode Just Got Even Better](https://kotaku.com/mario-kart-worlds-update-knockout-tour-team-battles-2000662201)
+ - [Amazon Clears Out AMD Ryzen 9 CPU at Its Lowest Price After a Sudden Discount &lpar;16-Core, 32-Thread Processor&rpar;](https://kotaku.com/amazon-clears-out-amd-ryzen-9-cpu-at-its-lowest-price-after-a-sudden-discount-16-core-32-thread-processor-2000661946)
+ - [Blizzard let its UI mods &#39;go farther than we should have&#39;, says game director Ion Hazzikostas, but &#39;the best time to plant a tree is 20 years ago, the second-best time is today&#39;](https://www.pcgamer.com/games/world-of-warcraft/blizzard-let-its-ui-mods-go-farther-than-we-should-have-says-game-director-ion-hazzikostas-but-the-best-time-to-plant-a-tree-is-20-years-ago-the-second-best-time-is-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
