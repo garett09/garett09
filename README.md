@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [European VC funding rose 9% YoY to hit $58B in 2025, below North America&#39;s 46% YoY rise; AI led with $17.5B, followed by biotech&#39;s $13.4B and hardware&#39;s $10.8B &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/260121/p25#a260121p25)
- - [Detective games get extra cryptic with TR-49’s code-breaking mystery](https://www.theverge.com/games/864630/tr49-review-steam-iphone)
- - [Android Auto music controls looking different? Google is finally rolling out the new UI](https://www.androidauthority.com/android-auto-media-playback-template-stable-rollout-3634189/)<!-- TECH:END -->
+ - [The Best Motorola Phones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
+ - [Q&amp;A with Netflix co-CEO Greg Peters on Netflix&#39;s stock roller coaster, viewer engagement, ads, the WBD acquisition, regulation, competition, Hollywood, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260122/p22#a260122p22)
+ - [China Lunar New Year discounts arrive, in profoundly limited quantities](https://appleinsider.com/articles/26/01/22/china-lunar-new-year-discounts-arrive-in-profoundly-limited-quantities?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
