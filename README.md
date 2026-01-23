@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart World‘s Best Mode Just Got Even Better](https://kotaku.com/mario-kart-worlds-update-knockout-tour-team-battles-2000662201)
- - [Amazon Clears Out AMD Ryzen 9 CPU at Its Lowest Price After a Sudden Discount &lpar;16-Core, 32-Thread Processor&rpar;](https://kotaku.com/amazon-clears-out-amd-ryzen-9-cpu-at-its-lowest-price-after-a-sudden-discount-16-core-32-thread-processor-2000661946)
- - [Blizzard let its UI mods &#39;go farther than we should have&#39;, says game director Ion Hazzikostas, but &#39;the best time to plant a tree is 20 years ago, the second-best time is today&#39;](https://www.pcgamer.com/games/world-of-warcraft/blizzard-let-its-ui-mods-go-farther-than-we-should-have-says-game-director-ion-hazzikostas-but-the-best-time-to-plant-a-tree-is-20-years-ago-the-second-best-time-is-today/)<!-- GAME:END -->
+ - [This Mini Gaming PC &lpar;32GB RAM, 1TB SSD&rpar; Drops to an All-Time Low as Amazon Starts Offloading a Top-Rated Tiny PC](https://kotaku.com/this-mini-gaming-pc-32gb-ram-1tb-ssd-drops-to-an-all-time-low-as-amazon-starts-offloading-a-top-rated-tiny-pc-2000662379)
+ - [Critical Role please give us a Campaign 4 map](https://www.polygon.com/critical-role-campaign-4-map-araman-pasitar/)
+ - [Intel&#39;s in no hurry to get 14A all tooled up: &#39;It does not make sense to build out significant capacity there until we know that we have the customers that will accept that demand&#39;](https://www.pcgamer.com/hardware/processors/intels-in-no-hurry-to-get-14a-all-tooled-up-it-does-not-make-sense-to-build-out-significant-capacity-there-until-we-know-that-we-have-the-customers-that-will-accept-that-demand/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
