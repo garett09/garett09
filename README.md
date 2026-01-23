@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Motorola Phones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
- - [Q&amp;A with Netflix co-CEO Greg Peters on Netflix&#39;s stock roller coaster, viewer engagement, ads, the WBD acquisition, regulation, competition, Hollywood, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260122/p22#a260122p22)
- - [China Lunar New Year discounts arrive, in profoundly limited quantities](https://appleinsider.com/articles/26/01/22/china-lunar-new-year-discounts-arrive-in-profoundly-limited-quantities?utm_source=rss)<!-- TECH:END -->
+ - [Apple Pay fees that don&#39;t cost the consumer a dime at center of $2 billion lawsuit](https://appleinsider.com/articles/26/01/23/apple-pay-fees-that-dont-cost-the-consumer-a-dime-at-center-of-2-billion-lawsuit?utm_source=rss)
+ - [Google Photos wants you to star in your own memes](https://www.androidauthority.com/google-photos-me-meme-rollout-3634849/)
+ - [The Best Over-the-Counter Sleep Aids &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-sleep-aids/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
