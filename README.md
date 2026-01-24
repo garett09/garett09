@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Mini Gaming PC &lpar;32GB RAM, 1TB SSD&rpar; Drops to an All-Time Low as Amazon Starts Offloading a Top-Rated Tiny PC](https://kotaku.com/this-mini-gaming-pc-32gb-ram-1tb-ssd-drops-to-an-all-time-low-as-amazon-starts-offloading-a-top-rated-tiny-pc-2000662379)
- - [Critical Role please give us a Campaign 4 map](https://www.polygon.com/critical-role-campaign-4-map-araman-pasitar/)
- - [Intel&#39;s in no hurry to get 14A all tooled up: &#39;It does not make sense to build out significant capacity there until we know that we have the customers that will accept that demand&#39;](https://www.pcgamer.com/hardware/processors/intels-in-no-hurry-to-get-14a-all-tooled-up-it-does-not-make-sense-to-build-out-significant-capacity-there-until-we-know-that-we-have-the-customers-that-will-accept-that-demand/)<!-- GAME:END -->
+ - [Dragon Ball Daima&#39;s Vegeta shares how his childhood dream came true](https://www.polygon.com/dragon-ball-daima-vegeta-voice-actor-interview/)
+ - [This side-scrolling metroidvania inspired by Bloodborne just got completely free DLC, and the base game is 50% off until February](https://www.pcgamer.com/games/action/this-side-scrolling-metroidvania-inspired-by-bloodborne-just-got-completely-free-dlc-and-the-base-game-is-50-percent-off-until-february/)
+ - [Samsung Crashes the Galaxy Watch 7 to a Record Low to Clear Out Old Smartwatch Stock](https://kotaku.com/samsung-crashes-the-galaxy-watch-7-to-a-record-low-to-clear-out-old-smartwatch-stock-2000656210)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
