@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - 🚯 [Accountability, zero](http://9gag.com/gag/axyKMKn)
- - 🚯 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)<!-- MEMES:END -->
+ - 🚖 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
+ - 🚯 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
+ - 🚯 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)<!-- MEMES:END -->
 
 --- 
 
