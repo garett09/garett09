@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay fees that don&#39;t cost the consumer a dime at center of $2 billion lawsuit](https://appleinsider.com/articles/26/01/23/apple-pay-fees-that-dont-cost-the-consumer-a-dime-at-center-of-2-billion-lawsuit?utm_source=rss)
- - [Google Photos wants you to star in your own memes](https://www.androidauthority.com/google-photos-me-meme-rollout-3634849/)
- - [The Best Over-the-Counter Sleep Aids &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-sleep-aids/)<!-- TECH:END -->
+ - [Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More](https://www.cnet.com/tech/mobile/iphone-17e-release-date-price-specs-features-rumors/)
+ - [I’m a Gboard loyalist, but a week with SwiftKey might have changed my mind](https://www.androidauthority.com/swiftkey-vs-gboard-3633825/)
+ - [Best Kitchen Composters and Food Recyclers &lpar;2026&rpar;](https://www.wired.com/story/home-composters-buying-guide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
