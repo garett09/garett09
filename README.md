@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
- - 🚯 [That scratch was phenomenal](http://9gag.com/gag/azxy2bp)
- - 🚯 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)<!-- MEMES:END -->
+ - 🚯 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - 🚯 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)<!-- MEMES:END -->
 
 --- 
 
