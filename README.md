@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More](https://www.cnet.com/tech/mobile/iphone-17e-release-date-price-specs-features-rumors/)
- - [I’m a Gboard loyalist, but a week with SwiftKey might have changed my mind](https://www.androidauthority.com/swiftkey-vs-gboard-3633825/)
- - [Best Kitchen Composters and Food Recyclers &lpar;2026&rpar;](https://www.wired.com/story/home-composters-buying-guide/)<!-- TECH:END -->
+ - [Wireless charging still annoys me, but one moment made it absolutely essential](https://www.androidauthority.com/wireless-charging-annoys-me-but-one-moment-made-essential-3633583/)
+ - [The great e-bike crackdown has begun](https://www.theverge.com/column/866218/e-bike-crackdown)
+ - [Crime blotter: iPad used in $3 million crypto heist](https://appleinsider.com/articles/26/01/25/crime-blotter-ipad-used-in-3-million-crypto-heist?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
