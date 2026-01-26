@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wireless charging still annoys me, but one moment made it absolutely essential](https://www.androidauthority.com/wireless-charging-annoys-me-but-one-moment-made-essential-3633583/)
- - [The great e-bike crackdown has begun](https://www.theverge.com/column/866218/e-bike-crackdown)
- - [Crime blotter: iPad used in $3 million crypto heist](https://appleinsider.com/articles/26/01/25/crime-blotter-ipad-used-in-3-million-crypto-heist?utm_source=rss)<!-- TECH:END -->
+ - [Alleged changes to T-Mobile’s trade-in policy might be a bit of a double-edged sword](https://www.androidauthority.com/t-mobile-trade-changes-3635182/)
+ - [How the explicit deepfake ecosystem evolved from images to high-quality video; an analysis shows 1.4M+ Telegram accounts signed up to 39 deepfake creation bots &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/260126/p18#a260126p18)
+ - [Nvidia invests an additional $2B in CoreWeave to help speed up adding 5GW+ of AI computing capacity by 2030 and deploy Nvidia&#39;s new Vera CPU; CRWV jumps 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260126/p17#a260126p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
