@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The only country even the virus fears.](http://9gag.com/gag/an7Z7P5)
- - 🚯 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 🚯 [Man skips life sentence thanks to smartphone selfie](http://9gag.com/gag/awyjymR)<!-- MEMES:END -->
+ - 🚖 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - 🚯 [Better call Saul](http://9gag.com/gag/ae9zZnq)
+ - 🚯 [RIPig](http://9gag.com/gag/aoyoV72)<!-- MEMES:END -->
 
 --- 
 
