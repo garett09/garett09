@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alleged changes to T-Mobile’s trade-in policy might be a bit of a double-edged sword](https://www.androidauthority.com/t-mobile-trade-changes-3635182/)
- - [How the explicit deepfake ecosystem evolved from images to high-quality video; an analysis shows 1.4M+ Telegram accounts signed up to 39 deepfake creation bots &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/260126/p18#a260126p18)
- - [Nvidia invests an additional $2B in CoreWeave to help speed up adding 5GW+ of AI computing capacity by 2030 and deploy Nvidia&#39;s new Vera CPU; CRWV jumps 9%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260126/p17#a260126p17)<!-- TECH:END -->
+ - [Uber launches Uber AV Labs, a division to collect real-world driving data via sensor-equipped vehicles to train reinforcement learning models for its partners &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260127/p14#a260127p14)
+ - [If you give ChatGPT your health data, have your doctor on speed-dial](https://appleinsider.com/articles/26/01/27/if-you-give-chatgpt-your-health-data-have-your-doctor-on-speed-dial?utm_source=rss)
+ - [The Best Ski Goggles, Editor Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/gallery/best-ski-goggles/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
