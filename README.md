@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 🚯 [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - 🚯 [RIPig](http://9gag.com/gag/aoyoV72)<!-- MEMES:END -->
+ - 🚖 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
+ - 🚯 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
+ - 🚯 [She is also speaking the whole time](http://9gag.com/gag/a5QgzoG)<!-- MEMES:END -->
 
 --- 
 
