@@ -121,11 +121,11 @@ while(dev.isCoding() && dev.isStuck())
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.5.1](https://github.com/garett09/PiHoleLongTermStats/releases/tag/0.5.1) in [garett09/PiHoleLongTermStats](https://github.com/garett09/PiHoleLongTermStats)
-2. 🚀 Published release [Introduce new version](https://github.com/garett09/PiHoleLongTermStats/releases/tag/0.5.0) in [garett09/PiHoleLongTermStats](https://github.com/garett09/PiHoleLongTermStats)
-3. 🚀 Published release [0.4.0](https://github.com/garett09/PiHoleLongTermStats/releases/tag/0.4.0) in [garett09/PiHoleLongTermStats](https://github.com/garett09/PiHoleLongTermStats)
-4. 🚀 Published release [0.3.1](https://github.com/garett09/PiHoleLongTermStats/releases/tag/0.3.1) in [garett09/PiHoleLongTermStats](https://github.com/garett09/PiHoleLongTermStats)
-5. 🚀 Published release [Add new hostnames](https://github.com/garett09/PiHoleLongTermStats/releases/tag/0.3.0) in [garett09/PiHoleLongTermStats](https://github.com/garett09/PiHoleLongTermStats)
+1. 🗣 Commented on [#5159](https://github.com/kirodotdev/Kiro/issues/5159#issuecomment-3804246072) in [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro)
+2. 🚀 Published release [0.5.1](https://github.com/garett09/PiHoleLongTermStats/releases/tag/0.5.1) in [garett09/PiHoleLongTermStats](https://github.com/garett09/PiHoleLongTermStats)
+3. 🚀 Published release [Introduce new version](https://github.com/garett09/PiHoleLongTermStats/releases/tag/0.5.0) in [garett09/PiHoleLongTermStats](https://github.com/garett09/PiHoleLongTermStats)
+4. 🚀 Published release [0.4.0](https://github.com/garett09/PiHoleLongTermStats/releases/tag/0.4.0) in [garett09/PiHoleLongTermStats](https://github.com/garett09/PiHoleLongTermStats)
+5. 🚀 Published release [0.3.1](https://github.com/garett09/PiHoleLongTermStats/releases/tag/0.3.1) in [garett09/PiHoleLongTermStats](https://github.com/garett09/PiHoleLongTermStats)
 <!--END_SECTION:activity-->
 
 ---
