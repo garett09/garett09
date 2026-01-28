@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball Daima&#39;s Vegeta shares how his childhood dream came true](https://www.polygon.com/dragon-ball-daima-vegeta-voice-actor-interview/)
- - [This side-scrolling metroidvania inspired by Bloodborne just got completely free DLC, and the base game is 50% off until February](https://www.pcgamer.com/games/action/this-side-scrolling-metroidvania-inspired-by-bloodborne-just-got-completely-free-dlc-and-the-base-game-is-50-percent-off-until-february/)
- - [Samsung Crashes the Galaxy Watch 7 to a Record Low to Clear Out Old Smartwatch Stock](https://kotaku.com/samsung-crashes-the-galaxy-watch-7-to-a-record-low-to-clear-out-old-smartwatch-stock-2000656210)<!-- GAME:END -->
+ - [Sony Pushes Its Latest ANC Headphones to a Record Low, the WH-1000XM6 Is Now Priced Below the XM5’s Original Cost](https://kotaku.com/sony-pushes-its-latest-anc-headphones-to-a-record-low-the-wh-1000xm6-is-now-priced-below-the-xm5s-original-cost-2000663639)
+ - [Ubisoft Punishes Developer After Publicly Criticizing Its Return-To-Office Mandate](https://kotaku.com/ubisoft-punishes-developer-union-strike-return-to-office-2000663771)
+ - [While Samsung and Crucial SSDs Hold Steady, Kingston’s Portable Drive Hits a New Low](https://kotaku.com/while-samsung-and-crucial-ssds-hold-steady-kingstons-portable-drive-hits-a-new-low-2000663605)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
