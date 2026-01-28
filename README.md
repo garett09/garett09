@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
- - 🚯 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - 🚯 [She is also speaking the whole time](http://9gag.com/gag/a5QgzoG)<!-- MEMES:END -->
+ - 🚖 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)
+ - 🚯 [Ma&#39;am](http://9gag.com/gag/aPALe4G)
+ - 🚯 [That will be a great 1.5 years journey!](http://9gag.com/gag/a34g8R8)<!-- MEMES:END -->
 
 --- 
 
