@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber launches Uber AV Labs, a division to collect real-world driving data via sensor-equipped vehicles to train reinforcement learning models for its partners &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260127/p14#a260127p14)
- - [If you give ChatGPT your health data, have your doctor on speed-dial](https://appleinsider.com/articles/26/01/27/if-you-give-chatgpt-your-health-data-have-your-doctor-on-speed-dial?utm_source=rss)
- - [The Best Ski Goggles, Editor Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/gallery/best-ski-goggles/)<!-- TECH:END -->
+ - [Bluesky is testing ‘live’ features to take on X](https://www.theverge.com/news/869235/bluesky-roadmap-2026-feeds-live-event-features)
+ - [AI sales startup Clay launches its second employee tender offer in under nine months, valuing it at $5B, up from $3.1B in August and $1.5B in its May 2025 offer &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/260128/p27#a260128p27)
+ - [This new Samsung accessory could be the best way to charge your Galaxy S26 wirelessly](https://www.androidauthority.com/samsung-galaxy-s26-magnetic-qi2-charger-leak-3635917/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
