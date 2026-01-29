@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Pushes Its Latest ANC Headphones to a Record Low, the WH-1000XM6 Is Now Priced Below the XM5’s Original Cost](https://kotaku.com/sony-pushes-its-latest-anc-headphones-to-a-record-low-the-wh-1000xm6-is-now-priced-below-the-xm5s-original-cost-2000663639)
- - [Ubisoft Punishes Developer After Publicly Criticizing Its Return-To-Office Mandate](https://kotaku.com/ubisoft-punishes-developer-union-strike-return-to-office-2000663771)
- - [While Samsung and Crucial SSDs Hold Steady, Kingston’s Portable Drive Hits a New Low](https://kotaku.com/while-samsung-and-crucial-ssds-hold-steady-kingstons-portable-drive-hits-a-new-low-2000663605)<!-- GAME:END -->
+ - [Meta lost $19.1 billion on VR last year despite the mother of all pivots to AI including plans for AI-generated gaming](https://www.pcgamer.com/software/ai/meta-lost-usd19-1-billion-on-vr-last-year-despite-the-mother-of-all-pivots-to-ai-including-plans-for-ai-generated-gaming/)
+ - [TCL 40″ Smart TV Crashes to All-Time Low and Doubles as a PC Monitor for Less &lpar;Alexa Built-in, Apple AirPlay Compatibility&rpar;](https://kotaku.com/tcl-40-smart-tv-crashes-to-all-time-low-and-doubles-as-a-pc-monitor-for-less-alexa-built-in-apple-airplay-compatibility-2000663944)
+ - [DJI Drops the Mini 4K Drone to a Record Low After a Second Price Cut, Cheap Enough to Skip the No-Name Drones](https://kotaku.com/dji-drops-the-mini-4k-drone-to-a-record-low-after-a-second-price-cut-cheap-enough-to-skip-the-no-name-drones-2000663935)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
