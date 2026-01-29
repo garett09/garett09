@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)
- - 🚯 [Ma&#39;am](http://9gag.com/gag/aPALe4G)
- - 🚯 [That will be a great 1.5 years journey!](http://9gag.com/gag/a34g8R8)<!-- MEMES:END -->
+ - 🚖 [Ouch. My. Face.](http://9gag.com/gag/ayNrYoM)
+ - 🚯 [Introvert comfort zone.](http://9gag.com/gag/aYQ6A3O)
+ - 🚯 [Brings back memories. Great bus driver and kids](http://9gag.com/gag/ayNrYnX)<!-- MEMES:END -->
 
 --- 
 
