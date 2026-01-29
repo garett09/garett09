@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky is testing ‘live’ features to take on X](https://www.theverge.com/news/869235/bluesky-roadmap-2026-feeds-live-event-features)
- - [AI sales startup Clay launches its second employee tender offer in under nine months, valuing it at $5B, up from $3.1B in August and $1.5B in its May 2025 offer &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/260128/p27#a260128p27)
- - [This new Samsung accessory could be the best way to charge your Galaxy S26 wirelessly](https://www.androidauthority.com/samsung-galaxy-s26-magnetic-qi2-charger-leak-3635917/)<!-- TECH:END -->
+ - [&#39;Father of the iPod&#39; says Apple screwed up AI and should have kept going with the car](https://appleinsider.com/articles/26/01/29/father-of-the-ipod-says-apple-screwed-up-ai-and-should-have-kept-going-with-the-car?utm_source=rss)
+ - [Did you know: This is Samsung’s most popular phone of 2025, and it’s not the S25](https://www.androidauthority.com/best-selling-smartphones-2025-samsung-apple-3636358/)
+ - [Dow plans to cut 4,500 staff to save costs and will rely on AI to boost productivity, resulting in $1.1B to $1.5B in charges; it currently employs ~34,000 staff &lpar;Rob Curran/Wall Street Journal&rpar;](http://www.techmeme.com/260129/p25#a260129p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
