@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ouch. My. Face.](http://9gag.com/gag/ayNrYoM)
- - 🚯 [Introvert comfort zone.](http://9gag.com/gag/aYQ6A3O)
- - 🚯 [Brings back memories. Great bus driver and kids](http://9gag.com/gag/ayNrYnX)<!-- MEMES:END -->
+ - 🚖 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 🚯 [Modern problems require modern solutions](http://9gag.com/gag/aZZXz5X)
+ - 🚯 [This dude is something else](http://9gag.com/gag/aZZXz2V)<!-- MEMES:END -->
 
 --- 
 
