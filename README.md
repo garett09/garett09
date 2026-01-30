@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta lost $19.1 billion on VR last year despite the mother of all pivots to AI including plans for AI-generated gaming](https://www.pcgamer.com/software/ai/meta-lost-usd19-1-billion-on-vr-last-year-despite-the-mother-of-all-pivots-to-ai-including-plans-for-ai-generated-gaming/)
- - [TCL 40″ Smart TV Crashes to All-Time Low and Doubles as a PC Monitor for Less &lpar;Alexa Built-in, Apple AirPlay Compatibility&rpar;](https://kotaku.com/tcl-40-smart-tv-crashes-to-all-time-low-and-doubles-as-a-pc-monitor-for-less-alexa-built-in-apple-airplay-compatibility-2000663944)
- - [DJI Drops the Mini 4K Drone to a Record Low After a Second Price Cut, Cheap Enough to Skip the No-Name Drones](https://kotaku.com/dji-drops-the-mini-4k-drone-to-a-record-low-after-a-second-price-cut-cheap-enough-to-skip-the-no-name-drones-2000663935)<!-- GAME:END -->
+ - [Amazon Clears Out 45W Nintendo Switch Charger at Record Low, Compatible With Switch Lite and Steam Deck](https://kotaku.com/amazon-clears-out-45w-nintendo-switch-charger-at-record-low-compatible-with-switch-lite-and-steam-deck-2000664238)
+ - [Today’s The Last Chance To Buy The Nintendo Switch’s Best Deal](https://kotaku.com/nintendo-switch-game-vouchers-last-day-save-money-2000664520)
+ - [AirPods 4 With ANC Carry the Biggest Discount in Apple’s Earbuds Lineup, Now at Its Lowest Price of the Year](https://kotaku.com/airpods-4-with-anc-carry-the-biggest-discount-in-apples-earbuds-lineup-now-at-an-all-time-low-2000664296)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
