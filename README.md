@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Father of the iPod&#39; says Apple screwed up AI and should have kept going with the car](https://appleinsider.com/articles/26/01/29/father-of-the-ipod-says-apple-screwed-up-ai-and-should-have-kept-going-with-the-car?utm_source=rss)
- - [Did you know: This is Samsung’s most popular phone of 2025, and it’s not the S25](https://www.androidauthority.com/best-selling-smartphones-2025-samsung-apple-3636358/)
- - [Dow plans to cut 4,500 staff to save costs and will rely on AI to boost productivity, resulting in $1.1B to $1.5B in charges; it currently employs ~34,000 staff &lpar;Rob Curran/Wall Street Journal&rpar;](http://www.techmeme.com/260129/p25#a260129p25)<!-- TECH:END -->
+ - [&#39;Infinite Jest&#39; Is Back. Maybe Litbros Should Be, Too](https://www.wired.com/story/infinite-jest-is-back-if-only-litbros-were-too/)
+ - [JP Morgan hikes Apple stock target to $325 after record-breaking earnings](https://appleinsider.com/articles/26/01/30/jp-morgan-hikes-apple-stock-target-to-325-after-record-breaking-earnings?utm_source=rss)
+ - [Checkbox, an AI startup that aims to automate legal intake, raised a $23M Series A led by Touring Capital; Checkbox has 100+ clients, including SAP and PepsiCo &lpar;Anastasia Santoreneos/Forbes Australia&rpar;](http://www.techmeme.com/260130/p8#a260130p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
