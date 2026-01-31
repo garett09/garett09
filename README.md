@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Infinite Jest&#39; Is Back. Maybe Litbros Should Be, Too](https://www.wired.com/story/infinite-jest-is-back-if-only-litbros-were-too/)
- - [JP Morgan hikes Apple stock target to $325 after record-breaking earnings](https://appleinsider.com/articles/26/01/30/jp-morgan-hikes-apple-stock-target-to-325-after-record-breaking-earnings?utm_source=rss)
- - [Checkbox, an AI startup that aims to automate legal intake, raised a $23M Series A led by Touring Capital; Checkbox has 100+ clients, including SAP and PepsiCo &lpar;Anastasia Santoreneos/Forbes Australia&rpar;](http://www.techmeme.com/260130/p8#a260130p8)<!-- TECH:END -->
+ - [Here are 5 privacy-focused alternatives to popular Google apps](https://www.androidauthority.com/google-apps-alternatives-3636368/)
+ - [ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia](https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia)
+ - [A nice upgrade for Apple’s simplest gadget](https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
