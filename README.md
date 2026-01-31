@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Clears Out 45W Nintendo Switch Charger at Record Low, Compatible With Switch Lite and Steam Deck](https://kotaku.com/amazon-clears-out-45w-nintendo-switch-charger-at-record-low-compatible-with-switch-lite-and-steam-deck-2000664238)
- - [Today’s The Last Chance To Buy The Nintendo Switch’s Best Deal](https://kotaku.com/nintendo-switch-game-vouchers-last-day-save-money-2000664520)
- - [AirPods 4 With ANC Carry the Biggest Discount in Apple’s Earbuds Lineup, Now at Its Lowest Price of the Year](https://kotaku.com/airpods-4-with-anc-carry-the-biggest-discount-in-apples-earbuds-lineup-now-at-an-all-time-low-2000664296)<!-- GAME:END -->
+ - [Shelter and Greenland 2 hail from the same action-thriller guru](https://www.polygon.com/ric-roman-waugh-interview-shelter-greenland-2/)
+ - [Steam’s Invite-Only Shooter Deadlock Is Quietly Becoming An Absolute Monster](https://kotaku.com/deadlock-valve-moba-hero-shooter-cast-characters-update-is-it-good-2000664616)
+ - [In a beautifully ironic twist, a YouTuber attempting a pacifist run of Bully discovered a secret weapon hidden for almost 20 years: &#39;I can see why they tried to lock it inside a building&#39;](https://www.pcgamer.com/games/in-a-beautifully-ironic-twist-a-youtuber-attempting-a-pacifist-run-of-bully-discovered-a-secret-weapon-hidden-for-almost-20-years-i-can-see-why-they-tried-to-lock-it-inside-a-building/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
