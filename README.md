@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shelter and Greenland 2 hail from the same action-thriller guru](https://www.polygon.com/ric-roman-waugh-interview-shelter-greenland-2/)
- - [Steam’s Invite-Only Shooter Deadlock Is Quietly Becoming An Absolute Monster](https://kotaku.com/deadlock-valve-moba-hero-shooter-cast-characters-update-is-it-good-2000664616)
- - [In a beautifully ironic twist, a YouTuber attempting a pacifist run of Bully discovered a secret weapon hidden for almost 20 years: &#39;I can see why they tried to lock it inside a building&#39;](https://www.pcgamer.com/games/in-a-beautifully-ironic-twist-a-youtuber-attempting-a-pacifist-run-of-bully-discovered-a-secret-weapon-hidden-for-almost-20-years-i-can-see-why-they-tried-to-lock-it-inside-a-building/)<!-- GAME:END -->
+ - [A new Men in Black animated series is the best way forward for the struggling sci-fi franchise](https://www.polygon.com/men-in-black-animated-series-reboot-is-the-best-way-forward/)
+ - [Over a decade since launch, this cooperative dungeon crawler is getting a double-barrelled update that overhauls its magic system, dungeon generation, and much more](https://www.pcgamer.com/games/rpg/over-a-decade-since-launch-this-cooperative-dungeon-crawler-is-getting-a-double-barrelled-update-that-overhauls-its-magic-system-dungeon-generation-and-much-more/)
+ - [On-Together is the first focus tool videogame I&#39;ve used that understands the importance of partnered-up productivity](https://www.pcgamer.com/games/life-sim/on-together-is-the-first-focus-tool-videogame-ive-used-that-understands-the-importance-of-partnered-up-productivity/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
