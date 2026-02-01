@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 5 privacy-focused alternatives to popular Google apps](https://www.androidauthority.com/google-apps-alternatives-3636368/)
- - [ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia](https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia)
- - [A nice upgrade for Apple’s simplest gadget](https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer)<!-- TECH:END -->
+ - [A look at iOS 26&#39;s call-screening feature, which some say is like having an assistant to filter out unwanted calls, as some complain it makes them miss calls &lpar;Andrew Zucker/Wall Street Journal&rpar;](http://www.techmeme.com/260201/p10#a260201p10)
+ - [Kite-Powered Sailboat Aims to Become World&#39;s Fastest This Year](https://www.cnet.com/roadshow/news/kite-powered-sailboat-aims-to-become-worlds-fastest-this-year/)
+ - [How to Watch Super Bowl 2026: When Do the Patriots and Seahawks Play? TV Channel, VPN, Streaming Info](https://www.cnet.com/tech/services-and-software/where-to-watch-super-bowl-2026-how-to-stream-patriots-seahawks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
