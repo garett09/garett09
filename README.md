@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Korean Invasion](http://9gag.com/gag/a9ywVp6)
- - 🚯 [The whole war becomes about the Greeks trying to dump her in Troy but the Trojans are having none of it.](http://9gag.com/gag/aLnoNwz)
- - 🚯 [When she opens a shaken coke and the foam spills on her](http://9gag.com/gag/a2vgxRw)<!-- MEMES:END -->
+ - 🚖 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
+ - 🚯 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 🚯 [To the 9gager who recommended The Outpost as a must watch my most sincere thanks good sir, it really has all in fantasy genre &lpar;I&#39;m currently at season 4th&rpar;... And to the geh who recommended me Alice in Borderlands I wish you the worst...](http://9gag.com/gag/a34gpG7)<!-- MEMES:END -->
 
 --- 
 
