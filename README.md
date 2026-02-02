@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at iOS 26&#39;s call-screening feature, which some say is like having an assistant to filter out unwanted calls, as some complain it makes them miss calls &lpar;Andrew Zucker/Wall Street Journal&rpar;](http://www.techmeme.com/260201/p10#a260201p10)
- - [Kite-Powered Sailboat Aims to Become World&#39;s Fastest This Year](https://www.cnet.com/roadshow/news/kite-powered-sailboat-aims-to-become-worlds-fastest-this-year/)
- - [How to Watch Super Bowl 2026: When Do the Patriots and Seahawks Play? TV Channel, VPN, Streaming Info](https://www.cnet.com/tech/services-and-software/where-to-watch-super-bowl-2026-how-to-stream-patriots-seahawks/)<!-- TECH:END -->
+ - [Subscriptions like Creator Studio are the future of Apple&#39;s revenue](https://appleinsider.com/articles/26/02/02/subscriptions-like-creator-studio-are-the-future-of-apples-revenue?utm_source=rss)
+ - [Apple&#39;s Button-Less, All-Glass iPhone 20: The Huge Redesign Coming in 2027](https://www.cnet.com/tech/mobile/apple-iphone-20th-anniversary-edition-rumors-2027/)
+ - [3 Best Floodlight Security Cameras &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-floodlight-security-cameras/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
