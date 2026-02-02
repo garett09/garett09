@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Men in Black animated series is the best way forward for the struggling sci-fi franchise](https://www.polygon.com/men-in-black-animated-series-reboot-is-the-best-way-forward/)
- - [Over a decade since launch, this cooperative dungeon crawler is getting a double-barrelled update that overhauls its magic system, dungeon generation, and much more](https://www.pcgamer.com/games/rpg/over-a-decade-since-launch-this-cooperative-dungeon-crawler-is-getting-a-double-barrelled-update-that-overhauls-its-magic-system-dungeon-generation-and-much-more/)
- - [On-Together is the first focus tool videogame I&#39;ve used that understands the importance of partnered-up productivity](https://www.pcgamer.com/games/life-sim/on-together-is-the-first-focus-tool-videogame-ive-used-that-understands-the-importance-of-partnered-up-productivity/)<!-- GAME:END -->
+ - [Apple AirTag 2 Launch Makes the First-Gen Tracker Way Cheaper, With the 4-Pack Now Costing Less Per Unit Than Buying One](https://kotaku.com/apple-airtag-2-launch-makes-the-first-gen-tracker-way-cheaper-with-the-4-pack-now-costing-less-per-unit-than-buying-one-2000664679)
+ - [The ‘Reddit For AI’ Site Is Not A Robot Uprising, It’s A Circle-Jerk Of Slop](https://kotaku.com/moltbook-ai-llm-reddit-robot-uprising-singularity-2000664971)
+ - [This Frankenstein-ed RTX 5070 Ti with a hole in it has just set a world record benchmark score and it&#39;s the most cursed-looking graphics card I&#39;ve ever seen](https://www.pcgamer.com/hardware/graphics-cards/this-frankenstein-ed-rtx-5070-ti-with-a-hole-in-it-has-just-set-a-world-record-benchmark-score-and-its-the-most-cursed-looking-graphics-card-ive-ever-seen/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
