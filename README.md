@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
- - 🚯 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
- - 🚯 [To the 9gager who recommended The Outpost as a must watch my most sincere thanks good sir, it really has all in fantasy genre &lpar;I&#39;m currently at season 4th&rpar;... And to the geh who recommended me Alice in Borderlands I wish you the worst...](http://9gag.com/gag/a34gpG7)<!-- MEMES:END -->
+ - 🚖 [Classical Collection](http://9gag.com/gag/a5Qg9Dr)
+ - 🚯 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
+ - 🚯 [Never surrender](http://9gag.com/gag/an7Z01o)<!-- MEMES:END -->
 
 --- 
 
