@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Subscriptions like Creator Studio are the future of Apple&#39;s revenue](https://appleinsider.com/articles/26/02/02/subscriptions-like-creator-studio-are-the-future-of-apples-revenue?utm_source=rss)
- - [Apple&#39;s Button-Less, All-Glass iPhone 20: The Huge Redesign Coming in 2027](https://www.cnet.com/tech/mobile/apple-iphone-20th-anniversary-edition-rumors-2027/)
- - [3 Best Floodlight Security Cameras &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-floodlight-security-cameras/)<!-- TECH:END -->
+ - [The UK ICO launches a new investigation into X and xAI over &quot;serious concerns&quot; about Grok&#39;s data use and &quot;its potential to produce harmful sexualized&quot; content &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p13#a260203p13)
+ - [Google Home finally adds support for buttons](https://www.theverge.com/tech/872927/google-home-button-support-arrives)
+ - [Disney names Josh D&#39;Amaro, head of its theme parks and consumer products division, as CEO, replacing Bob Iger, effective March 18; D&#39;Amaro joined Disney in 1998 &lpar;Variety&rpar;](http://www.techmeme.com/260203/p12#a260203p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
