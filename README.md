@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK ICO launches a new investigation into X and xAI over &quot;serious concerns&quot; about Grok&#39;s data use and &quot;its potential to produce harmful sexualized&quot; content &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p13#a260203p13)
- - [Google Home finally adds support for buttons](https://www.theverge.com/tech/872927/google-home-button-support-arrives)
- - [Disney names Josh D&#39;Amaro, head of its theme parks and consumer products division, as CEO, replacing Bob Iger, effective March 18; D&#39;Amaro joined Disney in 1998 &lpar;Variety&rpar;](http://www.techmeme.com/260203/p12#a260203p12)<!-- TECH:END -->
+ - [Apple Sports adds golf scores for PGA, WPGA tours](https://appleinsider.com/articles/26/02/04/apple-sports-adds-golf-scores-for-pga-wpga-tours?utm_source=rss)
+ - [Google is testing a cleaner Gemini overlay at the cost of some of its best features](https://www.androidauthority.com/google-gemini-overlay-button-cleanup-apk-teardown-3637805/)
+ - [The Best Cordless Vacuums for Your Whole House &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-cordless-vacuum/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
