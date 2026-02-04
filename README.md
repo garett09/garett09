@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Classical Collection](http://9gag.com/gag/a5Qg9Dr)
- - 🚯 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
- - 🚯 [Never surrender](http://9gag.com/gag/an7Z01o)<!-- MEMES:END -->
+ - 🚖 [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)
+ - 🚯 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
+ - 🚯 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)<!-- MEMES:END -->
 
 --- 
 
