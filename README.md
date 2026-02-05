@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)
- - 🚯 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - 🚯 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)<!-- MEMES:END -->
+ - 🚖 [Hollywood..](http://9gag.com/gag/adBAA62)
+ - 🚯 [John Cena demonstrates his punching power](http://9gag.com/gag/a87NNrV)
+ - 🚯 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)<!-- MEMES:END -->
 
 --- 
 
