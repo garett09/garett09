@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Sports adds golf scores for PGA, WPGA tours](https://appleinsider.com/articles/26/02/04/apple-sports-adds-golf-scores-for-pga-wpga-tours?utm_source=rss)
- - [Google is testing a cleaner Gemini overlay at the cost of some of its best features](https://www.androidauthority.com/google-gemini-overlay-button-cleanup-apk-teardown-3637805/)
- - [The Best Cordless Vacuums for Your Whole House &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-cordless-vacuum/)<!-- TECH:END -->
+ - [Pixel 10a is borrowing a page from Samsung’s playbook with this limited pre-release perk](https://www.androidauthority.com/google-pixel-10a-pre-release-promotion-storage-upgrade-3638191/)
+ - [Can I offer you a tiny Bluetooth speaker in these trying times?](https://www.theverge.com/tech/874009/bluetooth-speaker-gadget-ikea-vappeby)
+ - [Senators ask Meta why it waited so long to make teen accounts private by default](https://www.theverge.com/news/874158/senators-meta-teen-accounts-private-default)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
