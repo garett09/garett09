@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hollywood..](http://9gag.com/gag/adBAA62)
- - 🚯 [John Cena demonstrates his punching power](http://9gag.com/gag/a87NNrV)
- - 🚯 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)<!-- MEMES:END -->
+ - 🚖 [We don&#39;t know what we did!](http://9gag.com/gag/aAyAzD0)
+ - 🚯 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)
+ - 🚯 [Uhmm.](http://9gag.com/gag/aByz5e2)<!-- MEMES:END -->
 
 --- 
 
