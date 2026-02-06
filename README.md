@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10a is borrowing a page from Samsung’s playbook with this limited pre-release perk](https://www.androidauthority.com/google-pixel-10a-pre-release-promotion-storage-upgrade-3638191/)
- - [Can I offer you a tiny Bluetooth speaker in these trying times?](https://www.theverge.com/tech/874009/bluetooth-speaker-gadget-ikea-vappeby)
- - [Senators ask Meta why it waited so long to make teen accounts private by default](https://www.theverge.com/news/874158/senators-meta-teen-accounts-private-default)<!-- TECH:END -->
+ - [How an appeal changed the way the USPTO assesses AI patents under the US Patent Act, signaling a shift towards more favorable treatment of AI and ML inventions &lpar;Matthew Carey/Bloomberg Law&rpar;](http://www.techmeme.com/260206/p7#a260206p7)
+ - [Does your Android phone last longer, charge faster in 2026?](https://www.androidauthority.com/phone-battery-charging-habits-polls-3638547/)
+ - [Apple Health+ scaled back internally, new focus on incremental improvement](https://appleinsider.com/articles/26/02/06/apple-health-scaled-back-internally-will-focus-on-incremental-features-instead?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
