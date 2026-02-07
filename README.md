@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We don&#39;t know what we did!](http://9gag.com/gag/aAyAzD0)
- - 🚯 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)
- - 🚯 [Uhmm.](http://9gag.com/gag/aByz5e2)<!-- MEMES:END -->
+ - 🚖 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
+ - 🚯 [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
+ - 🚯 [Switzerland\u2019s women\u2019s national football team lost 7\u20131 to an under-15 boys\u2019 club team. The boys had bored faces and looked like they wanted to go home.](http://9gag.com/gag/amoQ4gv)<!-- MEMES:END -->
 
 --- 
 
