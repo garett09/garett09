@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple AirTag 2 Launch Makes the First-Gen Tracker Way Cheaper, With the 4-Pack Now Costing Less Per Unit Than Buying One](https://kotaku.com/apple-airtag-2-launch-makes-the-first-gen-tracker-way-cheaper-with-the-4-pack-now-costing-less-per-unit-than-buying-one-2000664679)
- - [The ‘Reddit For AI’ Site Is Not A Robot Uprising, It’s A Circle-Jerk Of Slop](https://kotaku.com/moltbook-ai-llm-reddit-robot-uprising-singularity-2000664971)
- - [This Frankenstein-ed RTX 5070 Ti with a hole in it has just set a world record benchmark score and it&#39;s the most cursed-looking graphics card I&#39;ve ever seen](https://www.pcgamer.com/hardware/graphics-cards/this-frankenstein-ed-rtx-5070-ti-with-a-hole-in-it-has-just-set-a-world-record-benchmark-score-and-its-the-most-cursed-looking-graphics-card-ive-ever-seen/)<!-- GAME:END -->
+ - [3 movie masterpieces buried on Hulu right now](https://www.polygon.com/best-movies-on-hulu-february-2026/)
+ - [Stop waiting for George R.R. Martin&#39;s Winds of Winter. Read his debut sci-fi book instead.](https://www.polygon.com/george-rr-martin-best-book-what-to-read/)
+ - [Get 7 incredible FPS games including Prey, Doom Eternal and Black Mesa for $20 in Humble&#39;s sci-fi shooter bundle](https://www.pcgamer.com/games/fps/get-7-incredible-fps-games-including-prey-doom-eternal-and-black-mesa-for-usd20-in-humbles-sci-fi-shooter-bundle/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
