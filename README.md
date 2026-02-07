@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How an appeal changed the way the USPTO assesses AI patents under the US Patent Act, signaling a shift towards more favorable treatment of AI and ML inventions &lpar;Matthew Carey/Bloomberg Law&rpar;](http://www.techmeme.com/260206/p7#a260206p7)
- - [Does your Android phone last longer, charge faster in 2026?](https://www.androidauthority.com/phone-battery-charging-habits-polls-3638547/)
- - [Apple Health+ scaled back internally, new focus on incremental improvement](https://appleinsider.com/articles/26/02/06/apple-health-scaled-back-internally-will-focus-on-incremental-features-instead?utm_source=rss)<!-- TECH:END -->
+ - [Gemini just saved me $419.20 with a single prompt](https://www.androidauthority.com/gemini-saved-me-419-bucks-3638127/)
+ - [4 Best Website Builders &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
+ - [The best way to watch the Olympics](https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
