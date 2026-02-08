@@ -2,7 +2,7 @@ name: GitHub - Activity - Readme
 
 on:
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,3 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with: 
           COMMIT_MSG: "[AUTOMATED] New activities from Garett!" 
+
