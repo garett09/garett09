@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 13 * * *' # Runs every day, at 1300, to avoid spam in commits
+    - cron: '0 */6 * * *' 
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
@@ -41,3 +41,4 @@ jobs:
           template: $newline - [$title]($url)
           feed_list: "http://feeds.feedburner.com/PSBlog,https://news.xbox.com/en-us/feed/,http://feedproxy.google.com/GameRant,http://www.polygon.com/rss/index.xml,https://kotaku.com/rss,https://www.pcgamer.com/rss/,https://blog.playstation.com/feed/"
           committer_email: adriansian@gmail.com
+
