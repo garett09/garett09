@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Teens arrested for stealing from Cambridge Apple Store](https://appleinsider.com/articles/26/02/08/crime-blotter-teens-arrested-for-stealing-from-cambridge-apple-store?utm_source=rss)
- - [I wanted to ditch Google News, but the alternatives made it worse](https://www.androidauthority.com/why-google-news-is-still-best-android-3638334/)
- - [The Shoes and Brooms Transforming Curling at the 2026 Winter Olympics](https://www.wired.com/story/the-shoes-and-brooms-transforming-curling-at-the-2026-winter-olympics/)<!-- TECH:END -->
+ - [A software engineer explains AI fatigue, compounded by a FOMO treadmill of using labs&#39; latest tools, thinking atrophy, and more, alongside boosted productivity &lpar;Siddhant Khare&rpar;](http://www.techmeme.com/260208/p15#a260208p15)
+ - [OpenClaw partners with VirusTotal and says that all skills published to ClawHub are now scanned using VirusTotal&#39;s threat intelligence &lpar;The Hacker News&rpar;](http://www.techmeme.com/260208/p14#a260208p14)
+ - [You need to listen to the new Mandy, Indiana record: URGH](https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
