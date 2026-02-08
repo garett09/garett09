@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini just saved me $419.20 with a single prompt](https://www.androidauthority.com/gemini-saved-me-419-bucks-3638127/)
- - [4 Best Website Builders &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
- - [The best way to watch the Olympics](https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer)<!-- TECH:END -->
+ - [Crime blotter: Teens arrested for stealing from Cambridge Apple Store](https://appleinsider.com/articles/26/02/08/crime-blotter-teens-arrested-for-stealing-from-cambridge-apple-store?utm_source=rss)
+ - [I wanted to ditch Google News, but the alternatives made it worse](https://www.androidauthority.com/why-google-news-is-still-best-android-3638334/)
+ - [The Shoes and Brooms Transforming Curling at the 2026 Winter Olympics](https://www.wired.com/story/the-shoes-and-brooms-transforming-curling-at-the-2026-winter-olympics/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
