@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 movie masterpieces buried on Hulu right now](https://www.polygon.com/best-movies-on-hulu-february-2026/)
- - [Stop waiting for George R.R. Martin&#39;s Winds of Winter. Read his debut sci-fi book instead.](https://www.polygon.com/george-rr-martin-best-book-what-to-read/)
- - [Get 7 incredible FPS games including Prey, Doom Eternal and Black Mesa for $20 in Humble&#39;s sci-fi shooter bundle](https://www.pcgamer.com/games/fps/get-7-incredible-fps-games-including-prey-doom-eternal-and-black-mesa-for-usd20-in-humbles-sci-fi-shooter-bundle/)<!-- GAME:END -->
+ - [Modders have already put mechs, music boxes, and an &#39;MMO-style dungeon&#39; in Hytale, impressing Hypixel founder: &#39;Absolutely crazy talented&#39;](https://www.pcgamer.com/games/survival-crafting/modders-have-already-put-mechs-music-boxes-and-an-mmo-style-dungeon-in-hytale-impressing-its-lead-dev-absolutely-crazy-talented/)
+ - [Sometimes simple character designs make the most effective cosplays, and this group of Peak Scouts is the perfect example of that](https://www.pcgamer.com/games/sim/sometimes-simple-character-designs-make-the-most-effective-cosplays-and-this-group-of-peak-scouts-is-the-perfect-example-of-that/)
+ - [Stronghold Crusader: Definitive Edition gets a massive update introducing Steam Workshop support, 10 new maps, and a 10-mission cooperative campaign](https://www.pcgamer.com/games/rts/stronghold-crusader-definitive-edition-gets-a-massive-update-introducing-steam-workshop-support-10-new-maps-and-a-10-mission-cooperative-campaign/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
