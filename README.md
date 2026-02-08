@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 🚖 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
  - 🚯 [Job Interview](http://9gag.com/gag/aYQ69dw)
  - 🚯 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
 
