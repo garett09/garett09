@@ -3,7 +3,7 @@ name: Wakatime updates
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '0 13 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -20,3 +20,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
+
