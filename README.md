@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
- - 🚯 [How much turning radius do you want? Around 0.1\u00ba](http://9gag.com/gag/aO8EMzv)
- - 🚯 [Switzerland\u2019s women\u2019s national football team lost 7\u20131 to an under-15 boys\u2019 club team. The boys had bored faces and looked like they wanted to go home.](http://9gag.com/gag/amoQ4gv)<!-- MEMES:END -->
+ - 🚖 [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 🚯 [Job Interview](http://9gag.com/gag/aYQ69dw)
+ - 🚯 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
 
 --- 
 
