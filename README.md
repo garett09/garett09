@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI legal software startup Harvey seeks to raise $200M led by Sequoia and GIC at an $11B valuation, up from $8B after raising $160M in December 2025 &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260209/p15#a260209p15)
- - [HBO Max is finally launching in the UK next month](https://www.theverge.com/streaming/875668/hbo-max-is-finally-launching-in-the-uk-next-month)
- - [How the US government is adopting AI: NASA reports 420 AI use cases in 2025, up from 18 in 2024, HHS reports 398, Energy 325, DOJ 295, Interior 234, and DHS 205 &lpar;Washington Post&rpar;](http://www.techmeme.com/260209/p14#a260209p14)<!-- TECH:END -->
+ - [Lyft launches teen accounts in the US more than two years after Uber, with safety features such as PIN verification, real-time tracking, and audio recordings &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260209/p33#a260209p33)
+ - [AI-generated ads dropped the ball at this year&amp;#8217;s Super Bowl](https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible)
+ - [Neara, which builds digital twins of critical infrastructure to help prepare for disasters, raised a AU$90M Series D, a source says at a AU$1.1B valuation &lpar;Rhiannon Hoyle/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p32#a260209p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
