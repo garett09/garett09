@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Jeannette zu Fürstenberg, who was promoted to president of General Catalyst in January, about investing in European tech and defense startups &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260208/p20#a260208p20)
- - [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game)
- - [As Section 230 turns 30, a look at how upcoming court cases involving Meta, Alphabet, and others in the US could reshape the bounds of Section 230&#39;s protections &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260208/p19#a260208p19)<!-- TECH:END -->
+ - [LineageOS just brought two of the best things about Pixels to custom ROMs](https://www.androidauthority.com/lineageos-23-2-released-3638860/)
+ - [How Runna, an AI-powered virtual coaching app acquired by Strava in 2025, toned down its aggressive training plans following reports of injuries from some users &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p1#a260209p1)
+ - [Super Bowl Tailgate Photo Essay: Bad Bunny, Big Tech, and the Big Game](https://www.wired.com/story/super-bowl-lx-tailgate-photo-essay/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
