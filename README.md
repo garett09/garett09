@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modders have already put mechs, music boxes, and an &#39;MMO-style dungeon&#39; in Hytale, impressing Hypixel founder: &#39;Absolutely crazy talented&#39;](https://www.pcgamer.com/games/survival-crafting/modders-have-already-put-mechs-music-boxes-and-an-mmo-style-dungeon-in-hytale-impressing-its-lead-dev-absolutely-crazy-talented/)
- - [Sometimes simple character designs make the most effective cosplays, and this group of Peak Scouts is the perfect example of that](https://www.pcgamer.com/games/sim/sometimes-simple-character-designs-make-the-most-effective-cosplays-and-this-group-of-peak-scouts-is-the-perfect-example-of-that/)
- - [Stronghold Crusader: Definitive Edition gets a massive update introducing Steam Workshop support, 10 new maps, and a 10-mission cooperative campaign](https://www.pcgamer.com/games/rts/stronghold-crusader-definitive-edition-gets-a-massive-update-introducing-steam-workshop-support-10-new-maps-and-a-10-mission-cooperative-campaign/)<!-- GAME:END -->
+ - [Fallout&#39;s origin can be traced back to a pizza party Tim Cain threw](https://www.pcgamer.com/games/fallout/fallouts-origin-can-be-traced-back-to-a-pizza-party-tim-cain-threw/)
+ - [Watch Super Bowl LX&#39;s best commercials and movie trailers](https://www.polygon.com/super-bowl-2026-best-commercials-movie-trailers/)
+ - [Fallout was a &#39;B-tier product&#39; that lost both the licenses it was banking on and had its lead dev joking, &#39;In a week, we’re going to be asking whether people want fries with their meal,&#39; but now he thinks those trials &#39;turned out to be positives&#39;](https://www.pcgamer.com/games/fallout/fallout-was-a-b-tier-product-that-lost-both-the-licenses-it-was-banking-on-and-had-its-lead-dev-joking-in-a-week-were-going-to-be-asking-whether-people-want-fries-with-their-meal-but-now-he-thinks-those-trials-turned-out-to-be-positives/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
