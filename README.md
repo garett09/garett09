@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A software engineer explains AI fatigue, compounded by a FOMO treadmill of using labs&#39; latest tools, thinking atrophy, and more, alongside boosted productivity &lpar;Siddhant Khare&rpar;](http://www.techmeme.com/260208/p15#a260208p15)
- - [OpenClaw partners with VirusTotal and says that all skills published to ClawHub are now scanned using VirusTotal&#39;s threat intelligence &lpar;The Hacker News&rpar;](http://www.techmeme.com/260208/p14#a260208p14)
- - [You need to listen to the new Mandy, Indiana record: URGH](https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review)<!-- TECH:END -->
+ - [An interview with Jeannette zu Fürstenberg, who was promoted to president of General Catalyst in January, about investing in European tech and defense startups &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260208/p20#a260208p20)
+ - [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game)
+ - [As Section 230 turns 30, a look at how upcoming court cases involving Meta, Alphabet, and others in the US could reshape the bounds of Section 230&#39;s protections &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260208/p19#a260208p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
