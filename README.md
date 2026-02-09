@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LineageOS just brought two of the best things about Pixels to custom ROMs](https://www.androidauthority.com/lineageos-23-2-released-3638860/)
- - [How Runna, an AI-powered virtual coaching app acquired by Strava in 2025, toned down its aggressive training plans following reports of injuries from some users &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p1#a260209p1)
- - [Super Bowl Tailgate Photo Essay: Bad Bunny, Big Tech, and the Big Game](https://www.wired.com/story/super-bowl-lx-tailgate-photo-essay/)<!-- TECH:END -->
+ - [Sources: AI legal software startup Harvey seeks to raise $200M led by Sequoia and GIC at an $11B valuation, up from $8B after raising $160M in December 2025 &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260209/p15#a260209p15)
+ - [HBO Max is finally launching in the UK next month](https://www.theverge.com/streaming/875668/hbo-max-is-finally-launching-in-the-uk-next-month)
+ - [How the US government is adopting AI: NASA reports 420 AI use cases in 2025, up from 18 in 2024, HHS reports 398, Energy 325, DOJ 295, Interior 234, and DHS 205 &lpar;Washington Post&rpar;](http://www.techmeme.com/260209/p14#a260209p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
