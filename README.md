@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I support this message 100%](http://9gag.com/gag/aPALNdR)
- - 🚯 [How to approach a police when you have tourette syndrome](http://9gag.com/gag/avyq3V5)
- - 🚯 [Maybe this should be thought earlier](http://9gag.com/gag/a2vgBZ9)<!-- MEMES:END -->
+ - 🚖 [Ticc best](http://9gag.com/gag/axyKxML)
+ - 🚯 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 🚯 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)<!-- MEMES:END -->
 
 --- 
 
