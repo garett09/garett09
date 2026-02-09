@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Suspicious minds](http://9gag.com/gag/a87NPNV)
- - 🚯 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)
- - 🚯 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)<!-- MEMES:END -->
+ - 🚖 [I support this message 100%](http://9gag.com/gag/aPALNdR)
+ - 🚯 [How to approach a police when you have tourette syndrome](http://9gag.com/gag/avyq3V5)
+ - 🚯 [Maybe this should be thought earlier](http://9gag.com/gag/a2vgBZ9)<!-- MEMES:END -->
 
 --- 
 
