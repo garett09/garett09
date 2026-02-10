@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - 🚯 [No Comment.](http://9gag.com/gag/avyw27W)
- - 🚯 [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)<!-- MEMES:END -->
+ - 🚖 [Scary scary](http://9gag.com/gag/aPALNpR)
+ - 🚯 [Crab](http://9gag.com/gag/awy2NN8)
+ - 🚯 [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)<!-- MEMES:END -->
 
 --- 
 
