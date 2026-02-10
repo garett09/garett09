@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft launches teen accounts in the US more than two years after Uber, with safety features such as PIN verification, real-time tracking, and audio recordings &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260209/p33#a260209p33)
- - [AI-generated ads dropped the ball at this year&amp;#8217;s Super Bowl](https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible)
- - [Neara, which builds digital twins of critical infrastructure to help prepare for disasters, raised a AU$90M Series D, a source says at a AU$1.1B valuation &lpar;Rhiannon Hoyle/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p32#a260209p32)<!-- TECH:END -->
+ - [OpenAI Responds to Critical Super Bowl Commercials by Putting Ads in ChatGPT &lpar;Ece Yildirim/Gizmodo&rpar;](http://www.techmeme.com/260209/p46#a260209p46)
+ - [In opening statements in New Mexico&#39;s suit against Meta, state prosecutors argue Meta misrepresented the safety of its platforms, as Meta&#39;s attorney pushes back &lpar;Morgan Lee/Associated Press&rpar;](http://www.techmeme.com/260209/p45#a260209p45)
+ - [New Mexico goes to trial to accuse Meta of facilitating child predators](https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
