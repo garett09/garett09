@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ticc best](http://9gag.com/gag/axyKxML)
- - 🚯 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - 🚯 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)<!-- MEMES:END -->
+ - 🚖 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 🚯 [No Comment.](http://9gag.com/gag/avyw27W)
+ - 🚯 [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)<!-- MEMES:END -->
 
 --- 
 
