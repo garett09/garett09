@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, TikTok, and Snap agree to undergo independent assessments to rate how effectively they protect teen users based on 24 standards developed by experts &lpar;Ian Duncan/Washington Post&rpar;](http://www.techmeme.com/260210/p20#a260210p20)
- - [Pixel 10a’s store page hints at FaceTime support, but it’s not what you think](https://www.androidauthority.com/pixel-10a-google-store-facetime-mention-3639414/)
- - [Russian media: Russia&#39;s communications regulator Roskomnadzor plans to limit access to Telegram from Tuesday, as the government promotes its Max &quot;super app&quot; &lpar;Deana Kjuka/Bloomberg&rpar;](http://www.techmeme.com/260210/p19#a260210p19)<!-- TECH:END -->
+ - [AYANEO’s monster of a Windows gaming handheld sells for more than a Galaxy Z TriFold](https://www.androidauthority.com/ayaneo-next-2-pricing-3639566/)
+ - [Galaxy S26 shows off its dark side in latest leak](https://www.androidauthority.com/galaxy-s26-black-colorway-3639581/)
+ - [Sharge’s new power bank can charge two laptops while putting on a light show](https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
