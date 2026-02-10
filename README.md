@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [French President Emmanuel Macron says the US could retaliate against EU countries, including France and Spain, over plans to ban children from social media &lpar;Leila Abboud/Financial Times&rpar;](http://www.techmeme.com/260210/p3#a260210p3)
- - [Paris-based online corporate event booking marketplace Naboo raised a $70M Series B led by Lightspeed with participation from Notion Capital, ISAI, and Ternel &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260210/p2#a260210p2)
- - [A court filing in the iyO-OpenAI trademark case reveals OpenAI won&#39;t use the name &quot;io&quot; for its AI device, which isn&#39;t expected to ship before February 2027 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260210/p1#a260210p1)<!-- TECH:END -->
+ - [Meta, TikTok, and Snap agree to undergo independent assessments to rate how effectively they protect teen users based on 24 standards developed by experts &lpar;Ian Duncan/Washington Post&rpar;](http://www.techmeme.com/260210/p20#a260210p20)
+ - [Pixel 10a’s store page hints at FaceTime support, but it’s not what you think](https://www.androidauthority.com/pixel-10a-google-store-facetime-mention-3639414/)
+ - [Russian media: Russia&#39;s communications regulator Roskomnadzor plans to limit access to Telegram from Tuesday, as the government promotes its Max &quot;super app&quot; &lpar;Deana Kjuka/Bloomberg&rpar;](http://www.techmeme.com/260210/p19#a260210p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
