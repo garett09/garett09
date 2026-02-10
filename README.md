@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI Responds to Critical Super Bowl Commercials by Putting Ads in ChatGPT &lpar;Ece Yildirim/Gizmodo&rpar;](http://www.techmeme.com/260209/p46#a260209p46)
- - [In opening statements in New Mexico&#39;s suit against Meta, state prosecutors argue Meta misrepresented the safety of its platforms, as Meta&#39;s attorney pushes back &lpar;Morgan Lee/Associated Press&rpar;](http://www.techmeme.com/260209/p45#a260209p45)
- - [New Mexico goes to trial to accuse Meta of facilitating child predators](https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial)<!-- TECH:END -->
+ - [French President Emmanuel Macron says the US could retaliate against EU countries, including France and Spain, over plans to ban children from social media &lpar;Leila Abboud/Financial Times&rpar;](http://www.techmeme.com/260210/p3#a260210p3)
+ - [Paris-based online corporate event booking marketplace Naboo raised a $70M Series B led by Lightspeed with participation from Notion Capital, ISAI, and Ternel &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260210/p2#a260210p2)
+ - [A court filing in the iyO-OpenAI trademark case reveals OpenAI won&#39;t use the name &quot;io&quot; for its AI device, which isn&#39;t expected to ship before February 2027 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260210/p1#a260210p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
