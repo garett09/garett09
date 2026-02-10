@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scary scary](http://9gag.com/gag/aPALNpR)
+ - 🚖 [Oh wow](http://9gag.com/gag/aE05deM)
  - 🚯 [Crab](http://9gag.com/gag/awy2NN8)
- - 🚯 [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)<!-- MEMES:END -->
+ - 🚯 [Typical thai experience](http://9gag.com/gag/apR7eD8)<!-- MEMES:END -->
 
 --- 
 
