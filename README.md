@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh wow](http://9gag.com/gag/aE05deM)
- - 🚯 [Crab](http://9gag.com/gag/awy2NN8)
- - 🚯 [Typical thai experience](http://9gag.com/gag/apR7eD8)<!-- MEMES:END -->
+ - 🚖 [Japanese Female Police Motorcycle Officer](http://9gag.com/gag/ae9wKLv)
+ - 🚯 [Ahead of the curve.](http://9gag.com/gag/a4PyKo6)
+ - 🚯 [Watching this old book get a stunning makeover is so satisfying](http://9gag.com/gag/aVv5jp8)<!-- MEMES:END -->
 
 --- 
 
