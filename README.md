@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanks for getting me through hard times. Females are on 9gag!](http://9gag.com/gag/aZZ5P7n)
- - 🚯 [Negative for them, positive to anybody else.](http://9gag.com/gag/a5Q3eno)
- - 🚯 [Passionate hater](http://9gag.com/gag/aQz5PYK)<!-- MEMES:END -->
+ - 🚖 [In Turkey, a man drove a forklift into a jewelry store, stole 150 grams of gold, and ran away on a donkey. You can&#39;t make this up.](http://9gag.com/gag/aXP1bDb)
+ - 🚯 [You got off Easy I would\u2019ve gotten a 4 course meal and few Single Malt shots](http://9gag.com/gag/aVv5Ory)
+ - 🚯 [We had dreams](http://9gag.com/gag/aBy5Qr2)<!-- MEMES:END -->
 
 --- 
 
