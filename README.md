@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AYANEO’s monster of a Windows gaming handheld sells for more than a Galaxy Z TriFold](https://www.androidauthority.com/ayaneo-next-2-pricing-3639566/)
- - [Galaxy S26 shows off its dark side in latest leak](https://www.androidauthority.com/galaxy-s26-black-colorway-3639581/)
- - [Sharge’s new power bank can charge two laptops while putting on a light show](https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter)<!-- TECH:END -->
+ - [Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash)
+ - [The JBL Flip 7 is still at a record-low price, but probably not for much longer](https://www.androidauthority.com/jbl-flip-7-deal-2-3639620/)
+ - [Samsung Galaxy Unpacked 2026: Launch Date Revealed for Rumored S26 Lineup](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
