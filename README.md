@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s Science Ministry blames Coupang&#39;s massive 2025 data leak on management failures and accuses it of defying a government order to preserve data logs &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p3#a260211p3)
- - [Docs: London-based AI chip startup Olix, founded by James Dacombe, CEO of brain monitoring startup CoMind, raised $220M led by Hummingbird at a $1B+ valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260211/p2#a260211p2)
- - [Sources: ByteDance plans to produce at least 100,000 units of its in-house AI inference chip in 2026, and is in talks with Samsung to manufacture it &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p1#a260211p1)<!-- TECH:END -->
+ - [T-Mobile announces a network-level, AI-based Live Translation feature supporting 50+ languages, coming &quot;this spring&quot; in beta and available on 5G and 4G LTE &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260211/p21#a260211p21)
+ - [Anthropic CCO Paul Smith says the company is focused on &quot;growing revenue&quot; rather than making &quot;flashy headlines&quot;, calls the market selloff &quot;hyperbole&quot;, and more &lpar;CNBC&rpar;](http://www.techmeme.com/260211/p20#a260211p20)
+ - [YouTube Music is testing a ‘Your week’ recap that judges your music taste](https://www.androidauthority.com/youtube-music-your-week-recap-3639853/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
