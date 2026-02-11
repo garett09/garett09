@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash)
- - [The JBL Flip 7 is still at a record-low price, but probably not for much longer](https://www.androidauthority.com/jbl-flip-7-deal-2-3639620/)
- - [Samsung Galaxy Unpacked 2026: Launch Date Revealed for Rumored S26 Lineup](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)<!-- TECH:END -->
+ - [South Korea&#39;s Science Ministry blames Coupang&#39;s massive 2025 data leak on management failures and accuses it of defying a government order to preserve data logs &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p3#a260211p3)
+ - [Docs: London-based AI chip startup Olix, founded by James Dacombe, CEO of brain monitoring startup CoMind, raised $220M led by Hummingbird at a $1B+ valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260211/p2#a260211p2)
+ - [Sources: ByteDance plans to produce at least 100,000 units of its in-house AI inference chip in 2026, and is in talks with Samsung to manufacture it &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p1#a260211p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
