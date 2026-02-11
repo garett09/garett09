@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - 🚯 [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
- - 🚯 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
+ - 🚖 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 🚯 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 🚯 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
 
 --- 
 
