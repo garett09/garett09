@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 🚯 [I mean... How?](http://9gag.com/gag/arywvVX)
- - 🚯 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
+ - 🚖 [Thanks for getting me through hard times. Females are on 9gag!](http://9gag.com/gag/aZZ5P7n)
+ - 🚯 [Negative for them, positive to anybody else.](http://9gag.com/gag/a5Q3eno)
+ - 🚯 [Passionate hater](http://9gag.com/gag/aQz5PYK)<!-- MEMES:END -->
 
 --- 
 
