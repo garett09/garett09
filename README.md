@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile announces a network-level, AI-based Live Translation feature supporting 50+ languages, coming &quot;this spring&quot; in beta and available on 5G and 4G LTE &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260211/p21#a260211p21)
- - [Anthropic CCO Paul Smith says the company is focused on &quot;growing revenue&quot; rather than making &quot;flashy headlines&quot;, calls the market selloff &quot;hyperbole&quot;, and more &lpar;CNBC&rpar;](http://www.techmeme.com/260211/p20#a260211p20)
- - [YouTube Music is testing a ‘Your week’ recap that judges your music taste](https://www.androidauthority.com/youtube-music-your-week-recap-3639853/)<!-- TECH:END -->
+ - [Google Meet finally gets a shared media feature it should’ve had a long time ago](https://www.androidauthority.com/google-meet-open-in-new-window-3639997/)
+ - [Meta plans to spend more than $10B to build a 1GW data center campus in Lebanon, Indiana, expected to be operational at the end of 2027 or in early 2028 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/260211/p38#a260211p38)
+ - [iPadOS 26.3 ships with new location privacy-limiting feature](https://appleinsider.com/articles/26/02/11/ipados-263-ships-with-new-location-privacy-limiting-feature?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
