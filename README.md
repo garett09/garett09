@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
- - 🚯 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
- - 🚯 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
+ - 🚖 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 🚯 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 🚯 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
 
 --- 
 
