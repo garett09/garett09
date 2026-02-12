@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet finally gets a shared media feature it should’ve had a long time ago](https://www.androidauthority.com/google-meet-open-in-new-window-3639997/)
- - [Meta plans to spend more than $10B to build a 1GW data center campus in Lebanon, Indiana, expected to be operational at the end of 2027 or in early 2028 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/260211/p38#a260211p38)
- - [iPadOS 26.3 ships with new location privacy-limiting feature](https://appleinsider.com/articles/26/02/11/ipados-263-ships-with-new-location-privacy-limiting-feature?utm_source=rss)<!-- TECH:END -->
+ - [Brandlight, which develops tools that help brands monitor how AI models perceive them, raised a $30M Series A led by Pelion Venture Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260211/p53#a260211p53)
+ - [Stay Patient, Apple Fans: Siri AI Delayed Again to Late 2026 at the Earliest](https://www.cnet.com/tech/services-and-software/stay-patient-apple-fans-siri-ai-delayed-again-to-late-2026-or-beyond/)
+ - [Samsung Galaxy Unpacked 2026: Launch Date Revealed for Rumored S26 Lineup](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
