@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Multiple responses from DeepSeek&#39;s namesake chatbot confirm that the startup has expanded the context window of its flagship AI model from 128K tokens to 1M+ &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/260212/p8#a260212p8)
- - [Grab agrees to acquire US fintech company Stash Financial in a deal initially valued at $425M and forecasts FY 2026 revenue of $4.04B-$4.1B, below $4.13B est. &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260212/p7#a260212p7)
- - [Apple just made it easier to leave the iPhone and move to Android](https://www.androidauthority.com/apple-ios-26-3-switch-to-android-3640140/)<!-- TECH:END -->
+ - [A profile of Applied Intuition, which makes self-driving simulation software and reported $800M in 2025 revenue and 80% gross margins, as it expands beyond cars &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260212/p24#a260212p24)
+ - [Anthropic donates $20M to Public First, a super PAC pushing for AI guardrails and transparency in opposition to OpenAI-backed PACs, ahead of the US midterms &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/260212/p23#a260212p23)
+ - [13 Best MagSafe Power Banks for iPhones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
