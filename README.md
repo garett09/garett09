@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brandlight, which develops tools that help brands monitor how AI models perceive them, raised a $30M Series A led by Pelion Venture Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260211/p53#a260211p53)
- - [Stay Patient, Apple Fans: Siri AI Delayed Again to Late 2026 at the Earliest](https://www.cnet.com/tech/services-and-software/stay-patient-apple-fans-siri-ai-delayed-again-to-late-2026-or-beyond/)
- - [Samsung Galaxy Unpacked 2026: Launch Date Revealed for Rumored S26 Lineup](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)<!-- TECH:END -->
+ - [Multiple responses from DeepSeek&#39;s namesake chatbot confirm that the startup has expanded the context window of its flagship AI model from 128K tokens to 1M+ &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/260212/p8#a260212p8)
+ - [Grab agrees to acquire US fintech company Stash Financial in a deal initially valued at $425M and forecasts FY 2026 revenue of $4.04B-$4.1B, below $4.13B est. &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260212/p7#a260212p7)
+ - [Apple just made it easier to leave the iPhone and move to Android](https://www.androidauthority.com/apple-ios-26-3-switch-to-android-3640140/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
