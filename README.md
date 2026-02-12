@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Applied Intuition, which makes self-driving simulation software and reported $800M in 2025 revenue and 80% gross margins, as it expands beyond cars &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260212/p24#a260212p24)
- - [Anthropic donates $20M to Public First, a super PAC pushing for AI guardrails and transparency in opposition to OpenAI-backed PACs, ahead of the US midterms &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/260212/p23#a260212p23)
- - [13 Best MagSafe Power Banks for iPhones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)<!-- TECH:END -->
+ - [This smartwatch says it can evaluate your diabetes risk without a fingerpick](https://www.androidauthority.com/huawei-diabetes-risk-assessment-feature-3640524/)
+ - [Sources: Palo Alto ordered the removal of direct attributions to China from a Unit 42 report on a global hacking campaign due to fears of retaliation from China &lpar;Reuters&rpar;](http://www.techmeme.com/260212/p42#a260212p42)
+ - [The Google Pixel 10a may surpass the Pixel 10 series in one key metric](https://www.androidauthority.com/google-pixel-10a-eu-energy-label-3640514/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
