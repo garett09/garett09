@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I mean... How?](http://9gag.com/gag/arywvVX)
- - 🚯 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - 🚯 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
+ - 🚖 [C: can&#39;t tell](http://9gag.com/gag/apRwED5)
+ - 🚯 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
+ - 🚯 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
 
 --- 
 
