@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FTL-like Void War was DMCAed by Games Workshop due to &#39;oversized convex shoulder pads with a metallic rim&#39;](https://www.pcgamer.com/gaming-industry/ftl-like-void-war-was-dmcaed-by-games-workshop-due-to-oversized-convex-shoulder-pads-with-a-metallic-rim/)
- - [Pokémon Super Bowl ad features a Lady Gaga and Jigglypuff duet](https://www.polygon.com/pokemon-super-bowl-commercial-lady-gaga-jigglypuff/)
- - [&#39;They have effectively ghosted us:&#39; publisher of delisted art game Horses lambasts Epic Games Store after executive claims &#39;we love that studio&#39;](https://www.pcgamer.com/games/horror/they-have-effectively-ghosted-us-publisher-of-delisted-art-game-horses-lambasts-epic-games-store-after-executive-claims-we-love-that-studio/)<!-- GAME:END -->
+ - [All academy quiz answers in Mario Tennis Fever](https://www.polygon.com/mario-tennis-fever-academy-quiz-answers-adventure/)
+ - [Mario Tennis Fever Beginner&#39;s tips and tricks](https://www.polygon.com/mario-tennis-fever-beginners-tips-tricks-before-you-start/)
+ - [All Fever rackets in Mario Tennis Fever](https://www.polygon.com/mario-tennis-fever-rackets-unlock-all/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
