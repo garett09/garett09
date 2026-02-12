@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [C: can&#39;t tell](http://9gag.com/gag/apRwED5)
- - 🚯 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
- - 🚯 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
+ - 🚖 [New Kingdom](http://9gag.com/gag/azxwEQK)
+ - 🚯 [Oh wait](http://9gag.com/gag/aD25w6G)
+ - 🚯 [He will not expect it](http://9gag.com/gag/aRBdPrG)<!-- MEMES:END -->
 
 --- 
 
