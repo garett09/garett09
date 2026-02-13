@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
- - 🚯 [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
+ - 🚖 [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
+ - 🚯 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
  - 🚯 [Oh wait](http://9gag.com/gag/aD25w6G)<!-- MEMES:END -->
 
 --- 
