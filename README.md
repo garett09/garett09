@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
- - 🚯 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
- - 🚯 [Oh wait](http://9gag.com/gag/aD25w6G)<!-- MEMES:END -->
+ - 🚖 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
+ - 🚯 [Oh wait](http://9gag.com/gag/aD25w6G)
+ - 🚯 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)<!-- MEMES:END -->
 
 --- 
 
