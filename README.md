@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s secret ‘Wide’ Galaxy Z Fold foldable shows up in its own software](https://www.androidauthority.com/samsung-wide-z-fold-in-one-ui-9-test-build-3640781/)
- - [Best Apple 3-in-1 Wireless Travel Chargers &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/)
- - [iPhone 17e update may not be as fast as expected](https://appleinsider.com/articles/26/02/13/iphone-17e-update-may-not-be-as-fast-as-expected?utm_source=rss)<!-- TECH:END -->
+ - [Record Low Snow in the West Will Mean Less Water, More Fire, and Political Chaos](https://www.wired.com/story/record-low-snow-in-the-west-will-mean-less-water-more-fire-and-political-chaos/)
+ - [The ‘Heated Rivalry’ Fandom Is Tearing Itself Apart](https://www.wired.com/story/the-heated-rivalry-fandom-is-tearing-itself-apart/)
+ - [Again, don&#39;t count on Mac Studio stock levels for release timing](https://appleinsider.com/articles/26/02/13/again-dont-count-on-mac-studio-stock-levels-for-release-timing?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
