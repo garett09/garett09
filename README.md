@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New Kingdom](http://9gag.com/gag/azxwEQK)
- - 🚯 [Oh wait](http://9gag.com/gag/aD25w6G)
- - 🚯 [He will not expect it](http://9gag.com/gag/aRBdPrG)<!-- MEMES:END -->
+ - 🚖 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
+ - 🚯 [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
+ - 🚯 [Oh wait](http://9gag.com/gag/aD25w6G)<!-- MEMES:END -->
 
 --- 
 
