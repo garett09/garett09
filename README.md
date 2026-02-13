@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smartwatch says it can evaluate your diabetes risk without a fingerpick](https://www.androidauthority.com/huawei-diabetes-risk-assessment-feature-3640524/)
- - [Sources: Palo Alto ordered the removal of direct attributions to China from a Unit 42 report on a global hacking campaign due to fears of retaliation from China &lpar;Reuters&rpar;](http://www.techmeme.com/260212/p42#a260212p42)
- - [The Google Pixel 10a may surpass the Pixel 10 series in one key metric](https://www.androidauthority.com/google-pixel-10a-eu-energy-label-3640514/)<!-- TECH:END -->
+ - [Sources: the Trump administration has shelved tech security measures against China, including data center equipment curbs, ahead of a Trump-Xi meeting in April &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/260212/p64#a260212p64)
+ - [Amazon&#39;s Ring cancels its partnership with Flock that would have let law enforcement agencies request footage from Ring doorbell users, following backlash &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/260212/p63#a260212p63)
+ - [Third Optis jury trial results in a victory for Apple in the US](https://appleinsider.com/articles/26/02/13/third-optis-jury-trial-results-in-a-victory-for-apple-in-the-us?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
