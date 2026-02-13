@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)
- - 🚯 [Oh wait](http://9gag.com/gag/aD25w6G)
- - 🚯 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)<!-- MEMES:END -->
+ - 🚖 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34rLb7)
+ - 🚯 [Eminem&#39;s journey is truly inspiring](http://9gag.com/gag/aXP1XOg)
+ - 🚯 [Understandable](http://9gag.com/gag/aD25mxN)<!-- MEMES:END -->
 
 --- 
 
