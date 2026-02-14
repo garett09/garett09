@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard might turn your keyboard into a trackpad with new cursor mode](https://www.androidauthority.com/gboard-cursor-mode-3641074/)
- - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)
- - [Google Revives Android 17 Beta 1 Just Days After Halting Launch](https://www.cnet.com/tech/mobile/google-unveils-android-17-beta-1-days-after-pulling-it-at-last-minute/)<!-- TECH:END -->
+ - [India partners with Alibaba.com to help Indian startups and small businesses reach overseas buyers, highlighting its selective engagement with Chinese platforms &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260214/p3#a260214p3)
+ - [Sources: OpenAI is charging $60 per 1,000 impressions for ads in ChatGPT, a high price similar to Netflix&#39;s rate when it introduced ads &lpar;Financial Times&rpar;](http://www.techmeme.com/260214/p2#a260214p2)
+ - [SoftBank-owned Japanese payments app PayPay files for a US IPO, and reports a $675.47M profit on ~$1.82B revenue for nine months ending December 31, 2025 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/260214/p1#a260214p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
