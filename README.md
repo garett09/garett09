@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Breaking Bad without Skyler](http://9gag.com/gag/a5Q37ML)
- - 🚯 [Understandable](http://9gag.com/gag/aD25mxN)
- - 🚯 [That is how normal self respecting men acts](http://9gag.com/gag/adBwpK2)<!-- MEMES:END -->
+ - 🚖 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
+ - 🚯 [Will Smith has a chance to make history again](http://9gag.com/gag/a9y0L66)
+ - 🚯 [Clue&#39;s in the name](http://9gag.com/gag/ajPwn4q)<!-- MEMES:END -->
 
 --- 
 
