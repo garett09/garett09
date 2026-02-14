@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kim Jong Un named his daughter as North Korea&#39;s next leader &lpar;big victory for feminism&rpar;](http://9gag.com/gag/aD25orO)
- - 🚯 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
- - 🚯 [Britain Democracy](http://9gag.com/gag/avywLvq)<!-- MEMES:END -->
+ - 🚖 [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
+ - 🚯 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)
+ - 🚯 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)<!-- MEMES:END -->
 
 --- 
 
