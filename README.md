@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Gemini Live just ruined a feature I used daily](https://www.androidauthority.com/gemini-live-paywall-continued-conversation-3640179/)
- - [How to Choose the Right Gaming Laptop &lpar;2026&rpar;: What You Need to Know](https://www.wired.com/story/how-to-buy-a-gaming-laptop/)
- - [This new Android feature is amazing, but I’m scared for its future](https://www.androidauthority.com/amazing-android-feature-live-updates-notifications-3640808/)<!-- TECH:END -->
+ - [Current and former senior employees say AWS is undergoing a strategic shake-up amid fears it is losing ground to competitors in securing corporate AI contracts &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260214/p8#a260214p8)
+ - [La Liga Soccer: Stream Real Madrid vs. Real Sociedad Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-real-sociedad-live-from-anywhere/)
+ - [Livestream FA Cup Soccer: Watch Liverpool vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-liverpool-vs-brighton-from-anywhere/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
