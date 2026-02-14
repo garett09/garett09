@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34rLb7)
- - 🚯 [Eminem&#39;s journey is truly inspiring](http://9gag.com/gag/aXP1XOg)
- - 🚯 [Understandable](http://9gag.com/gag/aD25mxN)<!-- MEMES:END -->
+ - 🚖 [Breaking Bad without Skyler](http://9gag.com/gag/a5Q37ML)
+ - 🚯 [Understandable](http://9gag.com/gag/aD25mxN)
+ - 🚯 [That is how normal self respecting men acts](http://9gag.com/gag/adBwpK2)<!-- MEMES:END -->
 
 --- 
 
