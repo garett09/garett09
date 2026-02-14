@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Record Low Snow in the West Will Mean Less Water, More Fire, and Political Chaos](https://www.wired.com/story/record-low-snow-in-the-west-will-mean-less-water-more-fire-and-political-chaos/)
- - [The ‘Heated Rivalry’ Fandom Is Tearing Itself Apart](https://www.wired.com/story/the-heated-rivalry-fandom-is-tearing-itself-apart/)
- - [Again, don&#39;t count on Mac Studio stock levels for release timing](https://appleinsider.com/articles/26/02/13/again-dont-count-on-mac-studio-stock-levels-for-release-timing?utm_source=rss)<!-- TECH:END -->
+ - [Gboard might turn your keyboard into a trackpad with new cursor mode](https://www.androidauthority.com/gboard-cursor-mode-3641074/)
+ - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)
+ - [Google Revives Android 17 Beta 1 Just Days After Halting Launch](https://www.cnet.com/tech/mobile/google-unveils-android-17-beta-1-days-after-pulling-it-at-last-minute/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
