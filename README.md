@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India partners with Alibaba.com to help Indian startups and small businesses reach overseas buyers, highlighting its selective engagement with Chinese platforms &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260214/p3#a260214p3)
- - [Sources: OpenAI is charging $60 per 1,000 impressions for ads in ChatGPT, a high price similar to Netflix&#39;s rate when it introduced ads &lpar;Financial Times&rpar;](http://www.techmeme.com/260214/p2#a260214p2)
- - [SoftBank-owned Japanese payments app PayPay files for a US IPO, and reports a $675.47M profit on ~$1.82B revenue for nine months ending December 31, 2025 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/260214/p1#a260214p1)<!-- TECH:END -->
+ - [Google’s Gemini Live just ruined a feature I used daily](https://www.androidauthority.com/gemini-live-paywall-continued-conversation-3640179/)
+ - [How to Choose the Right Gaming Laptop &lpar;2026&rpar;: What You Need to Know](https://www.wired.com/story/how-to-buy-a-gaming-laptop/)
+ - [This new Android feature is amazing, but I’m scared for its future](https://www.androidauthority.com/amazing-android-feature-live-updates-notifications-3640808/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
