@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swapping your TV for a projector may come with some surprises](https://www.androidauthority.com/swapping-tv-for-projector-surprises-3639809/)
- - [The Nothing That Has the Potential to Be Anything](https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/)
- - [The Best Samsung Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)<!-- TECH:END -->
+ - [Former NPR host David Greene sues Google for allegedly replicating his voice in NotebookLM without permission; Google says the voice is based on a paid actor &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/260215/p11#a260215p11)
+ - [Ugreen NASync DH4300 Plus review: Easy &amp; affordable Time Capsule replacement](https://appleinsider.com/articles/26/02/13/ugreen-nasync-dh4300-plus-review-beginner-friendly-easily-expandable?utm_source=rss)
+ - [You need to watch the intensely surreal cult classic Possession](https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
