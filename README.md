@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India approves a $1.1B state-backed VC fund to finance high-risk areas like AI and advanced manufacturing, doubling down on an effort that debuted in 2016 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260214/p11#a260214p11)
- - [Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends](https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia)
- - [We&#39;re Tracking Streaming Price Hikes in 2026: Spotify, Paramount Plus, Crunchyroll and Others](https://www.cnet.com/tech/services-and-software/streaming-price-hikes-2026-spotify-paramount-plus-crunchyroll-and-more/)<!-- TECH:END -->
+ - [Scale AI is suing the US DoD; Scale AI has several contracts with the department, and a spokesperson says the lawsuit &quot;relates to a recent procurement decision&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/260215/p3#a260215p3)
+ - [Uber says it plans to launch Uber Eats in Austria and six other European countries in 2026, as it gains market share in the UK, Germany, France, and Spain &lpar;Financial Times&rpar;](http://www.techmeme.com/260215/p2#a260215p2)
+ - [Airbnb says its custom-built AI agent now handles ~33% of its customer support issues in North America, and it is preparing to roll out the feature globally &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260215/p1#a260215p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
