@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and former senior employees say AWS is undergoing a strategic shake-up amid fears it is losing ground to competitors in securing corporate AI contracts &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260214/p8#a260214p8)
- - [La Liga Soccer: Stream Real Madrid vs. Real Sociedad Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-real-sociedad-live-from-anywhere/)
- - [Livestream FA Cup Soccer: Watch Liverpool vs. Brighton From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-liverpool-vs-brighton-from-anywhere/)<!-- TECH:END -->
+ - [India approves a $1.1B state-backed VC fund to finance high-risk areas like AI and advanced manufacturing, doubling down on an effort that debuted in 2016 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260214/p11#a260214p11)
+ - [Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends](https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia)
+ - [We&#39;re Tracking Streaming Price Hikes in 2026: Spotify, Paramount Plus, Crunchyroll and Others](https://www.cnet.com/tech/services-and-software/streaming-price-hikes-2026-spotify-paramount-plus-crunchyroll-and-more/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
