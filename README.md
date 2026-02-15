@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scale AI is suing the US DoD; Scale AI has several contracts with the department, and a spokesperson says the lawsuit &quot;relates to a recent procurement decision&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/260215/p3#a260215p3)
- - [Uber says it plans to launch Uber Eats in Austria and six other European countries in 2026, as it gains market share in the UK, Germany, France, and Spain &lpar;Financial Times&rpar;](http://www.techmeme.com/260215/p2#a260215p2)
- - [Airbnb says its custom-built AI agent now handles ~33% of its customer support issues in North America, and it is preparing to roll out the feature globally &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260215/p1#a260215p1)<!-- TECH:END -->
+ - [Swapping your TV for a projector may come with some surprises](https://www.androidauthority.com/swapping-tv-for-projector-surprises-3639809/)
+ - [The Nothing That Has the Potential to Be Anything](https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/)
+ - [The Best Samsung Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
