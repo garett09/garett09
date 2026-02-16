@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic opens a Bengaluru office, its second in Asia, says its India run rate revenue doubled since October, and curates training data for 10 Indic languages &lpar;Anthropic&rpar;](http://www.techmeme.com/260216/p15#a260216p15)
- - [Saatva Memory Foam Hybrid Mattress Review: Going for Gold and Good Sleep](https://www.wired.com/review/saatva-memory-foam-hybrid-mattress/)
- - [Sources: Sony is considering pushing back the debut of its next PlayStation console to 2028 or even 2029, as the AI boom fuels huge memory chip demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p14#a260216p14)<!-- TECH:END -->
+ - [First iOS 26.4, macOS Tahoe developer betas surface as new Siri waits in the wings](https://appleinsider.com/articles/26/02/16/first-ios-264-macos-tahoe-developer-betas-surface-as-new-siri-waits-in-the-wings?utm_source=rss)
+ - [La Liga Soccer: Stream Girona vs. Barcelona Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-girona-vs-barcelona-live-from-anywhere/)
+ - [iPad Pro rumored to not get major design changes for many years](https://appleinsider.com/articles/26/02/16/ipad-pro-rumored-to-not-get-major-design-changes-for-many-years?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
