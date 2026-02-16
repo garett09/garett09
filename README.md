@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former NPR host David Greene sues Google for allegedly replicating his voice in NotebookLM without permission; Google says the voice is based on a paid actor &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/260215/p11#a260215p11)
- - [Ugreen NASync DH4300 Plus review: Easy &amp; affordable Time Capsule replacement](https://appleinsider.com/articles/26/02/13/ugreen-nasync-dh4300-plus-review-beginner-friendly-easily-expandable?utm_source=rss)
- - [You need to watch the intensely surreal cult classic Possession](https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani)<!-- TECH:END -->
+ - [A look at a new generation of Chinese billionaire AI entrepreneurs who keep a low profile, with fortunes entwined with China&#39;s push for tech independence &lpar;Bloomberg&rpar;](http://www.techmeme.com/260215/p18#a260215p18)
+ - [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai)
+ - [Researchers outline Iran&#39;s digital surveillance capabilities, integrated across communications and internet networks, and recently used to track down protesters &lpar;New York Times&rpar;](http://www.techmeme.com/260215/p17#a260215p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
