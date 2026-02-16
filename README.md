@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Credit derivatives trading on specific tech companies continues to rise, amid concerns that they may be borrowing too much to fuel AI development &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p3#a260216p3)
- - [New Galaxy S26 series teaser shows how Privacy Display fights shoulder surfers](https://www.androidauthority.com/samsung-tease-privacy-display-galaxy-s26-3641155/)
- - [Vitalik Buterin, who backed Polymarket, says he&#39;s &quot;starting to worry&quot; that prediction markets &quot;seem to be over-converging to an unhealthy product market fit&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260216/p2#a260216p2)<!-- TECH:END -->
+ - [Anthropic opens a Bengaluru office, its second in Asia, says its India run rate revenue doubled since October, and curates training data for 10 Indic languages &lpar;Anthropic&rpar;](http://www.techmeme.com/260216/p15#a260216p15)
+ - [Saatva Memory Foam Hybrid Mattress Review: Going for Gold and Good Sleep](https://www.wired.com/review/saatva-memory-foam-hybrid-mattress/)
+ - [Sources: Sony is considering pushing back the debut of its next PlayStation console to 2028 or even 2029, as the AI boom fuels huge memory chip demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p14#a260216p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
