@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [SUCK IT!](http://9gag.com/gag/ajPwq3G)
- - 🚯 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
- - 🚯 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)<!-- MEMES:END -->
+ - 🚖 [Pick a number](http://9gag.com/gag/ayNwxrq)
+ - 🚯 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
+ - 🚯 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)<!-- MEMES:END -->
 
 --- 
 
