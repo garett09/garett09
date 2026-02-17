@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pick a number](http://9gag.com/gag/ayNwxrq)
- - 🚯 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
+ - 🚖 [Cattle farming](http://9gag.com/gag/a2vp49w)
+ - 🚯 [She&#39;s happy it wasn&#39;t a card crash](http://9gag.com/gag/adBw7RM)
  - 🚯 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)<!-- MEMES:END -->
 
 --- 
