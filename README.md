@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cattle farming](http://9gag.com/gag/a2vp49w)
- - 🚯 [Wife material](http://9gag.com/gag/amow7Y2)
- - 🚯 [Smart guy](http://9gag.com/gag/a9y0K1W)<!-- MEMES:END -->
+ - 🚖 [Search `no images produced` and change pdf to mp4](http://9gag.com/gag/an7w9xB)
+ - 🚯 [Damn](http://9gag.com/gag/a0eq5Gn)
+ - 🚯 [Wife material](http://9gag.com/gag/amow7Y2)<!-- MEMES:END -->
 
 --- 
 
