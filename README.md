@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian IT giant Infosys partners with Anthropic to develop AI services for telecoms, with plans to expand to finance, manufacturing, and software development &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p6#a260217p6)
- - [Top AI researchers argue that AI is now more useful for mathematics thanks to the latest &quot;reasoning&quot; models, as math becomes a key way to test AI progress &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260217/p5#a260217p5)
- - [YouTube TV’s new plans explained: Prices, channels, switching, availability &lpar;Updated: More details&rpar;](https://www.androidauthority.com/youtube-tv-new-plans-channels-switching-pricing-availability-3639276/)<!-- TECH:END -->
+ - [Stick with Apple, an increasingly bullish Wedbush tells investors](https://appleinsider.com/articles/26/02/17/stick-with-apple-an-increasingly-bullish-wedbush-tells-investors?utm_source=rss)
+ - [Mexico-based online used car dealer Kavak raised $300M led by a16z, the first Latin American deal for a16z&#39;s Growth fund, after raising $700M in September 2021 &lpar;Michael O&#39;Boyle/Bloomberg&rpar;](http://www.techmeme.com/260217/p17#a260217p17)
+ - [Apple will copy a signature YouTube Music feature with this upcoming iOS 26 update](https://www.androidauthority.com/apple-podcasts-learns-from-youtube-music-ios-26-4-beta-3641503/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
