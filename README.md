@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Cattle farming](http://9gag.com/gag/a2vp49w)
- - 🚯 [She&#39;s happy it wasn&#39;t a card crash](http://9gag.com/gag/adBw7RM)
- - 🚯 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)<!-- MEMES:END -->
+ - 🚯 [Wife material](http://9gag.com/gag/amow7Y2)
+ - 🚯 [Smart guy](http://9gag.com/gag/a9y0K1W)<!-- MEMES:END -->
 
 --- 
 
