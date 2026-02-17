@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nifty IT Index, which tracks Indian IT stocks, has slumped about 15% so far in February on worries about AI and is on track for its worst month since March 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p30#a260216p30)
- - [Twelve South Valet review: A bespoke catchall MagSafe charger that could be faster](https://appleinsider.com/articles/26/02/17/twelve-south-valet-review-a-bespoke-catchall-magsafe-charger-that-could-be-faster?utm_source=rss)
- - [Streaming VR games, experiences, &amp; applications made easier in visionOS 26.4](https://appleinsider.com/articles/26/02/17/streaming-vr-games-experiences-applications-made-easier-in-visionos-264?utm_source=rss)<!-- TECH:END -->
+ - [Indian IT giant Infosys partners with Anthropic to develop AI services for telecoms, with plans to expand to finance, manufacturing, and software development &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p6#a260217p6)
+ - [Top AI researchers argue that AI is now more useful for mathematics thanks to the latest &quot;reasoning&quot; models, as math becomes a key way to test AI progress &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260217/p5#a260217p5)
+ - [YouTube TV’s new plans explained: Prices, channels, switching, availability &lpar;Updated: More details&rpar;](https://www.androidauthority.com/youtube-tv-new-plans-channels-switching-pricing-availability-3639276/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
