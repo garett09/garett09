@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stick with Apple, an increasingly bullish Wedbush tells investors](https://appleinsider.com/articles/26/02/17/stick-with-apple-an-increasingly-bullish-wedbush-tells-investors?utm_source=rss)
- - [Mexico-based online used car dealer Kavak raised $300M led by a16z, the first Latin American deal for a16z&#39;s Growth fund, after raising $700M in September 2021 &lpar;Michael O&#39;Boyle/Bloomberg&rpar;](http://www.techmeme.com/260217/p17#a260217p17)
- - [Apple will copy a signature YouTube Music feature with this upcoming iOS 26 update](https://www.androidauthority.com/apple-podcasts-learns-from-youtube-music-ios-26-4-beta-3641503/)<!-- TECH:END -->
+ - [Night Media, a talent agency that represents influencers like Twitch streamer Kai Cenat, raised $70M led by StepStone to expand into gaming, sports, and music &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260217/p42#a260217p42)
+ - [WordPress’s new AI assistant will let users edit their sites with prompts](https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant)
+ - [Google shares how Android 17 is making everything run smoother](https://www.androidauthority.com/android-17-missed-frames-3641660/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
