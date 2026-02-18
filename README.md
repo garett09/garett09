@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Search `no images produced` and change pdf to mp4](http://9gag.com/gag/an7w9xB)
- - 🚯 [Damn](http://9gag.com/gag/a0eq5Gn)
- - 🚯 [Wife material](http://9gag.com/gag/amow7Y2)<!-- MEMES:END -->
+ - 🚯 [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)
+ - 🚯 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
 
 --- 
 
