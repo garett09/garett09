@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Night Media, a talent agency that represents influencers like Twitch streamer Kai Cenat, raised $70M led by StepStone to expand into gaming, sports, and music &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260217/p42#a260217p42)
- - [WordPress’s new AI assistant will let users edit their sites with prompts](https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant)
- - [Google shares how Android 17 is making everything run smoother](https://www.androidauthority.com/android-17-missed-frames-3641660/)<!-- TECH:END -->
+ - [Pixel 9 officially joins Pixel 10 with Quick Share-AirDrop support](https://www.androidauthority.com/google-pixel-9-quick-share-airdrop-support-rollout-3641846/)
+ - [Emergent, which offers an AI-powered software development service, says it is generating annual run-rate revenue of $100M+, just eight months after launch &lpar;TechCrunch&rpar;](http://www.techmeme.com/260217/p56#a260217p56)
+ - [Amazon shares close up 1.2%, snapping a nine-day slide that wiped out $450B+ in market valuation over concerns about Amazon&#39;s plan to spend $200B in 2026 capex &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260217/p55#a260217p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
