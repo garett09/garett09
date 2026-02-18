@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: while Meta offered OpenClaw creator Peter Steinberger more money than OpenAI, he ultimately aligned more closely with OpenAI&#39;s overall vibe and vision &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260218/p22#a260218p22)
- - [Uber plans to spend $100M+ to build fast-charging, autonomous vehicle charging stations in the US, starting in the San Francisco Bay Area, LA, and Dallas &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260218/p21#a260218p21)
- - [Apple Music Connect is reborn as a marketing tool for the music industry](https://appleinsider.com/articles/26/02/18/apple-music-connect-is-reborn-as-a-marketing-tool-for-the-music-industry?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft is bringing a built-in network speed test to Windows 11](https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview)
+ - [Google&#39;s Pixel 10A Launch Day: $499 Price, New Colors, AirDrop Compatibilty](https://www.cnet.com/news-live/google-pixel-10a/)
+ - [Google Pixel 10A vs. Pixel 10, 10 Pro, 10 Pro XL: How the Cheaper Pixel Matches Up](https://www.cnet.com/tech/mobile/google-pixel-10a-vs-pixel-10-10-pro-10-pro-xl-how-the-cheaper-pixel-matches-up/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
