@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at MGX, Abu Dhabi&#39;s AI investment vehicle with stakes in Anthropic, xAI, and OpenAI; the firm plans to spend up to $10B annually over the next few years &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p5#a260218p5)
- - [Google Pixel 10A Rumors: Wednesday Reveal, New Colors, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)
- - [Bengaluru-based Stable Money, whose app lets users invest in fixed deposits and corporate bonds, raised $25M at a $175M valuation, taking total funding to $65M &lpar;The Economic Times&rpar;](http://www.techmeme.com/260218/p4#a260218p4)<!-- TECH:END -->
+ - [Sources: while Meta offered OpenClaw creator Peter Steinberger more money than OpenAI, he ultimately aligned more closely with OpenAI&#39;s overall vibe and vision &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260218/p22#a260218p22)
+ - [Uber plans to spend $100M+ to build fast-charging, autonomous vehicle charging stations in the US, starting in the San Francisco Bay Area, LA, and Dallas &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260218/p21#a260218p21)
+ - [Apple Music Connect is reborn as a marketing tool for the music industry](https://appleinsider.com/articles/26/02/18/apple-music-connect-is-reborn-as-a-marketing-tool-for-the-music-industry?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
