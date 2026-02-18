@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What will Vlad the impaler do in situations like this?](http://9gag.com/gag/a0eqKdz)
- - 🚯 [Cattle farming](http://9gag.com/gag/a2vp49w)
- - 🚯 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)<!-- MEMES:END -->
+ - 🚖 [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)
+ - 🚯 [He&#39;s right](http://9gag.com/gag/awy2AW4)
+ - 🚯 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)<!-- MEMES:END -->
 
 --- 
 
