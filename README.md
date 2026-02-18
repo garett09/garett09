@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 9 officially joins Pixel 10 with Quick Share-AirDrop support](https://www.androidauthority.com/google-pixel-9-quick-share-airdrop-support-rollout-3641846/)
- - [Emergent, which offers an AI-powered software development service, says it is generating annual run-rate revenue of $100M+, just eight months after launch &lpar;TechCrunch&rpar;](http://www.techmeme.com/260217/p56#a260217p56)
- - [Amazon shares close up 1.2%, snapping a nine-day slide that wiped out $450B+ in market valuation over concerns about Amazon&#39;s plan to spend $200B in 2026 capex &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260217/p55#a260217p55)<!-- TECH:END -->
+ - [A look at MGX, Abu Dhabi&#39;s AI investment vehicle with stakes in Anthropic, xAI, and OpenAI; the firm plans to spend up to $10B annually over the next few years &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p5#a260218p5)
+ - [Google Pixel 10A Rumors: Wednesday Reveal, New Colors, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)
+ - [Bengaluru-based Stable Money, whose app lets users invest in fixed deposits and corporate bonds, raised $25M at a $175M valuation, taking total funding to $65M &lpar;The Economic Times&rpar;](http://www.techmeme.com/260218/p4#a260218p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
