@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: This Philips S2108 Portable Bluetooth Speaker looks awesome!](https://www.androidauthority.com/philips-s2108-portable-bluetooth-speaker-deal-3642276/)
- - [The RAM crunch could kill products and even entire companies, memory exec admits](https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview)
- - [The UK proposes new rules requiring tech firms to remove nonconsensual abusive content within 48 hours or risk blocking and fines of up to 10% of global revenue &lpar;The Guardian&rpar;](http://www.techmeme.com/260218/p60#a260218p60)<!-- TECH:END -->
+ - [Apple&#39;s 40-day correlation to the Nasdaq 100 fell to 0.21 last week, the lowest since 2006, making it an appealing alternative to the AI-fueled volatility &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260219/p6#a260219p6)
+ - [OPM Director Scott Kupor says tech billionaires such as Elon Musk will give talks to the US Tech Force, which aims to recruit roughly 1,000 software engineers &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260219/p5#a260219p5)
+ - [Indian digital payments company Pine Labs plans to embed OpenAI APIs into its infrastructure to enable AI-assisted settlement, reconciliation, and invoicing &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260219/p4#a260219p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
