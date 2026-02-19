@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI Osmo Pocket 4 leaks in video, confirming a surprise accessory](https://www.androidauthority.com/dji-osmo-pocket-4-leak-video-3642416/)
- - [Amazon overtakes Walmart as the world&#39;s largest company by revenue, reporting $717B in 2025 sales compared to Walmart&#39;s $713.2B for the 12 months to January 31 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/260219/p21#a260219p21)
- - [9 Best Android Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
+ - [Deal: Get a free $100 gift card when you buy a Google Pixel 10a!](https://www.androidauthority.com/google-pixel-10a-free-gift-card-deal-3642501/)
+ - [Baseus’ retractable, 6-in-1 travel adapter is on sale for its lowest price to date](https://www.theverge.com/gadgets/881424/baseus-enercore-cg11-universal-travel-adapter-deal-sale)
+ - [Perplexity&#39;s Comet AI browser is coming to iPhone soon](https://appleinsider.com/articles/26/02/19/perplexitys-comet-ai-browser-is-coming-to-iphone-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
