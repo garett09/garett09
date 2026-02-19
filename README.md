@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is next level parenting](http://9gag.com/gag/amow5y4)
- - 🚯 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)
- - 🚯 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)<!-- MEMES:END -->
+ - 🚖 [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
+ - 🚯 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 🚯 [Nom nom nom](http://9gag.com/gag/a5Q3EqN)<!-- MEMES:END -->
 
 --- 
 
