@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is bringing a built-in network speed test to Windows 11](https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview)
- - [Google&#39;s Pixel 10A Launch Day: $499 Price, New Colors, AirDrop Compatibilty](https://www.cnet.com/news-live/google-pixel-10a/)
- - [Google Pixel 10A vs. Pixel 10, 10 Pro, 10 Pro XL: How the Cheaper Pixel Matches Up](https://www.cnet.com/tech/mobile/google-pixel-10a-vs-pixel-10-10-pro-10-pro-xl-how-the-cheaper-pixel-matches-up/)<!-- TECH:END -->
+ - [Deal: This Philips S2108 Portable Bluetooth Speaker looks awesome!](https://www.androidauthority.com/philips-s2108-portable-bluetooth-speaker-deal-3642276/)
+ - [The RAM crunch could kill products and even entire companies, memory exec admits](https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview)
+ - [The UK proposes new rules requiring tech firms to remove nonconsensual abusive content within 48 hours or risk blocking and fines of up to 10% of global revenue &lpar;The Guardian&rpar;](http://www.techmeme.com/260218/p60#a260218p60)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
