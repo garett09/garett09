@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 40-day correlation to the Nasdaq 100 fell to 0.21 last week, the lowest since 2006, making it an appealing alternative to the AI-fueled volatility &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260219/p6#a260219p6)
- - [OPM Director Scott Kupor says tech billionaires such as Elon Musk will give talks to the US Tech Force, which aims to recruit roughly 1,000 software engineers &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260219/p5#a260219p5)
- - [Indian digital payments company Pine Labs plans to embed OpenAI APIs into its infrastructure to enable AI-assisted settlement, reconciliation, and invoicing &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260219/p4#a260219p4)<!-- TECH:END -->
+ - [DJI Osmo Pocket 4 leaks in video, confirming a surprise accessory](https://www.androidauthority.com/dji-osmo-pocket-4-leak-video-3642416/)
+ - [Amazon overtakes Walmart as the world&#39;s largest company by revenue, reporting $717B in 2025 sales compared to Walmart&#39;s $713.2B for the 12 months to January 31 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/260219/p21#a260219p21)
+ - [9 Best Android Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
