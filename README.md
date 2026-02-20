@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2026](https://www.wired.com/story/hr-block-coupon/)
- - [Sources: Amazon&#39;s AI tools caused at least two AWS outages, including a 13-hour disruption in December after its Kiro AI deleted and recreated an environment &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260220/p1#a260220p1)
- - [Microsoft&#39;s AI safety team proposed technical standards for detecting AI-generated content, but its CSO declined to commit to using them across its platforms &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260219/p51#a260219p51)<!-- TECH:END -->
+ - [Boldr Kelvin Review &lpar;2026&rpar;: Heats Your Body, Heats the Wall](https://www.wired.com/review/boldr-kelvin-space-heater/)
+ - [March 4&#39;s Apple Experience, color MacBooks, and iOS 26.4 on the AppleInsider Podcast](https://appleinsider.com/articles/26/02/20/march-4s-apple-experience-color-macbooks-and-ios-264-on-the-appleinsider-podcast?utm_source=rss)
+ - [Move over Galaxy S26 Ultra: This camera-focused Ultra flagship is also set to launch this month](https://www.androidauthority.com/xiaomi-17-ultra-global-launch-date-3642737/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
