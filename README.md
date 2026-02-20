@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
- - 🚯 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 🚯 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
+ - 🚖 [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
+ - 🚯 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
+ - 🚯 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)<!-- MEMES:END -->
 
 --- 
 
