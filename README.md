@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameSir G8 Plus review: an iterative upgrade fit for iPad mini fans](https://appleinsider.com/articles/26/02/20/gamesir-g8-plus-review-an-iterative-upgrade-fit-for-ipad-mini-fans?utm_source=rss)
- - [A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon](https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/)
- - [Samsung is turning Bixby into a conversational device agent in One UI 8.5](https://www.androidauthority.com/samsung-bixby-upgrade-one-ui-3642653/)<!-- TECH:END -->
+ - [H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2026](https://www.wired.com/story/hr-block-coupon/)
+ - [Sources: Amazon&#39;s AI tools caused at least two AWS outages, including a 13-hour disruption in December after its Kiro AI deleted and recreated an environment &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260220/p1#a260220p1)
+ - [Microsoft&#39;s AI safety team proposed technical standards for detecting AI-generated content, but its CSO declined to commit to using them across its platforms &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260219/p51#a260219p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
