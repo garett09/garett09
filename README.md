@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
- - 🚯 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - 🚯 [Justice for punchi](http://9gag.com/gag/a34r1A5)<!-- MEMES:END -->
+ - 🚖 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
+ - 🚯 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 🚯 [Story of punchi](http://9gag.com/gag/a1mj1D8)<!-- MEMES:END -->
 
 --- 
 
