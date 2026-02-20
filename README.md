@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boldr Kelvin Review &lpar;2026&rpar;: Heats Your Body, Heats the Wall](https://www.wired.com/review/boldr-kelvin-space-heater/)
- - [March 4&#39;s Apple Experience, color MacBooks, and iOS 26.4 on the AppleInsider Podcast](https://appleinsider.com/articles/26/02/20/march-4s-apple-experience-color-macbooks-and-ios-264-on-the-appleinsider-podcast?utm_source=rss)
- - [Move over Galaxy S26 Ultra: This camera-focused Ultra flagship is also set to launch this month](https://www.androidauthority.com/xiaomi-17-ultra-global-launch-date-3642737/)<!-- TECH:END -->
+ - [Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans](https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/)
+ - [A US judge rejects Tesla&#39;s bid to overturn a $243M jury verdict over a fatal 2019 Autopilot crash, a blow for Tesla as it faces a growing wave of lawsuits &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/260220/p14#a260220p14)
+ - [Android malware is now using Google’s own Gemini AI to adapt in real time](https://www.androidauthority.com/android-malware-promptspy-uses-generative-ai-gemini-3642832/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
