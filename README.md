@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Get a free $100 gift card when you buy a Google Pixel 10a!](https://www.androidauthority.com/google-pixel-10a-free-gift-card-deal-3642501/)
- - [Baseus’ retractable, 6-in-1 travel adapter is on sale for its lowest price to date](https://www.theverge.com/gadgets/881424/baseus-enercore-cg11-universal-travel-adapter-deal-sale)
- - [Perplexity&#39;s Comet AI browser is coming to iPhone soon](https://appleinsider.com/articles/26/02/19/perplexitys-comet-ai-browser-is-coming-to-iphone-soon?utm_source=rss)<!-- TECH:END -->
+ - [GameSir G8 Plus review: an iterative upgrade fit for iPad mini fans](https://appleinsider.com/articles/26/02/20/gamesir-g8-plus-review-an-iterative-upgrade-fit-for-ipad-mini-fans?utm_source=rss)
+ - [A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon](https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/)
+ - [Samsung is turning Bixby into a conversational device agent in One UI 8.5](https://www.androidauthority.com/samsung-bixby-upgrade-one-ui-3642653/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
