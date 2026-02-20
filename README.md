@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
- - 🚯 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 🚯 [Story of punchi](http://9gag.com/gag/a1mj1D8)<!-- MEMES:END -->
+ - 🚯 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
+ - 🚯 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)<!-- MEMES:END -->
 
 --- 
 
