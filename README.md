@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US launches the Tech Corps, a program under the Peace Corps to send volunteers abroad to promote American AI, as the US competes with China for AI dominance &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260220/p24#a260220p24)
- - [Microsoft Gaming CEO Asha Sharma says she is committed to &quot;the return of Xbox&quot; and that the company won&#39;t &quot;flood our ecosystem with soulless AI slop&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260220/p23#a260220p23)
- - [The Supreme Court’s Tariff Ruling Won’t Bring Car Prices Back to Earth](https://www.wired.com/story/the-supreme-courts-tariff-ruling-wont-bring-car-prices-back-to-earth/)<!-- TECH:END -->
+ - [Google announces a partnership with Sea to develop AI tools for Sea&#39;s Shopee, Southeast Asia&#39;s most dominant e-commerce platform, and Sea&#39;s gaming unit Garena &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/260221/p1#a260221p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 21, #516](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-21-516/)
+ - [President Trump signs an EO to continue the suspension of the de minimis exemption, despite the SCOTUS&#39; ruling that overturned most of Trump&#39;s 2025 tariffs &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260220/p27#a260220p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
