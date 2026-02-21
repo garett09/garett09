@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All academy quiz answers in Mario Tennis Fever](https://www.polygon.com/mario-tennis-fever-academy-quiz-answers-adventure/)
- - [Mario Tennis Fever Beginner&#39;s tips and tricks](https://www.polygon.com/mario-tennis-fever-beginners-tips-tricks-before-you-start/)
- - [All Fever rackets in Mario Tennis Fever](https://www.polygon.com/mario-tennis-fever-rackets-unlock-all/)<!-- GAME:END -->
+ - [Ubisoft Promises Two Far Cry Games Are Coming As Open-World Shooter Continues Its Longest Hiatus Ever](https://kotaku.com/far-cry-7-extraction-shooter-assassins-creed-hexe-ubisoft-2000672574)
+ - [Ify Nwadiwe wants Henry Cavill to nerd out about Warhammer on Um, Actually](https://www.polygon.com/ify-nwadiwe-dropout-um-actually-henry-cavill-warhammer/)
+ - [Ubisoft made another Avatar game the world has forgotten about, so I opened Pandora’s boxed copy and dropped into the jungle](https://www.pcgamer.com/games/action/ubisoft-made-another-avatar-game-the-world-has-forgotten-about-so-i-opened-pandoras-boxed-copy-and-dropped-into-the-jungle/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
