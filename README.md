@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
- - 🚯 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - 🚯 [Yea, sweet baby inc can go bite my toes](http://9gag.com/gag/adBwPq2)<!-- MEMES:END -->
+ - 🚖 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
+ - 🚯 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
+ - 🚯 [Just another day in the UK.](http://9gag.com/gag/avywAMO)<!-- MEMES:END -->
 
 --- 
 
