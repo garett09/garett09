@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Notion CEO Ivan Zhao on Custom Notion AI agents launching in the coming week, over 50% of Notion databases now being built by agents, and more &lpar;Sources&rpar;](http://www.techmeme.com/260221/p4#a260221p4)
- - [Don&#39;t Buy the Galaxy S25 Ultra. Get the Galaxy S24 Ultra Instead](https://www.cnet.com/tech/mobile/want-a-galaxy-s25-ultra-for-cheap-buy-a-galaxy-s24-ultra-instead/)
- - [Here’s why I’d buy the Pixel 10a instead of waiting for the Pixel 11](https://www.androidauthority.com/pixel-10a-vs-pixel-11-3641646/)<!-- TECH:END -->
+ - [Interviews with Cluely&#39;s Roy Lee, Donald Boat, and other highly &quot;agentic&quot; young men, as agency becomes more valuable than technical skills in Silicon Valley &lpar;Sam Kriss/Harper&#39;s&rpar;](http://www.techmeme.com/260221/p6#a260221p6)
+ - [Georgia says Elon Musk’s America PAC violated election law](https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud)
+ - [How to Recycle Your Old Laptops and Printers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
