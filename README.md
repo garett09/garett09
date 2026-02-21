@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces a partnership with Sea to develop AI tools for Sea&#39;s Shopee, Southeast Asia&#39;s most dominant e-commerce platform, and Sea&#39;s gaming unit Garena &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/260221/p1#a260221p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 21, #516](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-21-516/)
- - [President Trump signs an EO to continue the suspension of the de minimis exemption, despite the SCOTUS&#39; ruling that overturned most of Trump&#39;s 2025 tariffs &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260220/p27#a260220p27)<!-- TECH:END -->
+ - [An interview with Notion CEO Ivan Zhao on Custom Notion AI agents launching in the coming week, over 50% of Notion databases now being built by agents, and more &lpar;Sources&rpar;](http://www.techmeme.com/260221/p4#a260221p4)
+ - [Don&#39;t Buy the Galaxy S25 Ultra. Get the Galaxy S24 Ultra Instead](https://www.cnet.com/tech/mobile/want-a-galaxy-s25-ultra-for-cheap-buy-a-galaxy-s24-ultra-instead/)
+ - [Here’s why I’d buy the Pixel 10a instead of waiting for the Pixel 11](https://www.androidauthority.com/pixel-10a-vs-pixel-11-3641646/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
