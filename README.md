@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Peak of acting that movie was...](http://9gag.com/gag/aPA2ZwK)
- - 🚯 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)
- - 🚯 [Meat pizza](http://9gag.com/gag/aQz5oK2)<!-- MEMES:END -->
+ - 🚖 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
+ - 🚯 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 🚯 [Thoughts?](http://9gag.com/gag/a1mjPVD)<!-- MEMES:END -->
 
 --- 
 
