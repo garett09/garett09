@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with Cluely&#39;s Roy Lee, Donald Boat, and other highly &quot;agentic&quot; young men, as agency becomes more valuable than technical skills in Silicon Valley &lpar;Sam Kriss/Harper&#39;s&rpar;](http://www.techmeme.com/260221/p6#a260221p6)
- - [Georgia says Elon Musk’s America PAC violated election law](https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud)
- - [How to Recycle Your Old Laptops and Printers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)<!-- TECH:END -->
+ - [Sam Altman says there is some &quot;AI washing&quot;, where companies blame AI for layoffs that they would otherwise do, alongside &quot;real displacement by AI&quot; of some jobs &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/260221/p10#a260221p10)
+ - [Open source projects like VLC and Blender are seeing a decline in the average quality of contributions, likely as AI coding tools lower barriers to entry &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260221/p9#a260221p9)
+ - [Arturia’s FX Collection 6 adds two new effects and a $99 intro version](https://www.theverge.com/tech/882852/arturia-fx-collection-6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
