@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says there is some &quot;AI washing&quot;, where companies blame AI for layoffs that they would otherwise do, alongside &quot;real displacement by AI&quot; of some jobs &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/260221/p10#a260221p10)
- - [Open source projects like VLC and Blender are seeing a decline in the average quality of contributions, likely as AI coding tools lower barriers to entry &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260221/p9#a260221p9)
- - [Arturia’s FX Collection 6 adds two new effects and a $99 intro version](https://www.theverge.com/tech/882852/arturia-fx-collection-6)<!-- TECH:END -->
+ - [Source Global: the US consulting market is set to grow 7% in 2026, the fastest pace in the post-COVID era, as companies seek advice on profiting from AI &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/260222/p5#a260222p5)
+ - [Sam Altman says currently &quot;the idea of putting data centers in space is ridiculous&quot; and that it is &quot;not something that&#39;s going to matter at scale this decade&quot; &lpar;Bijin Jose/The Indian Express&rpar;](http://www.techmeme.com/260222/p4#a260222p4)
+ - [Amazon details how a Russian-speaking hacker used generative AI as part of a campaign that breached 600+ FortiGate firewalls across 55 countries in five weeks &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260222/p3#a260222p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
