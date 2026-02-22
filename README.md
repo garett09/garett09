@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
- - 🚯 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
- - 🚯 [Thoughts?](http://9gag.com/gag/a1mjPVD)<!-- MEMES:END -->
+ - 🚖 [Look what I found](http://9gag.com/gag/apRw9Mn)
+ - 🚯 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
+ - 🚯 [Bro cant wait](http://9gag.com/gag/aRBdLxA)<!-- MEMES:END -->
 
 --- 
 
