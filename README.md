@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yep! Xbox is dead. RIP.](http://9gag.com/gag/aLn51qM)
- - 🚯 [Thoughts?](http://9gag.com/gag/a1mjPVD)
- - 🚯 [Language Barrier](http://9gag.com/gag/aqywyvp)<!-- MEMES:END -->
+ - 🚖 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 🚯 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
+ - 🚯 [Thoughts?](http://9gag.com/gag/a1mjPVD)<!-- MEMES:END -->
 
 --- 
 
