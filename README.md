@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Man accused of stealing 60 iPhones from Walmart](https://appleinsider.com/articles/26/02/22/crime-blotter-man-accused-of-stealing-60-iphones-from-walmart?utm_source=rss)
- - [Exynos vs Snapdragon: All the ways global Galaxies will be different this year](https://www.androidauthority.com/exynos-vs-snapdragon-galaxy-s26-3641995/)
- - [What to Know About At-Home STI Tests: Pros, Cons, and Recommendations &lpar;2026&rpar;](https://www.wired.com/story/at-home-sti-tests/)<!-- TECH:END -->
+ - [Sam Altman says discussions about AI&#39;s energy usage are &quot;unfair&quot;, as it takes &quot;20 years of life and all of the food you eat during that time&quot; to train a human &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/260222/p11#a260222p11)
+ - [Astronauts Will Be Allowed to Use the Latest Smartphones During Space Missions](https://www.cnet.com/tech/mobile/latest-smartphones-now-allowed-in-space-nasa-says/)
+ - [Trump Phone Reportedly Costs More, Looks Different, Isn&#39;t Made in America](https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
