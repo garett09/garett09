@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
- - 🚯 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
- - 🚯 [Thoughts?](http://9gag.com/gag/a1mjPVD)<!-- MEMES:END -->
+ - 🚖 [Why don&#39;t you give up? Cause he never did.](http://9gag.com/gag/ajPwVqq)
+ - 🚯 [Are you going to eat that, reduc!](http://9gag.com/gag/awy2Z1x)
+ - 🚯 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
 
 --- 
 
