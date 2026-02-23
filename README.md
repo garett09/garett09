@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hummmm](http://9gag.com/gag/a7oXOQA)
- - 🚯 [She&#39;s pretty](http://9gag.com/gag/aoywWRe)
- - 🚯 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
+ - 🚖 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
+ - 🚯 [Straight to jail](http://9gag.com/gag/awy2gpy)
+ - 🚯 [In This Economy](http://9gag.com/gag/aqyw8mY)<!-- MEMES:END -->
 
 --- 
 
