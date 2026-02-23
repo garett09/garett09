@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In recent interviews, Sam Altman said AI&#39;s adoption faces more resistance than he expected, while Jensen Huang warned the &quot;doomer narrative&quot; may be winning &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/260222/p17#a260222p17)
- - [NASA Delays Launch of Artemis II Lunar Mission Once Again](https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/)
- - [US farmers are increasingly rejecting multimillion-dollar offers from data center developers; some estimate ~40K acres are needed globally for new AI projects &lpar;Niamh Rowe/The Guardian&rpar;](http://www.techmeme.com/260222/p16#a260222p16)<!-- TECH:END -->
+ - [Looks like Samsung’s Privacy Display trick won’t remain exclusive for long](https://www.androidauthority.com/samsung-privacy-display-coming-to-more-android-phones-3643074/)
+ - [A look at Japan&#39;s Team Mirai, a party founded by software engineers that won 11 of 465 parliament seats by promising self-driving buses and high-tech jobs &lpar;New York Times&rpar;](http://www.techmeme.com/260223/p2#a260223p2)
+ - [Early Galaxy S26 Ultra hands-on video reveals bad news for S Pen fans](https://www.androidauthority.com/samsung-galaxy-s26-ultra-bluetooth-s-pen-leak-3643067/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
