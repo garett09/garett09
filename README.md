@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Economists at Morgan Stanley and JPMorgan report the AI boom contributed &quot;basically zero&quot; to US economic growth in 2025, challenging claims of up to 92% growth &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/260223/p8#a260223p8)
- - [Phone-Maker Honor Will Unveil Its First Humanoid Robot Next Week](https://www.cnet.com/tech/computing/honor-will-unveil-humanoid-robot-at-mobile-world-congress-2026/)
- - [Don&#39;t Buy the iPhone 16E Right Now Because the iPhone 17E Is &#39;Due Imminently&#39;](https://www.cnet.com/tech/mobile/dont-buy-an-iphone-16e-right-now-heres-why/)<!-- TECH:END -->
+ - [Google TV is getting stuck in a search loop thanks to Gemini](https://www.androidauthority.com/google-tv-gemini-search-loop-3643225/)
+ - [Anthropic says DeepSeek, MiniMax, and Moonshot violated its ToS by prompting Claude a combined 16M+ times and using distillation to train their own products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p22#a260223p22)
+ - [Apple’s newest AirTags are already on sale if you’re looking to upgrade](https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
