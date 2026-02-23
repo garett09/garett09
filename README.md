@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says discussions about AI&#39;s energy usage are &quot;unfair&quot;, as it takes &quot;20 years of life and all of the food you eat during that time&quot; to train a human &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/260222/p11#a260222p11)
- - [Astronauts Will Be Allowed to Use the Latest Smartphones During Space Missions](https://www.cnet.com/tech/mobile/latest-smartphones-now-allowed-in-space-nasa-says/)
- - [Trump Phone Reportedly Costs More, Looks Different, Isn&#39;t Made in America](https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/)<!-- TECH:END -->
+ - [In recent interviews, Sam Altman said AI&#39;s adoption faces more resistance than he expected, while Jensen Huang warned the &quot;doomer narrative&quot; may be winning &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/260222/p17#a260222p17)
+ - [NASA Delays Launch of Artemis II Lunar Mission Once Again](https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/)
+ - [US farmers are increasingly rejecting multimillion-dollar offers from data center developers; some estimate ~40K acres are needed globally for new AI projects &lpar;Niamh Rowe/The Guardian&rpar;](http://www.techmeme.com/260222/p16#a260222p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
