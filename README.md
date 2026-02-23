@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look what I found](http://9gag.com/gag/apRw9Mn)
- - 🚯 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
- - 🚯 [Bro cant wait](http://9gag.com/gag/aRBdLxA)<!-- MEMES:END -->
+ - 🚖 [Hummmm](http://9gag.com/gag/a7oXOQA)
+ - 🚯 [She&#39;s pretty](http://9gag.com/gag/aoywWRe)
+ - 🚯 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
 
 --- 
 
