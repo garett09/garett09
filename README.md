@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looks like Samsung’s Privacy Display trick won’t remain exclusive for long](https://www.androidauthority.com/samsung-privacy-display-coming-to-more-android-phones-3643074/)
- - [A look at Japan&#39;s Team Mirai, a party founded by software engineers that won 11 of 465 parliament seats by promising self-driving buses and high-tech jobs &lpar;New York Times&rpar;](http://www.techmeme.com/260223/p2#a260223p2)
- - [Early Galaxy S26 Ultra hands-on video reveals bad news for S Pen fans](https://www.androidauthority.com/samsung-galaxy-s26-ultra-bluetooth-s-pen-leak-3643067/)<!-- TECH:END -->
+ - [Economists at Morgan Stanley and JPMorgan report the AI boom contributed &quot;basically zero&quot; to US economic growth in 2025, challenging claims of up to 92% growth &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/260223/p8#a260223p8)
+ - [Phone-Maker Honor Will Unveil Its First Humanoid Robot Next Week](https://www.cnet.com/tech/computing/honor-will-unveil-humanoid-robot-at-mobile-world-congress-2026/)
+ - [Don&#39;t Buy the iPhone 16E Right Now Because the iPhone 17E Is &#39;Due Imminently&#39;](https://www.cnet.com/tech/mobile/dont-buy-an-iphone-16e-right-now-heres-why/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
