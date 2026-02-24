@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The administrator winding down Terraform Labs sues Jane Street, alleging it engaged in insider trading to profit from and ultimately hasten Terraform&#39;s collapse &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p34#a260223p34)
- - [How Binance staffers found $1B was sent to sanctioned Iranian entities via the exchange, which dismantled their probe and suspended them after Trump pardoned CZ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p33#a260223p33)
- - [Tesla sues California&#39;s DMV to reverse a ruling that found Tesla violated the law by falsely promoting its Autopilot and Full Self-Driving systems &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260223/p32#a260223p32)<!-- TECH:END -->
+ - [The FairPhone Gen 6 will ‘soon’ get Android 16](https://www.androidauthority.com/fairphone-gen-6-android-16-coming-3643387/)
+ - [Bengaluru-based Xflow, which facilitates B2B cross-border payments, raised a $16.6M Series A led by GC at an $85M valuation, bringing its total raised to $32M+ &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260224/p2#a260224p2)
+ - [Filings: some Meta execs warned in 2019 that adding E2E encryption to Facebook and Instagram messaging would hinder the ability to flag CSAM to law enforcement &lpar;Reuters&rpar;](http://www.techmeme.com/260224/p1#a260224p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
