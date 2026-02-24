@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML researchers unveil a breakthrough in EUV light source power, increasing output from 600W to 1,000W, a jump that could yield 50% more chips by 2030 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260224/p15#a260224p15)
- - [The UK ICO fines Reddit £14.47M for unlawfully using children&#39;s personal information; Reddit began verifying user ages in July 2025 to comply with the UK OSA &lpar;Tom Singleton/BBC&rpar;](http://www.techmeme.com/260224/p14#a260224p14)
- - [Fellow Series 1 Espresso Machine Review &lpar;2026&rpar;: Excellent, but a Work in Progress](https://www.wired.com/review/fellow-series-1-espresso-machine/)<!-- TECH:END -->
+ - [Sources: DoD told Anthropic it will invoke the Defense Production Act or label Anthropic a &quot;supply chain risk&quot;, if not given unfettered Claude access by Friday &lpar;Axios&rpar;](http://www.techmeme.com/260224/p38#a260224p38)
+ - [1Password is going up in price](https://www.theverge.com/tech/883837/1password-price-increase)
+ - [Life in Cuba Under Trump&#39;s Pressure Campaign: No Electricity, No Oil, and Impossible Choices](https://www.wired.com/story/cuba-trump-oil-pressure/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
