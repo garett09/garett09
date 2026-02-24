@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FairPhone Gen 6 will ‘soon’ get Android 16](https://www.androidauthority.com/fairphone-gen-6-android-16-coming-3643387/)
- - [Bengaluru-based Xflow, which facilitates B2B cross-border payments, raised a $16.6M Series A led by GC at an $85M valuation, bringing its total raised to $32M+ &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260224/p2#a260224p2)
- - [Filings: some Meta execs warned in 2019 that adding E2E encryption to Facebook and Instagram messaging would hinder the ability to flag CSAM to law enforcement &lpar;Reuters&rpar;](http://www.techmeme.com/260224/p1#a260224p1)<!-- TECH:END -->
+ - [ASML researchers unveil a breakthrough in EUV light source power, increasing output from 600W to 1,000W, a jump that could yield 50% more chips by 2030 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260224/p15#a260224p15)
+ - [The UK ICO fines Reddit £14.47M for unlawfully using children&#39;s personal information; Reddit began verifying user ages in July 2025 to comply with the UK OSA &lpar;Tom Singleton/BBC&rpar;](http://www.techmeme.com/260224/p14#a260224p14)
+ - [Fellow Series 1 Espresso Machine Review &lpar;2026&rpar;: Excellent, but a Work in Progress](https://www.wired.com/review/fellow-series-1-espresso-machine/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
