@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV is getting stuck in a search loop thanks to Gemini](https://www.androidauthority.com/google-tv-gemini-search-loop-3643225/)
- - [Anthropic says DeepSeek, MiniMax, and Moonshot violated its ToS by prompting Claude a combined 16M+ times and using distillation to train their own products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p22#a260223p22)
- - [Apple’s newest AirTags are already on sale if you’re looking to upgrade](https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale)<!-- TECH:END -->
+ - [The administrator winding down Terraform Labs sues Jane Street, alleging it engaged in insider trading to profit from and ultimately hasten Terraform&#39;s collapse &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p34#a260223p34)
+ - [How Binance staffers found $1B was sent to sanctioned Iranian entities via the exchange, which dismantled their probe and suspended them after Trump pardoned CZ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p33#a260223p33)
+ - [Tesla sues California&#39;s DMV to reverse a ruling that found Tesla violated the law by falsely promoting its Autopilot and Full Self-Driving systems &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260223/p32#a260223p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
