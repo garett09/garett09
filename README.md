@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic starts rolling out Remote Control for Claude Code, letting users control a session begun in the terminal from the Claude mobile app or the web &lpar;Claude/@claudeai&rpar;](http://www.techmeme.com/260224/p53#a260224p53)
- - [Apple&amp;#8217;s new age verification tools block underage app downloads where required by law](https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads)
- - [London-based self-driving startup Wayve raised a $1.2B Series D at an $8.6B post-money valuation, with Mercedes-Benz, Stellantis, and Nissan among investors &lpar;Financial Times&rpar;](http://www.techmeme.com/260224/p52#a260224p52)<!-- TECH:END -->
+ - [A look at Motif Technologies and Upstage, South Korean AI startups competing with SK Group and LG in the race for a national AI foundation model &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260225/p5#a260225p5)
+ - [Peacock Promo Codes: 40% Off February 2026](https://www.wired.com/story/peacock-promo-code/)
+ - [50% Off Blue Apron Promo Codes | February 2026](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
