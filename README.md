@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google disrupts Chinese-linked group UNC2814, which breached 53+ organizations across 42 countries and utilized Google Sheets to manage targeting and data theft &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/260225/p18#a260225p18)
- - [Stablecoin operator Circle reports Q4 revenue up 77% YoY to $770M, vs. $747M est., and $133.4M net income; USDC ended 2025 with ~$75B in circulation, up 72% YoY &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p17#a260225p17)
- - [Deutsche Bank partners with Google Cloud to build agentic AI to monitor 1TB of daily communications and 40+ channels for market abuse and data loss prevention &lpar;William Shaw/Bloomberg&rpar;](http://www.techmeme.com/260225/p16#a260225p16)<!-- TECH:END -->
+ - [Apple’s first foldable iPhone might set a new standard for display creases](https://www.androidauthority.com/iphone-fold-flat-inner-display-3644284/)
+ - [Sources: Thrive invested $1B in OpenAI in 2025 at a $285B valuation in a transaction akin to a call option; OpenAI was separately raising at a $830B valuation &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p38#a260225p38)
+ - [Perplexity launches Perplexity Computer, &quot;a general-purpose digital worker&quot; that can route work across 19 AI models, available initially for Max subscribers &lpar;Jason Hiner/The Deep View&rpar;](http://www.techmeme.com/260225/p37#a260225p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
