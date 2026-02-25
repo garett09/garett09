@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DoD told Anthropic it will invoke the Defense Production Act or label Anthropic a &quot;supply chain risk&quot;, if not given unfettered Claude access by Friday &lpar;Axios&rpar;](http://www.techmeme.com/260224/p38#a260224p38)
- - [1Password is going up in price](https://www.theverge.com/tech/883837/1password-price-increase)
- - [Life in Cuba Under Trump&#39;s Pressure Campaign: No Electricity, No Oil, and Impossible Choices](https://www.wired.com/story/cuba-trump-oil-pressure/)<!-- TECH:END -->
+ - [Anthropic starts rolling out Remote Control for Claude Code, letting users control a session begun in the terminal from the Claude mobile app or the web &lpar;Claude/@claudeai&rpar;](http://www.techmeme.com/260224/p53#a260224p53)
+ - [Apple&amp;#8217;s new age verification tools block underage app downloads where required by law](https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads)
+ - [London-based self-driving startup Wayve raised a $1.2B Series D at an $8.6B post-money valuation, with Mercedes-Benz, Stellantis, and Nissan among investors &lpar;Financial Times&rpar;](http://www.techmeme.com/260224/p52#a260224p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
