@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Motif Technologies and Upstage, South Korean AI startups competing with SK Group and LG in the race for a national AI foundation model &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260225/p5#a260225p5)
- - [Peacock Promo Codes: 40% Off February 2026](https://www.wired.com/story/peacock-promo-code/)
- - [50% Off Blue Apron Promo Codes | February 2026](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
+ - [Google disrupts Chinese-linked group UNC2814, which breached 53+ organizations across 42 countries and utilized Google Sheets to manage targeting and data theft &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/260225/p18#a260225p18)
+ - [Stablecoin operator Circle reports Q4 revenue up 77% YoY to $770M, vs. $747M est., and $133.4M net income; USDC ended 2025 with ~$75B in circulation, up 72% YoY &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p17#a260225p17)
+ - [Deutsche Bank partners with Google Cloud to build agentic AI to monitor 1TB of daily communications and 40+ channels for market abuse and data loss prevention &lpar;William Shaw/Bloomberg&rpar;](http://www.techmeme.com/260225/p16#a260225p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
