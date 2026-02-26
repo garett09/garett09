@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Montreal-based Stay22, which helps publishers and creators earn money from online sales, raised $122M from Summit Partners and reports $1B+ in 2025 transactions &lpar;Mathieu Dion/Bloomberg&rpar;](http://www.techmeme.com/260226/p25#a260226p25)
- - [AI coding agents made a huge leap forward since December, completing complex projects with minimal oversight, meaning &quot;programming is becoming unrecognizable&quot; &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260226/p24#a260226p24)
- - [Is the Galaxy S26 Ultra’s Privacy Display better than a privacy screen protector? We tested both](https://www.androidauthority.com/samsung-galaxy-s26-ultra-privacy-display-vs-privacy-screen-protector-3644580/)<!-- TECH:END -->
+ - [A decade after US authorization, the iPhone is allowed to handle classified data for NATO](https://appleinsider.com/articles/26/02/26/a-decade-after-us-authorization-the-iphone-is-allowed-to-handle-classified-data-for-nato?utm_source=rss)
+ - [Apple says iPhone and iPad on iOS 26 and iPadOS 26 have become the first consumer devices NATO approved for use up to the &quot;restricted&quot; level of classified data &lpar;Elyse Betters Picaro/ZDNET&rpar;](http://www.techmeme.com/260226/p43#a260226p43)
+ - [AYN’s 3DS-style Thor handheld is facing another price hike](https://www.androidauthority.com/ayn-thor-april-price-hike-3644695/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
