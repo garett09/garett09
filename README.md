@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s first foldable iPhone might set a new standard for display creases](https://www.androidauthority.com/iphone-fold-flat-inner-display-3644284/)
- - [Sources: Thrive invested $1B in OpenAI in 2025 at a $285B valuation in a transaction akin to a call option; OpenAI was separately raising at a $830B valuation &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p38#a260225p38)
- - [Perplexity launches Perplexity Computer, &quot;a general-purpose digital worker&quot; that can route work across 19 AI models, available initially for Max subscribers &lpar;Jason Hiner/The Deep View&rpar;](http://www.techmeme.com/260225/p37#a260225p37)<!-- TECH:END -->
+ - [The UK&#39;s Virgin Media O2 launches Europe&#39;s first satellite-to-mobile service, powered by Starlink and initially available for £3/month on select Samsung devices &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/260225/p54#a260225p54)
+ - [Filing: C3.ai plans to cut ~26% of its workforce; the company had ~1,200 employees as of April 2025; C3.ai shares drop 20%+ after hours on weaker FY guidance &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p53#a260225p53)
+ - [Samsung Galaxy S26 Ultra vs. Galaxy S26 and S26 Plus: Flagship Specs Comparison](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
