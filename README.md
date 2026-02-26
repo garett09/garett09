@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
- - 🚯 [Straight to jail](http://9gag.com/gag/awy2gpy)
- - 🚯 [In This Economy](http://9gag.com/gag/aqyw8mY)<!-- MEMES:END -->
+ - 🚖 [Why is the rich friend so cheap??](http://9gag.com/gag/aLn5Ang)
+ - 🚯 [Mom won the night](http://9gag.com/gag/aZZ5E8V)
+ - 🚯 [Wtf is that?](http://9gag.com/gag/aKG5YKW)<!-- MEMES:END -->
 
 --- 
 
