@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is in talks with Visa, Mastercard, and Indian banks ICICI, HDFC, and Axis as it plans to launch Apple Pay in India around mid-2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260226/p5#a260226p5)
- - [Turns Out Perplexity Might Be the Sleeper Feature on Samsung&#39;s Galaxy S26](https://www.cnet.com/tech/mobile/turns-out-perplexity-might-be-the-sleeper-feature-on-samsungs-galaxy-s26/)
- - [Q&amp;A with Skild AI CEO Deepak Pathak on building a general-purpose brain for robots, standing out among big tech&#39;s robotics efforts, the path to AGI, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260226/p4#a260226p4)<!-- TECH:END -->
+ - [Montreal-based Stay22, which helps publishers and creators earn money from online sales, raised $122M from Summit Partners and reports $1B+ in 2025 transactions &lpar;Mathieu Dion/Bloomberg&rpar;](http://www.techmeme.com/260226/p25#a260226p25)
+ - [AI coding agents made a huge leap forward since December, completing complex projects with minimal oversight, meaning &quot;programming is becoming unrecognizable&quot; &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260226/p24#a260226p24)
+ - [Is the Galaxy S26 Ultra’s Privacy Display better than a privacy screen protector? We tested both](https://www.androidauthority.com/samsung-galaxy-s26-ultra-privacy-display-vs-privacy-screen-protector-3644580/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
