@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
- - 🚯 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)
- - 🚯 [Y so mad, bro?](http://9gag.com/gag/aD25X2Z)<!-- MEMES:END -->
+ - 🚖 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
+ - 🚯 [Pattern recognition](http://9gag.com/gag/amowVV6)
+ - 🚯 [Don\u2019t worry the cops got this. Y\u2019all keep messing with that lock](http://9gag.com/gag/ae9wmOq)<!-- MEMES:END -->
 
 --- 
 
