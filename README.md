@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
- - 🚯 [Pattern recognition](http://9gag.com/gag/amowVV6)
- - 🚯 [Don\u2019t worry the cops got this. Y\u2019all keep messing with that lock](http://9gag.com/gag/ae9wmOq)<!-- MEMES:END -->
+ - 🚖 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
+ - 🚯 [Houston we have a problem](http://9gag.com/gag/aqywzPR)
+ - 🚯 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
 
 --- 
 
