@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is the rich friend so cheap??](http://9gag.com/gag/aLn5Ang)
- - 🚯 [Mom won the night](http://9gag.com/gag/aZZ5E8V)
- - 🚯 [Wtf is that?](http://9gag.com/gag/aKG5YKW)<!-- MEMES:END -->
+ - 🚖 [Unexpected....](http://9gag.com/gag/awy2dBB)
+ - 🚯 [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)
+ - 🚯 [Bafta actors reaction after a guy with Tourette&#39;s started screaming the hard N......R](http://9gag.com/gag/ajPwZDq)<!-- MEMES:END -->
 
 --- 
 
