@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Latest Repair Battlefield Is the Iowa Farmlands—Again](https://www.wired.com/story/latest-repair-battlefield-iowa-farmlands-again/)
- - [Plaintiffs took &#39;unsupported leap&#39; in lawsuit Apple hopes to get dismissed](https://appleinsider.com/articles/26/02/27/plaintiffs-took-unsupported-leap-in-lawsuit-apple-hopes-to-get-dismissed?utm_source=rss)
- - [These Are Our Absolute Favorite Android Earbuds, and They&#39;re Below $200](https://www.wired.com/story/pixel-buds-pro-2-deal-226/)<!-- TECH:END -->
+ - [California DMV records show Tesla has logged zero autonomous test miles on the state&#39;s roads since 2019, despite Musk&#39;s claims of an imminent CA robotaxi launch &lpar;Chris Kirkham/Reuters&rpar;](http://www.techmeme.com/260227/p3#a260227p3)
+ - [Sources: Jeff Bezos&#39; Project Prometheus is raising tens of billions to buy companies hit by AI; it was valued at ~$30B in November 2025 when it raised $6.2B &lpar;Financial Times&rpar;](http://www.techmeme.com/260227/p2#a260227p2)
+ - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
