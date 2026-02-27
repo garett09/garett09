@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A decade after US authorization, the iPhone is allowed to handle classified data for NATO](https://appleinsider.com/articles/26/02/26/a-decade-after-us-authorization-the-iphone-is-allowed-to-handle-classified-data-for-nato?utm_source=rss)
- - [Apple says iPhone and iPad on iOS 26 and iPadOS 26 have become the first consumer devices NATO approved for use up to the &quot;restricted&quot; level of classified data &lpar;Elyse Betters Picaro/ZDNET&rpar;](http://www.techmeme.com/260226/p43#a260226p43)
- - [AYN’s 3DS-style Thor handheld is facing another price hike](https://www.androidauthority.com/ayn-thor-april-price-hike-3644695/)<!-- TECH:END -->
+ - [The Latest Repair Battlefield Is the Iowa Farmlands—Again](https://www.wired.com/story/latest-repair-battlefield-iowa-farmlands-again/)
+ - [Plaintiffs took &#39;unsupported leap&#39; in lawsuit Apple hopes to get dismissed](https://appleinsider.com/articles/26/02/27/plaintiffs-took-unsupported-leap-in-lawsuit-apple-hopes-to-get-dismissed?utm_source=rss)
+ - [These Are Our Absolute Favorite Android Earbuds, and They&#39;re Below $200](https://www.wired.com/story/pixel-buds-pro-2-deal-226/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
