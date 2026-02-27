@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aventon Soltera 3 Electric Bike Review: A Fun Hybrid Single-Speed](https://www.wired.com/review/aventon-soltera-3-electric-bike/)
- - [Ultrahuman’s new flagship smart ring has a 15-day battery](https://www.theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability)
- - [Samsung Galaxy S26 Ultra vs Galaxy S23 Ultra: Here’s why I would upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-s23-ultra-upgrade-3643379/)<!-- TECH:END -->
+ - [Amazon’s Fire TV Stick 4K Plus gets a better interface and a 40 percent discount](https://www.theverge.com/gadgets/886153/amazon-fire-tv-stick-4k-plus-deal-sale)
+ - [Suno CEO and co-founder Mikey Shulman says the AI music company hit 2M paid subscribers and $300M ARR; pitch deck: it had 1M paid subscribers in November 2025 &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/260227/p22#a260227p22)
+ - [The global RAM and SSD shortage crisis, explained](https://appleinsider.com/articles/26/02/27/the-global-ram-and-ssd-shortage-crisis-explained?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
