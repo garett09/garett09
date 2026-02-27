@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California DMV records show Tesla has logged zero autonomous test miles on the state&#39;s roads since 2019, despite Musk&#39;s claims of an imminent CA robotaxi launch &lpar;Chris Kirkham/Reuters&rpar;](http://www.techmeme.com/260227/p3#a260227p3)
- - [Sources: Jeff Bezos&#39; Project Prometheus is raising tens of billions to buy companies hit by AI; it was valued at ~$30B in November 2025 when it raised $6.2B &lpar;Financial Times&rpar;](http://www.techmeme.com/260227/p2#a260227p2)
- - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)<!-- TECH:END -->
+ - [Aventon Soltera 3 Electric Bike Review: A Fun Hybrid Single-Speed](https://www.wired.com/review/aventon-soltera-3-electric-bike/)
+ - [Ultrahuman’s new flagship smart ring has a 15-day battery](https://www.theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability)
+ - [Samsung Galaxy S26 Ultra vs Galaxy S23 Ultra: Here’s why I would upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-s23-ultra-upgrade-3643379/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
