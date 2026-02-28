@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Fire TV Stick 4K Plus gets a better interface and a 40 percent discount](https://www.theverge.com/gadgets/886153/amazon-fire-tv-stick-4k-plus-deal-sale)
- - [Suno CEO and co-founder Mikey Shulman says the AI music company hit 2M paid subscribers and $300M ARR; pitch deck: it had 1M paid subscribers in November 2025 &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/260227/p22#a260227p22)
- - [The global RAM and SSD shortage crisis, explained](https://appleinsider.com/articles/26/02/27/the-global-ram-and-ssd-shortage-crisis-explained?utm_source=rss)<!-- TECH:END -->
+ - [Source: Sam Altman told employees the DOD is willing to let OpenAI build its own &quot;safety stack&quot; and won&#39;t force OpenAI to comply if its model refuses a task &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/260227/p38#a260227p38)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
