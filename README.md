@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - 🚯 [Houston we have a problem](http://9gag.com/gag/aqywzPR)
- - 🚯 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
+ - 🚖 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
+ - 🚯 [Eva Green](http://9gag.com/gag/ae9w7GO)
+ - 🚯 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)<!-- MEMES:END -->
 
 --- 
 
