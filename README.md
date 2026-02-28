@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Sam Altman told employees the DOD is willing to let OpenAI build its own &quot;safety stack&quot; and won&#39;t force OpenAI to comply if its model refuses a task &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/260227/p38#a260227p38)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [MWC 2026 Updates: All the News, Reveals and Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)<!-- TECH:END -->
+ - [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic &lpar;Wired&rpar;](http://www.techmeme.com/260228/p2#a260228p2)
+ - [Clicks reveals SoC, software support for its BlackBerry-like Android phone &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/clicks-communicator-soc-android-updates-3645026/)
+ - [Coupang reports Q4 revenue up 11% YoY to $8.8B, below $8.9B est., and a net loss of $26M, versus $131M net profit in Q4 2024, hurt by fallout from a data breach &lpar;Reuters&rpar;](http://www.techmeme.com/260228/p1#a260228p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
