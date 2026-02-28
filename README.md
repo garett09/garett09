@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice](http://9gag.com/gag/an7wr3E)
- - 🚯 [$30 would have gotten you 1/2lb back then](http://9gag.com/gag/aE05O9o)
- - 🚯 [Bro got schooled on basic economics](http://9gag.com/gag/adBwR4B)<!-- MEMES:END -->
+ - 🚖 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - 🚯 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
+ - 🚯 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)<!-- MEMES:END -->
 
 --- 
 
