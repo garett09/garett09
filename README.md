@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and Palantir, which work closely with Anthropic &lpar;Wired&rpar;](http://www.techmeme.com/260228/p2#a260228p2)
- - [Clicks reveals SoC, software support for its BlackBerry-like Android phone &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/clicks-communicator-soc-android-updates-3645026/)
- - [Coupang reports Q4 revenue up 11% YoY to $8.8B, below $8.9B est., and a net loss of $26M, versus $131M net profit in Q4 2024, hurt by fallout from a data breach &lpar;Reuters&rpar;](http://www.techmeme.com/260228/p1#a260228p1)<!-- TECH:END -->
+ - [Kindle’s newest feature has completely changed how I read books](https://www.androidauthority.com/kindle-app-immersive-reading-3643858/)
+ - [The Best MicroSD Cards for Your Camera, Switch, and More](https://www.wired.com/gallery/best-micro-sd-cards/)
+ - [The Best Laptop Cooling Pad and Why You Should Buy One](https://www.wired.com/story/best-laptop-cooling-pad/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
