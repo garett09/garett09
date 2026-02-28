@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kindle’s newest feature has completely changed how I read books](https://www.androidauthority.com/kindle-app-immersive-reading-3643858/)
- - [The Best MicroSD Cards for Your Camera, Switch, and More](https://www.wired.com/gallery/best-micro-sd-cards/)
- - [The Best Laptop Cooling Pad and Why You Should Buy One](https://www.wired.com/story/best-laptop-cooling-pad/)<!-- TECH:END -->
+ - [Claude hit #2 on Apple&#39;s US App Store, hours after the DOD designated Anthropic a supply chain risk; it bounced between #20 and #50 for much of February &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260228/p12#a260228p12)
+ - [Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260228/p11#a260228p11)
+ - [Q&amp;A with Reiner Pope, a former Google TPU architect and CEO of MatX, which designs specialized chips for LLMs, on the limitations of current AI chips, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260228/p10#a260228p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
