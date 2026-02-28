@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - 🚯 [When your birthday falls on a Friday](http://9gag.com/gag/ae9w7vm)
+ - 🚖 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
+ - 🚯 [Eva Green](http://9gag.com/gag/ae9w7GO)
  - 🚯 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)<!-- MEMES:END -->
 
 --- 
