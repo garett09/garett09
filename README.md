@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Requiem guide: Puzzle solutions, locked doors, collectibles, and more](https://www.pcgamer.com/games/resident-evil/re-requiem-re9-guide/)
- - [An Ode To Pokémon’s Ash Ketchum](https://kotaku.com/pokemon-anime-ash-ketchum-pikachu-final-episode-netflix-1850805389)
- - [An AI-generated review of Resident Evil Requiem written by a fake &#39;iGaming and sports betting analyst&#39; briefly hit Metacritic](https://www.pcgamer.com/gaming-industry/an-ai-generated-review-of-resident-evil-requiem-written-by-a-fake-igaming-and-sports-betting-analyst-briefly-hit-metacritic/)<!-- GAME:END -->
+ - [3 movies on Prime Video that will change the way you think about their stars](https://www.polygon.com/3-movie-masterpieces-buried-on-prime-video-perfect-host-pacific-heights-burn-after-reading/)
+ - [Should you destroy or release Elpis in Resident Evil Requiem?](https://www.pcgamer.com/games/horror/resident-evil/requiem-destroy-release-elpis-endings/)
+ - [Occult deckbuilder The Killing Stone is introducing a &#39;dynamic&#39; scare system originally considered for BioShock 2: &#39;It&#39;s very fun as a gamedev to be surprised by something in your own game&#39;](https://www.pcgamer.com/games/fps/occult-deckbuilder-the-killing-stone-is-introducing-a-dynamic-scare-system-originally-considered-for-bioshock-2-its-very-fun-as-a-gamedev-to-be-surprised-by-something-in-your-own-game/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
