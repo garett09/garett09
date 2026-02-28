@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 movies on Prime Video that will change the way you think about their stars](https://www.polygon.com/3-movie-masterpieces-buried-on-prime-video-perfect-host-pacific-heights-burn-after-reading/)
- - [Should you destroy or release Elpis in Resident Evil Requiem?](https://www.pcgamer.com/games/horror/resident-evil/requiem-destroy-release-elpis-endings/)
- - [Occult deckbuilder The Killing Stone is introducing a &#39;dynamic&#39; scare system originally considered for BioShock 2: &#39;It&#39;s very fun as a gamedev to be surprised by something in your own game&#39;](https://www.pcgamer.com/games/fps/occult-deckbuilder-the-killing-stone-is-introducing-a-dynamic-scare-system-originally-considered-for-bioshock-2-its-very-fun-as-a-gamedev-to-be-surprised-by-something-in-your-own-game/)<!-- GAME:END -->
+ - [Legend Of Zelda Actor Has Thoughts On The Live-Action Movie And Whether Link And Zelda Are Dating](https://kotaku.com/legend-zelda-dating-link-patricia-summersett-movie-2000674766)
+ - [The 10 most nostalgic cards in Magic’s TMNT set](https://www.polygon.com/mtg-magic-the-gathering-teenage-mutant-ninja-tiurtles-tmnt-best-cards/)
+ - [You&#39;ve never heard of it, but a Russian studio made a fantasy take on original Fallout way back in 2001, and it honestly kind of rules](https://www.pcgamer.com/games/rpg/youve-never-heard-of-it-but-a-russian-studio-made-a-fantasy-take-on-original-fallout-way-back-in-2001-and-it-honestly-kind-of-rules/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
