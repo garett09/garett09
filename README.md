@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon &lpar;@openai&rpar;](http://www.techmeme.com/260228/p19#a260228p19)
- - [OpenAI says its DOD agreement upholds its redlines and &quot;has more guardrails than any previous agreement for classified AI deployments, including Anthropic&#39;s&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/260228/p18#a260228p18)
- - [X Is Drowning in Disinformation Following US and Israel’s Attack on Iran](https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/)<!-- TECH:END -->
+ - [Multiple AWS developers say they are asked to take on new roles with AI tools&#39; assistance, and engineers are now required to complete technical writing tasks &lpar;Financial Times&rpar;](http://www.techmeme.com/260301/p2#a260301p2)
+ - [Block&#39;s plan to lay off over 4,000 employees, citing AI work automation, adds to growing angst among white-collar workers over AI&#39;s potential for job disruption &lpar;Chip Cutter/Wall Street Journal&rpar;](http://www.techmeme.com/260301/p1#a260301p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
