@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 🚯 [Eva Green](http://9gag.com/gag/ae9w7GO)
- - 🚯 [You know you&#39;re fat when your blood has fat](http://9gag.com/gag/aND5OXw)<!-- MEMES:END -->
+ - 🚖 [Would you ?](http://9gag.com/gag/aZZ5z5p)
+ - 🚯 [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 🚯 [The long game](http://9gag.com/gag/aND538G)<!-- MEMES:END -->
 
 --- 
 
