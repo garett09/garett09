@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blessed Holly molly](http://9gag.com/gag/aryw8L7)
- - 🚯 [Could you not](http://9gag.com/gag/a87OVvO)
- - 🚯 [Bro got schooled on basic economics](http://9gag.com/gag/adBwR4B)<!-- MEMES:END -->
+ - 🚖 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
+ - 🚯 [Love at first sight](http://9gag.com/gag/an7wdjV)
+ - 🚯 [Weird flex but Ok](http://9gag.com/gag/a34rx2m)<!-- MEMES:END -->
 
 --- 
 
