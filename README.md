@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude hit #2 on Apple&#39;s US App Store, hours after the DOD designated Anthropic a supply chain risk; it bounced between #20 and #50 for much of February &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260228/p12#a260228p12)
- - [Sources: Israel hacked BadeSaba, a popular Iranian prayer app with 5M+ installs on Google Play, to send messages urging Iranian military personnel to defect &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260228/p11#a260228p11)
- - [Q&amp;A with Reiner Pope, a former Google TPU architect and CEO of MatX, which designs specialized chips for LLMs, on the limitations of current AI chips, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260228/p10#a260228p10)<!-- TECH:END -->
+ - [OpenAI says it does not think Anthropic should be designated as a supply chain risk and it has made its position on this clear to the Pentagon &lpar;@openai&rpar;](http://www.techmeme.com/260228/p19#a260228p19)
+ - [OpenAI says its DOD agreement upholds its redlines and &quot;has more guardrails than any previous agreement for classified AI deployments, including Anthropic&#39;s&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/260228/p18#a260228p18)
+ - [X Is Drowning in Disinformation Following US and Israel’s Attack on Iran](https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
