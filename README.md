@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Multiple AWS developers say they are asked to take on new roles with AI tools&#39; assistance, and engineers are now required to complete technical writing tasks &lpar;Financial Times&rpar;](http://www.techmeme.com/260301/p2#a260301p2)
- - [Block&#39;s plan to lay off over 4,000 employees, citing AI work automation, adds to growing angst among white-collar workers over AI&#39;s potential for job disruption &lpar;Chip Cutter/Wall Street Journal&rpar;](http://www.techmeme.com/260301/p1#a260301p1)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-1/)<!-- TECH:END -->
+ - [Recteq Flagship 1600 Review: An Upgraded Smoker](https://www.wired.com/review/recteq-flagship-1600-review/)
+ - [Video Doorbell Advice and Settings for Opting Out of the Surveillance State](https://www.wired.com/story/how-to-secure-your-video-doorbell/)
+ - [Fewer cameras can be better, and this phone proves it](https://www.androidauthority.com/xiaomi-17-ultra-zoom-camera-3637543/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
