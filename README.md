@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bridgeish](http://9gag.com/gag/a6Z6G2N)
- - 🚯 [Love at first sight](http://9gag.com/gag/an7wdjV)
- - 🚯 [Weird flex but Ok](http://9gag.com/gag/a34rx2m)<!-- MEMES:END -->
+ - 🚖 [Me irl](http://9gag.com/gag/a4PyxLd)
+ - 🚯 [The long game](http://9gag.com/gag/aND538G)
+ - 🚯 [Le Title.](http://9gag.com/gag/aPA2dxB)<!-- MEMES:END -->
 
 --- 
 
