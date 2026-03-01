@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recteq Flagship 1600 Review: An Upgraded Smoker](https://www.wired.com/review/recteq-flagship-1600-review/)
- - [Video Doorbell Advice and Settings for Opting Out of the Surveillance State](https://www.wired.com/story/how-to-secure-your-video-doorbell/)
- - [Fewer cameras can be better, and this phone proves it](https://www.androidauthority.com/xiaomi-17-ultra-zoom-camera-3637543/)<!-- TECH:END -->
+ - [Chinese matchmaking apps like Wanmei Qinjia, which has 50M users and lets parents look for spouses for their children, surge as marriage rates continue to fall &lpar;Kohei Fujimura/Nikkei Asia&rpar;](http://www.techmeme.com/260301/p10#a260301p10)
+ - [Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’](https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death)
+ - [The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran](https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
