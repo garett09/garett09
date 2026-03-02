@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 on iPad mini 7, plus grab Apple Pencil Pro deal](https://appleinsider.com/articles/26/03/02/save-100-on-ipad-mini-7-plus-grab-apple-pencil-pro-deal?utm_source=rss)
- - [AWS said objects struck one of its data centers in the UAE, impacting its mec1-az2 availability zone, and that connectivity will take several hours to restore &lpar;Reuters&rpar;](http://www.techmeme.com/260301/p17#a260301p17)
- - [Block is a poster child for the lack of operational discipline common among mid-tier public tech companies that lived on the largesse of cloud, mobile, and ZIRP &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/260301/p16#a260301p16)<!-- TECH:END -->
+ - [Australian AI infrastructure company Firmus signed a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips &lpar;Sharon Klyne/Bloomberg&rpar;](http://www.techmeme.com/260302/p1#a260302p1)
+ - [Motorola&#39;s Upcoming Razr Fold Pairs a Massive Battery With a Sleek Design](https://www.cnet.com/tech/mobile/motorola-razr-battery-design-details-mwc-2026/)
+ - [Motorola goes for the foldable crown with the new Razr Fold at MWC](https://www.androidauthority.com/motorola-razr-fold-3645523/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
