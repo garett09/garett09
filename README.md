@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese matchmaking apps like Wanmei Qinjia, which has 50M users and lets parents look for spouses for their children, surge as marriage rates continue to fall &lpar;Kohei Fujimura/Nikkei Asia&rpar;](http://www.techmeme.com/260301/p10#a260301p10)
- - [Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’](https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death)
- - [The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran](https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/)<!-- TECH:END -->
+ - [Save $100 on iPad mini 7, plus grab Apple Pencil Pro deal](https://appleinsider.com/articles/26/03/02/save-100-on-ipad-mini-7-plus-grab-apple-pencil-pro-deal?utm_source=rss)
+ - [AWS said objects struck one of its data centers in the UAE, impacting its mec1-az2 availability zone, and that connectivity will take several hours to restore &lpar;Reuters&rpar;](http://www.techmeme.com/260301/p17#a260301p17)
+ - [Block is a poster child for the lack of operational discipline common among mid-tier public tech companies that lived on the largesse of cloud, mobile, and ZIRP &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/260301/p16#a260301p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
