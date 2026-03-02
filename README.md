@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australian AI infrastructure company Firmus signed a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips &lpar;Sharon Klyne/Bloomberg&rpar;](http://www.techmeme.com/260302/p1#a260302p1)
- - [Motorola&#39;s Upcoming Razr Fold Pairs a Massive Battery With a Sleek Design](https://www.cnet.com/tech/mobile/motorola-razr-battery-design-details-mwc-2026/)
- - [Motorola goes for the foldable crown with the new Razr Fold at MWC](https://www.androidauthority.com/motorola-razr-fold-3645523/)<!-- TECH:END -->
+ - [Qualcomm forms a &quot;coalition&quot; to launch 6G in 2029 and unveils the FastConnect 8800, an &quot;AI-native&quot; Wi-Fi 8-ready NIC that doubles peak speeds over Wi-Fi 7 &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/260302/p17#a260302p17)
+ - [Anthropic reports elevated errors on claude.ai, console, and Claude Code, starting at 11:49 UTC and impacting logins, and says the API &quot;is working as intended&quot; &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/260302/p16#a260302p16)
+ - [MWC 2026 Live Updates: All the Phones, Robots and Wild Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
