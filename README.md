@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm forms a &quot;coalition&quot; to launch 6G in 2029 and unveils the FastConnect 8800, an &quot;AI-native&quot; Wi-Fi 8-ready NIC that doubles peak speeds over Wi-Fi 7 &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/260302/p17#a260302p17)
- - [Anthropic reports elevated errors on claude.ai, console, and Claude Code, starting at 11:49 UTC and impacting logins, and says the API &quot;is working as intended&quot; &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/260302/p16#a260302p16)
- - [MWC 2026 Live Updates: All the Phones, Robots and Wild Concepts Debuting in Barcelona](https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/)<!-- TECH:END -->
+ - [A profile of Palmer Luckey and his startup Anduril, which has more than $6B in global contracts, had roughly $2B in revenue last year, and is valued at ~$31B &lpar;New York Times&rpar;](http://www.techmeme.com/260302/p31#a260302p31)
+ - [Our Favorite Budget TV Is On Sale](https://www.wired.com/story/vizio-tv-deal-226/)
+ - [iPhone 17e vs iPhone 16e: Apple&#39;s low-end, compared](https://appleinsider.com/inside/iphone-17e/vs/iphone-17e-vs-iphone-16e-apples-low-end-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
