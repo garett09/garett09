@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Legend Of Zelda Actor Has Thoughts On The Live-Action Movie And Whether Link And Zelda Are Dating](https://kotaku.com/legend-zelda-dating-link-patricia-summersett-movie-2000674766)
- - [The 10 most nostalgic cards in Magic’s TMNT set](https://www.polygon.com/mtg-magic-the-gathering-teenage-mutant-ninja-tiurtles-tmnt-best-cards/)
- - [You&#39;ve never heard of it, but a Russian studio made a fantasy take on original Fallout way back in 2001, and it honestly kind of rules](https://www.pcgamer.com/games/rpg/youve-never-heard-of-it-but-a-russian-studio-made-a-fantasy-take-on-original-fallout-way-back-in-2001-and-it-honestly-kind-of-rules/)<!-- GAME:END -->
+ - [Battlefield 6 explains how its Javelin anticheat system works—and it kind of boils down to &#39;just trust me bro&#39;](https://www.pcgamer.com/games/fps/battlefield-6-explains-how-its-javelin-anticheat-system-works-and-it-kind-of-boils-down-to-just-trust-me-bro/)
+ - [Heroic madlad is working multiplayer into Kingdom Come: Deliverance 2, and the brass ring of the whole thing is functional 2-player Farkle](https://www.pcgamer.com/games/rpg/heroic-madlad-is-working-multiplayer-into-kingdom-come-deliverance-2-and-the-brass-ring-of-the-whole-thing-is-functional-2-player-farkle/)
+ - [World of Warcraft: Midnight&#39;s &#39;stay a while and listen&#39; monologues might&#39;ve just heavily hinted at a future big bad](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnights-stay-a-while-and-listen-monologues-mightve-just-heavily-hinted-at-a-future-big-bad/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
