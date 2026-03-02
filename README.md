@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The long game](http://9gag.com/gag/aND538G)
- - 🚯 [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)
- - 🚯 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
+ - 🚖 [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - 🚯 [Stunt double?](http://9gag.com/gag/axywA6K)
+ - 🚯 [Im not even surprised...](http://9gag.com/gag/an7w8M5)<!-- MEMES:END -->
 
 --- 
 
