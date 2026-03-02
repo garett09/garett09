@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ancient Roman engineering still going strong after 2000 years](http://9gag.com/gag/aD25P97)
- - 🚯 [Nevermind a bone](http://9gag.com/gag/a6Z63Re)
- - 🚯 [You should go hiking. Its such lovely weather](http://9gag.com/gag/aW45NRn)<!-- MEMES:END -->
+ - 🚖 [The long game](http://9gag.com/gag/aND538G)
+ - 🚯 [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)
+ - 🚯 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
 
 --- 
 
