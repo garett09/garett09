@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 explains how its Javelin anticheat system works—and it kind of boils down to &#39;just trust me bro&#39;](https://www.pcgamer.com/games/fps/battlefield-6-explains-how-its-javelin-anticheat-system-works-and-it-kind-of-boils-down-to-just-trust-me-bro/)
- - [Heroic madlad is working multiplayer into Kingdom Come: Deliverance 2, and the brass ring of the whole thing is functional 2-player Farkle](https://www.pcgamer.com/games/rpg/heroic-madlad-is-working-multiplayer-into-kingdom-come-deliverance-2-and-the-brass-ring-of-the-whole-thing-is-functional-2-player-farkle/)
- - [World of Warcraft: Midnight&#39;s &#39;stay a while and listen&#39; monologues might&#39;ve just heavily hinted at a future big bad](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnights-stay-a-while-and-listen-monologues-mightve-just-heavily-hinted-at-a-future-big-bad/)<!-- GAME:END -->
+ - [New GTA 6 Leak Was Sitting On Someone’s Phone For Four Years Before They Posted It](https://kotaku.com/new-gta-6-leak-was-sitting-on-someones-phone-for-four-years-before-they-posted-it-2000675071)
+ - [Pokémon FireRed and LeafGreen Elite 4 teams and counters](https://www.polygon.com/pokemon-firered-leafgreen-frlg-elite-four-champion-teams-counters/)
+ - [Icarus Is The Perfect Survival Sim No One’s Talking About](https://kotaku.com/icarus-survival-sim-dean-hall-day-z-steam-pc-2000672788)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
