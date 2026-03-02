@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - 🚯 [Stunt double?](http://9gag.com/gag/axywA6K)
- - 🚯 [Im not even surprised...](http://9gag.com/gag/an7w8M5)<!-- MEMES:END -->
+ - 🚯 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
+ - 🚯 [Average 9gag hater](http://9gag.com/gag/aVv59w8)<!-- MEMES:END -->
 
 --- 
 
