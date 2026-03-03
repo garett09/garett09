@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Pokopia release time in your time zone on Switch 2](https://www.polygon.com/pokemon-pokopia-release-time-est-pst-preload-preorder/)
- - [Marathon UI designer declares himself the &#39;fontslop merchant&#39; and promises Bungie will never &#39;remove the SAUCE from the UI&#39;](https://www.pcgamer.com/games/fps/marathon-ui-designer-declares-himself-the-fontslop-merchant-and-promises-bungie-will-never-remove-the-sauce-from-the-ui/)
- - [The Marathon server slam consumed my weekend: 21 hours later, I&#39;ve gone from &#39;meh&#39; to believer](https://www.pcgamer.com/games/fps/the-marathon-server-slam-consumed-my-weekend-21-hours-later-ive-gone-from-meh-to-believer/)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX 5070 leaps to top of the Steam Hardware Survey but something looks fishy in the figures](https://www.pcgamer.com/hardware/graphics-cards/nvidias-rtx-5070-leaps-to-top-of-the-steam-hardware-survey-but-something-looks-fishy-in-the-figures/)
+ - [How to get Advanced Electrical Components in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-advanced-electrical-components/)
+ - [Resident Evil Requiem&#39;s The Final Puzzle has finally been figured out, and it&#39;s just as complicated and long as you&#39;d think: &#39;We don&#39;t get the doll if we don&#39;t AFK at the grinder&#39;](https://www.pcgamer.com/games/resident-evil/resident-evil-requiems-the-final-puzzle-has-finally-been-figured-out-and-its-just-as-complicated-and-long-as-youd-think-we-dont-get-the-doll-if-we-dont-afk-at-the-grinder/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
