@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [A sober Generation?](http://9gag.com/gag/azxwD0K)
- - 🚯 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - 🚯 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)<!-- MEMES:END -->
+ - 🚯 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
+ - 🚯 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
 
 --- 
 
