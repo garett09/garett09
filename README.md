@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New GTA 6 Leak Was Sitting On Someone’s Phone For Four Years Before They Posted It](https://kotaku.com/new-gta-6-leak-was-sitting-on-someones-phone-for-four-years-before-they-posted-it-2000675071)
- - [Pokémon FireRed and LeafGreen Elite 4 teams and counters](https://www.polygon.com/pokemon-firered-leafgreen-frlg-elite-four-champion-teams-counters/)
- - [Icarus Is The Perfect Survival Sim No One’s Talking About](https://kotaku.com/icarus-survival-sim-dean-hall-day-z-steam-pc-2000672788)<!-- GAME:END -->
+ - [Pokémon Pokopia release time in your time zone on Switch 2](https://www.polygon.com/pokemon-pokopia-release-time-est-pst-preload-preorder/)
+ - [Marathon UI designer declares himself the &#39;fontslop merchant&#39; and promises Bungie will never &#39;remove the SAUCE from the UI&#39;](https://www.pcgamer.com/games/fps/marathon-ui-designer-declares-himself-the-fontslop-merchant-and-promises-bungie-will-never-remove-the-sauce-from-the-ui/)
+ - [The Marathon server slam consumed my weekend: 21 hours later, I&#39;ve gone from &#39;meh&#39; to believer](https://www.pcgamer.com/games/fps/the-marathon-server-slam-consumed-my-weekend-21-hours-later-ive-gone-from-meh-to-believer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
