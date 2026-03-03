@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Palmer Luckey and his startup Anduril, which has more than $6B in global contracts, had roughly $2B in revenue last year, and is valued at ~$31B &lpar;New York Times&rpar;](http://www.techmeme.com/260302/p31#a260302p31)
- - [Our Favorite Budget TV Is On Sale](https://www.wired.com/story/vizio-tv-deal-226/)
- - [iPhone 17e vs iPhone 16e: Apple&#39;s low-end, compared](https://appleinsider.com/inside/iphone-17e/vs/iphone-17e-vs-iphone-16e-apples-low-end-compared?utm_source=rss)<!-- TECH:END -->
+ - [Segway Cube 1000 Portable Power Station hits its lowest price ever!](https://www.androidauthority.com/segway-cube-1000-portable-power-station-deal-3645886/)
+ - [OpenAI and the DOD have agreed to add more surveillance protections to a recent AI deal; sources: Sam Altman approached DOD&#39;s Emil Michael to rework the deal &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260302/p45#a260302p45)
+ - [What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?](https://www.wired.com/story/joe-gebbia-mystery-metallic-device/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
