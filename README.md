@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ultimate desk toy for any Minecraft addict](http://9gag.com/gag/a87OQyY)
- - 🚯 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
- - 🚯 [Some funny stuff](http://9gag.com/gag/a6Z6eyN)<!-- MEMES:END -->
+ - 🚖 [A sober Generation?](http://9gag.com/gag/azxwD0K)
+ - 🚯 [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - 🚯 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)<!-- MEMES:END -->
 
 --- 
 
