@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - 🚯 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
- - 🚯 [Average 9gag hater](http://9gag.com/gag/aVv59w8)<!-- MEMES:END -->
+ - 🚖 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
+ - 🚯 [Female F-15E Strike Eagle pilot that ejected is filmed and thanked by Kuwaiti locals moments after she landed safely.](http://9gag.com/gag/a7oXmVr)
+ - 🚯 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)<!-- MEMES:END -->
 
 --- 
 
