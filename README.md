@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Segway Cube 1000 Portable Power Station hits its lowest price ever!](https://www.androidauthority.com/segway-cube-1000-portable-power-station-deal-3645886/)
- - [OpenAI and the DOD have agreed to add more surveillance protections to a recent AI deal; sources: Sam Altman approached DOD&#39;s Emil Michael to rework the deal &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260302/p45#a260302p45)
- - [What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?](https://www.wired.com/story/joe-gebbia-mystery-metallic-device/)<!-- TECH:END -->
+ - [Sam Altman says the DOD affirmed that OpenAI&#39;s tools wouldn&#39;t be used by agencies like the NSA, and services to them would need a further contract modification &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260303/p1#a260303p1)
+ - [L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear](https://www.wired.com/story/ll-bean-promo-code/)
+ - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
