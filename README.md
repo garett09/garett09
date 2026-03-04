@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 🚯 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
- - 🚯 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
+ - 🚖 [Now I want to learn about it](http://9gag.com/gag/a9y0436)
+ - 🚯 [Daughter doesn&#39;t really understand the meaning of the word. All she knows is that `if you don&#39;t worship the god-emperor ,you are a heretic`.](http://9gag.com/gag/aW45Ajd)
+ - 🚯 [Stop making stupid people famous](http://9gag.com/gag/agmwbPr)<!-- MEMES:END -->
 
 --- 
 
