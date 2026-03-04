@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One day late, macOS Tahoe 26.4 finally gets its third developer beta](https://appleinsider.com/articles/26/03/03/one-day-late-macos-tahoe-264-finally-gets-its-third-developer-beta?utm_source=rss)
- - [JetStream Security, which offers an &quot;AI Blueprints&quot; tool that provides real-time mapping of AI agent activity, raised a $34M seed led by Redpoint &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/260303/p28#a260303p28)
- - [BenQ has a new monitor that gives the Studio Display a run for its money](https://appleinsider.com/articles/26/03/03/benq-has-a-new-monitor-that-gives-the-studio-display-a-run-for-its-money?utm_source=rss)<!-- TECH:END -->
+ - [KeyCare, a virtual care platform built on the Epic EHR, raised $27.4M led by HealthX Ventures, bringing its total funding to over $55M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/260303/p53#a260303p53)
+ - [CPU benchmarks for M4 iPad Air show comparable scores to M4 iPad Pro](https://appleinsider.com/articles/26/03/04/cpu-benchmarks-for-m4-ipad-air-show-comparable-scores-to-m4-ipad-pro?utm_source=rss)
+ - [Google details Coruna, an exploit kit used to hijack iPhones via malicious websites; iVerify suggests it may have been originally built for the US government &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260303/p52#a260303p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
