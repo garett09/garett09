@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [KeyCare, a virtual care platform built on the Epic EHR, raised $27.4M led by HealthX Ventures, bringing its total funding to over $55M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/260303/p53#a260303p53)
- - [CPU benchmarks for M4 iPad Air show comparable scores to M4 iPad Pro](https://appleinsider.com/articles/26/03/04/cpu-benchmarks-for-m4-ipad-air-show-comparable-scores-to-m4-ipad-pro?utm_source=rss)
- - [Google details Coruna, an exploit kit used to hijack iPhones via malicious websites; iVerify suggests it may have been originally built for the US government &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260303/p52#a260303p52)<!-- TECH:END -->
+ - [An OpenAI spokesperson says Sam Altman misspoke in saying OpenAI was looking to deploy on NATO classified networks, and that it was for &quot;unclassified networks&quot; &lpar;Hyunsu Yim/Reuters&rpar;](http://www.techmeme.com/260304/p5#a260304p5)
+ - [Barkbox Promo Codes and Discounts: Up to 50% Off](https://www.wired.com/story/barkbox-promo-code/)
+ - [Asia&#39;s smaller chip companies are joining their bigger peers in hiking prices as robust AI demand fuels capex, projected to rise 25% YoY to over $136B in 2026 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260304/p4#a260304p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
