@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A sober Generation?](http://9gag.com/gag/azxwD0K)
- - 🚯 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
- - 🚯 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
+ - 🚖 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - 🚯 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
+ - 🚯 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
 
 --- 
 
