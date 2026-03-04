@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An OpenAI spokesperson says Sam Altman misspoke in saying OpenAI was looking to deploy on NATO classified networks, and that it was for &quot;unclassified networks&quot; &lpar;Hyunsu Yim/Reuters&rpar;](http://www.techmeme.com/260304/p5#a260304p5)
- - [Barkbox Promo Codes and Discounts: Up to 50% Off](https://www.wired.com/story/barkbox-promo-code/)
- - [Asia&#39;s smaller chip companies are joining their bigger peers in hiking prices as robust AI demand fuels capex, projected to rise 25% YoY to over $136B in 2026 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260304/p4#a260304p4)<!-- TECH:END -->
+ - [What may be a FBI or CIA iPhone hacking toolset is spreading via black market](https://appleinsider.com/articles/26/03/04/iphone-coruna-virus-possible-us-government-hacking-toolset-spreading-via-black-market?utm_source=rss)
+ - [Marshall Kilburn III Review: A Classic Rock Bluetooth Speaker](https://www.wired.com/review/marshall-kilburn-iii/)
+ - [Kraken says its banking unit won &quot;master account&quot; access to the US Fed&#39;s core payment systems, the first crypto company to be able to move money like banks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260304/p17#a260304p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
