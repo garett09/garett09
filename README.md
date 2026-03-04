@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What may be a FBI or CIA iPhone hacking toolset is spreading via black market](https://appleinsider.com/articles/26/03/04/iphone-coruna-virus-possible-us-government-hacking-toolset-spreading-via-black-market?utm_source=rss)
- - [Marshall Kilburn III Review: A Classic Rock Bluetooth Speaker](https://www.wired.com/review/marshall-kilburn-iii/)
- - [Kraken says its banking unit won &quot;master account&quot; access to the US Fed&#39;s core payment systems, the first crypto company to be able to move money like banks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260304/p17#a260304p17)<!-- TECH:END -->
+ - [Authorities from 14 countries shut down LeakBase, seize its domains, and arrest multiple people allegedly tied to the cybercrime forum, which had 142K+ members &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/260304/p33#a260304p33)
+ - [This 5.1 Soundbar Bundle Is $100 Off](https://www.wired.com/story/sony-bravia-theater-system-deal-326/)
+ - [Epic and Google propose a settlement that would have Google share its Play Store app catalog with rivals and offer a registered app store program for Android &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/260304/p32#a260304p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
