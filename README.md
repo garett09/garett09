@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Europol-coordinated law enforcement operation disrupts Tycoon2FA, a phishing-as-a-service platform linked to tens of millions of phishing messages each month &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260304/p48#a260304p48)
- - [BenQ ScreenBar Halo 2 review: ideal desk lighting for nearly any situation](https://appleinsider.com/articles/26/03/05/benq-screenbar-halo-2-review-ideal-desk-lighting-for-nearly-any-situation?utm_source=rss)
- - [A new video from the White House mixes Call of Duty footage with actual video of Iran strikes](https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran)<!-- TECH:END -->
+ - [Many of Stockholm&#39;s thriving tech businesses consider relocating as they look to scale up, amid growing US interest in Swedish AI startups Lovable and Legora &lpar;Orlando Crowcroft/Financial Times&rpar;](http://www.techmeme.com/260305/p5#a260305p5)
+ - [OpenAI is scaling back shopping directly inside ChatGPT via Instant Checkout by having checkouts instead take place in the specific apps that plug into ChatGPT &lpar;The Information&rpar;](http://www.techmeme.com/260305/p4#a260305p4)
+ - [Steve Bannon, Susan Rice, and Richard Branson among the broad coalition of leaders signing the Future of Life Institute&#39;s Pro-Human AI Declaration &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/260305/p3#a260305p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
