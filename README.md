@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta agrees to allow rival &quot;general purpose AI chatbots&quot; access to WhatsApp in Europe for a 12-month period to avoid potential interim measures from the EU &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260305/p20#a260305p20)
- - [Grading Apple&#39;s release week - MacBook Pro, Air, Neo, and more!](https://appleinsider.com/articles/26/03/05/grading-apples-release-week---macbook-pro-air-neo-and-more?utm_source=rss)
- - [Best Workout Headphones &lpar;2026&rpar;, Tested in the Gym and in the Streets](https://www.wired.com/gallery/best-workout-headphones/)<!-- TECH:END -->
+ - [Birdbuddy’s AI-powered hummingbird feeder is matching its best price to date](https://www.theverge.com/gadgets/889975/birdbuddy-smart-hummingbird-feeder-pro-solar-deal-sale)
+ - [MacBook Neo vs M5 MacBook Air: Budget notebooks compared](https://appleinsider.com/inside/macbook-air/vs/macbook-neo-vs-m5-macbook-air-budget-notebooks-compared?utm_source=rss)
+ - [By any other name: A18 Pro is just as good a Mac chip as M4 for most](https://appleinsider.com/articles/26/03/05/by-any-other-name-a18-pro-is-just-as-good-a-mac-chip-as-m4-for-most?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
