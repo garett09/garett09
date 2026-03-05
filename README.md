@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just squeeze it](http://9gag.com/gag/aND55Or)
- - 🚯 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
- - 🚯 [I love that statement on so many levels](http://9gag.com/gag/aAy55Yg)<!-- MEMES:END -->
+ - 🚖 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - 🚯 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
+ - 🚯 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
 
 --- 
 
