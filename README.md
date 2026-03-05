@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 🚯 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
- - 🚯 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
+ - 🚖 [Someone finally found a way to skateboard in GTA 5.](http://9gag.com/gag/aW455b4)
+ - 🚯 [For mankind!](http://9gag.com/gag/aVv55nP)
+ - 🚯 [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)<!-- MEMES:END -->
 
 --- 
 
