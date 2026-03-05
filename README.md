@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone finally found a way to skateboard in GTA 5.](http://9gag.com/gag/aW455b4)
- - 🚯 [For mankind!](http://9gag.com/gag/aVv55nP)
- - 🚯 [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)<!-- MEMES:END -->
+ - 🚖 [Took me 21 years to realize I don&#39;t fit in this bloody country](http://9gag.com/gag/aoywwEx)
+ - 🚯 [114 times](http://9gag.com/gag/ajPw448)
+ - 🚯 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 --- 
 
