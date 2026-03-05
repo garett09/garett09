@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Authorities from 14 countries shut down LeakBase, seize its domains, and arrest multiple people allegedly tied to the cybercrime forum, which had 142K+ members &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/260304/p33#a260304p33)
- - [This 5.1 Soundbar Bundle Is $100 Off](https://www.wired.com/story/sony-bravia-theater-system-deal-326/)
- - [Epic and Google propose a settlement that would have Google share its Play Store app catalog with rivals and offer a registered app store program for Android &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/260304/p32#a260304p32)<!-- TECH:END -->
+ - [A Europol-coordinated law enforcement operation disrupts Tycoon2FA, a phishing-as-a-service platform linked to tens of millions of phishing messages each month &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260304/p48#a260304p48)
+ - [BenQ ScreenBar Halo 2 review: ideal desk lighting for nearly any situation](https://appleinsider.com/articles/26/03/05/benq-screenbar-halo-2-review-ideal-desk-lighting-for-nearly-any-situation?utm_source=rss)
+ - [A new video from the White House mixes Call of Duty footage with actual video of Iran strikes](https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
