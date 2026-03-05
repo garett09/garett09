@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many of Stockholm&#39;s thriving tech businesses consider relocating as they look to scale up, amid growing US interest in Swedish AI startups Lovable and Legora &lpar;Orlando Crowcroft/Financial Times&rpar;](http://www.techmeme.com/260305/p5#a260305p5)
- - [OpenAI is scaling back shopping directly inside ChatGPT via Instant Checkout by having checkouts instead take place in the specific apps that plug into ChatGPT &lpar;The Information&rpar;](http://www.techmeme.com/260305/p4#a260305p4)
- - [Steve Bannon, Susan Rice, and Richard Branson among the broad coalition of leaders signing the Future of Life Institute&#39;s Pro-Human AI Declaration &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/260305/p3#a260305p3)<!-- TECH:END -->
+ - [Meta agrees to allow rival &quot;general purpose AI chatbots&quot; access to WhatsApp in Europe for a 12-month period to avoid potential interim measures from the EU &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260305/p20#a260305p20)
+ - [Grading Apple&#39;s release week - MacBook Pro, Air, Neo, and more!](https://appleinsider.com/articles/26/03/05/grading-apples-release-week---macbook-pro-air-neo-and-more?utm_source=rss)
+ - [Best Workout Headphones &lpar;2026&rpar;, Tested in the Gym and in the Streets](https://www.wired.com/gallery/best-workout-headphones/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
