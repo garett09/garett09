@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 Max MacBook Pro benchmarkjs beat M3 Ultra Mac Studio](https://appleinsider.com/articles/26/03/06/m5-max-geekbench-scores-show-impressive-results-beating-out-m3-ultra-cpu-matching-gpu?utm_source=rss)
- - [MacBook Neo starts seeing shipping delays](https://appleinsider.com/articles/26/03/06/macbook-neo-starts-seeing-shipping-delays?utm_source=rss)
- - [Jones Mercury FASE Snowboard Bindings Review: The Best Fast Entry System](https://www.wired.com/review/jones-mercury-fase-snowboard-bindings/)<!-- TECH:END -->
+ - [Marvell stock jumps 20%+ after the chip company reported Q4 revenue up 22% YoY to $2.2B and issued strong guidance citing growing AI demand &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260306/p16#a260306p16)
+ - [Pixel 11 Pro XL case renders may give first hint at design changes](https://www.androidauthority.com/google-pixel-11-case-renders-3647310/)
+ - [Check your Play Points: You may get $400 off the Pixel 10 Pro or 10 Pro XL](https://www.androidauthority.com/play-store-pixel-10-pro-400-discount-3647333/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
