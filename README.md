@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mattress Firm Coupons and Discounts: Save Up to $600](https://www.wired.com/story/mattress-firm-coupon/)
- - [KitchenAid Promo Codes and Discounts: Save Up To 50%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Peacock Promo Codes: 40% Off March 2026](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [M5 Max MacBook Pro benchmarkjs beat M3 Ultra Mac Studio](https://appleinsider.com/articles/26/03/06/m5-max-geekbench-scores-show-impressive-results-beating-out-m3-ultra-cpu-matching-gpu?utm_source=rss)
+ - [MacBook Neo starts seeing shipping delays](https://appleinsider.com/articles/26/03/06/macbook-neo-starts-seeing-shipping-delays?utm_source=rss)
+ - [Jones Mercury FASE Snowboard Bindings Review: The Best Fast Entry System](https://www.wired.com/review/jones-mercury-fase-snowboard-bindings/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
