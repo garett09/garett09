@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon.com says things are fixed after some issues with logging in and checking out](https://www.theverge.com/tech/890215/amazon-is-down-login-prices)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Dario Amodei says Anthropic has been &quot;having productive conversations&quot; with the DOD and apologizes for a leaked memo that criticized Trump and Sam Altman &lpar;Anthropic&rpar;](http://www.techmeme.com/260305/p59#a260305p59)<!-- TECH:END -->
+ - [Mattress Firm Coupons and Discounts: Save Up to $600](https://www.wired.com/story/mattress-firm-coupon/)
+ - [KitchenAid Promo Codes and Discounts: Save Up To 50%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Peacock Promo Codes: 40% Off March 2026](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
