@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Took me 21 years to realize I don&#39;t fit in this bloody country](http://9gag.com/gag/aoywwEx)
- - 🚯 [114 times](http://9gag.com/gag/ajPw448)
- - 🚯 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
+ - 🚖 [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 🚯 [Diversity](http://9gag.com/gag/adBwDNM)
+ - 🚯 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
 
 --- 
 
