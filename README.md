@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Birdbuddy’s AI-powered hummingbird feeder is matching its best price to date](https://www.theverge.com/gadgets/889975/birdbuddy-smart-hummingbird-feeder-pro-solar-deal-sale)
- - [MacBook Neo vs M5 MacBook Air: Budget notebooks compared](https://appleinsider.com/inside/macbook-air/vs/macbook-neo-vs-m5-macbook-air-budget-notebooks-compared?utm_source=rss)
- - [By any other name: A18 Pro is just as good a Mac chip as M4 for most](https://appleinsider.com/articles/26/03/05/by-any-other-name-a18-pro-is-just-as-good-a-mac-chip-as-m4-for-most?utm_source=rss)<!-- TECH:END -->
+ - [Amazon.com says things are fixed after some issues with logging in and checking out](https://www.theverge.com/tech/890215/amazon-is-down-login-prices)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Dario Amodei says Anthropic has been &quot;having productive conversations&quot; with the DOD and apologizes for a leaked memo that criticized Trump and Sam Altman &lpar;Anthropic&rpar;](http://www.techmeme.com/260305/p59#a260305p59)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
