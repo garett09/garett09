@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 🚯 [Diversity](http://9gag.com/gag/adBwDNM)
- - 🚯 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
+ - 🚖 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - 🚯 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 🚯 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 --- 
 
