@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They&#39;ve been banned since then](http://9gag.com/gag/aRBdn8G)
- - 🚯 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 🚯 [He send them last night xD](http://9gag.com/gag/aMV5MWP)<!-- MEMES:END -->
+ - 🚖 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)
+ - 🚯 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)
+ - 🚯 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)<!-- MEMES:END -->
 
 --- 
 
