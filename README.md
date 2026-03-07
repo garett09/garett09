@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s smartphone market is seeing one of its widest price hikes as memory chip crunch deepens; Meizu announces it will suspend developing new mobile hardware &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260307/p3#a260307p3)
- - [Google&#39;s TIG documented 90 zero-day vulnerabilities exploited in 2025, up from 78 in 2024; commercial spyware vendors and China-linked groups led the abuse &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/260307/p2#a260307p2)
- - [US investors are pushing Asian fund managers to create special vehicles so they can invest in Asia while avoiding US investment restrictions on Chinese tech &lpar;Financial Times&rpar;](http://www.techmeme.com/260307/p1#a260307p1)<!-- TECH:END -->
+ - [This annoying Android Auto display issue grinds my gears — here’s how I fixed it](https://www.androidauthority.com/android-auto-extra-dim-issue-fix-3646107/)
+ - [The Best MIDI Controllers for Synths, Guitars, and More &lpar;2026&rpar;](https://www.wired.com/gallery/best-midi-controllers/)
+ - [The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost](https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
