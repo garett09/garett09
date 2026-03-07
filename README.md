@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvell stock jumps 20%+ after the chip company reported Q4 revenue up 22% YoY to $2.2B and issued strong guidance citing growing AI demand &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260306/p16#a260306p16)
- - [Pixel 11 Pro XL case renders may give first hint at design changes](https://www.androidauthority.com/google-pixel-11-case-renders-3647310/)
- - [Check your Play Points: You may get $400 off the Pixel 10 Pro or 10 Pro XL](https://www.androidauthority.com/play-store-pixel-10-pro-400-discount-3647333/)<!-- TECH:END -->
+ - [A draft guidance from the US GSA tightens rules for civilian AI contracts to require AI companies to allow &quot;any lawful&quot; use by the government of their models &lpar;Financial Times&rpar;](http://www.techmeme.com/260306/p32#a260306p32)
+ - [Sources: Kalshi and Polymarket are each eyeing valuations of ~$20B in fundraising talks; Kalshi was valued at $11B in December and Polymarket at $9B in October &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260306/p31#a260306p31)
+ - [This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work](https://www.wired.com/story/deveillance-spectre-i/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
