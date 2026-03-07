@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - 🚯 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 🚯 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
+ - 🚯 [Check !](http://9gag.com/gag/awy2Ew1)
+ - 🚯 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 --- 
 
