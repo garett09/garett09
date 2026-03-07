@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - 🚯 [Check !](http://9gag.com/gag/awy2Ew1)
- - 🚯 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
+ - 🚖 [How does a drill make a triangular hole? This mechanism is incredible.](http://9gag.com/gag/a9y0ob1)
+ - 🚯 [It&#39;s just ctrl right](http://9gag.com/gag/agmwW3r)
+ - 🚯 [This needs to be federal law ASAP](http://9gag.com/gag/a1mjyeb)<!-- MEMES:END -->
 
 --- 
 
