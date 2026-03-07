@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How does a drill make a triangular hole? This mechanism is incredible.](http://9gag.com/gag/a9y0ob1)
- - 🚯 [It&#39;s just ctrl right](http://9gag.com/gag/agmwW3r)
- - 🚯 [This needs to be federal law ASAP](http://9gag.com/gag/a1mjyeb)<!-- MEMES:END -->
+ - 🚖 [They&#39;ve been banned since then](http://9gag.com/gag/aRBdn8G)
+ - 🚯 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
+ - 🚯 [He send them last night xD](http://9gag.com/gag/aMV5MWP)<!-- MEMES:END -->
 
 --- 
 
