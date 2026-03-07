@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A draft guidance from the US GSA tightens rules for civilian AI contracts to require AI companies to allow &quot;any lawful&quot; use by the government of their models &lpar;Financial Times&rpar;](http://www.techmeme.com/260306/p32#a260306p32)
- - [Sources: Kalshi and Polymarket are each eyeing valuations of ~$20B in fundraising talks; Kalshi was valued at $11B in December and Polymarket at $9B in October &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260306/p31#a260306p31)
- - [This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work](https://www.wired.com/story/deveillance-spectre-i/)<!-- TECH:END -->
+ - [China&#39;s smartphone market is seeing one of its widest price hikes as memory chip crunch deepens; Meizu announces it will suspend developing new mobile hardware &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260307/p3#a260307p3)
+ - [Google&#39;s TIG documented 90 zero-day vulnerabilities exploited in 2025, up from 78 in 2024; commercial spyware vendors and China-linked groups led the abuse &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/260307/p2#a260307p2)
+ - [US investors are pushing Asian fund managers to create special vehicles so they can invest in Asia while avoiding US investment restrictions on Chinese tech &lpar;Financial Times&rpar;](http://www.techmeme.com/260307/p1#a260307p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
