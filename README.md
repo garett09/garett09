@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They&#39;ve been banned since then](http://9gag.com/gag/aRBdn8G)
- - 🚯 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
- - 🚯 [BROOM BROOM](http://9gag.com/gag/aYQ531v)<!-- MEMES:END -->
+ - 🚖 [Check !](http://9gag.com/gag/awy2Ew1)
+ - 🚯 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 🚯 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)<!-- MEMES:END -->
 
 --- 
 
