@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony appears to be testing dynamic pricing on PlayStation games](https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games)
- - [Caitlin Kalinowski, OpenAI&#39;s head of hardware and robotics, resigns over concerns about domestic surveillance and autonomous weapons after OpenAI&#39;s DOD contract &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/260307/p11#a260307p11)
- - [Sources: Palmer Luckey&#39;s ModRetro, which wants to sell updated versions of 1990s consoles like the Nintendo 64, is in talks to raise funding at a $1B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260307/p10#a260307p10)<!-- TECH:END -->
+ - [As cheap, powerful GPS jammers proliferate, a look at some alternatives to GPS, including using supersensitive, quantum-based magnetic sensors &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260307/p14#a260307p14)
+ - [Why the Ratio Four Series Two Is What I Use to Test New Coffees](https://www.wired.com/story/ratio-four-drip-coffee-java-base/)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 8, #1723](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-8-1723/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
