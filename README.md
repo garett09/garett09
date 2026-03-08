@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Check !](http://9gag.com/gag/awy2Ew1)
- - 🚯 [Czech McDonald&#39;s worker interview](http://9gag.com/gag/a9y0oMD)
+ - 🚖 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
+ - 🚯 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
  - 🚯 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)<!-- MEMES:END -->
 
 --- 
