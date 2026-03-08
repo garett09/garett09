@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [German quick grocery delivery startup Flink raised $100M led by Prosus, a source says at a $900M valuation; Flink was reportedly valued at $5B in May 2022 &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260308/p3#a260308p3)
- - [Samsung&#39;s consumer device chief TM Roh says it was &quot;open to strategic co-operation&quot; with more AI groups, having recently added Perplexity to its mobile OS &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260308/p2#a260308p2)
- - [Guild.ai, which helps companies develop, deploy, and observe AI agents, raised a $14M seed and $30M Series A, both led by GV, and is now valued at $300M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260308/p1#a260308p1)<!-- TECH:END -->
+ - [Mac Studio set to get its M5 update next this summer](https://appleinsider.com/articles/26/03/08/mac-studio-set-to-get-its-m5-update-next-this-summer?utm_source=rss)
+ - [The cute and cursed story of Furby](https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby)
+ - [Crime blotter: AirTag helps police catch car thief](https://appleinsider.com/articles/26/03/08/crime-blotter-airtag-helps-police-catch-car-thief?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
