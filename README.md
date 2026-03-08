@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
- - 🚯 [The stuff teachers have to deal with lol](http://9gag.com/gag/a34rmn3)
- - 🚯 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)<!-- MEMES:END -->
+ - 🚖 [Samwise Gamgee, the real MVP](http://9gag.com/gag/aO85g3v)
+ - 🚯 [100% efficient](http://9gag.com/gag/aBy57p1)
+ - 🚯 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)<!-- MEMES:END -->
 
 --- 
 
