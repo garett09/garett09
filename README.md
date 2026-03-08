@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Til it disintegrate to tiny pieces](http://9gag.com/gag/aVv5Njv)
- - 🚯 [Wait, that&#39;s NOT Trump?](http://9gag.com/gag/aMV5gjR)
- - 🚯 [Gramps is a legend at this game](http://9gag.com/gag/aKG5RO3)<!-- MEMES:END -->
+ - 🚖 [They&#39;ve been banned since then](http://9gag.com/gag/aRBdn8G)
+ - 🚯 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
+ - 🚯 [BROOM BROOM](http://9gag.com/gag/aYQ531v)<!-- MEMES:END -->
 
 --- 
 
