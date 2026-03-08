@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As cheap, powerful GPS jammers proliferate, a look at some alternatives to GPS, including using supersensitive, quantum-based magnetic sensors &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/260307/p14#a260307p14)
- - [Why the Ratio Four Series Two Is What I Use to Test New Coffees](https://www.wired.com/story/ratio-four-drip-coffee-java-base/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 8, #1723](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-8-1723/)<!-- TECH:END -->
+ - [German quick grocery delivery startup Flink raised $100M led by Prosus, a source says at a $900M valuation; Flink was reportedly valued at $5B in May 2022 &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260308/p3#a260308p3)
+ - [Samsung&#39;s consumer device chief TM Roh says it was &quot;open to strategic co-operation&quot; with more AI groups, having recently added Perplexity to its mobile OS &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260308/p2#a260308p2)
+ - [Guild.ai, which helps companies develop, deploy, and observe AI agents, raised a $14M seed and $30M Series A, both led by GV, and is now valued at $300M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260308/p1#a260308p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
