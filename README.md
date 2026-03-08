@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac Studio set to get its M5 update next this summer](https://appleinsider.com/articles/26/03/08/mac-studio-set-to-get-its-m5-update-next-this-summer?utm_source=rss)
- - [The cute and cursed story of Furby](https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby)
- - [Crime blotter: AirTag helps police catch car thief](https://appleinsider.com/articles/26/03/08/crime-blotter-airtag-helps-police-catch-car-thief?utm_source=rss)<!-- TECH:END -->
+ - [Apple is going high-end with new ‘Ultra’ products next](https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next)
+ - [The US and Israel are using AI to wage war on Iran with unprecedented speed and precision in attacks, even as the cost of ill-informed decisions remains high &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260308/p9#a260308p9)
+ - [MacBook Neo vs M1 MacBook Air: you decide - M4 lite or M1 plus](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-m1-macbook-air-you-decide---m4-lite-or-m1-plus?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
