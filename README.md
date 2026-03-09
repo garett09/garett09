@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)
- - 🚯 [The ambush](http://9gag.com/gag/a0eq2WB)
- - 🚯 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)<!-- MEMES:END -->
+ - 🚖 [Title](http://9gag.com/gag/aYQ585m)
+ - 🚯 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - 🚯 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
 
 --- 
 
