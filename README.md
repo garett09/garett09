@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Advice to developers: make software that agents want, with API-first design, as AI agents, instead of humans, will become the primary users of future software &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/260309/p1#a260309p1)
- - [Kalshi is trying to broaden its user base via targeted marketing, enlisting female influencers, and more; 26% of users now are women, up from 13% in May 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260308/p15#a260308p15)
- - [MacBook Neo vs M1 MacBook Air: you decide - M4 lite or M1 plus](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-m1-macbook-air-you-decide---m4-lite-or-m1-plus?utm_source=rss)<!-- TECH:END -->
+ - [How Live Nation allegedly terrorized the concert industry](https://www.theverge.com/report/891241/live-nation-ticketmaster-week-one-jury-trial)
+ - [Nasdaq partners with Kraken to develop a framework for 24/7 tokenized stock trading, targeting a 2027 launch, focusing on corporate governance like proxy voting &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260309/p9#a260309p9)
+ - [More high-end hardware is coming from Apple in 2026, not all will get &#39;ultra&#39; branding](https://appleinsider.com/articles/26/03/08/expect-more-ultra-products-from-apple-if-not-by-name?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
