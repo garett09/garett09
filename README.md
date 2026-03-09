@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Live Nation allegedly terrorized the concert industry](https://www.theverge.com/report/891241/live-nation-ticketmaster-week-one-jury-trial)
- - [Nasdaq partners with Kraken to develop a framework for 24/7 tokenized stock trading, targeting a 2027 launch, focusing on corporate governance like proxy voting &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260309/p9#a260309p9)
- - [More high-end hardware is coming from Apple in 2026, not all will get &#39;ultra&#39; branding](https://appleinsider.com/articles/26/03/08/expect-more-ultra-products-from-apple-if-not-by-name?utm_source=rss)<!-- TECH:END -->
+ - [Bigfoot, Orca, a Trombone, and five more new emoji are here with iOS 26.4 beta 4](https://appleinsider.com/articles/26/03/09/bigfoot-orca-a-trombone-and-five-more-new-emoji-are-here-with-ios-264-beta-4?utm_source=rss)
+ - [NBC News poll of 1,000 registered voters: just 26% had a positive view of AI, while 46% had a negative view, the third worst net negative score of all topics &lpar;Jake Angelo/Fortune&rpar;](http://www.techmeme.com/260309/p26#a260309p26)
+ - [UK&#39;s AI drive, touted since 2024 and featuring splashy NScale and CoreWeave deals, to build datacenters is riddled with phantom investments and shaky accounting &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/260309/p25#a260309p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
