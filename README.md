@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Samwise Gamgee, the real MVP](http://9gag.com/gag/aO85g3v)
- - 🚯 [100% efficient](http://9gag.com/gag/aBy57p1)
- - 🚯 [Not all heroes wear capes, some have canes.](http://9gag.com/gag/apRwW25)<!-- MEMES:END -->
+ - 🚖 [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)
+ - 🚯 [The ambush](http://9gag.com/gag/a0eq2WB)
+ - 🚯 [I&#39;ll be back](http://9gag.com/gag/aRBdxEy)<!-- MEMES:END -->
 
 --- 
 
