@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title](http://9gag.com/gag/aYQ585m)
- - 🚯 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - 🚖 [Good that I&#39;m not eating any of that trash](http://9gag.com/gag/agmwMRx)
+ - 🚯 [Justice!](http://9gag.com/gag/aE05e0O)
  - 🚯 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
 
 --- 
