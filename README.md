@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
- - 🚯 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
- - 🚯 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
+ - 🚖 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 🚯 [Justice!](http://9gag.com/gag/aE05e0O)
+ - 🚯 [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)<!-- MEMES:END -->
 
 --- 
 
