@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s the Best iPhone to Buy or Avoid Right Now? &lpar;2026&rpar;](https://www.wired.com/gallery/iphone-buying-guide/)
- - [M5 Pro 14-inch MacBook Pro vs. M4 Pro 14-inch MacBook Pro: Compared](https://appleinsider.com/articles/26/03/10/m5-pro-14-inch-macbook-pro-vs-m4-pro-14-inch-macbook-pro-compared?utm_source=rss)
- - [Memo: Amazon SVP Dave Treadwell says junior and mid-level engineers now require more senior engineers to sign off any AI-assisted code changes, after outages &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260310/p16#a260310p16)<!-- TECH:END -->
+ - [This $11K 2019 Intel Mac Pro beats M3 Max MacBook Pro in one specific workflow](https://appleinsider.com/articles/26/03/10/this-11k-2019-intel-mac-pro-beats-m3-max-macbook-pro-in-one-specific-workflow?utm_source=rss)
+ - [DHS Ousts CBP Privacy Officers Who Questioned ‘Illegal’ Orders](https://www.wired.com/story/cbp-privacy-threshold-analysis-foia/)
+ - [M5 MacBook Air review roundup: Welcome power and storage, unwelcome price hike](https://appleinsider.com/articles/26/03/10/m5-macbook-air-review-roundup-welcome-power-and-storage-unwelcome-price-hike?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
