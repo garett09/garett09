@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bigfoot, Orca, a Trombone, and five more new emoji are here with iOS 26.4 beta 4](https://appleinsider.com/articles/26/03/09/bigfoot-orca-a-trombone-and-five-more-new-emoji-are-here-with-ios-264-beta-4?utm_source=rss)
- - [NBC News poll of 1,000 registered voters: just 26% had a positive view of AI, while 46% had a negative view, the third worst net negative score of all topics &lpar;Jake Angelo/Fortune&rpar;](http://www.techmeme.com/260309/p26#a260309p26)
- - [UK&#39;s AI drive, touted since 2024 and featuring splashy NScale and CoreWeave deals, to build datacenters is riddled with phantom investments and shaky accounting &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/260309/p25#a260309p25)<!-- TECH:END -->
+ - [xAI aims to build a natural gas power plant in Southaven, MS, to run its data centers; a key meeting with regulators is set on an election day ~200 miles away &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260309/p40#a260309p40)
+ - [Huion Kamvas 22 &lpar;Gen 3&rpar; drawing tablet review: An excellent entry-level option](https://appleinsider.com/articles/26/03/10/huion-kamvas-22-gen-3-drawing-tablet-review-an-excellent-entry-level-option?utm_source=rss)
+ - [Sources: the White House is preparing an executive order formally instructing federal agencies to stop using Anthropic&#39;s AI tools &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260309/p39#a260309p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
