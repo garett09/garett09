@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI aims to build a natural gas power plant in Southaven, MS, to run its data centers; a key meeting with regulators is set on an election day ~200 miles away &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260309/p40#a260309p40)
- - [Huion Kamvas 22 &lpar;Gen 3&rpar; drawing tablet review: An excellent entry-level option](https://appleinsider.com/articles/26/03/10/huion-kamvas-22-gen-3-drawing-tablet-review-an-excellent-entry-level-option?utm_source=rss)
- - [Sources: the White House is preparing an executive order formally instructing federal agencies to stop using Anthropic&#39;s AI tools &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260309/p39#a260309p39)<!-- TECH:END -->
+ - [Personal Intelligence is all but guaranteed to come to Gemini Live &lpar;APK teardown&rpar;](https://www.androidauthority.com/personal-intelligence-gemini-live-apk-teardown-3647843/)
+ - [How AI may disrupt venture capital, from making it easier and cheaper to start software companies, to agentic investors analyzing startup pitch decks and teams &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/260310/p2#a260310p2)
+ - [Yann LeCun&#39;s Advanced Machine Intelligence Labs raised a $1.03B seed at a $3.5B pre-money valuation to work on world models, in Europe&#39;s largest ever seed round &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260310/p1#a260310p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
