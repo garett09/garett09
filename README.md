@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Personal Intelligence is all but guaranteed to come to Gemini Live &lpar;APK teardown&rpar;](https://www.androidauthority.com/personal-intelligence-gemini-live-apk-teardown-3647843/)
- - [How AI may disrupt venture capital, from making it easier and cheaper to start software companies, to agentic investors analyzing startup pitch decks and teams &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/260310/p2#a260310p2)
- - [Yann LeCun&#39;s Advanced Machine Intelligence Labs raised a $1.03B seed at a $3.5B pre-money valuation to work on world models, in Europe&#39;s largest ever seed round &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260310/p1#a260310p1)<!-- TECH:END -->
+ - [What’s the Best iPhone to Buy or Avoid Right Now? &lpar;2026&rpar;](https://www.wired.com/gallery/iphone-buying-guide/)
+ - [M5 Pro 14-inch MacBook Pro vs. M4 Pro 14-inch MacBook Pro: Compared](https://appleinsider.com/articles/26/03/10/m5-pro-14-inch-macbook-pro-vs-m4-pro-14-inch-macbook-pro-compared?utm_source=rss)
+ - [Memo: Amazon SVP Dave Treadwell says junior and mid-level engineers now require more senior engineers to sign off any AI-assisted code changes, after outages &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260310/p16#a260310p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
