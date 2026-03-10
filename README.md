@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;The reason why we&#39;re so beloved in the videogame industry and we&#39;re so deep in it still is, in a lot of ways, we created the modern videogame industry&#39; says Nvidia CEO Huang](https://www.pcgamer.com/hardware/graphics-cards/the-reason-why-were-so-beloved-in-the-videogame-industry-and-were-so-deep-in-it-still-is-in-a-lot-of-ways-we-created-the-modern-videogame-industry-says-nvidia-ceo-huang/)
- - [&#39;Without Intel, I don’t know if Windows would have happened… without Mac, I wonder whether Office would have happened&#39; says Microsoft CEO](https://www.pcgamer.com/software/windows/without-intel-i-dont-know-if-windows-would-have-happened-without-mac-i-wonder-whether-office-would-have-happened-says-microsoft-ceo/)
- - [Intel bigs up its latest 18A chip node as fit for external customers but probably not Nvidia, for now](https://www.pcgamer.com/hardware/processors/intel-bigs-up-its-latest-18a-chip-node-as-fit-for-external-customers-but-probably-not-nvidia-for-now/)<!-- GAME:END -->
+ - [&#39;Do the... Team Initiation Challenge?&#39; walkthrough and quest steps in Pokémon Pokopia](https://www.polygon.com/pokemon-pokopia-do-the-team-initiation-challenge-walkthrough-needed-items/)
+ - [Sensu brings a beautiful new twist to the classic card game Rummy](https://www.polygon.com/sensu-card-game-review/)
+ - [Runescape Monthly Membership Will Now Cost As Much As World Of Warcraft](https://kotaku.com/runescape-monthly-membership-now-cost-as-much-as-world-of-warcraft-2000677591)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
