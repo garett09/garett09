@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This $11K 2019 Intel Mac Pro beats M3 Max MacBook Pro in one specific workflow](https://appleinsider.com/articles/26/03/10/this-11k-2019-intel-mac-pro-beats-m3-max-macbook-pro-in-one-specific-workflow?utm_source=rss)
- - [DHS Ousts CBP Privacy Officers Who Questioned ‘Illegal’ Orders](https://www.wired.com/story/cbp-privacy-threshold-analysis-foia/)
- - [M5 MacBook Air review roundup: Welcome power and storage, unwelcome price hike](https://appleinsider.com/articles/26/03/10/m5-macbook-air-review-roundup-welcome-power-and-storage-unwelcome-price-hike?utm_source=rss)<!-- TECH:END -->
+ - [How age-verification laws to enhance online child safety are raising surveillance concerns for adults; ~50% of US states have enacted or are advancing such laws &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/260310/p56#a260310p56)
+ - [Valerion VisionMaster Max review: Premium projector that&#39;s still consumer-friendly](https://appleinsider.com/articles/26/03/11/valerion-visionmaster-max-review-premium-projector-thats-still-consumer-friendly?utm_source=rss)
+ - [Analysis: surging memory and CPU costs could drive the retail price of a mainstream $900 notebook up by nearly 40% in 2026 to maintain current margin structures &lpar;TrendForce&rpar;](http://www.techmeme.com/260310/p55#a260310p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
