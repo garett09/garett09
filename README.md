@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Do the... Team Initiation Challenge?&#39; walkthrough and quest steps in Pokémon Pokopia](https://www.polygon.com/pokemon-pokopia-do-the-team-initiation-challenge-walkthrough-needed-items/)
- - [Sensu brings a beautiful new twist to the classic card game Rummy](https://www.polygon.com/sensu-card-game-review/)
- - [Runescape Monthly Membership Will Now Cost As Much As World Of Warcraft](https://kotaku.com/runescape-monthly-membership-now-cost-as-much-as-world-of-warcraft-2000677591)<!-- GAME:END -->
+ - [Solasta 2’s character creator makes building a D&amp;D party the best part of the game](https://www.polygon.com/solasta-2-early-access-preview-character-creation/)
+ - [Even among the crowd of gorgeous illustrated games, At Fate&#39;s End is stunning enough to stand out](https://www.pcgamer.com/games/action/even-among-the-crowd-of-gorgeous-illustrated-games-at-fates-end-is-stunning-enough-to-stand-out/)
+ - [At Fate&#39;s End is the best game at GDC 2026](https://www.polygon.com/at-fates-end-preview-spiritfarer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
