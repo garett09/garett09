@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OLED MacBook Air may not come until 2029](https://appleinsider.com/articles/26/03/11/oled-macbook-air-may-not-come-until-2029?utm_source=rss)
- - [How Ukraine is working to make drones with as few Chinese components as possible, prioritizing self-sufficiency in producing a crucial battlefield weapon &lpar;Maria Varenikova/New York Times&rpar;](http://www.techmeme.com/260311/p22#a260311p22)
- - [CNN and CCDH investigation: 80% of major AI chatbots gave guidance on weapons or targets to &quot;teen&quot; personas 50% of the time; only Claude consistently refused &lpar;CNN&rpar;](http://www.techmeme.com/260311/p21#a260311p21)<!-- TECH:END -->
+ - [Iran Warns US Tech Firms Could Become Targets as War Expands](https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/)
+ - [Amazon raised €14.5B in its euro bond market debut, the biggest ever corporate deal in the currency, following a dollar offering on Tuesday that raised $37B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p40#a260311p40)
+ - [Our Favorite Backyard Bluetooth Speaker Is $25 Off](https://www.wired.com/story/ue-boom-4-deal-326/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
