@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Sachin Katti, who joined OpenAI from Intel in November as head of industrial compute and is helping guide the company&#39;s infrastructure efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p7#a260311p7)
- - [Indian AI lab Lossfunk&#39;s prompting method lets LLMs generate Tulu language text without prior training; the method may expand to other low-resource languages &lpar;The Economic Times&rpar;](http://www.techmeme.com/260311/p6#a260311p6)
- - [The AI-assisted overhaul of a Python character encoding detection library raises questions about software relicensing and derivative versions of the original &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260311/p5#a260311p5)<!-- TECH:END -->
+ - [OLED MacBook Air may not come until 2029](https://appleinsider.com/articles/26/03/11/oled-macbook-air-may-not-come-until-2029?utm_source=rss)
+ - [How Ukraine is working to make drones with as few Chinese components as possible, prioritizing self-sufficiency in producing a crucial battlefield weapon &lpar;Maria Varenikova/New York Times&rpar;](http://www.techmeme.com/260311/p22#a260311p22)
+ - [CNN and CCDH investigation: 80% of major AI chatbots gave guidance on weapons or targets to &quot;teen&quot; personas 50% of the time; only Claude consistently refused &lpar;CNN&rpar;](http://www.techmeme.com/260311/p21#a260311p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
