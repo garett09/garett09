@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How age-verification laws to enhance online child safety are raising surveillance concerns for adults; ~50% of US states have enacted or are advancing such laws &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/260310/p56#a260310p56)
- - [Valerion VisionMaster Max review: Premium projector that&#39;s still consumer-friendly](https://appleinsider.com/articles/26/03/11/valerion-visionmaster-max-review-premium-projector-thats-still-consumer-friendly?utm_source=rss)
- - [Analysis: surging memory and CPU costs could drive the retail price of a mainstream $900 notebook up by nearly 40% in 2026 to maintain current margin structures &lpar;TrendForce&rpar;](http://www.techmeme.com/260310/p55#a260310p55)<!-- TECH:END -->
+ - [A profile of Sachin Katti, who joined OpenAI from Intel in November as head of industrial compute and is helping guide the company&#39;s infrastructure efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p7#a260311p7)
+ - [Indian AI lab Lossfunk&#39;s prompting method lets LLMs generate Tulu language text without prior training; the method may expand to other low-resource languages &lpar;The Economic Times&rpar;](http://www.techmeme.com/260311/p6#a260311p6)
+ - [The AI-assisted overhaul of a Python character encoding detection library raises questions about software relicensing and derivative versions of the original &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260311/p5#a260311p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
