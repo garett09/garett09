@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 🚯 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 🚯 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->
+ - 🚖 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 🚯 [Just look look at the size](http://9gag.com/gag/amoZLyv)
+ - 🚯 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)<!-- MEMES:END -->
 
 --- 
 
