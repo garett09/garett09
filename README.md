@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 🚯 [Just look look at the size](http://9gag.com/gag/amoZLyv)
- - 🚯 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)<!-- MEMES:END -->
+ - 🚯 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
+ - 🚯 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)<!-- MEMES:END -->
 
 --- 
 
