@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tool Tips](http://9gag.com/gag/adBz0o2)
- - 🚯 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
- - 🚯 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)<!-- MEMES:END -->
+ - 🚖 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
+ - 🚯 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 🚯 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->
 
 --- 
 
