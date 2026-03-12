@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atlassian is cutting 10% of its workforce, or ~1,600 jobs, to fund investment in AI and enterprise sales; filing: the cuts will incur $225M-$236M in charges &lpar;CNBC&rpar;](http://www.techmeme.com/260311/p58#a260311p58)
- - [Latest iOS 15 &amp; iOS 16 updates target Coruna exploit affecting older devices](https://appleinsider.com/articles/26/03/12/latest-ios-15-ios-16-updates-target-coruna-exploit-affecting-older-devices?utm_source=rss)
- - [Sources: Cursor is in early talks to raise billions in a new funding round at a post-money valuation of up to $60B; one source puts the round size at $5B &lpar;Tom Dotan/Newcomer&rpar;](http://www.techmeme.com/260311/p57#a260311p57)<!-- TECH:END -->
+ - [A small cottage industry offering OpenClaw installation services and preconfigured hardware emerges in China as the tool becomes the country&#39;s latest tech craze &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/260312/p6#a260312p6)
+ - [Apple updates iOS and iPadOS for older devices, including iPhone 6s, iPad Air 2, and iPod touch &lpar;7th gen&rpar;, to address the Coruna exploit disclosed last week &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/260312/p5#a260312p5)
+ - [Galaxy S26 Ultra teardown shows Samsung’s clever new telephoto camera up close](https://www.androidauthority.com/samsung-galaxy-s26-ultra-teardown-3648568/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
