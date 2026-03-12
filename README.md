@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
- - 🚯 [Do it yourself](http://9gag.com/gag/a1m6ZKv)
+ - 🚖 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
+ - 🚯 [Just look look at the size](http://9gag.com/gag/amoZLyv)
  - 🚯 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
 
 --- 
