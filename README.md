@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
- - 🚯 [Just look look at the size](http://9gag.com/gag/amoZLyv)
- - 🚯 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
+ - 🚖 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 🚯 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - 🚯 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
 
 --- 
 
