@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iran Warns US Tech Firms Could Become Targets as War Expands](https://www.wired.com/story/iran-warns-us-tech-firms-could-become-targets-as-war-expands/)
- - [Amazon raised €14.5B in its euro bond market debut, the biggest ever corporate deal in the currency, following a dollar offering on Tuesday that raised $37B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p40#a260311p40)
- - [Our Favorite Backyard Bluetooth Speaker Is $25 Off](https://www.wired.com/story/ue-boom-4-deal-326/)<!-- TECH:END -->
+ - [Atlassian is cutting 10% of its workforce, or ~1,600 jobs, to fund investment in AI and enterprise sales; filing: the cuts will incur $225M-$236M in charges &lpar;CNBC&rpar;](http://www.techmeme.com/260311/p58#a260311p58)
+ - [Latest iOS 15 &amp; iOS 16 updates target Coruna exploit affecting older devices](https://appleinsider.com/articles/26/03/12/latest-ios-15-ios-16-updates-target-coruna-exploit-affecting-older-devices?utm_source=rss)
+ - [Sources: Cursor is in early talks to raise billions in a new funding round at a post-money valuation of up to $60B; one source puts the round size at $5B &lpar;Tom Dotan/Newcomer&rpar;](http://www.techmeme.com/260311/p57#a260311p57)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
