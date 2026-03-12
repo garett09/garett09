@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Ask Maps, a Gemini-powered conversational feature for iOS and Android in the US and India that lets users ask &quot;complex, real-world questions&quot; &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260312/p23#a260312p23)
- - [Navigation in Google Maps is getting its biggest, most powerful makeover ever](https://www.androidauthority.com/google-maps-immersive-navigation-3648478/)
- - [Microsoft and Meta each committed nearly $50B in additional data center leases in their most recent quarters, taking major cloud companies&#39; total to $700B+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260312/p22#a260312p22)<!-- TECH:END -->
+ - [Alexa Plus just got an ‘unfiltered’ personality that can &lpar;sort of&rpar; do swears](https://www.androidauthority.com/alexa-plus-curse-3648746/)
+ - [Emil Michael says Anthropic&#39;s Claude models would &quot;pollute&quot; the DOD&#39;s supply chain because they have &quot;a different policy preference&quot; that is baked in &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260312/p45#a260312p45)
+ - [Google Is Not Ruling Out Ads in Gemini](https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
