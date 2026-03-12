@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A small cottage industry offering OpenClaw installation services and preconfigured hardware emerges in China as the tool becomes the country&#39;s latest tech craze &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/260312/p6#a260312p6)
- - [Apple updates iOS and iPadOS for older devices, including iPhone 6s, iPad Air 2, and iPod touch &lpar;7th gen&rpar;, to address the Coruna exploit disclosed last week &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/260312/p5#a260312p5)
- - [Galaxy S26 Ultra teardown shows Samsung’s clever new telephoto camera up close](https://www.androidauthority.com/samsung-galaxy-s26-ultra-teardown-3648568/)<!-- TECH:END -->
+ - [Google launches Ask Maps, a Gemini-powered conversational feature for iOS and Android in the US and India that lets users ask &quot;complex, real-world questions&quot; &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260312/p23#a260312p23)
+ - [Navigation in Google Maps is getting its biggest, most powerful makeover ever](https://www.androidauthority.com/google-maps-immersive-navigation-3648478/)
+ - [Microsoft and Meta each committed nearly $50B in additional data center leases in their most recent quarters, taking major cloud companies&#39; total to $700B+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260312/p22#a260312p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
