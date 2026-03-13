@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - 🚯 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - 🚯 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
+ - 🚖 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 🚯 [Meme origins](http://9gag.com/gag/agmevjx)
+ - 🚯 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
 
 --- 
 
