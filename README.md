@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber is relaunching a robotaxi service with Hyundai-backed Motional in Las Vegas; the service will initially have a safety driver behind the wheel &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260313/p6#a260313p6)
- - [Right now Visible is offering a free iPhone and several other great deals](https://www.androidauthority.com/visible-free-iphone-3648761/)
- - [Google&#39;s AI Searches Love to Refer You Back to Google](https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/)<!-- TECH:END -->
+ - [iFixit MacBook Neo teardown confirms that it is Apple&#39;s most repairable laptop since 2012](https://appleinsider.com/articles/26/03/13/ifixit-macbook-neo-teardown-confirms-that-it-is-apples-most-repairable-laptop-since-2012?utm_source=rss)
+ - [David Pogue reveals why Tim Cook wouldn&#39;t be interviewed for his book](https://appleinsider.com/articles/26/03/13/david-pogue-reveals-why-tim-cook-wouldnt-be-interviewed-for-his-book?utm_source=rss)
+ - [Meta updates a support page to say that end-to-end encrypted messaging on Instagram will no longer be supported after May 8 &lpar;Karandeep Singh Oberoi/Android Police&rpar;](http://www.techmeme.com/260313/p15#a260313p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
