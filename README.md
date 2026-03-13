@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung phones can now tell you which apps work beyond cell towers and Wi-Fi](https://www.androidauthority.com/samsung-satellite-ready-apps-3648855/)
- - [Alex Karp says AI disrupts the economic power of &quot;humanities-trained, largely Democratic voters&quot; and strengthens that of &quot;working-class, often male voters&quot; &lpar;Kelby Vera/HuffPost&rpar;](http://www.techmeme.com/260313/p2#a260313p2)
- - [Your Pixel just lost a handy Recents trick in the March update](https://www.androidauthority.com/pixel-recent-apps-change-match-android-16-qpr3-update-3648848/)<!-- TECH:END -->
+ - [Uber is relaunching a robotaxi service with Hyundai-backed Motional in Las Vegas; the service will initially have a safety driver behind the wheel &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260313/p6#a260313p6)
+ - [Right now Visible is offering a free iPhone and several other great deals](https://www.androidauthority.com/visible-free-iphone-3648761/)
+ - [Google&#39;s AI Searches Love to Refer You Back to Google](https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
