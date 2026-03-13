@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Locked in](http://9gag.com/gag/aXPOpV2)
- - 🚯 [Meme origins](http://9gag.com/gag/agmevjx)
- - 🚯 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
+ - 🚖 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 🚯 [Dad teaching his daughter how to land a plane is just the cutest thing ever](http://9gag.com/gag/aD2vo49)
+ - 🚯 [A famous man](http://9gag.com/gag/a2vXmGZ)<!-- MEMES:END -->
 
 --- 
 
