@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Qualified Health, which helps health care organizations assess and orchestrate AI tools, is raising a ~$100M Series A from NEA, SignalFire, and others &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/260312/p58#a260312p58)
- - [F1&#39;s debut race in the 2026 season beat everyone&#39;s expectations, even Apple&#39;s](https://appleinsider.com/articles/26/03/13/f1s-debut-race-in-the-2026-season-beat-everyones-expectations-even-apples?utm_source=rss)
- - [Social media addiction trial: the plaintiff, Meta, and YouTube make closing arguments; jurors begin deliberations Friday on liability for harm to children &lpar;Associated Press&rpar;](http://www.techmeme.com/260312/p57#a260312p57)<!-- TECH:END -->
+ - [Samsung phones can now tell you which apps work beyond cell towers and Wi-Fi](https://www.androidauthority.com/samsung-satellite-ready-apps-3648855/)
+ - [Alex Karp says AI disrupts the economic power of &quot;humanities-trained, largely Democratic voters&quot; and strengthens that of &quot;working-class, often male voters&quot; &lpar;Kelby Vera/HuffPost&rpar;](http://www.techmeme.com/260313/p2#a260313p2)
+ - [Your Pixel just lost a handy Recents trick in the March update](https://www.androidauthority.com/pixel-recent-apps-change-match-android-16-qpr3-update-3648848/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
