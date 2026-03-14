@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC&#39;s N3 logic wafer capacity has become one of the AI industry&#39;s biggest constraints, which could push customers to explore greater foundry diversification &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/260314/p7#a260314p7)
- - [Surprise Alicia Keys concert turns Grand Central Apple Store into a piano stage](https://appleinsider.com/articles/26/03/13/surprise-alicia-keys-concert-turns-grand-central-apple-store-into-a-piano-stage?utm_source=rss)
- - [The Next Apple Watch Series 12 Could Finally Bring Back Classic iPhone Feature](https://www.cnet.com/tech/mobile/apple-watch-series-12-rumors-touch-id-fingerprint-sensor/)<!-- TECH:END -->
+ - [Sources: ByteDance suspended the global launch of Seedance 2.0 amid copyright disputes with Hollywood studios and streamers; it was launched in China last month &lpar;The Information&rpar;](http://www.techmeme.com/260314/p9#a260314p9)
+ - [Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals](https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale)
+ - [Prediction markets want the Oscars to be your gateway drug to betting on everything](https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
