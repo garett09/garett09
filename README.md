@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iFixit MacBook Neo teardown confirms that it is Apple&#39;s most repairable laptop since 2012](https://appleinsider.com/articles/26/03/13/ifixit-macbook-neo-teardown-confirms-that-it-is-apples-most-repairable-laptop-since-2012?utm_source=rss)
- - [David Pogue reveals why Tim Cook wouldn&#39;t be interviewed for his book](https://appleinsider.com/articles/26/03/13/david-pogue-reveals-why-tim-cook-wouldnt-be-interviewed-for-his-book?utm_source=rss)
- - [Meta updates a support page to say that end-to-end encrypted messaging on Instagram will no longer be supported after May 8 &lpar;Karandeep Singh Oberoi/Android Police&rpar;](http://www.techmeme.com/260313/p15#a260313p15)<!-- TECH:END -->
+ - [A US government website shows the Commerce Department withdrew a planned rule tightening AI chip exports; a draft was sent to agencies for feedback in February &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260313/p28#a260313p28)
+ - [Sources: Meta plans sweeping layoffs that could affect 20% or more of the company, amid mounting AI infrastructure costs; it had ~79,000 employees as of Dec. 31 &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p27#a260313p27)
+ - [A US judge questions Elon Musk&#39;s $134B claim for damages in his lawsuit against OpenAI and Microsoft but rules he can still make his case to a jury &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260313/p26#a260313p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
