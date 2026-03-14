@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The missing element](http://9gag.com/gag/avyjPqW)
- - 🚯 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - 🚯 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
+ - 🚖 [Macho cheng](http://9gag.com/gag/a1m6XR2)
+ - 🚯 [Please join the meeting](http://9gag.com/gag/a4P0ZAm)
+ - 🚯 [Probably being disappointed](http://9gag.com/gag/avyjnNn)<!-- MEMES:END -->
 
 --- 
 
