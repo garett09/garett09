@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - 🚯 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 🚯 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
+ - 🚖 [The missing element](http://9gag.com/gag/avyjPqW)
+ - 🚯 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - 🚯 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
 
 --- 
 
