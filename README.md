@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Macho cheng](http://9gag.com/gag/a1m6XR2)
- - 🚯 [Please join the meeting](http://9gag.com/gag/a4P0ZAm)
- - 🚯 [Probably being disappointed](http://9gag.com/gag/avyjnNn)<!-- MEMES:END -->
+ - 🚖 [In your dreams](http://9gag.com/gag/aW4X80q)
+ - 🚯 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 🚯 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)<!-- MEMES:END -->
 
 --- 
 
