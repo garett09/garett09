@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US government website shows the Commerce Department withdrew a planned rule tightening AI chip exports; a draft was sent to agencies for feedback in February &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260313/p28#a260313p28)
- - [Sources: Meta plans sweeping layoffs that could affect 20% or more of the company, amid mounting AI infrastructure costs; it had ~79,000 employees as of Dec. 31 &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p27#a260313p27)
- - [A US judge questions Elon Musk&#39;s $134B claim for damages in his lawsuit against OpenAI and Microsoft but rules he can still make his case to a jury &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260313/p26#a260313p26)<!-- TECH:END -->
+ - [An excerpt from the upcoming book Project Maven details how the Pentagon enlisted Silicon Valley to build AI-powered tools of war, now playing out in Iran &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260314/p5#a260314p5)
+ - [Mobile internet blackouts hit Moscow as the Kremlin tightens control; Roskomnadzor data shows daily traffic down ~20% since March 5 vs. the previous month &lpar;Anastasia Stognei/Financial Times&rpar;](http://www.techmeme.com/260314/p4#a260314p4)
+ - [Palantir software demos and DOD records show how the military may be using AI chatbots, including the kinds of queries and the data used to generate responses &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/260314/p3#a260314p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
