@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Solasta 2’s character creator makes building a D&amp;D party the best part of the game](https://www.polygon.com/solasta-2-early-access-preview-character-creation/)
- - [Even among the crowd of gorgeous illustrated games, At Fate&#39;s End is stunning enough to stand out](https://www.pcgamer.com/games/action/even-among-the-crowd-of-gorgeous-illustrated-games-at-fates-end-is-stunning-enough-to-stand-out/)
- - [At Fate&#39;s End is the best game at GDC 2026](https://www.polygon.com/at-fates-end-preview-spiritfarer/)<!-- GAME:END -->
+ - [Marvel Rivals made Blizzard ask &#39;what if we could just drop 30 new heroes into Overwatch?&#39; and inspired its biggest update ever](https://www.pcgamer.com/games/fps/marvel-rivals-is-part-of-the-reason-overwatch-dropped-5-new-heroes-at-once/)
+ - [Baby Steps&#39; designers trolled players by placing stacks of cans at the top of &#39;plausible&#39; climbing challenges they didn&#39;t even bother testing, and players managed to climb them all—except one](https://www.pcgamer.com/games/action/baby-steps-designers-trolled-players-by-placing-stacks-of-cans-at-the-top-of-plausible-climbing-challenges-they-didnt-even-bother-testing-and-players-managed-to-climb-them-all-except-one/)
+ - [Major investor is &#39;shocked and sad&#39; that the games industry is &#39;demonizing&#39; generative AI](https://www.pcgamer.com/software/ai/major-investor-is-shocked-and-sad-that-the-games-industry-is-demonizing-generative-ai/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
