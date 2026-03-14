@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An excerpt from the upcoming book Project Maven details how the Pentagon enlisted Silicon Valley to build AI-powered tools of war, now playing out in Iran &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260314/p5#a260314p5)
- - [Mobile internet blackouts hit Moscow as the Kremlin tightens control; Roskomnadzor data shows daily traffic down ~20% since March 5 vs. the previous month &lpar;Anastasia Stognei/Financial Times&rpar;](http://www.techmeme.com/260314/p4#a260314p4)
- - [Palantir software demos and DOD records show how the military may be using AI chatbots, including the kinds of queries and the data used to generate responses &lpar;Caroline Haskins/Wired&rpar;](http://www.techmeme.com/260314/p3#a260314p3)<!-- TECH:END -->
+ - [TSMC&#39;s N3 logic wafer capacity has become one of the AI industry&#39;s biggest constraints, which could push customers to explore greater foundry diversification &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/260314/p7#a260314p7)
+ - [Surprise Alicia Keys concert turns Grand Central Apple Store into a piano stage](https://appleinsider.com/articles/26/03/13/surprise-alicia-keys-concert-turns-grand-central-apple-store-into-a-piano-stage?utm_source=rss)
+ - [The Next Apple Watch Series 12 Could Finally Bring Back Classic iPhone Feature](https://www.cnet.com/tech/mobile/apple-watch-series-12-rumors-touch-id-fingerprint-sensor/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
