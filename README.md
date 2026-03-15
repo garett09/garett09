@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
- - 🚯 [In your dreams](http://9gag.com/gag/aW4X80q)
- - 🚯 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)<!-- MEMES:END -->
+ - 🚖 [Oh look, the leaked plot of Shrek 5](http://9gag.com/gag/a34OM3v)
+ - 🚯 [From the archives. Bustin rhymes](http://9gag.com/gag/a0e35LL)
+ - 🚯 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)<!-- MEMES:END -->
 
 --- 
 
