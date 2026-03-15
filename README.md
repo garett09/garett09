@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance suspended the global launch of Seedance 2.0 amid copyright disputes with Hollywood studios and streamers; it was launched in China last month &lpar;The Information&rpar;](http://www.techmeme.com/260314/p9#a260314p9)
- - [Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals](https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale)
- - [Prediction markets want the Oscars to be your gateway drug to betting on everything](https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling)<!-- TECH:END -->
+ - [A preview of Nvidia&#39;s 2026 GTC, which kicks off on March 16, where the company is expected to unveil new agentic-optimized CPUs, a CPU-only rack, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260314/p12#a260314p12)
+ - [Trump administration is allegedly collecting $10 billion on the TikTok deal](https://www.theverge.com/policy/895039/trump-10-billion-tiktok)
+ - [iPhone Fold: Launch Date, Price, Design Leaks and Everything We Know](https://www.cnet.com/tech/mobile/iphone-fold-launch-date-price-and-everything-we-know/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
