@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let there be light](http://9gag.com/gag/aLnEDmP)
- - 🚯 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 🚯 [Secret formula](http://9gag.com/gag/a5QYZ9r)<!-- MEMES:END -->
+ - 🚖 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
+ - 🚯 [In your dreams](http://9gag.com/gag/aW4X80q)
+ - 🚯 [Let there be light](http://9gag.com/gag/aLnEDmP)<!-- MEMES:END -->
 
 --- 
 
