@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The gaming industry is shaping up to be one of the AI boom&#39;s biggest casualties, from job losses to rising console prices due to the global RAM shortage &lpar;Helen Vogelsong-Donahue/Wired&rpar;](http://www.techmeme.com/260315/p3#a260315p3)
- - [Zendesk agrees to acquire Forethought, which makes AI-powered customer support software, for an undisclosed sum; Forethought has raised $115M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260315/p2#a260315p2)
- - [San Francisco&#39;s housing market is seeing a big rebound, driven by the AI boom; Apartment List says rents rose 14% YoY in February, the fastest growth in the US &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260315/p1#a260315p1)<!-- TECH:END -->
+ - [The fast rise and epic fall of Clubhouse](https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history)
+ - [Study: most AI-generated videos on social media about the war in Iran push pro-Iranian views, often exaggerating its military capabilities and sophistication &lpar;New York Times&rpar;](http://www.techmeme.com/260315/p4#a260315p4)
+ - [I went a year without a phone service, and this is what I learned](https://www.androidauthority.com/year-without-phone-service-3643762/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
