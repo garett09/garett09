@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The fast rise and epic fall of Clubhouse](https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history)
- - [Study: most AI-generated videos on social media about the war in Iran push pro-Iranian views, often exaggerating its military capabilities and sophistication &lpar;New York Times&rpar;](http://www.techmeme.com/260315/p4#a260315p4)
- - [I went a year without a phone service, and this is what I learned](https://www.androidauthority.com/year-without-phone-service-3643762/)<!-- TECH:END -->
+ - [Indian edtech startup upGrad plans to acquire rival Unacademy in an all-stock deal; Unacademy was valued at less than $500M in 2025, down from $3.5B in 2021 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260315/p6#a260315p6)
+ - [Sotomayor’s Wabi Sabi is the funnest record of 2026](https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review)
+ - [HDR TV Formats Explained](https://www.cnet.com/tech/home-entertainment/every-hdr-tv-format-explained/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
