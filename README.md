@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)
+ - 🚖 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
  - 🚯 [In your dreams](http://9gag.com/gag/aW4X80q)
- - 🚯 [Let there be light](http://9gag.com/gag/aLnEDmP)<!-- MEMES:END -->
+ - 🚯 [My Walmart package just got airdropped like an ammo crate. The future is wild](http://9gag.com/gag/a7oxrK2)<!-- MEMES:END -->
 
 --- 
 
