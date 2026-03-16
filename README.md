@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard struggles to balance its Abundance world event in a way that makes anybody happy, with recent potential nerfs making it even more stressful to optimize](https://www.pcgamer.com/games/world-of-warcraft/blizzard-struggles-to-balance-its-abundance-world-event-in-a-way-that-makes-anybody-happy-with-recent-potential-nerfs-making-it-even-more-stressful-to-optimize/)
- - [&#39;C:\ is not accessible – Access denied&#39;: Windows 11 users locked out of own boot drive on Samsung PCs  due to major issue](https://www.pcgamer.com/software/operating-systems/c-is-not-accessible-access-denied-windows-11-users-locked-out-of-own-boot-drive-on-samsung-pcs-due-to-major-issue/)
- - [Bethesda steps in again to calm down hype around Starfield news next week, saying Todd Howard&#39;s EA College Football 26 skills are his &#39;only visionary power&#39;](https://www.pcgamer.com/games/rpg/bethesda-steps-in-again-to-calm-down-hype-around-starfield-news-next-week-saying-todd-howards-ea-college-football-26-skills-are-his-only-visionary-power/)<!-- GAME:END -->
+ - [3 wild new details revealed in the latest trailer for Star Wars: Maul – Shadow Lord](https://www.polygon.com/star-wars-maul-trailer-reveals/)
+ - [A Quiet Place 3 gets surprise cast and date reveal](https://www.polygon.com/a-quiet-place-3-release-date-cast-announcement/)
+ - [MSI reportedly plans on tackling &#39;the most challenging year since the company was founded&#39;, with 15-30% price raises, making DDR5 motherboards DDR4 compatible, and increasing AI server revenue](https://www.pcgamer.com/hardware/msi-reportedly-plans-on-tackling-the-most-challenging-year-since-the-company-was-founded-with-15-30-percent-price-raises-making-ddr5-motherboards-ddr4-compatible-and-increasing-ai-server-revenue/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
