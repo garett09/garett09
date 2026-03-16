@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
- - 🚯 [Men are truly oblivious](http://9gag.com/gag/aPAqjEB)
- - 🚯 [Tomb Raider](http://9gag.com/gag/ae9BMbm)<!-- MEMES:END -->
+ - 🚖 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
+ - 🚯 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 🚯 [King of memes!](http://9gag.com/gag/aMVLZZP)<!-- MEMES:END -->
 
 --- 
 
