@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Standard Kernel, which is making AI-powered GPU optimization software, raised a $20M seed led by Jump Capital, with General Catalyst and others participating &lpar;Clinton Nwachukwu/Ventureburn&rpar;](http://www.techmeme.com/260315/p10#a260315p10)
- - [Recovered notes from a lobbyist&#39;s phone outline a $5M payment structure tied to Argentine President Milei and other top officials&#39; promotion of the Libra token &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260315/p9#a260315p9)
- - [Intellexa&#39;s founder says his firm sells surveillance tech exclusively to governments, reviving claims of state spying in Greece after being sentenced last month &lpar;Eliza Triantafillou/OCCRP&rpar;](http://www.techmeme.com/260315/p8#a260315p8)<!-- TECH:END -->
+ - [Despite record Galaxy S26 pre-orders, Samsung’s mobile unit is literally in emergency mode](https://www.androidauthority.com/samsung-mobile-division-emergency-management-3649220/)
+ - [Sources: Hua Hong is readying a 7nm process at its Shanghai fab with Huawei&#39;s collaboration, which would make it China&#39;s second chipmaker at the node after SMIC &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/260316/p7#a260316p7)
+ - [Sources: Alibaba may unveil a Qwen-based AI agent for enterprises as soon as this week, and plans to gradually integrate the agent into its services like Alipay &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260316/p6#a260316p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
