@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is not a fly uploaded to a computer](https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload)
- - [iPhone 17e review: Welcome improvements at Apple&#39;s lower-end](https://appleinsider.com/articles/26/03/16/iphone-17e-review-welcome-improvements-at-apples-lower-end?utm_source=rss)
- - [Google Clock’s newest update borrows some color from the Pixel Weather app](https://www.androidauthority.com/google-clock-colorful-weather-upgrade-3649297/)<!-- TECH:END -->
+ - [MacBook Neo can be modded to run faster, but you probably shouldn&#39;t](https://appleinsider.com/articles/26/03/16/macbook-neo-can-be-modded-to-run-faster-but-you-probably-shouldnt?utm_source=rss)
+ - [Samsung Galaxy Z Fold 8 could get an overdue battery upgrade](https://www.androidauthority.com/samsung-galaxy-z-fold-8-battery-rumor-3649479/)
+ - [Sonos finally returns to hardware with Jennifer Tuohy on Smart Home Insider](https://appleinsider.com/articles/26/03/16/sonos-finally-returns-to-hardware-with-jennifer-tuohy-on-smart-home-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
