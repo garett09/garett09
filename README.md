@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals made Blizzard ask &#39;what if we could just drop 30 new heroes into Overwatch?&#39; and inspired its biggest update ever](https://www.pcgamer.com/games/fps/marvel-rivals-is-part-of-the-reason-overwatch-dropped-5-new-heroes-at-once/)
- - [Baby Steps&#39; designers trolled players by placing stacks of cans at the top of &#39;plausible&#39; climbing challenges they didn&#39;t even bother testing, and players managed to climb them all—except one](https://www.pcgamer.com/games/action/baby-steps-designers-trolled-players-by-placing-stacks-of-cans-at-the-top-of-plausible-climbing-challenges-they-didnt-even-bother-testing-and-players-managed-to-climb-them-all-except-one/)
- - [Major investor is &#39;shocked and sad&#39; that the games industry is &#39;demonizing&#39; generative AI](https://www.pcgamer.com/software/ai/major-investor-is-shocked-and-sad-that-the-games-industry-is-demonizing-generative-ai/)<!-- GAME:END -->
+ - [Amy Madigan&#39;s historic Oscars 2026 win echoes Heath Ledger&#39;s Joker](https://www.polygon.com/amy-madigan-oscars-2026-best-supporting-actress/)
+ - [Five new Steam games you probably missed &lpar;March 16, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-16-2026/)
+ - [Firefly returns as an animated series with controversial creator Joss Whedon&#39;s blessing](https://www.polygon.com/firefly-returns-as-an-animated-series-with-controversial-creator-joss-whedons-blessing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
