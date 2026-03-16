@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite record Galaxy S26 pre-orders, Samsung’s mobile unit is literally in emergency mode](https://www.androidauthority.com/samsung-mobile-division-emergency-management-3649220/)
- - [Sources: Hua Hong is readying a 7nm process at its Shanghai fab with Huawei&#39;s collaboration, which would make it China&#39;s second chipmaker at the node after SMIC &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/260316/p7#a260316p7)
- - [Sources: Alibaba may unveil a Qwen-based AI agent for enterprises as soon as this week, and plans to gradually integrate the agent into its services like Alipay &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260316/p6#a260316p6)<!-- TECH:END -->
+ - [This is not a fly uploaded to a computer](https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload)
+ - [iPhone 17e review: Welcome improvements at Apple&#39;s lower-end](https://appleinsider.com/articles/26/03/16/iphone-17e-review-welcome-improvements-at-apples-lower-end?utm_source=rss)
+ - [Google Clock’s newest update borrows some color from the Pixel Weather app](https://www.androidauthority.com/google-clock-colorful-weather-upgrade-3649297/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
