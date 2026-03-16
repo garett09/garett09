@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
- - 🚯 [Points and laughs](http://9gag.com/gag/aZZYgqn)
- - 🚯 [It&#39;s a truly expensive hobby.](http://9gag.com/gag/abA8zR8)<!-- MEMES:END -->
+ - 🚖 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
+ - 🚯 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 🚯 [Points and laughs](http://9gag.com/gag/aZZYgqn)<!-- MEMES:END -->
 
 --- 
 
