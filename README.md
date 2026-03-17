@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hemp](http://9gag.com/gag/abA8M4O)
+ - 🚖 [King of memes!](http://9gag.com/gag/aMVLZZP)
  - 🚯 [Imagine getting this call seven years later](http://9gag.com/gag/a87g8r1)
- - 🚯 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)<!-- MEMES:END -->
+ - 🚯 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
 
 --- 
 
