@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Insanely punishing&#39; survival game Atlas is being distilled &#39;into a more accessible form&#39; for Ark: Survival Ascended&#39;s new DLC](https://www.pcgamer.com/games/survival-crafting/insanely-punishing-survival-game-atlas-is-being-distilled-into-a-more-accessible-form-for-ark-survival-ascendeds-new-dlc/)
- - [The Sekiro anime looks gorgeous, gory in new trailer from Crunchyroll](https://www.polygon.com/sekiro-anime-no-defeat-trailer-2-crunchyroll/)
- - [Witch Hat Atelier review: The perfect fantasy anime to get over your Frieren blues](https://www.polygon.com/witch-hat-atelier-episodes-1-2-review-impressions/)<!-- GAME:END -->
+ - [A native port of the GameCube Animal Crossing has made its way to PC, which means all other cozy games are cancelled as nothing else matters](https://www.pcgamer.com/games/sim/a-native-port-of-the-gamecube-animal-crossing-has-made-its-way-to-pc-which-means-all-other-cozy-games-are-cancelled-as-nothing-else-matters/)
+ - [Nvidia&#39;s new Vera CPU has been designed for &#39;extremely high&#39; single-core performance, but it&#39;s not coming to the PC for now](https://www.pcgamer.com/hardware/processors/nvidias-new-vera-cpu-has-been-designed-for-extremely-high-single-core-performance-but-its-not-coming-to-the-pc-for-now/)
+ - [Firefly’s animated revival is a huge missed opportunity](https://www.polygon.com/firefly-animated-revival-problems/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
