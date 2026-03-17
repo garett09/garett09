@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 🚯 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
- - 🚯 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
+ - 🚖 [Stoopidity](http://9gag.com/gag/amoZ50o)
+ - 🚯 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
+ - 🚯 [Just try and act normal](http://9gag.com/gag/aQzjdvW)<!-- MEMES:END -->
 
 --- 
 
