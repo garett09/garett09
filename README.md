@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A native port of the GameCube Animal Crossing has made its way to PC, which means all other cozy games are cancelled as nothing else matters](https://www.pcgamer.com/games/sim/a-native-port-of-the-gamecube-animal-crossing-has-made-its-way-to-pc-which-means-all-other-cozy-games-are-cancelled-as-nothing-else-matters/)
- - [Nvidia&#39;s new Vera CPU has been designed for &#39;extremely high&#39; single-core performance, but it&#39;s not coming to the PC for now](https://www.pcgamer.com/hardware/processors/nvidias-new-vera-cpu-has-been-designed-for-extremely-high-single-core-performance-but-its-not-coming-to-the-pc-for-now/)
- - [Firefly’s animated revival is a huge missed opportunity](https://www.polygon.com/firefly-animated-revival-problems/)<!-- GAME:END -->
+ - [Arc Raiders studio splits with co-founder over &#39;unsustainable&#39; situation involving streamer allegations](https://www.pcgamer.com/games/arc-raiders-studio-splits-with-co-founder-over-unsustainable-situation-involving-streamer-allegations/)
+ - [Let&#39;s breakdown all the major characters in the mysterious new Dune 3 trailer](https://www.polygon.com/dune-3-trailer-breakdown-explained-anya-taylor-joy-robert-pattinson/)
+ - [Pokémon Pokopia Players Are Turning Their Towns Into Sweatshops](https://kotaku.com/pokemon-pokopia-factory-sweatshop-prison-jail-labor-2000679679)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
