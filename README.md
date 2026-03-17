@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal expands access to its PYUSD stablecoin from the US and UK to 70 countries in total, including new markets in Uganda, Colombia, Peru, and Malawi &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260317/p21#a260317p21)
- - [I Clamp Every Accessory I Can to My Desk To Avoid Clutter, and You Should, Too](https://www.wired.com/story/you-should-be-mounting-everything-on-your-desk/)
- - [Samsung’s Galaxy Z TriFold might already be on its way out &lpar;Updated: Confirmed&rpar;](https://www.androidauthority.com/samsung-galaxy-z-trifold-sales-ending-3649266/)<!-- TECH:END -->
+ - [Ikea tried to build a smart home for everyone — here&amp;#8217;s why it&amp;#8217;s not working yet](https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems)
+ - [Tim Cook denies imminent retirement rumors, &#39;can&#39;t imagine life without Apple&#39;](https://appleinsider.com/articles/26/03/17/tim-cook-denies-imminent-retirement-rumors-cant-imagine-life-without-apple?utm_source=rss)
+ - [Some Galaxy S26 Ultra owners say they had to return the phone over the display](https://www.androidauthority.com/some-galaxy-s26-ultra-eye-strain-complaints-3649803/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
