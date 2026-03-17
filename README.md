@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Neo can be modded to run faster, but you probably shouldn&#39;t](https://appleinsider.com/articles/26/03/16/macbook-neo-can-be-modded-to-run-faster-but-you-probably-shouldnt?utm_source=rss)
- - [Samsung Galaxy Z Fold 8 could get an overdue battery upgrade](https://www.androidauthority.com/samsung-galaxy-z-fold-8-battery-rumor-3649479/)
- - [Sonos finally returns to hardware with Jennifer Tuohy on Smart Home Insider](https://appleinsider.com/articles/26/03/16/sonos-finally-returns-to-hardware-with-jennifer-tuohy-on-smart-home-insider?utm_source=rss)<!-- TECH:END -->
+ - [Fuse, which offers AI-powered loan origination software to credit unions and other financial institutions, raised a $25M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260316/p48#a260316p48)
+ - [The Live Nation trial restarts with a &amp;#8216;velvet hammer&amp;#8217;](https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues)
+ - [How Disney Imagineering built an Olaf robot, set to arrive at Disneyland Paris this month, and taught it to move via reinforcement learning and simulation &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/260316/p47#a260316p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
