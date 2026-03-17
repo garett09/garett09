@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fuse, which offers AI-powered loan origination software to credit unions and other financial institutions, raised a $25M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260316/p48#a260316p48)
- - [The Live Nation trial restarts with a &amp;#8216;velvet hammer&amp;#8217;](https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues)
- - [How Disney Imagineering built an Olaf robot, set to arrive at Disneyland Paris this month, and taught it to move via reinforcement learning and simulation &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/260316/p47#a260316p47)<!-- TECH:END -->
+ - [Google’s latest system update for Android is small, but surprisingly useful](https://www.androidauthority.com/google-system-services-update-march-2026-3649599/)
+ - [Open models will largely lose if they keep chasing closed frontier AI models; instead, open models should serve as complementary tools to closed agents &lpar;Nathan Lambert/Interconnects AI&rpar;](http://www.techmeme.com/260317/p3#a260317p3)
+ - [Nvidia says game developers have full &quot;artistic control over DLSS 5&#39;s effects&quot;, following backlash alleging that the AI rendering tech altered source material &lpar;Tyler Wilde/PC Gamer&rpar;](http://www.techmeme.com/260317/p2#a260317p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
