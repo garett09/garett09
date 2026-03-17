@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 🚯 [Imagine getting this call seven years later](http://9gag.com/gag/a87g8r1)
+ - 🚯 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
  - 🚯 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
 
 --- 
