@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [3 wild new details revealed in the latest trailer for Star Wars: Maul – Shadow Lord](https://www.polygon.com/star-wars-maul-trailer-reveals/)
- - [A Quiet Place 3 gets surprise cast and date reveal](https://www.polygon.com/a-quiet-place-3-release-date-cast-announcement/)
- - [MSI reportedly plans on tackling &#39;the most challenging year since the company was founded&#39;, with 15-30% price raises, making DDR5 motherboards DDR4 compatible, and increasing AI server revenue](https://www.pcgamer.com/hardware/msi-reportedly-plans-on-tackling-the-most-challenging-year-since-the-company-was-founded-with-15-30-percent-price-raises-making-ddr5-motherboards-ddr4-compatible-and-increasing-ai-server-revenue/)<!-- GAME:END -->
+ - [&#39;Insanely punishing&#39; survival game Atlas is being distilled &#39;into a more accessible form&#39; for Ark: Survival Ascended&#39;s new DLC](https://www.pcgamer.com/games/survival-crafting/insanely-punishing-survival-game-atlas-is-being-distilled-into-a-more-accessible-form-for-ark-survival-ascendeds-new-dlc/)
+ - [The Sekiro anime looks gorgeous, gory in new trailer from Crunchyroll](https://www.polygon.com/sekiro-anime-no-defeat-trailer-2-crunchyroll/)
+ - [Witch Hat Atelier review: The perfect fantasy anime to get over your Frieren blues](https://www.polygon.com/witch-hat-atelier-episodes-1-2-review-impressions/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
