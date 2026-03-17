@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s latest system update for Android is small, but surprisingly useful](https://www.androidauthority.com/google-system-services-update-march-2026-3649599/)
- - [Open models will largely lose if they keep chasing closed frontier AI models; instead, open models should serve as complementary tools to closed agents &lpar;Nathan Lambert/Interconnects AI&rpar;](http://www.techmeme.com/260317/p3#a260317p3)
- - [Nvidia says game developers have full &quot;artistic control over DLSS 5&#39;s effects&quot;, following backlash alleging that the AI rendering tech altered source material &lpar;Tyler Wilde/PC Gamer&rpar;](http://www.techmeme.com/260317/p2#a260317p2)<!-- TECH:END -->
+ - [PayPal expands access to its PYUSD stablecoin from the US and UK to 70 countries in total, including new markets in Uganda, Colombia, Peru, and Malawi &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260317/p21#a260317p21)
+ - [I Clamp Every Accessory I Can to My Desk To Avoid Clutter, and You Should, Too](https://www.wired.com/story/you-should-be-mounting-everything-on-your-desk/)
+ - [Samsung’s Galaxy Z TriFold might already be on its way out &lpar;Updated: Confirmed&rpar;](https://www.androidauthority.com/samsung-galaxy-z-trifold-sales-ending-3649266/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
