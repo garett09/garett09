@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
- - 🚯 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
- - 🚯 [King of memes!](http://9gag.com/gag/aMVLZZP)<!-- MEMES:END -->
+ - 🚖 [Hemp](http://9gag.com/gag/abA8M4O)
+ - 🚯 [Imagine getting this call seven years later](http://9gag.com/gag/a87g8r1)
+ - 🚯 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)<!-- MEMES:END -->
 
 --- 
 
