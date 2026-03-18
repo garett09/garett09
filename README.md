@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
- - 🚯 [Sad face](http://9gag.com/gag/aE04PYO)
- - 🚯 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
+ - 🚖 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
+ - 🚯 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 🚯 [Sad face](http://9gag.com/gag/aE04PYO)<!-- MEMES:END -->
 
 --- 
 
