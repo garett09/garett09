@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: the DOD said it designated Anthropic a supply chain risk over concerns the AI company could disable its tech if the Pentagon crossed its &quot;red lines&quot; &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260317/p53#a260317p53)
- - [Chartbeat: over two years, search traffic fell by 60% for small publishers with 1K-10K daily page views, 47% for medium-sized publishers, and 22% for large ones &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260317/p52#a260317p52)
- - [Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems](https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/)<!-- TECH:END -->
+ - [Founders are increasingly leasing multimillion-dollar mansions in San Francisco&#39;s wealthy neighborhoods as corporate HQs and hacker houses, amid the AI boom &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/260318/p8#a260318p8)
+ - [Banks start offloading $18B debt tied to the $55B buyout of EA; sources say EA told potential investors AI could let gaming companies cut engineering workforces &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p7#a260318p7)
+ - [Pixel Watch bug is wiping out exercise steps after March update](https://www.androidauthority.com/pixel-watch-exercise-step-tracking-bug-3649983/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
