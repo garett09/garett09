@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU unveils EU Inc., a single bloc-wide incorporation regime that it says takes 48 hours, to help European startups compete with US and Chinese rivals &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260318/p21#a260318p21)
- - [Humanscale’s New $15K Lounge Chair Is the Ultimate Home Office Workstation](https://www.wired.com/story/humanscale-diffrient-lounge/)
- - [It’s not just you: Pixel owners report freezing lock screens after March Pixel Drop](https://www.androidauthority.com/google-pixel-lock-screen-freezing-march-2026-3650066/)<!-- TECH:END -->
+ - [Keyboard accuracy bug quashed in iOS 26.4](https://appleinsider.com/articles/26/03/18/keyboard-accuracy-bug-quashed-in-ios-264?utm_source=rss)
+ - [Trump&amp;#8217;s AI chief&amp;#8217;s big Iran warning gets big time ignored](https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket)
+ - [AT&amp;T’s new app is built around an AI-powered assistant — what could go wrong?](https://www.androidauthority.com/att-rolls-out-new-app-3650259/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
