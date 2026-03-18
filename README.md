@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea tried to build a smart home for everyone — here&amp;#8217;s why it&amp;#8217;s not working yet](https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems)
- - [Tim Cook denies imminent retirement rumors, &#39;can&#39;t imagine life without Apple&#39;](https://appleinsider.com/articles/26/03/17/tim-cook-denies-imminent-retirement-rumors-cant-imagine-life-without-apple?utm_source=rss)
- - [Some Galaxy S26 Ultra owners say they had to return the phone over the display](https://www.androidauthority.com/some-galaxy-s26-ultra-eye-strain-complaints-3649803/)<!-- TECH:END -->
+ - [Filing: the DOD said it designated Anthropic a supply chain risk over concerns the AI company could disable its tech if the Pentagon crossed its &quot;red lines&quot; &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260317/p53#a260317p53)
+ - [Chartbeat: over two years, search traffic fell by 60% for small publishers with 1K-10K daily page views, 47% for medium-sized publishers, and 22% for large ones &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260317/p52#a260317p52)
+ - [Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems](https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
