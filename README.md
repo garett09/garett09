@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders studio splits with co-founder over &#39;unsustainable&#39; situation involving streamer allegations](https://www.pcgamer.com/games/arc-raiders-studio-splits-with-co-founder-over-unsustainable-situation-involving-streamer-allegations/)
- - [Let&#39;s breakdown all the major characters in the mysterious new Dune 3 trailer](https://www.polygon.com/dune-3-trailer-breakdown-explained-anya-taylor-joy-robert-pattinson/)
- - [Pokémon Pokopia Players Are Turning Their Towns Into Sweatshops](https://kotaku.com/pokemon-pokopia-factory-sweatshop-prison-jail-labor-2000679679)<!-- GAME:END -->
+ - [Starfield&#39;s Terran Armada story DLC will let you recruit a robot who is &#39;not evil&#39; but also &#39;definitely not good&#39;](https://www.pcgamer.com/games/rpg/starfields-terran-armada-story-dlc-will-let-you-recruit-a-robot-who-is-not-evil-but-also-definitely-not-good/)
+ - [Steam build of Death Stranding 2 leaks two days ahead of launch](https://www.pcgamer.com/games/action/steam-build-of-death-stranding-2-leaks-two-days-ahead-of-launch/)
+ - [Arc Raiders Studio Parts Ways With Cofounder Over Sexual Misconduct Allegations It Was Unable To Substantiate](https://kotaku.com/rob-runesson-embark-finals-esports-misconduct-allegations-2000679734)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
