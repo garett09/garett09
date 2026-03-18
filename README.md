@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Founders are increasingly leasing multimillion-dollar mansions in San Francisco&#39;s wealthy neighborhoods as corporate HQs and hacker houses, amid the AI boom &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/260318/p8#a260318p8)
- - [Banks start offloading $18B debt tied to the $55B buyout of EA; sources say EA told potential investors AI could let gaming companies cut engineering workforces &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p7#a260318p7)
- - [Pixel Watch bug is wiping out exercise steps after March update](https://www.androidauthority.com/pixel-watch-exercise-step-tracking-bug-3649983/)<!-- TECH:END -->
+ - [The EU unveils EU Inc., a single bloc-wide incorporation regime that it says takes 48 hours, to help European startups compete with US and Chinese rivals &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260318/p21#a260318p21)
+ - [Humanscale’s New $15K Lounge Chair Is the Ultimate Home Office Workstation](https://www.wired.com/story/humanscale-diffrient-lounge/)
+ - [It’s not just you: Pixel owners report freezing lock screens after March Pixel Drop](https://www.androidauthority.com/google-pixel-lock-screen-freezing-march-2026-3650066/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
