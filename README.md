@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese cities are offering free apartments and office space to attract and incubate &quot;one-person companies&quot;, startups run by a single founder with AI&#39;s help &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260319/p9#a260319p9)
- - [Spider-Man ditches Xperia for a Galaxy Z Flip in Brand New Day, and the internet can’t get over it](https://www.androidauthority.com/spider-man-brand-new-day-galaxy-z-flip-7-3650355/)
- - [Meta CTO Andrew Bosworth says Horizon Worlds will remain in VR for the &quot;foreseeable future&quot;, after Meta said Quest headset users will lose access from June 15 &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/260319/p8#a260319p8)<!-- TECH:END -->
+ - [Deeptune, which builds high-fidelity reinforcement learning environments that simulate professional workflows for AI agents, raised a $43M Series A led by a16z &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260319/p24#a260319p24)
+ - [Fitbit&amp;#8217;s AI health coach will soon be able to read your medical records](https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records)
+ - [Uber plans to invest $1.25B in Rivian through 2031, contingent on meeting autonomy milestones, starting with $300M at signing, to deploy 50K Level 4 robotaxis &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260319/p23#a260319p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
