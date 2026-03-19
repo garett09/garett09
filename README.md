@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The East has fallen](http://9gag.com/gag/a34OEP7)
- - 🚯 [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
- - 🚯 [Gotcha moment](http://9gag.com/gag/aqyEn1v)<!-- MEMES:END -->
+ - 🚖 [Sporty Spice](http://9gag.com/gag/aE04qvO)
+ - 🚯 [Thank you internet](http://9gag.com/gag/a6ZR1G8)
+ - 🚯 [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)<!-- MEMES:END -->
 
 --- 
 
