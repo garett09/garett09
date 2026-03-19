@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn signs The Trade Desk as its first DSP partner for connected TV ads, allowing ad buyers to layer in LinkedIn data to reach target audiences &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/260318/p53#a260318p53)
- - [Google DeepMind appoints Jasjeet Sekhon, Bridgewater&#39;s chief scientist and head of AI, as chief strategy officer; Sekhon helped build Bridgewater&#39;s AIA Labs &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/260318/p52#a260318p52)
- - [Cloudflare says it has appealed the €14.2M fine issued by Italy for refusing to block pirate sites on its 1.1.1.1 DNS service, calling the amount &quot;staggering&quot; &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260318/p51#a260318p51)<!-- TECH:END -->
+ - [Chinese cities are offering free apartments and office space to attract and incubate &quot;one-person companies&quot;, startups run by a single founder with AI&#39;s help &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260319/p9#a260319p9)
+ - [Spider-Man ditches Xperia for a Galaxy Z Flip in Brand New Day, and the internet can’t get over it](https://www.androidauthority.com/spider-man-brand-new-day-galaxy-z-flip-7-3650355/)
+ - [Meta CTO Andrew Bosworth says Horizon Worlds will remain in VR for the &quot;foreseeable future&quot;, after Meta said Quest headset users will lose access from June 15 &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/260319/p8#a260319p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
