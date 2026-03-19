@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sporty Spice](http://9gag.com/gag/aE04qvO)
- - 🚯 [Thank you internet](http://9gag.com/gag/a6ZR1G8)
- - 🚯 [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)<!-- MEMES:END -->
+ - 🚖 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
+ - 🚯 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
+ - 🚯 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)<!-- MEMES:END -->
 
 --- 
 
