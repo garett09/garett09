@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keyboard accuracy bug quashed in iOS 26.4](https://appleinsider.com/articles/26/03/18/keyboard-accuracy-bug-quashed-in-ios-264?utm_source=rss)
- - [Trump&amp;#8217;s AI chief&amp;#8217;s big Iran warning gets big time ignored](https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket)
- - [AT&amp;T’s new app is built around an AI-powered assistant — what could go wrong?](https://www.androidauthority.com/att-rolls-out-new-app-3650259/)<!-- TECH:END -->
+ - [LinkedIn signs The Trade Desk as its first DSP partner for connected TV ads, allowing ad buyers to layer in LinkedIn data to reach target audiences &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/260318/p53#a260318p53)
+ - [Google DeepMind appoints Jasjeet Sekhon, Bridgewater&#39;s chief scientist and head of AI, as chief strategy officer; Sekhon helped build Bridgewater&#39;s AIA Labs &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/260318/p52#a260318p52)
+ - [Cloudflare says it has appealed the €14.2M fine issued by Italy for refusing to block pirate sites on its 1.1.1.1 DNS service, calling the amount &quot;staggering&quot; &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260318/p51#a260318p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
