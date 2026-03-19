@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deeptune, which builds high-fidelity reinforcement learning environments that simulate professional workflows for AI agents, raised a $43M Series A led by a16z &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260319/p24#a260319p24)
- - [Fitbit&amp;#8217;s AI health coach will soon be able to read your medical records](https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records)
- - [Uber plans to invest $1.25B in Rivian through 2031, contingent on meeting autonomy milestones, starting with $300M at signing, to deploy 50K Level 4 robotaxis &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260319/p23#a260319p23)<!-- TECH:END -->
+ - [Tinder wants you to give its AI access to all of your photos](https://www.androidauthority.com/tinder-ai-photo-gallery-access-3650454/)
+ - [It’s your chance to grab a Google TV Streamer for just $79.99!](https://www.androidauthority.com/google-tv-streamer-deal-13-3649065/)
+ - [Google moved some staffers working on Project Mariner, its AI agent that can navigate Chrome and complete tasks on a user&#39;s behalf, to higher-priority projects &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260319/p43#a260319p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
