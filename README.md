@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Draw me like one of your japenese swords](http://9gag.com/gag/axyrMdM)
- - 🚯 [Anything for views](http://9gag.com/gag/aBye2jP)
- - 🚯 [This is next level RC fun](http://9gag.com/gag/aXPOoj2)<!-- MEMES:END -->
+ - 🚖 [The East has fallen](http://9gag.com/gag/a34OEP7)
+ - 🚯 [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
+ - 🚯 [Gotcha moment](http://9gag.com/gag/aqyEn1v)<!-- MEMES:END -->
 
 --- 
 
