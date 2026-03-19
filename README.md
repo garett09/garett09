@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a 220V shock looks like. Happened in Brazil on live TV &lpar;structure was not grounded&rpar;](http://9gag.com/gag/azx31Qm)
- - 🚯 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)
- - 🚯 [Sad face](http://9gag.com/gag/aE04PYO)<!-- MEMES:END -->
+ - 🚖 [Draw me like one of your japenese swords](http://9gag.com/gag/axyrMdM)
+ - 🚯 [Anything for views](http://9gag.com/gag/aBye2jP)
+ - 🚯 [This is next level RC fun](http://9gag.com/gag/aXPOoj2)<!-- MEMES:END -->
 
 --- 
 
