@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: the SEC approved a Nasdaq rule change allowing some securities to trade in tokenized form; the new approach will be tested in an upcoming pilot program &lpar;The Block&rpar;](http://www.techmeme.com/260320/p3#a260320p3)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Newegg Promo Code: 10% Off in March 2026](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
+ - [MacBook Neo review: the new king of budget laptops](https://appleinsider.com/articles/26/03/20/macbook-neo-review-the-new-king-of-budget-laptops?utm_source=rss)
+ - [&amp;#8216;Work from home,&amp;#8217; encourages the world&amp;#8217;s energy watchdog](https://www.theverge.com/science/897874/iea-fuel-gas-shortage-recommendations-work-from-home)
+ - [GhostClaw turns GitHub habits into a macOS malware pipeline](https://appleinsider.com/articles/26/03/20/ghostclaw-turns-github-habits-into-a-macos-malware-pipeline?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
