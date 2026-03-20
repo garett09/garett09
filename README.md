@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
- - 🚯 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
- - 🚯 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)<!-- MEMES:END -->
+ - 🚖 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
+ - 🚯 [Play stupid games, win stupid prizes](http://9gag.com/gag/agmegbK)
+ - 🚯 [The shot shot him](http://9gag.com/gag/agmegQ6)<!-- MEMES:END -->
 
 --- 
 
