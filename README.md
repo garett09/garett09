@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
- - 🚯 [Play stupid games, win stupid prizes](http://9gag.com/gag/agmegbK)
- - 🚯 [The shot shot him](http://9gag.com/gag/agmegQ6)<!-- MEMES:END -->
+ - 🚖 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
+ - 🚯 [Me giving peep talk to my last two brain cells during exam](http://9gag.com/gag/a87g1gp)
+ - 🚯 [Why was he so angry?](http://9gag.com/gag/aryLmzp)<!-- MEMES:END -->
 
 --- 
 
