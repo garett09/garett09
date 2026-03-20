@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More of this, before it\u2019s too late.](http://9gag.com/gag/aZZYDGp)
- - 🚯 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
- - 🚯 [Guy is living the dream. Sword is nice too](http://9gag.com/gag/abA8gbL)<!-- MEMES:END -->
+ - 🚖 [The horror...](http://9gag.com/gag/azx3eZp)
+ - 🚯 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
+ - 🚯 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)<!-- MEMES:END -->
 
 --- 
 
