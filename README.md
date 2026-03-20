@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
- - 🚯 [Me giving peep talk to my last two brain cells during exam](http://9gag.com/gag/a87g1gp)
- - 🚯 [Why was he so angry?](http://9gag.com/gag/aryLmzp)<!-- MEMES:END -->
+ - 🚖 [More of this, before it\u2019s too late.](http://9gag.com/gag/aZZYDGp)
+ - 🚯 [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 🚯 [Guy is living the dream. Sword is nice too](http://9gag.com/gag/abA8gbL)<!-- MEMES:END -->
 
 --- 
 
