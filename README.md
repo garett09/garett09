@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Neo review: the new king of budget laptops](https://appleinsider.com/articles/26/03/20/macbook-neo-review-the-new-king-of-budget-laptops?utm_source=rss)
- - [&amp;#8216;Work from home,&amp;#8217; encourages the world&amp;#8217;s energy watchdog](https://www.theverge.com/science/897874/iea-fuel-gas-shortage-recommendations-work-from-home)
- - [GhostClaw turns GitHub habits into a macOS malware pipeline](https://appleinsider.com/articles/26/03/20/ghostclaw-turns-github-habits-into-a-macos-malware-pipeline?utm_source=rss)<!-- TECH:END -->
+ - [Trump takes another shot at dismantling state AI regulation](https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework)
+ - [Deal: 15-inch Apple MacBook Air M4 plummets to record-low price!](https://www.androidauthority.com/apple-macbook-air-m4-15-inch-deal-3650556/)
+ - [Memo: Roblox is planning to take a share of revenue from sponsorships in its games and is overhauling advertising policies beginning May 4 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/260320/p16#a260320p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
