@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tinder wants you to give its AI access to all of your photos](https://www.androidauthority.com/tinder-ai-photo-gallery-access-3650454/)
- - [It’s your chance to grab a Google TV Streamer for just $79.99!](https://www.androidauthority.com/google-tv-streamer-deal-13-3649065/)
- - [Google moved some staffers working on Project Mariner, its AI agent that can navigate Chrome and complete tasks on a user&#39;s behalf, to higher-priority projects &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260319/p43#a260319p43)<!-- TECH:END -->
+ - [MiniMax releases M2.7, a proprietary &quot;self-evolving&quot; LLM that the company used to build, monitor, and optimize the model&#39;s own reinforcement learning harnesses &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260319/p58#a260319p58)
+ - [Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine](https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally)
+ - [A man accused of using thousands of bot accounts to stream AI songs, making millions in royalties, pleads guilty in US district court to wire fraud conspiracy &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260319/p57#a260319p57)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
