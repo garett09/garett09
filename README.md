@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The horror...](http://9gag.com/gag/azx3eZp)
- - 🚯 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
- - 🚯 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)<!-- MEMES:END -->
+ - 🚖 [Yeet!](http://9gag.com/gag/a0e3onv)
+ - 🚯 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
+ - 🚯 [Confidence is a key](http://9gag.com/gag/aGyQy97)<!-- MEMES:END -->
 
 --- 
 
