@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [FAFO](http://9gag.com/gag/ae9B9zW)
- - 🚯 [Trump casually dropping Pearl Harbor jokes with the Japanese PM](http://9gag.com/gag/aD2vYKK)
- - 🚯 [Bambooze](http://9gag.com/gag/adBzBNV)<!-- MEMES:END -->
+ - 🚖 [This court sketch is pure fire](http://9gag.com/gag/aryL3by)
+ - 🚯 [Alright, pack it up everyone.](http://9gag.com/gag/a2vXMyd)
+ - 🚯 [This illusion on a frozen lake. Looks like the pole is moving but it&#39;s actually the ice sheet](http://9gag.com/gag/ae9B1gB)<!-- MEMES:END -->
 
 --- 
 
