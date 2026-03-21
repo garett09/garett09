@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dont drop that stick](http://9gag.com/gag/aQzjEYz)
- - 🚯 [FAFO](http://9gag.com/gag/ae9B9zW)
- - 🚯 [Confidence is a key](http://9gag.com/gag/aGyQy97)<!-- MEMES:END -->
+ - 🚖 [FAFO](http://9gag.com/gag/ae9B9zW)
+ - 🚯 [Trump casually dropping Pearl Harbor jokes with the Japanese PM](http://9gag.com/gag/aD2vYKK)
+ - 🚯 [Bambooze](http://9gag.com/gag/adBzBNV)<!-- MEMES:END -->
 
 --- 
 
