@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dreame’s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price](https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal)
- - [I switched to Samsung after my Pixel was stolen, here’s what I miss and what I don’t](https://www.androidauthority.com/switch-pixel-to-samsung-phone-3641586/)
- - [71 Best Podcasts &lpar;2026&rpar;: True Crime, Culture, Science, Fiction](https://www.wired.com/story/best-podcasts/)<!-- TECH:END -->
+ - [Sources: advertisers that bought ChatGPT&#39;s first ad campaigns say the process was low tech and that they haven&#39;t received much data showing if their ads worked &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/260321/p9#a260321p9)
+ - [The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal)
+ - [Lux Optics CEO Ben Sandofsky sues his co-founder Sebastiaan de With, now a part of the design team at Apple, alleging improper use of funds and stolen IP &lpar;Aaron Tilley/The Information&rpar;](http://www.techmeme.com/260321/p8#a260321p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
