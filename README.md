@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeet!](http://9gag.com/gag/a0e3onv)
- - 🚯 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
+ - 🚖 [Dont drop that stick](http://9gag.com/gag/aQzjEYz)
+ - 🚯 [FAFO](http://9gag.com/gag/ae9B9zW)
  - 🚯 [Confidence is a key](http://9gag.com/gag/aGyQy97)<!-- MEMES:END -->
 
 --- 
