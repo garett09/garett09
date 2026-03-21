@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A review of Polymarket&#39;s social media feeds found it has published hundreds of false and misleading posts, as the betting market presents itself as &quot;News 2.0&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/260321/p2#a260321p2)
- - [Nvidia Chief Software Architect Jonathan Ross discusses the $20B Nvidia-Groq deal; sources say Groq&#39;s annual revenue was near $100M at the time of the deal &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/260321/p1#a260321p1)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-21/)<!-- TECH:END -->
+ - [Dreame’s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price](https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal)
+ - [I switched to Samsung after my Pixel was stolen, here’s what I miss and what I don’t](https://www.androidauthority.com/switch-pixel-to-samsung-phone-3641586/)
+ - [71 Best Podcasts &lpar;2026&rpar;: True Crime, Culture, Science, Fiction](https://www.wired.com/story/best-podcasts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
