@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: advertisers that bought ChatGPT&#39;s first ad campaigns say the process was low tech and that they haven&#39;t received much data showing if their ads worked &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/260321/p9#a260321p9)
- - [The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal)
- - [Lux Optics CEO Ben Sandofsky sues his co-founder Sebastiaan de With, now a part of the design team at Apple, alleging improper use of funds and stolen IP &lpar;Aaron Tilley/The Information&rpar;](http://www.techmeme.com/260321/p8#a260321p8)<!-- TECH:END -->
+ - [How gig apps like Kled AI, Silencio, Neon Mobile, and Luel AI pay users for data that AI companies can use to train models, from phone calls to videos of places &lpar;Shubham Agarwal/The Guardian&rpar;](http://www.techmeme.com/260321/p12#a260321p12)
+ - [A look at &quot;tokenmaxxing&quot;, a status game where employees at a number of companies compete on leaderboards to show how much AI they&#39;re using &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260321/p11#a260321p11)
+ - [Halide co-founder is suing former partner for bringing source code to Apple](https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
