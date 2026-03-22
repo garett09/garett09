@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 20: All We Know About the Button-Less, All-Glass Redesign Coming in 2027](https://www.cnet.com/tech/mobile/apple-iphone-20th-anniversary-edition-rumors-2027/)
- - [Generative AI in Gaming Is Here, but Facing Pushback from Gamers -- and Developers](https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/)
- - [Meeting Every Robot at Nvidia GTC: What the Future May Bring](https://www.cnet.com/tech/services-and-software/meeting-every-robot-at-nvidia-gtc-what-the-future-may-bring/)<!-- TECH:END -->
+ - [Crimson Desert dev apologizes for use of AI art](https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art)
+ - [La Liga Soccer: Stream Real Madrid vs. Atlético Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-atletico-madrid-live-from-anywhere/)
+ - [The best early deals you can already grab from Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
