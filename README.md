@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
+ - 🚖 [Karen fukuhara as chun lee](http://9gag.com/gag/ayNK3XV)
  - 🚯 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
- - 🚯 [Both pepsi](http://9gag.com/gag/aXPONrz)<!-- MEMES:END -->
+ - 🚯 [Hospitalised with sinus infection, found with brain tumour. So long degenerates](http://9gag.com/gag/adBzvLD)<!-- MEMES:END -->
 
 --- 
 
