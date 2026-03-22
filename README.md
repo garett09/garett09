@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How gig apps like Kled AI, Silencio, Neon Mobile, and Luel AI pay users for data that AI companies can use to train models, from phone calls to videos of places &lpar;Shubham Agarwal/The Guardian&rpar;](http://www.techmeme.com/260321/p12#a260321p12)
- - [A look at &quot;tokenmaxxing&quot;, a status game where employees at a number of companies compete on leaderboards to show how much AI they&#39;re using &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260321/p11#a260321p11)
- - [Halide co-founder is suing former partner for bringing source code to Apple](https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple)<!-- TECH:END -->
+ - [Elon Musk announces Terafab, an Austin-based project run by Tesla and SpaceX to manufacture robotics, AI, and space data center chips for Tesla, xAI, and SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/260322/p3#a260322p3)
+ - [Speaking at a Beijing forum, Tim Cook praised Apple&#39;s partners and developers in China, a week after Chinese state media labeled the App Store &quot;monopolistic&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260322/p2#a260322p2)
+ - [Cloaked, which offers security and privacy services such as VPNs, raised a $375M Series B in a mix of equity and growth funding, for enterprise expansion &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260322/p1#a260322p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
