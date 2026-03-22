@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Badly needed feature in every game](http://9gag.com/gag/aYQ0G32)
- - 🚯 [Women \u2615\ufe0f](http://9gag.com/gag/aD2v6Qd)
- - 🚯 [Improvise. Adapt. Overcome.](http://9gag.com/gag/avyj1Wn)<!-- MEMES:END -->
+ - 🚖 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
+ - 🚯 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
+ - 🚯 [Both pepsi](http://9gag.com/gag/aXPONrz)<!-- MEMES:END -->
 
 --- 
 
