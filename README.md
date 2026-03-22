@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk announces Terafab, an Austin-based project run by Tesla and SpaceX to manufacture robotics, AI, and space data center chips for Tesla, xAI, and SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/260322/p3#a260322p3)
- - [Speaking at a Beijing forum, Tim Cook praised Apple&#39;s partners and developers in China, a week after Chinese state media labeled the App Store &quot;monopolistic&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260322/p2#a260322p2)
- - [Cloaked, which offers security and privacy services such as VPNs, raised a $375M Series B in a mix of equity and growth funding, for enterprise expansion &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260322/p1#a260322p1)<!-- TECH:END -->
+ - [Apple iPhone 20: All We Know About the Button-Less, All-Glass Redesign Coming in 2027](https://www.cnet.com/tech/mobile/apple-iphone-20th-anniversary-edition-rumors-2027/)
+ - [Generative AI in Gaming Is Here, but Facing Pushback from Gamers -- and Developers](https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/)
+ - [Meeting Every Robot at Nvidia GTC: What the Future May Bring](https://www.cnet.com/tech/services-and-software/meeting-every-robot-at-nvidia-gtc-what-the-future-may-bring/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
