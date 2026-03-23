@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never share too much](http://9gag.com/gag/aVv6EKn)
- - 🚯 [\u200e \u200e](http://9gag.com/gag/a34OAR7)
- - 🚯 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
+ - 🚖 [Signs that the world is healing.](http://9gag.com/gag/a9yGve6)
+ - 🚯 [I have found my calling !](http://9gag.com/gag/amoZGpo)
+ - 🚯 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
 
 --- 
 
