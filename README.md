@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
- - 🚯 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
- - 🚯 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)<!-- MEMES:END -->
+ - 🚖 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)
+ - 🚯 [I have found my calling !](http://9gag.com/gag/amoZGpo)
+ - 🚯 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
 
 --- 
 
