@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows something bigger than sideloading is bothering Android users](https://www.androidauthority.com/android-sideloading-poll-results-3650979/)
- - [The Galaxy Z Fold 8 could bring a charging upgrade for the first time since 2020](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-fold-charging-3650986/)
- - [Palantir won a three-month, £30K+/week trial to access the UK FCA&#39;s intelligence data to tackle financial crime, a source says raising concerns inside the FCA &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/260323/p2#a260323p2)<!-- TECH:END -->
+ - [Sources: OpenAI is offering PE firms a guaranteed minimum return of 17.5% and early access to new models to secure JVs, an improvement on Anthropic&#39;s terms &lpar;Reuters&rpar;](http://www.techmeme.com/260323/p19#a260323p19)
+ - [Sources: EA is marketing a $15B debt package to fund its $55B Saudi-led take-private deal, including nearly $700M in projected annual cost savings &lpar;Bloomberg&rpar;](http://www.techmeme.com/260323/p18#a260323p18)
+ - [Leonid Radvinsky, the reclusive billionaire owner of OnlyFans parent Fenix, died at 43 after a long battle with cancer; he acquired the OnlyFans stake in 2018 &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/260323/p17#a260323p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
