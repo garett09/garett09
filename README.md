@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reality Labs lost $80B+, but it still makes all of Meta&#39;s hardware, and reflects Mark Zuckerberg&#39;s desire to run a business without Google or Apple as middlemen &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/260322/p12#a260322p12)
- - [AI influencer awards season is upon us](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest)
- - [Profile of John Ternus, likely Tim Cook successor, who shapes Apple&#39;s hardware portfolio, is expanding his domain within Apple, and his visibility to the public &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260322/p11#a260322p11)<!-- TECH:END -->
+ - [Survey shows something bigger than sideloading is bothering Android users](https://www.androidauthority.com/android-sideloading-poll-results-3650979/)
+ - [The Galaxy Z Fold 8 could bring a charging upgrade for the first time since 2020](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-fold-charging-3650986/)
+ - [Palantir won a three-month, £30K+/week trial to access the UK FCA&#39;s intelligence data to tackle financial crime, a source says raising concerns inside the FCA &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/260323/p2#a260323p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
