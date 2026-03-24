@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
- - 🚯 [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)
- - 🚯 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
+ - 🚖 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
+ - 🚯 [Ungrateful Girls](http://9gag.com/gag/adBzQAB)
+ - 🚯 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)<!-- MEMES:END -->
 
 --- 
 
