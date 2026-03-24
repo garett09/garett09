@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s latest Pixel 10 Pro ads are wildly unrealistic, creepy, and potentially misleading](https://www.androidauthority.com/google-pixel-10-creepy-misleading-advertisement-3651428/)
- - [BoA shaves Apple share target by $5, wierdly concerned about iPhone 18 launch timing](https://appleinsider.com/articles/26/03/24/boa-shaves-apple-share-target-by-5-wierdly-concerned-about-iphone-18-launch-timing?utm_source=rss)
- - [UK television giants demand regulatory action against big tech streaming hardware](https://appleinsider.com/articles/26/03/24/television-giants-team-up-against-dominant-streaming-os-apple-tv?utm_source=rss)<!-- TECH:END -->
+ - [Update to iOS 18.7.7, macOS 15.7.5 to fix kernel memory leaks &amp; WebKit flaws](https://appleinsider.com/articles/26/03/24/update-to-ios-1877-macos-1575-to-fix-kernel-memory-leaks-webkit-flaws?utm_source=rss)
+ - [The Lego Game Boy makes for a great gift, and it’s $10 off today](https://www.theverge.com/gadgets/899688/lego-game-boy-set-nintendo-handheld-kohls-deal-sale)
+ - [Anthropic announces an &quot;auto mode&quot; that enables Claude Code to make permission-level decisions while preventing destructive actions like mass file deletion &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260324/p35#a260324p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
