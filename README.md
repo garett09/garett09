@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Signs that the world is healing.](http://9gag.com/gag/a9yGve6)
- - 🚯 [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - 🚯 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
+ - 🚖 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 🚯 [The hero we all needed, but didnt deserve](http://9gag.com/gag/aZZY8A6)
+ - 🚯 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)<!-- MEMES:END -->
 
 --- 
 
