@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
+ - 🚖 [It was just the wind](http://9gag.com/gag/apRMx1n)
  - 🚯 [Ungrateful Girls](http://9gag.com/gag/adBzQAB)
- - 🚯 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)<!-- MEMES:END -->
+ - 🚯 [Flickering](http://9gag.com/gag/aD2vVzO)<!-- MEMES:END -->
 
 --- 
 
