@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord 6 launch date revealed alongside its enormous 9,000mAh battery, other specs](https://www.androidauthority.com/oneplus-nord-6-launch-9000-mah-battery-announced-3651326/)
- - [Filing: OpenAI petitions the UK CMA to include AI chatbots with search function in Google&#39;s mandated default search engine choice screen for Chrome and Android &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/260324/p5#a260324p5)
- - [The average smartphone will get more storage in 2026, despite price hikes](https://www.androidauthority.com/average-smartphone-storage-capacity-3651333/)<!-- TECH:END -->
+ - [Google’s latest Pixel 10 Pro ads are wildly unrealistic, creepy, and potentially misleading](https://www.androidauthority.com/google-pixel-10-creepy-misleading-advertisement-3651428/)
+ - [BoA shaves Apple share target by $5, wierdly concerned about iPhone 18 launch timing](https://appleinsider.com/articles/26/03/24/boa-shaves-apple-share-target-by-5-wierdly-concerned-about-iphone-18-launch-timing?utm_source=rss)
+ - [UK television giants demand regulatory action against big tech streaming hardware](https://appleinsider.com/articles/26/03/24/television-giants-team-up-against-dominant-streaming-os-apple-tv?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
