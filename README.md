@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The entire Sony headphone lineup is on sale today, from XM6 to budget picks](https://www.androidauthority.com/sony-headphones-spring-sale-3651171/)
- - [Memo: Meta hires the founders and team behind Dreamer, which lets users create AI agents; co-founder Hugo Barra is joining Meta Superintelligence Labs &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/260323/p34#a260323p34)
- - [The US plans to create a voluntary consortium of countries to invest $4T to secure supply chains for chips, energy, and minerals; the US will contribute $250M &lpar;New York Times&rpar;](http://www.techmeme.com/260323/p33#a260323p33)<!-- TECH:END -->
+ - [The US State Department launches the Bureau of Emerging Threats to tackle current and future threats, including cyberattacks and AI weaponization by adversaries &lpar;Shannon K. Kingston/ABC News&rpar;](http://www.techmeme.com/260323/p44#a260323p44)
+ - [The US just pulled the plug on ALL foreign-made Wi-Fi routers](https://www.androidauthority.com/fcc-wi-fi-router-ban-3651306/)
+ - [Orico HS500 MetaBox Pro 5 NAS review - Good hardware, badly let down by software](https://appleinsider.com/articles/26/03/24/orico-hs500-metabox-pro-5-nas-review---good-hardware-badly-let-down-by-software?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
