@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US State Department launches the Bureau of Emerging Threats to tackle current and future threats, including cyberattacks and AI weaponization by adversaries &lpar;Shannon K. Kingston/ABC News&rpar;](http://www.techmeme.com/260323/p44#a260323p44)
- - [The US just pulled the plug on ALL foreign-made Wi-Fi routers](https://www.androidauthority.com/fcc-wi-fi-router-ban-3651306/)
- - [Orico HS500 MetaBox Pro 5 NAS review - Good hardware, badly let down by software](https://appleinsider.com/articles/26/03/24/orico-hs500-metabox-pro-5-nas-review---good-hardware-badly-let-down-by-software?utm_source=rss)<!-- TECH:END -->
+ - [OnePlus Nord 6 launch date revealed alongside its enormous 9,000mAh battery, other specs](https://www.androidauthority.com/oneplus-nord-6-launch-9000-mah-battery-announced-3651326/)
+ - [Filing: OpenAI petitions the UK CMA to include AI chatbots with search function in Google&#39;s mandated default search engine choice screen for Chrome and Android &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/260324/p5#a260324p5)
+ - [The average smartphone will get more storage in 2026, despite price hikes](https://www.androidauthority.com/average-smartphone-storage-capacity-3651333/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
