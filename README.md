@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 🚯 [The hero we all needed, but didnt deserve](http://9gag.com/gag/aZZY8A6)
- - 🚯 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)<!-- MEMES:END -->
+ - 🚖 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
+ - 🚯 [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)
+ - 🚯 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
 
 --- 
 
