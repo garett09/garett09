@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In the end, it&#39;s not all about winning, it&#39;s about who you become.](http://9gag.com/gag/aoy7Lpg)
- - 🚯 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
- - 🚯 [How is life bro?](http://9gag.com/gag/a7ox27q)<!-- MEMES:END -->
+ - 🚖 [Happy black history month](http://9gag.com/gag/agme4Kn)
+ - 🚯 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)
+ - 🚯 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)<!-- MEMES:END -->
 
 --- 
 
