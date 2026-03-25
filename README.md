@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Update to iOS 18.7.7, macOS 15.7.5 to fix kernel memory leaks &amp; WebKit flaws](https://appleinsider.com/articles/26/03/24/update-to-ios-1877-macos-1575-to-fix-kernel-memory-leaks-webkit-flaws?utm_source=rss)
- - [The Lego Game Boy makes for a great gift, and it’s $10 off today](https://www.theverge.com/gadgets/899688/lego-game-boy-set-nintendo-handheld-kohls-deal-sale)
- - [Anthropic announces an &quot;auto mode&quot; that enables Claude Code to make permission-level decisions while preventing destructive actions like mass file deletion &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260324/p35#a260324p35)<!-- TECH:END -->
+ - [Sources: some Sora team members were surprised by OpenAI&#39;s sudden decision to end Sora support, just a day after OpenAI posted a blog on Sora safety standards &lpar;Reuters&rpar;](http://www.techmeme.com/260324/p58#a260324p58)
+ - [Source: Meta&#39;s rollout of Meta Ray-Ban Display in the EU has been hampered by regulations on AI features and removable batteries, as well as supply constraints &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p57#a260324p57)
+ - [Source: SpaceX is aiming to file its IPO prospectus with regulators later this week or next week, and could try to raise more than $75B &lpar;The Information&rpar;](http://www.techmeme.com/260324/p56#a260324p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
