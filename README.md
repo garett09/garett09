@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI is helping geologists identify thousands of slopes around the world at high risk of slipping by analyzing data from satellites and ground-based sensors &lpar;Chris Baraniuk/BBC&rpar;](http://www.techmeme.com/260325/p4#a260325p4)
- - [OnePlus 15T launched: Pocket-friendly size, but not a wallet-friendly price](https://www.androidauthority.com/oneplus-15t-3651700/)
- - [Snapdragon 8 Elite Gen 6 leak makes 2027’s Ultra phones look both exciting and scary](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-6-snapdragon-8-elite-gen-6-pro-specs-details-leak-3651703/)<!-- TECH:END -->
+ - [Sony and Honda ain’t feelin’ the Afeela anymore](https://www.theverge.com/tech/900219/sony-honda-afeela-discontinue-cancel-refund)
+ - [Valerion’s award-winning 300-inch 4K projectors just dropped by up to $1,000](https://www.androidauthority.com/valerion-projectors-deals-spring-sale-3651249/)
+ - [Apple rolls out mandatory UK age verification with iOS 26.4, requiring users to provide a credit card or ID, a first in Europe, after UK government pressure &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260325/p17#a260325p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
