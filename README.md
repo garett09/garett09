@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony and Honda ain’t feelin’ the Afeela anymore](https://www.theverge.com/tech/900219/sony-honda-afeela-discontinue-cancel-refund)
- - [Valerion’s award-winning 300-inch 4K projectors just dropped by up to $1,000](https://www.androidauthority.com/valerion-projectors-deals-spring-sale-3651249/)
- - [Apple rolls out mandatory UK age verification with iOS 26.4, requiring users to provide a credit card or ID, a first in Europe, after UK government pressure &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260325/p17#a260325p17)<!-- TECH:END -->
+ - [Google &amp; Meta found liable for social media addiction](https://appleinsider.com/articles/26/03/25/google-meta-found-liable-for-social-media-addiction?utm_source=rss)
+ - [Returning your next phone to T-Mobile is going to cost extra](https://www.androidauthority.com/t-mobile-restocking-fees-3651959/)
+ - [Can you monitor a situation without monitors? The Polymarket sports bar tried](https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
