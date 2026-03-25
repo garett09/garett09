@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia Says DLSS 5 Haters Are ‘Wrong’ As It Defends Fusing ‘Everything About The Game With Generative AI’](https://kotaku.com/dlss5-nvidia-gen-ai-graphics-jensen-huang-2000679764)
- - [Highguard Players Get Surprise Refunds On PS5 As Studio Shuts Its Doors For Good](https://kotaku.com/highguard-refunds-ps5-steam-xbox-shutdown-2000679761)
- - [Starfield&#39;s Terran Armada story DLC will let you recruit a robot who is &#39;not evil&#39; but also &#39;definitely not good&#39;](https://www.pcgamer.com/games/rpg/starfields-terran-armada-story-dlc-will-let-you-recruit-a-robot-who-is-not-evil-but-also-definitely-not-good/)<!-- GAME:END -->
+ - [New Lord of the Rings movie coming from LOTR nerd Stephen Colbert](https://www.polygon.com/new-lord-of-the-rings-movie-stephen-colbert-lotr-shadows-of-the-past/)
+ - [Once Human Console Closed Beta – Join the Supernatural Survival World on Xbox](https://news.xbox.com/en-us/2026/03/24/once-human-console-closed-beta-join-the-supernatural-survival-world-on-xbox/)
+ - [Daredevil Born Again season 2 review: Marvel’s most political show ever has one glaring flaw](https://www.polygon.com/daredevil-born-again-season-2-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
