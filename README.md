@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It was just the wind](http://9gag.com/gag/apRMx1n)
- - 🚯 [Ungrateful Girls](http://9gag.com/gag/adBzQAB)
- - 🚯 [Flickering](http://9gag.com/gag/aD2vVzO)<!-- MEMES:END -->
+ - 🚖 [But how about three?](http://9gag.com/gag/aYQ0PzO)
+ - 🚯 [It was just the wind](http://9gag.com/gag/apRMx1n)
+ - 🚯 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
 
 --- 
 
