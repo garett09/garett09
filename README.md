@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube resolves bug that kept asking if you’re human nonstop](https://www.androidauthority.com/youtube-captcha-bug-resolved-3652061/)
- - [This Meta smartglasses-detecting app is a great model for Apple Glass developers to follow](https://appleinsider.com/articles/26/02/24/this-meta-smartglasses-detecting-app-is-a-great-model-for-apple-glass-developers-to-follow?utm_source=rss)
- - [Isara, which aims to build software that can coordinate the work of thousands of AI agents, raised $94M and says OpenAI backed the startup at a $650M valuation &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260325/p44#a260325p44)<!-- TECH:END -->
+ - [Android 17 Beta 2 is no longer a Pixel exclusive &lpar;Updated: More phones&rpar;](https://www.androidauthority.com/android-17-beta-2-oneplus-15-oppo-find-x9-pro-3651774/)
+ - [Apple could adopt 200MP camera for iPhone, leapfrog Samsung in the process](https://www.androidauthority.com/apple-testing-200mp-camera-iphone-3652087/)
+ - [How Theia, a satellite imaging startup that raised $250M+ by 2020, collapsed after the founder and four other execs were indicted on federal fraud charges &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/260326/p2#a260326p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
