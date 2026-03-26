@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
- - 🚯 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)
- - 🚯 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)<!-- MEMES:END -->
+ - 🚖 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)
+ - 🚯 [Five guy fan](http://9gag.com/gag/aqyEzKQ)
+ - 🚯 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)<!-- MEMES:END -->
 
 --- 
 
