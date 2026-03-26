@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pixel phone can now help you fix frustrating Bluetooth issues](https://www.androidauthority.com/google-pixel-bluetooth-diagnostics-tool-3652181/)
- - [EU backs nude app ban and delays to landmark AI rules](https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps)
- - [Mistral launches Voxtral TTS, an open-source enterprise text-to-speech model that supports nine languages, including Hindi and Arabic, based on Ministral 3B &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260326/p20#a260326p20)<!-- TECH:END -->
+ - [Italy-based Subbyx, which builds infrastructure that lets businesses offer access-based subscriptions, raised a €30M Series A &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260326/p36#a260326p36)
+ - [Google&amp;#8217;s &amp;#8216;live&amp;#8217; AI search assistant can handle conversations in dozens more languages](https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion)
+ - [Upgrade to the Google Nest Wi-Fi Pro while it’s at its cheapest price ever!](https://www.androidauthority.com/google-nest-wi-fi-pro-deal-4-3652334/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
