@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)
- - 🚯 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
- - 🚯 [Hear me out](http://9gag.com/gag/aQzjZ0z)<!-- MEMES:END -->
+ - 🚖 [How I enjoy my sweet after my dinner](http://9gag.com/gag/aW4X2W4)
+ - 🚯 [Val Kilmer\u2019s rapid-fire reload during the bank heist in Heat &lpar;1995&rpar; was so technically perfect that the footage was later used by Special Forces instructors as a training example for `proper magazine changes under fire.`](http://9gag.com/gag/aVv62q8)
+ - 🚯 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)<!-- MEMES:END -->
 
 --- 
 
