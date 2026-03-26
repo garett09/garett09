@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 Beta 2 is no longer a Pixel exclusive &lpar;Updated: More phones&rpar;](https://www.androidauthority.com/android-17-beta-2-oneplus-15-oppo-find-x9-pro-3651774/)
- - [Apple could adopt 200MP camera for iPhone, leapfrog Samsung in the process](https://www.androidauthority.com/apple-testing-200mp-camera-iphone-3652087/)
- - [How Theia, a satellite imaging startup that raised $250M+ by 2020, collapsed after the founder and four other execs were indicted on federal fraud charges &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/260326/p2#a260326p2)<!-- TECH:END -->
+ - [Your Pixel phone can now help you fix frustrating Bluetooth issues](https://www.androidauthority.com/google-pixel-bluetooth-diagnostics-tool-3652181/)
+ - [EU backs nude app ban and delays to landmark AI rules](https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps)
+ - [Mistral launches Voxtral TTS, an open-source enterprise text-to-speech model that supports nine languages, including Hindi and Arabic, based on Ministral 3B &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260326/p20#a260326p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
