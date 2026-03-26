@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google &amp; Meta found liable for social media addiction](https://appleinsider.com/articles/26/03/25/google-meta-found-liable-for-social-media-addiction?utm_source=rss)
- - [Returning your next phone to T-Mobile is going to cost extra](https://www.androidauthority.com/t-mobile-restocking-fees-3651959/)
- - [Can you monitor a situation without monitors? The Polymarket sports bar tried](https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket)<!-- TECH:END -->
+ - [YouTube resolves bug that kept asking if you’re human nonstop](https://www.androidauthority.com/youtube-captcha-bug-resolved-3652061/)
+ - [This Meta smartglasses-detecting app is a great model for Apple Glass developers to follow](https://appleinsider.com/articles/26/02/24/this-meta-smartglasses-detecting-app-is-a-great-model-for-apple-glass-developers-to-follow?utm_source=rss)
+ - [Isara, which aims to build software that can coordinate the work of thousands of AI agents, raised $94M and says OpenAI backed the startup at a $650M valuation &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260325/p44#a260325p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
