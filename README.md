@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Moonshot AI may scrap its Cayman structure for a China or Hong Kong entity to prepare for a Hong Kong IPO and plans to raise funding at ~$18B valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260327/p3#a260327p3)
- - [Android 17 could make your phone’s best camera features work in every app](https://www.androidauthority.com/android-17-beta-3-vendor-defined-camera-extensions-3652506/)
- - [Meta&#39;s Oversight Board says Community Notes aren&#39;t a proper substitute for fact checking, and warns expanding them beyond the US could pose human rights risks &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/260327/p2#a260327p2)<!-- TECH:END -->
+ - [Sony says it plans to raise the price of its PlayStation 5 consoles globally beginning on April 2; the PS5 will cost $650, PS5 Digital $600, and PS5 Pro $900 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260327/p7#a260327p7)
+ - [The first domino? OnePlus might be closing offline sales in key market.](https://www.androidauthority.com/oneplus-india-close-offline-retail-stores-3652618/)
+ - [Studio Display XDR review: An almost pixel perfect monitor for creative pros](https://appleinsider.com/articles/26/03/27/studio-display-xdr-review-an-almost-pixel-perfect-monitor-for-creative-pros?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
