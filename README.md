@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Lord of the Rings movie coming from LOTR nerd Stephen Colbert](https://www.polygon.com/new-lord-of-the-rings-movie-stephen-colbert-lotr-shadows-of-the-past/)
- - [Once Human Console Closed Beta – Join the Supernatural Survival World on Xbox](https://news.xbox.com/en-us/2026/03/24/once-human-console-closed-beta-join-the-supernatural-survival-world-on-xbox/)
- - [Daredevil Born Again season 2 review: Marvel’s most political show ever has one glaring flaw](https://www.polygon.com/daredevil-born-again-season-2-review/)<!-- GAME:END -->
+ - [Sony announces more PS5 price hikes](https://www.polygon.com/ps5-price-increase-sony-playstation-portal/)
+ - [This simple gaming chair bracket could have saved me years of sim racing with two wooden blocks holding my pedals in place](https://www.pcgamer.com/hardware/steering-wheels/this-simple-gaming-chair-bracket-could-have-saved-me-years-of-sim-racing-with-two-wooden-blocks-holding-my-pedals-in-place/)
+ - [&lpar;For Southeast Asia&rpar; New Price Changes for PS5, PS5 Pro, and PlayStation Portal remote player](https://blog.playstation.com/2026/03/27/20260327-ps/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
