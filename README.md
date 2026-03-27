@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony says it plans to raise the price of its PlayStation 5 consoles globally beginning on April 2; the PS5 will cost $650, PS5 Digital $600, and PS5 Pro $900 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260327/p7#a260327p7)
- - [The first domino? OnePlus might be closing offline sales in key market.](https://www.androidauthority.com/oneplus-india-close-offline-retail-stores-3652618/)
- - [Studio Display XDR review: An almost pixel perfect monitor for creative pros](https://appleinsider.com/articles/26/03/27/studio-display-xdr-review-an-almost-pixel-perfect-monitor-for-creative-pros?utm_source=rss)<!-- TECH:END -->
+ - [The FBI confirms Iran-linked Handala breached Kash Patel&#39;s personal email and the data accessed was &quot;historical in nature&quot; and involves no government info &lpar;TechCrunch&rpar;](http://www.techmeme.com/260327/p16#a260327p16)
+ - [The latest in data centers, AI, and energy](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)
+ - [Anker’s 160W Prime Charger can power three devices at once, and it&amp;#8217;s $50 off](https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
