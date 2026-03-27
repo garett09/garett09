@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Italy-based Subbyx, which builds infrastructure that lets businesses offer access-based subscriptions, raised a €30M Series A &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260326/p36#a260326p36)
- - [Google&amp;#8217;s &amp;#8216;live&amp;#8217; AI search assistant can handle conversations in dozens more languages](https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion)
- - [Upgrade to the Google Nest Wi-Fi Pro while it’s at its cheapest price ever!](https://www.androidauthority.com/google-nest-wi-fi-pro-deal-4-3652334/)<!-- TECH:END -->
+ - [Sources: SpaceX&#39;s IPO plans include investor visits to its sites, unusual lockup periods, and preferential treatment for investors in Musk&#39;s other companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p52#a260326p52)
+ - [Motorola’s next Razr Ultra leak hints at a thicker, but potentially better Galaxy Z Flip 8 rival](https://www.androidauthority.com/motorola-razr-ultra-2026-leak-3652450/)
+ - [Source: Elon Musk is discussing allocating as much as 30% of SpaceX&#39;s IPO to individual investors, at least three times the usual retail slice &lpar;Reuters&rpar;](http://www.techmeme.com/260326/p51#a260326p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
