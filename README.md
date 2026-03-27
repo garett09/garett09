@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - 🚯 [She relaxed](http://9gag.com/gag/aVv6VyM)
- - 🚯 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)<!-- MEMES:END -->
+ - 🚖 [If you don\u2019t understand this, you lived a bullshit life](http://9gag.com/gag/a9yGDAK)
+ - 🚯 [Uploading my old 9gag collection 154](http://9gag.com/gag/aLnEr9V)
+ - 🚯 [The legendary outlaw](http://9gag.com/gag/aD2vQx7)<!-- MEMES:END -->
 
 --- 
 
