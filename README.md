@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How I enjoy my sweet after my dinner](http://9gag.com/gag/aW4X2W4)
- - 🚯 [Val Kilmer\u2019s rapid-fire reload during the bank heist in Heat &lpar;1995&rpar; was so technically perfect that the footage was later used by Special Forces instructors as a training example for `proper magazine changes under fire.`](http://9gag.com/gag/aVv62q8)
- - 🚯 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)<!-- MEMES:END -->
+ - 🚖 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
+ - 🚯 [Is it multicultural enough](http://9gag.com/gag/aNDbjqw)
+ - 🚯 [No way it was a woman](http://9gag.com/gag/a2vXLDw)<!-- MEMES:END -->
 
 --- 
 
