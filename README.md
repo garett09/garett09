@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What?](http://9gag.com/gag/aQzjVVq)
- - 🚯 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - 🚯 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)<!-- MEMES:END -->
+ - 🚖 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
+ - 🚯 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
+ - 🚯 [Just kids from Syria, having some fun... &gt;_&gt;](http://9gag.com/gag/aByev7N)<!-- MEMES:END -->
 
 --- 
 
