@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worth, which aims to help financial services onboard and underwrite SMBs, raised a $30M Series A led by Fulcrum Equity Partners, following a $25M seed round &lpar;Brian Contreras/Inc&rpar;](http://www.techmeme.com/260327/p31#a260327p31)
- - [Despite Anthropic winning a ruling against the DOD in California, it must still convince the DC Circuit Court of Appeals to lift the supply chain risk label &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/260327/p30#a260327p30)
- - [A Jeffrey Epstein victim files a class action against the Trump administration and Google, claiming Google&#39;s search and AI Mode published victims&#39; personal info &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/260327/p29#a260327p29)<!-- TECH:END -->
+ - [Prediction market bets decided on linguistic technicalities expose how hard it is to turn language into a binary market, with payouts hinging on a single word &lpar;Christopher Beam/Bloomberg&rpar;](http://www.techmeme.com/260328/p4#a260328p4)
+ - [Meta&#39;s longtime content policy chief Monika Bickert is leaving the company to teach at Harvard; she will stay at Meta until August to work on a transition plan &lpar;Reuters&rpar;](http://www.techmeme.com/260328/p3#a260328p3)
+ - [Investment in Austin-based startups grew to a record high of $7.19B in 2025, up from $4.37B in 2024 and topping a pandemic peak of $6.1B in 2021 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260328/p2#a260328p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
