@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why OpenAI killed Sora](https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition)
- - [The must-have app for frequent flyers](https://www.theverge.com/tech/902558/flighty-airport-bait-show-notion-installer)
- - [What Is the Best Garmin Watch Right Now? &lpar;2026&rpar;](https://www.wired.com/story/best-garmin-watch/)<!-- TECH:END -->
+ - [ShinyHunters says it stole 350GB+ of data in a cyberattack on the European Commission, detected on March 24; the EC says its internal systems were not affected &lpar;Pierluigi Paganini/Security Affairs&rpar;](http://www.techmeme.com/260328/p10#a260328p10)
+ - [The INIU Pocket Rocket P50 is the ultra-portable 10,000mAh power bank you’ve been waiting for](https://www.androidauthority.com/iniu-pocket-rocket-p50-spring-sale-3651438/)
+ - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
