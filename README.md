@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - 🚯 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - 🚯 [Just kids from Syria, having some fun... &gt;_&gt;](http://9gag.com/gag/aByev7N)<!-- MEMES:END -->
+ - 🚖 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)
+ - 🚯 [Shamelessly](http://9gag.com/gag/apRMde9)
+ - 🚯 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)<!-- MEMES:END -->
 
 --- 
 
