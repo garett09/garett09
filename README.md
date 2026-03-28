@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crimson Desert interactive maps](https://www.polygon.com/map/crimson-desert-interactive-pywel-hernand-demeniss-pailune-delesyia/)
- - [Developer of cozy tea shop adventure Wanderstop is shutting down: &#39;It&#39;s a particularly tough time for raising game funds&#39;](https://www.pcgamer.com/gaming-industry/developer-of-cozy-tea-shop-adventure-wanderstop-is-shutting-down-its-a-particularly-tough-time-for-raising-game-funds/)
- - [Zero Parades devs knew they didn&#39;t want to make another cop game after Disco Elysium: &#39;How people think of the police these days, it&#39;s a bit different&#39;](https://www.pcgamer.com/games/rpg/zero-parades-devs-knew-they-didnt-want-to-make-another-cop-game-after-disco-elysium-how-people-think-of-the-police-these-days-its-a-bit-different/)<!-- GAME:END -->
+ - [The rise of the ‘outsider AAA’ studio, from The Witcher to Crimson Desert](https://www.polygon.com/new-aaa-studios/)
+ - [Lawn Mowing Simulator 2 takes to Kickstarter with the lushest virtual grass I&#39;ve ever seen](https://www.pcgamer.com/games/sim/lawn-mowing-simulator-2-takes-to-kickstarter-with-the-lushest-virtual-grass-ive-ever-seen/)
+ - [Dangerous Animals is the scariest shark movie since Jaws, and it&#39;s finally on streaming](https://www.polygon.com/dangerous-animals-streaming-on-hulu/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
