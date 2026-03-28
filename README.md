@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI confirms Iran-linked Handala breached Kash Patel&#39;s personal email and the data accessed was &quot;historical in nature&quot; and involves no government info &lpar;TechCrunch&rpar;](http://www.techmeme.com/260327/p16#a260327p16)
- - [The latest in data centers, AI, and energy](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)
- - [Anker’s 160W Prime Charger can power three devices at once, and it&amp;#8217;s $50 off](https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
+ - [Worth, which aims to help financial services onboard and underwrite SMBs, raised a $30M Series A led by Fulcrum Equity Partners, following a $25M seed round &lpar;Brian Contreras/Inc&rpar;](http://www.techmeme.com/260327/p31#a260327p31)
+ - [Despite Anthropic winning a ruling against the DOD in California, it must still convince the DC Circuit Court of Appeals to lift the supply chain risk label &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/260327/p30#a260327p30)
+ - [A Jeffrey Epstein victim files a class action against the Trump administration and Google, claiming Google&#39;s search and AI Mode published victims&#39; personal info &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/260327/p29#a260327p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
