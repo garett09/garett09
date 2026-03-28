@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prediction market bets decided on linguistic technicalities expose how hard it is to turn language into a binary market, with payouts hinging on a single word &lpar;Christopher Beam/Bloomberg&rpar;](http://www.techmeme.com/260328/p4#a260328p4)
- - [Meta&#39;s longtime content policy chief Monika Bickert is leaving the company to teach at Harvard; she will stay at Meta until August to work on a transition plan &lpar;Reuters&rpar;](http://www.techmeme.com/260328/p3#a260328p3)
- - [Investment in Austin-based startups grew to a record high of $7.19B in 2025, up from $4.37B in 2024 and topping a pandemic peak of $6.1B in 2021 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260328/p2#a260328p2)<!-- TECH:END -->
+ - [Why OpenAI killed Sora](https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition)
+ - [The must-have app for frequent flyers](https://www.theverge.com/tech/902558/flighty-airport-bait-show-notion-installer)
+ - [What Is the Best Garmin Watch Right Now? &lpar;2026&rpar;](https://www.wired.com/story/best-garmin-watch/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
