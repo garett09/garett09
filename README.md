@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
- - 🚯 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
- - 🚯 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)<!-- MEMES:END -->
+ - 🚖 [Just a Bunny](http://9gag.com/gag/aD2vN37)
+ - 🚯 [Princesses knights](http://9gag.com/gag/aAy9NvE)
+ - 🚯 [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)<!-- MEMES:END -->
 
 --- 
 
