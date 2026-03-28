@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All bank locations in Borderlands 4](https://www.polygon.com/borderlands-4-all-bank-locations/)
- - [New GigaBash DLC Adds New Maps, Original Characters, and Story Chapter](https://news.xbox.com/en-us/2026/03/27/new-gigabash-dlc/)
- - [After Next Week, The PS5 Pro Might Never Be Worth Buying Again](https://kotaku.com/after-next-week-the-ps5-pro-might-never-be-worth-buying-again-2000682689)<!-- GAME:END -->
+ - [Developer of cozy tea shop adventure Wanderstop is shutting down: &#39;It&#39;s a particularly tough time for raising game funds&#39;](https://www.pcgamer.com/gaming-industry/developer-of-cozy-tea-shop-adventure-wanderstop-is-shutting-down-its-a-particularly-tough-time-for-raising-game-funds/)
+ - [Zero Parades devs knew they didn&#39;t want to make another cop game after Disco Elysium: &#39;How people think of the police these days, it&#39;s a bit different&#39;](https://www.pcgamer.com/games/rpg/zero-parades-devs-knew-they-didnt-want-to-make-another-cop-game-after-disco-elysium-how-people-think-of-the-police-these-days-its-a-bit-different/)
+ - [Get every Frictional horror game ever made—Penumbra, Amnesia, and SOMA—for just $15 in this screamingly good bundle](https://www.pcgamer.com/games/horror/get-every-frictional-horror-game-ever-made-penumbra-amnesia-and-soma-for-just-usd15-in-this-screamingly-good-bundle/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
