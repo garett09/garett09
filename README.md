@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
- - 🚯 [Very bold](http://9gag.com/gag/aD2vrW7)
- - 🚯 [I&#39;m sorry, what?](http://9gag.com/gag/aKGMnQQ)<!-- MEMES:END -->
+ - 🚖 [Very bold](http://9gag.com/gag/aD2vrW7)
+ - 🚯 [It is peaceful life](http://9gag.com/gag/aKGMLX1)
+ - 🚯 [Puttee fold](http://9gag.com/gag/aAy9qBp)<!-- MEMES:END -->
 
 --- 
 
