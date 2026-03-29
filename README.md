@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Israel&#39;s Iron Beam Laser in Action. Footage just dropped showing the new high-energy laser system intercepting incoming rockets and drones. No more $50k missiles for cheap threats \u2014 each laser `shot` costs just a few dollars in electricity. This is the future of air defense.](http://9gag.com/gag/an7odPq)
- - 🚯 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
- - 🚯 [The show must always go on](http://9gag.com/gag/aXPOd4b)<!-- MEMES:END -->
+ - 🚖 [This waiter is living in 3024](http://9gag.com/gag/aNDb200)
+ - 🚯 [Very bold](http://9gag.com/gag/aD2vrW7)
+ - 🚯 [I&#39;m sorry, what?](http://9gag.com/gag/aKGMnQQ)<!-- MEMES:END -->
 
 --- 
 
