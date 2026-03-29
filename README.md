@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Mark Lanier, a TX lawyer and part-time pastor who beat Meta and Google in the LA social media case and said Zuckerberg was &quot;rattled&quot; on the stand &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260328/p12#a260328p12)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 29 #756](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-29-756/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 29, #1022](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-29-1022/)<!-- TECH:END -->
+ - [Q&amp;A with YouTube CEO Neal Mohan on the platform&#39;s dominance, its impact on kids, the suspension and reinstatement of Trump&#39;s YouTube account, AI slop, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/260329/p4#a260329p4)
+ - [Analysis: while social media rewards sensationalism and inflammatory content, LLMs guide people away from extreme positions and towards expert-aligned stances &lpar;John Burn-Murdoch/Financial Times&rpar;](http://www.techmeme.com/260329/p3#a260329p3)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-29/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
