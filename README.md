@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ShinyHunters says it stole 350GB+ of data in a cyberattack on the European Commission, detected on March 24; the EC says its internal systems were not affected &lpar;Pierluigi Paganini/Security Affairs&rpar;](http://www.techmeme.com/260328/p10#a260328p10)
- - [The INIU Pocket Rocket P50 is the ultra-portable 10,000mAh power bank you’ve been waiting for](https://www.androidauthority.com/iniu-pocket-rocket-p50-spring-sale-3651438/)
- - [The best deals we’ve found from Amazon’s Big Spring Sale &lpar;so far&rpar;](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
+ - [A profile of Mark Lanier, a TX lawyer and part-time pastor who beat Meta and Google in the LA social media case and said Zuckerberg was &quot;rattled&quot; on the stand &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260328/p12#a260328p12)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 29 #756](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-29-756/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 29, #1022](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-29-1022/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
