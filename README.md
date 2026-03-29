@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very bold](http://9gag.com/gag/aD2vrW7)
- - 🚯 [It is peaceful life](http://9gag.com/gag/aKGMLX1)
- - 🚯 [Puttee fold](http://9gag.com/gag/aAy9qBp)<!-- MEMES:END -->
+ - 🚖 [Watching a Disney artist bring a drawing to life is pure magic](http://9gag.com/gag/a6ZRerL)
+ - 🚯 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
+ - 🚯 [When you trust your life to the laws of physics when being ejected at 80 km/h from a truck moving at 80 km/h.](http://9gag.com/gag/a34Oz0r)<!-- MEMES:END -->
 
 --- 
 
