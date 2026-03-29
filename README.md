@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Macintosh changed computers forever](https://www.theverge.com/podcast/903068/macintosh-1984-version-history)
- - [Gmail cleanup: How I went from 2,341 unread emails to Inbox Zero in three steps](https://www.androidauthority.com/gmail-inbox-zero-system-3652579/)
- - [Apple’s long, bitter App Store antitrust war](https://www.theverge.com/column/902668/apple-antitrust-app-store-war)<!-- TECH:END -->
+ - [Trump Phone Reportedly Costs More, Looks Different, Isn&#39;t Made in America](https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/)
+ - [Bluesky&#39;s CEO talks about their new app, Attie, an agentic social app built on Bluesky&#39;s AT Protocol, which uses Claude and enables users to build custom feeds &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260329/p7#a260329p7)
+ - [10 of the Best Movies on Hulu You Should Watch Now](https://www.cnet.com/tech/services-and-software/10-of-the-best-movies-on-hulu-you-should-stream-now/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
