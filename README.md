@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Older Galaxy phones are now getting AirDrop support, but don’t celebrate yet](https://www.androidauthority.com/older-samsung-phones-airdrop-support-3652987/)
- - [Exclusive: Android could soon get its own AirDrop-style ‘tap to share’ feature](https://www.androidauthority.com/android-tap-to-share-quick-share-3652981/)
- - [Emails, texts, and NTSB reports show Waymo and an Austin school district struggled for months to train robotaxis to stop for school buses as required by law &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260330/p3#a260330p3)<!-- TECH:END -->
+ - [The origin story of Apple’s long-running relationship with FoxConn](https://www.theverge.com/tech/898077/apple-in-china-patrick-mcgee-foxconn)
+ - [New York-based Qodo, which offers AI agents for code review, testing, and governance, raised a $70M Series B led by Qumra, taking its total funding to $120M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/260330/p20#a260330p20)
+ - [Never mind the iPhone: This new phone might be the best for video capture](https://www.androidauthority.com/vivo-x300-ultra-3653041/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
