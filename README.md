@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The origin story of Apple’s long-running relationship with FoxConn](https://www.theverge.com/tech/898077/apple-in-china-patrick-mcgee-foxconn)
- - [New York-based Qodo, which offers AI agents for code review, testing, and governance, raised a $70M Series B led by Qumra, taking its total funding to $120M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/260330/p20#a260330p20)
- - [Never mind the iPhone: This new phone might be the best for video capture](https://www.androidauthority.com/vivo-x300-ultra-3653041/)<!-- TECH:END -->
+ - [OnePlus shutdown rumors have our readers split right down the middle](https://www.androidauthority.com/oneplus-shutdown-this-year-poll-result-3653218/)
+ - [Apple Intelligence finally rolls out in China](https://appleinsider.com/articles/26/03/30/apple-intelligence-finally-rolls-out-in-china?utm_source=rss)
+ - [Sources: US prosecutors are exploring whether some prediction market bets, including on the capture of Nicolás Maduro, violated insider trading and other laws &lpar;Kara Scannell/CNN&rpar;](http://www.techmeme.com/260330/p37#a260330p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
