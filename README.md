@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Watching a Disney artist bring a drawing to life is pure magic](http://9gag.com/gag/a6ZRerL)
- - 🚯 [It&#39;s over for young generation](http://9gag.com/gag/aD2vrpx)
- - 🚯 [When you trust your life to the laws of physics when being ejected at 80 km/h from a truck moving at 80 km/h.](http://9gag.com/gag/a34Oz0r)<!-- MEMES:END -->
+ - 🚖 [I&#39;ve been having strange, recurring dreams about a place like this. A field with some enormous trees. I feel fear and a sense of danger when I look at the trees.](http://9gag.com/gag/ayNKZBX)
+ - 🚯 [Now THAT&#39;S clean magic!](http://9gag.com/gag/aByeNd1)
+ - 🚯 [Just give me the burger](http://9gag.com/gag/aByejoN)<!-- MEMES:END -->
 
 --- 
 
