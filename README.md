@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have a nice day!](http://9gag.com/gag/aByej7Q)
- - 🚯 [He is probably a 9gagger](http://9gag.com/gag/aByeb8D)
- - 🚯 [Wooden Rave](http://9gag.com/gag/ae9BqGO)<!-- MEMES:END -->
+ - 🚖 [Ireland](http://9gag.com/gag/an7o0Vq)
+ - 🚯 [The real Severus Snape](http://9gag.com/gag/ayNKmjV)
+ - 🚯 [This dog is so talented](http://9gag.com/gag/aVv69Q8)<!-- MEMES:END -->
 
 --- 
 
