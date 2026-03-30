@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ireland](http://9gag.com/gag/an7o0Vq)
- - 🚯 [The real Severus Snape](http://9gag.com/gag/ayNKmjV)
- - 🚯 [This dog is so talented](http://9gag.com/gag/aVv69Q8)<!-- MEMES:END -->
+ - 🚖 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)
+ - 🚯 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
+ - 🚯 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)<!-- MEMES:END -->
 
 --- 
 
