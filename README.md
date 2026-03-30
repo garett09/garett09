@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the latest in AI &amp;#8216;music&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit)
- - [Some developers say the App Store review process is taking significantly longer, up to multiple weeks, with an influx of vibe-coded apps as the likely cause &lpar;Business Insider&rpar;](http://www.techmeme.com/260329/p11#a260329p11)
- - [Midjourney CEO David Holz says the company&#39;s revenue &quot;significantly surpassed&quot; $200M in 2023, and has &quot;gone up&quot; since then, despite its declining web traffic &lpar;Jemima McEvoy/The Information&rpar;](http://www.techmeme.com/260329/p10#a260329p10)<!-- TECH:END -->
+ - [Older Galaxy phones are now getting AirDrop support, but don’t celebrate yet](https://www.androidauthority.com/older-samsung-phones-airdrop-support-3652987/)
+ - [Exclusive: Android could soon get its own AirDrop-style ‘tap to share’ feature](https://www.androidauthority.com/android-tap-to-share-quick-share-3652981/)
+ - [Emails, texts, and NTSB reports show Waymo and an Austin school district struggled for months to train robotaxis to stop for school buses as required by law &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260330/p3#a260330p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
