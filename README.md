@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus shutdown rumors have our readers split right down the middle](https://www.androidauthority.com/oneplus-shutdown-this-year-poll-result-3653218/)
- - [Apple Intelligence finally rolls out in China](https://appleinsider.com/articles/26/03/30/apple-intelligence-finally-rolls-out-in-china?utm_source=rss)
- - [Sources: US prosecutors are exploring whether some prediction market bets, including on the capture of Nicolás Maduro, violated insider trading and other laws &lpar;Kara Scannell/CNN&rpar;](http://www.techmeme.com/260330/p37#a260330p37)<!-- TECH:END -->
+ - [Meta will let you secretly watch Stories if you pay for Instagram Plus in limited test](https://www.androidauthority.com/instagram-plus-subscription-test-3653387/)
+ - [California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260330/p46#a260330p46)
+ - [150 million users later, Roblox competitor Rec Room is shutting down](https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
