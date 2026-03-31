@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta will let you secretly watch Stories if you pay for Instagram Plus in limited test](https://www.androidauthority.com/instagram-plus-subscription-test-3653387/)
- - [California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260330/p46#a260330p46)
- - [150 million users later, Roblox competitor Rec Room is shutting down](https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down)<!-- TECH:END -->
+ - [Walmart’s next Onn device could replace your ageing Chromecast with Google TV](https://www.androidauthority.com/walmart-onn-4k-google-tv-stick-leak-3653410/)
+ - [Official data shows India&#39;s smartphone exports hit $11B in H1 FY2026, up 55% YoY; analysts warn the Iran war could trigger a 22% to 25% drop in the coming weeks &lpar;Quratulain Rehbar/Nikkei Asia&rpar;](http://www.techmeme.com/260331/p3#a260331p3)
+ - [Google just made wireless emergency alerts way more useful on Android](https://www.androidauthority.com/wireless-emergency-alerts-map-view-android-3653406/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
