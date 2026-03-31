@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
- - 🚯 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - 🚯 [Pre smartphone game](http://9gag.com/gag/agmepQ1)<!-- MEMES:END -->
+ - 🚖 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 🚯 [Just motorbike things](http://9gag.com/gag/aW4XARd)
+ - 🚯 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)<!-- MEMES:END -->
 
 --- 
 
