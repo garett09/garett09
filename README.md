@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Cycle](http://9gag.com/gag/aD2vqgG)
- - 🚯 [Lucky](http://9gag.com/gag/aoy7Gqn)
- - 🚯 [OSHA is calling](http://9gag.com/gag/abA8LNB)<!-- MEMES:END -->
+ - 🚖 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
+ - 🚯 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 🚯 [Pre smartphone game](http://9gag.com/gag/agmepQ1)<!-- MEMES:END -->
 
 --- 
 
