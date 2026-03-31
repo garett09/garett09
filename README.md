@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart’s next Onn device could replace your ageing Chromecast with Google TV](https://www.androidauthority.com/walmart-onn-4k-google-tv-stick-leak-3653410/)
- - [Official data shows India&#39;s smartphone exports hit $11B in H1 FY2026, up 55% YoY; analysts warn the Iran war could trigger a 22% to 25% drop in the coming weeks &lpar;Quratulain Rehbar/Nikkei Asia&rpar;](http://www.techmeme.com/260331/p3#a260331p3)
- - [Google just made wireless emergency alerts way more useful on Android](https://www.androidauthority.com/wireless-emergency-alerts-map-view-android-3653406/)<!-- TECH:END -->
+ - [AirPods Max 2 review: Familiar features &amp; design, but needs more](https://appleinsider.com/articles/26/03/31/airpods-max-2-review-familiar-features-design-but-needs-more?utm_source=rss)
+ - [The AirPods Max 2 are a great sequel, but not an ambitious one](https://www.theverge.com/tech/903754/apple-airpods-max-2-review)
+ - [Nvidia rolls out DLSS 4.5 update with new frame generation features](https://www.theverge.com/tech/903934/nvidia-dlss-4-5-multi-frame-generation-app-beta-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
