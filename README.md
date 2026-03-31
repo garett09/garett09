@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [UK officer confiscated the national flag from woman because it&#39;s offensive](http://9gag.com/gag/aW4Xer2)
- - 🚯 [The Cycle](http://9gag.com/gag/aD2vqgG)
- - 🚯 [She ended up winning a Grammy for this song](http://9gag.com/gag/ae9BqGb)<!-- MEMES:END -->
+ - 🚖 [The Cycle](http://9gag.com/gag/aD2vqgG)
+ - 🚯 [Lucky](http://9gag.com/gag/aoy7Gqn)
+ - 🚯 [OSHA is calling](http://9gag.com/gag/abA8LNB)<!-- MEMES:END -->
 
 --- 
 
