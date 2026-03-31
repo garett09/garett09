@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)
- - 🚯 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
- - 🚯 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)<!-- MEMES:END -->
+ - 🚖 [UK officer confiscated the national flag from woman because it&#39;s offensive](http://9gag.com/gag/aW4Xer2)
+ - 🚯 [The Cycle](http://9gag.com/gag/aD2vqgG)
+ - 🚯 [She ended up winning a Grammy for this song](http://9gag.com/gag/ae9BqGb)<!-- MEMES:END -->
 
 --- 
 
