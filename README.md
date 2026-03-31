@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Max 2 review: Familiar features &amp; design, but needs more](https://appleinsider.com/articles/26/03/31/airpods-max-2-review-familiar-features-design-but-needs-more?utm_source=rss)
- - [The AirPods Max 2 are a great sequel, but not an ambitious one](https://www.theverge.com/tech/903754/apple-airpods-max-2-review)
- - [Nvidia rolls out DLSS 4.5 update with new frame generation features](https://www.theverge.com/tech/903934/nvidia-dlss-4-5-multi-frame-generation-app-beta-launch)<!-- TECH:END -->
+ - [Gemini for Home’s new ‘expressive’ lighting controls let you describe the vibes](https://www.androidauthority.com/gemini-home-expressive-lighting-3653611/)
+ - [Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games](https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability)
+ - [No Kings is taking back Americana](https://www.theverge.com/policy/904405/no-kings-protests-portland-americana)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
