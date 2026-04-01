@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - 🚯 [Just motorbike things](http://9gag.com/gag/aW4XARd)
+ - 🚖 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
+ - 🚯 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
  - 🚯 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)<!-- MEMES:END -->
 
 --- 
