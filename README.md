@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - 🚯 [Just motorbike things](http://9gag.com/gag/aW4XARd)
- - 🚯 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)<!-- MEMES:END -->
+ - 🚖 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
+ - 🚯 [Just why](http://9gag.com/gag/amoZyWv)
+ - 🚯 [A guide for 9gag](http://9gag.com/gag/aKGMM41)<!-- MEMES:END -->
 
 --- 
 
