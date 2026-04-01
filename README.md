@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you: Google Fi subscribers report mobile data issues](https://www.androidauthority.com/google-fi-mobile-data-sim-issues-3653900/)
- - [South Korean trade data: chip shipments hit a record-high value of $32.83B in March 2026, up 151.4% YoY, pushing total exports to a record $86.13B, up 48.3% YoY &lpar;Steven Borowiec/Nikkei Asia&rpar;](http://www.techmeme.com/260401/p9#a260401p9)
- - [The jury verdicts against Meta and YouTube recognized some platform design features as defective, distinct from what Section 230 was created to protect &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260401/p8#a260401p8)<!-- TECH:END -->
+ - [If this project succeeds, your Time Capsule may not be killed off in macOS 27](https://appleinsider.com/articles/26/04/01/if-this-project-succeeds-your-time-capsule-may-not-be-killed-off-in-macos-27?utm_source=rss)
+ - [AI can push your Stream Deck buttons for you](https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update)
+ - [India says foreign investment gains made before 2017 are exempt from its General Anti-Avoidance Rules, after a court required Tiger to pay $1.6B on a 2018 sale &lpar;Reuters&rpar;](http://www.techmeme.com/260401/p18#a260401p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
