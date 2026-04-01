@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If this project succeeds, your Time Capsule may not be killed off in macOS 27](https://appleinsider.com/articles/26/04/01/if-this-project-succeeds-your-time-capsule-may-not-be-killed-off-in-macos-27?utm_source=rss)
- - [AI can push your Stream Deck buttons for you](https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update)
- - [India says foreign investment gains made before 2017 are exempt from its General Anti-Avoidance Rules, after a court required Tiger to pay $1.6B on a 2018 sale &lpar;Reuters&rpar;](http://www.techmeme.com/260401/p18#a260401p18)<!-- TECH:END -->
+ - [Franklin Templeton agrees to acquire CoinFund spinoff 250 Digital to form Franklin Crypto, which will offer strategies designed for institutional investors &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260401/p32#a260401p32)
+ - [AirTag 2 gets improved anti-stalking capabilities with new firmware update](https://appleinsider.com/articles/26/04/01/airtag-2-gets-improved-anti-stalking-capabilities-with-new-firmware-update?utm_source=rss)
+ - [ANBERNIC’s screen-flipping handheld appears in new videos](https://www.androidauthority.com/anbernic-mysterious-handheld-videos-3654086/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
