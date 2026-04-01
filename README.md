@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aluminium OS wallpapers leak, offering an early glimpse at Google’s next laptop platform](https://www.androidauthority.com/aluminium-os-wallpapers-leak-3653880/)
- - [Robotaxi Outage in China Leaves Passengers Stranded on Highways](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/)
- - [Depthfirst, which aims to build a &quot;general security intelligence&quot; for finding and fixing company vulnerabilities, raised an $80M Series B at a $580M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/260331/p67#a260331p67)<!-- TECH:END -->
+ - [It’s not just you: Google Fi subscribers report mobile data issues](https://www.androidauthority.com/google-fi-mobile-data-sim-issues-3653900/)
+ - [South Korean trade data: chip shipments hit a record-high value of $32.83B in March 2026, up 151.4% YoY, pushing total exports to a record $86.13B, up 48.3% YoY &lpar;Steven Borowiec/Nikkei Asia&rpar;](http://www.techmeme.com/260401/p9#a260401p9)
+ - [The jury verdicts against Meta and YouTube recognized some platform design features as defective, distinct from what Section 230 was created to protect &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260401/p8#a260401p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
