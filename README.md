@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini for Home’s new ‘expressive’ lighting controls let you describe the vibes](https://www.androidauthority.com/gemini-home-expressive-lighting-3653611/)
- - [Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games](https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability)
- - [No Kings is taking back Americana](https://www.theverge.com/policy/904405/no-kings-protests-portland-americana)<!-- TECH:END -->
+ - [Aluminium OS wallpapers leak, offering an early glimpse at Google’s next laptop platform](https://www.androidauthority.com/aluminium-os-wallpapers-leak-3653880/)
+ - [Robotaxi Outage in China Leaves Passengers Stranded on Highways](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/)
+ - [Depthfirst, which aims to build a &quot;general security intelligence&quot; for finding and fixing company vulnerabilities, raised an $80M Series B at a $580M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/260331/p67#a260331p67)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
