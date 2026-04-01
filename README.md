@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The rise of the ‘outsider AAA’ studio, from The Witcher to Crimson Desert](https://www.polygon.com/new-aaa-studios/)
- - [Lawn Mowing Simulator 2 takes to Kickstarter with the lushest virtual grass I&#39;ve ever seen](https://www.pcgamer.com/games/sim/lawn-mowing-simulator-2-takes-to-kickstarter-with-the-lushest-virtual-grass-ive-ever-seen/)
- - [Dangerous Animals is the scariest shark movie since Jaws, and it&#39;s finally on streaming](https://www.polygon.com/dangerous-animals-streaming-on-hulu/)<!-- GAME:END -->
+ - [Amazon says its Fallout series has now been watched by 100 million people, &#39;with season two now joining season one as two of our top four biggest seasons we&#39;ve ever launched&#39;](https://www.pcgamer.com/movies-tv/amazon-says-its-fallout-series-has-now-been-watched-by-100-million-people-with-season-two-now-joining-season-one-as-two-of-our-top-four-biggest-seasons-weve-ever-launched/)
+ - [My 5 favorite cozy games in Steam&#39;s House and Home sale](https://www.pcgamer.com/games/my-5-favorite-cozy-games-in-steams-house-and-home-sale/)
+ - [Super Mario Galaxy Movie reviews are in and, surprise: it&#39;s execrable churn](https://www.pcgamer.com/movies-tv/super-mario-galaxy-movie-reviews-are-in-and-surprise-its-execrable-churn/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
