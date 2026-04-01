@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
- - 🚯 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - 🚯 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)<!-- MEMES:END -->
+ - 🚖 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - 🚯 [Reality of incel](http://9gag.com/gag/aXPO1Og)
+ - 🚯 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
 
 --- 
 
