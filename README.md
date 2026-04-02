@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - 🚖 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)
  - 🚯 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
- - 🚯 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)<!-- MEMES:END -->
+ - 🚯 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
 
 --- 
 
