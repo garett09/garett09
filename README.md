@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A whistleblower alleges Delve pitched a modified copy of open-source no-code tool SimStudio as its own, a practice that could violate the software&#39;s license &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260401/p40#a260401p40)
- - [In a joint filing, Elon Musk and the US SEC say they are ready to move toward a trial over Musk&#39;s alleged failure to disclose his Twitter stake in 2022 &lpar;Nicola M White/Bloomberg&rpar;](http://www.techmeme.com/260401/p39#a260401p39)
- - [Google increases the storage of its $19.99/month AI Pro subscription plan to 5TB, up from 2TB, at no additional cost &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260401/p38#a260401p38)<!-- TECH:END -->
+ - [Google just doubled your cloud storage &lpar;and then some&rpar; on AI Pro plan](https://www.androidauthority.com/google-ai-pro-plan-5tb-3654227/)
+ - [I held the OnePlus Nord 6, and it feels nothing like a 9,000mAh phone](https://www.androidauthority.com/oneplus-nord-6-9000mah-hands-on-impressions-3654229/)
+ - [A profile of Microsoft CFO Amy Hood, who paused some data center expansion last year, a decision some say led to its current supply crunch and growth bottleneck &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p5#a260402p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
