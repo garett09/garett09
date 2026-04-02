@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon says its Fallout series has now been watched by 100 million people, &#39;with season two now joining season one as two of our top four biggest seasons we&#39;ve ever launched&#39;](https://www.pcgamer.com/movies-tv/amazon-says-its-fallout-series-has-now-been-watched-by-100-million-people-with-season-two-now-joining-season-one-as-two-of-our-top-four-biggest-seasons-weve-ever-launched/)
- - [My 5 favorite cozy games in Steam&#39;s House and Home sale](https://www.pcgamer.com/games/my-5-favorite-cozy-games-in-steams-house-and-home-sale/)
- - [Super Mario Galaxy Movie reviews are in and, surprise: it&#39;s execrable churn](https://www.pcgamer.com/movies-tv/super-mario-galaxy-movie-reviews-are-in-and-surprise-its-execrable-churn/)<!-- GAME:END -->
+ - [Cambridge Audio L/R S review](https://www.pcgamer.com/hardware/speakers/cambridge-audio-l-r-s-review/)
+ - [If Gigabyte&#39;s original X870E X3D Wood motherboard didn&#39;t do it for you, how about this moody &#39;Dark Wood&#39; respin?](https://www.pcgamer.com/hardware/motherboards/if-gigabytes-original-x870e-x3d-wood-motherboard-didnt-do-it-for-you-how-about-this-moody-dark-wood-respin/)
+ - [How to beat Beloth the Darksworn in Crimson Desert](https://www.pcgamer.com/games/action/crimson-desert-beloth-boss-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
