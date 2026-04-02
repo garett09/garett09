@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Franklin Templeton agrees to acquire CoinFund spinoff 250 Digital to form Franklin Crypto, which will offer strategies designed for institutional investors &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260401/p32#a260401p32)
- - [AirTag 2 gets improved anti-stalking capabilities with new firmware update](https://appleinsider.com/articles/26/04/01/airtag-2-gets-improved-anti-stalking-capabilities-with-new-firmware-update?utm_source=rss)
- - [ANBERNIC’s screen-flipping handheld appears in new videos](https://www.androidauthority.com/anbernic-mysterious-handheld-videos-3654086/)<!-- TECH:END -->
+ - [A whistleblower alleges Delve pitched a modified copy of open-source no-code tool SimStudio as its own, a practice that could violate the software&#39;s license &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260401/p40#a260401p40)
+ - [In a joint filing, Elon Musk and the US SEC say they are ready to move toward a trial over Musk&#39;s alleged failure to disclose his Twitter stake in 2022 &lpar;Nicola M White/Bloomberg&rpar;](http://www.techmeme.com/260401/p39#a260401p39)
+ - [Google increases the storage of its $19.99/month AI Pro subscription plan to 5TB, up from 2TB, at no additional cost &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260401/p38#a260401p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
