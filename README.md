@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s upcoming foldables might not use the best OLED screens after all](https://www.androidauthority.com/samsung-galaxy-z8-foldables-display-leak-3654355/)
- - [Russians lose services and apps subscriptions after Apple fined for breaking sanctions [U]](https://appleinsider.com/articles/26/04/02/russians-lose-services-and-apps-subscriptions-after-apple-fined-for-breaking-sanctions?utm_source=rss)
- - [Challenger: US tech sector job cuts rose to 18,720 in March, up 24% YoY, taking the Q1 total to 52,000+; AI accounted for 25% of layoffs across all industries &lpar;Julia Fanzeres/Bloomberg&rpar;](http://www.techmeme.com/260402/p14#a260402p14)<!-- TECH:END -->
+ - [Here’s when Samsung’s Galaxy S25 One UI 8.5 beta may finally end](https://www.androidauthority.com/galaxy-s25-one-ui-betas-3654526/)
+ - [Mental health startup Kintsugi is shutting down and open-sourcing its AI tech to detect depression and anxiety, after failing to secure FDA clearance &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260402/p24#a260402p24)
+ - [Your Art Can Go in This San Francisco Alley](https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
