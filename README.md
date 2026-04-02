@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just doubled your cloud storage &lpar;and then some&rpar; on AI Pro plan](https://www.androidauthority.com/google-ai-pro-plan-5tb-3654227/)
- - [I held the OnePlus Nord 6, and it feels nothing like a 9,000mAh phone](https://www.androidauthority.com/oneplus-nord-6-9000mah-hands-on-impressions-3654229/)
- - [A profile of Microsoft CFO Amy Hood, who paused some data center expansion last year, a decision some say led to its current supply crunch and growth bottleneck &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p5#a260402p5)<!-- TECH:END -->
+ - [Samsung’s upcoming foldables might not use the best OLED screens after all](https://www.androidauthority.com/samsung-galaxy-z8-foldables-display-leak-3654355/)
+ - [Russians lose services and apps subscriptions after Apple fined for breaking sanctions [U]](https://appleinsider.com/articles/26/04/02/russians-lose-services-and-apps-subscriptions-after-apple-fined-for-breaking-sanctions?utm_source=rss)
+ - [Challenger: US tech sector job cuts rose to 18,720 in March, up 24% YoY, taking the Q1 total to 52,000+; AI accounted for 25% of layoffs across all industries &lpar;Julia Fanzeres/Bloomberg&rpar;](http://www.techmeme.com/260402/p14#a260402p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
