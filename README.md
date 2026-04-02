@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - 🚯 [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - 🚯 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
+ - 🚖 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - 🚯 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
+ - 🚯 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)<!-- MEMES:END -->
 
 --- 
 
