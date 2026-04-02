@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)
- - 🚯 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
- - 🚯 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
+ - 🚖 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ayNKje8)
+ - 🚯 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - 🚯 [Some deaths hurt more than others...](http://9gag.com/gag/avyjK6M)<!-- MEMES:END -->
 
 --- 
 
