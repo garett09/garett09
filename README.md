@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ayNKje8)
- - 🚯 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - 🚯 [Some deaths hurt more than others...](http://9gag.com/gag/avyjK6M)<!-- MEMES:END -->
+ - 🚖 [Some deaths hurt more than others...](http://9gag.com/gag/avyjK6M)
+ - 🚯 [Meme Origins](http://9gag.com/gag/aAy9zBR)
+ - 🚯 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ayNKje8)<!-- MEMES:END -->
 
 --- 
 
