@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some deaths hurt more than others...](http://9gag.com/gag/avyjK6M)
- - 🚯 [Meme Origins](http://9gag.com/gag/aAy9zBR)
- - 🚯 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ayNKje8)<!-- MEMES:END -->
+ - 🚖 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
+ - 🚯 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
+ - 🚯 [Don&#39;t tap out](http://9gag.com/gag/an7omLq)<!-- MEMES:END -->
 
 --- 
 
