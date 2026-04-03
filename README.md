@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
- - 🚯 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
- - 🚯 [Don&#39;t tap out](http://9gag.com/gag/an7omLq)<!-- MEMES:END -->
+ - 🚖 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
+ - 🚯 [Smart guy](http://9gag.com/gag/a87gR2p)
+ - 🚯 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)<!-- MEMES:END -->
 
 --- 
 
