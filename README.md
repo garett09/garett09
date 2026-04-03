@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matt Mullenweg says EmDash, while open source, is designed &quot;to sell more Cloudflare services&quot; and lacks the cross-platform democratization of WordPress &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/260403/p3#a260403p3)
- - [$20 Chewy Promo Code | April 2026](https://www.wired.com/story/chewy-promo-code/)
- - [50% Off Home Depot Promo Codes | April 2026](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [The Best Samsung Galaxy S26 Cases &lpar;2026&rpar;: S26, S26+, and S26 Ultra](https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/)
+ - [Apple at 50: Michael Spindler, the CEO who brought in the clones](https://appleinsider.com/articles/26/04/03/apple-at-50-michael-spindler-the-ceo-who-brought-in-the-clones?utm_source=rss)
+ - [Chatbots are now prescribing psychiatric drugs](https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
