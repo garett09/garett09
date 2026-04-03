@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Future generations will have a blast with this](http://9gag.com/gag/apRMO15)
- - 🚯 [America, f**k yeah](http://9gag.com/gag/aVv6APP)
- - 🚯 [Sad US citizen noise...](http://9gag.com/gag/a34O6K3)<!-- MEMES:END -->
+ - 🚖 [Peak social engineering](http://9gag.com/gag/aMVLg96)
+ - 🚯 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
+ - 🚯 [America, f**k yeah](http://9gag.com/gag/aVv6APP)<!-- MEMES:END -->
 
 --- 
 
