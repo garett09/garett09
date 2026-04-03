@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - 🚯 [Smart guy](http://9gag.com/gag/a87gR2p)
- - 🚯 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)<!-- MEMES:END -->
+ - 🚖 [Future generations will have a blast with this](http://9gag.com/gag/apRMO15)
+ - 🚯 [America, f**k yeah](http://9gag.com/gag/aVv6APP)
+ - 🚯 [Sad US citizen noise...](http://9gag.com/gag/a34O6K3)<!-- MEMES:END -->
 
 --- 
 
