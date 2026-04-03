@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cambridge Audio L/R S review](https://www.pcgamer.com/hardware/speakers/cambridge-audio-l-r-s-review/)
- - [If Gigabyte&#39;s original X870E X3D Wood motherboard didn&#39;t do it for you, how about this moody &#39;Dark Wood&#39; respin?](https://www.pcgamer.com/hardware/motherboards/if-gigabytes-original-x870e-x3d-wood-motherboard-didnt-do-it-for-you-how-about-this-moody-dark-wood-respin/)
- - [How to beat Beloth the Darksworn in Crimson Desert](https://www.pcgamer.com/games/action/crimson-desert-beloth-boss-guide/)<!-- GAME:END -->
+ - [&lpar;From Global&rpar; SHINOBI: Art of Vengeance DLC “SEGA Villains Stage” Launches Today!](https://blog.playstation.com/2026/04/02/20260403-shinobi/)
+ - [Marathon interactive maps](https://www.polygon.com/map/marathon-interactive-maps-exfil-locations/)
+ - [A former GameStop exec thought building its Steam competitor would be his &#39;forever job,&#39; but the retailer bet the house on digital distribution being &#39;a passing phase&#39;](https://www.pcgamer.com/gaming-industry/a-former-gamestop-exec-thought-building-its-steam-competitor-would-be-his-forever-job-but-the-retailer-bet-the-house-on-digital-distribution-being-a-passing-phase/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
