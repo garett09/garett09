@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s when Samsung’s Galaxy S25 One UI 8.5 beta may finally end](https://www.androidauthority.com/galaxy-s25-one-ui-betas-3654526/)
- - [Mental health startup Kintsugi is shutting down and open-sourcing its AI tech to detect depression and anxiety, after failing to secure FDA clearance &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260402/p24#a260402p24)
- - [Your Art Can Go in This San Francisco Alley](https://www.wired.com/story/your-art-can-go-in-this-san-francisco-alley-paint-a-street/)<!-- TECH:END -->
+ - [A domestic shortage of electrical equipment such as transformers and switchgear is forcing the US to rely on Chinese imports, delaying data center construction &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p34#a260402p34)
+ - [Sources: Sarvam AI is close to raising $300M-$350M at a ~$1.5B valuation, which could close as soon as next week; Bessemer Venture Partners is expected to lead &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260402/p33#a260402p33)
+ - [Apple&#39;s Q2 results will be reported on April 30](https://appleinsider.com/articles/26/04/03/apples-q2-results-will-be-reported-on-april-30?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
