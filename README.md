@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Samsung Galaxy S26 Cases &lpar;2026&rpar;: S26, S26+, and S26 Ultra](https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/)
- - [Apple at 50: Michael Spindler, the CEO who brought in the clones](https://appleinsider.com/articles/26/04/03/apple-at-50-michael-spindler-the-ceo-who-brought-in-the-clones?utm_source=rss)
- - [Chatbots are now prescribing psychiatric drugs](https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs)<!-- TECH:END -->
+ - [Sources: Mercor asked professionals in fields like entertainment to sell their prior work materials for AI training, even if the IP could belong to ex-employers &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260403/p12#a260403p12)
+ - [This DJI OSMO Pocket 4 leak just made the wait for launch even harder](https://www.androidauthority.com/dji-osmo-pocket-4-packaging-3654856/)
+ - [Sources: Musk requires banks seeking roles in SpaceX&#39;s IPO to subscribe to Grok and advertise on X; some banks are spending tens of millions integrating Grok &lpar;Maureen Farrell/New York Times&rpar;](http://www.techmeme.com/260403/p11#a260403p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
