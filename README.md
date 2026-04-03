@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A domestic shortage of electrical equipment such as transformers and switchgear is forcing the US to rely on Chinese imports, delaying data center construction &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p34#a260402p34)
- - [Sources: Sarvam AI is close to raising $300M-$350M at a ~$1.5B valuation, which could close as soon as next week; Bessemer Venture Partners is expected to lead &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260402/p33#a260402p33)
- - [Apple&#39;s Q2 results will be reported on April 30](https://appleinsider.com/articles/26/04/03/apples-q2-results-will-be-reported-on-april-30?utm_source=rss)<!-- TECH:END -->
+ - [Matt Mullenweg says EmDash, while open source, is designed &quot;to sell more Cloudflare services&quot; and lacks the cross-platform democratization of WordPress &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/260403/p3#a260403p3)
+ - [$20 Chewy Promo Code | April 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [50% Off Home Depot Promo Codes | April 2026](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
