@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This person is living in 3024](http://9gag.com/gag/a9yGoqD)
- - 🚯 [Artemis II](http://9gag.com/gag/aNDbN0G)
- - 🚯 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)<!-- MEMES:END -->
+ - 🚖 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)
+ - 🚯 [Very interesting](http://9gag.com/gag/abA87QX)
+ - 🚯 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)<!-- MEMES:END -->
 
 --- 
 
