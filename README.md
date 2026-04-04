@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House&#39;s latest effort to enact legislation that would preempt state AI laws stalls as multiple Democrats dismiss the proposal as a partisan play &lpar;Politico&rpar;](http://www.techmeme.com/260404/p4#a260404p4)
- - [Chinese humanoid robot maker UBTech is seeking a chief scientist with an annual pay of as much as ~$18M; China&#39;s AI industry has eschewed mega pay packages &lpar;Bloomberg&rpar;](http://www.techmeme.com/260404/p3#a260404p3)
- - [Generalist, which raised $140M at a $440M valuation in 2025, releases GEN-1, an AI model to help robots handle high-dexterity tasks typically done by humans &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260404/p2#a260404p2)<!-- TECH:END -->
+ - [Android’s controversial sideloading changes pushed me to build my own app installer](https://www.androidauthority.com/tiny-apk-installer-app-3651857/)
+ - [Best Ski Clothes &lpar;2026&rpar;: Patagonia, Arc’teryx, Burton, and More](https://www.wired.com/gallery/best-ski-clothes/)
+ - [Super Meat Boy 3D makes suffering fun](https://www.theverge.com/games/904202/super-meat-boy-3d-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
