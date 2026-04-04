@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s controversial sideloading changes pushed me to build my own app installer](https://www.androidauthority.com/tiny-apk-installer-app-3651857/)
- - [Best Ski Clothes &lpar;2026&rpar;: Patagonia, Arc’teryx, Burton, and More](https://www.wired.com/gallery/best-ski-clothes/)
- - [Super Meat Boy 3D makes suffering fun](https://www.theverge.com/games/904202/super-meat-boy-3d-review)<!-- TECH:END -->
+ - [A folk musician became a target for AI fakes and a copyright troll](https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright)
+ - [NASA&#39;s Artemis II Astronauts Are More Than Halfway to the Moon: Day 4 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
+ - [Y Combinator appears to have dropped Delve, removing the company&#39;s profile from its startup directory, following allegations of fake compliance certificates &lpar;The Economic Times&rpar;](http://www.techmeme.com/260404/p8#a260404p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
