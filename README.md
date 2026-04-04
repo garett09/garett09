@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Artemis II moon mission is one of the first times NASA has let astronauts fly with smartphones, giving them modified iPhones for taking photos and videos &lpar;Kalley Huang/New York Times&rpar;](http://www.techmeme.com/260403/p24#a260403p24)
- - [Health data startup Bevel&#39;s CEO pushes back against Whoop&#39;s lawsuit that alleges Bevel copied the look of the Whoop app, saying Whoop&#39;s actions are &quot;lawfare&quot; &lpar;Leila Sheridan/Inc.com&rpar;](http://www.techmeme.com/260403/p23#a260403p23)
- - [Sources: Mark Zuckerberg is back to writing code after a two-decade hiatus, submitting three diffs to Meta&#39;s monorepo, and is a heavy user of Claude Code CLI &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/260403/p22#a260403p22)<!-- TECH:END -->
+ - [The White House&#39;s latest effort to enact legislation that would preempt state AI laws stalls as multiple Democrats dismiss the proposal as a partisan play &lpar;Politico&rpar;](http://www.techmeme.com/260404/p4#a260404p4)
+ - [Chinese humanoid robot maker UBTech is seeking a chief scientist with an annual pay of as much as ~$18M; China&#39;s AI industry has eschewed mega pay packages &lpar;Bloomberg&rpar;](http://www.techmeme.com/260404/p3#a260404p3)
+ - [Generalist, which raised $140M at a $440M valuation in 2025, releases GEN-1, an AI model to help robots handle high-dexterity tasks typically done by humans &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260404/p2#a260404p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
