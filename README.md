@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mercor asked professionals in fields like entertainment to sell their prior work materials for AI training, even if the IP could belong to ex-employers &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260403/p12#a260403p12)
- - [This DJI OSMO Pocket 4 leak just made the wait for launch even harder](https://www.androidauthority.com/dji-osmo-pocket-4-packaging-3654856/)
- - [Sources: Musk requires banks seeking roles in SpaceX&#39;s IPO to subscribe to Grok and advertise on X; some banks are spending tens of millions integrating Grok &lpar;Maureen Farrell/New York Times&rpar;](http://www.techmeme.com/260403/p11#a260403p11)<!-- TECH:END -->
+ - [The Artemis II moon mission is one of the first times NASA has let astronauts fly with smartphones, giving them modified iPhones for taking photos and videos &lpar;Kalley Huang/New York Times&rpar;](http://www.techmeme.com/260403/p24#a260403p24)
+ - [Health data startup Bevel&#39;s CEO pushes back against Whoop&#39;s lawsuit that alleges Bevel copied the look of the Whoop app, saying Whoop&#39;s actions are &quot;lawfare&quot; &lpar;Leila Sheridan/Inc.com&rpar;](http://www.techmeme.com/260403/p23#a260403p23)
+ - [Sources: Mark Zuckerberg is back to writing code after a two-decade hiatus, submitting three diffs to Meta&#39;s monorepo, and is a heavy user of Claude Code CLI &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/260403/p22#a260403p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
