@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;From Global&rpar; SHINOBI: Art of Vengeance DLC “SEGA Villains Stage” Launches Today!](https://blog.playstation.com/2026/04/02/20260403-shinobi/)
- - [Marathon interactive maps](https://www.polygon.com/map/marathon-interactive-maps-exfil-locations/)
- - [A former GameStop exec thought building its Steam competitor would be his &#39;forever job,&#39; but the retailer bet the house on digital distribution being &#39;a passing phase&#39;](https://www.pcgamer.com/gaming-industry/a-former-gamestop-exec-thought-building-its-steam-competitor-would-be-his-forever-job-but-the-retailer-bet-the-house-on-digital-distribution-being-a-passing-phase/)<!-- GAME:END -->
+ - [Subscription service for indie games gets a rough reception](https://www.pcgamer.com/gaming-industry/subscription-service-for-indie-games-gets-a-rough-reception/)
+ - [The best tool for playing obscure old PC games now supports the sublime FMV cheese of Crime Patrol 2: Drug Wars and a Lovecraftian adventure one YouTuber scored a &#39;terribly low 2/10&#39;](https://www.pcgamer.com/gaming-industry/the-best-tool-for-playing-obscure-old-pc-games-now-supports-the-sublime-fmv-cheese-of-crime-patrol-2-drug-wars-and-a-lovecraftian-adventure-one-youtuber-scored-a-terribly-low-2-10/)
+ - [Every Peanuts strip ever is now available for $25](https://www.polygon.com/peanuts-charles-schulz-humble-bundle-collection/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
