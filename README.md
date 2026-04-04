@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)
- - 🚯 [Very interesting](http://9gag.com/gag/abA87QX)
- - 🚯 [Woman photographed her grandparents waving at her every year when she comes back for the holiday weekend](http://9gag.com/gag/aVv6AvK)<!-- MEMES:END -->
+ - 🚯 [Guys...](http://9gag.com/gag/aMVL3ZP)
+ - 🚯 [Free colonoscopy](http://9gag.com/gag/a1m6y9G)<!-- MEMES:END -->
 
 --- 
 
