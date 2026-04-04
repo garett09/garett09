@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Peak social engineering](http://9gag.com/gag/aMVLg96)
- - 🚯 [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
- - 🚯 [America, f**k yeah](http://9gag.com/gag/aVv6APP)<!-- MEMES:END -->
+ - 🚖 [This person is living in 3024](http://9gag.com/gag/a9yGoqD)
+ - 🚯 [And just like that, pam bondi finds the epstein client list on her desk satire](http://9gag.com/gag/azx3n7B)
+ - 🚯 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
 
 --- 
 
