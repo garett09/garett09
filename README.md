@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Thank goodness Magic: The Gathering isn&#39;t doing a Harry Potter crossover set](https://www.pcgamer.com/games/card-games/thank-goodness-magic-the-gathering-isnt-doing-a-harry-potter-crossover-set/)
- - [A new Crimson Desert patch adds the only RPG feature that matters: A hide helmet button](https://www.pcgamer.com/games/rpg/a-new-crimson-desert-patch-adds-the-only-rpg-feature-that-matters-a-hide-helmet-button/)
- - [Where Winds Meet interactive map](https://www.polygon.com/map/where-winds-meet-interactive-maps-hexi-qinghe-kaifeng/)<!-- GAME:END -->
+ - [Triplets of Belleville’s director just invented the cozy ghost biopic](https://www.polygon.com/magnificent-life-review-triplets-of-belleville-sylvain-chomet/)
+ - [There&#39;s one essential Star Wars comic you need to read before Maul: Shadow Lord](https://www.polygon.com/star-wars-maul-son-of-dathomir-comic/)
+ - [In 2007, two game music GOATs collaborated on the criminally underrated soundtrack to a similarly underrated D&amp;D RPG](https://www.pcgamer.com/games/rpg/in-2007-two-game-music-goats-collaborated-on-the-criminally-underrated-soundtrack-to-a-similarly-underrated-d-and-d-rpg/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
