@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)
- - 🚯 [Guys...](http://9gag.com/gag/aMVL3ZP)
- - 🚯 [Free colonoscopy](http://9gag.com/gag/a1m6y9G)<!-- MEMES:END -->
+ - 🚖 [Abdul! GET THE STONES!!](http://9gag.com/gag/aryL61X)
+ - 🚯 [Pure.. absolut.... WTF!](http://9gag.com/gag/a34O9br)
+ - 🚯 [A `you tube`](http://9gag.com/gag/aKGMrXW)<!-- MEMES:END -->
 
 --- 
 
