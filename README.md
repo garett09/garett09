@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very interesting](http://9gag.com/gag/abA87QX)
- - 🚯 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
+ - 🚖 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
+ - 🚯 [Everthing&#39;s a dildo if you&#39;re brave enough](http://9gag.com/gag/aO8WgD3)
  - 🚯 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
 
 --- 
