@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Abdul! GET THE STONES!!](http://9gag.com/gag/aryL61X)
- - 🚯 [Pure.. absolut.... WTF!](http://9gag.com/gag/a34O9br)
- - 🚯 [A `you tube`](http://9gag.com/gag/aKGMrXW)<!-- MEMES:END -->
+ - 🚖 [Very interesting](http://9gag.com/gag/abA87QX)
+ - 🚯 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)
+ - 🚯 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
 
 --- 
 
