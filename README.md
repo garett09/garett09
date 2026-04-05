@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA&#39;s Artemis II Astronauts Are More Than Halfway to the Moon: Day 4 Live Updates](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [How India&#39;s film industry is embracing AI, as studios use the tech to cut production time and costs, while union rules constrain its use in Hollywood &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/260404/p12#a260404p12)
- - [Apple reportedly signed a 3rd-party driver, by Tiny Corp, for AMD or Nvidia eGPUs for Apple Silicon Macs; it&#39;s meant for AI research, not accelerating graphics &lpar;AppleInsider&rpar;](http://www.techmeme.com/260404/p11#a260404p11)<!-- TECH:END -->
+ - [According to Microsoft Copilot Terms of Use, updated in Oct. 2025, &quot;Copilot is for entertainment purposes only&quot; and &quot;Don&#39;t rely on Copilot for important advice&quot; &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260405/p3#a260405p3)
+ - [Samsung plans to discontinue its Messages app in the US in July 2026 and offers instructions for users on older Android versions to switch to Google Messages &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260405/p2#a260405p2)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 5 #763](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-5-763/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
