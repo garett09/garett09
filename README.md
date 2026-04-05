@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Subscription service for indie games gets a rough reception](https://www.pcgamer.com/gaming-industry/subscription-service-for-indie-games-gets-a-rough-reception/)
- - [The best tool for playing obscure old PC games now supports the sublime FMV cheese of Crime Patrol 2: Drug Wars and a Lovecraftian adventure one YouTuber scored a &#39;terribly low 2/10&#39;](https://www.pcgamer.com/gaming-industry/the-best-tool-for-playing-obscure-old-pc-games-now-supports-the-sublime-fmv-cheese-of-crime-patrol-2-drug-wars-and-a-lovecraftian-adventure-one-youtuber-scored-a-terribly-low-2-10/)
- - [Every Peanuts strip ever is now available for $25](https://www.polygon.com/peanuts-charles-schulz-humble-bundle-collection/)<!-- GAME:END -->
+ - [Thank goodness Magic: The Gathering isn&#39;t doing a Harry Potter crossover set](https://www.pcgamer.com/games/card-games/thank-goodness-magic-the-gathering-isnt-doing-a-harry-potter-crossover-set/)
+ - [A new Crimson Desert patch adds the only RPG feature that matters: A hide helmet button](https://www.pcgamer.com/games/rpg/a-new-crimson-desert-patch-adds-the-only-rpg-feature-that-matters-a-hide-helmet-button/)
+ - [Where Winds Meet interactive map](https://www.polygon.com/map/where-winds-meet-interactive-maps-hexi-qinghe-kaifeng/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
