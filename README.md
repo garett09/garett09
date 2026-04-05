@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Amazon Echo learned to talk — and listen](https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history)
- - [I don’t need Samsung to significantly upgrade the Galaxy Watch 9 — just unlock it](https://www.androidauthority.com/samsung-galaxy-watch-series-unlock-features-3653769/)
- - [TrueUp data shows over 67,000 software engineering job openings, up 30% so far in 2026 and the most in three years, with listings up about 2x since mid-2023 &lpar;Alistair Barr/Business Insider&rpar;](http://www.techmeme.com/260405/p5#a260405p5)<!-- TECH:END -->
+ - [Los Thuthanaka’s Wak&amp;#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite](https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review)
+ - [Drift details how suspected North Korean attackers stole $270M posing as a quant trading firm in a 6+ month operation with in-person meetings and a $1M+ deposit &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/260405/p7#a260405p7)
+ - [Vibe coding significantly boosted App Store review submissions in 2025](https://appleinsider.com/articles/26/04/05/vibe-coding-significantly-boosted-app-store-review-submissions-in-2025?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
