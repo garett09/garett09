@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [According to Microsoft Copilot Terms of Use, updated in Oct. 2025, &quot;Copilot is for entertainment purposes only&quot; and &quot;Don&#39;t rely on Copilot for important advice&quot; &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260405/p3#a260405p3)
- - [Samsung plans to discontinue its Messages app in the US in July 2026 and offers instructions for users on older Android versions to switch to Google Messages &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260405/p2#a260405p2)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 5 #763](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-5-763/)<!-- TECH:END -->
+ - [How the Amazon Echo learned to talk — and listen](https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history)
+ - [I don’t need Samsung to significantly upgrade the Galaxy Watch 9 — just unlock it](https://www.androidauthority.com/samsung-galaxy-watch-series-unlock-features-3653769/)
+ - [TrueUp data shows over 67,000 software engineering job openings, up 30% so far in 2026 and the most in three years, with listings up about 2x since mid-2023 &lpar;Alistair Barr/Business Insider&rpar;](http://www.techmeme.com/260405/p5#a260405p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
