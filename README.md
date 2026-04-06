@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Triplets of Belleville’s director just invented the cozy ghost biopic](https://www.polygon.com/magnificent-life-review-triplets-of-belleville-sylvain-chomet/)
- - [There&#39;s one essential Star Wars comic you need to read before Maul: Shadow Lord](https://www.polygon.com/star-wars-maul-son-of-dathomir-comic/)
- - [In 2007, two game music GOATs collaborated on the criminally underrated soundtrack to a similarly underrated D&amp;D RPG](https://www.pcgamer.com/games/rpg/in-2007-two-game-music-goats-collaborated-on-the-criminally-underrated-soundtrack-to-a-similarly-underrated-d-and-d-rpg/)<!-- GAME:END -->
+ - [Who is Rook Kast and the Shadow Collective in Star Wars: Maul — Shadow Lord?](https://www.polygon.com/maul-shadow-lord-rook-cast-shadow-collective-explained/)
+ - [When does Star Wars: Maul — Shadow Lord take place? The timeline explained](https://www.polygon.com/when-does-star-wars-maul-shadow-lord-take-place-in-the-timeline/)
+ - [Star Wars Maul Shadow Lord review: A triumphant return for the best Sith](https://www.polygon.com/star-wars-maul-shadow-lord-review/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
