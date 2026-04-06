@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Treating bloating in cattle.](http://9gag.com/gag/a6ZRWmm)
- - 🚯 [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)
- - 🚯 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
+ - 🚖 [No chill](http://9gag.com/gag/abA8j38)
+ - 🚯 [* Insert hot fuzz `Shame` meme *](http://9gag.com/gag/aKGM0WO)
+ - 🚯 [He is Risen!](http://9gag.com/gag/a87grep)<!-- MEMES:END -->
 
 --- 
 
