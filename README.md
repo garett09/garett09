@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Set your alarms: Free Popeyes and Pizza Hut deals are coming to T-Mobile](https://www.androidauthority.com/t-mobile-tuesdays-popeyes-free-wings-3655039/)
- - [Russian cryptocurrency payment network A7 expands to Africa, as Moscow builds an alternative payments system amid western sanctions after its Ukraine invasion &lpar;Financial Times&rpar;](http://www.techmeme.com/260406/p9#a260406p9)
- - [8 Best Apple Watch Accessories &lpar;2026&rpar;: Bands, Chargers, and More](https://www.wired.com/gallery/best-apple-watch-accessories/)<!-- TECH:END -->
+ - [DJI’s Mic Mini records clear audio on the go, and it&amp;#8217;s on sale for $60](https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale)
+ - [Border Patrol Agents Sold Challenge Coins With ‘Charlotte’s Web’ Characters in Riot Gear](https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/)
+ - [Robotaxi companies won’t say how often remote operators intervene](https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
