@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
- - 🚯 [2-step Verification](http://9gag.com/gag/aGyQPZ6)
- - 🚯 [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)<!-- MEMES:END -->
+ - 🚖 [Who is this guy?!](http://9gag.com/gag/amo4N2v)
+ - 🚯 [Classic](http://9gag.com/gag/a4P0M4v)
+ - 🚯 [This is 9GAG\u2026 you know where this is going](http://9gag.com/gag/aYQXN1v)<!-- MEMES:END -->
 
 --- 
 
