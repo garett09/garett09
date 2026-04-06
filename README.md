@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix debuts VOID, a vision-language model that can erase objects from a scene and simulate how remaining objects would behave without them &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260406/p3#a260406p3)
- - [Indian IT giant Wipro agrees to buy Mindsprint, the IT services arm of Singapore-based Olam, for $375M, and strikes an eight-year, $1B contract with Olam &lpar;Reuters&rpar;](http://www.techmeme.com/260406/p2#a260406p2)
- - [Documents: OpenAI and Anthropic have projected profitability to investors with and without training costs, and report inference costs exceeding half of revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p1#a260406p1)<!-- TECH:END -->
+ - [Set your alarms: Free Popeyes and Pizza Hut deals are coming to T-Mobile](https://www.androidauthority.com/t-mobile-tuesdays-popeyes-free-wings-3655039/)
+ - [Russian cryptocurrency payment network A7 expands to Africa, as Moscow builds an alternative payments system amid western sanctions after its Ukraine invasion &lpar;Financial Times&rpar;](http://www.techmeme.com/260406/p9#a260406p9)
+ - [8 Best Apple Watch Accessories &lpar;2026&rpar;: Bands, Chargers, and More](https://www.wired.com/gallery/best-apple-watch-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
