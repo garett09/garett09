@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Who is Rook Kast and the Shadow Collective in Star Wars: Maul — Shadow Lord?](https://www.polygon.com/maul-shadow-lord-rook-cast-shadow-collective-explained/)
- - [When does Star Wars: Maul — Shadow Lord take place? The timeline explained](https://www.polygon.com/when-does-star-wars-maul-shadow-lord-take-place-in-the-timeline/)
- - [Star Wars Maul Shadow Lord review: A triumphant return for the best Sith](https://www.polygon.com/star-wars-maul-shadow-lord-review/)<!-- GAME:END -->
+ - [Delivery Bot That Took Human Job Asks Man For Help, Man Says ‘F**k You!’](https://kotaku.com/delivery-bot-that-took-human-job-asks-man-for-help-man-says-fk-you-2000685226)
+ - [A legendary Batman and X-Men artist hints at calling it quits](https://www.polygon.com/batman-legend-greg-capullo-may-retire/)
+ - [Italian television channel does DLSS 5 haters a favor by broadcasting footage from reveal trailer, then copyright striking Nvidia&#39;s own YouTube channel](https://www.pcgamer.com/hardware/italian-television-channel-does-dlss-5-haters-a-favor-by-broadcasting-footage-from-reveal-trailer-then-copyright-striking-nvidias-own-youtube-channel/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
