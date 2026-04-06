@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No chill](http://9gag.com/gag/abA8j38)
- - 🚯 [* Insert hot fuzz `Shame` meme *](http://9gag.com/gag/aKGM0WO)
- - 🚯 [He is Risen!](http://9gag.com/gag/a87grep)<!-- MEMES:END -->
+ - 🚖 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - 🚯 [2-step Verification](http://9gag.com/gag/aGyQPZ6)
+ - 🚯 [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)<!-- MEMES:END -->
 
 --- 
 
