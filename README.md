@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Los Thuthanaka’s Wak&amp;#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite](https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review)
- - [Drift details how suspected North Korean attackers stole $270M posing as a quant trading firm in a 6+ month operation with in-person meetings and a $1M+ deposit &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/260405/p7#a260405p7)
- - [Vibe coding significantly boosted App Store review submissions in 2025](https://appleinsider.com/articles/26/04/05/vibe-coding-significantly-boosted-app-store-review-submissions-in-2025?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Sam Altman has excluded OpenAI CFO Sarah Friar from some key financial meetings; Friar began reporting to Fidji Simo instead of the CEO in August 2025 &lpar;The Information&rpar;](http://www.techmeme.com/260405/p11#a260405p11)
+ - [China, which dominates the global drone industry, has sharply tightened its drone use rules, as some users say they are hindering routine and lawful flights &lpar;Joy Dong/New York Times&rpar;](http://www.techmeme.com/260405/p10#a260405p10)
+ - [NASA Artemis II Day 5: Astronauts Prep for Monday&#39;s Moon Flyby](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
