@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)
- - 🚯 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - 🚖 [Treating bloating in cattle.](http://9gag.com/gag/a6ZRWmm)
+ - 🚯 [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)
  - 🚯 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
 
 --- 
