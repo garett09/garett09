@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The case for banning cookie banners](https://www.theverge.com/podcast/907919/ban-cookie-banners-gemini-maps-vergecast)
- - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)
- - [As Samsung downgrades the S Pen, Motorola’s latest phone brings stylus upgrades](https://www.androidauthority.com/motorola-moto-g-stylus-2026-3655307/)<!-- TECH:END -->
+ - [You can now claim a share of Google’s $135M data settlement](https://www.androidauthority.com/android-cellular-data-settlement-website-launched-3655594/)
+ - [Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/)
+ - [Deal: Linkind Matter Smart Light Bulbs hit record-low price!](https://www.androidauthority.com/linkind-matter-smart-light-bulb-deal-3655567/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
