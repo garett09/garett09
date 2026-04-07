@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who is this guy?!](http://9gag.com/gag/amo4N2v)
- - 🚯 [Classic](http://9gag.com/gag/a4P0M4v)
- - 🚯 [This is 9GAG\u2026 you know where this is going](http://9gag.com/gag/aYQXN1v)<!-- MEMES:END -->
+ - 🚖 [Careful batman...](http://9gag.com/gag/aMVLpnP)
+ - 🚯 [The working man](http://9gag.com/gag/ary71wX)
+ - 🚯 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)<!-- MEMES:END -->
 
 --- 
 
