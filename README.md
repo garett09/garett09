@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Delivery Bot That Took Human Job Asks Man For Help, Man Says ‘F**k You!’](https://kotaku.com/delivery-bot-that-took-human-job-asks-man-for-help-man-says-fk-you-2000685226)
- - [A legendary Batman and X-Men artist hints at calling it quits](https://www.polygon.com/batman-legend-greg-capullo-may-retire/)
- - [Italian television channel does DLSS 5 haters a favor by broadcasting footage from reveal trailer, then copyright striking Nvidia&#39;s own YouTube channel](https://www.pcgamer.com/hardware/italian-television-channel-does-dlss-5-haters-a-favor-by-broadcasting-footage-from-reveal-trailer-then-copyright-striking-nvidias-own-youtube-channel/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;April 7, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-7-2026/)
+ - [11 years after launch, Pillars of Eternity&#39;s new turn-based mode feels like the way it&#39;s meant to be played](https://www.pcgamer.com/games/rpg/11-years-after-launch-pillars-of-eternitys-new-turn-based-mode-feels-like-the-way-its-meant-to-be-played/)
+ - [I watched the first TV show ever based on a game and it made me realize: we&#39;ve really got it good these days](https://www.pcgamer.com/movies-tv/i-watched-the-first-tv-show-ever-based-on-a-game-and-it-made-me-realize-weve-really-got-it-good-these-days/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
