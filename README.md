@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
- - 🚯 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
+ - 🚖 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
+ - 🚯 [Well, yes](http://9gag.com/gag/a34XPNm)
  - 🚯 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
 
 --- 
