@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the gold rush for firms claiming to help brands get cited by AI search tools, via tactics like hiding instructions behind &quot;Summarize with AI&quot; buttons &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/260407/p8#a260407p8)
- - [A Taiwan intelligence report to lawmakers says China is targeting Taiwan to obtain its chip manufacturing tech and talent to break through global &quot;containment&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260407/p7#a260407p7)
- - [Color E-Ink screen or normal display? This dual-screen phone offers both.](https://www.androidauthority.com/dual-screen-e-ink-phone-3655290/)<!-- TECH:END -->
+ - [The case for banning cookie banners](https://www.theverge.com/podcast/907919/ban-cookie-banners-gemini-maps-vergecast)
+ - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)
+ - [As Samsung downgrades the S Pen, Motorola’s latest phone brings stylus upgrades](https://www.androidauthority.com/motorola-moto-g-stylus-2026-3655307/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
