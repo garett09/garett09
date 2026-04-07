@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Indianapolis city councilor says his home was targeted in what appeared to be a politically motivated shooting over a proposed data center in the city &lpar;Kiki Intarasuwan/CBS News&rpar;](http://www.techmeme.com/260406/p31#a260406p31)
- - [Sources: SpaceX plans to earmark a large portion of shares for retail investors and will host 1,500 of them at an event in June after the IPO roadshow launch &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260406/p30#a260406p30)
- - [Sources: Anthropic plans to invest $200M in a new venture with PE firms to sell AI tools to their portfolio companies; it&#39;s in talks to raise $1B for the effort &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p29#a260406p29)<!-- TECH:END -->
+ - [A look at the gold rush for firms claiming to help brands get cited by AI search tools, via tactics like hiding instructions behind &quot;Summarize with AI&quot; buttons &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/260407/p8#a260407p8)
+ - [A Taiwan intelligence report to lawmakers says China is targeting Taiwan to obtain its chip manufacturing tech and talent to break through global &quot;containment&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260407/p7#a260407p7)
+ - [Color E-Ink screen or normal display? This dual-screen phone offers both.](https://www.androidauthority.com/dual-screen-e-ink-phone-3655290/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
