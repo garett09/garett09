@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Careful batman...](http://9gag.com/gag/aMVLpnP)
- - 🚯 [The working man](http://9gag.com/gag/ary71wX)
- - 🚯 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)<!-- MEMES:END -->
+ - 🚖 [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
+ - 🚯 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
+ - 🚯 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
 
 --- 
 
