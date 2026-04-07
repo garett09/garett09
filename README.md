@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI’s Mic Mini records clear audio on the go, and it&amp;#8217;s on sale for $60](https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale)
- - [Border Patrol Agents Sold Challenge Coins With ‘Charlotte’s Web’ Characters in Riot Gear](https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/)
- - [Robotaxi companies won’t say how often remote operators intervene](https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla)<!-- TECH:END -->
+ - [An Indianapolis city councilor says his home was targeted in what appeared to be a politically motivated shooting over a proposed data center in the city &lpar;Kiki Intarasuwan/CBS News&rpar;](http://www.techmeme.com/260406/p31#a260406p31)
+ - [Sources: SpaceX plans to earmark a large portion of shares for retail investors and will host 1,500 of them at an event in June after the IPO roadshow launch &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260406/p30#a260406p30)
+ - [Sources: Anthropic plans to invest $200M in a new venture with PE firms to sell AI tools to their portfolio companies; it&#39;s in talks to raise $1B for the effort &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p29#a260406p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
