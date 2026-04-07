@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;April 7, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-7-2026/)
- - [11 years after launch, Pillars of Eternity&#39;s new turn-based mode feels like the way it&#39;s meant to be played](https://www.pcgamer.com/games/rpg/11-years-after-launch-pillars-of-eternitys-new-turn-based-mode-feels-like-the-way-its-meant-to-be-played/)
- - [I watched the first TV show ever based on a game and it made me realize: we&#39;ve really got it good these days](https://www.pcgamer.com/movies-tv/i-watched-the-first-tv-show-ever-based-on-a-game-and-it-made-me-realize-weve-really-got-it-good-these-days/)<!-- GAME:END -->
+ - [People of Note review: new musical indie RPG struggles to find its identity](https://www.polygon.com/people-of-note-review/)
+ - [Introducing The Playerbase, bringing PlayStation’s biggest fans into blockbuster PlayStation Studios games](https://blog.playstation.com/2026/04/07/introducing-the-playerbase-bringing-playstations-biggest-fans-into-blockbuster-playstation-studios-games/)
+ - [Coming to Xbox Game Pass: Kiln, Hades II, Vampire Crawlers, and More](https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
