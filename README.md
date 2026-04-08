@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now claim a share of Google’s $135M data settlement](https://www.androidauthority.com/android-cellular-data-settlement-website-launched-3655594/)
- - [Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/)
- - [Deal: Linkind Matter Smart Light Bulbs hit record-low price!](https://www.androidauthority.com/linkind-matter-smart-light-bulb-deal-3655567/)<!-- TECH:END -->
+ - [Letter: ICE officials confirm they are using Graphite spyware to intercept encrypted messages, saying it is primarily used to target fentanyl traffickers &lpar;Jude Joffe-Block/NPR&rpar;](http://www.techmeme.com/260407/p55#a260407p55)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 8, #562](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-8-562/)
+ - [Deal: This MNN Portable Monitor is looking promising at just under $50](https://www.androidauthority.com/mnn-portable-monitor-deal-3655564/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
