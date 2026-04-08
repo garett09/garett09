@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Men Are Buying Hacking Tools to Use Against Their Wives and Friends](https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/)
- - [RationalFX: tech layoffs totaled 78,557 in Q1 2026, with the US accounting for 76.7%; nearly half were attributed to AI implementation and workflow automation &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260408/p9#a260408p9)
- - [Z.ai raises prices for its most advanced AI model, GLM-5.1, by at least 8% compared to GLM-5 Turbo, joining Alibaba and Tencent as demand for agentic AI surges &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260408/p8#a260408p8)<!-- TECH:END -->
+ - [X is rolling out worldwide automatic post translation powered by xAI&#39;s Grok models, and updates its iOS image editor to add tools like drawing and blurring &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260408/p17#a260408p17)
+ - [Mac Script Editor becomes new entry point for ClickFix malware](https://appleinsider.com/articles/26/04/08/mac-script-editor-becomes-new-entry-point-for-clickfix-malware?utm_source=rss)
+ - [Tractive’s new dog and cat trackers provide more health insights for your pets](https://www.theverge.com/tech/907947/tractive-dog-6-xl-cat-mini-pet-trackers-health-monitoring-location)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
