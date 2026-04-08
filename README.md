@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Null](http://9gag.com/gag/azxpLVb)
- - 🚯 [Unfortunately, It&#39;s the Same Person](http://9gag.com/gag/aLn7Qeg)
- - 🚯 [\u2615\ufe0f](http://9gag.com/gag/aPAbv3G)<!-- MEMES:END -->
+ - 🚖 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - 🚯 [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)
+ - 🚯 [Back side smith grind](http://9gag.com/gag/azxpbWN)<!-- MEMES:END -->
 
 --- 
 
