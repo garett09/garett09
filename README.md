@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, yes](http://9gag.com/gag/a34XPNm)
- - 🚯 [The OG](http://9gag.com/gag/aZZOWMQ)
- - 🚯 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
+ - 🚖 [Null](http://9gag.com/gag/azxpLVb)
+ - 🚯 [When Cat Naps Meet Vintage Chic](http://9gag.com/gag/aVvyOKn)
+ - 🚯 [The Snickers vs KitKat war is getting out of hand](http://9gag.com/gag/a34XYWr)<!-- MEMES:END -->
 
 --- 
 
