@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [People of Note review: new musical indie RPG struggles to find its identity](https://www.polygon.com/people-of-note-review/)
- - [Introducing The Playerbase, bringing PlayStation’s biggest fans into blockbuster PlayStation Studios games](https://blog.playstation.com/2026/04/07/introducing-the-playerbase-bringing-playstations-biggest-fans-into-blockbuster-playstation-studios-games/)
- - [Coming to Xbox Game Pass: Kiln, Hades II, Vampire Crawlers, and More](https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/)<!-- GAME:END -->
+ - [High Times donut shop romance preview shows a stylish new dating sim twist](https://www.polygon.com/high-times-demo-impressions-donut-shop-visual-novel-romance/)
+ - [Will Smith&#39;s biggest bomb is also the best new movie to watch on Tubi](https://www.polygon.com/will-smith-tubi-best-movie-gemini-man-april-2026/)
+ - [HipHopGamer says GTA 6&#39;s user-generated content &#39;will produce millionaires&#39;](https://www.pcgamer.com/games/grand-theft-auto/hiphopgamer-says-gta-6s-user-generated-content-will-produce-millionaires/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
