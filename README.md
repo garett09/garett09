@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Null](http://9gag.com/gag/azxpLVb)
- - 🚯 [When Cat Naps Meet Vintage Chic](http://9gag.com/gag/aVvyOKn)
- - 🚯 [The Snickers vs KitKat war is getting out of hand](http://9gag.com/gag/a34XYWr)<!-- MEMES:END -->
+ - 🚯 [Unfortunately, It&#39;s the Same Person](http://9gag.com/gag/aLn7Qeg)
+ - 🚯 [\u2615\ufe0f](http://9gag.com/gag/aPAbv3G)<!-- MEMES:END -->
 
 --- 
 
