@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: ICE officials confirm they are using Graphite spyware to intercept encrypted messages, saying it is primarily used to target fentanyl traffickers &lpar;Jude Joffe-Block/NPR&rpar;](http://www.techmeme.com/260407/p55#a260407p55)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 8, #562](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-8-562/)
- - [Deal: This MNN Portable Monitor is looking promising at just under $50](https://www.androidauthority.com/mnn-portable-monitor-deal-3655564/)<!-- TECH:END -->
+ - [Men Are Buying Hacking Tools to Use Against Their Wives and Friends](https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/)
+ - [RationalFX: tech layoffs totaled 78,557 in Q1 2026, with the US accounting for 76.7%; nearly half were attributed to AI implementation and workflow automation &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260408/p9#a260408p9)
+ - [Z.ai raises prices for its most advanced AI model, GLM-5.1, by at least 8% compared to GLM-5 Turbo, joining Alibaba and Tencent as demand for agentic AI surges &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260408/p8#a260408p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
