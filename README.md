@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [X is rolling out worldwide automatic post translation powered by xAI&#39;s Grok models, and updates its iOS image editor to add tools like drawing and blurring &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260408/p17#a260408p17)
- - [Mac Script Editor becomes new entry point for ClickFix malware](https://appleinsider.com/articles/26/04/08/mac-script-editor-becomes-new-entry-point-for-clickfix-malware?utm_source=rss)
- - [Tractive’s new dog and cat trackers provide more health insights for your pets](https://www.theverge.com/tech/907947/tractive-dog-6-xl-cat-mini-pet-trackers-health-monitoring-location)<!-- TECH:END -->
+ - [Motorola’s budget kings lose their budget-phone crown](https://www.androidauthority.com/motorola-rolls-out-price-hikes-3655929/)
+ - [Greek PM Kyriakos Mitsotakis says Greece will ban children under 15 from accessing social media starting January 1, 2027, and calls for coordinated EU action &lpar;Antonis Pothitos/Reuters&rpar;](http://www.techmeme.com/260408/p34#a260408p34)
+ - [Meta&#39;s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid&#39;s Table](https://www.wired.com/story/muse-spark-meta-open-source-closed-source/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
