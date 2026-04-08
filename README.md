@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oohhhh](http://9gag.com/gag/aZZOb4p)
- - 🚯 [Average 9gagger home?](http://9gag.com/gag/amo4N8y)
- - 🚯 [Who is this guy?!](http://9gag.com/gag/amo4N2v)<!-- MEMES:END -->
+ - 🚖 [Well, yes](http://9gag.com/gag/a34XPNm)
+ - 🚯 [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 🚯 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
 
 --- 
 
