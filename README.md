@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
- - 🚯 [Forget about Hans](http://9gag.com/gag/a7oRKVe)
- - 🚯 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)<!-- MEMES:END -->
+ - 🚖 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 🚯 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
+ - 🚯 [Forget about Hans](http://9gag.com/gag/a7oRKVe)<!-- MEMES:END -->
 
 --- 
 
