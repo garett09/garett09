@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s budget kings lose their budget-phone crown](https://www.androidauthority.com/motorola-rolls-out-price-hikes-3655929/)
- - [Greek PM Kyriakos Mitsotakis says Greece will ban children under 15 from accessing social media starting January 1, 2027, and calls for coordinated EU action &lpar;Antonis Pothitos/Reuters&rpar;](http://www.techmeme.com/260408/p34#a260408p34)
- - [Meta&#39;s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid&#39;s Table](https://www.wired.com/story/muse-spark-meta-open-source-closed-source/)<!-- TECH:END -->
+ - [Sources: Anthropic completes an employee tender offer at a $350B valuation, falling short of the $6B investors wanted, as employees held shares ahead of the IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/260408/p42#a260408p42)
+ - [Memo: xAI is reorganizing its engineering team, as SpaceX SVP Michael Nicolls says xAI is &quot;clearly behind&quot;; source: Nicolls has taken the title of xAI president &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260408/p41#a260408p41)
+ - [Anker Prime 3-in-1 Wireless Charging Station review: Fast, portable, &amp; smart](https://appleinsider.com/articles/26/04/09/anker-prime-3-in-1-wireless-charging-station-review-fast-portable-smart?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
