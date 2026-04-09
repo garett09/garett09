@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 🚯 [The OG](http://9gag.com/gag/aZZOWMQ)
- - 🚯 [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)<!-- MEMES:END -->
+ - 🚖 [Dirt bike guy treated as an honored guest at a resort.](http://9gag.com/gag/aqyoZE7)
+ - 🚯 [Her : where did you learn that?](http://9gag.com/gag/a9ygLZ0)
+ - 🚯 [Pick your battles!](http://9gag.com/gag/ary7eZd)<!-- MEMES:END -->
 
 --- 
 
