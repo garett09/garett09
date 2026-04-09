@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic completes an employee tender offer at a $350B valuation, falling short of the $6B investors wanted, as employees held shares ahead of the IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/260408/p42#a260408p42)
- - [Memo: xAI is reorganizing its engineering team, as SpaceX SVP Michael Nicolls says xAI is &quot;clearly behind&quot;; source: Nicolls has taken the title of xAI president &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260408/p41#a260408p41)
- - [Anker Prime 3-in-1 Wireless Charging Station review: Fast, portable, &amp; smart](https://appleinsider.com/articles/26/04/09/anker-prime-3-in-1-wireless-charging-station-review-fast-portable-smart?utm_source=rss)<!-- TECH:END -->
+ - [As AI transforms white-collar work, executives across sectors say trust, not AI, is the key differentiator where accuracy, accountability, and regulation matter &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p6#a260409p6)
+ - [A look at a global scramble to protect submarine cables vulnerable to potential sabotage, as new monitoring tech like distributed acoustic sensing is developed &lpar;Mike Cherney/Wall Street Journal&rpar;](http://www.techmeme.com/260409/p5#a260409p5)
+ - [TSMC says its most advanced chip packaging tech, CoWoS, is growing at an 80% CAGR as it ramps up capacity; Nvidia has reportedly reserved most of the capacity &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260409/p4#a260409p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
