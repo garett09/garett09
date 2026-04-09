@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [High Times donut shop romance preview shows a stylish new dating sim twist](https://www.polygon.com/high-times-demo-impressions-donut-shop-visual-novel-romance/)
- - [Will Smith&#39;s biggest bomb is also the best new movie to watch on Tubi](https://www.polygon.com/will-smith-tubi-best-movie-gemini-man-april-2026/)
- - [HipHopGamer says GTA 6&#39;s user-generated content &#39;will produce millionaires&#39;](https://www.pcgamer.com/games/grand-theft-auto/hiphopgamer-says-gta-6s-user-generated-content-will-produce-millionaires/)<!-- GAME:END -->
+ - [Do you know this mage? Test your knowledge of the gaming arcane with our quiz on magical allies and villains](https://www.pcgamer.com/games/rpg/do-you-know-this-mage-test-your-knowledge-of-the-gaming-arcane-with-our-quiz-on-magical-allies-and-villains/)
+ - [Project Zomboid identifies and bans over a dozen Steam Workshop mods containing &#39;heavily obfuscated code&#39; that was &#39;creating malicious files&#39;](https://www.pcgamer.com/games/survival-crafting/project-zomboid-identifies-and-bans-over-a-dozen-steam-workshop-mods-containing-heavily-obfuscated-code-that-was-creating-malicious-files/)
+ - [Dev Behind Busted GTA IV-Like Steam Release Puts Out Apology Letter](https://kotaku.com/dev-behind-busted-gta-iv-like-steam-release-puts-out-apology-letter-2000685874)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
