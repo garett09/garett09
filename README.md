@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dirt bike guy treated as an honored guest at a resort.](http://9gag.com/gag/aqyoZE7)
- - 🚯 [Her : where did you learn that?](http://9gag.com/gag/a9ygLZ0)
- - 🚯 [Pick your battles!](http://9gag.com/gag/ary7eZd)<!-- MEMES:END -->
+ - 🚖 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - 🚯 [Forget about Hans](http://9gag.com/gag/a7oRKVe)
+ - 🚯 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)<!-- MEMES:END -->
 
 --- 
 
