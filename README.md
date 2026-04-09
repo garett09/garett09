@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On-device Apple Intelligence vulnerable to prompt injection techniques](https://appleinsider.com/articles/26/04/09/on-device-apple-intelligence-vulnerable-to-prompt-injection-techniques?utm_source=rss)
- - [Meta begins removing dozens of Facebook and Instagram ads that trial lawyers placed to reach eligible plaintiffs, after social media addiction trial losses &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/260409/p19#a260409p19)
- - [Waymo is offering to help cities fix their potholes](https://www.theverge.com/transportation/908886/waymo-potholes-cities-data-waze-robotaxi)<!-- TECH:END -->
+ - [Pixelmator Pro &amp; Logic get big upgrades, rest of iWork gets minor ones](https://appleinsider.com/articles/26/04/09/pixelmator-pro-logic-get-big-upgrades-rest-of-iwork-gets-minor-ones?utm_source=rss)
+ - [Tesla Is Reportedly Working on a Cheaper Electric SUV Model](https://www.cnet.com/roadshow/news/report-teslas-working-on-a-cheaper-compact-suv-model/)
+ - [OpenAI launches a $100/month ChatGPT Pro subscription, which offers 5x more Codex usage than Plus; the $200/month Pro plan offers 20x higher limits than Plus &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260409/p33#a260409p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
