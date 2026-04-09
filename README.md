@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 🚯 [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)
- - 🚯 [Back side smith grind](http://9gag.com/gag/azxpbWN)<!-- MEMES:END -->
+ - 🚯 [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 🚯 [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)<!-- MEMES:END -->
 
 --- 
 
