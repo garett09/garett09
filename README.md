@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As AI transforms white-collar work, executives across sectors say trust, not AI, is the key differentiator where accuracy, accountability, and regulation matter &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p6#a260409p6)
- - [A look at a global scramble to protect submarine cables vulnerable to potential sabotage, as new monitoring tech like distributed acoustic sensing is developed &lpar;Mike Cherney/Wall Street Journal&rpar;](http://www.techmeme.com/260409/p5#a260409p5)
- - [TSMC says its most advanced chip packaging tech, CoWoS, is growing at an 80% CAGR as it ramps up capacity; Nvidia has reportedly reserved most of the capacity &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260409/p4#a260409p4)<!-- TECH:END -->
+ - [On-device Apple Intelligence vulnerable to prompt injection techniques](https://appleinsider.com/articles/26/04/09/on-device-apple-intelligence-vulnerable-to-prompt-injection-techniques?utm_source=rss)
+ - [Meta begins removing dozens of Facebook and Instagram ads that trial lawyers placed to reach eligible plaintiffs, after social media addiction trial losses &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/260409/p19#a260409p19)
+ - [Waymo is offering to help cities fix their potholes](https://www.theverge.com/transportation/908886/waymo-potholes-cities-data-waze-robotaxi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
