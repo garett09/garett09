@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixelmator Pro &amp; Logic get big upgrades, rest of iWork gets minor ones](https://appleinsider.com/articles/26/04/09/pixelmator-pro-logic-get-big-upgrades-rest-of-iwork-gets-minor-ones?utm_source=rss)
- - [Tesla Is Reportedly Working on a Cheaper Electric SUV Model](https://www.cnet.com/roadshow/news/report-teslas-working-on-a-cheaper-compact-suv-model/)
- - [OpenAI launches a $100/month ChatGPT Pro subscription, which offers 5x more Codex usage than Plus; the $200/month Pro plan offers 20x higher limits than Plus &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260409/p33#a260409p33)<!-- TECH:END -->
+ - [Sources: US Treasury Secretary Scott Bessent and Fed Chair Jerome Powell warned bank CEOs about Anthropic&#39;s Mythos model&#39;s risks at an urgent meeting Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p44#a260409p44)
+ - [Alibaba led a ~$293M funding round for ShengShu, just two months after the creator of the Vidu AI video generator raised ~$88M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p43#a260409p43)
+ - [Sources: SpaceX lost just under $5B last year while generating more than $18.5B in revenue; the loss figure includes xAI &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/260409/p42#a260409p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
