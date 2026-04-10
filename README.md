@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT just got a 50% cheaper Pro plan to take on Anthropic’s Claude](https://www.androidauthority.com/chatgpt-100-dollar-pro-plan-3656464/)
- - [OpenAI backs an Illinois bill shielding AI labs from liability even for &quot;critical harms,&quot; like 100+ deaths or $1B+ damage, if safety reports were published &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260410/p2#a260410p2)
- - [Surfshark Promo Codes: 87% Off | April 2026](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
+ - [iPhone Fold, MacBook Neo, and iPhones in Space, on the AppleInsider Podcast](https://appleinsider.com/articles/26/04/10/iphone-fold-macbook-neo-and-iphones-in-space-on-the-appleinsider-podcast?utm_source=rss)
+ - [Fear and loathing at OpenAI](https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast)
+ - [Apple Pay scams are rife, here&#39;s how to protect yourself and your money](https://appleinsider.com/articles/26/04/10/apple-pay-scams-are-rife-heres-how-to-protect-yourself-and-your-money?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
