@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US Treasury Secretary Scott Bessent and Fed Chair Jerome Powell warned bank CEOs about Anthropic&#39;s Mythos model&#39;s risks at an urgent meeting Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p44#a260409p44)
- - [Alibaba led a ~$293M funding round for ShengShu, just two months after the creator of the Vidu AI video generator raised ~$88M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p43#a260409p43)
- - [Sources: SpaceX lost just under $5B last year while generating more than $18.5B in revenue; the loss figure includes xAI &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/260409/p42#a260409p42)<!-- TECH:END -->
+ - [ChatGPT just got a 50% cheaper Pro plan to take on Anthropic’s Claude](https://www.androidauthority.com/chatgpt-100-dollar-pro-plan-3656464/)
+ - [OpenAI backs an Illinois bill shielding AI labs from liability even for &quot;critical harms,&quot; like 100+ deaths or $1B+ damage, if safety reports were published &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260410/p2#a260410p2)
+ - [Surfshark Promo Codes: 87% Off | April 2026](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
