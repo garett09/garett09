@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 🚯 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
- - 🚯 [Forget about Hans](http://9gag.com/gag/a7oRKVe)<!-- MEMES:END -->
+ - 🚖 [Always be a mommy&#39;s boy](http://9gag.com/gag/a9ygLjZ)
+ - 🚯 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - 🚯 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
 
 --- 
 
