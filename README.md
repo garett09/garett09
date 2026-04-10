@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold, MacBook Neo, and iPhones in Space, on the AppleInsider Podcast](https://appleinsider.com/articles/26/04/10/iphone-fold-macbook-neo-and-iphones-in-space-on-the-appleinsider-podcast?utm_source=rss)
- - [Fear and loathing at OpenAI](https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast)
- - [Apple Pay scams are rife, here&#39;s how to protect yourself and your money](https://appleinsider.com/articles/26/04/10/apple-pay-scams-are-rife-heres-how-to-protect-yourself-and-your-money?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft unveils plans to streamline the Windows Insider program, offering a simplified channel structure, moving between channels without wiping PCs, and more &lpar;Ed Bott/ZDNET&rpar;](http://www.techmeme.com/260410/p20#a260410p20)
+ - [Motorola’s Souped-Up Folding Phone Is Almost Half Off](https://www.wired.com/story/motorola-razr-ultra-deal-426/)
+ - [Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think](https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
