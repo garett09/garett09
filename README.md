@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - 🚖 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
  - 🚯 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 🚯 [Lorax](http://9gag.com/gag/an7PBzL)<!-- MEMES:END -->
+ - 🚯 [Matt Damon&#39;s real-life rom-com](http://9gag.com/gag/aZZOpwn)<!-- MEMES:END -->
 
 --- 
 
