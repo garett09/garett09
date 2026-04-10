@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Do you know this mage? Test your knowledge of the gaming arcane with our quiz on magical allies and villains](https://www.pcgamer.com/games/rpg/do-you-know-this-mage-test-your-knowledge-of-the-gaming-arcane-with-our-quiz-on-magical-allies-and-villains/)
- - [Project Zomboid identifies and bans over a dozen Steam Workshop mods containing &#39;heavily obfuscated code&#39; that was &#39;creating malicious files&#39;](https://www.pcgamer.com/games/survival-crafting/project-zomboid-identifies-and-bans-over-a-dozen-steam-workshop-mods-containing-heavily-obfuscated-code-that-was-creating-malicious-files/)
- - [Dev Behind Busted GTA IV-Like Steam Release Puts Out Apology Letter](https://kotaku.com/dev-behind-busted-gta-iv-like-steam-release-puts-out-apology-letter-2000685874)<!-- GAME:END -->
+ - [Intel&#39;s fabs may at long last be worth all those billions of dollars](https://www.pcgamer.com/hardware/processors/intels-fabs-may-at-long-last-be-worth-all-those-billions-of-dollars/)
+ - [Attack On Titan Studio Confirms Generative AI Was Used In The Opening Of Its Latest Anime](https://kotaku.com/ascendance-bookworm-ai-anime-wit-crunchyroll-2000686660)
+ - [Marathon&#39;s live-service experience began years before the game even launched](https://www.polygon.com/marathon-args-bungie-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
