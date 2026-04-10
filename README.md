@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 🚯 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 🚯 [Matt Damon&#39;s real-life rom-com](http://9gag.com/gag/aZZOpwn)<!-- MEMES:END -->
+ - 🚖 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
+ - 🚯 [No comments...](http://9gag.com/gag/aXP6wNz)
+ - 🚯 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
 
 --- 
 
