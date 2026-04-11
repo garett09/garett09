@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
- - 🚯 [Feminism](http://9gag.com/gag/apRZvqE)
- - 🚯 [Subhuman](http://9gag.com/gag/aAyzwPL)<!-- MEMES:END -->
+ - 🚖 [No comments...](http://9gag.com/gag/aXP6wNz)
+ - 🚯 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
+ - 🚯 [Were you expecting a different response?](http://9gag.com/gag/ary7Ky6)<!-- MEMES:END -->
 
 --- 
 
