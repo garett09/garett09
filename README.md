@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 🚯 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
- - 🚯 [Were you expecting a different response?](http://9gag.com/gag/ary7Ky6)<!-- MEMES:END -->
+ - 🚖 [Wanna share with you degenerates my watch box project. After one month of working I finally made it even it was challenge and I`m really happy and proud I was able to made it.](http://9gag.com/gag/aGy40ww)
+ - 🚯 [A hug is really the cure for everything](http://9gag.com/gag/adBDqZd)
+ - 🚯 [Lol.](http://9gag.com/gag/aVvyeRn)<!-- MEMES:END -->
 
 --- 
 
