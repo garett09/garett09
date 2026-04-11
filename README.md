@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Crimson Desert’ Is a Cat Dad Simulator](https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/)
- - [Zuvi ColorBox Review: A Hair Dye Printer That Struggles](https://www.wired.com/review/zuvi-colorbox/)
- - [I replaced my NAS with Google Drive for a month and barely noticed](https://www.androidauthority.com/replaced-nas-with-google-drive-ssd-3656540/)<!-- TECH:END -->
+ - [A wave of top AI researchers returned from the US to China in the past year, driven by better pay, quality of life, and a more restrictive US immigration system &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260411/p10#a260411p10)
+ - [Some Mac Studio, Mac mini configurations are not available from Apple online](https://appleinsider.com/articles/26/04/11/some-mac-studio-mac-mini-configurations-are-not-available-from-apple-online?utm_source=rss)
+ - [Artemis II Astronauts Splash Down Safely After Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-astronauts-return-home-historic-moon-mission/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
