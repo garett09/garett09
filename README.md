@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI is transforming golf: optimizing course operations, virtual assistants handling tee time bookings, and AI instructor apps improving player performance &lpar;Bradley S. Klein/Wall Street Journal&rpar;](http://www.techmeme.com/260411/p6#a260411p6)
- - [Court filing: OpenAI says Elon Musk&#39;s recent amendments to his OpenAI lawsuit are a &quot;legal ambush&quot;, calling them &quot;legally improper and factually unsupported&quot; &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/260411/p5#a260411p5)
- - [Ramp data: 30.6% of US businesses paid for Anthropic&#39;s tools in March, up from 24.4% in February; OpenAI&#39;s US business adoption remained nearly flat MoM at ~35% &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/260411/p4#a260411p4)<!-- TECH:END -->
+ - [‘Crimson Desert’ Is a Cat Dad Simulator](https://www.wired.com/story/crimson-desert-is-a-cat-dad-simulator/)
+ - [Zuvi ColorBox Review: A Hair Dye Printer That Struggles](https://www.wired.com/review/zuvi-colorbox/)
+ - [I replaced my NAS with Google Drive for a month and barely noticed](https://www.androidauthority.com/replaced-nas-with-google-drive-ssd-3656540/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
