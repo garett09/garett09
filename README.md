@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#39;t need therapy... Therapy needs me](http://9gag.com/gag/aoyQ9mx)
- - 🚯 [No comments...](http://9gag.com/gag/aXP6wNz)
- - 🚯 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)<!-- MEMES:END -->
+ - 🚖 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)
+ - 🚯 [Feminism](http://9gag.com/gag/apRZvqE)
+ - 🚯 [Subhuman](http://9gag.com/gag/aAyzwPL)<!-- MEMES:END -->
 
 --- 
 
