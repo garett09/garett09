@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Times are changing](http://9gag.com/gag/a34Xq2N)
- - 🚯 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - 🚯 [Dude probably regretted it by the end but it was too late to go back, started out funny, ended sad](http://9gag.com/gag/aAyzwwL)<!-- MEMES:END -->
+ - 🚖 [Willie Stroker](http://9gag.com/gag/aByBW3N)
+ - 🚯 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
+ - 🚯 [Nah\u2026](http://9gag.com/gag/an7PbgL)<!-- MEMES:END -->
 
 --- 
 
