@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wanna share with you degenerates my watch box project. After one month of working I finally made it even it was challenge and I`m really happy and proud I was able to made it.](http://9gag.com/gag/aGy40ww)
- - 🚯 [A hug is really the cure for everything](http://9gag.com/gag/adBDqZd)
- - 🚯 [Lol.](http://9gag.com/gag/aVvyeRn)<!-- MEMES:END -->
+ - 🚖 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
+ - 🚯 [Nah\u2026](http://9gag.com/gag/an7PbgL)
+ - 🚯 [Times are changing](http://9gag.com/gag/a34Xq2N)<!-- MEMES:END -->
 
 --- 
 
