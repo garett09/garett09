@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with NYT reporter Tiffany Hsu about AI-generated online influencers, how the volume of synthetic content produces exhaustion for users, and more &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/260411/p13#a260411p13)
- - [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving)
- - [Survey of 6,698 people across six EU countries: around 84% said they don&#39;t trust US tech companies with their personal data; 93% don&#39;t trust Chinese companies &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/260411/p12#a260411p12)<!-- TECH:END -->
+ - [Today only: Grab AirPods Max USB-C for $399.95 &lpar;$150 off&rpar;](https://appleinsider.com/articles/26/04/12/today-only-grab-airpods-max-usb-c-for-39995-150-off?utm_source=rss)
+ - [A journalist recounts how he used ChatGPT to develop a fitness plan to prepare for the Paris Marathon, resulting in a 20-pound weight loss and faster race times &lpar;Derek Wallbank/Bloomberg&rpar;](http://www.techmeme.com/260412/p3#a260412p3)
+ - [The Linux Kernel Organization now lets developers submit AI-generated code, as long as it complies with the guidelines, licensing, and attribution requirements &lpar;Simon Batt/XDA Developers&rpar;](http://www.techmeme.com/260412/p2#a260412p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
