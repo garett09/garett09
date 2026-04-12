@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)
+ - 🚖 [Willie Stroker](http://9gag.com/gag/aByBW3N)
  - 🚯 [Nah\u2026](http://9gag.com/gag/an7PbgL)
- - 🚯 [Times are changing](http://9gag.com/gag/a34Xq2N)<!-- MEMES:END -->
+ - 🚯 [National Minimum Wage in 2007 in UK was \u00a35.52 per hour which gives you \u00a344,16 per day...after taxes it was \u00a336.80...](http://9gag.com/gag/agmzqq1)<!-- MEMES:END -->
 
 --- 
 
