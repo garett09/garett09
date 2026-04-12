@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today only: Grab AirPods Max USB-C for $399.95 &lpar;$150 off&rpar;](https://appleinsider.com/articles/26/04/12/today-only-grab-airpods-max-usb-c-for-39995-150-off?utm_source=rss)
- - [A journalist recounts how he used ChatGPT to develop a fitness plan to prepare for the Paris Marathon, resulting in a 20-pound weight loss and faster race times &lpar;Derek Wallbank/Bloomberg&rpar;](http://www.techmeme.com/260412/p3#a260412p3)
- - [The Linux Kernel Organization now lets developers submit AI-generated code, as long as it complies with the guidelines, licensing, and attribution requirements &lpar;Simon Batt/XDA Developers&rpar;](http://www.techmeme.com/260412/p2#a260412p2)<!-- TECH:END -->
+ - [‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For](https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/)
+ - [Why Is It So Hard to Fix an Electric Bike? &lpar;2026&rpar;](https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike/)
+ - [The AI code wars are heating up](https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
