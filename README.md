@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For](https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/)
- - [Why Is It So Hard to Fix an Electric Bike? &lpar;2026&rpar;](https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike/)
- - [The AI code wars are heating up](https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic)<!-- TECH:END -->
+ - [As weather betting grows on prediction markets, climate experts are debating whether it improves forecasts by aggregating knowledge or is simply a zero-sum game &lpar;Bloomberg&rpar;](http://www.techmeme.com/260412/p7#a260412p7)
+ - [Rockstar Games says hack will have ‘no impact’](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact)
+ - [&#39;Euphoria&#39; Season 3: How to Watch the Premiere Episode](https://www.cnet.com/tech/services-and-software/euphoria-season-3-how-to-watch-the-premiere-episode/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
