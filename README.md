@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A wave of top AI researchers returned from the US to China in the past year, driven by better pay, quality of life, and a more restrictive US immigration system &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260411/p10#a260411p10)
- - [Some Mac Studio, Mac mini configurations are not available from Apple online](https://appleinsider.com/articles/26/04/11/some-mac-studio-mac-mini-configurations-are-not-available-from-apple-online?utm_source=rss)
- - [Artemis II Astronauts Splash Down Safely After Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-astronauts-return-home-historic-moon-mission/)<!-- TECH:END -->
+ - [Q&amp;A with NYT reporter Tiffany Hsu about AI-generated online influencers, how the volume of synthetic content produces exhaustion for users, and more &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/260411/p13#a260411p13)
+ - [The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving](https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving)
+ - [Survey of 6,698 people across six EU countries: around 84% said they don&#39;t trust US tech companies with their personal data; 93% don&#39;t trust Chinese companies &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/260411/p12#a260411p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
