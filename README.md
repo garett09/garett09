@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As weather betting grows on prediction markets, climate experts are debating whether it improves forecasts by aggregating knowledge or is simply a zero-sum game &lpar;Bloomberg&rpar;](http://www.techmeme.com/260412/p7#a260412p7)
- - [Rockstar Games says hack will have ‘no impact’](https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact)
- - [&#39;Euphoria&#39; Season 3: How to Watch the Premiere Episode](https://www.cnet.com/tech/services-and-software/euphoria-season-3-how-to-watch-the-premiere-episode/)<!-- TECH:END -->
+ - [Anthropic debuts Claude for Word in beta, which adds AI editing tools and clickable citations, targeting document-heavy workflows, for Team and Enterprise users &lpar;Tristan Anthony/Business Insider&rpar;](http://www.techmeme.com/260412/p11#a260412p11)
+ - [Police report: Sam Altman&#39;s home appears to have been targeted in a second attack after a gun appeared to have been fired at his home from a car early Sunday &lpar;Jonah Owen Lamb/The San Francisco ...&rpar;](http://www.techmeme.com/260412/p10#a260412p10)
+ - [A look at the escalating global AI arms race, as the US, China, Russia, and others rush to build AI-backed autonomous weapons and defense systems &lpar;New York Times&rpar;](http://www.techmeme.com/260412/p9#a260412p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
