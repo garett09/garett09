@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joyously arty App Store animations join Finder Guy in Apple&#39;s new social media push](https://appleinsider.com/articles/26/04/13/joyously-arty-app-store-animations-joins-finder-guy-in-apples-new-social-media-push?utm_source=rss)
- - [The Strait of Hormuz blockade is causing a slow-moving food crisis](https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis)
- - [Internal memo: OpenAI Chief Revenue Officer Denise Dresser says the Microsoft deal &quot;limited our ability&quot; to reach clients on Bedrock and touts its Amazon deal &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260413/p16#a260413p16)<!-- TECH:END -->
+ - [T-Mobile reportedly forcing some legacy customers over to different plans](https://www.androidauthority.com/t-mobile-legacy-plan-changes-3657082/)
+ - [The Apple Watch Series 11 has returned to best-ever price](https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale)
+ - [Oppo reveals the three nature-inspired shades of the Oppo Find X9 Ultra](https://www.androidauthority.com/oppo-find-x9-ultra-three-colors-3657036/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
