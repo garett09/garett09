@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Willie Stroker](http://9gag.com/gag/aByBW3N)
- - 🚯 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
- - 🚯 [Nah\u2026](http://9gag.com/gag/an7PbgL)<!-- MEMES:END -->
+ - 🚖 [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)
+ - 🚯 [MOCK THEM TILL THEY CRY. Then make memes of them crying.](http://9gag.com/gag/a4POG9p)
+ - 🚯 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)<!-- MEMES:END -->
 
 --- 
 
