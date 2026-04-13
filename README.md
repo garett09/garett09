@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Law firms say lawyers are spending more time responding to swaths of AI-generated client documents, potentially leading firms to raise fixed-fee contract prices &lpar;Elizabeth Bratton/Financial Times&rpar;](http://www.techmeme.com/260413/p6#a260413p6)
- - [Sources: SoftBank, Sony, Honda, and six other Japanese companies launch a new AI company to develop a 1T-parameter foundation model for &quot;physical AI&quot; by 2030 &lpar;Natsuki Yamamoto/Nikkei Asia&rpar;](http://www.techmeme.com/260413/p5#a260413p5)
- - [Nothing Phone 4a Pro passes durability tests with flying colors, but there’s one issue](https://www.androidauthority.com/nothing-phone-4a-pro-durability-test-3656839/)<!-- TECH:END -->
+ - [Joyously arty App Store animations join Finder Guy in Apple&#39;s new social media push](https://appleinsider.com/articles/26/04/13/joyously-arty-app-store-animations-joins-finder-guy-in-apples-new-social-media-push?utm_source=rss)
+ - [The Strait of Hormuz blockade is causing a slow-moving food crisis](https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis)
+ - [Internal memo: OpenAI Chief Revenue Officer Denise Dresser says the Microsoft deal &quot;limited our ability&quot; to reach clients on Bedrock and touts its Amazon deal &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260413/p16#a260413p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
