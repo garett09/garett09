@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s fabs may at long last be worth all those billions of dollars](https://www.pcgamer.com/hardware/processors/intels-fabs-may-at-long-last-be-worth-all-those-billions-of-dollars/)
- - [Attack On Titan Studio Confirms Generative AI Was Used In The Opening Of Its Latest Anime](https://kotaku.com/ascendance-bookworm-ai-anime-wit-crunchyroll-2000686660)
- - [Marathon&#39;s live-service experience began years before the game even launched](https://www.polygon.com/marathon-args-bungie-interview/)<!-- GAME:END -->
+ - [Make Skyrim&#39;s weather feel more impactful with this particle mod](https://www.pcgamer.com/games/the-elder-scrolls/make-skyrims-weather-feel-more-impactful-with-this-particle-mod/)
+ - [Check out the internet&#39;s best gaming videos from March—including one of the coolest custom gaming rigs we&#39;ve ever seen](https://www.pcgamer.com/games/check-out-the-internets-best-gaming-videos-from-march-including-one-of-the-coolest-custom-gaming-rigs-weve-ever-seen/)
+ - [Five new Steam games you probably missed &lpar;April 13, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-13-2026/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
