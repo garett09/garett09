@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Asparagus Is Harvested](http://9gag.com/gag/apRZpKb)
- - 🚯 [Konnichiwa.](http://9gag.com/gag/a1m3KpY)
- - 🚯 [MOCK THEM TILL THEY CRY. Then make memes of them crying.](http://9gag.com/gag/a4POG9p)<!-- MEMES:END -->
+ - 🚖 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
+ - 🚯 [Sorry for bad quality](http://9gag.com/gag/an7Pj7V)
+ - 🚯 [Men. The tolerant creatures that we are.](http://9gag.com/gag/a6ZYoyR)<!-- MEMES:END -->
 
 --- 
 
