@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - 🚯 [Sorry for bad quality](http://9gag.com/gag/an7Pj7V)
- - 🚯 [Men. The tolerant creatures that we are.](http://9gag.com/gag/a6ZYoyR)<!-- MEMES:END -->
+ - 🚖 [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)
+ - 🚯 [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - 🚯 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)<!-- MEMES:END -->
 
 --- 
 
