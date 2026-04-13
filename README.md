@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic debuts Claude for Word in beta, which adds AI editing tools and clickable citations, targeting document-heavy workflows, for Team and Enterprise users &lpar;Tristan Anthony/Business Insider&rpar;](http://www.techmeme.com/260412/p11#a260412p11)
- - [Police report: Sam Altman&#39;s home appears to have been targeted in a second attack after a gun appeared to have been fired at his home from a car early Sunday &lpar;Jonah Owen Lamb/The San Francisco ...&rpar;](http://www.techmeme.com/260412/p10#a260412p10)
- - [A look at the escalating global AI arms race, as the US, China, Russia, and others rush to build AI-backed autonomous weapons and defense systems &lpar;New York Times&rpar;](http://www.techmeme.com/260412/p9#a260412p9)<!-- TECH:END -->
+ - [Law firms say lawyers are spending more time responding to swaths of AI-generated client documents, potentially leading firms to raise fixed-fee contract prices &lpar;Elizabeth Bratton/Financial Times&rpar;](http://www.techmeme.com/260413/p6#a260413p6)
+ - [Sources: SoftBank, Sony, Honda, and six other Japanese companies launch a new AI company to develop a 1T-parameter foundation model for &quot;physical AI&quot; by 2030 &lpar;Natsuki Yamamoto/Nikkei Asia&rpar;](http://www.techmeme.com/260413/p5#a260413p5)
+ - [Nothing Phone 4a Pro passes durability tests with flying colors, but there’s one issue](https://www.androidauthority.com/nothing-phone-4a-pro-durability-test-3656839/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
