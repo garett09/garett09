@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Most WIRED Watches at Watches and Wonders 2026](https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/)
- - [Samsung may have revealed stable One UI 8.5 launch date for Galaxy S25](https://www.androidauthority.com/samsung-stable-one-ui-8-5-galaxy-s25-leak-3657205/)
- - [A profile of Jeffrey Yan and his startup Hyperliquid, a $10B crypto exchange that never took VC money and generated $900M+ in profit in 2025 with 11 employees &lpar;Dom Cooke/Colossus&rpar;](http://www.techmeme.com/260414/p2#a260414p2)<!-- TECH:END -->
+ - [Oura takes ring data into the doctor’s office with its latest partnership](https://www.androidauthority.com/oura-vida-health-partnership-3657238/)
+ - [The heist of iOS 26](https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass)
+ - [Alienware’s new gaming monitor offers a 240Hz QD-OLED panel for just $350](https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
