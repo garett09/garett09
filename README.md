@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura takes ring data into the doctor’s office with its latest partnership](https://www.androidauthority.com/oura-vida-health-partnership-3657238/)
- - [The heist of iOS 26](https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass)
- - [Alienware’s new gaming monitor offers a 240Hz QD-OLED panel for just $350](https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs)<!-- TECH:END -->
+ - [Nvidia stock rose 18%+ over the past ten days, its longest winning streak since 2023; Jensen Huang said in March that Nvidia has $1T of GPU orders through 2027 &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260414/p33#a260414p33)
+ - [Telegram Is Still Hosting a Sanctioned $21 Billion Crypto Scammer Black Market](https://www.wired.com/story/telegram-is-still-hosting-a-sanctioned-21-billion-crypto-scammer-black-market/)
+ - [Tile refreshes hardware lineup with a collection of new earthy tones](https://www.androidauthority.com/tile-tracker-earthline-collection-3657473/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
