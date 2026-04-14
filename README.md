@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Make Skyrim&#39;s weather feel more impactful with this particle mod](https://www.pcgamer.com/games/the-elder-scrolls/make-skyrims-weather-feel-more-impactful-with-this-particle-mod/)
- - [Check out the internet&#39;s best gaming videos from March—including one of the coolest custom gaming rigs we&#39;ve ever seen](https://www.pcgamer.com/games/check-out-the-internets-best-gaming-videos-from-march-including-one-of-the-coolest-custom-gaming-rigs-weve-ever-seen/)
- - [Five new Steam games you probably missed &lpar;April 13, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-13-2026/)<!-- GAME:END -->
+ - [Leon S. Kennedy’s voice actor reveals his favorite Resident Evil one-liner](https://www.polygon.com/resident-evil-leon-kennedy-favorite-quote/)
+ - [Dosa Divas Brings the Heat With Turn-based Combat and Spicy Meals](https://news.xbox.com/en-us/2026/04/14/dosa-divas-brings-the-heat-with-turn-based-combat-and-spicy-meals/)
+ - [Alienware&#39;s new $350 OLED gaming monitor could become the cheapest way to score the enviable panel tech](https://www.pcgamer.com/hardware/gaming-monitors/alienwares-new-usd350-oled-gaming-monitor-could-become-the-cheapest-way-to-score-the-enviable-panel-tech/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
