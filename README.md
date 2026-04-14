@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini in Google Home is getting a whole lot better at understanding you](https://www.androidauthority.com/gemini-home-understand-3657160/)
- - [Sonos Play review: Sonos is back with the Goldilocks of portable speakers](https://appleinsider.com/articles/26/04/14/sonos-play-review-sonos-is-back-with-the-goldilocks-of-portable-speakers?utm_source=rss)
- - [What Is Earthshine? How to Spot the Lunar Marvel in the Skies This Week](https://www.cnet.com/science/space/what-is-earthshine-best-time-to-see-it/)<!-- TECH:END -->
+ - [The Most WIRED Watches at Watches and Wonders 2026](https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/)
+ - [Samsung may have revealed stable One UI 8.5 launch date for Galaxy S25](https://www.androidauthority.com/samsung-stable-one-ui-8-5-galaxy-s25-leak-3657205/)
+ - [A profile of Jeffrey Yan and his startup Hyperliquid, a $10B crypto exchange that never took VC money and generated $900M+ in profit in 2025 with 11 employees &lpar;Dom Cooke/Colossus&rpar;](http://www.techmeme.com/260414/p2#a260414p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
