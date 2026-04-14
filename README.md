@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
- - 🚯 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
- - 🚯 [Gas station NPC encounter](http://9gag.com/gag/aByB8OO)<!-- MEMES:END -->
+ - 🚖 [Guess which country this is coming from. Just one guess.](http://9gag.com/gag/aYQX4y0)
+ - 🚯 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
+ - 🚯 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
 
 --- 
 
