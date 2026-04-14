@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess which country this is coming from. Just one guess.](http://9gag.com/gag/aYQX4y0)
- - 🚯 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
- - 🚯 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
+ - 🚖 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 🚯 [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - 🚯 [Best dad ever](http://9gag.com/gag/aNDEYm3)<!-- MEMES:END -->
 
 --- 
 
