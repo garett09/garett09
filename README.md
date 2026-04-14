@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)
- - 🚯 [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 🚯 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)<!-- MEMES:END -->
+ - 🚖 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
+ - 🚯 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
+ - 🚯 [Gas station NPC encounter](http://9gag.com/gag/aByB8OO)<!-- MEMES:END -->
 
 --- 
 
