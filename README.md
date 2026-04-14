@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile reportedly forcing some legacy customers over to different plans](https://www.androidauthority.com/t-mobile-legacy-plan-changes-3657082/)
- - [The Apple Watch Series 11 has returned to best-ever price](https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale)
- - [Oppo reveals the three nature-inspired shades of the Oppo Find X9 Ultra](https://www.androidauthority.com/oppo-find-x9-ultra-three-colors-3657036/)<!-- TECH:END -->
+ - [Gemini in Google Home is getting a whole lot better at understanding you](https://www.androidauthority.com/gemini-home-understand-3657160/)
+ - [Sonos Play review: Sonos is back with the Goldilocks of portable speakers](https://appleinsider.com/articles/26/04/14/sonos-play-review-sonos-is-back-with-the-goldilocks-of-portable-speakers?utm_source=rss)
+ - [What Is Earthshine? How to Spot the Lunar Marvel in the Skies This Week](https://www.cnet.com/science/space/what-is-earthshine-best-time-to-see-it/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
