@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Repo name in comments.](http://9gag.com/gag/aNDEYr6)
+ - 🚖 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
  - 🚯 [Tetten](http://9gag.com/gag/aXP6x4b)
- - 🚯 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)<!-- MEMES:END -->
+ - 🚯 [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)<!-- MEMES:END -->
 
 --- 
 
