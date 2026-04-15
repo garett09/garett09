@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sebastian should, indeed, go to sleep. Some things one shoukd not witness.](http://9gag.com/gag/a9ygR0m)
- - 🚯 [Minimum wage stayed frozen while billionaire wealth went orbital](http://9gag.com/gag/avyK8eE)
- - 🚯 [Dude lost the race but won the show](http://9gag.com/gag/aqyoKQZ)<!-- MEMES:END -->
+ - 🚖 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
+ - 🚯 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
+ - 🚯 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
 
 --- 
 
