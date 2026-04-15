@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok nonconsensual pornographic deepfakes almost led to an App Store ban](https://appleinsider.com/articles/26/04/15/grok-nonconsensual-pornographic-deepfakes-almost-led-to-an-app-store-ban?utm_source=rss)
- - [Maine&#39;s legislature passed a bill blocking new data centers that exceed 20 MW capacity until November 2027, making it the first state to enact such a measure &lpar;Alyssa Lukpat/Wall Street Journal&rpar;](http://www.techmeme.com/260414/p52#a260414p52)
- - [Omdia: Facebook, Instagram, YouTube, and TikTok now capture over 90% of social media ad revenue, with Meta accounting for 70% of the total &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/260414/p51#a260414p51)<!-- TECH:END -->
+ - [Q&amp;A with ElevenLabs co-founder Mati Staniszewski on how audio models work, the company&#39;s business model, the conversational Turing Test, voice agents, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260415/p9#a260415p9)
+ - [Asia&#39;s startup funding rose 93% YoY to $27.4B in Q1, the highest quarterly total in 3+ years, with Chinese startups raising $16.5B and Indian startups $3.8B &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/260415/p8#a260415p8)
+ - [Apple endorses the ~$11.6B Amazon-Globalstar deal, citing a &quot;proven track record&quot; with Amazon infrastructure; Apple holds a ~20% stake in Globalstar &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260415/p7#a260415p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
