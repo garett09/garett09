@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
- - 🚯 [Tetten](http://9gag.com/gag/aXP6x4b)
- - 🚯 [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)<!-- MEMES:END -->
+ - 🚖 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
+ - 🚯 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
+ - 🚯 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)<!-- MEMES:END -->
 
 --- 
 
