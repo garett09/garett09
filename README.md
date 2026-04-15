@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with ElevenLabs co-founder Mati Staniszewski on how audio models work, the company&#39;s business model, the conversational Turing Test, voice agents, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260415/p9#a260415p9)
- - [Asia&#39;s startup funding rose 93% YoY to $27.4B in Q1, the highest quarterly total in 3+ years, with Chinese startups raising $16.5B and Indian startups $3.8B &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/260415/p8#a260415p8)
- - [Apple endorses the ~$11.6B Amazon-Globalstar deal, citing a &quot;proven track record&quot; with Amazon infrastructure; Apple holds a ~20% stake in Globalstar &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260415/p7#a260415p7)<!-- TECH:END -->
+ - [iPad Air with OLED now expected to have an early 2027 launch](https://appleinsider.com/articles/26/04/15/ipad-air-with-oled-now-expected-to-have-an-early-2027-launch?utm_source=rss)
+ - [More phone cameras should come with silly telephoto lenses](https://www.theverge.com/tech/912097/vivo-x300-ultra-camera-kit-hands-on)
+ - [Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work](https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
