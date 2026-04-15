@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Air with OLED now expected to have an early 2027 launch](https://appleinsider.com/articles/26/04/15/ipad-air-with-oled-now-expected-to-have-an-early-2027-launch?utm_source=rss)
- - [More phone cameras should come with silly telephoto lenses](https://www.theverge.com/tech/912097/vivo-x300-ultra-camera-kit-hands-on)
- - [Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work](https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing)<!-- TECH:END -->
+ - [FTC pushes ad agencies into dropping brand safety rules](https://www.theverge.com/policy/912680/ftc-ad-agency-settlement-trust-safety)
+ - [NASA Wants to Put Nuclear Reactors on the Moon](https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/)
+ - [DJI teases new OSMO Pocket 4 feature that will bring out your inner filmmaker](https://www.androidauthority.com/dji-osmo-pocket-4-slow-shutter-3657876/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
