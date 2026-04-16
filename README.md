@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC pushes ad agencies into dropping brand safety rules](https://www.theverge.com/policy/912680/ftc-ad-agency-settlement-trust-safety)
- - [NASA Wants to Put Nuclear Reactors on the Moon](https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/)
- - [DJI teases new OSMO Pocket 4 feature that will bring out your inner filmmaker](https://www.androidauthority.com/dji-osmo-pocket-4-slow-shutter-3657876/)<!-- TECH:END -->
+ - [Anthropic rolls out identity verification that may require Claude users to provide a government-issued photo ID and live selfie to access &quot;certain capabilities&quot; &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/260415/p48#a260415p48)
+ - [A TTP analysis finds dozens of nudify apps in Apple and Google app stores via search, despite company policy prohibiting them; the apps earned $122M+ in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/260415/p47#a260415p47)
+ - [Spotify Champions Live Music With Independent Music Venue Deal](https://www.cnet.com/culture/entertainment/spotify-niva-live-independent-music-venue-partnership/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
