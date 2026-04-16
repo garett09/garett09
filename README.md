@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Leon S. Kennedy’s voice actor reveals his favorite Resident Evil one-liner](https://www.polygon.com/resident-evil-leon-kennedy-favorite-quote/)
- - [Dosa Divas Brings the Heat With Turn-based Combat and Spicy Meals](https://news.xbox.com/en-us/2026/04/14/dosa-divas-brings-the-heat-with-turn-based-combat-and-spicy-meals/)
- - [Alienware&#39;s new $350 OLED gaming monitor could become the cheapest way to score the enviable panel tech](https://www.pcgamer.com/hardware/gaming-monitors/alienwares-new-usd350-oled-gaming-monitor-could-become-the-cheapest-way-to-score-the-enviable-panel-tech/)<!-- GAME:END -->
+ - [Street Fighter 6’s Long-Awaited Incest Nerf Is Here And Does Basically Nothing](https://kotaku.com/street-fighter-6-alex-patricia-incest-tom-patch-notes-2000688200)
+ - [Lee Cronin&#39;s The Mummy makes a name for itself as the gnarliest mummy movie](https://www.polygon.com/lee-cronin-the-mummy-2026-review/)
+ - [Netflix brings a new twist to Willy Wonka with Charlie vs. the Chocolate Factory](https://www.polygon.com/charlie-vs-the-chocolate-factory-netflix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
