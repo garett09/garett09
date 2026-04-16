@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
- - 🚯 [Murica sh*t](http://9gag.com/gag/aGy4dqG)
- - 🚯 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)<!-- MEMES:END -->
+ - 🚖 [Going through it boys. F**k you and see you tomorrow](http://9gag.com/gag/aVvy788)
+ - 🚯 [Satisfying LightBloom Crystal](http://9gag.com/gag/aW43jn3)
+ - 🚯 [Eating out with the bro](http://9gag.com/gag/a9ygnOo)<!-- MEMES:END -->
 
 --- 
 
