@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Voice actors worldwide are mobilizing to protect their livelihoods and personality rights as Hollywood studios push AI dubbing to replace human performances &lpar;Rina Chandran/Rest of World&rpar;](http://www.techmeme.com/260416/p8#a260416p8)
- - [A primer on interpretability and how AI researchers are figuring out how to open and understand the &quot;black box&quot; that holds the formulas within most AI models &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/260416/p7#a260416p7)
- - [How cyberscammers are bypassing major banks&#39; KYC facial scans using stolen biometric data and virtual camera tools sold via Telegram channels &lpar;Fiona Kelliher/MIT Technology Review&rpar;](http://www.techmeme.com/260416/p6#a260416p6)<!-- TECH:END -->
+ - [Sources: Google is negotiating a deal with the US DOD that would let the Pentagon deploy Gemini AI models in classified settings, reversing its previous stance &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/260416/p23#a260416p23)
+ - [Canva’s AI 2.0 update goes all in on prompt-powered design tools](https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability)
+ - [Anthropic secures new London office space for 800 people, days after OpenAI unveiled its first London office; Anthropic currently has 200+ London staff &lpar;Kai Nicol-Schwarz/CNBC&rpar;](http://www.techmeme.com/260416/p22#a260416p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
