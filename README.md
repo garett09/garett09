@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well well well](http://9gag.com/gag/aGy4dNZ)
- - 🚯 [Murica sh*t](http://9gag.com/gag/aGy4dqG)
- - 🚯 [History is wild and this explains so much about Louisiana](http://9gag.com/gag/aMVMxBx)<!-- MEMES:END -->
+ - 🚖 [Cant fall asleep](http://9gag.com/gag/aqyon8R)
+ - 🚯 [Passing the 30s threshold](http://9gag.com/gag/amo4539)
+ - 🚯 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)<!-- MEMES:END -->
 
 --- 
 
