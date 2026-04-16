@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
- - 🚯 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
- - 🚯 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
+ - 🚖 [Well well well](http://9gag.com/gag/aGy4dNZ)
+ - 🚯 [Murica sh*t](http://9gag.com/gag/aGy4dqG)
+ - 🚯 [History is wild and this explains so much about Louisiana](http://9gag.com/gag/aMVMxBx)<!-- MEMES:END -->
 
 --- 
 
