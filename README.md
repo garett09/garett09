@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic rolls out identity verification that may require Claude users to provide a government-issued photo ID and live selfie to access &quot;certain capabilities&quot; &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/260415/p48#a260415p48)
- - [A TTP analysis finds dozens of nudify apps in Apple and Google app stores via search, despite company policy prohibiting them; the apps earned $122M+ in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/260415/p47#a260415p47)
- - [Spotify Champions Live Music With Independent Music Venue Deal](https://www.cnet.com/culture/entertainment/spotify-niva-live-independent-music-venue-partnership/)<!-- TECH:END -->
+ - [Voice actors worldwide are mobilizing to protect their livelihoods and personality rights as Hollywood studios push AI dubbing to replace human performances &lpar;Rina Chandran/Rest of World&rpar;](http://www.techmeme.com/260416/p8#a260416p8)
+ - [A primer on interpretability and how AI researchers are figuring out how to open and understand the &quot;black box&quot; that holds the formulas within most AI models &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/260416/p7#a260416p7)
+ - [How cyberscammers are bypassing major banks&#39; KYC facial scans using stolen biometric data and virtual camera tools sold via Telegram channels &lpar;Fiona Kelliher/MIT Technology Review&rpar;](http://www.techmeme.com/260416/p6#a260416p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
