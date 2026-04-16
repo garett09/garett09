@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google is negotiating a deal with the US DOD that would let the Pentagon deploy Gemini AI models in classified settings, reversing its previous stance &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/260416/p23#a260416p23)
- - [Canva’s AI 2.0 update goes all in on prompt-powered design tools](https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability)
- - [Anthropic secures new London office space for 800 people, days after OpenAI unveiled its first London office; Anthropic currently has 200+ London staff &lpar;Kai Nicol-Schwarz/CNBC&rpar;](http://www.techmeme.com/260416/p22#a260416p22)<!-- TECH:END -->
+ - [Live Nation says it will fight monopoly suit loss](https://www.theverge.com/policy/913494/live-nation-ticketmaster-fight-state-monopoly-jury-verdict)
+ - [Ozlo’s comfy Sleepbuds are nearly 30 percent off in the run-up to Mother’s Day](https://www.theverge.com/gadgets/913352/ozlo-sleepbuds-mothers-day-deal-sale)
+ - [Teenage Engineering might be getting into instrument amps next](https://www.theverge.com/gadgets/913396/teenage-engineering-ko-amp-35-leak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
