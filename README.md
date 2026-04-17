@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Forging a Lethal Sword](http://9gag.com/gag/a6ZYEnm)
- - 🚯 [Total is a sad day. My best Friend is gone. 15 years old and you were always there for me. Thanks buddy and rest in peace.](http://9gag.com/gag/a6ZY1Gm)
- - 🚯 [Remarkable old school tech](http://9gag.com/gag/avyKA9d)<!-- MEMES:END -->
+ - 🚖 [ROFL](http://9gag.com/gag/ary7mL5)
+ - 🚯 [Idiocracy](http://9gag.com/gag/aYQXV4w)
+ - 🚯 [True, or not?](http://9gag.com/gag/azxpxez)<!-- MEMES:END -->
 
 --- 
 
