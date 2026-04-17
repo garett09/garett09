@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Going through it boys. F**k you and see you tomorrow](http://9gag.com/gag/aVvy788)
- - 🚯 [Satisfying LightBloom Crystal](http://9gag.com/gag/aW43jn3)
- - 🚯 [Eating out with the bro](http://9gag.com/gag/a9ygnOo)<!-- MEMES:END -->
+ - 🚖 [The days of Pepsi are long gone.](http://9gag.com/gag/azxpegq)
+ - 🚯 [Backflip catching a frozen piss missile, with the superhero landing](http://9gag.com/gag/aKGo6OQ)
+ - 🚯 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)<!-- MEMES:END -->
 
 --- 
 
