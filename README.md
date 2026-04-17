@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The days of Pepsi are long gone.](http://9gag.com/gag/azxpegq)
- - 🚯 [Backflip catching a frozen piss missile, with the superhero landing](http://9gag.com/gag/aKGo6OQ)
- - 🚯 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)<!-- MEMES:END -->
+ - 🚖 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
+ - 🚯 [Well well well](http://9gag.com/gag/aGy4dNZ)
+ - 🚯 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)<!-- MEMES:END -->
 
 --- 
 
