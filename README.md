@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kraken parent company Payward agrees to acquire Bitnomial, a digital asset derivatives platform, for up to $550M in cash and stock &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/260417/p14#a260417p14)
- - [The creative software industry has declared war on Adobe](https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates)
- - [Cyber experts say the EU&#39;s age verification app has glaring privacy and security problems; after saying it was ready, EU officials say the app is a &quot;demo&quot; &lpar;Politico&rpar;](http://www.techmeme.com/260417/p13#a260417p13)<!-- TECH:END -->
+ - [A profile of wealth manager Iconiq, which, sources say, has $100B AUM, with $26B specifically for VC investing; Iconiq invested $3B into AI startups in 2025 &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260417/p27#a260417p27)
+ - [OPPO Find X10 leak hints at familiar screen but game-changing battery](https://www.androidauthority.com/oppo-find-x10-battery-upgrade-3658676/)
+ - [First Samsung Galaxy A27 renders hint at a long-overdue design refresh](https://www.androidauthority.com/samsung-galaxy-a27-renders-3658627/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
