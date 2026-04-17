@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - 🚯 [Well well well](http://9gag.com/gag/aGy4dNZ)
- - 🚯 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)<!-- MEMES:END -->
+ - 🚖 [Forging a Lethal Sword](http://9gag.com/gag/a6ZYEnm)
+ - 🚯 [Total is a sad day. My best Friend is gone. 15 years old and you were always there for me. Thanks buddy and rest in peace.](http://9gag.com/gag/a6ZY1Gm)
+ - 🚯 [Remarkable old school tech](http://9gag.com/gag/avyKA9d)<!-- MEMES:END -->
 
 --- 
 
