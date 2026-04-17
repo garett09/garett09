@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OnlyFans is in advanced talks to sell a below 20% stake at a $3B+ valuation; previous reports said it wants to sell a ~60% stake at a ~$5.5B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p3#a260417p3)
- - [Sources: China mobilizes multiple agencies to probe Meta&#39;s $2B Manus deal; some officials worry aggressive measures may send chilling signals to the tech sector &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p2#a260417p2)
- - [Nike Promo Codes and Deals: 30% Off](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
+ - [Kraken parent company Payward agrees to acquire Bitnomial, a digital asset derivatives platform, for up to $550M in cash and stock &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/260417/p14#a260417p14)
+ - [The creative software industry has declared war on Adobe](https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates)
+ - [Cyber experts say the EU&#39;s age verification app has glaring privacy and security problems; after saying it was ready, EU officials say the app is a &quot;demo&quot; &lpar;Politico&rpar;](http://www.techmeme.com/260417/p13#a260417p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
