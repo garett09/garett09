@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox agrees to pay $12.5M and implement age verification for all users as part of a settlement with Nevada over claims it failed to protect young users &lpar;Jessica Hill/Associated Press&rpar;](http://www.techmeme.com/260416/p57#a260416p57)
- - [Sources: SpaceX told employees that it has moved up the scheduled date for when shares awarded to employees become eligible for sale from May to April &lpar;Bloomberg&rpar;](http://www.techmeme.com/260416/p56#a260416p56)
- - [Roblox Will Pay $12 Million to Settle Nevada Child Safety Lawsuit](https://www.cnet.com/tech/gaming/roblox-settlement-nevada-12-million-payout-lawsuit-child-safety/)<!-- TECH:END -->
+ - [Sources: OnlyFans is in advanced talks to sell a below 20% stake at a $3B+ valuation; previous reports said it wants to sell a ~60% stake at a ~$5.5B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p3#a260417p3)
+ - [Sources: China mobilizes multiple agencies to probe Meta&#39;s $2B Manus deal; some officials worry aggressive measures may send chilling signals to the tech sector &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p2#a260417p2)
+ - [Nike Promo Codes and Deals: 30% Off](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
