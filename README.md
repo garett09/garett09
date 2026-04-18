@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [ROFL](http://9gag.com/gag/ary7mL5)
- - 🚯 [Idiocracy](http://9gag.com/gag/aYQXV4w)
- - 🚯 [True, or not?](http://9gag.com/gag/azxpxez)<!-- MEMES:END -->
+ - 🚖 [Its too late Mr. Cameraman](http://9gag.com/gag/aNDEDDv)
+ - 🚯 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - 🚯 [These creatures are being airdropped to the shires to destroy everything](http://9gag.com/gag/azxpxKm)<!-- MEMES:END -->
 
 --- 
 
