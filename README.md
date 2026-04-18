@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
- - 🚯 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
- - 🚯 [Post it!](http://9gag.com/gag/aKGomwg)<!-- MEMES:END -->
+ - 🚖 [Its too late Mr. Cameraman](http://9gag.com/gag/aNDEDDv)
+ - 🚯 [So I fact checked it aaaaaand it&#39;s true.](http://9gag.com/gag/aMVMEgX)
+ - 🚯 [Instant karma for this Karen on a bike. You love to see it](http://9gag.com/gag/a1m3mg8)<!-- MEMES:END -->
 
 --- 
 
