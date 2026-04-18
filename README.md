@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of wealth manager Iconiq, which, sources say, has $100B AUM, with $26B specifically for VC investing; Iconiq invested $3B into AI startups in 2025 &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260417/p27#a260417p27)
- - [OPPO Find X10 leak hints at familiar screen but game-changing battery](https://www.androidauthority.com/oppo-find-x10-battery-upgrade-3658676/)
- - [First Samsung Galaxy A27 renders hint at a long-overdue design refresh](https://www.androidauthority.com/samsung-galaxy-a27-renders-3658627/)<!-- TECH:END -->
+ - [What some leaders think of using universal income to mitigate AI-fueled layoffs: Musk calls it the &quot;best way&quot;, OpenAI&#39;s policy doc mentions a Public Wealth Fund &lpar;Siladitya Ray/Forbes&rpar;](http://www.techmeme.com/260417/p38#a260417p38)
+ - [The latest Android Canary build is hitting older Pixel phones, foldables, and tablets](https://www.androidauthority.com/android-canary-2604-expanded-rollout-3658769/)
+ - [One Rumored Color for the iPhone 18 Pro? A Rich Dark Cherry Red](https://www.cnet.com/tech/mobile/iphone-18-pro-dark-cherry-rumor/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
