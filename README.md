@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [U.S. ITC won&#39;t allow Masimo to bring back the Apple Watch ban](https://appleinsider.com/articles/26/04/18/us-itc-wont-allow-masimo-to-bring-back-the-apple-watch-ban?utm_source=rss)
- - [Motorola Razr 2026 Rumor Roundup: What We Know About the Next Razr Flip Phones](https://www.cnet.com/tech/mobile/motorola-razr-2026-rumor-roundup/)
- - [I canceled ChatGPT Plus and 2 other AI subscriptions — here’s what I replaced them with](https://www.androidauthority.com/canceled-chatgpt-plus-perplexity-pro-firefly-replacements-3658171/)<!-- TECH:END -->
+ - [Airbnb launches a pilot in NYC, LA, and other cities that lets users to select from a range of boutique hotels alongside private homes in a bid to boost growth &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/260418/p8#a260418p8)
+ - [Salesforce announces Headless 360, an initiative that will give AI agents access to Salesforce&#39;s platform capabilities through APIs, MCP tools or CLI commands &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260418/p7#a260418p7)
+ - [Judge rules Trump administration violated the First Amendment in fight against ICE-tracking](https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
