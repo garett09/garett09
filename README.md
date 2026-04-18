@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its too late Mr. Cameraman](http://9gag.com/gag/aNDEDDv)
- - 🚯 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
- - 🚯 [These creatures are being airdropped to the shires to destroy everything](http://9gag.com/gag/azxpxKm)<!-- MEMES:END -->
+ - 🚖 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
+ - 🚯 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - 🚯 [Post it!](http://9gag.com/gag/aKGomwg)<!-- MEMES:END -->
 
 --- 
 
