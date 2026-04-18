@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What some leaders think of using universal income to mitigate AI-fueled layoffs: Musk calls it the &quot;best way&quot;, OpenAI&#39;s policy doc mentions a Public Wealth Fund &lpar;Siladitya Ray/Forbes&rpar;](http://www.techmeme.com/260417/p38#a260417p38)
- - [The latest Android Canary build is hitting older Pixel phones, foldables, and tablets](https://www.androidauthority.com/android-canary-2604-expanded-rollout-3658769/)
- - [One Rumored Color for the iPhone 18 Pro? A Rich Dark Cherry Red](https://www.cnet.com/tech/mobile/iphone-18-pro-dark-cherry-rumor/)<!-- TECH:END -->
+ - [Autonomous vehicle startups raised a record $21.4B across 34 deals through April 15, up from $5.9B raised across 99 investments globally in all of 2025 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260418/p4#a260418p4)
+ - [Chinese lidar maker Hesai, a primary supplier for Nvidia&#39;s ADAS, announces EXT lidar, calling it the industry&#39;s first to integrate spatial and color detection &lpar;Reuters&rpar;](http://www.techmeme.com/260418/p3#a260418p3)
+ - [Some Mac Mini and Mac Studio models are unavailable or facing up to 12-week wait times in the US, with analysts citing strong demand from AI agent power users &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/260418/p2#a260418p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
