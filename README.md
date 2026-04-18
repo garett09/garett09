@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous vehicle startups raised a record $21.4B across 34 deals through April 15, up from $5.9B raised across 99 investments globally in all of 2025 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260418/p4#a260418p4)
- - [Chinese lidar maker Hesai, a primary supplier for Nvidia&#39;s ADAS, announces EXT lidar, calling it the industry&#39;s first to integrate spatial and color detection &lpar;Reuters&rpar;](http://www.techmeme.com/260418/p3#a260418p3)
- - [Some Mac Mini and Mac Studio models are unavailable or facing up to 12-week wait times in the US, with analysts citing strong demand from AI agent power users &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/260418/p2#a260418p2)<!-- TECH:END -->
+ - [U.S. ITC won&#39;t allow Masimo to bring back the Apple Watch ban](https://appleinsider.com/articles/26/04/18/us-itc-wont-allow-masimo-to-bring-back-the-apple-watch-ban?utm_source=rss)
+ - [Motorola Razr 2026 Rumor Roundup: What We Know About the Next Razr Flip Phones](https://www.cnet.com/tech/mobile/motorola-razr-2026-rumor-roundup/)
+ - [I canceled ChatGPT Plus and 2 other AI subscriptions — here’s what I replaced them with](https://www.androidauthority.com/canceled-chatgpt-plus-perplexity-pro-firefly-replacements-3658171/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
