@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb launches a pilot in NYC, LA, and other cities that lets users to select from a range of boutique hotels alongside private homes in a bid to boost growth &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/260418/p8#a260418p8)
- - [Salesforce announces Headless 360, an initiative that will give AI agents access to Salesforce&#39;s platform capabilities through APIs, MCP tools or CLI commands &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260418/p7#a260418p7)
- - [Judge rules Trump administration violated the First Amendment in fight against ICE-tracking](https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking)<!-- TECH:END -->
+ - [A US judge grants an injunction to makers of the banned &quot;ICE Sightings - Chicagoland&quot; Facebook group and Eyes Up mobile app, who say DHS and DOJ violated the 1A &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/260418/p11#a260418p11)
+ - [An attacker targeting Kelp DAO&#39;s LayerZero-powered cross-chain bridge, appears to have drained ~$292M worth of rsETH before Kelp paused all rsETH contracts &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260418/p10#a260418p10)
+ - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
