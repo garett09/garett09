@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Epstein](http://9gag.com/gag/aoyQKxn)
- - 🚯 [X men 3 behind the scenes](http://9gag.com/gag/aE0mqDN)
- - 🚯 [Loose screws on Boeing. This is fine...](http://9gag.com/gag/aPAbgEB)<!-- MEMES:END -->
+ - 🚖 [Is This True ?](http://9gag.com/gag/a2v6MDD)
+ - 🚯 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
+ - 🚯 [Jennifer Lopez.](http://9gag.com/gag/aZZODeQ)<!-- MEMES:END -->
 
 --- 
 
