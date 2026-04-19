@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6’s Long-Awaited Incest Nerf Is Here And Does Basically Nothing](https://kotaku.com/street-fighter-6-alex-patricia-incest-tom-patch-notes-2000688200)
- - [Lee Cronin&#39;s The Mummy makes a name for itself as the gnarliest mummy movie](https://www.polygon.com/lee-cronin-the-mummy-2026-review/)
- - [Netflix brings a new twist to Willy Wonka with Charlie vs. the Chocolate Factory](https://www.polygon.com/charlie-vs-the-chocolate-factory-netflix/)<!-- GAME:END -->
+ - [Pokémon Pokopia Bulbasaur&#39;s jump rope contest event guide](https://www.polygon.com/pokemon-pokopia-jump-rope-contest-event-bulbasaur/)
+ - [&#39;Are monitors anti-inflation?&#39;: AOC argues monitors are a better upgrade than graphics cards or memory right now, which seems like the kind of thing a monitor manufacturer would say](https://www.pcgamer.com/hardware/gaming-monitors/are-monitors-anti-inflation-aoc-argues-monitors-are-a-better-upgrade-than-graphics-cards-or-memory-right-now-which-seems-like-the-kind-of-thing-a-monitor-manufacturer-would-say/)
+ - [Microsoft doesn&#39;t know what it&#39;s going to do with Xbox Game Pass](https://www.polygon.com/xbox-game-pass-future-unknown/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
