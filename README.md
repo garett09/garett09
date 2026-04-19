@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the AI nonprofit METR, whose time-horizon metrics are used by AI researchers and Wall Street investors to track the rapid development of AI systems &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260419/p7#a260419p7)
- - [Expo, which develops an eponymous React Native framework and provides cloud services for building cross-platform apps, raised a $45M Series B led by Georgian &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/260419/p6#a260419p6)
- - [Binance and Bitget to probe a rally in RaveDAO&#39;s RAVE token, which surged 4,500% in a week, after ZachXBT alleged RAVE insiders engineered a large short squeeze &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260419/p5#a260419p5)<!-- TECH:END -->
+ - [Three years later, 200MP cameras finally live up to the hype](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vivo-x300-ultra-200mp-shootout-3656082/)
+ - [Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet](https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review)
+ - [The future of local TV news has taken a Trumpian turn](https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
