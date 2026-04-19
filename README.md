@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is This True ?](http://9gag.com/gag/a2v6MDD)
- - 🚯 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
- - 🚯 [Jennifer Lopez.](http://9gag.com/gag/aZZODeQ)<!-- MEMES:END -->
+ - 🚖 [Loose screws on Boeing. This is fine...](http://9gag.com/gag/aPAbgEB)
+ - 🚯 [Jennifer Lopez.](http://9gag.com/gag/aZZODeQ)
+ - 🚯 [German Female Teen Starter Kit](http://9gag.com/gag/aByBZqD)<!-- MEMES:END -->
 
 --- 
 
