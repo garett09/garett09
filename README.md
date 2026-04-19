@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge grants an injunction to makers of the banned &quot;ICE Sightings - Chicagoland&quot; Facebook group and Eyes Up mobile app, who say DHS and DOJ violated the 1A &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/260418/p11#a260418p11)
- - [An attacker targeting Kelp DAO&#39;s LayerZero-powered cross-chain bridge, appears to have drained ~$292M worth of rsETH before Kelp paused all rsETH contracts &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260418/p10#a260418p10)
- - [The RAM shortage could last years](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years)<!-- TECH:END -->
+ - [A look at the AI nonprofit METR, whose time-horizon metrics are used by AI researchers and Wall Street investors to track the rapid development of AI systems &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260419/p7#a260419p7)
+ - [Expo, which develops an eponymous React Native framework and provides cloud services for building cross-platform apps, raised a $45M Series B led by Georgian &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/260419/p6#a260419p6)
+ - [Binance and Bitget to probe a rally in RaveDAO&#39;s RAVE token, which surged 4,500% in a week, after ZachXBT alleged RAVE insiders engineered a large short squeeze &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260419/p5#a260419p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
