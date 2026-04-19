@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - 🚯 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - 🚖 [I am speed](http://9gag.com/gag/a9yg6qW)
+ - 🚯 [Young Big E appearing in a Talk show...](http://9gag.com/gag/aoyQWdw)
  - 🚯 [True guys?](http://9gag.com/gag/adBDBr9)<!-- MEMES:END -->
 
 --- 
