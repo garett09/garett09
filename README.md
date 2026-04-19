@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Three years later, 200MP cameras finally live up to the hype](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vivo-x300-ultra-200mp-shootout-3656082/)
- - [Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet](https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review)
- - [The future of local TV news has taken a Trumpian turn](https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news)<!-- TECH:END -->
+ - [iOS 27&#39;s home screen update will make customization even easier](https://appleinsider.com/articles/26/04/19/ios-27s-home-screen-update-will-make-customization-even-easier?utm_source=rss)
+ - [Sources say NSA is using Mythos Preview, and a source says it is also being used widely within the DoD, despite Anthropic&#39;s designation as a supply chain risk &lpar;Axios&rpar;](http://www.techmeme.com/260419/p12#a260419p12)
+ - [Palantir posts a 22-point summary of Alex Karp&#39;s book, promoting hard power, AI weapons and deterrence, while denouncing pluralism and &quot;regressive&quot; cultures &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/260419/p11#a260419p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
