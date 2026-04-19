@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Loose screws on Boeing. This is fine...](http://9gag.com/gag/aPAbgEB)
- - 🚯 [Jennifer Lopez.](http://9gag.com/gag/aZZODeQ)
- - 🚯 [German Female Teen Starter Kit](http://9gag.com/gag/aByBZqD)<!-- MEMES:END -->
+ - 🚖 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
+ - 🚯 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - 🚯 [True guys?](http://9gag.com/gag/adBDBr9)<!-- MEMES:END -->
 
 --- 
 
