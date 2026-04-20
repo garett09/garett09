@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If it works , it works](http://9gag.com/gag/aLn7zOW)
- - 🚯 [Everyone would](http://9gag.com/gag/a4PO686)
- - 🚯 [Otter pups help tidy up at closing time and get ice cubes as a reward](http://9gag.com/gag/amo412d)<!-- MEMES:END -->
+ - 🚖 [Just UK police things](http://9gag.com/gag/azxp5Ap)
+ - 🚯 [Clumsy mom](http://9gag.com/gag/aByB6oz)
+ - 🚯 [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)<!-- MEMES:END -->
 
 --- 
 
