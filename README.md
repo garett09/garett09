@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match Group CEO Spencer Rascoff says growing women&#39;s share on Tinder is his &quot;primary focus&quot; to stem user declines; Sensor Tower says 75% of Tinder users are men &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260419/p15#a260419p15)
- - [Fermi CEO Toby Neugebauer is leaving the company, as the data center developer faces issues in securing an anchor tenant and construction delays &lpar;Amy Harder/Axios&rpar;](http://www.techmeme.com/260419/p14#a260419p14)
- - [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)<!-- TECH:END -->
+ - [Your Samsung phone just got a big upgrade for editing photos, videos, and documents](https://www.androidauthority.com/samsung-galaxy-ehance-x-update-3658856/)
+ - [SK hynix says it has begun mass production of the 192GB SOCAMM2, a next-gen LPDDR5X low-power DRAM module designed particularly for Nvidia&#39;s Vera Rubin &lpar;The Korea Herald&rpar;](http://www.techmeme.com/260420/p2#a260420p2)
+ - [Google’s mystery WHOOP rival may finally have a name](https://www.androidauthority.com/google-screenless-fitbit-name-leak-3658852/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
