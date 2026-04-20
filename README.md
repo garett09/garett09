@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Samsung phone just got a big upgrade for editing photos, videos, and documents](https://www.androidauthority.com/samsung-galaxy-ehance-x-update-3658856/)
- - [SK hynix says it has begun mass production of the 192GB SOCAMM2, a next-gen LPDDR5X low-power DRAM module designed particularly for Nvidia&#39;s Vera Rubin &lpar;The Korea Herald&rpar;](http://www.techmeme.com/260420/p2#a260420p2)
- - [Google’s mystery WHOOP rival may finally have a name](https://www.androidauthority.com/google-screenless-fitbit-name-leak-3658852/)<!-- TECH:END -->
+ - [Prego Has a Dinner-Conversation-Recording Device, Capisce?](https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/)
+ - [Vampire Survivors’ new spinoff switches genres but keeps the good vibes](https://www.theverge.com/games/913410/vampire-survivors-new-spinoff-switches-genres-but-keeps-the-good-vibes)
+ - [This pasta sauce wants to record your family](https://www.theverge.com/tech/913874/prego-connection-keeper-bundle-voice-recorder-storycorps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
