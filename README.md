@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prego Has a Dinner-Conversation-Recording Device, Capisce?](https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/)
- - [Vampire Survivors’ new spinoff switches genres but keeps the good vibes](https://www.theverge.com/games/913410/vampire-survivors-new-spinoff-switches-genres-but-keeps-the-good-vibes)
- - [This pasta sauce wants to record your family](https://www.theverge.com/tech/913874/prego-connection-keeper-bundle-voice-recorder-storycorps)<!-- TECH:END -->
+ - [Spring 2027 iPhone 18 &amp; iPhone 18e may be more alike than different](https://appleinsider.com/articles/26/04/20/spring-2027-iphone-18-iphone-18e-may-be-more-alike-than-different?utm_source=rss)
+ - [War Memes Are Turning Conflict Into Content](https://www.wired.com/story/war-memes-turn-conflict-into-content/)
+ - [Mercedes’ first all-electric C-Class is its sportiest one yet](https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
