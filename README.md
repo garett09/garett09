@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just UK police things](http://9gag.com/gag/azxp5Ap)
+ - 🚖 [Save the trees](http://9gag.com/gag/apRZDd8)
  - 🚯 [Clumsy mom](http://9gag.com/gag/aByB6oz)
- - 🚯 [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)<!-- MEMES:END -->
+ - 🚯 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)<!-- MEMES:END -->
 
 --- 
 
