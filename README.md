@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am speed](http://9gag.com/gag/a9yg6qW)
- - 🚯 [Young Big E appearing in a Talk show...](http://9gag.com/gag/aoyQWdw)
- - 🚯 [True guys?](http://9gag.com/gag/adBDBr9)<!-- MEMES:END -->
+ - 🚖 [If it works , it works](http://9gag.com/gag/aLn7zOW)
+ - 🚯 [Everyone would](http://9gag.com/gag/a4PO686)
+ - 🚯 [Otter pups help tidy up at closing time and get ice cubes as a reward](http://9gag.com/gag/amo412d)<!-- MEMES:END -->
 
 --- 
 
