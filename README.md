@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation&amp;#8217;s age-gating restrictions are coming to UK consoles](https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat)
- - [A look at EU efforts to cut reliance on US tech; study: Amazon, Microsoft, and Google hold ~70% of EU cloud and US vendors get 80% of enterprise software spend &lpar;Politico&rpar;](http://www.techmeme.com/260421/p3#a260421p3)
- - [Google Fi subscriber? You might be eligible for a free Pixel Watch 3.](https://www.androidauthority.com/google-fi-free-pixel-watch-3-3659265/)<!-- TECH:END -->
+ - [I tried the smart wallet Google fans have been waiting for — but it’s overrated](https://www.androidauthority.com/i-tried-smart-wallet-for-google-find-hub-but-its-overrated-3659107/)
+ - [The ‘Holy Trinity’ of Ultra camera phones is finally complete with this global launch](https://www.androidauthority.com/oppo-find-x9-ultra-3659359/)
+ - [The SpaceX IPO is a trillion-dollar gamble on the future of space](https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
