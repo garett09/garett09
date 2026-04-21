@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Buck Bumble, the Nintendo 64 shooter starring a cyborg bumblebee, is almost certainly getting a remake](https://www.pcgamer.com/games/action/buck-bumble-the-nintendo-64-shooter-starring-a-cyborg-bumblebee-is-almost-certainly-getting-a-remake/)
- - [Petit Planet is exactly the Animal Crossing clone it looked like, but after 15 hours of it I&#39;m shocked by how many new ideas it has too](https://www.pcgamer.com/games/life-sim/petit-planet-is-exactly-the-animal-crossing-clone-it-looked-like-but-after-15-hours-of-it-im-shocked-by-how-many-new-ideas-it-has-too/)
- - [Dorohedoro season 2 is finally here and somehow wilder than ever](https://www.polygon.com/dorohedoro-season-2-netflix-impressions-characters/)<!-- GAME:END -->
+ - [Kick will bring cozy soccer gameplay to Steam](https://www.polygon.com/kick-soccer-game-steam-trailer-announcement/)
+ - [Mass Effect Miranda Lawson statue revealed 16 years after Mass Effect 2 release](https://www.polygon.com/mass-effect-2-miranda-mordin-dark-horse-statues/)
+ - [New horror game Penguin Colony sees you face supernatural threats as a flightless bird](https://www.polygon.com/penguin-colony-trailer-horror-game-the-terror/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
