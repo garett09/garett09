@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spring 2027 iPhone 18 &amp; iPhone 18e may be more alike than different](https://appleinsider.com/articles/26/04/20/spring-2027-iphone-18-iphone-18e-may-be-more-alike-than-different?utm_source=rss)
- - [War Memes Are Turning Conflict Into Content](https://www.wired.com/story/war-memes-turn-conflict-into-content/)
- - [Mercedes’ first all-electric C-Class is its sportiest one yet](https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs)<!-- TECH:END -->
+ - [Sources: Jeff Bezos&#39; Project Prometheus is close to a $10B fundraising deal, which includes an initial $6.2B raise in November, at a $38B post-money valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260420/p34#a260420p34)
+ - [In an email to employees, Johny Srouji details newly combined hardware engineering and hardware technologies division, organized across five key areas &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260420/p33#a260420p33)
+ - [Apple CEO Tim Cook Steps Down, John Ternus Replaces Him](https://www.cnet.com/news-live/tim-cook-steps-down-as-apple-ceo-replaced-john-ternus/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
