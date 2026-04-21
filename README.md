@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jeff Bezos&#39; Project Prometheus is close to a $10B fundraising deal, which includes an initial $6.2B raise in November, at a $38B post-money valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260420/p34#a260420p34)
- - [In an email to employees, Johny Srouji details newly combined hardware engineering and hardware technologies division, organized across five key areas &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260420/p33#a260420p33)
- - [Apple CEO Tim Cook Steps Down, John Ternus Replaces Him](https://www.cnet.com/news-live/tim-cook-steps-down-as-apple-ceo-replaced-john-ternus/)<!-- TECH:END -->
+ - [PlayStation&amp;#8217;s age-gating restrictions are coming to UK consoles](https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat)
+ - [A look at EU efforts to cut reliance on US tech; study: Amazon, Microsoft, and Google hold ~70% of EU cloud and US vendors get 80% of enterprise software spend &lpar;Politico&rpar;](http://www.techmeme.com/260421/p3#a260421p3)
+ - [Google Fi subscriber? You might be eligible for a free Pixel Watch 3.](https://www.androidauthority.com/google-fi-free-pixel-watch-3-3659265/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
