@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Save the trees](http://9gag.com/gag/apRZDd8)
- - 🚯 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
- - 🚯 [Kid was surely annoying](http://9gag.com/gag/a7oReZm)<!-- MEMES:END -->
+ - 🚖 [Even AI knows what&#39;s up](http://9gag.com/gag/amo4696)
+ - 🚯 [Remember the rock and Oprah on the Hawaii fires? Her alone could swipe her card and all the damage would have been covered and she wouldn\u2019t feel it.](http://9gag.com/gag/a7oRePm)
+ - 🚯 [You can patch systems. But you cannot patch hope.](http://9gag.com/gag/aAyzK7o)<!-- MEMES:END -->
 
 --- 
 
