@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
- - 🚯 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)
- - 🚯 [Hol up](http://9gag.com/gag/avyKeon)<!-- MEMES:END -->
+ - 🚖 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
+ - 🚯 [Save the trees](http://9gag.com/gag/apRZDd8)
+ - 🚯 [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)<!-- MEMES:END -->
 
 --- 
 
