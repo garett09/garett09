@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried the smart wallet Google fans have been waiting for — but it’s overrated](https://www.androidauthority.com/i-tried-smart-wallet-for-google-find-hub-but-its-overrated-3659107/)
- - [The ‘Holy Trinity’ of Ultra camera phones is finally complete with this global launch](https://www.androidauthority.com/oppo-find-x9-ultra-3659359/)
- - [The SpaceX IPO is a trillion-dollar gamble on the future of space](https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch)<!-- TECH:END -->
+ - [OpenAI Beefs Up ChatGPT&#39;s Image Generation Model](https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/)
+ - [Google finally fixes one of the biggest reasons to resist upgrading to Gemini for Home](https://www.androidauthority.com/gemini-for-home-continued-conversation-3659558/)
+ - [&#39;Healthy&#39; Cook plans for a long stay at Apple as chairman](https://appleinsider.com/articles/26/04/21/healthy-cook-plans-for-a-long-stay-at-apple-as-chairman?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
