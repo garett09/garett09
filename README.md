@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Pokopia Bulbasaur&#39;s jump rope contest event guide](https://www.polygon.com/pokemon-pokopia-jump-rope-contest-event-bulbasaur/)
- - [&#39;Are monitors anti-inflation?&#39;: AOC argues monitors are a better upgrade than graphics cards or memory right now, which seems like the kind of thing a monitor manufacturer would say](https://www.pcgamer.com/hardware/gaming-monitors/are-monitors-anti-inflation-aoc-argues-monitors-are-a-better-upgrade-than-graphics-cards-or-memory-right-now-which-seems-like-the-kind-of-thing-a-monitor-manufacturer-would-say/)
- - [Microsoft doesn&#39;t know what it&#39;s going to do with Xbox Game Pass](https://www.polygon.com/xbox-game-pass-future-unknown/)<!-- GAME:END -->
+ - [Windrose factions: Recommendations for improving your reputation with the Smugglers, Buccaneers, Brethren, and People of Tortuga](https://www.pcgamer.com/games/survival-crafting/windrose-factions/)
+ - [After 15 years and 323 hours, I&#39;ve finally beaten Fallout: New Vegas, and this game doesn&#39;t need mods as much as you think it does](https://www.pcgamer.com/games/fallout/after-15-years-and-323-hours-ive-finally-beaten-fallout-new-vegas-and-this-game-doesnt-need-mods-as-much-as-you-think-it-does/)
+ - [Kit Connor&#39;s Elden Ring casting makes perfect sense if you&#39;ve seen his underrated war movie](https://www.polygon.com/kit-connors-elden-ring-casting-makes-perfect-sense-if-youve-seen-his-underrated-war-movie/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
