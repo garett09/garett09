@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Windrose factions: Recommendations for improving your reputation with the Smugglers, Buccaneers, Brethren, and People of Tortuga](https://www.pcgamer.com/games/survival-crafting/windrose-factions/)
- - [After 15 years and 323 hours, I&#39;ve finally beaten Fallout: New Vegas, and this game doesn&#39;t need mods as much as you think it does](https://www.pcgamer.com/games/fallout/after-15-years-and-323-hours-ive-finally-beaten-fallout-new-vegas-and-this-game-doesnt-need-mods-as-much-as-you-think-it-does/)
- - [Kit Connor&#39;s Elden Ring casting makes perfect sense if you&#39;ve seen his underrated war movie](https://www.polygon.com/kit-connors-elden-ring-casting-makes-perfect-sense-if-youve-seen-his-underrated-war-movie/)<!-- GAME:END -->
+ - [Buck Bumble, the Nintendo 64 shooter starring a cyborg bumblebee, is almost certainly getting a remake](https://www.pcgamer.com/games/action/buck-bumble-the-nintendo-64-shooter-starring-a-cyborg-bumblebee-is-almost-certainly-getting-a-remake/)
+ - [Petit Planet is exactly the Animal Crossing clone it looked like, but after 15 hours of it I&#39;m shocked by how many new ideas it has too](https://www.pcgamer.com/games/life-sim/petit-planet-is-exactly-the-animal-crossing-clone-it-looked-like-but-after-15-hours-of-it-im-shocked-by-how-many-new-ideas-it-has-too/)
+ - [Dorohedoro season 2 is finally here and somehow wilder than ever](https://www.polygon.com/dorohedoro-season-2-netflix-impressions-characters/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
