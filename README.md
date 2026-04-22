@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: New Apple CEO&#39;s biggest challenge will be retiring leadership &amp; regular churn](https://appleinsider.com/articles/26/04/22/report-new-apple-ceos-biggest-challenge-will-be-retiring-leadership-regular-churn?utm_source=rss)
- - [Filing: SpaceX tells investors that orbital AI data centers use &quot;unproven technologies&quot; and may not achieve &quot;commercial viability&quot; due to space-related risks &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260421/p55#a260421p55)
- - [Apple CEO Tim Cook Steps Down, John Ternus Replaces Him](https://www.cnet.com/news-live/tim-cook-steps-down-as-apple-ceo-replaced-john-ternus/)<!-- TECH:END -->
+ - [Efforts to revive chip manufacturing in Pennsylvania have been left in limbo by President Trump&#39;s sudden upending of US semiconductor policy over the past year &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260422/p10#a260422p10)
+ - [Tencent launches an international beta for QClaw, its OpenClaw-based AI agent, and says the Chinese version, launched in March, reached over 1M users in 10 days &lpar;T. K. Lin/KrASIA&rpar;](http://www.techmeme.com/260422/p9#a260422p9)
+ - [TikTok&#39;s plan to build a ~$38B data center campus in Brazil, its first in Latin America, is facing local pushback over sustainability in a semi-arid area &lpar;Financial Times&rpar;](http://www.techmeme.com/260422/p8#a260422p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
