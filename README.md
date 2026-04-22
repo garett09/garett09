@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Mira Murati&#39;s TML signed a deal with Google Cloud, valued in single-digit billions, to access Google&#39;s latest AI systems built on Nvidia&#39;s GB300 chips &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260422/p22#a260422p22)
- - [BMW’s flagship 7 Series gets its ‘Neue Klasse’ upgrade](https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs)
- - [The year’s weirdest game is hard to explain and even harder to put down](https://www.theverge.com/entertainment/915891/titanium-court-review-indie-game)<!-- TECH:END -->
+ - [Pixel Watch Fall Detection will soon require a Google account sign-in](https://www.androidauthority.com/pixel-watch-fall-detection-account-3659960/)
+ - [Former MrBeast exec sues over ‘years’ of alleged harassment](https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit)
+ - [Sources: SpaceX isn&#39;t acquiring Cursor immediately because the deal could delay its IPO; Cursor is no longer proceeding with its reported $2B funding round &lpar;Bloomberg&rpar;](http://www.techmeme.com/260422/p38#a260422p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
