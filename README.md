@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Efforts to revive chip manufacturing in Pennsylvania have been left in limbo by President Trump&#39;s sudden upending of US semiconductor policy over the past year &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260422/p10#a260422p10)
- - [Tencent launches an international beta for QClaw, its OpenClaw-based AI agent, and says the Chinese version, launched in March, reached over 1M users in 10 days &lpar;T. K. Lin/KrASIA&rpar;](http://www.techmeme.com/260422/p9#a260422p9)
- - [TikTok&#39;s plan to build a ~$38B data center campus in Brazil, its first in Latin America, is facing local pushback over sustainability in a semi-arid area &lpar;Financial Times&rpar;](http://www.techmeme.com/260422/p8#a260422p8)<!-- TECH:END -->
+ - [Source: Mira Murati&#39;s TML signed a deal with Google Cloud, valued in single-digit billions, to access Google&#39;s latest AI systems built on Nvidia&#39;s GB300 chips &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260422/p22#a260422p22)
+ - [BMW’s flagship 7 Series gets its ‘Neue Klasse’ upgrade](https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs)
+ - [The year’s weirdest game is hard to explain and even harder to put down](https://www.theverge.com/entertainment/915891/titanium-court-review-indie-game)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
