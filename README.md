@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
- - 🚯 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
- - 🚯 [This is Cairo, Egypt in 2026. How can you believe that these were the same people who built the pyramids?](http://9gag.com/gag/aoyQRpX)<!-- MEMES:END -->
+ - 🚖 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
+ - 🚯 [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
+ - 🚯 [That look](http://9gag.com/gag/a0ey0VB)<!-- MEMES:END -->
 
 --- 
 
