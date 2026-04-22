@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Owlcat&#39;s had some unusual problems writing romance: &#39;we realized we had three female romanceable characters, and all three were cannibals&#39;](https://www.pcgamer.com/games/rpg/owlcats-had-some-unusual-problems-writing-romance-we-realized-we-had-three-female-romanceable-characters-and-all-three-were-cannibals/)
- - [Australia wants to know how Valve is combating &#39;extreme-right communities&#39; on Steam](https://www.pcgamer.com/gaming-industry/australia-wants-to-know-how-valve-is-combating-extreme-right-communities-on-steam/)
- - [Event Horizon is finally getting a sequel, and it has the perfect writer](https://www.polygon.com/the-new-event-horizon-continuation-has-the-perfect-writer/)<!-- GAME:END -->
+ - [Everything We Know About Alex Garland’s Elden Ring Movie, Including The Latest Leaks From Its Set](https://kotaku.com/elden-ring-movie-everything-we-know-alex-garland-a24-set-leaks-photos-cast-marika-2000689713)
+ - [Studio Ghibli&#39;s next film arrives in July, as a Ghibli Park exclusive](https://www.polygon.com/studio-ghibli-park-new-short-film-night-valley-witches/)
+ - [How to rebuild Strixhaven’s Prismari Artistry Commander deck for Vivi Ornitier](https://www.polygon.com/vivi-ornitier-commander-decklist-strixhaven-prismari-artistry/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
