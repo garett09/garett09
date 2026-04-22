@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kick will bring cozy soccer gameplay to Steam](https://www.polygon.com/kick-soccer-game-steam-trailer-announcement/)
- - [Mass Effect Miranda Lawson statue revealed 16 years after Mass Effect 2 release](https://www.polygon.com/mass-effect-2-miranda-mordin-dark-horse-statues/)
- - [New horror game Penguin Colony sees you face supernatural threats as a flightless bird](https://www.polygon.com/penguin-colony-trailer-horror-game-the-terror/)<!-- GAME:END -->
+ - [Owlcat&#39;s had some unusual problems writing romance: &#39;we realized we had three female romanceable characters, and all three were cannibals&#39;](https://www.pcgamer.com/games/rpg/owlcats-had-some-unusual-problems-writing-romance-we-realized-we-had-three-female-romanceable-characters-and-all-three-were-cannibals/)
+ - [Australia wants to know how Valve is combating &#39;extreme-right communities&#39; on Steam](https://www.pcgamer.com/gaming-industry/australia-wants-to-know-how-valve-is-combating-extreme-right-communities-on-steam/)
+ - [Event Horizon is finally getting a sequel, and it has the perfect writer](https://www.polygon.com/the-new-event-horizon-continuation-has-the-perfect-writer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
