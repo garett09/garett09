@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
- - 🚯 [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
- - 🚯 [That look](http://9gag.com/gag/a0ey0VB)<!-- MEMES:END -->
+ - 🚖 [Doggo](http://9gag.com/gag/aNDEVy6)
+ - 🚯 [White culture](http://9gag.com/gag/amo4xb9)
+ - 🚯 [Life was awesome ....](http://9gag.com/gag/avyKE3Z)<!-- MEMES:END -->
 
 --- 
 
