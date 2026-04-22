@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
- - 🚯 [Save the trees](http://9gag.com/gag/apRZDd8)
- - 🚯 [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)<!-- MEMES:END -->
+ - 🚯 [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)
+ - 🚯 [Darwin Approves](http://9gag.com/gag/a4PONbd)<!-- MEMES:END -->
 
 --- 
 
