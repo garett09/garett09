@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The future is now](http://9gag.com/gag/aKGoeKZ)
- - 🚯 [Brazil.](http://9gag.com/gag/aD2eZpG)
- - 🚯 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
+ - 🚖 [People like that can vote. They think they&#39;re better than you and that you&#39;re lesser than them and want you replaced](http://9gag.com/gag/ajPexM1)
+ - 🚯 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
+ - 🚯 [This is exactly how Saturday mornings felt in the 90s, pure overload of awesome cartoons](http://9gag.com/gag/aGy4A75)<!-- MEMES:END -->
 
 --- 
 
