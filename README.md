@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Iranian women Trump &amp;#8216;saved&amp;#8217; from execution are simultaneously real and AI-manipulated](https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati)
- - [This new limited-edition Kindle case looks perfect for sci-fi fans](https://www.androidauthority.com/amazon-kindle-project-hail-mary-case-3660134/)
- - [An undergraduate used AI assistants to rewrite leaked source code for Claude Code in a different language, highlighting the uncertainty over copyright and AI &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/260422/p50#a260422p50)<!-- TECH:END -->
+ - [A poll of 4,000 workers in the US and the UK finds that the highest-earning and most experienced workers are adopting AI in their jobs far faster than others &lpar;Financial Times&rpar;](http://www.techmeme.com/260423/p9#a260423p9)
+ - [Report: China&#39;s 360 Digital Security Group has uncovered ~1,000 previously unknown vulnerabilities, including in Microsoft&#39;s Office, using an AI-powered agent &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260423/p8#a260423p8)
+ - [Hoka Coupon Codes: 30% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
