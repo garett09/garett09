@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Cash App founder Bob Lee&#39;s 2023 killing fed into a narrative pushed by tech leaders like Elon Musk about SF&#39;s decline until an acquaintance was convicted &lpar;Shawn Wen/Bloomberg&rpar;](http://www.techmeme.com/260423/p33#a260423p33)
- - [Ads are the worst thing about YouTube livestreams, but Google may have &lpar;loudly&rpar; fixed them](https://www.androidauthority.com/youtube-livestream-ads-mobile-test-3660250/)
- - [Spotify celebrates its 20th anniversary with a first-ever list of its 20 most streamed artists, albums, songs, podcasts, and audiobooks &lpar;Gil Kaufman/Billboard&rpar;](http://www.techmeme.com/260423/p32#a260423p32)<!-- TECH:END -->
+ - [‘We Are Xbox’: read the memo defining Microsoft’s gaming future](https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty)
+ - [Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games](https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma)
+ - [Anthropic says it has fixed three causes of recent Claude Code quality issues: reduced default reasoning, a caching bug, and a system prompt to reduce verbosity &lpar;Anthropic&rpar;](http://www.techmeme.com/260423/p52#a260423p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
