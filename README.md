@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A poll of 4,000 workers in the US and the UK finds that the highest-earning and most experienced workers are adopting AI in their jobs far faster than others &lpar;Financial Times&rpar;](http://www.techmeme.com/260423/p9#a260423p9)
- - [Report: China&#39;s 360 Digital Security Group has uncovered ~1,000 previously unknown vulnerabilities, including in Microsoft&#39;s Office, using an AI-powered agent &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260423/p8#a260423p8)
- - [Hoka Coupon Codes: 30% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)<!-- TECH:END -->
+ - [How Cash App founder Bob Lee&#39;s 2023 killing fed into a narrative pushed by tech leaders like Elon Musk about SF&#39;s decline until an acquaintance was convicted &lpar;Shawn Wen/Bloomberg&rpar;](http://www.techmeme.com/260423/p33#a260423p33)
+ - [Ads are the worst thing about YouTube livestreams, but Google may have &lpar;loudly&rpar; fixed them](https://www.androidauthority.com/youtube-livestream-ads-mobile-test-3660250/)
+ - [Spotify celebrates its 20th anniversary with a first-ever list of its 20 most streamed artists, albums, songs, podcasts, and audiobooks &lpar;Gil Kaufman/Billboard&rpar;](http://www.techmeme.com/260423/p32#a260423p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
