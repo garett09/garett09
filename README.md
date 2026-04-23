@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch Fall Detection will soon require a Google account sign-in](https://www.androidauthority.com/pixel-watch-fall-detection-account-3659960/)
- - [Former MrBeast exec sues over ‘years’ of alleged harassment](https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit)
- - [Sources: SpaceX isn&#39;t acquiring Cursor immediately because the deal could delay its IPO; Cursor is no longer proceeding with its reported $2B funding round &lpar;Bloomberg&rpar;](http://www.techmeme.com/260422/p38#a260422p38)<!-- TECH:END -->
+ - [The Iranian women Trump &amp;#8216;saved&amp;#8217; from execution are simultaneously real and AI-manipulated](https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati)
+ - [This new limited-edition Kindle case looks perfect for sci-fi fans](https://www.androidauthority.com/amazon-kindle-project-hail-mary-case-3660134/)
+ - [An undergraduate used AI assistants to rewrite leaked source code for Claude Code in a different language, highlighting the uncertainty over copyright and AI &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/260422/p50#a260422p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
