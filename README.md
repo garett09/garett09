@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
- - 🚯 [Indestructible they said. It will be fun they said](http://9gag.com/gag/aLn7GL5)
+ - 🚖 [The future is now](http://9gag.com/gag/aKGoeKZ)
+ - 🚯 [Brazil.](http://9gag.com/gag/aD2eZpG)
  - 🚯 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
 
 --- 
