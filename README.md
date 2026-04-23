@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I bought every ship in Windrose – here&#39;s what you should spend your pirate gold on first](https://www.pcgamer.com/games/survival-crafting/windrose-ship-brig-and-frigate-materials/)
- - [Stranger Things: Tales from &#39;85 review: The best Stranger Things season since 2019](https://www.polygon.com/stranger-things-tales-from-85-review/)
- - [D&amp;D’s new actual play show borrows a clever horror mechanic from Dark Dice](https://www.polygon.com/dnd-dungeon-masters-actual-play-ravenloft-rest-rules-dark-dice/)<!-- GAME:END -->
+ - [The Expanse creators don&#39;t want to fall into a Star Wars rut](https://www.polygon.com/expanse-creators-captives-war-vs-star-wars/)
+ - [Orbitals preview: anime co-op game features &#39;a lot of the same design&#39; as It Takes Two](https://www.polygon.com/orbitals-preview-impressions-hands-off/)
+ - [Control Ultimate Edition is now available on iPhone and iPad](https://www.polygon.com/control-ultimate-edition-iphone/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
