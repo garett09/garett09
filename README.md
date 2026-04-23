@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doggo](http://9gag.com/gag/aNDEVy6)
- - 🚯 [White culture](http://9gag.com/gag/amo4xb9)
- - 🚯 [Life was awesome ....](http://9gag.com/gag/avyKE3Z)<!-- MEMES:END -->
+ - 🚖 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
+ - 🚯 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 🚯 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)<!-- MEMES:END -->
 
 --- 
 
