@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Know About Alex Garland’s Elden Ring Movie, Including The Latest Leaks From Its Set](https://kotaku.com/elden-ring-movie-everything-we-know-alex-garland-a24-set-leaks-photos-cast-marika-2000689713)
- - [Studio Ghibli&#39;s next film arrives in July, as a Ghibli Park exclusive](https://www.polygon.com/studio-ghibli-park-new-short-film-night-valley-witches/)
- - [How to rebuild Strixhaven’s Prismari Artistry Commander deck for Vivi Ornitier](https://www.polygon.com/vivi-ornitier-commander-decklist-strixhaven-prismari-artistry/)<!-- GAME:END -->
+ - [D&amp;D’s new actual play show borrows a clever horror mechanic from Dark Dice](https://www.polygon.com/dnd-dungeon-masters-actual-play-ravenloft-rest-rules-dark-dice/)
+ - [AI is 10 to 20 times more likely to help you build a bomb if you hide your request in cyberpunk fiction, new research paper says](https://www.pcgamer.com/software/ai/ai-is-10-to-20-times-more-likely-to-help-you-build-a-bomb-if-you-hide-your-request-in-cyberpunk-fiction-new-research-paper-says/)
+ - [Invincible season 5 plot and likely release date explained](https://www.polygon.com/invincible-season-5-release-date-year-plot/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
