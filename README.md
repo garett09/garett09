@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
- - 🚯 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
- - 🚯 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)<!-- MEMES:END -->
+ - 🚖 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
+ - 🚯 [Indestructible they said. It will be fun they said](http://9gag.com/gag/aLn7GL5)
+ - 🚯 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
 
 --- 
 
