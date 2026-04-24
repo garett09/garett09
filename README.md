@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just having a casual water fight on a moving truck, what could go wrong](http://9gag.com/gag/aO8L9jR)
- - 🚯 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
- - 🚯 [Watch first 3 seconds of the video, pause it and comment what this guy wants to do, then watch full clip](http://9gag.com/gag/awyWd3W)<!-- MEMES:END -->
+ - 🚖 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
+ - 🚯 [No need for interpreter](http://9gag.com/gag/amo4Vqj)
+ - 🚯 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
 
 --- 
 
