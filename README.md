@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
- - 🚯 [No need for interpreter](http://9gag.com/gag/amo4Vqj)
- - 🚯 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
+ - 🚯 [Mystique](http://9gag.com/gag/aByBXyQ)
+ - 🚯 [No need for interpreter](http://9gag.com/gag/amo4Vqj)<!-- MEMES:END -->
 
 --- 
 
