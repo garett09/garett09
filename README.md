@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People like that can vote. They think they&#39;re better than you and that you&#39;re lesser than them and want you replaced](http://9gag.com/gag/ajPexM1)
- - 🚯 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
- - 🚯 [This is exactly how Saturday mornings felt in the 90s, pure overload of awesome cartoons](http://9gag.com/gag/aGy4A75)<!-- MEMES:END -->
+ - 🚖 [Waking up with golden shower](http://9gag.com/gag/a9ygmXm)
+ - 🚯 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
+ - 🚯 [The police was looking for her based on her instagram...but she used some moderate filters](http://9gag.com/gag/a87xeQd)<!-- MEMES:END -->
 
 --- 
 
