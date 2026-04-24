@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waking up with golden shower](http://9gag.com/gag/a9ygmXm)
- - 🚯 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
- - 🚯 [The police was looking for her based on her instagram...but she used some moderate filters](http://9gag.com/gag/a87xeQd)<!-- MEMES:END -->
+ - 🚖 [Just having a casual water fight on a moving truck, what could go wrong](http://9gag.com/gag/aO8L9jR)
+ - 🚯 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
+ - 🚯 [Watch first 3 seconds of the video, pause it and comment what this guy wants to do, then watch full clip](http://9gag.com/gag/awyWd3W)<!-- MEMES:END -->
 
 --- 
 
