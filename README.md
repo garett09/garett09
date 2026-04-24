@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 has a second hidden Easter egg and here’s how to find it](https://www.androidauthority.com/android-17-easter-egg-landroid-screensaver-3660604/)
- - [Canada&#39;s Cohere and Germany&#39;s Aleph Alpha agree to a merger deal valuing the combined group at ~$20B to work on sovereign AI; both governments support the deal &lpar;Financial Times&rpar;](http://www.techmeme.com/260424/p14#a260424p14)
- - [Saros is pure action nirvana](https://www.theverge.com/entertainment/917462/saros-review-ps5)<!-- TECH:END -->
+ - [Meta and Amazon reach a multi-billion, multiyear deal for Meta to rent hundreds of thousands of Amazon&#39;s Graviton chips for its AI efforts &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260424/p21#a260424p21)
+ - [Android’s Linux Terminal now lets you max out performance, but at a cost](https://www.androidauthority.com/androids-linux-terminal-performance-vs-quality-3660716/)
+ - [A new Republican privacy bill could be ‘worse than no standard at all’](https://www.theverge.com/policy/917828/data-privacy-bill-secure-act-house-state-laws)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
