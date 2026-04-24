@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Expanse creators don&#39;t want to fall into a Star Wars rut](https://www.polygon.com/expanse-creators-captives-war-vs-star-wars/)
- - [Orbitals preview: anime co-op game features &#39;a lot of the same design&#39; as It Takes Two](https://www.polygon.com/orbitals-preview-impressions-hands-off/)
- - [Control Ultimate Edition is now available on iPhone and iPad](https://www.polygon.com/control-ultimate-edition-iphone/)<!-- GAME:END -->
+ - [A Game Pass ‘Starter Edition’ Bringing Stardew Valley And Fallout 4 To Discord Nitro Just Leaked](https://kotaku.com/xbox-game-pass-discord-nitro-stardew-valley-fallout-4-2000690262)
+ - [&#39;Our presence on PC isn&#39;t strong enough,&#39; Xbox bosses admit](https://www.pcgamer.com/gaming-industry/our-presence-on-pc-isnt-strong-enough-xbox-bosses-admit/)
+ - [Peter Molyneux has made a proper game again rather than a monetization experiment, and I really hope he finishes it](https://www.pcgamer.com/games/sim/peter-molyneux-has-made-a-proper-game-again-rather-than-a-monetization-experiment-and-i-really-hope-he-finishes-it/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
