@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore is slowly emerging as a neutral ground for AI companies, offering an alternative place to build without worrying about US or Chinese regulations &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p62#a260423p62)
- - [Sources: AI coding firm Cognition is in early talks to raise hundreds of millions of dollars at a $25B valuation, up from $10.2B announced in September 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260423/p61#a260423p61)
- - [Meta Adds New Live Chat Feature to Threads for NBA Playoffs, Major Events](https://www.cnet.com/news/social-media/meta-threads-launches-live-chats/)<!-- TECH:END -->
+ - [Android 17 has a second hidden Easter egg and here’s how to find it](https://www.androidauthority.com/android-17-easter-egg-landroid-screensaver-3660604/)
+ - [Canada&#39;s Cohere and Germany&#39;s Aleph Alpha agree to a merger deal valuing the combined group at ~$20B to work on sovereign AI; both governments support the deal &lpar;Financial Times&rpar;](http://www.techmeme.com/260424/p14#a260424p14)
+ - [Saros is pure action nirvana](https://www.theverge.com/entertainment/917462/saros-review-ps5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
