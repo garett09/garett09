@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)
- - 🚯 [Mystique](http://9gag.com/gag/aByBXyQ)
- - 🚯 [No need for interpreter](http://9gag.com/gag/amo4Vqj)<!-- MEMES:END -->
+ - 🚖 [Zero control skills](http://9gag.com/gag/aAyzv4d)
+ - 🚯 [No need for interpreter](http://9gag.com/gag/amo4Vqj)
+ - 🚯 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)<!-- MEMES:END -->
 
 --- 
 
