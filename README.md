@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 8 leak hints at a subtle upgrade you probably didn’t think about](https://www.androidauthority.com/galaxy-z-fold-8-camera-cutout-3660837/)
- - [Cryptic Google Home warning has users worried about losing key smart home features](https://www.androidauthority.com/google-home-automations-may-3660846/)
- - [Rare foldable bargain slashes Google Pixel 9 Pro Fold price to just $1,170](https://www.androidauthority.com/pixel-9-pro-fold-deal-3660836/)<!-- TECH:END -->
+ - [Instacart co-founder Apoorva Mehta launches Abundance, a hedge fund that aims to have AI agents run the entire fund, with $100M in seed funding &lpar;Hema Parmar/Bloomberg&rpar;](http://www.techmeme.com/260424/p46#a260424p46)
+ - [Europe&#39;s dependence on US companies in tech and finance is in no small part its own fault after overregulation left European businesses too weak to compete &lpar;The Economist&rpar;](http://www.techmeme.com/260424/p45#a260424p45)
+ - [Samsung’s Galaxy Z Fold 8 Wide might use a folding display with a familiar aspect ratio](https://www.androidauthority.com/galaxy-z-fold-wide-aspect-ratio-3660904/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
