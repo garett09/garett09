@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Taiwan&#39;s stock market value has surpassed the UK&#39;s at ~$4.3T, with South Korea close behind, driven by massive gains in TSMC, Samsung, and SK Hynix &lpar;Bloomberg&rpar;](http://www.techmeme.com/260425/p9#a260425p9)
- - [Massimo&#39;s Apple Watch ban complaint dismissed by U.S. District Court](https://appleinsider.com/articles/26/04/25/massimos-apple-watch-ban-complaint-dismissed-by-us-district-court?utm_source=rss)
- - [Galaxy Watch 9 and Ultra 2: Samsung&#39;s Double Smartwatch Debut Is Taking Shape](https://www.cnet.com/tech/mobile/samsung-galaxy-watch-9-ultra-2-rumors-everything-we-know/)<!-- TECH:END -->
+ - [An influx of used EVs could drive down prices](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices)
+ - [A look at &quot;Stanford inside Stanford&quot;, where VCs pursue 18- and 19-year-old students, offering mentorship and funding in a bid to convert promise into profit &lpar;Theo Baker/The Atlantic&rpar;](http://www.techmeme.com/260425/p11#a260425p11)
+ - [Researchers say we’re talking less than ever](https://www.theverge.com/science/918753/researchers-talking-less)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
