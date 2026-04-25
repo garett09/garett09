@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zero control skills](http://9gag.com/gag/aAyzv4d)
- - 🚯 [No need for interpreter](http://9gag.com/gag/amo4Vqj)
- - 🚯 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)<!-- MEMES:END -->
+ - 🚖 [`There&#39;s no way they&#39;ll actually sit in the- OHHHHH MY GOD`](http://9gag.com/gag/aGy471n)
+ - 🚯 [Be happy](http://9gag.com/gag/azxpYzx)
+ - 🚯 [German Shepherds if they were constantly coked up](http://9gag.com/gag/aGy47dK)<!-- MEMES:END -->
 
 --- 
 
