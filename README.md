@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`There&#39;s no way they&#39;ll actually sit in the- OHHHHH MY GOD`](http://9gag.com/gag/aGy471n)
- - 🚯 [Be happy](http://9gag.com/gag/azxpYzx)
- - 🚯 [German Shepherds if they were constantly coked up](http://9gag.com/gag/aGy47dK)<!-- MEMES:END -->
+ - 🚖 [Behold](http://9gag.com/gag/aMVMy81)
+ - 🚯 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
+ - 🚯 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)<!-- MEMES:END -->
 
 --- 
 
