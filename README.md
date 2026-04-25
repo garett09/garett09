@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Behold](http://9gag.com/gag/aMVMy81)
- - 🚯 [Living life on easy mode with 10% brain power](http://9gag.com/gag/aO8LRPM)
- - 🚯 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)<!-- MEMES:END -->
+ - 🚖 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
+ - 🚯 [Zero control skills](http://9gag.com/gag/aAyzv4d)
+ - 🚯 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)<!-- MEMES:END -->
 
 --- 
 
