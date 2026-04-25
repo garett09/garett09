@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart co-founder Apoorva Mehta launches Abundance, a hedge fund that aims to have AI agents run the entire fund, with $100M in seed funding &lpar;Hema Parmar/Bloomberg&rpar;](http://www.techmeme.com/260424/p46#a260424p46)
- - [Europe&#39;s dependence on US companies in tech and finance is in no small part its own fault after overregulation left European businesses too weak to compete &lpar;The Economist&rpar;](http://www.techmeme.com/260424/p45#a260424p45)
- - [Samsung’s Galaxy Z Fold 8 Wide might use a folding display with a familiar aspect ratio](https://www.androidauthority.com/galaxy-z-fold-wide-aspect-ratio-3660904/)<!-- TECH:END -->
+ - [An overview of Elon Musk&#39;s $134B lawsuit against Sam Altman, scheduled to begin on April 27, accusing him of reneging on a vow to keep OpenAI nonprofit &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260425/p7#a260425p7)
+ - [Intel&#39;s upbeat outlook suggests CEO Lip-Bu Tan is making progress on a turnaround, having strengthened the company&#39;s balance sheet and now improving operations &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260425/p6#a260425p6)
+ - [Report: Samsung co-CEO TM Roh told company leaders that the mobile division MX could report its first ever annual loss this year, amid RAM and storage shortages &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260425/p5#a260425p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
