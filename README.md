@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
- - 🚯 [Behold](http://9gag.com/gag/aMVMy81)
- - 🚯 [Pure evil](http://9gag.com/gag/ary7de7)<!-- MEMES:END -->
+ - 🚖 [Dipping in chocolate](http://9gag.com/gag/aKGoKbW)
+ - 🚯 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
+ - 🚯 [Dinner is served..](http://9gag.com/gag/aO8LGyE)<!-- MEMES:END -->
 
 --- 
 
