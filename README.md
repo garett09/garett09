@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iVanky FusionDock Ultra review: Hugely better value the second time around](https://appleinsider.com/articles/26/04/25/ivanky-fusiondock-max-2-review-hugely-better-value-the-second-time-around?utm_source=rss)
- - [Why This Phone Company Is Now a &lpar;Record-Breaking&rpar; Robot Company](https://www.cnet.com/tech/computing/why-this-phone-company-is-now-a-record-breaking-robot-company/)
- - [Motorola&#39;s $150 Moto Watch Fell Short of Its Fitness Promises in My Tests](https://www.cnet.com/tech/mobile/moto-watch-motorola-review-polar-partnership/)<!-- TECH:END -->
+ - [A profile of Dwarkesh Patel, whose podcast has become mandatory listening in the AI community, with guests like Jensen Huang, Elon Musk, and Mark Zuckerberg &lpar;Benjamin Wallace/New York Times&rpar;](http://www.techmeme.com/260426/p6#a260426p6)
+ - [Google’s new gradient icon design is coming to more apps](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps)
+ - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
