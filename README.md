@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Xbox CEO Asha Sharma and EVP Matt Booty on the &quot;Return of Xbox&quot; memo, making Xbox Series X and S the &quot;first-class experience again&quot;, and more &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/260426/p2#a260426p2)
- - [Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/260426/p1#a260426p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 26, #580](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-26-580/)<!-- TECH:END -->
+ - [iVanky FusionDock Ultra review: Hugely better value the second time around](https://appleinsider.com/articles/26/04/25/ivanky-fusiondock-max-2-review-hugely-better-value-the-second-time-around?utm_source=rss)
+ - [Why This Phone Company Is Now a &lpar;Record-Breaking&rpar; Robot Company](https://www.cnet.com/tech/computing/why-this-phone-company-is-now-a-record-breaking-robot-company/)
+ - [Motorola&#39;s $150 Moto Watch Fell Short of Its Fitness Promises in My Tests](https://www.cnet.com/tech/mobile/moto-watch-motorola-review-polar-partnership/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
