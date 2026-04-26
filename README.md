@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [33% of S&amp;P 500 companies provided security perks for execs in 2025: Jensen Huang&#39;s security cost rose from $690K in 2023 to $3.5M in 2025, Zuckerberg spent $22M &lpar;Eli Rosenberg/The Information&rpar;](http://www.techmeme.com/260425/p15#a260425p15)
- - [Warning Signs That Your Earbuds Are Actually Hurting Your Ears](https://www.cnet.com/tech/mobile/warnings-signs-earbuds-hurting-ears-audiologists/)
- - [A profile of Strider, an intelligence firm that leverages agentic AI and public records to help the US Air Force, NATO, and others identify foreign state actors &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/260425/p14#a260425p14)<!-- TECH:END -->
+ - [An interview with Xbox CEO Asha Sharma and EVP Matt Booty on the &quot;Return of Xbox&quot; memo, making Xbox Series X and S the &quot;first-class experience again&quot;, and more &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/260426/p2#a260426p2)
+ - [Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/260426/p1#a260426p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 26, #580](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-26-580/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
