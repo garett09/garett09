@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dipping in chocolate](http://9gag.com/gag/aKGoKbW)
- - 🚯 [Me too, kiddo. Me too](http://9gag.com/gag/aRBqRYQ)
- - 🚯 [Dinner is served..](http://9gag.com/gag/aO8LGyE)<!-- MEMES:END -->
+ - 🚖 [Pure evil](http://9gag.com/gag/ary7de7)
+ - 🚯 [Don&#39;t forget math is racist](http://9gag.com/gag/an7PVmn)
+ - 🚯 [Snow rat](http://9gag.com/gag/aNDEq3K)<!-- MEMES:END -->
 
 --- 
 
