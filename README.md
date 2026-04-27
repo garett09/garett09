@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive into how ASML became a chokepoint for making cutting-edge chips by betting on EUV, close collaboration with TSMC and the US government, and more &lpar;Neil Hacker/Works in Progress&rpar;](http://www.techmeme.com/260427/p11#a260427p11)
- - [Analysis of 100 actively traded software company loans since January 20 finds sector-wide price pressure as investors seek defensive moats against AI disruption &lpar;Sam Goldfarb/Wall Street Journal&rpar;](http://www.techmeme.com/260427/p10#a260427p10)
- - [How Sergey Brin&#39;s political push against a proposed wealth tax in California has helped mobilize a network of fellow tech leaders to sway state issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p9#a260427p9)<!-- TECH:END -->
+ - [Microsoft and OpenAI amend their deal to let OpenAI serve all its products across any cloud provider; Microsoft will no longer pay a revenue share to OpenAI &lpar;OpenAI&rpar;](http://www.techmeme.com/260427/p24#a260427p24)
+ - [Best Smart Glasses &lpar;2026&rpar;: Meta, Viture, Xreal, and More](https://www.wired.com/gallery/best-smart-glasses/)
+ - [iPhone Fold: Every Leak and Rumor on Apple&#39;s 2026 Foldable](https://www.cnet.com/tech/mobile/iphone-fold-launch-date-price-and-everything-we-know/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
