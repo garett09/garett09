@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pure evil](http://9gag.com/gag/ary7de7)
- - 🚯 [Don&#39;t forget math is racist](http://9gag.com/gag/an7PVmn)
- - 🚯 [Snow rat](http://9gag.com/gag/aNDEq3K)<!-- MEMES:END -->
+ - 🚖 [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
+ - 🚯 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)
+ - 🚯 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
 
 --- 
 
