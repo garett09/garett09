@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and OpenAI amend their deal to let OpenAI serve all its products across any cloud provider; Microsoft will no longer pay a revenue share to OpenAI &lpar;OpenAI&rpar;](http://www.techmeme.com/260427/p24#a260427p24)
- - [Best Smart Glasses &lpar;2026&rpar;: Meta, Viture, Xreal, and More](https://www.wired.com/gallery/best-smart-glasses/)
- - [iPhone Fold: Every Leak and Rumor on Apple&#39;s 2026 Foldable](https://www.cnet.com/tech/mobile/iphone-fold-launch-date-price-and-everything-we-know/)<!-- TECH:END -->
+ - [Valve opens Steam Controller sales next week — what to know ahead of ordering](https://www.androidauthority.com/valve-steam-controller-3661248/)
+ - [Apple&#39;s massive lobbying effort saves it from new App Store rules](https://appleinsider.com/articles/26/04/27/apples-massive-lobbying-effort-saves-it-from-new-app-store-rules?utm_source=rss)
+ - [Got $20K? Steve Jobs &amp; John Lasseter signed &#39;Toy Story&#39; book is up for auction](https://appleinsider.com/articles/26/04/27/got-20k-steve-jobs-john-lasseter-signed-toy-story-book-is-up-for-auction?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
