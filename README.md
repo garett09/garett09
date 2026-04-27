@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
- - 🚯 [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
- - 🚯 [Whitehouse Correspondence Dinner Shooting incident &lpar;Better footage&rpar;](http://9gag.com/gag/ajPedLQ)<!-- MEMES:END -->
+ - 🚖 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
+ - 🚯 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
+ - 🚯 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)<!-- MEMES:END -->
 
 --- 
 
