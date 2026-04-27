@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amateur solved a 60-year-old Erdős problem with a single GPT-5.4 Pro prompt; Terence Tao says it&#39;s a nice achievement, but its long-term significance is unclear &lpar;Joseph Howlett/Scientific American&rpar;](http://www.techmeme.com/260426/p10#a260426p10)
- - [Cyera agrees to acquire Ryft, an Israeli startup building automated data access and governance tools for enterprise AI deployment, sources say for $100M-$130M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260426/p9#a260426p9)
- - [Thin Phones Head-to-Head: iPhone Air vs. Galaxy S25 Edge](https://www.cnet.com/tech/mobile/thin-phones-head-to-head-iphone-air-vs-galaxy-s25-edge/)<!-- TECH:END -->
+ - [A deep dive into how ASML became a chokepoint for making cutting-edge chips by betting on EUV, close collaboration with TSMC and the US government, and more &lpar;Neil Hacker/Works in Progress&rpar;](http://www.techmeme.com/260427/p11#a260427p11)
+ - [Analysis of 100 actively traded software company loans since January 20 finds sector-wide price pressure as investors seek defensive moats against AI disruption &lpar;Sam Goldfarb/Wall Street Journal&rpar;](http://www.techmeme.com/260427/p10#a260427p10)
+ - [How Sergey Brin&#39;s political push against a proposed wealth tax in California has helped mobilize a network of fellow tech leaders to sway state issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p9#a260427p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
