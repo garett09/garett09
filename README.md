@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
- - 🚯 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)
- - 🚯 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
+ - 🚖 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)
+ - 🚯 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
+ - 🚯 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)<!-- MEMES:END -->
 
 --- 
 
