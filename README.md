@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Dwarkesh Patel, whose podcast has become mandatory listening in the AI community, with guests like Jensen Huang, Elon Musk, and Mark Zuckerberg &lpar;Benjamin Wallace/New York Times&rpar;](http://www.techmeme.com/260426/p6#a260426p6)
- - [Google’s new gradient icon design is coming to more apps](https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps)
- - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)<!-- TECH:END -->
+ - [Amateur solved a 60-year-old Erdős problem with a single GPT-5.4 Pro prompt; Terence Tao says it&#39;s a nice achievement, but its long-term significance is unclear &lpar;Joseph Howlett/Scientific American&rpar;](http://www.techmeme.com/260426/p10#a260426p10)
+ - [Cyera agrees to acquire Ryft, an Israeli startup building automated data access and governance tools for enterprise AI deployment, sources say for $100M-$130M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260426/p9#a260426p9)
+ - [Thin Phones Head-to-Head: iPhone Air vs. Galaxy S25 Edge](https://www.cnet.com/tech/mobile/thin-phones-head-to-head-iphone-air-vs-galaxy-s25-edge/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
