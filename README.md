@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US prosecutors allege Peter Stokes, a 19-year-old dual US-Estonian citizen known as Bouquet, is a Scattered Spider member; he was arrested at a Finnish airport &lpar;Jason Meisner/Chicago Tribune&rpar;](http://www.techmeme.com/260428/p21#a260428p21)
- - [Sources: at least two China-based funds that back leading AI companies have used parallel fund structures to fundraise from US investors in recent months &lpar;Bloomberg&rpar;](http://www.techmeme.com/260428/p20#a260428p20)
- - [Helium Mobile’s too-good-to-be-true free plan finally hits a dead end](https://www.androidauthority.com/helium-mobile-zero-plan-discontinued-3661478/)<!-- TECH:END -->
+ - [Apple is gearing up to overhaul the Photos app with AI tools in iOS 27](https://appleinsider.com/articles/26/04/28/apple-is-gearing-up-to-overhaul-the-photos-app-with-ai-tools-in-ios-27?utm_source=rss)
+ - [Elon Musk takes the stand in high-profile trial against OpenAI](https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman)
+ - [YouTube Is Testing an AI Search Tool That Delivers Video and Text](https://www.cnet.com/tech/services-and-software/youtube-google-ai-feature/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
