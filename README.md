@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best friend goals at the baseball game](http://9gag.com/gag/amo4Ogj)
- - 🚯 [Bullshido](http://9gag.com/gag/aE0mjYp)
- - 🚯 [The goodest boy](http://9gag.com/gag/a9ygNm1)<!-- MEMES:END -->
+ - 🚖 [Bro is a menace](http://9gag.com/gag/aW43PzA)
+ - 🚯 [Yomif Kejelcha everyone](http://9gag.com/gag/aAyzNZ9)
+ - 🚯 [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)<!-- MEMES:END -->
 
 --- 
 
