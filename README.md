@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The helium voice from the ocean floor](http://9gag.com/gag/ae98qmj)
- - 🚯 [When you have a German friend](http://9gag.com/gag/aKGoN7Z)
- - 🚯 [That&#39;s what you call a nut job](http://9gag.com/gag/aMVM08x)<!-- MEMES:END -->
+ - 🚖 [Best friend goals at the baseball game](http://9gag.com/gag/amo4Ogj)
+ - 🚯 [Bullshido](http://9gag.com/gag/aE0mjYp)
+ - 🚯 [The goodest boy](http://9gag.com/gag/a9ygNm1)<!-- MEMES:END -->
 
 --- 
 
