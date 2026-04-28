@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve opens Steam Controller sales next week — what to know ahead of ordering](https://www.androidauthority.com/valve-steam-controller-3661248/)
- - [Apple&#39;s massive lobbying effort saves it from new App Store rules](https://appleinsider.com/articles/26/04/27/apples-massive-lobbying-effort-saves-it-from-new-app-store-rules?utm_source=rss)
- - [Got $20K? Steve Jobs &amp; John Lasseter signed &#39;Toy Story&#39; book is up for auction](https://appleinsider.com/articles/26/04/27/got-20k-steve-jobs-john-lasseter-signed-toy-story-book-is-up-for-auction?utm_source=rss)<!-- TECH:END -->
+ - [South Korea&#39;s stock market value has surpassed the UK&#39;s, growing 45%+ this year to $4.04T after a surge in AI-linked tech stocks like Samsung and SK Hynix &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/260427/p49#a260427p49)
+ - [Paris-based SquareMind, whose Swan robot uses AI for full-body dermoscopic skin imaging, raised $18M, including a previously undisclosed pre-Series A &lpar;Jim Hammerand/MassDevice&rpar;](http://www.techmeme.com/260427/p48#a260427p48)
+ - [Some jurors selected in the Musk v. Altman trial expressed negative feelings about Elon Musk and AI, but assured the court they would put these concerns aside &lpar;Wired&rpar;](http://www.techmeme.com/260427/p47#a260427p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
