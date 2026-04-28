@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adidas’ Lightest Shoes Ever Were Behind the First Sub-2-Hour Marathon](https://www.wired.com/story/sub-2-hour-marathon-adidas-shoes-sabastian-sawe/)
- - [Microsoft Office can now be controlled with Logitech’s MX Creative Console](https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion)
- - [Google Play will finally start spotlighting apps worthy of your big screen](https://www.androidauthority.com/google-play-store-update-april-2026-3661331/)<!-- TECH:END -->
+ - [US prosecutors allege Peter Stokes, a 19-year-old dual US-Estonian citizen known as Bouquet, is a Scattered Spider member; he was arrested at a Finnish airport &lpar;Jason Meisner/Chicago Tribune&rpar;](http://www.techmeme.com/260428/p21#a260428p21)
+ - [Sources: at least two China-based funds that back leading AI companies have used parallel fund structures to fundraise from US investors in recent months &lpar;Bloomberg&rpar;](http://www.techmeme.com/260428/p20#a260428p20)
+ - [Helium Mobile’s too-good-to-be-true free plan finally hits a dead end](https://www.androidauthority.com/helium-mobile-zero-plan-discontinued-3661478/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
