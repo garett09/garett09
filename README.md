@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
- - 🚯 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
+ - 🚖 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
+ - 🚯 [`we can try marriage counseling` , ` we can try making it work`. No thank you.](http://9gag.com/gag/aE0mQON)
  - 🚯 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)<!-- MEMES:END -->
 
 --- 
