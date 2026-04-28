@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s stock market value has surpassed the UK&#39;s, growing 45%+ this year to $4.04T after a surge in AI-linked tech stocks like Samsung and SK Hynix &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/260427/p49#a260427p49)
- - [Paris-based SquareMind, whose Swan robot uses AI for full-body dermoscopic skin imaging, raised $18M, including a previously undisclosed pre-Series A &lpar;Jim Hammerand/MassDevice&rpar;](http://www.techmeme.com/260427/p48#a260427p48)
- - [Some jurors selected in the Musk v. Altman trial expressed negative feelings about Elon Musk and AI, but assured the court they would put these concerns aside &lpar;Wired&rpar;](http://www.techmeme.com/260427/p47#a260427p47)<!-- TECH:END -->
+ - [Adidas’ Lightest Shoes Ever Were Behind the First Sub-2-Hour Marathon](https://www.wired.com/story/sub-2-hour-marathon-adidas-shoes-sabastian-sawe/)
+ - [Microsoft Office can now be controlled with Logitech’s MX Creative Console](https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion)
+ - [Google Play will finally start spotlighting apps worthy of your big screen](https://www.androidauthority.com/google-play-store-update-april-2026-3661331/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
