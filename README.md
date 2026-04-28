@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - 🚯 [`we can try marriage counseling` , ` we can try making it work`. No thank you.](http://9gag.com/gag/aE0mQON)
- - 🚯 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)<!-- MEMES:END -->
+ - 🚖 [The helium voice from the ocean floor](http://9gag.com/gag/ae98qmj)
+ - 🚯 [When you have a German friend](http://9gag.com/gag/aKGoN7Z)
+ - 🚯 [That&#39;s what you call a nut job](http://9gag.com/gag/aMVM08x)<!-- MEMES:END -->
 
 --- 
 
