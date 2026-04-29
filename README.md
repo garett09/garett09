@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hardworking Locals At The Fast Food Dinners .](http://9gag.com/gag/aO8LO03)
- - 🚯 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)
- - 🚯 [Show me your most cursed image](http://9gag.com/gag/abAno4p)<!-- MEMES:END -->
+ - 🚖 [Final 4](http://9gag.com/gag/ajPevVp)
+ - 🚯 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
+ - 🚯 [Hospitality](http://9gag.com/gag/a34XgxN)<!-- MEMES:END -->
 
 --- 
 
