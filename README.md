@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is gearing up to overhaul the Photos app with AI tools in iOS 27](https://appleinsider.com/articles/26/04/28/apple-is-gearing-up-to-overhaul-the-photos-app-with-ai-tools-in-ios-27?utm_source=rss)
- - [Elon Musk takes the stand in high-profile trial against OpenAI](https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman)
- - [YouTube Is Testing an AI Search Tool That Delivers Video and Text](https://www.cnet.com/tech/services-and-software/youtube-google-ai-feature/)<!-- TECH:END -->
+ - [EU countries and lawmakers reach an impasse on a deal watering down the EU&#39;s AI Act due to some parties seeking exemptions for already regulated industries &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260428/p52#a260428p52)
+ - [A US judge denied Sam Bankman-Fried&#39;s request for a new trial based on what SBF called new evidence; SBF tried to withdraw his request, but the judge refused &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260428/p51#a260428p51)
+ - [The World&#39;s Smallest Wellness Wearable, Smart Earrings, Just Launched on Kickstarter](https://www.cnet.com/tech/mobile/worlds-smallest-wellness-wearable-smart-earrings-launched-kickstarter/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
