@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - 🚯 [How politics works!](http://9gag.com/gag/azxpvDK)
+ - 🚖 [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)
+ - 🚯 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
  - 🚯 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)<!-- MEMES:END -->
 
 --- 
