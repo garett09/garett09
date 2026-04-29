@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto payments company MoonPay acquires Israeli crypto security startup Sodot, sources say in a $100M all-stock deal, to launch a unit focused on institutions &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260429/p27#a260429p27)
- - [Formula 1 coverage expands across Apple services for Miami Grand Prix](https://appleinsider.com/articles/26/04/29/formula-1-coverage-expands-across-apple-services-for-miami-grand-prix?utm_source=rss)
- - [Brookfield-backed Compass drops plans to develop 800+ acres in Virginia&#39;s 2,100-acre Digital Gateway data center corridor, sources say due to local opposition &lpar;Dawn Lim/Bloomberg&rpar;](http://www.techmeme.com/260429/p26#a260429p26)<!-- TECH:END -->
+ - [Sources: PayPal is separating Venmo into its own standalone unit and is looking to recruit a digital banking executive to run the new Venmo segment &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/260429/p38#a260429p38)
+ - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)
+ - [SpaceX draft IPO filing: from 2023 to 2025, Starlink&#39;s individual subscribers rose from 2.3M to 8.9M, revenue grew from $3.9B to $11.4B, and ARPU fell 18% &lpar;The Information&rpar;](http://www.techmeme.com/260429/p37#a260429p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
