@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU countries and lawmakers reach an impasse on a deal watering down the EU&#39;s AI Act due to some parties seeking exemptions for already regulated industries &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260428/p52#a260428p52)
- - [A US judge denied Sam Bankman-Fried&#39;s request for a new trial based on what SBF called new evidence; SBF tried to withdraw his request, but the judge refused &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260428/p51#a260428p51)
- - [The World&#39;s Smallest Wellness Wearable, Smart Earrings, Just Launched on Kickstarter](https://www.cnet.com/tech/mobile/worlds-smallest-wellness-wearable-smart-earrings-launched-kickstarter/)<!-- TECH:END -->
+ - [Poll: 31% of US adults expect driverless cars to be common within five years, up from 19% in 2018, and 19% say they would own or lease one, the same as in 2018 &lpar;Mary Page James/Gallup&rpar;](http://www.techmeme.com/260429/p8#a260429p8)
+ - [New leak suggests these upcoming flagship killers will only kill your wallet](https://www.androidauthority.com/xiaomi-17t-series-leak-specs-price-leak-3661789/)
+ - [An interview with AWS CEO Matt Garman on why AWS will be a better OpenAI partner than Microsoft, chip bubble fears, Jeff Bezos&#39; Project Prometheus, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260429/p7#a260429p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
