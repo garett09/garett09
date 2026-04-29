@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro is a menace](http://9gag.com/gag/aW43PzA)
- - 🚯 [Yomif Kejelcha everyone](http://9gag.com/gag/aAyzNZ9)
- - 🚯 [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)<!-- MEMES:END -->
+ - 🚖 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
+ - 🚯 [How politics works!](http://9gag.com/gag/azxpvDK)
+ - 🚯 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)<!-- MEMES:END -->
 
 --- 
 
