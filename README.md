@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Final 4](http://9gag.com/gag/ajPevVp)
- - 🚯 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
- - 🚯 [Hospitality](http://9gag.com/gag/a34XgxN)<!-- MEMES:END -->
+ - 🚖 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
+ - 🚯 [Hospitality](http://9gag.com/gag/a34XgxN)
+ - 🚯 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)<!-- MEMES:END -->
 
 --- 
 
