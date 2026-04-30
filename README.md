@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: PayPal is separating Venmo into its own standalone unit and is looking to recruit a digital banking executive to run the new Venmo segment &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/260429/p38#a260429p38)
- - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)
- - [SpaceX draft IPO filing: from 2023 to 2025, Starlink&#39;s individual subscribers rose from 2.3M to 8.9M, revenue grew from $3.9B to $11.4B, and ARPU fell 18% &lpar;The Information&rpar;](http://www.techmeme.com/260429/p37#a260429p37)<!-- TECH:END -->
+ - [How US schools&#39; overreliance on YouTube for educational content encourages students to drift into endless video scrolling on school-issued devices &lpar;Shalini Ramachandran/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p66#a260429p66)
+ - [Sources: the White House opposes Anthropic&#39;s plan to expand access to Mythos to 70 additional companies and organizations because of concerns about security &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260429/p65#a260429p65)
+ - [Digital advertising is booming for Google and Meta, helped by AI tools used for language translation, real-time changes to ad copy, and easier ad targeting &lpar;New York Times&rpar;](http://www.techmeme.com/260429/p64#a260429p64)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
