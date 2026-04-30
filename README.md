@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix starts rolling out its new Clips vertical video feed as a separate tab in the UK, the US, Canada, Australia, India, and four other countries &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260430/p24#a260430p24)
- - [Sources: the EU is drafting a revised Chips Act II, set for late May, that would grant it power to invest directly in large, cross-border manufacturing projects &lpar;Bloomberg&rpar;](https://www.techmeme.com/260430/p23#a260430p23)
- - [Casa, which uses lidar scanners and AI to catalog homes and manage proactive maintenance alongside human workers, raised $27M, including a $20M Series A &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260430/p22#a260430p22)<!-- TECH:END -->
+ - [Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes](https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico)
+ - [With Saros, Housemarque makes a case for doing next-gen games differently](https://www.theverge.com/games/921391/housemarque-interview-saros-ps5)
+ - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
