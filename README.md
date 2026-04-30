@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung retakes the lead in Q1, but there’s bad news for other Android brands](https://www.androidauthority.com/q1-2026-global-smartphone-market-3662242/)
- - [Analysis: Meta, Alphabet, Microsoft, and Amazon&#39;s combined capex hit a record $130B in Q1 and is projected to reach $725B in 2026, up 77% from $410B in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260430/p8#a260430p8)
- - [GoTo reports net income of ~$15M for Q1 2026, its first ever, after job cuts and unit disposals helped Indonesia&#39;s largest internet company reduce costs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260430/p7#a260430p7)<!-- TECH:END -->
+ - [Netflix starts rolling out its new Clips vertical video feed as a separate tab in the UK, the US, Canada, Australia, India, and four other countries &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260430/p24#a260430p24)
+ - [Sources: the EU is drafting a revised Chips Act II, set for late May, that would grant it power to invest directly in large, cross-border manufacturing projects &lpar;Bloomberg&rpar;](https://www.techmeme.com/260430/p23#a260430p23)
+ - [Casa, which uses lidar scanners and AI to catalog homes and manage proactive maintenance alongside human workers, raised $27M, including a $20M Series A &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260430/p22#a260430p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
