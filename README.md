@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How US schools&#39; overreliance on YouTube for educational content encourages students to drift into endless video scrolling on school-issued devices &lpar;Shalini Ramachandran/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p66#a260429p66)
- - [Sources: the White House opposes Anthropic&#39;s plan to expand access to Mythos to 70 additional companies and organizations because of concerns about security &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260429/p65#a260429p65)
- - [Digital advertising is booming for Google and Meta, helped by AI tools used for language translation, real-time changes to ad copy, and easier ad targeting &lpar;New York Times&rpar;](http://www.techmeme.com/260429/p64#a260429p64)<!-- TECH:END -->
+ - [Samsung retakes the lead in Q1, but there’s bad news for other Android brands](https://www.androidauthority.com/q1-2026-global-smartphone-market-3662242/)
+ - [Analysis: Meta, Alphabet, Microsoft, and Amazon&#39;s combined capex hit a record $130B in Q1 and is projected to reach $725B in 2026, up 77% from $410B in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260430/p8#a260430p8)
+ - [GoTo reports net income of ~$15M for Q1 2026, its first ever, after job cuts and unit disposals helped Indonesia&#39;s largest internet company reduce costs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260430/p7#a260430p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
