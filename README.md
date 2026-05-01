@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes](https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico)
- - [With Saros, Housemarque makes a case for doing next-gen games differently](https://www.theverge.com/games/921391/housemarque-interview-saros-ps5)
- - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)<!-- TECH:END -->
+ - [Sens. Kirsten Gillibrand and Dave McCormick introduce a bill banning members of the legislative and executive branches from trading on prediction markets &lpar;Jason Beeferman/Politico&rpar;](https://www.techmeme.com/260430/p64#a260430p64)
+ - [Apple forecasts Q3 revenue above estimates and reports Q2 results above projections in China but below expectations in the Americas and Europe regions &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260430/p63#a260430p63)
+ - [Samsung Chip Profits Soar Amid the Tech World&#39;s RAM Shortages](https://www.cnet.com/tech/computing/samsung-chip-profits-soar-amid-the-tech-worlds-ram-shortages/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
