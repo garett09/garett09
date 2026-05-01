@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals how Pixel fans truly feel about the Tensor G5’s lackluster gaming power](https://www.androidauthority.com/tensor-g5-gaming-performance-poll-3662768/)
- - [Oura just fixed two of cycle tracking’s biggest blind spots](https://www.androidauthority.com/oura-launches-hormonal-health-features-3662688/)
- - [Oura adds birth control support to its period tracker](https://www.theverge.com/tech/921955/oura-hormonal-birth-control-tracking-update)<!-- TECH:END -->
+ - [The Next Alzheimer’s Breakthrough Will Take More Than Just Science](https://www.wired.com/story/john-hardy-dementia-wired-health/)
+ - [The FBI warns of rising cyber cargo theft, where attackers hack freight brokers&#39; accounts and dupe carriers; 2025 cargo theft losses in N. America rose 60% YoY &lpar;Pierluigi Paganini/Security Affairs&rpar;](https://www.techmeme.com/260501/p16#a260501p16)
+ - [Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day](https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
