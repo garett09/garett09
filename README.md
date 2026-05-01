@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
- - 🚯 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
- - 🚯 [Hospitality](http://9gag.com/gag/a34XgxN)<!-- MEMES:END -->
+ - 🚯 [Toxic work environment](http://9gag.com/gag/aqyownM)
+ - 🚯 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)<!-- MEMES:END -->
 
 --- 
 
