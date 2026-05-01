@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
- - 🚯 [Toxic work environment](http://9gag.com/gag/aqyownM)
- - 🚯 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)<!-- MEMES:END -->
+ - 🚯 [New meme format?](http://9gag.com/gag/a87xg8d)
+ - 🚯 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)<!-- MEMES:END -->
 
 --- 
 
