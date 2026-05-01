@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail CopyFail, a now-patched Linux vulnerability that lets unprivileged users gain admin access, as many distributions have yet to add fixes &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260501/p2#a260501p2)
- - [Top Google Workspace Promo Codes for May](https://www.wired.com/story/google-workspace-promo-code/)
- - [Booking.com Promo Codes: Up to 20% Off](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
+ - [Survey reveals how Pixel fans truly feel about the Tensor G5’s lackluster gaming power](https://www.androidauthority.com/tensor-g5-gaming-performance-poll-3662768/)
+ - [Oura just fixed two of cycle tracking’s biggest blind spots](https://www.androidauthority.com/oura-launches-hormonal-health-features-3662688/)
+ - [Oura adds birth control support to its period tracker](https://www.theverge.com/tech/921955/oura-hormonal-birth-control-tracking-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
