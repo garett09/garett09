@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fair is fair](http://9gag.com/gag/aByBe2A)
- - 🚯 [Know your heroes](http://9gag.com/gag/aE0m48n)
- - 🚯 [Rapper Eminem fears to diss](http://9gag.com/gag/aO8LWX2)<!-- MEMES:END -->
+ - 🚖 [Risk of online shopping](http://9gag.com/gag/aW43Xwq)
+ - 🚯 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
+ - 🚯 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)<!-- MEMES:END -->
 
 --- 
 
