@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
- - 🚯 [New meme format?](http://9gag.com/gag/a87xg8d)
- - 🚯 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)<!-- MEMES:END -->
+ - 🚖 [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
+ - 🚯 [A man who&#39;d survive a horror movie](http://9gag.com/gag/aGy45OX)
+ - 🚯 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)<!-- MEMES:END -->
 
 --- 
 
