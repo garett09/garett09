@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
- - 🚯 [A man who&#39;d survive a horror movie](http://9gag.com/gag/aGy45OX)
- - 🚯 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)<!-- MEMES:END -->
+ - 🚖 [Fair is fair](http://9gag.com/gag/aByBe2A)
+ - 🚯 [Know your heroes](http://9gag.com/gag/aE0m48n)
+ - 🚯 [Rapper Eminem fears to diss](http://9gag.com/gag/aO8LWX2)<!-- MEMES:END -->
 
 --- 
 
