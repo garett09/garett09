@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UK court orders Samsung to pay ZTE $392M for patents needed to enable phone network access; Samsung faces similar suits from ZTE in China, Germany, and Brazil &lpar;Sam Tobin/Reuters&rpar;](https://www.techmeme.com/260501/p29#a260501p29)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 2, #585](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-2-585/)
- - [Best Red Light Therapy Devices of 2026, Tested and FDA-Cleared](https://www.cnet.com/health/personal-care/best-red-light-therapy-devices/)<!-- TECH:END -->
+ - [Ripple Labs investor and exec Chris Larsen plans to spend $3.5M to help Alex Bores, a NY congressional candidate at the center of a proxy war over AI regulation &lpar;New York Times&rpar;](https://www.techmeme.com/260502/p3#a260502p3)
+ - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)
+ - [30% Off Canon Promo Codes | May 2026](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
