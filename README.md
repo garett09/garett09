@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ripple Labs investor and exec Chris Larsen plans to spend $3.5M to help Alex Bores, a NY congressional candidate at the center of a proxy war over AI regulation &lpar;New York Times&rpar;](https://www.techmeme.com/260502/p3#a260502p3)
- - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)
- - [30% Off Canon Promo Codes | May 2026](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [Mac mini is the best platform for Perplexity&#39;s Personal Computer](https://appleinsider.com/articles/26/05/02/mac-mini-is-the-best-platform-for-perplexitys-personal-computer?utm_source=rss)
+ - [&#39;Past Lives,&#39; &#39;Training Day,&#39; &#39;Bodies Bodies Bodies&#39; and More Movies You Can Stream for Free in May](https://www.cnet.com/tech/services-and-software/past-lives-training-day-more-free-movies-streaming-in-may/)
+ - [I ditched Chrome, Firefox, and Samsung Internet for this underrated Android browser](https://www.androidauthority.com/ditched-chrome-firefox-samsung-internet-for-brave-android-browser-3662336/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
