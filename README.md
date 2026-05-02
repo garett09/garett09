@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac mini is the best platform for Perplexity&#39;s Personal Computer](https://appleinsider.com/articles/26/05/02/mac-mini-is-the-best-platform-for-perplexitys-personal-computer?utm_source=rss)
- - [&#39;Past Lives,&#39; &#39;Training Day,&#39; &#39;Bodies Bodies Bodies&#39; and More Movies You Can Stream for Free in May](https://www.cnet.com/tech/services-and-software/past-lives-training-day-more-free-movies-streaming-in-may/)
- - [I ditched Chrome, Firefox, and Samsung Internet for this underrated Android browser](https://www.androidauthority.com/ditched-chrome-firefox-samsung-internet-for-brave-android-browser-3662336/)<!-- TECH:END -->
+ - [Meta&amp;#8217;s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
+ - [Study: OpenAI&#39;s o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. to 50-55% for triage doctors &lpar;Robert Booth/The Guardian&rpar;](https://www.techmeme.com/260502/p8#a260502p8)
+ - [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
