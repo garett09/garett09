@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Next Alzheimer’s Breakthrough Will Take More Than Just Science](https://www.wired.com/story/john-hardy-dementia-wired-health/)
- - [The FBI warns of rising cyber cargo theft, where attackers hack freight brokers&#39; accounts and dupe carriers; 2025 cargo theft losses in N. America rose 60% YoY &lpar;Pierluigi Paganini/Security Affairs&rpar;](https://www.techmeme.com/260501/p16#a260501p16)
- - [Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day](https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale)<!-- TECH:END -->
+ - [A UK court orders Samsung to pay ZTE $392M for patents needed to enable phone network access; Samsung faces similar suits from ZTE in China, Germany, and Brazil &lpar;Sam Tobin/Reuters&rpar;](https://www.techmeme.com/260501/p29#a260501p29)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 2, #585](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-2-585/)
+ - [Best Red Light Therapy Devices of 2026, Tested and FDA-Cleared](https://www.cnet.com/health/personal-care/best-red-light-therapy-devices/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
