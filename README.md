@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Risk of online shopping](http://9gag.com/gag/aW43Xwq)
- - 🚯 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - 🚯 [In 2007, 27 year old Alabama gym teacher Pamela Rogers was convicted of having a sexual relationship with intercourse with her 13 year old student.She was sentenced to 11 months in jail but she contacted the boy again through texts and social media, she was sent back to prison.](http://9gag.com/gag/aE0mmvN)<!-- MEMES:END -->
+ - 🚖 [10 years ago I lived in my vehicle, never having a job more than 6 months. 5 years ago I started my own landscaping gig, and i paid this off today. 43 years old.](http://9gag.com/gag/awyWWED)
+ - 🚯 [When cars used to be works of art](http://9gag.com/gag/aGy4mpw)
+ - 🚯 [Hands](http://9gag.com/gag/aVvypzK)<!-- MEMES:END -->
 
 --- 
 
