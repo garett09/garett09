@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maryland becomes the first US state to ban surveillance pricing in grocery stores, as other states including CO, CA, MA, IL, and NJ consider similar bills &lpar;Sanya Mansoor/The Guardian&rpar;](https://www.techmeme.com/260502/p12#a260502p12)
- - [Iodyne Pro Data 24TB review: $15K, ridiculous speed, and probably not for you](https://appleinsider.com/articles/26/04/29/iodyne-pro-data-24tb-review-15k-ridiculous-speed-and-probably-not-for-you?utm_source=rss)
- - [Analysis: after Trump&#39;s World Liberty raised $550M from investors, tokens worth hundreds of millions in USD were privately sold in &quot;white glove&quot; transactions &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260502/p11#a260502p11)<!-- TECH:END -->
+ - [An evaluation by NIST&#39;s CAISI says DeepSeek V4 Pro lags behind leading US AI models by about eight months and is the most capable Chinese AI model to date &lpar;NIST&rpar;](https://www.techmeme.com/260503/p5#a260503p5)
+ - [A slew of top Boston Dynamics execs have left the Hyundai-owned company in recent months, as sources say it faces pressure to speed the delivery of humanoids &lpar;Rachyl Jones/Semafor&rpar;](https://www.techmeme.com/260503/p4#a260503p4)
+ - [Sources: OpenAI employees have raised alarms internally over failures to alert law enforcement when users describe plans for real-world violence to ChatGPT &lpar;Georgia Wells/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p3#a260503p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
