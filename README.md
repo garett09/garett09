@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An evaluation by NIST&#39;s CAISI says DeepSeek V4 Pro lags behind leading US AI models by about eight months and is the most capable Chinese AI model to date &lpar;NIST&rpar;](https://www.techmeme.com/260503/p5#a260503p5)
- - [A slew of top Boston Dynamics execs have left the Hyundai-owned company in recent months, as sources say it faces pressure to speed the delivery of humanoids &lpar;Rachyl Jones/Semafor&rpar;](https://www.techmeme.com/260503/p4#a260503p4)
- - [Sources: OpenAI employees have raised alarms internally over failures to alert law enforcement when users describe plans for real-world violence to ChatGPT &lpar;Georgia Wells/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p3#a260503p3)<!-- TECH:END -->
+ - [How Amazon&#39;s expansion into fashion helped Jeff Bezos enter fashion&#39;s inner circle, as he and Lauren Sánchez Bezos become underwriters for this year&#39;s Met Gala &lpar;Chavie Lieber/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p8#a260503p8)
+ - [I stopped playing music on my Android phone and went back to my iPod](https://www.androidauthority.com/ipod-vs-android-phones-streaming-services-3662275/)
+ - [AI music is flooding streaming services — but who wants it?](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
