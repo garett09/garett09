@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Amazon&#39;s expansion into fashion helped Jeff Bezos enter fashion&#39;s inner circle, as he and Lauren Sánchez Bezos become underwriters for this year&#39;s Met Gala &lpar;Chavie Lieber/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p8#a260503p8)
- - [I stopped playing music on my Android phone and went back to my iPod](https://www.androidauthority.com/ipod-vs-android-phones-streaming-services-3662275/)
- - [AI music is flooding streaming services — but who wants it?](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it)<!-- TECH:END -->
+ - [Analysis: Asian suppliers account for ~90% of Nvidia&#39;s production costs, up from 65% in 2025, as latest wave of collaborations shifts from chips to physical AI &lpar;Abhishek Vishnoi/Bloomberg&rpar;](https://www.techmeme.com/260503/p10#a260503p10)
+ - [Star Wars Guide: How to Watch Movies, TV Shows and Side Stories in Order](https://www.cnet.com/tech/services-and-software/star-wars-guide-how-to-watch-movies-tv-shows-and-side-stories-in-order/)
+ - [Sony&#39;s AI Robot Can Probably Beat You at Table Tennis](https://www.cnet.com/tech/sonys-new-ai-robot-can-probably-beat-you-in-table-tennis/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
