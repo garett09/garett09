@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Out of Mana, but never out of questionable life choices.](http://9gag.com/gag/amo44Dd)
- - 🚯 [He came prepared](http://9gag.com/gag/aVvypR8)
- - 🚯 [Its been a good run boys, Mayon Volcano just erupted](http://9gag.com/gag/aD2eKbx)<!-- MEMES:END -->
+ - 🚖 [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - 🚯 [Get in the car bro](http://9gag.com/gag/ary778K)
+ - 🚯 [The Password](http://9gag.com/gag/aW43rAZ)<!-- MEMES:END -->
 
 --- 
 
