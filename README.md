@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&amp;#8217;s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
- - [Study: OpenAI&#39;s o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. to 50-55% for triage doctors &lpar;Robert Booth/The Guardian&rpar;](https://www.techmeme.com/260502/p8#a260502p8)
- - [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown)<!-- TECH:END -->
+ - [Maryland becomes the first US state to ban surveillance pricing in grocery stores, as other states including CO, CA, MA, IL, and NJ consider similar bills &lpar;Sanya Mansoor/The Guardian&rpar;](https://www.techmeme.com/260502/p12#a260502p12)
+ - [Iodyne Pro Data 24TB review: $15K, ridiculous speed, and probably not for you](https://appleinsider.com/articles/26/04/29/iodyne-pro-data-24tb-review-15k-ridiculous-speed-and-probably-not-for-you?utm_source=rss)
+ - [Analysis: after Trump&#39;s World Liberty raised $550M from investors, tokens worth hundreds of millions in USD were privately sold in &quot;white glove&quot; transactions &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260502/p11#a260502p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
