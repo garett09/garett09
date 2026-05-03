@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)
- - 🚯 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
- - 🚯 [Guys](http://9gag.com/gag/a1m3ywG)<!-- MEMES:END -->
+ - 🚖 [Out of Mana, but never out of questionable life choices.](http://9gag.com/gag/amo44Dd)
+ - 🚯 [He came prepared](http://9gag.com/gag/aVvypR8)
+ - 🚯 [Its been a good run boys, Mayon Volcano just erupted](http://9gag.com/gag/aD2eKbx)<!-- MEMES:END -->
 
 --- 
 
