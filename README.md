@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title](http://9gag.com/gag/agmzPN1)
- - 🚯 [I have this mental illness](http://9gag.com/gag/aoyQX5n)
- - 🚯 [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)<!-- MEMES:END -->
+ - 🚖 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)
+ - 🚯 [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)
+ - 🚯 [My best friend got hit by a car, he is currently in surgery fighting for his life. Please send good vibes](http://9gag.com/gag/a4POD1Q)<!-- MEMES:END -->
 
 --- 
 
