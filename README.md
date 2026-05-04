@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle to Search update lets Google look beyond your screen content](https://www.androidauthority.com/circle-to-search-ask-about-screen-pdf-url-update-3663080/)
- - [Legislators and experts criticize the EU&#39;s €20B sovereign compute data center plan, questioning whether there is demand and the plan&#39;s reliance on Nvidia GPUs &lpar;Pieter Haeck/Politico&rpar;](https://www.techmeme.com/260504/p6#a260504p6)
- - [When will Galaxy S25 get One UI 8.5? Tipster calls a new date after Samsung missed the last one](https://www.androidauthority.com/samsung-one-ui-8-5-stable-galaxy-s25-3663084/)<!-- TECH:END -->
+ - [This Galaxy Z Flip 8 leak sounds almost too good to be true](https://www.androidauthority.com/galaxy-z-flip-8-leak-too-good-to-be-true-3663191/)
+ - [New leak suggests Galaxy S27 Ultra’s 200MP main camera might not be boring after all](https://www.androidauthority.com/samsung-galaxy-s27-ultra-200mp-variable-aperture-3663173/)
+ - [9 Gift Ideas Perfect for Moms Who Value Self-Care and Staying Active](https://www.cnet.com/health/fitness/mothers-day-gift-guide-self-care-wellness/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
