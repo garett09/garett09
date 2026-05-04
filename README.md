@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 🚯 [Get in the car bro](http://9gag.com/gag/ary778K)
- - 🚯 [The Password](http://9gag.com/gag/aW43rAZ)<!-- MEMES:END -->
+ - 🚖 [What Happens When You Inflate A Body At Depth And Let It Ascend Quickly](http://9gag.com/gag/a6ZYP2N)
+ - 🚯 [Some Cartoon-Box](http://9gag.com/gag/a4POXvw)
+ - 🚯 [Firm handshake](http://9gag.com/gag/a87xZXe)<!-- MEMES:END -->
 
 --- 
 
