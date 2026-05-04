@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Asian suppliers account for ~90% of Nvidia&#39;s production costs, up from 65% in 2025, as latest wave of collaborations shifts from chips to physical AI &lpar;Abhishek Vishnoi/Bloomberg&rpar;](https://www.techmeme.com/260503/p10#a260503p10)
- - [Star Wars Guide: How to Watch Movies, TV Shows and Side Stories in Order](https://www.cnet.com/tech/services-and-software/star-wars-guide-how-to-watch-movies-tv-shows-and-side-stories-in-order/)
- - [Sony&#39;s AI Robot Can Probably Beat You at Table Tennis](https://www.cnet.com/tech/sonys-new-ai-robot-can-probably-beat-you-in-table-tennis/)<!-- TECH:END -->
+ - [How music streaming services are adapting to the rise of AI-generated music by labeling, deranking, and demonetizing tracks, using AI detection tools, and more &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260503/p14#a260503p14)
+ - [GameStop CEO Ryan Cohen says he is making an unsolicited ~$56B offer to buy eBay and will take the offer to shareholders if the company is not receptive &lpar;Lauren Thomas/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p13#a260503p13)
+ - [A profile of music AI startup Suno, valued at ~$2.5B with 2M+ paying users and $300M annualized revenue as of February, as it battles record labels and artists &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260503/p12#a260503p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
