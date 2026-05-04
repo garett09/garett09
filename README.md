@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Galaxy Z Flip 8 leak sounds almost too good to be true](https://www.androidauthority.com/galaxy-z-flip-8-leak-too-good-to-be-true-3663191/)
- - [New leak suggests Galaxy S27 Ultra’s 200MP main camera might not be boring after all](https://www.androidauthority.com/samsung-galaxy-s27-ultra-200mp-variable-aperture-3663173/)
- - [9 Gift Ideas Perfect for Moms Who Value Self-Care and Staying Active](https://www.cnet.com/health/fitness/mothers-day-gift-guide-self-care-wellness/)<!-- TECH:END -->
+ - [Nothing’s latest cryptic teaser could be hinting at a new version of the Ear Open](https://www.androidauthority.com/nothing-ear-open-new-color-teaser-3663315/)
+ - [Former Trump and Biden AI advisers Dean Ball and Ben Buchanan urge bipartisan action on AI security risks, including tighter export controls and safety audits &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p33#a260504p33)
+ - [T-Mobile’s off-grid satellite coverage now works beyond the US](https://www.androidauthority.com/t-mobile-satellite-roaming-canada-new-zealand-3663306/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
