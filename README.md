@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally some good news](http://9gag.com/gag/aByBA8D)
- - 🚯 [Guys](http://9gag.com/gag/a1m3ywG)
- - 🚯 [Cats and dogs](http://9gag.com/gag/ae98L3p)<!-- MEMES:END -->
+ - 🚖 [Title](http://9gag.com/gag/agmzPN1)
+ - 🚯 [I have this mental illness](http://9gag.com/gag/aoyQX5n)
+ - 🚯 [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)<!-- MEMES:END -->
 
 --- 
 
