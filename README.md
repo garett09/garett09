@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How music streaming services are adapting to the rise of AI-generated music by labeling, deranking, and demonetizing tracks, using AI detection tools, and more &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260503/p14#a260503p14)
- - [GameStop CEO Ryan Cohen says he is making an unsolicited ~$56B offer to buy eBay and will take the offer to shareholders if the company is not receptive &lpar;Lauren Thomas/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p13#a260503p13)
- - [A profile of music AI startup Suno, valued at ~$2.5B with 2M+ paying users and $300M annualized revenue as of February, as it battles record labels and artists &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260503/p12#a260503p12)<!-- TECH:END -->
+ - [Circle to Search update lets Google look beyond your screen content](https://www.androidauthority.com/circle-to-search-ask-about-screen-pdf-url-update-3663080/)
+ - [Legislators and experts criticize the EU&#39;s €20B sovereign compute data center plan, questioning whether there is demand and the plan&#39;s reliance on Nvidia GPUs &lpar;Pieter Haeck/Politico&rpar;](https://www.techmeme.com/260504/p6#a260504p6)
+ - [When will Galaxy S25 get One UI 8.5? Tipster calls a new date after Samsung missed the last one](https://www.androidauthority.com/samsung-one-ui-8-5-stable-galaxy-s25-3663084/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
