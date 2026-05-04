@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What Happens When You Inflate A Body At Depth And Let It Ascend Quickly](http://9gag.com/gag/a6ZYP2N)
- - 🚯 [Some Cartoon-Box](http://9gag.com/gag/a4POXvw)
- - 🚯 [Firm handshake](http://9gag.com/gag/a87xZXe)<!-- MEMES:END -->
+ - 🚖 [Finally some good news](http://9gag.com/gag/aByBA8D)
+ - 🚯 [Guys](http://9gag.com/gag/a1m3ywG)
+ - 🚯 [Cats and dogs](http://9gag.com/gag/ae98L3p)<!-- MEMES:END -->
 
 --- 
 
