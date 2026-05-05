@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)
- - 🚯 [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)
- - 🚯 [My best friend got hit by a car, he is currently in surgery fighting for his life. Please send good vibes](http://9gag.com/gag/a4POD1Q)<!-- MEMES:END -->
+ - 🚖 [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 🚯 [Fight 4u right](http://9gag.com/gag/aZZOGD0)
+ - 🚯 [Any ideas?](http://9gag.com/gag/aGy431z)<!-- MEMES:END -->
 
 --- 
 
