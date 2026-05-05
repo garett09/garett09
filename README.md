@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 🚯 [Fight 4u right](http://9gag.com/gag/aZZOGD0)
- - 🚯 [Any ideas?](http://9gag.com/gag/aGy431z)<!-- MEMES:END -->
+ - 🚖 [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - 🚯 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
+ - 🚯 [China irl](http://9gag.com/gag/aYQX2mw)<!-- MEMES:END -->
 
 --- 
 
