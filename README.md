@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers gaslit Claude into giving instructions to build explosives](https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information)
- - [Google’s AI architect lived rent-free in Elon Musk’s head](https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind)
- - [Inside the lab where Ford is trying to crack the code on cheap EVs](https://www.theverge.com/transportation/923704/ford-ev-skunkworks-lab-long-beach)<!-- TECH:END -->
+ - [May 2026’s Pixel update is here to fix charging speeds and camera app freezes](https://www.androidauthority.com/may-2026-pixel-software-update-3663791/)
+ - [Blitzy, which says its platform autonomously completes months of software development, raised $200M at a $1.4B valuation, bringing its total funding to $232M+ &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260505/p38#a260505p38)
+ - [iPhone users will get to select a preferred AI model in iOS 27](https://appleinsider.com/articles/26/05/05/iphone-users-will-get-to-select-a-preferred-ai-model-in-ios-27?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
