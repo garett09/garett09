@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 🚯 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
+ - 🚖 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
+ - 🚯 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
  - 🚯 [China irl](http://9gag.com/gag/aYQX2mw)<!-- MEMES:END -->
 
 --- 
