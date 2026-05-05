@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
+ - 🚖 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
  - 🚯 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - 🚯 [China irl](http://9gag.com/gag/aYQX2mw)<!-- MEMES:END -->
+ - 🚯 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)<!-- MEMES:END -->
 
 --- 
 
