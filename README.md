@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Altman discussed spinning out OpenAI&#39;s robotics and consumer hardware divisions in late 2025 to give them more room to grow; the plan was rejected &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p47#a260504p47)
- - [As Colorado tech leaders say that burdensome regulations are driving companies away, lawmakers introduce a slimmer version of an AI anti-discrimination bill &lpar;Owen Tucker-Smith/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p46#a260504p46)
- - [Boox Go 10.3 Gen II review: this refresh is both better and somehow worse than the last one](https://appleinsider.com/articles/26/05/05/boox-go-103-gen-ii-review-this-refresh-is-both-better-and-somehow-worse-than-the-last-one?utm_source=rss)<!-- TECH:END -->
+ - [iPhone-Android RCS messaging finally gets the security upgrade we’ve been waiting for](https://www.androidauthority.com/ios-26-5-rc-rcs-e2ee-support-3663439/)
+ - [Q&amp;A with Uber CEO Dara Khosrowshahi on his plan to make Uber an everything app, Uber&#39;s AI integrations, investing in autonomous cars, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260505/p3#a260505p3)
+ - [Some of the best-selling Android phones in 2026 skip a feature you take for granted](https://www.androidauthority.com/q1-2026-best-selling-phones-3663434/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
