@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone-Android RCS messaging finally gets the security upgrade we’ve been waiting for](https://www.androidauthority.com/ios-26-5-rc-rcs-e2ee-support-3663439/)
- - [Q&amp;A with Uber CEO Dara Khosrowshahi on his plan to make Uber an everything app, Uber&#39;s AI integrations, investing in autonomous cars, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260505/p3#a260505p3)
- - [Some of the best-selling Android phones in 2026 skip a feature you take for granted](https://www.androidauthority.com/q1-2026-best-selling-phones-3663434/)<!-- TECH:END -->
+ - [Researchers gaslit Claude into giving instructions to build explosives](https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information)
+ - [Google’s AI architect lived rent-free in Elon Musk’s head](https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind)
+ - [Inside the lab where Ford is trying to crack the code on cheap EVs](https://www.theverge.com/transportation/923704/ford-ev-skunkworks-lab-long-beach)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
