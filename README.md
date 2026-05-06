@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
- - 🚯 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
- - 🚯 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)<!-- MEMES:END -->
+ - 🚖 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - 🚯 [Gym Life be like](http://9gag.com/gag/awyWqX8)
+ - 🚯 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)<!-- MEMES:END -->
 
 --- 
 
