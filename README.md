@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [May 2026’s Pixel update is here to fix charging speeds and camera app freezes](https://www.androidauthority.com/may-2026-pixel-software-update-3663791/)
- - [Blitzy, which says its platform autonomously completes months of software development, raised $200M at a $1.4B valuation, bringing its total funding to $232M+ &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260505/p38#a260505p38)
- - [iPhone users will get to select a preferred AI model in iOS 27](https://appleinsider.com/articles/26/05/05/iphone-users-will-get-to-select-a-preferred-ai-model-in-ios-27?utm_source=rss)<!-- TECH:END -->
+ - [CRM software company Freshworks said it plans to cut 11% of its workforce, or ~500 jobs, as it deals with AI&#39;s impact; FRSH has dropped ~26% in 2026 &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260505/p61#a260505p61)
+ - [US labor experts and economists warn US unemployment benefits are unlikely to protect against AI job losses, and the GOP-led Congress is doing little to prepare &lpar;New York Times&rpar;](https://www.techmeme.com/260505/p60#a260505p60)
+ - [Oura’s subscription-free rival is back on Kickstarter with a tempting new bundle](https://www.androidauthority.com/ultrahuman-ring-pro-kickstarter-campaign-3663897/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
