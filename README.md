@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DefiLlama: investors pulled ~$14B from the DeFi sector after North Korea-linked hackers stole $290M from Aave in April, weeks after stealing $280M from Drift &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p12#a260506p12)
- - [One UI 9’s first release might not be far away](https://www.androidauthority.com/samsung-internal-one-ui-9-beta-spotted-3664019/)
- - [This carrier found a way to charge you $40 despite the ban on activation fees](https://www.androidauthority.com/bell-intros-device-handling-charge-3664032/)<!-- TECH:END -->
+ - [The UK FCA says it is investigating PayPal, Mastercard, and Visa for alleged anti-competitive behavior, in a rare antitrust investigation by the regulator &lpar;Laith Al-Khalaf/Financial Times&rpar;](https://www.techmeme.com/260506/p29#a260506p29)
+ - [Smartphone market led by Apple&#39;s iPhone in post-holiday sales](https://appleinsider.com/articles/26/05/06/smartphone-market-led-by-apples-iphone-in-post-holiday-sales?utm_source=rss)
+ - [BOE just can&#39;t make good enough iPhone screens in volume](https://appleinsider.com/articles/26/05/06/boe-just-cant-make-good-enough-iphone-screens-in-volume?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
