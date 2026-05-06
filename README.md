@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - 🚖 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
  - 🚯 [Gym Life be like](http://9gag.com/gag/awyWqX8)
- - 🚯 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)<!-- MEMES:END -->
+ - 🚯 [Who are you? Where is she?](http://9gag.com/gag/abAnjMr)<!-- MEMES:END -->
 
 --- 
 
