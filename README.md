@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CRM software company Freshworks said it plans to cut 11% of its workforce, or ~500 jobs, as it deals with AI&#39;s impact; FRSH has dropped ~26% in 2026 &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260505/p61#a260505p61)
- - [US labor experts and economists warn US unemployment benefits are unlikely to protect against AI job losses, and the GOP-led Congress is doing little to prepare &lpar;New York Times&rpar;](https://www.techmeme.com/260505/p60#a260505p60)
- - [Oura’s subscription-free rival is back on Kickstarter with a tempting new bundle](https://www.androidauthority.com/ultrahuman-ring-pro-kickstarter-campaign-3663897/)<!-- TECH:END -->
+ - [DefiLlama: investors pulled ~$14B from the DeFi sector after North Korea-linked hackers stole $290M from Aave in April, weeks after stealing $280M from Drift &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p12#a260506p12)
+ - [One UI 9’s first release might not be far away](https://www.androidauthority.com/samsung-internal-one-ui-9-beta-spotted-3664019/)
+ - [This carrier found a way to charge you $40 despite the ban on activation fees](https://www.androidauthority.com/bell-intros-device-handling-charge-3664032/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
