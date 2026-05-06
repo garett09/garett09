@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
- - 🚯 [Gym Life be like](http://9gag.com/gag/awyWqX8)
- - 🚯 [Who are you? Where is she?](http://9gag.com/gag/abAnjMr)<!-- MEMES:END -->
+ - 🚖 [F**k yes. Best of news all year.](http://9gag.com/gag/aqyo387)
+ - 🚯 [UPS driver to the rescue.](http://9gag.com/gag/a4PXKKw)
+ - 🚯 [Charlotte really said &#39;good luck out there&#39;](http://9gag.com/gag/a4POMdQ)<!-- MEMES:END -->
 
 --- 
 
