@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK FCA says it is investigating PayPal, Mastercard, and Visa for alleged anti-competitive behavior, in a rare antitrust investigation by the regulator &lpar;Laith Al-Khalaf/Financial Times&rpar;](https://www.techmeme.com/260506/p29#a260506p29)
- - [Smartphone market led by Apple&#39;s iPhone in post-holiday sales](https://appleinsider.com/articles/26/05/06/smartphone-market-led-by-apples-iphone-in-post-holiday-sales?utm_source=rss)
- - [BOE just can&#39;t make good enough iPhone screens in volume](https://appleinsider.com/articles/26/05/06/boe-just-cant-make-good-enough-iphone-screens-in-volume?utm_source=rss)<!-- TECH:END -->
+ - [Samsung’s next foldables may introduce a major shift in chipset strategy](https://www.androidauthority.com/galaxy-z-fold-8-and-flip-8-chips-3664391/)
+ - [Musk v. Altman: Mira Murati testifies that Sam Altman lied to her about the safety standards for a new OpenAI model and that he made her work more difficult &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260506/p41#a260506p41)
+ - [Google weighs in on Chrome’s weights.bin controversy](https://www.androidauthority.com/google-chrome-weights-bin-file-statement-3664379/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
