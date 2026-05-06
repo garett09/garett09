@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - 🚯 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - 🚯 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)<!-- MEMES:END -->
+ - 🚖 [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
+ - 🚯 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
+ - 🚯 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)<!-- MEMES:END -->
 
 --- 
 
