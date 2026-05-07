@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your next Galaxy Watch update could save you from a nasty fall](https://www.androidauthority.com/samsung-galaxy-watch-6-can-predict-fainting-3664556/)
- - [Your Pixel 8 phone is almost ready for AirDrop support](https://www.androidauthority.com/google-pixel-8-quick-share-airdrop-app-3664510/)
- - [We haven’t seen new Wi-Fi audio products in over a year, but Qualcomm has some good news](https://www.androidauthority.com/qualcomm-xpan-update-2026-3663562/)<!-- TECH:END -->
+ - [Cologne-based AI translation startup DeepL plans to cut ~25% of its workforce, or ~250 staff, saying adapting to AI &quot;means fewer layers&quot; and &quot;faster decisions&quot; &lpar;Amy Thomson/Bloomberg&rpar;](https://www.techmeme.com/260507/p21#a260507p21)
+ - [Inside Dreame’s wild launch event — packed with products no one can buy](https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026)
+ - [Khosla-backed robotics startup Genesis AI unveils GENE-26.5, its first model, which can control robotic hands that it designed in-house to do tasks like cooking &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260507/p20#a260507p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
