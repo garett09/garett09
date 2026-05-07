@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s next foldables may introduce a major shift in chipset strategy](https://www.androidauthority.com/galaxy-z-fold-8-and-flip-8-chips-3664391/)
- - [Musk v. Altman: Mira Murati testifies that Sam Altman lied to her about the safety standards for a new OpenAI model and that he made her work more difficult &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260506/p41#a260506p41)
- - [Google weighs in on Chrome’s weights.bin controversy](https://www.androidauthority.com/google-chrome-weights-bin-file-statement-3664379/)<!-- TECH:END -->
+ - [Sources: the US and China are considering recurring talks on the security risks posed by AI models, with Scott Bessent leading the American side &lpar;Lingling Wei/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p52#a260506p52)
+ - [A US appeals court strikes down a 2023 FCC rule banning broadband access discrimination based on income, race, and more; Chair Brendan Carr welcomes the ruling &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/260506/p50#a260506p50)
+ - [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
