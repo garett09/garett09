@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Atari just bought the rights to the big daddy of PC RPGs, and a reissue campaign is afoot](https://www.pcgamer.com/games/rpg/atari-just-bought-the-rights-to-the-big-daddy-of-pc-rpgs-and-a-reissue-campaign-is-afoot/)
- - [With a peak player count of 14.2 million, 99 Nights in the Forest has an audience other multiplayer games would kill for: &#39;To find these behemoth playerbases you need to be on a platform like Roblox&#39;](https://www.pcgamer.com/games/survival-crafting/with-a-peak-player-count-of-14-2-million-99-nights-in-the-forest-has-an-audience-other-multiplayer-games-would-kill-for-to-find-these-behemoth-playerbases-you-need-to-be-on-a-platform-like-roblox/)
- - [All Star Fox games that the new Star Fox game is technically a remake of](https://www.polygon.com/star-fox-2026-remake-64-3d-zero/)<!-- GAME:END -->
+ - [How to get the Shard of Serenity in Heroes of Might and Magic: Olden Era](https://www.polygon.com/heroes-of-might-magic-olden-era-shard-of-serenity-how-to-find-location/)
+ - [GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt](https://kotaku.com/gamestop-ebay-ryan-cohen-auction-game-informer-ban-2000693746)
+ - [Mixtape: The Kotaku Review](https://kotaku.com/mixtape-review-beethoven-dinosaur-annapurna-interactive-2000693680)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
