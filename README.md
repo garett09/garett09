@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US and China are considering recurring talks on the security risks posed by AI models, with Scott Bessent leading the American side &lpar;Lingling Wei/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p52#a260506p52)
- - [A US appeals court strikes down a 2023 FCC rule banning broadband access discrimination based on income, race, and more; Chair Brendan Carr welcomes the ruling &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/260506/p50#a260506p50)
- - [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)<!-- TECH:END -->
+ - [Your next Galaxy Watch update could save you from a nasty fall](https://www.androidauthority.com/samsung-galaxy-watch-6-can-predict-fainting-3664556/)
+ - [Your Pixel 8 phone is almost ready for AirDrop support](https://www.androidauthority.com/google-pixel-8-quick-share-airdrop-app-3664510/)
+ - [We haven’t seen new Wi-Fi audio products in over a year, but Qualcomm has some good news](https://www.androidauthority.com/qualcomm-xpan-update-2026-3663562/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
