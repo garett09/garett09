@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - 🚯 [Ink printer cartridge should be a crime](http://9gag.com/gag/a0erv3v)
+ - 🚖 [Can&#39;t you see this sign, it&#39;s double yellow lines](http://9gag.com/gag/aryQ1YK)
+ - 🚯 [Who are you? Where is she?](http://9gag.com/gag/abAnjMr)
  - 🚯 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
 
 --- 
