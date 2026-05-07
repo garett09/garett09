@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Empire&#39;s most OTT lord finally gets his due, portrayed by a YouTuber hamming it up in Total War: Warhammer 3](https://www.pcgamer.com/games/strategy/the-empires-most-ott-lord-finally-gets-his-due-portrayed-by-a-youtuber-hamming-it-up-in-total-war-warhammer-3/)
- - [Total War: Warhammer 40,000 will have destructible terrain elements: &#39;That forest, if you don&#39;t like it, you don&#39;t have to keep it&#39;](https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-will-have-destructible-terrain-elements-that-forest-if-you-dont-like-it-you-dont-have-to-keep-it/)
- - [Subnautica 2 is the latest behemoth to mess with other games&#39; launch plans at the last minute: &#39;we need to dodge the Leviathan&#39;](https://www.pcgamer.com/gaming-industry/subnautica-2-is-the-latest-behemoth-to-mess-with-other-games-launch-plans-at-the-last-minute-we-need-to-dodge-the-leviathan/)<!-- GAME:END -->
+ - [Atari just bought the rights to the big daddy of PC RPGs, and a reissue campaign is afoot](https://www.pcgamer.com/games/rpg/atari-just-bought-the-rights-to-the-big-daddy-of-pc-rpgs-and-a-reissue-campaign-is-afoot/)
+ - [With a peak player count of 14.2 million, 99 Nights in the Forest has an audience other multiplayer games would kill for: &#39;To find these behemoth playerbases you need to be on a platform like Roblox&#39;](https://www.pcgamer.com/games/survival-crafting/with-a-peak-player-count-of-14-2-million-99-nights-in-the-forest-has-an-audience-other-multiplayer-games-would-kill-for-to-find-these-behemoth-playerbases-you-need-to-be-on-a-platform-like-roblox/)
+ - [All Star Fox games that the new Star Fox game is technically a remake of](https://www.polygon.com/star-fox-2026-remake-64-3d-zero/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
