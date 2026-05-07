@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cologne-based AI translation startup DeepL plans to cut ~25% of its workforce, or ~250 staff, saying adapting to AI &quot;means fewer layers&quot; and &quot;faster decisions&quot; &lpar;Amy Thomson/Bloomberg&rpar;](https://www.techmeme.com/260507/p21#a260507p21)
- - [Inside Dreame’s wild launch event — packed with products no one can buy](https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026)
- - [Khosla-backed robotics startup Genesis AI unveils GENE-26.5, its first model, which can control robotic hands that it designed in-house to do tasks like cooking &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260507/p20#a260507p20)<!-- TECH:END -->
+ - [SpaceX has a $55 billion plan to build AI chips in Texas](https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips)
+ - [Formula 1 Apple TV switch didn&#39;t get the fan backlash executives feared](https://appleinsider.com/articles/26/05/07/formula-1-apple-tv-switch-didnt-get-the-fan-backlash-executives-feared?utm_source=rss)
+ - [Gemini’s speckly new animation is spreading from iOS to Android](https://www.androidauthority.com/new-gemini-animation-3664854/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
