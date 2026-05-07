@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No comment](http://9gag.com/gag/aD2KRed)
- - 🚯 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
- - 🚯 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)<!-- MEMES:END -->
+ - 🚖 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
+ - 🚯 [Ego damage](http://9gag.com/gag/ae9njm5)
+ - 🚯 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)<!-- MEMES:END -->
 
 --- 
 
