@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k yes. Best of news all year.](http://9gag.com/gag/aqyo387)
- - 🚯 [UPS driver to the rescue.](http://9gag.com/gag/a4PXKKw)
- - 🚯 [Charlotte really said &#39;good luck out there&#39;](http://9gag.com/gag/a4POMdQ)<!-- MEMES:END -->
+ - 🚖 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - 🚯 [Ink printer cartridge should be a crime](http://9gag.com/gag/a0erv3v)
+ - 🚯 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
 
 --- 
 
