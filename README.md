@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&#39;t you see this sign, it&#39;s double yellow lines](http://9gag.com/gag/aryQ1YK)
- - 🚯 [Who are you? Where is she?](http://9gag.com/gag/abAnjMr)
- - 🚯 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
+ - 🚖 [No comment](http://9gag.com/gag/aD2KRed)
+ - 🚯 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
+ - 🚯 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)<!-- MEMES:END -->
 
 --- 
 
