@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surveys: half of US adults under 50 get health info from influencers or podcasts; 86% of the health influencers are on Instagram, 62% on TikTok, 45% on YouTube &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260508/p8#a260508p8)
- - [Analysis: the combined free cash flow of Amazon, Alphabet, Microsoft, and Meta is expected to fall to ~$4B in Q3 and hit its lowest full-year level since 2014 &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p7#a260508p7)
- - [Filings: Baidu&#39;s AI chip unit Kunlunxin is planning a dual IPO on Shanghai&#39;s STAR Board and in Hong Kong; Baidu holds a 58% stake in Kunlunxin &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p6#a260508p6)<!-- TECH:END -->
+ - [Sony reports a $765M impairment loss due to underperformance of Marathon developer Bungie during the financial year ending March 31, 2026 &lpar;Wesley Yin-Poole/IGN&rpar;](https://www.techmeme.com/260508/p20#a260508p20)
+ - [Mac shortages, iPhone rumors, and &#39;Schmigadoon!&#39; on the AppleInsider Podcast](https://appleinsider.com/articles/26/05/08/mac-shortages-iphone-rumors-and-schmigadoon-on-the-appleinsider-podcast?utm_source=rss)
+ - [Google opens its smartest Gmail writing feature to basically everyone](https://www.androidauthority.com/gmail-help-me-write-upgrades-wide-rollout-3665099/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
