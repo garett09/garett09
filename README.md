@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
- - 🚯 [Ego damage](http://9gag.com/gag/ae9njm5)
- - 🚯 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)<!-- MEMES:END -->
+ - 🚖 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
+ - 🚯 [You know OF right?...](http://9gag.com/gag/aqyP9jQ)
+ - 🚯 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)<!-- MEMES:END -->
 
 --- 
 
