@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX has a $55 billion plan to build AI chips in Texas](https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips)
- - [Formula 1 Apple TV switch didn&#39;t get the fan backlash executives feared](https://appleinsider.com/articles/26/05/07/formula-1-apple-tv-switch-didnt-get-the-fan-backlash-executives-feared?utm_source=rss)
- - [Gemini’s speckly new animation is spreading from iOS to Android](https://www.androidauthority.com/new-gemini-animation-3664854/)<!-- TECH:END -->
+ - [Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI](https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/)
+ - [OpenAI is rolling out GPT-5.5-Cyber, a security-focused variant of the model, in a limited preview capacity to vetted cybersecurity teams &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260507/p53#a260507p53)
+ - [A US judge blocks DOGE&#39;s termination of $100M in National Endowment for the Humanities grants, saying ChatGPT prompts used to decide the cuts were ill-defined &lpar;Zoe Tillman/Bloomberg&rpar;](https://www.techmeme.com/260507/p52#a260507p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
