@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI](https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/)
- - [OpenAI is rolling out GPT-5.5-Cyber, a security-focused variant of the model, in a limited preview capacity to vetted cybersecurity teams &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260507/p53#a260507p53)
- - [A US judge blocks DOGE&#39;s termination of $100M in National Endowment for the Humanities grants, saying ChatGPT prompts used to decide the cuts were ill-defined &lpar;Zoe Tillman/Bloomberg&rpar;](https://www.techmeme.com/260507/p52#a260507p52)<!-- TECH:END -->
+ - [Surveys: half of US adults under 50 get health info from influencers or podcasts; 86% of the health influencers are on Instagram, 62% on TikTok, 45% on YouTube &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260508/p8#a260508p8)
+ - [Analysis: the combined free cash flow of Amazon, Alphabet, Microsoft, and Meta is expected to fall to ~$4B in Q3 and hit its lowest full-year level since 2014 &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p7#a260508p7)
+ - [Filings: Baidu&#39;s AI chip unit Kunlunxin is planning a dual IPO on Shanghai&#39;s STAR Board and in Hong Kong; Baidu holds a 58% stake in Kunlunxin &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p6#a260508p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
