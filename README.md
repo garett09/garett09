@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
- - 🚯 [You know OF right?...](http://9gag.com/gag/aqyP9jQ)
- - 🚯 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)<!-- MEMES:END -->
+ - 🚯 [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)
+ - 🚯 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
 
 --- 
 
