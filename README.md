@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports a $765M impairment loss due to underperformance of Marathon developer Bungie during the financial year ending March 31, 2026 &lpar;Wesley Yin-Poole/IGN&rpar;](https://www.techmeme.com/260508/p20#a260508p20)
- - [Mac shortages, iPhone rumors, and &#39;Schmigadoon!&#39; on the AppleInsider Podcast](https://appleinsider.com/articles/26/05/08/mac-shortages-iphone-rumors-and-schmigadoon-on-the-appleinsider-podcast?utm_source=rss)
- - [Google opens its smartest Gmail writing feature to basically everyone](https://www.androidauthority.com/gmail-help-me-write-upgrades-wide-rollout-3665099/)<!-- TECH:END -->
+ - [Sources: Isomorphic Labs, an AI-powered drug discovery company spun out of Google DeepMind, is in advanced talks to raise $2B+ led by Thrive Capital &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p27#a260508p27)
+ - [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)
+ - [Snapseed’s eagerly awaited 4.0 update is now hitting Android devices](https://www.androidauthority.com/snapseed-4-3665216/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
