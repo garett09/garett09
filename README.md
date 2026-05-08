@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whatever it is, no one reads it anyway](http://9gag.com/gag/aAy8Yro)
- - 🚯 [Haha](http://9gag.com/gag/a9yxdyo)
- - 🚯 [Perfectly executed destruction](http://9gag.com/gag/abANXQ8)<!-- MEMES:END -->
+ - 🚖 [Happy 100th to one of the best of us.](http://9gag.com/gag/abAN5wb)
+ - 🚯 [When you get pulled over by Bill Burr](http://9gag.com/gag/aByAQdz)
+ - 🚯 [I could have been baking bread...](http://9gag.com/gag/aPAEvGg)<!-- MEMES:END -->
 
 --- 
 
