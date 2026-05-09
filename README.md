@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Downgrade](http://9gag.com/gag/a87RWDY)
- - 🚯 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
- - 🚯 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)<!-- MEMES:END -->
+ - 🚯 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)
+ - 🚯 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)<!-- MEMES:END -->
 
 --- 
 
