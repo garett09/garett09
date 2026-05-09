@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Let it snow](https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy)
- - [OpenAI, Anthropic, and Google&#39;s enterprise push with PE firms poses a new competitive threat to India&#39;s IT industry, as services become increasingly automatable &lpar;Moneycontrol&rpar;](https://www.techmeme.com/260509/p8#a260509p8)
- - [My new favorite AI-powered app switches between 70+ AI chatbots with a tap](https://www.androidauthority.com/ai-hub-hands-on-new-ai-apps-weekly-3664583/)<!-- TECH:END -->
+ - [LayerZero apologizes for Kelp DAO exploit response, says single-verifier setup was deficient; Dune: in April, ~47% of LayerZero OApps had the same default setup &lpar;Zack Abrams/The Block&rpar;](https://www.techmeme.com/260509/p12#a260509p12)
+ - [Anthropic, OpenAI, and other AI firms met with Hindu, Sikh, and Greek Orthodox leaders to draft principles on how to infuse models with ethics and morality &lpar;Krysta Fauria/Associated Press&rpar;](https://www.techmeme.com/260509/p11#a260509p11)
+ - [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
