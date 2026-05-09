@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Downgrade](http://9gag.com/gag/a87RWDY)
- - 🚯 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)
- - 🚯 [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)<!-- MEMES:END -->
+ - 🚖 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
+ - 🚯 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
+ - 🚯 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
 
 --- 
 
