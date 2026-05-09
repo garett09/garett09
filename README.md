@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Isomorphic Labs, an AI-powered drug discovery company spun out of Google DeepMind, is in advanced talks to raise $2B+ led by Thrive Capital &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p27#a260508p27)
- - [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)
- - [Snapseed’s eagerly awaited 4.0 update is now hitting Android devices](https://www.androidauthority.com/snapseed-4-3665216/)<!-- TECH:END -->
+ - [Honeywell&#39;s Quantinuum files for a US IPO, reporting a $136.6M net loss on revenue of $5.2M for the three months ended March 31; sources: it could raise $1.5B+ &lpar;Carmen Reinicke/Bloomberg&rpar;](https://www.techmeme.com/260508/p36#a260508p36)
+ - [Trump Media and Technology Group reports Q1 net sales up 6% YoY to $871,200 and a $405.9M net loss; DJT is down 35% so far in 2026 for a market cap of ~$2.47B &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260508/p35#a260508p35)
+ - [Premier League Soccer: Stream Man City vs. Brentford From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-brentford-from-anywhere-live/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
