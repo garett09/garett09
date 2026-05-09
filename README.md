@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Anthropic CFO Krishna Rao, who tends to take a conservative approach to revenue projections and has chosen to raise less money than is available &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260509/p6#a260509p6)
- - [Palo Alto Networks says in its testing, three weeks of frontier AI-assisted analysis matched a full year of manual penetration testing, with broader coverage &lpar;Sam Rubin/Palo Alto Networks Blog&rpar;](https://www.techmeme.com/260509/p5#a260509p5)
- - [Anthropic details how it improved Claude&#39;s safety training after finding agentic misalignment in older models, such as Opus 4 blackmailing engineers &lpar;Anthropic&rpar;](https://www.techmeme.com/260509/p4#a260509p4)<!-- TECH:END -->
+ - [Let it snow](https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy)
+ - [OpenAI, Anthropic, and Google&#39;s enterprise push with PE firms poses a new competitive threat to India&#39;s IT industry, as services become increasingly automatable &lpar;Moneycontrol&rpar;](https://www.techmeme.com/260509/p8#a260509p8)
+ - [My new favorite AI-powered app switches between 70+ AI chatbots with a tap](https://www.androidauthority.com/ai-hub-hands-on-new-ai-apps-weekly-3664583/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
