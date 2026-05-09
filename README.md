@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honeywell&#39;s Quantinuum files for a US IPO, reporting a $136.6M net loss on revenue of $5.2M for the three months ended March 31; sources: it could raise $1.5B+ &lpar;Carmen Reinicke/Bloomberg&rpar;](https://www.techmeme.com/260508/p36#a260508p36)
- - [Trump Media and Technology Group reports Q1 net sales up 6% YoY to $871,200 and a $405.9M net loss; DJT is down 35% so far in 2026 for a market cap of ~$2.47B &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260508/p35#a260508p35)
- - [Premier League Soccer: Stream Man City vs. Brentford From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-brentford-from-anywhere-live/)<!-- TECH:END -->
+ - [A profile of Anthropic CFO Krishna Rao, who tends to take a conservative approach to revenue projections and has chosen to raise less money than is available &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260509/p6#a260509p6)
+ - [Palo Alto Networks says in its testing, three weeks of frontier AI-assisted analysis matched a full year of manual penetration testing, with broader coverage &lpar;Sam Rubin/Palo Alto Networks Blog&rpar;](https://www.techmeme.com/260509/p5#a260509p5)
+ - [Anthropic details how it improved Claude&#39;s safety training after finding agentic misalignment in older models, such as Opus 4 blackmailing engineers &lpar;Anthropic&rpar;](https://www.techmeme.com/260509/p4#a260509p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
