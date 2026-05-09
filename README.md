@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy 100th to one of the best of us.](http://9gag.com/gag/abAN5wb)
- - 🚯 [When you get pulled over by Bill Burr](http://9gag.com/gag/aByAQdz)
- - 🚯 [I could have been baking bread...](http://9gag.com/gag/aPAEvGg)<!-- MEMES:END -->
+ - 🚖 [Downgrade](http://9gag.com/gag/a87RWDY)
+ - 🚯 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)
+ - 🚯 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)<!-- MEMES:END -->
 
 --- 
 
