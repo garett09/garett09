@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Execs at Palantir, whose stock is up ~16x since its AI platform&#39;s 2023 debut, often decry other AI as slop, as competition from frontier AI labs stiffens &lpar;Heather Somerville/Wall Street Journal&rpar;](https://www.techmeme.com/260509/p15#a260509p15)
- - [Premier League Soccer: Stream West Ham vs. Arsenal From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-arsenal-from-anywhere-live/)
- - [FCC passed an anti-robocall proposal requiring telecoms, including VoIP providers, to verify user identities before activating service, raising privacy fears &lpar;Ken Macon/Reclaim The Net&rpar;](https://www.techmeme.com/260509/p14#a260509p14)<!-- TECH:END -->
+ - [Steeper discounts: MacBook Pros plunge to as low as $1,499, save up to $500](https://appleinsider.com/articles/26/05/10/steeper-discounts-macbook-pros-plunge-to-as-low-as-1499-save-up-to-500?utm_source=rss)
+ - [Inside Consensus Conference, one of the biggest crypto conferences, which had a decidedly corporate sheen in 2026 amid Wall Street&#39;s embrace of digital assets &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260510/p7#a260510p7)
+ - [NetBlocks: Iran&#39;s 70+ day internet blackout is &quot;the longest recorded national internet shutdown in a connected society&quot;, as businesses warn of layoffs, closures &lpar;Golnar Motevalli/Bloomberg&rpar;](https://www.techmeme.com/260510/p6#a260510p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
