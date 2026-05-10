@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
- - 🚯 [Who keeps the population uneducated &amp; indoctrinated](http://9gag.com/gag/agmDvbw)
- - 🚯 [One more week until 5000](http://9gag.com/gag/aPAEGAq)<!-- MEMES:END -->
+ - 🚖 [I&#39;ll sleep in your house tonight](http://9gag.com/gag/a346Lzr)
+ - 🚯 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
+ - 🚯 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)<!-- MEMES:END -->
 
 --- 
 
