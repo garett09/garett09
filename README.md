@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 11’s Tensor G6 sounds promising — until you compare it to rival flagship chips](https://www.androidauthority.com/pixel-11-performance-rumors-3664645/)
- - [Most of the tech on display at this year&#39;s Border Security Expo was autonomous and AI-equipped, driven by the Trump administration&#39;s focus on US border security &lpar;Elizabeth Findell/Wall Street Journal&rpar;](https://www.techmeme.com/260510/p9#a260510p9)
- - [Google&#39;s Big Bet: Adding Native Android App Support to Chrome Could Result in a Robust OS](https://www.cnet.com/tech/mobile/google-aluminum-os-android-chromeos-laptop-explainer/)<!-- TECH:END -->
+ - [Microsoft and G42&#39;s $1B geothermal-powered data center in Kenya stalls after the government couldn&#39;t provide annual payment guarantees that Microsoft requested &lpar;Bloomberg&rpar;](https://www.techmeme.com/260510/p12#a260510p12)
+ - [Trump Mobile&#39;s T1 is still vaporware a year and $59M later](https://appleinsider.com/articles/26/05/10/trump-mobiles-t1-smartphone-is-still-vaporware?utm_source=rss)
+ - [&#39;Euphoria&#39; Season 3 Release Schedule: When Does Episode 5 Premiere?](https://www.cnet.com/tech/services-and-software/euphoria-season-3-release-schedule-when-does-episode-5-premiere/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
