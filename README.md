@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
- - 🚯 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
- - 🚯 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
+ - 🚖 [Lying cop brake checks 18 wheeler](http://9gag.com/gag/aKGQP5j)
+ - 🚯 [Who keeps the population uneducated &amp; indoctrinated](http://9gag.com/gag/agmDvbw)
+ - 🚯 [One more week until 5000](http://9gag.com/gag/aPAEGAq)<!-- MEMES:END -->
 
 --- 
 
