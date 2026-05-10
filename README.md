@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
- - 🚯 [Hear me out](http://9gag.com/gag/amoeLby)
- - 🚯 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)<!-- MEMES:END -->
+ - 🚯 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
+ - 🚯 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
 
 --- 
 
