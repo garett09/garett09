@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LayerZero apologizes for Kelp DAO exploit response, says single-verifier setup was deficient; Dune: in April, ~47% of LayerZero OApps had the same default setup &lpar;Zack Abrams/The Block&rpar;](https://www.techmeme.com/260509/p12#a260509p12)
- - [Anthropic, OpenAI, and other AI firms met with Hindu, Sikh, and Greek Orthodox leaders to draft principles on how to infuse models with ethics and morality &lpar;Krysta Fauria/Associated Press&rpar;](https://www.techmeme.com/260509/p11#a260509p11)
- - [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale)<!-- TECH:END -->
+ - [Execs at Palantir, whose stock is up ~16x since its AI platform&#39;s 2023 debut, often decry other AI as slop, as competition from frontier AI labs stiffens &lpar;Heather Somerville/Wall Street Journal&rpar;](https://www.techmeme.com/260509/p15#a260509p15)
+ - [Premier League Soccer: Stream West Ham vs. Arsenal From Anywhere Live](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-arsenal-from-anywhere-live/)
+ - [FCC passed an anti-robocall proposal requiring telecoms, including VoIP providers, to verify user identities before activating service, raising privacy fears &lpar;Ken Macon/Reclaim The Net&rpar;](https://www.techmeme.com/260509/p14#a260509p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
