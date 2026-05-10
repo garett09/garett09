@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ll sleep in your house tonight](http://9gag.com/gag/a346Lzr)
- - 🚯 [Facts meet feelings](http://9gag.com/gag/aByA3zZ)
- - 🚯 [Microslop purposely slows down Win10 with each update.](http://9gag.com/gag/aByAQNZ)<!-- MEMES:END -->
+ - 🚖 [Titled](http://9gag.com/gag/aZZ6M33)
+ - 🚯 [Imagine the gainz](http://9gag.com/gag/aYQ3eLw)
+ - 🚯 [We are never topping this](http://9gag.com/gag/a87RjP1)<!-- MEMES:END -->
 
 --- 
 
