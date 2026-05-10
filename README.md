@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steeper discounts: MacBook Pros plunge to as low as $1,499, save up to $500](https://appleinsider.com/articles/26/05/10/steeper-discounts-macbook-pros-plunge-to-as-low-as-1499-save-up-to-500?utm_source=rss)
- - [Inside Consensus Conference, one of the biggest crypto conferences, which had a decidedly corporate sheen in 2026 amid Wall Street&#39;s embrace of digital assets &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260510/p7#a260510p7)
- - [NetBlocks: Iran&#39;s 70+ day internet blackout is &quot;the longest recorded national internet shutdown in a connected society&quot;, as businesses warn of layoffs, closures &lpar;Golnar Motevalli/Bloomberg&rpar;](https://www.techmeme.com/260510/p6#a260510p6)<!-- TECH:END -->
+ - [The Pixel 11’s Tensor G6 sounds promising — until you compare it to rival flagship chips](https://www.androidauthority.com/pixel-11-performance-rumors-3664645/)
+ - [Most of the tech on display at this year&#39;s Border Security Expo was autonomous and AI-equipped, driven by the Trump administration&#39;s focus on US border security &lpar;Elizabeth Findell/Wall Street Journal&rpar;](https://www.techmeme.com/260510/p9#a260510p9)
+ - [Google&#39;s Big Bet: Adding Native Android App Support to Chrome Could Result in a Robust OS](https://www.cnet.com/tech/mobile/google-aluminum-os-android-chromeos-laptop-explainer/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
