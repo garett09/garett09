@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corporate lawyers say AI-transcribed meeting notes may not have attorney-client privilege, making otherwise protected conversations discoverable in lawsuits &lpar;Sarah Kessler/New York Times&rpar;](https://www.techmeme.com/260510/p16#a260510p16)
- - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $150-$160 per share, potentially raising ~$4.8B at the top of the new range &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260510/p15#a260510p15)
- - [A look at Janitor AI, a romantic fantasy roleplay chatbot site run by three men that claims 2.5M DAUs and 15M total users, with 70% to 80% identifying as women &lpar;Anna Tong/Forbes&rpar;](https://www.techmeme.com/260510/p14#a260510p14)<!-- TECH:END -->
+ - [TikTok plans to roll out TikTok Ad-Free, a £3.99-per-month subscription for UK accounts aged 18 or older in the coming months, after testing the option in 2023 &lpar;Sean Keach/The Sun&rpar;](https://www.techmeme.com/260511/p8#a260511p8)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 11, #799](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-11-799/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 11, #1065](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-11-1065/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
