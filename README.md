@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine the gainz](http://9gag.com/gag/aYQ3eLw)
- - 🚯 [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)
- - 🚯 [Titled](http://9gag.com/gag/aZZ6M33)<!-- MEMES:END -->
+ - 🚖 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
+ - 🚯 [Timmy](http://9gag.com/gag/amoe81y)
+ - 🚯 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)<!-- MEMES:END -->
 
 --- 
 
