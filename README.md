@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple ad pitches college students on buying a Mac](https://appleinsider.com/articles/26/05/11/new-apple-ad-pitches-college-students-on-buying-a-mac?utm_source=rss)
- - [This new Android handheld has a crazy design and sub-$90 price tag](https://www.androidauthority.com/anbernic-rg-rotate-on-sale-3665461/)
- - [Cowboy Space, led by Robinhood co-founder Baiju Bhatt to build data centers in orbit, raised a $275M Series B led by Index Ventures at a $2B valuation &lpar;Bruce Einhorn/Bloomberg&rpar;](https://www.techmeme.com/260511/p23#a260511p23)<!-- TECH:END -->
+ - [Amazon deal drops the CMF Watch Pro 2 to just $40 &lpar;49% off!&rpar;](https://www.androidauthority.com/cmf-watch-pro-2-deal-3665645/)
+ - [Google&#39;s TIG says it has likely thwarted efforts to use AI for a &quot;mass exploitation event&quot; and warns that tools like OpenClaw are being used to find exploits &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260511/p33#a260511p33)
+ - [Sources: the White House&#39;s Office of the National Cyber Director and Commerce Department&#39;s CAISI are fighting over which agency should lead AI model evaluations &lpar;Washington Post&rpar;](https://www.techmeme.com/260511/p32#a260511p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
