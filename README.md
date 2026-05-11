@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
- - 🚯 [Timmy](http://9gag.com/gag/amoe81y)
- - 🚯 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)<!-- MEMES:END -->
+ - 🚖 [Core memory locked...Dads are best](http://9gag.com/gag/ajPzA81)
+ - 🚯 [The creators know what they&#39;re doing](http://9gag.com/gag/aByAYdA)
+ - 🚯 [This is such a cool way to visualize history](http://9gag.com/gag/adBGXjQ)<!-- MEMES:END -->
 
 --- 
 
