@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Titled](http://9gag.com/gag/aZZ6M33)
- - 🚯 [Imagine the gainz](http://9gag.com/gag/aYQ3eLw)
- - 🚯 [We are never topping this](http://9gag.com/gag/a87RjP1)<!-- MEMES:END -->
+ - 🚖 [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
+ - 🚯 [Well that escalated quickly](http://9gag.com/gag/aQzLn6r)
+ - 🚯 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)<!-- MEMES:END -->
 
 --- 
 
