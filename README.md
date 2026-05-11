@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and G42&#39;s $1B geothermal-powered data center in Kenya stalls after the government couldn&#39;t provide annual payment guarantees that Microsoft requested &lpar;Bloomberg&rpar;](https://www.techmeme.com/260510/p12#a260510p12)
- - [Trump Mobile&#39;s T1 is still vaporware a year and $59M later](https://appleinsider.com/articles/26/05/10/trump-mobiles-t1-smartphone-is-still-vaporware?utm_source=rss)
- - [&#39;Euphoria&#39; Season 3 Release Schedule: When Does Episode 5 Premiere?](https://www.cnet.com/tech/services-and-software/euphoria-season-3-release-schedule-when-does-episode-5-premiere/)<!-- TECH:END -->
+ - [Corporate lawyers say AI-transcribed meeting notes may not have attorney-client privilege, making otherwise protected conversations discoverable in lawsuits &lpar;Sarah Kessler/New York Times&rpar;](https://www.techmeme.com/260510/p16#a260510p16)
+ - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $150-$160 per share, potentially raising ~$4.8B at the top of the new range &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260510/p15#a260510p15)
+ - [A look at Janitor AI, a romantic fantasy roleplay chatbot site run by three men that claims 2.5M DAUs and 15M total users, with 70% to 80% identifying as women &lpar;Anna Tong/Forbes&rpar;](https://www.techmeme.com/260510/p14#a260510p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
