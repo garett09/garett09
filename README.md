@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok plans to roll out TikTok Ad-Free, a £3.99-per-month subscription for UK accounts aged 18 or older in the coming months, after testing the option in 2023 &lpar;Sean Keach/The Sun&rpar;](https://www.techmeme.com/260511/p8#a260511p8)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 11, #799](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-11-799/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 11, #1065](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-11-1065/)<!-- TECH:END -->
+ - [New Apple ad pitches college students on buying a Mac](https://appleinsider.com/articles/26/05/11/new-apple-ad-pitches-college-students-on-buying-a-mac?utm_source=rss)
+ - [This new Android handheld has a crazy design and sub-$90 price tag](https://www.androidauthority.com/anbernic-rg-rotate-on-sale-3665461/)
+ - [Cowboy Space, led by Robinhood co-founder Baiju Bhatt to build data centers in orbit, raised a $275M Series B led by Index Ventures at a $2B valuation &lpar;Bruce Einhorn/Bloomberg&rpar;](https://www.techmeme.com/260511/p23#a260511p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
