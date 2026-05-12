@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ultimate clapback](http://9gag.com/gag/ae9nYmQ)
- - 🚯 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)
- - 🚯 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)<!-- MEMES:END -->
+ - 🚖 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
+ - 🚯 [Interesting](http://9gag.com/gag/aAy8PQg)
+ - 🚯 [`Shake well before serving` obviously](http://9gag.com/gag/aYQ3Lzm)<!-- MEMES:END -->
 
 --- 
 
