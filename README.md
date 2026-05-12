@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
- - 🚯 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
- - 🚯 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)<!-- MEMES:END -->
+ - 🚖 [Pulpit Rock, Norway](http://9gag.com/gag/aZZ6BWX)
+ - 🚯 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)
+ - 🚯 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)<!-- MEMES:END -->
 
 --- 
 
