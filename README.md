@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how to watch The Android Show I/O Edition live today](https://www.androidauthority.com/watch-android-show-io-2026-live-3665803/)
- - [A Hollywood writer recounts working as an &quot;AI trainer&quot; for companies like Mercor, as AI gig work becomes the &quot;new waiting tables&quot; for entertainment workers &lpar;Ruth Fowler/Wired&rpar;](https://www.techmeme.com/260512/p4#a260512p4)
- - [Early look: Gemini Omni generates realistic AI video in new leak](https://www.androidauthority.com/google-gemini-omni-video-model-leak-3665801/)<!-- TECH:END -->
+ - [London-based blockchain analytics company Elliptic raised $120M led by One Peak Partners at a $670M valuation; the platform screens 1B+ transactions per week &lpar;Anna Irrera/Bloomberg&rpar;](https://www.techmeme.com/260512/p23#a260512p23)
+ - [OpenAI stands to hold ~$2.6B in combined CoreWeave and Cerebras stock that it acquired by committing to buy cloud services and chips, and to lend Cerebras money &lpar;Cory Weinberg/The Information&rpar;](https://www.techmeme.com/260512/p22#a260512p22)
+ - [Amazon’s ultrafast 30-minute deliveries are now available in more cities](https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
