@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon deal drops the CMF Watch Pro 2 to just $40 &lpar;49% off!&rpar;](https://www.androidauthority.com/cmf-watch-pro-2-deal-3665645/)
- - [Google&#39;s TIG says it has likely thwarted efforts to use AI for a &quot;mass exploitation event&quot; and warns that tools like OpenClaw are being used to find exploits &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260511/p33#a260511p33)
- - [Sources: the White House&#39;s Office of the National Cyber Director and Commerce Department&#39;s CAISI are fighting over which agency should lead AI model evaluations &lpar;Washington Post&rpar;](https://www.techmeme.com/260511/p32#a260511p32)<!-- TECH:END -->
+ - [Source: new revenue sharing terms cap OpenAI&#39;s payments to Microsoft at $38B; they previously could have totaled $135B through 2030 if long-term goals were met &lpar;The Information&rpar;](https://www.techmeme.com/260511/p45#a260511p45)
+ - [Android Owners: You Could Get Part of Google&#39;s $135 Million Data Settlement](https://www.cnet.com/tech/mobile/android-users-you-could-get-part-of-googles-135-million-data-settlement/)
+ - [The US Commerce Department removed from its website details about its May 5 agreement with Google, xAI, and Microsoft to test their AI models &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260511/p44#a260511p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
