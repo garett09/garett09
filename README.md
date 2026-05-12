@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: new revenue sharing terms cap OpenAI&#39;s payments to Microsoft at $38B; they previously could have totaled $135B through 2030 if long-term goals were met &lpar;The Information&rpar;](https://www.techmeme.com/260511/p45#a260511p45)
- - [Android Owners: You Could Get Part of Google&#39;s $135 Million Data Settlement](https://www.cnet.com/tech/mobile/android-users-you-could-get-part-of-googles-135-million-data-settlement/)
- - [The US Commerce Department removed from its website details about its May 5 agreement with Google, xAI, and Microsoft to test their AI models &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260511/p44#a260511p44)<!-- TECH:END -->
+ - [Here’s how to watch The Android Show I/O Edition live today](https://www.androidauthority.com/watch-android-show-io-2026-live-3665803/)
+ - [A Hollywood writer recounts working as an &quot;AI trainer&quot; for companies like Mercor, as AI gig work becomes the &quot;new waiting tables&quot; for entertainment workers &lpar;Ruth Fowler/Wired&rpar;](https://www.techmeme.com/260512/p4#a260512p4)
+ - [Early look: Gemini Omni generates realistic AI video in new leak](https://www.androidauthority.com/google-gemini-omni-video-model-leak-3665801/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
