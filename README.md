@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based blockchain analytics company Elliptic raised $120M led by One Peak Partners at a $670M valuation; the platform screens 1B+ transactions per week &lpar;Anna Irrera/Bloomberg&rpar;](https://www.techmeme.com/260512/p23#a260512p23)
- - [OpenAI stands to hold ~$2.6B in combined CoreWeave and Cerebras stock that it acquired by committing to buy cloud services and chips, and to lend Cerebras money &lpar;Cory Weinberg/The Information&rpar;](https://www.techmeme.com/260512/p22#a260512p22)
- - [Amazon’s ultrafast 30-minute deliveries are now available in more cities](https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities)<!-- TECH:END -->
+ - [The US FCC approves EchoStar&#39;s sale of approximately 65MHz of spectrum to SpaceX and 50MHz to AT&amp;T &lpar;Christian Martinez/Reuters&rpar;](https://www.techmeme.com/260512/p44#a260512p44)
+ - [iPhone &amp; Android interoperability enhancements highlighted at Google I/O preshow](https://appleinsider.com/articles/26/05/12/iphone-android-interoperability-enhancements-highlighted-at-google-io-preshow?utm_source=rss)
+ - [Iran Is Using Tiny ‘Mosquito’ Boats to Shut Down the Strait of Hormuz](https://www.wired.com/story/iran-is-using-tiny-mosquito-boats-to-shut-down-the-strait-of-hormuz/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
