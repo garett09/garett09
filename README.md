@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pulpit Rock, Norway](http://9gag.com/gag/aZZ6BWX)
- - 🚯 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)
- - 🚯 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)<!-- MEMES:END -->
+ - 🚖 [The ultimate clapback](http://9gag.com/gag/ae9nYmQ)
+ - 🚯 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)
+ - 🚯 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)<!-- MEMES:END -->
 
 --- 
 
