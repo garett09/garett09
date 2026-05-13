@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp launches Incognito Chat, an AI chat mode built on Private Processing that Meta says lets users talk to AI without Meta being able to access the chats &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260513/p28#a260513p28)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 13&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-13-2026-3666181/)
- - [WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private](https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/)<!-- TECH:END -->
+ - [The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.](https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it)
+ - [What It Will Take to Make AI Sustainable](https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/)
+ - [Fighting Trump will make or break Disney’s new CEO](https://www.theverge.com/streaming/930009/johh-damaro-disney-trump-fcc-the-view-equal-time-doctrine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
