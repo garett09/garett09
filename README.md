@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
- - 🚯 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
- - 🚯 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)<!-- MEMES:END -->
+ - 🚖 [Karen Pro Max+](http://9gag.com/gag/awyEVjR)
+ - 🚯 [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - 🚯 [Taekwondo](http://9gag.com/gag/aKGQVOO)<!-- MEMES:END -->
 
 --- 
 
