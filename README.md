@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA’s Curiosity Rover Got Its Drill Stuck on a Rock. Here’s How They Freed It](https://www.wired.com/story/nasas-curiosity-rover-got-its-drill-stuck-on-a-rock-heres-how-they-freed-it/)
- - [Your Google Keep notes might soon be easier to move to Markdown apps](https://www.androidauthority.com/google-keep-markdown-export-apk-teardown-3666449/)
- - [Anduril raised a $5B Series H led by Thrive and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and may IPO in 2027 &lpar;Sheera Frenkel/New York Times&rpar;](https://www.techmeme.com/260513/p11#a260513p11)<!-- TECH:END -->
+ - [WhatsApp launches Incognito Chat, an AI chat mode built on Private Processing that Meta says lets users talk to AI without Meta being able to access the chats &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260513/p28#a260513p28)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 13&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-13-2026-3666181/)
+ - [WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private](https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
