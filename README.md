@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen Pro Max+](http://9gag.com/gag/awyEVjR)
- - 🚯 [Hola guapa](http://9gag.com/gag/aXPyqYP)
- - 🚯 [Taekwondo](http://9gag.com/gag/aKGQVOO)<!-- MEMES:END -->
+ - 🚖 [Freestyler](http://9gag.com/gag/a9yxrY1)
+ - 🚯 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 🚯 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)<!-- MEMES:END -->
 
 --- 
 
