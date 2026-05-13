@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says that Jensen Huang is joining President Trump on his China trip; source: the president asked Huang to join after seeing media coverage of his absence &lpar;CNBC&rpar;](https://www.techmeme.com/260512/p64#a260512p64)
- - [Waymo recalls ~3,800 robotaxis in the US to fix software issues that may cause them to drive onto flooded roads, after some were seen stalled on flooded streets &lpar;Lora Kolodny/CNBC&rpar;](https://www.techmeme.com/260512/p63#a260512p63)
- - [Sony puts the spotlight on camera upgrades with Xperia 1 VIII launch](https://www.androidauthority.com/sony-xperia-1-viii-3666078/)<!-- TECH:END -->
+ - [NASA’s Curiosity Rover Got Its Drill Stuck on a Rock. Here’s How They Freed It](https://www.wired.com/story/nasas-curiosity-rover-got-its-drill-stuck-on-a-rock-heres-how-they-freed-it/)
+ - [Your Google Keep notes might soon be easier to move to Markdown apps](https://www.androidauthority.com/google-keep-markdown-export-apk-teardown-3666449/)
+ - [Anduril raised a $5B Series H led by Thrive and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and may IPO in 2027 &lpar;Sheera Frenkel/New York Times&rpar;](https://www.techmeme.com/260513/p11#a260513p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
