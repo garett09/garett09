@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FCC approves EchoStar&#39;s sale of approximately 65MHz of spectrum to SpaceX and 50MHz to AT&amp;T &lpar;Christian Martinez/Reuters&rpar;](https://www.techmeme.com/260512/p44#a260512p44)
- - [iPhone &amp; Android interoperability enhancements highlighted at Google I/O preshow](https://appleinsider.com/articles/26/05/12/iphone-android-interoperability-enhancements-highlighted-at-google-io-preshow?utm_source=rss)
- - [Iran Is Using Tiny ‘Mosquito’ Boats to Shut Down the Strait of Hormuz](https://www.wired.com/story/iran-is-using-tiny-mosquito-boats-to-shut-down-the-strait-of-hormuz/)<!-- TECH:END -->
+ - [Nvidia says that Jensen Huang is joining President Trump on his China trip; source: the president asked Huang to join after seeing media coverage of his absence &lpar;CNBC&rpar;](https://www.techmeme.com/260512/p64#a260512p64)
+ - [Waymo recalls ~3,800 robotaxis in the US to fix software issues that may cause them to drive onto flooded roads, after some were seen stalled on flooded streets &lpar;Lora Kolodny/CNBC&rpar;](https://www.techmeme.com/260512/p63#a260512p63)
+ - [Sony puts the spotlight on camera upgrades with Xperia 1 VIII launch](https://www.androidauthority.com/sony-xperia-1-viii-3666078/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
