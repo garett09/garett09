@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Shard of Serenity in Heroes of Might and Magic: Olden Era](https://www.polygon.com/heroes-of-might-magic-olden-era-shard-of-serenity-how-to-find-location/)
- - [GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt](https://kotaku.com/gamestop-ebay-ryan-cohen-auction-game-informer-ban-2000693746)
- - [Mixtape: The Kotaku Review](https://kotaku.com/mixtape-review-beethoven-dinosaur-annapurna-interactive-2000693680)<!-- GAME:END -->
+ - [AI is &#39;creatively soulless,&#39; says director of Mass Effect and Knights of the Old Republic: &#39;I’m just really unimpressed with it&#39;](https://www.pcgamer.com/software/ai/ai-is-creatively-soulless-says-director-of-mass-effect-and-knights-of-the-old-republic-im-just-really-unimpressed-with-it/)
+ - [Deadzone Rogue 2 announced, and the first is one of the Switch 2’s best games](https://www.polygon.com/nintendo-switch-2-deadzone-rogue-sequel/)
+ - [Xbox update brings new boot up experience, Gamerscore glow up](https://www.polygon.com/xbox-console-update-boot-up-gamerscore-library/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
