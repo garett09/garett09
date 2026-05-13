@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Freestyler](http://9gag.com/gag/a9yxrY1)
- - 🚯 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
- - 🚯 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)<!-- MEMES:END -->
+ - 🚖 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 🚯 [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - 🚯 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)<!-- MEMES:END -->
 
 --- 
 
