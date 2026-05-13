@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - 🚯 [Interesting](http://9gag.com/gag/aAy8PQg)
- - 🚯 [`Shake well before serving` obviously](http://9gag.com/gag/aYQ3Lzm)<!-- MEMES:END -->
+ - 🚖 [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 🚯 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
+ - 🚯 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)<!-- MEMES:END -->
 
 --- 
 
