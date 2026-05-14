@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson put a camera on its purifier so fresh air can follow you around the room](https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy)
- - [I spent 7 days with the Motorola Razr Fold, and it does one thing better than every other foldable](https://www.androidauthority.com/week-with-motorola-razr-fold-hands-on-3666790/)
- - [AT&amp;T, T-Mobile, and Verizon sign an &quot;agreement in principle&quot; to form a joint venture aiming to end wireless dead zones in the US, without giving many details &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260514/p19#a260514p19)<!-- TECH:END -->
+ - [At just $149, the Dangbei N2 mini projector has never been cheaper](https://www.androidauthority.com/dangbei-n2-mini-projector-deal-3667228/)
+ - [Sources: 50+ researchers and engineers have left xAI since the SpaceX acquisition via layoffs, firings, and voluntary departures; many have joined Meta and TML &lpar;Theo Wayt/The Information&rpar;](https://www.techmeme.com/260514/p30#a260514p30)
+ - [Sources: Intel has begun testing production of &quot;low-end/legacy iPhone, iPad, and Mac processors&quot;; Apple thinks TSMC&#39;s resources will continue tilting toward AI &lpar;@mingchikuo&rpar;](https://www.techmeme.com/260514/p29#a260514p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
