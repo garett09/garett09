@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This great Switch emulator on Android just got its one-year anniversary update](https://www.androidauthority.com/switch-emulator-eden-one-year-anniversary-update-3666881/)
- - [This Android feature can predict your every move, and it’s rolling out now](https://www.androidauthority.com/android-contextual-suggestions-predict-next-move-3666566/)
- - [Auto Blocker in One UI 9 beta adds new security report, brings back stricter USB controls](https://www.androidauthority.com/samsung-one-ui-9-auto-blocker-update-3666893/)<!-- TECH:END -->
+ - [Dyson put a camera on its purifier so fresh air can follow you around the room](https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy)
+ - [I spent 7 days with the Motorola Razr Fold, and it does one thing better than every other foldable](https://www.androidauthority.com/week-with-motorola-razr-fold-hands-on-3666790/)
+ - [AT&amp;T, T-Mobile, and Verizon sign an &quot;agreement in principle&quot; to form a joint venture aiming to end wireless dead zones in the US, without giving many details &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260514/p19#a260514p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
