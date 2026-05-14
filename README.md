@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Catching hornets](http://9gag.com/gag/a87R82Z)
- - 🚯 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
- - 🚯 [The slaps felt personal](http://9gag.com/gag/avyMGwb)<!-- MEMES:END -->
+ - 🚖 [Guess the country](http://9gag.com/gag/azxW87K)
+ - 🚯 [Just goalies doing goalie stuff](http://9gag.com/gag/ae9ne4b)
+ - 🚯 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)<!-- MEMES:END -->
 
 --- 
 
