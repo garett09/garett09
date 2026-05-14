@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess the country](http://9gag.com/gag/azxW87K)
- - 🚯 [Just goalies doing goalie stuff](http://9gag.com/gag/ae9ne4b)
- - 🚯 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)<!-- MEMES:END -->
+ - 🚖 [When embarrassment backfires](http://9gag.com/gag/aGyme7w)
+ - 🚯 [Something happened with no MSM coverage. Can you guess what happened with only the photo from the local article?](http://9gag.com/gag/aXPyv12)
+ - 🚯 [Catching hornets](http://9gag.com/gag/a87R82Z)<!-- MEMES:END -->
 
 --- 
 
