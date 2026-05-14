@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
- - 🚯 [The process of surgically `flushing` kidney stones refers to techniques like saline irrigation used during minimally invasive surgeries to clear out fragments and stone dust.](http://9gag.com/gag/axyLVbL)
- - 🚯 [Taekwondo](http://9gag.com/gag/aKGQVOO)<!-- MEMES:END -->
+ - 🚖 [Catching hornets](http://9gag.com/gag/a87R82Z)
+ - 🚯 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - 🚯 [The slaps felt personal](http://9gag.com/gag/avyMGwb)<!-- MEMES:END -->
 
 --- 
 
