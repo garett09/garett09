@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At just $149, the Dangbei N2 mini projector has never been cheaper](https://www.androidauthority.com/dangbei-n2-mini-projector-deal-3667228/)
- - [Sources: 50+ researchers and engineers have left xAI since the SpaceX acquisition via layoffs, firings, and voluntary departures; many have joined Meta and TML &lpar;Theo Wayt/The Information&rpar;](https://www.techmeme.com/260514/p30#a260514p30)
- - [Sources: Intel has begun testing production of &quot;low-end/legacy iPhone, iPad, and Mac processors&quot;; Apple thinks TSMC&#39;s resources will continue tilting toward AI &lpar;@mingchikuo&rpar;](https://www.techmeme.com/260514/p29#a260514p29)<!-- TECH:END -->
+ - [In a policy paper, Anthropic urges the US and allies to enforce export controls, curb distillation attacks, and export US AI to hold the lead over China by 2028 &lpar;Anthropic&rpar;](https://www.techmeme.com/260514/p44#a260514p44)
+ - [Security research firm Calif says it used Mythos to help build a macOS kernel memory corruption exploit circumventing Apple&#39;s Memory Integrity Enforcement tech &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260514/p43#a260514p43)
+ - [Sources: Anthropic has agreed to the terms of a $30B fundraising at a $900B valuation, with Sequoia, Dragoneer, Greenoaks, and Altimeter co-leading the round &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260514/p42#a260514p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
