@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Catching hornets](http://9gag.com/gag/a87R82Z)
- - 🚯 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - 🚯 [He choose freedom](http://9gag.com/gag/a87RoW1)<!-- MEMES:END -->
+ - 🚖 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - 🚯 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
+ - 🚯 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)<!-- MEMES:END -->
 
 --- 
 
