@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When embarrassment backfires](http://9gag.com/gag/aGyme7w)
- - 🚯 [Something happened with no MSM coverage. Can you guess what happened with only the photo from the local article?](http://9gag.com/gag/aXPyv12)
- - 🚯 [Catching hornets](http://9gag.com/gag/a87R82Z)<!-- MEMES:END -->
+ - 🚖 [Lady&#39;s initial reaction to hearing she got sentences to life.](http://9gag.com/gag/avyMO9E)
+ - 🚯 [Jesus took the express elevator to heaven](http://9gag.com/gag/aYQ3gx0)
+ - 🚯 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)<!-- MEMES:END -->
 
 --- 
 
