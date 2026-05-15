@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a policy paper, Anthropic urges the US and allies to enforce export controls, curb distillation attacks, and export US AI to hold the lead over China by 2028 &lpar;Anthropic&rpar;](https://www.techmeme.com/260514/p44#a260514p44)
- - [Security research firm Calif says it used Mythos to help build a macOS kernel memory corruption exploit circumventing Apple&#39;s Memory Integrity Enforcement tech &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260514/p43#a260514p43)
- - [Sources: Anthropic has agreed to the terms of a $30B fundraising at a $900B valuation, with Sequoia, Dragoneer, Greenoaks, and Altimeter co-leading the round &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260514/p42#a260514p42)<!-- TECH:END -->
+ - [One UI 9 on the Galaxy S26 can tell you how good or bad of a driver you are](https://www.androidauthority.com/samsung-one-ui-galaxy-s26-driving-insights-3667361/)
+ - [Android 17 deep dive reveals Google’s most practical update in years](https://www.androidauthority.com/android-17-deep-dive-3667344/)
+ - [The best tool for mirroring Android phones to PC now makes apps feel like desktop software](https://www.androidauthority.com/scrcpy-4-0-update-flex-display-3667375/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
