@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26.5 is here, iOS 27 is coming, and Android is trying to get ahead of Apple Intelligence, on the AppleInsider Podcast](https://appleinsider.com/articles/26/05/15/ios-265-is-here-ios-27-is-coming-and-android-is-trying-to-get-ahead-of-apple-intelligence-on-the-appleinsider-podcast?utm_source=rss)
- - [Owning an Apple Home: implementing smart pet solutions](https://appleinsider.com/articles/26/05/15/owning-an-apple-home-implementing-smart-pet-solutions?utm_source=rss)
- - [X is fighting Andrew Tate’s attempt to unmask his critics](https://www.theverge.com/policy/931084/andrew-tate-x-anonymous-elon-musk-defamation)<!-- TECH:END -->
+ - [Gemini Intelligence announcement hopes to steal Apple&#39;s Siri thunder but falls short](https://appleinsider.com/articles/26/05/15/gemini-intelligence-announcement-hopes-to-steal-apples-siri-thunder-but-falls-short?utm_source=rss)
+ - [Source: Kraken cut ~150 staff after AI tools improved efficiency and its IPO may be delayed until late 2026 or early 2027 due to a drop in digital-asset prices &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260515/p22#a260515p22)
+ - [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
