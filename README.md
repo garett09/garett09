@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No idea if anyone here cares, but I just needed to get this off my chest.](http://9gag.com/gag/ae9neLW)
- - 🚯 [Bee Bar](http://9gag.com/gag/aAy832g)
- - 🚯 [Finally, a solution for hockey players](http://9gag.com/gag/aRBb3B5)<!-- MEMES:END -->
+ - 🚖 [Catching hornets](http://9gag.com/gag/a87R82Z)
+ - 🚯 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - 🚯 [He choose freedom](http://9gag.com/gag/a87RoW1)<!-- MEMES:END -->
 
 --- 
 
