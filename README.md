@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 9 on the Galaxy S26 can tell you how good or bad of a driver you are](https://www.androidauthority.com/samsung-one-ui-galaxy-s26-driving-insights-3667361/)
- - [Android 17 deep dive reveals Google’s most practical update in years](https://www.androidauthority.com/android-17-deep-dive-3667344/)
- - [The best tool for mirroring Android phones to PC now makes apps feel like desktop software](https://www.androidauthority.com/scrcpy-4-0-update-flex-display-3667375/)<!-- TECH:END -->
+ - [iOS 26.5 is here, iOS 27 is coming, and Android is trying to get ahead of Apple Intelligence, on the AppleInsider Podcast](https://appleinsider.com/articles/26/05/15/ios-265-is-here-ios-27-is-coming-and-android-is-trying-to-get-ahead-of-apple-intelligence-on-the-appleinsider-podcast?utm_source=rss)
+ - [Owning an Apple Home: implementing smart pet solutions](https://appleinsider.com/articles/26/05/15/owning-an-apple-home-implementing-smart-pet-solutions?utm_source=rss)
+ - [X is fighting Andrew Tate’s attempt to unmask his critics](https://www.theverge.com/policy/931084/andrew-tate-x-anonymous-elon-musk-defamation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
