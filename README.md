@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lady&#39;s initial reaction to hearing she got sentences to life.](http://9gag.com/gag/avyMO9E)
- - 🚯 [Jesus took the express elevator to heaven](http://9gag.com/gag/aYQ3gx0)
- - 🚯 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)<!-- MEMES:END -->
+ - 🚖 [No idea if anyone here cares, but I just needed to get this off my chest.](http://9gag.com/gag/ae9neLW)
+ - 🚯 [Bee Bar](http://9gag.com/gag/aAy832g)
+ - 🚯 [Finally, a solution for hockey players](http://9gag.com/gag/aRBb3B5)<!-- MEMES:END -->
 
 --- 
 
