@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
- - 🚯 [Which is , pretty insane.](http://9gag.com/gag/adBGLBV)
- - 🚯 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)<!-- MEMES:END -->
+ - 🚖 [Which is , pretty insane.](http://9gag.com/gag/adBGLBV)
+ - 🚯 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
+ - 🚯 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)<!-- MEMES:END -->
 
 --- 
 
