@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Bureau of Labor Statistics data: employment in 18 AI-exposed occupations fell 0.2% between May 2024 and May 2025, while the broader US labor market rose 0.8% &lpar;Matthew Boesler/Bloomberg&rpar;](https://www.techmeme.com/260516/p4#a260516p4)
- - [LA-based Fasset, which offers stablecoin-powered banking and cross-border payments services across Asia, Africa, and the Middle East, raised a $51M Series B &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/260516/p3#a260516p3)
- - [Sources: Kalshi has probed and flagged 400+ suspicious trades YTD, more than 2x the number it investigated in all of 2025; Polymarket has seen a similar uptick &lpar;Anirban Sen/Reuters&rpar;](https://www.techmeme.com/260516/p2#a260516p2)<!-- TECH:END -->
+ - [Here are 40 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)
+ - [Apple, Epic agree on pre-court schedule for new fee proposals](https://appleinsider.com/articles/26/05/16/apple-epic-agree-on-pre-court-schedule-for-new-fee-proposals?utm_source=rss)
+ - [This Android phone’s genius camera app makes Pixel and Galaxy setups feel outdated](https://www.androidauthority.com/vivo-x300-ultra-camera-app-customization-google-samsung-3666874/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
