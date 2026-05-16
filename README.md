@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Power prices on the largest electric grid in the US, operated by PJM, jumped 76% YoY to an average of $136.53/MWh in Q1 due to rampant demand from data centers &lpar;John Ainger/Bloomberg&rpar;](https://www.techmeme.com/260515/p35#a260515p35)
- - [Sources: OpenAI acquired Weights.gg, which offered AI tools to create clones of people&#39;s voices, earlier this year; PitchBook: Weights.gg had raised roughly $4M &lpar;Mike Isaac/New York Times&rpar;](https://www.techmeme.com/260515/p34#a260515p34)
- - [Sources detail friction between Samsung&#39;s memory and logic chip businesses over higher bonuses for memory chip workers, leading many to leave or apply elsewhere &lpar;Hyunjoo Jin/Reuters&rpar;](https://www.techmeme.com/260515/p33#a260515p33)<!-- TECH:END -->
+ - [US Bureau of Labor Statistics data: employment in 18 AI-exposed occupations fell 0.2% between May 2024 and May 2025, while the broader US labor market rose 0.8% &lpar;Matthew Boesler/Bloomberg&rpar;](https://www.techmeme.com/260516/p4#a260516p4)
+ - [LA-based Fasset, which offers stablecoin-powered banking and cross-border payments services across Asia, Africa, and the Middle East, raised a $51M Series B &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/260516/p3#a260516p3)
+ - [Sources: Kalshi has probed and flagged 400+ suspicious trades YTD, more than 2x the number it investigated in all of 2025; Polymarket has seen a similar uptick &lpar;Anirban Sen/Reuters&rpar;](https://www.techmeme.com/260516/p2#a260516p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
