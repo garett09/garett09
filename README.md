@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Intelligence announcement hopes to steal Apple&#39;s Siri thunder but falls short](https://appleinsider.com/articles/26/05/15/gemini-intelligence-announcement-hopes-to-steal-apples-siri-thunder-but-falls-short?utm_source=rss)
- - [Source: Kraken cut ~150 staff after AI tools improved efficiency and its IPO may be delayed until late 2026 or early 2027 due to a drop in digital-asset prices &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260515/p22#a260515p22)
- - [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state)<!-- TECH:END -->
+ - [Power prices on the largest electric grid in the US, operated by PJM, jumped 76% YoY to an average of $136.53/MWh in Q1 due to rampant demand from data centers &lpar;John Ainger/Bloomberg&rpar;](https://www.techmeme.com/260515/p35#a260515p35)
+ - [Sources: OpenAI acquired Weights.gg, which offered AI tools to create clones of people&#39;s voices, earlier this year; PitchBook: Weights.gg had raised roughly $4M &lpar;Mike Isaac/New York Times&rpar;](https://www.techmeme.com/260515/p34#a260515p34)
+ - [Sources detail friction between Samsung&#39;s memory and logic chip businesses over higher bonuses for memory chip workers, leading many to leave or apply elsewhere &lpar;Hyunjoo Jin/Reuters&rpar;](https://www.techmeme.com/260515/p33#a260515p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
