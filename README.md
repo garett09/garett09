@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Which is , pretty insane.](http://9gag.com/gag/adBGLBV)
- - 🚯 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)
- - 🚯 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)<!-- MEMES:END -->
+ - 🚖 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
+ - 🚯 [Did you count how many layers there are? Raatoran of Kahramanmara\u015f Cinnaralti](http://9gag.com/gag/azxWmyb)
+ - 🚯 [Advertising Done Right](http://9gag.com/gag/aXPygMD)<!-- MEMES:END -->
 
 --- 
 
