@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
- - 🚯 [Woman from Paraguay arrested after robbing an old man, she claims to be a needy woman down on her luck, really tough to decide between law or a justified crime](http://9gag.com/gag/aND7Y5w)
- - 🚯 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)<!-- MEMES:END -->
+ - 🚖 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
+ - 🚯 [Which is , pretty insane.](http://9gag.com/gag/adBGLBV)
+ - 🚯 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)<!-- MEMES:END -->
 
 --- 
 
