@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 40 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)
- - [Apple, Epic agree on pre-court schedule for new fee proposals](https://appleinsider.com/articles/26/05/16/apple-epic-agree-on-pre-court-schedule-for-new-fee-proposals?utm_source=rss)
- - [This Android phone’s genius camera app makes Pixel and Galaxy setups feel outdated](https://www.androidauthority.com/vivo-x300-ultra-camera-app-customization-google-samsung-3666874/)<!-- TECH:END -->
+ - [SF vibes are frenetic over the huge divide in outcomes and career uncertainty for software engineers; over 5 years ~10K people in AI attained retirement wealth &lpar;Deedy/@deedydas&rpar;](https://www.techmeme.com/260516/p9#a260516p9)
+ - [Snap, YouTube, and TikTok settle suit over harm to students](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools)
+ - [ASML will partner with Tata Electronics to help it bring an $11B 300mm chip factory online in Gujarat, expanding India&#39;s ability to produce chips domestically &lpar;Bloomberg&rpar;](https://www.techmeme.com/260516/p8#a260516p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
