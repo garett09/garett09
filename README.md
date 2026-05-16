@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - 🚯 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
- - 🚯 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)<!-- MEMES:END -->
+ - 🚖 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
+ - 🚯 [Woman from Paraguay arrested after robbing an old man, she claims to be a needy woman down on her luck, really tough to decide between law or a justified crime](http://9gag.com/gag/aND7Y5w)
+ - 🚯 [Adios, my friend.](http://9gag.com/gag/aMVoYLV)<!-- MEMES:END -->
 
 --- 
 
