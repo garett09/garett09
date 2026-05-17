@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
- - 🚯 [Did you count how many layers there are? Raatoran of Kahramanmara\u015f Cinnaralti](http://9gag.com/gag/azxWmyb)
- - 🚯 [Advertising Done Right](http://9gag.com/gag/aXPygMD)<!-- MEMES:END -->
+ - 🚖 [It&#39;s true](http://9gag.com/gag/aND7gg0)
+ - 🚯 [Wise words](http://9gag.com/gag/aLnZwr5)
+ - 🚯 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)<!-- MEMES:END -->
 
 --- 
 
