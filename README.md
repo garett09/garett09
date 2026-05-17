@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
- - 🚯 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
- - 🚯 [Pathetic](http://9gag.com/gag/aND7gGv)<!-- MEMES:END -->
+ - 🚖 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
+ - 🚯 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
+ - 🚯 [A field of clovers sounds delightful.](http://9gag.com/gag/a3461P3)<!-- MEMES:END -->
 
 --- 
 
