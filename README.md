@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s true](http://9gag.com/gag/aND7gg0)
- - 🚯 [Wise words](http://9gag.com/gag/aLnZwr5)
- - 🚯 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)<!-- MEMES:END -->
+ - 🚖 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
+ - 🚯 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
+ - 🚯 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)<!-- MEMES:END -->
 
 --- 
 
