@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts: Stuxnet-linked Fast16 malware, designed to subvert nuclear weapons testing simulations, was likely part of a campaign to slow Iran&#39;s nuclear ambitions &lpar;Kim Zetter/ZERO DAY&rpar;](https://www.techmeme.com/260517/p4#a260517p4)
- - [King&#39;s Cross, where Google&#39;s new UK HQ is due to open later this year, has become London&#39;s new tech, VC, and AI hub, attracting OpenAI, Anthropic, and others &lpar;John Gapper/Financial Times&rpar;](https://www.techmeme.com/260517/p3#a260517p3)
- - [Milan-based Webidoo, which develops an operational layer designed to help SMBs access AI tools, raised $25M led by IXC3 for North American expansion &lpar;David Cendon Garcia/EU-Startups&rpar;](https://www.techmeme.com/260517/p2#a260517p2)<!-- TECH:END -->
+ - [Fujifilm’s X Half is even more whimsical with a $300 price cut](https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale)
+ - [ElliQ is a surprisingly helpful companion robot for older adults](https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on)
+ - [Google’s underrated AI app unlocked 3 amazing on-device AI tools on my Android phone](https://www.androidauthority.com/google-ai-edge-gallery-app-unlocked-on-device-ai-tools-3663299/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
