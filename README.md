@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
- - 🚯 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
- - 🚯 [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)<!-- MEMES:END -->
+ - 🚖 [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
+ - 🚯 [Talking about boring stuff](http://9gag.com/gag/aAy8eb9)
+ - 🚯 [Pathetic](http://9gag.com/gag/aND7gGv)<!-- MEMES:END -->
 
 --- 
 
