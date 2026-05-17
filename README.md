@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SF vibes are frenetic over the huge divide in outcomes and career uncertainty for software engineers; over 5 years ~10K people in AI attained retirement wealth &lpar;Deedy/@deedydas&rpar;](https://www.techmeme.com/260516/p9#a260516p9)
- - [Snap, YouTube, and TikTok settle suit over harm to students](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools)
- - [ASML will partner with Tata Electronics to help it bring an $11B 300mm chip factory online in Gujarat, expanding India&#39;s ability to produce chips domestically &lpar;Bloomberg&rpar;](https://www.techmeme.com/260516/p8#a260516p8)<!-- TECH:END -->
+ - [Nectar Social, which offers an agentic OS for marketers, raised a $30M Series A led by Menlo Ventures, with GV and True Ventures among investors &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260516/p12#a260516p12)
+ - [Trump Phone Starts Shipping This Week After 9-Month Delay](https://www.cnet.com/tech/mobile/trump-phone-will-finally-ship-this-week-after-months-long-delay/)
+ - [&#39;Euphoria&#39; Season 3, Episode 6: Release Date and Time on HBO Max](https://www.cnet.com/tech/services-and-software/euphoria-season-3-episode-6-release-date-and-time-on-hbo-max/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
