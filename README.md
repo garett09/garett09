@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fujifilm’s X Half is even more whimsical with a $300 price cut](https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale)
- - [ElliQ is a surprisingly helpful companion robot for older adults](https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on)
- - [Google’s underrated AI app unlocked 3 amazing on-device AI tools on my Android phone](https://www.androidauthority.com/google-ai-edge-gallery-app-unlocked-on-device-ai-tools-3663299/)<!-- TECH:END -->
+ - [AirPods Max 2 vs Heavys H1H: Heavy metal headphones compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-2-vs-heavys-h1h-heavy-metal-headphones-compared?utm_source=rss)
+ - [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats)
+ - [Grafana says hackers have accessed its GitHub environment and demanded a ransom to prevent the release of its codebase; Grafana refused to pay &lpar;The Hacker News&rpar;](https://www.techmeme.com/260517/p11#a260517p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
