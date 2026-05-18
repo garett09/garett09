@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polymarket and Kalshi continue to operate in India despite a government advisory on April 25, directed at VPN providers, labeling prediction markets &quot;illegal&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260518/p12#a260518p12)
- - [I pay for Gemini, ChatGPT, and Claude — and there’s a clear winner](https://www.androidauthority.com/gemini-chatgpt-claude-clear-winner-3666267/)
- - [An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings](https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/)<!-- TECH:END -->
+ - [Pixel Weather is driving users crazy — are you one of them?](https://www.androidauthority.com/pixel-weather-accuracy-inaccurate-open-thread-3668062/)
+ - [Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports](https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs)
+ - [Don&#39;t expect new Macs at WWDC 2026](https://appleinsider.com/articles/26/05/18/dont-expect-new-macs-at-wwdc-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
