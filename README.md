@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)
- - 🚯 [One day](http://9gag.com/gag/aKGQ67O)
- - 🚯 [Finally some encryption](http://9gag.com/gag/avyM5vE)<!-- MEMES:END -->
+ - 🚯 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
+ - 🚯 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
 
 --- 
 
