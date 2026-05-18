@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apple&#39;s ongoing strategy to repurpose &quot;binned&quot; chips for cheaper devices; sources: Apple placed new A18 Pro orders for MacBook Neo amid its popularity &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260517/p17#a260517p17)
- - [New York City-based GovWell, which uses AI to streamline government processes like permitting and licensing, raised a $25M Series A led by Insight Partners &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260517/p16#a260517p16)
- - [AI sales automation startup Monaco raised a $50M Series B led by Benchmark, bringing its total funding to $85M after raising a $25M Series A in February 2026 &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260517/p15#a260517p15)<!-- TECH:END -->
+ - [Polymarket and Kalshi continue to operate in India despite a government advisory on April 25, directed at VPN providers, labeling prediction markets &quot;illegal&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260518/p12#a260518p12)
+ - [I pay for Gemini, ChatGPT, and Claude — and there’s a clear winner](https://www.androidauthority.com/gemini-chatgpt-claude-clear-winner-3666267/)
+ - [An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings](https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
