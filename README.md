@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)
- - 🚯 [Finally some encryption](http://9gag.com/gag/avyM5vE)
- - 🚯 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)<!-- MEMES:END -->
+ - 🚖 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)
+ - 🚯 [One day](http://9gag.com/gag/aKGQ67O)
+ - 🚯 [Finally some encryption](http://9gag.com/gag/avyM5vE)<!-- MEMES:END -->
 
 --- 
 
