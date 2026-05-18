@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Max 2 vs Heavys H1H: Heavy metal headphones compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-2-vs-heavys-h1h-heavy-metal-headphones-compared?utm_source=rss)
- - [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats)
- - [Grafana says hackers have accessed its GitHub environment and demanded a ransom to prevent the release of its codebase; Grafana refused to pay &lpar;The Hacker News&rpar;](https://www.techmeme.com/260517/p11#a260517p11)<!-- TECH:END -->
+ - [A look at Apple&#39;s ongoing strategy to repurpose &quot;binned&quot; chips for cheaper devices; sources: Apple placed new A18 Pro orders for MacBook Neo amid its popularity &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260517/p17#a260517p17)
+ - [New York City-based GovWell, which uses AI to streamline government processes like permitting and licensing, raised a $25M Series A led by Insight Partners &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260517/p16#a260517p16)
+ - [AI sales automation startup Monaco raised a $50M Series B led by Benchmark, bringing its total funding to $85M after raising a $25M Series A in February 2026 &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260517/p15#a260517p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
