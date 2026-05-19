@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Analog Devices, one of the largest analog chip makers, is in talks to buy Empower, which makes chips used to regulate voltage, for $1.5B in cash &lpar;Bloomberg&rpar;](https://www.techmeme.com/260518/p50#a260518p50)
- - [LG will release the first 1000Hz, 1080p gaming monitor this year](https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b)
- - [Vitalik Buterin says AI-assisted &quot;formal verification&quot; could help secure blockchain networks, smart contracts, and cryptographic systems against software flaws &lpar;Jason Nelson/Decrypt&rpar;](https://www.techmeme.com/260518/p49#a260518p49)<!-- TECH:END -->
+ - [Can’t make video calls on your AT&amp;T Samsung phone? It’s not just you](https://www.androidauthority.com/samsung-galaxy-phone-video-declined-error-3668472/)
+ - [Trump Mobile’s T1 Phone finally ships out after months of vaporware fears](https://www.androidauthority.com/trump-mobile-t1-phone-finally-shipping-3668476/)
+ - [Want a cheap Android tablet? Walmart now has 6 new options ranging from $97 to $288](https://www.androidauthority.com/walmart-six-new-onn-android-tablets-3668430/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
