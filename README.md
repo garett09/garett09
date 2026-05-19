@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)
- - 🚯 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
- - 🚯 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
+ - 🚖 [Help, farmer stuck!](http://9gag.com/gag/ae9nQBb)
+ - 🚯 [Guys...](http://9gag.com/gag/an7m79b)
+ - 🚯 [The betrayal](http://9gag.com/gag/aAy8y0p)<!-- MEMES:END -->
 
 --- 
 
