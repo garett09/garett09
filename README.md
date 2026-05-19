@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cold but enjoyable](http://9gag.com/gag/aYQ3Q42)
- - 🚯 [Yet she still has reluctance to admit it.](http://9gag.com/gag/a87R7MQ)
- - 🚯 [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)<!-- MEMES:END -->
+ - 🚖 [Pragmatic](http://9gag.com/gag/aQzLEW2)
+ - 🚯 [...](http://9gag.com/gag/apR49VD)
+ - 🚯 [That was close](http://9gag.com/gag/aryQWVX)<!-- MEMES:END -->
 
 --- 
 
