@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can’t make video calls on your AT&amp;T Samsung phone? It’s not just you](https://www.androidauthority.com/samsung-galaxy-phone-video-declined-error-3668472/)
- - [Trump Mobile’s T1 Phone finally ships out after months of vaporware fears](https://www.androidauthority.com/trump-mobile-t1-phone-finally-shipping-3668476/)
- - [Want a cheap Android tablet? Walmart now has 6 new options ranging from $97 to $288](https://www.androidauthority.com/walmart-six-new-onn-android-tablets-3668430/)<!-- TECH:END -->
+ - [Vision Pro wheelchair control &amp; more accessibility features detailed ahead of WWDC](https://appleinsider.com/articles/26/05/19/apple-intelligence-powered-accessibility-features-in-os-27-detailed-ahead-of-wwdc?utm_source=rss)
+ - [Radar, which helps retailers like American Eagle manage inventory and cut back on theft and lost merchandise, raised a $170M Series B at a $1B+ valuation &lpar;Gabrielle Fonrouge/CNBC&rpar;](https://www.techmeme.com/260519/p21#a260519p21)
+ - [Ludicrous Plex lifetime pass increase to $749.99 is too expensive for watching your owned media](https://appleinsider.com/articles/26/05/19/ludicrous-plex-lifetime-pass-increase-to-74999-is-too-expensive-for-watching-your-owned-media?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
