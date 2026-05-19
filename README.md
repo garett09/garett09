@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Design Awards 2026 finalists include Cyberpunk 2077 &amp; Civilization VII](https://appleinsider.com/articles/26/05/18/apple-design-awards-2026-finalists-include-cyberpunk-2077-civilization-vii?utm_source=rss)
- - [Rumored return to titanium after the aluminum iPhone 17 Pro doesn&#39;t make sense](https://appleinsider.com/articles/26/05/18/rumored-return-to-titanium-after-the-aluminum-iphone-17-pro-doesnt-make-sense?utm_source=rss)
- - [Musk v. Altman proved that AI is led by the wrong people](https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people)<!-- TECH:END -->
+ - [Sources: Analog Devices, one of the largest analog chip makers, is in talks to buy Empower, which makes chips used to regulate voltage, for $1.5B in cash &lpar;Bloomberg&rpar;](https://www.techmeme.com/260518/p50#a260518p50)
+ - [LG will release the first 1000Hz, 1080p gaming monitor this year](https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b)
+ - [Vitalik Buterin says AI-assisted &quot;formal verification&quot; could help secure blockchain networks, smart contracts, and cryptographic systems against software flaws &lpar;Jason Nelson/Decrypt&rpar;](https://www.techmeme.com/260518/p49#a260518p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
