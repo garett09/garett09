@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)
- - 🚯 [Close](http://9gag.com/gag/aXPyrAD)
- - 🚯 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
+ - 🚖 [Cold but enjoyable](http://9gag.com/gag/aYQ3Q42)
+ - 🚯 [Yet she still has reluctance to admit it.](http://9gag.com/gag/a87R7MQ)
+ - 🚯 [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)<!-- MEMES:END -->
 
 --- 
 
