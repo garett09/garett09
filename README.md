@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vision Pro wheelchair control &amp; more accessibility features detailed ahead of WWDC](https://appleinsider.com/articles/26/05/19/apple-intelligence-powered-accessibility-features-in-os-27-detailed-ahead-of-wwdc?utm_source=rss)
- - [Radar, which helps retailers like American Eagle manage inventory and cut back on theft and lost merchandise, raised a $170M Series B at a $1B+ valuation &lpar;Gabrielle Fonrouge/CNBC&rpar;](https://www.techmeme.com/260519/p21#a260519p21)
- - [Ludicrous Plex lifetime pass increase to $749.99 is too expensive for watching your owned media](https://appleinsider.com/articles/26/05/19/ludicrous-plex-lifetime-pass-increase-to-74999-is-too-expensive-for-watching-your-owned-media?utm_source=rss)<!-- TECH:END -->
+ - [Vibe Coding: Where it works and why doing it on an iPhone is a problem](https://appleinsider.com/articles/26/05/19/vibe-coding-where-it-works-and-why-doing-it-on-an-iphone-is-a-problem?utm_source=rss)
+ - [Sundar Pichai announced at Google I/O that Gemini 3.5 Pro will launch next month; attendees groaned at the model coming out later than they expected &lpar;Charles Rollet/Business Insider&rpar;](https://www.techmeme.com/260519/p51#a260519p51)
+ - [Google Search on Android now lets you ask AI about any link you open](https://www.androidauthority.com/google-app-android-ai-ask-questions-3668753/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
