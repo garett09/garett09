@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pragmatic](http://9gag.com/gag/aQzLEW2)
- - 🚯 [...](http://9gag.com/gag/apR49VD)
- - 🚯 [That was close](http://9gag.com/gag/aryQWVX)<!-- MEMES:END -->
+ - 🚖 [Swim tip for life](http://9gag.com/gag/aGymLDw)
+ - 🚯 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
+ - 🚯 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
 
 --- 
 
