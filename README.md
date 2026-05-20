@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Google SVP James Manyika on AI&#39;s ability to automate tasks versus occupations, his optimism about the labor market despite AI-driven layoffs, and more &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260519/p76#a260519p76)
- - [Sources: a draft White House EO would create a &quot;voluntary framework&quot; for AI companies to give government agencies early access to models before public release &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260519/p75#a260519p75)
- - [The Take It Down Act, a law requiring social networks to remove nonconsensual intimate images within 48 hours of reporting or face fines, took effect on May 19 &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260519/p74#a260519p74)<!-- TECH:END -->
+ - [Samsung workers set to strike at worst possible time](https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply)
+ - [Sony’s 1000X The Collexion headphones are here, and they cost a pretty penny](https://www.androidauthority.com/sony-1000x-the-collexion-3669058/)
+ - [Google quietly nerfed its AI Pro plan, and here’s what you get now](https://www.androidauthority.com/google-ai-pro-usage-limits-3669063/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
