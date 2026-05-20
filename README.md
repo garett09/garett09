@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung workers set to strike at worst possible time](https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply)
- - [Sony’s 1000X The Collexion headphones are here, and they cost a pretty penny](https://www.androidauthority.com/sony-1000x-the-collexion-3669058/)
- - [Google quietly nerfed its AI Pro plan, and here’s what you get now](https://www.androidauthority.com/google-ai-pro-usage-limits-3669063/)<!-- TECH:END -->
+ - [Variational, which has built a protocol for decentralized derivatives trading aimed at gathering liquidity from traditional markets, raised a $50M Series A &lpar;Jack Kubinec/Fortune&rpar;](https://www.techmeme.com/260520/p31#a260520p31)
+ - [Samsung Electronics and its South Korean labor union reach a preliminary pay deal; the union says it has decided to suspend a general strike &lpar;Reuters&rpar;](https://www.techmeme.com/260520/p30#a260520p30)
+ - [The Galaxy Z Fold 8 may miss out on S26 Ultra’s best features](https://www.androidauthority.com/galaxy-z-fold-8-potentially-missing-features-3669232/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
