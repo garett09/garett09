@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Swim tip for life](http://9gag.com/gag/aGymLDw)
- - 🚯 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
- - 🚯 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
+ - 🚖 [This will replace something important in your brain](http://9gag.com/gag/a4PXnyv)
+ - 🚯 [Jim Baggins speaks the truth](http://9gag.com/gag/agmDmb6)
+ - 🚯 [Balkan Drift](http://9gag.com/gag/aryQWOd)<!-- MEMES:END -->
 
 --- 
 
