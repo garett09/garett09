@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Variational, which has built a protocol for decentralized derivatives trading aimed at gathering liquidity from traditional markets, raised a $50M Series A &lpar;Jack Kubinec/Fortune&rpar;](https://www.techmeme.com/260520/p31#a260520p31)
- - [Samsung Electronics and its South Korean labor union reach a preliminary pay deal; the union says it has decided to suspend a general strike &lpar;Reuters&rpar;](https://www.techmeme.com/260520/p30#a260520p30)
- - [The Galaxy Z Fold 8 may miss out on S26 Ultra’s best features](https://www.androidauthority.com/galaxy-z-fold-8-potentially-missing-features-3669232/)<!-- TECH:END -->
+ - [Here are 42 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)
+ - [Don’t like the changes coming to Google Search? Then you’re going to hate this news](https://www.androidauthority.com/google-search-new-ads-3669383/)
+ - [Some original Chromecast dongles are no longer working, and nobody knows why](https://www.androidauthority.com/first-gen-chromecast-dongle-failing-for-some-3669414/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
