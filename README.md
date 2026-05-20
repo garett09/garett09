@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That was close](http://9gag.com/gag/aryQWVX)
- - 🚯 [`Your suffering is not holding you , You are holding the suffering` --Buddha](http://9gag.com/gag/azxWxqm)
- - 🚯 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)<!-- MEMES:END -->
+ - 🚖 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - 🚯 [How much did bro bet](http://9gag.com/gag/aPAExNP)
+ - 🚯 [Swim tip for life](http://9gag.com/gag/aGymLDw)<!-- MEMES:END -->
 
 --- 
 
