@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang said that Nvidia has &quot;largely conceded&quot; China&#39;s AI chip market to Huawei and should &quot;expect nothing&quot; regarding chip sale approvals to China &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/260520/p55#a260520p55)
- - [Filing: SpaceX set aside $530M for potential litigation losses, including lawsuits involving Grok&#39;s &quot;Spicy&quot; mode, which it described as a &quot;heightened risk&quot; &lpar;Wired&rpar;](https://www.techmeme.com/260520/p54#a260520p54)
- - [The Hypershell X Series brings end-to-end AI motion control to wearable exoskeletons](https://www.androidauthority.com/new-hypershell-x-series-3668529/)<!-- TECH:END -->
+ - [Meta lays off thousands of employees to offset AI investments](https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo)
+ - [The Best Home Security System Is Modular &lpar;2026&rpar;](https://www.wired.com/story/simplisafe-rave-2026/)
+ - [Wear OS 7’s battery life upgrades are more important than you think](https://www.androidauthority.com/wear-os-7-battery-life-upgrades-important-3668929/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
