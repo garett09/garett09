@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
- - 🚯 [How much did bro bet](http://9gag.com/gag/aPAExNP)
- - 🚯 [Swim tip for life](http://9gag.com/gag/aGymLDw)<!-- MEMES:END -->
+ - 🚖 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
+ - 🚯 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - 🚯 [Pretty sure that sport could be my new passion - the fact that it&#39;s called bobsleigh instead of bobsledge bothers me more than it should.](http://9gag.com/gag/aE09MrO)<!-- MEMES:END -->
 
 --- 
 
