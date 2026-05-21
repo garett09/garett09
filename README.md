@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta lays off thousands of employees to offset AI investments](https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo)
- - [The Best Home Security System Is Modular &lpar;2026&rpar;](https://www.wired.com/story/simplisafe-rave-2026/)
- - [Wear OS 7’s battery life upgrades are more important than you think](https://www.androidauthority.com/wear-os-7-battery-life-upgrades-important-3668929/)<!-- TECH:END -->
+ - [Waymo suspends operations in Atlanta and San Antonio as its robotaxis struggle with flooded roads and says it has yet to develop a &quot;final remedy&quot; for flooding &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260521/p22#a260521p22)
+ - [Apple server schematics stolen in May 2026 Foxconn cyberattack](https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms?utm_source=rss)
+ - [iPhone 17 Pro will shoot Apple&#39;s Major League Soccer coverage live](https://appleinsider.com/articles/26/05/21/iphone-17-pro-will-shoot-apples-major-league-soccer-coverage-live?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
