@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
- - 🚯 [European tourists visiting California](http://9gag.com/gag/aND79Dv)
- - 🚯 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)<!-- MEMES:END -->
+ - 🚖 [Peak performance](http://9gag.com/gag/aW4r7Dq)
+ - 🚯 [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)
+ - 🚯 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)<!-- MEMES:END -->
 
 --- 
 
