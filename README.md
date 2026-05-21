@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo suspends operations in Atlanta and San Antonio as its robotaxis struggle with flooded roads and says it has yet to develop a &quot;final remedy&quot; for flooding &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260521/p22#a260521p22)
- - [Apple server schematics stolen in May 2026 Foxconn cyberattack](https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms?utm_source=rss)
- - [iPhone 17 Pro will shoot Apple&#39;s Major League Soccer coverage live](https://appleinsider.com/articles/26/05/21/iphone-17-pro-will-shoot-apples-major-league-soccer-coverage-live?utm_source=rss)<!-- TECH:END -->
+ - [Philips’ new display has a screen on both sides](https://www.theverge.com/tech/935477/philips-business-monitor-dual-sided-lcd-display-24b2d5300)
+ - [Sources: Starbucks shut down an AI program for automating inventory counts, nine months after deploying it, after it frequently miscounted and mislabeled items &lpar;Waylon Cunningham/Reuters&rpar;](https://www.techmeme.com/260521/p38#a260521p38)
+ - [Upgrade your gaming with this $199.99 Samsung Odyssey G5 deal](https://www.androidauthority.com/samsung-odyssey-g5-monitor-deal-3669938/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
