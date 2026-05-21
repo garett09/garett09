@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
- - 🚯 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
- - 🚯 [Pretty sure that sport could be my new passion - the fact that it&#39;s called bobsleigh instead of bobsledge bothers me more than it should.](http://9gag.com/gag/aE09MrO)<!-- MEMES:END -->
+ - 🚖 [Felling a tree in Austria](http://9gag.com/gag/a2v38zp)
+ - 🚯 [My inner monologue when I see extreme sports](http://9gag.com/gag/a9yx6EK)
+ - 🚯 [Take your time](http://9gag.com/gag/adBGOND)<!-- MEMES:END -->
 
 --- 
 
