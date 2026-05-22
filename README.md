@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sleep is for the weak](http://9gag.com/gag/aLnZe45)
- - 🚯 [Experienced Trainee](http://9gag.com/gag/a2v38nw)
- - 🚯 [Guess my blood flow is just too dedicated to my toes](http://9gag.com/gag/avyMeBb)<!-- MEMES:END -->
+ - 🚖 [Longest route home](http://9gag.com/gag/aND7vy3)
+ - 🚯 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
+ - 🚯 [Doppelg\u00e4nger](http://9gag.com/gag/aXPyNov)<!-- MEMES:END -->
 
 --- 
 
