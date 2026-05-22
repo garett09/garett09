@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump delayed signing the AI EO because &quot;he just hates regulation&quot;; he spoke with Mark Zuckerberg, Elon Musk, and David Sacks just prior to the delay &lpar;Axios&rpar;](https://www.techmeme.com/260521/p52#a260521p52)
- - [Socket: TeamPCP, the gang claiming GitHub&#39;s repositories breach, also executed 20 &quot;waves&quot; of supply chain attacks recently, compromising 500+ pieces of software &lpar;Wired&rpar;](https://www.techmeme.com/260521/p51#a260521p51)
- - [Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12% &lpar;Chloe Taylor/CNBC&rpar;](https://www.techmeme.com/260521/p50#a260521p50)<!-- TECH:END -->
+ - [Google reveals first Wear OS widget partners and explains how the new system saves battery](https://www.androidauthority.com/google-wear-os-7-wear-widgets-early-partners-availability-features-3670112/)
+ - [Sources and data: billions in crypto went through Binance to Iranian regime-linked networks in the two years before the US-Iran war; Binance denies wrongdoing &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260522/p7#a260522p7)
+ - [T-Mobile responds to reports of its controversial T-Life self-service app mandate](https://www.androidauthority.com/t-mobile-t-life-retail-timeline-leak-statement-3670096/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
