@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Longest route home](http://9gag.com/gag/aND7vy3)
- - 🚯 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
- - 🚯 [Doppelg\u00e4nger](http://9gag.com/gag/aXPyNov)<!-- MEMES:END -->
+ - 🚖 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
+ - 🚯 [The Snap-on version is worth the money](http://9gag.com/gag/aQzLQE8)
+ - 🚯 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)<!-- MEMES:END -->
 
 --- 
 
