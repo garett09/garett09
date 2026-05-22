@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Peak performance](http://9gag.com/gag/aW4r7Dq)
- - 🚯 [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)
- - 🚯 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)<!-- MEMES:END -->
+ - 🚖 [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)
+ - 🚯 [Peak performance](http://9gag.com/gag/aW4r7Dq)
+ - 🚯 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
 
 --- 
 
