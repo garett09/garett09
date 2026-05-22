@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)
- - 🚯 [Peak performance](http://9gag.com/gag/aW4r7Dq)
- - 🚯 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
+ - 🚖 [Sleep is for the weak](http://9gag.com/gag/aLnZe45)
+ - 🚯 [Experienced Trainee](http://9gag.com/gag/a2v38nw)
+ - 🚯 [Guess my blood flow is just too dedicated to my toes](http://9gag.com/gag/avyMeBb)<!-- MEMES:END -->
 
 --- 
 
