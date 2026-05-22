@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reveals first Wear OS widget partners and explains how the new system saves battery](https://www.androidauthority.com/google-wear-os-7-wear-widgets-early-partners-availability-features-3670112/)
- - [Sources and data: billions in crypto went through Binance to Iranian regime-linked networks in the two years before the US-Iran war; Binance denies wrongdoing &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260522/p7#a260522p7)
- - [T-Mobile responds to reports of its controversial T-Life self-service app mandate](https://www.androidauthority.com/t-mobile-t-life-retail-timeline-leak-statement-3670096/)<!-- TECH:END -->
+ - [Why would you disrespect your favorite artist with an AI remix?](https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan)
+ - [Tesla recalls thousands of Model Ys at risk of&amp;#8230; missing a sticker](https://www.theverge.com/transportation/936078/tesla-model-y-missing-sticker-recall)
+ - [Boots Riley turns class struggle into comedy with I Love Boosters](https://www.theverge.com/entertainment/935285/i-love-boosters-boots-riley-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
