@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips’ new display has a screen on both sides](https://www.theverge.com/tech/935477/philips-business-monitor-dual-sided-lcd-display-24b2d5300)
- - [Sources: Starbucks shut down an AI program for automating inventory counts, nine months after deploying it, after it frequently miscounted and mislabeled items &lpar;Waylon Cunningham/Reuters&rpar;](https://www.techmeme.com/260521/p38#a260521p38)
- - [Upgrade your gaming with this $199.99 Samsung Odyssey G5 deal](https://www.androidauthority.com/samsung-odyssey-g5-monitor-deal-3669938/)<!-- TECH:END -->
+ - [Sources: Trump delayed signing the AI EO because &quot;he just hates regulation&quot;; he spoke with Mark Zuckerberg, Elon Musk, and David Sacks just prior to the delay &lpar;Axios&rpar;](https://www.techmeme.com/260521/p52#a260521p52)
+ - [Socket: TeamPCP, the gang claiming GitHub&#39;s repositories breach, also executed 20 &quot;waves&quot; of supply chain attacks recently, compromising 500+ pieces of software &lpar;Wired&rpar;](https://www.techmeme.com/260521/p51#a260521p51)
+ - [Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12% &lpar;Chloe Taylor/CNBC&rpar;](https://www.techmeme.com/260521/p50#a260521p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
