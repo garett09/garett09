@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why would you disrespect your favorite artist with an AI remix?](https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan)
- - [Tesla recalls thousands of Model Ys at risk of&amp;#8230; missing a sticker](https://www.theverge.com/transportation/936078/tesla-model-y-missing-sticker-recall)
- - [Boots Riley turns class struggle into comedy with I Love Boosters](https://www.theverge.com/entertainment/935285/i-love-boosters-boots-riley-interview)<!-- TECH:END -->
+ - [Reddit stock fell 5%+ on Friday after Meta launched a standalone app for online forums, called Forum; Reddit&#39;s stock is now down almost 40% this year &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260522/p22#a260522p22)
+ - [Google’s AI Overviews are so confused, it can’t tell if you’re looking something up &lpar;Update&rpar;](https://www.androidauthority.com/google-ai-overviews-definition-bug-3670358/)
+ - [Apple&#39;s AI spend remains flat as OpenAI loses $1.25 for every $1](https://appleinsider.com/articles/26/05/22/apples-ai-spend-remains-flat-as-openai-loses-125-for-every-1?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
