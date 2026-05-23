@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit stock fell 5%+ on Friday after Meta launched a standalone app for online forums, called Forum; Reddit&#39;s stock is now down almost 40% this year &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260522/p22#a260522p22)
- - [Google’s AI Overviews are so confused, it can’t tell if you’re looking something up &lpar;Update&rpar;](https://www.androidauthority.com/google-ai-overviews-definition-bug-3670358/)
- - [Apple&#39;s AI spend remains flat as OpenAI loses $1.25 for every $1](https://appleinsider.com/articles/26/05/22/apples-ai-spend-remains-flat-as-openai-loses-125-for-every-1?utm_source=rss)<!-- TECH:END -->
+ - [Filing: Zoom&#39;s stake in Anthropic is worth ~$1.27B based on a February round which valued Anthropic at $380B; Zoom invested an additional $46M in recent months &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260522/p34#a260522p34)
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
+ - [The US NTSB suspends access to its database of civil transportation accidents after people re-created voices of pilots killed in a 2025 UPS plane crash using AI &lpar;Jeremy Hsu/Ars Technica&rpar;](https://www.techmeme.com/260522/p33#a260522p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
