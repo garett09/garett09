@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
- - 🚯 [The Snap-on version is worth the money](http://9gag.com/gag/aQzLQE8)
- - 🚯 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)<!-- MEMES:END -->
+ - 🚖 [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)
+ - 🚯 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
+ - 🚯 [Experienced Trainee](http://9gag.com/gag/a2v38nw)<!-- MEMES:END -->
 
 --- 
 
