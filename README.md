@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
- - 🚯 [Experienced Trainee](http://9gag.com/gag/a2v38nw)
- - 🚯 [Finally we should see the limits of the human body](http://9gag.com/gag/aqyPx1j)<!-- MEMES:END -->
+ - 🚖 [Entanglement.](http://9gag.com/gag/a7oYV2A)
+ - 🚯 [Hot dog](http://9gag.com/gag/a1myVOG)
+ - 🚯 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)<!-- MEMES:END -->
 
 --- 
 
