@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Google Search is morphing into Gemini, then what’s the point of Gemini?](https://www.androidauthority.com/google-search-vs-gemini-identity-crisis-3669955/)
- - [Hanging out in my favorite virtual coffee shop in Tokyo](https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam)
- - [I hated multitasking on my Pixel — until I tried Android 17’s app bubbles](https://www.androidauthority.com/android-17-app-bubbles-multitasking-changed-my-pixel-3665850/)<!-- TECH:END -->
+ - [Jensen Huang urged Super Micro to tighten up compliance after Taiwan detained three people for allegedly trying to export servers with Nvidia chips to China &lpar;Debby Wu/Bloomberg&rpar;](https://www.techmeme.com/260523/p10#a260523p10)
+ - [Dell says it has 5,000 clients for its AI Factory, a product line of servers with Nvidia chips, software, and services, including 1,000 new clients last quarter &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260523/p9#a260523p9)
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
