@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 🚯 [Hot dog](http://9gag.com/gag/a1myVOG)
- - 🚯 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)<!-- MEMES:END -->
+ - 🚯 [Start wars](http://9gag.com/gag/a0er66z)
+ - 🚯 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)<!-- MEMES:END -->
 
 --- 
 
