@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer](https://www.wired.com/story/all-vehicles-sold-in-the-eu-must-have-breathalyzer-hook-up/)
- - [Best Early Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-1/)
- - [Q&amp;A with Sundar Pichai on the future of Google Search, Google&#39;s place in the AI race, public skepticism toward AI, AI agents, AI safety, TPUs, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260523/p4#a260523p4)<!-- TECH:END -->
+ - [If Google Search is morphing into Gemini, then what’s the point of Gemini?](https://www.androidauthority.com/google-search-vs-gemini-identity-crisis-3669955/)
+ - [Hanging out in my favorite virtual coffee shop in Tokyo](https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam)
+ - [I hated multitasking on my Pixel — until I tried Android 17’s app bubbles](https://www.androidauthority.com/android-17-app-bubbles-multitasking-changed-my-pixel-3665850/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
