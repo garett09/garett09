@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce&#39;s promotional videos showcased Agentforce mock-ups and features that are not widely available, as CEO Marc Benioff defends forward-looking marketing &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260523/p15#a260523p15)
- - [Crypto companies prepare for the threat that quantum computers could hack core industry security, including breaking the critical code underpinning Bitcoin &lpar;Financial Times&rpar;](https://www.techmeme.com/260523/p14#a260523p14)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
+ - [The Universe Is Full of ‘Impossible’ Black Holes. Now Scientists Know Why](https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/)
+ - [Rising DRAM prices are driving &quot;forced premiumization&quot; in the smartphone market in India and Africa, as consumers in the sub-$200 segment risk being priced out &lpar;David Oks&rpar;](https://www.techmeme.com/260524/p5#a260524p5)
+ - [Moment, which develops AI tools for automating fixed-income and equities trading tech, raised a $78M Series C led by Index Ventures, with a16z participating &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260524/p4#a260524p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
