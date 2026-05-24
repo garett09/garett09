@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Traditional romani training](http://9gag.com/gag/aByAGrO)
- - 🚯 [Pee](http://9gag.com/gag/aAy8Mq0)
- - 🚯 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)<!-- MEMES:END -->
+ - 🚖 [I want a fluffy](http://9gag.com/gag/ae9nmPv)
+ - 🚯 [Climate change](http://9gag.com/gag/aAy8MnL)
+ - 🚯 [F**k work](http://9gag.com/gag/aRBboyj)<!-- MEMES:END -->
 
 --- 
 
