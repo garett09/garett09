@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Start wars](http://9gag.com/gag/a0er66z)
- - 🚯 [We are just who we are.](http://9gag.com/gag/a7oY9yq)
- - 🚯 [Avoid the geh?](http://9gag.com/gag/aLnZGeM)<!-- MEMES:END -->
+ - 🚖 [Traditional romani training](http://9gag.com/gag/aByAGrO)
+ - 🚯 [Pee](http://9gag.com/gag/aAy8Mq0)
+ - 🚯 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)<!-- MEMES:END -->
 
 --- 
 
