@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 🚯 [Start wars](http://9gag.com/gag/a0er66z)
- - 🚯 [Her French kiss includes Germany and Spain hahahahaha](http://9gag.com/gag/axyLO4K)<!-- MEMES:END -->
+ - 🚖 [Start wars](http://9gag.com/gag/a0er66z)
+ - 🚯 [We are just who we are.](http://9gag.com/gag/a7oY9yq)
+ - 🚯 [Avoid the geh?](http://9gag.com/gag/aLnZGeM)<!-- MEMES:END -->
 
 --- 
 
