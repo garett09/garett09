@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s recommendations feel worse in 2026, but these 5 simple tricks fixed mine](https://www.androidauthority.com/improve-youtube-recommendations-3669161/)
- - [I tested the Samsung Galaxy A57 5G for a month and I liked it, but I’m not sure you should buy one](https://www.androidauthority.com/samsung-galaxy-a57-5g-review-3667288/)
- - [&#39;GenAI&#39; Apple subdomain surfaces weeks ahead of WWDC](https://appleinsider.com/articles/26/05/24/genai-apple-subdomain-surfaces-weeks-ahead-of-wwdc?utm_source=rss)<!-- TECH:END -->
+ - [Save $300 on Apple&#39;s M5 Pro MacBook Pro with 48GB RAM today only](https://appleinsider.com/articles/26/05/24/save-300-on-apples-m5-pro-macbook-pro-with-48gb-ram-today-only?utm_source=rss)
+ - [The ECB summons Eurozone banks to a meeting on Tuesday to discuss risks posed by the latest AI models and hopes US banks with Mythos access will share lessons &lpar;Martin Arnold/Financial Times&rpar;](https://www.techmeme.com/260524/p10#a260524p10)
+ - [A look at the scourge of smartphone thefts in London, as victims describe receiving texts threatening them into unlinking Apple IDs from stolen iPhones &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p9#a260524p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
