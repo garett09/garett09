@@ -140,8 +140,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang urged Super Micro to tighten up compliance after Taiwan detained three people for allegedly trying to export servers with Nvidia chips to China &lpar;Debby Wu/Bloomberg&rpar;](https://www.techmeme.com/260523/p10#a260523p10)
- - [Dell says it has 5,000 clients for its AI Factory, a product line of servers with Nvidia chips, software, and services, including 1,000 new clients last quarter &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260523/p9#a260523p9)
+ - [Salesforce&#39;s promotional videos showcased Agentforce mock-ups and features that are not widely available, as CEO Marc Benioff defends forward-looking marketing &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260523/p15#a260523p15)
+ - [Crypto companies prepare for the threat that quantum computers could hack core industry security, including breaking the critical code underpinning Bitcoin &lpar;Financial Times&rpar;](https://www.techmeme.com/260523/p14#a260523p14)
  - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
