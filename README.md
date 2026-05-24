@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Universe Is Full of ‘Impossible’ Black Holes. Now Scientists Know Why](https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/)
- - [Rising DRAM prices are driving &quot;forced premiumization&quot; in the smartphone market in India and Africa, as consumers in the sub-$200 segment risk being priced out &lpar;David Oks&rpar;](https://www.techmeme.com/260524/p5#a260524p5)
- - [Moment, which develops AI tools for automating fixed-income and equities trading tech, raised a $78M Series C led by Index Ventures, with a16z participating &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260524/p4#a260524p4)<!-- TECH:END -->
+ - [YouTube’s recommendations feel worse in 2026, but these 5 simple tricks fixed mine](https://www.androidauthority.com/improve-youtube-recommendations-3669161/)
+ - [I tested the Samsung Galaxy A57 5G for a month and I liked it, but I’m not sure you should buy one](https://www.androidauthority.com/samsung-galaxy-a57-5g-review-3667288/)
+ - [&#39;GenAI&#39; Apple subdomain surfaces weeks ahead of WWDC](https://appleinsider.com/articles/26/05/24/genai-apple-subdomain-surfaces-weeks-ahead-of-wwdc?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
