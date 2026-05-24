@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I want a fluffy](http://9gag.com/gag/ae9nmPv)
- - 🚯 [Climate change](http://9gag.com/gag/aAy8MnL)
- - 🚯 [F**k work](http://9gag.com/gag/aRBboyj)<!-- MEMES:END -->
+ - 🚖 [Pee](http://9gag.com/gag/aAy8Mq0)
+ - 🚯 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
+ - 🚯 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)<!-- MEMES:END -->
 
 --- 
 
