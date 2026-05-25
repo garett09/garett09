@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
- - 🚯 [Traditional romani training](http://9gag.com/gag/aByAGrO)
- - 🚯 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)<!-- MEMES:END -->
+ - 🚖 [Teamwork](http://9gag.com/gag/aND7RyK)
+ - 🚯 [Bro gave everything he had](http://9gag.com/gag/aryQqvX)
+ - 🚯 [Who thought travel on a huge tank with thousands of people in deep sea is a great idea?](http://9gag.com/gag/aryQB26)<!-- MEMES:END -->
 
 --- 
 
