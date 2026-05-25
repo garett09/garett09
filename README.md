@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Iranian threat actor Nimbus Manticore used techniques like AI-assisted malware development and SEO poisoning to target companies during the US-Iran war &lpar;Check Point Research&rpar;](https://www.techmeme.com/260525/p15#a260525p15)
- - [YouTube Music bug doesn’t play the next song, but there may be an easy fix](https://www.androidauthority.com/youtube-music-next-track-play-bug-3670649/)
- - [SoftBank stock jumped 4.6% to a record high on Monday, spurred by hopes of big returns from the company&#39;s stakes in OpenAI and SB Energy Corp if they go public &lpar;Bloomberg&rpar;](https://www.techmeme.com/260525/p14#a260525p14)<!-- TECH:END -->
+ - [Cox Media fined after bragging it spied on users through their phones](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine)
+ - [Report: the EU plans to fine Google a high triple-digit million euro amount as part of a 2025 probe over concerns it favors its own services in search results &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p18#a260525p18)
+ - [Fake Tomodachi Life apps are popping up like weeds on the Google Play Store](https://www.androidauthority.com/tomodachi-life-fakes-on-play-store-3670770/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
