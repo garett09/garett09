@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pee](http://9gag.com/gag/aAy8Mq0)
- - 🚯 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
- - 🚯 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)<!-- MEMES:END -->
+ - 🚖 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
+ - 🚯 [Traditional romani training](http://9gag.com/gag/aByAGrO)
+ - 🚯 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)<!-- MEMES:END -->
 
 --- 
 
