@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta, Google, and Amazon execs met Vatican officials on April 29, as part of a quiet lobbying push ahead of Pope Leo XIV&#39;s first AI encyclical &lpar;Océane Herrero/Politico&rpar;](https://www.techmeme.com/260525/p6#a260525p6)
- - [I turned my Android tablet into a second monitor — and I can’t go back](https://www.androidauthority.com/android-tablet-second-monitor-3668374/)
- - [Trump Mobile is investigating a data leak affecting thousands of T1 preorders](https://www.androidauthority.com/trump-mobile-data-leak-investigation-3670612/)<!-- TECH:END -->
+ - [How Iranian threat actor Nimbus Manticore used techniques like AI-assisted malware development and SEO poisoning to target companies during the US-Iran war &lpar;Check Point Research&rpar;](https://www.techmeme.com/260525/p15#a260525p15)
+ - [YouTube Music bug doesn’t play the next song, but there may be an easy fix](https://www.androidauthority.com/youtube-music-next-track-play-bug-3670649/)
+ - [SoftBank stock jumped 4.6% to a record high on Monday, spurred by hopes of big returns from the company&#39;s stakes in OpenAI and SB Energy Corp if they go public &lpar;Bloomberg&rpar;](https://www.techmeme.com/260525/p14#a260525p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
