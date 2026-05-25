@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quartermaster, which is building an analytics platform and a SmartMast, with sensors on a ship&#39;s mast to relay real-time maritime data, raised a $43M Series A &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260524/p14#a260524p14)
- - [How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p13#a260524p13)
- - [Demand for security engineers is surging, with job postings up 11% YoY in Q1, driven by threats from AI-generated code and models like Mythos and GPT-5.4-Cyber &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260524/p12#a260524p12)<!-- TECH:END -->
+ - [Sources: Meta, Google, and Amazon execs met Vatican officials on April 29, as part of a quiet lobbying push ahead of Pope Leo XIV&#39;s first AI encyclical &lpar;Océane Herrero/Politico&rpar;](https://www.techmeme.com/260525/p6#a260525p6)
+ - [I turned my Android tablet into a second monitor — and I can’t go back](https://www.androidauthority.com/android-tablet-second-monitor-3668374/)
+ - [Trump Mobile is investigating a data leak affecting thousands of T1 preorders](https://www.androidauthority.com/trump-mobile-data-leak-investigation-3670612/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
