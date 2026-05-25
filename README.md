@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Origin](http://9gag.com/gag/agmDEBr)
- - 🚯 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
- - 🚯 [Secret gypsy ninja justsu! *hand movements and vanished* Person: where the f**k did my necklace gone?](http://9gag.com/gag/aByAO0Q)<!-- MEMES:END -->
+ - 🚖 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
+ - 🚯 [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
+ - 🚯 [I guess they call him Palm Beach Adolph over there.](http://9gag.com/gag/avyMvPn)<!-- MEMES:END -->
 
 --- 
 
