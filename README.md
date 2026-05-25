@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $300 on Apple&#39;s M5 Pro MacBook Pro with 48GB RAM today only](https://appleinsider.com/articles/26/05/24/save-300-on-apples-m5-pro-macbook-pro-with-48gb-ram-today-only?utm_source=rss)
- - [The ECB summons Eurozone banks to a meeting on Tuesday to discuss risks posed by the latest AI models and hopes US banks with Mythos access will share lessons &lpar;Martin Arnold/Financial Times&rpar;](https://www.techmeme.com/260524/p10#a260524p10)
- - [A look at the scourge of smartphone thefts in London, as victims describe receiving texts threatening them into unlinking Apple IDs from stolen iPhones &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p9#a260524p9)<!-- TECH:END -->
+ - [Quartermaster, which is building an analytics platform and a SmartMast, with sensors on a ship&#39;s mast to relay real-time maritime data, raised a $43M Series A &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260524/p14#a260524p14)
+ - [How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p13#a260524p13)
+ - [Demand for security engineers is surging, with job postings up 11% YoY in Q1, driven by threats from AI-generated code and models like Mythos and GPT-5.4-Cyber &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260524/p12#a260524p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
