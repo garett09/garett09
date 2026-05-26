@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
- - 🚯 [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
- - 🚯 [I guess they call him Palm Beach Adolph over there.](http://9gag.com/gag/avyMvPn)<!-- MEMES:END -->
+ - 🚯 [Once again im asking you fellow degenerates to share your favorite gifs](http://9gag.com/gag/aW4rD7q)
+ - 🚯 [Well, that&#39;s embarrassing](http://9gag.com/gag/a0erMAd)<!-- MEMES:END -->
 
 --- 
 
