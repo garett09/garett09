@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A surge in AI-generated &quot;pro se&quot; cases, or lawsuits filed by self-represented litigants, is democratizing the legal system but consuming more court resources &lpar;New York Times&rpar;](https://www.techmeme.com/260525/p24#a260525p24)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
- - [Visually impaired Waymo users in CA say riding in a Waymo gives them a feeling of independence and spares them the discrimination they face from human drivers &lpar;Sonia A. Rao/New York Times&rpar;](https://www.techmeme.com/260525/p23#a260525p23)<!-- TECH:END -->
+ - [I Never Liked a Laptop Sleeve Until I Tried the Bellroy Laptop Caddy](https://www.wired.com/story/finally-a-laptop-sleeve-for-me/)
+ - [Samsung and Google promise seven years of updates, but I’ll be gone in four](https://www.androidauthority.com/seven-year-updates-downsides-3668689/)
+ - [US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows](https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
