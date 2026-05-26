@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Never Liked a Laptop Sleeve Until I Tried the Bellroy Laptop Caddy](https://www.wired.com/story/finally-a-laptop-sleeve-for-me/)
- - [Samsung and Google promise seven years of updates, but I’ll be gone in four](https://www.androidauthority.com/seven-year-updates-downsides-3668689/)
- - [US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows](https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/)<!-- TECH:END -->
+ - [New $380 Bank of America AAPL target puts AI in the spotlight](https://appleinsider.com/articles/26/05/26/new-380-bank-of-america-aapl-target-puts-ai-in-the-spotlight?utm_source=rss)
+ - [The US Can Put People on the Moon. Why Can’t It Get Iranians Online?](https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/)
+ - [China executes a man called Xu Yao for killing Yoozoo Games founder Lin Qi in 2020; Lin reportedly sidelined Xu, who helped land the 3 Body Problem Netflix deal &lpar;Koh Ewe/BBC&rpar;](https://www.techmeme.com/260526/p20#a260526p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
