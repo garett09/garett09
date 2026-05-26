@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New $380 Bank of America AAPL target puts AI in the spotlight](https://appleinsider.com/articles/26/05/26/new-380-bank-of-america-aapl-target-puts-ai-in-the-spotlight?utm_source=rss)
- - [The US Can Put People on the Moon. Why Can’t It Get Iranians Online?](https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/)
- - [China executes a man called Xu Yao for killing Yoozoo Games founder Lin Qi in 2020; Lin reportedly sidelined Xu, who helped land the 3 Body Problem Netflix deal &lpar;Koh Ewe/BBC&rpar;](https://www.techmeme.com/260526/p20#a260526p20)<!-- TECH:END -->
+ - [New in iOS 26.6 beta 1: Apple Maps security upgrade, blocked contact alerts](https://appleinsider.com/articles/26/05/26/new-in-ios-266-beta-1-apple-maps-security-upgrade-blocked-contact-alerts?utm_source=rss)
+ - [London-based Perceptic, which says its end-to-end AI platform for drug development is being used by top pharmaceuticals, raised a $12M seed led by Accel &lpar;Jeremy Kahn/Fortune&rpar;](https://www.techmeme.com/260526/p28#a260526p28)
+ - [AI Chatbot Pricing Comparison: Here&#39;s What You Get When You Pay](https://www.cnet.com/tech/services-and-software/upgrading-your-ai-chatbot-heres-how-much-itll-cost-you/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
