@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cox Media fined after bragging it spied on users through their phones](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine)
- - [Report: the EU plans to fine Google a high triple-digit million euro amount as part of a 2025 probe over concerns it favors its own services in search results &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p18#a260525p18)
- - [Fake Tomodachi Life apps are popping up like weeds on the Google Play Store](https://www.androidauthority.com/tomodachi-life-fakes-on-play-store-3670770/)<!-- TECH:END -->
+ - [A surge in AI-generated &quot;pro se&quot; cases, or lawsuits filed by self-represented litigants, is democratizing the legal system but consuming more court resources &lpar;New York Times&rpar;](https://www.techmeme.com/260525/p24#a260525p24)
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
+ - [Visually impaired Waymo users in CA say riding in a Waymo gives them a feeling of independence and spares them the discrimination they face from human drivers &lpar;Sonia A. Rao/New York Times&rpar;](https://www.techmeme.com/260525/p23#a260525p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
