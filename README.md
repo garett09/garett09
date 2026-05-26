@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Faith in humanity restored](http://9gag.com/gag/aLnZWmM)
- - 🚯 [Guess I&#39;m just eating dirt with my strawberries then](http://9gag.com/gag/ae9nRnm)
- - 🚯 [Well, that&#39;s embarrassing](http://9gag.com/gag/a0erMAd)<!-- MEMES:END -->
+ - 🚖 [The Origin](http://9gag.com/gag/agmDEBr)
+ - 🚯 [Human evolution](http://9gag.com/gag/a9yxBLD)
+ - 🚯 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)<!-- MEMES:END -->
 
 --- 
 
