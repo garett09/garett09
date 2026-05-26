@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Once again im asking you fellow degenerates to share your favorite gifs](http://9gag.com/gag/aW4rD7q)
- - 🚯 [Faith in humanity restored](http://9gag.com/gag/aLnZWmM)
+ - 🚖 [Faith in humanity restored](http://9gag.com/gag/aLnZWmM)
+ - 🚯 [Guess I&#39;m just eating dirt with my strawberries then](http://9gag.com/gag/ae9nRnm)
  - 🚯 [Well, that&#39;s embarrassing](http://9gag.com/gag/a0erMAd)<!-- MEMES:END -->
 
 --- 
