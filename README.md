@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
- - 🚯 [Tinder Final Boss](http://9gag.com/gag/aPAEr9G)
- - 🚯 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)<!-- MEMES:END -->
+ - 🚖 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
+ - 🚯 [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)
+ - 🚯 [Lifetime of supply](http://9gag.com/gag/aryQ80y)<!-- MEMES:END -->
 
 --- 
 
