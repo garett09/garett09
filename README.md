@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Anker’s Qi2 MagGo power bank drops to $67.99 for Prime members](https://www.androidauthority.com/anker-maggo-power-bank-deal-3671644/)
- - [I Like Ferrari&#39;s Luce EV. But This Is Why It&#39;s Heartbreaking](https://www.wired.com/story/i-like-ferrari-luce-ev-but-this-is-why-its-heartbreaking/)
- - [We have many questions about OWC&#39;s new Stack AI speed booster](https://appleinsider.com/articles/26/05/27/we-have-many-questions-about-owcs-new-stack-ai-speed-booster?utm_source=rss)<!-- TECH:END -->
+ - [Facebook launches a ‘Plus’ subscription that gives you extra features](https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions)
+ - [The UK&#39;s GCHQ head says the UK and allies have a &quot;narrowing window&quot; to counter cyber threats from China and Russia, as Russia intensifies &quot;daily&quot; hybrid warfare &lpar;Chloe Taylor/CNBC&rpar;](https://www.techmeme.com/260527/p42#a260527p42)
+ - [Google is making it easier to find the sites you actually care about in AI Search](https://www.androidauthority.com/google-preferred-sources-ai-search-3671790/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
