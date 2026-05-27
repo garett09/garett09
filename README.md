@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New Species of Tiny Octopus Was Discovered in the Galápagos Islands](https://www.wired.com/story/a-new-species-of-tiny-octopus-was-discovered-in-the-galapagos-islands/)
- - [A Google Store shipping blunder swapped a Pixel 10 for a Motorola Razr](https://www.androidauthority.com/google-shipped-the-wrong-phone-3671495/)
- - [Good news! Google says cheaper Googlebooks are also coming](https://www.androidauthority.com/google-says-cheap-googlebooks-coming-3671476/)<!-- TECH:END -->
+ - [Deal: Anker’s Qi2 MagGo power bank drops to $67.99 for Prime members](https://www.androidauthority.com/anker-maggo-power-bank-deal-3671644/)
+ - [I Like Ferrari&#39;s Luce EV. But This Is Why It&#39;s Heartbreaking](https://www.wired.com/story/i-like-ferrari-luce-ev-but-this-is-why-its-heartbreaking/)
+ - [We have many questions about OWC&#39;s new Stack AI speed booster](https://appleinsider.com/articles/26/05/27/we-have-many-questions-about-owcs-new-stack-ai-speed-booster?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
