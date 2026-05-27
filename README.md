@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New in iOS 26.6 beta 1: Apple Maps security upgrade, blocked contact alerts](https://appleinsider.com/articles/26/05/26/new-in-ios-266-beta-1-apple-maps-security-upgrade-blocked-contact-alerts?utm_source=rss)
- - [London-based Perceptic, which says its end-to-end AI platform for drug development is being used by top pharmaceuticals, raised a $12M seed led by Accel &lpar;Jeremy Kahn/Fortune&rpar;](https://www.techmeme.com/260526/p28#a260526p28)
- - [AI Chatbot Pricing Comparison: Here&#39;s What You Get When You Pay](https://www.cnet.com/tech/services-and-software/upgrading-your-ai-chatbot-heres-how-much-itll-cost-you/)<!-- TECH:END -->
+ - [Canada&#39;s online safety bill could threaten encryption, Apple &amp; Google push for amendments](https://appleinsider.com/articles/26/05/27/canadas-online-safety-bill-could-threaten-encryption-apple-google-push-for-amendments?utm_source=rss)
+ - [Samsung&#39;s largest union approves a pay deal that would give chip workers an average bonus of ~$340K, with ~74% of members voting in favor, staving off a strike &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260526/p37#a260526p37)
+ - [SK Hynix tops $1T in market value after shares jumped 11% on Wednesday, becoming the third Asian company to hit the mark; shares surged 900%+ in the past year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260526/p36#a260526p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
