@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
+ - 🚖 [Weird gym routines](http://9gag.com/gag/aByAv7Z)
  - 🚯 [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)
- - 🚯 [Lifetime of supply](http://9gag.com/gag/aryQ80y)<!-- MEMES:END -->
+ - 🚯 [Waiting for the other shoe to drop](http://9gag.com/gag/a346nn3)<!-- MEMES:END -->
 
 --- 
 
