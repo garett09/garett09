@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Origin](http://9gag.com/gag/agmDEBr)
- - 🚯 [Human evolution](http://9gag.com/gag/a9yxBLD)
- - 🚯 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)<!-- MEMES:END -->
+ - 🚖 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
+ - 🚯 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
+ - 🚯 [This is why I don\u2019t trust anyone](http://9gag.com/gag/aPAEr5K)<!-- MEMES:END -->
 
 --- 
 
