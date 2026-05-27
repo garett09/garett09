@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada&#39;s online safety bill could threaten encryption, Apple &amp; Google push for amendments](https://appleinsider.com/articles/26/05/27/canadas-online-safety-bill-could-threaten-encryption-apple-google-push-for-amendments?utm_source=rss)
- - [Samsung&#39;s largest union approves a pay deal that would give chip workers an average bonus of ~$340K, with ~74% of members voting in favor, staving off a strike &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260526/p37#a260526p37)
- - [SK Hynix tops $1T in market value after shares jumped 11% on Wednesday, becoming the third Asian company to hit the mark; shares surged 900%+ in the past year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260526/p36#a260526p36)<!-- TECH:END -->
+ - [A New Species of Tiny Octopus Was Discovered in the Galápagos Islands](https://www.wired.com/story/a-new-species-of-tiny-octopus-was-discovered-in-the-galapagos-islands/)
+ - [A Google Store shipping blunder swapped a Pixel 10 for a Motorola Razr](https://www.androidauthority.com/google-shipped-the-wrong-phone-3671495/)
+ - [Good news! Google says cheaper Googlebooks are also coming](https://www.androidauthority.com/google-says-cheap-googlebooks-coming-3671476/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
