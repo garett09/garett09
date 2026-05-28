@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix reveals new details about The Adventures of Elliot&#39;s earliest era](https://www.polygon.com/adventures-of-elliot-chrono-trigger-age-of-budding/)
- - [One of the hundreds of Warhammer games is currently free to keep forever on Steam](https://www.pcgamer.com/games/strategy/one-of-the-hundreds-of-warhammer-games-is-currently-free-to-keep-forever-on-steam/)
- - [Why Zangetsu is one of anime’s most important swords](https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/)<!-- GAME:END -->
+ - [Webb Industries penthouse safe code location in 007 First Light](https://www.polygon.com/007-first-light-penthouse-safe-code-webb-industries-location/)
+ - [All 007 First Light safe codes and door codes](https://www.polygon.com/007-first-light-all-safe-door-codes-list/)
+ - [&#39;Proper big&#39;: The Witcher 3&#39;s new expansion will be &#39;closer to Blood and Wine&#39; in scope](https://www.pcgamer.com/games/the-witcher/proper-big-the-witcher-3s-new-expansion-will-be-closer-to-blood-and-wine-in-scope/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
