@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip design software maker Synopsys reaches a deal with Elliott, giving one board seat to the activist investor&#39;s Jesse Cohn, after roughly two months of talks &lpar;Svea Herbst-Bayliss/Reuters&rpar;](https://www.techmeme.com/260528/p15#a260528p15)
- - [Sources: Australia-founded Airwallex, which Keith Rabois accused of being a &quot;Chinese backdoor&quot;, is relocating some staff out of China amid its US expansion &lpar;Financial Times&rpar;](https://www.techmeme.com/260528/p14#a260528p14)
- - [A Google employee allegedly used insider info to manipulate Polymarket bets](https://www.androidauthority.com/google-employee-accused-of-insider-trading-3672044/)<!-- TECH:END -->
+ - [Call of Duty: Modern Warfare 4 is out in October, and it&amp;#8217;s coming to the Switch 2](https://www.theverge.com/games/939001/call-of-duty-modern-warfare-4-release-date-trailer-switch-2)
+ - [Having issues with T-Mobile’s fiber internet? Here’s what’s going on](https://www.androidauthority.com/t-mobile-fiber-internet-down-3672246/)
+ - [IBM plans to invest more than $10B in quantum computing over five years as it aims to build the first large-scale, error-free quantum computer by 2029 &lpar;Reuters&rpar;](https://www.techmeme.com/260528/p45#a260528p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
