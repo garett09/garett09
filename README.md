@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
- - 🚯 [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)
- - 🚯 [Nobody expected that !](http://9gag.com/gag/avyMDYE)<!-- MEMES:END -->
+ - 🚖 [No one will ever know](http://9gag.com/gag/a5QOyro)
+ - 🚯 [Baguette](http://9gag.com/gag/aXPyd2b)
+ - 🚯 [The worst she can say is no...](http://9gag.com/gag/aRBbDxq)<!-- MEMES:END -->
 
 --- 
 
