@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuaishou reports Q1 revenue up 3.4% YoY to ~$5B and Kling AI revenue up 300%+ YoY to ~$96M; Kling reached a ~$500M annualized revenue run rate in March 2026 &lpar;Coco Feng/South China Morning Post&rpar;](https://www.techmeme.com/260527/p54#a260527p54)
- - [The CFTC files alongside Gemini to nullify Gemini&#39;s $5M settlement in January 2025, arguing that the agency&#39;s current management wouldn&#39;t have pursued the case &lpar;Jesse Hamilton/CoinDesk&rpar;](https://www.techmeme.com/260527/p53#a260527p53)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 28, #612](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-28-612/)<!-- TECH:END -->
+ - [Chip design software maker Synopsys reaches a deal with Elliott, giving one board seat to the activist investor&#39;s Jesse Cohn, after roughly two months of talks &lpar;Svea Herbst-Bayliss/Reuters&rpar;](https://www.techmeme.com/260528/p15#a260528p15)
+ - [Sources: Australia-founded Airwallex, which Keith Rabois accused of being a &quot;Chinese backdoor&quot;, is relocating some staff out of China amid its US expansion &lpar;Financial Times&rpar;](https://www.techmeme.com/260528/p14#a260528p14)
+ - [A Google employee allegedly used insider info to manipulate Polymarket bets](https://www.androidauthority.com/google-employee-accused-of-insider-trading-3672044/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
