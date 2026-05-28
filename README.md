@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Call of Duty: Modern Warfare 4 is out in October, and it&amp;#8217;s coming to the Switch 2](https://www.theverge.com/games/939001/call-of-duty-modern-warfare-4-release-date-trailer-switch-2)
- - [Having issues with T-Mobile’s fiber internet? Here’s what’s going on](https://www.androidauthority.com/t-mobile-fiber-internet-down-3672246/)
- - [IBM plans to invest more than $10B in quantum computing over five years as it aims to build the first large-scale, error-free quantum computer by 2029 &lpar;Reuters&rpar;](https://www.techmeme.com/260528/p45#a260528p45)<!-- TECH:END -->
+ - [This open source app lets you free your Oura Ring from its subscription](https://www.androidauthority.com/cracked-oura-app-3672333/)
+ - [Save $300 on the Samsung Freestyle 2nd Gen portable projector](https://www.androidauthority.com/samsung-freestyle-2nd-gen-portable-projector-deal-3672352/)
+ - [The CFTC moves to vacate a $5M settlement with Gemini, reversing a Biden-era enforcement action, following a lobbying campaign by the Winklevoss twins &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260528/p52#a260528p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
