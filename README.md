@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Espresso Accessories for Home Baristas &lpar;2026&rpar;](https://www.wired.com/story/best-espresso-accessories-for-home-baristas/)
- - [I’m a long-time iPhone user, but these Android 17 features are tempting me to switch](https://www.androidauthority.com/android-17-features-tempting-me-to-switch-3669317/)
- - [This company wants to clean your house for free, to train AI and robots](https://www.androidauthority.com/shift-clean-house-free-record-video-ai-training-3672527/)<!-- TECH:END -->
+ - [You can buy two of Anker’s Qi2 wireless chargers for under $25](https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale)
+ - [A BBC Question Time episode featured a panel with AI-generated historical figures like Churchill, intended to show AI images&#39; &quot;hyper-real and persuasive&quot; nature &lpar;Holly Bishop/The Independent&rpar;](https://www.techmeme.com/260529/p20#a260529p20)
+ - [The new Mac-friendly monitors in Samsung&#39;s lineup fix problems Apple displays still have](https://appleinsider.com/articles/26/05/29/the-new-mac-friendly-monitors-in-samsungs-lineup-fix-problems-apple-displays-still-have?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
