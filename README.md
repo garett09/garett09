@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This open source app lets you free your Oura Ring from its subscription](https://www.androidauthority.com/cracked-oura-app-3672333/)
- - [Save $300 on the Samsung Freestyle 2nd Gen portable projector](https://www.androidauthority.com/samsung-freestyle-2nd-gen-portable-projector-deal-3672352/)
- - [The CFTC moves to vacate a $5M settlement with Gemini, reversing a Biden-era enforcement action, following a lobbying campaign by the Winklevoss twins &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260528/p52#a260528p52)<!-- TECH:END -->
+ - [Google Photos could finally be giving its automated edits a proper home](https://www.androidauthority.com/google-photos-create-tab-new-for-you-3672417/)
+ - [Sources: TikTok is cutting music label-facing jobs to focus on its music distribution arm SoundOn and other projects that connect it more directly with artists &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p67#a260528p67)
+ - [AI researchers ran 15-day simulations of worlds governed by different AI models: Claude Sonnet 4.6 recorded zero crime, while Gemini 3 Flash had the most at 683 &lpar;Jake Angelo/Fortune&rpar;](https://www.techmeme.com/260528/p66#a260528p66)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
