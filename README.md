@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos could finally be giving its automated edits a proper home](https://www.androidauthority.com/google-photos-create-tab-new-for-you-3672417/)
- - [Sources: TikTok is cutting music label-facing jobs to focus on its music distribution arm SoundOn and other projects that connect it more directly with artists &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p67#a260528p67)
- - [AI researchers ran 15-day simulations of worlds governed by different AI models: Claude Sonnet 4.6 recorded zero crime, while Gemini 3 Flash had the most at 683 &lpar;Jake Angelo/Fortune&rpar;](https://www.techmeme.com/260528/p66#a260528p66)<!-- TECH:END -->
+ - [The Best Espresso Accessories for Home Baristas &lpar;2026&rpar;](https://www.wired.com/story/best-espresso-accessories-for-home-baristas/)
+ - [I’m a long-time iPhone user, but these Android 17 features are tempting me to switch](https://www.androidauthority.com/android-17-features-tempting-me-to-switch-3669317/)
+ - [This company wants to clean your house for free, to train AI and robots](https://www.androidauthority.com/shift-clean-house-free-record-video-ai-training-3672527/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
