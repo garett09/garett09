@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Upgrades people . . . Upgrades](http://9gag.com/gag/aMVoDAP)
- - 🚯 [The Household Cavalry making her day](http://9gag.com/gag/aYQ3d3v)
- - 🚯 [They&#39;re 17 because only a 17-year-old would think going on that quest is a good idea.](http://9gag.com/gag/ayNbVOp)<!-- MEMES:END -->
+ - 🚖 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
+ - 🚯 [Neck hurt](http://9gag.com/gag/aD2KNB9)
+ - 🚯 [The acting and tension really made it stand out](http://9gag.com/gag/aRBbNzQ)<!-- MEMES:END -->
 
 --- 
 
