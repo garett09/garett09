@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
- - 🚯 [Neck hurt](http://9gag.com/gag/aD2KNB9)
- - 🚯 [The acting and tension really made it stand out](http://9gag.com/gag/aRBbNzQ)<!-- MEMES:END -->
+ - 🚖 [How many beers?](http://9gag.com/gag/a2v3jN9)
+ - 🚯 [Screw it](http://9gag.com/gag/aVvp9W8)
+ - 🚯 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)<!-- MEMES:END -->
 
 --- 
 
