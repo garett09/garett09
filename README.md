@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can buy two of Anker’s Qi2 wireless chargers for under $25](https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale)
- - [A BBC Question Time episode featured a panel with AI-generated historical figures like Churchill, intended to show AI images&#39; &quot;hyper-real and persuasive&quot; nature &lpar;Holly Bishop/The Independent&rpar;](https://www.techmeme.com/260529/p20#a260529p20)
- - [The new Mac-friendly monitors in Samsung&#39;s lineup fix problems Apple displays still have](https://appleinsider.com/articles/26/05/29/the-new-mac-friendly-monitors-in-samsungs-lineup-fix-problems-apple-displays-still-have?utm_source=rss)<!-- TECH:END -->
+ - [Telegram’s finally getting an official Wear OS app again](https://www.androidauthority.com/telegram-wear-os-beta-3672776/)
+ - [Nintendo is back on mobile, and it wants to turn your selfies into minigames](https://www.androidauthority.com/nintendo-launches-pictonico-3672746/)
+ - [Hands-on with Gemini Spark beta rolling out to AI Ultra subs: planned a birthday party from emails and calendar, but called a live-in boyfriend a &quot;close friend&quot; &lpar;Reece Rogers/Wired&rpar;](https://www.techmeme.com/260529/p28#a260529p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
