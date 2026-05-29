@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [British humor is good different.](http://9gag.com/gag/a1myq1P)
- - 🚯 [The sense of responsibility we all need](http://9gag.com/gag/avyMX0Z)
- - 🚯 [.....](http://9gag.com/gag/a87RQb1)<!-- MEMES:END -->
+ - 🚖 [Upgrades people . . . Upgrades](http://9gag.com/gag/aMVoDAP)
+ - 🚯 [The Household Cavalry making her day](http://9gag.com/gag/aYQ3d3v)
+ - 🚯 [They&#39;re 17 because only a 17-year-old would think going on that quest is a good idea.](http://9gag.com/gag/ayNbVOp)<!-- MEMES:END -->
 
 --- 
 
