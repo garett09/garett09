@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: Microsoft is killing SwiftKey’s Google account backups tomorrow. Do this to save your data](https://www.androidauthority.com/swiftkey-google-login-ending-3672862/)
- - [I replaced my computer with the Galaxy S26 and DeX for a week. It wasn’t a disaster](https://www.androidauthority.com/replacing-computer-with-galaxy-26-samsung-dex-3669138/)
- - [How one founder’s bet on ‘the old school web’ is paying off](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai)<!-- TECH:END -->
+ - [China&#39;s tech boom is creating a new kind of tech tourism where visitors pay for curated robotaxi rides and tours of EV factories and AI and robotics companies &lpar;Kinling Lo/Rest of World&rpar;](https://www.techmeme.com/260530/p11#a260530p11)
+ - [Backrooms is a certified blockbuster with a $38 million opening day](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening)
+ - [A look at the nasty fight between Anthropic-backed super PAC Public First and OpenAI-backed Leading the Future to sway midterms, especially Democratic primaries &lpar;Theodore Schleifer/New York Times&rpar;](https://www.techmeme.com/260530/p10#a260530p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
