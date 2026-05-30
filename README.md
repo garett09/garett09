@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram’s finally getting an official Wear OS app again](https://www.androidauthority.com/telegram-wear-os-beta-3672776/)
- - [Nintendo is back on mobile, and it wants to turn your selfies into minigames](https://www.androidauthority.com/nintendo-launches-pictonico-3672746/)
- - [Hands-on with Gemini Spark beta rolling out to AI Ultra subs: planned a birthday party from emails and calendar, but called a live-in boyfriend a &quot;close friend&quot; &lpar;Reece Rogers/Wired&rpar;](https://www.techmeme.com/260529/p28#a260529p28)<!-- TECH:END -->
+ - [Miami-based Canals, which uses AI to help distributors automate workflows across sales, customer service, and more, raised a $35M Series A led by Base10 &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260529/p37#a260529p37)
+ - [How massive bonuses for Samsung&#39;s employees in the memory division have sparked debate over how companies and governments should share profits from the AI boom &lpar;Bloomberg&rpar;](https://www.techmeme.com/260529/p36#a260529p36)
+ - [Best AT&amp;T Plans: How to Choose and Which Ones to Pick in 2026](https://www.cnet.com/tech/mobile/best-att-plans/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
