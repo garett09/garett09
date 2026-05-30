@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pretty talent you scholar from London community](http://9gag.com/gag/aryQrPV)
- - 🚯 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
- - 🚯 [Well, he won&#39;t do it again.](http://9gag.com/gag/a346z9e)<!-- MEMES:END -->
+ - 🚖 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
+ - 🚯 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
+ - 🚯 [Bet you didn&#39;t know this](http://9gag.com/gag/aD2Kqxd)<!-- MEMES:END -->
 
 --- 
 
