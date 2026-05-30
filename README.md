@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*Quack*](http://9gag.com/gag/aByAjpz)
- - 🚯 [Raygun Tribute](http://9gag.com/gag/avyM4nq)
- - 🚯 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)<!-- MEMES:END -->
+ - 🚖 [Pretty talent you scholar from London community](http://9gag.com/gag/aryQrPV)
+ - 🚯 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
+ - 🚯 [Well, he won&#39;t do it again.](http://9gag.com/gag/a346z9e)<!-- MEMES:END -->
 
 --- 
 
