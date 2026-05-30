@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
- - 🚯 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
- - 🚯 [Bet you didn&#39;t know this](http://9gag.com/gag/aD2Kqxd)<!-- MEMES:END -->
+ - 🚖 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
+ - 🚯 [Screw it](http://9gag.com/gag/aVvp9W8)
+ - 🚯 [How not to sleep at night \u2026](http://9gag.com/gag/aryQD4p)<!-- MEMES:END -->
 
 --- 
 
