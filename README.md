@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How many beers?](http://9gag.com/gag/a2v3jN9)
- - 🚯 [Screw it](http://9gag.com/gag/aVvp9W8)
+ - 🚖 [*Quack*](http://9gag.com/gag/aByAjpz)
+ - 🚯 [Raygun Tribute](http://9gag.com/gag/avyM4nq)
  - 🚯 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)<!-- MEMES:END -->
 
 --- 
