@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miami-based Canals, which uses AI to help distributors automate workflows across sales, customer service, and more, raised a $35M Series A led by Base10 &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260529/p37#a260529p37)
- - [How massive bonuses for Samsung&#39;s employees in the memory division have sparked debate over how companies and governments should share profits from the AI boom &lpar;Bloomberg&rpar;](https://www.techmeme.com/260529/p36#a260529p36)
- - [Best AT&amp;T Plans: How to Choose and Which Ones to Pick in 2026](https://www.cnet.com/tech/mobile/best-att-plans/)<!-- TECH:END -->
+ - [A profile of OpenAI President Greg Brockman, who is overseeing product in his new role and has become an important ambassador for AI to the Trump administration &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260530/p5#a260530p5)
+ - [BlackBerry&#39;s stock is up more than 160% over the past three months, as the company&#39;s QNX division positions its automotive software as an OS for robots &lpar;Luke Kawa/Sherwood News&rpar;](https://www.techmeme.com/260530/p4#a260530p4)
+ - [Filing shows Shanghai-based MiniMax has begun preparations for a Chinese IPO; the AI company listed in Hong Kong in January and says its ARR has reached $300M &lpar;Bloomberg&rpar;](https://www.techmeme.com/260530/p3#a260530p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
