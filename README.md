@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of OpenAI President Greg Brockman, who is overseeing product in his new role and has become an important ambassador for AI to the Trump administration &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260530/p5#a260530p5)
- - [BlackBerry&#39;s stock is up more than 160% over the past three months, as the company&#39;s QNX division positions its automotive software as an OS for robots &lpar;Luke Kawa/Sherwood News&rpar;](https://www.techmeme.com/260530/p4#a260530p4)
- - [Filing shows Shanghai-based MiniMax has begun preparations for a Chinese IPO; the AI company listed in Hong Kong in January and says its ARR has reached $300M &lpar;Bloomberg&rpar;](https://www.techmeme.com/260530/p3#a260530p3)<!-- TECH:END -->
+ - [PSA: Microsoft is killing SwiftKey’s Google account backups tomorrow. Do this to save your data](https://www.androidauthority.com/swiftkey-google-login-ending-3672862/)
+ - [I replaced my computer with the Galaxy S26 and DeX for a week. It wasn’t a disaster](https://www.androidauthority.com/replacing-computer-with-galaxy-26-samsung-dex-3669138/)
+ - [How one founder’s bet on ‘the old school web’ is paying off](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
