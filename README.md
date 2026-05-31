@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s tech boom is creating a new kind of tech tourism where visitors pay for curated robotaxi rides and tours of EV factories and AI and robotics companies &lpar;Kinling Lo/Rest of World&rpar;](https://www.techmeme.com/260530/p11#a260530p11)
- - [Backrooms is a certified blockbuster with a $38 million opening day](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening)
- - [A look at the nasty fight between Anthropic-backed super PAC Public First and OpenAI-backed Leading the Future to sway midterms, especially Democratic primaries &lpar;Theodore Schleifer/New York Times&rpar;](https://www.techmeme.com/260530/p10#a260530p10)<!-- TECH:END -->
+ - [As robotaxi companies attempt to scale in the US, they face increasing scrutiny and mounting criticism from drivers, law enforcement, and local governments &lpar;Sean McLain/Wall Street Journal&rpar;](https://www.techmeme.com/260530/p16#a260530p16)
+ - [Why &quot;Dark Output&quot;, the AI-generated economic value that is currently invisible to national statistics, may be one of the hardest measurement problems in history &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260530/p15#a260530p15)
+ - [Lionsgate Joins Movies Anywhere, Leaving Paramount and MGM as Last Major Hold Outs](https://www.cnet.com/tech/services-and-software/lionsgate-joins-movies-anywhere/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
