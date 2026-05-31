@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the 5 best Android apps I use that aren’t on the Play Store](https://www.androidauthority.com/best-android-apps-missing-from-play-store-3672062/)
- - [I went looking for the AI weed vape that gives you Bitcoin for smoking](https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape)
- - [I’m trying to cut down my subscriptions, but I still gladly pay for these apps](https://www.androidauthority.com/apps-i-gladly-pay-for-3671537/)<!-- TECH:END -->
+ - [Apple Vision Pro &amp; PlayStation 5 are the perfect combo with Remote Play apps](https://appleinsider.com/articles/26/05/27/apple-vision-pro-playstation-5-are-the-perfect-combo-with-portal-remote-play-app?utm_source=rss)
+ - [AI adoption follows the J-curve path of general-purpose tech, like early US factory electrification, requiring years of investment before noticeable ROI gains &lpar;Exponential View&rpar;](https://www.techmeme.com/260531/p9#a260531p9)
+ - [Samsung Messages Is Going Away for Good. Here&#39;s How to Save Everything First](https://www.cnet.com/tech/mobile/the-transition-from-samsung-messages-to-google-messages-is-simple-if-you-start-now-and-a-headache-if-you-wait-until-july/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
