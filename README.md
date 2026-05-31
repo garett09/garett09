@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
+ - 🚖 [Insane footage filmed from a nearby restaurant shows tonight\u2019s explosion](http://9gag.com/gag/aByAbG2)
  - 🚯 [Screw it](http://9gag.com/gag/aVvp9W8)
- - 🚯 [How not to sleep at night \u2026](http://9gag.com/gag/aryQD4p)<!-- MEMES:END -->
+ - 🚯 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)<!-- MEMES:END -->
 
 --- 
 
