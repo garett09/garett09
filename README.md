@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)
- - 🚯 [He got tired](http://9gag.com/gag/ajPzjy1)
- - 🚯 [Well, he won&#39;t do it again.](http://9gag.com/gag/a346z9e)<!-- MEMES:END -->
+ - 🚖 [What lobster?](http://9gag.com/gag/aqyPM6M)
+ - 🚯 [The Exception..](http://9gag.com/gag/adBGW2j)
+ - 🚯 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)<!-- MEMES:END -->
 
 --- 
 
