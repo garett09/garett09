@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic Confidentially Files for What Could Be the Largest IPO Ever](https://www.wired.com/story/anthropic-files-s1-ipo-sec/)
- - [Google Messages custom chat wallpapers have one more trick in store: animations](https://www.androidauthority.com/google-messages-wallpaper-animations-3673191/)
- - [Amazon&#39;s June iPad sale slashes prices to as low as $299](https://appleinsider.com/articles/26/06/01/amazons-june-ipad-sale-slashes-prices-to-as-low-as-299?utm_source=rss)<!-- TECH:END -->
+ - [Alphabet is raising $80B in equity offerings, including a $10B investment deal with Berkshire Hathaway, to help raise money for its AI spending plans &lpar;Nick Turner/Bloomberg&rpar;](https://www.techmeme.com/260601/p54#a260601p54)
+ - [The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands](https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands)
+ - [Android 17 Beta 4.1 arrives as Google scrambles to get things ready to hit stable](https://www.androidauthority.com/android-17-beta-4-1-3673266/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
