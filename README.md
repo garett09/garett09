@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
+ - 🚖 [What lobster?](http://9gag.com/gag/aqyPM6M)
  - 🚯 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - 🚯 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)<!-- MEMES:END -->
+ - 🚯 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)<!-- MEMES:END -->
 
 --- 
 
