@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic plans to let the EU&#39;s cyber agency ENISA join Project Glasswing, giving it access to Mythos; EU officials went to the US to ask for access &lpar;Gian Volpicelli/Bloomberg&rpar;](https://www.techmeme.com/260601/p27#a260601p27)
- - [Universal Audio Volt 876 USB Audio Interface Review: Pro-Level Polish](https://www.wired.com/review/universal-audio-volt-876-usb-audio-interface/)
- - [Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch](https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/)<!-- TECH:END -->
+ - [Anthropic Confidentially Files for What Could Be the Largest IPO Ever](https://www.wired.com/story/anthropic-files-s1-ipo-sec/)
+ - [Google Messages custom chat wallpapers have one more trick in store: animations](https://www.androidauthority.com/google-messages-wallpaper-animations-3673191/)
+ - [Amazon&#39;s June iPad sale slashes prices to as low as $299](https://appleinsider.com/articles/26/06/01/amazons-june-ipad-sale-slashes-prices-to-as-low-as-299?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
