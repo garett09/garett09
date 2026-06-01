@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What lobster?](http://9gag.com/gag/aqyPM6M)
- - 🚯 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - 🚯 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)<!-- MEMES:END -->
+ - 🚖 [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
+ - 🚯 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - 🚯 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)<!-- MEMES:END -->
 
 --- 
 
