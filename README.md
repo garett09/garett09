@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What lobster?](http://9gag.com/gag/aqyPM6M)
- - 🚯 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - 🚯 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)<!-- MEMES:END -->
+ - 🚖 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - 🚯 [Let him cook](http://9gag.com/gag/aAy85M9)
+ - 🚯 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)<!-- MEMES:END -->
 
 --- 
 
