@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [What lobster?](http://9gag.com/gag/aqyPM6M)
- - 🚯 [The Exception..](http://9gag.com/gag/adBGW2j)
- - 🚯 [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)<!-- MEMES:END -->
+ - 🚯 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - 🚯 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)<!-- MEMES:END -->
 
 --- 
 
