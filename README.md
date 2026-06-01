@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s upcoming wide Galaxy Z Fold 8 spied in public for the first time](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-spotted-in-the-wild-3672943/)
- - [Beijing-based Vast, which uses AI models to generate 3D assets from text and image prompts, raised ~$200M at a $1B+ valuation, and says it has 20M global users &lpar;Bloomberg&rpar;](https://www.techmeme.com/260531/p17#a260531p17)
- - [Solstice, which uses clinical and compliance documents and AI to accelerate advertising approvals for pharma clients, raised a $21M Series A &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260531/p16#a260531p16)<!-- TECH:END -->
+ - [Sources: Anthropic plans to let the EU&#39;s cyber agency ENISA join Project Glasswing, giving it access to Mythos; EU officials went to the US to ask for access &lpar;Gian Volpicelli/Bloomberg&rpar;](https://www.techmeme.com/260601/p27#a260601p27)
+ - [Universal Audio Volt 876 USB Audio Interface Review: Pro-Level Polish](https://www.wired.com/review/universal-audio-volt-876-usb-audio-interface/)
+ - [Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch](https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
