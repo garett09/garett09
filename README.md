@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of 600+ Elon Musk claims over 15 years finds he met deadlines 19% of the time; he achieved 75% of his 2015 goals on time, but under 50% of 2020 ones &lpar;New York Times&rpar;](https://www.techmeme.com/260602/p29#a260602p29)
- - [Partiful Is Putting Ticket Payments on Its Platform](https://www.wired.com/story/partiful-is-putting-ticket-payments-on-its-platform/)
- - [Microsoft Build 2026: All the news about Windows, AI, RTX Spark and more](https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates)<!-- TECH:END -->
+ - [MacBook Neo is the sole bright spot in a crashing global PC market](https://appleinsider.com/articles/26/06/02/macbook-neo-is-the-sole-bright-spot-in-a-crashing-global-pc-market?utm_source=rss)
+ - [Microsoft releases ASSERT, an open-source framework that lets developers generate and run AI behavior tests using natural-language descriptions &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260602/p56#a260602p56)
+ - [I held the next-gen handheld](https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
