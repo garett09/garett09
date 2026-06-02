@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - 🚯 [Let him cook](http://9gag.com/gag/aAy85M9)
- - 🚯 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)<!-- MEMES:END -->
+ - 🚖 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - 🚯 [Burn](http://9gag.com/gag/a4PXgrw)
+ - 🚯 [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)<!-- MEMES:END -->
 
 --- 
 
