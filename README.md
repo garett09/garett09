@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
- - 🚯 [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
- - 🚯 [The third one is tolerating you](http://9gag.com/gag/azxWwxb)<!-- MEMES:END -->
+ - 🚖 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
+ - 🚯 [Imagine the chaos](http://9gag.com/gag/a9yxGDo)
+ - 🚯 [What a great and an unharming prank](http://9gag.com/gag/ae9nw2b)<!-- MEMES:END -->
 
 --- 
 
