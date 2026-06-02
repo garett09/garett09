@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet is raising $80B in equity offerings, including a $10B investment deal with Berkshire Hathaway, to help raise money for its AI spending plans &lpar;Nick Turner/Bloomberg&rpar;](https://www.techmeme.com/260601/p54#a260601p54)
- - [The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands](https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands)
- - [Android 17 Beta 4.1 arrives as Google scrambles to get things ready to hit stable](https://www.androidauthority.com/android-17-beta-4-1-3673266/)<!-- TECH:END -->
+ - [GitHub Copilot&#39;s new pricing model went into effect today, and many noted sticker shock with some saying a few hours of AI usage ate big chunks of monthly caps &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260601/p58#a260601p58)
+ - [Nvidia launches Nemotron 3 Ultra, a 550B-parameter MoE open model; Artificial Analysis: it&#39;s the smartest open US model but trails the Chinese model Kimi K2.6 &lpar;Maximilian Schreiner/The Decoder&rpar;](https://www.techmeme.com/260601/p57#a260601p57)
+ - [Apple Will Reportedly Add Bill-Splitting Feature to iOS 27](https://www.cnet.com/tech/apple-will-reportedly-add-bill-splitting-feature-to-ios-27/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
