@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
- - 🚯 [Imagine the chaos](http://9gag.com/gag/a9yxGDo)
- - 🚯 [What a great and an unharming prank](http://9gag.com/gag/ae9nw2b)<!-- MEMES:END -->
+ - 🚖 [It&#39;s called a high trust society.](http://9gag.com/gag/agmDzgv)
+ - 🚯 [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)
+ - 🚯 [Imagine the chaos](http://9gag.com/gag/a9yxGDo)<!-- MEMES:END -->
 
 --- 
 
