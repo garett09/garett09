@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI releases a new report on knowledge work: Codex now has 5M+ weekly active users, up 6x+ since February, and knowledge workers are ~20% of Codex users &lpar;OpenAI&rpar;](https://www.techmeme.com/260602/p14#a260602p14)
- - [How to Avoid Scams and Bad Gadgets on Amazon &lpar;2026&rpar;](https://www.wired.com/story/how-shop-safe-amazon/)
- - [These are the 8 Duolingo changes I want to see after a 1,000-day streak](https://www.androidauthority.com/duolingo-changes-i-want-to-see-3671847/)<!-- TECH:END -->
+ - [An analysis of 600+ Elon Musk claims over 15 years finds he met deadlines 19% of the time; he achieved 75% of his 2015 goals on time, but under 50% of 2020 ones &lpar;New York Times&rpar;](https://www.techmeme.com/260602/p29#a260602p29)
+ - [Partiful Is Putting Ticket Payments on Its Platform](https://www.wired.com/story/partiful-is-putting-ticket-payments-on-its-platform/)
+ - [Microsoft Build 2026: All the news about Windows, AI, RTX Spark and more](https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
