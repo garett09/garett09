@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - 🚯 [Burn](http://9gag.com/gag/a4PXgrw)
- - 🚯 [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)<!-- MEMES:END -->
+ - 🚖 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
+ - 🚯 [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
+ - 🚯 [The third one is tolerating you](http://9gag.com/gag/azxWwxb)<!-- MEMES:END -->
 
 --- 
 
