@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gottem](http://9gag.com/gag/aoyvQR3)
- - 🚯 [Poor guy](http://9gag.com/gag/aVvpyYO)
- - 🚯 [Believe me, it turns a 10 into a 4!](http://9gag.com/gag/axyLwLW)<!-- MEMES:END -->
+ - 🚖 [Imagine being this persistent to cut in line, only to crash](http://9gag.com/gag/aryQQpd)
+ - 🚯 [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)
+ - 🚯 [Cowboys](http://9gag.com/gag/a4PXOL6)<!-- MEMES:END -->
 
 --- 
 
