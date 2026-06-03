@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s called a high trust society.](http://9gag.com/gag/agmDzgv)
- - 🚯 [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)
- - 🚯 [Imagine the chaos](http://9gag.com/gag/a9yxGDo)<!-- MEMES:END -->
+ - 🚖 [Imagine the chaos](http://9gag.com/gag/a9yxGDo)
+ - 🚯 [In iceland](http://9gag.com/gag/aD2K5EB)
+ - 🚯 [Joke of the century](http://9gag.com/gag/azxWwGp)<!-- MEMES:END -->
 
 --- 
 
