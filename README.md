@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: ChatGPT has become the fastest app to hit 1B global MAUs by far; ChatGPT&#39;s MAUs are up 62% YoY in Q2 to date, Claude&#39;s MAUs are up 640% YoY to 56M &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260602/p68#a260602p68)
- - [Elon Musk&#39;s SpaceX &amp; Tesla email accounts must be handed over in Apple lawsuit](https://appleinsider.com/articles/26/06/03/elon-musks-spacex-tesla-email-accounts-must-be-handed-over-in-apple-lawsuit?utm_source=rss)
- - [Source: SpaceX plans to raise $75B in its IPO by selling 555.6M shares at $135 each, an unusual move since most companies set a price range before the roadshow &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260602/p67#a260602p67)<!-- TECH:END -->
+ - [How Revolut founder Nikolay Storonsky&#39;s Elon Musk-style pay incentives pushed his fortune to ~$20.4B, making him the UK&#39;s richest person, ahead of a planned IPO &lpar;Aisha S Gani/Bloomberg&rpar;](https://www.techmeme.com/260603/p21#a260603p21)
+ - [Doc: Apple agreed in May to submit the financials of its India business to the country&#39;s antitrust body as part of an investigation over alleged market abuses &lpar;Aditya Kalra/Reuters&rpar;](https://www.techmeme.com/260603/p20#a260603p20)
+ - [A Crash Course in Mountain Bike Suspension &lpar;2026&rpar;](https://www.wired.com/story/what-is-bike-suspension/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
