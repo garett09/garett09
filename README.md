@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine the chaos](http://9gag.com/gag/a9yxGDo)
- - 🚯 [In iceland](http://9gag.com/gag/aD2K5EB)
- - 🚯 [Joke of the century](http://9gag.com/gag/azxWwGp)<!-- MEMES:END -->
+ - 🚖 [Gottem](http://9gag.com/gag/aoyvQR3)
+ - 🚯 [Poor guy](http://9gag.com/gag/aVvpyYO)
+ - 🚯 [Believe me, it turns a 10 into a 4!](http://9gag.com/gag/axyLwLW)<!-- MEMES:END -->
 
 --- 
 
