@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Revolut founder Nikolay Storonsky&#39;s Elon Musk-style pay incentives pushed his fortune to ~$20.4B, making him the UK&#39;s richest person, ahead of a planned IPO &lpar;Aisha S Gani/Bloomberg&rpar;](https://www.techmeme.com/260603/p21#a260603p21)
- - [Doc: Apple agreed in May to submit the financials of its India business to the country&#39;s antitrust body as part of an investigation over alleged market abuses &lpar;Aditya Kalra/Reuters&rpar;](https://www.techmeme.com/260603/p20#a260603p20)
- - [A Crash Course in Mountain Bike Suspension &lpar;2026&rpar;](https://www.wired.com/story/what-is-bike-suspension/)<!-- TECH:END -->
+ - [Google Search just lost a key market to a rival you’ve probably never heard of](https://www.androidauthority.com/european-parliament-ditches-google-search-qwant-3673975/)
+ - [Amazon announces new visual search features, including displaying AI-generated images of products within its app based on users&#39; search queries &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260603/p47#a260603p47)
+ - [Leading the Future, the pro-AI super PAC backed by Greg Brockman, appears to be linked to multiple sockpuppet accounts, including a purported anti-AI activist &lpar;@themidasproj&rpar;](https://www.techmeme.com/260603/p46#a260603p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
