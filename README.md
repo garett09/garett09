@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search just lost a key market to a rival you’ve probably never heard of](https://www.androidauthority.com/european-parliament-ditches-google-search-qwant-3673975/)
- - [Amazon announces new visual search features, including displaying AI-generated images of products within its app based on users&#39; search queries &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260603/p47#a260603p47)
- - [Leading the Future, the pro-AI super PAC backed by Greg Brockman, appears to be linked to multiple sockpuppet accounts, including a purported anti-AI activist &lpar;@themidasproj&rpar;](https://www.techmeme.com/260603/p46#a260603p46)<!-- TECH:END -->
+ - [Black Apple Vision Pro rumors stoked by even more photographs](https://appleinsider.com/articles/26/06/03/black-apple-vision-pro-rumors-stoked-by-even-more-photographs?utm_source=rss)
+ - [Three Android giants could be on a launch-month collision course](https://www.androidauthority.com/3-android-phones-could-launch-same-month-3674133/)
+ - [Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
