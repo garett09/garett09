@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Liftoff Mobile raised $437M in its US IPO, selling 19M shares for $23 each, above its marketed range of $20 to $22, valuing the company at $3.83B &lpar;Natalia Kniazhevich/Bloomberg&rpar;](https://www.techmeme.com/260603/p69#a260603p69)
- - [Sam Altman and Dario Amodei are among signatories on an open letter urging improved tracking of synthetic DNA potentially used in AI-developed bioweapons &lpar;Emily Mullin/Wired&rpar;](https://www.techmeme.com/260603/p68#a260603p68)
- - [Meta says Australia&#39;s proposed tax on domestic revenue for tech giants that don&#39;t sign news licensing deals violates the US-Australia Free Trade Agreement &lpar;Byron Kaye/Reuters&rpar;](https://www.techmeme.com/260603/p67#a260603p67)<!-- TECH:END -->
+ - [CoinGecko: Hyperliquid-linked HYPE token is up ~180% YTD, lifting its market value above $16B and pushing it into the top 10 digital assets by market cap &lpar;Bloomberg&rpar;](https://www.techmeme.com/260604/p12#a260604p12)
+ - [Quantum Computing Is Having Its Public Market Moment](https://www.wired.com/story/quantum-computing-is-having-its-public-market-moment-quantinuum/)
+ - [5 things I learned after vibe coding my first app](https://www.androidauthority.com/lessons-learned-from-vibe-coding-app-3668652/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
