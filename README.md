@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Apple Vision Pro rumors stoked by even more photographs](https://appleinsider.com/articles/26/06/03/black-apple-vision-pro-rumors-stoked-by-even-more-photographs?utm_source=rss)
- - [Three Android giants could be on a launch-month collision course](https://www.androidauthority.com/3-android-phones-could-launch-same-month-3674133/)
- - [Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan)<!-- TECH:END -->
+ - [Liftoff Mobile raised $437M in its US IPO, selling 19M shares for $23 each, above its marketed range of $20 to $22, valuing the company at $3.83B &lpar;Natalia Kniazhevich/Bloomberg&rpar;](https://www.techmeme.com/260603/p69#a260603p69)
+ - [Sam Altman and Dario Amodei are among signatories on an open letter urging improved tracking of synthetic DNA potentially used in AI-developed bioweapons &lpar;Emily Mullin/Wired&rpar;](https://www.techmeme.com/260603/p68#a260603p68)
+ - [Meta says Australia&#39;s proposed tax on domestic revenue for tech giants that don&#39;t sign news licensing deals violates the US-Australia Free Trade Agreement &lpar;Byron Kaye/Reuters&rpar;](https://www.techmeme.com/260603/p67#a260603p67)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
