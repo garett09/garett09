@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood plans to route some 2026 soccer World Cup bets to Rothera, shifting away from Kalshi as it seeks to diversify its prediction markets providers &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260604/p29#a260604p29)
- - [Apple Card Savings returns keep shrinking as APY falls to 3.4%](https://appleinsider.com/articles/26/06/04/apple-card-savings-returns-keep-shrinking-as-apy-falls-to-34?utm_source=rss)
- - [TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;](https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles)<!-- TECH:END -->
+ - [Heads-up: How you answer calls with your Pixel Watch is changing](https://www.androidauthority.com/pixel-watch-incoming-calls-3674642/)
+ - [Sources: Brian Chesky is starting a new AI lab and considering a focus on user interaction and design; he will remain Airbnb CEO and will not be the lab&#39;s CEO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260604/p43#a260604p43)
+ - [iPhone 18 Pro color leaks are yet again just third-party accessories](https://appleinsider.com/articles/26/06/04/these-photos-are-the-best-leak-yet-of-iphone-18-pro-colors?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
