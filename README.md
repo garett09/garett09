@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Valve&#39;s reaction to scalpers buying out all the Steam Controllers on the day it was released](http://9gag.com/gag/avyMKgn)
- - 🚯 [Crunchy](http://9gag.com/gag/aryQQQp)
- - 🚯 [F*** This System](http://9gag.com/gag/aXPy6yD)<!-- MEMES:END -->
+ - 🚖 [Toyota Supra blind spots](http://9gag.com/gag/amoeeK4)
+ - 🚯 [Double Standards](http://9gag.com/gag/a6Z00p9)
+ - 🚯 [This is what it&#39;s all about](http://9gag.com/gag/aKGQRvN)<!-- MEMES:END -->
 
 --- 
 
