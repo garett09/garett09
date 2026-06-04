@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
- - 🚯 [F*** This System](http://9gag.com/gag/aXPy6yD)
- - 🚯 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)<!-- MEMES:END -->
+ - 🚖 [Valve&#39;s reaction to scalpers buying out all the Steam Controllers on the day it was released](http://9gag.com/gag/avyMKgn)
+ - 🚯 [Crunchy](http://9gag.com/gag/aryQQQp)
+ - 🚯 [F*** This System](http://9gag.com/gag/aXPy6yD)<!-- MEMES:END -->
 
 --- 
 
