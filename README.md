@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)
+ - 🚖 [This is how you share your catch with nature](http://9gag.com/gag/a2v33PE)
  - 🚯 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
- - 🚯 [This one brings joy](http://9gag.com/gag/a6Z0Y6q)<!-- MEMES:END -->
+ - 🚯 [Japan has no chill](http://9gag.com/gag/aAy8860)<!-- MEMES:END -->
 
 --- 
 
