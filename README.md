@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoinGecko: Hyperliquid-linked HYPE token is up ~180% YTD, lifting its market value above $16B and pushing it into the top 10 digital assets by market cap &lpar;Bloomberg&rpar;](https://www.techmeme.com/260604/p12#a260604p12)
- - [Quantum Computing Is Having Its Public Market Moment](https://www.wired.com/story/quantum-computing-is-having-its-public-market-moment-quantinuum/)
- - [5 things I learned after vibe coding my first app](https://www.androidauthority.com/lessons-learned-from-vibe-coding-app-3668652/)<!-- TECH:END -->
+ - [Robinhood plans to route some 2026 soccer World Cup bets to Rothera, shifting away from Kalshi as it seeks to diversify its prediction markets providers &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260604/p29#a260604p29)
+ - [Apple Card Savings returns keep shrinking as APY falls to 3.4%](https://appleinsider.com/articles/26/06/04/apple-card-savings-returns-keep-shrinking-as-apy-falls-to-34?utm_source=rss)
+ - [TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;](https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
