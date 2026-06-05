@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Allen Control Systems, which makes AI-powered gun turrets for shooting down drones, raised a $200M Series B led by Smash Capital at a $2.2B post-money valuation &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/260605/p15#a260605p15)
- - [Inside Madonna’s Horny Full-Throttle Grindr Takeover](https://www.wired.com/story/inside-madonnas-big-gay-grindr-takeover/)
- - [The next big step for mobile video: AV1 successor is coming, with even more data savings](https://www.androidauthority.com/av2-codec-official-3675008/)<!-- TECH:END -->
+ - [Sources: AI coding startup Lovable is in talks to raise funding at a $12B valuation, up from $6.6B in December 2025 &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260605/p27#a260605p27)
+ - [Google denies plans to make AI Mode Chrome’s default for search](https://www.androidauthority.com/google-denies-ai-mode-chrome-3675152/)
+ - [Filing: Google has agreed to pay SpaceX $920M a month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029 &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/260605/p26#a260605p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
