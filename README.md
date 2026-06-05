@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m sick of seeing $1,300 phones like the S26 Ultra get less ambitious every year](https://www.androidauthority.com/flagships-like-s26-ultra-are-stagnating-3670981/)
- - [‘Doo Doo Water and a Few Needles’: Inside the Mystery of the New York City Manhole Prowlers](https://www.wired.com/story/new-york-city-manhole-mole-people-urban-explorers/)
- - [OpenAI confirms it will follow President Trump&#39;s EO that asks AI companies to allow the US government to assess their models&#39; capabilities before release &lpar;Michael Considine/CNBC&rpar;](https://www.techmeme.com/260605/p4#a260605p4)<!-- TECH:END -->
+ - [Allen Control Systems, which makes AI-powered gun turrets for shooting down drones, raised a $200M Series B led by Smash Capital at a $2.2B post-money valuation &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/260605/p15#a260605p15)
+ - [Inside Madonna’s Horny Full-Throttle Grindr Takeover](https://www.wired.com/story/inside-madonnas-big-gay-grindr-takeover/)
+ - [The next big step for mobile video: AV1 successor is coming, with even more data savings](https://www.androidauthority.com/av2-codec-official-3675008/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
