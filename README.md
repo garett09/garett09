@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [S&amp;P Dow Jones rejected proposals to expedite S&amp;P 500 eligibility for mega-cap IPOs such as SpaceX, which remains ineligible until one year after going public &lpar;Isabelle Lee/Bloomberg&rpar;](https://www.techmeme.com/260604/p55#a260604p55)
- - [An interview with Naomi Gleit, Meta&#39;s head of product who joined the company 20 years ago, on Zuckerberg&#39;s &quot;unfair&quot; reputation, AI agents&#39; capabilities, more &lpar;Zoe Kleinman/BBC&rpar;](https://www.techmeme.com/260604/p54#a260604p54)
- - [Denver-based Scotch, which makes AI-powered payments tools for liquor retailers, raised a $20M Series A from VMG Partners, following a $10M seed in 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260604/p53#a260604p53)<!-- TECH:END -->
+ - [I’m sick of seeing $1,300 phones like the S26 Ultra get less ambitious every year](https://www.androidauthority.com/flagships-like-s26-ultra-are-stagnating-3670981/)
+ - [‘Doo Doo Water and a Few Needles’: Inside the Mystery of the New York City Manhole Prowlers](https://www.wired.com/story/new-york-city-manhole-mole-people-urban-explorers/)
+ - [OpenAI confirms it will follow President Trump&#39;s EO that asks AI companies to allow the US government to assess their models&#39; capabilities before release &lpar;Michael Considine/CNBC&rpar;](https://www.techmeme.com/260605/p4#a260605p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
