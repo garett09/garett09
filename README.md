@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True heroes of the gaming world](http://9gag.com/gag/aByApLA)
- - 🚯 [MagiKeeper](http://9gag.com/gag/a9yxoXW)
- - 🚯 [This is what it&#39;s all about](http://9gag.com/gag/aKGQRvN)<!-- MEMES:END -->
+ - 🚖 [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)
+ - 🚯 [Life in a nutshell](http://9gag.com/gag/agmDPEn)
+ - 🚯 [Be like Japan](http://9gag.com/gag/azxW0jj)<!-- MEMES:END -->
 
 --- 
 
