@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Heads-up: How you answer calls with your Pixel Watch is changing](https://www.androidauthority.com/pixel-watch-incoming-calls-3674642/)
- - [Sources: Brian Chesky is starting a new AI lab and considering a focus on user interaction and design; he will remain Airbnb CEO and will not be the lab&#39;s CEO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260604/p43#a260604p43)
- - [iPhone 18 Pro color leaks are yet again just third-party accessories](https://appleinsider.com/articles/26/06/04/these-photos-are-the-best-leak-yet-of-iphone-18-pro-colors?utm_source=rss)<!-- TECH:END -->
+ - [S&amp;P Dow Jones rejected proposals to expedite S&amp;P 500 eligibility for mega-cap IPOs such as SpaceX, which remains ineligible until one year after going public &lpar;Isabelle Lee/Bloomberg&rpar;](https://www.techmeme.com/260604/p55#a260604p55)
+ - [An interview with Naomi Gleit, Meta&#39;s head of product who joined the company 20 years ago, on Zuckerberg&#39;s &quot;unfair&quot; reputation, AI agents&#39; capabilities, more &lpar;Zoe Kleinman/BBC&rpar;](https://www.techmeme.com/260604/p54#a260604p54)
+ - [Denver-based Scotch, which makes AI-powered payments tools for liquor retailers, raised a $20M Series A from VMG Partners, following a $10M seed in 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260604/p53#a260604p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
