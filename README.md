@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the hell is even that??](http://9gag.com/gag/aW4rrEK)
- - 🚯 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)
- - 🚯 [Robot Kicks a Child](http://9gag.com/gag/awyEwmB)<!-- MEMES:END -->
+ - 🚖 [True heroes of the gaming world](http://9gag.com/gag/aByApLA)
+ - 🚯 [MagiKeeper](http://9gag.com/gag/a9yxoXW)
+ - 🚯 [This is what it&#39;s all about](http://9gag.com/gag/aKGQRvN)<!-- MEMES:END -->
 
 --- 
 
