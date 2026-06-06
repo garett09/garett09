@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the Trump admin&#39;s push to integrate AI into the healthcare system, including an FDA regulatory fast track for digital health tech like AI chatbots &lpar;Elizabeth Dwoskin/Washington Post&rpar;](https://www.techmeme.com/260606/p5#a260606p5)
- - [Paris-listed Teleperformance, the world&#39;s largest customer service company, has become one of Europe&#39;s most shorted stocks, as hedge funds bet on AI disruption &lpar;Ramsay Hodgson/Financial Times&rpar;](https://www.techmeme.com/260606/p4#a260606p4)
- - [Sources: Uber has committed nearly $500M to self-driving startup Nuro, providing a crucial runway as Nuro works to prove its technology at commercial scale &lpar;Abhirup Roy/Reuters&rpar;](https://www.techmeme.com/260606/p3#a260606p3)<!-- TECH:END -->
+ - [FOIA docs reveal Amazon&#39;s extensive control over delivery drivers it insists are not employees, in a case the NLRB sought to settle on terms favorable to Amazon &lpar;Josh Eidelson/Bloomberg&rpar;](https://www.techmeme.com/260606/p7#a260606p7)
+ - [Google TV’s screensaver is nice, but where oh where is my native Photos app?](https://www.androidauthority.com/google-photos-on-google-tv-3672689/)
+ - [Here comes new Siri again](https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
