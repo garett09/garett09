@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI coding startup Lovable is in talks to raise funding at a $12B valuation, up from $6.6B in December 2025 &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260605/p27#a260605p27)
- - [Google denies plans to make AI Mode Chrome’s default for search](https://www.androidauthority.com/google-denies-ai-mode-chrome-3675152/)
- - [Filing: Google has agreed to pay SpaceX $920M a month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029 &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/260605/p26#a260605p26)<!-- TECH:END -->
+ - [OpenAI rolls out Lockdown Mode, an optional security setting designed to offer users advanced protection from prompt injection attacks by limiting some features &lpar;Igor Bonifacic/Engadget&rpar;](https://www.techmeme.com/260605/p37#a260605p37)
+ - [Google Cloud says its SpaceX compute deal is a &quot;short-term&quot; agreement &quot;to ensure we have bridge capacity to meet surging customer demand&quot; for Gemini Enterprise &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260605/p36#a260605p36)
+ - [Privacy token Zcash plunges after the disclosure of a 2022 vulnerability in its Orchard shielded pool that could have allowed undetectable ZEC counterfeiting &lpar;Akash Girimath/Decrypt&rpar;](https://www.techmeme.com/260605/p35#a260605p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
