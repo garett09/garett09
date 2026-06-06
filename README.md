@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hold up](http://9gag.com/gag/a4PXve6)
- - 🚯 [Arrest he Epstein class](http://9gag.com/gag/aPAEN1B)
- - 🚯 [Smashing TVs, laptops, and satellites for being &#39;haram&#39;... because didn&#39;t exist in Muhammad&#39;s time. Filming it all on their phones to post online. Irony so thick it needs a fatwa.](http://9gag.com/gag/a0erA4Q)<!-- MEMES:END -->
+ - 🚖 [Interesting Personality](http://9gag.com/gag/ae9nvA5)
+ - 🚯 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
+ - 🚯 [Are you for equality?](http://9gag.com/gag/aE09LD9)<!-- MEMES:END -->
 
 --- 
 
