@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FOIA docs reveal Amazon&#39;s extensive control over delivery drivers it insists are not employees, in a case the NLRB sought to settle on terms favorable to Amazon &lpar;Josh Eidelson/Bloomberg&rpar;](https://www.techmeme.com/260606/p7#a260606p7)
- - [Google TV’s screensaver is nice, but where oh where is my native Photos app?](https://www.androidauthority.com/google-photos-on-google-tv-3672689/)
- - [Here comes new Siri again](https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini)<!-- TECH:END -->
+ - [The first Story-Rich showcase was packed with narrative-driven games](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers)
+ - [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
+ - [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
