@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Interesting Personality](http://9gag.com/gag/ae9nvA5)
  - 🚯 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
- - 🚯 [Are you for equality?](http://9gag.com/gag/aE09LD9)<!-- MEMES:END -->
+ - 🚯 [American dream](http://9gag.com/gag/aD2KBgZ)<!-- MEMES:END -->
 
 --- 
 
