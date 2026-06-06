@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)
- - 🚯 [Life in a nutshell](http://9gag.com/gag/agmDPEn)
- - 🚯 [We live in a society](http://9gag.com/gag/aW4rw0q)<!-- MEMES:END -->
+ - 🚖 [Hold up](http://9gag.com/gag/a4PXve6)
+ - 🚯 [Arrest he Epstein class](http://9gag.com/gag/aPAEN1B)
+ - 🚯 [Smashing TVs, laptops, and satellites for being &#39;haram&#39;... because didn&#39;t exist in Muhammad&#39;s time. Filming it all on their phones to post online. Irony so thick it needs a fatwa.](http://9gag.com/gag/a0erA4Q)<!-- MEMES:END -->
 
 --- 
 
