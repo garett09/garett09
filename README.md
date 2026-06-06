@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wonder what killed it](http://9gag.com/gag/avyM3WM)
- - 🚯 [Jokes are banned in the UK.](http://9gag.com/gag/ayNbgEX)
- - 🚯 [Female officer accidentally shoots a women when showing off her gun.](http://9gag.com/gag/an7mLAz)<!-- MEMES:END -->
+ - 🚖 [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)
+ - 🚯 [Life in a nutshell](http://9gag.com/gag/agmDPEn)
+ - 🚯 [We live in a society](http://9gag.com/gag/aW4rw0q)<!-- MEMES:END -->
 
 --- 
 
