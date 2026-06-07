@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kill some time with these much needed distractions](https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole)
- - [More iPhone Fold dummy shots appear in folded, open forms](https://appleinsider.com/articles/26/06/07/more-iphone-fold-dummy-shots-appear-in-folded-open-forms?utm_source=rss)
- - [iPhone 18: What We Know About Apple&#39;s Next Flagship Lineup](https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-most-ambitious-lineup-yet/)<!-- TECH:END -->
+ - [The 7 biggest storylines from Summer Game Fest 2026](https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories)
+ - [KPMG survey: only 26% of companies have a comprehensive view of their AI costs, while 50% have some visibility and 22% have none or only see costs after billing &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260607/p8#a260607p8)
+ - [Persona 6 exists, and that’s all we know](https://www.theverge.com/entertainment/945256/persona-6-teaser)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
