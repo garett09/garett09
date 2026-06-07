@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Story-Rich showcase was packed with narrative-driven games](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers)
- - [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
- - [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)<!-- TECH:END -->
+ - [How LinkedIn is transforming into a &quot;post-cringe&quot; social network as it courts high-profile influencers, who are building audiences on corporate-friendly topics &lpar;Isabella Kwai/New York Times&rpar;](https://www.techmeme.com/260606/p12#a260606p12)
+ - [Report: in May, supply of unsecured bonds from hyperscalers hit $155B YTD, 45%+ more than 2025&#39;s total issuance; some AI-infra bond sales are 4x oversubscribed &lpar;Caleb Mutua/Bloomberg&rpar;](https://www.techmeme.com/260606/p11#a260606p11)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 7, #826](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-7-826/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
