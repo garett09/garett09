@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JMGO’s N3 Ultimate projector is the new portable 4K champ](https://www.theverge.com/reviews/943732/best-portable-4k-projector-review)
- - [Q&amp;A with Google DeepMind&#39;s Director of AGI Economics Alex Imas and Epoch AI&#39;s Phil Trammell on what remains scarce after AGI, redistributing AI wealth, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/260607/p5#a260607p5)
- - [ASML CEO Christophe Fouquet applauds the EU&#39;s tech sovereignty plans but says substantial EU involvement in steering &quot;strategic projects&quot; is a cause for concern &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/260607/p4#a260607p4)<!-- TECH:END -->
+ - [Kill some time with these much needed distractions](https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole)
+ - [More iPhone Fold dummy shots appear in folded, open forms](https://appleinsider.com/articles/26/06/07/more-iphone-fold-dummy-shots-appear-in-folded-open-forms?utm_source=rss)
+ - [iPhone 18: What We Know About Apple&#39;s Next Flagship Lineup](https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-most-ambitious-lineup-yet/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
