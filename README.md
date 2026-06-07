@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How LinkedIn is transforming into a &quot;post-cringe&quot; social network as it courts high-profile influencers, who are building audiences on corporate-friendly topics &lpar;Isabella Kwai/New York Times&rpar;](https://www.techmeme.com/260606/p12#a260606p12)
- - [Report: in May, supply of unsecured bonds from hyperscalers hit $155B YTD, 45%+ more than 2025&#39;s total issuance; some AI-infra bond sales are 4x oversubscribed &lpar;Caleb Mutua/Bloomberg&rpar;](https://www.techmeme.com/260606/p11#a260606p11)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 7, #826](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-7-826/)<!-- TECH:END -->
+ - [JMGO’s N3 Ultimate projector is the new portable 4K champ](https://www.theverge.com/reviews/943732/best-portable-4k-projector-review)
+ - [Q&amp;A with Google DeepMind&#39;s Director of AGI Economics Alex Imas and Epoch AI&#39;s Phil Trammell on what remains scarce after AGI, redistributing AI wealth, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/260607/p5#a260607p5)
+ - [ASML CEO Christophe Fouquet applauds the EU&#39;s tech sovereignty plans but says substantial EU involvement in steering &quot;strategic projects&quot; is a cause for concern &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/260607/p4#a260607p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
