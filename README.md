@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First a yellow card, then a selfie. Kaka is a nice guy.](http://9gag.com/gag/a1myzp2)
+ - 🚖 [Friends for Eve](http://9gag.com/gag/a9yx3Pm)
  - 🚯 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)
- - 🚯 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)<!-- MEMES:END -->
+ - 🚯 [Once again](http://9gag.com/gag/aXPy8pb)<!-- MEMES:END -->
 
 --- 
 
