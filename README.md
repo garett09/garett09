@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting Personality](http://9gag.com/gag/ae9nvA5)
- - 🚯 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
- - 🚯 [American dream](http://9gag.com/gag/aD2KBgZ)<!-- MEMES:END -->
+ - 🚖 [First a yellow card, then a selfie. Kaka is a nice guy.](http://9gag.com/gag/a1myzp2)
+ - 🚯 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)
+ - 🚯 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)<!-- MEMES:END -->
 
 --- 
 
