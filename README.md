@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reality check](http://9gag.com/gag/abANPAr)
- - 🚯 [She&#39;s vampire](http://9gag.com/gag/aAy8Wyo)
- - 🚯 [The jokes write themselves with these people.](http://9gag.com/gag/aZZ6AL0)<!-- MEMES:END -->
+ - 🚖 [Found my future wife](http://9gag.com/gag/a7oYjvr)
+ - 🚯 [Once again](http://9gag.com/gag/aXPy8pb)
+ - 🚯 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)<!-- MEMES:END -->
 
 --- 
 
