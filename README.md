@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NY-based A Security, which uses AI to automate offensive cybersecurity, emerges from stealth with $37M in funding from Lightspeed, Wiz&#39;s Assaf Rapaport, others &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260608/p17#a260608p17)
- - [Galaxy Tab S12 Ultra leak says Samsung is disappointingly sticking with this spec](https://www.androidauthority.com/galaxy-tab-s12-battery-capacity-3675511/)
- - [Eero’s Pro 6E routers are down to their cheapest price yet in 2026](https://www.theverge.com/gadgets/945656/eero-pro-6e-mesh-wifi-garmin-fenix-asus-oled-gaming-deal-sale)<!-- TECH:END -->
+ - [Everything Apple Announced at WWDC 2026](https://www.wired.com/story/everything-apple-announced-at-wwdc-2026/)
+ - [Spatial computing &amp; Apple Intelligence upgrades collide in visionOS 27](https://appleinsider.com/articles/26/06/08/spatial-computing-apple-intelligence-upgrades-collide-in-visionos-27?utm_source=rss)
+ - [Apple announces new features for the Home app, including AI-generated descriptions of HomeKit Secure Video camera clips and smarter grouping of notifications &lpar;Hartley Charlton/MacRumors&rpar;](https://www.techmeme.com/260608/p50#a260608p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
