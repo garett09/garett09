@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deep tissue massages be like](http://9gag.com/gag/aZZebPW)
- - 🚯 [Getting a date....by a royal decree](http://9gag.com/gag/awyEq64)
- - 🚯 [What a VIEW](http://9gag.com/gag/a9yojrm)<!-- MEMES:END -->
+ - 🚖 [....](http://9gag.com/gag/a34mvOQ)
+ - 🚯 [Unexpected result](http://9gag.com/gag/aByp9wx)
+ - 🚯 [Each flip adds a grey hair in their head](http://9gag.com/gag/ae9LKmO)<!-- MEMES:END -->
 
 --- 
 
