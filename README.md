@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 apps you should use instead of NotebookLM](https://www.androidauthority.com/notebooklm-alternatives-3672278/)
- - [Apple WWDC 2026 Live Blog: All the Updates, as They Happen](https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen/)
- - [Afroman Is Back—and He’s Bitcoin’s Latest Freedom Fighter](https://www.wired.com/afroman-bitcoin-conference-free-speech/)<!-- TECH:END -->
+ - [NY-based A Security, which uses AI to automate offensive cybersecurity, emerges from stealth with $37M in funding from Lightspeed, Wiz&#39;s Assaf Rapaport, others &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260608/p17#a260608p17)
+ - [Galaxy Tab S12 Ultra leak says Samsung is disappointingly sticking with this spec](https://www.androidauthority.com/galaxy-tab-s12-battery-capacity-3675511/)
+ - [Eero’s Pro 6E routers are down to their cheapest price yet in 2026](https://www.theverge.com/gadgets/945656/eero-pro-6e-mesh-wifi-garmin-fenix-asus-oled-gaming-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
