@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it will tighten human rights controls when working with national security agencies after an inquiry found Israel&#39;s Unit 8200 violated its ToS &lpar;The Guardian&rpar;](https://www.techmeme.com/260607/p14#a260607p14)
- - [UK-based Creator Fund closes a $56M fund to back European PhD founders, reaching them in universities before they&#39;re pulled into academia, Big Tech, or US labs &lpar;Mike Butcher/Pathfounders&rpar;](https://www.techmeme.com/260607/p13#a260607p13)
- - [Fusion energy startup Helion raised a $465M Series G led by Thrive Capital at a $15.5B valuation, nearly tripling the valuation from its January 2025 round &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260607/p12#a260607p12)<!-- TECH:END -->
+ - [5 apps you should use instead of NotebookLM](https://www.androidauthority.com/notebooklm-alternatives-3672278/)
+ - [Apple WWDC 2026 Live Blog: All the Updates, as They Happen](https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen/)
+ - [Afroman Is Back—and He’s Bitcoin’s Latest Freedom Fighter](https://www.wired.com/afroman-bitcoin-conference-free-speech/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
