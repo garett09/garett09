@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Found my future wife](http://9gag.com/gag/a7oYjvr)
- - 🚯 [Once again](http://9gag.com/gag/aXPy8pb)
- - 🚯 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)<!-- MEMES:END -->
+ - 🚯 [I hope she wins.](http://9gag.com/gag/a1m9pLb)
+ - 🚯 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)<!-- MEMES:END -->
 
 --- 
 
