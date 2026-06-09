@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)
- - 🚯 [Basics of Gate Construction](http://9gag.com/gag/aNDNrVr)
- - 🚯 [Critics reviews are useless against the public reviews](http://9gag.com/gag/aPA5w2G)<!-- MEMES:END -->
+ - 🚖 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)
+ - 🚯 [Kitty Kat](http://9gag.com/gag/agmW3bg)
+ - 🚯 [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)<!-- MEMES:END -->
 
 --- 
 
