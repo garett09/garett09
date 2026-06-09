@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pro Potter](http://9gag.com/gag/aW4zBP2)
- - 🚯 [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)
- - 🚯 [Another King](http://9gag.com/gag/aoyXEY0)<!-- MEMES:END -->
+ - 🚖 [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)
+ - 🚯 [Basics of Gate Construction](http://9gag.com/gag/aNDNrVr)
+ - 🚯 [Critics reviews are useless against the public reviews](http://9gag.com/gag/aPA5w2G)<!-- MEMES:END -->
 
 --- 
 
