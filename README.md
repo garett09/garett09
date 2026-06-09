@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 27 finally gets a basic volume feature that Android has had for years](https://www.androidauthority.com/ios-27-independent-volume-controls-3675772/)
- - [I ditched my Kindles, but Amazon could win me back with one launch](https://www.androidauthority.com/amazon-needs-a-pocket-sized-kindle-scribe-3674745/)
- - [Gemini for Home update brings better weather forecasts, news briefs, and more](https://www.androidauthority.com/google-gemini-for-home-upgrade-3675769/)<!-- TECH:END -->
+ - [How to control separate alarm &amp; notification alert volumes iOS 27](https://appleinsider.com/inside/ios-27/tips/how-to-control-separate-alarm-notification-alert-volumes-ios-27?utm_source=rss)
+ - [China starts operations of the world&#39;s first wind-powered underwater data center off Shanghai coast, and says it uses 20% less power than land-based facilities &lpar;Amy Hawkins/The Guardian&rpar;](https://www.techmeme.com/260609/p20#a260609p20)
+ - [Apple’s AI promises are finally, almost, sort of, here](https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
