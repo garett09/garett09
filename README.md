@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Golden Gate menus revert to having no icons by each item, as it should be](https://appleinsider.com/articles/26/06/09/macos-golden-gate-menus-revert-to-having-no-icons-by-each-item-as-it-should-be?utm_source=rss)
- - [Xiaomi claims MiMo-V2.5-Pro-UltraSpeed tops 1K tokens/second, a first at the 1T-parameter scale, using a standard 8-GPU commodity node; API trial starts June 9 &lpar;Jose Antonio Lanz/Decrypt&rpar;](https://www.techmeme.com/260608/p63#a260608p63)
- - [Sam Altman and Jakub Pachocki claim OpenAI is &quot;entering the third phase&quot;, aiming to automate AI research, boost the economy, and give everyone a personal AGI &lpar;OpenAI&rpar;](https://www.techmeme.com/260608/p62#a260608p62)<!-- TECH:END -->
+ - [iOS 27 finally gets a basic volume feature that Android has had for years](https://www.androidauthority.com/ios-27-independent-volume-controls-3675772/)
+ - [I ditched my Kindles, but Amazon could win me back with one launch](https://www.androidauthority.com/amazon-needs-a-pocket-sized-kindle-scribe-3674745/)
+ - [Gemini for Home update brings better weather forecasts, news briefs, and more](https://www.androidauthority.com/google-gemini-for-home-upgrade-3675769/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
