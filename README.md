@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to control separate alarm &amp; notification alert volumes iOS 27](https://appleinsider.com/inside/ios-27/tips/how-to-control-separate-alarm-notification-alert-volumes-ios-27?utm_source=rss)
- - [China starts operations of the world&#39;s first wind-powered underwater data center off Shanghai coast, and says it uses 20% less power than land-based facilities &lpar;Amy Hawkins/The Guardian&rpar;](https://www.techmeme.com/260609/p20#a260609p20)
- - [Apple’s AI promises are finally, almost, sort of, here](https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here)<!-- TECH:END -->
+ - [Apple says 79% of all iPhones and 86% of iPhones released in the last four years were running iOS 26 as of June 7, vs. 82% and 88% for iOS 18 before WWDC 2025 &lpar;Joe Rossignol/MacRumors&rpar;](https://www.techmeme.com/260609/p35#a260609p35)
+ - [Pretty trees and Local Lists: Apple Maps gets a big upgrade in iOS 27](https://appleinsider.com/articles/26/06/09/pretty-trees-and-local-lists-apple-maps-gets-a-big-upgrade-in-ios-27?utm_source=rss)
+ - [What Happens When Apple and Google Team Up to Build AI? 5 New Models](https://www.cnet.com/tech/services-and-software/apple-intelligence-models-wwdc-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
