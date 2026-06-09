@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)
- - 🚯 [Kitty Kat](http://9gag.com/gag/agmW3bg)
- - 🚯 [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)<!-- MEMES:END -->
+ - 🚖 [Happy ending.](http://9gag.com/gag/a87ZLP6)
+ - 🚯 [So real.](http://9gag.com/gag/aZZebd0)
+ - 🚯 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)<!-- MEMES:END -->
 
 --- 
 
