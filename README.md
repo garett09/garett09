@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy ending.](http://9gag.com/gag/a87ZLP6)
- - 🚯 [So real.](http://9gag.com/gag/aZZebd0)
- - 🚯 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)<!-- MEMES:END -->
+ - 🚖 [Someone finally snapped](http://9gag.com/gag/abA75RE)
+ - 🚯 [Footage from old days](http://9gag.com/gag/aBypRVQ)
+ - 🚯 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)<!-- MEMES:END -->
 
 --- 
 
