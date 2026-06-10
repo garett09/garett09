@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Webb Industries penthouse safe code location in 007 First Light](https://www.polygon.com/007-first-light-penthouse-safe-code-webb-industries-location/)
- - [All 007 First Light safe codes and door codes](https://www.polygon.com/007-first-light-all-safe-door-codes-list/)
- - [&#39;Proper big&#39;: The Witcher 3&#39;s new expansion will be &#39;closer to Blood and Wine&#39; in scope](https://www.pcgamer.com/games/the-witcher/proper-big-the-witcher-3s-new-expansion-will-be-closer-to-blood-and-wine-in-scope/)<!-- GAME:END -->
+ - [Dengeki Daisy anime officially confirmed by Aniplex and Studio Deen with 2027 release](https://www.polygon.com/aniplex-is-reviving-this-beloved-romance-manga-nearly-20-years-after-its-debut/)
+ - [Aliens: Fireteam Elite 2 preview: A flashy and entertaining co-op shooter](https://www.polygon.com/aliens-fireteam-elite-2-preview/)
+ - [Kingdom Hearts fans cry foul over AI-generated artwork claims](https://www.polygon.com/kingdom-hearts-collection-ai-art-square-enix/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
