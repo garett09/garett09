@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)
- - 🚯 [Intelligence and wisdom on display](http://9gag.com/gag/a7oQKdw)
- - 🚯 [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)<!-- MEMES:END -->
+ - 🚖 [Footage from old days](http://9gag.com/gag/aBypRVQ)
+ - 🚯 [And so it begins](http://9gag.com/gag/an76X7q)
+ - 🚯 [Women, am I right?](http://9gag.com/gag/a4PvKBy)<!-- MEMES:END -->
 
 --- 
 
