@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone finally snapped](http://9gag.com/gag/abA75RE)
- - 🚯 [Footage from old days](http://9gag.com/gag/aBypRVQ)
- - 🚯 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)<!-- MEMES:END -->
+ - 🚖 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)
+ - 🚯 [Intelligence and wisdom on display](http://9gag.com/gag/a7oQKdw)
+ - 🚯 [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)<!-- MEMES:END -->
 
 --- 
 
