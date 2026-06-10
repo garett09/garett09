@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Footage from old days](http://9gag.com/gag/aBypRVQ)
- - 🚯 [And so it begins](http://9gag.com/gag/an76X7q)
- - 🚯 [Women, am I right?](http://9gag.com/gag/a4PvKBy)<!-- MEMES:END -->
+ - 🚖 [Someone finally snapped](http://9gag.com/gag/abA75RE)
+ - 🚯 [Prayers do come true](http://9gag.com/gag/avyNZPM)
+ - 🚯 [And so it begins](http://9gag.com/gag/an76X7q)<!-- MEMES:END -->
 
 --- 
 
