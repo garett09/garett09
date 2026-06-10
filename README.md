@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank&#39;s talks with creditors to raise $6B through a margin loan backed by its OpenAI stake have stalled, weeks after it cut its target from $10B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p47#a260609p47)
- - [Stepful, an AI-powered online training platform for healthcare workers, raised a $55M Series C led by Oak HC/FT, bringing its total funding to $105M &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/260609/p46#a260609p46)
- - [Seattle City Council votes 9-0 to enact a one-year moratorium on new large data centers and study their impact; Mayor Katie Wilson is expected to sign the bill &lpar;Greg Kim/The Seattle Times&rpar;](https://www.techmeme.com/260609/p45#a260609p45)<!-- TECH:END -->
+ - [Tata&#39;s chairman predicts AI agents will cut half the jobs at Tata Consultancy Services, and says TCS plans to reduce hiring in coming years as it ramps up AI &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260610/p15#a260610p15)
+ - [Budget Linux or premium Android? TRIMUI’s upcoming Brick handheld lineup gives you two options](https://www.androidauthority.com/trimui-brick-hammer-pro-u-brick-pro-specs-reveal-3676159/)
+ - [Swedish autonomous truck company Einride will debut on the Nasdaq today after completing a SPAC merger at a pre-money valuation of $1.35B &lpar;Dominic Chopping/Wall Street Journal&rpar;](https://www.techmeme.com/260610/p14#a260610p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
