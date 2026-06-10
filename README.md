@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Watch Series 11 is back to its best price](https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale)
- - [WMG acquires AI attribution startup Sureel, as it seeks to track when its songs and recordings are used in the training of AI models or in AI-generated works &lpar;Kristin Robinson/Billboard&rpar;](https://www.techmeme.com/260610/p37#a260610p37)
- - [Tesla has just 59 vehicles in its robotaxi fleet and is limited to three Texas cities after almost a year, nowhere close to Elon Musk&#39;s big promises &lpar;Kara Carlson/Bloomberg&rpar;](https://www.techmeme.com/260610/p36#a260610p36)<!-- TECH:END -->
+ - [Kalshi adds required employment verification for some prediction market bets](https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading)
+ - [Having trouble with Strava? Here’s what’s going on](https://www.androidauthority.com/strava-experiencing-outage-3676560/)
+ - [Anthropic releases two policy proposals on how governments should address catastrophic risks and manage labor market disruption from advanced AI systems &lpar;Anthropic&rpar;](https://www.techmeme.com/260610/p53#a260610p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
