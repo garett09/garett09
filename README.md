@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says 79% of all iPhones and 86% of iPhones released in the last four years were running iOS 26 as of June 7, vs. 82% and 88% for iOS 18 before WWDC 2025 &lpar;Joe Rossignol/MacRumors&rpar;](https://www.techmeme.com/260609/p35#a260609p35)
- - [Pretty trees and Local Lists: Apple Maps gets a big upgrade in iOS 27](https://appleinsider.com/articles/26/06/09/pretty-trees-and-local-lists-apple-maps-gets-a-big-upgrade-in-ios-27?utm_source=rss)
- - [What Happens When Apple and Google Team Up to Build AI? 5 New Models](https://www.cnet.com/tech/services-and-software/apple-intelligence-models-wwdc-2026/)<!-- TECH:END -->
+ - [Sources: SoftBank&#39;s talks with creditors to raise $6B through a margin loan backed by its OpenAI stake have stalled, weeks after it cut its target from $10B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p47#a260609p47)
+ - [Stepful, an AI-powered online training platform for healthcare workers, raised a $55M Series C led by Oak HC/FT, bringing its total funding to $105M &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/260609/p46#a260609p46)
+ - [Seattle City Council votes 9-0 to enact a one-year moratorium on new large data centers and study their impact; Mayor Katie Wilson is expected to sign the bill &lpar;Greg Kim/The Seattle Times&rpar;](https://www.techmeme.com/260609/p45#a260609p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
