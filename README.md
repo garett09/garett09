@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox CEO Warns About Next-Gen Console Gaming’s Cost Crisis: ‘We Will Start To See Radically Different Business Models’](https://kotaku.com/xbox-ceo-warns-about-next-gen-console-gamings-cost-crisis-we-will-start-to-see-radically-different-business-models-2000704611)
- - [Kingdom Hearts Fans Think They’ve Unraveled The Bizarre Mystery Surrounding Alleged AI-Assisted Box Art](https://kotaku.com/kingdom-hearts-fans-think-theyve-unraveled-the-bizarre-mystery-surrounding-alleged-ai-assisted-box-art-2000704609)
- - [Dengeki Daisy anime officially confirmed by Aniplex and Studio Deen with 2027 release](https://www.polygon.com/aniplex-is-reviving-this-beloved-romance-manga-nearly-20-years-after-its-debut/)<!-- GAME:END -->
+ - [Redditor finds AMD museum piece that once belonged to ex-CEO Rory Read, stashed away in a basement](https://www.pcgamer.com/hardware/redditor-finds-amd-museum-piece-that-once-belonged-to-ex-ceo-rory-read-stashed-away-in-a-basement/)
+ - [Archetype Entertainment founder and BioWare veteran wishes Exodus didn&#39;t look so much like Mass Effect](https://www.pcgamer.com/games/rpg/archetype-entertainment-founder-and-bioware-veteran-wishes-exodus-didnt-look-so-much-like-mass-effect/)
+ - [Facebook bio drama The Social Reckoning gets first trailer, release date](https://www.polygon.com/the-social-reckoning-reveal-trailer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
