@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone finally snapped](http://9gag.com/gag/abA75RE)
- - 🚯 [Prayers do come true](http://9gag.com/gag/avyNZPM)
- - 🚯 [And so it begins](http://9gag.com/gag/an76X7q)<!-- MEMES:END -->
+ - 🚖 [News from the front](http://9gag.com/gag/aKGRP7Q)
+ - 🚯 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - 🚯 [Cartoon logic](http://9gag.com/gag/amo30N6)<!-- MEMES:END -->
 
 --- 
 
