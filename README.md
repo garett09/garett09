@@ -133,9 +133,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Redditor finds AMD museum piece that once belonged to ex-CEO Rory Read, stashed away in a basement](https://www.pcgamer.com/hardware/redditor-finds-amd-museum-piece-that-once-belonged-to-ex-ceo-rory-read-stashed-away-in-a-basement/)
- - [Archetype Entertainment founder and BioWare veteran wishes Exodus didn&#39;t look so much like Mass Effect](https://www.pcgamer.com/games/rpg/archetype-entertainment-founder-and-bioware-veteran-wishes-exodus-didnt-look-so-much-like-mass-effect/)
- - [Facebook bio drama The Social Reckoning gets first trailer, release date](https://www.polygon.com/the-social-reckoning-reveal-trailer/)<!-- GAME:END -->
+ - [&#39;An evolved game of cat and mouse:&#39; Alien: Isolation 2 leads on taking the alien outside, the good kind of AI, and why a sequel took so long](https://www.pcgamer.com/games/horror/an-evolved-game-of-cat-and-mouse-alien-isolation-2-leads-on-taking-the-alien-outside-the-good-kind-of-ai-and-why-a-sequel-took-so-long/)
+ - [How Street Fighter 6 Landed Tifa And Why She’s Not The Start Of A Flood Of New Guest Characters](https://kotaku.com/how-street-fighter-6-landed-tifa-and-why-shes-not-the-start-of-a-flood-of-new-guest-characters-2000704984)
+ - [Are these real posts from the r/skyrimmods subreddit, or did I make them up? Take our newest and rudest quiz!](https://www.pcgamer.com/games/are-these-real-posts-from-the-r-skyrimmods-subreddit-or-did-i-make-them-up-take-our-newest-and-rudest-quiz/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
