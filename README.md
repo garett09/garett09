@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kalshi adds required employment verification for some prediction market bets](https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading)
- - [Having trouble with Strava? Here’s what’s going on](https://www.androidauthority.com/strava-experiencing-outage-3676560/)
- - [Anthropic releases two policy proposals on how governments should address catastrophic risks and manage labor market disruption from advanced AI systems &lpar;Anthropic&rpar;](https://www.techmeme.com/260610/p53#a260610p53)<!-- TECH:END -->
+ - [Letter: Texas Governor Greg Abbott released regulatory recommendations for state lawmakers to ensure that data centers shoulder the costs of their growth &lpar;The Texas Tribune&rpar;](https://www.techmeme.com/260610/p67#a260610p67)
+ - [Sources: OpenAI is considering drastically lowering its price for tokens in anticipation of similar cuts the company expects at Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260610/p66#a260610p66)
+ - [Product head Alex Benzer says Bluesky plans to add &quot;communities&quot; this year, smaller spaces to &quot;go deeper and hang out with people who care about the same stuff&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260610/p65#a260610p65)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
