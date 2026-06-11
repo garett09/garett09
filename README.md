@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Citigroup launches a blockchain-based platform for wealthy and institutional clients to trade tokenized shares of private firms, initially for foreign investors &lpar;Gina Heeb/Wall Street Journal&rpar;](https://www.techmeme.com/260611/p32#a260611p32)
- - [Is Apple TV the new HBO?](https://www.theverge.com/column/948295/apple-tv-new-hbo)
- - [OpenAI acquires Ona, which offers cloud services to support AI agents, and plans to bring Ona&#39;s team into its Codex effort &lpar;Seth Fiegerman/Bloomberg&rpar;](https://www.techmeme.com/260611/p31#a260611p31)<!-- TECH:END -->
+ - [Poll reveals just how conflicted you feel about Google in the Gemini era](https://www.androidauthority.com/google-ecosystem-poll-results-3676885/)
+ - [Logitech’s awesome MX Master 3S mouse drops to under $100](https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal)
+ - [SpaceX raises $75B in the biggest-ever IPO, after selling 555.6M shares at $135 each, giving it a market value of $1.77T &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260611/p44#a260611p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
