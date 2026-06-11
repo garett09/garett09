@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Content creator at work](http://9gag.com/gag/aMVgrpM)
- - 🚯 [F**k you motherf**ker you damn get the f**k out](http://9gag.com/gag/a6ZPLo9)
- - 🚯 [The Sagrada Fam\u00edlia, the largest cathedral ever built, was inaugurated today after 144 years of construction.](http://9gag.com/gag/ae9L0vQ)<!-- MEMES:END -->
+ - 🚖 [Quick..hide behind the car..die](http://9gag.com/gag/aNDNKpA)
+ - 🚯 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
+ - 🚯 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
 
 --- 
 
