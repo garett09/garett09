@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [News from the front](http://9gag.com/gag/aKGRP7Q)
- - 🚯 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - 🚯 [Cartoon logic](http://9gag.com/gag/amo30N6)<!-- MEMES:END -->
+ - 🚖 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - 🚯 [News from the front](http://9gag.com/gag/aKGRP7Q)
+ - 🚯 [Caught off guard with that perplexed expression](http://9gag.com/gag/aGyXwo5)<!-- MEMES:END -->
 
 --- 
 
