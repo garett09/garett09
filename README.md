@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Caught off guard with that perplexed expression](http://9gag.com/gag/aGyXwo5)
- - 🚯 [The Sagrada Fam\u00edlia, the largest cathedral ever built, was inaugurated today after 144 years of construction.](http://9gag.com/gag/ae9L0vQ)
- - 🚯 [When Your Boat Remembers It&#39;s Actually a Submarine](http://9gag.com/gag/awyw7Lr)<!-- MEMES:END -->
+ - 🚖 [Content creator at work](http://9gag.com/gag/aMVgrpM)
+ - 🚯 [F**k you motherf**ker you damn get the f**k out](http://9gag.com/gag/a6ZPLo9)
+ - 🚯 [The Sagrada Fam\u00edlia, the largest cathedral ever built, was inaugurated today after 144 years of construction.](http://9gag.com/gag/ae9L0vQ)<!-- MEMES:END -->
 
 --- 
 
