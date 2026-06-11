@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s philanthropic arm, Google.org, commits $50M to help train 300K+ skilled trade workers across the US, amid a shortage of workers for AI projects &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260611/p8#a260611p8)
- - [YouTube is introducing DMs &lpar;again&rpar;](https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-feature-availability)
- - [Babbel or Duolingo? This is our polled readers’ favorite language-learning app](https://www.androidauthority.com/favorite-language-learning-app-poll-results-3676641/)<!-- TECH:END -->
+ - [Citigroup launches a blockchain-based platform for wealthy and institutional clients to trade tokenized shares of private firms, initially for foreign investors &lpar;Gina Heeb/Wall Street Journal&rpar;](https://www.techmeme.com/260611/p32#a260611p32)
+ - [Is Apple TV the new HBO?](https://www.theverge.com/column/948295/apple-tv-new-hbo)
+ - [OpenAI acquires Ona, which offers cloud services to support AI agents, and plans to bring Ona&#39;s team into its Codex effort &lpar;Seth Fiegerman/Bloomberg&rpar;](https://www.techmeme.com/260611/p31#a260611p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
