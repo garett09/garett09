@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll reveals just how conflicted you feel about Google in the Gemini era](https://www.androidauthority.com/google-ecosystem-poll-results-3676885/)
- - [Logitech’s awesome MX Master 3S mouse drops to under $100](https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal)
- - [SpaceX raises $75B in the biggest-ever IPO, after selling 555.6M shares at $135 each, giving it a market value of $1.77T &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260611/p44#a260611p44)<!-- TECH:END -->
+ - [An interview with Grindr CEO George Arison on turning the dating app into a &quot;global gayborhood&quot; hub with services for HIV treatment, hotel bookings, and more &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260611/p54#a260611p54)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, June 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-12/)
+ - [Nesto, a Montreal-based mortgage and finance tech startup, raised a CA$302M Series E at a CA$1.47B valuation to expedite deployment of its lending platform &lpar;Alex Riehl/BetaKit&rpar;](https://www.techmeme.com/260611/p53#a260611p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
