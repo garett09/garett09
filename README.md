@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Grindr CEO George Arison on turning the dating app into a &quot;global gayborhood&quot; hub with services for HIV treatment, hotel bookings, and more &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260611/p54#a260611p54)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, June 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-12/)
- - [Nesto, a Montreal-based mortgage and finance tech startup, raised a CA$302M Series E at a CA$1.47B valuation to expedite deployment of its lending platform &lpar;Alex Riehl/BetaKit&rpar;](https://www.techmeme.com/260611/p53#a260611p53)<!-- TECH:END -->
+ - [Memory chipmaker Kioxia replaces Toyota as Japan&#39;s most valuable company; Kioxia&#39;s shares surged 7.6% on Friday, lifting its market value to ~$274B &lpar;Kanoko Matsuyama/Bloomberg&rpar;](https://www.techmeme.com/260612/p6#a260612p6)
+ - [Gemini is copying the worst thing about Claude, and I hate it](https://www.androidauthority.com/gemini-copies-claude-limits-bad-3674550/)
+ - [You Probably Won’t Get Rich Off the SpaceX IPO](https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
