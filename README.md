@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)
- - 🚯 [What a beautiful memory](http://9gag.com/gag/a9yoL3D)
- - 🚯 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)<!-- MEMES:END -->
+ - 🚖 [Pro tip](http://9gag.com/gag/a1m9Xpv)
+ - 🚯 [My favorite scene of the entire match](http://9gag.com/gag/ajPpA8w)
+ - 🚯 [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)<!-- MEMES:END -->
 
 --- 
 
