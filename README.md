@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX’s massive IPO: all the latest news](https://www.theverge.com/business/948996/spacex-ipo-elon-musk)
- - [Facebook and Instagram are experiencing a service interruption](https://www.androidauthority.com/facebook-down-2-3677190/)
- - [Apple and the American Academy of Pediatrics have a plan to teach healthy digital habits to kids](https://appleinsider.com/articles/26/06/12/apple-and-the-american-academy-of-pediatrics-have-a-plan-to-teach-healthy-digital-habits-to-kids?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Roku is in talks to sell itself; its shares have risen about 24% this year, giving the company a market value of $19.9B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260612/p24#a260612p24)
+ - [Owning an Apple Home: Robots, maintenance, and chores](https://appleinsider.com/articles/26/06/12/owning-an-apple-home-robots-maintenance-and-chores?utm_source=rss)
+ - [Staff memo: Meta plans to limit employee token usage and encourage employees to use MetaCode, after internal AI spending forecasts reached billions for 2026 &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260612/p23#a260612p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
