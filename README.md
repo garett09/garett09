@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pro tip](http://9gag.com/gag/a1m9Xpv)
- - 🚯 [My favorite scene of the entire match](http://9gag.com/gag/ajPpA8w)
- - 🚯 [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)<!-- MEMES:END -->
+ - 🚖 [They are now filming themselves going up to strangers and doing stuff then justifying it with `I thought you were a Juror at Karmelo Anthony&#39;s case`](http://9gag.com/gag/agmWNvw)
+ - 🚯 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
+ - 🚯 [My favorite scene of the entire match](http://9gag.com/gag/ajPpA8w)<!-- MEMES:END -->
 
 --- 
 
