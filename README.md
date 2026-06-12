@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memory chipmaker Kioxia replaces Toyota as Japan&#39;s most valuable company; Kioxia&#39;s shares surged 7.6% on Friday, lifting its market value to ~$274B &lpar;Kanoko Matsuyama/Bloomberg&rpar;](https://www.techmeme.com/260612/p6#a260612p6)
- - [Gemini is copying the worst thing about Claude, and I hate it](https://www.androidauthority.com/gemini-copies-claude-limits-bad-3674550/)
- - [You Probably Won’t Get Rich Off the SpaceX IPO](https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/)<!-- TECH:END -->
+ - [SpaceX’s massive IPO: all the latest news](https://www.theverge.com/business/948996/spacex-ipo-elon-musk)
+ - [Facebook and Instagram are experiencing a service interruption](https://www.androidauthority.com/facebook-down-2-3677190/)
+ - [Apple and the American Academy of Pediatrics have a plan to teach healthy digital habits to kids](https://appleinsider.com/articles/26/06/12/apple-and-the-american-academy-of-pediatrics-have-a-plan-to-teach-healthy-digital-habits-to-kids?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
