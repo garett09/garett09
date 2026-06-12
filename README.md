@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quick..hide behind the car..die](http://9gag.com/gag/aNDNKpA)
- - 🚯 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
- - 🚯 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
+ - 🚖 [Doom was ahead of its time](http://9gag.com/gag/a0eBpNQ)
+ - 🚯 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - 🚯 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)<!-- MEMES:END -->
 
 --- 
 
