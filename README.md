@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every paper straw counts. Not!](http://9gag.com/gag/aD2ymEN)
- - 🚯 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - 🚯 [Alchemyanderis](http://9gag.com/gag/aKGRqZb)<!-- MEMES:END -->
+ - 🚖 [Do your job. Ref](http://9gag.com/gag/azxnAKN)
+ - 🚯 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
+ - 🚯 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)<!-- MEMES:END -->
 
 --- 
 
