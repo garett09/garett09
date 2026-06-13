@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
+ - 🚖 [Every paper straw counts. Not!](http://9gag.com/gag/aD2ymEN)
  - 🚯 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - 🚯 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)<!-- MEMES:END -->
+ - 🚯 [Alchemyanderis](http://9gag.com/gag/aKGRqZb)<!-- MEMES:END -->
 
 --- 
 
