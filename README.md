@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Creativ](http://9gag.com/gag/abA70Pr)
- - 🚯 [`And I&#39;ll do it again` look.](http://9gag.com/gag/avyNnPn)
- - 🚯 [We all been there!](http://9gag.com/gag/aQzG8Pe)<!-- MEMES:END -->
+ - 🚖 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
+ - 🚯 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
+ - 🚯 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)<!-- MEMES:END -->
 
 --- 
 
