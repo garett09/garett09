@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US government just forced Anthropic to pull its most advanced AI models](https://www.androidauthority.com/us-government-anthropic-fable-5-mythos-5-suspension-3677315/)
- - [After years of false dawns, Big Tech, startups, and governments are betting on commercially useful quantum computers by 2030, as skeptics worry about hype &lpar;Michael Peel/Financial Times&rpar;](https://www.techmeme.com/260613/p4#a260613p4)
- - [Here’s How AI Agents Can Protect EV Chargers](https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/)<!-- TECH:END -->
+ - [A review of The Yahoo Boys, a deeply reported book on four online scammers in Lagos, Nigeria, exploring how and why they scam and the local impact of the trade &lpar;Jessica Loudis/Bloomberg&rpar;](https://www.techmeme.com/260613/p6#a260613p6)
+ - [Anthropic cuts off Fable 5 and Mythos 5 access following government order](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security)
+ - [MacBook Neo vs Dell XPS 13: $599 budget battle, compared](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-dell-xps-13-599-budget-battle-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
