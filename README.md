@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Ukrainian extradited from Ireland to the US pleads guilty to conspiracy to commit wire fraud for his role in Conti ransomware attacks between 2021 and 2022 &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260612/p35#a260612p35)
- - [Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order](https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/)
- - [Anthropic says it believes the US government&#39;s export control order for Mythos 5 and Fable 5 is a &quot;misunderstanding&quot; and that it is working to restore access &lpar;Ananya Palyekar/Reuters&rpar;](https://www.techmeme.com/260612/p34#a260612p34)<!-- TECH:END -->
+ - [The US government just forced Anthropic to pull its most advanced AI models](https://www.androidauthority.com/us-government-anthropic-fable-5-mythos-5-suspension-3677315/)
+ - [After years of false dawns, Big Tech, startups, and governments are betting on commercially useful quantum computers by 2030, as skeptics worry about hype &lpar;Michael Peel/Financial Times&rpar;](https://www.techmeme.com/260613/p4#a260613p4)
+ - [Here’s How AI Agents Can Protect EV Chargers](https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
