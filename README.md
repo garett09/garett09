@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A review of The Yahoo Boys, a deeply reported book on four online scammers in Lagos, Nigeria, exploring how and why they scam and the local impact of the trade &lpar;Jessica Loudis/Bloomberg&rpar;](https://www.techmeme.com/260613/p6#a260613p6)
- - [Anthropic cuts off Fable 5 and Mythos 5 access following government order](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security)
- - [MacBook Neo vs Dell XPS 13: $599 budget battle, compared](https://appleinsider.com/inside/macbook-neo/vs/macbook-neo-vs-dell-xps-13-599-budget-battle-compared?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s M4 Mac mini is back in stock &amp; on sale for $769, but supply is limited](https://appleinsider.com/articles/26/06/13/apples-m4-mac-mini-is-back-in-stock-on-sale-for-769-but-supply-is-limited?utm_source=rss)
+ - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)
+ - [David Sacks says Dario Amodei refused to &quot;fix the jailbreak or de-deploy the model&quot; after &quot;a highly credible trusted partner&quot; reported a Fable jailbreak &lpar;David Sacks/@davidsacks&rpar;](https://www.techmeme.com/260613/p9#a260613p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
