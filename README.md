@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Roku is in talks to sell itself; its shares have risen about 24% this year, giving the company a market value of $19.9B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260612/p24#a260612p24)
- - [Owning an Apple Home: Robots, maintenance, and chores](https://appleinsider.com/articles/26/06/12/owning-an-apple-home-robots-maintenance-and-chores?utm_source=rss)
- - [Staff memo: Meta plans to limit employee token usage and encourage employees to use MetaCode, after internal AI spending forecasts reached billions for 2026 &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260612/p23#a260612p23)<!-- TECH:END -->
+ - [A Ukrainian extradited from Ireland to the US pleads guilty to conspiracy to commit wire fraud for his role in Conti ransomware attacks between 2021 and 2022 &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260612/p35#a260612p35)
+ - [Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order](https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/)
+ - [Anthropic says it believes the US government&#39;s export control order for Mythos 5 and Fable 5 is a &quot;misunderstanding&quot; and that it is working to restore access &lpar;Ananya Palyekar/Reuters&rpar;](https://www.techmeme.com/260612/p34#a260612p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
