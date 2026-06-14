@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sleepworking](http://9gag.com/gag/a7oQd8z)
- - 🚯 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
- - 🚯 [The FIRST THING the UK `officers` do is turn off their BodyCams.](http://9gag.com/gag/a4Pvb9Q)<!-- MEMES:END -->
+ - 🚖 [Not the bees!](http://9gag.com/gag/aKGR2pZ)
+ - 🚯 [I swear these people](http://9gag.com/gag/aqy0rdY)
+ - 🚯 [Behind-the-scenes of one of the greatest repair service in motorsports history](http://9gag.com/gag/a9yoW1D)<!-- MEMES:END -->
 
 --- 
 
