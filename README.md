@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M4 Mac mini is back in stock &amp; on sale for $769, but supply is limited](https://appleinsider.com/articles/26/06/13/apples-m4-mac-mini-is-back-in-stock-on-sale-for-769-but-supply-is-limited?utm_source=rss)
- - [Sealed Super Mario Bros. sells for a record $3 million](https://www.theverge.com/games/949593/super-mario-bros-3-million-auction)
- - [David Sacks says Dario Amodei refused to &quot;fix the jailbreak or de-deploy the model&quot; after &quot;a highly credible trusted partner&quot; reported a Fable jailbreak &lpar;David Sacks/@davidsacks&rpar;](https://www.techmeme.com/260613/p9#a260613p9)<!-- TECH:END -->
+ - [Companies are grappling with whether and how to curb employee wagers on prediction markets that may use confidential info, as platforms tighten their own rules &lpar;Financial Times&rpar;](https://www.techmeme.com/260613/p16#a260613p16)
+ - [Q&amp;A with labor researcher Molly Kinder on her recent, widely discussed &quot;Messy Middle&quot; essay on AI-driven disruption of knowledge jobs and how to address it &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260613/p15#a260613p15)
+ - [Source: the White House imposed export controls on Mythos partly over suspicions a China-linked group had accessed it &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260613/p13#a260613p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
