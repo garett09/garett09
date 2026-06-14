@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The impossible dream of the universal remote](https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history)
- - [The Last Time the US Hosted the World Cup, One of the Weirdest Nights in Sports History Unfolded](https://www.cnet.com/culture/entertainment/june-17th-1994-netflix-espn-30-for-30-world-cup-oj-simpson/)
- - [Ajinomoto says it can meet demand through 2030 for ABF, a key material for advanced chipmaking substrates, and plans to expand capacity instead of hiking prices &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260614/p6#a260614p6)<!-- TECH:END -->
+ - [Sources: senior Anthropic technical staff are in DC to meet WH officials and try to fix the Mythos 5 dispute; both sides say they are eager to resolve the issue &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260614/p12#a260614p12)
+ - [China may have accessed Mythos](https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos)
+ - [Canadian PM says the Anthropic ban shows the dangers of &quot;over-reliance on certain models&quot;, and compares the risks to those that led to the 2008 financial crisis &lpar;Bloomberg&rpar;](https://www.techmeme.com/260614/p11#a260614p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
