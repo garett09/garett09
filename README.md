@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After years of uncertainty, including delayed listings, memory chipmaker Kioxia&#39;s shares soared 56x in 18 months, making it Japan&#39;s most valuable company &lpar;Shuhei Ochiai/Nikkei Asia&rpar;](https://www.techmeme.com/260614/p5#a260614p5)
- - [7 Best Coffee Makers &lpar;2026&rpar;: Ratio, Fellow, Moccamaster](https://www.wired.com/gallery/best-coffee-makers/)
- - [Google just pushed me one step closer to ditching Google Home for Amazon Alexa](https://www.androidauthority.com/google-home-vs-alexa-switching-2026-3675758/)<!-- TECH:END -->
+ - [The impossible dream of the universal remote](https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history)
+ - [The Last Time the US Hosted the World Cup, One of the Weirdest Nights in Sports History Unfolded](https://www.cnet.com/culture/entertainment/june-17th-1994-netflix-espn-30-for-30-world-cup-oj-simpson/)
+ - [Ajinomoto says it can meet demand through 2030 for ABF, a key material for advanced chipmaking substrates, and plans to expand capacity instead of hiking prices &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260614/p6#a260614p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
