@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What Move is this?](http://9gag.com/gag/azxnA4z)
- - 🚯 [Sleepworking](http://9gag.com/gag/a7oQd8z)
- - 🚯 [To keep&#39;em together. That&#39;s why](http://9gag.com/gag/aGyXDVz)<!-- MEMES:END -->
+ - 🚖 [Sleepworking](http://9gag.com/gag/a7oQd8z)
+ - 🚯 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
+ - 🚯 [The FIRST THING the UK `officers` do is turn off their BodyCams.](http://9gag.com/gag/a4Pvb9Q)<!-- MEMES:END -->
 
 --- 
 
