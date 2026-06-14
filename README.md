@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not the bees!](http://9gag.com/gag/aKGR2pZ)
- - 🚯 [I swear these people](http://9gag.com/gag/aqy0rdY)
- - 🚯 [Behind-the-scenes of one of the greatest repair service in motorsports history](http://9gag.com/gag/a9yoW1D)<!-- MEMES:END -->
+ - 🚖 [More of a meat lover](http://9gag.com/gag/apROrV9)
+ - 🚯 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
+ - 🚯 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)<!-- MEMES:END -->
 
 --- 
 
