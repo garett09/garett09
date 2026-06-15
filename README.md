@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fox is buying Roku](https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion)
- - [Court reporting shows AI&#39;s limits in replacing human skill, as reporters remain crucial for capturing gestures and working through noise, amid a worker shortage &lpar;Allison Pohle/Wall Street Journal&rpar;](https://www.techmeme.com/260615/p13#a260615p13)
- - [Fox says it is acquiring Roku in a deal worth around $22B, including debt, giving it access to more than 100M streaming households &lpar;Joseph De Avila/Wall Street Journal&rpar;](https://www.techmeme.com/260615/p12#a260615p12)<!-- TECH:END -->
+ - [Source: Anthropic was given 90 minutes to comply and was not provided with detailed concerns before the export control order was issued &lpar;Financial Times&rpar;](https://www.techmeme.com/260615/p33#a260615p33)
+ - [Google says a Chinese-linked hacking group targeted US and Canadian academic, medical, and military research institutions from September 2023 to November 2025 &lpar;A.J. Vicens/Reuters&rpar;](https://www.techmeme.com/260615/p32#a260615p32)
+ - [Adobe crams more AI into Lightroom, Premiere, Photoshop, After Effects](https://appleinsider.com/articles/26/06/15/adobe-crams-more-ai-into-lightroom-premiere-photoshop-after-effects?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
