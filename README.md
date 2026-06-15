@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More of a meat lover](http://9gag.com/gag/apROrV9)
- - 🚯 [Tired of waiting for the bomb squad to figure out what was in the bag](http://9gag.com/gag/aO8wvj3)
- - 🚯 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)<!-- MEMES:END -->
+ - 🚖 [It&#39;s the best money that they can earn \u00af\\_&lpar;\u30c4&rpar;_/\u00af](http://9gag.com/gag/a34m77v)
+ - 🚯 [Aging like fine wine](http://9gag.com/gag/adBEqNQ)
+ - 🚯 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)<!-- MEMES:END -->
 
 --- 
 
