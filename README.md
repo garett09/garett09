@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Health wearables are booming, with both Oura and Whoop eyeing IPOs, but investors remain cautious after Fitbit&#39;s struggles and low consumer hardware margins &lpar;David Wainer/Wall Street Journal&rpar;](https://www.techmeme.com/260614/p22#a260614p22)
- - [Rylo, which develops real-time speech and sign-language translation tools for deaf and hard-of-hearing users, raised $85M led by General Catalyst and Canaan &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260614/p21#a260614p21)
- - [Hypha, which extracts data from private-market documents to create workflows for underwriting, portfolio monitoring, and asset management, raised a $50M seed &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260614/p20#a260614p20)<!-- TECH:END -->
+ - [Fox is buying Roku](https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion)
+ - [Court reporting shows AI&#39;s limits in replacing human skill, as reporters remain crucial for capturing gestures and working through noise, amid a worker shortage &lpar;Allison Pohle/Wall Street Journal&rpar;](https://www.techmeme.com/260615/p13#a260615p13)
+ - [Fox says it is acquiring Roku in a deal worth around $22B, including debt, giving it access to more than 100M streaming households &lpar;Joseph De Avila/Wall Street Journal&rpar;](https://www.techmeme.com/260615/p12#a260615p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
