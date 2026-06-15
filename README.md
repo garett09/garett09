@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)
- - 🚯 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
- - 🚯 [Knock knock](http://9gag.com/gag/a2verdw)<!-- MEMES:END -->
+ - 🚖 [Tom the Mime](http://9gag.com/gag/aD2yz5d)
+ - 🚯 [Knock knock](http://9gag.com/gag/a2verdw)
+ - 🚯 [MSGA](http://9gag.com/gag/aPA5BXw)<!-- MEMES:END -->
 
 --- 
 
