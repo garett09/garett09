@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Instead of buying chemicals to kill ticks, all you need is one chicken and guide it along the way.](http://9gag.com/gag/a7oQrNb)
+ - 🚖 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)
  - 🚯 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
- - 🚯 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)<!-- MEMES:END -->
+ - 🚯 [Knock knock](http://9gag.com/gag/a2verdw)<!-- MEMES:END -->
 
 --- 
 
