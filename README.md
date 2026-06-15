@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Anthropic was given 90 minutes to comply and was not provided with detailed concerns before the export control order was issued &lpar;Financial Times&rpar;](https://www.techmeme.com/260615/p33#a260615p33)
- - [Google says a Chinese-linked hacking group targeted US and Canadian academic, medical, and military research institutions from September 2023 to November 2025 &lpar;A.J. Vicens/Reuters&rpar;](https://www.techmeme.com/260615/p32#a260615p32)
- - [Adobe crams more AI into Lightroom, Premiere, Photoshop, After Effects](https://appleinsider.com/articles/26/06/15/adobe-crams-more-ai-into-lightroom-premiere-photoshop-after-effects?utm_source=rss)<!-- TECH:END -->
+ - [OpenRouter debuts Fusion, a tool for prompting multiple AI models in parallel, claiming it can achieve &quot;Fable-level intelligence at half the price&quot; &lpar;Brian Thomas/OpenRouter Blog&rpar;](https://www.techmeme.com/260615/p40#a260615p40)
+ - [SpaceX stock closed up 19.6% on Monday, its first full day of trading; Musk said it &quot;might be able to reach&quot; around $1T revenue in 2030, up from $18.7B in 2025 &lpar;Arjun Kharpal/CNBC&rpar;](https://www.techmeme.com/260615/p39#a260615p39)
+ - [Fox wants to take over your TV — and the tech inside it](https://www.theverge.com/streaming/950116/fox-roku-takeover)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
