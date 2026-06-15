@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s the best money that they can earn \u00af\\_&lpar;\u30c4&rpar;_/\u00af](http://9gag.com/gag/a34m77v)
- - 🚯 [Aging like fine wine](http://9gag.com/gag/adBEqNQ)
- - 🚯 [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)<!-- MEMES:END -->
+ - 🚖 [Instead of buying chemicals to kill ticks, all you need is one chicken and guide it along the way.](http://9gag.com/gag/a7oQrNb)
+ - 🚯 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
+ - 🚯 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)<!-- MEMES:END -->
 
 --- 
 
