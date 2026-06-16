@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump officials weighed Anthropic export controls weeks before forcing its models offline, after a dispute over Mythos access for a China-linked firm &lpar;Washington Post&rpar;](https://www.techmeme.com/260615/p47#a260615p47)
- - [DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit](https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/)
- - [Anthropic says its senior leaders met Trump admin officials on June 15, but no resolution was reached and both sides are working to resolve things quickly &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260615/p46#a260615p46)<!-- TECH:END -->
+ - [Strident leaker insists iPhone Fold is not delayed at all](https://appleinsider.com/articles/26/06/16/strident-leaker-insists-iphone-fold-is-not-delayed-at-all?utm_source=rss)
+ - [Gmail’s AI summaries are live for everyone, but here’s how you can turn them off](https://www.androidauthority.com/google-gmail-ai-summaries-global-turn-off-3677798/)
+ - [SEC filing: SpaceX agrees to acquire Anysphere in a merger valuing the Cursor-developer at $60B, expected to close in Q3 2026 &lpar;Reuters&rpar;](https://www.techmeme.com/260616/p12#a260616p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
