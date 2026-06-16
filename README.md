@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some people just never learn](http://9gag.com/gag/aGyXjbX)
- - 🚯 [Metal x Mariachi](http://9gag.com/gag/a1m9obY)
- - 🚯 [Fashionably late for today&#39;s shitpost.](http://9gag.com/gag/aPA59qq)<!-- MEMES:END -->
+ - 🚖 [Etching the moment into history](http://9gag.com/gag/ae9LbXp)
+ - 🚯 [10 yo me stealing all the games from the internet caffe](http://9gag.com/gag/aLnxggv)
+ - 🚯 [Well said!](http://9gag.com/gag/aYQ94X7)<!-- MEMES:END -->
 
 --- 
 
