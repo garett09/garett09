@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Peak German engineering](http://9gag.com/gag/a7oQrzL)
- - 🚯 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
- - 🚯 [The moment that we all waiting for.. Japanese fans stayed behind at the AT&amp;T Stadium in Dallas after the game to clean up the entire stadium.](http://9gag.com/gag/amo32Lo)<!-- MEMES:END -->
+ - 🚖 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
+ - 🚯 [I no ras**t, but..](http://9gag.com/gag/avyN7mX)
+ - 🚯 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)<!-- MEMES:END -->
 
 --- 
 
