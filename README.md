@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Strident leaker insists iPhone Fold is not delayed at all](https://appleinsider.com/articles/26/06/16/strident-leaker-insists-iphone-fold-is-not-delayed-at-all?utm_source=rss)
- - [Gmail’s AI summaries are live for everyone, but here’s how you can turn them off](https://www.androidauthority.com/google-gmail-ai-summaries-global-turn-off-3677798/)
- - [SEC filing: SpaceX agrees to acquire Anysphere in a merger valuing the Cursor-developer at $60B, expected to close in Q3 2026 &lpar;Reuters&rpar;](https://www.techmeme.com/260616/p12#a260616p12)<!-- TECH:END -->
+ - [Sources: Apple&#39;s AirPods with cameras for AI are scheduled to launch in 2027 alongside the 20th anniversary pro iPhones and a second-generation foldable iPhone &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260616/p30#a260616p30)
+ - [Nothing&amp;#8217;s Ear &lpar;a&rpar;, our favorite budget earbuds, are cheaper than ever ahead of Prime Day](https://www.theverge.com/gadgets/950756/nothing-ear-a-early-amazon-prime-day-deal-sale)
+ - [Want a Fitbit Air? Here’s how you might be able to get one tax-free](https://www.androidauthority.com/fitbit-air-hsa-fsa-eligible-3677999/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
