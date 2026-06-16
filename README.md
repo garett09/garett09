@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenRouter debuts Fusion, a tool for prompting multiple AI models in parallel, claiming it can achieve &quot;Fable-level intelligence at half the price&quot; &lpar;Brian Thomas/OpenRouter Blog&rpar;](https://www.techmeme.com/260615/p40#a260615p40)
- - [SpaceX stock closed up 19.6% on Monday, its first full day of trading; Musk said it &quot;might be able to reach&quot; around $1T revenue in 2030, up from $18.7B in 2025 &lpar;Arjun Kharpal/CNBC&rpar;](https://www.techmeme.com/260615/p39#a260615p39)
- - [Fox wants to take over your TV — and the tech inside it](https://www.theverge.com/streaming/950116/fox-roku-takeover)<!-- TECH:END -->
+ - [Sources: Trump officials weighed Anthropic export controls weeks before forcing its models offline, after a dispute over Mythos access for a China-linked firm &lpar;Washington Post&rpar;](https://www.techmeme.com/260615/p47#a260615p47)
+ - [DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit](https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/)
+ - [Anthropic says its senior leaders met Trump admin officials on June 15, but no resolution was reached and both sides are working to resolve things quickly &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260615/p46#a260615p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
