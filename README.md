@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple&#39;s AirPods with cameras for AI are scheduled to launch in 2027 alongside the 20th anniversary pro iPhones and a second-generation foldable iPhone &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260616/p30#a260616p30)
- - [Nothing&amp;#8217;s Ear &lpar;a&rpar;, our favorite budget earbuds, are cheaper than ever ahead of Prime Day](https://www.theverge.com/gadgets/950756/nothing-ear-a-early-amazon-prime-day-deal-sale)
- - [Want a Fitbit Air? Here’s how you might be able to get one tax-free](https://www.androidauthority.com/fitbit-air-hsa-fsa-eligible-3677999/)<!-- TECH:END -->
+ - [Google’s June Pixel update is packed with dozens of fixes](https://www.androidauthority.com/june-2026-pixel-software-update-3678162/)
+ - [Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society](https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/)
+ - [The Complete Calvin and Hobbes is a great last-minute Father’s Day gift](https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
