@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
- - 🚯 [I no ras**t, but..](http://9gag.com/gag/avyN7mX)
- - 🚯 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)<!-- MEMES:END -->
+ - 🚖 [Some people just never learn](http://9gag.com/gag/aGyXjbX)
+ - 🚯 [Metal x Mariachi](http://9gag.com/gag/a1m9obY)
+ - 🚯 [Fashionably late for today&#39;s shitpost.](http://9gag.com/gag/aPA59qq)<!-- MEMES:END -->
 
 --- 
 
