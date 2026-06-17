@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta decided to support KOSA after it was packaged with language preempting state AI laws and a bill requiring app stores to verify users&#39; ages &lpar;Politico&rpar;](https://www.techmeme.com/260616/p48#a260616p48)
- - [Kapwing: in tests, ~60% of the first 500 TikTok For You videos shown to a new account were AI slop, ~3x the slop shown to a new YouTube user via YouTube Shorts &lpar;Matt G. Southern/Search Engine Journal&rpar;](https://www.techmeme.com/260616/p47#a260616p47)
- - [Sources: the US has held off adding DeepSeek, CXMT, and 100+ other flagged companies to its Entity List, last updated in October, the longest gap in 10+ years &lpar;Karen Freifeld/Reuters&rpar;](https://www.techmeme.com/260616/p46#a260616p46)<!-- TECH:END -->
+ - [For Iran’s Athletes, There Is No Separating Sports From Politics](https://www.wired.com/story/iran-world-cup-sports-politics/)
+ - [Pixel phones just got the biggest multitasking upgrade in years — here’s how to use it](https://www.androidauthority.com/android-17-pixel-app-bubbles-multitasking-how-use-3677868/)
+ - [Interactive. Violent. Gross. Inside Fishtank, the Unhinged Future of Reality TV](https://www.wired.com/story/interactive-violent-gross-inside-fishtank-the-unhinged-future-of-reality-tv/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
