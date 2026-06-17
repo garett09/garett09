@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Agree!](http://9gag.com/gag/aZZe360)
- - 🚯 [Life choices](http://9gag.com/gag/a87Z301)
+ - 🚖 [Everywhere...](http://9gag.com/gag/a9yoR10)
+ - 🚯 [Green](http://9gag.com/gag/aLnx0vP)
  - 🚯 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
 
 --- 
