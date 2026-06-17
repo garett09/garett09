@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [For Iran’s Athletes, There Is No Separating Sports From Politics](https://www.wired.com/story/iran-world-cup-sports-politics/)
- - [Pixel phones just got the biggest multitasking upgrade in years — here’s how to use it](https://www.androidauthority.com/android-17-pixel-app-bubbles-multitasking-how-use-3677868/)
- - [Interactive. Violent. Gross. Inside Fishtank, the Unhinged Future of Reality TV](https://www.wired.com/story/interactive-violent-gross-inside-fishtank-the-unhinged-future-of-reality-tv/)<!-- TECH:END -->
+ - [Samsung Health finally gets its highly anticipated overhaul](https://www.androidauthority.com/samsung-health-app-overhaul-arrives-3678471/)
+ - [A look at chaos inside Anthropic after disabling Fable 5 and Mythos 5 with less than 90 minutes of notice, as some staff wonder if Trump is bullying them &lpar;New York Times&rpar;](https://www.techmeme.com/260617/p30#a260617p30)
+ - [Shoe company Allbirds changes its name to Smartbird as it pivots to an AI infrastructure company and names ex-AWS exec Nadia Carlsten as CEO; BIRD jumps 20%+ &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260617/p29#a260617p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
