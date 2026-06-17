@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Etching the moment into history](http://9gag.com/gag/ae9LbXp)
- - 🚯 [10 yo me stealing all the games from the internet caffe](http://9gag.com/gag/aLnxggv)
- - 🚯 [Well said!](http://9gag.com/gag/aYQ94X7)<!-- MEMES:END -->
+ - 🚖 [COD. Totally worth the wait](http://9gag.com/gag/aYQ9gM0)
+ - 🚯 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
+ - 🚯 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
 
 --- 
 
