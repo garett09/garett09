@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s June Pixel update is packed with dozens of fixes](https://www.androidauthority.com/june-2026-pixel-software-update-3678162/)
- - [Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society](https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/)
- - [The Complete Calvin and Hobbes is a great last-minute Father’s Day gift](https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale)<!-- TECH:END -->
+ - [Sources: Meta decided to support KOSA after it was packaged with language preempting state AI laws and a bill requiring app stores to verify users&#39; ages &lpar;Politico&rpar;](https://www.techmeme.com/260616/p48#a260616p48)
+ - [Kapwing: in tests, ~60% of the first 500 TikTok For You videos shown to a new account were AI slop, ~3x the slop shown to a new YouTube user via YouTube Shorts &lpar;Matt G. Southern/Search Engine Journal&rpar;](https://www.techmeme.com/260616/p47#a260616p47)
+ - [Sources: the US has held off adding DeepSeek, CXMT, and 100+ other flagged companies to its Entity List, last updated in October, the longest gap in 10+ years &lpar;Karen Freifeld/Reuters&rpar;](https://www.techmeme.com/260616/p46#a260616p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
