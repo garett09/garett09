@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [COD. Totally worth the wait](http://9gag.com/gag/aYQ9gM0)
- - 🚯 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
- - 🚯 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
+ - 🚖 [Tom the Mime](http://9gag.com/gag/aD2yz5d)
+ - 🚯 [Life choices](http://9gag.com/gag/a87Z301)
+ - 🚯 [Hmmm, does it work ?](http://9gag.com/gag/avyN7qO)<!-- MEMES:END -->
 
 --- 
 
