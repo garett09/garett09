@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Health finally gets its highly anticipated overhaul](https://www.androidauthority.com/samsung-health-app-overhaul-arrives-3678471/)
- - [A look at chaos inside Anthropic after disabling Fable 5 and Mythos 5 with less than 90 minutes of notice, as some staff wonder if Trump is bullying them &lpar;New York Times&rpar;](https://www.techmeme.com/260617/p30#a260617p30)
- - [Shoe company Allbirds changes its name to Smartbird as it pivots to an AI infrastructure company and names ex-AWS exec Nadia Carlsten as CEO; BIRD jumps 20%+ &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260617/p29#a260617p29)<!-- TECH:END -->
+ - [Android 17 users are running into some strange problems with Wi-Fi data in certain apps](https://www.androidauthority.com/android-17-wi-fi-3678670/)
+ - [Anthropic updates Claude Design with design system imports, bidirectional integration with Claude Code, lower token consumption, and more export destinations &lpar;Michael Nuñez/VentureBeat&rpar;](https://www.techmeme.com/260617/p42#a260617p42)
+ - [Apple&#39;s Game Porting Toolkit 4 is a big improvement for modern game coders](https://appleinsider.com/articles/26/06/17/apples-game-porting-toolkit-4-is-a-big-improvement-for-modern-game-coders?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
