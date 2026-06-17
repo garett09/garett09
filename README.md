@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tom the Mime](http://9gag.com/gag/aD2yz5d)
+ - 🚖 [Agree!](http://9gag.com/gag/aZZe360)
  - 🚯 [Life choices](http://9gag.com/gag/a87Z301)
- - 🚯 [Hmmm, does it work ?](http://9gag.com/gag/avyN7qO)<!-- MEMES:END -->
+ - 🚯 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
 
 --- 
 
