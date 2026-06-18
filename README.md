@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
- - 🚯 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 🚯 [Where&#39;s the rest of it?](http://9gag.com/gag/agmW5qK)<!-- MEMES:END -->
+ - 🚖 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
+ - 🚯 [This generation is doomed](http://9gag.com/gag/apROG98)
+ - 🚯 [Young Lucy Liu](http://9gag.com/gag/an765B5)<!-- MEMES:END -->
 
 --- 
 
