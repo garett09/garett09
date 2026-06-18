@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your next TV might claim HDMI 2.2, but read the fine print before you pay up](https://www.androidauthority.com/first-hdmi-2-2-devices-coming-2027-3678906/)
- - [5 Android phones you should buy instead of the Moto G &lpar;2026&rpar;](https://www.androidauthority.com/moto-g-2026-alternatives-3675928/)
- - [Locked Out of the World Cup: A Year Marked by Barriers, Borders, and Broken Access](https://www.wired.com/story/locked-out-world-cup-america-visas-fans/)<!-- TECH:END -->
+ - [Google Calendar finally has more color options for events](https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion)
+ - [Need to Scan Important Documents? Use Your iPhone&#39;s Hidden Scanner](https://www.cnet.com/tech/mobile/sign-or-scan-papers-iphone-hidden-document-scanner-taxes/)
+ - [Seattle-based Gradial, which makes AI agents that automate enterprise marketing workflows, raised a $65M Series C led by Insight Partners at a $675M valuation &lpar;Kerry Flynn/Axios&rpar;](https://www.techmeme.com/260618/p30#a260618p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
