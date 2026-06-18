@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of US adults: 49% reported using chatbots in 2026, up from 33% in 2024, 24% said that they use chatbots on a daily basis, and 44% said they use ChatGPT &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260617/p56#a260617p56)
- - [Sources: the White House&#39;s move to restrict Mythos 5 came after it ordered Anthropic to revoke South Korea-based SK Telecom&#39;s access over alleged ties to China &lpar;Wired&rpar;](https://www.techmeme.com/260617/p55#a260617p55)
- - [Filing: Roelof Botha has joined the board of SpaceX as an independent director, seven months after stepping down as Sequoia steward &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260617/p54#a260617p54)<!-- TECH:END -->
+ - [Your next TV might claim HDMI 2.2, but read the fine print before you pay up](https://www.androidauthority.com/first-hdmi-2-2-devices-coming-2027-3678906/)
+ - [5 Android phones you should buy instead of the Moto G &lpar;2026&rpar;](https://www.androidauthority.com/moto-g-2026-alternatives-3675928/)
+ - [Locked Out of the World Cup: A Year Marked by Barriers, Borders, and Broken Access](https://www.wired.com/story/locked-out-world-cup-america-visas-fans/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
