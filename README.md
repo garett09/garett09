@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar finally has more color options for events](https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion)
- - [Need to Scan Important Documents? Use Your iPhone&#39;s Hidden Scanner](https://www.cnet.com/tech/mobile/sign-or-scan-papers-iphone-hidden-document-scanner-taxes/)
- - [Seattle-based Gradial, which makes AI agents that automate enterprise marketing workflows, raised a $65M Series C led by Insight Partners at a $675M valuation &lpar;Kerry Flynn/Axios&rpar;](https://www.techmeme.com/260618/p30#a260618p30)<!-- TECH:END -->
+ - [Unsealed docs: Google lost a court fight against a 2023 US warrant in a Jan. 6 pipe bomb probe seeking info of 300+ users who searched for the RNC and DNC HQs &lpar;Zoe Tillman/Bloomberg&rpar;](https://www.techmeme.com/260618/p41#a260618p41)
+ - [Sources: the White House and Anthropic are working on a framework that would assess the severity of AI security flaws, a sign that negotiations are progressing &lpar;Politico&rpar;](https://www.techmeme.com/260618/p40#a260618p40)
+ - [44 Best Father’s Day Gifts for Dads &lpar;2026&rpar;](https://www.wired.com/story/the-best-gifts-for-dads-2026-1/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
