@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Green](http://9gag.com/gag/aLnx0vP)
- - 🚯 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)
- - 🚯 [Everywhere...](http://9gag.com/gag/a9yoR10)<!-- MEMES:END -->
+ - 🚖 [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
+ - 🚯 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 🚯 [Where&#39;s the rest of it?](http://9gag.com/gag/agmW5qK)<!-- MEMES:END -->
 
 --- 
 
