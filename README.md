@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Commerce Secretary Howard Lutnick questioned ASML leaders on concerns China acquired one of its EUV machines, violating US-led export restrictions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p52#a260618p52)
- - [Source: Elastic has agreed to acquire the AI site reliability engineering startup Deductive AI for up to $85M; CRV led Deductive AI&#39;s $7.5M seed round in 2025 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260618/p51#a260618p51)
- - [Mac game developers need to enable this in Steam to avoid a 32-bit problem](https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss)<!-- TECH:END -->
+ - [The Best Fitness Trackers of 2026: Garmin, Google Fitbit, and More](https://www.wired.com/story/best-fitness-trackers/)
+ - [I wish I could ditch Gemini for Claude, but there are 4 things stopping me](https://www.androidauthority.com/cant-ditch-gemini-for-claude-reasons-why-3676310/)
+ - [This World Cup, Bigger Might Not Really Be Better](https://www.wired.com/story/biggest-world-cup-travel-flights-hotels-costs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
