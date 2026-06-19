@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years](https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/)
- - [FCC is easing drone rules, but DJI drones are still left grounded](https://www.androidauthority.com/fcc-eases-drone-import-rules-3679457/)
- - [Watch our Amazon Live stream for the hottest deals on Beatbot gadgets this Prime Day!](https://www.androidauthority.com/beatbot-android-authority-amazon-livestream-prime-day-3678547/)<!-- TECH:END -->
+ - [South Korean media: Hyundai plans to buy SoftBank&#39;s remaining 9.65% stake in Boston Dynamics for $325M to make the US robotics company a wholly owned subsidiary &lpar;Reuters&rpar;](https://www.techmeme.com/260619/p19#a260619p19)
+ - [Trump says he saw Anthropic last week as a national security threat, but signals relations have since improved because Dario Amodei was &quot;nice&quot; and &quot;smart&quot; at G7 &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260619/p18#a260619p18)
+ - [This new Google TV projector from ETOE can light up your wall and charge your phone](https://www.androidauthority.com/etot-dolphin-2-google-tv-projector-3679514/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
