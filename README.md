@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unsealed docs: Google lost a court fight against a 2023 US warrant in a Jan. 6 pipe bomb probe seeking info of 300+ users who searched for the RNC and DNC HQs &lpar;Zoe Tillman/Bloomberg&rpar;](https://www.techmeme.com/260618/p41#a260618p41)
- - [Sources: the White House and Anthropic are working on a framework that would assess the severity of AI security flaws, a sign that negotiations are progressing &lpar;Politico&rpar;](https://www.techmeme.com/260618/p40#a260618p40)
- - [44 Best Father’s Day Gifts for Dads &lpar;2026&rpar;](https://www.wired.com/story/the-best-gifts-for-dads-2026-1/)<!-- TECH:END -->
+ - [Sources: Commerce Secretary Howard Lutnick questioned ASML leaders on concerns China acquired one of its EUV machines, violating US-led export restrictions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p52#a260618p52)
+ - [Source: Elastic has agreed to acquire the AI site reliability engineering startup Deductive AI for up to $85M; CRV led Deductive AI&#39;s $7.5M seed round in 2025 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260618/p51#a260618p51)
+ - [Mac game developers need to enable this in Steam to avoid a 32-bit problem](https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
