@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Fitness Trackers of 2026: Garmin, Google Fitbit, and More](https://www.wired.com/story/best-fitness-trackers/)
- - [I wish I could ditch Gemini for Claude, but there are 4 things stopping me](https://www.androidauthority.com/cant-ditch-gemini-for-claude-reasons-why-3676310/)
- - [This World Cup, Bigger Might Not Really Be Better](https://www.wired.com/story/biggest-world-cup-travel-flights-hotels-costs/)<!-- TECH:END -->
+ - [The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years](https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/)
+ - [FCC is easing drone rules, but DJI drones are still left grounded](https://www.androidauthority.com/fcc-eases-drone-import-rules-3679457/)
+ - [Watch our Amazon Live stream for the hottest deals on Beatbot gadgets this Prime Day!](https://www.androidauthority.com/beatbot-android-authority-amazon-livestream-prime-day-3678547/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
