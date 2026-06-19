@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor guys](http://9gag.com/gag/agmWgGq)
- - 🚯 [This generation is doomed](http://9gag.com/gag/apROG98)
- - 🚯 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)<!-- MEMES:END -->
+ - 🚖 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)
+ - 🚯 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 🚯 [What TV show or movie represents this picture...](http://9gag.com/gag/aRBnXQB)<!-- MEMES:END -->
 
 --- 
 
