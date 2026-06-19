@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)
- - 🚯 [Who&#39;s gonna tell her...?](http://9gag.com/gag/aqy0g8v)
- - 🚯 [Classic tomorrow problem](http://9gag.com/gag/a7oQWnx)<!-- MEMES:END -->
+ - 🚖 [Poor guys](http://9gag.com/gag/agmWgGq)
+ - 🚯 [This generation is doomed](http://9gag.com/gag/apROG98)
+ - 🚯 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)<!-- MEMES:END -->
 
 --- 
 
