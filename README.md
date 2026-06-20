@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean media: Hyundai plans to buy SoftBank&#39;s remaining 9.65% stake in Boston Dynamics for $325M to make the US robotics company a wholly owned subsidiary &lpar;Reuters&rpar;](https://www.techmeme.com/260619/p19#a260619p19)
- - [Trump says he saw Anthropic last week as a national security threat, but signals relations have since improved because Dario Amodei was &quot;nice&quot; and &quot;smart&quot; at G7 &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260619/p18#a260619p18)
- - [This new Google TV projector from ETOE can light up your wall and charge your phone](https://www.androidauthority.com/etot-dolphin-2-google-tv-projector-3679514/)<!-- TECH:END -->
+ - [An interview with Roblox CEO Dave Baszucki on his early decision not to prioritize ad revenue, whether every mega platform becomes an everything app, and more &lpar;Tyler Cowen/Conversations with Tyler&rpar;](https://www.techmeme.com/260619/p25#a260619p25)
+ - [Nothing won&#39;t launch a new phone this year in its budget-focused CMF Phone series due to RAM prices &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260619/p24#a260619p24)
+ - [DOJ says two brothers pleaded guilty to robbing a Minnesota family of $8M+ in cryptocurrency after holding them at gunpoint for over eight hours in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](https://www.techmeme.com/260619/p23#a260619p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
