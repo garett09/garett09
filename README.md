@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor guys](http://9gag.com/gag/agmWgGq)
- - 🚯 [Removing shrapnel with a strong magnet, that&#39;s gonna leave a mark](http://9gag.com/gag/a9yoEzZ)
- - 🚯 [Daughter only wants to be heard](http://9gag.com/gag/aW4zj5q)<!-- MEMES:END -->
+ - 🚖 [Bro has fallen, press F to pay respects](http://9gag.com/gag/aAyjbQo)
+ - 🚯 [Daughter only wants to be heard](http://9gag.com/gag/aW4zj5q)
+ - 🚯 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)<!-- MEMES:END -->
 
 --- 
 
