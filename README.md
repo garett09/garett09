@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Smartbird CEO Nadia Carlsten about the shoe company Allbirds becoming an AI infrastructure company, plans to deploy compute clusters, and more &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260620/p7#a260620p7)
- - [Love NotebookLM but hate giving Google your data? I found a great open-source alternative](https://www.androidauthority.com/notebooklm-alternative-open-notebook-hands-on-3677932/)
- - [These AI Scams All Have Red Flags. Here&#39;s How to Spot Them](https://www.cnet.com/tech/services-and-software/ai-scams-have-red-flags-how-to-spot-them/)<!-- TECH:END -->
+ - [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data)
+ - [How success of AI-related companies in South Korea, Taiwan, and Japan is driving stock gains, bigger bonuses, and a retail investing frenzy in Asian markets &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260620/p10#a260620p10)
+ - [Granta says it will stop publishing short story contest winners or join publishing partnerships it doesn&#39;t control after AI use allegations against a winner &lpar;Ella Creamer/The Guardian&rpar;](https://www.techmeme.com/260620/p9#a260620p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
