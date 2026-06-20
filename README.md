@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hydrogen peroxide is used as paint remover. It will remove even a $15m paint job.](http://9gag.com/gag/aqy0jLp)
- - 🚯 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
- - 🚯 [Poor guys](http://9gag.com/gag/agmWgGq)<!-- MEMES:END -->
+ - 🚖 [Poor guys](http://9gag.com/gag/agmWgGq)
+ - 🚯 [Removing shrapnel with a strong magnet, that&#39;s gonna leave a mark](http://9gag.com/gag/a9yoEzZ)
+ - 🚯 [Daughter only wants to be heard](http://9gag.com/gag/aW4zj5q)<!-- MEMES:END -->
 
 --- 
 
