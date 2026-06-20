@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review)
- - [Q&amp;A with Signal&#39;s Meredith Whittaker on why online child safety efforts risk mass surveillance, leaving the markets that demand weakening of encryption, more &lpar;Mishal Husain/Bloomberg&rpar;](https://www.techmeme.com/260620/p5#a260620p5)
- - [Sources: the UK government is expected to consult as early as this month on rules to make public service news more prominent on social media and video platforms &lpar;Financial Times&rpar;](https://www.techmeme.com/260620/p4#a260620p4)<!-- TECH:END -->
+ - [An interview with Smartbird CEO Nadia Carlsten about the shoe company Allbirds becoming an AI infrastructure company, plans to deploy compute clusters, and more &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260620/p7#a260620p7)
+ - [Love NotebookLM but hate giving Google your data? I found a great open-source alternative](https://www.androidauthority.com/notebooklm-alternative-open-notebook-hands-on-3677932/)
+ - [These AI Scams All Have Red Flags. Here&#39;s How to Spot Them](https://www.cnet.com/tech/services-and-software/ai-scams-have-red-flags-how-to-spot-them/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
