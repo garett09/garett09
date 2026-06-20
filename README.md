@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Roblox CEO Dave Baszucki on his early decision not to prioritize ad revenue, whether every mega platform becomes an everything app, and more &lpar;Tyler Cowen/Conversations with Tyler&rpar;](https://www.techmeme.com/260619/p25#a260619p25)
- - [Nothing won&#39;t launch a new phone this year in its budget-focused CMF Phone series due to RAM prices &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260619/p24#a260619p24)
- - [DOJ says two brothers pleaded guilty to robbing a Minnesota family of $8M+ in cryptocurrency after holding them at gunpoint for over eight hours in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](https://www.techmeme.com/260619/p23#a260619p23)<!-- TECH:END -->
+ - [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review)
+ - [Q&amp;A with Signal&#39;s Meredith Whittaker on why online child safety efforts risk mass surveillance, leaving the markets that demand weakening of encryption, more &lpar;Mishal Husain/Bloomberg&rpar;](https://www.techmeme.com/260620/p5#a260620p5)
+ - [Sources: the UK government is expected to consult as early as this month on rules to make public service news more prominent on social media and video platforms &lpar;Financial Times&rpar;](https://www.techmeme.com/260620/p4#a260620p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
