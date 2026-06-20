@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro has fallen, press F to pay respects](http://9gag.com/gag/aAyjbQo)
- - 🚯 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 🚯 [This is rare.](http://9gag.com/gag/amo3vov)<!-- MEMES:END -->
+ - 🚖 [Hydrogen peroxide is used as paint remover. It will remove even a $15m paint job.](http://9gag.com/gag/aqy0jLp)
+ - 🚯 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
+ - 🚯 [Poor guys](http://9gag.com/gag/agmWgGq)<!-- MEMES:END -->
 
 --- 
 
