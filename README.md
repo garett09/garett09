@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)
+ - 🚖 [Bro has fallen, press F to pay respects](http://9gag.com/gag/aAyjbQo)
  - 🚯 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 🚯 [What TV show or movie represents this picture...](http://9gag.com/gag/aRBnXQB)<!-- MEMES:END -->
+ - 🚯 [This is rare.](http://9gag.com/gag/amo3vov)<!-- MEMES:END -->
 
 --- 
 
