@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 apps you should use instead of Google Password Manager](https://www.androidauthority.com/best-google-password-manager-alternatives-3676990/)
- - [I love Duolingo, but its XP Boosts are driving me mad](https://www.androidauthority.com/duolingo-xp-boost-ux-trap-3674572/)
- - [A Critical Deadline Is Approaching for Windows and Linux Security](https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/)<!-- TECH:END -->
+ - [Roborock heads to Miami with a community classroom, a mall pop-up, and its flagship robots](https://www.androidauthority.com/roborock-miami-mall-pop-up-robots-3679647/)
+ - [9 Things to Do Before a Summer Blackout Hits Your Home](https://www.cnet.com/health/9-things-to-do-before-a-summer-blackout-hits-your-home/)
+ - [Foldable iPhone Ultra, Galaxy Z Fold 8, Pixel 11 and Other Phones Launching in 2026](https://www.cnet.com/tech/mobile/comparing-the-2026-phone-lineups-from-apple-samsung-google-and-everyone-else/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
