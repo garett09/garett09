@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro has fallen, press F to pay respects](http://9gag.com/gag/aAyjbQo)
- - 🚯 [Daughter only wants to be heard](http://9gag.com/gag/aW4zj5q)
- - 🚯 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)<!-- MEMES:END -->
+ - 🚖 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)
+ - 🚯 [Poor guys](http://9gag.com/gag/agmWgGq)
+ - 🚯 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)<!-- MEMES:END -->
 
 --- 
 
