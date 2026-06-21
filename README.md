@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
- - 🚯 [Pole Position](http://9gag.com/gag/ayNG9qY)
- - 🚯 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)<!-- MEMES:END -->
+ - 🚖 [That escalated quickly](http://9gag.com/gag/aLnx1Yv)
+ - 🚯 [Even if you won the lottery today, you would never be able to buy that feeling in your life](http://9gag.com/gag/a9yoqQL)
+ - 🚯 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)<!-- MEMES:END -->
 
 --- 
 
