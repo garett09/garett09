@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data)
- - [How success of AI-related companies in South Korea, Taiwan, and Japan is driving stock gains, bigger bonuses, and a retail investing frenzy in Asian markets &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260620/p10#a260620p10)
- - [Granta says it will stop publishing short story contest winners or join publishing partnerships it doesn&#39;t control after AI use allegations against a winner &lpar;Ella Creamer/The Guardian&rpar;](https://www.techmeme.com/260620/p9#a260620p9)<!-- TECH:END -->
+ - [A look at Jane Street&#39;s push to supercharge trading with AI and become a major AI investor; it invested $1B in CoreWeave in April and has a stake in Anthropic &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](https://www.techmeme.com/260620/p13#a260620p13)
+ - [A look at &quot;humanizer&quot; and &quot;autotyper&quot; apps that help students evade AI-detection software by slowly auto-typing essays and making AI text sound less robotic &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/260620/p12#a260620p12)
+ - [Save up to $300 with these early Prime Day Apple deals](https://appleinsider.com/articles/26/06/20/save-up-to-300-with-these-early-prime-day-apple-deals?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
