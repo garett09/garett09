@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock heads to Miami with a community classroom, a mall pop-up, and its flagship robots](https://www.androidauthority.com/roborock-miami-mall-pop-up-robots-3679647/)
- - [9 Things to Do Before a Summer Blackout Hits Your Home](https://www.cnet.com/health/9-things-to-do-before-a-summer-blackout-hits-your-home/)
- - [Foldable iPhone Ultra, Galaxy Z Fold 8, Pixel 11 and Other Phones Launching in 2026](https://www.cnet.com/tech/mobile/comparing-the-2026-phone-lineups-from-apple-samsung-google-and-everyone-else/)<!-- TECH:END -->
+ - [SF-based Humble Robotics, which is developing an electric, self-driving cabless freight truck with 200 miles range and 55 mph max speed, raised $24M &lpar;Caroline Petrow-Cohen/Los Angeles Times&rpar;](https://www.techmeme.com/260621/p8#a260621p8)
+ - [Bose thinks it can be a media company for some reason](https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company)
+ - [Apple Vision Pro vs Snap Specs: Two visions of face-worn computing, compared](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-snap-specs-two-visions-of-face-worn-computing-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
