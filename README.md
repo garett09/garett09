@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Jane Street&#39;s push to supercharge trading with AI and become a major AI investor; it invested $1B in CoreWeave in April and has a stake in Anthropic &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](https://www.techmeme.com/260620/p13#a260620p13)
- - [A look at &quot;humanizer&quot; and &quot;autotyper&quot; apps that help students evade AI-detection software by slowly auto-typing essays and making AI text sound less robotic &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/260620/p12#a260620p12)
- - [Save up to $300 with these early Prime Day Apple deals](https://appleinsider.com/articles/26/06/20/save-up-to-300-with-these-early-prime-day-apple-deals?utm_source=rss)<!-- TECH:END -->
+ - [5 apps you should use instead of Google Password Manager](https://www.androidauthority.com/best-google-password-manager-alternatives-3676990/)
+ - [I love Duolingo, but its XP Boosts are driving me mad](https://www.androidauthority.com/duolingo-xp-boost-ux-trap-3674572/)
+ - [A Critical Deadline Is Approaching for Windows and Linux Security](https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
