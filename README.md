@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)
- - 🚯 [Poor guys](http://9gag.com/gag/agmWgGq)
- - 🚯 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)<!-- MEMES:END -->
+ - 🚖 [The series we&#39;ve been missing... &lpar;Indonesian series `Man-Tiger`&rpar;](http://9gag.com/gag/aD2yDY9)
+ - 🚯 [Pole Position](http://9gag.com/gag/ayNG9qY)
+ - 🚯 [Stop being such snowflakes](http://9gag.com/gag/aQzGEmq)<!-- MEMES:END -->
 
 --- 
 
