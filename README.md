@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)
- - 🚯 [Guys](http://9gag.com/gag/apRORW8)
- - 🚯 [Even if you won the lottery today, you would never be able to buy that feeling in your life](http://9gag.com/gag/a9yoqQL)<!-- MEMES:END -->
+ - 🚖 [Modern Warfare](http://9gag.com/gag/aD2y7BK)
+ - 🚯 [Tja](http://9gag.com/gag/aZZeZNW)
+ - 🚯 [Guys](http://9gag.com/gag/apRORW8)<!-- MEMES:END -->
 
 --- 
 
