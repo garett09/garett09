@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SF-based Humble Robotics, which is developing an electric, self-driving cabless freight truck with 200 miles range and 55 mph max speed, raised $24M &lpar;Caroline Petrow-Cohen/Los Angeles Times&rpar;](https://www.techmeme.com/260621/p8#a260621p8)
- - [Bose thinks it can be a media company for some reason](https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company)
- - [Apple Vision Pro vs Snap Specs: Two visions of face-worn computing, compared](https://appleinsider.com/inside/apple-vision-pro/vs/apple-vision-pro-vs-snap-specs-two-visions-of-face-worn-computing-compared?utm_source=rss)<!-- TECH:END -->
+ - [Shenzhen-listed Apple supplier Lingyi iTech seeks to raise $1.1B in a June 26 Hong Kong debut, as the electronic parts maker expands into AI hardware and robots &lpar;Iris Deng/South China Morning Post&rpar;](https://www.techmeme.com/260621/p15#a260621p15)
+ - [Samsung rolls out ChatGPT Enterprise and Codex to all staff in Korea and DX division staff globally; OpenAI says it&#39;s one of its largest enterprise deployments &lpar;Kim Su-jeong/CHOSUNBIZ&rpar;](https://www.techmeme.com/260621/p14#a260621p14)
+ - [Amazon&#39;s $169 AirPods Pro 3 deal is back for Prime Week](https://appleinsider.com/articles/26/06/22/amazons-169-airpods-pro-3-deal-is-back-for-prime-week?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
