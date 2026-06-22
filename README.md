@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shenzhen-listed Apple supplier Lingyi iTech seeks to raise $1.1B in a June 26 Hong Kong debut, as the electronic parts maker expands into AI hardware and robots &lpar;Iris Deng/South China Morning Post&rpar;](https://www.techmeme.com/260621/p15#a260621p15)
- - [Samsung rolls out ChatGPT Enterprise and Codex to all staff in Korea and DX division staff globally; OpenAI says it&#39;s one of its largest enterprise deployments &lpar;Kim Su-jeong/CHOSUNBIZ&rpar;](https://www.techmeme.com/260621/p14#a260621p14)
- - [Amazon&#39;s $169 AirPods Pro 3 deal is back for Prime Week](https://appleinsider.com/articles/26/06/22/amazons-169-airpods-pro-3-deal-is-back-for-prime-week?utm_source=rss)<!-- TECH:END -->
+ - [iPadOS 27 beta review: Your iPad, now with Siri AI](https://appleinsider.com/articles/26/06/19/ipados-27-beta-review-your-ipad-now-with-siri-ai?utm_source=rss)
+ - [Apple Watch sales rise, but can&#39;t get back to previous highs](https://appleinsider.com/articles/26/06/22/apple-watch-sales-rise-but-cant-get-back-to-previous-highs?utm_source=rss)
+ - [Retroid’s next handheld could target classic gaming purists with its 4:3 OLED](https://www.androidauthority.com/retroid-pocket-nova-teaser-3679816/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
