@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That escalated quickly](http://9gag.com/gag/aLnx1Yv)
- - 🚯 [Even if you won the lottery today, you would never be able to buy that feeling in your life](http://9gag.com/gag/a9yoqQL)
- - 🚯 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)<!-- MEMES:END -->
+ - 🚖 [A terrifying discovery on Mars](http://9gag.com/gag/ajPpP5g)
+ - 🚯 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)
+ - 🚯 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)<!-- MEMES:END -->
 
 --- 
 
