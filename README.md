@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)
- - 🚯 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)
- - 🚯 [Closely embraced](http://9gag.com/gag/aZZeZAV)<!-- MEMES:END -->
+ - 🚖 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)
+ - 🚯 [Guys](http://9gag.com/gag/apRORW8)
+ - 🚯 [Even if you won the lottery today, you would never be able to buy that feeling in your life](http://9gag.com/gag/a9yoqQL)<!-- MEMES:END -->
 
 --- 
 
