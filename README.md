@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPadOS 27 beta review: Your iPad, now with Siri AI](https://appleinsider.com/articles/26/06/19/ipados-27-beta-review-your-ipad-now-with-siri-ai?utm_source=rss)
- - [Apple Watch sales rise, but can&#39;t get back to previous highs](https://appleinsider.com/articles/26/06/22/apple-watch-sales-rise-but-cant-get-back-to-previous-highs?utm_source=rss)
- - [Retroid’s next handheld could target classic gaming purists with its 4:3 OLED](https://www.androidauthority.com/retroid-pocket-nova-teaser-3679816/)<!-- TECH:END -->
+ - [RingConn&amp;#8217;s Lord of the Rings promotion assumes smart ring wearers want to be like Gollum](https://www.theverge.com/gadgets/953655/ringconn-lord-of-the-rings)
+ - [AMD releases FSR 4.1 upscaling for older graphics cards](https://www.theverge.com/news/953664/amd-fsr-4-1-upscaling-rx-7000-series-gpus-rdna-3)
+ - [Alphabet stock fell as much as 7.2%, the most intraday since February, after Google DeepMind VP John Jumper became its second top AI exec to leave in a week &lpar;Felice Maranz/Bloomberg&rpar;](https://www.techmeme.com/260622/p31#a260622p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
