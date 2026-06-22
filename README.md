@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RingConn&amp;#8217;s Lord of the Rings promotion assumes smart ring wearers want to be like Gollum](https://www.theverge.com/gadgets/953655/ringconn-lord-of-the-rings)
- - [AMD releases FSR 4.1 upscaling for older graphics cards](https://www.theverge.com/news/953664/amd-fsr-4-1-upscaling-rx-7000-series-gpus-rdna-3)
- - [Alphabet stock fell as much as 7.2%, the most intraday since February, after Google DeepMind VP John Jumper became its second top AI exec to leave in a week &lpar;Felice Maranz/Bloomberg&rpar;](https://www.techmeme.com/260622/p31#a260622p31)<!-- TECH:END -->
+ - [New in iOS 27 beta 2: Update an Apple TV in the Home app, Wallet Insights](https://appleinsider.com/articles/26/06/22/new-in-ios-27-beta-2-update-an-apple-tv-in-the-home-app-wallet-insights?utm_source=rss)
+ - [Meta Exposed Data Internally From Its Controversial Employee-Tracking Program](https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/)
+ - [Air Space Intelligence won an $875M, 12-year FAA contract to develop AI tools that map flight trajectories and identify areas of congestion to reduce delays &lpar;Allyson Versprille/Bloomberg&rpar;](https://www.techmeme.com/260622/p37#a260622p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
