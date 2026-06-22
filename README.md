@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A terrifying discovery on Mars](http://9gag.com/gag/ajPpP5g)
+ - 🚖 [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)
  - 🚯 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)
- - 🚯 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)<!-- MEMES:END -->
+ - 🚯 [Closely embraced](http://9gag.com/gag/aZZeZAV)<!-- MEMES:END -->
 
 --- 
 
