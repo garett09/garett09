@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day Apple deals are live, grab sale prices from $14](https://appleinsider.com/articles/26/06/23/prime-day-apple-deals-are-live-grab-sale-prices-from-14?utm_source=rss)
- - [Sources: Abu Dhabi&#39;s MGX has raised close to $50B from regional sovereign wealth funds, global pension funds, and others to accelerate spending on AI deals &lpar;Dinesh Nair/Bloomberg&rpar;](https://www.techmeme.com/260623/p20#a260623p20)
- - [Meta’s newest smart glasses ditch Ray-Ban for a better price tag](https://www.androidauthority.com/new-meta-smart-glasses-3680449/)<!-- TECH:END -->
+ - [This Prime Day Neck Fan Deal Will Save You from Summer Sweats &lpar;2026&rpar;](https://www.wired.com/story/jisulife-neck-fan-deal-prime-day-2026/)
+ - [The Prime Day MacBook Deals I Recommend &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-macbook-deals-2026/)
+ - [PSA: Update your Google TV Streamer so it’s ready when the new Home Speaker arrives](https://www.androidauthority.com/google-tv-streamer-update-google-home-speaker-3680608/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
