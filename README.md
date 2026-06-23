@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cannes Lions 2026 Entertainment Person of the Year is Apple TV chief](https://appleinsider.com/articles/26/06/23/cannes-lions-2026-entertainment-person-of-the-year-is-apple-tv-chief?utm_source=rss)
- - [Real estate professionals are increasingly using AI-powered virtual staging tools like Stuccco and BoxBrownie to create misleading house and apartment listings &lpar;Gaby Del Valle/The Verge&rpar;](https://www.techmeme.com/260622/p42#a260622p42)
- - [Sources: Qualcomm is in advanced talks to acquire Modular in a transaction valuing the AI chip startup at ~$4B, up from a $1.6B valuation in September 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260622/p41#a260622p41)<!-- TECH:END -->
+ - [Best Prime Day Smart Bird Feeder Deals &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-smart-bird-feeder-deals-2026/)
+ - [Prime Day Apple deals are live, grab sale prices from $14](https://appleinsider.com/articles/26/06/23/prime-day-apple-deals-are-live-grab-sale-prices-from-14?utm_source=rss)
+ - [One of our favorite Google TV projectors just dropped below $200 for Prime Day](https://www.androidauthority.com/xgimi-cheap-google-tv-projectors-amazon-prime-day-2026-3680337/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
