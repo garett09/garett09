@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Modern Warfare](http://9gag.com/gag/aD2y7BK)
- - 🚯 [Tja](http://9gag.com/gag/aZZeZNW)
- - 🚯 [Guys](http://9gag.com/gag/apRORW8)<!-- MEMES:END -->
+ - 🚖 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
+ - 🚯 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
+ - 🚯 [FAFO](http://9gag.com/gag/a0eBe6O)<!-- MEMES:END -->
 
 --- 
 
