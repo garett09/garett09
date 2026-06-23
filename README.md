@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)
- - 🚯 [Who hurt you?](http://9gag.com/gag/azxndMZ)
- - 🚯 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)<!-- MEMES:END -->
+ - 🚖 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
+ - 🚯 [Instant karma for the bully](http://9gag.com/gag/aVvAoBP)
+ - 🚯 [High life to fall of life](http://9gag.com/gag/a87ZAR1)<!-- MEMES:END -->
 
 --- 
 
