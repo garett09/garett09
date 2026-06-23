@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day Smart Bird Feeder Deals &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-smart-bird-feeder-deals-2026/)
  - [Prime Day Apple deals are live, grab sale prices from $14](https://appleinsider.com/articles/26/06/23/prime-day-apple-deals-are-live-grab-sale-prices-from-14?utm_source=rss)
- - [One of our favorite Google TV projectors just dropped below $200 for Prime Day](https://www.androidauthority.com/xgimi-cheap-google-tv-projectors-amazon-prime-day-2026-3680337/)<!-- TECH:END -->
+ - [Sources: Abu Dhabi&#39;s MGX has raised close to $50B from regional sovereign wealth funds, global pension funds, and others to accelerate spending on AI deals &lpar;Dinesh Nair/Bloomberg&rpar;](https://www.techmeme.com/260623/p20#a260623p20)
+ - [Meta’s newest smart glasses ditch Ray-Ban for a better price tag](https://www.androidauthority.com/new-meta-smart-glasses-3680449/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
