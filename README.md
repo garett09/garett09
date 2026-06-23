@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone&#39;s getting fired.](http://9gag.com/gag/aGyXyo6)
+ - 🚖 [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)
  - 🚯 [Who hurt you?](http://9gag.com/gag/azxndMZ)
- - 🚯 [Modern Warfare](http://9gag.com/gag/aD2y7BK)<!-- MEMES:END -->
+ - 🚯 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)<!-- MEMES:END -->
 
 --- 
 
