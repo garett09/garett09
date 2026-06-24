@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At a rather inauspicious moment](http://9gag.com/gag/aO8w4Yy)
- - 🚯 [Poor JD](http://9gag.com/gag/aBypZ5A)
- - 🚯 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)<!-- MEMES:END -->
+ - 🚖 [. . .](http://9gag.com/gag/a6ZPX3m)
+ - 🚯 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
+ - 🚯 [It just hits different](http://9gag.com/gag/a87Zm8p)<!-- MEMES:END -->
 
 --- 
 
