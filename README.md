@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [. . .](http://9gag.com/gag/a6ZPX3m)
- - 🚯 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
- - 🚯 [It just hits different](http://9gag.com/gag/a87Zm8p)<!-- MEMES:END -->
+ - 🚖 [Someone needs to hear this](http://9gag.com/gag/aGyX8VG)
+ - 🚯 [Using a nuke in a knife fight](http://9gag.com/gag/aLnxemz)
+ - 🚯 [I miss Wii Sports. Gotta dig out the old system and play it again.](http://9gag.com/gag/aVvAKjM)<!-- MEMES:END -->
 
 --- 
 
