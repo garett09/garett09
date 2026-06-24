@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Up to 36% Off With the Best Prime Day Kindle Deals &lpar;2026&rpar;: Paperwhite, Colorsoft, Kids](https://www.wired.com/story/kindle-prime-day-deals-06-24-2026/)
- - [The 16 Best Amazon Prime Day Deals Under $100 in 2026](https://www.wired.com/story/best-prime-day-deals-under-100-06-24-2026/)
- - [I Found the Very Best Prime Day Laptop Deals onMacBooks and More &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-06-24-2026/)<!-- TECH:END -->
+ - [The Samsung 990 Pro SSD Is on Sale for the Lowest Price You’re Likely to See This Year.](https://www.wired.com/story/the-best-prime-day-deal-on-memory-2026/)
+ - [Philips Hue’s smart lights are getting a connectivity upgrade](https://www.theverge.com/tech/955767/philips-hue-thread-matter-zigbee-update-silicon-labs)
+ - [21 Best Prime Day Beauty Deals of 2026 &lpar;We Sifted Through Hundreds to Pick Them&rpar;](https://www.wired.com/story/best-prime-day-beauty-deals-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
