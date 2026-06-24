@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NSA was red-teaming Mythos 5 before losing access amid the Anthropic dispute; the tests showed Mythos identified cybersecurity flaws in classified systems &lpar;New York Times&rpar;](https://www.techmeme.com/260623/p44#a260623p44)
- - [Orderful, which offers AI-powered tools to automate supply chain data management, raised a $35M Series C led by KDT, bringing its total funding to $85M &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/260623/p43#a260623p43)
- - [Whoops! Microsoft Outlook Mac Update Removes Email Conversation History](https://www.cnet.com/tech/services-and-software/microsoft-outlook-new-mac-update-deletes-conversation-history/)<!-- TECH:END -->
+ - [Get Up to 36% Off With the Best Prime Day Kindle Deals &lpar;2026&rpar;: Paperwhite, Colorsoft, Kids](https://www.wired.com/story/kindle-prime-day-deals-06-24-2026/)
+ - [The 16 Best Amazon Prime Day Deals Under $100 in 2026](https://www.wired.com/story/best-prime-day-deals-under-100-06-24-2026/)
+ - [I Found the Very Best Prime Day Laptop Deals onMacBooks and More &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-laptop-deals-06-24-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
