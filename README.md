@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
- - 🚯 [Instant karma for the bully](http://9gag.com/gag/aVvAoBP)
- - 🚯 [High life to fall of life](http://9gag.com/gag/a87ZAR1)<!-- MEMES:END -->
+ - 🚖 [At a rather inauspicious moment](http://9gag.com/gag/aO8w4Yy)
+ - 🚯 [Poor JD](http://9gag.com/gag/aBypZ5A)
+ - 🚯 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)<!-- MEMES:END -->
 
 --- 
 
