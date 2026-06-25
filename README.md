@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
- - 🚯 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
- - 🚯 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
+ - 🚖 [Not honest work](http://9gag.com/gag/ajPpLGw)
+ - 🚯 [Things that will never happen to you](http://9gag.com/gag/ae9LOBm)
+ - 🚯 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)<!-- MEMES:END -->
 
 --- 
 
