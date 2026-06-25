@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S8 and Note 8 are almost 10 years old, but just got a surprise update](https://www.androidauthority.com/samsung-surprising-software-update-galaxy-s8-note-8-3681288/)
- - [17 Best Prime Day Apple Deals Offering Up to 30% Off: iPad, Apple Watch, MacBooks, and More &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-06-25-2026/)
- - [Coval, which develops simulation and evaluation tech for testing, launching, and monitoring AI voice and chat agents, raised a $28M Series A led by Norwest &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260625/p11#a260625p11)<!-- TECH:END -->
+ - [Apple confirms price hikes across Macs, iPads, and more](https://appleinsider.com/articles/26/06/25/apple-confirms-price-nikes-across-macs-ipads-and-more?utm_source=rss)
+ - [21 Best Prime Day Beauty Deals of 2026 &lpar;We Sifted Through Hundreds to Pick Them&rpar;](https://www.wired.com/story/best-prime-day-beauty-deals-06-25-2026/)
+ - [Why the M5 MacBook Air is the only laptop I’d buy during Prime Day](https://www.androidauthority.com/macbook-air-m5-prime-day-best-laptop-deal-3681323/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
