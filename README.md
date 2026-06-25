@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
- - 🚯 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
- - 🚯 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
+ - 🚖 [Scammer switching apples](http://9gag.com/gag/ajPpOd0)
+ - 🚯 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
+ - 🚯 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)<!-- MEMES:END -->
 
 --- 
 
