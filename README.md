@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scammer switching apples](http://9gag.com/gag/ajPpOd0)
- - 🚯 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
- - 🚯 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)<!-- MEMES:END -->
+ - 🚖 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)
+ - 🚯 [Good movie!](http://9gag.com/gag/aLnx4y5)
+ - 🚯 [An infuriating book has arrived in our house, called 20,000 Cows. It&#39;s a wordsearch, but the only word to find is COW. Sounds easy? This is page 1, where there is one cow to be found, if you fancy a try.](http://9gag.com/gag/aoyX47g)<!-- MEMES:END -->
 
 --- 
 
