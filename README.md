@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Kalshi is in talks to raise a funding round at a ~$40B valuation that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May &lpar;Financial Times&rpar;](https://www.techmeme.com/260624/p37#a260624p37)
- - [Prime Day deal: Nothing Ear 3 drops to record low of just $128](https://www.androidauthority.com/nothing-ear-3-prime-day-deal-3681111/)
- - [Get Up to 36% Off With the Best Prime Day Kindle Deals &lpar;2026&rpar;: Paperwhite, Colorsoft, Kids](https://www.wired.com/story/kindle-prime-day-deals-06-24-2026/)<!-- TECH:END -->
+ - [An Amazon seller reveals how middlemen on chat apps offer access to Amazon employees who allegedly grant favors, like reinstating suspended accounts, for a fee &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260624/p48#a260624p48)
+ - [The Skylight Calendar Is One of My Favorite Products On Sale for Prime Day](https://www.wired.com/story/skylight-calendar-prime-day-deal-2026/)
+ - [Hang Ten Systems, led by former Infosys CEO Vishal Sikka, launches with a $32M seed led by Mayfield to help enterprises use AI to run software at a lower cost &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260624/p47#a260624p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
