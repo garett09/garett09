@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple confirms price hikes across Macs, iPads, and more](https://appleinsider.com/articles/26/06/25/apple-confirms-price-nikes-across-macs-ipads-and-more?utm_source=rss)
- - [21 Best Prime Day Beauty Deals of 2026 &lpar;We Sifted Through Hundreds to Pick Them&rpar;](https://www.wired.com/story/best-prime-day-beauty-deals-06-25-2026/)
- - [Why the M5 MacBook Air is the only laptop I’d buy during Prime Day](https://www.androidauthority.com/macbook-air-m5-prime-day-best-laptop-deal-3681323/)<!-- TECH:END -->
+ - [Here’s how bad Microsoft’s latest XBOX price hike is going to hurt](https://www.androidauthority.com/microsoft-xbox-price-increase-in-august-3681588/)
+ - [Apple&#39;s Price Increases Extend to Refurbished Macs and iPads](https://www.cnet.com/tech/computing/apple-mac-ipad-price-hikes-refurbished/)
+ - [Amazon&#39;s $299 iPad deal is in stock now, $150 off Apple&#39;s new $449 price](https://appleinsider.com/articles/26/06/25/amazons-299-ipad-deal-is-in-stock-now-150-off-apples-new-449-price?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
