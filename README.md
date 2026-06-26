@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how bad Microsoft’s latest XBOX price hike is going to hurt](https://www.androidauthority.com/microsoft-xbox-price-increase-in-august-3681588/)
- - [Apple&#39;s Price Increases Extend to Refurbished Macs and iPads](https://www.cnet.com/tech/computing/apple-mac-ipad-price-hikes-refurbished/)
- - [Amazon&#39;s $299 iPad deal is in stock now, $150 off Apple&#39;s new $449 price](https://appleinsider.com/articles/26/06/25/amazons-299-ipad-deal-is-in-stock-now-150-off-apples-new-449-price?utm_source=rss)<!-- TECH:END -->
+ - [SoftBank shares fell 12% after reports that OpenAI may delay its IPO until 2027; expectations of a windfall from OpenAI&#39;s debut helped support Softbank&#39;s stock &lpar;Aya Wagatsuma/Bloomberg&rpar;](https://www.techmeme.com/260625/p60#a260625p60)
+ - [California launches a tool to serve as an &quot;early warning system&quot; for widespread AI-driven job loss, linking AI exposure with unemployment insurance claims &lpar;Jo Constantz/Bloomberg&rpar;](https://www.techmeme.com/260625/p59#a260625p59)
+ - [Upside, which provides social workers with AI-powered housing insights, raised a $20M Series A led by Aquiline with Flare Capital, 645, and others participating &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260625/p58#a260625p58)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
