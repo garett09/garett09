@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon roadmap leak suggests Android buyers are in for a headache](https://www.androidauthority.com/next-gen-qualcomm-snapdragon-8-chips-rumor-3681762/)
- - [Trump Mobile will take your $499 right now](https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit)
- - [99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/)<!-- TECH:END -->
+ - [Anthropic&amp;#8217;s Mythos mess is only getting worse](https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations)
+ - [Is X down for you? Here’s what’s going on](https://www.androidauthority.com/x-outage-june-2026-3681860/)
+ - [2026 Prime Day Deals: 20% off NOCO and Wolfbox Jump Starters](https://www.wired.com/story/best-amazon-prime-day-jump-starter-deals-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
