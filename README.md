@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)
- - 🚯 [Not honest work](http://9gag.com/gag/ajPpLGw)
- - 🚯 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
+ - 🚖 [Asians need to step up](http://9gag.com/gag/aE03ozO)
+ - 🚯 [I just rewatched this gem... miscuzi](http://9gag.com/gag/azxnOZq)
+ - 🚯 [I can imagine many a 9gagger pulling an Uno Reverse in the situation...](http://9gag.com/gag/ae9LVGQ)<!-- MEMES:END -->
 
 --- 
 
