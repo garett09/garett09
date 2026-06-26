@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&amp;#8217;s Mythos mess is only getting worse](https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations)
- - [Is X down for you? Here’s what’s going on](https://www.androidauthority.com/x-outage-june-2026-3681860/)
- - [2026 Prime Day Deals: 20% off NOCO and Wolfbox Jump Starters](https://www.wired.com/story/best-amazon-prime-day-jump-starter-deals-2026/)<!-- TECH:END -->
+ - [Sources: Paul Meade, Apple&#39;s top executive in charge of Vision Pro and smart glasses efforts, is leaving for OpenAI to work on the company&#39;s AI-powered devices &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260626/p22#a260626p22)
+ - [Here’s how you can avoid Apple’s MacBook Neo price hike](https://www.androidauthority.com/apple-macbook-neo-refurbs-3681931/)
+ - [Samsung SmartThings API fees could impact your favorite smart home apps](https://www.androidauthority.com/smarthings-api-paid-tiers-3681929/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
