@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank shares fell 12% after reports that OpenAI may delay its IPO until 2027; expectations of a windfall from OpenAI&#39;s debut helped support Softbank&#39;s stock &lpar;Aya Wagatsuma/Bloomberg&rpar;](https://www.techmeme.com/260625/p60#a260625p60)
- - [California launches a tool to serve as an &quot;early warning system&quot; for widespread AI-driven job loss, linking AI exposure with unemployment insurance claims &lpar;Jo Constantz/Bloomberg&rpar;](https://www.techmeme.com/260625/p59#a260625p59)
- - [Upside, which provides social workers with AI-powered housing insights, raised a $20M Series A led by Aquiline with Flare Capital, 645, and others participating &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260625/p58#a260625p58)<!-- TECH:END -->
+ - [Snapdragon roadmap leak suggests Android buyers are in for a headache](https://www.androidauthority.com/next-gen-qualcomm-snapdragon-8-chips-rumor-3681762/)
+ - [Trump Mobile will take your $499 right now](https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit)
+ - [99 Prime Day Deals That Aren’t For Suckers, Up to 50% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
