@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amid Amazon&#39;s Robot Surge, Proteus Charts a New Path Forward](https://www.cnet.com/tech/amid-amazons-robot-surge-proteus-charts-a-new-path-forward/)
- - [A look at advanced chip packaging, now more reliant on TSMC and its partners in Taiwan than ever, and the efforts to address this bottleneck in the US &lpar;Don Clark/New York Times&rpar;](https://www.techmeme.com/260627/p5#a260627p5)
- - [Sources: Meituan, Baidu, Xiaomi, and other Chinese tech giants have been trimming their workforces, fueling Chinese workers&#39; concerns of being replaced by AI &lpar;Wency Chen/South China Morning Post&rpar;](https://www.techmeme.com/260627/p4#a260627p4)<!-- TECH:END -->
+ - [Inside the room where the smart home industry is still betting on Matter](https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability)
+ - [Apple wants to buy RAM from Chinese supplier blacklisted in the US](https://appleinsider.com/articles/26/06/27/apple-asks-trump-to-let-it-buy-memory-from-a-blacklisted-supplier?utm_source=rss)
+ - [Amazon&#39;s $1,149 1TB MacBook Air M5 deal has been extended, save $450](https://appleinsider.com/articles/26/06/27/amazons-1149-1tb-macbook-air-m5-deal-has-been-extended-save-450?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
