@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 Prime Day deals Verge readers are grabbing before Prime Day ends](https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers)
- - [Sources: SpaceX and Charter have held executive-level talks on a consumer mobile phone offering, which would help SpaceX become a DTC mobile phone provider &lpar;Kelcee Griffis/Bloomberg&rpar;](https://www.techmeme.com/260626/p33#a260626p33)
- - [The 28 Best Deals Under $100 Before Prime Day Ends](https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/)<!-- TECH:END -->
+ - [Amid Amazon&#39;s Robot Surge, Proteus Charts a New Path Forward](https://www.cnet.com/tech/amid-amazons-robot-surge-proteus-charts-a-new-path-forward/)
+ - [A look at advanced chip packaging, now more reliant on TSMC and its partners in Taiwan than ever, and the efforts to address this bottleneck in the US &lpar;Don Clark/New York Times&rpar;](https://www.techmeme.com/260627/p5#a260627p5)
+ - [Sources: Meituan, Baidu, Xiaomi, and other Chinese tech giants have been trimming their workforces, fueling Chinese workers&#39; concerns of being replaced by AI &lpar;Wency Chen/South China Morning Post&rpar;](https://www.techmeme.com/260627/p4#a260627p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
