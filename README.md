@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uk van driver gives armed police officer a lift to catch the baddies](http://9gag.com/gag/a9yoXbo)
- - 🚯 [Bring back the judgment](http://9gag.com/gag/a6ZPpDN)
- - 🚯 [Smells like teen spirit](http://9gag.com/gag/ajPpxRp)<!-- MEMES:END -->
+ - 🚖 [Bring back the judgment](http://9gag.com/gag/a6ZPpDN)
+ - 🚯 [Imagine what Cristiano was thinking](http://9gag.com/gag/ae9LmXW)
+ - 🚯 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
 
 --- 
 
