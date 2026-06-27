@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
- - 🚯 [Imagine missing your mother&#39;s funeral because your wife is like this](http://9gag.com/gag/aPA5exQ)
- - 🚯 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
+ - 🚖 [Uk van driver gives armed police officer a lift to catch the baddies](http://9gag.com/gag/a9yoXbo)
+ - 🚯 [Bring back the judgment](http://9gag.com/gag/a6ZPpDN)
+ - 🚯 [Smells like teen spirit](http://9gag.com/gag/ajPpxRp)<!-- MEMES:END -->
 
 --- 
 
