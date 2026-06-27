@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Paul Meade, Apple&#39;s top executive in charge of Vision Pro and smart glasses efforts, is leaving for OpenAI to work on the company&#39;s AI-powered devices &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260626/p22#a260626p22)
- - [Here’s how you can avoid Apple’s MacBook Neo price hike](https://www.androidauthority.com/apple-macbook-neo-refurbs-3681931/)
- - [Samsung SmartThings API fees could impact your favorite smart home apps](https://www.androidauthority.com/smarthings-api-paid-tiers-3681929/)<!-- TECH:END -->
+ - [24 Prime Day deals Verge readers are grabbing before Prime Day ends](https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers)
+ - [Sources: SpaceX and Charter have held executive-level talks on a consumer mobile phone offering, which would help SpaceX become a DTC mobile phone provider &lpar;Kelcee Griffis/Bloomberg&rpar;](https://www.techmeme.com/260626/p33#a260626p33)
+ - [The 28 Best Deals Under $100 Before Prime Day Ends](https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
