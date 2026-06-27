@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bring back the judgment](http://9gag.com/gag/a6ZPpDN)
- - 🚯 [Imagine what Cristiano was thinking](http://9gag.com/gag/ae9LmXW)
- - 🚯 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
+ - 🚖 [Imagine what Cristiano was thinking](http://9gag.com/gag/ae9LmXW)
+ - 🚯 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
+ - 🚯 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)<!-- MEMES:END -->
 
 --- 
 
