@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asians need to step up](http://9gag.com/gag/aE03ozO)
- - 🚯 [I just rewatched this gem... miscuzi](http://9gag.com/gag/azxnOZq)
- - 🚯 [I can imagine many a 9gagger pulling an Uno Reverse in the situation...](http://9gag.com/gag/ae9LVGQ)<!-- MEMES:END -->
+ - 🚖 [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
+ - 🚯 [Imagine missing your mother&#39;s funeral because your wife is like this](http://9gag.com/gag/aPA5exQ)
+ - 🚯 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
 
 --- 
 
