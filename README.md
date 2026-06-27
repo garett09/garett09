@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the room where the smart home industry is still betting on Matter](https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability)
- - [Apple wants to buy RAM from Chinese supplier blacklisted in the US](https://appleinsider.com/articles/26/06/27/apple-asks-trump-to-let-it-buy-memory-from-a-blacklisted-supplier?utm_source=rss)
- - [Amazon&#39;s $1,149 1TB MacBook Air M5 deal has been extended, save $450](https://appleinsider.com/articles/26/06/27/amazons-1149-1tb-macbook-air-m5-deal-has-been-extended-save-450?utm_source=rss)<!-- TECH:END -->
+ - [Margaret Atwood says the problem with AI is &amp;#8216;garbage in, garbage out&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)
+ - [62 Last Minute Prime Day Weekend Deals: Up to 45% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/)
+ - [Sakana AI&#39;s Fugu and 360&#39;s cybersecurity model Tulongfeng claim to rival Anthropic&#39;s banned Mythos and Fable 5 models amid the US export ban &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260627/p11#a260627p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
