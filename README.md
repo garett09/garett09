@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Margaret Atwood says the problem with AI is &amp;#8216;garbage in, garbage out&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)
- - [62 Last Minute Prime Day Weekend Deals: Up to 45% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-27-2026/)
- - [Sakana AI&#39;s Fugu and 360&#39;s cybersecurity model Tulongfeng claim to rival Anthropic&#39;s banned Mythos and Fable 5 models amid the US export ban &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260627/p11#a260627p11)<!-- TECH:END -->
+ - [How AI is shaping the 2026 US midterms, as public anger grows against data center expansion and the AI industry emerges as one of the biggest financial backers &lpar;Bloomberg&rpar;](https://www.techmeme.com/260627/p15#a260627p15)
+ - [LSEG: tech companies have raised $3.1B from mainland China stock market listings YTD, up 5x+ from a year earlier, as AI and chip companies drive onshore IPOs &lpar;Reuters&rpar;](https://www.techmeme.com/260627/p14#a260627p14)
+ - [Best Standing Desks of 2026](https://www.cnet.com/news/best-standing-desk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
