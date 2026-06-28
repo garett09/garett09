@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now what?](http://9gag.com/gag/apRObyn)
+ - 🚖 [It is art](http://9gag.com/gag/aD2yOZN)
  - 🚯 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 🚯 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)<!-- MEMES:END -->
+ - 🚯 [She was pointing at me!](http://9gag.com/gag/abA7R3B)<!-- MEMES:END -->
 
 --- 
 
