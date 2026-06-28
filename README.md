@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to Do in Houston If You&#39;re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/)
- - [Nest&amp;#8217;s quest to fix your thermostat](https://www.theverge.com/podcast/958735/nest-thermostat-version-history)
- - [We’re about to witness a critical moment for Verizon’s mobile plans](https://www.androidauthority.com/verizon-plans-critical-moment-3681031/)<!-- TECH:END -->
+ - [Sources: Baidu&#39;s chip unit Kunlunxin Technology plans a Hong Kong IPO at a $50B target valuation, asking investors to buy chips worth 3-7x their IPO investment &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260628/p11#a260628p11)
+ - [Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers &lpar;Jackson Chen/Engadget&rpar;](https://www.techmeme.com/260628/p10#a260628p10)
+ - [China claims the world&amp;#8217;s fastest supercomputer](https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
