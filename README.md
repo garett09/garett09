@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI is shaping the 2026 US midterms, as public anger grows against data center expansion and the AI industry emerges as one of the biggest financial backers &lpar;Bloomberg&rpar;](https://www.techmeme.com/260627/p15#a260627p15)
- - [LSEG: tech companies have raised $3.1B from mainland China stock market listings YTD, up 5x+ from a year earlier, as AI and chip companies drive onshore IPOs &lpar;Reuters&rpar;](https://www.techmeme.com/260627/p14#a260627p14)
- - [Best Standing Desks of 2026](https://www.cnet.com/news/best-standing-desk/)<!-- TECH:END -->
+ - [TMD’s keyless bike lock is a $280 solution to a $60 problem](https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review)
+ - [A profile of Jacob Andreou, the 33-year-old former Snap exec leading Microsoft&#39;s consolidated Copilot team efforts to catch up with OpenAI and Anthropic &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/260628/p6#a260628p6)
+ - [Masayoshi Son questioned Musk&#39;s orbital AI data centers, noting electricity is just 7% of costs and the AI race will be won on Earth within a few years &lpar;Tim Higgins/Wall Street Journal&rpar;](https://www.techmeme.com/260628/p5#a260628p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
