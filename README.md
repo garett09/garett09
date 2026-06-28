@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More parents need to hold their kids accountable rather than blindly defending them.](http://9gag.com/gag/amo3V19)
- - 🚯 [Now what?](http://9gag.com/gag/apRObyn)
- - 🚯 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
+ - 🚖 [Now what?](http://9gag.com/gag/apRObyn)
+ - 🚯 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
+ - 🚯 [A whole generation has an entire language code that is completely their own.](http://9gag.com/gag/amo3VG9)<!-- MEMES:END -->
 
 --- 
 
