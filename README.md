@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japanese Neighbor](http://9gag.com/gag/a4PvqN6)
- - 🚯 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)
- - 🚯 [Looks like sisters](http://9gag.com/gag/aMVgXPX)<!-- MEMES:END -->
+ - 🚖 [More parents need to hold their kids accountable rather than blindly defending them.](http://9gag.com/gag/amo3V19)
+ - 🚯 [Now what?](http://9gag.com/gag/apRObyn)
+ - 🚯 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
 
 --- 
 
