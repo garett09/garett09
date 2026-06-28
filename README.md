@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TMD’s keyless bike lock is a $280 solution to a $60 problem](https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review)
- - [A profile of Jacob Andreou, the 33-year-old former Snap exec leading Microsoft&#39;s consolidated Copilot team efforts to catch up with OpenAI and Anthropic &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/260628/p6#a260628p6)
- - [Masayoshi Son questioned Musk&#39;s orbital AI data centers, noting electricity is just 7% of costs and the AI race will be won on Earth within a few years &lpar;Tim Higgins/Wall Street Journal&rpar;](https://www.techmeme.com/260628/p5#a260628p5)<!-- TECH:END -->
+ - [What to Do in Houston If You&#39;re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/)
+ - [Nest&amp;#8217;s quest to fix your thermostat](https://www.theverge.com/podcast/958735/nest-thermostat-version-history)
+ - [We’re about to witness a critical moment for Verizon’s mobile plans](https://www.androidauthority.com/verizon-plans-critical-moment-3681031/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
