@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine what Cristiano was thinking](http://9gag.com/gag/ae9LmXW)
- - 🚯 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 🚯 [Cop break checks semi](http://9gag.com/gag/a4PvAy6)<!-- MEMES:END -->
+ - 🚖 [Japanese Neighbor](http://9gag.com/gag/a4PvqN6)
+ - 🚯 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)
+ - 🚯 [Looks like sisters](http://9gag.com/gag/aMVgXPX)<!-- MEMES:END -->
 
 --- 
 
