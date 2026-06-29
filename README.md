@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a Polymarket dispute over a single syllable ignited a bitter debate; Polymarket uses Risk Labs&#39; Optimistic Oracle to decide ~200K tough call bets per month &lpar;David Segal/New York Times&rpar;](https://www.techmeme.com/260629/p15#a260629p15)
- - [Verizon and the UK&#39;s BT agree to create a joint venture for their international businesses with ~$4B in combined yearly revenue; Verizon will pay $625M to BT &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p14#a260629p14)
- - [After 10 months with the Pixel 10 Pro, I can’t stand these 3 issues](https://www.androidauthority.com/google-pixel-10-pro-ten-months-later-issues-3680886/)<!-- TECH:END -->
+ - [Pixel Watch 5 passes a big milestone on the way to this summer’s upcoming launch](https://www.androidauthority.com/google-pixel-watch-5-fcc-3682402/)
+ - [Galaxy Watch Ultra 2 leak reveals trio of game-changing upgrades](https://www.androidauthority.com/galaxy-watch-ultra-2-brightness-battery-protection-3682378/)
+ - [Apple&#39;s iPhone went on sale 19 years ago today, and changed the world](https://appleinsider.com/articles/26/06/29/apples-original-iphone-went-on-sale-14-years-ago?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
