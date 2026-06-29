@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jefferies: memory prices are expected to rise 40-50% in Q3 2026 and 30-40% in Q4, as Chinese memory makers are unlikely to provide meaningful near-term relief &lpar;Hassan Mujtaba/Wccftech&rpar;](https://www.techmeme.com/260628/p16#a260628p16)
- - [Humanoid robot maker Apptronik raised ~$1B at a ~$5B valuation, including from Mercedes-Benz, which has a handful of Apptronik&#39;s Apollo robots in its factories &lpar;Joshua Brustein/Bloomberg&rpar;](https://www.techmeme.com/260628/p15#a260628p15)
- - [Google&#39;s Earthquake Alerts system reached 11.4M+ people in Venezuela, giving them seconds or up to two minutes notice before two powerful earthquakes struck &lpar;New York Times&rpar;](https://www.techmeme.com/260628/p14#a260628p14)<!-- TECH:END -->
+ - [How a Polymarket dispute over a single syllable ignited a bitter debate; Polymarket uses Risk Labs&#39; Optimistic Oracle to decide ~200K tough call bets per month &lpar;David Segal/New York Times&rpar;](https://www.techmeme.com/260629/p15#a260629p15)
+ - [Verizon and the UK&#39;s BT agree to create a joint venture for their international businesses with ~$4B in combined yearly revenue; Verizon will pay $625M to BT &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p14#a260629p14)
+ - [After 10 months with the Pixel 10 Pro, I can’t stand these 3 issues](https://www.androidauthority.com/google-pixel-10-pro-ten-months-later-issues-3680886/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
