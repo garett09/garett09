@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch 5 passes a big milestone on the way to this summer’s upcoming launch](https://www.androidauthority.com/google-pixel-watch-5-fcc-3682402/)
- - [Galaxy Watch Ultra 2 leak reveals trio of game-changing upgrades](https://www.androidauthority.com/galaxy-watch-ultra-2-brightness-battery-protection-3682378/)
- - [Apple&#39;s iPhone went on sale 19 years ago today, and changed the world](https://appleinsider.com/articles/26/06/29/apples-original-iphone-went-on-sale-14-years-ago?utm_source=rss)<!-- TECH:END -->
+ - [As a new law bars DOD from working with companies whose lobbyists also represent blacklisted entities, DC lobbying firms drop companies like Alibaba and Tencent &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p36#a260629p36)
+ - [Android 17 testers stuck on Beta will have to wait a little longer for a fix](https://www.androidauthority.com/android-17-beta-upgrade-fix-3682525/)
+ - [Sony&amp;#8217;s next-gen PlayStation will go ‘beyond the living room’](https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
