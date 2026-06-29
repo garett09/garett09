@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some years later](http://9gag.com/gag/aryY8Bd)
- - 🚯 [It is art](http://9gag.com/gag/aD2yOZN)
- - 🚯 [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)<!-- MEMES:END -->
+ - 🚖 [The diversity I approve](http://9gag.com/gag/a5Q4DXN)
+ - 🚯 [We don\u2019t deserve animals](http://9gag.com/gag/aW4zRLZ)
+ - 🚯 [Owner of AC in europe](http://9gag.com/gag/a87Zz4p)<!-- MEMES:END -->
 
 --- 
 
