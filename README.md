@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Baidu&#39;s chip unit Kunlunxin Technology plans a Hong Kong IPO at a $50B target valuation, asking investors to buy chips worth 3-7x their IPO investment &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260628/p11#a260628p11)
- - [Australian government says it plans to double the maximum penalty for any social media company breaking its minimum age law and grant more powers to enforcers &lpar;Jackson Chen/Engadget&rpar;](https://www.techmeme.com/260628/p10#a260628p10)
- - [China claims the world&amp;#8217;s fastest supercomputer](https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer)<!-- TECH:END -->
+ - [Jefferies: memory prices are expected to rise 40-50% in Q3 2026 and 30-40% in Q4, as Chinese memory makers are unlikely to provide meaningful near-term relief &lpar;Hassan Mujtaba/Wccftech&rpar;](https://www.techmeme.com/260628/p16#a260628p16)
+ - [Humanoid robot maker Apptronik raised ~$1B at a ~$5B valuation, including from Mercedes-Benz, which has a handful of Apptronik&#39;s Apollo robots in its factories &lpar;Joshua Brustein/Bloomberg&rpar;](https://www.techmeme.com/260628/p15#a260628p15)
+ - [Google&#39;s Earthquake Alerts system reached 11.4M+ people in Venezuela, giving them seconds or up to two minutes notice before two powerful earthquakes struck &lpar;New York Times&rpar;](https://www.techmeme.com/260628/p14#a260628p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
