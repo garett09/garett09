@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is art](http://9gag.com/gag/aD2yOZN)
- - 🚯 [Looks like sisters](http://9gag.com/gag/aMVgXPX)
- - 🚯 [She was pointing at me!](http://9gag.com/gag/abA7R3B)<!-- MEMES:END -->
+ - 🚖 [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)
+ - 🚯 [WNBA](http://9gag.com/gag/amo3R04)
+ - 🚯 [Finally a new business idea](http://9gag.com/gag/axy5YbD)<!-- MEMES:END -->
 
 --- 
 
