@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The diversity I approve](http://9gag.com/gag/a5Q4DXN)
- - 🚯 [We don\u2019t deserve animals](http://9gag.com/gag/aW4zRLZ)
- - 🚯 [Owner of AC in europe](http://9gag.com/gag/a87Zz4p)<!-- MEMES:END -->
+ - 🚖 [Marriage makes man happy](http://9gag.com/gag/aByp4z2)
+ - 🚯 [Lol in the middle of a heatwave](http://9gag.com/gag/aXPBRZz)
+ - 🚯 [WNBA](http://9gag.com/gag/amo3R04)<!-- MEMES:END -->
 
 --- 
 
