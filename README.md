@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)
- - 🚯 [WNBA](http://9gag.com/gag/amo3R04)
- - 🚯 [Finally a new business idea](http://9gag.com/gag/axy5YbD)<!-- MEMES:END -->
+ - 🚖 [Some years later](http://9gag.com/gag/aryY8Bd)
+ - 🚯 [It is art](http://9gag.com/gag/aD2yOZN)
+ - 🚯 [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)<!-- MEMES:END -->
 
 --- 
 
