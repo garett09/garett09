@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Marriage makes man happy](http://9gag.com/gag/aByp4z2)
- - 🚯 [Lol in the middle of a heatwave](http://9gag.com/gag/aXPBRZz)
- - 🚯 [WNBA](http://9gag.com/gag/amo3R04)<!-- MEMES:END -->
+ - 🚖 [Only people that has experience with Electrical engineering will understand the codes from those circuit boards.](http://9gag.com/gag/aD2yMpx)
+ - 🚯 [No way](http://9gag.com/gag/aNDN3D0)
+ - 🚯 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
 
 --- 
 
