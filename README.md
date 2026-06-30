@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s defense of Vega OS still doesn’t explain why users should be excited, Fire TV or not](https://www.androidauthority.com/amazon-fire-tv-stick-vega-os-3682755/)
- - [AI and vibe coding fuel a surge in game releases; ATTN Economy says 181K mobile games launched in six months to May, up 118% on iOS and 73% on Android YoY &lpar;Orlando Crowcroft/Financial Times&rpar;](https://www.techmeme.com/260630/p8#a260630p8)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 30 #849](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-30-849/)<!-- TECH:END -->
+ - [iPhone 18 Pro ‘drop test’ leaks  get yanked from X](https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled)
+ - [Apple is delivering security updates faster to beat AI hackers](https://appleinsider.com/articles/26/06/30/apple-is-delivering-security-updates-faster-to-beat-ai-hackers?utm_source=rss)
+ - [AT&amp;T’s customizable mobile plan is getting a massive home internet upgrade](https://www.androidauthority.com/att-build-a-plan-home-internet-3682922/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
