@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As a new law bars DOD from working with companies whose lobbyists also represent blacklisted entities, DC lobbying firms drop companies like Alibaba and Tencent &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p36#a260629p36)
- - [Android 17 testers stuck on Beta will have to wait a little longer for a fix](https://www.androidauthority.com/android-17-beta-upgrade-fix-3682525/)
- - [Sony&amp;#8217;s next-gen PlayStation will go ‘beyond the living room’](https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room)<!-- TECH:END -->
+ - [Nebex, a fintech startup aiming to act as a broker platform connecting US space tech suppliers, foreign governments, and investors, raised a $30M seed led by GV &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p49#a260629p49)
+ - [Australia&#39;s ACCC sues Amazon for allegedly introducing ads to Prime Video under unfair contract terms and forcing existing subscribers to pay more to avoid them &lpar;Peter Vercoe/Bloomberg&rpar;](https://www.techmeme.com/260629/p48#a260629p48)
+ - [OpenAI teases a device it is launching in partnership with keyboard maker Work Louder on July 15, saying &quot;Your favorite Codex shortcuts are getting an upgrade&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260629/p47#a260629p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
