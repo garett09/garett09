@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro ‘drop test’ leaks  get yanked from X](https://www.theverge.com/tech/959474/iphone-18-pro-leaked-videos-pulled)
- - [Apple is delivering security updates faster to beat AI hackers](https://appleinsider.com/articles/26/06/30/apple-is-delivering-security-updates-faster-to-beat-ai-hackers?utm_source=rss)
- - [AT&amp;T’s customizable mobile plan is getting a massive home internet upgrade](https://www.androidauthority.com/att-build-a-plan-home-internet-3682922/)<!-- TECH:END -->
+ - [AI browsers were tricked into revealing passwords with a shockingly simple approach](https://www.androidauthority.com/ai-browsers-tricked-game-bioshocking-3683064/)
+ - [Google’s NotebookLM can sum up your research in a TikTok-style clip](https://www.theverge.com/tech/959778/google-notebooklm-ai-clips)
+ - [Google shuts down the Tenor API, affecting GIF pickers on platforms like Discord, WhatsApp, and Bluesky; Nikita Bier says X has migrated elsewhere &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260630/p31#a260630p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
