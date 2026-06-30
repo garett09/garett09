@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nebex, a fintech startup aiming to act as a broker platform connecting US space tech suppliers, foreign governments, and investors, raised a $30M seed led by GV &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p49#a260629p49)
- - [Australia&#39;s ACCC sues Amazon for allegedly introducing ads to Prime Video under unfair contract terms and forcing existing subscribers to pay more to avoid them &lpar;Peter Vercoe/Bloomberg&rpar;](https://www.techmeme.com/260629/p48#a260629p48)
- - [OpenAI teases a device it is launching in partnership with keyboard maker Work Louder on July 15, saying &quot;Your favorite Codex shortcuts are getting an upgrade&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260629/p47#a260629p47)<!-- TECH:END -->
+ - [Amazon’s defense of Vega OS still doesn’t explain why users should be excited, Fire TV or not](https://www.androidauthority.com/amazon-fire-tv-stick-vega-os-3682755/)
+ - [AI and vibe coding fuel a surge in game releases; ATTN Economy says 181K mobile games launched in six months to May, up 118% on iOS and 73% on Android YoY &lpar;Orlando Crowcroft/Financial Times&rpar;](https://www.techmeme.com/260630/p8#a260630p8)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 30 #849](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-30-849/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
