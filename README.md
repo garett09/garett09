@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
- - 🚯 [Some years later](http://9gag.com/gag/aryY8Bd)
- - 🚯 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
+ - 🚖 [Greatest street rapper in NYC](http://9gag.com/gag/aQzGrAK)
+ - 🚯 [Imagine renovating a bathroom and finding a hoard of rusty blades](http://9gag.com/gag/aE03NMo)
+ - 🚯 [Moooooooo](https://www.reddit.com/r/funny/comments/1ujzbss/moooooooo/)<!-- MEMES:END -->
 
 --- 
 
