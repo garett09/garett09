@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
- - 🚯 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
- - 🚯 [Aberfan disaster](http://9gag.com/gag/ajPpdW8)<!-- MEMES:END -->
+ - 🚯 [Some years later](http://9gag.com/gag/aryY8Bd)
+ - 🚯 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
 
 --- 
 
