@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Greatest street rapper in NYC](http://9gag.com/gag/aQzGrAK)
- - 🚯 [Imagine renovating a bathroom and finding a hoard of rusty blades](http://9gag.com/gag/aE03NMo)
- - 🚯 [Moooooooo](https://www.reddit.com/r/funny/comments/1ujzbss/moooooooo/)<!-- MEMES:END -->
+ - 🚖 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
+ - 🚯 [Hulk](http://9gag.com/gag/a7oQGMr)
+ - 🚯 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
 
 --- 
 
