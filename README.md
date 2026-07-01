@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX cuts monthly Starlink prices in half in the Memphis area, as it endures blowback and legal challenges from opponents of its Colossus data centers &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260630/p44#a260630p44)
- - [Lime raised $174M in its US IPO, selling 6.68M shares at $25 each, at the midpoint of the marketed range, giving Lime a market value of $1.6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260630/p43#a260630p43)
- - [Vimeo owner Bending Spoons raised $1.68B by selling 58M shares at $29 each, valuing it at ~$18.4B, in one of the largest US IPOs by a European company in 2026 &lpar;Subrat Patnaik/Bloomberg&rpar;](https://www.techmeme.com/260630/p42#a260630p42)<!-- TECH:END -->
+ - [Frustrated by missed calls on your Pixel? These 3 settings might fix it](https://www.androidauthority.com/missed-phone-calls-pixel-how-to-fix-3683096/)
+ - [A Guided Tour of Donald Trump’s Renovated Washington, DC](https://www.wired.com/story/a-guided-tour-of-donald-trumps-renovated-washington-dc/)
+ - [Gemini’s latest update makes presentations a cakewalk](https://www.androidauthority.com/gemini-google-slides-presentation-3683217/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
