@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI browsers were tricked into revealing passwords with a shockingly simple approach](https://www.androidauthority.com/ai-browsers-tricked-game-bioshocking-3683064/)
- - [Google’s NotebookLM can sum up your research in a TikTok-style clip](https://www.theverge.com/tech/959778/google-notebooklm-ai-clips)
- - [Google shuts down the Tenor API, affecting GIF pickers on platforms like Discord, WhatsApp, and Bluesky; Nikita Bier says X has migrated elsewhere &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260630/p31#a260630p31)<!-- TECH:END -->
+ - [SpaceX cuts monthly Starlink prices in half in the Memphis area, as it endures blowback and legal challenges from opponents of its Colossus data centers &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260630/p44#a260630p44)
+ - [Lime raised $174M in its US IPO, selling 6.68M shares at $25 each, at the midpoint of the marketed range, giving Lime a market value of $1.6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260630/p43#a260630p43)
+ - [Vimeo owner Bending Spoons raised $1.68B by selling 58M shares at $29 each, valuing it at ~$18.4B, in one of the largest US IPOs by a European company in 2026 &lpar;Subrat Patnaik/Bloomberg&rpar;](https://www.techmeme.com/260630/p42#a260630p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
