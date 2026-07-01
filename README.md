@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frustrated by missed calls on your Pixel? These 3 settings might fix it](https://www.androidauthority.com/missed-phone-calls-pixel-how-to-fix-3683096/)
- - [A Guided Tour of Donald Trump’s Renovated Washington, DC](https://www.wired.com/story/a-guided-tour-of-donald-trumps-renovated-washington-dc/)
- - [Gemini’s latest update makes presentations a cakewalk](https://www.androidauthority.com/gemini-google-slides-presentation-3683217/)<!-- TECH:END -->
+ - [Oxmiq, which aims to combine GPUs, CPUs, and a tensor engine into a single block of IP that it can license, raised $35M led by Samsung Catalyst Fund and Fudomo &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260701/p31#a260701p31)
+ - [New Jamf Beacon gives businesses active Mac threat hunting](https://appleinsider.com/articles/26/07/01/new-jamf-beacon-gives-businesses-active-mac-threat-hunting?utm_source=rss)
+ - [T-Mobile’s forced plan migrations: Here are the new plans, their price and benefits &lpar;Updated&rpar;](https://www.androidauthority.com/t-mobile-forced-plan-migration-details-3683209/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
