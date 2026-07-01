@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please protect these people](http://9gag.com/gag/a87ZX9Y)
+ - 🚖 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
  - 🚯 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
  - 🚯 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
 
