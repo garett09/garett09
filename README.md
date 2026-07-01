@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oxmiq, which aims to combine GPUs, CPUs, and a tensor engine into a single block of IP that it can license, raised $35M led by Samsung Catalyst Fund and Fudomo &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260701/p31#a260701p31)
- - [New Jamf Beacon gives businesses active Mac threat hunting](https://appleinsider.com/articles/26/07/01/new-jamf-beacon-gives-businesses-active-mac-threat-hunting?utm_source=rss)
- - [T-Mobile’s forced plan migrations: Here are the new plans, their price and benefits &lpar;Updated&rpar;](https://www.androidauthority.com/t-mobile-forced-plan-migration-details-3683209/)<!-- TECH:END -->
+ - [Eufy’s Find Hub tracking card has been years in the making, and you can finally buy it](https://www.androidauthority.com/eufy-find-hub-card-sales-3683530/)
+ - [An Explosion Knocked Out Anduril’s Rocket Motor Test Site in Mississippi](https://www.wired.com/story/anduril-mississippi-explosion-missiles-rocket-motor/)
+ - [Older Amazon Echo speakers are acting up — is yours?](https://www.androidauthority.com/amazon-echo-not-responding-3683484/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
