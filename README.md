@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
- - 🚯 [Hulk](http://9gag.com/gag/a7oQGMr)
- - 🚯 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
+ - 🚖 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
+ - 🚯 [What happens in a woman mouth during a date](http://9gag.com/gag/ajPpdzp)
+ - 🚯 [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)<!-- MEMES:END -->
 
 --- 
 
