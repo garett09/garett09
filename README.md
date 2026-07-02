@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India-based short video app ShareChat&#39;s parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M micro-drama viewers monthly &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260701/p47#a260701p47)
- - [Ford Had to Rehire Veteran Engineers After Its AI Flopped. Other Employers Should Take Notice](https://www.cnet.com/roadshow/news/ford-recalls-veteran-engineers-ai-falls-short/)
- - [Amazon&#39;s emissions rose 16%+ YoY in 2025, driven by data center construction and delivery fuel, while Google&#39;s &quot;ambition-based&quot; emissions jumped 18% YoY in 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p46#a260701p46)<!-- TECH:END -->
+ - [The European Court of Justice rules that Google&#39;s earlier defeat against a €4.1B European Commission penalty over abusing Android market power should stand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260702/p10#a260702p10)
+ - [WhatsApp defends its upcoming usernames amid major fraud concerns](https://www.androidauthority.com/whatsapp-username-clarification-amid-fraud-concerns-3683712/)
+ - [A look at the CSOP SK Hynix Leveraged ETF, which trades in Hong Kong and has ballooned into a $13B fund, becoming the world&#39;s largest single-stock leveraged ETF &lpar;Bloomberg&rpar;](https://www.techmeme.com/260702/p9#a260702p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
