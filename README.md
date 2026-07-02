@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Great American Pride festival. LMAO! There was thousands, tens of thousands maybe even hundreds of thousands...................not there.](http://9gag.com/gag/avyN4AO)
- - 🚯 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
- - 🚯 [Best Pokemon](http://9gag.com/gag/amo3O0X)<!-- MEMES:END -->
+ - 🚖 [Percussive maintenance works on everything](http://9gag.com/gag/aVvA4p8)
+ - 🚯 [Life hack 101](http://9gag.com/gag/aD2yr9x)
+ - 🚯 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)<!-- MEMES:END -->
 
 --- 
 
