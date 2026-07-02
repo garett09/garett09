@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eufy’s Find Hub tracking card has been years in the making, and you can finally buy it](https://www.androidauthority.com/eufy-find-hub-card-sales-3683530/)
- - [An Explosion Knocked Out Anduril’s Rocket Motor Test Site in Mississippi](https://www.wired.com/story/anduril-mississippi-explosion-missiles-rocket-motor/)
- - [Older Amazon Echo speakers are acting up — is yours?](https://www.androidauthority.com/amazon-echo-not-responding-3683484/)<!-- TECH:END -->
+ - [India-based short video app ShareChat&#39;s parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M micro-drama viewers monthly &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260701/p47#a260701p47)
+ - [Ford Had to Rehire Veteran Engineers After Its AI Flopped. Other Employers Should Take Notice](https://www.cnet.com/roadshow/news/ford-recalls-veteran-engineers-ai-falls-short/)
+ - [Amazon&#39;s emissions rose 16%+ YoY in 2025, driven by data center construction and delivery fuel, while Google&#39;s &quot;ambition-based&quot; emissions jumped 18% YoY in 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p46#a260701p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
