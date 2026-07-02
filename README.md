@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5K+ startups &lpar;Gené Teare/Crunchbase News&rpar;](https://www.techmeme.com/260702/p23#a260702p23)
- - [7 Lesser-Known Google Account Settings You Should Change](https://www.wired.com/story/7-google-account-settings-you-should-change/)
- - [All Galaxy S27 models could get Privacy Display, but is this good or bad news?](https://www.androidauthority.com/samsung-galaxy-s27-models-privacy-display-3683785/)<!-- TECH:END -->
+ - [Alexa no longer sounds possessed, as Amazon fixes bizarre noises](https://www.androidauthority.com/alexa-noises-fix-3683939/)
+ - [UK-based StirlingX, which develops secure data intelligence systems for defense and critical infrastructure, raised a $20M Series A, following a $11M seed &lpar;Cate Lawrence/Tech.eu&rpar;](https://www.techmeme.com/260702/p30#a260702p30)
+ - [Galaxy S27 Pro and Ultra leak hints at a big shake-up for the selfie camera](https://www.androidauthority.com/galaxy-s27-pro-ultra-front-camera-upgrade-3683931/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
