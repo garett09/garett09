@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Court of Justice rules that Google&#39;s earlier defeat against a €4.1B European Commission penalty over abusing Android market power should stand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260702/p10#a260702p10)
- - [WhatsApp defends its upcoming usernames amid major fraud concerns](https://www.androidauthority.com/whatsapp-username-clarification-amid-fraud-concerns-3683712/)
- - [A look at the CSOP SK Hynix Leveraged ETF, which trades in Hong Kong and has ballooned into a $13B fund, becoming the world&#39;s largest single-stock leveraged ETF &lpar;Bloomberg&rpar;](https://www.techmeme.com/260702/p9#a260702p9)<!-- TECH:END -->
+ - [Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5K+ startups &lpar;Gené Teare/Crunchbase News&rpar;](https://www.techmeme.com/260702/p23#a260702p23)
+ - [7 Lesser-Known Google Account Settings You Should Change](https://www.wired.com/story/7-google-account-settings-you-should-change/)
+ - [All Galaxy S27 models could get Privacy Display, but is this good or bad news?](https://www.androidauthority.com/samsung-galaxy-s27-models-privacy-display-3683785/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
