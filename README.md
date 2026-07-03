@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alexandr Wang said Meta&#39;s model currently in training, codenamed Watermelon, matches GPT-5.5 and uses an &quot;order of magnitude more compute than Avocado&quot; &lpar;Business Insider&rpar;](https://www.techmeme.com/260702/p40#a260702p40)
- - [Sources: Anthropic&#39;s bankers have hired UK law firm Freshfields to advise on its IPO; it also advised on Google&#39;s acquisition of Wiz and ServiceNow&#39;s Armis deal &lpar;The Information&rpar;](https://www.techmeme.com/260702/p39#a260702p39)
- - [Sony’s PlayStation disc factory is already being repurposed](https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead)<!-- TECH:END -->
+ - [Think smartphone batteries are simple? This iFixit factory video will change your mind](https://www.androidauthority.com/ifixit-smartphone-battery-factory-video-3684023/)
+ - [Sony Erases Digital Content From Libraries, a Reminder That You Don’t Own What You Buy](https://www.wired.com/story/sony-erases-digital-content-from-libraries/)
+ - [Gemini’s Error 1099 is locking users out, but this unofficial fix could help](https://www.androidauthority.com/google-gemini-error-1099-fix-3684008/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
