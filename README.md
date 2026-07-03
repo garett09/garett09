@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Think smartphone batteries are simple? This iFixit factory video will change your mind](https://www.androidauthority.com/ifixit-smartphone-battery-factory-video-3684023/)
- - [Sony Erases Digital Content From Libraries, a Reminder That You Don’t Own What You Buy](https://www.wired.com/story/sony-erases-digital-content-from-libraries/)
- - [Gemini’s Error 1099 is locking users out, but this unofficial fix could help](https://www.androidauthority.com/google-gemini-error-1099-fix-3684008/)<!-- TECH:END -->
+ - [Jon Prosser responds to Apple lawsuit by blaming the other guy](https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak)
+ - [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list)
+ - [Siri AI is finally good, and Apple is going to win the AI wars](https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
