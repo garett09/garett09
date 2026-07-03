@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jon Prosser responds to Apple lawsuit by blaming the other guy](https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak)
- - [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list)
- - [Siri AI is finally good, and Apple is going to win the AI wars](https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss)<!-- TECH:END -->
+ - [Google Contacts is getting ready for Tap to Share with some ‘Your info’ tweaks](https://www.androidauthority.com/google-contacts-tap-to-share-3684167/)
+ - [Amazon just gave the Fire HD 10 a surprise RAM bump and a sneaky price hike](https://www.androidauthority.com/amazon-fire-hd-10-ram-upgrade-3684183/)
+ - [Meta getting into the cloud business has been inevitable for a long time, as it seeks to diversify beyond ad revenue and monetize its AI buildout &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260703/p12#a260703p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
