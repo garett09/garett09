@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Superpower](http://9gag.com/gag/awywjXx)
- - 🚯 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)
- - 🚯 [Best Pokemon](http://9gag.com/gag/amo3O0X)<!-- MEMES:END -->
+ - 🚖 [Californyssey trailer](http://9gag.com/gag/axy5KYp)
+ - 🚯 [He would like both](http://9gag.com/gag/ajPpvA8)
+ - 🚯 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)<!-- MEMES:END -->
 
 --- 
 
