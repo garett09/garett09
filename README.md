@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Californyssey trailer](http://9gag.com/gag/axy5KYp)
- - 🚯 [He would like both](http://9gag.com/gag/ajPpvA8)
- - 🚯 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)<!-- MEMES:END -->
+ - 🚖 [Sit with me and share your most bizarre gifs. I start](http://9gag.com/gag/aXPBm89)
+ - 🚯 [Back Pain? Do this now.](http://9gag.com/gag/axy5Kz2)
+ - 🚯 [Cool optical illusion](http://9gag.com/gag/an76wz5)<!-- MEMES:END -->
 
 --- 
 
