@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa no longer sounds possessed, as Amazon fixes bizarre noises](https://www.androidauthority.com/alexa-noises-fix-3683939/)
- - [UK-based StirlingX, which develops secure data intelligence systems for defense and critical infrastructure, raised a $20M Series A, following a $11M seed &lpar;Cate Lawrence/Tech.eu&rpar;](https://www.techmeme.com/260702/p30#a260702p30)
- - [Galaxy S27 Pro and Ultra leak hints at a big shake-up for the selfie camera](https://www.androidauthority.com/galaxy-s27-pro-ultra-front-camera-upgrade-3683931/)<!-- TECH:END -->
+ - [Sources: Alexandr Wang said Meta&#39;s model currently in training, codenamed Watermelon, matches GPT-5.5 and uses an &quot;order of magnitude more compute than Avocado&quot; &lpar;Business Insider&rpar;](https://www.techmeme.com/260702/p40#a260702p40)
+ - [Sources: Anthropic&#39;s bankers have hired UK law firm Freshfields to advise on its IPO; it also advised on Google&#39;s acquisition of Wiz and ServiceNow&#39;s Armis deal &lpar;The Information&rpar;](https://www.techmeme.com/260702/p39#a260702p39)
+ - [Sony’s PlayStation disc factory is already being repurposed](https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
