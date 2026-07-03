@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Percussive maintenance works on everything](http://9gag.com/gag/aVvA4p8)
- - 🚯 [Life hack 101](http://9gag.com/gag/aD2yr9x)
- - 🚯 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)<!-- MEMES:END -->
+ - 🚖 [Life hack 101](http://9gag.com/gag/aD2yr9x)
+ - 🚯 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
+ - 🚯 [Crying in four hours of sleep](http://9gag.com/gag/azxnoob)<!-- MEMES:END -->
 
 --- 
 
