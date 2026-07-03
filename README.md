@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life hack 101](http://9gag.com/gag/aD2yr9x)
- - 🚯 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
- - 🚯 [Crying in four hours of sleep](http://9gag.com/gag/azxnoob)<!-- MEMES:END -->
+ - 🚖 [Superpower](http://9gag.com/gag/awywjXx)
+ - 🚯 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)
+ - 🚯 [Best Pokemon](http://9gag.com/gag/amo3O0X)<!-- MEMES:END -->
 
 --- 
 
