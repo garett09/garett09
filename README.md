@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait for it](http://9gag.com/gag/a1m9jjP)
- - 🚯 [Every single time !!](http://9gag.com/gag/aGyX5oX)
- - 🚯 [Haaland is hilarious](http://9gag.com/gag/ayNGKE8)<!-- MEMES:END -->
+ - 🚖 [Ah yes, the top 1%](http://9gag.com/gag/aoyXw0m)
+ - 🚯 [Wait for it](http://9gag.com/gag/a1m9jjP)
+ - 🚯 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)<!-- MEMES:END -->
 
 --- 
 
