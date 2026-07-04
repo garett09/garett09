@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qi fan fan](https://www.theverge.com/tech/961332/qi-active-cooling-really-works)
- - [A profile of Google DeepMind philosopher Iason Gabriel, whose work has tracked, and in many cases predicted, the ethical challenges posed by the success of LLMs &lpar;Robert P Baird/The Guardian&rpar;](https://www.techmeme.com/260704/p5#a260704p5)
- - [Micron breaks ground on its ~$9.3B Hiroshima factory expansion, part of its global ramp-up to meet AI demand, and plans to start HBM shipments from summer 2028 &lpar;Mari Kiyohara/Bloomberg&rpar;](https://www.techmeme.com/260704/p4#a260704p4)<!-- TECH:END -->
+ - [The square-ish phone that I wanted to love](https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on)
+ - [Official data shows Hong Kong accounted for 50%+ of China&#39;s $239B in chip imports in the first five months of 2026, a record share, up from ~33% a decade ago &lpar;Bloomberg&rpar;](https://www.techmeme.com/260704/p6#a260704p6)
+ - [Need a New iPhone or Android Phone? Read My Tips Before You Shop](https://www.cnet.com/tech/mobile/shopping-for-a-new-iphone-or-android-phone-read-this-before-you-buy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
