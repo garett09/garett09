@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Contacts is getting ready for Tap to Share with some ‘Your info’ tweaks](https://www.androidauthority.com/google-contacts-tap-to-share-3684167/)
- - [Amazon just gave the Fire HD 10 a surprise RAM bump and a sneaky price hike](https://www.androidauthority.com/amazon-fire-hd-10-ram-upgrade-3684183/)
- - [Meta getting into the cloud business has been inevitable for a long time, as it seeks to diversify beyond ad revenue and monetize its AI buildout &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260703/p12#a260703p12)<!-- TECH:END -->
+ - [Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement &lpar;Gene Maddaus/Variety&rpar;](https://www.techmeme.com/260703/p15#a260703p15)
+ - [A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption &lpar;Bloomberg&rpar;](https://www.techmeme.com/260703/p14#a260703p14)
+ - [SHOKZ OpenDots ONE hit Prime Day price again with 30% off, but not for long](https://www.androidauthority.com/shokz-opendots-one-deal-3684227/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
