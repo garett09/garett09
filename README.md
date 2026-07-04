@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh say can you see.......\u266b\u266b\u266b\u266b\u266b\u266b\u266b\u266b](http://9gag.com/gag/aByp5NQ)
- - 🚯 [True hero gets the crown he deserves](http://9gag.com/gag/ayNGr1W)
- - 🚯 [Every single time !!](http://9gag.com/gag/aGyX5oX)<!-- MEMES:END -->
+ - 🚖 [Wait for it](http://9gag.com/gag/a1m9jjP)
+ - 🚯 [Every single time !!](http://9gag.com/gag/aGyX5oX)
+ - 🚯 [Haaland is hilarious](http://9gag.com/gag/ayNGKE8)<!-- MEMES:END -->
 
 --- 
 
