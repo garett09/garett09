@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sit with me and share your most bizarre gifs. I start](http://9gag.com/gag/aXPBm89)
- - 🚯 [Back Pain? Do this now.](http://9gag.com/gag/axy5Kz2)
- - 🚯 [Cool optical illusion](http://9gag.com/gag/an76wz5)<!-- MEMES:END -->
+ - 🚖 [Oh say can you see.......\u266b\u266b\u266b\u266b\u266b\u266b\u266b\u266b](http://9gag.com/gag/aByp5NQ)
+ - 🚯 [True hero gets the crown he deserves](http://9gag.com/gag/ayNGr1W)
+ - 🚯 [Every single time !!](http://9gag.com/gag/aGyX5oX)<!-- MEMES:END -->
 
 --- 
 
