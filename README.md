@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The square-ish phone that I wanted to love](https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on)
- - [Official data shows Hong Kong accounted for 50%+ of China&#39;s $239B in chip imports in the first five months of 2026, a record share, up from ~33% a decade ago &lpar;Bloomberg&rpar;](https://www.techmeme.com/260704/p6#a260704p6)
- - [Need a New iPhone or Android Phone? Read My Tips Before You Shop](https://www.cnet.com/tech/mobile/shopping-for-a-new-iphone-or-android-phone-read-this-before-you-buy/)<!-- TECH:END -->
+ - [The 50th Macy&#39;s 4th of July Fireworks Show Blasts Off Tonight. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/how-to-watch-macys-4th-of-july-fireworks-special/)
+ - [A look at the troubled rollout of the EU&#39;s automated biometric entry/exit border system, as airport operators warn of severe delays ahead of the summer holidays &lpar;Financial Times&rpar;](https://www.techmeme.com/260704/p9#a260704p9)
+ - [I Love This Floating Anker Speaker, and It’s on Sale for Less Than $100 This Fourth of July](https://www.cnet.com/deals/anker-soundcore-boom-3i-deal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
