@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement &lpar;Gene Maddaus/Variety&rpar;](https://www.techmeme.com/260703/p15#a260703p15)
- - [A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption &lpar;Bloomberg&rpar;](https://www.techmeme.com/260703/p14#a260703p14)
- - [SHOKZ OpenDots ONE hit Prime Day price again with 30% off, but not for long](https://www.androidauthority.com/shokz-opendots-one-deal-3684227/)<!-- TECH:END -->
+ - [Qi fan fan](https://www.theverge.com/tech/961332/qi-active-cooling-really-works)
+ - [A profile of Google DeepMind philosopher Iason Gabriel, whose work has tracked, and in many cases predicted, the ethical challenges posed by the success of LLMs &lpar;Robert P Baird/The Guardian&rpar;](https://www.techmeme.com/260704/p5#a260704p5)
+ - [Micron breaks ground on its ~$9.3B Hiroshima factory expansion, part of its global ramp-up to meet AI demand, and plans to start HBM shipments from summer 2028 &lpar;Mari Kiyohara/Bloomberg&rpar;](https://www.techmeme.com/260704/p4#a260704p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
