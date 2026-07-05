@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review)
- - [NotebookLM Alternatives: Which Similar AI Tools Are Worth Your Time?](https://www.cnet.com/tech/services-and-software/notebooklm-alternatives-what-similar-ai-tools-are-worth-your-time/)
- - [How I Cleaned Up the Thousands of Photos and Videos I Had Scattered Across the Internet](https://www.cnet.com/tech/computing/how-to-organize-your-photos-and-videos/)<!-- TECH:END -->
+ - [Data centers offer US a chance to get ahead in the next key technologies and to build domestic supply chains based on demand rather than subsidies and tariffs &lpar;Josh Zoffer/Financial Times&rpar;](https://www.techmeme.com/260705/p8#a260705p8)
+ - [Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review)
+ - [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
