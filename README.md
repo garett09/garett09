@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Kaley Glenn-Mills, the plaintiff in K.G.M. v. Meta et al., who was awarded $6M in damages in a landmark LA jury trial over social media addiction &lpar;Olivia Carville/Bloomberg&rpar;](https://www.techmeme.com/260705/p5#a260705p5)
- - [Bending Spoons&#39; Nasdaq IPO caps its 50+ deals across 10+ years that transformed the Italian startup into a highly leveraged internet company with ~$4.4B in debt &lpar;Financial Times&rpar;](https://www.techmeme.com/260705/p4#a260705p4)
- - [NY-based LinqAlpha, which provides AI-powered market research tools for hedge funds, raised a $22M Series A co-led by AVP, Atinum Investment, and GFT Ventures &lpar;Sofia Chesnokova/Tech Funding News&rpar;](https://www.techmeme.com/260705/p3#a260705p3)<!-- TECH:END -->
+ - [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review)
+ - [NotebookLM Alternatives: Which Similar AI Tools Are Worth Your Time?](https://www.cnet.com/tech/services-and-software/notebooklm-alternatives-what-similar-ai-tools-are-worth-your-time/)
+ - [How I Cleaned Up the Thousands of Photos and Videos I Had Scattered Across the Internet](https://www.cnet.com/tech/computing/how-to-organize-your-photos-and-videos/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
