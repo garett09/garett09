@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&#39;ve gotta pump them up!](http://9gag.com/gag/aD2yvZd)
- - 🚯 [Kid: \u201cwhere do babies come from?\u201d me: check this shit out](http://9gag.com/gag/aKGRMBg)
- - 🚯 [90&#39;s themed party](http://9gag.com/gag/ae9L8Gq)<!-- MEMES:END -->
+ - 🚖 [Actually? Should have just stayed home.](http://9gag.com/gag/aD2y5Bd)
+ - 🚯 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
+ - 🚯 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)<!-- MEMES:END -->
 
 --- 
 
