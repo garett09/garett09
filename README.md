@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 50th Macy&#39;s 4th of July Fireworks Show Blasts Off Tonight. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/how-to-watch-macys-4th-of-july-fireworks-special/)
- - [A look at the troubled rollout of the EU&#39;s automated biometric entry/exit border system, as airport operators warn of severe delays ahead of the summer holidays &lpar;Financial Times&rpar;](https://www.techmeme.com/260704/p9#a260704p9)
- - [I Love This Floating Anker Speaker, and It’s on Sale for Less Than $100 This Fourth of July](https://www.cnet.com/deals/anker-soundcore-boom-3i-deal/)<!-- TECH:END -->
+ - [AWS says Mechanical Turk will no longer accept new customers and that it is placing the crowdsourcing service in maintenance, signaling its future retirement &lpar;Simon Sharwood/The Register&rpar;](https://www.techmeme.com/260704/p13#a260704p13)
+ - [Source calls UK- and OpenAI-touted plans in 2025 for Stargate&#39;s ~£20B Cobalt site a PR stunt; OpenAI and Nscale failed to visit Cobalt or lodge planning forms &lpar;Aisha Down/The Guardian&rpar;](https://www.techmeme.com/260704/p12#a260704p12)
+ - [AI Chatbot Pricing Breakdown: Is Premium AI Worth the Cost?](https://www.cnet.com/tech/services-and-software/upgrading-your-ai-chatbot-heres-how-much-itll-cost-you/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
