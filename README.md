@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How companies like Nvidia and Neura Robotics are building safety systems for humanoid robots to minimize risks like a bipedal robot losing stability &lpar;John Keilman/Wall Street Journal&rpar;](https://www.techmeme.com/260705/p13#a260705p13)
- - [A look at Threads and Q&amp;A with its head Connor Hayes, as the platform passes 500M MAUs and increasingly resembles Reddit with its focus on community features &lpar;Eli Tan/New York Times&rpar;](https://www.techmeme.com/260705/p12#a260705p12)
- - [Kuo: suppliers plan to ship less than 1M iPhone fold units in 3Q26, which may push the start of device pre-orders and sales to Q4, with weeks of delivery delays &lpar;Ming-Chi Kuo&rpar;](https://www.techmeme.com/260705/p11#a260705p11)<!-- TECH:END -->
+ - [Shenzhen-based Even Realities, a startup that makes smart glasses without cameras, raised a $150M pre-Series B led by Meituan and Tencent &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260706/p7#a260706p7)
+ - [I tried replacing Google Photos with Amazon Photos — and it went better than expected](https://www.androidauthority.com/google-photos-vs-amazon-photos-switch-hands-on-3679448/)
+ - [After Samsung Health, the Wearable app could be getting its biggest redesign yet](https://www.androidauthority.com/galaxy-wearable-app-redesign-leak-3684329/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
