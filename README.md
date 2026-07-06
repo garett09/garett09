@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)
- - 🚯 [The Tom scream took me out](http://9gag.com/gag/a5Q4Ozg)
- - 🚯 [Row row row your boat](http://9gag.com/gag/ajPpzLq)<!-- MEMES:END -->
+ - 🚖 [Age was but a number for Momo](http://9gag.com/gag/a2veeWe)
+ - 🚯 [My Ribs](http://9gag.com/gag/aqy004P)
+ - 🚯 [As Norway moves forward, the Viking row evolves into something increasingly powerful and beautiful.](http://9gag.com/gag/azxnWdz)<!-- MEMES:END -->
 
 --- 
 
