@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DJI Osmo Pocket 3 lookalike is down to $329](https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale)
- - [Check out Anbernic’s upcoming Nintendo Switch Lite-lookalike in action](https://www.androidauthority.com/anbernic-rg-55g1-handheld-gameplay-3684429/)
- - [The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks](https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/)<!-- TECH:END -->
+ - [B&amp;H is blowing out M4 Pro MacBook Pro inventory at $1,799](https://appleinsider.com/articles/26/07/06/bh-is-blowing-out-m4-pro-macbook-pro-inventory-at-1799?utm_source=rss)
+ - [AI &#39;Actor&#39; Tilly Norwood Lands Big Break With Feature Film &#39;Misaligned&#39;](https://www.cnet.com/tech/services-and-software/ai-actor-tilly-norwood-gets-big-break-with-feature-film-misaligned/)
+ - [New in iOS 27 beta 3: Siri AI voice customization options](https://appleinsider.com/articles/26/07/06/new-in-ios-27-beta-3-siri-ai-voice-customization-options?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
