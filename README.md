@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shenzhen-based Even Realities, a startup that makes smart glasses without cameras, raised a $150M pre-Series B led by Meituan and Tencent &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260706/p7#a260706p7)
- - [I tried replacing Google Photos with Amazon Photos — and it went better than expected](https://www.androidauthority.com/google-photos-vs-amazon-photos-switch-hands-on-3679448/)
- - [After Samsung Health, the Wearable app could be getting its biggest redesign yet](https://www.androidauthority.com/galaxy-wearable-app-redesign-leak-3684329/)<!-- TECH:END -->
+ - [The DJI Osmo Pocket 3 lookalike is down to $329](https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale)
+ - [Check out Anbernic’s upcoming Nintendo Switch Lite-lookalike in action](https://www.androidauthority.com/anbernic-rg-55g1-handheld-gameplay-3684429/)
+ - [The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks](https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
