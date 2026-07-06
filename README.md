@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)
- - 🚯 [Little dude just bailed on everything](http://9gag.com/gag/a9yoG6W)
- - 🚯 [As Norway moves forward, the Viking row evolves into something increasingly powerful and beautiful.](http://9gag.com/gag/azxnWdz)<!-- MEMES:END -->
+ - 🚯 [The Tom scream took me out](http://9gag.com/gag/a5Q4Ozg)
+ - 🚯 [Row row row your boat](http://9gag.com/gag/ajPpzLq)<!-- MEMES:END -->
 
 --- 
 
