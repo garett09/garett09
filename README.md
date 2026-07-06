@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data centers offer US a chance to get ahead in the next key technologies and to build domestic supply chains based on demand rather than subsidies and tariffs &lpar;Josh Zoffer/Financial Times&rpar;](https://www.techmeme.com/260705/p8#a260705p8)
- - [Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review)
- - [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy)<!-- TECH:END -->
+ - [How companies like Nvidia and Neura Robotics are building safety systems for humanoid robots to minimize risks like a bipedal robot losing stability &lpar;John Keilman/Wall Street Journal&rpar;](https://www.techmeme.com/260705/p13#a260705p13)
+ - [A look at Threads and Q&amp;A with its head Connor Hayes, as the platform passes 500M MAUs and increasingly resembles Reddit with its focus on community features &lpar;Eli Tan/New York Times&rpar;](https://www.techmeme.com/260705/p12#a260705p12)
+ - [Kuo: suppliers plan to ship less than 1M iPhone fold units in 3Q26, which may push the start of device pre-orders and sales to Q4, with weeks of delivery delays &lpar;Ming-Chi Kuo&rpar;](https://www.techmeme.com/260705/p11#a260705p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
