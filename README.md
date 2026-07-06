@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)
- - 🚯 [Gents! It do be my Day of Birth. Join me at the Round Table of Tetten](http://9gag.com/gag/a5Q40gL)
- - 🚯 [Banana](http://9gag.com/gag/aLnx78A)<!-- MEMES:END -->
+ - 🚖 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)
+ - 🚯 [Little dude just bailed on everything](http://9gag.com/gag/a9yoG6W)
+ - 🚯 [As Norway moves forward, the Viking row evolves into something increasingly powerful and beautiful.](http://9gag.com/gag/azxnWdz)<!-- MEMES:END -->
 
 --- 
 
