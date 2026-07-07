@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Age was but a number for Momo](http://9gag.com/gag/a2veeWe)
- - 🚯 [My Ribs](http://9gag.com/gag/aqy004P)
- - 🚯 [As Norway moves forward, the Viking row evolves into something increasingly powerful and beautiful.](http://9gag.com/gag/azxnWdz)<!-- MEMES:END -->
+ - 🚖 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)
+ - 🚯 [Asking the wrong questions](http://9gag.com/gag/a34m6qm)
+ - 🚯 [Haters will say it&#39;s A.I.](http://9gag.com/gag/aMVgMmM)<!-- MEMES:END -->
 
 --- 
 
