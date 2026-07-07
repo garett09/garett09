@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [British police again. Man gets kicked off his bike, let the guy who did it go about like it&#39;s normal.](http://9gag.com/gag/abA7NWv)
- - 🚯 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)
- - 🚯 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)<!-- MEMES:END -->
+ - 🚖 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)
+ - 🚯 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
+ - 🚯 [Grand daddy was ALL business. Rich folk problems](http://9gag.com/gag/avyNMmb)<!-- MEMES:END -->
 
 --- 
 
