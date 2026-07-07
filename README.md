@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Roborock Saros 20 is the best robot vacuum for edge cleaning I’ve ever tested](https://www.androidauthority.com/roborock-saros-20-review-3656355/)
- - [One Android phone just exposed the biggest problem with US foldables](https://www.androidauthority.com/vivo-x-fold-6-exposes-problem-with-us-foldables-3684495/)
- - [Apple just rolled out a neat wallpaper trick Android users will envy](https://www.androidauthority.com/apple-ios-27-developer-beta-3-wallpaper-3d-effect-3684729/)<!-- TECH:END -->
+ - [Google Pixel 11 prices leak, complete with major base storage shakeup](https://www.androidauthority.com/google-pixel-11-storage-colors-price-leak-3684868/)
+ - [Pixel users: Is Google Recorder refusing to save your recordings?](https://www.androidauthority.com/google-recorder-not-recording-3684852/)
+ - [Microsoft fixes storage-hogging Windows 11 folder](https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
