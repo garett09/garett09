@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Rachel Whetstone, who has led comms for Google, Meta, Uber, Netflix, and now Sierra, as her husband Steve Hilton runs for California governor &lpar;Emily Shugerman/The San Francisco ...&rpar;](https://www.techmeme.com/260706/p41#a260706p41)
- - [Terramaster F4-425 Pro review: Excellent set-and-forget networking hardware](https://appleinsider.com/articles/26/07/07/terramaster-f4-425-pro-review-excellent-set-and-forget-networking-hardware?utm_source=rss)
- - [Even Your Summer Thermostat Temperature Has Become a Political Debate](https://www.cnet.com/news/summer-thermostat-temperature-political-debate-department-energy-pages-disappear/)<!-- TECH:END -->
+ - [The Roborock Saros 20 is the best robot vacuum for edge cleaning I’ve ever tested](https://www.androidauthority.com/roborock-saros-20-review-3656355/)
+ - [One Android phone just exposed the biggest problem with US foldables](https://www.androidauthority.com/vivo-x-fold-6-exposes-problem-with-us-foldables-3684495/)
+ - [Apple just rolled out a neat wallpaper trick Android users will envy](https://www.androidauthority.com/apple-ios-27-developer-beta-3-wallpaper-3d-effect-3684729/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
