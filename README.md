@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 11 prices leak, complete with major base storage shakeup](https://www.androidauthority.com/google-pixel-11-storage-colors-price-leak-3684868/)
- - [Pixel users: Is Google Recorder refusing to save your recordings?](https://www.androidauthority.com/google-recorder-not-recording-3684852/)
- - [Microsoft fixes storage-hogging Windows 11 folder](https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder)<!-- TECH:END -->
+ - [Source: Kraken is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it &lpar;Ian Allison/CoinDesk&rpar;](https://www.techmeme.com/260707/p32#a260707p32)
+ - [Google’s July 2026 update is here for your Pixel phone](https://www.androidauthority.com/july-2026-pixel-update-3684978/)
+ - [AirPods firmware beta lets developers use new iOS 27 features](https://appleinsider.com/articles/26/07/07/airpods-firmware-beta-lets-developers-use-new-ios-27-features?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
