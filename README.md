@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H is blowing out M4 Pro MacBook Pro inventory at $1,799](https://appleinsider.com/articles/26/07/06/bh-is-blowing-out-m4-pro-macbook-pro-inventory-at-1799?utm_source=rss)
- - [AI &#39;Actor&#39; Tilly Norwood Lands Big Break With Feature Film &#39;Misaligned&#39;](https://www.cnet.com/tech/services-and-software/ai-actor-tilly-norwood-gets-big-break-with-feature-film-misaligned/)
- - [New in iOS 27 beta 3: Siri AI voice customization options](https://appleinsider.com/articles/26/07/06/new-in-ios-27-beta-3-siri-ai-voice-customization-options?utm_source=rss)<!-- TECH:END -->
+ - [A profile of Rachel Whetstone, who has led comms for Google, Meta, Uber, Netflix, and now Sierra, as her husband Steve Hilton runs for California governor &lpar;Emily Shugerman/The San Francisco ...&rpar;](https://www.techmeme.com/260706/p41#a260706p41)
+ - [Terramaster F4-425 Pro review: Excellent set-and-forget networking hardware](https://appleinsider.com/articles/26/07/07/terramaster-f4-425-pro-review-excellent-set-and-forget-networking-hardware?utm_source=rss)
+ - [Even Your Summer Thermostat Temperature Has Become a Political Debate](https://www.cnet.com/news/summer-thermostat-temperature-political-debate-department-energy-pages-disappear/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
