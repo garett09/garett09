@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018 &lpar;Puyaan Singh/Reuters&rpar;](https://www.techmeme.com/260707/p42#a260707p42)
- - [Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses&#39; privacy LED light &lpar;Victoria Song/The Verge&rpar;](https://www.techmeme.com/260707/p41#a260707p41)
- - [Meta says Muse Image includes an invisible watermarking system called Content Seal and previews a web tool to check whether an image was generated with Meta AI &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260707/p40#a260707p40)<!-- TECH:END -->
+ - [ANBERNIC’s latest update adds a new launcher, button mapping and more to its gaming handhelds](https://www.androidauthority.com/anbernic-software-update-t820-handhelds-3685149/)
+ - [US lawmakers are considering strategies to curb US companies&#39; growing adoption of Chinese AI models, as a House committee investigation investigates the risks &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260708/p9#a260708p9)
+ - [Stuck on Android 17 beta? This new Pixel update is for you](https://www.androidauthority.com/google-pixel-android-17-beta-exit-fix-3685146/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
