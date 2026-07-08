@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ANBERNIC’s latest update adds a new launcher, button mapping and more to its gaming handhelds](https://www.androidauthority.com/anbernic-software-update-t820-handhelds-3685149/)
- - [US lawmakers are considering strategies to curb US companies&#39; growing adoption of Chinese AI models, as a House committee investigation investigates the risks &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260708/p9#a260708p9)
- - [Stuck on Android 17 beta? This new Pixel update is for you](https://www.androidauthority.com/google-pixel-android-17-beta-exit-fix-3685146/)<!-- TECH:END -->
+ - [More bad news for Google Pixel fans? Even Pixel Watch 5 might see a price increase](https://www.androidauthority.com/google-pixel-watch-5-price-leak-3685278/)
+ - [Google Earth Pro is headed for the graveyard, and fans aren’t happy about it](https://www.androidauthority.com/google-earth-pro-desktop-sunset-3685256/)
+ - [Samsung &amp; Google want to upstage iPhone Fold debut, with earlier events](https://appleinsider.com/articles/26/07/08/samsung-google-want-to-upstage-iphone-fold-debut-with-earlier-events?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
