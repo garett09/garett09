@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bright Idea](http://9gag.com/gag/aE033Y9)
- - 🚯 [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)
- - 🚯 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)<!-- MEMES:END -->
+ - 🚖 [Be doesn&#39;t even know the moon is bigger than earth](http://9gag.com/gag/aD2ypNK)
+ - 🚯 [Spot the legendary Greek Warrior](http://9gag.com/gag/a2veBPd)
+ - 🚯 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)<!-- MEMES:END -->
 
 --- 
 
