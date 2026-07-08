@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
- - 🚯 [Who even watched that shit?](http://9gag.com/gag/aVvAN8n)
- - 🚯 [...](http://9gag.com/gag/a2ve3BE)<!-- MEMES:END -->
+ - 🚖 [Bright Idea](http://9gag.com/gag/aE033Y9)
+ - 🚯 [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)
+ - 🚯 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)<!-- MEMES:END -->
 
 --- 
 
