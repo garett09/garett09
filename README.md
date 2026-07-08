@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More bad news for Google Pixel fans? Even Pixel Watch 5 might see a price increase](https://www.androidauthority.com/google-pixel-watch-5-price-leak-3685278/)
- - [Google Earth Pro is headed for the graveyard, and fans aren’t happy about it](https://www.androidauthority.com/google-earth-pro-desktop-sunset-3685256/)
- - [Samsung &amp; Google want to upstage iPhone Fold debut, with earlier events](https://appleinsider.com/articles/26/07/08/samsung-google-want-to-upstage-iphone-fold-debut-with-earlier-events?utm_source=rss)<!-- TECH:END -->
+ - [Google Play Store will look a little different the next time you open it](https://www.androidauthority.com/google-play-store-july-ui-changes-3685473/)
+ - [Encrypted HFS+ drive support dies in macOS 28](https://appleinsider.com/articles/26/07/08/encrypted-hfs-drive-support-dies-in-macos-28?utm_source=rss)
+ - [TV show purchases on Apple TV are finally getting free 4K upgrades](https://appleinsider.com/articles/26/07/08/tv-show-purchases-on-apple-tv-are-finally-getting-free-4k-upgrades?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
