@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Be doesn&#39;t even know the moon is bigger than earth](http://9gag.com/gag/aD2ypNK)
- - 🚯 [Spot the legendary Greek Warrior](http://9gag.com/gag/a2veBPd)
- - 🚯 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)<!-- MEMES:END -->
+ - 🚖 [From the archives of my old PC](http://9gag.com/gag/ajPpoN1)
+ - 🚯 [Street fight at outdoor mall](http://9gag.com/gag/aO8wgOE)
+ - 🚯 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)<!-- MEMES:END -->
 
 --- 
 
