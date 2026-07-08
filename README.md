@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Kraken is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it &lpar;Ian Allison/CoinDesk&rpar;](https://www.techmeme.com/260707/p32#a260707p32)
- - [Google’s July 2026 update is here for your Pixel phone](https://www.androidauthority.com/july-2026-pixel-update-3684978/)
- - [AirPods firmware beta lets developers use new iOS 27 features](https://appleinsider.com/articles/26/07/07/airpods-firmware-beta-lets-developers-use-new-ios-27-features?utm_source=rss)<!-- TECH:END -->
+ - [Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018 &lpar;Puyaan Singh/Reuters&rpar;](https://www.techmeme.com/260707/p42#a260707p42)
+ - [Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses&#39; privacy LED light &lpar;Victoria Song/The Verge&rpar;](https://www.techmeme.com/260707/p41#a260707p41)
+ - [Meta says Muse Image includes an invisible watermarking system called Content Seal and previews a web tool to check whether an image was generated with Meta AI &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260707/p40#a260707p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
