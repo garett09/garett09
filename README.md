@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
- - 🚯 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
- - 🚯 [A father left his son more than $10 million.He left his two daughters nothing. Now they\u2019re asking their brother to pay off their $300,000 in student loans. Caller: \u201cMy mother had an affair. My sisters sided with my mother because they liked the affair partner more.`](http://9gag.com/gag/aXPB8qD)<!-- MEMES:END -->
+ - 🚖 [Bacon](http://9gag.com/gag/a4PvMZA)
+ - 🚯 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
+ - 🚯 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)<!-- MEMES:END -->
 
 --- 
 
