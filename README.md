@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Muse Spark 1.1 costs $1.25 per 1M input tokens and $4.25 per 1M output tokens; Alexandr Wang says coding and agentic tasks were key focuses &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260709/p22#a260709p22)
- - [Sonos Ace wireless headphones are steeply discounted](https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale)
- - [Meta launches a Meta Model API, whose pricing Zuckerberg says will be &quot;aggressive and attractive&quot; at ~25% of the cost of OpenAI and Anthropic models &lpar;Kurt Wagner/Bloomberg&rpar;](https://www.techmeme.com/260709/p21#a260709p21)<!-- TECH:END -->
+ - [AI agents move deeper into business workflows with ChatGPT Work &amp; GPT-5.6](https://appleinsider.com/articles/26/07/09/ai-agents-move-deeper-into-business-workflows-with-chatgpt-work-gpt-56?utm_source=rss)
+ - [OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser, in favor of the new ChatGPT desktop app &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260709/p31#a260709p31)
+ - [Sources: AI contractor marketplace Mercor is discussing raising new funds at a roughly $20B valuation, less than a year after raising money at a $10B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260709/p30#a260709p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
