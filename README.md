@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You really shouldn’t buy a OnePlus phone right now](https://www.androidauthority.com/dont-buy-oneplus-in-2026-3684909/)
- - [Why Do Some Soccer Players Cut the Heels Off Their Cleats?](https://www.wired.com/story/why-do-some-soccer-players-cut-the-heels-off-their-cleats/)
- - [The 4 Best Home Air Conditioners to Buy Right Now](https://www.wired.com/story/the-best-at-home-air-con-units-to-buy-right-now/)<!-- TECH:END -->
+ - [Muse Spark 1.1 costs $1.25 per 1M input tokens and $4.25 per 1M output tokens; Alexandr Wang says coding and agentic tasks were key focuses &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260709/p22#a260709p22)
+ - [Sonos Ace wireless headphones are steeply discounted](https://www.theverge.com/gadgets/963121/sonos-ace-headphones-dashpass-best-buy-apple-watch-ultra-deal-sale)
+ - [Meta launches a Meta Model API, whose pricing Zuckerberg says will be &quot;aggressive and attractive&quot; at ~25% of the cost of OpenAI and Anthropic models &lpar;Kurt Wagner/Bloomberg&rpar;](https://www.techmeme.com/260709/p21#a260709p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
