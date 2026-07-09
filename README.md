@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Widow&#39;s Bay&#39; &amp; &#39;Pluribus&#39; lead Apple&#39;s record-breaking charge for 2026 Emmy Awards](https://appleinsider.com/articles/26/07/08/widows-bay-and-pluribus-nominated-for-the-most-prestigious-emmy-awards?utm_source=rss)
- - [Block agrees to pay $45M and offer live customer support for Cash App to settle claims by 46 US states that the company failed to protect users from fraud &lpar;Daniel Wiessner/Reuters&rpar;](https://www.techmeme.com/260708/p44#a260708p44)
- - [One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel](https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/)<!-- TECH:END -->
+ - [You really shouldn’t buy a OnePlus phone right now](https://www.androidauthority.com/dont-buy-oneplus-in-2026-3684909/)
+ - [Why Do Some Soccer Players Cut the Heels Off Their Cleats?](https://www.wired.com/story/why-do-some-soccer-players-cut-the-heels-off-their-cleats/)
+ - [The 4 Best Home Air Conditioners to Buy Right Now](https://www.wired.com/story/the-best-at-home-air-con-units-to-buy-right-now/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
