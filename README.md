@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who was your first kiss](http://9gag.com/gag/aqy0vpQ)
- - 🚯 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
- - 🚯 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)<!-- MEMES:END -->
+ - 🚖 [No she is judge no more](http://9gag.com/gag/a9yo3qm)
+ - 🚯 [Who was your first kiss](http://9gag.com/gag/aqy0vpQ)
+ - 🚯 [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)<!-- MEMES:END -->
 
 --- 
 
