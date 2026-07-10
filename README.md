@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)
- - 🚯 [Who was your first kiss](http://9gag.com/gag/aqy0vpQ)
- - 🚯 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)<!-- MEMES:END -->
+ - 🚖 [This clip was saved from here years ago, so enjoy](http://9gag.com/gag/a87BLKp)
+ - 🚯 [Wait a minute...](http://9gag.com/gag/aE0Ldqe)
+ - 🚯 [Never trust them.](http://9gag.com/gag/aGyXP45)<!-- MEMES:END -->
 
 --- 
 
