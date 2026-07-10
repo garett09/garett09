@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with employees and insiders reveal how CXMT is amassing tech, funding, and state support to challenge top memory chipmakers and build local suppliers &lpar;Gao Yuan/Bloomberg&rpar;](https://www.techmeme.com/260710/p3#a260710p3)
- - [Whatever you do, don’t buy a foldable phone right now](https://www.androidauthority.com/dont-buy-foldable-phone-right-now-july-2026-3683959/)
- - [Motorola Edge 70 Max leak points to a battery that puts Google and Samsung to shame](https://www.androidauthority.com/motorola-edge-70-max-battery-amoled-leak-3686113/)<!-- TECH:END -->
+ - [Like the Claude app it imitates, the new ChatGPT &quot;Super App&quot;, which merges Codex with ChatGPT, is a tangle of toggles and strange UI decisions &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260710/p15#a260710p15)
+ - [I’m filling in at The Verge for 6 weeks. Ask me anything!](https://www.theverge.com/column/963495/im-filling-in-at-the-verge-for-6-weeks-ask-me-anything)
+ - [Empathy for the optimizers](https://www.theverge.com/column/963917/optimizer-bryan-johnson-biohacking-health)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
