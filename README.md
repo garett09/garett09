@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI agents move deeper into business workflows with ChatGPT Work &amp; GPT-5.6](https://appleinsider.com/articles/26/07/09/ai-agents-move-deeper-into-business-workflows-with-chatgpt-work-gpt-56?utm_source=rss)
- - [OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser, in favor of the new ChatGPT desktop app &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260709/p31#a260709p31)
- - [Sources: AI contractor marketplace Mercor is discussing raising new funds at a roughly $20B valuation, less than a year after raising money at a $10B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260709/p30#a260709p30)<!-- TECH:END -->
+ - [Google is fixing a frustrating Gemini bug affecting Google Home Broadcasts](https://www.androidauthority.com/google-home-gemini-broadcast-bug-fix-3686067/)
+ - [1X says its humanoid robot Neo&#39;s five-fingered hands have tendon-style actuators that give it 25 degrees of freedom of movement, nearly the same as a human hand &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260709/p44#a260709p44)
+ - [Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo](https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
