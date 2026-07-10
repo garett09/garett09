@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No she is judge no more](http://9gag.com/gag/a9yo3qm)
+ - 🚖 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)
  - 🚯 [Who was your first kiss](http://9gag.com/gag/aqy0vpQ)
- - 🚯 [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)<!-- MEMES:END -->
+ - 🚯 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)<!-- MEMES:END -->
 
 --- 
 
