@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Like the Claude app it imitates, the new ChatGPT &quot;Super App&quot;, which merges Codex with ChatGPT, is a tangle of toggles and strange UI decisions &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260710/p15#a260710p15)
- - [I’m filling in at The Verge for 6 weeks. Ask me anything!](https://www.theverge.com/column/963495/im-filling-in-at-the-verge-for-6-weeks-ask-me-anything)
- - [Empathy for the optimizers](https://www.theverge.com/column/963917/optimizer-bryan-johnson-biohacking-health)<!-- TECH:END -->
+ - [China drops a numerical target for urban job creation in its five-year plan, the first such omission since the 1990s, amid volatility fueled by AI displacement &lpar;Bloomberg&rpar;](https://www.techmeme.com/260710/p22#a260710p22)
+ - [Apple TV&#39;s Modern Day Noir Detective Series Is a Sleek Sci-Fi Mystery in Disguise](https://www.cnet.com/tech/services-and-software/collin-farrell-sugar-sci-fi-noir-apple-tv/)
+ - [Should You Get a Vibration Plate? Here’s What Experts Have to Say](https://www.cnet.com/health/fitness/vibration-plate-benefits-risks-fitness-experts-thoughts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
