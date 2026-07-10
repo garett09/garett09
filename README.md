@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is fixing a frustrating Gemini bug affecting Google Home Broadcasts](https://www.androidauthority.com/google-home-gemini-broadcast-bug-fix-3686067/)
- - [1X says its humanoid robot Neo&#39;s five-fingered hands have tendon-style actuators that give it 25 degrees of freedom of movement, nearly the same as a human hand &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260709/p44#a260709p44)
- - [Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo](https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/)<!-- TECH:END -->
+ - [Interviews with employees and insiders reveal how CXMT is amassing tech, funding, and state support to challenge top memory chipmakers and build local suppliers &lpar;Gao Yuan/Bloomberg&rpar;](https://www.techmeme.com/260710/p3#a260710p3)
+ - [Whatever you do, don’t buy a foldable phone right now](https://www.androidauthority.com/dont-buy-foldable-phone-right-now-july-2026-3683959/)
+ - [Motorola Edge 70 Max leak points to a battery that puts Google and Samsung to shame](https://www.androidauthority.com/motorola-edge-70-max-battery-amoled-leak-3686113/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
