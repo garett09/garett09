@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never trust them.](http://9gag.com/gag/aGyXP45)
- - 🚯 [Who was your first kiss](http://9gag.com/gag/aqy0vpQ)
- - 🚯 [No she is judge no more](http://9gag.com/gag/a9yo3qm)<!-- MEMES:END -->
+ - 🚖 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
+ - 🚯 [Doing my part](http://9gag.com/gag/a87BLrY)
+ - 🚯 [Never trust them.](http://9gag.com/gag/aGyXP45)<!-- MEMES:END -->
 
 --- 
 
