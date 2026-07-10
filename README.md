@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This clip was saved from here years ago, so enjoy](http://9gag.com/gag/a87BLKp)
- - 🚯 [Wait a minute...](http://9gag.com/gag/aE0Ldqe)
- - 🚯 [Never trust them.](http://9gag.com/gag/aGyXP45)<!-- MEMES:END -->
+ - 🚖 [Never trust them.](http://9gag.com/gag/aGyXP45)
+ - 🚯 [Who was your first kiss](http://9gag.com/gag/aqy0vpQ)
+ - 🚯 [No she is judge no more](http://9gag.com/gag/a9yo3qm)<!-- MEMES:END -->
 
 --- 
 
