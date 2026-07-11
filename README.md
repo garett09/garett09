@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are you filthy enough for a $700 portable shower?](https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review)
- - [SK Hynix&#39;s historic US stock market listing is a bet that the AI boom is breaking the memory chip industry&#39;s decades-long boom-and-bust cycle &lpar;Bloomberg&rpar;](https://www.techmeme.com/260711/p4#a260711p4)
- - [An analysis of 1M+ social media posts from April 24 to June 30: ~25% of longform posts with 250+ words were fully AI-generated; on LinkedIn, the figure was 41% &lpar;Max Spero/Pangram Labs&rpar;](https://www.techmeme.com/260711/p3#a260711p3)<!-- TECH:END -->
+ - [ICE are heavily armed killers. They’re also huge losers](https://www.theverge.com/policy/964302/ice-donald-trump-killings)
+ - [Apple&#39;s 100% tariff exemption may have been helped by Intel supply deal](https://appleinsider.com/articles/26/07/11/apples-100-tariff-exemption-may-have-been-helped-by-intel-supply-deal?utm_source=rss)
+ - [Artemis II Shows How Off-the-Shelf Cameras Are Becoming Scientific Tools in Space](https://www.cnet.com/science/space/nasa-nikon-z9-artemis-ii-solar-eclipse-camera-tech-space-exploration/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
