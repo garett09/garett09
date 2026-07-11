@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China drops a numerical target for urban job creation in its five-year plan, the first such omission since the 1990s, amid volatility fueled by AI displacement &lpar;Bloomberg&rpar;](https://www.techmeme.com/260710/p22#a260710p22)
- - [Apple TV&#39;s Modern Day Noir Detective Series Is a Sleek Sci-Fi Mystery in Disguise](https://www.cnet.com/tech/services-and-software/collin-farrell-sugar-sci-fi-noir-apple-tv/)
- - [Should You Get a Vibration Plate? Here’s What Experts Have to Say](https://www.cnet.com/health/fitness/vibration-plate-benefits-risks-fitness-experts-thoughts/)<!-- TECH:END -->
+ - [OpenAI&#39;s head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260710/p38#a260710p38)
+ - [OpenAI’s Head of Safety Is Leaving the Company](https://www.wired.com/story/openai-head-of-safety-leaving/)
+ - [Apple accuses OpenAI of stealing secrets to fast-track its hardware ambitions](https://www.androidauthority.com/apple-sues-openai-over-trade-secret-theft-3686592/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
