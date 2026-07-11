@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
- - 🚯 [Himalayan salt](http://9gag.com/gag/agmP3Mx)
- - 🚯 [Doing my part](http://9gag.com/gag/a87BLrY)<!-- MEMES:END -->
+ - 🚖 [Weird night](http://9gag.com/gag/aO8XK9r)
+ - 🚯 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
+ - 🚯 [Roman dodecahedron](http://9gag.com/gag/ayNOpx8)<!-- MEMES:END -->
 
 --- 
 
