@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260710/p38#a260710p38)
- - [OpenAI’s Head of Safety Is Leaving the Company](https://www.wired.com/story/openai-head-of-safety-leaving/)
- - [Apple accuses OpenAI of stealing secrets to fast-track its hardware ambitions](https://www.androidauthority.com/apple-sues-openai-over-trade-secret-theft-3686592/)<!-- TECH:END -->
+ - [Are you filthy enough for a $700 portable shower?](https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review)
+ - [SK Hynix&#39;s historic US stock market listing is a bet that the AI boom is breaking the memory chip industry&#39;s decades-long boom-and-bust cycle &lpar;Bloomberg&rpar;](https://www.techmeme.com/260711/p4#a260711p4)
+ - [An analysis of 1M+ social media posts from April 24 to June 30: ~25% of longform posts with 250+ words were fully AI-generated; on LinkedIn, the figure was 41% &lpar;Max Spero/Pangram Labs&rpar;](https://www.techmeme.com/260711/p3#a260711p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
