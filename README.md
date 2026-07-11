@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bold move cotton](http://9gag.com/gag/a6ZArwN)
- - 🚯 [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)
+ - 🚖 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
+ - 🚯 [Doing my part](http://9gag.com/gag/a87BLrY)
  - 🚯 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)<!-- MEMES:END -->
 
 --- 
