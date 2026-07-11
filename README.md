@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ICE are heavily armed killers. They’re also huge losers](https://www.theverge.com/policy/964302/ice-donald-trump-killings)
- - [Apple&#39;s 100% tariff exemption may have been helped by Intel supply deal](https://appleinsider.com/articles/26/07/11/apples-100-tariff-exemption-may-have-been-helped-by-intel-supply-deal?utm_source=rss)
- - [Artemis II Shows How Off-the-Shelf Cameras Are Becoming Scientific Tools in Space](https://www.cnet.com/science/space/nasa-nikon-z9-artemis-ii-solar-eclipse-camera-tech-space-exploration/)<!-- TECH:END -->
+ - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
+ - [Apple&#39;s lawsuit could sidetrack OpenAI&#39;s hardware aspirations for years, or possibly forever, as the startup gets into yet another controversy and messy divorce &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260711/p9#a260711p9)
+ - [Apple&#39;s OpenAI lawsuit follows months of simmering tensions and highlights OpenAI&#39;s hardware chief Tang Tan&#39;s strained relationship with former boss John Ternus &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260711/p8#a260711p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
