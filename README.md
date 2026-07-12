@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weird night](http://9gag.com/gag/aO8XK9r)
- - 🚯 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
- - 🚯 [Roman dodecahedron](http://9gag.com/gag/ayNOpx8)<!-- MEMES:END -->
+ - 🚖 [This is the start of the post](http://9gag.com/gag/aBy7KjD)
+ - 🚯 [Leadership summed in a facial expression](http://9gag.com/gag/amoEX54)
+ - 🚯 [Ba ba ba banana](http://9gag.com/gag/axyXdL1)<!-- MEMES:END -->
 
 --- 
 
