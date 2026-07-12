@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the growing anti-AI movement in the Bay Area, as the disappearance of Sam Kirchner, co-founder of a hard-line activist group, has the movement on edge &lpar;Zusha Elinson/Wall Street Journal&rpar;](https://www.techmeme.com/260712/p4#a260712p4)
- - [AirDNA: during the FIFA World Cup group stage, platforms such as Airbnb saw 52K+ new listings in US host cities, while hotel bookings fell short of expectations &lpar;Financial Times&rpar;](https://www.techmeme.com/260712/p3#a260712p3)
- - [NYC-based Vendelux, a live B2B event information platform for CMOs and marketing and sales teams, raised a $50M Series B led by Tribeca Venture Partners &lpar;Lucia Moses/Business Insider&rpar;](https://www.techmeme.com/260712/p2#a260712p2)<!-- TECH:END -->
+ - [I used the Motorola Razr Fold and Pixel 10 Pro Fold, and only one keeps winning me over](https://www.androidauthority.com/i-used-motorola-razr-fold-and-google-pixel-10-pro-fold-3685952/)
+ - [The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight)
+ - [Crime blotter: Stolen iPad leads to arrest of accused bank robber](https://appleinsider.com/articles/26/07/12/crime-blotter-stolen-ipad-leads-to-arrest-of-accused-bank-robber?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
