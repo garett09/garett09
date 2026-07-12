@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Bending Spoons&#39; hiring process: the company, which owns Vimeo, AOL, and Evernote, received 800,000 job applications last year and made only 286 hires &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260711/p12#a260711p12)
- - [Current AI market dynamics point to frontier models becoming commodity infrastructure as the token crunch eases, with value shifting to products built on top &lpar;Benedict Evans&rpar;](https://www.techmeme.com/260711/p11#a260711p11)
- - [Warframe&#39;s Next Expansion Is the Epic Payoff to 13 Years of Storytelling](https://www.cnet.com/tech/gaming/warframes-next-expansion-is-the-epic-payoff-to-13-years-of-storytelling/)<!-- TECH:END -->
+ - [A look at the growing anti-AI movement in the Bay Area, as the disappearance of Sam Kirchner, co-founder of a hard-line activist group, has the movement on edge &lpar;Zusha Elinson/Wall Street Journal&rpar;](https://www.techmeme.com/260712/p4#a260712p4)
+ - [AirDNA: during the FIFA World Cup group stage, platforms such as Airbnb saw 52K+ new listings in US host cities, while hotel bookings fell short of expectations &lpar;Financial Times&rpar;](https://www.techmeme.com/260712/p3#a260712p3)
+ - [NYC-based Vendelux, a live B2B event information platform for CMOs and marketing and sales teams, raised a $50M Series B led by Tribeca Venture Partners &lpar;Lucia Moses/Business Insider&rpar;](https://www.techmeme.com/260712/p2#a260712p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
