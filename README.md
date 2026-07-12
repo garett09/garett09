@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
- - [Apple&#39;s lawsuit could sidetrack OpenAI&#39;s hardware aspirations for years, or possibly forever, as the startup gets into yet another controversy and messy divorce &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260711/p9#a260711p9)
- - [Apple&#39;s OpenAI lawsuit follows months of simmering tensions and highlights OpenAI&#39;s hardware chief Tang Tan&#39;s strained relationship with former boss John Ternus &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260711/p8#a260711p8)<!-- TECH:END -->
+ - [A look at Bending Spoons&#39; hiring process: the company, which owns Vimeo, AOL, and Evernote, received 800,000 job applications last year and made only 286 hires &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260711/p12#a260711p12)
+ - [Current AI market dynamics point to frontier models becoming commodity infrastructure as the token crunch eases, with value shifting to products built on top &lpar;Benedict Evans&rpar;](https://www.techmeme.com/260711/p11#a260711p11)
+ - [Warframe&#39;s Next Expansion Is the Epic Payoff to 13 Years of Storytelling](https://www.cnet.com/tech/gaming/warframes-next-expansion-is-the-epic-payoff-to-13-years-of-storytelling/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
