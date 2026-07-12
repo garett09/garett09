@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She is allowed to vote](http://9gag.com/gag/ae9vNQp)
- - 🚯 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
- - 🚯 [When she had enough](http://9gag.com/gag/aVvNWjd)<!-- MEMES:END -->
+ - 🚖 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
+ - 🚯 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
+ - 🚯 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)<!-- MEMES:END -->
 
 --- 
 
