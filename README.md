@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the start of the post](http://9gag.com/gag/aBy7KjD)
- - 🚯 [Leadership summed in a facial expression](http://9gag.com/gag/amoEX54)
- - 🚯 [Ba ba ba banana](http://9gag.com/gag/axyXdL1)<!-- MEMES:END -->
+ - 🚖 [She is allowed to vote](http://9gag.com/gag/ae9vNQp)
+ - 🚯 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
+ - 🚯 [When she had enough](http://9gag.com/gag/aVvNWjd)<!-- MEMES:END -->
 
 --- 
 
