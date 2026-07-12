@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I used the Motorola Razr Fold and Pixel 10 Pro Fold, and only one keeps winning me over](https://www.androidauthority.com/i-used-motorola-razr-fold-and-google-pixel-10-pro-fold-3685952/)
- - [The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight)
- - [Crime blotter: Stolen iPad leads to arrest of accused bank robber](https://appleinsider.com/articles/26/07/12/crime-blotter-stolen-ipad-leads-to-arrest-of-accused-bank-robber?utm_source=rss)<!-- TECH:END -->
+ - [PSA: T-Mobile’s free Wi-Fi offer ends tomorrow for United Airlines flights](https://www.androidauthority.com/tmobile-free-wifi-ends-on-united-flights-3686655/)
+ - [Anthropic says it is extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code&#39;s weekly rate limits 50% higher, through July 19 &lpar;The Economic Times&rpar;](https://www.techmeme.com/260712/p7#a260712p7)
+ - [Microsoft may make big changes to bring Android and Windows 11 closer together](https://www.androidauthority.com/microsoft-more-deeply-integrating-android-in-windows-3686649/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
