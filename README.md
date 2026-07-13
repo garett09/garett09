@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cotton candy clouds](http://9gag.com/gag/amoEXGd)
- - 🚯 [Know the 30/30 rule](http://9gag.com/gag/aPAKy9q)
- - 🚯 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
+ - 🚖 [360 no scope](http://9gag.com/gag/abA9yBb)
+ - 🚯 [Efficiency levels hitting different](http://9gag.com/gag/aRBYgq2)
+ - 🚯 [A multipurpose ladder](http://9gag.com/gag/azx0EQm)<!-- MEMES:END -->
 
 --- 
 
