@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [360 no scope](http://9gag.com/gag/abA9yBb)
- - 🚯 [Efficiency levels hitting different](http://9gag.com/gag/aRBYgq2)
- - 🚯 [A multipurpose ladder](http://9gag.com/gag/azx0EQm)<!-- MEMES:END -->
+ - 🚖 [Go Latina dancing](http://9gag.com/gag/aBy7Qyz)
+ - 🚯 [Need unbend it](http://9gag.com/gag/aoyb0Aw)
+ - 🚯 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
 
 --- 
 
