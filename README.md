@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: T-Mobile’s free Wi-Fi offer ends tomorrow for United Airlines flights](https://www.androidauthority.com/tmobile-free-wifi-ends-on-united-flights-3686655/)
- - [Anthropic says it is extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code&#39;s weekly rate limits 50% higher, through July 19 &lpar;The Economic Times&rpar;](https://www.techmeme.com/260712/p7#a260712p7)
- - [Microsoft may make big changes to bring Android and Windows 11 closer together](https://www.androidauthority.com/microsoft-more-deeply-integrating-android-in-windows-3686649/)<!-- TECH:END -->
+ - [A profile of Asha Sharma, an outsider elevated by Satya Nadella to lead Xbox, where she made sweeping job cuts and shed game studios within her first few months &lpar;Financial Times&rpar;](https://www.techmeme.com/260712/p11#a260712p11)
+ - [Memo: Tang Jie, founder of Z.ai, the Chinese lab behind the GLM models, argues frontier AI capabilities should stay &quot;as open and widely accessible as possible&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260712/p10#a260712p10)
+ - [Sources: Cursor is building a general-purpose AI agent codenamed Sand, aimed at non-developers, that handles emails, texts, and documents to rival Claude Cowork &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260712/p9#a260712p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
