@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go Latina dancing](http://9gag.com/gag/aBy7Qyz)
- - 🚯 [Need unbend it](http://9gag.com/gag/aoyb0Aw)
- - 🚯 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
+ - 🚖 [Arrogant balkan woman double-parks her SUV, forgetting to pull the handbrake](http://9gag.com/gag/aW4wW1n)
+ - 🚯 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
+ - 🚯 [Lifejackets](http://9gag.com/gag/avy3gvM)<!-- MEMES:END -->
 
 --- 
 
