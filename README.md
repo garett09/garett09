@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Arrogant balkan woman double-parks her SUV, forgetting to pull the handbrake](http://9gag.com/gag/aW4wW1n)
- - 🚯 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - 🚯 [Lifejackets](http://9gag.com/gag/avy3gvM)<!-- MEMES:END -->
+ - 🚖 [Beautiful indeed](http://9gag.com/gag/aXP5X0z)
+ - 🚯 [Breathtaking](http://9gag.com/gag/aMV3rgR)
+ - 🚯 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
 
 --- 
 
