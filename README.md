@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Munich-based defense tech startup Helsing raised a $1.8B Series E from Dragoneer, Iconiq, and others at an $18B valuation; Germany made a €270M order this year &lpar;Mark Bergen/Bloomberg&rpar;](https://www.techmeme.com/260713/p6#a260713p6)
- - [The best Nintendo 3DS emulator on Android finally supports multiplayer games](https://www.androidauthority.com/azahar-3ds-emulator-multiplayer-android-3686723/)
- - [Lenovo just teased a new gaming handheld, and it has a familiar twist](https://www.androidauthority.com/lenovo-legion-c700-cloud-gaming-handheld-3686727/)<!-- TECH:END -->
+ - [iPhone growth defies the smartphone market&#39;s worst second quarter in 13 years](https://appleinsider.com/articles/26/07/13/iphone-growth-defies-the-smartphone-markets-worst-second-quarter-in-13-years?utm_source=rss)
+ - [Google just gave the Pixel 10 Pro a huge discount before its successor arrives](https://www.androidauthority.com/google-pixel-10-discount-3686879/)
+ - [These new Game Boy-style Android handhelds just made us sit up and take notice](https://www.androidauthority.com/mangmi-air-y-series-game-boy-handheld-3686869/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
