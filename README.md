@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone growth defies the smartphone market&#39;s worst second quarter in 13 years](https://appleinsider.com/articles/26/07/13/iphone-growth-defies-the-smartphone-markets-worst-second-quarter-in-13-years?utm_source=rss)
- - [Google just gave the Pixel 10 Pro a huge discount before its successor arrives](https://www.androidauthority.com/google-pixel-10-discount-3686879/)
- - [These new Game Boy-style Android handhelds just made us sit up and take notice](https://www.androidauthority.com/mangmi-air-y-series-game-boy-handheld-3686869/)<!-- TECH:END -->
+ - [States make last-ditch effort to stop the Paramount ‘media behemoth’](https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit)
+ - [Pixel phones are getting a handy upgrade for ringtone, alarm, and notification controls](https://www.androidauthority.com/google-pixel-sounds-app-volume-sliders-apk-teardown-3682557/)
+ - [Wi-Fi 8 Explained: Features, Release Date, and More](https://www.wired.com/story/what-is-wi-fi-8/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
