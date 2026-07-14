@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women: Men have no feelings\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 Men:](http://9gag.com/gag/adBmj8D)
- - 🚯 [That jump was pure magic](http://9gag.com/gag/a34VLw3)
- - 🚯 [Need unbend it](http://9gag.com/gag/aoyb0Aw)<!-- MEMES:END -->
+ - 🚖 [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
+ - 🚯 [Normal day at office](http://9gag.com/gag/a9y97Zj)
+ - 🚯 [Keep track isn&#39;t easy](http://9gag.com/gag/avy3P1X)<!-- MEMES:END -->
 
 --- 
 
