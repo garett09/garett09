@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Beautiful indeed](http://9gag.com/gag/aXP5X0z)
- - 🚯 [Breathtaking](http://9gag.com/gag/aMV3rgR)
- - 🚯 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
+ - 🚯 [I hate mondays](http://9gag.com/gag/adBmpwj)
+ - 🚯 [This selfish player refused to pass the ball to Haaland costing Norway the World Cup.](http://9gag.com/gag/axyX2qY)<!-- MEMES:END -->
 
 --- 
 
