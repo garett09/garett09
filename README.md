@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [States make last-ditch effort to stop the Paramount ‘media behemoth’](https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit)
- - [Pixel phones are getting a handy upgrade for ringtone, alarm, and notification controls](https://www.androidauthority.com/google-pixel-sounds-app-volume-sliders-apk-teardown-3682557/)
- - [Wi-Fi 8 Explained: Features, Release Date, and More](https://www.wired.com/story/what-is-wi-fi-8/)<!-- TECH:END -->
+ - [I&#39;m a Big E Ink Fan, So This New Detachable-Screen Phone From Hisense Intrigues Me](https://www.cnet.com/tech/mobile/e-ink-new-phone-hisense-a10-detachable-screen/)
+ - [Singapore-based and Alibaba-backed video generation startup PixVerse says it closed a Series C extension to raise $439M total for the round, valuing it at $2B+ &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260713/p35#a260713p35)
+ - [Space Mirror: The FCC Just Approved a Sun-Reflecting Satellite, and Astronomers Are Unimpressed](https://www.cnet.com/science/space/the-fcc-just-approved-a-sun-reflecting-satellite-and-astronomers-already-hate-it/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
