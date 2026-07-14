@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Custom AI chip design startup TYLsemi raised $43M in early-stage funding led by Matter Venture Partners to build modular chips thanks to packaging tech advances &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260714/p16#a260714p16)
- - [There’s now an unofficial Animal Crossing port for these ~$50 ANBERNIC handhelds](https://www.androidauthority.com/animal-crossing-fan-port-anbernic-handhelds-3687265/)
- - [Sources and telecoms data: a coordinated campaign of SS7 pings was used to track the locations of US personnel during the US-led strikes on Iran in February &lpar;Financial Times&rpar;](https://www.techmeme.com/260714/p15#a260714p15)<!-- TECH:END -->
+ - [iCloud $32.8B CSAM lawsuit dismissed, Apple protected under Section 230 laws](https://appleinsider.com/articles/26/07/14/icloud-328b-csam-lawsuit-dismissed-apple-protected-under-section-230-laws?utm_source=rss)
+ - [Apple Watch, Meta Glasses, AirPods get reprieve from EU replaceable battery law](https://appleinsider.com/articles/26/07/14/apple-watch-meta-glasses-airpods-get-reprieve-from-eu-replaceable-battery-law?utm_source=rss)
+ - [Remember Flash games? This Android app will let you relive your childhood](https://www.androidauthority.com/android-app-plays-flash-games-3687445/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
