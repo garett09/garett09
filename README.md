@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Beautiful indeed](http://9gag.com/gag/aXP5X0z)
- - 🚯 [I hate mondays](http://9gag.com/gag/adBmpwj)
- - 🚯 [This selfish player refused to pass the ball to Haaland costing Norway the World Cup.](http://9gag.com/gag/axyX2qY)<!-- MEMES:END -->
+ - 🚖 [I have always wondered how they are able to stay so accurate. Is there a slender frame they are following that can&#39;t be seen?](http://9gag.com/gag/aND6nv4)
+ - 🚯 [RIP King!](http://9gag.com/gag/aYQ2wMq)
+ - 🚯 [They did!](http://9gag.com/gag/aXP5X5P)<!-- MEMES:END -->
 
 --- 
 
