@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s July Play System brings welcome improvements to the Play Store, Wear OS and Maps](https://www.androidauthority.com/google-system-update-july-2026-3687139/)
- - [This new flagship puts even Ultra phones to shame with bleeding-edge camera hardware](https://www.androidauthority.com/huawei-pura-90s-pro-series-global-3686717/)
- - [Breaking: Galaxy S26 series gets fourth One UI 9 beta release with July security patches](https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-4-3687144/)<!-- TECH:END -->
+ - [Custom AI chip design startup TYLsemi raised $43M in early-stage funding led by Matter Venture Partners to build modular chips thanks to packaging tech advances &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260714/p16#a260714p16)
+ - [There’s now an unofficial Animal Crossing port for these ~$50 ANBERNIC handhelds](https://www.androidauthority.com/animal-crossing-fan-port-anbernic-handhelds-3687265/)
+ - [Sources and telecoms data: a coordinated campaign of SS7 pings was used to track the locations of US personnel during the US-led strikes on Iran in February &lpar;Financial Times&rpar;](https://www.techmeme.com/260714/p15#a260714p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
