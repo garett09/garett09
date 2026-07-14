@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I&#39;m a Big E Ink Fan, So This New Detachable-Screen Phone From Hisense Intrigues Me](https://www.cnet.com/tech/mobile/e-ink-new-phone-hisense-a10-detachable-screen/)
- - [Singapore-based and Alibaba-backed video generation startup PixVerse says it closed a Series C extension to raise $439M total for the round, valuing it at $2B+ &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260713/p35#a260713p35)
- - [Space Mirror: The FCC Just Approved a Sun-Reflecting Satellite, and Astronomers Are Unimpressed](https://www.cnet.com/science/space/the-fcc-just-approved-a-sun-reflecting-satellite-and-astronomers-already-hate-it/)<!-- TECH:END -->
+ - [Google’s July Play System brings welcome improvements to the Play Store, Wear OS and Maps](https://www.androidauthority.com/google-system-update-july-2026-3687139/)
+ - [This new flagship puts even Ultra phones to shame with bleeding-edge camera hardware](https://www.androidauthority.com/huawei-pura-90s-pro-series-global-3686717/)
+ - [Breaking: Galaxy S26 series gets fourth One UI 9 beta release with July security patches](https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-4-3687144/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
