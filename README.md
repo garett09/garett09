@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is giving Pixel 9 and Pixel 10 owners another shot at Pixel Care Plus](https://www.androidauthority.com/google-pixel-care-plus-reopened-pixel-9-pixel-10-3687640/)
- - [ASML says Intel has decided to use ASML&#39;s next-gen High NA EUV machines to make some of its flagship Panther Lake laptop chips; a High NA machine costs ~$400M &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260715/p10#a260715p10)
- - [ASML reports Q2 net sales of €9.3B, above €8.8B est., a €2.9B net profit, above €2.6B est., and raises its 2026 net sales forecast from €36B-€40B to €43B-€45B &lpar;April Roach/CNBC&rpar;](https://www.techmeme.com/260715/p9#a260715p9)<!-- TECH:END -->
+ - [MANGMI drops new details for its upcoming Game Boy-style Android handhelds](https://www.androidauthority.com/mangmi-air-y-series-display-specs-3687771/)
+ - [How Anthropic is pursuing a state-by-state push for ever-tougher AI safety laws, in contrast with OpenAI&#39;s &quot;reverse federalism&quot; strategy for common state rules &lpar;Politico&rpar;](https://www.techmeme.com/260715/p26#a260715p26)
+ - [Sources: the EU is set to fine Google hundreds of millions of euros over alleged self-preferencing of its services in Search and restrictions on app developers &lpar;Barbara Moens/Financial Times&rpar;](https://www.techmeme.com/260715/p25#a260715p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
