@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well well well](http://9gag.com/gag/ayNO84W)
- - 🚯 [Today is my 69th birthday. Send me TT\u00b4s!](http://9gag.com/gag/aRBYVbj)
- - 🚯 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)<!-- MEMES:END -->
+ - 🚖 [Just try it](http://9gag.com/gag/awy6V9x)
+ - 🚯 [HR woes](http://9gag.com/gag/ayNO88b)
+ - 🚯 [Dafne keen](http://9gag.com/gag/aE0LnEM)<!-- MEMES:END -->
 
 --- 
 
