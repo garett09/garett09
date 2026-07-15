@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iCloud $32.8B CSAM lawsuit dismissed, Apple protected under Section 230 laws](https://appleinsider.com/articles/26/07/14/icloud-328b-csam-lawsuit-dismissed-apple-protected-under-section-230-laws?utm_source=rss)
- - [Apple Watch, Meta Glasses, AirPods get reprieve from EU replaceable battery law](https://appleinsider.com/articles/26/07/14/apple-watch-meta-glasses-airpods-get-reprieve-from-eu-replaceable-battery-law?utm_source=rss)
- - [Remember Flash games? This Android app will let you relive your childhood](https://www.androidauthority.com/android-app-plays-flash-games-3687445/)<!-- TECH:END -->
+ - [Monitoring Analytics: PJM&#39;s recent electricity auction is expected to add $6.3B to customers&#39; bills in 13 states and DC through 2029 due to data center demands &lpar;Ivan Penn/New York Times&rpar;](https://www.techmeme.com/260714/p55#a260714p55)
+ - [LaserPecker LX2 review: Leveling up your laser game, for a price](https://appleinsider.com/articles/26/07/15/laserpecker-lx2-review-leveling-up-your-laser-game-for-a-price?utm_source=rss)
+ - [InstaLILY, which develops AI agents to automate sales, operations, and service workflows, raised a $60M Series B led by Energize Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260714/p54#a260714p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
