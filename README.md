@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
- - 🚯 [Normal day at office](http://9gag.com/gag/a9y97Zj)
- - 🚯 [Keep track isn&#39;t easy](http://9gag.com/gag/avy3P1X)<!-- MEMES:END -->
+ - 🚖 [I hate mondays](http://9gag.com/gag/adBmpwj)
+ - 🚯 [4 genre 1 place](http://9gag.com/gag/aKGr341)
+ - 🚯 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
 
 --- 
 
