@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I hate mondays](http://9gag.com/gag/adBmpwj)
- - 🚯 [4 genre 1 place](http://9gag.com/gag/aKGr341)
- - 🚯 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
+ - 🚖 [4 genre 1 place](http://9gag.com/gag/aKGr341)
+ - 🚯 [Today is my 69th birthday. Send me TT\u00b4s!](http://9gag.com/gag/aRBYVbj)
+ - 🚯 [Normal day at office](http://9gag.com/gag/a9y97Zj)<!-- MEMES:END -->
 
 --- 
 
