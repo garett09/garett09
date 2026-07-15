@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [4 genre 1 place](http://9gag.com/gag/aKGr341)
+ - 🚖 [Well well well](http://9gag.com/gag/ayNO84W)
  - 🚯 [Today is my 69th birthday. Send me TT\u00b4s!](http://9gag.com/gag/aRBYVbj)
- - 🚯 [Normal day at office](http://9gag.com/gag/a9y97Zj)<!-- MEMES:END -->
+ - 🚯 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)<!-- MEMES:END -->
 
 --- 
 
