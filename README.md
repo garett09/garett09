@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MANGMI drops new details for its upcoming Game Boy-style Android handhelds](https://www.androidauthority.com/mangmi-air-y-series-display-specs-3687771/)
- - [How Anthropic is pursuing a state-by-state push for ever-tougher AI safety laws, in contrast with OpenAI&#39;s &quot;reverse federalism&quot; strategy for common state rules &lpar;Politico&rpar;](https://www.techmeme.com/260715/p26#a260715p26)
- - [Sources: the EU is set to fine Google hundreds of millions of euros over alleged self-preferencing of its services in Search and restrictions on app developers &lpar;Barbara Moens/Financial Times&rpar;](https://www.techmeme.com/260715/p25#a260715p25)<!-- TECH:END -->
+ - [Pixel 10 Pro XL is no lemon, after all? Survey shows reported issues may be overblown](https://www.androidauthority.com/google-pixel-10-pro-xl-problems-3687892/)
+ - [Apple&#39;s new 36-month cellular iPad financing plan is good, but you can save money elsewhere](https://appleinsider.com/articles/26/07/15/apples-new-36-month-cellular-ipad-financing-plan-is-good-but-you-can-save-money-elsewhere?utm_source=rss)
+ - [Our ‘explosive diarrhea parasite’ future](https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
