@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)
- - 🚯 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
- - 🚯 [Man stalked by a mountain lion saved by a Glock 27](http://9gag.com/gag/an7LNPV)<!-- MEMES:END -->
+ - 🚖 [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
+ - 🚯 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
+ - 🚯 [F**k cancer!](http://9gag.com/gag/a1mGd9D)<!-- MEMES:END -->
 
 --- 
 
