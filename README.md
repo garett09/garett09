@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Spark can now do more things for you and is faster at doing them](https://www.androidauthority.com/gemini-spark-workspace-features-speed-improvements-3688053/)
- - [5 Reasons to Buy the New Pink Floyd Cassette Deck, Ranked Best to Worst](https://www.cnet.com/tech/home-entertainment/5-reasons-to-buy-the-new-pink-floyd-cassette-deck-ranked-best-to-worst/)
- - [OnePlus shutdown report comes with another nasty surprise for Android fans &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/oneplus-realme-shutdown-3688034/)<!-- TECH:END -->
+ - [Grubhub parent Wonder raised a $650M+ Series D at a $9B valuation, bringing its total raised to $3B+ since its founding in 2018, and plans to go public in 2027 &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260716/p30#a260716p30)
+ - [Samsung&amp;#8217;s Galaxy Z Flip 8 leaks a week before launch event](https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked)
+ - [1Password launches a new Claude integration for Mac that lets Anthropic&#39;s AI agent sign in to websites without seeing the user&#39;s password or 2FA code &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260716/p29#a260716p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
