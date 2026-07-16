@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Peaks](http://9gag.com/gag/aVvNqZy)
- - 🚯 [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
- - 🚯 [F**k cancer!](http://9gag.com/gag/a1mGd9D)<!-- MEMES:END -->
+ - 🚖 [...](http://9gag.com/gag/aQz0eqW)
+ - 🚯 [Dynamic movement](http://9gag.com/gag/aVvNq9n)
+ - 🚯 [Impressive!](http://9gag.com/gag/aW4w8yn)<!-- MEMES:END -->
 
 --- 
 
