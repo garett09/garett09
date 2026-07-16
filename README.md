@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 Pro XL is no lemon, after all? Survey shows reported issues may be overblown](https://www.androidauthority.com/google-pixel-10-pro-xl-problems-3687892/)
- - [Apple&#39;s new 36-month cellular iPad financing plan is good, but you can save money elsewhere](https://appleinsider.com/articles/26/07/15/apples-new-36-month-cellular-ipad-financing-plan-is-good-but-you-can-save-money-elsewhere?utm_source=rss)
- - [Our ‘explosive diarrhea parasite’ future](https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell)<!-- TECH:END -->
+ - [Google Play Opens the Door to Third-Party App Stores, Starting Next Week](https://www.cnet.com/tech/google-play-third-party-app-stores-android/)
+ - [SpaceXAI open-sources Grok Build under an Apache 2.0 license after the tool had uploaded user repositories to a Google Cloud bucket, causing a severe backlash &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260715/p52#a260715p52)
+ - [Android 17 QPR1 Beta 7 drops a few bugfixes for die-hard Pixel testers](https://www.androidauthority.com/android-17-qpr1-beta-7-3688027/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
