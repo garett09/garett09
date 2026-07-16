@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grubhub parent Wonder raised a $650M+ Series D at a $9B valuation, bringing its total raised to $3B+ since its founding in 2018, and plans to go public in 2027 &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260716/p30#a260716p30)
- - [Samsung&amp;#8217;s Galaxy Z Flip 8 leaks a week before launch event](https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked)
- - [1Password launches a new Claude integration for Mac that lets Anthropic&#39;s AI agent sign in to websites without seeing the user&#39;s password or 2FA code &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260716/p29#a260716p29)<!-- TECH:END -->
+ - [After reports of GPT-5.6 deleting files, OpenAI says the issue most often occurs in full-access mode without sandboxing and it is working to mitigate the risk &lpar;Tibo/@thsottiaux&rpar;](https://www.techmeme.com/260716/p49#a260716p49)
+ - [Kalshi says it caught Trump&amp;#8217;s teleprompter operator insider trading](https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation)
+ - [Everyone Thinks They Have the Diarrhea Parasite](https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
