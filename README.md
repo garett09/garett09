@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Opens the Door to Third-Party App Stores, Starting Next Week](https://www.cnet.com/tech/google-play-third-party-app-stores-android/)
- - [SpaceXAI open-sources Grok Build under an Apache 2.0 license after the tool had uploaded user repositories to a Google Cloud bucket, causing a severe backlash &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260715/p52#a260715p52)
- - [Android 17 QPR1 Beta 7 drops a few bugfixes for die-hard Pixel testers](https://www.androidauthority.com/android-17-qpr1-beta-7-3688027/)<!-- TECH:END -->
+ - [Gemini Spark can now do more things for you and is faster at doing them](https://www.androidauthority.com/gemini-spark-workspace-features-speed-improvements-3688053/)
+ - [5 Reasons to Buy the New Pink Floyd Cassette Deck, Ranked Best to Worst](https://www.cnet.com/tech/home-entertainment/5-reasons-to-buy-the-new-pink-floyd-cassette-deck-ranked-best-to-worst/)
+ - [OnePlus shutdown report comes with another nasty surprise for Android fans &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/oneplus-realme-shutdown-3688034/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
