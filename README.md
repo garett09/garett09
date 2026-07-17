@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Still would?](http://9gag.com/gag/a0e2b0Q)
- - 🚯 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
- - 🚯 [Ghost in the shell](http://9gag.com/gag/abA9zGv)<!-- MEMES:END -->
+ - 🚯 [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)
+ - 🚯 [Go away](http://9gag.com/gag/a4PDGom)<!-- MEMES:END -->
 
 --- 
 
