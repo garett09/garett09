@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Still would?](http://9gag.com/gag/a0e2b0Q)
- - 🚯 [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)
- - 🚯 [Go away](http://9gag.com/gag/a4PDGom)<!-- MEMES:END -->
+ - 🚖 [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
+ - 🚯 [Let&#39;s see](http://9gag.com/gag/an7LjGo)
+ - 🚯 [I\u2019d marry her.](http://9gag.com/gag/apRWpVW)<!-- MEMES:END -->
 
 --- 
 
