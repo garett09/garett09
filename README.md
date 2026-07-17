@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US chip, memory, and storage stocks fell sharply on Thursday, with Sandisk down 13%, Seagate 10%, Western Digital 9%, and Intel and Micron 6% each &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/260716/p65#a260716p65)
- - [Filing: South Korean authorities conducted an on-site search of Chinese chipmaker Montage&#39;s offices in connection with potential competition law violations &lpar;Nikita Maria Jino/Reuters&rpar;](https://www.techmeme.com/260716/p63#a260716p63)
- - [Memo: MLB bans the use of league-provided dugout iPads to access GenAI for in-game strategy calls; sources say at least a third of teams used AI this way &lpar;Eno Sarris/The Athletic&rpar;](https://www.techmeme.com/260716/p64#a260716p64)<!-- TECH:END -->
+ - [Roborock’s latest lawn mower is now available in the US with a huge introductory discount](https://www.androidauthority.com/roborock-rockmow-x120h-lidar-launch-3688530/)
+ - [Samsung’s free storage upgrades might return for new foldables after all, but there’s a catch](https://www.androidauthority.com/samsung-galaxy-z8-foldables-free-storage-upgrade-3688520/)
+ - [Sources: Tata plans India&#39;s first large-scale chip fab in Dholera, Gujarat, mostly using 90nm nodes, a far humbler start than the 28nm node it touted earlier &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p3#a260717p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
