@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the EU is set to approve the $55B acquisition of EA under its subsidy rules on July 30; the deal includes Saudi Arabia&#39;s PIF, Silver Lake, and more &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260717/p10#a260717p10)
- - [Trump is selling high-speed access to his market-moving Truth Social posts](https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders)
- - [San Francisco sends legal notices to Apple and Google demanding they take down 13 AI apps used to make deepfake nude images; Google says it has deleted the apps &lpar;Matt Burgess/Wired&rpar;](https://www.techmeme.com/260717/p9#a260717p9)<!-- TECH:END -->
+ - [Samsung just made outdoor movie nights easier with the Freestyle Plus projector](https://www.androidauthority.com/samsung-freestyle-plus-projector-3688901/)
+ - [Google Pixel 11a key specs might have just leaked](https://www.androidauthority.com/pixel-11a-spec-leak-3688924/)
+ - [Apple raises the price of Apple Music, with the individual plan up by $1 to $11.99, and some Apple One bundles, the first price hike for Apple Music since 2022 &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260717/p17#a260717p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
