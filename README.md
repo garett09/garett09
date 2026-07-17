@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [...](http://9gag.com/gag/aQz0eqW)
- - 🚯 [Dynamic movement](http://9gag.com/gag/aVvNq9n)
- - 🚯 [Impressive!](http://9gag.com/gag/aW4w8yn)<!-- MEMES:END -->
+ - 🚖 [Fact](http://9gag.com/gag/ae9vbXO)
+ - 🚯 [Impressive!](http://9gag.com/gag/aW4w8yn)
+ - 🚯 [Painfully accurate](http://9gag.com/gag/a34VqpQ)<!-- MEMES:END -->
 
 --- 
 
