@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After reports of GPT-5.6 deleting files, OpenAI says the issue most often occurs in full-access mode without sandboxing and it is working to mitigate the risk &lpar;Tibo/@thsottiaux&rpar;](https://www.techmeme.com/260716/p49#a260716p49)
- - [Kalshi says it caught Trump&amp;#8217;s teleprompter operator insider trading](https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation)
- - [Everyone Thinks They Have the Diarrhea Parasite](https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite/)<!-- TECH:END -->
+ - [US chip, memory, and storage stocks fell sharply on Thursday, with Sandisk down 13%, Seagate 10%, Western Digital 9%, and Intel and Micron 6% each &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/260716/p65#a260716p65)
+ - [Filing: South Korean authorities conducted an on-site search of Chinese chipmaker Montage&#39;s offices in connection with potential competition law violations &lpar;Nikita Maria Jino/Reuters&rpar;](https://www.techmeme.com/260716/p63#a260716p63)
+ - [Memo: MLB bans the use of league-provided dugout iPads to access GenAI for in-game strategy calls; sources say at least a third of teams used AI this way &lpar;Eno Sarris/The Athletic&rpar;](https://www.techmeme.com/260716/p64#a260716p64)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
