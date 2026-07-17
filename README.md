@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock’s latest lawn mower is now available in the US with a huge introductory discount](https://www.androidauthority.com/roborock-rockmow-x120h-lidar-launch-3688530/)
- - [Samsung’s free storage upgrades might return for new foldables after all, but there’s a catch](https://www.androidauthority.com/samsung-galaxy-z8-foldables-free-storage-upgrade-3688520/)
- - [Sources: Tata plans India&#39;s first large-scale chip fab in Dholera, Gujarat, mostly using 90nm nodes, a far humbler start than the 28nm node it touted earlier &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p3#a260717p3)<!-- TECH:END -->
+ - [Sources: the EU is set to approve the $55B acquisition of EA under its subsidy rules on July 30; the deal includes Saudi Arabia&#39;s PIF, Silver Lake, and more &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260717/p10#a260717p10)
+ - [Trump is selling high-speed access to his market-moving Truth Social posts](https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders)
+ - [San Francisco sends legal notices to Apple and Google demanding they take down 13 AI apps used to make deepfake nude images; Google says it has deleted the apps &lpar;Matt Burgess/Wired&rpar;](https://www.techmeme.com/260717/p9#a260717p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
