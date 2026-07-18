@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
- - 🚯 [Let&#39;s see](http://9gag.com/gag/an7LjGo)
- - 🚯 [I\u2019d marry her.](http://9gag.com/gag/apRWpVW)<!-- MEMES:END -->
+ - 🚖 [No tacos for you](http://9gag.com/gag/a34VMY7)
+ - 🚯 [She took it well](http://9gag.com/gag/aBy78V1)
+ - 🚯 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)<!-- MEMES:END -->
 
 --- 
 
