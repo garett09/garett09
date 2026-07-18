@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung just made outdoor movie nights easier with the Freestyle Plus projector](https://www.androidauthority.com/samsung-freestyle-plus-projector-3688901/)
- - [Google Pixel 11a key specs might have just leaked](https://www.androidauthority.com/pixel-11a-spec-leak-3688924/)
- - [Apple raises the price of Apple Music, with the individual plan up by $1 to $11.99, and some Apple One bundles, the first price hike for Apple Music since 2022 &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260717/p17#a260717p17)<!-- TECH:END -->
+ - [China&#39;s BrainCo unveils what it says is the world&#39;s first integrated &quot;brain-to-robot&quot; platform that lets users control robots using an EEG headset &lpar;Minxiao Chang/South China Morning Post&rpar;](https://www.techmeme.com/260717/p29#a260717p29)
+ - [Memo: the DOJ says federal employees can now download TikTok on government devices, citing ByteDance&#39;s transfer of control of US operations to TikTok USDS &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260717/p28#a260717p28)
+ - [Sources: AI inference chip startup Etched is raising funds at a ~$20B valuation and is raising capital at a $10B valuation in a separate round led by Sequoia &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260717/p27#a260717p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
