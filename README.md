@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fine, electric mountain bikes don’t suck](https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters)
- - [Analysis: recent open weight models lag frontier closed models&#39; cyber capabilities by 4 to 7 months, a narrower gap than the 6 to 10 months through most of 2025 &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260718/p9#a260718p9)
- - [SEC filing: GameStop says it owns 9.8% of eBay, signaling its intent to press ahead with a bid for the company after its unsolicited $56B offer was rejected &lpar;Reuters&rpar;](https://www.techmeme.com/260718/p8#a260718p8)<!-- TECH:END -->
+ - [Sony’s flagship RGB LED TV is incredible](https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review)
+ - [Apple bumps up the cost of iCloud+ in 8 countries](https://appleinsider.com/articles/26/07/18/apple-bumps-up-the-cost-of-icloud-in-8-countries?utm_source=rss)
+ - [I let an AI take over my Google TV for a week — and it solved streaming’s biggest problem](https://www.androidauthority.com/ai-took-over-google-tv-fixed-streaming-problem-3686072/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
