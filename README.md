@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s BrainCo unveils what it says is the world&#39;s first integrated &quot;brain-to-robot&quot; platform that lets users control robots using an EEG headset &lpar;Minxiao Chang/South China Morning Post&rpar;](https://www.techmeme.com/260717/p29#a260717p29)
- - [Memo: the DOJ says federal employees can now download TikTok on government devices, citing ByteDance&#39;s transfer of control of US operations to TikTok USDS &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260717/p28#a260717p28)
- - [Sources: AI inference chip startup Etched is raising funds at a ~$20B valuation and is raising capital at a $10B valuation in a separate round led by Sequoia &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260717/p27#a260717p27)<!-- TECH:END -->
+ - [Fine, electric mountain bikes don’t suck](https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters)
+ - [Analysis: recent open weight models lag frontier closed models&#39; cyber capabilities by 4 to 7 months, a narrower gap than the 6 to 10 months through most of 2025 &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260718/p9#a260718p9)
+ - [SEC filing: GameStop says it owns 9.8% of eBay, signaling its intent to press ahead with a bid for the company after its unsolicited $56B offer was rejected &lpar;Reuters&rpar;](https://www.techmeme.com/260718/p8#a260718p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
