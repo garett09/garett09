@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No tacos for you](http://9gag.com/gag/a34VMY7)
- - 🚯 [She took it well](http://9gag.com/gag/aBy78V1)
- - 🚯 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)<!-- MEMES:END -->
+ - 🚖 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)
+ - 🚯 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
+ - 🚯 [Women](http://9gag.com/gag/aRBY3YA)<!-- MEMES:END -->
 
 --- 
 
