@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No wonder it gets smaller nowadays](http://9gag.com/gag/aGyWeQ7)
- - 🚯 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
- - 🚯 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)<!-- MEMES:END -->
+ - 🚖 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
+ - 🚯 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
+ - 🚯 [This kid is a legend](http://9gag.com/gag/abA9Mwr)<!-- MEMES:END -->
 
 --- 
 
