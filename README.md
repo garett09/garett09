@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s flagship RGB LED TV is incredible](https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review)
- - [Apple bumps up the cost of iCloud+ in 8 countries](https://appleinsider.com/articles/26/07/18/apple-bumps-up-the-cost-of-icloud-in-8-countries?utm_source=rss)
- - [I let an AI take over my Google TV for a week — and it solved streaming’s biggest problem](https://www.androidauthority.com/ai-took-over-google-tv-fixed-streaming-problem-3686072/)<!-- TECH:END -->
+ - [Google might not kneecap the Pixel 11a with an old processor](https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak)
+ - [How the Trump administration shifted from a &quot;light-touch&quot; approach to AI policy to an interventionist stance that led to restrictions on top AI models in the US &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260718/p12#a260718p12)
+ - [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
