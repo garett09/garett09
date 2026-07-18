@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)
- - 🚯 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
- - 🚯 [Women](http://9gag.com/gag/aRBY3YA)<!-- MEMES:END -->
+ - 🚖 [No wonder it gets smaller nowadays](http://9gag.com/gag/aGyWeQ7)
+ - 🚯 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
+ - 🚯 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)<!-- MEMES:END -->
 
 --- 
 
