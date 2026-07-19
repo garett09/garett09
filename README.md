@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 things Gemini still can’t do that keep me paying for ChatGPT](https://www.androidauthority.com/things-gemini-still-cant-do-vs-chatgpt-3687922/)
- - [The future of physical games is not looking great](https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games)
- - [AI is reshaping entry-level professional services jobs, as companies redesign hiring, training, and workplace culture rather than simply cut junior roles &lpar;Andrew Hill/Financial Times&rpar;](https://www.techmeme.com/260719/p6#a260719p6)<!-- TECH:END -->
+ - [Apple probably won&#39;t add Jony Ive to OpenAI trade secret theft suit](https://appleinsider.com/articles/26/07/19/apple-probably-wont-add-jony-ive-to-openai-trade-secret-theft-suit?utm_source=rss)
+ - [I hate that I don’t hate this song made with Suno](https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music)
+ - [Kalshi and Polymarket bets on the FIFA World Cup final top $5.69B; Dune Analytics says total wagers on the platforms surpassed $50B for the first time in June &lpar;Lauren McCarthy/New York Times&rpar;](https://www.techmeme.com/260719/p9#a260719p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
