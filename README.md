@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
- - 🚯 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
- - 🚯 [This kid is a legend](http://9gag.com/gag/abA9Mwr)<!-- MEMES:END -->
+ - 🚖 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
+ - 🚯 [Women](http://9gag.com/gag/aRBY3YA)
+ - 🚯 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)<!-- MEMES:END -->
 
 --- 
 
