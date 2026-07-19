@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
- - 🚯 [Women](http://9gag.com/gag/aRBY3YA)
- - 🚯 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)<!-- MEMES:END -->
+ - 🚖 [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)
+ - 🚯 [How is this level of stupid even possible?](http://9gag.com/gag/azx0XPb)
+ - 🚯 [This kid is a legend](http://9gag.com/gag/abA9Mwr)<!-- MEMES:END -->
 
 --- 
 
