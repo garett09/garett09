@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H launches steep MacBook Pro discounts at up to $400 off](https://appleinsider.com/articles/26/07/19/bh-launches-steep-macbook-pro-discounts-at-up-to-400-off?utm_source=rss)
- - [Sources: Kimi developer Moonshot told investors it is preparing for a Hong Kong IPO in as early as six months; its ARR hit $300M in June, up from $200M in April &lpar;Bloomberg&rpar;](https://www.techmeme.com/260719/p5#a260719p5)
- - [Analysis: OpenAI and Anthropic employees are donating to campaigns more heavily and cohesively than Google, Meta, and Airbnb employees did post-IPO &lpar;Alexandra Lindsay/The San Francisco ...&rpar;](https://www.techmeme.com/260719/p4#a260719p4)<!-- TECH:END -->
+ - [5 things Gemini still can’t do that keep me paying for ChatGPT](https://www.androidauthority.com/things-gemini-still-cant-do-vs-chatgpt-3687922/)
+ - [The future of physical games is not looking great](https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games)
+ - [AI is reshaping entry-level professional services jobs, as companies redesign hiring, training, and workplace culture rather than simply cut junior roles &lpar;Andrew Hill/Financial Times&rpar;](https://www.techmeme.com/260719/p6#a260719p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
