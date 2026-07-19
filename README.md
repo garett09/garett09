@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)
- - 🚯 [How is this level of stupid even possible?](http://9gag.com/gag/azx0XPb)
- - 🚯 [This kid is a legend](http://9gag.com/gag/abA9Mwr)<!-- MEMES:END -->
+ - 🚖 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
+ - 🚯 [Women](http://9gag.com/gag/aRBY3YA)
+ - 🚯 [Another dungeon](http://9gag.com/gag/aVvNYyw)<!-- MEMES:END -->
 
 --- 
 
