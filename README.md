@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 🚯 [Women](http://9gag.com/gag/aRBY3YA)
- - 🚯 [Another dungeon](http://9gag.com/gag/aVvNYyw)<!-- MEMES:END -->
+ - 🚖 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
+ - 🚯 [The Greeks would have launched a million ships for her](http://9gag.com/gag/avy38PX)
+ - 🚯 [We will watch your career with great interest.](http://9gag.com/gag/axyXzG1)<!-- MEMES:END -->
 
 --- 
 
