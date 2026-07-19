@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google might not kneecap the Pixel 11a with an old processor](https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak)
- - [How the Trump administration shifted from a &quot;light-touch&quot; approach to AI policy to an interventionist stance that led to restrictions on top AI models in the US &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260718/p12#a260718p12)
- - [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji)<!-- TECH:END -->
+ - [A look at AI&#39;s potential impact on insurance-coverage decisions like prior authorization as the Trump admin starts to pilot using AI to evaluate Medicare claims &lpar;Joshua Cohen/Ars Technica&rpar;](https://www.techmeme.com/260718/p16#a260718p16)
+ - [Best Smart Speakers for 2026: Big Sound and So Much More](https://www.cnet.com/home/smart-home/best-smart-speaker/)
+ - [UK&#39;s incoming PM Andy Burnham is expected to scrap Keir Starmer&#39;s plans for digital ID cards; last year a petition opposing the cards attracted ~3M signatures &lpar;Geraldine McKelvie/The Guardian&rpar;](https://www.techmeme.com/260718/p15#a260718p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
