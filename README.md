@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AI&#39;s potential impact on insurance-coverage decisions like prior authorization as the Trump admin starts to pilot using AI to evaluate Medicare claims &lpar;Joshua Cohen/Ars Technica&rpar;](https://www.techmeme.com/260718/p16#a260718p16)
- - [Best Smart Speakers for 2026: Big Sound and So Much More](https://www.cnet.com/home/smart-home/best-smart-speaker/)
- - [UK&#39;s incoming PM Andy Burnham is expected to scrap Keir Starmer&#39;s plans for digital ID cards; last year a petition opposing the cards attracted ~3M signatures &lpar;Geraldine McKelvie/The Guardian&rpar;](https://www.techmeme.com/260718/p15#a260718p15)<!-- TECH:END -->
+ - [B&amp;H launches steep MacBook Pro discounts at up to $400 off](https://appleinsider.com/articles/26/07/19/bh-launches-steep-macbook-pro-discounts-at-up-to-400-off?utm_source=rss)
+ - [Sources: Kimi developer Moonshot told investors it is preparing for a Hong Kong IPO in as early as six months; its ARR hit $300M in June, up from $200M in April &lpar;Bloomberg&rpar;](https://www.techmeme.com/260719/p5#a260719p5)
+ - [Analysis: OpenAI and Anthropic employees are donating to campaigns more heavily and cohesively than Google, Meta, and Airbnb employees did post-IPO &lpar;Alexandra Lindsay/The San Francisco ...&rpar;](https://www.techmeme.com/260719/p4#a260719p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
