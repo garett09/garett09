@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
+ - 🚖 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
  - 🚯 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
- - 🚯 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)<!-- MEMES:END -->
+ - 🚯 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)<!-- MEMES:END -->
 
 --- 
 
