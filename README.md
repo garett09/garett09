@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
- - 🚯 [The Greeks would have launched a million ships for her](http://9gag.com/gag/avy38PX)
- - 🚯 [We will watch your career with great interest.](http://9gag.com/gag/axyXzG1)<!-- MEMES:END -->
+ - 🚖 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
+ - 🚯 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
+ - 🚯 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)<!-- MEMES:END -->
 
 --- 
 
