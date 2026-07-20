@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is betting big on the Wide Fold](https://www.androidauthority.com/galaxy-z-fold-8-production-volume-increased-3689103/)
- - [Trial lawyers, with big liability litigation earnings, are among the most active lobbyists against autonomous vehicles, even as data shows clear safety benefits &lpar;Alex Tabarrok/Marginal Revolution&rpar;](https://www.techmeme.com/260720/p10#a260720p10)
- - [How smart home devices have given abusive partners a new tool to remotely manipulate, intimidate, and disturb their victims, in a form of tech-assisted abuse &lpar;Financial Times&rpar;](https://www.techmeme.com/260720/p9#a260720p9)<!-- TECH:END -->
+ - [Avengers: Doomsday’s first trailer puts everyone on high alert](https://www.theverge.com/entertainment/967887/avengers-doomsday-trailer-marvel-release-date)
+ - [UK government data: ~35% of UK businesses with 10+ staff report using AI, up from 12% in September 2023; average number of AI tools is 1.6, up from 1.4 in 2023 &lpar;Delphine Strauss/Financial Times&rpar;](https://www.techmeme.com/260720/p21#a260720p21)
+ - [These AT&amp;T home internet plans are getting a $5 price hike](https://www.androidauthority.com/att-price-hike-august-2026-3689162/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
