@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Avengers: Doomsday’s first trailer puts everyone on high alert](https://www.theverge.com/entertainment/967887/avengers-doomsday-trailer-marvel-release-date)
- - [UK government data: ~35% of UK businesses with 10+ staff report using AI, up from 12% in September 2023; average number of AI tools is 1.6, up from 1.4 in 2023 &lpar;Delphine Strauss/Financial Times&rpar;](https://www.techmeme.com/260720/p21#a260720p21)
- - [These AT&amp;T home internet plans are getting a $5 price hike](https://www.androidauthority.com/att-price-hike-august-2026-3689162/)<!-- TECH:END -->
+ - [MANGMI drops the full specs for its Game Boy-like handhelds](https://www.androidauthority.com/mangmi-air-y-air-y-pro-specs-3689333/)
+ - [Felicia Day’s Movie Kickstarter for The Guild Hit Its Goal in 3 Hours](https://www.cnet.com/uncategorized/felicia-days-movie-kickstarter-for-the-guild-hit-its-goal-in-3-hours/)
+ - [Even Mild Sleep Deprivation May Lead to Weight Gain](https://www.wired.com/story/even-mild-sleep-deprivation-may-lead-to-weight-gain/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
