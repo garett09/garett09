@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
- - 🚯 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
+ - 🚖 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
+ - 🚯 [Just guys being dude&#39;s for real.](http://9gag.com/gag/aqyqgAL)
  - 🚯 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)<!-- MEMES:END -->
 
 --- 
