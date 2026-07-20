@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As companies stay private longer, VC firms, like Spark, Gigafund, and Greenoaks, are investing in companies later on and buying stakes without seeking influence &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260719/p15#a260719p15)
- - [A look at the nonprofit Current AI, backed by $400M in commitments from many partners including $100M from France, that&#39;s funding open, public AI infrastructure &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260719/p14#a260719p14)
- - [Hugging Face says it used the open-weight GLM-5.2 hosted on its own compute for breach forensics, after US frontier model safety guardrails blocked the requests &lpar;Edward Targett/The Stack&rpar;](https://www.techmeme.com/260719/p13#a260719p13)<!-- TECH:END -->
+ - [Samsung is betting big on the Wide Fold](https://www.androidauthority.com/galaxy-z-fold-8-production-volume-increased-3689103/)
+ - [Trial lawyers, with big liability litigation earnings, are among the most active lobbyists against autonomous vehicles, even as data shows clear safety benefits &lpar;Alex Tabarrok/Marginal Revolution&rpar;](https://www.techmeme.com/260720/p10#a260720p10)
+ - [How smart home devices have given abusive partners a new tool to remotely manipulate, intimidate, and disturb their victims, in a form of tech-assisted abuse &lpar;Financial Times&rpar;](https://www.techmeme.com/260720/p9#a260720p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
