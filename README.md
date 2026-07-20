@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple probably won&#39;t add Jony Ive to OpenAI trade secret theft suit](https://appleinsider.com/articles/26/07/19/apple-probably-wont-add-jony-ive-to-openai-trade-secret-theft-suit?utm_source=rss)
- - [I hate that I don’t hate this song made with Suno](https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music)
- - [Kalshi and Polymarket bets on the FIFA World Cup final top $5.69B; Dune Analytics says total wagers on the platforms surpassed $50B for the first time in June &lpar;Lauren McCarthy/New York Times&rpar;](https://www.techmeme.com/260719/p9#a260719p9)<!-- TECH:END -->
+ - [As companies stay private longer, VC firms, like Spark, Gigafund, and Greenoaks, are investing in companies later on and buying stakes without seeking influence &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260719/p15#a260719p15)
+ - [A look at the nonprofit Current AI, backed by $400M in commitments from many partners including $100M from France, that&#39;s funding open, public AI infrastructure &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260719/p14#a260719p14)
+ - [Hugging Face says it used the open-weight GLM-5.2 hosted on its own compute for breach forensics, after US frontier model safety guardrails blocked the requests &lpar;Edward Targett/The Stack&rpar;](https://www.techmeme.com/260719/p13#a260719p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
