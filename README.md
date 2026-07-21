@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MANGMI drops the full specs for its Game Boy-like handhelds](https://www.androidauthority.com/mangmi-air-y-air-y-pro-specs-3689333/)
- - [Felicia Day’s Movie Kickstarter for The Guild Hit Its Goal in 3 Hours](https://www.cnet.com/uncategorized/felicia-days-movie-kickstarter-for-the-guild-hit-its-goal-in-3-hours/)
- - [Even Mild Sleep Deprivation May Lead to Weight Gain](https://www.wired.com/story/even-mild-sleep-deprivation-may-lead-to-weight-gain/)<!-- TECH:END -->
+ - [South Korea reports that, for the first 20 days of July, chip exports climbed 180.6% from the same period in 2025; computer-related product shipments grew ~232% &lpar;Heesu Lee/Bloomberg&rpar;](https://www.techmeme.com/260720/p43#a260720p43)
+ - [Google&#39;s AI Search is endangering the open web; Cloudflare: between June 2025 and April 2026, human traffic to sites of businesses in many industries fell ~40% &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260720/p42#a260720p42)
+ - [Researchers found sandbox escapes or boundary bypasses in Cursor, Codex, Gemini CLI, and Antigravity by writing files trusted tools later use; most are patched &lpar;Ax Sharma/BleepingComputer&rpar;](https://www.techmeme.com/260720/p41#a260720p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
