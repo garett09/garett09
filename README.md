@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men: Don&#39;t need much to be happy](http://9gag.com/gag/a9y9Erj)
- - 🚯 [Wtf man](http://9gag.com/gag/ajPo9pG)
- - 🚯 [Half Time Show World Cup 2026](http://9gag.com/gag/agmPBqg)<!-- MEMES:END -->
+ - 🚖 [Silvia now has a pirate arc...](http://9gag.com/gag/aD2Edg7)
+ - 🚯 [Men: Don&#39;t need much to be happy](http://9gag.com/gag/a9y9Erj)
+ - 🚯 [When logic left the chat](http://9gag.com/gag/aAyobwo)<!-- MEMES:END -->
 
 --- 
 
