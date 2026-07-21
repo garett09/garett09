@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin launches the Cirqa Smart Band, a $200 screenless fitness tracker that monitors 80+ activities with an up to 10 day battery life, to compete with Whoop &lpar;Dana Wollman/Bloomberg&rpar;](https://www.techmeme.com/260721/p19#a260721p19)
- - [OpenAI says it now has 10M people using Codex and ChatGPT Work, nearly doubling usage from earlier this month when the company announced ChatGPT Work &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260721/p18#a260721p18)
- - [These camera-free smart glasses want to give you a secret advantage in meetings](https://www.androidauthority.com/halliday-g2-smart-glasses-launch-3689649/)<!-- TECH:END -->
+ - [Google expands Gemini 3.5 line with trio of new models — and shares an update on Gemini 3.5 Pro](https://www.androidauthority.com/google-launches-gemini-36-flash-3689795/)
+ - [Some Instagram and Facebook users say Meta&#39;s AI moderation deleted their accounts; Meta says AI makes 13% fewer errors and finds 10% more violations than humans &lpar;New York Times&rpar;](https://www.techmeme.com/260721/p41#a260721p41)
+ - [Peak Design’s modular Field Bracket has a finder tag built-in](https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
