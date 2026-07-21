@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The true native American](http://9gag.com/gag/aBy72BP)
- - 🚯 [The dutch defeat](http://9gag.com/gag/a7ozWyr)
- - 🚯 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
+ - 🚖 [Any?](http://9gag.com/gag/aryjMV6)
+ - 🚯 [The true native American](http://9gag.com/gag/aBy72BP)
+ - 🚯 [Hear me out 9gagers.](http://9gag.com/gag/a6ZA1E9)<!-- MEMES:END -->
 
 --- 
 
