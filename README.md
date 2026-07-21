@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea reports that, for the first 20 days of July, chip exports climbed 180.6% from the same period in 2025; computer-related product shipments grew ~232% &lpar;Heesu Lee/Bloomberg&rpar;](https://www.techmeme.com/260720/p43#a260720p43)
- - [Google&#39;s AI Search is endangering the open web; Cloudflare: between June 2025 and April 2026, human traffic to sites of businesses in many industries fell ~40% &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260720/p42#a260720p42)
- - [Researchers found sandbox escapes or boundary bypasses in Cursor, Codex, Gemini CLI, and Antigravity by writing files trusted tools later use; most are patched &lpar;Ax Sharma/BleepingComputer&rpar;](https://www.techmeme.com/260720/p41#a260720p41)<!-- TECH:END -->
+ - [Adobe’s awesome Pixel Camera-ish iPhone app is getting even better](https://www.androidauthority.com/adobe-project-indigo-ai-playground-3689455/)
+ - [New Snapdragon chip leak suggests on-device AI could be coming to phones people actually buy](https://www.androidauthority.com/snapdragon-4-gen-6-leak-3689433/)
+ - [Google finally fixes Gemini Notebook’s biggest organization headache](https://www.androidauthority.com/gemini-notebook-collections-feature-3689444/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
