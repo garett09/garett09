@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Silvia now has a pirate arc...](http://9gag.com/gag/aD2Edg7)
- - 🚯 [Men: Don&#39;t need much to be happy](http://9gag.com/gag/a9y9Erj)
- - 🚯 [When logic left the chat](http://9gag.com/gag/aAyobwo)<!-- MEMES:END -->
+ - 🚖 [The true native American](http://9gag.com/gag/aBy72BP)
+ - 🚯 [The dutch defeat](http://9gag.com/gag/a7ozWyr)
+ - 🚯 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
 
 --- 
 
