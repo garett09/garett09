@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe’s awesome Pixel Camera-ish iPhone app is getting even better](https://www.androidauthority.com/adobe-project-indigo-ai-playground-3689455/)
- - [New Snapdragon chip leak suggests on-device AI could be coming to phones people actually buy](https://www.androidauthority.com/snapdragon-4-gen-6-leak-3689433/)
- - [Google finally fixes Gemini Notebook’s biggest organization headache](https://www.androidauthority.com/gemini-notebook-collections-feature-3689444/)<!-- TECH:END -->
+ - [Garmin launches the Cirqa Smart Band, a $200 screenless fitness tracker that monitors 80+ activities with an up to 10 day battery life, to compete with Whoop &lpar;Dana Wollman/Bloomberg&rpar;](https://www.techmeme.com/260721/p19#a260721p19)
+ - [OpenAI says it now has 10M people using Codex and ChatGPT Work, nearly doubling usage from earlier this month when the company announced ChatGPT Work &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260721/p18#a260721p18)
+ - [These camera-free smart glasses want to give you a secret advantage in meetings](https://www.androidauthority.com/halliday-g2-smart-glasses-launch-3689649/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
