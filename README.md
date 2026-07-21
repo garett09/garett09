@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
- - 🚯 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
- - 🚯 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)<!-- MEMES:END -->
+ - 🚖 [Men: Don&#39;t need much to be happy](http://9gag.com/gag/a9y9Erj)
+ - 🚯 [Wtf man](http://9gag.com/gag/ajPo9pG)
+ - 🚯 [Half Time Show World Cup 2026](http://9gag.com/gag/agmPBqg)<!-- MEMES:END -->
 
 --- 
 
