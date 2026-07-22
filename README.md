@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Training](http://9gag.com/gag/aD2EDP9)
- - 🚯 [It should have been me!](http://9gag.com/gag/aPAK3vR)
- - 🚯 [What happened to the 9gag editor?](http://9gag.com/gag/awy6zdD)<!-- MEMES:END -->
+ - 🚖 [Stop misgendering the banshee !](http://9gag.com/gag/a9y91v0)
+ - 🚯 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
+ - 🚯 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)<!-- MEMES:END -->
 
 --- 
 
