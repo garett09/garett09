@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 8 hands-on: a similar feel to the Z Flip 7 with much faster performance, identical cameras, four colors, and a $100 higher price tag &lpar;Max Buondonno/The Shortcut&rpar;](https://www.techmeme.com/260722/p23#a260722p23)
- - [Samsung Galaxy Watch 9 and Ultra 2 hands-on: nice improvements with a rugged feel and new AI-powered fitness features, but a blockier shape is not for everyone &lpar;Damien Wilde/9to5Google&rpar;](https://www.techmeme.com/260722/p22#a260722p22)
- - [Source: OpenAI raised its projected cloud spending to ~$750B through 2030, up from a projection of ~$600B earlier this year, reflecting new cloud agreements &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260722/p20#a260722p20)<!-- TECH:END -->
+ - [A Florida teenager drops his lawsuit accusing Meta of creating harmful social media features, following settlements with co-defendants TikTok, Snap, and YouTube &lpar;New York Times&rpar;](https://www.techmeme.com/260722/p42#a260722p42)
+ - [Yope, a social network that has ~15M registered users for its &quot;micro communities&quot; and no algorithms, ads, or public content, raised $12.3M seed led by Northzone &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260722/p41#a260722p41)
+ - [Microsoft is bringing original XBOX games to your PC and handhelds](https://www.androidauthority.com/microsoft-launches-xbox-backward-compatibility-on-pc-3690336/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
