@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Unpacked July 2026: How to watch](https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch)
- - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)
- - [Apple Raised Mac Prices. Now It Might Lease You One](https://www.cnet.com/tech/computing/apple-raised-mac-prices-now-it-might-lease-you-one/)<!-- TECH:END -->
+ - [Samsung isn’t wasting any time getting One UI 9 Watch ready for older watches](https://www.androidauthority.com/samsung-galaxy-watch-one-ui-9-test-3690027/)
+ - [Last-minute Galaxy foldable leak has bad news for free storage upgrades](https://www.androidauthority.com/samsung-free-storage-upgrades-europe-3690002/)
+ - [Nintendo tells customers it doesn’t owe them a cut of its tariff refunds](https://www.androidauthority.com/nintendo-customers-tariff-refunds-lawsuit-3689986/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
