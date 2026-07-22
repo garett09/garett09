@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google expands Gemini 3.5 line with trio of new models — and shares an update on Gemini 3.5 Pro](https://www.androidauthority.com/google-launches-gemini-36-flash-3689795/)
- - [Some Instagram and Facebook users say Meta&#39;s AI moderation deleted their accounts; Meta says AI makes 13% fewer errors and finds 10% more violations than humans &lpar;New York Times&rpar;](https://www.techmeme.com/260721/p41#a260721p41)
- - [Peak Design’s modular Field Bracket has a finder tag built-in](https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter)<!-- TECH:END -->
+ - [Samsung Galaxy Unpacked July 2026: How to watch](https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch)
+ - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)
+ - [Apple Raised Mac Prices. Now It Might Lease You One](https://www.cnet.com/tech/computing/apple-raised-mac-prices-now-it-might-lease-you-one/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
