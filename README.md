@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Funny, The one responsible for beating thousands of teen students for peacefully protesting was once in the same shoes. How Ironic](https://www.reddit.com/r/funny/comments/1v39qzv/funny_the_one_responsible_for_beating_thousands/)
- - 🚯 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
- - 🚯 [How much weight does each one carry? Do the ones in front carry more weight than the ones in back? Calculate how much hehe](http://9gag.com/gag/an7LQXq)<!-- MEMES:END -->
+ - 🚖 [Training](http://9gag.com/gag/aD2EDP9)
+ - 🚯 [It should have been me!](http://9gag.com/gag/aPAK3vR)
+ - 🚯 [What happened to the 9gag editor?](http://9gag.com/gag/awy6zdD)<!-- MEMES:END -->
 
 --- 
 
