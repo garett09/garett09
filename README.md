@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung isn’t wasting any time getting One UI 9 Watch ready for older watches](https://www.androidauthority.com/samsung-galaxy-watch-one-ui-9-test-3690027/)
- - [Last-minute Galaxy foldable leak has bad news for free storage upgrades](https://www.androidauthority.com/samsung-free-storage-upgrades-europe-3690002/)
- - [Nintendo tells customers it doesn’t owe them a cut of its tariff refunds](https://www.androidauthority.com/nintendo-customers-tariff-refunds-lawsuit-3689986/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 8 hands-on: a similar feel to the Z Flip 7 with much faster performance, identical cameras, four colors, and a $100 higher price tag &lpar;Max Buondonno/The Shortcut&rpar;](https://www.techmeme.com/260722/p23#a260722p23)
+ - [Samsung Galaxy Watch 9 and Ultra 2 hands-on: nice improvements with a rugged feel and new AI-powered fitness features, but a blockier shape is not for everyone &lpar;Damien Wilde/9to5Google&rpar;](https://www.techmeme.com/260722/p22#a260722p22)
+ - [Source: OpenAI raised its projected cloud spending to ~$750B through 2030, up from a projection of ~$600B earlier this year, reflecting new cloud agreements &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260722/p20#a260722p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
