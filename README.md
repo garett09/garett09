@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any?](http://9gag.com/gag/aryjMV6)
- - 🚯 [The true native American](http://9gag.com/gag/aBy72BP)
- - 🚯 [Hear me out 9gagers.](http://9gag.com/gag/a6ZA1E9)<!-- MEMES:END -->
+ - 🚖 [Fantastic ad for heels](https://www.reddit.com/r/funny/comments/1v32cq1/fantastic_ad_for_heels/)
+ - 🚯 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - 🚯 [Wtf man](http://9gag.com/gag/ajPo9pG)<!-- MEMES:END -->
 
 --- 
 
