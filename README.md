@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Florida teenager drops his lawsuit accusing Meta of creating harmful social media features, following settlements with co-defendants TikTok, Snap, and YouTube &lpar;New York Times&rpar;](https://www.techmeme.com/260722/p42#a260722p42)
- - [Yope, a social network that has ~15M registered users for its &quot;micro communities&quot; and no algorithms, ads, or public content, raised $12.3M seed led by Northzone &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260722/p41#a260722p41)
- - [Microsoft is bringing original XBOX games to your PC and handhelds](https://www.androidauthority.com/microsoft-launches-xbox-backward-compatibility-on-pc-3690336/)<!-- TECH:END -->
+ - [Meta&#39;s infrastructure teams have become bloated, leading to poor decisions like troubled Rivos acquisition, loss of supplier trust due to hardware pivots, more &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260722/p60#a260722p60)
+ - [Tesla reports a negative Q2 free cash flow of $1.1B, its first in over two years, partly due to increased AI and robotic investments, amid diminishing profits &lpar;Reuters&rpar;](https://www.techmeme.com/260722/p59#a260722p59)
+ - [Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy](https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
