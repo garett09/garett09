@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify goes full MTV with new music video charts](https://www.androidauthority.com/spotify-music-video-charts-global-playlist-3690531/)
- - [Samsung promises even more software updates for the Galaxy Watch 9 and Galaxy Watch Ultra 2](https://www.androidauthority.com/samsung-galaxy-watch-9-software-support-3690537/)
- - [You won’t need an emulator to play Pikmin on your phone or PC](https://www.androidauthority.com/pikmin-decompilation-gamecube-game-3690517/)<!-- TECH:END -->
+ - [Google’s burning through cash despite record profits, and take a wild guess on what](https://www.androidauthority.com/google-alphabet-cash-flow-loss-3690642/)
+ - [Apple Maps will be at the core of Ford&#39;s electric vehicles in 2027](https://appleinsider.com/articles/26/07/23/apple-maps-will-be-at-the-core-of-fords-electric-vehicles-in-2027?utm_source=rss)
+ - [Amazon is integrating its Luna cloud gaming service into Prime Video via a new Games tab, starting with games like Hogwarts Legacy and EA Sports FC for Fire TV &lpar;Alex Weprin/The Hollywood Reporter&rpar;](https://www.techmeme.com/260723/p24#a260723p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
