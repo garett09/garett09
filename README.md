@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s burning through cash despite record profits, and take a wild guess on what](https://www.androidauthority.com/google-alphabet-cash-flow-loss-3690642/)
- - [Apple Maps will be at the core of Ford&#39;s electric vehicles in 2027](https://appleinsider.com/articles/26/07/23/apple-maps-will-be-at-the-core-of-fords-electric-vehicles-in-2027?utm_source=rss)
- - [Amazon is integrating its Luna cloud gaming service into Prime Video via a new Games tab, starting with games like Hogwarts Legacy and EA Sports FC for Fire TV &lpar;Alex Weprin/The Hollywood Reporter&rpar;](https://www.techmeme.com/260723/p24#a260723p24)<!-- TECH:END -->
+ - [AegisAI, which uses AI agents to detect AI-driven spear-phishing attacks, raised a $36M Series A led by Battery Ventures, bringing its total funding to $49M &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260723/p39#a260723p39)
+ - [Claude’s voice mode is now available for Opus and Sonnet](https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai)
+ - [Meta’s New Feel-Good AI Ad Uses a Song About the World Ending](https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
