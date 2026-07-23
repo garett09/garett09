@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s infrastructure teams have become bloated, leading to poor decisions like troubled Rivos acquisition, loss of supplier trust due to hardware pivots, more &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260722/p60#a260722p60)
- - [Tesla reports a negative Q2 free cash flow of $1.1B, its first in over two years, partly due to increased AI and robotic investments, amid diminishing profits &lpar;Reuters&rpar;](https://www.techmeme.com/260722/p59#a260722p59)
- - [Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy](https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine)<!-- TECH:END -->
+ - [Spotify goes full MTV with new music video charts](https://www.androidauthority.com/spotify-music-video-charts-global-playlist-3690531/)
+ - [Samsung promises even more software updates for the Galaxy Watch 9 and Galaxy Watch Ultra 2](https://www.androidauthority.com/samsung-galaxy-watch-9-software-support-3690537/)
+ - [You won’t need an emulator to play Pikmin on your phone or PC](https://www.androidauthority.com/pikmin-decompilation-gamecube-game-3690517/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
