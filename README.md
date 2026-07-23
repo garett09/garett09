@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stop misgendering the banshee !](http://9gag.com/gag/a9y91v0)
- - 🚯 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
- - 🚯 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)<!-- MEMES:END -->
+ - 🚖 [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)
+ - 🚯 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - 🚯 [He should also make Dante\u2019s Inferno](http://9gag.com/gag/aqyqepR)<!-- MEMES:END -->
 
 --- 
 
