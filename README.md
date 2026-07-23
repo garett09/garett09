@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
- - 🚯 [Majestic planes &lpar;south of france&rpar;](http://9gag.com/gag/aQz0E1q)
- - 🚯 [Stop misgendering the banshee !](http://9gag.com/gag/a9y91v0)<!-- MEMES:END -->
+ - 🚖 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)
+ - 🚯 [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)
+ - 🚯 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)<!-- MEMES:END -->
 
 --- 
 
