@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What happened to the 9gag editor?](http://9gag.com/gag/awy6zdD)
- - 🚯 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)
- - 🚯 [Woman&#39;s ovaries were activated](http://9gag.com/gag/a6ZA1e8)<!-- MEMES:END -->
+ - 🚖 [True that](http://9gag.com/gag/a0e2eYq)
+ - 🚯 [He should also make Dante\u2019s Inferno](http://9gag.com/gag/aqyqepR)
+ - 🚯 [They never learn..](http://9gag.com/gag/aAyoQRp)<!-- MEMES:END -->
 
 --- 
 
