@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini’s glowy makeover appears headed for the floating overlay and Live screens](https://www.androidauthority.com/gemini-overlay-live-neural-design-apk-teardown-3690991/)
- - [Survey says Google Tensor has reached the end of the road, but some Pixel fans disagree](https://www.androidauthority.com/continue-google-tensor-poll-results-3690972/)
- - [The Galaxy Z Fold 8 series borrows one of the best foldable multitasking ideas](https://www.androidauthority.com/samsung-galaxy-z-fold-8-three-way-split-screen-3690958/)<!-- TECH:END -->
+ - [This unique phone with a rear OLED screen could soon be available globally](https://www.androidauthority.com/xiaomi-18-pro-rear-screen-global-launch-leak-3691121/)
+ - [Hide My Email, Apple Upgrade, and mass iPhone 18 Pro production, on the AppleInsider Podcast](https://appleinsider.com/articles/26/07/24/hide-my-email-apple-upgrade-and-mass-iphone-18-pro-production-on-the-appleinsider-podcast?utm_source=rss)
+ - [A New York High School Is Getting an AI-Powered Robot Assistant. Parents and Teachers Have Concerns](https://www.cnet.com/tech/services-and-software/realbotix-sally-robot-ai-teaching-assistant-salamanca-school-district/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
