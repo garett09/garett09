@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AegisAI, which uses AI agents to detect AI-driven spear-phishing attacks, raised a $36M Series A led by Battery Ventures, bringing its total funding to $49M &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260723/p39#a260723p39)
- - [Claude’s voice mode is now available for Opus and Sonnet](https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai)
- - [Meta’s New Feel-Good AI Ad Uses a Song About the World Ending](https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/)<!-- TECH:END -->
+ - [This Searchable Tool Is Helping Track Flock Surveillance Cameras in Your City](https://www.cnet.com/news/privacy/this-searchable-tool-is-helping-track-flock-surveillance-cameras-in-your-city/)
+ - [Amazon tells third-party sellers to label product ads with AI-generated people to comply with a NY law requiring the disclosure of &quot;synthetic performers&quot; in ads &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260723/p60#a260723p60)
+ - [District judge assigned to oversee Apple&#39;s trade secrets lawsuit against OpenAI](https://appleinsider.com/articles/26/07/24/district-judge-assigned-to-oversee-apples-trade-secrets-lawsuit-against-openai?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
