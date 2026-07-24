@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True that](http://9gag.com/gag/a0e2eYq)
- - 🚯 [He should also make Dante\u2019s Inferno](http://9gag.com/gag/aqyqepR)
- - 🚯 [They never learn..](http://9gag.com/gag/aAyoQRp)<!-- MEMES:END -->
+ - 🚖 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
+ - 🚯 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
+ - 🚯 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)<!-- MEMES:END -->
 
 --- 
 
