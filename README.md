@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
- - 🚯 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
- - 🚯 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)<!-- MEMES:END -->
+ - 🚖 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
+ - 🚯 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)
+ - 🚯 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
 
 --- 
 
