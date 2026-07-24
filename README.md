@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This unique phone with a rear OLED screen could soon be available globally](https://www.androidauthority.com/xiaomi-18-pro-rear-screen-global-launch-leak-3691121/)
- - [Hide My Email, Apple Upgrade, and mass iPhone 18 Pro production, on the AppleInsider Podcast](https://appleinsider.com/articles/26/07/24/hide-my-email-apple-upgrade-and-mass-iphone-18-pro-production-on-the-appleinsider-podcast?utm_source=rss)
- - [A New York High School Is Getting an AI-Powered Robot Assistant. Parents and Teachers Have Concerns](https://www.cnet.com/tech/services-and-software/realbotix-sally-robot-ai-teaching-assistant-salamanca-school-district/)<!-- TECH:END -->
+ - [The 2026 El Niño Is on Track to Be the Strongest on Record](https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/)
+ - [This Apple-1 auction expected to cost the winner as much as 275 iPhone 17 Pros](https://appleinsider.com/articles/26/07/24/this-apple-1-auction-expected-to-cost-the-winner-as-much-as-275-iphone-17-pros?utm_source=rss)
+ - [The DOJ is prosecuting a Cop City protester for allegedly providing CBP with a &quot;duress&quot; passcode that wiped the contents of his GrapheneOS phone &lpar;Timothy Pratt/The Guardian&rpar;](https://www.techmeme.com/260724/p26#a260724p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
