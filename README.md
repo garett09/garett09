@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2026 El Niño Is on Track to Be the Strongest on Record](https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/)
- - [This Apple-1 auction expected to cost the winner as much as 275 iPhone 17 Pros](https://appleinsider.com/articles/26/07/24/this-apple-1-auction-expected-to-cost-the-winner-as-much-as-275-iphone-17-pros?utm_source=rss)
- - [The DOJ is prosecuting a Cop City protester for allegedly providing CBP with a &quot;duress&quot; passcode that wiped the contents of his GrapheneOS phone &lpar;Timothy Pratt/The Guardian&rpar;](https://www.techmeme.com/260724/p26#a260724p26)<!-- TECH:END -->
+ - [Sources: Apple has pitched Trump on using Chinese memory chips in its products sold outside the US; Micron warned such a plan could destroy the US chip industry &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260724/p40#a260724p40)
+ - [After a backlash, Meta pauses its plan to &quot;rate limit&quot; Conversation Focus, an accessibility feature for its glasses that runs on-device &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260724/p39#a260724p39)
+ - [Nvidia and SK Group unveil a $500B+ AI initiative that includes an SK Hynix partnership to secure next-gen memory supply for Nvidia and joint development of HBM &lpar;Reuters&rpar;](https://www.techmeme.com/260724/p38#a260724p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
