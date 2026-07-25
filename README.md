@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Childhood mystery finally solved](http://9gag.com/gag/an7LOmV)
- - 🚯 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
- - 🚯 [Dancing Queen](http://9gag.com/gag/aRBYLm2)<!-- MEMES:END -->
+ - 🚖 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
+ - 🚯 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
+ - 🚯 [An appreciation post that the aliens in this alien movie is NOT just a human with paint on or just pointy ears](http://9gag.com/gag/aMV3mrx)<!-- MEMES:END -->
 
 --- 
 
