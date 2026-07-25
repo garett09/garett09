@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has pitched Trump on using Chinese memory chips in its products sold outside the US; Micron warned such a plan could destroy the US chip industry &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260724/p40#a260724p40)
- - [After a backlash, Meta pauses its plan to &quot;rate limit&quot; Conversation Focus, an accessibility feature for its glasses that runs on-device &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260724/p39#a260724p39)
- - [Nvidia and SK Group unveil a $500B+ AI initiative that includes an SK Hynix partnership to secure next-gen memory supply for Nvidia and joint development of HBM &lpar;Reuters&rpar;](https://www.techmeme.com/260724/p38#a260724p38)<!-- TECH:END -->
+ - [Forget expensive sleepbuds. Buy this pillow instead](https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead)
+ - [A profile of Yang Zhilin, founder of Moonshot AI, which faced early doubts over revenue and model capabilities before its Kimi K3 delivered a &quot;DeepSeek moment&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260725/p8#a260725p8)
+ - [Candid Health, which develops tech and AI agents to automate medical billing and claims processing workflows, raised a $120M Series D led by Sixth Street Growth &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260725/p7#a260725p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
