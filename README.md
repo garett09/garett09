@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
- - 🚯 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
- - 🚯 [An appreciation post that the aliens in this alien movie is NOT just a human with paint on or just pointy ears](http://9gag.com/gag/aMV3mrx)<!-- MEMES:END -->
+ - 🚖 [Chased by a demon today](https://www.reddit.com/r/funny/comments/1v6go61/chased_by_a_demon_today/)
+ - 🚯 [Totally unexpected](http://9gag.com/gag/adBmOwd)
+ - 🚯 [I don&#39;t think she&#39;s in the mood for anything.](http://9gag.com/gag/amoE1K2)<!-- MEMES:END -->
 
 --- 
 
