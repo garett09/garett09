@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)
- - 🚯 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
- - 🚯 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)<!-- MEMES:END -->
+ - 🚖 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
+ - 🚯 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
+ - 🚯 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
 
 --- 
 
