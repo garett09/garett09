@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is this e-reader case a gun?](https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun)
- - [Micron urges White House to reject Apple&#39;s blacklist memory plan](https://appleinsider.com/articles/26/07/25/micron-urges-white-house-to-reject-apples-blacklist-memory-plan?utm_source=rss)
- - [Storage upgrades cost too much, and we need microSD cards back](https://www.androidauthority.com/storage-upgrades-cost-too-much-microsd-cards-3688866/)<!-- TECH:END -->
+ - [Weekend deals deliver $299 Apple Watch Series 11, $89 AirTag 4-pack, $399 iPad](https://appleinsider.com/articles/26/07/25/weekend-deals-deliver-299-apple-watch-series-11-89-airtag-4-pack-399-ipad?utm_source=rss)
+ - [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
+ - [Several universities including Yale, Johns Hopkins, and the University of Waterloo have restricted or disabled their use of AI detectors over accuracy concerns &lpar;Ima Jackson-Obot/Financial Times&rpar;](https://www.techmeme.com/260725/p15#a260725p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
