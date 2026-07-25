@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget expensive sleepbuds. Buy this pillow instead](https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead)
- - [A profile of Yang Zhilin, founder of Moonshot AI, which faced early doubts over revenue and model capabilities before its Kimi K3 delivered a &quot;DeepSeek moment&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260725/p8#a260725p8)
- - [Candid Health, which develops tech and AI agents to automate medical billing and claims processing workflows, raised a $120M Series D led by Sixth Street Growth &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260725/p7#a260725p7)<!-- TECH:END -->
+ - [Is this e-reader case a gun?](https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun)
+ - [Micron urges White House to reject Apple&#39;s blacklist memory plan](https://appleinsider.com/articles/26/07/25/micron-urges-white-house-to-reject-apples-blacklist-memory-plan?utm_source=rss)
+ - [Storage upgrades cost too much, and we need microSD cards back](https://www.androidauthority.com/storage-upgrades-cost-too-much-microsd-cards-3688866/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
