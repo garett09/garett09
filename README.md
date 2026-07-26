@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Totally unexpected](http://9gag.com/gag/adBmOwd)
- - 🚯 [Childhood mystery finally solved](http://9gag.com/gag/an7LOmV)
- - 🚯 [Since 9gag won&#39;t let Willy Wonka or The Simpsons be posted, here is an attractive female](http://9gag.com/gag/aMV3BAW)<!-- MEMES:END -->
+ - 🚖 [Metalhead on therapy](http://9gag.com/gag/a87B0G3)
+ - 🚯 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
+ - 🚯 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)<!-- MEMES:END -->
 
 --- 
 
