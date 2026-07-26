@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spotted at Costco](https://www.reddit.com/r/funny/comments/1v73bc8/spotted_at_costco/)
+ - 🚖 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
  - 🚯 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
- - 🚯 [Call an Ambulance! But not for me!](http://9gag.com/gag/a87B666)<!-- MEMES:END -->
+ - 🚯 [Scary](http://9gag.com/gag/aZZGw4X)<!-- MEMES:END -->
 
 --- 
 
