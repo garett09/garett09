@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources including AI lab staff say users have been persuading chatbots to accurately answer prompts about planning mass-casualty attacks and making bio-weapons &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p3#a260726p3)
- - [B&amp;H launches steeper M5 MacBook Air discounts, saving you up to $200](https://appleinsider.com/articles/26/07/26/bh-launches-steeper-m5-macbook-air-discounts-saving-you-up-to-200?utm_source=rss)
- - [CXMT, which raised $9.8B in a hugely oversubscribed Shanghai IPO, is poised for a debut pop that could lift its market cap several times above its initial ~$85B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260726/p2#a260726p2)<!-- TECH:END -->
+ - [Apple TV shares new trailers for &#39;Matchbox,&#39; &#39;Neuromancer,&#39; &#39;Dark Matter&#39;](https://appleinsider.com/articles/26/07/26/apple-tv-teases-new-trailers-for-matchbox-neuromancer-dark-matter?utm_source=rss)
+ - [Forget the Z Fold 8 Ultra — Samsung just made the Galaxy S27 a lot more exciting](https://www.androidauthority.com/samsung-foldables-galaxy-s27-more-exciting-3690629/)
+ - [The vertical video takeover is here](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
