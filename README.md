@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s market regulator says it had fined and confiscated ~$770M from Trip.com for abusing its dominant position in the domestic online hotel-booking market &lpar;Reuters&rpar;](https://www.techmeme.com/260725/p16#a260725p16)
- - [Today’s NYT Strands Hints, Answers and Help for July 26 #875](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-26-875/)
- - [3 Apple Watch Running Features I Wish I’d Known About Sooner](https://www.cnet.com/tech/mobile/apple-watch-running-features-tips-for-runners-training-marathon/)<!-- TECH:END -->
+ - [Sources including AI lab staff say users have been persuading chatbots to accurately answer prompts about planning mass-casualty attacks and making bio-weapons &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p3#a260726p3)
+ - [B&amp;H launches steeper M5 MacBook Air discounts, saving you up to $200](https://appleinsider.com/articles/26/07/26/bh-launches-steeper-m5-macbook-air-discounts-saving-you-up-to-200?utm_source=rss)
+ - [CXMT, which raised $9.8B in a hugely oversubscribed Shanghai IPO, is poised for a debut pop that could lift its market cap several times above its initial ~$85B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260726/p2#a260726p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
