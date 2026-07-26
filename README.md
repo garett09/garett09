@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chased by a demon today](https://www.reddit.com/r/funny/comments/1v6go61/chased_by_a_demon_today/)
- - 🚯 [Totally unexpected](http://9gag.com/gag/adBmOwd)
- - 🚯 [I don&#39;t think she&#39;s in the mood for anything.](http://9gag.com/gag/amoE1K2)<!-- MEMES:END -->
+ - 🚖 [Totally unexpected](http://9gag.com/gag/adBmOwd)
+ - 🚯 [Childhood mystery finally solved](http://9gag.com/gag/an7LOmV)
+ - 🚯 [Since 9gag won&#39;t let Willy Wonka or The Simpsons be posted, here is an attractive female](http://9gag.com/gag/aMV3BAW)<!-- MEMES:END -->
 
 --- 
 
