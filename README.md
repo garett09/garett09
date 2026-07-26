@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV shares new trailers for &#39;Matchbox,&#39; &#39;Neuromancer,&#39; &#39;Dark Matter&#39;](https://appleinsider.com/articles/26/07/26/apple-tv-teases-new-trailers-for-matchbox-neuromancer-dark-matter?utm_source=rss)
- - [Forget the Z Fold 8 Ultra — Samsung just made the Galaxy S27 a lot more exciting](https://www.androidauthority.com/samsung-foldables-galaxy-s27-more-exciting-3690629/)
- - [The vertical video takeover is here](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook)<!-- TECH:END -->
+ - [Game development diary: Launched, but far from finished](https://appleinsider.com/articles/26/07/26/game-development-diary-launched-but-far-from-finished?utm_source=rss)
+ - [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password)
+ - [Shein&#39;s IPO prospectus shows Q1 revenue of $9.05B, up 1% YoY, as it swings from $395M profit in Q1 2025 to $99M loss partly due to US&#39; &quot;de minimis&quot; rule removal &lpar;Reuters&rpar;](https://www.techmeme.com/260726/p6#a260726p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
