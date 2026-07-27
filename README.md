@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yo that&#39;s antisemitic !](http://9gag.com/gag/ayNO63Y)
- - 🚯 [Scary](http://9gag.com/gag/aZZGw4X)
- - 🚯 [Dead, killed by police in Berlin](http://9gag.com/gag/ajPoLb8)<!-- MEMES:END -->
+ - 🚖 [Expensive way to watch a clock tick](http://9gag.com/gag/agmP84w)
+ - 🚯 [The IRA is back?](http://9gag.com/gag/aQz07oK)
+ - 🚯 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)<!-- MEMES:END -->
 
 --- 
 
