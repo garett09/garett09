@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Expensive way to watch a clock tick](http://9gag.com/gag/agmP84w)
+ - 🚖 [`F**k my kids and grandkids, I&#39;m having a good time!`](http://9gag.com/gag/aqyq6v7)
  - 🚯 [The IRA is back?](http://9gag.com/gag/aQz07oK)
- - 🚯 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)<!-- MEMES:END -->
+ - 🚯 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)<!-- MEMES:END -->
 
 --- 
 
