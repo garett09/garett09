@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Yo that&#39;s antisemitic !](http://9gag.com/gag/ayNO63Y)
- - 🚯 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)
- - 🚯 [Have a nice sting](http://9gag.com/gag/a5Q8BMq)<!-- MEMES:END -->
+ - 🚯 [Scary](http://9gag.com/gag/aZZGw4X)
+ - 🚯 [Dead, killed by police in Berlin](http://9gag.com/gag/ajPoLb8)<!-- MEMES:END -->
 
 --- 
 
