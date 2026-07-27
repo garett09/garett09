@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Laptops for College Students &lpar;2026&rpar;: MacBooks and Beyond](https://www.wired.com/story/best-college-laptops/)
- - [5 Android phones you should buy instead of the Samsung Galaxy Z Flip 8](https://www.androidauthority.com/samsung-galaxy-z-flip-8-alternatives-3690815/)
- - [Measles Is Becoming So Common That Treatments May Soon Be Needed](https://www.wired.com/story/measles-treatments-soon-needed/)<!-- TECH:END -->
+ - [How TikTok, Reels, and Amazon storefronts enabled microinfluencers with less than 100K followers to earn middle-class salaries via brand and affiliate deals &lpar;Melos Ambaye/Bloomberg&rpar;](https://www.techmeme.com/260727/p13#a260727p13)
+ - [Claude Cowork can escape its sandbox, rummage through all of your files](https://appleinsider.com/articles/26/07/27/claude-cowork-can-escape-its-sandbox-rummage-through-all-of-your-files?utm_source=rss)
+ - [Sources: A Chinese state-backed company has begun manufacturing DUV machines, a key step in Beijing&#39;s drive to reduce its reliance on foreign chipmaking tech &lpar;The Information&rpar;](https://www.techmeme.com/260727/p12#a260727p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
