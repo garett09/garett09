@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
- - 🚯 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
- - 🚯 [Scary](http://9gag.com/gag/aZZGw4X)<!-- MEMES:END -->
+ - 🚖 [Yo that&#39;s antisemitic !](http://9gag.com/gag/ayNO63Y)
+ - 🚯 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)
+ - 🚯 [Have a nice sting](http://9gag.com/gag/a5Q8BMq)<!-- MEMES:END -->
 
 --- 
 
