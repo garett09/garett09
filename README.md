@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How TikTok, Reels, and Amazon storefronts enabled microinfluencers with less than 100K followers to earn middle-class salaries via brand and affiliate deals &lpar;Melos Ambaye/Bloomberg&rpar;](https://www.techmeme.com/260727/p13#a260727p13)
- - [Claude Cowork can escape its sandbox, rummage through all of your files](https://appleinsider.com/articles/26/07/27/claude-cowork-can-escape-its-sandbox-rummage-through-all-of-your-files?utm_source=rss)
- - [Sources: A Chinese state-backed company has begun manufacturing DUV machines, a key step in Beijing&#39;s drive to reduce its reliance on foreign chipmaking tech &lpar;The Information&rpar;](https://www.techmeme.com/260727/p12#a260727p12)<!-- TECH:END -->
+ - [Older Macs get fresh security fixes with new macOS Sequoia &amp; Sonoma update](https://appleinsider.com/articles/26/07/27/older-macs-get-fresh-security-fixes-with-new-macos-sequoia-sonoma-update?utm_source=rss)
+ - [Xbox Live Is Down Monday: Microsoft Says It’s Working on a Resolution](https://www.cnet.com/tech/gaming/xbox-live-is-down-monday-microsoft-says-its-working-on-a-resolution/)
+ - [The US National Vulnerabilities Database recorded 45,207 software security flaws so far in 2026, on pace to roughly double the tally of flaws recorded in 2025 &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](https://www.techmeme.com/260727/p27#a260727p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
