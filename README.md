@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dealroom: defense giants such as Lockheed Martin have participated in a record $4.1B worth of VC rounds YTD, as drones and autonomous systems transform warfare &lpar;Financial Times&rpar;](https://www.techmeme.com/260726/p11#a260726p11)
- - [Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10 GW data center project that SoftBank is developing in Ohio &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p10#a260726p10)
- - [How AI companies are targeting the education market, including making free or cut-price tailored learning tools in partnership with schools and edtech startups &lpar;Jamie John/Financial Times&rpar;](https://www.techmeme.com/260726/p9#a260726p9)<!-- TECH:END -->
+ - [Best Laptops for College Students &lpar;2026&rpar;: MacBooks and Beyond](https://www.wired.com/story/best-college-laptops/)
+ - [5 Android phones you should buy instead of the Samsung Galaxy Z Flip 8](https://www.androidauthority.com/samsung-galaxy-z-flip-8-alternatives-3690815/)
+ - [Measles Is Becoming So Common That Treatments May Soon Be Needed](https://www.wired.com/story/measles-treatments-soon-needed/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
