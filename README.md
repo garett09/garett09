@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game development diary: Launched, but far from finished](https://appleinsider.com/articles/26/07/26/game-development-diary-launched-but-far-from-finished?utm_source=rss)
- - [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password)
- - [Shein&#39;s IPO prospectus shows Q1 revenue of $9.05B, up 1% YoY, as it swings from $395M profit in Q1 2025 to $99M loss partly due to US&#39; &quot;de minimis&quot; rule removal &lpar;Reuters&rpar;](https://www.techmeme.com/260726/p6#a260726p6)<!-- TECH:END -->
+ - [Dealroom: defense giants such as Lockheed Martin have participated in a record $4.1B worth of VC rounds YTD, as drones and autonomous systems transform warfare &lpar;Financial Times&rpar;](https://www.techmeme.com/260726/p11#a260726p11)
+ - [Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10 GW data center project that SoftBank is developing in Ohio &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p10#a260726p10)
+ - [How AI companies are targeting the education market, including making free or cut-price tailored learning tools in partnership with schools and edtech startups &lpar;Jamie John/Financial Times&rpar;](https://www.techmeme.com/260726/p9#a260726p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
