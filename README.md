@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT appears to block direct requests to copy an author&#39;s style, instead offering to capture the overall &quot;feeling&quot;, amid its legal battles with book authors &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260727/p36#a260727p36)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for July 28, #673](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-28-673/)
- - [Today’s NYT Connections Hints and Answers for July 28, #1143](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-28-1143/)<!-- TECH:END -->
+ - [Google Play Services update turns on Pixel Watch Express Pay and refreshes Play Shorts](https://www.androidauthority.com/google-play-services-update-july-27-2026-3691885/)
+ - [Gemini app’s latest UI change makes it easier to set up thinking levels, control notifications](https://www.androidauthority.com/gemini-app-ui-thinking-level-notification-control-3691833/)
+ - [A profile of Justin Sun, who made his fortune in the early phases of crypto, advised for Trump family&#39;s WLF, then sued WLF alleging fraud and breach of contract &lpar;Jen Wieczner/New York Magazine&rpar;](https://www.techmeme.com/260728/p3#a260728p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
