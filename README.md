@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Services update turns on Pixel Watch Express Pay and refreshes Play Shorts](https://www.androidauthority.com/google-play-services-update-july-27-2026-3691885/)
- - [Gemini app’s latest UI change makes it easier to set up thinking levels, control notifications](https://www.androidauthority.com/gemini-app-ui-thinking-level-notification-control-3691833/)
- - [A profile of Justin Sun, who made his fortune in the early phases of crypto, advised for Trump family&#39;s WLF, then sued WLF alleging fraud and breach of contract &lpar;Jen Wieczner/New York Magazine&rpar;](https://www.techmeme.com/260728/p3#a260728p3)<!-- TECH:END -->
+ - [Richard Socher&#39;s Recursive Superintelligence signs a $410M, multiyear AWS compute deal to support its self-improving AI systems, after raising $650M in May &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260728/p20#a260728p20)
+ - [Beyond Preview: How UPDF brings PDF editing, conversion, OCR, and AI to Mac and iPad](https://appleinsider.com/articles/26/07/28/beyond-preview-how-updf-brings-pdf-editing-conversion-ocr-and-ai-to-mac-and-ipad?utm_source=rss)
+ - [Tel Aviv-based Act Security, whose platform reduces the access surface across cloud infrastructure, emerges from stealth with a $40M Series A and a $20M seed &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260728/p19#a260728p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
