@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Older Macs get fresh security fixes with new macOS Sequoia &amp; Sonoma update](https://appleinsider.com/articles/26/07/27/older-macs-get-fresh-security-fixes-with-new-macos-sequoia-sonoma-update?utm_source=rss)
- - [Xbox Live Is Down Monday: Microsoft Says It’s Working on a Resolution](https://www.cnet.com/tech/gaming/xbox-live-is-down-monday-microsoft-says-its-working-on-a-resolution/)
- - [The US National Vulnerabilities Database recorded 45,207 software security flaws so far in 2026, on pace to roughly double the tally of flaws recorded in 2025 &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](https://www.techmeme.com/260727/p27#a260727p27)<!-- TECH:END -->
+ - [ChatGPT appears to block direct requests to copy an author&#39;s style, instead offering to capture the overall &quot;feeling&quot;, amid its legal battles with book authors &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260727/p36#a260727p36)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for July 28, #673](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-28-673/)
+ - [Today’s NYT Connections Hints and Answers for July 28, #1143](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-28-1143/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
