@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
- - 🚯 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)
- - 🚯 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)<!-- MEMES:END -->
+ - 🚖 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
+ - 🚯 [A woman got heat exhaustion after a 2-Mile hike, now her group could face a $70,000 rescue bill](http://9gag.com/gag/a9y98LZ)
+ - 🚯 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)<!-- MEMES:END -->
 
 --- 
 
