@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Richard Socher&#39;s Recursive Superintelligence signs a $410M, multiyear AWS compute deal to support its self-improving AI systems, after raising $650M in May &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260728/p20#a260728p20)
- - [Beyond Preview: How UPDF brings PDF editing, conversion, OCR, and AI to Mac and iPad](https://appleinsider.com/articles/26/07/28/beyond-preview-how-updf-brings-pdf-editing-conversion-ocr-and-ai-to-mac-and-ipad?utm_source=rss)
- - [Tel Aviv-based Act Security, whose platform reduces the access surface across cloud infrastructure, emerges from stealth with a $40M Series A and a $20M seed &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260728/p19#a260728p19)<!-- TECH:END -->
+ - [There&#39;s still time to grab AirPods 4 for $99, AirPods Pro 3 for $199 at Amazon](https://appleinsider.com/articles/26/07/28/theres-still-time-to-grab-airpods-4-for-99-airpods-pro-3-for-199-at-amazon?utm_source=rss)
+ - [Google finally lets Find Hub users delete their old devices](https://www.androidauthority.com/google-find-hub-remove-device-3692086/)
+ - [Apple won’t turn on any ‘restricted mode’ for missed lease payments](https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
