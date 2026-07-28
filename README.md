@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`F**k my kids and grandkids, I&#39;m having a good time!`](http://9gag.com/gag/aqyq6v7)
- - 🚯 [The IRA is back?](http://9gag.com/gag/aQz07oK)
- - 🚯 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)<!-- MEMES:END -->
+ - 🚖 [The IRA is back?](http://9gag.com/gag/aQz07oK)
+ - 🚯 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
+ - 🚯 [So scary!](http://9gag.com/gag/aND6Vpv)<!-- MEMES:END -->
 
 --- 
 
