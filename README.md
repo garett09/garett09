@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
- - 🚯 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
- - 🚯 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)<!-- MEMES:END -->
+ - 🚖 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
+ - 🚯 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)
+ - 🚯 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)<!-- MEMES:END -->
 
 --- 
 
