@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CXMT&#39;s IPO prospectus showed Alibaba had a ~5% stake, which is now worth $20B+, a nearly 20x return, based on CXMT&#39;s ~$464B closing market cap on July 28 &lpar;Wency Chen/South China Morning Post&rpar;](https://www.techmeme.com/260729/p7#a260729p7)
- - [Russia&#39;s FSB charges Telegram founder Pavel Durov with facilitating terrorist activities, including by Ukraine, and issues an international arrest warrant &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p6#a260729p6)
- - [Google Photos now lets you capture photos instantly for AI edits](https://www.androidauthority.com/google-photos-camera-button-ai-tools-3692216/)<!-- TECH:END -->
+ - [Google has quietly nuked the ‘Me Meme’ feature in Google Photos](https://www.androidauthority.com/google-photos-me-meme-removed-3692355/)
+ - [DoorDash says the FAA granted it Part 135 air carrier certification to operate a drone delivery service and it plans to launch drone deliveries in the fall &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260729/p19#a260729p19)
+ - [Galaxy S26 FE filing reveals faster charging speed than S26 and Z Flip 8](https://www.androidauthority.com/samsung-galaxy-s26-fe-charging-speed-leak-3692384/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
