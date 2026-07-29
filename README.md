@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has quietly nuked the ‘Me Meme’ feature in Google Photos](https://www.androidauthority.com/google-photos-me-meme-removed-3692355/)
- - [DoorDash says the FAA granted it Part 135 air carrier certification to operate a drone delivery service and it plans to launch drone deliveries in the fall &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260729/p19#a260729p19)
- - [Galaxy S26 FE filing reveals faster charging speed than S26 and Z Flip 8](https://www.androidauthority.com/samsung-galaxy-s26-fe-charging-speed-leak-3692384/)<!-- TECH:END -->
+ - [What’s the catch with the Apple Upgrade program?](https://www.theverge.com/tech/972583/apple-upgrade-program-deal)
+ - [Thinking Machines Lab co-founder Lilian Weng is returning to OpenAI after announcing earlier this week she was leaving TML over workload-related health concerns &lpar;The Information&rpar;](https://www.techmeme.com/260729/p32#a260729p32)
+ - [It’s Frighteningly Easy to Jailbreak Some Frontier AI Models](https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
