@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There&#39;s still time to grab AirPods 4 for $99, AirPods Pro 3 for $199 at Amazon](https://appleinsider.com/articles/26/07/28/theres-still-time-to-grab-airpods-4-for-99-airpods-pro-3-for-199-at-amazon?utm_source=rss)
- - [Google finally lets Find Hub users delete their old devices](https://www.androidauthority.com/google-find-hub-remove-device-3692086/)
- - [Apple won’t turn on any ‘restricted mode’ for missed lease payments](https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode)<!-- TECH:END -->
+ - [Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260728/p52#a260728p52)
+ - [OpenAI says the rogue AI that breached Hugging Face used exposed credentials from &quot;four accounts&quot; tied to four &quot;publicly available&quot; third-party services &lpar;Wired&rpar;](https://www.techmeme.com/260728/p51#a260728p51)
+ - [xAI sues Minnesota&#39;s AG over a state law banning apps and sites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment &lpar;Riley Moser/CBS News&rpar;](https://www.techmeme.com/260728/p50#a260728p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
