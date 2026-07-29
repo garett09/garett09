@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unexpected](http://9gag.com/gag/aGyW2nZ)
- - 🚯 [Mating Dance](http://9gag.com/gag/ajPoKwG)
- - 🚯 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
+ - 🚖 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)
+ - 🚯 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
+ - 🚯 [Stop bullying](http://9gag.com/gag/an7LDGB)<!-- MEMES:END -->
 
 --- 
 
