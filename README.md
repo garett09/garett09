@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260728/p52#a260728p52)
- - [OpenAI says the rogue AI that breached Hugging Face used exposed credentials from &quot;four accounts&quot; tied to four &quot;publicly available&quot; third-party services &lpar;Wired&rpar;](https://www.techmeme.com/260728/p51#a260728p51)
- - [xAI sues Minnesota&#39;s AG over a state law banning apps and sites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment &lpar;Riley Moser/CBS News&rpar;](https://www.techmeme.com/260728/p50#a260728p50)<!-- TECH:END -->
+ - [CXMT&#39;s IPO prospectus showed Alibaba had a ~5% stake, which is now worth $20B+, a nearly 20x return, based on CXMT&#39;s ~$464B closing market cap on July 28 &lpar;Wency Chen/South China Morning Post&rpar;](https://www.techmeme.com/260729/p7#a260729p7)
+ - [Russia&#39;s FSB charges Telegram founder Pavel Durov with facilitating terrorist activities, including by Ukraine, and issues an international arrest warrant &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p6#a260729p6)
+ - [Google Photos now lets you capture photos instantly for AI edits](https://www.androidauthority.com/google-photos-camera-button-ai-tools-3692216/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
