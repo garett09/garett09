@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
- - 🚯 [A woman got heat exhaustion after a 2-Mile hike, now her group could face a $70,000 rescue bill](http://9gag.com/gag/a9y98LZ)
- - 🚯 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)<!-- MEMES:END -->
+ - 🚖 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
+ - 🚯 [This is what a cult looks like](http://9gag.com/gag/apRWb8D)
+ - 🚯 [Unexpected](http://9gag.com/gag/aGyW2nZ)<!-- MEMES:END -->
 
 --- 
 
