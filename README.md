@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung confirms Galaxy S26 FE is coming, official hints it might be around the corner](https://www.androidauthority.com/samsung-hint-galaxy-s26-fe-launch-3692667/)
- - [Chrome for Android quietly gets a fun way to personalize your new tab page](https://www.androidauthority.com/chrome-for-android-appearance-menu-rolling-out-3692674/)
- - [Samsung officially confirms Galaxy Tab S12 series is coming](https://www.androidauthority.com/samsung-confirms-galaxy-tab-s12-3692648/)<!-- TECH:END -->
+ - [Simile, which offers &quot;agentic twins&quot; of real people to assess companies&#39; products, brands, and services, raised $200M led by Greenoaks at a $2B valuation &lpar;Sri Muppidi/New York Times&rpar;](https://www.techmeme.com/260730/p27#a260730p27)
+ - [Amazon&#39;s Zoox receives the NHTSA&#39;s first US approval for paid deployment of its steering wheel-free robotaxi and can deploy up to 2,500 per year through 2028 &lpar;Abhirup Roy/Reuters&rpar;](https://www.techmeme.com/260730/p26#a260730p26)
+ - [K2 Space, which builds satellites for tasks like data-heavy communications and may power space-based data centers, raised a $500M Series D at a $6.8B valuation &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260730/p25#a260730p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
