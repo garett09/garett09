@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 🚯 [Yeah, pretty much so. Sadly](http://9gag.com/gag/an7LDRq)
- - 🚯 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)<!-- MEMES:END -->
+ - 🚖 [Modeling Agency](http://9gag.com/gag/a6ZAGPe)
+ - 🚯 [He was a little angry](http://9gag.com/gag/agmPKqv)
+ - 🚯 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)<!-- MEMES:END -->
 
 --- 
 
