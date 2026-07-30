@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Simile, which offers &quot;agentic twins&quot; of real people to assess companies&#39; products, brands, and services, raised $200M led by Greenoaks at a $2B valuation &lpar;Sri Muppidi/New York Times&rpar;](https://www.techmeme.com/260730/p27#a260730p27)
- - [Amazon&#39;s Zoox receives the NHTSA&#39;s first US approval for paid deployment of its steering wheel-free robotaxi and can deploy up to 2,500 per year through 2028 &lpar;Abhirup Roy/Reuters&rpar;](https://www.techmeme.com/260730/p26#a260730p26)
- - [K2 Space, which builds satellites for tasks like data-heavy communications and may power space-based data centers, raised a $500M Series D at a $6.8B valuation &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260730/p25#a260730p25)<!-- TECH:END -->
+ - [New Pixel Watch 5 leak puts 41mm and 45mm options head to head](https://www.androidauthority.com/pixel-watch-5-sizes-3692965/)
+ - [Samsung Expects the Chip Shortage to Get Worse Before It Gets Better](https://www.cnet.com/tech/samsung-expects-the-chip-shortage-to-get-worse-before-it-gets-better/)
+ - [A Fairphone Gen 6 Plus could be on the way](https://www.androidauthority.com/fairphone-6-plus-details-3692960/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
