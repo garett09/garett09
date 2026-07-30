@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Onyx Security, whose platform enables enterprises to deploy AI agents securely, raised a $113M Series B led by Bessemer, taking its total funding to $153M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260729/p50#a260729p50)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for July 30, #675](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-30-675/)
- - [Samsung reports Q2 revenue up 130% YoY to ~$118.1B, vs. ~$118.9B est., and operating profit up 1,814% to ~$61.46B, vs. ~$60.68B est., on robust AI demand &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260729/p49#a260729p49)<!-- TECH:END -->
+ - [Samsung confirms Galaxy S26 FE is coming, official hints it might be around the corner](https://www.androidauthority.com/samsung-hint-galaxy-s26-fe-launch-3692667/)
+ - [Chrome for Android quietly gets a fun way to personalize your new tab page](https://www.androidauthority.com/chrome-for-android-appearance-menu-rolling-out-3692674/)
+ - [Samsung officially confirms Galaxy Tab S12 series is coming](https://www.androidauthority.com/samsung-confirms-galaxy-tab-s12-3692648/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
