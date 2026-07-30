@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s the catch with the Apple Upgrade program?](https://www.theverge.com/tech/972583/apple-upgrade-program-deal)
- - [Thinking Machines Lab co-founder Lilian Weng is returning to OpenAI after announcing earlier this week she was leaving TML over workload-related health concerns &lpar;The Information&rpar;](https://www.techmeme.com/260729/p32#a260729p32)
- - [It’s Frighteningly Easy to Jailbreak Some Frontier AI Models](https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/)<!-- TECH:END -->
+ - [Onyx Security, whose platform enables enterprises to deploy AI agents securely, raised a $113M Series B led by Bessemer, taking its total funding to $153M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260729/p50#a260729p50)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for July 30, #675](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-30-675/)
+ - [Samsung reports Q2 revenue up 130% YoY to ~$118.1B, vs. ~$118.9B est., and operating profit up 1,814% to ~$61.46B, vs. ~$60.68B est., on robust AI demand &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260729/p49#a260729p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
