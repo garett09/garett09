@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Modeling Agency](http://9gag.com/gag/a6ZAGPe)
- - 🚯 [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 🚯 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)<!-- MEMES:END -->
+ - 🚖 [Morning Sam. Morning Ralph. &lpar;Fight&rpar;. Same time tomorrow?](http://9gag.com/gag/aMV3q36)
+ - 🚯 [You don&#39;t need many friends, just friends like these...](http://9gag.com/gag/aBy74LQ)
+ - 🚯 [5000 days here f**kers](http://9gag.com/gag/a1mGO06)<!-- MEMES:END -->
 
 --- 
 
