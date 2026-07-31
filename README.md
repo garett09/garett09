@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AI compute costs will be covered by iCloud+ subscriptions, for now](https://appleinsider.com/articles/26/07/31/apple-ai-compute-costs-will-be-covered-by-icloud-subscriptions-for-now?utm_source=rss)
- - [Shares of SK Hynix and Samsung surge more than 20% in Seoul on Friday, marking a sharp reversal from this week&#39;s sell-off &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/260730/p67#a260730p67)
- - [Chip stocks rallied Thursday after strong Microsoft and Lam Research earnings: Lam Research closed up 18%, Micron 18%, Sandisk 26%, Arm 7%, AMD 13%, Intel 11% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260730/p66#a260730p66)<!-- TECH:END -->
+ - [RCS Universal Profile 4.1 gives you more control over your profile privacy](https://www.androidauthority.com/rcs-universal-profile-4-1-3693145/)
+ - [This Android phone maker has created a model with no bezels around the display](https://www.androidauthority.com/tecno-bezel-less-phone-3692728/)
+ - [OnePlus confirms OnePlus 16, its first flagship after US exit, is coming soon](https://www.androidauthority.com/oneplus-16-confirmed-3693118/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
