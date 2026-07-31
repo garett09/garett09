@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lumberjack breaks grip strength tester](http://9gag.com/gag/a9y9Dm1)
- - 🚯 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
- - 🚯 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)<!-- MEMES:END -->
+ - 🚖 [Save and never try it](http://9gag.com/gag/a9y9DKj)
+ - 🚯 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
+ - 🚯 [\u201cYouuu moth****er you, f*** you motherf****r!\u201d](http://9gag.com/gag/aD2EQgK)<!-- MEMES:END -->
 
 --- 
 
