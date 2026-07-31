@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Morning Sam. Morning Ralph. &lpar;Fight&rpar;. Same time tomorrow?](http://9gag.com/gag/aMV3q36)
- - 🚯 [You don&#39;t need many friends, just friends like these...](http://9gag.com/gag/aBy74LQ)
- - 🚯 [5000 days here f**kers](http://9gag.com/gag/a1mGO06)<!-- MEMES:END -->
+ - 🚖 [Yo, venmo me 5 bucks](http://9gag.com/gag/ayNOvWr)
+ - 🚯 [A lesson on how to be a proper gentleman](http://9gag.com/gag/aXP5e4b)
+ - 🚯 [Fair emergency](http://9gag.com/gag/axyXm2b)<!-- MEMES:END -->
 
 --- 
 
