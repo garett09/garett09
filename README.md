@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says Claude accidentally hacked real companies too](https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests)
- - [Sources: Moonshot has a computing power agreement with Alibaba for the use of ~20K Nvidia chips; some say the deal is for H200 chips, which Alibaba denies &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260731/p20#a260731p20)
- - [Huge $300 iPhone 18 Pro price hike rumored as chip shortage bites](https://appleinsider.com/articles/26/07/31/huge-300-iphone-18-pro-price-hike-rumored-as-chip-shortage-bites?utm_source=rss)<!-- TECH:END -->
+ - [An in-depth account of the past two days inside Situational Awareness, as Aschenbrenner assured investors he would focus on changes to his portfolio management &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260731/p33#a260731p33)
+ - [Gmail’s new warning could save you from major embarrassment](https://www.androidauthority.com/gmail-bcc-warning-3693467/)
+ - [Google rolls back an image generation tool in Google Earth to add &quot;stronger guardrails&quot; after concerns arose it can be used to create deepfake satellite imagery &lpar;Geoff Brumfiel/NPR&rpar;](https://www.techmeme.com/260731/p32#a260731p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
