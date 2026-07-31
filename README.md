@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RCS Universal Profile 4.1 gives you more control over your profile privacy](https://www.androidauthority.com/rcs-universal-profile-4-1-3693145/)
- - [This Android phone maker has created a model with no bezels around the display](https://www.androidauthority.com/tecno-bezel-less-phone-3692728/)
- - [OnePlus confirms OnePlus 16, its first flagship after US exit, is coming soon](https://www.androidauthority.com/oneplus-16-confirmed-3693118/)<!-- TECH:END -->
+ - [Anthropic says Claude accidentally hacked real companies too](https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests)
+ - [Sources: Moonshot has a computing power agreement with Alibaba for the use of ~20K Nvidia chips; some say the deal is for H200 chips, which Alibaba denies &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260731/p20#a260731p20)
+ - [Huge $300 iPhone 18 Pro price hike rumored as chip shortage bites](https://appleinsider.com/articles/26/07/31/huge-300-iphone-18-pro-price-hike-rumored-as-chip-shortage-bites?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
