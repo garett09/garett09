@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yo, venmo me 5 bucks](http://9gag.com/gag/ayNOvWr)
- - 🚯 [A lesson on how to be a proper gentleman](http://9gag.com/gag/aXP5e4b)
- - 🚯 [Fair emergency](http://9gag.com/gag/axyXm2b)<!-- MEMES:END -->
+ - 🚖 [Lumberjack breaks grip strength tester](http://9gag.com/gag/a9y9Dm1)
+ - 🚯 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
+ - 🚯 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)<!-- MEMES:END -->
 
 --- 
 
