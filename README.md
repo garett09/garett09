@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Pixel Watch 5 leak puts 41mm and 45mm options head to head](https://www.androidauthority.com/pixel-watch-5-sizes-3692965/)
- - [Samsung Expects the Chip Shortage to Get Worse Before It Gets Better](https://www.cnet.com/tech/samsung-expects-the-chip-shortage-to-get-worse-before-it-gets-better/)
- - [A Fairphone Gen 6 Plus could be on the way](https://www.androidauthority.com/fairphone-6-plus-details-3692960/)<!-- TECH:END -->
+ - [Apple AI compute costs will be covered by iCloud+ subscriptions, for now](https://appleinsider.com/articles/26/07/31/apple-ai-compute-costs-will-be-covered-by-icloud-subscriptions-for-now?utm_source=rss)
+ - [Shares of SK Hynix and Samsung surge more than 20% in Seoul on Friday, marking a sharp reversal from this week&#39;s sell-off &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/260730/p67#a260730p67)
+ - [Chip stocks rallied Thursday after strong Microsoft and Lam Research earnings: Lam Research closed up 18%, Micron 18%, Sandisk 26%, Arm 7%, AMD 13%, Intel 11% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260730/p66#a260730p66)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
