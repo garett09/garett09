@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Save and never try it](http://9gag.com/gag/a9y9DKj)
- - 🚯 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
- - 🚯 [\u201cYouuu moth****er you, f*** you motherf****r!\u201d](http://9gag.com/gag/aD2EQgK)<!-- MEMES:END -->
+ - 🚖 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
+ - 🚯 [Big bug](http://9gag.com/gag/a0e2x0Q)
+ - 🚯 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)<!-- MEMES:END -->
 
 --- 
 
