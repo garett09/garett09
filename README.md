@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
- - 🚯 [School and college is overrated... - that female cop](http://9gag.com/gag/a4PDV7Q)
- - 🚯 [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)<!-- MEMES:END -->
+ - 🚖 [I was worried about his safety but then i saw the safety cigarette](http://9gag.com/gag/ajPoMng)
+ - 🚯 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
+ - 🚯 [Hypnotized](http://9gag.com/gag/a0e2wwB)<!-- MEMES:END -->
 
 --- 
 
