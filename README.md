@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth account of the past two days inside Situational Awareness, as Aschenbrenner assured investors he would focus on changes to his portfolio management &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260731/p33#a260731p33)
- - [Gmail’s new warning could save you from major embarrassment](https://www.androidauthority.com/gmail-bcc-warning-3693467/)
- - [Google rolls back an image generation tool in Google Earth to add &quot;stronger guardrails&quot; after concerns arose it can be used to create deepfake satellite imagery &lpar;Geoff Brumfiel/NPR&rpar;](https://www.techmeme.com/260731/p32#a260731p32)<!-- TECH:END -->
+ - [Sensor Tower: India&#39;s mobile app market generated a record $345M in consumer spending in Q2, up 35% YoY; ChatGPT ranked No. 1 by downloads and No. 2 by revenue &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260731/p43#a260731p43)
+ - [Cybersecurity experts fault Anthropic and OpenAI for sloppy safeguards and inadequate human oversight after their models broke into outside organizations &lpar;Bloomberg&rpar;](https://www.techmeme.com/260731/p42#a260731p42)
+ - [SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth](https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
