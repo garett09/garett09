@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fire Dept. made a PSA about flame-weeding](https://www.reddit.com/r/funny/comments/1vcmuqm/fire_dept_made_a_psa_about_flameweeding/)
- - 🚯 [I used to like F1](http://9gag.com/gag/a87BXMZ)
- - 🚯 [I was worried about his safety but then i saw the safety cigarette](http://9gag.com/gag/ajPoMng)<!-- MEMES:END -->
+ - 🚖 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)
+ - 🚯 [Why settle for the product when you can go straight to the manufacturer](http://9gag.com/gag/aW4wNr4)
+ - 🚯 [Female characters in novels be like](http://9gag.com/gag/aGyWoX6)<!-- MEMES:END -->
 
 --- 
 
