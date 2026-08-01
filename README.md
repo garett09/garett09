@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mermaid Mask is a perfect vacation murder mystery](https://www.theverge.com/games/971660/the-mermaid-mask-review)
- - [This year&#39;s Defcon badges include Baochip-1x, an open source chip whose security is verifiable and that can also be used as a hardware security token &lpar;Kim Zetter/Wired&rpar;](https://www.techmeme.com/260801/p10#a260801p10)
- - [Third-party app stores are about to take over Google Play. Here’s how to prepare](https://www.androidauthority.com/third-party-app-stores-coming-google-play-how-prepare-3689912/)<!-- TECH:END -->
+ - [Trump Media&#39;s new paid data API debuts, for &quot;a direct, licensed, real-time feed of the platform&#39;s most market-moving Truths&quot;; Dem. senators asked SEC to probe &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260801/p14#a260801p14)
+ - [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop)
+ - [Officials: the scope of cyberattacks on US water systems now includes at least seven states and may be far wider; MN was just the first to publicly report them &lpar;New York Times&rpar;](https://www.techmeme.com/260801/p13#a260801p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
