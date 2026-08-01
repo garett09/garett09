@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Larry Ellison&#39;s debt-fueled push to turn Oracle into an AI juggernaut by aligning with Trump, backing Project Stargate, and partnering with OpenAI &lpar;New York Times&rpar;](https://www.techmeme.com/260801/p8#a260801p8)
- - [Toronto-based Terminal, whose API connects insurance products and commercial fleet software with telematics data, raised a $20M Series A led by Battery Ventures &lpar;Alex Riehl/BetaKit&rpar;](https://www.techmeme.com/260801/p7#a260801p7)
- - [Tel Aviv-based Bloom Security, which develops endpoint security tools for monitoring AI agents, extensions, and more, emerges from stealth with a $20M seed &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260801/p6#a260801p6)<!-- TECH:END -->
+ - [The Mermaid Mask is a perfect vacation murder mystery](https://www.theverge.com/games/971660/the-mermaid-mask-review)
+ - [This year&#39;s Defcon badges include Baochip-1x, an open source chip whose security is verifiable and that can also be used as a hardware security token &lpar;Kim Zetter/Wired&rpar;](https://www.techmeme.com/260801/p10#a260801p10)
+ - [Third-party app stores are about to take over Google Play. Here’s how to prepare](https://www.androidauthority.com/third-party-app-stores-coming-google-play-how-prepare-3689912/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
