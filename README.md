@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was worried about his safety but then i saw the safety cigarette](http://9gag.com/gag/ajPoMng)
- - 🚯 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
- - 🚯 [Hypnotized](http://9gag.com/gag/a0e2wwB)<!-- MEMES:END -->
+ - 🚖 [Fire Dept. made a PSA about flame-weeding](https://www.reddit.com/r/funny/comments/1vcmuqm/fire_dept_made_a_psa_about_flameweeding/)
+ - 🚯 [I used to like F1](http://9gag.com/gag/a87BXMZ)
+ - 🚯 [I was worried about his safety but then i saw the safety cigarette](http://9gag.com/gag/ajPoMng)<!-- MEMES:END -->
 
 --- 
 
