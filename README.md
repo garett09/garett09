@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [FAFO](http://9gag.com/gag/avy3XvE)
- - 🚯 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
- - 🚯 [Oh David...](http://9gag.com/gag/a7ozGzb)<!-- MEMES:END -->
+ - 🚖 [One day at a time](http://9gag.com/gag/aLnyVjg)
+ - 🚯 [Bless your good soul](http://9gag.com/gag/aND68Dv)
+ - 🚯 [Smoke Free at 43!](http://9gag.com/gag/axyXQwY)<!-- MEMES:END -->
 
 --- 
 
