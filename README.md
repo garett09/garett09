@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)
- - [Save $1,200 on Apple&#39;s 16-inch MacBook Pro M5 Max with 2TB SSD](https://appleinsider.com/articles/26/08/02/save-1200-on-apples-16-inch-macbook-pro-m5-max-with-2tb-ssd?utm_source=rss)
- - [A profile of Jacob Tsimerman, who won the Fields Medal last week and is taking a leave from the University of Toronto to join OpenAI and work on AI safety &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260802/p5#a260802p5)<!-- TECH:END -->
+ - [Is paying artists enough to convince them to embrace AI?](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties)
+ - [Every household management app I tried came up short, so I built my own with Claude](https://www.androidauthority.com/custom-household-management-3691965/)
+ - [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
