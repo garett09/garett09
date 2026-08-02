@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Media&#39;s new paid data API debuts, for &quot;a direct, licensed, real-time feed of the platform&#39;s most market-moving Truths&quot;; Dem. senators asked SEC to probe &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260801/p14#a260801p14)
- - [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop)
- - [Officials: the scope of cyberattacks on US water systems now includes at least seven states and may be far wider; MN was just the first to publicly report them &lpar;New York Times&rpar;](https://www.techmeme.com/260801/p13#a260801p13)<!-- TECH:END -->
+ - [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
+ - [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
+ - [Today’s Wordle Hints, Answer and Help for Aug. 2, #1870](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-2-1870/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
