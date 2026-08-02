@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One day at a time](http://9gag.com/gag/aLnyVjg)
- - 🚯 [Bless your good soul](http://9gag.com/gag/aND68Dv)
- - 🚯 [Smoke Free at 43!](http://9gag.com/gag/axyXQwY)<!-- MEMES:END -->
+ - 🚖 [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)
+ - 🚯 [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
+ - 🚯 [Banks be like:](http://9gag.com/gag/a1mGBdb)<!-- MEMES:END -->
 
 --- 
 
