@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)
- - 🚯 [Why settle for the product when you can go straight to the manufacturer](http://9gag.com/gag/aW4wNr4)
- - 🚯 [Female characters in novels be like](http://9gag.com/gag/aGyWoX6)<!-- MEMES:END -->
+ - 🚖 [Big bug](http://9gag.com/gag/a0e2x0Q)
+ - 🚯 [Banks be like:](http://9gag.com/gag/a1mGBdb)
+ - 🚯 [Therapist is one word](http://9gag.com/gag/adBm4N9)<!-- MEMES:END -->
 
 --- 
 
