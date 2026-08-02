@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big bug](http://9gag.com/gag/a0e2x0Q)
- - 🚯 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - 🚯 [Therapist is one word](http://9gag.com/gag/adBm4N9)<!-- MEMES:END -->
+ - 🚖 [FAFO](http://9gag.com/gag/avy3XvE)
+ - 🚯 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
+ - 🚯 [Oh David...](http://9gag.com/gag/a7ozGzb)<!-- MEMES:END -->
 
 --- 
 
