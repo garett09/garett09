@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the US open-weight AI model ecosystem, as VCs question the revenue potential of open-weight startups like Arcee, Reflection AI, and Poolside &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260802/p14#a260802p14)
- - [Robinhood&#39;s prediction markets revenue surged 10x+ YoY to $156M in Q2, topping stock and crypto for the first time as speculators shift to real-world event bets &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260802/p13#a260802p13)
- - [Four US states rolled back or paused data center tax incentives, and nine others are weighing repeal measures, potentially adding 7% or more to equipment costs &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260802/p12#a260802p12)<!-- TECH:END -->
+ - [Gemini Notebook may soon let you build custom learning games out of your study material](https://www.androidauthority.com/gemini-notebook-lm-interactive-learning-games-3693702/)
+ - [I use this one setting every time I travel, and it saves me a fortune on mobile data](https://www.androidauthority.com/one-setting-saves-fortune-mobile-data-travel-3688998/)
+ - [Chrome and Edge are getting smarter screen sharing on bad Wi-Fi](https://www.androidauthority.com/google-chrome-edge-screen-sharing-improvement-3693721/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
