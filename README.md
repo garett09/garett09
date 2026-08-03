@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260802/p8#a260802p8)
- - [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
- - [Amazon Will Give Tariff Refunds to Some Customers](https://www.cnet.com/tech/amazon-will-give-tariff-refunds-to-some-customers/)<!-- TECH:END -->
+ - [A look at the US open-weight AI model ecosystem, as VCs question the revenue potential of open-weight startups like Arcee, Reflection AI, and Poolside &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260802/p14#a260802p14)
+ - [Robinhood&#39;s prediction markets revenue surged 10x+ YoY to $156M in Q2, topping stock and crypto for the first time as speculators shift to real-world event bets &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260802/p13#a260802p13)
+ - [Four US states rolled back or paused data center tax incentives, and nine others are weighing repeal measures, potentially adding 7% or more to equipment costs &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260802/p12#a260802p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
