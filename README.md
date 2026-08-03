@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You go girl](http://9gag.com/gag/aGyW6vG)
- - 🚯 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)
- - 🚯 [Is it ok to use woman&#39;s bathroom in this scenario?](http://9gag.com/gag/aE0Lb6e)<!-- MEMES:END -->
+ - 🚖 [He is a dog of focus](http://9gag.com/gag/an7L0vV)
+ - 🚯 [Hard truths about spiderman lore](http://9gag.com/gag/ae9vE1O)
+ - 🚯 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)<!-- MEMES:END -->
 
 --- 
 
