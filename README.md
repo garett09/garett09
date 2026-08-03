@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Notebook may soon let you build custom learning games out of your study material](https://www.androidauthority.com/gemini-notebook-lm-interactive-learning-games-3693702/)
- - [I use this one setting every time I travel, and it saves me a fortune on mobile data](https://www.androidauthority.com/one-setting-saves-fortune-mobile-data-travel-3688998/)
- - [Chrome and Edge are getting smarter screen sharing on bad Wi-Fi](https://www.androidauthority.com/google-chrome-edge-screen-sharing-improvement-3693721/)<!-- TECH:END -->
+ - [iPhone Fold is on schedule for September after manufacturing problems are solved](https://appleinsider.com/articles/26/08/03/iphone-fold-is-on-schedule-for-september-after-manufacturing-problems-are-solved?utm_source=rss)
+ - [Amazon’s fight against data-scraping bots is hiding reviews from real users](https://www.androidauthority.com/amazon-user-reviews-ai-bots-data-scraping-3693844/)
+ - [UK court filing: in July, Apple launched a new legal challenge against the UK government&#39;s attempt to create a &quot;backdoor&quot; to access encrypted customer data &lpar;Tim Bradshaw/Financial Times&rpar;](https://www.techmeme.com/260803/p22#a260803p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
