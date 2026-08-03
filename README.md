@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold is on schedule for September after manufacturing problems are solved](https://appleinsider.com/articles/26/08/03/iphone-fold-is-on-schedule-for-september-after-manufacturing-problems-are-solved?utm_source=rss)
- - [Amazon’s fight against data-scraping bots is hiding reviews from real users](https://www.androidauthority.com/amazon-user-reviews-ai-bots-data-scraping-3693844/)
- - [UK court filing: in July, Apple launched a new legal challenge against the UK government&#39;s attempt to create a &quot;backdoor&quot; to access encrypted customer data &lpar;Tim Bradshaw/Financial Times&rpar;](https://www.techmeme.com/260803/p22#a260803p22)<!-- TECH:END -->
+ - [Google Health now shares Fitbit workouts with Apple Health](https://appleinsider.com/articles/26/08/03/google-health-now-shares-fitbit-workouts-with-apple-health?utm_source=rss)
+ - [Google drops Pixel 11 Pro Fold teaser to hype you up for official launch](https://www.androidauthority.com/google-teases-pixel-11-pro-fold-3694007/)
+ - [Pixel 11 Pro XL joins the rest of the family with Google image leak](https://www.androidauthority.com/pixel-11-pro-xl-image-leak-3694004/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
