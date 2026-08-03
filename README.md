@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
- - 🚯 [I want his calm](http://9gag.com/gag/an7L885)
- - 🚯 [Damn..](http://9gag.com/gag/ayNOZKq)<!-- MEMES:END -->
+ - 🚖 [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
+ - 🚯 [Banks be like:](http://9gag.com/gag/a1mGBdb)
+ - 🚯 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)<!-- MEMES:END -->
 
 --- 
 
