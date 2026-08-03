@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
- - 🚯 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - 🚯 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)<!-- MEMES:END -->
+ - 🚖 [You go girl](http://9gag.com/gag/aGyW6vG)
+ - 🚯 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)
+ - 🚯 [Is it ok to use woman&#39;s bathroom in this scenario?](http://9gag.com/gag/aE0Lb6e)<!-- MEMES:END -->
 
 --- 
 
