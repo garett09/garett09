@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone to Windows clipboard sharing coming to iOS 28 in the EU](https://appleinsider.com/articles/26/08/04/iphone-to-windows-clipboard-sharing-coming-to-ios-28-in-the-eu?utm_source=rss)
- - [TikTok agrees to settle three more teen social media lawsuits ahead of trial; 2,600 cases with similar claims are pending in California federal court &lpar;Dietrich Knauth/Reuters&rpar;](https://www.techmeme.com/260803/p37#a260803p37)
- - [The studio behind Pokémon struggles to find its voice in Beast of Reincarnation](https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox)<!-- TECH:END -->
+ - [A look at Alphabet&#39;s moonshot lab X and interviews with its staff, including CEO Astro Teller, on reinventing itself and what its next big thing might be &lpar;Harry McCracken/Fast Company&rpar;](https://www.techmeme.com/260804/p5#a260804p5)
+ - [Google Drive finally fixes the most tedious part of reviewing videos](https://www.androidauthority.com/google-drive-timestamped-video-comments-3694224/)
+ - [Pixels could soon catch up to Galaxy phones with a new Voicecast feature](https://www.androidauthority.com/google-pixel-voicecast-apk-teardown-3694165/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
