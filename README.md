@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)
- - 🚯 [Wonder Generation](http://9gag.com/gag/aGyWqDX)
+ - 🚖 [Since you guys never show the outcome, here&#39;s what is happening in Ceuta now](http://9gag.com/gag/aKGrXDb)
+ - 🚯 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
  - 🚯 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
 
 --- 
