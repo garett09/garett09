@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hits a record $10B in annual retail revenue in India](https://appleinsider.com/articles/26/08/04/apple-hits-a-record-10b-in-annual-retail-revenue-in-india?utm_source=rss)
- - [Fake Zoom update malware campaign expands its reach to macOS](https://appleinsider.com/articles/26/08/04/fake-zoom-update-malware-campaign-expands-its-reach-to-macos?utm_source=rss)
- - [Obsidian Security, which helps companies secure AI agents, raised an $85M Series D at a $1.1B valuation, after raising a $90M Series C in April 2022 &lpar;Akash Sriram/Reuters&rpar;](https://www.techmeme.com/260804/p21#a260804p21)<!-- TECH:END -->
+ - [Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store](https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov)
+ - [Mistral releases Shieldstral, a 3B multimodal safety classifier that it says matches models up to 7x its size on text safety, available under Apache 2.0 &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260804/p36#a260804p36)
+ - [OpenAI Hits Back at Apple, Calls Lawsuit ‘Careless, Aggressive and Oddly Personal’](https://www.cnet.com/tech/services-and-software/openai-apple-lawsuit-released-texts-emails-august-2026-news/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
