@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He is a dog of focus](http://9gag.com/gag/an7L0vV)
- - 🚯 [Hard truths about spiderman lore](http://9gag.com/gag/ae9vE1O)
- - 🚯 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)<!-- MEMES:END -->
+ - 🚖 [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)
+ - 🚯 [Wonder Generation](http://9gag.com/gag/aGyWqDX)
+ - 🚯 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
 
 --- 
 
