@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Alphabet&#39;s moonshot lab X and interviews with its staff, including CEO Astro Teller, on reinventing itself and what its next big thing might be &lpar;Harry McCracken/Fast Company&rpar;](https://www.techmeme.com/260804/p5#a260804p5)
- - [Google Drive finally fixes the most tedious part of reviewing videos](https://www.androidauthority.com/google-drive-timestamped-video-comments-3694224/)
- - [Pixels could soon catch up to Galaxy phones with a new Voicecast feature](https://www.androidauthority.com/google-pixel-voicecast-apk-teardown-3694165/)<!-- TECH:END -->
+ - [Apple hits a record $10B in annual retail revenue in India](https://appleinsider.com/articles/26/08/04/apple-hits-a-record-10b-in-annual-retail-revenue-in-india?utm_source=rss)
+ - [Fake Zoom update malware campaign expands its reach to macOS](https://appleinsider.com/articles/26/08/04/fake-zoom-update-malware-campaign-expands-its-reach-to-macos?utm_source=rss)
+ - [Obsidian Security, which helps companies secure AI agents, raised an $85M Series D at a $1.1B valuation, after raising a $90M Series C in April 2022 &lpar;Akash Sriram/Reuters&rpar;](https://www.techmeme.com/260804/p21#a260804p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
