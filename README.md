@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How those chinese bluetooth speakers are made](http://9gag.com/gag/aAyo9vg)
- - 🚯 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - 🚯 [Keeping the family together in a bucket](http://9gag.com/gag/an7Loo5)<!-- MEMES:END -->
+ - 🚖 [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
+ - 🚯 [Fan v fan](http://9gag.com/gag/a87BgXO)
+ - 🚯 [Upgrades](http://9gag.com/gag/aoybw2X)<!-- MEMES:END -->
 
 --- 
 
