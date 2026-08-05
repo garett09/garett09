@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RAM production worldwide is sold out through 2027](https://appleinsider.com/articles/26/08/05/ram-production-worldwide-is-sold-out-through-2027?utm_source=rss)
- - [These Pixel features are the reason people stay, survey reveals](https://www.androidauthority.com/pixel-exclusive-features-survey-3694810/)
- - [Disney says it&amp;#8217;s &amp;#8216;exploring&amp;#8217; adding a free tier to Disney Plus](https://www.theverge.com/streaming/975543/disney-plus-free-tier-q3-2026-earnings)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 5&rpar;](https://www.androidauthority.com/wallpaper-wednesday-august-5-2026-3694957/)
+ - [Apple&#39;s iPhone 18 Pro event won&#39;t be live, no matter how much you wish it to be](https://appleinsider.com/articles/26/08/05/apples-september-event-wont-be-live-no-matter-how-much-you-wish-it-to-be?utm_source=rss)
+ - [Huawei’s new MateBook Fold is a $3,700 touchscreen laptop unlike any other](https://www.androidauthority.com/huawei-matebook-fold-3694954/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
