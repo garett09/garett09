@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store](https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov)
- - [Mistral releases Shieldstral, a 3B multimodal safety classifier that it says matches models up to 7x its size on text safety, available under Apache 2.0 &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260804/p36#a260804p36)
- - [OpenAI Hits Back at Apple, Calls Lawsuit ‘Careless, Aggressive and Oddly Personal’](https://www.cnet.com/tech/services-and-software/openai-apple-lawsuit-released-texts-emails-august-2026-news/)<!-- TECH:END -->
+ - [SpaceX reports Q2 revenue from connectivity, which includes Starlink, up 66% YoY to $4.29B vs. $3.83B est., Starlink subscribers up 100% to 12M vs. 12.19M est. &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260804/p55#a260804p55)
+ - [House panel report: US telcos connected their systems to data centers in a way that exposed them to vulnerabilities, potentially enabling Salt Typhoon hacks &lpar;Kelcee Griffis/Bloomberg&rpar;](https://www.techmeme.com/260804/p54#a260804p54)
+ - [WebKit leaks in iOS &amp; macOS expose user data in spite of proxy use](https://appleinsider.com/articles/26/08/05/webkit-leaks-in-ios-macos-expose-ip-and-dns-in-spite-of-proxy-use?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
