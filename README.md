@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX reports Q2 revenue from connectivity, which includes Starlink, up 66% YoY to $4.29B vs. $3.83B est., Starlink subscribers up 100% to 12M vs. 12.19M est. &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260804/p55#a260804p55)
- - [House panel report: US telcos connected their systems to data centers in a way that exposed them to vulnerabilities, potentially enabling Salt Typhoon hacks &lpar;Kelcee Griffis/Bloomberg&rpar;](https://www.techmeme.com/260804/p54#a260804p54)
- - [WebKit leaks in iOS &amp; macOS expose user data in spite of proxy use](https://appleinsider.com/articles/26/08/05/webkit-leaks-in-ios-macos-expose-ip-and-dns-in-spite-of-proxy-use?utm_source=rss)<!-- TECH:END -->
+ - [Google is killing one of Gmail’s most useful power-user features](https://www.androidauthority.com/gmail-killing-third-party-send-as-feature-3694659/)
+ - [At the 2026 International Congress of Mathematicians, 20+ mathematicians reflect on how AI advances are transforming their work and field; many are optimistic &lpar;Kai Williams/Understanding AI&rpar;](https://www.techmeme.com/260805/p5#a260805p5)
+ - [The AI dictation app everyone is talking about just got a powerful new Notetaker](https://www.androidauthority.com/wispr-flow-notetaker-3694672/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
