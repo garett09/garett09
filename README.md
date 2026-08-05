@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
- - 🚯 [Fan v fan](http://9gag.com/gag/a87BgXO)
- - 🚯 [Upgrades](http://9gag.com/gag/aoybw2X)<!-- MEMES:END -->
+ - 🚖 [Miracle on 34th street](http://9gag.com/gag/aKGrMdj)
+ - 🚯 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
+ - 🚯 [Stank lee , he is here](http://9gag.com/gag/aMV3MzP)<!-- MEMES:END -->
 
 --- 
 
