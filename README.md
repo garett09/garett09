@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)
- - 🚯 [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
- - 🚯 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
+ - 🚖 [How those chinese bluetooth speakers are made](http://9gag.com/gag/aAyo9vg)
+ - 🚯 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
+ - 🚯 [Keeping the family together in a bucket](http://9gag.com/gag/an7Loo5)<!-- MEMES:END -->
 
 --- 
 
