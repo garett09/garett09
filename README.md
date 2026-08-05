@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is killing one of Gmail’s most useful power-user features](https://www.androidauthority.com/gmail-killing-third-party-send-as-feature-3694659/)
- - [At the 2026 International Congress of Mathematicians, 20+ mathematicians reflect on how AI advances are transforming their work and field; many are optimistic &lpar;Kai Williams/Understanding AI&rpar;](https://www.techmeme.com/260805/p5#a260805p5)
- - [The AI dictation app everyone is talking about just got a powerful new Notetaker](https://www.androidauthority.com/wispr-flow-notetaker-3694672/)<!-- TECH:END -->
+ - [RAM production worldwide is sold out through 2027](https://appleinsider.com/articles/26/08/05/ram-production-worldwide-is-sold-out-through-2027?utm_source=rss)
+ - [These Pixel features are the reason people stay, survey reveals](https://www.androidauthority.com/pixel-exclusive-features-survey-3694810/)
+ - [Disney says it&amp;#8217;s &amp;#8216;exploring&amp;#8217; adding a free tier to Disney Plus](https://www.theverge.com/streaming/975543/disney-plus-free-tier-q3-2026-earnings)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
