@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Miracle on 34th street](http://9gag.com/gag/aKGrMdj)
- - 🚯 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
- - 🚯 [Stank lee , he is here](http://9gag.com/gag/aMV3MzP)<!-- MEMES:END -->
+ - 🚖 [Well done!](http://9gag.com/gag/amoEZjX)
+ - 🚯 [Classic internet moment that never gets old](http://9gag.com/gag/a2vn3Rp)
+ - 🚯 [Good dog](http://9gag.com/gag/aPAKEQq)<!-- MEMES:END -->
 
 --- 
 
