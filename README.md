@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 5&rpar;](https://www.androidauthority.com/wallpaper-wednesday-august-5-2026-3694957/)
- - [Apple&#39;s iPhone 18 Pro event won&#39;t be live, no matter how much you wish it to be](https://appleinsider.com/articles/26/08/05/apples-september-event-wont-be-live-no-matter-how-much-you-wish-it-to-be?utm_source=rss)
- - [Huawei’s new MateBook Fold is a $3,700 touchscreen laptop unlike any other](https://www.androidauthority.com/huawei-matebook-fold-3694954/)<!-- TECH:END -->
+ - [OpenAI says the Hugging Face breach involved AI agents creating an internal message board, unnoticed by humans, where they shared exploits and planned the hack &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260805/p51#a260805p51)
+ - [Sapiom, which helps businesses build, ship, and scale AI agents and lower token costs, raised a $35M Series A led by Dragonfly, taking its total funding to $50M &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260805/p50#a260805p50)
+ - [Apple’s Private Relay Isn’t So Private After All, Can Leak Your IP Address](https://www.cnet.com/uncategorized/apples-private-relay-isnt-so-private-after-all-can-leak-your-ip-address/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
