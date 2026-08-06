@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may finally fix a major frustration with Android’s Photo Picker](https://www.androidauthority.com/android-photo-picker-media-editor-apk-teardown-3695131/)
- - [Android 17 seems to have gifted Pixel users yet another touch bug](https://www.androidauthority.com/pixel-android-17-touch-screen-bug-games-3695142/)
- - [Gemini could soon help you fix your Pixel instead of searching Settings](https://www.androidauthority.com/google-gemini-device-help-on-pixel-3695104/)<!-- TECH:END -->
+ - [DeepSeek is preparing users for a big price hike](https://www.androidauthority.com/deepseek-ai-models-price-increase-3695266/)
+ - [The messy politics behind Google’s big AI shakeup](https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind)
+ - [RAM supply holding up iPhone 18 Pro assembly is another bad sign](https://appleinsider.com/articles/26/08/06/ram-supply-holding-up-iphone-18-pro-assembly-is-another-bad-sign?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
