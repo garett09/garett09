@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well done!](http://9gag.com/gag/amoEZjX)
- - 🚯 [Classic internet moment that never gets old](http://9gag.com/gag/a2vn3Rp)
- - 🚯 [Good dog](http://9gag.com/gag/aPAKEQq)<!-- MEMES:END -->
+ - 🚖 [Looks so delish!](http://9gag.com/gag/a34VOz1)
+ - 🚯 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
+ - 🚯 [Holy Neck](http://9gag.com/gag/a4PDv4Q)<!-- MEMES:END -->
 
 --- 
 
