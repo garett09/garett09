@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek is preparing users for a big price hike](https://www.androidauthority.com/deepseek-ai-models-price-increase-3695266/)
- - [The messy politics behind Google’s big AI shakeup](https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind)
- - [RAM supply holding up iPhone 18 Pro assembly is another bad sign](https://appleinsider.com/articles/26/08/06/ram-supply-holding-up-iphone-18-pro-assembly-is-another-bad-sign?utm_source=rss)<!-- TECH:END -->
+ - [New Mexico trial: a judge orders Meta to pay $567M and make changes for underage users after finding its platforms helped create a public nuisance harming teens &lpar;KOB 4&rpar;](https://www.techmeme.com/260806/p55#a260806p55)
+ - [Alphabet raises $25B in a bond sale; sources say the offering attracted roughly $115B of peak demand and that the company plans to issue US debt twice a year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p54#a260806p54)
+ - [Apple continues to dominate premium smartphone market share in 2026](https://appleinsider.com/articles/26/08/06/apple-continues-to-dominate-premium-smartphone-market-share-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
