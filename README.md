@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bart is a man of focus, commitment and sheer will. Man or fish whatever..](http://9gag.com/gag/aZZGOOW)
- - 🚯 [I miss TopGear / GrandTour](http://9gag.com/gag/a1mG3GG)
- - 🚯 [Good dog](http://9gag.com/gag/aPAKEQq)<!-- MEMES:END -->
+ - 🚖 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)
+ - 🚯 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
+ - 🚯 [We had a paradise building until...](http://9gag.com/gag/ajPoz51)<!-- MEMES:END -->
 
 --- 
 
