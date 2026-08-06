@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says the Hugging Face breach involved AI agents creating an internal message board, unnoticed by humans, where they shared exploits and planned the hack &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260805/p51#a260805p51)
- - [Sapiom, which helps businesses build, ship, and scale AI agents and lower token costs, raised a $35M Series A led by Dragonfly, taking its total funding to $50M &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260805/p50#a260805p50)
- - [Apple’s Private Relay Isn’t So Private After All, Can Leak Your IP Address](https://www.cnet.com/uncategorized/apples-private-relay-isnt-so-private-after-all-can-leak-your-ip-address/)<!-- TECH:END -->
+ - [Google may finally fix a major frustration with Android’s Photo Picker](https://www.androidauthority.com/android-photo-picker-media-editor-apk-teardown-3695131/)
+ - [Android 17 seems to have gifted Pixel users yet another touch bug](https://www.androidauthority.com/pixel-android-17-touch-screen-bug-games-3695142/)
+ - [Gemini could soon help you fix your Pixel instead of searching Settings](https://www.androidauthority.com/google-gemini-device-help-on-pixel-3695104/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
