@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looks so delish!](http://9gag.com/gag/a34VOz1)
- - 🚯 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
- - 🚯 [Holy Neck](http://9gag.com/gag/a4PDv4Q)<!-- MEMES:END -->
+ - 🚖 [Bart is a man of focus, commitment and sheer will. Man or fish whatever..](http://9gag.com/gag/aZZGOOW)
+ - 🚯 [I miss TopGear / GrandTour](http://9gag.com/gag/a1mG3GG)
+ - 🚯 [Good dog](http://9gag.com/gag/aPAKEQq)<!-- MEMES:END -->
 
 --- 
 
