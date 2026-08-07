@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing back native app lock for Android, but not for everyone yet](https://www.androidauthority.com/google-android-pixel-app-lock-3695632/)
- - [Google just extended Gemini Omni’s surprisingly generous free offer](https://www.androidauthority.com/free-gemini-omni-videos-3695658/)
- - [Filing: ex-a16z partner Bryan Kim is forming venture firm Mido Capital; sources: he plans to raise ~$100M for a fund backing early-stage AI and other startups &lpar;Yuliya Chernova/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p3#a260807p3)<!-- TECH:END -->
+ - [Take-Two reports Q1 bookings down 3% YoY to $1.39B, vs. $1.38B est., forecasts Q2 and FY 2027 bookings below est., reiterates GTA VI&#39;s November 19 launch date &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/260807/p13#a260807p13)
+ - [The best classic slasher movie you&amp;#8217;ll never watch](https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design)
+ - [Livestream shopping app Whatnot raised a $545M Series G led by Iconiq, Lightspeed, and Avra at a $20B valuation, up from an $11.5B valuation in October 2025 &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260807/p12#a260807p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
