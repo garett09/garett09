@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take-Two reports Q1 bookings down 3% YoY to $1.39B, vs. $1.38B est., forecasts Q2 and FY 2027 bookings below est., reiterates GTA VI&#39;s November 19 launch date &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/260807/p13#a260807p13)
- - [The best classic slasher movie you&amp;#8217;ll never watch](https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design)
- - [Livestream shopping app Whatnot raised a $545M Series G led by Iconiq, Lightspeed, and Avra at a $20B valuation, up from an $11.5B valuation in October 2025 &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260807/p12#a260807p12)<!-- TECH:END -->
+ - [OpenAI puts the brakes on a new model because it&amp;#8217;s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities)
+ - [Microsoft plans to end support for Manifest V2 extensions in Edge starting this month, following Google Chrome, and for enterprise users in early 2027 &lpar;Stevie Bonifield/The Verge&rpar;](https://www.techmeme.com/260807/p24#a260807p24)
+ - [Google throws shade at ugly smartwatches in Pixel Watch 5 teaser](https://www.androidauthority.com/google-pixel-watch-5-teaser-3696073/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
