@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmm](http://9gag.com/gag/aW4wr0x)
- - 🚯 [Asking for a friend who definitely works in retail](http://9gag.com/gag/a6ZA0N2)
- - 🚯 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)<!-- MEMES:END -->
+ - 🚖 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)
+ - 🚯 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 🚯 [A man accidentally joins the wrong forum](http://9gag.com/gag/aBy7A7O)<!-- MEMES:END -->
 
 --- 
 
