@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotcha](http://9gag.com/gag/apRW4ZD)
- - 🚯 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
- - 🚯 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)<!-- MEMES:END -->
+ - 🚖 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)
+ - 🚯 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
+ - 🚯 [Holy Neck](http://9gag.com/gag/a4PDv4Q)<!-- MEMES:END -->
 
 --- 
 
