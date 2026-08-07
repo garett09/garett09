@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)
- - 🚯 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - 🚯 [Holy Neck](http://9gag.com/gag/a4PDv4Q)<!-- MEMES:END -->
+ - 🚖 [10000 Cable channels for free &lpar;with adds though&rpar;](http://9gag.com/gag/aGy3KyX)
+ - 🚯 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
+ - 🚯 [You had one job](http://9gag.com/gag/a7oz4Qq)<!-- MEMES:END -->
 
 --- 
 
