@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security researchers claim Kimi K3 went outside its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet &lpar;Will Knight/Wired&rpar;](https://www.techmeme.com/260806/p58#a260806p58)
- - [Android’s new Quick Settings editor has another trick: A customizable QQS layout](https://www.androidauthority.com/android-quick-settings-editor-custom-qqs-layout-3695608/)
- - [OpenAI’s first AI smart speaker reportedly won’t just talk, it’ll move too](https://www.androidauthority.com/openai-smart-speaker-shape-price-features-battery-power-3695603/)<!-- TECH:END -->
+ - [Google is bringing back native app lock for Android, but not for everyone yet](https://www.androidauthority.com/google-android-pixel-app-lock-3695632/)
+ - [Google just extended Gemini Omni’s surprisingly generous free offer](https://www.androidauthority.com/free-gemini-omni-videos-3695658/)
+ - [Filing: ex-a16z partner Bryan Kim is forming venture firm Mido Capital; sources: he plans to raise ~$100M for a fund backing early-stage AI and other startups &lpar;Yuliya Chernova/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p3#a260807p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
