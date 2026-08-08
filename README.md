@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Turkana Boy](http://9gag.com/gag/ayNOyE8)
- - 🚯 [Bro became a villain](http://9gag.com/gag/adBmZP9)
- - 🚯 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
+ - 🚖 [Bro became a villain](http://9gag.com/gag/adBmZP9)
+ - 🚯 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
+ - 🚯 [Why not](http://9gag.com/gag/a9y93Ym)<!-- MEMES:END -->
 
 --- 
 
