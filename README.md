@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10000 Cable channels for free &lpar;with adds though&rpar;](http://9gag.com/gag/aGy3KyX)
- - 🚯 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
- - 🚯 [You had one job](http://9gag.com/gag/a7oz4Qq)<!-- MEMES:END -->
+ - 🚖 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
+ - 🚯 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 🚯 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)<!-- MEMES:END -->
 
 --- 
 
