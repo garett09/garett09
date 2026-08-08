@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI puts the brakes on a new model because it&amp;#8217;s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities)
- - [Microsoft plans to end support for Manifest V2 extensions in Edge starting this month, following Google Chrome, and for enterprise users in early 2027 &lpar;Stevie Bonifield/The Verge&rpar;](https://www.techmeme.com/260807/p24#a260807p24)
- - [Google throws shade at ugly smartwatches in Pixel Watch 5 teaser](https://www.androidauthority.com/google-pixel-watch-5-teaser-3696073/)<!-- TECH:END -->
+ - [Analysis: SpaceX is on track to build ~10 GW of compute capacity by 2027&#39;s end, with 6 GW-8 GW in 2027 alone, which could drive $300B in annual revenue run-rate &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260807/p35#a260807p35)
+ - [Anthropic announces a feature that allows different Claude Code sessions to message each other with updates and other information, available on macOS and Linux &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260807/p34#a260807p34)
+ - [Filings: Moonshot restructured its China-based entity from a limited liability company to a joint stock company in its first visible step toward a Hong Kong IPO &lpar;Financial Times&rpar;](https://www.techmeme.com/260807/p33#a260807p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
