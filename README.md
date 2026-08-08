@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I gave my Samsung phone superpowers with a $6 pack of NFC tags — here’s how](https://www.androidauthority.com/samsung-routines-nfc-tags-superpowers-how-3694682/)
- - [Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket](https://www.wired.com/story/first-images-spacex-rocket-moon-crater/)
- - [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review)<!-- TECH:END -->
+ - [Google Photos users report handy drag-to-select feature has disappeared](https://www.androidauthority.com/google-photos-drag-to-select-missing-3696148/)
+ - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
+ - [A profile of Russia&#39;s A7, a payment network that helps Russia bypass Western sanctions, handling ~20% of payments in Russian foreign trade, or $100B+ annually &lpar;Alexander Osipovich/Wall Street Journal&rpar;](https://www.techmeme.com/260808/p8#a260808p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
