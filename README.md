@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro became a villain](http://9gag.com/gag/adBmZP9)
- - 🚯 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - 🚯 [Why not](http://9gag.com/gag/a9y93Ym)<!-- MEMES:END -->
+ - 🚖 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
+ - 🚯 [Need more awesome people](http://9gag.com/gag/aVvnjL8)
+ - 🚯 [10000 Cable channels for free &lpar;with adds though&rpar;](http://9gag.com/gag/aGy3KyX)<!-- MEMES:END -->
 
 --- 
 
