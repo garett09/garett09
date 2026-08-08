@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: SpaceX is on track to build ~10 GW of compute capacity by 2027&#39;s end, with 6 GW-8 GW in 2027 alone, which could drive $300B in annual revenue run-rate &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260807/p35#a260807p35)
- - [Anthropic announces a feature that allows different Claude Code sessions to message each other with updates and other information, available on macOS and Linux &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260807/p34#a260807p34)
- - [Filings: Moonshot restructured its China-based entity from a limited liability company to a joint stock company in its first visible step toward a Hong Kong IPO &lpar;Financial Times&rpar;](https://www.techmeme.com/260807/p33#a260807p33)<!-- TECH:END -->
+ - [A profile of Tatyana Kim, founder of Russia&#39;s largest online retailer Wildberries, which has lost an estimated third of its warehouse space to Ukrainian attacks &lpar;New York Times&rpar;](https://www.techmeme.com/260808/p4#a260808p4)
+ - [Ukrainian attacks on warehouses of Russia&#39;s largest online retailer Wildberries are affecting tens of thousands of small businesses that rely on the platform &lpar;Reuters&rpar;](https://www.techmeme.com/260808/p3#a260808p3)
+ - [Analysis: South Korea and Taiwan each surpassed Japan in total exports for the first time in H1 2026, as AI demand drove explosive growth in chip exports &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260808/p2#a260808p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
