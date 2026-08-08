@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Tatyana Kim, founder of Russia&#39;s largest online retailer Wildberries, which has lost an estimated third of its warehouse space to Ukrainian attacks &lpar;New York Times&rpar;](https://www.techmeme.com/260808/p4#a260808p4)
- - [Ukrainian attacks on warehouses of Russia&#39;s largest online retailer Wildberries are affecting tens of thousands of small businesses that rely on the platform &lpar;Reuters&rpar;](https://www.techmeme.com/260808/p3#a260808p3)
- - [Analysis: South Korea and Taiwan each surpassed Japan in total exports for the first time in H1 2026, as AI demand drove explosive growth in chip exports &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260808/p2#a260808p2)<!-- TECH:END -->
+ - [I gave my Samsung phone superpowers with a $6 pack of NFC tags — here’s how](https://www.androidauthority.com/samsung-routines-nfc-tags-superpowers-how-3694682/)
+ - [Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket](https://www.wired.com/story/first-images-spacex-rocket-moon-crater/)
+ - [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
