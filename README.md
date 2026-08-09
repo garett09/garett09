@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Almost got axe murdered by this legend](http://9gag.com/gag/abAP5Mp)
- - 🚯 [First rule, never lose eye contact](http://9gag.com/gag/axyxdAb)
- - 🚯 [Some say that he always comes early. Others claim he never left. All that we know is he\u2019s a degenerate.](http://9gag.com/gag/azxNbgz)<!-- MEMES:END -->
+ - 🚖 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
+ - 🚯 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
+ - 🚯 [Innocence](http://9gag.com/gag/aW4KQ3Z)<!-- MEMES:END -->
 
 --- 
 
