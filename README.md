@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
- - 🚯 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
- - 🚯 [Wife Loved the Surprise Home... Until She Learned It Was in Her Husband&#39;s Name](http://9gag.com/gag/apRyKQ8)<!-- MEMES:END -->
+ - 🚖 [Almost got axe murdered by this legend](http://9gag.com/gag/abAP5Mp)
+ - 🚯 [First rule, never lose eye contact](http://9gag.com/gag/axyxdAb)
+ - 🚯 [Some say that he always comes early. Others claim he never left. All that we know is he\u2019s a degenerate.](http://9gag.com/gag/azxNbgz)<!-- MEMES:END -->
 
 --- 
 
