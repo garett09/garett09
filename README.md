@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
- - 🚯 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
+ - 🚖 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
+ - 🚯 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
  - 🚯 [Innocence](http://9gag.com/gag/aW4KQ3Z)<!-- MEMES:END -->
 
 --- 
