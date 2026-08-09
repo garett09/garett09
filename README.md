@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s AI shakeup suggests it may be prioritizing AI diffusion over frontier-model leadership, betting on AI compute as a bigger economic opportunity &lpar;Tim O&#39;Reilly/Asimov&#39;s Addendum&rpar;](https://www.techmeme.com/260809/p4#a260809p4)
- - [Rights groups warn Turkey&#39;s new cybersecurity law, which took effect in July, gives the presidency sweeping powers over online services operating in the country &lpar;John Paul Rathbone/Financial Times&rpar;](https://www.techmeme.com/260809/p3#a260809p3)
- - [Cape Town-based Moment, a provider of digital payments and billing tools for businesses across Africa, raised a $22M Series A, taking its total funding to $55M &lpar;FinTech Global&rpar;](https://www.techmeme.com/260809/p2#a260809p2)<!-- TECH:END -->
+ - [iPhone Fold may ship in a choice of Silver or Dark Blue](https://appleinsider.com/articles/26/08/09/iphone-fold-may-ship-in-a-choice-of-silver-or-dark-blue?utm_source=rss)
+ - [Everyone thinks the iPhone Ultra will crush Samsung. They’re wrong](https://www.androidauthority.com/galaxy-z-fold-8-advantage-over-iphone-ultra-3692932/)
+ - [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
