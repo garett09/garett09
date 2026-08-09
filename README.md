@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold may ship in a choice of Silver or Dark Blue](https://appleinsider.com/articles/26/08/09/iphone-fold-may-ship-in-a-choice-of-silver-or-dark-blue?utm_source=rss)
- - [Everyone thinks the iPhone Ultra will crush Samsung. They’re wrong](https://www.androidauthority.com/galaxy-z-fold-8-advantage-over-iphone-ultra-3692932/)
- - [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion)<!-- TECH:END -->
+ - [Ceramic Apple Watch may return as soon as September](https://appleinsider.com/articles/26/08/09/ceramic-apple-watch-may-return-as-soon-as-september?utm_source=rss)
+ - [Zuckerberg&amp;#8217;s yacht was closer, but someone else saved a stranded boat](https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat)
+ - [As PC makers start using CXMT RAM chips, Apple is testing them too, but it needs a custom version for its devices, and US rules block Apple from sharing designs &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260809/p7#a260809p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
