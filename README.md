@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos users report handy drag-to-select feature has disappeared](https://www.androidauthority.com/google-photos-drag-to-select-missing-3696148/)
- - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
- - [A profile of Russia&#39;s A7, a payment network that helps Russia bypass Western sanctions, handling ~20% of payments in Russian foreign trade, or $100B+ annually &lpar;Alexander Osipovich/Wall Street Journal&rpar;](https://www.techmeme.com/260808/p8#a260808p8)<!-- TECH:END -->
+ - [Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it&#39;s good enough at catching harmful actions &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260808/p10#a260808p10)
+ - [A look at &quot;Spiralism&quot;, a quasi-spiritual movement that grew in 2025 from human-AI conversations after sycophantic GPT-4o updates and expanded ChatGPT memory &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260808/p9#a260808p9)
+ - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
