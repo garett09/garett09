@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
- - 🚯 [Need more awesome people](http://9gag.com/gag/aVvnjL8)
- - 🚯 [10000 Cable channels for free &lpar;with adds though&rpar;](http://9gag.com/gag/aGy3KyX)<!-- MEMES:END -->
+ - 🚖 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
+ - 🚯 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
+ - 🚯 [Wife Loved the Surprise Home... Until She Learned It Was in Her Husband&#39;s Name](http://9gag.com/gag/apRyKQ8)<!-- MEMES:END -->
 
 --- 
 
