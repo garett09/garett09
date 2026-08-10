@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
- - 🚯 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)
- - 🚯 [`Low caste cannot own such things.`](http://9gag.com/gag/aVvnQdv)<!-- MEMES:END -->
+ - 🚖 [Phones](http://9gag.com/gag/aGy3Vpn)
+ - 🚯 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
+ - 🚯 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)<!-- MEMES:END -->
 
 --- 
 
