@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Australian user&#39;s Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist &lpar;ABC&rpar;](https://www.techmeme.com/260809/p10#a260809p10)
- - [US data center bans top 500, up from 300+ in late June, as New York and Texas join cities and counties pushing back against data center development &lpar;Shane Burke/The Information&rpar;](https://www.techmeme.com/260809/p9#a260809p9)
- - [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast)<!-- TECH:END -->
+ - [Google Play Store’s first experimental ‘Labs’ feature lets you ‘expand everything’](https://www.androidauthority.com/google-play-store-labs-expand-everything-3696193/)
+ - [Space Agencies Are Trying to Keep Astronauts From Losing Their Sight](https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/)
+ - [A look at London&#39;s King&#39;s Cross, which transformed from a seedy area into an AI hub after DeepMind moved in in 2016, now home to OpenAI, Meta, Wayve, and others &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260810/p2#a260810p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
