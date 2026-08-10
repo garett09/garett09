@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jefferies cuts AAPL target to $263.66, downgrades to Underperform](https://appleinsider.com/articles/26/08/10/jefferies-cuts-aapl-target-to-26366-downgrades-to-underperform?utm_source=rss)
- - [Steam hardware shipper breach leaks customer data, including names and addresses](https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach)
- - [Google adds Venmo as a payment option on Google Play for games, apps, add-ons, subscriptions, and more in the US, adding to support for PayPal and Cash App &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260810/p21#a260810p21)<!-- TECH:END -->
+ - [Sources: Apollo, Blackstone, BlackRock, KKR, and other financial groups are partnering with Nvidia on a $500B funding package for AI infrastructure development &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p34#a260810p34)
+ - [Kuo pours water on rumor of $1B Apple chip stockpile at TSMC](https://appleinsider.com/articles/26/08/10/kuo-pours-water-on-rumor-of-1b-apple-chip-stockpile-at-tsmc?utm_source=rss)
+ - [Apple preps beta security updates for iOS 18, iOS 26, and macOS 26](https://appleinsider.com/articles/26/08/10/apple-preps-beta-security-updates-for-ios-18-ios-26-and-macos-26?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
