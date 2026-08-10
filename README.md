@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store’s first experimental ‘Labs’ feature lets you ‘expand everything’](https://www.androidauthority.com/google-play-store-labs-expand-everything-3696193/)
- - [Space Agencies Are Trying to Keep Astronauts From Losing Their Sight](https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/)
- - [A look at London&#39;s King&#39;s Cross, which transformed from a seedy area into an AI hub after DeepMind moved in in 2016, now home to OpenAI, Meta, Wayve, and others &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260810/p2#a260810p2)<!-- TECH:END -->
+ - [Jefferies cuts AAPL target to $263.66, downgrades to Underperform](https://appleinsider.com/articles/26/08/10/jefferies-cuts-aapl-target-to-26366-downgrades-to-underperform?utm_source=rss)
+ - [Steam hardware shipper breach leaks customer data, including names and addresses](https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach)
+ - [Google adds Venmo as a payment option on Google Play for games, apps, add-ons, subscriptions, and more in the US, adding to support for PayPal and Cash App &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260810/p21#a260810p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
