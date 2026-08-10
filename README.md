@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
- - 🚯 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
- - 🚯 [Innocence](http://9gag.com/gag/aW4KQ3Z)<!-- MEMES:END -->
+ - 🚖 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
+ - 🚯 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)
+ - 🚯 [`Low caste cannot own such things.`](http://9gag.com/gag/aVvnQdv)<!-- MEMES:END -->
 
 --- 
 
