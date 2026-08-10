@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
- - 🚯 [Brotherhood, memes, beer](http://9gag.com/gag/aLnYK9W)
- - 🚯 [From the archives, old video but still funny..](http://9gag.com/gag/axyx21n)<!-- MEMES:END -->
+ - 🚖 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - 🚯 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
+ - 🚯 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)<!-- MEMES:END -->
 
 --- 
 
