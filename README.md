@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX&#39;s earnings show X&#39;s Q2 ad revenue at $367M, down from $1.08B at Twitter in Q2 2022; Musk once said he would take its annual ad revenue to $12B in 2027 &lpar;Mike Masnick/Techdirt&rpar;](https://www.techmeme.com/260810/p44#a260810p44)
- - [Source: OpenAI head of ethics Chloé Bakalar departs after less than a year, following exits by the head of safety systems and a former head of mission alignment &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p43#a260810p43)
- - [Mcon mobile gaming controller review: Compact design with premium feel](https://appleinsider.com/articles/26/01/07/mcon-mobile-gaming-controller-review-compact-design-with-premium-feel?utm_source=rss)<!-- TECH:END -->
+ - [Owner of 1.5M-page site PatronView on a year of fighting scrapers: 214:1 bot-to-human page loads, 35K Claude crawls per referred user, Amazon bot referred none &lpar;Nick Gray/PatronView&rpar;](https://www.techmeme.com/260811/p4#a260811p4)
+ - [Your Wear OS smartwatch could soon show your workout route more accurately](https://www.androidauthority.com/wear-os-workout-routes-google-play-services-update-3696760/)
+ - [New Pixel 11 leak has good news for camera zoom, bad news for HiLight](https://www.androidauthority.com/google-pixel-11-hilight-camera-leak-3696749/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
