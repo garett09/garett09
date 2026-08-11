@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Owner of 1.5M-page site PatronView on a year of fighting scrapers: 214:1 bot-to-human page loads, 35K Claude crawls per referred user, Amazon bot referred none &lpar;Nick Gray/PatronView&rpar;](https://www.techmeme.com/260811/p4#a260811p4)
- - [Your Wear OS smartwatch could soon show your workout route more accurately](https://www.androidauthority.com/wear-os-workout-routes-google-play-services-update-3696760/)
- - [New Pixel 11 leak has good news for camera zoom, bad news for HiLight](https://www.androidauthority.com/google-pixel-11-hilight-camera-leak-3696749/)<!-- TECH:END -->
+ - [IBM and Together AI sign a $240M, multi-year deal to build an AI inference cluster on IBM Cloud, using Nvidia&#39;s HGX B300 systems, to support open-source models &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260811/p14#a260811p14)
+ - [A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call](https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/)
+ - [Claude will apply invisible watermarks to AI text and images](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
