@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM and Together AI sign a $240M, multi-year deal to build an AI inference cluster on IBM Cloud, using Nvidia&#39;s HGX B300 systems, to support open-source models &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260811/p14#a260811p14)
- - [A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call](https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/)
- - [Claude will apply invisible watermarks to AI text and images](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images)<!-- TECH:END -->
+ - [Apple fails to delay filing new App Store fees to court as Epic battle continues](https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss)
+ - [Royal Bank of Canada and Bank of Montreal agree to sell payments company Moneris to PE firm Francisco Partners for CA$2B in cash, splitting proceeds equally &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p31#a260811p31)
+ - [Google’s free streaming service now lets you pick shows and movies to watch](https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
