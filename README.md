@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lonely dad looking for players to start playing dune](http://9gag.com/gag/awyRK58)
- - 🚯 [Gemma arterton](http://9gag.com/gag/aPANGpw)
- - 🚯 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)<!-- MEMES:END -->
+ - 🚖 [Here we go](http://9gag.com/gag/ajPbAxp)
+ - 🚯 [Haha funny](http://9gag.com/gag/aZZAN19)
+ - 🚯 [Snu snu](http://9gag.com/gag/abAP069)<!-- MEMES:END -->
 
 --- 
 
