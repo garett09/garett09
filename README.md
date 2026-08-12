@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fails to delay filing new App Store fees to court as Epic battle continues](https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss)
- - [Royal Bank of Canada and Bank of Montreal agree to sell payments company Moneris to PE firm Francisco Partners for CA$2B in cash, splitting proceeds equally &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p31#a260811p31)
- - [Google’s free streaming service now lets you pick shows and movies to watch](https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand)<!-- TECH:END -->
+ - [A look at Candy Crush&#39;s continued popularity 15 years after its launch, with an estimated 81.5M MAUs and in-app revenue of $876.5M in fiscal year 2025 &lpar;Alanna Okun/Bloomberg&rpar;](https://www.techmeme.com/260811/p43#a260811p43)
+ - [Saber denies replacing Rideshare Stimulator&amp;#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
+ - [A profile of Suno, which has been used by more than 100M people since 2023 and has 2M+ paid subscribers, as it faces copyright lawsuits from UMG and Sony Music &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p42#a260811p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
