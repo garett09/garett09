@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Candy Crush&#39;s continued popularity 15 years after its launch, with an estimated 81.5M MAUs and in-app revenue of $876.5M in fiscal year 2025 &lpar;Alanna Okun/Bloomberg&rpar;](https://www.techmeme.com/260811/p43#a260811p43)
- - [Saber denies replacing Rideshare Stimulator&amp;#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
- - [A profile of Suno, which has been used by more than 100M people since 2023 and has 2M+ paid subscribers, as it faces copyright lawsuits from UMG and Sony Music &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p42#a260811p42)<!-- TECH:END -->
+ - [Some health and fitness obsessives are using AI for hyperpersonalized training, building custom dashboards and tools to analyze their sleep, workouts, and diet &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260812/p6#a260812p6)
+ - [Google Sheets makes it less of a headache to import Excel files](https://www.androidauthority.com/google-sheets-excel-pivot-tables-3697487/)
+ - [Google fixes Photos bug that removed the handy drag-to-select feature](https://www.androidauthority.com/google-photos-drag-to-select-fixed-3697467/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
