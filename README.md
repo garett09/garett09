@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here we go](http://9gag.com/gag/ajPbAxp)
- - 🚯 [Haha funny](http://9gag.com/gag/aZZAN19)
- - 🚯 [Snu snu](http://9gag.com/gag/abAP069)<!-- MEMES:END -->
+ - 🚖 [Dancing](http://9gag.com/gag/ajPbAAG)
+ - 🚯 [The multiverse?](http://9gag.com/gag/ary6R8p)
+ - 🚯 [Do what you do best!](http://9gag.com/gag/abAP0dE)<!-- MEMES:END -->
 
 --- 
 
