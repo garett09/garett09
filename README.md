@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dancing](http://9gag.com/gag/ajPbAAG)
- - 🚯 [The multiverse?](http://9gag.com/gag/ary6R8p)
- - 🚯 [Do what you do best!](http://9gag.com/gag/abAP0dE)<!-- MEMES:END -->
+ - 🚖 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)
+ - 🚯 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
+ - 🚯 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
 
 --- 
 
