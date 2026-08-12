@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)
- - 🚯 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
- - 🚯 [This guy know something...](http://9gag.com/gag/a9yQMe0)<!-- MEMES:END -->
+ - 🚖 [Lonely dad looking for players to start playing dune](http://9gag.com/gag/awyRK58)
+ - 🚯 [Gemma arterton](http://9gag.com/gag/aPANGpw)
+ - 🚯 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)<!-- MEMES:END -->
 
 --- 
 
