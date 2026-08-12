@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thrive Capital&#39;s Thrive Holdings, which acquires traditional service businesses and adds AI, raised $2B from SoftBank, D1, and others at a $12B valuation &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260812/p20#a260812p20)
- - [Google Maps could soon make it easy to clean up your list clutter](https://www.androidauthority.com/google-maps-list-hide-apk-teardown-3697285/)
- - [HONOR Robot Phone hands-on: I can’t believe it actually works this well!](https://www.androidauthority.com/honor-robot-phone-hands-on-3697387/)<!-- TECH:END -->
+ - [Sources: Kalshi is in advanced talks to raise $750M+ co-led by Sequoia Capital and Wellington Management at a $40B valuation; Kalshi was valued at $22B in May &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260812/p45#a260812p45)
+ - [Rogue AI Agents Aren’t Evil. They’re Just Eager to Please](https://www.wired.com/story/rogue-ai-is-just-misunderstood/)
+ - [Ultimate Ears WONDERBOOM 4 hits its lowest Amazon price yet](https://www.androidauthority.com/ultimate-ears-wonderboom-4-deal-3697968/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
