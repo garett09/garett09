@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some health and fitness obsessives are using AI for hyperpersonalized training, building custom dashboards and tools to analyze their sleep, workouts, and diet &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260812/p6#a260812p6)
- - [Google Sheets makes it less of a headache to import Excel files](https://www.androidauthority.com/google-sheets-excel-pivot-tables-3697487/)
- - [Google fixes Photos bug that removed the handy drag-to-select feature](https://www.androidauthority.com/google-photos-drag-to-select-fixed-3697467/)<!-- TECH:END -->
+ - [Thrive Capital&#39;s Thrive Holdings, which acquires traditional service businesses and adds AI, raised $2B from SoftBank, D1, and others at a $12B valuation &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260812/p20#a260812p20)
+ - [Google Maps could soon make it easy to clean up your list clutter](https://www.androidauthority.com/google-maps-list-hide-apk-teardown-3697285/)
+ - [HONOR Robot Phone hands-on: I can’t believe it actually works this well!](https://www.androidauthority.com/honor-robot-phone-hands-on-3697387/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
