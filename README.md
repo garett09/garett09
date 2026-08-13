@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Kalshi is in advanced talks to raise $750M+ co-led by Sequoia Capital and Wellington Management at a $40B valuation; Kalshi was valued at $22B in May &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260812/p45#a260812p45)
- - [Rogue AI Agents Aren’t Evil. They’re Just Eager to Please](https://www.wired.com/story/rogue-ai-is-just-misunderstood/)
- - [Ultimate Ears WONDERBOOM 4 hits its lowest Amazon price yet](https://www.androidauthority.com/ultimate-ears-wonderboom-4-deal-3697968/)<!-- TECH:END -->
+ - [Siri AI could get a boost from news content with new publisher deal](https://appleinsider.com/articles/26/08/13/siri-ai-could-get-a-boost-from-news-content-with-new-publisher-deal?utm_source=rss)
+ - [Sources: former Google exec Jeff Dean is in talks for $1B in funding at a ~$10B valuation for his new science and engineering-focused AI startup, Discovery Loop &lpar;Business Insider&rpar;](https://www.techmeme.com/260812/p55#a260812p55)
+ - [Pixel 11 vs. Pixel 11 Pro vs. Pixel 11 Pro XL: Google’s Latest Phones Compared](https://www.cnet.com/tech/mobile/pixel-11-vs-pixel-11-pro-vs-pixel-11-pro-xl-googles-latest-phones-compared/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
