@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)
- - 🚯 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
- - 🚯 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
+ - 🚖 [A cheater CS2 player receives special treatment from a Valve employee, who bans all of his accounts from live streams.](http://9gag.com/gag/aAyWPDR)
+ - 🚯 [Honesty](http://9gag.com/gag/abAPZ2r)
+ - 🚯 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)<!-- MEMES:END -->
 
 --- 
 
