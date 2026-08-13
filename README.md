@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another top Android brand is joining the wide-screen foldable bandwagon](https://www.androidauthority.com/xiaomi-wide-screen-foldable-leak-3698170/)
- - [Ninja Just Launched Its First Water Filter. Here’s What It Does That Others Don’t](https://www.cnet.com/home/kitchen-and-household/ninja-just-launched-its-first-water-filter-heres-what-it-does-that-others-dont/)
- - [The Best Samsung Galaxy S26 Cases &lpar;2026&rpar;: S26, S26+, and S26 Ultra](https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/)<!-- TECH:END -->
+ - [Gemini 3.7 Flash is here with better coding, reasoning, and more](https://www.androidauthority.com/gemini-3-7-flash-debut-3698440/)
+ - [US-based robot vacuum maker Matic rolls out a firmware update that lets users control its $1,245 vacuum with voice commands in more than 70 languages &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260813/p40#a260813p40)
+ - [I finally found a robot lawnmower I’d trust with my yard](https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
