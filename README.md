@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri AI could get a boost from news content with new publisher deal](https://appleinsider.com/articles/26/08/13/siri-ai-could-get-a-boost-from-news-content-with-new-publisher-deal?utm_source=rss)
- - [Sources: former Google exec Jeff Dean is in talks for $1B in funding at a ~$10B valuation for his new science and engineering-focused AI startup, Discovery Loop &lpar;Business Insider&rpar;](https://www.techmeme.com/260812/p55#a260812p55)
- - [Pixel 11 vs. Pixel 11 Pro vs. Pixel 11 Pro XL: Google’s Latest Phones Compared](https://www.cnet.com/tech/mobile/pixel-11-vs-pixel-11-pro-vs-pixel-11-pro-xl-googles-latest-phones-compared/)<!-- TECH:END -->
+ - [Gemini is about to work with a lot more of your favorite apps](https://www.androidauthority.com/google-gemini-connected-apps-3698047/)
+ - [Counterpoint: China&#39;s YMTC accounted for 14% of NAND flash shipments in Q2, behind Samsung&#39;s 25% and SK Hynix&#39;s 22%, but ahead of Micron and Kioxia &lpar;Howard Liu/South China Morning Post&rpar;](https://www.techmeme.com/260813/p12#a260813p12)
+ - [Pixel 11 trade-in deals: Get a $1,250 discount and a free Pixel Watch 5](https://www.androidauthority.com/pixel-11-trade-in-deals-3698031/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
