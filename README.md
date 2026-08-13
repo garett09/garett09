@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
- - 🚯 [A cheater CS2 player receives special treatment from a Valve employee, who bans all of his accounts from live streams.](http://9gag.com/gag/aAyWPDR)
- - 🚯 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
+ - 🚖 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
+ - 🚯 [Nice show](http://9gag.com/gag/aPANWgw)
+ - 🚯 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
 
 --- 
 
