@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini is about to work with a lot more of your favorite apps](https://www.androidauthority.com/google-gemini-connected-apps-3698047/)
- - [Counterpoint: China&#39;s YMTC accounted for 14% of NAND flash shipments in Q2, behind Samsung&#39;s 25% and SK Hynix&#39;s 22%, but ahead of Micron and Kioxia &lpar;Howard Liu/South China Morning Post&rpar;](https://www.techmeme.com/260813/p12#a260813p12)
- - [Pixel 11 trade-in deals: Get a $1,250 discount and a free Pixel Watch 5](https://www.androidauthority.com/pixel-11-trade-in-deals-3698031/)<!-- TECH:END -->
+ - [Another top Android brand is joining the wide-screen foldable bandwagon](https://www.androidauthority.com/xiaomi-wide-screen-foldable-leak-3698170/)
+ - [Ninja Just Launched Its First Water Filter. Here’s What It Does That Others Don’t](https://www.cnet.com/home/kitchen-and-household/ninja-just-launched-its-first-water-filter-heres-what-it-does-that-others-dont/)
+ - [The Best Samsung Galaxy S26 Cases &lpar;2026&rpar;: S26, S26+, and S26 Ultra](https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
