@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Life on Mars? It Remains a Tantalizing Topic for Scientific Study](https://www.cnet.com/science/space/mars-science-seeking-signs-of-life/)
- - [Best Wireless Chargers &lpar;2026&rpar;: My Picks After Testing 100+](https://www.wired.com/gallery/best-wireless-chargers/)
- - [Google’s Pixel Phones Are Getting a Tap-to-Share Feature for Contact Info and More](https://www.cnet.com/tech/google-pixel-phones-get-airdrop-like-feature-share-files-contacts/)<!-- TECH:END -->
+ - [How classic console games are coming to the Mac without emulation](https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss)
+ - [Nevada granted Tesla a robotaxi permit, but capped the fleet at 10 vehicles, not 5,000 that Tesla sought, banned airport pickups, and ordered other restrictions &lpar;Joann Muller/Axios&rpar;](https://www.techmeme.com/260814/p19#a260814p19)
+ - [A RAMageddon guide to back-to-school laptop shopping](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
