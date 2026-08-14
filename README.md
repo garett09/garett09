@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
- - 🚯 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)
- - 🚯 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)<!-- MEMES:END -->
+ - 🚖 [Dats a Long legged Croc](http://9gag.com/gag/aMVRwpX)
+ - 🚯 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - 🚯 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
 
 --- 
 
