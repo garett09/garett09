@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump declares 100 percent tariffs on many drones and all aircraft parts](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts)
- - [Current and former OpenAI employees say pressure to quickly ship products left less time for safety, contributing to incidents like the rogue agent hack &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260813/p54#a260813p54)
- - [Applied Materials reports Q3 revenue up 25% YoY to $9.12B, vs. $8.99B est., net income up 43% to $2.54B, and forecasts Q4 revenue above estimates &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p53#a260813p53)<!-- TECH:END -->
+ - [Samsung phones could finally get proper app lock with One UI 9.5](https://www.androidauthority.com/samsung-one-ui-9-5-app-lock-leak-3698657/)
+ - [Z.ai debuts GLM-5.3, using the same base model as GLM-5.2 with scaled post-training for stronger coding and cyber skills, with weights due in two weeks &lpar;Z.ai&rpar;](https://www.techmeme.com/260814/p5#a260814p5)
+ - [A look at Quincy, a rural Washington farming town of 8,500 that benefited from a data center boom as its poverty rate fell from 29.4% in 2012 to 6.2% in 2024 &lpar;Nathaniel Meyersohn/CNN&rpar;](https://www.techmeme.com/260814/p4#a260814p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
