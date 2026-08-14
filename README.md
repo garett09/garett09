@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damnn](http://9gag.com/gag/aE0rYZn)
- - 🚯 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 🚯 [Dats a Long legged Croc](http://9gag.com/gag/aMVRwpX)<!-- MEMES:END -->
+ - 🚖 [Hero without cape](http://9gag.com/gag/avyYnXd)
+ - 🚯 [Based Teal&#39;c](http://9gag.com/gag/aVvnen8)
+ - 🚯 [Crazy world](http://9gag.com/gag/aKG02Vg)<!-- MEMES:END -->
 
 --- 
 
