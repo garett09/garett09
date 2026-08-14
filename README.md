@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini 3.7 Flash is here with better coding, reasoning, and more](https://www.androidauthority.com/gemini-3-7-flash-debut-3698440/)
- - [US-based robot vacuum maker Matic rolls out a firmware update that lets users control its $1,245 vacuum with voice commands in more than 70 languages &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260813/p40#a260813p40)
- - [I finally found a robot lawnmower I’d trust with my yard](https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame)<!-- TECH:END -->
+ - [Trump declares 100 percent tariffs on many drones and all aircraft parts](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts)
+ - [Current and former OpenAI employees say pressure to quickly ship products left less time for safety, contributing to incidents like the rogue agent hack &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260813/p54#a260813p54)
+ - [Applied Materials reports Q3 revenue up 25% YoY to $9.12B, vs. $8.99B est., net income up 43% to $2.54B, and forecasts Q4 revenue above estimates &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p53#a260813p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
