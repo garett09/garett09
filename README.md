@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung phones could finally get proper app lock with One UI 9.5](https://www.androidauthority.com/samsung-one-ui-9-5-app-lock-leak-3698657/)
- - [Z.ai debuts GLM-5.3, using the same base model as GLM-5.2 with scaled post-training for stronger coding and cyber skills, with weights due in two weeks &lpar;Z.ai&rpar;](https://www.techmeme.com/260814/p5#a260814p5)
- - [A look at Quincy, a rural Washington farming town of 8,500 that benefited from a data center boom as its poverty rate fell from 29.4% in 2012 to 6.2% in 2024 &lpar;Nathaniel Meyersohn/CNN&rpar;](https://www.techmeme.com/260814/p4#a260814p4)<!-- TECH:END -->
+ - [Life on Mars? It Remains a Tantalizing Topic for Scientific Study](https://www.cnet.com/science/space/mars-science-seeking-signs-of-life/)
+ - [Best Wireless Chargers &lpar;2026&rpar;: My Picks After Testing 100+](https://www.wired.com/gallery/best-wireless-chargers/)
+ - [Google’s Pixel Phones Are Getting a Tap-to-Share Feature for Contact Info and More](https://www.cnet.com/tech/google-pixel-phones-get-airdrop-like-feature-share-files-contacts/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
