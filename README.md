@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 🚯 [Based Teal&#39;c](http://9gag.com/gag/aVvnen8)
- - 🚯 [Crazy world](http://9gag.com/gag/aKG02Vg)<!-- MEMES:END -->
+ - 🚖 [No reception party for you!!!](http://9gag.com/gag/avyYrq5)
+ - 🚯 [He finally lost the battle. He was a 16 and 0 professional boxer but his career was ended after being illegally punched by his opponent Terrell Williams which caused brain bleeding and permanent neurological damage. RIP man, you fought hard.](http://9gag.com/gag/an7pbV0)
+ - 🚯 [Just trying to push some boundaries](http://9gag.com/gag/a9yQpMm)<!-- MEMES:END -->
 
 --- 
 
