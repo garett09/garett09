@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [U.S. Commerce Secretary warns Apple against buying Chinese memory](https://appleinsider.com/articles/26/08/15/us-commerce-secretary-warns-apple-against-buying-chinese-memory?utm_source=rss)
- - [Thinking of buying the base Pixel 11? Here are 6 Pro camera features you’ll miss](https://www.androidauthority.com/missing-camera-features-pixel-11-3695959/)
- - [We’re reaching peak camera with the Sony A7R VI](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review)<!-- TECH:END -->
+ - [Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired &lpar;Alix Coutures/The Information&rpar;](https://www.techmeme.com/260815/p13#a260815p13)
+ - [The Airseekers Tron is an impressive mulching robot mower with a couple of frustrating flaws](https://www.androidauthority.com/airseekers-tron-review-3686518/)
+ - [Patent Filing Suggests Meta’s Facial Recognition Glasses Are Coming](https://www.cnet.com/news/privacy/patent-filing-suggests-metas-facial-recognition-glasses-are-coming/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
