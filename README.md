@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 🚯 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 🚯 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)<!-- MEMES:END -->
+ - 🚖 [Hollywood math at its finest](http://9gag.com/gag/ae9oemB)
+ - 🚯 [Random](http://9gag.com/gag/a5QmMrL)
+ - 🚯 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)<!-- MEMES:END -->
 
 --- 
 
