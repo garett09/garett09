@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SF-based Vals, which develops evaluations and benchmarks to test AI models on real-world tasks, raised a $40M Series A led by a16z at a $400M valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](https://www.techmeme.com/260815/p5#a260815p5)
- - [Sources: China plans to soon lift a travel ban on Manus founders as the company unwinds its $2B acquisition by Meta; CEO Xiao Hong plans to return to Singapore &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260815/p4#a260815p4)
- - [Sources: Uber and Rapido discussed merging their India ride-hailing operations in May; talks collapsed after disagreements over the proposed deal&#39;s structure &lpar;The Economic Times&rpar;](https://www.techmeme.com/260815/p3#a260815p3)<!-- TECH:END -->
+ - [U.S. Commerce Secretary warns Apple against buying Chinese memory](https://appleinsider.com/articles/26/08/15/us-commerce-secretary-warns-apple-against-buying-chinese-memory?utm_source=rss)
+ - [Thinking of buying the base Pixel 11? Here are 6 Pro camera features you’ll miss](https://www.androidauthority.com/missing-camera-features-pixel-11-3695959/)
+ - [We’re reaching peak camera with the Sony A7R VI](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
