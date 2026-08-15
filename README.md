@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No reception party for you!!!](http://9gag.com/gag/avyYrq5)
- - 🚯 [He finally lost the battle. He was a 16 and 0 professional boxer but his career was ended after being illegally punched by his opponent Terrell Williams which caused brain bleeding and permanent neurological damage. RIP man, you fought hard.](http://9gag.com/gag/an7pbV0)
- - 🚯 [Just trying to push some boundaries](http://9gag.com/gag/a9yQpMm)<!-- MEMES:END -->
+ - 🚖 [Mexican army mistakenly shoots citizens in food-for-guns program.](http://9gag.com/gag/azxNqyp)
+ - 🚯 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 🚯 [Thirsty](http://9gag.com/gag/a0eAbnB)<!-- MEMES:END -->
 
 --- 
 
