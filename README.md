@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How classic console games are coming to the Mac without emulation](https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss)
- - [Nevada granted Tesla a robotaxi permit, but capped the fleet at 10 vehicles, not 5,000 that Tesla sought, banned airport pickups, and ordered other restrictions &lpar;Joann Muller/Axios&rpar;](https://www.techmeme.com/260814/p19#a260814p19)
- - [A RAMageddon guide to back-to-school laptop shopping](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school)<!-- TECH:END -->
+ - [Waymo receives approval from the California Public Utilities Commission to expand across 18 counties, including Sacramento and San Diego &lpar;Fred Lambert/Electrek&rpar;](https://www.techmeme.com/260814/p31#a260814p31)
+ - [Sources: Nvidia has reworked a deal to finance an OpenAI Ohio data center campus so that it would initially guarantee only half of its planned $250B backstop &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260814/p30#a260814p30)
+ - [SpaceX closes its $60B acquisition of Cursor, two months after SpaceX formally announced it had agreed to acquire the startup &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p29#a260814p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
