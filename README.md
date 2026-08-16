@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired &lpar;Alix Coutures/The Information&rpar;](https://www.techmeme.com/260815/p13#a260815p13)
- - [The Airseekers Tron is an impressive mulching robot mower with a couple of frustrating flaws](https://www.androidauthority.com/airseekers-tron-review-3686518/)
- - [Patent Filing Suggests Meta’s Facial Recognition Glasses Are Coming](https://www.cnet.com/news/privacy/patent-filing-suggests-metas-facial-recognition-glasses-are-coming/)<!-- TECH:END -->
+ - [Dario Amodei shares his view on AI regulation, says open-weights aren&#39;t a &quot;sufficient&quot; solution, defends testing, highlights a &quot;crisis of trust&quot; in AI, and more &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260815/p17#a260815p17)
+ - [Disney’s Millennium Falcon Ride Activates Fortnite In-Game Rewards](https://www.cnet.com/tech/gaming/disneys-millennium-falcon-ride-activates-fortnite-in-game-rewards/)
+ - [How Congressional lawmakers and aides are using AI tools with little oversight to write speeches and news releases, sort constituent mail, and more &lpar;Anna Liss-Roy/Washington Post&rpar;](https://www.techmeme.com/260815/p16#a260815p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
