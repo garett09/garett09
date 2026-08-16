@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve used Feedly for a decade, but these 2 minimal Android apps finally replaced it](https://www.androidauthority.com/feedly-alternatives-android-app-replacements-3695670/)
- - [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)
- - [5 lost smartphone features that need to make a comeback in 2026](https://www.androidauthority.com/5-lost-smartphone-features-need-comeback-2026-3695617/)<!-- TECH:END -->
+ - [Amazon is trying to crush class-action suits before they get started](https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions)
+ - [Patients, families, doctors, and nurses are increasingly turning to AI tools, such as Face2Gene, to help identify rare and hard-to-diagnose diseases &lpar;Alex Janin/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p8#a260816p8)
+ - [Deals: AirPods 4 with ANC plunge to $134, AirTag returns to $24.99](https://appleinsider.com/articles/26/08/16/deals-airpods-4-with-anc-plunge-to-134-airtag-returns-to-2499?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
