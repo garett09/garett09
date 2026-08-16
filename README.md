@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dario Amodei shares his view on AI regulation, says open-weights aren&#39;t a &quot;sufficient&quot; solution, defends testing, highlights a &quot;crisis of trust&quot; in AI, and more &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260815/p17#a260815p17)
- - [Disney’s Millennium Falcon Ride Activates Fortnite In-Game Rewards](https://www.cnet.com/tech/gaming/disneys-millennium-falcon-ride-activates-fortnite-in-game-rewards/)
- - [How Congressional lawmakers and aides are using AI tools with little oversight to write speeches and news releases, sort constituent mail, and more &lpar;Anna Liss-Roy/Washington Post&rpar;](https://www.techmeme.com/260815/p16#a260815p16)<!-- TECH:END -->
+ - [Fields Medalist Timothy Gowers says most famous mathematics problems solved by LLMs so far have almost all been with counterexamples rather than proofs &lpar;Timothy Gowers/Gowers&#39;s Weblog&rpar;](https://www.techmeme.com/260816/p4#a260816p4)
+ - [Hugging Face says developers made 151K+ derivatives based on Qwen models, topping others, making Qwen one of the largest foundations in the open model ecosystem &lpar;Hugging Face&rpar;](https://www.techmeme.com/260816/p3#a260816p3)
+ - [BlackBerry posted a positive cash position in Q1, its first cash-positive first quarter in any fiscal year since 2017, driven by its QNX and Secusmart products &lpar;Ilya Gridneff/Financial Times&rpar;](https://www.techmeme.com/260816/p2#a260816p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
