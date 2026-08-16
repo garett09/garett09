@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
- - 🚯 [Random](http://9gag.com/gag/a5QmMrL)
- - 🚯 [Would](http://9gag.com/gag/aoyrNm2)<!-- MEMES:END -->
+ - 🚖 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
+ - 🚯 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 🚯 [I wonder how many times he goes up on her](http://9gag.com/gag/a5QmReE)<!-- MEMES:END -->
 
 --- 
 
