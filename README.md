@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
- - 🚯 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 🚯 [I wonder how many times he goes up on her](http://9gag.com/gag/a5QmReE)<!-- MEMES:END -->
+ - 🚖 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
+ - 🚯 [Nothing dampens the spirit of this vulture](http://9gag.com/gag/aByq0ND)
+ - 🚯 [Bright future for the USA](http://9gag.com/gag/aRB510B)<!-- MEMES:END -->
 
 --- 
 
