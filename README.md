@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hollywood math at its finest](http://9gag.com/gag/ae9oemB)
- - 🚯 [Random](http://9gag.com/gag/a5QmMrL)
- - 🚯 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)<!-- MEMES:END -->
+ - 🚖 [Random](http://9gag.com/gag/a5QmMrL)
+ - 🚯 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 🚯 [Dumbest man](http://9gag.com/gag/agmMn0g)<!-- MEMES:END -->
 
 --- 
 
