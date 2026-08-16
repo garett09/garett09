@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fields Medalist Timothy Gowers says most famous mathematics problems solved by LLMs so far have almost all been with counterexamples rather than proofs &lpar;Timothy Gowers/Gowers&#39;s Weblog&rpar;](https://www.techmeme.com/260816/p4#a260816p4)
- - [Hugging Face says developers made 151K+ derivatives based on Qwen models, topping others, making Qwen one of the largest foundations in the open model ecosystem &lpar;Hugging Face&rpar;](https://www.techmeme.com/260816/p3#a260816p3)
- - [BlackBerry posted a positive cash position in Q1, its first cash-positive first quarter in any fiscal year since 2017, driven by its QNX and Secusmart products &lpar;Ilya Gridneff/Financial Times&rpar;](https://www.techmeme.com/260816/p2#a260816p2)<!-- TECH:END -->
+ - [I’ve used Feedly for a decade, but these 2 minimal Android apps finally replaced it](https://www.androidauthority.com/feedly-alternatives-android-app-replacements-3695670/)
+ - [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)
+ - [5 lost smartphone features that need to make a comeback in 2026](https://www.androidauthority.com/5-lost-smartphone-features-need-comeback-2026-3695617/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
