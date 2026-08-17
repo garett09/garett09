@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Full package](http://9gag.com/gag/azxN9zq)
- - 🚯 [Butter fly](http://9gag.com/gag/aoyr5Dg)
- - 🚯 [Random](http://9gag.com/gag/a5QmMrL)<!-- MEMES:END -->
+ - 🚖 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 🚯 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
+ - 🚯 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)<!-- MEMES:END -->
 
 --- 
 
