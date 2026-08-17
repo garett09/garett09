@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qwen 3.8 27B shows a 17GB open-weight general purpose model can have long context, effective tool calling, strong vision ability, and competent code generation &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260817/p4#a260817p4)
- - [AI video generation startup Higgsfield raised $400M from DST, Goldman Sachs, Liberty Global, Intel, and others at a $5.4B valuation, up from $1.3B in January &lpar;James Fontanella-Khan/Financial Times&rpar;](https://www.techmeme.com/260817/p3#a260817p3)
- - [Chainalysis sues the US government over ICE&#39;s $94.6M contract to buy forensic software and services from its competitor TRM Labs, calling the deal &quot;arbitrary&quot; &lpar;Ezra Reguerra/Cointelegraph&rpar;](https://www.techmeme.com/260817/p2#a260817p2)<!-- TECH:END -->
+ - [Chip giants participated in startup funding rounds collectively surpassing $250B YTD; Nvidia leads the sector in deal volume with a record 59 funding rounds &lpar;Joanna Glasner/Crunchbase News&rpar;](https://www.techmeme.com/260817/p13#a260817p13)
+ - [Michigan women sue Apple over AirTag anti-stalking protection failures](https://appleinsider.com/articles/26/08/17/michigan-women-sue-apple-over-airtag-anti-stalking-protection-failures?utm_source=rss)
+ - [PSA: Android 17 QPR2 Beta 3 may mess up your home screen](https://www.androidauthority.com/android-17-qpr2-beta-3-bugs-3699240/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
