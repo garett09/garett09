@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
- - 🚯 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
- - 🚯 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
+ - 🚖 [Full package](http://9gag.com/gag/azxN9zq)
+ - 🚯 [Butter fly](http://9gag.com/gag/aoyr5Dg)
+ - 🚯 [Random](http://9gag.com/gag/a5QmMrL)<!-- MEMES:END -->
 
 --- 
 
