@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 🚯 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
- - 🚯 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)<!-- MEMES:END -->
+ - 🚖 [Proper Self defense](http://9gag.com/gag/aMVRY0R)
+ - 🚯 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
+ - 🚯 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)<!-- MEMES:END -->
 
 --- 
 
