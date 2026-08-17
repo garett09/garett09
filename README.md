@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
- - 🚯 [Nothing dampens the spirit of this vulture](http://9gag.com/gag/aByq0ND)
- - 🚯 [Bright future for the USA](http://9gag.com/gag/aRB510B)<!-- MEMES:END -->
+ - 🚖 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
+ - 🚯 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
+ - 🚯 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
 
 --- 
 
