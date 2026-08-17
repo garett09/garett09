@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip giants participated in startup funding rounds collectively surpassing $250B YTD; Nvidia leads the sector in deal volume with a record 59 funding rounds &lpar;Joanna Glasner/Crunchbase News&rpar;](https://www.techmeme.com/260817/p13#a260817p13)
- - [Michigan women sue Apple over AirTag anti-stalking protection failures](https://appleinsider.com/articles/26/08/17/michigan-women-sue-apple-over-airtag-anti-stalking-protection-failures?utm_source=rss)
- - [PSA: Android 17 QPR2 Beta 3 may mess up your home screen](https://www.androidauthority.com/android-17-qpr2-beta-3-bugs-3699240/)<!-- TECH:END -->
+ - [Apple has shipped iOS 26.6.1, and you should install it soon](https://appleinsider.com/articles/26/08/17/apple-has-shipped-ios-2661-and-you-should-install-it-soon?utm_source=rss)
+ - [Sources: the US DOJ has been investigating a16z for nearly a year over whether its partners are improperly serving on the boards of competing AI companies &lpar;Bloomberg&rpar;](https://www.techmeme.com/260817/p29#a260817p29)
+ - [Apple&#39;s sixth 27-gen developer betas arrive as the fall release draws closer](https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
