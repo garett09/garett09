@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has shipped iOS 26.6.1, and you should install it soon](https://appleinsider.com/articles/26/08/17/apple-has-shipped-ios-2661-and-you-should-install-it-soon?utm_source=rss)
- - [Sources: the US DOJ has been investigating a16z for nearly a year over whether its partners are improperly serving on the boards of competing AI companies &lpar;Bloomberg&rpar;](https://www.techmeme.com/260817/p29#a260817p29)
- - [Apple&#39;s sixth 27-gen developer betas arrive as the fall release draws closer](https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Situational Awareness offered part of its $5B Anthropic stake at a 20% discount as it scrambled for cash; word of its trouble left it &quot;being hunted&quot; &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260817/p37#a260817p37)
+ - [macOS Tahoe 26.7 beta references several unreleased products like Home Hub](https://appleinsider.com/articles/26/08/18/macos-tahoe-267-beta-references-several-unreleased-products-like-home-hub?utm_source=rss)
+ - [Planned US Data Centers Set to Produce 24M Cars’ Worth Of Carbon Dioxide](https://www.cnet.com/tech/tech-industry/planned-us-data-centers-set-to-produce-24m-cars-worth-of-co2/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
