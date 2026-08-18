@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Situational Awareness offered part of its $5B Anthropic stake at a 20% discount as it scrambled for cash; word of its trouble left it &quot;being hunted&quot; &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260817/p37#a260817p37)
- - [macOS Tahoe 26.7 beta references several unreleased products like Home Hub](https://appleinsider.com/articles/26/08/18/macos-tahoe-267-beta-references-several-unreleased-products-like-home-hub?utm_source=rss)
- - [Planned US Data Centers Set to Produce 24M Cars’ Worth Of Carbon Dioxide](https://www.cnet.com/tech/tech-industry/planned-us-data-centers-set-to-produce-24m-cars-worth-of-co2/)<!-- TECH:END -->
+ - [Rogue Studio, which calls itself a &quot;playground for creative ethical mischief&quot;, launches Rogue 1.0, an AI video tool to make adult content of Hollywood quality &lpar;Jason Parham/Wired&rpar;](https://www.techmeme.com/260818/p2#a260818p2)
+ - [Sources: AI-drafted bills are swamping the US House&#39;s Legislative Counsel, which now spends more time fixing them than it would spend to draft them from scratch &lpar;Owen Dahlkamp/Politico&rpar;](https://www.techmeme.com/260818/p1#a260818p1)
+ - [Noom Promo Codes: 50% Off Best Deals &amp; Free Trials for August 2026](https://www.wired.com/story/noom-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
