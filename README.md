@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
- - 🚯 [Proper Self defense](http://9gag.com/gag/aMVRY0R)
- - 🚯 [Wave After Wave](http://9gag.com/gag/azxNMEK)<!-- MEMES:END -->
+ - 🚖 [Magneto over here](http://9gag.com/gag/aByq26Z)
+ - 🚯 [Girls when I arrive](http://9gag.com/gag/axyxM71)
+ - 🚯 [Them](http://9gag.com/gag/a7o410q)<!-- MEMES:END -->
 
 --- 
 
