@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No sound because it is censored by North Korean goverment](http://9gag.com/gag/amojvEy)
- - 🚯 [When they hired you to fix vibecoded program](http://9gag.com/gag/a1mzWL6)
- - 🚯 [European Maid?](http://9gag.com/gag/aNDx0Y3)<!-- MEMES:END -->
+ - 🚖 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
+ - 🚯 [Proper Self defense](http://9gag.com/gag/aMVRY0R)
+ - 🚯 [Wave After Wave](http://9gag.com/gag/azxNMEK)<!-- MEMES:END -->
 
 --- 
 
