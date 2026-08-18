@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s new feature will let you remember why you added a track to your playlist](https://www.androidauthority.com/spotify-playlist-notes-3699726/)
- - [Apple’s camera-equipped AirPods just leaked, and now we know what they’ll actually do](https://www.androidauthority.com/apple-airpods-camera-demo-leak-macos-3699674/)
- - [Bizarre YouTube bug is completely wiping out comments and video details, but a fix is coming](https://www.androidauthority.com/youtube-full-screen-bug-3699709/)<!-- TECH:END -->
+ - [Apple pledges relief after deadly Indonesia earthquake](https://appleinsider.com/articles/26/08/18/apple-pledges-relief-after-deadly-indonesia-earthquake?utm_source=rss)
+ - [OpenAI says it has made several changes to its safety practices following the Hugging Face breach and has paused two weeks of deployment-focused RL training &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260818/p29#a260818p29)
+ - [Plex is giving users their old TV menu back](https://www.androidauthority.com/plex-brings-back-left-side-menu-3700033/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
