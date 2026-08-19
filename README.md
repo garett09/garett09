@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Magneto over here](http://9gag.com/gag/aByq26Z)
- - 🚯 [Girls when I arrive](http://9gag.com/gag/axyxM71)
- - 🚯 [Them](http://9gag.com/gag/a7o410q)<!-- MEMES:END -->
+ - 🚖 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
+ - 🚯 [Biggest scientific mystery on earth is the great unconformity, which is a barrier that has been observed globally where the rocks above a certain point are 500 million years old and the rocks below that line are 1.7 billion years old. 1.2 billion years of rock layers are missing](http://9gag.com/gag/aByq23P)
+ - 🚯 [Minnesota, USA, 2026.](http://9gag.com/gag/aD2pDYx)<!-- MEMES:END -->
 
 --- 
 
