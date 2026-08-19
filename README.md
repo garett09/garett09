@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block releases Berd, a desktop app it built to give its employees a single environment for working with AI agents across different models, under Apache 2.0 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260819/p4#a260819p4)
- - [FDM CCS Insight: ~134M travel eSIMs will be used in 2026, up from 101.8M in 2025, challenging established carriers that generate 3%-5% of revenue from roaming &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260819/p3#a260819p3)
- - [Uber Eats Promo Codes: $15 Off│August 2026](https://www.wired.com/story/uber-eats-promo-code/)<!-- TECH:END -->
+ - [First look: Here’s how Google Photos’ new Redact tool will work](https://www.androidauthority.com/google-photos-redact-mode-demo-apk-teardown-3700415/)
+ - [Reconstructed code from Flock&#39;s login pages shows a new AI-powered system, called OS Investigate, that integrates license plate scans, case files, and more &lpar;Wired&rpar;](https://www.techmeme.com/260819/p17#a260819p17)
+ - [The Verdict Is In: CNET Readers Trust These Mobile Carriers More Than the Major Networks](https://www.cnet.com/tech/mobile/peoples-picks-2026-mobile-carriers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
