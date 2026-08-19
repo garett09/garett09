@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cerebras unveils CS-4, a server rack powered by three WSE-3 Turbo chips and built around its new Nexus architecture, with first shipments starting this quarter &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260818/p41#a260818p41)
- - [New Google Ad Shows a Mysterious Wearable. Is It the Next Fitbit?](https://www.cnet.com/tech/mobile/new-google-ad-never-before-seen-device-next-fitbit/)
- - [Survey: 52% of Americans say they are more concerned than excited about increased AI use in daily life, up from 37% in 2021, including 55% of those under 30 &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260818/p40#a260818p40)<!-- TECH:END -->
+ - [Block releases Berd, a desktop app it built to give its employees a single environment for working with AI agents across different models, under Apache 2.0 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260819/p4#a260819p4)
+ - [FDM CCS Insight: ~134M travel eSIMs will be used in 2026, up from 101.8M in 2025, challenging established carriers that generate 3%-5% of revenue from roaming &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260819/p3#a260819p3)
+ - [Uber Eats Promo Codes: $15 Off│August 2026](https://www.wired.com/story/uber-eats-promo-code/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
