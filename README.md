@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pledges relief after deadly Indonesia earthquake](https://appleinsider.com/articles/26/08/18/apple-pledges-relief-after-deadly-indonesia-earthquake?utm_source=rss)
- - [OpenAI says it has made several changes to its safety practices following the Hugging Face breach and has paused two weeks of deployment-focused RL training &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260818/p29#a260818p29)
- - [Plex is giving users their old TV menu back](https://www.androidauthority.com/plex-brings-back-left-side-menu-3700033/)<!-- TECH:END -->
+ - [Cerebras unveils CS-4, a server rack powered by three WSE-3 Turbo chips and built around its new Nexus architecture, with first shipments starting this quarter &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260818/p41#a260818p41)
+ - [New Google Ad Shows a Mysterious Wearable. Is It the Next Fitbit?](https://www.cnet.com/tech/mobile/new-google-ad-never-before-seen-device-next-fitbit/)
+ - [Survey: 52% of Americans say they are more concerned than excited about increased AI use in daily life, up from 37% in 2021, including 55% of those under 30 &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260818/p40#a260818p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
