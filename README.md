@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First look: Here’s how Google Photos’ new Redact tool will work](https://www.androidauthority.com/google-photos-redact-mode-demo-apk-teardown-3700415/)
- - [Reconstructed code from Flock&#39;s login pages shows a new AI-powered system, called OS Investigate, that integrates license plate scans, case files, and more &lpar;Wired&rpar;](https://www.techmeme.com/260819/p17#a260819p17)
- - [The Verdict Is In: CNET Readers Trust These Mobile Carriers More Than the Major Networks](https://www.cnet.com/tech/mobile/peoples-picks-2026-mobile-carriers/)<!-- TECH:END -->
+ - [Meta brings its personal assistant app to Mac, for better and worse](https://appleinsider.com/articles/26/08/19/meta-brings-its-personal-assistant-app-to-mac-for-better-and-worse?utm_source=rss)
+ - [Watch Valve set up the Steam Frame in its own leaked videos](https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos)
+ - [Stripe agrees to buy New York-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup&#39;s founders and $6B to investors &lpar;Erin Griffith/New York Times&rpar;](https://www.techmeme.com/260819/p39#a260819p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
