@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slack launches Slack Code, adding dedicated, project-specific channels that let teams collaborate with AI coding agents &quot;like teammates&quot; across all Slack plans &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260820/p18#a260820p18)
- - [Meta glasses are a workplace menace](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security)
- - [Slack is launching collaborative vibe-coding channels](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch)<!-- TECH:END -->
+ - [Sources: Anthropic expects to match or beat the size of SpaceX&#39;s record-setting IPO, as it prepares to file publicly for its IPO as soon as the end of August &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p33#a260820p33)
+ - [Source: Anthropic plans a safety system this year requiring enterprises to retain data for 30 days, with an option to do so on their own cloud infrastructure &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260820/p32#a260820p32)
+ - [JBL Xtreme 5 drops back to its best price with $100 off at Amazon](https://www.androidauthority.com/jbl-xtreme-5-deal-3701260/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
