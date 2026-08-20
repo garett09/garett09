@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is getting tougher on Android apps that use too much memory](https://www.androidauthority.com/google-android-apps-memory-usage-enforcement-3700841/)
- - [A look at Backstory, an experimental AI image authentication tool from Google DeepMind, offered for testing to journalists, researchers, and other fact checkers &lpar;Andrew Deck/Nieman Lab&rpar;](https://www.techmeme.com/260820/p5#a260820p5)
- - [Qualcomm just teased two new Snapdragon 8 Elite chips](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-6-teaser-3700828/)<!-- TECH:END -->
+ - [Slack launches Slack Code, adding dedicated, project-specific channels that let teams collaborate with AI coding agents &quot;like teammates&quot; across all Slack plans &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260820/p18#a260820p18)
+ - [Meta glasses are a workplace menace](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security)
+ - [Slack is launching collaborative vibe-coding channels](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
