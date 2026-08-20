@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
- - 🚯 [I should start excercising.](http://9gag.com/gag/amojgv9)
- - 🚯 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)<!-- MEMES:END -->
+ - 🚖 [What happened to Derpixon?](http://9gag.com/gag/aByqnoD)
+ - 🚯 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
+ - 🚯 [3 feet.](http://9gag.com/gag/an7pzRL)<!-- MEMES:END -->
 
 --- 
 
