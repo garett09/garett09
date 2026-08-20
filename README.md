@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta brings its personal assistant app to Mac, for better and worse](https://appleinsider.com/articles/26/08/19/meta-brings-its-personal-assistant-app-to-mac-for-better-and-worse?utm_source=rss)
- - [Watch Valve set up the Steam Frame in its own leaked videos](https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos)
- - [Stripe agrees to buy New York-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup&#39;s founders and $6B to investors &lpar;Erin Griffith/New York Times&rpar;](https://www.techmeme.com/260819/p39#a260819p39)<!-- TECH:END -->
+ - [German insurance giant Munich Re agrees to acquire cyber insurance provider At-Bay for $575M; At-Bay has raised $276M and was last valued at $1.35B in 2021 &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260819/p49#a260819p49)
+ - [Schlage Sense Pro review: UWB Home Key proves itself again on this sleek smart lock](https://appleinsider.com/articles/26/08/20/schlage-sense-pro-review-uwb-home-key-proves-itself-again-on-this-sleek-smart-lock?utm_source=rss)
+ - [Google Goes Back to School With New AI Study Tools](https://www.cnet.com/tech/google-gemini-search-ai-study-tools/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
