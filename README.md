@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just comply with the Law](http://9gag.com/gag/ary6yMK)
- - 🚯 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
- - 🚯 [The Slingzooka](http://9gag.com/gag/a9yQz1W)<!-- MEMES:END -->
+ - 🚖 [3 feet.](http://9gag.com/gag/an7pzRL)
+ - 🚯 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
+ - 🚯 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)<!-- MEMES:END -->
 
 --- 
 
