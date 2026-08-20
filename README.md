@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [German insurance giant Munich Re agrees to acquire cyber insurance provider At-Bay for $575M; At-Bay has raised $276M and was last valued at $1.35B in 2021 &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260819/p49#a260819p49)
- - [Schlage Sense Pro review: UWB Home Key proves itself again on this sleek smart lock](https://appleinsider.com/articles/26/08/20/schlage-sense-pro-review-uwb-home-key-proves-itself-again-on-this-sleek-smart-lock?utm_source=rss)
- - [Google Goes Back to School With New AI Study Tools](https://www.cnet.com/tech/google-gemini-search-ai-study-tools/)<!-- TECH:END -->
+ - [Google is getting tougher on Android apps that use too much memory](https://www.androidauthority.com/google-android-apps-memory-usage-enforcement-3700841/)
+ - [A look at Backstory, an experimental AI image authentication tool from Google DeepMind, offered for testing to journalists, researchers, and other fact checkers &lpar;Andrew Deck/Nieman Lab&rpar;](https://www.techmeme.com/260820/p5#a260820p5)
+ - [Qualcomm just teased two new Snapdragon 8 Elite chips](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-6-teaser-3700828/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
