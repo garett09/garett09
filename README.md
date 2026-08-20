@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
- - 🚯 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
- - 🚯 [Magneto over here](http://9gag.com/gag/aByq26Z)<!-- MEMES:END -->
+ - 🚖 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
+ - 🚯 [I should start excercising.](http://9gag.com/gag/amojgv9)
+ - 🚯 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)<!-- MEMES:END -->
 
 --- 
 
