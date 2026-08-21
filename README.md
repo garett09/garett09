@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10/10](http://9gag.com/gag/aKG0151)
+ - 🚖 [A helping foot](http://9gag.com/gag/a6ZvXnA)
  - 🚯 [Wamen](http://9gag.com/gag/an7pO75)
- - 🚯 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)<!-- MEMES:END -->
+ - 🚯 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)<!-- MEMES:END -->
 
 --- 
 
