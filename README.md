@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GrapheneOS’ first Motorola phones will be flagships that cost more than Pixels](https://www.androidauthority.com/grapheneos-motorola-phones-pricing-3701347/)
- - [How crypto, AI, and online betting companies emerged as the biggest industries shaping the 2026 US midterm races, as corporate spending reaches a record $517M &lpar;Dawn Kopecki/Reuters&rpar;](https://www.techmeme.com/260821/p1#a260821p1)
- - [The Single English County Saying No to Palantir](https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/)<!-- TECH:END -->
+ - [This iOS 27 Shortcut Stopped My Mindless Scrolling](https://www.cnet.com/tech/mobile/this-ios-27-shortcut-stopped-my-mindless-scrolling/)
+ - [AirPods with cameras leak, Apple Maps ads, &amp; Siri AI on the AppleInsider Podcast](https://appleinsider.com/articles/26/08/21/airpods-with-cameras-leak-apple-maps-ads-siri-ai-on-the-appleinsider-podcast?utm_source=rss)
+ - [Tesla sunsets its Solar Roof tiles](https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
