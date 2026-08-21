@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This iOS 27 Shortcut Stopped My Mindless Scrolling](https://www.cnet.com/tech/mobile/this-ios-27-shortcut-stopped-my-mindless-scrolling/)
- - [AirPods with cameras leak, Apple Maps ads, &amp; Siri AI on the AppleInsider Podcast](https://appleinsider.com/articles/26/08/21/airpods-with-cameras-leak-apple-maps-ads-siri-ai-on-the-appleinsider-podcast?utm_source=rss)
- - [Tesla sunsets its Solar Roof tiles](https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued)<!-- TECH:END -->
+ - [$100 Best Buy gift cards will be $60 at stores Saturday](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal)
+ - [Google Messages group chat invite links look nearly ready to go](https://www.androidauthority.com/google-messages-group-chat-invite-links-3701647/)
+ - [Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260821/p17#a260821p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
