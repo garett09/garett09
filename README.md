@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to beat your nephew in mario kart!!](http://9gag.com/gag/a2vBvre)
- - 🚯 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)
- - 🚯 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)<!-- MEMES:END -->
+ - 🚖 [Wamen](http://9gag.com/gag/an7pO75)
+ - 🚯 [Just comply with the Law](http://9gag.com/gag/ary6yMK)
+ - 🚯 [There&#39;s happiness in many other places](http://9gag.com/gag/aYQ8G9v)<!-- MEMES:END -->
 
 --- 
 
