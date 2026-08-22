@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those are the facts.](http://9gag.com/gag/azxNPDx)
- - 🚯 [Neuron activation](http://9gag.com/gag/amojGMj)
- - 🚯 [What\u2019s the point of having all this if you spend all your time at work just to afford it?](http://9gag.com/gag/azxNdpb)<!-- MEMES:END -->
+ - 🚖 [Scary](http://9gag.com/gag/aNDxvb6)
+ - 🚯 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
+ - 🚯 [Wamen](http://9gag.com/gag/an7pO75)<!-- MEMES:END -->
 
 --- 
 
