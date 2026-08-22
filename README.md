@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [$100 Best Buy gift cards will be $60 at stores Saturday](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal)
- - [Google Messages group chat invite links look nearly ready to go](https://www.androidauthority.com/google-messages-group-chat-invite-links-3701647/)
- - [Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260821/p17#a260821p17)<!-- TECH:END -->
+ - [Sources: Anthropic&#39;s bankers said the company could raise $100B+ in its IPO, which could value it at $2T, in recent discussions with potential investors &lpar;New York Times&rpar;](https://www.techmeme.com/260821/p32#a260821p32)
+ - [Amazon raises prices for its Echo smart speakers, Fire TV line, Kindle devices, and eero mesh networking systems to offset increases in memory and storage costs &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/260821/p31#a260821p31)
+ - [Xbox Series X Special Edition Pricing Confirms 2026 Is a Bad Year for Gamers](https://www.cnet.com/tech/gaming/xbox-series-x-special-edition-price-2026-bad-year-for-gamers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
