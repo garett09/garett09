@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is starting to show ads on Pixel phones — here’s how to turn them off](https://www.androidauthority.com/ads-on-pixel-phones-how-turn-off-3699375/)
- - [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2)
- - [The 4 Best Monitor Arms to Clear Up Your Desk Space &lpar;2026&rpar;](https://www.wired.com/gallery/best-monitor-arms/)<!-- TECH:END -->
+ - [This Star Whips Around the Milky Way’s Black Hole Faster and Closer Than Any Other Known Star](https://www.cnet.com/science/space/s301-star-speed-sagittarius-a-black-hole/)
+ - [Pixel Camera 11 debuts refreshed quick access controls and a handy Launch mode](https://www.androidauthority.com/pixel-camera-11-new-quick-access-dials-launch-mode-3701763/)
+ - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
