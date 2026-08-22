@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scary](http://9gag.com/gag/aNDxvb6)
- - 🚯 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
- - 🚯 [Wamen](http://9gag.com/gag/an7pO75)<!-- MEMES:END -->
+ - 🚖 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
+ - 🚯 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 🚯 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)<!-- MEMES:END -->
 
 --- 
 
