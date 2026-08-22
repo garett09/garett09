@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
- - 🚯 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 🚯 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)<!-- MEMES:END -->
+ - 🚖 [Soon](http://9gag.com/gag/aVvnENd)
+ - 🚯 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
+ - 🚯 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)<!-- MEMES:END -->
 
 --- 
 
