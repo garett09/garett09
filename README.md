@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rundoo, a provider of AI-powered business operations software for independent supply stores, raised a $30M Series B led by Battery Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260822/p3#a260822p3)
- - [OpenAI President Greg Brockman&#39;s role has expanded significantly, giving him control over its product and scaling teams following a wave of executive departures &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260822/p2#a260822p2)
- - [Following abandoned IPO attempts in NYC and London, Shein is struggling to grow as it nears a Hong Kong listing at a fraction of its peak valuation of $100B &lpar;Sui-Lee Wee/New York Times&rpar;](https://www.techmeme.com/260822/p1#a260822p1)<!-- TECH:END -->
+ - [Google is starting to show ads on Pixel phones — here’s how to turn them off](https://www.androidauthority.com/ads-on-pixel-phones-how-turn-off-3699375/)
+ - [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2)
+ - [The 4 Best Monitor Arms to Clear Up Your Desk Space &lpar;2026&rpar;](https://www.wired.com/gallery/best-monitor-arms/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
