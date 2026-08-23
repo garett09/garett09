@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 🚯 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
- - 🚯 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)<!-- MEMES:END -->
+ - 🚯 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 🚯 [Torta](http://9gag.com/gag/aVvnmoy)<!-- MEMES:END -->
 
 --- 
 
