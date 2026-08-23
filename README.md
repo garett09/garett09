@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course &lpar;Financial Times&rpar;](https://www.techmeme.com/260823/p3#a260823p3)
- - [Sources: Flipkart Minutes, the quick commerce service of Walmart&#39;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260823/p2#a260823p2)
- - [Semiconductor cram schools are flourishing in Seoul as applications to Samsung and SK Hynix surge, fuelled by record earnings and eye-catching worker bonuses &lpar;Financial Times&rpar;](https://www.techmeme.com/260823/p1#a260823p1)<!-- TECH:END -->
+ - [The careers of Z.ai&#39;s Tang Jie and Moonshot AI&#39;s Yang Zhilin, once teacher and pupil at Tsinghua University, show that China&#39;s AI leap is no sudden development &lpar;Raffaele Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260823/p5#a260823p5)
+ - [How I fixed the most annoying thing about Claude in less than five minutes](https://www.androidauthority.com/claude-i-have-adhd-skill-how-use-3697353/)
+ - [Grand Theft Auto VI exists in its own universe](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
