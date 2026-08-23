@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Star Whips Around the Milky Way’s Black Hole Faster and Closer Than Any Other Known Star](https://www.cnet.com/science/space/s301-star-speed-sagittarius-a-black-hole/)
- - [Pixel Camera 11 debuts refreshed quick access controls and a handy Launch mode](https://www.androidauthority.com/pixel-camera-11-new-quick-access-dials-launch-mode-3701763/)
- - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)<!-- TECH:END -->
+ - [Sources and documents detail how Tether&#39;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply &lpar;Reuters&rpar;](https://www.techmeme.com/260822/p14#a260822p14)
+ - [AI agents&#39; growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents &lpar;Katherine Bindley/Wall Street Journal&rpar;](https://www.techmeme.com/260822/p13#a260822p13)
+ - [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260822/p12#a260822p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
