@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poland](http://9gag.com/gag/ae9oV4q)
- - 🚯 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 🚯 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)<!-- MEMES:END -->
+ - 🚖 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 🚯 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
+ - 🚯 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)<!-- MEMES:END -->
 
 --- 
 
