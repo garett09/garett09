@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The careers of Z.ai&#39;s Tang Jie and Moonshot AI&#39;s Yang Zhilin, once teacher and pupil at Tsinghua University, show that China&#39;s AI leap is no sudden development &lpar;Raffaele Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260823/p5#a260823p5)
- - [How I fixed the most annoying thing about Claude in less than five minutes](https://www.androidauthority.com/claude-i-have-adhd-skill-how-use-3697353/)
- - [Grand Theft Auto VI exists in its own universe](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe)<!-- TECH:END -->
+ - [Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260823/p8#a260823p8)
+ - [M6 iMac refresh expected before the end of 2026](https://appleinsider.com/articles/26/08/23/m6-imac-refresh-expected-before-the-end-of-2026?utm_source=rss)
+ - [Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&#39;s close &lpar;Reuters&rpar;](https://www.techmeme.com/260823/p7#a260823p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
