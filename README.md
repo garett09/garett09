@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Soon](http://9gag.com/gag/aVvnENd)
- - 🚯 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
- - 🚯 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)<!-- MEMES:END -->
+ - 🚖 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
+ - 🚯 [Actual journalism](http://9gag.com/gag/azxNKxq)
+ - 🚯 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)<!-- MEMES:END -->
 
 --- 
 
