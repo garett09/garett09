@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Play Store is working on a new way to find apps using images](https://www.androidauthority.com/google-play-store-ask-play-image-search-apk-teardown-3702161/)
- - [Sources: Netflix discussed adding streamers like Peacock and Fox One as it seeks to compete with YouTube and Roku in becoming a one-stop shop for TV content &lpar;John Koblin/New York Times&rpar;](https://www.techmeme.com/260824/p15#a260824p15)
- - [Amazon slashes AirTag 4-pack to $79.99, lowest price ever](https://appleinsider.com/articles/26/08/24/amazon-slashes-airtag-4-pack-to-7999-lowest-price-ever?utm_source=rss)<!-- TECH:END -->
+ - [UK PM backs Ofcom to take &quot;tough action&quot; under the OSA against social media sites failing to remove dangerous driving videos after a crash killed seven people &lpar;Raphael Boyd/The Guardian&rpar;](https://www.techmeme.com/260824/p30#a260824p30)
+ - [Apple’s 20th anniversary iPhone could take some inspiration from Android phones](https://www.androidauthority.com/apple-iphone-20th-anniversary-android-3702273/)
+ - [ESPN’s streaming plans are getting more expensive: Here’s what you’ll pay](https://www.androidauthority.com/espn-streaming-bundle-price-hikes-3702382/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
