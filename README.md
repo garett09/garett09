@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [50 cents it is!](http://9gag.com/gag/azxNGnj)
- - 🚯 [Title](http://9gag.com/gag/a9yQ8mK)
- - 🚯 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
+ - 🚖 [Git rdy hmos](http://9gag.com/gag/azxNOdj)
+ - 🚯 [Antivaxxers are a special type of retarded](http://9gag.com/gag/awyROOx)
+ - 🚯 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)<!-- MEMES:END -->
 
 --- 
 
