@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
- - 🚯 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 🚯 [Torta](http://9gag.com/gag/aVvnmoy)<!-- MEMES:END -->
+ - 🚖 [50 cents it is!](http://9gag.com/gag/azxNGnj)
+ - 🚯 [Title](http://9gag.com/gag/a9yQ8mK)
+ - 🚯 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
 
 --- 
 
