@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 🚖 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
  - 🚯 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 🚯 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)<!-- MEMES:END -->
+ - 🚯 [Torta](http://9gag.com/gag/aVvnmoy)<!-- MEMES:END -->
 
 --- 
 
