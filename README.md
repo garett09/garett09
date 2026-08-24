@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says communities that oppose data centers are &quot;making a mistake&quot; as they create &quot;tremendous amounts of jobs and money&quot;, amid bipartisan backlash &lpar;Rebecca Falconer/Axios&rpar;](https://www.techmeme.com/260823/p13#a260823p13)
- - [Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260823/p12#a260823p12)
- - [Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade &quot;a lot of liberty for safety&quot; &lpar;Truman Dickerson/Business Insider&rpar;](https://www.techmeme.com/260823/p11#a260823p11)<!-- TECH:END -->
+ - [If these Galaxy S27 Ultra renders are accurate, Samsung can’t stop Apple copycat claims](https://www.androidauthority.com/samsung-galaxy-s27-ultra-render-leak-3701790/)
+ - [Oxford Economics: US corporate spending on equipment and facilities is set to rise 40% between 2021 and 2027, over 3x faster than Europe, driven by the AI race &lpar;Financial Times&rpar;](https://www.techmeme.com/260824/p3#a260824p3)
+ - [Sony’s Xperia 10 VIII just leaked ahead of its big reveal](https://www.androidauthority.com/new-sony-xperia-10-leaked-image-3701831/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
