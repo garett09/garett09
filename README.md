@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If these Galaxy S27 Ultra renders are accurate, Samsung can’t stop Apple copycat claims](https://www.androidauthority.com/samsung-galaxy-s27-ultra-render-leak-3701790/)
- - [Oxford Economics: US corporate spending on equipment and facilities is set to rise 40% between 2021 and 2027, over 3x faster than Europe, driven by the AI race &lpar;Financial Times&rpar;](https://www.techmeme.com/260824/p3#a260824p3)
- - [Sony’s Xperia 10 VIII just leaked ahead of its big reveal](https://www.androidauthority.com/new-sony-xperia-10-leaked-image-3701831/)<!-- TECH:END -->
+ - [The Google Play Store is working on a new way to find apps using images](https://www.androidauthority.com/google-play-store-ask-play-image-search-apk-teardown-3702161/)
+ - [Sources: Netflix discussed adding streamers like Peacock and Fox One as it seeks to compete with YouTube and Roku in becoming a one-stop shop for TV content &lpar;John Koblin/New York Times&rpar;](https://www.techmeme.com/260824/p15#a260824p15)
+ - [Amazon slashes AirTag 4-pack to $79.99, lowest price ever](https://appleinsider.com/articles/26/08/24/amazon-slashes-airtag-4-pack-to-7999-lowest-price-ever?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
