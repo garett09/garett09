@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260823/p8#a260823p8)
- - [M6 iMac refresh expected before the end of 2026](https://appleinsider.com/articles/26/08/23/m6-imac-refresh-expected-before-the-end-of-2026?utm_source=rss)
- - [Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&#39;s close &lpar;Reuters&rpar;](https://www.techmeme.com/260823/p7#a260823p7)<!-- TECH:END -->
+ - [Trump says communities that oppose data centers are &quot;making a mistake&quot; as they create &quot;tremendous amounts of jobs and money&quot;, amid bipartisan backlash &lpar;Rebecca Falconer/Axios&rpar;](https://www.techmeme.com/260823/p13#a260823p13)
+ - [Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260823/p12#a260823p12)
+ - [Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade &quot;a lot of liberty for safety&quot; &lpar;Truman Dickerson/Business Insider&rpar;](https://www.techmeme.com/260823/p11#a260823p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
