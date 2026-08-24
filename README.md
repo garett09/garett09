@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 🚯 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 🚯 [Torta](http://9gag.com/gag/aVvnmoy)<!-- MEMES:END -->
+ - 🚖 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 🚯 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 🚯 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)<!-- MEMES:END -->
 
 --- 
 
