@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit co-founders James Park and Eric Friedman unveil the $250 Luffu Link, a screenless, jewelry-inspired LTE health and safety band, set to ship in early 2027 &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260825/p15#a260825p15)
- - [The OLED Xbox Ally X20 officially starts at $1,300](https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300)
- - [Emerald AI, which uses AI to optimize data center power consumption based on grid demands, raised $150M led by DCVC and Energize Capital at a $1.05B valuation &lpar;Sri Muppidi/New York Times&rpar;](https://www.techmeme.com/260825/p14#a260825p14)<!-- TECH:END -->
+ - [The US Just Recorded Its First 2 Measles Deaths This Year](https://www.wired.com/story/us-recorded-first-measles-deaths-2026/)
+ - [Take a look at Microsoft&amp;#8217;s new 25th anniversary Halo accessories](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories)
+ - [Garmin fēnix 9 series introduces titanium cases, solar charging, and smarter stamina tracking](https://www.androidauthority.com/garmin-launches-fenix-9-series-3702819/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
