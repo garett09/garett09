@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Git rdy hmos](http://9gag.com/gag/azxNOdj)
- - 🚯 [Antivaxxers are a special type of retarded](http://9gag.com/gag/awyROOx)
+ - 🚖 [Dayum](http://9gag.com/gag/a5Qm20o)
+ - 🚯 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
  - 🚯 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)<!-- MEMES:END -->
 
 --- 
