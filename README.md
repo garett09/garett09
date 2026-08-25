@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)
+ - 🚖 [NCAA National Champion Lucas Byrd and his wife Ellie](http://9gag.com/gag/ayNgQgV)
  - 🚯 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 🚯 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)<!-- MEMES:END -->
+ - 🚯 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)<!-- MEMES:END -->
 
 --- 
 
