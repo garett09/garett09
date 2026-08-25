@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK PM backs Ofcom to take &quot;tough action&quot; under the OSA against social media sites failing to remove dangerous driving videos after a crash killed seven people &lpar;Raphael Boyd/The Guardian&rpar;](https://www.techmeme.com/260824/p30#a260824p30)
- - [Apple’s 20th anniversary iPhone could take some inspiration from Android phones](https://www.androidauthority.com/apple-iphone-20th-anniversary-android-3702273/)
- - [ESPN’s streaming plans are getting more expensive: Here’s what you’ll pay](https://www.androidauthority.com/espn-streaming-bundle-price-hikes-3702382/)<!-- TECH:END -->
+ - [Quintessent, a startup making optical interconnects for data centers, raised a $40M Series A led by Cycle Capital, following its $11.4M seed round in 2024 &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/260824/p38#a260824p38)
+ - [Nuki Smart Lock &amp; Keypad 2 NFC review: A low-profile lock with Apple Home Key support](https://appleinsider.com/articles/26/08/25/nuki-smart-lock-keypad-2-nfc-review-a-low-profile-lock-with-apple-home-key-support?utm_source=rss)
+ - [Smart TV analytics provide dire numbers for Apple TV F1 viewership, but not whole story](https://appleinsider.com/articles/26/08/25/smart-tv-analytics-provide-dire-numbers-for-apple-tv-f1-viewership-but-not-whole-story?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
