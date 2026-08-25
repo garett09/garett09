@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 🚯 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
- - 🚯 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)<!-- MEMES:END -->
+ - 🚖 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
+ - 🚯 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
+ - 🚯 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)<!-- MEMES:END -->
 
 --- 
 
