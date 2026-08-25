@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia&#39;s ARIA says songs created mostly or entirely by AI will be excluded from its charts; a song that used AI became the most-played song on radio in July &lpar;Cam Wilson/ABC&rpar;](https://www.techmeme.com/260825/p3#a260825p3)
- - [The AYN Odin 3 is getting another price hike, but you can avoid it by acting fast](https://www.androidauthority.com/ayn-odin-3-price-increase-august-3702507/)
- - [Omega Just Released a Mini Moonwatch](https://www.wired.com/story/omega-just-released-a-mini-moonwatch/)<!-- TECH:END -->
+ - [Fitbit co-founders James Park and Eric Friedman unveil the $250 Luffu Link, a screenless, jewelry-inspired LTE health and safety band, set to ship in early 2027 &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260825/p15#a260825p15)
+ - [The OLED Xbox Ally X20 officially starts at $1,300](https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300)
+ - [Emerald AI, which uses AI to optimize data center power consumption based on grid demands, raised $150M led by DCVC and Energize Capital at a $1.05B valuation &lpar;Sri Muppidi/New York Times&rpar;](https://www.techmeme.com/260825/p14#a260825p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
