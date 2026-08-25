@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
- - 🚯 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
- - 🚯 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)<!-- MEMES:END -->
+ - 🚖 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)
+ - 🚯 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
+ - 🚯 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)<!-- MEMES:END -->
 
 --- 
 
