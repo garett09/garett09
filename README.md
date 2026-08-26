@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus ROG Kithara headset review: Audiophile gaming](https://appleinsider.com/articles/26/08/26/asus-rog-kithara-headset-review-audiophile-gaming?utm_source=rss)
- - [South Korean AI services platform Wrtn raised a ~$72.2M Series C at a $722M+ valuation, bringing its total funding to ~$166M &lpar;Joyce Lee/Reuters&rpar;](https://www.techmeme.com/260825/p46#a260825p46)
- - [Luffu’s New Health and Safety Wearable Isn’t Just for You. It’s for Your Entire Family](https://www.cnet.com/tech/mobile/new-health-safety-wearable-for-entire-family/)<!-- TECH:END -->
+ - [A look at China&#39;s push to automate manufacturing, which employs 120 million people, amid a shrinking population and aging workforce, raising job loss concerns &lpar;Laura Bicker/BBC&rpar;](https://www.techmeme.com/260826/p7#a260826p7)
+ - [Source: Transport for London&#39;s delay in producing robotaxi guidance has frustrated some prospective operators, who play down the chances of starting this year &lpar;Financial Times&rpar;](https://www.techmeme.com/260826/p6#a260826p6)
+ - [Intel reveals that Xeon 7, aimed at HPC and debuting in 2027, will support up to 256 cores and 22 chiplets, with 16 built on its bleeding-edge 18A-P process &lpar;Tobias Mann/The Register&rpar;](https://www.techmeme.com/260826/p5#a260826p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
