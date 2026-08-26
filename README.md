@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 🚯 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 🚯 [Lost her rizz](http://9gag.com/gag/agmM4dv)<!-- MEMES:END -->
+ - 🚖 [So very sad.](http://9gag.com/gag/aByqOj2)
+ - 🚯 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)
+ - 🚯 [Im I a inferior copy](http://9gag.com/gag/aXPD206)<!-- MEMES:END -->
 
 --- 
 
