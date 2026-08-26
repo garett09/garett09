@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [So very sad.](http://9gag.com/gag/aByqOj2)
- - 🚯 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)
+ - 🚯 [You are not a garage](http://9gag.com/gag/aoyr81n)
  - 🚯 [Im I a inferior copy](http://9gag.com/gag/aXPD206)<!-- MEMES:END -->
 
 --- 
