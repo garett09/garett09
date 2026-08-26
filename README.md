@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Ultra motherboard may just have leaked](https://appleinsider.com/articles/26/08/26/iphone-ultra-motherboard-may-just-have-leaked?utm_source=rss)
- - [Rockstar finally responds to &amp;#8216;heartbreaking&amp;#8217; GTA 6 leaks](https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking)
- - [Microsoft faces investor criticism over opaque financial reporting across capex, its OpenAI deal, and Azure, which is buried in the Intelligent Cloud segment &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260826/p25#a260826p25)<!-- TECH:END -->
+ - [Android phones could soon gain the power to shut down, restart, or put your PC to sleep remotely](https://www.androidauthority.com/phone-link-remote-shutdown-restart-sleep-3703529/)
+ - [OpenAI publishes a technical report on the Hugging Face incident, detailing the agents&#39; activity, safeguard failures, and measures to prevent recurrence &lpar;OpenAI&rpar;](https://www.techmeme.com/260826/p50#a260826p50)
+ - [Medical device manufacturer Boston Scientific says a cyberattack disrupted some of its IT systems and global operations, including order processing and shipping &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260826/p49#a260826p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
