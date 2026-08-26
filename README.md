@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Just Recorded Its First 2 Measles Deaths This Year](https://www.wired.com/story/us-recorded-first-measles-deaths-2026/)
- - [Take a look at Microsoft&amp;#8217;s new 25th anniversary Halo accessories](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories)
- - [Garmin fēnix 9 series introduces titanium cases, solar charging, and smarter stamina tracking](https://www.androidauthority.com/garmin-launches-fenix-9-series-3702819/)<!-- TECH:END -->
+ - [Asus ROG Kithara headset review: Audiophile gaming](https://appleinsider.com/articles/26/08/26/asus-rog-kithara-headset-review-audiophile-gaming?utm_source=rss)
+ - [South Korean AI services platform Wrtn raised a ~$72.2M Series C at a $722M+ valuation, bringing its total funding to ~$166M &lpar;Joyce Lee/Reuters&rpar;](https://www.techmeme.com/260825/p46#a260825p46)
+ - [Luffu’s New Health and Safety Wearable Isn’t Just for You. It’s for Your Entire Family](https://www.cnet.com/tech/mobile/new-health-safety-wearable-for-entire-family/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
