@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at China&#39;s push to automate manufacturing, which employs 120 million people, amid a shrinking population and aging workforce, raising job loss concerns &lpar;Laura Bicker/BBC&rpar;](https://www.techmeme.com/260826/p7#a260826p7)
- - [Source: Transport for London&#39;s delay in producing robotaxi guidance has frustrated some prospective operators, who play down the chances of starting this year &lpar;Financial Times&rpar;](https://www.techmeme.com/260826/p6#a260826p6)
- - [Intel reveals that Xeon 7, aimed at HPC and debuting in 2027, will support up to 256 cores and 22 chiplets, with 16 built on its bleeding-edge 18A-P process &lpar;Tobias Mann/The Register&rpar;](https://www.techmeme.com/260826/p5#a260826p5)<!-- TECH:END -->
+ - [iPhone Ultra motherboard may just have leaked](https://appleinsider.com/articles/26/08/26/iphone-ultra-motherboard-may-just-have-leaked?utm_source=rss)
+ - [Rockstar finally responds to &amp;#8216;heartbreaking&amp;#8217; GTA 6 leaks](https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking)
+ - [Microsoft faces investor criticism over opaque financial reporting across capex, its OpenAI deal, and Azure, which is buried in the Intelligent Cloud segment &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260826/p25#a260826p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
