@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)
- - 🚯 [Replacing problems with opportunities](http://9gag.com/gag/aO8gRq3)
- - 🚯 [Fk you..but also..love you](http://9gag.com/gag/a7o4pmx)<!-- MEMES:END -->
+ - 🚖 [Banned For A Reason](http://9gag.com/gag/ae9oWbj)
+ - 🚯 [Restoration project gone wrong](http://9gag.com/gag/a9yQBmo)
+ - 🚯 [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)<!-- MEMES:END -->
 
 --- 
 
