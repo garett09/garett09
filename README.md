@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So very sad.](http://9gag.com/gag/aByqOj2)
- - 🚯 [You are not a garage](http://9gag.com/gag/aoyr81n)
- - 🚯 [Im I a inferior copy](http://9gag.com/gag/aXPD206)<!-- MEMES:END -->
+ - 🚖 [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)
+ - 🚯 [Replacing problems with opportunities](http://9gag.com/gag/aO8gRq3)
+ - 🚯 [Fk you..but also..love you](http://9gag.com/gag/a7o4pmx)<!-- MEMES:END -->
 
 --- 
 
