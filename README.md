@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android phones could soon gain the power to shut down, restart, or put your PC to sleep remotely](https://www.androidauthority.com/phone-link-remote-shutdown-restart-sleep-3703529/)
- - [OpenAI publishes a technical report on the Hugging Face incident, detailing the agents&#39; activity, safeguard failures, and measures to prevent recurrence &lpar;OpenAI&rpar;](https://www.techmeme.com/260826/p50#a260826p50)
- - [Medical device manufacturer Boston Scientific says a cyberattack disrupted some of its IT systems and global operations, including order processing and shipping &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260826/p49#a260826p49)<!-- TECH:END -->
+ - [Google’s upcoming app memory limits could help budget phones run smoothly, but at what cost?](https://www.androidauthority.com/google-android-app-memory-limits-3703702/)
+ - [The UK Power Grid Has a Phantom Data Center Problem](https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/)
+ - [Indian IT giant TCS agrees to acquire Porsche&#39;s IT consulting business, MHP, for €320M as part of a five-year, €1.25B contract to provide AI services to Porsche &lpar;Priyanka Salve/CNBC&rpar;](https://www.techmeme.com/260827/p7#a260827p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
