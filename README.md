@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s upcoming app memory limits could help budget phones run smoothly, but at what cost?](https://www.androidauthority.com/google-android-app-memory-limits-3703702/)
- - [The UK Power Grid Has a Phantom Data Center Problem](https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/)
- - [Indian IT giant TCS agrees to acquire Porsche&#39;s IT consulting business, MHP, for €320M as part of a five-year, €1.25B contract to provide AI services to Porsche &lpar;Priyanka Salve/CNBC&rpar;](https://www.techmeme.com/260827/p7#a260827p7)<!-- TECH:END -->
+ - [Get ready for YouTubers to start stuffing Amazon affiliate links in their content](https://www.androidauthority.com/amazon-joins-youtube-affiliate-program-3704181/)
+ - [The Powerful Stealth AI Model ‘Ox Alpha’ Is Now GLM-5.3-Flash, and You Can Use It](https://www.cnet.com/tech/services-and-software/the-powerful-stealth-ai-model-ox-alpha-is-glm-5-3-flash-and-you-can-use-it-now/)
+ - [Lost Google Maps’ big navigation upgrade? Your new Pixel 11 might be to blame](https://www.androidauthority.com/pixel-11-google-maps-immersive-navigation-missing-3704172/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
