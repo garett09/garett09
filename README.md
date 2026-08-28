@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Should have been me.](http://9gag.com/gag/a5QmDry)
- - 🚯 [Wait, that&#39;s illegal](http://9gag.com/gag/aYQ8RPN)
- - 🚯 [The MEGA GOAT](http://9gag.com/gag/azxN4pm)<!-- MEMES:END -->
+ - 🚖 [I don’t know what sins he committed, but I hope they were forgiven 😭](https://www.reddit.com/r/funny/comments/1w13mwq/i_dont_know_what_sins_he_committed_but_i_hope/)
+ - 🚯 [Le Mans in the 1980s](http://9gag.com/gag/a0eAWZv)
+ - 🚯 [Nepal floods](http://9gag.com/gag/aAyWNe0)<!-- MEMES:END -->
 
 --- 
 
