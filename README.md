@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get ready for YouTubers to start stuffing Amazon affiliate links in their content](https://www.androidauthority.com/amazon-joins-youtube-affiliate-program-3704181/)
- - [The Powerful Stealth AI Model ‘Ox Alpha’ Is Now GLM-5.3-Flash, and You Can Use It](https://www.cnet.com/tech/services-and-software/the-powerful-stealth-ai-model-ox-alpha-is-glm-5-3-flash-and-you-can-use-it-now/)
- - [Lost Google Maps’ big navigation upgrade? Your new Pixel 11 might be to blame](https://www.androidauthority.com/pixel-11-google-maps-immersive-navigation-missing-3704172/)<!-- TECH:END -->
+ - [Breaking: Galaxy S26 series gets seventh One UI 9 beta release with new AI features](https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-7-3704232/)
+ - [The first phone with three 200MP cameras &lpar;!&rpar; is coming soon, and we have high hopes](https://www.androidauthority.com/first-phone-three-200mp-cameras-3704215/)
+ - [Sources: some tech companies are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260828/p1#a260828p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
