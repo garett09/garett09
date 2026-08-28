@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Banned For A Reason](http://9gag.com/gag/ae9oWbj)
- - 🚯 [Restoration project gone wrong](http://9gag.com/gag/a9yQBmo)
- - 🚯 [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)<!-- MEMES:END -->
+ - 🚖 [Should have been me.](http://9gag.com/gag/a5QmDry)
+ - 🚯 [Wait, that&#39;s illegal](http://9gag.com/gag/aYQ8RPN)
+ - 🚯 [The MEGA GOAT](http://9gag.com/gag/azxN4pm)<!-- MEMES:END -->
 
 --- 
 
