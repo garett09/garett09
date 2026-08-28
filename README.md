@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: Galaxy S26 series gets seventh One UI 9 beta release with new AI features](https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-7-3704232/)
- - [The first phone with three 200MP cameras &lpar;!&rpar; is coming soon, and we have high hopes](https://www.androidauthority.com/first-phone-three-200mp-cameras-3704215/)
- - [Sources: some tech companies are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260828/p1#a260828p1)<!-- TECH:END -->
+ - [Google rounds the week out with Android 17 QPR2 Beta 4 for Pixel testers](https://www.androidauthority.com/android-17-qpr2-beta-4-3704596/)
+ - [Apple&#39;s Kentucky iPhone glass plant will add 200 permanent jobs](https://appleinsider.com/articles/26/08/28/apples-kentucky-iphone-glass-plant-will-add-200-permanent-jobs?utm_source=rss)
+ - [Meta intensifies its pressure campaign on TikTok and YouTube, running full-page ads in US newspapers demanding they adopt comparable teen safety protections &lpar;Alexandra S. Levine/Bloomberg&rpar;](https://www.techmeme.com/260828/p21#a260828p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
