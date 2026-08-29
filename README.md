@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don’t know what sins he committed, but I hope they were forgiven 😭](https://www.reddit.com/r/funny/comments/1w13mwq/i_dont_know_what_sins_he_committed_but_i_hope/)
- - 🚯 [Le Mans in the 1980s](http://9gag.com/gag/a0eAWZv)
- - 🚯 [Nepal floods](http://9gag.com/gag/aAyWNe0)<!-- MEMES:END -->
+ - 🚖 [This is probably why we can&#39;t find any cities from before the last ice age.](http://9gag.com/gag/avyYXnW)
+ - 🚯 [Stress level: max](http://9gag.com/gag/aE0rEWn)
+ - 🚯 [A new weight loss machine getting viral among young women with exceptional satisfaction rate](http://9gag.com/gag/aNDxq73)<!-- MEMES:END -->
 
 --- 
 
