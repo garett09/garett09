@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nepal floods](http://9gag.com/gag/aAyWNe0)
- - 🚯 [Purpose](http://9gag.com/gag/azxNBPz)
- - 🚯 [Paid to eat meat is a win win..](http://9gag.com/gag/aMVRD2A)<!-- MEMES:END -->
+ - 🚖 [Weird Al and Huey Lewis’ parody of American Psycho](https://www.reddit.com/r/funny/comments/1w1wpmf/weird_al_and_huey_lewis_parody_of_american_psycho/)
+ - 🚯 [Nice view](http://9gag.com/gag/aO8gjWr)
+ - 🚯 [I love her more each day!](http://9gag.com/gag/a6Zv3X9)<!-- MEMES:END -->
 
 --- 
 
