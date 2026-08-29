@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rounds the week out with Android 17 QPR2 Beta 4 for Pixel testers](https://www.androidauthority.com/android-17-qpr2-beta-4-3704596/)
- - [Apple&#39;s Kentucky iPhone glass plant will add 200 permanent jobs](https://appleinsider.com/articles/26/08/28/apples-kentucky-iphone-glass-plant-will-add-200-permanent-jobs?utm_source=rss)
- - [Meta intensifies its pressure campaign on TikTok and YouTube, running full-page ads in US newspapers demanding they adopt comparable teen safety protections &lpar;Alexandra S. Levine/Bloomberg&rpar;](https://www.techmeme.com/260828/p21#a260828p21)<!-- TECH:END -->
+ - [Meituan reports Q2 revenue up 14.4% YoY to $15.62B and adjusted net profit of $372M, ending a three-quarter losing streak as the food delivery price war cooled &lpar;Ben Jiang/South China Morning Post&rpar;](https://www.techmeme.com/260829/p2#a260829p2)
+ - [Jio Platforms, which owns India&#39;s largest carrier and counts Meta and Google as investors, gets regulatory approval to float India&#39;s largest-ever IPO of ~$4B &lpar;Vallari Sanzgiri/The Hindu BusinessLine&rpar;](https://www.techmeme.com/260829/p1#a260829p1)
+ - [CXMT sues the Pentagon over its Chinese military company designation, saying it isn&#39;t affiliated with the Chinese military and its chips aren&#39;t for military use &lpar;Reuters&rpar;](https://www.techmeme.com/260828/p29#a260828p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
