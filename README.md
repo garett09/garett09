@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is probably why we can&#39;t find any cities from before the last ice age.](http://9gag.com/gag/avyYXnW)
- - 🚯 [Stress level: max](http://9gag.com/gag/aE0rEWn)
- - 🚯 [A new weight loss machine getting viral among young women with exceptional satisfaction rate](http://9gag.com/gag/aNDxq73)<!-- MEMES:END -->
+ - 🚖 [Nepal floods](http://9gag.com/gag/aAyWNe0)
+ - 🚯 [Purpose](http://9gag.com/gag/azxNBPz)
+ - 🚯 [Paid to eat meat is a win win..](http://9gag.com/gag/aMVRD2A)<!-- MEMES:END -->
 
 --- 
 
