@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Spark is almost a dream AI assistant — except for 1 thing Perplexity does better](https://www.androidauthority.com/gemini-spark-vs-perplexity-computer-3703364/)
- - [Musicians-turned-detectives are hunting for AI grifters](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai)
- - [The Pixel 11 Pro’s HiLight feature looks cool, but it’s missing 5 big features](https://www.androidauthority.com/pixel-11-pro-hilight-missing-features-3701835/)<!-- TECH:END -->
+ - [Job listings and other indicators: SpaceX is working on a Bastrop, TX foundry to build blades for large gas turbines, which could ease its AI power crunch &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260829/p14#a260829p14)
+ - [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice)
+ - [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
