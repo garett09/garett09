@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Based..](http://9gag.com/gag/a0eAD0X)
- - 🚯 [Know your rights](http://9gag.com/gag/aZZA4QW)
- - 🚯 [Autism in a video: Digging a bunker with a spoonshovel](http://9gag.com/gag/aO8gnoN)<!-- MEMES:END -->
+ - 🚖 [Finally](http://9gag.com/gag/abAPozX)
+ - 🚯 [Christmas classics](http://9gag.com/gag/azxNvKp)
+ - 🚯 [The younger generation does not want jobs, they want to be TikTok influencers.](http://9gag.com/gag/aPANzKw)<!-- MEMES:END -->
 
 --- 
 
