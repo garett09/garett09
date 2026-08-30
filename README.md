@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weird Al and Huey Lewis’ parody of American Psycho](https://www.reddit.com/r/funny/comments/1w1wpmf/weird_al_and_huey_lewis_parody_of_american_psycho/)
- - 🚯 [Nice view](http://9gag.com/gag/aO8gjWr)
- - 🚯 [I love her more each day!](http://9gag.com/gag/a6Zv3X9)<!-- MEMES:END -->
+ - 🚖 [Mother of the year](http://9gag.com/gag/a4Pergp)
+ - 🚯 [Cap? Is this a genius or stupid?](http://9gag.com/gag/aW4KNZ6)
+ - 🚯 [The Look](http://9gag.com/gag/aZZAV29)<!-- MEMES:END -->
 
 --- 
 
