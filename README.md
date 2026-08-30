@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras)
- - [Ternus takeover won&#39;t mean a mass Apple exec exodus](https://appleinsider.com/articles/26/08/30/ternus-takeover-wont-mean-a-mass-apple-exec-exodus?utm_source=rss)
- - [Why RAMageddon Might Force Apps and Operating Systems’ Performance to Suck Less](https://www.cnet.com/tech/services-and-software/why-ramageddon-might-force-apps-and-operating-systems-performance-to-suck-less/)<!-- TECH:END -->
+ - [Sunday Reboot: Mac scheduling and the Ternus Cook-out](https://appleinsider.com/articles/26/08/30/sunday-reboot-mac-scheduling-and-the-ternus-cook-out?utm_source=rss)
+ - [California court revives lawsuit accusing Apple of blocking independent repairs](https://appleinsider.com/articles/26/08/30/california-court-revives-lawsuit-accusing-apple-of-blocking-independent-repairs?utm_source=rss)
+ - [Analysis: AI chatbots challenged or didn&#39;t respond to 90%+ of 15 false narratives spread by Russia, China, and Iran; AI overviews did it 60%+ of the time &lpar;Huo Jingnan/NPR&rpar;](https://www.techmeme.com/260830/p9#a260830p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
