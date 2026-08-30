@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Music producers are calling out tracks suspected of using AI tools like Suno, as the internet becomes increasingly filled with AI-generated music &lpar;Charles Pulliam-Moore/The Verge&rpar;](https://www.techmeme.com/260829/p17#a260829p17)
- - [California&#39;s legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope &lpar;Luke James/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260829/p16#a260829p16)
- - [Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions &lpar;Sheena Meng/Bloomberg&rpar;](https://www.techmeme.com/260829/p15#a260829p15)<!-- TECH:END -->
+ - [5 Android phones you should buy instead of the Google Pixel 11 Pro Fold](https://www.androidauthority.com/google-pixel-11-pro-fold-alternatives-3698460/)
+ - [Why the Hottest New Wearables Want to Be Ignored](https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/)
+ - [The OpenAI/Hugging Face incident feels &quot;more than 50%&quot; of the way to a full-blown AI takeover and as AI advances rapidly we may not get another warning shot &lpar;Ajeya Cotra/Planned Obsolescence&rpar;](https://www.techmeme.com/260830/p5#a260830p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
