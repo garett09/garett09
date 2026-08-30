@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android phones you should buy instead of the Google Pixel 11 Pro Fold](https://www.androidauthority.com/google-pixel-11-pro-fold-alternatives-3698460/)
- - [Why the Hottest New Wearables Want to Be Ignored](https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/)
- - [The OpenAI/Hugging Face incident feels &quot;more than 50%&quot; of the way to a full-blown AI takeover and as AI advances rapidly we may not get another warning shot &lpar;Ajeya Cotra/Planned Obsolescence&rpar;](https://www.techmeme.com/260830/p5#a260830p5)<!-- TECH:END -->
+ - [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras)
+ - [Ternus takeover won&#39;t mean a mass Apple exec exodus](https://appleinsider.com/articles/26/08/30/ternus-takeover-wont-mean-a-mass-apple-exec-exodus?utm_source=rss)
+ - [Why RAMageddon Might Force Apps and Operating Systems’ Performance to Suck Less](https://www.cnet.com/tech/services-and-software/why-ramageddon-might-force-apps-and-operating-systems-performance-to-suck-less/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
