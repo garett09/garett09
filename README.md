@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sign me up for this immediate solitude](http://9gag.com/gag/aKG0nVQ)
- - 🚯 [Magic](http://9gag.com/gag/an7p0eq)
- - 🚯 [Kids need to learn that sometimes things don&#39;t go your way.](http://9gag.com/gag/ae9oyVq)<!-- MEMES:END -->
+ - 🚖 [Based..](http://9gag.com/gag/a0eAD0X)
+ - 🚯 [Know your rights](http://9gag.com/gag/aZZA4QW)
+ - 🚯 [Autism in a video: Digging a bunker with a spoonshovel](http://9gag.com/gag/aO8gnoN)<!-- MEMES:END -->
 
 --- 
 
