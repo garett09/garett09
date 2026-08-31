@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christmas classics](http://9gag.com/gag/azxNvKp)
+ - 🚖 [Thai chef&#39;s reaction to Gordon Ramsay&#39;s cooking](http://9gag.com/gag/aNDx8O6)
  - 🚯 [Know your rights](http://9gag.com/gag/aZZA4QW)
- - 🚯 [Paphos, Cyprus 26.08.29](http://9gag.com/gag/axyxQWK)<!-- MEMES:END -->
+ - 🚯 [You are on the other side of the law](http://9gag.com/gag/adBZWED)<!-- MEMES:END -->
 
 --- 
 
