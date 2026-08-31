@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Potential Apple RAM supplier CXMT sues feds to take it off the supplier blacklist](https://appleinsider.com/articles/26/08/31/potential-apple-ram-supplier-cxmt-sues-feds-to-take-it-off-the-supplier-blacklist?utm_source=rss)
- - [A Chinese court froze up to $300M of assets held by Dutch chipmaker Nexperia, giving its Chinese parent company Wingtech leverage in its bid to regain control &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260831/p13#a260831p13)
- - [Just How Water-Resistant Is Apple’s iPhone? I Tested It in My Swimming Pool](https://www.cnet.com/tech/mobile/apple-iphone-water-resistant-test-swimming-pool/)<!-- TECH:END -->
+ - [The Best Labor Day Mattress Deals On Beds We’ve Tried In Our Homes](https://www.wired.com/story/labor-day-mattress-deals-2026/)
+ - [JMGO’s very bright all-in-one projector looks ideal for gamers and sports](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs)
+ - [Florida says it is revoking permits for Flock cameras and similar license-plate readers on state roads and no longer intends to issue such permits &lpar;Ryan Gillespie/Orlando Sentinel&rpar;](https://www.techmeme.com/260831/p41#a260831p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
