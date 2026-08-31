@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates Maps to show Lake America for US users, Lake Ontario for Canadian users, and both for the rest of the world, citing the US GNIS&#39; name change &lpar;Associated Press&rpar;](https://www.techmeme.com/260830/p14#a260830p14)
- - [The US-led AI boom is offsetting the global growth squeeze from the energy crunch; ING says the boom accounts for about a third of recent US economic growth &lpar;Jason Douglas/Wall Street Journal&rpar;](https://www.techmeme.com/260830/p13#a260830p13)
- - [Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260830/p12#a260830p12)<!-- TECH:END -->
+ - [Potential Apple RAM supplier CXMT sues feds to take it off the supplier blacklist](https://appleinsider.com/articles/26/08/31/potential-apple-ram-supplier-cxmt-sues-feds-to-take-it-off-the-supplier-blacklist?utm_source=rss)
+ - [A Chinese court froze up to $300M of assets held by Dutch chipmaker Nexperia, giving its Chinese parent company Wingtech leverage in its bid to regain control &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260831/p13#a260831p13)
+ - [Just How Water-Resistant Is Apple’s iPhone? I Tested It in My Swimming Pool](https://www.cnet.com/tech/mobile/apple-iphone-water-resistant-test-swimming-pool/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
