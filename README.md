@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally](http://9gag.com/gag/abAPozX)
- - 🚯 [Christmas classics](http://9gag.com/gag/azxNvKp)
- - 🚯 [The younger generation does not want jobs, they want to be TikTok influencers.](http://9gag.com/gag/aPANzKw)<!-- MEMES:END -->
+ - 🚖 [Christmas classics](http://9gag.com/gag/azxNvKp)
+ - 🚯 [Know your rights](http://9gag.com/gag/aZZA4QW)
+ - 🚯 [Paphos, Cyprus 26.08.29](http://9gag.com/gag/axyxQWK)<!-- MEMES:END -->
 
 --- 
 
