@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thai chef&#39;s reaction to Gordon Ramsay&#39;s cooking](http://9gag.com/gag/aNDx8O6)
- - 🚯 [Know your rights](http://9gag.com/gag/aZZA4QW)
- - 🚯 [You are on the other side of the law](http://9gag.com/gag/adBZWED)<!-- MEMES:END -->
+ - 🚖 [Pedro Pascal when he gets anxiety](http://9gag.com/gag/a349zm8)
+ - 🚯 [Christmas classics](http://9gag.com/gag/azxNvKp)
+ - 🚯 [Release the tension](http://9gag.com/gag/ajPb3wp)<!-- MEMES:END -->
 
 --- 
 
