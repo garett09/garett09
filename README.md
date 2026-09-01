@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pedro Pascal when he gets anxiety](http://9gag.com/gag/a349zm8)
- - 🚯 [Christmas classics](http://9gag.com/gag/azxNvKp)
- - 🚯 [Release the tension](http://9gag.com/gag/ajPb3wp)<!-- MEMES:END -->
+ - 🚖 [You are on the other side of the law](http://9gag.com/gag/adBZWED)
+ - 🚯 [Looks like a trap](http://9gag.com/gag/aoyr6dg)
+ - 🚯 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)<!-- MEMES:END -->
 
 --- 
 
