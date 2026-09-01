@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro almost died.](http://9gag.com/gag/aQzwbZw)
- - 🚯 [Looks like a trap](http://9gag.com/gag/aoyr6dg)
- - 🚯 [A woman\u2019s reaction to another woman](http://9gag.com/gag/an7p32L)<!-- MEMES:END -->
+ - 🚖 [Found this](https://www.reddit.com/r/funny/comments/1w4o4xn/found_this/)
+ - 🚯 [Not today death.](http://9gag.com/gag/a6ZvgBm)
+ - 🚯 [Yup...](http://9gag.com/gag/a9yQ0jj)<!-- MEMES:END -->
 
 --- 
 
