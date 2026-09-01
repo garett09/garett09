@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A consortium of 21 banks, including Bank of America, Citigroup, and Goldman Sachs, plans to establish a company and launch its stablecoin venture in H1 2027 &lpar;Gina Heeb/Wall Street Journal&rpar;](https://www.techmeme.com/260901/p26#a260901p26)
- - [DataAgent, which is developing AI agents that autonomously fix failures inside companies&#39; own cloud infrastructure, emerges from stealth with a $10M pre-seed &lpar;CTech&rpar;](https://www.techmeme.com/260901/p25#a260901p25)
- - [Apple still hasn&#39;t started building its North Carolina campus](https://appleinsider.com/articles/26/09/01/five-years-on-apple-still-hasnt-started-its-north-carolina-campus?utm_source=rss)<!-- TECH:END -->
+ - [Dell reports Q2 revenue up 58% YoY to $46.97B, vs. $44.92B est., and forecasts $192B in FY 2027 revenue, vs. $172.67B est.; DELL jumps 9%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260901/p45#a260901p45)
+ - [OpenAI says Astra is its first model to reach its &quot;Critical&quot; cyber threshold and warns safeguards may mistakenly flag legitimate activity as cyber misuse &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260901/p44#a260901p44)
+ - [On first listen, the Sonos Beam Ultra sounds great](https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
