@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Labor Day Mattress Deals On Beds We’ve Tried In Our Homes](https://www.wired.com/story/labor-day-mattress-deals-2026/)
- - [JMGO’s very bright all-in-one projector looks ideal for gamers and sports](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs)
- - [Florida says it is revoking permits for Flock cameras and similar license-plate readers on state roads and no longer intends to issue such permits &lpar;Ryan Gillespie/Orlando Sentinel&rpar;](https://www.techmeme.com/260831/p41#a260831p41)<!-- TECH:END -->
+ - [Today’s NYT Mini Crossword Answers for Tuesday, Sept. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-1/)
+ - [Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking &lpar;Anthropic&rpar;](https://www.techmeme.com/260831/p43#a260831p43)
+ - [uGreen NASync DXP4800 Pro review: Sweet spot of price &amp; performance](https://appleinsider.com/articles/26/08/31/ugreen-nasync-dxp4800-pro-review-sweet-spot-of-price-performance?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
