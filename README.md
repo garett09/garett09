@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Best Sleep Tracker Picks for Optimizing Your Sleep &lpar;2026&rpar;](https://www.wired.com/story/best-sleep-trackers/)
- - [Shein ends flat at ~$6.20 per share on its first day of trading on the Hong Kong stock exchange, giving it a $26B market cap after raising $1.7B in its IPO &lpar;Jing Yang/The Information&rpar;](https://www.techmeme.com/260901/p9#a260901p9)
- - [Google’s new Extreme Charging on the Pixel 11 Pro XL has a heat problem](https://www.androidauthority.com/pixel-11-pro-extreme-charging-tested-heat-problem-3703479/)<!-- TECH:END -->
+ - [A consortium of 21 banks, including Bank of America, Citigroup, and Goldman Sachs, plans to establish a company and launch its stablecoin venture in H1 2027 &lpar;Gina Heeb/Wall Street Journal&rpar;](https://www.techmeme.com/260901/p26#a260901p26)
+ - [DataAgent, which is developing AI agents that autonomously fix failures inside companies&#39; own cloud infrastructure, emerges from stealth with a $10M pre-seed &lpar;CTech&rpar;](https://www.techmeme.com/260901/p25#a260901p25)
+ - [Apple still hasn&#39;t started building its North Carolina campus](https://appleinsider.com/articles/26/09/01/five-years-on-apple-still-hasnt-started-its-north-carolina-campus?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
