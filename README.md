@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s NYT Mini Crossword Answers for Tuesday, Sept. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-1/)
- - [Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking &lpar;Anthropic&rpar;](https://www.techmeme.com/260831/p43#a260831p43)
- - [uGreen NASync DXP4800 Pro review: Sweet spot of price &amp; performance](https://appleinsider.com/articles/26/08/31/ugreen-nasync-dxp4800-pro-review-sweet-spot-of-price-performance?utm_source=rss)<!-- TECH:END -->
+ - [3 Best Sleep Tracker Picks for Optimizing Your Sleep &lpar;2026&rpar;](https://www.wired.com/story/best-sleep-trackers/)
+ - [Shein ends flat at ~$6.20 per share on its first day of trading on the Hong Kong stock exchange, giving it a $26B market cap after raising $1.7B in its IPO &lpar;Jing Yang/The Information&rpar;](https://www.techmeme.com/260901/p9#a260901p9)
+ - [Google’s new Extreme Charging on the Pixel 11 Pro XL has a heat problem](https://www.androidauthority.com/pixel-11-pro-extreme-charging-tested-heat-problem-3703479/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
