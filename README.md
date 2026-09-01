@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)
- - 🚯 [Bruuuuuuh](http://9gag.com/gag/ae9oE6b)
- - 🚯 [You are on the other side of the law](http://9gag.com/gag/adBZWED)<!-- MEMES:END -->
+ - 🚖 [Bro almost died.](http://9gag.com/gag/aQzwbZw)
+ - 🚯 [Looks like a trap](http://9gag.com/gag/aoyr6dg)
+ - 🚯 [A woman\u2019s reaction to another woman](http://9gag.com/gag/an7p32L)<!-- MEMES:END -->
 
 --- 
 
