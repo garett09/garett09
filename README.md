@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 11 notifications are the last straw for many readers sick of phone ads](https://www.androidauthority.com/pixel-11-ads-on-smartphones-poll-results-3705986/)
- - [Robotics and AI startup Lyte, founded by ex-Face ID engineers, raised $165M led by Maverick Silicon at a $1.6B valuation, taking its total funding to $272M &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260902/p10#a260902p10)
- - [I downloaded Android 17 QPR2 Beta 4. These 3 features instantly upgraded my Pixel](https://www.androidauthority.com/android-17-qpr2-beta-4-hands-on-3705624/)<!-- TECH:END -->
+ - [Google dodges another breakup attempt](https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision)
+ - [This Googlebook app just leaked in its entirety, and you can already try it on your phone](https://www.androidauthority.com/googlebook-look-up-app-play-store-3706244/)
+ - [Google launches Gemini 3.8 Flash, three weeks after 3.7 Flash launch, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31 &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260902/p27#a260902p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
