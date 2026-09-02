@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ve seen all of her movies](http://9gag.com/gag/amojwej)
- - 🚯 [The Grace, Beauty, and Elegance of this young woman](http://9gag.com/gag/adBZA4j)
- - 🚯 [GTA VI: India.](http://9gag.com/gag/a9yQGmW)<!-- MEMES:END -->
+ - 🚖 [Which one would you come home to?](http://9gag.com/gag/aW4K5zq)
+ - 🚯 [On this day in 1997](http://9gag.com/gag/a4Peggp)
+ - 🚯 [Woman refuses to pay after eating her dinner because `it wasn&#39;t done to her liking`](http://9gag.com/gag/awyR2WB)<!-- MEMES:END -->
 
 --- 
 
