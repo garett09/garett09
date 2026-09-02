@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Found this](https://www.reddit.com/r/funny/comments/1w4o4xn/found_this/)
- - 🚯 [Not today death.](http://9gag.com/gag/a6ZvgBm)
- - 🚯 [Yup...](http://9gag.com/gag/a9yQ0jj)<!-- MEMES:END -->
+ - 🚖 [The Grace, Beauty, and Elegance of this young woman](http://9gag.com/gag/adBZA4j)
+ - 🚯 [Looks like a trap](http://9gag.com/gag/aoyr6dg)
+ - 🚯 [The boss arrived](http://9gag.com/gag/aYQ869N)<!-- MEMES:END -->
 
 --- 
 
