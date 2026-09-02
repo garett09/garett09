@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI&#39;s Astra model uses &quot;recurrent depth&quot;, a technique that improves cost and performance but obscures the AI&#39;s reasoning, making it harder to monitor &lpar;The Information&rpar;](https://www.techmeme.com/260901/p61#a260901p61)
- - [Sources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest &lpar;Bloomberg&rpar;](https://www.techmeme.com/260901/p60#a260901p60)
- - [Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260901/p59#a260901p59)<!-- TECH:END -->
+ - [Pixel 11 notifications are the last straw for many readers sick of phone ads](https://www.androidauthority.com/pixel-11-ads-on-smartphones-poll-results-3705986/)
+ - [Robotics and AI startup Lyte, founded by ex-Face ID engineers, raised $165M led by Maverick Silicon at a $1.6B valuation, taking its total funding to $272M &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260902/p10#a260902p10)
+ - [I downloaded Android 17 QPR2 Beta 4. These 3 features instantly upgraded my Pixel](https://www.androidauthority.com/android-17-qpr2-beta-4-hands-on-3705624/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
