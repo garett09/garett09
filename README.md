@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Which one would you come home to?](http://9gag.com/gag/aW4K5zq)
- - 🚯 [On this day in 1997](http://9gag.com/gag/a4Peggp)
- - 🚯 [Woman refuses to pay after eating her dinner because `it wasn&#39;t done to her liking`](http://9gag.com/gag/awyR2WB)<!-- MEMES:END -->
+ - 🚖 [Hope this is appreciated here.](http://9gag.com/gag/ae9o8Yq)
+ - 🚯 [The M-She-U experience](http://9gag.com/gag/aVvn68P)
+ - 🚯 [Those poor men.](http://9gag.com/gag/aGy35Q0)<!-- MEMES:END -->
 
 --- 
 
