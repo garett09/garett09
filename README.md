@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Grace, Beauty, and Elegance of this young woman](http://9gag.com/gag/adBZA4j)
- - 🚯 [Looks like a trap](http://9gag.com/gag/aoyr6dg)
- - 🚯 [The boss arrived](http://9gag.com/gag/aYQ869N)<!-- MEMES:END -->
+ - 🚖 [I&#39;ve seen all of her movies](http://9gag.com/gag/amojwej)
+ - 🚯 [The Grace, Beauty, and Elegance of this young woman](http://9gag.com/gag/adBZA4j)
+ - 🚯 [GTA VI: India.](http://9gag.com/gag/a9yQGmW)<!-- MEMES:END -->
 
 --- 
 
