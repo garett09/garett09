@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell reports Q2 revenue up 58% YoY to $46.97B, vs. $44.92B est., and forecasts $192B in FY 2027 revenue, vs. $172.67B est.; DELL jumps 9%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260901/p45#a260901p45)
- - [OpenAI says Astra is its first model to reach its &quot;Critical&quot; cyber threshold and warns safeguards may mistakenly flag legitimate activity as cyber misuse &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260901/p44#a260901p44)
- - [On first listen, the Sonos Beam Ultra sounds great](https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen)<!-- TECH:END -->
+ - [Source: OpenAI&#39;s Astra model uses &quot;recurrent depth&quot;, a technique that improves cost and performance but obscures the AI&#39;s reasoning, making it harder to monitor &lpar;The Information&rpar;](https://www.techmeme.com/260901/p61#a260901p61)
+ - [Sources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest &lpar;Bloomberg&rpar;](https://www.techmeme.com/260901/p60#a260901p60)
+ - [Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260901/p59#a260901p59)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
