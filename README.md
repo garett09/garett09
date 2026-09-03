@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Loudoun County, Virginia, dubbed &quot;Data Center Alley&quot;, which hosts ~250 data centers and offers a glimpse into data centers&#39; impact on communities &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260902/p48#a260902p48)
- - [Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing](https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/)
- - [Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](https://www.techmeme.com/260902/p47#a260902p47)<!-- TECH:END -->
+ - [How some parents, mostly mothers, use AI to help them organize their families&#39; schedules and automate mundane household tasks via apps like Ollie and Cozi Max &lpar;Valeriya Safronova/Financial Times&rpar;](https://www.techmeme.com/260903/p11#a260903p11)
+ - [Google Chrome just gave its Gemini side panel a feature it should’ve had years ago](https://www.androidauthority.com/attachments-on-gemini-chrome-3706796/)
+ - [Anker unveils the Eufy MindBase, a local AI hub for its cameras that runs an on-device, Anker-developed LLM, with a dedicated AI chip and up to 48TB of storage &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](https://www.techmeme.com/260903/p10#a260903p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
