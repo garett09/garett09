@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even better](http://9gag.com/gag/a87PxKO)
- - 🚯 [Which one would you come home to?](http://9gag.com/gag/aW4K5zq)
- - 🚯 [Hey! Hey!](http://9gag.com/gag/a7o4xRL)<!-- MEMES:END -->
+ - 🚖 [Backyard Archaeology](http://9gag.com/gag/azxNpnq)
+ - 🚯 [Those fools - the plebs elsewhere now may get dangerous ideas.](http://9gag.com/gag/aNDx7A4)
+ - 🚯 [Gonna back in tiiiiime](http://9gag.com/gag/axyxqWW)<!-- MEMES:END -->
 
 --- 
 
