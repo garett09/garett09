@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: OpenAI told two House Democrats that its engineers are developing &quot;automated shutdown capabilities&quot; for AI systems &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260902/p38#a260902p38)
- - [Apple&#39;s smart home display could be coming soon, sounds amazing](https://appleinsider.com/articles/26/09/02/apples-smart-home-display-could-be-coming-soon-sounds-amazing?utm_source=rss)
- - [Mark Zuckerberg says Meta&#39;s Watermelon model and Muse Spark open weights are &quot;coming soon&quot; &lpar;Mark Zuckerberg/@finkd&rpar;](https://www.techmeme.com/260902/p37#a260902p37)<!-- TECH:END -->
+ - [A look at Loudoun County, Virginia, dubbed &quot;Data Center Alley&quot;, which hosts ~250 data centers and offers a glimpse into data centers&#39; impact on communities &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260902/p48#a260902p48)
+ - [Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing](https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/)
+ - [Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](https://www.techmeme.com/260902/p47#a260902p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
