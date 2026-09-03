@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How some parents, mostly mothers, use AI to help them organize their families&#39; schedules and automate mundane household tasks via apps like Ollie and Cozi Max &lpar;Valeriya Safronova/Financial Times&rpar;](https://www.techmeme.com/260903/p11#a260903p11)
- - [Google Chrome just gave its Gemini side panel a feature it should’ve had years ago](https://www.androidauthority.com/attachments-on-gemini-chrome-3706796/)
- - [Anker unveils the Eufy MindBase, a local AI hub for its cameras that runs an on-device, Anker-developed LLM, with a dedicated AI chip and up to 48TB of storage &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](https://www.techmeme.com/260903/p10#a260903p10)<!-- TECH:END -->
+ - [Apple AirPods Pro 3 are down to $199 during Amazon&#39;s Labor Day Sale](https://appleinsider.com/articles/26/09/03/apple-airpods-pro-3-are-down-to-199-during-amazons-labor-day-sale?utm_source=rss)
+ - [Maxed-out iPhone Ultra likely to break the $3,000 mark](https://appleinsider.com/articles/26/09/03/maxed-out-iphone-ultra-likely-to-break-the-3000-mark?utm_source=rss)
+ - [Amazon drops the Razer Huntsman V3 Pro TKL back to its all-time low at $124.99](https://www.androidauthority.com/amazon-drops-razer-huntsman-v3-pro-3707054/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
