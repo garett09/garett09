@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First victim of A.I.](http://9gag.com/gag/apRyZpB)
- - 🚯 [That was so close to ending very badly](http://9gag.com/gag/aVvn6O2)
- - 🚯 [Telepathic](http://9gag.com/gag/aNDxEo4)<!-- MEMES:END -->
+ - 🚖 [Even better](http://9gag.com/gag/a87PxKO)
+ - 🚯 [Which one would you come home to?](http://9gag.com/gag/aW4K5zq)
+ - 🚯 [Hey! Hey!](http://9gag.com/gag/a7o4xRL)<!-- MEMES:END -->
 
 --- 
 
