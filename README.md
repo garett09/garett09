@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirPods Pro 3 are down to $199 during Amazon&#39;s Labor Day Sale](https://appleinsider.com/articles/26/09/03/apple-airpods-pro-3-are-down-to-199-during-amazons-labor-day-sale?utm_source=rss)
- - [Maxed-out iPhone Ultra likely to break the $3,000 mark](https://appleinsider.com/articles/26/09/03/maxed-out-iphone-ultra-likely-to-break-the-3000-mark?utm_source=rss)
- - [Amazon drops the Razer Huntsman V3 Pro TKL back to its all-time low at $124.99](https://www.androidauthority.com/amazon-drops-razer-huntsman-v3-pro-3707054/)<!-- TECH:END -->
+ - [GPT-6 Astra scores 62.7% on ARC-AGI-3 with the standard harness and 99.9% with a new provider adapter harness; Claude Opus 5 scored 30.2%, and GPT-5.6 Sol 7.8% &lpar;Greg Kamradt/ARC Prize&rpar;](https://www.techmeme.com/260903/p40#a260903p40)
+ - [Global chemical giant BASF sues Apple over Face ID tech](https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss)
+ - [Digital Wellbeing could soon give you a weekly reality check](https://www.androidauthority.com/google-digital-wellbeing-weekly-wrap-3707169/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
