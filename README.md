@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPT-6 Astra scores 62.7% on ARC-AGI-3 with the standard harness and 99.9% with a new provider adapter harness; Claude Opus 5 scored 30.2%, and GPT-5.6 Sol 7.8% &lpar;Greg Kamradt/ARC Prize&rpar;](https://www.techmeme.com/260903/p40#a260903p40)
- - [Global chemical giant BASF sues Apple over Face ID tech](https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss)
- - [Digital Wellbeing could soon give you a weekly reality check](https://www.androidauthority.com/google-digital-wellbeing-weekly-wrap-3707169/)<!-- TECH:END -->
+ - [Vals analysis: open-weight models performing multi-stage tasks, like building a web app, can have an environmental impact 10K times greater than simple queries &lpar;Bloomberg&rpar;](https://www.techmeme.com/260903/p50#a260903p50)
+ - [HomePods may finally get surround sound through four connected speakers](https://appleinsider.com/articles/26/09/04/homepods-may-finally-get-surround-sound-through-four-connected-speakers?utm_source=rss)
+ - [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
