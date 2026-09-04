@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even better](http://9gag.com/gag/a87PxKO)
- - 🚯 [Telepathic](http://9gag.com/gag/aNDxEo4)
- - 🚯 [Old and corny, need some entertainment](http://9gag.com/gag/ary67y5)<!-- MEMES:END -->
+ - 🚖 [Please enjoy](http://9gag.com/gag/aMVRo0G)
+ - 🚯 [Fed-up judge in the Lindsay Clancy case admonishing jurors who are refusing to follow his instructions to apply the laws as written because they didn&#39;t like how the laws work](http://9gag.com/gag/aGy3mmZ)
+ - 🚯 [Like where?](http://9gag.com/gag/a3496dr)<!-- MEMES:END -->
 
 --- 
 
