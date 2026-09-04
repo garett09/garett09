@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch 8’s latest beta update fixes pesky AOD bug that showed the wrong time &lpar;!&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-8-one-ui-9-beta-2-3707529/)
- - [I tested 2 of the best Android foldables of 2026. Here’s how to avoid buying the wrong one](https://www.androidauthority.com/galaxy-z-fold-8-vs-razr-fold-hands-on-3704049/)
- - [Reolink’s new security camera has a clever way to address blind spots](https://www.androidauthority.com/reolink-omvi-2i-ultra-launch-3707580/)<!-- TECH:END -->
+ - [Google’s Pixel Tablet quietly gains support for Quick Share iPhone transfers](https://www.androidauthority.com/google-pixel-tablet-quick-share-apple-iphone-3707731/)
+ - [Sources: Abu Dhabi-based AI company G42 is exploring selling a majority stake to American companies to maintain access to advanced AI chips beyond April 2027 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260904/p20#a260904p20)
+ - [Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation](https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
