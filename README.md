@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Earth is not normal anymore](http://9gag.com/gag/aVvnyjK)
- - 🚯 [Backyard Archaeology](http://9gag.com/gag/azxNpnq)
- - 🚯 [In 1997, a 17-year-old student from Sweden recorded himself imitating the sound of an engine just to make his friends laugh, and the rest is history.](http://9gag.com/gag/amojegy)<!-- MEMES:END -->
+ - 🚖 [Even better](http://9gag.com/gag/a87PxKO)
+ - 🚯 [Telepathic](http://9gag.com/gag/aNDxEo4)
+ - 🚯 [Old and corny, need some entertainment](http://9gag.com/gag/ary67y5)<!-- MEMES:END -->
 
 --- 
 
