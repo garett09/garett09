@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vals analysis: open-weight models performing multi-stage tasks, like building a web app, can have an environmental impact 10K times greater than simple queries &lpar;Bloomberg&rpar;](https://www.techmeme.com/260903/p50#a260903p50)
- - [HomePods may finally get surround sound through four connected speakers](https://appleinsider.com/articles/26/09/04/homepods-may-finally-get-surround-sound-through-four-connected-speakers?utm_source=rss)
- - [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40)<!-- TECH:END -->
+ - [Galaxy Watch 8’s latest beta update fixes pesky AOD bug that showed the wrong time &lpar;!&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-8-one-ui-9-beta-2-3707529/)
+ - [I tested 2 of the best Android foldables of 2026. Here’s how to avoid buying the wrong one](https://www.androidauthority.com/galaxy-z-fold-8-vs-razr-fold-hands-on-3704049/)
+ - [Reolink’s new security camera has a clever way to address blind spots](https://www.androidauthority.com/reolink-omvi-2i-ultra-launch-3707580/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
