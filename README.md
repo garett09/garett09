@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please enjoy](http://9gag.com/gag/aMVRo0G)
- - 🚯 [Fed-up judge in the Lindsay Clancy case admonishing jurors who are refusing to follow his instructions to apply the laws as written because they didn&#39;t like how the laws work](http://9gag.com/gag/aGy3mmZ)
- - 🚯 [Like where?](http://9gag.com/gag/a3496dr)<!-- MEMES:END -->
+ - 🚖 [Can we just call it The Mummy 3?](http://9gag.com/gag/a1mzyYY)
+ - 🚯 [Irony..](http://9gag.com/gag/aGy3m8z)
+ - 🚯 [Ytho](http://9gag.com/gag/ary6QX6)<!-- MEMES:END -->
 
 --- 
 
