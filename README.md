@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Backyard Archaeology](http://9gag.com/gag/azxNpnq)
- - 🚯 [Those fools - the plebs elsewhere now may get dangerous ideas.](http://9gag.com/gag/aNDx7A4)
- - 🚯 [Gonna back in tiiiiime](http://9gag.com/gag/axyxqWW)<!-- MEMES:END -->
+ - 🚖 [Earth is not normal anymore](http://9gag.com/gag/aVvnyjK)
+ - 🚯 [Backyard Archaeology](http://9gag.com/gag/azxNpnq)
+ - 🚯 [In 1997, a 17-year-old student from Sweden recorded himself imitating the sound of an engine just to make his friends laugh, and the rest is history.](http://9gag.com/gag/amojegy)<!-- MEMES:END -->
 
 --- 
 
