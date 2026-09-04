@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel Tablet quietly gains support for Quick Share iPhone transfers](https://www.androidauthority.com/google-pixel-tablet-quick-share-apple-iphone-3707731/)
- - [Sources: Abu Dhabi-based AI company G42 is exploring selling a majority stake to American companies to maintain access to advanced AI chips beyond April 2027 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260904/p20#a260904p20)
- - [Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation](https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/)<!-- TECH:END -->
+ - [Google’s new Gemini feature aimed at multitaskers is starting to roll out](https://www.androidauthority.com/gemini-overlay-minimize-button-rollout-3707874/)
+ - [Infinite home power with the Anker SOLIX E10 Whole Home Backup System](https://www.androidauthority.com/anker-solix-e10-3701899/)
+ - [Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260904/p27#a260904p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
