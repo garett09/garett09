@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos on Android just got an iPhone feature I’ve waited a year for — how to use it now](https://www.androidauthority.com/google-photos-android-app-manual-stacks-how-to-3707900/)
- - [5 Android apps you should use instead of Google Keep](https://www.androidauthority.com/google-keep-alternatives-android-apps-3705410/)
- - [Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’](https://www.wired.com/story/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday/)<!-- TECH:END -->
+ - [Content creators drop the ball](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad)
+ - [Welcome to Your Keyboard-Free Future. This Jazzy AI Microphone Is All You Need Now](https://www.cnet.com/uncategorized/relay-q-microphone-ai-voice-control/)
+ - [I Can’t Put the Galaxy Z Fold 8 Down. Can Apple’s Foldable Change That?](https://www.cnet.com/tech/mobile/i-cant-put-the-galaxy-z-fold-8-down-can-apples-foldable-change-that/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
