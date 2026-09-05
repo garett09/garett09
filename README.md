@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge Lets Musk Keep ‘Twitter’ for Now but Forces Him to Release the Bird](https://www.cnet.com/news/social-media/judge-lets-musk-keep-twitter-forces-release-of-bird/)
- - [Google patches an actively exploited zero-day flaw in Chrome that could potentially allow remote code execution within Chrome&#39;s sandboxed renderer process &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260904/p36#a260904p36)
- - [Automakers Want Congress to Ban Chinese-Made Cars, Citing Data Privacy](https://www.cnet.com/home/electric-vehicles/automakers-want-congress-to-ban-chinese-made-cars-citing-data-privacy/)<!-- TECH:END -->
+ - [Google Photos on Android just got an iPhone feature I’ve waited a year for — how to use it now](https://www.androidauthority.com/google-photos-android-app-manual-stacks-how-to-3707900/)
+ - [5 Android apps you should use instead of Google Keep](https://www.androidauthority.com/google-keep-alternatives-android-apps-3705410/)
+ - [Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’](https://www.wired.com/story/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
