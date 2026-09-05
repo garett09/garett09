@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Gemini feature aimed at multitaskers is starting to roll out](https://www.androidauthority.com/gemini-overlay-minimize-button-rollout-3707874/)
- - [Infinite home power with the Anker SOLIX E10 Whole Home Backup System](https://www.androidauthority.com/anker-solix-e10-3701899/)
- - [Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260904/p27#a260904p27)<!-- TECH:END -->
+ - [Judge Lets Musk Keep ‘Twitter’ for Now but Forces Him to Release the Bird](https://www.cnet.com/news/social-media/judge-lets-musk-keep-twitter-forces-release-of-bird/)
+ - [Google patches an actively exploited zero-day flaw in Chrome that could potentially allow remote code execution within Chrome&#39;s sandboxed renderer process &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260904/p36#a260904p36)
+ - [Automakers Want Congress to Ban Chinese-Made Cars, Citing Data Privacy](https://www.cnet.com/home/electric-vehicles/automakers-want-congress-to-ban-chinese-made-cars-citing-data-privacy/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
