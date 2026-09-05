@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can we just call it The Mummy 3?](http://9gag.com/gag/a1mzyYY)
- - 🚯 [Irony..](http://9gag.com/gag/aGy3m8z)
- - 🚯 [Ytho](http://9gag.com/gag/ary6QX6)<!-- MEMES:END -->
+ - 🚖 [Yep, that&#39;s me. You&#39;re probably wondering how I got here](http://9gag.com/gag/aAyW830)
+ - 🚯 [Hold!!!!!!!!!!!!](http://9gag.com/gag/ary6YYV)
+ - 🚯 [Familyzoned](http://9gag.com/gag/aE0rLve)<!-- MEMES:END -->
 
 --- 
 
