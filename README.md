@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yep, that&#39;s me. You&#39;re probably wondering how I got here](http://9gag.com/gag/aAyW830)
- - 🚯 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
- - 🚯 [His friends call him ` The Chad`](http://9gag.com/gag/a4PeD2A)<!-- MEMES:END -->
+ - 🚖 [1 vs 11](http://9gag.com/gag/a1mzy48)
+ - 🚯 [Irony..](http://9gag.com/gag/aGy3m8z)
+ - 🚯 [Gotta know the time](https://www.reddit.com/r/funny/comments/1w821mf/gotta_know_the_time/)<!-- MEMES:END -->
 
 --- 
 
