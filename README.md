@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Content creators drop the ball](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad)
- - [Welcome to Your Keyboard-Free Future. This Jazzy AI Microphone Is All You Need Now](https://www.cnet.com/uncategorized/relay-q-microphone-ai-voice-control/)
- - [I Can’t Put the Galaxy Z Fold 8 Down. Can Apple’s Foldable Change That?](https://www.cnet.com/tech/mobile/i-cant-put-the-galaxy-z-fold-8-down-can-apples-foldable-change-that/)<!-- TECH:END -->
+ - [Swiss Re: global premiums for insuring data centers will likely reach $20B-$30B/year by 2030; ~40% of US data-center capacity is located in tornado-prone areas &lpar;Jean Eaglesham/Wall Street Journal&rpar;](https://www.techmeme.com/260905/p11#a260905p11)
+ - [I Went Shopping for My Ultimate Smart Home of the Future at IFA 2026](https://www.cnet.com/home/smart-home/i-went-shopping-for-my-ultimate-smart-home-of-the-future-at-ifa-2026/)
+ - [Best Labor Day deals: Save up to $500 on Macs, AirPods, Apple Studio Display](https://appleinsider.com/articles/26/09/05/best-labor-day-deals-save-up-to-500-on-macs-airpods-apple-studio-display?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
