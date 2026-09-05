@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Yep, that&#39;s me. You&#39;re probably wondering how I got here](http://9gag.com/gag/aAyW830)
- - 🚯 [Hold!!!!!!!!!!!!](http://9gag.com/gag/ary6YYV)
- - 🚯 [Familyzoned](http://9gag.com/gag/aE0rLve)<!-- MEMES:END -->
+ - 🚯 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
+ - 🚯 [His friends call him ` The Chad`](http://9gag.com/gag/a4PeD2A)<!-- MEMES:END -->
 
 --- 
 
