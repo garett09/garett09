@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1 vs 11](http://9gag.com/gag/a1mzy48)
- - 🚯 [Irony..](http://9gag.com/gag/aGy3m8z)
- - 🚯 [Gotta know the time](https://www.reddit.com/r/funny/comments/1w821mf/gotta_know_the_time/)<!-- MEMES:END -->
+ - 🚖 [Electromagnetic Circuits](http://9gag.com/gag/aByq7P1)
+ - 🚯 [Fact!](http://9gag.com/gag/a87PZOe)
+ - 🚯 [For justice](http://9gag.com/gag/an7pLzb)<!-- MEMES:END -->
 
 --- 
 
