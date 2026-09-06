@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fairphone 6 Plus is the midrange phone we desperately needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review)
- - [Competitive Pokémon is on phones now, but you still need a Switch to become a champion](https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility)
- - [How AI gutted Kenya&#39;s essay-writing industry, which at its peak paid 40,000+ people in Nairobi to do overseas students&#39; homework, leaving few paths back to work &lpar;New York Times&rpar;](https://www.techmeme.com/260906/p4#a260906p4)<!-- TECH:END -->
+ - [Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/260906/p7#a260906p7)
+ - [Europe has its first commercial orbital rocket](https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch)
+ - [OpenAI says it hit its &quot;automated research intern&quot; goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens &lpar;OpenAI&rpar;](https://www.techmeme.com/260906/p6#a260906p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
