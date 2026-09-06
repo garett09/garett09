@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
- - 🚯 [It&#39;s all by design](http://9gag.com/gag/aE0rrgo)
- - 🚯 [Familyzoned](http://9gag.com/gag/aE0rLve)<!-- MEMES:END -->
+ - 🚖 [My whole car went over him 2001 dodge neon](http://9gag.com/gag/a87PPX1)
+ - 🚯 [God forbid a woman sit in Starbucks all day every day to use their wifi without ordering anything](http://9gag.com/gag/aqy33bZ)
+ - 🚯 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)<!-- MEMES:END -->
 
 --- 
 
