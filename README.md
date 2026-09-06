@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals &lpar;Morgan Meaker/Bloomberg&rpar;](https://www.techmeme.com/260905/p14#a260905p14)
- - [Orbitals Review: The Perfect Couples Co-op Game for the Switch 2](https://www.cnet.com/tech/gaming/orbitals-review-nintendo-switch-2/)
- - [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)<!-- TECH:END -->
+ - [The best Android alarm app isn’t on the Play Store. Here’s how to install it](https://www.androidauthority.com/chrono-alarm-clock-app-how-to-download-3704417/)
+ - [This RO water filter has earned a permanent spot next to my desk](https://www.androidauthority.com/waterdrop-m6cg-ro-water-filter-system-review-3703100/)
+ - [The Best Gaming Chairs &lpar;2026&rpar;: Are They Worth It?](https://www.wired.com/gallery/best-gaming-chairs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
