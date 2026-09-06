@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something Is Happening In Spain. Wonder What The Reason Is](http://9gag.com/gag/aByqpgA)
- - 🚯 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
- - 🚯 [Reason 6475 not to go there](http://9gag.com/gag/a4PeeGd)<!-- MEMES:END -->
+ - 🚖 [Fact!](http://9gag.com/gag/a87PZOe)
+ - 🚯 [`I&#39;m sorryyyy...`](http://9gag.com/gag/a349VMv)
+ - 🚯 [Josie no!](http://9gag.com/gag/aO8gw66)<!-- MEMES:END -->
 
 --- 
 
