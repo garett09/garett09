@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Electromagnetic Circuits](http://9gag.com/gag/aByq7P1)
- - 🚯 [Fact!](http://9gag.com/gag/a87PZOe)
- - 🚯 [For justice](http://9gag.com/gag/an7pLzb)<!-- MEMES:END -->
+ - 🚖 [Something Is Happening In Spain. Wonder What The Reason Is](http://9gag.com/gag/aByqpgA)
+ - 🚯 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
+ - 🚯 [Reason 6475 not to go there](http://9gag.com/gag/a4PeeGd)<!-- MEMES:END -->
 
 --- 
 
