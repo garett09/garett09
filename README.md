@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swiss Re: global premiums for insuring data centers will likely reach $20B-$30B/year by 2030; ~40% of US data-center capacity is located in tornado-prone areas &lpar;Jean Eaglesham/Wall Street Journal&rpar;](https://www.techmeme.com/260905/p11#a260905p11)
- - [I Went Shopping for My Ultimate Smart Home of the Future at IFA 2026](https://www.cnet.com/home/smart-home/i-went-shopping-for-my-ultimate-smart-home-of-the-future-at-ifa-2026/)
- - [Best Labor Day deals: Save up to $500 on Macs, AirPods, Apple Studio Display](https://appleinsider.com/articles/26/09/05/best-labor-day-deals-save-up-to-500-on-macs-airpods-apple-studio-display?utm_source=rss)<!-- TECH:END -->
+ - [As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals &lpar;Morgan Meaker/Bloomberg&rpar;](https://www.techmeme.com/260905/p14#a260905p14)
+ - [Orbitals Review: The Perfect Couples Co-op Game for the Switch 2](https://www.cnet.com/tech/gaming/orbitals-review-nintendo-switch-2/)
+ - [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
