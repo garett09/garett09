@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fact!](http://9gag.com/gag/a87PZOe)
- - 🚯 [`I&#39;m sorryyyy...`](http://9gag.com/gag/a349VMv)
- - 🚯 [Josie no!](http://9gag.com/gag/aO8gw66)<!-- MEMES:END -->
+ - 🚖 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
+ - 🚯 [It&#39;s all by design](http://9gag.com/gag/aE0rrgo)
+ - 🚯 [Familyzoned](http://9gag.com/gag/aE0rLve)<!-- MEMES:END -->
 
 --- 
 
