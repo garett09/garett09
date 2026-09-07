@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash Samsung Galaxy S26 Ultra deal knocks the flagship phone down to $953](https://www.androidauthority.com/amazon-galaxy-s26-ultra-deal-3708550/)
- - [Google Photos just halved the time you have to rescue trashed pictures](https://www.androidauthority.com/google-photos-30-days-trash-3708519/)
- - [Home Depot Labor Day Sale &lpar;2026&rpar;: BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)<!-- TECH:END -->
+ - [Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260907/p19#a260907p19)
+ - [Retroid takes on Nintendo nostalgia with new dual-screen Android handheld](https://www.androidauthority.com/retroid-pocket-duo-teaser-3708592/)
+ - [&#39;Cupertino&#39; legal drama isn&#39;t representative region demographics, landmarks, or reality](https://appleinsider.com/articles/26/09/07/cupertino-legal-drama-isnt-representative-region-demographics-landmarks-or-reality?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
