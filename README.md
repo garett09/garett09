@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too late....30 years late](http://9gag.com/gag/aO8g6KR)
- - 🚯 [Civiliazation is not for everyone](http://9gag.com/gag/aByqDxZ)
- - 🚯 [I warned you to leave my phone alone, did you listen? Off course Not! Now you in your feelings sad feeling insecure.](http://9gag.com/gag/a9yQ3BD)<!-- MEMES:END -->
+ - 🚖 [The taco bell bandit](http://9gag.com/gag/an7ppW5)
+ - 🚯 [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
+ - 🚯 [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)<!-- MEMES:END -->
 
 --- 
 
