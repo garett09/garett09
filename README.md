@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine having a brain which renders this as an acceptable behavior](http://9gag.com/gag/a87PrYe)
- - 🚯 [Watch out buddy](http://9gag.com/gag/aByqDo2)
- - 🚯 [She&#39;s just kidding, right?](http://9gag.com/gag/amojjry)<!-- MEMES:END -->
+ - 🚖 [Too late....30 years late](http://9gag.com/gag/aO8g6KR)
+ - 🚯 [Civiliazation is not for everyone](http://9gag.com/gag/aByqDxZ)
+ - 🚯 [I warned you to leave my phone alone, did you listen? Off course Not! Now you in your feelings sad feeling insecure.](http://9gag.com/gag/a9yQ3BD)<!-- MEMES:END -->
 
 --- 
 
