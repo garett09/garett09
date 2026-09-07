@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/260906/p7#a260906p7)
- - [Europe has its first commercial orbital rocket](https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch)
- - [OpenAI says it hit its &quot;automated research intern&quot; goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens &lpar;OpenAI&rpar;](https://www.techmeme.com/260906/p6#a260906p6)<!-- TECH:END -->
+ - [How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners &lpar;New York Times&rpar;](https://www.techmeme.com/260906/p10#a260906p10)
+ - [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
+ - [Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260906/p9#a260906p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
