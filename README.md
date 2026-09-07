@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Norway&#39;s Prime Minister rips apart Trump&#39;s letter](http://9gag.com/gag/aW4KVYA)
- - 🚯 [Behind the scenes: Mystique body painting](http://9gag.com/gag/aYQ88gq)
- - 🚯 [She couldn&#39;t take it on the plane so chugged a litre of Tequila](http://9gag.com/gag/a5QmLpg)<!-- MEMES:END -->
+ - 🚖 [Imagine having a brain which renders this as an acceptable behavior](http://9gag.com/gag/a87PrYe)
+ - 🚯 [Watch out buddy](http://9gag.com/gag/aByqDo2)
+ - 🚯 [She&#39;s just kidding, right?](http://9gag.com/gag/amojjry)<!-- MEMES:END -->
 
 --- 
 
