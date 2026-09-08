@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)
- - 🚯 [That&#39;s enough reason for me to watch it.](http://9gag.com/gag/aQzY6Y2)
- - 🚯 [23-year-old Colombian hitwoman known as `The Doll`](http://9gag.com/gag/a6ZvWOA)<!-- MEMES:END -->
+ - 🚖 [Doggo protecc, doggo serve](http://9gag.com/gag/aryPvvK)
+ - 🚯 [King is back](http://9gag.com/gag/a0eAmEO)
+ - 🚯 [Fred Pepperman, absolute legend.](http://9gag.com/gag/aoyBE2A)<!-- MEMES:END -->
 
 --- 
 
