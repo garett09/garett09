@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NextEra Energy, which partnered with Google to revive an Iowa nuclear power plant, gets a $1.9B loan from the Department of Energy to finance the refurbishment &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260908/p25#a260908p25)
- - [Deal: Grab the compact Anker 13-in-1 Nano laptop dock for just $112](https://www.androidauthority.com/anker-nano-laptop-docking-station-deal-3708881/)
- - [Pusheen’s first game is coming to Apple Arcade](https://www.theverge.com/games/991398/pusheen-apple-arcade-game)<!-- TECH:END -->
+ - [Forgot where you put it? Find Hub’s new ‘Remembered’ feature is here to save the day](https://www.androidauthority.com/google-find-hub-remembered-rollout-3708974/)
+ - [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)
+ - [Meta Releases Muse, a Personal AI Agent With Privacy ‘Built Into It’](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
