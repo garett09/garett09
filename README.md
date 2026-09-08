@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260907/p19#a260907p19)
- - [Retroid takes on Nintendo nostalgia with new dual-screen Android handheld](https://www.androidauthority.com/retroid-pocket-duo-teaser-3708592/)
- - [&#39;Cupertino&#39; legal drama isn&#39;t representative region demographics, landmarks, or reality](https://appleinsider.com/articles/26/09/07/cupertino-legal-drama-isnt-representative-region-demographics-landmarks-or-reality?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Anthropic has walked away from talks to acquire Decart for ~$6B after performing due diligence on the startup &lpar;Bloomberg&rpar;](https://www.techmeme.com/260907/p22#a260907p22)
+ - [AI upscaling is about to transform Android gaming forever](https://www.androidauthority.com/arm-mali-g2-ultra-deep-dive-3706351/)
+ - [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
