@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The taco bell bandit](http://9gag.com/gag/an7ppW5)
- - 🚯 [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
- - 🚯 [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)<!-- MEMES:END -->
+ - 🚖 [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)
+ - 🚯 [That&#39;s enough reason for me to watch it.](http://9gag.com/gag/aQzY6Y2)
+ - 🚯 [23-year-old Colombian hitwoman known as `The Doll`](http://9gag.com/gag/a6ZvWOA)<!-- MEMES:END -->
 
 --- 
 
