@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic has walked away from talks to acquire Decart for ~$6B after performing due diligence on the startup &lpar;Bloomberg&rpar;](https://www.techmeme.com/260907/p22#a260907p22)
- - [AI upscaling is about to transform Android gaming forever](https://www.androidauthority.com/arm-mali-g2-ultra-deep-dive-3706351/)
- - [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)<!-- TECH:END -->
+ - [Samsung and TSMC commit to using ASML&#39;s High NA EUV machines by 2028 and 2030, joining Intel, with all four agreeing to shift from 6-inch to 12-inch photomasks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260908/p7#a260908p7)
+ - [Samsung says Galaxy Z Fold 8’s screen corner flex is a feature, not a defect](https://www.androidauthority.com/samsung-galaxy-z-fold-8-screen-flex-response-3708709/)
+ - [DeepSeek says it is seeking ~150 senior engineers in an &quot;unprecedented&quot; hiring spree to overhaul its backend systems, strained by high user demand and AI agents &lpar;Minxiao Chang/South China Morning Post&rpar;](https://www.techmeme.com/260908/p6#a260908p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
