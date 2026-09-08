@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bedroom advice for the fellas](https://www.reddit.com/r/funny/comments/1was2fk/bedroom_advice_for_the_fellas/)
- - 🚯 [Legends of the digital world](http://9gag.com/gag/aPAOw7P)
- - 🚯 [And drunk me thinking i also can be a boxer, it&#39;s easy](http://9gag.com/gag/aAynRxL)<!-- MEMES:END -->
+ - 🚖 [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)
+ - 🚯 [Never Ordering Coca-Cola At This Bar Again .](http://9gag.com/gag/abAPjLp)
+ - 🚯 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)<!-- MEMES:END -->
 
 --- 
 
