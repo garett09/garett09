@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework is giving some customers a RAM refund](https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds)
- - [The American Federation of Teachers and Microsoft agree on AI privacy standards for schools, with legal protections that hold Microsoft liable for breaches &lpar;Madina Touré/Politico&rpar;](https://www.techmeme.com/260909/p21#a260909p21)
- - [UK PM Andy Burnham declines to support a data center moratorium, saying it is &quot;important&quot; local communities see the benefits of building data centers &lpar;Jacob Reid/Bloomberg&rpar;](https://www.techmeme.com/260909/p20#a260909p20)<!-- TECH:END -->
+ - [Apple&#39;s new Health revamp is about more than the Apple Watch](https://appleinsider.com/articles/26/09/09/apples-new-health-revamp-is-about-more-than-the-apple-watch?utm_source=rss)
+ - [Apps will look terrible unless they are updated for the iPhone Duo](https://appleinsider.com/articles/26/09/09/apps-will-look-terrible-unless-they-are-updated-for-the-iphone-duo?utm_source=rss)
+ - [Samsung, take note: iPhone Duo supports stylus input better than any Galaxy Fold](https://www.androidauthority.com/iphone-duo-apple-pencil-3709490/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
