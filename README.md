@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: from 2019 to 2025, gains in pretraining compute efficiency came mostly from data improvements rather than model improvements &lpar;Dwarkesh Podcast&rpar;](https://www.techmeme.com/260908/p49#a260908p49)
- - [Source: Gimlet Labs raised its $300M round after telling investors OpenAI may spend $100M+ annually on its services; OpenAI says it&#39;s not a paying customer yet &lpar;The Information&rpar;](https://www.techmeme.com/260908/p48#a260908p48)
- - [Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won&#39;t be able to control &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260908/p47#a260908p47)<!-- TECH:END -->
+ - [Suno rolls out v6, a new line of AI models trained in partnership with WMG and BMG, and says it will pay labels and publishers royalties when models are used &lpar;Bloomberg&rpar;](https://www.techmeme.com/260909/p7#a260909p7)
+ - [Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos](https://www.wired.com/story/lyft-waymo-partnership-nashville/)
+ - [A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions](https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
