@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)
- - 🚯 [Never Ordering Coca-Cola At This Bar Again .](http://9gag.com/gag/abAPjLp)
- - 🚯 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)<!-- MEMES:END -->
+ - 🚖 [Don&#39;t say &#39;good morning&#39; to people in Bronx](http://9gag.com/gag/ae9Xjnp)
+ - 🚯 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)
+ - 🚯 [In 2009, 21-year-old model Gabriela Rico Jim\u00e9nez screamed this on camera before being arrested. After being arrested, nothing more was heard from him she disappeared.](http://9gag.com/gag/aQzYqZq)<!-- MEMES:END -->
 
 --- 
 
