@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forgot where you put it? Find Hub’s new ‘Remembered’ feature is here to save the day](https://www.androidauthority.com/google-find-hub-remembered-rollout-3708974/)
- - [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)
- - [Meta Releases Muse, a Personal AI Agent With Privacy ‘Built Into It’](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/)<!-- TECH:END -->
+ - [Analysis: from 2019 to 2025, gains in pretraining compute efficiency came mostly from data improvements rather than model improvements &lpar;Dwarkesh Podcast&rpar;](https://www.techmeme.com/260908/p49#a260908p49)
+ - [Source: Gimlet Labs raised its $300M round after telling investors OpenAI may spend $100M+ annually on its services; OpenAI says it&#39;s not a paying customer yet &lpar;The Information&rpar;](https://www.techmeme.com/260908/p48#a260908p48)
+ - [Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won&#39;t be able to control &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260908/p47#a260908p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
