@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Suno rolls out v6, a new line of AI models trained in partnership with WMG and BMG, and says it will pay labels and publishers royalties when models are used &lpar;Bloomberg&rpar;](https://www.techmeme.com/260909/p7#a260909p7)
- - [Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos](https://www.wired.com/story/lyft-waymo-partnership-nashville/)
- - [A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions](https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/)<!-- TECH:END -->
+ - [Framework is giving some customers a RAM refund](https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds)
+ - [The American Federation of Teachers and Microsoft agree on AI privacy standards for schools, with legal protections that hold Microsoft liable for breaches &lpar;Madina Touré/Politico&rpar;](https://www.techmeme.com/260909/p21#a260909p21)
+ - [UK PM Andy Burnham declines to support a data center moratorium, saying it is &quot;important&quot; local communities see the benefits of building data centers &lpar;Jacob Reid/Bloomberg&rpar;](https://www.techmeme.com/260909/p20#a260909p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
