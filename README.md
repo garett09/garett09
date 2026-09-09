@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t say &#39;good morning&#39; to people in Bronx](http://9gag.com/gag/ae9Xjnp)
- - 🚯 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)
- - 🚯 [In 2009, 21-year-old model Gabriela Rico Jim\u00e9nez screamed this on camera before being arrested. After being arrested, nothing more was heard from him she disappeared.](http://9gag.com/gag/aQzYqZq)<!-- MEMES:END -->
+ - 🚖 [Philippine Defense Secretary Gilberto Teodoro Jr. receives a note from a Chinese delegate during a panel discussion at the Seoul South Korea Defense Dialogue 2026](http://9gag.com/gag/aQzYqK8)
+ - 🚯 [Cybercab turned into Cybercop](http://9gag.com/gag/aYQzNgV)
+ - 🚯 [How stupid are you? Yes](http://9gag.com/gag/adB3Nj9)<!-- MEMES:END -->
 
 --- 
 
