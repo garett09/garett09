@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung promised this Galaxy bestseller six Android upgrades, but it’s lagging after the first](https://www.androidauthority.com/galaxy-a07-one-ui-8-5-lag-touchscreen-issues-3709684/)
- - [Imagining a Future Where a Spy Could Disappear](https://www.wired.com/story/book-excerpt-emily-st-john-mandel-exit-party/)
- - [Google Photos’ Markup tools could soon get more powerful and customizable](https://www.androidauthority.com/google-photos-markup-tools-upgrades-apk-teardown-3709700/)<!-- TECH:END -->
+ - [Sources: SpaceX shifts its data center strategy to redesign existing facilities and prioritize power and cooling redundancy, potentially slowing new build-outs &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260910/p24#a260910p24)
+ - [The XGIMI Horizon 20 Pro falls 19% at Amazon with 4K, Dolby Vision, and 240Hz gaming](https://www.androidauthority.com/xgimi-horizon-20-pro-deal-3709983/)
+ - [Pixel’s best music feature is finally coming to Apple, but not on the iPhone](https://www.androidauthority.com/apple-watch-series-12-ultra-4-shazam-instant-music-recognition-3709942/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
