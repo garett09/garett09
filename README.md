@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX shifts its data center strategy to redesign existing facilities and prioritize power and cooling redundancy, potentially slowing new build-outs &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260910/p24#a260910p24)
- - [The XGIMI Horizon 20 Pro falls 19% at Amazon with 4K, Dolby Vision, and 240Hz gaming](https://www.androidauthority.com/xgimi-horizon-20-pro-deal-3709983/)
- - [Pixel’s best music feature is finally coming to Apple, but not on the iPhone](https://www.androidauthority.com/apple-watch-series-12-ultra-4-shazam-instant-music-recognition-3709942/)<!-- TECH:END -->
+ - [Sources: Altera is preparing to confidentially file for an IPO in the coming weeks; the offering could raise over $2B, with a listing as early as this year &lpar;Reuters&rpar;](https://www.techmeme.com/260910/p34#a260910p34)
+ - [These unofficial Sony apps let you ditch your phone to control your headphones](https://www.androidauthority.com/sony-open-source-headphone-app-3710109/)
+ - [ID verification service IDScan confirms that a data breach involved the theft of driver&#39;s licenses from its systems after hackers offered 153M licenses for sale &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/260910/p33#a260910p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
