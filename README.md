@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Taste of Equality](http://9gag.com/gag/aoyB0qe)
- - 🚯 [Sometimes, you do want to punch them in the face.](http://9gag.com/gag/aO86b9E)
- - 🚯 [Ok mom](http://9gag.com/gag/aAynrx9)<!-- MEMES:END -->
+ - 🚯 [They hiding among us](http://9gag.com/gag/aGyPwXK)
+ - 🚯 [Sometimes, you do want to punch them in the face.](http://9gag.com/gag/aO86b9E)<!-- MEMES:END -->
 
 --- 
 
