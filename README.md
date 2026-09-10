@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never let them know your next move](http://9gag.com/gag/aW4VWjn)
- - 🚯 [Ok mom](http://9gag.com/gag/aAynrx9)
- - 🚯 [A vlog about happy dude with his new friend &lpar;exchange student from China&rpar;](http://9gag.com/gag/aryPpR7)<!-- MEMES:END -->
+ - 🚖 [Taste of Equality](http://9gag.com/gag/aoyB0qe)
+ - 🚯 [Sometimes, you do want to punch them in the face.](http://9gag.com/gag/aO86b9E)
+ - 🚯 [Ok mom](http://9gag.com/gag/aAynrx9)<!-- MEMES:END -->
 
 --- 
 
