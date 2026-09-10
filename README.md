@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Massachusetts Gov. Maura Healey signs an EO requiring data centers above 25MW of peak demand to bring their own power and meet 100% of demand with clean energy &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260909/p54#a260909p54)
- - [iPhone Duo vs Samsung Galaxy Z Fold8 Ultra: Foldables compared](https://appleinsider.com/articles/26/09/09/iphone-duo-vs-samsung-galaxy-z-fold8-ultra-foldabes-compared?utm_source=rss)
- - [Sources: DOJ is investigating whether Nvidia tried to skirt antitrust scrutiny of its 2025 Groq deal, described by Groq as a &quot;nonexclusive licensing agreement&quot; &lpar;New York Times&rpar;](https://www.techmeme.com/260909/p53#a260909p53)<!-- TECH:END -->
+ - [Samsung promised this Galaxy bestseller six Android upgrades, but it’s lagging after the first](https://www.androidauthority.com/galaxy-a07-one-ui-8-5-lag-touchscreen-issues-3709684/)
+ - [Imagining a Future Where a Spy Could Disappear](https://www.wired.com/story/book-excerpt-emily-st-john-mandel-exit-party/)
+ - [Google Photos’ Markup tools could soon get more powerful and customizable](https://www.androidauthority.com/google-photos-markup-tools-upgrades-apk-teardown-3709700/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
