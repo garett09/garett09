@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new Health revamp is about more than the Apple Watch](https://appleinsider.com/articles/26/09/09/apples-new-health-revamp-is-about-more-than-the-apple-watch?utm_source=rss)
- - [Apps will look terrible unless they are updated for the iPhone Duo](https://appleinsider.com/articles/26/09/09/apps-will-look-terrible-unless-they-are-updated-for-the-iphone-duo?utm_source=rss)
- - [Samsung, take note: iPhone Duo supports stylus input better than any Galaxy Fold](https://www.androidauthority.com/iphone-duo-apple-pencil-3709490/)<!-- TECH:END -->
+ - [Massachusetts Gov. Maura Healey signs an EO requiring data centers above 25MW of peak demand to bring their own power and meet 100% of demand with clean energy &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260909/p54#a260909p54)
+ - [iPhone Duo vs Samsung Galaxy Z Fold8 Ultra: Foldables compared](https://appleinsider.com/articles/26/09/09/iphone-duo-vs-samsung-galaxy-z-fold8-ultra-foldabes-compared?utm_source=rss)
+ - [Sources: DOJ is investigating whether Nvidia tried to skirt antitrust scrutiny of its 2025 Groq deal, described by Groq as a &quot;nonexclusive licensing agreement&quot; &lpar;New York Times&rpar;](https://www.techmeme.com/260909/p53#a260909p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
