@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taste of Equality](http://9gag.com/gag/aoyB0qe)
+ - 🚖 [`oH No yOu wOrK AlL DaY AnD LeAvE Me aT HoMe aLl aLoNe i hAd nO ChOiCe`](http://9gag.com/gag/aE0e1rN)
  - 🚯 [They hiding among us](http://9gag.com/gag/aGyPwXK)
- - 🚯 [Sometimes, you do want to punch them in the face.](http://9gag.com/gag/aO86b9E)<!-- MEMES:END -->
+ - 🚯 [Please put it back on.](http://9gag.com/gag/aGyPRKG)<!-- MEMES:END -->
 
 --- 
 
