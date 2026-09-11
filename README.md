@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta may have leaked the first look at its slim &amp;#8216;Project Phoenix&amp;#8217; headset](https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak)
- - [Apple Watch heart rate accuracy vs. rivals: devil is in the details](https://appleinsider.com/articles/26/09/11/apple-watch-heart-rate-accuracy-vs-rivals-devil-is-in-the-details?utm_source=rss)
- - [Where to preorder the Apple AirPods 5](https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy)<!-- TECH:END -->
+ - [Google Health no longer lets users log in with Fitbit](https://www.androidauthority.com/google-health-fitbit-login-3710482/)
+ - [Disney Plus and Hulu have a new student deal that’s tough to beat](https://www.androidauthority.com/disney-plus-and-hulu-student-discount-3710496/)
+ - [A group of 25 Fields Medal recipients says AI companies&#39; push to solve mathematical problems as a benchmark is detrimental to the science of mathematics &lpar;Terence Tao/What&#39;s new&rpar;](https://www.techmeme.com/260911/p27#a260911p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
