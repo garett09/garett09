@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ternus and Joswiak talk about designing the iPhone Duo in secret](https://appleinsider.com/articles/26/09/11/ternus-and-joswiak-talk-about-designing-the-iphone-duo-in-secret?utm_source=rss)
- - [Apple addresses iPhone Duo copycats](https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats)
- - [Garry Tan says &quot;I would do nothing&quot; about China&#39;s AI distillation and urges the industry to focus on current AI risks instead of doomsday-style extinction fears &lpar;CNBC&rpar;](https://www.techmeme.com/260911/p8#a260911p8)<!-- TECH:END -->
+ - [Meta may have leaked the first look at its slim &amp;#8216;Project Phoenix&amp;#8217; headset](https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak)
+ - [Apple Watch heart rate accuracy vs. rivals: devil is in the details](https://appleinsider.com/articles/26/09/11/apple-watch-heart-rate-accuracy-vs-rivals-devil-is-in-the-details?utm_source=rss)
+ - [Where to preorder the Apple AirPods 5](https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
