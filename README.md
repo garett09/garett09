@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe says it hit 1B MAUs, with freemium MAUs surpassing 100M in Q3, up 70%+ YoY, as it increasingly focuses on expanding its freemium AI offerings &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260910/p45#a260910p45)
- - [New Mexico representatives ask Apple to not rename state to &#39;New America&#39;](https://appleinsider.com/articles/26/09/11/new-mexico-representatives-ask-apple-to-not-rename-state-to-new-america?utm_source=rss)
- - [Sources: Sam Altman told OpenAI employees that the company is considering slowing cutting-edge AI development, and he hopes other AI companies will do the same &lpar;Bloomberg&rpar;](https://www.techmeme.com/260910/p44#a260910p44)<!-- TECH:END -->
+ - [Ternus and Joswiak talk about designing the iPhone Duo in secret](https://appleinsider.com/articles/26/09/11/ternus-and-joswiak-talk-about-designing-the-iphone-duo-in-secret?utm_source=rss)
+ - [Apple addresses iPhone Duo copycats](https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats)
+ - [Garry Tan says &quot;I would do nothing&quot; about China&#39;s AI distillation and urges the industry to focus on current AI risks instead of doomsday-style extinction fears &lpar;CNBC&rpar;](https://www.techmeme.com/260911/p8#a260911p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
