@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor Porsche](http://9gag.com/gag/a5QLKqy)
- - 🚯 [How many incidents happened that actually inspired these?](http://9gag.com/gag/aD2Bo0w)
+ - 🚖 [The real facial expressions](http://9gag.com/gag/aKGbqPj)
+ - 🚯 [What are you waiting for the most?](http://9gag.com/gag/aoyBj4n)
  - 🚯 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)<!-- MEMES:END -->
 
 --- 
