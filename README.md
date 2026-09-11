@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Altera is preparing to confidentially file for an IPO in the coming weeks; the offering could raise over $2B, with a listing as early as this year &lpar;Reuters&rpar;](https://www.techmeme.com/260910/p34#a260910p34)
- - [These unofficial Sony apps let you ditch your phone to control your headphones](https://www.androidauthority.com/sony-open-source-headphone-app-3710109/)
- - [ID verification service IDScan confirms that a data breach involved the theft of driver&#39;s licenses from its systems after hackers offered 153M licenses for sale &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/260910/p33#a260910p33)<!-- TECH:END -->
+ - [Adobe says it hit 1B MAUs, with freemium MAUs surpassing 100M in Q3, up 70%+ YoY, as it increasingly focuses on expanding its freemium AI offerings &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260910/p45#a260910p45)
+ - [New Mexico representatives ask Apple to not rename state to &#39;New America&#39;](https://appleinsider.com/articles/26/09/11/new-mexico-representatives-ask-apple-to-not-rename-state-to-new-america?utm_source=rss)
+ - [Sources: Sam Altman told OpenAI employees that the company is considering slowing cutting-edge AI development, and he hopes other AI companies will do the same &lpar;Bloomberg&rpar;](https://www.techmeme.com/260910/p44#a260910p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
