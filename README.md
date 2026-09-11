@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [`oH No yOu wOrK AlL DaY AnD LeAvE Me aT HoMe aLl aLoNe i hAd nO ChOiCe`](http://9gag.com/gag/aE0e1rN)
- - 🚯 [They hiding among us](http://9gag.com/gag/aGyPwXK)
- - 🚯 [Please put it back on.](http://9gag.com/gag/aGyPRKG)<!-- MEMES:END -->
+ - 🚖 [Poor Porsche](http://9gag.com/gag/a5QLKqy)
+ - 🚯 [How many incidents happened that actually inspired these?](http://9gag.com/gag/aD2Bo0w)
+ - 🚯 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)<!-- MEMES:END -->
 
 --- 
 
