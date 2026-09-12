@@ -140,8 +140,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump is giving data centers a pass to pollute](https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa)
- - [Dario Amodei says Anthropic is &quot;unilaterally committing&quot; to giving third-party evaluators permanent access to verify its adherence to safety measures &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260912/p7#a260912p7)
+ - [Sam Altman confirms OpenAI won&#39;t go public this year saying &quot;given everything happening with safety, right now would be an ill-advised moment to go public&quot; &lpar;Jason Ma/Fortune&rpar;](https://www.techmeme.com/260912/p16#a260912p16)
+ - [Donald Trump&#39;s plan to center Bitcoin mining in the US is unraveling as miners convert facilities into AI data centers amid a prolonged crypto market slump &lpar;Bloomberg&rpar;](https://www.techmeme.com/260912/p15#a260912p15)
  - [iPhone 18 Pro vs iPhone 17 Pro: Flagships, compared](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-17-pro-flagships-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
