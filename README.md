@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon adds a Shop tab to Prime Video&#39;s X-Ray feature for related products while watching shows, and Shop the Scene powered by Amazon Lens in the Shopping app &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260911/p36#a260911p36)
- - [Some experts say Siri Recap and Live Rewind, always-listening AI features in new Apple Watches, could test eavesdropping laws despite privacy protections &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260911/p35#a260911p35)
- - [Sources: Anthropic is in talks to bring on Nvidia as an anchor investor in its IPO, seeking up to $100B at a ~$2T valuation; Nvidia may invest up to $10B &lpar;Reuters&rpar;](https://www.techmeme.com/260911/p34#a260911p34)<!-- TECH:END -->
+ - [I dumped 11 popular Google apps on my Android phone for these open-source alternatives](https://www.androidauthority.com/best-open-source-alternatives-google-android-apps-2026-3708712/)
+ - [You Don’t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules](https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/)
+ - [My Pixel was overheating and stuttering until I made these 5 tweaks](https://www.androidauthority.com/pixel-overheating-stuttering-fix-3705992/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
