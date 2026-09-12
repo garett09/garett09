@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The real facial expressions](http://9gag.com/gag/aKGbqPj)
- - 🚯 [What&#39;s going on here?](http://9gag.com/gag/aD2Bo3d)
- - 🚯 [Dog Places Order at McDonald’s Drive-Thru](https://www.reddit.com/r/funny/comments/1wdrfeh/dog_places_order_at_mcdonalds_drivethru/)<!-- MEMES:END -->
+ - 🚖 [A question: In *Avengers: Endgame*, when Spider-Man hands the Gauntlet to Captain Marvel, why didn&#39;t she use it to finish off Thanos and his entire army?](http://9gag.com/gag/aYQzwYm)
+ - 🚯 [What are you waiting for the most?](http://9gag.com/gag/aoyBj4n)
+ - 🚯 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)<!-- MEMES:END -->
 
 --- 
 
