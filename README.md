@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A question: In *Avengers: Endgame*, when Spider-Man hands the Gauntlet to Captain Marvel, why didn&#39;t she use it to finish off Thanos and his entire army?](http://9gag.com/gag/aYQzwYm)
- - 🚯 [What are you waiting for the most?](http://9gag.com/gag/aoyBj4n)
- - 🚯 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)<!-- MEMES:END -->
+ - 🚖 [Imagine thinking you have a point until reality hits](http://9gag.com/gag/aAyn1Rp)
+ - 🚯 [A question: In *Avengers: Endgame*, when Spider-Man hands the Gauntlet to Captain Marvel, why didn&#39;t she use it to finish off Thanos and his entire army?](http://9gag.com/gag/aYQzwYm)
+ - 🚯 [Would you date a woman with tattoos](http://9gag.com/gag/aGyPw56)<!-- MEMES:END -->
 
 --- 
 
