@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I will try this tonight](http://9gag.com/gag/ae9XGLB)
- - 🚯 [Would you date a woman with body hair](http://9gag.com/gag/aO86Vp6)
- - 🚯 [9/11 - Real event or Inside job?](http://9gag.com/gag/a4PMYG1)<!-- MEMES:END -->
+ - 🚖 [4b women kicked out](http://9gag.com/gag/aD2BG9d)
+ - 🚯 [I will try this tonight](http://9gag.com/gag/ae9XGLB)
+ - 🚯 [Who&#39;s the best Bond?](http://9gag.com/gag/aVvGDOd)<!-- MEMES:END -->
 
 --- 
 
