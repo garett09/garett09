@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Health no longer lets users log in with Fitbit](https://www.androidauthority.com/google-health-fitbit-login-3710482/)
- - [Disney Plus and Hulu have a new student deal that’s tough to beat](https://www.androidauthority.com/disney-plus-and-hulu-student-discount-3710496/)
- - [A group of 25 Fields Medal recipients says AI companies&#39; push to solve mathematical problems as a benchmark is detrimental to the science of mathematics &lpar;Terence Tao/What&#39;s new&rpar;](https://www.techmeme.com/260911/p27#a260911p27)<!-- TECH:END -->
+ - [Amazon adds a Shop tab to Prime Video&#39;s X-Ray feature for related products while watching shows, and Shop the Scene powered by Amazon Lens in the Shopping app &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260911/p36#a260911p36)
+ - [Some experts say Siri Recap and Live Rewind, always-listening AI features in new Apple Watches, could test eavesdropping laws despite privacy protections &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260911/p35#a260911p35)
+ - [Sources: Anthropic is in talks to bring on Nvidia as an anchor investor in its IPO, seeking up to $100B at a ~$2T valuation; Nvidia may invest up to $10B &lpar;Reuters&rpar;](https://www.techmeme.com/260911/p34#a260911p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
