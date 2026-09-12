@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I dumped 11 popular Google apps on my Android phone for these open-source alternatives](https://www.androidauthority.com/best-open-source-alternatives-google-android-apps-2026-3708712/)
- - [You Don’t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules](https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/)
- - [My Pixel was overheating and stuttering until I made these 5 tweaks](https://www.androidauthority.com/pixel-overheating-stuttering-fix-3705992/)<!-- TECH:END -->
+ - [Trump is giving data centers a pass to pollute](https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa)
+ - [Dario Amodei says Anthropic is &quot;unilaterally committing&quot; to giving third-party evaluators permanent access to verify its adherence to safety measures &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260912/p7#a260912p7)
+ - [iPhone 18 Pro vs iPhone 17 Pro: Flagships, compared](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-17-pro-flagships-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
