@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Duo will usher foldables into the mainstream, just as iPhone did with smartphones; sources: iPhone game controllers will launch under the Beats brand &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260913/p6#a260913p6)
- - [Apple Store Genius Bar &amp; pickup counter revamp effort accelerating](https://appleinsider.com/articles/26/09/13/apple-store-genius-bar-pickup-counter-revamp-effort-accelerating?utm_source=rss)
- - [Waymo pulls over, calls cops on riders with a ghost gun](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun)<!-- TECH:END -->
+ - [Sunday Reboot: Apple Event&#39;s static structure and Ternus exists](https://appleinsider.com/articles/26/09/13/sunday-reboot-apple-events-static-structure-and-ternus-exists?utm_source=rss)
+ - [Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)
+ - [Xi Jinping calls for a &quot;consensus-based global AI governance framework&quot; and says China will pioneer the establishment of a BRICS AI open-source community &lpar;Joanna Ossinger/CNBC&rpar;](https://www.techmeme.com/260913/p11#a260913p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
