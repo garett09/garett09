@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kvaesitso is unlike any Android launcher I’ve used — and you won’t find it on the Play Store](https://www.androidauthority.com/kvaesitso-launcher-hands-on-3709677/)
- - [Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser](https://www.wired.com/story/iphone-settings-ios-27-safari-browser/)
- - [Best Indoor Garden Systems I’ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)<!-- TECH:END -->
+ - [iPhone Duo will usher foldables into the mainstream, just as iPhone did with smartphones; sources: iPhone game controllers will launch under the Beats brand &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260913/p6#a260913p6)
+ - [Apple Store Genius Bar &amp; pickup counter revamp effort accelerating](https://appleinsider.com/articles/26/09/13/apple-store-genius-bar-pickup-counter-revamp-effort-accelerating?utm_source=rss)
+ - [Waymo pulls over, calls cops on riders with a ghost gun](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
