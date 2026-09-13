@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman confirms OpenAI won&#39;t go public this year saying &quot;given everything happening with safety, right now would be an ill-advised moment to go public&quot; &lpar;Jason Ma/Fortune&rpar;](https://www.techmeme.com/260912/p16#a260912p16)
- - [Donald Trump&#39;s plan to center Bitcoin mining in the US is unraveling as miners convert facilities into AI data centers amid a prolonged crypto market slump &lpar;Bloomberg&rpar;](https://www.techmeme.com/260912/p15#a260912p15)
- - [iPhone 18 Pro vs iPhone 17 Pro: Flagships, compared](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-17-pro-flagships-compared?utm_source=rss)<!-- TECH:END -->
+ - [A profile of United Foundation for AI Rights founder Michael Samadi, who seeks evidence of AI consciousness and lobbies against retiring models that may show it &lpar;Michael Safi/The Guardian&rpar;](https://www.techmeme.com/260912/p19#a260912p19)
+ - [Twenty police forces in England and Wales recorded 163 crimes involving keywords like &quot;AI-generated&quot;, &quot;deepfake&quot;, and &quot;nudify&quot; by July 2026, up from 10 in 2023 &lpar;Mark Tovey/Telegraph&rpar;](https://www.techmeme.com/260912/p18#a260912p18)
+ - [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
