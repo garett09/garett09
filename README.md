@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [4b women kicked out](http://9gag.com/gag/aD2BG9d)
- - 🚯 [It can be counted as his 4th Assassination attempt coz it scared the shit out of trump](http://9gag.com/gag/aVvGDzd)
- - 🚯 [I will try this tonight](http://9gag.com/gag/ae9XGLB)<!-- MEMES:END -->
+ - 🚯 [Brave little Angel calls 911 on her mother who is apparently another member of the Lindsay C. cult](http://9gag.com/gag/a34o7Wv)
+ - 🚯 [Id like to announce that after 2 years battling cancer](http://9gag.com/gag/a4PMYeZ)<!-- MEMES:END -->
 
 --- 
 
