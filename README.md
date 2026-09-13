@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of United Foundation for AI Rights founder Michael Samadi, who seeks evidence of AI consciousness and lobbies against retiring models that may show it &lpar;Michael Safi/The Guardian&rpar;](https://www.techmeme.com/260912/p19#a260912p19)
- - [Twenty police forces in England and Wales recorded 163 crimes involving keywords like &quot;AI-generated&quot;, &quot;deepfake&quot;, and &quot;nudify&quot; by July 2026, up from 10 in 2023 &lpar;Mark Tovey/Telegraph&rpar;](https://www.techmeme.com/260912/p18#a260912p18)
- - [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)<!-- TECH:END -->
+ - [Kvaesitso is unlike any Android launcher I’ve used — and you won’t find it on the Play Store](https://www.androidauthority.com/kvaesitso-launcher-hands-on-3709677/)
+ - [Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser](https://www.wired.com/story/iphone-settings-ios-27-safari-browser/)
+ - [Best Indoor Garden Systems I’ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
