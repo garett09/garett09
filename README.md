@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [4b women kicked out](http://9gag.com/gag/aD2BG9d)
+ - 🚖 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)
  - 🚯 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)
- - 🚯 [4b women kicked out](http://9gag.com/gag/aD2BG9d)<!-- MEMES:END -->
+ - 🚯 [Flamingo finger](http://9gag.com/gag/a6ZWbj9)<!-- MEMES:END -->
 
 --- 
 
