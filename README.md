@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Review of Valve&#39;s Steam Frame: comfortable to wear, supports multiple ways to play games, but it doesn&#39;t feel like a finished product and has short battery life &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260914/p28#a260914p28)
- - [Apple rolls out tvOS 27 with support for video podcasts, improved audio](https://appleinsider.com/articles/26/09/14/apple-rolls-out-tvos-27-with-support-for-video-podcasts-improved-audio?utm_source=rss)
- - [Apple brings smarter Siri and better health tracking to Apple Watch in watchOS 27](https://appleinsider.com/articles/26/09/14/apple-brings-smarter-siri-and-better-health-tracking-to-apple-watch-in-watchos-27?utm_source=rss)<!-- TECH:END -->
+ - [AppleCare One Family vs. Individual: which plan makes more sense?](https://appleinsider.com/inside/apple-services/vs/applecare-one-family-vs-individual-which-plan-makes-more-sense?utm_source=rss)
+ - [It&#39;s not clear why Elon Musk has filed to dismiss App Store favoritism suit](https://appleinsider.com/articles/26/09/14/elon-musks-x-corp-files-to-dismiss-app-store-favoritism-case?utm_source=rss)
+ - [Apple has 16 products in line for future release](https://appleinsider.com/articles/26/09/14/apple-has-16-products-in-line-for-future-release?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
