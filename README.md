@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and former officials: the US NSA plans major restructuring to form five new units for AI, China, cybersecurity, warfighting, and global intelligence &lpar;Washington Post&rpar;](https://www.techmeme.com/260913/p17#a260913p17)
- - [Source: Anthropic signed a $13.7B, six-year deal to lease compute from Rum Group&#39;s upcoming Georgia data center; Rum operates Rumble and hosts Truth Social &lpar;The Information&rpar;](https://www.techmeme.com/260913/p16#a260913p16)
- - [Report: former EPA officials identify 30 federal actions since January 2025 that they say exacerbate health risks stemming from data center pollution &lpar;Justine Calma/The Verge&rpar;](https://www.techmeme.com/260913/p15#a260913p15)<!-- TECH:END -->
+ - [Craig Federighi admits iPhone Duo may replace iPads for some users](https://appleinsider.com/articles/26/09/14/craig-federighi-admits-iphone-duo-may-replace-ipads-for-some-users?utm_source=rss)
+ - [iPhone 18 Pro vs Google Pixel 11 Pro: Tech giant flagships compared](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-google-pixel-11-pro-tech-giant-flagships-compared?utm_source=rss)
+ - [Inside Visual Intelligence on iOS and macOS: Using Apple&#39;s best AI feature](https://appleinsider.com/inside/ios-27/tips/visual-intelligence-on-ios-and-macos-using-apples-image-based-ai-feature?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
