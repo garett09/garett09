@@ -147,7 +147,7 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [4b women kicked out](http://9gag.com/gag/aD2BG9d)
+ - 🚖 [That&#39;s a good one](http://9gag.com/gag/aqyv14Q)
  - 🚯 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)
  - 🚯 [Computer science guys, which OS you use on your desktop?](http://9gag.com/gag/avybGm5)<!-- MEMES:END -->
 
