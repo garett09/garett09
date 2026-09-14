@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Craig Federighi admits iPhone Duo may replace iPads for some users](https://appleinsider.com/articles/26/09/14/craig-federighi-admits-iphone-duo-may-replace-ipads-for-some-users?utm_source=rss)
- - [iPhone 18 Pro vs Google Pixel 11 Pro: Tech giant flagships compared](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-google-pixel-11-pro-tech-giant-flagships-compared?utm_source=rss)
- - [Inside Visual Intelligence on iOS and macOS: Using Apple&#39;s best AI feature](https://appleinsider.com/inside/ios-27/tips/visual-intelligence-on-ios-and-macos-using-apples-image-based-ai-feature?utm_source=rss)<!-- TECH:END -->
+ - [Review of Valve&#39;s Steam Frame: comfortable to wear, supports multiple ways to play games, but it doesn&#39;t feel like a finished product and has short battery life &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260914/p28#a260914p28)
+ - [Apple rolls out tvOS 27 with support for video podcasts, improved audio](https://appleinsider.com/articles/26/09/14/apple-rolls-out-tvos-27-with-support-for-video-podcasts-improved-audio?utm_source=rss)
+ - [Apple brings smarter Siri and better health tracking to Apple Watch in watchOS 27](https://appleinsider.com/articles/26/09/14/apple-brings-smarter-siri-and-better-health-tracking-to-apple-watch-in-watchos-27?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
