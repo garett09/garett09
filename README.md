@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
- - 🚯 [The current state of the United States](http://9gag.com/gag/aMVpA56)
- - 🚯 [Agree?](http://9gag.com/gag/aYQz4PO)<!-- MEMES:END -->
+ - 🚯 [You can bring ONE fictional character into real life. Who are you choosing?](http://9gag.com/gag/a7ojrjb)
+ - 🚯 [Timeless classic](http://9gag.com/gag/aYQz4n7)<!-- MEMES:END -->
 
 --- 
 
