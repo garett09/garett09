@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at iLands, a company that&#39;s like Fiverr for agents, which email annoying and unsolicited pitches to people, usually for services costing ~$25 &lpar;Ernie Smith/Tedium&rpar;](https://www.techmeme.com/260914/p44#a260914p44)
- - [Thoughts on AI labs&#39; safety concerns: a coordinated slowdown may look like an antitrust conspiracy to limit output that would preserve frontier model margins &lpar;Matt Levine/Bloomberg&rpar;](https://www.techmeme.com/260914/p43#a260914p43)
- - [Cybersecurity stocks were the top performers in the S&amp;P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9% &lpar;Britney Nguyen/MarketWatch&rpar;](https://www.techmeme.com/260914/p42#a260914p42)<!-- TECH:END -->
+ - [‘I Felt Super Violated’: Men Wearing Meta Glasses on Dates Is an Instant Red Flag](https://www.wired.com/story/i-felt-super-violated-men-wearing-meta-glasses-on-dates-is-an-instant-red-flag/)
+ - [Pop balloons, win Pixels: Google’s birthday game can win you a Pixel 11, Pixel Watch 5 or Pixel Buds](https://www.androidauthority.com/google-tap-party-pixel-11-birthday-rewards-3711297/)
+ - [Your Android phone is hiding your headphones’ best audio quality — here’s how to unlock it](https://www.androidauthority.com/android-hidden-bluetooth-codec-menu-explained-3701480/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
