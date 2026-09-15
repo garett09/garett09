@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppleCare One Family vs. Individual: which plan makes more sense?](https://appleinsider.com/inside/apple-services/vs/applecare-one-family-vs-individual-which-plan-makes-more-sense?utm_source=rss)
- - [It&#39;s not clear why Elon Musk has filed to dismiss App Store favoritism suit](https://appleinsider.com/articles/26/09/14/elon-musks-x-corp-files-to-dismiss-app-store-favoritism-case?utm_source=rss)
- - [Apple has 16 products in line for future release](https://appleinsider.com/articles/26/09/14/apple-has-16-products-in-line-for-future-release?utm_source=rss)<!-- TECH:END -->
+ - [A look at iLands, a company that&#39;s like Fiverr for agents, which email annoying and unsolicited pitches to people, usually for services costing ~$25 &lpar;Ernie Smith/Tedium&rpar;](https://www.techmeme.com/260914/p44#a260914p44)
+ - [Thoughts on AI labs&#39; safety concerns: a coordinated slowdown may look like an antitrust conspiracy to limit output that would preserve frontier model margins &lpar;Matt Levine/Bloomberg&rpar;](https://www.techmeme.com/260914/p43#a260914p43)
+ - [Cybersecurity stocks were the top performers in the S&amp;P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9% &lpar;Britney Nguyen/MarketWatch&rpar;](https://www.techmeme.com/260914/p42#a260914p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
