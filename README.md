@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes $135 off the Galaxy Watch 8 Classic LTE in standout deal](https://www.androidauthority.com/galaxy-watch-8-classic-lte-deal-3711521/)
- - [AirPods 5 get first preorder discount, plus 2026 Mac mini &amp; Mac Studio savings](https://appleinsider.com/articles/26/09/15/airpods-5-get-first-preorder-discount-plus-2026-mac-mini-mac-studio-savings?utm_source=rss)
- - [A Galaxy Z Fold 8 bug is putting apps in places where they shouldn’t be — here’s how to fix it](https://www.androidauthority.com/galaxy-z-fold-8-app-misalignment-3711475/)<!-- TECH:END -->
+ - [At the Future of Life Institute&#39;s Pro-Human Assembly, Bernie Sanders, Steve Bannon, and others called for tighter restrictions on AI and denounced tech CEOs &lpar;New York Times&rpar;](https://www.techmeme.com/260915/p46#a260915p46)
+ - [Microsoft announces Windows and Surface event for October 7th](https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco)
+ - [What if social media isn’t hurting kids?](https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
