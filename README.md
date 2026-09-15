@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘I Felt Super Violated’: Men Wearing Meta Glasses on Dates Is an Instant Red Flag](https://www.wired.com/story/i-felt-super-violated-men-wearing-meta-glasses-on-dates-is-an-instant-red-flag/)
- - [Pop balloons, win Pixels: Google’s birthday game can win you a Pixel 11, Pixel Watch 5 or Pixel Buds](https://www.androidauthority.com/google-tap-party-pixel-11-birthday-rewards-3711297/)
- - [Your Android phone is hiding your headphones’ best audio quality — here’s how to unlock it](https://www.androidauthority.com/android-hidden-bluetooth-codec-menu-explained-3701480/)<!-- TECH:END -->
+ - [Amazon slashes $135 off the Galaxy Watch 8 Classic LTE in standout deal](https://www.androidauthority.com/galaxy-watch-8-classic-lte-deal-3711521/)
+ - [AirPods 5 get first preorder discount, plus 2026 Mac mini &amp; Mac Studio savings](https://appleinsider.com/articles/26/09/15/airpods-5-get-first-preorder-discount-plus-2026-mac-mini-mac-studio-savings?utm_source=rss)
+ - [A Galaxy Z Fold 8 bug is putting apps in places where they shouldn’t be — here’s how to fix it](https://www.androidauthority.com/galaxy-z-fold-8-app-misalignment-3711475/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
