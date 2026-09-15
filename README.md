@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Timeless classic](http://9gag.com/gag/aYQz4n7)
- - 🚯 [Enough discussion](http://9gag.com/gag/an7AMV0)
- - 🚯 [A man hired several Latin American workers to build a fence around his property, but after the job was finished, he called ICE, hoping to avoid paying them. But, the workers\u2019 documents turned out to be in order. they returned to the client and dismantled fence they had built](http://9gag.com/gag/aO86rPM)<!-- MEMES:END -->
+ - 🚯 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)
+ - 🚯 [Timeless classic](http://9gag.com/gag/aYQz4n7)<!-- MEMES:END -->
 
 --- 
 
