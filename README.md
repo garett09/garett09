@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
- - 🚯 [You can bring ONE fictional character into real life. Who are you choosing?](http://9gag.com/gag/a7ojrjb)
- - 🚯 [Timeless classic](http://9gag.com/gag/aYQz4n7)<!-- MEMES:END -->
+ - 🚖 [Timeless classic](http://9gag.com/gag/aYQz4n7)
+ - 🚯 [Enough discussion](http://9gag.com/gag/an7AMV0)
+ - 🚯 [A man hired several Latin American workers to build a fence around his property, but after the job was finished, he called ICE, hoping to avoid paying them. But, the workers\u2019 documents turned out to be in order. they returned to the client and dismantled fence they had built](http://9gag.com/gag/aO86rPM)<!-- MEMES:END -->
 
 --- 
 
