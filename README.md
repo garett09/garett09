@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Agree?](http://9gag.com/gag/aYQz4PO)
- - 🚯 [Is living with your parents after 25 socially unacceptable?](http://9gag.com/gag/aVvGMAd)
- - 🚯 [Computer science guys, which OS you use on your desktop?](http://9gag.com/gag/avybGm5)<!-- MEMES:END -->
+ - 🚖 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
+ - 🚯 [The current state of the United States](http://9gag.com/gag/aMVpA56)
+ - 🚯 [Agree?](http://9gag.com/gag/aYQz4PO)<!-- MEMES:END -->
 
 --- 
 
