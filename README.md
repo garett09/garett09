@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Snake? Snake!!!!!!](http://9gag.com/gag/aD2BxvK)
- - 🚯 [Timeless classic](http://9gag.com/gag/aYQz4n7)
- - 🚯 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)<!-- MEMES:END -->
+ - 🚖 [First date, nervous heart, awkward smiles, unforgettable night.](http://9gag.com/gag/aVvG37P)
+ - 🚯 [You don&#39;t even have to do anything](http://9gag.com/gag/a2vQZV1)
+ - 🚯 [Timeless classic](http://9gag.com/gag/aYQz4n7)<!-- MEMES:END -->
 
 --- 
 
