@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: AI assistant Instinct seeks to raise $1B at a $10B valuation, up from $2.25B less than a month ago; Sequoia and Benchmark are in talks to lead the round &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/260915/p58#a260915p58)
- - [Google details September Wear OS update for Pixel Watch 2, Pixel Watch 3, and Pixel Watch 4](https://www.androidauthority.com/google-pixel-watch-september-wear-os-update-3711720/)
- - [BOOX debuts three new E-Ink tablets, including a pair of stylus-equipped Note models](https://www.androidauthority.com/boox-note-air6-c-3711609/)<!-- TECH:END -->
+ - [The Trump administration faces strategic constraints in slowing China&#39;s AI progress, including avoiding rare earth restrictions, ahead of US-China talks on AI &lpar;Nectar Gan/Bloomberg&rpar;](https://www.techmeme.com/260916/p13#a260916p13)
+ - [5 Android phones you should buy instead of the iPhone 18 Pro](https://www.androidauthority.com/iphone-18-pro-alternatives-3711225/)
+ - [Introducing the WIRED App](https://www.wired.com/story/introducing-the-wired-app/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
