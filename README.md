@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring Indoor Cam 2K 2-pack falls to $59.98 at Amazon with 50% off](https://www.androidauthority.com/ring-indoor-cam-2k-2-pack-deal-3712023/)
- - [Noetive, which is developing an industrial AI model for businesses in physical industries, emerges from stealth with a $41M seed led by Eclipse &lpar;Sarah Klearman/Wall Street Journal&rpar;](https://www.techmeme.com/260916/p34#a260916p34)
- - [Get an iPhone 18 Pro on T-Mobile with any condition trade-in](https://appleinsider.com/articles/26/09/16/get-an-iphone-18-pro-on-t-mobile-with-any-condition-trade-in?utm_source=rss)<!-- TECH:END -->
+ - [Hang Ten Systems, which uses AI to help large enterprises build software, raised an additional $53M seed led by Xora, five weeks after its initial $32M seed &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260916/p43#a260916p43)
+ - [AI’s Rising Costs Cast Doubts on Cloud Gaming’s Future](https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/)
+ - [A Deal Hunter’s Guide to Amazon Prime Big Deal Days &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-october-2026-tips/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
