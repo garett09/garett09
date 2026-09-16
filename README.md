@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump administration faces strategic constraints in slowing China&#39;s AI progress, including avoiding rare earth restrictions, ahead of US-China talks on AI &lpar;Nectar Gan/Bloomberg&rpar;](https://www.techmeme.com/260916/p13#a260916p13)
- - [5 Android phones you should buy instead of the iPhone 18 Pro](https://www.androidauthority.com/iphone-18-pro-alternatives-3711225/)
- - [Introducing the WIRED App](https://www.wired.com/story/introducing-the-wired-app/)<!-- TECH:END -->
+ - [Ring Indoor Cam 2K 2-pack falls to $59.98 at Amazon with 50% off](https://www.androidauthority.com/ring-indoor-cam-2k-2-pack-deal-3712023/)
+ - [Noetive, which is developing an industrial AI model for businesses in physical industries, emerges from stealth with a $41M seed led by Eclipse &lpar;Sarah Klearman/Wall Street Journal&rpar;](https://www.techmeme.com/260916/p34#a260916p34)
+ - [Get an iPhone 18 Pro on T-Mobile with any condition trade-in](https://appleinsider.com/articles/26/09/16/get-an-iphone-18-pro-on-t-mobile-with-any-condition-trade-in?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
