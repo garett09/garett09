@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the Future of Life Institute&#39;s Pro-Human Assembly, Bernie Sanders, Steve Bannon, and others called for tighter restrictions on AI and denounced tech CEOs &lpar;New York Times&rpar;](https://www.techmeme.com/260915/p46#a260915p46)
- - [Microsoft announces Windows and Surface event for October 7th](https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco)
- - [What if social media isn’t hurting kids?](https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt)<!-- TECH:END -->
+ - [Source: AI assistant Instinct seeks to raise $1B at a $10B valuation, up from $2.25B less than a month ago; Sequoia and Benchmark are in talks to lead the round &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/260915/p58#a260915p58)
+ - [Google details September Wear OS update for Pixel Watch 2, Pixel Watch 3, and Pixel Watch 4](https://www.androidauthority.com/google-pixel-watch-september-wear-os-update-3711720/)
+ - [BOOX debuts three new E-Ink tablets, including a pair of stylus-equipped Note models](https://www.androidauthority.com/boox-note-air6-c-3711609/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
