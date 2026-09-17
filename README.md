@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At India&#39;s Semicon, Narendra Modi launches a charm offensive for global investors, drawing pledges from Applied Materials and Lam for billions in investment &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260917/p17#a260917p17)
- - [I use Waze every day, and the latest Android Auto update completely changed how I drive](https://www.androidauthority.com/new-waze-gemini-features-android-auto-hands-on-3708699/)
- - [MapQuest went viral over Lake Ontario. So I used it for a week instead of Google Maps](https://www.androidauthority.com/using-mapquest-2026-instead-of-google-maps-3710148/)<!-- TECH:END -->
+ - [YouTube’s watch next suggestions are crossing the line on Android — literally](https://www.androidauthority.com/youtube-suggested-watch-next-videos-blocking-playback-controls-3712487/)
+ - [Sources: the White House&#39;s Office of the National Cyber Director is drafting an EO to establish a government-led incubator aimed at cybersecurity research &lpar;Bloomberg&rpar;](https://www.techmeme.com/260917/p31#a260917p31)
+ - [Best price since Prime Day: Galaxy Watch 8 is down to $259.99](https://www.androidauthority.com/galaxy-watch-8-deal-3712523/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
