@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a serious security fix hiding in Google’s September Pixel update](https://www.androidauthority.com/google-pixel-zero-click-vulnerability-september-security-patch-3712214/)
- - [AWS says it can&#39;t restore some data stored exclusively in data centers across Bahrain and one UAE availability zone after Iranian drone strikes in the spring &lpar;Omar Abdel-Baqui/Wall Street Journal&rpar;](https://www.techmeme.com/260916/p53#a260916p53)
- - [Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260916/p52#a260916p52)<!-- TECH:END -->
+ - [At India&#39;s Semicon, Narendra Modi launches a charm offensive for global investors, drawing pledges from Applied Materials and Lam for billions in investment &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260917/p17#a260917p17)
+ - [I use Waze every day, and the latest Android Auto update completely changed how I drive](https://www.androidauthority.com/new-waze-gemini-features-android-auto-hands-on-3708699/)
+ - [MapQuest went viral over Lake Ontario. So I used it for a week instead of Google Maps](https://www.androidauthority.com/using-mapquest-2026-instead-of-google-maps-3710148/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
