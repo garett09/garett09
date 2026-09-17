@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The future of gaming.](http://9gag.com/gag/aYQz702)
+ - 🚖 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)
  - 🚯 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
- - 🚯 [The future of gaming.](http://9gag.com/gag/aYQz702)<!-- MEMES:END -->
+ - 🚯 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)<!-- MEMES:END -->
 
 --- 
 
