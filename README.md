@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hang Ten Systems, which uses AI to help large enterprises build software, raised an additional $53M seed led by Xora, five weeks after its initial $32M seed &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260916/p43#a260916p43)
- - [AI’s Rising Costs Cast Doubts on Cloud Gaming’s Future](https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/)
- - [A Deal Hunter’s Guide to Amazon Prime Big Deal Days &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-october-2026-tips/)<!-- TECH:END -->
+ - [There’s a serious security fix hiding in Google’s September Pixel update](https://www.androidauthority.com/google-pixel-zero-click-vulnerability-september-security-patch-3712214/)
+ - [AWS says it can&#39;t restore some data stored exclusively in data centers across Bahrain and one UAE availability zone after Iranian drone strikes in the spring &lpar;Omar Abdel-Baqui/Wall Street Journal&rpar;](https://www.techmeme.com/260916/p53#a260916p53)
+ - [Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260916/p52#a260916p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
