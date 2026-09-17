@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s watch next suggestions are crossing the line on Android — literally](https://www.androidauthority.com/youtube-suggested-watch-next-videos-blocking-playback-controls-3712487/)
- - [Sources: the White House&#39;s Office of the National Cyber Director is drafting an EO to establish a government-led incubator aimed at cybersecurity research &lpar;Bloomberg&rpar;](https://www.techmeme.com/260917/p31#a260917p31)
- - [Best price since Prime Day: Galaxy Watch 8 is down to $259.99](https://www.androidauthority.com/galaxy-watch-8-deal-3712523/)<!-- TECH:END -->
+ - [26 Amazon Prime Perks You Might Know You Have &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-perks/)
+ - [Andrew Ng says renewed AI extinction warnings are &quot;much more science fiction than science&quot; and the latest &quot;wave of PR&quot; is probably intended to shape regulation &lpar;Micah Barkley/Bloomberg&rpar;](https://www.techmeme.com/260917/p37#a260917p37)
+ - [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
