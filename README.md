@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remember, remember, the fifth of November](http://9gag.com/gag/aAyng82)
- - 🚯 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
+ - 🚖 [The future of gaming.](http://9gag.com/gag/aYQz702)
+ - 🚯 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
  - 🚯 [The future of gaming.](http://9gag.com/gag/aYQz702)<!-- MEMES:END -->
 
 --- 
