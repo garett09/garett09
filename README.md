@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [26 Amazon Prime Perks You Might Know You Have &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-perks/)
- - [Andrew Ng says renewed AI extinction warnings are &quot;much more science fiction than science&quot; and the latest &quot;wave of PR&quot; is probably intended to shape regulation &lpar;Micah Barkley/Bloomberg&rpar;](https://www.techmeme.com/260917/p37#a260917p37)
- - [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/)<!-- TECH:END -->
+ - [OpenAI won&#39;t get to see terms of settlement between Apple and SpaceXAI](https://appleinsider.com/articles/26/09/18/openai-wont-get-to-see-terms-of-settlement-between-apple-and-spacexai?utm_source=rss)
+ - [A federal judge denies OpenAI&#39;s bid to see SpaceXAI&#39;s confidential settlement with Apple in an antitrust case, finding the materials irrelevant after a review &lpar;Hassan Ali Kanu/Politico&rpar;](https://www.techmeme.com/260917/p44#a260917p44)
+ - [Waymo says Singapore will be its next international robotaxi city](https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
