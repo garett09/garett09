@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI won&#39;t get to see terms of settlement between Apple and SpaceXAI](https://appleinsider.com/articles/26/09/18/openai-wont-get-to-see-terms-of-settlement-between-apple-and-spacexai?utm_source=rss)
- - [A federal judge denies OpenAI&#39;s bid to see SpaceXAI&#39;s confidential settlement with Apple in an antitrust case, finding the materials irrelevant after a review &lpar;Hassan Ali Kanu/Politico&rpar;](https://www.techmeme.com/260917/p44#a260917p44)
- - [Waymo says Singapore will be its next international robotaxi city](https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027)<!-- TECH:END -->
+ - [The Leftist Split Over AI Doom](https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/)
+ - [That security patch date on your Android phone is no longer the full story](https://www.androidauthority.com/google-androidx-security-state-libraries-3712778/)
+ - [Revolut CEO Nik Storonsky says the fintech is exploring a dual stock market listing in New York and London, after previously dismissing listing in the UK &lpar;Financial Times&rpar;](https://www.techmeme.com/260918/p8#a260918p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
