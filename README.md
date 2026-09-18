@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Leftist Split Over AI Doom](https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/)
- - [That security patch date on your Android phone is no longer the full story](https://www.androidauthority.com/google-androidx-security-state-libraries-3712778/)
- - [Revolut CEO Nik Storonsky says the fintech is exploring a dual stock market listing in New York and London, after previously dismissing listing in the UK &lpar;Financial Times&rpar;](https://www.techmeme.com/260918/p8#a260918p8)<!-- TECH:END -->
+ - [Security researchers used Claude to help them hack into OpenAI](https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist)
+ - [First iPhone 18 Pro teardown shows larger battery and vapor chamber](https://appleinsider.com/articles/26/09/18/first-iphone-18-pro-teardown-shows-larger-battery-and-vapor-chamber?utm_source=rss)
+ - [Nothing Headphone 1 falls to $225 with spatial audio and 80 hours of battery life](https://www.androidauthority.com/nothing-headphone-1-amazon-deal-3712975/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
