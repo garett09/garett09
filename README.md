@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)
- - 🚯 [Eternal jar of mystery](http://9gag.com/gag/aMVpKd1)
- - 🚯 [Yes, why?](http://9gag.com/gag/a4PMEE1)<!-- MEMES:END -->
+ - 🚯 [Texas Police Department Shut Down For Failing To Provide \u2018Public Benefit\u2019\u00a0](http://9gag.com/gag/a2vQ7Ad)
+ - 🚯 [I&#39;m enraged](http://9gag.com/gag/a87rEKO)<!-- MEMES:END -->
 
 --- 
 
