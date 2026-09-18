@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)
- - 🚯 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
- - 🚯 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)<!-- MEMES:END -->
+ - 🚯 [Eternal jar of mystery](http://9gag.com/gag/aMVpKd1)
+ - 🚯 [Yes, why?](http://9gag.com/gag/a4PMEE1)<!-- MEMES:END -->
 
 --- 
 
