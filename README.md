@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flock Offers Employees Buyouts as Customers Flee](https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/)
- - [Nex, which makes Nex Playground, raised a $150M Series E; Nex has sold 1M units of the motion-based gaming system targeted toward kids since its launch in 2023 &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](https://www.techmeme.com/260918/p40#a260918p40)
- - [Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260918/p39#a260918p39)<!-- TECH:END -->
+ - [I got hit by phantom roaming charges abroad — here’s how to avoid them](https://www.androidauthority.com/phantom-roaming-charges-how-to-avoid-3710125/)
+ - [An Editor’s Picks: The Best Gifts for Bird Lovers](https://www.wired.com/story/best-gifts-for-bird-lovers-2026/)
+ - [Mathematicians Hate AI. They Can’t Quit It](https://www.wired.com/story/mathematicians-cant-quit-ai/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
