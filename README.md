@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amsterdam](http://9gag.com/gag/aPAOZrB)
+ - 🚖 [Meet burrito](http://9gag.com/gag/aVvGbDn)
  - 🚯 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)
- - 🚯 [Me thinking life is hard than I see someone who got it harder.](http://9gag.com/gag/agmRgXw)<!-- MEMES:END -->
+ - 🚯 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)<!-- MEMES:END -->
 
 --- 
 
