@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I got hit by phantom roaming charges abroad — here’s how to avoid them](https://www.androidauthority.com/phantom-roaming-charges-how-to-avoid-3710125/)
- - [An Editor’s Picks: The Best Gifts for Bird Lovers](https://www.wired.com/story/best-gifts-for-bird-lovers-2026/)
- - [Mathematicians Hate AI. They Can’t Quit It](https://www.wired.com/story/mathematicians-cant-quit-ai/)<!-- TECH:END -->
+ - [Anamanaguchi has ‘too goddamn many’ browser tabs open right now](https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music)
+ - [The colorful, unique Hyte X50 PC case is $50 off](https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale)
+ - [Raindrop, which develops tech for monitoring AI agents to catch failures such as hallucinations and tool misuse, raised a $35M Series A led by CRV &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260919/p7#a260919p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
