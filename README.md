@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meet burrito](http://9gag.com/gag/aVvGbDn)
- - 🚯 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)
- - 🚯 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)<!-- MEMES:END -->
+ - 🚖 [Amsterdam](http://9gag.com/gag/aPAOZrB)
+ - 🚯 [WorldPokerr.](http://9gag.com/gag/avybQ2Z)
+ - 🚯 [50 caliber bullet ricochet , they are lucky to be alive and they are laughing](http://9gag.com/gag/aXP8r2g)<!-- MEMES:END -->
 
 --- 
 
