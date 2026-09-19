@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amsterdam](http://9gag.com/gag/aPAOZrB)
- - 🚯 [WorldPokerr.](http://9gag.com/gag/avybQ2Z)
- - 🚯 [Kid should be a Hero, instead he gets probation!](http://9gag.com/gag/aYQzV8v)<!-- MEMES:END -->
+ - 🚖 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
+ - 🚯 [Something was wrong with his coffee](http://9gag.com/gag/aYQzQgw)
+ - 🚯 [Meanwhile..](http://9gag.com/gag/aPAOgYV)<!-- MEMES:END -->
 
 --- 
 
