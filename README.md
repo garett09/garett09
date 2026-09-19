@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Amsterdam](http://9gag.com/gag/aPAOZrB)
  - 🚯 [WorldPokerr.](http://9gag.com/gag/avybQ2Z)
- - 🚯 [50 caliber bullet ricochet , they are lucky to be alive and they are laughing](http://9gag.com/gag/aXP8r2g)<!-- MEMES:END -->
+ - 🚯 [Kid should be a Hero, instead he gets probation!](http://9gag.com/gag/aYQzV8v)<!-- MEMES:END -->
 
 --- 
 
