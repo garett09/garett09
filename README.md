@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is testing a new version of its AI agent CC, pivoting the tool from an individual productivity assistant into a collaborative household management agent &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260918/p25#a260918p25)
- - [Today’s Wordle Hints, Answer and Help for Sept. 19, #1918](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-19-1918/)
- - [Snapseed beta introduces Community Looks for sharing your favorite tweaks](https://www.androidauthority.com/snapseed-community-looks-3713076/)<!-- TECH:END -->
+ - [Flock Offers Employees Buyouts as Customers Flee](https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/)
+ - [Nex, which makes Nex Playground, raised a $150M Series E; Nex has sold 1M units of the motion-based gaming system targeted toward kids since its launch in 2023 &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](https://www.techmeme.com/260918/p40#a260918p40)
+ - [Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260918/p39#a260918p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
