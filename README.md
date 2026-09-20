@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
+ - 🚖 [Amsterdam](http://9gag.com/gag/aPAOZrB)
  - 🚯 [Something was wrong with his coffee](http://9gag.com/gag/aYQzQgw)
- - 🚯 [Meanwhile..](http://9gag.com/gag/aPAOgYV)<!-- MEMES:END -->
+ - 🚯 [This and a data center in the backyard](http://9gag.com/gag/aD2B2dB)<!-- MEMES:END -->
 
 --- 
 
