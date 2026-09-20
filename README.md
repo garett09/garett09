@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say AI kill-switch legislation is far harder to implement than lawmakers assume, warning a rogue AI could actively try to dismantle the mechanism itself &lpar;New York Times&rpar;](https://www.techmeme.com/260919/p12#a260919p12)
- - [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
- - [Trump says he will appoint an AI czar and form an &quot;AI Force&quot;, in a Truth Social post that rejects AI safety concerns as a &quot;hoax&quot; &lpar;María Paula Mijares Torres/Bloomberg&rpar;](https://www.techmeme.com/260919/p11#a260919p11)<!-- TECH:END -->
+ - [This simple Duolingo trick brings back hearts and gets rid of the annoying ads](https://www.androidauthority.com/duolingo-web-app-trick-3711603/)
+ - [Meet the Academics Trying to Stop You From Having Sex in Robotaxis](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/)
+ - [What You Need to Know About the Foreign-Made Router Ban in the US](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
