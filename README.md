@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This simple Duolingo trick brings back hearts and gets rid of the annoying ads](https://www.androidauthority.com/duolingo-web-app-trick-3711603/)
- - [Meet the Academics Trying to Stop You From Having Sex in Robotaxis](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/)
- - [What You Need to Know About the Foreign-Made Router Ban in the US](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/)<!-- TECH:END -->
+ - [Claimed Apple Fitness+ layoffs are no sign of problems with the service](https://appleinsider.com/articles/26/09/20/claimed-apple-fitness-layoffs-are-no-sign-of-problems-with-the-service?utm_source=rss)
+ - [A closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple&#39;s strategy for the home; sources: Apple started cutting Fitness+ staff &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260920/p8#a260920p8)
+ - [Apple Home Hub will be the intelligent center of your home](https://appleinsider.com/articles/26/09/20/apple-home-hub-will-be-the-intelligent-center-of-your-home?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
