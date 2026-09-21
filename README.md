@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Second developer betas of iOS 27.2, macOS 27.2 are out now](https://appleinsider.com/articles/26/09/21/second-developer-betas-of-ios-272-macos-272-are-out-now?utm_source=rss)
- - [Ahead of Sam Altman&#39;s UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260921/p44#a260921p44)
- - [Neural Engine timeouts &amp; Face ID panics hit Apple&#39;s newest devices](https://appleinsider.com/articles/26/09/21/neural-engine-timeouts-face-id-panics-hit-apples-newest-devices?utm_source=rss)<!-- TECH:END -->
+ - [Bought an iPhone 2 years ago? Don’t forget to claim your piece of Apple’s settlement](https://www.androidauthority.com/siri-apple-intelligence-settlement-3713801/)
+ - [Google Sheets just got a little better for the financial analysts out there](https://www.androidauthority.com/google-sheets-workday-add-on-3713804/)
+ - [Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs &lpar;Bloomberg&rpar;](https://www.techmeme.com/260921/p51#a260921p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
