@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do we tell him](http://9gag.com/gag/aXP8Pev)
- - 🚯 [Murica](http://9gag.com/gag/ae9X4Bj)
- - 🚯 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)<!-- MEMES:END -->
+ - 🚖 [Define nepotism: Kadyrov appointed one of his sons, whose intellect barely rivals that of a housefly, as the head of Chechnya&#39;s security council. Let&#39;s hear what this eloquent young man has to say:](http://9gag.com/gag/avybWBE)
+ - 🚯 [Nice to see WHITE lads in ads again\u2026](http://9gag.com/gag/aByDZOA)
+ - 🚯 [We have reached the bottom - for now](http://9gag.com/gag/aqyvXYR)<!-- MEMES:END -->
 
 --- 
 
