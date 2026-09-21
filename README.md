@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a everyday thing](http://9gag.com/gag/a34oGyr)
- - 🚯 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
- - 🚯 [Something was wrong with his coffee](http://9gag.com/gag/aYQzQgw)<!-- MEMES:END -->
+ - 🚖 [How do we tell him](http://9gag.com/gag/aXP8Pev)
+ - 🚯 [Murica](http://9gag.com/gag/ae9X4Bj)
+ - 🚯 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)<!-- MEMES:END -->
 
 --- 
 
