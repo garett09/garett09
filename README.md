@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [England will no longer be United Kingdom: 3 territories signed their divorce mandate](http://9gag.com/gag/aKGbAVN)
- - 🚯 [Techno parade Paris](http://9gag.com/gag/a9y3vjj)
- - 🚯 [Marriage in a nutshell](http://9gag.com/gag/aAynQzd)<!-- MEMES:END -->
+ - 🚖 [Hypothetically, ofc](http://9gag.com/gag/aVvGEK2)
+ - 🚯 [Girls just wanna have fun](http://9gag.com/gag/ae9XO0B)
+ - 🚯 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)<!-- MEMES:END -->
 
 --- 
 
