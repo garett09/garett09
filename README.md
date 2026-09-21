@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sunday Reboot: A power station and store hopes](https://appleinsider.com/articles/26/09/20/sunday-reboot-a-power-station-and-store-hopes?utm_source=rss)
- - [No one is surprised that Nvidia&amp;#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)
- - [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)<!-- TECH:END -->
+ - [Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/260920/p17#a260920p17)
+ - [Mithrl, which integrates its proprietary biomedical world model with the R&amp;D systems of pharmaceutical companies, raised a $20M Series A led by Obvious Ventures &lpar;Natalie Breymeyer/Axios&rpar;](https://www.techmeme.com/260920/p16#a260920p16)
+ - [UK-based Unit1, which develops &quot;hyper-realistic&quot; digital avatars of musicians to recreate classic concerts, raised nearly £15M from Balderton Capital and others &lpar;Alex Lawson/The Guardian&rpar;](https://www.techmeme.com/260920/p15#a260920p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
