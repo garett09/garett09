@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: AI hacker house AGI House had 37 incidents logged by police since 2022, many for party-related complaints, as Bay Area tech houses proliferate &lpar;Kirsten Grind/New York Times&rpar;](https://www.techmeme.com/260921/p20#a260921p20)
- - [Pacing the frontier may be sincere, but it would also be strategically useful for frontier AI labs to have time to reduce overhangs caused by model advancement &lpar;Ben Thompson/Stratechery&rpar;](https://www.techmeme.com/260921/p19#a260921p19)
- - [Data Center Watch: 45 US data center projects valued at $68B were blocked or delayed by local opposition between April and June, or 50%+ of large developments &lpar;Newley Purnell/Bloomberg&rpar;](https://www.techmeme.com/260921/p18#a260921p18)<!-- TECH:END -->
+ - [Second developer betas of iOS 27.2, macOS 27.2 are out now](https://appleinsider.com/articles/26/09/21/second-developer-betas-of-ios-272-macos-272-are-out-now?utm_source=rss)
+ - [Ahead of Sam Altman&#39;s UN address, OpenAI urges the US to lead an effort to develop global safety and security standards for building frontier systems &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260921/p44#a260921p44)
+ - [Neural Engine timeouts &amp; Face ID panics hit Apple&#39;s newest devices](https://appleinsider.com/articles/26/09/21/neural-engine-timeouts-face-id-panics-hit-apples-newest-devices?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
