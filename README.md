@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Define nepotism: Kadyrov appointed one of his sons, whose intellect barely rivals that of a housefly, as the head of Chechnya&#39;s security council. Let&#39;s hear what this eloquent young man has to say:](http://9gag.com/gag/avybWBE)
- - 🚯 [Nice to see WHITE lads in ads again\u2026](http://9gag.com/gag/aByDZOA)
- - 🚯 [We have reached the bottom - for now](http://9gag.com/gag/aqyvXYR)<!-- MEMES:END -->
+ - 🚖 [England will no longer be United Kingdom: 3 territories signed their divorce mandate](http://9gag.com/gag/aKGbAVN)
+ - 🚯 [Techno parade Paris](http://9gag.com/gag/a9y3vjj)
+ - 🚯 [Marriage in a nutshell](http://9gag.com/gag/aAynQzd)<!-- MEMES:END -->
 
 --- 
 
