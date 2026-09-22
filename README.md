@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is a Home Security System Subscription Worth It? &lpar;2026&rpar;](https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/)
- - [Sources: multiple staff at the UK&#39;s AISI have been signed off work with stress, as tight model release schedules and AI fears lead to low morale and burnout &lpar;Financial Times&rpar;](https://www.techmeme.com/260922/p12#a260922p12)
- - [After trying this Walmart tablet, I’ll never buy an Android tablet from any other brand](https://www.androidauthority.com/walmart-onn-better-than-other-android-tablets-why-3710154/)<!-- TECH:END -->
+ - [Trump says US is officially renaming AI ‘super intelligence’](https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence)
+ - [Rabbit Is Back, This Time With an AI Agent App](https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/)
+ - [Amazon drops the UGREEN MagFlow Qi2 25W power bank below $55](https://www.androidauthority.com/ugreen-magflow-qi2-25w-wireless-power-bank-deal-3714145/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
