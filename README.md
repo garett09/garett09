@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MiMo-V2.6-Pro ties Grok 4.7 &lpar;xHigh&rpar; and beats GLM-5.3 &lpar;max&rpar; on Artificial Analysis&#39; Intelligence Index, making it the benchmark&#39;s top-scoring open-weight model &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260921/p56#a260921p56)
- - [Google officially opens the door to more games on Android Auto](https://www.androidauthority.com/google-android-auto-games-general-availability-3713850/)
- - [Warner Bros. Merger Back On: Paramount Settles Antitrust Suit](https://www.cnet.com/tech/services-and-software/warner-bros-merger-paramount-settles-antitrust-suit/)<!-- TECH:END -->
+ - [Is a Home Security System Subscription Worth It? &lpar;2026&rpar;](https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/)
+ - [Sources: multiple staff at the UK&#39;s AISI have been signed off work with stress, as tight model release schedules and AI fears lead to low morale and burnout &lpar;Financial Times&rpar;](https://www.techmeme.com/260922/p12#a260922p12)
+ - [After trying this Walmart tablet, I’ll never buy an Android tablet from any other brand](https://www.androidauthority.com/walmart-onn-better-than-other-android-tablets-why-3710154/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
