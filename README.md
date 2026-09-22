@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bought an iPhone 2 years ago? Don’t forget to claim your piece of Apple’s settlement](https://www.androidauthority.com/siri-apple-intelligence-settlement-3713801/)
- - [Google Sheets just got a little better for the financial analysts out there](https://www.androidauthority.com/google-sheets-workday-add-on-3713804/)
- - [Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs &lpar;Bloomberg&rpar;](https://www.techmeme.com/260921/p51#a260921p51)<!-- TECH:END -->
+ - [MiMo-V2.6-Pro ties Grok 4.7 &lpar;xHigh&rpar; and beats GLM-5.3 &lpar;max&rpar; on Artificial Analysis&#39; Intelligence Index, making it the benchmark&#39;s top-scoring open-weight model &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260921/p56#a260921p56)
+ - [Google officially opens the door to more games on Android Auto](https://www.androidauthority.com/google-android-auto-games-general-availability-3713850/)
+ - [Warner Bros. Merger Back On: Paramount Settles Antitrust Suit](https://www.cnet.com/tech/services-and-software/warner-bros-merger-paramount-settles-antitrust-suit/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
