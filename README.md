@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hypothetically, ofc](http://9gag.com/gag/aVvGEK2)
- - 🚯 [Girls just wanna have fun](http://9gag.com/gag/ae9XO0B)
- - 🚯 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)<!-- MEMES:END -->
+ - 🚖 [How to get a girlfriend 101](http://9gag.com/gag/aNDyLLv)
+ - 🚯 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
+ - 🚯 [Yummy](http://9gag.com/gag/a5QLBxG)<!-- MEMES:END -->
 
 --- 
 
