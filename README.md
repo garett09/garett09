@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic reported disrupting a Beijing-aligned operation to monitor religious leaders and diaspora communities, including a DC-based advocacy group for Tibet &lpar;Richard Gere/Wall Street Journal&rpar;](https://www.techmeme.com/260923/p13#a260923p13)
- - [Kate Tolo Says Her Quest to Be ‘the Female Bryan Johnson’ Is ‘for Women’](https://www.wired.com/story/kate-tolo-says-her-quest-to-be-the-female-bryan-johnson-is-for-women/)
- - [Google could bring the Pixel 11’s customized My Pixel colors to older Pixels](https://www.androidauthority.com/my-pixel-app-device-colors-apk-teardown-3714457/)<!-- TECH:END -->
+ - [Amazon slashes $199 off the highly rated Apple Watch Ultra 3](https://www.androidauthority.com/apple-watch-ultra-3-record-deal-3714676/)
+ - [Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its &quot;most expressive audio generation models yet&quot;, with support for more than 100 languages &lpar;Google&rpar;](https://www.techmeme.com/260923/p31#a260923p31)
+ - [Xbox’s Mythic achievements sound like PlayStation’s Platinum trophy](https://www.theverge.com/news/999404/xbox-mythic-achievement-feature)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
