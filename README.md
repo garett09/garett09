@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox has become a shell of its former self, weighed down by job cuts and studio closures, as it focuses on franchises like Halo and reaching &quot;a billion people&quot; &lpar;Andrew Webster/The Verge&rpar;](https://www.techmeme.com/260922/p60#a260922p60)
- - [Discord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more &lpar;Anna Washenko/Engadget&rpar;](https://www.techmeme.com/260922/p59#a260922p59)
- - [OpenAI wants to consult elite mathematicians about how to not fumble again](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel)<!-- TECH:END -->
+ - [Anthropic reported disrupting a Beijing-aligned operation to monitor religious leaders and diaspora communities, including a DC-based advocacy group for Tibet &lpar;Richard Gere/Wall Street Journal&rpar;](https://www.techmeme.com/260923/p13#a260923p13)
+ - [Kate Tolo Says Her Quest to Be ‘the Female Bryan Johnson’ Is ‘for Women’](https://www.wired.com/story/kate-tolo-says-her-quest-to-be-the-female-bryan-johnson-is-for-women/)
+ - [Google could bring the Pixel 11’s customized My Pixel colors to older Pixels](https://www.androidauthority.com/my-pixel-app-device-colors-apk-teardown-3714457/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
