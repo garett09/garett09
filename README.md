@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes $199 off the highly rated Apple Watch Ultra 3](https://www.androidauthority.com/apple-watch-ultra-3-record-deal-3714676/)
- - [Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its &quot;most expressive audio generation models yet&quot;, with support for more than 100 languages &lpar;Google&rpar;](https://www.techmeme.com/260923/p31#a260923p31)
- - [Xbox’s Mythic achievements sound like PlayStation’s Platinum trophy](https://www.theverge.com/news/999404/xbox-mythic-achievement-feature)<!-- TECH:END -->
+ - [Google’s Omni video generator is now free to try in Vids](https://www.androidauthority.com/google-vids-omni-flash-lite-3714767/)
+ - [Blame this Google Maps Android Auto bug for your next speeding ticket](https://www.androidauthority.com/android-auto-google-maps-speed-bug-3714762/)
+ - [New Apple Watch models could restart randomly, &amp; watchOS 27.0.1 fixes that bug](https://appleinsider.com/articles/26/09/23/new-apple-watch-models-could-restart-randomly-watchos-2701-fixes-that-bug?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
