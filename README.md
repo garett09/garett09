@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hollywood Producer Harvey Weinstein Sentenced To 15 Years In Prison For Sexual Assault](http://9gag.com/gag/aW4VoDd)
- - 🚯 [I get that everyday. Everytime and beyond](http://9gag.com/gag/a0em60B)
- - 🚯 [This-19YearOld](http://9gag.com/gag/azx6Oop)<!-- MEMES:END -->
+ - 🚖 [We are cooked.](http://9gag.com/gag/aRBxoyB)
+ - 🚯 [But when a woman killed her 3 children, she\u2019s a hero\u2026..](http://9gag.com/gag/aKGb8eQ)
+ - 🚯 [Wholesome moment](http://9gag.com/gag/aXP8W19)<!-- MEMES:END -->
 
 --- 
 
