@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [We are cooked.](http://9gag.com/gag/aRBxoyB)
- - 🚯 [But when a woman killed her 3 children, she\u2019s a hero\u2026..](http://9gag.com/gag/aKGb8eQ)
+ - 🚯 [In a few months : `The biggest money printing the world has ever seen. The best. Nobody has ever printed money like this before. Never. Absolutely tremendous printing. Historic printing. We gonna print so much, the printer is gonna ask for a break.`](http://9gag.com/gag/aNDyRo3)
  - 🚯 [Wholesome moment](http://9gag.com/gag/aXP8W19)<!-- MEMES:END -->
 
 --- 
