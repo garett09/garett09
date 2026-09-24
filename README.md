@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An OpenAI Agent Hacked Australia&#39;s Health Service. Their Government Found Out Months Later.](https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/)
- - [VFX company DNEG&#39;s AI unit Brahma, whose customers include Warner Bros. and the NBA, raised $150M led by Indian PE firm Multiples at a $2B post-money valuation &lpar;Priyanka Salve/CNBC&rpar;](https://www.techmeme.com/260924/p18#a260924p18)
- - [SeaWorld Wants to Make You Horny](https://www.wired.com/story/seaworld-wants-to-make-you-horny/)<!-- TECH:END -->
+ - [Google is testing Call for Me, which lets Gemini call businesses on behalf of users, initially for Pixel 11 users with a Gemini subscription in the US &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260924/p34#a260924p34)
+ - [Gemini can now call businesses for you so you don’t have to wait on hold](https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls)
+ - [Google’s new Call for Me feature does exactly what it sounds like](https://www.androidauthority.com/google-pixel-11-gemini-call-for-me-3714744/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
