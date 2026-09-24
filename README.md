@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Omni video generator is now free to try in Vids](https://www.androidauthority.com/google-vids-omni-flash-lite-3714767/)
- - [Blame this Google Maps Android Auto bug for your next speeding ticket](https://www.androidauthority.com/android-auto-google-maps-speed-bug-3714762/)
- - [New Apple Watch models could restart randomly, &amp; watchOS 27.0.1 fixes that bug](https://appleinsider.com/articles/26/09/23/new-apple-watch-models-could-restart-randomly-watchos-2701-fixes-that-bug?utm_source=rss)<!-- TECH:END -->
+ - [During a Senate hearing, lawmakers criticized automatic license plate readers amid concerns about Flock; the CEOs of Flock and others declined to attend &lpar;Christian Robles/Nextgov/FCW&rpar;](https://www.techmeme.com/260923/p62#a260923p62)
+ - [Meta says it will allow its AI glasses users to opt out of having their &quot;visual data&quot; used to train its AI or shown to third-party contractors outside the US &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260923/p61#a260923p61)
+ - [An interview with Mark Zuckerberg on the products released at Connect, camera-free Ray-Bans being in the works before the &quot;pervert glasses&quot; backlash, more &lpar;Joanna Stern/The New Things&rpar;](https://www.techmeme.com/260923/p60#a260923p60)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
