@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is testing Call for Me, which lets Gemini call businesses on behalf of users, initially for Pixel 11 users with a Gemini subscription in the US &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260924/p34#a260924p34)
- - [Gemini can now call businesses for you so you don’t have to wait on hold](https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls)
- - [Google’s new Call for Me feature does exactly what it sounds like](https://www.androidauthority.com/google-pixel-11-gemini-call-for-me-3714744/)<!-- TECH:END -->
+ - [Inside the Network of Anonymous Men Destroying Young Women’s Lives](https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side/)
+ - [Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260924/p46#a260924p46)
+ - [Gemini’s next desktop upgrade could let it handle tasks across your apps](https://www.androidauthority.com/gemini-tasks-mode-desktop-leak-3715259/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
