@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Primetime’ Exposes the Ego-Driven Core of Vigilante Pedophile Hunting](https://www.wired.com/story/primetime-exposes-the-ego-driven-core-of-vigilante-pedophile-hunting/)
- - [Your Googlebook has a hidden app that turns its Glowbar into a disco](https://www.androidauthority.com/googlebook-glowbar-disco-app-3715417/)
- - [ATV Launcher’s latest update brings big home screen upgrades for your Android TV](https://www.androidauthority.com/atv-launcher-v0-1-41-update-3715420/)<!-- TECH:END -->
+ - [Deal: Samsung Galaxy A57 5G gets a $100 Amazon price drop](https://www.androidauthority.com/samsung-galaxy-a57-5g-deal-3715684/)
+ - [Interview: Why Ron Johnson says Apple had no choice but to gamble millions on retail](https://appleinsider.com/articles/26/09/25/interview-why-ron-johnson-says-apple-had-no-choice-but-to-gamble-millions-on-retail?utm_source=rss)
+ - [Apple&#39;s next HomePod mini won&#39;t get a redesign, but will get some new colors](https://appleinsider.com/articles/26/09/25/apples-next-homepod-mini-wont-get-a-redesign-but-will-get-some-new-colors?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
