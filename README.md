@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Samsung Galaxy A57 5G gets a $100 Amazon price drop](https://www.androidauthority.com/samsung-galaxy-a57-5g-deal-3715684/)
- - [Interview: Why Ron Johnson says Apple had no choice but to gamble millions on retail](https://appleinsider.com/articles/26/09/25/interview-why-ron-johnson-says-apple-had-no-choice-but-to-gamble-millions-on-retail?utm_source=rss)
- - [Apple&#39;s next HomePod mini won&#39;t get a redesign, but will get some new colors](https://appleinsider.com/articles/26/09/25/apples-next-homepod-mini-wont-get-a-redesign-but-will-get-some-new-colors?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Oura IPO is roughly four times oversubscribed; Filing: Oura and the selling shareholders are offering 50M shares for $40 to $44 each to raise ~$2.2B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260925/p19#a260925p19)
+ - [Researchers add details to the Hugging Face incident, including OpenAI agents creating ~1M shortened URLs to encode information in an attempt to solve CAPTCHAs &lpar;Dylan Freedman/New York Times&rpar;](https://www.techmeme.com/260925/p18#a260925p18)
+ - [Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand](https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
