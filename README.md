@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
- - 🚯 [We are cooked.](http://9gag.com/gag/aRBxoyB)
- - 🚯 [Commitment level extreme](http://9gag.com/gag/aqyvzxM)<!-- MEMES:END -->
+ - 🚯 [Survive 20 jumps](http://9gag.com/gag/a9y3X5W)
+ - 🚯 [We are cooked.](http://9gag.com/gag/aRBxoyB)<!-- MEMES:END -->
 
 --- 
 
