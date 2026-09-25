@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the Network of Anonymous Men Destroying Young Women’s Lives](https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side/)
- - [Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260924/p46#a260924p46)
- - [Gemini’s next desktop upgrade could let it handle tasks across your apps](https://www.androidauthority.com/gemini-tasks-mode-desktop-leak-3715259/)<!-- TECH:END -->
+ - [Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260924/p55#a260924p55)
+ - [Here’s the Tesla Semi… again](https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer)
+ - [Massachusetts&#39; gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation &lpar;New York Times&rpar;](https://www.techmeme.com/260924/p54#a260924p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
