@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [We are cooked.](http://9gag.com/gag/aRBxoyB)
- - 🚯 [In a few months : `The biggest money printing the world has ever seen. The best. Nobody has ever printed money like this before. Never. Absolutely tremendous printing. Historic printing. We gonna print so much, the printer is gonna ask for a break.`](http://9gag.com/gag/aNDyRo3)
- - 🚯 [Wholesome moment](http://9gag.com/gag/aXP8W19)<!-- MEMES:END -->
+ - 🚯 [Look carefully](http://9gag.com/gag/a87rDVY)
+ - 🚯 [Now that&#39;s a fun kinda wife to have](http://9gag.com/gag/a2vQbzw)<!-- MEMES:END -->
 
 --- 
 
