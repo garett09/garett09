@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260924/p55#a260924p55)
- - [Here’s the Tesla Semi… again](https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer)
- - [Massachusetts&#39; gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation &lpar;New York Times&rpar;](https://www.techmeme.com/260924/p54#a260924p54)<!-- TECH:END -->
+ - [‘Primetime’ Exposes the Ego-Driven Core of Vigilante Pedophile Hunting](https://www.wired.com/story/primetime-exposes-the-ego-driven-core-of-vigilante-pedophile-hunting/)
+ - [Your Googlebook has a hidden app that turns its Glowbar into a disco](https://www.androidauthority.com/googlebook-glowbar-disco-app-3715417/)
+ - [ATV Launcher’s latest update brings big home screen upgrades for your Android TV](https://www.androidauthority.com/atv-launcher-v0-1-41-update-3715420/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
