@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says ShinyHunters has renewed &quot;mass exploitation&quot; of a flaw in Oracle&#39;s PeopleSoft; ShinyHunters has said it accessed FBI data using a flaw in PeopleSoft &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p27#a260925p27)
- - [A bipartisan group of US lawmakers introduces a bill to bar the federal government from equipping sensitive government systems with Chinese optical transceivers &lpar;Alexandra Alper/Reuters&rpar;](https://www.techmeme.com/260925/p26#a260925p26)
- - [Leaks Show That Meta’s New AI Agent Relied on Real People to Make Calls](https://www.cnet.com/tech/services-and-software/leaks-metas-new-ai-agent-muse-real-people-call-centers/)<!-- TECH:END -->
+ - [The Motorola Signature 27 has one huge advantage over other Samsung rivals](https://www.androidauthority.com/motorola-signature-27-advantage-over-other-samsung-rivals-3714695/)
+ - [Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?](https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/)
+ - [PitchBook: VCs have invested $4B+ in quantum computing companies YTD, almost as much as in all of 2025, which nearly matched the previous four years combined &lpar;Financial Times&rpar;](https://www.techmeme.com/260926/p7#a260926p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
