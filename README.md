@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Oura IPO is roughly four times oversubscribed; Filing: Oura and the selling shareholders are offering 50M shares for $40 to $44 each to raise ~$2.2B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260925/p19#a260925p19)
- - [Researchers add details to the Hugging Face incident, including OpenAI agents creating ~1M shortened URLs to encode information in an attempt to solve CAPTCHAs &lpar;Dylan Freedman/New York Times&rpar;](https://www.techmeme.com/260925/p18#a260925p18)
- - [Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand](https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/)<!-- TECH:END -->
+ - [Google says ShinyHunters has renewed &quot;mass exploitation&quot; of a flaw in Oracle&#39;s PeopleSoft; ShinyHunters has said it accessed FBI data using a flaw in PeopleSoft &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p27#a260925p27)
+ - [A bipartisan group of US lawmakers introduces a bill to bar the federal government from equipping sensitive government systems with Chinese optical transceivers &lpar;Alexandra Alper/Reuters&rpar;](https://www.techmeme.com/260925/p26#a260925p26)
+ - [Leaks Show That Meta’s New AI Agent Relied on Real People to Make Calls](https://www.cnet.com/tech/services-and-software/leaks-metas-new-ai-agent-muse-real-people-call-centers/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
