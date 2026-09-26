@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Motorola Signature 27 has one huge advantage over other Samsung rivals](https://www.androidauthority.com/motorola-signature-27-advantage-over-other-samsung-rivals-3714695/)
- - [Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?](https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/)
- - [PitchBook: VCs have invested $4B+ in quantum computing companies YTD, almost as much as in all of 2025, which nearly matched the previous four years combined &lpar;Financial Times&rpar;](https://www.techmeme.com/260926/p7#a260926p7)<!-- TECH:END -->
+ - [Sources: Automattic CEO Matt Mullenweg announces a new board and new advisers; board members include two founders of IRL and the author of the Silo book series &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260926/p11#a260926p11)
+ - [Apple owes Taction $5.7B after losing haptic feedback IP trial](https://appleinsider.com/articles/26/09/26/apple-owes-taction-57b-after-losing-haptic-feedback-ip-trial?utm_source=rss)
+ - [Sources: Monzo is in talks to be acquired by Nubank parent Nu Holdings in a deal valuing it at £8B-£10B; Monzo also discussed selling a ~15% stake to PE firms &lpar;Laith Al-Khalaf/Financial Times&rpar;](https://www.techmeme.com/260926/p10#a260926p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
