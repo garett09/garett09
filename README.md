@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Automattic CEO Matt Mullenweg announces a new board and new advisers; board members include two founders of IRL and the author of the Silo book series &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260926/p11#a260926p11)
- - [Apple owes Taction $5.7B after losing haptic feedback IP trial](https://appleinsider.com/articles/26/09/26/apple-owes-taction-57b-after-losing-haptic-feedback-ip-trial?utm_source=rss)
- - [Sources: Monzo is in talks to be acquired by Nubank parent Nu Holdings in a deal valuing it at £8B-£10B; Monzo also discussed selling a ~15% stake to PE firms &lpar;Laith Al-Khalaf/Financial Times&rpar;](https://www.techmeme.com/260926/p10#a260926p10)<!-- TECH:END -->
+ - [Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more &lpar;Pranshu Verma/Washington Post&rpar;](https://www.techmeme.com/260926/p17#a260926p17)
+ - [Decap is the man behind the drums behind your favorite song](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview)
+ - [Meta says its rejection of ads promoting the new documentary about Elon Musk &quot;was an error and the ads are being restored&quot;; YouTube is also allowing the ads &lpar;Anthony Ha/TechCrunch&rpar;](https://www.techmeme.com/260926/p16#a260926p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
