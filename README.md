@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
- - 🚯 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
- - 🚯 [We are cooked.](http://9gag.com/gag/aRBxoyB)<!-- MEMES:END -->
+ - 🚖 [DAYUM GURL, I THOUGHT THE EXTRA ZERO ON THE 1500cm IN YOUR DATING PROFILE WAS JUST A TYPO ERROR OMG!](http://9gag.com/gag/aZZ9zQX)
+ - 🚯 [We are cooked.](http://9gag.com/gag/aRBxoyB)
+ - 🚯 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)<!-- MEMES:END -->
 
 --- 
 
