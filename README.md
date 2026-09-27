@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Threat Intelligence Group finds dark web marketplaces selling access to AI models, including from Anthropic, Google, and OpenAI, at up to 97% discounts &lpar;Tom Wilson/Financial Times&rpar;](https://www.techmeme.com/260926/p18#a260926p18)
- - [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents)
- - [Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more &lpar;Pranshu Verma/Washington Post&rpar;](https://www.techmeme.com/260926/p17#a260926p17)<!-- TECH:END -->
+ - [What’s the Best Pet DNA Test? We Tested the Most Popular Ones](https://www.wired.com/story/best-pet-dna-test-kits/)
+ - [In China, recent warnings about existential AI risks are seen as distinctly Western or as a ploy to stop Chinese AI companies from overtaking their US rivals &lpar;Lily Kuo/New York Times&rpar;](https://www.techmeme.com/260927/p5#a260927p5)
+ - [I turned my Android phone’s annoying AI button into its most powerful shortcut key](https://www.androidauthority.com/turned-android-phone-ai-button-into-powerful-shortcuts-3714021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
