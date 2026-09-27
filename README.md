@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro&#39;s development graveyard exemplifies Apple&#39;s &#39;1,000 no&#39;s to every yes&#39;](https://appleinsider.com/articles/26/09/27/apple-vision-pros-development-graveyard-exemplifies-apples-1000-nos-to-every-yes?utm_source=rss)
- - [Sources: Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei &lpar;Axios&rpar;](https://www.techmeme.com/260927/p7#a260927p7)
- - [Meta VR Glasses is the product Vision Pro should have been; sources: Apple Vision team is working on a revamped headset, but the work is still on &quot;life support&quot; &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260927/p6#a260927p6)<!-- TECH:END -->
+ - [Sunday Reboot: Big Whoop and more Apple Watch nagging](https://appleinsider.com/articles/26/09/27/sunday-reboot-big-whoop-and-more-apple-watch-nagging?utm_source=rss)
+ - [Q&amp;A with Mustafa Suleyman on recent AI safety incidents, risks of removing guardrails while testing 10x-larger future models, a cross-industry safety body, more &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260927/p10#a260927p10)
+ - [A profile of Jaan Tallinn, who led Anthropic&#39;s $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260927/p9#a260927p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
