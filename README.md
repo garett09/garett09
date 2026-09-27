@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s the Best Pet DNA Test? We Tested the Most Popular Ones](https://www.wired.com/story/best-pet-dna-test-kits/)
- - [In China, recent warnings about existential AI risks are seen as distinctly Western or as a ploy to stop Chinese AI companies from overtaking their US rivals &lpar;Lily Kuo/New York Times&rpar;](https://www.techmeme.com/260927/p5#a260927p5)
- - [I turned my Android phone’s annoying AI button into its most powerful shortcut key](https://www.androidauthority.com/turned-android-phone-ai-button-into-powerful-shortcuts-3714021/)<!-- TECH:END -->
+ - [Apple Vision Pro&#39;s development graveyard exemplifies Apple&#39;s &#39;1,000 no&#39;s to every yes&#39;](https://appleinsider.com/articles/26/09/27/apple-vision-pros-development-graveyard-exemplifies-apples-1000-nos-to-every-yes?utm_source=rss)
+ - [Sources: Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei &lpar;Axios&rpar;](https://www.techmeme.com/260927/p7#a260927p7)
+ - [Meta VR Glasses is the product Vision Pro should have been; sources: Apple Vision team is working on a revamped headset, but the work is still on &quot;life support&quot; &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260927/p6#a260927p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
