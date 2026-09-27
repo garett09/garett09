@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)
  - 🚯 [It&#39;s Fred Flintstones rocklight](http://9gag.com/gag/azx6Qzm)
- - 🚯 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)<!-- MEMES:END -->
+ - 🚯 [Do you like Americano or white?](http://9gag.com/gag/aAynvWd)<!-- MEMES:END -->
 
 --- 
 
