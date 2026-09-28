@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sunday Reboot: Big Whoop and more Apple Watch nagging](https://appleinsider.com/articles/26/09/27/sunday-reboot-big-whoop-and-more-apple-watch-nagging?utm_source=rss)
- - [Q&amp;A with Mustafa Suleyman on recent AI safety incidents, risks of removing guardrails while testing 10x-larger future models, a cross-industry safety body, more &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260927/p10#a260927p10)
- - [A profile of Jaan Tallinn, who led Anthropic&#39;s $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260927/p9#a260927p9)<!-- TECH:END -->
+ - [Ramona Optics, which makes microscopes that use AI to take and analyze large volumes of images of samples, raised a $25M Series A &lpar;Zachery Eanes/Axios&rpar;](https://www.techmeme.com/260927/p14#a260927p14)
+ - [NYC-based Precision Neuroscience, which develops brain-computer interfaces, raised a $250M Series D at a $1B+ valuation, taking its total funding to $430M &lpar;Lauren Hirsch/New York Times&rpar;](https://www.techmeme.com/260927/p13#a260927p13)
+ - [Mentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&amp;T&#39;s AI workloads &lpar;Financial Times&rpar;](https://www.techmeme.com/260927/p12#a260927p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
