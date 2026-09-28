@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)
- - 🚯 [It&#39;s Fred Flintstones rocklight](http://9gag.com/gag/azx6Qzm)
- - 🚯 [Classic](http://9gag.com/gag/aZZ9vqV)<!-- MEMES:END -->
+ - 🚖 [It&#39;s Fred Flintstones rocklight](http://9gag.com/gag/azx6Qzm)
+ - 🚯 [Faster than food](http://9gag.com/gag/apRedDb)
+ - 🚯 [Reasonable reaction](http://9gag.com/gag/apRedPM)<!-- MEMES:END -->
 
 --- 
 
