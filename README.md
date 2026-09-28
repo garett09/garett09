@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39;s Fred Flintstones rocklight](http://9gag.com/gag/azx6Qzm)
- - 🚯 [Faster than food](http://9gag.com/gag/apRedDb)
- - 🚯 [Reasonable reaction](http://9gag.com/gag/apRedPM)<!-- MEMES:END -->
+ - 🚖 [Reasonable reaction](http://9gag.com/gag/apRedPM)
+ - 🚯 [Classic](http://9gag.com/gag/aZZ9vqV)
+ - 🚯 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)<!-- MEMES:END -->
 
 --- 
 
