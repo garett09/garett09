@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ramona Optics, which makes microscopes that use AI to take and analyze large volumes of images of samples, raised a $25M Series A &lpar;Zachery Eanes/Axios&rpar;](https://www.techmeme.com/260927/p14#a260927p14)
- - [NYC-based Precision Neuroscience, which develops brain-computer interfaces, raised a $250M Series D at a $1B+ valuation, taking its total funding to $430M &lpar;Lauren Hirsch/New York Times&rpar;](https://www.techmeme.com/260927/p13#a260927p13)
- - [Mentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&amp;T&#39;s AI workloads &lpar;Financial Times&rpar;](https://www.techmeme.com/260927/p12#a260927p12)<!-- TECH:END -->
+ - [SpaceX preps next-gen Starlink as Amazon’s competitor stalls](https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo)
+ - [Google Messages’ pinned chats could soon get a complete overhaul, here’s an early look](https://www.androidauthority.com/google-messages-pinned-chats-changes-apk-teardown-3716071/)
+ - [The Galaxy S25 and Z7 series are joining Samsung’s stable One UI 9 rollout](https://www.androidauthority.com/samsung-one-ui-9-galaxy-s25-fold-7-flip-7-stable-3716021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
