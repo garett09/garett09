@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX preps next-gen Starlink as Amazon’s competitor stalls](https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo)
- - [Google Messages’ pinned chats could soon get a complete overhaul, here’s an early look](https://www.androidauthority.com/google-messages-pinned-chats-changes-apk-teardown-3716071/)
- - [The Galaxy S25 and Z7 series are joining Samsung’s stable One UI 9 rollout](https://www.androidauthority.com/samsung-one-ui-9-galaxy-s25-fold-7-flip-7-stable-3716021/)<!-- TECH:END -->
+ - [OpenAI scraps plans to publicly launch a model dubbed GPT-6.1 Astra, saying it didn&#39;t quite meet its safety bar; it had been targeting an October release &lpar;Maxwell Zeff/Wall Street Journal&rpar;](https://www.techmeme.com/260928/p37#a260928p37)
+ - [SNL Skewers Anthropic CEO: ‘I Urge You to Urge Me to Stop’](https://www.cnet.com/tech/services-and-software/snl-skewers-anthropic-ceo-i-urge-you-to-urge-me-to-stop/)
+ - [Apple Ordered to Pay $5.7 Billion for Infringing Haptics Patent in iPhone, Apple Watch](https://www.cnet.com/tech/mobile/apple-5-billion-dollars-haptics-patent-iphone-apple-watch/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
