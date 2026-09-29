@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing](https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat)
- - [M5 Max Mac Studio review: Far better choice than Ultra for most desks](https://appleinsider.com/articles/26/09/29/m5-max-mac-studio-review-far-better-choice-than-ultra-for-most-desks?utm_source=rss)
- - [EliseAI, which provides AI tools for health care and housing industries, raised $350M at a $4B valuation, up from $2.2B after raising $250M in August 2025 &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/260929/p18#a260929p18)<!-- TECH:END -->
+ - [OpenAI releases GPT-6.1 Sol, saying it nearly matches Astra on agentic coding and professional work at one-fifth of Astra&#39;s standard prices, in Work and Codex &lpar;OpenAI&rpar;](https://www.techmeme.com/260929/p32#a260929p32)
+ - [Razer’s low-latency wireless gaming keyboard is almost half off](https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale)
+ - [Everything Announced at OpenAI DevDay: Subscription Changes, New Models and Dots](https://www.cnet.com/tech/services-and-software/everything-announced-at-openai-devday-subscription-changes-new-models-and-dots/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
