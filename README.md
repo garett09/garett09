@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI scraps plans to publicly launch a model dubbed GPT-6.1 Astra, saying it didn&#39;t quite meet its safety bar; it had been targeting an October release &lpar;Maxwell Zeff/Wall Street Journal&rpar;](https://www.techmeme.com/260928/p37#a260928p37)
- - [SNL Skewers Anthropic CEO: ‘I Urge You to Urge Me to Stop’](https://www.cnet.com/tech/services-and-software/snl-skewers-anthropic-ceo-i-urge-you-to-urge-me-to-stop/)
- - [Apple Ordered to Pay $5.7 Billion for Infringing Haptics Patent in iPhone, Apple Watch](https://www.cnet.com/tech/mobile/apple-5-billion-dollars-haptics-patent-iphone-apple-watch/)<!-- TECH:END -->
+ - [Q&amp;A with Instinct founder Noah Shinn on Instinct&#39;s business model, privacy, safety and security, securing compute, Big Tech competition, and more &lpar;Patrick O&#39;Shaughnessy/Colossus&rpar;](https://www.techmeme.com/260928/p47#a260928p47)
+ - [How to escape Photoshop&#39;s clutches by installing PhotoGimp](https://appleinsider.com/articles/26/09/29/how-to-escape-photoshops-clutches-by-installing-photogimp?utm_source=rss)
+ - [Google confirms it&#39;ll phase out ChromeOS by mid-2034, cutting short a 10-year support period for some devices but noting it will help orgs move to Googlebook OS &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260928/p46#a260928p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
