@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Instinct founder Noah Shinn on Instinct&#39;s business model, privacy, safety and security, securing compute, Big Tech competition, and more &lpar;Patrick O&#39;Shaughnessy/Colossus&rpar;](https://www.techmeme.com/260928/p47#a260928p47)
- - [How to escape Photoshop&#39;s clutches by installing PhotoGimp](https://appleinsider.com/articles/26/09/29/how-to-escape-photoshops-clutches-by-installing-photogimp?utm_source=rss)
- - [Google confirms it&#39;ll phase out ChromeOS by mid-2034, cutting short a 10-year support period for some devices but noting it will help orgs move to Googlebook OS &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260928/p46#a260928p46)<!-- TECH:END -->
+ - [Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing](https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat)
+ - [M5 Max Mac Studio review: Far better choice than Ultra for most desks](https://appleinsider.com/articles/26/09/29/m5-max-mac-studio-review-far-better-choice-than-ultra-for-most-desks?utm_source=rss)
+ - [EliseAI, which provides AI tools for health care and housing industries, raised $350M at a $4B valuation, up from $2.2B after raising $250M in August 2025 &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/260929/p18#a260929p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
