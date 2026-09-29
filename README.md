@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F&rpar; Op likes trans](http://9gag.com/gag/aQzYD4e)
- - 🚯 [F&rpar; Op likes trans](http://9gag.com/gag/aQzYD4e)
- - 🚯 [F&rpar; Op likes trans](http://9gag.com/gag/aQzYD4e)<!-- MEMES:END -->
+ - 🚖 [What?](http://9gag.com/gag/a7ojm1A)
+ - 🚯 [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)
+ - 🚯 [What?](http://9gag.com/gag/a7ojm1A)<!-- MEMES:END -->
 
 --- 
 
