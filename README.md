@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI releases GPT-6.1 Sol, saying it nearly matches Astra on agentic coding and professional work at one-fifth of Astra&#39;s standard prices, in Work and Codex &lpar;OpenAI&rpar;](https://www.techmeme.com/260929/p32#a260929p32)
- - [Razer’s low-latency wireless gaming keyboard is almost half off](https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale)
- - [Everything Announced at OpenAI DevDay: Subscription Changes, New Models and Dots](https://www.cnet.com/tech/services-and-software/everything-announced-at-openai-devday-subscription-changes-new-models-and-dots/)<!-- TECH:END -->
+ - [The most repairable AirPods ever are still a frustrating mess to get into](https://appleinsider.com/articles/26/09/29/the-most-repairable-airpods-ever-are-still-a-frustrating-mess-to-get-into?utm_source=rss)
+ - [Google says those frustrating Photos freezes are finally fixed](https://www.androidauthority.com/google-photos-fix-3717114/)
+ - [Mark Zuckerberg says the voluntary &quot;accord&quot; on AI standards that tech executives agreed to includes internal risk reviews and external auditors &lpar;Axios&rpar;](https://www.techmeme.com/260929/p48#a260929p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
