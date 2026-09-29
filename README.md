@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#39;t stick it into a crazy &lpar;or latina o de Monterrey las hijas de la shingada&rpar;](http://9gag.com/gag/avyb4zZ)
- - 🚯 [Look where they sent the Google Street View guy.](http://9gag.com/gag/aoyBAmx)
- - 🚯 [Don&#39;t stick it into a crazy &lpar;or latina o de Monterrey las hijas de la shingada&rpar;](http://9gag.com/gag/avyb4zZ)<!-- MEMES:END -->
+ - 🚖 [F&rpar; Op likes trans](http://9gag.com/gag/aQzYD4e)
+ - 🚯 [F&rpar; Op likes trans](http://9gag.com/gag/aQzYD4e)
+ - 🚯 [F&rpar; Op likes trans](http://9gag.com/gag/aQzYD4e)<!-- MEMES:END -->
 
 --- 
 
