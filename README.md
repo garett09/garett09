@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Travis Kalanick, CEO of Atoms, whom Silicon Valley has welcomed back with VC support despite his unapologetic stance on his 2017 ouster from Uber &lpar;Jeff John Roberts/Fortune&rpar;](https://www.techmeme.com/260929/p59#a260929p59)
- - [An interview with Bill Gates about the need for more than natural incentives under capitalism to regulate AI&#39;s risks, the effects AI will have on jobs, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260929/p58#a260929p58)
- - [AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range &lpar;Bloomberg&rpar;](https://www.techmeme.com/260929/p57#a260929p57)<!-- TECH:END -->
+ - [The Best Gifts for Book Lovers &lpar;2026&rpar;: E-Readers, Handy Accessories, Book Sets](https://www.wired.com/story/gifts-for-book-lovers/)
+ - [Bad news: The Galaxy S27 series could get really expensive](https://www.androidauthority.com/samsung-galaxy-s27-series-price-hike-leak-3717310/)
+ - [Sources and filings: Situational Awareness lacked an investment risk team; after the sell-off, the SEC sent subpoenas to major banks about trades they financed &lpar;New York Times&rpar;](https://www.techmeme.com/260930/p19#a260930p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
