@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The most repairable AirPods ever are still a frustrating mess to get into](https://appleinsider.com/articles/26/09/29/the-most-repairable-airpods-ever-are-still-a-frustrating-mess-to-get-into?utm_source=rss)
- - [Google says those frustrating Photos freezes are finally fixed](https://www.androidauthority.com/google-photos-fix-3717114/)
- - [Mark Zuckerberg says the voluntary &quot;accord&quot; on AI standards that tech executives agreed to includes internal risk reviews and external auditors &lpar;Axios&rpar;](https://www.techmeme.com/260929/p48#a260929p48)<!-- TECH:END -->
+ - [A profile of Travis Kalanick, CEO of Atoms, whom Silicon Valley has welcomed back with VC support despite his unapologetic stance on his 2017 ouster from Uber &lpar;Jeff John Roberts/Fortune&rpar;](https://www.techmeme.com/260929/p59#a260929p59)
+ - [An interview with Bill Gates about the need for more than natural incentives under capitalism to regulate AI&#39;s risks, the effects AI will have on jobs, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260929/p58#a260929p58)
+ - [AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range &lpar;Bloomberg&rpar;](https://www.techmeme.com/260929/p57#a260929p57)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
