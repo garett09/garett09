@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is That Early Holiday Deal or Fake Discount? Our Shopping Expert Chimes In](https://www.cnet.com/tech/fake-holiday-sales-and-discounts/)
- - [Record price drop: Amazon slashes the Samsung Odyssey G9 to $650](https://www.androidauthority.com/samsung-odyssey-g9-deal-3717513/)
- - [This blog could help you poop better](https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health)<!-- TECH:END -->
+ - [Apple Is Reportedly Ready to Release Its Smarter Home Hub in 2 Weeks](https://www.cnet.com/home/smart-home/apple-smarter-home-hub-report/)
+ - [Google pulls back the curtain to tease Gemini 4 Argon](https://www.androidauthority.com/gemini-4-argon-3717601/)
+ - [Plex makes content discovery a little more human on Android TV](https://www.androidauthority.com/plex-android-tv-social-features-3717605/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
