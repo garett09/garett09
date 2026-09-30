@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What?](http://9gag.com/gag/a7ojm1A)
- - 🚯 [Pubest le fromage?](http://9gag.com/gag/aMVp6KM)
+ - 🚖 [Tipping culture is insane](http://9gag.com/gag/avybVeO)
+ - 🚯 [What?](http://9gag.com/gag/a7ojm1A)
  - 🚯 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)<!-- MEMES:END -->
 
 --- 
