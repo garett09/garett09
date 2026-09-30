@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Gifts for Book Lovers &lpar;2026&rpar;: E-Readers, Handy Accessories, Book Sets](https://www.wired.com/story/gifts-for-book-lovers/)
- - [Bad news: The Galaxy S27 series could get really expensive](https://www.androidauthority.com/samsung-galaxy-s27-series-price-hike-leak-3717310/)
- - [Sources and filings: Situational Awareness lacked an investment risk team; after the sell-off, the SEC sent subpoenas to major banks about trades they financed &lpar;New York Times&rpar;](https://www.techmeme.com/260930/p19#a260930p19)<!-- TECH:END -->
+ - [Is That Early Holiday Deal or Fake Discount? Our Shopping Expert Chimes In](https://www.cnet.com/tech/fake-holiday-sales-and-discounts/)
+ - [Record price drop: Amazon slashes the Samsung Odyssey G9 to $650](https://www.androidauthority.com/samsung-odyssey-g9-deal-3717513/)
+ - [This blog could help you poop better](https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
