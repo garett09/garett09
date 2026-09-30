@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)
- - 🚯 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)
+ - 🚖 [What?](http://9gag.com/gag/a7ojm1A)
+ - 🚯 [Pubest le fromage?](http://9gag.com/gag/aMVp6KM)
  - 🚯 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)<!-- MEMES:END -->
 
 --- 
