@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tipping culture is insane](http://9gag.com/gag/avybVeO)
- - 🚯 [What?](http://9gag.com/gag/a7ojm1A)
- - 🚯 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)<!-- MEMES:END -->
+ - 🚖 [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)
+ - 🚯 [YES or NO?](http://9gag.com/gag/aO86OZ6)
+ - 🚯 [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)<!-- MEMES:END -->
 
 --- 
 
