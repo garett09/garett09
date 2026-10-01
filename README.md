@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)
- - 🚯 [What?](http://9gag.com/gag/a7ojm1A)
- - 🚯 [Wizard duels are not what they used to be.](http://9gag.com/gag/ae9XEGm)<!-- MEMES:END -->
+ - 🚖 [Tipping culture is insane](http://9gag.com/gag/avybVeO)
+ - 🚯 [When you are a master in reading the room!](http://9gag.com/gag/aVvG8L2)
+ - 🚯 [YES or NO?](http://9gag.com/gag/aO86OZ6)<!-- MEMES:END -->
 
 --- 
 
