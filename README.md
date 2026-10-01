@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)
- - 🚯 [YES or NO?](http://9gag.com/gag/aO86OZ6)
- - 🚯 [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)<!-- MEMES:END -->
+ - 🚖 [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)
+ - 🚯 [What?](http://9gag.com/gag/a7ojm1A)
+ - 🚯 [Wizard duels are not what they used to be.](http://9gag.com/gag/ae9XEGm)<!-- MEMES:END -->
 
 --- 
 
