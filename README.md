@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Is Reportedly Ready to Release Its Smarter Home Hub in 2 Weeks](https://www.cnet.com/home/smart-home/apple-smarter-home-hub-report/)
- - [Google pulls back the curtain to tease Gemini 4 Argon](https://www.androidauthority.com/gemini-4-argon-3717601/)
- - [Plex makes content discovery a little more human on Android TV](https://www.androidauthority.com/plex-android-tv-social-features-3717605/)<!-- TECH:END -->
+ - [Amazon signs a 20-year deal to buy power from Constellation Energy, including boosting capacity at its Maryland nuclear plant, supporting $3B+ in investments &lpar;Will Wade/Bloomberg&rpar;](https://www.techmeme.com/260930/p57#a260930p57)
+ - [Flow, a hardware development platform for AI agents, raised a $50M Series B led by Valor&#39;s Antonio Gracias and Atreides&#39; Gavin Baker at a $750M valuation &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260930/p56#a260930p56)
+ - [Gemini 4 Argon has a 1M-token output limit, up from 64K for prior models; it initially costs $2/1M input and $10/1M output tokens, rising to $4 and $20 later &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/260930/p55#a260930p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
