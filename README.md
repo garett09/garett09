@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon signs a 20-year deal to buy power from Constellation Energy, including boosting capacity at its Maryland nuclear plant, supporting $3B+ in investments &lpar;Will Wade/Bloomberg&rpar;](https://www.techmeme.com/260930/p57#a260930p57)
- - [Flow, a hardware development platform for AI agents, raised a $50M Series B led by Valor&#39;s Antonio Gracias and Atreides&#39; Gavin Baker at a $750M valuation &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260930/p56#a260930p56)
- - [Gemini 4 Argon has a 1M-token output limit, up from 64K for prior models; it initially costs $2/1M input and $10/1M output tokens, rising to $4 and $20 later &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/260930/p55#a260930p55)<!-- TECH:END -->
+ - [Android could soon let you trigger Emergency SOS without touching your phone at all](https://www.androidauthority.com/android-voice-activated-emergency-sos-personal-safety-3717858/)
+ - [Micron filed a US lawsuit accusing Chinese memory maker YMTC of systematically poaching key engineers and then using the engineers&#39; patents to sue Micron &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/261001/p18#a261001p18)
+ - [Measles Is Forcing Hospitals to Adapt to a New Normal](https://www.wired.com/story/measles-is-forcing-hospitals-to-adapt-to-a-new-normal/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
