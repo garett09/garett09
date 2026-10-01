@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android could soon let you trigger Emergency SOS without touching your phone at all](https://www.androidauthority.com/android-voice-activated-emergency-sos-personal-safety-3717858/)
- - [Micron filed a US lawsuit accusing Chinese memory maker YMTC of systematically poaching key engineers and then using the engineers&#39; patents to sue Micron &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/261001/p18#a261001p18)
- - [Measles Is Forcing Hospitals to Adapt to a New Normal](https://www.wired.com/story/measles-is-forcing-hospitals-to-adapt-to-a-new-normal/)<!-- TECH:END -->
+ - [Source: some of the information that the three OpenAI employees allegedly mishandled pertained to OpenAI&#39;s infrastructure architecture &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/261001/p39#a261001p39)
+ - [Lyft agrees to pay $272.5M to settle California claims that it mislabeled drivers as independent contractors rather than employees between 2016 and 2020 &lpar;Daniel Wiessner/Reuters&rpar;](https://www.techmeme.com/261001/p38#a261001p38)
+ - [New Final Cut Pro 13 features leak ahead of announcement](https://appleinsider.com/articles/26/10/01/final-cut-pro-13-leaks-ahead-of-announcement-with-several-new-features?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
