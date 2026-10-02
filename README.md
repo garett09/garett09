@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)
- - 🚯 [YES or NO?](http://9gag.com/gag/aO86OZ6)
- - 🚯 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)<!-- MEMES:END -->
+ - 🚯 [Assume the position](http://9gag.com/gag/a0emq6O)
+ - 🚯 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)<!-- MEMES:END -->
 
 --- 
 
