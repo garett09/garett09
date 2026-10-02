@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tipping culture is insane](http://9gag.com/gag/avybVeO)
- - 🚯 [When you are a master in reading the room!](http://9gag.com/gag/aVvG8L2)
- - 🚯 [YES or NO?](http://9gag.com/gag/aO86OZ6)<!-- MEMES:END -->
+ - 🚖 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)
+ - 🚯 [YES or NO?](http://9gag.com/gag/aO86OZ6)
+ - 🚯 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)<!-- MEMES:END -->
 
 --- 
 
