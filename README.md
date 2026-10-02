@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beehiiv creators are buzzing about a new price increase](https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions)
- - [The NHL Is Releasing Its Own ‘Hot’ Fanfic. Romance Lovers Hate It](https://www.wired.com/story/the-nhl-is-releasing-its-own-hot-fanfic-romance-lovers-hate-it/)
- - [Nacon’s new PS5 controller can mix audio from your phone and console](https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller)<!-- TECH:END -->
+ - [Apple releases an update for iPhone 18 Pro Max devices on AT&amp;T to address cellular failures; units that already lost service require hardware replacement &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/261002/p25#a261002p25)
+ - [If your iPhone 18 Pro Max always says SOS, you need to get it replaced](https://appleinsider.com/articles/26/10/02/if-your-iphone-18-pro-max-always-says-sos-you-need-to-get-it-replaced?utm_source=rss)
+ - [Android Auto’s signal bars are finally returning to dashboards](https://www.androidauthority.com/android-auto-signal-bar-icon-return-3718732/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
