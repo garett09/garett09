@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Optimistic AT&amp;T tells iPhone 18 Pro Max iOS 27.0.1 update will fix call problems](https://appleinsider.com/articles/26/10/02/optimistic-att-tells-iphone-18-pro-max-ios-2701-update-will-fix-call-problems?utm_source=rss)
- - [Best Smart Cat Trackers of 2026: Fi Mini vs. Tractive](https://www.wired.com/story/best-smart-cat-tracker/)
- - [T-Mobile’s leaked T-Mix plans are way more complicated than we thought](https://www.androidauthority.com/t-mobile-t-mix-plans-pricing-picks-perks-leak-3718282/)<!-- TECH:END -->
+ - [Beehiiv creators are buzzing about a new price increase](https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions)
+ - [The NHL Is Releasing Its Own ‘Hot’ Fanfic. Romance Lovers Hate It](https://www.wired.com/story/the-nhl-is-releasing-its-own-hot-fanfic-romance-lovers-hate-it/)
+ - [Nacon’s new PS5 controller can mix audio from your phone and console](https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
