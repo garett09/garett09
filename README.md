@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)
+ - 🚖 [Can&#39;t control it...](http://9gag.com/gag/ae9XwWv)
  - 🚯 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)
- - 🚯 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)<!-- MEMES:END -->
+ - 🚯 [Can&#39;t control it...](http://9gag.com/gag/ae9XwWv)<!-- MEMES:END -->
 
 --- 
 
