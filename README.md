@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B &lpar;Brandon Vigliarolo/The Register&rpar;](https://www.techmeme.com/261001/p48#a261001p48)
- - [OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/261001/p47#a261001p47)
- - [Sources: Jay Clayton will likely be the White House&#39;s pick for AI czar, and he may remain in his current role as director of national intelligence &lpar;Jennifer Jacobs/CBS News&rpar;](https://www.techmeme.com/261001/p46#a261001p46)<!-- TECH:END -->
+ - [Optimistic AT&amp;T tells iPhone 18 Pro Max iOS 27.0.1 update will fix call problems](https://appleinsider.com/articles/26/10/02/optimistic-att-tells-iphone-18-pro-max-ios-2701-update-will-fix-call-problems?utm_source=rss)
+ - [Best Smart Cat Trackers of 2026: Fi Mini vs. Tractive](https://www.wired.com/story/best-smart-cat-tracker/)
+ - [T-Mobile’s leaked T-Mix plans are way more complicated than we thought](https://www.androidauthority.com/t-mobile-t-mix-plans-pricing-picks-perks-leak-3718282/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
