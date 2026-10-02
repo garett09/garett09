@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: some of the information that the three OpenAI employees allegedly mishandled pertained to OpenAI&#39;s infrastructure architecture &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/261001/p39#a261001p39)
- - [Lyft agrees to pay $272.5M to settle California claims that it mislabeled drivers as independent contractors rather than employees between 2016 and 2020 &lpar;Daniel Wiessner/Reuters&rpar;](https://www.techmeme.com/261001/p38#a261001p38)
- - [New Final Cut Pro 13 features leak ahead of announcement](https://appleinsider.com/articles/26/10/01/final-cut-pro-13-leaks-ahead-of-announcement-with-several-new-features?utm_source=rss)<!-- TECH:END -->
+ - [Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B &lpar;Brandon Vigliarolo/The Register&rpar;](https://www.techmeme.com/261001/p48#a261001p48)
+ - [OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/261001/p47#a261001p47)
+ - [Sources: Jay Clayton will likely be the White House&#39;s pick for AI czar, and he may remain in his current role as director of national intelligence &lpar;Jennifer Jacobs/CBS News&rpar;](https://www.techmeme.com/261001/p46#a261001p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
