@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [He dieded btw](http://9gag.com/gag/a2vQXbD)
- - 🚯 [Don&#39;t go for a game](http://9gag.com/gag/ae9XBgq)
+ - 🚯 [Tetten](http://9gag.com/gag/aQzYWnr)
  - 🚯 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)<!-- MEMES:END -->
 
 --- 
