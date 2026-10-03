@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I used Pixel’s new battery summaries for a week — and Google has work to do](https://www.androidauthority.com/pixel-battery-summaries-hands-on-3718048/)
- - [Best Mosquito Repellents for Your Yard: What Works and What Doesn’t &lpar;2026&rpar;](https://www.wired.com/story/best-mosquito-repellents/)
- - [What’s the best Snapdragon 8 Gen 5 series chip? I tested them all to find out](https://www.androidauthority.com/all-snapdragon-8-gen-5-chips-tested-3704993/)<!-- TECH:END -->
+ - [OpenAI&#39;s DevDay 2026 announcements to turn ChatGPT into a place to discover, launch, and use software could potentially disrupt the traditional app store model &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261003/p9#a261003p9)
+ - [Splice CEO Kakul Srivastava thinks AI emails are killing conversations](https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview)
+ - [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
