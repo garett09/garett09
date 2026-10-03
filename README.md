@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases an update for iPhone 18 Pro Max devices on AT&amp;T to address cellular failures; units that already lost service require hardware replacement &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/261002/p25#a261002p25)
- - [If your iPhone 18 Pro Max always says SOS, you need to get it replaced](https://appleinsider.com/articles/26/10/02/if-your-iphone-18-pro-max-always-says-sos-you-need-to-get-it-replaced?utm_source=rss)
- - [Android Auto’s signal bars are finally returning to dashboards](https://www.androidauthority.com/android-auto-signal-bar-icon-return-3718732/)<!-- TECH:END -->
+ - [A US judge rules an officer&#39;s use of Flock to search a car&#39;s license plate was a form of &quot;indiscriminate mass surveillance&quot;, and violated the Fourth Amendment &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/261002/p31#a261002p31)
+ - [Supabase raised $150M led by Singapore&#39;s GIC and agrees to acquire Turso, which offers a database optimized for AI agents, for an undisclosed sum &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/261002/p30#a261002p30)
+ - [David Robinson, who worked on OpenAI&#39;s Safety Systems team and had previously led policy planning, left OpenAI last week &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/261002/p29#a261002p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
