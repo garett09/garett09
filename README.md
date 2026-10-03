@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge rules an officer&#39;s use of Flock to search a car&#39;s license plate was a form of &quot;indiscriminate mass surveillance&quot;, and violated the Fourth Amendment &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/261002/p31#a261002p31)
- - [Supabase raised $150M led by Singapore&#39;s GIC and agrees to acquire Turso, which offers a database optimized for AI agents, for an undisclosed sum &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/261002/p30#a261002p30)
- - [David Robinson, who worked on OpenAI&#39;s Safety Systems team and had previously led policy planning, left OpenAI last week &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/261002/p29#a261002p29)<!-- TECH:END -->
+ - [I used Pixel’s new battery summaries for a week — and Google has work to do](https://www.androidauthority.com/pixel-battery-summaries-hands-on-3718048/)
+ - [Best Mosquito Repellents for Your Yard: What Works and What Doesn’t &lpar;2026&rpar;](https://www.wired.com/story/best-mosquito-repellents/)
+ - [What’s the best Snapdragon 8 Gen 5 series chip? I tested them all to find out](https://www.androidauthority.com/all-snapdragon-8-gen-5-chips-tested-3704993/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
