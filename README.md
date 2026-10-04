@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: John Ternus has effectively become Apple&#39;s design chief, working in the studio several times a week; OLED touch-screen MacBook Pro will be much lighter &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261004/p12#a261004p12)
- - [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft)
- - [Design is a Jobsian-level focus for John Ternus](https://appleinsider.com/articles/26/10/04/design-is-a-jobsian-level-focus-for-john-ternus?utm_source=rss)<!-- TECH:END -->
+ - [Sunday Reboot: Waiting a decade for Apple Pay and Apple Music](https://appleinsider.com/articles/26/10/04/sunday-reboot-waiting-a-decade-for-apple-pay-and-apple-music?utm_source=rss)
+ - [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review)
+ - [Extracted system prompts show Meta&#39;s Muse compiles &quot;a page for every person in the user&#39;s life&quot;, with facts, history, tips to improve relationships, and more &lpar;Wired&rpar;](https://www.techmeme.com/261004/p16#a261004p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
