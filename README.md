@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He dieded btw](http://9gag.com/gag/a2vQXbD)
- - 🚯 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)
- - 🚯 [Tetten](http://9gag.com/gag/aQzYWnr)<!-- MEMES:END -->
+ - 🚖 [Danger is you](http://9gag.com/gag/a6ZW0r8)
+ - 🚯 [He dieded btw](http://9gag.com/gag/a2vQXbD)
+ - 🚯 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)<!-- MEMES:END -->
 
 --- 
 
