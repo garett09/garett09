@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Danger is you](http://9gag.com/gag/a6ZW0r8)
- - 🚯 [He dieded btw](http://9gag.com/gag/a2vQXbD)
- - 🚯 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)<!-- MEMES:END -->
+ - 🚯 [Never eat yellow snow.](http://9gag.com/gag/aMVpM91)
+ - 🚯 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)<!-- MEMES:END -->
 
 --- 
 
