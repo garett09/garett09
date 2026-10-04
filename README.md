@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Two arrested for stealing from Apple Store, yoga store](https://appleinsider.com/articles/26/10/04/crime-blotter-two-arrested-for-stealing-from-apple-store-yoga-store?utm_source=rss)
- - [15 Best Office Chairs of 2026—We Tested 70 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [Is your phone not charging? Try this simple fix before paying for a repair](https://www.androidauthority.com/usb-c-port-cleaning-3716899/)<!-- TECH:END -->
+ - [Sources: John Ternus has effectively become Apple&#39;s design chief, working in the studio several times a week; OLED touch-screen MacBook Pro will be much lighter &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261004/p12#a261004p12)
+ - [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft)
+ - [Design is a Jobsian-level focus for John Ternus](https://appleinsider.com/articles/26/10/04/design-is-a-jobsian-level-focus-for-john-ternus?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
