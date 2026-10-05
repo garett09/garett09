@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aging like fine wine](http://9gag.com/gag/aD2ByD7)
- - 🚯 [Still answers 17, though](http://9gag.com/gag/aKGbomN)
- - 🚯 [Dating Options Nowadays](http://9gag.com/gag/a9y3x4j)<!-- MEMES:END -->
+ - 🚖 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
+ - 🚯 [Rook at the back just waiting for shit to go sideways](http://9gag.com/gag/aAyn8eL)
+ - 🚯 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)<!-- MEMES:END -->
 
 --- 
 
