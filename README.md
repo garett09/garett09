@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S27 Ultra colors leak, and Samsung could be breaking up with purple &lpar;Update: Special color&rpar;](https://www.androidauthority.com/galaxy-s27-ultra-colors-leak-3719062/)
- - [Survey: only 11% of ~400 businesses could forecast AI spending; a study finds lower-priced models cost more than higher-priced models on 32% of 6,800+ tasks &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261005/p15#a261005p15)
- - [Dumb down your Mac: Save 12GB by removing Apple Intelligence](https://appleinsider.com/articles/26/10/05/dumb-down-your-mac-save-12gb-by-removing-apple-intelligence?utm_source=rss)<!-- TECH:END -->
+ - [Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/261005/p34#a261005p34)
+ - [macOS development continues to hint at touchscreen MacBooks](https://appleinsider.com/articles/26/10/05/macos-development-continues-to-hint-at-touchscreen-macbooks?utm_source=rss)
+ - [Analysis: Anthropic&#39;s subscriptions offer ~5x more API-equivalent value per month than OpenAI&#39;s for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/261005/p33#a261005p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
