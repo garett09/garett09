@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
- - 🚯 [Rook at the back just waiting for shit to go sideways](http://9gag.com/gag/aAyn8eL)
- - 🚯 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)<!-- MEMES:END -->
+ - 🚯 [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)
+ - 🚯 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)<!-- MEMES:END -->
 
 --- 
 
