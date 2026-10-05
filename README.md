@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Sean Parker&#39;s resurrection of Stability AI following Emad Mostaque&#39;s ousting, and its new focus on AI for music professionals, backed by major labels &lpar;Abram Brown/The Information&rpar;](https://www.techmeme.com/261004/p23#a261004p23)
- - [Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/261004/p22#a261004p22)
- - [Q&amp;A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society &lpar;Mishal Husain/Bloomberg&rpar;](https://www.techmeme.com/261004/p21#a261004p21)<!-- TECH:END -->
+ - [Galaxy S27 Ultra colors leak, and Samsung could be breaking up with purple &lpar;Update: Special color&rpar;](https://www.androidauthority.com/galaxy-s27-ultra-colors-leak-3719062/)
+ - [Survey: only 11% of ~400 businesses could forecast AI spending; a study finds lower-priced models cost more than higher-priced models on 32% of 6,800+ tasks &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261005/p15#a261005p15)
+ - [Dumb down your Mac: Save 12GB by removing Apple Intelligence](https://appleinsider.com/articles/26/10/05/dumb-down-your-mac-save-12gb-by-removing-apple-intelligence?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
