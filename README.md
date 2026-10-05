@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sunday Reboot: Waiting a decade for Apple Pay and Apple Music](https://appleinsider.com/articles/26/10/04/sunday-reboot-waiting-a-decade-for-apple-pay-and-apple-music?utm_source=rss)
- - [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review)
- - [Extracted system prompts show Meta&#39;s Muse compiles &quot;a page for every person in the user&#39;s life&quot;, with facts, history, tips to improve relationships, and more &lpar;Wired&rpar;](https://www.techmeme.com/261004/p16#a261004p16)<!-- TECH:END -->
+ - [A look at Sean Parker&#39;s resurrection of Stability AI following Emad Mostaque&#39;s ousting, and its new focus on AI for music professionals, backed by major labels &lpar;Abram Brown/The Information&rpar;](https://www.techmeme.com/261004/p23#a261004p23)
+ - [Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/261004/p22#a261004p22)
+ - [Q&amp;A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society &lpar;Mishal Husain/Bloomberg&rpar;](https://www.techmeme.com/261004/p21#a261004p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
