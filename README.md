@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Still answers 17, though](http://9gag.com/gag/aKGbomN)
- - 🚯 [I&#39;m a Purist. And I prefer the original no matter what.](http://9gag.com/gag/avybMdE)
- - 🚯 [Rook at the back just waiting for shit to go sideways](http://9gag.com/gag/aAyn8eL)<!-- MEMES:END -->
+ - 🚖 [Aging like fine wine](http://9gag.com/gag/aD2ByD7)
+ - 🚯 [Still answers 17, though](http://9gag.com/gag/aKGbomN)
+ - 🚯 [Dating Options Nowadays](http://9gag.com/gag/a9y3x4j)<!-- MEMES:END -->
 
 --- 
 
