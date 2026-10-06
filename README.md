@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Modernized Apple Music logo is now chunkier than ever](https://appleinsider.com/articles/26/10/06/modernized-apple-music-logo-is-now-chunkier-than-ever?utm_source=rss)
- - [Anthropic&#39;s IPO prospectus: Dario Amodei earned $18M in 2025, middle of the pack for tech CEOs, and President Daniela Amodei, his sister, earned $16.4M &lpar;Reuters&rpar;](https://www.techmeme.com/261006/p19#a261006p19)
- - [The planetary wave headed for California isn’t what you think it is](https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin)<!-- TECH:END -->
+ - [The best robot vacuum and mop deals during October Prime Day](https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale)
+ - [Google sounds really excited about ‘massive’ feature update hitting Pixel Buds right now](https://www.androidauthority.com/pixel-buds-massive-update-3719844/)
+ - [Gurman: Apple&#39;s upcoming smart home products co-developed with LG are &quot;at least a few more months&quot; away; LG is handling manufacturing and product support &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/261006/p41#a261006p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
