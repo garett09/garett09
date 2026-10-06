@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/261005/p34#a261005p34)
- - [macOS development continues to hint at touchscreen MacBooks](https://appleinsider.com/articles/26/10/05/macos-development-continues-to-hint-at-touchscreen-macbooks?utm_source=rss)
- - [Analysis: Anthropic&#39;s subscriptions offer ~5x more API-equivalent value per month than OpenAI&#39;s for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/261005/p33#a261005p33)<!-- TECH:END -->
+ - [Amazon Alexa won’t stop saying ‘lalala’ and users are creeped out &lpar;Updated: Fix incoming&rpar;](https://www.androidauthority.com/amazon-alexa-la-la-la-3719167/)
+ - [Singapore-based data center operator DayOne files for a US IPO, reporting its H1 revenue more than tripled YoY to $512M while its net loss widened to $77.2M &lpar;Pragyan Kalita/Reuters&rpar;](https://www.techmeme.com/261005/p36#a261005p36)
+ - [ChatGPT users, your AI-written text will soon carry a hidden watermark](https://www.androidauthority.com/chatgpt-text-watermarking-3719403/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
