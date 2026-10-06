@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Alexa won’t stop saying ‘lalala’ and users are creeped out &lpar;Updated: Fix incoming&rpar;](https://www.androidauthority.com/amazon-alexa-la-la-la-3719167/)
- - [Singapore-based data center operator DayOne files for a US IPO, reporting its H1 revenue more than tripled YoY to $512M while its net loss widened to $77.2M &lpar;Pragyan Kalita/Reuters&rpar;](https://www.techmeme.com/261005/p36#a261005p36)
- - [ChatGPT users, your AI-written text will soon carry a hidden watermark](https://www.androidauthority.com/chatgpt-text-watermarking-3719403/)<!-- TECH:END -->
+ - [Modernized Apple Music logo is now chunkier than ever](https://appleinsider.com/articles/26/10/06/modernized-apple-music-logo-is-now-chunkier-than-ever?utm_source=rss)
+ - [Anthropic&#39;s IPO prospectus: Dario Amodei earned $18M in 2025, middle of the pack for tech CEOs, and President Daniela Amodei, his sister, earned $16.4M &lpar;Reuters&rpar;](https://www.techmeme.com/261006/p19#a261006p19)
+ - [The planetary wave headed for California isn’t what you think it is](https://www.theverge.com/science/1005077/el-nino-planetary-wave-kelvin)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
