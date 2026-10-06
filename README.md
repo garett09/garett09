@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
- - 🚯 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
+ - 🚯 [\u200e](http://9gag.com/gag/aYQz2Zx)
  - 🚯 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)<!-- MEMES:END -->
 
 --- 
