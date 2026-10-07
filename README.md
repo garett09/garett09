@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese chipmaker Rapidus is partnering with 17 companies, including US-based Synopsys, to help customers design chips; Rapidus has $15B+ in state funding &lpar;Reuters&rpar;](https://www.techmeme.com/261006/p52#a261006p52)
- - [A September 24 cyberattack on Arizona&#39;s court system stole PII for 1.3M people, including 30K orders of protection and 150K reports from a foster care board &lpar;Associated Press&rpar;](https://www.techmeme.com/261006/p51#a261006p51)
- - [Google could soon take away an important Pixel Watch 2 and 3 safety feature](https://www.androidauthority.com/google-pixel-watch-2-pixel-watch-3-safety-signal-3719858/)<!-- TECH:END -->
+ - [Google launches Playground, a browser-based, no-code AI game creation platform available to US users aged 18+, powered by Gemini, Nano Banana, and Lyria &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/261007/p15#a261007p15)
+ - [Hackintosh &amp; Intel Mac Pro owners might be able to run Nvidia cards soon](https://appleinsider.com/articles/26/10/07/hackintosh-intel-mac-pro-owners-might-be-able-to-run-nvidia-cards-soon?utm_source=rss)
+ - [Xreal opens pre-orders for the Android XR-powered Aura glasses, starting at $1,279 for 12GB RAM/256GB, shipping soon in the US with a separate compute puck &lpar;Mariella Moon/Engadget&rpar;](https://www.techmeme.com/261007/p14#a261007p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
