@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Playground, a browser-based, no-code AI game creation platform available to US users aged 18+, powered by Gemini, Nano Banana, and Lyria &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/261007/p15#a261007p15)
- - [Hackintosh &amp; Intel Mac Pro owners might be able to run Nvidia cards soon](https://appleinsider.com/articles/26/10/07/hackintosh-intel-mac-pro-owners-might-be-able-to-run-nvidia-cards-soon?utm_source=rss)
- - [Xreal opens pre-orders for the Android XR-powered Aura glasses, starting at $1,279 for 12GB RAM/256GB, shipping soon in the US with a separate compute puck &lpar;Mariella Moon/Engadget&rpar;](https://www.techmeme.com/261007/p14#a261007p14)<!-- TECH:END -->
+ - [Today’s NYT Connections Hints and Answers for Thursday, Oct. 8, #1215](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-oct-8-1215/)
+ - [Is It Even Worth Buying Tech During Early Holiday Sales? Here’s What We Recommend](https://www.cnet.com/tech/is-it-even-worth-buying-tech-during-early-holiday-sales-heres-what-we-recommend/)
+ - [BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover](https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
