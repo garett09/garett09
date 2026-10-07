@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best robot vacuum and mop deals during October Prime Day](https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale)
- - [Google sounds really excited about ‘massive’ feature update hitting Pixel Buds right now](https://www.androidauthority.com/pixel-buds-massive-update-3719844/)
- - [Gurman: Apple&#39;s upcoming smart home products co-developed with LG are &quot;at least a few more months&quot; away; LG is handling manufacturing and product support &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/261006/p41#a261006p41)<!-- TECH:END -->
+ - [Japanese chipmaker Rapidus is partnering with 17 companies, including US-based Synopsys, to help customers design chips; Rapidus has $15B+ in state funding &lpar;Reuters&rpar;](https://www.techmeme.com/261006/p52#a261006p52)
+ - [A September 24 cyberattack on Arizona&#39;s court system stole PII for 1.3M people, including 30K orders of protection and 150K reports from a foster care board &lpar;Associated Press&rpar;](https://www.techmeme.com/261006/p51#a261006p51)
+ - [Google could soon take away an important Pixel Watch 2 and 3 safety feature](https://www.androidauthority.com/google-pixel-watch-2-pixel-watch-3-safety-signal-3719858/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
