@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why?](http://9gag.com/gag/aLnqyrW)
- - 🚯 [WTF!](http://9gag.com/gag/aVvGG3v)
- - 🚯 [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)<!-- MEMES:END -->
+ - 🚖 [Mic drop moment](http://9gag.com/gag/aD7RRow)
+ - 🚯 [Why?](http://9gag.com/gag/aLnqyrW)
+ - 🚯 [WTF!](http://9gag.com/gag/aVvGG3v)<!-- MEMES:END -->
 
 --- 
 
