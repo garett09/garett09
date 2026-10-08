@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reportedly can’t make a profit on its phones, so it’s cutting production by millions](https://www.androidauthority.com/samsung-smartphone-production-cut-3720540/)
- - [Source: Nvidia considered a last-minute OpenRouter bid, telling its leadership it was prepared to make a generous offer, but OpenRouter didn&#39;t want to wait &lpar;The Information&rpar;](https://www.techmeme.com/261007/p47#a261007p47)
- - [OpenRouter: the share of business spending between OpenAI and Anthropic models was roughly even in September, vs. Anthropic commanding a 75% share in January &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](https://www.techmeme.com/261007/p46#a261007p46)<!-- TECH:END -->
+ - [Companies aren&#39;t being forced to stop buying Macs because of Apple Intelligence](https://appleinsider.com/articles/26/10/08/companies-arent-being-forced-to-stop-buying-macs-because-of-apple-intelligence?utm_source=rss)
+ - [Drones struck a data center owned by Russia&#39;s Yandex in the town of Sasovo, marking the first major attack on a Russian data hub since the Ukraine war began &lpar;Reuters&rpar;](https://www.techmeme.com/261008/p22#a261008p22)
+ - [Your iPhone can capture the Draconid meteor shower if you use the right tools](https://appleinsider.com/inside/iphone/tips/your-iphone-can-capture-the-perseids-meteor-shower-if-you-use-the-right-tools?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
