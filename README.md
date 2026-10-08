@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Companies aren&#39;t being forced to stop buying Macs because of Apple Intelligence](https://appleinsider.com/articles/26/10/08/companies-arent-being-forced-to-stop-buying-macs-because-of-apple-intelligence?utm_source=rss)
- - [Drones struck a data center owned by Russia&#39;s Yandex in the town of Sasovo, marking the first major attack on a Russian data hub since the Ukraine war began &lpar;Reuters&rpar;](https://www.techmeme.com/261008/p22#a261008p22)
- - [Your iPhone can capture the Draconid meteor shower if you use the right tools](https://appleinsider.com/inside/iphone/tips/your-iphone-can-capture-the-perseids-meteor-shower-if-you-use-the-right-tools?utm_source=rss)<!-- TECH:END -->
+ - [US plans livestream of execution by firing squad](https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood)
+ - [Anthropic launches free AI security scans for open-source projects](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner)
+ - [This ‘Mind-Reading’ AI Is a Wiz at Figuring Out What You See](https://www.cnet.com/tech/services-and-software/brain-it-ai-model-image-decoding-mind-reading-weizmann-institute/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
