@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s NYT Connections Hints and Answers for Thursday, Oct. 8, #1215](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-oct-8-1215/)
- - [Is It Even Worth Buying Tech During Early Holiday Sales? Here’s What We Recommend](https://www.cnet.com/tech/is-it-even-worth-buying-tech-during-early-holiday-sales-heres-what-we-recommend/)
- - [BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover](https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china)<!-- TECH:END -->
+ - [Samsung reportedly can’t make a profit on its phones, so it’s cutting production by millions](https://www.androidauthority.com/samsung-smartphone-production-cut-3720540/)
+ - [Source: Nvidia considered a last-minute OpenRouter bid, telling its leadership it was prepared to make a generous offer, but OpenRouter didn&#39;t want to wait &lpar;The Information&rpar;](https://www.techmeme.com/261007/p47#a261007p47)
+ - [OpenRouter: the share of business spending between OpenAI and Anthropic models was roughly even in September, vs. Anthropic commanding a 75% share in January &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](https://www.techmeme.com/261007/p46#a261007p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
