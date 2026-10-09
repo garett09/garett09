@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US plans livestream of execution by firing squad](https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood)
- - [Anthropic launches free AI security scans for open-source projects](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner)
- - [This ‘Mind-Reading’ AI Is a Wiz at Figuring Out What You See](https://www.cnet.com/tech/services-and-software/brain-it-ai-model-image-decoding-mind-reading-weizmann-institute/)<!-- TECH:END -->
+ - [OnePlus 15 gets Color OS 17 Open Beta ahead of OPPO’s global launch](https://www.androidauthority.com/oneplus-15-coloros-17-open-beta-3721053/)
+ - [Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power](https://www.wired.com/story/come-see-uncanny-valley-live/)
+ - [Microsoft denies JD Vance&#39;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees &lpar;Associated Press&rpar;](https://www.techmeme.com/261008/p55#a261008p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
