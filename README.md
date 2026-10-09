@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Right on schedule, sources claim iPhone 18 Pro orders have been cut](https://appleinsider.com/articles/26/10/09/right-on-schedule-sources-claim-iphone-18-pro-orders-have-been-cut?utm_source=rss)
- - [The Brand-New Apple Watch Ultra 4 Is Already $99 Off, A New Low for This Model](https://www.cnet.com/uncategorized/the-brand-new-apple-watch-ultra-4-is-already-99-off-a-new-low-for-this-model/)
- - [I’m Way Too Excited for Apple’s Home Event and How It Will Level Up My Siri Experience](https://www.cnet.com/tech/im-way-too-excited-for-apples-home-event-and-how-it-will-level-up-my-siri-experience/)<!-- TECH:END -->
+ - [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
+ - [Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/261009/p26#a261009p26)
+ - [The Feds Might Do Something About Those Distractingly Bright Headlights](https://www.cnet.com/roadshow/nhtsa-regulation-bright-headlights/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
