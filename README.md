@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 15 gets Color OS 17 Open Beta ahead of OPPO’s global launch](https://www.androidauthority.com/oneplus-15-coloros-17-open-beta-3721053/)
- - [Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power](https://www.wired.com/story/come-see-uncanny-valley-live/)
- - [Microsoft denies JD Vance&#39;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees &lpar;Associated Press&rpar;](https://www.techmeme.com/261008/p55#a261008p55)<!-- TECH:END -->
+ - [Right on schedule, sources claim iPhone 18 Pro orders have been cut](https://appleinsider.com/articles/26/10/09/right-on-schedule-sources-claim-iphone-18-pro-orders-have-been-cut?utm_source=rss)
+ - [The Brand-New Apple Watch Ultra 4 Is Already $99 Off, A New Low for This Model](https://www.cnet.com/uncategorized/the-brand-new-apple-watch-ultra-4-is-already-99-off-a-new-low-for-this-model/)
+ - [I’m Way Too Excited for Apple’s Home Event and How It Will Level Up My Siri Experience](https://www.cnet.com/tech/im-way-too-excited-for-apples-home-event-and-how-it-will-level-up-my-siri-experience/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
