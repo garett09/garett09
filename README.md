@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)
+ - 🚖 [I thought she looked familiar](https://www.reddit.com/r/funny/comments/1x258a0/i_thought_she_looked_familiar/)
  - 🚯 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
- - 🚯 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)<!-- MEMES:END -->
+ - 🚯 [Anakin approved this poll](http://9gag.com/gag/aVgjQxM)<!-- MEMES:END -->
 
 --- 
 
