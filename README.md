@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts)
- - [Amazon slashes $430 off 14-inch MacBook Pro M5 Pro, now $2,069](https://appleinsider.com/articles/26/10/10/amazon-slashes-430-off-14-inch-macbook-pro-m5-pro-now-2069?utm_source=rss)
- - [30 old Intel Mac minis are hugely faster than the Cray-1 chassis they live in](https://appleinsider.com/articles/26/10/10/30-old-intel-mac-minis-are-hugely-faster-than-the-cray-1-chassis-they-live-in?utm_source=rss)<!-- TECH:END -->
+ - [Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well &lpar;Lewis Parker/Kotaku&rpar;](https://www.techmeme.com/261010/p17#a261010p17)
+ - [Right on schedule, sources claim iPhone 18 Pro orders have been cut](https://appleinsider.com/articles/26/10/09/right-on-schedule-sources-claim-iphone-18-pro-orders-have-been-cut?utm_source=rss)
+ - [Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny &lpar;Financial Times&rpar;](https://www.techmeme.com/261010/p16#a261010p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
