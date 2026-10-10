@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Duo will greet some owners by name on its first boot](https://appleinsider.com/articles/26/10/10/iphone-duo-will-greet-some-owners-by-name-on-its-first-boot?utm_source=rss)
- - [Best Lego Gifts for Brick Builders &lpar;2026&rpar;: Smart Bricks, Video Games, and More](https://www.wired.com/gallery/gifts-for-lego-lovers/)
- - [The Best Smart Scales for Tracking Weight and Body Composition &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-scales/)<!-- TECH:END -->
+ - [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts)
+ - [Amazon slashes $430 off 14-inch MacBook Pro M5 Pro, now $2,069](https://appleinsider.com/articles/26/10/10/amazon-slashes-430-off-14-inch-macbook-pro-m5-pro-now-2069?utm_source=rss)
+ - [30 old Intel Mac minis are hugely faster than the Cray-1 chassis they live in](https://appleinsider.com/articles/26/10/10/30-old-intel-mac-minis-are-hugely-faster-than-the-cray-1-chassis-they-live-in?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
