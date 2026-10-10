@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/261009/p35#a261009p35)
- - [Cloudflare debuts Clef-omni, supporting audio and video input alongside text and image, makes Clef up to 2x faster, and dramatically cuts Clef-flash pricing &lpar;Cloudflare&rpar;](https://www.techmeme.com/261009/p34#a261009p34)
- - [Sources: Dario Amodei spoke with Meta&#39;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261009/p33#a261009p33)<!-- TECH:END -->
+ - [iPhone Duo will greet some owners by name on its first boot](https://appleinsider.com/articles/26/10/10/iphone-duo-will-greet-some-owners-by-name-on-its-first-boot?utm_source=rss)
+ - [Best Lego Gifts for Brick Builders &lpar;2026&rpar;: Smart Bricks, Video Games, and More](https://www.wired.com/gallery/gifts-for-lego-lovers/)
+ - [The Best Smart Scales for Tracking Weight and Body Composition &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-scales/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
