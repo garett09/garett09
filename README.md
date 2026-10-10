@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Megan Fox Launches Exclusive Paid Content Page](http://9gag.com/gag/awgNKzQ)
- - 🚯 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)
- - 🚯 [Megan Fox Launches Exclusive Paid Content Page](http://9gag.com/gag/awgNKzQ)<!-- MEMES:END -->
+ - 🚖 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)
+ - 🚯 [Would you live on that planet?](http://9gag.com/gag/a9zjLy0)
+ - 🚯 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)<!-- MEMES:END -->
 
 --- 
 
