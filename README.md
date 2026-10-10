@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Secure Red](http://9gag.com/gag/aGLK9DX)
+ - 🚖 [Megan Fox Launches Exclusive Paid Content Page](http://9gag.com/gag/awgNKzQ)
  - 🚯 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)
- - 🚯 [We all love your mum](http://9gag.com/gag/a6DrdDL)<!-- MEMES:END -->
+ - 🚯 [Megan Fox Launches Exclusive Paid Content Page](http://9gag.com/gag/awgNKzQ)<!-- MEMES:END -->
 
 --- 
 
