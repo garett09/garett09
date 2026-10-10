@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
- - [Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/261009/p26#a261009p26)
- - [The Feds Might Do Something About Those Distractingly Bright Headlights](https://www.cnet.com/roadshow/nhtsa-regulation-bright-headlights/)<!-- TECH:END -->
+ - [Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/261009/p35#a261009p35)
+ - [Cloudflare debuts Clef-omni, supporting audio and video input alongside text and image, makes Clef up to 2x faster, and dramatically cuts Clef-flash pricing &lpar;Cloudflare&rpar;](https://www.techmeme.com/261009/p34#a261009p34)
+ - [Sources: Dario Amodei spoke with Meta&#39;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261009/p33#a261009p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
