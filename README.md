@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
- - [&quot;Super Intelligence systems&quot; are black boxes that shouldn&#39;t be trusted by companies, and strong deterministic systems are needed around their deployment &lpar;Satya Nadella/@satyanadella&rpar;](https://www.techmeme.com/261010/p18#a261010p18)
- - [Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well &lpar;Lewis Parker/Kotaku&rpar;](https://www.techmeme.com/261010/p17#a261010p17)<!-- TECH:END -->
+ - [I Made Terrible Games With Google’s AI Playground](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)
+ - [I’ve tried all the major to-do list apps but keep coming back to this one](https://www.androidauthority.com/keep-coming-back-to-ticktick-3719344/)
+ - [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
