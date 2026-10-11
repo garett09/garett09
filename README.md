@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)
- - 🚯 [Would you live on that planet?](http://9gag.com/gag/a9zjLy0)
+ - 🚖 [See comments](http://9gag.com/gag/a0ovLXO)
+ - 🚯 [That&#39;s quite the catalogue.](http://9gag.com/gag/a17peGR)
  - 🚯 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)<!-- MEMES:END -->
 
 --- 
