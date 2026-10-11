@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages &lpar;Tymur Dubovyk/Kyiv Post&rpar;](https://www.techmeme.com/261011/p8#a261011p8)
- - [ADT rumored to handle installations in Apple&#39;s smart home push](https://appleinsider.com/articles/26/10/11/adt-rumored-to-handle-installations-in-apples-smart-home-push?utm_source=rss)
- - [NASA dumped over 800GB of Artemis II data online](https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data)<!-- TECH:END -->
+ - [Sunday Reboot: Touch MacBook Pro&#39;s nice, but I want macOS on iPad](https://appleinsider.com/articles/26/10/11/sunday-reboot-touch-macbook-pros-nice-but-i-want-macos-on-ipad?utm_source=rss)
+ - [How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted &quot;super intelligence&quot;, as Silicon Valley falls in line with Trump &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261011/p10#a261011p10)
+ - [A college in Illinois tried to cancel its Flock contact and it refused](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
