@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Made Terrible Games With Google’s AI Playground](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)
- - [I’ve tried all the major to-do list apps but keep coming back to this one](https://www.androidauthority.com/keep-coming-back-to-ticktick-3719344/)
- - [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)<!-- TECH:END -->
+ - [Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages &lpar;Tymur Dubovyk/Kyiv Post&rpar;](https://www.techmeme.com/261011/p8#a261011p8)
+ - [ADT rumored to handle installations in Apple&#39;s smart home push](https://appleinsider.com/articles/26/10/11/adt-rumored-to-handle-installations-in-apples-smart-home-push?utm_source=rss)
+ - [NASA dumped over 800GB of Artemis II data online](https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
