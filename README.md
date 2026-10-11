@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well &lpar;Lewis Parker/Kotaku&rpar;](https://www.techmeme.com/261010/p17#a261010p17)
- - [Right on schedule, sources claim iPhone 18 Pro orders have been cut](https://appleinsider.com/articles/26/10/09/right-on-schedule-sources-claim-iphone-18-pro-orders-have-been-cut?utm_source=rss)
- - [Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny &lpar;Financial Times&rpar;](https://www.techmeme.com/261010/p16#a261010p16)<!-- TECH:END -->
+ - [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
+ - [&quot;Super Intelligence systems&quot; are black boxes that shouldn&#39;t be trusted by companies, and strong deterministic systems are needed around their deployment &lpar;Satya Nadella/@satyanadella&rpar;](https://www.techmeme.com/261010/p18#a261010p18)
+ - [Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well &lpar;Lewis Parker/Kotaku&rpar;](https://www.techmeme.com/261010/p17#a261010p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
