@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [See comments](http://9gag.com/gag/a0ovLXO)
- - 🚯 [It&#39; s a nordick tradition](http://9gag.com/gag/aoWm0We)
- - 🚯 [That&#39;s quite the catalogue.](http://9gag.com/gag/a17peGR)<!-- MEMES:END -->
+ - 🚖 [It&#39; s a nordick tradition](http://9gag.com/gag/aoWm0We)
+ - 🚯 [That&#39;s quite the catalogue.](http://9gag.com/gag/a17peGR)
+ - 🚯 [Why would anyone wanna do that? Even the tiger is confused](http://9gag.com/gag/aMdeQRA)<!-- MEMES:END -->
 
 --- 
 
