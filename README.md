@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [See comments](http://9gag.com/gag/a0ovLXO)
- - 🚯 [That&#39;s quite the catalogue.](http://9gag.com/gag/a17peGR)
- - 🚯 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)<!-- MEMES:END -->
+ - 🚖 [Megan Fox Launches Exclusive Paid Content Page](http://9gag.com/gag/awgNKzQ)
+ - 🚯 [Pepsi in Yorkshire zoo](http://9gag.com/gag/a78vbem)
+ - 🚯 [It&#39; s a nordick tradition](http://9gag.com/gag/aoWm0We)<!-- MEMES:END -->
 
 --- 
 
