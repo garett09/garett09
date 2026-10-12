@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#39; s a nordick tradition](http://9gag.com/gag/aoWm0We)
- - 🚯 [That&#39;s quite the catalogue.](http://9gag.com/gag/a17peGR)
- - 🚯 [Why would anyone wanna do that? Even the tiger is confused](http://9gag.com/gag/aMdeQRA)<!-- MEMES:END -->
+ - 🚖 [Megan Fox Launches Exclusive Paid Content Page](http://9gag.com/gag/awgNKzQ)
+ - 🚯 [Conservatives never stood a chance](http://9gag.com/gag/amWq9qv)
+ - 🚯 [Is this allowed ?](http://9gag.com/gag/aNLmKx3)<!-- MEMES:END -->
 
 --- 
 
