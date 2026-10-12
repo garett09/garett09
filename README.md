@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Megan Fox Launches Exclusive Paid Content Page](http://9gag.com/gag/awgNKzQ)
- - 🚯 [Conservatives never stood a chance](http://9gag.com/gag/amWq9qv)
- - 🚯 [Is this allowed ?](http://9gag.com/gag/aNLmKx3)<!-- MEMES:END -->
+ - 🚖 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)
+ - 🚯 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)
+ - 🚯 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)<!-- MEMES:END -->
 
 --- 
 
