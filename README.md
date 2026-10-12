@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sunday Reboot: Touch MacBook Pro&#39;s nice, but I want macOS on iPad](https://appleinsider.com/articles/26/10/11/sunday-reboot-touch-macbook-pros-nice-but-i-want-macos-on-ipad?utm_source=rss)
- - [How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted &quot;super intelligence&quot;, as Silicon Valley falls in line with Trump &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261011/p10#a261011p10)
- - [A college in Illinois tried to cancel its Flock contact and it refused](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras)<!-- TECH:END -->
+ - [Sources: Bain&#39;s Bridge Data Centres is in talks to upsize an existing loan from $2.8B to ~$6.6B, in what would be one of the largest data center deals in Asia &lpar;Kari Soo Lindberg/Bloomberg&rpar;](https://www.techmeme.com/261011/p16#a261011p16)
+ - [LineageOS is getting an early Android 17 upgrade, and there’s plenty more to like](https://www.androidauthority.com/lineageos-24-android-17-3721683/)
+ - [Qualcomm CEO Cristiano Amon says AI companies are &quot;starting to do phones&quot; and asking Qualcomm to support running 100B-parameter local LLMs continuously by 2028 &lpar;Alex Heath/Sources&rpar;](https://www.techmeme.com/261011/p15#a261011p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
