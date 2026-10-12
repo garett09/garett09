@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Bain&#39;s Bridge Data Centres is in talks to upsize an existing loan from $2.8B to ~$6.6B, in what would be one of the largest data center deals in Asia &lpar;Kari Soo Lindberg/Bloomberg&rpar;](https://www.techmeme.com/261011/p16#a261011p16)
- - [LineageOS is getting an early Android 17 upgrade, and there’s plenty more to like](https://www.androidauthority.com/lineageos-24-android-17-3721683/)
- - [Qualcomm CEO Cristiano Amon says AI companies are &quot;starting to do phones&quot; and asking Qualcomm to support running 100B-parameter local LLMs continuously by 2028 &lpar;Alex Heath/Sources&rpar;](https://www.techmeme.com/261011/p15#a261011p15)<!-- TECH:END -->
+ - [Just about all of &#39;No Man&#39;s Sky&#39; is coming to iPhone and iPad](https://appleinsider.com/articles/26/10/12/just-about-all-of-no-mans-sky-is-coming-to-iphone-and-ipad?utm_source=rss)
+ - [They War-Gamed Dimming the Sun. It Went Even Worse Than You Think](https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/)
+ - [Android is the best and worst thing about Googlebooks](https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
