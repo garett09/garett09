@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [sound proofing test 👽](https://www.reddit.com/r/funny/comments/1x4wd6e/sound_proofing_test/)
- - 🚯 [Progress Undoubtedly](http://9gag.com/gag/aYGjKMx)
- - 🚯 [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)<!-- MEMES:END -->
+ - 🚖 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
+ - 🚯 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
+ - 🚯 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)<!-- MEMES:END -->
 
 --- 
 
