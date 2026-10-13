@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)
- - 🚯 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)
- - 🚯 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)<!-- MEMES:END -->
+ - 🚖 [Solid advice from The King](http://9gag.com/gag/aZnqpX9)
+ - 🚯 [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)
+ - 🚯 [Sprite captured by accident by french photographer](http://9gag.com/gag/a17pXw8)<!-- MEMES:END -->
 
 --- 
 
