@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New joint filing shows Epic remains unhappy with Apple at every turn](https://appleinsider.com/articles/26/10/12/new-joint-filing-shows-epic-remains-unhappy-with-apple-at-every-turn?utm_source=rss)
- - [Microsoft President Says AI Has Fewer Regulations Than Milk. So Now What?](https://www.cnet.com/tech/services-and-software/microsoft-president-ai-has-fewer-regulations-than-milk/)
- - [Meta Launches Muse Wonder AI Models to Play Catch-Up With Rivals](https://www.cnet.com/tech/services-and-software/meta-muse-and-wonder-ai-models/)<!-- TECH:END -->
+ - [Watch Apple’s reveal video for the HomeView](https://www.theverge.com/1008810/apple-homeview-reveal-video-watch)
+ - [Two HomeView home hub models evolve Apple&#39;s home strategy at $299 each](https://appleinsider.com/articles/26/10/13/two-homeview-home-hub-models-evolve-apples-home-strategy-at-299-each?utm_source=rss)
+ - [Apple Welcomes HomeView Smart Speaker With Apple Watch-Shaped Screen](https://www.cnet.com/home/smart-home/apple-homeview-smart-speaker-hub-square-screen/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
