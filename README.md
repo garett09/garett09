@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch Apple’s reveal video for the HomeView](https://www.theverge.com/1008810/apple-homeview-reveal-video-watch)
- - [Two HomeView home hub models evolve Apple&#39;s home strategy at $299 each](https://appleinsider.com/articles/26/10/13/two-homeview-home-hub-models-evolve-apples-home-strategy-at-299-each?utm_source=rss)
- - [Apple Welcomes HomeView Smart Speaker With Apple Watch-Shaped Screen](https://www.cnet.com/home/smart-home/apple-homeview-smart-speaker-hub-square-screen/)<!-- TECH:END -->
+ - [A look at OpenAI&#39;s safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique &lpar;The Information&rpar;](https://www.techmeme.com/261013/p45#a261013p45)
+ - [Sorry, audiophiles — Spotify is crashing when playback quality is set to lossless](https://www.androidauthority.com/spotify-lossless-audio-bug-3722831/)
+ - [Apple HomeView accessories will expand what is possible with the home hub](https://appleinsider.com/articles/26/10/13/apple-homeview-accessories-will-expand-what-is-possible-with-the-home-hub?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
