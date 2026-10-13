@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just about all of &#39;No Man&#39;s Sky&#39; is coming to iPhone and iPad](https://appleinsider.com/articles/26/10/12/just-about-all-of-no-mans-sky-is-coming-to-iphone-and-ipad?utm_source=rss)
- - [They War-Gamed Dimming the Sun. It Went Even Worse Than You Think](https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/)
- - [Android is the best and worst thing about Googlebooks](https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing)<!-- TECH:END -->
+ - [New joint filing shows Epic remains unhappy with Apple at every turn](https://appleinsider.com/articles/26/10/12/new-joint-filing-shows-epic-remains-unhappy-with-apple-at-every-turn?utm_source=rss)
+ - [Microsoft President Says AI Has Fewer Regulations Than Milk. So Now What?](https://www.cnet.com/tech/services-and-software/microsoft-president-ai-has-fewer-regulations-than-milk/)
+ - [Meta Launches Muse Wonder AI Models to Play Catch-Up With Rivals](https://www.cnet.com/tech/services-and-software/meta-muse-and-wonder-ai-models/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
