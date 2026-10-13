@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Solid advice from The King](http://9gag.com/gag/aZnqpX9)
- - 🚯 [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)
- - 🚯 [Sprite captured by accident by french photographer](http://9gag.com/gag/a17pXw8)<!-- MEMES:END -->
+ - 🚖 [sound proofing test 👽](https://www.reddit.com/r/funny/comments/1x4wd6e/sound_proofing_test/)
+ - 🚯 [Progress Undoubtedly](http://9gag.com/gag/aYGjKMx)
+ - 🚯 [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)<!-- MEMES:END -->
 
 --- 
 
