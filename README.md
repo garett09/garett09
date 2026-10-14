@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Alexa Tablets prove it’s time for Amazon to make another Android phone](https://www.androidauthority.com/new-alexa-tablets-prove-amazon-should-make-another-android-phone-3722557/)
- - [Ukraine&#39;s drone strikes on Yandex data centers disrupted Yandex&#39;s web crawlers, not Russian political bot operations, as Zelenskyy celebrated &quot;less division&quot; &lpar;Gaby Del Valle/The Verge&rpar;](https://www.techmeme.com/261014/p11#a261014p11)
- - [JackRabbit MG Cargo Bike Review &lpar;2026&rpar;: Compact and Powerful](https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/)<!-- TECH:END -->
+ - [Apple&#39;s $1,499 iPhone Duo repair cost is a strong argument for AppleCare](https://appleinsider.com/articles/26/10/14/apples-1499-iphone-duo-repair-cost-is-a-strong-argument-for-applecare?utm_source=rss)
+ - [Rare Skullcandy Hesh Evo deal cuts 43% off the highly rated headphones](https://www.androidauthority.com/skullcandy-hesh-evo-deal-3723398/)
+ - [Your Android phone is getting these 4 new anti-scam features](https://www.androidauthority.com/android-security-updates-scams-3723072/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
