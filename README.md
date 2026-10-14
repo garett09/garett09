@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s $1,499 iPhone Duo repair cost is a strong argument for AppleCare](https://appleinsider.com/articles/26/10/14/apples-1499-iphone-duo-repair-cost-is-a-strong-argument-for-applecare?utm_source=rss)
- - [Rare Skullcandy Hesh Evo deal cuts 43% off the highly rated headphones](https://www.androidauthority.com/skullcandy-hesh-evo-deal-3723398/)
- - [Your Android phone is getting these 4 new anti-scam features](https://www.androidauthority.com/android-security-updates-scams-3723072/)<!-- TECH:END -->
+ - [Trump Aides Admit the House is a Lost Cause](https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/)
+ - [The iPhone Duo’s screen repair costs make Samsung foldables look like a bargain](https://www.androidauthority.com/iphone-duo-screen-repair-costs-3723480/)
+ - [Elon Musk says the US government owns and controls Starshield systems and &quot;any limits on speed or usage are decided by the US military and ultimately POTUS&quot; &lpar;Elon Musk/@elonmusk&rpar;](https://www.techmeme.com/261014/p40#a261014p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
