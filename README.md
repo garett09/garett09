@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September&#39;s record of 972, which was already ~10x the normal monthly patch load &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/261013/p51#a261013p51)
- - [Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains &lpar;Bloomberg&rpar;](https://www.techmeme.com/261013/p50#a261013p50)
- - [Apple has appealed the $5.7B Taction verdict, arguing jury got it all wrong](https://appleinsider.com/articles/26/10/14/apple-has-appealed-the-57b-taction-verdict-arguing-jury-got-it-all-wrong?utm_source=rss)<!-- TECH:END -->
+ - [The new Alexa Tablets prove it’s time for Amazon to make another Android phone](https://www.androidauthority.com/new-alexa-tablets-prove-amazon-should-make-another-android-phone-3722557/)
+ - [Ukraine&#39;s drone strikes on Yandex data centers disrupted Yandex&#39;s web crawlers, not Russian political bot operations, as Zelenskyy celebrated &quot;less division&quot; &lpar;Gaby Del Valle/The Verge&rpar;](https://www.techmeme.com/261014/p11#a261014p11)
+ - [JackRabbit MG Cargo Bike Review &lpar;2026&rpar;: Compact and Powerful](https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
