@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at OpenAI&#39;s safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique &lpar;The Information&rpar;](https://www.techmeme.com/261013/p45#a261013p45)
- - [Sorry, audiophiles — Spotify is crashing when playback quality is set to lossless](https://www.androidauthority.com/spotify-lossless-audio-bug-3722831/)
- - [Apple HomeView accessories will expand what is possible with the home hub](https://appleinsider.com/articles/26/10/13/apple-homeview-accessories-will-expand-what-is-possible-with-the-home-hub?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September&#39;s record of 972, which was already ~10x the normal monthly patch load &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/261013/p51#a261013p51)
+ - [Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains &lpar;Bloomberg&rpar;](https://www.techmeme.com/261013/p50#a261013p50)
+ - [Apple has appealed the $5.7B Taction verdict, arguing jury got it all wrong](https://appleinsider.com/articles/26/10/14/apple-has-appealed-the-57b-taction-verdict-arguing-jury-got-it-all-wrong?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
