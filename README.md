@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: Democratic senators question Meta&#39;s $6.6B in federal tax credits claimed over the past two years toward costs of building &quot;experimental&quot; AI data centers &lpar;Kashmir Hill/New York Times&rpar;](https://www.techmeme.com/261014/p53#a261014p53)
- - [Flock CEO Garrett Langley defends his company&#39;s cameras, arguing that reducing crime means sacrificing privacy in return and that &quot;we shouldn&#39;t pause progress&quot; &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261014/p52#a261014p52)
- - [Mexican President Claudia Sheinbaum signs a decree banning digital platforms from exposing minors to sexual and violent content, giving them one month to comply &lpar;Reuters&rpar;](https://www.techmeme.com/261014/p51#a261014p51)<!-- TECH:END -->
+ - [A hack of Internet-connected fridge controllers across ~700 European supermarkets exploited critical vulnerabilities in three models flagged by Claroty and CISA &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261015/p16#a261015p16)
+ - [We asked how you feel about yearly smartphone launches, and the results are depressing](https://www.androidauthority.com/annual-smartphone-launches-poll-results-3723423/)
+ - [5 One UI settings I always turn off on my Samsung Galaxy phone](https://www.androidauthority.com/one-ui-settings-always-turn-off-samsung-galaxy-phone-3721814/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
