@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
- - 🚯 [Spiderwoman on duty](http://9gag.com/gag/az57XoK)
- - 🚯 [You may like it or not, but this is what a peak apex predator looks like](http://9gag.com/gag/anOejLq)<!-- MEMES:END -->
+ - 🚯 [Boobie trap](http://9gag.com/gag/abe3MNE)
+ - 🚯 [Get Fkd](http://9gag.com/gag/advy7w9)<!-- MEMES:END -->
 
 --- 
 
