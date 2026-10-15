@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A hack of Internet-connected fridge controllers across ~700 European supermarkets exploited critical vulnerabilities in three models flagged by Claroty and CISA &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261015/p16#a261015p16)
- - [We asked how you feel about yearly smartphone launches, and the results are depressing](https://www.androidauthority.com/annual-smartphone-launches-poll-results-3723423/)
- - [5 One UI settings I always turn off on my Samsung Galaxy phone](https://www.androidauthority.com/one-ui-settings-always-turn-off-samsung-galaxy-phone-3721814/)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Minions&#39; research turns idle Mac GPUs into a virtual GPU cloud](https://appleinsider.com/articles/26/10/15/apples-minions-research-turns-idle-mac-gpus-into-a-virtual-gpu-cloud?utm_source=rss)
+ - [E Ink upgraded the screen found in most color e-readers](https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness)
+ - [The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm](https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
