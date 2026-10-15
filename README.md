@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;Minions&#39; research turns idle Mac GPUs into a virtual GPU cloud](https://appleinsider.com/articles/26/10/15/apples-minions-research-turns-idle-mac-gpus-into-a-virtual-gpu-cloud?utm_source=rss)
- - [E Ink upgraded the screen found in most color e-readers](https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness)
- - [The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm](https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm)<!-- TECH:END -->
+ - [A US official says Trump didn&#39;t order any limitations on Ukraine&#39;s access to SpaceX&#39;s Starshield; Elon Musk said any limits are ultimately decided by POTUS &lpar;Kate Sullivan/Bloomberg&rpar;](https://www.techmeme.com/261015/p49#a261015p49)
+ - [A researcher says modern neural networks are far more interpretable than believed, with most neurons understandable in models up to trillions of parameters &lpar;Nick Cammarata/Goodfire&rpar;](https://www.techmeme.com/261015/p48#a261015p48)
+ - [ANBERNIC is quietly removing a controversial extra from its Android handhelds](https://www.androidauthority.com/anbernic-removing-bundled-microsd-cards-3724043/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
