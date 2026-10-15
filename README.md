@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
- - 🚯 [Should Ukraine attack the Kremlin](http://9gag.com/gag/aNLm1e3)
+ - 🚯 [Get Fkd](http://9gag.com/gag/advy7w9)
  - 🚯 [You may like it or not, but this is what a peak apex predator looks like](http://9gag.com/gag/anOejLq)<!-- MEMES:END -->
 
 --- 
