@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US official says Trump didn&#39;t order any limitations on Ukraine&#39;s access to SpaceX&#39;s Starshield; Elon Musk said any limits are ultimately decided by POTUS &lpar;Kate Sullivan/Bloomberg&rpar;](https://www.techmeme.com/261015/p49#a261015p49)
- - [A researcher says modern neural networks are far more interpretable than believed, with most neurons understandable in models up to trillions of parameters &lpar;Nick Cammarata/Goodfire&rpar;](https://www.techmeme.com/261015/p48#a261015p48)
- - [ANBERNIC is quietly removing a controversial extra from its Android handhelds](https://www.androidauthority.com/anbernic-removing-bundled-microsd-cards-3724043/)<!-- TECH:END -->
+ - [Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base &lpar;Microsoft AI&rpar;](https://www.techmeme.com/261015/p59#a261015p59)
+ - [Apple inadvertently reveals new iPad mini model exists](https://appleinsider.com/articles/26/10/16/apple-inadvertently-reveals-new-ipad-mini-model-exists?utm_source=rss)
+ - [OpenAI continues to work to grow its ad business in ChatGPT, cutting ad rates, chasing small and midsize businesses, and hiring some new talent from Meta &lpar;Alix Coutures/The Information&rpar;](https://www.techmeme.com/261015/p58#a261015p58)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
