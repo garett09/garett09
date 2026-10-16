@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surprise! Meta and Apple Worked Together on a New Open-Source AI Model](https://www.cnet.com/tech/computing/meta-spark-open-ai-apple-news/)
- - [JBL Vibe Buds 2 fall to $39.95 on Amazon, down 33% from RRP](https://www.androidauthority.com/jbl-vibe-buds-2-deal-3724546/)
- - [Readers crown this Android flagship the best iPhone 18 Pro Max alternative](https://www.androidauthority.com/best-iphone-18-pro-max-alternative-poll-results-3724532/)<!-- TECH:END -->
+ - [Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds](https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/)
+ - [Sources: SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots &lpar;Bloomberg&rpar;](https://www.techmeme.com/261016/p19#a261016p19)
+ - [iPhone Duo delivery dates stabilize on late January deliveries for all models](https://appleinsider.com/articles/26/10/16/iphone-duo-delivery-dates-stabilize-on-late-january-deliveries-for-all-models?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
