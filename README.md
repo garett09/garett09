@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 🚯 [Parasites from a bears butt](http://9gag.com/gag/aGLKg9n)
- - 🚯 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)<!-- MEMES:END -->
+ - 🚖 [Great minds at work](http://9gag.com/gag/a5VpR8L)
+ - 🚯 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
+ - 🚯 [Parasites from a bears butt](http://9gag.com/gag/aGLKg9n)<!-- MEMES:END -->
 
 --- 
 
