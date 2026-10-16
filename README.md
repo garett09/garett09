@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases &lpar;Shaurya Malwa/CoinDesk&rpar;](https://www.techmeme.com/261016/p4#a261016p4)
- - [I ignored this Google Maps feature for 10 years, and now I can’t live without it](https://www.androidauthority.com/using-lists-labels-google-maps-3720835/)
- - [Time is a-changin’: say goodbye to the leap second](https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change)<!-- TECH:END -->
+ - [Surprise! Meta and Apple Worked Together on a New Open-Source AI Model](https://www.cnet.com/tech/computing/meta-spark-open-ai-apple-news/)
+ - [JBL Vibe Buds 2 fall to $39.95 on Amazon, down 33% from RRP](https://www.androidauthority.com/jbl-vibe-buds-2-deal-3724546/)
+ - [Readers crown this Android flagship the best iPhone 18 Pro Max alternative](https://www.androidauthority.com/best-iphone-18-pro-max-alternative-poll-results-3724532/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
