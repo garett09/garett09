@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base &lpar;Microsoft AI&rpar;](https://www.techmeme.com/261015/p59#a261015p59)
- - [Apple inadvertently reveals new iPad mini model exists](https://appleinsider.com/articles/26/10/16/apple-inadvertently-reveals-new-ipad-mini-model-exists?utm_source=rss)
- - [OpenAI continues to work to grow its ad business in ChatGPT, cutting ad rates, chasing small and midsize businesses, and hiring some new talent from Meta &lpar;Alix Coutures/The Information&rpar;](https://www.techmeme.com/261015/p58#a261015p58)<!-- TECH:END -->
+ - [OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases &lpar;Shaurya Malwa/CoinDesk&rpar;](https://www.techmeme.com/261016/p4#a261016p4)
+ - [I ignored this Google Maps feature for 10 years, and now I can’t live without it](https://www.androidauthority.com/using-lists-labels-google-maps-3720835/)
+ - [Time is a-changin’: say goodbye to the leap second](https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
