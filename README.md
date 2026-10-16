@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great minds at work](http://9gag.com/gag/a5VpR8L)
- - 🚯 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 🚯 [Parasites from a bears butt](http://9gag.com/gag/aGLKg9n)<!-- MEMES:END -->
+ - 🚖 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
+ - 🚯 [Spiderwoman on duty](http://9gag.com/gag/az57XoK)
+ - 🚯 [Great minds at work](http://9gag.com/gag/a5VpR8L)<!-- MEMES:END -->
 
 --- 
 
