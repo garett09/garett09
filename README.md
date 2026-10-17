@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Generative AI porn apps targeted in App Review Guidelines update](https://appleinsider.com/articles/26/10/17/generative-ai-porn-apps-targeted-in-app-review-guidelines-update?utm_source=rss)
- - [Jad Abumrad loves a butterfly knife and a good springy pillow](https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview)
- - [Zelenskyy says Starshield restrictions are affecting only Ukraine, leading him to believe they are a &quot;planned operation&quot; rather than technical issues &lpar;Bloomberg&rpar;](https://www.techmeme.com/261017/p12#a261017p12)<!-- TECH:END -->
+ - [Turkish police detained Hex and PulseChain founder Richard Heart on Oct. 14, seizing $7M+ in cash and six cold wallets; HEX fell nearly 50% on initial reports &lpar;Zack Abrams/The Block&rpar;](https://www.techmeme.com/261017/p17#a261017p17)
+ - [Apple&#39;s M5 Pro MacBook Pro is back on sale for $2,069 this weekend](https://appleinsider.com/articles/26/10/17/apples-m5-pro-macbook-pro-is-back-on-sale-for-2069-this-weekend?utm_source=rss)
+ - [Bleecker Street says TikTok suspended the Musk documentary account for &quot;political policy&quot; violations and called the suspension &quot;permanent&quot;; Bleecker&#39;s appealing &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](https://www.techmeme.com/261017/p16#a261017p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
