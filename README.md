@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic report on how AI is changing employment at the startup: decline of entry-level technical hiring, productivity boom across departments, and more &lpar;Anthropic&rpar;](https://www.techmeme.com/261016/p30#a261016p30)
- - [Sources: Anthropic is offering Blackstone a 10%+ yield to help finance Anthropic&#39;s $60B debt package to buy Google TPUs; Blackstone would invest $9B in the debt &lpar;Financial Times&rpar;](https://www.techmeme.com/261016/p29#a261016p29)
- - [Survey of Anthropic staffers and US adults: 39% of US adults vs. 91% of staffers expect AI will be able to make a Nobel-level discovery by 2030, and more &lpar;Anthropic&rpar;](https://www.techmeme.com/261016/p28#a261016p28)<!-- TECH:END -->
+ - [An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/261017/p9#a261017p9)
+ - [I never thought I’d ditch Samsung Notes, but this Google Keep feature changed my mind](https://www.androidauthority.com/google-keep-gemini-how-to-use-3720665/)
+ - [I’ve been using an AI agent for a month, and I’m both impressed and terrified](https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
