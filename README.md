@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 🚯 [Abrupt chaos made by a kid](http://9gag.com/gag/aXLZgG6)
- - 🚯 [Hol up](http://9gag.com/gag/a0ovRAq)<!-- MEMES:END -->
+ - 🚖 [Average hospital experience](http://9gag.com/gag/aQg6djq)
+ - 🚯 [Be prepared](http://9gag.com/gag/aO2o7DE)
+ - 🚯 [Average hospital experience](http://9gag.com/gag/aQg6djq)<!-- MEMES:END -->
 
 --- 
 
