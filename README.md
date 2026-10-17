@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/261017/p9#a261017p9)
- - [I never thought I’d ditch Samsung Notes, but this Google Keep feature changed my mind](https://www.androidauthority.com/google-keep-gemini-how-to-use-3720665/)
- - [I’ve been using an AI agent for a month, and I’m both impressed and terrified](https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/)<!-- TECH:END -->
+ - [Generative AI porn apps targeted in App Review Guidelines update](https://appleinsider.com/articles/26/10/17/generative-ai-porn-apps-targeted-in-app-review-guidelines-update?utm_source=rss)
+ - [Jad Abumrad loves a butterfly knife and a good springy pillow](https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview)
+ - [Zelenskyy says Starshield restrictions are affecting only Ukraine, leading him to believe they are a &quot;planned operation&quot; rather than technical issues &lpar;Bloomberg&rpar;](https://www.techmeme.com/261017/p12#a261017p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
