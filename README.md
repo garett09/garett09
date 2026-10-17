@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 🚯 [Complete video of flying Roadster](http://9gag.com/gag/aoWmere)
- - 🚯 [Great minds at work](http://9gag.com/gag/a5VpR8L)<!-- MEMES:END -->
+ - 🚖 [Size Doesn&#39;t Matter](http://9gag.com/gag/ae4KD2m)
+ - 🚯 [Hol up](http://9gag.com/gag/a0ovRAq)
+ - 🚯 [Be prepared](http://9gag.com/gag/aO2o7DE)<!-- MEMES:END -->
 
 --- 
 
