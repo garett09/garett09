@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 🚯 [Spiderwoman on duty](http://9gag.com/gag/az57XoK)
+ - 🚯 [Complete video of flying Roadster](http://9gag.com/gag/aoWmere)
  - 🚯 [Great minds at work](http://9gag.com/gag/a5VpR8L)<!-- MEMES:END -->
 
 --- 
