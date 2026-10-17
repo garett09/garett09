@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds](https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/)
- - [Sources: SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots &lpar;Bloomberg&rpar;](https://www.techmeme.com/261016/p19#a261016p19)
- - [iPhone Duo delivery dates stabilize on late January deliveries for all models](https://appleinsider.com/articles/26/10/16/iphone-duo-delivery-dates-stabilize-on-late-january-deliveries-for-all-models?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic report on how AI is changing employment at the startup: decline of entry-level technical hiring, productivity boom across departments, and more &lpar;Anthropic&rpar;](https://www.techmeme.com/261016/p30#a261016p30)
+ - [Sources: Anthropic is offering Blackstone a 10%+ yield to help finance Anthropic&#39;s $60B debt package to buy Google TPUs; Blackstone would invest $9B in the debt &lpar;Financial Times&rpar;](https://www.techmeme.com/261016/p29#a261016p29)
+ - [Survey of Anthropic staffers and US adults: 39% of US adults vs. 91% of staffers expect AI will be able to make a Nobel-level discovery by 2030, and more &lpar;Anthropic&rpar;](https://www.techmeme.com/261016/p28#a261016p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
