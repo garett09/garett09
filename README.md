@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 🚯 [The tower roof of the 143-year-old Limoges Town Hall collapses to the sounds of cheering and laughter.](http://9gag.com/gag/az57MDK)
- - 🚯 [Average hospital experience](http://9gag.com/gag/aQg6djq)<!-- MEMES:END -->
+ - 🚖 [Connecting dots is apparently a lost art](http://9gag.com/gag/aEMd8Ko)
+ - 🚯 [Be prepared](http://9gag.com/gag/aO2o7DE)
+ - 🚯 [A kid who deserves a slap](http://9gag.com/gag/avW2ALq)<!-- MEMES:END -->
 
 --- 
 
