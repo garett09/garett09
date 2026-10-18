@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more &lpar;Joanna Stern/The New Things&rpar;](https://www.techmeme.com/261017/p20#a261017p20)
- - [Google says &quot;magic state cultivation&quot; works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x &lpar;Google&rpar;](https://www.techmeme.com/261017/p19#a261017p19)
- - [Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a &quot;large scale distillation attack&quot; &lpar;Walter Schulze/Startup Fortune&rpar;](https://www.techmeme.com/261017/p18#a261017p18)<!-- TECH:END -->
+ - [Motorola’s forgotten foldable is the one I’d actually buy](https://www.androidauthority.com/motorola-forgotten-foldable-buy-3722300/)
+ - [Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK](https://www.wired.com/review/valerion-visionmaster-max-4k-projector/)
+ - [5 Android phones you should buy instead of the Samsung Galaxy A16](https://www.androidauthority.com/samsung-galaxy-a16-alternatives-3721499/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
