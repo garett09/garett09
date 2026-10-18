@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Connecting dots is apparently a lost art](http://9gag.com/gag/aEMd8Ko)
- - 🚯 [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 🚯 [A kid who deserves a slap](http://9gag.com/gag/avW2ALq)<!-- MEMES:END -->
+ - 🚖 [Lol.](http://9gag.com/gag/aGLKp8K)
+ - 🚯 [I bet you, he is a 9gager &lpar;hero&rpar; 1:11](http://9gag.com/gag/a4npoKm)
+ - 🚯 [Average hospital experience](http://9gag.com/gag/aQg6djq)<!-- MEMES:END -->
 
 --- 
 
