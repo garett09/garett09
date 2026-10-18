@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo’s fast, comfy SteamOS handheld is hundreds off](https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale)
- - [HomeView follow-up with robot arm rumored to ship in 2027](https://appleinsider.com/articles/26/10/18/homeview-follow-up-with-robot-arm-rumored-to-ship-in-2027?utm_source=rss)
- - [J Mascis has nothing better to do](https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview)<!-- TECH:END -->
+ - [Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261018/p11#a261018p11)
+ - [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review)
+ - [Anthropic says it&#39;s committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise &lpar;Anthropic&rpar;](https://www.techmeme.com/261018/p10#a261018p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
