@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s forgotten foldable is the one I’d actually buy](https://www.androidauthority.com/motorola-forgotten-foldable-buy-3722300/)
- - [Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK](https://www.wired.com/review/valerion-visionmaster-max-4k-projector/)
- - [5 Android phones you should buy instead of the Samsung Galaxy A16](https://www.androidauthority.com/samsung-galaxy-a16-alternatives-3721499/)<!-- TECH:END -->
+ - [Lenovo’s fast, comfy SteamOS handheld is hundreds off](https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale)
+ - [HomeView follow-up with robot arm rumored to ship in 2027](https://appleinsider.com/articles/26/10/18/homeview-follow-up-with-robot-arm-rumored-to-ship-in-2027?utm_source=rss)
+ - [J Mascis has nothing better to do](https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
