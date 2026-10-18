@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turkish police detained Hex and PulseChain founder Richard Heart on Oct. 14, seizing $7M+ in cash and six cold wallets; HEX fell nearly 50% on initial reports &lpar;Zack Abrams/The Block&rpar;](https://www.techmeme.com/261017/p17#a261017p17)
- - [Apple&#39;s M5 Pro MacBook Pro is back on sale for $2,069 this weekend](https://appleinsider.com/articles/26/10/17/apples-m5-pro-macbook-pro-is-back-on-sale-for-2069-this-weekend?utm_source=rss)
- - [Bleecker Street says TikTok suspended the Musk documentary account for &quot;political policy&quot; violations and called the suspension &quot;permanent&quot;; Bleecker&#39;s appealing &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](https://www.techmeme.com/261017/p16#a261017p16)<!-- TECH:END -->
+ - [An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more &lpar;Joanna Stern/The New Things&rpar;](https://www.techmeme.com/261017/p20#a261017p20)
+ - [Google says &quot;magic state cultivation&quot; works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x &lpar;Google&rpar;](https://www.techmeme.com/261017/p19#a261017p19)
+ - [Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a &quot;large scale distillation attack&quot; &lpar;Walter Schulze/Startup Fortune&rpar;](https://www.techmeme.com/261017/p18#a261017p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
