@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261018/p11#a261018p11)
- - [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review)
- - [Anthropic says it&#39;s committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise &lpar;Anthropic&rpar;](https://www.techmeme.com/261018/p10#a261018p10)<!-- TECH:END -->
+ - [Analysis: 795 accounts funded by ADI Predictstreet&#39;s own fee-collecting wallet drove 99% of the FIFA-partnered prediction market&#39;s activity since late August &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261018/p15#a261018p15)
+ - [Europe&#39;s three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment &lpar;Aaron Kirchfeld/Financial Times&rpar;](https://www.techmeme.com/261018/p14#a261018p14)
+ - [SF-based home insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/261018/p13#a261018p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
