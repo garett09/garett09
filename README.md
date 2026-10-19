@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AYN Odin 3 Portal specs reveal Elite horsepower, gigantic battery for this handheld](https://www.androidauthority.com/ayn-odin-3-portal-specs-3724949/)
- - [This Glass Air Fryer-Slow Cooker Combo Is the Best Kitchen Tool I’ve Tested All Year](https://www.cnet.com/home/kitchen-and-household/glass-air-fryer-slow-cooker-combo-is-the-best-kitchen-review/)
- - [Analysis: companies are set for a massive acceleration of 50GW+ in data center capacity additions in 2027; 24GW+ across 40 campuses are in the advanced stages &lpar;Jeremie Eliahou Ontiveros/SemiAnalysis&rpar;](https://www.techmeme.com/261019/p17#a261019p17)<!-- TECH:END -->
+ - [Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261019/p38#a261019p38)
+ - [Razer’s fastest Huntsman keyboard drops back to all-time low](https://www.androidauthority.com/razer-huntsman-v3-pro-gaming-keyboard-3725225/)
+ - [Prism Data, which provides credit-scoring data and analytics that help lenders assess borrowers, raised a $20M Series A led by Story Ventures &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/261019/p37#a261019p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
