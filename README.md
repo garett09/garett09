@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: 795 accounts funded by ADI Predictstreet&#39;s own fee-collecting wallet drove 99% of the FIFA-partnered prediction market&#39;s activity since late August &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261018/p15#a261018p15)
- - [Europe&#39;s three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment &lpar;Aaron Kirchfeld/Financial Times&rpar;](https://www.techmeme.com/261018/p14#a261018p14)
- - [SF-based home insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/261018/p13#a261018p13)<!-- TECH:END -->
+ - [AYN Odin 3 Portal specs reveal Elite horsepower, gigantic battery for this handheld](https://www.androidauthority.com/ayn-odin-3-portal-specs-3724949/)
+ - [This Glass Air Fryer-Slow Cooker Combo Is the Best Kitchen Tool I’ve Tested All Year](https://www.cnet.com/home/kitchen-and-household/glass-air-fryer-slow-cooker-combo-is-the-best-kitchen-review/)
+ - [Analysis: companies are set for a massive acceleration of 50GW+ in data center capacity additions in 2027; 24GW+ across 40 campuses are in the advanced stages &lpar;Jeremie Eliahou Ontiveros/SemiAnalysis&rpar;](https://www.techmeme.com/261019/p17#a261019p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
