@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261019/p38#a261019p38)
- - [Razer’s fastest Huntsman keyboard drops back to all-time low](https://www.androidauthority.com/razer-huntsman-v3-pro-gaming-keyboard-3725225/)
- - [Prism Data, which provides credit-scoring data and analytics that help lenders assess borrowers, raised a $20M Series A led by Story Ventures &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/261019/p37#a261019p37)<!-- TECH:END -->
+ - [Today’s NYT Mini Crossword Answers for Tuesday, Oct. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-20/)
+ - [Inception launches Mercury 3, a diffusion-based LLM it claims is &quot;comparable to Luna and Haiku models&quot; but 4x to 8x faster, generating ~1,000 tokens per second &lpar;Jason Hiner/The Deep View&rpar;](https://www.techmeme.com/261019/p51#a261019p51)
+ - [Korean data-center company Elice falls 30%+ in Kosdaq trading debut; sources: Australian data center operator AirTrunk delays real estate investment trust IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261019/p50#a261019p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
