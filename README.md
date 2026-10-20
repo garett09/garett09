@@ -148,7 +148,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Be honest](http://9gag.com/gag/aO2oedE)
- - 🚯 [Gyros in Paris](http://9gag.com/gag/aAQB0od)
+ - 🚯 [Something about busses](http://9gag.com/gag/aj7Q1d0)
  - 🚯 [On the clock](http://9gag.com/gag/a9zjqBo)<!-- MEMES:END -->
 
 --- 
