@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA proposes measures requiring Apple to provide easier access to its contactless tech and reduce access fees, with a consultation until November 17 &lpar;Paul Sandle/Reuters&rpar;](https://www.techmeme.com/261020/p11#a261020p11)
- - [I’ve used the Pixel 11 Pro XL and iPhone 18 Pro Max, and Apple’s ecosystem isn’t enough anymore](https://www.androidauthority.com/ive-used-the-pixel-11-pro-xl-and-iphone-18-pro-max-3720239/)
- - [Estonia-based web traffic security company Blackwall raised a $100M Series C led by AVP at a $2.2B valuation, after raising a $49.2M Series B in March 2025 &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/261020/p10#a261020p10)<!-- TECH:END -->
+ - [Hatch Sleep Clock Review: A Contactless Sleep Tracker &lpar;2026&rpar;](https://www.wired.com/review/review-hatch-sleep-clock/)
+ - [Sony&#39;s XR patent sale to Meta is a problem for Apple Vision Pro gaming](https://appleinsider.com/articles/26/10/20/sonys-xr-patent-sale-to-meta-is-a-problem-for-apple-vision-pro-gaming?utm_source=rss)
+ - [ASI, which makes AI tools for the military and air traffic controllers, raised a $325M Series C at a $3B valuation, after winning an $875M FAA contract in June &lpar;Bloomberg&rpar;](https://www.techmeme.com/261020/p28#a261020p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
