@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rejection..](http://9gag.com/gag/aBZ9dBD)
- - 🚯 [This film better be good!](http://9gag.com/gag/aBZ9d2x)
+ - 🚖 [Be honest](http://9gag.com/gag/aO2oedE)
+ - 🚯 [Gyros in Paris](http://9gag.com/gag/aAQB0od)
  - 🚯 [On the clock](http://9gag.com/gag/a9zjqBo)<!-- MEMES:END -->
 
 --- 
