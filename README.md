@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hatch Sleep Clock Review: A Contactless Sleep Tracker &lpar;2026&rpar;](https://www.wired.com/review/review-hatch-sleep-clock/)
- - [Sony&#39;s XR patent sale to Meta is a problem for Apple Vision Pro gaming](https://appleinsider.com/articles/26/10/20/sonys-xr-patent-sale-to-meta-is-a-problem-for-apple-vision-pro-gaming?utm_source=rss)
- - [ASI, which makes AI tools for the military and air traffic controllers, raised a $325M Series C at a $3B valuation, after winning an $875M FAA contract in June &lpar;Bloomberg&rpar;](https://www.techmeme.com/261020/p28#a261020p28)<!-- TECH:END -->
+ - [SpaceX will try catching Starship and its booster for first time, Musk says](https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says)
+ - [SpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B &lpar;Becky Peterson/Wall Street Journal&rpar;](https://www.techmeme.com/261020/p47#a261020p47)
+ - [Google Wallet’s receipt scanning has already won over most of you](https://www.androidauthority.com/google-wallet-receipt-scanning-poll-results-3725681/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
