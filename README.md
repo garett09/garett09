@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s NYT Mini Crossword Answers for Tuesday, Oct. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-20/)
- - [Inception launches Mercury 3, a diffusion-based LLM it claims is &quot;comparable to Luna and Haiku models&quot; but 4x to 8x faster, generating ~1,000 tokens per second &lpar;Jason Hiner/The Deep View&rpar;](https://www.techmeme.com/261019/p51#a261019p51)
- - [Korean data-center company Elice falls 30%+ in Kosdaq trading debut; sources: Australian data center operator AirTrunk delays real estate investment trust IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261019/p50#a261019p50)<!-- TECH:END -->
+ - [The UK CMA proposes measures requiring Apple to provide easier access to its contactless tech and reduce access fees, with a consultation until November 17 &lpar;Paul Sandle/Reuters&rpar;](https://www.techmeme.com/261020/p11#a261020p11)
+ - [I’ve used the Pixel 11 Pro XL and iPhone 18 Pro Max, and Apple’s ecosystem isn’t enough anymore](https://www.androidauthority.com/ive-used-the-pixel-11-pro-xl-and-iphone-18-pro-max-3720239/)
+ - [Estonia-based web traffic security company Blackwall raised a $100M Series C led by AVP at a $2.2B valuation, after raising a $49.2M Series B in March 2025 &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/261020/p10#a261020p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
