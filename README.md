@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX will try catching Starship and its booster for first time, Musk says](https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says)
- - [SpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B &lpar;Becky Peterson/Wall Street Journal&rpar;](https://www.techmeme.com/261020/p47#a261020p47)
- - [Google Wallet’s receipt scanning has already won over most of you](https://www.androidauthority.com/google-wallet-receipt-scanning-poll-results-3725681/)<!-- TECH:END -->
+ - [An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](https://www.techmeme.com/261020/p58#a261020p58)
+ - [Thiel&#39;s leaked Rome lectures cast EA and AI &quot;safetyism&quot; as Antichrist forerunners, Bill Gates as &quot;Mr. Hyde&quot;, and Eliezer Yudkowsky as &quot;more Luddite than Greta&quot; &lpar;David Gibson/The Verge&rpar;](https://www.techmeme.com/261020/p57#a261020p57)
+ - [Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261020/p56#a261020p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
