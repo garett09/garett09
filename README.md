@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watchtower, which uses AI and simulation software to help the US Armed Forces make logistical decisions, emerges from stealth with a $35M seed &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/261021/p38#a261021p38)
- - [Save $20 on Anker’s 10-in-1 USB-C Smart Display Hub](https://www.androidauthority.com/anker-usb-c-smart-display-hub-deal-3726222/)
- - [Supernatural’s comeback starts today, with more music and VR workouts coming soon](https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch)<!-- TECH:END -->
+ - [Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users &lpar;Claude&rpar;](https://www.techmeme.com/261021/p49#a261021p49)
+ - [‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms](https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/)
+ - [Filing: Meta says Mark Zuckerberg is considering leaving California if it passes a one-time 5% tax on billionaires; voters will decide on the measure next month &lpar;Pierre Paulden/Bloomberg&rpar;](https://www.techmeme.com/261021/p48#a261021p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
