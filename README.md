@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Be honest](http://9gag.com/gag/aO2oedE)
  - 🚯 [Something about busses](http://9gag.com/gag/aj7Q1d0)
- - 🚯 [On the clock](http://9gag.com/gag/a9zjqBo)<!-- MEMES:END -->
+ - 🚯 [Understandable](http://9gag.com/gag/aNLm91A)<!-- MEMES:END -->
 
 --- 
 
