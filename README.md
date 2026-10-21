@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](https://www.techmeme.com/261020/p58#a261020p58)
- - [Thiel&#39;s leaked Rome lectures cast EA and AI &quot;safetyism&quot; as Antichrist forerunners, Bill Gates as &quot;Mr. Hyde&quot;, and Eliezer Yudkowsky as &quot;more Luddite than Greta&quot; &lpar;David Gibson/The Verge&rpar;](https://www.techmeme.com/261020/p57#a261020p57)
- - [Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261020/p56#a261020p56)<!-- TECH:END -->
+ - [Demis Hassabis says he expects AGI within two to three years, down from his three-to-five-year prediction earlier in 2026, and discusses AI&#39;s science potential &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/261021/p14#a261021p14)
+ - [Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer](https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer/)
+ - [First iPhone Duo unboxing videos surface ahead of official reviews](https://appleinsider.com/articles/26/10/21/first-iphone-duo-unboxing-videos-surface-ahead-of-official-reviews?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
