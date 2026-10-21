@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Demis Hassabis says he expects AGI within two to three years, down from his three-to-five-year prediction earlier in 2026, and discusses AI&#39;s science potential &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/261021/p14#a261021p14)
- - [Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer](https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer/)
- - [First iPhone Duo unboxing videos surface ahead of official reviews](https://appleinsider.com/articles/26/10/21/first-iphone-duo-unboxing-videos-surface-ahead-of-official-reviews?utm_source=rss)<!-- TECH:END -->
+ - [Watchtower, which uses AI and simulation software to help the US Armed Forces make logistical decisions, emerges from stealth with a $35M seed &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/261021/p38#a261021p38)
+ - [Save $20 on Anker’s 10-in-1 USB-C Smart Display Hub](https://www.androidauthority.com/anker-usb-c-smart-display-hub-deal-3726222/)
+ - [Supernatural’s comeback starts today, with more music and VR workouts coming soon](https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
