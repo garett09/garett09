@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
- - 🚯 [Imagine! Most of Americans really looked at this guy and proudly said: `Yep, that\u2019s our president!` TWICE!? - AMERICA, ARE YOU EVEN EMBARRASSED? WTF?!](http://9gag.com/gag/a6DrnXA)
- - 🚯 [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)<!-- MEMES:END -->
+ - 🚖 [What happened](http://9gag.com/gag/aXLZNmD)
+ - 🚯 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
+ - 🚯 [My cat crossed the rainbow bridge](http://9gag.com/gag/aZnqQ0W)<!-- MEMES:END -->
 
 --- 
 
