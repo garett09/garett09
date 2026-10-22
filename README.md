@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched](https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/)
- - [GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq &lpar;Aarian Marshall/Wired&rpar;](https://www.techmeme.com/261021/p59#a261021p59)
- - [A Privacy Company Just Saved the Clearest Flock Surveillance Map I’ve Seen](https://www.cnet.com/news/privacy/proton-hosts-flock-surveillance-map/)<!-- TECH:END -->
+ - [Hugging Face releases Carbon-X, an open-source, 14B-parameter multimodal AI model to let users query DNA sequences via natural language, trained on 300B tokens &lpar;Emily Mullin/Wired&rpar;](https://www.techmeme.com/261022/p15#a261022p15)
+ - [Sony quietly killed a key 5G workaround for Xperia phones](https://www.androidauthority.com/sony-xperia-no-5g-unsupported-markets-3726548/)
+ - [Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization](https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
