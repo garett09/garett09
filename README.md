@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Be honest](http://9gag.com/gag/aO2oedE)
  - 🚯 [What happened](http://9gag.com/gag/aXLZNmD)
- - 🚯 [Disney algorithm having a bit of an identity crisis](http://9gag.com/gag/aD7RnLd)<!-- MEMES:END -->
+ - 🚯 [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)<!-- MEMES:END -->
 
 --- 
 
