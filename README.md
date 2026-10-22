@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hugging Face releases Carbon-X, an open-source, 14B-parameter multimodal AI model to let users query DNA sequences via natural language, trained on 300B tokens &lpar;Emily Mullin/Wired&rpar;](https://www.techmeme.com/261022/p15#a261022p15)
- - [Sony quietly killed a key 5G workaround for Xperia phones](https://www.androidauthority.com/sony-xperia-no-5g-unsupported-markets-3726548/)
- - [Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization](https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/)<!-- TECH:END -->
+ - [Save up to 60% on iPad Magic Keyboards](https://appleinsider.com/articles/26/10/22/save-up-to-60-on-ipad-magic-keyboards?utm_source=rss)
+ - [Sources: Elon Musk has invested roughly $1B in Skydance; in 2022, David Ellison&#39;s father, Larry Ellison, invested $1B in Musk&#39;s deal to take X private &lpar;Rohan Goswami/Semafor&rpar;](https://www.techmeme.com/261022/p37#a261022p37)
+ - [Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’](https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
