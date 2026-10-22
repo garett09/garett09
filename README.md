@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to 60% on iPad Magic Keyboards](https://appleinsider.com/articles/26/10/22/save-up-to-60-on-ipad-magic-keyboards?utm_source=rss)
- - [Sources: Elon Musk has invested roughly $1B in Skydance; in 2022, David Ellison&#39;s father, Larry Ellison, invested $1B in Musk&#39;s deal to take X private &lpar;Rohan Goswami/Semafor&rpar;](https://www.techmeme.com/261022/p37#a261022p37)
- - [Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’](https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion)<!-- TECH:END -->
+ - [Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025 &lpar;Anthropic&rpar;](https://www.techmeme.com/261022/p53#a261022p53)
+ - [Meta&amp;#8217;s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)
+ - [FTC Imposter Scam Threatens to Unplug Your Phone Number](https://www.cnet.com/news/privacy/ftc-alert-phone-impersonation-scam/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
