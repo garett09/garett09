@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users &lpar;Claude&rpar;](https://www.techmeme.com/261021/p49#a261021p49)
- - [‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms](https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/)
- - [Filing: Meta says Mark Zuckerberg is considering leaving California if it passes a one-time 5% tax on billionaires; voters will decide on the measure next month &lpar;Pierre Paulden/Bloomberg&rpar;](https://www.techmeme.com/261021/p48#a261021p48)<!-- TECH:END -->
+ - [Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched](https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/)
+ - [GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq &lpar;Aarian Marshall/Wired&rpar;](https://www.techmeme.com/261021/p59#a261021p59)
+ - [A Privacy Company Just Saved the Clearest Flock Surveillance Map I’ve Seen](https://www.cnet.com/news/privacy/proton-hosts-flock-surveillance-map/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
