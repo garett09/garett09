@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [Be honest](http://9gag.com/gag/aO2oedE)
  - 🚯 [What happened](http://9gag.com/gag/aXLZNmD)
- - 🚯 [Brigtened our dark world](http://9gag.com/gag/arW1AEK)<!-- MEMES:END -->
+ - 🚯 [Disney algorithm having a bit of an identity crisis](http://9gag.com/gag/aD7RnLd)<!-- MEMES:END -->
 
 --- 
 
