@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What happened](http://9gag.com/gag/aXLZNmD)
- - 🚯 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
- - 🚯 [My cat crossed the rainbow bridge](http://9gag.com/gag/aZnqQ0W)<!-- MEMES:END -->
+ - 🚖 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
+ - 🚯 [The Transporter](http://9gag.com/gag/aGLKMVw)
+ - 🚯 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
 
 --- 
 
