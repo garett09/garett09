@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone Duo finally makes its way into customers&#39; hands](https://appleinsider.com/articles/26/10/23/the-iphone-duo-finally-makes-its-way-into-customers-hands?utm_source=rss)
- - [Turtle Beach Vulcan II XP Review: Clicky Compromise](https://www.wired.com/review/turtle-beach-vulcan-xp-ii/)
- - [iPhone Duo buyers line up days early despite high chance of heartbreak](https://appleinsider.com/articles/26/10/22/iphone-duo-buyers-line-up-days-early-despite-high-chance-of-heartbreak?utm_source=rss)<!-- TECH:END -->
+ - [Amazon drops Govee smart light bulbs to $33.99 with a 4.6-star rating](https://www.androidauthority.com/govee-smart-light-bulbs-deal-3727372/)
+ - [Garmin quatix 7 Pro drops to record low on Amazon](https://www.androidauthority.com/garmin-quatix-7-pro-deal-3727359/)
+ - [Sources: Kalshi is targeting a December rollout for exchange-traded futures contracts tracking US inflation, rivaling exchanges like CME and ICE &lpar;Greg Ritchie/Bloomberg&rpar;](https://www.techmeme.com/261023/p12#a261023p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
