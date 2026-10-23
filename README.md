@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon drops Govee smart light bulbs to $33.99 with a 4.6-star rating](https://www.androidauthority.com/govee-smart-light-bulbs-deal-3727372/)
- - [Garmin quatix 7 Pro drops to record low on Amazon](https://www.androidauthority.com/garmin-quatix-7-pro-deal-3727359/)
- - [Sources: Kalshi is targeting a December rollout for exchange-traded futures contracts tracking US inflation, rivaling exchanges like CME and ICE &lpar;Greg Ritchie/Bloomberg&rpar;](https://www.techmeme.com/261023/p12#a261023p12)<!-- TECH:END -->
+ - [Please Don’t Let an AI Bot Log Into Your Bank Account](https://www.cnet.com/tech/services-and-software/please-dont-let-an-ai-bot-log-into-your-bank-account/)
+ - [Sources: Instacart, currently valued at $12B, is in talks to sell itself and held preliminary conversations with DoorDash and Uber; CART jumps 9%+ &lpar;The Information&rpar;](https://www.techmeme.com/261023/p21#a261023p21)
+ - [OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/261023/p20#a261023p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
