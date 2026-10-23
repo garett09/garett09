@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify confirms it is rolling out a new family plan verification method requiring members to scan QR codes on plan managers&#39; phones within seven days of notice &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261022/p60#a261022p60)
- - [US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other &quot;countries of concern&quot; &lpar;Associated Press&rpar;](https://www.techmeme.com/261022/p59#a261022p59)
- - [Appeals court upholds Apple TV&#39;s &#39;Servant&#39; plagiarism lawsuit win](https://appleinsider.com/articles/26/10/23/appeals-court-upholds-apple-tvs-servant-plagiarism-lawsuit-win?utm_source=rss)<!-- TECH:END -->
+ - [The iPhone Duo finally makes its way into customers&#39; hands](https://appleinsider.com/articles/26/10/23/the-iphone-duo-finally-makes-its-way-into-customers-hands?utm_source=rss)
+ - [Turtle Beach Vulcan II XP Review: Clicky Compromise](https://www.wired.com/review/turtle-beach-vulcan-xp-ii/)
+ - [iPhone Duo buyers line up days early despite high chance of heartbreak](https://appleinsider.com/articles/26/10/22/iphone-duo-buyers-line-up-days-early-despite-high-chance-of-heartbreak?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
