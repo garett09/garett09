@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 🚯 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 🚯 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
+ - 🚯 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
+ - 🚯 [Europeans be looking at this and think: this is some serious gourmet sht](http://9gag.com/gag/a5Vpz0G)<!-- MEMES:END -->
 
 --- 
 
