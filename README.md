@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 🚯 [A wedding from parallel universe](http://9gag.com/gag/az57GYq)
- - 🚯 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
+ - 🚖 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
+ - 🚯 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
+ - 🚯 [Island life](http://9gag.com/gag/aoWmLAn)<!-- MEMES:END -->
 
 --- 
 
