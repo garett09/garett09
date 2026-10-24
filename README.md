@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind &lpar;Liv McMahon/BBC&rpar;](https://www.techmeme.com/261023/p26#a261023p26)
- - [OpenAI says it built an &quot;offline world&quot; from cached web content to train isolated frontier models to browse, search for information, and use web apps &lpar;OpenAI&rpar;](https://www.techmeme.com/261023/p25#a261023p25)
- - [Call of Duty Modern Warfare 4 Review: A Dolphin Dive in the Right Direction](https://www.cnet.com/tech/gaming/call-of-duty-modern-warfare-4-review/)<!-- TECH:END -->
+ - [5 streaming boxes you should buy instead of the new Apple TV 4K](https://www.androidauthority.com/best-apple-tv-4k-alternatives-3724871/)
+ - [The Qubitunes Soundstage Toy Is a Great Gift for Kids](https://www.wired.com/story/qubitunes-starter-kit-october-2026/)
+ - [Best Laptops &lpar;2026&rpar;: My Top Recommendations After Testing Hundreds](https://www.wired.com/story/best-laptops/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
