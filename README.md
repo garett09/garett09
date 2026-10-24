@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 🚯 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
- - 🚯 [Europeans be looking at this and think: this is some serious gourmet sht](http://9gag.com/gag/a5Vpz0G)<!-- MEMES:END -->
+ - 🚖 [Who would make the worst god?](http://9gag.com/gag/aD7RbVw)
+ - 🚯 [Just being honest](http://9gag.com/gag/aj7QZmp)
+ - 🚯 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
 
 --- 
 
