@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
- - 🚯 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 🚯 [Island life](http://9gag.com/gag/aoWmLAn)<!-- MEMES:END -->
+ - 🚖 [Title](http://9gag.com/gag/a8AdwyO)
+ - 🚯 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
+ - 🚯 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
 
 --- 
 
