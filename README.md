@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Please Don’t Let an AI Bot Log Into Your Bank Account](https://www.cnet.com/tech/services-and-software/please-dont-let-an-ai-bot-log-into-your-bank-account/)
- - [Sources: Instacart, currently valued at $12B, is in talks to sell itself and held preliminary conversations with DoorDash and Uber; CART jumps 9%+ &lpar;The Information&rpar;](https://www.techmeme.com/261023/p21#a261023p21)
- - [OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/261023/p20#a261023p20)<!-- TECH:END -->
+ - [The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind &lpar;Liv McMahon/BBC&rpar;](https://www.techmeme.com/261023/p26#a261023p26)
+ - [OpenAI says it built an &quot;offline world&quot; from cached web content to train isolated frontier models to browse, search for information, and use web apps &lpar;OpenAI&rpar;](https://www.techmeme.com/261023/p25#a261023p25)
+ - [Call of Duty Modern Warfare 4 Review: A Dolphin Dive in the Right Direction](https://www.cnet.com/tech/gaming/call-of-duty-modern-warfare-4-review/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
