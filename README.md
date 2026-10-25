@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Title](http://9gag.com/gag/a8AdwyO)
+ - 🚖 [Is it?](http://9gag.com/gag/anOeDMq)
  - 🚯 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
- - 🚯 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
+ - 🚯 [Accountability??](http://9gag.com/gag/a6DrpyR)<!-- MEMES:END -->
 
 --- 
 
