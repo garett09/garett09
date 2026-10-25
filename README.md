@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wake up](http://9gag.com/gag/aRL6OVB)
- - 🚯 [`So you have chosen death`](http://9gag.com/gag/aMdeXyX)
- - 🚯 [Title](http://9gag.com/gag/a8AdwyO)<!-- MEMES:END -->
+ - 🚖 [Oral Hygiene](http://9gag.com/gag/aoWmYWn)
+ - 🚯 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
+ - 🚯 [Truly hard working](http://9gag.com/gag/awgN4q8)<!-- MEMES:END -->
 
 --- 
 
