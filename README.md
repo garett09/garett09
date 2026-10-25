@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261025/p8#a261025p8)
- - [Ternus shuffles more Apple roles as long-time executives look to retire](https://appleinsider.com/articles/26/10/25/ternus-shuffles-more-apple-roles-as-long-time-executives-look-to-retire?utm_source=rss)
- - [OLED upgrades for iMac, MacBook Air are planned but still far from launch](https://appleinsider.com/articles/26/10/25/oled-upgrades-for-imac-macbook-air-are-planned-but-still-far-from-launch?utm_source=rss)<!-- TECH:END -->
+ - [Sunday Reboot: Physical logos and a monumental screw-up](https://appleinsider.com/articles/26/10/25/sunday-reboot-physical-logos-and-a-monumental-screw-up?utm_source=rss)
+ - [Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new &quot;delay-in-delivery&quot; coverage from brokers like Marsh &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/261025/p10#a261025p10)
+ - [The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions &lpar;Tom Matsuda/Financial Times&rpar;](https://www.techmeme.com/261025/p9#a261025p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
