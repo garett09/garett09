@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is it?](http://9gag.com/gag/anOeDMq)
- - 🚯 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
- - 🚯 [Accountability??](http://9gag.com/gag/a6DrpyR)<!-- MEMES:END -->
+ - 🚖 [Wake up](http://9gag.com/gag/aRL6OVB)
+ - 🚯 [`So you have chosen death`](http://9gag.com/gag/aMdeXyX)
+ - 🚯 [Title](http://9gag.com/gag/a8AdwyO)<!-- MEMES:END -->
 
 --- 
 
