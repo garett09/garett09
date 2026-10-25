@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oral Hygiene](http://9gag.com/gag/aoWmYWn)
+ - 🚖 [I got cut off](http://9gag.com/gag/az57Z3x)
  - 🚯 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
- - 🚯 [Truly hard working](http://9gag.com/gag/awgN4q8)<!-- MEMES:END -->
+ - 🚯 [How did they do it](http://9gag.com/gag/a2MEb7w)<!-- MEMES:END -->
 
 --- 
 
