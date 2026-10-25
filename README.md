@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool](https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/)
- - [Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries](https://www.wired.com/review/hyve-smart-package-locker/)
- - [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)<!-- TECH:END -->
+ - [Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261025/p8#a261025p8)
+ - [Ternus shuffles more Apple roles as long-time executives look to retire](https://appleinsider.com/articles/26/10/25/ternus-shuffles-more-apple-roles-as-long-time-executives-look-to-retire?utm_source=rss)
+ - [OLED upgrades for iMac, MacBook Air are planned but still far from launch](https://appleinsider.com/articles/26/10/25/oled-upgrades-for-imac-macbook-air-are-planned-but-still-far-from-launch?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
