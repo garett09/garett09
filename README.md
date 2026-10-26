@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California startups have raised a record $385B across seed to growth rounds so far in 2026, or 75%+ of all US startup funding; early and seed stage raised ~$62B &lpar;Joanna Glasner/Crunchbase News&rpar;](https://www.techmeme.com/261026/p17#a261026p17)
- - [The best original Xbox emulator on Android just got a huge performance upgrade](https://www.androidauthority.com/hakux-original-xbox-emulator-android-3727845/)
- - [The ASUS ROG Xbox Ally X20 is the best &lpar;and priciest&rpar; Ally yet](https://www.androidauthority.com/asus-rog-xbox-ally-x20-review-3722864/)<!-- TECH:END -->
+ - [Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50](https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale)
+ - [OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false &lpar;OpenAI&rpar;](https://www.techmeme.com/261026/p48#a261026p48)
+ - [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
