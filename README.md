@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex&#39;s China ties after Airwallex scrapped a Ramp deal &lpar;Michael Roddan/The Information&rpar;](https://www.techmeme.com/261025/p14#a261025p14)
- - [After day-one screen failures, the iPhone Duo is facing more durability questions](https://www.androidauthority.com/iphone-duo-durability-3727717/)
- - [iPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough &lpar;Elizabeth Chamberlain/iFixit News&rpar;](https://www.techmeme.com/261025/p13#a261025p13)<!-- TECH:END -->
+ - [California startups have raised a record $385B across seed to growth rounds so far in 2026, or 75%+ of all US startup funding; early and seed stage raised ~$62B &lpar;Joanna Glasner/Crunchbase News&rpar;](https://www.techmeme.com/261026/p17#a261026p17)
+ - [The best original Xbox emulator on Android just got a huge performance upgrade](https://www.androidauthority.com/hakux-original-xbox-emulator-android-3727845/)
+ - [The ASUS ROG Xbox Ally X20 is the best &lpar;and priciest&rpar; Ally yet](https://www.androidauthority.com/asus-rog-xbox-ally-x20-review-3722864/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
