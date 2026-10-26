@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I got cut off](http://9gag.com/gag/az57Z3x)
- - 🚯 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
- - 🚯 [How did they do it](http://9gag.com/gag/a2MEb7w)<!-- MEMES:END -->
+ - 🚖 [Hell of a song](http://9gag.com/gag/aMdeq2R)
+ - 🚯 [No thx](http://9gag.com/gag/aVgjV2P)
+ - 🚯 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)<!-- MEMES:END -->
 
 --- 
 
