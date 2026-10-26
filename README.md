@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is it?](http://9gag.com/gag/anOeDMq)
- - 🚯 [Title](http://9gag.com/gag/a8AdwyO)
- - 🚯 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)<!-- MEMES:END -->
+ - 🚖 [The Glitch](http://9gag.com/gag/aQg6V4d)
+ - 🚯 [Prepare \ud83e\ude90](http://9gag.com/gag/awgNe21)
+ - 🚯 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)<!-- MEMES:END -->
 
 --- 
 
