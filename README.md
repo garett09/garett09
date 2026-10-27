@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/261027/p10#a261027p10)
- - [My Android phone lights things on fire, and I can’t get enough of it](https://www.androidauthority.com/android-phone-lights-things-on-fire-oukitel-wp63-hands-on-3727363/)
- - [AI Agents Are Media’s New Favorite Audience](https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/)<!-- TECH:END -->
+ - [Avante, which builds an AI platform to help companies manage employee healthcare and other benefits, raised a $30M Series A, following a $10M seed in 2024 &lpar;Kurt Schlosser/GeekWire&rpar;](https://www.techmeme.com/261027/p25#a261027p25)
+ - [The Super Mouse puts a touchscreen macro pad under your hand](https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter)
+ - [Amazon cuts Lenovo’s 8-port USB-C Slim Travel Dock by 23%](https://www.androidauthority.com/lenovo-usb-c-slim-travel-dock-deal-3728619/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
