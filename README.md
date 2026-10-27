@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Avante, which builds an AI platform to help companies manage employee healthcare and other benefits, raised a $30M Series A, following a $10M seed in 2024 &lpar;Kurt Schlosser/GeekWire&rpar;](https://www.techmeme.com/261027/p25#a261027p25)
- - [The Super Mouse puts a touchscreen macro pad under your hand](https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter)
- - [Amazon cuts Lenovo’s 8-port USB-C Slim Travel Dock by 23%](https://www.androidauthority.com/lenovo-usb-c-slim-travel-dock-deal-3728619/)<!-- TECH:END -->
+ - [Google Wallet is working on a new payment option for international travel](https://www.androidauthority.com/google-wallet-alipay-plus-3728672/)
+ - [Score $100 off the XGIMI MoGo 4 portable projector](https://www.androidauthority.com/deal-xgimi-mogo-4-portable-projector-3728743/)
+ - [Google’s working on a new look for Gemini Live, and we have a sneak peek for you](https://www.androidauthority.com/gemini-live-neural-expressive-audio-visualizer-redesign-3728666/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
