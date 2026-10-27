@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Waiting For Bus ..](http://9gag.com/gag/aO2opzy)
- - 🚯 [Meet The Korean Cosplayer Who Went Viral For Kissing Fan At Event](http://9gag.com/gag/aGLKor6)
+ - 🚖 [Meet The Korean Cosplayer Who Went Viral For Kissing Fan At Event](http://9gag.com/gag/aGLKor6)
+ - 🚯 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
  - 🚯 [This is wild](http://9gag.com/gag/agQrKw1)<!-- MEMES:END -->
 
 --- 
