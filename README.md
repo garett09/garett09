@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JAY-Z steps onto the Super Bowl stage after years behind the show](https://appleinsider.com/articles/26/10/27/jay-z-steps-onto-the-super-bowl-stage-after-years-behind-the-show?utm_source=rss)
- - [China&#39;s Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month &lpar;Reuters&rpar;](https://www.techmeme.com/261026/p51#a261026p51)
- - [Ahead of US midterms, ChatGPT draws images &quot;depicting election interference or that may discourage voting&quot; in a cartoon style, ignoring photorealism requests &lpar;Katelyn Chedraoui/CNET&rpar;](https://www.techmeme.com/261026/p50#a261026p50)<!-- TECH:END -->
+ - [Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/261027/p10#a261027p10)
+ - [My Android phone lights things on fire, and I can’t get enough of it](https://www.androidauthority.com/android-phone-lights-things-on-fire-oukitel-wp63-hands-on-3727363/)
+ - [AI Agents Are Media’s New Favorite Audience](https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
