@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro gets touchscreen OLED, and resurrects the glowing Apple logo](https://appleinsider.com/articles/26/10/28/macbook-pro-gets-touchscreen-oled-and-resurrects-the-glowing-apple-logo?utm_source=rss)
- - [Apple&#39;s touchscreen MacBook Pro is the first Mac with the Dynamic Island, offering similar functionality to the iPhone; the Dynamic Island launched in 2022 &lpar;Hartley Charlton/MacRumors&rpar;](https://www.techmeme.com/261028/p42#a261028p42)
- - [Preorders are live for Apple&#39;s new iPad mini, iMac &amp; MacBook Pro lineup](https://appleinsider.com/articles/26/10/28/preorders-are-live-for-apples-new-ipad-mini-imac-macbook-pro-lineup?utm_source=rss)<!-- TECH:END -->
+ - [A hacker stole more than 40,000 DHS employee records](https://www.theverge.com/tech/1021528/ice-cbp-data-leak)
+ - [Soundcore Liberty 4 Pro gets a $40 Amazon discount](https://www.androidauthority.com/deal-soundcore-liberty-4-pro-3729397/)
+ - [Logitech G309 Lightspeed deal brings HERO 25K mouse to $49.99](https://www.androidauthority.com/logitech-g309-lightspeed-deal-3729421/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
