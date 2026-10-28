@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&quot;GIVE HIM A TICKET!&quot; GOES METAL feat Rage against the TICKET.](https://www.reddit.com/r/funny/comments/1xhuzi0/give_him_a_ticket_goes_metal_feat_rage_against/)
- - 🚯 [Tricks in treats...](https://www.reddit.com/r/funny/comments/1xhuysx/tricks_in_treats/)
- - 🚯 [The most complicated thing i did on my PC was modding 3ds.](http://9gag.com/gag/aQg6BA2)<!-- MEMES:END -->
+ - 🚖 [Too Dangerous](http://9gag.com/gag/aGLK60z)
+ - 🚯 [VHS footage](http://9gag.com/gag/ap1KdR8)
+ - 🚯 [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)<!-- MEMES:END -->
 
 --- 
 
