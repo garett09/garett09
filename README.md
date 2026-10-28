@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet is working on a new payment option for international travel](https://www.androidauthority.com/google-wallet-alipay-plus-3728672/)
- - [Score $100 off the XGIMI MoGo 4 portable projector](https://www.androidauthority.com/deal-xgimi-mogo-4-portable-projector-3728743/)
- - [Google’s working on a new look for Gemini Live, and we have a sneak peek for you](https://www.androidauthority.com/gemini-live-neural-expressive-audio-visualizer-redesign-3728666/)<!-- TECH:END -->
+ - [Sources: chipmaker Onsemi is in talks to acquire 16-year-old chip startup Ferric for ~$1B; PitchBook: Ferric last raised a $32.1M Series C in December 2024 &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/261027/p44#a261027p44)
+ - [Letter: two Democratic senators allege the Trump administration withheld a secret FISC ruling on search filters that let analysts access Americans&#39; messages &lpar;Dell Cameron/Wired&rpar;](https://www.techmeme.com/261027/p43#a261027p43)
+ - [SK Hynix plans to return $22B+ in dividends and ~$15B in buybacks to shareholders, on top of its ~$30B buyback program completed in August &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](https://www.techmeme.com/261027/p42#a261027p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
