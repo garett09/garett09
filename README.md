@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Touchscreen iMac almost certainly has dynamic island](https://appleinsider.com/articles/26/10/28/touchscreen-imac-almost-certainly-has-dynamic-island?utm_source=rss)
- - [Sources: Anthropic&#39;s seven cofounders remain extremely influential and personally tight; Daniela Amodei, who runs operations, is seen as a good balance to Dario &lpar;Financial Times&rpar;](https://www.techmeme.com/261028/p20#a261028p20)
- - [What to do about a lost or stolen iPhone before it becomes a bigger mess](https://appleinsider.com/inside/icloud/tips/what-to-do-about-a-lost-or-stolen-iphone-before-it-becomes-a-bigger-mess?utm_source=rss)<!-- TECH:END -->
+ - [MacBook Pro gets touchscreen OLED, and resurrects the glowing Apple logo](https://appleinsider.com/articles/26/10/28/macbook-pro-gets-touchscreen-oled-and-resurrects-the-glowing-apple-logo?utm_source=rss)
+ - [Apple&#39;s touchscreen MacBook Pro is the first Mac with the Dynamic Island, offering similar functionality to the iPhone; the Dynamic Island launched in 2022 &lpar;Hartley Charlton/MacRumors&rpar;](https://www.techmeme.com/261028/p42#a261028p42)
+ - [Preorders are live for Apple&#39;s new iPad mini, iMac &amp; MacBook Pro lineup](https://appleinsider.com/articles/26/10/28/preorders-are-live-for-apples-new-ipad-mini-imac-macbook-pro-lineup?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
