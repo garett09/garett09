@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
- - 🚯 [India\u2019s Aquarium mermaid\u2026Uh.. I am speechless](http://9gag.com/gag/amWqbxv)
- - 🚯 [Think different](http://9gag.com/gag/avW2Xob)<!-- MEMES:END -->
+ - 🚖 [&quot;GIVE HIM A TICKET!&quot; GOES METAL feat Rage against the TICKET.](https://www.reddit.com/r/funny/comments/1xhuzi0/give_him_a_ticket_goes_metal_feat_rage_against/)
+ - 🚯 [Tricks in treats...](https://www.reddit.com/r/funny/comments/1xhuysx/tricks_in_treats/)
+ - 🚯 [The most complicated thing i did on my PC was modding 3ds.](http://9gag.com/gag/aQg6BA2)<!-- MEMES:END -->
 
 --- 
 
