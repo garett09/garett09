@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: chipmaker Onsemi is in talks to acquire 16-year-old chip startup Ferric for ~$1B; PitchBook: Ferric last raised a $32.1M Series C in December 2024 &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/261027/p44#a261027p44)
- - [Letter: two Democratic senators allege the Trump administration withheld a secret FISC ruling on search filters that let analysts access Americans&#39; messages &lpar;Dell Cameron/Wired&rpar;](https://www.techmeme.com/261027/p43#a261027p43)
- - [SK Hynix plans to return $22B+ in dividends and ~$15B in buybacks to shareholders, on top of its ~$30B buyback program completed in August &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](https://www.techmeme.com/261027/p42#a261027p42)<!-- TECH:END -->
+ - [Touchscreen iMac almost certainly has dynamic island](https://appleinsider.com/articles/26/10/28/touchscreen-imac-almost-certainly-has-dynamic-island?utm_source=rss)
+ - [Sources: Anthropic&#39;s seven cofounders remain extremely influential and personally tight; Daniela Amodei, who runs operations, is seen as a good balance to Dario &lpar;Financial Times&rpar;](https://www.techmeme.com/261028/p20#a261028p20)
+ - [What to do about a lost or stolen iPhone before it becomes a bigger mess](https://appleinsider.com/inside/icloud/tips/what-to-do-about-a-lost-or-stolen-iphone-before-it-becomes-a-bigger-mess?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
