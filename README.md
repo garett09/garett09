@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At Last](http://9gag.com/gag/a78vmyA)
+ - 🚖 [Opera singers use this dental device for warm-ups](http://9gag.com/gag/agQrb5g)
  - 🚯 [Too Dangerous](http://9gag.com/gag/aGLK60z)
- - 🚯 [Athletic and fit](http://9gag.com/gag/avW2B5M)<!-- MEMES:END -->
+ - 🚯 [Is this one of the reasons, why women like horses?](http://9gag.com/gag/anOe0vn)<!-- MEMES:END -->
 
 --- 
 
