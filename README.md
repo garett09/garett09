@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How many times are you pressing?](http://9gag.com/gag/aMdeDoX)
- - 🚯 [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
- - 🚯 [You get one for FREE. Which one are you taking?](http://9gag.com/gag/aAQBqmd)<!-- MEMES:END -->
+ - 🚖 [At Last](http://9gag.com/gag/a78vmyA)
+ - 🚯 [Too Dangerous](http://9gag.com/gag/aGLK60z)
+ - 🚯 [Athletic and fit](http://9gag.com/gag/avW2B5M)<!-- MEMES:END -->
 
 --- 
 
