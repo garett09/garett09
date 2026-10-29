@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s Faster Than an F1 Car? The Data Behind the Race](https://www.cnet.com/tech/f1-tech-behind-the-race/)
- - [Kalshi raised $1B led by Sequoia and Wellington Management at a $40B valuation, up from a $22B valuation after raising $1B in May, its last raise before an IPO &lpar;Lauren McCarthy/New York Times&rpar;](https://www.techmeme.com/261029/p23#a261029p23)
- - [Garmin Messenger is placing too much trust in SMS verification, and this might not end well](https://www.androidauthority.com/garmin-messenger-recycled-phone-number-privacy-risk-3729560/)<!-- TECH:END -->
+ - [Coinbase reports Q3 revenue down 35% YoY to $1.22B, in line with est., and net income up 66% to $719M, its first profit in a year, on unrealized crypto gains &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/261029/p57#a261029p57)
+ - [Patrick Stewart, Who Gracefully Steered Star Trek Into Its Next Generation, Dies at 86](https://www.cnet.com/culture/entertainment/patrick-stewart-death-star-trek-next-generation/)
+ - [Google is cleaning up Home’s messiest bugs, with fixes for cameras, Matter devices, and more](https://www.androidauthority.com/google-home-fixes-2-3729774/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
