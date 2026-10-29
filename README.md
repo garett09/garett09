@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A hacker stole more than 40,000 DHS employee records](https://www.theverge.com/tech/1021528/ice-cbp-data-leak)
- - [Soundcore Liberty 4 Pro gets a $40 Amazon discount](https://www.androidauthority.com/deal-soundcore-liberty-4-pro-3729397/)
- - [Logitech G309 Lightspeed deal brings HERO 25K mouse to $49.99](https://www.androidauthority.com/logitech-g309-lightspeed-deal-3729421/)<!-- TECH:END -->
+ - [Bluesky Is Blocking Links to a Major Leak of DHS Employee Records](https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/)
+ - [Samsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/261028/p64#a261028p64)
+ - [Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/261028/p63#a261028p63)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
