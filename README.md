@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky Is Blocking Links to a Major Leak of DHS Employee Records](https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/)
- - [Samsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/261028/p64#a261028p64)
- - [Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/261028/p63#a261028p63)<!-- TECH:END -->
+ - [What’s Faster Than an F1 Car? The Data Behind the Race](https://www.cnet.com/tech/f1-tech-behind-the-race/)
+ - [Kalshi raised $1B led by Sequoia and Wellington Management at a $40B valuation, up from a $22B valuation after raising $1B in May, its last raise before an IPO &lpar;Lauren McCarthy/New York Times&rpar;](https://www.techmeme.com/261029/p23#a261029p23)
+ - [Garmin Messenger is placing too much trust in SMS verification, and this might not end well](https://www.androidauthority.com/garmin-messenger-recycled-phone-number-privacy-risk-3729560/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
