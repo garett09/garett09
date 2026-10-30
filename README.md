@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit is coming for logged-out browsing, and users aren’t having it](https://www.androidauthority.com/reddit-logged-out-browsing-restrictions-3729803/)
- - [Sources: DeepSeek doubled its latest round&#39;s size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% &lpar;The Information&rpar;](https://www.techmeme.com/261029/p71#a261029p71)
- - [S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from &quot;potential disruption&quot; amid geopolitical tensions with China &lpar;Joseph C. Sternberg/Wall Street Journal&rpar;](https://www.techmeme.com/261029/p70#a261029p70)<!-- TECH:END -->
+ - [AI data handling firm Ascend.io acquired by Apple](https://appleinsider.com/articles/26/10/30/ai-data-handling-firm-ascendio-acquired-by-apple?utm_source=rss)
+ - [NAND maker Kioxia reports FY Q2 operating profit up 22x YoY to ~$12.7B, in line with est., but forecasts Q3 operating profit of ~$12.7B, below ~$14.9B est. &lpar;Takashi Mochizuki/Bloomberg&rpar;](https://www.techmeme.com/261030/p11#a261030p11)
+ - [Binance hackers stole $6.3 billion in record-breaking crypto heist](https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
