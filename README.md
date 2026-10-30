@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI caves to backlash and reverses course on reducing ChatGPT usage limits](https://www.androidauthority.com/openai-doubles-chatgpt-usage-limits-3730213/)
- - [Chrome’s working on two text-search upgrades that you’ll actually use](https://www.androidauthority.com/chrome-find-in-page-match-case-navigation-buttons-3730210/)
- - [Bose Lifestyle Ultra Soundbar gets a rare $200 Amazon discount](https://www.androidauthority.com/bose-lifestyle-ultra-soundbar-deal-3730250/)<!-- TECH:END -->
+ - [Apple Watch Ultra 4 falls to $699.99 in first major price cut](https://www.androidauthority.com/apple-watch-ultra-4-deal-3730321/)
+ - [Bose SoundLink Plus drops back to its all-time low on Amazon](https://www.androidauthority.com/bose-soundlink-plus-deal-amazon-3730318/)
+ - [How a Contractor’s Claude Agent Got Into the Pentagon](https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
