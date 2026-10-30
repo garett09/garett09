@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Friday before Halloween.](http://9gag.com/gag/aLL6oZz)
- - 🚯 [Athletic and fit](http://9gag.com/gag/avW2B5M)
- - 🚯 [Happy Friday before Halloween.](http://9gag.com/gag/aLL6oZz)<!-- MEMES:END -->
+ - 🚖 [Would you swap your perfect childhood memory for $500,000?](http://9gag.com/gag/a8AdOG3)
+ - 🚯 [Just opened my external HDD and found this inside](http://9gag.com/gag/a6DrgP8)
+ - 🚯 [Athletic and fit](http://9gag.com/gag/avW2B5M)<!-- MEMES:END -->
 
 --- 
 
