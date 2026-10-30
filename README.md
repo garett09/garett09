@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI data handling firm Ascend.io acquired by Apple](https://appleinsider.com/articles/26/10/30/ai-data-handling-firm-ascendio-acquired-by-apple?utm_source=rss)
- - [NAND maker Kioxia reports FY Q2 operating profit up 22x YoY to ~$12.7B, in line with est., but forecasts Q3 operating profit of ~$12.7B, below ~$14.9B est. &lpar;Takashi Mochizuki/Bloomberg&rpar;](https://www.techmeme.com/261030/p11#a261030p11)
- - [Binance hackers stole $6.3 billion in record-breaking crypto heist](https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist)<!-- TECH:END -->
+ - [OpenAI caves to backlash and reverses course on reducing ChatGPT usage limits](https://www.androidauthority.com/openai-doubles-chatgpt-usage-limits-3730213/)
+ - [Chrome’s working on two text-search upgrades that you’ll actually use](https://www.androidauthority.com/chrome-find-in-page-match-case-navigation-buttons-3730210/)
+ - [Bose Lifestyle Ultra Soundbar gets a rare $200 Amazon discount](https://www.androidauthority.com/bose-lifestyle-ultra-soundbar-deal-3730250/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
