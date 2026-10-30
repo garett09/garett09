@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase reports Q3 revenue down 35% YoY to $1.22B, in line with est., and net income up 66% to $719M, its first profit in a year, on unrealized crypto gains &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/261029/p57#a261029p57)
- - [Patrick Stewart, Who Gracefully Steered Star Trek Into Its Next Generation, Dies at 86](https://www.cnet.com/culture/entertainment/patrick-stewart-death-star-trek-next-generation/)
- - [Google is cleaning up Home’s messiest bugs, with fixes for cameras, Matter devices, and more](https://www.androidauthority.com/google-home-fixes-2-3729774/)<!-- TECH:END -->
+ - [Reddit is coming for logged-out browsing, and users aren’t having it](https://www.androidauthority.com/reddit-logged-out-browsing-restrictions-3729803/)
+ - [Sources: DeepSeek doubled its latest round&#39;s size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% &lpar;The Information&rpar;](https://www.techmeme.com/261029/p71#a261029p71)
+ - [S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from &quot;potential disruption&quot; amid geopolitical tensions with China &lpar;Joseph C. Sternberg/Wall Street Journal&rpar;](https://www.techmeme.com/261029/p70#a261029p70)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
