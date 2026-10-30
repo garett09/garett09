@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [At Last](http://9gag.com/gag/a78vmyA)
- - 🚯 [Waking up next morning aside an alien](http://9gag.com/gag/aqR4VW7)
- - 🚯 [Not much I guess](http://9gag.com/gag/a78vB8m)<!-- MEMES:END -->
+ - 🚖 [Happy Friday before Halloween.](http://9gag.com/gag/aLL6oZz)
+ - 🚯 [Athletic and fit](http://9gag.com/gag/avW2B5M)
+ - 🚯 [Happy Friday before Halloween.](http://9gag.com/gag/aLL6oZz)<!-- MEMES:END -->
 
 --- 
 
