@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [At Last](http://9gag.com/gag/a78vmyA)
  - 🚯 [Waking up next morning aside an alien](http://9gag.com/gag/aqR4VW7)
- - 🚯 [Too Dangerous](http://9gag.com/gag/aGLK60z)<!-- MEMES:END -->
+ - 🚯 [Not much I guess](http://9gag.com/gag/a78vB8m)<!-- MEMES:END -->
 
 --- 
 
