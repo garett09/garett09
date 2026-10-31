@@ -147,8 +147,8 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Would you swap your perfect childhood memory for $500,000?](http://9gag.com/gag/a8AdOG3)
- - 🚯 [Just opened my external HDD and found this inside](http://9gag.com/gag/a6DrgP8)
+ - 🚖 [WINGARDIUM LEVIOOOOUSA](http://9gag.com/gag/a3Gvg8e)
+ - 🚯 [Only one GTA can survive. Which one?](http://9gag.com/gag/a3GvDR7)
  - 🚯 [Athletic and fit](http://9gag.com/gag/avW2B5M)<!-- MEMES:END -->
 
 --- 
