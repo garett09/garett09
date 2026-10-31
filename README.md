@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Niagara-inspired launcher could &lpar;eventually&rpar; be better than the original](https://www.androidauthority.com/niagara-launcher-vs-victoria-launcher-3728983/)
- - [Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights](https://www.wired.com/story/govee-christmas-lights-deal-october-2026/)
- - [There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs](https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/)<!-- TECH:END -->
+ - [Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/261031/p10#a261031p10)
+ - [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code)
+ - [November 2026 Skywatching Guide: Meteors, Planets, Stars and a Full Moon](https://www.cnet.com/science/space/november-2026-skywatching-stars-planets-meteors-moon-guide/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
