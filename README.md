@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/261030/p31#a261030p31)
- - [Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff &lpar;Financial Times&rpar;](https://www.techmeme.com/261030/p30#a261030p30)
- - [Sources: Baseten is raising ~$2B in two tranches, one valuing it at $26B and the other at $30B; Baseten was valued at $13B in June after raising $1.5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261030/p29#a261030p29)<!-- TECH:END -->
+ - [This Niagara-inspired launcher could &lpar;eventually&rpar; be better than the original](https://www.androidauthority.com/niagara-launcher-vs-victoria-launcher-3728983/)
+ - [Govee Christmas Lights 2 Deal: Save $25 on These Smart String Lights](https://www.wired.com/story/govee-christmas-lights-deal-october-2026/)
+ - [There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs](https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
