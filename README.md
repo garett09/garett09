@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/261031/p10#a261031p10)
- - [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code)
- - [November 2026 Skywatching Guide: Meteors, Planets, Stars and a Full Moon](https://www.cnet.com/science/space/november-2026-skywatching-stars-planets-meteors-moon-guide/)<!-- TECH:END -->
+ - [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
+ - [Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker&#39;s ChatGPT share link &lpar;Swati Khandelwal/The Hacker News&rpar;](https://www.techmeme.com/261031/p11#a261031p11)
+ - [Binance CEO says 90 percent of stolen assets have been ‘replenished’](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
