@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 4 falls to $699.99 in first major price cut](https://www.androidauthority.com/apple-watch-ultra-4-deal-3730321/)
- - [Bose SoundLink Plus drops back to its all-time low on Amazon](https://www.androidauthority.com/bose-soundlink-plus-deal-amazon-3730318/)
- - [How a Contractor’s Claude Agent Got Into the Pentagon](https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/)<!-- TECH:END -->
+ - [Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/261030/p31#a261030p31)
+ - [Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff &lpar;Financial Times&rpar;](https://www.techmeme.com/261030/p30#a261030p30)
+ - [Sources: Baseten is raising ~$2B in two tranches, one valuing it at $26B and the other at $30B; Baseten was valued at $13B in June after raising $1.5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261030/p29#a261030p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
