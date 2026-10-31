@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Austria](http://9gag.com/gag/a9zjwEW)
- - 🚯 [Noooo](http://9gag.com/gag/anOeZWL)
- - 🚯 [He&#39;s right you know..](http://9gag.com/gag/a4npyyZ)<!-- MEMES:END -->
+ - 🚖 [I&#39;ve been &lpar;e&rpar;motion captured](http://9gag.com/gag/aEMd40p)
+ - 🚯 [Velma vibin&#39; to spooky music](http://9gag.com/gag/aAQB9V0)
+ - 🚯 [Noooo](http://9gag.com/gag/anOeZWL)<!-- MEMES:END -->
 
 --- 
 
