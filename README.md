@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [I&#39;ve been &lpar;e&rpar;motion captured](http://9gag.com/gag/aEMd40p)
- - 🚯 [Velma vibin&#39; to spooky music](http://9gag.com/gag/aAQB9V0)
- - 🚯 [Noooo](http://9gag.com/gag/anOeZWL)<!-- MEMES:END -->
+ - 🚯 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
+ - 🚯 [Facts!](http://9gag.com/gag/aZnqYnQ)<!-- MEMES:END -->
 
 --- 
 
