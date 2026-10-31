@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WINGARDIUM LEVIOOOOUSA](http://9gag.com/gag/a3Gvg8e)
- - 🚯 [Only one GTA can survive. Which one?](http://9gag.com/gag/a3GvDR7)
- - 🚯 [Athletic and fit](http://9gag.com/gag/avW2B5M)<!-- MEMES:END -->
+ - 🚖 [Austria](http://9gag.com/gag/a9zjwEW)
+ - 🚯 [Noooo](http://9gag.com/gag/anOeZWL)
+ - 🚯 [He&#39;s right you know..](http://9gag.com/gag/a4npyyZ)<!-- MEMES:END -->
 
 --- 
 
