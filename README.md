@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
- - [Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker&#39;s ChatGPT share link &lpar;Swati Khandelwal/The Hacker News&rpar;](https://www.techmeme.com/261031/p11#a261031p11)
- - [Binance CEO says 90 percent of stolen assets have been ‘replenished’](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)<!-- TECH:END -->
+ - [The FBI attributes the $6B+ Binance hack to North Korea&#39;s TraderTraitor hacking group, which the agency also previously blamed for the ~$1.5B Bybit hack &lpar;Kevin Whitelaw/Bloomberg&rpar;](https://www.techmeme.com/261031/p13#a261031p13)
+ - [Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22% &lpar;Washington Post&rpar;](https://www.techmeme.com/261031/p12#a261031p12)
+ - [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
