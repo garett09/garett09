@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Android gaming benchmark app does something I’ve never seen before](https://www.androidauthority.com/evolve-android-gaming-benchmark-app-3724465/)
- - [There’s a Free Video Editor Inside Google Drive That Anyone Can Use](https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/)
- - [The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App](https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/)<!-- TECH:END -->
+ - [OpenAI plans a post-midterms policy and PR blitz, pushing mandatory &quot;speed limits&quot; for powerful AI and rebranding its data centers as &quot;AI compute campuses&quot; &lpar;Axios&rpar;](https://www.techmeme.com/261101/p16#a261101p16)
+ - [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
+ - [How &quot;get-paid-to&quot; apps like Freecash, briefly a top five App Store app in September, pay users small sums to play games and help publishers find big spenders &lpar;John Herrman/New York Magazine&rpar;](https://www.techmeme.com/261101/p15#a261101p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
