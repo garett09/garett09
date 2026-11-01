@@ -148,8 +148,8 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)
- - 🚯 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
- - 🚯 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)<!-- MEMES:END -->
+ - 🚯 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
+ - 🚯 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)<!-- MEMES:END -->
 
 --- 
 
