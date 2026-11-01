@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI attributes the $6B+ Binance hack to North Korea&#39;s TraderTraitor hacking group, which the agency also previously blamed for the ~$1.5B Bybit hack &lpar;Kevin Whitelaw/Bloomberg&rpar;](https://www.techmeme.com/261031/p13#a261031p13)
- - [Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22% &lpar;Washington Post&rpar;](https://www.techmeme.com/261031/p12#a261031p12)
- - [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)<!-- TECH:END -->
+ - [This Android gaming benchmark app does something I’ve never seen before](https://www.androidauthority.com/evolve-android-gaming-benchmark-app-3724465/)
+ - [There’s a Free Video Editor Inside Google Drive That Anyone Can Use](https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/)
+ - [The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App](https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
