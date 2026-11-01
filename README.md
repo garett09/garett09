@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#39;ve been &lpar;e&rpar;motion captured](http://9gag.com/gag/aEMd40p)
- - 🚯 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
- - 🚯 [Facts!](http://9gag.com/gag/aZnqYnQ)<!-- MEMES:END -->
+ - 🚖 [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)
+ - 🚯 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
+ - 🚯 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)<!-- MEMES:END -->
 
 --- 
 
