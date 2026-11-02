@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh Dear...](http://9gag.com/gag/aZnq6pQ)
- - 🚯 [If there is any interest, I will of course share more recipes](http://9gag.com/gag/anOemKL)
- - 🚯 [What do you think Trump&#39;s response will be after Blues will take over in Congress?](http://9gag.com/gag/aRL6bQB)<!-- MEMES:END -->
+ - 🚖 [The fall of European Civilization, The future is Euruskan and Eurasian](http://9gag.com/gag/aD7R5ex)
+ - 🚯 [Recipe calls for 2 scoops of gutter water](http://9gag.com/gag/aGLKmx0)
+ - 🚯 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)<!-- MEMES:END -->
 
 --- 
 
