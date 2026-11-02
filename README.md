@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-powered medical search engine Vera Health, which says it is used by 800,000+ clinicians in 190 countries, raised a $28.5M Series A led by Threshold Ventures &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/261101/p25#a261101p25)
- - [Midstream Health, whose AI tools help 250 hospitals recover revenue from rebates and vendor and payer underpayments, raised a $20M Series A led by Valtrius &lpar;Will Maddox/Axios&rpar;](https://www.techmeme.com/261101/p24#a261101p24)
- - [Google Wallet may soon let you trade convenience for extra payment security](https://www.androidauthority.com/google-wallet-tap-to-pay-verification-settings-3730434/)<!-- TECH:END -->
+ - [Email: OpenAI plans to merge ChatGPT&#39;s Chat and Work tabs on desktop, rolling out to select users before a wider release; Codex remains a separate experience &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261102/p21#a261102p21)
+ - [This new project will let you run SteamOS compatible games on your Mac](https://appleinsider.com/articles/26/11/02/this-new-project-will-let-you-run-steamos-compatible-games-on-your-mac?utm_source=rss)
+ - [Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers](https://www.wired.com/story/mustard-made-sale-october-2026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
