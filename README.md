@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI plans a post-midterms policy and PR blitz, pushing mandatory &quot;speed limits&quot; for powerful AI and rebranding its data centers as &quot;AI compute campuses&quot; &lpar;Axios&rpar;](https://www.techmeme.com/261101/p16#a261101p16)
- - [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
- - [How &quot;get-paid-to&quot; apps like Freecash, briefly a top five App Store app in September, pay users small sums to play games and help publishers find big spenders &lpar;John Herrman/New York Magazine&rpar;](https://www.techmeme.com/261101/p15#a261101p15)<!-- TECH:END -->
+ - [AI-powered medical search engine Vera Health, which says it is used by 800,000+ clinicians in 190 countries, raised a $28.5M Series A led by Threshold Ventures &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/261101/p25#a261101p25)
+ - [Midstream Health, whose AI tools help 250 hospitals recover revenue from rebates and vendor and payer underpayments, raised a $20M Series A led by Valtrius &lpar;Will Maddox/Axios&rpar;](https://www.techmeme.com/261101/p24#a261101p24)
+ - [Google Wallet may soon let you trade convenience for extra payment security](https://www.androidauthority.com/google-wallet-tap-to-pay-verification-settings-3730434/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
