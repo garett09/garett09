@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: OpenAI plans to merge ChatGPT&#39;s Chat and Work tabs on desktop, rolling out to select users before a wider release; Codex remains a separate experience &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261102/p21#a261102p21)
- - [This new project will let you run SteamOS compatible games on your Mac](https://appleinsider.com/articles/26/11/02/this-new-project-will-let-you-run-steamos-compatible-games-on-your-mac?utm_source=rss)
- - [Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers](https://www.wired.com/story/mustard-made-sale-october-2026/)<!-- TECH:END -->
+ - [Anthropic Addresses Video Game Cloning With Minor Claude Update](https://www.cnet.com/tech/gaming/anthropic-claude-update-video-game-cloning/)
+ - [Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/261102/p45#a261102p45)
+ - [Apple&#39;s latest giant education deal: 170,000 MacBook Neo to Philippines](https://appleinsider.com/articles/26/11/02/apples-latest-giant-education-deal-170000-macbook-neo-to-philippines?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
