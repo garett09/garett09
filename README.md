@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is restricting dating apps and romanceable chatbots to over 18s](https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion)
- - [The HUAWEI Watch D3 rocks impressive battery life and health features](https://www.androidauthority.com/huawei-watch-d3-hands-on-3725319/)
- - [Apple may adopt &#39;sputtering&#39; OLED manufacture for brighter displays](https://appleinsider.com/articles/26/11/03/apple-may-adopt-sputtering-oled-manufacture-for-brighter-displays?utm_source=rss)<!-- TECH:END -->
+ - [Canva says it is restructuring, which will impact 1,271 workers, or 22% of its workforce, as it merges its product, growth, and platform teams &lpar;David Swan/The Age&rpar;](https://www.techmeme.com/261103/p37#a261103p37)
+ - [Expedia, Hotels.com and Vrbo Bring More AI to the Travel Booking Experience](https://www.cnet.com/tech/services-and-software/expedia-hotels-com-and-vrbo-bring-more-ai-to-the-travel-booking-experience/)
+ - [Apple officially restricts employee participation in prediction markets](https://appleinsider.com/articles/26/11/03/apple-officially-restricts-employee-participation-in-prediction-markets?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
