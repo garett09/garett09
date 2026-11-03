@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic Addresses Video Game Cloning With Minor Claude Update](https://www.cnet.com/tech/gaming/anthropic-claude-update-video-game-cloning/)
- - [Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/261102/p45#a261102p45)
- - [Apple&#39;s latest giant education deal: 170,000 MacBook Neo to Philippines](https://appleinsider.com/articles/26/11/02/apples-latest-giant-education-deal-170000-macbook-neo-to-philippines?utm_source=rss)<!-- TECH:END -->
+ - [Apple is restricting dating apps and romanceable chatbots to over 18s](https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion)
+ - [The HUAWEI Watch D3 rocks impressive battery life and health features](https://www.androidauthority.com/huawei-watch-d3-hands-on-3725319/)
+ - [Apple may adopt &#39;sputtering&#39; OLED manufacture for brighter displays](https://appleinsider.com/articles/26/11/03/apple-may-adopt-sputtering-oled-manufacture-for-brighter-displays?utm_source=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
