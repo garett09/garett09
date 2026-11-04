@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)
- - 🚯 [A woman gets caught cheating, but gets violent with her husband for catching her and sending her divorce papers. No accountability.](http://9gag.com/gag/aGLKWqw)
- - 🚯 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)<!-- MEMES:END -->
+ - 🚖 [How to avoid being pushed in Japan](http://9gag.com/gag/a6DrWML)
+ - 🚯 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)
+ - 🚯 [How to avoid being pushed in Japan](http://9gag.com/gag/a6DrWML)<!-- MEMES:END -->
 
 --- 
 
