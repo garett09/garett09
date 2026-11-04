@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva says it is restructuring, which will impact 1,271 workers, or 22% of its workforce, as it merges its product, growth, and platform teams &lpar;David Swan/The Age&rpar;](https://www.techmeme.com/261103/p37#a261103p37)
- - [Expedia, Hotels.com and Vrbo Bring More AI to the Travel Booking Experience](https://www.cnet.com/tech/services-and-software/expedia-hotels-com-and-vrbo-bring-more-ai-to-the-travel-booking-experience/)
- - [Apple officially restricts employee participation in prediction markets](https://appleinsider.com/articles/26/11/03/apple-officially-restricts-employee-participation-in-prediction-markets?utm_source=rss)<!-- TECH:END -->
+ - [Google Messages’ pinned chats UI makeover is finally landing for users](https://www.androidauthority.com/google-messages-pinned-chats-redesign-beta-rollout-3731406/)
+ - [How to handle a water spill on your Mac before the damage gets worse](https://appleinsider.com/inside/mac/tips/how-to-handle-a-water-spill-on-your-mac-before-the-damage-gets-worse?utm_source=rss)
+ - [Meta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering &lpar;Bloomberg&rpar;](https://www.techmeme.com/261103/p47#a261103p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
