@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages’ pinned chats UI makeover is finally landing for users](https://www.androidauthority.com/google-messages-pinned-chats-redesign-beta-rollout-3731406/)
- - [How to handle a water spill on your Mac before the damage gets worse](https://appleinsider.com/inside/mac/tips/how-to-handle-a-water-spill-on-your-mac-before-the-damage-gets-worse?utm_source=rss)
- - [Meta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering &lpar;Bloomberg&rpar;](https://www.techmeme.com/261103/p47#a261103p47)<!-- TECH:END -->
+ - [Apple&#39;s Lockdown Mode thwarted by a new persistent iPhone jailbreak](https://appleinsider.com/articles/26/11/04/apples-lockdown-mode-thwarted-by-a-new-persistent-iphone-jailbreak?utm_source=rss)
+ - [What Google Maps looks like on both iPhone Duo displays, after upgrade](https://appleinsider.com/articles/26/11/04/what-google-maps-looks-like-on-both-iphone-duo-displays-after-upgrade?utm_source=rss)
+ - [Waymo plans to end its exclusive robotaxi partnership with Uber in Austin and Atlanta in January 2028 and switch to its own app to improve consistency for users &lpar;Bloomberg&rpar;](https://www.techmeme.com/261104/p28#a261104p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
