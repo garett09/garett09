@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait to see the driver](http://9gag.com/gag/aGLKW3X)
- - 🚯 [A woman gets caught cheating, but gets violent with her husband for catching her and sending her divorce papers. No accountability.](http://9gag.com/gag/aGLKWqw)
- - 🚯 [Wait to see the driver](http://9gag.com/gag/aGLKW3X)<!-- MEMES:END -->
+ - 🚖 [A woman gets caught cheating, but gets violent with her husband for catching her and sending her divorce papers. No accountability.](http://9gag.com/gag/aGLKWqw)
+ - 🚯 [Who wins?](http://9gag.com/gag/a78v4bb)
+ - 🚯 [A woman gets caught cheating, but gets violent with her husband for catching her and sending her divorce papers. No accountability.](http://9gag.com/gag/aGLKWqw)<!-- MEMES:END -->
 
 --- 
 
