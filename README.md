@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Lockdown Mode thwarted by a new persistent iPhone jailbreak](https://appleinsider.com/articles/26/11/04/apples-lockdown-mode-thwarted-by-a-new-persistent-iphone-jailbreak?utm_source=rss)
- - [What Google Maps looks like on both iPhone Duo displays, after upgrade](https://appleinsider.com/articles/26/11/04/what-google-maps-looks-like-on-both-iphone-duo-displays-after-upgrade?utm_source=rss)
- - [Waymo plans to end its exclusive robotaxi partnership with Uber in Austin and Atlanta in January 2028 and switch to its own app to improve consistency for users &lpar;Bloomberg&rpar;](https://www.techmeme.com/261104/p28#a261104p28)<!-- TECH:END -->
+ - [Figma reports Q3 revenue up 43% YoY to $391.4M, above est., gross margin of 80%, below 81% est., and lifts its 2026 revenue outlook; FIG drops 6%+ after hours &lpar;Deborah Mary Sophia/Reuters&rpar;](https://www.techmeme.com/261104/p54#a261104p54)
+ - [Qualcomm is betting big on data centers as smartphone sales sink](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers)
+ - [Samsung is getting the One UI 9.5 beta ready for the Galaxy S26 series](https://www.androidauthority.com/galaxy-s26-one-ui-9-5-beta-in-testing-3731840/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
