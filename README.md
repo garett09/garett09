@@ -149,7 +149,7 @@ while(dev.isCoding() && dev.isStuck())
 <!-- MEMES:START -->
  - 🚖 [How to avoid being pushed in Japan](http://9gag.com/gag/a6DrWML)
  - 🚯 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)
- - 🚯 [How to avoid being pushed in Japan](http://9gag.com/gag/a6DrWML)<!-- MEMES:END -->
+ - 🚯 [Untied myself from monthly subscription payments: old laptop + ~300 EUR Upgrade](http://9gag.com/gag/ae4KX3p)<!-- MEMES:END -->
 
 --- 
 
