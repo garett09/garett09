@@ -147,9 +147,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to avoid being pushed in Japan](http://9gag.com/gag/a6DrWML)
- - 🚯 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)
- - 🚯 [Untied myself from monthly subscription payments: old laptop + ~300 EUR Upgrade](http://9gag.com/gag/ae4KX3p)<!-- MEMES:END -->
+ - 🚖 [Captured in Eagle River, Alaska near Joint Base Elmendorf - Richardson](http://9gag.com/gag/a4npMz1)
+ - 🚯 [How to avoid being pushed in Japan](http://9gag.com/gag/a6DrWML)
+ - 🚯 [Sheesh](http://9gag.com/gag/a0ovmyz)<!-- MEMES:END -->
 
 --- 
 
