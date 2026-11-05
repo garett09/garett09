@@ -140,9 +140,9 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [United Airlines is rolling out a custom native Spotify seatback app across its fleet, letting users log into their accounts, powered by Starlink&#39;s Wi-Fi &lpar;Andrew J. Hawkins/The Verge&rpar;](https://www.techmeme.com/261105/p25#a261105p25)
- - [Apple rolls out Retention Messaging, letting developers present personalized text, images, or special offers to users who are canceling their subscriptions &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/261105/p24#a261105p24)
- - [Motorola Signature 27 brings a 7,000mAh battery and seven years of Android updates for $1,600](https://www.androidauthority.com/motorola-signature-27-launch-3731987/)<!-- TECH:END -->
+ - [6 Best VPN Services &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)
+ - [Motorola introduces Polar-powered Moto Watch 2 Fit and Bose-boosted Moto Buds 2 Ultra](https://www.androidauthority.com/moto-watch-2-fit-and-moto-buds-2-ultra-3732293/)
+ - [The 7 Best Early Black Friday TV Deals &lpar;2026&rpar;](https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
